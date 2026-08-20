@@ -1,9 +1,12 @@
 ---
 id: norm-mad-o1338-2023
-titulo: Orden 1338/2023, de 26 de abril, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se regula la implantación del programa bilingüe en centros docentes de Educación Primaria de la Comunidad de Madrid
+titulo: Orden 1338/2023, de 26 de abril, de la Consejería de Educación, Universidades,
+  Ciencia y Portavocía, por la que se regula la implantación del programa bilingüe
+  en centros docentes de Educación Primaria de la Comunidad de Madrid
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
 numero_disposicion: 1338/2023
 fecha_disposicion: '2023-04-26'
@@ -16,19 +19,19 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Primaria
 tags:
-  - bilinguismo
-  - educacion_primaria
-  - madrid
+- bilinguismo
+- educacion_primaria
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/05/BOCM-20230505-1.PDF
 ---
 # Orden 1338/2023, de 26 de abril, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se regula la implantación del programa bilingüe en centros docentes de Educación Primaria de la Comunidad de Madrid

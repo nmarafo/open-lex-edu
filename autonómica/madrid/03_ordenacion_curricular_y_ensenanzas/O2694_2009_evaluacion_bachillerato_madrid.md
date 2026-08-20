@@ -1,10 +1,12 @@
 ---
 id: norm-mad-o-2694-2009
 codigo_sintetizado: O2694_2009 Evaluacion Bachillerato LOGSE Madrid
-titulo: Orden 2694/2009, de 9 de junio, por la que se regula la evaluación en Bachillerato en Madrid.
+titulo: Orden 2694/2009, de 9 de junio, por la que se regula la evaluación en Bachillerato
+  en Madrid.
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
 numero_disposicion: 2694/2009
 fecha_disposicion: '2009-06-09'
@@ -18,16 +20,16 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Bachillerato
 tags:
-  - bachillerato
-  - evaluacion
-  - madrid
+- bachillerato
+- evaluacion
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-mad-d-29-2013
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Orden 2694/2009, de 9 de junio, por la que se regula la evaluación en Bachillerato en Madrid.
 
@@ -43,9 +45,7 @@ DISPONGO:
 
 #### Artículo 1. Objeto y ámbito de aplicación.
 
-1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Orden 2694/2009.
-
-2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Madrid.
+1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Orden 2694/2009. 2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Madrid.
 
 #### Artículo 2. Principios generales de actuación.
 
@@ -65,8 +65,6 @@ Las Administraciones educativas proveerán los recursos materiales, organizativo
 
 #### Disposición final primera. Habilitación para el desarrollo normativo.
 
-Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Orden 2694/2009.
-
-#### Disposición final segunda. Entrada en vigor.
+Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Orden 2694/2009. #### Disposición final segunda. Entrada en vigor.
 
 La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

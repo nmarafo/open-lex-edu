@@ -41,9 +41,7 @@ un puesto de trabajo en este Departamento, efec-
 
 tuada por Orden de la Consejería de Presiden-
 
-cia, Justicia y Seguridad de 4 de febrero de 2010.
-
-Visto el expediente para la provisión de puestos
+cia, Justicia y Seguridad de 4 de febrero de 2010. Visto el expediente para la provisión de puestos
 
 de trabajo en este Departamento y teniendo en cuen-
 
@@ -63,9 +61,7 @@ cación, Universidades, Cultura y Deportes (BOC nº28,
 
 de 11 de febrero), denominado “Jefe de Servicio del Li-
 
-bro, Archivos y Bibliotecas”, con nº R.P.T. 10930310.
-
-Segundo.- Finalizado el plazo de presentación de
+bro, Archivos y Bibliotecas”, con nº R.P.T. 10930310. Segundo.- Finalizado el plazo de presentación de
 
 solicitudes y visto el informe de fecha 10 de marzo
 
@@ -137,9 +133,7 @@ UNIDAD: Puestos de Apoyo al D.G. del Libro, Archivos y
 
 Bibliotecas.
 
-NÚMERO DEL PUESTO: 10930310.
-
-DENOMINACIÓN DELPUESTO: J/Servicio del Libro, Archi-
+NÚMERO DEL PUESTO: 10930310. DENOMINACIÓN DELPUESTO: J/Servicio del Libro, Archi-
 
 vos y Bibliotecas.
 
@@ -151,17 +145,11 @@ de la lectura, promoción del libro canario en el exterior; coordina-
 
 ción de planes y actividades y demás relativos a su Cuerpo o Escala.
 
-NIVEL: 28.
-
-PUNTOS COMPLEMENTO ESPECÍFICO: 75.
-
-VÍNCULO: funcionario de carrera.
+NIVEL: 28. PUNTOS COMPLEMENTO ESPECÍFICO: 75. VÍNCULO: funcionario de carrera.
 
 ADMINISTRACIÓN DE PROCEDENCIA: indistinta.
 
-GRUPO: A, Subgrupo A1.
-
-ADSCRIPCIÓN CUERPO/ESCALA: A111 (Escala Administra-
+GRUPO: A, Subgrupo A1. ADSCRIPCIÓN CUERPO/ESCALA: A111 (Escala Administra-
 
 dores Generales).
 
@@ -223,9 +211,7 @@ puesto el citado recurso. Todo ello sin perjuicio de cual-
 
 quier otro recurso que se estime oportuno interponer.
 
-Santa Cruz de Tenerife, a 13 de mayo de 2010.
-
-LA CONSEJERA DE EDUCACIÓN,
+Santa Cruz de Tenerife, a 13 de mayo de 2010. LA CONSEJERA DE EDUCACIÓN,
 
 UNIVERSIDADES, CULTURA Y DEPORTES,
 

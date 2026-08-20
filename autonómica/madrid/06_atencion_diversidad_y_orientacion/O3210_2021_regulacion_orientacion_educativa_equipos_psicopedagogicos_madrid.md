@@ -1,10 +1,12 @@
 ---
 id: norm-mad-o-3210-2021
 codigo_sintetizado: O3210_2021 Orientacion Educativa Equipos Psicopedagogicos Madrid
-titulo: Orden 3210/2021, de 28 de octubre, por la que se regula la intervención de los Equipos Psicopedagógicos de orientación educativa.
+titulo: Orden 3210/2021, de 28 de octubre, por la que se regula la intervención de
+  los Equipos Psicopedagógicos de orientación educativa.
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
 numero_disposicion: 3210/2021
 fecha_disposicion: '2021-10-28'
@@ -18,17 +20,17 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Orientación educativa
 tags:
-  - orientacion_psicopedagogica
-  - eoep
-  - dictamenes_escolarizacion
-  - madrid
+- orientacion_psicopedagogica
+- eoep
+- dictamenes_escolarizacion
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-mad-d-29-2013
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-1-1996
 ---
 # Orden 3210/2021, de 28 de octubre, por la que se regula la intervención de los Equipos Psicopedagógicos de orientación educativa.
 

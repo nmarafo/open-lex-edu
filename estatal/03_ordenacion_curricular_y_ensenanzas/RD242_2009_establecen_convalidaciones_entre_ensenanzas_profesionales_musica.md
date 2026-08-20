@@ -1,10 +1,15 @@
 ---
 id: norm-es-2009-3424
 codigo_sintetizado: BOE-A-2009-3424
-titulo: Real Decreto 242/2009, de 27 de febrero, por el que se establecen convalidaciones entre las enseñanzas profesionales de Música y de Danza y la Educación secundaria obligatoria y el Bachillerato, así como los efectos que sobre la materia de Educación física deben tener la condición de deportista de alto nivel o alto rendimiento y las enseñanzas profesionales de Danza.
+titulo: Real Decreto 242/2009, de 27 de febrero, por el que se establecen convalidaciones
+  entre las enseñanzas profesionales de Música y de Danza y la Educación secundaria
+  obligatoria y el Bachillerato, así como los efectos que sobre la materia de Educación
+  física deben tener la condición de deportista de alto nivel o alto rendimiento y
+  las enseñanzas profesionales de Danza.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2009-02-28'
 boletin: BOE
@@ -15,29 +20,26 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Secundaria Obligatoria (ESO)
 tags:
-  - bachillerato
-  - curriculo
-  - educaci-n-secundaria-obligatoria-eso
-  - ensenanzas-artisticas
-  - eso
-  - oposiciones
-  - titulacion
+- bachillerato
+- curriculo
+- educaci-n-secundaria-obligatoria-eso
+- ensenanzas-artisticas
+- eso
+- oposiciones
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-es-lo-2-2006
-  articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - '2'
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 ---
 # Real Decreto 242/2009, de 27 de febrero, por el que se establecen convalidaciones entre las enseñanzas profesionales de Música y de Danza y la Educación secundaria obligatoria y el Bachillerato, así como los efectos que sobre la materia de Educación física deben tener la condición de deportista de alto nivel o alto rendimiento y las enseñanzas profesionales de Danza.
 
@@ -135,9 +137,7 @@ Se habilita al Ministro de Educación, Política Social y Deporte para, en el á
 
 #### Disposición final tercera. Entrada en vigor.
 
-Dado en Madrid, el 27 de febrero de 2009.
-
-JUAN CARLOS R.
+Dado en Madrid, el 27 de febrero de 2009. JUAN CARLOS R.
 
 La Ministra de Educación, Política Social y Deporte,
 
@@ -169,9 +169,7 @@ Música de 1.º a 3.º
 
 Danza.
 
-1.
-
-er curso de Música.
+1. er curso de Música.
 
 Música de 4.º
 
@@ -221,9 +219,7 @@ Historia del arte.
 
 Lenguaje y práctica musical.
 
-3.
-
-er curso de instrumento principal o voz.
+3. er curso de instrumento principal o voz.
 
 Literatura universal.
 
@@ -261,9 +257,7 @@ Historia del arte.
 
 Lenguaje y práctica musical.
 
-3.
-
-er curso de Música.
+3. er curso de Música.
 
 Literatura universal.
 
@@ -305,9 +299,7 @@ Historia de la música y de la danza.
 
 Historia del arte.
 
-1.
-
-er curso de Lenguaje musical.
+1. er curso de Lenguaje musical.
 
 Lenguaje y práctica musical.
 
@@ -343,9 +335,7 @@ Cultura audiovisual.
 
 Historia de la música y de la danza.
 
-1.º y 2.
-
-º cursos de una asignatura de contenido análogo.
+1.º y 2. º cursos de una asignatura de contenido análogo.
 
 Historia del arte.
 

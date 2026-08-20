@@ -1,10 +1,12 @@
 ---
 id: norm-and-d-140-2002
 codigo_sintetizado: D140_2002 Plan Apoyo a las Familias Andaluzas
-titulo: Decreto 140/2002, de 30 de abril, por el que se aprueba el Plan de Apoyo a las Familias Andaluzas.
+titulo: Decreto 140/2002, de 30 de abril, por el que se aprueba el Plan de Apoyo a
+  las Familias Andaluzas.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 140/2002
 fecha_disposicion: '2002-04-30'
@@ -18,18 +20,18 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Servicios escolares
 tags:
-  - plan_familia
-  - comedor
-  - aula_matinal
-  - extraescolares
-  - andalucia
+- plan_familia
+- comedor
+- aula_matinal
+- extraescolares
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Decreto 140/2002, de 30 de abril, por el que se aprueba el Plan de Apoyo a las Familias Andaluzas.
 
@@ -147,9 +149,7 @@ El horario de los centros de atención socio-educativa financiados total o parci
 
 1. En los centros de atención socio-educativa de la Administración de la Junta de Andalucía se ofertarán, a partir de las 17 horas, como servicio complementario, actividades pedagógicas de entretenimiento y juego para los/as niños/as atendidos/as en los mismos y otros/as de igual edad cuyas familias lo soliciten. Del mismo modo, dicho servicio podrá ser ofertado por los centros de atención socio-educativa financiados parcialmente por la Administración de la Junta de Andalucía.
 
-2. Las familias participarán en la financiación de este servicio mediante el abono del precio que se determine en desarrollo del presente Decreto, y que en los centros de la Administración de la Junta de Andalucía tendrá la consideración de precio público, a efectos de lo dispuesto en la Ley 4/1998, de 5 de julio, de tasas y precios públicos de la Comunidad Autónoma de Andalucía. El precio de acceso a este servicio se establecerá de forma diferenciada del fijado para el servicio de atención socio-educativa. Podrán establecerse asimismo bonificaciones, sin que sean de aplicación los requisitos fijados en los subapartados b) y c) del artículo 9 1.
-
-## Capítulo V. Medidas en materia educativa.
+2. Las familias participarán en la financiación de este servicio mediante el abono del precio que se determine en desarrollo del presente Decreto, y que en los centros de la Administración de la Junta de Andalucía tendrá la consideración de precio público, a efectos de lo dispuesto en la Ley 4/1998, de 5 de julio, de tasas y precios públicos de la Comunidad Autónoma de Andalucía. El precio de acceso a este servicio se establecerá de forma diferenciada del fijado para el servicio de atención socio-educativa. Podrán establecerse asimismo bonificaciones, sin que sean de aplicación los requisitos fijados en los subapartados b) y c) del artículo 9 1. ## Capítulo V. Medidas en materia educativa.
 
 #### Sección 1. ª
 

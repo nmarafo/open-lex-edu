@@ -1,10 +1,12 @@
 ---
 id: norm-and-o-16-4-2008
 codigo_sintetizado: O16_4_2008 Autoproteccion Centros Docentes Andalucía
-titulo: Orden de 16 de abril de 2008, por la que se regulan las medidas de autoprotección y prevención de riesgos en centros docentes.
+titulo: Orden de 16 de abril de 2008, por la que se regulan las medidas de autoprotección
+  y prevención de riesgos en centros docentes.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 16/04/2008
 fecha_disposicion: '2008-04-16'
@@ -18,18 +20,18 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Prevención de riesgos
 tags:
-  - autoproteccion
-  - simulacros
-  - prevencion_riesgos
-  - andalucia
+- autoproteccion
+- simulacros
+- prevencion_riesgos
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
 ---
 # Orden de 16 de abril de 2008, por la que se regulan las medidas de autoprotección y prevención de riesgos en centros docentes.
 
@@ -88,8 +90,7 @@ b) Titulaciones equivalentes, a efectos académicos y profesionales, a Técnico 
 
 Sevilla, 6 de mayo 2008 Página núm. 11 A.1.2. Titulaciones universitarias con atribuciones profesionales específicas RITE-07. Los titulados técnicos universitarios de grado superior o medio con atribuciones profesionales que les habiliten para el ejercicio de la actividad regulada en el RITE-07 pueden obtener directamente el carné previa solicitud en las Delegaciones Provinciales de la Consejería de la Junta de Andalucía, competente en materia de energía, de acuerdo con lo establecido en el apartado 3 del artículo 42 l.
 
-RITE-07 y la definición de «técnico titulado competente» del Apéndice 1 del RITE-07. Quienes acrediten estar en posesión del título de Ingeniero Técnico Industrial o Ingeniero Industrial en sus diferentes especialidades, por la competencia legal que tienen para la realización de la actividad regulada en el RITE-07, podrán obtener directamente el carné, previa solicitud en las Delegaciones Provinciales de la Consejería de la Junta de Andalucía, competente en materia de energía, bastando con la presentación de una copia compulsada del título académico. A.2. Obtención del carné mediante superación del examen establecido en el apartado 1.c) del artículo 42 del RITE-07. A.2.1. Titulaciones o certificados de estudios de formación profesional. Estas titulaciones se podrán presentar a examen sin necesidad de superar el curso teórico-práctico impartido por entidad reconocida establecido en el apartado 1.b.2.1 del artículo 42 del RITE-07.
-a) A los efectos de acceso a la obtención de estos carnés y de acuerdo con el Anexo II del citado Real Decreto 777/1998, de 30 de abril, son equivalentes, a efectos profesionales, a la titulación de Técnico de Grado Medio de Montaje y Mantenimiento de Instalaciones de Frío, Climatización y Producción de Calor las siguientes:
+RITE-07 y la definición de «técnico titulado competente» del Apéndice 1 del RITE-07. Quienes acrediten estar en posesión del título de Ingeniero Técnico Industrial o Ingeniero Industrial en sus diferentes especialidades, por la competencia legal que tienen para la realización de la actividad regulada en el RITE-07, podrán obtener directamente el carné, previa solicitud en las Delegaciones Provinciales de la Consejería de la Junta de Andalucía, competente en materia de energía, bastando con la presentación de una copia compulsada del título académico. A.2. Obtención del carné mediante superación del examen establecido en el apartado 1.c) del artículo 42 del RITE-07. A.2.1. Titulaciones o certificados de estudios de formación profesional. Estas titulaciones se podrán presentar a examen sin necesidad de superar el curso teórico-práctico impartido por entidad reconocida establecido en el apartado 1.b.2.1 del artículo 42 del RITE-07. a) A los efectos de acceso a la obtención de estos carnés y de acuerdo con el Anexo II del citado Real Decreto 777/1998, de 30 de abril, son equivalentes, a efectos profesionales, a la titulación de Técnico de Grado Medio de Montaje y Mantenimiento de Instalaciones de Frío, Climatización y Producción de Calor las siguientes:
 • Formación Profesional de Primer Grado:
 - Fontanería (rama Construcción y Obras).
 • Módulos Profesionales de Nivel 2:
@@ -116,8 +117,7 @@ Página núm. 12 Sevilla, 6 de mayo 2008 el órgano competente en materia educat
 
 3. Certificado expedido por la entidad de formación relativo a la superación del curso de formación exigible.
 
-4. Justificación del abono de la tasas correspondientes, mediante el modelo 046.
-Quinto. Expedición de carné profesional en instalaciones térmicas de edificios (RITE-07).
+4. Justificación del abono de la tasas correspondientes, mediante el modelo 046. Quinto. Expedición de carné profesional en instalaciones térmicas de edificios (RITE-07).
 
 1. Una vez publicada la lista de aprobados, los aspirantes deberán solicitar, a excepción de lo señalado en el apartado 5.2 de la presente Resolución, la expedición del carné correspondiente para lo cual deberán presentar los siguientes documentos:
 a) Solicitud de expedición de carné, incluyendo sus datos personales.
@@ -125,12 +125,9 @@ b) Dos fotografías recientes en color, tamaño carné.
 
 2. Expedición de los carnés profesionales de instalaciones térmicas en edificios (RITE-07) a quienes deben acreditar la experiencia laboral reglamentaria. Quienes hayan superado los cursos teórico-prácticos previstos en el apartado 1.b.2.1 del artículo 42 l.
 
-RITE-07 en una entidad de formación reconocida y aprobado los exámenes de la convocatoria, deben solicitar la expedición de este carné, en un plazo de cinco años desde la publicación de la lista de aprobados, con presentación de la documentación correspondiente señalada en el apartado 5.1 de la presente Resolución y en cuanto a la acreditación de la experiencia laboral, lo indicado en el apartado 3.A.3.1 de la presente Resolución. En cualquier caso, aunque los interesados aprobasen los exámenes previos a la obtención del carné, no podrán obtener este si no acreditasen la experiencia legal reglamentaria. Una vez expedido el carné profesional, la Delegación Provincial de la Consejería de la Junta de Andalucía, competente en materia de energía, procederá a inscribirlo en el preceptivo Registro de carné profesional de Instalaciones Térmicas de Edificios CITE (RITE-07), correspondiente a su ámbito territorial, tal como prescribe el artículo 41.4 del RITE-07.
-Sexto. Requisitos de acreditación de la Entidades de Formación Autorizadas en el Reglamento de Instalaciones Térmicas en los Edificios (RITE-07).
+RITE-07 en una entidad de formación reconocida y aprobado los exámenes de la convocatoria, deben solicitar la expedición de este carné, en un plazo de cinco años desde la publicación de la lista de aprobados, con presentación de la documentación correspondiente señalada en el apartado 5.1 de la presente Resolución y en cuanto a la acreditación de la experiencia laboral, lo indicado en el apartado 3.A.3.1 de la presente Resolución. En cualquier caso, aunque los interesados aprobasen los exámenes previos a la obtención del carné, no podrán obtener este si no acreditasen la experiencia legal reglamentaria. Una vez expedido el carné profesional, la Delegación Provincial de la Consejería de la Junta de Andalucía, competente en materia de energía, procederá a inscribirlo en el preceptivo Registro de carné profesional de Instalaciones Térmicas de Edificios CITE (RITE-07), correspondiente a su ámbito territorial, tal como prescribe el artículo 41.4 del RITE-07. Sexto. Requisitos de acreditación de la Entidades de Formación Autorizadas en el Reglamento de Instalaciones Térmicas en los Edificios (RITE-07).
 
-1. El artículo 42, apartado 1.b.2.1, del RITE-07, hace referencia a que el curso teórico y práctico de conocimientos básicos y otro sobre conocimientos específicos en instalaciones térmicas de edificios, serán impartidos por una entidad reconocida por el órgano competente de la Comunidad Autónoma. El articulado del RITE-07 no especifica los requisitos necesarios para ser entidad de formación autorizada. El reconocimiento y autorización de Entidades de Formación para el área de instalaciones térmicas de edificios, a nivel autonómico, así como la inscripción en el correspondiente registro, no está regulado específicamente, si bien se mantiene esencialmente, para el mismo caso, el criterio establecido por la Dirección General de la Energía, contemplado en el anterior Reglamento de Instalaciones de Calefacción, Climatización y A.C.S. (Real Decreto 1618/1980, de 4 de julio). Por todo lo anterior, se hace necesario definir en la presente Resolución, los requisitos de acreditación de las Entidades de Formación Autorizadas en el RITE-07.
-
-2. Las Entidades de Formación Autorizadas en el Reglamento de Instalaciones Térmicas en los Edificios (RITE-07) serán todos los centros oficiales, tantos públicos como privados, siguientes:
+1. El artículo 42, apartado 1.b.2.1, del RITE-07, hace referencia a que el curso teórico y práctico de conocimientos básicos y otro sobre conocimientos específicos en instalaciones térmicas de edificios, serán impartidos por una entidad reconocida por el órgano competente de la Comunidad Autónoma. El articulado del RITE-07 no especifica los requisitos necesarios para ser entidad de formación autorizada. El reconocimiento y autorización de Entidades de Formación para el área de instalaciones térmicas de edificios, a nivel autonómico, así como la inscripción en el correspondiente registro, no está regulado específicamente, si bien se mantiene esencialmente, para el mismo caso, el criterio establecido por la Dirección General de la Energía, contemplado en el anterior Reglamento de Instalaciones de Calefacción, Climatización y A.C.S. (Real Decreto 1618/1980, de 4 de julio). Por todo lo anterior, se hace necesario definir en la presente Resolución, los requisitos de acreditación de las Entidades de Formación Autorizadas en el RITE-07. 2. Las Entidades de Formación Autorizadas en el Reglamento de Instalaciones Térmicas en los Edificios (RITE-07) serán todos los centros oficiales, tantos públicos como privados, siguientes:
 a) Centros de Formación Profesional Específica, adscritos a la Consejería de Educación.
 b) Centros Colaboradores Homologados por el Servicio Andaluz de Empleo en la Especialidades de Formación Profesional Ocupacional, denominadas:
 Instalador de Calefacción y Agua caliente Sanitaria (EOCI61-530h), Instalador Mantenedor-Reparador de Calefacción y Agua caliente Sanitaria (EOCI60-784h), Mantenedor-Reparador de Calefacción y Agua caliente Sanitaria (EOCI62-485h), Reparador-Mantenedor de Instalaciones de Fontanería y Calefacción (EOCI02-315h), Instalador de Climatización (IMAF13-500h), Mantenedor de Aire Acondicionado y Fluidos (IMAC10-920h), Mantenedor-Reparador de Instalaciones de Climatización (IMAC11-470h), así como los Centros propios adscritos al Servicio Andaluz de Empleo gestionados directamente por el mismo Organismo Autónomo.
@@ -215,11 +212,7 @@ CI/A (RITE-98). CI/B (RITE-98). CM/A (RITE-98). CM/B (RITE-98), respectivamente.
 a) Solicitud de puesta en funcionamiento de actividades e instalaciones industriales (formulario 000580/2) (BOJA núm. 51, de 20 de junio de 2005, página 51). En el bloque libre del apartado 4, se indicará la siguiente leyenda «Disp.T.1ª- RITE-98».
 b) Ficha Técnica Descriptiva –Instalaciones de Calefacción, Climatización y Agua Caliente Sanitaria (formulario 000590/2) (BOJA núm. 51, de 20 de junio de 2005, página 57). Será responsabilidad exclusiva del titular que la instalación que se presenta a la Administración realmente se encuentra en el ámbito de aplicación de la Disposición transitoria
 
-#### Primera. del Real Decreto 1027/2007.
-
-Sin perjuicio de lo anterior, la Administración podrá realizar las actividades de control, inspección y régimen sancionador, que regula el Capítulo III de la Orden de 27 de mayo de 2005.
-
-#### Duodécimo. Supuestos excepcionales.
+#### Primera. del Real Decreto 1027/2007. Sin perjuicio de lo anterior, la Administración podrá realizar las actividades de control, inspección y régimen sancionador, que regula el Capítulo III de la Orden de 27 de mayo de 2005. #### Duodécimo. Supuestos excepcionales.
 
 Cualquier situación excepcional derivada de la aplicación de esta Resolución será resuelta por la Dirección General de Industria, Energía y Minas, presentándose solicitud a través de las Delegaciones Provinciales de la Consejería de Innovación, Ciencia y Empresa, que emitirán informe previo a la resolución, que adoptará la Dirección General de Industria, Energía y Minas sobre el asunto planteado. Decimotercero. Entrada en vigor. La presente Resolución deberá ser publicada en el Boletín Oficial de la Junta de Andalucía. Su entrada en vigor se producirá el día siguiente al de su publicación. Contra la presente Resolución, que no pone fin a la vía administrativa, se podrá interponer recurso de alzada, ante el Excmo. Sr. Consejero de Innovación, Ciencia y Empresa, en el plazo de un mes contado a partir del día de su notificación
 

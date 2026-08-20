@@ -1,10 +1,14 @@
 ---
 id: norm-es-rd-1364-2010
 codigo_sintetizado: RD1364_2010 Regulacion del Concurso de Traslados Docente
-titulo: Real Decreto 1364/2010, de 29 de octubre, por el que se regula el concurso de traslados de ámbito estatal entre personal funcionario de los cuerpos docentes contemplados en la Ley Orgánica 2/2006, de 3 de mayo, de Educación y otros procedimientos de provisión de plazas a cubrir por los mismos.
+titulo: Real Decreto 1364/2010, de 29 de octubre, por el que se regula el concurso
+  de traslados de ámbito estatal entre personal funcionario de los cuerpos docentes
+  contemplados en la Ley Orgánica 2/2006, de 3 de mayo, de Educación y otros procedimientos
+  de provisión de plazas a cubrir por los mismos.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto
 numero_disposicion: 1364/2010
 fecha_disposicion: '2010-10-29'
@@ -18,42 +22,39 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Selección y provisión de puestos
 tags:
-  - admision-alumnado
-  - baremo-meritos
-  - concurso-traslados
-  - curriculo
-  - ebep
-  - movilidad-docente
-  - oposiciones
-  - plantillas-docentes
-  - procedimiento-administrativo
-  - profesorado
-  - provision-plazas
-  - selecci-n-y-provisi-n-de-puestos
+- admision-alumnado
+- baremo-meritos
+- concurso-traslados
+- curriculo
+- ebep
+- movilidad-docente
+- oposiciones
+- plantillas-docentes
+- procedimiento-administrativo
+- profesorado
+- provision-plazas
+- selecci-n-y-provisi-n-de-puestos
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-es-1984-17387
-    - norma_id: norm-es-1995-22212
-    - norma_id: norm-es-1998-10720
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-1995-22212
+  - norma_id: norm-es-1998-10720
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-rdl-5-2015
   fundamento_de:
-    - norma_id: norm-es-2022-16194
+  - norma_id: norm-es-2022-16194
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - Disposición adicional sexta
-    - norma_id: norm-es-rdl-5-2015
-  articulos:
-    - '1'
-    - norma_id: norm-es-1984-17387
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-1995-22212
-    - norma_id: norm-es-1998-10720
+  - '1'
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-1995-22212
+  - norma_id: norm-es-1998-10720
 ---
 # Real Decreto 1364/2010, de 29 de octubre, por el que se regula el concurso de traslados de ámbito estatal entre personal funcionario de los cuerpos docentes contemplados en la Ley Orgánica 2/2006, de 3 de mayo, de Educación y otros procedimientos de provisión de plazas a cubrir por los mismos.
 
@@ -211,9 +212,7 @@ e) Por reincorporación a la docencia en España, de conformidad con los artícu
 f) En virtud de ejecución de sentencia o resolución de recurso administrativo.
 g) Cuando tras haber sido declarado jubilado por incapacidad permanente haya sido rehabilitado para el servicio activo.
 
-2. Cuando concurran dos o más funcionarias o funcionarios de carrera en los que se den las circunstancias señaladas en el apartado anterior, se adjudicará la plaza a quien cuente con mayor puntuación en la aplicación del baremo de méritos a que se refiere el artículo 19.
-
-#### Artículo 18. Derecho de concurrencia.
+2. Cuando concurran dos o más funcionarias o funcionarios de carrera en los que se den las circunstancias señaladas en el apartado anterior, se adjudicará la plaza a quien cuente con mayor puntuación en la aplicación del baremo de méritos a que se refiere el artículo 19. #### Artículo 18. Derecho de concurrencia.
 
 1. A los efectos de la participación en el concurso de traslados de ámbito estatal, se entiende por derecho de concurrencia la posibilidad de que varios funcionarios o funcionarias de carrera con destino definitivo condicionen su voluntaria participación en el concurso a la obtención de destino en uno o varios centros de una provincia determinada. Podrá hacer uso de esta modalidad de participación el personal funcionario de carrera de un mismo cuerpo docente. Además, el personal funcionario de carrera de los Cuerpos de Catedráticos de Enseñanza Secundaria, de Escuelas Oficiales de Idiomas y de Artes Plásticas y Diseño podrá participar conjuntamente con el personal funcionario de los respectivos cuerpos de profesores de los mismos niveles de enseñanza.
 

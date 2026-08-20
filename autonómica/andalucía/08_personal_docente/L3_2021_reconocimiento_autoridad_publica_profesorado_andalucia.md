@@ -1,9 +1,11 @@
 ---
 id: norm-and-l3-2021
-titulo: Ley 3/2021, de 26 de julio, de Reconocimiento de la autoridad pública del profesorado en la Comunidad Autónoma de Andalucía
+titulo: Ley 3/2021, de 26 de julio, de Reconocimiento de la autoridad pública del
+  profesorado en la Comunidad Autónoma de Andalucía
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Ley
 numero_disposicion: 3/2021
 fecha_disposicion: '2021-07-26'
@@ -18,22 +20,22 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Funcionarios de carrera
 tags:
-  - autoridad_docente
-  - profesorado
-  - presuncion_de_veracidad
-  - andalucia
+- autoridad_docente
+- profesorado
+- presuncion_de_veracidad
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-and-l17-2007
 ---
 # Ley 3/2021, de 26 de julio, de Reconocimiento de la autoridad pública del profesorado en la Comunidad Autónoma de Andalucía
 

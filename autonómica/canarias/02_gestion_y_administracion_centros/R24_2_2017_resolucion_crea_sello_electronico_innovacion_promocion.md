@@ -1,7 +1,10 @@
 ---
 id: norm-can-res-juriscan-75634-6
 codigo_sintetizado: Resolucion BOC 6
-titulo: Secretaría General Técnica.- Resolución de 24 de febrero de 2017, por la que se crea el sello electrónico de la Dirección General de Ordenación, Innovación y Promoción Educativa de la Consejería de Educación y Universidades (BOC n.º 44, de 3 de marzo).
+titulo: Secretaría General Técnica.- Resolución de 24 de febrero de 2017, por la que
+  se crea el sello electrónico de la Dirección General de Ordenación, Innovación y
+  Promoción Educativa de la Consejería de Educación y Universidades (BOC n.º 44, de
+  3 de marzo).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Ordenación, Inclusión e Innovación
@@ -13,29 +16,29 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Administración electrónica y firmas
 tags:
-  - administraci-n-electr-nica-y-firmas
-  - ensenanzas-universitarias
-  - equipos-directivos
-  - evaluacion
-  - oposiciones
-  - procedimiento-administrativo
+- administraci-n-electr-nica-y-firmas
+- ensenanzas-universitarias
+- equipos-directivos
+- evaluacion
+- oposiciones
+- procedimiento-administrativo
 relaciones:
   desarrolla:
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-2012-9282
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2012-9282
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-2012-9282
+  - '1'
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-2012-9282
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-066-1585.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=75634
 ---

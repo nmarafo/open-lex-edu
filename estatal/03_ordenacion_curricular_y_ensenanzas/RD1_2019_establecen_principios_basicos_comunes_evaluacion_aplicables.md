@@ -1,10 +1,14 @@
 ---
 id: norm-es-2019-317
 codigo_sintetizado: BOE-A-2019-317
-titulo: Real Decreto 1/2019, de 11 de enero, por el que se establecen los principios básicos comunes de evaluación aplicables a las pruebas de certificación oficial de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2 de las enseñanzas de idiomas de régimen especial.
+titulo: Real Decreto 1/2019, de 11 de enero, por el que se establecen los principios
+  básicos comunes de evaluación aplicables a las pruebas de certificación oficial
+  de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2 de las enseñanzas
+  de idiomas de régimen especial.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2019-01-12'
 boletin: BOE
@@ -15,41 +19,34 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas de Idiomas
 tags:
-  - curriculo
-  - ense-anzas-de-idiomas
-  - eoi
-  - evaluacion
-  - profesorado
-  - titulacion
+- curriculo
+- ense-anzas-de-idiomas
+- eoi
+- evaluacion
+- profesorado
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
   desarrollado_por: []
   fundamento_de:
-    - norma_id: norm-can-res-053
-    - norma_id: norm-can-res-boc-2019-234-52
-    - norma_id: norm-can-res-059
-    - norma_id: norm-can-res-boc-2026-116-87
-    - norma_id: norm-can-res-boc-2020-236-82
-    - norma_id: norm-can-res-boc-2026-077-49
-    - norma_id: norm-can-res-055
+  - norma_id: norm-can-res-053
+  - norma_id: norm-can-res-boc-2019-234-52
+  - norma_id: norm-can-res-059
+  - norma_id: norm-can-res-boc-2026-116-87
+  - norma_id: norm-can-res-boc-2020-236-82
+  - norma_id: norm-can-res-boc-2026-077-49
+  - norma_id: norm-can-res-055
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-es-lo-2-2006
-  articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-l-39-2015
-  articulos:
-    - '1'
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 ---
 # Real Decreto 1/2019, de 11 de enero, por el que se establecen los principios básicos comunes de evaluación aplicables a las pruebas de certificación oficial de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2 de las enseñanzas de idiomas de régimen especial.
 
@@ -101,9 +98,7 @@ No obstante, la superación, en una u otra convocatoria, de solo algunas de las 
 
 6. Los candidatos a certificación en régimen libre podrán matricularse para realizar las pruebas de cualquier nivel sin necesidad de estar en posesión de los certificados acreditativos de niveles inferiores.
 
-7. Corresponde al profesorado de las escuelas oficiales de idiomas, en los términos que establezcan las respectivas administraciones educativas, la elaboración, la administración y la evaluación de las pruebas para la obtención de los certificados de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2.
-
-8. Los profesores o aquellos que hayan participado en la organización, la elaboración, la administración y la evaluación de las pruebas, en cualquiera de sus estadios, no podrán inscribirse en las pruebas de certificación de los idiomas en los que hayan participado.
+7. Corresponde al profesorado de las escuelas oficiales de idiomas, en los términos que establezcan las respectivas administraciones educativas, la elaboración, la administración y la evaluación de las pruebas para la obtención de los certificados de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2. 8. Los profesores o aquellos que hayan participado en la organización, la elaboración, la administración y la evaluación de las pruebas, en cualquiera de sus estadios, no podrán inscribirse en las pruebas de certificación de los idiomas en los que hayan participado.
 
 9. En el caso del alumnado con discapacidad, el diseño, la administración y la evaluación de las pruebas para la obtención de los certificados habrán de basarse en los principios de igualdad de oportunidades, no discriminación y compensación de desventajas. Los procedimientos de evaluación contendrán las medidas que resulten necesarias para su adaptación a las necesidades especiales de este alumnado.
 
@@ -171,9 +166,7 @@ El documento de especificaciones de examen se hará público para conocimiento d
 
 #### Artículo 5. Elaboración de pruebas de certificación.
 
-1. Corresponde al profesorado de las escuelas oficiales de idiomas, en los términos que establezcan las respectivas administraciones educativas, la elaboración de las pruebas para la obtención de los certificados de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2.
-
-2. El proceso de elaboración de pruebas se desarrollará según unas pautas que aseguren la validez y la fiabilidad del mismo. Las administraciones educativas recogerán dichas pautas en una guía de elaboración de pruebas de certificación con el objeto de orientar al profesorado respectivo en los procesos de selección, tratamiento y explotación de materiales de evaluación, diseño de tareas e ítems a partir de dichos materiales, redacción de instrucciones para la realización de las tareas, y elaboración de otros documentos adjuntos a las pruebas, tales como claves de respuestas.
+1. Corresponde al profesorado de las escuelas oficiales de idiomas, en los términos que establezcan las respectivas administraciones educativas, la elaboración de las pruebas para la obtención de los certificados de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2. 2. El proceso de elaboración de pruebas se desarrollará según unas pautas que aseguren la validez y la fiabilidad del mismo. Las administraciones educativas recogerán dichas pautas en una guía de elaboración de pruebas de certificación con el objeto de orientar al profesorado respectivo en los procesos de selección, tratamiento y explotación de materiales de evaluación, diseño de tareas e ítems a partir de dichos materiales, redacción de instrucciones para la realización de las tareas, y elaboración de otros documentos adjuntos a las pruebas, tales como claves de respuestas.
 
 En cualquier caso, con el fin de no influir en ningún sentido en la actuación del alumnado que realice las pruebas, y garantizar así la validez y la fiabilidad de la evaluación, la guía de elaboración de pruebas de certificación recogerá al menos los siguientes aspectos:
 
@@ -213,17 +206,13 @@ A este fin las administraciones educativas elaborarán un protocolo de actuació
 
 #### Artículo 6. Administración de pruebas de certificación.
 
-1. Corresponde al profesorado de las escuelas oficiales de idiomas, en los términos que establezcan las respectivas administraciones educativas, la administración de las pruebas para la obtención de los certificados de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2.
-
-2. El proceso de administración de pruebas se desarrollará según directrices que aseguren la validez y la fiabilidad de dicho proceso y la igualdad de condiciones de todos los candidatos a certificación.
+1. Corresponde al profesorado de las escuelas oficiales de idiomas, en los términos que establezcan las respectivas administraciones educativas, la administración de las pruebas para la obtención de los certificados de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2. 2. El proceso de administración de pruebas se desarrollará según directrices que aseguren la validez y la fiabilidad de dicho proceso y la igualdad de condiciones de todos los candidatos a certificación.
 
 Las administraciones educativas recogerán dichas directrices en una guía de administración de pruebas de certificación con el objeto de orientar al profesorado respectivo en el protocolo que habrán de seguir en la administración de las distintas partes correspondientes a las diferentes actividades de lengua que las pruebas evalúen.
 
 #### Artículo 7. Evaluación y calificación de pruebas de certificación.
 
-1. Corresponde al profesorado de las escuelas oficiales de idiomas, en los términos que establezcan las respectivas administraciones educativas, la evaluación y calificación de las pruebas para la obtención de los certificados de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2.
-
-2. En la evaluación y calificación de las pruebas de certificación se tomarán como referencia los criterios de evaluación establecidos para cada nivel y actividad de lengua en los currículos que establezcan las administraciones educativas para cada idioma, currículos que deberán incluir, en todo caso, el currículo básico fijado en el anexo I del Real Decreto 1041/2017, de 22 de diciembre. Los criterios de evaluación de las pruebas serán recogidos en la correspondiente convocatoria.
+1. Corresponde al profesorado de las escuelas oficiales de idiomas, en los términos que establezcan las respectivas administraciones educativas, la evaluación y calificación de las pruebas para la obtención de los certificados de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2. 2. En la evaluación y calificación de las pruebas de certificación se tomarán como referencia los criterios de evaluación establecidos para cada nivel y actividad de lengua en los currículos que establezcan las administraciones educativas para cada idioma, currículos que deberán incluir, en todo caso, el currículo básico fijado en el anexo I del Real Decreto 1041/2017, de 22 de diciembre. Los criterios de evaluación de las pruebas serán recogidos en la correspondiente convocatoria.
 
 En la evaluación de las pruebas de competencia general, en las partes correspondientes a las actividades de producción y coproducción de textos orales, de producción y coproducción de textos escritos, y de mediación, se establecerá una ponderación y valoración por igual de los diversos criterios de evaluación. En cualquier caso, no se dará más peso a unos criterios (por ejemplo, corrección fonética, u ortográfica) que, aisladamente o frente a otros, no se correspondan, en general o en sus detalles, con la actuación esperada del candidato según la descripción del conjunto de los criterios de evaluación que se describen en el currículo para cada nivel y actividad de lengua.
 
@@ -269,9 +258,7 @@ Este real decreto se dicta al amparo del artículo 149.1.30.ª de la Constituci�
 
 #### Disposición final segunda. Entrada en vigor.
 
-Dado en Madrid, el 11 de enero de 2019.
-
-FELIPE R.
+Dado en Madrid, el 11 de enero de 2019. FELIPE R.
 
 La Ministra de Educación y Formación Profesional,
 

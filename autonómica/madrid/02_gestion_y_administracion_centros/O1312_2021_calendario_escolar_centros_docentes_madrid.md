@@ -1,9 +1,12 @@
 ---
 id: norm-mad-o1312-2021
-titulo: Orden 1312/2021, de 7 de mayo, de la Consejería de Educación y Juventud, por la que se establece el calendario escolar para los centros docentes no universitarios de la Comunidad de Madrid
+titulo: Orden 1312/2021, de 7 de mayo, de la Consejería de Educación y Juventud, por
+  la que se establece el calendario escolar para los centros docentes no universitarios
+  de la Comunidad de Madrid
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
 numero_disposicion: 1312/2021
 fecha_disposicion: '2021-05-07'
@@ -16,20 +19,20 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Calendario escolar y jornada
 tags:
-  - calendario_escolar
-  - jornada_lectiva
-  - madrid
+- calendario_escolar
+- jornada_lectiva
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2021/05/18/BOCM-20210518-1.PDF
 ---
 # Orden 1312/2021, de 7 de mayo, de la Consejería de Educación y Juventud, por la que se establece el calendario escolar para los centros docentes no universitarios de la Comunidad de Madrid
@@ -47,15 +50,11 @@ Pág. 12
 
 ## Anexo
 
-ACUERDO DE 26 DE ABRIL DE 2021, DE LA MESA SECTORIAL DE NEGOCIACIÓN DEL PERSONAL FUNCIONARIO DE ADMINISTRACIÓN Y SERVICIOS, POR EL QUE SE REGULAN LAS CONDICIONES DE TRABAJO DEL CUERPO DE BOMBEROS DE LA COMUNIDAD DE MADRID PARA EL PERÍODO 2021-2025.
-
-## Exposición de motivos
+ACUERDO DE 26 DE ABRIL DE 2021, DE LA MESA SECTORIAL DE NEGOCIACIÓN DEL PERSONAL FUNCIONARIO DE ADMINISTRACIÓN Y SERVICIOS, POR EL QUE SE REGULAN LAS CONDICIONES DE TRABAJO DEL CUERPO DE BOMBEROS DE LA COMUNIDAD DE MADRID PARA EL PERÍODO 2021-2025. ## Exposición de motivos
 
 Con fecha 15 de abril de 2016 se publicó el Acuerdo de 5 de abril de 2016, del Consejo de Gobierno, por el que se aprueba expresa y formalmente el Acuerdo de 30 de marzo de 2016, de la Mesa Sectorial del Personal Funcionario de Administración y Servicios, por el que se regulan las condiciones de trabajo del Cuerpo de Bomberos para el período 2016-2020. Llegado el vencimiento del mencionado Acuerdo, el 31 de diciembre de 2020, y en virtud de lo establecido en la Cláusula Final del mismo, éste ha sido prorrogado en su totalidad, tanto en los aspectos referentes a su contenido como a aquellos otros acuerdos adoptados con posterioridad al mismo.
 
-Con fecha 3 de diciembre de 2020 comenzaron las reuniones de la Mesa Técnica de la Dirección General de Emergencias, con la participación de las organizaciones sindicales (CCOO, CSITUnión Profesional, UGT y CSIF) y la Administración, al objeto de iniciar el proceso de negociación del acuerdo de las condiciones laborales del Cuerpo de Bomberos de la Comunidad de Madrid para el período 2021-2025.
-
-El Cuerpo de Bomberos ha avanzado históricamente en su organización, estructura, condiciones laborales y profesionales gracias, entre otras cosas, a la negociación colectiva. Esta colaboración ha permitido mantener un alto nivel de calidad del servicio público ofrecido a la ciudadanía y debe ser empeño de todos – Dirección, Jefatura, y personal – seguir manteniendo el nivel de eficacia del Cuerpo de Bomberos de la Comunidad de Madrid.
+Con fecha 3 de diciembre de 2020 comenzaron las reuniones de la Mesa Técnica de la Dirección General de Emergencias, con la participación de las organizaciones sindicales (CCOO, CSITUnión Profesional, UGT y CSIF) y la Administración, al objeto de iniciar el proceso de negociación del acuerdo de las condiciones laborales del Cuerpo de Bomberos de la Comunidad de Madrid para el período 2021-2025. El Cuerpo de Bomberos ha avanzado históricamente en su organización, estructura, condiciones laborales y profesionales gracias, entre otras cosas, a la negociación colectiva. Esta colaboración ha permitido mantener un alto nivel de calidad del servicio público ofrecido a la ciudadanía y debe ser empeño de todos – Dirección, Jefatura, y personal – seguir manteniendo el nivel de eficacia del Cuerpo de Bomberos de la Comunidad de Madrid.
 
 Este acuerdo ahonda en el plan de reorganización y crecimiento del Cuerpo de Bomberos de la Comunidad de Madrid (en adelante, CBCM) que pretende modernizar y agilizar tanto los procedimientos como la estructura y organización del mismo, con el objetivo de lograr un mejor rendimiento de sus medios humanos y materiales que permita hacer frente a nuevos retos. Se trata de buscar una mayor eficiencia y eficacia; en definitiva, una mejora de la prestación del servicio a la ciudadanía.
 

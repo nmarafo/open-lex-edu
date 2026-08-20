@@ -1,10 +1,14 @@
 ---
 id: norm-es-2011-15628
 codigo_sintetizado: BOE-A-2011-15628
-titulo: Orden EDU/2645/2011, de 23 de septiembre, por la que se establece la formación equivalente a la formación pedagógica y didáctica exigida para aquellas personas que estando en posesión de una titulación declarada equivalente a efectos de docencia no pueden realizar los estudios de máster.
+titulo: Orden EDU/2645/2011, de 23 de septiembre, por la que se establece la formación
+  equivalente a la formación pedagógica y didáctica exigida para aquellas personas
+  que estando en posesión de una titulación declarada equivalente a efectos de docencia
+  no pueden realizar los estudios de máster.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2011-10-05'
 boletin: BOE
@@ -15,38 +19,38 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Formación del profesorado
 tags:
-  - bachillerato
-  - curriculo
-  - ensenanzas-deportivas
-  - eso
-  - evaluacion
-  - formacion-del-profesorado
-  - formacion-profesional
-  - oposiciones
-  - profesorado
-  - titulacion
+- bachillerato
+- curriculo
+- ensenanzas-deportivas
+- eso
+- evaluacion
+- formacion-del-profesorado
+- formacion-profesional
+- oposiciones
+- profesorado
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2002-4371
-    - norma_id: norm-es-2007-19326
-    - norma_id: norm-es-2007-5478
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-1834-2008
-    - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-2002-4371
+  - norma_id: norm-es-2007-19326
+  - norma_id: norm-es-2007-5478
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-1834-2008
+  - norma_id: norm-es-rd-276-2007
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-rd-1834-2008
-    - norma_id: norm-es-2002-4371
-    - norma_id: norm-es-2007-19326
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2007-5478
-    - norma_id: norm-es-rd-276-2007
+  - '1'
+  - '2'
+  - norma_id: norm-es-rd-1834-2008
+  - norma_id: norm-es-2002-4371
+  - norma_id: norm-es-2007-19326
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2007-5478
+  - norma_id: norm-es-rd-276-2007
 ---
 # Orden EDU/2645/2011, de 23 de septiembre, por la que se establece la formación equivalente a la formación pedagógica y didáctica exigida para aquellas personas que estando en posesión de una titulación declarada equivalente a efectos de docencia no pueden realizar los estudios de máster.
 
@@ -118,9 +122,7 @@ m) Identificar y ser capaz de dar respuesta a las necesidades del alumnado con d
 
 #### Artículo 4. Condiciones de acceso.
 
-1. Sólo podrán acceder a estos estudios aquellas personas que posean una titulación declarada equivalente a efectos de docencia y no puedan acceder a los estudios de Máster regulados por la Orden ECI/3858/2007.
-
-2. Asimismo, para acceder a la formación regulada en esta Orden se deberá acreditar como requisito previo el dominio de una lengua extranjera equivalente al nivel B1 del Marco Común Europeo de Referencia para las Lenguas, de acuerdo con la Recomendación N.º R (98)6 del Comité de Ministros de Estados Miembros de 17 de octubre de 2000.
+1. Sólo podrán acceder a estos estudios aquellas personas que posean una titulación declarada equivalente a efectos de docencia y no puedan acceder a los estudios de Máster regulados por la Orden ECI/3858/2007. 2. Asimismo, para acceder a la formación regulada en esta Orden se deberá acreditar como requisito previo el dominio de una lengua extranjera equivalente al nivel B1 del Marco Común Europeo de Referencia para las Lenguas, de acuerdo con la Recomendación N.º R (98)6 del Comité de Ministros de Estados Miembros de 17 de octubre de 2000.
 
 #### Artículo 5. Planificación de las enseñanzas.
 
@@ -204,23 +206,23 @@ Genérico
 
 10-16
 
-Â
+
 
 Aprendizaje y desarrollo de la personalidad
 
-Â
+
 
 Conocer las características de los estudiantes, sus contextos sociales y motivaciones. Comprender el desarrollo de la personalidad de estos y las posibles disfunciones que afectan al aprendizaje. Elaborar propuestas basadas en la adquisición de conocimientos, destrezas y aptitudes intelectuales y emocionales. Identificar y planificar la resolución de situaciones educativas que afectan a estudiantes con diferentes capacidades y diferentes ritmos de aprendizaje.
 
 Procesos y contextos educativos
 
-Â
+
 
 Conocer los procesos de interacción y comunicación en el aula y en el centro, abordar y resolver posibles problemas. Conocer la evolución histórica del sistema educativo en nuestro país. Conocer la normativa básica que regula el sistema educativo. Conocer y aplicar recursos y estrategias de información, tutoría y orientación académica y profesional. Promover acciones de educación emocional, en valores y formación ciudadana. Participar en la definición del proyecto educativo y en las actividades generales del centro atendiendo a criterios de mejora de la calidad, atención a la diversidad, prevención de problemas de aprendizaje y convivencia.
 
 Sociedad, familia y educación
 
-Â
+
 
 Relacionar la educación con el medio y comprender la función educadora de la familia y la sociedad, tanto en la adquisición de competencias y aprendizajes como en la educación en el respeto de los derechos y libertades, en la igualdad de derechos y oportunidades entre hombres y mujeres y en la igualdad de trato y no discriminación de las personas con discapacidad. Conocer la evolución histórica de la familia, sus diferentes tipos y la incidencia del contexto familiar y del contexto social en la educación. Valorar la importancia de la educación para la protección del medioambiente y la construcción de un futuro sostenible. Adquirir habilidades sociales en la relación y orientación familiar. Conocer las funciones sociales de la educación y las demandas de la sociedad respecto del sistema educativo.
 
@@ -228,23 +230,23 @@ Específico
 
 15-22
 
-Â
+
 
 Orientación profesional
 
-Â
+
 
 Conocer la evolución del mundo laboral, la interacción entre sociedad, trabajo y calidad de vida, reconocer la necesidad de adquirir la formación adecuada para la adaptación a los cambios y transformaciones que puedan requerir las profesiones y valorar los aspectos culturales y formativos vinculados a la formación profesional.
 
 Aprendizaje y enseñanza
 
-Â
+
 
 Transformar los currículos en programas de actividades y de trabajo. Adquirir criterios de selección y elaboración de materiales educativos. Fomentar un clima que facilite el aprendizaje y ponga en valor las aportaciones de los estudiantes. Integrar la formación en comunicación audiovisual y multimedia en el proceso de enseñanza-aprendizaje. Conocer estrategias y técnicas de evaluación y entender la evaluación como un instrumento de regulación y estímulo al esfuerzo.
 
 Innovación docente e iniciación a la investigación educativa
 
-Â
+
 
 Conocer y aplicar propuestas docentes innovadoras. Analizar críticamente el desempeño de la docencia, de las buenas prácticas y de la orientación utilizando indicadores de calidad. Identificar los problemas relativos a la enseñanza y aprendizaje que pueden aparecer en el aula y plantear alternativas y soluciones. Conocer y aplicar metodologías y técnicas básicas de investigación y evaluación educativas y ser capaz de diseñar y desarrollar proyectos de investigación, innovación y evaluación.
 
@@ -252,17 +254,17 @@ Practicum
 
 15-22
 
-Â
+
 
 Practicum en la especialización
 
-Â
+
 
 Adquirir experiencia en la planificación, la docencia y la evaluación de los módulos o asignaturas correspondientes a la especialización. Acreditar un buen dominio de la expresión oral y escrita en la práctica docente. Dominar las destrezas y habilidades sociales necesarias para fomentar un clima que facilite el aprendizaje y la convivencia. Participar en las propuestas de mejora en los distintos ámbitos de actuación a partir de la reflexión basada en la práctica. Conocer la tipología empresarial correspondiente a los sectores productivos y comprender los sistemas organizativos más comunes en las empresas.
 
 Trabajo final de estudios
 
-Â
+
 
 Estas competencias, junto con las propias del resto de materias, quedarán reflejadas en el Trabajo final de estudios que compendia la formación adquirida a lo largo de todas las enseñanzas descritas.
 
@@ -278,27 +280,27 @@ Genérico
 
 10-16
 
-Â
+
 
 Aprendizaje y desarrollo de la personalidad
 
-Â
+
 
 Conocer las características de los estudiantes, sus contextos sociales y motivaciones. Comprender el desarrollo de la personalidad de estos y las posibles disfunciones que afectan al aprendizaje. Elaborar propuestas basadas en la adquisición de conocimientos, destrezas y aptitudes intelectuales y emocionales. Identificar y planificar la resolución de situaciones educativas que afectan a estudiantes
 
-Â
+
 
 con diferentes capacidades y diferentes ritmos de aprendizaje.
 
 Procesos y contextos educativos
 
-Â
+
 
 Conocer los procesos de interacción y comunicación en el aula y en el centro, abordar y resolver posibles problemas. Conocer la evolución histórica del sistema educativo en nuestro país. Conocer la normativa básica que regula el sistema educativo. Conocer y aplicar recursos y estrategias de información, tutoría y orientación académica y profesional. Promover acciones de educación emocional, en valores y formación ciudadana. Participar en la definición del proyecto educativo y en las actividades generales del centro atendiendo a criterios de mejora de la calidad, atención a la diversidad, prevención de problemas de aprendizaje y convivencia.
 
 Sociedad, familia y educación
 
-Â
+
 
 Relacionar la educación con el medio y comprender la función educadora de la familia y la sociedad, tanto en la adquisición de competencias y aprendizajes como en la educación en el respeto de los derechos y libertades, en la igualdad de derechos y oportunidades entre hombres y mujeres y en la igualdad de trato y no discriminación de las personas con discapacidad. Conocer la evolución histórica de la familia, sus diferentes tipos y la incidencia del contexto familiar y del contexto social en la educación. Valorar la importancia de la educación para la protección del medioambiente y la construcción de un futuro sostenible. Adquirir habilidades sociales en la relación y orientación familiar. Conocer las funciones sociales de la educación y las demandas de la sociedad respecto del sistema educativo.
 
@@ -306,25 +308,25 @@ Específico eedd
 
 15-22
 
-Â
+
 
 Orientación
 
 profesional
 
-Â
+
 
 Fundamentar la evolución del sistema deportivo, la interacción entre sociedad, deporte y calidad de vida. Reconocer la necesidad de adquirir la formación adecuada para la adaptación a los cambios y transformaciones en las demandas del sistema deportivo y de la formación de sus técnicos. Valorar los aspectos culturales y formativos vinculados a las enseñanzas deportivas. Valorar la responsabilidad social de la formación de los técnicos deportivos en el fomento de la integración de las personas con discapacidad y en la formación en valores.
 
 Aprendizaje y enseñanza
 
-Â
+
 
 Transformar los currículos en programas de actividades y de trabajo. Adquirir criterios de selección y elaboración de materiales educativos. Diseñar situaciones de aprendizaje vinculados con la práctica docente para conseguir un aprendizaje experiencial. Aplicar criterios de seguridad adecuados a las situaciones de práctica propias de las enseñanzas deportivas Aprender a generar un clima que facilite el aprendizaje y ponga en valor las aportaciones de los estudiantes. Integrar la formación en comunicación audiovisual y multimedia en el proceso de enseñanza-aprendizaje. Conocer estrategias y técnicas de evaluación y entender la evaluación como un instrumento de regulación y estímulo al esfuerzo. Aplicar los procedimientos de gestión, autorización y seguimiento de los módulos de formación práctica y proyecto final.
 
 Innovación docente e iniciación a la investigación educativa
 
-Â
+
 
 Conocer y aplicar propuestas docentes innovadoras. Analizar críticamente el desempeño de la docencia, de las buenas prácticas y de la orientación utilizando indicadores de calidad. Identificar los problemas relativos a la enseñanza y aprendizaje que pueden aparecer en el aula y plantear alternativas y soluciones. Conocer y aplicar metodologías y técnicas básicas de investigación y evaluación educativas y ser capaz de diseñar y desarrollar proyectos de investigación, innovación y evaluación.
 
@@ -332,17 +334,17 @@ Practicum en enseñanzas deportivas
 
 15-22
 
-Â
+
 
 Practicum en la especialización
 
-Â
+
 
 Adquirir experiencia en la planificación, la docencia y la evaluación de los módulos correspondientes a la modalidad deportiva. Dominar las destrezas y técnicas necesarias para optimizar la seguridad de la práctica docente. Acreditar un buen dominio de la expresión oral y escrita en la práctica docente. Dominar las destrezas y habilidades sociales necesarias para fomentar un clima que facilite el aprendizaje y la convivencia. Participar en las propuestas de mejora en los distintos ámbitos de actuación a partir de la reflexión basada en la práctica. Analizar las características de los centros docentes de enseñanzas deportivas, su tipología, organización, y analizar las responsabilidades del profesorado de enseñanzas deportivas.
 
 Trabajo final de estudios
 
-Â
+
 
 Estas competencias, junto con las propias del resto de materias, quedarán reflejadas en el Trabajo final de estudios que compendia la formación adquirida a lo largo de todas las enseñanzas descritas.
 

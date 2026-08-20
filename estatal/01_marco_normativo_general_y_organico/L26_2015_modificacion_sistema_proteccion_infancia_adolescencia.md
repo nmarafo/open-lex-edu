@@ -1,10 +1,12 @@
 ---
 id: norm-es-2015-8470
 codigo_sintetizado: BOE-A-2015-8470
-titulo: Ley 26/2015, de 28 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
+titulo: Ley 26/2015, de 28 de julio, de modificación del sistema de protección a la
+  infancia y a la adolescencia.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2015-07-29'
 boletin: BOE
@@ -15,48 +17,41 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Protección jurídica de menores
 tags:
-  - bienestar-infantil
-  - curriculo
-  - protecci-n-jur-dica-de-menores
-  - proteccion-menores
+- bienestar-infantil
+- curriculo
+- protecci-n-jur-dica-de-menores
+- proteccion-menores
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-2000-544
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2013-13756
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-lo-1-1996
-    - norma_id: norm-es-lo-1-2004
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2000-544
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2013-13756
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-es-lo-1-2004
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rdl-5-2015
   fundamento_de:
-    - norma_id: norm-es-lo-8-2021
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-can-res-boc-2017-132-1
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-can-res-boc-2017-132-1
   desarrollado_por: []
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-es-lo-2-2006
-  articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-rdl-5-2015
-  articulos:
-    - '1'
-    - norma_id: norm-can-l-16-2003
-    - norma_id: norm-es-2000-544
-    - norma_id: norm-es-lo-1-1996
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-2013-13756
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-lo-1-2004
+  - '1'
+  - norma_id: norm-can-l-16-2003
+  - norma_id: norm-es-2000-544
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2013-13756
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-lo-1-2004
 ---
 # Ley 26/2015, de 28 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
 
@@ -282,9 +277,7 @@ Finalmente, se modifica el artículo 24 para.
 
 regular la cooperación internacional de autoridades en los casos de adopciones realizadas por adoptante español y residente en el país de origen del adoptado.
 
-Por último, y en relación con las otras medidas de protección de menores, se introduce la oportuna referencia a dos Reglamentos comunitarios y un Convenio de La Haya esenciales en esta materia, y se mejora el sistema de reconocimiento en España de estas medidas, de forma similar a la prevista en el Derecho francés, que ha sido recientemente avalado por el Tribunal Europeo de Derechos Humanos en el caso «Harroudj c. Francia», de 4 de enero de 2013.
-
-**V**
+Por último, y en relación con las otras medidas de protección de menores, se introduce la oportuna referencia a dos Reglamentos comunitarios y un Convenio de La Haya esenciales en esta materia, y se mejora el sistema de reconocimiento en España de estas medidas, de forma similar a la prevista en el Derecho francés, que ha sido recientemente avalado por el Tribunal Europeo de Derechos Humanos en el caso «Harroudj c. Francia», de 4 de enero de 2013. **V**
 
 Se modifica la Ley de Enjuiciamiento Civil a fin de reforzar la tutela judicial efectiva en defensa de los derechos e intereses de los menores, introduciendo mejoras en los procedimientos ya existentes, orientadas a hacerlos más efectivos y aclarando puntos que en la práctica han generado interpretaciones contradictorias.
 
@@ -876,9 +869,7 @@ El código Civil queda modificado en los siguientes términos:
 
 Uno. Se modifican los apartados 4, 6 y 7 del artículo 9, que quedan redactados como sigue:
 
-«4. La determinación y el carácter de la filiación por naturaleza se regirán por la ley de la residencia habitual del hijo en el momento del establecimiento de la filiación. A falta de residencia habitual del hijo, o si esta ley no permitiere el establecimiento de la filiación, se aplicará la ley nacional del hijo en ese momento. Si esta ley no permitiere el establecimiento de la filiación o si el hijo careciere de residencia habitual y de nacionalidad, se aplicará la ley sustantiva española. En lo relativo al establecimiento de la filiación por adopción, se estará a lo dispuesto en el apartado 5.
-
-La ley aplicable al contenido de la filiación, por naturaleza o por adopción, y al ejercicio de la responsabilidad parental, se determinará con arreglo al Convenio de La Haya, de 19 de octubre de 1996, relativo a la competencia, la ley aplicable, el reconocimiento, la ejecución y la cooperación en materia de responsabilidad parental y de medidas de protección de los niños.»
+«4. La determinación y el carácter de la filiación por naturaleza se regirán por la ley de la residencia habitual del hijo en el momento del establecimiento de la filiación. A falta de residencia habitual del hijo, o si esta ley no permitiere el establecimiento de la filiación, se aplicará la ley nacional del hijo en ese momento. Si esta ley no permitiere el establecimiento de la filiación o si el hijo careciere de residencia habitual y de nacionalidad, se aplicará la ley sustantiva española. En lo relativo al establecimiento de la filiación por adopción, se estará a lo dispuesto en el apartado 5. La ley aplicable al contenido de la filiación, por naturaleza o por adopción, y al ejercicio de la responsabilidad parental, se determinará con arreglo al Convenio de La Haya, de 19 de octubre de 1996, relativo a la competencia, la ley aplicable, el reconocimiento, la ejecución y la cooperación en materia de responsabilidad parental y de medidas de protección de los niños.»
 
 «6. La ley aplicable a la protección de menores se determinará de acuerdo con el Convenio de La Haya, de 19 de octubre de 1996, a que se hace referencia en el apartado 4 de este artículo.
 
@@ -892,9 +883,7 @@ Dos. Se introduce un apartado 3 en el artículo 19, que queda redactado como sig
 
 Tres. Se modifica el artículo 133, que queda redactado como sigue:
 
-«Artículo 133.
-
-1. La acción de reclamación de filiación no matrimonial, cuando falte la respectiva posesión de estado, corresponderá al hijo durante toda su vida.
+«Artículo 133. 1. La acción de reclamación de filiación no matrimonial, cuando falte la respectiva posesión de estado, corresponderá al hijo durante toda su vida.
 
 Si el hijo falleciere antes de transcurrir cuatro años desde que alcanzare mayoría de edad o recobrare capacidad suficiente a tales efectos, o durante el año siguiente al descubrimiento de las pruebas en que se funde la demanda, su acción corresponderá a sus herederos por el tiempo que faltare para completar dichos plazos.
 
@@ -904,9 +893,7 @@ Esta acción no será transmisible a los herederos quienes solo podrán continua
 
 Cuatro. Se modifica el artículo 136, que queda redactado como sigue:
 
-«Artículo 136.
-
-1. El marido podrá ejercitar la acción de impugnación de la paternidad en el plazo de un año contado desde la inscripción de la filiación en el Registro Civil. Sin embargo, el plazo no correrá mientras el marido ignore el nacimiento. Fallecido el marido sin conocer el nacimiento, el año se contará desde que lo conozca el heredero.
+«Artículo 136. 1. El marido podrá ejercitar la acción de impugnación de la paternidad en el plazo de un año contado desde la inscripción de la filiación en el Registro Civil. Sin embargo, el plazo no correrá mientras el marido ignore el nacimiento. Fallecido el marido sin conocer el nacimiento, el año se contará desde que lo conozca el heredero.
 
 2. Si el marido, pese a conocer el hecho del nacimiento de quien ha sido inscrito como hijo suyo, desconociera su falta de paternidad biológica, el cómputo del plazo de un año comenzará a contar desde que tuviera tal conocimiento.
 
@@ -914,9 +901,7 @@ Cuatro. Se modifica el artículo 136, que queda redactado como sigue:
 
 Cinco. Se modifica el artículo 137, que pasa a tener la siguiente redacción:
 
-«Artículo 137.
-
-1. La paternidad podrá ser impugnada por el hijo durante el año siguiente a la inscripción de la filiación. Si fuere menor o tuviere la capacidad modificada judicialmente, el plazo contará desde que alcance la mayoría de edad o recobrare capacidad suficiente a tales efectos.
+«Artículo 137. 1. La paternidad podrá ser impugnada por el hijo durante el año siguiente a la inscripción de la filiación. Si fuere menor o tuviere la capacidad modificada judicialmente, el plazo contará desde que alcance la mayoría de edad o recobrare capacidad suficiente a tales efectos.
 
 El ejercicio de la acción, en interés del hijo que sea menor o tuviere la capacidad modificada judicialmente, corresponderá, asimismo, durante el año siguiente a la inscripción de la filiación, a la madre que ostente la patria potestad, a su representante legal o al Ministerio Fiscal.
 
@@ -928,9 +913,7 @@ El ejercicio de la acción, en interés del hijo que sea menor o tuviere la capa
 
 Seis. Se modifica el artículo 138, que pasa a tener la siguiente redacción:
 
-«Artículo 138.
-
-El reconocimiento y demás actos jurídicos que determinen conforme a la ley una filiación matrimonial o no matrimonial podrán ser impugnados por vicio de consentimiento según lo dispuesto en el artículo 141. La impugnación de la paternidad por otras causas se atendrá a las normas contenidas en esta sección.»
+«Artículo 138. El reconocimiento y demás actos jurídicos que determinen conforme a la ley una filiación matrimonial o no matrimonial podrán ser impugnados por vicio de consentimiento según lo dispuesto en el artículo 141. La impugnación de la paternidad por otras causas se atendrá a las normas contenidas en esta sección.»
 
 Siete. Se modifica el párrafo final del artículo 140, que tendrá la siguiente redacción:
 
@@ -938,9 +921,7 @@ Siete. Se modifica el párrafo final del artículo 140, que tendrá la siguiente
 
 Ocho. Se modifica el artículo 154, que queda redactado como sigue:
 
-«Artículo 154.
-
-Los hijos no emancipados están bajo la patria potestad de los progenitores.
+«Artículo 154. Los hijos no emancipados están bajo la patria potestad de los progenitores.
 
 La patria potestad, como responsabilidad parental, se ejercerá siempre en interés de los hijos, de acuerdo con su personalidad, y con respeto a sus derechos, su integridad física y mental.
 
@@ -972,17 +953,13 @@ Diez. Se modifica el artículo 160, que queda redactado como sigue:
 
 1. Los hijos menores tienen derecho a relacionarse con sus progenitores aunque éstos no ejerzan la patria potestad, salvo que se disponga otra cosa por resolución judicial o por la Entidad Pública en los casos establecidos en el artículo 161. En caso de privación de libertad de los progenitores, y siempre que el interés superior del menor recomiende visitas a aquellos, la Administración deberá facilitar el traslado acompañado del menor al centro penitenciario, ya sea por un familiar designado por la administración competente o por un profesional que velarán por la preparación del menor a dicha visita. Asimismo la visita a un centro penitenciario se deberá realizar fuera de horario escolar y en un entorno adecuado para el menor.
 
-Los menores adoptados por otra persona, solo podrán relacionarse con su familia de origen en los términos previstos en el artículo 178.4.
-
-2. No podrán impedirse sin justa causa las relaciones personales del menor con sus hermanos, abuelos y otros parientes y allegados.
+Los menores adoptados por otra persona, solo podrán relacionarse con su familia de origen en los términos previstos en el artículo 178.4. 2. No podrán impedirse sin justa causa las relaciones personales del menor con sus hermanos, abuelos y otros parientes y allegados.
 
 En caso de oposición, el Juez, a petición del menor, hermanos, abuelos, parientes o allegados, resolverá atendidas las circunstancias. Especialmente deberá asegurar que las medidas que se puedan fijar para favorecer las relaciones entre hermanos, y entre abuelos y nietos, no faculten la infracción de las resoluciones judiciales que restrinjan o suspendan las relaciones de los menores con alguno de sus progenitores.»
 
 Once. Se modifica el artículo 161, que queda redactado como sigue:
 
-«Artículo 161.
-
-La Entidad Pública a la que, en el respectivo territorio, esté encomendada la protección de menores regulará las visitas y comunicaciones que correspondan a los progenitores, abuelos, hermanos y demás parientes y allegados respecto a los menores en situación de desamparo, pudiendo acordar motivadamente, en interés del menor, la suspensión temporal de las mismas previa audiencia de los afectados y del menor si tuviere suficiente madurez y, en todo caso, si fuera mayor de doce años, con inmediata notificación al Ministerio Fiscal. A tal efecto, el Director del centro de acogimiento residencial o la familia acogedora u otros agentes o profesionales implicados informarán a la Entidad Pública de cualquier indicio de los efectos nocivos de estas visitas sobre el menor.
+«Artículo 161. La Entidad Pública a la que, en el respectivo territorio, esté encomendada la protección de menores regulará las visitas y comunicaciones que correspondan a los progenitores, abuelos, hermanos y demás parientes y allegados respecto a los menores en situación de desamparo, pudiendo acordar motivadamente, en interés del menor, la suspensión temporal de las mismas previa audiencia de los afectados y del menor si tuviere suficiente madurez y, en todo caso, si fuera mayor de doce años, con inmediata notificación al Ministerio Fiscal. A tal efecto, el Director del centro de acogimiento residencial o la familia acogedora u otros agentes o profesionales implicados informarán a la Entidad Pública de cualquier indicio de los efectos nocivos de estas visitas sobre el menor.
 
 El menor, los afectados y el Ministerio Fiscal podrán oponerse a dichas resoluciones administrativas conforme a la Ley de Enjuiciamiento Civil.»
 
@@ -1004,9 +981,7 @@ Para celebrar contratos que obliguen al hijo a realizar prestaciones personales 
 
 Trece. Se modifica el artículo 172, que queda redactado como sigue:
 
-«Artículo 172.
-
-1. Cuando la Entidad Pública a la que, en el respectivo territorio, esté encomendada la protección de los menores constate que un menor se encuentra en situación de desamparo, tiene por ministerio de la ley la tutela del mismo y deberá adoptar las medidas de protección necesarias para su guarda, poniéndolo en conocimiento del Ministerio Fiscal y, en su caso, del Juez que acordó la tutela ordinaria. La resolución administrativa que declare la situación de desamparo y las medidas adoptadas se notificará en legal forma a los progenitores, tutores o guardadores y al menor afectado si tuviere suficiente madurez y, en todo caso, si fuere mayor de doce años, de forma inmediata sin que sobrepase el plazo máximo de cuarenta y ocho horas. La información será clara, comprensible y en formato accesible, incluyendo las causas que dieron lugar a la intervención de la Administración y los efectos de la decisión adoptada, y en el caso del menor, adaptada a su grado de madurez. Siempre que sea posible, y especialmente en el caso del menor, esta información se facilitará de forma presencial.
+«Artículo 172. 1. Cuando la Entidad Pública a la que, en el respectivo territorio, esté encomendada la protección de los menores constate que un menor se encuentra en situación de desamparo, tiene por ministerio de la ley la tutela del mismo y deberá adoptar las medidas de protección necesarias para su guarda, poniéndolo en conocimiento del Ministerio Fiscal y, en su caso, del Juez que acordó la tutela ordinaria. La resolución administrativa que declare la situación de desamparo y las medidas adoptadas se notificará en legal forma a los progenitores, tutores o guardadores y al menor afectado si tuviere suficiente madurez y, en todo caso, si fuere mayor de doce años, de forma inmediata sin que sobrepase el plazo máximo de cuarenta y ocho horas. La información será clara, comprensible y en formato accesible, incluyendo las causas que dieron lugar a la intervención de la Administración y los efectos de la decisión adoptada, y en el caso del menor, adaptada a su grado de madurez. Siempre que sea posible, y especialmente en el caso del menor, esta información se facilitará de forma presencial.
 
 Se considera como situación de desamparo la que se produce de hecho a causa del incumplimiento o del imposible o inadecuado ejercicio de los deberes de protección establecidos por las leyes para la guarda de los menores, cuando éstos queden privados de la necesaria asistencia moral o material.
 
@@ -1078,9 +1053,7 @@ La delegación de guarda para estancias, salidas de fin de semana o vacaciones c
 
 Dieciséis. Se modifica el artículo 173, que queda redactado como sigue:
 
-«Artículo 173.
-
-1. El acogimiento familiar produce la plena participación del menor en la vida de familia e impone a quien lo recibe las obligaciones de velar por él, tenerlo en su compañía, alimentarlo, educarlo y procurarle una formación integral en un entorno afectivo. En el caso de menor con discapacidad, deberá continuar con los apoyos especializados que viniera recibiendo o adoptar otros más adecuados a sus necesidades.
+«Artículo 173. 1. El acogimiento familiar produce la plena participación del menor en la vida de familia e impone a quien lo recibe las obligaciones de velar por él, tenerlo en su compañía, alimentarlo, educarlo y procurarle una formación integral en un entorno afectivo. En el caso de menor con discapacidad, deberá continuar con los apoyos especializados que viniera recibiendo o adoptar otros más adecuados a sus necesidades.
 
 2. El acogimiento requerirá el consentimiento de los acogedores y del menor acogido si tuviera suficiente madurez y, en todo caso, si fuera mayor de doce años.
 
@@ -1116,9 +1089,7 @@ c) Acogimiento familiar permanente, que se constituirá bien al finalizar el pla
 
 Dieciocho. Se modifica el artículo 174, que queda redactado como sigue:
 
-«Artículo 174.
-
-1. Incumbe al Ministerio Fiscal la superior vigilancia de la tutela, acogimiento o guarda de los menores a que se refiere esta sección.
+«Artículo 174. 1. Incumbe al Ministerio Fiscal la superior vigilancia de la tutela, acogimiento o guarda de los menores a que se refiere esta sección.
 
 2. A tal fin, la Entidad Pública le dará noticia inmediata de los nuevos ingresos de menores y le remitirá copia de las resoluciones administrativas de formalización de la constitución, variación y cesación de las tutelas, guardas y acogimientos. Igualmente le dará cuenta de cualquier novedad de interés en las circunstancias del menor.
 
@@ -1132,9 +1103,7 @@ A estos efectos, los servicios correspondientes de las Administraciones Pública
 
 Diecinueve. Se modifica el artículo 175, que queda redactado como sigue:
 
-«Artículo 175.
-
-1. La adopción requiere que el adoptante sea mayor de veinticinco años. Si son dos los adoptantes bastará con que uno de ellos haya alcanzado dicha edad. En todo caso, la diferencia de edad entre adoptante y adoptando será de, al menos, dieciséis años y no podrá ser superior a cuarenta y cinco años, salvo en los casos previstos en el artículo
+«Artículo 175. 1. La adopción requiere que el adoptante sea mayor de veinticinco años. Si son dos los adoptantes bastará con que uno de ellos haya alcanzado dicha edad. En todo caso, la diferencia de edad entre adoptante y adoptando será de, al menos, dieciséis años y no podrá ser superior a cuarenta y cinco años, salvo en los casos previstos en el artículo
 
 **176.2.** Cuando fueran dos los adoptantes, será suficiente con que uno de ellos no tenga esa diferencia máxima de edad con el adoptando. Si los futuros adoptantes están en disposición de adoptar grupos de hermanos o menores con necesidades especiales, la diferencia máxima de edad podrá ser superior.
 
@@ -1156,9 +1125,7 @@ No pueden ser adoptantes los que no puedan ser tutores de acuerdo con lo previst
 
 Veinte. Se modifica el artículo 176, que queda redactado como sigue:
 
-«Artículo 176.
-
-1. La adopción se constituirá por resolución judicial, que tendrá en cuenta siempre el interés del adoptando y la idoneidad del adoptante o adoptantes para el ejercicio de la patria potestad.
+«Artículo 176. 1. La adopción se constituirá por resolución judicial, que tendrá en cuenta siempre el interés del adoptando y la idoneidad del adoptante o adoptantes para el ejercicio de la patria potestad.
 
 2. Para iniciar el expediente de adopción será necesaria la propuesta previa de la Entidad Pública a favor del adoptante o adoptantes que dicha Entidad Pública haya declarado idóneos para el ejercicio de la patria potestad. La declaración de idoneidad deberá ser previa a la propuesta.
 
@@ -1194,17 +1161,13 @@ prestado su consentimiento, hayan sido preparadas, declaradas idóneas y asignad
 
 Los guardadores con fines de adopción tendrán los mismos derechos y obligaciones que los acogedores familiares.
 
-2. Salvo que convenga otra cosa al interés del menor, la Entidad Pública procederá a suspender el régimen de visitas y relaciones con la familia de origen cuando se inicie el período de convivencia preadoptiva a que se refiere el apartado anterior, excepto en los casos previstos en el artículo 178.4.
-
-3. La propuesta de adopción al Juez tendrá que realizarse en el plazo más breve posible y, en todo caso, antes de transcurridos tres meses desde el día en el que se hubiera acordado la delegación de guarda con fines de adopción. No obstante, cuando la Entidad Pública considere necesario, en función de la edad y circunstancias del menor, establecer un período de adaptación del menor a la familia, dicho plazo de tres meses podrá prorrogarse hasta un máximo de un año.
+2. Salvo que convenga otra cosa al interés del menor, la Entidad Pública procederá a suspender el régimen de visitas y relaciones con la familia de origen cuando se inicie el período de convivencia preadoptiva a que se refiere el apartado anterior, excepto en los casos previstos en el artículo 178.4. 3. La propuesta de adopción al Juez tendrá que realizarse en el plazo más breve posible y, en todo caso, antes de transcurridos tres meses desde el día en el que se hubiera acordado la delegación de guarda con fines de adopción. No obstante, cuando la Entidad Pública considere necesario, en función de la edad y circunstancias del menor, establecer un período de adaptación del menor a la familia, dicho plazo de tres meses podrá prorrogarse hasta un máximo de un año.
 
 En el supuesto de que el Juez no considerase procedente esa adopción, la Entidad Pública deberá determinar la medida protectora más adecuada para el menor.»
 
 Veintidós. Se modifica el artículo 177, que queda redactado como sigue:
 
-«Artículo 177.
-
-1. Habrán de consentir la adopción, en presencia del Juez, el adoptante o adoptantes y el adoptando mayor de doce años.
+«Artículo 177. 1. Habrán de consentir la adopción, en presencia del Juez, el adoptante o adoptantes y el adoptando mayor de doce años.
 
 2. Deberán asentir a la adopción:
 
@@ -1232,9 +1195,7 @@ En las adopciones que exijan propuesta previa no se admitirá que el asentimient
 
 Veintitrés. Se modifica el artículo 178, que queda redactado como sigue:
 
-«Artículo 178.
-
-1. La adopción produce la extinción de los vínculos jurídicos entre el adoptado y su familia de origen.
+«Artículo 178. 1. La adopción produce la extinción de los vínculos jurídicos entre el adoptado y su familia de origen.
 
 2. Por excepción subsistirán los vínculos jurídicos con la familia del progenitor que, según el caso, corresponda:
 
@@ -1270,9 +1231,7 @@ Veinticinco. Se modifica el artículo 216, al que se añade el siguiente párraf
 
 Veintiséis. Se modifica el artículo 239, que queda redactado como sigue:
 
-«Artículo 239.
-
-1. La tutela de los menores que se encuentren en situación de desamparo corresponderá por ministerio de la ley a la Entidad Pública.
+«Artículo 239. 1. La tutela de los menores que se encuentren en situación de desamparo corresponderá por ministerio de la ley a la Entidad Pública.
 
 2. No obstante, se procederá al nombramiento de tutor conforme a las reglas ordinarias cuando existan personas que, por sus relaciones con el menor o por otras circunstancias, puedan asumir la tutela en interés de éste.
 
@@ -1286,17 +1245,13 @@ que queda redactado como sigue:
 
 «Artículo 239 bis.
 
-La Entidad Pública a la que en el respectivo territorio esté encomendada la protección y apoyo de las personas con la capacidad modificada judicialmente, será designada como tutora cuando no haya sido constituida la tutela en favor de persona alguna conforme al artículo 234.
-
-Asimismo, asumirá por ministerio de la ley la tutela de las personas con la capacidad modificada judicialmente cuando se encuentren en situación de desamparo, debiendo dar cuenta a la autoridad judicial que modificó su capacidad.
+La Entidad Pública a la que en el respectivo territorio esté encomendada la protección y apoyo de las personas con la capacidad modificada judicialmente, será designada como tutora cuando no haya sido constituida la tutela en favor de persona alguna conforme al artículo 234. Asimismo, asumirá por ministerio de la ley la tutela de las personas con la capacidad modificada judicialmente cuando se encuentren en situación de desamparo, debiendo dar cuenta a la autoridad judicial que modificó su capacidad.
 
 Se considera como situación de desamparo a estos efectos, la que se produce de hecho cuando la persona con la capacidad modificada judicialmente quede privada de la necesaria asistencia a causa del incumplimiento o del imposible o inadecuado ejercicio de los deberes que incumben a la persona designada para ejercer la tutela, de conformidad a las leyes, o por carecer de tutor.»
 
 Veintiocho. Se modifica el artículo 303, que queda redactado como sigue:
 
-«Artículo 303.
-
-1. Sin perjuicio de lo dispuesto en el artículo 228, cuando la autoridad judicial tenga conocimiento de la existencia de un guardador de hecho podrá requerirle para que informe de la situación de la persona y los bienes del menor, o de la persona que pudiera precisar de una institución de protección y apoyo, y de su actuación en relación con los mismos, pudiendo establecer asimismo las medidas de control y vigilancia que considere oportunas.
+«Artículo 303. 1. Sin perjuicio de lo dispuesto en el artículo 228, cuando la autoridad judicial tenga conocimiento de la existencia de un guardador de hecho podrá requerirle para que informe de la situación de la persona y los bienes del menor, o de la persona que pudiera precisar de una institución de protección y apoyo, y de su actuación en relación con los mismos, pudiendo establecer asimismo las medidas de control y vigilancia que considere oportunas.
 
 Cautelarmente, mientras se mantenga la situación de guarda de hecho y hasta que se constituya la medida de protección adecuada, si procediera, se podrán otorgar judicialmente facultades tutelares a los guardadores. Igualmente, si fuera menor de edad, se podrá constituir un acogimiento temporal, siendo acogedores los guardadores.
 
@@ -1306,9 +1261,7 @@ En los demás casos, el guardador de hecho podrá promover la privación o suspe
 
 Veintinueve. Se modifica el artículo 1263, que queda redactado como sigue:
 
-«Artículo 1263.
-
-No pueden prestar consentimiento:
+«Artículo 1263. No pueden prestar consentimiento:
 
 1.º Los menores no emancipados, salvo en aquellos contratos que las leyes les permitan realizar por sí mismos o con asistencia de sus representantes, y los relativos a bienes y servicios de la vida corriente propios de su edad de conformidad con los usos sociales.
 
@@ -1316,9 +1269,7 @@ No pueden prestar consentimiento:
 
 Treinta. Se modifica el artículo 1264, que queda redactado como sigue:
 
-«Artículo 1264.
-
-Lo previsto en el artículo anterior se entiende sin perjuicio de las prohibiciones legales o de los requisitos especiales de capacidad que las leyes puedan establecer.»
+«Artículo 1264. Lo previsto en el artículo anterior se entiende sin perjuicio de las prohibiciones legales o de los requisitos especiales de capacidad que las leyes puedan establecer.»
 
 #### Artículo tercero. Modificación de la Ley 54/2007, de 28 de diciembre, de Adopción Internacional.
 
@@ -1354,11 +1305,7 @@ Cuatro. Se modifica el artículo 4, que queda redactado como sigue:
 
 a) Cuando el país en que el menor adoptando tenga su residencia habitual se encuentre en conflicto bélico o inmerso en un desastre natural.
 
-b) Si no existe en el país una autoridad específica que controle y garantice la adopción y que remita a las autoridades españolas la propuesta de asignación con información sobre la adoptabilidad del menor y el resto de la información recogida en el párrafo e) del artículo 5.1.
-
-c) Cuando en el país no se den las garantías adecuadas para la adopción y las prácticas y trámites de la misma no respeten el interés del menor o no cumplan los principios éticos y jurídicos internacionales referidos en el artículo 3.
-
-3. La Administración General del Estado, en colaboración con las Entidades Públicas, determinará en cada momento qué países están incursos en alguna de las circunstancias previstas en el apartado anterior a efectos de decidir si procede iniciar o suspender la tramitación de adopciones en ellos.
+b) Si no existe en el país una autoridad específica que controle y garantice la adopción y que remita a las autoridades españolas la propuesta de asignación con información sobre la adoptabilidad del menor y el resto de la información recogida en el párrafo e) del artículo 5.1. c) Cuando en el país no se den las garantías adecuadas para la adopción y las prácticas y trámites de la misma no respeten el interés del menor o no cumplan los principios éticos y jurídicos internacionales referidos en el artículo 3. 3. La Administración General del Estado, en colaboración con las Entidades Públicas, determinará en cada momento qué países están incursos en alguna de las circunstancias previstas en el apartado anterior a efectos de decidir si procede iniciar o suspender la tramitación de adopciones en ellos.
 
 4. La tramitación de ofrecimientos para la adopción de aquellos menores extranjeros que hayan sido desplazados a España en programas humanitarios de estancia temporal por motivo de vacaciones, estudios o tratamiento médico, requerirá que tales estancias hayan finalizado y que en su país de origen hayan sido declarados adoptables.
 
@@ -1572,9 +1519,7 @@ Veinte. Se añade un apartado 4 en el artículo 19, que queda redactado como sig
 
 «4. En el caso de menores cuya ley nacional prohíba o no contemple la adopción se denegará la constitución de la adopción, excepto cuando el menor se encuentre en situación de desamparo y tutelado por la Entidad Pública.»
 
-Veintiuno. Se suprime el artículo 21.
-
-Veintidós. Se modifica el artículo 22, que queda redactado como sigue:
+Veintiuno. Se suprime el artículo 21. Veintidós. Se modifica el artículo 22, que queda redactado como sigue:
 
 «Artículo 22. Ley aplicable a la conversión y nulidad de la adopción.
 
@@ -1738,9 +1683,7 @@ Cinco. Se modifica el artículo 781, que queda redactado como sigue:
 
 2. Si no se presentara la demanda en el plazo fijado, el Secretario Judicial dictará decreto dando por finalizado el trámite y alzando la suspensión del expediente de adopción, que continuará tramitándose de conformidad con lo establecido en la legislación de jurisdicción voluntaria. El decreto será recurrible directamente en revisión ante el Tribunal. Firme dicha resolución, no se admitirá ninguna reclamación posterior de los mismos sujetos sobre la necesidad de asentimiento para la adopción de que se trate.
 
-3. Presentada la demanda dentro de plazo, el Secretario Judicial dictará decreto declarando contencioso el expediente de adopción y acordará la tramitación de la demanda presentada en el mismo procedimiento, como pieza separada, con arreglo a lo previsto en el artículo 753.
-
-Una vez firme la resolución que se dicte en la pieza separada sobre la necesidad del asentimiento de los progenitores del adoptando, el Secretario Judicial acordará la citación ante el Juez de las personas indicadas en el artículo 177 l.
+3. Presentada la demanda dentro de plazo, el Secretario Judicial dictará decreto declarando contencioso el expediente de adopción y acordará la tramitación de la demanda presentada en el mismo procedimiento, como pieza separada, con arreglo a lo previsto en el artículo 753. Una vez firme la resolución que se dicte en la pieza separada sobre la necesidad del asentimiento de los progenitores del adoptando, el Secretario Judicial acordará la citación ante el Juez de las personas indicadas en el artículo 177 l.
 
 código Civil que deban prestar el consentimiento o el asentimiento a la adopción así como ser oídos, y que todavía no lo hayan hecho, debiendo resolver a continuación sobre la adopción.
 
@@ -1812,11 +1755,7 @@ Los acogimientos constituidos judicialmente con anterioridad a la entrada en vig
 
 Hasta que entre en funcionamiento el Registro Central de Delincuentes Sexuales, la certificación a la que se refiere el artículo 13 de la [Ley Orgánica 1/1996](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del código Civil y de la Ley de Enjuiciamiento Civil será emitida por el Registro Central de Antecedentes Penales.
 
-#### Disposición transitoria quinta. Extensión de los beneficios relativos a los derechos de matriculación y examen en el ámbito de la educación a los títulos de familia numerosa en vigor a partir de 1 de enero de 2015.
-
-La modificación del artículo 6 de la Ley 40/2003, de 18 de noviembre, de protección a las familias numerosas, prevista en la disposición final quinta, será aplicable, a los exclusivos efectos de acceder a los beneficios en el ámbito de la educación relativos a los derechos de matriculación y examen previstos en el artículo 12.2.a) de la citada ley, a los títulos de familia numerosa que estuvieran en vigor a 1 de enero de 2015.
-
-#### Disposición derogatoria única. Derogación de normas.
+#### Disposición transitoria quinta. Extensión de los beneficios relativos a los derechos de matriculación y examen en el ámbito de la educación a los títulos de familia numerosa en vigor a partir de 1 de enero de 2015. La modificación del artículo 6 de la Ley 40/2003, de 18 de noviembre, de protección a las familias numerosas, prevista en la disposición final quinta, será aplicable, a los exclusivos efectos de acceder a los beneficios en el ámbito de la educación relativos a los derechos de matriculación y examen previstos en el artículo 12.2.a) de la citada ley, a los títulos de familia numerosa que estuvieran en vigor a 1 de enero de 2015. #### Disposición derogatoria única. Derogación de normas.
 
 Se deroga la disposición adicional única de la Ley 54/2007, de 28 de diciembre, de Adopción Internacional.
 
@@ -1968,9 +1907,7 @@ Cuando la Entidad Gestora tenga conocimiento, antes o durante el trámite del pr
 
 En los casos indicados en los dos párrafos precedentes, la suspensión cautelar se mantendrá hasta que recaiga sentencia firme u otra resolución firme que ponga fin al procedimiento penal, o determine la no culpabilidad del beneficiario.
 
-Si el beneficiario de la prestación fuera finalmente condenado por sentencia firme por la comisión del indicado delito, procederá la revisión del reconocimiento y, en su caso, el reintegro de las prestaciones percibidas, de acuerdo con lo previsto en el artículo 179 ter. Cuando recaiga sentencia absolutoria o resolución judicial firme que declare la no culpabilidad del beneficiario, se rehabilitará el pago de la prestación suspendida con los efectos que hubieran procedido de no haberse acordado la suspensión, una vez descontadas, en su caso, las cantidades satisfechas en concepto de obligación de alimentos conforme a lo dispuesto en el apartado 3.
-
-2. No obstante, si recayera sentencia absolutoria en primera instancia y esta fuera recurrida, la suspensión cautelar se alzará hasta la resolución del recurso por sentencia firme. En este caso, si la sentencia firme recaída en dicho recurso fuese también absolutoria, se abonarán al beneficiario las prestaciones dejadas de percibir desde que se acordó la suspensión cautelar hasta que se alzó esta, con descuento de las cantidades que, en su caso, se hubieran satisfecho a terceros en concepto de obligación de alimentos conforme a lo dispuesto en el apartado 3. Por el contrario, si la sentencia firme recaída en el recurso resultara condenatoria, procederá la revisión del reconocimiento de la prestación así como la devolución de las prestaciones percibidas por el condenado, conforme a lo indicado en el apartado 1 de este artículo, incluidas las correspondientes al período en que estuvo alzada la suspensión.
+Si el beneficiario de la prestación fuera finalmente condenado por sentencia firme por la comisión del indicado delito, procederá la revisión del reconocimiento y, en su caso, el reintegro de las prestaciones percibidas, de acuerdo con lo previsto en el artículo 179 ter. Cuando recaiga sentencia absolutoria o resolución judicial firme que declare la no culpabilidad del beneficiario, se rehabilitará el pago de la prestación suspendida con los efectos que hubieran procedido de no haberse acordado la suspensión, una vez descontadas, en su caso, las cantidades satisfechas en concepto de obligación de alimentos conforme a lo dispuesto en el apartado 3. 2. No obstante, si recayera sentencia absolutoria en primera instancia y esta fuera recurrida, la suspensión cautelar se alzará hasta la resolución del recurso por sentencia firme. En este caso, si la sentencia firme recaída en dicho recurso fuese también absolutoria, se abonarán al beneficiario las prestaciones dejadas de percibir desde que se acordó la suspensión cautelar hasta que se alzó esta, con descuento de las cantidades que, en su caso, se hubieran satisfecho a terceros en concepto de obligación de alimentos conforme a lo dispuesto en el apartado 3. Por el contrario, si la sentencia firme recaída en el recurso resultara condenatoria, procederá la revisión del reconocimiento de la prestación así como la devolución de las prestaciones percibidas por el condenado, conforme a lo indicado en el apartado 1 de este artículo, incluidas las correspondientes al período en que estuvo alzada la suspensión.
 
 3. Durante la suspensión del pago de una pensión de viudedad, acordada conforme a lo previsto en este artículo, se podrán hacer efectivas con cargo a la misma, hasta el límite del importe que le hubiera correspondido por tal concepto al beneficiario de dicha pensión, las obligaciones de alimentos a favor de los titulares de pensión de orfandad o en favor de familiares causada por la víctima del delito, siempre que dichos titulares hubieran de ser beneficiarios de los incrementos a que se refiere el artículo 179 quinquies si.
 
@@ -2096,9 +2033,7 @@ El artículo 146.2 de la Ley 36/2011, de 10 de octubre, reguladora de la Jurisdi
 
 a) La rectificación de errores materiales o de hecho y los aritméticos, así como las revisiones motivadas por la constatación de omisiones o inexactitudes en las declaraciones del beneficiario, así como la reclamación de las cantidades que, en su caso, se hubieran percibido indebidamente por tal motivo.
 
-b) Las revisiones de los actos en materia de protección por desempleo, y por cese de actividad de los trabajadores autónomos, siempre que se efectúen dentro del plazo máximo de un año desde la resolución administrativa o del órgano gestor que no hubiere sido impugnada, sin perjuicio de lo dispuesto en el artículo 147.
-
-c) La revisión de los actos de reconocimiento del derecho a una prestación de muerte y supervivencia, motivada por la condena al beneficiario, mediante sentencia firme, por la comisión de un delito doloso de homicidio en cualquiera de sus formas, cuando la víctima fuera el sujeto causante de la prestación, que podrá efectuarse en cualquier momento, así como la reclamación de las cantidades que, en su caso, hubiera percibido por tal concepto.»
+b) Las revisiones de los actos en materia de protección por desempleo, y por cese de actividad de los trabajadores autónomos, siempre que se efectúen dentro del plazo máximo de un año desde la resolución administrativa o del órgano gestor que no hubiere sido impugnada, sin perjuicio de lo dispuesto en el artículo 147. c) La revisión de los actos de reconocimiento del derecho a una prestación de muerte y supervivencia, motivada por la condena al beneficiario, mediante sentencia firme, por la comisión de un delito doloso de homicidio en cualquiera de sus formas, cuando la víctima fuera el sujeto causante de la prestación, que podrá efectuarse en cualquier momento, así como la reclamación de las cantidades que, en su caso, hubiera percibido por tal concepto.»
 
 #### Disposición final decimocuarta. Eficacia en la aplicación de las modificaciones legales.
 
@@ -2144,9 +2079,7 @@ Por tanto,
 
 Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
 
-Madrid, 28 de julio de 2015.
-
-FELIPE R.
+Madrid, 28 de julio de 2015. FELIPE R.
 
 El Presidente del Gobierno,
 

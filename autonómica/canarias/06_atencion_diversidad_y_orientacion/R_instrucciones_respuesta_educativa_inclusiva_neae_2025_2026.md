@@ -1,10 +1,13 @@
 ---
 id: norm-can-r-inclusión-neae-2025-2026
 codigo_sintetizado: R_Respuesta Educativa Inclusiva NEAE 2025-2026 Canarias
-titulo: Resolución por la que se dictan instrucciones relativas a la respuesta educativa inclusiva y la organización de la atención al alumnado con necesidades específicas de apoyo educativo (NEAE) para el curso 2025-2026.
+titulo: Resolución por la que se dictan instrucciones relativas a la respuesta educativa
+  inclusiva y la organización de la atención al alumnado con necesidades específicas
+  de apoyo educativo (NEAE) para el curso 2025-2026.
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Formación Profesional, Actividad Física y Deportes del Gobierno de Canarias
+organo_emisor: Consejería de Educación, Formación Profesional, Actividad Física y
+  Deportes del Gobierno de Canarias
 tipo_disposicion: Resolución
 numero_disposicion: Inclusión 2025-2026
 fecha_disposicion: '2025-06-30'
@@ -18,22 +21,20 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Atención a la diversidad
 tags:
-  - neae
-  - inclusion_educativa
-  - adaptaciones_curriculares
-  - orientacion
-  - canarias
+- neae
+- inclusion_educativa
+- adaptaciones_curriculares
+- orientacion
+- canarias
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-1-1996
 ---
-# Resolución por la que se dictan instrucciones relativas a la respuesta educativa inclusiva y la organización de la atención al alumnado con necesidades específicas de apoyo educativo (NEAE) para el curso 2025-2026.
-
-## Preámbulo
+# Resolución por la que se dictan instrucciones relativas a la respuesta educativa inclusiva y la organización de la atención al alumnado con necesidades específicas de apoyo educativo (NEAE) para el curso 2025-2026. ## Preámbulo
 
 El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.
 
@@ -45,9 +46,7 @@ DISPONGO:
 
 #### Artículo 1. Objeto y ámbito de aplicación.
 
-1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Resolución Inclusión 2025-2026.
-
-2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Canarias.
+1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Resolución Inclusión 2025-2026. 2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Canarias.
 
 #### Artículo 2. Principios generales de actuación.
 
@@ -67,8 +66,6 @@ Las Administraciones educativas proveerán los recursos materiales, organizativo
 
 #### Disposición final primera. Habilitación para el desarrollo normativo.
 
-Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Resolución Inclusión 2025-2026.
-
-#### Disposición final segunda. Entrada en vigor.
+Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Resolución Inclusión 2025-2026. #### Disposición final segunda. Entrada en vigor.
 
 La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

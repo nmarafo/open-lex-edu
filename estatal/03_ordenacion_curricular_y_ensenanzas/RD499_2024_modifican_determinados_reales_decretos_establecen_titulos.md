@@ -1,10 +1,13 @@
 ---
 id: norm-es-2024-10684
 codigo_sintetizado: BOE-A-2024-10684
-titulo: Real Decreto 499/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado medio y se fijan sus enseñanzas mínimas.
+titulo: Real Decreto 499/2024, de 21 de mayo, por el que se modifican determinados
+  reales decretos por los que se establecen títulos de Formación Profesional de grado
+  medio y se fijan sus enseñanzas mínimas.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2024-05-28'
 boletin: BOE
@@ -15,51 +18,47 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-  - curriculo
-  - formacion-profesional
-  - grado-medio
-  - profesorado
-  - titulacion
+- curriculo
+- formacion-profesional
+- grado-medio
+- profesorado
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2007-5478
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2020-17274
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2021-979
-    - norma_id: norm-es-2022-16194
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-2007-5478
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2020-17274
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2021-979
+  - norma_id: norm-es-2022-16194
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rd-659-2023
   desarrollado_por: []
   fundamento_de:
-    - norma_id: norm-can-res-boc-2024-226-44
-    - norma_id: norm-can-res-boc-2026-070-41
-    - norma_id: norm-can-res-027
-    - norma_id: norm-can-res-030
-    - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-can-res-boc-2026-070-41
+  - norma_id: norm-can-res-027
+  - norma_id: norm-can-res-030
+  - norma_id: norm-can-res-boc-2024-230-25
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - '6'
-    - 6bis
-    - norma_id: norm-can-l-6-2014
-  articulos:
-    - '22'
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-can-res-134
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-2020-17274
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2021-979
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2007-5478
-    - norma_id: norm-es-2022-16194
-    - norma_id: norm-es-rd-276-2007
+  - '22'
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-134
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-2020-17274
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2021-979
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2007-5478
+  - norma_id: norm-es-2022-16194
+  - norma_id: norm-es-rd-276-2007
 ---
 # Real Decreto 499/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado medio y se fijan sus enseñanzas mínimas.
 
@@ -387,7 +386,7 @@ Uno. En el Real Decreto 1396/2007, de 29 de octubre, por el que se establece e
 
 sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
 
@@ -429,7 +428,7 @@ Dos. En el Real Decreto 1690/2007, de 14 de diciembre, por el que se establece
 
 sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
 
@@ -511,7 +510,7 @@ Tres. En el Real Decreto 1692/2007, de 14 de diciembre, por el que se establec
 
 sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
 
@@ -621,7 +620,7 @@ Cuatro. En el Real Decreto 177/2008, de 8 de febrero, por el que se establece 
 
 sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
 
@@ -703,7 +702,7 @@ Cinco. En el Real Decreto 955/2008, de 6 de junio, por el que se establece el 
 
 sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
 
@@ -839,7 +838,7 @@ Seis. En el Real Decreto 1631/2009, de 30 de octubre, por el que se establece 
 
 sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
 
@@ -909,7 +908,7 @@ Siete. En el Real Decreto 1634/2009, de 30 de octubre, por el que se establece
 
 sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
 
@@ -1073,7 +1072,7 @@ Ocho. En el Real Decreto 452/2010, de 16 de abril, por el que se establece el 
 
 sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
 
@@ -1217,7 +1216,7 @@ Nueve. En el Real Decreto 453/2010, de 16 de abril, por el que se establece el
 
 sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
 
@@ -1255,7 +1254,7 @@ Diez. En el Real Decreto 1792/2010, de 30 de diciembre, por el que se establec
 
 sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
 
@@ -1343,7 +1342,7 @@ Once. En el Real Decreto 1793/2010, de 30 de diciembre, por el que se establec
 
 sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
 
@@ -1449,7 +1448,7 @@ Doce. En el Real Decreto 256/2011, de 28 de febrero, por el que se establece e
 
 sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
 
@@ -1517,7 +1516,7 @@ Trece. En el Real Decreto 257/2011, de 28 de febrero, por el que se establece 
 
 sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
 
@@ -1599,7 +1598,7 @@ Nota: Las personas matriculadas en este ciclo formativo que tengan acreditadas t
 
 Correspondencia de los módulos profesionales con las unidades de competencia para su acreditación
 
-UC0196_2: Ensamblar piezas de tejidos y laminados.Â
+UC0196_2: Ensamblar piezas de tejidos y laminados.
 
 UC0197_2: Ensamblar piezas de pieles y cueros.
 
@@ -1615,11 +1614,11 @@ UC2352_2: Realizar operaciones previas al cortado en calzado y marroquinería.
 
 UC2353_2: Realizar operaciones de corte en calzado y marroquinería.
 
-UC0451_2: Realizar el montado de calzado por diferentes sistemas y acabados.Â
+UC0451_2: Realizar el montado de calzado por diferentes sistemas y acabados.
 
 UC0452_2: Realizar el montado de calzado por inyectado y vulcanizado.
 
-UC1503_2: Adaptar hormas base para fabricar calzado a medida y ortopÃ©dico.Â
+UC1503_2: Adaptar hormas base para fabricar calzado a medida y ortopédico.
 
 UC1504_2 Elaborar calzado a medida y ortopédico.
 
@@ -1627,7 +1626,7 @@ Catorce. En el Real Decreto 1575/2011, de 4 de noviembre, por el que se establ
 
 sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
 
@@ -1821,7 +1820,7 @@ Quince. Se modifica el Real Decreto 1588/2011, de 4 de noviembre, por el que s
 
 sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
 
@@ -1905,7 +1904,7 @@ Dieciséis. En el Real Decreto 1589/2011, de 4 de noviembre, por el que se est
 
 sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
 
@@ -1985,7 +1984,7 @@ Diecisiete. En el Real Decreto 1591/2011, de 4 de noviembre, por el que se est
 
 sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
 
@@ -2103,7 +2102,7 @@ Dieciocho. En el Real Decreto 1592/2011, de 4 de noviembre, por el que se esta
 
 sustituyen los anexos IV A) y IV B) con la siguiente redacción:
 
-#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
 
@@ -2183,7 +2182,7 @@ Diecinueve. En el Real Decreto 1593/2011, de 4 de noviembre, por el que se est
 
 sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
 
@@ -2275,7 +2274,7 @@ Veinte. En el Real Decreto 1683/2011, de 18 de noviembre, por el que se establ
 
 sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
 
@@ -2363,9 +2362,7 @@ Nota: las personas matriculadas en este ciclo formativo que tengan acreditadas t
 
 Las competencias que desarrolla la UC0200_2: «Operar en el proceso gráfico en condiciones de seguridad, calidad y productividad» están implícitas en cualquier proceso gráfico y, por tanto, esta unidad de competencia forma parte complementaria de todas las unidades de competencia incluidas en el título.
 
-En consecuencia, para la convalidación de cualquier módulo profesional del título, será necesario tener acreditadas las unidades de competencia relacionadas con cada módulo, que aparecen en esta tabla, y además la UC0200_2.
-
-## Anexo V. B)
+En consecuencia, para la convalidación de cualquier módulo profesional del título, será necesario tener acreditadas las unidades de competencia relacionadas con cada módulo, que aparecen en esta tabla, y además la UC0200_2. ## Anexo V. B)
 
 Correspondencia de los módulos profesionales con las unidades de competencia para su acreditación
 
@@ -2401,7 +2398,7 @@ Veintiuno. En el Real Decreto 1689/2011, de 18 de noviembre, por el que se est
 
 sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
 
@@ -2553,7 +2550,7 @@ Veintidós. En el Real Decreto 1145/2012, de 27 de julio, por el que se establ
 
 sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
 
@@ -2655,7 +2652,7 @@ Veintitrés. En el Real Decreto 1072/2012, de 13 de julio, por el que se estab
 
 sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
 
@@ -2771,7 +2768,7 @@ Veinticuatro. En el Real Decreto 907/2013, de 22 de noviembre, por el que se e
 
 sustituyen los anexos IV A) y IV B) con la siguiente redacción:
 
-#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
 
@@ -2847,7 +2844,7 @@ Veinticinco. Se modifica el Real Decreto 114/2017, de 17 de febrero, por el qu
 
 sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
 
@@ -2921,7 +2918,7 @@ Veintiséis. Se modifica el Real Decreto 652/2017, de 23 de junio, por el que 
 
 sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+#### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
 
@@ -2989,7 +2986,7 @@ Uno. En los reales decretos a que hace referencia el artículo primero.Dos.a),
 
 a) Se da una nueva redacción al primer párrafo del apartado 1, que queda redactado como sigue:
 
-«1. Los módulos profesionales y el proyecto intermodular de este ciclo formativo:»
+«1. Los módulos profesionales y el proyecto intermodular de este ciclo formativo:»
 
 b) Se da una nueva redacción al apartado 1.a), cuya redacción queda como sigue:
 
@@ -3003,27 +3000,27 @@ c) Se da una nueva redacción al apartado 1.b) en los siguientes términos:
 
 d) Se modifica el apartado 2, que queda redactado como sigue:
 
-«2. Las Administraciones educativas establecerán los currículos correspondientes, respetando lo establecido en este real decreto y de acuerdo con lo dispuesto en el artículo 7 l.
+«2. Las Administraciones educativas establecerán los currículos correspondientes, respetando lo establecido en este real decreto y de acuerdo con lo dispuesto en el artículo 7 l.
 
 Real Decreto 659/2023, de 18 de julio.»
 
 e) Se incluye un nuevo apartado 3 con la siguiente redacción:
 
-«3. Los ciclos formativos de grado medio tendrán estructura modular y se organizarán en los bloques previstos en el artículo 96.1 del Real Decreto 659/2023, de 18 de julio. Así mismo, las administraciones educativas incluirán el módulo profesional de carácter optativo con una duración de currículo básico de 80 horas. Este podrá desarrollarse durante un curso completo, o en dos cuatrimestres. En este segundo caso, será posible su distribución en dos módulos cuatrimestrales en diferentes cursos.»
+«3. Los ciclos formativos de grado medio tendrán estructura modular y se organizarán en los bloques previstos en el artículo 96.1 del Real Decreto 659/2023, de 18 de julio. Así mismo, las administraciones educativas incluirán el módulo profesional de carácter optativo con una duración de currículo básico de 80 horas. Este podrá desarrollarse durante un curso completo, o en dos cuatrimestres. En este segundo caso, será posible su distribución en dos módulos cuatrimestrales en diferentes cursos.»
 
 f) Se incluye un nuevo apartado 4 con la siguiente redacción:
 
-«4. De acuerdo con lo establecido en los artículos 12.3 y 12.4 del Real Decreto 659/2023, de 18 de julio, y sin perjuicio de lo señalado en el artículo 6 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, los contenidos básicos que figuran en los anexos I correspondientes a los módulos profesionales que conforman los diferentes ciclos formativos de grado medio a los que se refiere el presente real decreto tendrán la consideración de carácter orientativo.»
+«4. De acuerdo con lo establecido en los artículos 12.3 y 12.4 del Real Decreto 659/2023, de 18 de julio, y sin perjuicio de lo señalado en el artículo 6 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, los contenidos básicos que figuran en los anexos I correspondientes a los módulos profesionales que conforman los diferentes ciclos formativos de grado medio a los que se refiere el presente real decreto tendrán la consideración de carácter orientativo.»
 
 g) Se incluye un nuevo apartado 5 con la siguiente redacción:
 
-«5. Todos los ciclos formativos a que hace referencia el artículo 1.2 incluirán un periodo de formación en empresa u organismo equiparado en los términos regulados en el título IV del Real Decreto 659/2023, de 18 de julio.»
+«5. Todos los ciclos formativos a que hace referencia el artículo 1.2 incluirán un periodo de formación en empresa u organismo equiparado en los términos regulados en el título IV del Real Decreto 659/2023, de 18 de julio.»
 
 Dos. En el Real Decreto 1396/2007, de 29 de octubre, por el que se establece el título de Técnico en Cocina y Gastronomía y se fijan sus enseñanzas mínimas, Real Decreto 1397/2007, de 29 de octubre, por el que se establece el título de Técnico en Emergencias Sanitarias y se fijan sus enseñanzas mínimas, Real Decreto 1398/2007, de 29 de octubre, por el que se establece el título de Técnico en Mecanizado y se fijan sus enseñanzas mínimas, Real Decreto 1399/2007, de 29 de octubre, por el que se establece el título de Técnico en panadería, repostería y confitería y se fijan sus enseñanzas mínimas, se modifica el artículo 10, en los siguientes términos:
 
 a) Se da una nueva redacción al primer párrafo del apartado a), que queda redactado como sigue:
 
-«1. Los módulos profesionales y el proyecto intermodular de este ciclo formativo:»
+«1. Los módulos profesionales y el proyecto intermodular de este ciclo formativo:»
 
 b) Se da una nueva redacción al apartado a), cuya redacción queda como sigue:
 
@@ -3059,7 +3056,7 @@ los siguientes términos:
 
 a) Se da una nueva redacción al primer párrafo del apartado 1, que queda redactado como sigue:
 
-«1. Los módulos profesionales y el proyecto intermodular de este ciclo formativo:»
+«1. Los módulos profesionales y el proyecto intermodular de este ciclo formativo:»
 
 b) Se da una nueva redacción al apartado 1.a), cuya redacción queda como sigue:
 
@@ -3075,21 +3072,21 @@ c) Se da una nueva redacción al apartado 1.b) en los siguientes términos:
 
 d) Se modifica el apartado 2, que queda redactado como sigue:
 
-«2. Las Administraciones educativas establecerán los currículos correspondientes, respetando lo establecido en este real decreto y de acuerdo con lo dispuesto en el artículo 7 l.
+«2. Las Administraciones educativas establecerán los currículos correspondientes, respetando lo establecido en este real decreto y de acuerdo con lo dispuesto en el artículo 7 l.
 
 Real Decreto 659/2023, de 18 de julio.»
 
 e) Se incluye un nuevo apartado 3 con la siguiente redacción:
 
-«3. Los ciclos formativos de grado medio tendrán estructura modular y se organizarán en los bloques previstos en el artículo 96.1 del Real Decreto 659/2023, de 18 de julio. Así mismo, las administraciones educativas incluirán el módulo profesional de carácter optativo con una duración de currículo básico de 80 horas. Este podrá desarrollarse durante un curso completo, o en dos cuatrimestres. En este segundo caso, será posible su distribución en dos módulos cuatrimestrales en diferentes cursos.»
+«3. Los ciclos formativos de grado medio tendrán estructura modular y se organizarán en los bloques previstos en el artículo 96.1 del Real Decreto 659/2023, de 18 de julio. Así mismo, las administraciones educativas incluirán el módulo profesional de carácter optativo con una duración de currículo básico de 80 horas. Este podrá desarrollarse durante un curso completo, o en dos cuatrimestres. En este segundo caso, será posible su distribución en dos módulos cuatrimestrales en diferentes cursos.»
 
 f) Se incluye un nuevo apartado 4 con la siguiente redacción:
 
-«4. De acuerdo con lo establecido en los artículos 12.3 y 12.4 del Real Decreto 659/2023, de 18 de julio, y sin perjuicio de lo señalado en el artículo 6 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, los contenidos básicos que figuran en los anexos I correspondientes a los módulos profesionales que conforman los diferentes ciclos formativos de grado medio a los que se refiere el presente real decreto tendrán la consideración de carácter orientativo.»
+«4. De acuerdo con lo establecido en los artículos 12.3 y 12.4 del Real Decreto 659/2023, de 18 de julio, y sin perjuicio de lo señalado en el artículo 6 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, los contenidos básicos que figuran en los anexos I correspondientes a los módulos profesionales que conforman los diferentes ciclos formativos de grado medio a los que se refiere el presente real decreto tendrán la consideración de carácter orientativo.»
 
 g) Se incluye un nuevo apartado 5 con la siguiente redacción:
 
-«5. Todos los ciclos formativos a que hace referencia el artículo 1.2 incluirán un periodo de formación en empresa u organismo equiparado en los términos regulados en el título IV del Real Decreto 659/2023, de 18 de julio.»
+«5. Todos los ciclos formativos a que hace referencia el artículo 1.2 incluirán un periodo de formación en empresa u organismo equiparado en los términos regulados en el título IV del Real Decreto 659/2023, de 18 de julio.»
 
 Cuatro. En los reales decretos a que hace referencia el artículo primero.Dos.c), se modifica el artículo 10 en.
 
@@ -3097,7 +3094,7 @@ los siguientes términos:
 
 a) Se da una nueva redacción al primer párrafo del apartado 1, que queda redactado como sigue:
 
-«1. Los módulos profesionales y el proyecto intermodular de este ciclo formativo:»
+«1. Los módulos profesionales y el proyecto intermodular de este ciclo formativo:»
 
 b) Se da una nueva redacción al apartado 1.a), cuya redacción queda como sigue:
 
@@ -3113,21 +3110,21 @@ c) Se da una nueva redacción al apartado 1.b) en los siguientes términos:
 
 d) Se modifica el apartado 2, que queda redactado como sigue:
 
-«2. Las Administraciones educativas establecerán los currículos correspondientes, respetando lo establecido en este real decreto y de acuerdo con lo dispuesto en el artículo 7 l.
+«2. Las Administraciones educativas establecerán los currículos correspondientes, respetando lo establecido en este real decreto y de acuerdo con lo dispuesto en el artículo 7 l.
 
 Real Decreto 659/2023, de 18 de julio.»
 
 e) Se incluye un nuevo apartado 3 con la siguiente redacción:
 
-«3. Los ciclos formativos de grado medio tendrán estructura modular y se organizarán en los bloques previstos en el artículo 96.1 del Real Decreto 659/2023, de 18 de julio. Así mismo, las administraciones educativas incluirán el módulo profesional de carácter optativo con una duración de currículo básico de 80 horas. Este podrá desarrollarse durante un curso completo, o en dos cuatrimestres. En este segundo caso, será posible su distribución en dos módulos cuatrimestrales en diferentes cursos.»
+«3. Los ciclos formativos de grado medio tendrán estructura modular y se organizarán en los bloques previstos en el artículo 96.1 del Real Decreto 659/2023, de 18 de julio. Así mismo, las administraciones educativas incluirán el módulo profesional de carácter optativo con una duración de currículo básico de 80 horas. Este podrá desarrollarse durante un curso completo, o en dos cuatrimestres. En este segundo caso, será posible su distribución en dos módulos cuatrimestrales en diferentes cursos.»
 
 f) Se incluye un nuevo apartado 4 con la siguiente redacción:
 
-«4. De acuerdo con lo establecido en los artículos 12.3 y 12.4 del Real Decreto 659/2023, de 18 de julio, y sin perjuicio de lo señalado en el artículo 6 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, los contenidos básicos que figuran en los anexos I correspondientes a los módulos profesionales que conforman los diferentes ciclos formativos de grado medio a los que se refiere el presente real decreto tendrán la consideración de carácter orientativo.»
+«4. De acuerdo con lo establecido en los artículos 12.3 y 12.4 del Real Decreto 659/2023, de 18 de julio, y sin perjuicio de lo señalado en el artículo 6 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, los contenidos básicos que figuran en los anexos I correspondientes a los módulos profesionales que conforman los diferentes ciclos formativos de grado medio a los que se refiere el presente real decreto tendrán la consideración de carácter orientativo.»
 
 g) Se incluye un nuevo apartado 5 con la siguiente redacción:
 
-«5. Todos los ciclos formativos a que hace referencia el artículo 1.2 incluirán un periodo de formación en empresa u organismo equiparado en los términos regulados en el título IV del Real Decreto 659/2023, de 18 de julio.»
+«5. Todos los ciclos formativos a que hace referencia el artículo 1.2 incluirán un periodo de formación en empresa u organismo equiparado en los términos regulados en el título IV del Real Decreto 659/2023, de 18 de julio.»
 
 #### Artículo quinto. Modificación del artículo relativo al profesorado.
 
@@ -3135,15 +3132,15 @@ En los reales decretos a que hace referencia el artículo primero.Dos, el artíc
 
 redactado como sigue:
 
-«1. La docencia de los módulos profesionales que constituyen las enseñanzas de este ciclo formativo corresponde al profesorado de las especialidades establecidas en el anexo III pertenecientes a los cuerpos indicados en dicho anexo, sin perjuicio de lo establecido en la disposición transitoria sexta del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el [Real Decreto 276/2007](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md), de 23 de febrero.
+«1. La docencia de los módulos profesionales que constituyen las enseñanzas de este ciclo formativo corresponde al profesorado de las especialidades establecidas en el anexo III pertenecientes a los cuerpos indicados en dicho anexo, sin perjuicio de lo establecido en la disposición transitoria sexta del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el [Real Decreto 276/2007](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md), de 23 de febrero.
 
-2. Las condiciones de acceso a los cuerpos a que se refiere el apartado anterior serán las recogidas en el Real Decreto 276/2007, de 23 de febrero.
+2. Las condiciones de acceso a los cuerpos a que se refiere el apartado anterior serán las recogidas en el Real Decreto 276/2007, de 23 de febrero.
 
-3. Para la impartición de módulos profesionales en centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, las titulaciones requeridas y los requisitos necesarios para el profesorado serán los mismos que los exigidos para el acceso a las especialidades de los cuerpos docentes a que se refiere el apartado anterior, según la atribución docente que se establece para cada módulo en el anexo III. En todo caso, se exigirá que las enseñanzas conducentes a las titulaciones citadas engloben los resultados de aprendizaje de los módulos profesionales y, si dichos elementos citados no estuvieran incluidos, además de la titulación, deberá acreditarse, mediante certificación, una experiencia laboral de, al menos, tres años en el sector vinculado a la familia profesional, realizando actividades productivas en empresas relacionadas implícitamente con los resultados de aprendizaje.
+3. Para la impartición de módulos profesionales en centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, las titulaciones requeridas y los requisitos necesarios para el profesorado serán los mismos que los exigidos para el acceso a las especialidades de los cuerpos docentes a que se refiere el apartado anterior, según la atribución docente que se establece para cada módulo en el anexo III. En todo caso, se exigirá que las enseñanzas conducentes a las titulaciones citadas engloben los resultados de aprendizaje de los módulos profesionales y, si dichos elementos citados no estuvieran incluidos, además de la titulación, deberá acreditarse, mediante certificación, una experiencia laboral de, al menos, tres años en el sector vinculado a la familia profesional, realizando actividades productivas en empresas relacionadas implícitamente con los resultados de aprendizaje.
 
-4. En caso de contar con otros perfiles colaboradores, estos deberán cumplir los requisitos indicados en el capítulo IV del título V del Real Decreto 659/2023, de 18 de julio.
+4. En caso de contar con otros perfiles colaboradores, estos deberán cumplir los requisitos indicados en el capítulo IV del título V del Real Decreto 659/2023, de 18 de julio.
 
-5. Corresponderá a las administraciones competentes determinar la atribución docente del módulo o módulos optativos en consonancia con su diseño curricular.»
+5. Corresponderá a las administraciones competentes determinar la atribución docente del módulo o módulos optativos en consonancia con su diseño curricular.»
 
 #### Artículo sexto. Modificación del artículo relativo a convalidaciones y exenciones.
 
@@ -3151,11 +3148,11 @@ En los reales decretos a que hace referencia el artículo primero.Dos, el artíc
 
 redactado como sigue:
 
-«1. Las condiciones de convalidación de módulos profesionales del presente título se atendrán a lo establecido en el artículo 126 l.
+«1. Las condiciones de convalidación de módulos profesionales del presente título se atendrán a lo establecido en el artículo 126 l.
 
 Real Decreto 659/2023, de 18 de julio.
 
-2. La convalidación de módulos profesionales entre formaciones del Sistema de Formación Profesional y formaciones propias de regulaciones previas del mismo se regirá por lo señalado en el artículo 127 l.
+2. La convalidación de módulos profesionales entre formaciones del Sistema de Formación Profesional y formaciones propias de regulaciones previas del mismo se regirá por lo señalado en el artículo 127 l.
 
 Real Decreto 659/2023, de 18 de julio.
 
@@ -3163,17 +3160,17 @@ a) Para aquellos títulos establecidos con anterioridad al 5 de marzo de 2017, s
 
 b) Para aquellos títulos establecidos con posterioridad al 5 de marzo de 2017, será de aplicación lo dispuesto en el anexo IV de cada uno de los respectivos reales decretos y complementariamente el Real Decreto 1085/2020, de 9 de diciembre.
 
-3. La convalidación de módulos profesionales mediante la acreditación de estándares de competencias profesionales adquiridos a través de la experiencia laboral u otras vías no formales e informales se atendrá, si procede, a lo establecido en el artículo 128 l.
+3. La convalidación de módulos profesionales mediante la acreditación de estándares de competencias profesionales adquiridos a través de la experiencia laboral u otras vías no formales e informales se atendrá, si procede, a lo establecido en el artículo 128 l.
 
 Real Decreto 659/2023, de 18 de julio. Para ello, serán de aplicación las tablas de «correspondencia entre unidades de competencia acreditadas con los módulos profesionales para su convalidación». A estos efectos, si en la misma celda aparecieran dos o más unidades de competencia acreditadas deberá entenderse que para la convalidación será necesario poseer todas ellas de manera simultánea.
 
-4. Para la acreditación de estándares de competencias profesionales mediante la superación de módulos profesionales, serán de aplicación las tablas de «correspondencia de los módulos profesionales superados con las unidades de competencia para su acreditación». A estos efectos, si en la misma celda aparecieran dos o más módulos profesionales superados, deberá entenderse que para la acreditación será necesario poseer todos ellos de manera simultánea.
+4. Para la acreditación de estándares de competencias profesionales mediante la superación de módulos profesionales, serán de aplicación las tablas de «correspondencia de los módulos profesionales superados con las unidades de competencia para su acreditación». A estos efectos, si en la misma celda aparecieran dos o más módulos profesionales superados, deberá entenderse que para la acreditación será necesario poseer todos ellos de manera simultánea.
 
-5. A los efectos previstos en el punto 4, serán igualmente de aplicación las unidades de competencia acreditadas mediante el procedimiento regulado por el derogado Real Decreto 1224/2009, de 17 de julio, de reconocimiento de las competencias profesionales adquiridas por experiencia laboral.
+5. A los efectos previstos en el punto 4, serán igualmente de aplicación las unidades de competencia acreditadas mediante el procedimiento regulado por el derogado Real Decreto 1224/2009, de 17 de julio, de reconocimiento de las competencias profesionales adquiridas por experiencia laboral.
 
-6. Habida cuenta de las actualizaciones en las denominaciones de las unidades de competencia y/o de los módulos profesionales, en caso de discrepancia, prevalecerá la codificación frente a la denominación.
+6. Habida cuenta de las actualizaciones en las denominaciones de las unidades de competencia y/o de los módulos profesionales, en caso de discrepancia, prevalecerá la codificación frente a la denominación.
 
-7. La exención del periodo de formación en empresa u organismo equiparado podrá efectuarse en los términos recogidos en el artículo 131 l.
+7. La exención del periodo de formación en empresa u organismo equiparado podrá efectuarse en los términos recogidos en el artículo 131 l.
 
 Real Decreto 659/2023, de 18 de julio.»
 
@@ -3391,9 +3388,7 @@ Este real decreto se dicta al amparo de las competencias que atribuye al Estado 
 
 #### Disposición final segunda. Entrada en vigor.
 
-Dado en Madrid, el 21 de mayo de 2024.
-
-FELIPE R.
+Dado en Madrid, el 21 de mayo de 2024. FELIPE R.
 
 La Ministra de Educación, Formación Profesional y Deportes,
 
@@ -3411,11 +3406,9 @@ Módulo Profesional: Proyecto intermodular.
 
 Duración: 50 horas.
 
-Código: 1713.
+Código: 1713. Resultados de aprendizaje y criterios de evaluación.
 
-Resultados de aprendizaje y criterios de evaluación.
-
-1. Caracteriza las empresas del sector atendiendo a su organización y al tipo de producto o servicio que ofrecen.
+1. Caracteriza las empresas del sector atendiendo a su organización y al tipo de producto o servicio que ofrecen.
 
 Criterios de evaluación:
 
@@ -3437,7 +3430,7 @@ h) Se ha realizado el seguimiento de los resultados de acuerdo a la estrategia a
 
 i) Se han relacionado los productos o servicios con su posible contribución a los ODS (Objetivos de Desarrollo Sostenible).
 
-2. Plantea soluciones a las necesidades del sector teniendo en cuenta la viabilidad de las mismas, los costes asociados y elaborando un pequeño proyecto.
+2. Plantea soluciones a las necesidades del sector teniendo en cuenta la viabilidad de las mismas, los costes asociados y elaborando un pequeño proyecto.
 
 Criterios de evaluación:
 
@@ -3463,7 +3456,7 @@ j) Se han identificado los aspectos relacionados con la calidad del proyecto.
 
 k) Se han presentado en público las ideas más relevantes de los proyectos propuestos.
 
-3. Planifica la ejecución de las actividades propuestas a la solución planteada, determinando el plan de intervención y elaborando la documentación correspondiente.
+3. Planifica la ejecución de las actividades propuestas a la solución planteada, determinando el plan de intervención y elaborando la documentación correspondiente.
 
 Criterios de evaluación:
 
@@ -3485,7 +3478,7 @@ h) Se han propuesto soluciones a los posibles imprevistos.
 
 i) Se ha elaborado la documentación necesaria.
 
-4. Realiza el seguimiento de la ejecución de las actividades planteadas, verificando que se cumple con la planificación.
+4. Realiza el seguimiento de la ejecución de las actividades planteadas, verificando que se cumple con la planificación.
 
 Criterios de evaluación:
 
@@ -3501,7 +3494,7 @@ e) Se han solucionado las desviaciones y se han documentado las intervenciones.
 
 f) Se ha definido y elaborado la documentación necesaria para la evaluación de las actividades y del proyecto en su conjunto.
 
-5. Transmite información con claridad, de manera ordenada y estructurada.
+5. Transmite información con claridad, de manera ordenada y estructurada.
 
 Criterios de evaluación:
 
@@ -7459,7 +7452,7 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Profesores de Enseñanza Secundaria.
 
-ââOficina de Proyectos deÂ
+âÓâOficina de Proyectos de
 
 Construcción.
 

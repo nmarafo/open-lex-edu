@@ -1,7 +1,10 @@
 ---
 id: norm-can-res-040
 codigo_sintetizado: Resolucion BOC 40
-titulo: Resolución de 25 de junio de 2026, por la que se dictan instrucciones para la organización y el funcionamiento de los cursos de acceso directo a ciclos formativos CAD2 y CAD3 (cursos de formación preparatorios para acceder a ciclos formativos de grado medio y superior) en Canarias.
+titulo: Resolución de 25 de junio de 2026, por la que se dictan instrucciones para
+  la organización y el funcionamiento de los cursos de acceso directo a ciclos formativos
+  CAD2 y CAD3 (cursos de formación preparatorios para acceder a ciclos formativos
+  de grado medio y superior) en Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General competente de la Consejería de Educación de Canarias
@@ -13,48 +16,48 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-  - admision-alumnado
-  - curriculo
-  - educacion-personas-adultas
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - formacion-profesional
-  - grado-medio
-  - inclusiva
-  - neae
-  - oposiciones
+- admision-alumnado
+- curriculo
+- educacion-personas-adultas
+- ensenanzas-deportivas
+- equipos-directivos
+- formacion-profesional
+- grado-medio
+- inclusiva
+- neae
+- oposiciones
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-212-1991
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-res-134
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-132-2010
-    - norma_id: norm-es-rd-243-2022
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-rd-243-2022
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-l-39-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-can-res-134
-    - norma_id: norm-es-rd-132-2010
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-243-2022
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-d-212-1991
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-134
+  - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-243-2022
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-139-2475.pdf
 ---
 # Resolución de 25 de junio de 2026, por la que se dictan instrucciones para la organización y el funcionamiento de los cursos de acceso directo a ciclos formativos CAD2 y CAD3 (cursos de formación preparatorios para acceder a ciclos formativos de grado medio y superior) en Canarias.
@@ -63,8 +66,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-139-2475.
 
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes Resolución de 25 de junio de 2026, por la que se dictan instrucciones para la organización y el funcionamiento de los cursos de acceso directo a ciclos formativos CAD2 y CAD3 (cursos de formación preparatorios para acceder a ciclos formativos de grado medio y superior) en Canarias. Siendo necesario dictar instrucciones para la organización y desarrollo de los cursos de acceso directo a ciclos formativos de grado medio y superior (CAD2 y CAD3), ambos ciclos en el marco de la Formación Profesional de grado D, y teniendo en cuenta los siguientes ANTECEDENTES DE HECHO
 Primero.- Con el objetivo de facilitar que las personas adultas que abandonaron sus estudios de manera temprana puedan retomarlos y completarlos, favoreciendo de este modo el aprendizaje permanente que se desarrolla a lo largo de toda la vida, se regulan cursos preparatorios que permitan su acceso directo a ciclos formativos.
-Segundo.- Las características de estos cursos venían establecidas en la Resolución de 9 de julio de 2025, por la que se dictan instrucciones para la organización y funcionamiento de los cursos de formación preparatorios para acceder a ciclos formativos de grado medio y superior (cursos de acceso directo a ciclos formativos) en la Comunidad Autónoma de Canarias en el curso 2025-2026.
-Tercero.- La adaptación progresiva de la normativa autonómica a las novedades introducidas en el ámbito estatal en cuanto al reconocimiento de competencias básicas hace necesaria la actualización de estas enseñanzas. A estos hechos les son de aplicación los siguientes FUNDAMENTOS DE DERECHO
+Segundo.- Las características de estos cursos venían establecidas en la Resolución de 9 de julio de 2025, por la que se dictan instrucciones para la organización y funcionamiento de los cursos de formación preparatorios para acceder a ciclos formativos de grado medio y superior (cursos de acceso directo a ciclos formativos) en la Comunidad Autónoma de Canarias en el curso 2025-2026. Tercero.- La adaptación progresiva de la normativa autonómica a las novedades introducidas en el ámbito estatal en cuanto al reconocimiento de competencias básicas hace necesaria la actualización de estas enseñanzas. A estos hechos les son de aplicación los siguientes FUNDAMENTOS DE DERECHO
 Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, establece en el apartado 2 del artículo 5 que "el.
 
 sistema educativo tiene como principio básico propiciar la educación permanente. A tal efecto, preparará a los alumnos para aprender por sí mismos y facilitará a las personas adultas su incorporación a las distintas enseñanzas, favoreciendo la conciliación del aprendizaje con otras responsabilidades y actividades".
@@ -221,9 +223,7 @@ Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación d
 • Proporcionar a las personas jóvenes y adultas que no hayan completado la enseñanza obligatoria una alternativa para la adquisición de las competencias necesarias que les permitan acceder y abordar con éxito la formación profesional de grado medio. Con el CAD2 se pretende, asimismo, alcanzar las siguientes finalidades:
 • Permitir, a las personas que los superen en su totalidad, el acceso sin prueba a ciclos formativos de grado medio.
 • Preparar a las personas que no cuenten con la acreditación de competencias básicas de nivel 3 o que no superen los cursos para presentarse a la prueba de acceso a ciclos formativos de grado medio.
-• Constituir un itinerario formativo que permita, dentro del procedimiento de acreditación establecido en el Real Decreto 86/2025, la acreditación de competencias básicas de nivel 3.
-
-**1.2.** Duración. El curso tiene una duración máxima de 400 horas, que se distribuirán en 10 horas semanales a lo largo de un único curso escolar.
+• Constituir un itinerario formativo que permita, dentro del procedimiento de acreditación establecido en el Real Decreto 86/2025, la acreditación de competencias básicas de nivel 3. **1.2.** Duración. El curso tiene una duración máxima de 400 horas, que se distribuirán en 10 horas semanales a lo largo de un único curso escolar.
 
 **1.3.** Alumnado al que va dirigido y requisitos de acceso. El CAD2 va dirigido a alumnado que no cuenta con los requisitos necesarios para el acceso a ciclos formativos de grado medio y que tiene 18 años o más, o los cumple en el año natural en el que se inicia el curso. El alumnado menor de edad que no cumpla 18 años en el año natural en que comienza el curso deberá aportar en su matrícula un informe individualizado de propuesta de orientación con el visto bueno de la Inspección de Educación (Apéndice IX) y el consentimiento de los padres, madres o personas que ejerzan la tutoría legal (Apéndice X).
 
@@ -305,9 +305,7 @@ c) **Segunda evaluación o evaluación final.** En esta evaluación se determina
 
 La superación parcial o total de este curso supondrá la exención parcial o total de la prueba de acceso a ciclos formativos de grado medio en las condiciones que determine la dirección general responsable de la convocatoria de la prueba.
 
-**3.3.5.** Certificación. Una vez finalizado el curso y realizada la evaluación final, el centro entregará al alumnado la certificación académica correspondiente (Apéndice V). En ella constarán tanto la calificación de cada competencia como la calificación final obtenida en el curso, en términos de "superado" o "no superado", y seguida de una nota numérica entre 1 y 10.
-
-**3.3.6.** Repetición del curso. El alumnado que no haya superado el curso de acceso directo y lo repita deberá matricularse únicamente de las competencias básicas no superadas y solicitar la exención en las superadas. En la declaración responsable contenida en el Apéndice III, el alumno o la alumna hará constar si realiza el curso por primera vez o si lo repite.
+**3.3.5.** Certificación. Una vez finalizado el curso y realizada la evaluación final, el centro entregará al alumnado la certificación académica correspondiente (Apéndice V). En ella constarán tanto la calificación de cada competencia como la calificación final obtenida en el curso, en términos de "superado" o "no superado", y seguida de una nota numérica entre 1 y 10. **3.3.6.** Repetición del curso. El alumnado que no haya superado el curso de acceso directo y lo repita deberá matricularse únicamente de las competencias básicas no superadas y solicitar la exención en las superadas. En la declaración responsable contenida en el Apéndice III, el alumno o la alumna hará constar si realiza el curso por primera vez o si lo repite.
 
 4. Tutoría. Cada grupo del curso contará con un tutor o tutora, a quien se le asignará una hora lectiva semanal para el desarrollo de las actividades propias de esa función. Desde el inicio del curso, se informará al alumnado del horario de la tutoría, para que pueda asistir voluntariamente y realizar las consultas y trámites oportunos. El profesorado tutor tendrá las siguientes funciones:
 a) Coordinar la intervención educativa del equipo docente.
@@ -368,9 +366,7 @@ Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación d
 **1.1.** Objetivos y finalidades. Este curso tiene como objetivo que las personas adultas que no reúnan los requisitos exigidos para el acceso a estos ciclos formativos puedan continuar su formación e incorporarse a estas enseñanzas habiendo alcanzado las competencias, conocimientos y habilidades suficientes para poder cursarlas con aprovechamiento. Con el CAD3 se pretende, asimismo, alcanzar las siguientes finalidades:
 • Permitir, a las personas que los superen en su totalidad, el acceso sin prueba a ciclos formativos de grado superior.
 • Preparar a las personas que no cuenten con la acreditación de competencias básicas de nivel 4 o que no superen los cursos para presentarse a la prueba de acceso a ciclos formativos de grado superior.
-• Constituir un itinerario formativo que permita, dentro del procedimiento de acreditación establecido en el Real Decreto 86/2025, la acreditación de competencias básicas de nivel 4.
-
-**1.2.** Duración. El curso tiene una duración máxima de 600 horas, que se distribuirán en 15 horas semanales a lo largo de un único curso escolar.
+• Constituir un itinerario formativo que permita, dentro del procedimiento de acreditación establecido en el Real Decreto 86/2025, la acreditación de competencias básicas de nivel 4. **1.2.** Duración. El curso tiene una duración máxima de 600 horas, que se distribuirán en 15 horas semanales a lo largo de un único curso escolar.
 
 **1.3.** Alumnado al que va dirigido el curso y requisitos de acceso. El CAD3 va dirigido a alumnado que no cuenta con los requisitos necesarios para el acceso a ciclos formativos de grado superior y que tiene al menos 18 años cumplidos en el año natural en el que se inicia el curso.
 
@@ -471,9 +467,7 @@ c) Que la media aritmética de las calificaciones obtenidas en todas las compete
 
 La superación parcial o total de este curso supondrá la exención parcial o total de la prueba de acceso a ciclos formativos de grado superior en las condiciones que determine la dirección general responsable de la convocatoria de la prueba.
 
-**3.3.5.** Certificación. Una vez finalizado el curso y realizada la evaluación final, el centro entregará al alumnado la certificación académica correspondiente (Apéndice VI). En ella constarán las notas por competencia y la calificación final obtenida en el curso, que quedará recogida como "superado" o "no superado" seguida de una nota numérica entre 1 y 10.
-
-**3.3.6.** Repetición del curso. El alumnado que no haya superado el curso de acceso directo y lo repita deberá matricularse únicamente de las competencias básicas o competencias clave no superadas y solicitar la exención en las superadas. En la declaración responsable contenida en el Apéndice IV , el alumno o alumna hará constar si realiza el curso por primera vez o si lo repite.
+**3.3.5.** Certificación. Una vez finalizado el curso y realizada la evaluación final, el centro entregará al alumnado la certificación académica correspondiente (Apéndice VI). En ella constarán las notas por competencia y la calificación final obtenida en el curso, que quedará recogida como "superado" o "no superado" seguida de una nota numérica entre 1 y 10. **3.3.6.** Repetición del curso. El alumnado que no haya superado el curso de acceso directo y lo repita deberá matricularse únicamente de las competencias básicas o competencias clave no superadas y solicitar la exención en las superadas. En la declaración responsable contenida en el Apéndice IV , el alumno o alumna hará constar si realiza el curso por primera vez o si lo repite.
 
 4. Tutoría. Cada grupo del curso contará con un tutor o tutora, a quien se le asignará una hora lectiva semanal para el desarrollo de las actividades propias de esa función. Desde el inicio del curso, se informará al alumnado del horario de la tutoría, para que pueda asistir voluntariamente y realizar las consultas y trámites oportunos. El profesorado tutor tendrá las siguientes funciones:
 a) Coordinar la intervención educativa del equipo docente.

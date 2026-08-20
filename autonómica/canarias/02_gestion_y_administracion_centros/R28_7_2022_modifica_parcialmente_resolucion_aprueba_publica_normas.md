@@ -1,7 +1,10 @@
 ---
 id: norm-can-res-boc-2022-158-21
 codigo_sintetizado: Resolucion BOC 21
-titulo: Resolución de 28 de julio de 2022, por la que se modifica parcialmente la Resolución de 29 de mayo de 2007, que aprueba y publica las normas sobre la gestión del pago delegado de la nómina de personal docente en centros privados concertados (BOC n.º 158, de 10 de agosto).
+titulo: Resolución de 28 de julio de 2022, por la que se modifica parcialmente la
+  Resolución de 29 de mayo de 2007, que aprueba y publica las normas sobre la gestión
+  del pago delegado de la nómina de personal docente en centros privados concertados
+  (BOC n.º 158, de 10 de agosto).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Personal y Formación del Profesorado
@@ -13,38 +16,38 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros privados concertados
 tags:
-  - centros-privados-concertados
-  - conciertos-educativos
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - interinos
-  - permisos-licencias
-  - profesorado
-  - roc
+- centros-privados-concertados
+- conciertos-educativos
+- ensenanzas-deportivas
+- equipos-directivos
+- interinos
+- permisos-licencias
+- profesorado
+- roc
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-8-1985
-    - norma_id: norm-es-rd-2377-1985
-    - norma_id: norm-es-rdl-2-2015
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-rd-2377-1985
+  - norma_id: norm-es-rdl-2-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-8-1985
-    - norma_id: norm-es-rd-2377-1985
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-rdl-2-2015
+  - '1'
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-rd-2377-1985
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-rdl-2-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-158-2645.pdf
 ---
 # Resolución de 28 de julio de 2022, por la que se modifica parcialmente la Resolución de 29 de mayo de 2007, que aprueba y publica las normas sobre la gestión del pago delegado de la nómina de personal docente en centros privados concertados (BOC n.º 158, de 10 de agosto).

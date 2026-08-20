@@ -1,10 +1,12 @@
 ---
 id: norm-and-o-8-7-1996
 codigo_sintetizado: O8_7_1996 Evaluacion Bachillerato LOGSE Andalucía
-titulo: Orden de 8 de julio de 1996, por la que se regula la evaluación del alumnado en Bachillerato.
+titulo: Orden de 8 de julio de 1996, por la que se regula la evaluación del alumnado
+  en Bachillerato.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 08/07/1996
 fecha_disposicion: '1996-07-08'
@@ -18,16 +20,16 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Bachillerato
 tags:
-  - bachillerato
-  - evaluacion_logse
-  - andalucia
+- bachillerato
+- evaluacion_logse
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Orden de 8 de julio de 1996, por la que se regula la evaluación del alumnado en Bachillerato.
 
@@ -62,8 +64,7 @@ Que el Parlamento de Andalucía ha aprobado y yo, en nombre del Rey y por la aut
 
 ## Exposición de motivos
 
-La Ley 3/1995, de 2 de octubre, relativa a la modificación de los artículos 9.1 y 11 de la Ley 8/1987, de 9 de diciembre, de creación de la Empresa Pública de la Radio y Televisión de Andalucía y regulación de los servicios de radiodifusión y televisión gestionados por la Junta de Andalucía, atribuye al Parlamento de Andalucía la competencia para el nombramiento y cese del Director General de la Empresa Pública RTVA, modificando así la anterior regulación por la que se atribuía dicha competencia al Consejo de Gobierno. El normal desenvolvimiento de las instituciones exige una nítida separación de los poderes legislativo y ejecutivo, correspondiendo al primero el control parlamentario en los términos establecidos en las leyes y al segundo la responsabilidad en la dirección y gestión de los entes y empresas dependientes del mismo, todo ello de conformidad con las previsiones constitucionales y estatutarias aplicables al caso. La exigencia de un adecuado control del funcionamiento del ente RTVA, unida a la necesaria asignación de medios para la consecución de los objetivos que le están encomendados, conlleva que la competencia para el nombramiento y cese del Director General, como máximo responsable del ente, corresponda al Consejo de Gobierno, órgano que ostenta y ejerce las funciones ejecutivas y administrativas. Consecuencia de lo anterior, las normas reguladoras de los entes equivalentes a nivel estatal o autonómico (RTVE y demás entes o empresas de radio y televisión autonómicos existentes) atribuyen al respectivo gobierno la competencia para el nombramiento y cese del responsable de los mismos. De otra parte, la adecuada representación del pluralismo político así como el correspondiente control parlamentario quedan suficientemente garantizados por el Consejo de Administración y la Comisión parlamentaria, respectivamente, en los términos establecidos en los artículos 5 y 20 de la Ley 8/1987.
-Artículo primero. El apartado 1 del artículo 9 de la Ley 8/1987, de 9 de diciembre, por la que se crea la Empresa Pública de la Radio y Televisión de Andalucía y regulación de los
+La Ley 3/1995, de 2 de octubre, relativa a la modificación de los artículos 9.1 y 11 de la Ley 8/1987, de 9 de diciembre, de creación de la Empresa Pública de la Radio y Televisión de Andalucía y regulación de los servicios de radiodifusión y televisión gestionados por la Junta de Andalucía, atribuye al Parlamento de Andalucía la competencia para el nombramiento y cese del Director General de la Empresa Pública RTVA, modificando así la anterior regulación por la que se atribuía dicha competencia al Consejo de Gobierno. El normal desenvolvimiento de las instituciones exige una nítida separación de los poderes legislativo y ejecutivo, correspondiendo al primero el control parlamentario en los términos establecidos en las leyes y al segundo la responsabilidad en la dirección y gestión de los entes y empresas dependientes del mismo, todo ello de conformidad con las previsiones constitucionales y estatutarias aplicables al caso. La exigencia de un adecuado control del funcionamiento del ente RTVA, unida a la necesaria asignación de medios para la consecución de los objetivos que le están encomendados, conlleva que la competencia para el nombramiento y cese del Director General, como máximo responsable del ente, corresponda al Consejo de Gobierno, órgano que ostenta y ejerce las funciones ejecutivas y administrativas. Consecuencia de lo anterior, las normas reguladoras de los entes equivalentes a nivel estatal o autonómico (RTVE y demás entes o empresas de radio y televisión autonómicos existentes) atribuyen al respectivo gobierno la competencia para el nombramiento y cese del responsable de los mismos. De otra parte, la adecuada representación del pluralismo político así como el correspondiente control parlamentario quedan suficientemente garantizados por el Consejo de Administración y la Comisión parlamentaria, respectivamente, en los términos establecidos en los artículos 5 y 20 de la Ley 8/1987. Artículo primero. El apartado 1 del artículo 9 de la Ley 8/1987, de 9 de diciembre, por la que se crea la Empresa Pública de la Radio y Televisión de Andalucía y regulación de los
 
 Sevilla, 20 de julio 1996 Página núm. 8.339 servicios de radiodifusión y televisión gestionados por la Junta de Andalucía, queda redactado de la siguiente forma:
 «1. El Director General de la Empresa Pública de la Radio y Televisión de Andalucía será nombrado por el Consejo de Gobierno de la Junta de Andalucía, a propuesta del Consejo de Administración.»

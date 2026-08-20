@@ -1,10 +1,12 @@
 ---
 id: norm-es-rd-443-2001
 codigo_sintetizado: RD443_2001 Condiciones de Seguridad en el Transporte Escolar
-titulo: Real Decreto 443/2001, de 27 de abril, sobre condiciones de seguridad en el transporte escolar y de menores.
+titulo: Real Decreto 443/2001, de 27 de abril, sobre condiciones de seguridad en el
+  transporte escolar y de menores.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto
 numero_disposicion: 443/2001
 fecha_disposicion: '2001-04-27'
@@ -18,26 +20,26 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Transporte escolar
 tags:
-  - acompanante-transporte
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - oposiciones
-  - proteccion-menores
-  - seguridad-menores
-  - servicios-complementarios
-  - servicios-escolares
-  - transporte-escolar
+- acompanante-transporte
+- ensenanzas-deportivas
+- equipos-directivos
+- oposiciones
+- proteccion-menores
+- seguridad-menores
+- servicios-complementarios
+- servicios-escolares
+- transporte-escolar
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   desarrollado_por:
-    - norma_id: norm-can-o-2-8-2006
+  - norma_id: norm-can-o-2-8-2006
   fundamento_de: []
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - '80'
-    - '82'
+  - '80'
+  - '82'
 ---
 # Real Decreto 443/2001, de 27 de abril, sobre condiciones de seguridad en el transporte escolar y de menores.
 
@@ -98,9 +100,7 @@ Reglamento General de Vehículos, aprobado por el Real Decreto 2822/1998, de 23 
 
 12. Cada menor dispondrá de su propia plaza o asiento, el cual deberá tener las dimensiones mínimas determinadas en el Reglamento CEPE/ONU que resulte de aplicación (36, 52 ó 107), de conformidad con las reglas y plazos que en cada momento se encuentren establecidos en las normas dictadas para su aplicación.
 
-13. Estarán provistos de tacógrafo en todos aquellos supuestos en que así resulte exigible de conformidad con lo que se dispone en el Real Decreto 2242/1996, de 18 de octubre, en aplicación de los Reglamentos (CEE) números 3820/85 y 3821/85.
-
-14. Deberán estar dotados de limitador de velocidad, en los supuestos y con arreglo a las condiciones y plazos establecidos en el Real Decreto 2484/1994, de 23 de diciembre.
+13. Estarán provistos de tacógrafo en todos aquellos supuestos en que así resulte exigible de conformidad con lo que se dispone en el Real Decreto 2242/1996, de 18 de octubre, en aplicación de los Reglamentos (CEE) números 3820/85 y 3821/85. 14. Deberán estar dotados de limitador de velocidad, en los supuestos y con arreglo a las condiciones y plazos establecidos en el Real Decreto 2484/1994, de 23 de diciembre.
 
 15. Deberán estar dotados de dispositivos de frenado y antibloqueo (ABS), en los supuestos y términos establecidos en el Real Decreto 2028/1986, de 6 de junio, por el que se dictan normas para la aplicación de determinadas Directivas de la CEE, relativas a tipos de vehículos automóviles, remolques y semirremolques, así como de partes y piezas de dichos vehículos.
 
@@ -110,9 +110,7 @@ Reglamento General de Vehículos, aprobado por el Real Decreto 2822/1998, de 23 
 
 18. Si la visibilidad directa no es suficiente, deben instalarse dispositivos ópticos que permitan al conductor detectar desde su asiento la presencia de un viajero en los alrededores inmediatos, tanto exteriores como interiores de las puertas de servicio, de acuerdo con lo que se establece en el Reglamento CEPE/ONU (36, 52 ó 107), de conformidad con las reglas y plazos que, en cada momento, se encuentren establecidos en las normas dictadas para su aplicación.
 
-19. Los vidrios deben cumplir las prescripciones de la Directiva 92/22/CE en lo que se refiere al modo de fragmentación, resistencia al impacto de la cabeza y resistencia a la abrasión, en los términos y supuestos establecidos en el Real Decreto 2028/1986.
-
-20. Las ventanas de emergencia que no sean de bisagras serán de vidrio de fácil rotura de acuerdo con lo que se determina en el Reglamento CEPE/ONU (36, 52 ó 107), de conformidad con las reglas y plazos que, en cada momento, se encuentren establecidos en las normas dictadas para su aplicación.
+19. Los vidrios deben cumplir las prescripciones de la Directiva 92/22/CE en lo que se refiere al modo de fragmentación, resistencia al impacto de la cabeza y resistencia a la abrasión, en los términos y supuestos establecidos en el Real Decreto 2028/1986. 20. Las ventanas de emergencia que no sean de bisagras serán de vidrio de fácil rotura de acuerdo con lo que se determina en el Reglamento CEPE/ONU (36, 52 ó 107), de conformidad con las reglas y plazos que, en cada momento, se encuentren establecidos en las normas dictadas para su aplicación.
 
 21. En el compartimento del motor se cumplirán las condiciones establecidas en el Reglamento CEPE/ONU (36, 52 ó 107), de conformidad con las reglas y plazos que, en cada momento, se encuentren establecidos en las normas dictadas para su aplicación, en lo referente al empleo de materiales impermeables o susceptibles de impregnarse de combustible, evitar acumulaciones y la utilización de aislantes térmicos.
 
@@ -128,9 +126,7 @@ Reglamento General de Vehículos, aprobado por el Real Decreto 2822/1998, de 23 
 
 27. Estarán provistos de extintores que cumplan las prescripciones establecidas en la Orden de 27 de julio de 1999, así como de un botiquín de primeros auxilios.
 
-28. Los materiales empleados en el interior del habitáculo de pasajeros deberán cumplir la Directiva 95/28/CE sobre prevención del riesgo de incendio en los casos y condiciones establecidos en el Real Decreto 2028/1986.
-
-29. Todas las puertas de emergencia deberán abrirse fácilmente desde el interior y desde el exterior, no podrán ser accionadas por dispositivos de reserva de energía y dispondrán de un dispositivo que avise al conductor cuando no estén completamente cerradas, de acuerdo con lo dispuesto en el Reglamento CEPE/ONU (36, 52 ó 107), de conformidad con las reglas y plazos que, en cada momento, se encuentren establecidos en las normas dictadas para su aplicación.
+28. Los materiales empleados en el interior del habitáculo de pasajeros deberán cumplir la Directiva 95/28/CE sobre prevención del riesgo de incendio en los casos y condiciones establecidos en el Real Decreto 2028/1986. 29. Todas las puertas de emergencia deberán abrirse fácilmente desde el interior y desde el exterior, no podrán ser accionadas por dispositivos de reserva de energía y dispondrán de un dispositivo que avise al conductor cuando no estén completamente cerradas, de acuerdo con lo dispuesto en el Reglamento CEPE/ONU (36, 52 ó 107), de conformidad con las reglas y plazos que, en cada momento, se encuentren establecidos en las normas dictadas para su aplicación.
 
 30. Las trampillas de evacuación cumplirán las prescripciones establecidas en el Reglamento CEPE/ONU (36, 52 ó 107), de conformidad con las reglas y plazos que, en cada momento, se encuentren establecidos en las normas dictadas para su aplicación.
 
@@ -200,9 +196,7 @@ b) Cuando, tratándose de un transporte de los definidos en el párrafo a) del a
 
 Los itinerarios y horarios de aquellos transportes incluidos en el artículo 1 que.
 
-tengan por objeto el traslado de los menores entre su domicilio y el centro escolar en que cursan estudios, deberán establecerse de tal forma que en circunstancias normales resulte posible que el tiempo máximo que aquéllos permanezcan en el vehículo no alcance una hora por cada sentido del viaje, previniéndose únicamente que se alcance esta duración máxima en casos excepcionales debidamente justificados. En todo caso, en la realización de cualquiera de los transportes incluidos en el artículo 1 deberán respetarse las normas relativas a los tiempos de conducción y descanso de los conductores, establecidas en el Real Decreto 2242/1996, de 18 de octubre, en aplicación de los Reglamentos (CEE) números 3820/85 y 3821/85.
-
-#### Artículo 12. Seguros.
+tengan por objeto el traslado de los menores entre su domicilio y el centro escolar en que cursan estudios, deberán establecerse de tal forma que en circunstancias normales resulte posible que el tiempo máximo que aquéllos permanezcan en el vehículo no alcance una hora por cada sentido del viaje, previniéndose únicamente que se alcance esta duración máxima en casos excepcionales debidamente justificados. En todo caso, en la realización de cualquiera de los transportes incluidos en el artículo 1 deberán respetarse las normas relativas a los tiempos de conducción y descanso de los conductores, establecidas en el Real Decreto 2242/1996, de 18 de octubre, en aplicación de los Reglamentos (CEE) números 3820/85 y 3821/85. #### Artículo 12. Seguros.
 
 Sin perjuicio del cumplimiento de la legislación vigente en materia de seguros obligatorios, las empresas que realicen cualquiera de los transportes incluidos en el artículo 1 berán.
 
@@ -212,9 +206,7 @@ tener cubierta de forma ilimitada su responsabilidad civil por los daños que pu
 
 2. Estar en posesión de la correspondiente tarjeta ITV en vigor, acreditativa de que los vehículos en que ha de realizarse el transporte cumplen lo dispuesto en este Real Decreto en materia de inspección técnica.
 
-3. Haber suscrito los contratos de seguro a que se refiere el artículo 12.
-
-#### Artículo 14. Infracciones y sanciones.
+3. Haber suscrito los contratos de seguro a que se refiere el artículo 12. #### Artículo 14. Infracciones y sanciones.
 
 El incumplimiento de lo dispuesto en el artículo 4 de este Real Decreto (excepto en los apartados 2.9.ª, 2.12, en lo referido al hecho de que cada menor dispondrá de su propia plaza o asiento, 2.13, 2.14 y 3.4.ª) sobre características técnicas de los vehículos, se considerará infracción al artículo 12.9 del Reglamento General de Vehículos, aprobado por Real Decreto 2822/1998, de 23 de diciembre ; en el artículo 5, sobre distintivo indicativo de transporte de menores, a los artículos 173 del Reglamento General de Circulación, aprobado por Real Decreto 13/1992, de 17 de enero, y 18, en relación con el anexo XI, del Reglamento General de Vehículos ; en el artículo 6, sobre inspección técnica de los vehículos, a los artículos 14 del Real Decreto 2042/1994, de 14 de octubre, por el que se regula la inspección técnica de vehículos, y 18, en relación con el anexo XI, del Reglamento General de Vehículos ; en el artículo 7, sobre conductores, al artículo 32 del Reglamento General de Conductores, aprobado por Real Decreto 772/1997, de 30 de mayo, y en el 9, sobre limitación de velocidad, al artículo 48.1.2 del Reglamento General de Circulación. El procedimiento se adecuará a lo dispuesto en el Real Decreto 320/1994, de 25 de febrero, por el que se aprueba el Reglamento de Procedimiento Sancionador en Materia de Tráfico, Circulación de Vehículos a Motor y Seguridad Vial.
 

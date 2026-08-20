@@ -1,7 +1,9 @@
 ---
 id: norm-can-d-74-2010
 codigo_sintetizado: D74_2010 Seleccion de Personal Interino Docente
-titulo: Decreto 74/2010, de 1 de julio, por el que se establece el procedimiento de selección del personal funcionario interino docente en el ámbito de la Comunidad Autónoma de Canarias.
+titulo: Decreto 74/2010, de 1 de julio, por el que se establece el procedimiento de
+  selección del personal funcionario interino docente en el ámbito de la Comunidad
+  Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Gobierno de Canarias / Consejería de Educación
@@ -19,33 +21,30 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Selección y provisión de puestos
 tags:
-  - ebep
-  - igualdad-genero
-  - interinos
-  - interinos-docentes
-  - listas-empleo
-  - ordenacion-listas
-  - procedimiento-administrativo
-  - profesorado
-  - selecci-n-y-provisi-n-de-puestos
-  - sustituciones-docentes
+- ebep
+- igualdad-genero
+- interinos
+- interinos-docentes
+- listas-empleo
+- ordenacion-listas
+- procedimiento-administrativo
+- profesorado
+- selecci-n-y-provisi-n-de-puestos
+- sustituciones-docentes
 relaciones:
   desarrolla:
-    - norma_id: norm-can-l-2-1987
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-l-2-1987
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-l-6-2014
   fundamentos_derecho:
-    - norma_id: norm-can-l-2-1987
+  - norma_id: norm-can-l-2-1987
   articulos:
-    - '48'
-    - norma_id: norm-es-rdl-5-2015
-  articulos:
-    - '10'
+  - '10'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-136-4028.pdf
 ---
 # Decreto 74/2010, de 1 de julio, por el que se establece el procedimiento de selección del personal funcionario interino docente en el ámbito de la Comunidad Autónoma de Canarias.

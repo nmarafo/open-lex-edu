@@ -1,10 +1,12 @@
 ---
 id: norm-es-2007-19326
 codigo_sintetizado: BOE-A-2007-19326
-titulo: Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.
+titulo: Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación
+  general de las enseñanzas deportivas de régimen especial.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2007-11-08'
 boletin: BOE
@@ -15,45 +17,45 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Deportivas
 tags:
-  - atencion-diversidad
-  - curriculo
-  - ense-anzas-deportivas
-  - ensenanzas-deportivas
-  - formacion-profesional
-  - titulacion
+- atencion-diversidad
+- curriculo
+- ense-anzas-deportivas
+- ensenanzas-deportivas
+- formacion-profesional
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2000-5990
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2002-12018
-    - norma_id: norm-es-2002-4371
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-2000-5990
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2002-4371
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-1985
   fundamento_de:
-    - norma_id: norm-es-2010-13564
-    - norma_id: norm-es-2011-12632
-    - norma_id: norm-es-2011-15628
-    - norma_id: norm-es-2011-2615
-    - norma_id: norm-es-2013-10219
-    - norma_id: norm-can-res-boc-2025-047-108
-    - norma_id: norm-can-res-boc-2017-036-75
-    - norma_id: norm-can-res-boc-2026-039-103
-    - norma_id: norm-can-res-boc-2019-143-74
+  - norma_id: norm-es-2010-13564
+  - norma_id: norm-es-2011-12632
+  - norma_id: norm-es-2011-15628
+  - norma_id: norm-es-2011-2615
+  - norma_id: norm-es-2013-10219
+  - norma_id: norm-can-res-boc-2025-047-108
+  - norma_id: norm-can-res-boc-2017-036-75
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-can-res-boc-2019-143-74
   desarrollado_por: []
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-lo-8-1985
-    - norma_id: norm-es-2000-5990
-    - norma_id: norm-es-2002-12018
-    - norma_id: norm-es-2002-4371
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - '2'
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-2000-5990
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2002-4371
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 ---
 # Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.
 
@@ -427,9 +429,7 @@ La evaluación final para cada uno de los módulos de enseñanza deportiva cursa
 
 En caso de producirse esta excepcionalidad, para acceder al bloque específico del correspondiente ciclo final se exigirá tener superado en su totalidad el ciclo inicial de la misma modalidad o especialidad deportiva.
 
-5. Excepcionalmente, cuando las características de la modalidad o especialidad deportiva lo requieran, el real decreto que establezca el título y enseñanzas mínimas podrá establecer una edad mínima para el acceso a las enseñanzas del grado medio. Esta modificación no afectará a las condiciones de edad para participar en la prueba de acceso a la que se refiere el artículo 31.
-
-#### Artículo 30. Requisitos de acceso de carácter específico.
+5. Excepcionalmente, cuando las características de la modalidad o especialidad deportiva lo requieran, el real decreto que establezca el título y enseñanzas mínimas podrá establecer una edad mínima para el acceso a las enseñanzas del grado medio. Esta modificación no afectará a las condiciones de edad para participar en la prueba de acceso a la que se refiere el artículo 31. #### Artículo 30. Requisitos de acceso de carácter específico.
 
 1. Además de los requisitos generales establecidos en el artículo 29, para el acceso a cualquiera de los ciclos de enseñanza deportiva se podrá requerir la superación de una prueba de carácter específico, organizada y controlada por las Administraciones educativas, o acreditar un mérito deportivo en el que se demuestren las condiciones necesarias para cursar con aprovechamiento y seguridad las enseñanzas correspondientes, así como para el reconocimiento que la modalidad o especialidad deportiva pueda tener en el ámbito internacional.
 
@@ -461,11 +461,7 @@ b) Asimismo podrán ofertar y programar cursos de preparación de las pruebas de
 
 a) Los cursos de preparación de la prueba de acceso serán evaluables de 1 a 10 puntos, sin decimales.
 
-b) La nota final de la prueba para el acceso al grado medio, expresada en la escala numérica de 1 a 10, con dos decimales, será la media aritmética de las notas alcanzadas en las distintas partes, siempre que éstas sean superiores o iguales a cuatro. Cuando se haya realizado el curso de preparación de la prueba de acceso, la nota final de la prueba será la suma de la media aritmética, más la puntuación que resulte de multiplicar por 0,15 la calificación obtenida en el curso de preparación cuando ésta sea cinco o superior. En ningún caso la nota resultante será superior a 10.
-
-c) La nota final de la prueba para el acceso al grado superior, expresada en la escala numérica de 1 a 10, con dos decimales, será la media aritmética de la nota de la prueba de acceso y la nota final de las enseñanzas de Técnico deportivo, siempre que ambas sean superiores o iguales a cuatro. Cuando se haya realizado el curso de preparación de la prueba de acceso, la nota final de la prueba será la suma de la media aritmética más la puntuación que resulte de multiplicar por 0,15 la calificación obtenida en el curso de preparación cuando ésta sea cinco o superior. En ningún caso la nota resultante será mayor a 10.
-
-En todos los casos serán positivas las calificaciones iguales o superiores a cinco y negativas las inferiores a cinco.
+b) La nota final de la prueba para el acceso al grado medio, expresada en la escala numérica de 1 a 10, con dos decimales, será la media aritmética de las notas alcanzadas en las distintas partes, siempre que éstas sean superiores o iguales a cuatro. Cuando se haya realizado el curso de preparación de la prueba de acceso, la nota final de la prueba será la suma de la media aritmética, más la puntuación que resulte de multiplicar por 0,15 la calificación obtenida en el curso de preparación cuando ésta sea cinco o superior. En ningún caso la nota resultante será superior a 10. c) La nota final de la prueba para el acceso al grado superior, expresada en la escala numérica de 1 a 10, con dos decimales, será la media aritmética de la nota de la prueba de acceso y la nota final de las enseñanzas de Técnico deportivo, siempre que ambas sean superiores o iguales a cuatro. Cuando se haya realizado el curso de preparación de la prueba de acceso, la nota final de la prueba será la suma de la media aritmética más la puntuación que resulte de multiplicar por 0,15 la calificación obtenida en el curso de preparación cuando ésta sea cinco o superior. En ningún caso la nota resultante será mayor a 10. En todos los casos serán positivas las calificaciones iguales o superiores a cinco y negativas las inferiores a cinco.
 
 #### Artículo 32. Validez de la prueba de acceso y de los requisitos de carácter específico.
 
@@ -547,9 +543,7 @@ La superación de cada uno de los módulos de enseñanza deportiva del bloque co
 
 #### Artículo 42. Convalidación entre módulos de enseñanza deportiva del bloque específico.
 
-1. Serán objeto de convalidación los módulos de enseñanza deportiva del bloque específico que sean comunes a varios ciclos de enseñanzas deportivas, siempre que tengan igual denominación, duración, objetivos, criterios de evaluación y contenidos, de acuerdo con lo establecido por la norma que regule cada título. La aplicación se realizará conforme a lo que se establece en el artículo 44.
-
-2. El Gobierno podrá establecer las convalidaciones que procedan entre aquellos módulos de enseñanza deportiva que no tengan la misma denominación, siempre que tengan similares objetivos, contenidos y duración.
+1. Serán objeto de convalidación los módulos de enseñanza deportiva del bloque específico que sean comunes a varios ciclos de enseñanzas deportivas, siempre que tengan igual denominación, duración, objetivos, criterios de evaluación y contenidos, de acuerdo con lo establecido por la norma que regule cada título. La aplicación se realizará conforme a lo que se establece en el artículo 44. 2. El Gobierno podrá establecer las convalidaciones que procedan entre aquellos módulos de enseñanza deportiva que no tengan la misma denominación, siempre que tengan similares objetivos, contenidos y duración.
 
 #### Artículo 43. Convalidaciones de módulos de enseñanza deportiva de grado medio con materias de bachillerato.
 
@@ -695,9 +689,7 @@ e) En los casos de equivalencia a efectos profesionales se requerirá acreditar 
 
 f) **En los casos de homologación será necesario acreditar.** El título académico y edad requerida para el acceso al correspondiente título, de acuerdo con lo dispuesto en el artículo 29, así como una experiencia de al menos tres años como entrenador, iniciador deportivo, gestor deportivo o cualquier otra función directamente relacionada con las competencias definidas en el perfil profesional del título al que se quiere homologar.
 
-g) En los casos de convalidación, se requerirá el título académico y edad requerida para el acceso al correspondiente título, de acuerdo con lo dispuesto en el artículo 29.
-
-3. Para la tramitación y resolución de los expedientes individuales se tendrá en cuenta lo siguiente:
+g) En los casos de convalidación, se requerirá el título académico y edad requerida para el acceso al correspondiente título, de acuerdo con lo dispuesto en el artículo 29. 3. Para la tramitación y resolución de los expedientes individuales se tendrá en cuenta lo siguiente:
 
 b) La tramitación de los expedientes se ajustará al procedimiento que dispone la Orden ECD/189/2004, de 21 de enero, por la que se regula el procedimiento de tramitación de los expedientes de homologación, convalidación y equivalencia a efectos profesionales, de las formaciones de entrenadores deportivos, por las enseñanzas deportivas de régimen especial, a los efectos de lo previsto en el artículo 42 l [Real.
 
@@ -873,11 +865,7 @@ c) Centros con las medidas y requisitos previstos en el capítulo X.
 
 1. En tanto el Ministerio de Educación y Ciencia no regule lo establecido en la disposición transitoria primera, continuará vigente la Orden ECD/3310/2002, de 16 de diciembre (BOE de 30 de diciembre), excepto en los aspectos que a continuación se detallan:
 
-a) La edad para realizar las pruebas de acceso sustitutorias de los títulos de Graduado en Educación Secundaria Obligatoria y de Bachiller requeridos, respectivamente, para el acceso a las enseñanzas de grado medio y de grado superior, que se ajustará a lo que a tal fin se establece en el artículo 31.
-
-b) Los contenidos de la prueba de acceso sustitutoria del título de Graduado en Educación Secundaria Obligatoria, que se ajustará a lo previsto en el ya citado artículo 31.
-
-c) Las enseñanzas del bloque común podrán impartirse en forma presencial o a distancia.
+a) La edad para realizar las pruebas de acceso sustitutorias de los títulos de Graduado en Educación Secundaria Obligatoria y de Bachiller requeridos, respectivamente, para el acceso a las enseñanzas de grado medio y de grado superior, que se ajustará a lo que a tal fin se establece en el artículo 31. b) Los contenidos de la prueba de acceso sustitutoria del título de Graduado en Educación Secundaria Obligatoria, que se ajustará a lo previsto en el ya citado artículo 31. c) Las enseñanzas del bloque común podrán impartirse en forma presencial o a distancia.
 
 d) La superación de la totalidad de las formaciones de nivel 1, en función de los contenidos y carga horaria superada, a propuesta del Consejo Superior de Deportes, podrá dar lugar a la equivalencia profesional, y, en su caso, a los mismos efectos académicos que el certificado académico oficial de superación del ciclo inicial de grado medio, en la misma modalidad o especialidad.
 
@@ -905,9 +893,7 @@ e) La Orden ECI/3224/2004, de 21 de septiembre, (BOE de 8 de octubre), que estab
 
 3. Las solicitudes se formularán ante el Consejo Superior de Deportes, dentro de un plazo máximo de 60 días hábiles, que se iniciará a la entrada en vigor de este real decreto.
 
-4. En todos los aspectos no previstos en este precepto se seguirá lo dispuesto en la Orden de 30 de julio de 1999.
-
-#### Disposición transitoria quinta. Reconocimiento de formaciones realizadas con carácter meramente federativo.
+4. En todos los aspectos no previstos en este precepto se seguirá lo dispuesto en la Orden de 30 de julio de 1999. #### Disposición transitoria quinta. Reconocimiento de formaciones realizadas con carácter meramente federativo.
 
 1. El Ministerio de Educación y Ciencia, a propuesta del Consejo Superior de Deportes, y previo acuerdo de los órganos competentes en materia de educación y en materia de deportes de las Comunidades Autónomas, así como de las Federaciones deportivas españolas, podrá efectuar el reconocimiento que proceda de aquellas formaciones que se hayan realizado con carácter meramente federativo entre la entrada en vigor de la Orden de 5 de julio de 1999 y la entrada en vigor del presente Real Decreto.
 
@@ -937,9 +923,7 @@ Se modifica el punto 7 del anexo II del [Real Decreto 320/2000](./RD320_2000_est
 
 #### Disposición final tercera. Modificación de determinados aspectos que se regulan en el Real Decreto 318/2000, de 3 de marzo.
 
-Para las enseñanzas a las que se refiere el Real Decreto 318/2000, de 3 de marzo, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo superior en las especialidades de los deportes de Montaña y Escala, se aprueban las correspondientes enseñanzas mínimas y se regulan las pruebas y los requisitos de acceso a estas enseñanzas. La relación numérica profesor/alumnos en el módulo de formación técnica y metodología de la enseñanza del descenso de barrancos, será de 1:4.
-
-#### Disposición final cuarta. Título competencial.
+Para las enseñanzas a las que se refiere el Real Decreto 318/2000, de 3 de marzo, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo superior en las especialidades de los deportes de Montaña y Escala, se aprueban las correspondientes enseñanzas mínimas y se regulan las pruebas y los requisitos de acceso a estas enseñanzas. La relación numérica profesor/alumnos en el módulo de formación técnica y metodología de la enseñanza del descenso de barrancos, será de 1:4. #### Disposición final cuarta. Título competencial.
 
 Este real decreto tiene el carácter de norma básica y es de aplicación en todo el territorio nacional, a excepción a excepción de lo establecido en el apartado 2 del artículo 24; del apartado 3 del artículo 35; del apartado 2 del artículo 45; y de la remisión que se hace en los preceptos a las facultades de las Comunidades Autónomas en el ámbito de sus competencias, y se dicta en virtud de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución y la disposición adicional primera, apartado 2 a) y c), de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación.
 
@@ -949,9 +933,7 @@ Se habilita al Ministro de Educación y Ciencia, en el ámbito sus competencias,
 
 #### Disposición final sexta. Entrada en vigor.
 
-Dado en Madrid, el 24 de octubre de 2007.
-
-JUAN CARLOS R.
+Dado en Madrid, el 24 de octubre de 2007. JUAN CARLOS R.
 
 La Ministra de Educación y Ciencia,
 

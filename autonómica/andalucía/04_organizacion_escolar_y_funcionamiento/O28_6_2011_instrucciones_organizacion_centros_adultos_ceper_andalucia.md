@@ -1,10 +1,12 @@
 ---
 id: norm-and-o-28-6-2011
 codigo_sintetizado: O28_6_2011 Organizacion Centros Adultos CEPER Andalucía
-titulo: Orden de 28 de junio de 2011, por la que se regulan la organización y funcionamiento de los Centros de Educación Permanente.
+titulo: Orden de 28 de junio de 2011, por la que se regulan la organización y funcionamiento
+  de los Centros de Educación Permanente.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 28/06/2011
 fecha_disposicion: '2011-06-28'
@@ -18,18 +20,18 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Organización de centros
 tags:
-  - ceper
-  - educacion_permanente
-  - adultos
-  - andalucia
+- ceper
+- educacion_permanente
+- adultos
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
 ---
 # Orden de 28 de junio de 2011, por la que se regulan la organización y funcionamiento de los Centros de Educación Permanente.
 
@@ -45,9 +47,7 @@ Sevilla, 13 de julio 2011 Página núm. 7 CONSEJERÍA DE GOBERNACIÓN Y JUSTICIA
 2. Conceptos subvencionables (artículos 1, 5, 9 y 17). 2.a). Conceptos subvencionables:
 Trabajos preliminares de indagación y localización de fosas. Actuaciones de prospección mediante métodos geofísicos de teledetección. Exhumaciones de víctimas de la Guerra Civil y la Posguerra. Identificación de víctimas. Traslado, si procede, a los cementerios. 2.b). Posibilidad de reformulación de solicitudes:
 □ No. ⊠ Sí. 2.c). Posibilidad de solicitar dos o más subvenciones:
-⃞ No. ⊠ Sí. Número: 2.
-
-□ Sólo se puede optar a una de ellas.
+⃞ No. ⊠ Sí. Número: 2. □ Sólo se puede optar a una de ellas.
 
 ⊠ Es posible optar a las siguientes subvenciones:
 1) Investigación y difusión; 2) Localizaciones, exhumaciones e identificaciones de personas desaparecidas en la Guerra Civil y la Dictadura Franquista. 2.d). Ámbitos territoriales y/o funcionales de competitividad:
@@ -152,9 +152,7 @@ Funciones:
 
 Composición:
 
-- Presidencia: Una persona funcionaria designada por la persona titular del Comisariado para la Recuperación de la Memoria Histórica, debiendo pertenecer al Grupo A, Subgrupo A1.
-
-- Vocalías:
+- Presidencia: Una persona funcionaria designada por la persona titular del Comisariado para la Recuperación de la Memoria Histórica, debiendo pertenecer al Grupo A, Subgrupo A1. - Vocalías:
 
 1.º Una persona funcionaria designada por la persona titular del Comisariado para la Recuperación de la Memoria Histórica.
 
@@ -314,8 +312,7 @@ Página núm. 12 Sevilla, 13 de julio 2011
 «a. Factura o albarán que acredite la cantidad de planta adquirida, así como la fecha de adquisición de la superficie afectada o cuya producción ha sido afectada por alguna de las medidas de gestión de crisis. En el caso de que la factura o albarán de adquisición de la planta sea de una agrupación de productores que posteriormente ha distribuido la planta entre los productores, será necesario aportar el libro de movimientos vegetales que acredite la fecha de entrega al productor.» Debe decir:
 «a. Factura o albarán que acredite la cantidad y la fecha de adquisición de la planta utilizada en la superficie cuya producción ha sido afectada por alguna de las medidas de gestión de crisis. En el caso de que la factura o albarán de adquisición de la planta sea de una agrupación de productores que posteriormente ha distribuido la planta entre los productores, será necesario aportar el libro de movimientos vegetales que acredite la fecha de entrega al productor.»
 - En la página 8:
-• En el artículo 11, el apartado 3 debe ser apartado 2, el apartado 4 debe ser apartado 3 y el apartado 5 debe ser apartado 4.
-• En el artículo 11 en.
+• En el artículo 11, el apartado 3 debe ser apartado 2, el apartado 4 debe ser apartado 3 y el apartado 5 debe ser apartado 4. • En el artículo 11 en.
 
 el apartado 4, tras la corrección apartado 3, donde dice:
 «4. La incoación, instrucción y la resolución del procedimiento de reintegro corresponde a las personas titulares de los órganos directivos centrales que concedieron la ayuda.» Debe decir:

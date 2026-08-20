@@ -1,7 +1,8 @@
 ---
 id: norm-can-d-101-2023
 codigo_sintetizado: D101_2023 Ordenacion y Curriculo de Educacion Primaria en Canarias
-titulo: Decreto 101/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la Educación Primaria en la Comunidad Autónoma de Canarias.
+titulo: Decreto 101/2023, de 9 de mayo, por el que se establece la ordenación y el
+  currículo de la Educación Primaria en la Comunidad Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Gobierno de Canarias / Consejería de Educación
@@ -19,35 +20,32 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Primaria
 tags:
-  - competencias-clave
-  - curriculo
-  - curriculo-primaria
-  - ebep
-  - educaci-n-primaria
-  - educacion-primaria
-  - equipos-directivos
-  - evaluacion-primaria
-  - igualdad-genero
-  - interinos
-  - oposiciones
-  - roc
+- competencias-clave
+- curriculo
+- curriculo-primaria
+- ebep
+- educaci-n-primaria
+- educacion-primaria
+- equipos-directivos
+- evaluacion-primaria
+- igualdad-genero
+- interinos
+- oposiciones
+- roc
 relaciones:
   desarrolla:
-    - norma_id: norm-es-rd-157-2022
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-157-2022
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '28'
-    - norma_id: norm-es-lo-2-2006
-  articulos:
-    - '6.5'
-    - '18'
-    - norma_id: norm-es-l-39-2015
+  - '6.5'
+  - '18'
+  - norma_id: norm-es-l-39-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-096-1553.pdf
 ---
 # Decreto 101/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la Educación Primaria en la Comunidad Autónoma de Canarias.
@@ -293,9 +291,7 @@ ayuda a familias y centros privados concertados. Los centros privados, los centr
 
 #### Disposición transitoria única. Calendario de aplicación.
 
-El presente decreto será de aplicación a partir del curso escolar 2023/2024.
-
-#### Disposición final primera. Conformidad con la normativa estatal.
+El presente decreto será de aplicación a partir del curso escolar 2023/2024. #### Disposición final primera. Conformidad con la normativa estatal.
 
 1. El contenido de los artículos 2, 4.a, 4.b, 5, 6.a, 6.b, 6.c, 6.e, 6.f, 8.1, 9.1, 9.2, reproduce, total o parcialmente, normas dictadas por el Estado al amparo del artículo 149.1.30.ª de la Constitución Española, recogidas en los artículos 12 de los «Principios generales», 13 de los «Objetivos», 14 de la «Ordenación y principios pedagógicos», 15 de la «Oferta de plazas y gratuidad», así como de la «Disposición adicional segunda. Enseñanza de la Religión», de la Ley Orgánica 2/2006, de 3 de mayo.
 

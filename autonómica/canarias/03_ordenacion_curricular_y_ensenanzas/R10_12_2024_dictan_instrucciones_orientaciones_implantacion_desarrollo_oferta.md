@@ -1,7 +1,12 @@
 ---
 id: norm-can-res-027
 codigo_sintetizado: Resolucion BOC 27
-titulo: Resolución de 10 de diciembre de 2024, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial,-por la que se dictan instrucciones y orientaciones para la implantación y desarrollo de la oferta en las modalidades semipresencial y virtual de certificados profesionales de Grado C, ciclos formativos de Grado D y cursos especialización de Grado E a partir del curso 2024/2025 en el ámbito de la Comunidad Autónoma de Canarias (BOC nº 251, de 18 de diciembre).
+titulo: Resolución de 10 de diciembre de 2024, de la Dirección General de Formación
+  Profesional y Enseñanzas de Régimen Especial,-por la que se dictan instrucciones
+  y orientaciones para la implantación y desarrollo de la oferta en las modalidades
+  semipresencial y virtual de certificados profesionales de Grado C, ciclos formativos
+  de Grado D y cursos especialización de Grado E a partir del curso 2024/2025 en el
+  ámbito de la Comunidad Autónoma de Canarias (BOC nº 251, de 18 de diciembre).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,46 +18,46 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-  - curriculo
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - formacion-profesional
+- curriculo
+- ensenanzas-deportivas
+- equipos-directivos
+- formacion-profesional
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-can-d-81-2010
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-o-2013-10-09
-    - norma_id: norm-can-res-134
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2024-10683
-    - norma_id: norm-es-2024-10684
-    - norma_id: norm-es-2024-10685
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2024-10683
+  - norma_id: norm-es-2024-10684
+  - norma_id: norm-es-2024-10685
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-l-39-2015
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-can-d-81-2010
-    - norma_id: norm-can-o-2013-10-09
-    - norma_id: norm-can-res-134
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2024-10683
-    - norma_id: norm-es-2024-10684
-    - norma_id: norm-es-2024-10685
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-can-res-134
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2024-10683
+  - norma_id: norm-es-2024-10684
+  - norma_id: norm-es-2024-10685
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-251-4224.pdf
 ---
 # Resolución de 10 de diciembre de 2024, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial,-por la que se dictan instrucciones y orientaciones para la implantación y desarrollo de la oferta en las modalidades semipresencial y virtual de certificados profesionales de Grado C, ciclos formativos de Grado D y cursos especialización de Grado E a partir del curso 2024/2025 en el ámbito de la Comunidad Autónoma de Canarias (BOC nº 251, de 18 de diciembre).
@@ -95,9 +100,7 @@ Quinto.- Ordenar la publicación de la presente Resolución en el Boletín Ofici
 
 ## Anexo
 
-INSTRUCCIONES PARA LA ORGANIZACIÓN DE LAS MODALIDADES SEMIPRESENCIAL Y VIRTUAL DE LOS GRADOS C, D Y E DE FORMACIÓN PROFESIONAL EN LA COMUNIDAD AUTÓNOMA DE CANARIAS A PARTIR DEL CURSO 2024-2025.
-
-#### Primera. Objeto y ámbito de aplicación.
+INSTRUCCIONES PARA LA ORGANIZACIÓN DE LAS MODALIDADES SEMIPRESENCIAL Y VIRTUAL DE LOS GRADOS C, D Y E DE FORMACIÓN PROFESIONAL EN LA COMUNIDAD AUTÓNOMA DE CANARIAS A PARTIR DEL CURSO 2024-2025. #### Primera. Objeto y ámbito de aplicación.
 
 1. Las presentes instrucciones y orientaciones tienen por objeto la implantación y desarrollo de los Grados de formación C, D en los niveles 2 (ciclos formativos de grado medio), 3 (ciclos formativos de grado superior) y E a partir del curso escolar 2024/2025, en modalidad semipresencial y virtual.
 
@@ -364,9 +367,7 @@ C) Convocatorias y renuncias:
 6. La renuncia a todas las convocatorias anuales de todos los módulos profesionales en los que el alumnado se encuentre matriculado surtirá los mismos efectos que la anulación de matrícula.
 D) Titulación y certificación:
 
-1. Las personas que cursen cualquier formación en modalidad semipresencial y virtual, obtendrán las mismas titulaciones y certificaciones profesionales que la formación cursada en modalidad presencial. La superación en su totalidad de un Grado C ofertado para estas modalidades conduce a la obtención de un certificado profesional de nivel 2 o 3.
-
-2. Para acceder a la titulación correspondiente a los Grados D y E es requisito indispensable la evaluación positiva en todos los módulos profesionales, el proyecto intermodular y haber superado la formación en empresa u organismo equiparado. En el caso de los Grados D, a partir del segundo curso académico de permanencia en las modalidades semipresencial y virtual, el alumnado que no haya titulado podrá acceder a la titulación una vez que cumpla los requisitos establecidos en el párrafo anterior durante algunas de las siguientes evaluaciones ordinarias programadas. La decisión de titulación la tomará el equipo docente en algunas de estas evaluaciones, en cuya acta de calificaciones se hará constar esta decisión, considerándose como acta final para el alumnado afectado, pudiendo acceder, en ese momento, a la titulación de grado correspondiente.
+1. Las personas que cursen cualquier formación en modalidad semipresencial y virtual, obtendrán las mismas titulaciones y certificaciones profesionales que la formación cursada en modalidad presencial. La superación en su totalidad de un Grado C ofertado para estas modalidades conduce a la obtención de un certificado profesional de nivel 2 o 3. 2. Para acceder a la titulación correspondiente a los Grados D y E es requisito indispensable la evaluación positiva en todos los módulos profesionales, el proyecto intermodular y haber superado la formación en empresa u organismo equiparado. En el caso de los Grados D, a partir del segundo curso académico de permanencia en las modalidades semipresencial y virtual, el alumnado que no haya titulado podrá acceder a la titulación una vez que cumpla los requisitos establecidos en el párrafo anterior durante algunas de las siguientes evaluaciones ordinarias programadas. La decisión de titulación la tomará el equipo docente en algunas de estas evaluaciones, en cuya acta de calificaciones se hará constar esta decisión, considerándose como acta final para el alumnado afectado, pudiendo acceder, en ese momento, a la titulación de grado correspondiente.
 
 3. A efectos de decisión sobre la titulación en los Grados D y E o certificación profesional en los Grados C, el equipo docente actuará de manera colegiada en la adopción de las decisiones para la obtención de la titulación o certificación correspondiente, teniendo en cuenta, como referente, la globalidad de las competencias asociadas a los grados formativos.
 
@@ -390,9 +391,7 @@ c) **Curso 2026-2027.** En este curso escolar se deja de impartir la organizaci�
 
 Centros de Trabajo para poder titular. A partir del 1 de septiembre de 2027, para el alumnado que no haya superado la oferta de Formación Profesional semipresencial, conforme a la ordenación académica vigente en el curso 2023-2024, se le aplicarán las convalidaciones que para los módulos superados, han sido establecidas en el artículo 15, en su redacción actual, de cada uno de los Reales Decretos que establece el título correspondiente y se fijan los aspectos básicos del currículo y en el [Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
-2. En relación a los ciclos residuales LOGSE, aún en vigor, quedan con la ordenación del Sistema de Formación Profesional anterior, sin alteración alguna, manteniendo el módulo de Formación en Centros de Trabajo y su distribución modular y horaria de acuerdo con la normativa básica y autonómica que le sea de aplicación. En aquellos ciclos LOGSE impartidos en la modalidad semipresencial, seguirá siendo de aplicación la Resolución de la Dirección General de Formación Profesional y Educación de Adultos de 23 de septiembre de 2020, por la que se dictan instrucciones para la organización y funcionamiento de la oferta de Formación Profesional Semipresencial en la Comunidad Autónoma de Canarias, a partir del curso 2020-2021.
-
-## Relaciones Normativas y Fundamentos de Derecho
+2. En relación a los ciclos residuales LOGSE, aún en vigor, quedan con la ordenación del Sistema de Formación Profesional anterior, sin alteración alguna, manteniendo el módulo de Formación en Centros de Trabajo y su distribución modular y horaria de acuerdo con la normativa básica y autonómica que le sea de aplicación. En aquellos ciclos LOGSE impartidos en la modalidad semipresencial, seguirá siendo de aplicación la Resolución de la Dirección General de Formación Profesional y Educación de Adultos de 23 de septiembre de 2020, por la que se dictan instrucciones para la organización y funcionamiento de la oferta de Formación Profesional Semipresencial en la Comunidad Autónoma de Canarias, a partir del curso 2020-2021. ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
 

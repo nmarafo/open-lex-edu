@@ -1,7 +1,11 @@
 ---
 id: norm-can-res-boc-2018-106-114
 codigo_sintetizado: Resolucion BOC 114
-titulo: Resolución de 22 de mayo de 2018, de la Dirección General de Formación Profesional y Educación de Adultos, por la que se dictan instrucciones para la concesión de los Premios Extraordinarios de Enseñanzas Profesionales de Música y de Artes Plásticas y Diseño en la Comunidad Autónoma de Canarias, en el curso 2017-2018 (BOC n.º 106, de 4 de junio).
+titulo: Resolución de 22 de mayo de 2018, de la Dirección General de Formación Profesional
+  y Educación de Adultos, por la que se dictan instrucciones para la concesión de
+  los Premios Extraordinarios de Enseñanzas Profesionales de Música y de Artes Plásticas
+  y Diseño en la Comunidad Autónoma de Canarias, en el curso 2017-2018 (BOC n.º 106,
+  de 4 de junio).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,35 +17,35 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Concursos y premios escolares
 tags:
-  - concursos-y-premios-escolares
-  - educacion-personas-adultas
-  - ensenanzas-artisticas
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - eso
-  - evaluacion
-  - formacion-profesional
+- concursos-y-premios-escolares
+- educacion-personas-adultas
+- ensenanzas-artisticas
+- ensenanzas-deportivas
+- equipos-directivos
+- eso
+- evaluacion
+- formacion-profesional
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-135-2016
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-2007-10487
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2007-10487
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2007-10487
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-d-135-2016
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2007-10487
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-106-2612.pdf
 ---
 # Resolución de 22 de mayo de 2018, de la Dirección General de Formación Profesional y Educación de Adultos, por la que se dictan instrucciones para la concesión de los Premios Extraordinarios de Enseñanzas Profesionales de Música y de Artes Plásticas y Diseño en la Comunidad Autónoma de Canarias, en el curso 2017-2018 (BOC n.º 106, de 4 de junio).
@@ -63,17 +67,12 @@ Tercero.- Los equipos directivos de los Conservatorios Profesionales de Música,
 
 ## Anexo
 
-INSTRUCCIONES PARA LA CONCESIÓN DE LOS PREMIOS EXTRAORDINARIOS DE ENSEÑANZAS PROFESIONALES DE MÚSICA Y DE ARTES PLÁSTICAS Y DISEÑO EN LA COMUNIDAD AUTÓNOMA DE CANARIAS, EN EL CURSO 2017-2018.
+INSTRUCCIONES PARA LA CONCESIÓN DE LOS PREMIOS EXTRAORDINARIOS DE ENSEÑANZAS PROFESIONALES DE MÚSICA Y DE ARTES PLÁSTICAS Y DISEÑO EN LA COMUNIDAD AUTÓNOMA DE CANARIAS, EN EL CURSO 2017-2018. #### Primera. Objeto.
 
-#### Primera. Objeto.
-
-El objeto de las presentes instrucciones es establecer los requisitos para la concesión de los Premios Extraordinarios de Enseñanzas Profesionales de Música y de Artes Plásticas y Diseño al alumnado que haya alcanzado mejores resultados académicos en estas enseñanzas en la Comunidad Autónoma de Canarias, en el curso académico 2017-2018.
-
-#### Segunda. Requisitos de los candidatos.
+El objeto de las presentes instrucciones es establecer los requisitos para la concesión de los Premios Extraordinarios de Enseñanzas Profesionales de Música y de Artes Plásticas y Diseño al alumnado que haya alcanzado mejores resultados académicos en estas enseñanzas en la Comunidad Autónoma de Canarias, en el curso académico 2017-2018. #### Segunda. Requisitos de los candidatos.
 
 1. Para participar en la convocatoria al Premio Extraordinario de Enseñanzas Profesionales de Música en la Comunidad Autónoma de Canarias, en el curso 2017-2018, en las distintas especialidades instrumentales o vocales, y de acuerdo con lo establecido en los artículos 13 y 14 de la mencionada Orden de 17 de abril de 2009, será necesario reunir los siguientes requisitos:
-a) Haber finalizado las Enseñanzas Profesionales de Música y haber obtenido el Premio fin de grado en la especialidad cursada, en el curso académico 2017-2018 y en un centro docente de la Comunidad Autónoma de Canarias que esté autorizado para impartir las enseñanzas profesionales de Música. Los requisitos y el procedimiento para participar y obtener el Premio fin de grado serán los establecidos en el artículo 13.6 de la citada Orden de 17 de abril de 2009.
-b) Haber obtenido una nota media igual o superior a 8,75 en los dos últimos cursos de las Enseñanzas Profesionales de Música. A estos efectos las asignaturas convalidadas no serán tenidas en cuenta. En el caso de que el candidato haya ingresado en sexto curso la nota media estará referida únicamente a las asignaturas de dicho curso.
+a) Haber finalizado las Enseñanzas Profesionales de Música y haber obtenido el Premio fin de grado en la especialidad cursada, en el curso académico 2017-2018 y en un centro docente de la Comunidad Autónoma de Canarias que esté autorizado para impartir las enseñanzas profesionales de Música. Los requisitos y el procedimiento para participar y obtener el Premio fin de grado serán los establecidos en el artículo 13.6 de la citada Orden de 17 de abril de 2009. b) Haber obtenido una nota media igual o superior a 8,75 en los dos últimos cursos de las Enseñanzas Profesionales de Música. A estos efectos las asignaturas convalidadas no serán tenidas en cuenta. En el caso de que el candidato haya ingresado en sexto curso la nota media estará referida únicamente a las asignaturas de dicho curso.
 
 **1.1.** Las notas medias del alumnado aspirante se calcularán conforme al Real Decreto 1953/2009, de 18 de diciembre, por el que se modifican el Real Decreto 1577/2006, de 22 de diciembre, el Real Decreto 85/2007, de 26 de enero, y el Real Decreto 1467/2007, de 2 de noviembre, en lo relativo al cálculo de la nota media del alumnado de las Enseñanzas Profesionales de Música y Danza (BOE nº 15, de 18 de enero).
 
@@ -103,9 +102,7 @@ Diseño, acompañada de la documentación acreditativa del cumplimiento de los r
 
 2. Esta Dirección General examinará la documentación aportada por los centros docentes y en el plazo máximo de cinco días, elaborará una Propuesta Provisional de Premios Extraordinarios de Enseñanzas Profesionales de Música y de Premios Extraordinarios de Artes Plásticas y Diseño de la Comunidad Autónoma de Canarias, correspondiente al curso académico 2017-2018, en la que se incluirán los nombres del alumnado que corresponda premiar.
 
-3. Dicha Propuesta Provisional de Premios Extraordinarios se publicará en la página web de la Consejería de Educación y Universidades para que, durante los diez días siguientes al de su publicación, el alumnado propuesto, o quienes ejerzan su tutela, pueda formular las alegaciones que estime oportunas. Una vez estudiadas las alegaciones presentadas en tiempo y forma, se procederá a adjudicar mediante resolución la relación definitiva de alumnado que ha obtenido Premio Extraordinario de Enseñanzas Artísticas en sus respectivas modalidades, en la Comunidad Autónoma de Canarias, en el curso 2017-2018.
-
-4. En caso de que concurran en la misma especialidad de las Enseñanzas Profesionales de Música varios aspirantes, la adjudicación final se dirimirá aplicando estos criterios:
+3. Dicha Propuesta Provisional de Premios Extraordinarios se publicará en la página web de la Consejería de Educación y Universidades para que, durante los diez días siguientes al de su publicación, el alumnado propuesto, o quienes ejerzan su tutela, pueda formular las alegaciones que estime oportunas. Una vez estudiadas las alegaciones presentadas en tiempo y forma, se procederá a adjudicar mediante resolución la relación definitiva de alumnado que ha obtenido Premio Extraordinario de Enseñanzas Artísticas en sus respectivas modalidades, en la Comunidad Autónoma de Canarias, en el curso 2017-2018. 4. En caso de que concurran en la misma especialidad de las Enseñanzas Profesionales de Música varios aspirantes, la adjudicación final se dirimirá aplicando estos criterios:
 a) Mayor nota media obtenida al efecto con las asignaturas de quinto y sexto curso de las Enseñanzas Profesionales de Música o con las asignaturas de sexto curso para quienes únicamente hayan cursado sexto curso.
 b) Mayor nota media obtenida del expediente de las Enseñanzas Profesionales de Música.
 c) Mayor nota obtenida en la asignatura de instrumento del sexto curso.

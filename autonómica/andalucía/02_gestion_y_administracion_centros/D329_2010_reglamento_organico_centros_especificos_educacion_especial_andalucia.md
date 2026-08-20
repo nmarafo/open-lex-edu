@@ -1,10 +1,12 @@
 ---
 id: norm-and-d-329-2010
 codigo_sintetizado: D329_2010 ROC Centros Educacion Especial Andalucia
-titulo: Decreto 329/2010, de 13 de julio, por el que se aprueba el Reglamento Orgánico de los Centros Específicos de Educación Especial de la Comunidad Autónoma de Andalucía.
+titulo: Decreto 329/2010, de 13 de julio, por el que se aprueba el Reglamento Orgánico
+  de los Centros Específicos de Educación Especial de la Comunidad Autónoma de Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 329/2010
 fecha_disposicion: '2010-07-13'
@@ -18,18 +20,18 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Reglamentos Orgánicos de Centro
 tags:
-  - roc_cee
-  - educacion_especial
-  - equipo_directivo
-  - andalucia
+- roc_cee
+- educacion_especial
+- equipo_directivo
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Decreto 329/2010, de 13 de julio, por el que se aprueba el Reglamento Orgánico de los Centros Específicos de Educación Especial de la Comunidad Autónoma de Andalucía.
 
@@ -343,9 +345,7 @@ segundo ciclo, de los colegios de educación primaria, de los colegios de educac
 
 1. Se promoverán acciones que favorezcan la justa valoración social del personal de administración y servicios y de atención educativa complementaria de las escuelas infantiles de segundo ciclo, de los colegios de educación primaria, de los colegios de educación infantil y primaria y de los centros públicos específicos de educación especial.
 
-2. Asimismo, se proporcionará a este personal asistencia jurídica y psicológica gratuita por hechos que se deriven de su ejercicio profesional en los términos recogidos en el artículo 9.5.
-
-## Título V
+2. Asimismo, se proporcionará a este personal asistencia jurídica y psicológica gratuita por hechos que se deriven de su ejercicio profesional en los términos recogidos en el artículo 9.5. ## Título V
 
 EL CENTRO DOCENTE
 
@@ -422,9 +422,7 @@ d) Domicilio oficial del colegio público rural.
 
 3. El Claustro de Profesorado formulará propuestas al equipo directivo para la elaboración del Plan de Centro, fijará criterios referentes a la orientación y tutoría del alumnado,
 
-Sevilla, 16 de julio 2010 Página núm. 41 informará el reglamento de organización y funcionamiento y aprobará y evaluará los aspectos educativos del Plan de Centro a que se refieren las letras b), c), d), e), f), g), k), n) y ñ) del artículo 21 3.
-
-4. El Plan de Centro tendrá un carácter plurianual, obligará a todo el personal del centro y vinculará a la comunidad educativa del mismo. Se podrá actualizar o modificar, en su caso, tras los procesos de autoevaluación a que se refiere el artículo 26 o a.
+Sevilla, 16 de julio 2010 Página núm. 41 informará el reglamento de organización y funcionamiento y aprobará y evaluará los aspectos educativos del Plan de Centro a que se refieren las letras b), c), d), e), f), g), k), n) y ñ) del artículo 21 3. 4. El Plan de Centro tendrá un carácter plurianual, obligará a todo el personal del centro y vinculará a la comunidad educativa del mismo. Se podrá actualizar o modificar, en su caso, tras los procesos de autoevaluación a que se refiere el artículo 26 o a.
 
 propuesta del director o directora en función de. su proyecto de dirección.
 
@@ -446,8 +444,7 @@ f) La forma de atención a la diversidad del alumnado.
 g) La organización de las actividades de refuerzo y recuperación.
 h) El plan de orientación y acción tutorial.
 i) El procedimiento para suscribir compromisos educativos y de convivencia con las familias, de acuerdo con lo que se establezca por Orden de la Consejería competente en materia de educación.
-j) El plan de convivencia a desarrollar para prevenir la aparición de conductas contrarias a las normas de convivencia y facilitar un adecuado clima escolar, a que se refiere el artículo 22.
-k) El plan de formación del profesorado.
+j) El plan de convivencia a desarrollar para prevenir la aparición de conductas contrarias a las normas de convivencia y facilitar un adecuado clima escolar, a que se refiere el artículo 22. k) El plan de formación del profesorado.
 l) Los criterios para organizar y distribuir el tiempo escolar, así como los objetivos y programas de intervención en el tiempo extraescolar.
 m) Los procedimientos de evaluación interna.
 n) Los criterios para establecer los agrupamientos del alumnado y la asignación de las tutorías, de acuerdo con las líneas generales de actuación pedagógica del centro y orientados a favorecer el éxito escolar del alumnado. ñ) Los criterios generales para elaborar las programaciones didácticas de cada una de las áreas de la educación primaria y de la educación especial y las propuestas pedagógicas de la educación infantil.
@@ -464,8 +461,7 @@ p) Cualesquiera otros que le sean atribuidos por Orden de la persona titular de 
 a) Diagnóstico del estado de la convivencia en el centro y, en su caso, conflictividad detectada en el mismo, así como los objetivos a conseguir.
 b) Normas de convivencia, tanto generales del centro que favorezcan las relaciones de los distintos sectores de la comunidad educativa, como particulares del aula, y un sistema que detecte el incumplimiento de las normas y las correcciones que, en su caso, se aplicarían, de conformidad con lo establecido en el Capítulo III de este Título.
 c) Composición, plan de reuniones y plan de actuación de la comisión de convivencia.
-d) Normas específicas para el funcionamiento del aula de convivencia del centro, a que se refiere el artículo 23.
-e) Medidas a aplicar en el centro para prevenir, detectar, mediar y resolver los conflictos que pudieran plantearse.
+d) Normas específicas para el funcionamiento del aula de convivencia del centro, a que se refiere el artículo 23. e) Medidas a aplicar en el centro para prevenir, detectar, mediar y resolver los conflictos que pudieran plantearse.
 f) Funciones de los delegados y de las delegadas del alumnado en la mediación para la resolución pacífica de los conflictos que pudieran presentarse entre el alumnado, promoviendo su colaboración con el tutor o la tutora del grupo.
 g) Procedimiento de elección y funciones del delegado o de la delegada de los padres y madres del alumnado, entre las que se incluirá la de mediación en la resolución pacífica de conflictos entre el propio alumnado o entre éste y cualquier miembro de la comunidad educativa.
 
@@ -494,8 +490,7 @@ c) La organización de los espacios, instalaciones y recursos materiales del cen
 d) La organización de la vigilancia de los tiempos de recreo y de los periodos de entrada y salida de clase.
 e) La forma de colaboración de los tutores y tutoras en la gestión del programa de gratuidad de libros de texto.
 f) El plan de autoprotección del centro.
-g) El procedimiento para la designación de los miembros de los equipos de evaluación a que se refiere el artículo 26.5.
-h) Las normas sobre la utilización en el centro de teléfonos móviles y otros aparatos electrónicos, así como el procedimiento para garantizar el acceso seguro a internet del alumnado, de acuerdo con lo dispuesto en el Decreto 25/2007, de 6 de febrero, por el que se establecen medidas para el fomento, la prevención de riesgos y la seguridad en el uso de internet y las tecnologías de la información y la comunicación (TIC) por parte de las personas menores de edad.
+g) El procedimiento para la designación de los miembros de los equipos de evaluación a que se refiere el artículo 26.5. h) Las normas sobre la utilización en el centro de teléfonos móviles y otros aparatos electrónicos, así como el procedimiento para garantizar el acceso seguro a internet del alumnado, de acuerdo con lo dispuesto en el Decreto 25/2007, de 6 de febrero, por el que se establecen medidas para el fomento, la prevención de riesgos y la seguridad en el uso de internet y las tecnologías de la información y la comunicación (TIC) por parte de las personas menores de edad.
 i) **La posibilidad de establecer un uniforme para el alumnado.** En el supuesto de que el centro decidiera el uso de un uniforme, este, además de la identificación del centro, llevará en la parte superior izquierda la marca genérica de la Junta de Andalucía asociada a la Consejería competente en materia de educación.
 j) Las competencias y funciones relativas a la prevención de riesgos laborales.
 k) Cualesquiera otros que le sean atribuidos por Orden de la persona titular de la Consejería competente en materia de educación y, en general, todos aquellos aspectos relativos a la organización y funcionamiento del centro no contemplados por la normativa vigente, a la que, en todo caso, deberá supeditarse.
@@ -540,9 +535,7 @@ b) Propuestas de mejora para su inclusión en el Plan de Centro.
 
 #### Artículo 27. Las programaciones didácticas.
 
-1. Las programaciones didácticas en la educación primaria son instrumentos específicos de planificación, desarrollo y evaluación de cada área del currículo establecido por la normativa vigente. Se atendrán a los criterios generales recogidos en el proyecto educativo y tendrán en cuenta las necesidades y características del alumnado. Serán elaboradas por los equipos de ciclo, su aprobación corresponderá al Claustro de Profesorado y se podrán actualizar o modificar, en su caso, tras los procesos de autoevaluación a que se refiere el artículo 26.
-
-2. Las programaciones didácticas incluirán:
+1. Las programaciones didácticas en la educación primaria son instrumentos específicos de planificación, desarrollo y evaluación de cada área del currículo establecido por la normativa vigente. Se atendrán a los criterios generales recogidos en el proyecto educativo y tendrán en cuenta las necesidades y características del alumnado. Serán elaboradas por los equipos de ciclo, su aprobación corresponderá al Claustro de Profesorado y se podrán actualizar o modificar, en su caso, tras los procesos de autoevaluación a que se refiere el artículo 26. 2. Las programaciones didácticas incluirán:
 a) Los objetivos, los contenidos y su distribución temporal y los criterios de evaluación para cada ciclo, posibilitando la adaptación de la secuenciación de contenidos a las características del centro y su entorno.
 b) La contribución de las áreas a la adquisición de las competencias básicas.
 c) La forma en que se incorporan los contenidos de carácter transversal al currículo.
@@ -561,9 +554,7 @@ i) Las actividades complementarias y extraescolares relacionadas con el currícu
 
 #### Artículo 28. Las propuestas pedagógicas.
 
-1. Las propuestas pedagógicas en el segundo ciclo de la educación infantil respetarán las características propias del crecimiento y el aprendizaje de los niños y niñas. Serán elaboradas por el equipo de ciclo de educación infantil, su aprobación corresponderá al Claustro de Profesorado y se podrán actualizar o modificar, en su caso, tras los procesos de autoevaluación a que se refiere el artículo 26.
-
-2. Las propuestas pedagógicas incluirán:
+1. Las propuestas pedagógicas en el segundo ciclo de la educación infantil respetarán las características propias del crecimiento y el aprendizaje de los niños y niñas. Serán elaboradas por el equipo de ciclo de educación infantil, su aprobación corresponderá al Claustro de Profesorado y se podrán actualizar o modificar, en su caso, tras los procesos de autoevaluación a que se refiere el artículo 26. 2. Las propuestas pedagógicas incluirán:
 a) La concreción del currículo para los niños y las niñas del centro.
 b) La forma en que se incorporan los contenidos de carácter transversal al currículo.
 c) La metodología que se va a aplicar.
@@ -639,9 +630,7 @@ e) Las faltas injustificadas de asistencia a clase.
 f) La incorrección y desconsideración hacia los otros miembros de la comunidad educativa.
 g) Causar pequeños daños en las instalaciones, recursos materiales o documentos del centro, o en las pertenencias de los demás miembros de la comunidad educativa.
 
-2. Se consideran faltas injustificadas de asistencia a clase o de puntualidad de un alumno o alumna, las que no sean excusadas de forma escrita por los padres, madres o representantes legales, en las condiciones que se establezcan en el plan de convivencia, a que se refiere el artículo 22.
-
-3. Sin perjuicio de las correcciones que se impongan en el caso de las faltas injustificadas, los planes de convivencia de los centros establecerán el número máximo de faltas de asistencia por curso, a efectos de la evaluación y promoción del alumnado.
+2. Se consideran faltas injustificadas de asistencia a clase o de puntualidad de un alumno o alumna, las que no sean excusadas de forma escrita por los padres, madres o representantes legales, en las condiciones que se establezcan en el plan de convivencia, a que se refiere el artículo 22. 3. Sin perjuicio de las correcciones que se impongan en el caso de las faltas injustificadas, los planes de convivencia de los centros establecerán el número máximo de faltas de asistencia por curso, a efectos de la evaluación y promoción del alumnado.
 
 4. Las conductas contrarias a las normas de convivencia recogidas en este artículo prescribirán en el plazo de treinta días naturales contados a partir de la fecha de su comisión, excluyendo los periodos vacacionales establecidos en el correspondiente calendario escolar de la provincia.
 
@@ -689,8 +678,7 @@ e) Las vejaciones o humillaciones contra cualquier miembro de la comunidad educa
 f) Las amenazas o coacciones contra cualquier miembro de la comunidad educativa.
 g) La suplantación de la personalidad en actos de la vida docente y la falsificación o sustracción de documentos académicos.
 h) Las actuaciones que causen graves daños en las instalaciones, recursos materiales o documentos del centro, o en las pertenencias de los demás miembros de la comunidad educativa, así como la sustracción de las mismas.
-i) La reiteración en un mismo curso escolar de conductas contrarias a las normas de convivencia del centro a las que se refiere el artículo 33.
-j) Cualquier acto dirigido directamente a impedir el normal desarrollo de las actividades del centro.
+i) La reiteración en un mismo curso escolar de conductas contrarias a las normas de convivencia del centro a las que se refiere el artículo 33. j) Cualquier acto dirigido directamente a impedir el normal desarrollo de las actividades del centro.
 k) El incumplimiento de las correcciones impuestas, salvo que la comisión de convivencia considere que este incumplimiento sea debido a causas justificadas.
 
 2. Las conductas gravemente perjudiciales para la convivencia en el centro prescribirán a los sesenta días naturales contados a partir de la fecha de su comisión, excluyendo los períodos vacacionales establecidos en el correspondiente calendario escolar de la provincia.
@@ -781,9 +769,7 @@ Contra la resolución a que se refiere el artículo 45, se podrá interponer rec
 
 2. El Consejo Escolar es el órgano colegiado de gobierno a través del cual participa la comunidad educativa en el gobierno de los centros.
 
-3. El Claustro de Profesorado es el órgano propio de participación del profesorado en el gobierno del centro, que tiene la responsabilidad de planificar, coordinar y, en su caso, decidir o informar sobre todos los aspectos educativos del mismo, de conformidad con lo establecido en el artículo 20.3.
-
-#### Artículo 48. Normas generales y supletorias de funcionamiento de los órganos colegiados de gobierno.
+3. El Claustro de Profesorado es el órgano propio de participación del profesorado en el gobierno del centro, que tiene la responsabilidad de planificar, coordinar y, en su caso, decidir o informar sobre todos los aspectos educativos del mismo, de conformidad con lo establecido en el artículo 20.3. #### Artículo 48. Normas generales y supletorias de funcionamiento de los órganos colegiados de gobierno.
 
 Para lo no previsto en los artículos 51 y 67, el régimen de funcionamiento de los órganos colegiados de gobierno de los centros docentes públicos será el establecido en el Capítulo II del Título IV de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía, en el Capítulo II del Título II de la Ley 30/1992, de 26 de noviembre, y demás normativa aplicable.
 
@@ -860,8 +846,7 @@ f) Realizar el seguimiento de los compromisos educativos y de convivencia suscri
 g) Conocer la resolución de conflictos disciplinarios y velar porque se atengan al presente Reglamento y demás normativa de aplicación. Cuando las medidas disciplinarias adoptadas por el director o directora correspondan a conductas del alumno o alumna que perjudiquen gravemente la convivencia del centro, el Consejo Escolar, a instancia de padres, madres o representantes legales del alumnado, podrá revisar la decisión adoptada y proponer, en su caso, las medidas oportunas.
 h) Proponer medidas e iniciativas que favorezcan la convivencia en el centro, la igualdad entre hombres y mujeres y la resolución pacífica de conflictos en todos los ámbitos de la vida personal, familiar y social.
 i) Reprobar a las personas que causen daños, injurias u ofensas al profesorado. En todo caso, la resolución de reprobación se emitirá tras la instrucción de un expediente, previa audiencia al interesado.
-j) Promover la conservación y renovación de las instalaciones y equipo escolar y aprobar la obtención de recursos complementarios de acuerdo con lo establecido en el artículo 25.
-k) Fijar las directrices para la colaboración, con fines educativos y culturales, con las Administraciones locales, con otros centros, entidades y organismos.
+j) Promover la conservación y renovación de las instalaciones y equipo escolar y aprobar la obtención de recursos complementarios de acuerdo con lo establecido en el artículo 25. k) Fijar las directrices para la colaboración, con fines educativos y culturales, con las Administraciones locales, con otros centros, entidades y organismos.
 l) Analizar y valorar el funcionamiento general del centro, la evolución del rendimiento escolar y los resultados de las evaluaciones internas y externas en las que participe el centro.
 m) Elaborar propuestas e informes, a iniciativa propia o a petición de la Administración competente, sobre el funcionamiento del centro y la mejora de la calidad de la gestión, así como sobre aquellos otros aspectos relacionados con la calidad de la misma.
 n) Cualesquiera otras que le sean atribuidas por la Consejería competente en materia de educación.
@@ -913,8 +898,7 @@ d) Un persona representante del personal de administración y servicios.
 a) Aprobar y publicar los censos electorales, así como atender y resolver las reclamaciones al mismo. El censo comprenderá nombre y apellidos de las personas electoras, en su caso documento nacional de identidad de las mismas, así como su condición de maestro o maestra, padre, madre o representante legal del alumnado, personal de administración y servicios o personal de atención educativa complementaria.
 
 Sevilla, 16 de julio 2010 Página núm. 49
-b) Concretar el calendario electoral, de acuerdo con lo establecido en el artículo 52.
-c) Organizar el proceso electoral.
+b) Concretar el calendario electoral, de acuerdo con lo establecido en el artículo 52. c) Organizar el proceso electoral.
 d) Admitir y proclamar las personas candidatas, así como concretar el número máximo de éstas que pueden ser votadas por cada persona electora.
 e) Determinar el modo en que quedarán identificadas, en las papeletas de voto, las candidaturas presentadas por las asociaciones de padres y madres del alumnado legalmente constituidas.
 f) Promover la constitución de las distintas Mesa Electorales.
@@ -947,9 +931,7 @@ h) Proclamar los candidatos y candidatas elegidos y remitir las correspondientes
 
 6. Cada maestro o maestra podrá hacer constar en su papeleta, como máximo, tantos nombres de la relación de candidatos y candidatas como puestos a cubrir. Serán elegidos los maestros y maestras con mayor número de votos. Si en la
 
-#### Primera. votación no hubiese resultado elegido el número de maestros o maestras que corresponda, se procederá a realizar en el mismo acto sucesivas votaciones hasta alcanzar dicho número, sin perjuicio de lo dispuesto en el artículo 63.2.
-
-7. No podrán ser representantes del profesorado en el Consejo Escolar del centro quienes desempeñen los cargos de dirección, secretaría y jefatura de estudios.
+#### Primera. votación no hubiese resultado elegido el número de maestros o maestras que corresponda, se procederá a realizar en el mismo acto sucesivas votaciones hasta alcanzar dicho número, sin perjuicio de lo dispuesto en el artículo 63.2. 7. No podrán ser representantes del profesorado en el Consejo Escolar del centro quienes desempeñen los cargos de dirección, secretaría y jefatura de estudios.
 
 #### Artículo 58. Elección de los representantes de los padres y de las madres.
 
@@ -1046,16 +1028,14 @@ i) Cualesquiera otras que puedan serle atribuidas por el Consejo Escolar, relati
 
 El Claustro de Profesorado tendrá las siguientes competencias:
 a) Formular al equipo directivo y al Consejo Escolar propuestas para la elaboración del Plan de Centro.
-b) Aprobar y evaluar los aspectos educativos del Plan de Centro, a que se refiere el artículo 20.3.
-c) Aprobar las programaciones didácticas y las propuestas pedagógicas.
+b) Aprobar y evaluar los aspectos educativos del Plan de Centro, a que se refiere el artículo 20.3. c) Aprobar las programaciones didácticas y las propuestas pedagógicas.
 d) Fijar criterios referentes a la orientación y tutoría del alumnado.
 e) Promover iniciativas en el ámbito de la experimentación, de la innovación y de la investigación pedagógica y en la formación del profesorado del centro.
 f) Elegir sus representantes en el Consejo Escolar del centro y participar en la selección del director o directora en los términos establecidos en la Ley Orgánica 2/2006, de 3 de mayo, y demás normativa de aplicación.
 g) Conocer las candidaturas a la dirección y los proyectos de dirección presentados por las personas candidatas.
 h) Analizar y valorar el funcionamiento general del centro, la evolución del rendimiento escolar y los resultados de las evaluaciones internas y externas en las que participe el centro.
 i) Informar el reglamento de organización y funcionamiento del centro.
-j) Informar la memoria de autoevaluación a que se refiere el artículo 26.
-k) Conocer la resolución de conflictos disciplinarios y la imposición de sanciones y velar para que éstas se atengan a la normativa vigente.
+j) Informar la memoria de autoevaluación a que se refiere el artículo 26. k) Conocer la resolución de conflictos disciplinarios y la imposición de sanciones y velar para que éstas se atengan a la normativa vigente.
 l) Proponer medidas e iniciativas que favorezcan la convivencia en el centro.
 m) Cualesquiera otras que le sean atribuidas por el reglamento de organización y funcionamiento del centro o por Orden de la persona titular de la Consejería competente en materia de educación.
 
@@ -1075,8 +1055,7 @@ m) Cualesquiera otras que le sean atribuidas por el reglamento de organización 
 a) Velar por el buen funcionamiento del centro.
 b) Establecer el horario que corresponde a cada área y, en general, el de cualquier otra actividad docente y no docente.
 c) Adoptar las medidas necesarias para la ejecución coordinada de los acuerdos adoptados por el Consejo Escolar y el Claustro de Profesorado, así como velar por el cumplimiento de las decisiones de los órganos de coordinación docente, en el ámbito de sus respectivas competencias.
-d) Elaborar el Plan de Centro y la memoria de autoevaluación, de conformidad con lo establecido en los artículos 20.2 y 3 y 26.5.
-e) Impulsar la actuación coordinada del centro con el resto de centros docentes de su zona educativa, especialmente con el instituto de educación secundaria al que esté adscrito.
+d) Elaborar el Plan de Centro y la memoria de autoevaluación, de conformidad con lo establecido en los artículos 20.2 y 3 y 26.5. e) Impulsar la actuación coordinada del centro con el resto de centros docentes de su zona educativa, especialmente con el instituto de educación secundaria al que esté adscrito.
 f) Favorecer la participación del centro en redes de centros que promuevan planes y proyectos educativos para la mejora permanente de la enseñanza.
 g) Colaborar con la Consejería competente en materia de educación en aquellos órganos de participación que, a tales efectos, se establezcan.
 h) Cumplimentar la documentación solicitada por los órganos y entidades dependientes de la Consejería competente en materia de educación.
@@ -1104,8 +1083,7 @@ b) Dirigir y coordinar todas las actividades del centro, sin perjuicio de las co
 c) Ejercer la dirección pedagógica, facilitar un clima de colaboración entre el profesorado, designar el profesorado responsable de la aplicación de las medidas de atención a la diversidad, promover la innovación educativa e impulsar y realizar el seguimiento de los planes para la consecución de los objetivos del proyecto educativo del centro.
 d) Garantizar el cumplimiento de las leyes y demás disposiciones vigentes.
 e) Ejercer la jefatura de todo el personal adscrito al centro.
-f) Ejercer la potestad disciplinaria de acuerdo con lo establecido en el artículo 71.
-g) Favorecer la convivencia en el centro, garantizar la mediación en la resolución de los conflictos e imponer las medidas disciplinarias que correspondan al alumnado, en cumplimiento de la normativa vigente y del proyecto educativo del centro, sin perjuicio de las competencias atribuidas al Consejo Escolar.
+f) Ejercer la potestad disciplinaria de acuerdo con lo establecido en el artículo 71. g) Favorecer la convivencia en el centro, garantizar la mediación en la resolución de los conflictos e imponer las medidas disciplinarias que correspondan al alumnado, en cumplimiento de la normativa vigente y del proyecto educativo del centro, sin perjuicio de las competencias atribuidas al Consejo Escolar.
 h) Impulsar la colaboración con las familias, con instituciones y con organismos que faciliten la relación del centro con el entorno y fomentar un clima escolar que favorezca el estudio y el desarrollo de cuantas actuaciones propicien una formación integral del alumnado en conocimientos y valores.
 i) Impulsar las evaluaciones internas del centro y colaborar en las evaluaciones externas y en la evaluación del profesorado.
 j) Convocar y presidir los actos académicos y las reuniones del Consejo Escolar y del Claustro de Profesorado y ejecutar los acuerdos adoptados en el ámbito de sus competencias.
@@ -1170,8 +1148,7 @@ f) Adquirir el material y el equipamiento del centro, custodiar y gestionar la u
 g) Ejercer, por delegación de la dirección y bajo su autoridad, la jefatura del personal de administración y servicios y de atención educativa complementaria adscrito al centro y controlar la asistencia al trabajo del mismo.
 h) Elaborar, en colaboración con los restantes miembros del equipo directivo, el horario del personal de administración y servicios y de atención educativa complementaria, así como velar por su estricto cumplimiento.
 i) Elaborar el anteproyecto de presupuesto de ingresos y gastos del centro.
-j) Ordenar el régimen económico del centro, de conformidad con las instrucciones de la dirección, realizar la contabilidad y rendir cuentas ante la Consejería competente en materia de educación y los órganos a los que se refiere el artículo 25.4.
-k) Cualesquiera otras que le sean atribuidas en el Plan de Centro o por Orden de la persona titular de la Consejería competente en materia de educación.
+j) Ordenar el régimen económico del centro, de conformidad con las instrucciones de la dirección, realizar la contabilidad y rendir cuentas ante la Consejería competente en materia de educación y los órganos a los que se refiere el artículo 25.4. k) Cualesquiera otras que le sean atribuidas en el Plan de Centro o por Orden de la persona titular de la Consejería competente en materia de educación.
 
 #### Artículo 75. Nombramiento de la jefatura de estudios y de la secretaría.
 
@@ -1217,8 +1194,7 @@ c) Garantizar que cada maestro y maestra proporcione al alumnado información re
 d) Establecer actuaciones para mejorar el clima de convivencia del grupo.
 e) Tratar coordinadamente los conflictos que surjan en el seno del grupo, estableciendo medidas para resolverlos y sin perjuicio de las competencias que correspondan a otros órganos en materia de prevención y resolución de conflictos.
 f) Conocer y participar en la elaboración de la información que, en su caso, se proporcione a los padres, madres o representantes legales de cada uno de los alumnos o alumnas del grupo.
-g) Proponer y elaborar las adaptaciones curriculares no significativas bajo la coordinación del profesor o profesora tutor y con el asesoramiento del equipo de orientación a que se refiere el artículo 86.
-h) Atender a los padres, madres o representantes legales del alumnado del grupo de acuerdo con lo que se establezca en el plan de orientación y acción tutorial del centro y en la normativa vigente.
+g) Proponer y elaborar las adaptaciones curriculares no significativas bajo la coordinación del profesor o profesora tutor y con el asesoramiento del equipo de orientación a que se refiere el artículo 86. h) Atender a los padres, madres o representantes legales del alumnado del grupo de acuerdo con lo que se establezca en el plan de orientación y acción tutorial del centro y en la normativa vigente.
 i) Cuantas otras se determinen en el plan de orientación y acción tutorial del centro.
 
 3. Los equipos docentes trabajarán para prevenir los problemas de aprendizaje que pudieran presentarse y compartirán toda la información que sea necesaria para trabajar de manera coordinada en el cumplimiento de sus funciones.
@@ -1280,9 +1256,7 @@ f) Cualesquiera otras que le sean atribuidas en el proyecto educativo del centro
 
 1. La dirección de las escuelas infantiles de segundo ciclo, de los colegios de educación primaria, de los colegios de educación infantil y primaria y de los centros públicos específicos de educación especial, oído el Claustro de Profesorado, formulará a la persona titular de la Delegación Provincial correspondiente de la Consejería competente en materia de educación propuesta de nombramiento de los coordinadores o coordinadoras de ciclo, de entre el profesorado funcionario con destino definitivo en el centro. Las personas coordinadoras de ciclo desempeñarán su cargo durante dos cursos escolares, siempre que durante dicho período continúen prestando servicio en el centro.
 
-2. La propuesta procurará la participación equilibrada de hombres y mujeres en los órganos de coordinación docente de los centros, en los términos que se recogen en el artículo 75.2.
-
-#### Artículo 85. Cese de los coordinadores y coordinadoras de ciclo.
+2. La propuesta procurará la participación equilibrada de hombres y mujeres en los órganos de coordinación docente de los centros, en los términos que se recogen en el artículo 75.2. #### Artículo 85. Cese de los coordinadores y coordinadoras de ciclo.
 
 1. Los coordinadores o coordinadoras de ciclo cesarán en sus funciones al término de su mandato o al producirse alguna de las causas siguientes:
 a) Cuando por cese de la dirección que los propuso, se produzca la elección del nuevo director o directora.
@@ -1320,9 +1294,7 @@ h) Cualesquiera otras que le sean atribuidas en el proyecto educativo o por Orde
 
 Página núm. 56 Sevilla, 16 de julio 2010
 
-2. Se integrará, asimismo, en el equipo de técnico de coordinación pedagógica, el orientador u orientadora de referencia del centro a que se refiere el artículo 86.4.
-
-#### Artículo 88. Competencias del equipo técnico de coordinación pedagógica.
+2. Se integrará, asimismo, en el equipo de técnico de coordinación pedagógica, el orientador u orientadora de referencia del centro a que se refiere el artículo 86.4. #### Artículo 88. Competencias del equipo técnico de coordinación pedagógica.
 
 El equipo técnico de coordinación pedagógica tendrá las siguientes competencias:
 a) Establecer las directrices generales para la elaboración de los aspectos educativos del Plan de Centro y sus modificaciones.

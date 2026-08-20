@@ -1,7 +1,15 @@
 ---
 id: norm-can-res-112
 codigo_sintetizado: Resolucion BOC 112
-titulo: Resolución de 6 de marzo de 2026, por la que se corrige error en la Resolución de 13 de febrero de 2026, que convoca el procedimiento de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) y de los cursos de especialización de Grado Medio y Superior (Grados E, niveles 2 y 3, respectivamente) de todas las Enseñanzas de Formación Profesional autorizadas, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Deportivas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas de Idiomas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027 (BOC n.º 39, de 26.2.2026).
+titulo: Resolución de 6 de marzo de 2026, por la que se corrige error en la Resolución
+  de 13 de febrero de 2026, que convoca el procedimiento de admisión del alumnado
+  a los Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2
+  y 3, respectivamente) y de los cursos de especialización de Grado Medio y Superior
+  (Grados E, niveles 2 y 3, respectivamente) de todas las Enseñanzas de Formación
+  Profesional autorizadas, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas
+  Deportivas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas de Idiomas
+  en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias
+  para el curso escolar 2026-2027 (BOC n.º 39, de 26.2.2026).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General competente de la Consejería de Educación de Canarias
@@ -13,37 +21,37 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión y escolarización del alumnado
 tags:
-  - admisi-n-y-escolarizaci-n-del-alumnado
-  - admision-alumnado
-  - cursos-especializacion
-  - ensenanzas-artisticas
-  - ensenanzas-deportivas
-  - eoi
-  - equipos-directivos
-  - formacion-profesional
-  - grado-medio
-  - procedimiento-administrativo
-  - profesorado
+- admisi-n-y-escolarizaci-n-del-alumnado
+- admision-alumnado
+- cursos-especializacion
+- ensenanzas-artisticas
+- ensenanzas-deportivas
+- eoi
+- equipos-directivos
+- formacion-profesional
+- grado-medio
+- procedimiento-administrativo
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-212-1991
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-res-boc-2026-039-102
-    - norma_id: norm-can-res-boc-2026-039-103
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-boc-2026-039-102
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-res-boc-2026-039-102
-    - norma_id: norm-can-res-boc-2026-039-103
-    - norma_id: norm-can-d-212-1991
+  - '1'
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-res-boc-2026-039-102
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-053-880.pdf
 ---
 # Resolución de 6 de marzo de 2026, por la que se corrige error en la Resolución de 13 de febrero de 2026, que convoca el procedimiento de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) y de los cursos de especialización de Grado Medio y Superior (Grados E, niveles 2 y 3, respectivamente) de todas las Enseñanzas de Formación Profesional autorizadas, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Deportivas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas de Idiomas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027 (BOC n.º 39, de 26.2.2026).
@@ -51,8 +59,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-053-880.p
 ## Preámbulo
 
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes Resolución de 6 de marzo de 2026, por la que se corrige error en la Resolución de 13 de febrero de 2026, que convoca el procedimiento de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) y de los cursos de especialización de Grado Medio y Superior (Grados E, niveles 2 y 3, respectivamente) de todas las Enseñanzas de Formación Profesional autorizadas, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Deportivas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas de Idiomas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027 (BOC n.º 39, de 26.2.2026). ANTECEDENTES DE HECHO
-Primero.- Con fecha 26 de febrero de 2026 se publica en el Boletín Oficial de Canarias n.º 39 la [Resolución de 13 de febrero de 2026](./R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md), por la que se convoca el procedimiento de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) y de los cursos de especialización de Grado Medio y Superior (Grados E, niveles 2 y 3, respectivamente) de todas las Enseñanzas de Formación Profesional autorizadas, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Deportivas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas de Idiomas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027.
-Segundo.- Se advierte un error material, de hecho en el Anexo I, referido en la tabla donde se recogen los periodos para completar matrícula de grupos. FUNDAMENTO DE DERECHO Único.- El artículo 109.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, dispone que: "Las Administraciones Públicas podrán, asimismo, rectificar en cualquier momento, de oficio o a instancia de los interesados, los errores materiales, de hecho, o aritméticos existentes en sus actos". A este respecto se ha detectado un error material en la tabla perteneciente al Anexo I de la [Resolución de 13 de febrero de 2026](./R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md), por la que se convoca el procedimiento de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) y de los cursos de especialización de Grado Medio y Superior (Grados E, niveles 2 y 3, respectivamente) de todas las Enseñanzas de Formación Profesional autorizadas, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Deportivas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas de Idiomas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027, en lo que se refiere a los periodos para completar matrícula de grupos, de manera virtual (preferentemente) o presencial mediante el formulario de matrícula única, del alumnado convocado en la 3.ª asignación de plazas.
+Primero.- Con fecha 26 de febrero de 2026 se publica en el Boletín Oficial de Canarias n.º 39 la [Resolución de 13 de febrero de 2026](./R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md), por la que se convoca el procedimiento de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) y de los cursos de especialización de Grado Medio y Superior (Grados E, niveles 2 y 3, respectivamente) de todas las Enseñanzas de Formación Profesional autorizadas, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Deportivas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas de Idiomas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027. Segundo.- Se advierte un error material, de hecho en el Anexo I, referido en la tabla donde se recogen los periodos para completar matrícula de grupos. FUNDAMENTO DE DERECHO Único.- El artículo 109.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, dispone que: "Las Administraciones Públicas podrán, asimismo, rectificar en cualquier momento, de oficio o a instancia de los interesados, los errores materiales, de hecho, o aritméticos existentes en sus actos". A este respecto se ha detectado un error material en la tabla perteneciente al Anexo I de la [Resolución de 13 de febrero de 2026](./R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md), por la que se convoca el procedimiento de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) y de los cursos de especialización de Grado Medio y Superior (Grados E, niveles 2 y 3, respectivamente) de todas las Enseñanzas de Formación Profesional autorizadas, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Deportivas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas de Idiomas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027, en lo que se refiere a los periodos para completar matrícula de grupos, de manera virtual (preferentemente) o presencial mediante el formulario de matrícula única, del alumnado convocado en la 3.ª asignación de plazas.
 
 En su virtud, y en uso de las competencias que tengo conferidas en base a lo dispuesto en el artículo 19 l [Decreto.
 

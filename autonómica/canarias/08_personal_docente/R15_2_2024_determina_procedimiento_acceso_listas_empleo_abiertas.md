@@ -1,7 +1,10 @@
 ---
 id: norm-can-res-135
 codigo_sintetizado: Resolucion BOC 135
-titulo: Resolución de 15 de febrero de 2024, de la Dirección General de Personal y Formación del Profesorado, por la que se determina el procedimiento para el acceso a listas de empleo abiertas, para el nombramiento de personal docente interino en el ámbito educativo no universitario (BOC nº 48, de 6 de marzo).
+titulo: Resolución de 15 de febrero de 2024, de la Dirección General de Personal y
+  Formación del Profesorado, por la que se determina el procedimiento para el acceso
+  a listas de empleo abiertas, para el nombramiento de personal docente interino en
+  el ámbito educativo no universitario (BOC nº 48, de 6 de marzo).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Personal y Formación del Profesorado
@@ -13,35 +16,35 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Funcionarios interinos
 tags:
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - formacion-profesional
-  - funcionarios-interinos
-  - interinos
-  - oposiciones
-  - profesorado
+- ensenanzas-deportivas
+- equipos-directivos
+- formacion-profesional
+- funcionarios-interinos
+- interinos
+- oposiciones
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-8-2021
-    - norma_id: norm-es-rd-1834-2008
-    - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-rd-1834-2008
+  - norma_id: norm-es-rdl-5-2015
   desarrolla:
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-1834-2008
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-lo-8-2021
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-1834-2008
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-lo-8-2021
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-048-880.pdf
 ---
 # Resolución de 15 de febrero de 2024, de la Dirección General de Personal y Formación del Profesorado, por la que se determina el procedimiento para el acceso a listas de empleo abiertas, para el nombramiento de personal docente interino en el ámbito educativo no universitario (BOC nº 48, de 6 de marzo).
@@ -100,8 +103,7 @@ las listas de empleo para el desempeño en régimen de interinidad de puestos va
 **3.2.** En la cumplimentación de la solicitud se deberá tener en cuenta:
 a) Se deberá seleccionar la especialidad o especialidades por la que desea participar.
 b) Se declarará estar en posesión de todos los requisitos previstos para acceder a las listas de empleo.
-c) Los aspirantes con discapacidad cuyo grado de minusvalía sea igual o superior al 33 por ciento deberán indicarlo en la casilla de su solicitud y presentar la documentación acreditativa correspondiente, señalada en el apartado 2.4.
-d) Los aspirantes deberán cumplimentar los campos relativos a la/s isla/s en las que deseen ocupar puestos de trabajo para posibles vacantes sobrevenidas o sustituciones. Igualmente se habrán de consignar las preferencias en relación a la jornada (completa, parcial o ambas), haciéndose estas extensivas a todas las especialidades, incluidas aquellas de las que ya forme parte.
+c) Los aspirantes con discapacidad cuyo grado de minusvalía sea igual o superior al 33 por ciento deberán indicarlo en la casilla de su solicitud y presentar la documentación acreditativa correspondiente, señalada en el apartado 2.4. d) Los aspirantes deberán cumplimentar los campos relativos a la/s isla/s en las que deseen ocupar puestos de trabajo para posibles vacantes sobrevenidas o sustituciones. Igualmente se habrán de consignar las preferencias en relación a la jornada (completa, parcial o ambas), haciéndose estas extensivas a todas las especialidades, incluidas aquellas de las que ya forme parte.
 
 e) La solicitud incluirá un consentimiento de acceso, por parte de la Dirección General de Personal y Formación del Profesorado, a los datos del aspirante en el Registro Central de Delincuentes Sexuales. En caso de no marcar este consentimiento, el aspirante seleccionado deberá presentar junto con el resto de la documentación acreditativa de los requisitos o, en todo caso, antes de ser nombrado, el certificado relativo a la inexistencia de delitos de naturaleza sexual.
 f) La solicitud incluirá un consentimiento de acceso, por parte de la Dirección General de Personal y Formación del Profesorado, al Registro Nacional de Títulos Universitarios oficiales, a efectos de verificar la posesión del título de requisito alegado por las personas participantes.
@@ -138,11 +140,7 @@ De producirse empates entre varios participantes, estos serán resueltos atendie
 
 9. Nombramientos por oferta pública de nombramientos. Quienes resulten nombrados por oferta pública de nombramientos o sean nombrados a través de selección efectuada por el Servicio Canario de Empleo por alguna de las especialidades objeto de la presente convocatoria, no tienen que participar en este procedimiento ya que, de conformidad con lo dispuesto en los artículo 14.5 y 14.6 de
 
-la Orden de 9 de agosto de 2021, se integran automáticamente en la lista de empleo de la especialidad por la que han sido nombrados a continuación del último integrante del bloque 3.
-
-10. Actualización anual de las listas de empleo. A los aspirantes admitidos en el presente procedimiento, les será de aplicación la actualización anual prevista en el artículo 3 de la Orden de 9 de agosto de 2021.
-
-11. Situaciones de no disponibilidad. Se podrá solicitar la no disponibilidad en las listas a través de la sede electrónica de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, con anterioridad a la fecha del nombramiento y por el tiempo estrictamente necesario, durante alguna de las siguientes situaciones:
+la Orden de 9 de agosto de 2021, se integran automáticamente en la lista de empleo de la especialidad por la que han sido nombrados a continuación del último integrante del bloque 3. 10. Actualización anual de las listas de empleo. A los aspirantes admitidos en el presente procedimiento, les será de aplicación la actualización anual prevista en el artículo 3 de la Orden de 9 de agosto de 2021. 11. Situaciones de no disponibilidad. Se podrá solicitar la no disponibilidad en las listas a través de la sede electrónica de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, con anterioridad a la fecha del nombramiento y por el tiempo estrictamente necesario, durante alguna de las siguientes situaciones:
 a) Encontrarse en situación de incapacidad temporal derivada de enfermedad común o accidente no laboral
 b) Encontrarse en alguno de los supuestos que para el personal funcionario de carrera conlleva la declaración de servicios especiales, servicios en otras Administraciones públicas, excedencias o suspensión de funciones que no conlleve la exclusión de la lista.
 c) Encontrarse desempeñando un puesto de trabajo, que se deberá acreditar mediante la presentación del correspondiente contrato de trabajo en vigor o disfrutando de una beca de formación o investigación obtenida en convocatoria pública.
@@ -154,9 +152,7 @@ h) Cualquier otra causa debidamente justificada y apreciada por la Dirección Ge
 
 El tiempo de trabajo desempeñado por quienes renuncien a su nombramiento después de haber tomado posesión no se tendrá en cuenta en el proceso de actualización de las listas.
 
-11. Desarrollo e interpretación de estas bases. La Dirección General de Personal y Formación del Profesorado de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes dictará cuantas instrucciones sean necesarias para el desarrollo, interpretación y ejecución de los actos del presente procedimiento que mediante esta Resolución se convoca con plena sujeción a sus bases y a la normativa vigente de aplicación. Todas las referencias a personas y a situaciones para las que en estas bases se utiliza la forma del masculino genérico deben entenderse aplicables indistintamente a mujeres y a hombres. En todo lo no previsto en la presente Resolución se estará a la regulación contenida en la Orden de 9 de agosto de 2021.
-
-## Anexo II
+11. Desarrollo e interpretación de estas bases. La Dirección General de Personal y Formación del Profesorado de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes dictará cuantas instrucciones sean necesarias para el desarrollo, interpretación y ejecución de los actos del presente procedimiento que mediante esta Resolución se convoca con plena sujeción a sus bases y a la normativa vigente de aplicación. Todas las referencias a personas y a situaciones para las que en estas bases se utiliza la forma del masculino genérico deben entenderse aplicables indistintamente a mujeres y a hombres. En todo lo no previsto en la presente Resolución se estará a la regulación contenida en la Orden de 9 de agosto de 2021. ## Anexo II
 
 CUERPOS Y ESPECIALIDADES CUERPO DE MAESTROS:
 • Inglés.

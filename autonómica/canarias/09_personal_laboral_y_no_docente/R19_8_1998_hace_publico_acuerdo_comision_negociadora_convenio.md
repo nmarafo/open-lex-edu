@@ -30,10 +30,18 @@ fecha_disposicion: '1998-08-19'
 
 ## Preámbulo
 
-III.- El presente acuerdo serÃ¡ de aplicaciÃ³n exclusivamente en la ConsejerÃ­a de EducaciÃ³n, Cultura y Deportes.
+La Comisión Negociadora del Convenio Colectivo del Personal Laboral al servicio de la Comunidad Autónoma de Canarias adopta, en sesión celebrada el día 6 de abril de 1998, el siguiente
 
-IV.- La ConsejerÃ­a de EducaciÃ³n, Cultura y Deportes se compromete a establecer los criterios que motivan este tipo de contrataciÃ³n, elevÃ¡ndose a la Coordinadora a los efectos de su negociaciÃ³n.
+ACUERDO
 
-V.- El presente acuerdo se publicarÃ¡ en el BoletÃ­n Oficial de Canarias como parte integrante del Convenio Colectivo del Personal Laboral al servicio de la Comunidad AutÃ³noma de Canarias, y surtirÃ¡ efectos desde el 31 de marzo de 1998.
+I.- Ratificar el acuerdo adoptado en el seno del Comité Intercentros en fecha 31 de marzo de 1998, relativo a la posibilidad de ampliar la duración máxima de los contratos a que se refiere el artº. 15.1.b) del Estatuto de los Trabajadores.
 
-Por la AdministraciÃ³n. Por el ComitÃ© Intercentros.
+II.- En consecuencia, la duración máxima de dichos contratos será de nueve meses, dentro de un período de doce meses, en los términos del artículo anteriormente citado.
+
+III.- El presente acuerdo será de aplicación exclusivamente en la Consejería de Educación, Cultura y Deportes.
+
+IV.- La Consejería de Educación, Cultura y Deportes se compromete a establecer los criterios que motivan este tipo de contratación, elevándose a la Coordinadora a los efectos de su negociación.
+
+V.- El presente acuerdo se publicará en el Boletín Oficial de Canarias como parte integrante del Convenio Colectivo del Personal Laboral al servicio de la Comunidad Autónoma de Canarias, y surtirá efectos desde el 31 de marzo de 1998.
+
+Por la Administración. Por el Comité Intercentros.

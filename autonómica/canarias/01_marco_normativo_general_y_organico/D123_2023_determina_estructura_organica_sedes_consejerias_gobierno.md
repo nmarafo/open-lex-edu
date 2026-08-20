@@ -1,7 +1,8 @@
 ---
 id: norm-can-d-123-2023
 codigo_sintetizado: D123/2023 Estructura Organica del Gobierno de Canarias
-titulo: Decreto 123/2023, de 17 de julio, por el que se determina la estructura orgánica y las sedes de las Consejerías del Gobierno de Canarias.
+titulo: Decreto 123/2023, de 17 de julio, por el que se determina la estructura orgánica
+  y las sedes de las Consejerías del Gobierno de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Gobierno de Canarias
@@ -19,35 +20,35 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Estructura de la Consejería
 tags:
-  - curriculo
-  - estructura-de-la-consejer-a
-  - estructura-organica
-  - gobierno-canarias
-  - roc
+- curriculo
+- estructura-de-la-consejer-a
+- estructura-organica
+- gobierno-canarias
+- roc
 relaciones:
   desarrollado_por:
-    - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-d-84-2024
   fundamentado_en:
-    - norma_id: norm-can-l-4-2023
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-4-2023
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-can-l-6-2014
   fundamento_de:
-    - norma_id: norm-can-res-119
-    - norma_id: norm-can-res-boc-2024-049-109
-    - norma_id: norm-can-res-boc-2024-117-93
-    - norma_id: norm-can-res-boc-2025-044-89
+  - norma_id: norm-can-res-119
+  - norma_id: norm-can-res-boc-2024-049-109
+  - norma_id: norm-can-res-boc-2024-117-93
+  - norma_id: norm-can-res-boc-2025-044-89
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
   fundamentos_derecho:
-    - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-lo-1-2018
   articulos:
-    - '2'
-    - '5'
-    - norma_id: norm-can-l-4-2023
+  - '2'
+  - '5'
+  - norma_id: norm-can-l-4-2023
 anexos_extraidos_pdf: true
 ocr_procesado: true
 ---
@@ -350,9 +351,7 @@ Quedan suprimidos los órganos superiores que a continuación se relacionan, cuy
 
 1. La redistribución de funciones entre departamentos, órganos y servicios administrativos implica la correlativa asignación de las dotaciones correspondientes a los programas presupuestarios afectados y, en todo caso, la de los medios personales y materiales adscritos al ejercicio de tales funciones.
 
-2. Por la Consejería de Hacienda y Relaciones con la Unión Europea se realizarán en las correspondientes secciones presupuestarias las adaptaciones técnicas y las transferencias de crédito precisas para la ejecución y cumplimiento de lo previsto en el presente Decreto, todo ello de conformidad con lo establecido a tales fines en la Ley 7/2022, de 28 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Canarias para 2023.
-
-3. El reparto de dotaciones materiales correspondientes a las Secretarías Generales Técnicas afectadas se efectuará en proporción a la incidencia que la reestructuración suponga en los medios personales y materiales de los departamentos, por la Consejería de Hacienda y Relaciones con la Unión Europea, con audiencia de los departamentos afectados.
+2. Por la Consejería de Hacienda y Relaciones con la Unión Europea se realizarán en las correspondientes secciones presupuestarias las adaptaciones técnicas y las transferencias de crédito precisas para la ejecución y cumplimiento de lo previsto en el presente Decreto, todo ello de conformidad con lo establecido a tales fines en la Ley 7/2022, de 28 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Canarias para 2023. 3. El reparto de dotaciones materiales correspondientes a las Secretarías Generales Técnicas afectadas se efectuará en proporción a la incidencia que la reestructuración suponga en los medios personales y materiales de los departamentos, por la Consejería de Hacienda y Relaciones con la Unión Europea, con audiencia de los departamentos afectados.
 
 4. La distribución de los medios personales de las Secretarías Generales Técnicas afectadas se efectuará por la Consejería de Presidencia, Administraciones Públicas, Justicia y Seguridad, con audiencia de los departamentos afectados.
 

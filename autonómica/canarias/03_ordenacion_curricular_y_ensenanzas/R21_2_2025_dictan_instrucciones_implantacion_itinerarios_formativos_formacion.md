@@ -1,7 +1,11 @@
 ---
 id: norm-can-res-boc-2025-046-47
 codigo_sintetizado: Resolucion BOC 47
-titulo: Resolución de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, de 21 de febrero de 2025, por la que se dictan instrucciones para la implantación de los itinerarios formativos de Formación Profesional Adaptada y el desarrollo de los currículos de los módulos de carácter general a partir del curso escolar 2024/2025, en el ámbito de la Comunidad Autónoma de Canarias
+titulo: Resolución de la Dirección General de Formación Profesional y Enseñanzas de
+  Régimen Especial, de 21 de febrero de 2025, por la que se dictan instrucciones para
+  la implantación de los itinerarios formativos de Formación Profesional Adaptada
+  y el desarrollo de los currículos de los módulos de carácter general a partir del
+  curso escolar 2024/2025, en el ámbito de la Comunidad Autónoma de Canarias
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,42 +17,42 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-  - curriculo
-  - ensenanzas-artisticas
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - formacion-profesional
-  - inclusiva
-  - neae
-  - oposiciones
+- curriculo
+- ensenanzas-artisticas
+- ensenanzas-deportivas
+- equipos-directivos
+- formacion-profesional
+- inclusiva
+- neae
+- oposiciones
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-can-res-134
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-can-res-134
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-134
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-046-918.pdf
 ---
 # Resolución de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, de 21 de febrero de 2025, por la que se dictan instrucciones para la implantación de los itinerarios formativos de Formación Profesional Adaptada y el desarrollo de los currículos de los módulos de carácter general a partir del curso escolar 2024/2025, en el ámbito de la Comunidad Autónoma de Canarias
@@ -79,9 +83,7 @@ Tercero.- Ordenar su publicación en el Boletín Oficial de Canarias, así como 
 
 ## Anexo I
 
-INSTRUCCIONES PARA LA IMPLANTACIÓN Y DESARROLLO DE LOS ITINERARIOS FORMATIVOS Y LOS CURRÍCULOS DE LOS MÓDULOS DE CARÁCTER GENERAL DE LA FORMACIÓN PROFESIONAL ADAPTADA A PARTIR DEL CURSO ESCOLAR 2024/2025.
-
-#### Primera. Objeto y ámbito de aplicación.
+INSTRUCCIONES PARA LA IMPLANTACIÓN Y DESARROLLO DE LOS ITINERARIOS FORMATIVOS Y LOS CURRÍCULOS DE LOS MÓDULOS DE CARÁCTER GENERAL DE LA FORMACIÓN PROFESIONAL ADAPTADA A PARTIR DEL CURSO ESCOLAR 2024/2025. #### Primera. Objeto y ámbito de aplicación.
 
 La presente Resolución tiene por objeto regular la implantación y desarrollo de los itinerarios formativos de Formación Profesional Adaptada establecidos al amparo del Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional. Esta Resolución será de aplicación en los centros sostenidos con fondos públicos y centros privados, que impartan estas enseñanzas en la Comunidad Autónoma de Canarias.
 
@@ -146,9 +148,7 @@ A) MÓDULOS DE CARÁCTER GENERAL:
 • Ámbito de Comunicación y competencia social.
 • Ámbito de Ciencias aplicadas y competencia lógica.
 • Ámbito de Prevención y orientación profesional.
-B) MÓDULOS PROFESIONALES: incluirá los módulos formativos de un certificado profesional de nivel 1.
-
-#### Novena. Currículo.
+B) MÓDULOS PROFESIONALES: incluirá los módulos formativos de un certificado profesional de nivel 1. #### Novena. Currículo.
 
 1. El currículo de los itinerarios formativos de la Formación Profesional Adaptada tendrá como referencia las unidades de competencia de nivel 1 del Catálogo Nacional de Cualificaciones Profesionales de acuerdo a lo establecido en la disposición transitoria
 
@@ -184,9 +184,7 @@ B) MÓDULOS PROFESIONALES: incluirá los módulos formativos de un certificado p
 
 6. La Dirección General de Formación Profesional y Enseñanzas de Régimen Especial llevará a cabo diferentes acciones formativas diseñadas para el profesorado que imparta los itinerarios formativos de la Formación Profesional Adaptada. Decimosegunda.- Formación en empresa u organismo equiparado.
 
-1. El alumnado matriculado en un Itinerario Formativo Específico +16 o un Itinerario Formativo de Capacitación +21 realizará, antes de la finalización de la fase de formación en el centro educativo, una estancia formativa en empresas u organismos equiparados dirigida a completar y reforzar los resultados de aprendizaje contemplados en el currículo del certificado profesional de nivel 1.
-
-2. Será requisito indispensable la superación de la competencia específica 1 del ámbito de prevención y orientación profesional para el acceso a la formación en empresa u organismo equiparado. El centro educativo emitirá el certificado de aprovechamiento según se refiere en el Anexo XI de las presentes instrucciones.
+1. El alumnado matriculado en un Itinerario Formativo Específico +16 o un Itinerario Formativo de Capacitación +21 realizará, antes de la finalización de la fase de formación en el centro educativo, una estancia formativa en empresas u organismos equiparados dirigida a completar y reforzar los resultados de aprendizaje contemplados en el currículo del certificado profesional de nivel 1. 2. Será requisito indispensable la superación de la competencia específica 1 del ámbito de prevención y orientación profesional para el acceso a la formación en empresa u organismo equiparado. El centro educativo emitirá el certificado de aprovechamiento según se refiere en el Anexo XI de las presentes instrucciones.
 
 3. Esta formación tendrá carácter dual en régimen general, con una duración comprendida entre 80 y 120 horas. Se realizará preferentemente durante el tercer trimestre del curso escolar ocupando la jornada diaria una duración entre 5 y 7 horas de permanencia en la empresa u organismo equiparado hasta completar el mínimo de horas establecido en el certificado profesional correspondiente.
 
@@ -244,9 +242,7 @@ c) Sesión de evaluación final del itinerario:
 
 4. El alumnado que no supere los módulos profesionales y la estancia formativa en la empresa podrá continuar cursando el itinerario formativo iniciado debiendo matricularse y cursar, nuevamente, todos los ámbitos y módulos que componen la enseñanza. No obstante, los módulos profesionales y ámbitos superados con anterioridad mantendrán la calificación obtenida, y el alumnado los cursará con la finalidad de mejorar los resultados.
 
-5. El alumnado matriculado en estas enseñanzas podrá adquirir progresiva y acumulativamente diferentes estándares de competencia de nivel 1.
-
-6. El alumnado matriculado en alguno de los certificados profesionales de cualquiera de los itinerarios formativos podrá transitar como máximo dos cursos académicos consecutivos en el mismo certificado hasta alcanzar los aprendizajes que correspondan, previo informe favorable del equipo docente. De manera excepcional, podrá autorizarse una tercera matrícula. Decimosexta.- Calificación.
+5. El alumnado matriculado en estas enseñanzas podrá adquirir progresiva y acumulativamente diferentes estándares de competencia de nivel 1. 6. El alumnado matriculado en alguno de los certificados profesionales de cualquiera de los itinerarios formativos podrá transitar como máximo dos cursos académicos consecutivos en el mismo certificado hasta alcanzar los aprendizajes que correspondan, previo informe favorable del equipo docente. De manera excepcional, podrá autorizarse una tercera matrícula. Decimosexta.- Calificación.
 
 1. El profesorado, formadores y formadoras y personas expertas reflejarán documentalmente los resultados obtenidos por la persona en formación en los documentos de evaluación.
 
@@ -266,9 +262,7 @@ c) Sesión de evaluación final del itinerario:
 
 ## Anexo II
 
-CURRÍCULO DE LOS MÓDULOS DE CARÁCTER GENERAL DE LOS ITINERARIOS FORMATIVOS IFE+16 E IFC+21.
-
-1. Introducción. El pilar europeo de derechos sociales establece como primer principio que toda persona tiene derecho a una educación, una formación y un aprendizaje permanente inclusivos y de calidad, a fin de mantener y adquirir capacidades que les permitan participar plenamente en la sociedad y gestionar con éxito las transiciones en el mercado laboral. En un contexto en el que la empleabilidad está directamente relacionada con la capacidad de adaptarse al mercado laboral, la Formación Profesional se convierte en una herramienta clave para garantizar la participación activa y significativa en un mercado de trabajo en constante transformación. Las personas con discapacidad intelectual enfrentan diversas barreras que dificultan su acceso a la educación, al empleo y la participación en la sociedad. Superar estas barreras es esencial para construir una sociedad más inclusiva y garantizar que todas las personas puedan ejercer plenamente sus derechos. La Formación Profesional desempeña un papel crucial en la inclusión de las personas con discapacidad intelectual, ya que no solo les permite adquirir habilidades técnicas, sino que también fomenta su desarrollo personal y social. La adquisición de competencias profesionales específicas mejoran sus oportunidades de empleo y contribuyen a su autonomía, autoestima y mejora de la calidad de vida. Tomando como referencia a los autores Schalock y Verdugo (2002), la formación debe ir más allá de la capacitación técnica e integrar aspectos como la autodeterminación, la inclusión social y el bienestar emocional. Este enfoque holístico permite que las personas con discapacidad intelectual no solo accedan a un empleo, sino que también disfruten de una vida plena y participativa. La [Ley Orgánica 3/2022](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de Ordenación e Integración de la Formación Profesional, establece una estructura más flexible, accesible y alineada con las demandas del mercado laboral. Entre sus medidas destaca la implementación de itinerarios específicos diseñados para garantizar la igualdad de oportunidades, fomentando la participación de todas las personas en el sistema educativo y laboral. Uno de los principales objetivos de esta nueva Formación Profesional es facilitar la inserción laboral, un aspecto especialmente relevante para las personas con discapacidad, quienes en España y concretamente en la Comunidad Autónoma de Canarias, aún enfrentan tasas de actividad significativamente bajas. Este nuevo enfoque facilitará al alumnado el desarrollo de competencias prácticas y específicas que mejoren sus perspectivas en el mercado laboral, trazar un itinerario profesional adaptado a sus necesidades y obtener una certificación oficial que acredite su formación, en consonancia con los Objetivos de Desarrollo Sostenible enmarcados en la Agenda 2030. Los módulos de carácter general de los itinerarios formativos de Formación Profesional IFE+ 16 e IFC +21 de la Formación Profesional Adaptada se estructuran en tres ámbitos
+CURRÍCULO DE LOS MÓDULOS DE CARÁCTER GENERAL DE LOS ITINERARIOS FORMATIVOS IFE+16 E IFC+21. 1. Introducción. El pilar europeo de derechos sociales establece como primer principio que toda persona tiene derecho a una educación, una formación y un aprendizaje permanente inclusivos y de calidad, a fin de mantener y adquirir capacidades que les permitan participar plenamente en la sociedad y gestionar con éxito las transiciones en el mercado laboral. En un contexto en el que la empleabilidad está directamente relacionada con la capacidad de adaptarse al mercado laboral, la Formación Profesional se convierte en una herramienta clave para garantizar la participación activa y significativa en un mercado de trabajo en constante transformación. Las personas con discapacidad intelectual enfrentan diversas barreras que dificultan su acceso a la educación, al empleo y la participación en la sociedad. Superar estas barreras es esencial para construir una sociedad más inclusiva y garantizar que todas las personas puedan ejercer plenamente sus derechos. La Formación Profesional desempeña un papel crucial en la inclusión de las personas con discapacidad intelectual, ya que no solo les permite adquirir habilidades técnicas, sino que también fomenta su desarrollo personal y social. La adquisición de competencias profesionales específicas mejoran sus oportunidades de empleo y contribuyen a su autonomía, autoestima y mejora de la calidad de vida. Tomando como referencia a los autores Schalock y Verdugo (2002), la formación debe ir más allá de la capacitación técnica e integrar aspectos como la autodeterminación, la inclusión social y el bienestar emocional. Este enfoque holístico permite que las personas con discapacidad intelectual no solo accedan a un empleo, sino que también disfruten de una vida plena y participativa. La [Ley Orgánica 3/2022](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de Ordenación e Integración de la Formación Profesional, establece una estructura más flexible, accesible y alineada con las demandas del mercado laboral. Entre sus medidas destaca la implementación de itinerarios específicos diseñados para garantizar la igualdad de oportunidades, fomentando la participación de todas las personas en el sistema educativo y laboral. Uno de los principales objetivos de esta nueva Formación Profesional es facilitar la inserción laboral, un aspecto especialmente relevante para las personas con discapacidad, quienes en España y concretamente en la Comunidad Autónoma de Canarias, aún enfrentan tasas de actividad significativamente bajas. Este nuevo enfoque facilitará al alumnado el desarrollo de competencias prácticas y específicas que mejoren sus perspectivas en el mercado laboral, trazar un itinerario profesional adaptado a sus necesidades y obtener una certificación oficial que acredite su formación, en consonancia con los Objetivos de Desarrollo Sostenible enmarcados en la Agenda 2030. Los módulos de carácter general de los itinerarios formativos de Formación Profesional IFE+ 16 e IFC +21 de la Formación Profesional Adaptada se estructuran en tres ámbitos
 
 principales: Comunicación y competencia social, Ciencias aplicadas y competencia lógica y Prevención y orientación profesional. En el presente currículo cada uno de estos ámbitos se desarrolla en función de los objetivos educativos establecidos para estas enseñanzas contribuyendo al logro de las competencias clave. Su abordaje debe realizarse desde una perspectiva interdisciplinar, ya que el currículo persigue el desarrollo formativo y profesional del alumnado, promoviendo su formación integral y el crecimiento personal en todas sus dimensiones. Para ello, se integra una visión holística que combina contenidos culturales, sociales, científicos, tecnológicos y organizativos. Además, se pretende que el alumnado adquiera competencias en digitalización, autodeterminación, gestión del conocimiento, compromiso con el desarrollo sostenible, prevención de riesgos laborales y medioambientales, responsabilidad profesional, habilidades interpersonales, valores cívicos, participación ciudadana y la promoción de la igualdad efectiva entre hombres y mujeres.
 
@@ -1049,51 +1043,35 @@ conceptos, dimensiones del problema y otras patologías derivadas de la activida
 
 ## Anexo III
 
-FAMILIA PROFESIONAL: ADMINISTRACIÓN Y GESTIÓN OPERACIONES AUXILIARES DE SERVICIOS ADMINISTRATIVOS Y GENERALES (ADG305_1) (RD 107/2008, de 1 de febrero1) Certificado profesional: Operaciones auxiliares administrativas y generales (ADGG0408) Distribución horaria semanal por curso. Operaciones auxiliares de servicios administrativos y generales Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de Comunicación y competencia social 145 4 Ámbito de Ciencias aplicadas y competencia lógica 110 3 Ámbito de Prevención y orientación profesional 145 4 Módulos profesionales MF0969_1 Técnicas administrativas básicas de oficina 180 5 MF0970_1 Operaciones básicas de comunicación 145 4 MF0971_1 Reproducción y archivo 145 4 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 1 Anexo CCCV , p. 9383 del BOE núm. 44.
-
-## Anexo III
+FAMILIA PROFESIONAL: ADMINISTRACIÓN Y GESTIÓN OPERACIONES AUXILIARES DE SERVICIOS ADMINISTRATIVOS Y GENERALES (ADG305_1) (RD 107/2008, de 1 de febrero1) Certificado profesional: Operaciones auxiliares administrativas y generales (ADGG0408) Distribución horaria semanal por curso. Operaciones auxiliares de servicios administrativos y generales Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de Comunicación y competencia social 145 4 Ámbito de Ciencias aplicadas y competencia lógica 110 3 Ámbito de Prevención y orientación profesional 145 4 Módulos profesionales MF0969_1 Técnicas administrativas básicas de oficina 180 5 MF0970_1 Operaciones básicas de comunicación 145 4 MF0971_1 Reproducción y archivo 145 4 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 1 Anexo CCCV , p. 9383 del BOE núm. 44. ## Anexo III
 
 ## Anexo IV
 
-FAMILIA PROFESIONAL: ADMINISTRACIÓN Y GESTIÓN OPERACIONES DE GRABACIÓN Y TRATAMIENTO DE DATOS Y DOCUMENTOS (ADG306_1) (RD 107/2008, de 1 de febrero2) Certificado profesional: Operaciones de grabación y tratamiento de datos y documentos (ADGG0508) Distribución horaria semanal por curso. Operaciones de grabación y tratamiento de datos y documentos Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de Comunicación y competencia social 145 4 Ámbito de Ciencias aplicadas y competencia lógica 110 3 Ámbito de Prevención y orientación profesional 145 4 Módulos profesionales MF0971_1 Reproducción y archivo 145 4 MF0973_1 Grabación de datos 145 4 MF0974_1 Tratamiento de datos, textos y documentación 180 5 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 2 Anexo CCCVI , p. 9382 del BOE núm. 44.
-
-## Anexo IV
+FAMILIA PROFESIONAL: ADMINISTRACIÓN Y GESTIÓN OPERACIONES DE GRABACIÓN Y TRATAMIENTO DE DATOS Y DOCUMENTOS (ADG306_1) (RD 107/2008, de 1 de febrero2) Certificado profesional: Operaciones de grabación y tratamiento de datos y documentos (ADGG0508) Distribución horaria semanal por curso. Operaciones de grabación y tratamiento de datos y documentos Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de Comunicación y competencia social 145 4 Ámbito de Ciencias aplicadas y competencia lógica 110 3 Ámbito de Prevención y orientación profesional 145 4 Módulos profesionales MF0971_1 Reproducción y archivo 145 4 MF0973_1 Grabación de datos 145 4 MF0974_1 Tratamiento de datos, textos y documentación 180 5 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 2 Anexo CCCVI , p. 9382 del BOE núm. 44. ## Anexo IV
 
 ## Anexo V
 
-FAMILIA PROFESIONAL: AGRARIA ACTIVIDADES AUXILIARES EN FLORISTERÍA (AGA342_1) (RD 108/2008, de 1 de febrero3) Certificado profesional: Actividades auxiliares en floristería (AGAJ0108) Distribución horaria semanal por curso. Actividades auxiliares en floristería Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de Comunicación y competencia social 145 4 Ámbito de Ciencias aplicadas y competencia lógica 110 3 Ámbito de Prevención y orientación profesional 145 4 Módulos profesionales MF1112_1 Operaciones auxiliares de mantenimiento de instalaciones, maquinaria, equipos y herramientas de floristería MF1113_1 Recepción y acondicionamiento de materias primas y materiales de floristería 140 4 MF1114_1 Trabajos auxiliares en la elaboración de composiciones con flores y plantas 140 4 MF1115_1 Servicios básicos de floristería y atención al público 115 3 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 3 Anexo CCCXLII , p. 9517 del BOE núm. 44.
-
-## Anexo V
+FAMILIA PROFESIONAL: AGRARIA ACTIVIDADES AUXILIARES EN FLORISTERÍA (AGA342_1) (RD 108/2008, de 1 de febrero3) Certificado profesional: Actividades auxiliares en floristería (AGAJ0108) Distribución horaria semanal por curso. Actividades auxiliares en floristería Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de Comunicación y competencia social 145 4 Ámbito de Ciencias aplicadas y competencia lógica 110 3 Ámbito de Prevención y orientación profesional 145 4 Módulos profesionales MF1112_1 Operaciones auxiliares de mantenimiento de instalaciones, maquinaria, equipos y herramientas de floristería MF1113_1 Recepción y acondicionamiento de materias primas y materiales de floristería 140 4 MF1114_1 Trabajos auxiliares en la elaboración de composiciones con flores y plantas 140 4 MF1115_1 Servicios básicos de floristería y atención al público 115 3 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 3 Anexo CCCXLII , p. 9517 del BOE núm. 44. ## Anexo V
 
 ## Anexo VI
 
-FAMILIA PROFESIONAL: AGRARIA ACTIVIDADES AUXILIARES EN VIVEROS, JARDINES Y CENTROS DE JARDINERÍA (AGA164_1) (RD 1228/2006, de 27 de octubre4) Certificado profesional: Actividades auxiliares en viveros, jardines y centros de jardinería (AGAO0108) Distribución horaria semanal por curso. Actividades auxiliares en viveros, jardines y centros de jardinería Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de Comunicación y competencia social 145 4 Ámbito de Ciencias aplicadas y competencia lógica 110 3 Ámbito de Prevención y orientación profesional 145 4 Módulos profesionales MF0520_1 Operaciones básicas en viveros y centros de jardinería 180 5 MF0521_1 Operaciones básicas para la instalación de jardines, parques y zonas verdes 180 5 MF0522_1 Operaciones básicas para el mantenimiento de jardines, parques y zonas verdes 110 3 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 4 Anexo CLXIV , p.10 del Suplemento del BOE núm. 3.
-
-## Anexo VI
+FAMILIA PROFESIONAL: AGRARIA ACTIVIDADES AUXILIARES EN VIVEROS, JARDINES Y CENTROS DE JARDINERÍA (AGA164_1) (RD 1228/2006, de 27 de octubre4) Certificado profesional: Actividades auxiliares en viveros, jardines y centros de jardinería (AGAO0108) Distribución horaria semanal por curso. Actividades auxiliares en viveros, jardines y centros de jardinería Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de Comunicación y competencia social 145 4 Ámbito de Ciencias aplicadas y competencia lógica 110 3 Ámbito de Prevención y orientación profesional 145 4 Módulos profesionales MF0520_1 Operaciones básicas en viveros y centros de jardinería 180 5 MF0521_1 Operaciones básicas para la instalación de jardines, parques y zonas verdes 180 5 MF0522_1 Operaciones básicas para el mantenimiento de jardines, parques y zonas verdes 110 3 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 4 Anexo CLXIV , p.10 del Suplemento del BOE núm. 3. ## Anexo VI
 
 ## Anexo VII
 
-FAMILIA PROFESIONAL: COMERCIO Y MARKETING ACTIVIDADES AUXILIARES DE COMERCIO (COM412_1) (Orden EFP/63/2021, de 21 de enero5) Certificado profesional: Actividades auxiliares de comercio (COMT0211) Distribución horaria semanal por curso. Actividades auxiliares de comercio Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de Comunicación y competencia social 145 4 Ámbito de Ciencias aplicadas y competencia lógica 110 3 Ámbito de Prevención y orientación profesional 145 4 Módulos profesionales MF1326_1 Preparación de pedidos 70 2 MF1327_1 Operaciones auxiliares en el punto de venta 180 5 MF1328_1 Manipulación y movimientos con transpalés y carretillas de mano 110 3 MF1329_1 Atención básica al cliente 110 3 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 5 A nexo VIII , Sec. I, p. 9084 del BOE núm. 25.
-
-## Anexo VII
+FAMILIA PROFESIONAL: COMERCIO Y MARKETING ACTIVIDADES AUXILIARES DE COMERCIO (COM412_1) (Orden EFP/63/2021, de 21 de enero5) Certificado profesional: Actividades auxiliares de comercio (COMT0211) Distribución horaria semanal por curso. Actividades auxiliares de comercio Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de Comunicación y competencia social 145 4 Ámbito de Ciencias aplicadas y competencia lógica 110 3 Ámbito de Prevención y orientación profesional 145 4 Módulos profesionales MF1326_1 Preparación de pedidos 70 2 MF1327_1 Operaciones auxiliares en el punto de venta 180 5 MF1328_1 Manipulación y movimientos con transpalés y carretillas de mano 110 3 MF1329_1 Atención básica al cliente 110 3 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 5 A nexo VIII , Sec. I, p. 9084 del BOE núm. 25. ## Anexo VII
 
 ## Anexo VIII
 
-FAMILIA PROFESIONAL: HOSTELERÍA Y TURISMO OPERACIONES BÁSICAS DE RESTAURANTE Y BAR (HOT092_1) (RD 295/2004, de 20 de febrero de 20076) Certificado profesional: Operaciones básicas de restaurante y bar (HOTR0208) Distribución horaria semanal por curso. Operaciones básicas de restaurante y bar Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de Comunicación y competencia social 145 4 Ámbito de Ciencias aplicadas y competencia lógica 110 3 Ámbito de Prevención y orientación profesional 145 4 Módulos profesionales MF0257_1 Servicio básico de restaurante-bar 255 7 MF0258_1 Aprovisionamiento, bebidas y comidas rápidas 215 6 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 6 Anexo XCII , p. 745 del Suplemento del BOE del núm. 59.
-
-## Anexo VIII
+FAMILIA PROFESIONAL: HOSTELERÍA Y TURISMO OPERACIONES BÁSICAS DE RESTAURANTE Y BAR (HOT092_1) (RD 295/2004, de 20 de febrero de 20076) Certificado profesional: Operaciones básicas de restaurante y bar (HOTR0208) Distribución horaria semanal por curso. Operaciones básicas de restaurante y bar Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de Comunicación y competencia social 145 4 Ámbito de Ciencias aplicadas y competencia lógica 110 3 Ámbito de Prevención y orientación profesional 145 4 Módulos profesionales MF0257_1 Servicio básico de restaurante-bar 255 7 MF0258_1 Aprovisionamiento, bebidas y comidas rápidas 215 6 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 6 Anexo XCII , p. 745 del Suplemento del BOE del núm. 59. ## Anexo VIII
 
 ## Anexo IX
 
-FAMILIA PROFESIONAL: IMAGEN PERSONAL SERVICIOS AUXILIARES DE ESTÉTICA (IMP118_1) (RD 1087/2005, de 16 de septiembre7) Certificado profesional: Servicios auxiliares de estética (IMPE0108) Distribución horaria semanal por curso. Servicios auxiliares de estética Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de Comunicación y competencia social 145 4 Ámbito de Ciencias aplicadas y competencia lógica 110 3 Ámbito de Prevención y orientación profesional 145 4 Módulos profesionales MF0343_1 Higiene y seguridad aplicadas en centros de belleza 70 2 MF0344_1 Cuidados estéticos básicos de uñas 110 3 MF0345_1 Depilación mecánica y decoloración del vello 180 5 MF0346_1 Maquillaje de día 110 3 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 7 Anexo CXVIII , p. 255 del Suplemento del BOE del núm. 238.
-
-## Anexo IX
+FAMILIA PROFESIONAL: IMAGEN PERSONAL SERVICIOS AUXILIARES DE ESTÉTICA (IMP118_1) (RD 1087/2005, de 16 de septiembre7) Certificado profesional: Servicios auxiliares de estética (IMPE0108) Distribución horaria semanal por curso. Servicios auxiliares de estética Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de Comunicación y competencia social 145 4 Ámbito de Ciencias aplicadas y competencia lógica 110 3 Ámbito de Prevención y orientación profesional 145 4 Módulos profesionales MF0343_1 Higiene y seguridad aplicadas en centros de belleza 70 2 MF0344_1 Cuidados estéticos básicos de uñas 110 3 MF0345_1 Depilación mecánica y decoloración del vello 180 5 MF0346_1 Maquillaje de día 110 3 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 7 Anexo CXVIII , p. 255 del Suplemento del BOE del núm. 238. ## Anexo IX
 
 ## Anexo X
 
-FAMILIA PROFESIONAL: IMAGEN PERSONAL SERVICIOS AUXILIARES DE PELUQUERÍA (IMP022_1) (RD 295/2004, de 20 de febrero8) Certificado profesional: Servicios auxiliares de peluquería (IMPQ0108) Distribución horaria semanal por curso. Servicios auxiliares de peluquería Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de Comunicación y competencia social 145 4 Ámbito de Ciencias aplicadas y competencia lógica 110 3 Ámbito de Prevención y orientación profesional 145 4 Módulos profesionales MF0058_1 Higiene y asepsia aplicadas a peluquería 110 3 MF0059_1 Montajes para cambios de forma e inicio del peinado 180 5 MF0060_1 Aplicación de cosméticos para los cambios de color del cabello 180 5 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 8 Anexo XXII , p. 164 del Suplemento del BOE del núm. 59.
-
-## Anexo X
+FAMILIA PROFESIONAL: IMAGEN PERSONAL SERVICIOS AUXILIARES DE PELUQUERÍA (IMP022_1) (RD 295/2004, de 20 de febrero8) Certificado profesional: Servicios auxiliares de peluquería (IMPQ0108) Distribución horaria semanal por curso. Servicios auxiliares de peluquería Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de Comunicación y competencia social 145 4 Ámbito de Ciencias aplicadas y competencia lógica 110 3 Ámbito de Prevención y orientación profesional 145 4 Módulos profesionales MF0058_1 Higiene y asepsia aplicadas a peluquería 110 3 MF0059_1 Montajes para cambios de forma e inicio del peinado 180 5 MF0060_1 Aplicación de cosméticos para los cambios de color del cabello 180 5 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 8 Anexo XXII , p. 164 del Suplemento del BOE del núm. 59. ## Anexo X
 
 ## Anexo XI
 
@@ -1101,8 +1079,7 @@ D./Dña. _______________________________________________________________________
 Que el/la alumno/alumna D./Dña. __________________________________________________________, con DNI/NIE n.º ______________________, con matrícula en el Itinerario Formativo (1) ________ denominado
 (2) _________________________________________________, regulado por la Resolución (3) _____________________________________________, ha cursado con aprovechamiento la formación en Pre vención de Riesgos Laborales con la competencia específica y saberes básicos que se especifican en el reverso de la presente certificación. Y , para que conste y surta los efectos oportunos, expido el presente certificado en _____________________________, a _____ de ________________ de _________. Vº. Bº Director/Directora: Secretario/Secretaria:
 Fdo:_________________________ Fdo:_______________________
-(1) IFE+16 o IFC+21.
-(2) Especificar el nombre del itinerario correspondiente.
+(1) IFE+16 o IFC+21. (2) Especificar el nombre del itinerario correspondiente.
 (3) Resolución que establece el Itinerario formativo. (Reverso)
 
 ## Anexo XI

@@ -1,10 +1,15 @@
 ---
 id: norm-es-2016-3229
 codigo_sintetizado: BOE-A-2016-3229
-titulo: Orden ECD/462/2016, de 31 de marzo, por la que se regula el procedimiento de incorporación del alumnado a un curso de Educación Secundaria Obligatoria o de Bachillerato del sistema educativo definido por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, con materias no superadas del currículo anterior a su implantación.
+titulo: Orden ECD/462/2016, de 31 de marzo, por la que se regula el procedimiento
+  de incorporación del alumnado a un curso de Educación Secundaria Obligatoria o de
+  Bachillerato del sistema educativo definido por la Ley Orgánica 8/2013, de 9 de
+  diciembre, para la mejora de la calidad educativa, con materias no superadas del
+  currículo anterior a su implantación.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2016-04-05'
 boletin: BOE
@@ -15,60 +20,57 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Secundaria Obligatoria (ESO)
 tags:
-  - bachillerato
-  - consejo-escolar
-  - curriculo
-  - educaci-n-secundaria-obligatoria-eso
-  - ensenanzas-deportivas
-  - eso
-  - evaluacion
-  - igualdad-genero
+- bachillerato
+- consejo-escolar
+- curriculo
+- educaci-n-secundaria-obligatoria-eso
+- ensenanzas-deportivas
+- eso
+- evaluacion
+- igualdad-genero
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
-    - norma_id: norm-es-2014-2222
-    - norma_id: norm-es-2014-5591
-    - norma_id: norm-es-2014-6008
-    - norma_id: norm-es-2015-738
-    - norma_id: norm-es-2015-8043
-    - norma_id: norm-es-2015-8470
-    - norma_id: norm-es-2015-8702
-    - norma_id: norm-es-2015-9462
-    - norma_id: norm-es-2018-4480
-    - norma_id: norm-es-2018-6348
-    - norma_id: norm-es-2022-15953
-    - norma_id: norm-es-2023-3846
-    - norma_id: norm-es-2023-9553
-    - norma_id: norm-es-2024-11613
-    - norma_id: norm-es-rd-243-2022
-    - norma_id: norm-can-res-063
-    - norma_id: norm-can-res-boc-2018-048-56
-    - norma_id: norm-can-d-25-2018
-    - norma_id: norm-can-res-boc-2019-234-52
-    - norma_id: norm-can-res-juriscan-72176-78
-    - norma_id: norm-can-res-boc-2018-124-126
-    - norma_id: norm-can-res-boc-2019-069-48
-    - norma_id: norm-can-res-juriscan-72882-123
-    - norma_id: norm-can-res-boc-2020-236-82
-    - norma_id: norm-can-res-boc-2026-077-62
-    - norma_id: norm-can-res-boc-2018-086-122
-    - norma_id: norm-can-res-014
-    - norma_id: norm-can-res-boc-2026-077-49
+  - norma_id: norm-es-2014-2222
+  - norma_id: norm-es-2014-5591
+  - norma_id: norm-es-2014-6008
+  - norma_id: norm-es-2015-738
+  - norma_id: norm-es-2015-8043
+  - norma_id: norm-es-2015-8470
+  - norma_id: norm-es-2015-8702
+  - norma_id: norm-es-2015-9462
+  - norma_id: norm-es-2018-4480
+  - norma_id: norm-es-2018-6348
+  - norma_id: norm-es-2022-15953
+  - norma_id: norm-es-2023-3846
+  - norma_id: norm-es-2023-9553
+  - norma_id: norm-es-2024-11613
+  - norma_id: norm-es-rd-243-2022
+  - norma_id: norm-can-res-063
+  - norma_id: norm-can-res-boc-2018-048-56
+  - norma_id: norm-can-d-25-2018
+  - norma_id: norm-can-res-boc-2019-234-52
+  - norma_id: norm-can-res-juriscan-72176-78
+  - norma_id: norm-can-res-boc-2018-124-126
+  - norma_id: norm-can-res-boc-2019-069-48
+  - norma_id: norm-can-res-juriscan-72882-123
+  - norma_id: norm-can-res-boc-2020-236-82
+  - norma_id: norm-can-res-boc-2026-077-62
+  - norma_id: norm-can-res-boc-2018-086-122
+  - norma_id: norm-can-res-014
+  - norma_id: norm-can-res-boc-2026-077-49
   desarrollado_por: []
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-es-lo-2-2006
-  articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - '2'
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 ---
 # Orden ECD/462/2016, de 31 de marzo, por la que se regula el procedimiento de incorporación del alumnado a un curso de Educación Secundaria Obligatoria o de Bachillerato del sistema educativo definido por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, con materias no superadas del currículo anterior a su implantación.
 
@@ -108,9 +110,7 @@ Real Decreto 1105/2014, de 26 de diciembre. Sin perjuicio de lo anterior, el alu
 
 3. Al alumnado que al finalizar segundo curso de Bachillerato del sistema que se extingue haya obtenido evaluación negativa en alguna de las materias cursadas le será de aplicación lo dispuesto en el artículo 32.3 del Real Decreto 1105/2014, de 26 de diciembre, pudiendo optar, conforme al mismo, por repetir el curso completo o por matricularse únicamente de las materias no superadas.
 
-En el caso de que los alumnos o alumnas que opten por la repetición de curso completo tengan, además, materias no superadas de primer curso, el procedimiento para la superación de estas últimas será el mismo que el descrito en el apartado 2.
-
-El alumnado que haya cursado segundo de Bachillerato del sistema que se extingue y no haya optado por repetir curso, deberá recuperar todas las materias cursadas con calificación negativa de segundo y, en su caso, las materias cursadas con calificación negativa de primero que, conforme a las correspondencias establecidas en el anexo, formen parte del bloque de asignaturas troncales dentro de la modalidad de Bachillerato cursada.
+En el caso de que los alumnos o alumnas que opten por la repetición de curso completo tengan, además, materias no superadas de primer curso, el procedimiento para la superación de estas últimas será el mismo que el descrito en el apartado 2. El alumnado que haya cursado segundo de Bachillerato del sistema que se extingue y no haya optado por repetir curso, deberá recuperar todas las materias cursadas con calificación negativa de segundo y, en su caso, las materias cursadas con calificación negativa de primero que, conforme a las correspondencias establecidas en el anexo, formen parte del bloque de asignaturas troncales dentro de la modalidad de Bachillerato cursada.
 
 En el caso de que las materias cursadas y no superadas, conforme al citado anexo, formen parte del bloque de asignaturas troncales de opción o específicas, el alumno o alumna podrá optar, bien por cursarlas de nuevo, bien por sustituirlas por cualquier otra de su elección dentro de las pertenecientes al mismo bloque, con arreglo a la regulación establecida por las Administraciones educativas.
 

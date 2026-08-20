@@ -1,10 +1,12 @@
 ---
 id: norm-mad-o-276-2019
 codigo_sintetizado: O276_2019 Desarrollo Decreto Convivencia Escolar Madrid
-titulo: Orden 276/2019, de 4 de febrero, por la que se desarrolla el procedimiento del Plan de Convivencia y mediación escolar en Madrid.
+titulo: Orden 276/2019, de 4 de febrero, por la que se desarrolla el procedimiento
+  del Plan de Convivencia y mediación escolar en Madrid.
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
 numero_disposicion: 276/2019
 fecha_disposicion: '2019-02-04'
@@ -18,19 +20,19 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Convivencia escolar
 tags:
-  - convivencia
-  - mediacion
-  - plan_convivencia
-  - madrid
+- convivencia
+- mediacion
+- plan_convivencia
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
   fundamentado_en:
-    - norma_id: norm-mad-d-29-2013
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-8-2021
-    - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-lo-1-1996
 ---
 # Orden 276/2019, de 4 de febrero, por la que se desarrolla el procedimiento del Plan de Convivencia y mediación escolar en Madrid.
 

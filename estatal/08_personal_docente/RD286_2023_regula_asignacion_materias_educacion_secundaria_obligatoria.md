@@ -1,10 +1,14 @@
 ---
 id: norm-es-2023-9553
 codigo_sintetizado: BOE-A-2023-9553
-titulo: Real Decreto 286/2023, de 18 de abril, por el que se regula la asignación de materias en Educación Secundaria Obligatoria y en Bachillerato a las especialidades de distintos cuerpos de funcionarios docentes, y se modifican diversas normas relativas al profesorado de enseñanzas no universitarias.
+titulo: Real Decreto 286/2023, de 18 de abril, por el que se regula la asignación
+  de materias en Educación Secundaria Obligatoria y en Bachillerato a las especialidades
+  de distintos cuerpos de funcionarios docentes, y se modifican diversas normas relativas
+  al profesorado de enseñanzas no universitarias.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2023-04-19'
 boletin: BOE
@@ -15,53 +19,53 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Especialidades y habilitaciones
 tags:
-  - bachillerato
-  - curriculo
-  - ebep
-  - ensenanzas-universitarias
-  - eso
-  - especialidades-y-habilitaciones
-  - evaluacion
-  - formacion-profesional
-  - profesorado
-  - titulacion
+- bachillerato
+- curriculo
+- ebep
+- ensenanzas-universitarias
+- eso
+- especialidades-y-habilitaciones
+- evaluacion
+- formacion-profesional
+- profesorado
+- titulacion
 relaciones:
   desarrolla:
-    - norma_id: norm-es-rd-217-2022
-    - norma_id: norm-es-rd-243-2022
+  - norma_id: norm-es-rd-217-2022
+  - norma_id: norm-es-rd-243-2022
   fundamentado_en:
-    - norma_id: norm-es-1993-23257
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2015-8043
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2022-16194
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-1834-2008
+  - norma_id: norm-es-1993-23257
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2015-8043
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2022-16194
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-1834-2008
   fundamento_de:
-    - norma_id: norm-es-2024-10683
+  - norma_id: norm-es-2024-10683
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-can-res-134
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2015-8043
-    - norma_id: norm-es-rd-1834-2008
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-217-2022
-    - norma_id: norm-es-rd-243-2022
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-1993-23257
-    - norma_id: norm-es-2022-16194
+  - '27'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-res-134
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2015-8043
+  - norma_id: norm-es-rd-1834-2008
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-217-2022
+  - norma_id: norm-es-rd-243-2022
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-1993-23257
+  - norma_id: norm-es-2022-16194
 ---
 # Real Decreto 286/2023, de 18 de abril, por el que se regula la asignación de materias en Educación Secundaria Obligatoria y en Bachillerato a las especialidades de distintos cuerpos de funcionarios docentes, y se modifican diversas normas relativas al profesorado de enseñanzas no universitarias.
 
@@ -79,9 +83,7 @@ Como resultado de estas modificaciones, desaparece en la organización de todas 
 
 La Ley Orgánica 3/2020, de 29 de diciembre, establece además una nueva ordenación de la Formación Profesional, que comprende los ciclos formativos de grado básico, que se enmarcan dentro de la educación básica. Con objeto de facilitar la adquisición de las competencias previstas para la Educación Secundaria Obligatoria, las enseñanzas de estos ciclos se organizan en tres ámbitos: De Comunicación y Ciencias Sociales; de Ciencias Aplicadas, y Profesional, si bien, se prevé la posibilidad de sumarles otras enseñanzas que contribuyan al desarrollo de las competencias.
 
-Al mismo tiempo, la Ley Orgánica 3/2020, de 29 de diciembre, establece, en su disposición final quinta, el calendario de implantación de las modificaciones introducidas en la Ley Orgánica 2/2006, de 3 de mayo. Con respecto a las modificaciones introducidas en el currículo, la organización, los objetivos y los programas de Educación Secundaria Obligatoria, así como en el currículo, la organización y los objetivos de Bachillerato y de los ciclos formativos de grado básico, la ley dispone que estas se implantarán para los cursos impares en el curso escolar 2022-2023, y para los cursos pares en el curso escolar 2023-2024.
-
-Por otro lado, la Ley Orgánica 3/2020, de 29 de diciembre, anticipa una nueva regulación del desarrollo de la profesión docente, así como importantes modificaciones en la ordenación de los cuerpos docentes, declarando a extinguir el Cuerpo de Profesores Técnicos de Formación Profesional. Este último aspecto, que se recoge también en la nueva redacción de la Ley Orgánica 2/2006, de 3 de mayo, se ha concretado tras la publicación de la [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación Profesional, en el [Real Decreto 800/2022](RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md), de 4 de octubre, por el que se regula la integración del profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional en el Cuerpo de Profesores de Enseñanza Secundaria, y se modifican diversos reales decretos relativos al profesorado de enseñanzas no universitarias. El nuevo marco legal, que de por sí requiere ya una reordenación de las especialidades existentes, coincide en el tiempo con el debate abierto por el Gobierno sobre la mejora de la profesión docente que, entre otras cuestiones, invita al análisis de la situación de las especialidades y la posible conveniencia de su actualización, y que plantea un abanico de reformas dentro de una propuesta normativa global que requiere de la participación de múltiples sectores.
+Al mismo tiempo, la Ley Orgánica 3/2020, de 29 de diciembre, establece, en su disposición final quinta, el calendario de implantación de las modificaciones introducidas en la Ley Orgánica 2/2006, de 3 de mayo. Con respecto a las modificaciones introducidas en el currículo, la organización, los objetivos y los programas de Educación Secundaria Obligatoria, así como en el currículo, la organización y los objetivos de Bachillerato y de los ciclos formativos de grado básico, la ley dispone que estas se implantarán para los cursos impares en el curso escolar 2022-2023, y para los cursos pares en el curso escolar 2023-2024. Por otro lado, la Ley Orgánica 3/2020, de 29 de diciembre, anticipa una nueva regulación del desarrollo de la profesión docente, así como importantes modificaciones en la ordenación de los cuerpos docentes, declarando a extinguir el Cuerpo de Profesores Técnicos de Formación Profesional. Este último aspecto, que se recoge también en la nueva redacción de la Ley Orgánica 2/2006, de 3 de mayo, se ha concretado tras la publicación de la [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación Profesional, en el [Real Decreto 800/2022](RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md), de 4 de octubre, por el que se regula la integración del profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional en el Cuerpo de Profesores de Enseñanza Secundaria, y se modifican diversos reales decretos relativos al profesorado de enseñanzas no universitarias. El nuevo marco legal, que de por sí requiere ya una reordenación de las especialidades existentes, coincide en el tiempo con el debate abierto por el Gobierno sobre la mejora de la profesión docente que, entre otras cuestiones, invita al análisis de la situación de las especialidades y la posible conveniencia de su actualización, y que plantea un abanico de reformas dentro de una propuesta normativa global que requiere de la participación de múltiples sectores.
 
 Partiendo de la idea de que este amplio proceso de reforma necesariamente debe tener lugar en un período de tiempo más extenso que el previsto para la implantación de la nueva ordenación, y tomando asimismo en cuenta la recomendación sobre el uso restrictivo de la disposiciones modificativas recogida en las Directrices de Técnica Normativa, publicadas mediante la Resolución de 28 de julio de 2005, de la Subsecretaría, por la que se da publicidad al Acuerdo del Consejo de Ministros, de 22 de julio de 2005, se ha estimado conveniente regular en una norma independiente la asignación de las materias de Educación Secundaria Obligatoria y Bachillerato a las distintas especialidades, desvinculando este aspecto de la regulación de las especialidades y las condiciones de formación para el ejercicio de la docencia en dichas etapas, la cual, a la espera de las modificaciones reglamentarias derivadas de los cambios expuestos en el párrafo anterior, quedaría como único objeto del Real Decreto 1834/2008, de 8 de noviembre.
 
@@ -109,17 +111,17 @@ Este real decreto tiene por objeto definir la asignación de las materias y ámb
 
 #### Artículo 2. Asignación de materias en Educación Secundaria Obligatoria y Bachillerato.
 
-1. El personal funcionario de los cuerpos de catedráticos de enseñanza secundaria y de profesores de enseñanza secundaria deberá impartir las materias de la Educación Secundaria Obligatoria que en cada caso se especifican en el anexo I.
+1. El personal funcionario de los cuerpos de catedráticos de enseñanza secundaria y de profesores de enseñanza secundaria deberá impartir las materias de la Educación Secundaria Obligatoria que en cada caso se especifican en el anexo I.
 
-2. El personal funcionario de los cuerpos de catedráticos de enseñanza secundaria y de profesores de enseñanza secundaria deberá impartir las materias del Bachillerato que en cada caso se determinan en el anexo II.
+2. El personal funcionario de los cuerpos de catedráticos de enseñanza secundaria y de profesores de enseñanza secundaria deberá impartir las materias del Bachillerato que en cada caso se determinan en el anexo II.
 
-3. El personal funcionario de los cuerpos de catedráticos de enseñanza secundaria y de profesores de enseñanza secundaria, de las especialidades que se incluyen en el anexo III, podrá impartir docencia en la Educación Secundaria Obligatoria y en el Bachillerato de acuerdo con las correspondencias que en él se especifican, sin perjuicio de la preferencia que, para impartir las materias respectivas, tiene el profesorado de las especialidades a las que se refieren los anexos I y II.
+3. El personal funcionario de los cuerpos de catedráticos de enseñanza secundaria y de profesores de enseñanza secundaria, de las especialidades que se incluyen en el anexo III, podrá impartir docencia en la Educación Secundaria Obligatoria y en el Bachillerato de acuerdo con las correspondencias que en él se especifican, sin perjuicio de la preferencia que, para impartir las materias respectivas, tiene el profesorado de las especialidades a las que se refieren los anexos I y II.
 
-4. El personal funcionario de los cuerpos de catedráticos de enseñanza secundaria y de profesores de enseñanza secundaria de la especialidad «Orientación educativa» realizará tareas de orientación y, además, podrá desempeñar docencia conforme a lo previsto en el anexo I sin perjuicio de que le sea igualmente de aplicación lo que dispone el apartado 6. Asimismo, sus funciones de orientación podrán extenderse a las etapas de Educación Infantil y Educación Primaria, en virtud de lo previsto en el apartado 1 de la disposición adicional séptima de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+4. El personal funcionario de los cuerpos de catedráticos de enseñanza secundaria y de profesores de enseñanza secundaria de la especialidad «Orientación educativa» realizará tareas de orientación y, además, podrá desempeñar docencia conforme a lo previsto en el anexo I sin perjuicio de que le sea igualmente de aplicación lo que dispone el apartado 6. Asimismo, sus funciones de orientación podrán extenderse a las etapas de Educación Infantil y Educación Primaria, en virtud de lo previsto en el apartado 1 de la disposición adicional séptima de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
-5. Los ámbitos resultantes de la agrupación de materias en los tres primeros cursos de la Educación Secundaria Obligatoria y los propios de los programas de diversificación curricular, así como los de las enseñanzas conducentes a la obtención del título de graduado en Educación Secundaria Obligatoria dentro de la oferta específica para personas adultas, serán impartidos por personal funcionario de los cuerpos de catedráticos de enseñanza secundaria y de profesores de enseñanza secundaria de alguna de las especialidades que tengan atribución docente para impartir cualquiera de las materias que se integran en dichos ámbitos.
+5. Los ámbitos resultantes de la agrupación de materias en los tres primeros cursos de la Educación Secundaria Obligatoria y los propios de los programas de diversificación curricular, así como los de las enseñanzas conducentes a la obtención del título de graduado en Educación Secundaria Obligatoria dentro de la oferta específica para personas adultas, serán impartidos por personal funcionario de los cuerpos de catedráticos de enseñanza secundaria y de profesores de enseñanza secundaria de alguna de las especialidades que tengan atribución docente para impartir cualquiera de las materias que se integran en dichos ámbitos.
 
-6. Las administraciones educativas determinarán la asignación a las diferentes especialidades docentes de las materias optativas que establezcan en la Educación Secundaria Obligatoria y el Bachillerato.
+6. Las administraciones educativas determinarán la asignación a las diferentes especialidades docentes de las materias optativas que establezcan en la Educación Secundaria Obligatoria y el Bachillerato.
 
 #### Artículo 3. Asignación de los ámbitos no profesionales de los ciclos formativos de grado básico.
 
@@ -131,9 +133,9 @@ Las administraciones educativas establecerán las condiciones necesarias para pe
 
 #### Artículo 5. Docentes de otros cuerpos.
 
-1. Cuando la modalidad de Artes del Bachillerato se imparta en centros de enseñanzas artísticas, las materias correspondientes podrán ser asignadas a personal funcionario de los Cuerpos de Profesores de Artes Plásticas y Diseño y de Música y Artes Escénicas conforme a lo establecido en los anexos V y VI.
+1. Cuando la modalidad de Artes del Bachillerato se imparta en centros de enseñanzas artísticas, las materias correspondientes podrán ser asignadas a personal funcionario de los Cuerpos de Profesores de Artes Plásticas y Diseño y de Música y Artes Escénicas conforme a lo establecido en los anexos V y VI.
 
-2. Las administraciones educativas determinarán las condiciones en las que el personal funcionario del cuerpo de maestros de las especialidades de «Pedagogía terapéutica» y «Audición y lenguaje» desempeñará en la Educación Secundaria Obligatoria funciones de atención a la diversidad relacionadas con su especialidad.
+2. Las administraciones educativas determinarán las condiciones en las que el personal funcionario del cuerpo de maestros de las especialidades de «Pedagogía terapéutica» y «Audición y lenguaje» desempeñará en la Educación Secundaria Obligatoria funciones de atención a la diversidad relacionadas con su especialidad.
 
 #### Disposición adicional primera. Profesorado del Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
@@ -143,17 +145,15 @@ En los términos que determinen las administraciones educativas, el profesorado 
 
 El profesorado de las especialidades de los diferentes cuerpos a los que se refiere este real decreto para el que no se haya establecido ninguna correspondencia, continuará desempeñando las mismas funciones que tuviera asignadas a la entrada en vigor del presente real decreto.
 
-#### Disposición transitoria única. Normas aplicables durante el curso 2022-2023.
+#### Disposición transitoria única. Normas aplicables durante el curso 2022-2023. 1. Durante el curso 2022-2023, la asignación de materias a las distintas especialidades en los cursos segundo y cuarto de Educación Secundaria Obligatoria, en los ámbitos específicos de los programas de mejora del aprendizaje y el rendimiento, en los módulos de los ciclos de Formación Profesional Básica asociados a los bloques comunes y en el segundo curso de Bachillerato, seguirá siendo la que, hasta la entrada en vigor de este real decreto, se establecía en los artículos 3, 5, 6 y 8, las disposiciones adicionales tercera, sexta y novena, y los anexos III, IV, V y VI del Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria.
 
-1. Durante el curso 2022-2023, la asignación de materias a las distintas especialidades en los cursos segundo y cuarto de Educación Secundaria Obligatoria, en los ámbitos específicos de los programas de mejora del aprendizaje y el rendimiento, en los módulos de los ciclos de Formación Profesional Básica asociados a los bloques comunes y en el segundo curso de Bachillerato, seguirá siendo la que, hasta la entrada en vigor de este real decreto, se establecía en los artículos 3, 5, 6 y 8, las disposiciones adicionales tercera, sexta y novena, y los anexos III, IV, V y VI del Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria.
-
-2. Asimismo, durante el curso 2022-2023 será de aplicación en el segundo curso de Bachillerato lo que, hasta la entrada en vigor de este real decreto, se disponía con relación a la asignación de materias de la modalidad de Artes en los apartados 2 y 4 del artículo 3 y en.
+2. Asimismo, durante el curso 2022-2023 será de aplicación en el segundo curso de Bachillerato lo que, hasta la entrada en vigor de este real decreto, se disponía con relación a la asignación de materias de la modalidad de Artes en los apartados 2 y 4 del artículo 3 y en.
 
 el anexo VI del Real Decreto 1284/2002, de 5 de diciembre, por el que se establecen las especialidades de los Cuerpos de Profesores de Artes Plásticas y Diseño y Maestros de Taller de Artes Plásticas y Diseño, se adscriben a ellas los profesores de dichos Cuerpos y se determinan los módulos, asignaturas y materias que deberán impartir, así como en el artículo 7 y en el anexo IV del Real Decreto 428/2013, de 14 de junio, por el que se establecen las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Música y de Danza.
 
 #### Disposición derogatoria única. Derogación normativa.
 
-1. Quedan derogadas las siguientes normas, con los efectos y alcances previstos en la disposición final novena:
+1. Quedan derogadas las siguientes normas, con los efectos y alcances previstos en la disposición final novena:
 
 a) El anexo VI del Real Decreto 1284/2002, de 5 de diciembre, por el que se establecen las especialidades de los Cuerpos de Profesores de Artes Plásticas y Diseño y Maestros de Taller de Artes Plásticas y Diseño, se adscriben a ellas los profesores de dichos Cuerpos y se determinan los módulos, asignaturas y materias que deberán impartir.
 
@@ -161,7 +161,7 @@ b) Los artículos 3, 5, 6 y 8, las disposiciones adicionales tercera, sexta y no
 
 c) El anexo IV del Real Decreto 428/2013, de 14 de junio, por el que se establecen las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Música y de Danza.
 
-2. Quedan derogadas las demás normas de igual o inferior rango en cuanto se opongan a lo establecido en este real decreto.
+2. Quedan derogadas las demás normas de igual o inferior rango en cuanto se opongan a lo establecido en este real decreto.
 
 #### Disposición final primera. Modificación del Real Decreto 1284/2002, de 5 de diciembre, por el que se establecen las especialidades de los Cuerpos de Profesores de Artes Plásticas y Diseño y Maestros de Taller de Artes Plásticas y Diseño, se adscriben a ellas los profesores de dichos Cuerpos y se determinan los módulos, asignaturas y materias que deberán impartir.
 
@@ -171,15 +171,15 @@ El artículo 3 queda.
 
 redactado como sigue:
 
-#### «Artículo 3. Competencia docente.
+#### «Artículo 3. Competencia docente.
 
-1. Los funcionarios del Cuerpo de Profesores de Artes Plásticas y Diseño de las especialidades establecidas en el presente Real Decreto impartirán los módulos de los ciclos formativos de Artes Plásticas y Diseño que se determinan en el anexo V.
+1. Los funcionarios del Cuerpo de Profesores de Artes Plásticas y Diseño de las especialidades establecidas en el presente Real Decreto impartirán los módulos de los ciclos formativos de Artes Plásticas y Diseño que se determinan en el anexo V.
 
-2. Asimismo, dichos funcionarios podrán impartir las materias de la modalidad de Artes del Bachillerato conforme a lo establecido en los desarrollos reglamentarios correspondientes con relación al ejercicio de la docencia en dicha etapa, sin perjuicio de la prioridad y obligación que para impartir estas materias tiene el profesorado de las especialidades de los cuerpos de catedráticos de enseñanza secundaria y de profesores de enseñanza secundaria a las que estén asignadas.
+2. Asimismo, dichos funcionarios podrán impartir las materias de la modalidad de Artes del Bachillerato conforme a lo establecido en los desarrollos reglamentarios correspondientes con relación al ejercicio de la docencia en dicha etapa, sin perjuicio de la prioridad y obligación que para impartir estas materias tiene el profesorado de las especialidades de los cuerpos de catedráticos de enseñanza secundaria y de profesores de enseñanza secundaria a las que estén asignadas.
 
-3. Los funcionarios del Cuerpo de Maestros de Taller de Artes Plásticas y Diseño de las especialidades establecidas en el presente Real Decreto impartirán los módulos de los ciclos formativos de Artes Plásticas y Diseño que se determinan en el anexo VII.
+3. Los funcionarios del Cuerpo de Maestros de Taller de Artes Plásticas y Diseño de las especialidades establecidas en el presente Real Decreto impartirán los módulos de los ciclos formativos de Artes Plásticas y Diseño que se determinan en el anexo VII.
 
-4. Los funcionarios del Cuerpo de Profesores de Artes Plásticas y Diseño impartirán las asignaturas y materias de los estudios superiores de Artes Plásticas y de Diseño que se indican en el anexo VIII. Asimismo, los funcionarios del Cuerpo de Maestros de Taller de Artes Plásticas y Diseño impartirán los talleres vinculados a las materias de los estudios superiores de Artes Plásticas y de Diseño que se indican en el anexo IX.»
+4. Los funcionarios del Cuerpo de Profesores de Artes Plásticas y Diseño impartirán las asignaturas y materias de los estudios superiores de Artes Plásticas y de Diseño que se indican en el anexo VIII. Asimismo, los funcionarios del Cuerpo de Maestros de Taller de Artes Plásticas y Diseño impartirán los talleres vinculados a las materias de los estudios superiores de Artes Plásticas y de Diseño que se indican en el anexo IX.»
 
 #### Disposición final segunda. Modificación del Real Decreto 363/2004, de 5 de marzo, por el que se declara la equivalencia de determinadas titulaciones, a efectos de docencia, a las exigidas con carácter general para el ingreso y adquisición de especialidades de los Cuerpos de Profesores y Maestros de Taller de Artes Plásticas y Diseño.
 
@@ -189,7 +189,7 @@ Uno. El artículo 2 queda.
 
 redactado como sigue:
 
-#### «Artículo 2. Declaración de equivalencia de titulaciones, a efectos de docencia, para el ingreso y adquisición de especialidades del Cuerpo de Maestros de Taller de Artes Plásticas y Diseño.
+#### «Artículo 2. Declaración de equivalencia de titulaciones, a efectos de docencia, para el ingreso y adquisición de especialidades del Cuerpo de Maestros de Taller de Artes Plásticas y Diseño.
 
 Para el ingreso y adquisición de las especialidades del Cuerpo de Maestros de Taller de Artes Plásticas y Diseño, se declaran equivalentes a las titulaciones exigidas con carácter general, a efectos de docencia, las titulaciones de Técnico Superior de Artes Plásticas y Diseño establecidas al amparo de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, que se incluyen en el anexo II, y las titulaciones de Técnico Superior de Artes Plásticas y Diseño establecidas al amparo de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, que se incluyen en el anexo III. En todo caso, deberá de acreditarse en la forma que se determine en las convocatorias, una experiencia profesional de, al menos, dos años en un campo laboral relacionado con la especialidad a la que se aspire.»
 
@@ -237,7 +237,7 @@ Se modifica el apartado 1 del artículo 1 l.
 
 Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria, que queda redactado como sigue:
 
-«1. Este real decreto tiene por objeto establecer las especialidades docentes de los cuerpos de funcionarios que tienen a su cargo la enseñanza en la educación secundaria obligatoria, el bachillerato y la formación profesional.»
+«1. Este real decreto tiene por objeto establecer las especialidades docentes de los cuerpos de funcionarios que tienen a su cargo la enseñanza en la educación secundaria obligatoria, el bachillerato y la formación profesional.»
 
 #### Disposición final cuarta. Modificación de la Orden ECD/191/2012, de 6 de febrero, por la que se regulan los temarios que han de regir en los procedimientos de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
@@ -253,7 +253,7 @@ Uno. El artículo 1 queda.
 
 redactado como sigue:
 
-#### «Artículo 1. Objeto de la norma.
+#### «Artículo 1. Objeto de la norma.
 
 Este real decreto tiene por objeto establecer las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Música y de Danza, así como definir la asignación de asignaturas que se deberán impartir en las enseñanzas profesionales de Música y de Danza.»
 
@@ -261,7 +261,7 @@ Dos. El artículo 7 queda.
 
 redactado como sigue:
 
-#### «Artículo 7. Docencia en el Bachillerato.
+#### «Artículo 7. Docencia en el Bachillerato.
 
 En aplicación de lo establecido en la disposición adicional séptima de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, el personal funcionario del Cuerpo de Profesores de Música y Artes Escénicas de las especialidades vinculadas a las enseñanzas de Música y de Danza podrán impartir las materias de la modalidad de artes del Bachillerato en la vía de Música y Artes Escénicas de acuerdo con lo establecido en los desarrollos reglamentarios correspondientes con relación al ejercicio de la docencia en dicha etapa. Las administraciones educativas, en el ámbito de sus competencias, conforme a sus necesidades y en uso de su facultad de organización de centros docentes, podrán determinar la conveniencia de aplicar dicha asignación, sin que esta posibilidad tenga efectos en las plantillas orgánicas de los centros.»
 
@@ -281,17 +281,9 @@ Se habilita a la persona titular del Ministerio de Educación y Formación Profe
 
 #### Disposición final novena. Calendario de implantación.
 
-1. Lo dispuesto en este real decreto se implantará para los cursos primero y tercero de Educación Secundaria Obligatoria en el curso escolar 2022-2023 y para los cursos segundo y cuarto de Educación Secundaria Obligatoria en el curso 2023-2024.
+1. Lo dispuesto en este real decreto se implantará para los cursos primero y tercero de Educación Secundaria Obligatoria en el curso escolar 2022-2023 y para los cursos segundo y cuarto de Educación Secundaria Obligatoria en el curso 2023-2024. 2. Lo dispuesto en este real decreto se implantará para primero de Bachillerato en el curso escolar 2022-2023 y para segundo de Bachillerato en el curso 2023-2024. 3. Lo dispuesto en este real decreto se implantará para el primer curso de los ciclos formativos de grado básico en el curso escolar 2022-2023 y para el segundo curso de los ciclos formativos de grado básico en el curso escolar 2023-2024. #### Disposición final décima. Entrada en vigor.
 
-2. Lo dispuesto en este real decreto se implantará para primero de Bachillerato en el curso escolar 2022-2023 y para segundo de Bachillerato en el curso 2023-2024.
-
-3. Lo dispuesto en este real decreto se implantará para el primer curso de los ciclos formativos de grado básico en el curso escolar 2022-2023 y para el segundo curso de los ciclos formativos de grado básico en el curso escolar 2023-2024.
-
-#### Disposición final décima. Entrada en vigor.
-
-Dado en Madrid, el 18 de abril de 2023.
-
-FELIPE R.
+Dado en Madrid, el 18 de abril de 2023. FELIPE R.
 
 La Ministra de Educación y Formación Profesional,
 

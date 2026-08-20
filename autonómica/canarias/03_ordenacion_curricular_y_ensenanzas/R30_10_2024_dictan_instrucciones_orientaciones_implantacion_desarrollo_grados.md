@@ -1,7 +1,11 @@
 ---
 id: norm-can-res-boc-2024-226-44
 codigo_sintetizado: Resolucion BOC 44
-titulo: Resolución de 30 de octubre de 2024, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se dictan instrucciones y orientaciones para la implantación y desarrollo de los grados de formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los currículos, en el ámbito de la Comunidad Autónoma de Canarias.
+titulo: Resolución de 30 de octubre de 2024, de la Dirección General de Formación
+  Profesional y Enseñanzas de Régimen Especial, por la que se dictan instrucciones
+  y orientaciones para la implantación y desarrollo de los grados de formación D y
+  E, a partir del curso escolar 2024/2025, y se establece la distribución horaria
+  y modular de los currículos, en el ámbito de la Comunidad Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,71 +17,71 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-  - curriculo
-  - cursos-especializacion
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - formacion-profesional
-  - grado-medio
-  - grado-superior
-  - profesorado
+- curriculo
+- cursos-especializacion
+- ensenanzas-deportivas
+- equipos-directivos
+- formacion-profesional
+- grado-medio
+- grado-superior
+- profesorado
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-can-res-134
-    - norma_id: norm-can-res-boc-2019-069-48
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2020-17274
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2021-979
-    - norma_id: norm-es-2024-10683
-    - norma_id: norm-es-2024-10684
-    - norma_id: norm-es-2024-10685
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-217-2022
-    - norma_id: norm-es-rd-39-1997
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-boc-2019-069-48
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2020-17274
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2021-979
+  - norma_id: norm-es-2024-10683
+  - norma_id: norm-es-2024-10684
+  - norma_id: norm-es-2024-10685
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-217-2022
+  - norma_id: norm-es-rd-39-1997
+  - norma_id: norm-es-l-39-2015
   fundamento_de:
-    - norma_id: norm-can-res-028
-    - norma_id: norm-can-res-032
-    - norma_id: norm-can-res-033
-    - norma_id: norm-can-res-034
-    - norma_id: norm-can-res-035
-    - norma_id: norm-can-res-036
-    - norma_id: norm-can-res-037
-    - norma_id: norm-can-res-038
-    - norma_id: norm-can-res-039
-    - norma_id: norm-can-res-042
-    - norma_id: norm-can-res-boc-2025-118-46
-    - norma_id: norm-can-res-boc-2026-070-41
+  - norma_id: norm-can-res-028
+  - norma_id: norm-can-res-032
+  - norma_id: norm-can-res-033
+  - norma_id: norm-can-res-034
+  - norma_id: norm-can-res-035
+  - norma_id: norm-can-res-036
+  - norma_id: norm-can-res-037
+  - norma_id: norm-can-res-038
+  - norma_id: norm-can-res-039
+  - norma_id: norm-can-res-042
+  - norma_id: norm-can-res-boc-2025-118-46
+  - norma_id: norm-can-res-boc-2026-070-41
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-can-res-boc-2019-069-48
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-can-res-134
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-39-1997
-    - norma_id: norm-es-2020-17274
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2021-979
-    - norma_id: norm-es-2024-10683
-    - norma_id: norm-es-2024-10684
-    - norma_id: norm-es-2024-10685
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-217-2022
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-res-boc-2019-069-48
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-134
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-39-1997
+  - norma_id: norm-es-2020-17274
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2021-979
+  - norma_id: norm-es-2024-10683
+  - norma_id: norm-es-2024-10684
+  - norma_id: norm-es-2024-10685
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-217-2022
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-226-3747.pdf
 ---
 # Resolución de 30 de octubre de 2024, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se dictan instrucciones y orientaciones para la implantación y desarrollo de los grados de formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los currículos, en el ámbito de la Comunidad Autónoma de Canarias.
@@ -118,9 +122,7 @@ Contra el presente acto, que no pone fin a la vía administrativa, cabe interpon
 
 ## Anexo I
 
-INSTRUCCIONES PARA LA IMPLANTACIÓN Y DESARROLLO DE LOS GRADOS DE FORMACIÓN D, NIVELES 2 (CICLOS FORMATIVOS DE GRADO MEDIO), Y 3 (CICLOS FORMATIVOS DE GRADO SUPERIOR), A PARTIR DEL CURSO ESCOLAR 2024/2025.
-
-#### Primera. Objeto y ámbito de aplicación.
+INSTRUCCIONES PARA LA IMPLANTACIÓN Y DESARROLLO DE LOS GRADOS DE FORMACIÓN D, NIVELES 2 (CICLOS FORMATIVOS DE GRADO MEDIO), Y 3 (CICLOS FORMATIVOS DE GRADO SUPERIOR), A PARTIR DEL CURSO ESCOLAR 2024/2025. #### Primera. Objeto y ámbito de aplicación.
 
 1. Las presentes instrucciones tienen por objeto la implantación y desarrollo de los grados de formación D, niveles 2 (ciclos formativos de grado medio) y 3 (ciclos formativos de grado superior), a partir del curso escolar 2024-2025, y establecer la distribución horaria y modular de los currículos.
 
@@ -178,16 +180,14 @@ Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual
 
 9. La convalidación del módulo Inglés profesional en los ciclos formativos de Grados de Formación D (niveles 2 y 3) atenderá a las siguientes consideraciones:
 - Módulo Inglés profesional (código 0156):
-a) Una vez superado este módulo en cualquier Ciclo Formativo de Grado Medio (nivel 2), el módulo no será objeto de convalidación en otro Ciclo Formativo de Grado Medio. Se considerará el módulo como superado, trasladándose la calificación obtenida al nuevo Ciclo de nivel 2.
-b) En cualquier Ciclo Formativo de Grado Medio (nivel 2), el módulo será objeto de convalidación cuando se tenga superado el módulo profesional Inglés profesional (0179).
+a) Una vez superado este módulo en cualquier Ciclo Formativo de Grado Medio (nivel 2), el módulo no será objeto de convalidación en otro Ciclo Formativo de Grado Medio. Se considerará el módulo como superado, trasladándose la calificación obtenida al nuevo Ciclo de nivel 2. b) En cualquier Ciclo Formativo de Grado Medio (nivel 2), el módulo será objeto de convalidación cuando se tenga superado el módulo profesional Inglés profesional (0179).
 c) El módulo se convalida cuando se aporte certificados de nivel B1 o superior que para el idioma Inglés ha establecido la Orden de 25 de noviembre de 2022, por la que se actualizan los títulos y certificados establecidos en el Anexo I de la Orden de 21 de septiembre de 2016, que regula el reconocimiento de la acreditación de la competencia lingüística conforme al Marco Común Europeo de Referencia para las Lenguas en la Comunidad Autónoma de Canarias.
 d) El módulo será convalidado cuando se aporte título de Grado o equivalente en Filología Inglesa o en Traducción e Interpretación (Inglés).
 e) El módulo será objeto de convalidación cuando se aporte módulos LOGSE de Lengua Extranjera, de acuerdo con lo dispuesto en el Anexo II del [Real Decreto 1085/2020](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md), de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos
 
 de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo, siempre que la lengua extranjera cursada y superada sea Inglés.
 - Módulo Inglés profesional (código 0179):
-a) Una vez superado en cualquier Ciclo Formativo de Grado Superior (nivel 3), el módulo no será objeto de convalidación en otro Ciclo Formativo de Grado Superior. Se considera el módulo como superado, trasladando la calificación obtenida en dicho módulo al nuevo Ciclo de nivel 3.
-b) El módulo se convalida cuando se aporte certificados de nivel B2 o superior que para el idioma Inglés ha establecido la Orden de 25 de noviembre de 2022, por la que se actualizan los títulos y certificados establecidos en el Anexo I de la [Orden de 21 de septiembre de 2016](R26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md), que regula el reconocimiento de la acreditación de la competencia lingüística conforme al Marco Común Europeo de Referencia para las Lenguas en la Comunidad Autónoma de Canarias.
+a) Una vez superado en cualquier Ciclo Formativo de Grado Superior (nivel 3), el módulo no será objeto de convalidación en otro Ciclo Formativo de Grado Superior. Se considera el módulo como superado, trasladando la calificación obtenida en dicho módulo al nuevo Ciclo de nivel 3. b) El módulo se convalida cuando se aporte certificados de nivel B2 o superior que para el idioma Inglés ha establecido la Orden de 25 de noviembre de 2022, por la que se actualizan los títulos y certificados establecidos en el Anexo I de la [Orden de 21 de septiembre de 2016](R26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md), que regula el reconocimiento de la acreditación de la competencia lingüística conforme al Marco Común Europeo de Referencia para las Lenguas en la Comunidad Autónoma de Canarias.
 c) El módulo será convalidado cuando se aporte título de Grado o equivalente en Filología Inglesa o en Traducción e Interpretación (Inglés).
 d) El módulo será objeto de convalidación cuando se aporten módulos LOGSE de Lengua Extranjera de acuerdo con lo dispuesto en el Anexo II del [Real Decreto 1085/2020](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md), de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo, siempre que la lengua extranjera cursada y superada sea Inglés.
 
@@ -327,9 +327,7 @@ b) En el caso de trabajar por módulos profesionales y proyecto intermodular, la
 
 **1.4.** La superación de un ciclo formativo de grado medio y superior requerirá la evaluación positiva en todos los módulos profesionales y proyecto que lo componen.
 
-**1.5.** Las sesiones de evaluación se realizarán conforme a la normativa vigente para la Comunidad Autónoma de Canarias hasta la actualización de la misma, valorándose el progreso del alumnado en la consecución de la competencia general del ciclo, los resultados de aprendizaje y las competencias profesionales y para la empleabilidad. A partir del 1 de septiembre de 2025 el número de sesiones de evaluación del segundo curso serán las mismas que las del primer curso. Los módulos pendientes, en su caso, se evaluarán en la sesión final de segundo curso. Durante el curso 2025/2026 se mantendrán las sesiones de evaluación de acceso a la FCT y evaluación final ordinaria de la FCT únicamente para el alumnado descrito en el apartado 4 de la instrucción decimocuarta, que serán suprimidas, en todo caso, a partir del 1 de septiembre de 2026.
-
-**1.6.** En la primera sesión de evaluación parcial se valorará la adquisición de las competencias necesarias para el desempeño de las funciones de nivel básico en Prevención de Riesgos Laborales, estableciéndose, para el alumnado que no haya alcanzado estas competencias, las medidas de apoyo orientadas a su adquisición. Se podrá convocar una sesión de evaluación extraordinaria específica antes de la incorporación al periodo de formación en la empresa u organismo equiparado con el objetivo de decidir:
+**1.5.** Las sesiones de evaluación se realizarán conforme a la normativa vigente para la Comunidad Autónoma de Canarias hasta la actualización de la misma, valorándose el progreso del alumnado en la consecución de la competencia general del ciclo, los resultados de aprendizaje y las competencias profesionales y para la empleabilidad. A partir del 1 de septiembre de 2025 el número de sesiones de evaluación del segundo curso serán las mismas que las del primer curso. Los módulos pendientes, en su caso, se evaluarán en la sesión final de segundo curso. Durante el curso 2025/2026 se mantendrán las sesiones de evaluación de acceso a la FCT y evaluación final ordinaria de la FCT únicamente para el alumnado descrito en el apartado 4 de la instrucción decimocuarta, que serán suprimidas, en todo caso, a partir del 1 de septiembre de 2026. **1.6.** En la primera sesión de evaluación parcial se valorará la adquisición de las competencias necesarias para el desempeño de las funciones de nivel básico en Prevención de Riesgos Laborales, estableciéndose, para el alumnado que no haya alcanzado estas competencias, las medidas de apoyo orientadas a su adquisición. Se podrá convocar una sesión de evaluación extraordinaria específica antes de la incorporación al periodo de formación en la empresa u organismo equiparado con el objetivo de decidir:
 • Alumnado que ha adquirido las competencias necesarias para el desempeño de las funciones de nivel básico en Prevención de Riesgos Laborales.
 • Alumnado que no ha adquirido las competencias necesarias, que no podrá acceder a la formación en la empresa u organismo equiparado y deberá continuar su formación en el centro.
 
@@ -390,11 +388,7 @@ Ordenación de acuerdo con Real Decreto 659/2023, de 18 de julio Ordenación de 
 
 0156. Inglés profesional (GM) 0156. Inglés
 
-5. A partir del 1 de septiembre de 2026, el alumnado deberá cursar la totalidad de los módulos profesionales y proyecto intermodular establecido en la nueva ordenación académica, aplicando, en sentido inverso, la misma tabla de convalidaciones incluida en la tabla del apartado 4.
-
-6. Las administraciones competentes deberán garantizar la oferta del módulo de Formación en centros de trabajo durante el curso académico 2025-2026 para el alumnado al que se refiere el anterior apartado 4.
-
-7. Aquellos ciclos formativos en modalidad LOGSE, aún en vigor, quedan con la ordenación del Sistema de Formación Profesional, sin alteración alguna, manteniendo el módulo de Formación en Centros de Trabajo y su distribución modular y horaria de acuerdo con la normativa básica y autonómica que le sea de aplicación. Mantendrán, en consecuencia, las sesiones de evaluación de acceso a la FCT y evaluación final ordinaria de la FCT correspondientes.
+5. A partir del 1 de septiembre de 2026, el alumnado deberá cursar la totalidad de los módulos profesionales y proyecto intermodular establecido en la nueva ordenación académica, aplicando, en sentido inverso, la misma tabla de convalidaciones incluida en la tabla del apartado 4. 6. Las administraciones competentes deberán garantizar la oferta del módulo de Formación en centros de trabajo durante el curso académico 2025-2026 para el alumnado al que se refiere el anterior apartado 4. 7. Aquellos ciclos formativos en modalidad LOGSE, aún en vigor, quedan con la ordenación del Sistema de Formación Profesional, sin alteración alguna, manteniendo el módulo de Formación en Centros de Trabajo y su distribución modular y horaria de acuerdo con la normativa básica y autonómica que le sea de aplicación. Mantendrán, en consecuencia, las sesiones de evaluación de acceso a la FCT y evaluación final ordinaria de la FCT correspondientes.
 
 #### Decimoquinta. Certificación de la formación de nivel básico en prevención de riesgos laborales.
 
@@ -406,9 +400,7 @@ Ordenación de acuerdo con Real Decreto 659/2023, de 18 de julio Ordenación de 
 
 ## Anexo II
 
-INSTRUCCIONES PARA LA IMPLANTACIÓN Y DESARROLLO DE LOS GRADOS DE FORMACIÓN D DE NIVEL 1 (CICLOS FORMATIVOS DE GRADO BÁSICO), A PARTIR DEL CURSO ESCOLAR 2024/2025.
-
-#### Primera. Objeto y ámbito de aplicación.
+INSTRUCCIONES PARA LA IMPLANTACIÓN Y DESARROLLO DE LOS GRADOS DE FORMACIÓN D DE NIVEL 1 (CICLOS FORMATIVOS DE GRADO BÁSICO), A PARTIR DEL CURSO ESCOLAR 2024/2025. #### Primera. Objeto y ámbito de aplicación.
 
 Las presentes instrucciones tienen por objeto la implantación y desarrollo de los grados de formación D de nivel 1 (Ciclos Formativos de Grado Básico), a partir del curso escolar 2024-2025, y el establecimiento de la distribución horaria y modular de los currículos. Serán de aplicación en todos los centros educativos del sistema de formación profesional de la Comunidad Autónoma de Canarias.
 
@@ -471,9 +463,7 @@ La formación en empresa u organismo equiparado se regirá por lo dispuesto en l
 
 #### Octava. Evaluación.
 
-1. La evaluación del alumnado de ciclos formativos de grado básico responderá, con carácter general, a lo establecido en los artículo 18 y 93.
-
-del [Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y en el artículo 12 del Decreto 9/2023, de 26 de enero, por el que se regula y establece el currículo de veintitrés ciclos formativos de grado básico en el ámbito de la Comunidad Autónoma de Canarias.
+1. La evaluación del alumnado de ciclos formativos de grado básico responderá, con carácter general, a lo establecido en los artículo 18 y 93. del [Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y en el artículo 12 del Decreto 9/2023, de 26 de enero, por el que se regula y establece el currículo de veintitrés ciclos formativos de grado básico en el ámbito de la Comunidad Autónoma de Canarias.
 
 2. Las sesiones de evaluación, los criterios de promoción a 2.º curso y las normas de calificación de los ciclos formativos de grado básico, se regularán por lo establecido en la Resolución de la DGFPERE de 6 de marzo de 2024, por la que se dictan instrucciones transitorias para regular la evaluación, promoción y titulación del alumnado de los ciclos formativos de grado básico en la Comunidad Autónoma de Canarias, con las salvedades, en cuanto a calificación, expresadas en los párrafos siguientes.
 
@@ -995,9 +985,7 @@ e. Planes de emergencia y evacuación.
 f. El control de la salud de los trabajadores. Total horas: 25. III. Riesgos específicos y su prevención en el sector correspondiente a la actividad de la empresa. Total horas: 5. IV . Elementos básicos de gestión de la prevención de riesgos.
 a. Organismos públicos relacionados con la seguridad y salud en el trabajo.
 b. Organización del trabajo preventivo: rutinas básicas.
-c. Documentación: recogida, elaboración y archivo. Total horas: 5. V . Primeros auxilios. Total horas: 5.
-
-(Anverso)
+c. Documentación: recogida, elaboración y archivo. Total horas: 5. V . Primeros auxilios. Total horas: 5. (Anverso)
 
 ## Anexo IX
 

@@ -1,10 +1,12 @@
 ---
 id: norm-mad-d-61-2022
 codigo_sintetizado: D61_2022 Ordenacion y Curriculo Educacion Primaria Madrid
-titulo: Decreto 61/2022, de 13 de julio, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid el currículo de Primaria.
+titulo: Decreto 61/2022, de 13 de julio, del Consejo de Gobierno, por el que se establece
+  para la Comunidad de Madrid el currículo de Primaria.
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Decreto
 numero_disposicion: 61/2022
 fecha_disposicion: '2022-07-13'
@@ -18,17 +20,17 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Primaria
 tags:
-  - primaria
-  - curriculo_primaria
-  - areas
-  - madrid
+- primaria
+- curriculo_primaria
+- areas
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-mad-d-29-2013
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Decreto 61/2022, de 13 de julio, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid el currículo de Primaria.
 
@@ -39,9 +41,7 @@ A) Disposiciones Generales Vicepresidencia, Consejería de Educación y Universi
 Primero Creación de un nuevo centro por desglose de un Colegio Rural Agrupado 1. Se crea el colegio de Educación Infantil y Primaria "Virgen de la Oliva", código 28080980, situado en la calle Escuelas, número 3, del municipio de Anchuelo, por desglose del Colegio Rural Agrupado "Amigos de la Paz", código 28044801, con sede principal hasta ahora en esa localidad. 2. El Colegio Rural Agrupado resultante tras el desglose de la localidad de Anchuelo mantendrá el código 28044801 y su denominación actual, Colegio Rural Agrupado "Amigos de la Paz", incluirá las localidades de Corpa, Pezuela de las Torres, Santorcaz y Valverde de Alcalá, y tendrá como sede principal la localidad de Santorcaz, con domicilio en la calle Sartenilla, s/n.
 Segundo Órganos de gobierno y de participación docente 1. El titular de la Dirección General de Recursos Humanos de la Vicepresidencia, Consejería de Educación y Universidades, a propuesta del titular de la Dirección de Área Territohttp://www.bocm.es D. L.: M. 19.462-1983 ISSN 1989-4791 rial correspondiente, podrá efectuar los nombramientos de directores de los centros de acuerdo con lo establecido en el título V, capítulo IV, artículo 137, de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y en el Decreto 63/2004, de 15 de abril, que aprueba el procedimiento para la selección, nombramiento y cese de directores de centros docentes públicos de la Comunidad de Madrid en los que se imparten enseñanzas escolares. 2. El proceso de elección y constitución de los consejos escolares se realizará de conformidad con lo establecido en el Reglamento Orgánico de las Escuelas de Educación Infantil y de los Colegios de Educación Primaria, aprobado por Real Decreto 82/1996, de 26 de enero. 3. El claustro de profesores de cada centro se constituirá con el profesorado que preste servicio en los mismos.
 Tercero Incorporación al Programa Bilingüe de la Comunidad de Madrid El nuevo colegio de Educación Infantil y Primaria, mencionado en el punto 1 del apartado primero del presente Decreto, pasará a formar parte del Programa Bilingüe de la Comunidad de Madrid.
-Cuarto Entrada en funcionamiento El nuevo centro que se crea en el presente Decreto entrará en funcionamiento en el curso escolar 2022-2023.
-
-#### Disposición final primera. Habilitación.
+Cuarto Entrada en funcionamiento El nuevo centro que se crea en el presente Decreto entrará en funcionamiento en el curso escolar 2022-2023. #### Disposición final primera. Habilitación.
 
 Se autoriza a la Consejería competente en materia de Educación a adoptar las medidas necesarias para la ejecución del presente Decreto.
 

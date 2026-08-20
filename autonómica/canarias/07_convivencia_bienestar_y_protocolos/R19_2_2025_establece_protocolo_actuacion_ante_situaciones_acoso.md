@@ -1,7 +1,11 @@
 ---
 id: norm-can-res-125
 codigo_sintetizado: Resolucion BOC 125
-titulo: Resolución de 19 de febrero de 2025, de la Dirección General de Personal y Formación del Profesorado, por la que se establece el Protocolo de actuación ante situaciones de acoso en el entorno laboral en los centros públicos dependientes de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes (BOC nº 45 de 5 de marzo).
+titulo: Resolución de 19 de febrero de 2025, de la Dirección General de Personal y
+  Formación del Profesorado, por la que se establece el Protocolo de actuación ante
+  situaciones de acoso en el entorno laboral en los centros públicos dependientes
+  de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes
+  (BOC nº 45 de 5 de marzo).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Personal y Formación del Profesorado
@@ -13,54 +17,54 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Protocolos de actuación y protección
 tags:
-  - convivencia-escolar
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - formacion-profesional
-  - orientacion-educativa
-  - personal-no-docente
-  - profesorado
-  - proteccion-menores
-  - protocolos-de-actuaci-n-y-protecci-n
+- convivencia-escolar
+- ensenanzas-deportivas
+- equipos-directivos
+- formacion-profesional
+- orientacion-educativa
+- personal-no-docente
+- profesorado
+- proteccion-menores
+- protocolos-de-actuaci-n-y-protecci-n
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-168-2009
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-2-1987
-    - norma_id: norm-can-l-4-2023
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-2007-6115
-    - norma_id: norm-es-2022-11589
-    - norma_id: norm-es-l-31-1995
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-10-2022
-    - norma_id: norm-es-lo-3-2018
-    - norma_id: norm-es-rdl-2-2015
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-8-2021
-    - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-can-d-168-2009
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-2-1987
+  - norma_id: norm-can-l-4-2023
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2007-6115
+  - norma_id: norm-es-2022-11589
+  - norma_id: norm-es-l-31-1995
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-10-2022
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-rdl-2-2015
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-lo-1-1996
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-2-1987
-    - norma_id: norm-can-l-4-2023
-    - norma_id: norm-can-d-168-2009
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-l-31-1995
-    - norma_id: norm-es-lo-3-2018
-    - norma_id: norm-es-2007-6115
-    - norma_id: norm-es-2022-11589
-    - norma_id: norm-es-lo-10-2022
-    - norma_id: norm-es-rdl-2-2015
+  - '1'
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-2-1987
+  - norma_id: norm-can-l-4-2023
+  - norma_id: norm-can-d-168-2009
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-l-31-1995
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-2007-6115
+  - norma_id: norm-es-2022-11589
+  - norma_id: norm-es-lo-10-2022
+  - norma_id: norm-es-rdl-2-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-045-900.pdf
 ---
 # Resolución de 19 de febrero de 2025, de la Dirección General de Personal y Formación del Profesorado, por la que se establece el Protocolo de actuación ante situaciones de acoso en el entorno laboral en los centros públicos dependientes de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes (BOC nº 45 de 5 de marzo).
@@ -352,9 +356,7 @@ de las comunicaciones y denuncias del Protocolo y al que solo tendrá acceso el 
 
 3. La activación del Protocolo en forma física requerirá la presentación de:
 • Los modelos establecidos en el Anexo V del presente Protocolo: la "solicitud de activación del Protocolo" (documento 1) que se presentará grapada a un sobre cerrado señalado como Confidencial que contendrá la "denuncia" por presunto acoso (documento 2).
-• La documentación probatoria de los hechos denunciados deberá incluirse dentro del anterior sobre cerrado señalado como Confidencial que contiene el documento 2.
-
-4. La activación del Protocolo a través de un buzón de correo electrónico requerirá únicamente la presentación de:
+• La documentación probatoria de los hechos denunciados deberá incluirse dentro del anterior sobre cerrado señalado como Confidencial que contiene el documento 2. 4. La activación del Protocolo a través de un buzón de correo electrónico requerirá únicamente la presentación de:
 • El modelo establecido en el Anexo V del presente Protocolo de la "denuncia" por presunto acoso (documento 2).
 • La documentación probatoria de los hechos denunciados.
 
@@ -370,9 +372,7 @@ Subsección 2.ª Tramitación de la comunicación de la denuncia. Desarrollo del
 
 #### Artículo 18. Primera sesión de la CV AL.
 
-1. Recibida la documentación en sobre cerrado de la unidad administrativa receptora, o bien recibida la denuncia a través del buzón de correo electrónico, la Secretaría de la CV AL asignará un número de expediente. La Secretaría abrirá el sobre o el correo electrónico, comprobará el documento 2 y realizará la convocatoria para la primera sesión de los miembros de la CV AL, ordinaria o extraordinaria en función del tipo de acoso denunciado. Únicamente cuando falten elementos imprescindibles para valorar la denuncia, solicitará su subsanación en la forma prevenida en el artículo 16.
-
-2. La Secretaría notificará a sus miembros, con la máxima celeridad, la convocatoria de la sesión de la CV AL. Para ello, habrá de confirmar previamente la disponibilidad de todos ellos y contactará, en su caso, con las personas suplentes correspondientes, de forma que se asegure la asistencia necesaria.
+1. Recibida la documentación en sobre cerrado de la unidad administrativa receptora, o bien recibida la denuncia a través del buzón de correo electrónico, la Secretaría de la CV AL asignará un número de expediente. La Secretaría abrirá el sobre o el correo electrónico, comprobará el documento 2 y realizará la convocatoria para la primera sesión de los miembros de la CV AL, ordinaria o extraordinaria en función del tipo de acoso denunciado. Únicamente cuando falten elementos imprescindibles para valorar la denuncia, solicitará su subsanación en la forma prevenida en el artículo 16. 2. La Secretaría notificará a sus miembros, con la máxima celeridad, la convocatoria de la sesión de la CV AL. Para ello, habrá de confirmar previamente la disponibilidad de todos ellos y contactará, en su caso, con las personas suplentes correspondientes, de forma que se asegure la asistencia necesaria.
 
 3. Se comprobará que la persona denunciante coincide con la persona que presuntamente sufre el acoso laboral. Cuando quien haya presentado la denuncia no sea la persona interesada, se notificará a esta última la denuncia así como la composición de la CV AL, a los efectos de una eventual recusación de alguno de sus miembros, que deberá comunicar en un plazo máximo de cinco días desde su notificación. La presunta víctima podrá, en un plazo máximo de diez días a contar desde el día siguiente al de notificación de la denuncia, presentar su propia denuncia, ratificar la presentada y/o realizar cualquier alegación que a su derecho convenga, incluida su voluntad de que no se continúen las actuaciones. En caso de que la presunta víctima manifestara su voluntad de que no continúen las actuaciones, la CV AL elevará propuesta de resolución a la unidad administrativa de recursos humanos correspondiente para que archive las actuaciones, salvo que la CV AL estime motivación suficiente para continuar de oficio.
 

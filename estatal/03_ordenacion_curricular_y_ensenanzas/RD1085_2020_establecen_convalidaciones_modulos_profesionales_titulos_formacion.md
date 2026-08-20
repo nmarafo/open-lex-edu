@@ -1,10 +1,15 @@
 ---
 id: norm-es-2020-17274
 codigo_sintetizado: BOE-A-2020-17274
-titulo: Real Decreto 1085/2020, de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo.
+titulo: Real Decreto 1085/2020, de 9 de diciembre, por el que se establecen convalidaciones
+  de módulos profesionales de los títulos de Formación Profesional del sistema educativo
+  español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011,
+  de 29 de julio, por el que se establece la ordenación general de la formación profesional
+  del sistema educativo.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2020-12-30'
 boletin: BOE
@@ -15,47 +20,40 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-  - formacion-profesional
-  - grado-medio
-  - procedimiento-administrativo
-  - titulacion
+- formacion-profesional
+- grado-medio
+- procedimiento-administrativo
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2021-979
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-39-1997
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2021-979
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-39-1997
   fundamento_de:
-    - norma_id: norm-es-2021-979
-    - norma_id: norm-es-2024-10684
-    - norma_id: norm-es-2024-10685
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-can-res-boc-2024-226-44
-    - norma_id: norm-can-res-boc-2026-039-103
-    - norma_id: norm-can-res-032
-    - norma_id: norm-can-res-boc-2025-047-108
-    - norma_id: norm-can-res-030
+  - norma_id: norm-es-2021-979
+  - norma_id: norm-es-2024-10684
+  - norma_id: norm-es-2024-10685
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-can-res-032
+  - norma_id: norm-can-res-boc-2025-047-108
+  - norma_id: norm-can-res-030
   desarrollado_por: []
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-es-lo-2-2006
-  articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-l-39-2015
-  articulos:
-    - '1'
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-rd-39-1997
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2021-979
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-rd-39-1997
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2021-979
+  - norma_id: norm-es-2010-12201
 ---
 # Real Decreto 1085/2020, de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo.
 

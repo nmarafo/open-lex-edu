@@ -1,10 +1,12 @@
 ---
 id: norm-and-d-1-2011
 codigo_sintetizado: D1_2011 Reglamento Disciplina Academica Alumnado Andalucía
-titulo: Decreto 1/2011, de 11 de enero, por el que se establece el procedimiento corrector en materia de disciplina académica.
+titulo: Decreto 1/2011, de 11 de enero, por el que se establece el procedimiento corrector
+  en materia de disciplina académica.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 1/2011
 fecha_disposicion: '2011-01-11'
@@ -18,18 +20,18 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Convivencia escolar
 tags:
-  - disciplina_academica
-  - procedimiento_corrector
-  - andalucia
+- disciplina_academica
+- procedimiento_corrector
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-8-2021
-    - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-lo-1-1996
 ---
 # Decreto 1/2011, de 11 de enero, por el que se establece el procedimiento corrector en materia de disciplina académica.
 
@@ -41,9 +43,7 @@ Sevilla, 18 de enero 2011 Página núm. 5 CONSEJERÍA DE HACIENDA Y ADMINISTRACI
 
 2. Convocar las subastas ordinarias de pagarés a tres, seis, nueve, doce, y dieciocho meses, dentro del Programa de Emisión de Pagarés de la Junta de Andalucía autorizado por el Decreto 157/1997, de 17 de junio, parcialmente modificado por los Decretos 237/1998, de 24 de noviembre; 1/1999, de 12 de enero, y 72/1999, de 23 de marzo, así como por el Decreto 257/1999, de 27 de diciembre, y por el Decreto 381/2009, de 1 de diciembre, por el que se amplía la duración del Programa de Emisión de Pagarés de la Junta de Andalucía. Dichas subastas habrán de celebrarse de acuerdo con lo previsto en la Orden de la Consejería de Economía y Hacienda, de 2 de agosto de 2001, y de conformidad con el calendario aprobado en esta Resolución.
 
-**2.1.** Los pagarés de la Junta de Andalucía que se emitan como resultado de estas subastas tendrán las características establecidas en el Decreto 157/1997, de 17 de junio, modificado parcialmente por los Decretos antes citados, y en la Orden de la Consejería de Economía y Hacienda de 2 de agosto de 2001.
-
-**2.2.** Los miembros del Mercado de Deuda Pública en Anotaciones presentarán sus ofertas en el Banco de España entre las 8,30 y 10,30 horas del día de presentación de peticiones fijado en el calendario para cada una de las subastas. Las ofertas se formularán a través de la red informática de comunicaciones del Servicio de Liquidación del Banco de España. En caso de no disponer de conexión con la citada red, deberán efectuar la comunicación de sus peticiones por teléfono entre las 8,30 y 10,00 horas de dicho día.
+**2.1.** Los pagarés de la Junta de Andalucía que se emitan como resultado de estas subastas tendrán las características establecidas en el Decreto 157/1997, de 17 de junio, modificado parcialmente por los Decretos antes citados, y en la Orden de la Consejería de Economía y Hacienda de 2 de agosto de 2001. **2.2.** Los miembros del Mercado de Deuda Pública en Anotaciones presentarán sus ofertas en el Banco de España entre las 8,30 y 10,30 horas del día de presentación de peticiones fijado en el calendario para cada una de las subastas. Las ofertas se formularán a través de la red informática de comunicaciones del Servicio de Liquidación del Banco de España. En caso de no disponer de conexión con la citada red, deberán efectuar la comunicación de sus peticiones por teléfono entre las 8,30 y 10,00 horas de dicho día.
 
 **2.3.** La celebración y resolución de las subastas se realizarán antes de las 12,30 horas de la fecha establecida en el calendario de subastas ordinarias.
 

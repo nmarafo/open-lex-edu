@@ -28,52 +28,66 @@ fecha_disposicion: '2006-12-21'
 
 ## Preámbulo
 
-Primero.- Ordenar la inscripciÃ³n en el Registro de Convenios Colectivos con notificaciÃ³n a la ComisiÃ³n Negociadora.
+143 - DirecciónGeneral de Trabajo.- Anuncio por el que se hace pública la Resolución de 21 de diciembre de 2006, relativa al registro, depósito y publicación del Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias, para la modificación del artículo 11 del vigente convenio colectivo, así como de la 
 
-Segundo.- Disponer el depÃ³sito del texto original.
+#### Disposición Transitoria Primera. Descargar en formato pdf
 
-Tercero.- Disponer su publicaciÃ³n en el BoletÃ­n Oficial de Canarias.
+Visto el Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias, para la modificación del artículo 11 del vigente convenio colectivo, así como de la 
 
-Contra el presente acto que no agota la vÃ­a administrativa, cabe recurso de alzada ante la Sra. Consejera de Empleo y Asuntos Sociales, en el plazo de un mes desde la notificaciÃ³n o publicaciÃ³n de la presente ResoluciÃ³n, y sin perjuicio de cualquier otro recurso que pudiera interponerse.
+#### Disposición Transitoria Primera, y de conformidad con lo dispuesto en el artº. 90 del Real Decreto Legislativo 1/1995, de 24 de marzo, por el que se aprueba el Texto Refundido de la Ley del Estatuto de los Trabajadores y los Reales Decretos 661/1984, de 25 de enero, y 1.033/1984, de 1 de abril, sobre traspaso de funciones y servicios del Estado a la Comunidad Autónoma de Canarias en materia de mediación, arbitraje y conciliación; el Real Decreto 1.040/1981, de 22 de mayo, sobre depósito y registro de Convenios Colectivos, y el Reglamento Orgánico de la Consejería de Empleo y Asuntos Sociales, modificado por el Decreto 39/2005, de 16 de marzo (B.O.C. nº 63, de 31.3.05), esta Dirección General de Trabajo
 
-Las Palmas de Gran Canaria, a 21 de diciembre de 2006.- El Director General de Trabajo, Pedro TomÃ¡s Pino PÃ©rez.
+ACUERDA:
 
-ACUERDO DE LA COMISIÃN NEGOCIADORA DEL CONVENIO COLECTIVO DEL PERSONAL LABORAL DE LA COMUNIDAD AUTÃNOMA DE CANARIAS, PARA LA MODIFICACIÃN DEL ARTÃCULO 11 DEL VIGENTE CONVENIO COLECTIVO, ASÃ COMO DE SU DIS DISPOSICIÃN TRANSITORIA PRIMERA.
+Primero.- Ordenar la inscripción en el Registro de Convenios Colectivos con notificación a la Comisión Negociadora.
 
-En Las Palmas de Gran Canaria, el dÃ­a diecisiete de noviembre de 2006, se reunieron los miembros de la ComisiÃ³n Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad AutÃ³noma de Canarias, al objeto de negociar y alcanzar un acuerdo de modificaciÃ³n parcial del vigente Convenio Colectivo, acordÃ¡ndose lo siguiente:
+Segundo.- Disponer el depósito del texto original.
 
-Primero.- Se modifica el artÃ­culo 11 del vigente Convenio Colectivo, en el sentido de aÃ±adir al primer pÃ¡rrafo de dicho artÃ­culo el inciso siguiente: "Para participar en este turno serÃ¡ necesario ostentar una antigÃ¼edad de al menos dos aÃ±os como personal laboral fijo en la categorÃ­a profesional desde la que se opta".
+Tercero.- Disponer su publicación en el Boletín Oficial de Canarias.
 
-Segundo.- Se modifica en su integridad la DisposiciÃ³n Transitoria Primera del vigente Convenio Colectivo, que queda redactada en los siguientes tÃ©rminos:
+Contra el presente acto que no agota la vía administrativa, cabe recurso de alzada ante la Sra. Consejera de Empleo y Asuntos Sociales, en el plazo de un mes desde la notificación o publicación de la presente Resolución, y sin perjuicio de cualquier otro recurso que pudiera interponerse.
 
-"DISPOSICIÃN TRANSITORIA PRIMERA:
+Las Palmas de Gran Canaria, a 21 de diciembre de 2006.- El Director General de Trabajo, Pedro Tomás Pino Pérez.
 
-A partir del momento de la entrada en vigor de la modificaciÃ³n parcial del CapÃ­tulo II de este convenio, y al objeto de normalizar la situaciÃ³n del personal laboral sujeto al mismo, se llevarÃ¡n a cabo con carÃ¡cter excepcional y por una sola vez, los procesos selectivos que se establecen a continuaciÃ³n:
+ACUERDO DE LA COMISIÓN NEGOCIADORA DEL CONVENIO COLECTIVO DEL PERSONAL LABORAL DE LA COMUNIDAD AUTÓNOMA DE CANARIAS, PARA LA MODIFICACIÓN DEL ARTÍCULO 11 DEL VIGENTE CONVENIO COLECTIVO, ASÍ COMO DE SU DIS 
 
-1Âº) PromociÃ³n interna, por el sistema de concurso de mÃ©ritos, entre el personal laboral fijo, fijo discontinuo, fijo a tiempo parcial y fijo discontinuo a tiempo parcial de la AdministraciÃ³n de la Comunidad AutÃ³noma de Canarias sujeto a este Convenio Colectivo, para cubrir puestos de trabajo correspondientes a categorÃ­as del mismo grupo o del inmediato superior o inferior al que se pertenezca.
+#### DISPOSICIÓN TRANSITORIA PRIMERA. En Las Palmas de Gran Canaria, el día diecisiete de noviembre de 2006, se reunieron los miembros de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias, al objeto de negociar y alcanzar un acuerdo de modificación parcial del vigente Convenio Colectivo, acordándose lo siguiente:
 
-Para poder participar en dicha promociÃ³n serÃ¡ necesario ostentar una antigÃ¼edad como personal laboral fijo de al menos cinco aÃ±os. A estos efectos, se entenderÃ¡ que la antigÃ¼edad como personal laboral fijo es aquella ostentada a partir del momento de la obtenciÃ³n del vÃ­nculo de fijeza.
+Primero.- Se modifica el artículo 11 del vigente Convenio Colectivo, en el sentido de añadir al primer párrafo de dicho artículo el inciso siguiente: "Para participar en este turno será necesario ostentar una antigüedad de al menos dos años como personal laboral fijo en la categoría profesional desde la que se opta".
 
-En esta promociÃ³n, que podrÃ¡ efectuarse mediante convocatoria conjunta o individualizada por grupos retributivos, se ofertarÃ¡n los puestos vacantes no ocupados existentes en el momento de su aprobaciÃ³n, asÃ­ como los puestos ocupados por personal laboral no sustituto que se determinen por la AdministraciÃ³n previo acuerdo con las organizaciones sindicales, y los puestos ocupados por personal laboral fijo.
+Segundo.- Se modifica en su integridad la 
 
-La adjudicaciÃ³n de los puestos de personal laboral fijo se condiciona a que queden vacantes a resultas de la promociÃ³n.
+#### Disposición Transitoria Primera del vigente Convenio Colectivo, que queda redactada en los siguientes términos:. "DISPOSICIÓN TRANSITORIA PRIMERA:
 
-El personal laboral temporal que, como consecuencia de esta promociÃ³n interna, vea extinguido su contrato de trabajo, entrarÃ¡ a formar parte de una bolsa de trabajo para la cobertura temporal de plazas de su misma categorÃ­a profesional. Dicha bolsa tendrÃ¡ la consideraciÃ³n de lista de reserva aplicable a las contrataciones a efectuar por aquellos Departamentos u Organismos que carezcan de listas propias en la categorÃ­a que se trate, y su vigencia se extenderÃ¡ hasta la culminaciÃ³n de los procedimientos previstos en esta DisposiciÃ³n Transitoria, que afecten al grupo retributivo correspondiente. En el caso de que dicho personal provenga de una convocatoria que constituyÃ³ lista de reserva, se incorporarÃ¡ a la misma segÃºn la puntuaciÃ³n obtenida en dicha convocatoria.
+A partir del momento de la entrada en vigor de la modificación parcial del 
 
-2Âº) Con las plazas no adjudicadas en el procedimiento descrito en el apartado anterior, incluyendo las posibles vacantes originadas por trabajadores promocionados en aquÃ©l, mÃ¡s las nuevas plazas vacantes que vayan surgiendo, se realizarÃ¡ una nueva convocatoria conjunta de promociÃ³n interna y de acceso libre.
+## Capítulo II. de este convenio, y al objeto de normalizar la situación del personal laboral sujeto al mismo, se llevarán a cabo con carácter excepcional y por una sola vez, los procesos selectivos que se establecen a continuación:
 
-En el turno de promociÃ³n interna podrÃ¡ participar el personal laboral fijo, fijo discontinuo, fijo a tiempo parcial y fijo discontinuo a tiempo parcial de la AdministraciÃ³n de la Comunidad AutÃ³noma de Canarias sujeto a este convenio colectivo para cubrir aquellos puestos de trabajo ofertados correspondientes a categorÃ­as de grupos superiores, independientemente del grupo al que se pertenezca.
+1º) Promoción interna, por el sistema de concurso de méritos, entre el personal laboral fijo, fijo discontinuo, fijo a tiempo parcial y fijo discontinuo a tiempo parcial de la Administración de la Comunidad Autónoma de Canarias sujeto a este Convenio Colectivo, para cubrir puestos de trabajo correspondientes a categorías del mismo grupo o del inmediato superior o inferior al que se pertenezca.
 
-Para poder participar en dicha promociÃ³n serÃ¡ necesario ostentar una antigÃ¼edad como personal laboral fijo de al menos cinco aÃ±os. A estos efectos, se entenderÃ¡ que la antigÃ¼edad como personal laboral fijo es aquella ostentada a partir del momento de la obtenciÃ³n del vÃ­nculo de fijeza.
+Para poder participar en dicha promoción será necesario ostentar una antigüedad como personal laboral fijo de al menos cinco años. A estos efectos, se entenderá que la antigüedad como personal laboral fijo es aquella ostentada a partir del momento de la obtención del vínculo de fijeza.
 
-En el turno de acceso libre, se ofertarÃ¡n las plazas ocupadas por personal laboral temporal no sustituto que no se hayan convocado con anterioridad. AsÃ­ mismo, podrÃ¡n ofertarse las plazas no adjudicadas en el turno de promociÃ³n interna que se determinen, las cuales acrecerÃ¡n a aquÃ©l.
+En esta promoción, que podrá efectuarse mediante convocatoria conjunta o individualizada por grupos retributivos, se ofertarán los puestos vacantes no ocupados existentes en el momento de su aprobación, así como los puestos ocupados por personal laboral no sustituto que se determinen por la Administración previo acuerdo con las organizaciones sindicales, y los puestos ocupados por personal laboral fijo.
 
-El sistema selectivo serÃ¡ el de concurso-oposiciÃ³n. Las pruebas de la fase de oposiciÃ³n versarÃ¡n sobre un temario especÃ­fico de la categorÃ­a profesional a la que se opta. En la fase de concurso para el personal de nuevo ingreso se valorarÃ¡n preferentemente los servicios prestados en la AdministraciÃ³n de la Comunidad AutÃ³noma de Canarias. La fase de concurso para el personal de promociÃ³n interna serÃ¡ previa a la fase de oposiciÃ³n.
+La adjudicación de los puestos de personal laboral fijo se condiciona a que queden vacantes a resultas de la promoción.
 
-La convocatoria podrÃ¡ efectuarse con inclusiÃ³n de todos los grupos retributivos o por grupos individualizados.
+El personal laboral temporal que, como consecuencia de esta promoción interna, vea extinguido su contrato de trabajo, entrará a formar parte de una bolsa de trabajo para la cobertura temporal de plazas de su misma categoría profesional. Dicha bolsa tendrá la consideración de lista de reserva aplicable a las contrataciones a efectuar por aquellos Departamentos u Organismos que carezcan de listas propias en la categoría que se trate, y su vigencia se extenderá hasta la culminación de los procedimientos previstos en esta Disposición Transitoria, que afecten al grupo retributivo correspondiente. En el caso de que dicho personal provenga de una convocatoria que constituyó lista de reserva, se incorporará a la misma según la puntuación obtenida en dicha convocatoria.
 
-2. Las bases de las convocatorias a que hace referencia el nÃºmero anterior serÃ¡n establecidas por la AdministraciÃ³n, previa negociaciÃ³n con el ComitÃ© Intercentros.
+2º) Con las plazas no adjudicadas en el procedimiento descrito en el apartado anterior, incluyendo las posibles vacantes originadas por trabajadores promocionados en aquél, más las nuevas plazas vacantes que vayan surgiendo, se realizará una nueva convocatoria conjunta de promoción interna y de acceso libre.
 
-3. Hasta la culminaciÃ³n de los procesos selectivos previstos en esta DisposiciÃ³n no se llevarÃ¡n a cabo los sistemas de selecciÃ³n y provisiÃ³n establecidos en el CapÃ­tulo II del Convenio."
+En el turno de promoción interna podrá participar el personal laboral fijo, fijo discontinuo, fijo a tiempo parcial y fijo discontinuo a tiempo parcial de la Administración de la Comunidad Autónoma de Canarias sujeto a este convenio colectivo para cubrir aquellos puestos de trabajo ofertados correspondientes a categorías de grupos superiores, independientemente del grupo al que se pertenezca.
 
-Por la AdministraciÃ³n: el Viceconsejero de AdministraciÃ³n PÃºblica; el Director General de la FunciÃ³n PÃºblica.- Por el ComitÃ© Intercentros: el Presidente; el Secretario.
+Para poder participar en dicha promoción será necesario ostentar una antigüedad como personal laboral fijo de al menos cinco años. A estos efectos, se entenderá que la antigüedad como personal laboral fijo es aquella ostentada a partir del momento de la obtención del vínculo de fijeza.
+
+En el turno de acceso libre, se ofertarán las plazas ocupadas por personal laboral temporal no sustituto que no se hayan convocado con anterioridad. Así mismo, podrán ofertarse las plazas no adjudicadas en el turno de promoción interna que se determinen, las cuales acrecerán a aquél.
+
+El sistema selectivo será el de concurso-oposición. Las pruebas de la fase de oposición versarán sobre un temario específico de la categoría profesional a la que se opta. En la fase de concurso para el personal de nuevo ingreso se valorarán preferentemente los servicios prestados en la Administración de la Comunidad Autónoma de Canarias. La fase de concurso para el personal de promoción interna será previa a la fase de oposición.
+
+La convocatoria podrá efectuarse con inclusión de todos los grupos retributivos o por grupos individualizados.
+
+2. Las bases de las convocatorias a que hace referencia el número anterior serán establecidas por la Administración, previa negociación con el Comité Intercentros.
+
+3. Hasta la culminación de los procesos selectivos previstos en esta Disposición no se llevarán a cabo los sistemas de selección y provisión establecidos en el 
+
+## Capítulo II. del Convenio."
+
+Por la Administración: el Viceconsejero de Administración Pública; el Director General de la Función Pública.- Por el Comité Intercentros: el Presidente; el Secretario.

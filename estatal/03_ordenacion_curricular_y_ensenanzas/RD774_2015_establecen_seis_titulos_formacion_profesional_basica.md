@@ -1,10 +1,13 @@
 ---
 id: norm-es-2015-9462
 codigo_sintetizado: BOE-A-2015-9462
-titulo: Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis Títulos de Formación Profesional Básica del catálogo de Títulos de las enseñanzas de Formación Profesional.
+titulo: Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis Títulos
+  de Formación Profesional Básica del catálogo de Títulos de las enseñanzas de Formación
+  Profesional.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2015-08-29'
 boletin: BOE
@@ -15,36 +18,29 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-  - curriculo
-  - formacion-profesional
-  - fp-basica
-  - titulacion
+- curriculo
+- formacion-profesional
+- fp-basica
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2002-12018
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-l-31-1995
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-31-1995
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
-    - norma_id: norm-es-2024-10683
+  - norma_id: norm-es-2024-10683
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-es-lo-2-2006
-  articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-l-31-1995
-  articulos:
-    - '1'
-    - norma_id: norm-es-2002-12018
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 ---
 # Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis Títulos de Formación Profesional Básica del catálogo de Títulos de las enseñanzas de Formación Profesional.
 
@@ -70,11 +66,11 @@ En su virtud, a propuesta del Ministro de Educación, Cultura y Deporte y previa
 
 #### Artículo 1. Objeto y ámbito de aplicación.
 
-1. Este real decreto tiene por objeto desarrollar el catálogo de títulos de las enseñanzas de formación profesional del sistema educativo mediante el establecimiento de seis nuevos títulos de formación profesional básica, de conformidad con el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de formación profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
+1. Este real decreto tiene por objeto desarrollar el catálogo de títulos de las enseñanzas de formación profesional del sistema educativo mediante el establecimiento de seis nuevos títulos de formación profesional básica, de conformidad con el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de formación profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
-2. Para cada uno de los títulos de formación profesional básica regulado en los anexos I a VI se establecen el currículo básico, los parámetros básicos del contexto formativo, la correspondencia entre módulos profesionales y unidades de competencia para su acreditación o convalidación, y los ciclos formativos de grado medio a los que el título permite la aplicación de criterios preferentes para la admisión en caso de concurrencia competitiva.
+2. Para cada uno de los títulos de formación profesional básica regulado en los anexos I a VI se establecen el currículo básico, los parámetros básicos del contexto formativo, la correspondencia entre módulos profesionales y unidades de competencia para su acreditación o convalidación, y los ciclos formativos de grado medio a los que el título permite la aplicación de criterios preferentes para la admisión en caso de concurrencia competitiva.
 
-3. Los títulos de formación profesional básica tienen carácter oficial y validez en todo el territorio nacional y no constituyen una regulación del ejercicio profesional.
+3. Los títulos de formación profesional básica tienen carácter oficial y validez en todo el territorio nacional y no constituyen una regulación del ejercicio profesional.
 
 #### Artículo 2. Títulos de Formación Profesional Básica que se establecen.
 
@@ -98,9 +94,7 @@ El presente real decreto se dicta al amparo del artículo 149.1.30.ª de la Cons
 
 #### Disposición final segunda. Entrada en vigor.
 
-Dado en Madrid, el 28 de agosto de 2015.
-
-FELIPE R.
+Dado en Madrid, el 28 de agosto de 2015. FELIPE R.
 
 El Ministro de Educación, Cultura y Deporte,
 
@@ -110,7 +104,7 @@ El Ministro de Educación, Cultura y Deporte,
 
 Título profesional básico en actividades de panadería y pastelería
 
-1. Identificación del título.
+1. Identificación del título.
 
 El Título profesional básico en actividades de panadería y pastelería queda identificado por los siguientes elementos:
 
@@ -124,7 +118,7 @@ El Título profesional básico en actividades de panadería y pastelería queda 
 
 – Referente europeo: CINE-3.5.3. (Clasificación Internacional Normalizada de la Educación).
 
-2. Perfil profesional.
+2. Perfil profesional.
 
 **2.1** Competencia general del título.
 
@@ -244,7 +238,7 @@ f) Es importante el manejo de lenguas extranjeras, pues estos profesionales, ade
 
 g) Finalmente, en este mundo globalizado e interconexionado se hace imprescindible la actitud favorable hacia el trabajo en equipo, la autoformación y la adecuada responsabilidad para alcanzar las competencias propias del perfil.
 
-3. Enseñanzas del ciclo formativo.
+3. Enseñanzas del ciclo formativo.
 
 **3.1** Objetivos generales del título.
 
@@ -340,7 +334,7 @@ Código: 3007
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Elabora diferentes tipos de panes, utilizando materias primas, maquinaria y aplicando las técnicas básicas para su obtención.
+1. Elabora diferentes tipos de panes, utilizando materias primas, maquinaria y aplicando las técnicas básicas para su obtención.
 
 Criterios de evaluación:
 
@@ -366,7 +360,7 @@ j) Se han aplicado técnicas de conservación y regeneración según la naturale
 
 k) Se han aplicado métodos y productos de limpieza para mantener a punto la maquinaria y utillaje utilizados en la elaboración de las pastas.
 
-2. Elabora rellenos salados aptos para su utilización posterior en productos de panadería, utilizando técnicas básicas de cocción y fritura, y utilizando géneros crudos como vegetales y frutos secos, entre otros.
+2. Elabora rellenos salados aptos para su utilización posterior en productos de panadería, utilizando técnicas básicas de cocción y fritura, y utilizando géneros crudos como vegetales y frutos secos, entre otros.
 
 Criterios de evaluación:
 
@@ -386,7 +380,7 @@ g) Se han utilizado los métodos y equipos establecidos en la regeneración de p
 
 h) Se han aplicado métodos y productos de limpieza durante los procedimientos de elaboración y cocción para mantener a punto la maquinaria y utillaje utilizados en la elaboración de cremas y rellenos dulces y salados, valorando las normas de higiene en la elaboración de alimentos.
 
-3. Elabora y decora productos de bollería, utilizando técnicas y normas básicas de producción que les hace aptos para el consumo y atractivos para la venta.
+3. Elabora y decora productos de bollería, utilizando técnicas y normas básicas de producción que les hace aptos para el consumo y atractivos para la venta.
 
 Criterios de evaluación:
 
@@ -406,7 +400,7 @@ g) Se han aplicado técnicas de conservación, según la naturaleza de los produ
 
 h) Se han aplicado métodos y productos de limpieza para mantener a punto la maquinaria y utillaje utilizados en la elaboración de las pastas.
 
-4. Elabora cremas y coberturas para productos de bollería, utilizando técnicas y normas básicas de producción.
+4. Elabora cremas y coberturas para productos de bollería, utilizando técnicas y normas básicas de producción.
 
 Criterios de evaluación:
 
@@ -528,7 +522,7 @@ Código: 3017
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Conserva géneros crudos y elaborados para su posterior regeneración y uso, operando equipos sencillos y utilizando técnicas específicas al tipo de producto.
+1. Conserva géneros crudos y elaborados para su posterior regeneración y uso, operando equipos sencillos y utilizando técnicas específicas al tipo de producto.
 
 Criterios de evaluación:
 
@@ -544,7 +538,7 @@ e) Se han aplicado las operaciones previas que necesitan los productos crudos y 
 
 f) Se ha reconocido la importancia de obtener el máximo rendimiento de la materias primas y productos conservados para rentabilizar los costes y evitar desgastes innecesarios
 
-2. Prepara masas de pastelería dulce y salada, utilizando técnicas básicas de elaboración de productos, como el amasado y la fermentación, entre otros.
+2. Prepara masas de pastelería dulce y salada, utilizando técnicas básicas de elaboración de productos, como el amasado y la fermentación, entre otros.
 
 Criterios de evaluación:
 
@@ -566,7 +560,7 @@ h) Se han aplicado procedimientos en el uso de las materias primas y de los medi
 
 i) Se han aplicado métodos y productos de limpieza durante los procedimientos de elaboración y cocción para mantener a punto la maquinaria y utillaje utilizados en la elaboración de masas, valorando las normas de higiene en la elaboración de alimentos.
 
-3. Prepara pastas dulces y saladas de poca complejidad, utilizando técnicas básicas de cocinado para obtener productos de pastelería acabados o preparados de uso posterior.
+3. Prepara pastas dulces y saladas de poca complejidad, utilizando técnicas básicas de cocinado para obtener productos de pastelería acabados o preparados de uso posterior.
 
 Criterios de evaluación:
 
@@ -588,7 +582,7 @@ h) Se han aplicado procedimientos adecuados en el uso de las materias primas y d
 
 i) Se han aplicado métodos y productos de limpieza durante los procedimientos de elaboración y cocción para mantener a punto la maquinaria y utillaje utilizados en la elaboración de masas, valorando las normas de higiene en la elaboración de alimentos.
 
-4. Realiza actividades auxiliares en la preparación de cremas y rellenos dulces y salados, utilizando técnicas básicas de elaboración, de modo que resulten aptos para su consumo y uso posterior en productos de pastelería.
+4. Realiza actividades auxiliares en la preparación de cremas y rellenos dulces y salados, utilizando técnicas básicas de elaboración, de modo que resulten aptos para su consumo y uso posterior en productos de pastelería.
 
 Criterios de evaluación:
 
@@ -610,7 +604,7 @@ h) Se han aplicado procedimientos en el uso de las materias primas y de los medi
 
 i) Se han aplicado métodos y productos de limpieza durante los procedimientos de elaboración y cocción para mantener a punto la maquinaria y utillaje utilizados en la elaboración de cremas y rellenos dulces y salados, valorando las normas de higiene en la elaboración de alimentos.
 
-5. Realiza actividades auxiliares a la preparación de jarabes, confituras y gelatinas, utilizando técnicas básicas de elaboración de modo que resulten aptos para su consumo y uso posterior en productos de pastelería.
+5. Realiza actividades auxiliares a la preparación de jarabes, confituras y gelatinas, utilizando técnicas básicas de elaboración de modo que resulten aptos para su consumo y uso posterior en productos de pastelería.
 
 Criterios de evaluación:
 
@@ -630,7 +624,7 @@ g) Se han aplicados procedimientos en el uso de las materias primas y de los med
 
 h) Se han aplicado métodos y productos de limpieza durante los procedimientos de elaboración y cocción para mantener a punto la maquinaria y utillaje utilizados en la elaboración de cremas y rellenos, valorando las normas de higiene en la elaboración de alimentos.
 
-6. Prepara chocolates, granizados, batidos, zumos, cafés e infusiones y otras bebidas elaboradas a partir de especificaciones para su consumo directo.
+6. Prepara chocolates, granizados, batidos, zumos, cafés e infusiones y otras bebidas elaboradas a partir de especificaciones para su consumo directo.
 
 Criterios de evaluación:
 
@@ -652,7 +646,7 @@ h) Se han aplicado procedimientos en el uso de las materias primas y de los medi
 
 i) Se han aplicado métodos y productos de limpieza durante los procedimientos de elaboración y cocción para mantener a punto la maquinaria y utillaje utilizados en la elaboración de bebidas específicas de pastelerías, valorando las normas de higiene en la elaboración de alimentos.
 
-7. Cumple las normas higiénico-sanitarias de seguridad laboral y de manipulación de alimentos para evitar riesgos laborales, ambientales y de toxiinfecciones alimentarias en pastelería.
+7. Cumple las normas higiénico-sanitarias de seguridad laboral y de manipulación de alimentos para evitar riesgos laborales, ambientales y de toxiinfecciones alimentarias en pastelería.
 
 Criterios de evaluación:
 
@@ -802,7 +796,7 @@ Código: 3026
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Monta expositores, elementos atractivos y de animación en puntos destinados a la venta de productos de panadería y pastelería, aplicando criterios comerciales propios de las técnicas de escaparatismo.
+1. Monta expositores, elementos atractivos y de animación en puntos destinados a la venta de productos de panadería y pastelería, aplicando criterios comerciales propios de las técnicas de escaparatismo.
 
 Criterios de evaluación:
 
@@ -820,7 +814,7 @@ f) Se han diferenciado distintos tipos de mobiliario y los elementos promocional
 
 g) Se han seguido las normas de seguridad y prevención de riesgos laborales y las instrucciones del fabricante de montaje y uso del mobiliario.
 
-2. Coloca en mostradores, escaparates y expositores, productos de panadería y pastelería, atendiendo a las características de los productos y siguiendo técnicas básicas de venta.
+2. Coloca en mostradores, escaparates y expositores, productos de panadería y pastelería, atendiendo a las características de los productos y siguiendo técnicas básicas de venta.
 
 Criterios de evaluación:
 
@@ -836,7 +830,7 @@ e) Se han marcado las etiquetas de identificación, venta y control de los produ
 
 f) Se han aplicado las medidas específicas de manipulación e higiene de los distintos productos.
 
-3. Coloca etiquetas, dispositivos de seguridad y dispensa los productos de panadería y pastelería, valorando la relevancia del sistema de codificación en el control del punto de venta y las técnicas de dispensación al cliente.
+3. Coloca etiquetas, dispositivos de seguridad y dispensa los productos de panadería y pastelería, valorando la relevancia del sistema de codificación en el control del punto de venta y las técnicas de dispensación al cliente.
 
 Criterios de evaluación:
 
@@ -926,7 +920,7 @@ Código: 3005
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Atiende a posibles clientes, reconociendo las diferentes técnicas de comunicación.
+1. Atiende a posibles clientes, reconociendo las diferentes técnicas de comunicación.
 
 Criterios de evaluación:
 
@@ -948,7 +942,7 @@ h) Se ha mantenido una actitud conciliadora y sensible a los demás, demostrando
 
 i) Se ha trasmitido información con claridad, de manera ordenada, estructura clara y precisa.
 
-2. Comunica al posible cliente las diferentes posibilidades del servicio, justificándolas desde el punto de vista técnico.
+2. Comunica al posible cliente las diferentes posibilidades del servicio, justificándolas desde el punto de vista técnico.
 
 Criterios de evaluación:
 
@@ -968,7 +962,7 @@ g) Se ha asesorado al cliente sobre la opción más recomendable, cuando existen
 
 h) Se ha solicitado al cliente que comunique la elección de la opción elegida.
 
-3. Informa al probable cliente del servicio realizado, justificando las operaciones ejecutadas.
+3. Informa al probable cliente del servicio realizado, justificando las operaciones ejecutadas.
 
 Criterios de evaluación:
 
@@ -988,7 +982,7 @@ g) Se ha intentado la fidelización del cliente con el buen resultado del trabaj
 
 h) Se han definido periodo de garantía y las obligaciones legales aparejadas.
 
-4. Atiende reclamaciones de posibles clientes, reconociendo el protocolo de actuación.
+4. Atiende reclamaciones de posibles clientes, reconociendo el protocolo de actuación.
 
 Criterios de evaluación:
 
@@ -1074,7 +1068,7 @@ Código: 3133
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Colabora en el trabajo de control y recepción de materias primas y de productos auxiliares, registrando las mediciones previas y ejecutando posteriores instrucciones.
+1. Colabora en el trabajo de control y recepción de materias primas y de productos auxiliares, registrando las mediciones previas y ejecutando posteriores instrucciones.
 
 Criterios de evaluación:
 
@@ -1088,7 +1082,7 @@ d) Se han transportado y depositado las materias primas, atendiendo a las instru
 
 e) Se han realizado todas las operaciones, teniendo en cuenta la normativa higiénico-sanitaria, de seguridad laboral y de protección medioambiental.
 
-2. Prepara las materias primas y los productos auxiliares, realizando las operaciones básicas necesarias y atendiendo a las instrucciones del proceso previo a la elaboración.
+2. Prepara las materias primas y los productos auxiliares, realizando las operaciones básicas necesarias y atendiendo a las instrucciones del proceso previo a la elaboración.
 
 Criterios de evaluación:
 
@@ -1104,7 +1098,7 @@ e) Se ha controlado el ritmo del proceso, evitando atascos o excesos en la entra
 
 f) Se han realizado todas las operaciones, teniendo en cuenta la normativa higiénico-sanitaria, de seguridad laboral y de protección medioambiental.
 
-3. Prepara materiales de envasado, acondicionado y embalaje de productos alimentarios, regulando los equipos específicos según las instrucciones de trabajo.
+3. Prepara materiales de envasado, acondicionado y embalaje de productos alimentarios, regulando los equipos específicos según las instrucciones de trabajo.
 
 Criterios de evaluación:
 
@@ -1124,7 +1118,7 @@ g) Se han comprobado los materiales de acondicionamiento asociados a la presenta
 
 h) Se ha aplicado la normativa higiénico-sanitaria, las medidas de seguridad y prevención de riesgos laborales y ambientales asociados a las operaciones de preparación de materiales y preparación de equipos.
 
-4. Envasa y acondiciona los productos alimentarios, controlando las líneas automáticas del proceso de acuerdo con las instrucciones establecidas.
+4. Envasa y acondiciona los productos alimentarios, controlando las líneas automáticas del proceso de acuerdo con las instrucciones establecidas.
 
 Criterios de evaluación:
 
@@ -1140,7 +1134,7 @@ e) Se ha establecido la forma y el lugar donde deben depositarse los sobrantes y
 
 f) Se han aplicado la normativa higiénico-sanitaria, las medidas de seguridad y prevención de riesgos laborales y ambientales aplicados a la utilización de máquinas y equipos de envasado y acondicionado de productos.
 
-5. Empaqueta y embala los productos alimentarios envasados, operando con equipos automáticos o semiautomáticos, según las instrucciones de trabajo.
+5. Empaqueta y embala los productos alimentarios envasados, operando con equipos automáticos o semiautomáticos, según las instrucciones de trabajo.
 
 Criterios de evaluación:
 
@@ -1284,7 +1278,7 @@ Código: 3009
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Resuelve problemas matemáticos en situaciones cotidianas, utilizando los elementos básicos del lenguaje matemático y sus operaciones.
+1. Resuelve problemas matemáticos en situaciones cotidianas, utilizando los elementos básicos del lenguaje matemático y sus operaciones.
 
 Criterios de evaluación:
 
@@ -1308,7 +1302,7 @@ i) Se ha utilizado la regla de tres para resolver problemas en los que intervien
 
 j) Se ha aplicado el interés simple y compuesto en actividades cotidianas.
 
-2. Reconoce las instalaciones y el material de laboratorio valorándolos como recursos necesarios para la realización de las prácticas.
+2. Reconoce las instalaciones y el material de laboratorio valorándolos como recursos necesarios para la realización de las prácticas.
 
 Criterios de evaluación:
 
@@ -1318,7 +1312,7 @@ b) Se han manipulado adecuadamente los materiales instrumentales del laboratorio
 
 c) Se han tenido en cuenta las condiciones de higiene y seguridad para cada una de la técnicas experimentales que se van a realizar.
 
-3. Identifica propiedades fundamentales de la materia en las diferentes formas en las que se presenta en la naturaleza, manejando sus magnitudes físicas y sus unidades fundamentales en unidades de sistema métrico decimal.
+3. Identifica propiedades fundamentales de la materia en las diferentes formas en las que se presenta en la naturaleza, manejando sus magnitudes físicas y sus unidades fundamentales en unidades de sistema métrico decimal.
 
 Criterios de evaluación:
 
@@ -1342,7 +1336,7 @@ i) Se han reconocido los distintos estados de agregación de una sustancia dadas
 
 j) Se han establecido diferencias entre ebullición y evaporación utilizando ejemplos sencillos.
 
-4. Utiliza el método más adecuado para la separación de componentes de mezclas sencillas relacionándolo con el proceso físico o químico en que se basa.
+4. Utiliza el método más adecuado para la separación de componentes de mezclas sencillas relacionándolo con el proceso físico o químico en que se basa.
 
 Criterios de evaluación:
 
@@ -1360,7 +1354,7 @@ f) Se han descrito las características generales básicas de materiales relacio
 
 g) Se ha trabajado en equipo en la realización de tareas.
 
-5. Reconoce cómo la energía está presente en los procesos naturales describiendo fenómenos simples de la vida real.
+5. Reconoce cómo la energía está presente en los procesos naturales describiendo fenómenos simples de la vida real.
 
 Criterios de evaluación:
 
@@ -1378,7 +1372,7 @@ f) Se han mostrado en diferentes sistemas la conservación de la energía.
 
 g) Se han descrito procesos relacionados con el mantenimiento del organismo y de la vida en los que se aprecia claramente el papel de la energía.
 
-6. Localiza las estructuras anatómicas básica discriminando los sistemas o aparatos a los que pertenecen y asociándolos a las funciones que producen en el organismo.
+6. Localiza las estructuras anatómicas básica discriminando los sistemas o aparatos a los que pertenecen y asociándolos a las funciones que producen en el organismo.
 
 Criterios de evaluación:
 
@@ -1396,7 +1390,7 @@ f) Se ha detallado cómo funciona el proceso de relación.
 
 g) Se han utilizado herramientas informáticas describir adecuadamente los aparatos y sistemas.
 
-7. Diferencia la salud de la enfermedad, relacionando los hábitos de vida con las enfermedades más frecuentes reconociendo los principios básicos de defensa contra las mismas.
+7. Diferencia la salud de la enfermedad, relacionando los hábitos de vida con las enfermedades más frecuentes reconociendo los principios básicos de defensa contra las mismas.
 
 Criterios de evaluación:
 
@@ -1418,7 +1412,7 @@ h) Se han reconocido situaciones de riesgo para la salud relacionadas con su ent
 
 i) Se han diseñado pautas de hábitos saludables relacionados con situaciones cotidianas.
 
-8. Elabora menús y dietas equilibradas sencillas diferenciando los nutrientes que contienen y adaptándolos a los distintos parámetros corporales y a situaciones diversas.
+8. Elabora menús y dietas equilibradas sencillas diferenciando los nutrientes que contienen y adaptándolos a los distintos parámetros corporales y a situaciones diversas.
 
 Criterios de evaluación:
 
@@ -1436,7 +1430,7 @@ f) Se ha calculado el metabolismo basal y sus resultados se ha representado en u
 
 g) Se han elaborado menús para situaciones concretas, investigando en la red las propiedades de los alimentos.
 
-9. Resuelve situaciones cotidianas, utilizando expresiones algebraicas sencillas y aplicando los métodos de resolución más adecuados.
+9. Resuelve situaciones cotidianas, utilizando expresiones algebraicas sencillas y aplicando los métodos de resolución más adecuados.
 
 Criterios de evaluación:
 
@@ -1604,7 +1598,7 @@ Código: 3042
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Resuelve situaciones cotidianas aplicando los métodos de resolución de ecuaciones y sistemas y valorando la precisión, simplicidad y utilidad del lenguaje algebraico.
+1. Resuelve situaciones cotidianas aplicando los métodos de resolución de ecuaciones y sistemas y valorando la precisión, simplicidad y utilidad del lenguaje algebraico.
 
 Criterios de evaluación:
 
@@ -1618,7 +1612,7 @@ d) Se han resuelto problemas cotidianos y de otras áreas de conocimiento median
 
 e) Se ha valorado la precisión, simplicidad y utilidad del lenguaje algebraico para representar situaciones planteadas en la vida real.
 
-2. Resuelve problemas sencillos de diversa índole, a través de su análisis contrastado y aplicando las fases del método científico.
+2. Resuelve problemas sencillos de diversa índole, a través de su análisis contrastado y aplicando las fases del método científico.
 
 Criterios de evaluación:
 
@@ -1634,7 +1628,7 @@ e) Se han recopilado los resultados de los ensayos de verificación y plasmado e
 
 f) Se ha defendido el resultado con argumentaciones y pruebas las verificaciones o refutaciones de las hipótesis emitidas.
 
-3. Realiza medidas directas e indirectas de figuras geométricas presentes en contextos reales, utilizando los instrumentos, las fórmulas y las técnicas necesarias.
+3. Realiza medidas directas e indirectas de figuras geométricas presentes en contextos reales, utilizando los instrumentos, las fórmulas y las técnicas necesarias.
 
 Criterios de evaluación:
 
@@ -1648,7 +1642,7 @@ d) Se ha trabajado en equipo en la obtención de medidas.
 
 e) Se han utilizado las TIC para representar distintas figuras.
 
-4. Interpreta gráficas de dos magnitudes calculando los parámetros significativos de las mismas y relacionándolo con funciones matemáticas elementales y los principales valores estadísticos.
+4. Interpreta gráficas de dos magnitudes calculando los parámetros significativos de las mismas y relacionándolo con funciones matemáticas elementales y los principales valores estadísticos.
 
 Criterios de evaluación:
 
@@ -1672,7 +1666,7 @@ i) Se han aplicado las propiedades de los sucesos y la probabilidad.
 
 j) Se han resueltos problemas cotidianos mediante cálculos de probabilidad sencillos.
 
-5. Aplica técnicas físicas o químicas, utilizando el material necesario, para la realización de prácticas de laboratorio sencillas, midiendo las magnitudes implicadas.
+5. Aplica técnicas físicas o químicas, utilizando el material necesario, para la realización de prácticas de laboratorio sencillas, midiendo las magnitudes implicadas.
 
 Criterios de evaluación:
 
@@ -1686,7 +1680,7 @@ d) Se ha descrito la célula y tejidos animales y vegetales mediante su observac
 
 e) Se han elaborado informes de ensayos en los que se incluye el procedimiento seguido, los resultados obtenidos y las conclusiones finales.
 
-6. Reconoce las reacciones químicas que se producen en los procesos biológicos y en la industria argumentando su importancia en la vida cotidiana y describiendo los cambios que se producen.
+6. Reconoce las reacciones químicas que se producen en los procesos biológicos y en la industria argumentando su importancia en la vida cotidiana y describiendo los cambios que se producen.
 
 Criterios de evaluación:
 
@@ -1702,7 +1696,7 @@ e) Se han identificado los componentes y el proceso de reacciones químicas senc
 
 f) Se han elaborado informes utilizando las TIC sobre las industrias más relevantes: alimentarias, cosmética, reciclaje, describiendo de forma sencilla los procesos que tienen lugar en las mismas.
 
-7. Identifica aspectos positivos y negativos del uso de la energía nuclear describiendo los efectos de la contaminación generada en su aplicación.
+7. Identifica aspectos positivos y negativos del uso de la energía nuclear describiendo los efectos de la contaminación generada en su aplicación.
 
 Criterios de evaluación:
 
@@ -1716,7 +1710,7 @@ d) Se ha argumentado sobre la problemática de los residuos nucleares.
 
 e) Se ha trabajado en equipo y utilizado las TIC.
 
-8. Identifica los cambios que se producen en el planeta tierra argumentando sus causas y teniendo en cuenta las diferencias que existen entre relieve y paisaje.
+8. Identifica los cambios que se producen en el planeta tierra argumentando sus causas y teniendo en cuenta las diferencias que existen entre relieve y paisaje.
 
 Criterios de evaluación:
 
@@ -1730,7 +1724,7 @@ d) Se ha descrito el proceso de transporte discriminando los agentes geológicos
 
 e) Se ha analizado el proceso de sedimentación discriminado los agentes geológicos externos que intervienen, las situaciones y las consecuencias en el relieve.
 
-9. Categoriza los contaminantes atmosféricos principales identificando sus orígenes y relacionándolos con los efectos que producen.
+9. Categoriza los contaminantes atmosféricos principales identificando sus orígenes y relacionándolos con los efectos que producen.
 
 Criterios de evaluación:
 
@@ -1742,7 +1736,7 @@ c) Se ha descrito el efecto invernadero argumentando las causas que lo originan 
 
 d) Se ha descrito la problemática que ocasiona la pérdida paulatina de la capa de ozono, las consecuencias para la salud de las personas, el equilibrio de la hidrosfera y las poblaciones.
 
-10. Identifica los contaminantes del agua relacionando su efecto en el medio ambiente con su tratamiento de depuración.
+10. Identifica los contaminantes del agua relacionando su efecto en el medio ambiente con su tratamiento de depuración.
 
 Criterios de evaluación:
 
@@ -1754,7 +1748,7 @@ c) Se han identificado posibles contaminantes en muestras de agua de distinto or
 
 d) Se ha analizado los efectos producidos por la contaminación del agua y el uso responsable de la misma.
 
-11. Contribuye al equilibrio medioambientaI analizando y argumentando las líneas básicas sobre el desarrollo sostenible y proponiendo acciones para su mejora y conservación.
+11. Contribuye al equilibrio medioambientaI analizando y argumentando las líneas básicas sobre el desarrollo sostenible y proponiendo acciones para su mejora y conservación.
 
 Criterios de evaluación:
 
@@ -1766,7 +1760,7 @@ c) Se han diseñado estrategias básicas para posibilitar el mantenimiento del m
 
 d) Se ha trabajado en equipo en la identificación de los objetivos para la mejora del medioambiente.
 
-12. Relaciona las fuerzas que aparecen en situaciones habituales con los efectos producidos teniendo en cuenta su contribución al movimiento o reposo de los objetos y las magnitudes puestas en juego.
+12. Relaciona las fuerzas que aparecen en situaciones habituales con los efectos producidos teniendo en cuenta su contribución al movimiento o reposo de los objetos y las magnitudes puestas en juego.
 
 Criterios de evaluación:
 
@@ -1784,7 +1778,7 @@ f) Se ha descrito la relación causa-efecto en distintas situaciones, para encon
 
 g) Se han aplicado las leyes de Newton en situaciones de la vida cotidiana.
 
-13. Identifica los aspectos básicos de la producción, transporte y utilización de la energía eléctrica y los factores que intervienen en su consumo, describiendo los cambios producidos y las magnitudes y valores característicos.
+13. Identifica los aspectos básicos de la producción, transporte y utilización de la energía eléctrica y los factores que intervienen en su consumo, describiendo los cambios producidos y las magnitudes y valores característicos.
 
 Criterios de evaluación:
 
@@ -1800,7 +1794,7 @@ e) Se han descrito básicamente las etapas de la distribución de la energía el
 
 f) Se trabajado en equipo en la recopilación de información sobre centrales eléctricas en España.
 
-14. Previene la posibilidad de aparición de enfermedades básicas, utilizando técnicas de mantenimiento y desinfección de los utensilios y aparatos utilizados en las actuaciones derivadas de su profesión.
+14. Previene la posibilidad de aparición de enfermedades básicas, utilizando técnicas de mantenimiento y desinfección de los utensilios y aparatos utilizados en las actuaciones derivadas de su profesión.
 
 Criterios de evaluación:
 
@@ -2028,7 +2022,7 @@ Código: 3011
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Valora la evolución histórica de las sociedades prehistóricas y de la Edad Antigua y sus relaciones con los paisajes naturales, analizando los factores y elementos implicados, y desarrollando actitudes y valores de aprecio del patrimonio natural y artístico.
+1. Valora la evolución histórica de las sociedades prehistóricas y de la Edad Antigua y sus relaciones con los paisajes naturales, analizando los factores y elementos implicados, y desarrollando actitudes y valores de aprecio del patrimonio natural y artístico.
 
 Criterios de evaluación:
 
@@ -2050,7 +2044,7 @@ h) Se han elaborado instrumentos sencillos de recogida de información mediante 
 
 i) Se han desarrollado comportamientos acordes con el desarrollo del propio esfuerzo y el trabajo colaborativo.
 
-2. Valora la construcción del espacio europeo hasta las primeras transformaciones industriales y sociedades agrarias, analizando sus características principales y valorando su pervivencia en la sociedad actual y en el entorno inmediato.
+2. Valora la construcción del espacio europeo hasta las primeras transformaciones industriales y sociedades agrarias, analizando sus características principales y valorando su pervivencia en la sociedad actual y en el entorno inmediato.
 
 Criterios de evaluación:
 
@@ -2072,7 +2066,7 @@ h) Se han elaborado instrumentos sencillos de recogida de información mediante 
 
 i) Se han desarrollado comportamientos acordes con el desarrollo del propio esfuerzo y el trabajo en equipo.
 
-3. Utiliza estrategias comunicativas para interpretar y comunicar información oral en lengua castellana, aplicando los principios de la escucha activa, estrategias sencillas de composición y las normas lingüísticas básicas.
+3. Utiliza estrategias comunicativas para interpretar y comunicar información oral en lengua castellana, aplicando los principios de la escucha activa, estrategias sencillas de composición y las normas lingüísticas básicas.
 
 Criterios de evaluación:
 
@@ -2086,7 +2080,7 @@ d) Se han analizado los usos y niveles de la lengua y las normas lingüísticas 
 
 e) Se ha utilizado la terminología gramatical apropiada en la comprensión de las actividades gramaticales propuestas y en la resolución de las mismas.
 
-4. Utiliza estrategias comunicativas para interpretar y comunicar información escrita en lengua castellana, aplicando estrategias de lectura comprensiva y aplicando estrategias de análisis, síntesis y clasificación de forma estructurada y progresiva a la composición autónoma de textos breves seleccionados.
+4. Utiliza estrategias comunicativas para interpretar y comunicar información escrita en lengua castellana, aplicando estrategias de lectura comprensiva y aplicando estrategias de análisis, síntesis y clasificación de forma estructurada y progresiva a la composición autónoma de textos breves seleccionados.
 
 Criterios de evaluación:
 
@@ -2108,7 +2102,7 @@ h) Se han observado pautas de presentación de trabajos escritos teniendo en cue
 
 i) Se han resuelto actividades de comprensión y análisis de las estructuras gramaticales, comprobando la validez de las inferencias realizadas.
 
-5. Realiza la lectura de textos literarios representativos de la Literatura en lengua castellana anteriores al siglo XIX, generando criterios estéticos para la construcción del gusto personal.
+5. Realiza la lectura de textos literarios representativos de la Literatura en lengua castellana anteriores al siglo XIX, generando criterios estéticos para la construcción del gusto personal.
 
 Criterios de evaluación:
 
@@ -2122,7 +2116,7 @@ d) Se han aplicado estrategias para la comprensión de textos literarios, tenien
 
 e) Se ha presentado información sobre periodos, autores y obras de la literatura en lengua castellana a partir de textos literarios.
 
-6. Utiliza estrategias para comunicar información oral en lengua inglesa, elaborando presentaciones orales de poca extensión, bien estructuradas, relativas a situaciones habituales de comunicación cotidiana y frecuente de ámbito personal o profesional.
+6. Utiliza estrategias para comunicar información oral en lengua inglesa, elaborando presentaciones orales de poca extensión, bien estructuradas, relativas a situaciones habituales de comunicación cotidiana y frecuente de ámbito personal o profesional.
 
 Criterios de evaluación:
 
@@ -2146,7 +2140,7 @@ i) Se han identificado las normas de relaciones sociales básicas y estandarizad
 
 j) Se han identificado las costumbres o actividades cotidianas de la comunidad donde se habla la lengua extranjera.
 
-7. Participa en conversaciones en lengua inglesa utilizando un lenguaje sencillo y claro en situaciones habituales frecuentes del ámbito personal o profesional, activando estrategias de comunicación básicas.
+7. Participa en conversaciones en lengua inglesa utilizando un lenguaje sencillo y claro en situaciones habituales frecuentes del ámbito personal o profesional, activando estrategias de comunicación básicas.
 
 Criterios de evaluación:
 
@@ -2160,7 +2154,7 @@ d) Se han utilizado estructuras gramaticales básicas y un repertorio esencial y
 
 e) Se ha expresado con cierta claridad, utilizando una entonación y pronunciación comprensible, aceptándose las pausas y dudas frecuentes.
 
-8. Elabora textos escritos en lengua inglesa, breves y sencillos de situaciones de comunicación habituales y frecuentes del ámbito personal o profesional, aplicando estrategias de lectura comprensiva y desarrollando estrategias estructuradas de composición.
+8. Elabora textos escritos en lengua inglesa, breves y sencillos de situaciones de comunicación habituales y frecuentes del ámbito personal o profesional, aplicando estrategias de lectura comprensiva y desarrollando estrategias estructuradas de composición.
 
 Criterios de evaluación:
 
@@ -2422,7 +2416,7 @@ Código: 3012
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Infiere las características esenciales de las sociedades contemporáneas a partir del estudio de su evolución histórica, analizando los rasgos básicos de su organización social, política y económica.
+1. Infiere las características esenciales de las sociedades contemporáneas a partir del estudio de su evolución histórica, analizando los rasgos básicos de su organización social, política y económica.
 
 Criterios de evaluación:
 
@@ -2446,7 +2440,7 @@ i) Se han elaborado instrumentos pautados de recogida y difusión de informació
 
 j) Se han desarrollado comportamientos acordes con el desarrollo del propio esfuerzo y el trabajo colaborativo.
 
-2. Valora los principios básicos del sistema democrático analizando sus instituciones y las diferentes organizaciones políticas y económicas en que se manifiesta e infiriendo pautas de actuación para acomodar su comportamiento al cumplimiento de dichos principios.
+2. Valora los principios básicos del sistema democrático analizando sus instituciones y las diferentes organizaciones políticas y económicas en que se manifiesta e infiriendo pautas de actuación para acomodar su comportamiento al cumplimiento de dichos principios.
 
 Criterios de evaluación:
 
@@ -2462,7 +2456,7 @@ e) Se ha valorado la implicación del principio de no discriminación en las rel
 
 f) Se ha elaborado información pautada y organizada para su utilización en situaciones de trabajo colaborativo y contraste de opiniones.
 
-3. Utiliza estrategias comunicativas para interpretar y comunicar información oral en lengua castellana, aplicando los principios de la escucha activa, estrategias razonadas de composición y las normas lingüísticas correctas en cada caso.
+3. Utiliza estrategias comunicativas para interpretar y comunicar información oral en lengua castellana, aplicando los principios de la escucha activa, estrategias razonadas de composición y las normas lingüísticas correctas en cada caso.
 
 Criterios de evaluación:
 
@@ -2476,7 +2470,7 @@ d) Se han aplicado los usos y niveles de la lengua y las normas lingüísticas e
 
 e) Se ha utilizado la terminología gramatical correcta en la comprensión de las actividades gramaticales propuestas y en la resolución de las mismas.
 
-4. Utiliza estrategias comunicativas para comunicar información escrita en lengua castellana, aplicando estrategias de análisis, síntesis y clasificación de forma estructurada a la composición autónoma de textos de progresiva complejidad.
+4. Utiliza estrategias comunicativas para comunicar información escrita en lengua castellana, aplicando estrategias de análisis, síntesis y clasificación de forma estructurada a la composición autónoma de textos de progresiva complejidad.
 
 Criterios de evaluación:
 
@@ -2498,7 +2492,7 @@ h) Se han observado pautas de presentación de trabajos escritos teniendo en cue
 
 i) Se han resuelto actividades de comprensión y análisis de las estructuras gramaticales, comprobando la precisión y validez de las inferencias realizadas.
 
-5. Interpreta textos literarios representativos de la Literatura en lengua castellana desde el siglo XIX hasta la actualidad, reconociendo la intención del autor y relacionándolo con su contexto histórico, sociocultural y literario.
+5. Interpreta textos literarios representativos de la Literatura en lengua castellana desde el siglo XIX hasta la actualidad, reconociendo la intención del autor y relacionándolo con su contexto histórico, sociocultural y literario.
 
 Criterios de evaluación:
 
@@ -2512,7 +2506,7 @@ d) Se han aplicado estrategias de análisis de textos literarios, reconociendo l
 
 e) Se ha informado sobre un autor, una obra o un período de la literatura en lengua castellana, recogiendo en forma analítica la información correspondiente.
 
-6. Utiliza estrategias para interpretar y comunicar información oral en lengua inglesa, aplicando los principios de la escucha activa y elaborando presentaciones orales de poca extensión, claras y estructuradas, relativas a temas y aspectos concretos, frecuentes y cotidianos, del ámbito personal y profesional.
+6. Utiliza estrategias para interpretar y comunicar información oral en lengua inglesa, aplicando los principios de la escucha activa y elaborando presentaciones orales de poca extensión, claras y estructuradas, relativas a temas y aspectos concretos, frecuentes y cotidianos, del ámbito personal y profesional.
 
 Criterios de evaluación:
 
@@ -2538,7 +2532,7 @@ j) Se han identificado las costumbres o actividades cotidianas de la comunidad y
 
 k) Se han identificado las principales actitudes y comportamientos profesionales en situaciones de comunicación habituales del ámbito profesional.
 
-7. Mantiene conversaciones sencillas en lengua inglesa en situaciones habituales y concretas del ámbito personal y profesional, utilizando estrategias de comunicación básicas.
+7. Mantiene conversaciones sencillas en lengua inglesa en situaciones habituales y concretas del ámbito personal y profesional, utilizando estrategias de comunicación básicas.
 
 Criterios de evaluación:
 
@@ -2554,7 +2548,7 @@ e) Se han utilizado estructuras gramaticales y oraciones sencillas y un repertor
 
 f) Se ha expresado con cierta claridad, usando una entonación y pronunciación razonable y comprensible, aceptándose algunas pausas y vacilaciones.
 
-8. Elabora textos breves y sencillos con cierto detalle en lengua inglesa, relativos a situaciones de comunicación habituales del ámbito personal y profesional, aplicando estrategias de lectura comprensiva y desarrollando estrategias sistemáticas de composición.
+8. Elabora textos breves y sencillos con cierto detalle en lengua inglesa, relativos a situaciones de comunicación habituales del ámbito personal y profesional, aplicando estrategias de lectura comprensiva y desarrollando estrategias sistemáticas de composición.
 
 Criterios de evaluación:
 
@@ -2822,7 +2816,7 @@ Código: 3153
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Realiza operaciones básicas de recepción, almacenamiento y conservación de géneros de panadería y pastelería, identificando y utilizando medios, equipos e instrumentos de control.
+1. Realiza operaciones básicas de recepción, almacenamiento y conservación de géneros de panadería y pastelería, identificando y utilizando medios, equipos e instrumentos de control.
 
 Criterios de evaluación:
 
@@ -2840,7 +2834,7 @@ f) Se han realizado correctamente los procedimientos para el envasado y la conse
 
 g) Se han realizado todas las operaciones, teniendo en cuenta la normativa higiénico-sanitaria, de seguridad laboral y de protección medioambiental.
 
-2. Ejecuta operaciones básicas de preelaboración, interpretando y relacionando instrucciones y/o normas establecidas con la aplicación de procedimientos inherentes a las actividades a desarrollar.
+2. Ejecuta operaciones básicas de preelaboración, interpretando y relacionando instrucciones y/o normas establecidas con la aplicación de procedimientos inherentes a las actividades a desarrollar.
 
 Criterios de evaluación:
 
@@ -2856,7 +2850,7 @@ e) Se han realizado las tareas de preparación, limpieza, cortes y obtención de
 
 f) Se han desarrollado los procedimientos de conservación, teniendo en cuenta las necesidades de las diversas materias primas y su uso posterior.
 
-3. Realiza actividades auxiliares de preparación de masas de panadería, bollería y pastelería dulce y salada, utilizando técnicas básicas de elaboración de productos, como el amasado y la fermentación entre otros.
+3. Realiza actividades auxiliares de preparación de masas de panadería, bollería y pastelería dulce y salada, utilizando técnicas básicas de elaboración de productos, como el amasado y la fermentación entre otros.
 
 Criterios de evaluación:
 
@@ -2876,7 +2870,7 @@ g) Se han aplicado procedimientos en el uso de las materias primas y de los medi
 
 h) Se han aplicado métodos y productos de limpieza durante los procedimientos de elaboración y cocción para mantener a punto la maquinaria y utillaje utilizados en la elaboración de masas, valorando las normas de higiene en la elaboración de alimentos.
 
-4. Coloca elementos de animación del punto de venta y repone productos, siguiendo los criterios comerciales y detectando espacios y necesidades de abastecimiento.
+4. Coloca elementos de animación del punto de venta y repone productos, siguiendo los criterios comerciales y detectando espacios y necesidades de abastecimiento.
 
 Criterios de evaluación:
 
@@ -2896,7 +2890,7 @@ g) Se han empaquetado y presentado los productos de manera atractiva, de acuerdo
 
 h) Se han limpiado y acondicionado mostradores, escaparates y estanterías para la correcta colocación de los productos.
 
-5. Atiende al cliente realizando ventas, cobros y devoluciones y resolviendo quejas.
+5. Atiende al cliente realizando ventas, cobros y devoluciones y resolviendo quejas.
 
 Criterios de evaluación:
 
@@ -2916,7 +2910,7 @@ g) Se ha demostrado responsabilidad ante errores.
 
 h) Se ha informado al cliente de las características de los productos o servicios, especialmente de las calidades esperables.
 
-6. Cumple criterios de seguridad e higiene, actuando según normas higiénico-sanitarias, de seguridad laboral y de protección medioambiental.
+6. Cumple criterios de seguridad e higiene, actuando según normas higiénico-sanitarias, de seguridad laboral y de protección medioambiental.
 
 Criterios de evaluación:
 
@@ -2934,7 +2928,7 @@ f) Se han realizado las operaciones de recogida, selección, clasificación y el
 
 g) Se han utilizado aquellas energías y/o recursos cuya utilización sea menos perjudicial para el ambiente.
 
-7. Mantiene relaciones profesionales adecuadas, actuando de forma responsable y respetuosa, tanto con los procedimientos y normas de la empresa como con el resto de miembros del equipo.
+7. Mantiene relaciones profesionales adecuadas, actuando de forma responsable y respetuosa, tanto con los procedimientos y normas de la empresa como con el resto de miembros del equipo.
 
 Criterios de evaluación:
 
@@ -2956,7 +2950,7 @@ Este módulo profesional contribuye a completar las competencias y objetivos gen
 
 Contribuye, además, al afianzamiento de hábitos de orden, puntualidad, responsabilidad y pulcritud.
 
-4. Requisitos mínimos de calidad del contexto formativo.
+4. Requisitos mínimos de calidad del contexto formativo.
 
 **4.1** Espacios.
 
@@ -2970,7 +2964,7 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 **4.2** Equipamientos mínimos.
 
-5. Profesorado.
+5. Profesorado.
 
 **5.1** Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional, son:
 
@@ -3010,9 +3004,9 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 3153. Formación en centros de trabajo.
 
-6. Correspondencia entre módulos profesionales y unidades de competencia para su acreditación o convalidación.
+6. Correspondencia entre módulos profesionales y unidades de competencia para su acreditación o convalidación.
 
-7. Ciclos formativos de grado medio a los que este título permite la aplicación de criterios de preferencia para la admisión en caso de concurrencia competitiva.
+7. Ciclos formativos de grado medio a los que este título permite la aplicación de criterios de preferencia para la admisión en caso de concurrencia competitiva.
 
 Este título tendrá preferencia para la admisión a todos los títulos de grado medio de las familias profesionales de:
 
@@ -3026,7 +3020,7 @@ Este título tendrá preferencia para la admisión a todos los títulos de grado
 
 Título profesional básico en actividades domésticas y limpieza de edificios
 
-1. Identificación del título.
+1. Identificación del título.
 
 El Título profesional básico en actividades domésticas y limpieza de edificios queda identificado por los siguientes elementos:
 
@@ -3040,7 +3034,7 @@ El Título profesional básico en actividades domésticas y limpieza de edificio
 
 – Referente europeo: CINE-3.5.3 (Clasificación Internacional Normalizada de la Educación).
 
-2. Perfil profesional.
+2. Perfil profesional.
 
 **2.1** Competencia general del título.
 
@@ -3154,7 +3148,7 @@ b) La progresiva implantación de las nuevas tecnologías y la creciente complej
 
 c) El fuerte crecimiento del sector servicios y la vinculación de este profesional básico con el sector hotelero, lavanderías, residencias de estudiantes, residencias de la tercera edad, centros de día, albergues, apartamentos turísticos u hospitales, entre otros, aumentan sus posibilidades de inserción laboral.
 
-3. Enseñanzas del ciclo formativo.
+3. Enseñanzas del ciclo formativo.
 
 **3.1** Objetivos generales del título.
 
@@ -3242,7 +3236,7 @@ Código: 3098
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Lava prendas de vestir y ropa de hogar utilizando medios mecánicos o de forma manual aplicando los procedimientos adecuados y siguiendo instrucciones de los fabricantes.
+1. Lava prendas de vestir y ropa de hogar utilizando medios mecánicos o de forma manual aplicando los procedimientos adecuados y siguiendo instrucciones de los fabricantes.
 
 Criterios de evaluación:
 
@@ -3260,7 +3254,7 @@ f) Se han aplicado los procedimientos de mantenimiento a nivel de usuario para g
 
 g) Se han aplicado las medidas de prevención de riesgos laborales relacionadas con el uso de la lavadora y productos empleados.
 
-2. Seca prendas de vestir y ropa de hogar utilizando medios mecánicos o tradicionales, justificando los procedimientos requeridos e instrucciones del fabricante.
+2. Seca prendas de vestir y ropa de hogar utilizando medios mecánicos o tradicionales, justificando los procedimientos requeridos e instrucciones del fabricante.
 
 Criterios de evaluación:
 
@@ -3276,7 +3270,7 @@ e) Se ha realizado el tendido manual en los espacios indicados, según condicion
 
 f) Se han aplicado las medidas de prevención en el secado de prendas, según el tipo de procedimiento y, en su caso, máquina empleada, valorando rutinas desarrolladas y daños evitados.
 
-3. Plancha prendas de vestir y ropa de hogar utilizando medios mecánicos o manuales, garantizando la conservación e higiene de las prendas y aplicando procedimientos adecuados, según las instrucciones del fabricante.
+3. Plancha prendas de vestir y ropa de hogar utilizando medios mecánicos o manuales, garantizando la conservación e higiene de las prendas y aplicando procedimientos adecuados, según las instrucciones del fabricante.
 
 Criterios de evaluación:
 
@@ -3292,7 +3286,7 @@ e) Se han aplicado las medidas de prevención postural y seguridad en el plancha
 
 f) Se han preparado y ordenado las prendas para su conservación en los espacios adecuados, valorando el procedimiento y los productos requeridos para garantizar el mantenimiento de las prendas.
 
-4. Realiza arreglos básicos en prendas de vestir y ropa de hogar, seleccionando los útiles en función del tejido y necesidad de las prendas, para lograr su reparación y aspecto apropiado.
+4. Realiza arreglos básicos en prendas de vestir y ropa de hogar, seleccionando los útiles en función del tejido y necesidad de las prendas, para lograr su reparación y aspecto apropiado.
 
 Criterios de evaluación:
 
@@ -3306,7 +3300,7 @@ d) Se han aplicado las técnicas de arreglos básicos, identificando las posible
 
 e) Se ha mantenido ordenado el costurero y se ha descrito lo elementos que contiene, identificando los lugares para guardar los útiles, herramientas y materiales.
 
-5. Ordena la ropa en el espacio asignado y organiza estancias aplicando criterios de temporalidad y estacionalidad, facilitando su conservación y uso, así como valorando criterios de descanso, limpieza y orden.
+5. Ordena la ropa en el espacio asignado y organiza estancias aplicando criterios de temporalidad y estacionalidad, facilitando su conservación y uso, así como valorando criterios de descanso, limpieza y orden.
 
 Criterios de evaluación:
 
@@ -3446,7 +3440,7 @@ Código: 3102
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Elabora listas para la compra de alimentos, entre otros, según presupuesto establecido, garantizando la reposición y adecuándolas a características de la unidad convivencial y respetando las normas de consumo (caducidad, límite de consumo o conservación, entre otras).
+1. Elabora listas para la compra de alimentos, entre otros, según presupuesto establecido, garantizando la reposición y adecuándolas a características de la unidad convivencial y respetando las normas de consumo (caducidad, límite de consumo o conservación, entre otras).
 
 Criterios de evaluación:
 
@@ -3468,7 +3462,7 @@ h) Se han descrito la organización de la compra en el transporte de los product
 
 i) Se han identificado los riesgos asociados al traslado de las compras desde el establecimiento al domicilio, aplicando las medidas de prevención correspondientes.
 
-2. Realiza operaciones de almacenamiento de alimentos y otros productos de uso domiciliario, justificando los medios utilizados en la preservación y conservación de los mismos en condiciones de higiene y buen uso.
+2. Realiza operaciones de almacenamiento de alimentos y otros productos de uso domiciliario, justificando los medios utilizados en la preservación y conservación de los mismos en condiciones de higiene y buen uso.
 
 Criterios de evaluación:
 
@@ -3486,7 +3480,7 @@ f) Se han identificado los espacios para la colocación y almacenaje de los prod
 
 g) Se han aplicado procedimientos higiénicos para la prevención de riesgos en el almacenamiento y conservación de productos de alimentos y otros productos de uso domiciliario.
 
-3. Realiza operaciones de preelaboración de los productos culinarios más comunes en las elaboraciones culinarias que se vayan a realizar, valorando criterios de consumo y caducidad a partir de un plan actuación.
+3. Realiza operaciones de preelaboración de los productos culinarios más comunes en las elaboraciones culinarias que se vayan a realizar, valorando criterios de consumo y caducidad a partir de un plan actuación.
 
 Criterios de evaluación:
 
@@ -3508,7 +3502,7 @@ h) Se han identificado los riesgos asociados al uso de útiles, herramientas y e
 
 i) Se han aplicado las normas básicas de higiene para la prevención de riesgos sanitarios en las operaciones de preelaboración de alimentos.
 
-4. Elabora menús sencillos, aplicando las técnicas domésticas de cocina y siguiendo el plan de actuación establecido en función de las características de los destinatarios.
+4. Elabora menús sencillos, aplicando las técnicas domésticas de cocina y siguiendo el plan de actuación establecido en función de las características de los destinatarios.
 
 Criterios de evaluación:
 
@@ -3528,7 +3522,7 @@ g) Se han aplicado las normas de conservación de la comida preparada, de acuerd
 
 h) Se han aplicado las normas básicas de higiene para la prevención de riesgos sanitarios en las técnicas domésticas de cocina.
 
-5. Realiza la limpieza de la vajilla, utensilios y electrodomésticos, cocina y zona de trabajo, aplicando criterios de eficacia y organización, siguiendo el plan de actuación trabajo.
+5. Realiza la limpieza de la vajilla, utensilios y electrodomésticos, cocina y zona de trabajo, aplicando criterios de eficacia y organización, siguiendo el plan de actuación trabajo.
 
 Criterios de evaluación:
 
@@ -3548,7 +3542,7 @@ g) Se han identificado los riesgos asociados limpieza de la cocina y electrodom�
 
 h) Se han identificado los posibles riesgos asociados a la limpieza de la cocina y electrodomésticos utilizados, indicando las actuaciones preventivas a llevar a cabo.
 
-6. Identifica y previene riesgos de toxiinfecciones alimentarias en las operaciones de manipulación de alimentos y preparación de comidas, aplicando las normas básicas y las condiciones higiénico-sanitarias relacionadas con la cocina doméstica.
+6. Identifica y previene riesgos de toxiinfecciones alimentarias en las operaciones de manipulación de alimentos y preparación de comidas, aplicando las normas básicas y las condiciones higiénico-sanitarias relacionadas con la cocina doméstica.
 
 Criterios de evaluación:
 
@@ -3690,7 +3684,7 @@ Código: 3104
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Identifica los factores que afectan a los procedimientos de limpieza domiciliaria, describiendo las posibles acciones a realizar en función cada espacio y características y circunstancias del mismo.
+1. Identifica los factores que afectan a los procedimientos de limpieza domiciliaria, describiendo las posibles acciones a realizar en función cada espacio y características y circunstancias del mismo.
 
 Criterios de evaluación:
 
@@ -3706,7 +3700,7 @@ e) Se ha interpretado la información del etiquetado y ficha técnica de los pro
 
 f) Se ha descrito la importancia de aplicar las normas básicas de prevención de riesgos laborales en la utilización de los productos y equipos asociados a la limpieza de domicilios.
 
-2. Realiza la limpieza de mobiliario y objetos, aplicando los procedimientos, útiles y productos necesarios, de acuerdo con los requerimientos e instrucciones recibidas.
+2. Realiza la limpieza de mobiliario y objetos, aplicando los procedimientos, útiles y productos necesarios, de acuerdo con los requerimientos e instrucciones recibidas.
 
 Criterios de evaluación:
 
@@ -3732,7 +3726,7 @@ j) Se han limpiado los útiles empleados, garantizando su conservación.
 
 k) Se han aplicado las normas básicas de prevención de riesgos laborales en la realización de la limpieza de domicilios.
 
-3. Realiza la limpieza de paredes, ventanas, puertas, suelos y alfombras, aplicando los procedimientos, útiles y productos necesarios, de acuerdo con los requerimientos e instrucciones recibidas.
+3. Realiza la limpieza de paredes, ventanas, puertas, suelos y alfombras, aplicando los procedimientos, útiles y productos necesarios, de acuerdo con los requerimientos e instrucciones recibidas.
 
 Criterios de evaluación:
 
@@ -3752,7 +3746,7 @@ g) Se han limpiado y clasificado los útiles empleados, garantizando su conserva
 
 h) Se han aplicado las normas básicas de prevención de riesgos laborales en la realización de la limpieza de domicilios.
 
-4. Realiza la limpieza de superficies acristaladas, aplicando los procedimientos, útiles y productos necesarios, de acuerdo con los requerimientos e instrucciones recibidas.
+4. Realiza la limpieza de superficies acristaladas, aplicando los procedimientos, útiles y productos necesarios, de acuerdo con los requerimientos e instrucciones recibidas.
 
 Criterios de evaluación:
 
@@ -3770,7 +3764,7 @@ f) Se han aplicado las medidas de prevención de riesgos establecidas, de acuerd
 
 g) Se han aplicado las medidas de seguridad específicas para trabajos en altura.
 
-5. Realiza la limpieza de cuartos de baño y aseos, aplicando los procedimientos de higienización y desinfección, útiles y productos necesarios, de acuerdo con los requerimientos e instrucciones recibidas.
+5. Realiza la limpieza de cuartos de baño y aseos, aplicando los procedimientos de higienización y desinfección, útiles y productos necesarios, de acuerdo con los requerimientos e instrucciones recibidas.
 
 Criterios de evaluación:
 
@@ -3916,7 +3910,7 @@ Código: 3116
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Determina los procedimientos de limpieza industrial y de tratamiento de suelos, seleccionando las máquinas, accesorios y productos en función de las características del pavimento y de su superficie.
+1. Determina los procedimientos de limpieza industrial y de tratamiento de suelos, seleccionando las máquinas, accesorios y productos en función de las características del pavimento y de su superficie.
 
 Criterios de evaluación:
 
@@ -3936,7 +3930,7 @@ g) Se han adoptado las medidas de seguridad necesarias para evitar los riesgos l
 
 h) Se han situado los equipos, teniendo en cuenta criterios de ergonomía y salud laboral.
 
-2. Barre suelos utilizando la maquinaría industrial y sus accesorios, y valorando el funcionamiento y calidad de la limpieza, teniendo en cuanta las características de la superficie a limpiar.
+2. Barre suelos utilizando la maquinaría industrial y sus accesorios, y valorando el funcionamiento y calidad de la limpieza, teniendo en cuanta las características de la superficie a limpiar.
 
 Criterios de evaluación:
 
@@ -3954,7 +3948,7 @@ f) Se han adoptado las medidas de seguridad necesarias para evitar los riesgos l
 
 g) Se ha manejado la barredora, teniendo en cuenta criterios de ergonomía y salud laboral.
 
-3. Friega suelos utilizando la maquinaría industrial y sus accesorios, valorando el funcionamiento y calidad de la limpieza, teniendo en cuanta las características de la superficie a limpiar.
+3. Friega suelos utilizando la maquinaría industrial y sus accesorios, valorando el funcionamiento y calidad de la limpieza, teniendo en cuanta las características de la superficie a limpiar.
 
 Criterios de evaluación:
 
@@ -3972,7 +3966,7 @@ f) Se han adoptado las medidas de seguridad necesarias para evitar los riesgos l
 
 g) Se ha manejado la fregadora, teniendo en cuenta criterios de ergonomía y salud laboral.
 
-4. Abrillanta suelos utilizando la maquinaría industrial seleccionada y sus accesorios, valorando el funcionamiento y calidad de la limpieza, teniendo en cuanta las características de la superficie a limpiar.
+4. Abrillanta suelos utilizando la maquinaría industrial seleccionada y sus accesorios, valorando el funcionamiento y calidad de la limpieza, teniendo en cuanta las características de la superficie a limpiar.
 
 Criterios de evaluación:
 
@@ -3998,7 +3992,7 @@ j) Se han adoptado las medidas de seguridad necesarias para evitar los riesgos l
 
 k) Se ha manejado la enceradora, teniendo en cuenta criterios de ergonomía y salud laboral.
 
-5. Mantiene operativas las máquinas de limpieza, realizando las actividades requeridas en los manuales de uso y mantenimiento correspondiente.
+5. Mantiene operativas las máquinas de limpieza, realizando las actividades requeridas en los manuales de uso y mantenimiento correspondiente.
 
 Criterios de evaluación:
 
@@ -4112,7 +4106,7 @@ Código: 3145
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Realiza operaciones simuladas de apoyo a niños y otras personas no dependientes, identificando y describiendo las actuaciones que hay que realizar en función de su destinatario.
+1. Realiza operaciones simuladas de apoyo a niños y otras personas no dependientes, identificando y describiendo las actuaciones que hay que realizar en función de su destinatario.
 
 Criterios de evaluación:
 
@@ -4130,7 +4124,7 @@ f) Se han respetado las directrices y orientaciones establecidas.
 
 g) Se ha mantenido una actitud positiva en la realización de las tareas encomendadas.
 
-2. Mantiene una comunicación simulada con personas de diferentes sexo y edad, describiendo normas de buen comportamiento y aplicando técnicas básicas de comunicación.
+2. Mantiene una comunicación simulada con personas de diferentes sexo y edad, describiendo normas de buen comportamiento y aplicando técnicas básicas de comunicación.
 
 Criterios de evaluación:
 
@@ -4148,7 +4142,7 @@ f) Se ha mantenido una actitud conciliadora y sensible a los demás, demostrando
 
 g) Se ha valorado la importancia de las habilidades sociales en el desempeño de la labor profesional.
 
-3. Realiza operaciones relacionadas con las necesidades básicas y de acompañamiento de niños y niñas, aplicando las pautas de alimentación, higiene y descanso requeridas.
+3. Realiza operaciones relacionadas con las necesidades básicas y de acompañamiento de niños y niñas, aplicando las pautas de alimentación, higiene y descanso requeridas.
 
 Criterios de evaluación:
 
@@ -4168,7 +4162,7 @@ g) Se han realizado operaciones relacionadas con la atención a las necesidades 
 
 h) Se ha valorado la importancia de las actividades relacionadas con la satisfacción de las necesidades básicas de los niños y niñas.
 
-4. Realiza actividades relacionadas con las necesidades básicas y de acompañamiento a personas adultas no dependientes, aplicando las instrucciones recibidas y atendiendo a las características de las personas.
+4. Realiza actividades relacionadas con las necesidades básicas y de acompañamiento a personas adultas no dependientes, aplicando las instrucciones recibidas y atendiendo a las características de las personas.
 
 Criterios de evaluación:
 
@@ -4182,7 +4176,7 @@ d) Se han descrito y aplicado pautas de actuación en relación al vestido y al 
 
 e) Se ha valorado la importancia de las actividades relacionadas con la satisfacción de las necesidades de las personas adultas.
 
-5. Realiza actividades de información relacionadas con la unidad de convivencia, transmitiendo posibles incidencias y describiendo comunicaciones habituales y la estructura que debe tener el mensaje
+5. Realiza actividades de información relacionadas con la unidad de convivencia, transmitiendo posibles incidencias y describiendo comunicaciones habituales y la estructura que debe tener el mensaje
 
 Criterios de evaluación:
 
@@ -4280,7 +4274,7 @@ Código: 3146
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Realiza actividades relacionada con la seguridad en el domicilio de las instalaciones domésticas (electricidad, gas y conducciones de agua), comprobando su correcto funcionamiento y valorando los puntos potenciales de riesgo y las pautas de intervención.
+1. Realiza actividades relacionada con la seguridad en el domicilio de las instalaciones domésticas (electricidad, gas y conducciones de agua), comprobando su correcto funcionamiento y valorando los puntos potenciales de riesgo y las pautas de intervención.
 
 Criterios de evaluación:
 
@@ -4298,7 +4292,7 @@ f) Se han identificado los elementos utilizados para la protección descargas el
 
 g) Se han descrito las pautas de actuación ante posibles accidentes o situaciones de riesgo relacionadas con las conducciones domésticas, valorándola la prontitud y serenidad en la actuación.
 
-2. Aplica medidas de prevención relacionadas con la exposición o ingestión de productos tóxicos o alimentarios en mal estado, valorando las situaciones y conductas de riesgo y pautas de intervención.
+2. Aplica medidas de prevención relacionadas con la exposición o ingestión de productos tóxicos o alimentarios en mal estado, valorando las situaciones y conductas de riesgo y pautas de intervención.
 
 Criterios de evaluación:
 
@@ -4312,7 +4306,7 @@ d) Se han establecido medidas de conservación y consumo de productos alimentari
 
 e) Se han aplicado las pautas de actuación relacionadas con situaciones de intoxicación, describiendo el contenido de la información a facilitar a las personas y el procedimiento de comunicación en relación con los profesionales implicados.
 
-3. Aplica medidas de prevención de primera intervención en relación con situaciones de riesgo frecuente para la seguridad de personas y bienes en el ámbito doméstico, valorando el entorno y las características de la unidad convivencial.
+3. Aplica medidas de prevención de primera intervención en relación con situaciones de riesgo frecuente para la seguridad de personas y bienes en el ámbito doméstico, valorando el entorno y las características de la unidad convivencial.
 
 Criterios de evaluación:
 
@@ -4326,7 +4320,7 @@ d) Se han descrito las prestaciones existentes en las pólizas de seguro, valora
 
 e) Se han aplicado las pautas de actuación relacionadas con situaciones de riesgo y de seguridad de personas y bienes domésticos, describiendo el contenido de la información a facilitar a las personas y el procedimiento de comunicación en relación con los profesionales implicados.
 
-4. Aplica técnicas relacionadas con primeros auxilios de primera intervención, describiendo los protocolos aplicables.
+4. Aplica técnicas relacionadas con primeros auxilios de primera intervención, describiendo los protocolos aplicables.
 
 Criterios de evaluación:
 
@@ -4458,7 +4452,7 @@ Código: 3009
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Resuelve problemas matemáticos en situaciones cotidianas, utilizando los elementos básicos del lenguaje matemático y sus operaciones.
+1. Resuelve problemas matemáticos en situaciones cotidianas, utilizando los elementos básicos del lenguaje matemático y sus operaciones.
 
 Criterios de evaluación:
 
@@ -4482,7 +4476,7 @@ i) Se ha utilizado la regla de tres para resolver problemas en los que intervien
 
 j) Se ha aplicado el interés simple y compuesto en actividades cotidianas.
 
-2. Reconoce las instalaciones y el material de laboratorio valorándolos como recursos necesarios para la realización de las prácticas.
+2. Reconoce las instalaciones y el material de laboratorio valorándolos como recursos necesarios para la realización de las prácticas.
 
 Criterios de evaluación:
 
@@ -4492,7 +4486,7 @@ b) Se han manipulado adecuadamente los materiales instrumentales del laboratorio
 
 c) Se han tenido en cuenta las condiciones de higiene y seguridad para cada una de la técnicas experimentales que se van a realizar.
 
-3. Identifica propiedades fundamentales de la materia en las diferentes formas en las que se presenta en la naturaleza, manejando sus magnitudes físicas y sus unidades fundamentales en unidades de sistema métrico decimal.
+3. Identifica propiedades fundamentales de la materia en las diferentes formas en las que se presenta en la naturaleza, manejando sus magnitudes físicas y sus unidades fundamentales en unidades de sistema métrico decimal.
 
 Criterios de evaluación:
 
@@ -4516,7 +4510,7 @@ i) Se han reconocido los distintos estados de agregación de una sustancia dadas
 
 j) Se han establecido diferencias entre ebullición y evaporación utilizando ejemplos sencillos.
 
-4. Utiliza el método más adecuado para la separación de componentes de mezclas sencillas relacionándolo con el proceso físico o químico en que se basa.
+4. Utiliza el método más adecuado para la separación de componentes de mezclas sencillas relacionándolo con el proceso físico o químico en que se basa.
 
 Criterios de evaluación:
 
@@ -4534,7 +4528,7 @@ f) Se han descrito las características generales básicas de materiales relacio
 
 g) Se ha trabajado en equipo en la realización de tareas.
 
-5. Reconoce cómo la energía está presente en los procesos naturales, describiendo fenómenos simples de la vida real.
+5. Reconoce cómo la energía está presente en los procesos naturales, describiendo fenómenos simples de la vida real.
 
 Criterios de evaluación:
 
@@ -4552,7 +4546,7 @@ f) Se han mostrado en diferentes sistemas la conservación de la energía.
 
 g) Se han descrito procesos relacionados con el mantenimiento del organismo y de la vida en los que se aprecia claramente el papel de la energía.
 
-6. Localiza las estructuras anatómicas básica discriminando los sistemas o aparatos a los que pertenecen y asociándolos a las funciones que producen en el organismo.
+6. Localiza las estructuras anatómicas básica discriminando los sistemas o aparatos a los que pertenecen y asociándolos a las funciones que producen en el organismo.
 
 Criterios de evaluación:
 
@@ -4570,7 +4564,7 @@ f) Se ha detallado cómo funciona el proceso de relación.
 
 g) Se han utilizado herramientas informáticas describir adecuadamente los aparatos y sistemas.
 
-7. Diferencia la salud de la enfermedad, relacionando los hábitos de vida con las enfermedades más frecuentes, reconociendo los principios básicos de defensa contra las mismas.
+7. Diferencia la salud de la enfermedad, relacionando los hábitos de vida con las enfermedades más frecuentes, reconociendo los principios básicos de defensa contra las mismas.
 
 Criterios de evaluación:
 
@@ -4592,7 +4586,7 @@ h) Se han reconocido situaciones de riesgo para la salud relacionadas con su ent
 
 i) Se han diseñado pautas de hábitos saludables relacionados con situaciones cotidianas.
 
-8. Elabora menús y dietas equilibradas sencillas, diferenciando los nutrientes que contienen y adaptándolos a los distintos parámetros corporales y a situaciones diversas.
+8. Elabora menús y dietas equilibradas sencillas, diferenciando los nutrientes que contienen y adaptándolos a los distintos parámetros corporales y a situaciones diversas.
 
 Criterios de evaluación:
 
@@ -4610,7 +4604,7 @@ f) Se ha calculado el metabolismo basal y sus resultados se ha representado en u
 
 g) Se han elaborado menús para situaciones concretas, investigando en la red las propiedades de los alimentos.
 
-9. Resuelve situaciones cotidianas, utilizando expresiones algebraicas sencillas y aplicando los métodos de resolución más adecuados.
+9. Resuelve situaciones cotidianas, utilizando expresiones algebraicas sencillas y aplicando los métodos de resolución más adecuados.
 
 Criterios de evaluación:
 
@@ -4780,7 +4774,7 @@ Código: 3042
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Resuelve situaciones cotidianas aplicando los métodos de resolución de ecuaciones y sistemas y valorando la precisión, simplicidad y utilidad del lenguaje algebraico.
+1. Resuelve situaciones cotidianas aplicando los métodos de resolución de ecuaciones y sistemas y valorando la precisión, simplicidad y utilidad del lenguaje algebraico.
 
 Criterios de evaluación:
 
@@ -4794,7 +4788,7 @@ d) Se han resuelto problemas cotidianos y de otras áreas de conocimiento median
 
 e) Se ha valorado la precisión, simplicidad y utilidad del lenguaje algebraico para representar situaciones planteadas en la vida real.
 
-2. Resuelve problemas sencillos de diversa índole, a través de su análisis contrastado y aplicando las fases del método científico.
+2. Resuelve problemas sencillos de diversa índole, a través de su análisis contrastado y aplicando las fases del método científico.
 
 Criterios de evaluación:
 
@@ -4810,7 +4804,7 @@ e) Se han recopilado los resultados de los ensayos de verificación y plasmado e
 
 f) Se ha defendido el resultado con argumentaciones y pruebas las verificaciones o refutaciones de las hipótesis emitidas.
 
-3. Realiza medidas directas e indirectas de figuras geométricas presentes en contextos reales, utilizando los instrumentos, las fórmulas y las técnicas necesarias.
+3. Realiza medidas directas e indirectas de figuras geométricas presentes en contextos reales, utilizando los instrumentos, las fórmulas y las técnicas necesarias.
 
 Criterios de evaluación:
 
@@ -4824,7 +4818,7 @@ d) Se ha trabajado en equipo en la obtención de medidas.
 
 e) Se han utilizado las TIC para representar distintas figuras.
 
-4. Interpreta gráficas de dos magnitudes calculando los parámetros significativos de las mismas y relacionándolo con funciones matemáticas elementales y los principales valores estadísticos.
+4. Interpreta gráficas de dos magnitudes calculando los parámetros significativos de las mismas y relacionándolo con funciones matemáticas elementales y los principales valores estadísticos.
 
 Criterios de evaluación:
 
@@ -4848,7 +4842,7 @@ i) Se han aplicado las propiedades de los sucesos y la probabilidad.
 
 j) Se han resueltos problemas cotidianos mediante cálculos de probabilidad sencillos.
 
-5. Aplica técnicas físicas o químicas, utilizando el material necesario, para la realización de prácticas de laboratorio sencillas, midiendo las magnitudes implicadas.
+5. Aplica técnicas físicas o químicas, utilizando el material necesario, para la realización de prácticas de laboratorio sencillas, midiendo las magnitudes implicadas.
 
 Criterios de evaluación:
 
@@ -4862,7 +4856,7 @@ d) Se ha descrito la célula y tejidos animales y vegetales mediante su observac
 
 e) Se han elaborado informes de ensayos en los que se incluye el procedimiento seguido, los resultados obtenidos y las conclusiones finales.
 
-6. Reconoce las reacciones químicas que se producen en los procesos biológicos y en la industria argumentando su importancia en la vida cotidiana y describiendo los cambios que se producen.
+6. Reconoce las reacciones químicas que se producen en los procesos biológicos y en la industria argumentando su importancia en la vida cotidiana y describiendo los cambios que se producen.
 
 Criterios de evaluación:
 
@@ -4878,7 +4872,7 @@ e) Se han identificado los componentes y el proceso de reacciones químicas senc
 
 f) Se han elaborado informes utilizando las TIC sobre las industrias más relevantes: alimentarias, cosmética, reciclaje, describiendo de forma sencilla los procesos que tienen lugar en las mismas.
 
-7. Identifica aspectos positivos y negativos del uso de la energía nuclear describiendo los efectos de la contaminación generada en su aplicación.
+7. Identifica aspectos positivos y negativos del uso de la energía nuclear describiendo los efectos de la contaminación generada en su aplicación.
 
 Criterios de evaluación:
 
@@ -4892,7 +4886,7 @@ d) Se ha argumentado sobre la problemática de los residuos nucleares.
 
 e) Se ha trabajado en equipo y utilizado las TIC.
 
-8. Identifica los cambios que se producen en el planeta tierra argumentando sus causas y teniendo en cuenta las diferencias que existen entre relieve y paisaje.
+8. Identifica los cambios que se producen en el planeta tierra argumentando sus causas y teniendo en cuenta las diferencias que existen entre relieve y paisaje.
 
 Criterios de evaluación:
 
@@ -4906,7 +4900,7 @@ d) Se ha descrito el proceso de transporte discriminando los agentes geológicos
 
 e) Se ha analizado el proceso de sedimentación discriminado los agentes geológicos externos que intervienen, las situaciones y las consecuencias en el relieve.
 
-9. Categoriza los contaminantes atmosféricos principales identificando sus orígenes y relacionándolos con los efectos que producen.
+9. Categoriza los contaminantes atmosféricos principales identificando sus orígenes y relacionándolos con los efectos que producen.
 
 Criterios de evaluación:
 
@@ -4918,7 +4912,7 @@ c) Se ha descrito el efecto invernadero argumentando las causas que lo originan 
 
 d) Se ha descrito la problemática que ocasiona la pérdida paulatina de la capa de ozono, las consecuencias para la salud de las personas, el equilibrio de la hidrosfera y las poblaciones.
 
-10. Identifica los contaminantes del agua relacionando su efecto en el medio ambiente con su tratamiento de depuración.
+10. Identifica los contaminantes del agua relacionando su efecto en el medio ambiente con su tratamiento de depuración.
 
 Criterios de evaluación:
 
@@ -4930,7 +4924,7 @@ c) Se han identificado posibles contaminantes en muestras de agua de distinto or
 
 d) Se ha analizado los efectos producidos por la contaminación del agua y el uso responsable de la misma.
 
-11. Contribuye al equilibrio medioambientaI analizando y argumentando las líneas básicas sobre el desarrollo sostenible y proponiendo acciones para su mejora y conservación.
+11. Contribuye al equilibrio medioambientaI analizando y argumentando las líneas básicas sobre el desarrollo sostenible y proponiendo acciones para su mejora y conservación.
 
 Criterios de evaluación:
 
@@ -4942,7 +4936,7 @@ c) Se han diseñado estrategias básicas para posibilitar el mantenimiento del m
 
 d) Se ha trabajado en equipo en la identificación de los objetivos para la mejora del medio ambiente.
 
-12. Relaciona las fuerzas que aparecen en situaciones habituales con los efectos producidos teniendo en cuenta su contribución al movimiento o reposo de los objetos y las magnitudes puestas en juego.
+12. Relaciona las fuerzas que aparecen en situaciones habituales con los efectos producidos teniendo en cuenta su contribución al movimiento o reposo de los objetos y las magnitudes puestas en juego.
 
 Criterios de evaluación:
 
@@ -4960,7 +4954,7 @@ f) Se ha descrito la relación causa-efecto en distintas situaciones, para encon
 
 g) Se han aplicado las leyes de Newton en situaciones de la vida cotidiana.
 
-13. Identifica los aspectos básicos de la producción, transporte y utilización de la energía eléctrica y los factores que intervienen en su consumo, describiendo los cambios producidos y las magnitudes y valores característicos.
+13. Identifica los aspectos básicos de la producción, transporte y utilización de la energía eléctrica y los factores que intervienen en su consumo, describiendo los cambios producidos y las magnitudes y valores característicos.
 
 Criterios de evaluación:
 
@@ -4976,7 +4970,7 @@ e) Se han descrito básicamente las etapas de la distribución de la energía el
 
 f) Se trabajado en equipo en la recopilación de información sobre centrales eléctricas en España.
 
-14. Previene la posibilidad de aparición de enfermedades básicas, utilizando técnicas de mantenimiento y desinfección de los utensilios y aparatos utilizados en las actuaciones derivadas de su profesión:
+14. Previene la posibilidad de aparición de enfermedades básicas, utilizando técnicas de mantenimiento y desinfección de los utensilios y aparatos utilizados en las actuaciones derivadas de su profesión:
 
 Criterios de evaluación:
 
@@ -5200,7 +5194,7 @@ Código: 3011
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Valora la evolución histórica de las sociedades prehistóricas y de la Edad Antigua y sus relaciones con los paisajes naturales, analizando los factores y elementos implicados, y desarrollando actitudes y valores de aprecio del patrimonio natural y artístico.
+1. Valora la evolución histórica de las sociedades prehistóricas y de la Edad Antigua y sus relaciones con los paisajes naturales, analizando los factores y elementos implicados, y desarrollando actitudes y valores de aprecio del patrimonio natural y artístico.
 
 Criterios de evaluación:
 
@@ -5222,7 +5216,7 @@ h) Se han elaborado instrumentos sencillos de recogida de información mediante 
 
 i) Se han desarrollado comportamientos acordes con el desarrollo del propio esfuerzo y el trabajo colaborativo.
 
-2. Valora la construcción del espacio europeo hasta las primeras transformaciones industriales y sociedades agrarias, analizando sus características principales y valorando su pervivencia en la sociedad actual y en el entorno inmediato.
+2. Valora la construcción del espacio europeo hasta las primeras transformaciones industriales y sociedades agrarias, analizando sus características principales y valorando su pervivencia en la sociedad actual y en el entorno inmediato.
 
 Criterios de evaluación:
 
@@ -5244,7 +5238,7 @@ h) Se han elaborado instrumentos sencillos de recogida de información mediante 
 
 i) Se han desarrollado comportamientos acordes con el desarrollo del propio esfuerzo y el trabajo en equipo.
 
-3. Utiliza estrategias comunicativas para interpretar y comunicar información oral en lengua castellana, aplicando los principios de la escucha activa, estrategias sencillas de composición y las normas lingüísticas básicas.
+3. Utiliza estrategias comunicativas para interpretar y comunicar información oral en lengua castellana, aplicando los principios de la escucha activa, estrategias sencillas de composición y las normas lingüísticas básicas.
 
 Criterios de evaluación:
 
@@ -5258,7 +5252,7 @@ d) Se han analizado los usos y niveles de la lengua y las normas lingüísticas 
 
 e) Se ha utilizado la terminología gramatical apropiada en la comprensión de las actividades gramaticales propuestas y en la resolución de las mismas.
 
-4. Utiliza estrategias comunicativas para interpretar y comunicar información escrita en lengua castellana, aplicando estrategias de lectura comprensiva y aplicando estrategias de análisis, síntesis y clasificación de forma estructurada y progresiva a la composición autónoma de textos breves seleccionados.
+4. Utiliza estrategias comunicativas para interpretar y comunicar información escrita en lengua castellana, aplicando estrategias de lectura comprensiva y aplicando estrategias de análisis, síntesis y clasificación de forma estructurada y progresiva a la composición autónoma de textos breves seleccionados.
 
 Criterios de evaluación:
 
@@ -5280,7 +5274,7 @@ h) Se han observado pautas de presentación de trabajos escritos teniendo en cue
 
 i) Se han resuelto actividades de comprensión y análisis de las estructuras gramaticales, comprobando la validez de las inferencias realizadas.
 
-5. Realiza la lectura de textos literarios representativos de la Literatura en lengua castellana anteriores al siglo XIX, generando criterios estéticos para la construcción del gusto personal.
+5. Realiza la lectura de textos literarios representativos de la Literatura en lengua castellana anteriores al siglo XIX, generando criterios estéticos para la construcción del gusto personal.
 
 Criterios de evaluación:
 
@@ -5294,7 +5288,7 @@ d) Se han aplicado estrategias para la comprensión de textos literarios, tenien
 
 e) Se ha presentado información sobre periodos, autores y obras de la literatura en lengua castellana a partir de textos literarios.
 
-6. Utiliza estrategias para comunicar información oral en lengua inglesa, elaborando presentaciones orales de poca extensión, bien estructuradas, relativas a situaciones habituales de comunicación cotidiana y frecuente de ámbito personal o profesional.
+6. Utiliza estrategias para comunicar información oral en lengua inglesa, elaborando presentaciones orales de poca extensión, bien estructuradas, relativas a situaciones habituales de comunicación cotidiana y frecuente de ámbito personal o profesional.
 
 Criterios de evaluación:
 
@@ -5318,7 +5312,7 @@ i) Se han identificado las normas de relación social básicas y estandarizadas 
 
 j) Se han identificado las costumbres o actividades cotidianas de la comunidad donde se habla la lengua extranjera.
 
-7. Participa en conversaciones en lengua inglesa utilizando un lenguaje sencillo y claro en situaciones habituales frecuentes del ámbito personal o profesional, activando estrategias de comunicación básicas.
+7. Participa en conversaciones en lengua inglesa utilizando un lenguaje sencillo y claro en situaciones habituales frecuentes del ámbito personal o profesional, activando estrategias de comunicación básicas.
 
 Criterios de evaluación:
 
@@ -5332,7 +5326,7 @@ d) Se han utilizado estructuras gramaticales básicas y un repertorio esencial y
 
 e) Se ha expresado con cierta claridad, utilizando una entonación y pronunciación comprensible, aceptándose las pausas y dudas frecuentes.
 
-8. Elabora textos escritos en lengua inglesa, breves y sencillos de situaciones de comunicación habituales y frecuentes del ámbito personal o profesional, aplicando estrategias de lectura comprensiva y desarrollando estrategias estructuradas de composición.
+8. Elabora textos escritos en lengua inglesa, breves y sencillos de situaciones de comunicación habituales y frecuentes del ámbito personal o profesional, aplicando estrategias de lectura comprensiva y desarrollando estrategias estructuradas de composición.
 
 Criterios de evaluación:
 
@@ -5588,7 +5582,7 @@ Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten a
 
 – El desarrollo de hábitos de lectura que les permitan disfrutar de la producción literaria mediante el uso de textos seleccionados a sus necesidades y características.
 
-Â
+
 
 Módulo Profesional: Comunicación y sociedad II.
 
@@ -5596,7 +5590,7 @@ Código: 3012
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Infiere las características esenciales de las sociedades contemporáneas a partir del estudio de su evolución histórica, analizando los rasgos básicos de su organización social, política y económica.
+1. Infiere las características esenciales de las sociedades contemporáneas a partir del estudio de su evolución histórica, analizando los rasgos básicos de su organización social, política y económica.
 
 Criterios de evaluación:
 
@@ -5620,7 +5614,7 @@ i) Se han elaborado instrumentos pautados de recogida y difusión de informació
 
 j) Se han desarrollado comportamientos acordes con el desarrollo del propio esfuerzo y el trabajo colaborativo.
 
-2. Valora los principios básicos del sistema democrático analizando sus instituciones y las diferentes organizaciones políticas y económicas en que se manifiesta e infiriendo pautas de actuación para acomodar su comportamiento al cumplimiento de dichos principios.
+2. Valora los principios básicos del sistema democrático analizando sus instituciones y las diferentes organizaciones políticas y económicas en que se manifiesta e infiriendo pautas de actuación para acomodar su comportamiento al cumplimiento de dichos principios.
 
 Criterios de evaluación:
 
@@ -5636,7 +5630,7 @@ e) Se ha valorado la implicación del principio de no discriminación en las rel
 
 f) Se ha elaborado información pautada y organizada para su utilización en situaciones de trabajo colaborativo y contraste de opiniones.
 
-3. Utiliza estrategias comunicativas para interpretar y comunicar información oral en lengua castellana, aplicando los principios de la escucha activa, estrategias razonadas de composición y las normas lingüísticas correctas en cada caso.
+3. Utiliza estrategias comunicativas para interpretar y comunicar información oral en lengua castellana, aplicando los principios de la escucha activa, estrategias razonadas de composición y las normas lingüísticas correctas en cada caso.
 
 Criterios de evaluación:
 
@@ -5650,7 +5644,7 @@ d) Se han aplicado los usos y niveles de la lengua y las normas lingüísticas e
 
 e) Se ha utilizado la terminología gramatical correcta en la comprensión de las actividades gramaticales propuestas y en la resolución de las mismas.
 
-4. Utiliza estrategias comunicativas para comunicar información escrita en lengua castellana, aplicando estrategias de análisis, síntesis y clasificación de forma estructurada a la composición autónoma de textos de progresiva complejidad.
+4. Utiliza estrategias comunicativas para comunicar información escrita en lengua castellana, aplicando estrategias de análisis, síntesis y clasificación de forma estructurada a la composición autónoma de textos de progresiva complejidad.
 
 Criterios de evaluación:
 
@@ -5672,7 +5666,7 @@ h) Se han observado pautas de presentación de trabajos escritos teniendo en cue
 
 i) Se han resuelto actividades de comprensión y análisis de las estructuras gramaticales, comprobando la precisión y validez de las inferencias realizadas.
 
-5. Interpreta textos literarios representativos de la Literatura en lengua castellana desde el siglo XIX hasta la actualidad, reconociendo la intención del autor y relacionándolo con su contexto histórico, sociocultural y literario.
+5. Interpreta textos literarios representativos de la Literatura en lengua castellana desde el siglo XIX hasta la actualidad, reconociendo la intención del autor y relacionándolo con su contexto histórico, sociocultural y literario.
 
 Criterios de evaluación:
 
@@ -5686,7 +5680,7 @@ d) Se han aplicado estrategias de análisis de textos literarios, reconociendo l
 
 e) Se ha informado sobre un autor, una obra o un período de la literatura en lengua castellana, recogiendo en forma analítica la información correspondiente.
 
-6. Utiliza estrategias para interpretar y comunicar información oral en lengua inglesa, aplicando los principios de la escucha activa y elaborando presentaciones orales de poca extensión, claras y estructuradas, relativas a temas y aspectos concretos, frecuentes y cotidianos, del ámbito personal y profesional.
+6. Utiliza estrategias para interpretar y comunicar información oral en lengua inglesa, aplicando los principios de la escucha activa y elaborando presentaciones orales de poca extensión, claras y estructuradas, relativas a temas y aspectos concretos, frecuentes y cotidianos, del ámbito personal y profesional.
 
 Criterios de evaluación:
 
@@ -5712,7 +5706,7 @@ j) Se han identificado las costumbres o actividades cotidianas de la comunidad y
 
 k) Se han identificado las principales actitudes y comportamientos profesionales en situaciones de comunicación habituales del ámbito profesional.
 
-7. Mantiene conversaciones sencillas en lengua inglesa en situaciones habituales y concretas del ámbito personal y profesional, utilizando estrategias de comunicación básicas.
+7. Mantiene conversaciones sencillas en lengua inglesa en situaciones habituales y concretas del ámbito personal y profesional, utilizando estrategias de comunicación básicas.
 
 Criterios de evaluación:
 
@@ -5728,7 +5722,7 @@ e) Se han utilizado estructuras gramaticales y oraciones sencillas y un repertor
 
 f) Se ha expresado con cierta claridad, usando una entonación y pronunciación razonable y comprensible, aceptándose algunas pausas y vacilaciones.
 
-8. Elabora textos breves y sencillos con cierto detalle en lengua inglesa, relativos a situaciones de comunicación habituales del ámbito personal y profesional, aplicando estrategias de lectura comprensiva y desarrollando estrategias sistemáticas de composición.
+8. Elabora textos breves y sencillos con cierto detalle en lengua inglesa, relativos a situaciones de comunicación habituales del ámbito personal y profesional, aplicando estrategias de lectura comprensiva y desarrollando estrategias sistemáticas de composición.
 
 Criterios de evaluación:
 
@@ -5996,7 +5990,7 @@ Código: 3147
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Efectúa las operaciones de limpieza, secado, planchado y arreglos básicos de costura de prendas de vestir y ropa de hogar, aplicando las técnicas y procedimientos apropiados en cada proceso, de acuerdo a las instrucciones recibidas.
+1. Efectúa las operaciones de limpieza, secado, planchado y arreglos básicos de costura de prendas de vestir y ropa de hogar, aplicando las técnicas y procedimientos apropiados en cada proceso, de acuerdo a las instrucciones recibidas.
 
 Criterios de evaluación:
 
@@ -6014,7 +6008,7 @@ f) Se ha realizado un esfuerzo por cumplir las tareas en los umbrales de tiempo 
 
 g) Se han adoptado medidas de seguridad e higiene postural durante la realización del trabajo.
 
-2. Realiza elaboraciones culinarias sencillas, interpretando y relacionando instrucciones y/o documentos relacionados con la aplicación de técnicas, normas y procedimientos de trabajo preestablecidos.
+2. Realiza elaboraciones culinarias sencillas, interpretando y relacionando instrucciones y/o documentos relacionados con la aplicación de técnicas, normas y procedimientos de trabajo preestablecidos.
 
 Criterios de evaluación:
 
@@ -6034,7 +6028,7 @@ g) Se han aplicado procedimientos de limpieza, recogiendo y guardando los útile
 
 h) Se han aplicado las normas básicas de higiene para la prevención de riesgos sanitarios en las técnicas domésticas de cocina.
 
-3. Realiza la limpieza en domicilios, edificios, locales y oficinas, seleccionando las acciones en función de las características de cada espacio y cumpliendo las instrucciones recibidas y/o el plan de trabajo asignado.
+3. Realiza la limpieza en domicilios, edificios, locales y oficinas, seleccionando las acciones en función de las características de cada espacio y cumpliendo las instrucciones recibidas y/o el plan de trabajo asignado.
 
 Criterios de evaluación:
 
@@ -6054,7 +6048,7 @@ g) Se ha responsabilizado del trabajo que desarrolla y de los materiales y maqui
 
 h) Se han aplicado las normas básicas de prevención de riesgos laborales en la realización de la limpieza domiciliaria, y en edificios, oficinas y locales.
 
-4. Realiza los procedimientos de limpieza de suelos, paredes, techos y zonas acristaladas, seleccionando útiles y productos en función de sus características, de acuerdo con las instrucciones establecidas.
+4. Realiza los procedimientos de limpieza de suelos, paredes, techos y zonas acristaladas, seleccionando útiles y productos en función de sus características, de acuerdo con las instrucciones establecidas.
 
 Criterios de evaluación:
 
@@ -6074,7 +6068,7 @@ g) Se han aplicado las normas básicas de prevención de riesgos laborales en la
 
 h) Se han aplicado los protocolos establecidos de eliminación de residuos, en relación al tratamiento de los residuos producidos.
 
-5. Se han aplicado los procedimientos de limpieza industrial y de tratamiento de suelos, seleccionando las máquinas, accesorios y productos en función de las características del trabajo encomendado.
+5. Se han aplicado los procedimientos de limpieza industrial y de tratamiento de suelos, seleccionando las máquinas, accesorios y productos en función de las características del trabajo encomendado.
 
 Criterios de evaluación:
 
@@ -6098,7 +6092,7 @@ i) Se han adoptado las medidas de seguridad necesarias para evitar los riesgos l
 
 j) Se ha manejado la maquinaria industrial, teniendo en cuenta criterios de ergonomía y salud laboral.
 
-6. Realiza tareas de acompañamiento a niños y otras personas no dependientes en el domicilio, siguiendo las instrucciones recibidas.
+6. Realiza tareas de acompañamiento a niños y otras personas no dependientes en el domicilio, siguiendo las instrucciones recibidas.
 
 Criterios de evaluación:
 
@@ -6114,7 +6108,7 @@ e) Se ha mantenido una actitud positiva en la realización de las tareas encomen
 
 f) Se ha mantenido una actitud conciliadora y sensible a los demás, demostrando empatía, cordialidad y amabilidad en el trato.
 
-7. Aplica medidas de prevención en los riesgos asociados al trabajo al ámbito doméstico, valorando la importancia de la prevención de accidentes, justificando su uso.
+7. Aplica medidas de prevención en los riesgos asociados al trabajo al ámbito doméstico, valorando la importancia de la prevención de accidentes, justificando su uso.
 
 Criterios de evaluación:
 
@@ -6146,7 +6140,7 @@ Este módulo profesional contribuye a completar las competencias y objetivos gen
 
 Contribuye, además, al afianzamiento de hábitos de orden, puntualidad, responsabilidad y pulcritud.
 
-4. Requisitos mínimos de calidad del contexto formativo.
+4. Requisitos mínimos de calidad del contexto formativo.
 
 **4.1** Espacios.
 
@@ -6158,7 +6152,7 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 **4.2** Equipamientos mínimos.
 
-5. Profesorado.
+5. Profesorado.
 
 **5.1** Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional, son:
 
@@ -6206,9 +6200,9 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 3147. Formación en centros de trabajo.
 
-6. Correspondencia entre módulos profesionales y unidades de competencia para su acreditación o convalidación.
+6. Correspondencia entre módulos profesionales y unidades de competencia para su acreditación o convalidación.
 
-7. Ciclos formativos de grado medio a los que este título permite la aplicación de criterios de preferencia para la admisión en caso de concurrencia competitiva.
+7. Ciclos formativos de grado medio a los que este título permite la aplicación de criterios de preferencia para la admisión en caso de concurrencia competitiva.
 
 Este título tendrá preferencia para la admisión a todos los títulos de grado medio de las familias profesionales de:
 
@@ -6222,7 +6216,7 @@ Este título tendrá preferencia para la admisión a todos los títulos de grado
 
 Título profesional básico en mantenimiento de viviendas
 
-1. Identificación del título.
+1. Identificación del título.
 
 El Título profesional básico en mantenimiento de viviendas queda identificado por los siguientes elementos:
 
@@ -6236,7 +6230,7 @@ El Título profesional básico en mantenimiento de viviendas queda identificado 
 
 – Referente europeo: CINE-3.5.3 (Clasificación Internacional Normalizada de la Educación).
 
-2. Perfil profesional.
+2. Perfil profesional.
 
 **2.1** Competencia general del título.
 
@@ -6348,7 +6342,7 @@ d) La competitividad de las empresas constructoras dedicadas a la edificación y
 
 e) Debido al cambio de modelo social y al auge de la introducción de nuevas tecnologías y materiales en las viviendas, surge la necesidad un profesional polivalente capaz de resolver situaciones específicas a los usuarios de la viviendas, tales como las averías simples de una vivienda, el montaje de muebles y mobiliario doméstico y mamparas, reparaciones sencillas de elementos de fontanería, climatización, albañilería básica, pintura y reparaciones simples en la instalación eléctrica y domótica.
 
-3. Enseñanzas del ciclo formativo.
+3. Enseñanzas del ciclo formativo.
 
 **3.1** Objetivos generales del título.
 
@@ -6452,7 +6446,7 @@ Código: 3088
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Identifica elementos, equipos y herramientas utilizados en instalaciones eléctricas de viviendas, describiendo sus características y aplicación.
+1. Identifica elementos, equipos y herramientas utilizados en instalaciones eléctricas de viviendas, describiendo sus características y aplicación.
 
 Criterios de evaluación:
 
@@ -6470,7 +6464,7 @@ f) Se han asociado las herramientas seleccionadas con las operaciones que se van
 
 g) Se han seleccionado elementos, equipos y herramientas de instalaciones eléctricas/domóticas para efectuar su montaje y mantenimiento
 
-2. Realiza operaciones de montaje de canalizaciones, soportes y cajas de instalaciones eléctricas básicas de baja tensión y/o domótica de viviendas, efectuando el replanteo del trazado y aplicando la técnica de montaje correspondiente
+2. Realiza operaciones de montaje de canalizaciones, soportes y cajas de instalaciones eléctricas básicas de baja tensión y/o domótica de viviendas, efectuando el replanteo del trazado y aplicando la técnica de montaje correspondiente
 
 Criterios de evaluación:
 
@@ -6486,7 +6480,7 @@ e) Se han montado las cajas de registro y conexión de elementos y domóticas, r
 
 f) Se han realizado los trabajos utilizando los equipos de protección individual requeridos con seguridad, orden y limpieza,
 
-3. Realiza operaciones de cableado entre elementos, bajo tubo o superficie de las instalaciones eléctricas de baja tensión y/o domóticas, aplicando técnicas de montaje de acuerdo a la tipología de los conductores y las características de la instalación.
+3. Realiza operaciones de cableado entre elementos, bajo tubo o superficie de las instalaciones eléctricas de baja tensión y/o domóticas, aplicando técnicas de montaje de acuerdo a la tipología de los conductores y las características de la instalación.
 
 Criterios de evaluación:
 
@@ -6510,7 +6504,7 @@ i) Se han utilizado los equipos de protección individual requeridos.
 
 j) Se han realizado los trabajos con orden y limpieza.
 
-4. Realiza operaciones de montaje y sustitución de mecanismos y elementos de las instalaciones eléctricas y/o domóticas de viviendas, aplicando la técnica de conexión requerida y los elementos de conexión correspondientes.
+4. Realiza operaciones de montaje y sustitución de mecanismos y elementos de las instalaciones eléctricas y/o domóticas de viviendas, aplicando la técnica de conexión requerida y los elementos de conexión correspondientes.
 
 Criterios de evaluación:
 
@@ -6528,7 +6522,7 @@ f) Se han colocado embellecedores y tapas cuando así se requiera.
 
 g) Se han utilizado las herramientas y materiales según requerimientos y seguridad requerida.
 
-5. Comprueba el funcionamiento de instalaciones eléctricas y/o domóticas de viviendas, relacionando la disfunción producida con el mecanismo, elemento afectado o mala conexión.
+5. Comprueba el funcionamiento de instalaciones eléctricas y/o domóticas de viviendas, relacionando la disfunción producida con el mecanismo, elemento afectado o mala conexión.
 
 Criterios de evaluación:
 
@@ -6620,7 +6614,7 @@ Código: 3090
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Realiza operaciones de preparación y mantenimiento del puesto de trabajo, seleccionando herramientas, medios auxiliares y materiales que se van a utilizar.
+1. Realiza operaciones de preparación y mantenimiento del puesto de trabajo, seleccionando herramientas, medios auxiliares y materiales que se van a utilizar.
 
 Criterios de evaluación:
 
@@ -6636,7 +6630,7 @@ e) Se han señalizado las zonas de actuación, utilizando los elementos de seña
 
 f) Se han identificado y descrito la utilidad y el uso de los medios auxiliares y de los elementos de protección colectiva.
 
-2. Realiza operaciones de preparación y uso básico de morteros, pastas de yeso y adhesivos, relacionando las dosificaciones e instrucciones de uso con sus aplicaciones.
+2. Realiza operaciones de preparación y uso básico de morteros, pastas de yeso y adhesivos, relacionando las dosificaciones e instrucciones de uso con sus aplicaciones.
 
 Criterios de evaluación:
 
@@ -6666,7 +6660,7 @@ l) Se ha humedecido el paño después de la aplicación del revestimiento.
 
 m) Se ha operado con las herramientas aplicando los equipos de protección individual y seguridad requeridas.
 
-3. Realiza operaciones auxiliares de albañilería para instalaciones de fontanería, saneamiento, electricidad y climatización, aplicando la técnica correspondientes y sin deterioro de los elementos a instalar.
+3. Realiza operaciones auxiliares de albañilería para instalaciones de fontanería, saneamiento, electricidad y climatización, aplicando la técnica correspondientes y sin deterioro de los elementos a instalar.
 
 Criterios de evaluación:
 
@@ -6688,7 +6682,7 @@ h) Se ha comprobado el resultado obtenido y posible uso en el montaje de la inst
 
 i) Se ha operado con las herramientas adecuadas, aplicando los equipos de protección individual y seguridad requeridas.
 
-4. Realiza operaciones sencillas de colocación y sustitución de elementos cerámicos, solados y alicatados; y de revestimientos continuos de superficies aplicando la técnica correspondiente y con la estética requerida.
+4. Realiza operaciones sencillas de colocación y sustitución de elementos cerámicos, solados y alicatados; y de revestimientos continuos de superficies aplicando la técnica correspondiente y con la estética requerida.
 
 Criterios de evaluación:
 
@@ -6708,7 +6702,7 @@ g) Se han retirado y gestionado los residuos sobrantes limpiado las superficies 
 
 h) Se ha utilizado las herramientas con los requerimientos correspondientes y con los equipos de protección individual y seguridad requeridas.
 
-5. Realiza operaciones de pintado sencillas de diferentes superficies de interior y exterior aplicando las mezclas correspondientes y la técnica requerida en función de las características de la superficie a pintar.
+5. Realiza operaciones de pintado sencillas de diferentes superficies de interior y exterior aplicando las mezclas correspondientes y la técnica requerida en función de las características de la superficie a pintar.
 
 Criterios de evaluación:
 
@@ -6728,7 +6722,7 @@ g) Se ha comprobado el resultado de la intervención, identificando posibles def
 
 h) Se ha limpiado y recogido el material, comprobando que no se ha manchado o dañado la zona de trabajo.
 
-6. Realiza operaciones auxiliares en el montaje e instalación de muebles prefabricados y sencillos aplicando las técnicas requeridas y siguiendo instrucciones de montaje.
+6. Realiza operaciones auxiliares en el montaje e instalación de muebles prefabricados y sencillos aplicando las técnicas requeridas y siguiendo instrucciones de montaje.
 
 Criterios de evaluación:
 
@@ -6744,7 +6738,7 @@ e) Se ha efectuado la instalación sin que los elementos arquitectónicos, cerco
 
 f) Se han aplicado las normas de seguridad y prevención de riesgos laborales
 
-7. Realiza operaciones de ajuste de piezas, herrajes y mecanismos, relacionándolos con su función en el elemento de carpintería o mueble.
+7. Realiza operaciones de ajuste de piezas, herrajes y mecanismos, relacionándolos con su función en el elemento de carpintería o mueble.
 
 Criterios de evaluación:
 
@@ -6762,7 +6756,7 @@ f) Se ha verificado que el desplazamiento de las piezas móviles se realiza sin 
 
 g) Se han aplicado las normas de seguridad y prevención de riesgos laborales.
 
-8. Realiza operaciones básicas de mecanizado sobre madera y derivados, elementos metálicos y no metálicas con herramientas manuales o con maquinaria portátil, aplicando la técnica correspondiente en función del material y las condiciones de mecanizado.
+8. Realiza operaciones básicas de mecanizado sobre madera y derivados, elementos metálicos y no metálicas con herramientas manuales o con maquinaria portátil, aplicando la técnica correspondiente en función del material y las condiciones de mecanizado.
 
 Criterios de evaluación:
 
@@ -6922,7 +6916,7 @@ Código: 3023
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Realiza operaciones de acondicionamiento del puesto de trabajo describiendo las operaciones a realizar e identificando equipos y materiales.
+1. Realiza operaciones de acondicionamiento del puesto de trabajo describiendo las operaciones a realizar e identificando equipos y materiales.
 
 Criterios de evaluación:
 
@@ -6942,7 +6936,7 @@ g) Se han mantenido las zonas de trabajo de su responsabilidad en condiciones de
 
 h) Se han aplicado las normas de seguridad y salud laboral, utilizando los medios individuales de protección.
 
-2. Realiza operaciones de montaje redes generales de evacuación de agua sencillas, aplicando la técnica requerida y relacionando cada componente con la función que realiza.
+2. Realiza operaciones de montaje redes generales de evacuación de agua sencillas, aplicando la técnica requerida y relacionando cada componente con la función que realiza.
 
 Criterios de evaluación:
 
@@ -6964,7 +6958,7 @@ h) Se ha retirado el material sobrante, clasificándolo para su aprovechamiento 
 
 i) Se han observado las normas de seguridad y salud laboral, utilizando los medios individuales de protección
 
-3. Realiza operaciones de montaje redes de evacuación de aguas pluviales sencillas, aplicando la técnica requerida y relacionando cada componente con la función que realiza.
+3. Realiza operaciones de montaje redes de evacuación de aguas pluviales sencillas, aplicando la técnica requerida y relacionando cada componente con la función que realiza.
 
 Criterios de evaluación:
 
@@ -6986,7 +6980,7 @@ l) Se ha retirado el material sobrante, clasificándolo para su aprovechamiento 
 
 m) Se han observado las normas de seguridad y salud laboral, utilizando los medios individuales de protección
 
-4. Realiza operaciones de montaje redes de evacuación de aguas residuales sencillas, aplicando la técnica requerida y relacionando cada componente con la función que realiza.
+4. Realiza operaciones de montaje redes de evacuación de aguas residuales sencillas, aplicando la técnica requerida y relacionando cada componente con la función que realiza.
 
 Criterios de evaluación:
 
@@ -7010,7 +7004,7 @@ i) Se ha retirado el material sobrante, clasificándolo para su aprovechamiento 
 
 j) Se han observado las normas de seguridad y salud laboral, utilizando los medios individuales de protección
 
-5. Mantiene redes de evacuación de aguas, asociando las disfunciones con su posible causa de origen.
+5. Mantiene redes de evacuación de aguas, asociando las disfunciones con su posible causa de origen.
 
 Criterios de evaluación:
 
@@ -7146,7 +7140,7 @@ Código: 3024
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Elabora presupuestos elementales identificando el coste de los materiales y de los recursos.
+1. Elabora presupuestos elementales identificando el coste de los materiales y de los recursos.
 
 Criterios de evaluación:
 
@@ -7166,7 +7160,7 @@ g) Se ha valorado el coste de desmontaje de instalaciones existente.
 
 h) Se ha confeccionado el presupuesto, utilizando medios informáticos.
 
-2. Realiza operaciones de acondicionamiento del puesto de trabajo, seleccionando herramientas, medios auxiliares y materiales que se van a utilizar.
+2. Realiza operaciones de acondicionamiento del puesto de trabajo, seleccionando herramientas, medios auxiliares y materiales que se van a utilizar.
 
 Criterios de evaluación:
 
@@ -7188,7 +7182,7 @@ h) Se han acopiado los restos de materiales para su posterior retirada.
 
 i) Se han utilizado los elementos de protección necesarios.
 
-3. Realiza operaciones de montaje de redes de suministro de agua sencillas, aplicando la técnica correspondiente y relacionando cada componente de la instalación con la función que realiza.
+3. Realiza operaciones de montaje de redes de suministro de agua sencillas, aplicando la técnica correspondiente y relacionando cada componente de la instalación con la función que realiza.
 
 Criterios de evaluación:
 
@@ -7214,7 +7208,7 @@ j) Se ha mantenido limpia y ordenada la zona de trabajo.
 
 k) Se han utilizado los elementos de protección adecuados a los trabajos.
 
-4. Realiza operaciones de montaje de instalaciones de riego automático, distribuyendo los elementos y aplicando técnicas básicas de montaje.
+4. Realiza operaciones de montaje de instalaciones de riego automático, distribuyendo los elementos y aplicando técnicas básicas de montaje.
 
 Criterios de evaluación:
 
@@ -7236,7 +7230,7 @@ h) Se ha acopiado el material sobrante para su posterior aprovechamiento o recic
 
 i) Se han utilizado las medidas de seguridad requeridas para realizar las instalaciones.
 
-5. Realiza operaciones de montaje de instalaciones de calefacción, identificando los elementos y la función que realizan en la instalación.
+5. Realiza operaciones de montaje de instalaciones de calefacción, identificando los elementos y la función que realizan en la instalación.
 
 Criterios de evaluación:
 
@@ -7260,7 +7254,7 @@ i) Se ha acopiado el material sobrante para su posterior aprovechamiento o recic
 
 j) Se han utilizado las medidas de seguridad requeridas para realizar las instalaciones.
 
-6. Realiza operaciones de montaje aparatos sanitarios, identificando la secuencia de operaciones en la documentación básica y aplicando la técnica requerida..
+6. Realiza operaciones de montaje aparatos sanitarios, identificando la secuencia de operaciones en la documentación básica y aplicando la técnica requerida..
 
 Criterios de evaluación:
 
@@ -7284,7 +7278,7 @@ i) Se han aplicado criterios de seguridad en el transporte y manipulación de la
 
 j) Se ha colaborado con los compañeros en el montaje de los equipos.
 
-7. Realiza operaciones de mantenimiento de instalaciones de redes de suministro de agua y calefacción, identificando las operaciones a realizar y relacionando las disfunciones con sus posibles soluciones.
+7. Realiza operaciones de mantenimiento de instalaciones de redes de suministro de agua y calefacción, identificando las operaciones a realizar y relacionando las disfunciones con sus posibles soluciones.
 
 Criterios de evaluación:
 
@@ -7466,7 +7460,7 @@ Código: 3025
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Prepara las zonas de trabajo identificando las operaciones a realizar, equipos y materiales.
+1. Prepara las zonas de trabajo identificando las operaciones a realizar, equipos y materiales.
 
 Criterios de evaluación:
 
@@ -7486,7 +7480,7 @@ g) Se ha mantenido limpia y ordenada la zona de trabajo.
 
 h) Se han utilizado los equipos de protección necesarios para realizar los trabajos con prevención y seguridad.
 
-2. Realiza operaciones de montaje de equipos domésticos de climatización aplicando la técnica correspondiente y describiendo el funcionamiento de la instalación y la secuencia de operaciones a realizar.
+2. Realiza operaciones de montaje de equipos domésticos de climatización aplicando la técnica correspondiente y describiendo el funcionamiento de la instalación y la secuencia de operaciones a realizar.
 
 Criterios de evaluación:
 
@@ -7512,7 +7506,7 @@ j) Se ha recogido la zona de trabajo.
 
 k) Se han seleccionado los materiales sobrantes para su reutilización o reciclaje.
 
-3. Realiza operaciones de montaje de equipos de ventilación y conducciones de aire, aplicando la técnica requerida y describiendo el su funcionamiento de la instalación y la secuencia de operaciones a realizar.
+3. Realiza operaciones de montaje de equipos de ventilación y conducciones de aire, aplicando la técnica requerida y describiendo el su funcionamiento de la instalación y la secuencia de operaciones a realizar.
 
 Criterios de evaluación:
 
@@ -7534,7 +7528,7 @@ h) Se ha colaborado con los compañeros en el montaje de las instalaciones.
 
 i) Se ha recogido la zona de trabajo y se han acopiado los materiales sobrantes para su reutilización o reciclaje.
 
-4. Monta soportes para unidades exteriores, aplicando la técnica requerida y aplicando las normas de seguridad.
+4. Monta soportes para unidades exteriores, aplicando la técnica requerida y aplicando las normas de seguridad.
 
 Criterios de evaluación:
 
@@ -7638,7 +7632,7 @@ Código: 3009
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Resuelve problemas matemáticos en situaciones cotidianas, utilizando los elementos básicos del lenguaje matemático y sus operaciones.
+1. Resuelve problemas matemáticos en situaciones cotidianas, utilizando los elementos básicos del lenguaje matemático y sus operaciones.
 
 Criterios de evaluación:
 
@@ -7662,7 +7656,7 @@ i) Se ha utilizado la regla de tres para resolver problemas en los que intervien
 
 j) Se ha aplicado el interés simple y compuesto en actividades cotidianas.
 
-2. Reconoce las instalaciones y el material de laboratorio valorándolos como recursos necesarios para la realización de las prácticas.
+2. Reconoce las instalaciones y el material de laboratorio valorándolos como recursos necesarios para la realización de las prácticas.
 
 Criterios de evaluación:
 
@@ -7672,7 +7666,7 @@ b) Se han manipulado adecuadamente los materiales instrumentales del laboratorio
 
 c) Se han tenido en cuenta las condiciones de higiene y seguridad para cada una de la técnicas experimentales que se van a realizar.
 
-3. Identifica propiedades fundamentales de la materia en las diferentes formas en las que se presenta en la naturaleza, manejando sus magnitudes físicas y sus unidades fundamentales en unidades de sistema métrico decimal.
+3. Identifica propiedades fundamentales de la materia en las diferentes formas en las que se presenta en la naturaleza, manejando sus magnitudes físicas y sus unidades fundamentales en unidades de sistema métrico decimal.
 
 Criterios de evaluación:
 
@@ -7696,7 +7690,7 @@ i) Se han reconocido los distintos estados de agregación de una sustancia dadas
 
 j) Se han establecido diferencias entre ebullición y evaporación utilizando ejemplos sencillos.
 
-4. Utiliza el método más adecuado para la separación de componentes de mezclas sencillas relacionándolo con el proceso físico o químico en que se basa.
+4. Utiliza el método más adecuado para la separación de componentes de mezclas sencillas relacionándolo con el proceso físico o químico en que se basa.
 
 Criterios de evaluación:
 
@@ -7714,7 +7708,7 @@ f) Se han descrito las características generales básicas de materiales relacio
 
 g) Se ha trabajado en equipo en la realización de tareas.
 
-5. Reconoce cómo la energía está presente en los procesos naturales describiendo fenómenos simples de la vida real.
+5. Reconoce cómo la energía está presente en los procesos naturales describiendo fenómenos simples de la vida real.
 
 Criterios de evaluación:
 
@@ -7732,7 +7726,7 @@ f) Se han mostrado en diferentes sistemas la conservación de la energía.
 
 g) Se han descrito procesos relacionados con el mantenimiento del organismo y de la vida en los que se aprecia claramente el papel de la energía.
 
-6. Localiza las estructuras anatómicas básica discriminando los sistemas o aparatos a los que pertenecen y asociándolos a las funciones que producen en el organismo.
+6. Localiza las estructuras anatómicas básica discriminando los sistemas o aparatos a los que pertenecen y asociándolos a las funciones que producen en el organismo.
 
 Criterios de evaluación:
 
@@ -7750,7 +7744,7 @@ f) Se ha detallado cómo funciona el proceso de relación.
 
 g) Se han utilizado herramientas informáticas describir adecuadamente los aparatos y sistemas.
 
-7. Diferencia la salud de la enfermedad, relacionando los hábitos de vida con las enfermedades más frecuentes reconociendo los principios básicos de defensa contra las mismas.
+7. Diferencia la salud de la enfermedad, relacionando los hábitos de vida con las enfermedades más frecuentes reconociendo los principios básicos de defensa contra las mismas.
 
 Criterios de evaluación:
 
@@ -7772,7 +7766,7 @@ h) Se han reconocido situaciones de riesgo para la salud relacionadas con su ent
 
 i) Se han diseñado pautas de hábitos saludables relacionados con situaciones cotidianas.
 
-8. Elabora menús y dietas equilibradas sencillas diferenciando los nutrientes que contienen y adaptándolos a los distintos parámetros corporales y a situaciones diversas.
+8. Elabora menús y dietas equilibradas sencillas diferenciando los nutrientes que contienen y adaptándolos a los distintos parámetros corporales y a situaciones diversas.
 
 Criterios de evaluación:
 
@@ -7790,7 +7784,7 @@ f) Se ha calculado el metabolismo basal y sus resultados se ha representado en u
 
 g) Se han elaborado menús para situaciones concretas, investigando en la red las propiedades de los alimentos.
 
-9. Resuelve situaciones cotidianas, utilizando expresiones algebraicas sencillas y aplicando los métodos de resolución más adecuados.
+9. Resuelve situaciones cotidianas, utilizando expresiones algebraicas sencillas y aplicando los métodos de resolución más adecuados.
 
 Criterios de evaluación:
 
@@ -7952,7 +7946,7 @@ Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alca
 
 – La resolución de problemas, tanto en el ámbito científico como cotidiano.
 
-Â
+
 
 Módulo Profesional: Ciencias aplicadas II.
 
@@ -7960,7 +7954,7 @@ Código: 3019
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Resuelve situaciones cotidianas aplicando los métodos de resolución de ecuaciones y sistemas y valorando la precisión, simplicidad y utilidad del lenguaje algebraico.
+1. Resuelve situaciones cotidianas aplicando los métodos de resolución de ecuaciones y sistemas y valorando la precisión, simplicidad y utilidad del lenguaje algebraico.
 
 Criterios de evaluación:
 
@@ -7974,7 +7968,7 @@ d) Se han resuelto problemas cotidianos y de otras áreas de conocimiento median
 
 e) Se ha valorado la precisión, simplicidad y utilidad del lenguaje algebraico para representar situaciones planteadas en la vida real.
 
-2. Resuelve problemas sencillos de diversa índole, a través de su análisis contrastado y aplicando las fases del método científico.
+2. Resuelve problemas sencillos de diversa índole, a través de su análisis contrastado y aplicando las fases del método científico.
 
 Criterios de evaluación:
 
@@ -7990,7 +7984,7 @@ e) Se han recopilado los resultados de los ensayos de verificación y plasmado e
 
 f) Se ha defendido el resultado con argumentaciones y pruebas las verificaciones o refutaciones de las hipótesis emitidas.
 
-3. Realiza medidas directas e indirectas de figuras geométricas presentes en contextos reales, utilizando los instrumentos, las fórmulas y las técnicas necesarias.
+3. Realiza medidas directas e indirectas de figuras geométricas presentes en contextos reales, utilizando los instrumentos, las fórmulas y las técnicas necesarias.
 
 Criterios de evaluación:
 
@@ -8004,7 +7998,7 @@ d) Se ha trabajado en equipo en la obtención de medidas.
 
 e) Se han utilizado las TIC para representar distintas figuras.
 
-4. Interpreta gráficas de dos magnitudes calculando los parámetros significativos de las mismas y relacionándolo con funciones matemáticas elementales y los principales valores estadísticos.
+4. Interpreta gráficas de dos magnitudes calculando los parámetros significativos de las mismas y relacionándolo con funciones matemáticas elementales y los principales valores estadísticos.
 
 Criterios de evaluación:
 
@@ -8028,7 +8022,7 @@ i) Se han aplicado las propiedades de los sucesos y la probabilidad.
 
 j) Se han resueltos problemas cotidianos mediante cálculos de probabilidad sencillos.
 
-5. Aplica técnicas físicas o químicas, utilizando el material necesario, para la realización de prácticas de laboratorio sencillas, midiendo las magnitudes implicadas.
+5. Aplica técnicas físicas o químicas, utilizando el material necesario, para la realización de prácticas de laboratorio sencillas, midiendo las magnitudes implicadas.
 
 Criterios de evaluación:
 
@@ -8042,7 +8036,7 @@ d) Se ha descrito la célula y tejidos animales y vegetales mediante su observac
 
 e) Se han elaborado informes de ensayos en los que se incluye el procedimiento seguido, los resultados obtenidos y las conclusiones finales.
 
-6. Reconoce las reacciones químicas que se producen en los procesos biológicos y en la industria argumentando su importancia en la vida cotidiana y describiendo los cambios que se producen.
+6. Reconoce las reacciones químicas que se producen en los procesos biológicos y en la industria argumentando su importancia en la vida cotidiana y describiendo los cambios que se producen.
 
 Criterios de evaluación:
 
@@ -8058,7 +8052,7 @@ e) Se han identificado los componentes y el proceso de reacciones químicas senc
 
 f) Se han elaborado informes utilizando las TIC sobre las industrias más relevantes: alimentarias, cosmética, reciclaje, describiendo de forma sencilla los procesos que tienen lugar en las mismas.
 
-7. Identifica aspectos positivos y negativos del uso de la energía nuclear describiendo los efectos de la contaminación generada en su aplicación.
+7. Identifica aspectos positivos y negativos del uso de la energía nuclear describiendo los efectos de la contaminación generada en su aplicación.
 
 Criterios de evaluación:
 
@@ -8072,7 +8066,7 @@ d) Se ha argumentado sobre la problemática de los residuos nucleares.
 
 e) Se ha trabajado en equipo y utilizado las TIC.
 
-8. Identifica los cambios que se producen en el planeta tierra argumentando sus causas y teniendo en cuenta las diferencias que existen entre relieve y paisaje.
+8. Identifica los cambios que se producen en el planeta tierra argumentando sus causas y teniendo en cuenta las diferencias que existen entre relieve y paisaje.
 
 Criterios de evaluación:
 
@@ -8086,7 +8080,7 @@ d) Se ha descrito el proceso de transporte discriminando los agentes geológicos
 
 e) Se ha analizado el proceso de sedimentación discriminado los agentes geológicos externos que intervienen, las situaciones y las consecuencias en el relieve.
 
-9. Categoriza los contaminantes atmosféricos principales identificando sus orígenes y relacionándolos con los efectos que producen.
+9. Categoriza los contaminantes atmosféricos principales identificando sus orígenes y relacionándolos con los efectos que producen.
 
 Criterios de evaluación:
 
@@ -8098,7 +8092,7 @@ c) Se ha descrito el efecto invernadero argumentando las causas que lo originan 
 
 d) Se ha descrito la problemática que ocasiona la pérdida paulatina de la capa de ozono, las consecuencias para la salud de las personas, el equilibrio de la hidrosfera y las poblaciones.
 
-10. Identifica los contaminantes del agua relacionando su efecto en el medio ambiente con su tratamiento de depuración.
+10. Identifica los contaminantes del agua relacionando su efecto en el medio ambiente con su tratamiento de depuración.
 
 Criterios de evaluación:
 
@@ -8110,7 +8104,7 @@ c) Se han identificado posibles contaminantes en muestras de agua de distinto or
 
 d) Se ha analizado los efectos producidos por la contaminación del agua y el uso responsable de la misma.
 
-11. Contribuye al equilibrio medioambientaI analizando y argumentando las líneas básicas sobre el desarrollo sostenible y proponiendo acciones para su mejora y conservación.
+11. Contribuye al equilibrio medioambientaI analizando y argumentando las líneas básicas sobre el desarrollo sostenible y proponiendo acciones para su mejora y conservación.
 
 Criterios de evaluación:
 
@@ -8122,7 +8116,7 @@ c) Se han diseñado estrategias básicas para posibilitar el mantenimiento del m
 
 d) Se ha trabajado en equipo en la identificación de los objetivos para la mejora del medioambiente.
 
-12. Relaciona las fuerzas que aparecen en situaciones habituales con los efectos producidos teniendo en cuenta su contribución al movimiento o reposo de los objetos y las magnitudes puestas en juego.
+12. Relaciona las fuerzas que aparecen en situaciones habituales con los efectos producidos teniendo en cuenta su contribución al movimiento o reposo de los objetos y las magnitudes puestas en juego.
 
 Criterios de evaluación:
 
@@ -8140,7 +8134,7 @@ f) Se ha descrito la relación causa-efecto en distintas situaciones, para encon
 
 g) Se han aplicado las leyes de Newton en situaciones de la vida cotidiana.
 
-13. Identifica los aspectos básicos de la producción, transporte y utilización de la energía eléctrica y los factores que intervienen en su consumo, describiendo los cambios producidos y las magnitudes y valores característicos.
+13. Identifica los aspectos básicos de la producción, transporte y utilización de la energía eléctrica y los factores que intervienen en su consumo, describiendo los cambios producidos y las magnitudes y valores característicos.
 
 Criterios de evaluación:
 
@@ -8156,7 +8150,7 @@ e) Se han descrito básicamente las etapas de la distribución de la energía el
 
 f) Se trabajado en equipo en la recopilación de información sobre centrales eléctricas en España.
 
-14. Identifica los componentes básicos de circuitos eléctricos sencillos, realizando medidas y determinando los valores de las magnitudes que los caracterizan.
+14. Identifica los componentes básicos de circuitos eléctricos sencillos, realizando medidas y determinando los valores de las magnitudes que los caracterizan.
 
 Criterios de evaluación:
 
@@ -8370,7 +8364,7 @@ Código: 3011
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Valora la evolución histórica de las sociedades prehistóricas y de la Edad Antigua y sus relaciones con los paisajes naturales, analizando los factores y elementos implicados, y desarrollando actitudes y valores de aprecio del patrimonio natural y artístico.
+1. Valora la evolución histórica de las sociedades prehistóricas y de la Edad Antigua y sus relaciones con los paisajes naturales, analizando los factores y elementos implicados, y desarrollando actitudes y valores de aprecio del patrimonio natural y artístico.
 
 Criterios de evaluación:
 
@@ -8392,7 +8386,7 @@ h) Se han elaborado instrumentos sencillos de recogida de información mediante 
 
 i) Se han desarrollado comportamientos acordes con el desarrollo del propio esfuerzo y el trabajo colaborativo.
 
-2. Valora la construcción del espacio europeo hasta las primeras transformaciones industriales y sociedades agrarias, analizando sus características principales y valorando su pervivencia en la sociedad actual y en el entorno inmediato.
+2. Valora la construcción del espacio europeo hasta las primeras transformaciones industriales y sociedades agrarias, analizando sus características principales y valorando su pervivencia en la sociedad actual y en el entorno inmediato.
 
 Criterios de evaluación:
 
@@ -8414,7 +8408,7 @@ h) Se han elaborado instrumentos sencillos de recogida de información mediante 
 
 i) Se han desarrollado comportamientos acordes con el desarrollo del propio esfuerzo y el trabajo en equipo.
 
-3. Utiliza estrategias comunicativas para interpretar y comunicar información oral en lengua castellana, aplicando los principios de la escucha activa, estrategias sencillas de composición y las normas lingüísticas básicas.
+3. Utiliza estrategias comunicativas para interpretar y comunicar información oral en lengua castellana, aplicando los principios de la escucha activa, estrategias sencillas de composición y las normas lingüísticas básicas.
 
 Criterios de evaluación:
 
@@ -8428,7 +8422,7 @@ d) Se han analizado los usos y niveles de la lengua y las normas lingüísticas 
 
 e) Se ha utilizado la terminología gramatical apropiada en la comprensión de las actividades gramaticales propuestas y en la resolución de las mismas.
 
-4. Utiliza estrategias comunicativas para interpretar y comunicar información escrita en lengua castellana, aplicando estrategias de lectura comprensiva y aplicando estrategias de análisis, síntesis y clasificación de forma estructurada y progresiva a la composición autónoma de textos breves seleccionados.
+4. Utiliza estrategias comunicativas para interpretar y comunicar información escrita en lengua castellana, aplicando estrategias de lectura comprensiva y aplicando estrategias de análisis, síntesis y clasificación de forma estructurada y progresiva a la composición autónoma de textos breves seleccionados.
 
 Criterios de evaluación:
 
@@ -8450,7 +8444,7 @@ h) Se han observado pautas de presentación de trabajos escritos teniendo en cue
 
 i) Se han resuelto actividades de comprensión y análisis de las estructuras gramaticales, comprobando la validez de las inferencias realizadas.
 
-5. Realiza la lectura de textos literarios representativos de la Literatura en lengua castellana anteriores al siglo XIX, generando criterios estéticos para la construcción del gusto personal.
+5. Realiza la lectura de textos literarios representativos de la Literatura en lengua castellana anteriores al siglo XIX, generando criterios estéticos para la construcción del gusto personal.
 
 Criterios de evaluación:
 
@@ -8474,7 +8468,7 @@ i) Se han elaborado instrumentos pautados de recogida y difusión de informació
 
 j) Se han desarrollado comportamientos acordes con el desarrollo del propio esfuerzo y el trabajo colaborativo.
 
-6. Utiliza estrategias para comunicar información oral en lengua inglesa, elaborando presentaciones orales de poca extensión, bien estructuradas, relativas a situaciones habituales de comunicación cotidiana y frecuente de ámbito personal o profesional.
+6. Utiliza estrategias para comunicar información oral en lengua inglesa, elaborando presentaciones orales de poca extensión, bien estructuradas, relativas a situaciones habituales de comunicación cotidiana y frecuente de ámbito personal o profesional.
 
 Criterios de evaluación:
 
@@ -8498,7 +8492,7 @@ i) Se han identificado las normas de relación social básicas y estandarizadas 
 
 j) Se han identificado las costumbres o actividades cotidianas de la comunidad donde se habla la lengua extranjera.
 
-7. Participa en conversaciones en lengua inglesa utilizando un lenguaje sencillo y claro en situaciones habituales frecuentes del ámbito personal o profesional, activando estrategias de comunicación básicas.
+7. Participa en conversaciones en lengua inglesa utilizando un lenguaje sencillo y claro en situaciones habituales frecuentes del ámbito personal o profesional, activando estrategias de comunicación básicas.
 
 Criterios de evaluación:
 
@@ -8512,7 +8506,7 @@ d) Se han utilizado estructuras gramaticales básicas y un repertorio esencial y
 
 e) Se ha expresado con cierta claridad, utilizando una entonación y pronunciación comprensible, aceptándose las pausas y dudas frecuentes.
 
-8. Elabora textos escritos en lengua inglesa, breves y sencillos de situaciones de comunicación habituales y frecuentes del ámbito personal o profesional, aplicando estrategias de lectura comprensiva y desarrollando estrategias estructuradas de composición.
+8. Elabora textos escritos en lengua inglesa, breves y sencillos de situaciones de comunicación habituales y frecuentes del ámbito personal o profesional, aplicando estrategias de lectura comprensiva y desarrollando estrategias estructuradas de composición.
 
 Criterios de evaluación:
 
@@ -8774,7 +8768,7 @@ Código: 3012
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Infiere las características esenciales de las sociedades contemporáneas a partir del estudio de su evolución histórica, analizando los rasgos básicos de su organización social, política y económica.
+1. Infiere las características esenciales de las sociedades contemporáneas a partir del estudio de su evolución histórica, analizando los rasgos básicos de su organización social, política y económica.
 
 Criterios de evaluación:
 
@@ -8790,7 +8784,7 @@ e) Se ha valorado la implicación del principio de no discriminación en las rel
 
 f) Se ha elaborado información pautada y organizada para su utilización en situaciones de trabajo colaborativo y contraste de opiniones.
 
-2. Valora los principios básicos del sistema democrático analizando sus instituciones y las diferentes organizaciones políticas y económicas en que se manifiesta e infiriendo pautas de actuación para acomodar su comportamiento al cumplimiento de dichos principios.
+2. Valora los principios básicos del sistema democrático analizando sus instituciones y las diferentes organizaciones políticas y económicas en que se manifiesta e infiriendo pautas de actuación para acomodar su comportamiento al cumplimiento de dichos principios.
 
 Criterios de evaluación:
 
@@ -8804,7 +8798,7 @@ d) Se han aplicado estrategias para la comprensión de textos literarios, tenien
 
 e) Se ha presentado información sobre periodos, autores y obras de la literatura en lengua castellana a partir de textos literarios.
 
-3. Utiliza estrategias comunicativas para interpretar y comunicar información oral en lengua castellana, aplicando los principios de la escucha activa, estrategias razonadas de composición y las normas lingüísticas correctas en cada caso.
+3. Utiliza estrategias comunicativas para interpretar y comunicar información oral en lengua castellana, aplicando los principios de la escucha activa, estrategias razonadas de composición y las normas lingüísticas correctas en cada caso.
 
 Criterios de evaluación:
 
@@ -8818,7 +8812,7 @@ d) Se han aplicado los usos y niveles de la lengua y las normas lingüísticas e
 
 e) Se ha utilizado la terminología gramatical correcta en la comprensión de las actividades gramaticales propuestas y en la resolución de las mismas.
 
-4. Utiliza estrategias comunicativas para comunicar información escrita en lengua castellana, aplicando estrategias de análisis, síntesis y clasificación de forma estructurada a la composición autónoma de textos de progresiva complejidad.
+4. Utiliza estrategias comunicativas para comunicar información escrita en lengua castellana, aplicando estrategias de análisis, síntesis y clasificación de forma estructurada a la composición autónoma de textos de progresiva complejidad.
 
 Criterios de evaluación:
 
@@ -8840,7 +8834,7 @@ h) Se han observado pautas de presentación de trabajos escritos teniendo en cue
 
 i) Se han resuelto actividades de comprensión y análisis de las estructuras gramaticales, comprobando la precisión y validez de las inferencias realizadas.
 
-5. Interpreta textos literarios representativos de la Literatura en lengua castellana desde el siglo XIX hasta la actualidad, reconociendo la intención del autor y relacionándolo con su contexto histórico, sociocultural y literario.
+5. Interpreta textos literarios representativos de la Literatura en lengua castellana desde el siglo XIX hasta la actualidad, reconociendo la intención del autor y relacionándolo con su contexto histórico, sociocultural y literario.
 
 Criterios de evaluación:
 
@@ -8854,7 +8848,7 @@ d) Se han aplicado estrategias de análisis de textos literarios, reconociendo l
 
 e) Se ha informado sobre un autor, una obra o un período de la literatura en lengua castellana, recogiendo en forma analítica la información correspondiente.
 
-6. Utiliza estrategias para interpretar y comunicar información oral en lengua inglesa, aplicando los principios de la escucha activa y elaborando presentaciones orales de poca extensión, claras y estructuradas, relativas a temas y aspectos concretos, frecuentes y cotidianos, del ámbito personal y profesional.
+6. Utiliza estrategias para interpretar y comunicar información oral en lengua inglesa, aplicando los principios de la escucha activa y elaborando presentaciones orales de poca extensión, claras y estructuradas, relativas a temas y aspectos concretos, frecuentes y cotidianos, del ámbito personal y profesional.
 
 Criterios de evaluación:
 
@@ -8880,7 +8874,7 @@ j) Se han identificado las costumbres o actividades cotidianas de la comunidad y
 
 k) Se han identificado las principales actitudes y comportamientos profesionales en situaciones de comunicación habituales del ámbito profesional.
 
-7. Mantiene conversaciones sencillas en lengua inglesa en situaciones habituales y concretas del ámbito personal y profesional, utilizando estrategias de comunicación básicas.
+7. Mantiene conversaciones sencillas en lengua inglesa en situaciones habituales y concretas del ámbito personal y profesional, utilizando estrategias de comunicación básicas.
 
 Criterios de evaluación:
 
@@ -8896,7 +8890,7 @@ e) Se han utilizado estructuras gramaticales y oraciones sencillas y un repertor
 
 f) Se ha expresado con cierta claridad, usando una entonación y pronunciación razonable y comprensible, aceptándose algunas pausas y vacilaciones.
 
-8. Elabora textos breves y sencillos con cierto detalle en lengua inglesa, relativos a situaciones de comunicación habituales del ámbito personal y profesional, aplicando estrategias de lectura comprensiva y desarrollando estrategias sistemáticas de composición.
+8. Elabora textos breves y sencillos con cierto detalle en lengua inglesa, relativos a situaciones de comunicación habituales del ámbito personal y profesional, aplicando estrategias de lectura comprensiva y desarrollando estrategias sistemáticas de composición.
 
 Criterios de evaluación:
 
@@ -9164,7 +9158,7 @@ Código: 3096
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Realiza operaciones de mantenimiento básico de viviendas, respetando las buenas prácticas y las normas de seguridad.
+1. Realiza operaciones de mantenimiento básico de viviendas, respetando las buenas prácticas y las normas de seguridad.
 
 Criterios de evaluación:
 
@@ -9178,7 +9172,7 @@ d) Se han pintado las zonas reparadas según las tipologías, acabados y materia
 
 e) Se han realizado las operaciones teniendo en cuenta la normativa de seguridad.
 
-2. Monta e instala elementos de carpintería y mueble asegurando su correcta funcionalidad.
+2. Monta e instala elementos de carpintería y mueble asegurando su correcta funcionalidad.
 
 Criterios de evaluación:
 
@@ -9190,7 +9184,7 @@ c) Se han colocado los herrajes en la proporción y altura adecuadas, para conse
 
 d) Se han rectificado los bajos de las puertas tras la instalación de suelos de madera o moquetas.
 
-3. Realiza operaciones auxiliares de mantenimiento en instalaciones eléctricas y/o domóticas en viviendas, siguiendo los procesos del sistema de calidad establecido en la empresa y los correspondientes protocolos de seguridad.
+3. Realiza operaciones auxiliares de mantenimiento en instalaciones eléctricas y/o domóticas en viviendas, siguiendo los procesos del sistema de calidad establecido en la empresa y los correspondientes protocolos de seguridad.
 
 Criterios de evaluación:
 
@@ -9208,7 +9202,7 @@ f) Se han realizado las operaciones con criterios de respeto al medio ambiente.
 
 g) Se ha participado dentro del grupo de trabajo, mostrando iniciativa e interés.
 
-4. Realiza operaciones de montaje y mantenimiento de instalaciones de fontanería, siguiendo la documentación técnica y las instrucciones de montaje.
+4. Realiza operaciones de montaje y mantenimiento de instalaciones de fontanería, siguiendo la documentación técnica y las instrucciones de montaje.
 
 Criterios de evaluación:
 
@@ -9234,7 +9228,7 @@ j) Se han realizado las operaciones con criterios de respeto al medio ambiente.
 
 k) Se ha participado dentro del grupo de trabajo, mostrando iniciativa e interés.
 
-5. Realiza operaciones de montaje de instalaciones de calefacción y climatización doméstica, siguiendo la documentación técnica, las instrucciones de montaje.
+5. Realiza operaciones de montaje de instalaciones de calefacción y climatización doméstica, siguiendo la documentación técnica, las instrucciones de montaje.
 
 Criterios de evaluación:
 
@@ -9262,7 +9256,7 @@ k) Se han realizado las operaciones con criterios de respeto al medio ambiente.
 
 l) Se ha participado dentro del grupo de trabajo, mostrando iniciativa e interés.
 
-6. Realiza operaciones de mantenimiento preventivo en las instalaciones a cargo de la empresa, siguiendo indicaciones, según los planes de mantenimiento correspondientes.
+6. Realiza operaciones de mantenimiento preventivo en las instalaciones a cargo de la empresa, siguiendo indicaciones, según los planes de mantenimiento correspondientes.
 
 Criterios de evaluación:
 
@@ -9280,7 +9274,7 @@ f) Se han determinado las posibles medidas de corrección en función de los res
 
 g) Se han realizado todas las operaciones teniendo en cuenta la normativa de seguridad laboral y de protección ambiental.
 
-7. Actúa conforme a las normas de prevención y riesgos laborales de la empresa.
+7. Actúa conforme a las normas de prevención y riesgos laborales de la empresa.
 
 Criterios de evaluación:
 
@@ -9300,7 +9294,7 @@ g) Se ha mantenido la zona de trabajo libre de riesgos, con orden y limpieza.
 
 h) Se ha trabajado minimizando el consumo de energía y la generación de residuos.
 
-8. Actúa de forma responsable y se integra en el sistema de relaciones técnico-sociales de la empresa.
+8. Actúa de forma responsable y se integra en el sistema de relaciones técnico-sociales de la empresa.
 
 Criterios de evaluación:
 
@@ -9328,7 +9322,7 @@ Este módulo profesional contribuye a completar las competencias y objetivos gen
 
 Contribuye, además, al afianzamiento de hábitos de orden, puntualidad, responsabilidad y pulcritud.
 
-4. Requisitos mínimos de calidad del contexto formativo.
+4. Requisitos mínimos de calidad del contexto formativo.
 
 **4.1** Espacios.
 
@@ -9340,7 +9334,7 @@ Contribuye, además, al afianzamiento de hábitos de orden, puntualidad, respons
 
 **4.2** Equipamientos mínimos.
 
-5. Profesorado.
+5. Profesorado.
 
 **5.1** Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional, son:
 
@@ -9382,13 +9376,13 @@ Contribuye, además, al afianzamiento de hábitos de orden, puntualidad, respons
 
 3096. Formación en centros de trabajo.
 
-6. Correspondencia entre módulos profesionales y unidades de competencia para su acreditación o convalidación.
+6. Correspondencia entre módulos profesionales y unidades de competencia para su acreditación o convalidación.
 
 3024. Fontanería y calefacción básica.
 
 3025. Montaje de equipos de climatización.
 
-7. Ciclos formativos de grado medio a los que este título permite la aplicación de criterios de preferencia para la admisión en caso de concurrencia competitiva.
+7. Ciclos formativos de grado medio a los que este título permite la aplicación de criterios de preferencia para la admisión en caso de concurrencia competitiva.
 
 Este título tendrá preferencia para la admisión a todos los títulos de grado medio de las familias profesionales de:
 
@@ -9404,7 +9398,7 @@ Este título tendrá preferencia para la admisión a todos los títulos de grado
 
 Título profesional básico en fabricación de elementos metálicos
 
-1. Identificación del título.
+1. Identificación del título.
 
 El Título profesional básico en fabricación de elementos metálicos queda identificado por los siguientes elementos:
 
@@ -9418,7 +9412,7 @@ El Título profesional básico en fabricación de elementos metálicos queda ide
 
 – Referente europeo: CINE-3.5.3. (Clasificación Internacional Normalizada de la Educación).
 
-2. Perfil profesional.
+2. Perfil profesional.
 
 **2.1** Competencia general del título.
 
@@ -9562,7 +9556,7 @@ i) Las estructuras organizativas tienden a configurarse sobre la base de decisio
 
 j) Las características del mercado de trabajo, la movilidad laboral, la apertura económica, obligan a formar profesionales polivalentes capaces de adaptarse a las nuevas situaciones socioeconómicas, laborales y organizativas del sector.
 
-3. Enseñanzas del ciclo formativo.
+3. Enseñanzas del ciclo formativo.
 
 **3.1** Objetivos generales del título.
 
@@ -9658,7 +9652,7 @@ Código: 3015
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Identifica el material, herramientas y equipo necesarios para el montaje y ensamblado de equipos eléctricos y electrónicos, describiendo sus principales características y funcionalidad.
+1. Identifica el material, herramientas y equipo necesarios para el montaje y ensamblado de equipos eléctricos y electrónicos, describiendo sus principales características y funcionalidad.
 
 Criterios de evaluación:
 
@@ -9670,7 +9664,7 @@ c) Se han identificado y clasificado las herramientas (atornillador eléctrico, 
 
 d) Se han identificado y clasificado los diferentes medios y equipos de seguridad personal (guantes de protección, gafas y mascarilla, entre otros) en función de su aplicación y teniendo en cuenta las herramientas a utilizar.
 
-2. Determina la secuencia de las operaciones de montaje y desmontaje de equipos eléctricos y electrónicos, interpretando esquemas e identificando los pasos a seguir.
+2. Determina la secuencia de las operaciones de montaje y desmontaje de equipos eléctricos y electrónicos, interpretando esquemas e identificando los pasos a seguir.
 
 Criterios de evaluación:
 
@@ -9684,7 +9678,7 @@ d) Se ha identificado el procedimiento y secuencia de montaje/conexión de los d
 
 e) Se ha definido el proceso y secuencia de montaje/conexión a partir del esquema o guía de montaje.
 
-3. Monta y desmonta elementos de equipos eléctricos o electrónicos, interpretando esquemas y guías de montaje.
+3. Monta y desmonta elementos de equipos eléctricos o electrónicos, interpretando esquemas y guías de montaje.
 
 Criterios de evaluación:
 
@@ -9708,7 +9702,7 @@ i) Se han observado los requerimientos de seguridad establecidos.
 
 j) Se ha elaborado un informe, recogiendo las actividades desarrolladas y resultados obtenidos.
 
-4. Conexiona elementos en equipos eléctricos o electrónicos aplicando técnicas básicas y verificando la continuidad.
+4. Conexiona elementos en equipos eléctricos o electrónicos aplicando técnicas básicas y verificando la continuidad.
 
 Criterios de evaluación:
 
@@ -9732,7 +9726,7 @@ i) Se han dispuesto y colocado las etiquetas en los cables, según el procedimie
 
 j) Se han tratado los residuos generados de acuerdo a la normativa sobre medio ambiente.
 
-5. Realiza el mantenimiento básico de equipos eléctricos y electrónicos, aplicando las técnicas establecidas en condiciones de calidad y seguridad.
+5. Realiza el mantenimiento básico de equipos eléctricos y electrónicos, aplicando las técnicas establecidas en condiciones de calidad y seguridad.
 
 Criterios de evaluación:
 
@@ -9908,7 +9902,7 @@ Código: 3020
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Organiza su trabajo en la ejecución del mecanizado, interpretando la información contenida en las especificaciones del producto a mecanizar.
+1. Organiza su trabajo en la ejecución del mecanizado, interpretando la información contenida en las especificaciones del producto a mecanizar.
 
 Criterios de evaluación:
 
@@ -9928,7 +9922,7 @@ g) Se han mantenido las zonas de trabajo de su responsabilidad en condiciones de
 
 h) Se ha operado con autonomía en las actividades propuestas.
 
-2. Prepara materiales, útiles y equipos de mecanizado, reconociendo sus características y aplicaciones.
+2. Prepara materiales, útiles y equipos de mecanizado, reconociendo sus características y aplicaciones.
 
 Criterios de evaluación:
 
@@ -9948,7 +9942,7 @@ g) Se han aplicado las medidas de prevención de riesgos laborales requeridas.
 
 h) Se han planificado metódicamente las tareas a realizar, con previsión de las dificultades y el modo de superarlas.
 
-3. Realiza operaciones básicas de fabricación, seleccionando las herramientas y equipos y aplicando las técnicas de fabricación.
+3. Realiza operaciones básicas de fabricación, seleccionando las herramientas y equipos y aplicando las técnicas de fabricación.
 
 Criterios de evaluación:
 
@@ -9968,7 +9962,7 @@ g) Se ha aplicado la normativa de Prevención de Riesgos Laborales en la ejecuci
 
 h) Se han realizado los trabajos con orden y limpieza.
 
-4. Manipula cargas en la alimentación y descarga de máquinas y sistemas automáticos para la realización de operaciones de fabricación, describiendo los dispositivos y el proceso.
+4. Manipula cargas en la alimentación y descarga de máquinas y sistemas automáticos para la realización de operaciones de fabricación, describiendo los dispositivos y el proceso.
 
 Criterios de evaluación:
 
@@ -9994,7 +9988,7 @@ j) Se ha mostrado una actitud responsable e interés por la mejora del proceso.
 
 k) Se han mantenido hábitos de orden y limpieza.
 
-5. Realiza operaciones de verificación sobre las piezas obtenidas, relacionando las características del producto final con las especificaciones técnicas.
+5. Realiza operaciones de verificación sobre las piezas obtenidas, relacionando las características del producto final con las especificaciones técnicas.
 
 Criterios de evaluación:
 
@@ -10118,7 +10112,7 @@ Código: 3021
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Prepara materiales de carpintería metálica férrica, relacionándolos con las características del producto final e interpretando la documentación técnica.
+1. Prepara materiales de carpintería metálica férrica, relacionándolos con las características del producto final e interpretando la documentación técnica.
 
 Criterios de evaluación:
 
@@ -10138,7 +10132,7 @@ g) Se han aplicado las especificaciones de prevención de riesgos laborales y me
 
 h) Se ha mantenido una actitud ordenada y metódica.
 
-2. Prepara las máquinas y herramientas de construcciones metálicas, reconociendo sus características y aplicaciones.
+2. Prepara las máquinas y herramientas de construcciones metálicas, reconociendo sus características y aplicaciones.
 
 Criterios de evaluación:
 
@@ -10160,7 +10154,7 @@ h) Se ha mantenido el área de trabajo con el grado apropiado de orden y limpiez
 
 i) Se ha mantenido una actitud metódica y ordenada en el proceso de preparación.
 
-3. Prepara los equipos de soldadura por arco eléctrico y oxiacetilénica, reconociendo sus características y aplicaciones.
+3. Prepara los equipos de soldadura por arco eléctrico y oxiacetilénica, reconociendo sus características y aplicaciones.
 
 Criterios de evaluación:
 
@@ -10184,7 +10178,7 @@ i) Se ha mantenido una actitud metódica y ordenada en el proceso de preparació
 
 j) Se han aplicado los equipos de protección individual adecuados en cada fase de la preparación.
 
-4. Realiza las operaciones básicas de mecanizado por conformado y soldeo sobre materiales férricos, relacionando la técnica a utilizar con las características del producto final.
+4. Realiza las operaciones básicas de mecanizado por conformado y soldeo sobre materiales férricos, relacionando la técnica a utilizar con las características del producto final.
 
 Criterios de evaluación:
 
@@ -10208,7 +10202,7 @@ i) Se ha mantenido el área de trabajo con el grado apropiado de orden y limpiez
 
 j) Se han aplicado las normas de seguridad y salud laboral, utilizando correctamente las protecciones de las máquinas y los medios individuales de protección.
 
-5. Realiza las operaciones básicas de montaje de productos férricos, relacionando las fases del mismo con las características del producto final.
+5. Realiza las operaciones básicas de montaje de productos férricos, relacionando las fases del mismo con las características del producto final.
 
 Criterios de evaluación:
 
@@ -10230,7 +10224,7 @@ h) Se han aplicado las normas de seguridad y salud laboral, utilizando correctam
 
 i) Se ha mantenido una actitud metódica y ordenada en el proceso de preparación.
 
-6. Transporta productos de carpintería metálica férrica, seleccionando los embalajes y útiles de transportes.
+6. Transporta productos de carpintería metálica férrica, seleccionando los embalajes y útiles de transportes.
 
 Criterios de evaluación:
 
@@ -10388,7 +10382,7 @@ Código: 3022
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Prepara materiales de carpintería metálica no férrica, relacionándolos con las características del producto final e interpretando la documentación técnica.
+1. Prepara materiales de carpintería metálica no férrica, relacionándolos con las características del producto final e interpretando la documentación técnica.
 
 Criterios de evaluación:
 
@@ -10408,7 +10402,7 @@ g) Se han aplicado las especificaciones de prevención de riesgos laborales y me
 
 h) Se ha mantenido una actitud ordenada y metódica.
 
-2. Prepara las máquinas y herramientas de construcciones metálicas no férricas, reconociendo sus características y aplicaciones.
+2. Prepara las máquinas y herramientas de construcciones metálicas no férricas, reconociendo sus características y aplicaciones.
 
 Criterios de evaluación:
 
@@ -10430,7 +10424,7 @@ h) Se ha mantenido una actitud metódica y ordenada en el proceso de preparació
 
 i) Se han aplicado las medidas de prevención de riesgos laborales requeridas.
 
-3. Realiza las operaciones de mecanizado sobre materiales no férricos, relacionando la técnica a utilizar con las características del producto final.
+3. Realiza las operaciones de mecanizado sobre materiales no férricos, relacionando la técnica a utilizar con las características del producto final.
 
 Criterios de evaluación:
 
@@ -10450,7 +10444,7 @@ g) Se ha mantenido el área de trabajo con el grado apropiado de orden y limpiez
 
 h) Se han aplicado las normas de seguridad y salud laboral, utilizando correctamente las protecciones de las máquinas y los medios individuales de protección.
 
-4. Realiza las operaciones de montaje de productos no férricos, relacionando las fases del mismo con las características del producto final.
+4. Realiza las operaciones de montaje de productos no férricos, relacionando las fases del mismo con las características del producto final.
 
 Criterios de evaluación:
 
@@ -10472,7 +10466,7 @@ h) Se han aplicado las normas de seguridad requeridas en el montaje de productos
 
 i) Se ha mantenido una actitud metódica y ordenada en el proceso de preparación.
 
-5. Transporta productos de carpintería metálica no férrica, seleccionando los embalajes y útiles de transportes.
+5. Transporta productos de carpintería metálica no férrica, seleccionando los embalajes y útiles de transportes.
 
 Criterios de evaluación:
 
@@ -10614,7 +10608,7 @@ Código: 3073
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Interpreta documentación técnica distinguiendo vistas, piezas, uniones, detalles, perfiles y cotas.
+1. Interpreta documentación técnica distinguiendo vistas, piezas, uniones, detalles, perfiles y cotas.
 
 Criterios de evaluación:
 
@@ -10634,7 +10628,7 @@ g) Se han elaborado vistas y detalles que complementan la información general.
 
 h) Se ha elaborado la nota de materiales y hoja de procesos a partir de la documentación gráfica realizada, maximizándose los recursos y eliminando tiempos muertos.
 
-2. Opera equipos (manuales y semiautomáticos) de corte térmico, para obtener chapas y perfiles de formas definidas, cumpliendo el plan de seguridad personal y ambiental.
+2. Opera equipos (manuales y semiautomáticos) de corte térmico, para obtener chapas y perfiles de formas definidas, cumpliendo el plan de seguridad personal y ambiental.
 
 Criterios de evaluación:
 
@@ -10648,7 +10642,7 @@ d) Se han operado equipos de corte, utilizando las protecciones personales y de 
 
 e) Se han aplicado las medidas de seguridad establecidas en el plan de prevención de riesgos laborales y protección de medio ambiente.
 
-3. Opera los equipos de corte mecánico, para obtener chapas y perfiles de formas definidas, aplicando el plan de prevención de riesgos laborales y ambientales.
+3. Opera los equipos de corte mecánico, para obtener chapas y perfiles de formas definidas, aplicando el plan de prevención de riesgos laborales y ambientales.
 
 Criterios de evaluación:
 
@@ -10662,7 +10656,7 @@ d) Se ha operado con los diferentes equipos de corte mecánico empleando los equ
 
 e) Se han aplicado las medidas de seguridad que contiene el plan de prevención de riesgos laborales y ambientales exigibles en el uso de los diferentes equipos de corte mecánico.
 
-4. Realiza, siguiendo instrucciones, operaciones básicas de conformado y enderezado de chapas y perfiles, para obtener los productos, cumpliendo las normas de calidad, Prevención de Riesgos Laborales y Medio Ambiente.
+4. Realiza, siguiendo instrucciones, operaciones básicas de conformado y enderezado de chapas y perfiles, para obtener los productos, cumpliendo las normas de calidad, Prevención de Riesgos Laborales y Medio Ambiente.
 
 Criterios de evaluación:
 
@@ -10758,7 +10752,7 @@ Código: 3009
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Resuelve problemas matemáticos en situaciones cotidianas, utilizando los elementos básicos del lenguaje matemático y sus operaciones.
+1. Resuelve problemas matemáticos en situaciones cotidianas, utilizando los elementos básicos del lenguaje matemático y sus operaciones.
 
 Criterios de evaluación:
 
@@ -10782,7 +10776,7 @@ i) Se ha utilizado la regla de tres para resolver problemas en los que intervien
 
 j) Se ha aplicado el interés simple y compuesto en actividades cotidianas.
 
-2. Reconoce las instalaciones y el material de laboratorio valorándolos como recursos necesarios para la realización de las prácticas.
+2. Reconoce las instalaciones y el material de laboratorio valorándolos como recursos necesarios para la realización de las prácticas.
 
 Criterios de evaluación:
 
@@ -10792,7 +10786,7 @@ b) Se han manipulado adecuadamente los materiales instrumentales del laboratorio
 
 c) Se han tenido en cuenta las condiciones de higiene y seguridad para cada una de la técnicas experimentales que se van a realizar.
 
-3. Identifica propiedades fundamentales de la materia en las diferentes formas en las que se presenta en la naturaleza, manejando sus magnitudes físicas y sus unidades fundamentales en unidades de sistema métrico decimal.
+3. Identifica propiedades fundamentales de la materia en las diferentes formas en las que se presenta en la naturaleza, manejando sus magnitudes físicas y sus unidades fundamentales en unidades de sistema métrico decimal.
 
 Criterios de evaluación:
 
@@ -10816,7 +10810,7 @@ i) Se han reconocido los distintos estados de agregación de una sustancia dadas
 
 j) Se han establecido diferencias entre ebullición y evaporación utilizando ejemplos sencillos.
 
-4. Utiliza el método más adecuado para la separación de componentes de mezclas sencillas relacionándolo con el proceso físico o químico en que se basa.
+4. Utiliza el método más adecuado para la separación de componentes de mezclas sencillas relacionándolo con el proceso físico o químico en que se basa.
 
 Criterios de evaluación:
 
@@ -10834,7 +10828,7 @@ f) Se han descrito las características generales básicas de materiales relacio
 
 g) Se ha trabajado en equipo en la realización de tareas.
 
-5. Reconoce cómo la energía está presente en los procesos naturales describiendo fenómenos simples de la vida real.
+5. Reconoce cómo la energía está presente en los procesos naturales describiendo fenómenos simples de la vida real.
 
 Criterios de evaluación:
 
@@ -10852,7 +10846,7 @@ f) Se han mostrado en diferentes sistemas la conservación de la energía.
 
 g) Se han descrito procesos relacionados con el mantenimiento del organismo y de la vida en los que se aprecia claramente el papel de la energía.
 
-6. Localiza las estructuras anatómicas básica discriminando los sistemas o aparatos a los que pertenecen y asociándolos a las funciones que producen en el organismo.
+6. Localiza las estructuras anatómicas básica discriminando los sistemas o aparatos a los que pertenecen y asociándolos a las funciones que producen en el organismo.
 
 Criterios de evaluación:
 
@@ -10870,7 +10864,7 @@ f) Se ha detallado cómo funciona el proceso de relación.
 
 g) Se han utilizado herramientas informáticas describir adecuadamente los aparatos y sistemas.
 
-7. Diferencia la salud de la enfermedad, relacionando los hábitos de vida con las enfermedades más frecuentes reconociendo los principios básicos de defensa contra las mismas.
+7. Diferencia la salud de la enfermedad, relacionando los hábitos de vida con las enfermedades más frecuentes reconociendo los principios básicos de defensa contra las mismas.
 
 Criterios de evaluación:
 
@@ -10892,7 +10886,7 @@ h) Se han reconocido situaciones de riesgo para la salud relacionadas con su ent
 
 i) Se han diseñado pautas de hábitos saludables relacionados con situaciones cotidianas.
 
-8. Elabora menús y dietas equilibradas sencillas, diferenciando los nutrientes que contienen y adaptándolos a los distintos parámetros corporales y a situaciones diversas.
+8. Elabora menús y dietas equilibradas sencillas, diferenciando los nutrientes que contienen y adaptándolos a los distintos parámetros corporales y a situaciones diversas.
 
 Criterios de evaluación:
 
@@ -10910,7 +10904,7 @@ f) Se ha calculado el metabolismo basal y sus resultados se ha representado en u
 
 g) Se han elaborado menús para situaciones concretas, investigando en la red las propiedades de los alimentos.
 
-9. Resuelve situaciones cotidianas, utilizando expresiones algebraicas sencillas y aplicando los métodos de resolución más adecuados.
+9. Resuelve situaciones cotidianas, utilizando expresiones algebraicas sencillas y aplicando los métodos de resolución más adecuados.
 
 Criterios de evaluación:
 
@@ -11080,7 +11074,7 @@ Código: 3019
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Resuelve situaciones cotidianas aplicando los métodos de resolución de ecuaciones y sistemas y valorando la precisión, simplicidad y utilidad del lenguaje algebraico.
+1. Resuelve situaciones cotidianas aplicando los métodos de resolución de ecuaciones y sistemas y valorando la precisión, simplicidad y utilidad del lenguaje algebraico.
 
 Criterios de evaluación:
 
@@ -11094,7 +11088,7 @@ d) Se han resuelto problemas cotidianos y de otras áreas de conocimiento median
 
 e) Se ha valorado la precisión, simplicidad y utilidad del lenguaje algebraico para representar situaciones planteadas en la vida real.
 
-2. Resuelve problemas sencillos de diversa índole, a través de su análisis contrastado y aplicando las fases del método científico.
+2. Resuelve problemas sencillos de diversa índole, a través de su análisis contrastado y aplicando las fases del método científico.
 
 Criterios de evaluación:
 
@@ -11110,7 +11104,7 @@ e) Se han recopilado los resultados de los ensayos de verificación y plasmado e
 
 f) Se ha defendido el resultado con argumentaciones y pruebas las verificaciones o refutaciones de las hipótesis emitidas.
 
-3. Realiza medidas directas e indirectas de figuras geométricas presentes en contextos reales, utilizando los instrumentos, las fórmulas y las técnicas necesarias.
+3. Realiza medidas directas e indirectas de figuras geométricas presentes en contextos reales, utilizando los instrumentos, las fórmulas y las técnicas necesarias.
 
 Criterios de evaluación:
 
@@ -11124,7 +11118,7 @@ d) Se ha trabajado en equipo en la obtención de medidas.
 
 e) Se han utilizado las TIC para representar distintas figuras.
 
-4. Interpreta gráficas de dos magnitudes calculando los parámetros significativos de las mismas y relacionándolo con funciones matemáticas elementales y los principales valores estadísticos.
+4. Interpreta gráficas de dos magnitudes calculando los parámetros significativos de las mismas y relacionándolo con funciones matemáticas elementales y los principales valores estadísticos.
 
 Criterios de evaluación:
 
@@ -11148,7 +11142,7 @@ i) Se han aplicado las propiedades de los sucesos y la probabilidad.
 
 j) Se han resueltos problemas cotidianos mediante cálculos de probabilidad sencillos.
 
-5. Aplica técnicas físicas o químicas, utilizando el material necesario, para la realización de prácticas de laboratorio sencillas, midiendo las magnitudes implicadas.
+5. Aplica técnicas físicas o químicas, utilizando el material necesario, para la realización de prácticas de laboratorio sencillas, midiendo las magnitudes implicadas.
 
 Criterios de evaluación:
 
@@ -11162,7 +11156,7 @@ d) Se ha descrito la célula y tejidos animales y vegetales mediante su observac
 
 e) Se han elaborado informes de ensayos en los que se incluye el procedimiento seguido, los resultados obtenidos y las conclusiones finales.
 
-6. Reconoce las reacciones químicas que se producen en los procesos biológicos y en la industria argumentando su importancia en la vida cotidiana y describiendo los cambios que se producen.
+6. Reconoce las reacciones químicas que se producen en los procesos biológicos y en la industria argumentando su importancia en la vida cotidiana y describiendo los cambios que se producen.
 
 Criterios de evaluación:
 
@@ -11178,7 +11172,7 @@ e) Se han identificado los componentes y el proceso de reacciones químicas senc
 
 f) Se han elaborado informes utilizando las TIC sobre las industrias más relevantes: alimentarias, cosmética, reciclaje, describiendo de forma sencilla los procesos que tienen lugar en las mismas.
 
-7. Identifica aspectos positivos y negativos del uso de la energía nuclear describiendo los efectos de la contaminación generada en su aplicación.
+7. Identifica aspectos positivos y negativos del uso de la energía nuclear describiendo los efectos de la contaminación generada en su aplicación.
 
 Criterios de evaluación:
 
@@ -11192,7 +11186,7 @@ d) Se ha argumentado sobre la problemática de los residuos nucleares.
 
 e) Se ha trabajado en equipo y utilizado las TIC.
 
-8. Identifica los cambios que se producen en el planeta tierra argumentando sus causas y teniendo en cuenta las diferencias que existen entre relieve y paisaje.
+8. Identifica los cambios que se producen en el planeta tierra argumentando sus causas y teniendo en cuenta las diferencias que existen entre relieve y paisaje.
 
 Criterios de evaluación:
 
@@ -11206,7 +11200,7 @@ d) Se ha descrito el proceso de transporte discriminando los agentes geológicos
 
 e) Se ha analizado el proceso de sedimentación discriminado los agentes geológicos externos que intervienen, las situaciones y las consecuencias en el relieve.
 
-9. Categoriza los contaminantes atmosféricos principales identificando sus orígenes y relacionándolos con los efectos que producen.
+9. Categoriza los contaminantes atmosféricos principales identificando sus orígenes y relacionándolos con los efectos que producen.
 
 Criterios de evaluación:
 
@@ -11218,7 +11212,7 @@ c) Se ha descrito el efecto invernadero argumentando las causas que lo originan 
 
 d) Se ha descrito la problemática que ocasiona la pérdida paulatina de la capa de ozono, las consecuencias para la salud de las personas, el equilibrio de la hidrosfera y las poblaciones.
 
-10. Identifica los contaminantes del agua relacionando su efecto en el medio ambiente con su tratamiento de depuración.
+10. Identifica los contaminantes del agua relacionando su efecto en el medio ambiente con su tratamiento de depuración.
 
 Criterios de evaluación:
 
@@ -11230,7 +11224,7 @@ c) Se han identificación posibles contaminantes en muestras de agua de distinto
 
 d) Se ha analizado los efectos producidos por la contaminación del agua y el uso responsable de la misma.
 
-11. Contribuye al equilibrio medioambientaI analizando y argumentando las líneas básicas sobre el desarrollo sostenible y proponiendo acciones para su mejora y conservación.
+11. Contribuye al equilibrio medioambientaI analizando y argumentando las líneas básicas sobre el desarrollo sostenible y proponiendo acciones para su mejora y conservación.
 
 Criterios de evaluación:
 
@@ -11242,7 +11236,7 @@ c) Se han diseñado estrategias básicas para posibilitar el mantenimiento del m
 
 d) Se ha trabajado en equipo en la identificación de los objetivos para la mejora del medioambiente.
 
-12. Relaciona las fuerzas que aparecen en situaciones habituales con los efectos producidos teniendo en cuenta su contribución al movimiento o reposo de los objetos y las magnitudes puestas en juego.
+12. Relaciona las fuerzas que aparecen en situaciones habituales con los efectos producidos teniendo en cuenta su contribución al movimiento o reposo de los objetos y las magnitudes puestas en juego.
 
 Criterios de evaluación:
 
@@ -11260,7 +11254,7 @@ f) Se ha descrito la relación causa-efecto en distintas situaciones, para encon
 
 g) Se han aplicado las leyes de Newton en situaciones de la vida cotidiana.
 
-13. Identifica los aspectos básicos de la producción, transporte y utilización de la energía eléctrica y los factores que intervienen en su consumo, describiendo los cambios producidos y las magnitudes y valores característicos.
+13. Identifica los aspectos básicos de la producción, transporte y utilización de la energía eléctrica y los factores que intervienen en su consumo, describiendo los cambios producidos y las magnitudes y valores característicos.
 
 Criterios de evaluación:
 
@@ -11276,7 +11270,7 @@ e) Se han descrito básicamente las etapas de la distribución de la energía el
 
 f) Se trabajado en equipo en la recopilación de información sobre centrales eléctricas en España.
 
-14. Identifica los componentes básicos de circuitos eléctricos sencillos, realizando medidas y determinando los valores de las magnitudes que los caracterizan.
+14. Identifica los componentes básicos de circuitos eléctricos sencillos, realizando medidas y determinando los valores de las magnitudes que los caracterizan.
 
 Criterios de evaluación:
 
@@ -11486,7 +11480,7 @@ Código: 3011
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Valora la evolución histórica de las sociedades prehistóricas y de la Edad Antigua y sus relaciones con los paisajes naturales, analizando los factores y elementos implicados, y desarrollando actitudes y valores de aprecio del patrimonio natural y artístico.
+1. Valora la evolución histórica de las sociedades prehistóricas y de la Edad Antigua y sus relaciones con los paisajes naturales, analizando los factores y elementos implicados, y desarrollando actitudes y valores de aprecio del patrimonio natural y artístico.
 
 Criterios de evaluación:
 
@@ -11508,7 +11502,7 @@ h) Se han elaborado instrumentos sencillos de recogida de información mediante 
 
 i) Se han desarrollado comportamientos acordes con el desarrollo del propio esfuerzo y el trabajo colaborativo.
 
-2. Valora la construcción del espacio europeo hasta las primeras transformaciones industriales y sociedades agrarias, analizando sus características principales y valorando su pervivencia en la sociedad actual y en el entorno inmediato.
+2. Valora la construcción del espacio europeo hasta las primeras transformaciones industriales y sociedades agrarias, analizando sus características principales y valorando su pervivencia en la sociedad actual y en el entorno inmediato.
 
 Criterios de evaluación:
 
@@ -11530,7 +11524,7 @@ h) Se han elaborado instrumentos sencillos de recogida de información mediante 
 
 i) Se han desarrollado comportamientos acordes con el desarrollo del propio esfuerzo y el trabajo en equipo.
 
-3. Utiliza estrategias comunicativas para interpretar y comunicar información oral en lengua castellana, aplicando los principios de la escucha activa, estrategias sencillas de composición y las normas lingüísticas básicas.
+3. Utiliza estrategias comunicativas para interpretar y comunicar información oral en lengua castellana, aplicando los principios de la escucha activa, estrategias sencillas de composición y las normas lingüísticas básicas.
 
 Criterios de evaluación:
 
@@ -11544,7 +11538,7 @@ d) Se han analizado los usos y niveles de la lengua y las normas lingüísticas 
 
 e) Se ha utilizado la terminología gramatical apropiada en la comprensión de las actividades gramaticales propuestas y en la resolución de las mismas.
 
-4. Utiliza estrategias comunicativas para interpretar y comunicar información escrita en lengua castellana, aplicando estrategias de lectura comprensiva y aplicando estrategias de análisis, síntesis y clasificación de forma estructurada y progresiva a la composición autónoma de textos breves seleccionados.
+4. Utiliza estrategias comunicativas para interpretar y comunicar información escrita en lengua castellana, aplicando estrategias de lectura comprensiva y aplicando estrategias de análisis, síntesis y clasificación de forma estructurada y progresiva a la composición autónoma de textos breves seleccionados.
 
 Criterios de evaluación:
 
@@ -11566,7 +11560,7 @@ h) Se han observado pautas de presentación de trabajos escritos teniendo en cue
 
 i) Se han resuelto actividades de comprensión y análisis de las estructuras gramaticales, comprobando la validez de las inferencias realizadas.
 
-5. Realiza la lectura de textos literarios representativos de la Literatura en lengua castellana anteriores al siglo XIX, generando criterios estéticos para la construcción del gusto personal.
+5. Realiza la lectura de textos literarios representativos de la Literatura en lengua castellana anteriores al siglo XIX, generando criterios estéticos para la construcción del gusto personal.
 
 Criterios de evaluación:
 
@@ -11580,7 +11574,7 @@ d) Se han aplicado estrategias para la comprensión de textos literarios, tenien
 
 e) Se ha presentado información sobre periodos, autores y obras de la literatura en lengua castellana a partir de textos literarios.
 
-6. Utiliza estrategias para comunicar información oral en lengua inglesa, elaborando presentaciones orales de poca extensión, bien estructuradas, relativas a situaciones habituales de comunicación cotidiana y frecuente de ámbito personal o profesional.
+6. Utiliza estrategias para comunicar información oral en lengua inglesa, elaborando presentaciones orales de poca extensión, bien estructuradas, relativas a situaciones habituales de comunicación cotidiana y frecuente de ámbito personal o profesional.
 
 Criterios de evaluación:
 
@@ -11604,7 +11598,7 @@ i) Se han identificado las normas de relación social básicas y estandarizadas 
 
 j) Se han identificado las costumbres o actividades cotidianas de la comunidad donde se habla la lengua extranjera.
 
-7. Participa en conversaciones en lengua inglesa utilizando un lenguaje sencillo y claro en situaciones habituales frecuentes del ámbito personal o profesional, activando estrategias de comunicación básicas.
+7. Participa en conversaciones en lengua inglesa utilizando un lenguaje sencillo y claro en situaciones habituales frecuentes del ámbito personal o profesional, activando estrategias de comunicación básicas.
 
 Criterios de evaluación:
 
@@ -11618,7 +11612,7 @@ d) Se han utilizado estructuras gramaticales básicas y un repertorio esencial y
 
 e) Se ha expresado con cierta claridad, utilizando una entonación y pronunciación comprensible, aceptándose las pausas y dudas frecuentes.
 
-8. Elabora textos escritos en lengua inglesa, breves y sencillos de situaciones de comunicación habituales y frecuentes del ámbito personal o profesional, aplicando estrategias de lectura comprensiva y desarrollando estrategias estructuradas de composición.
+8. Elabora textos escritos en lengua inglesa, breves y sencillos de situaciones de comunicación habituales y frecuentes del ámbito personal o profesional, aplicando estrategias de lectura comprensiva y desarrollando estrategias estructuradas de composición.
 
 Criterios de evaluación:
 
@@ -11880,7 +11874,7 @@ Código: 3012
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Infiere las características esenciales de las sociedades contemporáneas a partir del estudio de su evolución histórica, analizando los rasgos básicos de su organización social, política y económica.
+1. Infiere las características esenciales de las sociedades contemporáneas a partir del estudio de su evolución histórica, analizando los rasgos básicos de su organización social, política y económica.
 
 Criterios de evaluación:
 
@@ -11904,7 +11898,7 @@ i) Se han elaborado instrumentos pautados de recogida y difusión de informació
 
 j) Se han desarrollado comportamientos acordes con el desarrollo del propio esfuerzo y el trabajo colaborativo.
 
-2. Valora los principios básicos del sistema democrático analizando sus instituciones y las diferentes organizaciones políticas y económicas en que se manifiesta e infiriendo pautas de actuación para acomodar su comportamiento al cumplimiento de dichos principios.
+2. Valora los principios básicos del sistema democrático analizando sus instituciones y las diferentes organizaciones políticas y económicas en que se manifiesta e infiriendo pautas de actuación para acomodar su comportamiento al cumplimiento de dichos principios.
 
 Criterios de evaluación:
 
@@ -11920,7 +11914,7 @@ e) Se ha valorado la implicación del principio de no discriminación en las rel
 
 f) Se ha elaborado información pautada y organizada para su utilización en situaciones de trabajo colaborativo y contraste de opiniones.
 
-3. Utiliza estrategias comunicativas para interpretar y comunicar información oral en lengua castellana, aplicando los principios de la escucha activa, estrategias razonadas de composición y las normas lingüísticas correctas en cada caso.
+3. Utiliza estrategias comunicativas para interpretar y comunicar información oral en lengua castellana, aplicando los principios de la escucha activa, estrategias razonadas de composición y las normas lingüísticas correctas en cada caso.
 
 Criterios de evaluación:
 
@@ -11934,7 +11928,7 @@ d) Se han aplicado los usos y niveles de la lengua y las normas lingüísticas e
 
 e) Se ha utilizado la terminología gramatical correcta en la comprensión de las actividades gramaticales propuestas y en la resolución de las mismas.
 
-4. Utiliza estrategias comunicativas para comunicar información escrita en lengua castellana, aplicando estrategias de análisis, síntesis y clasificación de forma estructurada a la composición autónoma de textos de progresiva complejidad.
+4. Utiliza estrategias comunicativas para comunicar información escrita en lengua castellana, aplicando estrategias de análisis, síntesis y clasificación de forma estructurada a la composición autónoma de textos de progresiva complejidad.
 
 Criterios de evaluación:
 
@@ -11956,7 +11950,7 @@ h) Se han observado pautas de presentación de trabajos escritos teniendo en cue
 
 i) Se han resuelto actividades de comprensión y análisis de las estructuras gramaticales, comprobando la precisión y validez de las inferencias realizadas.
 
-5. Interpreta textos literarios representativos de la Literatura en lengua castellana desde el siglo XIX hasta la actualidad, reconociendo la intención del autor y relacionándolo con su contexto histórico, sociocultural y literario.
+5. Interpreta textos literarios representativos de la Literatura en lengua castellana desde el siglo XIX hasta la actualidad, reconociendo la intención del autor y relacionándolo con su contexto histórico, sociocultural y literario.
 
 Criterios de evaluación:
 
@@ -11970,7 +11964,7 @@ d) Se han aplicado estrategias de análisis de textos literarios, reconociendo l
 
 e) Se ha informado sobre un autor, una obra o un período de la literatura en lengua castellana, recogiendo en forma analítica la información correspondiente.
 
-6. Utiliza estrategias para interpretar y comunicar información oral en lengua inglesa, aplicando los principios de la escucha activa y elaborando presentaciones orales de poca extensión, claras y estructuradas, relativas a temas y aspectos concretos, frecuentes y cotidianos, del ámbito personal y profesional.
+6. Utiliza estrategias para interpretar y comunicar información oral en lengua inglesa, aplicando los principios de la escucha activa y elaborando presentaciones orales de poca extensión, claras y estructuradas, relativas a temas y aspectos concretos, frecuentes y cotidianos, del ámbito personal y profesional.
 
 Criterios de evaluación:
 
@@ -11996,7 +11990,7 @@ j) Se han identificado las costumbres o actividades cotidianas de la comunidad y
 
 k) Se han identificado las principales actitudes y comportamientos profesionales en situaciones de comunicación habituales del ámbito profesional.
 
-7. Mantiene conversaciones sencillas en lengua inglesa en situaciones habituales y concretas del ámbito personal y profesional, utilizando estrategias de comunicación básicas.
+7. Mantiene conversaciones sencillas en lengua inglesa en situaciones habituales y concretas del ámbito personal y profesional, utilizando estrategias de comunicación básicas.
 
 Criterios de evaluación:
 
@@ -12012,7 +12006,7 @@ e) Se han utilizado estructuras gramaticales y oraciones sencillas y un repertor
 
 f) Se ha expresado con cierta claridad, usando una entonación y pronunciación razonable y comprensible, aceptándose algunas pausas y vacilaciones.
 
-8. Elabora textos breves y sencillos con cierto detalle en lengua inglesa, relativos a situaciones de comunicación habituales del ámbito personal y profesional, aplicando estrategias de lectura comprensiva y desarrollando estrategias sistemáticas de composición.
+8. Elabora textos breves y sencillos con cierto detalle en lengua inglesa, relativos a situaciones de comunicación habituales del ámbito personal y profesional, aplicando estrategias de lectura comprensiva y desarrollando estrategias sistemáticas de composición.
 
 Criterios de evaluación:
 
@@ -12280,7 +12274,7 @@ Código: 3079
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Realiza operaciones auxiliares en el mecanizado y montaje de construcciones metálicas, siguiendo los procesos del sistema de calidad establecido en la empresa y los correspondientes protocolos de seguridad.
+1. Realiza operaciones auxiliares en el mecanizado y montaje de construcciones metálicas, siguiendo los procesos del sistema de calidad establecido en la empresa y los correspondientes protocolos de seguridad.
 
 Criterios de evaluación:
 
@@ -12302,7 +12296,7 @@ h) Se han realizado las operaciones con criterios de respeto al medio ambiente.
 
 i) Se ha participado dentro del grupo de trabajo, mostrando iniciativa e interés.
 
-2. Realiza operaciones de calderería ligera para la obtención de productos metálicos, siguiendo los procesos del sistema de calidad establecido en la empresa y los correspondientes protocolos de seguridad.
+2. Realiza operaciones de calderería ligera para la obtención de productos metálicos, siguiendo los procesos del sistema de calidad establecido en la empresa y los correspondientes protocolos de seguridad.
 
 Criterios de evaluación:
 
@@ -12320,7 +12314,7 @@ f) Se han realizado las operaciones con criterios de respeto al medio ambiente.
 
 g) Se ha participado dentro del grupo de trabajo, mostrando iniciativa e interés.
 
-3. Realiza operaciones auxiliares en el montaje de equipos eléctricos y electrónicos, siguiendo los procesos del sistema de calidad establecido en la empresa y los correspondientes protocolos de seguridad.
+3. Realiza operaciones auxiliares en el montaje de equipos eléctricos y electrónicos, siguiendo los procesos del sistema de calidad establecido en la empresa y los correspondientes protocolos de seguridad.
 
 Criterios de evaluación:
 
@@ -12338,7 +12332,7 @@ f) Se han realizado las operaciones con criterios de respeto al medio ambiente.
 
 g) Se ha participado dentro del grupo de trabajo, mostrando iniciativa e interés.
 
-4. Realiza operaciones de mantenimiento preventivo en las instalaciones y equipos, aplicando instrucciones de acuerdo con los planes de mantenimiento.
+4. Realiza operaciones de mantenimiento preventivo en las instalaciones y equipos, aplicando instrucciones de acuerdo con los planes de mantenimiento.
 
 Criterios de evaluación:
 
@@ -12356,7 +12350,7 @@ f) Se han determinado las posibles medidas de corrección en función de los res
 
 g) Se han realizado todas las operaciones, teniendo en cuenta la normativa de seguridad laboral y de protección ambiental.
 
-5. Actúa conforme a las normas de prevención y riesgos laborales de la empresa.
+5. Actúa conforme a las normas de prevención y riesgos laborales de la empresa.
 
 Criterios de evaluación:
 
@@ -12376,7 +12370,7 @@ g) Se ha mantenido la zona de trabajo libre de riesgos, con orden y limpieza.
 
 h) Se ha trabajado minimizando el consumo de energía y la generación de residuos.
 
-6. Actúa de forma responsable y se integra en el sistema de relaciones técnico-sociales de la empresa.
+6. Actúa de forma responsable y se integra en el sistema de relaciones técnico-sociales de la empresa.
 
 Criterios de evaluación:
 
@@ -12404,7 +12398,7 @@ Este módulo profesional contribuye a completar las competencias y objetivos gen
 
 Contribuye, además, al afianzamiento de hábitos de orden, puntualidad, responsabilidad y pulcritud.
 
-4. Requisitos mínimos de calidad del contexto formativo.
+4. Requisitos mínimos de calidad del contexto formativo.
 
 **4.1** Espacios.
 
@@ -12418,7 +12412,7 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 **4.2** Equipamientos mínimos.
 
-5. Profesorado.
+5. Profesorado.
 
 **5.1** Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional, son:
 
@@ -12460,13 +12454,13 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 3079. Formación en centros de trabajo.
 
-6. Correspondencia entre módulos profesionales y unidades de competencia para su acreditación o convalidación.
+6. Correspondencia entre módulos profesionales y unidades de competencia para su acreditación o convalidación.
 
 3021. Soldadura y carpintería metálica.
 
 3022. Carpintería de aluminio y PVC.
 
-7. Ciclos formativos de grado medio a los que este título permite la aplicación de criterios de preferencia para la admisión en caso de concurrencia competitiva.
+7. Ciclos formativos de grado medio a los que este título permite la aplicación de criterios de preferencia para la admisión en caso de concurrencia competitiva.
 
 Este título tendrá preferencia para la admisión a todos los títulos de grado medio de las familias profesionales de:
 
@@ -12496,7 +12490,7 @@ Este título tendrá preferencia para la admisión a todos los títulos de grado
 
 Título profesional básico en instalaciones electrotécnicas y mecánica
 
-1. Identificación del título.
+1. Identificación del título.
 
 El Título profesional básico en instalaciones electrotécnicas y mecánica queda identificado por los siguientes elementos:
 
@@ -12510,7 +12504,7 @@ El Título profesional básico en instalaciones electrotécnicas y mecánica que
 
 – Referente europeo: CINE-3.5.3. (Clasificación Internacional Normalizada de la Educación).
 
-2. Perfil profesional.
+2. Perfil profesional.
 
 **2.1** Competencia general del título.
 
@@ -12620,7 +12614,7 @@ d) Las estructuras organizativas tienden a configurarse sobre la base de decisio
 
 e) Las características del mercado de trabajo, la movilidad laboral, la apertura económica, obligan a formar profesionales polivalentes capaces de adaptarse a las nuevas situaciones socioeconómicas, laborales y organizativas del sector.
 
-3. Enseñanzas del ciclo formativo.
+3. Enseñanzas del ciclo formativo.
 
 **3.1** Objetivos generales del título.
 
@@ -12710,7 +12704,7 @@ Código: 3013
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Selecciona los elementos, equipos y herramientas para la realización del montaje y mantenimiento de instalaciones eléctricas de edificios, relacionándolos con su función en la instalación.
+1. Selecciona los elementos, equipos y herramientas para la realización del montaje y mantenimiento de instalaciones eléctricas de edificios, relacionándolos con su función en la instalación.
 
 Criterios de evaluación:
 
@@ -12734,7 +12728,7 @@ i) Se ha trasmitido la información con claridad, de manera ordenada y estructur
 
 j) Se ha mantenido una actitud ordenada y metódica.
 
-2. Monta canalizaciones, soportes y cajas en una instalación eléctrica de baja tensión y/o domóticas, replanteando el trazado de la instalación.
+2. Monta canalizaciones, soportes y cajas en una instalación eléctrica de baja tensión y/o domóticas, replanteando el trazado de la instalación.
 
 Criterios de evaluación:
 
@@ -12758,7 +12752,7 @@ i) Se han realizado los trabajos con orden y limpieza, respetando las normas de 
 
 j) Se ha operado con autonomía en las actividades propuestas.
 
-3. Tiende el cableado entre equipos y elementos de las instalaciones eléctricas de baja tensión y/o domóticas, aplicando técnicas de acuerdo a la tipología de los conductores y a las características de la instalación.
+3. Tiende el cableado entre equipos y elementos de las instalaciones eléctricas de baja tensión y/o domóticas, aplicando técnicas de acuerdo a la tipología de los conductores y a las características de la instalación.
 
 Criterios de evaluación:
 
@@ -12782,7 +12776,7 @@ i) Se ha operado con autonomía en las actividades propuestas.
 
 j) Se ha mostrado una actitud responsable e interés por la mejora del proceso.
 
-4. Instala mecanismos y elementos de las instalaciones eléctricas y/o domóticas, identificando sus componentes y aplicaciones.
+4. Instala mecanismos y elementos de las instalaciones eléctricas y/o domóticas, identificando sus componentes y aplicaciones.
 
 Criterios de evaluación:
 
@@ -12802,7 +12796,7 @@ g) Se han colocado embellecedores y tapas cuando así se requiera.
 
 h) Se ha operado con las herramientas y materiales y con la calidad y seguridad requerida.
 
-5. Realiza operaciones auxiliares de mantenimiento de instalaciones eléctricas y/o domóticas de edificios, relacionando las intervenciones con los resultados a conseguir.
+5. Realiza operaciones auxiliares de mantenimiento de instalaciones eléctricas y/o domóticas de edificios, relacionando las intervenciones con los resultados a conseguir.
 
 Criterios de evaluación:
 
@@ -12910,7 +12904,7 @@ Código: 3014
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Selecciona los elementos que configuran las instalaciones de telecomunicaciones, identificando y describiendo sus principales características y funcionalidad.
+1. Selecciona los elementos que configuran las instalaciones de telecomunicaciones, identificando y describiendo sus principales características y funcionalidad.
 
 Criterios de evaluación:
 
@@ -12930,7 +12924,7 @@ g) Se ha relacionado el suministro de los elementos de la instalación con el ri
 
 h) Se han realizado todas las operaciones teniendo en cuenta la normativa de seguridad laboral y de protección ambiental.
 
-2. Monta canalizaciones, soportes y armarios en instalaciones de infraestructuras de telecomunicaciones en edificios, interpretando los croquis de la instalación.
+2. Monta canalizaciones, soportes y armarios en instalaciones de infraestructuras de telecomunicaciones en edificios, interpretando los croquis de la instalación.
 
 Criterios de evaluación:
 
@@ -12954,7 +12948,7 @@ i) Se han montado canalizaciones, cajas y tubos, entre otros, asegurando su fija
 
 j) Se han aplicado normas de seguridad en el uso de herramientas y equipos.
 
-3. Monta cables en instalaciones de telecomunicaciones en edificios, aplicando las técnicas establecidas y verificando el resultado.
+3. Monta cables en instalaciones de telecomunicaciones en edificios, aplicando las técnicas establecidas y verificando el resultado.
 
 Criterios de evaluación:
 
@@ -12976,7 +12970,7 @@ h) Se ha etiquetado el cable, siguiendo el procedimiento establecido.
 
 i) Se han aplicado normas de seguridad en el uso de herramientas y equipos.
 
-4. Instala elementos y equipos de instalaciones de infraestructuras de telecomunicaciones en edificios, aplicando las técnicas establecidas y verificando el resultado.
+4. Instala elementos y equipos de instalaciones de infraestructuras de telecomunicaciones en edificios, aplicando las técnicas establecidas y verificando el resultado.
 
 Criterios de evaluación:
 
@@ -13066,7 +13060,7 @@ Código: 3020
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Organiza su trabajo en la ejecución del mecanizado, interpretando la información contenida en las especificaciones del producto a mecanizar.
+1. Organiza su trabajo en la ejecución del mecanizado, interpretando la información contenida en las especificaciones del producto a mecanizar.
 
 Criterios de evaluación:
 
@@ -13086,7 +13080,7 @@ g) Se han mantenido las zonas de trabajo de su responsabilidad en condiciones de
 
 h) Se ha operado con autonomía en las actividades propuestas.
 
-2. Prepara materiales, útiles y equipos de mecanizado, reconociendo sus características y aplicaciones.
+2. Prepara materiales, útiles y equipos de mecanizado, reconociendo sus características y aplicaciones.
 
 Criterios de evaluación:
 
@@ -13106,7 +13100,7 @@ g) Se han aplicado las medidas de prevención de riesgos laborales requeridas.
 
 h) Se han planificado metódicamente las tareas a realizar con previsión de las dificultades y el modo de superarlas.
 
-3. Realiza operaciones básicas de fabricación, seleccionando las herramientas y equipos y aplicando las técnicas de fabricación.
+3. Realiza operaciones básicas de fabricación, seleccionando las herramientas y equipos y aplicando las técnicas de fabricación.
 
 Criterios de evaluación:
 
@@ -13126,7 +13120,7 @@ g) Se ha aplicado la normativa de Prevención de Riesgos Laborales en la ejecuci
 
 h) Se han realizado los trabajos con orden y limpieza.
 
-4. Manipula cargas en la alimentación y descarga de máquinas y sistemas automáticos para la realización de operaciones de fabricación, describiendo los dispositivos y el proceso.
+4. Manipula cargas en la alimentación y descarga de máquinas y sistemas automáticos para la realización de operaciones de fabricación, describiendo los dispositivos y el proceso.
 
 Criterios de evaluación:
 
@@ -13152,7 +13146,7 @@ j) Se ha mostrado una actitud responsable e interés por la mejora del proceso.
 
 k) Se han mantenido hábitos de orden y limpieza.
 
-5. Realiza operaciones de verificación sobre las piezas obtenidas, relacionando las características del producto final con las especificaciones técnicas.
+5. Realiza operaciones de verificación sobre las piezas obtenidas, relacionando las características del producto final con las especificaciones técnicas.
 
 Criterios de evaluación:
 
@@ -13276,7 +13270,7 @@ Código: 3021
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Prepara materiales de carpintería metálica férrica, relacionándolos con las características del producto final e interpretando la documentación técnica.
+1. Prepara materiales de carpintería metálica férrica, relacionándolos con las características del producto final e interpretando la documentación técnica.
 
 Criterios de evaluación:
 
@@ -13296,7 +13290,7 @@ g) Se han aplicado las especificaciones de prevención de riesgos laborales y me
 
 h) Se ha mantenido una actitud ordenada y metódica.
 
-2. Prepara las máquinas y herramientas de construcciones metálicas, reconociendo sus características y aplicaciones.
+2. Prepara las máquinas y herramientas de construcciones metálicas, reconociendo sus características y aplicaciones.
 
 Criterios de evaluación:
 
@@ -13318,7 +13312,7 @@ h) Se ha mantenido el área de trabajo con el grado apropiado de orden y limpiez
 
 i) Se ha mantenido una actitud metódica y ordenada en el proceso de preparación.
 
-3. Prepara los equipos de soldadura por arco eléctrico y oxiacetilénica, reconociendo sus características y aplicaciones.
+3. Prepara los equipos de soldadura por arco eléctrico y oxiacetilénica, reconociendo sus características y aplicaciones.
 
 Criterios de evaluación:
 
@@ -13342,7 +13336,7 @@ i) Se ha mantenido una actitud metódica y ordenada en el proceso de preparació
 
 j) Se han aplicado los equipos de protección individual adecuados en cada fase de la preparación.
 
-4. Realiza las operaciones básicas de mecanizado por conformado y soldeo sobre materiales férricos, relacionando la técnica a utilizar con las características del producto final.
+4. Realiza las operaciones básicas de mecanizado por conformado y soldeo sobre materiales férricos, relacionando la técnica a utilizar con las características del producto final.
 
 Criterios de evaluación:
 
@@ -13366,7 +13360,7 @@ i) Se ha mantenido el área de trabajo con el grado apropiado de orden y limpiez
 
 j) Se han aplicado las normas de seguridad y salud laboral, utilizando correctamente las protecciones de las máquinas y los medios individuales de protección.
 
-5. Realiza las operaciones básicas de montaje de productos férricos, relacionando las fases del mismo con las características del producto final.
+5. Realiza las operaciones básicas de montaje de productos férricos, relacionando las fases del mismo con las características del producto final.
 
 Criterios de evaluación:
 
@@ -13388,7 +13382,7 @@ h) Se han aplicado las normas de seguridad y salud laboral, utilizando correctam
 
 i) Se ha mantenido una actitud metódica y ordenada en el proceso de preparación.
 
-6. Transporta productos de carpintería metálica férrica, seleccionando los embalajes y útiles de transportes.
+6. Transporta productos de carpintería metálica férrica, seleccionando los embalajes y útiles de transportes.
 
 Criterios de evaluación:
 
@@ -13546,7 +13540,7 @@ Código: 3022
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Prepara materiales de carpintería metálica no férrica, relacionándolos con las características del producto final e interpretando la documentación técnica.
+1. Prepara materiales de carpintería metálica no férrica, relacionándolos con las características del producto final e interpretando la documentación técnica.
 
 Criterios de evaluación:
 
@@ -13566,7 +13560,7 @@ g) Se han aplicado las especificaciones de prevención de riesgos laborales y me
 
 h) Se ha mantenido una actitud ordenada y metódica.
 
-2. Prepara las máquinas y herramientas de construcciones metálicas no férricas, reconociendo sus características y aplicaciones.
+2. Prepara las máquinas y herramientas de construcciones metálicas no férricas, reconociendo sus características y aplicaciones.
 
 Criterios de evaluación:
 
@@ -13588,7 +13582,7 @@ h) Se ha mantenido una actitud metódica y ordenada en el proceso de preparació
 
 i) Se han aplicado las medidas de prevención de riesgos laborales requeridas.
 
-3. Realiza las operaciones de mecanizado sobre materiales no férricos, relacionando la técnica a utilizar con las características del producto final.
+3. Realiza las operaciones de mecanizado sobre materiales no férricos, relacionando la técnica a utilizar con las características del producto final.
 
 Criterios de evaluación:
 
@@ -13608,7 +13602,7 @@ g) Se ha mantenido el área de trabajo con el grado apropiado de orden y limpiez
 
 h) Se han aplicado las normas de seguridad y salud laboral utilizando correctamente las protecciones de las máquinas y los medios individuales de protección.
 
-4. Realiza las operaciones de montaje de productos no férricos, relacionando las fases del mismo con las características del producto final.
+4. Realiza las operaciones de montaje de productos no férricos, relacionando las fases del mismo con las características del producto final.
 
 Criterios de evaluación:
 
@@ -13630,7 +13624,7 @@ h) Se han aplicado las normas de seguridad requeridas en el montaje de productos
 
 i) Se ha mantenido una actitud metódica y ordenada en el proceso de preparación.
 
-5. Transporta productos de carpintería metálica no férrica, seleccionando los embalajes y útiles de transportes.
+5. Transporta productos de carpintería metálica no férrica, seleccionando los embalajes y útiles de transportes.
 
 Criterios de evaluación:
 
@@ -13772,7 +13766,7 @@ Código: 3009
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Resuelve problemas matemáticos en situaciones cotidianas, utilizando los elementos básicos del lenguaje matemático y sus operaciones.
+1. Resuelve problemas matemáticos en situaciones cotidianas, utilizando los elementos básicos del lenguaje matemático y sus operaciones.
 
 Criterios de evaluación:
 
@@ -13796,7 +13790,7 @@ i) Se ha utilizado la regla de tres para resolver problemas en los que intervien
 
 j) Se ha aplicado el interés simple y compuesto en actividades cotidianas.
 
-2. Reconoce las instalaciones y el material de laboratorio valorándolos como recursos necesarios para la realización de las prácticas.
+2. Reconoce las instalaciones y el material de laboratorio valorándolos como recursos necesarios para la realización de las prácticas.
 
 Criterios de evaluación:
 
@@ -13806,7 +13800,7 @@ b) Se han manipulado adecuadamente los materiales instrumentales del laboratorio
 
 c) Se han tenido en cuenta las condiciones de higiene y seguridad para cada una de la técnicas experimentales que se van a realizar.
 
-3. Identifica propiedades fundamentales de la materia en las diferentes formas en las que se presenta en la naturaleza, manejando sus magnitudes físicas y sus unidades fundamentales en unidades de sistema métrico decimal.
+3. Identifica propiedades fundamentales de la materia en las diferentes formas en las que se presenta en la naturaleza, manejando sus magnitudes físicas y sus unidades fundamentales en unidades de sistema métrico decimal.
 
 Criterios de evaluación:
 
@@ -13830,7 +13824,7 @@ i) Se han reconocido los distintos estados de agregación de una sustancia dadas
 
 j) Se han establecido diferencias entre ebullición y evaporación utilizando ejemplos sencillos.
 
-4. Utiliza el método más adecuado para la separación de componentes de mezclas sencillas relacionándolo con el proceso físico o químico en que se basa.
+4. Utiliza el método más adecuado para la separación de componentes de mezclas sencillas relacionándolo con el proceso físico o químico en que se basa.
 
 Criterios de evaluación:
 
@@ -13848,7 +13842,7 @@ f) Se han descrito las características generales básicas de materiales relacio
 
 g) Se ha trabajado en equipo en la realización de tareas.
 
-5. Reconoce cómo la energía está presente en los procesos naturales describiendo fenómenos simples de la vida real.
+5. Reconoce cómo la energía está presente en los procesos naturales describiendo fenómenos simples de la vida real.
 
 Criterios de evaluación:
 
@@ -13866,7 +13860,7 @@ f) Se han mostrado en diferentes sistemas la conservación de la energía.
 
 g) Se han descrito procesos relacionados con el mantenimiento del organismo y de la vida en los que se aprecia claramente el papel de la energía.
 
-6. Localiza las estructuras anatómicas básica discriminando los sistemas o aparatos a los que pertenecen y asociándolos a las funciones que producen en el organismo.
+6. Localiza las estructuras anatómicas básica discriminando los sistemas o aparatos a los que pertenecen y asociándolos a las funciones que producen en el organismo.
 
 Criterios de evaluación:
 
@@ -13884,7 +13878,7 @@ f) Se ha detallado cómo funciona el proceso de relación.
 
 g) Se han utilizado herramientas informáticas describir adecuadamente los aparatos y sistemas.
 
-7. Diferencia la salud de la enfermedad, relacionando los hábitos de vida con las enfermedades más frecuentes reconociendo los principios básicos de defensa contra las mismas.
+7. Diferencia la salud de la enfermedad, relacionando los hábitos de vida con las enfermedades más frecuentes reconociendo los principios básicos de defensa contra las mismas.
 
 Criterios de evaluación:
 
@@ -13906,7 +13900,7 @@ h) Se han reconocido situaciones de riesgo para la salud relacionadas con su ent
 
 i) Se han diseñado pautas de hábitos saludables relacionados con situaciones cotidianas.
 
-8. Elabora menús y dietas equilibradas sencillas diferenciando los nutrientes que contienen y adaptándolos a los distintos parámetros corporales y a situaciones diversas.
+8. Elabora menús y dietas equilibradas sencillas diferenciando los nutrientes que contienen y adaptándolos a los distintos parámetros corporales y a situaciones diversas.
 
 Criterios de evaluación:
 
@@ -13924,7 +13918,7 @@ f) Se ha calculado el metabolismo basal y sus resultados se ha representado en u
 
 g) Se han elaborado menús para situaciones concretas, investigando en la red las propiedades de los alimentos.
 
-9. Resuelve situaciones cotidianas, utilizando expresiones algebraicas sencillas y aplicando los métodos de resolución más adecuados.
+9. Resuelve situaciones cotidianas, utilizando expresiones algebraicas sencillas y aplicando los métodos de resolución más adecuados.
 
 Criterios de evaluación:
 
@@ -14092,7 +14086,7 @@ Código: 3019
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Resuelve situaciones cotidianas aplicando los métodos de resolución de ecuaciones y sistemas y valorando la precisión, simplicidad y utilidad del lenguaje algebraico.
+1. Resuelve situaciones cotidianas aplicando los métodos de resolución de ecuaciones y sistemas y valorando la precisión, simplicidad y utilidad del lenguaje algebraico.
 
 Criterios de evaluación:
 
@@ -14106,7 +14100,7 @@ d) Se han resuelto problemas cotidianos y de otras áreas de conocimiento median
 
 e) Se ha valorado la precisión, simplicidad y utilidad del lenguaje algebraico para representar situaciones planteadas en la vida real.
 
-2. Resuelve problemas sencillos de diversa índole, a través de su análisis contrastado y aplicando las fases del método científico.
+2. Resuelve problemas sencillos de diversa índole, a través de su análisis contrastado y aplicando las fases del método científico.
 
 Criterios de evaluación:
 
@@ -14122,7 +14116,7 @@ e) Se han recopilado los resultados de los ensayos de verificación y plasmado e
 
 f) Se ha defendido el resultado con argumentaciones y pruebas las verificaciones o refutaciones de las hipótesis emitidas.
 
-3. Realiza medidas directas e indirectas de figuras geométricas presentes en contextos reales, utilizando los instrumentos, las fórmulas y las técnicas necesarias.
+3. Realiza medidas directas e indirectas de figuras geométricas presentes en contextos reales, utilizando los instrumentos, las fórmulas y las técnicas necesarias.
 
 Criterios de evaluación:
 
@@ -14136,7 +14130,7 @@ d) Se ha trabajado en equipo en la obtención de medidas.
 
 e) Se han utilizado las TIC para representar distintas figuras.
 
-4. Interpreta gráficas de dos magnitudes calculando los parámetros significativos de las mismas y relacionándolo con funciones matemáticas elementales y los principales valores estadísticos.
+4. Interpreta gráficas de dos magnitudes calculando los parámetros significativos de las mismas y relacionándolo con funciones matemáticas elementales y los principales valores estadísticos.
 
 Criterios de evaluación:
 
@@ -14160,7 +14154,7 @@ i) Se han aplicado las propiedades de los sucesos y la probabilidad.
 
 j) Se han resueltos problemas cotidianos mediante cálculos de probabilidad sencillos.
 
-5. Aplica técnicas físicas o químicas, utilizando el material necesario, para la realización de prácticas de laboratorio sencillas, midiendo las magnitudes implicadas.
+5. Aplica técnicas físicas o químicas, utilizando el material necesario, para la realización de prácticas de laboratorio sencillas, midiendo las magnitudes implicadas.
 
 Criterios de evaluación:
 
@@ -14174,7 +14168,7 @@ d) Se ha descrito la célula y tejidos animales y vegetales mediante su observac
 
 e) Se han elaborado informes de ensayos en los que se incluye el procedimiento seguido, los resultados obtenidos y las conclusiones finales.
 
-6. Reconoce las reacciones químicas que se producen en los procesos biológicos y en la industria argumentando su importancia en la vida cotidiana y describiendo los cambios que se producen.
+6. Reconoce las reacciones químicas que se producen en los procesos biológicos y en la industria argumentando su importancia en la vida cotidiana y describiendo los cambios que se producen.
 
 Criterios de evaluación:
 
@@ -14190,7 +14184,7 @@ e) Se han identificado los componentes y el proceso de reacciones químicas senc
 
 f) Se han elaborado informes utilizando las TIC sobre las industrias más relevantes: alimentarias, cosmética, reciclaje, describiendo de forma sencilla los procesos que tienen lugar en las mismas.
 
-7. Identifica aspectos positivos y negativos del uso de la energía nuclear describiendo los efectos de la contaminación generada en su aplicación.
+7. Identifica aspectos positivos y negativos del uso de la energía nuclear describiendo los efectos de la contaminación generada en su aplicación.
 
 Criterios de evaluación:
 
@@ -14204,7 +14198,7 @@ d) Se ha argumentado sobre la problemática de los residuos nucleares.
 
 e) Se ha trabajado en equipo y utilizado las TIC.
 
-8. Identifica los cambios que se producen en el planeta tierra argumentando sus causas y teniendo en cuenta las diferencias que existen entre relieve y paisaje.
+8. Identifica los cambios que se producen en el planeta tierra argumentando sus causas y teniendo en cuenta las diferencias que existen entre relieve y paisaje.
 
 Criterios de evaluación:
 
@@ -14218,7 +14212,7 @@ d) Se ha descrito el proceso de transporte discriminando los agentes geológicos
 
 e) Se ha analizado el proceso de sedimentación discriminado los agentes geológicos externos que intervienen, las situaciones y las consecuencias en el relieve.
 
-9. Categoriza los contaminantes atmosféricos principales identificando sus orígenes y relacionándolos con los efectos que producen.
+9. Categoriza los contaminantes atmosféricos principales identificando sus orígenes y relacionándolos con los efectos que producen.
 
 Criterios de evaluación:
 
@@ -14230,7 +14224,7 @@ c) Se ha descrito el efecto invernadero argumentando las causas que lo originan 
 
 d) Se ha descrito la problemática que ocasiona la pérdida paulatina de la capa de ozono, las consecuencias para la salud de las personas, el equilibrio de la hidrosfera y las poblaciones.
 
-10. Identifica los contaminantes del agua relacionando su efecto en el medio ambiente con su tratamiento de depuración.
+10. Identifica los contaminantes del agua relacionando su efecto en el medio ambiente con su tratamiento de depuración.
 
 Criterios de evaluación:
 
@@ -14242,7 +14236,7 @@ c) Se han identificación posibles contaminantes en muestras de agua de distinto
 
 d) Se ha analizado los efectos producidos por la contaminación del agua y el uso responsable de la misma.
 
-11. Contribuye a equilibrio medioambientaI analizando y argumentando las líneas básicas sobre el desarrollo sostenible y proponiendo acciones para su mejora y conservación.
+11. Contribuye a equilibrio medioambientaI analizando y argumentando las líneas básicas sobre el desarrollo sostenible y proponiendo acciones para su mejora y conservación.
 
 Criterios de evaluación:
 
@@ -14254,7 +14248,7 @@ c) Se han diseñado estrategias básicas para posibilitar el mantenimiento del m
 
 d) Se ha trabajado en equipo en la identificación de los objetivos para la mejora del medioambiente.
 
-12. Relaciona las fuerzas que aparecen en situaciones habituales con los efectos producidos teniendo en cuenta su contribución al movimiento o reposo de los objetos y las magnitudes puestas en juego.
+12. Relaciona las fuerzas que aparecen en situaciones habituales con los efectos producidos teniendo en cuenta su contribución al movimiento o reposo de los objetos y las magnitudes puestas en juego.
 
 Criterios de evaluación:
 
@@ -14272,7 +14266,7 @@ f) Se ha descrito la relación causa-efecto en distintas situaciones, para encon
 
 g) Se han aplicado las leyes de Newton en situaciones de la vida cotidiana.
 
-13. Identifica los aspectos básicos de la producción, transporte y utilización de la energía eléctrica y los factores que intervienen en su consumo, describiendo los cambios producidos y las magnitudes y valores característicos.
+13. Identifica los aspectos básicos de la producción, transporte y utilización de la energía eléctrica y los factores que intervienen en su consumo, describiendo los cambios producidos y las magnitudes y valores característicos.
 
 Criterios de evaluación:
 
@@ -14288,7 +14282,7 @@ e) Se han descrito básicamente las etapas de la distribución de la energía el
 
 f) Se trabajado en equipo en la recopilación de información sobre centrales eléctricas en España.
 
-14. Identifica los componentes básicos de circuitos eléctricos sencillos, realizando medidas y determinando los valores de las magnitudes que los caracterizan.
+14. Identifica los componentes básicos de circuitos eléctricos sencillos, realizando medidas y determinando los valores de las magnitudes que los caracterizan.
 
 Criterios de evaluación:
 
@@ -14498,7 +14492,7 @@ Código: 3011
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Valora la evolución histórica de las sociedades prehistóricas y de la Edad Antigua y sus relaciones con los paisajes naturales, analizando los factores y elementos implicados, y desarrollando actitudes y valores de aprecio del patrimonio natural y artístico.
+1. Valora la evolución histórica de las sociedades prehistóricas y de la Edad Antigua y sus relaciones con los paisajes naturales, analizando los factores y elementos implicados, y desarrollando actitudes y valores de aprecio del patrimonio natural y artístico.
 
 Criterios de evaluación:
 
@@ -14520,7 +14514,7 @@ h) Se han elaborado instrumentos sencillos de recogida de información mediante 
 
 i) Se han desarrollado comportamientos acordes con el desarrollo del propio esfuerzo y el trabajo colaborativo.
 
-2. Valora la construcción del espacio europeo hasta las primeras transformaciones industriales y sociedades agrarias, analizando sus características principales y valorando su pervivencia en la sociedad actual y en el entorno inmediato.
+2. Valora la construcción del espacio europeo hasta las primeras transformaciones industriales y sociedades agrarias, analizando sus características principales y valorando su pervivencia en la sociedad actual y en el entorno inmediato.
 
 Criterios de evaluación:
 
@@ -14542,7 +14536,7 @@ h) Se han elaborado instrumentos sencillos de recogida de información mediante 
 
 i) Se han desarrollado comportamientos acordes con el desarrollo del propio esfuerzo y el trabajo en equipo.
 
-3. Utiliza estrategias comunicativas para interpretar y comunicar información oral en lengua castellana, aplicando los principios de la escucha activa, estrategias sencillas de composición y las normas lingüísticas básicas.
+3. Utiliza estrategias comunicativas para interpretar y comunicar información oral en lengua castellana, aplicando los principios de la escucha activa, estrategias sencillas de composición y las normas lingüísticas básicas.
 
 Criterios de evaluación:
 
@@ -14556,7 +14550,7 @@ d) Se han analizado los usos y niveles de la lengua y las normas lingüísticas 
 
 e) Se ha utilizado la terminología gramatical apropiada en la comprensión de las actividades gramaticales propuestas y en la resolución de las mismas.
 
-4. Utiliza estrategias comunicativas para interpretar y comunicar información escrita en lengua castellana, aplicando estrategias de lectura comprensiva y aplicando estrategias de análisis, síntesis y clasificación de forma estructurada y progresiva a la composición autónoma de textos breves seleccionados.
+4. Utiliza estrategias comunicativas para interpretar y comunicar información escrita en lengua castellana, aplicando estrategias de lectura comprensiva y aplicando estrategias de análisis, síntesis y clasificación de forma estructurada y progresiva a la composición autónoma de textos breves seleccionados.
 
 Criterios de evaluación:
 
@@ -14578,7 +14572,7 @@ h) Se han observado pautas de presentación de trabajos escritos teniendo en cue
 
 i) Se han resuelto actividades de comprensión y análisis de las estructuras gramaticales, comprobando la validez de las inferencias realizadas.
 
-5. Realiza la lectura de textos literarios representativos de la Literatura en lengua castellana anteriores al siglo XIX, generando criterios estéticos para la construcción del gusto personal.
+5. Realiza la lectura de textos literarios representativos de la Literatura en lengua castellana anteriores al siglo XIX, generando criterios estéticos para la construcción del gusto personal.
 
 Criterios de evaluación:
 
@@ -14592,7 +14586,7 @@ d) Se han aplicado estrategias para la comprensión de textos literarios, tenien
 
 e) Se ha presentado información sobre periodos, autores y obras de la literatura en lengua castellana a partir de textos literarios.
 
-6. Utiliza estrategias para comunicar información oral en lengua inglesa, elaborando presentaciones orales de poca extensión, bien estructuradas, relativas a situaciones habituales de comunicación cotidiana y frecuente de ámbito personal o profesional.
+6. Utiliza estrategias para comunicar información oral en lengua inglesa, elaborando presentaciones orales de poca extensión, bien estructuradas, relativas a situaciones habituales de comunicación cotidiana y frecuente de ámbito personal o profesional.
 
 Criterios de evaluación:
 
@@ -14616,7 +14610,7 @@ i) Se han identificado las normas de relación social básicas y estandarizadas 
 
 j) Se han identificado las costumbres o actividades cotidianas de la comunidad donde se habla la lengua extranjera.
 
-7. Participa en conversaciones en lengua inglesa utilizando un lenguaje sencillo y claro en situaciones habituales frecuentes del ámbito personal o profesional, activando estrategias de comunicación básicas.
+7. Participa en conversaciones en lengua inglesa utilizando un lenguaje sencillo y claro en situaciones habituales frecuentes del ámbito personal o profesional, activando estrategias de comunicación básicas.
 
 Criterios de evaluación:
 
@@ -14630,7 +14624,7 @@ d) Se han utilizado estructuras gramaticales básicas y un repertorio esencial y
 
 e) Se ha expresado con cierta claridad, utilizando una entonación y pronunciación comprensible, aceptándose las pausas y dudas frecuentes.
 
-8. Elabora textos escritos en lengua inglesa, breves y sencillos de situaciones de comunicación habituales y frecuentes del ámbito personal o profesional, aplicando estrategias de lectura comprensiva y desarrollando estrategias estructuradas de composición.
+8. Elabora textos escritos en lengua inglesa, breves y sencillos de situaciones de comunicación habituales y frecuentes del ámbito personal o profesional, aplicando estrategias de lectura comprensiva y desarrollando estrategias estructuradas de composición.
 
 Criterios de evaluación:
 
@@ -14892,7 +14886,7 @@ Código: 3012
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Infiere las características esenciales de las sociedades contemporáneas a partir del estudio de su evolución histórica, analizando los rasgos básicos de su organización social, política y económica.
+1. Infiere las características esenciales de las sociedades contemporáneas a partir del estudio de su evolución histórica, analizando los rasgos básicos de su organización social, política y económica.
 
 Criterios de evaluación:
 
@@ -14916,7 +14910,7 @@ i) Se han elaborado instrumentos pautados de recogida y difusión de informació
 
 j) Se han desarrollando comportamientos acordes con el desarrollo del propio esfuerzo y el trabajo colaborativo.
 
-2. Valora los principios básicos del sistema democrático analizando sus instituciones y las diferentes organizaciones políticas y económicas en que se manifiesta e infiriendo pautas de actuación para acomodar su comportamiento al cumplimiento de dichos principios.
+2. Valora los principios básicos del sistema democrático analizando sus instituciones y las diferentes organizaciones políticas y económicas en que se manifiesta e infiriendo pautas de actuación para acomodar su comportamiento al cumplimiento de dichos principios.
 
 Criterios de evaluación:
 
@@ -14932,7 +14926,7 @@ e) Se ha valorado la implicación del principio de no discriminación en las rel
 
 f) Se ha elaborado información pautada y organizada para su utilización en situaciones de trabajo colaborativo y contraste de opiniones.
 
-3. Utiliza estrategias comunicativas para interpretar y comunicar información oral en lengua castellana, aplicando los principios de la escucha activa, estrategias razonadas de composición y las normas lingüísticas correctas en cada caso.
+3. Utiliza estrategias comunicativas para interpretar y comunicar información oral en lengua castellana, aplicando los principios de la escucha activa, estrategias razonadas de composición y las normas lingüísticas correctas en cada caso.
 
 Criterios de evaluación:
 
@@ -14946,7 +14940,7 @@ d) Se han aplicado los usos y niveles de la lengua y las normas lingüísticas e
 
 e) Se ha utilizado la terminología gramatical correcta en la comprensión de las actividades gramaticales propuestas y en la resolución de las mismas.
 
-4. Utiliza estrategias comunicativas para comunicar información escrita en lengua castellana, aplicando estrategias de análisis, síntesis y clasificación de forma estructurada a la composición autónoma de textos de progresiva complejidad.
+4. Utiliza estrategias comunicativas para comunicar información escrita en lengua castellana, aplicando estrategias de análisis, síntesis y clasificación de forma estructurada a la composición autónoma de textos de progresiva complejidad.
 
 Criterios de evaluación:
 
@@ -14968,7 +14962,7 @@ h) Se han observado pautas de presentación de trabajos escritos teniendo en cue
 
 i) Se han resuelto actividades de comprensión y análisis de las estructuras gramaticales, comprobando la precisión y validez de las inferencias realizadas.
 
-5. Interpreta textos literarios representativos de la Literatura en lengua castellana desde el siglo XIX hasta la actualidad, reconociendo la intención del autor y relacionándolo con su contexto histórico, sociocultural y literario.
+5. Interpreta textos literarios representativos de la Literatura en lengua castellana desde el siglo XIX hasta la actualidad, reconociendo la intención del autor y relacionándolo con su contexto histórico, sociocultural y literario.
 
 Criterios de evaluación:
 
@@ -14982,7 +14976,7 @@ d) Se han aplicado estrategias de análisis de textos literarios, reconociendo l
 
 e) Se ha informado sobre un autor, una obra o un período de la literatura en lengua castellana, recogiendo en forma analítica la información correspondiente.
 
-6. Utiliza estrategias para interpretar y comunicar información oral en lengua inglesa, aplicando los principios de la escucha activa y elaborando presentaciones orales de poca extensión, claras y estructuradas, relativas a temas y aspectos concretos, frecuentes y cotidianos, del ámbito personal y profesional.
+6. Utiliza estrategias para interpretar y comunicar información oral en lengua inglesa, aplicando los principios de la escucha activa y elaborando presentaciones orales de poca extensión, claras y estructuradas, relativas a temas y aspectos concretos, frecuentes y cotidianos, del ámbito personal y profesional.
 
 Criterios de evaluación:
 
@@ -15008,7 +15002,7 @@ j) Se han identificado las costumbres o actividades cotidianas de la comunidad y
 
 k) Se han identificado las principales actitudes y comportamientos profesionales en situaciones de comunicación habituales del ámbito profesional.
 
-7. Mantiene conversaciones sencillas en lengua inglesa en situaciones habituales y concretas del ámbito personal y profesional, utilizando estrategias de comunicación básicas.
+7. Mantiene conversaciones sencillas en lengua inglesa en situaciones habituales y concretas del ámbito personal y profesional, utilizando estrategias de comunicación básicas.
 
 Criterios de evaluación:
 
@@ -15024,7 +15018,7 @@ e) Se han utilizado estructuras gramaticales y oraciones sencillas y un repertor
 
 f) Se ha expresado con cierta claridad, usando una entonación y pronunciación razonable y comprensible, aceptándose algunas pausas y vacilaciones.
 
-8. Elabora textos breves y sencillos con cierto detalle en lengua inglesa, relativos a situaciones de comunicación habituales del ámbito personal y profesional, aplicando estrategias de lectura comprensiva y desarrollando estrategias sistemáticas de composición.
+8. Elabora textos breves y sencillos con cierto detalle en lengua inglesa, relativos a situaciones de comunicación habituales del ámbito personal y profesional, aplicando estrategias de lectura comprensiva y desarrollando estrategias sistemáticas de composición.
 
 Criterios de evaluación:
 
@@ -15292,7 +15286,7 @@ Código: 3081
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Realiza operaciones auxiliares en el montaje de instalaciones eléctricas y de telecomunicaciones en edificios, siguiendo los procesos del sistema de calidad establecido en la empresa y los correspondientes protocolos de seguridad.
+1. Realiza operaciones auxiliares en el montaje de instalaciones eléctricas y de telecomunicaciones en edificios, siguiendo los procesos del sistema de calidad establecido en la empresa y los correspondientes protocolos de seguridad.
 
 Criterios de evaluación:
 
@@ -15312,7 +15306,7 @@ g) Se han realizado las operaciones con criterios de respeto al medio ambiente.
 
 h) Se ha participado dentro del grupo de trabajo, mostrando iniciativa e interés.
 
-2. Realiza operaciones auxiliares en el mecanizado y montaje de construcciones metálicas, siguiendo los procesos del sistema de calidad establecido en la empresa y los correspondientes protocolos de seguridad.
+2. Realiza operaciones auxiliares en el mecanizado y montaje de construcciones metálicas, siguiendo los procesos del sistema de calidad establecido en la empresa y los correspondientes protocolos de seguridad.
 
 Criterios de evaluación:
 
@@ -15334,7 +15328,7 @@ h) Se han realizado las operaciones con criterios de respeto al medio ambiente.
 
 i) Se ha participado dentro del grupo de trabajo, mostrando iniciativa e interés.
 
-3. Realiza operaciones auxiliares en el montaje de instalaciones eléctricas y de telecomunicaciones en edificios, siguiendo los procesos del sistema de calidad establecido en la empresa y los correspondientes protocolos de seguridad.
+3. Realiza operaciones auxiliares en el montaje de instalaciones eléctricas y de telecomunicaciones en edificios, siguiendo los procesos del sistema de calidad establecido en la empresa y los correspondientes protocolos de seguridad.
 
 Criterios de evaluación:
 
@@ -15354,7 +15348,7 @@ g) Se han realizado las operaciones con criterios de respeto al medio ambiente.
 
 h) Se ha participado dentro del grupo de trabajo, mostrando iniciativa e interés.
 
-4. Actúa conforme a las normas de prevención y riesgos laborales de la empresa.
+4. Actúa conforme a las normas de prevención y riesgos laborales de la empresa.
 
 Criterios de evaluación:
 
@@ -15374,7 +15368,7 @@ g) Se ha mantenido la zona de trabajo libre de riesgos, con orden y limpieza.
 
 h) Se ha trabajado minimizando el consumo de energía y la generación de residuos.
 
-5. Actúa de forma responsable y se integra en el sistema de relaciones técnico-sociales de la empresa.
+5. Actúa de forma responsable y se integra en el sistema de relaciones técnico-sociales de la empresa.
 
 Criterios de evaluación:
 
@@ -15402,7 +15396,7 @@ Este módulo profesional contribuye a completar las competencias y objetivos gen
 
 Contribuye, además, al afianzamiento de hábitos de orden, puntualidad, responsabilidad y pulcritud a lo largo de su actividad.
 
-4. Requisitos mínimos de calidad del contexto formativo.
+4. Requisitos mínimos de calidad del contexto formativo.
 
 **4.1** Espacios.
 
@@ -15416,7 +15410,7 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 **4.2** Equipamientos mínimos.
 
-5. Profesorado.
+5. Profesorado.
 
 **5.1** Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional, son:
 
@@ -15458,13 +15452,13 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 3081. Formación en centros de trabajo.
 
-6. Correspondencia entre módulos profesionales y unidades de competencia para su acreditación o convalidación.
+6. Correspondencia entre módulos profesionales y unidades de competencia para su acreditación o convalidación.
 
 3021. Soldadura y carpintería metálica.
 
 3022. Carpintería de aluminio y PVC.
 
-7. Ciclos formativos de grado medio a los que este título permite la aplicación de criterios de preferencia para la admisión en caso de concurrencia competitiva.
+7. Ciclos formativos de grado medio a los que este título permite la aplicación de criterios de preferencia para la admisión en caso de concurrencia competitiva.
 
 Este título tendrá preferencia para la admisión a todos los títulos de grado medio de las familias profesionales de:
 
@@ -15494,7 +15488,7 @@ Este título tendrá preferencia para la admisión a todos los títulos de grado
 
 Título profesional básico en mantenimiento de embarcaciones deportivas y de recreo
 
-1. Identificación del título.
+1. Identificación del título.
 
 El Título profesional básico en mantenimiento de embarcaciones deportivas y de recreo queda identificado por los siguientes elementos:
 
@@ -15508,7 +15502,7 @@ El Título profesional básico en mantenimiento de embarcaciones deportivas y de
 
 – Referente europeo: CINE-3.5.3. (Clasificación Internacional Normalizada de la Educación).
 
-2. Perfil profesional.
+2. Perfil profesional.
 
 **2.1** Competencia general del título.
 
@@ -15622,7 +15616,7 @@ d) El importante auge del sector marítimo asociado al turismo, con un creciente
 
 e) Así mismo, se prevé el empleo de nuevas fibras y resinas en la construcción de las embarcaciones, lo que contribuirá a obtener una mayor resistencia estructural y facilitará el deslizamiento sobre el agua, lo que dará lugar a una disminución del consumo energético.
 
-3. Enseñanzas del ciclo formativo.
+3. Enseñanzas del ciclo formativo.
 
 **3.1** Objetivos generales del título.
 
@@ -15716,7 +15710,7 @@ Código: 3043
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Interpreta y reproduce planos sencillos de diferentes elementos y piezas, interpretando las características de los mismos y aplicando procesos normalizados.
+1. Interpreta y reproduce planos sencillos de diferentes elementos y piezas, interpretando las características de los mismos y aplicando procesos normalizados.
 
 Criterios de evaluación:
 
@@ -15734,7 +15728,7 @@ f) Se han realizado las medidas con la precisión que el proceso exige y conform
 
 g) Se ha operado de forma ordenada, con pulcritud, precisión y seguridad, aplicando los procedimientos y técnicas adecuadas.
 
-2. Prepara y ajusta los equipos, útiles y herramientas para el mecanizado, interpretando los requerimientos del proceso que se va a realizar.
+2. Prepara y ajusta los equipos, útiles y herramientas para el mecanizado, interpretando los requerimientos del proceso que se va a realizar.
 
 Criterios de evaluación:
 
@@ -15750,7 +15744,7 @@ e) Se ha llevado a cabo el lubricado, limpieza y mantenimiento de primer nivel d
 
 f) Se ha ordenado el puesto de trabajo evitando accidentes propios de la profesión.
 
-3.âEjecuta el mecanizado a mano de piezas describiendo el proceso y aplicando las tÃ©cnicas necesarias.Â
+3.âEjecuta el mecanizado a mano de piezas describiendo el proceso y aplicando las técnicas necesarias.
 
 Criterios de evaluación:
 
@@ -15772,7 +15766,7 @@ h) Se ha operado de forma ordenada, con pulcritud, precisión y seguridad, aplic
 
 i) Se ha comprobado la calidad del producto resultante corrigiendo las anomalías detectadas.
 
-4. Realiza uniones soldadas simples, seleccionando los equipos y aplicando las especificaciones técnicas del proceso.
+4. Realiza uniones soldadas simples, seleccionando los equipos y aplicando las especificaciones técnicas del proceso.
 
 Criterios de evaluación:
 
@@ -15794,7 +15788,7 @@ h) Se ha comprobado si la soldadura realizada cumple con las características pr
 
 i) Se ha operado de forma ordenada, con pulcritud, precisión y seguridad, aplicando los procedimientos y técnicas adecuadas.
 
-5. Cumple las normas de prevención de riesgos laborales y de protección ambiental, identificando los riesgos asociados y las medidas y equipos para prevenirlos.
+5. Cumple las normas de prevención de riesgos laborales y de protección ambiental, identificando los riesgos asociados y las medidas y equipos para prevenirlos.
 
 Criterios de evaluación:
 
@@ -15812,7 +15806,7 @@ Duración: 105 horas.
 
 Contenidos básicos:
 
-InterpretaciÃ³n de planos y normalizaciÃ³n:Â
+Interpretación de planos y normalización:
 
 – Conceptos básicos de la normalización.
 
@@ -15832,7 +15826,7 @@ Preparación y ajuste de equipos, útiles y herramientas:
 
 – Clasificación de equipos, útiles y herramientas.
 
-Materiales:Â
+Materiales:
 
 – Productos férreos.
 
@@ -15864,7 +15858,7 @@ Soldadura:
 
 – Técnicas de soldadura.
 
-Normas de prevenciÃ³n y medioambiente:Â
+Normas de prevención y medioambiente:
 
 – Normas de seguridad.
 
@@ -15902,9 +15896,9 @@ Módulo Profesional: Reparación estructural de embarcaciones deportivas.
 
 Código: 3028
 
-Resultados de aprendizaje y criterios de evaluaciÃ³n.Â
+Resultados de aprendizaje y criterios de evaluación.
 
-1. Realiza las operaciones de preparación de la zona de trabajo, de medios y equipamiento, aplicando las técnicas establecidas y las normas propias del sector.
+1. Realiza las operaciones de preparación de la zona de trabajo, de medios y equipamiento, aplicando las técnicas establecidas y las normas propias del sector.
 
 Criterios de evaluación:
 
@@ -15922,7 +15916,7 @@ f) Se ha ordenado el puesto de trabajo evitando accidentes propios de la profesi
 
 g) Se ha operado de forma ordenada, y con seguridad, aplicando los procedimientos y técnicas adecuadas en condiciones de higiene.
 
-2. Realiza operaciones de desmontaje de elementos de madera y la preparación del hueco, aplicando las técnicas requeridas y los productos adecuados según especificaciones del fabricante.
+2. Realiza operaciones de desmontaje de elementos de madera y la preparación del hueco, aplicando las técnicas requeridas y los productos adecuados según especificaciones del fabricante.
 
 Criterios de evaluación:
 
@@ -15944,7 +15938,7 @@ h) Se han aplicado los productos de protección a la zona, respetando especifica
 
 i) Se han cumplido las normas ambientales y se han clasificado y almacenado los residuos en los recipientes estipulados.
 
-3. Efectúa operaciones de elaboración y montaje de piezas estructurales, identificando los distintos tipos de maderas que las constituyen y sus características.
+3. Efectúa operaciones de elaboración y montaje de piezas estructurales, identificando los distintos tipos de maderas que las constituyen y sus características.
 
 Criterios de evaluación:
 
@@ -15970,7 +15964,7 @@ j) Se han lijado las zonas de ensamblaje de los elementos y ha colaborado en el 
 
 k) Se ha operado de forma ordenada, y con seguridad, realizando la clasificación y almacenaje de los residuos y cumpliendo las normas de impacto ambiental.
 
-4. Realiza operaciones de elaboración de piezas de plástico reforzadas con fibras, preparando plantillas y soportes sencillos.
+4. Realiza operaciones de elaboración de piezas de plástico reforzadas con fibras, preparando plantillas y soportes sencillos.
 
 Criterios de evaluación:
 
@@ -15994,7 +15988,7 @@ i) Se han realizado los procesos de lijado necesarios para conseguir las formas 
 
 j) Se ha respetado durante el proceso las medidas de impacto ambiental y se han utilizado los EPI adecuados en cada operación.
 
-5. Desarrolla operaciones de reparación de zonas dañadas en las embarcaciones con estructura de plástico reforzadas con fibras, relacionando la preparación del hueco con el daño.
+5. Desarrolla operaciones de reparación de zonas dañadas en las embarcaciones con estructura de plástico reforzadas con fibras, relacionando la preparación del hueco con el daño.
 
 Criterios de evaluación:
 
@@ -16018,7 +16012,7 @@ i) Se han superpuesto capas de fibra y resina hasta alcanzar el espesor determin
 
 j) Se ha respetado durante el proceso las medidas de impacto ambiental y se han utilizado los EPI adecuados en cada operación.
 
-6. Realiza las operaciones de mantenimiento de embarcaciones deportivas y de recreo aplicando la técnica correspondiente y cumpliendo las condiciones de seguridad y relacionándolo con posibles riesgos para las personas y para el medioambiente.
+6. Realiza las operaciones de mantenimiento de embarcaciones deportivas y de recreo aplicando la técnica correspondiente y cumpliendo las condiciones de seguridad y relacionándolo con posibles riesgos para las personas y para el medioambiente.
 
 Criterios de evaluación:
 
@@ -16046,7 +16040,7 @@ Accesos a las embarcaciones deportivas y de recreo:
 
 – Normas y costumbres de comportamiento en la embarcación.
 
-TerminologÃa bÃ¡sica nÃ¡utica para el mantenimiento de embarcaciones deportivas y de recreo:Â
+TerminologÃa básica náutica para el mantenimiento de embarcaciones deportivas y de recreo:
 
 – Medidas principales de la embarcación.
 
@@ -16164,7 +16158,7 @@ Módulo Profesional: Protección y embellecimiento de superficies de embarcacion
 
 Código: 3040
 
-Resultados de aprendizaje y criterios de evaluaciÃ³n.Â
+Resultados de aprendizaje y criterios de evaluación.
 
 1. Realiza las operaciones de preparación de la zona de trabajo para proteger y embellecer las superficies de las embarcaciones, describiendo los procedimientos utilizados y las especificaciones de seguridad y medioambiente.
 
@@ -16186,7 +16180,7 @@ g) Se han retirado los residuos generados y se han almacenado en los recipientes
 
 h) Se han realizado todas las operaciones utilizando los EPI correspondientes y cumpliendo las normas de seguridad personal.
 
-2. Realiza operaciones de protección de la superficie de la embarcación, relacionando los productos con el material a proteger y aplicando la técnica correspondiente.
+2. Realiza operaciones de protección de la superficie de la embarcación, relacionando los productos con el material a proteger y aplicando la técnica correspondiente.
 
 Criterios de evaluación:
 
@@ -16210,7 +16204,7 @@ i) Se han limpiado y desengrasado las hélices, ejes, tanques, arbotantes, senti
 
 j) Se han retirado los residuos producidos, depositándolos en sus contenedores específicos.
 
-3. Realiza operaciones de igualación de superficies de embarcaciones, relacionando los distintos tipos de masillas y aparejos con la superficie a igualar y aplicando la técnica correspondiente.
+3. Realiza operaciones de igualación de superficies de embarcaciones, relacionando los distintos tipos de masillas y aparejos con la superficie a igualar y aplicando la técnica correspondiente.
 
 Criterios de evaluación:
 
@@ -16234,7 +16228,7 @@ i) Se han limpiado y desengrasado las superficies, con los productos establecido
 
 j) Se han retirado los residuos producidos, depositándolos en sus contenedores específicos.
 
-4. Realiza operaciones de pintado y barnizado en embarcaciones deportivas y de recreo, justificando la adicción de antideslizantes en cubierta y aplicando la técnica correspondiente.
+4. Realiza operaciones de pintado y barnizado en embarcaciones deportivas y de recreo, justificando la adicción de antideslizantes en cubierta y aplicando la técnica correspondiente.
 
 Criterios de evaluación:
 
@@ -16254,7 +16248,7 @@ g) Se han retirado los residuos producidos, depositándolos en sus contenedores 
 
 h) Se ha operado de forma ordenada, aplicando los procedimientos y técnicas adecuadas.
 
-5. Realiza la limpieza y el mantenimiento de primer nivel de los equipos, útiles y herramientas utilizados, justificando la frecuencia y su necesidad en la operatividad de los mismos.
+5. Realiza la limpieza y el mantenimiento de primer nivel de los equipos, útiles y herramientas utilizados, justificando la frecuencia y su necesidad en la operatividad de los mismos.
 
 Criterios de evaluación:
 
@@ -16270,7 +16264,7 @@ e) Se ha realizado la limpieza y extracción del polvo de los equipos de aspirac
 
 f) Se han mantenido las instalaciones en perfecto orden y limpieza, evitando los posibles riesgos en la zona de trabajo.
 
-6. Realiza las intervenciones aplicando la técnica correspondiente y cumpliendo las condiciones de seguridad y relacionándolo con posibles riesgos para las personas y para el medioambiente y aplicando el procedimiento de recogida de residuos apropiado.
+6. Realiza las intervenciones aplicando la técnica correspondiente y cumpliendo las condiciones de seguridad y relacionándolo con posibles riesgos para las personas y para el medioambiente y aplicando el procedimiento de recogida de residuos apropiado.
 
 Criterios de evaluación:
 
@@ -16304,7 +16298,7 @@ Preparación de la zona de trabajo:
 
 – Equipos de agua a presión.
 
-Operaciones auxiliares de protecciÃ³n de superficies:Â
+Operaciones auxiliares de protección de superficies:
 
 – Interpretación de la documentación técnica básica.
 
@@ -16328,7 +16322,7 @@ Operaciones auxiliares de protecciÃ³n de superficies:Â
 
 – Productos de limpieza de tanques y sentinas.
 
-Operaciones auxiliares de igualaciÃ³n de superficies:Â
+Operaciones auxiliares de igualación de superficies:
 
 – Interpretación de la documentación técnica de los fabricantes de los productos concerniente a las masillas y aparejos: Discos y lijas utilizados: Tipos de lijas.
 
@@ -16414,15 +16408,15 @@ Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alca
 
 – Realización de operaciones auxiliares en la aplicación de pinturas y barnices observando en todos las acciones las normas de Prevención de Riesgos Laborales y ambientales.
 
-Â
+
 
 Módulo Profesional: Mantenimiento básico de la planta propulsora y equipos asociados.
 
 Código: 3048
 
-Resultados de aprendizaje y criterios de evaluaciÃ³n.Â
+Resultados de aprendizaje y criterios de evaluación.
 
-1. Prepara la embarcación y acondiciona las zonas de trabajo en la planta propulsora y equipos asociados, describiendo la secuencia de los procedimientos y recursos utilizados.
+1. Prepara la embarcación y acondiciona las zonas de trabajo en la planta propulsora y equipos asociados, describiendo la secuencia de los procedimientos y recursos utilizados.
 
 Criterios de evaluación:
 
@@ -16438,7 +16432,7 @@ e) Se han efectuado operaciones de protección de las zonas adyacentes al lugar 
 
 f) Se han seguido las instrucciones y normas de trabajo y seguridad establecidas, y se cumplen, respetando las indicaciones dispuestas.
 
-2. Efectúa operaciones de mantenimiento básico del motor de combustión interna, justificando las actuaciones de mantenimiento y aplicando las instrucciones específicas del fabricante.
+2. Efectúa operaciones de mantenimiento básico del motor de combustión interna, justificando las actuaciones de mantenimiento y aplicando las instrucciones específicas del fabricante.
 
 Criterios de evaluación:
 
@@ -16460,7 +16454,7 @@ h) Se han repuesto las correas de servicio, comprobando su ajuste y funcionamien
 
 i) Se ha llevado a cabo la limpieza y mantenimiento de primer nivel de los distintos equipos, útiles y herramientas, teniendo en cuenta las normas de seguridad personal y medioambiental.
 
-3. Realiza operaciones de mantenimiento básico de los sistemas de propulsión, gobierno y otros equipos de embarcaciones deportivas y de recreo, describiendo el procedimiento y aplicando la técnica correspondiente, relacionando los elementos intervenidos con la funcionalidad en los sistemas.
+3. Realiza operaciones de mantenimiento básico de los sistemas de propulsión, gobierno y otros equipos de embarcaciones deportivas y de recreo, describiendo el procedimiento y aplicando la técnica correspondiente, relacionando los elementos intervenidos con la funcionalidad en los sistemas.
 
 Criterios de evaluación:
 
@@ -16478,7 +16472,7 @@ f) Se ha efectuado el desmontaje y/o sustitución de los elementos mecánicos e 
 
 g) Se ha llevado a cabo la limpieza y mantenimiento de primer nivel de los distintos equipos, útiles y herramientas, teniendo en cuenta las normas de seguridad personal y medioambiental.
 
-4. Realiza operaciones de mantenimiento básico de los sistemas de saneamiento, de abastecimiento y de evacuación de fluidos, aplicando la técnica correspondiente y las normas de protección medioambiental.
+4. Realiza operaciones de mantenimiento básico de los sistemas de saneamiento, de abastecimiento y de evacuación de fluidos, aplicando la técnica correspondiente y las normas de protección medioambiental.
 
 Criterios de evaluación:
 
@@ -16498,7 +16492,7 @@ g) Se ha realizado la sustitución de los filtros de fluidos, comprobando su fun
 
 h) Realiza la limpieza de la zona de trabajo, útiles y herramientas, teniendo en cuenta las normas de seguridad personal y medioambiental.
 
-5. Realiza operaciones básicas de mantenimiento de los sistemas de frio y climatización de embarcaciones deportivas y de recreo, justificando las actuaciones realizadas en el mantenimiento.
+5. Realiza operaciones básicas de mantenimiento de los sistemas de frio y climatización de embarcaciones deportivas y de recreo, justificando las actuaciones realizadas en el mantenimiento.
 
 Criterios de evaluación:
 
@@ -16516,7 +16510,7 @@ f) Se han sustituido las juntas de unión de los circuitos de fluidos, comproban
 
 g) Se ha llevado a cabo la limpieza y mantenimiento de primer nivel de los distintos equipos, útiles y herramientas, teniendo en cuenta las normas de seguridad personal y medioambiental.
 
-6. Realiza operaciones de mantenimiento aplicando las normas de seguridad, identificando los posibles riesgos para las personas y el medioambiente y aplicando el procedimiento de recogida de residuos apropiado.
+6. Realiza operaciones de mantenimiento aplicando las normas de seguridad, identificando los posibles riesgos para las personas y el medioambiente y aplicando el procedimiento de recogida de residuos apropiado.
 
 Criterios de evaluación:
 
@@ -16538,7 +16532,7 @@ Duración: 90 horas.
 
 Contenidos básicos:
 
-PreparaciÃ³n para el mantenimiento de la embarcaciÃ³n y el equipamiento:Â
+Preparación para el mantenimiento de la embarcación y el equipamiento:
 
 – Normas de trabajo y protección de los elementos a mantener.
 
@@ -16552,7 +16546,7 @@ PreparaciÃ³n para el mantenimiento de la embarcaciÃ³n y el equipamiento:Â
 
 – Equipos de protección.
 
-Mantenimiento bÃ¡sico del motor de combustiÃ³n interna:Â
+Mantenimiento básico del motor de combustión interna:
 
 – Elementos que constituyen los motores de combustión interna.
 
@@ -16574,7 +16568,7 @@ Mantenimiento bÃ¡sico del motor de combustiÃ³n interna:Â
 
 – Equipos de protección.
 
-Mantenimiento bÃ¡sico de los sistemas de propulsiÃ³n, gobierno y otros equipos:Â
+Mantenimiento básico de los sistemas de propulsión, gobierno y otros equipos:
 
 – Componentes de los sistemas de propulsión, gobierno y otros equipos. Principales averías.
 
@@ -16592,7 +16586,7 @@ Mantenimiento bÃ¡sico de los sistemas de propulsiÃ³n, gobierno y otros equip
 
 – Equipos de protección.
 
-Mantenimiento bÃ¡sico de los sistemas de saneamiento, abastecimiento y evacuaciÃ³n de fluidos:Â
+Mantenimiento básico de los sistemas de saneamiento, abastecimiento y evacuación de fluidos:
 
 – Componentes de los sistemas de saneamiento, abastecimiento y evacuación de fluidos. Principales averías.
 
@@ -16682,7 +16676,7 @@ e) Se han realizado mediciones de intensidad con la pinza amperimétrica sobre c
 
 f) Se ha operado de forma ordenada, y con seguridad, aplicando los procedimientos y técnicas adecuadas.
 
-2. Efectúa operaciones de mantenimiento básico de los equipos de generación eléctrica y acumulación de los sistemas de carga y del motor de arranque, describiendo su función y justificando las actuaciones de mantenimiento.
+2. Efectúa operaciones de mantenimiento básico de los equipos de generación eléctrica y acumulación de los sistemas de carga y del motor de arranque, describiendo su función y justificando las actuaciones de mantenimiento.
 
 Criterios de evaluación:
 
@@ -16702,7 +16696,7 @@ g) Se ha realizado la sustitución del alternador y comprobado que se produce la
 
 h) Se ha llevado a cabo la limpieza y mantenimiento de primer nivel de los distintos equipos, útiles y herramientas, teniendo en cuenta las normas de seguridad personal y medioambiental.
 
-3. Realiza operaciones de mantenimiento básico de los sistemas eléctricos auxiliares, describiendo la función de los elementos implicados, aplicando la técnica correspondiente y utilizando las instrucciones específicas del fabricante.
+3. Realiza operaciones de mantenimiento básico de los sistemas eléctricos auxiliares, describiendo la función de los elementos implicados, aplicando la técnica correspondiente y utilizando las instrucciones específicas del fabricante.
 
 Criterios de evaluación:
 
@@ -16722,7 +16716,7 @@ g) Se han sustituido los interruptores y conmutadores de los sistemas eléctrico
 
 h) Se ha operado de forma ordenada, con pulcritud, precisión y seguridad, aplicando los procedimientos y técnicas adecuadas.
 
-4. Realiza la sustitución de cables, terminales y conectores eléctricos, aplicando la técnica requerida y las condiciones de seguridad implícitas en la intervención.
+4. Realiza la sustitución de cables, terminales y conectores eléctricos, aplicando la técnica requerida y las condiciones de seguridad implícitas en la intervención.
 
 Criterios de evaluación:
 
@@ -16740,7 +16734,7 @@ f) Se ha comprobado que los conductores seleccionados, las uniones realizadas y 
 
 g) Se ha realizado la limpieza de la zona de trabajo, útiles y herramientas, teniendo en cuenta las normas de seguridad personal y medioambiental.
 
-5. Realiza operaciones de mantenimiento básico de equipos informáticos y periféricos, describiendo las fases de procedimiento requerido y las implicaciones de una intervención inapropiada.
+5. Realiza operaciones de mantenimiento básico de equipos informáticos y periféricos, describiendo las fases de procedimiento requerido y las implicaciones de una intervención inapropiada.
 
 Criterios de evaluación:
 
@@ -16760,7 +16754,7 @@ g) Se ha realizado la limpieza de la zona de trabajo y procedido al reciclaje de
 
 h) Se ha operado de forma ordenada, y con seguridad, aplicando los procedimientos y técnicas adecuadas.
 
-6. Realiza las intervenciones en condiciones de seguridad, identificando los posibles riesgos para la salud y el medioambiente, aplicando el procedimiento de recogida de residuos establecido.
+6. Realiza las intervenciones en condiciones de seguridad, identificando los posibles riesgos para la salud y el medioambiente, aplicando el procedimiento de recogida de residuos establecido.
 
 Criterios de evaluación:
 
@@ -16814,7 +16808,7 @@ Mantenimiento de los sistemas de carga y arranque:
 
 – Alternador. Técnicas de sustitución. Comprobaciones básicas.
 
-Mantenimiento bÃ¡sico de los sistemas elÃ©ctricos auxiliares de embarcaciones:Â
+Mantenimiento básico de los sistemas eléctricos auxiliares de embarcaciones:
 
 – Principales componentes de los sistemas eléctricos auxiliares. Circuitos elementales de corriente continua y alterna.
 
@@ -16898,9 +16892,9 @@ Módulo Profesional: Mantenimiento básico de aparejos de embarcaciones deportiv
 
 Código: 3068
 
-Resultados de aprendizaje y criterios de evaluaciÃ³n.Â
+Resultados de aprendizaje y criterios de evaluación.
 
-1. Realiza operaciones de mantenimiento básico de las jarcias, relacionándolas con la función que deben cumplir en la embarcación.
+1. Realiza operaciones de mantenimiento básico de las jarcias, relacionándolas con la función que deben cumplir en la embarcación.
 
 Criterios de evaluación:
 
@@ -16918,7 +16912,7 @@ f) Se han realizado las operaciones básicas de cabullería (guarnido de aparejo
 
 g) Se ha efectuado la limpieza de los elementos de las jarcias y las zonas de trabajo, siguiendo las normas y condiciones de seguridad y protección medioambiental establecidas.
 
-2. Efectúa las operaciones de mantenimiento básico del mástil y de los elementos de la arboladura, aplicando las instrucciones específicas del fabricante y la técnica requerida.
+2. Efectúa las operaciones de mantenimiento básico del mástil y de los elementos de la arboladura, aplicando las instrucciones específicas del fabricante y la técnica requerida.
 
 Criterios de evaluación:
 
@@ -16938,7 +16932,7 @@ g) Se ha realizado el desmontaje y montaje de eslingas, cabos y elementos asocia
 
 h) Se ha realizado la limpieza de la zona de trabajo, útiles y herramientas, teniendo en cuenta las normas de seguridad personal y medioambiental.
 
-3. Realiza operaciones sencillas de mantenimiento y reparación de los sistemas de control de las jarcias, aplicando las especificaciones del fabricante y las técnicas correspondientes.
+3. Realiza operaciones sencillas de mantenimiento y reparación de los sistemas de control de las jarcias, aplicando las especificaciones del fabricante y las técnicas correspondientes.
 
 Criterios de evaluación:
 
@@ -16958,7 +16952,7 @@ g) Se ha realizado la limpieza de la zona de trabajo, útiles y herramientas, te
 
 h) Se ha operado de forma ordenada, con pulcritud y seguridad, aplicando los procedimientos y técnicas adecuadas en condiciones de higiene.
 
-4. Efectúa operaciones de mantenimiento básico de las velas y elementos textiles auxiliares, aplicando las especificaciones técnicas del fabricante y las técnicas correspondientes.
+4. Efectúa operaciones de mantenimiento básico de las velas y elementos textiles auxiliares, aplicando las especificaciones técnicas del fabricante y las técnicas correspondientes.
 
 Criterios de evaluación:
 
@@ -16978,7 +16972,7 @@ g) Se han efectuado las técnicas básicas de pegado de paños de refuerzo en la
 
 h) Se ha efectuado la limpieza de los útiles, herramientas y de las zonas de trabajo de los elementos textiles auxiliares y velas, siguiendo las normas y condiciones de seguridad y protección medioambiental establecidas.
 
-5. Realiza las intervenciones implicadas en condiciones de seguridad, identificando los posibles riesgos para la salud y el medioambiente, aplicando el procedimiento de recogida de residuos apropiado.
+5. Realiza las intervenciones implicadas en condiciones de seguridad, identificando los posibles riesgos para la salud y el medioambiente, aplicando el procedimiento de recogida de residuos apropiado.
 
 Criterios de evaluación:
 
@@ -17108,7 +17102,7 @@ Código: 3009
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Resuelve problemas matemáticos en situaciones cotidianas, utilizando los elementos básicos del lenguaje matemático y sus operaciones.
+1. Resuelve problemas matemáticos en situaciones cotidianas, utilizando los elementos básicos del lenguaje matemático y sus operaciones.
 
 Criterios de evaluación:
 
@@ -17132,7 +17126,7 @@ i) Se ha utilizado la regla de tres para resolver problemas en los que intervien
 
 j) Se ha aplicado el interés simple y compuesto en actividades cotidianas.
 
-2. Reconoce las instalaciones y el material de laboratorio valorándolos como recursos necesarios para la realización de las prácticas.
+2. Reconoce las instalaciones y el material de laboratorio valorándolos como recursos necesarios para la realización de las prácticas.
 
 Criterios de evaluación:
 
@@ -17142,7 +17136,7 @@ b) Se han manipulado adecuadamente los materiales instrumentales del laboratorio
 
 c) Se han tenido en cuenta las condiciones de higiene y seguridad para cada una de la técnicas experimentales que se van a realizar.
 
-3. Identifica propiedades fundamentales de la materia en las diferentes formas en las que se presenta en la naturaleza, manejando sus magnitudes físicas y sus unidades fundamentales en unidades de sistema métrico decimal.
+3. Identifica propiedades fundamentales de la materia en las diferentes formas en las que se presenta en la naturaleza, manejando sus magnitudes físicas y sus unidades fundamentales en unidades de sistema métrico decimal.
 
 Criterios de evaluación:
 
@@ -17166,7 +17160,7 @@ i) Se han reconocido los distintos estados de agregación de una sustancia dadas
 
 j) Se han establecido diferencias entre ebullición y evaporación utilizando ejemplos sencillos.
 
-4. Utiliza el método más adecuado para la separación de componentes de mezclas sencillas relacionándolo con el proceso físico o químico en que se basa.
+4. Utiliza el método más adecuado para la separación de componentes de mezclas sencillas relacionándolo con el proceso físico o químico en que se basa.
 
 Criterios de evaluación:
 
@@ -17184,7 +17178,7 @@ f) Se han descrito las características generales básicas de materiales relacio
 
 g) Se ha trabajado en equipo en la realización de tareas.
 
-5. Reconoce cómo la energía está presente en los procesos naturales describiendo fenómenos simples de la vida real.
+5. Reconoce cómo la energía está presente en los procesos naturales describiendo fenómenos simples de la vida real.
 
 Criterios de evaluación:
 
@@ -17202,7 +17196,7 @@ f) Se han mostrado en diferentes sistemas la conservación de la energía.
 
 g) Se han descrito procesos relacionados con el mantenimiento del organismo y de la vida en los que se aprecia claramente el papel de la energía.
 
-6. Localiza las estructuras anatómicas básica discriminando los sistemas o aparatos a los que pertenecen y asociándolos a las funciones que producen en el organismo.
+6. Localiza las estructuras anatómicas básica discriminando los sistemas o aparatos a los que pertenecen y asociándolos a las funciones que producen en el organismo.
 
 Criterios de evaluación:
 
@@ -17220,7 +17214,7 @@ f) Se ha detallado cómo funciona el proceso de relación.
 
 g) Se han utilizado herramientas informáticas describir adecuadamente los aparatos y sistemas.
 
-7. Diferencia la salud de la enfermedad, relacionando los hábitos de vida con las enfermedades más frecuentes reconociendo los principios básicos de defensa contra las mismas.
+7. Diferencia la salud de la enfermedad, relacionando los hábitos de vida con las enfermedades más frecuentes reconociendo los principios básicos de defensa contra las mismas.
 
 Criterios de evaluación:
 
@@ -17242,7 +17236,7 @@ h) Se han reconocido situaciones de riesgo para la salud relacionadas con su ent
 
 i) Se han diseñado pautas de hábitos saludables relacionados con situaciones cotidianas.
 
-8. Elabora menús y dietas equilibradas sencillas diferenciando los nutrientes que contienen y adaptándolos a los distintos parámetros corporales y a situaciones diversas.
+8. Elabora menús y dietas equilibradas sencillas diferenciando los nutrientes que contienen y adaptándolos a los distintos parámetros corporales y a situaciones diversas.
 
 Criterios de evaluación:
 
@@ -17260,7 +17254,7 @@ f) Se ha calculado el metabolismo basal y sus resultados se ha representado en u
 
 g) Se han elaborado menús para situaciones concretas, investigando en la red las propiedades de los alimentos.
 
-9. Resuelve situaciones cotidianas, utilizando expresiones algebraicas sencillas y aplicando los métodos de resolución más adecuados.
+9. Resuelve situaciones cotidianas, utilizando expresiones algebraicas sencillas y aplicando los métodos de resolución más adecuados.
 
 Criterios de evaluación:
 
@@ -17428,7 +17422,7 @@ Código: 3019
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Resuelve situaciones cotidianas aplicando los métodos de resolución de ecuaciones y sistemas y valorando la precisión, simplicidad y utilidad del lenguaje algebraico.
+1. Resuelve situaciones cotidianas aplicando los métodos de resolución de ecuaciones y sistemas y valorando la precisión, simplicidad y utilidad del lenguaje algebraico.
 
 Criterios de evaluación:
 
@@ -17442,7 +17436,7 @@ d) Se han resuelto problemas cotidianos y de otras áreas de conocimiento median
 
 e) Se ha valorado la precisión, simplicidad y utilidad del lenguaje algebraico para representar situaciones planteadas en la vida real.
 
-2. Resuelve problemas sencillos de diversa índole, a través de su análisis contrastado y aplicando las fases del método científico.
+2. Resuelve problemas sencillos de diversa índole, a través de su análisis contrastado y aplicando las fases del método científico.
 
 Criterios de evaluación:
 
@@ -17458,7 +17452,7 @@ e) Se han recopilado los resultados de los ensayos de verificación y plasmado e
 
 f) Se ha defendido el resultado con argumentaciones y pruebas las verificaciones o refutaciones de las hipótesis emitidas.
 
-3. Realiza medidas directas e indirectas de figuras geométricas presentes en contextos reales, utilizando los instrumentos, las fórmulas y las técnicas necesarias.
+3. Realiza medidas directas e indirectas de figuras geométricas presentes en contextos reales, utilizando los instrumentos, las fórmulas y las técnicas necesarias.
 
 Criterios de evaluación:
 
@@ -17472,7 +17466,7 @@ d) Se ha trabajado en equipo en la obtención de medidas.
 
 e) Se han utilizado las TIC para representar distintas figuras.
 
-4. Interpreta gráficas de dos magnitudes calculando los parámetros significativos de las mismas y relacionándolo con funciones matemáticas elementales y los principales valores estadísticos.
+4. Interpreta gráficas de dos magnitudes calculando los parámetros significativos de las mismas y relacionándolo con funciones matemáticas elementales y los principales valores estadísticos.
 
 Criterios de evaluación:
 
@@ -17496,7 +17490,7 @@ i) Se han aplicado las propiedades de los sucesos y la probabilidad.
 
 j) Se han resuelto problemas cotidianos mediante cálculos de probabilidad sencillos.
 
-5. Aplica técnicas físicas o químicas, utilizando el material necesario, para la realización de prácticas de laboratorio sencillas, midiendo las magnitudes implicadas.
+5. Aplica técnicas físicas o químicas, utilizando el material necesario, para la realización de prácticas de laboratorio sencillas, midiendo las magnitudes implicadas.
 
 Criterios de evaluación:
 
@@ -17510,7 +17504,7 @@ d) Se ha descrito la célula y tejidos animales y vegetales mediante su observac
 
 e) Se han elaborado informes de ensayos en los que se incluye el procedimiento seguido, los resultados obtenidos y las conclusiones finales.
 
-6. Reconoce las reacciones químicas que se producen en los procesos biológicos y en la industria, argumentando su importancia en la vida cotidiana y describiendo los cambios que se producen.
+6. Reconoce las reacciones químicas que se producen en los procesos biológicos y en la industria, argumentando su importancia en la vida cotidiana y describiendo los cambios que se producen.
 
 Criterios de evaluación:
 
@@ -17526,7 +17520,7 @@ e) Se han identificado los componentes y el proceso de reacciones químicas senc
 
 f) Se han elaborado informes utilizando las TIC sobre las industrias más relevantes: alimentarias, cosmética, reciclaje, describiendo de forma sencilla los procesos que tienen lugar en las mismas.
 
-7. Identifica aspectos positivos y negativos del uso de la energía nuclear, describiendo los efectos de la contaminación generada en su aplicación.
+7. Identifica aspectos positivos y negativos del uso de la energía nuclear, describiendo los efectos de la contaminación generada en su aplicación.
 
 Criterios de evaluación:
 
@@ -17540,7 +17534,7 @@ d) Se ha argumentado sobre la problemática de los residuos nucleares.
 
 e) Se ha trabajado en equipo y utilizado las TIC.
 
-8. Identifica los cambios que se producen en el planeta tierra, argumentando sus causas y teniendo en cuenta las diferencias que existen entre relieve y paisaje.
+8. Identifica los cambios que se producen en el planeta tierra, argumentando sus causas y teniendo en cuenta las diferencias que existen entre relieve y paisaje.
 
 Criterios de evaluación:
 
@@ -17554,7 +17548,7 @@ d) Se ha descrito el proceso de transporte discriminando los agentes geológicos
 
 e) Se ha analizado el proceso de sedimentación discriminado los agentes geológicos externos que intervienen, las situaciones y las consecuencias en el relieve.
 
-9. Categoriza los contaminantes atmosféricos principales, identificando sus orígenes y relacionándolos con los efectos que producen.
+9. Categoriza los contaminantes atmosféricos principales, identificando sus orígenes y relacionándolos con los efectos que producen.
 
 Criterios de evaluación:
 
@@ -17566,7 +17560,7 @@ c) Se ha descrito el efecto invernadero argumentando las causas que lo originan 
 
 d) Se ha descrito la problemática que ocasiona la pérdida paulatina de la capa de ozono, las consecuencias para la salud de las personas, el equilibrio de la hidrosfera y las poblaciones.
 
-10. Identifica los contaminantes del agua, relacionando su efecto en el medio ambiente con su tratamiento de depuración.
+10. Identifica los contaminantes del agua, relacionando su efecto en el medio ambiente con su tratamiento de depuración.
 
 Criterios de evaluación:
 
@@ -17578,7 +17572,7 @@ c) Se han identificado posibles contaminantes en muestras de agua de distinto or
 
 d) Se ha analizado los efectos producidos por la contaminación del agua y el uso responsable de la misma.
 
-11. Contribuye al equilibrio medioambientaI, analizando y argumentando las líneas básicas sobre el desarrollo sostenible y proponiendo acciones para su mejora y conservación.
+11. Contribuye al equilibrio medioambientaI, analizando y argumentando las líneas básicas sobre el desarrollo sostenible y proponiendo acciones para su mejora y conservación.
 
 Criterios de evaluación:
 
@@ -17590,7 +17584,7 @@ c) Se han diseñado estrategias básicas para posibilitar el mantenimiento del m
 
 d) Se ha trabajado en equipo en la identificación de los objetivos para la mejora del medioambiente.
 
-12. Relaciona las fuerzas que aparecen en situaciones habituales con los efectos producidos, teniendo en cuenta su contribución al movimiento o reposo de los objetos y las magnitudes puestas en juego.
+12. Relaciona las fuerzas que aparecen en situaciones habituales con los efectos producidos, teniendo en cuenta su contribución al movimiento o reposo de los objetos y las magnitudes puestas en juego.
 
 Criterios de evaluación:
 
@@ -17608,7 +17602,7 @@ f) Se ha descrito la relación causa-efecto en distintas situaciones, para encon
 
 g) Se han aplicado las leyes de Newton en situaciones de la vida cotidiana.
 
-13. Identifica los aspectos básicos de la producción, transporte y utilización de la energía eléctrica y los factores que intervienen en su consumo, describiendo los cambios producidos y las magnitudes y valores característicos.
+13. Identifica los aspectos básicos de la producción, transporte y utilización de la energía eléctrica y los factores que intervienen en su consumo, describiendo los cambios producidos y las magnitudes y valores característicos.
 
 Criterios de evaluación:
 
@@ -17624,7 +17618,7 @@ e) Se han descrito básicamente las etapas de la distribución de la energía el
 
 f) Se trabajado en equipo en la recopilación de información sobre centrales eléctricas en España.
 
-14. Identifica los componentes básicos de circuitos eléctricos sencillos, realizando medidas y determinando los valores de las magnitudes que los caracterizan.
+14. Identifica los componentes básicos de circuitos eléctricos sencillos, realizando medidas y determinando los valores de las magnitudes que los caracterizan.
 
 Criterios de evaluación:
 
@@ -17834,7 +17828,7 @@ Código: 3011
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Valora la evolución histórica de las sociedades prehistóricas y de la Edad Antigua y sus relaciones con los paisajes naturales, analizando los factores y elementos implicados, y desarrollando actitudes y valores de aprecio del patrimonio natural y artístico.
+1. Valora la evolución histórica de las sociedades prehistóricas y de la Edad Antigua y sus relaciones con los paisajes naturales, analizando los factores y elementos implicados, y desarrollando actitudes y valores de aprecio del patrimonio natural y artístico.
 
 Criterios de evaluación:
 
@@ -17856,7 +17850,7 @@ h) Se han elaborado instrumentos sencillos de recogida de información mediante 
 
 i) Se han desarrollado comportamientos acordes con el desarrollo del propio esfuerzo y el trabajo colaborativo.
 
-2. Valora la construcción del espacio europeo hasta las primeras transformaciones industriales y sociedades agrarias, analizando sus características principales y valorando su pervivencia en la sociedad actual y en el entorno inmediato.
+2. Valora la construcción del espacio europeo hasta las primeras transformaciones industriales y sociedades agrarias, analizando sus características principales y valorando su pervivencia en la sociedad actual y en el entorno inmediato.
 
 Criterios de evaluación:
 
@@ -17878,7 +17872,7 @@ h) Se han elaborado instrumentos sencillos de recogida de información mediante 
 
 i) Se han desarrollado comportamientos acordes con el desarrollo del propio esfuerzo y el trabajo en equipo.
 
-3. Utiliza estrategias comunicativas para interpretar y comunicar información oral en lengua castellana, aplicando los principios de la escucha activa, estrategias sencillas de composición y las normas lingüísticas básicas.
+3. Utiliza estrategias comunicativas para interpretar y comunicar información oral en lengua castellana, aplicando los principios de la escucha activa, estrategias sencillas de composición y las normas lingüísticas básicas.
 
 Criterios de evaluación:
 
@@ -17892,7 +17886,7 @@ d) Se han analizado los usos y niveles de la lengua y las normas lingüísticas 
 
 e) Se ha utilizado la terminología gramatical apropiada en la comprensión de las actividades gramaticales propuestas y en la resolución de las mismas.
 
-4. Utiliza estrategias comunicativas para interpretar y comunicar información escrita en lengua castellana, aplicando estrategias de lectura comprensiva y aplicando estrategias de análisis, síntesis y clasificación de forma estructurada y progresiva a la composición autónoma de textos breves seleccionados.
+4. Utiliza estrategias comunicativas para interpretar y comunicar información escrita en lengua castellana, aplicando estrategias de lectura comprensiva y aplicando estrategias de análisis, síntesis y clasificación de forma estructurada y progresiva a la composición autónoma de textos breves seleccionados.
 
 Criterios de evaluación:
 
@@ -17914,7 +17908,7 @@ h) Se han observado pautas de presentación de trabajos escritos teniendo en cue
 
 i) Se han resuelto actividades de comprensión y análisis de las estructuras gramaticales, comprobando la validez de las inferencias realizadas.
 
-5. Realiza la lectura de textos literarios representativos de la Literatura en lengua castellana anteriores al siglo XIX, generando criterios estéticos para la construcción del gusto personal.
+5. Realiza la lectura de textos literarios representativos de la Literatura en lengua castellana anteriores al siglo XIX, generando criterios estéticos para la construcción del gusto personal.
 
 Criterios de evaluación:
 
@@ -17928,7 +17922,7 @@ d) Se han aplicado estrategias para la comprensión de textos literarios, tenien
 
 e) Se ha presentado información sobre periodos, autores y obras de la literatura en lengua castellana a partir de textos literarios.
 
-6. Utiliza estrategias para comunicar información oral en lengua inglesa, elaborando presentaciones orales de poca extensión, bien estructuradas, relativas a situaciones habituales de comunicación cotidiana y frecuente de ámbito personal o profesional.
+6. Utiliza estrategias para comunicar información oral en lengua inglesa, elaborando presentaciones orales de poca extensión, bien estructuradas, relativas a situaciones habituales de comunicación cotidiana y frecuente de ámbito personal o profesional.
 
 Criterios de evaluación:
 
@@ -17952,7 +17946,7 @@ i) Se han identificado las normas de relación social básicas y estandarizadas 
 
 j) Se han identificado las costumbres o actividades cotidianas de la comunidad donde se habla la lengua extranjera.
 
-7. Participa en conversaciones en lengua inglesa utilizando un lenguaje sencillo y claro en situaciones habituales frecuentes del ámbito personal o profesional, activando estrategias de comunicación básicas.
+7. Participa en conversaciones en lengua inglesa utilizando un lenguaje sencillo y claro en situaciones habituales frecuentes del ámbito personal o profesional, activando estrategias de comunicación básicas.
 
 Criterios de evaluación:
 
@@ -17966,7 +17960,7 @@ d) Se han utilizado estructuras gramaticales básicas y un repertorio esencial y
 
 e) Se ha expresado con cierta claridad, utilizando una entonación y pronunciación comprensible, aceptándose las pausas y dudas frecuentes.
 
-8. Elabora textos escritos en lengua inglesa, breves y sencillos de situaciones de comunicación habituales y frecuentes del ámbito personal o profesional, aplicando estrategias de lectura comprensiva y desarrollando estrategias estructuradas de composición.
+8. Elabora textos escritos en lengua inglesa, breves y sencillos de situaciones de comunicación habituales y frecuentes del ámbito personal o profesional, aplicando estrategias de lectura comprensiva y desarrollando estrategias estructuradas de composición.
 
 Criterios de evaluación:
 
@@ -18228,7 +18222,7 @@ Código: 3012
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Infiere las características esenciales de las sociedades contemporáneas a partir del estudio de su evolución histórica, analizando los rasgos básicos de su organización social, política y económica.
+1. Infiere las características esenciales de las sociedades contemporáneas a partir del estudio de su evolución histórica, analizando los rasgos básicos de su organización social, política y económica.
 
 Criterios de evaluación:
 
@@ -18252,7 +18246,7 @@ i) Se han elaborado instrumentos pautados de recogida y difusión de informació
 
 j) Se han desarrollado comportamientos acordes con el desarrollo del propio esfuerzo y el trabajo colaborativo.
 
-2. Valora los principios básicos del sistema democrático analizando sus instituciones y las diferentes organizaciones políticas y económicas en que se manifiesta e infiriendo pautas de actuación para acomodar su comportamiento al cumplimiento de dichos principios.
+2. Valora los principios básicos del sistema democrático analizando sus instituciones y las diferentes organizaciones políticas y económicas en que se manifiesta e infiriendo pautas de actuación para acomodar su comportamiento al cumplimiento de dichos principios.
 
 Criterios de evaluación:
 
@@ -18268,7 +18262,7 @@ e) Se ha valorado la implicación del principio de no discriminación en las rel
 
 f) Se ha elaborado información pautada y organizada para su utilización en situaciones de trabajo colaborativo y contraste de opiniones.
 
-3. Utiliza estrategias comunicativas para interpretar y comunicar información oral en lengua castellana, aplicando los principios de la escucha activa, estrategias razonadas de composición y las normas lingüísticas correctas en cada caso.
+3. Utiliza estrategias comunicativas para interpretar y comunicar información oral en lengua castellana, aplicando los principios de la escucha activa, estrategias razonadas de composición y las normas lingüísticas correctas en cada caso.
 
 Criterios de evaluación:
 
@@ -18282,7 +18276,7 @@ d) Se han aplicado los usos y niveles de la lengua y las normas lingüísticas e
 
 e) Se ha utilizado la terminología gramatical correcta en la comprensión de las actividades gramaticales propuestas y en la resolución de las mismas.
 
-4. Utiliza estrategias comunicativas para comunicar información escrita en lengua castellana, aplicando estrategias de análisis, síntesis y clasificación de forma estructurada a la composición autónoma de textos de progresiva complejidad.
+4. Utiliza estrategias comunicativas para comunicar información escrita en lengua castellana, aplicando estrategias de análisis, síntesis y clasificación de forma estructurada a la composición autónoma de textos de progresiva complejidad.
 
 Criterios de evaluación:
 
@@ -18304,7 +18298,7 @@ h) Se han observado pautas de presentación de trabajos escritos teniendo en cue
 
 i) Se han resuelto actividades de comprensión y análisis de las estructuras gramaticales, comprobando la precisión y validez de las inferencias realizadas.
 
-5. Interpreta textos literarios representativos de la Literatura en lengua castellana desde el siglo XIX hasta la actualidad, reconociendo la intención del autor y relacionándolo con su contexto histórico, sociocultural y literario.
+5. Interpreta textos literarios representativos de la Literatura en lengua castellana desde el siglo XIX hasta la actualidad, reconociendo la intención del autor y relacionándolo con su contexto histórico, sociocultural y literario.
 
 Criterios de evaluación:
 
@@ -18318,7 +18312,7 @@ d) Se han aplicado estrategias de análisis de textos literarios, reconociendo l
 
 e) Se ha informado sobre un autor, una obra o un período de la literatura en lengua castellana, recogiendo en forma analítica la información correspondiente.
 
-6. Utiliza estrategias para interpretar y comunicar información oral en lengua inglesa, aplicando los principios de la escucha activa y elaborando presentaciones orales de poca extensión, claras y estructuradas, relativas a temas y aspectos concretos, frecuentes y cotidianos, del ámbito personal y profesional.
+6. Utiliza estrategias para interpretar y comunicar información oral en lengua inglesa, aplicando los principios de la escucha activa y elaborando presentaciones orales de poca extensión, claras y estructuradas, relativas a temas y aspectos concretos, frecuentes y cotidianos, del ámbito personal y profesional.
 
 Criterios de evaluación:
 
@@ -18344,7 +18338,7 @@ j) Se han identificado las costumbres o actividades cotidianas de la comunidad y
 
 k) Se han identificado las principales actitudes y comportamientos profesionales en situaciones de comunicación habituales del ámbito profesional.
 
-7. Mantiene conversaciones sencillas en lengua inglesa en situaciones habituales y concretas del ámbito personal y profesional, utilizando estrategias de comunicación básicas.
+7. Mantiene conversaciones sencillas en lengua inglesa en situaciones habituales y concretas del ámbito personal y profesional, utilizando estrategias de comunicación básicas.
 
 Criterios de evaluación:
 
@@ -18360,7 +18354,7 @@ e) Se han utilizado estructuras gramaticales y oraciones sencillas y un repertor
 
 f) Se ha expresado con cierta claridad, usando una entonación y pronunciación razonable y comprensible, aceptándose algunas pausas y vacilaciones.
 
-8. Elabora textos breves y sencillos con cierto detalle en lengua inglesa, relativos a situaciones de comunicación habituales del ámbito personal y profesional, aplicando estrategias de lectura comprensiva y desarrollando estrategias sistemáticas de composición.
+8. Elabora textos breves y sencillos con cierto detalle en lengua inglesa, relativos a situaciones de comunicación habituales del ámbito personal y profesional, aplicando estrategias de lectura comprensiva y desarrollando estrategias sistemáticas de composición.
 
 Criterios de evaluación:
 
@@ -18628,7 +18622,7 @@ Código: 3071
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Ejecuta operaciones básicas de desmontaje, montaje y reparación de elementos estructurales de embarcaciones deportivas y de recreo, según indicaciones recibidas y especificaciones del fabricante.
+1. Ejecuta operaciones básicas de desmontaje, montaje y reparación de elementos estructurales de embarcaciones deportivas y de recreo, según indicaciones recibidas y especificaciones del fabricante.
 
 Criterios de evaluación:
 
@@ -18650,7 +18644,7 @@ h) Se ha efectuado el lijado de la reparación hasta obtener las formas dimensio
 
 i) Se han realizado todas las operaciones en condiciones de seguridad, identificando los posibles riesgos para la salud y el medioambiente.
 
-2. Realiza tareas auxiliares en los procesos de protección igualación y embellecimiento de superficies, realizando la preparación de la zona y de los productos siguiendo especificaciones técnicas.
+2. Realiza tareas auxiliares en los procesos de protección igualación y embellecimiento de superficies, realizando la preparación de la zona y de los productos siguiendo especificaciones técnicas.
 
 Criterios de evaluación:
 
@@ -18672,7 +18666,7 @@ h) Se han realizados las tareas auxiliares en la aplicación de pinturas y barni
 
 i) Se han realizado todas las operaciones en condiciones de seguridad, identificando los posibles riesgos para la salud y el medioambiente.
 
-3. Realiza operaciones de mantenimiento básico del motor, sistema de propulsión, gobierno y climatización, verificando su funcionamiento y siguiendo especificaciones del fabricante.
+3. Realiza operaciones de mantenimiento básico del motor, sistema de propulsión, gobierno y climatización, verificando su funcionamiento y siguiendo especificaciones del fabricante.
 
 Criterios de evaluación:
 
@@ -18696,7 +18690,7 @@ i) Se ha efectuado el desmontaje y/o sustitución de los elementos mecánicos e 
 
 j) Se ha colaborado en la verificación del funcionamiento de los elementos y sistemas, después de las intervenciones efectuadas.
 
-4. Realiza operaciones de mantenimiento básico de los sistemas eléctricos e informáticos, analizando los principios de funcionamiento y las actuaciones de mantenimiento requeridas.
+4. Realiza operaciones de mantenimiento básico de los sistemas eléctricos e informáticos, analizando los principios de funcionamiento y las actuaciones de mantenimiento requeridas.
 
 Criterios de evaluación:
 
@@ -18716,7 +18710,7 @@ g) Se ha realizado el mantenimiento básico de los equipos, útiles y herramient
 
 h) Se han realizado todas las operaciones en condiciones de seguridad, identificando los posibles riesgos para la salud y el medioambiente.
 
-5. Realiza operaciones básicas de mantenimiento de los aparejos de las embarcaciones, según los procedimientos establecidos.
+5. Realiza operaciones básicas de mantenimiento de los aparejos de las embarcaciones, según los procedimientos establecidos.
 
 Criterios de evaluación:
 
@@ -18740,7 +18734,7 @@ i) Se ha efectuado el pegado de paños de refuerzo en las zonas de los puños, s
 
 j) Se han realizado todas las operaciones en condiciones de seguridad, identificando los posibles riesgos para la salud y el medioambiente.
 
-6. Actúa conforme a criterios de seguridad personal y medioambiental en el ejercicio de las actividades inherentes al puesto de trabajo.
+6. Actúa conforme a criterios de seguridad personal y medioambiental en el ejercicio de las actividades inherentes al puesto de trabajo.
 
 Criterios de evaluación:
 
@@ -18754,7 +18748,7 @@ d) Se ha mantenido la zona de trabajo libre de riesgos y con cierto grado de ord
 
 e) Se han utilizado los distintos equipos y medios de protección medioambiental, depositando los materiales contaminantes en los habitáculos destinados a ellos.
 
-7. Mantiene relaciones profesionales adecuadas actuando de forma responsable y respetuosa, tanto con los procedimientos y normas de la empresa como con el resto de miembros del equipo.
+7. Mantiene relaciones profesionales adecuadas actuando de forma responsable y respetuosa, tanto con los procedimientos y normas de la empresa como con el resto de miembros del equipo.
 
 Criterios de evaluación:
 
@@ -18778,7 +18772,7 @@ Este módulo profesional contribuye a completar las competencias y objetivos gen
 
 Contribuye, además, al afianzamiento de hábitos de orden, puntualidad, responsabilidad y pulcritud.
 
-4. Requisitos mínimos de calidad del contexto formativo.
+4. Requisitos mínimos de calidad del contexto formativo.
 
 **4.1** Espacios.
 
@@ -18792,7 +18786,7 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 **4.2** Equipamientos mínimos.
 
-5. Profesorado.
+5. Profesorado.
 
 **5.1** Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional, son:
 
@@ -18840,9 +18834,9 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 3071. Formación en centros de trabajo.
 
-6. Correspondencia entre módulos profesionales y unidades de competencia para su acreditación o convalidación.
+6. Correspondencia entre módulos profesionales y unidades de competencia para su acreditación o convalidación.
 
-7. Ciclos formativos de grado medio a los que este título permite la aplicación de criterios de preferencia para la admisión en caso de concurrencia competitiva.
+7. Ciclos formativos de grado medio a los que este título permite la aplicación de criterios de preferencia para la admisión en caso de concurrencia competitiva.
 
 Este título tendrá preferencia para la admisión a todos los títulos de grado medio de las familias profesionales de:
 
@@ -18866,7 +18860,7 @@ Este título tendrá preferencia para la admisión a todos los títulos de grado
 
 – Química.
 
-Â
+
 
 ## Relaciones Normativas y Fundamentos de Derecho
 

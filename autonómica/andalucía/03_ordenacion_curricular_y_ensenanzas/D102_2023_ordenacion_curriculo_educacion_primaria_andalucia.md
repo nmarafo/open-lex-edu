@@ -1,9 +1,11 @@
 ---
 id: norm-and-d102-2023
-titulo: Decreto 102/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la Educación Primaria en la Comunidad Autónoma de Andalucía
+titulo: Decreto 102/2023, de 9 de mayo, por el que se establece la ordenación y el
+  currículo de la Educación Primaria en la Comunidad Autónoma de Andalucía
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 102/2023
 fecha_disposicion: '2023-05-09'
@@ -18,20 +20,20 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Primaria
 tags:
-  - educacion_primaria
-  - curriculo_lomloe
-  - ordenacion_academica
-  - andalucia
+- educacion_primaria
+- curriculo_lomloe
+- ordenacion_academica
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
 ---
 # Decreto 102/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la Educación Primaria en la Comunidad Autónoma de Andalucía
 
@@ -360,9 +362,7 @@ Los centros privados y los centros privados concertados adecuarán su organizaci
 
 #### Disposición transitoria única. Calendario de aplicación.
 
-El presente decreto será de aplicación a partir del curso escolar 2023/2024.
-
-#### Disposición derogatoria única. Derogación normativa.
+El presente decreto será de aplicación a partir del curso escolar 2023/2024. #### Disposición derogatoria única. Derogación normativa.
 
 1. Queda derogado el Decreto 97/2015, de 3 de marzo, por el que se establece la ordenación y el currículo de la Educación Primaria en la Comunidad Autónoma de Andalucía.
 

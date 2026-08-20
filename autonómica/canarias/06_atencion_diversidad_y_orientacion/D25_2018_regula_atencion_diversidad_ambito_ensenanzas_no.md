@@ -1,7 +1,8 @@
 ---
 id: norm-can-d-25-2018
 codigo_sintetizado: D25_2018 Regulacion de la Atencion a la Diversidad en Canarias
-titulo: Decreto 25/2018, de 26 de febrero, por el que se regula la atención a la diversidad en el ámbito de las enseñanzas no universitarias de la Comunidad Autónoma de Canarias.
+titulo: Decreto 25/2018, de 26 de febrero, por el que se regula la atención a la diversidad
+  en el ámbito de las enseñanzas no universitarias de la Comunidad Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Gobierno de Canarias / Consejería de Educación
@@ -19,46 +20,41 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Medidas de atención a la diversidad
 tags:
-  - adaptaciones-curriculares
-  - atencion-diversidad
-  - ensenanzas-universitarias
-  - igualdad-genero
-  - inclusiva
-  - medidas-de-atenci-n-a-la-diversidad
-  - medidas-inclusivas
-  - neae
-  - titulacion
+- adaptaciones-curriculares
+- atencion-diversidad
+- ensenanzas-universitarias
+- igualdad-genero
+- inclusiva
+- medidas-de-atenci-n-a-la-diversidad
+- medidas-inclusivas
+- neae
+- titulacion
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-res-juriscan-64838-121
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2013-12632
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-juriscan-64838-121
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2013-12632
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-1-1996
   fundamento_de:
-    - norma_id: norm-can-res-boc-2018-124-126
-    - norma_id: norm-can-res-boc-2026-060-61
+  - norma_id: norm-can-res-boc-2018-124-126
+  - norma_id: norm-can-res-boc-2026-060-61
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '22'
-    - '23'
-    - '24'
-    - norma_id: norm-es-lo-2-2006
-  articulos:
-    - '71'
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2013-12632
-    - norma_id: norm-can-res-juriscan-64838-121
+  - '71'
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2013-12632
+  - norma_id: norm-can-res-juriscan-64838-121
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-046-1008.pdf
 ---
 # Decreto 25/2018, de 26 de febrero, por el que se regula la atención a la diversidad en el ámbito de las enseñanzas no universitarias de la Comunidad Autónoma de Canarias.

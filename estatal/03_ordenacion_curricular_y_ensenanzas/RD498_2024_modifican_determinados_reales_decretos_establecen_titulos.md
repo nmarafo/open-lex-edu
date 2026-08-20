@@ -1,10 +1,13 @@
 ---
 id: norm-es-2024-10683
 codigo_sintetizado: BOE-A-2024-10683
-titulo: Real Decreto 498/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado básico y se fijan sus enseñanzas mínimas.
+titulo: Real Decreto 498/2024, de 21 de mayo, por el que se modifican determinados
+  reales decretos por los que se establecen títulos de Formación Profesional de grado
+  básico y se fijan sus enseñanzas mínimas.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2024-05-28'
 boletin: BOE
@@ -15,56 +18,53 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-  - admision-alumnado
-  - curriculo
-  - evaluacion
-  - formacion-profesional
-  - fp-basica
-  - profesorado
-  - titulacion
+- admision-alumnado
+- curriculo
+- evaluacion
+- formacion-profesional
+- fp-basica
+- profesorado
+- titulacion
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-lo-3-2022
   fundamentado_en:
-    - norma_id: norm-es-2007-5478
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2014-5591
-    - norma_id: norm-es-2015-9462
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2022-16194
-    - norma_id: norm-es-2023-9553
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-217-2022
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-2007-5478
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2014-5591
+  - norma_id: norm-es-2015-9462
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2022-16194
+  - norma_id: norm-es-2023-9553
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-217-2022
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rd-659-2023
   desarrollado_por: []
   fundamento_de:
-    - norma_id: norm-can-res-027
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-can-res-027
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-boc-2024-226-44
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-es-l-39-2015
-  articulos:
-    - '1'
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-can-res-134
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-2014-5591
-    - norma_id: norm-es-2015-9462
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-217-2022
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2007-5478
-    - norma_id: norm-es-2022-16194
-    - norma_id: norm-es-2023-9553
-    - norma_id: norm-es-rd-276-2007
+  - '1'
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-134
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2014-5591
+  - norma_id: norm-es-2015-9462
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-217-2022
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2007-5478
+  - norma_id: norm-es-2022-16194
+  - norma_id: norm-es-2023-9553
+  - norma_id: norm-es-rd-276-2007
 ---
 # Real Decreto 498/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado básico y se fijan sus enseñanzas mínimas.
 
@@ -156,7 +156,7 @@ d) Real Decreto 73/2018, de 19 de febrero, por el que se establece el título pr
 
 Uno. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se modifica el artículo 1, con la siguiente redacción:
 
-#### «Artículo 1. Objeto.
+#### «Artículo 1. Objeto.
 
 Este real decreto tiene por objeto el establecimiento de catorce títulos de formación profesional de grado básico, de acuerdo con lo establecido en el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, conforme a lo determinado en los siguientes anexos:
 
@@ -192,11 +192,11 @@ Dos. En el Real Decreto 356/2014, de 16 de mayo, por el que se establecen siet
 
 modifica el artículo 2, quedando redactados del siguiente modo:
 
-#### «Artículo 1. Objeto y ámbito de aplicación.
+#### «Artículo 1. Objeto y ámbito de aplicación.
 
-1. Este real decreto tiene por objeto desarrollar el catálogo de títulos de las enseñanzas de formación profesional mediante el establecimiento de siete nuevos títulos de Técnico Básico, que amplían los títulos establecidos en el Real Decreto 127/2014, de 28 de febrero.
+1. Este real decreto tiene por objeto desarrollar el catálogo de títulos de las enseñanzas de formación profesional mediante el establecimiento de siete nuevos títulos de Técnico Básico, que amplían los títulos establecidos en el Real Decreto 127/2014, de 28 de febrero.
 
-2. Dichos títulos de Técnico Básico tienen carácter oficial y validez en todo el territorio nacional y no constituyen una regulación del ejercicio profesional.
+2. Dichos títulos de Técnico Básico tienen carácter oficial y validez en todo el territorio nacional y no constituyen una regulación del ejercicio profesional.
 
 #### Artículo 2. Títulos de Técnico Básico que se establecen.
 
@@ -220,11 +220,11 @@ Tres. En el Real Decreto 774/2015, de 28 de agosto, por el que se establecen s
 
 modifica el artículo 2, quedando redactados del siguiente modo:
 
-#### «Artículo 1. Objeto y ámbito de aplicación.
+#### «Artículo 1. Objeto y ámbito de aplicación.
 
-1. Este real decreto tiene por objeto desarrollar el catálogo de títulos de las enseñanzas de formación profesional mediante el establecimiento de seis nuevos títulos de Técnico Básico, de conformidad con el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.
+1. Este real decreto tiene por objeto desarrollar el catálogo de títulos de las enseñanzas de formación profesional mediante el establecimiento de seis nuevos títulos de Técnico Básico, de conformidad con el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.
 
-2. Los títulos de Técnico Básico tienen carácter oficial y validez en todo el territorio nacional y no constituyen una regulación del ejercicio profesional.
+2. Los títulos de Técnico Básico tienen carácter oficial y validez en todo el territorio nacional y no constituyen una regulación del ejercicio profesional.
 
 #### Artículo 2. Títulos de Técnico Básico que se establecen.
 
@@ -246,11 +246,11 @@ Cuatro. En el Real Decreto 73/2018, de 19 de febrero, por el que se establece 
 
 modifica el artículo 2, quedando redactados del siguiente modo:
 
-#### «Artículo 1. Objeto y ámbito de aplicación.
+#### «Artículo 1. Objeto y ámbito de aplicación.
 
-1. Este real decreto tiene por objeto desarrollar el catálogo de títulos de las enseñanzas de formación profesional mediante el establecimiento de un nuevo título de Técnico Básico, de conformidad con el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.
+1. Este real decreto tiene por objeto desarrollar el catálogo de títulos de las enseñanzas de formación profesional mediante el establecimiento de un nuevo título de Técnico Básico, de conformidad con el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.
 
-2. Los títulos de Técnico Básico tienen carácter oficial y validez en todo el territorio nacional y no constituyen una regulación del ejercicio profesional.
+2. Los títulos de Técnico Básico tienen carácter oficial y validez en todo el territorio nacional y no constituyen una regulación del ejercicio profesional.
 
 #### Artículo 2. Título de Técnico Básico que se establece.
 
@@ -376,19 +376,19 @@ Cuatro. Se incluye un nuevo apartado 3.2.2 con la siguiente redacción:
 
 «3.2.2 Otras especificaciones:
 
-1. Las administraciones competentes desdoblarán el Ámbito de Comunicación y Ciencias Sociales en 3161. Comunicación y Ciencias Sociales I, con una duración de currículo básico de 75 horas, y 3162. Comunicación y Ciencias Sociales II, con una duración de currículo básico de 80 horas, sin perjuicio de lo establecido en el artículo 87.4 del Real Decreto 659/2023, de 18 de julio.
+1. Las administraciones competentes desdoblarán el Ámbito de Comunicación y Ciencias Sociales en 3161. Comunicación y Ciencias Sociales I, con una duración de currículo básico de 75 horas, y 3162. Comunicación y Ciencias Sociales II, con una duración de currículo básico de 80 horas, sin perjuicio de lo establecido en el artículo 87.4 del Real Decreto 659/2023, de 18 de julio.
 
-2. Las administraciones competentes desdoblarán el Ámbito de Ciencias Aplicadas en 3163. Ciencias Aplicadas I, con una duración de currículo básico de 60 horas, y 3164. Ciencias Aplicadas II, con una duración de currículo básico de 55 horas, sin perjuicio de lo establecido en el artículo 87.4 del Real Decreto 659/2023, de 18 de julio.
+2. Las administraciones competentes desdoblarán el Ámbito de Ciencias Aplicadas en 3163. Ciencias Aplicadas I, con una duración de currículo básico de 60 horas, y 3164. Ciencias Aplicadas II, con una duración de currículo básico de 55 horas, sin perjuicio de lo establecido en el artículo 87.4 del Real Decreto 659/2023, de 18 de julio.
 
-3. De acuerdo con lo establecido en el artículo 85 l.
+3. De acuerdo con lo establecido en el artículo 85 l.
 
 Real Decreto 659/2023, de 18 de julio, el ámbito profesional incluirá los módulos profesionales vinculados a estándares de competencia y el módulo de Itinerario personal para la empleabilidad. Los módulos profesionales vinculados a estándares de competencia mantendrán el currículo básico recogido en los respectivos reales decretos de establecimiento a que hace referencia el artículo primero.Dos.
 
-4. El periodo de formación en empresa u organismo equiparado se regulará de acuerdo con lo establecido en el artículo 88 y el.
+4. El periodo de formación en empresa u organismo equiparado se regulará de acuerdo con lo establecido en el artículo 88 y el.
 
 título IV del Real Decreto 659/2023, de 18 de julio.
 
-5. El proyecto intermodular de aprendizaje colaborativo se basará en una metodología basada en retos. Cada equipo docente deberá diseñar uno o varios retos para cada proyecto que impliquen la activación de varios resultados de aprendizaje contenidos en más de un módulo profesional del ciclo. Además de la selección concreta realizada por el equipo docente según la especialidad del ciclo, se trabajarán transversalmente los resultados de aprendizaje que figuran en el currículo del proyecto con código 3160.»
+5. El proyecto intermodular de aprendizaje colaborativo se basará en una metodología basada en retos. Cada equipo docente deberá diseñar uno o varios retos para cada proyecto que impliquen la activación de varios resultados de aprendizaje contenidos en más de un módulo profesional del ciclo. Además de la selección concreta realizada por el equipo docente según la especialidad del ciclo, se trabajarán transversalmente los resultados de aprendizaje que figuran en el currículo del proyecto con código 3160.»
 
 #### Artículo sexto. Modificación del apartado relativo al desarrollo de los módulos.
 
@@ -420,17 +420,17 @@ Uno. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspe
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Servicios administrativos son:
 
-3001. Tratamiento informático de datos.
+3001. Tratamiento informático de datos.
 
-3002. Aplicaciones básicas de ofimática.
+3002. Aplicaciones básicas de ofimática.
 
-3003. Técnicas administrativas básicas.
+3003. Técnicas administrativas básicas.
 
-3004. Archivo y comunicación.
+3004. Archivo y comunicación.
 
-3005. Atención al cliente.
+3005. Atención al cliente.
 
-3006. Preparación de pedidos y venta de productos.
+3006. Preparación de pedidos y venta de productos.
 
 – Procesos comerciales.
 
@@ -464,15 +464,15 @@ Dos. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspe
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Electricidad y Electrónica son:
 
-3013. Instalaciones eléctricas y domóticas.
+3013. Instalaciones eléctricas y domóticas.
 
-3014. Instalaciones de telecomunicaciones.
+3014. Instalaciones de telecomunicaciones.
 
-3015. Equipos eléctricos y.
+3015. Equipos eléctricos y.
 
 electrónicos.
 
-3016. Instalación y mantenimiento de redes para transmisión de datos.
+3016. Instalación y mantenimiento de redes para transmisión de datos.
 
 – Instalaciones Electrotécnicas.
 
@@ -508,15 +508,15 @@ Tres. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan asp
 
 3020. Operaciones básicas de fabricación.
 
-3021. Soldadura y carpintería metálica.
+3021. Soldadura y carpintería metálica.
 
-3022. Carpintería de aluminio y PVC.
+3022. Carpintería de aluminio y PVC.
 
-3023. Redes de evacuación.
+3023. Redes de evacuación.
 
-3024. Fontanería y calefacción básica.
+3024. Fontanería y calefacción básica.
 
-3025. Montaje de equipos de climatización.
+3025. Montaje de equipos de climatización.
 
 – Mecanizado y mantenimiento de máquinas.
 
@@ -558,11 +558,11 @@ Cuatro. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan a
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Informática y Comunicaciones son:
 
-3015. Equipos eléctricos y electrónicos.
+3015. Equipos eléctricos y electrónicos.
 
-3016. Instalación y mantenimiento de redes para transmisión de datos.
+3016. Instalación y mantenimiento de redes para transmisión de datos.
 
-3029. Montaje y mantenimiento de sistemas y componentes informáticos.
+3029. Montaje y mantenimiento de sistemas y componentes informáticos.
 
 3030. Operaciones auxiliares para la configuración y la explotación.
 
@@ -602,7 +602,7 @@ Cinco. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan as
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Cocina y Restauración son:
 
-3005. Atención al cliente.
+3005. Atención al cliente.
 
 – Cocina y pastelería.
 
@@ -618,17 +618,17 @@ Cinco. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan as
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-3034. Técnicas elementales de preelaboración.
+3034. Técnicas elementales de preelaboración.
 
-3035. Procesos básicos de producción culinaria.
+3035. Procesos básicos de producción culinaria.
 
-3036. Aprovisionamiento y conservación de materias primas e higiene en la manipulación.
+3036. Aprovisionamiento y conservación de materias primas e higiene en la manipulación.
 
-3037. Técnicas elementales de servicio.
+3037. Técnicas elementales de servicio.
 
-3038. Procesos básicos de preparación de alimentos y bebidas.
+3038. Procesos básicos de preparación de alimentos y bebidas.
 
-3039. Preparación y montaje de materiales para colectividades y
+3039. Preparación y montaje de materiales para colectividades y
 
 catering.
 
@@ -666,15 +666,15 @@ Seis. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan asp
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Mantenimiento de Vehículos son:
 
-3043. Mecanizado y soldadura.
+3043. Mecanizado y soldadura.
 
-3044. Amovibles.
+3044. Amovibles.
 
-3045. Preparación de superficies.
+3045. Preparación de superficies.
 
-3046. Electricidad del vehículo.
+3046. Electricidad del vehículo.
 
-3047. Mecánica del vehículo.
+3047. Mecánica del vehículo.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
@@ -696,17 +696,17 @@ Siete. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan as
 
 3050. Actividades de riego, abonado y tratamientos en cultivos.
 
-3051. Operaciones auxiliares de preparación del terreno, plantación y siembra de cultivos.
+3051. Operaciones auxiliares de preparación del terreno, plantación y siembra de cultivos.
 
-3053. Operaciones básicas de producción y mantenimiento de plantas en viveros y centros de jardinería.
+3053. Operaciones básicas de producción y mantenimiento de plantas en viveros y centros de jardinería.
 
-3054. Operaciones auxiliares en la elaboración de composiciones con flores y plantas.
+3054. Operaciones auxiliares en la elaboración de composiciones con flores y plantas.
 
-3055. Operaciones básicas en instalación de jardines, parques y zonas verdes.
+3055. Operaciones básicas en instalación de jardines, parques y zonas verdes.
 
-3056. Operaciones básicas para el mantenimiento de jardines, parques y zonas verdes.
+3056. Operaciones básicas para el mantenimiento de jardines, parques y zonas verdes.
 
-3057. Materiales de floristería.
+3057. Materiales de floristería.
 
 – Catedráticos de Enseñanza Secundaria.
 
@@ -734,15 +734,15 @@ Ocho. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan asp
 
 3060. Preparación del entorno profesional.
 
-3061. Cuidados estéticos básicos de uñas.
+3061. Cuidados estéticos básicos de uñas.
 
-3062. Depilación mecánica y decoloración del vello superfluo.
+3062. Depilación mecánica y decoloración del vello superfluo.
 
-3063. Maquillaje.
+3063. Maquillaje.
 
-3064. Lavado y cambios de forma del cabello.
+3064. Lavado y cambios de forma del cabello.
 
-3065. Cambio de color del cabello.
+3065. Cambio de color del cabello.
 
 – Peluquería.
 
@@ -792,17 +792,17 @@ Nueve. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan as
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Servicios Comerciales son:
 
-3069. Técnicas básicas de merchandising.
+3069. Técnicas básicas de merchandising.
 
 3070. Operaciones auxiliares de almacenaje.
 
-3001. Tratamiento informático de datos.
+3001. Tratamiento informático de datos.
 
-3002. Aplicaciones básicas de ofimática.
+3002. Aplicaciones básicas de ofimática.
 
-3005. Atención al cliente.
+3005. Atención al cliente.
 
-3006. Preparación de pedidos y venta de productos.
+3006. Preparación de pedidos y venta de productos.
 
 – Procesos comerciales.
 
@@ -836,15 +836,15 @@ Diez. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan asp
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Carpintería y Mueble son:
 
-3074. Operaciones básicas de mecanizado de madera y derivados.
+3074. Operaciones básicas de mecanizado de madera y derivados.
 
-3075. Instalación de elementos de carpintería y mueble.
+3075. Instalación de elementos de carpintería y mueble.
 
-3076. Acabados básicos de la madera.
+3076. Acabados básicos de la madera.
 
-3077. Materiales y productos textiles.
+3077. Materiales y productos textiles.
 
-3078. Tapizado de muebles.
+3078. Tapizado de muebles.
 
 – Fabricación e instalación de carpintería y mueble.
 
@@ -888,17 +888,17 @@ Once. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan asp
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Reforma y Mantenimiento de Edificios son:
 
-3082. Albañilería básica.
+3082. Albañilería básica.
 
-3083. Guarnecidos y enlucidos.
+3083. Guarnecidos y enlucidos.
 
-3084. Falsos techos.
+3084. Falsos techos.
 
-3085. Pintura y empapelado.
+3085. Pintura y empapelado.
 
-3086. Reformas y mantenimiento básico de edificios.
+3086. Reformas y mantenimiento básico de edificios.
 
-3087. Trabajos de pavimentación exterior y de urbanización.
+3087. Trabajos de pavimentación exterior y de urbanización.
 
 – Oficina de Proyectos de Construcción.
 
@@ -930,15 +930,15 @@ Doce. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan asp
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Arreglo y Reparación de Artículos Textiles y de Piel son:
 
-3077. Materiales y productos textiles.
+3077. Materiales y productos textiles.
 
-3091. Reparación de artículos de marroquinería y elaboración de pequeños artículos de guarnicionería.
+3091. Reparación de artículos de marroquinería y elaboración de pequeños artículos de guarnicionería.
 
-3092. Reparación de calzado y actividades complementarias.
+3092. Reparación de calzado y actividades complementarias.
 
-3095. Arreglos y adaptaciones en prendas de vestir y ropa de hogar.
+3095. Arreglos y adaptaciones en prendas de vestir y ropa de hogar.
 
-3101. Confección de artículos textiles para decoración.
+3101. Confección de artículos textiles para decoración.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
@@ -972,15 +972,15 @@ Trece. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan as
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Tapicería y Cortinaje son:
 
-3077. Materiales y productos textiles.
+3077. Materiales y productos textiles.
 
-3078. Tapizado de muebles.
+3078. Tapizado de muebles.
 
-3099. Tapizado de murales y entelado de superficies.
+3099. Tapizado de murales y entelado de superficies.
 
 3100. Confección y montaje de cortinas y estores.
 
-3101. Confección de artículos textiles para decoración.
+3101. Confección de artículos textiles para decoración.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
@@ -1014,17 +1014,17 @@ Catorce. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan 
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Vidriería y Alfarería son:
 
-3105. Reproducción de moldes.
+3105. Reproducción de moldes.
 
-3106. Conformado de piezas cerámicas.
+3106. Conformado de piezas cerámicas.
 
-3107. Acabado de productos cerámicos.
+3107. Acabado de productos cerámicos.
 
-3108. Mecanizados manuales y aplicaciones superficiales.
+3108. Mecanizados manuales y aplicaciones superficiales.
 
-3109. Termoformado, fusing y vidrieras.
+3109. Termoformado, fusing y vidrieras.
 
-3110. Mecanizados manuales y semiautomáticos con vidrio fundido y tubos de vidrio.
+3110. Mecanizados manuales y semiautomáticos con vidrio fundido y tubos de vidrio.
 
 – Catedráticos de Enseñanza Secundaria.
 
@@ -1064,15 +1064,15 @@ Quince. En el Real Decreto 356/2014, de 16 de mayo, por el que se establecen s
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Actividades Agropecuarias son:
 
-3051. Operaciones auxiliares de preparación del terreno, plantación y siembra de cultivos.
+3051. Operaciones auxiliares de preparación del terreno, plantación y siembra de cultivos.
 
-3052. Operaciones auxiliares de obtención y recolección de cultivos.
+3052. Operaciones auxiliares de obtención y recolección de cultivos.
 
-3113. Operaciones auxiliares de cría y alimentación del ganado.
+3113. Operaciones auxiliares de cría y alimentación del ganado.
 
-3114. Operaciones básicas de manejo de la producción ganadera.
+3114. Operaciones básicas de manejo de la producción ganadera.
 
-3115. Operaciones auxiliares de mantenimiento e higiene en instalaciones ganaderas.
+3115. Operaciones auxiliares de mantenimiento e higiene en instalaciones ganaderas.
 
 – Catedráticos de Enseñanza Secundaria.
 
@@ -1080,7 +1080,7 @@ Quince. En el Real Decreto 356/2014, de 16 de mayo, por el que se establecen s
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-3111. Envasado y distribución de materias primas agroalimentarias.
+3111. Envasado y distribución de materias primas agroalimentarias.
 
 – Operaciones y equipos de elaboración de productos alimentarios.
 
@@ -1116,17 +1116,17 @@ Dieciséis. En el Real Decreto 356/2014, de 16 de mayo, por el que se establec
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Aprovechamientos Forestales son:
 
-3053. Operaciones básicas de producción y mantenimiento de plantas en viveros y centros de jardinería.
+3053. Operaciones básicas de producción y mantenimiento de plantas en viveros y centros de jardinería.
 
-3056. Operaciones básicas para el mantenimiento de jardines, parques y zonas verdes.
+3056. Operaciones básicas para el mantenimiento de jardines, parques y zonas verdes.
 
-3118. Repoblación e infraestructura forestal.
+3118. Repoblación e infraestructura forestal.
 
-3119. Trabajos de aprovechamientos forestales.
+3119. Trabajos de aprovechamientos forestales.
 
 3120. Silvicultura y plagas.
 
-3121. Recolección de productos forestales.
+3121. Recolección de productos forestales.
 
 – Catedráticos de Enseñanza Secundaria.
 
@@ -1154,17 +1154,17 @@ Diecisiete. En el Real Decreto 356/2014, de 16 de mayo, por el que se establec
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Artes Gráficas son:
 
-3123. Informática básica aplicada en industrias gráficas.
+3123. Informática básica aplicada en industrias gráficas.
 
-3124. Trabajos de reprografía.
+3124. Trabajos de reprografía.
 
-3125. Acabados en reprografía y finalización de productos gráficos.
+3125. Acabados en reprografía y finalización de productos gráficos.
 
-3126. Operaciones de almacén en industrias gráficas.
+3126. Operaciones de almacén en industrias gráficas.
 
-3127. Operaciones de producción gráfica.
+3127. Operaciones de producción gráfica.
 
-3128. Manipulados en industrias gráficas.
+3128. Manipulados en industrias gráficas.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
@@ -1204,15 +1204,15 @@ Dieciocho. En el Real Decreto 356/2014, de 16 de mayo, por el que se establece
 
 3130. Puesta a punto de habitaciones y zonas comunes en alojamiento.
 
-3077. Materiales y productos textiles
+3077. Materiales y productos textiles
 
-3093. Lavado y secado de ropa.
+3093. Lavado y secado de ropa.
 
-3094. Planchado y embolsado de ropa.
+3094. Planchado y embolsado de ropa.
 
-3131. Lavandería y mantenimiento de lencería en el alojamiento.
+3131. Lavandería y mantenimiento de lencería en el alojamiento.
 
-3039. Preparación y montaje de materiales para colectividades y catering.
+3039. Preparación y montaje de materiales para colectividades y catering.
 
 – Patronaje y confección.
 
@@ -1268,13 +1268,13 @@ Diecinueve. En el Real Decreto 356/2014, de 16 de mayo, por el que se establec
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Industrias Alimentarias son:
 
-3133. Operaciones auxiliares en la industria alimentaria.
+3133. Operaciones auxiliares en la industria alimentaria.
 
-3134. Elaboración de productos alimentarios.
+3134. Elaboración de productos alimentarios.
 
-3135. Limpieza y mantenimiento de instalaciones y equipos.
+3135. Limpieza y mantenimiento de instalaciones y equipos.
 
-3136. Operaciones básicas de laboratorio.
+3136. Operaciones básicas de laboratorio.
 
 3070. Operaciones auxiliares de almacenaje.
 
@@ -1314,17 +1314,17 @@ Veinte. En el Real Decreto 356/2014, de 16 de mayo, por el que se establecen s
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Actividades Marítimo-Pesqueras son:
 
-3138. Actividades en cubiertas de barcos de pesca.
+3138. Actividades en cubiertas de barcos de pesca.
 
-3141. Pesca con artes de enmalle y marisqueo.
+3141. Pesca con artes de enmalle y marisqueo.
 
-3139. Pesca con palangre, arrastre y cerco.
+3139. Pesca con palangre, arrastre y cerco.
 
-3142. Mantenimiento de motores en barcos de pesca.
+3142. Mantenimiento de motores en barcos de pesca.
 
 3140. Mantenimiento de equipos auxiliares en barcos de pesca.
 
-3143. Seguridad y primeros auxilios en barcos de pesca.
+3143. Seguridad y primeros auxilios en barcos de pesca.
 
 – Catedráticos de Enseñanza Secundaria.
 
@@ -1350,11 +1350,11 @@ Veintiuno. En el Real Decreto 356/2014, de 16 de mayo, por el que se establece
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Informática de Oficina son:
 
-3031. Ofimática y archivo de documentos.
+3031. Ofimática y archivo de documentos.
 
-3016. Instalación y mantenimiento de redes para transmisión de datos.
+3016. Instalación y mantenimiento de redes para transmisión de datos.
 
-3029. Montaje y mantenimiento de sistemas y componentes informáticos.
+3029. Montaje y mantenimiento de sistemas y componentes informáticos.
 
 3030. Operaciones auxiliares para la configuración y la explotación.
 
@@ -1390,13 +1390,13 @@ Veintidós. En el Real Decreto 774/2015, de 28 de agosto, por el que se establ
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Actividades de Panadería y Pastelería son:
 
-3007. Procesos de panadería.
+3007. Procesos de panadería.
 
-3017. Procesos de pastelería.
+3017. Procesos de pastelería.
 
-3026. Dispensación en panadería y pastelería.
+3026. Dispensación en panadería y pastelería.
 
-3133. Operaciones auxiliares en la industria alimentaria.
+3133. Operaciones auxiliares en la industria alimentaria.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
@@ -1452,17 +1452,17 @@ Veintitrés. En el Real Decreto 774/2015, de 28 de agosto, por el que se estab
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Actividades Domésticas y Limpieza de Edificios son:
 
-3098. Mantenimiento de prendas de vestir y ropa de hogar.
+3098. Mantenimiento de prendas de vestir y ropa de hogar.
 
-3102. Cocina doméstica.
+3102. Cocina doméstica.
 
-3104. Limpieza de domicilios particulares, edificios, oficinas y locales.
+3104. Limpieza de domicilios particulares, edificios, oficinas y locales.
 
-3116. Limpieza con máquinas.
+3116. Limpieza con máquinas.
 
-3145. Actividades de apoyo a personas no dependientes en la unidad convivencial.
+3145. Actividades de apoyo a personas no dependientes en la unidad convivencial.
 
-3146. Seguridad en el ámbito doméstico.
+3146. Seguridad en el ámbito doméstico.
 
 – Patronaje y confección.
 
@@ -1508,15 +1508,15 @@ Veinticuatro. En el Real Decreto 774/2015, de 28 de agosto, por el que se esta
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Mantenimiento de Viviendas son:
 
-3088. Mantenimiento básico de instalaciones electrotécnicas en viviendas.
+3088. Mantenimiento básico de instalaciones electrotécnicas en viviendas.
 
 3090. Operaciones de conservación en la vivienda y montaje de accesorios.
 
-3023. Redes de evacuación.
+3023. Redes de evacuación.
 
-3024. Fontanería y calefacción básica.
+3024. Fontanería y calefacción básica.
 
-3025. Montaje de equipos de climatización.
+3025. Montaje de equipos de climatización.
 
 – Instalación y mantenimiento de equipos térmicos y de fluidos.
 
@@ -1554,15 +1554,15 @@ Veinticinco. En el Real Decreto 774/2015, de 28 de agosto, por el que se estab
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Fabricación de Elementos Metálicos son:
 
-3015. Equipos eléctricos y electrónicos.
+3015. Equipos eléctricos y electrónicos.
 
 3020. Operaciones básicas de fabricación.
 
-3021. Soldadura y carpintería metálica.
+3021. Soldadura y carpintería metálica.
 
-3022. Carpintería de aluminio y PVC.
+3022. Carpintería de aluminio y PVC.
 
-3073. Operaciones básicas de calderería Ligera.
+3073. Operaciones básicas de calderería Ligera.
 
 – Mecanizado y mantenimiento de máquinas.
 
@@ -1612,15 +1612,15 @@ Veintiséis. En el Real Decreto 774/2015, de 28 de agosto, por el que se estab
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Instalaciones Electrotécnicas y Mecánica son:
 
-3013. Instalaciones eléctricas y domóticas.
+3013. Instalaciones eléctricas y domóticas.
 
-3014. Instalaciones de telecomunicaciones.
+3014. Instalaciones de telecomunicaciones.
 
 3020. Operaciones básicas de fabricación.
 
-3021. Soldadura y carpintería metálica.
+3021. Soldadura y carpintería metálica.
 
-3022. Carpintería de aluminio y PVC.
+3022. Carpintería de aluminio y PVC.
 
 – Mecanizado y mantenimiento de máquinas.
 
@@ -1670,17 +1670,17 @@ Veintisiete. En el Real Decreto 774/2015, de 28 de agosto, por el que se estab
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Mantenimiento de Embarcaciones Deportivas y de Recreo son:
 
-3043. Mecanizado y soldadura.
+3043. Mecanizado y soldadura.
 
-3028. Reparación estructural básica de embarcaciones deportivas.
+3028. Reparación estructural básica de embarcaciones deportivas.
 
 3040. Protección y embellecimiento de superficies de embarcaciones.
 
-3048. Mantenimiento básico de la planta propulsora y equipos asociados.
+3048. Mantenimiento básico de la planta propulsora y equipos asociados.
 
-3066. Mantenimiento básico de sistemas eléctricos e informáticos.
+3066. Mantenimiento básico de sistemas eléctricos e informáticos.
 
-3068. Mantenimiento básico de aparejos de embarcaciones deportivas.
+3068. Mantenimiento básico de aparejos de embarcaciones deportivas.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
@@ -1712,23 +1712,23 @@ Veintiocho. En el Real Decreto 73/2018, de 19 de febrero, por el que se establ
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Acceso y Conservación en Instalaciones Deportivas son:
 
-3148. Acceso de usuarios y organización de la instalación físico-deportiva.
+3148. Acceso de usuarios y organización de la instalación físico-deportiva.
 
-3149. Asistencia en la organización de espacios, actividades y reparto de material en la instalación físico-deportiva.
+3149. Asistencia en la organización de espacios, actividades y reparto de material en la instalación físico-deportiva.
 
 3150. Reparación de averías y reposición de enseres.
 
-3151. Operaciones básicas de prevención en las instalaciones deportivas.
+3151. Operaciones básicas de prevención en las instalaciones deportivas.
 
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
 
-3003. Técnicas administrativas básicas.
+3003. Técnicas administrativas básicas.
 
-3004. Archivo y comunicación.
+3004. Archivo y comunicación.
 
-3005. Atención al cliente.
+3005. Atención al cliente.
 
 – Catedráticos de Enseñanza Secundaria.
 
@@ -1758,19 +1758,17 @@ Veintinueve. En los reales decretos a que hace referencia el artículo primero
 
 «5.2 Requisitos para el profesorado.
 
-1. La docencia de los módulos profesionales y de proyecto intermodular de aprendizaje colaborativo que constituyen las enseñanzas de este ciclo formativo corresponde al profesorado de las especialidades establecidas en el apartado 5.1 pertenecientes a los cuerpos indicados en dicha tabla, sin perjuicio de lo establecido en la disposición transitoria sexta del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el [Real Decreto 276/2007](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md), de 23 de febrero.
+1. La docencia de los módulos profesionales y de proyecto intermodular de aprendizaje colaborativo que constituyen las enseñanzas de este ciclo formativo corresponde al profesorado de las especialidades establecidas en el apartado 5.1 pertenecientes a los cuerpos indicados en dicha tabla, sin perjuicio de lo establecido en la disposición transitoria sexta del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el [Real Decreto 276/2007](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md), de 23 de febrero.
 
-2. Las condiciones de acceso a los cuerpos a que se refiere el apartado anterior serán las recogidas en el Real Decreto 276/2007, de 23 de febrero.
+2. Las condiciones de acceso a los cuerpos a que se refiere el apartado anterior serán las recogidas en el Real Decreto 276/2007, de 23 de febrero.
 
-3. Para la impartición de módulos profesionales y del proyecto intermodular de aprendizaje colaborativo en centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, las titulaciones requeridas y los requisitos necesarios para el profesorado serán los mismos que los exigidos para el acceso a las especialidades de los cuerpos docentes a que se refiere el apartado anterior, según la atribución docente que se establece para cada módulo en el apartado
+3. Para la impartición de módulos profesionales y del proyecto intermodular de aprendizaje colaborativo en centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, las titulaciones requeridas y los requisitos necesarios para el profesorado serán los mismos que los exigidos para el acceso a las especialidades de los cuerpos docentes a que se refiere el apartado anterior, según la atribución docente que se establece para cada módulo en el apartado
 
 **5.1.** En todo caso, se exigirá que las enseñanzas conducentes a las titulaciones citadas engloben los resultados de aprendizaje de los módulos profesionales y, si dichos elementos citados no estuvieran incluidos, además de la titulación, deberá acreditarse, mediante certificación, una experiencia laboral de, al menos, tres años en el sector vinculado a la familia profesional, realizando actividades productivas en empresas relacionadas implícitamente con los resultados de aprendizaje.
 
-4. En caso de contar con otros perfiles colaboradores, estos deberán cumplir los requisitos indicados en el capítulo IV del título V del Real Decreto 659/2023, de 18 de julio.»
+4. En caso de contar con otros perfiles colaboradores, estos deberán cumplir los requisitos indicados en el capítulo IV del título V del Real Decreto 659/2023, de 18 de julio.»
 
-Treinta. En los reales decretos a que hace referencia el artículo primero.Dos del presente real decreto, se suprime el apartado 5.3, excepto en el anexo IV del Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, en el que se suprime el apartado 6.3.
-
-#### Artículo noveno. Modificación del apartado relativo a correspondencia entre módulos profesionales y unidades de competencia.
+Treinta. En los reales decretos a que hace referencia el artículo primero.Dos del presente real decreto, se suprime el apartado 5.3, excepto en el anexo IV del Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, en el que se suprime el apartado 6.3. #### Artículo noveno. Modificación del apartado relativo a correspondencia entre módulos profesionales y unidades de competencia.
 
 Uno. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se añade un nuevo apartado 6 bis al anexo I, con la siguiente redacción:
 
@@ -1794,13 +1792,13 @@ Tres. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan asp
 
 «6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
-3021. Soldadura y carpintería metálica.
+3021. Soldadura y carpintería metálica.
 
-3022. Carpintería de aluminio y PVC.
+3022. Carpintería de aluminio y PVC.
 
-3024. Fontanería y calefacción básica.
+3024. Fontanería y calefacción básica.
 
-3025. Montaje de equipos de climatización.»
+3025. Montaje de equipos de climatización.»
 
 Cuatro. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se añade un nuevo apartado 6 bis al anexo IV, con la siguiente redacción:
 
@@ -1830,7 +1828,7 @@ UC1113_1: Recepcionar y acondicionar materias primas y materiales de floristerí
 
 Ocho. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se modifica el apartado 6 del anexo VIII y se añade un nuevo apartado 6 bis, con la siguiente redacción:
 
-«6. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
+«6. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
 UC0343_1: Realizar procesos de preparación personal, del centro de belleza y control de almacén.
 
@@ -1878,7 +1876,7 @@ UC0869_1: Elaborar pastas, morteros, adhesivos y hormigones.
 
 Doce. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se modifica el apartado 6 del anexo XII y se añade un nuevo apartado 6 bis, quedando redactados como sigue:
 
-«6. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
+«6. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
 UC2346_1: Realizar operaciones de cosido y unión de piezas.
 
@@ -1916,7 +1914,7 @@ UC2347_1: Realizar actividades auxiliares de confección.
 
 Trece. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se modifica el apartado 6 del anexo XIII y se añade un nuevo apartado 6 bis, quedando redactados como sigue:
 
-«6. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
+«6. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
 UC2346_1: Realizar operaciones de cosido y unión de piezas.
 
@@ -2000,7 +1998,7 @@ UC2138_1: Realizar operaciones básicas de manipulados en la finalización de pr
 
 Dieciocho. En el Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, en el anexo IV se da una nueva redacción al apartado 7 y se añade un nuevo apartado 6 bis, con la siguiente redacción:
 
-«6. Correspondencia entre módulos profesionales y unidades de competencia para su acreditación o convalidación.
+«6. Correspondencia entre módulos profesionales y unidades de competencia para su acreditación o convalidación.
 
 UC0435_1: Realizar el lavado acuoso de ropa.
 
@@ -2016,7 +2014,7 @@ UC0435_1: Realizar el lavado acuoso de ropa.
 
 UC0436_1: Realizar el lavado en seco de ropa.
 
-3131. Lavandería y mantenimiento de lencería en el alojamiento.
+3131. Lavandería y mantenimiento de lencería en el alojamiento.
 
 Diecinueve. En el Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se añade un nuevo apartado 6 bis al anexo V, con la siguiente redacción:
 
@@ -2084,9 +2082,9 @@ Veinticuatro. En el Real Decreto 774/2015, de 28 de agosto, por el que se esta
 
 «6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
-3024. Fontanería y calefacción básica.
+3024. Fontanería y calefacción básica.
 
-3025. Montaje de equipos de climatización.»
+3025. Montaje de equipos de climatización.»
 
 Veinticinco. En el Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se añade un nuevo apartado 6 bis al anexo IV, con la siguiente redacción:
 
@@ -2098,17 +2096,17 @@ UC1560_1: Realizar operaciones de conexionado en el montaje de equipos eléctric
 
 UC1561_1: Realizar operaciones auxiliares en el mantenimiento de equipos eléctricos y electrónicos.
 
-3021. Soldadura y carpintería metálica.
+3021. Soldadura y carpintería metálica.
 
-3022. Carpintería de aluminio y PVC.»
+3022. Carpintería de aluminio y PVC.»
 
 Veintiséis. En el Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se añade un nuevo apartado 6 bis al anexo V, con la siguiente redacción:
 
 «6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
-3021. Soldadura y carpintería metálica.
+3021. Soldadura y carpintería metálica.
 
-3022. Carpintería de aluminio y PVC.»
+3022. Carpintería de aluminio y PVC.»
 
 Veintisiete. En el Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se añade un nuevo apartado 6 bis al anexo VI, con la siguiente redacción:
 
@@ -2128,13 +2126,13 @@ UC1633_1: Realizar operaciones preventivas para mejorar la seguridad en las inst
 
 UC1632_1: Realizar la asistencia operativa a los técnicos deportivos durante el desarrollo de sus actividades en instalaciones deportivas.
 
-3148. Acceso de usuarios y organización de la instalación físico-deportiva.
+3148. Acceso de usuarios y organización de la instalación físico-deportiva.
 
 3150. Reparación de averías y reposición de enseres.
 
-3151. Operaciones básicas de prevención en las instalaciones deportivas.
+3151. Operaciones básicas de prevención en las instalaciones deportivas.
 
-3149. Asistencia en la organización de espacios, actividades y reparto de material en la instalación físico-deportiva.
+3149. Asistencia en la organización de espacios, actividades y reparto de material en la instalación físico-deportiva.
 
 UC0970_1: Transmitir y recibir información operativa en gestiones rutinarias con agentes externos de la organización.
 
@@ -2142,9 +2140,7 @@ UC0971_1: Realizar operaciones auxiliares de reproducción y archivo en soporte 
 
 #### Artículo décimo. Referencias a las familias profesionales para admisión.
 
-En los reales decretos a que hace referencia el artículo primero.Dos, se suprime el apartado 7 de los anexos, excepto en el anexo IV del Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, en el que se suprime el apartado 8.
-
-#### Disposición adicional primera. Horas del currículo básico.
+En los reales decretos a que hace referencia el artículo primero.Dos, se suprime el apartado 7 de los anexos, excepto en el anexo IV del Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, en el que se suprime el apartado 8. #### Disposición adicional primera. Horas del currículo básico.
 
 En cumplimiento de lo dispuesto en el artículo 6.4 de la Ley Orgánica 2/2006, de 3 de mayo, las horas del currículo básico de cada uno de los módulos profesionales, con la excepción de Itinerario personal para la empleabilidad, incluidos en los reales decretos a que hace referencia el artículo primero.Dos, se aumentarán proporcionalmente de acuerdo con lo establecido en la tabla que figura como anexo II. En ningún caso, este aumento afecta a las horas del currículo básico del Ámbito de Comunicación y Sociedad, Ámbito de Ciencias Aplicadas, Tutoría ni Proyecto intermodular de aprendizaje colaborativo, cuyas respectivas cargas horarias de currículo básico son la que se referencian en el anexo III.
 
@@ -2154,13 +2150,13 @@ De conformidad con el artículo 88.3 del Real Decreto 659/2023, de 18 de julio, 
 
 #### Disposición adicional tercera. Convalidación de ámbitos no profesionales.
 
-1. La convalidación de los ámbitos de Ciencias Aplicadas I y II, y Comunicación y Ciencias Sociales I y II por los antiguos módulos profesionales de Ciencias Aplicadas I y II, y Comunicación y Sociedad I y II se solicitará en el centro de formación profesional donde se haya formalizado la matrícula. La resolución será automática por parte del centro y la calificación del ámbito afectado será la que apareciera en el expediente académico de la antigua formación, de acuerdo con la siguiente correspondencia:
+1. La convalidación de los ámbitos de Ciencias Aplicadas I y II, y Comunicación y Ciencias Sociales I y II por los antiguos módulos profesionales de Ciencias Aplicadas I y II, y Comunicación y Sociedad I y II se solicitará en el centro de formación profesional donde se haya formalizado la matrícula. La resolución será automática por parte del centro y la calificación del ámbito afectado será la que apareciera en el expediente académico de la antigua formación, de acuerdo con la siguiente correspondencia:
 
-2. Quienes hubieran superado los ámbitos de Comunicación y Ciencias Sociales I y II y Ciencias Aplicadas I y II en cualquiera de los ciclos formativos de Formación Profesional de grado básico correspondiente a los títulos establecidos al amparo de la Ley Orgánica 2/2006, de 3 de mayo, tendrán convalidados dichos módulos en cualquier otro ciclo formativo de Formación Profesional de grado básico. La resolución será automática por parte de los centros educativos y se mantendrá la calificación obtenida.
+2. Quienes hubieran superado los ámbitos de Comunicación y Ciencias Sociales I y II y Ciencias Aplicadas I y II en cualquiera de los ciclos formativos de Formación Profesional de grado básico correspondiente a los títulos establecidos al amparo de la Ley Orgánica 2/2006, de 3 de mayo, tendrán convalidados dichos módulos en cualquier otro ciclo formativo de Formación Profesional de grado básico. La resolución será automática por parte de los centros educativos y se mantendrá la calificación obtenida.
 
-3. Los alumnos y alumnas que hayan cursado un Programa de Cualificación Profesional Inicial y hubieran superado los módulos formativos obligatorios del ámbito de comunicación y del ámbito social que, además, hubieran superado un módulo de Lengua Extranjera, bien establecido por las Administraciones educativas o de oferta de los centros, en el ámbito de sus competencias, podrán obtener la convalidación del ámbito de Comunicación y Ciencias Sociales I. Asimismo, quienes hubieran superado el módulo formativo obligatorio del ámbito científico-tecnológico, podrán obtener la convalidación del ámbito de Ciencias Aplicadas I.
+3. Los alumnos y alumnas que hayan cursado un Programa de Cualificación Profesional Inicial y hubieran superado los módulos formativos obligatorios del ámbito de comunicación y del ámbito social que, además, hubieran superado un módulo de Lengua Extranjera, bien establecido por las Administraciones educativas o de oferta de los centros, en el ámbito de sus competencias, podrán obtener la convalidación del ámbito de Comunicación y Ciencias Sociales I. Asimismo, quienes hubieran superado el módulo formativo obligatorio del ámbito científico-tecnológico, podrán obtener la convalidación del ámbito de Ciencias Aplicadas I.
 
-4. El alumnado matriculado en cualquiera de las enseñanzas de Formación Profesional de grado básico podrá obtener las siguientes convalidaciones, que serán resueltas automáticamente por los centros:
+4. El alumnado matriculado en cualquiera de las enseñanzas de Formación Profesional de grado básico podrá obtener las siguientes convalidaciones, que serán resueltas automáticamente por los centros:
 
 a) **Quienes tengan superadas las siguientes tres materias.** Lengua Castellana y Literatura (y Lengua Cooficial y Literatura, si la hubiere), Lengua Extranjera y Geografía e Historia del cuarto curso de Educación Secundaria Obligatoria en cualquiera de sus modalidades podrán obtener los ámbitos de Comunicación y Ciencias Sociales I y II.
 
@@ -2172,15 +2168,15 @@ A partir de la entrada en vigor de este real decreto, la superación de cualquie
 
 #### Disposición adicional quinta. Convalidación a través de estándares de competencias profesionales.
 
-1. La convalidación de módulos profesionales mediante la acreditación de estándares de competencias profesionales adquiridos a través de la experiencia laboral u otras vías no formales e informales se atendrá a lo establecido en el artículo 128 l.
+1. La convalidación de módulos profesionales mediante la acreditación de estándares de competencias profesionales adquiridos a través de la experiencia laboral u otras vías no formales e informales se atendrá a lo establecido en el artículo 128 l.
 
 Real Decreto 659/2023, de 18 de julio. Para ello, serán de aplicación las tablas de «correspondencia entre unidades de competencia acreditadas con los módulos profesionales para su convalidación» incluidas en los apartados 6 bis. A estos efectos, si en la misma celda aparecieran dos o más unidades de competencia acreditadas, deberá entenderse que para la convalidación será necesario poseerlas de manera simultánea.
 
-2. Para la acreditación de estándares de competencias profesionales mediante la superación de módulos profesionales, serán de aplicación las tablas de «correspondencia de los módulos profesionales superados con las unidades de competencia para su acreditación» incluidas en los apartados 6. A estos efectos, si en la misma celda aparecieran dos o más módulos profesionales superados, deberá entenderse que para la acreditación será necesario poseerlos de manera simultánea.
+2. Para la acreditación de estándares de competencias profesionales mediante la superación de módulos profesionales, serán de aplicación las tablas de «correspondencia de los módulos profesionales superados con las unidades de competencia para su acreditación» incluidas en los apartados 6. A estos efectos, si en la misma celda aparecieran dos o más módulos profesionales superados, deberá entenderse que para la acreditación será necesario poseerlos de manera simultánea.
 
-3. A los efectos previstos en el apartado 1, serán igualmente de aplicación las unidades de competencia acreditadas mediante el procedimiento regulado por el derogado Real Decreto 1224/2009, de 17 de julio, de reconocimiento de las competencias profesionales adquiridas por experiencia laboral.
+3. A los efectos previstos en el apartado 1, serán igualmente de aplicación las unidades de competencia acreditadas mediante el procedimiento regulado por el derogado Real Decreto 1224/2009, de 17 de julio, de reconocimiento de las competencias profesionales adquiridas por experiencia laboral.
 
-4. Habida cuenta de las actualizaciones en las denominaciones de las unidades de competencia y/o de los módulos profesionales, en caso de discrepancia, prevalecerá el número de código frente a la denominación.
+4. Habida cuenta de las actualizaciones en las denominaciones de las unidades de competencia y/o de los módulos profesionales, en caso de discrepancia, prevalecerá el número de código frente a la denominación.
 
 #### Disposición adicional sexta. Referencias a las competencias profesionales, personales y sociales.
 
@@ -2188,11 +2184,11 @@ En todos los reales decretos objeto de la presente norma, las referencias conten
 
 #### Disposición adicional séptima. Expresión de la calificación.
 
-1. De acuerdo con lo establecido en el artículo 31 l.
+1. De acuerdo con lo establecido en el artículo 31 l.
 
 Real Decreto 217/2022, de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Secundaria Obligatoria, los resultados de la evaluación se expresarán, para los ámbitos de Comunicación y Ciencias Sociales, y Ciencias Aplicadas, en los siguientes términos: «Insuficiente (IN)», para las calificaciones negativas y «Suficiente (SU)», «Bien (BI)», «Notable (NT)», o «Sobresaliente (SB)», para las calificaciones positivas.
 
-2. En el caso de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo, la expresión de la calificación responderá a lo establecido en artículo 18.8 del Real Decreto 659/2023, de 18 de julio, y será, consecuentemente, numérica entre 1 y 10, sin decimales. En su caso, la calificación integrará la valoración del centro y de la empresa, y será responsabilidad final del equipo docente y el centro de formación.
+2. En el caso de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo, la expresión de la calificación responderá a lo establecido en artículo 18.8 del Real Decreto 659/2023, de 18 de julio, y será, consecuentemente, numérica entre 1 y 10, sin decimales. En su caso, la calificación integrará la valoración del centro y de la empresa, y será responsabilidad final del equipo docente y el centro de formación.
 
 #### Disposición transitoria única. Aplicación de los reales decretos por los que se establecen títulos de formación profesional básica de acuerdo con el calendario establecido en el Real Decreto 278/2023, de 11 de abril.
 
@@ -2206,9 +2202,7 @@ Este real decreto se dicta al amparo de las competencias que atribuye al Estado 
 
 #### Disposición final segunda. Entrada en vigor.
 
-Dado en Madrid, el 21 de mayo de 2024.
-
-FELIPE R.
+Dado en Madrid, el 21 de mayo de 2024. FELIPE R.
 
 La Ministra de Educación, Formación Profesional y Deportes,
 
@@ -2226,7 +2220,7 @@ Duración: 25 horas.
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Busca información en internet sobre empresas «tipo» del sector/es relacionados con los estándares (unidades) de competencia incluidos en el ámbito profesional del título, elaborando un mapa de las mismas y los servicios o productos que ofrecen.
+1. Busca información en internet sobre empresas «tipo» del sector/es relacionados con los estándares (unidades) de competencia incluidos en el ámbito profesional del título, elaborando un mapa de las mismas y los servicios o productos que ofrecen.
 
 Criterios de evaluación:
 
@@ -2248,7 +2242,7 @@ h) Se ha hecho una valoración de los recursos necesarios para cada unidad.
 
 i) Se ha elaborado un informe en un formato establecido con la información recabada, indicando al menos: el sector en el que se encuadra, los principales países donde opera, y las áreas de las que se compone.
 
-2. Selecciona un servicio o producto de una empresa del sector relacionándolo con su contribución a los ODS y sus destinatarios a nivel global.
+2. Selecciona un servicio o producto de una empresa del sector relacionándolo con su contribución a los ODS y sus destinatarios a nivel global.
 
 Criterios de evaluación:
 
@@ -2262,7 +2256,7 @@ d) Se ha comparado el producto con otros de empresas similares.
 
 e) Se ha desarrollado una propuesta innovadora para potenciar el producto o servicio.
 
-3. Hace una propuesta de una empresa tipo «spin off» indicando los aspectos diferenciales con la empresa de referencia y elaborando un dossier con sus características.
+3. Hace una propuesta de una empresa tipo «spin off» indicando los aspectos diferenciales con la empresa de referencia y elaborando un dossier con sus características.
 
 Criterios de evaluación:
 
@@ -2276,7 +2270,7 @@ d) Se han indicado que tecnologías se incluirían para aumentar su competitivid
 
 e) Se han propuesto aspectos innovadores sobre algún producto de la empresa de referencia.
 
-4. Relaciona cada unidad de una empresa tipo con la prevención de riesgos profesionales identificando los equipos/sistemas de protección generales y los propios de cada actividad.
+4. Relaciona cada unidad de una empresa tipo con la prevención de riesgos profesionales identificando los equipos/sistemas de protección generales y los propios de cada actividad.
 
 Criterios de evaluación:
 
@@ -2288,7 +2282,7 @@ c) Se ha estimado el coste de los elementos de protección individual.
 
 d) Se han propuesto posibles elementos de mejora en relación con la seguridad.
 
-5. Transmite información con claridad de manera ordenada y estructurada.
+5. Transmite información con claridad de manera ordenada y estructurada.
 
 Criterios de evaluación:
 

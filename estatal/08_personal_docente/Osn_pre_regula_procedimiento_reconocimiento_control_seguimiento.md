@@ -1,10 +1,14 @@
 ---
 id: norm-es-2010-10424
 codigo_sintetizado: BOE-A-2010-10424
-titulo: Orden PRE/1744/2010, de 30 de junio, por la que se regula el procedimiento de reconocimiento, control y seguimiento de las situaciones de incapacidad temporal, riesgo durante el embarazo y riesgo durante la lactancia natural en el Régimen Especial de la Seguridad Social de los Funcionarios Civiles del Estado.
+titulo: Orden PRE/1744/2010, de 30 de junio, por la que se regula el procedimiento
+  de reconocimiento, control y seguimiento de las situaciones de incapacidad temporal,
+  riesgo durante el embarazo y riesgo durante la lactancia natural en el Régimen Especial
+  de la Seguridad Social de los Funcionarios Civiles del Estado.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2010-07-01'
 boletin: BOE
@@ -15,21 +19,21 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Salud laboral y vigilancia
 tags:
-  - curriculo
-  - personal-no-docente
-  - prevencion-riesgos-laborales
-  - salud-laboral-y-vigilancia
+- curriculo
+- personal-no-docente
+- prevencion-riesgos-laborales
+- salud-laboral-y-vigilancia
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-rd-39-1997
-    - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-rd-39-1997
+  - norma_id: norm-es-rdl-5-2015
   fundamentos_derecho:
-    - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-rdl-5-2015
   articulos:
-    - '1'
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-rd-39-1997
+  - '1'
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-rd-39-1997
 ---
 # Orden PRE/1744/2010, de 30 de junio, por la que se regula el procedimiento de reconocimiento, control y seguimiento de las situaciones de incapacidad temporal, riesgo durante el embarazo y riesgo durante la lactancia natural en el Régimen Especial de la Seguridad Social de los Funcionarios Civiles del Estado.
 

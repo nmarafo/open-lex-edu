@@ -1,10 +1,12 @@
 ---
 id: norm-and-d-362-2011
 codigo_sintetizado: D362_2011 ROC Conservatorios Musica Danza Andalucia
-titulo: Decreto 362/2011, de 7 de diciembre, por el que se aprueba el Reglamento Orgánico de los Conservatorios Elementales y Profesionales de Música y de Danza en Andalucía.
+titulo: Decreto 362/2011, de 7 de diciembre, por el que se aprueba el Reglamento Orgánico
+  de los Conservatorios Elementales y Profesionales de Música y de Danza en Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 362/2011
 fecha_disposicion: '2011-12-07'
@@ -18,19 +20,19 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Reglamentos Orgánicos de Centro
 tags:
-  - roc_conservatorios
-  - musica
-  - danza
-  - artisticas
-  - andalucia
+- roc_conservatorios
+- musica
+- danza
+- artisticas
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Decreto 362/2011, de 7 de diciembre, por el que se aprueba el Reglamento Orgánico de los Conservatorios Elementales y Profesionales de Música y de Danza en Andalucía.
 
@@ -56,11 +58,7 @@ a una ley el ejercicio de este derecho. En esta línea, el Presidente de la Junt
 Artículo primero. Modificación de los artículos 2, 6.1 y 9.3 de la Ley 5/1988, de 17 de octubre, de Iniciativa Legislativa Popular y de los Ayuntamientos. Se modifican los artículos 2, 6.1 y 9.3 de la Ley 5/1988, de 17 de octubre, de Iniciativa Legislativa Popular y de los Ayuntamientos, que quedan redactados del siguiente modo:
 «Artículo 2. La iniciativa legislativa popular y de los ayuntamientos se ejercerá mediante la presentación ante la Mesa del Parlamento de una Proposición de Ley suscrita:
 a) Por las firmas de, al menos, 40.000 ciudadanos que reúnan los requisitos prescritos en el artículo anterior y que se encuentren inscritos en el censo electoral vigente el día de presentación de la iniciativa ante la Mesa del Parlamento.
-b) Por acuerdo, adoptado por mayoría absoluta, de los Plenos de veinticinco ayuntamientos de nuestra Comunidad, o de diez cuando estos representen al menos globalmente a 40.000 electores, de acuerdo con el censo autonómico andaluz vigente el día de presentación de la iniciativa ante la Mesa del Parlamento». «Artículo 6.
-
-1. La iniciativa legislativa popular se ejerce mediante la presentación de Proposiciones de Ley suscritas por las firmas de, al menos, 40.000 electores andaluces, autenticadas en la forma que previene la presente Ley». «Artículo 9.
-
-3. El procedimiento de recogida de firmas deberá finalizar con la entrega a la Junta Electoral de Andalucía de las firmas recogidas, en el plazo de seis meses a contar desde la notificación a que se refiere el apartado anterior. Este plazo podrá ser prorrogado en dos meses cuando concurran razones objetivas debidamente justificadas, cuya apreciación corresponde a la Mesa del Parlamento. Agotado el plazo, y en su caso la prórroga, sin que se haya hecho entrega de las firmas recogidas, caducará la iniciativa».
+b) Por acuerdo, adoptado por mayoría absoluta, de los Plenos de veinticinco ayuntamientos de nuestra Comunidad, o de diez cuando estos representen al menos globalmente a 40.000 electores, de acuerdo con el censo autonómico andaluz vigente el día de presentación de la iniciativa ante la Mesa del Parlamento». «Artículo 6. 1. La iniciativa legislativa popular se ejerce mediante la presentación de Proposiciones de Ley suscritas por las firmas de, al menos, 40.000 electores andaluces, autenticadas en la forma que previene la presente Ley». «Artículo 9. 3. El procedimiento de recogida de firmas deberá finalizar con la entrega a la Junta Electoral de Andalucía de las firmas recogidas, en el plazo de seis meses a contar desde la notificación a que se refiere el apartado anterior. Este plazo podrá ser prorrogado en dos meses cuando concurran razones objetivas debidamente justificadas, cuya apreciación corresponde a la Mesa del Parlamento. Agotado el plazo, y en su caso la prórroga, sin que se haya hecho entrega de las firmas recogidas, caducará la iniciativa».
 
 m ú n a nig á P
 

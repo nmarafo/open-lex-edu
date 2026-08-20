@@ -1,10 +1,13 @@
 ---
 id: norm-and-d-204-1995
 codigo_sintetizado: D204_1995 Régimen Disciplinario Empleados Públicos Andalucía
-titulo: Decreto 204/1995, de 29 de agosto, por el que se aprueba el Reglamento de Régimen Disciplinario del Personal al Servicio de la Administración de la Junta de Andalucía.
+titulo: Decreto 204/1995, de 29 de agosto, por el que se aprueba el Reglamento de
+  Régimen Disciplinario del Personal al Servicio de la Administración de la Junta
+  de Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 204/1995
 fecha_disposicion: '1995-08-29'
@@ -18,18 +21,18 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Empleados públicos
 tags:
-  - disciplinario
-  - empleados_publicos
-  - junta_de_andalucia
+- disciplinario
+- empleados_publicos
+- junta_de_andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
 ---
 # Decreto 204/1995, de 29 de agosto, por el que se aprueba el Reglamento de Régimen Disciplinario del Personal al Servicio de la Administración de la Junta de Andalucía.
 

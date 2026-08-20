@@ -1,10 +1,14 @@
 ---
 id: norm-can-res-097
 codigo_sintetizado: Resolucion BOC 97
-titulo: Resolución de 11 de abril de 2025, de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios por la que se aprueba la instrucción de las ayudas de préstamo de libros de texto y materiales didácticos para el curso escolar 2025/2026 (BOC n.º 87, de 2 de mayo).
+titulo: Resolución de 11 de abril de 2025, de la Dirección General de Administración
+  de Centros, Escolarización y Servicios Complementarios por la que se aprueba la
+  instrucción de las ayudas de préstamo de libros de texto y materiales didácticos
+  para el curso escolar 2025/2026 (BOC n.º 87, de 2 de mayo).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios Complementarios
+organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios
+  Complementarios
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: pdf_oficial_boc
@@ -13,41 +17,41 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Instrucciones de organización y funcionamiento
 tags:
-  - admision-alumnado
-  - becas-ayudas
-  - becas-y-ayudas
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - formacion-profesional
-  - igualdad-genero
-  - inclusiva
-  - instrucciones-de-organizacion-y-funcionamiento
-  - oposiciones
+- admision-alumnado
+- becas-ayudas
+- becas-y-ayudas
+- ensenanzas-deportivas
+- equipos-directivos
+- formacion-profesional
+- igualdad-genero
+- inclusiva
+- instrucciones-de-organizacion-y-funcionamiento
+- oposiciones
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-276-1997
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-can-d-276-1997
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2018
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-d-276-1997
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-3-2018
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-d-276-1997
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-087-1645.pdf
 ---
 # Resolución de 11 de abril de 2025, de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios por la que se aprueba la instrucción de las ayudas de préstamo de libros de texto y materiales didácticos para el curso escolar 2025/2026 (BOC n.º 87, de 2 de mayo).
@@ -123,9 +127,7 @@ y cinco (2.265.895,00) euros, con cargo a la aplicación presupuestaria 18.21.32
 
 #### Cuarto. Requisitos de participación.
 
-a) El alumnado debe estar matriculado en el curso escolar para el que se solicita el uso gratuito de libros de textos, material tecnológico o materiales didácticos, en cualquier centro docente público; o en los niveles aprobados a los centros privados concertados inscritos como participantes en la acción "Uso Gratuito de Libros de Texto" en el periodo comprendido desde la implantación de la medida hasta el curso 2011-2012.
-
-b) La renta de la unidad de responsables del alumnado solicitante debe ser inferior a 18.000,00 euros en unidades de dos a cuatro miembros computables, resultado de multiplicar el valor del Indicador Público de Renta de Efectos Múltiples (IPREM) correspondiente al año 2023 por 2,50, que en cómputo anual es de 7.200,00 euros, por ser la cuantía establecida por la
+a) El alumnado debe estar matriculado en el curso escolar para el que se solicita el uso gratuito de libros de textos, material tecnológico o materiales didácticos, en cualquier centro docente público; o en los niveles aprobados a los centros privados concertados inscritos como participantes en la acción "Uso Gratuito de Libros de Texto" en el periodo comprendido desde la implantación de la medida hasta el curso 2011-2012. b) La renta de la unidad de responsables del alumnado solicitante debe ser inferior a 18.000,00 euros en unidades de dos a cuatro miembros computables, resultado de multiplicar el valor del Indicador Público de Renta de Efectos Múltiples (IPREM) correspondiente al año 2023 por 2,50, que en cómputo anual es de 7.200,00 euros, por ser la cuantía establecida por la
 disposición adicional nonagésima de la Ley 31/2022, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2023. A partir del cuarto miembro, se añadirán 1.600,00 euros por cada miembro computable que se aumente a la unidad de responsables del alumnado solicitante. Así, los umbrales de renta quedan establecidos de la siguiente manera:
 NÚMERO DE MIEMBROS DE LA UNIDAD DE RESPONSABLES DEL ALUMNADO SOLICITANTE UMBRAL Unidades de dos a cuatro miembros ≤ 18.000,00 euros Unidades de cinco miembros ≤ 19.600,00 euros Unidades de seis miembros ≤ 21.200,00 euros Unidades de siete miembros ≤ 22.800,00 euros Unidades de ocho miembros ≤ 24.400,00 euros Unidades de nueve miembros ≤ 26.000,00 euros N.º de responsables N.º de hijas/hijos Unidad de responsables del alumnado solicitante de referencia a efectos de baremación 1 3 5 1 4 o más 6 Y así, sucesivamente, según el número de miembros. En atención a determinados supuestos expuestos en el artículo 2.2 de la Ley 40/2003, de 18 de noviembre, de Protección a las Familias Numerosas, las solicitudes de alumnado perteneciente a unidades familiares que acrediten su equiparación a familia numerosa por encontrarse en alguna de las situaciones siguientes, pasarán automáticamente a ser baremadas según los umbrales de renta indicados a continuación:
 Por cada persona con discapacidad, se añadirá un miembro más a la unidad de responsables:
@@ -164,12 +166,9 @@ IRPF 2023 Certificado de IRPF o el Certificado de Imputaciones de la Agencia Tri
 a) Una parte de la cuantía de la pensión exenta de tributación, no sujeta a IRPF.
 b) **El total de la cuantía exenta de tributación, no sujeta a IRPF.** En función de lo expuesto en los apartados a) y b), pueden ser sumados, o no, los importes de la casilla de Prestación por Incapacidad a la casilla de la cuantía IRPF. Situación sociofamiliar crítica Documento justificativo emitido mediante Resolución por los servicios sociales municipales, o certificado de una organización no gubernamental (ONG) incluida en el inventario de las entidades del Tercer Sector de Acción Social, según lo previsto en la Ley 43/2015, de 9 de octubre, indicando que la familia es usuaria del servicio en el momento de la solicitud. Solicitante en tramitación de protección internacional (tarjeta roja)
 a) Resolución de los servicios sociales municipales o un certificado de una ONG que indique la situación económica crítica actual.
-b) Certificado de ser beneficiario de una renta activa de inserción de SEPE, si se encuentra en situación de desempleo. Otros Se contemplarán los ingresos derivados de rentas de capital del ejercicio fiscal del año 2023.
-
-Cuando el nivel de ingresos haya variado de manera significativa en los dos últimos años, se podrá aportar:
+b) Certificado de ser beneficiario de una renta activa de inserción de SEPE, si se encuentra en situación de desempleo. Otros Se contemplarán los ingresos derivados de rentas de capital del ejercicio fiscal del año 2023. Cuando el nivel de ingresos haya variado de manera significativa en los dos últimos años, se podrá aportar:
 a) Certificado de empresa acreditando el cambio de situación económica en la vinculación con la empresa.
-b) Certificado de IRPF del año 2024.
-c) **Certificado de SEPE actualizado.** Otras casuísticas:
+b) Certificado de IRPF del año 2024. c) **Certificado de SEPE actualizado.** Otras casuísticas:
 a) Una vez que se ha comprobado que el documento de identificación presentado y cargado es correcto, la información intermediada declara: titular identificado por la agencia tributaria sin datos de declaración o imputaciones. a.1.- La persona responsable tiene nacionalidad española, se añadirá automáticamente un 0 en los datos no intermediados de IRPF. a.2.- La persona responsable no tiene nacionalidad española y la información intermediada declara que es un titular identificado por la agencia tributaria sin datos de imputaciones. El centro podrá añadir un 0 en los datos no intermediados de IRPF.
 b) Una vez que se ha comprobado que el documento de identificación presentado y cargado es correcto, la información intermediada declara: no se dispone de información intermediada. b.1.- La persona responsable no tiene nacionalidad española y no dispone de NIE, y se encuentra viviendo en España desde fechas posteriores al año de IRPF de la convocatoria, 2024 o 2025. Debe aportar una Resolución de los servicios sociales municipales o un certificado de una organización no gubernamental (ONG) incluida en el inventario de las entidades del Tercer Sector de Acción Social que indique la situación económica crítica actual. En caso de no aportar de esta documentación, no será posible realizar el cálculo de la renta de la unidad dependiente de las personas responsables y, por tanto, no podría ser beneficiario de ayuda. b.2.- La persona responsable no tiene nacionalidad española, y no se encuentra viviendo en España, y aporta documentación oficial acreditativa donde autoriza que toda actuación referida al ámbito educativo de sus hijas e hijos será realizada por ambos progenitores de forma conjunta, por el bien superior del menor, debe aportar un certificado acreditativo de sus ingresos en su país de residencia, o una Resolución de los servicios sociales municipales o un certificado de una organización no gubernamental (ONG) incluida en el inventario de las entidades del Tercer Sector de Acción Social que indique la situación económica crítica actual. En caso de no aportar de esta documentación, no será posible realizar el cálculo de la renta de unidad dependiente de las personas responsables y, por tanto, no podría ser beneficiario de ayuda.
 

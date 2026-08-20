@@ -1,10 +1,12 @@
 ---
 id: norm-mad-o-2808-2017
 codigo_sintetizado: O2808_2017 Permisos Licencias Vacaciones Personal Docente Madrid
-titulo: Orden 2808/2017, de 10 de agosto, por la que se regulan los permisos, licencias y vacaciones del personal docente no universitario de Madrid.
+titulo: Orden 2808/2017, de 10 de agosto, por la que se regulan los permisos, licencias
+  y vacaciones del personal docente no universitario de Madrid.
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
 numero_disposicion: 2808/2017
 fecha_disposicion: '2017-08-10'
@@ -18,20 +20,20 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Personal docente
 tags:
-  - permisos
-  - licencias
-  - vacaciones
-  - profesorado
-  - madrid
+- permisos
+- licencias
+- vacaciones
+- profesorado
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
   fundamentado_en:
-    - norma_id: norm-mad-d-29-2013
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
 ---
 # Orden 2808/2017, de 10 de agosto, por la que se regulan los permisos, licencias y vacaciones del personal docente no universitario de Madrid.
 

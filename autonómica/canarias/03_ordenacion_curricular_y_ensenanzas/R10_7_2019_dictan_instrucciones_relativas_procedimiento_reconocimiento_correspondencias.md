@@ -1,7 +1,10 @@
 ---
 id: norm-can-res-boc-2019-143-74
 codigo_sintetizado: Resolucion BOC 74
-titulo: Resolución de 10 de julio de 2019, por la que se dictan instrucciones relativas al procedimiento para el reconocimiento de correspondencias, convalidaciones y exenciones en las enseñanzas deportivas de régimen especial en la Comunidad Autónoma de Canarias (BOC n.º 143, de 26 de julio).
+titulo: Resolución de 10 de julio de 2019, por la que se dictan instrucciones relativas
+  al procedimiento para el reconocimiento de correspondencias, convalidaciones y exenciones
+  en las enseñanzas deportivas de régimen especial en la Comunidad Autónoma de Canarias
+  (BOC n.º 143, de 26 de julio).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,42 +16,42 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Deportivas
 tags:
-  - curriculo
-  - educacion-personas-adultas
-  - ense-anzas-deportivas
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - formacion-profesional
-  - titulacion
+- curriculo
+- educacion-personas-adultas
+- ense-anzas-deportivas
+- ensenanzas-deportivas
+- equipos-directivos
+- formacion-profesional
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-135-2016
-    - norma_id: norm-can-d-212-1991
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2002-12018
-    - norma_id: norm-es-2002-4371
-    - norma_id: norm-es-2007-19326
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2002-4371
+  - norma_id: norm-es-2007-19326
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2002-12018
-    - norma_id: norm-es-2002-4371
-    - norma_id: norm-es-2007-19326
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-d-135-2016
-    - norma_id: norm-can-d-212-1991
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2002-4371
+  - norma_id: norm-es-2007-19326
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-143-3820.pdf
 ---
 # Resolución de 10 de julio de 2019, por la que se dictan instrucciones relativas al procedimiento para el reconocimiento de correspondencias, convalidaciones y exenciones en las enseñanzas deportivas de régimen especial en la Comunidad Autónoma de Canarias (BOC n.º 143, de 26 de julio).

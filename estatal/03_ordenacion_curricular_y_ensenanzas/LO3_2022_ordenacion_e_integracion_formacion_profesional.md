@@ -1,7 +1,8 @@
 ---
 id: norm-es-lo-3-2022
 codigo_sintetizado: LO3_2022 Ley de Ordenacion e Integracion de la FP
-titulo: Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional.
+titulo: Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación
+  Profesional.
 jurisdiccion: España
 ambito: Estatal
 organo_emisor: Jefatura del Estado / Cortes Generales
@@ -18,73 +19,73 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-  - acreditacion-competencias
-  - curriculo
-  - dual
-  - evaluacion
-  - formacion-profesional
-  - fp
-  - oposiciones
-  - personal-no-docente
-  - titulacion
+- acreditacion-competencias
+- curriculo
+- dual
+- evaluacion
+- formacion-profesional
+- fp
+- oposiciones
+- personal-no-docente
+- titulacion
 relaciones:
   desarrollado_por:
-    - norma_id: norm-es-2024-10683
-    - norma_id: norm-es-2025-2039
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-can-res-boc-2024-226-44
-    - norma_id: norm-can-res-034
-    - norma_id: norm-can-res-036
-    - norma_id: norm-can-res-032
-    - norma_id: norm-can-res-027
-    - norma_id: norm-can-res-039
-    - norma_id: norm-can-res-038
-    - norma_id: norm-can-res-boc-2025-046-47
-    - norma_id: norm-can-res-boc-2025-047-108
-    - norma_id: norm-can-res-boc-2022-087-31
-    - norma_id: norm-can-res-boc-2025-118-46
-    - norma_id: norm-can-res-134
-    - norma_id: norm-can-res-042
-    - norma_id: norm-can-res-035
-    - norma_id: norm-can-res-037
-    - norma_id: norm-can-res-033
-    - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-2024-10683
+  - norma_id: norm-es-2025-2039
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-can-res-034
+  - norma_id: norm-can-res-036
+  - norma_id: norm-can-res-032
+  - norma_id: norm-can-res-027
+  - norma_id: norm-can-res-039
+  - norma_id: norm-can-res-038
+  - norma_id: norm-can-res-boc-2025-046-47
+  - norma_id: norm-can-res-boc-2025-047-108
+  - norma_id: norm-can-res-boc-2022-087-31
+  - norma_id: norm-can-res-boc-2025-118-46
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-042
+  - norma_id: norm-can-res-035
+  - norma_id: norm-can-res-037
+  - norma_id: norm-can-res-033
+  - norma_id: norm-can-res-boc-2024-230-25
   fundamentado_en:
-    - norma_id: norm-es-2002-12018
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-1985
   fundamento_de:
-    - norma_id: norm-es-2022-16194
-    - norma_id: norm-es-2023-9553
-    - norma_id: norm-es-2024-10684
-    - norma_id: norm-es-2024-10685
-    - norma_id: norm-es-2024-11613
-    - norma_id: norm-es-2026-12038
-    - norma_id: norm-can-res-040
-    - norma_id: norm-can-res-043
-    - norma_id: norm-can-res-boc-2026-129-26
-    - norma_id: norm-can-res-boc-2026-039-103
-    - norma_id: norm-can-res-boc-2026-039-102
-    - norma_id: norm-can-res-boc-2025-047-107
-    - norma_id: norm-can-res-boc-2026-141-29
+  - norma_id: norm-es-2022-16194
+  - norma_id: norm-es-2023-9553
+  - norma_id: norm-es-2024-10684
+  - norma_id: norm-es-2024-10685
+  - norma_id: norm-es-2024-11613
+  - norma_id: norm-es-2026-12038
+  - norma_id: norm-can-res-040
+  - norma_id: norm-can-res-043
+  - norma_id: norm-can-res-boc-2026-129-26
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-can-res-boc-2026-039-102
+  - norma_id: norm-can-res-boc-2025-047-107
+  - norma_id: norm-can-res-boc-2026-141-29
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - 149.1.30
-    - norma_id: norm-can-res-134
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-8-1985
-    - norma_id: norm-es-2002-12018
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '27'
+  - 149.1.30
+  - norma_id: norm-can-res-134
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 ---
 # Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional.
 
@@ -322,67 +323,67 @@ La sujeción de esta ley al principio de eficiencia viene fundamentada en el hec
 
 #### Artículo 1. Objeto y finalidad.
 
-1. Esta ley tiene por objeto la constitución y ordenación de un sistema único e integrado de formación profesional.
+1. Esta ley tiene por objeto la constitución y ordenación de un sistema único e integrado de formación profesional.
 
-2. La finalidad de la norma es regular un régimen de formación y acompañamiento profesionales que, sirviendo al fortalecimiento, la competitividad y la sostenibilidad de la economía española, sea capaz de responder con flexibilidad a los intereses, las expectativas y las aspiraciones de cualificación profesional de las personas a lo largo de su vida y a las competencias demandadas por las nuevas necesidades productivas y sectoriales tanto para el aumento de la productividad como para la generación de empleo.
+2. La finalidad de la norma es regular un régimen de formación y acompañamiento profesionales que, sirviendo al fortalecimiento, la competitividad y la sostenibilidad de la economía española, sea capaz de responder con flexibilidad a los intereses, las expectativas y las aspiraciones de cualificación profesional de las personas a lo largo de su vida y a las competencias demandadas por las nuevas necesidades productivas y sectoriales tanto para el aumento de la productividad como para la generación de empleo.
 
-3. Cuantas medidas y acciones se programen y desarrollen en el marco del Sistema de Formación Profesional deberán responder a la finalidad a la que éste sirve, con la flexibilidad que exige la generación de itinerarios formativos y profesionales versátiles.
+3. Cuantas medidas y acciones se programen y desarrollen en el marco del Sistema de Formación Profesional deberán responder a la finalidad a la que éste sirve, con la flexibilidad que exige la generación de itinerarios formativos y profesionales versátiles.
 
 #### Artículo 2. Definiciones A los efectos de la presente ley, se entenderá por:.
 
-1. Aprendizaje o educación formal: el proceso de formación estructurado conducente a una titulación, acreditación o certificación oficial.
+1. Aprendizaje o educación formal: el proceso de formación estructurado conducente a una titulación, acreditación o certificación oficial.
 
-2. Aprendizaje o educación no formal: el proceso de formación estructurado que no conduce a una titulación, acreditación o certificación oficial.
+2. Aprendizaje o educación no formal: el proceso de formación estructurado que no conduce a una titulación, acreditación o certificación oficial.
 
-3. Aprendizaje informal: el aprendizaje derivado del desarrollo y práctica de actividades cuya intencionalidad no está vinculada a procesos de formación formales o no formales, entre los que se incluye el voluntariado.
+3. Aprendizaje informal: el aprendizaje derivado del desarrollo y práctica de actividades cuya intencionalidad no está vinculada a procesos de formación formales o no formales, entre los que se incluye el voluntariado.
 
-4. Competencias básicas: aquellas que son consideradas necesarias para la realización y desarrollo personal, para participar activamente en la sociedad o mejorar la empleabilidad. El desarrollo de estas competencias se realiza por múltiples vías, y queda incorporado en cualquier oferta de formación profesional en tanto que promueve el desarrollo integral de la persona.
+4. Competencias básicas: aquellas que son consideradas necesarias para la realización y desarrollo personal, para participar activamente en la sociedad o mejorar la empleabilidad. El desarrollo de estas competencias se realiza por múltiples vías, y queda incorporado en cualquier oferta de formación profesional en tanto que promueve el desarrollo integral de la persona.
 
-5. Competencia profesional: el conjunto de conocimientos y destrezas que permiten el ejercicio de la actividad profesional conforme a las exigencias de la producción y el empleo. Las competencias profesionales se recogen en los estándares de competencia profesional, que servirán para el diseño de cualquier oferta de formación profesional.
+5. Competencia profesional: el conjunto de conocimientos y destrezas que permiten el ejercicio de la actividad profesional conforme a las exigencias de la producción y el empleo. Las competencias profesionales se recogen en los estándares de competencia profesional, que servirán para el diseño de cualquier oferta de formación profesional.
 
-6. Cualificación: la competencia para el desempeño de una actividad profesional acreditada oficialmente por títulos, certificados o acreditaciones.
+6. Cualificación: la competencia para el desempeño de una actividad profesional acreditada oficialmente por títulos, certificados o acreditaciones.
 
 Exclusivamente en su uso en lo referido al Marco Español de las Cualificaciones (MECU), cualquier título o certificado emitido por una institución educativa que acredita haber adquirido un conjunto de resultados del aprendizaje, después de haber superado satisfactoriamente un programa de formación en una institución legalmente reconocida en el ámbito del Sistema de Formación Profesional.
 
-7. Elemento de competencia: cada realización profesional que describe el comportamiento esperado de la persona, en forma de consecuencias o resultados de las actividades que realiza en el desempeño de una profesión. Constituye la parte menor de un estándar de competencia.
+7. Elemento de competencia: cada realización profesional que describe el comportamiento esperado de la persona, en forma de consecuencias o resultados de las actividades que realiza en el desempeño de una profesión. Constituye la parte menor de un estándar de competencia.
 
-8. Estándar de competencia: el conjunto detallado de elementos de competencia que describen el desempeño de las actividades y las tareas asociadas al ejercicio de una determinada actividad profesional con el estándar de calidad requerido. Será la unidad o elemento de referencia para diseñar, desarrollar y actualizar ofertas de formación profesional.
+8. Estándar de competencia: el conjunto detallado de elementos de competencia que describen el desempeño de las actividades y las tareas asociadas al ejercicio de una determinada actividad profesional con el estándar de calidad requerido. Será la unidad o elemento de referencia para diseñar, desarrollar y actualizar ofertas de formación profesional.
 
-9. Formación a lo largo de la vida: el conjunto de la formación inicial y continua de una persona durante su trayectoria vital.
+9. Formación a lo largo de la vida: el conjunto de la formación inicial y continua de una persona durante su trayectoria vital.
 
-10. Formación continua: cualquier tipo de formación realizada después de la formación inicial y de la incorporación a la vida activa, dentro o fuera del sistema educativo. Tiene como objetivo permitir a la persona adquirir, ampliar o actualizar sus conocimientos o competencias de cara a una adaptación, promoción profesional o reconversión de su itinerario de desarrollo personal o profesional. Esta denominación no está asociada al tipo de oferta de formación, sino al proceso de aprendizaje en el itinerario formativo de cada persona, después de la formación inicial y de la incorporación a la vida laboral activa.
+10. Formación continua: cualquier tipo de formación realizada después de la formación inicial y de la incorporación a la vida activa, dentro o fuera del sistema educativo. Tiene como objetivo permitir a la persona adquirir, ampliar o actualizar sus conocimientos o competencias de cara a una adaptación, promoción profesional o reconversión de su itinerario de desarrollo personal o profesional. Esta denominación no está asociada al tipo de oferta de formación, sino al proceso de aprendizaje en el itinerario formativo de cada persona, después de la formación inicial y de la incorporación a la vida laboral activa.
 
-11. Formación inicial: el itinerario de formación realizada, dentro del sistema educativo, desde el inicio de la escolarización hasta la finalización de la permanencia en el mismo, para la incorporación al mundo laboral. Esta denominación no está asociada al tipo de oferta de formación, sino al momento en el itinerario formativo de cada persona, durante la formación inicial y previa a la incorporación a la vida laboral activa.
+11. Formación inicial: el itinerario de formación realizada, dentro del sistema educativo, desde el inicio de la escolarización hasta la finalización de la permanencia en el mismo, para la incorporación al mundo laboral. Esta denominación no está asociada al tipo de oferta de formación, sino al momento en el itinerario formativo de cada persona, durante la formación inicial y previa a la incorporación a la vida laboral activa.
 
-12. Formación profesional dual: la formación profesional que se realiza armonizando los procesos de enseñanza y aprendizaje entre el centro de formación profesional y la empresa u organismo equiparado, en corresponsabilidad entre ambos agentes, con la finalidad de la mejora de la empleabilidad de la persona en formación.
+12. Formación profesional dual: la formación profesional que se realiza armonizando los procesos de enseñanza y aprendizaje entre el centro de formación profesional y la empresa u organismo equiparado, en corresponsabilidad entre ambos agentes, con la finalidad de la mejora de la empleabilidad de la persona en formación.
 
-13. Formador o formadora: toda persona que ejerza una o varias actividades ligadas a la función de formación, sea en el seno de un centro de formación profesional sin pertenecer a los cuerpos docentes del sistema educativo, sea en la empresa u organismo equiparado.
+13. Formador o formadora: toda persona que ejerza una o varias actividades ligadas a la función de formación, sea en el seno de un centro de formación profesional sin pertenecer a los cuerpos docentes del sistema educativo, sea en la empresa u organismo equiparado.
 
-14. Indicador de calidad: el criterio que establece el nivel mínimo exigido en el ámbito profesional para el desempeño de una actividad o tarea, en tanto que satisface los objetivos de las organizaciones productivas. Constituye una guía para la evaluación de la competencia profesional conjuntamente con los elementos de competencia.
+14. Indicador de calidad: el criterio que establece el nivel mínimo exigido en el ámbito profesional para el desempeño de una actividad o tarea, en tanto que satisface los objetivos de las organizaciones productivas. Constituye una guía para la evaluación de la competencia profesional conjuntamente con los elementos de competencia.
 
-15. Itinerario formativo: el proyecto construido por cada persona, con la ayuda, si se precisa, de los servicios de orientación profesional, para adquirir, actualizar, completar y ampliar sus competencias a lo largo de su vida.
+15. Itinerario formativo: el proyecto construido por cada persona, con la ayuda, si se precisa, de los servicios de orientación profesional, para adquirir, actualizar, completar y ampliar sus competencias a lo largo de su vida.
 
-16. Marco Español de las Cualificaciones: el instrumento, internacionalmente reconocido, que orienta la nivelación coherente de las titulaciones para su clasificación, relación y comparación y que sirve, asimismo, para facilitar la movilidad de las personas en el espacio europeo y en el mercado laboral internacional.
+16. Marco Español de las Cualificaciones: el instrumento, internacionalmente reconocido, que orienta la nivelación coherente de las titulaciones para su clasificación, relación y comparación y que sirve, asimismo, para facilitar la movilidad de las personas en el espacio europeo y en el mercado laboral internacional.
 
-17. Módulo profesional asociado a estándares de competencia: la unidad coherente de formación cuya superación garantiza la consecución de las competencias asociadas.
+17. Módulo profesional asociado a estándares de competencia: la unidad coherente de formación cuya superación garantiza la consecución de las competencias asociadas.
 
-18. Módulo profesional no asociado a estándares de competencia: la unidad coherente de formación, de carácter teórico o práctico, considerado imprescindible para la consecución de las competencias profesionales previstas.
+18. Módulo profesional no asociado a estándares de competencia: la unidad coherente de formación, de carácter teórico o práctico, considerado imprescindible para la consecución de las competencias profesionales previstas.
 
-19. Orientación profesional: el proceso de información y acompañamiento en la planificación personal del itinerario formativo y profesional en el marco del Sistema de Formación Profesional, que incluye, al menos, los siguientes ámbitos: posibilidades de formación profesional, elección de una profesión, perfeccionamiento, cambio de profesión, evolución del mercado laboral y oportunidades de emprendimiento, y desarrollo de habilidades para la gestión de la carrera profesional.
+19. Orientación profesional: el proceso de información y acompañamiento en la planificación personal del itinerario formativo y profesional en el marco del Sistema de Formación Profesional, que incluye, al menos, los siguientes ámbitos: posibilidades de formación profesional, elección de una profesión, perfeccionamiento, cambio de profesión, evolución del mercado laboral y oportunidades de emprendimiento, y desarrollo de habilidades para la gestión de la carrera profesional.
 
 20. Organismo equiparado: entidad u organización, cualquiera que sea su naturaleza jurídica, que, no teniendo la condición de empresa, disponga al menos de un centro de trabajo en el que puedan desarrollarse, en las condiciones requeridas, actividades de formación tutorizada en el marco de las ofertas de formación profesional.
 
-21. Organismo intermedio: toda entidad, asociación, federación, confederación, Cámara de Comercio, clúster, etc. que participe en el asesoramiento y apoyo a empresas para su participación en formación profesional, facilitando su contacto con administraciones y centros educativos.
+21. Organismo intermedio: toda entidad, asociación, federación, confederación, Cámara de Comercio, clúster, etc. que participe en el asesoramiento y apoyo a empresas para su participación en formación profesional, facilitando su contacto con administraciones y centros educativos.
 
-22. Persona trabajadora: toda persona trabajadora por cuenta ajena, autónoma, socia trabajadora o en cooperativas.
+22. Persona trabajadora: toda persona trabajadora por cuenta ajena, autónoma, socia trabajadora o en cooperativas.
 
-23. Resultado del aprendizaje: elemento básico del currículo que describe lo que se espera que un estudiante conozca, comprenda y sea capaz de hacer, asociado a un elemento de competencia y que orienta el resto de elementos curriculares, incluidos los criterios de evaluación que permitan constatar que el estudiante ha alcanzado el mismo.
+23. Resultado del aprendizaje: elemento básico del currículo que describe lo que se espera que un estudiante conozca, comprenda y sea capaz de hacer, asociado a un elemento de competencia y que orienta el resto de elementos curriculares, incluidos los criterios de evaluación que permitan constatar que el estudiante ha alcanzado el mismo.
 
-24. Diseño Universal para el Aprendizaje (DUA). Modelo de enseñanza para la educación inclusiva que reconoce la singularidad del aprendizaje de cada alumno y que promueve la accesibilidad de los procesos y entornos de enseñanza y aprendizaje, mediante un currículo flexible, ajustado a las necesidades y ritmos de aprendizaje de la diversidad del alumnado.
+24. Diseño Universal para el Aprendizaje (DUA). Modelo de enseñanza para la educación inclusiva que reconoce la singularidad del aprendizaje de cada alumno y que promueve la accesibilidad de los procesos y entornos de enseñanza y aprendizaje, mediante un currículo flexible, ajustado a las necesidades y ritmos de aprendizaje de la diversidad del alumnado.
 
 #### Artículo 3. Principios generales.
 
-1. El Sistema de Formación Profesional se desarrolla conforme a los principios de:
+1. El Sistema de Formación Profesional se desarrolla conforme a los principios de:
 
 a) Desarrollo personal y profesional de la persona y mejora continua de su cualificación profesional a lo largo de la vida.
 
@@ -420,11 +421,11 @@ q) Planificación y ajuste de la oferta formativa conforme a la prospección de 
 
 r) Suficiencia y adaptación de la oferta pública a las necesidades y demandas de los sectores productivos.
 
-2. La Administración General del Estado y las administraciones autonómicas deberán cooperar, en el ámbito de sus competencias, en la definición, aplicación y evaluación de las políticas en materia de formación profesional para la promoción del desarrollo económico y social y la adecuación de las acciones formativas a las necesidades y proyectos estratégicos territoriales. Asimismo, las administraciones locales cooperarán en el ámbito de sus competencias.
+2. La Administración General del Estado y las administraciones autonómicas deberán cooperar, en el ámbito de sus competencias, en la definición, aplicación y evaluación de las políticas en materia de formación profesional para la promoción del desarrollo económico y social y la adecuación de las acciones formativas a las necesidades y proyectos estratégicos territoriales. Asimismo, las administraciones locales cooperarán en el ámbito de sus competencias.
 
 #### Artículo 4. Derechos individuales y sociales.
 
-1. La presente ley responde al derecho reconocido de toda persona a:
+1. La presente ley responde al derecho reconocido de toda persona a:
 
 a) La educación y el pleno desarrollo de la personalidad en el marco del respeto a los principios democráticos de convivencia y los derechos y las libertades fundamentales, que establece el artículo 27.2 de la Constitución Española.
 
@@ -436,11 +437,11 @@ d) La asistencia personalizada y tempestiva para mejorar las perspectivas de emp
 
 e) La formación y acceso a la orientación profesional, así como una orientación, formación y readaptación profesionales respetuosa con la igualdad de oportunidades y el principio de igualdad de trato, que establece la Carta Social Europea.
 
-2. Los poderes públicos fomentarán una política que garantice el acceso a la formación y readaptación profesionales de personas trabajadoras a lo largo de la vida activa, en una perspectiva de aprendizaje a lo largo de la vida y de igualdad de oportunidades de la ciudadanía.
+2. Los poderes públicos fomentarán una política que garantice el acceso a la formación y readaptación profesionales de personas trabajadoras a lo largo de la vida activa, en una perspectiva de aprendizaje a lo largo de la vida y de igualdad de oportunidades de la ciudadanía.
 
-3. Los poderes públicos garantizarán el acceso, participación y aprendizaje de todas las personas sin distinción, independientemente de sus características y necesidades, y con especial atención a colectivos con riesgo de exclusión.
+3. Los poderes públicos garantizarán el acceso, participación y aprendizaje de todas las personas sin distinción, independientemente de sus características y necesidades, y con especial atención a colectivos con riesgo de exclusión.
 
-4. La prospección de las necesidades formativas del sistema a corto, medio y largo plazo es indispensable para planificar y ajustar la oferta formativa territorial.
+4. La prospección de las necesidades formativas del sistema a corto, medio y largo plazo es indispensable para planificar y ajustar la oferta formativa territorial.
 
 ## Título I
 
@@ -450,17 +451,17 @@ e) La formación y acceso a la orientación profesional, así como una orientaci
 
 #### Artículo 5. Composición y función.
 
-1. El Sistema de Formación Profesional está compuesto por el conjunto articulado de actuaciones dirigidas a identificar las competencias profesionales del mercado laboral, asegurar las ofertas de formación idóneas, posibilitar la adquisición de la correspondiente formación o, en su caso, el reconocimiento de las competencias profesionales, y poner a disposición de las personas un servicio de orientación y acompañamiento profesional que permita el diseño de itinerarios formativos individuales y colectivos.
+1. El Sistema de Formación Profesional está compuesto por el conjunto articulado de actuaciones dirigidas a identificar las competencias profesionales del mercado laboral, asegurar las ofertas de formación idóneas, posibilitar la adquisición de la correspondiente formación o, en su caso, el reconocimiento de las competencias profesionales, y poner a disposición de las personas un servicio de orientación y acompañamiento profesional que permita el diseño de itinerarios formativos individuales y colectivos.
 
-2. Es función del Sistema de Formación Profesional el desarrollo personal y profesional de la persona, la mejora continuada de su cualificación a lo largo de toda la vida y la garantía de la satisfacción de las necesidades formativas del sistema productivo y del empleo.
+2. Es función del Sistema de Formación Profesional el desarrollo personal y profesional de la persona, la mejora continuada de su cualificación a lo largo de toda la vida y la garantía de la satisfacción de las necesidades formativas del sistema productivo y del empleo.
 
-3. La función a que se refiere el apartado anterior se cumplirá conforme a un modelo de formación profesional, de reconocimiento y acreditación de competencias y de orientación profesional basado en itinerarios formativos facilitadores de la progresión en la formación y estructurado en una doble escala:
+3. La función a que se refiere el apartado anterior se cumplirá conforme a un modelo de formación profesional, de reconocimiento y acreditación de competencias y de orientación profesional basado en itinerarios formativos facilitadores de la progresión en la formación y estructurado en una doble escala:
 
 a) Cinco grados ascendentes (A, B, C, D y E) descriptivos de las ofertas formativas organizadas en unidades diseñadas según el Catálogo Nacional de Estándares de Competencias Profesionales.
 
 b) Tres niveles de competencia profesional (1, 2 y 3), de acuerdo con lo dispuesto en el Catálogo Nacional de Estándares de Competencia Profesional, según los criterios establecidos de conocimientos, iniciativa, autonomía y complejidad de las tareas, en cada una de las ofertas de formación profesional.
 
-4. El modelo a que se refiere el apartado anterior asegurará en todo caso:
+4. El modelo a que se refiere el apartado anterior asegurará en todo caso:
 
 a) La apertura de la formación profesional a toda la población, incluyendo la preparación para el primer acceso al mundo laboral, la formación profesional continua y la readaptación profesional, con la orientación profesional y acompañamiento que cada persona precise.
 
@@ -478,47 +479,47 @@ f) La promoción de la cooperación y gestión coordinada de las distintas admin
 
 Son objetivos del Sistema de Formación Profesional:
 
-1. El desarrollo de un Sistema de Formación Profesional de calidad a lo largo de la vida, en equidad, significativo personal y socialmente y para el tejido productivo, que satisfaga tanto el desarrollo de la personalidad como las necesidades individuales de cualificación, adaptación y reciclaje profesional, así como las de los sectores productivos, y suponga la creación sostenida de valor para las personas y las empresas.
+1. El desarrollo de un Sistema de Formación Profesional de calidad a lo largo de la vida, en equidad, significativo personal y socialmente y para el tejido productivo, que satisfaga tanto el desarrollo de la personalidad como las necesidades individuales de cualificación, adaptación y reciclaje profesional, así como las de los sectores productivos, y suponga la creación sostenida de valor para las personas y las empresas.
 
-2. La cualificación de las personas para el ejercicio de actividades profesionales, promoviendo la adquisición, consolidación y ampliación de competencias profesionales y básicas con la polivalencia y funcionalidad necesarias para el acceso al empleo, la continuidad en el mismo y la progresión y desarrollo profesional, así como la rápida adaptación a los retos de futuro derivados de entornos de trabajo complejos.
+2. La cualificación de las personas para el ejercicio de actividades profesionales, promoviendo la adquisición, consolidación y ampliación de competencias profesionales y básicas con la polivalencia y funcionalidad necesarias para el acceso al empleo, la continuidad en el mismo y la progresión y desarrollo profesional, así como la rápida adaptación a los retos de futuro derivados de entornos de trabajo complejos.
 
-3. La puesta a disposición de las empresas y sectores productivos de los perfiles profesionales necesarios en cada momento, teniendo en cuenta el carácter determinante, para la competitividad de las empresas, de la cualificación de las personas trabajadoras, su flexibilidad, rapidez de adaptación, polivalencia y transversalidad.
+3. La puesta a disposición de las empresas y sectores productivos de los perfiles profesionales necesarios en cada momento, teniendo en cuenta el carácter determinante, para la competitividad de las empresas, de la cualificación de las personas trabajadoras, su flexibilidad, rapidez de adaptación, polivalencia y transversalidad.
 
-4. La observación continua de la evolución de la demanda y la oferta de profesiones, ocupaciones y perfiles en el mercado de trabajo para la prospección e identificación de las necesidades de cualificación.
+4. La observación continua de la evolución de la demanda y la oferta de profesiones, ocupaciones y perfiles en el mercado de trabajo para la prospección e identificación de las necesidades de cualificación.
 
-5. La oferta de formación actualizada y suficiente, que incorpore de manera proactiva y ágil tanto las competencias profesionales emergentes, como la innovación, la investigación aplicada, el emprendimiento, la digitalización, la sostenibilidad y la emergencia climática, en tanto que factores estructurales de éxito en el nuevo modelo económico.
+5. La oferta de formación actualizada y suficiente, que incorpore de manera proactiva y ágil tanto las competencias profesionales emergentes, como la innovación, la investigación aplicada, el emprendimiento, la digitalización, la sostenibilidad y la emergencia climática, en tanto que factores estructurales de éxito en el nuevo modelo económico.
 
-6. La configuración flexible, modular y acorde con los planteamientos a escala de la Unión Europea de la formación profesional, basada en itinerarios formativos i) accesibles, progresivos, acumulables y adaptados a las necesidades individuales y colectivas, teniendo en cuenta la edad, el sexo, la discapacidad en su caso, y la situación personal o laboral y ii) dirigidos a un abanico de perfiles profesionales comprensivo, desde los generalistas hasta los altamente especializados.
+6. La configuración flexible, modular y acorde con los planteamientos a escala de la Unión Europea de la formación profesional, basada en itinerarios formativos i) accesibles, progresivos, acumulables y adaptados a las necesidades individuales y colectivas, teniendo en cuenta la edad, el sexo, la discapacidad en su caso, y la situación personal o laboral y ii) dirigidos a un abanico de perfiles profesionales comprensivo, desde los generalistas hasta los altamente especializados.
 
-7. El impulso de la dimensión dual de la formación profesional y de sus vínculos con el sistema productivo en un marco de colaboración público-privada entre administraciones, centros, empresas u organismos equiparados, organizaciones empresariales y sindicales, entidades y tercer sector para la creación conjunta de valor, el alineamiento de los objetivos y proyectos estratégicos comunes, la superación de la brecha urbano/rural a través de una adecuada adaptación territorial, y el uso eficaz de los recursos en entornos formativos y profesionales.
+7. El impulso de la dimensión dual de la formación profesional y de sus vínculos con el sistema productivo en un marco de colaboración público-privada entre administraciones, centros, empresas u organismos equiparados, organizaciones empresariales y sindicales, entidades y tercer sector para la creación conjunta de valor, el alineamiento de los objetivos y proyectos estratégicos comunes, la superación de la brecha urbano/rural a través de una adecuada adaptación territorial, y el uso eficaz de los recursos en entornos formativos y profesionales.
 
-8. La definición y el establecimiento de un modelo de gobernanza, respetuoso con los ámbitos competenciales, que incorpore el papel de las organizaciones empresariales y sindicales más representativas y su participación y cooperación con los poderes públicos en las políticas del Sistema de Formación Profesional.
+8. La definición y el establecimiento de un modelo de gobernanza, respetuoso con los ámbitos competenciales, que incorpore el papel de las organizaciones empresariales y sindicales más representativas y su participación y cooperación con los poderes públicos en las políticas del Sistema de Formación Profesional.
 
-9. La facilitación de la acreditación y el reconocimiento de las competencias profesionales vinculadas al Catálogo Nacional de Estándares de Competencias Profesionales, adquiridas mediante la experiencia laboral u otras vías no formales o informales.
+9. La facilitación de la acreditación y el reconocimiento de las competencias profesionales vinculadas al Catálogo Nacional de Estándares de Competencias Profesionales, adquiridas mediante la experiencia laboral u otras vías no formales o informales.
 
-10. La provisión de orientación profesional que facilite a las personas, a lo largo de la vida, la toma de decisiones en la elección y gestión de sus carreras formativas y profesionales, combatiendo los estereotipos de género, los relacionados con la discapacidad o las necesidades específicas de apoyo educativo, colaborando en la construcción de una identidad profesional motivadora de futuros aprendizajes y adaptaciones a la evolución de los procesos productivos y al cambio social, y favoreciendo el conocimiento de las oportunidades existentes o emergentes en los entornos rurales y las zonas en declive demográfico.
+10. La provisión de orientación profesional que facilite a las personas, a lo largo de la vida, la toma de decisiones en la elección y gestión de sus carreras formativas y profesionales, combatiendo los estereotipos de género, los relacionados con la discapacidad o las necesidades específicas de apoyo educativo, colaborando en la construcción de una identidad profesional motivadora de futuros aprendizajes y adaptaciones a la evolución de los procesos productivos y al cambio social, y favoreciendo el conocimiento de las oportunidades existentes o emergentes en los entornos rurales y las zonas en declive demográfico.
 
-11. El fomento de la igualdad efectiva de oportunidades entre las personas en el acceso y desarrollo de su proceso de formación profesional para todo tipo de opciones profesionales, y la eliminación de la segregación formativa existente entre mujeres y hombres.
+11. El fomento de la igualdad efectiva de oportunidades entre las personas en el acceso y desarrollo de su proceso de formación profesional para todo tipo de opciones profesionales, y la eliminación de la segregación formativa existente entre mujeres y hombres.
 
-12. La promoción de la igualdad de oportunidades de las personas con discapacidad y, en general, de personas y colectivos con dificultades de inserción socio laboral en el acceso y el proceso de formación profesional habilitante y facilitadora de la inserción en el mercado laboral.
+12. La promoción de la igualdad de oportunidades de las personas con discapacidad y, en general, de personas y colectivos con dificultades de inserción socio laboral en el acceso y el proceso de formación profesional habilitante y facilitadora de la inserción en el mercado laboral.
 
-13. El incremento de la presencia social de la formación profesional como opción de valor para el empleo y la progresión académica, tanto reforzando la relación y cooperación entre los sistemas de formación profesional y universitario, como contribuyendo a la erradicación del abandono temprano sin una cualificación profesional que garantice una empleabilidad sostenida.
+13. El incremento de la presencia social de la formación profesional como opción de valor para el empleo y la progresión académica, tanto reforzando la relación y cooperación entre los sistemas de formación profesional y universitario, como contribuyendo a la erradicación del abandono temprano sin una cualificación profesional que garantice una empleabilidad sostenida.
 
-14. El impulso de la participación de las personas adultas, para su cualificación o recualificación, en acciones de formación profesional como elemento integrado en el desempeño profesional y la vida laboral y única forma de lograr el mayor grado de especialización que demandan ámbitos cada vez más complejos.
+14. El impulso de la participación de las personas adultas, para su cualificación o recualificación, en acciones de formación profesional como elemento integrado en el desempeño profesional y la vida laboral y única forma de lograr el mayor grado de especialización que demandan ámbitos cada vez más complejos.
 
-15. La promoción de la planificación integrada en cada territorio de una oferta de formación profesional a lo largo de la vida, así como de la complementariedad de las redes de centros de formación profesional, y el uso compartido de sus instalaciones y recursos.
+15. La promoción de la planificación integrada en cada territorio de una oferta de formación profesional a lo largo de la vida, así como de la complementariedad de las redes de centros de formación profesional, y el uso compartido de sus instalaciones y recursos.
 
-16. La generación de circuitos inter-autonómicos y transnacionales de trasferencia de conocimiento entre centros, empresas u organismos equiparados, entidades, docentes, y personas en formación, promoviendo proyectos de movilidad.
+16. La generación de circuitos inter-autonómicos y transnacionales de trasferencia de conocimiento entre centros, empresas u organismos equiparados, entidades, docentes, y personas en formación, promoviendo proyectos de movilidad.
 
-17. La extensión del conocimiento de lenguas extranjeras en el ámbito profesional.
+17. La extensión del conocimiento de lenguas extranjeras en el ámbito profesional.
 
-18. La actualización permanente de las competencias del personal docente y formador que les permitan diseñar y adecuar los procesos formativos acordes con las nuevas necesidades productivas y sectoriales, así como a las propias del alumnado, especialmente el alumnado con necesidades específicas.
+18. La actualización permanente de las competencias del personal docente y formador que les permitan diseñar y adecuar los procesos formativos acordes con las nuevas necesidades productivas y sectoriales, así como a las propias del alumnado, especialmente el alumnado con necesidades específicas.
 
-19. La puesta en marcha y el mantenimiento de un proceso de evaluación y mejora continua de la calidad del Sistema de Formación Profesional, en particular su carácter dual, que proporcione información sobre su funcionamiento y adecuación a las necesidades formativas individuales y del sistema productivo, y promueva la investigación sobre el modelo de formación profesional, así como su impacto sobre las dimensiones de mejora del empleo y de la productividad.
+19. La puesta en marcha y el mantenimiento de un proceso de evaluación y mejora continua de la calidad del Sistema de Formación Profesional, en particular su carácter dual, que proporcione información sobre su funcionamiento y adecuación a las necesidades formativas individuales y del sistema productivo, y promueva la investigación sobre el modelo de formación profesional, así como su impacto sobre las dimensiones de mejora del empleo y de la productividad.
 
 #### Artículo 7. Elementos integrantes e instrumentos de gestión del Sistema.
 
-1. El Sistema de Formación Profesional se concreta en:
+1. El Sistema de Formación Profesional se concreta en:
 
 a) El Catálogo Nacional de Estándares de Competencias Profesionales.
 
@@ -528,7 +529,7 @@ c) El Catálogo Nacional de Ofertas de Formación Profesional.
 
 d) Los elementos básicos de los currículos.
 
-2. Sirven a la gestión del Sistema de Formación Profesional:
+2. Sirven a la gestión del Sistema de Formación Profesional:
 
 a) El Registro Estatal de Formación Profesional.
 
@@ -536,7 +537,7 @@ b) El Registro Estatal de Acreditaciones de Competencias Profesionales Adquirida
 
 c) El Registro General de Centros de Formación Profesional.
 
-3. Se habilitarán las herramientas para garantizar la difusión, información y acceso a los instrumentos de concreción y gestión del Sistema de manera accesible para todas las personas.
+3. Se habilitarán las herramientas para garantizar la difusión, información y acceso a los instrumentos de concreción y gestión del Sistema de manera accesible para todas las personas.
 
 ## Capítulo II. Elementos integrantes del Sistema de Formación Profesional.
 
@@ -544,9 +545,9 @@ c) El Registro General de Centros de Formación Profesional.
 
 #### Artículo 8. Definición y funciones.
 
-1. El Catálogo Nacional de Estándares de Competencias profesionales es el instrumento del Sistema Nacional de Formación Profesional que ordena los estándares de competencias profesionales identificados en el sistema productivo, en función de las competencias apropiadas y el estándar de calidad requerido para el ejercicio profesional, susceptibles de reconocimiento y acreditación.
+1. El Catálogo Nacional de Estándares de Competencias profesionales es el instrumento del Sistema Nacional de Formación Profesional que ordena los estándares de competencias profesionales identificados en el sistema productivo, en función de las competencias apropiadas y el estándar de calidad requerido para el ejercicio profesional, susceptibles de reconocimiento y acreditación.
 
-2. Sobre la base de la observación y el análisis permanente del sistema productivo y las demandas de la sociedad, el Catálogo Nacional de Estándares de Competencias Profesionales:
+2. Sobre la base de la observación y el análisis permanente del sistema productivo y las demandas de la sociedad, el Catálogo Nacional de Estándares de Competencias Profesionales:
 
 a) Identificará, clasificará y ordenará las competencias propias del mercado laboral significativas para la economía productiva con validez en todo el territorio nacional. El catálogo podrá, asimismo, recoger aquellos perfiles profesionales que, por su específico valor cultural o patrimonial, requieran una especial protección.
 
@@ -556,7 +557,7 @@ c) Proporcionará la base para el diseño de los módulos profesionales y la cre
 
 #### Artículo 9. Contenido y organización.
 
-1. El contenido del Catálogo Nacional de Estándares de Competencias Profesionales se organizará en estándares de competencia, por niveles y familias profesionales con sus respectivos indicadores de calidad en el desempeño, con arreglo a las siguientes reglas:
+1. El contenido del Catálogo Nacional de Estándares de Competencias Profesionales se organizará en estándares de competencia, por niveles y familias profesionales con sus respectivos indicadores de calidad en el desempeño, con arreglo a las siguientes reglas:
 
 a) Los niveles 1, 2 y 3 asignados a cada estándar de competencia seguirán según criterios acordes con los comúnmente establecidos a escala europea, relativos a conocimientos, iniciativa, autonomía, responsabilidad y complejidad de las tareas.
 
@@ -568,11 +569,11 @@ d) Los estándares de competencia se componen de elementos de competencia, que i
 
 e) Los estándares de competencia podrán tener, excepcionalmente, carácter transversal, cuando se refieran a competencias no asociadas a una o varias familias profesionales específicas, sino a múltiples desempeños profesionales.
 
-2. La organización del Catálogo favorecerá la transparencia de los estándares de competencia en el contexto internacional y particularmente en el europeo.
+2. La organización del Catálogo favorecerá la transparencia de los estándares de competencia en el contexto internacional y particularmente en el europeo.
 
-3. La inclusión de estándares de competencia profesionales en el Catálogo no supondrá regulación de ejercicio profesional alguno, ni afectará al contenido de las relaciones laborales.
+3. La inclusión de estándares de competencia profesionales en el Catálogo no supondrá regulación de ejercicio profesional alguno, ni afectará al contenido de las relaciones laborales.
 
-4. Se promoverá:
+4. Se promoverá:
 
 a) La utilización del Catálogo como herramienta de empleabilidad de las personas, facilitando la mejor visión del conjunto de sus competencias y de sus potencialidades.
 
@@ -582,17 +583,17 @@ b) El uso del Catálogo por las personas empleadoras en la búsqueda y definici�
 
 #### Artículo 10. Contenido y alcance.
 
-1. El Catálogo Modular de Formación Profesional es el instrumento del Sistema Nacional de Formación Profesional que ordena los módulos profesionales de formación profesional asociados a cada uno de los estándares de competencias profesionales.
+1. El Catálogo Modular de Formación Profesional es el instrumento del Sistema Nacional de Formación Profesional que ordena los módulos profesionales de formación profesional asociados a cada uno de los estándares de competencias profesionales.
 
-2. El Catálogo Modular de Formación Profesional:
+2. El Catálogo Modular de Formación Profesional:
 
 a) Determinará los módulos profesionales vinculados a cada uno de los estándares de competencias profesionales recogidos en el Catálogo Nacional de Estándares de Competencias Profesionales.
 
 b) Operará como referencia obligada para el diseño de las ofertas del Catálogo Nacional de Ofertas de Formación Profesional.
 
-3. El contenido del Catálogo Modular de Formación Profesional se organizará respetando los niveles y las familias profesionales de los estándares de competencia profesional con sus respectivos indicadores de calidad en el desempeño y favoreciendo la transparencia de la vinculación directa entre cada estándar de competencia profesional y la formación asociada, agregada en un módulo profesional.
+3. El contenido del Catálogo Modular de Formación Profesional se organizará respetando los niveles y las familias profesionales de los estándares de competencia profesional con sus respectivos indicadores de calidad en el desempeño y favoreciendo la transparencia de la vinculación directa entre cada estándar de competencia profesional y la formación asociada, agregada en un módulo profesional.
 
-4. Los módulos profesionales permitirán, por su diseño, identificar la formación vinculada a cada elemento del estándar de competencia y deberán detallar, al menos:
+4. Los módulos profesionales permitirán, por su diseño, identificar la formación vinculada a cada elemento del estándar de competencia y deberán detallar, al menos:
 
 a) Los resultados de aprendizaje vinculados a los elementos de cada estándar de competencia profesional.
 
@@ -602,9 +603,9 @@ b) Los criterios de evaluación.
 
 #### Artículo 11. Naturaleza y alcance.
 
-1. El Catálogo Nacional de Ofertas de Formación Profesional es el instrumento del Sistema Nacional de Formación Profesional que incorpora todas las ofertas de formación profesional reconocidas y acreditables en el marco del sistema.
+1. El Catálogo Nacional de Ofertas de Formación Profesional es el instrumento del Sistema Nacional de Formación Profesional que incorpora todas las ofertas de formación profesional reconocidas y acreditables en el marco del sistema.
 
-2. El Catálogo Nacional de Ofertas de Formación Profesional:
+2. El Catálogo Nacional de Ofertas de Formación Profesional:
 
 a) Determinará el conjunto de acciones formativas dirigidas a:
 
@@ -616,7 +617,7 @@ b) Coordinará las diversas ofertas de formación.
 
 c) Fijará la oferta formativa a él vinculada.
 
-3. Las ofertas de formación profesional deben:
+3. Las ofertas de formación profesional deben:
 
 a) Cubrir las necesidades de cualificación de los y las estudiantes en formación y de las personas trabajadoras ocupadas o desempleadas que necesiten adquirir, ampliar o actualizar competencias profesionales identificadas en el mercado de trabajo, mediante una formación ajustada a los requerimientos del sistema productivo, y que les permita la incorporación o reincorporación al mercado laboral y la reorientación del itinerario profesional.
 
@@ -624,13 +625,13 @@ b) Tener carácter acreditable de carácter modular y acumulable, permitiendo pr
 
 c) Contar con un nivel de referencia en el Marco Español y en el Marco Europeo de Cualificaciones Profesionales.
 
-4. Las ofertas formativas estarán incluidas en el Catálogo Nacional de Ofertas de Formación Profesional. Cada oferta de formación profesional se diseñará a partir de los módulos profesionales asociados a cada estándar de competencia del Catálogo Nacional de Estándares de Competencias Profesionales, y que constituyen el Catálogo Modular de Formación Profesional.
+4. Las ofertas formativas estarán incluidas en el Catálogo Nacional de Ofertas de Formación Profesional. Cada oferta de formación profesional se diseñará a partir de los módulos profesionales asociados a cada estándar de competencia del Catálogo Nacional de Estándares de Competencias Profesionales, y que constituyen el Catálogo Modular de Formación Profesional.
 
 #### Artículo 12. Organización y contenido.
 
-1. El Catálogo Nacional de Ofertas de Formación Profesional integrará las ofertas vinculadas al Sistema de Formación Profesional.
+1. El Catálogo Nacional de Ofertas de Formación Profesional integrará las ofertas vinculadas al Sistema de Formación Profesional.
 
-2. El Catálogo Nacional de Ofertas de Formación Profesional se estructurará en:
+2. El Catálogo Nacional de Ofertas de Formación Profesional se estructurará en:
 
 a) Una dimensión vertical definitoria, de forma escalonada, de la serie ascendente de Grados descriptiva de la amplitud de cada oferta formativa diseñada a partir del Catálogo Nacional de Estándares de Competencias Profesionales y el Catálogo Modular de Formación Profesional. Las ofertas de formación profesional se organizarán, en función de la amplitud de la formación a proporcionar, en los grados A, B, C, D, E.
 
@@ -650,11 +651,11 @@ f) Los títulos, certificados y acreditaciones derivados de las ofertas de forma
 
 #### Artículo 13. Currículo y elementos básicos.
 
-1. Todo currículo de la formación profesional tendrá por objetivo facilitar el desarrollo formativo profesional de las personas, promoviendo su formación integral, contribuyendo al desarrollo de su personalidad en todas sus dimensiones, así como al fortalecimiento económico del país, del tejido productivo y su posicionamiento en la nueva economía, a partir de la cualificación de la población activa y de la satisfacción de sus necesidades formativas a medida que se producen.
+1. Todo currículo de la formación profesional tendrá por objetivo facilitar el desarrollo formativo profesional de las personas, promoviendo su formación integral, contribuyendo al desarrollo de su personalidad en todas sus dimensiones, así como al fortalecimiento económico del país, del tejido productivo y su posicionamiento en la nueva economía, a partir de la cualificación de la población activa y de la satisfacción de sus necesidades formativas a medida que se producen.
 
 A tal fin deberá incorporar contenidos culturales, científicos, tecnológicos y organizativos, así como contenidos vinculados a la digitalización, la defensa de la propiedad intelectual e industrial, la sostenibilidad, la innovación e investigación aplicada, el emprendimiento, la versatilidad tecnológica, las habilidades para la gestión de la carrera profesional, las relaciones laborales, la prevención de riesgos laborales y medioambientales, la responsabilidad profesional, las habilidades interpersonales, los valores cívicos, la participación ciudadana y la igualdad efectiva entre hombres y mujeres.
 
-2. El contenido básico del currículo, que deberá mantenerse actualizado por el procedimiento que reglamentariamente se establezca, definirá las enseñanzas mínimas y tendrá por finalidad asegurar una formación común y garantizar la validez estatal de los títulos, certificados y acreditaciones correspondientes.
+2. El contenido básico del currículo, que deberá mantenerse actualizado por el procedimiento que reglamentariamente se establezca, definirá las enseñanzas mínimas y tendrá por finalidad asegurar una formación común y garantizar la validez estatal de los títulos, certificados y acreditaciones correspondientes.
 
 No obstante lo dispuesto en el párrafo anterior, el currículo de las ofertas de Grado D y E se regirá por lo dispuesto en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, siendo de aplicación, en todo caso, las siguientes reglas:
 
@@ -668,33 +669,33 @@ b) En el contexto de la cooperación internacional, se podrán establecer currí
 
 #### Artículo 14. Naturaleza.
 
-1. Se crea el Registro Estatal de Formación Profesional, que será un registro administrativo electrónico dependiente del Ministerio de Educación y Formación Profesional.
+1. Se crea el Registro Estatal de Formación Profesional, que será un registro administrativo electrónico dependiente del Ministerio de Educación y Formación Profesional.
 
-2. Los datos del Registro serán objeto de tratamiento automatizado con sujeción a las medidas de seguridad previstas en la normativa sobre protección de datos de carácter personal.
+2. Los datos del Registro serán objeto de tratamiento automatizado con sujeción a las medidas de seguridad previstas en la normativa sobre protección de datos de carácter personal.
 
 #### Artículo 15. Obligación de inscripción y derecho de acceso.
 
-1. Todas las administraciones competentes en materia de formación profesional deberán comunicar o incorporar al Registro Estatal de Formación Profesional, para su constancia en él, cualquier título, certificado o acreditación de formación profesional del Catálogo Nacional de Ofertas de Formación Profesional que haya sido propuesto o expedido.
+1. Todas las administraciones competentes en materia de formación profesional deberán comunicar o incorporar al Registro Estatal de Formación Profesional, para su constancia en él, cualquier título, certificado o acreditación de formación profesional del Catálogo Nacional de Ofertas de Formación Profesional que haya sido propuesto o expedido.
 
-2. La ciudadanía tendrá derecho a solicitar y obtener del Registro Estatal de Formación Profesional un Informe Formativo-Profesional, que recoja su itinerario y situación formativa profesional debidamente acreditada y actualizada a la fecha de descarga.
+2. La ciudadanía tendrá derecho a solicitar y obtener del Registro Estatal de Formación Profesional un Informe Formativo-Profesional, que recoja su itinerario y situación formativa profesional debidamente acreditada y actualizada a la fecha de descarga.
 
-3. El Registro Estatal de Formación Profesional facilitará los datos de las personas tituladas a los registros profesionales que se establezcan por los organismos reguladores de cada ámbito profesional, en los términos que la normativa establezca. Para los títulos de la familia profesional de sanidad dichos datos serán comunicados al Registro Estatal de Profesionales Sanitarios, en los términos y con el alcance previstos en el Real Decreto por el que se crea y ordena dicho registro.
+3. El Registro Estatal de Formación Profesional facilitará los datos de las personas tituladas a los registros profesionales que se establezcan por los organismos reguladores de cada ámbito profesional, en los términos que la normativa establezca. Para los títulos de la familia profesional de sanidad dichos datos serán comunicados al Registro Estatal de Profesionales Sanitarios, en los términos y con el alcance previstos en el Real Decreto por el que se crea y ordena dicho registro.
 
 Sección 2.ª Registro Estatal de Acreditaciones de Competencias Profesionales Adquiridas por Experiencia Laboral o Vías No Formales e Informales
 
 #### Artículo 16. Naturaleza.
 
-1. El Registro Estatal de Acreditaciones de Competencias Profesionales Adquiridas por Experiencia Laboral o Vías No Formales e Informales es un registro administrativo electrónico dependiente del Ministerio de Educación y Formación Profesional, que incluirá las acreditaciones personales obtenidas a través del procedimiento de acreditación de competencias profesionales adquiridas por experiencia laboral u otras vías no formales o informales.
+1. El Registro Estatal de Acreditaciones de Competencias Profesionales Adquiridas por Experiencia Laboral o Vías No Formales e Informales es un registro administrativo electrónico dependiente del Ministerio de Educación y Formación Profesional, que incluirá las acreditaciones personales obtenidas a través del procedimiento de acreditación de competencias profesionales adquiridas por experiencia laboral u otras vías no formales o informales.
 
-2. Los datos del registro serán objeto de tratamiento automatizado con sujeción a las medidas de seguridad previstas en la normativa sobre protección de datos de carácter personal.
+2. Los datos del registro serán objeto de tratamiento automatizado con sujeción a las medidas de seguridad previstas en la normativa sobre protección de datos de carácter personal.
 
-3. El Registro Estatal de Acreditaciones de Competencias Profesionales Adquiridas por Experiencia Laboral o Vías No Formales e Informales estará debidamente interconectado con el Registro Estatal de Formación Profesional, de manera que el Informe Formativo-Profesional de carácter personal que otorgue este último incorpore las acreditaciones obtenidas cualquiera que sea su forma de adquisición.
+3. El Registro Estatal de Acreditaciones de Competencias Profesionales Adquiridas por Experiencia Laboral o Vías No Formales e Informales estará debidamente interconectado con el Registro Estatal de Formación Profesional, de manera que el Informe Formativo-Profesional de carácter personal que otorgue este último incorpore las acreditaciones obtenidas cualquiera que sea su forma de adquisición.
 
 #### Artículo 17. Obligación de inscripción y derecho de acceso.
 
-1. Todas las administraciones competentes en materia de formación profesional deberán comunicar o incorporar al registro para su constancia en él, cualquier acreditación obtenida mediante este procedimiento.
+1. Todas las administraciones competentes en materia de formación profesional deberán comunicar o incorporar al registro para su constancia en él, cualquier acreditación obtenida mediante este procedimiento.
 
-2. La ciudadanía tendrá derecho a solicitar y obtener del Registro un informe sobre los estándares de competencia acreditados mediante este procedimiento, actualizado a la fecha de descarga.
+2. La ciudadanía tendrá derecho a solicitar y obtener del Registro un informe sobre los estándares de competencia acreditados mediante este procedimiento, actualizado a la fecha de descarga.
 
 #### Artículo 18. Efecto de las acreditaciones obtenidas.
 
@@ -704,33 +705,33 @@ El Registro Estatal de Acreditaciones de Competencias Profesionales Adquiridas p
 
 #### Artículo 19. Naturaleza.
 
-1. El Registro General de Centros de Formación Profesional es un registro administrativo electrónico dependiente del Ministerio de Educación y Formación Profesional, que incluirá a todos los centros autorizados para impartir cualquier oferta de formación profesional del Sistema de Formación Profesional. Este registro se constituye a partir de los datos sobre los centros docentes incluidos en los registros autonómicos dependientes de las administraciones competentes, en su caso, donde radiquen sus instalaciones y recursos formativos.
+1. El Registro General de Centros de Formación Profesional es un registro administrativo electrónico dependiente del Ministerio de Educación y Formación Profesional, que incluirá a todos los centros autorizados para impartir cualquier oferta de formación profesional del Sistema de Formación Profesional. Este registro se constituye a partir de los datos sobre los centros docentes incluidos en los registros autonómicos dependientes de las administraciones competentes, en su caso, donde radiquen sus instalaciones y recursos formativos.
 
-2. Todo centro deberá estar inscrito en el Registro General de Centros de Formación Profesional para realizar ofertas conducentes a la obtención de las acreditaciones, certificados o titulaciones del Sistema de Formación Profesional.
+2. Todo centro deberá estar inscrito en el Registro General de Centros de Formación Profesional para realizar ofertas conducentes a la obtención de las acreditaciones, certificados o titulaciones del Sistema de Formación Profesional.
 
 #### Artículo 20. Inscripción en el Registro General de Centros de Formación Profesional.
 
-1. Todos los centros que impartan ofertas del Sistema de Formación Profesional deberán estar inscritos en el Registro General de Centros de Formación Profesional, que tendrá naturaleza pública. Este registro se constituye a partir de los datos sobre los centros de formación profesional incluidos en los registros dependientes de las administraciones competentes, en función del lugar o lugares donde desarrollen sus actividades, de acuerdo con las disposiciones reglamentarias aplicables.
+1. Todos los centros que impartan ofertas del Sistema de Formación Profesional deberán estar inscritos en el Registro General de Centros de Formación Profesional, que tendrá naturaleza pública. Este registro se constituye a partir de los datos sobre los centros de formación profesional incluidos en los registros dependientes de las administraciones competentes, en función del lugar o lugares donde desarrollen sus actividades, de acuerdo con las disposiciones reglamentarias aplicables.
 
-2. Los centros que impartan enseñanzas de formación profesional del sistema educativo, constitutivos de los grados D y E, deberán estar inscritos, además, en el Registro estatal de centros docentes no universitarios, con independencia de su titularidad pública o privada y de conformidad con lo previsto en las disposiciones legales y reglamentarias. Los centros que impartan estas enseñanzas quedarán automáticamente integrados en el Registro General de Centros de Formación Profesional, a través de la interconexión con el Registro estatal de centros docentes no universitarios.
+2. Los centros que impartan enseñanzas de formación profesional del sistema educativo, constitutivos de los grados D y E, deberán estar inscritos, además, en el Registro estatal de centros docentes no universitarios, con independencia de su titularidad pública o privada y de conformidad con lo previsto en las disposiciones legales y reglamentarias. Los centros que impartan estas enseñanzas quedarán automáticamente integrados en el Registro General de Centros de Formación Profesional, a través de la interconexión con el Registro estatal de centros docentes no universitarios.
 
-3. Asimismo, las entidades y centros de formación profesional, públicos y privados, que realicen ofertas de grado A, B y C del Sistema de Formación Profesional deberán estar inscritos en el correspondiente registro habilitado por la administración competente, correspondientes al lugar donde desarrollen sus actividades las entidades y centros de formación profesional públicos y privados en relación con los grados A, B y C, coordinado con el Registro General de centros de formación profesional, de acuerdo con las disposiciones reglamentarias aplicables.
+3. Asimismo, las entidades y centros de formación profesional, públicos y privados, que realicen ofertas de grado A, B y C del Sistema de Formación Profesional deberán estar inscritos en el correspondiente registro habilitado por la administración competente, correspondientes al lugar donde desarrollen sus actividades las entidades y centros de formación profesional públicos y privados en relación con los grados A, B y C, coordinado con el Registro General de centros de formación profesional, de acuerdo con las disposiciones reglamentarias aplicables.
 
 #### Artículo 21. Funciones del Registro General de centros de formación profesional.
 
 El Registro General de centros de formación profesional:
 
-1. Inscribirá los actos administrativos de autorización, supresión, extinción y modificación de los centros de formación profesional de naturaleza pública y privada que deben ser autorizados por las administraciones competentes, autonómicas en su caso, de conformidad con lo previsto en las disposiciones legales y reglamentarias, para impartir ofertas de formación profesional.
+1. Inscribirá los actos administrativos de autorización, supresión, extinción y modificación de los centros de formación profesional de naturaleza pública y privada que deben ser autorizados por las administraciones competentes, autonómicas en su caso, de conformidad con lo previsto en las disposiciones legales y reglamentarias, para impartir ofertas de formación profesional.
 
-2. Impulsará la colaboración con los registros autonómicos, a fin de facilitar la compatibilidad informática y la transmisión telemática de los datos registrales.
+2. Impulsará la colaboración con los registros autonómicos, a fin de facilitar la compatibilidad informática y la transmisión telemática de los datos registrales.
 
-3. Posibilitará a todas las administraciones el acceso a una información completa, uniforme y actualizada sobre los datos de los centros de formación profesional contenidos en el Registro.
+3. Posibilitará a todas las administraciones el acceso a una información completa, uniforme y actualizada sobre los datos de los centros de formación profesional contenidos en el Registro.
 
-4. Facilitará el acceso público a los datos del Registro.
+4. Facilitará el acceso público a los datos del Registro.
 
-5. Impulsará la implantación y desarrollo de aplicaciones y procesos informáticos que contribuyan a una mejora de la gestión de la base de datos del registro y a una explotación eficiente de ésta.
+5. Impulsará la implantación y desarrollo de aplicaciones y procesos informáticos que contribuyan a una mejora de la gestión de la base de datos del registro y a una explotación eficiente de ésta.
 
-6. Elaborará estudios e informes basados en los datos sobre los centros de formación profesional registrados.
+6. Elaborará estudios e informes basados en los datos sobre los centros de formación profesional registrados.
 
 ## Título II
 
@@ -740,7 +741,7 @@ El Registro General de centros de formación profesional:
 
 #### Artículo 22. Ofertas de formación profesional.
 
-1. Las ofertas de formación profesional incluidas en el Sistema de Formación Profesional comprenderán:
+1. Las ofertas de formación profesional incluidas en el Sistema de Formación Profesional comprenderán:
 
 a) La incluida en la educación básica.
 
@@ -750,13 +751,13 @@ c) La vinculada, en todo o parte, a los estándares de competencias profesionale
 
 d) La dirigida a colectivos específicos.
 
-2. En el marco de las ofertas del apartado 1, las administraciones podrán realizar ofertas de cursos o preparaciones complementarias requeridas para el acceso a ofertas de formación que faciliten la continuidad de los itinerarios formativos de las personas que quieran formarse.
+2. En el marco de las ofertas del apartado 1, las administraciones podrán realizar ofertas de cursos o preparaciones complementarias requeridas para el acceso a ofertas de formación que faciliten la continuidad de los itinerarios formativos de las personas que quieran formarse.
 
-3. Las ofertas de carácter no formal asociadas a estándares de competencias profesionales podrán ser objeto posterior de reconocimiento a través del procedimiento de acreditación de competencias profesionales adquiridas por experiencia laboral u otras vías no formales o informales, en los términos que reglamentariamente se establezcan.
+3. Las ofertas de carácter no formal asociadas a estándares de competencias profesionales podrán ser objeto posterior de reconocimiento a través del procedimiento de acreditación de competencias profesionales adquiridas por experiencia laboral u otras vías no formales o informales, en los términos que reglamentariamente se establezcan.
 
 #### Artículo 23. Requisitos de las ofertas.
 
-1. Toda oferta de formación profesional deberá definirse por:
+1. Toda oferta de formación profesional deberá definirse por:
 
 a) Los datos de identificación.
 
@@ -766,21 +767,21 @@ c) Los criterios de evaluación.
 
 d) La referencia al estándar o estándares de competencia o elementos de competencia.
 
-2. Las ofertas de formación deberán diseñarse por módulos profesionales, a partir del Catálogo Modular de Formación Profesional, sin perjuicio de poder añadirse a ellos, en su caso, otros módulos profesionales no vinculados a estándares de competencia considerados necesarios para dar cobertura a la totalidad de las competencias generales previstas.
+2. Las ofertas de formación deberán diseñarse por módulos profesionales, a partir del Catálogo Modular de Formación Profesional, sin perjuicio de poder añadirse a ellos, en su caso, otros módulos profesionales no vinculados a estándares de competencia considerados necesarios para dar cobertura a la totalidad de las competencias generales previstas.
 
-3. Las ofertas de formación profesional integradas como enseñanzas del sistema educativo se atendrán, a efectos de duración, currículo y enseñanzas mínimas, a la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+3. Las ofertas de formación profesional integradas como enseñanzas del sistema educativo se atendrán, a efectos de duración, currículo y enseñanzas mínimas, a la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
-4. Las ofertas de formación profesional prestarán especial atención al establecimiento de medidas de flexibilización y alternativas organizativas y metodológicas para facilitar la igualdad de oportunidades en el acceso a los currículos de las personas con necesidad específica de apoyo educativo, permanente o transitoria y suficientemente acreditada, pudiendo incluir, a tal efecto, adaptaciones técnicas, materiales o de ampliación del periodo de formación o de permanencia.
+4. Las ofertas de formación profesional prestarán especial atención al establecimiento de medidas de flexibilización y alternativas organizativas y metodológicas para facilitar la igualdad de oportunidades en el acceso a los currículos de las personas con necesidad específica de apoyo educativo, permanente o transitoria y suficientemente acreditada, pudiendo incluir, a tal efecto, adaptaciones técnicas, materiales o de ampliación del periodo de formación o de permanencia.
 
-5. Se podrán incluir, respetando el correspondiente currículo y la duración mínima de las enseñanzas, complementos formativos que se ajusten a las necesidades de cada sector productivo en el territorio o se adapten a ellas o a las del colectivo destinatario o faciliten la superación de las enseñanzas mediante la adquisición de competencias clave o cualquier otro tipo de formación específica que facilite la inserción sociolaboral.
+5. Se podrán incluir, respetando el correspondiente currículo y la duración mínima de las enseñanzas, complementos formativos que se ajusten a las necesidades de cada sector productivo en el territorio o se adapten a ellas o a las del colectivo destinatario o faciliten la superación de las enseñanzas mediante la adquisición de competencias clave o cualquier otro tipo de formación específica que facilite la inserción sociolaboral.
 
 #### Artículo 24. Planificación, programación y coordinación de la oferta.
 
-1. Corresponderá a las administraciones con competencias en la materia planificar y programar, en sus respectivas esferas de actuación, la oferta de formación profesional sostenida con fondos públicos, adaptando y coordinando los procesos de planificación para lograr la construcción de una oferta integrada que preste la adecuada atención a las necesidades de cualificación de la población en su conjunto, garantizando una oferta pública suficiente y ajustada a las necesidades del territorio, así como la optimización y eficacia en el uso de los recursos públicos destinados a la formación profesional para contribuir a los fines establecidos en esta ley.
+1. Corresponderá a las administraciones con competencias en la materia planificar y programar, en sus respectivas esferas de actuación, la oferta de formación profesional sostenida con fondos públicos, adaptando y coordinando los procesos de planificación para lograr la construcción de una oferta integrada que preste la adecuada atención a las necesidades de cualificación de la población en su conjunto, garantizando una oferta pública suficiente y ajustada a las necesidades del territorio, así como la optimización y eficacia en el uso de los recursos públicos destinados a la formación profesional para contribuir a los fines establecidos en esta ley.
 
-2. La programación a que se refiere el apartado anterior deberá tener en cuenta las necesidades del modelo productivo y del mercado laboral, la realidad socioeconómica del territorio, las demandas de formación de la ciudadanía y de los agentes sociales y económicos, así como las perspectivas de desarrollo económico y social, los planes de desarrollo estratégico previstos, y las propuestas derivadas de la interlocución social en el marco del Sistema de Formación Profesional a nivel estatal y, en su caso, territorial, con la finalidad de realizar una oferta que responda a las necesidades de cualificación de las personas.
+2. La programación a que se refiere el apartado anterior deberá tener en cuenta las necesidades del modelo productivo y del mercado laboral, la realidad socioeconómica del territorio, las demandas de formación de la ciudadanía y de los agentes sociales y económicos, así como las perspectivas de desarrollo económico y social, los planes de desarrollo estratégico previstos, y las propuestas derivadas de la interlocución social en el marco del Sistema de Formación Profesional a nivel estatal y, en su caso, territorial, con la finalidad de realizar una oferta que responda a las necesidades de cualificación de las personas.
 
-3. En todo caso, la programación de las ofertas de formación profesional deberá:
+3. En todo caso, la programación de las ofertas de formación profesional deberá:
 
 a) Garantizar una oferta de formación profesional de Grado C o D de nivel 2 a los menores de 21 años que se hayan incorporado al mercado laboral, y que éstos puedan compatibilizar con su actividad laboral.
 
@@ -788,31 +789,31 @@ b) Promover itinerarios flexibles que permitan a quienes no cuenten con una titu
 
 #### Artículo 25. Destinatarios de ofertas de formación.
 
-1. Serán destinatarios de las ofertas de formación profesional:
+1. Serán destinatarios de las ofertas de formación profesional:
 
 a) Las personas a partir de los 15 años.
 
 b) La población adulta.
 
-2. Se promoverá la participación equilibrada de mujeres y hombres en todas las ofertas formativas para la eliminación de sesgos y estereotipos de género, con pleno respeto a la libertad de elección formativa de los estudiantes y de las familias. Con el fin de aumentar la presencia de alumnado en determinadas especialidades, y de corregir las situaciones de sobrerrepresentación de uno u otro sexo, las administraciones competentes podrán establecer acciones positivas específicas que las corrijan.
+2. Se promoverá la participación equilibrada de mujeres y hombres en todas las ofertas formativas para la eliminación de sesgos y estereotipos de género, con pleno respeto a la libertad de elección formativa de los estudiantes y de las familias. Con el fin de aumentar la presencia de alumnado en determinadas especialidades, y de corregir las situaciones de sobrerrepresentación de uno u otro sexo, las administraciones competentes podrán establecer acciones positivas específicas que las corrijan.
 
-3. Se incorporarán los ajustes razonables que garanticen el acceso, participación y logro de todas las personas independientemente de sus características y necesidades.
+3. Se incorporarán los ajustes razonables que garanticen el acceso, participación y logro de todas las personas independientemente de sus características y necesidades.
 
-4. En el caso de ofertas de Grado A, B y C, a las personas destinatarias que no cuenten con requisitos de acceso para continuar sus itinerarios de formación en el Sistema de Formación Profesional, se les facilitará, a la vez, y sin que ello impida el inicio de su formación en los mencionados Grados, la adquisición y posterior acreditación de las competencias básicas vinculadas a los requisitos académicos de acceso que permitan la consecución formal del grado que se cursa.
+4. En el caso de ofertas de Grado A, B y C, a las personas destinatarias que no cuenten con requisitos de acceso para continuar sus itinerarios de formación en el Sistema de Formación Profesional, se les facilitará, a la vez, y sin que ello impida el inicio de su formación en los mencionados Grados, la adquisición y posterior acreditación de las competencias básicas vinculadas a los requisitos académicos de acceso que permitan la consecución formal del grado que se cursa.
 
 #### Artículo 26. Evaluación.
 
-1. Las ofertas de formación profesional contarán con una evaluación que verifique la adquisición de los resultados de aprendizaje en las condiciones de calidad establecidas en los elementos básicos del currículo.
+1. Las ofertas de formación profesional contarán con una evaluación que verifique la adquisición de los resultados de aprendizaje en las condiciones de calidad establecidas en los elementos básicos del currículo.
 
-2. La evaluación respetará las necesidades de adaptación metodológica y de recursos de las personas con necesidades específicas de apoyo educativo o formativo.
+2. La evaluación respetará las necesidades de adaptación metodológica y de recursos de las personas con necesidades específicas de apoyo educativo o formativo.
 
-3. El sistema de evaluación de cualquier oferta incluida en el Sistema de Formación Profesional se adaptará a las diferentes metodologías de aprendizaje, y deberá basarse en la comprobación de los resultados de aprendizaje.
+3. El sistema de evaluación de cualquier oferta incluida en el Sistema de Formación Profesional se adaptará a las diferentes metodologías de aprendizaje, y deberá basarse en la comprobación de los resultados de aprendizaje.
 
-4. En el caso de ofertas dirigidas a la población activa, el sistema de evaluación de las mismas tendrá en consideración las características propias de estas personas y el carácter práctico de esta formación.
+4. En el caso de ofertas dirigidas a la población activa, el sistema de evaluación de las mismas tendrá en consideración las características propias de estas personas y el carácter práctico de esta formación.
 
 #### Artículo 27. Títulos, certificados y acreditaciones.
 
-1. Los títulos, certificados y acreditaciones correspondientes a las formaciones reguladas por esta ley:
+1. Los títulos, certificados y acreditaciones correspondientes a las formaciones reguladas por esta ley:
 
 a) Serán homologados por la Administración General del Estado y expedidos por esta o las demás administraciones competentes en la materia en las condiciones que al efecto se establezcan, siempre que incluyan, al menos, un resultado de aprendizaje vinculado a un elemento de competencia y estén recogidas en el Catálogo Nacional de Ofertas de Formación Profesional.
 
@@ -820,13 +821,13 @@ b) Acreditarán, a quienes los obtengan, los estándares o elementos de competen
 
 c) Desplegarán los efectos que les correspondan con arreglo a la normativa de la Unión Europea relativa al sistema general de reconocimiento de la formación profesional en los Estados miembros y los Estados signatarios del Acuerdo sobre el Espacio Económico Europeo.
 
-2. Quienes no superen en su totalidad cualquier oferta formativa de formación profesional recibirán una certificación de los módulos profesionales y, en su caso, ámbitos o materias superados, donde figuren los estándares de competencia o elementos de competencia adquiridos, que tendrá efectos acumulativos en el sistema escalonado de formación profesional. Esta certificación dará derecho a la expedición por la administración competente de los certificados o acreditaciones profesionales correspondientes del Sistema de Formación Profesional.
+2. Quienes no superen en su totalidad cualquier oferta formativa de formación profesional recibirán una certificación de los módulos profesionales y, en su caso, ámbitos o materias superados, donde figuren los estándares de competencia o elementos de competencia adquiridos, que tendrá efectos acumulativos en el sistema escalonado de formación profesional. Esta certificación dará derecho a la expedición por la administración competente de los certificados o acreditaciones profesionales correspondientes del Sistema de Formación Profesional.
 
 ## Capítulo II. Tipología de ofertas y grados de formación.
 
 #### Artículo 28. Tipología de ofertas.
 
-1. La tipología de las ofertas del Sistema de Formación Profesional está organizada, de manera secuencial, en los siguientes grados:
+1. La tipología de las ofertas del Sistema de Formación Profesional está organizada, de manera secuencial, en los siguientes grados:
 
 a) **Grado A.** Acreditación parcial de competencia.
 
@@ -838,77 +839,77 @@ d) **Grado D.** Ciclo formativo.
 
 e) **Grado E.** Curso de especialización.
 
-2. En cada uno de los Grados existirán ofertas vinculadas a los niveles 1, 2 y 3 del Catálogo Nacional de Estándares de Competencias Profesionales.
+2. En cada uno de los Grados existirán ofertas vinculadas a los niveles 1, 2 y 3 del Catálogo Nacional de Estándares de Competencias Profesionales.
 
 #### Sección 1. ª Grado A. Acreditación parcial de competencia
 
 #### Artículo 29. Oferta de Grado A.
 
-1. El Grado A constituye la oferta de base del Sistema de Formación Profesional, tiene carácter parcial y acumulable y conduce a la obtención de una acreditación parcial de competencia.
+1. El Grado A constituye la oferta de base del Sistema de Formación Profesional, tiene carácter parcial y acumulable y conduce a la obtención de una acreditación parcial de competencia.
 
-2. La acreditación parcial de competencia podrá incluir uno o varios elementos de competencia de un módulo profesional contemplado en el Catálogo Modular de Formación Profesional y vinculado al Catálogo Nacional de Estándares de Competencias Profesionales.
+2. La acreditación parcial de competencia podrá incluir uno o varios elementos de competencia de un módulo profesional contemplado en el Catálogo Modular de Formación Profesional y vinculado al Catálogo Nacional de Estándares de Competencias Profesionales.
 
-3. Cuando la oferta de Grado A esté referida a un único elemento de competencia, la administración competente garantizará la oferta complementaria del resto de elementos de competencia que completen el estándar de competencia.
+3. Cuando la oferta de Grado A esté referida a un único elemento de competencia, la administración competente garantizará la oferta complementaria del resto de elementos de competencia que completen el estándar de competencia.
 
 #### Artículo 30. Estructura, duración y acceso.
 
-1. La estructura y duración de cada oferta formativa de Grado A se establecerá teniendo en cuenta la carga horaria de la formación que correspondiera al resultado o resultados de aprendizaje del módulo profesional correspondiente, según el currículo aprobado por la administración competente.
+1. La estructura y duración de cada oferta formativa de Grado A se establecerá teniendo en cuenta la carga horaria de la formación que correspondiera al resultado o resultados de aprendizaje del módulo profesional correspondiente, según el currículo aprobado por la administración competente.
 
-2. Atendiendo a criterios de significación en el mercado laboral y en el marco de los resultados de aprendizaje propios de los módulos profesionales en vigor, las administraciones podrán proponer y aprobar formaciones de Grado A conducentes a acreditaciones parciales de competencias diferentes de las previstas con carácter general, con el fin de atender a perfiles profesionales específicos.
+2. Atendiendo a criterios de significación en el mercado laboral y en el marco de los resultados de aprendizaje propios de los módulos profesionales en vigor, las administraciones podrán proponer y aprobar formaciones de Grado A conducentes a acreditaciones parciales de competencias diferentes de las previstas con carácter general, con el fin de atender a perfiles profesionales específicos.
 
-3. A efectos de acceso a formaciones de Grado A, no se exigen requisitos académicos ni profesionales, aunque se han de poseer las habilidades de comunicación lingüística suficientes que permitan el aprendizaje, así como las competencias básicas necesarias para cursar con aprovechamiento esta formación, en función del nivel 1, 2 o 3 del estándar de competencia profesional al que esté asociado el o los resultados de aprendizaje.
+3. A efectos de acceso a formaciones de Grado A, no se exigen requisitos académicos ni profesionales, aunque se han de poseer las habilidades de comunicación lingüística suficientes que permitan el aprendizaje, así como las competencias básicas necesarias para cursar con aprovechamiento esta formación, en función del nivel 1, 2 o 3 del estándar de competencia profesional al que esté asociado el o los resultados de aprendizaje.
 
 #### Artículo 31. Acreditación.
 
-1. La superación de una formación de Grado A supondrá la obtención de una acreditación parcial de competencia con validez en todo el territorio nacional.
+1. La superación de una formación de Grado A supondrá la obtención de una acreditación parcial de competencia con validez en todo el territorio nacional.
 
-2. La consecución de todas las acreditaciones parciales de competencia correspondientes a un estándar de competencia profesional implicará la superación del Grado B de formación y la obtención del correspondiente certificado de competencia profesional con validez en todo el territorio nacional.
+2. La consecución de todas las acreditaciones parciales de competencia correspondientes a un estándar de competencia profesional implicará la superación del Grado B de formación y la obtención del correspondiente certificado de competencia profesional con validez en todo el territorio nacional.
 
-3. Estas acreditaciones serán otorgadas por la administración competente y surtirán efecto desde su inscripción en el Registro Estatal de Formación Profesional.
+3. Estas acreditaciones serán otorgadas por la administración competente y surtirán efecto desde su inscripción en el Registro Estatal de Formación Profesional.
 
 #### Sección 2. ª Grado B. Certificado de Competencia
 
 #### Artículo 32. Oferta de Grado B.
 
-1. El Grado B constituye el objeto de la oferta de carácter parcial y acumulable del Sistema de Formación Profesional referida a un módulo profesional incluido en el Catálogo Modular de Formación Profesional y conduce a la obtención de un Certificado de Competencia.
+1. El Grado B constituye el objeto de la oferta de carácter parcial y acumulable del Sistema de Formación Profesional referida a un módulo profesional incluido en el Catálogo Modular de Formación Profesional y conduce a la obtención de un Certificado de Competencia.
 
-2. El Grado B de formación profesional podrá obtenerse bien por superación de esta formación, bien por acumulación de todas las acreditaciones parciales de competencia de Grado A incluidas en aquella formación que completen el correspondiente módulo profesional.
+2. El Grado B de formación profesional podrá obtenerse bien por superación de esta formación, bien por acumulación de todas las acreditaciones parciales de competencia de Grado A incluidas en aquella formación que completen el correspondiente módulo profesional.
 
 #### Artículo 33. Estructura, duración y acceso.
 
-1. La estructura y duración de cada oferta formativa de Grado B se establecerá teniendo en cuenta la carga horaria del módulo profesional correspondiente, según el currículo aprobado por la administración competente.
+1. La estructura y duración de cada oferta formativa de Grado B se establecerá teniendo en cuenta la carga horaria del módulo profesional correspondiente, según el currículo aprobado por la administración competente.
 
-2. A efectos de acceso a formaciones de Grado B, no se exigen requisitos académicos ni profesionales, aunque se han de poseer las habilidades de comunicación lingüística suficientes que permitan el aprendizaje, así como las competencias previas necesarias para cursar con aprovechamiento esta formación, en función del nivel 1, 2 o 3 del estándar de competencia profesional al que esté asociada.
+2. A efectos de acceso a formaciones de Grado B, no se exigen requisitos académicos ni profesionales, aunque se han de poseer las habilidades de comunicación lingüística suficientes que permitan el aprendizaje, así como las competencias previas necesarias para cursar con aprovechamiento esta formación, en función del nivel 1, 2 o 3 del estándar de competencia profesional al que esté asociada.
 
 #### Artículo 34. Certificación y validez.
 
-1. La superación de una formación de Grado B o la disposición de todas las acreditaciones parciales de competencia correspondientes al pertinente módulo profesional dará derecho a la expedición de un Certificado de Competencia, que deberá detallar el módulo profesional superado y el estándar de competencia profesional asociado a él e incluido en el Catálogo Nacional de Estándares de Competencias Profesionales y su correspondencia con el Marco Español de Cualificaciones.
+1. La superación de una formación de Grado B o la disposición de todas las acreditaciones parciales de competencia correspondientes al pertinente módulo profesional dará derecho a la expedición de un Certificado de Competencia, que deberá detallar el módulo profesional superado y el estándar de competencia profesional asociado a él e incluido en el Catálogo Nacional de Estándares de Competencias Profesionales y su correspondencia con el Marco Español de Cualificaciones.
 
-2. Los certificados de competencia serán otorgados por la administración competente e inscritos en el Registro Estatal de Formación Profesional y tendrán validez en todo el territorio nacional.
+2. Los certificados de competencia serán otorgados por la administración competente e inscritos en el Registro Estatal de Formación Profesional y tendrán validez en todo el territorio nacional.
 
 #### Sección 3. ª Grado C. Certificado Profesional
 
 #### Artículo 35. Oferta de Grado C.
 
-1. El Grado C constituye la oferta, parcial y acumulable del Sistema de Formación Profesional, de varios módulos profesionales del Catálogo Modular de Formación Profesional por razón de su significación en el mercado laboral y conduce a la obtención de un Certificado Profesional.
+1. El Grado C constituye la oferta, parcial y acumulable del Sistema de Formación Profesional, de varios módulos profesionales del Catálogo Modular de Formación Profesional por razón de su significación en el mercado laboral y conduce a la obtención de un Certificado Profesional.
 
-2. El Grado C de formación profesional podrá obtenerse bien por superación de esta formación, bien por acumulación de Certificados de Competencia de Grado B que completen la totalidad de los módulos profesionales incluidos en aquélla.
+2. El Grado C de formación profesional podrá obtenerse bien por superación de esta formación, bien por acumulación de Certificados de Competencia de Grado B que completen la totalidad de los módulos profesionales incluidos en aquélla.
 
-3. Las ofertas de Grado C deberán tener por objeto módulos profesionales incluidos previamente en el Catálogo Modular de Formación Profesional y asociados al Catálogo de Estándares de Competencias Profesionales.
+3. Las ofertas de Grado C deberán tener por objeto módulos profesionales incluidos previamente en el Catálogo Modular de Formación Profesional y asociados al Catálogo de Estándares de Competencias Profesionales.
 
 #### Artículo 36. Formaciones de certificación profesional.
 
-1. Reglamentariamente se determinarán las formaciones de Grado C conducentes a un Certificado Profesional, atendiendo a criterios de significación en el mercado laboral y quedarán incluidas en el Catálogo Nacional de Ofertas de Formación Profesional.
+1. Reglamentariamente se determinarán las formaciones de Grado C conducentes a un Certificado Profesional, atendiendo a criterios de significación en el mercado laboral y quedarán incluidas en el Catálogo Nacional de Ofertas de Formación Profesional.
 
-2. Con el fin de flexibilizar la oferta de formación profesional, las administraciones competentes podrán proponer cursos de Grado C diferentes a los previstos en el Catálogo Nacional de Ofertas de Formación Profesional para atender a perfiles profesionales específicos de su territorio, siempre en el marco de los módulos profesionales vigentes recogidos en el Catálogo Modular de Formación Profesional. Los cursos así diseñados tendrán validez exclusivamente en el ámbito territorial de la correspondiente administración responsable y sólo podrán dar lugar a un Certificado Profesional una vez incorporados, tras su comunicación y aprobación, al Catálogo Nacional de Ofertas de Formación Profesional.
+2. Con el fin de flexibilizar la oferta de formación profesional, las administraciones competentes podrán proponer cursos de Grado C diferentes a los previstos en el Catálogo Nacional de Ofertas de Formación Profesional para atender a perfiles profesionales específicos de su territorio, siempre en el marco de los módulos profesionales vigentes recogidos en el Catálogo Modular de Formación Profesional. Los cursos así diseñados tendrán validez exclusivamente en el ámbito territorial de la correspondiente administración responsable y sólo podrán dar lugar a un Certificado Profesional una vez incorporados, tras su comunicación y aprobación, al Catálogo Nacional de Ofertas de Formación Profesional.
 
 #### Artículo 37. Estructura, duración y acceso.
 
-1. La estructura y duración de cada oferta formativa de Grado C serán las que resulten del currículo aprobado por la administración competente, teniendo en cuenta el diseño de los módulos profesionales integrados en cada oferta y la carga horaria definida en el Catálogo Modular de Formación Profesional.
+1. La estructura y duración de cada oferta formativa de Grado C serán las que resulten del currículo aprobado por la administración competente, teniendo en cuenta el diseño de los módulos profesionales integrados en cada oferta y la carga horaria definida en el Catálogo Modular de Formación Profesional.
 
-2. El diseño de un curso de Grado C deberá incluir la realización de un periodo de formación en empresa u organismo equiparado, de acuerdo con lo establecido en el Título III de la presente ley. Podrán quedar exentos de este periodo en empresa quienes acrediten una experiencia laboral que se corresponda con la formación cursada. Reglamentariamente se regulará esta fase y la mencionada exención.
+2. El diseño de un curso de Grado C deberá incluir la realización de un periodo de formación en empresa u organismo equiparado, de acuerdo con lo establecido en el Título III de la presente ley. Podrán quedar exentos de este periodo en empresa quienes acrediten una experiencia laboral que se corresponda con la formación cursada. Reglamentariamente se regulará esta fase y la mencionada exención.
 
-3. A los efectos de acceso a formaciones de Grado C, deberán cumplirse alguno de los siguientes requisitos, en función del nivel 1, 2 o 3 de los estándares de competencia profesional a los que esté asociada:
+3. A los efectos de acceso a formaciones de Grado C, deberán cumplirse alguno de los siguientes requisitos, en función del nivel 1, 2 o 3 de los estándares de competencia profesional a los que esté asociada:
 
 a) Para el Grado C de nivel 1 no se exigen requisitos académicos ni profesionales, aunque se han de poseer las habilidades de comunicación lingüística suficientes que permitan el aprendizaje. En el caso de requerir competencias básicas previas, la oferta podrá incorporar complementos de formación a tal fin.
 
@@ -916,33 +917,33 @@ b) Para el Grado C de nivel 2 se requiere el Graduado en Educación Secundaria O
 
 c) Para el Grado C de nivel 3 se requiere el título de Técnico, de Bachiller o equivalente a efectos de acceso, un Certificado Profesional de nivel 3, un Certificado de Competencia incluido en la oferta a realizar, o un Certificado Profesional de nivel 2 de la misma familia profesional.
 
-4. Las administraciones competentes realizarán pruebas de acceso individuales para aquellas personas que no reúnan los requisitos del apartado anterior, y que permitan comprobar que se dispone de las competencias básicas necesarias para el aprovechamiento de la formación.
+4. Las administraciones competentes realizarán pruebas de acceso individuales para aquellas personas que no reúnan los requisitos del apartado anterior, y que permitan comprobar que se dispone de las competencias básicas necesarias para el aprovechamiento de la formación.
 
 #### Artículo 38. Titulación y validez.
 
-1. La superación de una formación de Grado C o la disposición de los Certificados de Competencia de Grado B que incluyan todos los módulos profesionales recogidos en dicha formación dará derecho a la expedición de un Certificado Profesional, en el que deberá detallarse los módulos profesionales superados y los estándares de competencia correspondientes según el Catálogo Nacional de Estándares de Competencias Profesionales.
+1. La superación de una formación de Grado C o la disposición de los Certificados de Competencia de Grado B que incluyan todos los módulos profesionales recogidos en dicha formación dará derecho a la expedición de un Certificado Profesional, en el que deberá detallarse los módulos profesionales superados y los estándares de competencia correspondientes según el Catálogo Nacional de Estándares de Competencias Profesionales.
 
-2. Los Certificados Profesionales serán otorgados por la administración competente, inscritos en el Registro Estatal de Formación Profesional y tendrán carácter oficial y validez en todo el territorio nacional.
+2. Los Certificados Profesionales serán otorgados por la administración competente, inscritos en el Registro Estatal de Formación Profesional y tendrán carácter oficial y validez en todo el territorio nacional.
 
-3. Las credenciales expedidas por las administraciones competentes por la superación de ofertas de formación de Grado C no incluidas en el Catálogo Nacional de Ofertas de Formación Profesional, tendrán validez autonómica. En este caso, podrán emitirse e incorporarse al Registro Estatal de Formación Profesional los Certificados de Competencia de Grado B incluidos en dichos cursos de Grado C.
+3. Las credenciales expedidas por las administraciones competentes por la superación de ofertas de formación de Grado C no incluidas en el Catálogo Nacional de Ofertas de Formación Profesional, tendrán validez autonómica. En este caso, podrán emitirse e incorporarse al Registro Estatal de Formación Profesional los Certificados de Competencia de Grado B incluidos en dichos cursos de Grado C.
 
 #### Sección 4. ª Grado D. Ciclos formativos de formación profesional
 
 #### Artículo 39. Reglas generales.
 
-1. El Grado D del Sistema de Formación Profesional se corresponde con los ciclos formativos de formación profesional que forman parte del sistema educativo español en los términos establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, debiendo contribuir, además de a los objetivos del Sistema de Formación Profesional, a los previstos para este tipo de enseñanzas en dicha ley orgánica para cada uno de los grados básico, medio y superior.
+1. El Grado D del Sistema de Formación Profesional se corresponde con los ciclos formativos de formación profesional que forman parte del sistema educativo español en los términos establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, debiendo contribuir, además de a los objetivos del Sistema de Formación Profesional, a los previstos para este tipo de enseñanzas en dicha ley orgánica para cada uno de los grados básico, medio y superior.
 
-2. Los ciclos formativos de formación profesional:
+2. Los ciclos formativos de formación profesional:
 
 a) Deberán tener carácter modular y estar referidos al Catálogo Nacional de Estándares de Competencias Profesionales y al Catálogo Modular de Formación Profesional.
 
 b) En los grados medio y superior, y en el grado básico en los supuestos y las condiciones que se determinen, incluir una fase de formación en empresa u organismo equiparado, de la que podrán quedar exentos quienes acrediten una experiencia laboral que se corresponda con los estudios profesionales cursados. Reglamentariamente se regulará esta fase y la mencionada exención.
 
-3. Podrán efectuarse ofertas de Grado D basadas en dobles titulaciones de formación profesional del Catálogo Nacional, así como en dobles titulaciones internacionales, en los términos que reglamentariamente se establezcan.
+3. Podrán efectuarse ofertas de Grado D basadas en dobles titulaciones de formación profesional del Catálogo Nacional, así como en dobles titulaciones internacionales, en los términos que reglamentariamente se establezcan.
 
 #### Artículo 40. Organización y estructura.
 
-1. Los ciclos formativos tendrán una organización modular, que integre los resultados de aprendizaje adecuados a los diversos campos profesionales e incluya:
+1. Los ciclos formativos tendrán una organización modular, que integre los resultados de aprendizaje adecuados a los diversos campos profesionales e incluya:
 
 a) Módulos profesionales asociados, cada uno de ellos, a un estándar de competencia profesional o, excepcionalmente, a varios.
 
@@ -952,13 +953,13 @@ c) Módulos específicos, vinculados a la optatividad en grado medio y superior.
 
 d) Proyecto intermodular.
 
-2. La duración de los ciclos formativos podrá ser variable. No obstante, la de los ciclos de grado básico será de 2 cursos académicos, y la de los de grado medio y superior podrá variar, en su caso, entre 2 o 3 cursos académicos, de acuerdo con el currículo básico que se establezca para cada ciclo formativo.
+2. La duración de los ciclos formativos podrá ser variable. No obstante, la de los ciclos de grado básico será de 2 cursos académicos, y la de los de grado medio y superior podrá variar, en su caso, entre 2 o 3 cursos académicos, de acuerdo con el currículo básico que se establezca para cada ciclo formativo.
 
-3. Todos los ciclos formativos se desarrollarán, con carácter dual, entre el centro de formación y la empresa, incluyendo una fase de formación en empresa, de acuerdo con lo establecido en el Título III de la presente ley.
+3. Todos los ciclos formativos se desarrollarán, con carácter dual, entre el centro de formación y la empresa, incluyendo una fase de formación en empresa, de acuerdo con lo establecido en el Título III de la presente ley.
 
-4. Reglamentariamente podrá preverse ofertas de Grado D basadas en dobles titulaciones del Catálogo Nacional de Ofertas de Formación Profesional.
+4. Reglamentariamente podrá preverse ofertas de Grado D basadas en dobles titulaciones del Catálogo Nacional de Ofertas de Formación Profesional.
 
-5. Los y las estudiantes podrán permanecer cursando un ciclo formativo, con carácter general, durante un tiempo máximo que no supere el doble de los cursos asignados al ciclo.
+5. Los y las estudiantes podrán permanecer cursando un ciclo formativo, con carácter general, durante un tiempo máximo que no supere el doble de los cursos asignados al ciclo.
 
 Cuando sus circunstancias personales así lo aconsejen, los y las estudiantes podrán beneficiarse, tras autorización de la administración educativa:
 
@@ -968,37 +969,37 @@ b) De adaptaciones del currículo basadas en medidas de flexibilización y alter
 
 #### Artículo 41. Proyecto intermodular.
 
-1. El proyecto intermodular tendrá carácter integrador de los conocimientos incorporados en los módulos profesionales que configuran el ciclo formativo, con especial atención a los elementos de búsqueda de información, innovación, investigación aplicada y emprendimiento, vinculados a los resultados de aprendizaje de aquél. Existirá un seguimiento y tutorización individual y colectiva del proyecto, que se desarrollará de forma simultánea al resto de los módulos profesionales a lo largo de la duración del ciclo formativo.
+1. El proyecto intermodular tendrá carácter integrador de los conocimientos incorporados en los módulos profesionales que configuran el ciclo formativo, con especial atención a los elementos de búsqueda de información, innovación, investigación aplicada y emprendimiento, vinculados a los resultados de aprendizaje de aquél. Existirá un seguimiento y tutorización individual y colectiva del proyecto, que se desarrollará de forma simultánea al resto de los módulos profesionales a lo largo de la duración del ciclo formativo.
 
-2. En el caso de los ciclos formativos de grado básico, se tratará de un único proyecto colaborativo para toda la duración del ciclo formativo.
+2. En el caso de los ciclos formativos de grado básico, se tratará de un único proyecto colaborativo para toda la duración del ciclo formativo.
 
-3. En el caso de los ciclos formativos de grado medio y superior, el proyecto intermodular podrá tener carácter anual o bienal, con una duración mínima de 25 horas en cada curso y deberá defenderse ante el equipo docente, al que, en su caso, podrá incorporarse el tutor o tutora de empresa.
+3. En el caso de los ciclos formativos de grado medio y superior, el proyecto intermodular podrá tener carácter anual o bienal, con una duración mínima de 25 horas en cada curso y deberá defenderse ante el equipo docente, al que, en su caso, podrá incorporarse el tutor o tutora de empresa.
 
-4. No obstante lo dispuesto en los apartados anteriores, todo el currículo podrá organizarse en proyectos intermodulares, a través de diferentes metodologías, por decisión del equipo docente, respetando siempre todos los resultados de aprendizaje incluidos en el ciclo formativo.
+4. No obstante lo dispuesto en los apartados anteriores, todo el currículo podrá organizarse en proyectos intermodulares, a través de diferentes metodologías, por decisión del equipo docente, respetando siempre todos los resultados de aprendizaje incluidos en el ciclo formativo.
 
 #### Artículo 42. Organización de la oferta.
 
-1. Corresponderá a las administraciones educativas, en el ámbito de sus competencias, la programación de la oferta de ciclos formativos sostenidos con fondos públicos, que deberá mantener el principio de complementariedad con el resto de la oferta de otros Grados del Sistema de Formación Profesional en el territorio.
+1. Corresponderá a las administraciones educativas, en el ámbito de sus competencias, la programación de la oferta de ciclos formativos sostenidos con fondos públicos, que deberá mantener el principio de complementariedad con el resto de la oferta de otros Grados del Sistema de Formación Profesional en el territorio.
 
-2. Podrán realizarse ofertas de dobles titulaciones del Catálogo Nacional de Ofertas de Formación Profesional, siempre que se respete la duración, los módulos profesionales y el porcentaje de optatividad de cada uno de los ciclos formativos.
+2. Podrán realizarse ofertas de dobles titulaciones del Catálogo Nacional de Ofertas de Formación Profesional, siempre que se respete la duración, los módulos profesionales y el porcentaje de optatividad de cada uno de los ciclos formativos.
 
-3. Podrán autorizarse organizaciones específicas de los ciclos formativos en los centros de formación profesional, que concentren la carga lectiva en periodos concretos semanales o mensuales, siempre que quede garantizada la viabilidad y la calidad de las enseñanzas.
+3. Podrán autorizarse organizaciones específicas de los ciclos formativos en los centros de formación profesional, que concentren la carga lectiva en periodos concretos semanales o mensuales, siempre que quede garantizada la viabilidad y la calidad de las enseñanzas.
 
 #### Artículo 43. Relación con los niveles del sistema educativo.
 
 Los ciclos formativos y cursos de especialización estarán referenciados al nivel que les corresponda en las clasificaciones internacionales educativas vigentes a las que España esté adherida. Tendrán la condición de:
 
-1. Educación básica, en calidad de educación secundaria obligatoria, los de grado básico.
+1. Educación básica, en calidad de educación secundaria obligatoria, los de grado básico.
 
-2. Educación secundaria postobligatoria, los de grado medio y cursos de especialización grado medio.
+2. Educación secundaria postobligatoria, los de grado medio y cursos de especialización grado medio.
 
-3. Educación superior, los de grado superior y cursos de especialización grado superior.
+3. Educación superior, los de grado superior y cursos de especialización grado superior.
 
 #### Artículo 44. Ciclos formativos de grado básico.
 
-1. Son ciclos formativos de grado básico, con carácter general, los vinculados a estándares de competencia de nivel 1 del Catálogo Nacional de Estándares de Competencias Profesionales.
+1. Son ciclos formativos de grado básico, con carácter general, los vinculados a estándares de competencia de nivel 1 del Catálogo Nacional de Estándares de Competencias Profesionales.
 
-2. Conforme a la Ley Orgánica 2/2006, de 3 de mayo, de Educación, los ciclos formativos de grado básico constarán de tres ámbitos y el proyecto siguientes:
+2. Conforme a la Ley Orgánica 2/2006, de 3 de mayo, de Educación, los ciclos formativos de grado básico constarán de tres ámbitos y el proyecto siguientes:
 
 a) Ámbito de Comunicación y Ciencias Sociales, que incluirá las siguientes materias: 1.º Lengua castellana. 2.º Lengua extranjera de iniciación profesional. 3.º Ciencias sociales. 4.º En su caso, lengua cooficial.
 
@@ -1010,33 +1011,33 @@ d) Proyecto anual de aprendizaje colaborativo vinculado a los tres ámbitos ante
 
 Estos ciclos podrán incluir, además, otros complementos de formación que contribuyan al desarrollo de las competencias de la educación secundaria obligatoria.
 
-3. Para el acceso a los ciclos formativos de grado básico regirán los requisitos establecidos en el artículo 41.1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+3. Para el acceso a los ciclos formativos de grado básico regirán los requisitos establecidos en el artículo 41.1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
 Excepcionalmente, no regirán los requisitos de acceso vinculados a la escolarización para jóvenes entre 15 y 18 años que no hayan estado escolarizados en el sistema educativo español y cuyo itinerario educativo aconseje su incorporación a un ciclo formativo de grado básico como el itinerario más adecuado y en las condiciones que reglamentariamente se determinen.
 
-4. No obstante lo dispuesto en el apartado anterior, podrán autorizarse excepcionalmente ciclos formativos de grado básico específicos para:
+4. No obstante lo dispuesto en el apartado anterior, podrán autorizarse excepcionalmente ciclos formativos de grado básico específicos para:
 
 a) Quienes hayan cumplido al menos 17 años, cuando su historia escolar así lo aconseje.
 
 b) Jóvenes de hasta 21 años de edad con necesidades educativas especiales, una vez agotadas las medidas de adaptación en la oferta ordinaria, o cuando no sea posible su inclusión en dicha oferta ordinaria y sus necesidades no puedan ser atendidas en el marco de las medidas de inclusión y atención a la diversidad.
 
-5. Los criterios pedagógicos con los que se desarrollarán los programas formativos de estos ciclos se adaptarán a las características específicas del alumnado, adoptando preferentemente una organización del currículo por proyectos de aprendizaje colaborativo desde una perspectiva aplicada, y fomentarán el desarrollo de habilidades sociales y emocionales, el trabajo en equipo y la utilización de las tecnologías de la información y la comunicación. Se proporcionarán los apoyos necesarios para remover las barreras de aprendizaje, de acceso a la información y a la comunicación y garantizar la igualdad de oportunidades.
+5. Los criterios pedagógicos con los que se desarrollarán los programas formativos de estos ciclos se adaptarán a las características específicas del alumnado, adoptando preferentemente una organización del currículo por proyectos de aprendizaje colaborativo desde una perspectiva aplicada, y fomentarán el desarrollo de habilidades sociales y emocionales, el trabajo en equipo y la utilización de las tecnologías de la información y la comunicación. Se proporcionarán los apoyos necesarios para remover las barreras de aprendizaje, de acceso a la información y a la comunicación y garantizar la igualdad de oportunidades.
 
 Asimismo, la tutoría y la orientación profesional tendrán una especial consideración, realizando un acompañamiento socioeducativo personalizado.
 
-6. La evaluación del aprendizaje del alumnado deberá efectuarse de forma continua, formativa e integradora y realizarse por ámbitos y proyectos, teniendo en cuenta la globalidad del ciclo desde la perspectiva de las nuevas metodologías de aprendizaje.
+6. La evaluación del aprendizaje del alumnado deberá efectuarse de forma continua, formativa e integradora y realizarse por ámbitos y proyectos, teniendo en cuenta la globalidad del ciclo desde la perspectiva de las nuevas metodologías de aprendizaje.
 
-7. Se establecerán las medidas más adecuadas para que las condiciones de realización de los procesos asociados a la evaluación se adapten a las necesidades de cada persona en formación con necesidad específica de apoyo educativo.
+7. Se establecerán las medidas más adecuadas para que las condiciones de realización de los procesos asociados a la evaluación se adapten a las necesidades de cada persona en formación con necesidad específica de apoyo educativo.
 
-8. Se promoverán el apoyo, la colaboración y participación de los agentes sociales del entorno, instituciones y entidades, especialmente las Corporaciones locales, las asociaciones profesionales, las organizaciones no gubernamentales y centros de segunda oportunidad, y otras entidades empresariales y sindicales, para la oferta de ciclos formativos de grado básico.
+8. Se promoverán el apoyo, la colaboración y participación de los agentes sociales del entorno, instituciones y entidades, especialmente las Corporaciones locales, las asociaciones profesionales, las organizaciones no gubernamentales y centros de segunda oportunidad, y otras entidades empresariales y sindicales, para la oferta de ciclos formativos de grado básico.
 
-9. La superación de un ciclo formativo de grado básico requerirá la evaluación positiva colegiada respecto a la adquisición de las competencias básicas y profesionales.
+9. La superación de un ciclo formativo de grado básico requerirá la evaluación positiva colegiada respecto a la adquisición de las competencias básicas y profesionales.
 
 #### Artículo 45. Ciclos formativos de grado medio y grado superior.
 
-1. Los ciclos formativos de grado medio y de grado superior estarán vinculados, con carácter general, a estándares de competencia de nivel 2 y 3 respectivamente del Catálogo Nacional de Estándares de Competencias Profesionales.
+1. Los ciclos formativos de grado medio y de grado superior estarán vinculados, con carácter general, a estándares de competencia de nivel 2 y 3 respectivamente del Catálogo Nacional de Estándares de Competencias Profesionales.
 
-2. Los ciclos de grado medio y superior tendrán estructura modular y constarán de:
+2. Los ciclos de grado medio y superior tendrán estructura modular y constarán de:
 
 a) Una parte troncal obligatoria, determinante de la entidad del ciclo y que garantice la competencia general correspondiente, integrada por:
 
@@ -1050,19 +1051,19 @@ b) Una parte de optatividad integrada por módulos profesionales que doten de ma
 
 Las administraciones competentes determinarán, en su caso, módulos profesionales optativos que profundicen en mayor grado en el desarrollo de las competencias transversales tales como, entre otras, profundización en digitalización aplicada al sector, profundización en iniciativa empresarial y emprendimiento, lenguas extranjeras y profundización en desarrollo sostenible aplicado al sector, o que aporten los complementos de formación general para facilitar el seguimiento del itinerario formativo individual tales como, entre otras, ampliación de conocimientos humanísticos, ampliación de conocimientos científicos-técnicos, o habilidades sociales.
 
-3. Las administraciones educativas podrán:
+3. Las administraciones educativas podrán:
 
 a) Incorporar, respetando el currículo básico, módulos complementarios de carácter optativo vinculados a la profundización en las competencias propias del ciclo formativo o a la adquisición de competencias adicionales que, complementando la formación, permitan adquirir un perfil profesional más amplio, bien durante el periodo de formación realizada en el centro, bien en la empresa. La duración de la formación podrá, en este caso, ampliarse en el marco de lo previsto en la normativa básica. Estas ampliaciones curriculares no modifican el título y sólo podrán dar lugar a su certificación complementaria por la administración competente. Cuando se proponga y apruebe su incorporación al Catálogo Nacional de Ofertas de Formación Profesional, tendrán validez en todo el territorio nacional.
 
 b) Autorizar, a propuesta de los centros de formación profesional y en el contexto de acuerdos de éstos con las universidades, módulos optativos diseñados conjuntamente, que faciliten la progresión de los itinerarios formativos de aquellos estudiantes que quieran acceder desde la formación profesional a estudios universitarios.
 
-4. En el marco de los elementos básicos del currículo de cada título y de la organización modular de los ciclos formativos de formación profesional, las administraciones educativas promoverán la flexibilidad y la especialización de su oferta formativa con el objetivo de promover la innovación y la empleabilidad.
+4. En el marco de los elementos básicos del currículo de cada título y de la organización modular de los ciclos formativos de formación profesional, las administraciones educativas promoverán la flexibilidad y la especialización de su oferta formativa con el objetivo de promover la innovación y la empleabilidad.
 
 #### Artículo 46. Acceso a los ciclos de grado medio y superior.
 
-1. Podrán acceder a los ciclos de grado medio y superior quienes reúnan los requisitos exigidos en el artículo 41 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, o quienes cuenten con un Certificado Profesional contenido en el ciclo formativo.
+1. Podrán acceder a los ciclos de grado medio y superior quienes reúnan los requisitos exigidos en el artículo 41 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, o quienes cuenten con un Certificado Profesional contenido en el ciclo formativo.
 
-2. Las administraciones educativas deberán:
+2. Las administraciones educativas deberán:
 
 a) Convocar anualmente pruebas de acceso a todos los ciclos formativos que se oferten para aquellas personas que no cumplan los requisitos de acceso.
 
@@ -1080,11 +1081,11 @@ La superación de la totalidad o de parte de estos cursos dependientes de las ad
 
 #### Artículo 47. Itinerarios formativos de los ciclos de grado medio y superior.
 
-1. Los itinerarios formativos se ajustarán a los requisitos establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+1. Los itinerarios formativos se ajustarán a los requisitos establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
-2. El título de Técnico de Formación Profesional permitirá el acceso a los ciclos formativos de grado superior de la formación profesional y de las enseñanzas profesionales de artes plásticas y diseño, sin perjuicio de la superación de la prueba específica que para estas enseñanzas establece la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+2. El título de Técnico de Formación Profesional permitirá el acceso a los ciclos formativos de grado superior de la formación profesional y de las enseñanzas profesionales de artes plásticas y diseño, sin perjuicio de la superación de la prueba específica que para estas enseñanzas establece la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
-3. Se entenderá, a los efectos de la presente ley, la equivalencia genérica regulada con el título de Técnico y Técnico Superior de las titulaciones de Técnico auxiliar y Técnico especialista.
+3. Se entenderá, a los efectos de la presente ley, la equivalencia genérica regulada con el título de Técnico y Técnico Superior de las titulaciones de Técnico auxiliar y Técnico especialista.
 
 #### Artículo 48. Relación con otras etapas y enseñanzas.
 
@@ -1092,35 +1093,35 @@ Reglamentariamente se determinará el régimen de convalidaciones y equivalencia
 
 #### Artículo 49. Relación entre las enseñanzas de formación profesional y enseñanzas universitarias.
 
-1. Las administraciones educativas y las universidades promoverán:
+1. Las administraciones educativas y las universidades promoverán:
 
 a) El reconocimiento mutuo de créditos ECTS entre las enseñanzas de formación profesional de grado superior y los títulos oficiales de Grado para facilitar el establecimiento de itinerarios formativos que reconozcan la formación previamente adquirida en ambos sentidos.
 
 b) La colaboración entre los centros que impartan enseñanzas de formación profesional de grado superior del sistema educativo no universitario y las universidades, con objeto de desarrollar nuevos modelos de relaciones entre la universidad, la formación profesional y los organismos agregados, con el fin de generar trasferencia de conocimiento y experiencia, crear innovación y optimizar recursos, y, a tal efecto, el desarrollo de proyectos de actuación conjuntos entre los centros de formación profesional que impartan ciclos formativos de grado superior y la universidad para la generación de entornos integrados de trabajo conjunto entre las diferentes enseñanzas de la educación superior. Los centros de formación profesional que participen en estos proyectos deben tener la dependencia orgánica y funcional establecida en la normativa reguladora de las enseñanzas de formación profesional del sistema educativo y cumplirán, en cuanto a la estructura de las enseñanzas y su desarrollo, con lo establecido en la ordenación de las mismas.
 
-2. La colaboración entre centros de formación profesional y universidades podrá formalizarse mediante la suscripción de un convenio, aprobado por el órgano de gobierno de la universidad, el departamento competente en materia de formación profesional de la comunidad autónoma y el centro o centros de formación profesional implicados, que permita la incorporación en los currículos de partes de módulos o de materias correspondientes a las otras enseñanzas en forma de complementos formativos, la colaboración puntual de ambos equipos docentes y, en su caso, el uso ocasional de las respectivas instalaciones.
+2. La colaboración entre centros de formación profesional y universidades podrá formalizarse mediante la suscripción de un convenio, aprobado por el órgano de gobierno de la universidad, el departamento competente en materia de formación profesional de la comunidad autónoma y el centro o centros de formación profesional implicados, que permita la incorporación en los currículos de partes de módulos o de materias correspondientes a las otras enseñanzas en forma de complementos formativos, la colaboración puntual de ambos equipos docentes y, en su caso, el uso ocasional de las respectivas instalaciones.
 
-3. La relación entre ambas enseñanzas respetará, en todo caso, el principio de que cada enseñanza, de formación profesional y universitaria, se imparte bien en centros de formación profesional, bien en universidades respectivamente, sin que sea posible asumir la impartición de enseñanzas que no les son propias.
+3. La relación entre ambas enseñanzas respetará, en todo caso, el principio de que cada enseñanza, de formación profesional y universitaria, se imparte bien en centros de formación profesional, bien en universidades respectivamente, sin que sea posible asumir la impartición de enseñanzas que no les son propias.
 
-4. Asimismo, se respetará el mantenimiento de la titularidad, dependencia y diferenciación de los respectivos centros, así como la competencia de éstos sobre su alumnado, profesorado y propuesta o concesión de títulos.
+4. Asimismo, se respetará el mantenimiento de la titularidad, dependencia y diferenciación de los respectivos centros, así como la competencia de éstos sobre su alumnado, profesorado y propuesta o concesión de títulos.
 
-5. Se entenderá como centro universitario, a efectos de establecer las colaboraciones recogidas en el presente artículo, aquellos que cumplan los requerimientos de la ley universitaria reguladora.
+5. Se entenderá como centro universitario, a efectos de establecer las colaboraciones recogidas en el presente artículo, aquellos que cumplan los requerimientos de la ley universitaria reguladora.
 
 #### Artículo 50. Acciones formativas desarrolladas en las empresas.
 
-1. Cuando sean autorizadas por las administraciones educativas para ello por reunir los requisitos establecidos al efecto, las empresas podrán impartir acciones formativas destinadas a facilitar a sus personas trabajadoras mayores de 16 años la obtención de un título de formación profesional.
+1. Cuando sean autorizadas por las administraciones educativas para ello por reunir los requisitos establecidos al efecto, las empresas podrán impartir acciones formativas destinadas a facilitar a sus personas trabajadoras mayores de 16 años la obtención de un título de formación profesional.
 
-2. Los requisitos que establezcan las administraciones educativas para impartir las acciones formativas y las pruebas de evaluación en las empresas deberán verificar la adquisición de los resultados de aprendizaje en las condiciones de calidad requeridas para la obtención de los títulos de formación profesional.
+2. Los requisitos que establezcan las administraciones educativas para impartir las acciones formativas y las pruebas de evaluación en las empresas deberán verificar la adquisición de los resultados de aprendizaje en las condiciones de calidad requeridas para la obtención de los títulos de formación profesional.
 
-3. La programación de las acciones formativas, el seguimiento y la comprobación de la efectiva adquisición de los elementos de competencia y competencia profesionales se realizará por módulos profesionales del ciclo formativo correspondiente y, en su caso, por resultados de aprendizaje, y se llevará a cabo por centros de formación profesional, en colaboración con la empresa implicada.
+3. La programación de las acciones formativas, el seguimiento y la comprobación de la efectiva adquisición de los elementos de competencia y competencia profesionales se realizará por módulos profesionales del ciclo formativo correspondiente y, en su caso, por resultados de aprendizaje, y se llevará a cabo por centros de formación profesional, en colaboración con la empresa implicada.
 
 #### Sección 5. ª Grado E. Cursos de especialización
 
 #### Artículo 51. Objeto y carácter.
 
-1. Los cursos de especialización tienen por objeto complementar y profundizar en las competencias de quienes ya disponen de un título de formación profesional o cumplan las condiciones de acceso que para cada uno de los cursos se determinen.
+1. Los cursos de especialización tienen por objeto complementar y profundizar en las competencias de quienes ya disponen de un título de formación profesional o cumplan las condiciones de acceso que para cada uno de los cursos se determinen.
 
-2. Los cursos de especialización:
+2. Los cursos de especialización:
 
 a) Tendrán carácter modular.
 
@@ -1130,23 +1131,23 @@ c) Podrán estar asociados a los mismos o a distintos estándares de competencia
 
 #### Artículo 52. Organización y duración.
 
-1. Los cursos de especialización tendrán una duración básica de entre 300 y 900 horas y, en su caso, podrán desarrollarse con carácter dual.
+1. Los cursos de especialización tendrán una duración básica de entre 300 y 900 horas y, en su caso, podrán desarrollarse con carácter dual.
 
-2. Se determinará la duración de los cursos de especialización teniendo en cuenta el régimen excepcional previsto en el artículo 6.5 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+2. Se determinará la duración de los cursos de especialización teniendo en cuenta el régimen excepcional previsto en el artículo 6.5 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
 #### Artículo 53. Acceso.
 
-1. Las condiciones de acceso al curso completo de especialización para la obtención de la titulación serán las establecidas en el currículo básico correspondiente.
+1. Las condiciones de acceso al curso completo de especialización para la obtención de la titulación serán las establecidas en el currículo básico correspondiente.
 
-2. No serán de aplicación las condiciones de acceso del apartado anterior a las ofertas parciales o modulares que no conduzcan a la obtención del título completo correspondiente.
+2. No serán de aplicación las condiciones de acceso del apartado anterior a las ofertas parciales o modulares que no conduzcan a la obtención del título completo correspondiente.
 
 #### Artículo 54. Titulación y convalidaciones.
 
-1. Quienes superen un curso de especialización de Formación Profesional de grado medio obtendrán el título de Especialista del perfil profesional correspondiente.
+1. Quienes superen un curso de especialización de Formación Profesional de grado medio obtendrán el título de Especialista del perfil profesional correspondiente.
 
-2. Quienes superen un curso de especialización de Formación Profesional de grado superior obtendrán el título de Máster de Formación Profesional del perfil profesional correspondiente.
+2. Quienes superen un curso de especialización de Formación Profesional de grado superior obtendrán el título de Máster de Formación Profesional del perfil profesional correspondiente.
 
-3. Reglamentariamente se regulará el régimen de convalidaciones entre los cursos de especialización de grado superior de Formación Profesional y los títulos oficiales de Grado universitario.
+3. Reglamentariamente se regulará el régimen de convalidaciones entre los cursos de especialización de grado superior de Formación Profesional y los títulos oficiales de Grado universitario.
 
 ## Título III
 
@@ -1156,25 +1157,25 @@ c) Podrán estar asociados a los mismos o a distintos estándares de competencia
 
 #### Artículo 55. Carácter dual de la Formación Profesional.
 
-1. Toda la oferta de formación profesional de los Grados C y D vinculada al Catálogo Nacional de Estándares de Competencias Profesionales tendrá carácter dual, incorporando una fase de formación en empresa u organismo equiparado. La oferta de los Cursos de Especialización del Grado E tendrá carácter dual, en los términos previstos en el apartado 1 del artículo 52. La oferta de los Grados A y B podrá o no tener dicho carácter, en función de las características de cada formación.
+1. Toda la oferta de formación profesional de los Grados C y D vinculada al Catálogo Nacional de Estándares de Competencias Profesionales tendrá carácter dual, incorporando una fase de formación en empresa u organismo equiparado. La oferta de los Cursos de Especialización del Grado E tendrá carácter dual, en los términos previstos en el apartado 1 del artículo 52. La oferta de los Grados A y B podrá o no tener dicho carácter, en función de las características de cada formación.
 
-2. El carácter dual de la Formación Profesional se desarrollará mediante una distribución adecuada de los procesos formativos entre los centros de formación profesional y las empresas u organismos equiparados, contribuyendo ambos al logro de las competencias previstas en cada oferta de formación.
+2. El carácter dual de la Formación Profesional se desarrollará mediante una distribución adecuada de los procesos formativos entre los centros de formación profesional y las empresas u organismos equiparados, contribuyendo ambos al logro de las competencias previstas en cada oferta de formación.
 
-3. Las administraciones promoverán la corresponsabilidad de los centros de formación profesional y las empresas u organismos equiparados participantes en la formación profesional.
+3. Las administraciones promoverán la corresponsabilidad de los centros de formación profesional y las empresas u organismos equiparados participantes en la formación profesional.
 
-4. La competencia de determinar la obtención de acreditaciones, certificados o titulaciones corresponderá a los centros de formación profesional.
+4. La competencia de determinar la obtención de acreditaciones, certificados o titulaciones corresponderá a los centros de formación profesional.
 
-5. La fase de formación en la empresa tendrá una duración mínima del 25 % de la duración total prevista de la formación y deberá realizarse en el seno de una o varias empresas u organismos equiparados, públicos o privados, pertenecientes al sector productivo o de servicios que sirva de referencia a la formación. Excepcionalmente, las ofertas asociadas a estándares de competencia profesional de nivel 1 podrán limitar la formación en empresa hasta un mínimo del 20 % de la duración total prevista de la formación.
+5. La fase de formación en la empresa tendrá una duración mínima del 25 % de la duración total prevista de la formación y deberá realizarse en el seno de una o varias empresas u organismos equiparados, públicos o privados, pertenecientes al sector productivo o de servicios que sirva de referencia a la formación. Excepcionalmente, las ofertas asociadas a estándares de competencia profesional de nivel 1 podrán limitar la formación en empresa hasta un mínimo del 20 % de la duración total prevista de la formación.
 
-6. Las administraciones competentes en el desarrollo de ofertas de formación profesional adoptarán las medidas necesarias para garantizar el carácter formativo de las actividades desarrolladas durante el o los periodos de formación en la empresa, y evitar su utilización inadecuada como actividad productiva y de carácter laboral, sin perjuicio de las competencias de la administración laboral en el ámbito de la inspección de trabajo.
+6. Las administraciones competentes en el desarrollo de ofertas de formación profesional adoptarán las medidas necesarias para garantizar el carácter formativo de las actividades desarrolladas durante el o los periodos de formación en la empresa, y evitar su utilización inadecuada como actividad productiva y de carácter laboral, sin perjuicio de las competencias de la administración laboral en el ámbito de la inspección de trabajo.
 
 Será incompatible la estancia formativa y la contratación laboral con la misma empresa durante este período, salvo que la estancia formativa se formalice por sí misma con un contrato formativo específico.
 
-7. Las administraciones competentes asegurarán la puesta a disposición del alumnado con necesidades educativas especiales de los ajustes razonables que precise para la realización de los períodos de formación en empresa, en igualdad de oportunidades y no discriminación.
+7. Las administraciones competentes asegurarán la puesta a disposición del alumnado con necesidades educativas especiales de los ajustes razonables que precise para la realización de los períodos de formación en empresa, en igualdad de oportunidades y no discriminación.
 
 #### Artículo 56. Finalidades de la fase de formación en la empresa u organismo equiparado.
 
-1. La fase de formación en empresa u organismo equiparado tendrá las finalidades siguientes:
+1. La fase de formación en empresa u organismo equiparado tendrá las finalidades siguientes:
 
 a) Participar en la adquisición de competencias profesionales propias de cada oferta formativa.
 
@@ -1188,11 +1189,11 @@ e) Facilitar una experiencia de inserción y relacional en una plantilla real de
 
 #### Artículo 57. Organización de la formación.
 
-1. Las ofertas de Grados C, D y E se organizarán de manera que se garantice el desarrollo de los resultados de aprendizaje contemplados en cada formación entre el centro de formación profesional y en el centro de trabajo. Ambos centros serán corresponsables, actuando sobre la base de un acuerdo entre ellos respecto del desarrollo del contenido curricular y los resultados de aprendizaje que se trabajen conjuntamente.
+1. Las ofertas de Grados C, D y E se organizarán de manera que se garantice el desarrollo de los resultados de aprendizaje contemplados en cada formación entre el centro de formación profesional y en el centro de trabajo. Ambos centros serán corresponsables, actuando sobre la base de un acuerdo entre ellos respecto del desarrollo del contenido curricular y los resultados de aprendizaje que se trabajen conjuntamente.
 
-2. Las administraciones atenderán las demandas de los centros, así como de los agentes sociales, organismos y entidades intermedias, para determinar el régimen en que se realice cada oferta de formación, así como la incorporación de formación complementaria a los mismos.
+2. Las administraciones atenderán las demandas de los centros, así como de los agentes sociales, organismos y entidades intermedias, para determinar el régimen en que se realice cada oferta de formación, así como la incorporación de formación complementaria a los mismos.
 
-3. La organización de la formación en empresa u organismo equiparado responderá, en todo caso, a las siguientes reglas:
+3. La organización de la formación en empresa u organismo equiparado responderá, en todo caso, a las siguientes reglas:
 
 a) Se promoverá la autonomía de los centros de formación profesional para la adaptación de los programas de formación a las características propias de cada centro y de las empresas u organismos equiparados correspondientes, así como del territorio.
 
@@ -1212,13 +1213,13 @@ h) Se promoverá el contacto de la persona en formación con la empresa u organi
 
 i) Se asegurará el contacto continuo entre el centro de formación profesional y la empresa u organismo equiparado, tanto previo como durante los periodos de formación en empresa.
 
-4. Reglamentariamente se establecerán las normas que garanticen la calidad del Plan de Formación de cada persona en formación y de la formación en la empresa u organismo equiparado, así como la preparación adecuada de las personas en formación para esta última.
+4. Reglamentariamente se establecerán las normas que garanticen la calidad del Plan de Formación de cada persona en formación y de la formación en la empresa u organismo equiparado, así como la preparación adecuada de las personas en formación para esta última.
 
-5. La representación legal de las personas trabajadoras recibirá información, por parte de la empresa u organismo equiparado, sobre las plazas de personas en formación en el marco del Sistema de Formación Profesional.
+5. La representación legal de las personas trabajadoras recibirá información, por parte de la empresa u organismo equiparado, sobre las plazas de personas en formación en el marco del Sistema de Formación Profesional.
 
 #### Artículo 58. Plan de formación.
 
-1. Cada persona en formación dispondrá de un Plan de Formación, en el que, como mínimo, se detalle:
+1. Cada persona en formación dispondrá de un Plan de Formación, en el que, como mínimo, se detalle:
 
 a) El régimen en que vaya a realizarse la formación en empresa u organismo equiparado, de acuerdo con lo establecido en este título.
 
@@ -1230,13 +1231,13 @@ d) La coordinación, las secuencias y la duración de los periodos de formación
 
 e) Las medidas y adaptaciones necesarias, en su caso, para personas con necesidades específicas de apoyo para el desarrollo de sus periodos formativos en empresa u organismo equiparado.
 
-2. La concreción del plan de formación, el sistema de seguimiento y evaluación del aprendizaje, así como los procesos de asignación de las personas en formación y de distribución del tiempo entre el centro de formación profesional y la empresa o entidad se establecerán por las administraciones en cada caso competentes, con la colaboración de los centros de formación y las empresas.
+2. La concreción del plan de formación, el sistema de seguimiento y evaluación del aprendizaje, así como los procesos de asignación de las personas en formación y de distribución del tiempo entre el centro de formación profesional y la empresa o entidad se establecerán por las administraciones en cada caso competentes, con la colaboración de los centros de formación y las empresas.
 
-3. Los centros de formación profesional definirán, conjuntamente con las empresas u organismos equiparados, la identificación de los resultados de aprendizaje incluidos en el currículo de cada oferta formativa a abordar en el centro o en la empresa.
+3. Los centros de formación profesional definirán, conjuntamente con las empresas u organismos equiparados, la identificación de los resultados de aprendizaje incluidos en el currículo de cada oferta formativa a abordar en el centro o en la empresa.
 
 La identificación de los resultados de aprendizaje compartidos entre el centro y la empresa u organismo equiparado tendrá carácter flexible y se adaptará, por parte del centro de formación profesional, en función de las variables de ámbito sectorial, características y tamaño de la empresa y ubicación geográfica. Igualmente estará sometida a las modificaciones necesarias a lo largo del desarrollo del periodo de la formación en empresa.
 
-4. El Plan de Formación de la persona en formación tendrá en cuenta los siguientes aspectos:
+4. El Plan de Formación de la persona en formación tendrá en cuenta los siguientes aspectos:
 
 a) La fase de formación en la empresa u organismo equiparado no permitirá, con carácter general, la realización de la actividad formativa en turnos o periodos nocturnos. Excepcionalmente, el Plan de Formación preverá las situaciones en que tales actividades formativas sean posibles en los citados periodos para permitir la adquisición de determinados aprendizajes por parte de la persona en formación, que, en todo caso, deberán ser autorizadas por la administración competente.
 
@@ -1244,23 +1245,23 @@ b) Excepcionalmente, podrán modificarse, previa autorización administrativa, l
 
 #### Artículo 59. Participación de los agentes sociales.
 
-1. Los agentes sociales, organismos y entidades intermedias podrán asumir funciones de impulso, promoción y asistencia a proyectos de formación profesional.
+1. Los agentes sociales, organismos y entidades intermedias podrán asumir funciones de impulso, promoción y asistencia a proyectos de formación profesional.
 
-2. Sin perjuicio de lo dispuesto en el apartado anterior, deberá facilitarse el papel de los agentes sociales y organismos intermedios que:
+2. Sin perjuicio de lo dispuesto en el apartado anterior, deberá facilitarse el papel de los agentes sociales y organismos intermedios que:
 
 a) Faciliten la participación e implicación de empresas y organismos equiparados en la formación profesional, asesorándoles en las diferentes fases y sirviendo de enlace con las administraciones y los centros de formación profesional.
 
 b) Promuevan la agrupación de empresas y entidades de tamaño pequeño y mediano en red para la rotación de las personas en formación durante los periodos de formación, de manera que complementen los resultados de aprendizaje y faciliten, a la vez, la trasferencia de conocimiento y nuevas prácticas entre pequeñas y medianas empresas.
 
-3. Las organizaciones empresariales y sindicales más representativas conocerán, en el marco del diálogo social establecido en cada territorio, los puestos de formación profesional en la empresa u organismo equiparado de cada uno de los regímenes de oferta.
+3. Las organizaciones empresariales y sindicales más representativas conocerán, en el marco del diálogo social establecido en cada territorio, los puestos de formación profesional en la empresa u organismo equiparado de cada uno de los regímenes de oferta.
 
 #### Artículo 60. Tutor o tutora dual del centro de formación profesional.
 
-1. En cada centro de formación profesional existirá la figura del tutor o tutora dual del centro, al menos para cada una de las familias profesionales que en él se impartan, que desarrollará su tarea con cada persona en formación en estrecha colaboración con el tutor o tutora dual de la o las empresas u organismo equiparado.
+1. En cada centro de formación profesional existirá la figura del tutor o tutora dual del centro, al menos para cada una de las familias profesionales que en él se impartan, que desarrollará su tarea con cada persona en formación en estrecha colaboración con el tutor o tutora dual de la o las empresas u organismo equiparado.
 
-2. Cada persona en formación tendrá asignado un tutor o tutora dual del centro.
+2. Cada persona en formación tendrá asignado un tutor o tutora dual del centro.
 
-3. El tutor o tutora dual del centro de formación profesional se ocupará de:
+3. El tutor o tutora dual del centro de formación profesional se ocupará de:
 
 a) Coordinar con el resto del equipo docente la definición del plan de formación y llevarlo a cabo, conjuntamente con el tutor o tutora dual de la empresa u organismo equiparado.
 
@@ -1274,15 +1275,15 @@ e) Velar por que en el desarrollo del proceso de formación se tome en considera
 
 f) Velar por la no discriminación por razón de discapacidad.
 
-4. Las administraciones garantizarán la formación y condiciones para el desempeño de las funciones del tutor o tutora dual del centro de formación profesional.
+4. Las administraciones garantizarán la formación y condiciones para el desempeño de las funciones del tutor o tutora dual del centro de formación profesional.
 
 #### Artículo 61. Tutor o tutora dual de empresa u organismo equiparado.
 
-1. En cada centro de trabajo existirá la figura del tutor o tutora dual de empresa u organismo equiparado, que, cuando por el tamaño de la misma así proceda, podrá ser compartida por dos o más empresas u organismos equiparados, que serán responsables de la relación y coordinación con el centro de formación profesional y del adecuado funcionamiento de la formación profesional en la empresa u organismo equiparado.
+1. En cada centro de trabajo existirá la figura del tutor o tutora dual de empresa u organismo equiparado, que, cuando por el tamaño de la misma así proceda, podrá ser compartida por dos o más empresas u organismos equiparados, que serán responsables de la relación y coordinación con el centro de formación profesional y del adecuado funcionamiento de la formación profesional en la empresa u organismo equiparado.
 
-2. Cada persona en formación tendrá asignado un tutor o tutora dual de empresa.
+2. Cada persona en formación tendrá asignado un tutor o tutora dual de empresa.
 
-3. Serán cometidos del tutor o tutora de empresa u organismo equiparado:
+3. Serán cometidos del tutor o tutora de empresa u organismo equiparado:
 
 a) Llevar a cabo, conjuntamente con el tutor o tutora dual del centro de formación profesional, la identificación de los resultados de aprendizaje del plan de formación que se desarrollarán en la empresa.
 
@@ -1296,11 +1297,11 @@ e) Informar y valorar la adquisición de los resultados de aprendizaje previstos
 
 f) Velar por que el proceso de selección y de formación se desarrolle de acuerdo con el principio de igualdad de trato y de oportunidades del alumnado con necesidad específica de apoyo educativo y verificar que este alumnado cuenta con los recursos de apoyo y los ajustes razonables que precisa.
 
-4. Las administraciones garantizarán la formación y condiciones para el desempeño de las funciones del tutor o tutora dual de empresa u organismo equiparado.
+4. Las administraciones garantizarán la formación y condiciones para el desempeño de las funciones del tutor o tutora dual de empresa u organismo equiparado.
 
 #### Artículo 62. Equipo docente.
 
-1. El equipo docente del centro de formación profesional será el responsable, en relación con la fase de formación en la empresa u organismo equiparado, de:
+1. El equipo docente del centro de formación profesional será el responsable, en relación con la fase de formación en la empresa u organismo equiparado, de:
 
 a) Realizar la concreción del currículo.
 
@@ -1318,13 +1319,13 @@ g) Establecer los mecanismos de adaptación metodológica y de recursos del curr
 
 #### Artículo 63. Evaluación.
 
-1. La finalización con éxito de los periodos de formación en empresa u organismo equiparado es obligatoria para la obtención del Certificado Profesional o Título correspondiente.
+1. La finalización con éxito de los periodos de formación en empresa u organismo equiparado es obligatoria para la obtención del Certificado Profesional o Título correspondiente.
 
-2. La evaluación final será responsabilidad del centro de formación profesional, teniendo en cuenta la valoración de lo aprendido en el centro de trabajo efectuada por el tutor o tutora dual de la empresa u organismo equiparado.
+2. La evaluación final será responsabilidad del centro de formación profesional, teniendo en cuenta la valoración de lo aprendido en el centro de trabajo efectuada por el tutor o tutora dual de la empresa u organismo equiparado.
 
-3. El tutor o tutora dual de empresa u organismo equiparado podrá participar e informar de su valoración en la sesión de evaluación de la persona en formación en el centro de formación profesional, a criterio de este último.
+3. El tutor o tutora dual de empresa u organismo equiparado podrá participar e informar de su valoración en la sesión de evaluación de la persona en formación en el centro de formación profesional, a criterio de este último.
 
-4. La evaluación respetará las adaptaciones metodológicas y de recursos realizadas a las personas con necesidades de apoyo educativo o formativo, atendiendo a la comprobación práctica de la adquisición de los resultados de aprendizaje.
+4. La evaluación respetará las adaptaciones metodológicas y de recursos realizadas a las personas con necesidades de apoyo educativo o formativo, atendiendo a la comprobación práctica de la adquisición de los resultados de aprendizaje.
 
 #### Artículo 64. Titulación.
 
@@ -1334,9 +1335,9 @@ La superación de la formación dará derecho, cualquiera que sea el régimen en
 
 #### Artículo 65. Tipos de régimen de oferta.
 
-1. Todas las ofertas de formación profesional de Grado C, D y, en su caso, E conducentes a la expedición de un Certificado Profesional, un Título de Formación Profesional, un Título de Especialista o un Máster de Formación Profesional, se efectuarán, con carácter dual, bajo uno de los dos regímenes de oferta, bien general, bien intensiva.
+1. Todas las ofertas de formación profesional de Grado C, D y, en su caso, E conducentes a la expedición de un Certificado Profesional, un Título de Formación Profesional, un Título de Especialista o un Máster de Formación Profesional, se efectuarán, con carácter dual, bajo uno de los dos regímenes de oferta, bien general, bien intensiva.
 
-2. Los dos regímenes de oferta, general e intensiva, ambos con carácter dual, están diferenciados en función de:
+2. Los dos regímenes de oferta, general e intensiva, ambos con carácter dual, están diferenciados en función de:
 
 a) La duración de la formación en empresa u organismo equiparado.
 
@@ -1348,7 +1349,7 @@ c) El estatus de la persona en formación.
 
 #### Artículo 66. Régimen general.
 
-1. Las ofertas de formación profesional se entenderán hechas en régimen general, siempre con carácter dual, cuando en ellas concurran, cumulativamente, las siguientes características:
+1. Las ofertas de formación profesional se entenderán hechas en régimen general, siempre con carácter dual, cuando en ellas concurran, cumulativamente, las siguientes características:
 
 a) Duración de la formación en empresa u organismo equiparado entre el 25 % y el 35 % de la duración total de la formación ofertada. Excepcionalmente las ofertas asociadas a estándares de competencia profesional de nivel 1 podrán diseñar la formación en empresa a partir del 20 % de la duración total de la oferta formativa.
 
@@ -1356,21 +1357,21 @@ b) Participación de la empresa u organismo equiparado en hasta un 20 % de los r
 
 c) Inexistencia de contrato de formación en la empresa.
 
-2. La organización de la fase de formación en la empresa u organismo equiparado se procurará distribuir, preferentemente, a lo largo del trascurso de la duración y, en su caso, de todos los cursos de la oferta formativa, de forma que las personas en formación puedan iniciar el contacto con la empresa u organismo equiparado, al menos, a partir de los tres primeros meses desde el inicio de su formación, siempre que se cumplan los requisitos establecidos en el apartado 3.d) del artículo 57 de esta ley.
+2. La organización de la fase de formación en la empresa u organismo equiparado se procurará distribuir, preferentemente, a lo largo del trascurso de la duración y, en su caso, de todos los cursos de la oferta formativa, de forma que las personas en formación puedan iniciar el contacto con la empresa u organismo equiparado, al menos, a partir de los tres primeros meses desde el inicio de su formación, siempre que se cumplan los requisitos establecidos en el apartado 3.d) del artículo 57 de esta ley.
 
-3. Los periodos de formación en empresa u organismo equiparado, durante los cuales la persona estudiante conservará su estatus de tal, deberán comportar esencialmente actividades vinculadas al desarrollo de competencias profesionales que forman parte del currículo, de acuerdo con su plan de formación.
+3. Los periodos de formación en empresa u organismo equiparado, durante los cuales la persona estudiante conservará su estatus de tal, deberán comportar esencialmente actividades vinculadas al desarrollo de competencias profesionales que forman parte del currículo, de acuerdo con su plan de formación.
 
-4. Esta fase de formación en empresa u organismo equiparado carece de carácter laboral y tiene naturaleza de formación práctica tutorizada no generadora de vinculación contractual con el centro de trabajo, sin perjuicio de la organización de percepción de ayudas de transporte u otro tipo durante este periodo.
+4. Esta fase de formación en empresa u organismo equiparado carece de carácter laboral y tiene naturaleza de formación práctica tutorizada no generadora de vinculación contractual con el centro de trabajo, sin perjuicio de la organización de percepción de ayudas de transporte u otro tipo durante este periodo.
 
-5. Reglamentariamente se determinarán las condiciones y los requisitos básicos de este régimen dual general.
+5. Reglamentariamente se determinarán las condiciones y los requisitos básicos de este régimen dual general.
 
 #### Sección 2. ª Formación profesional intensiva
 
 #### Artículo 67. Régimen intensivo.
 
-1. La formación profesional intensiva se corresponde con la formación profesional que se realiza alternando la formación en el centro de formación profesional o en la empresa u organismo equiparado con la actividad productiva, y retribuida en el marco de un contrato de formación.
+1. La formación profesional intensiva se corresponde con la formación profesional que se realiza alternando la formación en el centro de formación profesional o en la empresa u organismo equiparado con la actividad productiva, y retribuida en el marco de un contrato de formación.
 
-2. Las ofertas de formación profesional se entenderán hechas en régimen intensivo, siempre con carácter dual, cuando en ellas concurran, cumulativamente, las siguientes características:
+2. Las ofertas de formación profesional se entenderán hechas en régimen intensivo, siempre con carácter dual, cuando en ellas concurran, cumulativamente, las siguientes características:
 
 a) Duración de la formación en la empresa u organismo equiparado superior al 35 % de la duración total de la formación.
 
@@ -1378,11 +1379,11 @@ b) Participación de la empresa u organismo equiparado en más de un 30 % de los
 
 c) Existencia de un contrato de formación con la empresa.
 
-3. Pasado el primer trimestre de formación o, en su defecto, cumplidos los requisitos del apartado 3.d) del artículo 57, ésta podrá combinar periodos en un centro de formación profesional con otros en empresa u organismo equiparado.
+3. Pasado el primer trimestre de formación o, en su defecto, cumplidos los requisitos del apartado 3.d) del artículo 57, ésta podrá combinar periodos en un centro de formación profesional con otros en empresa u organismo equiparado.
 
-4. La participación en ofertas del Sistema de Formación Profesional en cada régimen no estará condicionada por razones de edad para las personas matriculadas en formación profesional.
+4. La participación en ofertas del Sistema de Formación Profesional en cada régimen no estará condicionada por razones de edad para las personas matriculadas en formación profesional.
 
-5. El desarrollo de la formación en centro de formación profesional y empresa u organismo equiparado deberá tener lugar conforme al diseño precisado conjuntamente por ambos en el Plan de Formación de cada persona, en el marco de la regulación que al efecto se establezca y de acuerdo, en todo caso, con las siguientes reglas:
+5. El desarrollo de la formación en centro de formación profesional y empresa u organismo equiparado deberá tener lugar conforme al diseño precisado conjuntamente por ambos en el Plan de Formación de cada persona, en el marco de la regulación que al efecto se establezca y de acuerdo, en todo caso, con las siguientes reglas:
 
 a) Realización de la formación en centro y en empresa, empresas u organismos equiparados, mediante el desarrollo de una serie de secuencias articuladas e integradas de los entornos formativo y laboral, organizados en intervalos diarios, semanales o mensuales. En el caso de estancias en empresa u organismos equiparados superiores a un mes de duración, se asegurará una presencia mínima del alumno en el centro de formación con el objetivo de realizar un seguimiento de su formación.
 
@@ -1392,7 +1393,7 @@ b) Realización de manera simultánea, para respetar su carácter dual e integra
 
 c) Exclusión de la convalidación o exención de los periodos de formación en empresa u organismo equiparado.
 
-6. El régimen intensivo concretará la relación entre la persona en formación y la empresa u organismo equiparado, mediante un contrato laboral de formación, de acuerdo con lo establecido en la legislación laboral correspondiente, así como con las singularidades propias de este régimen del Sistema de Formación Profesional.
+6. El régimen intensivo concretará la relación entre la persona en formación y la empresa u organismo equiparado, mediante un contrato laboral de formación, de acuerdo con lo establecido en la legislación laboral correspondiente, así como con las singularidades propias de este régimen del Sistema de Formación Profesional.
 
 ## Capítulo III. Modalidades de la oferta de la formación profesional.
 
@@ -1400,23 +1401,23 @@ c) Exclusión de la convalidación o exención de los periodos de formación en 
 
 #### Artículo 68. Ofertas y modalidades de impartición de la formación.
 
-1. Las ofertas de formación profesional de Grado A, B, C, D y E:
+1. Las ofertas de formación profesional de Grado A, B, C, D y E:
 
 a) Podrán impartirse en cualquiera de las modalidades presencial, semipresencial, virtual o mixta, siempre que esté garantizada, síncrona o asíncronamente, la interacción didáctica adecuada y continua.
 
 b) Utilizarán los recursos de las tecnologías de la información y la comunicación a fin de garantizar su accesibilidad.
 
-2. En cualquiera de sus modalidades, la formación estará organizada de tal forma que permita a la persona en formación un proceso de aprendizaje sistematizado con arreglo a una metodología apropiada a la modalidad de impartición, que deberá cumplir los requisitos de accesibilidad y contar con asistencia tutorial.
+2. En cualquiera de sus modalidades, la formación estará organizada de tal forma que permita a la persona en formación un proceso de aprendizaje sistematizado con arreglo a una metodología apropiada a la modalidad de impartición, que deberá cumplir los requisitos de accesibilidad y contar con asistencia tutorial.
 
-3. La impartición de la formación en cualquiera de las modalidades presencial, semipresencial, virtual o mixta estará sujeta a autorización administrativa previa por parte de la administración competente, que deberá garantizar su seguimiento, control y supervisión. Reglamentariamente se establecerán los requisitos mínimos específicos para las ofertas en las modalidades semipresencial y virtual, y las administraciones competentes adoptarán las medidas necesarias y dictarán las instrucciones precisas para la puesta en marcha y funcionamiento de los Grados A, B, C, D y E, con el fin de que se impartan con los espacios, equipamientos, recursos, materiales curriculares y profesorado que garanticen su calidad.
+3. La impartición de la formación en cualquiera de las modalidades presencial, semipresencial, virtual o mixta estará sujeta a autorización administrativa previa por parte de la administración competente, que deberá garantizar su seguimiento, control y supervisión. Reglamentariamente se establecerán los requisitos mínimos específicos para las ofertas en las modalidades semipresencial y virtual, y las administraciones competentes adoptarán las medidas necesarias y dictarán las instrucciones precisas para la puesta en marcha y funcionamiento de los Grados A, B, C, D y E, con el fin de que se impartan con los espacios, equipamientos, recursos, materiales curriculares y profesorado que garanticen su calidad.
 
-4. Será requisito para autorizar a los centros de formación profesional la impartición en la modalidad virtual contar con la autorización previa para la impartición de las mismas en modalidad presencial, así como garantizar que están en disposición de llevar a cabo dicha modalidad presencial de manera simultánea.
+4. Será requisito para autorizar a los centros de formación profesional la impartición en la modalidad virtual contar con la autorización previa para la impartición de las mismas en modalidad presencial, así como garantizar que están en disposición de llevar a cabo dicha modalidad presencial de manera simultánea.
 
 Excepcionalmente, se podrán autorizar centros que, contando con la autorización previa para la impartición de las ofertas formativas en modalidad presencial pero sin disponer de la misma simultáneamente, establezcan un acuerdo, mediante convenio o cualquier otra forma jurídica ajustada a derecho, con un centro de formación profesional que cumpla este requisito y garantice la presencialidad en los casos necesarios. Quedarán exceptuados los centros designados por las administraciones como centros especializados en innovación en metodologías no presenciales, de acuerdo con las condiciones que reglamentariamente se desarrollen.
 
-5. Las enseñanzas de formación profesional pertenecientes al sistema educativo en las modalidades semipresencial y virtual se adaptarán a lo dispuesto en el apartado 8 del artículo 42 de la Ley Orgánica 2/2006 de 3 de mayo, de Educación.
+5. Las enseñanzas de formación profesional pertenecientes al sistema educativo en las modalidades semipresencial y virtual se adaptarán a lo dispuesto en el apartado 8 del artículo 42 de la Ley Orgánica 2/2006 de 3 de mayo, de Educación.
 
-6. Las administraciones públicas deberán:
+6. Las administraciones públicas deberán:
 
 a) Establecer y mantener una oferta pública, tanto presencial como virtual o mixta que garantice el acceso a la formación profesional.
 
@@ -1430,9 +1431,9 @@ d) Reforzar la oferta de formación profesional virtual para permitir la formaci
 
 #### Artículo 69. Oferta de formación de Grado C, D y E.
 
-1. La formación profesional de los Grados C, D y E podrá ofertarse de manera completa o modular, a partir de un módulo profesional como mínimo, para su adaptación a las necesidades y circunstancias personales y laborales, así como al ritmo personal de aprendizaje.
+1. La formación profesional de los Grados C, D y E podrá ofertarse de manera completa o modular, a partir de un módulo profesional como mínimo, para su adaptación a las necesidades y circunstancias personales y laborales, así como al ritmo personal de aprendizaje.
 
-2. La oferta modular se ajustará a las siguientes reglas:
+2. La oferta modular se ajustará a las siguientes reglas:
 
 a) **Estará destinada a mayores de 18 años.** Excepcionalmente, se permitirá el acceso a los mayores de 16 años incorporados al mercado laboral y en activo, siempre y cuando la normativa reguladora del sector productivo no establezca lo contrario.
 
@@ -1440,25 +1441,25 @@ b) Podrá autorizarse a los centros que la impartan organizaciones específicas 
 
 c) Deberá garantizarse la oferta de formación complementaria asociada al procedimiento de acreditación de competencias profesionales.
 
-3. Con finalidad de formación permanente, integración social e inclusión en el mercado de trabajo de personas adultas con especiales dificultades de inserción en el mercado de trabajo, se permitirá el acceso a la formación modular a personas adultas con experiencia laboral que no tengan las condiciones establecidas para el acceso a la formación. En este caso, el cumplimiento de los requisitos de acceso será exigible en el momento de la solicitud del Certificado o Título correspondiente.
+3. Con finalidad de formación permanente, integración social e inclusión en el mercado de trabajo de personas adultas con especiales dificultades de inserción en el mercado de trabajo, se permitirá el acceso a la formación modular a personas adultas con experiencia laboral que no tengan las condiciones establecidas para el acceso a la formación. En este caso, el cumplimiento de los requisitos de acceso será exigible en el momento de la solicitud del Certificado o Título correspondiente.
 
-4. Se favorecerá la oferta de grados de formación profesional completa o modular en entornos rurales y en zonas en declive demográfico, creando las adaptaciones necesarias para atender las condiciones y necesidades específicas del territorio, facilitando el acceso a estas modalidades formativas.
+4. Se favorecerá la oferta de grados de formación profesional completa o modular en entornos rurales y en zonas en declive demográfico, creando las adaptaciones necesarias para atender las condiciones y necesidades específicas del territorio, facilitando el acceso a estas modalidades formativas.
 
 #### Sección 3. ª Modalidades dirigidas a colectivos específicos
 
 #### Artículo 70. Personas con necesidades educativas especiales.
 
-1. Cuando las medidas y alternativas organizativas y metodológicas y las medidas de atención a la diversidad e inclusión no sean suficientes para las personas con discapacidad, podrán efectuarse ofertas de Grado A, B, C y D en modalidad específica, dirigidas a personas con necesidades educativas especiales.
+1. Cuando las medidas y alternativas organizativas y metodológicas y las medidas de atención a la diversidad e inclusión no sean suficientes para las personas con discapacidad, podrán efectuarse ofertas de Grado A, B, C y D en modalidad específica, dirigidas a personas con necesidades educativas especiales.
 
 En el caso de las ofertas de formación profesional del sistema educativo, las personas estudiantes escolarizadas en centros ordinarios o en centros de educación especial podrán permanecer escolarizadas, al menos, hasta los 21 años.
 
-2. Las ofertas se ajustarán a las características y perfil de los destinatarios, promoviendo la adquisición de aquellos estándares de competencia o elementos de competencia compatibles con cada discapacidad, y garantizando el derecho a su formación en las empresas, con las adaptaciones que precisen, sin que sufran discriminación en la asignación de empresa.
+2. Las ofertas se ajustarán a las características y perfil de los destinatarios, promoviendo la adquisición de aquellos estándares de competencia o elementos de competencia compatibles con cada discapacidad, y garantizando el derecho a su formación en las empresas, con las adaptaciones que precisen, sin que sufran discriminación en la asignación de empresa.
 
-3. Se favorecerá la oferta de formación profesional a lo largo de la vida que capacite y mantenga actualizadas a las personas con discapacidad en su itinerario profesional.
+3. Se favorecerá la oferta de formación profesional a lo largo de la vida que capacite y mantenga actualizadas a las personas con discapacidad en su itinerario profesional.
 
 #### Artículo 71. Personas con especiales dificultades formativas o de inserción laboral.
 
-1. Con fines de cualificación profesional e integración social, podrán efectuarse ofertas específicas de formación dirigidas a los siguientes destinatarios:
+1. Con fines de cualificación profesional e integración social, podrán efectuarse ofertas específicas de formación dirigidas a los siguientes destinatarios:
 
 a) Personas mayores de 16 años sin cualificación e incorporadas a la vida laboral, para permitirles la obtención de un Certificado Profesional o de un Título de Formación Profesional.
 
@@ -1466,25 +1467,25 @@ b) Personas mayores de 16 años que no hayan desarrollado su historia escolar en
 
 c) Personas o grupos desfavorecidos en el mercado de trabajo o en riesgo de exclusión social.
 
-2. Se promoverá la colaboración y participación de la administración local, de entidades sociales del tercer sector para la inserción laboral y de centros de segunda oportunidad en las ofertas a que se refiere el apartado anterior.
+2. Se promoverá la colaboración y participación de la administración local, de entidades sociales del tercer sector para la inserción laboral y de centros de segunda oportunidad en las ofertas a que se refiere el apartado anterior.
 
 #### Artículo 72. Colectivos en situaciones de relación de sujeción especial.
 
-1. Personal militar:
+1. Personal militar:
 
 a) Las Fuerzas Armadas facilitarán al personal militar de Tropa y Marinería, con una relación de servicios de carácter temporal, la obtención de un Título de Técnico de Formación Profesional que facilite su incorporación al mercado de trabajo al término de su compromiso con las Fuerzas Armadas. Asimismo, facilitarán al personal militar de la escala de suboficiales la obtención de un Título de Técnico Superior de Formación Profesional.
 
 b) Los currículos correspondientes podrán adaptarse a las circunstancias singulares del entorno profesional de las Fuerzas Armadas.
 
-2. Las personas que se encuentren en situación de privación de libertad, tendrán acceso a una oferta de formación profesional en los Grados y modalidades presencial y virtual que se determinen al efecto. Las administraciones competentes deberán garantizar una oferta de formación profesional suficiente y accesible.
+2. Las personas que se encuentren en situación de privación de libertad, tendrán acceso a una oferta de formación profesional en los Grados y modalidades presencial y virtual que se determinen al efecto. Las administraciones competentes deberán garantizar una oferta de formación profesional suficiente y accesible.
 
-3. La formación prevista en los dos apartados anteriores se regirá por los convenios que al efecto suscriban las administraciones competentes.
+3. La formación prevista en los dos apartados anteriores se regirá por los convenios que al efecto suscriban las administraciones competentes.
 
 #### Sección 4. ª Otros programas formativos
 
 #### Artículo 73. Objetivo.
 
-1. Todas las políticas públicas de formación profesional deberán tener como objetivo el logro por toda la población activa de, al menos, una formación de educación secundaria postobligatoria de carácter profesional o equivalente. A tal fin, las administraciones competentes:
+1. Todas las políticas públicas de formación profesional deberán tener como objetivo el logro por toda la población activa de, al menos, una formación de educación secundaria postobligatoria de carácter profesional o equivalente. A tal fin, las administraciones competentes:
 
 a) Deberán prever programas formativos para las personas mayores de 17 años que hayan abandonado prematuramente el sistema educativo sin alcanzar cualificación profesional alguna, dirigidos a posibilitar la obtención de una Acreditación, Certificado o Título de Formación Profesional que facilite su empleabilidad.
 
@@ -1492,9 +1493,9 @@ b) Deberán organizar la colaboración con las administraciones y entidades loca
 
 c) Preverán, en su caso, la suscripción de acuerdos con organizaciones y entidades para promover la consecución del nivel de educación secundaria postobligatoria.
 
-2. Las ofertas de programas específicos a que se refiere el apartado anterior deberán favorecer la adquisición de capacidades en un proceso de formación a lo largo de la vida, para lo cual podrán incorporar complementos de formación para la adaptación a las necesidades específicas del colectivo beneficiario.
+2. Las ofertas de programas específicos a que se refiere el apartado anterior deberán favorecer la adquisición de capacidades en un proceso de formación a lo largo de la vida, para lo cual podrán incorporar complementos de formación para la adaptación a las necesidades específicas del colectivo beneficiario.
 
-3. Los programas formativos específicos se podrán desarrollar:
+3. Los programas formativos específicos se podrán desarrollar:
 
 a) En un centro de formación profesional.
 
@@ -1504,15 +1505,15 @@ c) En asociaciones u organizaciones autorizadas al efecto.
 
 d) En entornos específicos.
 
-4. La duración de los programas será variable según las necesidades de los colectivos a los que vayan dirigidos y a los resultados de aprendizaje o módulos profesionales incluidos en ellos.
+4. La duración de los programas será variable según las necesidades de los colectivos a los que vayan dirigidos y a los resultados de aprendizaje o módulos profesionales incluidos en ellos.
 
-5. La superación de los programas formativos específicos conducirá a la obtención de un Certificado o Título expedido por la administración competente, en las condiciones que se determinen reglamentariamente.
+5. La superación de los programas formativos específicos conducirá a la obtención de un Certificado o Título expedido por la administración competente, en las condiciones que se determinen reglamentariamente.
 
 #### Sección 5. ª Programas formativos en empresa u organismo equiparado
 
 #### Artículo 74. Características de los programas formativos.
 
-1. Podrán desarrollarse programas formativos en empresas u organismos equiparados dirigidos a personas que, disponiendo de un contrato de trabajo, deseen cursar el correspondiente programa manteniendo su estatus de trabajador. Les serán aplicables en todo caso las siguientes reglas:
+1. Podrán desarrollarse programas formativos en empresas u organismos equiparados dirigidos a personas que, disponiendo de un contrato de trabajo, deseen cursar el correspondiente programa manteniendo su estatus de trabajador. Les serán aplicables en todo caso las siguientes reglas:
 
 a) Gozará de preferencia la fórmula de programas formativos dirigidos a personas que hayan abandonado el sistema educativo sin haber obtenido titulación profesional alguna y cuya superación conduzca a un título de Técnico de Formación Profesional.
 
@@ -1520,13 +1521,13 @@ b) En los supuestos de contratos asociados a formación, se tendrá en cuenta qu
 
 c) La formación podrá tener una duración de hasta el doble de años de lo previsto, combinando, en una misma semana, el trabajo remunerado en la empresa u organismo equiparado y la formación en el centro correspondiente.
 
-2. La formación con arreglo a los programas a que se refiere el apartado anterior se desarrollará sin perjuicio de las competencias de la administración laboral en materia de formación de personas trabajadoras.
+2. La formación con arreglo a los programas a que se refiere el apartado anterior se desarrollará sin perjuicio de las competencias de la administración laboral en materia de formación de personas trabajadoras.
 
 #### Artículo 75. Organización y desarrollo de los programas.
 
-1. La organización y el desarrollo de los programas a que se refiere el artículo anterior requerirá la suscripción de un convenio entre la empresa u organismo equiparado, la administración educativa y la administración laboral, salvo que la normativa de aplicación permita otra fórmula jurídica de colaboración.
+1. La organización y el desarrollo de los programas a que se refiere el artículo anterior requerirá la suscripción de un convenio entre la empresa u organismo equiparado, la administración educativa y la administración laboral, salvo que la normativa de aplicación permita otra fórmula jurídica de colaboración.
 
-2. El citado convenio o el mecanismo alternativo de colaboración deberá establecer, como mínimo, los siguientes extremos:
+2. El citado convenio o el mecanismo alternativo de colaboración deberá establecer, como mínimo, los siguientes extremos:
 
 a) La oferta u ofertas a las que, de entre las integradas en el Catálogo Nacional de Ofertas de Formación Profesional, responda el o los programas formativos y la identificación de los resultados de aprendizaje o módulos profesionales previstos.
 
@@ -1538,7 +1539,7 @@ d) La duración del programa adaptado a las características propias de la forma
 
 e) La información y participación que se reconozca a los representantes legales de las personas trabajadoras o personas delegadas de formación en la empresa u organismo equiparado.
 
-3. Cada uno de los programas deberá contar con un tutor o tutora en el centro y un tutor o tutora en la empresa u organismo equiparado.
+3. Cada uno de los programas deberá contar con un tutor o tutora en el centro y un tutor o tutora en la empresa u organismo equiparado.
 
 Asimismo, todos los resultados de aprendizaje o módulos profesionales deberán tener asignado un profesor o profesora, o formador o formadora responsable, encargado de la programación, supervisión de la formación conjunta, seguimiento y evaluación del trabajador.
 
@@ -1550,27 +1551,27 @@ Asimismo, todos los resultados de aprendizaje o módulos profesionales deberán 
 
 La formación profesional se desarrollará, bajo la responsabilidad de los centros de formación profesional, en:
 
-1. Centros del Sistema de Formación Profesional.
+1. Centros del Sistema de Formación Profesional.
 
-2. Empresas u organismos equiparados.
+2. Empresas u organismos equiparados.
 
 ## Capítulo I. Centros.
 
 #### Artículo 77. Centros del Sistema de Formación Profesional.
 
-1. Tendrán la consideración de centros del Sistema de Formación Profesional los establecidos y gestionados por las administraciones competentes al efecto, así como los autorizados por dichas administraciones para impartir ofertas de formación profesional en cualquiera de los grados previstos en la presente ley, de forma exclusiva o simultáneamente con otro tipo de educación o formación, siempre que concluyan oficialmente en las acreditaciones, certificados y títulos de formación profesional establecidos en la presente ley. Se considerarán centros especializados de formación profesional los que impartan formación profesional en cualquiera de los grados previstos en la presente ley, de forma exclusiva, así como los dedicados, en su caso, a orientación profesional en el marco del Sistema de Formación Profesional, o acreditación de competencias profesionales.
+1. Tendrán la consideración de centros del Sistema de Formación Profesional los establecidos y gestionados por las administraciones competentes al efecto, así como los autorizados por dichas administraciones para impartir ofertas de formación profesional en cualquiera de los grados previstos en la presente ley, de forma exclusiva o simultáneamente con otro tipo de educación o formación, siempre que concluyan oficialmente en las acreditaciones, certificados y títulos de formación profesional establecidos en la presente ley. Se considerarán centros especializados de formación profesional los que impartan formación profesional en cualquiera de los grados previstos en la presente ley, de forma exclusiva, así como los dedicados, en su caso, a orientación profesional en el marco del Sistema de Formación Profesional, o acreditación de competencias profesionales.
 
-2. Las administraciones competentes en materia de formación profesional deberán articular y mantener una red estable de centros capaz de atender la programación de las actuaciones del Sistema de Formación Profesional, desarrollar de manera coherente y completa las correspondientes ofertas y hacer progresar la calidad de la formación.
+2. Las administraciones competentes en materia de formación profesional deberán articular y mantener una red estable de centros capaz de atender la programación de las actuaciones del Sistema de Formación Profesional, desarrollar de manera coherente y completa las correspondientes ofertas y hacer progresar la calidad de la formación.
 
-3. Las administraciones competentes fomentarán la existencia de una red de centros de formación profesional que garantice el acceso a esta formación de la población de zonas rurales y áreas con necesidades de desarrollo social y económico.
+3. Las administraciones competentes fomentarán la existencia de una red de centros de formación profesional que garantice el acceso a esta formación de la población de zonas rurales y áreas con necesidades de desarrollo social y económico.
 
-4. Los centros que impartan ofertas de formación profesional deberán quedar inscritos en el registro de centros autonómicos que corresponda al ámbito territorial en que tengan su sede y en tantos como desarrollen su actividad en cualquiera de las ofertas y modalidades de formación profesional, de acuerdo con lo establecido en el artículo 20 de la presente ley.
+4. Los centros que impartan ofertas de formación profesional deberán quedar inscritos en el registro de centros autonómicos que corresponda al ámbito territorial en que tengan su sede y en tantos como desarrollen su actividad en cualquiera de las ofertas y modalidades de formación profesional, de acuerdo con lo establecido en el artículo 20 de la presente ley.
 
 #### Artículo 78. Centros que pueden impartir ofertas de Formación Profesional.
 
-1. Los centros y organismos que puedan impartir ofertas de Formación Profesional deberán inscribirse de forma ineludible y general en el registro administrativo autonómico que corresponda al lugar en que tengan su sede y en tantos como desarrollen su actividad en cualquiera de los Grados y las modalidades de formación profesional. La documentación de las personas en formación sólo podrá contener asientos correspondientes al centro u organismo en el que están matriculados y se les haya impartido la formación correspondiente.
+1. Los centros y organismos que puedan impartir ofertas de Formación Profesional deberán inscribirse de forma ineludible y general en el registro administrativo autonómico que corresponda al lugar en que tengan su sede y en tantos como desarrollen su actividad en cualquiera de los Grados y las modalidades de formación profesional. La documentación de las personas en formación sólo podrá contener asientos correspondientes al centro u organismo en el que están matriculados y se les haya impartido la formación correspondiente.
 
-2. Previa autorización administrativa e inscripción registral, podrán impartir ofertas de formación profesional:
+2. Previa autorización administrativa e inscripción registral, podrán impartir ofertas de formación profesional:
 
 a) Los centros públicos y privados autorizados y acreditados al efecto por la administración competente.
 
@@ -1582,19 +1583,19 @@ d) Los organismos, públicos o privados, con quienes las administraciones compet
 
 e) Las empresas, públicas o privadas, que, con medios propios o contratados externamente, desarrollen acciones formativas incluidas en el Catálogo Nacional de Ofertas de Formación Profesional para sus propios trabajadores, en las condiciones que se regulen.
 
-3. Todos los centros de formación profesional a que se refiere el presente artículo deberán disponer de los requisitos en cuanto a espacios, instalaciones y equipamientos previstos en la normativa aplicable, que, en todo caso, serán comunes a todos ellos, en función de la oferta a desarrollar. Asimismo, podrán utilizarse los mismos espacios e instalaciones de un centro, de forma no simultánea, para la impartición de diferentes ofertas de formación profesional que sean afines, siempre que se disponga de los equipamientos requeridos para ello.
+3. Todos los centros de formación profesional a que se refiere el presente artículo deberán disponer de los requisitos en cuanto a espacios, instalaciones y equipamientos previstos en la normativa aplicable, que, en todo caso, serán comunes a todos ellos, en función de la oferta a desarrollar. Asimismo, podrán utilizarse los mismos espacios e instalaciones de un centro, de forma no simultánea, para la impartición de diferentes ofertas de formación profesional que sean afines, siempre que se disponga de los equipamientos requeridos para ello.
 
-4. Los centros de formación profesional podrán desarrollar las siguientes acciones formativas:
+4. Los centros de formación profesional podrán desarrollar las siguientes acciones formativas:
 
 a) Las de grado A, B, C, los que cumplan los requisitos establecidos al efecto y estén inscritos en el Registro General de Centros de Formación Profesional.
 
 b) Las conducentes a titulación de grado D y E, todos los centros de formación profesional que, además de estar inscritos en el Registro General de Centros de Formación Profesional, lo estén en el Registro Estatal de Centros Docentes no Universitarios.
 
-5. La Administración General del Estado promoverá la figura de centro de excelencia de formación profesional a nivel del Estado, cuyos requisitos y procedimiento de calificación se establecerán reglamentariamente.
+5. La Administración General del Estado promoverá la figura de centro de excelencia de formación profesional a nivel del Estado, cuyos requisitos y procedimiento de calificación se establecerán reglamentariamente.
 
 #### Artículo 79. Régimen de funcionamiento.
 
-1. Todos los centros autorizados para impartir ofertas de formación profesional:
+1. Todos los centros autorizados para impartir ofertas de formación profesional:
 
 a) Contarán con una denominación específica indicativa de su carácter de centro oficial autorizado.
 
@@ -1606,7 +1607,7 @@ Los registros autonómicos deberán mantenerse actualizados y trasferir la inscr
 
 c) Deberán participar en los controles y procesos de calidad que acuerde la administración competente, en el marco de los sistemas de evaluación y calidad del Sistema de Formación Profesional, sin perjuicio de las atribuciones asignadas a la inspección educativa en la Ley Orgánica 2/2006, de 3 de mayo, de Educación en los centros del sistema educativo no universitario.
 
-2. Los centros y entidades que desarrollen ofertas formativas sostenidas con fondos públicos deberán:
+2. Los centros y entidades que desarrollen ofertas formativas sostenidas con fondos públicos deberán:
 
 a) Cumplir los procedimientos, métodos y obligaciones específicas resultantes de las bases reguladoras de los fondos públicos y la normativa europea y nacional, incluso financiera y presupuestaria, que sea de aplicación.
 
@@ -1614,11 +1615,11 @@ b) Facilitar a las administraciones competentes toda la información que les sea
 
 c) Fomentar activamente la igualdad efectiva de trato y de oportunidades, así como la participación equilibrada de mujeres y hombres y contar con personal con formación acreditada en igualdad.
 
-3. Los centros privados de formación profesional decidirán sobre la concesión de los certificados y títulos para los que estén autorizados y estarán adscritos a centros públicos de formación profesional, a efectos de solicitud de la expedición de certificados de competencia, certificados profesionales, títulos de grado básico, grado medio y grado superior, sin perjuicio de sus plenas facultades académicas, especialista y Máster de Formación Profesional. Reglamentariamente se regulará la adscripción de los centros privados autorizados para impartir formación profesional a los centros públicos.
+3. Los centros privados de formación profesional decidirán sobre la concesión de los certificados y títulos para los que estén autorizados y estarán adscritos a centros públicos de formación profesional, a efectos de solicitud de la expedición de certificados de competencia, certificados profesionales, títulos de grado básico, grado medio y grado superior, sin perjuicio de sus plenas facultades académicas, especialista y Máster de Formación Profesional. Reglamentariamente se regulará la adscripción de los centros privados autorizados para impartir formación profesional a los centros públicos.
 
-4. Los centros que ofrezcan enseñanzas reguladas en esta ley y que consten en el Registro Estatal de Centros Docentes No Universitarios se regirán por lo dispuesto en la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, esta ley y las disposiciones que la desarrollen y las demás normas que les sean de aplicación.
+4. Los centros que ofrezcan enseñanzas reguladas en esta ley y que consten en el Registro Estatal de Centros Docentes No Universitarios se regirán por lo dispuesto en la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, esta ley y las disposiciones que la desarrollen y las demás normas que les sean de aplicación.
 
-5. Las administraciones públicas competentes en la materia:
+5. Las administraciones públicas competentes en la materia:
 
 a) Promoverán el modelo de centros especializados de formación profesional.
 
@@ -1630,7 +1631,7 @@ d) Promoverán la colaboración entre los centros que impartan enseñanzas de fo
 
 A este efecto, fomentarán el desarrollo de proyectos de actuación conjuntos a que hace referencia el artículo 49.1, letra b.
 
-6. Se impulsará la especialización de los centros de formación profesional, la creación de centros integrados y la generación de redes de especialización inteligente entre ellos.
+6. Se impulsará la especialización de los centros de formación profesional, la creación de centros integrados y la generación de redes de especialización inteligente entre ellos.
 
 #### Artículo 80. Centros extranjeros de formación profesional.
 
@@ -1638,27 +1639,27 @@ Podrán ubicarse en España centros extranjeros de formación profesional que se
 
 #### Artículo 81. Entidades no pertenecientes al Sistema de Formación Profesional.
 
-1. Únicamente tendrán la consideración de centros de formación profesional aquellos autorizados y que impartan ofertas formativas conducentes a la obtención directa de acreditaciones, certificados profesionales o títulos de formación profesional en cualquiera de los grados de formación A, B, C, D y E.
+1. Únicamente tendrán la consideración de centros de formación profesional aquellos autorizados y que impartan ofertas formativas conducentes a la obtención directa de acreditaciones, certificados profesionales o títulos de formación profesional en cualquiera de los grados de formación A, B, C, D y E.
 
-2. Las entidades que no tengan esta consideración no podrán utilizar ninguna de las denominaciones establecidas para los centros de formación profesional oficialmente autorizados, ni cualesquiera otras que puedan inducir a error o confusión con aquéllas.
+2. Las entidades que no tengan esta consideración no podrán utilizar ninguna de las denominaciones establecidas para los centros de formación profesional oficialmente autorizados, ni cualesquiera otras que puedan inducir a error o confusión con aquéllas.
 
-3. Tendrán prohibida la publicidad equívoca, que tienda a dar informaciones no veraces a la población en materia de formación profesional y los efectos de las acciones de formación que desarrollen.
+3. Tendrán prohibida la publicidad equívoca, que tienda a dar informaciones no veraces a la población en materia de formación profesional y los efectos de las acciones de formación que desarrollen.
 
 Las administraciones públicas competentes deberán velar por la observancia de esta prohibición.
 
-4. Se regirán enteramente por las normas del Derecho privado las entidades que ofrezcan la obtención de diplomas propios sin reconocimiento en el Sistema de Formación Profesional o cursos cuyo objeto exclusivo sea la preparación de las personas para procesos de pruebas para la obtención de los Títulos de Técnico y de Técnico Superior.
+4. Se regirán enteramente por las normas del Derecho privado las entidades que ofrezcan la obtención de diplomas propios sin reconocimiento en el Sistema de Formación Profesional o cursos cuyo objeto exclusivo sea la preparación de las personas para procesos de pruebas para la obtención de los Títulos de Técnico y de Técnico Superior.
 
 ## Capítulo II. Empresas y organismos equiparados.
 
 #### Artículo 82. Colaboración en la formación profesional.
 
-1. Las empresas u organismos equiparados, incluidas las administraciones públicas, que cuenten con la capacidad precisa al efecto y asuman su corresponsabilidad en la formación de estudiantes y personas trabajadoras podrán participar en actividades formativas del Sistema de Formación Profesional.
+1. Las empresas u organismos equiparados, incluidas las administraciones públicas, que cuenten con la capacidad precisa al efecto y asuman su corresponsabilidad en la formación de estudiantes y personas trabajadoras podrán participar en actividades formativas del Sistema de Formación Profesional.
 
-2. La colaboración de las empresas u organismos equiparados en el Sistema de Formación Profesional quedará acreditada en la forma y condiciones que reglamentariamente se determinen, y con los efectos que se regulen.
+2. La colaboración de las empresas u organismos equiparados en el Sistema de Formación Profesional quedará acreditada en la forma y condiciones que reglamentariamente se determinen, y con los efectos que se regulen.
 
 #### Artículo 83. Derechos y deberes de las empresas u organismos equiparados colaboradores del Sistema de Formación Profesional.
 
-1. Serán derechos de la empresa u organismo equiparado:
+1. Serán derechos de la empresa u organismo equiparado:
 
 a) Impulsar y acogerse, en su caso, a la acreditación permanente de competencias profesionales de sus trabajadores.
 
@@ -1670,7 +1671,7 @@ d) Solicitar a los centros del Sistema de Formación Profesional el desarrollo d
 
 e) Solicitar y, en su caso, obtener los beneficios que puedan otorgarse a las empresas u organismos equiparados colaboradores del Sistema de Formación Profesional.
 
-2. Serán obligaciones de la empresa u organismo equiparado:
+2. Serán obligaciones de la empresa u organismo equiparado:
 
 a) Formar al estudiante durante su periodo en la empresa u organismo equiparado.
 
@@ -1682,7 +1683,7 @@ d) Fomentar activamente la igualdad efectiva de trato y de oportunidades, median
 
 #### Artículo 84. Colaboración en la acción formativa.
 
-1. Las empresas y organismos equiparados:
+1. Las empresas y organismos equiparados:
 
 a) Contribuirán, en el contexto de su colaboración con el sector público y a los efectos del diseño de nuevos estándares de competencia profesional y la actualización de las ofertas de formación, a la detección de la evolución de perfiles profesionales y las nuevas necesidades formativas derivadas tanto de avances tecnológicos como de exigencias de sostenibilidad, definiendo y manteniendo actualizados, en consecuencia, los contenidos formativos de las correspondientes especialidades.
 
@@ -1692,9 +1693,9 @@ En cualquier caso, estos espacios, instalaciones y entornos, así como los itine
 
 c) Se facilitará, en el caso de las pequeñas y medianas empresas, a fin de hacer posible su participación en el circuito de la formación profesional, la creación de asociaciones o agrupaciones en un ámbito territorial determinado, a las que podrá darse el tratamiento de una única empresa a los efectos de organización, gestión y administración de los periodos de formación en la empresa, incluso con la intervención y asistencia de agentes intermedios pertenecientes al tejido social y económico.
 
-2. Las empresas u organismos equiparados colaboradores en la formación profesional que acojan personas en formación en la fase de formación en empresa deberán contar con un profesional con elevadas competencias técnicas, alto conocimiento de la organización y funcionamiento de la empresa, competencias pedagógicas y dedicación horaria suficiente, en calidad de tutor o tutora.
+2. Las empresas u organismos equiparados colaboradores en la formación profesional que acojan personas en formación en la fase de formación en empresa deberán contar con un profesional con elevadas competencias técnicas, alto conocimiento de la organización y funcionamiento de la empresa, competencias pedagógicas y dedicación horaria suficiente, en calidad de tutor o tutora.
 
-3. Las administraciones públicas:
+3. Las administraciones públicas:
 
 a) Promoverán la figura del profesional sénior de empresa para la colaboración con los centros de formación profesional y garantizar la actualización permanente de la formación en los procesos productivos que se desarrolle en el centro de formación profesional.
 
@@ -1708,9 +1709,9 @@ b) Facilitarán, en la mayor medida posible, las estancias formativas de docente
 
 #### Artículo 85. Profesorado de formación profesional perteneciente a los cuerpos docentes del sistema educativo.
 
-1. Para impartir docencia en enseñanzas de Formación Profesional integradas en el sistema educativo se exigirán los requisitos de titulación y formación establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+1. Para impartir docencia en enseñanzas de Formación Profesional integradas en el sistema educativo se exigirán los requisitos de titulación y formación establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
-2. Podrán impartir docencia en Formación Profesional del sistema educativo:
+2. Podrán impartir docencia en Formación Profesional del sistema educativo:
 
 a) Los integrantes de los siguientes cuerpos docentes:
 
@@ -1726,7 +1727,7 @@ c) Los que para la docencia en determinadas especialidades, se determinen reglam
 
 d) El personal que determine el Ministerio de Defensa en los centros de su titularidad que impartan ofertas de Formación Profesional, y que cumplan los requisitos determinados reglamentariamente.
 
-3. En cada oferta de Formación Profesional se determinarán:
+3. En cada oferta de Formación Profesional se determinarán:
 
 a) Las especialidades del profesorado del sector público que deba impartir los correspondientes módulos profesionales, así como las equivalencias a efectos de docencia y la cualificación de los profesores especialistas que, en cada caso, procedan.
 
@@ -1734,17 +1735,17 @@ b) Las titulaciones requeridas y cualesquiera otros requisitos necesarios para l
 
 #### Artículo 86. Profesorado y personal formador de centros de formación profesional no incorporados al sistema educativo.
 
-1. Para impartir ofertas de formación profesional incluidas en la presente ley en centros de formación profesional no incorporados al sistema educativo será necesario tener el título de Grado universitario, Licenciado o Licenciada, Ingeniero o Ingeniera y Arquitecto o Arquitecta, o titulación equivalente o, en su caso, la titulación de Técnico Superior de Formación Profesional o equivalente que, a efectos de docencia, se determine reglamentariamente, además de la formación pedagógica y didáctica que se establezca.
+1. Para impartir ofertas de formación profesional incluidas en la presente ley en centros de formación profesional no incorporados al sistema educativo será necesario tener el título de Grado universitario, Licenciado o Licenciada, Ingeniero o Ingeniera y Arquitecto o Arquitecta, o titulación equivalente o, en su caso, la titulación de Técnico Superior de Formación Profesional o equivalente que, a efectos de docencia, se determine reglamentariamente, además de la formación pedagógica y didáctica que se establezca.
 
-2. No obstante lo dispuesto en el apartado anterior, reglamentariamente se determinarán las equivalencias aplicables, a efectos de docencia en determinados grados y especialidades de las ofertas de formación profesional, a quienes estén en posesión de una titulación de Técnico o Técnica de Formación Profesional, Técnico o Técnica Superior de Formación Profesional, Técnico o Técnica Auxiliar o Técnico o Técnica Especialista de Formación Profesional y, en su caso, de certificados de profesionalidad de nivel 2 y 3 asociados a la familia profesional.
+2. No obstante lo dispuesto en el apartado anterior, reglamentariamente se determinarán las equivalencias aplicables, a efectos de docencia en determinados grados y especialidades de las ofertas de formación profesional, a quienes estén en posesión de una titulación de Técnico o Técnica de Formación Profesional, Técnico o Técnica Superior de Formación Profesional, Técnico o Técnica Auxiliar o Técnico o Técnica Especialista de Formación Profesional y, en su caso, de certificados de profesionalidad de nivel 2 y 3 asociados a la familia profesional.
 
-3. Los equipos docentes podrán complementarse con la figura de experto del sector productivo, tal como determina el artículo 88 de esta ley.
+3. Los equipos docentes podrán complementarse con la figura de experto del sector productivo, tal como determina el artículo 88 de esta ley.
 
 #### Artículo 87. Formación permanente.
 
-1. La formación permanente es un derecho y una obligación de todo el profesorado y personal formador del Sistema de Formación Profesional, así como una responsabilidad de las administraciones y de los propios centros que impartan formación profesional.
+1. La formación permanente es un derecho y una obligación de todo el profesorado y personal formador del Sistema de Formación Profesional, así como una responsabilidad de las administraciones y de los propios centros que impartan formación profesional.
 
-2. Los programas de formación permanente deberán garantizar la adecuación de los conocimientos y capacidades del profesorado y personal formador a los cambios tecnológicos y de sostenibilidad en cada sector productivo, así como a las transformaciones en la organización del trabajo, y, en particular:
+2. Los programas de formación permanente deberán garantizar la adecuación de los conocimientos y capacidades del profesorado y personal formador a los cambios tecnológicos y de sostenibilidad en cada sector productivo, así como a las transformaciones en la organización del trabajo, y, en particular:
 
 a) Prestarán especial atención a la formación en innovación e investigación aplicada, emprendimiento, digitalización y en lenguas extranjeras.
 
@@ -1752,27 +1753,27 @@ b) Promoverán las estancias de formación en empresas u organismos equiparados,
 
 c) Garantizarán la formación en competencias digitales, incorporando el diseño y la accesibilidad universal en las mismas, tanto en lo relativo al manejo de los soportes tecnológicos, como en la elaboración de materiales y la adopción de metodologías innovadoras de enseñanza.
 
-3. La Administración General del Estado podrá ofrecer programas de formación permanente de carácter estatal dirigidos a profesorado y personal formador de formación profesional y establecer, a tal efecto, los convenios o fórmulas jurídicas oportunas con las instituciones correspondientes.
+3. La Administración General del Estado podrá ofrecer programas de formación permanente de carácter estatal dirigidos a profesorado y personal formador de formación profesional y establecer, a tal efecto, los convenios o fórmulas jurídicas oportunas con las instituciones correspondientes.
 
-4. Las administraciones impulsarán acuerdos con los colegios profesionales, universidades u otras instituciones que contribuyan a mejorar la calidad de la formación permanente del profesorado y personal formador de formación profesional.
+4. Las administraciones impulsarán acuerdos con los colegios profesionales, universidades u otras instituciones que contribuyan a mejorar la calidad de la formación permanente del profesorado y personal formador de formación profesional.
 
 ## Capítulo II. Otros perfiles colaboradores.
 
 #### Artículo 88. Personas expertas de sector productivo.
 
-1. Cuando así se requiera para cubrir las necesidades de formación en las ofertas de formación profesional, las administraciones competentes en la materia podrán autorizar a profesionales en ejercicio en el sector productivo asociado para impartir ofertas de formación profesional en cualquiera de los centros del Sistema de Formación Profesional.
+1. Cuando así se requiera para cubrir las necesidades de formación en las ofertas de formación profesional, las administraciones competentes en la materia podrán autorizar a profesionales en ejercicio en el sector productivo asociado para impartir ofertas de formación profesional en cualquiera de los centros del Sistema de Formación Profesional.
 
-2. Reglamentariamente se establecerán los requisitos específicos y condiciones para el desempeño de las funciones de apoyo docente de las personas expertas de sector productivo, que prestarán sus servicios en régimen de contratación laboral.
+2. Reglamentariamente se establecerán los requisitos específicos y condiciones para el desempeño de las funciones de apoyo docente de las personas expertas de sector productivo, que prestarán sus servicios en régimen de contratación laboral.
 
 #### Artículo 89. Otros perfiles colaboradores.
 
 Se promoverán, con la colaboración de las organizaciones empresariales y sindicales más representativas, las figuras siguientes:
 
-1. La persona trabajadora experta sénior de empresa, para la facilitación de la permanente actualización del currículo en el centro de formación profesional por parte del equipo docente y su relación con la realidad productiva.
+1. La persona trabajadora experta sénior de empresa, para la facilitación de la permanente actualización del currículo en el centro de formación profesional por parte del equipo docente y su relación con la realidad productiva.
 
-2. La persona prospectora de empresas u organismos equiparados, que, con carácter docente o no, facilite los contactos de centros de formación profesional y empresas u organismos equiparados.
+2. La persona prospectora de empresas u organismos equiparados, que, con carácter docente o no, facilite los contactos de centros de formación profesional y empresas u organismos equiparados.
 
-3. Personal de apoyo especializado que asesore y facilite el acompañamiento en el itinerario formativo de personas con discapacidad.
+3. Personal de apoyo especializado que asesore y facilite el acompañamiento en el itinerario formativo de personas con discapacidad.
 
 ## Título VI
 
@@ -1780,17 +1781,17 @@ Se promoverán, con la colaboración de las organizaciones empresariales y sindi
 
 #### Artículo 90. Objeto y finalidad.
 
-1. Las competencias profesionales adquiridas por experiencia laboral u otras vías no formales o informales podrán ser identificadas, evaluadas y acreditadas oficialmente por el procedimiento regulado en este título. La acreditación que se obtenga por este procedimiento facilitará itinerarios formativos conducentes a una mayor cualificación.
+1. Las competencias profesionales adquiridas por experiencia laboral u otras vías no formales o informales podrán ser identificadas, evaluadas y acreditadas oficialmente por el procedimiento regulado en este título. La acreditación que se obtenga por este procedimiento facilitará itinerarios formativos conducentes a una mayor cualificación.
 
-2. La acreditación de las competencias profesionales adquiridas por experiencia laboral u otras vías no formales o informales, tendrá como referente el Catálogo Nacional de Estándares de Competencias Profesionales.
+2. La acreditación de las competencias profesionales adquiridas por experiencia laboral u otras vías no formales o informales, tendrá como referente el Catálogo Nacional de Estándares de Competencias Profesionales.
 
 #### Artículo 91. Interesados en el procedimiento, otros sujetos y deberes de las administraciones.
 
-1. El procedimiento previsto en el artículo anterior tendrá como destinataria la población activa con experiencia laboral y sin acreditación, certificado o título profesionalizante de todas o parte de sus competencias profesionales, para que valide dichas competencias profesionales adquiridas en el desempeño laboral, así como aquellas cuya vía de adquisición haya sido la educación no formal.
+1. El procedimiento previsto en el artículo anterior tendrá como destinataria la población activa con experiencia laboral y sin acreditación, certificado o título profesionalizante de todas o parte de sus competencias profesionales, para que valide dichas competencias profesionales adquiridas en el desempeño laboral, así como aquellas cuya vía de adquisición haya sido la educación no formal.
 
-2. Se promoverá la implicación directa de las empresas u organismos equiparados como destinatarias del procedimiento, de manera que la participación de las personas trabajadoras sea facilitada y gestionada conjuntamente entre las administraciones, los agentes sociales y las empresas y organismos.
+2. Se promoverá la implicación directa de las empresas u organismos equiparados como destinatarias del procedimiento, de manera que la participación de las personas trabajadoras sea facilitada y gestionada conjuntamente entre las administraciones, los agentes sociales y las empresas y organismos.
 
-3. Las administraciones públicas deberán:
+3. Las administraciones públicas deberán:
 
 a) Garantizar la difusión del procedimiento y facilitar a las personas interesadas información y orientación sobre sus derechos, las acreditaciones oficiales que pueden obtener y los efectos de las mismas.
 
@@ -1804,13 +1805,13 @@ e) Garantizar que cualquier persona ocupada y realizando cualquier acción de fo
 
 f) Elaborar planes estratégicos para promover la acreditación de competencias profesionales a gran escala entre su población activa.
 
-4. Las organizaciones empresariales y sindicales más representativas, así como otros agentes implicados deberán promover entre personas trabajadoras y empresas u organismos equiparados el valor añadido de acreditar las competencias de todos los trabajadores, así como colaborar en su difusión, seguimiento y evaluación.
+4. Las organizaciones empresariales y sindicales más representativas, así como otros agentes implicados deberán promover entre personas trabajadoras y empresas u organismos equiparados el valor añadido de acreditar las competencias de todos los trabajadores, así como colaborar en su difusión, seguimiento y evaluación.
 
 #### Artículo 92. Características del procedimiento.
 
-1. La acreditación de las competencias profesionales constituye un procedimiento administrativo abierto de forma permanente respecto a cualquier estándar de competencia profesional incluido en el Catálogo Nacional de Estándares de Competencias Profesionales.
+1. La acreditación de las competencias profesionales constituye un procedimiento administrativo abierto de forma permanente respecto a cualquier estándar de competencia profesional incluido en el Catálogo Nacional de Estándares de Competencias Profesionales.
 
-2. El procedimiento de acreditación de competencias profesionales a que se refiere el apartado anterior:
+2. El procedimiento de acreditación de competencias profesionales a que se refiere el apartado anterior:
 
 a) Se regirá por los principios de simplicidad, claridad y proximidad a los ciudadanos, eficacia en el cumplimiento de los objetivos fijados, y eficiencia y adecuación de los medios a los fines institucionales.
 
@@ -1824,13 +1825,13 @@ e) Facilitará una propuesta de itinerario formativo que complete la formación 
 
 #### Artículo 93. Efectos.
 
-1. El reconocimiento de los estándares de competencias profesionales evaluados conforme al procedimiento de acreditación de competencias tendrá carácter acumulable y dará lugar, una vez inscrito en el Registro Estatal de Acreditaciones de Competencias Profesionales Adquiridas por Experiencia Laboral o Vías No Formales e Informales, a la expedición del documento acreditativo correspondiente y, en su caso, los Certificados o Títulos equivalentes en el Catálogo de Oferta de Formación Profesional.
+1. El reconocimiento de los estándares de competencias profesionales evaluados conforme al procedimiento de acreditación de competencias tendrá carácter acumulable y dará lugar, una vez inscrito en el Registro Estatal de Acreditaciones de Competencias Profesionales Adquiridas por Experiencia Laboral o Vías No Formales e Informales, a la expedición del documento acreditativo correspondiente y, en su caso, los Certificados o Títulos equivalentes en el Catálogo de Oferta de Formación Profesional.
 
-2. Asimismo, el procedimiento siempre facilitará una propuesta de itinerario formativo que complete la formación conducente a la obtención de un certificado o un título.
+2. Asimismo, el procedimiento siempre facilitará una propuesta de itinerario formativo que complete la formación conducente a la obtención de un certificado o un título.
 
-3. La acreditación de un estándar de competencia adquirido por experiencia laboral u otras vías no formales o informales tendrá la condición de acreditación parcial acumulable, a efectos, en su caso, de acreditar y de completar la formación conducente a la obtención del correspondiente título o certificado profesional.
+3. La acreditación de un estándar de competencia adquirido por experiencia laboral u otras vías no formales o informales tendrá la condición de acreditación parcial acumulable, a efectos, en su caso, de acreditar y de completar la formación conducente a la obtención del correspondiente título o certificado profesional.
 
-4. Los estándares de competencias profesionales adquiridos por esta vía pasarán a sumarse a los adquiridos por vías formales de formación profesional, y constarán en el Informe Formativo-Profesional de cada persona que podrá obtenerse en el Registro Estatal de Formación Profesional.
+4. Los estándares de competencias profesionales adquiridos por esta vía pasarán a sumarse a los adquiridos por vías formales de formación profesional, y constarán en el Informe Formativo-Profesional de cada persona que podrá obtenerse en el Registro Estatal de Formación Profesional.
 
 ## Título VII
 
@@ -1838,15 +1839,15 @@ e) Facilitará una propuesta de itinerario formativo que complete la formación 
 
 #### Artículo 94. Contenido y alcance.
 
-1. La orientación profesional del Sistema de Formación Profesional se prestará a personas, empresas, organismos e instituciones de manera diferenciada y, además, en el marco de cualesquiera ofertas de formación profesional o acreditación de competencias vinculadas a dicho sistema, y se desarrollará con un planteamiento integral de apoyo y asistencia en el aprendizaje, la formación a lo largo de la vida y el ajuste entre competencias poseídas y requeridas individual o colectivamente e incluirá la información, el asesoramiento y el acompañamiento. Estará, en todo momento, centrada en el establecimiento de itinerarios formativos adecuados para la efectiva adquisición de las competencias profesionales deseadas por aquellos a quienes se orienta.
+1. La orientación profesional del Sistema de Formación Profesional se prestará a personas, empresas, organismos e instituciones de manera diferenciada y, además, en el marco de cualesquiera ofertas de formación profesional o acreditación de competencias vinculadas a dicho sistema, y se desarrollará con un planteamiento integral de apoyo y asistencia en el aprendizaje, la formación a lo largo de la vida y el ajuste entre competencias poseídas y requeridas individual o colectivamente e incluirá la información, el asesoramiento y el acompañamiento. Estará, en todo momento, centrada en el establecimiento de itinerarios formativos adecuados para la efectiva adquisición de las competencias profesionales deseadas por aquellos a quienes se orienta.
 
-2. Las administraciones deberán garantizar, en el ámbito de sus respectivas competencias, el apoyo integral a la carrera formativa y profesional mediante una orientación profesional ajustada y eficaz, que proporcione a las personas usuarias las informaciones y guías para la consideración de todo tipo de opciones formativas y profesionales en la elección o redefinición de los itinerarios de formación, cualificación y ejercicio profesional, eliminando los estereotipos profesionales y sesgos de género en las opciones formativas profesionales. En los casos de Grados D de nivel básico y medio, la orientación profesional incluirá elementos socioeducativos del alumnado.
+2. Las administraciones deberán garantizar, en el ámbito de sus respectivas competencias, el apoyo integral a la carrera formativa y profesional mediante una orientación profesional ajustada y eficaz, que proporcione a las personas usuarias las informaciones y guías para la consideración de todo tipo de opciones formativas y profesionales en la elección o redefinición de los itinerarios de formación, cualificación y ejercicio profesional, eliminando los estereotipos profesionales y sesgos de género en las opciones formativas profesionales. En los casos de Grados D de nivel básico y medio, la orientación profesional incluirá elementos socioeducativos del alumnado.
 
-3. Las administraciones promoverán la coordinación y cooperación para garantizar la calidad y complementariedad del servicio de orientación profesional facilitado desde el Sistema de Formación Profesional y el sistema nacional de empleo, que incorporará, además, otras actuaciones de orientación profesional no vinculadas a los itinerarios formativos.
+3. Las administraciones promoverán la coordinación y cooperación para garantizar la calidad y complementariedad del servicio de orientación profesional facilitado desde el Sistema de Formación Profesional y el sistema nacional de empleo, que incorporará, además, otras actuaciones de orientación profesional no vinculadas a los itinerarios formativos.
 
 #### Artículo 95. Cometido y fines.
 
-1. La orientación profesional del Sistema de Formación Profesional tendrá por cometido:
+1. La orientación profesional del Sistema de Formación Profesional tendrá por cometido:
 
 a) El desarrollo personal y profesional de las personas, con independencia de su edad, sexo, procedencia, situación personal o laboral, nivel socioeconómico o cultural, capacidades diferentes y necesidades educativas especiales.
 
@@ -1854,7 +1855,7 @@ b) La mejora de la formación profesional y de su relación con el mercado labor
 
 c) El ofrecimiento de información, de manera proactiva, a personas, empresas y organizaciones sobre las ventajas de la acreditación de las competencias profesionales y la cualificación y recualificación permanentes.
 
-2. Serán fines de la orientación profesional:
+2. Serán fines de la orientación profesional:
 
 a) La información y el asesoramiento individualizados sobre las ofertas de formación profesional que, ajustadas al perfil correspondiente y a las oportunidades de empleo, permitan la cualificación y recualificación desde la motivación y la identificación clara de los propios objetivos personales.
 
@@ -1872,13 +1873,13 @@ g) La información y la formulación de propuestas a medida a las empresas y ent
 
 h) El apoyo a las economías locales, regionales y estatal mediante el desarrollo y la adaptación de las personas trabajadoras a las demandas económicas y las circunstancias productivas cambiantes, con especial atención a los entornos rurales y las zonas en declive demográfico.
 
-3. Para el cumplimiento de sus cometidos y fines, el Gobierno, en colaboración con las administraciones competentes, garantizará la existencia de un Mapa de la Formación Profesional, que incluya información vinculada a ofertas de formación, itinerarios, datos actualizados del mercado laboral y prospectiva de las necesidades de empleo por sectores productivos.
+3. Para el cumplimiento de sus cometidos y fines, el Gobierno, en colaboración con las administraciones competentes, garantizará la existencia de un Mapa de la Formación Profesional, que incluya información vinculada a ofertas de formación, itinerarios, datos actualizados del mercado laboral y prospectiva de las necesidades de empleo por sectores productivos.
 
 #### Artículo 96. Condiciones de prestación.
 
-1. Toda persona tendrá derecho a una orientación profesional flexible y gratuita, que se adapte a sus capacidades, diferentes aptitudes y necesidades específicas e incluya la acreditación de competencias profesionales adquiridas mediante la experiencia laboral u otras vías no formales o informales.
+1. Toda persona tendrá derecho a una orientación profesional flexible y gratuita, que se adapte a sus capacidades, diferentes aptitudes y necesidades específicas e incluya la acreditación de competencias profesionales adquiridas mediante la experiencia laboral u otras vías no formales o informales.
 
-2. A los efectos de lo dispuesto en el apartado anterior:
+2. A los efectos de lo dispuesto en el apartado anterior:
 
 a) Se garantizará la información y el acompañamiento para la acreditación de las competencias adquiridas por experiencia laboral u otras vías no formales o informales, así como el fácil acceso a la orientación y el asesoramiento adecuados y precisos, que ayuden a la ciudadanía a tomar decisiones acertadas en materia de educación y formación en cualquier momento a lo largo de la vida.
 
@@ -1890,9 +1891,9 @@ d) Se establecerá la cooperación necesaria con otras prestaciones de orientaci
 
 #### Artículo 97. Estrategia general de orientación profesional.
 
-1. Se establecerá por el Gobierno una estrategia general para el desarrollo de la orientación profesional en el marco del Sistema de Formación Profesional buscando la complementariedad con otras estructuras, servicios, recursos y ofertas, al objeto de garantizar la cobertura, calidad, eficiencia y equidad de la respuesta orientadora.
+1. Se establecerá por el Gobierno una estrategia general para el desarrollo de la orientación profesional en el marco del Sistema de Formación Profesional buscando la complementariedad con otras estructuras, servicios, recursos y ofertas, al objeto de garantizar la cobertura, calidad, eficiencia y equidad de la respuesta orientadora.
 
-2. La estrategia general para el desarrollo de la orientación profesional deberá:
+2. La estrategia general para el desarrollo de la orientación profesional deberá:
 
 a) Establecer el modelo de orientación a desarrollar y las medidas, instrumentos y los recursos necesarios para facilitar el desarrollo de las funciones establecidas para la orientación a lo largo de la vida, así como las fórmulas de colaboración interadministrativa y con cualesquiera otros organismos.
 
@@ -1906,29 +1907,29 @@ e) Prever y promover estudios e investigaciones sobre la relación entre la orie
 
 f) Promover acciones a nivel estatal, autonómico y local que potencien y optimicen el acceso a la formación.
 
-3. Las administraciones públicas impulsarán, en sus respectivos ámbitos de competencia, la recogida sistemática de datos y su puesta a disposición del Sistema de Formación Profesional a fin de posibilitar ajustar el mapa de los servicios y elaborar informes sobre el funcionamiento de la orientación profesional que redunden en la mejora de su calidad.
+3. Las administraciones públicas impulsarán, en sus respectivos ámbitos de competencia, la recogida sistemática de datos y su puesta a disposición del Sistema de Formación Profesional a fin de posibilitar ajustar el mapa de los servicios y elaborar informes sobre el funcionamiento de la orientación profesional que redunden en la mejora de su calidad.
 
 #### Artículo 98. Cooperación y coordinación del servicio de orientación profesional.
 
 El servicio de orientación del Sistema de Formación Profesional deberá:
 
-1. Posibilitar, según las características del sector de población de referencia, el uso compartido de recursos.
+1. Posibilitar, según las características del sector de población de referencia, el uso compartido de recursos.
 
-2. Garantizar la existencia de puntos permanentes de orientación profesional en el marco de la acreditación de las competencias profesionales adquiridas por experiencia laboral u otras vías no formales o informales, con objeto de mejorar y reconocer las competencias de las personas trabajadoras para su desarrollo profesional.
+2. Garantizar la existencia de puntos permanentes de orientación profesional en el marco de la acreditación de las competencias profesionales adquiridas por experiencia laboral u otras vías no formales o informales, con objeto de mejorar y reconocer las competencias de las personas trabajadoras para su desarrollo profesional.
 
-3. Potenciar su papel en las políticas de educación, formación, inclusión social, igualdad y crecimiento económico, en relación y coordinación con las atribuciones de los órganos administrativos que disponen de esas competencias.
+3. Potenciar su papel en las políticas de educación, formación, inclusión social, igualdad y crecimiento económico, en relación y coordinación con las atribuciones de los órganos administrativos que disponen de esas competencias.
 
-4. Promover la coordinación con los servicios sociales u otros servicios de carácter autonómico o local.
+4. Promover la coordinación con los servicios sociales u otros servicios de carácter autonómico o local.
 
 #### Artículo 99. Protocolos de actuación y modalidades de prestación del servicio.
 
-1. A los efectos del apoyo integral a todas las personas en sus carreras formativas y profesionales y en la identificación de nuevas oportunidades en el Sistema de Formación Profesional, la orientación profesional:
+1. A los efectos del apoyo integral a todas las personas en sus carreras formativas y profesionales y en la identificación de nuevas oportunidades en el Sistema de Formación Profesional, la orientación profesional:
 
 a) Podrá realizarse de forma presencial, en línea o en combinación con plataformas digitales.
 
 b) Deberá disponer de un protocolo adaptable a los distintos tipos de personas usuarias.
 
-2. El protocolo a que se refiere el apartado anterior deberá incluir:
+2. El protocolo a que se refiere el apartado anterior deberá incluir:
 
 a) La información actualizada de las ofertas de formación profesional en el Sistema de Formación Profesional.
 
@@ -1942,15 +1943,15 @@ e) El desarrollo de competencias o habilidades para la gestión de la carrera, p
 
 #### Artículo 100. Organización.
 
-1. Los centros de formación profesional deberán garantizar el servicio de orientación profesional con el contenido del protocolo previsto en el artículo anterior, a través del profesorado y personal formador con este perfil orientador.
+1. Los centros de formación profesional deberán garantizar el servicio de orientación profesional con el contenido del protocolo previsto en el artículo anterior, a través del profesorado y personal formador con este perfil orientador.
 
-2. Las administraciones públicas deberán asegurar, en el ámbito de sus respectivas competencias, la prestación de orientación profesional en cualquier centro de formación profesional.
+2. Las administraciones públicas deberán asegurar, en el ámbito de sus respectivas competencias, la prestación de orientación profesional en cualquier centro de formación profesional.
 
 #### Artículo 101. Profesionales de los servicios de orientación profesional.
 
-1. Las administraciones responsables del servicio de orientación profesional del Sistema de Formación Profesional velarán por la formación continua del profesorado y los profesionales de orientación que operen en dichos servicios.
+1. Las administraciones responsables del servicio de orientación profesional del Sistema de Formación Profesional velarán por la formación continua del profesorado y los profesionales de orientación que operen en dichos servicios.
 
-2. Las administraciones competentes garantizarán el acceso del profesorado de las especialidades implicadas y, en general, de los profesionales a que se refiere el apartado anterior, a la formación permanente vinculada a:
+2. Las administraciones competentes garantizarán el acceso del profesorado de las especialidades implicadas y, en general, de los profesionales a que se refiere el apartado anterior, a la formación permanente vinculada a:
 
 a) Conocimientos prácticos específicos de las realidades territoriales en sus dimensiones económica y laboral.
 
@@ -1972,13 +1973,13 @@ g) Conocimiento y sensibilización sobre capacidades diferentes y necesidades ed
 
 #### Artículo 102. Deberes de promoción y organización.
 
-1. La cultura de la innovación, la investigación aplicada y el emprendimiento activo deberán formar parte de los currículos básicos de las ofertas del Sistema de Formación Profesional. A tal efecto:
+1. La cultura de la innovación, la investigación aplicada y el emprendimiento activo deberán formar parte de los currículos básicos de las ofertas del Sistema de Formación Profesional. A tal efecto:
 
 a) Las ofertas de formación profesional incluirán actividades vinculadas a la innovación interna y externa en los centros de formación profesional, que garanticen el conocimiento de cómo las tecnologías y procesos avanzados modifican constantemente cada sector productivo.
 
 b) Los centros de formación profesional promoverán las habilidades asociadas a la innovación mediante la aplicación, a través de proyectos, de metodologías inclusivas e innovadoras próximas a la realidad laboral que incentiven la formación vinculada a la iniciativa y la creatividad ante nuevas situaciones.
 
-2. En el ámbito de sus respectivas competencias, las administraciones públicas:
+2. En el ámbito de sus respectivas competencias, las administraciones públicas:
 
 a) Promoverán la existencia de aulas tecnológicas y de innovación en los centros de formación profesional, generadoras de proyectos innovadores e investigación aplicada al sector productivo.
 
@@ -1994,7 +1995,7 @@ f) Potenciarán la investigación aplicada, incentivando la figura del profesor 
 
 g) Promoverán la innovación pedagógica y la investigación en formación profesional, orientación profesional y acreditación de competencias, con perspectiva comparada e internacional.
 
-3. En todo caso:
+3. En todo caso:
 
 a) La Administración General del Estado, previa identificación de los sectores y las áreas con potencialidad competitiva en los diferentes territorios y en colaboración con las restantes administraciones con competencia en la materia, promoverá redes de centros de excelencia basados en la especialización inteligente que puedan convertirse en catalizadores de ecosistemas innovadores.
 
@@ -2004,15 +2005,15 @@ c) Los centros de referencia nacional desarrollarán, en sus planes de actuació
 
 #### Artículo 103. Proyectos de innovación e investigación aplicada.
 
-1. El desarrollo de proyectos de innovación e investigación aplicada impulsará la generación de un entorno especializado de confluencia y colaboración efectiva en diferentes sectores productivos, entre los centros de formación profesional y las empresas u organismos equiparados, especialmente en el ámbito de las pequeñas y medianas empresas.
+1. El desarrollo de proyectos de innovación e investigación aplicada impulsará la generación de un entorno especializado de confluencia y colaboración efectiva en diferentes sectores productivos, entre los centros de formación profesional y las empresas u organismos equiparados, especialmente en el ámbito de las pequeñas y medianas empresas.
 
-2. Las administraciones fomentarán, en sus respectivos ámbitos de competencia y mediante proyectos de investigación aplicada, las áreas de especialización en sectores emergentes de interés para el tejido productivo.
+2. Las administraciones fomentarán, en sus respectivos ámbitos de competencia y mediante proyectos de investigación aplicada, las áreas de especialización en sectores emergentes de interés para el tejido productivo.
 
 #### Artículo 104. Emprendimiento.
 
-1. Las ofertas de formación profesional incluirán orientación y apoyo para el emprendimiento, actividades de fomento de la cultura emprendedora, del sentido de la iniciativa y la capacidad de iniciar nuevos proyectos empresariales vinculados al sector productivo para el que se forman, favoreciendo la creación de empresas.
+1. Las ofertas de formación profesional incluirán orientación y apoyo para el emprendimiento, actividades de fomento de la cultura emprendedora, del sentido de la iniciativa y la capacidad de iniciar nuevos proyectos empresariales vinculados al sector productivo para el que se forman, favoreciendo la creación de empresas.
 
-2. La Administración General del Estado:
+2. La Administración General del Estado:
 
 a) Fomentará la convocatoria de proyectos y programas multidimensionales, que integren el aprendizaje en el desarrollo de proyectos con la experiencia de agentes económicos, empresas e instituciones de diferentes sectores productivos, con el objeto de crear proyectos experimentales para el desarrollo de capacidades de emprendimiento.
 
@@ -2024,13 +2025,13 @@ c) Impulsará, en colaboración con las restantes administraciones con competenc
 
 d) Garantizará ofertas de formación, orientación y apoyo al emprendimiento en el marco del Sistema de Formación Profesional destinadas a cualquier persona, bien en centros de formación profesional, bien en colaboración con asociaciones empresariales u otros agentes territoriales.
 
-3. Con el fin de regenerar, modernizar y ampliar el tejido productivo del entorno, las administraciones con competencia en la materia deberán fomentar que los centros de formación profesional participen en el desarrollo de proyectos empresariales y la creación, en sectores diversos, así como en los entornos rurales y las zonas en declive demográfico, de empresas que incorporen los valores de la innovación, la sostenibilidad y el compromiso social.
+3. Con el fin de regenerar, modernizar y ampliar el tejido productivo del entorno, las administraciones con competencia en la materia deberán fomentar que los centros de formación profesional participen en el desarrollo de proyectos empresariales y la creación, en sectores diversos, así como en los entornos rurales y las zonas en declive demográfico, de empresas que incorporen los valores de la innovación, la sostenibilidad y el compromiso social.
 
 #### Artículo 105. Aprendizaje de la innovación y el emprendimiento.
 
-1. La Administración General del Estado, en colaboración con las administraciones competentes, promoverá centros de excelencia en formación profesional referentes en los ámbitos de innovación e investigación aplicada y de emprendimiento activo en cada sector productivo.
+1. La Administración General del Estado, en colaboración con las administraciones competentes, promoverá centros de excelencia en formación profesional referentes en los ámbitos de innovación e investigación aplicada y de emprendimiento activo en cada sector productivo.
 
-2. Se priorizará que los proyectos intermodulares contemplados en el currículo de los ciclos formativos de grado medio y superior de formación profesional incorporen la innovación aplicada o el emprendimiento en el sector productivo.
+2. Se priorizará que los proyectos intermodulares contemplados en el currículo de los ciclos formativos de grado medio y superior de formación profesional incorporen la innovación aplicada o el emprendimiento en el sector productivo.
 
 ## Título IX
 
@@ -2040,35 +2041,35 @@ d) Garantizará ofertas de formación, orientación y apoyo al emprendimiento en
 
 Para la internacionalización de la formación profesional, desde el Sistema de Formación Profesional, la Administración General del Estado impulsará:
 
-1. La suscripción de acuerdos de colaboración y realización de proyectos con otros países que faciliten la trasferencia de conocimiento y el desarrollo de iniciativas innovadoras en áreas de interés compartido.
+1. La suscripción de acuerdos de colaboración y realización de proyectos con otros países que faciliten la trasferencia de conocimiento y el desarrollo de iniciativas innovadoras en áreas de interés compartido.
 
-2. La participación en programas de intercambio internacional de profesorado, formadores, estudiantes, personas ocupadas y desempleadas para el intercambio de experiencias y el aprendizaje de buenas prácticas, favoreciendo al mismo tiempo el compromiso y la motivación hacia el sector profesional.
+2. La participación en programas de intercambio internacional de profesorado, formadores, estudiantes, personas ocupadas y desempleadas para el intercambio de experiencias y el aprendizaje de buenas prácticas, favoreciendo al mismo tiempo el compromiso y la motivación hacia el sector profesional.
 
-3. La existencia de programas basados en dobles titulaciones de formación profesional, que brinden la posibilidad de alcanzar simultáneamente, mediante currículos mixtos diseñados y aprobados por los dos países implicados, el Título de Formación Profesional español y del segundo país, así como el acceso, gracias a la doble titulación y en condiciones ventajosas, a los estudios superiores y a la formación y la actividad profesional de ambos países.
+3. La existencia de programas basados en dobles titulaciones de formación profesional, que brinden la posibilidad de alcanzar simultáneamente, mediante currículos mixtos diseñados y aprobados por los dos países implicados, el Título de Formación Profesional español y del segundo país, así como el acceso, gracias a la doble titulación y en condiciones ventajosas, a los estudios superiores y a la formación y la actividad profesional de ambos países.
 
-4. La realización en el extranjero de actividades específicas de difusión y conocimiento para atraer estudiantes al sistema español de formación profesional.
+4. La realización en el extranjero de actividades específicas de difusión y conocimiento para atraer estudiantes al sistema español de formación profesional.
 
-5. La cooperación con otros países en los procesos de diseño e implantación de sus sistemas de formación profesional, aportando el conocimiento y la experiencia existente.
+5. La cooperación con otros países en los procesos de diseño e implantación de sus sistemas de formación profesional, aportando el conocimiento y la experiencia existente.
 
 #### Artículo 107. Participación en proyectos y organismos internacionales.
 
 La Administración General del Estado promoverá su participación en:
 
-1. Las redes internacionales de formación profesional que aporten conocimiento e intercambio de experiencias en el marco de la formación, la orientación, la digitalización, la sostenibilidad y el crecimiento vinculado a la cualificación de la población, sin perjuicio de las colaboraciones en proyectos internacionales que pudieran establecer las administraciones autonómicas.
+1. Las redes internacionales de formación profesional que aporten conocimiento e intercambio de experiencias en el marco de la formación, la orientación, la digitalización, la sostenibilidad y el crecimiento vinculado a la cualificación de la población, sin perjuicio de las colaboraciones en proyectos internacionales que pudieran establecer las administraciones autonómicas.
 
-2. Los proyectos y organizaciones internacionales vinculados a la innovación y mejora de la formación profesional.
+2. Los proyectos y organizaciones internacionales vinculados a la innovación y mejora de la formación profesional.
 
 #### Artículo 108. Conocimiento de lenguas extranjeras.
 
 Con el fin de mejorar el desarrollo de las tareas profesionales y las expectativas profesionales, el Sistema de Formación Profesional incorporará la enseñanza de lenguas extranjeras en los procesos de formación profesional en términos que capaciten a los profesionales, en contextos progresivamente plurinacionales y de gran movilidad, para la comunicación en el correspondiente ámbito profesional. A tal efecto:
 
-1. Las ofertas de formación profesional de grado C, D y E promoverán, en la mayor medida posible, programas de aprendizaje de lenguas extranjeras referidos al Marco Común Europeo de Referencia para las Lenguas, con el objetivo de progresar en la capacidad comunicativa, oral y escrita, en el ámbito profesional y el sector productivo objeto de la formación.
+1. Las ofertas de formación profesional de grado C, D y E promoverán, en la mayor medida posible, programas de aprendizaje de lenguas extranjeras referidos al Marco Común Europeo de Referencia para las Lenguas, con el objetivo de progresar en la capacidad comunicativa, oral y escrita, en el ámbito profesional y el sector productivo objeto de la formación.
 
 Las administraciones competentes podrán incorporar un módulo de lengua extranjera técnica en función de las necesidades del tejido empresarial de la región y del sector productivo en general.
 
-2. Las administraciones con competencia en la materia colaborarán en la adquisición de la competencia lingüística del profesorado adecuada y suficiente para impartir los módulos profesionales correspondientes en una lengua extranjera.
+2. Las administraciones con competencia en la materia colaborarán en la adquisición de la competencia lingüística del profesorado adecuada y suficiente para impartir los módulos profesionales correspondientes en una lengua extranjera.
 
-3. En el caso del alumnado con necesidades educativas especiales, particularmente para aquel que presente dificultades en su expresión oral, facilitarán medidas de flexibilización y alternativas metodológicas en la enseñanza y evaluación de las lenguas extranjeras.
+3. En el caso del alumnado con necesidades educativas especiales, particularmente para aquel que presente dificultades en su expresión oral, facilitarán medidas de flexibilización y alternativas metodológicas en la enseñanza y evaluación de las lenguas extranjeras.
 
 #### Artículo 109. Proyectos de formación en el extranjero.
 
@@ -2080,23 +2081,23 @@ Los centros de formación profesional podrán llevar a cabo proyectos de ofertas
 
 #### Artículo 110. Criterios y responsabilidad de la evaluación.
 
-1. La evaluación de la calidad del Sistema de Formación Profesional se realizará con arreglo a los indicadores establecidos en el Marco Europeo de Garantía de la Calidad de la Formación Profesional (EQAVET).
+1. La evaluación de la calidad del Sistema de Formación Profesional se realizará con arreglo a los indicadores establecidos en el Marco Europeo de Garantía de la Calidad de la Formación Profesional (EQAVET).
 
-2. Todas las administraciones públicas con competencia en la materia velarán por la calidad de todas las acciones y los servicios del Sistema de Formación Profesional, en especial la orientación profesional, la formación impartida en los dos regímenes, en todos sus entornos de aprendizaje y en todas sus modalidades, y la acreditación de competencias profesionales. A estos efectos, se contará con la alta inspección de educación y la inspección educativa para las actuaciones de inspección, supervisión y evaluación del Sistema de Formación Profesional, en los términos establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y sin perjuicio de las competencias de otros órganos.
+2. Todas las administraciones públicas con competencia en la materia velarán por la calidad de todas las acciones y los servicios del Sistema de Formación Profesional, en especial la orientación profesional, la formación impartida en los dos regímenes, en todos sus entornos de aprendizaje y en todas sus modalidades, y la acreditación de competencias profesionales. A estos efectos, se contará con la alta inspección de educación y la inspección educativa para las actuaciones de inspección, supervisión y evaluación del Sistema de Formación Profesional, en los términos establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y sin perjuicio de las competencias de otros órganos.
 
-3. La Administración General del Estado establecerá y coordinará un sistema de evaluación del Sistema de Formación Profesional para asegurar su mejora e innovación continuas, en colaboración con las administraciones con competencias en la materia, y las organizaciones empresariales y sindicales más representativas.
+3. La Administración General del Estado establecerá y coordinará un sistema de evaluación del Sistema de Formación Profesional para asegurar su mejora e innovación continuas, en colaboración con las administraciones con competencias en la materia, y las organizaciones empresariales y sindicales más representativas.
 
-4. Se establecerán reglamentariamente los instrumentos de verificación de la calidad, y los sistemas de certificación de centros de formación profesional y de empresas u organismos equiparados.
+4. Se establecerán reglamentariamente los instrumentos de verificación de la calidad, y los sistemas de certificación de centros de formación profesional y de empresas u organismos equiparados.
 
 #### Artículo 111. Objeto y características.
 
-1. La evaluación del Sistema de Formación Profesional tendrá por objeto:
+1. La evaluación del Sistema de Formación Profesional tendrá por objeto:
 
 a) La identificación, descripción y análisis de los elementos relevantes para la calidad de la oferta y ejecución de los programas y acciones de formación profesional, la acreditación de competencias y la orientación profesional.
 
 b) La facilitación de evidencias que permitan la toma de decisiones fundadas para mejorar el funcionamiento del sistema y los resultados que obtiene.
 
-2. Serán características del sistema de evaluación del Sistema de Formación Profesional:
+2. Serán características del sistema de evaluación del Sistema de Formación Profesional:
 
 a) El desarrollo de la evaluación con carácter interno y externo y de modo continuo como parte de un ciclo de mejora permanente.
 
@@ -2108,15 +2109,15 @@ d) **Los principios propios de toda evaluación pública.** La pertinencia, efic
 
 #### Artículo 112. Informe de estado del sistema.
 
-1. La Administración General del Estado deberá elaborar, con la colaboración con las comunidades autónomas, y presentar al Consejo General de la Formación Profesional y al Consejo Escolar del Estado, en su ámbito competencial, y publicar un informe bienal sobre el estado del Sistema de Formación Profesional, que deberá incorporar:
+1. La Administración General del Estado deberá elaborar, con la colaboración con las comunidades autónomas, y presentar al Consejo General de la Formación Profesional y al Consejo Escolar del Estado, en su ámbito competencial, y publicar un informe bienal sobre el estado del Sistema de Formación Profesional, que deberá incorporar:
 
 a) La información requerida a las comunidades autónomas y proporcionada por ellas sobre los resultados en sus respectivos territorios.
 
 b) Los resultados obtenidos por comprobaciones y evaluaciones aleatorias encomendadas a organismos independientes.
 
-2. Las administraciones competentes y todos los centros de formación profesional estarán obligados a trasladar los datos requeridos necesarios para elaborar el Informe de estado del sistema. El contenido del Informe será acordado en el marco de los órganos de cooperación territorial y del Consejo General de la Formación Profesional.
+2. Las administraciones competentes y todos los centros de formación profesional estarán obligados a trasladar los datos requeridos necesarios para elaborar el Informe de estado del sistema. El contenido del Informe será acordado en el marco de los órganos de cooperación territorial y del Consejo General de la Formación Profesional.
 
-3. Cada cuatro años, el Informe sobre el estado del Sistema de Formación Profesional incluirá un estudio sobre la oferta de ciclos formativos y su adecuación a la demanda por parte de los estudiantes, el porcentaje de empleabilidad de los estudiantes de Formación Profesional y las necesidades presentes y futuras de capital humano del sector público y el sector privado.
+3. Cada cuatro años, el Informe sobre el estado del Sistema de Formación Profesional incluirá un estudio sobre la oferta de ciclos formativos y su adecuación a la demanda por parte de los estudiantes, el porcentaje de empleabilidad de los estudiantes de Formación Profesional y las necesidades presentes y futuras de capital humano del sector público y el sector privado.
 
 ## Título XI
 
@@ -2124,11 +2125,9 @@ b) Los resultados obtenidos por comprobaciones y evaluaciones aleatorias encomen
 
 #### Artículo 113. Gobierno.
 
-1. Corresponde al Gobierno la aprobación de:
+1. Corresponde al Gobierno la aprobación de:
 
-a) Las normas reglamentarias de organización, funcionamiento, actualización y efectos de los instrumentos, contenidos y mecanismos básicos del Sistema de Formación Profesional enumerados en el artículo 7.
-
-b) Las normas reglamentarias relativas a las condiciones y los requisitos básicos del régimen dual y del desarrollo de las modalidades semipresencial y virtual de la formación profesional, la calidad de los programas y la fase práctica dual de la formación profesional, los instrumentos de aseguramiento de la calidad y los sistemas de certificación y cuantas otras sean objeto de esta ley para la concreción de cualesquiera otros elementos básicos del Sistema de Formación Profesional, sin perjuicio de su desarrollo correspondiente por las comunidades autónomas competentes.
+a) Las normas reglamentarias de organización, funcionamiento, actualización y efectos de los instrumentos, contenidos y mecanismos básicos del Sistema de Formación Profesional enumerados en el artículo 7. b) Las normas reglamentarias relativas a las condiciones y los requisitos básicos del régimen dual y del desarrollo de las modalidades semipresencial y virtual de la formación profesional, la calidad de los programas y la fase práctica dual de la formación profesional, los instrumentos de aseguramiento de la calidad y los sistemas de certificación y cuantas otras sean objeto de esta ley para la concreción de cualesquiera otros elementos básicos del Sistema de Formación Profesional, sin perjuicio de su desarrollo correspondiente por las comunidades autónomas competentes.
 
 c) La norma reglamentaria por la que se regule la participación paritaria, a nivel estatal, de las organizaciones empresariales y sindicales más representativas en los procesos de toma de decisiones en materia de formación profesional.
 
@@ -2154,15 +2153,13 @@ m) El contenido de carácter básico del proceso continuo de acompañamiento y o
 
 n) Los mecanismos de garantía del acceso a los servicios de información, orientación y asesoramiento en sus diversas modalidades.
 
-2. Lo anterior se entiende sin perjuicio de la competencia exclusiva del Estado en materia de legislación laboral, y del desarrollo de la presente ley que efectúe el Gobierno al amparo de la misma en los términos señalados en el apartado 2 de la disposición final octava.
+2. Lo anterior se entiende sin perjuicio de la competencia exclusiva del Estado en materia de legislación laboral, y del desarrollo de la presente ley que efectúe el Gobierno al amparo de la misma en los términos señalados en el apartado 2 de la disposición final octava.
 
 #### Artículo 114. Ministerio de Educación y Formación Profesional.
 
-1. Corresponde al Ministerio de Educación y Formación Profesional, en el marco de la presente ley, y sin perjuicio del ejercicio de las competencias en materia de legislación laboral que corresponden al Ministerio de Trabajo y Economía Social:
+1. Corresponde al Ministerio de Educación y Formación Profesional, en el marco de la presente ley, y sin perjuicio del ejercicio de las competencias en materia de legislación laboral que corresponden al Ministerio de Trabajo y Economía Social:
 
-a) Elaborar con los sectores productivos correspondientes y, a la vista, en su caso, de las iniciativas formuladas por las comunidades autónomas, previa consulta al Consejo General de Formación Profesional y con la participación de las organizaciones empresariales y sindicales más representativas, los proyectos de establecimiento y ordenación de los contenidos, instrumentos y mecanismos básicos del Sistema de Formación Profesional previstos en el artículo 7.
-
-b) Coordinarse con los Ministerios que proceda para la identificación de las necesidades de perfiles profesionales y el dimensionamiento de las mismas en relación a proyectos estratégicos del Gobierno que pudieran plantearse, así como singularmente con el Ministerio de Trabajo y Economía Social en el ámbito de sus respectivas competencias, para la identificación de las necesidades de formación profesional en términos generales.
+a) Elaborar con los sectores productivos correspondientes y, a la vista, en su caso, de las iniciativas formuladas por las comunidades autónomas, previa consulta al Consejo General de Formación Profesional y con la participación de las organizaciones empresariales y sindicales más representativas, los proyectos de establecimiento y ordenación de los contenidos, instrumentos y mecanismos básicos del Sistema de Formación Profesional previstos en el artículo 7. b) Coordinarse con los Ministerios que proceda para la identificación de las necesidades de perfiles profesionales y el dimensionamiento de las mismas en relación a proyectos estratégicos del Gobierno que pudieran plantearse, así como singularmente con el Ministerio de Trabajo y Economía Social en el ámbito de sus respectivas competencias, para la identificación de las necesidades de formación profesional en términos generales.
 
 c) Velar por la efectividad de los instrumentos a que se refiere la letra a).
 
@@ -2178,9 +2175,9 @@ h) Cuantas otras competencias relativas a la ordenación, ejecución, gestión y
 
 i) Los criterios y procedimientos básicos del sistema de evaluación del Sistema de Formación Profesional.
 
-2. El Ministerio de Educación y Formación Profesional promoverá la participación paritaria de las organizaciones empresariales y sindicales más representativas en los procesos de definición de las necesidades de formación de la población activa, el diseño de actuaciones y programas de formación, acreditación de competencias o de orientación, así como en la evaluación del funcionamiento del Sistema de Formación Profesional.
+2. El Ministerio de Educación y Formación Profesional promoverá la participación paritaria de las organizaciones empresariales y sindicales más representativas en los procesos de definición de las necesidades de formación de la población activa, el diseño de actuaciones y programas de formación, acreditación de competencias o de orientación, así como en la evaluación del funcionamiento del Sistema de Formación Profesional.
 
-3. Los Ministerios de Educación y Formación Profesional y de Trabajo y Economía Social mantendrán la necesaria coordinación que asegure la complementariedad por una parte, del Sistema de Formación Profesional y por otra, de la formación y capacitación laboral vinculada a las políticas activas de empleo y a la formación en el trabajo.
+3. Los Ministerios de Educación y Formación Profesional y de Trabajo y Economía Social mantendrán la necesaria coordinación que asegure la complementariedad por una parte, del Sistema de Formación Profesional y por otra, de la formación y capacitación laboral vinculada a las políticas activas de empleo y a la formación en el trabajo.
 
 #### Artículo 115. Consejo General de la Formación Profesional.
 
@@ -2192,11 +2189,11 @@ Corresponden al Instituto Nacional de las Cualificaciones, organismo dependiente
 
 #### Artículo 117. Organizaciones empresariales y sindicales más representativas.
 
-1. La participación en la gobernanza ejecutiva y estratégica del Sistema de Formación Profesional se realizará, a efectos de su buen funcionamiento, teniendo como interlocutores principales a las organizaciones empresariales y sindicales más representativas en el ámbito estatal y en el autonómico o territorial, en su caso.
+1. La participación en la gobernanza ejecutiva y estratégica del Sistema de Formación Profesional se realizará, a efectos de su buen funcionamiento, teniendo como interlocutores principales a las organizaciones empresariales y sindicales más representativas en el ámbito estatal y en el autonómico o territorial, en su caso.
 
-2. Reglamentariamente se determinará la participación a que se refiere el apartado anterior, que comprenderá las políticas y estrategias del sistema, así como la detección de las necesidades de formación de la población activa, el diseño de actuaciones y programas de formación, la acreditación de competencias, la orientación profesional y la evaluación de la estrategia nacional de formación profesional.
+2. Reglamentariamente se determinará la participación a que se refiere el apartado anterior, que comprenderá las políticas y estrategias del sistema, así como la detección de las necesidades de formación de la población activa, el diseño de actuaciones y programas de formación, la acreditación de competencias, la orientación profesional y la evaluación de la estrategia nacional de formación profesional.
 
-3. La participación de las organizaciones empresariales y sindicales más representativas tendrá carácter paritario.
+3. La participación de las organizaciones empresariales y sindicales más representativas tendrá carácter paritario.
 
 #### Disposición adicional primera. Participación del Consejo General de la Formación Profesional en el Sistema de Formación Profesional.
 
@@ -2218,7 +2215,7 @@ Lo dispuesto en esta ley se entiende sin perjuicio de las competencias del Minis
 
 #### Disposición adicional quinta. Especialidades docentes del Cuerpo de Profesores de Enseñanza Secundaria y del Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
-1. Se integran en el cuerpo de profesores de enseñanza secundaria, las siguientes especialidades docentes del cuerpo a extinguir de profesores técnicos de formación profesional:
+1. Se integran en el cuerpo de profesores de enseñanza secundaria, las siguientes especialidades docentes del cuerpo a extinguir de profesores técnicos de formación profesional:
 
 Equipos electrónicos.
 
@@ -2258,7 +2255,7 @@ Sistemas y aplicaciones informáticas.
 
 Técnicas y procedimientos de imagen y sonido.
 
-2. Las especialidades docentes del cuerpo de profesores especialistas en sectores singulares de formación profesional son las siguientes:
+2. Las especialidades docentes del cuerpo de profesores especialistas en sectores singulares de formación profesional son las siguientes:
 
 Cocina y pastelería.
 
@@ -2280,7 +2277,7 @@ Servicios de restauración.
 
 Soldadura.
 
-3. El Gobierno, previa consulta con las administraciones educativas, podrá modificar, corregir o actualizar, cuando ello sea preciso, las especialidades docentes de los cuerpos de profesores a que se refiere esta disposición, de conformidad con la normativa en vigor.
+3. El Gobierno, previa consulta con las administraciones educativas, podrá modificar, corregir o actualizar, cuando ello sea preciso, las especialidades docentes de los cuerpos de profesores a que se refiere esta disposición, de conformidad con la normativa en vigor.
 
 #### Disposición adicional sexta. Certificados de profesionalidad.
 
@@ -2310,11 +2307,11 @@ La ordenación académica de las enseñanzas de Formación Profesional del Siste
 
 #### Disposición transitoria tercera. Catálogo Nacional de Cualificaciones Profesionales.
 
-1. Hasta que se proceda al desarrollo reglamentario de lo previsto en la presente ley en relación con el Catálogo Nacional de Estándares de Competencias Profesionales, mantendrá su vigencia la ordenación del Catálogo Nacional de Cualificaciones Profesionales recogida en el Real Decreto 1128/2003, de 5 de septiembre, por el que se regula el Catálogo Nacional de Cualificaciones Profesionales.
+1. Hasta que se proceda al desarrollo reglamentario de lo previsto en la presente ley en relación con el Catálogo Nacional de Estándares de Competencias Profesionales, mantendrá su vigencia la ordenación del Catálogo Nacional de Cualificaciones Profesionales recogida en el Real Decreto 1128/2003, de 5 de septiembre, por el que se regula el Catálogo Nacional de Cualificaciones Profesionales.
 
-2. Hasta que se proceda al desarrollo reglamentario de lo previsto en la presente ley en relación con el Catálogo Modular de Formación Profesional, mantendrá su vigencia la ordenación de dicho catálogo recogida en el Real Decreto 1128/2003, de 5 de septiembre, por el que se regula el Catálogo Nacional de Cualificaciones Profesionales.
+2. Hasta que se proceda al desarrollo reglamentario de lo previsto en la presente ley en relación con el Catálogo Modular de Formación Profesional, mantendrá su vigencia la ordenación de dicho catálogo recogida en el Real Decreto 1128/2003, de 5 de septiembre, por el que se regula el Catálogo Nacional de Cualificaciones Profesionales.
 
-3. El Instituto Nacional de las Cualificaciones mantendrá la organización, estructura y funciones previstas en el Real Decreto 375/1999, de 5 de marzo, por el que se crea el Instituto Nacional de las Cualificaciones hasta que se proceda a la ordenación reglamentaria de dicho organismo en el marco de la presente ley.
+3. El Instituto Nacional de las Cualificaciones mantendrá la organización, estructura y funciones previstas en el Real Decreto 375/1999, de 5 de marzo, por el que se crea el Instituto Nacional de las Cualificaciones hasta que se proceda a la ordenación reglamentaria de dicho organismo en el marco de la presente ley.
 
 #### Disposición transitoria cuarta. Profesorado de formación profesional del sistema educativo.
 
@@ -2330,15 +2327,15 @@ Se habilita un periodo transitorio hasta el 31 de diciembre de 2024 para la adec
 
 #### Disposición derogatoria única. Derogación normativa.
 
-1. Queda derogada la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
+1. Queda derogada la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
 
-2. Quedan derogadas cuantas disposiciones de la Ley 30/2015, de 9 de septiembre, por la que se regula el Sistema de Formación Profesional para el empleo en el ámbito laboral se opongan a lo establecido en la presente ley.
+2. Quedan derogadas cuantas disposiciones de la Ley 30/2015, de 9 de septiembre, por la que se regula el Sistema de Formación Profesional para el empleo en el ámbito laboral se opongan a lo establecido en la presente ley.
 
 El Gobierno modificará las disposiciones de la Ley 30/2015, de 9 de septiembre, por la que se regula el Sistema de Formación Profesional para el empleo en el ámbito laboral que se vean afectadas por esta disposición derogatoria.
 
-3. Queda derogada la disposición adicional primera de la Ley Orgánica 4/2011, de 11 de marzo, complementaria de la Ley de Economía Sostenible, por la que se modifican las Leyes Orgánicas 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, 2/2006, de 3 de mayo, de Educación, y 6/1985, de 1 de julio, del Poder Judicial, en materia de colaboración entre la formación profesional superior y la enseñanza universitaria.
+3. Queda derogada la disposición adicional primera de la Ley Orgánica 4/2011, de 11 de marzo, complementaria de la Ley de Economía Sostenible, por la que se modifican las Leyes Orgánicas 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, 2/2006, de 3 de mayo, de Educación, y 6/1985, de 1 de julio, del Poder Judicial, en materia de colaboración entre la formación profesional superior y la enseñanza universitaria.
 
-4. Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente ley.
+4. Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente ley.
 
 #### Disposición final primera. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
@@ -2348,11 +2345,11 @@ Uno. El artículo 95 queda.
 
 redactado en los siguientes términos:
 
-#### «Artículo 95. Profesorado de formación profesional.
+#### «Artículo 95. Profesorado de formación profesional.
 
-1. Para impartir enseñanzas de formación profesional se exigirán los mismos requisitos de titulación y formación establecidos en el artículo anterior para la educación secundaria obligatoria y el bachillerato, sin perjuicio de la equivalencia de otras titulaciones de técnico superior de formación profesional que, a efectos de docencia, están establecidas por el Gobierno para determinadas especialidades. Asimismo, el Gobierno podrá establecer nuevas equivalencias, a efectos de docencia, para técnicos superiores de formación profesional, en el caso de nuevas especialidades de formación profesional, previa consulta con las administraciones educativas.
+1. Para impartir enseñanzas de formación profesional se exigirán los mismos requisitos de titulación y formación establecidos en el artículo anterior para la educación secundaria obligatoria y el bachillerato, sin perjuicio de la equivalencia de otras titulaciones de técnico superior de formación profesional que, a efectos de docencia, están establecidas por el Gobierno para determinadas especialidades. Asimismo, el Gobierno podrá establecer nuevas equivalencias, a efectos de docencia, para técnicos superiores de formación profesional, en el caso de nuevas especialidades de formación profesional, previa consulta con las administraciones educativas.
 
-2. Excepcionalmente, para la impartición de módulos profesionales en determinadas especialidades se podrá incorporar, como expertos del sector productivo, atendiendo a su cualificación y a las necesidades del sistema educativo, a profesionales, no necesariamente titulados, que desarrollen su actividad en el ámbito laboral. Dicha incorporación se realizará en régimen laboral, de acuerdo con la normativa que resulte de aplicación.»
+2. Excepcionalmente, para la impartición de módulos profesionales en determinadas especialidades se podrá incorporar, como expertos del sector productivo, atendiendo a su cualificación y a las necesidades del sistema educativo, a profesionales, no necesariamente titulados, que desarrollen su actividad en el ámbito laboral. Dicha incorporación se realizará en régimen laboral, de acuerdo con la normativa que resulte de aplicación.»
 
 Dos. Se añade una nueva letra, b bis), en la disposición adicional séptima, apartado 1, redactada en los siguientes términos:
 
@@ -2368,13 +2365,13 @@ Se modifica la disposición adicional undécima de la Ley Orgánica 3/2020, de 2
 
 #### «Disposición adicional undécima. Integración de profesorado del Cuerpo a extinguir de Profesores Técnicos de Formación Profesional en el Cuerpo de Profesores de Enseñanza Secundaria.
 
-1. Se integra en el cuerpo de profesores de enseñanza secundaria al profesorado del cuerpo a extinguir de profesores técnicos de formación profesional que a la entrada en vigor de esta ley, o en el plazo establecido en el apartado segundo de la presente disposición, se encuentre en posesión de la titulación de Grado universitario, Licenciado o Licenciada, Ingeniero o Ingeniera y Arquitecto o Arquitecta, o equivalente a efectos de acceso a la función pública docente, u otra equivalente a efectos de docencia de las especialidades del cuerpo de profesores de enseñanza secundaria.
+1. Se integra en el cuerpo de profesores de enseñanza secundaria al profesorado del cuerpo a extinguir de profesores técnicos de formación profesional que a la entrada en vigor de esta ley, o en el plazo establecido en el apartado segundo de la presente disposición, se encuentre en posesión de la titulación de Grado universitario, Licenciado o Licenciada, Ingeniero o Ingeniera y Arquitecto o Arquitecta, o equivalente a efectos de acceso a la función pública docente, u otra equivalente a efectos de docencia de las especialidades del cuerpo de profesores de enseñanza secundaria.
 
-2. El Gobierno, previa consulta con las administraciones educativas, establecerá el procedimiento y las condiciones de esta integración que producirá efectos a quienes reúnan los requisitos y lo soliciten dentro del plazo inicial que se establezca, desde la entrada en vigor de esta ley. Para quienes lo soliciten con posterioridad a ese plazo inicial, los efectos serán a partir de la fecha de su solicitud, siempre que se encuentren en condiciones de ser integrados en esa fecha. Este derecho solo podrá ser ejercido hasta el quinto año posterior a la vigencia de esta ley.
+2. El Gobierno, previa consulta con las administraciones educativas, establecerá el procedimiento y las condiciones de esta integración que producirá efectos a quienes reúnan los requisitos y lo soliciten dentro del plazo inicial que se establezca, desde la entrada en vigor de esta ley. Para quienes lo soliciten con posterioridad a ese plazo inicial, los efectos serán a partir de la fecha de su solicitud, siempre que se encuentren en condiciones de ser integrados en esa fecha. Este derecho solo podrá ser ejercido hasta el quinto año posterior a la vigencia de esta ley.
 
-3. El profesorado del cuerpo a extinguir de profesores técnicos de formación profesional que resultase integrado en el cuerpo de profesores de enseñanza secundaria, mantendrá la especialidad y atribución docente que poseía en su cuerpo de origen mientras se encuentre en el servicio activo en el cuerpo de profesores de enseñanza secundaria.
+3. El profesorado del cuerpo a extinguir de profesores técnicos de formación profesional que resultase integrado en el cuerpo de profesores de enseñanza secundaria, mantendrá la especialidad y atribución docente que poseía en su cuerpo de origen mientras se encuentre en el servicio activo en el cuerpo de profesores de enseñanza secundaria.
 
-4. El profesorado del cuerpo a extinguir de profesores técnicos de formación profesional que no quedase integrado en el cuerpo de profesores de enseñanza secundaria, permanecerá en el cuerpo a extinguir de profesores técnicos de formación profesional, manteniendo su atribución docente y todos los derechos inherentes a su condición de funcionario. No obstante lo anterior este profesorado podrá participar en los procesos de promoción interna que se convoquen.»
+4. El profesorado del cuerpo a extinguir de profesores técnicos de formación profesional que no quedase integrado en el cuerpo de profesores de enseñanza secundaria, permanecerá en el cuerpo a extinguir de profesores técnicos de formación profesional, manteniendo su atribución docente y todos los derechos inherentes a su condición de funcionario. No obstante lo anterior este profesorado podrá participar en los procesos de promoción interna que se convoquen.»
 
 #### Disposición final tercera. Ordenación de las enseñanzas de formación profesional de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
@@ -2390,11 +2387,9 @@ El Gobierno, previa consulta a las comunidades autónomas, aprobará en un plazo
 
 #### Disposición final sexta. Título competencial.
 
-1. La presente ley se dicta al amparo de la competencia que corresponde al Estado conforme al artículo 149.1.1.ª de la Constitución, que regula las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales; al artículo 149.1.7.ª de la Constitución, en lo que se refiere a elementos de la formación profesional para el empleo y otros aspectos que se incardinan en materia laboral; al artículo 149.1.18.ª de la Constitución, en lo que corresponde al régimen jurídico de las administraciones públicas y del régimen estatutario de los funcionarios que, en todo caso, garantizarán a los administrados un tratamiento común ante ellas; y al artículo 149.1.30.ª de la Constitución, en relación con la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
+1. La presente ley se dicta al amparo de la competencia que corresponde al Estado conforme al artículo 149.1.1.ª de la Constitución, que regula las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales; al artículo 149.1.7.ª de la Constitución, en lo que se refiere a elementos de la formación profesional para el empleo y otros aspectos que se incardinan en materia laboral; al artículo 149.1.18.ª de la Constitución, en lo que corresponde al régimen jurídico de las administraciones públicas y del régimen estatutario de los funcionarios que, en todo caso, garantizarán a los administrados un tratamiento común ante ellas; y al artículo 149.1.30.ª de la Constitución, en relación con la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
-2. Al amparo de lo establecido en el artículo 149.1.1.ª y 30.ª de la Constitución, y en lo que se refiere a la regulación de la formación profesional en el ámbito del Sistema Educativo, es competencia exclusiva del Estado el desarrollo de los siguientes preceptos: 12, 13.2, 27, 45.1, 46, 47, 48, 53, 54, 63, 64, 80, 85, 88.2.
-
-3. Al amparo de lo establecido en el artículo 149.1.1.ª y 30.ª de la Constitución, y en lo que se refiere a la regulación de la formación profesional en el ámbito del Sistema Educativo, la presente ley tiene carácter básico.
+2. Al amparo de lo establecido en el artículo 149.1.1.ª y 30.ª de la Constitución, y en lo que se refiere a la regulación de la formación profesional en el ámbito del Sistema Educativo, es competencia exclusiva del Estado el desarrollo de los siguientes preceptos: 12, 13.2, 27, 45.1, 46, 47, 48, 53, 54, 63, 64, 80, 85, 88.2. 3. Al amparo de lo establecido en el artículo 149.1.1.ª y 30.ª de la Constitución, y en lo que se refiere a la regulación de la formación profesional en el ámbito del Sistema Educativo, la presente ley tiene carácter básico.
 
 #### Disposición final séptima. Carácter de ley orgánica de la presente ley.
 
@@ -2402,9 +2397,9 @@ Tienen carácter de ley orgánica los preceptos siguientes: los artículos 3.1, 
 
 #### Disposición final octava. Desarrollo de la presente ley.
 
-1. Las normas de esta ley podrán ser desarrolladas por las administraciones competentes de las comunidades autónomas, a excepción de las relativas a aquellas materias cuya regulación se encomienda por la misma al Gobierno o que forman parte de la competencia exclusiva que corresponde al Estado.
+1. Las normas de esta ley podrán ser desarrolladas por las administraciones competentes de las comunidades autónomas, a excepción de las relativas a aquellas materias cuya regulación se encomienda por la misma al Gobierno o que forman parte de la competencia exclusiva que corresponde al Estado.
 
-2. Al amparo de lo establecido en el artículo 149.1.7.ª de la Constitución, es competencia exclusiva del Estado el desarrollo de la presente ley en todo aquello que no se refiera a la regulación de la formación profesional en el ámbito del Sistema Educativo, sin perjuicio de su ejecución por los órganos de las comunidades autónomas.
+2. Al amparo de lo establecido en el artículo 149.1.7.ª de la Constitución, es competencia exclusiva del Estado el desarrollo de la presente ley en todo aquello que no se refiera a la regulación de la formación profesional en el ámbito del Sistema Educativo, sin perjuicio de su ejecución por los órganos de las comunidades autónomas.
 
 #### Disposición final novena. Entrada en vigor.
 
@@ -2412,9 +2407,7 @@ Por tanto,
 
 Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley orgánica.
 
-Madrid, 31 de marzo de 2022.
-
-FELIPE R.
+Madrid, 31 de marzo de 2022. FELIPE R.
 
 El Presidente del Gobierno,
 

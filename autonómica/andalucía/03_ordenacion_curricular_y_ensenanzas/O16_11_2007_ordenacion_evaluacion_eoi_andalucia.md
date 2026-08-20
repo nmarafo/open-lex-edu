@@ -1,10 +1,12 @@
 ---
 id: norm-and-o-16-11-2007
 codigo_sintetizado: O16_11_2007 Evaluacion Escuelas Oficiales Idiomas Andalucía
-titulo: Orden de 16 de noviembre de 2007, por la que se regula la evaluación en las Escuelas Oficiales de Idiomas.
+titulo: Orden de 16 de noviembre de 2007, por la que se regula la evaluación en las
+  Escuelas Oficiales de Idiomas.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 16/11/2007
 fecha_disposicion: '2007-11-16'
@@ -18,17 +20,17 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas de Idiomas
 tags:
-  - eoi
-  - evaluacion_idiomas
-  - certificacion
-  - andalucia
+- eoi
+- evaluacion_idiomas
+- certificacion
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Orden de 16 de noviembre de 2007, por la que se regula la evaluación en las Escuelas Oficiales de Idiomas.
 
@@ -124,8 +126,7 @@ e) Informe médico, según modelo incluido como
 
 ## Anexo. en la convocatoria.
 
-f) Resolución con calificación de minusvalía en el supuesto recogido en el apartado 3 del artículo 2.
-g) Certificado, en su caso, del Registro de Parejas de Hecho de la Comunidad Autónoma de Andalucía o de los registros municipales de aquellas localidades que cuenten con ellos.
+f) Resolución con calificación de minusvalía en el supuesto recogido en el apartado 3 del artículo 2. g) Certificado, en su caso, del Registro de Parejas de Hecho de la Comunidad Autónoma de Andalucía o de los registros municipales de aquellas localidades que cuenten con ellos.
 
 2. No se requerirá la presentación de aquellos documentos que, resultando necesarios a los efectos de la acreditación de datos o requisitos exigidos por la presente Orden, ya obren en poder de la Consejería para la Igualdad y Bienestar Social y se encuentren vigentes. En tal caso, deberá cumplimentarse el apartado correspondiente de la solicitud.
 
@@ -205,9 +206,7 @@ Página núm. 8 Se vi lla, 5 de diciembre 2007
 
 1. Quedan derogadas todas las normas de igual o inferior rango en lo que contradigan o se opongan a lo dispuesto en la presente Orden.
 
-2. Queda derogada expresamente la anterior Orden de 12 de mayo de 2005, por la que se regula el Programa de Turismo Social de Personas Mayores de Andalucía y su modificación de 14 de noviembre de 2006.
-
-#### Disposición final primera. Desarrollo y ejecución.
+2. Queda derogada expresamente la anterior Orden de 12 de mayo de 2005, por la que se regula el Programa de Turismo Social de Personas Mayores de Andalucía y su modificación de 14 de noviembre de 2006. #### Disposición final primera. Desarrollo y ejecución.
 
 Se faculta a la persona titular de la Dirección General de Personas Mayores de la Consejería para la Igualdad y Bienestar Social, para dictar las disposiciones necesarias en desarrollo y ejecución de lo establecido en esta Orden.
 
@@ -234,9 +233,7 @@ BAREMO DEL PROGRAMA DE TURISMO SOCIAL DE PERSONAS MAYORES La puntuación máxima
 - Desde 438,72 hasta 600 euros: 20 puntos.
 - Desde 600,01 a 900 euros: 15 puntos.
 - Desde 900,01 a 1.200 euros: 10 puntos.
-- Más de 1.200,01 euros: 0 puntos. Si la solicitud presentada corresponde a plaza con acompañante/s, se dividen los ingresos totales de ambos por 1,33.
-
-2. Edad. La puntuación máxima es de 15 puntos, con la siguiente distribución:
+- Más de 1.200,01 euros: 0 puntos. Si la solicitud presentada corresponde a plaza con acompañante/s, se dividen los ingresos totales de ambos por 1,33. 2. Edad. La puntuación máxima es de 15 puntos, con la siguiente distribución:
 Edad Puntos Edad Puntos Edad Puntos Edad Puntos 60 a 65 80 o más Cuando se trate de una solicitud de plaza con acompañante/s, se obtendrá la media aritmética de los años cumplidos por cada uno, siendo la cifra resultante, la edad a considerar. En el supuesto de que la media resultante arrojara una cifra con decimales, se redondeará al siguiente número entero. En el caso de que la/s persona/s acompañante/s sea/n persona/s con discapacidad, menor/es de 60 años, sólo se considerará a efectos de valoración la edad de la persona solicitante.
 
 3. Participación en el Programa en años anteriores. La puntuación máxima es de 20 puntos, con la siguiente distribución:

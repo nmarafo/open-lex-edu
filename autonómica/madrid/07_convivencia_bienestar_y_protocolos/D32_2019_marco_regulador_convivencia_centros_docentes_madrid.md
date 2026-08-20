@@ -1,9 +1,11 @@
 ---
 id: norm-mad-d32-2019
-titulo: Decreto 32/2019, de 9 de abril, por el que se establece el marco regulador de la convivencia en los centros docentes de la Comunidad de Madrid
+titulo: Decreto 32/2019, de 9 de abril, por el que se establece el marco regulador
+  de la convivencia en los centros docentes de la Comunidad de Madrid
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Decreto
 numero_disposicion: 32/2019
 fecha_disposicion: '2019-04-09'
@@ -18,22 +20,22 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Convivencia escolar y disciplina
 tags:
-  - convivencia_escolar
-  - disciplina
-  - derechos_y_deberes
-  - comunidad_de_madrid
+- convivencia_escolar
+- disciplina
+- derechos_y_deberes
+- comunidad_de_madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-8-2021
-    - norma_id: norm-es-lo-1-1996
-    - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-mad-d-29-2013
 ---
 # Decreto 32/2019, de 9 de abril, por el que se establece el marco regulador de la convivencia en los centros docentes de la Comunidad de Madrid
 

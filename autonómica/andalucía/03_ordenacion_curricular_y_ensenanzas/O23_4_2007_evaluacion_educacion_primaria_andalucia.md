@@ -1,10 +1,12 @@
 ---
 id: norm-and-o-23-4-2007
 codigo_sintetizado: O23_4_2007 Evaluacion Educacion Primaria Andalucía
-titulo: Orden de 23 de abril de 2007, por la que se regula la evaluación del alumnado en la Educación Primaria en Andalucía.
+titulo: Orden de 23 de abril de 2007, por la que se regula la evaluación del alumnado
+  en la Educación Primaria en Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 23/04/2007
 fecha_disposicion: '2007-04-23'
@@ -18,16 +20,16 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Primaria
 tags:
-  - evaluacion
-  - primaria
-  - andalucia
+- evaluacion
+- primaria
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Orden de 23 de abril de 2007, por la que se regula la evaluación del alumnado en la Educación Primaria en Andalucía.
 
@@ -40,9 +42,7 @@ DISPONGO:
 
 1. La presente Orden tiene por objeto establecer las bases reguladoras para la concesión de subvenciones para la transformación y comercialización de productos agrícolas, entendiéndose como tales los definidos en el apartado 6 de las Directrices Comunitarias sobre ayudas estatales al sector agrario y forestal 2007-2013 (DO C 319 de 27.12.2006).
 
-2. Asimismo, tiene por objeto hacer pública la convocatoria correspondiente al año 2007.
-
-#### Artículo 2. Régimen jurídico.
+2. Asimismo, tiene por objeto hacer pública la convocatoria correspondiente al año 2007. #### Artículo 2. Régimen jurídico.
 
 Las subvenciones a que se refiere la presente Orden, además de lo previsto por la misma, se regirán por las normas comunitarias aplicables y por las normas nacionales de desarrollo o transposición de aquellas, siendo de aplicación supletoria las disposiciones que sobre procedimientos de concesión y gestión de subvenciones rijan para la Administración de la Junta de Andalucía, en concreto:
 - la Ley 3/2004, de 28 de diciembre, de Medidas Tributarias, Administrativa y Financieras,
@@ -78,8 +78,7 @@ h) Haber sido sancionadas mediante resolución firme con la pérdida de la posib
 
 1. Las subvenciones reguladas en esta Orden tienen como finalidad contribuir al aumento de la competitividad del sector y el aumento del valor añadido de los productos agrícolas, mediante la realización de una o más de las siguientes actuaciones:
 a) La mejora o racionalización de los procedimientos de manipulación y transformación de productos agrícolas y de los canales de comercialización.
-b) La mejora del acondicionamiento y la presentación de los productos agrícolas y el fomento de un mejor uso de los subproductos o eliminación de los residuos generados en los distintos procesos productivos del sector, así como reducción de residuos y emisiones de CO2.
-c) La aplicación de nuevas tecnologías y el fomento de las inversiones innovadoras.
+b) La mejora del acondicionamiento y la presentación de los productos agrícolas y el fomento de un mejor uso de los subproductos o eliminación de los residuos generados en los distintos procesos productivos del sector, así como reducción de residuos y emisiones de CO2. c) La aplicación de nuevas tecnologías y el fomento de las inversiones innovadoras.
 d) La mejora y control de la calidad y de las condiciones sanitarias.
 e) La protección del medio ambiente fomentando la adaptación ambiental.
 
@@ -153,8 +152,7 @@ g) El Impuesto de Valor Añadido (IVA) o cualquier otro tributo.
 2. Las subvenciones totales que se concedan no podrán superar el 50% de la inversión subvencionable, en el caso de microempresas, pequeñas y medianas empresas definidas en la Recomendación 2003/361/CE de la Comisión, antes citada, y previstas en el apartado 1.a) del artículo 3 de la presente Orden. Para las empresas previstas en el apartado 1.b) del artículo 3 de la presente Orden, la intensidad máxima de la ayuda será el 25% de la inversión subvencionable.
 
 3. No obstante, sin sobrepasar los porcentajes anteriores, se podrá incrementar la cuantía de la subvención en los puntos porcentuales acumulativos por el cumplimiento de las siguientes condiciones:
-a) Fusiones de empresa, realizadas a partir del 1 de enero de 2007.
-b) Realizarse la inversión por entidad asociativa agraria.
+a) Fusiones de empresa, realizadas a partir del 1 de enero de 2007. b) Realizarse la inversión por entidad asociativa agraria.
 c) Proyectos relativos a productos amparados por indicaciones geográficas, denominaciones de origen, indicaciones de calidad o por otros signos distintivos de calidad o de forma de producción, que lleve consigo una diferenciación del producto, sometidos a reglamentaciones voluntarias de calidad.
 
 Página núm. 8 Sevilla, 8 de mayo 2007 El apartado a) se complementará con 5 puntos, el b) con 3 y el c) con 2, con excepción de la producción ecológica que se estará a lo establecido en el apartado siguiente.
@@ -169,9 +167,7 @@ La concesión de las subvenciones que regula la presente Orden estará limitada 
 
 1. Las subvenciones se concederán con cargo a los créditos presupuestarios de la Consejería de Agricultura y Pesca.
 
-2. Las ayudas podrán ser compatibles con otras para la misma finalidad, siempre que el conjunto de todas las concedidas para un mismo proyecto no sobrepase el límite establecido en el apartado 2 del artículo 7.
-
-#### Artículo 10. Procedimiento de concesión.
+2. Las ayudas podrán ser compatibles con otras para la misma finalidad, siempre que el conjunto de todas las concedidas para un mismo proyecto no sobrepase el límite establecido en el apartado 2 del artículo 7. #### Artículo 10. Procedimiento de concesión.
 
 La concesión de las ayudas previstas en la presente Orden se efectuará en régimen de concurrencia competitiva, según el cual la concesión de las subvenciones se realiza mediante la comparación de las solicitudes presentadas, a fin de establecer una prelación entre las mismas de acuerdo con los criterios de valoración fijados, y adjudicar con el límite fijado según el crédito disponible, aquellas que hayan obtenido mayor valoración en aplicación de los citados criterios, todo ello de conformidad con lo establecido en el artículo 22.1 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
 
@@ -202,9 +198,7 @@ Decreto 183/2003, de 24 de junio, por el que se regula la información y atenci�
 
 4. De conformidad con lo dispuesto en el artículo 31.2 de la Ley 3/2004, de 28 de diciembre, la presentación de la solicitud por parte de la persona interesada conlleva la autorización al órgano gestor para recabar las certificaciones a emitir por la Agencia Estatal de la Administración Tributaria, por la Tesorería General de la Seguridad Social y por la Consejería de Economía y Hacienda de la Junta de Andalucía.
 
-5. En cumplimiento de lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, se informa que los datos personales obtenidos mediante la cumplimentación de la solicitud, conforme al modelo antes indicado, y demás que se adjuntan van a ser incorporados, para su tratamiento a un fichero automatizado. Asimismo se informa que la recogida y tratamiento de dichos datos tiene como finalidad gestionar el proceso de solicitud, concesión y pago de las subvenciones otorgadas. De acuerdo con lo previsto en la citada Ley se podrá ejercitar los derechos de acceso, rectificación, cancelación y oposición dirigiendo un escrito al Centro Directivo competente para resolver, situado en la Calle Tabladilla, s/n, de Sevilla, 41013.
-
-#### Artículo 13. Documentación.
+5. En cumplimiento de lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, se informa que los datos personales obtenidos mediante la cumplimentación de la solicitud, conforme al modelo antes indicado, y demás que se adjuntan van a ser incorporados, para su tratamiento a un fichero automatizado. Asimismo se informa que la recogida y tratamiento de dichos datos tiene como finalidad gestionar el proceso de solicitud, concesión y pago de las subvenciones otorgadas. De acuerdo con lo previsto en la citada Ley se podrá ejercitar los derechos de acceso, rectificación, cancelación y oposición dirigiendo un escrito al Centro Directivo competente para resolver, situado en la Calle Tabladilla, s/n, de Sevilla, 41013. #### Artículo 13. Documentación.
 
 1. La solicitud irá acompañada de la siguiente documentación:
 A) Acreditación de la personalidad.
@@ -234,9 +228,7 @@ Si la solicitud presentada no reuniera los requisitos exigidos o no se acompaña
 
 #### Artículo 15. Instrucción y tramitación.
 
-1. Las Delegaciones Provinciales de la Consejería de Agricultura y Pesca instruirán los expedientes y efectuarán una inspección de las instalaciones, levantando la correspondiente acta de no inicio, a fin de verificar que las inversiones no han comenzado, y confirmen por escrito los extremos señalados en el apartado 4 del artículo 4.
-
-Página núm. 10 Sevilla, 8 de mayo 2007
+1. Las Delegaciones Provinciales de la Consejería de Agricultura y Pesca instruirán los expedientes y efectuarán una inspección de las instalaciones, levantando la correspondiente acta de no inicio, a fin de verificar que las inversiones no han comenzado, y confirmen por escrito los extremos señalados en el apartado 4 del artículo 4. Página núm. 10 Sevilla, 8 de mayo 2007
 
 2. Asimismo, la Delegación Provincial realizará de oficio cuantas actuaciones estime necesarias para la determinación, conocimiento y comprobación de los datos en virtud de los cuales debe pronunciarse la resolución, de acuerdo con lo establecido en la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
@@ -409,8 +401,7 @@ Quedan derogadas cuantas disposiciones se opongan a la presente Orden y específ
 
 #### Sección 8. ª, sobre ayudas para la transformación y comercialización de los productos agroalimentarios, del Decreto
 
-280/2001, de 26 de diciembre, se establecen las ayudas de la Junta de Andalucía a los sectores agrícolas, ganadero y forestal incluidas en el Programa Operativo Integrado Regional de Andalucía para el desarrollo del Marco Comunitario de Apoyo 2000-2006.
-- La Orden de 29 de julio de 2005, de la Consejería de Agricultura y Pesca, por la que se establecen las bases reguladoras para la concesión de subvenciones para el apoyo a la manipulación, transformación y comercialización de productos procedentes de la agricultura ecológica.
+280/2001, de 26 de diciembre, se establecen las ayudas de la Junta de Andalucía a los sectores agrícolas, ganadero y forestal incluidas en el Programa Operativo Integrado Regional de Andalucía para el desarrollo del Marco Comunitario de Apoyo 2000-2006. - La Orden de 29 de julio de 2005, de la Consejería de Agricultura y Pesca, por la que se establecen las bases reguladoras para la concesión de subvenciones para el apoyo a la manipulación, transformación y comercialización de productos procedentes de la agricultura ecológica.
 
 #### Disposición final primera. Facultad de desarrollo y ejecución.
 

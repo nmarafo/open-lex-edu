@@ -1,10 +1,12 @@
 ---
 id: norm-es-2019-3307
 codigo_sintetizado: BOE-A-2019-3307
-titulo: Ley 4/2019, de 7 de marzo, de mejora de las condiciones para el desempeño de la docencia y la enseñanza en el ámbito de la educación no universitaria.
+titulo: Ley 4/2019, de 7 de marzo, de mejora de las condiciones para el desempeño
+  de la docencia y la enseñanza en el ámbito de la educación no universitaria.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2019-03-08'
 boletin: BOE
@@ -15,38 +17,31 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Jornada laboral y horarios
 tags:
-  - curriculo
-  - ebep
-  - educacion-primaria
-  - ensenanzas-universitarias
-  - eso
-  - gestion-economica
-  - jornada-laboral-y-horarios
-  - oposiciones
-  - personal-no-docente
-  - profesorado
+- curriculo
+- ebep
+- educacion-primaria
+- ensenanzas-universitarias
+- eso
+- gestion-economica
+- jornada-laboral-y-horarios
+- oposiciones
+- personal-no-docente
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2012-5337
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2012-5337
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-es-lo-2-2006
-  articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-l-39-2015
-  articulos:
-    - '1'
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2012-5337
+  - '1'
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2012-5337
 ---
 # Ley 4/2019, de 7 de marzo, de mejora de las condiciones para el desempeño de la docencia y la enseñanza en el ámbito de la educación no universitaria.
 
@@ -112,9 +107,7 @@ Por tanto,
 
 Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
 
-Madrid, 7 de marzo de 2019.
-
-FELIPE R.
+Madrid, 7 de marzo de 2019. FELIPE R.
 
 El Presidente del Gobierno,
 

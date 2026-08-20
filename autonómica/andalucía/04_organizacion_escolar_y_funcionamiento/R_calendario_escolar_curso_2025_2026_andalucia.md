@@ -1,10 +1,12 @@
 ---
 id: norm-and-r-calendario-escolar-2025-2026
 codigo_sintetizado: R_Calendario Escolar Curso 2025-2026 Andalucia
-titulo: Resolución por la que se aprueban los calendarios escolares provinciales para el curso 2025-2026 en la Comunidad Autónoma de Andalucía.
+titulo: Resolución por la que se aprueban los calendarios escolares provinciales para
+  el curso 2025-2026 en la Comunidad Autónoma de Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Resolución
 numero_disposicion: Calendario 2025-2026
 fecha_disposicion: '2025-05-20'
@@ -18,19 +20,19 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Calendario escolar
 tags:
-  - calendario_escolar
-  - curso_2025_2026
-  - dias_lectivos
-  - vacaciones
-  - andalucia
+- calendario_escolar
+- curso_2025_2026
+- dias_lectivos
+- vacaciones
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
 ---
 # Resolución por la que se aprueban los calendarios escolares provinciales para el curso 2025-2026 en la Comunidad Autónoma de Andalucía.
 

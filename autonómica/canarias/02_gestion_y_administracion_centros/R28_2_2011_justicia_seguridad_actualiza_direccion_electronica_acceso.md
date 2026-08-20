@@ -1,7 +1,11 @@
 ---
 id: norm-can-res-juriscan-64885-10
 codigo_sintetizado: Resolucion BOC 10
-titulo: Resolución de 28 de febrero de 2011, de la Dirección General de Telecomunicaciones y Nuevas Tecnologías de la Consejería de Presidencia, Justicia y Seguridad, por la que se actualiza la dirección electrónica de acceso al Registro General Electrónico de la Administración Pública de la Comunidad Autónoma de Canarias (BOC n.º 49, de 8 de marzo).
+titulo: Resolución de 28 de febrero de 2011, de la Dirección General de Telecomunicaciones
+  y Nuevas Tecnologías de la Consejería de Presidencia, Justicia y Seguridad, por
+  la que se actualiza la dirección electrónica de acceso al Registro General Electrónico
+  de la Administración Pública de la Comunidad Autónoma de Canarias (BOC n.º 49, de
+  8 de marzo).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General competente de la Consejería de Educación de Canarias
@@ -13,22 +17,22 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Administración electrónica y firmas
 tags:
-  - administraci-n-electr-nica-y-firmas
-  - equipos-directivos
-  - inspeccion-educativa
-  - oposiciones
+- administraci-n-electr-nica-y-firmas
+- equipos-directivos
+- inspeccion-educativa
+- oposiciones
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
+  - '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2011-049-1191.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=64885
 ---

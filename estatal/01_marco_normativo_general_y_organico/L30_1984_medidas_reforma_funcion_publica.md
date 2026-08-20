@@ -4,7 +4,8 @@ codigo_sintetizado: BOE-A-1984-17387
 titulo: Ley 30/1984, de 2 de agosto, de medidas para la reforma de la Función Pública.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1984-08-03'
 boletin: BOE
@@ -15,37 +16,37 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Empleados públicos
 tags:
-  - curriculo
-  - ebep
-  - empleados-p-blicos
-  - ensenanzas-artisticas
+- curriculo
+- ebep
+- empleados-p-blicos
+- ensenanzas-artisticas
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   fundamento_de:
-    - norma_id: norm-es-1985-5392
-    - norma_id: norm-es-1985-7820
-    - norma_id: norm-es-1986-1216
-    - norma_id: norm-es-1995-8730
-    - norma_id: norm-es-2007-5478
-    - norma_id: norm-es-2007-6115
-    - norma_id: norm-es-2009-20550
-    - norma_id: norm-es-2012-8745
-    - norma_id: norm-es-2015-9453
-    - norma_id: norm-es-lo-1-2004
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-1364-2010
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-can-res-boc-1996-057-140
-    - norma_id: norm-can-l-2-1987
-    - norma_id: norm-can-res-juriscan-49002-54
-    - norma_id: norm-can-d-109-1999
+  - norma_id: norm-es-1985-5392
+  - norma_id: norm-es-1985-7820
+  - norma_id: norm-es-1986-1216
+  - norma_id: norm-es-1995-8730
+  - norma_id: norm-es-2007-5478
+  - norma_id: norm-es-2007-6115
+  - norma_id: norm-es-2009-20550
+  - norma_id: norm-es-2012-8745
+  - norma_id: norm-es-2015-9453
+  - norma_id: norm-es-lo-1-2004
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-1364-2010
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-can-res-boc-1996-057-140
+  - norma_id: norm-can-l-2-1987
+  - norma_id: norm-can-res-juriscan-49002-54
+  - norma_id: norm-can-d-109-1999
   desarrollado_por: []
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
+  - '27'
 ---
 # Ley 30/1984, de 2 de agosto, de medidas para la reforma de la Función Pública.
 
@@ -635,9 +636,7 @@ Sin perjuicio de lo dispuesto en el artículo 33, el Gobierno regulará la figur
 
 #### Disposición adicional octava.
 
-1. Los Cuerpos y Escalas declarados a extinguir que actualmente tengan asignados los índices de proporcionalidad 10, 8, 6, 4 y 3, pasarán a integrarse respectivamente, a partir de la vigencia de esta Ley, en los grupos A, B, C, D y E establecidos en el artículo 25.
-
-2. Para el ingreso en los Cuerpos y Escalas de nueva creación se exigirá la titulación académica necesaria para el ingreso en los Cuerpos y Escalas que se integran en ellos. En el caso de que se integren Cuerpos o Escalas con distinto nivel de titulación a efectos de nuevos ingresos, el exigido será el correspondiente al cuerpo o escala de los integrados para el que se requiera mayor nivel de titulación.
+1. Los Cuerpos y Escalas declarados a extinguir que actualmente tengan asignados los índices de proporcionalidad 10, 8, 6, 4 y 3, pasarán a integrarse respectivamente, a partir de la vigencia de esta Ley, en los grupos A, B, C, D y E establecidos en el artículo 25. 2. Para el ingreso en los Cuerpos y Escalas de nueva creación se exigirá la titulación académica necesaria para el ingreso en los Cuerpos y Escalas que se integran en ellos. En el caso de que se integren Cuerpos o Escalas con distinto nivel de titulación a efectos de nuevos ingresos, el exigido será el correspondiente al cuerpo o escala de los integrados para el que se requiera mayor nivel de titulación.
 
 #### Disposición adicional novena. Uno.–Se crean en la Administración del Estado los siguientes Cuerpos de funcionarios:.
 
@@ -2657,9 +2656,7 @@ Los funcionarios del Cuerpo de Inspectores al Servicio de la Administración Edu
 
 – Cuerpo de Titulados Superiores, Escalas de Administración y de Asistencia, Formación y Empleo del extinguido Servicio de Recuperación y Rehabilitación de Minusválidos Físicos y Psíquicos.
 
-– Escala Técnica Administrativa del Cuerpo Técnico de la Administración de la Seguridad Social, referida en la Orden ministerial de 4 de julio de 1981.
-
-**2.2** Cuerpo de Gestión de la Administración de la Seguridad Social: Se integrarán en él los funcionarios que, ostentando la titulación de Diplomado Universitario, Ingeniero Técnico, Arquitecto Técnico o Formación Profesional de Tercer Grado, pertenezcan a alguno de los Cuerpos o Escalas siguientes:
+– Escala Técnica Administrativa del Cuerpo Técnico de la Administración de la Seguridad Social, referida en la Orden ministerial de 4 de julio de 1981. **2.2** Cuerpo de Gestión de la Administración de la Seguridad Social: Se integrarán en él los funcionarios que, ostentando la titulación de Diplomado Universitario, Ingeniero Técnico, Arquitecto Técnico o Formación Profesional de Tercer Grado, pertenezcan a alguno de los Cuerpos o Escalas siguientes:
 
 – Cuerpo de Titulados Medios, Escala de Administración del extinguido Servicio de Asistencia a Pensionistas.
 
@@ -2681,9 +2678,7 @@ Los funcionarios del Cuerpo de Inspectores al Servicio de la Administración Edu
 
 – Cuerpo de Ejecutivos, Escala de Administración del extinguido Servicio de Recuperación y Rehabilitación de Minusválidos Físicos y Psíquicos.
 
-– Escala única del Cuerpo Administrativo referida en la Orden ministerial de 4 de julio de 1981.
-
-**2.4** Cuerpo Auxiliar de la Administración de la Seguridad Social: Se integrarán en él los funcionarios que, ostentando la titulación de Graduado Escolar, Bachiller Elemental, Formación Profesional de Primer Grado o equivalente, pertenezcan a alguno no de los Cuerpos o Escalas siguientes:
+– Escala única del Cuerpo Administrativo referida en la Orden ministerial de 4 de julio de 1981. **2.4** Cuerpo Auxiliar de la Administración de la Seguridad Social: Se integrarán en él los funcionarios que, ostentando la titulación de Graduado Escolar, Bachiller Elemental, Formación Profesional de Primer Grado o equivalente, pertenezcan a alguno no de los Cuerpos o Escalas siguientes:
 
 – Escala de Auxiliares del suprimido Instituto de Estudios de Sanidad y Seguridad Social.
 
@@ -2699,9 +2694,7 @@ Los funcionarios del Cuerpo de Inspectores al Servicio de la Administración Edu
 
 – Cuerpo de Auxiliares, Escala de Administración del extinguido Servicio de Recuperación y Rehabilitación de Minusválidos Físicos y Psíquicos.
 
-– Escala única del Cuerpo Auxiliar referida en la Orden ministerial de 4 de julio de 1981.
-
-**2.5** Cuerpo Subalterno de la Administración de la Seguridad Social.
+– Escala única del Cuerpo Auxiliar referida en la Orden ministerial de 4 de julio de 1981. **2.5** Cuerpo Subalterno de la Administración de la Seguridad Social.
 
 **2.5.1** Escala general: Se integrarán en ella los funcionarios con certificado de escolaridad que pertenezcan a alguno de los Cuerpos o Escalas siguientes:
 
@@ -2721,9 +2714,7 @@ Los funcionarios del Cuerpo de Inspectores al Servicio de la Administración Edu
 
 – Cuerpo de Subalternos, Escala de Ordenanzas del extinguido Servicio de Recuperación y Rehabilitación de Minusválidos Físicos y Psíquicos.
 
-– Escala única del Cuerpo Subalterno referida en la Orden ministerial de 4 de julio de 1981.
-
-**2.5.2** Escala de Oficios Varios: Se integrarán en ella los funcionarios con certificado de escolaridad que pertenezcan a alguno de los Cuerpos o Escalas siguientes:
+– Escala única del Cuerpo Subalterno referida en la Orden ministerial de 4 de julio de 1981. **2.5.2** Escala de Oficios Varios: Se integrarán en ella los funcionarios con certificado de escolaridad que pertenezcan a alguno de los Cuerpos o Escalas siguientes:
 
 – Cuerpo Subalterno, Escala de Oficios Especiales del extinguido Instituto Nacional de Previsión, a excepción de la clase de Vigilantes Jurados.
 
@@ -2731,9 +2722,7 @@ Los funcionarios del Cuerpo de Inspectores al Servicio de la Administración Edu
 
 – Los funcionarios del Cuerpo Subalterno del Instituto Social de la Marina que, de conformidad con lo establecido en el artículo 12 l.
 
-Estatuto, realizaran las funciones de Conductores en 31 de diciembre de 1979.
-
-**2.6** Cuerpo de Letrados de la Administración de la Seguridad Social: Se integrarán en él los funcionarios que, ostentando la titulación de Licenciado en Derecho, pertenezcan a algunos de los Cuerpos o Escalas siguientes:
+Estatuto, realizaran las funciones de Conductores en 31 de diciembre de 1979. **2.6** Cuerpo de Letrados de la Administración de la Seguridad Social: Se integrarán en él los funcionarios que, ostentando la titulación de Licenciado en Derecho, pertenezcan a algunos de los Cuerpos o Escalas siguientes:
 
 – Cuerpo de Letrados del extinguido Instituto Nacional de Previsión.
 
@@ -2743,9 +2732,7 @@ Estatuto, realizaran las funciones de Conductores en 31 de diciembre de 1979.
 
 – Cuerpo de Letrados del extinguido Servicio de Reaseguro de accidentes de Trabajo, siempre que a la entrada en vigor de esta Ley estén desempeñando puestos de trabajo de Letrados, así clasificados en la estructura orgánica.
 
-– Escala única del Cuerpo de Letrados referida en la Orden ministerial de 4 de julio de 1981.
-
-**2.7** Cuerpo de Actuarios, Estadísticos y Economistas de la Administración de la Seguridad Social.
+– Escala única del Cuerpo de Letrados referida en la Orden ministerial de 4 de julio de 1981. **2.7** Cuerpo de Actuarios, Estadísticos y Economistas de la Administración de la Seguridad Social.
 
 **2.7.1** Escala de Actuarios: Se integrarán en ella los funcionarios que, ostentando la titulación de Actuario de Seguros o de Licenciado en Ciencias Económicas y Empresariales, especialidad Actuarial o Rama Actuarial y de la Empresa Financiera, pertenezcan a alguno de los Cuerpos o Escalas siguientes:
 
@@ -2753,9 +2740,7 @@ Estatuto, realizaran las funciones de Conductores en 31 de diciembre de 1979.
 
 – Cuerpo de Asesores, Escala de Asesores Actuariales del extinguido Mutualismo Laboral.
 
-– Escala de Asesores Actuariales del Cuerpo de Asesores referida en la Orden ministerial de 4 de julio de 1981.
-
-**2.7.2** Escala de Estadísticos y Economistas: Se Integrarán en ella los funcionarios que, ostentando la titulación de Licenciado en Ciencias Económicas y Empresariales, salvo la especialidad Actuarial o rama Actuarial y de la Empresa Financiera, pertenezcan a alguno de los Cuerpos y Escalas siguientes:
+– Escala de Asesores Actuariales del Cuerpo de Asesores referida en la Orden ministerial de 4 de julio de 1981. **2.7.2** Escala de Estadísticos y Economistas: Se Integrarán en ella los funcionarios que, ostentando la titulación de Licenciado en Ciencias Económicas y Empresariales, salvo la especialidad Actuarial o rama Actuarial y de la Empresa Financiera, pertenezcan a alguno de los Cuerpos y Escalas siguientes:
 
 – Cuerpo de Asesores Matemáticos, Escalas de Asesores Actuariales, Asesores Estadísticos y Asesores Económicos del extinguido Instituto Nacional de Previsión:
 
@@ -2813,15 +2798,11 @@ En todo caso, estas convocatorias de acceso, deberán respetar los criterios de 
 
 3. Las Comunidades Autónomas aplicarán las anteriores normas al personal contratado administrativo de colaboración temporal dependiente de las mismas para acceso a las respectivas funciones públicas autónomas.
 
-4. Los Consejos de Gobierno de las Comunidades Autónomas podrán convocar pruebas específicas para el personal que, al amparo de lo establecido en disposiciones de carácter general promulgadas por las correspondientes Comunidades Autónomas tuviesen, con anterioridad al 15 de marzo de 1984, condición de contratados administrativos, en expectativa de acceso a su respectiva Función Pública. Se considerarán incluidos en el presente precepto los contratados mediante convocatorias públicas con anterioridad al 15 de marzo de 1984.
-
-5. Excepcionalmente, y hasta el curso académico 1986-1987, inclusive, las Universidades podrán celebrar contratos de colaboración temporal en régimen de derecho administrativo para el personal docente en las categorías contractuales a que se refiere la disposición transitoria 10.ª, 2, de la Ley 11/1983, de 25 de agosto, de Reforma Universitaria.
+4. Los Consejos de Gobierno de las Comunidades Autónomas podrán convocar pruebas específicas para el personal que, al amparo de lo establecido en disposiciones de carácter general promulgadas por las correspondientes Comunidades Autónomas tuviesen, con anterioridad al 15 de marzo de 1984, condición de contratados administrativos, en expectativa de acceso a su respectiva Función Pública. Se considerarán incluidos en el presente precepto los contratados mediante convocatorias públicas con anterioridad al 15 de marzo de 1984. 5. Excepcionalmente, y hasta el curso académico 1986-1987, inclusive, las Universidades podrán celebrar contratos de colaboración temporal en régimen de derecho administrativo para el personal docente en las categorías contractuales a que se refiere la disposición transitoria 10.ª, 2, de la Ley 11/1983, de 25 de agosto, de Reforma Universitaria.
 
 #### Disposición transitoria séptima.
 
-1. La asignación de los grados personales previstos en la presente Ley a los funcionarios que presten servicios en el momento de su entrada en vigor, no supondrá el cese automático en el puesto de trabajo que venían desempeñando y comenzarán a adquirir su grado personal, cumpliendo los requisitos establecidos en esta Ley, a partir del 1 de enero de 1985.
-
-2. El funcionario que se considere perjudicado en la asignación de su grado personal, podrá solicitar la revisión de dicha asignación conforme a criterios objetivos basados en el tiempo de servicios efectivos prestados en su Cuerpo o Escala y en el nivel de los puestos desempeñados. Las propuestas de resolución de asignación de grado, deberán ser informadas en todo caso por la Comisión Superior de Personal.
+1. La asignación de los grados personales previstos en la presente Ley a los funcionarios que presten servicios en el momento de su entrada en vigor, no supondrá el cese automático en el puesto de trabajo que venían desempeñando y comenzarán a adquirir su grado personal, cumpliendo los requisitos establecidos en esta Ley, a partir del 1 de enero de 1985. 2. El funcionario que se considere perjudicado en la asignación de su grado personal, podrá solicitar la revisión de dicha asignación conforme a criterios objetivos basados en el tiempo de servicios efectivos prestados en su Cuerpo o Escala y en el nivel de los puestos desempeñados. Las propuestas de resolución de asignación de grado, deberán ser informadas en todo caso por la Comisión Superior de Personal.
 
 #### Disposición transitoria octava.
 
@@ -2887,9 +2868,7 @@ Los funcionarios que como consecuencia de la aplicación del régimen retributiv
 
 En tanto que se aprueban las relaciones de puestos de trabajo a que se refiere el artículo 15 de esta Ley, se proveerán mediante concursos los puestos así calificados en el momento de su entrada en vigor.
 
-#### Disposición transitoria decimosegunda. Se aplaza la entrada en vigor de los artículos 21, 22 y 23 hasta 1 de enero de 1985.
-
-#### Disposición transitoria decimotercera.
+#### Disposición transitoria decimosegunda. Se aplaza la entrada en vigor de los artículos 21, 22 y 23 hasta 1 de enero de 1985. #### Disposición transitoria decimotercera.
 
 En tanto no se constituya el Consejo Superior de la Función Pública, las funciones del mismo serán desempeñadas por la Comisión de Coordinación de la Función Pública en lo que afecte a la política de personal de las Comunidades Autónomas.
 
@@ -2903,51 +2882,33 @@ El Gobierno, por Real Decreto, establecerá el régimen de indemnización a perc
 
 #### Disposición final segunda.
 
-La primera oferta de empleo público que se realice como consecuencia de lo dispuesto en el artículo 18 de la presente Ley, será efectuada en 1985.
-
-#### Disposición derogatoria ....
+La primera oferta de empleo público que se realice como consecuencia de lo dispuesto en el artículo 18 de la presente Ley, será efectuada en 1985. #### Disposición derogatoria ....
 
 1. Quedan derogados los siguientes preceptos de las disposiciones que se citan:
 
 A) Totalmente:
 
-[ignorar]Artículo: 5.º,1; 6.º, 14, 15, 16, 18, 19, 20, 21, 25, 26, 31, 38, c); 39,1 y 3; 43, 45, 46, 52, 53, 54, 55, 56, 57, 70, 88, 91,1 d) y e); del 95 al 101, ambos inclusive, y 103 del texto articulado de la Ley de Funcionarios Civiles del Estado de 7 de febrero de 1964.
-
-Ley de Retribuciones 31/1965 de 4 de mayo.
+[ignorar]Artículo: 5.º,1; 6.º, 14, 15, 16, 18, 19, 20, 21, 25, 26, 31, 38, c); 39,1 y 3; 43, 45, 46, 52, 53, 54, 55, 56, 57, 70, 88, 91,1 d) y e); del 95 al 101, ambos inclusive, y 103 del texto articulado de la Ley de Funcionarios Civiles del Estado de 7 de febrero de 1964. Ley de Retribuciones 31/1965 de 4 de mayo.
 
 Artículos 4.º, 6.º, y 8.º, Disposiciones adicionales 1.ª, 2.ª y 5.ª del Real Decreto-Ley 22/1977, de 30 de marzo.
 
-Artículos 16.2 y 40 de la Ley de Derechos Pasivos de los Funcionarios de la Administración Civil del Estado, de 21 de abril de 1966.
-
-Artículos 6.º, 7.º y 8.º de la Ley de Seguridad Social de los Funcionarios Civiles del Estado, de 27 de julio de 1975.
-
-[ignorar]Artículo 135.2 de la Ley de Procedimiento Administrativo, de 17 de julio de 1958.
-
-[ignorar]Disposicion adicional segunda de la Ley 70/1978, de 26 de diciembre.
+Artículos 16.2 y 40 de la Ley de Derechos Pasivos de los Funcionarios de la Administración Civil del Estado, de 21 de abril de 1966. Artículos 6.º, 7.º y 8.º de la Ley de Seguridad Social de los Funcionarios Civiles del Estado, de 27 de julio de 1975. [ignorar]Artículo 135.2 de la Ley de Procedimiento Administrativo, de 17 de julio de 1958. [ignorar]Disposicion adicional segunda de la Ley 70/1978, de 26 de diciembre.
 
 Ley 8/1973, de 17 de marzo, por la que se regula el ingreso en el Cuerpo de Ingenieros de Minas al servicio del Ministerio de Industrial y Energía.
 
 B) Parcialmente, en cuanto se oponen a lo previsto en la presente Ley:
 
-Artículos 12, 17, 24.2 y 3; 29, 40 b) y c); 42, 44, 51, 58, 59, 60.1; 66, 102 y 105 de la Ley de Funcionarios Civiles del Estado, de 7 de febrero de 1964.
-
-Artículos 10, 13.8 y 17 de la Ley de Régimen Jurídico de la Administración del Estado, de 26 de julio de 1957, y el artículo 15.2 en cuanto se refiere a las competencias atribuidas por esta Ley a los Delegados del Gobierno y a los Gobernadores Civiles.
+Artículos 12, 17, 24.2 y 3; 29, 40 b) y c); 42, 44, 51, 58, 59, 60.1; 66, 102 y 105 de la Ley de Funcionarios Civiles del Estado, de 7 de febrero de 1964. Artículos 10, 13.8 y 17 de la Ley de Régimen Jurídico de la Administración del Estado, de 26 de julio de 1957, y el artículo 15.2 en cuanto se refiere a las competencias atribuidas por esta Ley a los Delegados del Gobierno y a los Gobernadores Civiles.
 
 Artículos 27.1,
 
-**36.1** E. a); 37.1, 38 y 46.2 de Ley de Derechos Pasivos de los Funcionarios de la Administración del Estado, de 21 de abril de 1968.
-
-[ignorar]Artículo 45.2 del Decreto 2065/1974, de 30 de mayo, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social, en relación al personal a que se refiere la disposicion adicional decimosexta 1.
-
-2. Asimismo, se derogan todas aquellas disposiciones de igual o inferior rango que se opongan a lo previsto en la presente Ley.
+**36.1** E. a); 37.1, 38 y 46.2 de Ley de Derechos Pasivos de los Funcionarios de la Administración del Estado, de 21 de abril de 1968. [ignorar]Artículo 45.2 del Decreto 2065/1974, de 30 de mayo, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social, en relación al personal a que se refiere la disposicion adicional decimosexta 1. 2. Asimismo, se derogan todas aquellas disposiciones de igual o inferior rango que se opongan a lo previsto en la presente Ley.
 
 Por tanto,
 
 Mando a todos los españoles, particulares y autoridades que guarden y hagan guardar esta Ley.
 
-Palma de Mallorca a 2 de agosto de 1984.
-
-JUAN CARLOS R.
+Palma de Mallorca a 2 de agosto de 1984. JUAN CARLOS R.
 
 El Presidente del Gobierno,
 

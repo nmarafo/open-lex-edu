@@ -1,7 +1,10 @@
 ---
 id: norm-can-res-juriscan-64838-121
 codigo_sintetizado: Resolucion BOC 121
-titulo: Resolución de 9 de febrero de 2011, por la que se dictan instrucciones sobre los procedimientos y los plazos para la atención educativa del alumnado con necesidades específicas de apoyo educativo en los centros escolares de la Comunidad Autónoma de Canarias (BOC n.º 40, de 24 de febrero).
+titulo: Resolución de 9 de febrero de 2011, por la que se dictan instrucciones sobre
+  los procedimientos y los plazos para la atención educativa del alumnado con necesidades
+  específicas de apoyo educativo en los centros escolares de la Comunidad Autónoma
+  de Canarias (BOC n.º 40, de 24 de febrero).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Ordenación, Inclusión e Innovación
@@ -13,45 +16,45 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Alumnado con altas capacidades
 tags:
-  - alumnado-con-altas-capacidades
-  - atencion-diversidad
-  - ensenanzas-deportivas
-  - ensenanzas-universitarias
-  - equipos-directivos
-  - evaluacion
-  - neae
-  - orientacion-educativa
-  - profesorado
+- alumnado-con-altas-capacidades
+- atencion-diversidad
+- ensenanzas-deportivas
+- ensenanzas-universitarias
+- equipos-directivos
+- evaluacion
+- neae
+- orientacion-educativa
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-212-1991
-    - norma_id: norm-can-d-81-2010
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-o-1-9-2010
-    - norma_id: norm-can-o-2013-10-09
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-2008-979
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-o-1-9-2010
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2008-979
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-1-1996
   fundamento_de:
-    - norma_id: norm-can-d-25-2018
+  - norma_id: norm-can-d-25-2018
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-d-81-2010
-    - norma_id: norm-can-o-2013-10-09
-    - norma_id: norm-can-o-1-9-2010
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-2008-979
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-d-212-1991
+  - '1'
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-can-o-1-9-2010
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2008-979
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2011-040-910.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=64838
 ---
@@ -240,9 +243,7 @@ Décimo primera.- Información general sobre el alumnado con necesidades especí
 
 3. Los centros incluirán en el estadillo sólo aquellos escolares con informes psicopedagógicos o informes de evaluación de la comunicación y del lenguaje elaborados por los EOEP.
 
-4. Con la finalidad de facilitar la identificación de los escolares con NEAE, en todos los documentos donde se relacionan los datos personales, deberá incluirse en los mismos el correspondiente Código de Identificación del Alumnado (CIAL). De esta manera, se deberá recoger al menos, en los anexos II y III de la Orden de 13 de diciembre de 2010, y en los anexos I, II, III, V y VI de la Orden de 1 de septiembre de 2010.
-
-#### Décimo. segunda.- Atención domiciliaria del alumnado con larga enfermedad.
+4. Con la finalidad de facilitar la identificación de los escolares con NEAE, en todos los documentos donde se relacionan los datos personales, deberá incluirse en los mismos el correspondiente Código de Identificación del Alumnado (CIAL). De esta manera, se deberá recoger al menos, en los anexos II y III de la Orden de 13 de diciembre de 2010, y en los anexos I, II, III, V y VI de la Orden de 1 de septiembre de 2010. #### Décimo. segunda.- Atención domiciliaria del alumnado con larga enfermedad.
 
 Cuando un alumno o alumna requiera permanecer de forma prolongada en su domicilio a causa de una enfermedad, se actuará de la siguiente manera:
 a) El centro, previa petición de la familia, solicitará la atención domiciliaria a la Dirección General de Ordenación, Innovación y Promoción Educativa.
@@ -319,8 +320,7 @@ Décimo séptima.- Criterios para el agrupamiento del alumnado con necesidades e
 a) Para el alumnado con necesidades educativas especiales con AC o ACUS, la intervención se realizará en grupos de 3 ó 4 alumnos y alumnas.
 b) Para el alumnado con especiales condiciones personales e historia escolar, dificultad específica de aprendizaje o trastorno por déficit de atención con o sin hiperactividad con AC, la intervención se realizará en grupos de 5 a 7 escolares.
 c) Cuando se combinan para la intervención escolares con necesidades educativas especiales y escolares con dificultad específica de aprendizaje, trastorno por déficit de atención con o sin hiperactividad o especiales condiciones personales e historia escolar, con AC, los grupos serán de 4 a 6 alumnos y alumnas, tendiendo al número menor cuantos más escolares con necesidades educativas especiales lo compongan.
-d) De no existir en el centro suficientes alumnos y alumnas con NEAE para poder aplicar los criterios de agrupamiento mencionados anteriormente, la Comisión de Coordinación Pedagógica determinará la atención que el profesorado de apoyo a las NEAE debe prestar a otros escolares del centro que puedan requerir apoyos o refuerzo educativo, según se establece en el artículo 28 de la Orden de 13 de diciembre de 2010.
-e) Cuando exista disponibilidad horaria por parte del profesorado especialista de apoyo a las NEAE y una vez aplicados los criterios anteriores, de manera excepcional y en un número de sesiones limitadas, se podrá atender al alumnado en grupos más reducidos. Se priorizará a los escolares que presenten trastornos generalizados del desarrollo, trastornos graves de conducta o trastorno por déficit de atención con o sin hiperactividad, cuando su comportamiento presente dificultades para su control. En estos casos, las sesiones se dedicarán a la aplicación de un programa educativo personalizado de autorregulación de la conducta. Los criterios para la organización de estos agrupamientos serán establecidos por la Comisión de Coordinación Pedagógica en centros de Educación Infantil y Educación Primaria, o por el departamento de orientación en educación secundaria.
+d) De no existir en el centro suficientes alumnos y alumnas con NEAE para poder aplicar los criterios de agrupamiento mencionados anteriormente, la Comisión de Coordinación Pedagógica determinará la atención que el profesorado de apoyo a las NEAE debe prestar a otros escolares del centro que puedan requerir apoyos o refuerzo educativo, según se establece en el artículo 28 de la Orden de 13 de diciembre de 2010. e) Cuando exista disponibilidad horaria por parte del profesorado especialista de apoyo a las NEAE y una vez aplicados los criterios anteriores, de manera excepcional y en un número de sesiones limitadas, se podrá atender al alumnado en grupos más reducidos. Se priorizará a los escolares que presenten trastornos generalizados del desarrollo, trastornos graves de conducta o trastorno por déficit de atención con o sin hiperactividad, cuando su comportamiento presente dificultades para su control. En estos casos, las sesiones se dedicarán a la aplicación de un programa educativo personalizado de autorregulación de la conducta. Los criterios para la organización de estos agrupamientos serán establecidos por la Comisión de Coordinación Pedagógica en centros de Educación Infantil y Educación Primaria, o por el departamento de orientación en educación secundaria.
 f) En general, el criterio para el agrupamiento de los alumnos y alumnas será el de presentar un nivel competencial similar. También se podrán agrupar en función del grado de atención en la tarea, el nivel de autonomía para trabajar individual o colectivamente, la distorsión de su conducta relacional o frente a la tarea, etc.
 
 2. A los efectos de establecer la organización de la respuesta educativa del alumnado y la distribución del horario semanal del profesorado especialista de apoyo a las NEAE, se debe tener en cuenta lo siguiente:
@@ -426,8 +426,7 @@ Décimo. Alumnado escolarizado en centros de educación especial y aulas enclave
 
 #### Primero. Aspectos generales.
 
-a) El alumnado objeto de esta Resolución y al que se refiere el presente anexo II, deberá estar identificado mediante un informe psicopedagógico elaborado por los EOEP, siguiendo los criterios establecidos en el anexo I de la Orden de 13 de diciembre de 2010.
-b) Las medidas ordinarias para el alumnado objeto de esta Resolución se concretarán en el plan de atención a la diversidad del centro, incluyendo estrategias específicas de enseñanza y aprendizaje, tales como presentar contenidos y tareas con distinto grado de dificultad, trabajar actividades de refuerzo y variedad de tareas, adecuar recursos y materiales, llevar a cabo modelos organizativos flexibles y adaptaciones en los procedimientos de evaluación. En cualquier caso, los elementos del currículo que se modifiquen han de tener en cuenta el estilo de aprendizaje y el contexto escolar del alumno o alumna. La flexibilización de los procedimientos de evaluación debe entenderse como un recurso para adaptar los procesos de enseñanza y aprendizaje a las necesidades educativas de este alumnado. La metodología de trabajo debe incorporar, entre otras, el empleo de las técnicas de "autoinstrucciones", la "autoevaluación reforzada" y las TIC, tanto en el aula ordinaria como cuando se le presta una atención más personalizada dentro o fuera de ésta. Estas medidas las adoptará el equipo docente con el asesoramiento del orientador o la orientadora del centro.
+a) El alumnado objeto de esta Resolución y al que se refiere el presente anexo II, deberá estar identificado mediante un informe psicopedagógico elaborado por los EOEP, siguiendo los criterios establecidos en el anexo I de la Orden de 13 de diciembre de 2010. b) Las medidas ordinarias para el alumnado objeto de esta Resolución se concretarán en el plan de atención a la diversidad del centro, incluyendo estrategias específicas de enseñanza y aprendizaje, tales como presentar contenidos y tareas con distinto grado de dificultad, trabajar actividades de refuerzo y variedad de tareas, adecuar recursos y materiales, llevar a cabo modelos organizativos flexibles y adaptaciones en los procedimientos de evaluación. En cualquier caso, los elementos del currículo que se modifiquen han de tener en cuenta el estilo de aprendizaje y el contexto escolar del alumno o alumna. La flexibilización de los procedimientos de evaluación debe entenderse como un recurso para adaptar los procesos de enseñanza y aprendizaje a las necesidades educativas de este alumnado. La metodología de trabajo debe incorporar, entre otras, el empleo de las técnicas de "autoinstrucciones", la "autoevaluación reforzada" y las TIC, tanto en el aula ordinaria como cuando se le presta una atención más personalizada dentro o fuera de ésta. Estas medidas las adoptará el equipo docente con el asesoramiento del orientador o la orientadora del centro.
 c) El profesorado tutor deberá coordinarse y mantener un seguimiento regular con la familia, para unificar criterios educativos, pautas de conducta, estructuración del material y de los tiempos para la realización de tareas y actividades, así como, de proceder, analizar los efectos de la medicación y las posibles repercusiones en casa y en el aula.
 d) El profesorado debe tener en cuenta los criterios recogidos en los diferentes apartados de este anexo, explicitando en sus documentos de planificación aquellas que mejor se ajusten a las necesidades del escolar en el contexto de su aula y centro, propiciando una atención educativa lo más normalizada e inclusiva posible. En el informe psicopedagógico se podrán concretar estas consideraciones atendiendo a las necesidades específicas de un determinado alumno o alumna.
 Segundo.- Alumnado que presenta discapacidad intelectual. Ante la presencia de un alumno o alumna con discapacidad intelectual en el aula ordinaria el profesorado debe considerar los siguientes aspectos para su atención educativa:
@@ -452,8 +451,7 @@ a) El equipo docente ha de conocer el manejo y saber utilizar las adaptaciones d
 lo, cuando procedan, así como el plan de evacuación. En los desplazamientos se debe ofrecer el brazo, caminando ligeramente por delante del alumno o la alumna y advirtiéndole de los posibles obstáculos. Se debe respetar el orden y la ubicación de los diferentes elementos del aula y del centro; se le comunicará y advertirá cualquier cambio de distribución que se lleve a cabo. El alumnado con restos visuales debe sentarse en primera fila frente a la pizarra, con el fin de evitar el sobreesfuerzo que debe emplear en mirar e interpretar lo que ve, y de espaldas a la luz, para evitar deslumbramientos o que le afecte los reflejos en la pizarra.
 b) Es necesario identificarse al dirigirse al alumno o alumna, evitando gesticular. Ofrecerle descripciones precisas sobre la situación de las personas o de los objetos, dándole puntos de referencia precisos. Al hacerle entrega de objetos, hay que indicarle de qué se trata y en qué lugar se localizan. Para facilitar la comprensión del alumno o de la alumna, las explicaciones deben ser lo más detalladas posible sin excederse en éstas.
 c) Se debe respetar su ritmo de trabajo, que suele ser más lento, ofrecerle más tiempo para realizar las tareas o reducir el número de actividades, respetando los contenidos a tratar y teniendo en cuenta la calidad más que la cantidad de los ejercicios, actividades y tareas a realizar. Igualmente se debe respetar el uso de ayudas técnicas para acceder al material impreso, el uso de atril o de los auxiliares ópticos.
-d) Si el alumno o alumna usa el "código tinta", se debe facilitar el material impreso con las ampliaciones que precise, según sus necesidades, asegurando siempre un buen contraste, en colores pastel, amarillos o rosa y evitando rayas, manchas, brillos, etc. El tipo de letra más adecuado es la Verdana o Arial y con un espacio de 1,5.
-e) La coordinación del profesorado con el especialista de apoyo al alumnado con discapacidad visual es imprescindible, ya que, entre otras cuestiones, este último debe saber con la debida antelación, no inferior a 15 días, los materiales adaptados o transcripciones a braille que necesitará el alumno o la alumna, para que disponga de la documentación al mismo tiempo que sus compañeros y compañeras.
+d) Si el alumno o alumna usa el "código tinta", se debe facilitar el material impreso con las ampliaciones que precise, según sus necesidades, asegurando siempre un buen contraste, en colores pastel, amarillos o rosa y evitando rayas, manchas, brillos, etc. El tipo de letra más adecuado es la Verdana o Arial y con un espacio de 1,5. e) La coordinación del profesorado con el especialista de apoyo al alumnado con discapacidad visual es imprescindible, ya que, entre otras cuestiones, este último debe saber con la debida antelación, no inferior a 15 días, los materiales adaptados o transcripciones a braille que necesitará el alumno o la alumna, para que disponga de la documentación al mismo tiempo que sus compañeros y compañeras.
 f) La adaptación en los procedimientos e instrumentos de evaluación a que hace referencia el artículo 29.8 de la Orden de 13 de diciembre de 2010, debe permitir al escolar un mayor tiempo para realizar las pruebas, así como el uso de ampliaciones y transcripciones a braille, cuando procedan según la discapacidad visual del alumno o alumna.
 Quinto.- Alumnado que presenta discapacidad auditiva. Ante la presencia en el aula ordinaria de un alumno o alumna con discapacidad auditiva, el profesorado debe considerar los siguientes aspectos para su atención educativa:
 a) Procurar minimizar el ruido ambiental, garantizando óptimos niveles de escucha; se debe situar en el aula de forma que pueda estar cerca del maestro o maestra, y poder ver siempre la cara del docente y la del compañero que habla. Conviene, además, que se sitúe al lado de un compañero o compañera al que pueda preguntar y que le pueda orientar en la actividad del aula. Es importante que los compañeros y compañeras oyentes conozcan las repercusiones de la sordera en relación a la comunicación y a la gestión de la información, con explicaciones adecuadas a su edad, y que sepan cómo han de dirigirse a sus coetáneos con discapacidad auditiva.

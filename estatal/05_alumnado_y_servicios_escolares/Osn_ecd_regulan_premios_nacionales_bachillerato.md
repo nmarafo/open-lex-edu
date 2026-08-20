@@ -1,10 +1,12 @@
 ---
 id: norm-es-2018-6348
 codigo_sintetizado: BOE-A-2018-6348
-titulo: Orden ECD/482/2018, de 4 de mayo, por la que se regulan los Premios Nacionales de Bachillerato.
+titulo: Orden ECD/482/2018, de 4 de mayo, por la que se regulan los Premios Nacionales
+  de Bachillerato.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2018-05-11'
 boletin: BOE
@@ -15,31 +17,27 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Concursos y premios escolares
 tags:
-  - bachillerato
-  - concursos-y-premios-escolares
-  - curriculo
-  - ensenanzas-deportivas
-  - profesorado
+- bachillerato
+- concursos-y-premios-escolares
+- curriculo
+- ensenanzas-deportivas
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-l-39-2015
-  articulos:
-    - '1'
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 ---
 # Orden ECD/482/2018, de 4 de mayo, por la que se regulan los Premios Nacionales de Bachillerato.
 
@@ -65,9 +63,9 @@ Por todo ello, y con la aprobación previa del Ministro de Hacienda y Función P
 
 #### Artículo 1. Objeto y regulación.
 
-1. Esta orden tiene por objeto establecer las bases reguladoras para la concesión de los Premios Nacionales de Bachillerato en régimen de concurrencia competitiva, y de acuerdo con los principios de publicidad, transparencia, objetividad, igualdad y no discriminación.
+1. Esta orden tiene por objeto establecer las bases reguladoras para la concesión de los Premios Nacionales de Bachillerato en régimen de concurrencia competitiva, y de acuerdo con los principios de publicidad, transparencia, objetividad, igualdad y no discriminación.
 
-2. Los Premios Nacionales de Bachillerato se regirán por esta orden de bases y por su correspondiente convocatoria. Asimismo, resulta de aplicación la Ley 38/2003, de 17 de noviembre, General de Subvenciones, en los términos establecidos en su Disposición adicional décima.
+2. Los Premios Nacionales de Bachillerato se regirán por esta orden de bases y por su correspondiente convocatoria. Asimismo, resulta de aplicación la Ley 38/2003, de 17 de noviembre, General de Subvenciones, en los términos establecidos en su Disposición adicional décima.
 
 #### Artículo 2. Premios Extraordinarios de Bachillerato.
 
@@ -83,7 +81,7 @@ La convocatoria de los Premios Nacionales de Bachillerato establecerá la cuant�
 
 #### Artículo 5. Requisitos de los candidatos a los Premios Nacionales de Bachillerato.
 
-1. Podrán optar a los Premios Nacionales de Bachillerato, previa solicitud de los alumnos, aquellos que hayan obtenido previamente el Premio Extraordinario de Bachillerato a que se refiere el artículo 2 tanto.
+1. Podrán optar a los Premios Nacionales de Bachillerato, previa solicitud de los alumnos, aquellos que hayan obtenido previamente el Premio Extraordinario de Bachillerato a que se refiere el artículo 2 tanto.
 
 en el ámbito de gestión directa del Ministerio de Educación, Cultura y Deporte como en la Comunidad Autónoma en que hayan finalizado dichas enseñanzas, y que además cumplan los siguientes requisitos:
 
@@ -95,7 +93,7 @@ c) Haber obtenido en el conjunto de los dos cursos de Bachillerato una nota medi
 
 La nota media será la media aritmética de las calificaciones de todas las materias cursadas en los dos cursos de Bachillerato, redondeada a la centésima más próxima y, en caso de equidistancia, a la superior. No se tendrán en cuenta en dicho cálculo las calificaciones de «apto», «exento» o «convalidado».
 
-2. El número de candidatos de cada Administración educativa que, reuniendo los requisitos del apartado anterior y previa solicitud de participación, podrán concurrir a los Premios Nacionales será el siguiente:
+2. El número de candidatos de cada Administración educativa que, reuniendo los requisitos del apartado anterior y previa solicitud de participación, podrán concurrir a los Premios Nacionales será el siguiente:
 
 a) Uno por cada mil alumnos o fracción superior a quinientos, matriculados en segundo curso de Bachillerato el año académico al que se refiere la convocatoria.
 
@@ -105,25 +103,25 @@ A los efectos previstos en este apartado, se tendrá en cuenta el número de alu
 
 #### Artículo 6. Procedimiento de presentación de solicitudes y selección de los candidatos.
 
-1. Las Administraciones educativas remitirán a la Dirección General de Planificación y Gestión Educativa del Ministerio de Educación, Cultura y Deporte, antes del 15 de octubre de cada año, la relación de todos los alumnos que hayan obtenido Premio Extraordinario de Bachillerato ordenada por la puntuación final obtenida y que cumplan los requisitos establecidos en el artículo anterior.
+1. Las Administraciones educativas remitirán a la Dirección General de Planificación y Gestión Educativa del Ministerio de Educación, Cultura y Deporte, antes del 15 de octubre de cada año, la relación de todos los alumnos que hayan obtenido Premio Extraordinario de Bachillerato ordenada por la puntuación final obtenida y que cumplan los requisitos establecidos en el artículo anterior.
 
-2. Los alumnos que figuren en la relación a que se refiere el apartado anterior que deseen tomar parte en la convocatoria, dirigirán la correspondiente solicitud al titular de la Dirección General de Planificación y Gestión Educativa del Ministerio de Educación, Cultura y Deporte.
+2. Los alumnos que figuren en la relación a que se refiere el apartado anterior que deseen tomar parte en la convocatoria, dirigirán la correspondiente solicitud al titular de la Dirección General de Planificación y Gestión Educativa del Ministerio de Educación, Cultura y Deporte.
 
 Esta solicitud podrá presentarse a través de la sede electrónica (https://sede.educacion.gob.es) o bien en el Registro General del Ministerio de Educación Cultura y Deporte, calle Los Madrazo 15-17, 28071, Madrid, o en los lugares a que se refiere el artículo 16.4 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. A estos efectos, los registros de los centros docentes no se consideran dependencias de las enumeradas en dicho artículo.
 
-3. El plazo de presentación de solicitudes será el que se determine en la correspondiente convocatoria. Este plazo no podrá ser superior a un mes.
+3. El plazo de presentación de solicitudes será el que se determine en la correspondiente convocatoria. Este plazo no podrá ser superior a un mes.
 
-4. Recibidas las solicitudes el órgano instructor podrá requerir la subsanación de las mismas de acuerdo con el artículo 68.1 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, concediendo un plazo de diez días.
+4. Recibidas las solicitudes el órgano instructor podrá requerir la subsanación de las mismas de acuerdo con el artículo 68.1 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, concediendo un plazo de diez días.
 
-5. En caso de que el número de solicitantes supere el cupo de candidatos que, de acuerdo con lo previsto en el artículo 5.2, corresponda a su Administración educativa, solo podrán concurrir aquellos que, siguiendo el orden que figura en la respectiva relación, no excedan de la cifra máxima.
+5. En caso de que el número de solicitantes supere el cupo de candidatos que, de acuerdo con lo previsto en el artículo 5.2, corresponda a su Administración educativa, solo podrán concurrir aquellos que, siguiendo el orden que figura en la respectiva relación, no excedan de la cifra máxima.
 
 En este supuesto, la renuncia de algún candidato inicialmente admitido se suplirá con el siguiente solicitante de acuerdo con el orden establecido en la relación, siempre y cuando la Dirección General de Planificación y Gestión Educativa tenga constancia de la misma en el plazo mínimo de siete días hábiles anteriores a la fecha de la realización de las pruebas.
 
-6. La Dirección General de Planificación y Gestión Educativa comunicará a las Comunidades Autónomas, a las Direcciones Provinciales de Ceuta y Melilla, a las Consejerías de Educación en el exterior dependientes del Ministerio de Educación, Cultura y Deporte y al Centro para la Innovación y Desarrollo de la Educación a Distancia (CIDEAD) los datos identificativos de los candidatos admitidos a la participación en las pruebas en cada uno de sus ámbitos de competencia, a los efectos de que les convoquen con la suficiente antelación y les faciliten la información oportuna para la realización de las pruebas, así como el lugar y la hora de su celebración.
+6. La Dirección General de Planificación y Gestión Educativa comunicará a las Comunidades Autónomas, a las Direcciones Provinciales de Ceuta y Melilla, a las Consejerías de Educación en el exterior dependientes del Ministerio de Educación, Cultura y Deporte y al Centro para la Innovación y Desarrollo de la Educación a Distancia (CIDEAD) los datos identificativos de los candidatos admitidos a la participación en las pruebas en cada uno de sus ámbitos de competencia, a los efectos de que les convoquen con la suficiente antelación y les faciliten la información oportuna para la realización de las pruebas, así como el lugar y la hora de su celebración.
 
 En caso de que se produzca la circunstancia prevista en el segundo párrafo del apartado 5 anterior, la Dirección General de Planificación y Gestión Educativa lo comunicará de forma inmediata a la Administración competente.
 
-7. La Dirección General de Planificación y Gestión Educativa notificará a los candidatos su condición de admitidos a la realización de las pruebas o, en su caso, su condición de reservas.
+7. La Dirección General de Planificación y Gestión Educativa notificará a los candidatos su condición de admitidos a la realización de las pruebas o, en su caso, su condición de reservas.
 
 #### Artículo 7. Instrucción del procedimiento.
 
@@ -131,23 +129,23 @@ Corresponde a la Subdirección General de Becas, Ayudas al Estudio y Promoción 
 
 #### Artículo 8. Procedimiento de concesión.
 
-1. Para la adjudicación de los Premios Nacionales de Bachillerato, los candidatos realizarán unas pruebas que versarán sobre algunas de las materias generales comunes a todas las modalidades de Bachillerato pertenecientes al bloque de asignaturas troncales, y, al menos, una materia del bloque de asignaturas troncales propia de la modalidad cursada por el alumno de entre las propuestas en la convocatoria.
+1. Para la adjudicación de los Premios Nacionales de Bachillerato, los candidatos realizarán unas pruebas que versarán sobre algunas de las materias generales comunes a todas las modalidades de Bachillerato pertenecientes al bloque de asignaturas troncales, y, al menos, una materia del bloque de asignaturas troncales propia de la modalidad cursada por el alumno de entre las propuestas en la convocatoria.
 
-2. La Subdirección General de Inspección de Educación elaborará el contenido de las pruebas y las remitirá a las Comunidades Autónomas, a las Direcciones Provinciales de Ceuta y Melilla, y en su caso, a las Consejerías de Educación en el exterior dependientes del Ministerio de Educación, Cultura y Deporte y al Centro para la Innovación y Desarrollo de la Educación a Distancia, junto con las instrucciones necesarias para su desarrollo. Dada la naturaleza de concurrencia competitiva de los Premios Nacionales, las pruebas se celebrarán, en todo caso, en un único llamamiento.
+2. La Subdirección General de Inspección de Educación elaborará el contenido de las pruebas y las remitirá a las Comunidades Autónomas, a las Direcciones Provinciales de Ceuta y Melilla, y en su caso, a las Consejerías de Educación en el exterior dependientes del Ministerio de Educación, Cultura y Deporte y al Centro para la Innovación y Desarrollo de la Educación a Distancia, junto con las instrucciones necesarias para su desarrollo. Dada la naturaleza de concurrencia competitiva de los Premios Nacionales, las pruebas se celebrarán, en todo caso, en un único llamamiento.
 
 Las Consejerías de Educación de las Comunidades Autónomas, las Direcciones Provinciales de Ceuta y Melilla, las Consejerías de Educación en el exterior dependientes del Ministerio de Educación, Cultura y Deporte y el Centro para la Innovación y Desarrollo de la Educación a Distancia (CIDEAD) del Ministerio de Educación, Cultura y Deporte facilitarán la realización de las pruebas en sus respectivos ámbitos de competencia.
 
-3. Las pruebas se supervisarán y evaluarán por un Jurado constituido por especialistas en las materias objeto de las mismas que será designado por el Director General de Planificación y Gestión Educativa. Dicho Jurado tendrá el carácter de órgano colegiado a que se refiere el artículo 22.1 de la Ley 38/2003, de 17 de noviembre, y estará compuesto por un Presidente y un Secretario, que serán funcionarios del Ministerio de Educación, Cultura y Deporte, y hasta un máximo de ocho vocales designados entre Inspectores de Educación, Catedráticos o Profesores pertenecientes a los respectivos Cuerpos de Catedráticos o Profesores de Enseñanza Secundaria, especialistas en las materias objeto de las pruebas. Este jurado, en su funcionamiento, se regirá por lo dispuesto en la Sección 3.º, del Capítulo II del Título Preliminar de la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.
+3. Las pruebas se supervisarán y evaluarán por un Jurado constituido por especialistas en las materias objeto de las mismas que será designado por el Director General de Planificación y Gestión Educativa. Dicho Jurado tendrá el carácter de órgano colegiado a que se refiere el artículo 22.1 de la Ley 38/2003, de 17 de noviembre, y estará compuesto por un Presidente y un Secretario, que serán funcionarios del Ministerio de Educación, Cultura y Deporte, y hasta un máximo de ocho vocales designados entre Inspectores de Educación, Catedráticos o Profesores pertenecientes a los respectivos Cuerpos de Catedráticos o Profesores de Enseñanza Secundaria, especialistas en las materias objeto de las pruebas. Este jurado, en su funcionamiento, se regirá por lo dispuesto en la Sección 3.º, del Capítulo II del Título Preliminar de la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.
 
-4. La evaluación de cada una de las pruebas se realizará de acuerdo con el criterio técnico del Jurado.
+4. La evaluación de cada una de las pruebas se realizará de acuerdo con el criterio técnico del Jurado.
 
 Para la valoración de las pruebas se tendrá en cuenta, además de los criterios de evaluación específicos para cada uno de los ejercicios que las componen, la corrección de las respuestas, la claridad y calidad de la exposición, la estructuración del ejercicio, la propiedad del vocabulario, la puntuación y la ortografía.
 
 No obstante en cada prueba se dará información de la puntuación máxima asignada a cada uno de los ejercicios que la integran.
 
-5. Una vez evaluadas las pruebas, el Jurado emitirá un informe en el que constará la puntuación asignada a cada candidato y que será el resultado de la suma de las puntuaciones obtenidas en cada una de las pruebas realizadas. El órgano instructor elevará la oportuna propuesta de adjudicación de los Premios Nacionales de Bachillerato al Secretario de Estado de Educación, Formación Profesional y Universidades.
+5. Una vez evaluadas las pruebas, el Jurado emitirá un informe en el que constará la puntuación asignada a cada candidato y que será el resultado de la suma de las puntuaciones obtenidas en cada una de las pruebas realizadas. El órgano instructor elevará la oportuna propuesta de adjudicación de los Premios Nacionales de Bachillerato al Secretario de Estado de Educación, Formación Profesional y Universidades.
 
-6. El Director General de Planificación y Gestión Educativa adjudicará los Premios Nacionales de Bachillerato a los quince alumnos que obtengan la mayor puntuación otorgada por el Jurado.
+6. El Director General de Planificación y Gestión Educativa adjudicará los Premios Nacionales de Bachillerato a los quince alumnos que obtengan la mayor puntuación otorgada por el Jurado.
 
 #### Artículo 9. Reducción de precios públicos por servicios académicos.
 
@@ -167,7 +165,7 @@ La obtención del Premio Nacional de Bachillerato no será incompatible con la p
 
 #### Artículo 13. Recursos.
 
-1. Contra la resolución de convocatoria, regulada en el artículo 3 de esta orden, y contra la resolución por la que se adjudiquen los premios, recogida en el apartado 6 del artículo 8 de esta misma orden, se podrán interponer, en el plazo de un mes recurso potestativo de reposición ante el Director General de Planificación y Gestión Educativa, de acuerdo con los artículos 123 y 124 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, o, en el plazo de dos meses, directamente recurso contencioso administrativo ante la Sala de lo Contencioso Administrativo de la Audiencia Nacional.
+1. Contra la resolución de convocatoria, regulada en el artículo 3 de esta orden, y contra la resolución por la que se adjudiquen los premios, recogida en el apartado 6 del artículo 8 de esta misma orden, se podrán interponer, en el plazo de un mes recurso potestativo de reposición ante el Director General de Planificación y Gestión Educativa, de acuerdo con los artículos 123 y 124 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, o, en el plazo de dos meses, directamente recurso contencioso administrativo ante la Sala de lo Contencioso Administrativo de la Audiencia Nacional.
 
 #### Disposición derogatoria única. Derogación normativa.
 

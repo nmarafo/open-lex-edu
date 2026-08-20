@@ -1,10 +1,15 @@
 ---
 id: norm-can-res-boc-2026-039-111
 codigo_sintetizado: Resolucion BOC 111
-titulo: Resolución de 5 de febrero de 2026, de la DGACESC, por la que se convoca el procedimiento de admisión del alumnado en centros docentes que oferten enseñanzas de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato y Educación de Personas Adultas sostenidos con fondos públicos, para el curso escolar 2026-2027, en la Comunidad Autónoma de Canarias (BOC núm. 31, de 16 de febrero).
+titulo: Resolución de 5 de febrero de 2026, de la DGACESC, por la que se convoca el
+  procedimiento de admisión del alumnado en centros docentes que oferten enseñanzas
+  de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato
+  y Educación de Personas Adultas sostenidos con fondos públicos, para el curso escolar
+  2026-2027, en la Comunidad Autónoma de Canarias (BOC núm. 31, de 16 de febrero).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios Complementarios
+organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios
+  Complementarios
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: pdf_oficial_boc
@@ -13,54 +18,54 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión y escolarización del alumnado
 tags:
-  - admisi-n-y-escolarizaci-n-del-alumnado
-  - admision-alumnado
-  - bachillerato
-  - curriculo
-  - educacion-infantil
-  - educacion-personas-adultas
-  - educacion-primaria
-  - ensenanzas-artisticas
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - eso
-  - formacion-profesional
-  - oposiciones
-  - profesorado
-  - titulacion
+- admisi-n-y-escolarizaci-n-del-alumnado
+- admision-alumnado
+- bachillerato
+- curriculo
+- educacion-infantil
+- educacion-personas-adultas
+- educacion-primaria
+- ensenanzas-artisticas
+- ensenanzas-deportivas
+- equipos-directivos
+- eso
+- formacion-profesional
+- oposiciones
+- profesorado
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-d-9-2022
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-res-boc-2026-039-102
-    - norma_id: norm-can-res-boc-2026-039-103
-    - norma_id: norm-can-res-juriscan-65631-68
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2024-11613
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-3-2018
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-d-9-2022
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-boc-2026-039-102
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-can-res-juriscan-65631-68
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2024-11613
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-l-39-2015
   fundamento_de:
-    - norma_id: norm-can-res-110
-    - norma_id: norm-can-res-boc-2026-037-105
+  - norma_id: norm-can-res-110
+  - norma_id: norm-can-res-boc-2026-037-105
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-d-9-2022
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-3-2018
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2024-11613
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-res-juriscan-65631-68
-    - norma_id: norm-can-res-boc-2026-039-102
-    - norma_id: norm-can-res-boc-2026-039-103
+  - '1'
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-d-9-2022
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2024-11613
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-res-juriscan-65631-68
+  - norma_id: norm-can-res-boc-2026-039-102
+  - norma_id: norm-can-res-boc-2026-039-103
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-039-643.pdf
 ---
 # Resolución de 5 de febrero de 2026, de la DGACESC, por la que se convoca el procedimiento de admisión del alumnado en centros docentes que oferten enseñanzas de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato y Educación de Personas Adultas sostenidos con fondos públicos, para el curso escolar 2026-2027, en la Comunidad Autónoma de Canarias (BOC núm. 31, de 16 de febrero).
@@ -148,9 +153,7 @@ j) Todas las personas que se presenten a las pruebas específicas deberán aport
 
 **1.3.** Para la formalización de la inscripción en las pruebas específicas de acceso se deberán satisfacer los precios públicos previstos en la normativa vigente o, en su caso, los importes establecidos por los centros autorizados por este concepto.
 
-**1.4.** Cada centro superior de enseñanzas artísticas hará pública la oferta educativa autorizada incluyendo los estudios, las especialidades, los grupos o plazas ofertadas, en sus tablones de anuncios y en su sitio web con fecha límite el 7 de abril de 2026.
-
-**1.5.** Finalizado el plazo de inscripción, se harán públicas las listas de admitidos y excluidos en el centro designado para realizar las pruebas. Si existieran aspirantes excluidos, se especificarán sus causas, estableciéndose un plazo de reclamaciones conforme al calendario establecido en el Anexo I de la presente resolución.
+**1.4.** Cada centro superior de enseñanzas artísticas hará pública la oferta educativa autorizada incluyendo los estudios, las especialidades, los grupos o plazas ofertadas, en sus tablones de anuncios y en su sitio web con fecha límite el 7 de abril de 2026. **1.5.** Finalizado el plazo de inscripción, se harán públicas las listas de admitidos y excluidos en el centro designado para realizar las pruebas. Si existieran aspirantes excluidos, se especificarán sus causas, estableciéndose un plazo de reclamaciones conforme al calendario establecido en el Anexo I de la presente resolución.
 
 **1.6.** Transcurrido este plazo y, en su caso, resueltas las mismas, se harán públicos los listados definitivos en las fechas establecidas en el Anexo I de la presente convocatoria.
 
@@ -284,9 +287,7 @@ máximo 1 hora.
 
 **6.2.** Las Escuelas de Arte y Superiores de Diseño trasladarán a la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, antes del 10 de abril de 2026, las propuestas de miembros que habrán de integrar las Comisiones Evaluadoras correspondientes, garantizando en su composición la presencia de profesorado especialista en las diversas materias de Bachillerato vinculadas a la prueba.
 
-**6.3.** Las Comisiones Evaluadoras serán nombradas por la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial y se hará pública su composición en los tablones de anuncio de las respectivas sedes del Conservatorio Superior de Música de Canarias antes del 30 de abril de 2026.
-
-**6.4.** Cada Comisión Evaluadora levantará acta de la sesión de evaluación y cumplimentará el acta de calificación, en la que se reflejará la calificación obtenida por cada persona aspirante en cada una de las partes de la prueba, así como la calificación final. El modelo de acta será el establecido en el Anexo V de la presente Resolución.
+**6.3.** Las Comisiones Evaluadoras serán nombradas por la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial y se hará pública su composición en los tablones de anuncio de las respectivas sedes del Conservatorio Superior de Música de Canarias antes del 30 de abril de 2026. **6.4.** Cada Comisión Evaluadora levantará acta de la sesión de evaluación y cumplimentará el acta de calificación, en la que se reflejará la calificación obtenida por cada persona aspirante en cada una de las partes de la prueba, así como la calificación final. El modelo de acta será el establecido en el Anexo V de la presente Resolución.
 
 **6.5.** El acta de la sesión de evaluación y de calificación así como los ejercicios correspondientes serán remitidos al CSMC, con copia a esta Dirección General.
 
@@ -310,9 +311,7 @@ En el caso de que se haya presentado reclamación ante la Dirección Territorial
 
 #### Sexto. Admisión del alumnado y reserva de plazas.
 
-1. Una vez finalizado el procedimiento de convocatoria de pruebas de acceso a las enseñanzas artísticas superiores, y en relación a la admisión y reserva de plazas en las citadas enseñanzas, se estará a lo dispuesto en la instrucción vigésima sexta de la [Resolución de 25 de mayo de 2011](../03_ordenacion_curricular_y_ensenanzas/R25_5_2011_dictan_instrucciones_organizacion_desarrollo_pruebas_acceso.md), por la que se dictan instrucciones sobre organización y desarrollo de las pruebas de acceso a las enseñanzas artísticas superiores de Grado en Música, Arte Dramático y Diseño en la Comunidad Autónoma de Canarias, y se convocan las correspondientes al curso académico 2011-2012.
-
-2. En el caso de las enseñanzas artísticas superiores de Diseño, se reserva un veinticinco por ciento de las plazas ofertadas para quienes accedan directamente a estos estudios. El orden de preferencia en la admisión vendrá determinado por la mayor calificación final del ciclo formativo de grado superior de Artes Plásticas y Diseño cursado.
+1. Una vez finalizado el procedimiento de convocatoria de pruebas de acceso a las enseñanzas artísticas superiores, y en relación a la admisión y reserva de plazas en las citadas enseñanzas, se estará a lo dispuesto en la instrucción vigésima sexta de la [Resolución de 25 de mayo de 2011](../03_ordenacion_curricular_y_ensenanzas/R25_5_2011_dictan_instrucciones_organizacion_desarrollo_pruebas_acceso.md), por la que se dictan instrucciones sobre organización y desarrollo de las pruebas de acceso a las enseñanzas artísticas superiores de Grado en Música, Arte Dramático y Diseño en la Comunidad Autónoma de Canarias, y se convocan las correspondientes al curso académico 2011-2012. 2. En el caso de las enseñanzas artísticas superiores de Diseño, se reserva un veinticinco por ciento de las plazas ofertadas para quienes accedan directamente a estos estudios. El orden de preferencia en la admisión vendrá determinado por la mayor calificación final del ciclo formativo de grado superior de Artes Plásticas y Diseño cursado.
 
 3. Asimismo, se reserva un tres por ciento de las plazas ofertadas para los deportistas que acrediten la condición de deportista de alto nivel o de alto rendimiento, que cumplan los requisitos académicos correspondientes y superen la prueba específica, según lo establecido en el artículo 9 l.
 
@@ -448,16 +447,12 @@ Vocal 4: Vocal 5:
 
 CERTIFICACIÓN ACREDITATIVA DE LA SUPERACIÓN DE LA PRUEBA DE ACCESO PARA ASPIRANTES DE 16 Y DE 17 AÑOS SIN REQUISITOS ACADÉMICOS A LAS ENSEÑANZAS ARTÍSTICAS SUPERIORES DE MÚSICA Denominación del centro: _______________________________________________________ Código del centro: _______________________ Convocatoria:
 1 Resolución _______________________________________________________ Don/Doña ________________________________________________________ como secretario/a del centro donde se ha realizado la prueba de acceso a las enseñanzas artísticas superiores, para aspirantes sin requisitos académicos, CERTIFICA:
-Que Don / Doña ________________________________________________________, con [DNI/NIE/PASAPORTE] nº ___________________, ha superado con la calificación de ________, la prueba de acceso para aspirantes de 16 y de 17 años sin requisitos académicos a las enseñanzas artísticas superiores de Música para el acceso a las enseñanzas artísticas superiores en esta convocatoria. Para que así conste, a los efectos señalados, expido la presente certificación que firmo con el Vº Bº del Director/a del centro. En _______________________________, a ____ de __________ de _______. Vº Bº El/La Director/a El/La Secretario/a (Sello del centro) (Firma) (Firma) 1 Resolución n.º ______ de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial por la que se convocan el procedimiento de admisión y las pruebas de acceso a las enseñanzas artísticas superiores de Diseño, Música y Arte Dramático, en la Comunidad Autónoma de Canarias, para el curso académico 2026-2027.
-
-## Anexo XII
+Que Don / Doña ________________________________________________________, con [DNI/NIE/PASAPORTE] nº ___________________, ha superado con la calificación de ________, la prueba de acceso para aspirantes de 16 y de 17 años sin requisitos académicos a las enseñanzas artísticas superiores de Música para el acceso a las enseñanzas artísticas superiores en esta convocatoria. Para que así conste, a los efectos señalados, expido la presente certificación que firmo con el Vº Bº del Director/a del centro. En _______________________________, a ____ de __________ de _______. Vº Bº El/La Director/a El/La Secretario/a (Sello del centro) (Firma) (Firma) 1 Resolución n.º ______ de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial por la que se convocan el procedimiento de admisión y las pruebas de acceso a las enseñanzas artísticas superiores de Diseño, Música y Arte Dramático, en la Comunidad Autónoma de Canarias, para el curso académico 2026-2027. ## Anexo XII
 
 ## Anexo XIII
 
 CERTIFICACIÓN ACREDITATIVA DE LA SUPERACIÓN DE LA PRUEBA ESPECÍFICA DE ACCESO A LAS ENSEÑANZAS ARTÍSTICAS SUPERIORES Denominación del centro: _______________________________________________________ Código del centro: _______________________ Convocatoria: 2Resolución _______________________________________________________ Don/Doña________________________________________________ como secretario/a del centro _________________________________________________________________________, CERTIFICA:
-Que Don / Doña ________________________________________________________, con [DNI/NIE/PASAPORTE] nº ___________________, ha superado con la calificación de _______, la prueba específica de acceso a las enseñanzas artísticas superiores de ________________________, en la especialidad de _________________________ . Para que así conste, a los efectos señalados, expido la presente certificación que firmo con el Vº Bº del Director/a del centro. En _______________________________, a ____ de __________ de _______. Vº Bº El/La Director/a El/La Secretario/a (Sello del centro) (Firma) (Firma) 2 Resolución n.º ______ de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial por la que se convocan el procedimiento de admisión y las pruebas de acceso a las enseñanzas artísticas superiores de Diseño, Música y Arte Dramático, en la Comunidad Autónoma de Canarias, para el curso académico 2026-2027.
-
-## Anexo XIII
+Que Don / Doña ________________________________________________________, con [DNI/NIE/PASAPORTE] nº ___________________, ha superado con la calificación de _______, la prueba específica de acceso a las enseñanzas artísticas superiores de ________________________, en la especialidad de _________________________ . Para que así conste, a los efectos señalados, expido la presente certificación que firmo con el Vº Bº del Director/a del centro. En _______________________________, a ____ de __________ de _______. Vº Bº El/La Director/a El/La Secretario/a (Sello del centro) (Firma) (Firma) 2 Resolución n.º ______ de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial por la que se convocan el procedimiento de admisión y las pruebas de acceso a las enseñanzas artísticas superiores de Diseño, Música y Arte Dramático, en la Comunidad Autónoma de Canarias, para el curso académico 2026-2027. ## Anexo XIII
 
 ## Relaciones Normativas y Fundamentos de Derecho
 

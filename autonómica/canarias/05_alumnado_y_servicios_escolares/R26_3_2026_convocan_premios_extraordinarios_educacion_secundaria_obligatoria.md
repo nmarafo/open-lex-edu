@@ -1,7 +1,11 @@
 ---
 id: norm-can-res-boc-2026-070-116
 codigo_sintetizado: Resolucion BOC 116
-titulo: 'Resolución de 26 de marzo de 2026, por la que se convocan los Premios Extraordinarios de Educación Secundaria Obligatoria en el ámbito de la Comunidad Autónoma de Canarias, correspondientes al curso escolar 2025-2026. Plazo para realizar la solicitud de participación: del 19 de junio de 2026, día de la entrega de las calificaciones finales de ESO, al 26 de junio de 2026.'
+titulo: 'Resolución de 26 de marzo de 2026, por la que se convocan los Premios Extraordinarios
+  de Educación Secundaria Obligatoria en el ámbito de la Comunidad Autónoma de Canarias,
+  correspondientes al curso escolar 2025-2026. Plazo para realizar la solicitud de
+  participación: del 19 de junio de 2026, día de la entrega de las calificaciones
+  finales de ESO, al 26 de junio de 2026.'
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Ordenación, Inclusión e Innovación
@@ -13,48 +17,46 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Concursos y premios escolares
 tags:
-  - concursos-y-premios-escolares
-  - ensenanzas-artisticas
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - eso
-  - formacion-profesional
-  - inclusiva
-  - neae
+- concursos-y-premios-escolares
+- ensenanzas-artisticas
+- ensenanzas-deportivas
+- equipos-directivos
+- eso
+- formacion-profesional
+- inclusiva
+- neae
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-can-res-boc-2026-070-115
-    - norma_id: norm-can-res-boc-2026-070-41
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-res-boc-2026-070-115
+  - norma_id: norm-can-res-boc-2026-070-41
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
-    - norma_id: norm-can-res-028
-    - norma_id: norm-can-res-boc-2026-070-115
-    - norma_id: norm-can-res-boc-2026-070-41
+  - norma_id: norm-can-res-028
+  - norma_id: norm-can-res-boc-2026-070-115
+  - norma_id: norm-can-res-boc-2026-070-41
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-res-boc-2026-070-41
-    - norma_id: norm-can-res-boc-2026-070-115
+  - '1'
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-res-boc-2026-070-41
+  - norma_id: norm-can-res-boc-2026-070-115
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-070-1144.pdf
 ---
-# Resolución de 26 de marzo de 2026, por la que se convocan los Premios Extraordinarios de Educación Secundaria Obligatoria en el ámbito de la Comunidad Autónoma de Canarias, correspondientes al curso escolar 2025-2026. Plazo para realizar la solicitud de participación: del 19 de junio de 2026, día de la entrega de las calificaciones finales de ESO, al 26 de junio de 2026.
-
-## Preámbulo
+# Resolución de 26 de marzo de 2026, por la que se convocan los Premios Extraordinarios de Educación Secundaria Obligatoria en el ámbito de la Comunidad Autónoma de Canarias, correspondientes al curso escolar 2025-2026. Plazo para realizar la solicitud de participación: del 19 de junio de 2026, día de la entrega de las calificaciones finales de ESO, al 26 de junio de 2026. ## Preámbulo
 
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes [Resolución de 26 de marzo de 2026](../03_ordenacion_curricular_y_ensenanzas/R26_3_2026_amplian_resolucion_dicta_instrucciones_orientaciones_implantacion.md), por la que se convocan los Premios Extraordinarios de Educación Secundaria Obligatoria en el ámbito de la Comunidad Autónoma de Canarias, correspondientes al curso escolar 2025-2026. Al objeto de mejorar la calidad educativa, y de reconocer el esfuerzo y la dedicación del alumnado que termina la etapa educativa de Educación Secundaria Obligatoria ( ESO) en la Comunidad Autónoma de Canarias en el curso 2025/2026 con un excelente rendimiento académico, y en atención a los siguientes ANTECEDENTES DE HECHO
 Primero.- Con carácter anual la Consejería de Educación, Formación Profesional, Actividad Física y Deportes ( CEFPAFD) convoca los Premios Extraordinarios de ESO para el alumnado de dicha etapa educativa en el ámbito de la Comunidad Autónoma de Canarias, como reconocimiento oficial de los méritos basados en el esfuerzo y en el trabajo del alumnado que ha cursado esos estudios con un excelente rendimiento académico, constituyendo, en este sentido, un estímulo y un aliciente para que pueda proseguir con éxito sus estudios
@@ -70,9 +72,7 @@ RESUELVO:
 
 #### Primero. Objeto.
 
-1. La presente Resolución tiene por objeto convocar los Premios Extraordinarios de ESO en el ámbito de la Comunidad Autónoma de Canarias, correspondientes al curso 2025/2026.
-
-2. Para el presente curso, se convocan 12 Premios Extraordinarios de ESO: 6 para la provincia de Santa Cruz de Tenerife y 6 para la provincia de Las Palmas, teniendo en cuenta el alumnado matriculado en el cuarto curso de esta etapa educativa en cada provincia. No obstante, en el caso de que queden desiertos premios en alguna de las provincias, estos se podrán acumular a los de la otra provincia, teniendo en cuenta los requisitos establecidos en el resuelvo siguiente de esta convocatoria.
+1. La presente Resolución tiene por objeto convocar los Premios Extraordinarios de ESO en el ámbito de la Comunidad Autónoma de Canarias, correspondientes al curso 2025/2026. 2. Para el presente curso, se convocan 12 Premios Extraordinarios de ESO: 6 para la provincia de Santa Cruz de Tenerife y 6 para la provincia de Las Palmas, teniendo en cuenta el alumnado matriculado en el cuarto curso de esta etapa educativa en cada provincia. No obstante, en el caso de que queden desiertos premios en alguna de las provincias, estos se podrán acumular a los de la otra provincia, teniendo en cuenta los requisitos establecidos en el resuelvo siguiente de esta convocatoria.
 Segundo.- Alumnado destinatario y requisitos específicos para participar en la convocatoria.
 
 1. Podrá optar a los Premios Extraordinarios de ESO el alumnado que finalice sus estudios en el curso académico 2025/2026 y cumpla los siguientes requisitos:
@@ -172,9 +172,7 @@ f) Ordenación alfabética del alumnado participante por apellidos, comenzando p
 
 la Comunidad Autónoma de Canarias, correspondientes al curso académico 2025/2026, al Consejero de Educación, Formación Profesional, Actividad Física y Deportes, dándose publicidad de los mismos en el Boletín Oficial de Canarias, así como en la indicada página web de la CEFPAFD y en sus redes sociales.
 
-2. Las secretarías de los centros educativos del alumnado premiado anotarán mediante diligencia esta distinción en su historial y expediente académico. Igualmente se procedería en el caso de que el Ministerio de Educación, Formación Profesional y Deportes llegara a convocar los Premios Nacionales de Educación Secundaria Obligatoria, correspondientes al curso escolar 2025/2026.
-
-3. La concesión de los premios, que pondrá fin a la vía administrativa, podrá ser recurrida potestativamente en reposición en el plazo de un mes ante el Consejero de Educación, Formación Profesional, Actividad Física y Deportes, o ser impugnada mediante la interposición de recurso contencioso-administrativo conforme a lo establecido en el artículo 111 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contenciosoadministrativa, en el plazo de dos meses a contar desde el día siguiente a la fecha de su publicación, de acuerdo con lo dispuesto en el artículo 46.1 de la citada Ley.
+2. Las secretarías de los centros educativos del alumnado premiado anotarán mediante diligencia esta distinción en su historial y expediente académico. Igualmente se procedería en el caso de que el Ministerio de Educación, Formación Profesional y Deportes llegara a convocar los Premios Nacionales de Educación Secundaria Obligatoria, correspondientes al curso escolar 2025/2026. 3. La concesión de los premios, que pondrá fin a la vía administrativa, podrá ser recurrida potestativamente en reposición en el plazo de un mes ante el Consejero de Educación, Formación Profesional, Actividad Física y Deportes, o ser impugnada mediante la interposición de recurso contencioso-administrativo conforme a lo establecido en el artículo 111 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contenciosoadministrativa, en el plazo de dos meses a contar desde el día siguiente a la fecha de su publicación, de acuerdo con lo dispuesto en el artículo 46.1 de la citada Ley.
 
 #### Duodécimo. Premios Nacionales de Educación Secundaria Obligatoria.
 

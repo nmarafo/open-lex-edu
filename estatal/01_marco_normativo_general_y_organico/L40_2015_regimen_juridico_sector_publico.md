@@ -18,153 +18,149 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Empleados públicos
 tags:
-  - administracion
-  - curriculo
-  - empleados-p-blicos
-  - oposiciones
-  - procedimiento-administrativo
-  - regimen-juridico
-  - responsabilidad-patrimonial
-  - sector-publico
+- administracion
+- curriculo
+- empleados-p-blicos
+- oposiciones
+- procedimiento-administrativo
+- regimen-juridico
+- responsabilidad-patrimonial
+- sector-publico
 relaciones:
   desarrollado_por:
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-can-res-boc-2022-138-7
-    - norma_id: norm-can-res-boc-2019-067-11
-    - norma_id: norm-can-res-boc-2017-235-5
-    - norma_id: norm-can-res-098
-    - norma_id: norm-can-res-juriscan-75634-6
-    - norma_id: norm-can-res-boc-2019-016-12
-    - norma_id: norm-can-res-boc-2019-016-13
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-res-boc-2022-138-7
+  - norma_id: norm-can-res-boc-2019-067-11
+  - norma_id: norm-can-res-boc-2017-235-5
+  - norma_id: norm-can-res-098
+  - norma_id: norm-can-res-juriscan-75634-6
+  - norma_id: norm-can-res-boc-2019-016-12
+  - norma_id: norm-can-res-boc-2019-016-13
   fundamentado_en:
-    - norma_id: norm-es-1985-5392
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-2000-544
-    - norma_id: norm-es-2013-12632
-    - norma_id: norm-es-2013-13756
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-l-19-2013
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-53-1984
+  - norma_id: norm-es-1985-5392
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2000-544
+  - norma_id: norm-es-2013-12632
+  - norma_id: norm-es-2013-13756
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-19-2013
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-53-1984
   fundamento_de:
-    - norma_id: norm-es-2018-6348
-    - norma_id: norm-es-2021-11382
-    - norma_id: norm-es-2022-11589
-    - norma_id: norm-es-2022-1274
-    - norma_id: norm-es-2026-2622
-    - norma_id: norm-es-l-9-2017
-    - norma_id: norm-es-lo-3-2018
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-lo-8-2021
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-can-o-2023-09-28
-    - norma_id: norm-can-res-098
-    - norma_id: norm-can-res-boc-2017-061-4
-    - norma_id: norm-can-d-135-2016
-    - norma_id: norm-can-d-106-2009
-    - norma_id: norm-can-res-juriscan-66772-94
-    - norma_id: norm-can-d-234-1996
-    - norma_id: norm-can-res-boc-2026-060-61
-    - norma_id: norm-can-res-boc-2025-118-46
-    - norma_id: norm-can-res-014
-    - norma_id: norm-can-res-boc-2021-038-3
-    - norma_id: norm-can-res-boc-2025-044-89
-    - norma_id: norm-can-res-086
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-can-l-1-1997
-    - norma_id: norm-can-res-096
-    - norma_id: norm-can-d-123-2023
-    - norma_id: norm-can-res-boc-2026-075-85
-    - norma_id: norm-can-res-boc-2024-125-91
-    - norma_id: norm-can-res-boc-2018-086-122
-    - norma_id: norm-can-res-boc-2018-124-126
-    - norma_id: norm-can-res-028
-    - norma_id: norm-can-l-14-1990
-    - norma_id: norm-can-res-097
-    - norma_id: norm-can-res-095
-    - norma_id: norm-can-res-boc-2026-129-26
-    - norma_id: norm-can-res-125
-    - norma_id: norm-can-res-090
-    - norma_id: norm-can-res-boc-2018-127-9
-    - norma_id: norm-can-res-boc-2025-061-88
-    - norma_id: norm-can-o-2013-10-09
-    - norma_id: norm-can-l-2-1987
-    - norma_id: norm-can-res-boc-2024-117-93
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-res-boc-2017-020-2
-    - norma_id: norm-can-l-4-2023
-    - norma_id: norm-can-res-099
-    - norma_id: norm-can-res-boc-2026-109-92
-    - norma_id: norm-can-res-boc-2017-132-1
-    - norma_id: norm-can-d-52-2009
-    - norma_id: norm-can-d-212-1991
-    - norma_id: norm-can-res-boc-2026-116-87
-    - norma_id: norm-can-res-boc-2026-046-139
-    - norma_id: norm-can-r-fp-dual-curso-2025-2026
-    - norma_id: norm-can-r-calendario-escolar-2025-2026
-    - norma_id: norm-can-r-instrucciones-curso-2025-2026
-    - norma_id: norm-mad-r-instrucciones-curso-2025-2026
-    - norma_id: norm-and-l4-1984
-    - norma_id: norm-mad-d29-2013
-    - norma_id: norm-mad-l2-2010
-    - norma_id: norm-mad-o3536-2025
-    - norma_id: norm-and-d-164-2024
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-and-d162-2009
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-mad-o3413-2022
-    - norma_id: norm-mad-r-calendario-escolar-2025-2026
-    - norma_id: norm-mad-o893-2022
-    - norma_id: norm-mad-d21-2025
-    - norma_id: norm-and-d-285-2023
-    - norma_id: norm-mad-o-1238-2023
-    - norma_id: norm-and-d154-2022
-    - norma_id: norm-and-d328-2010
-    - norma_id: norm-and-r-instrucciones-curso-2025-2026
-    - norma_id: norm-mad-d-230-2023
-    - norma_id: norm-and-d327-2010
-    - norma_id: norm-mad-l1-2022
-    - norma_id: norm-mad-o3537-2025
-    - norma_id: norm-can-d-81-2010
-    - norma_id: norm-mad-r23-6-2025
-    - norma_id: norm-and-r-calendario-escolar-2025-2026
-    - norma_id: norm-mad-d-149-2000
-    - norma_id: norm-and-o-20-8-2010
-    - norma_id: norm-mad-o-190-2023
-    - norma_id: norm-and-d-4-1993
-    - norma_id: norm-and-d-156-1983
-    - norma_id: norm-mad-o-1312-2021
-    - norma_id: norm-and-d-204-1995
-    - norma_id: norm-mad-l-2-2010
-    - norma_id: norm-and-o-16-4-2008
-    - norma_id: norm-mad-l-4-2023
-    - norma_id: norm-and-o-28-6-2011
-    - norma_id: norm-and-r-1-9-2025
-    - norma_id: norm-mad-o-6116-2025
-    - norma_id: norm-and-o-26-5-2011-arte
-    - norma_id: norm-and-d-80-1999
-    - norma_id: norm-and-o-26-5-2011-eoi
-    - norma_id: norm-and-o-26-5-2011
-    - norma_id: norm-mad-r-inicio-2025
-    - norma_id: norm-and-r-27-6-2023
-    - norma_id: norm-and-d-512-1996
-    - norma_id: norm-and-d-276-1998
+  - norma_id: norm-es-2018-6348
+  - norma_id: norm-es-2021-11382
+  - norma_id: norm-es-2022-11589
+  - norma_id: norm-es-2022-1274
+  - norma_id: norm-es-2026-2622
+  - norma_id: norm-es-l-9-2017
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-can-o-2023-09-28
+  - norma_id: norm-can-res-098
+  - norma_id: norm-can-res-boc-2017-061-4
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-d-106-2009
+  - norma_id: norm-can-res-juriscan-66772-94
+  - norma_id: norm-can-d-234-1996
+  - norma_id: norm-can-res-boc-2026-060-61
+  - norma_id: norm-can-res-boc-2025-118-46
+  - norma_id: norm-can-res-014
+  - norma_id: norm-can-res-boc-2021-038-3
+  - norma_id: norm-can-res-boc-2025-044-89
+  - norma_id: norm-can-res-086
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-l-1-1997
+  - norma_id: norm-can-res-096
+  - norma_id: norm-can-d-123-2023
+  - norma_id: norm-can-res-boc-2026-075-85
+  - norma_id: norm-can-res-boc-2024-125-91
+  - norma_id: norm-can-res-boc-2018-086-122
+  - norma_id: norm-can-res-boc-2018-124-126
+  - norma_id: norm-can-res-028
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-res-097
+  - norma_id: norm-can-res-095
+  - norma_id: norm-can-res-boc-2026-129-26
+  - norma_id: norm-can-res-125
+  - norma_id: norm-can-res-090
+  - norma_id: norm-can-res-boc-2018-127-9
+  - norma_id: norm-can-res-boc-2025-061-88
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-can-l-2-1987
+  - norma_id: norm-can-res-boc-2024-117-93
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-res-boc-2017-020-2
+  - norma_id: norm-can-l-4-2023
+  - norma_id: norm-can-res-099
+  - norma_id: norm-can-res-boc-2026-109-92
+  - norma_id: norm-can-res-boc-2017-132-1
+  - norma_id: norm-can-d-52-2009
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-res-boc-2026-116-87
+  - norma_id: norm-can-res-boc-2026-046-139
+  - norma_id: norm-can-r-fp-dual-curso-2025-2026
+  - norma_id: norm-can-r-calendario-escolar-2025-2026
+  - norma_id: norm-can-r-instrucciones-curso-2025-2026
+  - norma_id: norm-mad-r-instrucciones-curso-2025-2026
+  - norma_id: norm-and-l4-1984
+  - norma_id: norm-mad-d29-2013
+  - norma_id: norm-mad-l2-2010
+  - norma_id: norm-mad-o3536-2025
+  - norma_id: norm-and-d-164-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-and-d162-2009
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-mad-o3413-2022
+  - norma_id: norm-mad-r-calendario-escolar-2025-2026
+  - norma_id: norm-mad-o893-2022
+  - norma_id: norm-mad-d21-2025
+  - norma_id: norm-and-d-285-2023
+  - norma_id: norm-mad-o-1238-2023
+  - norma_id: norm-and-d154-2022
+  - norma_id: norm-and-d328-2010
+  - norma_id: norm-and-r-instrucciones-curso-2025-2026
+  - norma_id: norm-mad-d-230-2023
+  - norma_id: norm-and-d327-2010
+  - norma_id: norm-mad-l1-2022
+  - norma_id: norm-mad-o3537-2025
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-mad-r23-6-2025
+  - norma_id: norm-and-r-calendario-escolar-2025-2026
+  - norma_id: norm-mad-d-149-2000
+  - norma_id: norm-and-o-20-8-2010
+  - norma_id: norm-mad-o-190-2023
+  - norma_id: norm-and-d-4-1993
+  - norma_id: norm-and-d-156-1983
+  - norma_id: norm-mad-o-1312-2021
+  - norma_id: norm-and-d-204-1995
+  - norma_id: norm-mad-l-2-2010
+  - norma_id: norm-and-o-16-4-2008
+  - norma_id: norm-mad-l-4-2023
+  - norma_id: norm-and-o-28-6-2011
+  - norma_id: norm-and-r-1-9-2025
+  - norma_id: norm-mad-o-6116-2025
+  - norma_id: norm-and-o-26-5-2011-arte
+  - norma_id: norm-and-d-80-1999
+  - norma_id: norm-and-o-26-5-2011-eoi
+  - norma_id: norm-and-o-26-5-2011
+  - norma_id: norm-mad-r-inicio-2025
+  - norma_id: norm-and-r-27-6-2023
+  - norma_id: norm-and-d-512-1996
+  - norma_id: norm-and-d-276-1998
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '103'
-    - '106'
-    - norma_id: norm-es-l-39-2015
-  articulos:
-    - '1'
-    - norma_id: norm-es-2000-544
-    - norma_id: norm-es-l-19-2013
-    - norma_id: norm-es-l-53-1984
-    - norma_id: norm-es-1985-5392
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-2013-13756
-    - norma_id: norm-es-2013-12632
+  - '1'
+  - norma_id: norm-es-2000-544
+  - norma_id: norm-es-l-19-2013
+  - norma_id: norm-es-l-53-1984
+  - norma_id: norm-es-1985-5392
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2013-13756
+  - norma_id: norm-es-2013-12632
 ---
 # Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
 
@@ -204,9 +200,7 @@ c) **Las Entidades que integran la Administración Local.** d) El sector públic
 a) Cualesquiera organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas.
 b) Las entidades de derecho privado vinculadas o dependientes de las Administraciones Públicas que quedarán sujetas a lo dispuesto en las normas de esta Ley que específicamente se refieran a las mismas, en particular a los principios previstos en el artículo 3 , y en todo caso, cuando ejerzan potestades administrativas. c) Las Universidades públicas que se regirán por su normativa específica y supletoriamente por las previsiones de la presente Ley.
 
-3. Tienen la consideración de Administraciones Públicas la Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades que integran la Administración Local, así como los organismos públicos y entidades de derecho público previstos en la letra a) del apartado 2.
-
-#### Artículo 3. Principios generales.
+3. Tienen la consideración de Administraciones Públicas la Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades que integran la Administración Local, así como los organismos públicos y entidades de derecho público previstos en la letra a) del apartado 2. #### Artículo 3. Principios generales.
 
 1. Las Administraciones Públicas sirven con objetividad los intereses generales y actúan de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la Constitución, a la Ley y al Derecho. Deberán respetar en su actuación y relaciones los siguientes principios:
 a) Servicio efectivo a los ciudadanos.
@@ -306,9 +300,7 @@ b) Cuando la encomienda de gestión se realice entre órganos y Entidades de Der
 
 #### Artículo 12. Delegación de firma.
 
-1. Los titulares de los órganos administrativos podrán, en materias de su competencia, que ostenten, bien por atribución, bien por delegación de competencias, delegar la firma de sus resoluciones y actos administrativos en los titulares de los órganos o unidades administrativas que de ellos dependan, dentro de los límites señalados en el artículo 9.
-
-2. La delegación de firma no alterará la competencia del órgano delegante y para su validez no será necesaria su publicación.
+1. Los titulares de los órganos administrativos podrán, en materias de su competencia, que ostenten, bien por atribución, bien por delegación de competencias, delegar la firma de sus resoluciones y actos administrativos en los titulares de los órganos o unidades administrativas que de ellos dependan, dentro de los límites señalados en el artículo 9. 2. La delegación de firma no alterará la competencia del órgano delegante y para su validez no será necesaria su publicación.
 
 3. En las resoluciones y actos que se firmen por delegación se hará constar esta circunstancia y la autoridad de procedencia.
 
@@ -554,8 +546,7 @@ d) La reincidencia, por comisión en el término de un año de más de una infra
 2. En todo caso, el daño alegado habrá de ser efectivo, evaluable económicamente e individualizado con relación a una persona o grupo de personas.
 
 3. Asimismo, los particulares tendrán derecho a ser indemnizados por las Administraciones Públicas de toda lesión que sufran en sus bienes y derechos como consecuencia de la aplicación de actos legislativos de naturaleza no expropiatoria de derechos que no tengan el deber jurídico de soportar cuando así se establezca en los propios actos legislativos y en los términos que en ellos se especifiquen. La responsabilidad del Estado legislador podrá surgir también en los siguientes supuestos, siempre que concurran los requisitos previstos en los apartados anteriores:
-a) Cuando los daños deriven de la aplicación de una norma con rango de ley declarada inconstitucional, siempre que concurran los requisitos del apartado 4.
-b) Cuando los daños deriven de la aplicación de una norma contraria al Derecho de la Unión Europea, de acuerdo con lo dispuesto en el apartado 5. 4. Si la lesión es consecuencia de la aplicación de una norma con rango de ley declarada inconstitucional, procederá su indemnización cuando el particular haya obtenido, en cualquier instancia, sentencia firme desestimatoria de un recurso contra la actuación administrativa que ocasionó el daño, siempre que se hubiera alegado la inconstitucionalidad posteriormente declarada.
+a) Cuando los daños deriven de la aplicación de una norma con rango de ley declarada inconstitucional, siempre que concurran los requisitos del apartado 4. b) Cuando los daños deriven de la aplicación de una norma contraria al Derecho de la Unión Europea, de acuerdo con lo dispuesto en el apartado 5. 4. Si la lesión es consecuencia de la aplicación de una norma con rango de ley declarada inconstitucional, procederá su indemnización cuando el particular haya obtenido, en cualquier instancia, sentencia firme desestimatoria de un recurso contra la actuación administrativa que ocasionó el daño, siempre que se hubiera alegado la inconstitucionalidad posteriormente declarada.
 
 5. Si la lesión es consecuencia de la aplicación de una norma declarada contraria al Derecho de la Unión Europea, procederá su indemnización cuando el particular haya obtenido, en cualquier instancia, sentencia firme desestimatoria de un recurso contra la actuación administrativa que ocasionó el daño, siempre que se hubiera alegado la infracción del Derecho de la Unión Europea posteriormente declarada. Asimismo, deberán cumplirse todos los requisitos siguientes:
 a) La norma ha de tener por objeto conferir derechos a los particulares.
@@ -1186,9 +1177,7 @@ c) Las propuestas de las inspecciones de los servicios de los departamentos mini
 
 #### Artículo 86. Medio propio y servicio técnico.
 
-1. Las entidades integrantes del sector público institucional podrán ser consideradas medios propios y servicios técnicos de los poderes adjudicadores y del resto de entes y sociedades que no tengan la consideración de poder adjudicador cuando cumplan las condiciones y requisitos establecidos en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.
-
-2. Tendrán la consideración de medio propio y servicio técnico cuando se acredite que, además de disponer de medios suficientes e idóneos para realizar prestaciones en el sector de actividad que se corresponda con su objeto social, de acuerdo con su norma o acuerdo de creación, se dé alguna de las circunstancias siguientes:
+1. Las entidades integrantes del sector público institucional podrán ser consideradas medios propios y servicios técnicos de los poderes adjudicadores y del resto de entes y sociedades que no tengan la consideración de poder adjudicador cuando cumplan las condiciones y requisitos establecidos en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014. 2. Tendrán la consideración de medio propio y servicio técnico cuando se acredite que, además de disponer de medios suficientes e idóneos para realizar prestaciones en el sector de actividad que se corresponda con su objeto social, de acuerdo con su norma o acuerdo de creación, se dé alguna de las circunstancias siguientes:
 a) Sea una opción más eficiente que la contratación pública y resulta sostenible y eficaz, aplicando criterios de rentabilidad económica.
 b) Resulte necesario por razones de seguridad pública o de urgencia en la necesidad de disponer de los bienes o servicios suministrados por el medio propio o servicio técnico. Formará parte del control de eficacia de los medios propios y servicios técnicos la comprobación de la concurrencia de los mencionados requisitos. En la denominación de las entidades integrantes del sector público institucional que tengan la condición de medio propio deberá figurar necesariamente la indicación ''Medio Propio'' o su abreviatura "M.P.".
 
@@ -1446,9 +1435,7 @@ d) El personal directivo.
 
 7. Las agencias estatales disponen de su relación de puestos de trabajo, elaborada y aprobada por la propia agencia estatal dentro del marco de actuación que, en materia de recursos humanos, se establezca en el contrato de gestión.
 
-8. El personal que preste sus servicios en las agencias estatales verá reconocido su derecho a la promoción dentro de una carrera profesional evaluable, en el marco del Estatuto del Empleado Público. Dicha carrera tendrá elementos que permitan criterios de homogeneidad dentro de agencias estatales del mismo ámbito, facilitando similares retribuciones para niveles profesionales semejantes y posibilitando las medidas de movilidad entre el personal de aquellas, sin perjuicio de lo previsto en el apartado 6.
-
-9. Los conceptos retributivos del personal funcionario y estatutario de las agencias estatales, son los establecidos en la normativa de función pública de la Administración General del Estado y sus cuantías se determinarán de conformidad con lo establecido en las Leyes de Presupuestos Generales del Estado. Las condiciones retributivas del personal laboral son las determinadas en el convenio colectivo de aplicación y en el respectivo contrato de trabajo y sus cuantías se fijarán de acuerdo con lo indicado en el apartado 1 anterior. La masa salarial de las agencias estatales se autorizará en las condiciones que establezca la normativa aplicable. La cuantía de la masa salarial destinada al complemento de productividad, o concepto equivalente del personal laboral, está en todo caso vinculada al grado de cumplimiento de los objetivos fijados en el contrato de gestión.
+8. El personal que preste sus servicios en las agencias estatales verá reconocido su derecho a la promoción dentro de una carrera profesional evaluable, en el marco del Estatuto del Empleado Público. Dicha carrera tendrá elementos que permitan criterios de homogeneidad dentro de agencias estatales del mismo ámbito, facilitando similares retribuciones para niveles profesionales semejantes y posibilitando las medidas de movilidad entre el personal de aquellas, sin perjuicio de lo previsto en el apartado 6. 9. Los conceptos retributivos del personal funcionario y estatutario de las agencias estatales, son los establecidos en la normativa de función pública de la Administración General del Estado y sus cuantías se determinarán de conformidad con lo establecido en las Leyes de Presupuestos Generales del Estado. Las condiciones retributivas del personal laboral son las determinadas en el convenio colectivo de aplicación y en el respectivo contrato de trabajo y sus cuantías se fijarán de acuerdo con lo indicado en el apartado 1 anterior. La masa salarial de las agencias estatales se autorizará en las condiciones que establezca la normativa aplicable. La cuantía de la masa salarial destinada al complemento de productividad, o concepto equivalente del personal laboral, está en todo caso vinculada al grado de cumplimiento de los objetivos fijados en el contrato de gestión.
 
 10. El personal directivo de las agencias estatales es el que ocupa los puestos de trabajo determinados como tales en el estatuto de las mismas en atención a la especial responsabilidad, competencia técnica y relevancia de las tareas a ellos asignadas. El personal directivo de las agencias estatales es nombrado y cesado por su Consejo Rector a propuesta de sus órganos ejecutivos, atendiendo a criterios de competencia profesional y experiencia entre titulados superiores preferentemente funcionarios, y mediante procedimiento que garantice el mérito, la capacidad y la publicidad. El proceso de provisión podrá ser realizado por los órganos de selección especializados a los que se refiere el apartado 5 de este artículo, que formularán propuesta motivada al director de la agencia estatal, incluyendo tres candidatos para cada puesto a cubrir. Cuando el personal directivo de las agencias estatales tenga la condición de funcionario permanecerá en la situación de servicio activo en su respectivo cuerpo o escala o en la que corresponda con arreglo a la legislación laboral si se trata de personal de este carácter. El estatuto de las agencias estatales puede prever puestos directivos de máxima responsabilidad a cubrir, en régimen laboral, mediante contratos de alta dirección. Al personal directivo de las agencias estatales, en todo caso, le será de aplicación el Real Decreto 451/2012, de 5 de marzo, por el que se regula el régimen retributivo de los máximos responsables y directivos en el sector público empresarial y otras entidades. El personal directivo está sujeto, en el desarrollo de sus cometidos, a evaluación con arreglo a los criterios de eficacia, eficiencia y cumplimiento de la legalidad, responsabilidad por su gestión y control de resultados en relación con los objetivos que le hayan sido fijados. El personal directivo percibe una parte de su retribución como incentivo de rendimiento, mediante el complemento correspondiente que valore la productividad, de acuerdo con los criterios y porcentajes que se establezcan por el Consejo Rector, a propuesta de los órganos directivos de la Agencia Estatal.
 
@@ -1506,9 +1493,7 @@ b) Un sistema de contabilidad de gestión que permita efectuar el seguimiento de
 
 9. Las cuentas anuales de las agencias estatales se formulan por la persona titular de la Dirección en el plazo de tres meses desde el cierre del ejercicio económico. Una vez auditadas dichas cuentas por la Intervención General de la Administración del Estado son sometidas al Consejo Rector, para su aprobación antes del 30 de junio del año siguiente al que se refieran. Una vez aprobadas por el Consejo Rector, las cuentas se remitirán a través de la Intervención General de la Administración del Estado al Tribunal de Cuentas para su fiscalización. Dicha remisión a la Intervención General se realizará dentro de los siete meses siguientes a la terminación del ejercicio económico.
 
-10. El control externo de la gestión económico-financiera de las agencias estatales corresponde al Tribunal de Cuentas de acuerdo con su normativa específica. El control interno de la gestión económico-financiera de las agencias estatales corresponde a la Intervención General de la Administración del Estado, y se realizará bajo las modalidades de control financiero permanente y de auditoría pública, en las condiciones y en los términos establecidos en la Ley General Presupuestaria. El control financiero permanente se realizará por las Intervenciones Delegadas en las Agencias Estatales, bajo la dependencia funcional de la Intervención General de la Administración del Estado. Sin perjuicio del control establecido en el párrafo anterior, las agencias estatales estarán sometidas a un control de eficacia y de supervisión continua que será ejercido, a través del seguimiento del contrato de gestión y hasta su aprobación a través del plan de actuación en los términos establecidos en el artículo 85.
-
-## Capítulo IV. Las autoridades administrativas independientes de ámbito estatal.
+10. El control externo de la gestión económico-financiera de las agencias estatales corresponde al Tribunal de Cuentas de acuerdo con su normativa específica. El control interno de la gestión económico-financiera de las agencias estatales corresponde a la Intervención General de la Administración del Estado, y se realizará bajo las modalidades de control financiero permanente y de auditoría pública, en las condiciones y en los términos establecidos en la Ley General Presupuestaria. El control financiero permanente se realizará por las Intervenciones Delegadas en las Agencias Estatales, bajo la dependencia funcional de la Intervención General de la Administración del Estado. Sin perjuicio del control establecido en el párrafo anterior, las agencias estatales estarán sometidas a un control de eficacia y de supervisión continua que será ejercido, a través del seguimiento del contrato de gestión y hasta su aprobación a través del plan de actuación en los términos establecidos en el artículo 85. ## Capítulo IV. Las autoridades administrativas independientes de ámbito estatal.
 
 #### Artículo 109. Definición.
 
@@ -1577,9 +1562,7 @@ Real Decreto Legislativo 1/2010, de 2 de julio, por el que se aprueba el texto r
 
 #### Artículo 117. Régimen presupuestario, de contabilidad, control económico-financiero y de personal.
 
-1. Las sociedades mercantiles estatales elaborarán anualmente un presupuesto de explotación y capital y un plan de actuación que forma parte del Programa Plurianual, que se integrarán con el Presupuesto General del Estado. El Programa contendrá la revisión trienal del plan de creación a que se refiere el artículo 85.
-
-2. Las sociedades mercantiles estatales formularán y rendirán sus cuentas de acuerdo con los principios y normas de contabilidad recogidos en el Código de Comercio y el Plan General de Contabilidad y disposiciones que lo desarrollan.
+1. Las sociedades mercantiles estatales elaborarán anualmente un presupuesto de explotación y capital y un plan de actuación que forma parte del Programa Plurianual, que se integrarán con el Presupuesto General del Estado. El Programa contendrá la revisión trienal del plan de creación a que se refiere el artículo 85. 2. Las sociedades mercantiles estatales formularán y rendirán sus cuentas de acuerdo con los principios y normas de contabilidad recogidos en el Código de Comercio y el Plan General de Contabilidad y disposiciones que lo desarrollan.
 
 3. Sin perjuicio de las competencias atribuidas al Tribunal de Cuentas, la gestión económico financiera de las sociedades mercantiles estatales estará sometida al control de la Intervención General de la Administración del Estado.
 
@@ -1757,9 +1740,7 @@ En las fundaciones del sector público estatal la mayoría de miembros del patro
 
 #### Artículo 136. Fusión,.
 
-disolución, liquidación y extinción. A las fundaciones del sector público estatal le resultará de aplicación el régimen de fusión, disolución, liquidación y extinción previsto en los artículos 94, 96 y 97.
-
-## Capítulo VIII. De los fondos carentes de personalidad jurídica del sector público estatal.
+disolución, liquidación y extinción. A las fundaciones del sector público estatal le resultará de aplicación el régimen de fusión, disolución, liquidación y extinción previsto en los artículos 94, 96 y 97. ## Capítulo VIII. De los fondos carentes de personalidad jurídica del sector público estatal.
 
 #### Artículo 137. Creación y extinción.
 
@@ -1955,9 +1936,7 @@ c) Representantes de la Administración General del Estado, representantes de la
 
 2. En ningún caso podrá procederse a un tratamiento ulterior de los datos para fines incompatibles con el fin para el cual se recogieron inicialmente los datos personales. De acuerdo con lo previsto en el artículo 5.1.b) del Reglamento (UE) 2016/679, no se considerará incompatible con los fines iniciales el tratamiento ulterior de los datos personales con fines de archivo en interés público, fines de investigación científica e histórica o fines estadísticos.
 
-3. Fuera del caso previsto en el apartado anterior y siempre que las leyes especiales aplicables a los respectivos tratamientos no prohíban expresamente el tratamiento ulterior de los datos para una finalidad distinta, cuando la Administración Pública cesionaria de los datos pretenda el tratamiento ulterior de los mismos para una finalidad que estime compatible con el fin inicial, deberá comunicarlo previamente a la Administración Pública cedente a los efectos de que esta pueda comprobar dicha compatibilidad. La Administración Pública cedente podrá, en el plazo de diez días oponerse motivadamente. Cuando la Administración cedente sea la Administración General del Estado podrá en este supuesto, excepcionalmente y de forma motivada, suspender la transmisión de datos por razones de seguridad nacional de forma cautelar por el tiempo estrictamente indispensable para su preservación. En tanto que la Administración Pública cedente no comunique su decisión a la cesionaria esta no podrá emplear los datos para la nueva finalidad pretendida. Se exceptúan de lo dispuesto en el párrafo anterior los supuestos en que el tratamiento para otro fin distinto de aquel para el que se recogieron los datos personales esté previsto en una norma con rango de ley de conformidad con lo previsto en el artículo 23.1 del Reglamento (UE) 2016/679.
-
-#### Artículo 156. Esquema Nacional de Interoperabilidad y Esquema Nacional de Seguridad.
+3. Fuera del caso previsto en el apartado anterior y siempre que las leyes especiales aplicables a los respectivos tratamientos no prohíban expresamente el tratamiento ulterior de los datos para una finalidad distinta, cuando la Administración Pública cesionaria de los datos pretenda el tratamiento ulterior de los mismos para una finalidad que estime compatible con el fin inicial, deberá comunicarlo previamente a la Administración Pública cedente a los efectos de que esta pueda comprobar dicha compatibilidad. La Administración Pública cedente podrá, en el plazo de diez días oponerse motivadamente. Cuando la Administración cedente sea la Administración General del Estado podrá en este supuesto, excepcionalmente y de forma motivada, suspender la transmisión de datos por razones de seguridad nacional de forma cautelar por el tiempo estrictamente indispensable para su preservación. En tanto que la Administración Pública cedente no comunique su decisión a la cesionaria esta no podrá emplear los datos para la nueva finalidad pretendida. Se exceptúan de lo dispuesto en el párrafo anterior los supuestos en que el tratamiento para otro fin distinto de aquel para el que se recogieron los datos personales esté previsto en una norma con rango de ley de conformidad con lo previsto en el artículo 23.1 del Reglamento (UE) 2016/679. #### Artículo 156. Esquema Nacional de Interoperabilidad y Esquema Nacional de Seguridad.
 
 1. El Esquema Nacional de Interoperabilidad comprende el conjunto de criterios y recomendaciones en materia de seguridad, conservación y normalización de la información, de los formatos y de las aplicaciones que deberán ser tenidos en cuenta por las Administraciones Públicas para la toma de decisiones tecnológicas que garanticen la interoperabilidad.
 
@@ -2063,9 +2042,7 @@ Cuando las Administraciones Públicas o cualquiera de sus organismos públicos o
 
 3. En los conflictos negativos, el órgano que se estime incompetente remitirá directamente las actuaciones al órgano que considere competente, quien decidirá en el plazo de diez días y, en su caso, de considerarse, asimismo, incompetente, remitirá acto seguido el expediente con su informe al superior jerárquico común.
 
-4. Los interesados en el procedimiento plantearán estos conflictos de acuerdo a lo establecido en el artículo 14.
-
-#### Disposición adicional duodécima. Régimen Jurídico de las Autoridades Portuarias y.
+4. Los interesados en el procedimiento plantearán estos conflictos de acuerdo a lo establecido en el artículo 14. #### Disposición adicional duodécima. Régimen Jurídico de las Autoridades Portuarias y.
 
 Puertos del Estado. Las Autoridades Portuarias y Puertos del Estado se regirán por su legislación específica, por las disposiciones de la Ley 47/2003, de 26 de noviembre, que les sean de aplicación y, supletoriamente, por lo establecido en esta Ley.
 
@@ -2404,9 +2381,7 @@ g) La posible extralimitación de la iniciativa normativa respecto del contenido
 
 10. Se conservarán en el correspondiente expediente administrativo, en formato electrónico, la Memoria del Análisis de Impacto Normativo, los informes y dictámenes recabados para su tramitación, así como todos los estudios y consultas emitidas y demás actuaciones practicadas.
 
-11. Lo dispuesto en este artículo y en el siguiente no será de aplicación para la tramitación y aprobación de decretos-leyes, a excepción de la elaboración de la memoria prevista en el apartado 3, con carácter abreviado, y lo establecido en los números 1, 8, 9 y 10.
-
-#### Artículo 27. Tramitación urgente de iniciativas normativas en el ámbito de la Administración.
+11. Lo dispuesto en este artículo y en el siguiente no será de aplicación para la tramitación y aprobación de decretos-leyes, a excepción de la elaboración de la memoria prevista en el apartado 3, con carácter abreviado, y lo establecido en los números 1, 8, 9 y 10. #### Artículo 27. Tramitación urgente de iniciativas normativas en el ámbito de la Administración.
 
 General del Estado.
 
@@ -2601,8 +2576,7 @@ primero del artículo anterior respecto de la obligación de comunicar la inform
 a) Desde la firmeza de la resolución sancionadora, en el caso de la causa prevista en la letra b) del apartado 1 del artículo anterior;
 b) Desde la fecha en que se hubieran facilitado los datos falsos o desde aquella en que hubiera debido comunicarse la correspondiente información, en los casos previstos en la letra e) del apartado 1 del artículo anterior;
 c) Desde la fecha en que fuese firme la resolución del contrato, en el caso previsto en la letra d) del apartado 2 del artículo anterior;
-d) En los casos previstos en la letra a) del apartado 2 del artículo anterior, desde la fecha en que se hubiese procedido a la adjudicación del contrato, si la causa es la retirada indebida de proposiciones o candidaturas; o desde la fecha en que hubiese debido procederse a la adjudicación, si la prohibición se fundamenta en el incumplimiento de lo establecido en el apartado segundo del artículo 151.
-e) Desde que la entidad contratante tuvo conocimiento del incumplimiento de las condiciones especiales de ejecución del contrato en los casos previstos en la letra c) del apartado segundo del artículo 61 bis.» Tres. Se introduce un
+d) En los casos previstos en la letra a) del apartado 2 del artículo anterior, desde la fecha en que se hubiese procedido a la adjudicación del contrato, si la causa es la retirada indebida de proposiciones o candidaturas; o desde la fecha en que hubiese debido procederse a la adjudicación, si la prohibición se fundamenta en el incumplimiento de lo establecido en el apartado segundo del artículo 151. e) Desde que la entidad contratante tuvo conocimiento del incumplimiento de las condiciones especiales de ejecución del contrato en los casos previstos en la letra c) del apartado segundo del artículo 61 bis.» Tres. Se introduce un
 
 #### Artículo 61. bis,.
 
@@ -2729,9 +2703,7 @@ c) Los conceptos excluidos de bonificación por la normativa de aplicación, ent
 supervisión y solvencia de las entidades aseguradoras y reaseguradoras. Se modifica el apartado 2 de la disposición final vigésima primera de la ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia de las entidades aseguradoras y reaseguradoras, que queda redactado en los siguientes términos:
 «2. No obstante, la disposición transitoria decimotercera y la disposición adicional decimosexta entrarán en vigor el día siguiente al de su publicación. Las disposiciones transitorias cuarta y décima entrarán en vigor el 1 de septiembre de 2015. La
 
-#### Disposición final novena. entrará en vigor el 1 de julio de 2016.
-
-La disposición final.
+#### Disposición final novena. entrará en vigor el 1 de julio de 2016. La disposición final.
 
 #### Duodécima. entrará en vigor al día siguiente de la publicación de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.»
 

@@ -1,10 +1,12 @@
 ---
 id: norm-es-2007-10487
 codigo_sintetizado: BOE-A-2007-10487
-titulo: Real Decreto 596/2007, de 4 de mayo, por el que se establece la ordenación general de las enseñanzas profesionales de artes plásticas y diseño.
+titulo: Real Decreto 596/2007, de 4 de mayo, por el que se establece la ordenación
+  general de las enseñanzas profesionales de artes plásticas y diseño.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2007-05-25'
 boletin: BOE
@@ -15,42 +17,38 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Pruebas de acceso
 tags:
-  - admision-alumnado
-  - curriculo
-  - ensenanzas-artisticas
-  - eso
-  - evaluacion
-  - formacion-profesional
-  - grado-medio
-  - grado-superior
-  - oposiciones
-  - orientacion-educativa
-  - pruebas-de-acceso
-  - titulacion
+- admision-alumnado
+- curriculo
+- ensenanzas-artisticas
+- eso
+- evaluacion
+- formacion-profesional
+- grado-medio
+- grado-superior
+- oposiciones
+- orientacion-educativa
+- pruebas-de-acceso
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-l-31-1995
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-31-1995
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
-    - norma_id: norm-es-2026-12038
-    - norma_id: norm-can-res-boc-2018-106-114
-    - norma_id: norm-can-res-boc-2026-039-103
-    - norma_id: norm-can-res-boc-2017-220-70
+  - norma_id: norm-es-2026-12038
+  - norma_id: norm-can-res-boc-2018-106-114
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-can-res-boc-2017-220-70
   desarrollado_por: []
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-l-31-1995
-  articulos:
-    - '1'
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 ---
 # Real Decreto 596/2007, de 4 de mayo, por el que se establece la ordenación general de las enseñanzas profesionales de artes plásticas y diseño.
 
@@ -134,9 +132,7 @@ h) Accesos a estudios superiores desde los ciclos formativos de grado superior.
 
 1. Las enseñanzas profesionales de artes plásticas y diseño conducentes a los títulos de Técnico y de Técnico Superior de Artes Plásticas y Diseño se ordenarán en ciclos formativos de grado medio y de grado superior, respectivamente, agrupados en familias profesionales artísticas.
 
-2. Los ciclos formativos de grado medio y de grado superior de artes plásticas y diseño se estructurarán en cursos académicos y se organizarán en módulos formativos de duración variable. Los objetivos, contenidos, competencias y criterios de evaluación correspondientes a los distintos módulos formativos estarán vinculados a las finalidades y objetivos contemplados en los artículos 2 y 3.
-
-3. Sin perjuicio de lo dispuesto en los apartados anteriores, con el fin de promover la formación a lo largo de la vida, las Administraciones educativas podrán organizar y desarrollar vías formativas que faciliten la formación continua y la actualización permanente de las competencias profesionales de los titulados en Artes Plásticas y Diseño.
+2. Los ciclos formativos de grado medio y de grado superior de artes plásticas y diseño se estructurarán en cursos académicos y se organizarán en módulos formativos de duración variable. Los objetivos, contenidos, competencias y criterios de evaluación correspondientes a los distintos módulos formativos estarán vinculados a las finalidades y objetivos contemplados en los artículos 2 y 3. 3. Sin perjuicio de lo dispuesto en los apartados anteriores, con el fin de promover la formación a lo largo de la vida, las Administraciones educativas podrán organizar y desarrollar vías formativas que faciliten la formación continua y la actualización permanente de las competencias profesionales de los titulados en Artes Plásticas y Diseño.
 
 ## Capítulo III. Enseñanzas mínimas.
 
@@ -346,9 +342,7 @@ Las Administraciones educativas podrán establecer, en el ámbito de sus compete
 
 1. Podrá determinarse la exención de módulos formativos y de la fase de formación práctica en empresas, estudios y talleres, por su correspondencia con la práctica laboral, siempre que se acredite, al menos, un año de experiencia relacionada con los conocimientos, capacidades y destrezas, y en su caso unidades de competencia, propias de los módulos y/o del ejercicio profesional específico del ciclo formativo correspondiente, de acuerdo con lo establecido en la norma que regule cada título.
 
-2. La experiencia laboral a que se refiere el apartado anterior se acreditará mediante la documentación que se indica en el artículo 15.4.
-
-3. Los módulos formativos y la fase de formación práctica que sean objeto de exención por su correspondencia con la práctica laboral figurarán en el expediente académico del alumno con la expresión de «Exento».
+2. La experiencia laboral a que se refiere el apartado anterior se acreditará mediante la documentación que se indica en el artículo 15.4. 3. Los módulos formativos y la fase de formación práctica que sean objeto de exención por su correspondencia con la práctica laboral figurarán en el expediente académico del alumno con la expresión de «Exento».
 
 #### Artículo 25. Convalidaciones de módulos formativos de ciclos formativos de grado medio con materias de bachillerato.
 
@@ -424,9 +418,7 @@ Este real decreto tiene carácter de norma básica y es de aplicación en todo e
 
 #### Disposición final tercera. Entrada en vigor.
 
-Dado en Madrid, el 4 de mayo de 2007.
-
-JUAN CARLOS R.
+Dado en Madrid, el 4 de mayo de 2007. JUAN CARLOS R.
 
 La Ministra de Educación y Ciencia,
 

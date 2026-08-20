@@ -1,10 +1,12 @@
 ---
 id: norm-mad-r-cdd-2025-2026
 codigo_sintetizado: R_Acreditacion Competencia Digital Docente Madrid 2025-2026
-titulo: Resolución por la que se dictan instrucciones sobre el procedimiento de acreditación de la competencia digital docente en la Comunidad de Madrid para el curso 2025-2026.
+titulo: Resolución por la que se dictan instrucciones sobre el procedimiento de acreditación
+  de la competencia digital docente en la Comunidad de Madrid para el curso 2025-2026.
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Resolución
 numero_disposicion: CDD 2025-2026
 fecha_disposicion: '2025-06-02'
@@ -18,24 +20,22 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Formación del profesorado
 tags:
-  - cdd
-  - competencia_digital_docente
-  - acreditacion
-  - curso_2025_2026
-  - madrid
+- cdd
+- competencia_digital_docente
+- acreditacion
+- curso_2025_2026
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
   fundamentado_en:
-    - norma_id: norm-mad-d-29-2013
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
 ---
-# Resolución por la que se dictan instrucciones sobre el procedimiento de acreditación de la competencia digital docente en la Comunidad de Madrid para el curso 2025-2026.
-
-## Preámbulo
+# Resolución por la que se dictan instrucciones sobre el procedimiento de acreditación de la competencia digital docente en la Comunidad de Madrid para el curso 2025-2026. ## Preámbulo
 
 El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.
 
@@ -47,9 +47,7 @@ DISPONGO:
 
 #### Artículo 1. Objeto y ámbito de aplicación.
 
-1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Resolución CDD 2025-2026.
-
-2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Madrid.
+1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Resolución CDD 2025-2026. 2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Madrid.
 
 #### Artículo 2. Principios generales de actuación.
 
@@ -69,8 +67,6 @@ Las Administraciones educativas proveerán los recursos materiales, organizativo
 
 #### Disposición final primera. Habilitación para el desarrollo normativo.
 
-Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Resolución CDD 2025-2026.
-
-#### Disposición final segunda. Entrada en vigor.
+Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Resolución CDD 2025-2026. #### Disposición final segunda. Entrada en vigor.
 
 La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

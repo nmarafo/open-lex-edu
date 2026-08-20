@@ -1,9 +1,11 @@
 ---
 id: norm-mad-r23-6-2025
-titulo: Resolución de 23 de junio de 2025, de oferta de enseñanzas de FP de Grado D en modalidad semipresencial
+titulo: Resolución de 23 de junio de 2025, de oferta de enseñanzas de FP de Grado
+  D en modalidad semipresencial
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Resolución
 numero_disposicion: 23/06/2025
 fecha_disposicion: '2025-06-23'
@@ -18,21 +20,21 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Formación Profesional
 tags:
-  - formacion_profesional
-  - fp_semipresencial
-  - grado_d
-  - comunidad_de_madrid
+- formacion_profesional
+- fp_semipresencial
+- grado_d
+- comunidad_de_madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-mad-d-29-2013
 ---
 # Resolución de 23 de junio de 2025, de oferta de enseñanzas de FP de Grado D en modalidad semipresencial
 

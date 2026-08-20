@@ -1,7 +1,8 @@
 ---
 id: norm-es-lo-8-2021
 codigo_sintetizado: LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)
-titulo: Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia.
+titulo: Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y
+  la adolescencia frente a la violencia.
 jurisdiccion: España
 ambito: Estatal
 organo_emisor: Jefatura del Estado / Cortes Generales
@@ -18,83 +19,83 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Protocolos de actuación y protección
 tags:
-  - coordinador-bienestar
-  - educacion-infantil
-  - lopivi
-  - prevencion-riesgos-laborales
-  - prevencion-violencia
-  - proteccion-menores
-  - protocolos-de-actuaci-n-y-protecci-n
+- coordinador-bienestar
+- educacion-infantil
+- lopivi
+- prevencion-riesgos-laborales
+- prevencion-violencia
+- proteccion-menores
+- protocolos-de-actuaci-n-y-protecci-n
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-1995-25444
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2015-8222
-    - norma_id: norm-es-2015-8470
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-1-1996
-    - norma_id: norm-es-lo-1-2004
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-3-2018
-    - norma_id: norm-es-lo-5-2000
+  - norma_id: norm-es-1995-25444
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2015-8222
+  - norma_id: norm-es-2015-8470
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-es-lo-1-2004
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-lo-5-2000
   fundamento_de:
-    - norma_id: norm-es-2026-2622
-    - norma_id: norm-es-lo-10-2022
-    - norma_id: norm-can-res-boc-2026-129-26
-    - norma_id: norm-can-res-135
-    - norma_id: norm-can-res-125
-    - norma_id: norm-can-l-16-2003
-    - norma_id: norm-can-res-boc-2018-124-126
-    - norma_id: norm-can-d-114-2011
-    - norma_id: norm-mad-d32-2019
-    - norma_id: norm-and-d-19-2007
-    - norma_id: norm-mad-d64-2025
-    - norma_id: norm-mad-o2742-2022
-    - norma_id: norm-and-d19-2007
-    - norma_id: norm-mad-d-32-2019
-    - norma_id: norm-mad-o-276-2019
-    - norma_id: norm-and-d-1-2011
-    - norma_id: norm-and-o-20-6-2011
-    - norma_id: norm-mad-r-acoso-2022
-    - norma_id: norm-and-d-85-1999
+  - norma_id: norm-es-2026-2622
+  - norma_id: norm-es-lo-10-2022
+  - norma_id: norm-can-res-boc-2026-129-26
+  - norma_id: norm-can-res-135
+  - norma_id: norm-can-res-125
+  - norma_id: norm-can-l-16-2003
+  - norma_id: norm-can-res-boc-2018-124-126
+  - norma_id: norm-can-d-114-2011
+  - norma_id: norm-mad-d32-2019
+  - norma_id: norm-and-d-19-2007
+  - norma_id: norm-mad-d64-2025
+  - norma_id: norm-mad-o2742-2022
+  - norma_id: norm-and-d19-2007
+  - norma_id: norm-mad-d-32-2019
+  - norma_id: norm-mad-o-276-2019
+  - norma_id: norm-and-d-1-2011
+  - norma_id: norm-and-o-20-6-2011
+  - norma_id: norm-mad-r-acoso-2022
+  - norma_id: norm-and-d-85-1999
   desarrollado_por:
-    - norma_id: norm-can-res-125
-    - norma_id: norm-can-res-096
-    - norma_id: norm-can-l-16-2003
-    - norma_id: norm-can-res-boc-2018-124-126
-    - norma_id: norm-can-d-114-2011
-    - norma_id: norm-mad-d32-2019
-    - norma_id: norm-and-d-19-2007
-    - norma_id: norm-mad-d64-2025
-    - norma_id: norm-mad-o2742-2022
-    - norma_id: norm-and-d19-2007
-    - norma_id: norm-mad-d-32-2019
-    - norma_id: norm-mad-o-276-2019
-    - norma_id: norm-and-d-1-2011
-    - norma_id: norm-and-o-20-6-2011
-    - norma_id: norm-mad-r-acoso-2022
-    - norma_id: norm-and-d-85-1999
+  - norma_id: norm-can-res-125
+  - norma_id: norm-can-res-096
+  - norma_id: norm-can-l-16-2003
+  - norma_id: norm-can-res-boc-2018-124-126
+  - norma_id: norm-can-d-114-2011
+  - norma_id: norm-mad-d32-2019
+  - norma_id: norm-and-d-19-2007
+  - norma_id: norm-mad-d64-2025
+  - norma_id: norm-mad-o2742-2022
+  - norma_id: norm-and-d19-2007
+  - norma_id: norm-mad-d-32-2019
+  - norma_id: norm-mad-o-276-2019
+  - norma_id: norm-and-d-1-2011
+  - norma_id: norm-and-o-20-6-2011
+  - norma_id: norm-mad-r-acoso-2022
+  - norma_id: norm-and-d-85-1999
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '15'
-    - '39'
-    - norma_id: norm-can-l-16-2003
-    - norma_id: norm-es-1995-25444
-    - norma_id: norm-es-2015-8222
-    - norma_id: norm-es-2015-8470
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-1-1996
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-5-2000
-    - norma_id: norm-es-lo-3-2018
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-lo-1-2004
+  - '15'
+  - '39'
+  - norma_id: norm-can-l-16-2003
+  - norma_id: norm-es-1995-25444
+  - norma_id: norm-es-2015-8222
+  - norma_id: norm-es-2015-8470
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-5-2000
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-lo-1-2004
 ---
 # Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia.
 
@@ -272,11 +273,7 @@ La disposición final octava correspondiente a la modificación de la Ley Orgán
 
 facilitar la labor de los servicios sociales en casos de urgencia. Por último, se establece un sistema de garantías en los sistemas de protección a la infancia, de las que deben cuidar las entidades públicas de protección, en especial respecto de niños, niñas y adolescentes en situación de vulnerabilidad, como es el caso de los niños o niñas que llegan solos a España o de los niños, niñas y adolescentes privados de cuidado parental.
 
-La reforma operada en la citada [Ley Orgánica 1/1996](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, se completa con la introducción de los artículos 20 ter a 20 quinquies a fin de regular las condiciones y el procedimiento aplicable a las solicitudes de acogimiento transfronterizo de menores procedentes de un Estado miembro de la Unión Europea o de un Estado parte del Convenio de La Haya de 1996. La Autoridad Central Española debe garantizar el cumplimiento en estos casos de los derechos del niño y asegurarse que la medida de protección que se pretende ejecutar en España proteja su interés superior. También se regula el procedimiento para la transmisión de las solicitudes de acogimiento transfronterizo desde España a otro Estado miembro de la Unión Europea, conforme a los Reglamentos (CE) n.º 2201/2003 del Consejo, de 27 de noviembre de 2003, relativo a la competencia, el reconocimiento y la ejecución de resoluciones judiciales en materia matrimonial y de responsabilidad parental, por el que se deroga el Reglamento (CE) n.º 1347/2000 y (UE) 2019/1111 del Consejo, de 25 de junio de 2019, relativo a la competencia, el reconocimiento y la ejecución de resoluciones en materia matrimonial y de responsabilidad parental, y sobre la sustracción internacional de menores, o a un Estado parte del citado Convenio de La Haya de 1996.
-
-De este modo, se da cumplimiento no solo a las obligaciones derivadas de Convenios internacionales, sino que se adecúa la nueva redacción a los últimos criterios jurisprudenciales tanto del Tribunal Constitucional en la sentencia del Pleno 64/2019, de 9 de mayo de 2019, como del Tribunal Europeo de Derechos Humanos en la sentencia de 11 de octubre de 2016.
-
-La disposición final novena modifica los artículos 779 y 780 de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, para fijar un plazo máximo de tres meses, desde su iniciación, en los procedimientos en los que se sustancie la oposición a las resoluciones administrativas en materia de protección de menores. Además, se prevé que las personas menores de edad podrán elegir, ellos mismos, a sus defensores, se reducen los plazos del procedimiento, y se contempla la posibilidad de que se adopten medidas cautelares.
+La reforma operada en la citada [Ley Orgánica 1/1996](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, se completa con la introducción de los artículos 20 ter a 20 quinquies a fin de regular las condiciones y el procedimiento aplicable a las solicitudes de acogimiento transfronterizo de menores procedentes de un Estado miembro de la Unión Europea o de un Estado parte del Convenio de La Haya de 1996. La Autoridad Central Española debe garantizar el cumplimiento en estos casos de los derechos del niño y asegurarse que la medida de protección que se pretende ejecutar en España proteja su interés superior. También se regula el procedimiento para la transmisión de las solicitudes de acogimiento transfronterizo desde España a otro Estado miembro de la Unión Europea, conforme a los Reglamentos (CE) n.º 2201/2003 del Consejo, de 27 de noviembre de 2003, relativo a la competencia, el reconocimiento y la ejecución de resoluciones judiciales en materia matrimonial y de responsabilidad parental, por el que se deroga el Reglamento (CE) n.º 1347/2000 y (UE) 2019/1111 del Consejo, de 25 de junio de 2019, relativo a la competencia, el reconocimiento y la ejecución de resoluciones en materia matrimonial y de responsabilidad parental, y sobre la sustracción internacional de menores, o a un Estado parte del citado Convenio de La Haya de 1996. De este modo, se da cumplimiento no solo a las obligaciones derivadas de Convenios internacionales, sino que se adecúa la nueva redacción a los últimos criterios jurisprudenciales tanto del Tribunal Constitucional en la sentencia del Pleno 64/2019, de 9 de mayo de 2019, como del Tribunal Europeo de Derechos Humanos en la sentencia de 11 de octubre de 2016. La disposición final novena modifica los artículos 779 y 780 de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, para fijar un plazo máximo de tres meses, desde su iniciación, en los procedimientos en los que se sustancie la oposición a las resoluciones administrativas en materia de protección de menores. Además, se prevé que las personas menores de edad podrán elegir, ellos mismos, a sus defensores, se reducen los plazos del procedimiento, y se contempla la posibilidad de que se adopten medidas cautelares.
 
 La disposición final décima modifica el artículo 1 de la [Ley Orgánica 1/2004](LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md), de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, para hacer constar que la violencia de género a que se refiere dicha ley también comprende la violencia que con el objetivo de causar perjuicio o daño a las mujeres se ejerza sobre sus familiares o allegados menores de edad.
 
@@ -332,9 +329,7 @@ En cualquier caso, se entenderá por violencia el maltrato físico, psicológico
 
 #### Artículo 2. Ámbito de aplicación.
 
-1. La presente ley es de aplicación a las personas menores de edad que se encuentren en territorio español, con independencia de su nacionalidad y de su situación administrativa de residencia y a los menores de nacionalidad española en el exterior en los términos establecidos en el artículo 51.
-
-2. Las obligaciones establecidas en esta ley serán exigibles a todas las personas físicas o jurídicas, públicas o privadas, que actúen o se encuentren en territorio español. A estos efectos, se entenderá que una persona jurídica se encuentra en territorio español cuando tenga domicilio social, sede de dirección efectiva, sucursal, delegación o establecimiento de cualquier naturaleza en territorio español.
+1. La presente ley es de aplicación a las personas menores de edad que se encuentren en territorio español, con independencia de su nacionalidad y de su situación administrativa de residencia y a los menores de nacionalidad española en el exterior en los términos establecidos en el artículo 51. 2. Las obligaciones establecidas en esta ley serán exigibles a todas las personas físicas o jurídicas, públicas o privadas, que actúen o se encuentren en territorio español. A estos efectos, se entenderá que una persona jurídica se encuentra en territorio español cuando tenga domicilio social, sede de dirección efectiva, sucursal, delegación o establecimiento de cualquier naturaleza en territorio español.
 
 #### Artículo 3. Fines.
 
@@ -676,9 +671,7 @@ Las administraciones públicas competentes adoptarán las medidas de sensibiliza
 
 artículo 25 De la detección precoz.
 
-1. Las administraciones públicas, en el ámbito de sus competencias, desarrollarán anualmente programas de formación inicial y continua destinada a los profesionales cuya actividad requiera estar en contacto habitual con niñas, niños y adolescentes con el objetivo de detectar precozmente la violencia ejercida contra los mismos y que esta violencia pueda ser comunicada de acuerdo con lo previsto en los artículos 15 y 16.
-
-2. En aquellos casos en los que se haya detectado precozmente alguna situación de violencia sobre una persona menor de edad, esta situación deberá ser inmediatamente comunicada por el o la profesional que la haya detectado a los progenitores, o a quienes ejerzan funciones de tutela, guarda o acogimiento, salvo que existan indicios de que la mencionada violencia haya sido ejercida por estos.
+1. Las administraciones públicas, en el ámbito de sus competencias, desarrollarán anualmente programas de formación inicial y continua destinada a los profesionales cuya actividad requiera estar en contacto habitual con niñas, niños y adolescentes con el objetivo de detectar precozmente la violencia ejercida contra los mismos y que esta violencia pueda ser comunicada de acuerdo con lo previsto en los artículos 15 y 16. 2. En aquellos casos en los que se haya detectado precozmente alguna situación de violencia sobre una persona menor de edad, esta situación deberá ser inmediatamente comunicada por el o la profesional que la haya detectado a los progenitores, o a quienes ejerzan funciones de tutela, guarda o acogimiento, salvo que existan indicios de que la mencionada violencia haya sido ejercida por estos.
 
 3. Las administraciones públicas competentes promoverán la capacitación de personas menores de edad para que cuenten con herramientas para detectar situaciones de violencia.
 
@@ -806,9 +799,7 @@ f) Informar al personal del centro sobre los protocolos en materia de prevenció
 
 g) Fomentar el respeto a los alumnos y alumnas con discapacidad o cualquier otra circunstancia de especial vulnerabilidad o diversidad.
 
-h) Coordinar con la dirección del centro educativo el plan de convivencia al que se refiere el artículo 31.
-
-i) Promover, en aquellas situaciones que supongan un riesgo para la seguridad de las personas menores de edad, la comunicación inmediata por parte del centro educativo a las Fuerzas y Cuerpos de Seguridad del Estado.
+h) Coordinar con la dirección del centro educativo el plan de convivencia al que se refiere el artículo 31. i) Promover, en aquellas situaciones que supongan un riesgo para la seguridad de las personas menores de edad, la comunicación inmediata por parte del centro educativo a las Fuerzas y Cuerpos de Seguridad del Estado.
 
 j) Promover, en aquellas situaciones que puedan implicar un tratamiento ilícito de datos de carácter personal de las personas menores de edad, la comunicación inmediata por parte del centro educativo a las Agencias de Protección de Datos.
 
@@ -832,9 +823,7 @@ Entre las actividades y publicaciones anuales del Consejo de Universidades se pr
 
 #### Artículo 38. Actuaciones en el ámbito sanitario.
 
-1. Las administraciones sanitarias, en el seno del Consejo Interterritorial del Sistema Nacional de Salud, promoverán e impulsarán actuaciones para la promoción del buen trato a la infancia y la adolescencia, así como para la prevención y detección precoz de la violencia sobre los niños, niñas y adolescentes, y de sus factores de riesgo, en el marco del protocolo común de actuación sanitaria previsto en el artículo 39.2.
-
-2. Sin perjuicio de lo dispuesto en el apartado anterior, las administraciones sanitarias competentes promoverán la elaboración de protocolos específicos de actuación en el ámbito de sus competencias, que faciliten la promoción del buen trato, la identificación de factores de riesgo y la prevención y detección precoz de la violencia sobre niños, niñas y adolescentes, así como las medidas a adoptar para la adecuada asistencia y recuperación de las víctimas, y que deberán tener en cuenta las especificidades de las actuaciones a desarrollar cuando la víctima de violencia sea una persona con discapacidad, problemas graves del neurodesarrollo, problemas de salud mental o en la que concurra cualquier otra situación de especial vulnerabilidad. Se promoverá, así mismo, la coordinación con todos los agentes implicados.
+1. Las administraciones sanitarias, en el seno del Consejo Interterritorial del Sistema Nacional de Salud, promoverán e impulsarán actuaciones para la promoción del buen trato a la infancia y la adolescencia, así como para la prevención y detección precoz de la violencia sobre los niños, niñas y adolescentes, y de sus factores de riesgo, en el marco del protocolo común de actuación sanitaria previsto en el artículo 39.2. 2. Sin perjuicio de lo dispuesto en el apartado anterior, las administraciones sanitarias competentes promoverán la elaboración de protocolos específicos de actuación en el ámbito de sus competencias, que faciliten la promoción del buen trato, la identificación de factores de riesgo y la prevención y detección precoz de la violencia sobre niños, niñas y adolescentes, así como las medidas a adoptar para la adecuada asistencia y recuperación de las víctimas, y que deberán tener en cuenta las especificidades de las actuaciones a desarrollar cuando la víctima de violencia sea una persona con discapacidad, problemas graves del neurodesarrollo, problemas de salud mental o en la que concurra cualquier otra situación de especial vulnerabilidad. Se promoverá, así mismo, la coordinación con todos los agentes implicados.
 
 3. Las administraciones sanitarias competentes facilitarán el acceso de los niños, niñas y adolescentes a la información, a los servicios de tratamiento y recuperación, garantizando la atención universal y accesible a todos aquellos que se encuentren en las situaciones de desprotección, riesgo y violencia a las que se refiere esta ley. Especialmente, se garantizará una atención a la salud mental integral reparadora y adecuada a su edad.
 
@@ -844,9 +833,7 @@ Entre las actividades y publicaciones anuales del Consejo de Universidades se pr
 
 2. La Comisión frente a la violencia en los niños, niñas y adolescentes apoyará y orientará la planificación de las medidas con incidencia sanitaria contempladas en la ley, y elaborará en el plazo de seis meses desde su constitución un protocolo común de actuación sanitaria, que evalúe y proponga las medidas necesarias para la correcta aplicación de la ley y cualesquiera otras medidas que se estimen precisas para que el sector sanitario contribuya a la erradicación de la violencia sobre la infancia y la adolescencia. Dicho protocolo establecerá los procedimientos de comunicación de las sospechas o evidencias de casos de violencia sobre la infancia y la adolescencia a los servicios sociales correspondientes, así como la colaboración con el Juzgado de Guardia, las Fuerzas y Cuerpos de Seguridad, la entidad pública de protección a la infancia y el Ministerio Fiscal. Para la redacción del mencionado protocolo se procurará contar con la participación de otras administraciones públicas, instituciones y profesionales de los diferentes sectores implicados en la prevención, detección precoz, protección y reparación de la violencia sobre la infancia y la adolescencia.
 
-3. Asimismo, la citada Comisión emitirá un informe anual, que incluirá los datos disponibles sobre la atención sanitaria de las personas menores de edad víctimas de violencia, desagregados por sexo y edad, así como información sobre la implementación de las medidas con incidencia sanitaria contempladas en la ley. Este informe será remitido al Consejo Interterritorial del Sistema Nacional de Salud y al Observatorio Estatal de la infancia, y sus resultados serán incluidos en el informe anual de evaluación de la Estrategia de erradicación de la violencia sobre la infancia y la adolescencia previsto en el artículo 21.2.
-
-#### Artículo 40. Actuaciones de los centros y servicios sanitarios ante posibles situaciones de violencia.
+3. Asimismo, la citada Comisión emitirá un informe anual, que incluirá los datos disponibles sobre la atención sanitaria de las personas menores de edad víctimas de violencia, desagregados por sexo y edad, así como información sobre la implementación de las medidas con incidencia sanitaria contempladas en la ley. Este informe será remitido al Consejo Interterritorial del Sistema Nacional de Salud y al Observatorio Estatal de la infancia, y sus resultados serán incluidos en el informe anual de evaluación de la Estrategia de erradicación de la violencia sobre la infancia y la adolescencia previsto en el artículo 21.2. #### Artículo 40. Actuaciones de los centros y servicios sanitarios ante posibles situaciones de violencia.
 
 1. Todos los centros y servicios sanitarios, en los que se preste asistencia sanitaria a una persona menor de edad como consecuencia de cualquier tipo de violencia, deberán aplicar el protocolo común de actuación sanitaria previsto en el artículo 39.2, incluido al alta hospitalaria.
 
@@ -1082,9 +1069,7 @@ Esta obligación de comunicación, así como las consecuencias de su incumplimie
 
 2. La existencia sobrevenida de antecedentes en el Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos conllevará el fin inmediato de la participación de la persona voluntaria en las actividades que impliquen el contacto habitual con personas menores. No obstante, siempre que fuera posible, en atención a las circunstancias concurrentes en la entidad y a la actividad desarrollada en el mismo, la entidad podrá efectuar un cambio de actividad de voluntariado siempre que la misma no suponga el contacto habitual con personas menores de edad.
 
-3. Las comunidades autónomas establecerán mediante norma con rango de ley el régimen sancionador correspondiente al incumplimiento de las obligaciones establecidas en el artículo 57.1.
-
-#### Artículo 60. Cancelación de antecedentes en el Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos.
+3. Las comunidades autónomas establecerán mediante norma con rango de ley el régimen sancionador correspondiente al incumplimiento de las obligaciones establecidas en el artículo 57.1. #### Artículo 60. Cancelación de antecedentes en el Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos.
 
 1. Los antecedentes que figuren como cancelados en el Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos no se tomarán en consideración a los efectos de limitar el acceso y ejercicio de profesiones, oficios y actividades que impliquen contacto habitual con menores de edad.
 
@@ -1106,9 +1091,7 @@ El Centro de Investigaciones Sociológicas realizará anualmente una encuesta ac
 
 La encuesta tendrá perspectiva de discapacidad y género; garantizará que los niños, niñas y adolescentes con discapacidad estén representados entre las personas encuestadas.
 
-Los resultados de este análisis deberán ser incluidos en el informe anual de evaluación de la Estrategia de erradicación de la violencia sobre la infancia y la adolescencia previsto en el artículo 21.2.
-
-#### Disposición adicional cuarta. Gastos de personal.
+Los resultados de este análisis deberán ser incluidos en el informe anual de evaluación de la Estrategia de erradicación de la violencia sobre la infancia y la adolescencia previsto en el artículo 21.2. #### Disposición adicional cuarta. Gastos de personal.
 
 Las actuaciones derivadas de la aplicación y desarrollo de esta ley que tengan incidencia sobre el personal de las administraciones públicas, se ajustarán a las normas básicas sobre gastos de personal que sean de aplicación.
 
@@ -1148,9 +1131,7 @@ Reglamentariamente el Gobierno determinará en el plazo de un año de la entrada
 
 Quedan derogadas todas las normas de igual o inferior rango en lo que contradigan o se opongan a lo dispuesto en esta ley.
 
-#### Disposición final primera. Modificación de la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de 14 de septiembre de 1882.
-
-La Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de 14 de septiembre de 1882, queda modificada en los siguientes términos:
+#### Disposición final primera. Modificación de la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de 14 de septiembre de 1882. La Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de 14 de septiembre de 1882, queda modificada en los siguientes términos:
 
 Uno. Se modifica el primer párrafo del apartado 1 del artículo 109 bis,.
 
@@ -1164,17 +1145,13 @@ Dos. Se modifica el artículo 110 que.
 
 queda redactado como sigue:
 
-«Artículo 110.
-
-Las personas perjudicadas por un delito que no hubieren renunciado a su derecho podrán mostrarse parte en la causa si lo hicieran antes del trámite de calificación del delito y ejercitar las acciones civiles que procedan, según les conviniere, sin que por ello se retroceda en el curso de las actuaciones. Si se personasen una vez transcurrido el término para formular escrito de acusación podrán ejercitar la acción penal hasta el inicio del juicio oral adhiriéndose al escrito de acusación formulado por el Ministerio Fiscal o del resto de las acusaciones personadas.
+«Artículo 110. Las personas perjudicadas por un delito que no hubieren renunciado a su derecho podrán mostrarse parte en la causa si lo hicieran antes del trámite de calificación del delito y ejercitar las acciones civiles que procedan, según les conviniere, sin que por ello se retroceda en el curso de las actuaciones. Si se personasen una vez transcurrido el término para formular escrito de acusación podrán ejercitar la acción penal hasta el inicio del juicio oral adhiriéndose al escrito de acusación formulado por el Ministerio Fiscal o del resto de las acusaciones personadas.
 
 Aun cuando las personas perjudicadas no se muestren parte en la causa, no por esto se entiende que renuncian al derecho de restitución, reparación o indemnización que a su favor puede acordarse en sentencia firme, siendo necesario que la renuncia de este derecho se haga en su caso de una manera clara y terminante.»
 
 Tres. Se modifica el artículo 261, que queda redactado como sigue:
 
-«Artículo 261.
-
-Tampoco estarán obligados a denunciar:
+«Artículo 261. Tampoco estarán obligados a denunciar:
 
 1.º Quien sea cónyuge del delincuente no separado legalmente o de hecho o la persona que conviva con él en análoga relación de afectividad.
 
@@ -1200,11 +1177,7 @@ Lo dispuesto en el apartado anterior no será de aplicación en los siguientes c
 
 5.º Cuando el testigo haya aceptado declarar durante el procedimiento después de haber sido debidamente informado de su derecho a no hacerlo.»
 
-Cinco. Se suprime el párrafo cuarto del artículo 433.
-
-Seis. Se suprime el párrafo tercero del artículo 448.
-
-Siete. Se introduce un
+Cinco. Se suprime el párrafo cuarto del artículo 433. Seis. Se suprime el párrafo tercero del artículo 448. Siete. Se introduce un
 
 #### Artículo 449 bis. con.
 
@@ -1300,15 +1273,11 @@ Catorce. Se adiciona un apartado 2 y se reenumeran los apartados del 2 al 6, que
 
 cuanto a la no intervención en el acto del juicio del testigo, cuando se haya practicado prueba preconstituida de conformidad con lo dispuesto en los artículos 449 bis y siguientes.»
 
-#### Disposición final segunda. Modificación del Código Civil, aprobado por Real Decreto de 24 de julio de 1889.
-
-Uno. Se modifica el artículo 92 l.
+#### Disposición final segunda. Modificación del Código Civil, aprobado por Real Decreto de 24 de julio de 1889. Uno. Se modifica el artículo 92 l.
 
 Código Civil, aprobado por Real Decreto de 24 de julio de 1889, que queda redactado como sigue:
 
-«Artículo 92.
-
-1. La separación, la nulidad y el divorcio no eximen a los padres de sus obligaciones para con los hijos.
+«Artículo 92. 1. La separación, la nulidad y el divorcio no eximen a los padres de sus obligaciones para con los hijos.
 
 2. El Juez, cuando deba adoptar cualquier medida sobre la custodia, el cuidado y la educación de los hijos menores, velará por el cumplimiento de su derecho a ser oídos y emitirá una resolución motivada en el interés superior del menor sobre esta cuestión.
 
@@ -1332,9 +1301,7 @@ Dos. Se modifica el artículo 154 l.
 
 Código Civil, aprobado por Real Decreto de 24 de julio de 1889, que queda redactado como sigue:
 
-«Artículo 154.
-
-Los hijos e hijas no emancipados están bajo la patria potestad de los progenitores.
+«Artículo 154. Los hijos e hijas no emancipados están bajo la patria potestad de los progenitores.
 
 La patria potestad, como responsabilidad parental, se ejercerá siempre en interés de los hijos e hijas, de acuerdo con su personalidad, y con respeto a sus derechos, su integridad física y mental.
 
@@ -1354,9 +1321,7 @@ Tres. Se modifica el artículo 158 l.
 
 Código Civil, aprobado por Real Decreto de 24 de julio de 1889, que queda redactado como sigue:
 
-«Artículo 158.
-
-El Juez, de oficio o a instancia del propio hijo, de cualquier pariente o del Ministerio Fiscal, dictará:
+«Artículo 158. El Juez, de oficio o a instancia del propio hijo, de cualquier pariente o del Ministerio Fiscal, dictará:
 
 1.º Las medidas convenientes para asegurar la prestación de alimentos y proveer a las futuras necesidades del hijo, en caso de incumplimiento de este deber, por sus padres.
 
@@ -1414,9 +1379,7 @@ En la fase teórica de formación multidisciplinar se incluirá el estudio en pr
 
 Dos. Se modifica el artículo 310, que queda redactado en los siguientes términos:
 
-«Artículo 310.
-
-Todas las pruebas selectivas para el ingreso y la promoción en las Carreras Judicial y Fiscal contemplarán el estudio del principio de igualdad entre mujeres y hombres, incluyendo las medidas contra la violencia de género, y su aplicación con carácter transversal en el ámbito de la función jurisdiccional.
+«Artículo 310. Todas las pruebas selectivas para el ingreso y la promoción en las Carreras Judicial y Fiscal contemplarán el estudio del principio de igualdad entre mujeres y hombres, incluyendo las medidas contra la violencia de género, y su aplicación con carácter transversal en el ámbito de la función jurisdiccional.
 
 El temario deberá garantizar la adquisición de conocimientos sobre el principio de no discriminación y especialmente de igualdad entre mujeres y hombres y, en particular, de la normativa específica dictada para combatir la violencia sobre la mujer, incluyendo la de la Unión Europea y la de tratados e instrumentos internacionales en materia de igualdad, discriminación y violencia contra las mujeres ratificados por España.
 
@@ -1458,9 +1421,7 @@ Prestarán servicio, en los supuestos y condiciones que se establezcan en las re
 
 Se modifica el párrafo a) del artículo 3 de la Ley 34/1988, de 11 de noviembre, General de Publicidad, que queda redactado en los siguientes términos:
 
-«a) La publicidad que atente contra la dignidad de la persona o vulnere los valores y derechos reconocidos en la Constitución Española, especialmente a los que se refieren sus artículos 14, 18 y 20, apartado 4.
-
-Se entenderán incluidos en la previsión anterior los anuncios que presenten a las mujeres de forma vejatoria o discriminatoria, bien utilizando particular y directamente su cuerpo o partes del mismo como mero objeto desvinculado del producto que se pretende promocionar, bien su imagen asociada a comportamientos estereotipados que vulneren los fundamentos de nuestro ordenamiento coadyuvando a generar la violencia a que se refiere la [Ley Orgánica 1/2004](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md), de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
+«a) La publicidad que atente contra la dignidad de la persona o vulnere los valores y derechos reconocidos en la Constitución Española, especialmente a los que se refieren sus artículos 14, 18 y 20, apartado 4. Se entenderán incluidos en la previsión anterior los anuncios que presenten a las mujeres de forma vejatoria o discriminatoria, bien utilizando particular y directamente su cuerpo o partes del mismo como mero objeto desvinculado del producto que se pretende promocionar, bien su imagen asociada a comportamientos estereotipados que vulneren los fundamentos de nuestro ordenamiento coadyuvando a generar la violencia a que se refiere la [Ley Orgánica 1/2004](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md), de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
 
 Asimismo, se entenderá incluida en la previsión anterior cualquier forma de publicidad que coadyuve a generar violencia o discriminación en cualquiera de sus manifestaciones sobre las personas menores de edad, o fomente estereotipos de carácter sexista, racista, estético o de carácter homofóbico o transfóbico o por razones de discapacidad.»
 
@@ -1478,15 +1439,11 @@ Dos. Se modifica el párrafo b) del artículo 39, que queda redactado como sigue
 
 Tres. Se modifica el artículo 45, que queda redactado en los siguientes términos:
 
-«Artículo 45.
-
-La inhabilitación especial para profesión, oficio, industria o comercio u otras actividades, sean o no retribuidas, o cualquier otro derecho, que ha de concretarse expresa y motivadamente en la sentencia, priva a la persona penada de la facultad de ejercerlos durante el tiempo de la condena. La autoridad judicial podrá restringir la inhabilitación a determinadas actividades o funciones de la profesión u oficio, retribuido o no, permitiendo, si ello fuera posible, el ejercicio de aquellas funciones no directamente relacionadas con el delito cometido.»
+«Artículo 45. La inhabilitación especial para profesión, oficio, industria o comercio u otras actividades, sean o no retribuidas, o cualquier otro derecho, que ha de concretarse expresa y motivadamente en la sentencia, priva a la persona penada de la facultad de ejercerlos durante el tiempo de la condena. La autoridad judicial podrá restringir la inhabilitación a determinadas actividades o funciones de la profesión u oficio, retribuido o no, permitiendo, si ello fuera posible, el ejercicio de aquellas funciones no directamente relacionadas con el delito cometido.»
 
 Cuatro. Se modifica el artículo 46, que queda redactado en los siguientes términos:
 
-«Artículo 46.
-
-La inhabilitación especial para el ejercicio de la patria potestad, tutela, curatela, guarda o acogimiento, priva a la persona condenada de los derechos inherentes a la primera, y supone la extinción de las demás, así como la incapacidad para obtener nombramiento para dichos cargos durante el tiempo de la condena. La pena de privación de la patria potestad implica la pérdida de la titularidad de la misma, subsistiendo aquellos derechos de los que sea titular el hijo o la hija respecto de la persona condenada que se determinen judicialmente. La autoridad judicial podrá acordar estas penas respecto de todas o algunas de las personas menores de edad o personas con discapacidad necesitadas de especial protección que estén a cargo de la persona condenada.
+«Artículo 46. La inhabilitación especial para el ejercicio de la patria potestad, tutela, curatela, guarda o acogimiento, priva a la persona condenada de los derechos inherentes a la primera, y supone la extinción de las demás, así como la incapacidad para obtener nombramiento para dichos cargos durante el tiempo de la condena. La pena de privación de la patria potestad implica la pérdida de la titularidad de la misma, subsistiendo aquellos derechos de los que sea titular el hijo o la hija respecto de la persona condenada que se determinen judicialmente. La autoridad judicial podrá acordar estas penas respecto de todas o algunas de las personas menores de edad o personas con discapacidad necesitadas de especial protección que estén a cargo de la persona condenada.
 
 Para concretar qué derechos de las personas menores de edad o personas con discapacidad han de subsistir en caso de privación de la patria potestad y para determinar respecto de qué personas se acuerda la pena, la autoridad judicial valorará el interés superior de la persona menor de edad o con discapacidad, en relación a las circunstancias del caso concreto.
 
@@ -1508,9 +1465,7 @@ Siete. Se modifica el párrafo 6.ª del apartado 1 del artículo 83, que queda r
 
 Ocho. Se modifica el artículo 107, que queda redactado como sigue:
 
-«Artículo 107.
-
-La autoridad judicial podrá decretar razonadamente la medida de inhabilitación para el ejercicio de determinado derecho, profesión, oficio, industria o comercio, cargo o empleo u otras actividades, sean o no retribuidas, por un tiempo de uno a cinco años, cuando la persona haya cometido con abuso de dicho ejercicio, o en relación con él, un hecho delictivo, y cuando de la valoración de las circunstancias concurrentes pueda deducirse el peligro de que vuelva a cometer el mismo delito u otros semejantes, siempre que no sea posible imponerle la pena correspondiente por encontrarse en alguna de las situaciones previstas en los números 1.º, 2.º y 3.º del artículo 20.»
+«Artículo 107. La autoridad judicial podrá decretar razonadamente la medida de inhabilitación para el ejercicio de determinado derecho, profesión, oficio, industria o comercio, cargo o empleo u otras actividades, sean o no retribuidas, por un tiempo de uno a cinco años, cuando la persona haya cometido con abuso de dicho ejercicio, o en relación con él, un hecho delictivo, y cuando de la valoración de las circunstancias concurrentes pueda deducirse el peligro de que vuelva a cometer el mismo delito u otros semejantes, siempre que no sea posible imponerle la pena correspondiente por encontrarse en alguna de las situaciones previstas en los números 1.º, 2.º y 3.º del artículo 20.»
 
 Nueve. Se modifica el párrafo 5.º del apartado 1 del artículo 130, que queda redactado como sigue:
 
@@ -1602,9 +1557,7 @@ Cuando la víctima de trata de seres humanos fuera una persona menor de edad se 
 
 Dieciocho. Se modifican las circunstancias 3.ª y 4.ª del apartado 1 del artículo 180, que quedan redactadas como sigue:
 
-«3.ª Cuando los hechos se cometan contra una persona que se halle en una situación de especial vulnerabilidad por razón de su edad, enfermedad, discapacidad o por cualquier otra circunstancia, salvo lo dispuesto en el artículo 183.
-
-4.ª Cuando, para la ejecución del delito, la persona responsable se hubiera prevalido de una situación de convivencia o de una relación de superioridad o parentesco, por ser ascendiente, o hermano, por naturaleza o adopción, o afines, con la víctima.»
+«3.ª Cuando los hechos se cometan contra una persona que se halle en una situación de especial vulnerabilidad por razón de su edad, enfermedad, discapacidad o por cualquier otra circunstancia, salvo lo dispuesto en el artículo 183. 4.ª Cuando, para la ejecución del delito, la persona responsable se hubiera prevalido de una situación de convivencia o de una relación de superioridad o parentesco, por ser ascendiente, o hermano, por naturaleza o adopción, o afines, con la víctima.»
 
 Diecinueve. Se modifican las letras a) y d) del apartado 4 del artículo 183, que quedan redactadas como sigue:
 
@@ -1702,9 +1655,7 @@ Treinta. Se modifica el párrafo tercero del artículo 267, que queda redactado 
 
 Treinta y uno. Se modifica el artículo 314, que queda redactado como sigue:
 
-«Artículo 314.
-
-Quienes produzcan una grave discriminación en el empleo, público o privado, contra alguna persona por razón de su ideología, religión o creencias, su situación familiar, su pertenencia a una etnia, raza o nación, su origen nacional, su sexo, edad, orientación o identidad sexual o de género, razones de género, de aporofobia o de exclusión social, la enfermedad que padezca o su discapacidad, por ostentar la representación legal o sindical de los trabajadores, por el parentesco con otros trabajadores de la empresa o por el uso de alguna de las lenguas oficiales dentro del Estado español, y no restablezcan la situación de igualdad ante la ley tras requerimiento o sanción administrativa, reparando los daños económicos que se hayan derivado, serán castigados con la pena de prisión de seis meses a dos años o multa de doce a veinticuatro meses.»
+«Artículo 314. Quienes produzcan una grave discriminación en el empleo, público o privado, contra alguna persona por razón de su ideología, religión o creencias, su situación familiar, su pertenencia a una etnia, raza o nación, su origen nacional, su sexo, edad, orientación o identidad sexual o de género, razones de género, de aporofobia o de exclusión social, la enfermedad que padezca o su discapacidad, por ostentar la representación legal o sindical de los trabajadores, por el parentesco con otros trabajadores de la empresa o por el uso de alguna de las lenguas oficiales dentro del Estado español, y no restablezcan la situación de igualdad ante la ley tras requerimiento o sanción administrativa, reparando los daños económicos que se hayan derivado, serán castigados con la pena de prisión de seis meses a dos años o multa de doce a veinticuatro meses.»
 
 Treinta y dos. Se introduce un nuevo
 
@@ -1720,9 +1671,7 @@ Las autoridades judiciales ordenarán la adopción de las medidas necesarias par
 
 Treinta y tres. Se modifica el artículo 511, que queda redactado como sigue:
 
-«Artículo 511.
-
-1. Incurrirá en la pena de prisión de seis meses a dos años, multa de doce a veinticuatro meses e inhabilitación especial para empleo o cargo público por tiempo de uno a tres años el particular encargado de un servicio público que deniegue a una persona una prestación a la que tenga derecho por razón de su ideología, religión o creencias, su situación familiar, pertenencia a una etnia, raza o nación, su origen nacional, su sexo, edad, orientación o identidad sexual o de género, razones de género, de aporofobia o de exclusión social, la enfermedad que padezca o su discapacidad.
+«Artículo 511. 1. Incurrirá en la pena de prisión de seis meses a dos años, multa de doce a veinticuatro meses e inhabilitación especial para empleo o cargo público por tiempo de uno a tres años el particular encargado de un servicio público que deniegue a una persona una prestación a la que tenga derecho por razón de su ideología, religión o creencias, su situación familiar, pertenencia a una etnia, raza o nación, su origen nacional, su sexo, edad, orientación o identidad sexual o de género, razones de género, de aporofobia o de exclusión social, la enfermedad que padezca o su discapacidad.
 
 2. Las mismas penas serán aplicables cuando los hechos se cometan contra una asociación, fundación, sociedad o corporación o contra sus miembros por razón de su ideología, religión o creencias, su situación familiar, la pertenencia de sus miembros o de alguno de ellos a una etnia, raza o nación, su origen nacional, su sexo, edad, orientación o identidad sexual o de género, razones de género, de aporofobia o de exclusión social, la enfermedad que padezca o su discapacidad.
 
@@ -1732,9 +1681,7 @@ Treinta y tres. Se modifica el artículo 511, que queda redactado como sigue:
 
 Treinta y cuatro. Se modifica el artículo 512, que queda redactado como sigue:
 
-«Artículo 512.
-
-Quienes en el ejercicio de sus actividades profesionales o empresariales denegaren a una persona una prestación a la que tenga derecho por razón de su ideología, religión o creencias, su situación familiar, su pertenencia a una etnia, raza o nación, su origen nacional, su sexo, edad, orientación o identidad sexual o de género, razones de género, de aporofobia o de exclusión social, la enfermedad que padezca o su discapacidad, incurrirán en la pena de inhabilitación especial para el ejercicio de profesión, oficio, industria o comercio e inhabilitación especial para profesión u oficio educativos, en el ámbito docente, deportivo y de tiempo libre por un periodo de uno a cuatro años.»
+«Artículo 512. Quienes en el ejercicio de sus actividades profesionales o empresariales denegaren a una persona una prestación a la que tenga derecho por razón de su ideología, religión o creencias, su situación familiar, su pertenencia a una etnia, raza o nación, su origen nacional, su sexo, edad, orientación o identidad sexual o de género, razones de género, de aporofobia o de exclusión social, la enfermedad que padezca o su discapacidad, incurrirán en la pena de inhabilitación especial para el ejercicio de profesión, oficio, industria o comercio e inhabilitación especial para profesión u oficio educativos, en el ámbito docente, deportivo y de tiempo libre por un periodo de uno a cuatro años.»
 
 Treinta y cinco. Se modifica el apartado 4.º del artículo 515, que queda redactado como sigue:
 
@@ -1864,9 +1811,7 @@ Ocho. Se añade un
 
 el siguiente contenido:
 
-«Artículo 20 ter. Tramitación de las solicitudes de acogimiento transfronterizo de personas menores de edad en España remitidas por un Estado miembro de la Unión Europea o por un Estado parte del Convenio de La Haya de 1996.
-
-1. El Ministerio de Justicia, en su calidad de Autoridad Central Española, será la autoridad competente para recibir las solicitudes de acogimiento transfronterizo de personas menores de edad procedentes de un Estado miembro de la Unión Europea o de un Estado parte del Convenio de La Haya de 1996. Dichas solicitudes deberán ser remitidas por la Autoridad Central del Estado requirente al objeto de obtener la preceptiva autorización de las autoridades españolas competentes con carácter previo a que se pueda producir el acogimiento.
+«Artículo 20 ter. Tramitación de las solicitudes de acogimiento transfronterizo de personas menores de edad en España remitidas por un Estado miembro de la Unión Europea o por un Estado parte del Convenio de La Haya de 1996. 1. El Ministerio de Justicia, en su calidad de Autoridad Central Española, será la autoridad competente para recibir las solicitudes de acogimiento transfronterizo de personas menores de edad procedentes de un Estado miembro de la Unión Europea o de un Estado parte del Convenio de La Haya de 1996. Dichas solicitudes deberán ser remitidas por la Autoridad Central del Estado requirente al objeto de obtener la preceptiva autorización de las autoridades españolas competentes con carácter previo a que se pueda producir el acogimiento.
 
 2. Las solicitudes de acogimiento deberán realizarse por escrito y acompañarse de los documentos que la Autoridad Central española requiera para valorar la idoneidad de la medida en beneficio de la persona menor de edad y la aptitud del establecimiento o familia para llevar a cabo dicho acogimiento. En todo caso, además de la requerida por la normativa internacional aplicable, deberá aportarse un informe sobre el niño, niña o adolescente, los motivos de su propuesta de acogimiento, la modalidad de acogimiento, la duración del mismo y cómo se prevé hacer seguimiento de la medida.
 
@@ -1902,9 +1847,7 @@ Diez. Se añade un nuevo
 
 el siguiente contenido:
 
-«Artículo 20 quinquies. Del procedimiento para la transmisión de las solicitudes de acogimiento transfronterizo de personas menores de edad desde España a otro Estado miembro de la Unión Europea o a un Estado parte del Convenio de La Haya de 1996.
-
-1. Las solicitudes de acogimiento transfronterizo que soliciten las Autoridades competentes en materia de protección de personas menores de edad se remitirán por escrito a la Autoridad Central española, que las transmitirá a las autoridades competentes del Estado miembro requerido para su tramitación.
+«Artículo 20 quinquies. Del procedimiento para la transmisión de las solicitudes de acogimiento transfronterizo de personas menores de edad desde España a otro Estado miembro de la Unión Europea o a un Estado parte del Convenio de La Haya de 1996. 1. Las solicitudes de acogimiento transfronterizo que soliciten las Autoridades competentes en materia de protección de personas menores de edad se remitirán por escrito a la Autoridad Central española, que las transmitirá a las autoridades competentes del Estado miembro requerido para su tramitación.
 
 2. La tramitación y aprobación de dichas solicitudes se regirá por el Derecho Nacional del Estado miembro requerido.
 
@@ -2018,9 +1961,7 @@ En el escrito consignará expresamente la fecha de notificación de la resoluci�
 
 La entidad administrativa, podrá ser requerida para aportar al Tribunal antes de la vista, las actualizaciones que se hayan producido en el expediente del menor.
 
-4. Recibido el testimonio del expediente administrativo, el Letrado de la Administración de Justicia, en el plazo máximo de cinco días, emplazará al actor por diez días para que presente la demanda, que se tramitará con arreglo a lo previsto en el artículo 753.
-
-El Tribunal dictará sentencia dentro de los diez días siguientes a la terminación del juicio.
+4. Recibido el testimonio del expediente administrativo, el Letrado de la Administración de Justicia, en el plazo máximo de cinco días, emplazará al actor por diez días para que presente la demanda, que se tramitará con arreglo a lo previsto en el artículo 753. El Tribunal dictará sentencia dentro de los diez días siguientes a la terminación del juicio.
 
 5. Se suprime.
 
@@ -2214,15 +2155,11 @@ Entrada en vigor.
 
 No obstante, lo previsto en los artículos 5.3, 14.2, 14.3, 18, 35 y 48.1.b) y c) producirán efectos a los seis meses de la entrada en vigor de la ley.
 
-Lo previsto en la disposición final decimocuarta producirá efectos a partir del 1 de enero de 2022.
-
-Por tanto,
+Lo previsto en la disposición final decimocuarta producirá efectos a partir del 1 de enero de 2022. Por tanto,
 
 Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley orgánica.
 
-Madrid, 4 de junio de 2021.
-
-FELIPE R.
+Madrid, 4 de junio de 2021. FELIPE R.
 
 El Presidente del Gobierno,
 

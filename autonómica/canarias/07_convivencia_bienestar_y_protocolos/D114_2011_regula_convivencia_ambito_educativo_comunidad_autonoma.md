@@ -1,7 +1,8 @@
 ---
 id: norm-can-d-114-2011
 codigo_sintetizado: D114_2011 Decreto de Convivencia Escolar
-titulo: Decreto 114/2011, de 11 de mayo, por el que se regula la convivencia en el ámbito educativo de la Comunidad Autónoma de Canarias.
+titulo: Decreto 114/2011, de 11 de mayo, por el que se regula la convivencia en el
+  ámbito educativo de la Comunidad Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Gobierno de Canarias / Consejería de Educación
@@ -19,53 +20,50 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Convivencia escolar y disciplina
 tags:
-  - admision-alumnado
-  - becas-y-ayudas
-  - conducta
-  - convivencia
-  - convivencia-escolar
-  - convivencia-escolar-y-disciplina
-  - derechos-deberes
-  - disciplina
-  - ensenanzas-deportivas
-  - prevencion-riesgos-laborales
-  - profesorado
+- admision-alumnado
+- becas-y-ayudas
+- conducta
+- convivencia
+- convivencia-escolar
+- convivencia-escolar-y-disciplina
+- derechos-deberes
+- disciplina
+- ensenanzas-deportivas
+- prevencion-riesgos-laborales
+- profesorado
 relaciones:
   desarrolla:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
   fundamentado_en:
-    - norma_id: norm-can-l-1-1997
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-2008-979
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-5-2000
-    - norma_id: norm-es-lo-8-1985
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-lo-8-2021
-    - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-can-l-1-1997
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2008-979
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-5-2000
+  - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-lo-1-1996
   fundamento_de:
-    - norma_id: norm-can-o-2013-10-09
-    - norma_id: norm-can-res-119
-    - norma_id: norm-can-res-boc-2017-132-1
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-can-res-119
+  - norma_id: norm-can-res-boc-2017-132-1
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - '124'
-    - norma_id: norm-can-lo-1-2018
-  articulos:
-    - '136'
-    - norma_id: norm-can-l-1-1997
-    - norma_id: norm-es-lo-5-2000
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-2008-979
-    - norma_id: norm-es-lo-8-1985
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '136'
+  - norma_id: norm-can-l-1-1997
+  - norma_id: norm-es-lo-5-2000
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2008-979
+  - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2011-108-3000.pdf
 ---
 # Decreto 114/2011, de 11 de mayo, por el que se regula la convivencia en el ámbito educativo de la Comunidad Autónoma de Canarias.
@@ -603,9 +601,7 @@ c) La reiterada y continuada falta de respeto al ejercicio del derecho al estudi
 d) La alteración del orden en cualquier lugar del centro, en el transporte escolar o en la realización de actividades fuera del centro, cuando no constituyan conducta gravemente perjudicial para la convivencia.
 e) La discriminación por razón de nacimiento, edad, raza, sexo, estado civil, orientación sexual, aptitud física o psíquica, estado de salud, cultura, religión, creencia, ideología o cualquier otra condición o circunstancia personal, económica o social, cuando no deba considerarse conducta que perjudique gravemente la convivencia.
 
-f) La grabación, publicidad o difusión no autorizada de imágenes de los miembros de la comunidad educativa, cuando ello resulte contrario al derecho a su intimidad, y no constituya una conducta que perjudica gravemente la convivencia tipificada en el apartado j) del artículo 64.
-
-2. Cada centro educativo, en el ejercicio de su autonomía, desarrollará las conductas contrarias a la convivencia de carácter grave tipificadas en este artículo.
+f) La grabación, publicidad o difusión no autorizada de imágenes de los miembros de la comunidad educativa, cuando ello resulte contrario al derecho a su intimidad, y no constituya una conducta que perjudica gravemente la convivencia tipificada en el apartado j) del artículo 64. 2. Cada centro educativo, en el ejercicio de su autonomía, desarrollará las conductas contrarias a la convivencia de carácter grave tipificadas en este artículo.
 
 #### Artículo 64. Conductas que perjudican gravemente la convivencia en el centro docente.
 
@@ -660,8 +656,7 @@ f) Suspensión del derecho a utilizar la biblioteca, el aula de nuevas tecnolog�
 
 2. La suspensión de cualquier derecho de asistencia o participación en actividades extraescolares o complementarias conlleva el tratamiento educativo y la custodia del alumnado garantizada dentro del centro, a través de las estrategias establecidas en el plan de convivencia para la aplicación adecuada de estas medidas.
 
-3. La dirección del centro, oído el Equipo de gestión de la convivencia, podrá aplicar, si se dan circunstancias agravantes, las medidas de este apartado frente a las previstas en el apartado 1.
-a) Suspensión del derecho de asistencia a las clases de una o varias áreas o materias por un período de tres a diez días lectivos, sin pérdida de la evaluación continua siempre que se realicen determinados deberes o trabajos bajo el control del profesor o profesora que se designe a ese efecto por el centro.
+3. La dirección del centro, oído el Equipo de gestión de la convivencia, podrá aplicar, si se dan circunstancias agravantes, las medidas de este apartado frente a las previstas en el apartado 1. a) Suspensión del derecho de asistencia a las clases de una o varias áreas o materias por un período de tres a diez días lectivos, sin pérdida de la evaluación continua siempre que se realicen determinados deberes o trabajos bajo el control del profesor o profesora que se designe a ese efecto por el centro.
 b) Suspensión del derecho de asistencia al centro docente por un período de tres a diez días lectivos sin pérdida de la evaluación continua, siempre que se realicen determinados deberes o trabajos bajo el control del profesor o profesora que se designe a ese efecto por el centro.
 c) Realización dentro o fuera del horario lectivo de un servicio a la comunidad educativa como fórmula de reparación al daño causado. Esta medida no puede ser impuesta sin autorización de los representantes legales en el caso del alumnado menor de edad, y aceptada por el propio alumno o alumna si es mayor de edad.
 
@@ -708,9 +703,7 @@ general de aplicación de. medidas.
 
 1. Las conductas gravemente perjudiciales para la convivencia en el centro serán corregidas mediante la aplicación de las medidas previstas en el artículo 67 previa.
 
-la instrucción del correspondiente procedimiento disciplinario. No obstante, el director o directora antes de iniciar el procedimiento intentará corregir la conducta mediante medidas aceptadas voluntariamente por el alumno o alumna o, en su caso, por sus familias. La aceptación de las medidas propuestas determinará que no se inicie el procedimiento. No se aplicará esta posibilidad si la conducta es de las previstas en las letras c), d) y e) del apartado 1 del artículo 64.
-
-2. Corresponde al director o directora del centro incoar, por propia iniciativa o a propuesta del Equipo de gestión de la convivencia, los referidos expedientes al alumnado. El acuerdo sobre la iniciación del procedimiento ordinario se adoptará en el plazo máximo de tres días lectivos desde el conocimiento de los hechos.
+la instrucción del correspondiente procedimiento disciplinario. No obstante, el director o directora antes de iniciar el procedimiento intentará corregir la conducta mediante medidas aceptadas voluntariamente por el alumno o alumna o, en su caso, por sus familias. La aceptación de las medidas propuestas determinará que no se inicie el procedimiento. No se aplicará esta posibilidad si la conducta es de las previstas en las letras c), d) y e) del apartado 1 del artículo 64. 2. Corresponde al director o directora del centro incoar, por propia iniciativa o a propuesta del Equipo de gestión de la convivencia, los referidos expedientes al alumnado. El acuerdo sobre la iniciación del procedimiento ordinario se adoptará en el plazo máximo de tres días lectivos desde el conocimiento de los hechos.
 
 3. La dirección del centro incoará expediente disciplinario haciendo constar:
 a) El nombre y apellidos del alumno o alumna.

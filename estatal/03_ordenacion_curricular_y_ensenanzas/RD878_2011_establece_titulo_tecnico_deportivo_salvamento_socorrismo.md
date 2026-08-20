@@ -1,10 +1,13 @@
 ---
 id: norm-es-2011-12632
 codigo_sintetizado: BOE-A-2011-12632
-titulo: Real Decreto 878/2011, de 24 de junio, por el que se establece el título de Técnico Deportivo en Salvamento y Socorrismo y se fijan sus enseñanzas mínimas y los requisitos de acceso.
+titulo: Real Decreto 878/2011, de 24 de junio, por el que se establece el título de
+  Técnico Deportivo en Salvamento y Socorrismo y se fijan sus enseñanzas mínimas y
+  los requisitos de acceso.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2011-07-22'
 boletin: BOE
@@ -15,34 +18,34 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Deportivas
 tags:
-  - curriculo
-  - ense-anzas-deportivas
-  - ensenanzas-deportivas
-  - formacion-profesional
-  - oposiciones
-  - titulacion
+- curriculo
+- ense-anzas-deportivas
+- ensenanzas-deportivas
+- formacion-profesional
+- oposiciones
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2002-12018
-    - norma_id: norm-es-2002-4371
-    - norma_id: norm-es-2007-19326
-    - norma_id: norm-es-2007-6115
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2002-4371
+  - norma_id: norm-es-2007-19326
+  - norma_id: norm-es-2007-6115
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2002-12018
-    - norma_id: norm-es-2002-4371
-    - norma_id: norm-es-2007-19326
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2007-6115
+  - '1'
+  - '2'
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2002-4371
+  - norma_id: norm-es-2007-19326
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2007-6115
 ---
 # Real Decreto 878/2011, de 24 de junio, por el que se establece el título de Técnico Deportivo en Salvamento y Socorrismo y se fijan sus enseñanzas mínimas y los requisitos de acceso.
 
@@ -544,17 +547,13 @@ El presente real decreto tiene carácter de norma básica y se dicta, al amparo 
 
 #### Disposición final segunda. Implantación de los Títulos.
 
-Las Administraciones educativas podrán implantar, de forma progresiva ciclo a ciclo, el nuevo currículo de estas enseñanzas desde el curso escolar 2012-2013.
-
-#### Disposición final tercera. Autorización para el desarrollo.
+Las Administraciones educativas podrán implantar, de forma progresiva ciclo a ciclo, el nuevo currículo de estas enseñanzas desde el curso escolar 2012-2013. #### Disposición final tercera. Autorización para el desarrollo.
 
 Con el objeto de actualizar los perfiles del profesorado a los nuevos títulos universitarios regulados por el RD 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, se autoriza al titular del Ministerio de Educación para la modificación y actualización de los Anexos VIII, IXA y X.
 
 #### Disposición final cuarta. Entrada en vigor.
 
-Dado en Madrid, el 24 de junio de 2011.
-
-JUAN CARLOS R.
+Dado en Madrid, el 24 de junio de 2011. JUAN CARLOS R.
 
 El Ministro de Educación,
 
@@ -570,7 +569,7 @@ Enseñanzas mínimas
 
 Bloque común
 
-Â
+
 
 MED-C101: Bases del comportamiento deportivo.
 
@@ -584,7 +583,7 @@ MED-C103: Actividad física adaptada y discapacidad.
 
 5 h
 
-MED-C104: OrganizaciÃ³n deportiva.Â
+MED-C104: Organización deportiva.
 
 5 h
 
@@ -594,7 +593,7 @@ Total
 
 Bloque específico
 
-Â
+
 
 MED-SSSS102: Instalaciones acuáticas y materiales.
 
@@ -630,7 +629,7 @@ Enseñanzas mínimas
 
 Bloque común
 
-Â
+
 
 MED-C201: Bases del aprendizaje deportivo.
 
@@ -658,7 +657,7 @@ Total
 
 Bloque específico
 
-Â
+
 
 MED-SSSS-201: Escuela de salvamento y socorrismo.
 
@@ -4470,7 +4469,7 @@ RATIO PROFESOR/ALUMNO
 
 Ciclo inicial
 
-Â
+
 
 MED-SSS102: Instalaciones acuáticas y materiales
 
@@ -4482,7 +4481,7 @@ MED-SSSS105: Seguridad e intervención en instalaciones acuáticas
 
 Ciclo final
 
-Â
+
 
 MED-SSSS-201: Escuela de salvamento y socorrismo
 
@@ -4676,7 +4675,7 @@ Pista polideportiva
 
 44 m x 22 m.
 
-Â
+
 
 MED-C201: Bases del aprendizaje deportivo.
 
@@ -4934,7 +4933,7 @@ Profesores de Enseñanza Secundaria.
 
 Profesor especialista.
 
-Â
+
 
 MED-SSSS103: Metodología del salvamento y socorrismo.
 
@@ -4946,7 +4945,7 @@ Profesores de Enseñanza Secundaria.
 
 Profesor especialista.
 
-Â
+
 
 MED-SSSS104: Organización de eventos de iniciación en salvamento y socorrismo.
 
@@ -4958,7 +4957,7 @@ Profesores de Enseñanza Secundaria.
 
 Profesor especialista.
 
-Â
+
 
 MED-SSSS105: Seguridad e intervención en Instalaciones Acuáticas.
 
@@ -4970,7 +4969,7 @@ Profesores de Enseñanza Secundaria.
 
 Profesor especialista.
 
-Â
+
 
 MED-SSSS106: Formación práctica.
 
@@ -4982,7 +4981,7 @@ Profesores de Enseñanza Secundaria.
 
 Profesor especialista.
 
-Â
+
 
 Módulo de enseñanza deportiva
 
@@ -5002,7 +5001,7 @@ Profesores de Enseñanza Secundaria.
 
 Profesor especialista.
 
-Â
+
 
 MED-SSSS-202: Preparación física del socorrista.
 
@@ -5014,7 +5013,7 @@ Profesores de Enseñanza Secundaria.
 
 Profesor especialista.
 
-Â
+
 
 MED-SSSS-203: Perfeccionamiento técnico en salvamento y socorrismo.
 
@@ -5026,7 +5025,7 @@ Profesor de Enseñanza Secundaria.
 
 Profesor especialista.
 
-Â
+
 
 MED-SSSS-204: Organización de eventos de tecnificación en salvamento y socorrismo.
 
@@ -5038,7 +5037,7 @@ Profesor de Enseñanza Secundaria.
 
 Profesor especialista.
 
-Â
+
 
 MED-SSSS-205: Espacios acuáticos y materiales.
 
@@ -5050,7 +5049,7 @@ Profesor de Enseñanza Secundaria.
 
 Profesor especialista.
 
-Â
+
 
 MED-SSSS-206: Seguridad e intervención en Espacios Acuáticos Naturales.
 
@@ -5062,7 +5061,7 @@ Profesor de Enseñanza Secundaria.
 
 Profesor especialista.
 
-Â
+
 
 ## Anexo IX. B
 

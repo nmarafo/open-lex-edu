@@ -1,10 +1,13 @@
 ---
 id: norm-es-2013-12632
 codigo_sintetizado: BOE-A-2013-12632
-titulo: Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social.
+titulo: Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba
+  el Texto Refundido de la Ley General de derechos de las personas con discapacidad
+  y de su inclusión social.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2013-12-03'
 boletin: BOE
@@ -15,39 +18,39 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Igualdad de género y diversidad
 tags:
-  - igualdad-de-g-nero-y-diversidad
-  - igualdad-genero
-  - inclusiva
-  - neae
-  - oposiciones
+- igualdad-de-g-nero-y-diversidad
+- igualdad-genero
+- inclusiva
+- neae
+- oposiciones
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-2000-544
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2000-544
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-1985
   fundamento_de:
-    - norma_id: norm-es-2022-11589
-    - norma_id: norm-es-2026-12038
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-l-9-2017
-    - norma_id: norm-es-lo-3-2018
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-can-d-25-2018
+  - norma_id: norm-es-2022-11589
+  - norma_id: norm-es-2026-12038
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-l-9-2017
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-can-d-25-2018
   desarrollado_por: []
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-es-2000-544
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-lo-8-1985
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '27'
+  - norma_id: norm-es-2000-544
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 ---
 # Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social.
 
@@ -93,9 +96,7 @@ c) La Ley 49/2007, de 26 de diciembre, por la que se establece el régimen de in
 
 #### Disposición final única. Entrada en vigor.
 
-Dado en Madrid, el 29 de noviembre de 2013.
-
-JUAN CARLOS R.
+Dado en Madrid, el 29 de noviembre de 2013. JUAN CARLOS R.
 
 La Ministra de Sanidad, Servicios Sociales e Igualdad,
 
@@ -357,9 +358,7 @@ c) La formación, readaptación o recualificación profesional.
 
 4. La orientación profesional será prestada por los correspondientes servicios, teniendo en cuenta las capacidades reales de la persona con discapacidad, determinadas conforme a los informes de los equipos multiprofesionales de calificación y reconocimiento del grado de discapacidad. Asimismo se tomará en consideración la formación efectivamente recibida y por recibir, y las posibilidades de empleo existentes en cada caso, así como la atención a sus motivaciones, aptitudes y preferencias profesionales. Comprenderá asimismo los apoyos necesarios para la búsqueda, obtención, mantenimiento del empleo y retorno al mismo.
 
-5. La formación, readaptación o recualificación profesional que podrá comprender en su caso, una preformación general básica, promoverá la adquisición de experiencia laboral en el mercado de trabajo y se impartirá de acuerdo con el itinerario personal y la orientación profesional prestada con anterioridad, conforme a la decisión tomada por la persona con discapacidad, y siguiendo los criterios establecidos en el artículo 15.
-
-6. Las actividades formativas podrán impartirse, además de en los centros de formación dedicados a ello, en las empresas, siendo necesario en este último supuesto, la formalización de un contrato para la formación y el aprendizaje, cuyo contenido básico se ajustará a lo dispuesto en el artículo 11 l.
+5. La formación, readaptación o recualificación profesional que podrá comprender en su caso, una preformación general básica, promoverá la adquisición de experiencia laboral en el mercado de trabajo y se impartirá de acuerdo con el itinerario personal y la orientación profesional prestada con anterioridad, conforme a la decisión tomada por la persona con discapacidad, y siguiendo los criterios establecidos en el artículo 15. 6. Las actividades formativas podrán impartirse, además de en los centros de formación dedicados a ello, en las empresas, siendo necesario en este último supuesto, la formalización de un contrato para la formación y el aprendizaje, cuyo contenido básico se ajustará a lo dispuesto en el artículo 11 l.
 
 Texto Refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, y sus normas de desarrollo.
 
@@ -411,9 +410,7 @@ d) Se realizarán programas de sensibilización, información y formación conti
 
 1. El Gobierno, sin perjuicio de las competencias atribuidas a las comunidades autónomas y a las entidades locales, regulará las condiciones básicas de accesibilidad y no discriminación que garanticen los mismos niveles de igualdad de oportunidades a todas las personas con discapacidad.
 
-Dicha regulación será gradual en el tiempo y en el alcance y contenido de las obligaciones impuestas, y abarcará a todos los ámbitos y áreas de las enumeradas en el artículo 5.
-
-2. Las condiciones básicas de accesibilidad y no discriminación establecerán, para cada ámbito o área, medidas concretas para prevenir o suprimir discriminaciones, y para compensar desventajas o dificultades. Se incluirán disposiciones sobre, al menos, los siguientes aspectos:
+Dicha regulación será gradual en el tiempo y en el alcance y contenido de las obligaciones impuestas, y abarcará a todos los ámbitos y áreas de las enumeradas en el artículo 5. 2. Las condiciones básicas de accesibilidad y no discriminación establecerán, para cada ámbito o área, medidas concretas para prevenir o suprimir discriminaciones, y para compensar desventajas o dificultades. Se incluirán disposiciones sobre, al menos, los siguientes aspectos:
 
 a) Exigencias de accesibilidad de los edificios y entornos, de los instrumentos, equipos y tecnologías, y de los bienes y productos utilizados en el sector o área. En particular, la supresión de barreras a las instalaciones y la adaptación de equipos e instrumentos, así como la apropiada señalización en los mismos.
 
@@ -433,17 +430,13 @@ f) Recursos humanos y materiales para la promoción de la accesibilidad y la no 
 
 1. Las condiciones básicas de accesibilidad y no discriminación para el acceso y utilización de las tecnologías, productos y servicios relacionados con la sociedad de la información y de cualquier medio de comunicación social serán exigibles en los plazos y términos establecidos reglamentariamente.
 
-No obstante, las condiciones previstas en el párrafo anterior serán exigibles para todas estas tecnologías, productos y servicios, de acuerdo con las condiciones y plazos máximos previstos en la disposición adicional tercera.1.
-
-2. En el plazo de dos años desde la entrada en vigor de esta ley, el Gobierno deberá realizar los estudios integrales sobre la accesibilidad a dichos bienes o servicios que se consideren más relevantes desde el punto de vista de la no discriminación y accesibilidad universal.
+No obstante, las condiciones previstas en el párrafo anterior serán exigibles para todas estas tecnologías, productos y servicios, de acuerdo con las condiciones y plazos máximos previstos en la disposición adicional tercera.1. 2. En el plazo de dos años desde la entrada en vigor de esta ley, el Gobierno deberá realizar los estudios integrales sobre la accesibilidad a dichos bienes o servicios que se consideren más relevantes desde el punto de vista de la no discriminación y accesibilidad universal.
 
 #### Artículo 25. Condiciones básicas de accesibilidad y no discriminación en el ámbito de los espacios públicos urbanizados y edificación.
 
 1. Las condiciones básicas de accesibilidad y no discriminación de las personas con discapacidad para el acceso y utilización de los espacios públicos urbanizados y edificaciones serán exigibles en los plazos y términos establecidos reglamentariamente.
 
-No obstante, las condiciones previstas en el párrafo anterior serán exigibles para todos los espacios públicos urbanizados y edificaciones, de acuerdo con las condiciones y plazos máximos previstos en la disposición adicional tercera.1.
-
-2. En el plazo de dos años desde la entrada en vigor de esta ley, el Gobierno deberá realizar los estudios integrales sobre la accesibilidad a los espacios públicos urbanizados y edificaciones, en lo que se considere más relevante desde el punto de vista de la no discriminación y de la accesibilidad universal.
+No obstante, las condiciones previstas en el párrafo anterior serán exigibles para todos los espacios públicos urbanizados y edificaciones, de acuerdo con las condiciones y plazos máximos previstos en la disposición adicional tercera.1. 2. En el plazo de dos años desde la entrada en vigor de esta ley, el Gobierno deberá realizar los estudios integrales sobre la accesibilidad a los espacios públicos urbanizados y edificaciones, en lo que se considere más relevante desde el punto de vista de la no discriminación y de la accesibilidad universal.
 
 #### Artículo 26. Normativa técnica de edificación.
 
@@ -455,17 +448,13 @@ No obstante, las condiciones previstas en el párrafo anterior serán exigibles 
 
 1. Las condiciones básicas de accesibilidad y no discriminación de las personas con discapacidad para el acceso y utilización de los medios de transporte serán exigibles en los plazos y términos establecidos reglamentariamente.
 
-No obstante, las condiciones previstas en el párrafo anterior serán exigibles para todas las infraestructuras y material de transporte, de acuerdo con las condiciones y plazos máximos previstos en la disposición adicional tercera.1.
-
-2. En el plazo de dos años desde la entrada en vigor de esta ley, el Gobierno deberá realizar los estudios integrales sobre la accesibilidad a los diferentes medios de transporte, en lo que se considere más relevante desde el punto de vista de la no discriminación y de la accesibilidad universal.
+No obstante, las condiciones previstas en el párrafo anterior serán exigibles para todas las infraestructuras y material de transporte, de acuerdo con las condiciones y plazos máximos previstos en la disposición adicional tercera.1. 2. En el plazo de dos años desde la entrada en vigor de esta ley, el Gobierno deberá realizar los estudios integrales sobre la accesibilidad a los diferentes medios de transporte, en lo que se considere más relevante desde el punto de vista de la no discriminación y de la accesibilidad universal.
 
 #### Artículo 28. Condiciones básicas de accesibilidad y no discriminación en el ámbito de las relaciones con las administraciones públicas.
 
 1. Las condiciones básicas de accesibilidad y no discriminación que deberán reunir las oficinas públicas, dispositivos y servicios de atención al ciudadano y aquellos de participación en los asuntos públicos, incluidos los relativos a la Administración de Justicia y a la participación en la vida política y los procesos electorales serán exigibles en los plazos y términos establecidos reglamentariamente.
 
-No obstante, las condiciones previstas en el párrafo anterior serán exigibles para todos los entornos, productos, servicios, disposiciones, criterios o prácticas administrativas, de acuerdo con las condiciones y plazos máximos previstos en la disposición adicional tercera.1.
-
-2. En el plazo de dos años desde la entrada en vigor de esta ley, el Gobierno deberá realizar los estudios integrales sobre la accesibilidad de aquellos entornos o sistemas que se consideren más relevantes desde el punto de vista de la no discriminación y la accesibilidad universal.
+No obstante, las condiciones previstas en el párrafo anterior serán exigibles para todos los entornos, productos, servicios, disposiciones, criterios o prácticas administrativas, de acuerdo con las condiciones y plazos máximos previstos en la disposición adicional tercera.1. 2. En el plazo de dos años desde la entrada en vigor de esta ley, el Gobierno deberá realizar los estudios integrales sobre la accesibilidad de aquellos entornos o sistemas que se consideren más relevantes desde el punto de vista de la no discriminación y la accesibilidad universal.
 
 #### Artículo 29. Condiciones básicas de accesibilidad y no discriminación para el acceso y utilización de los bienes y servicios a disposición del público.
 
@@ -477,9 +466,7 @@ No obstante, las condiciones previstas en el párrafo anterior serán exigibles 
 
 4. Las condiciones básicas de accesibilidad y no discriminación para el acceso y utilización de los bienes y servicios a disposición del público por las personas con discapacidad serán exigibles en los plazos y términos establecidos reglamentariamente.
 
-No obstante, las condiciones previstas en el párrafo anterior serán exigibles para todos los bienes y servicios, de acuerdo con las condiciones y plazos máximos previstos en la disposición adicional tercera.2.
-
-5. En el plazo de dos años desde la entrada en vigor de esta ley, el Gobierno deberá realizar los estudios integrales sobre la accesibilidad a bienes o servicios que se consideren más relevantes desde el punto de vista de la no discriminación y accesibilidad universal.
+No obstante, las condiciones previstas en el párrafo anterior serán exigibles para todos los bienes y servicios, de acuerdo con las condiciones y plazos máximos previstos en la disposición adicional tercera.2. 5. En el plazo de dos años desde la entrada en vigor de esta ley, el Gobierno deberá realizar los estudios integrales sobre la accesibilidad a bienes o servicios que se consideren más relevantes desde el punto de vista de la no discriminación y accesibilidad universal.
 
 #### Sección 2. ª Medidas de acción positiva artículo 30 Medidas para facilitar el estacionamiento de vehículos. Los ayuntamientos adoptarán las medidas adecuadas para facilitar el estacionamiento de los vehículos automóviles pertenecientes a personas con problemas graves de movilidad, por razón de su discapacidad.
 
@@ -627,9 +614,7 @@ Las personas con discapacidad y sus familias tienen derecho a unos servicios y p
 
 1. Los servicios sociales para personas con discapacidad y sus familias podrán ser prestados tanto por las administraciones públicas como por entidades sin ánimo de lucro a través de los cauces y mediante los recursos humanos, financieros y técnicos necesarios.
 
-En todo caso, las administraciones públicas desarrollarán las actuaciones necesarias para la coordinación de la atención de carácter social y de carácter sanitario, de forma efectiva y eficiente, conforme a lo establecido en el artículo 10.
-
-2. La prestación de los servicios sociales respetará al máximo la permanencia de las personas con discapacidad en su medio familiar y en su entorno geográfico, teniendo en cuenta las barreras específicas de quienes habiten en zonas rurales.
+En todo caso, las administraciones públicas desarrollarán las actuaciones necesarias para la coordinación de la atención de carácter social y de carácter sanitario, de forma efectiva y eficiente, conforme a lo establecido en el artículo 10. 2. La prestación de los servicios sociales respetará al máximo la permanencia de las personas con discapacidad en su medio familiar y en su entorno geográfico, teniendo en cuenta las barreras específicas de quienes habiten en zonas rurales.
 
 3. Se promoverá la participación de las propias personas con discapacidad en las tareas comunes de convivencia, de dirección y de control de los servicios sociales.
 
@@ -1017,9 +1002,7 @@ d) La obstrucción o negativa a facilitar la información solicitada por las aut
 
 e) El incumplimiento por parte de las personas obligadas de las normas sobre accesibilidad de los entornos, instrumentos, equipos y tecnologías, medios de transporte, medios de comunicación y de los productos y servicios a disposición del público, así como los apoyos y medios asistenciales específicos para cada persona, que obstaculice o limite su acceso o utilización regulares por las personas con discapacidad.
 
-f) La negativa por parte de las personas obligadas a adoptar un ajuste razonable, en los términos establecidos en el artículo 66.
-
-g) El incumplimiento por parte de las personas obligadas de las previsiones efectuadas en la disposición adicional tercera, en lo referente a la elaboración de los planes especiales de actuación para la implantación de las exigencias de accesibilidad y la no discriminación en el ámbito de que se trate.
+f) La negativa por parte de las personas obligadas a adoptar un ajuste razonable, en los términos establecidos en el artículo 66. g) El incumplimiento por parte de las personas obligadas de las previsiones efectuadas en la disposición adicional tercera, en lo referente a la elaboración de los planes especiales de actuación para la implantación de las exigencias de accesibilidad y la no discriminación en el ámbito de que se trate.
 
 h) La coacción, amenaza, represalia ejercida sobre la persona con discapacidad o sobre otras personas físicas o jurídicas, que hayan entablado o pretendan entablar cualquier clase de acción legal, reclamación, denuncia o participen en procedimientos ya iniciados para exigir el cumplimiento del principio de igualdad de oportunidades, así como la tentativa de ejercitar tales actos.
 
@@ -1127,45 +1110,19 @@ En las actuaciones previstas en esta ley que tengan relación con la recogida y 
 
 a) Para el acceso y utilización de las tecnologías, productos y servicios relacionados con la sociedad de la información y de cualquier medio de comunicación social:
 
-Productos y servicios nuevos, incluidas las campañas institucionales que se difundan en soporte audiovisual: 4 de diciembre de 2009.
+Productos y servicios nuevos, incluidas las campañas institucionales que se difundan en soporte audiovisual: 4 de diciembre de 2009. Productos y servicios existentes el 4 de diciembre de 2009, que sean susceptibles de ajustes razonables: 4 de diciembre de 2013. b) Para el acceso y utilización de los espacios públicos urbanizados y edificaciones:
 
-Productos y servicios existentes el 4 de diciembre de 2009, que sean susceptibles de ajustes razonables: 4 de diciembre de 2013.
+Espacios y edificaciones nuevos: 4 de diciembre de 2010. Espacios y edificaciones existentes el 4 de diciembre de 2010, que sean susceptibles de ajustes razonables: 4 de diciembre de 2017. c) Para el acceso y utilización de los medios de transporte:
 
-b) Para el acceso y utilización de los espacios públicos urbanizados y edificaciones:
+Infraestructuras y material de transporte nuevos: 4 de diciembre de 2010. Infraestructuras y material de transporte existentes el 4 de diciembre de 2010, que sean susceptibles de ajustes razonables: 4 de diciembre de 2017. d) Los que deberán reunir las oficinas públicas, dispositivos y servicios de atención al ciudadano y aquellos de participación en los asuntos públicos, incluidos los relativos a la Administración de Justicia y a la participación en la vida política y los procesos electorales:
 
-Espacios y edificaciones nuevos: 4 de diciembre de 2010.
-
-Espacios y edificaciones existentes el 4 de diciembre de 2010, que sean susceptibles de ajustes razonables: 4 de diciembre de 2017.
-
-c) Para el acceso y utilización de los medios de transporte:
-
-Infraestructuras y material de transporte nuevos: 4 de diciembre de 2010.
-
-Infraestructuras y material de transporte existentes el 4 de diciembre de 2010, que sean susceptibles de ajustes razonables: 4 de diciembre de 2017.
-
-d) Los que deberán reunir las oficinas públicas, dispositivos y servicios de atención al ciudadano y aquellos de participación en los asuntos públicos, incluidos los relativos a la Administración de Justicia y a la participación en la vida política y los procesos electorales:
-
-Entornos, productos y servicios nuevos: 4 de diciembre de 2008.
-
-Corrección de toda disposición, criterio o práctica administrativa discriminatoria: 4 de diciembre de 2008.
-
-Entornos, productos y servicios existentes el 4 de diciembre de 2008, y toda disposición, criterio o práctica: 4 de diciembre de 2017.
-
-2. Los supuestos y plazos máximos de exigibilidad de las condiciones básicas de accesibilidad y no discriminación para el acceso y utilización de los bienes y servicios a disposición del público por las personas con discapacidad, en todo caso, son los siguientes:
+Entornos, productos y servicios nuevos: 4 de diciembre de 2008. Corrección de toda disposición, criterio o práctica administrativa discriminatoria: 4 de diciembre de 2008. Entornos, productos y servicios existentes el 4 de diciembre de 2008, y toda disposición, criterio o práctica: 4 de diciembre de 2017. 2. Los supuestos y plazos máximos de exigibilidad de las condiciones básicas de accesibilidad y no discriminación para el acceso y utilización de los bienes y servicios a disposición del público por las personas con discapacidad, en todo caso, son los siguientes:
 
 Bienes y servicios nuevos que sean de titularidad pública: Desde la entrada en vigor del real decreto que regule las condiciones básicas de accesibilidad y no discriminación para el acceso y utilización de los bienes y servicios a disposición del público.
 
 Bienes y servicios nuevos que sean de titularidad privada que concierten o suministren las administraciones públicas: Desde la entrada en vigor del real decreto que regule las condiciones básicas de accesibilidad y no discriminación para el acceso y utilización de los bienes y servicios a disposición del público.
 
-Bienes y servicios nuevos que sean de titularidad privada y que no concierten o suministren las administraciones públicas: 4 de diciembre de 2015.
-
-Bienes y servicios existentes el 4 de diciembre de 2010, que sean susceptibles de ajustes razonables, cuando sean bienes y servicios de titularidad pública: 4 de diciembre de 2015.
-
-Bienes y servicios existentes el 4 de diciembre de 2012, que sean susceptibles de ajustes razonables, cuando sean bienes y servicios de titularidad privada que concierten o suministren las administraciones públicas: 4 de diciembre de 2015.
-
-Bienes y servicios existentes el 4 de diciembre de 2015, que sean susceptibles de ajustes razonables, cuando sean bienes y servicios de titularidad privada que no concierten o suministren las administraciones públicas: 4 de diciembre de 2017.
-
-#### Disposición adicional cuarta. Planes y programas de accesibilidad y para la no discriminación.
+Bienes y servicios nuevos que sean de titularidad privada y que no concierten o suministren las administraciones públicas: 4 de diciembre de 2015. Bienes y servicios existentes el 4 de diciembre de 2010, que sean susceptibles de ajustes razonables, cuando sean bienes y servicios de titularidad pública: 4 de diciembre de 2015. Bienes y servicios existentes el 4 de diciembre de 2012, que sean susceptibles de ajustes razonables, cuando sean bienes y servicios de titularidad privada que concierten o suministren las administraciones públicas: 4 de diciembre de 2015. Bienes y servicios existentes el 4 de diciembre de 2015, que sean susceptibles de ajustes razonables, cuando sean bienes y servicios de titularidad privada que no concierten o suministren las administraciones públicas: 4 de diciembre de 2017. #### Disposición adicional cuarta. Planes y programas de accesibilidad y para la no discriminación.
 
 1. La Administración General del Estado promoverá, en colaboración con otras administraciones públicas y con las organizaciones representativas de las personas con discapacidad y sus familias, la elaboración, desarrollo y ejecución de planes y programas en materia de accesibilidad y no discriminación.
 

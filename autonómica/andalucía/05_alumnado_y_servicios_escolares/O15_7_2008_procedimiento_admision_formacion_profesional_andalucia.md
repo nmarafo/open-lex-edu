@@ -1,10 +1,12 @@
 ---
 id: norm-and-o-15-7-2008
 codigo_sintetizado: O15_7_2008 Admision Formacion Profesional Andalucía
-titulo: Orden de 15 de julio de 2008, por la que se regula el procedimiento de admisión de alumnado en ciclos de FP.
+titulo: Orden de 15 de julio de 2008, por la que se regula el procedimiento de admisión
+  de alumnado en ciclos de FP.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 15/07/2008
 fecha_disposicion: '2008-07-15'
@@ -18,17 +20,17 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión de alumnado
 tags:
-  - admision_fp
-  - escolarizacion_fp
-  - ciclos_formativos
-  - andalucia
+- admision_fp
+- escolarizacion_fp
+- ciclos_formativos
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Orden de 15 de julio de 2008, por la que se regula el procedimiento de admisión de alumnado en ciclos de FP.
 
@@ -104,9 +106,7 @@ Decreto 183/2003, de 24 de junio, por el que se regula la información y atenci�
 
 2. Las solicitudes se cursarán a través del Registro Telemático Único de la Administración de la Junta de Andalucía en la dirección http://www.andaluciajunta.es, en concreto desde el apartado de «Administración Electrónica», así como en la página web de la Consejería de Vivienda y Ordenación del Territorio, http://www.juntadeandalucia.es/viviendayordenaciondelterritorio. Las solicitudes así presentadas producirán los mismos efectos jurídicos que las formuladas de acuerdo con el artículo 70.1 de la Ley 30/1992, de 26 de noviembre. Cualquier otro trámite evacuado por las entidades interesadas, así como las resoluciones que dicte la Administración en este procedimiento en caso de tramitarse electrónicamente, requePágina núm. 8 Sevilla, 31 de julio 2008 rirán igualmente los mismos requisitos de firma electrónica reconocida y de su emisión o recepción a través del Registro Telemático Único.
 
-3. El Registro Telemático Único emitirá automáticamente un recibo electrónico de la presentación telemática de la solicitud, escritos y documentos electrónicos presentados, de forma que la entidad interesada tenga constancia de que la comunicación ha sido recibida por la Administración y pueda referirse a ella posteriormente, tal como indica el Decreto 183/2003, de 24 de junio, en su artículo 9.5.
-
-4. El Ayuntamiento interesado, una vez iniciado un procedimiento bajo un concreto sistema de tramitación podrá practicar actuaciones o trámites a través de otro distinto. En todo caso, en el momento de la aportación de documentos o datos en los Registros deberá indicarse expresamente si la iniciación del procedimiento o alguno de los trámites del mismo, se ha efectuado en forma electrónica o telemática.
+3. El Registro Telemático Único emitirá automáticamente un recibo electrónico de la presentación telemática de la solicitud, escritos y documentos electrónicos presentados, de forma que la entidad interesada tenga constancia de que la comunicación ha sido recibida por la Administración y pueda referirse a ella posteriormente, tal como indica el Decreto 183/2003, de 24 de junio, en su artículo 9.5. 4. El Ayuntamiento interesado, una vez iniciado un procedimiento bajo un concreto sistema de tramitación podrá practicar actuaciones o trámites a través de otro distinto. En todo caso, en el momento de la aportación de documentos o datos en los Registros deberá indicarse expresamente si la iniciación del procedimiento o alguno de los trámites del mismo, se ha efectuado en forma electrónica o telemática.
 
 5. Respecto a las solicitudes que se hayan presentado por medios electrónicos, los Ayuntamientos podrán aportar la documentación que en cada momento se requiera mediante copia digitalizada de los documentos, cuya fidelidad con el original garantizarán mediante la utilización de firma electrónica reconocida. La Consejería de Vivienda y Ordenación del Territorio podrá solicitar del correspondiente archivo el cotejo del contenido de las copias aportadas, y excepcionalmente ante su imposibilidad, requerir a la entidad solicitante la exhibición del documento o información original. La aportación de tales copias implica la autorización a esta Consejería para que se acceda y trate la información personal contenida en tales documentos.
 
@@ -156,9 +156,7 @@ Sevilla, 31 de julio 2008 Página núm. 9 la fase de Aprobación Definitiva del 
 
 3. No podrá proponerse el pago de ayudas a beneficiarios que no hayan justificado en tiempo y forma las subvenciones concedidas con anterioridad con cargo al mismo programa presupuestario por la Administración de la Junta de Andalucía y sus Agencias Administrativas. No obstante, conforme a lo dispuesto en el artículo 32.2 de la Ley 3/2004, de 28 de diciembre, el órgano que a tenor de lo dispuesto en el artículo 104 de la Ley 5/1983, de 19 de julio, sea titular de la competencia para la concesión de subvenciones, así como el competente para proponer el pago podrá, mediante resolución motivada, exceptuar las limitaciones contenidas en este apartado cuando concurran circunstancias de especial interés social, sin que en ningún caso pueda delegarse esta competencia.
 
-4. Los libramientos sucesivos se harán efectivos previa presentación de las certificaciones acreditativas de la aplicación del importe de justificación diferida conforme se indica en el artículo 17.
-
-5. El pago se efectuará mediante transferencia bancaria a la cuenta indicada en la solicitud.
+4. Los libramientos sucesivos se harán efectivos previa presentación de las certificaciones acreditativas de la aplicación del importe de justificación diferida conforme se indica en el artículo 17. 5. El pago se efectuará mediante transferencia bancaria a la cuenta indicada en la solicitud.
 
 #### Artículo 13. Límite del importe de la ayuda.
 
@@ -181,10 +179,8 @@ e) Comunicar la alteración de las condiciones tenidas en cuenta para la concesi
 f) Aportar la documentación que se establezca en la Resolución o Convenio de Colaboración o la requerida por la Consejería de Vivienda y Ordenación del Territorio según los contenidos de esta Orden en aras a la justificación de la realización de la actividad subvencionada.
 g) Hacer constar en toda información o publicidad que se efectúe de la actividad u objeto de la ayuda que la misma está subvencionada por la Consejería de Vivienda y Ordenación del Territorio de la Junta de Andalucía.
 h) Conservar los documentos justificativos de la aplicación de los fondos recibidos, incluidos los documentos electrónicos, en tanto puedan ser objeto de las actuaciones de comprobación y control.
-i) Proceder al reintegro de los fondos percibidos en los supuestos contemplados en el artículo 16.
-j) Disponer de los libros contables, registros diligenciados y demás documentos debidamente auditados en los términos exigidos por la legislación mercantil y sectorial aplicable al beneficiario en cada caso, así como cuantos estados contables y registros específicos puedan ser exigibles, con la finalidad de garantizar el adecuado ejercicio de las facultades de comprobación y control respecto de la actividad subvencionada.
-k) En su caso, realizar la adjudicación de los trabajos de redacción de las actuaciones subvencionables conforme se indica en el artículo 11.
-l) Dar adecuada publicidad al carácter público de la financiación de la actividad o actuación.
+i) Proceder al reintegro de los fondos percibidos en los supuestos contemplados en el artículo 16. j) Disponer de los libros contables, registros diligenciados y demás documentos debidamente auditados en los términos exigidos por la legislación mercantil y sectorial aplicable al beneficiario en cada caso, así como cuantos estados contables y registros específicos puedan ser exigibles, con la finalidad de garantizar el adecuado ejercicio de las facultades de comprobación y control respecto de la actividad subvencionada.
+k) En su caso, realizar la adjudicación de los trabajos de redacción de las actuaciones subvencionables conforme se indica en el artículo 11. l) Dar adecuada publicidad al carácter público de la financiación de la actividad o actuación.
 m) En su caso, el cumplimiento de los Pliegos de Prescripciones Técnicas de esta Consejería, aprobados por Resoluciones de la Dirección General de Urbanismo de 3 de diciembre de 2003, o los vigentes en el momento de la solicitud.
 
 #### Artículo 16. Reintegro de la ayuda.
@@ -352,9 +348,7 @@ d) Plazo previsto para su desarrollo y ejecución.
 
 3. El abono de las ayudas se realizará de la siguiente forma:
 a) 50% de la ayuda con la resolución de concesión o Convenio de Colaboración.
-b) 50% restante, a la culminación de los trabajos de difusión y entrega a la Consejería de Vivienda y Ordenación del Territorio de la documentación y Memoria resumen del proceso de divulgación y participación realizado a que se refiere el artículo 26.3.
-
-#### Sección 2. ª Financiación de la difusión del planeamiento
+b) 50% restante, a la culminación de los trabajos de difusión y entrega a la Consejería de Vivienda y Ordenación del Territorio de la documentación y Memoria resumen del proceso de divulgación y participación realizado a que se refiere el artículo 26.3. #### Sección 2. ª Financiación de la difusión del planeamiento
 
 #### Artículo 29. Actuaciones de difusión del planeamiento.
 
@@ -511,9 +505,7 @@ Se faculta a la Directora General de Urbanismo para que dicte las instrucciones 
 
 #### Disposición final segunda. Entrada en vigor y vigencia.
 
-1. La presente Orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. No obstante, no se podrán presentar solicitudes mediante tramitación electrónica, a que se refiere el artículo 9, hasta el 1 de enero de 2009.
-
-2. El plazo de vigencia de esta Orden será de tres años desde su entrada en vigor. Sevilla, 8 de julio de 2008 JUAN ESPADAS CEJAS Consejero de Vivienda y Ordenación del Territorio
+1. La presente Orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. No obstante, no se podrán presentar solicitudes mediante tramitación electrónica, a que se refiere el artículo 9, hasta el 1 de enero de 2009. 2. El plazo de vigencia de esta Orden será de tres años desde su entrada en vigor. Sevilla, 8 de julio de 2008 JUAN ESPADAS CEJAS Consejero de Vivienda y Ordenación del Territorio
 
 ## Anexo I
 

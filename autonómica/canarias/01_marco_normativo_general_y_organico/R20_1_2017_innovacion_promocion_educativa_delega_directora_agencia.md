@@ -1,7 +1,10 @@
 ---
 id: norm-can-res-boc-2017-020-2
 codigo_sintetizado: Resolucion BOC 2
-titulo: Resolución de 20 de enero de 2017, de la Dirección General de Ordenación, Innovación y Promoción Educativa, por la que se delega en la Directora de la Agencia Canaria de Calidad Universitaria y Evaluación Educativa determinadas competencias en materia de innovación y promoción educativa (BOC n.º 20, de 30 de enero).
+titulo: Resolución de 20 de enero de 2017, de la Dirección General de Ordenación,
+  Innovación y Promoción Educativa, por la que se delega en la Directora de la Agencia
+  Canaria de Calidad Universitaria y Evaluación Educativa determinadas competencias
+  en materia de innovación y promoción educativa (BOC n.º 20, de 30 de enero).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Ordenación, Inclusión e Innovación
@@ -13,34 +16,34 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Estructura de la Consejería
 tags:
-  - curriculo
-  - ensenanzas-universitarias
-  - equipos-directivos
-  - estructura-de-la-consejer-a
-  - evaluacion
-  - roc
+- curriculo
+- ensenanzas-universitarias
+- equipos-directivos
+- estructura-de-la-consejer-a
+- evaluacion
+- roc
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-135-2016
-    - norma_id: norm-can-d-212-1991
-    - norma_id: norm-can-l-14-1990
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-2012-9282
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2012-9282
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-l-14-1990
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-2012-9282
-    - norma_id: norm-can-d-135-2016
-    - norma_id: norm-can-d-212-1991
+  - '1'
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-2012-9282
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-020-416.pdf
 anexos_extraidos_pdf: true
 ocr_procesado: true

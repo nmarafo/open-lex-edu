@@ -1,9 +1,11 @@
 ---
 id: norm-and-d162-2009
-titulo: Decreto 162/2009, de 19 de mayo, por el que se aprueba el Reglamento de la Inspección Educativa de Andalucía
+titulo: Decreto 162/2009, de 19 de mayo, por el que se aprueba el Reglamento de la
+  Inspección Educativa de Andalucía
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 162/2009
 fecha_disposicion: '2009-05-19'
@@ -18,21 +20,21 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Inspección Educativa
 tags:
-  - inspeccion_educativa
-  - reglamento_inspeccion
-  - supervision_educativa
-  - andalucia
+- inspeccion_educativa
+- reglamento_inspeccion
+- supervision_educativa
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-and-l17-2007
 ---
 # Decreto 162/2009, de 19 de mayo, por el que se aprueba el Reglamento de la Inspección Educativa de Andalucía
 
@@ -62,9 +64,7 @@ d) Las orientaciones y compromisos plurianuales de gastos derivados de los ejerc
 e) La asignación financiera a la Comunidad Autónoma de Andalucía de los fondos europeos, así como de las transferencias finalistas en el marco de los acuerdos o convenios que las regulan.
 f) La promoción de iniciativas presupuestarias con elevado efecto multiplicador, incluyendo la utilización de recursos de naturaleza retornable o la colaboración con el sector público empresarial.
 
-2. Ámbito de aplicación. Las normas contenidas en la presente Orden serán aplicables, en los términos que en la misma se establecen a la Junta de Andalucía, a sus agencias administrativas u organismos asimilados y a las agencias de régimen especial. Asimismo, serán de aplicación a las agencias públicas empresariales o entidades de derecho público, a las sociedades mercantiles con participación mayoritaria y directa de la Junta de Andalucía o sus agencias administrativas u organismos asimilados, a los consorcios de transporte metropolitano en los que participe la Junta de Andalucía, al Consorcio Sanitario Público del Aljarafe, a la Fundación Andaluza de Servicios Sociales y a la Fundación Andaluza para la Integración Social del Enfermo Mental, y, finalmente, a los fondos carentes de personalidad jurídica, conforme a lo establecido en los artículos 3 y 4 de la Ley 3/2008, de 23 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para el año 2009.
-
-3. Unidad de presupuestación. El Presupuesto se elaborará teniendo como unidad de cuenta el euro.
+2. Ámbito de aplicación. Las normas contenidas en la presente Orden serán aplicables, en los términos que en la misma se establecen a la Junta de Andalucía, a sus agencias administrativas u organismos asimilados y a las agencias de régimen especial. Asimismo, serán de aplicación a las agencias públicas empresariales o entidades de derecho público, a las sociedades mercantiles con participación mayoritaria y directa de la Junta de Andalucía o sus agencias administrativas u organismos asimilados, a los consorcios de transporte metropolitano en los que participe la Junta de Andalucía, al Consorcio Sanitario Público del Aljarafe, a la Fundación Andaluza de Servicios Sociales y a la Fundación Andaluza para la Integración Social del Enfermo Mental, y, finalmente, a los fondos carentes de personalidad jurídica, conforme a lo establecido en los artículos 3 y 4 de la Ley 3/2008, de 23 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para el año 2009. 3. Unidad de presupuestación. El Presupuesto se elaborará teniendo como unidad de cuenta el euro.
 
 4. Estructura presupuestaria. El Presupuesto de la Comunidad Autónoma de Andalucía para el ejercicio económico 2010 contendrá en el estado de gastos las obligaciones que, como máximo, se puedan reconocer y en el estado de ingresos los derechos que se prevean liquidar. Recogerá, asimismo, el importe de los beneficios fiscales que afectan a los tributos de la Comunidad Autónoma.
 
@@ -85,8 +85,7 @@ b) Agencias administrativas u organismos asimilados y las agencias de régimen e
 **4.2.3.** Clasificación económica. Los créditos atribuidos a cada programa se ajustarán a la clasificación económica que se establece en el Anexo V, teniendo en cuenta las definiciones establecidas en el anexo IV de la Orden de 4 de junio de 2003, por la que se dictan normas para la elaboración del Presupuesto de la Comunidad Autónoma de Andalucía para el año 2004 (BOJA núm. 113, de 16 de junio de 2003). La clasificación en conceptos y subconceptos de los capítulos IV y VII, salvo los supuestos relacionados expresamente en el anexo V, es abierta para cada una de las secciones presupuestarias y servicios. En estos supuestos, la Dirección General de Presupuestos acordará, a propuesta de los centros responsables de la gestión presupuestaria de cada sección presupuestaria (centros gestores, en adelante), la codificación y denominación de los mismos.
 
 **4.3.** Estructura específica de las agencias públicas empresariales, de las sociedades mercantiles del sector público andaluz y de otras entidades asimiladas. Las agencias públicas empresariales o las entidades de derecho público, las sociedades mercantiles del sector público andaluz, los fondos carentes de personalidad jurídica, los consorcios y fundaciones asimilados, conforme establece el punto 2, elaborarán un presupuesto de explotación y otro de capital, en los que se detallarán los recursos y dotaciones anuales correspondientes con la estructura y documentación que se establece en el Anexo VII. Además, elaborarán un programa de actuación, inversión y financiación, con el contenido siguiente:
-a) Inversiones reales y financieras a efectuar durante el ejercicio 2010.
-b) Fuentes de financiación de las inversiones.
+a) Inversiones reales y financieras a efectuar durante el ejercicio 2010. b) Fuentes de financiación de las inversiones.
 c) Objetivos a alcanzar y rentas que se esperan generar.
 d) Memoria de la evaluación económica de las inversiones que vayan a iniciarse en el año 2010. El programa responderá a las previsiones plurianuales oportunamente elaboradas.
 
@@ -100,8 +99,7 @@ d) Memoria de la evaluación económica de las inversiones que vayan a iniciarse
 a) Documentación general:
 De acuerdo con lo dispuesto en el artículo 34 de la Ley 5/1983, de 19 de julio, General de la Hacienda Pública de la Comunidad Autónoma de Andalucía, los centros gestores remitirán a la Dirección General de Presupuestos, antes del día 1 de julio de 2009, la documentación relativa a su estructura funcional, a la revisión de programas y a sus propuestas de anteproyecto de gastos, mediante el Módulo de Información para la Elaboración del Presupuesto (MIEP) que se define en el Anexo VI. Asimismo, remitirán una memoria explicativa del contenido de los programas que van a ejecutar, así como de las principales novedades que presentan en relación con los del ejercicio vigente. Las propuestas de gastos deberán grabarse, antes del día 23 de junio de 2009, en el Subsistema de Elaboración del Presupuesto del Sistema integrado de gestión presupuestaria, contable y financiera de la Administración de la Junta de Andalucía («Sistema Júpiter»).
 b) Fondos europeos:
-En el ámbito de los gastos financiados con fondos europeos, la Dirección General de Fondos Europeos y Planificación remitirá, antes del día 15 de junio de 2009, a la Dirección General de Presupuestos y a los distintos órganos responsables de su gestión, la envolvente financiera. Los centros gestores, en colaboración con los mencionados órganos responsables, grabarán en el sistema informático el desglose de la citada envolvente financiera, a nivel de proyecto de inversión, antes del día 23 de junio de 2009.
-c) Plantilla presupuestaria:
+En el ámbito de los gastos financiados con fondos europeos, la Dirección General de Fondos Europeos y Planificación remitirá, antes del día 15 de junio de 2009, a la Dirección General de Presupuestos y a los distintos órganos responsables de su gestión, la envolvente financiera. Los centros gestores, en colaboración con los mencionados órganos responsables, grabarán en el sistema informático el desglose de la citada envolvente financiera, a nivel de proyecto de inversión, antes del día 23 de junio de 2009. c) Plantilla presupuestaria:
 Para la elaboración de la plantilla presupuestaria, los centros responsables de la Consejería de Justicia y Administración Pública, para el personal de Justicia; de la Consejería de Educación, para el personal docente; y del Servicio Andaluz de Salud, para el personal de los centros e instituciones sanitarias, remitirán a la Dirección General de Presupuestos la información y documentación que se detalla en las siguientes fechas:
 1.º Antes del día 6 de junio de 2009, se remitirá información de la situación de la plantilla presupuestaria a fecha 1 de junio de 2009 con objeto de elaborar el anteproyecto de presupuesto que establece la regla primera del artículo 34 de la Ley 5/1983, de 19 de julio. En dicha documentación figurará la situación de los efectivos reales y su distribución por sexo en la forma y con las características que se establecen en el
 
@@ -109,8 +107,7 @@ Para la elaboración de la plantilla presupuestaria, los centros responsables de
 
 2.º Antes del día 8 de septiembre de 2009, se remitirá la información mencionada en el apartado anterior actualizada a la situación efectiva del personal a fecha 1 de septiembre de 2009 a los efectos de elaborar el anteproyecto de Ley del Presupuesto a que hace referencia en la regla cuarta del artículo 34 de la citada Ley 5/1983 de 19 de julio, para el ajuste que, en su caso, corresponda en la propuesta inicial de plantilla presupuestaria. Los centros responsables remitirán la información y documentación relacionada en los apartados anteriores a la Dirección General de Presupuestos en el formato y estructura que se establece en el Anexo IX. 3.º La Dirección General de Presupuestos extraerá directamente y en las fechas indicadas en los párrafos anteriores la situación de la plantilla presupuestaria para el personal de Administración General del Sistema de Información de Recursos Humanos.
 d) Ingresos:
-En los supuestos en que, en el ámbito de las distintas secciones presupuestarias, se gestionen ingresos, los centros gestores cumplimentarán sus previsiones tanto en el Módulo de Información para la Elaboración del Presupuesto como en el Subsistema de Elaboración del Presupuesto del Sistema integrado de gestión presupuestaria, contable y financiera de la Administración de la Junta de Andalucía («Sistema Júpiter»), antes del 1 de julio de 2009.
-e) Informe de impacto de género:
+En los supuestos en que, en el ámbito de las distintas secciones presupuestarias, se gestionen ingresos, los centros gestores cumplimentarán sus previsiones tanto en el Módulo de Información para la Elaboración del Presupuesto como en el Subsistema de Elaboración del Presupuesto del Sistema integrado de gestión presupuestaria, contable y financiera de la Administración de la Junta de Andalucía («Sistema Júpiter»), antes del 1 de julio de 2009. e) Informe de impacto de género:
 Para la confección del informe de impacto de género, los centros gestores remitirán a la Dirección General de Presupuestos, antes del día 14 de octubre de 2009, la documentación relativa al análisis de impacto de género de las actuaciones financiadas con cargo al presupuesto 2010, según la estructura contenida en el Anexo X.
 
 **6.1.2.** Análisis de programas. Con la finalidad de evaluar la oportunidad y las necesidades de gasto de los programas presupuestarios se constituirá, por cada Consejería, sus agencias y sus entidades u organismos asimilados, un grupo de trabajo del que formarán parte las personas titulares de los siguientes órganos directivos: Viceconsejería de Economía y Hacienda, Secretarías Generales de Economía y de Hacienda, y las Direcciones Generales de Presupuestos y Fondos Europeos y Planificación de la Consejería de Economía y Hacienda, así como de la Viceconsejería, la Secretaría General Técnica y, en su caso, de los órganos directivos responsables de la gestión de programas presupuestarios de las respectivas Consejerías y sus agencias y sus entidades u organismos asimilados. Para la preparación y ordenación técnica del debate de cada uno de los grupos de trabajo, la Dirección General de Presupuestos y la Secretaría General Técnica o, en su caso, el centro directivo responsable de la gestión presupuestaria de cada sección, llevarán a cabo una sesión técnica durante el mes de julio. Igualmente, a iniciativa de la Dirección General de Presupuestos, podrán establecerse las sesiones técnicas que se consideren necesarias para garantizar una adecuada ordenación técnica del proceso presupuestario y para el seguimiento de las valoraciones realizadas por el grupo de trabajo y de la asignación financiera que finalmente se establezca. Dichos grupos de trabajo analizarán las distintas propuestas remitidas, conforme a lo establecido en el punto 6.1.1, valorando los siguientes aspectos de los distintos programas:
@@ -128,9 +125,7 @@ g) **Valoración del impacto de género.** Sevilla, 29 de mayo 2009
 
 **6.3.** Procedimiento para las agencias públicas empresariales, las sociedades mercantiles del sector público andaluz y entidades asimiladas. Los centros gestores de las distintas Consejerías, en relación con las agencias públicas empresariales o entidades de derecho público, sociedades mercantiles del sector público andaluz, fondos carentes de personalidad jurídica, consorcios y fundaciones mencionados en el punto 2, que tuvieran adscritos, remitirán a la Dirección General de Presupuestos, antes del día 1 de julio de 2009, la documentación exigida en la Ley 5/1983, de 19 de julio y en el Decreto 9/1999, de 19 de enero, sobre régimen presupuestario, financiero, de control y contable de las empresas de la Junta de Andalucía. Para dar cumplimiento a lo previsto en el párrafo anterior, dichas entidades cumplimentarán y enviarán las fichas PEC y PAIF, que se describen en los Anexos VII y VIII, a través del Sistema de Información de las Empresas de la Junta de Andalucía (SIEJA). Dicha información será validada, a través del sistema SIEJA, por los centros gestores de cada Consejería de la que dependan. En aquellos supuestos en los que no sea posible la remisión a través del Sistema de Información de las Empresas de la Junta de Andalucía (SIEJA), la Dirección General de Presupuestos establecerá el procedimiento a seguir.
 
-**6.4.** Tramitación del Anteproyecto. Como resultado de las actuaciones descritas en los apartados anteriores, la Dirección General de Presupuestos elaborará el estado de gastos del Anteproyecto del Presupuesto de la Comunidad Autónoma para el año 2010 y, en coordinación con la Secretaría General de Hacienda y con los demás centros directivos de la Consejería de Economía y Hacienda que gestionan recursos públicos, el estado de ingresos, para su elevación a la persona titular de la Consejería de Economía y Hacienda, que someterá al acuerdo del Consejo de Gobierno el Anteproyecto de Ley del Presupuesto de la Comunidad Autónoma de Andalucía para el año 2010.
-
-**6.5.** Articulado del Anteproyecto de Ley. Las Consejerías deberán remitir a la Viceconsejería de Economía y Hacienda, antes del día 1 de julio de 2009, las propuestas de normas de contenido presupuestario cuya inclusión en el articulado del Anteproyecto de Ley consideren procedentes, acompañadas de una memoria explicativa y cuantificando, en su caso, el efecto de la norma propuesta sobre las cifras de ingresos o gastos que han de presupuestarse.
+**6.4.** Tramitación del Anteproyecto. Como resultado de las actuaciones descritas en los apartados anteriores, la Dirección General de Presupuestos elaborará el estado de gastos del Anteproyecto del Presupuesto de la Comunidad Autónoma para el año 2010 y, en coordinación con la Secretaría General de Hacienda y con los demás centros directivos de la Consejería de Economía y Hacienda que gestionan recursos públicos, el estado de ingresos, para su elevación a la persona titular de la Consejería de Economía y Hacienda, que someterá al acuerdo del Consejo de Gobierno el Anteproyecto de Ley del Presupuesto de la Comunidad Autónoma de Andalucía para el año 2010. **6.5.** Articulado del Anteproyecto de Ley. Las Consejerías deberán remitir a la Viceconsejería de Economía y Hacienda, antes del día 1 de julio de 2009, las propuestas de normas de contenido presupuestario cuya inclusión en el articulado del Anteproyecto de Ley consideren procedentes, acompañadas de una memoria explicativa y cuantificando, en su caso, el efecto de la norma propuesta sobre las cifras de ingresos o gastos que han de presupuestarse.
 
 #### Disposición adicional única. Fundaciones del sector pú-.
 
@@ -313,8 +308,6 @@ INFORME DE IMPACTO DE GÉNERO DEL PRESUPUESTO DE LA COMUNIDAD AUTÓNOMA DE ANDAL
 
 1. Si bien es cierto que, por lo general, se observan mayores desigualdades en el caso de las mujeres, el Informe de Impacto de Género de la Comunidad Autónoma de Andalucía no debe hacer constar o pronunciarse exclusivamente sobre las actuaciones dirigidas a mujeres. El análisis del presupuesto desde la perspectiva de género exige que se tenga en cuenta en el diseño de nuestros objetivos y actuaciones los efectos que éstos tienen sobre las personas directa o indirectamente (mujeres y hombres); en algunos casos demandará actuaciones de fomento, acciones positivas en relación con las mujeres pero, en otros, puede aconsejar el desarrollo de intervenciones dirigidas a hombres.
 
-2. El DOE.G+ es un documento de trabajo interno dirigido a los centros directivos que no satisface las necesidades de información del Informe de Evaluación de Impacto de Género. El primero, por su carácter operativo detalla el proceso de adaptación y mejora de nuestros análisis, formación u otros elementos de carácter instrumental que tienen poco interés para un documento, el segundo, que tiene como finalidad evidenciar qué recursos/resultados se van a aplicar/obtener en materia de igualdad con los créditos con los que va a contar cada Consejería/Agencia Administrativa en 2009.
-
-3. El Informe de Evaluación de Impacto de Género se pronuncia sobre la información contenida en la documentación presupuestaria, por tanto, la dimensión Género debe poder percibirse explícitamente tanto en la Memoria, como en el Informe Económico Financiero y la Ficha de indicadores. Esta consideración, si bien debe tenerse en cuenta por la totalidad de programas (a excepción de los g0), es de capital importancia para los programas calificados G+ tanto en el desarrollo de sus memorias como en la elaboración de las políticas. Es imprescindible, por tanto, mantener la coherencia en la información cualitativa y cuantitativa en cuanto a género, recogida en los diferentes textos que conforman la documentación del presupuesto elaborada por cada Consejería/Agencia.
+2. El DOE.G+ es un documento de trabajo interno dirigido a los centros directivos que no satisface las necesidades de información del Informe de Evaluación de Impacto de Género. El primero, por su carácter operativo detalla el proceso de adaptación y mejora de nuestros análisis, formación u otros elementos de carácter instrumental que tienen poco interés para un documento, el segundo, que tiene como finalidad evidenciar qué recursos/resultados se van a aplicar/obtener en materia de igualdad con los créditos con los que va a contar cada Consejería/Agencia Administrativa en 2009. 3. El Informe de Evaluación de Impacto de Género se pronuncia sobre la información contenida en la documentación presupuestaria, por tanto, la dimensión Género debe poder percibirse explícitamente tanto en la Memoria, como en el Informe Económico Financiero y la Ficha de indicadores. Esta consideración, si bien debe tenerse en cuenta por la totalidad de programas (a excepción de los g0), es de capital importancia para los programas calificados G+ tanto en el desarrollo de sus memorias como en la elaboración de las políticas. Es imprescindible, por tanto, mantener la coherencia en la información cualitativa y cuantitativa en cuanto a género, recogida en los diferentes textos que conforman la documentación del presupuesto elaborada por cada Consejería/Agencia.
 
 4. Los análisis correspondientes a las agencias o entidades administrativas dependientes de cada Consejería se integrarán en los documentos de la propia Consejería. EXCEDENCIAS Nº de excedencias concedidas Hombres Mujeres Excedencia por cuidado de hijos. Excedencia por cuidado de familiar. Excedencia voluntaria por agrupación familiar. Excedencia por razón de violencia sobre la mujer funcionaria.

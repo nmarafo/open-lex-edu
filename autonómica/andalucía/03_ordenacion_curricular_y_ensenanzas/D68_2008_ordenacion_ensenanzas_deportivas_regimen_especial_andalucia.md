@@ -1,10 +1,12 @@
 ---
 id: norm-and-d-68-2008
 codigo_sintetizado: D68_2008 Ordenacion Enseñanzas Deportivas Regimen Especial Andalucia
-titulo: Decreto 68/2008, de 26 de febrero, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial en Andalucía.
+titulo: Decreto 68/2008, de 26 de febrero, por el que se establece la ordenación general
+  de las enseñanzas deportivas de régimen especial en Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 68/2008
 fecha_disposicion: '2008-02-26'
@@ -18,17 +20,17 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Deportivas
 tags:
-  - ensenanzas_deportivas
-  - tecnico_deportivo
-  - deporte
-  - andalucia
+- ensenanzas_deportivas
+- tecnico_deportivo
+- deporte
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Decreto 68/2008, de 26 de febrero, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial en Andalucía.
 
@@ -76,9 +78,7 @@ citado Decreto.
 
 #### Artículo 5. Remisión a las restantes Consejerías.
 
-Una vez recibido un acto o acuerdo de una Entidad Local, la Delegación del Gobierno de la Junta de Andalucía lo remitirá, en su caso, en el plazo de cinco días, a las Delegaciones Provinciales de las Consejerías que puedan resultar competentes por razón de la materia. Dicha remisión se llevará a cabo de acuerdo con lo previsto en el artículo 4.
-
-#### Artículo 6. Obtención de información.
+Una vez recibido un acto o acuerdo de una Entidad Local, la Delegación del Gobierno de la Junta de Andalucía lo remitirá, en su caso, en el plazo de cinco días, a las Delegaciones Provinciales de las Consejerías que puedan resultar competentes por razón de la materia. Dicha remisión se llevará a cabo de acuerdo con lo previsto en el artículo 4. #### Artículo 6. Obtención de información.
 
 La Administración de la Junta de Andalucía, a través de la correspondiente Delegación del Gobierno o de las Delegaciones Provinciales de las distintas Consejerías, podrá solicitar de las Entidades Locales la emisión de informes e incluso la exhibición de expedientes cuando, habiéndose tenido conocimiento de alguna actuación de la Entidad Local andaluza, ésta no hubiese remitido el correspondiente acto o acuerdo en el plazo que señala el artículo 2.1, o asimismo solicitar la ampliación de la información remitida.
 

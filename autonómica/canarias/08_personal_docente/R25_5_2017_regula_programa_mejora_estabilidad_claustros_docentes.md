@@ -1,7 +1,9 @@
 ---
 id: norm-can-res-juriscan-75818-136
 codigo_sintetizado: Resolucion BOC 136
-titulo: Resolución de 25 de mayo de 2017, por la que se regula el Programa de Mejora de la Estabilidad de Claustros Docentes Inestables, así como el procedimiento de provisión de sus plazas (BOC nº 106, de 5 de junio).
+titulo: Resolución de 25 de mayo de 2017, por la que se regula el Programa de Mejora
+  de la Estabilidad de Claustros Docentes Inestables, así como el procedimiento de
+  provisión de sus plazas (BOC nº 106, de 5 de junio).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Personal y Formación del Profesorado
@@ -13,28 +15,28 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Funcionarios interinos
 tags:
-  - admision-alumnado
-  - autonomia-centro
-  - equipos-directivos
-  - funcionarios-interinos
-  - interinos
-  - plantillas-docentes
-  - profesorado
+- admision-alumnado
+- autonomia-centro
+- equipos-directivos
+- funcionarios-interinos
+- interinos
+- plantillas-docentes
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-135-2016
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
   desarrolla:
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-d-135-2016
+  - '1'
+  - norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-106-2687.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=75818
 ---
@@ -94,9 +96,7 @@ Noveno.- Exclusión del Programa de Mejora de la Estabilidad de Claustros Docent
 
 #### Décimo. Régimen transitorio.
 
-1. Periodo transitorio. De acuerdo con lo expuesto en la justificación inicial de la presente Resolución, se hace necesario realizar una redistribución de las plazas actuales del programa PROMECI para el periodo transitorio que comprende los cursos escolares 2017/2018 y 2018/2019. Dicha redistribución se realizará desde la participación en la convocatoria anual de adjudicación de destinos provisionales para el curso 2017/2018, y podrá continuar en la adjudicación de destinos provisionales del 2018/2019.
-
-2. Plazas PROMECI curso 2017/2018. Los centros que figuran en la Resolución de la Dirección General de Personal, de fecha 17 de abril de 2015 (BOC nº 80, de 28 de abril), por la que se determina el Programa de Mejora de la Estabilidad de Claustros Docentes Inestables, y que, en virtud de la presente resolución, serán modificados para el curso 2017/2018, son los que figuran en al anexo.
+1. Periodo transitorio. De acuerdo con lo expuesto en la justificación inicial de la presente Resolución, se hace necesario realizar una redistribución de las plazas actuales del programa PROMECI para el periodo transitorio que comprende los cursos escolares 2017/2018 y 2018/2019. Dicha redistribución se realizará desde la participación en la convocatoria anual de adjudicación de destinos provisionales para el curso 2017/2018, y podrá continuar en la adjudicación de destinos provisionales del 2018/2019. 2. Plazas PROMECI curso 2017/2018. Los centros que figuran en la Resolución de la Dirección General de Personal, de fecha 17 de abril de 2015 (BOC nº 80, de 28 de abril), por la que se determina el Programa de Mejora de la Estabilidad de Claustros Docentes Inestables, y que, en virtud de la presente resolución, serán modificados para el curso 2017/2018, son los que figuran en al anexo.
 
 3. Procedimiento de redistribución de la plaza asignada en la convocatoria de PROMECI, procedimiento anual de adjudicación de destinos provisionales durante el régimen transitorio. Se procederá conforme a lo establecido en los apartados octavo y noveno de la presente resolución.
 

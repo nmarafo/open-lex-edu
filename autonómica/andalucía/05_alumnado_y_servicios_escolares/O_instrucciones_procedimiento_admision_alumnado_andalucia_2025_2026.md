@@ -1,10 +1,12 @@
 ---
 id: norm-and-o-admision-alumnado-2025-2026
 codigo_sintetizado: O_Instrucciones Admision Alumnado 2025-2026 Andalucia
-titulo: Orden por la que se desarrollan los procedimientos de admisión del alumnado en los centros docentes públicos y privados concertados para el curso escolar 2025-2026.
+titulo: Orden por la que se desarrollan los procedimientos de admisión del alumnado
+  en los centros docentes públicos y privados concertados para el curso escolar 2025-2026.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: Admisión 2025-2026
 fecha_disposicion: '2025-02-14'
@@ -18,22 +20,20 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión de alumnado
 tags:
-  - admision
-  - escolarizacion
-  - matriculacion
-  - curso_2025_2026
-  - andalucia
+- admision
+- escolarizacion
+- matriculacion
+- curso_2025_2026
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
-# Orden por la que se desarrollan los procedimientos de admisión del alumnado en los centros docentes públicos y privados concertados para el curso escolar 2025-2026.
-
-## Preámbulo
+# Orden por la que se desarrollan los procedimientos de admisión del alumnado en los centros docentes públicos y privados concertados para el curso escolar 2025-2026. ## Preámbulo
 
 Home - Escolarización 2026/2027 - Educación
 

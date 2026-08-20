@@ -1,7 +1,8 @@
 ---
 id: norm-es-lo-1-1996
 codigo_sintetizado: LO1_1996 Proteccion Juridica del Menor
-titulo: Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil.
+titulo: Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de
+  modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil.
 jurisdiccion: España
 ambito: Estatal
 organo_emisor: Jefatura del Estado / Cortes Generales
@@ -18,80 +19,80 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Protección jurídica de menores
 tags:
-  - derechos-infancia
-  - protecci-n-jur-dica-de-menores
-  - proteccion-menores
-  - titulacion
-  - tutela-guarda
+- derechos-infancia
+- protecci-n-jur-dica-de-menores
+- proteccion-menores
+- titulacion
+- tutela-guarda
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-lo-1-1982
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-1-1982
   fundamento_de:
-    - norma_id: norm-es-2004-15601
-    - norma_id: norm-es-2015-8222
-    - norma_id: norm-es-2015-8470
-    - norma_id: norm-es-2021-11382
-    - norma_id: norm-es-lo-3-2018
-    - norma_id: norm-es-lo-5-2000
-    - norma_id: norm-es-lo-8-2021
-    - norma_id: norm-can-res-juriscan-69937-120
-    - norma_id: norm-can-res-125
-    - norma_id: norm-can-o-7-6-2007
-    - norma_id: norm-can-d-25-2018
-    - norma_id: norm-can-o-1-9-2010
-    - norma_id: norm-can-res-juriscan-64838-121
-    - norma_id: norm-can-d-23-1995
-    - norma_id: norm-can-res-juriscan-72882-123
-    - norma_id: norm-can-l-16-2003
-    - norma_id: norm-can-res-boc-2018-086-122
-    - norma_id: norm-can-res-boc-2018-124-126
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-can-r-inclusión-neae-2025-2026
-    - norma_id: norm-can-d-114-2011
-    - norma_id: norm-and-d19-2007
-    - norma_id: norm-mad-d-23-2023
-    - norma_id: norm-and-o-15-1-2021
-    - norma_id: norm-mad-o1149-2018
-    - norma_id: norm-and-d147-2002
-    - norma_id: norm-mad-d32-2019
-    - norma_id: norm-mad-o1493-2015
-    - norma_id: norm-and-d-19-2007
-    - norma_id: norm-mad-d64-2025
-    - norma_id: norm-mad-o2742-2022
-    - norma_id: norm-mad-d-32-2019
-    - norma_id: norm-and-l9-1999
-    - norma_id: norm-mad-d23-2023
-    - norma_id: norm-and-d-147-2002
-    - norma_id: norm-mad-o-1605-2024
-    - norma_id: norm-and-d-254-2001
-    - norma_id: norm-mad-o-276-2019
-    - norma_id: norm-and-o-18-6-2001
-    - norma_id: norm-and-d-1-2011
-    - norma_id: norm-and-d-276-1987
-    - norma_id: norm-mad-o-1050-2020
-    - norma_id: norm-and-o-20-6-2011
-    - norma_id: norm-and-o-25-7-2008
-    - norma_id: norm-mad-r-acoso-2022
-    - norma_id: norm-and-d-167-2003
-    - norma_id: norm-and-o-3-1-2000
-    - norma_id: norm-and-r-28-8-2002
-    - norma_id: norm-and-o-31-5-1994
-    - norma_id: norm-mad-o-3210-2021
-    - norma_id: norm-and-d-85-1999
-    - norma_id: norm-mad-o-1240-2013
-    - norma_id: norm-and-r-14-12-2009
-    - norma_id: norm-and-o-24-7-2006
-    - norma_id: norm-and-o-19-9-2002
-    - norma_id: norm-mad-o-3622-2014
-    - norma_id: norm-and-d-166-2003
+  - norma_id: norm-es-2004-15601
+  - norma_id: norm-es-2015-8222
+  - norma_id: norm-es-2015-8470
+  - norma_id: norm-es-2021-11382
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-lo-5-2000
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-can-res-juriscan-69937-120
+  - norma_id: norm-can-res-125
+  - norma_id: norm-can-o-7-6-2007
+  - norma_id: norm-can-d-25-2018
+  - norma_id: norm-can-o-1-9-2010
+  - norma_id: norm-can-res-juriscan-64838-121
+  - norma_id: norm-can-d-23-1995
+  - norma_id: norm-can-res-juriscan-72882-123
+  - norma_id: norm-can-l-16-2003
+  - norma_id: norm-can-res-boc-2018-086-122
+  - norma_id: norm-can-res-boc-2018-124-126
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-r-inclusión-neae-2025-2026
+  - norma_id: norm-can-d-114-2011
+  - norma_id: norm-and-d19-2007
+  - norma_id: norm-mad-d-23-2023
+  - norma_id: norm-and-o-15-1-2021
+  - norma_id: norm-mad-o1149-2018
+  - norma_id: norm-and-d147-2002
+  - norma_id: norm-mad-d32-2019
+  - norma_id: norm-mad-o1493-2015
+  - norma_id: norm-and-d-19-2007
+  - norma_id: norm-mad-d64-2025
+  - norma_id: norm-mad-o2742-2022
+  - norma_id: norm-mad-d-32-2019
+  - norma_id: norm-and-l9-1999
+  - norma_id: norm-mad-d23-2023
+  - norma_id: norm-and-d-147-2002
+  - norma_id: norm-mad-o-1605-2024
+  - norma_id: norm-and-d-254-2001
+  - norma_id: norm-mad-o-276-2019
+  - norma_id: norm-and-o-18-6-2001
+  - norma_id: norm-and-d-1-2011
+  - norma_id: norm-and-d-276-1987
+  - norma_id: norm-mad-o-1050-2020
+  - norma_id: norm-and-o-20-6-2011
+  - norma_id: norm-and-o-25-7-2008
+  - norma_id: norm-mad-r-acoso-2022
+  - norma_id: norm-and-d-167-2003
+  - norma_id: norm-and-o-3-1-2000
+  - norma_id: norm-and-r-28-8-2002
+  - norma_id: norm-and-o-31-5-1994
+  - norma_id: norm-mad-o-3210-2021
+  - norma_id: norm-and-d-85-1999
+  - norma_id: norm-mad-o-1240-2013
+  - norma_id: norm-and-r-14-12-2009
+  - norma_id: norm-and-o-24-7-2006
+  - norma_id: norm-and-o-19-9-2002
+  - norma_id: norm-mad-o-3622-2014
+  - norma_id: norm-and-d-166-2003
   desarrollado_por:
-    - norma_id: norm-can-l-1-1997
+  - norma_id: norm-can-l-1-1997
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '39'
-    - norma_id: norm-es-lo-1-1982
+  - '39'
+  - norma_id: norm-es-lo-1-1982
 ---
 # Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil.
 
@@ -524,9 +525,7 @@ l) Los acogedores familiares tendrán las mismas obligaciones respecto del menor
 
 #### Artículo 20 ter. Tramitación de las solicitudes de acogimiento transfronterizo de personas.
 
-menores de edad en España remitidas por un Estado miembro de la Unión Europea o por un Estado parte del Convenio de La Haya de 1996.
-
-1. El Ministerio de Justicia, en su calidad de Autoridad Central Española, será la autoridad competente para recibir las solicitudes de acogimiento transfronterizo de personas menores de edad procedentes de un Estado miembro de la Unión Europea o de un Estado parte del Convenio de La Haya de 1996. Dichas solicitudes deberán ser remitidas por la Autoridad Central del Estado requirente al objeto de obtener la preceptiva autorización de las autoridades españolas competentes con carácter previo a que se pueda producir el acogimiento.
+menores de edad en España remitidas por un Estado miembro de la Unión Europea o por un Estado parte del Convenio de La Haya de 1996. 1. El Ministerio de Justicia, en su calidad de Autoridad Central Española, será la autoridad competente para recibir las solicitudes de acogimiento transfronterizo de personas menores de edad procedentes de un Estado miembro de la Unión Europea o de un Estado parte del Convenio de La Haya de 1996. Dichas solicitudes deberán ser remitidas por la Autoridad Central del Estado requirente al objeto de obtener la preceptiva autorización de las autoridades españolas competentes con carácter previo a que se pueda producir el acogimiento.
 
 2. Las solicitudes de acogimiento deberán realizarse por escrito y acompañarse de los documentos que la Autoridad Central española requiera para valorar la idoneidad de la medida en beneficio de la persona menor de edad y la aptitud del establecimiento o familia para llevar a cabo dicho acogimiento. En todo caso, además de la requerida por la normativa internacional aplicable, deberá aportarse un informe sobre el niño, niña o adolescente, los motivos de su propuesta de acogimiento, la modalidad de acogimiento, la duración del mismo y cómo se prevé hacer seguimiento de la medida.
 
@@ -546,9 +545,7 @@ d) No se haya respetado el derecho fundamental de la persona menor de edad a ser
 
 #### Artículo 20 quinquies. Del procedimiento para la transmisión de las solicitudes de.
 
-acogimiento transfronterizo de personas menores de edad desde España a otro Estado miembro de la Unión Europea o a un Estado parte del Convenio de La Haya de 1996.
-
-1. Las solicitudes de acogimiento transfronterizo que soliciten las Autoridades competentes en materia de protección de personas menores de edad se remitirán por escrito a la Autoridad Central española, que las transmitirá a las autoridades competentes del Estado miembro requerido para su tramitación.
+acogimiento transfronterizo de personas menores de edad desde España a otro Estado miembro de la Unión Europea o a un Estado parte del Convenio de La Haya de 1996. 1. Las solicitudes de acogimiento transfronterizo que soliciten las Autoridades competentes en materia de protección de personas menores de edad se remitirán por escrito a la Autoridad Central española, que las transmitirá a las autoridades competentes del Estado miembro requerido para su tramitación.
 
 2. La tramitación y aprobación de dichas solicitudes se regirá por el Derecho Nacional del Estado miembro requerido.
 
@@ -869,9 +866,7 @@ Código Civil quedará redactado como sigue:
 #### Disposición final duodécima. El primer párrafo del artículo 211 l.
 
 Código Civil tendrá la siguiente redacción:
-«El internamiento por razón de trastorno psíquico, de una persona que no esté en condiciones de decidirlo por sí, aunque esté sometida a la patria potestad, requerirá autorización judicial. Esta será previa al internamiento, salvo que razones de urgencia hiciesen necesaria la inmediata adopción de la medida, de la que se dará cuenta cuanto antes al Juez y, en todo caso, dentro del plazo de veinticuatro horas. El internamiento de menores, se realizará en todo caso en un establecimiento de salud mental adecuado a su edad, previo informe de los servicios de asistencia al menor.» Se declara inconstitucional, con el efecto establecido en el fundamento jurídico 6, por Sentencia del TC 131/2010, de 2 de diciembre. Ref. BOE-A-2011-273.
-
-#### Disposición final decimotercera. El artículo 216 l.
+«El internamiento por razón de trastorno psíquico, de una persona que no esté en condiciones de decidirlo por sí, aunque esté sometida a la patria potestad, requerirá autorización judicial. Esta será previa al internamiento, salvo que razones de urgencia hiciesen necesaria la inmediata adopción de la medida, de la que se dará cuenta cuanto antes al Juez y, en todo caso, dentro del plazo de veinticuatro horas. El internamiento de menores, se realizará en todo caso en un establecimiento de salud mental adecuado a su edad, previo informe de los servicios de asistencia al menor.» Se declara inconstitucional, con el efecto establecido en el fundamento jurídico 6, por Sentencia del TC 131/2010, de 2 de diciembre. Ref. BOE-A-2011-273. #### Disposición final decimotercera. El artículo 216 l.
 
 Código Civil tendrá un segundo párrafo con la siguiente redacción:
 «Las medidas y disposiciones previstas en el artículo 158 de este Código podrán ser acordadas también por el Juez, de oficio o a instancia de cualquier interesado, en todos los supuestos de tutela o guarda, de hecho o de derecho, de menores e incapaces, en cuanto lo requiera el interés de éstos.»
@@ -907,33 +902,23 @@ Párrafo segundo del artículo 166:
 «Los padres deberán recabar autorización judicial para repudiar la herencia o legado deferidos al hijo. Si el Juez denegase la autorización, la herencia sólo podrá ser aceptada a beneficio de inventario.» Párrafo segundo del artículo 185:
 «Serán aplicables a los representantes dativos del ausente, en cuanto se adapten a su especial representación, los preceptos que regulan el ejercicio de la tutela y las causas de inhabilidad, remoción y excusa de los tutores.»
 
-#### Artículo 271.
-
-«El tutor necesita autorización judicial:
+#### Artículo 271. «El tutor necesita autorización judicial:
 1.º Para internar al tutelado en un establecimiento de salud mental o de educación o formación especial. 2.º Para enajenar o gravar bienes inmuebles, establecimientos mercantiles o industriales, objetos preciosos y valores mobiliarios de los menores o incapacitados, o celebrar contratos o realizar actos que tengan carácter dispositivo y sean susceptibles de inscripción. Se exceptúa la venta del derecho de suscripción preferente de acciones. 3.º Para renunciar derechos, así como transigir o someter a arbitraje cuestiones en que el tutelado estuviese interesado. 4.º Para aceptar sin beneficio de inventario cualquier herencia, o para repudiar ésta o las liberalidades. 5.º Para hacer gastos extraordinarios en los bienes. 6.º Para entablar demanda en nombre de los sujetos a tutela, salvo en los asuntos urgentes o de escasa cuantía. 7.º Para ceder bienes en arrendamiento por tiempo superior a seis años. 8.º Para dar y tomar dinero a préstamo. 9.º Para disponer a título gratuito de bienes o derechos del tutelado.
 
 10. Para ceder a terceros los créditos que el tutelado tenga contra él, o adquirir a
 título oneroso los créditos de terceros contra el tutelado.»
 
-#### Artículo 272.
+#### Artículo 272. «No necesitarán autorización judicial la partición de herencia ni la división de cosa común realizadas por el tutor, pero una vez practicadas requerirán aprobación judicial.»
 
-«No necesitarán autorización judicial la partición de herencia ni la división de cosa común realizadas por el tutor, pero una vez practicadas requerirán aprobación judicial.»
-
-#### Artículo 273.
-
-«Antes de autorizar o aprobar cualquiera de los actos comprendidos en los dos artículos anteriores, el Juez oirá al Ministerio Fiscal y al tutelado, si fuese mayor de doce años o lo considera oportuno, y recabará los informes que le sean solicitados o estime pertinentes.»
+#### Artículo 273. «Antes de autorizar o aprobar cualquiera de los actos comprendidos en los dos artículos anteriores, el Juez oirá al Ministerio Fiscal y al tutelado, si fuese mayor de doce años o lo considera oportuno, y recabará los informes que le sean solicitados o estime pertinentes.»
 
 #### Artículo 300.
 
 «El Juez, en procedimiento de jurisdicción voluntaria, de oficio o a petición del Ministerio Fiscal, del propio menor o de cualquier persona capaz de comparecer en juicio, nombrará defensor a quien estime más idóneo para el cargo.»
 
-#### Artículo 753.
+#### Artículo 753. «Tampoco surtirá efecto la disposición testamentaria en favor de quien sea tutor o curador del testador, salvo cuando se haya hecho después de aprobadas definitivamente las cuentas o, en el caso en que no tuviese que rendirse éstas, después de la extinción de la tutela o curatela. Serán, sin embargo, válidas las disposiciones hechas en favor del tutor o curador que sea ascendiente, descendiente, hermano, hermana o cónyuge del testador.»
 
-«Tampoco surtirá efecto la disposición testamentaria en favor de quien sea tutor o curador del testador, salvo cuando se haya hecho después de aprobadas definitivamente las cuentas o, en el caso en que no tuviese que rendirse éstas, después de la extinción de la tutela o curatela. Serán, sin embargo, válidas las disposiciones hechas en favor del tutor o curador que sea ascendiente, descendiente, hermano, hermana o cónyuge del testador.»
-
-#### Artículo 996.
-
-«Si la sentencia de incapacitación por enfermedades o deficiencias físicas o psíquicas no dispusiere otra cosa, el sometido a curatela podrá, asistido del curador, aceptar la herencia pura y simplemente o a beneficio de inventario.» Párrafo tercero del artículo 1.057:
+#### Artículo 996. «Si la sentencia de incapacitación por enfermedades o deficiencias físicas o psíquicas no dispusiere otra cosa, el sometido a curatela podrá, asistido del curador, aceptar la herencia pura y simplemente o a beneficio de inventario.» Párrafo tercero del artículo 1.057:
 «Lo dispuesto en este artículo y en el anterior se observará aunque entre los coherederos haya alguno sometido a patria potestad o tutela, o a curatela por prodigalidad o por enfermedades o deficiencias físicas o psíquicas; pero el contador partidor deberá en estos casos inventariar los bienes de la herencia, con citación de los representantes legales o curadores de dichas personas.»
 
 #### Artículo 1. 329:

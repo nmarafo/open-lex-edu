@@ -1,7 +1,8 @@
 ---
 id: norm-can-d-106-2009
 codigo_sintetizado: D106_2009 Funcion Directiva en Centros Docentes Publicos
-titulo: Decreto 106/2009, de 28 de julio, por el que se regula la función directiva en los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
+titulo: Decreto 106/2009, de 28 de julio, por el que se regula la función directiva
+  en los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Gobierno de Canarias / Consejería de Educación
@@ -19,38 +20,35 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Función directiva y liderazgo
 tags:
-  - autonomia-gestion
-  - becas-y-ayudas
-  - equipos-directivos
-  - funci-n-directiva-y-liderazgo
-  - funcion-directiva
-  - profesorado
-  - seleccion-directores
+- autonomia-gestion
+- becas-y-ayudas
+- equipos-directivos
+- funci-n-directiva-y-liderazgo
+- funcion-directiva
+- profesorado
+- seleccion-directores
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
   fundamento_de:
-    - norma_id: norm-can-d-81-2010
-    - norma_id: norm-can-o-2013-10-09
-    - norma_id: norm-can-res-095
-    - norma_id: norm-can-res-boc-2017-132-1
-    - norma_id: norm-can-res-boc-2018-124-126
-    - norma_id: norm-can-res-boc-2023-133-57
-    - norma_id: norm-can-res-boc-2026-046-139
-    - norma_id: norm-can-res-juriscan-66772-94
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-can-res-095
+  - norma_id: norm-can-res-boc-2017-132-1
+  - norma_id: norm-can-res-boc-2018-124-126
+  - norma_id: norm-can-res-boc-2023-133-57
+  - norma_id: norm-can-res-boc-2026-046-139
+  - norma_id: norm-can-res-juriscan-66772-94
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '62'
-    - norma_id: norm-es-lo-2-2006
-  articulos:
-    - '131'
-    - '132'
+  - '131'
+  - '132'
 anexos_extraidos_pdf: true
 ---
 # Decreto 106/2009, de 28 de julio, por el que se regula la función directiva en los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
@@ -85,9 +83,7 @@ Reglamento (CE) 1698/2005, del Consejo, de 20 de septiembre, relativo a la ayuda
 
 Segundo.- En el artículo 39 l.
 
-Reglamento (CE) 1974/2006, de la Comisión, de 15 de diciembre, por el que se aprueban disposiciones de aplicación del Reglamento (CE) 1698/2005 (DO L 368, de 23.12.06), se dispone que la cooperación entrañará la participación de al menos un Grupo de Acción Local seleccionado en virtud del Eje 4 (LEADER), y que serán éstos los que han de asumir la responsabilidad y coordinación en la ejecución de los proyectos correspondientes, sin perjuicio de que también puedan participar como socios las asociaciones de los sectores público y privado a que se refiere la letra e) del artículo 59 del Reglamento (CE) 1698/2005.
-
-Tercero.- En coherencia con lo que dispone el "Plan Estratégico Nacional de Desarrollo Rural para 2007-2013" y el "Marco Nacional de Desarrollo Rural 2007-2013", en la Medida 421 del "Programa de Desarrollo Rural de Canarias, PDR 2007-2013" se han previsto las subvenciones que se han de convocar en régimen de concurrencia competitiva para contribuir a la financiación de las actuaciones de cooperación que se acometan en esta Comunidad Autónoma (Cooperación Intrautonómica) con la finalidad, entre otras, de intercambiar experiencias y de poner en común los conocimientos técnicos y los recursos humanos y financieros dispersos en cada una de las comarcas de aplicación, de tal manera que se aprovechen y rentabilicen las complementariedades y los efectos sinérgicos resultantes de la interrelación entre los programas que cada Grupo de Acción Local viene desarrollando en su ámbito insular.
+Reglamento (CE) 1974/2006, de la Comisión, de 15 de diciembre, por el que se aprueban disposiciones de aplicación del Reglamento (CE) 1698/2005 (DO L 368, de 23.12.06), se dispone que la cooperación entrañará la participación de al menos un Grupo de Acción Local seleccionado en virtud del Eje 4 (LEADER), y que serán éstos los que han de asumir la responsabilidad y coordinación en la ejecución de los proyectos correspondientes, sin perjuicio de que también puedan participar como socios las asociaciones de los sectores público y privado a que se refiere la letra e) del artículo 59 del Reglamento (CE) 1698/2005. Tercero.- En coherencia con lo que dispone el "Plan Estratégico Nacional de Desarrollo Rural para 2007-2013" y el "Marco Nacional de Desarrollo Rural 2007-2013", en la Medida 421 del "Programa de Desarrollo Rural de Canarias, PDR 2007-2013" se han previsto las subvenciones que se han de convocar en régimen de concurrencia competitiva para contribuir a la financiación de las actuaciones de cooperación que se acometan en esta Comunidad Autónoma (Cooperación Intrautonómica) con la finalidad, entre otras, de intercambiar experiencias y de poner en común los conocimientos técnicos y los recursos humanos y financieros dispersos en cada una de las comarcas de aplicación, de tal manera que se aprovechen y rentabilicen las complementariedades y los efectos sinérgicos resultantes de la interrelación entre los programas que cada Grupo de Acción Local viene desarrollando en su ámbito insular.
 
 Cuarto.- En la Ley 5/2008, de 23 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Canarias para 2009 (B.O.C. nº 261, de 31.12.08), existe crédito suficiente para atender las subvenciones que se convocan. Dichos créditos están cofinanciados por la Comisión Europea a través del Fondo Europeo Agrícola de Desarrollo Rural (FEADER) en un 85%.
 
@@ -117,9 +113,7 @@ Cuarto.- La presente resolución producirá sus efectos al día siguiente de su 
 
 Contra la presente resolución, que agota la vía administrativa, podrá interponerse recurso contencioso-administrativo ante la Sala correspondiente del Tribunal Superior de Justicia de Canarias en el plazo de dos meses contados a partir del día siguiente a su publicación, sin perjuicio de que pueda interponerse recurso potestativo de reposición ante este Órgano, en el plazo de un mes contado a partir del día siguiente a la publicación de la misma, con los efectos previstos en los artículos 116 y 117 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
-Santa Cruz de Tenerife, a 28 de julio de 2009.
-
-LA CONSEJERA DE AGRICULTURA,
+Santa Cruz de Tenerife, a 28 de julio de 2009. LA CONSEJERA DE AGRICULTURA,
 
 GANADERÍA, PESCA Y ALIMENTACIÓN,
 
@@ -127,9 +121,7 @@ María del Pilar Merino Troncoso.
 
 ## Anexo
 
-BASES DE LA CONVOCATORIA DE 2009 DE LAS SUBVENCIONES A LA COOPERACIÓN INTRAUTONÓMICA PREVISTAS EN LA MEDIDA 421 (COOPERACIÓN) DEL PROGRAMA DE DESARROLLO RURAL DE CANARIAS, PDR 2007-2013.
-
-Base 1.- Objeto y finalidad.
+BASES DE LA CONVOCATORIA DE 2009 DE LAS SUBVENCIONES A LA COOPERACIÓN INTRAUTONÓMICA PREVISTAS EN LA MEDIDA 421 (COOPERACIÓN) DEL PROGRAMA DE DESARROLLO RURAL DE CANARIAS, PDR 2007-2013. Base 1.- Objeto y finalidad.
 
 1. Es objeto de las presentes bases establecer las normas por las que ha de regirse la convocatoria de las subvenciones previstas en la Medida 421 (Cooperación) del Programa de Desarrollo Rural de Canarias, PDR 2007-2013, las cuales tendrán la denominación de Subvenciones a la Cooperación Intrautonómica.
 
@@ -205,9 +197,7 @@ Base 2.- Requisitos.
 
 a) Haber sido seleccionados en virtud de la Orden de 7 de noviembre de 2008, de la Consejería de Agricultura, Ganadería, Pesca y Alimentación del Gobierno de Canarias, por la que se resuelve la Orden de 31 de julio de 2008, que convoca concurso para la selección de las zonas de actuación, de los programas comarcales de desarrollo rural y de los grupos de acción local responsables de la gestión de las ayudas del eje 4 (Leader) del Programa de Desarrollo Rural de Canarias, PDR 2007-2013 (B.O.C. nº 229, de 14.11.08).
 
-b) Que el proyecto de cooperación para el que se solicita subvención haya comenzado con posterioridad al 1 de enero de 2009.
-
-2. No podrá obtener la condición de beneficiario el Grupo de Acción Local en el que concurra alguna de las circunstancias previstas en el artículo 13.2 de la Ley 38/2003, General de Subvenciones.
+b) Que el proyecto de cooperación para el que se solicita subvención haya comenzado con posterioridad al 1 de enero de 2009. 2. No podrá obtener la condición de beneficiario el Grupo de Acción Local en el que concurra alguna de las circunstancias previstas en el artículo 13.2 de la Ley 38/2003, General de Subvenciones.
 
 3. El Grupo de Acción Local solicitante de la subvención ha de comprometerse a ejercer la condición de coordinador en los términos a que se refiere el artículo 39.1 del Reglamento (CE) nº 1974/2006, y llevará a cabo bajo la coordinación y supervisión del proyecto.
 
@@ -325,15 +315,11 @@ Dicha resolución será notificada a los interesados mediante su publicación en
 
 Base 8.- Condiciones a que se sujeta la concesión.
 
-El proyecto de cooperación ha de realizarse dentro del plazo que se establezca en la Resolución de concesión y sin que el mismo supere el 18 de diciembre de 2009.
-
-Base 9.- Abono de las subvenciones.
+El proyecto de cooperación ha de realizarse dentro del plazo que se establezca en la Resolución de concesión y sin que el mismo supere el 18 de diciembre de 2009. Base 9.- Abono de las subvenciones.
 
 1. Con carácter general, las subvenciones se abonarán una vez que los beneficiarios hayan presentado la justificación de los gastos y acrediten la finalización de la actuación y la consecución de los objetivos fijados.
 
-2. La fase de abono se iniciará mediante la comunicación del beneficiario a la Dirección General de Desarrollo Rural de la realización o adopción de la conducta objeto de subvención. Dicha comunicación irá acompañada de los medios de justificación que se señalan en la base 11.
-
-3. En el supuesto de que los gastos realizados por el interesado fuesen inferiores a los aprobados, como consecuencia de una disminución del coste de la actividad realizada, se abonará la subvención en proporción a lo debidamente justificado, no alterando por ello el porcentaje inicial de la subvención concedida, y siempre que se cumpla, a juicio del órgano concedente, con el objeto y la finalidad de la convocatoria.
+2. La fase de abono se iniciará mediante la comunicación del beneficiario a la Dirección General de Desarrollo Rural de la realización o adopción de la conducta objeto de subvención. Dicha comunicación irá acompañada de los medios de justificación que se señalan en la base 11. 3. En el supuesto de que los gastos realizados por el interesado fuesen inferiores a los aprobados, como consecuencia de una disminución del coste de la actividad realizada, se abonará la subvención en proporción a lo debidamente justificado, no alterando por ello el porcentaje inicial de la subvención concedida, y siempre que se cumpla, a juicio del órgano concedente, con el objeto y la finalidad de la convocatoria.
 
 4. Deberá incorporarse al expediente que se tramite para el pago total o parcial de la subvención, certificación expedida por la Dirección General de Desarrollo Rural, en la que quede de manifiesto:
 
@@ -355,9 +341,7 @@ Base 11.- Plazos y medios de justificación.
 
 1. Se entiende por justificación de las subvenciones la acreditación del empleo de los fondos públicos recibidos en la realización de la actividad o en la adopción de la conducta subvencionada.
 
-2. El plazo de justificación de la subvención se establecerá en la Resolución de concesión, sin que en ningún caso pueda superar el 22 de diciembre de 2009.
-
-3. Los medios de justificación de la subvención serán los documentos civiles, mercantiles o laborales que resulten procedentes, de acuerdo con el destino de la subvención concedida.
+2. El plazo de justificación de la subvención se establecerá en la Resolución de concesión, sin que en ningún caso pueda superar el 22 de diciembre de 2009. 3. Los medios de justificación de la subvención serán los documentos civiles, mercantiles o laborales que resulten procedentes, de acuerdo con el destino de la subvención concedida.
 
 4. Se considerarán medios de justificación preferentes:
 
@@ -369,9 +353,7 @@ Base 11.- Plazos y medios de justificación.
 
 6. En relación con lo que exige el apartado ñ) del artículo 10 l.
 
-Decreto 36/2009, de 31 de marzo, los beneficiarios han de dar publicidad del carácter público de la financiación de los proyectos de cooperación aprobados, siéndoles de aplicación las normas a que se refiere el artículo 58.3 del Reglamento (CE) 1974/2006 de la Comisión, de 15 de diciembre, por el que se establecen disposiciones de aplicación del Reglamento (CE) 1698/2005.
-
-Base 12.- Obligaciones de los beneficiarios.
+Decreto 36/2009, de 31 de marzo, los beneficiarios han de dar publicidad del carácter público de la financiación de los proyectos de cooperación aprobados, siéndoles de aplicación las normas a que se refiere el artículo 58.3 del Reglamento (CE) 1974/2006 de la Comisión, de 15 de diciembre, por el que se establecen disposiciones de aplicación del Reglamento (CE) 1698/2005. Base 12.- Obligaciones de los beneficiarios.
 
 Los beneficiarios de las subvenciones reguladas en estas bases estarán sujetos al cumplimiento de las siguientes obligaciones:
 
@@ -395,9 +377,7 @@ Los beneficiarios de las subvenciones reguladas en estas bases estarán sujetos 
 
 10. Comunicar al órgano concedente las alteraciones que se produzcan en las circunstancias y requisitos subjetivos y objetivos tenidos en cuenta para la concesión de las ayudas.
 
-11. Conservar la documentación justificativa de la subvención durante un plazo de cinco años contados desde la finalización del plazo de justificación previsto en el apartado 2 de la base 11.
-
-Base 13.- Incompatibilidad de las subvenciones.
+11. Conservar la documentación justificativa de la subvención durante un plazo de cinco años contados desde la finalización del plazo de justificación previsto en el apartado 2 de la base 11. Base 13.- Incompatibilidad de las subvenciones.
 
 Las subvenciones objeto de esta convocatoria son incompatibles con otras ayudas o subvenciones, ingresos o recursos para la misma finalidad concedidos por cualquier Administración, Entes públicos o privados, nacionales, de la Unión Europea o de organismos internacionales.
 

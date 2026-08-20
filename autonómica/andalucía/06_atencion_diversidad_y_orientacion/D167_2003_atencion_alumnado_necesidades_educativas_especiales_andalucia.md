@@ -1,10 +1,13 @@
 ---
 id: norm-and-d-167-2003
-codigo_sintetizado: D167_2003 Atencion Alumnado Necesidades Educativas Especiales Andalucía
-titulo: Decreto 167/2003, de 17 de junio, por el que se establece la ordenación de la atención educativa al alumnado con necesidades educativas especiales.
+codigo_sintetizado: D167_2003 Atencion Alumnado Necesidades Educativas Especiales
+  Andalucía
+titulo: Decreto 167/2003, de 17 de junio, por el que se establece la ordenación de
+  la atención educativa al alumnado con necesidades educativas especiales.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 167/2003
 fecha_disposicion: '2003-06-17'
@@ -18,17 +21,17 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Atención a la diversidad
 tags:
-  - nee
-  - educacion_especial
-  - adaptaciones
-  - andalucia
+- nee
+- educacion_especial
+- adaptaciones
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-1-1996
 ---
 # Decreto 167/2003, de 17 de junio, por el que se establece la ordenación de la atención educativa al alumnado con necesidades educativas especiales.
 
@@ -125,9 +128,7 @@ Página núm.
 
 1. Los campamentos de turismo ostentarán alguna de las siguientes categorías: Lujo, Primera, Segunda y Tercera.
 
-2. Las categorías se otorgarán por el titular de la correspondiente Delegación Provincial de la Consejería de Turismo y Deporte en función de la calidad de las instalaciones y servicios de que dispongan, atendiendo a los requisitos que para cada una de ellas se detallan en el Anexo 1.
-
-#### Artículo 8. Modalidades.
+2. Las categorías se otorgarán por el titular de la correspondiente Delegación Provincial de la Consejería de Turismo y Deporte en función de la calidad de las instalaciones y servicios de que dispongan, atendiendo a los requisitos que para cada una de ellas se detallan en el Anexo 1. #### Artículo 8. Modalidades.
 
 1. Los campamentos de turismo, en relación con la ubicación de sus instalaciones, se clasifican en una de las siguientes modalidades:
 a) **Playa.** Se clasifican en esta modalidad aquellos campamentos de turismo situados en la Zona de Influencia del Litoral según define el artículo
@@ -297,9 +298,7 @@ c) Circulación prohibida durante las horas de descanso fijadas en el reglamento
 
 4. Conforme a lo previsto en la Ley 5/1998, de 23 de noviembre, de uso en Andalucía de perros-guía por personas con disfunciones visuales, todas las personas con disfunción visual, total o severa, que vayan acompañadas de perros guía
 
-Sevilla, 27 de junio 2003 Página núm. 14.243 pueden acceder, deambular y permanecer en los campamentos de turismo en condiciones de igualdad con el resto de la ciudadanía. Este derecho de acceso, deambulación y permanencia se entenderá integrado por la constante permanencia del perro guía junto a su dueño, sin traba que pueda llegar a producir interrupción en la permanencia o distancia en la asistencia, exceptuándose los casos de grave peligro inminente para cualquier otra tercera persona, para la propia persona ayudada por el perro-guía o para la integridad del propio perro-guía, y quedando limitado, asimismo, el ejercicio del derecho de admisión por las prescripciones establecidas en la referida Ley 5/1998.
-
-#### Sección 2. ª Requisitos de seguridad, de suministros
+Sevilla, 27 de junio 2003 Página núm. 14.243 pueden acceder, deambular y permanecer en los campamentos de turismo en condiciones de igualdad con el resto de la ciudadanía. Este derecho de acceso, deambulación y permanencia se entenderá integrado por la constante permanencia del perro guía junto a su dueño, sin traba que pueda llegar a producir interrupción en la permanencia o distancia en la asistencia, exceptuándose los casos de grave peligro inminente para cualquier otra tercera persona, para la propia persona ayudada por el perro-guía o para la integridad del propio perro-guía, y quedando limitado, asimismo, el ejercicio del derecho de admisión por las prescripciones establecidas en la referida Ley 5/1998. #### Sección 2. ª Requisitos de seguridad, de suministros
 
 y de tratamiento de residuos
 
@@ -530,9 +529,7 @@ g) Cuantas otras instrucciones se consideren oportunas para un uso racional y ap
 
 Sevilla, 27 de junio 2003 Página núm. 14.247
 
-2. En particular, de acuerdo con el artículo 59.8 la citada Ley, constituye infracción leve el incumplimiento de la prohibición de acampada libre contemplada en el artículo 3.
-
-#### Disposición adicional primera. Delegación de competencias.
+2. En particular, de acuerdo con el artículo 59.8 la citada Ley, constituye infracción leve el incumplimiento de la prohibición de acampada libre contemplada en el artículo 3. #### Disposición adicional primera. Delegación de competencias.
 
 1. En virtud de los artículos 4.1.g) y 52.2 de la Ley del Turismo y del 27 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, el titular de la Consejería de Turismo y Deporte podrá delegar en los Municipios, previa aceptación de los mismos, la facultad de inspección y sanción respecto de quienes practiquen la acampada libre en su término municipal.
 
@@ -628,9 +625,7 @@ a) La contratación del seguro de responsabilidad civil (artículo 11.2.a).
 b) La designación de Director del establecimiento (artículo 11.2.f).
 c) La entrega del folleto informativo a los usuarios del campamento (artículo 42).
 
-2. En el mismo plazo establecido en el apartado anterior, las Delegaciones Provinciales de Turismo y Deporte procederán, previa audiencia de los interesados, a comunicarles la modalidad en que se clasifican en virtud de lo establecido en el artículo 8, así como la capacidad máxima de alojamiento que resulte de la aplicación del nuevo criterio de cálculo contenido en el artículo 15.
-
-3. Se establece un plazo de un año desde la entrada en vigor del presente Decreto para la elaboración de un Plan de Autoprotección (artículo 25.4).
+2. En el mismo plazo establecido en el apartado anterior, las Delegaciones Provinciales de Turismo y Deporte procederán, previa audiencia de los interesados, a comunicarles la modalidad en que se clasifican en virtud de lo establecido en el artículo 8, así como la capacidad máxima de alojamiento que resulte de la aplicación del nuevo criterio de cálculo contenido en el artículo 15. 3. Se establece un plazo de un año desde la entrada en vigor del presente Decreto para la elaboración de un Plan de Autoprotección (artículo 25.4).
 
 4. Se establece un plazo de dos años desde la entrada en vigor del presente Decreto para que los campamentos ya inscritos definitivamente procedan, en su caso, a adaptar sus infraestructuras a los requisitos exigidos en el mismo con relación a:
 a) La reserva de espacios libres y zonas deportivas (artículo 14.3).

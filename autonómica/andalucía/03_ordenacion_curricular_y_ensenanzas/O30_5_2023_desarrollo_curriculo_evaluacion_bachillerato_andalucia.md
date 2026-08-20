@@ -1,10 +1,14 @@
 ---
 id: norm-and-o-30-5-2023-bach
 codigo_sintetizado: O30_5_2023 Desarrollo Curriculo y Evaluacion Bachillerato Andalucia
-titulo: Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la etapa de Bachillerato en la Comunidad Autónoma de Andalucía, se regulan determinados aspectos de la atención a la diversidad y se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado.
+titulo: Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente
+  a la etapa de Bachillerato en la Comunidad Autónoma de Andalucía, se regulan determinados
+  aspectos de la atención a la diversidad y se establece la ordenación de la evaluación
+  del proceso de aprendizaje del alumnado.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 30/05/2023
 fecha_disposicion: '2023-05-30'
@@ -18,17 +22,17 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Bachillerato
 tags:
-  - curriculo_bachillerato
-  - evaluacion_bachillerato
-  - titulacion_bachillerato
-  - andalucia
+- curriculo_bachillerato
+- evaluacion_bachillerato
+- titulacion_bachillerato
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la etapa de Bachillerato en la Comunidad Autónoma de Andalucía, se regulan determinados aspectos de la atención a la diversidad y se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado.
 
@@ -80,9 +84,7 @@ Histórico del BOJA Boletín número 104 de 02/06/2023
 
 Orden de 26 de mayo de 2023, por la que se modifica la Orden de 27 de septiembre de 2022, por la que se convocan para el año 2022, las ayudas previstas en la Orden de 2 de septiembre de 2022, por la que se establecen las bases reguladoras para la concesión de ayudas en régimen de concurrencia no competitiva, por la paralización temporal de la actividad pesquera de la flota pesquera y marisquera con puerto base en Andalucía, en el marco del Programa Operativo del Fondo Europeo Marítimo y de la Pesca (2014-2020), en relación con la parada temporal de la flota marisquera autorizada al uso de draga hidráulica y rastro remolcado, dedicada a la captura de la chirla en el caladero Golfo de Cádiz, que ha tenido lugar del 2 de marzo al 30 de junio de 2022, y su Extracto.
 
-Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="3-verificacion"> Verificación de autenticidad con CVE 00284635.
-
-Mediante la Orden de 27 de septiembre de 2022, de la Consejería de Agricultura, Pesca, Agua y Desarrollo Rural, publicada en el
+Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="3-verificacion"> Verificación de autenticidad con CVE 00284635. Mediante la Orden de 27 de septiembre de 2022, de la Consejería de Agricultura, Pesca, Agua y Desarrollo Rural, publicada en el
 
 El apartado 4 del resuelvo primero de la referida orden recoge que aquellos armadores y tripulantes que no puedan cobrar todos días subvencionables de la parada realizada con cargo al Fondo Europeo Marítimo y de Pesca (FEMP) por sobrepasar con ello el máximo de días subvencionables con este fondo, se les subvencionará la parada con cargo al Fondo Europeo Marítimo de Pesca y de Acuicultura (FEMPA).
 
@@ -94,9 +96,7 @@ Texto Refundido de la Ley General de la Hacienda Publica de la Comunidad Autóno
 
 RESUELVO:
 
-Primero. La modificación de la Orden de 27 de septiembre de 2022, por la que se convocan para el año 2022, las ayudas previstas en la Orden de 2 de septiembre de 2022, por la que se establecen las bases reguladoras para la concesión de ayudas en régimen de concurrencia no competitiva, por la paralización temporal de la actividad pesquera de la flota pesquera y marisquera con puerto base en Andalucía, en el marco del Programa Operativo del Fondo Europeo Marítimo y de la Pesca (2014-2020), en relación con la parada temporal de la flota marisquera autorizada al uso de draga hidráulica y rastro remolcado, dedicada a la captura de la chirla en el caladero Golfo de Cádiz, que ha tenido lugar del 2 de marzo al 30 de junio de 2022.
-
-Se modifican los apartados 1 y 2 del resuelvo primero, que quedan redactados como sigue:
+Primero. La modificación de la Orden de 27 de septiembre de 2022, por la que se convocan para el año 2022, las ayudas previstas en la Orden de 2 de septiembre de 2022, por la que se establecen las bases reguladoras para la concesión de ayudas en régimen de concurrencia no competitiva, por la paralización temporal de la actividad pesquera de la flota pesquera y marisquera con puerto base en Andalucía, en el marco del Programa Operativo del Fondo Europeo Marítimo y de la Pesca (2014-2020), en relación con la parada temporal de la flota marisquera autorizada al uso de draga hidráulica y rastro remolcado, dedicada a la captura de la chirla en el caladero Golfo de Cádiz, que ha tenido lugar del 2 de marzo al 30 de junio de 2022. Se modifican los apartados 1 y 2 del resuelvo primero, que quedan redactados como sigue:
 
 «1.Se convocan en régimen de concurrencia no competitiva, para el año 2022, las ayudas destinadas a la paralización temporal de la flota de artes menores, en la modalidad de draga hidráulica y rastro remolcado, afectada por el Plan de Gestión para la captura de la chirla (Chamelea gallina) en el litoral del Golfo de Cádiz de Andalucía, reguladas en la Orden de 2 de septiembre de 2022, por la que se establecen las bases reguladoras para la concesión de ayudas en régimen de concurrencia no competitiva, por la paralización temporal de la actividad pesquera de la flota pesquera y marisquera con puerto base en Andalucía, en el marco del Programa Operativo del Fondo Europeo Marítimo y de Pesca (2014-2020), en la cuantía total máxima que se especifica y con arreglo a los créditos presupuestarios que asimismo se indican:
 
@@ -116,9 +116,7 @@ Los créditos que subvencionan las paradas temporales de la actividad pesquera c
 
 En el caso de que se produzca un eventual aumento de crédito máximo disponible para esta convocatoria y sin necesidad de que se dicte una nueva convocatoria, se podrá dictar una resolución de concesión de la subvención, incorporando en esta resolución a los solicitantes que, cumpliendo los requisitos necesarios para tener la consideración de persona beneficiaria, no hubieran obtenido tal condición por haberse agotado el crédito consignado inicialmente, conforme a lo dispuesto en el artículo 10.e) del Reglamento de los Procedimientos de Concesión de Subvenciones de la Administración de la Junta de Andalucía.»
 
-Segundo. La modificación del Extracto de la Orden de 27 de septiembre de 2022, por la que se convocan para el año 2022, las ayudas previstas en la Orden de 2 de septiembre de 2022, por la que se establecen las bases reguladoras para la concesión de ayudas en régimen de concurrencia no competitiva, por la paralización temporal de la actividad pesquera de la flota pesquera y marisquera con puerto base en Andalucía, en el marco del Programa Operativo del Fondo Europeo Marítimo y de la Pesca (2014-2020), en relación con la parada temporal de la flota marisquera autorizada al uso de draga hidráulica y rastro remolcado, dedicada a la captura de la chirla en el caladero Golfo de Cádiz, que ha tenido lugar del 2 de marzo al 30 de junio de 2022.
-
-Se modifica el punto 1 del apartado primero, que queda redactado como sigue:
+Segundo. La modificación del Extracto de la Orden de 27 de septiembre de 2022, por la que se convocan para el año 2022, las ayudas previstas en la Orden de 2 de septiembre de 2022, por la que se establecen las bases reguladoras para la concesión de ayudas en régimen de concurrencia no competitiva, por la paralización temporal de la actividad pesquera de la flota pesquera y marisquera con puerto base en Andalucía, en el marco del Programa Operativo del Fondo Europeo Marítimo y de la Pesca (2014-2020), en relación con la parada temporal de la flota marisquera autorizada al uso de draga hidráulica y rastro remolcado, dedicada a la captura de la chirla en el caladero Golfo de Cádiz, que ha tenido lugar del 2 de marzo al 30 de junio de 2022. Se modifica el punto 1 del apartado primero, que queda redactado como sigue:
 
 «1.Se convocan en régimen de concurrencia no competitiva, para el año 2022, las ayudas destinadas a la paralización temporal de la flota de artes menores, en la modalidad de draga hidráulica y rastro remolcado, afectada por el Plan de Gestión para la captura de la chirla (Chamelea gallina) en el litoral del Golfo de Cádiz de Andalucía, reguladas en la Orden de 2 de septiembre de 2022, por la que se establecen las bases reguladoras para la concesión de ayudas en régimen de concurrencia no competitiva, por la paralización temporal de la actividad pesquera de la flota pesquera y marisquera con puerto base en Andalucía, en el marco del Programa Operativo del Fondo Europeo Marítimo y de Pesca (2014-2020), en la cuantía total máxima que se especifica y con arreglo a los créditos presupuestarios que asimismo se indican:
 

@@ -1,10 +1,13 @@
 ---
 id: norm-es-2010-10321
 codigo_sintetizado: BOE-A-2010-10321
-titulo: Real Decreto 828/2010, de 25 de junio, de traspaso a la Comunidad Autónoma de Canarias de los medios adscritos a la gestión de las prestaciones sanitarias del Seguro Escolar.
+titulo: Real Decreto 828/2010, de 25 de junio, de traspaso a la Comunidad Autónoma
+  de Canarias de los medios adscritos a la gestión de las prestaciones sanitarias
+  del Seguro Escolar.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2010-06-29'
 boletin: BOE
@@ -15,28 +18,25 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Seguro escolar
 tags:
-  - autonomia-centro
-  - bachillerato
-  - becas-y-ayudas
-  - ensenanzas-universitarias
-  - eso
-  - fp-basica
-  - proteccion-menores
-  - seguro-escolar
+- autonomia-centro
+- bachillerato
+- becas-y-ayudas
+- ensenanzas-universitarias
+- eso
+- fp-basica
+- proteccion-menores
+- seguro-escolar
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-can-lo-1-2018
-  articulos:
-    - '136'
+  - '136'
 ---
 # Real Decreto 828/2010, de 25 de junio, de traspaso a la Comunidad Autónoma de Canarias de los medios adscritos a la gestión de las prestaciones sanitarias del Seguro Escolar.
 
@@ -58,23 +58,15 @@ En su virtud, a propuesta del Ministro de Política Territorial, y previa delibe
 
 **DISPONGO:**
 
-#### Artículo 1.
+#### Artículo 1. Se aprueba el Acuerdo de la Comisión Mixta de Transferencias Administración del Estado-Comunidad Autónoma Canarias, adoptado por el Pleno en su reunión del día 17 de junio de 2010, por el que se traspasa a la Comunidad Autónoma de Canarias los medios adscritos a la gestión de las prestaciones sanitarias del Seguro Escolar, artículo 2 en consecuencia, quedan traspasados a la Comunidad Autónoma de Canarias las funciones y los créditos presupuestarios determinados que figuran en el propio acuerdo de la Comisión Mixta de Transferencias Administración del Estado-Comunidad Autónoma de Canarias.
 
-Se aprueba el Acuerdo de la Comisión Mixta de Transferencias Administración del Estado-Comunidad Autónoma Canarias, adoptado por el Pleno en su reunión del día 17 de junio de 2010, por el que se traspasa a la Comunidad Autónoma de Canarias los medios adscritos a la gestión de las prestaciones sanitarias del Seguro Escolar, artículo 2 en consecuencia, quedan traspasados a la Comunidad Autónoma de Canarias las funciones y los créditos presupuestarios determinados que figuran en el propio acuerdo de la Comisión Mixta de Transferencias Administración del Estado-Comunidad Autónoma de Canarias.
+#### Artículo 3. El traspaso a que se refiere este real decreto tendrá efectividad a partir del día señalado en el acuerdo de la Comisión Mixta.
 
-#### Artículo 3.
-
-El traspaso a que se refiere este real decreto tendrá efectividad a partir del día señalado en el acuerdo de la Comisión Mixta.
-
-#### Artículo 4.
-
-Los créditos presupuestarios que se determinan, de conformidad con la relación número 1 del anexo, serán dados de baja en los correspondientes conceptos presupuestarios y transferidos por el Ministerio de Economía y Hacienda a los conceptos habilitados en la sección 32 de los Presupuestos Generales del Estado, destinados a financiar el coste de los servicios asumidos por las comunidades autónomas, una vez se remitan al departamento citado, por parte del Ministerio de Educación, los certificados de retención de crédito, para dar cumplimiento a lo dispuesto en la normativa vigente sobre Presupuestos Generales del Estado.
+#### Artículo 4. Los créditos presupuestarios que se determinan, de conformidad con la relación número 1 del anexo, serán dados de baja en los correspondientes conceptos presupuestarios y transferidos por el Ministerio de Economía y Hacienda a los conceptos habilitados en la sección 32 de los Presupuestos Generales del Estado, destinados a financiar el coste de los servicios asumidos por las comunidades autónomas, una vez se remitan al departamento citado, por parte del Ministerio de Educación, los certificados de retención de crédito, para dar cumplimiento a lo dispuesto en la normativa vigente sobre Presupuestos Generales del Estado.
 
 #### Disposición final única. Entrada en vigor.
 
-Dado en Madrid, el 25 de junio de 2010.
-
-JUAN CARLOS R.
+Dado en Madrid, el 25 de junio de 2010. JUAN CARLOS R.
 
 El Vicepresidente Tercero del Gobierno y Ministro de Política Territorial,
 
@@ -126,15 +118,11 @@ D) Valoración de las cargas financieras de los servicios traspasados.
 
 1. La valoración provisional, en valores del año base 2007, que corresponde al coste efectivo anual de las funciones y servicios que se traspasan a la Comunidad Autónoma de Canarias se eleva a 235.833,33 euros. Dicha valoración será objeto de revisión en los términos establecidos en el artículo 21.1 de la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con estatuto de Autonomía y se modifican determinadas normas tributarias.
 
-2. La financiación, en euros de 2010, que corresponde al coste efectivo anual es la que se recoge en la relación n.º 1.
-
-3. Transitoriamente, hasta tanto se produzca la revisión del Fondo de Suficiencia Global como consecuencia de la incorporación al mismo del coste efectivo del traspaso, este coste se financiará mediante la consolidación en la Sección 32 de los Presupuestos Generales del Estado, de los créditos relativos a los distintos componentes de dicho coste, por los importes que se determinen, susceptibles de actualización por los mecanismos generales previstos en cada Ley de Presupuestos Generales del Estado.
+2. La financiación, en euros de 2010, que corresponde al coste efectivo anual es la que se recoge en la relación n.º 1. 3. Transitoriamente, hasta tanto se produzca la revisión del Fondo de Suficiencia Global como consecuencia de la incorporación al mismo del coste efectivo del traspaso, este coste se financiará mediante la consolidación en la Sección 32 de los Presupuestos Generales del Estado, de los créditos relativos a los distintos componentes de dicho coste, por los importes que se determinen, susceptibles de actualización por los mecanismos generales previstos en cada Ley de Presupuestos Generales del Estado.
 
 E) Fecha de efectividad del traspaso.
 
-El traspaso de funciones y servicios, objeto de este Acuerdo, tendrá efectividad a partir del 1 de julio de 2010.
-
-Y para que conste, expedimos la presente certificación en Las Palmas de Gran Canaria, a 17 de junio de 2010.–Los Secretarios de la Comisión Mixta, Carmen Cuesta Gil y José Javier Torres Lana.
+El traspaso de funciones y servicios, objeto de este Acuerdo, tendrá efectividad a partir del 1 de julio de 2010. Y para que conste, expedimos la presente certificación en Las Palmas de Gran Canaria, a 17 de junio de 2010.–Los Secretarios de la Comisión Mixta, Carmen Cuesta Gil y José Javier Torres Lana.
 
 **RELACIÓN NÚMERO 1**
 
@@ -142,9 +130,7 @@ Y para que conste, expedimos la presente certificación en Las Palmas de Gran Ca
 
 Créditos del Ministerio de Educación (euros 2010)
 
-Aplicación presupuestaria: 18.04.324M.487.02.
-
-Total coste efectivo: 201.236,58 euros.
+Aplicación presupuestaria: 18.04.324M.487.02. Total coste efectivo: 201.236,58 euros.
 
 ## Relaciones Normativas y Fundamentos de Derecho
 

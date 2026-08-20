@@ -1,10 +1,12 @@
 ---
 id: norm-and-o-12-7-2004
 codigo_sintetizado: O12_7_2004 Pruebas Acceso Artes Plasticas y Diseño Andalucía
-titulo: Orden de 12 de julio de 2004, por la que se regulan las pruebas de acceso a los ciclos de Artes Plásticas y Diseño.
+titulo: Orden de 12 de julio de 2004, por la que se regulan las pruebas de acceso
+  a los ciclos de Artes Plásticas y Diseño.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 12/07/2004
 fecha_disposicion: '2004-07-12'
@@ -18,17 +20,17 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Artísticas
 tags:
-  - artes_plasticas
-  - diseño
-  - pruebas_acceso
-  - andalucia
+- artes_plasticas
+- diseño
+- pruebas_acceso
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Orden de 12 de julio de 2004, por la que se regulan las pruebas de acceso a los ciclos de Artes Plásticas y Diseño.
 
@@ -134,8 +136,7 @@ c) Prestar a cualquier persona que haya sido víctima de un delito asistencia ps
 d) Facilitar información y llevar a cabo la gestión de recursos sociales, tales como prestaciones económicas, orientación laboral, vivienda, salud, educación y aquellos otros a los que la víctima pudiera acceder.
 
 7. Centro de Menores Infractores San Francisco de Asís:
-a) Poner a disposición un mínimo de 40 plazas en régimen semiabierto, para el internamiento de menores y jóvenes, en cumplimiento de las resoluciones judiciales de los Juzgados de Menores de la Comunidad Autónoma Andaluza. Dirección: C/ Periodista Federico Alba núm. 1 Torremolinos (29620). Teléfonos: 952 38 09 16. Fax: 952 05 08 44.
-b) Programar y desarrollar actividades personalizadas de carácter educativo, formativo y terapéutico, que permitan la reeducación y normalización de los menores y jóvenes internos.
+a) Poner a disposición un mínimo de 40 plazas en régimen semiabierto, para el internamiento de menores y jóvenes, en cumplimiento de las resoluciones judiciales de los Juzgados de Menores de la Comunidad Autónoma Andaluza. Dirección: C/ Periodista Federico Alba núm. 1 Torremolinos (29620). Teléfonos: 952 38 09 16. Fax: 952 05 08 44. b) Programar y desarrollar actividades personalizadas de carácter educativo, formativo y terapéutico, que permitan la reeducación y normalización de los menores y jóvenes internos.
 
 8. Servicios que presta el Servicio de personal:
 a) Convocar y resolver los concursos de méritos y demás procedimientos de provisión de puestos de trabajo de la Delegación.

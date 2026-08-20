@@ -1,10 +1,13 @@
 ---
 id: norm-and-d-436-2008
 codigo_sintetizado: D436_2008 Ordenacion Educacion Personas Adultas Andalucia
-titulo: Decreto 436/2008, de 2 de septiembre, por el que se establece la ordenación y las enseñanzas de la Educación de Personas Adultas en la Comunidad Autónoma de Andalucía.
+titulo: Decreto 436/2008, de 2 de septiembre, por el que se establece la ordenación
+  y las enseñanzas de la Educación de Personas Adultas en la Comunidad Autónoma de
+  Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 436/2008
 fecha_disposicion: '2008-09-02'
@@ -18,18 +21,18 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación de Adultos
 tags:
-  - educacion_adultos
-  - esa
-  - bachillerato_adultos
-  - esperanza
-  - andalucia
+- educacion_adultos
+- esa
+- bachillerato_adultos
+- esperanza
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Decreto 436/2008, de 2 de septiembre, por el que se establece la ordenación y las enseñanzas de la Educación de Personas Adultas en la Comunidad Autónoma de Andalucía.
 
@@ -186,9 +189,7 @@ A fin de promover los principios de igualdad de oportunidades, no discriminació
 
 La Consejería competente en materia de educación podrá ofertar a personas adultas las enseñanzas de formación
 
-Sevilla, 12 de septiembre 2008 Página núm. 9 profesional inicial de forma completa o parcial y, asimismo, en ambos casos y en aquellos módulos profesionales que sea posible, podrán desarrollarse en las modalidades referidas en el artículo 5.
-
-#### Artículo 19. Requisitos de acceso para personas adultas.
+Sevilla, 12 de septiembre 2008 Página núm. 9 profesional inicial de forma completa o parcial y, asimismo, en ambos casos y en aquellos módulos profesionales que sea posible, podrán desarrollarse en las modalidades referidas en el artículo 5. #### Artículo 19. Requisitos de acceso para personas adultas.
 
 1. Para cursar las enseñanzas a las que se refiere el artículo anterior, además de los requisitos académicos de acceso establecidos con carácter general en el capítulo II, será necesario tener cumplidos dieciocho años o cumplir esa edad dentro del año natural en que comienza el curso escolar.
 
@@ -197,15 +198,11 @@ a) Desarrollar una actividad laboral por cuenta propia o ajena que no les permit
 b) Ser deportistas de alto rendimiento, en los términos establecidos en el Real Decreto 971/2007, de 13 de julio, sobre deportistas de alto nivel y alto rendimiento.
 c) Encontrarse en situación personal extraordinaria de enfermedad, discapacidad o cualquier otra situación de carácter excepcional que le impida cursar las enseñanzas en régimen ordinario. En el caso de que el alumno o la alumna alegue encontrarse en esta situación, la autorización para matricularse en estas enseñanzas corresponderá a la persona titular de la Delegación Provincial de la Consejería competente en materia de educación, de acuerdo con el procedimiento que, a tales efectos, se establezca.
 
-3. Asimismo, podrán acceder a módulos profesionales incluidos en títulos asociados a unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales, regulado mediante el Real Decreto 1128/2003, de 5 de septiembre, personas adultas que no reúnan los requisitos de acceso a los que hacen referencia los artículos 7 y 8.
-
-#### Artículo 20. Flexibilidad.
+3. Asimismo, podrán acceder a módulos profesionales incluidos en títulos asociados a unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales, regulado mediante el Real Decreto 1128/2003, de 5 de septiembre, personas adultas que no reúnan los requisitos de acceso a los que hacen referencia los artículos 7 y 8. #### Artículo 20. Flexibilidad.
 
 1. La matrícula en módulos profesionales de ciclos formativos podrá simultanearse con matrículas en otras enseñanzas del sistema educativo en las condiciones que la Consejería competente en materia de educación determine.
 
-2. Asimismo, el alumnado que se encuentre matriculado en módulos profesionales podrá cursar cada uno de ellos en las distintas modalidades de enseñanza a que se refiere el artículo 5.
-
-3. La Consejería competente en materia de educación podrá autorizar la impartición de módulos profesionales en periodos lectivos diferentes a los establecidos con carácter general, para responder a necesidades específicas del sistema productivo.
+2. Asimismo, el alumnado que se encuentre matriculado en módulos profesionales podrá cursar cada uno de ellos en las distintas modalidades de enseñanza a que se refiere el artículo 5. 3. La Consejería competente en materia de educación podrá autorizar la impartición de módulos profesionales en periodos lectivos diferentes a los establecidos con carácter general, para responder a necesidades específicas del sistema productivo.
 
 #### Artículo 21. Pruebas para la obtención de los títulos de Técnico. y Técnico Superior.
 

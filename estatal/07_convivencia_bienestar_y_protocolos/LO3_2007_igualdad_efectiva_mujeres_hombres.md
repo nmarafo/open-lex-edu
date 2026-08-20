@@ -1,10 +1,12 @@
 ---
 id: norm-es-2007-6115
 codigo_sintetizado: BOE-A-2007-6115
-titulo: Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+titulo: Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres
+  y hombres.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2007-03-23'
 boletin: BOE
@@ -15,39 +17,39 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Igualdad de género y diversidad
 tags:
-  - equipos-directivos
-  - evaluacion
-  - igualdad-de-g-nero-y-diversidad
-  - igualdad-genero
-  - neae
-  - oposiciones
+- equipos-directivos
+- evaluacion
+- igualdad-de-g-nero-y-diversidad
+- igualdad-genero
+- neae
+- oposiciones
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-1984-17387
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-l-31-1995
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-31-1995
   fundamento_de:
-    - norma_id: norm-es-2010-13564
-    - norma_id: norm-es-2010-4518
-    - norma_id: norm-es-2011-12632
-    - norma_id: norm-es-2011-17560
-    - norma_id: norm-es-2013-10219
-    - norma_id: norm-es-2022-11589
-    - norma_id: norm-es-2026-2622
-    - norma_id: norm-es-l-9-2017
-    - norma_id: norm-es-lo-10-2022
-    - norma_id: norm-es-rdl-2-2015
-    - norma_id: norm-can-o-2023-09-28
-    - norma_id: norm-can-res-boc-2018-124-126
-    - norma_id: norm-can-res-125
+  - norma_id: norm-es-2010-13564
+  - norma_id: norm-es-2010-4518
+  - norma_id: norm-es-2011-12632
+  - norma_id: norm-es-2011-17560
+  - norma_id: norm-es-2013-10219
+  - norma_id: norm-es-2022-11589
+  - norma_id: norm-es-2026-2622
+  - norma_id: norm-es-l-9-2017
+  - norma_id: norm-es-lo-10-2022
+  - norma_id: norm-es-rdl-2-2015
+  - norma_id: norm-can-o-2023-09-28
+  - norma_id: norm-can-res-boc-2018-124-126
+  - norma_id: norm-can-res-125
   desarrollado_por: []
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-can-l-16-2003
-    - norma_id: norm-es-1984-17387
-    - norma_id: norm-es-l-31-1995
+  - '27'
+  - norma_id: norm-can-l-16-2003
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-l-31-1995
 ---
 # Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
 
@@ -267,9 +269,7 @@ El Gobierno, en el presente año 2007, desarrollará reglamentariamente la Ley d
 
 #### Disposición transitoria décima. primera.
 
-El Gobierno, en el presente año 2007, regulará el Fondo de Garantía previsto en la disposición adicional única de la Ley 8/2005, de 8 de julio, que modifica el Código civil y la Ley de Enjuiciamiento Civil en materia de separación y divorcio, creado y dotado inicialmente en la disposición adicional quincuagésima tercera de la Ley 42/2006, de 28 de diciembre, de Presupuestos Generales del Estado para el año 2007.
-
-#### Disposición derogatoria única.
+El Gobierno, en el presente año 2007, regulará el Fondo de Garantía previsto en la disposición adicional única de la Ley 8/2005, de 8 de julio, que modifica el Código civil y la Ley de Enjuiciamiento Civil en materia de separación y divorcio, creado y dotado inicialmente en la disposición adicional quincuagésima tercera de la Ley 42/2006, de 28 de diciembre, de Presupuestos Generales del Estado para el año 2007. #### Disposición derogatoria única.
 
 Quedan derogadas cuantas normas de igual o inferior rango se opongan o contradigan lo dispuesto en la presente Ley.
 
@@ -329,9 +329,7 @@ Por tanto,
 
 Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley orgánica.
 
-Madrid, 22 de marzo de 2007.
-
-JUAN CARLOS R.
+Madrid, 22 de marzo de 2007. JUAN CARLOS R.
 
 El Presidente del Gobierno,
 

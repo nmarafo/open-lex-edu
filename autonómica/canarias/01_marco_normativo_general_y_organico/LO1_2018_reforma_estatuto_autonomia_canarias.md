@@ -1,7 +1,8 @@
 ---
 id: norm-can-lo-1-2018
 codigo_sintetizado: LO1_2018 Estatuto de Autonomia de Canarias
-titulo: Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias.
+titulo: Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de Autonomía
+  de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Parlamento de Canarias / Gobierno de Canarias
@@ -19,59 +20,59 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Marco normativo general
 tags:
-  - autonomia-centro
-  - competencias-educacion
-  - curriculo
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - estatuto-autonomia
-  - marco-normativo-general
-  - titulacion
+- autonomia-centro
+- competencias-educacion
+- curriculo
+- ensenanzas-deportivas
+- equipos-directivos
+- estatuto-autonomia
+- marco-normativo-general
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-can-l-6-2014
   fundamento_de:
-    - norma_id: norm-can-d-114-2011
-    - norma_id: norm-can-d-123-2023
-    - norma_id: norm-can-l-1-1997
-    - norma_id: norm-can-l-14-1990
-    - norma_id: norm-can-l-16-2003
-    - norma_id: norm-can-l-2-1987
-    - norma_id: norm-can-l-4-2023
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-res-030
-    - norma_id: norm-can-res-032
-    - norma_id: norm-can-res-033
-    - norma_id: norm-can-res-034
-    - norma_id: norm-can-res-035
-    - norma_id: norm-can-res-036
-    - norma_id: norm-can-res-037
-    - norma_id: norm-can-res-038
-    - norma_id: norm-can-res-039
-    - norma_id: norm-can-res-042
-    - norma_id: norm-can-res-043
-    - norma_id: norm-can-res-boc-2024-117-93
-    - norma_id: norm-can-res-boc-2024-226-44
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-can-res-boc-2025-046-47
-    - norma_id: norm-can-res-boc-2026-039-102
-    - norma_id: norm-can-res-boc-2026-070-115
-    - norma_id: norm-can-res-boc-2026-070-116
-    - norma_id: norm-can-res-boc-2026-070-41
-    - norma_id: norm-can-res-boc-2026-109-92
-    - norma_id: norm-can-res-boc-2026-129-26
-    - norma_id: norm-can-res-boc-2026-141-29
+  - norma_id: norm-can-d-114-2011
+  - norma_id: norm-can-d-123-2023
+  - norma_id: norm-can-l-1-1997
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-l-16-2003
+  - norma_id: norm-can-l-2-1987
+  - norma_id: norm-can-l-4-2023
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-030
+  - norma_id: norm-can-res-032
+  - norma_id: norm-can-res-033
+  - norma_id: norm-can-res-034
+  - norma_id: norm-can-res-035
+  - norma_id: norm-can-res-036
+  - norma_id: norm-can-res-037
+  - norma_id: norm-can-res-038
+  - norma_id: norm-can-res-039
+  - norma_id: norm-can-res-042
+  - norma_id: norm-can-res-043
+  - norma_id: norm-can-res-boc-2024-117-93
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-boc-2025-046-47
+  - norma_id: norm-can-res-boc-2026-039-102
+  - norma_id: norm-can-res-boc-2026-070-115
+  - norma_id: norm-can-res-boc-2026-070-116
+  - norma_id: norm-can-res-boc-2026-070-41
+  - norma_id: norm-can-res-boc-2026-109-92
+  - norma_id: norm-can-res-boc-2026-129-26
+  - norma_id: norm-can-res-boc-2026-141-29
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '147'
+  - '147'
 ocr_procesado: true
 motor_ocr: rapidocr_onnxruntime
 ---
@@ -2058,9 +2059,7 @@ presente Estatuto, se fija en setenta el número de diputados y diputadas del Pa
 
 3. A efectos de la elección en la circunscripción autonómica, sólo serán tenidas en cuenta aquellas listas de partido o coalición que hubieran obtenido, al menos, el 4 por 100 de los votos válidos emitidos en la totalidad de la Comunidad Autónoma.
 
-4. El Parlamento de Canarias elaborará, en un plazo no superior a tres años desde la entrada en vigor del presente Estatuto de Autonomía, la ley a que se refiere el artículo 39.2.
-
-#### Disposición transitoria segunda. Régimen transitorio de los cabildos insulares.
+4. El Parlamento de Canarias elaborará, en un plazo no superior a tres años desde la entrada en vigor del presente Estatuto de Autonomía, la ley a que se refiere el artículo 39.2. #### Disposición transitoria segunda. Régimen transitorio de los cabildos insulares.
 
 Hasta tanto no se desarrollen las prescripciones del título III del presente Estatuto y en lo que no se oponga a lo establecido en el mismo, los cabildos insulares se regirán por la normativa vigente, que seguirá teniendo carácter supletorio.
 Disposición derogatoria. Derogación de la Ley Orgánica 10/1982, de 10 de agosto, modificada por la Ley Orgánica 4/1996, de 30 de diciembre. Queda derogada la Ley Orgánica 10/1982, de 10 de agosto, de Estatuto de Autonomía para Canarias, modificada por la Ley Orgánica 4/1996, de 30 de diciembre.
@@ -2110,8 +2109,6 @@ Latitud N Longitud W
 
 20. De Punta Grieta a Punta Delgada (Alegranza) 29º 24', 10 13º 29', 40
 * Punto de partida y de cierre de la configuración: Alegranza. Abreviaturas:
-GC: Gran Canaria. TF: Tenerife. EH: El Hierro. LP: La Palma. LZ: Lanzarote. Las coordenadas geográficas han sido tomadas de la carta náutica española 209, edición-denominación: Islas Canarias; fecha de edición: Cádiz 1958, actualización: julio 1992.
-
-## Anexo II
+GC: Gran Canaria. TF: Tenerife. EH: El Hierro. LP: La Palma. LZ: Lanzarote. Las coordenadas geográficas han sido tomadas de la carta náutica española 209, edición-denominación: Islas Canarias; fecha de edición: Cádiz 1958, actualización: julio 1992. ## Anexo II
 
 Mapa del Archipiélago Canario según indica el anexo I Este texto consolidado no tiene valor jurídico.

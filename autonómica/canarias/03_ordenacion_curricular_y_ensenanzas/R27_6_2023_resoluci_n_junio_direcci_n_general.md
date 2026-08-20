@@ -1,7 +1,10 @@
 ---
 id: norm-can-res-boc-2023-133-57
 codigo_sintetizado: Resolucion BOC 57
-titulo: Resolución de 27 de junio de 2023, de la Dirección General de Formación Profesional y Educación de Adultos por la que se dictan instrucciones específicas sobre organización y funcionamiento de la Escuela Oficial de Idiomas a Distancia de Canarias. (BOC n.º 133, de 10 de julio).
+titulo: Resolución de 27 de junio de 2023, de la Dirección General de Formación Profesional
+  y Educación de Adultos por la que se dictan instrucciones específicas sobre organización
+  y funcionamiento de la Escuela Oficial de Idiomas a Distancia de Canarias. (BOC
+  n.º 133, de 10 de julio).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,42 +16,42 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas de Idiomas
 tags:
-  - educacion-personas-adultas
-  - ense-anzas-de-idiomas
-  - ensenanzas-deportivas
-  - eoi
-  - equipos-directivos
-  - evaluacion
-  - formacion-profesional
-  - oposiciones
-  - profesorado
+- educacion-personas-adultas
+- ense-anzas-de-idiomas
+- ensenanzas-deportivas
+- eoi
+- equipos-directivos
+- evaluacion
+- formacion-profesional
+- oposiciones
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-106-2009
-    - norma_id: norm-can-d-212-1991
-    - norma_id: norm-can-d-81-2010
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-o-2013-10-09
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-106-2009
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   fundamento_de:
-    - norma_id: norm-can-res-055
-    - norma_id: norm-can-res-boc-2026-116-87
+  - norma_id: norm-can-res-055
+  - norma_id: norm-can-res-boc-2026-116-87
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-can-d-106-2009
-    - norma_id: norm-can-d-81-2010
-    - norma_id: norm-can-o-2013-10-09
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-d-212-1991
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-106-2009
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-133-2236.pdf
 ---
 # Resolución de 27 de junio de 2023, de la Dirección General de Formación Profesional y Educación de Adultos por la que se dictan instrucciones específicas sobre organización y funcionamiento de la Escuela Oficial de Idiomas a Distancia de Canarias. (BOC n.º 133, de 10 de julio).
@@ -223,9 +226,7 @@ pedagógico como técnico. Por lo tanto, resulta esencial la atención docente c
 
 **10.1.** La jornada laboral semanal del profesorado de la Escuela Oficial de Idiomas a Distancia de Canarias será la establecida en la [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md), por la que se desarrolla el [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, por el que se aprueba el Reglamento Orgánico
 
-de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias, modificada por la Orden de 16 de julio de 2019.
-
-**10.2.** El horario de obligada permanencia en el centro se distribuirá de lunes a viernes y comprenderá una parte lectiva y otra no lectiva.
+de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias, modificada por la Orden de 16 de julio de 2019. **10.2.** El horario de obligada permanencia en el centro se distribuirá de lunes a viernes y comprenderá una parte lectiva y otra no lectiva.
 
 **10.3.** La parte lectiva del horario, de obligada permanencia en el centro, se dedicará a las siguientes actividades:
 a. Sesiones síncronas y asíncronas para el desarrollo del currículo.

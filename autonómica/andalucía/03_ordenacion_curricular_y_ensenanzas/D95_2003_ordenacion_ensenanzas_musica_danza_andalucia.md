@@ -1,10 +1,12 @@
 ---
 id: norm-and-d-95-2003
 codigo_sintetizado: D95_2003 Ordenacion Enseńanzas Musica y Danza Andalucía
-titulo: Decreto 95/2003, de 8 de abril, por el que se establece la ordenación de las Enseñanzas Elementales y Profesionales de Música y Danza.
+titulo: Decreto 95/2003, de 8 de abril, por el que se establece la ordenación de las
+  Enseñanzas Elementales y Profesionales de Música y Danza.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 95/2003
 fecha_disposicion: '2003-04-08'
@@ -18,17 +20,17 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Artísticas
 tags:
-  - musica
-  - danza
-  - conservatorios
-  - andalucia
+- musica
+- danza
+- conservatorios
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Decreto 95/2003, de 8 de abril, por el que se establece la ordenación de las Enseñanzas Elementales y Profesionales de Música y Danza.
 
@@ -53,8 +55,7 @@ Segundo. El Ayuntamiento de Jerez de la Frontera deberá subsanar en la Modifica
 - Localizar los Espacios Libres del oeste del Area objeto de la Modificación en continuidad con los ya calificados así por el Plan General.
 - Considerar como Sistema General de Comunicaciones, con la clasificación adecuada, el suelo afectado directamente por el enlace a la circunvalación de la N-IV propuesta.
 - Clasificar como Sistema General de Espacios Libres, con la clasificación adecuada, los suelos de reserva a los que no se les asigne la condición de vía pecuaria tras el deslinde de la misma.
-- Incorporar al documento la definición de Uso Terciario expresada en el informe del Ayuntamiento de Jerez de la Frontera de septiembre de 2002.
-Tercero. Una vez realizadas las subsanaciones previstas en el apartado segundo, éstas entrarán en vigor tras su aprobación por el Pleno Municipal, debiendo elevarse posteriormente a la Consejería de Obras Públicas y Transportes para su toma de conocimiento.
+- Incorporar al documento la definición de Uso Terciario expresada en el informe del Ayuntamiento de Jerez de la Frontera de septiembre de 2002. Tercero. Una vez realizadas las subsanaciones previstas en el apartado segundo, éstas entrarán en vigor tras su aprobación por el Pleno Municipal, debiendo elevarse posteriormente a la Consejería de Obras Públicas y Transportes para su toma de conocimiento.
 Cuarto. Este Acuerdo se publicará en el Boletín Oficial de la Junta de Andalucía, según lo previsto en el artículo 29 l.
 
 Decreto 77/1994 y se notificará al Ayuntamiento de Jerez de la Frontera. Contra el presente Acuerdo, que pone fin a la vía administrativa, cabe interponer recurso contencioso-administrativo, en el plazo de dos meses contados a partir del día siguiente al de su publicación o, en su caso, notificación, ante la correspondiente Sala del Tribunal Superior de Justicia de Andalucía, de conformidad con lo previsto en los artículos 10 y 46 de la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contenciosa Administrativa y con cumplimiento de los requisitos previstos en la mencionada Ley. Todo ello sin perjuicio de que pueda ejercitar cualquier otro recurso que estime procedente. Sevilla, 15 de abril de 2003 MANUEL CHAVES GONZALEZ Presidente de la Junta de Andalucía CONCEPCION GUTIERREZ DEL CASTILLO Consejera de Obras Públicas y Transportes CAMARA DE CUENTAS DE ANDALUCIA RESOLUCION de 18 de marzo de 2003, por la que se ordena la publicación del Informe de Fiscalización de la Universidad Popular Municipal del Ayuntamiento de Jaén, correspondiente a los ejercicios 1996 a 2000. En virtud de las facultades que me vienen atribuidas por el artículo 21 de la Ley 1/1988, de 17 de marzo, de la Cámara.

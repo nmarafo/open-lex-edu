@@ -18,34 +18,34 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Prevención de riesgos y salud laboral
 tags:
-  - personal-no-docente
-  - prevenci-n-de-riesgos-y-salud-laboral
-  - prevencion-riesgos
-  - prevencion-riesgos-laborales
-  - proteccion-menores
-  - salud-laboral
-  - seguridad-trabajo
+- personal-no-docente
+- prevenci-n-de-riesgos-y-salud-laboral
+- prevencion-riesgos
+- prevencion-riesgos-laborales
+- proteccion-menores
+- salud-laboral
+- seguridad-trabajo
 relaciones:
   desarrollado_por:
-    - norma_id: norm-es-rd-39-1997
-    - norma_id: norm-can-d-168-2009
+  - norma_id: norm-es-rd-39-1997
+  - norma_id: norm-can-d-168-2009
   fundamentado_en:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   fundamento_de:
-    - norma_id: norm-es-2002-12018
-    - norma_id: norm-es-2007-10487
-    - norma_id: norm-es-2007-6115
-    - norma_id: norm-es-2012-8745
-    - norma_id: norm-es-2014-5591
-    - norma_id: norm-es-2015-9462
-    - norma_id: norm-es-2026-12038
-    - norma_id: norm-es-lo-3-2018
-    - norma_id: norm-es-rdl-2-2015
-    - norma_id: norm-can-res-125
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2007-10487
+  - norma_id: norm-es-2007-6115
+  - norma_id: norm-es-2012-8745
+  - norma_id: norm-es-2014-5591
+  - norma_id: norm-es-2015-9462
+  - norma_id: norm-es-2026-12038
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-rdl-2-2015
+  - norma_id: norm-can-res-125
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '40.2'
+  - '40.2'
 ---
 # Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.
 
@@ -657,9 +657,7 @@ c) Distribución de riesgos en la empresa.
 
 #### Artículo 32. Actuación preventiva de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales.
 
-Las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social podrán desarrollar para las empresas a ellas asociadas las funciones correspondientes a los servicios de prevención, con sujeción a lo dispuesto en el apartado 5 del artículo 31.
-
-Los representantes de los empresarios y de los trabajadores tendrán derecho a participar en el control y seguimiento de la gestión desarrollada por las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social en las funciones a que se refiere el párrafo anterior conforme a lo previsto en el artículo 39, cinco, de la Ley 42/1994, de 30 de diciembre, de Medidas fiscales, administrativas y de orden social.
+Las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social podrán desarrollar para las empresas a ellas asociadas las funciones correspondientes a los servicios de prevención, con sujeción a lo dispuesto en el apartado 5 del artículo 31. Los representantes de los empresarios y de los trabajadores tendrán derecho a participar en el control y seguimiento de la gestión desarrollada por las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social en las funciones a que se refiere el párrafo anterior conforme a lo previsto en el artículo 39, cinco, de la Ley 42/1994, de 30 de diciembre, de Medidas fiscales, administrativas y de orden social.
 
 ## Capítulo V. Consulta y participación de los trabajadores.
 
@@ -763,9 +761,7 @@ e) Realizar visitas a los lugares de trabajo para ejercer una labor de vigilanci
 
 f) Recabar del empresario la adopción de medidas de carácter preventivo y para la mejora de los niveles de protección de la seguridad y la salud de los trabajadores, pudiendo a tal fin efectuar propuestas al empresario, así como al Comité de Seguridad y Salud para su discusión en el mismo.
 
-g) Proponer al órgano de representación de los trabajadores la adopción del acuerdo de paralización de actividades a que se refiere el apartado 3 del artículo 21.
-
-3. Los informes que deban emitir los Delegados de Prevención a tenor de lo dispuesto en la letra c) del apartado 1 de este artículo deberán elaborarse en un plazo de quince días, o en el tiempo imprescindible cuando se trate de adoptar medidas dirigidas a prevenir riesgos inminentes. Transcurrido el plazo sin haberse emitido el informe, el empresario podrá poner en práctica su decisión.
+g) Proponer al órgano de representación de los trabajadores la adopción del acuerdo de paralización de actividades a que se refiere el apartado 3 del artículo 21. 3. Los informes que deban emitir los Delegados de Prevención a tenor de lo dispuesto en la letra c) del apartado 1 de este artículo deberán elaborarse en un plazo de quince días, o en el tiempo imprescindible cuando se trate de adoptar medidas dirigidas a prevenir riesgos inminentes. Transcurrido el plazo sin haberse emitido el informe, el empresario podrá poner en práctica su decisión.
 
 4. La decisión negativa del empresario a la adopción de las medidas propuestas por el Delegado de Prevención a tenor de lo dispuesto en la letra f) del apartado 2 de este artículo deberá ser motivada.
 
@@ -1105,63 +1101,25 @@ El Instituto Nacional de Silicosis mantendrá su condición de centro de referen
 
 a) Los artículos que a continuación se relacionan constituyen normas básicas en el sentido previsto en el artículo 149.1.18.ªde la Constitución:
 
-2.
+2. 3, apartados 1 y 2, excepto el párrafo segundo.
 
-3, apartados 1 y 2, excepto el párrafo segundo.
-
-4.
-
-5, apartado 1.
-
-12.
-
-14, apartados 1, 2, excepto la remisión al capítulo IV, 3, 4 y 5.
-
-15.
-
-16.
-
-17.
-
-18, apartados 1 y 2, excepto remisión al capítulo V.
+4. 5, apartado 1. 12. 14, apartados 1, 2, excepto la remisión al capítulo IV, 3, 4 y 5. 15. 16. 17. 18, apartados 1 y 2, excepto remisión al capítulo V.
 
 19, apartados 1 y 2, excepto referencia a la impartición por medios propios o concertados.
 
 20.
 
-21.
+21. 22. 23. 24, apartados 1, 2 y 3. 25. 26. 28, apartados 1, párrafos primero y segundo, 2, 3 y 4, excepto en lo relativo a las empresas de trabajo temporal.
 
-22.
+29. 30, apartados 1, 2, excepto la remisión al artículo 6.1.a), 3 y 4, excepto la remisión al texto refundido de la Ley del Estatuto de los Trabajadores.
 
-23.
-
-24, apartados 1, 2 y 3.
-
-25.
-
-26.
-
-28, apartados 1, párrafos primero y segundo, 2, 3 y 4, excepto en lo relativo a las empresas de trabajo temporal.
-
-29.
-
-30, apartados 1, 2, excepto la remisión al artículo 6.1.a), 3 y 4, excepto la remisión al texto refundido de la Ley del Estatuto de los Trabajadores.
-
-31, apartados 1, excepto remisión al artículo 6.1.a), 2, 3 y 4.
-
-33.
-
-34, apartados 1, párrafo primero, 2 y 3, excepto párrafo segundo.
+31, apartados 1, excepto remisión al artículo 6.1.a), 2, 3 y 4. 33. 34, apartados 1, párrafo primero, 2 y 3, excepto párrafo segundo.
 
 35, apartados 1, 2, párrafo primero, 4, párrafo tercero.
 
 36, excepto las referencias al Comité de Seguridad y Salud.
 
-37, apartados 2 y 4.
-
-42, apartado 1.
-
-45, apartado 1, párrafo tercero.
+37, apartados 2 y 4. 42, apartado 1. 45, apartado 1, párrafo tercero.
 
 [ignorar]Disposición adicional cuarta. Designación de Delegados de Prevención en supuestos especiales.
 
@@ -1241,9 +1199,7 @@ texto refundido de la Ley General de la Seguridad Social se destinarán en la cu
 
 1. Lo dispuesto en los artículos 36 y 37 de esta Ley en materia de competencias, facultades y garantías de los Delegados de Prevención se entenderá sin perjuicio del respeto a las disposiciones más favorables para el ejercicio de los derechos de información, consulta y participación de los trabajadores en la prevención de riesgos laborales previstas en los convenios colectivos vigentes en la fecha de su entrada en vigor.
 
-2. Los órganos específicos de representación de los trabajadores en materia de prevención de riesgos laborales que, en su caso, hubieran sido previstos en los convenios colectivos a que se refiere el apartado anterior y que estén dotados de un régimen de competencias, facultades y garantías que respete el contenido mínimo establecido en los artículos 36 y 37 de esta Ley, podrán continuar en el ejercicio de sus funciones, en sustitución de los Delegados de Prevención, salvo que por el órgano de representación legal de los trabajadores se decida la designación de estos Delegados conforme al procedimiento del artículo 35.
-
-3. Lo dispuesto en los apartados anteriores será también de aplicación a los acuerdos concluidos en el ámbito de la función pública al amparo de lo dispuesto en la Ley 7/1990, de 19 de julio, sobre negociación colectiva y participación en la determinación de las condiciones de trabajo de los empleados públicos.
+2. Los órganos específicos de representación de los trabajadores en materia de prevención de riesgos laborales que, en su caso, hubieran sido previstos en los convenios colectivos a que se refiere el apartado anterior y que estén dotados de un régimen de competencias, facultades y garantías que respete el contenido mínimo establecido en los artículos 36 y 37 de esta Ley, podrán continuar en el ejercicio de sus funciones, en sustitución de los Delegados de Prevención, salvo que por el órgano de representación legal de los trabajadores se decida la designación de estos Delegados conforme al procedimiento del artículo 35. 3. Lo dispuesto en los apartados anteriores será también de aplicación a los acuerdos concluidos en el ámbito de la función pública al amparo de lo dispuesto en la Ley 7/1990, de 19 de julio, sobre negociación colectiva y participación en la determinación de las condiciones de trabajo de los empleados públicos.
 
 #### Disposición transitoria segunda.
 
@@ -1255,13 +1211,9 @@ Quedan derogadas cuantas disposiciones se opongan a la presente Ley y específic
 
 a) Los artículos 9, 10, 11, 36, apartado 2, 39 y 40, párrafo segundo, de la Ley 8/1988, de 7 de abril, sobre infracciones y sanciones en el orden social.
 
-b) El Decreto de 26 de julio de 1957, por el que se fijan los trabajos prohibidos a mujeres y menores, en los aspectos de su normativa relativos al trabajo de las mujeres, manteniéndose en vigor las relativas al trabajo de los menores hasta que el Gobierno desarrolle las previsiones contenidas en el apartado 2 del artículo 27.
+b) El Decreto de 26 de julio de 1957, por el que se fijan los trabajos prohibidos a mujeres y menores, en los aspectos de su normativa relativos al trabajo de las mujeres, manteniéndose en vigor las relativas al trabajo de los menores hasta que el Gobierno desarrolle las previsiones contenidas en el apartado 2 del artículo 27. c) El Decreto de 11 de marzo de 1971, sobre constitución, composición y funciones de los Comités de Seguridad e Higiene en el Trabajo.
 
-c) El Decreto de 11 de marzo de 1971, sobre constitución, composición y funciones de los Comités de Seguridad e Higiene en el Trabajo.
-
-d) Los Títulos I y III de la Ordenanza General de Seguridad e Higiene en el Trabajo, aprobados por Orden de 9 de marzo de 1971.
-
-En lo que no se oponga a lo previsto en esta Ley, y hasta que se dicten los Reglamentos a los que se hace referencia en el artículo 6, continuará siendo de aplicación la regulación de las materias comprendidas en dicho artículo que se contienen en el Título II de la Ordenanza General de Seguridad e Higiene en el Trabajo o en otras normas que contengan previsiones específicas sobre tales materias, así como la Orden del Ministerio de Trabajo de 16 de diciembre de 1987, que establece los modelos para la notificación de los accidentes de trabajo. Igualmente, continuarán vigentes las disposiciones reguladoras de los servicios médicos de empresa hasta tanto se desarrollen reglamentariamente las previsiones de esta Ley sobre servicios de prevención. El personal perteneciente a dichos servicios en la fecha de entrada en vigor de esta Ley se integrará en los servicios de prevención de las correspondientes empresas, cuando éstos se constituyan, sin perjuicio de que continúen efectuando aquellas funciones que tuvieren atribuidas distintas de las propias del servicio de prevención.
+d) Los Títulos I y III de la Ordenanza General de Seguridad e Higiene en el Trabajo, aprobados por Orden de 9 de marzo de 1971. En lo que no se oponga a lo previsto en esta Ley, y hasta que se dicten los Reglamentos a los que se hace referencia en el artículo 6, continuará siendo de aplicación la regulación de las materias comprendidas en dicho artículo que se contienen en el Título II de la Ordenanza General de Seguridad e Higiene en el Trabajo o en otras normas que contengan previsiones específicas sobre tales materias, así como la Orden del Ministerio de Trabajo de 16 de diciembre de 1987, que establece los modelos para la notificación de los accidentes de trabajo. Igualmente, continuarán vigentes las disposiciones reguladoras de los servicios médicos de empresa hasta tanto se desarrollen reglamentariamente las previsiones de esta Ley sobre servicios de prevención. El personal perteneciente a dichos servicios en la fecha de entrada en vigor de esta Ley se integrará en los servicios de prevención de las correspondientes empresas, cuando éstos se constituyan, sin perjuicio de que continúen efectuando aquellas funciones que tuvieren atribuidas distintas de las propias del servicio de prevención.
 
 La presente Ley no afecta a la vigencia de las disposiciones especiales sobre prevención de riesgos profesionales en las explotaciones mineras, contenidas en el capítulo IV del Real Decreto 3255/1983, de 21 de diciembre, por el que se aprueba el Estatuto del Minero, y en sus normas de desarrollo, así como las del Real Decreto 2857/1978, de 25 de agosto, por el que se aprueba el Reglamento General para el Régimen de la Minería, y el Real Decreto 863/1985, de 2 de abril, por el que se aprueba el Reglamento General de Normas Básicas de Seguridad Minera, y sus disposiciones complementarias.
 
@@ -1277,9 +1229,7 @@ Por tanto,
 
 Mando a todos los españoles, particulares y autoridades que guarden y hagan guardar esta Ley.
 
-Madrid,8 de noviembre de 1995.
-
-JUAN CARLOS R.
+Madrid,8 de noviembre de 1995. JUAN CARLOS R.
 
 El Presidente del Gobierno,
 

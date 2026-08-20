@@ -1,7 +1,11 @@
 ---
 id: norm-can-res-juriscan-65631-68
 codigo_sintetizado: Resolucion BOC 68
-titulo: Resolución de 25 de mayo de 2011, por la que se dictan instrucciones sobre organización y desarrollo de las pruebas de acceso a las enseñanzas artísticas superiores de Grado en Música, Arte Dramático y Diseño en la Comunidad Autónoma de Canarias, y se convocan las correspondientes al curso académico 2011 (BOC n.º 106, de 31 de mayo).
+titulo: Resolución de 25 de mayo de 2011, por la que se dictan instrucciones sobre
+  organización y desarrollo de las pruebas de acceso a las enseñanzas artísticas superiores
+  de Grado en Música, Arte Dramático y Diseño en la Comunidad Autónoma de Canarias,
+  y se convocan las correspondientes al curso académico 2011 (BOC n.º 106, de 31 de
+  mayo).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,38 +17,38 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Artísticas
 tags:
-  - bachillerato
-  - educacion-personas-adultas
-  - ense-anzas-art-sticas
-  - ensenanzas-artisticas
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - formacion-profesional
-  - oposiciones
-  - titulacion
+- bachillerato
+- educacion-personas-adultas
+- ense-anzas-art-sticas
+- ensenanzas-artisticas
+- ensenanzas-deportivas
+- equipos-directivos
+- formacion-profesional
+- oposiciones
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-212-1991
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   fundamento_de:
-    - norma_id: norm-can-res-boc-2026-039-111
-    - norma_id: norm-can-res-juriscan-65632-66
+  - norma_id: norm-can-res-boc-2026-039-111
+  - norma_id: norm-can-res-juriscan-65632-66
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-d-212-1991
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2011-106-2943.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=65631
 ---
@@ -72,9 +76,7 @@ Tercero.- Publicar la presente Resolución en el Boletín Oficial de Canarias y 
 
 1. El objeto de la presente Resolución es el establecimiento de instrucciones para la organización y el desarrollo de las pruebas de acceso a las enseñanzas artísticas superiores de Grado en la Comunidad Autónoma de Canarias.
 
-2. Estas instrucciones serán de aplicación a las enseñanzas artísticas superiores de Grado y a los Centros Superiores, de titularidad pública o privada, autorizados a impartirlas en la Comunidad Autónoma de Canarias, de acuerdo con lo establecido en la citada Orden de 29 de abril de 2011.
-
-#### Segunda. Requisitos de acceso a las enseñanzas artísticas superiores de Grado.
+2. Estas instrucciones serán de aplicación a las enseñanzas artísticas superiores de Grado y a los Centros Superiores, de titularidad pública o privada, autorizados a impartirlas en la Comunidad Autónoma de Canarias, de acuerdo con lo establecido en la citada Orden de 29 de abril de 2011. #### Segunda. Requisitos de acceso a las enseñanzas artísticas superiores de Grado.
 
 De conformidad con lo establecido en los artículos 54.2, 55.2, 56.1 y 57.2 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, para acceder a las enseñanzas artísticas superiores de Grado, en los diversos ámbitos, será preciso reunir los siguientes requisitos:
 
@@ -363,9 +365,7 @@ En los ejercicios Ay B se valorará la fidelidad, tanto artística como técnica
 
 3. En el tratamiento de los datos del alumnado se aplicarán normas técnicas y organizativas que garanticen su seguridad y confidencialidad. El profesorado y el resto del personal que, en el ejercicio de sus funciones, acceda a estos datos personales, quedarán sujetos al deber de sigilo.
 
-4. Los datos personales serán incorporados a un fichero automatizado de la Consejería de Educación, Universidades, Cultura y Deportes, siendo tratados de forma totalmente confidencial de acuerdo con lo dispuesto en la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal. La persona titular de los datos podrá ejercer los derechos de acceso, rectificación, cancelación y oposición en cualquier momento, dirigiéndose por escrito a la Dirección General de Formación Profesional y Educación de Adultos. A N E X O I I CONVOCATORIA DE PRUEBAS DE ACCESO A LAS ENSEÑANZAS ARTÍSTICAS SUPERIORES DE GRADO EN MÚSICA, ARTE DRAMÁTICO Y DISEÑO EN LA COMUNIDAD AUTÓNOMA DE CANARIAS PARA EL CURSO ACADÉMICO 2011-2012.
-
-#### Primero. Objeto.
+4. Los datos personales serán incorporados a un fichero automatizado de la Consejería de Educación, Universidades, Cultura y Deportes, siendo tratados de forma totalmente confidencial de acuerdo con lo dispuesto en la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal. La persona titular de los datos podrá ejercer los derechos de acceso, rectificación, cancelación y oposición en cualquier momento, dirigiéndose por escrito a la Dirección General de Formación Profesional y Educación de Adultos. A N E X O I I CONVOCATORIA DE PRUEBAS DE ACCESO A LAS ENSEÑANZAS ARTÍSTICAS SUPERIORES DE GRADO EN MÚSICA, ARTE DRAMÁTICO Y DISEÑO EN LA COMUNIDAD AUTÓNOMA DE CANARIAS PARA EL CURSO ACADÉMICO 2011-2012. #### Primero. Objeto.
 
 El objeto de la presente convocatoria es la de establecer los calendarios y las restantes condiciones específicas para la realización de las pruebas específicas de acceso a las enseñanzas artísticas superiores de Grado en Música, Arte Dramático y Diseño en el ámbito territorial de la Comunidad Autónoma de Canarias, para el curso 2011-2012, así como convocar la prueba de acceso a estas enseñanzas para las personas aspirantes, sin requisitos académicos, mayores de diecinueve años de edad.
 Segundo.- Prueba de acceso a las enseñanzas artísticas superiores de Grado para personas aspirantes sin requisitos académicos, mayores de diecinueve años de edad.

@@ -1,10 +1,13 @@
 ---
 id: norm-es-2022-12014
 codigo_sintetizado: BOE-A-2022-12014
-titulo: Real Decreto 588/2022, de 19 de julio, por el que se establecen las especialidades docentes de los Cuerpos de Profesores y de Catedráticos de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático.
+titulo: Real Decreto 588/2022, de 19 de julio, por el que se establecen las especialidades
+  docentes de los Cuerpos de Profesores y de Catedráticos de Música y Artes Escénicas
+  vinculadas a las enseñanzas de Arte Dramático.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2022-07-20'
 boletin: BOE
@@ -15,31 +18,28 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Artísticas
 tags:
-  - bachillerato
-  - curriculo
-  - ebep
-  - ense-anzas-art-sticas
-  - ensenanzas-artisticas
-  - evaluacion
-  - profesorado
-  - titulacion
+- bachillerato
+- curriculo
+- ebep
+- ense-anzas-art-sticas
+- ensenanzas-artisticas
+- evaluacion
+- profesorado
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-es-l-39-2015
-  articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 ---
 # Real Decreto 588/2022, de 19 de julio, por el que se establecen las especialidades docentes de los Cuerpos de Profesores y de Catedráticos de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático.
 
@@ -67,15 +67,15 @@ En su virtud, a propuesta de la Ministra de Educación y Formación Profesional,
 
 #### Artículo 1. Objeto.
 
-1. Este real decreto tiene por objeto establecer las especialidades docentes de los Cuerpos de Profesores y de Catedráticos de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático y definir la asignación de materias que deberán impartir en las enseñanzas de Arte Dramático.
+1. Este real decreto tiene por objeto establecer las especialidades docentes de los Cuerpos de Profesores y de Catedráticos de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático y definir la asignación de materias que deberán impartir en las enseñanzas de Arte Dramático.
 
-2. Asimismo, el real decreto tiene por objeto establecer las materias que podrán ser impartidas en la modalidad de Artes de Bachillerato por el Cuerpo de Profesores de Música y Artes Escénicas de las especialidades correspondientes, hasta la implantación de la nueva ordenación establecida por la Ley Orgánica 3/2020, de 29 de diciembre.
+2. Asimismo, el real decreto tiene por objeto establecer las materias que podrán ser impartidas en la modalidad de Artes de Bachillerato por el Cuerpo de Profesores de Música y Artes Escénicas de las especialidades correspondientes, hasta la implantación de la nueva ordenación establecida por la Ley Orgánica 3/2020, de 29 de diciembre.
 
 #### Artículo 2. Especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas y del Cuerpo de Catedráticos de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático.
 
-1. Las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático son las que se relacionan en el anexo I.
+1. Las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático son las que se relacionan en el anexo I.
 
-2. Las especialidades docentes del Cuerpo de Catedráticos de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático son las que se relacionan en el anexo II.
+2. Las especialidades docentes del Cuerpo de Catedráticos de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático son las que se relacionan en el anexo II.
 
 #### Artículo 3. Adscripción del profesorado actual.
 
@@ -123,9 +123,7 @@ Este real decreto se dicta al amparo del artículo 149.1.18.ª y 30.ª de la Con
 
 #### Disposición final segunda. Entrada en vigor.
 
-Dado en Madrid, el 19 de julio de 2022.
-
-FELIPE R.
+Dado en Madrid, el 19 de julio de 2022. FELIPE R.
 
 La Ministra de Educación y Formación Profesional,
 

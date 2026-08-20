@@ -1,10 +1,16 @@
 ---
 id: norm-can-res-boc-2025-061-88
 codigo_sintetizado: Resolucion BOC 88
-titulo: Resolución de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios, de 19 de marzo de 2025, por la que se corrige error en la Resolución de 20 de febrero de 2025, que establece el calendario escolar y dicta instrucciones para la organización y desarrollo de las actividades de comienzo y finalización del curso 2025-2026, para los centros de enseñanzas no universitarias de la Comunidad Autónoma de Canarias (BOC n. 44, de 4.3.2025).
+titulo: Resolución de la Dirección General de Administración de Centros, Escolarización
+  y Servicios Complementarios, de 19 de marzo de 2025, por la que se corrige error
+  en la Resolución de 20 de febrero de 2025, que establece el calendario escolar y
+  dicta instrucciones para la organización y desarrollo de las actividades de comienzo
+  y finalización del curso 2025-2026, para los centros de enseñanzas no universitarias
+  de la Comunidad Autónoma de Canarias (BOC n. 44, de 4.3.2025).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios Complementarios
+organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios
+  Complementarios
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: pdf_oficial_boc
@@ -13,34 +19,34 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Calendario escolar y jornadas
 tags:
-  - admision-alumnado
-  - calendario-escolar-y-jornadas
-  - ensenanzas-deportivas
-  - ensenanzas-universitarias
-  - equipos-directivos
-  - evaluacion
-  - formacion-profesional
-  - organizacion-escolar
-  - procedimiento-administrativo
+- admision-alumnado
+- calendario-escolar-y-jornadas
+- ensenanzas-deportivas
+- ensenanzas-universitarias
+- equipos-directivos
+- evaluacion
+- formacion-profesional
+- organizacion-escolar
+- procedimiento-administrativo
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-40-2015
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-40-2015
   fundamento_de:
-    - norma_id: norm-can-res-055
-    - norma_id: norm-can-res-086
-    - norma_id: norm-can-res-119
-    - norma_id: norm-can-res-boc-2025-044-89
-    - norma_id: norm-can-res-boc-2026-039-102
+  - norma_id: norm-can-res-055
+  - norma_id: norm-can-res-086
+  - norma_id: norm-can-res-119
+  - norma_id: norm-can-res-boc-2025-044-89
+  - norma_id: norm-can-res-boc-2026-039-102
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-l-39-2015
+  - '1'
+  - norma_id: norm-es-l-39-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-061-1213.pdf
 ---
 # Resolución de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios, de 19 de marzo de 2025, por la que se corrige error en la Resolución de 20 de febrero de 2025, que establece el calendario escolar y dicta instrucciones para la organización y desarrollo de las actividades de comienzo y finalización del curso 2025-2026, para los centros de enseñanzas no universitarias de la Comunidad Autónoma de Canarias (BOC n. 44, de 4.3.2025).

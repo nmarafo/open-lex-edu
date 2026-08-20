@@ -4,7 +4,8 @@ codigo_sintetizado: Resolucion BOC 93
 titulo: Resolución de 3 de junio de 2024
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios Complementarios
+organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios
+  Complementarios
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: pdf_oficial_boc
@@ -13,44 +14,44 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Consejos escolares
 tags:
-  - admision-alumnado
-  - consejo-escolar
-  - consejos-escolares
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - formacion-profesional
-  - profesorado
+- admision-alumnado
+- consejo-escolar
+- consejos-escolares
+- ensenanzas-deportivas
+- equipos-directivos
+- formacion-profesional
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-123-2023
-    - norma_id: norm-can-d-81-2010
-    - norma_id: norm-can-l-14-1990
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-can-o-2013-10-09
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-8-1985
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
+  - norma_id: norm-can-d-123-2023
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
   fundamento_de:
-    - norma_id: norm-can-res-boc-2024-125-91
+  - norma_id: norm-can-res-boc-2024-125-91
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-d-123-2023
-    - norma_id: norm-can-l-14-1990
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-can-d-81-2010
-    - norma_id: norm-can-o-2013-10-09
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-8-1985
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - norma_id: norm-can-d-123-2023
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-117-1919.pdf
 ---
 # Resolución de 3 de junio de 2024
@@ -75,15 +76,11 @@ RESUELVO:
 
 #### Primero. Objeto y ámbito de aplicación.
 
-1. La presente Resolución tiene por objeto regular el proceso y aprobar el calendario para la renovación parcial o la nueva constitución de los Consejos Escolares de los centros educativos sostenidos con fondos públicos del ámbito de la Comunidad Autónoma de Canarias, a celebrar en el curso escolar 2024-2025.
-
-2. Esta Resolución se aplicará en los siguientes centros educativos dependientes de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes: Escuelas Infantiles (EEI), Colegios de Educación Primaria (CEP), Colegios de Educación Infantil y Primaria (CEIP), Centros de Educación Obligatoria (CEO), Institutos de Educación Secundaria (IES), Sección de Instituto de Educación Secundaria (SIES), Centros de Educación Especial (CEE), Centros de Educación de Personas Adultas (CEPA), Centros de Educación a Distancia (CEAD), Escuelas Oficiales de Idiomas (EOI), Escuelas de Arte (EA), Escuelas de Arte y Superiores de Diseño (EASD), Conservatorio Profesional de Música (CPM) y Residencias Escolares.
+1. La presente Resolución tiene por objeto regular el proceso y aprobar el calendario para la renovación parcial o la nueva constitución de los Consejos Escolares de los centros educativos sostenidos con fondos públicos del ámbito de la Comunidad Autónoma de Canarias, a celebrar en el curso escolar 2024-2025. 2. Esta Resolución se aplicará en los siguientes centros educativos dependientes de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes: Escuelas Infantiles (EEI), Colegios de Educación Primaria (CEP), Colegios de Educación Infantil y Primaria (CEIP), Centros de Educación Obligatoria (CEO), Institutos de Educación Secundaria (IES), Sección de Instituto de Educación Secundaria (SIES), Centros de Educación Especial (CEE), Centros de Educación de Personas Adultas (CEPA), Centros de Educación a Distancia (CEAD), Escuelas Oficiales de Idiomas (EOI), Escuelas de Arte (EA), Escuelas de Arte y Superiores de Diseño (EASD), Conservatorio Profesional de Música (CPM) y Residencias Escolares.
 
 3. El Consejo Rector del Conservatorio Superior de Música (CSM), el Consejo de los Colectivos de Escuelas Rurales (CER) y el Consejo Social de los Centros Integrados de Formación Profesional (CIFP) atenderán a lo que su propia normativa establezca sobre su constitución y renovación, aplicándose con carácter supletorio la Orden de 12 de mayo de 2016, por la que se regulan la composición y el procedimiento para la constitución y la renovación de los consejos escolares de los centros educativos sostenidos con fondos públicos del ámbito de la Comunidad Autónoma de Canarias.
 
-4. Asimismo, la presente Resolución se aplicará en aquellos centros escolares de titularidad privada que se encuentren en régimen de concierto con la Administración educativa de la Comunidad Autónoma de Canarias, conforme a lo establecido en el artículo 14 de la antedicha Orden de 12 de mayo de 2016.
-
-#### Segundo. Calendario del proceso electoral.
+4. Asimismo, la presente Resolución se aplicará en aquellos centros escolares de titularidad privada que se encuentren en régimen de concierto con la Administración educativa de la Comunidad Autónoma de Canarias, conforme a lo establecido en el artículo 14 de la antedicha Orden de 12 de mayo de 2016. #### Segundo. Calendario del proceso electoral.
 
 El proceso para la elección de las personas representantes de los distintos sectores de la comunidad educativa se desarrollará conforme al calendario que figura en el anexo de esta Resolución.
 
@@ -91,27 +88,17 @@ El proceso para la elección de las personas representantes de los distintos sec
 
 1. El Consejo Escolar de los centros docentes sostenidos con fondos públicos tendrá la composición que se establece en los artículos 4 al 13 de la Orden de 12 de mayo de 2016,
 
-en función de su tipología y de las unidades asignadas por la Consejería de Educación, Formación Profesional, Actividad Física y Deportes para su funcionamiento en el curso escolar 2024-2025.
+en función de su tipología y de las unidades asignadas por la Consejería de Educación, Formación Profesional, Actividad Física y Deportes para su funcionamiento en el curso escolar 2024-2025. 2. Cada sector de la comunidad educativa elegirá y designará los representantes que le correspondan, según el tipo de centro. En todo caso, en la presentación de candidaturas de los distintos sectores se favorecerá la presencia equilibrada de hombres y mujeres.
 
-2. Cada sector de la comunidad educativa elegirá y designará los representantes que le correspondan, según el tipo de centro. En todo caso, en la presentación de candidaturas de los distintos sectores se favorecerá la presencia equilibrada de hombres y mujeres.
-
-3. La composición del Consejo Escolar de los centros privados concertados es la establecida en el artículo 14 de la predicha Orden de 12 de mayo de 2016.
-
-4. Los sectores con puestos de designación procederán, para el ejercicio de este derecho, según lo determinado en el artículo 18 de la Orden de 12 de mayo de 2016.
-
-#### Cuarto. Renovación o nueva constitución.
+3. La composición del Consejo Escolar de los centros privados concertados es la establecida en el artículo 14 de la predicha Orden de 12 de mayo de 2016. 4. Los sectores con puestos de designación procederán, para el ejercicio de este derecho, según lo determinado en el artículo 18 de la Orden de 12 de mayo de 2016. #### Cuarto. Renovación o nueva constitución.
 
 1. La presente convocatoria se realizará en todos los centros docentes a los que les resulta de aplicación esta Resolución, para su renovación parcial.
 
 2. Los centros de nueva creación en el curso escolar 2024-2025 y los centros privados que acceden por primera vez al régimen de concierto, deberán constituir el Consejo Escolar en su totalidad.
 
-3. Los centros de nueva creación en el curso 2023-2024 renovarán la mitad de su Consejo Escolar, aunque sus miembros no hayan finalizado el mandato, conforme a lo establecido en el artículo 16 de la antedicha Orden de 12 de mayo de 2016.
+3. Los centros de nueva creación en el curso 2023-2024 renovarán la mitad de su Consejo Escolar, aunque sus miembros no hayan finalizado el mandato, conforme a lo establecido en el artículo 16 de la antedicha Orden de 12 de mayo de 2016. #### Quinto. Juntas electorales.
 
-#### Quinto. Juntas electorales.
-
-1. Las juntas electorales se ocuparán de organizar el proceso de elección de las personas representantes del Consejo Escolar en las condiciones que mejor aseguren la designación y la participación de todos los sectores de la comunidad educativa, conforme a lo establecido en el artículo 16 de la antedicha Orden de 12 de mayo de 2016.
-
-2. Constituida la Junta electoral, estudiará y planificará el proceso conforme al calendario establecido al efecto, concretando especialmente el horario de recepción de candidaturas por la secretaría del centro y teniendo en cuenta la posibilidad de recibir candidaturas del sector de padres, madres y personas tutoras legales en horario de tarde, cuando, de forma justificada, no puedan ser presentadas en otro momento.
+1. Las juntas electorales se ocuparán de organizar el proceso de elección de las personas representantes del Consejo Escolar en las condiciones que mejor aseguren la designación y la participación de todos los sectores de la comunidad educativa, conforme a lo establecido en el artículo 16 de la antedicha Orden de 12 de mayo de 2016. 2. Constituida la Junta electoral, estudiará y planificará el proceso conforme al calendario establecido al efecto, concretando especialmente el horario de recepción de candidaturas por la secretaría del centro y teniendo en cuenta la posibilidad de recibir candidaturas del sector de padres, madres y personas tutoras legales en horario de tarde, cuando, de forma justificada, no puedan ser presentadas en otro momento.
 
 3. La Junta electoral informará de los miembros que continúan su mandato y, como consecuencia, del número de vacantes a cubrir en cada uno de los sectores.
 
@@ -252,8 +239,7 @@ tiempo, deberá favorecer también la convocatoria de reuniones del propio alumn
 
 CALENDARIO DEL PROCESO ELECTORAL RENOVACIÓN PARCIAL O NUEVA CONSTITUCIÓN DE LOS CONSEJOS ESCOLARES CURSO 2024-2025 APERTURA DEL PROCEDIMIENTO Hasta el lunes 14 de octubre
 • Constitución de una comisión electoral en cada una de las Direcciones Territoriales de Educación.
-• Creación de un tablón de anuncios visible en el centro, destinado a la información del procedimiento de renovación parcial o nueva constitución del Consejo Escolar, en el curso 2024-2025.
-• Creación de una sección, dentro de la web del centro , destinada a ofrecer la información del procedimiento de renovación parcial o nueva constitución del Consejo Escolar, en el curso 202-/2025, con acceso restringido para aquellos documentos que contengan información a proteger (censo de los padres, madres o personas tutoras legales del alumnado y del propio alumnado).*
+• Creación de un tablón de anuncios visible en el centro, destinado a la información del procedimiento de renovación parcial o nueva constitución del Consejo Escolar, en el curso 2024-2025. • Creación de una sección, dentro de la web del centro , destinada a ofrecer la información del procedimiento de renovación parcial o nueva constitución del Consejo Escolar, en el curso 202-/2025, con acceso restringido para aquellos documentos que contengan información a proteger (censo de los padres, madres o personas tutoras legales del alumnado y del propio alumnado).*
 • Convocatoria de una sesión de Consejo Escolar, en todos los centros sostenidos con fondos públicos, para informar: de la apertura del procedimiento, de los miembros del Consejo Escolar que continúan en este curso escolar y del número de miembros a elegir por cada sector de la comunidad educativa.
 • Cargar los datos de las personas representantes del Consejo Escolar que continúan su mandato en la aplicación informática creada al efecto.
 • Divulgación** del inicio del procedimiento a todos los sectores de la comunidad educativa, mediante publicación, en los tablones de anuncios y en la página web del centro.

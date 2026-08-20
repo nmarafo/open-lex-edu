@@ -1,10 +1,12 @@
 ---
 id: norm-and-o-10-5-2006
 codigo_sintetizado: O10_5_2006 Evaluacion Educacion Adultos Andalucía
-titulo: Orden de 10 de mayo de 2006, por la que se establece la ordenación de la evaluación en la Educación de Adultos.
+titulo: Orden de 10 de mayo de 2006, por la que se establece la ordenación de la evaluación
+  en la Educación de Adultos.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 10/05/2006
 fecha_disposicion: '2006-05-10'
@@ -18,16 +20,16 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación de Adultos
 tags:
-  - evaluacion_adultos
-  - esa
-  - andalucia
+- evaluacion_adultos
+- esa
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Orden de 10 de mayo de 2006, por la que se establece la ordenación de la evaluación en la Educación de Adultos.
 
@@ -136,8 +138,7 @@ a) Los derechos de plantación de nueva creación concedidos en virtud del artí
 b) Los derechos de replantación de viñedo que no han sido ejercidos por sus titulares en las ocho campañas siguientes a la concesión de los mismos.
 c) Los derechos de replantación adquiridos por transferencia y no consumidos en las dos campañas siguientes a la adjudicación de los mismos.
 d) Los derechos de replantación adquiridos por la Comunidad Autónoma de Andalucía a sus legítimos titulares a cambio de una contrapartida financiera.
-e) El porcentaje de los derechos de replantación utilizados en la regularización de superficie de viñedo, cuando éstas se haya regularizado con el 150 por 100 de derechos procedentes de otra comunidad, según lo establecido en el artículo 2.4 del Real Decreto 196/2002 de 15 de febrero de 2002.
-f) La tercera parte de los derechos de replantación utilizados en la regularización de superficie de viñedo cuando éstos se hayan regularizado en el 150 por 100 de derechos procedentes de la Comunidad Autónoma Andaluza.
+e) El porcentaje de los derechos de replantación utilizados en la regularización de superficie de viñedo, cuando éstas se haya regularizado con el 150 por 100 de derechos procedentes de otra comunidad, según lo establecido en el artículo 2.4 del Real Decreto 196/2002 de 15 de febrero de 2002. f) La tercera parte de los derechos de replantación utilizados en la regularización de superficie de viñedo cuando éstos se hayan regularizado en el 150 por 100 de derechos procedentes de la Comunidad Autónoma Andaluza.
 g) Los derechos procedentes de parcelas que figuren en el SIG vitícola como viñedo y que se constate que dicho cultivo no existe y el viticultor no ha solicitado su inclusión en el registro de derechos.
 
 Sevilla, 26 de mayo 2006 Página núm. 11

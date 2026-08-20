@@ -1,10 +1,12 @@
 ---
 id: norm-es-2005-21534
 codigo_sintetizado: BOE-A-2005-21534
-titulo: Real Decreto 1558/2005, de 23 de diciembre, por el que se regulan los requisitos básicos de los Centros integrados de formación profesional.
+titulo: Real Decreto 1558/2005, de 23 de diciembre, por el que se regulan los requisitos
+  básicos de los Centros integrados de formación profesional.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2005-12-30'
 boletin: BOE
@@ -15,29 +17,25 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-  - formacion-profesional
-  - roc
-  - titulacion
-  - transparencia
+- formacion-profesional
+- roc
+- titulacion
+- transparencia
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2002-12018
-    - norma_id: norm-es-l-53-1984
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-l-53-1984
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
-    - norma_id: norm-es-rd-1834-2008
-    - norma_id: norm-can-res-043
+  - norma_id: norm-es-rd-1834-2008
+  - norma_id: norm-can-res-043
   desarrollado_por: []
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - '6'
-    - 6bis
-    - norma_id: norm-can-l-6-2014
-  articulos:
-    - '22'
-    - norma_id: norm-es-l-53-1984
-    - norma_id: norm-es-2002-12018
+  - '22'
+  - norma_id: norm-es-l-53-1984
+  - norma_id: norm-es-2002-12018
 ---
 # Real Decreto 1558/2005, de 23 de diciembre, por el que se regulan los requisitos básicos de los Centros integrados de formación profesional.
 
@@ -279,9 +277,7 @@ En los Centros integrados públicos y en los Centros integrados privados concent
 
 Será de aplicación a los Centros integrados de titularidad privada lo establecido en los artículos 1, 2, 3, 4.2, 4.3, 4.4, 4.5, 5, 6.1, 6.3, 7, 8, 11, y
 
-**15.1.** Además, los Centros integrados privados que tengan régimen de concierto educativo se ajustarán a lo establecido en los artículos 9 y 10 y dispondrán de los órganos de gobierno y de participación que se establecen en los artículos 12, 13 y 14.
-
-#### Disposición transitoria primera. Autorización de determinados centros existentes como Centros integrados de formación profesional.
+**15.1.** Además, los Centros integrados privados que tengan régimen de concierto educativo se ajustarán a lo establecido en los artículos 9 y 10 y dispondrán de los órganos de gobierno y de participación que se establecen en los artículos 12, 13 y 14. #### Disposición transitoria primera. Autorización de determinados centros existentes como Centros integrados de formación profesional.
 
 En los cinco años siguientes a la entrada en vigor de la presente norma, las Administraciones competentes podrán autorizar como Centros integrados de formación profesional a aquellos que, además de ofrecer las enseñanzas de los tres subsistemas en las condiciones previstas en este real decreto, ofrezcan enseñanzas de bachillerato, siempre que éstas últimas no representen más de un tercio del alumnado total del centro.
 
@@ -303,9 +299,7 @@ Los Ministros de Educación y Ciencia y de Trabajo y Asuntos Sociales dictarán 
 
 #### Disposición final cuarta. Entrada en vigor.
 
-Dado en Madrid, el 23 de diciembre de 2005.
-
-JUAN CARLOS R.
+Dado en Madrid, el 23 de diciembre de 2005. JUAN CARLOS R.
 
 La Vicepresidenta Primera del Gobierno y Ministra de la Presidencia,
 

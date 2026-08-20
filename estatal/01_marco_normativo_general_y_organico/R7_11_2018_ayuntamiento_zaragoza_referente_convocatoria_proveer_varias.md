@@ -1,10 +1,12 @@
 ---
 id: norm-es-2018-16287
 codigo_sintetizado: BOE-A-2018-16287
-titulo: Resolución de 7 de noviembre de 2018, del Ayuntamiento de Zaragoza, referente a la convocatoria para proveer varias plazas.
+titulo: Resolución de 7 de noviembre de 2018, del Ayuntamiento de Zaragoza, referente
+  a la convocatoria para proveer varias plazas.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2018-11-29'
 boletin: BOE
@@ -16,18 +18,18 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Marco normativo general
 tags:
-  - admision-alumnado
-  - evaluacion
-  - marco-normativo-general
-  - oposiciones
+- admision-alumnado
+- evaluacion
+- marco-normativo-general
+- oposiciones
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - '1'
-    - '2.1'
+  - '1'
+  - '2.1'
 ---
 # Resolución de 7 de noviembre de 2018, del Ayuntamiento de Zaragoza, referente a la convocatoria para proveer varias plazas.
 
@@ -113,487 +115,119 @@ Seleccionar apartado
 
 ## Título Preliminar
 
-#### Artículo 1.
-
-#### Artículo 2.
-
-#### Artículo 3.
-
-#### Artículo 4.
-
-#### Artículo 5.
-
-#### Artículo 6.
-
-#### Artículo 7.
-
-#### Artículo 8.
-
-## Título I
+#### Artículo 1. #### Artículo 2. #### Artículo 3. #### Artículo 4. #### Artículo 5. #### Artículo 6. #### Artículo 7. #### Artículo 8. ## Título I
 
 ### Capítulo I
 
-#### Artículo 9.
+#### Artículo 9. #### Artículo 10. #### Artículo 11. ### Capítulo II
 
-#### Artículo 10.
+#### Artículo 12. #### Artículo 13. #### Artículo 14. #### Artículo 15. #### Artículo 16. #### Artículo 17. #### Artículo 18. #### Artículo 19. #### Artículo 20.
 
-#### Artículo 11.
+#### Artículo 21. #### Artículo 22. #### Artículo 23. #### Artículo 24. #### Artículo 25. #### Artículo 26. #### Artículo 27. #### Artículo 28. #### Artículo 29. #### Artículo 30.
 
-### Capítulo II
+#### Artículo 31. #### Artículo 32. #### Artículo 33. #### Artículo 34. #### Artículo 35. #### Artículo 36. ### Capítulo III
 
-#### Artículo 12.
-
-#### Artículo 13.
-
-#### Artículo 14.
-
-#### Artículo 15.
-
-#### Artículo 16.
-
-#### Artículo 17.
-
-#### Artículo 18.
-
-#### Artículo 19.
-
-#### Artículo 20.
-
-#### Artículo 21.
-
-#### Artículo 22.
-
-#### Artículo 23.
-
-#### Artículo 24.
-
-#### Artículo 25.
-
-#### Artículo 26.
-
-#### Artículo 27.
-
-#### Artículo 28.
-
-#### Artículo 29.
-
-#### Artículo 30.
-
-#### Artículo 31.
-
-#### Artículo 32.
-
-#### Artículo 33.
-
-#### Artículo 34.
-
-#### Artículo 35.
-
-#### Artículo 36.
-
-### Capítulo III
-
-#### Artículo 37.
-
-## Título II
+#### Artículo 37. ## Título II
 
 ### Capítulo I
 
-#### Artículo 38.
+#### Artículo 38. #### Artículo 39. #### Artículo 40.
 
-#### Artículo 39.
+#### Artículo 41. #### Artículo 42. #### Artículo 43. ### Capítulo II
 
-#### Artículo 40.
+#### Artículo 44. #### Artículo 45. #### Artículo 46. #### Artículo 47. ### Capítulo III
 
-#### Artículo 41.
-
-#### Artículo 42.
-
-#### Artículo 43.
-
-### Capítulo II
-
-#### Artículo 44.
-
-#### Artículo 45.
-
-#### Artículo 46.
-
-#### Artículo 47.
-
-### Capítulo III
-
-#### Artículo 48.
-
-#### Artículo 49.
-
-### Capítulo IV
+#### Artículo 48. #### Artículo 49. ### Capítulo IV
 
 #### Artículo 50.
 
-#### Artículo 51.
+#### Artículo 51. #### Artículo 52. ### Capítulo V
 
-#### Artículo 52.
+#### Artículo 53. #### Artículo 54. #### Artículo 55. #### Artículo 56. ### Capítulo VI
 
-### Capítulo V
-
-#### Artículo 53.
-
-#### Artículo 54.
-
-#### Artículo 55.
-
-#### Artículo 56.
-
-### Capítulo VI
-
-#### Artículo 57.
-
-#### Artículo 58.
-
-#### Artículo 59.
-
-#### Artículo 60.
+#### Artículo 57. #### Artículo 58. #### Artículo 59. #### Artículo 60.
 
 ### Capítulo VII
 
-#### Artículo 61.
+#### Artículo 61. #### Artículo 62. #### Artículo 63. ## Título III
 
-#### Artículo 62.
+#### Artículo 64. ### Capítulo I
 
-#### Artículo 63.
+#### Artículo 65. #### Artículo 66. #### Artículo 67. #### Artículo 68. #### Artículo 69. #### Artículo 70.
 
-## Título III
+#### Artículo 71. #### Artículo 72. #### Artículo 73. #### Artículo 74. ### Capítulo II
 
-#### Artículo 64.
+#### Artículo 75. #### Artículo 76. ## Título IV
 
-### Capítulo I
+#### Artículo 77. ### Capítulo I
 
-#### Artículo 65.
+#### Artículo 78. #### Artículo 79. #### Artículo 80.
 
-#### Artículo 66.
+#### Artículo 81. ### Capítulo II
 
-#### Artículo 67.
+#### Artículo 82. #### Artículo 83. #### Artículo 84. ### Capítulo III
 
-#### Artículo 68.
+#### Artículo 85. #### Artículo 86. #### Artículo 87. #### Artículo 88. #### Artículo 89. #### Artículo 90.
 
-#### Artículo 69.
-
-#### Artículo 70.
-
-#### Artículo 71.
-
-#### Artículo 72.
-
-#### Artículo 73.
-
-#### Artículo 74.
-
-### Capítulo II
-
-#### Artículo 75.
-
-#### Artículo 76.
-
-## Título IV
-
-#### Artículo 77.
+#### Artículo 91. #### Artículo 92. #### Artículo 93. ## Título V
 
 ### Capítulo I
 
-#### Artículo 78.
+#### Artículo 94. #### Artículo 95. #### Artículo 96. #### Artículo 97. #### Artículo 98. #### Artículo 99. #### Artículo 100.
 
-#### Artículo 79.
+#### Artículo 101. #### Artículo 102. ### Capítulo II
 
-#### Artículo 80.
+#### Artículo 103. #### Artículo 104. #### Artículo 105. #### Artículo 106. #### Artículo 107. #### Artículo 108. #### Artículo 109. #### Artículo 110. #### Artículo 111. #### Artículo 112. #### Artículo 113. ### Capítulo III
 
-#### Artículo 81.
+#### Artículo 114. #### Artículo 115. #### Artículo 116. #### Artículo 117. #### Artículo 118. #### Artículo 119. #### Artículo 120.
 
-### Capítulo II
+#### Artículo 121. #### Artículo 122. #### Artículo 123. ### Capítulo IV
 
-#### Artículo 82.
-
-#### Artículo 83.
-
-#### Artículo 84.
-
-### Capítulo III
-
-#### Artículo 85.
-
-#### Artículo 86.
-
-#### Artículo 87.
-
-#### Artículo 88.
-
-#### Artículo 89.
-
-#### Artículo 90.
-
-#### Artículo 91.
-
-#### Artículo 92.
-
-#### Artículo 93.
-
-## Título V
-
-### Capítulo I
-
-#### Artículo 94.
-
-#### Artículo 95.
-
-#### Artículo 96.
-
-#### Artículo 97.
-
-#### Artículo 98.
-
-#### Artículo 99.
-
-#### Artículo 100.
-
-#### Artículo 101.
-
-#### Artículo 102.
-
-### Capítulo II
-
-#### Artículo 103.
-
-#### Artículo 104.
-
-#### Artículo 105.
-
-#### Artículo 106.
-
-#### Artículo 107.
-
-#### Artículo 108.
-
-#### Artículo 109.
-
-#### Artículo 110.
-
-#### Artículo 111.
-
-#### Artículo 112.
-
-#### Artículo 113.
-
-### Capítulo III
-
-#### Artículo 114.
-
-#### Artículo 115.
-
-#### Artículo 116.
-
-#### Artículo 117.
-
-#### Artículo 118.
-
-#### Artículo 119.
-
-#### Artículo 120.
-
-#### Artículo 121.
-
-#### Artículo 122.
-
-#### Artículo 123.
-
-### Capítulo IV
-
-#### Artículo 124.
-
-#### Artículo 125.
-
-#### Artículo 126.
-
-#### Artículo 127.
-
-#### Artículo 128.
-
-#### Artículo 129.
-
-### Capítulo V
+#### Artículo 124. #### Artículo 125. #### Artículo 126. #### Artículo 127. #### Artículo 128. #### Artículo 129. ### Capítulo V
 
 #### Artículo 130.
 
-#### Artículo 131.
+#### Artículo 131. #### Artículo 132. ### Capítulo VI
 
-#### Artículo 132.
+#### Artículo 133. #### Artículo 134. #### Artículo 135. #### Artículo 136. #### Artículo 137. #### Artículo 138. ### Capítulo VII
 
-### Capítulo VI
+#### Artículo 139. #### Artículo 140.
 
-#### Artículo 133.
+#### Artículo 141. #### Artículo 142. #### Artículo 143. #### Artículo 144. #### Artículo 145. #### Artículo 146. #### Artículo 147. ### Capítulo VIII
 
-#### Artículo 134.
+#### Artículo 148. #### Artículo 149. #### Artículo 150.
 
-#### Artículo 135.
+#### Artículo 151. ### Capítulo IX
 
-#### Artículo 136.
+#### Artículo 152. #### Artículo 153. #### Artículo 154. #### Artículo 155. #### Artículo 156. #### Artículo 157. #### Artículo 158. ### Capítulo X
 
-#### Artículo 137.
+#### Artículo 159. #### Artículo 160.
 
-#### Artículo 138.
-
-### Capítulo VII
-
-#### Artículo 139.
-
-#### Artículo 140.
-
-#### Artículo 141.
-
-#### Artículo 142.
-
-#### Artículo 143.
-
-#### Artículo 144.
-
-#### Artículo 145.
-
-#### Artículo 146.
-
-#### Artículo 147.
-
-### Capítulo VIII
-
-#### Artículo 148.
-
-#### Artículo 149.
-
-#### Artículo 150.
-
-#### Artículo 151.
-
-### Capítulo IX
-
-#### Artículo 152.
-
-#### Artículo 153.
-
-#### Artículo 154.
-
-#### Artículo 155.
-
-#### Artículo 156.
-
-#### Artículo 157.
-
-#### Artículo 158.
-
-### Capítulo X
-
-#### Artículo 159.
-
-#### Artículo 160.
-
-#### Artículo 161.
-
-#### Artículo 162.
-
-#### Artículo 163.
-
-#### Artículo 164.
-
-## Título VI
+#### Artículo 161. #### Artículo 162. #### Artículo 163. #### Artículo 164. ## Título VI
 
 ### Capítulo I
 
-#### Artículo 165.
+#### Artículo 165. #### Artículo 166. #### Artículo 167. #### Artículo 168. ### Capítulo II
 
-#### Artículo 166.
+#### Artículo 169. #### Artículo 170.
 
-#### Artículo 167.
+#### Artículo 171. #### Artículo 172. #### Artículo 173. #### Artículo 174. #### Artículo 175. #### Artículo 176. #### Artículo 177. #### Artículo 178. #### Artículo 179. #### Artículo 180.
 
-#### Artículo 168.
+#### Artículo 181. #### Artículo 182. #### Artículo 183. #### Artículo 184. #### Artículo 185. #### Artículo 186. #### Artículo 187. #### Artículo 188. ### Capítulo III
 
-### Capítulo II
-
-#### Artículo 169.
-
-#### Artículo 170.
-
-#### Artículo 171.
-
-#### Artículo 172.
-
-#### Artículo 173.
-
-#### Artículo 174.
-
-#### Artículo 175.
-
-#### Artículo 176.
-
-#### Artículo 177.
-
-#### Artículo 178.
-
-#### Artículo 179.
-
-#### Artículo 180.
-
-#### Artículo 181.
-
-#### Artículo 182.
-
-#### Artículo 183.
-
-#### Artículo 184.
-
-#### Artículo 185.
-
-#### Artículo 186.
-
-#### Artículo 187.
-
-#### Artículo 188.
-
-### Capítulo III
-
-#### Artículo 189.
-
-#### Artículo 190.
+#### Artículo 189. #### Artículo 190.
 
 ## Título VII
 
 ### Capítulo I
 
-#### Artículo 191.
+#### Artículo 191. #### Artículo 192. #### Artículo 193. #### Artículo 194. ### Capítulo II
 
-#### Artículo 192.
-
-#### Artículo 193.
-
-#### Artículo 194.
-
-### Capítulo II
-
-#### Artículo 195.
-
-#### Artículo 196.
-
-#### Artículo 197.
-
-#### Artículo 198.
-
-#### Artículo 199.
-
-## Título VIII
+#### Artículo 195. #### Artículo 196. #### Artículo 197. #### Artículo 198. #### Artículo 199. ## Título VIII
 
 #### Artículo 200.
 
-#### Artículo 201.
-
-#### Artículo 202.
-
-#### Disposición adicional primera.
+#### Artículo 201. #### Artículo 202. #### Disposición adicional primera.
 
 #### Disposición adicional segunda.
 
@@ -647,9 +281,7 @@ Los isleños aprovecharon las particularidades de su régimen económico e insti
 
 Multitud de disposiciones legales fueron conformando a lo largo de la historia un «corpus» normativo propio que moldeó la especificidad del régimen canario. Así aconteció con el Decreto de Puertos Francos de 1852. En 1870, las Cortes Constituyentes del Sexenio Democrático (1868-1874) dieron al mismo carácter de ley. Y también fue el caso de la ley de 1900 que amplió las ventajas fiscales. Desde ese momento, y hasta la actualidad, el régimen de franquicias fiscales y mercantiles ha generado la modernización socioeconómica y cultural de profunda imbricación de Canarias con la economía internacional y con la de una Europa cuyas vanguardias culturales siempre han reconocido el carácter atlántico de las islas.
 
-La Ley del Régimen Económico y Fiscal de 1972 constituyó un nuevo hito en la evolución de la norma básica que siempre ha influido en el modelo económico de Canarias, pero su traducción política debió esperar a la llegada de la democracia a través de la Constitución de 1978 y al primer Estatuto de 1982.
-
-Con el régimen económico y fiscal, amparado por la Constitución española, y con la aprobación del Estatuto de Autonomía, las Islas Canarias recuperan un «status» político y económico en el seno de la España democrática, que es reconocido por las instituciones de la Comunidad Europea y reafirmado en sus Tratados, al definirse su condición de región ultraperiférica, por las mismas razones que justificaron aquel «status» a lo largo de la historia.
+La Ley del Régimen Económico y Fiscal de 1972 constituyó un nuevo hito en la evolución de la norma básica que siempre ha influido en el modelo económico de Canarias, pero su traducción política debió esperar a la llegada de la democracia a través de la Constitución de 1978 y al primer Estatuto de 1982. Con el régimen económico y fiscal, amparado por la Constitución española, y con la aprobación del Estatuto de Autonomía, las Islas Canarias recuperan un «status» político y económico en el seno de la España democrática, que es reconocido por las instituciones de la Comunidad Europea y reafirmado en sus Tratados, al definirse su condición de región ultraperiférica, por las mismas razones que justificaron aquel «status» a lo largo de la historia.
 
 La consecución de la autonomía ha consolidado el proceso modernizador de la sociedad canaria, y su desfase secular en infraestructuras y equipamientos tiende a saldarse y a mejorar los indicadores de bienestar de los isleños.
 
@@ -4077,13 +3709,7 @@ Se modifica, con efectos de 1 de enero de 2023, el apartado 1, por el art. 1 de 
 
 Seleccionar redacción:
 
-Última actualización, publicada el 28/12/2022, en vigor a partir del 29/12/2022.
-
-Texto original, publicado el 06/11/2018, en vigor a partir del 06/11/2018.
-
-Modificación publicada el 17/07/2010, en vigor a partir del 29/12/2022.
-
-Subir
+Última actualización, publicada el 28/12/2022, en vigor a partir del 29/12/2022. Texto original, publicado el 06/11/2018, en vigor a partir del 06/11/2018. Modificación publicada el 17/07/2010, en vigor a partir del 29/12/2022. Subir
 
 [Bloque 245: #da-2]
 
@@ -4189,9 +3815,7 @@ Por tanto,
 
 Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley orgánica.
 
-Madrid, 5 de noviembre de 2018.
-
-FELIPE R.
+Madrid, 5 de noviembre de 2018. FELIPE R.
 
 El Presidente del Gobierno,
 
@@ -4207,9 +3831,7 @@ Latitud N
 
 Longitud W
 
-* 1.
-
-De Punta Delgada (Alegranza)
+* 1. De Punta Delgada (Alegranza)
 
 29º 24', 10
 
@@ -4221,25 +3843,19 @@ a Roque del Este
 
 13º 20', 00
 
-2.
-
-De Roque del Este a Punta de Tierra Negra
+2. De Roque del Este a Punta de Tierra Negra
 
 29º 01', 50
 
 13º 27', 80
 
-3.
-
-De Punta de Tierra Negra a (4) Punta de las Borriquillas
+3. De Punta de Tierra Negra a (4) Punta de las Borriquillas
 
 28º 16', 20
 
 13º 53', 80
 
-5.
-
-De Punta Entallada (Lantaílla)
+5. De Punta Entallada (Lantaílla)
 
 28º 13', 80
 
@@ -4251,17 +3867,13 @@ a Punta del Matorral
 
 14º 19', 50
 
-6.
-
-De Punta del Matorral a (7) Punta de Maspalomas (GC)
+6. De Punta del Matorral a (7) Punta de Maspalomas (GC)
 
 27º 44',00
 
 15º 35', 00
 
-8.
-
-De Punta de Arguineguín
+8. De Punta de Arguineguín
 
 27º 44', 50
 
@@ -4273,89 +3885,67 @@ a Punta de la Rasca (TF)
 
 16º 41', 60
 
-9.
-
-De Punta de la Rasca a Punta de Los Saltos (EH)
+9. De Punta de la Rasca a Punta de Los Saltos (EH)
 
 27º 38', 00
 
 17º 59', 00
 
-10.
-
-De Punta de Los Saltos a Punta de La Orchilla
+10. De Punta de Los Saltos a Punta de La Orchilla
 
 27º 42', 50
 
 18º 09', 80
 
-11.
-
-De Punta de La Orchilla a Punta del Verodal
+11. De Punta de La Orchilla a Punta del Verodal
 
 27º 45',60
 
 18º 09', 30
 
-12.
-
-De Punta del Verodal a Punta Gutiérrez (LP)
+12. De Punta del Verodal a Punta Gutiérrez (LP)
 
 28º 46', 50
 
 18º 00', 50
 
-13.
-
-De Punta Gutiérrez a Punta de Vallero
+13. De Punta Gutiérrez a Punta de Vallero
 
 28º 49', 60
 
 17º 57', 60
 
-14.
-
-De Punta de Vallero a Punta de Juan Adalid
+14. De Punta de Vallero a Punta de Juan Adalid
 
 28º 51', 10
 
 17º 55', 00
 
-15.
-
-De Punta de Juan Adalid a Punta Cumplida
+15. De Punta de Juan Adalid a Punta Cumplida
 
 28º 50', 10
 
 17º 46', 80
 
-16.
-
-De Punta Cumplida a Roque de Fuera (Anaga. TF)
+16. De Punta Cumplida a Roque de Fuera (Anaga. TF)
 
 28º 35', 80
 
 16º 09', 50
 
-17.
-
-De Roque de Fuera a Morro de La Vieja (Isleta. GC)
+17. De Roque de Fuera a Morro de La Vieja (Isleta. GC)
 
 28º 10', 60
 
 15º 24', 50
 
-18.
-
-De Morro de La Vieja a Punta de la Ensenada (LZ)
+18. De Morro de La Vieja a Punta de la Ensenada (LZ)
 
 29º 02', 00
 
 13º 49', 00
 
-19.
-
-De Punta de la Ensenada a Punta Grieta (Alegranza)
+19. De Punta de la Ensenada a Punta Grieta (Alegranza)
 
 29º 24', 50
 
@@ -4383,9 +3973,7 @@ LP: La Palma.
 
 LZ: Lanzarote.
 
-Las coordenadas geográficas han sido tomadas de la carta náutica española 209, edición-denominación: Islas Canarias; fecha de edición: Cádiz 1958, actualización: julio 1992.
-
-Redactado conforme a la corrección de errores publicada en BOE núm. 274, de 13 de noviembre de 2018. Ref. BOE-A-2018-15454
+Las coordenadas geográficas han sido tomadas de la carta náutica española 209, edición-denominación: Islas Canarias; fecha de edición: Cádiz 1958, actualización: julio 1992. Redactado conforme a la corrección de errores publicada en BOE núm. 274, de 13 de noviembre de 2018. Ref. BOE-A-2018-15454
 
 Subir
 

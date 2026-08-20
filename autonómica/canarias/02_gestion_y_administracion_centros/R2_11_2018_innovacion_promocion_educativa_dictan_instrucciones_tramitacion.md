@@ -1,7 +1,11 @@
 ---
 id: norm-can-res-boc-2018-220-18
 codigo_sintetizado: Resolucion BOC 18
-titulo: Resolución de 2 de noviembre de 2018, de la Dirección General de Ordenación, Innovación y Promoción Educativa, por la que se dictan instrucciones para la tramitación electrónica del procedimiento por el que se regula la justificación correspondiente a la financiación de gastos de personal complementario, en los centros privados concertados de Canarias (BOC n.º 220, de 14 de noviembre).
+titulo: Resolución de 2 de noviembre de 2018, de la Dirección General de Ordenación,
+  Innovación y Promoción Educativa, por la que se dictan instrucciones para la tramitación
+  electrónica del procedimiento por el que se regula la justificación correspondiente
+  a la financiación de gastos de personal complementario, en los centros privados
+  concertados de Canarias (BOC n.º 220, de 14 de noviembre).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Ordenación, Inclusión e Innovación
@@ -13,31 +17,31 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros privados concertados
 tags:
-  - centros-privados-concertados
-  - conciertos-educativos
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - evaluacion
-  - procedimiento-administrativo
+- centros-privados-concertados
+- conciertos-educativos
+- ensenanzas-deportivas
+- equipos-directivos
+- evaluacion
+- procedimiento-administrativo
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-135-2016
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-res-boc-2018-220-19
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-boc-2018-220-19
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
-    - norma_id: norm-can-res-boc-2018-220-19
+  - norma_id: norm-can-res-boc-2018-220-19
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-can-res-boc-2018-220-19
-    - norma_id: norm-can-d-135-2016
+  - '1'
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-res-boc-2018-220-19
+  - norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-220-5208.pdf
 ---
 # Resolución de 2 de noviembre de 2018, de la Dirección General de Ordenación, Innovación y Promoción Educativa, por la que se dictan instrucciones para la tramitación electrónica del procedimiento por el que se regula la justificación correspondiente a la financiación de gastos de personal complementario, en los centros privados concertados de Canarias (BOC n.º 220, de 14 de noviembre).

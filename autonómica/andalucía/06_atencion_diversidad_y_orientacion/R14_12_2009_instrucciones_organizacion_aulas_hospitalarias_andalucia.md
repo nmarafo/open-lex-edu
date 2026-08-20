@@ -1,10 +1,12 @@
 ---
 id: norm-and-r-14-12-2009
 codigo_sintetizado: R14_12_2009 Aulas Hospitalarias y Atencion Domiciliaria Andalucía
-titulo: Resolución de 14 de diciembre de 2009, sobre atención educativa en aulas hospitalarias y atención domiciliaria.
+titulo: Resolución de 14 de diciembre de 2009, sobre atención educativa en aulas hospitalarias
+  y atención domiciliaria.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Resolución
 numero_disposicion: 14/12/2009
 fecha_disposicion: '2009-12-14'
@@ -18,16 +20,16 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Atención a la diversidad
 tags:
-  - aulas_hospitalarias
-  - atencion_domiciliaria
-  - andalucia
+- aulas_hospitalarias
+- atencion_domiciliaria
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-1-1996
 ---
 # Resolución de 14 de diciembre de 2009, sobre atención educativa en aulas hospitalarias y atención domiciliaria.
 
@@ -270,9 +272,7 @@ b) La delimitación de ámbitos aptos para la localización de las grandes super
 
 1. El Plan de Establecimientos Comerciales se elaborará por la Consejería competente en materia de comercio interior. Con carácter previo a su aprobación, el Plan de Establecimientos Comerciales será informado preceptivamente por el Consejo Andaluz de Concertación Local y por el órgano competente en ordenación del territorio, además de lo dispuesto en el apartado 3 del artículo 27. Se aprobará mediante decreto del Consejo de Gobierno, a propuesta de la Consejería competente en materia de comercio interior, oído el Consejo Andaluz de Comercio.
 
-2. La vigencia del Plan de Establecimientos Comerciales será indefinida, actualizándose su contenido cuando se produzca alguna alteración sustancial de naturaleza comercial, territorial o urbanística, y en todo caso, cada cuatro años, mediante orden de la Consejería competente en materia de comercio, oído el Consejo Andaluz de Comercio y previo informe del Consejo Andaluz de Concertación Local y del órgano competente en ordenación del territorio, además de lo dispuesto en el apartado 3 del artículo 27.
-
-3. La Consejería competente en materia de comercio interior presentará cada dos años al Consejo Andaluz de Comercio un informe de seguimiento del Plan.
+2. La vigencia del Plan de Establecimientos Comerciales será indefinida, actualizándose su contenido cuando se produzca alguna alteración sustancial de naturaleza comercial, territorial o urbanística, y en todo caso, cada cuatro años, mediante orden de la Consejería competente en materia de comercio, oído el Consejo Andaluz de Comercio y previo informe del Consejo Andaluz de Concertación Local y del órgano competente en ordenación del territorio, además de lo dispuesto en el apartado 3 del artículo 27. 3. La Consejería competente en materia de comercio interior presentará cada dos años al Consejo Andaluz de Comercio un informe de seguimiento del Plan.
 
 4. El Plan de Establecimientos Comerciales deberá ser tenido en cuenta en la elaboración de los instrumentos de planeamiento urbanístico.
 
@@ -493,9 +493,7 @@ pasa a ser el artículo 43. Once. Se suprime el apartado 2 del artículo 51 y se
 
 1. La gama o gamas de productos que comercialicen.
 
-3. Las direcciones donde se atienden los encargos y las solicitudes de información, así como las posibles reclamaciones de los consumidores.» Dieciséis. Se modifica el artículo 58, que pasa a ser el artículo 51 , con la siguiente redacción «1.
-
-Las máquinas expendedoras deberán reunir los requisitos que reglamentariamente se determinen y, en todo caso, deberán contener un sistema automático de recuperación de monedas para los supuestos de error, inexistencia de mercancías o mal funcionamiento de la máquina.
+3. Las direcciones donde se atienden los encargos y las solicitudes de información, así como las posibles reclamaciones de los consumidores.» Dieciséis. Se modifica el artículo 58, que pasa a ser el artículo 51 , con la siguiente redacción «1. Las máquinas expendedoras deberán reunir los requisitos que reglamentariamente se determinen y, en todo caso, deberán contener un sistema automático de recuperación de monedas para los supuestos de error, inexistencia de mercancías o mal funcionamiento de la máquina.
 
 2. La venta automática de productos alimenticios sólo se permitirá cuando éstos se hallen envasados y etiquetados según la normativa específica vigente.» Diecisiete. Se renumeran los artículos 59, 60 y 61 que pasan a ser los artículos 52, 53 y 54, respectivamente. Dieciocho. Se suprime el párrafo a) del artículo 62 pasando.
 
@@ -510,8 +508,7 @@ los párrafos b) y c) a constituir los párrafos a) y b), respectivamente, y se 
 Veintisiete. Se renumera el artículo 94, que pasa a ser el artículo 86 Veintiocho. Se modifican los párrafos b) y c) del apartado
 primero del artículo 95, que pasa a ser el artículo 87, quedando con la siguiente redacción:
 «b) Las infracciones graves, con multa desde 3.001 hasta 45.000 euros.
-c) Las infracciones muy graves, con multa desde 45.001 hasta 150.000 euros. Esta última cantidad se podrá sobrepasar hasta alcanzar su décuplo, en el supuesto contemplado en el artículo 85.a) de la presente ley.» Veintinueve. Se renumeran los artículos 96 y 97, que pasan a ser los artículos 88 y 89.
-Artículo segundo. Modificación de la Ley 9/1988, de 25 de noviembre, del Comercio Ambulante. La Ley 9/1988, de 25 de noviembre, del Comercio Ambulante queda modificada como sigue:
+c) Las infracciones muy graves, con multa desde 45.001 hasta 150.000 euros. Esta última cantidad se podrá sobrepasar hasta alcanzar su décuplo, en el supuesto contemplado en el artículo 85.a) de la presente ley.» Veintinueve. Se renumeran los artículos 96 y 97, que pasan a ser los artículos 88 y 89. Artículo segundo. Modificación de la Ley 9/1988, de 25 de noviembre, del Comercio Ambulante. La Ley 9/1988, de 25 de noviembre, del Comercio Ambulante queda modificada como sigue:
 Uno. Se suprime el párrafo segundo del artículo 1. Dos. Se modifican, en el artículo 2, los párrafos a) y c) del apartado 1, el párrafo c) del apartado 2, y se introduce un apartado 3, quedando todos ellos con la siguiente redacción:
 «1.a) El comercio en mercadillos que se celebren regularmente, con una periodicidad determinada, en los lugares públicos establecidos». «1.c) El comercio itinerante, realizado en las vías públicas a lo largo de itinerarios establecidos, con el medio adecuado ya sea transportable o móvil.» «2.c) Las actividades ambulantes industriales y de servicios no comerciales.» «3. Asimismo, quedan excluidas las actividades comerciales que entran dentro del ámbito de aplicación de la Ley 15/2005, de 22 de diciembre, de Artesanía de Andalucía.» Tres. Se modifica el artículo 3, que queda con la siguiente redacción:
 «Artículo 3. Autorización Municipal.
@@ -691,9 +688,7 @@ Página núm. 22 Se vi lla, 24 de diciembre 2009 la publicación del calendario 
 
 3. La elaboración del calendario anual de las ferias comerciales oficiales que se celebren en Andalucía, que será publicado en el Boletín Oficial de la Junta de Andalucía.
 
-4. La revocación, previo requerimiento, de la condición de una Feria Comercial Oficial y, en su caso, su clasificación, cuando se incumpla lo previsto en la presente Ley y disposiciones de desarrollo o en la declaración responsable a que se refiere el artículo 7.
-
-5. La promoción de las ferias comerciales oficiales cuya realización aconsejen los intereses generales de la Comunidad Autónoma.
+4. La revocación, previo requerimiento, de la condición de una Feria Comercial Oficial y, en su caso, su clasificación, cuando se incumpla lo previsto en la presente Ley y disposiciones de desarrollo o en la declaración responsable a que se refiere el artículo 7. 5. La promoción de las ferias comerciales oficiales cuya realización aconsejen los intereses generales de la Comunidad Autónoma.
 
 6. La ejecución de la legislación estatal en relación con las ferias internacionales que se celebren en Andalucía.
 
@@ -744,17 +739,13 @@ c) Infracciones muy graves, multa desde 18.001 hasta 30.000 euros.
 
 2. Las sanciones serán graduadas atendiendo a las circunstancias agravantes o atenuantes que pudieran concurrir en la infracción cometida, teniéndose en cuenta la existencia o no de intencionalidad, reiteración, connivencia en la comisión, participación en el perjuicio, y mayor o menor cifra de negocios afectada.
 
-3. En los supuestos de infracciones graves y muy graves en los que medien reiteradamente circunstancias agravantes, las sanciones establecidas en el apartado primero podrán llevar aparejadas la prohibición de organización y participación en futuras ferias durante el año siguiente al de la fecha de resolución firme en el caso de infracciones graves y los dos años siguientes en el caso de infracciones muy graves.» Diecisiete. Se modifica el artículo 16, que pasa a ser el artículo 12 , con la siguiente redacción «Artículo 12.
-
-Procedimiento sancionador.
+3. En los supuestos de infracciones graves y muy graves en los que medien reiteradamente circunstancias agravantes, las sanciones establecidas en el apartado primero podrán llevar aparejadas la prohibición de organización y participación en futuras ferias durante el año siguiente al de la fecha de resolución firme en el caso de infracciones graves y los dos años siguientes en el caso de infracciones muy graves.» Diecisiete. Se modifica el artículo 16, que pasa a ser el artículo 12 , con la siguiente redacción «Artículo 12. Procedimiento sancionador.
 
 1. El procedimiento para la imposición de las sanciones se ajustará a lo establecido en la Ley 30/1992, de 26 de noSevilla, 24 de diciembre 2009 Página núm. 23 viembre, de Régimen jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común y demás normativa de aplicación.
 
 2. La incoación del procedimiento sancionador corresponde al órgano de la Consejería competente en materia de comercio interior que se determine reglamentariamente.
 
-3. Corresponde a la persona titular de la Dirección General competente en materia de comercio interior sancionar las infracciones cometidas al amparo de esta Ley.» Dieciocho. Se modifica el artículo 17, que pasa a ser el artículo 13 , con la siguiente redacción «Artículo 13.
-
-Responsabilidad y prescripción.
+3. Corresponde a la persona titular de la Dirección General competente en materia de comercio interior sancionar las infracciones cometidas al amparo de esta Ley.» Dieciocho. Se modifica el artículo 17, que pasa a ser el artículo 13 , con la siguiente redacción «Artículo 13. Responsabilidad y prescripción.
 
 1. Serán responsables de las infracciones quienes por acción u omisión hubieren participado en su realización.
 

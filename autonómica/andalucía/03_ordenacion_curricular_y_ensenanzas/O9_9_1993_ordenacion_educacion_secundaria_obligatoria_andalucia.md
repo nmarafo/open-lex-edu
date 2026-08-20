@@ -1,10 +1,12 @@
 ---
 id: norm-and-o-9-9-1993
 codigo_sintetizado: O9_9_1993 Ordenacion Educación Secundaria Obligatoria Andalucía
-titulo: Orden de 9 de septiembre de 1993, por la que se regula el currículo de la Educación Secundaria Obligatoria.
+titulo: Orden de 9 de septiembre de 1993, por la que se regula el currículo de la
+  Educación Secundaria Obligatoria.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 09/09/1993
 fecha_disposicion: '1993-09-09'
@@ -18,17 +20,17 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Secundaria Obligatoria
 tags:
-  - eso
-  - curriculo
-  - materias
-  - andalucia
+- eso
+- curriculo
+- materias
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Orden de 9 de septiembre de 1993, por la que se regula el currículo de la Educación Secundaria Obligatoria.
 

@@ -1,10 +1,12 @@
 ---
 id: norm-es-2012-5337
 codigo_sintetizado: BOE-A-2012-5337
-titulo: Real Decreto-ley 14/2012, de 20 de abril, de medidas urgentes de racionalización del gasto público en el ámbito educativo.
+titulo: Real Decreto-ley 14/2012, de 20 de abril, de medidas urgentes de racionalización
+  del gasto público en el ámbito educativo.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2012-04-21'
 boletin: BOE
@@ -15,37 +17,34 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Jornada laboral y horarios
 tags:
-  - bachillerato
-  - curriculo
-  - ebep
-  - ensenanzas-universitarias
-  - formacion-profesional
-  - fp-basica
-  - interinos
-  - jornada-laboral-y-horarios
-  - oposiciones
-  - personal-no-docente
-  - profesorado
+- bachillerato
+- curriculo
+- ebep
+- ensenanzas-universitarias
+- formacion-profesional
+- fp-basica
+- interinos
+- jornada-laboral-y-horarios
+- oposiciones
+- personal-no-docente
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
   fundamento_de:
-    - norma_id: norm-es-2019-3307
+  - norma_id: norm-es-2019-3307
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-es-lo-2-2006
-  articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-rd-132-2010
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - '2'
+  - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 ---
 # Real Decreto-ley 14/2012, de 20 de abril, de medidas urgentes de racionalización del gasto público en el ámbito educativo.
 
@@ -57,9 +56,7 @@ En materia de educación, el objetivo común perseguido es proporcionar a las Ad
 
 Las medidas propuestas afectan a todos los niveles educativos (universitarios y no universitarios) y combinan medidas de carácter excepcional, cuya aplicación se justifica por la actual coyuntura económica, con otras de carácter estructural que introducen novedades que contribuirán decisivamente a mejorar de forma permanente la eficiencia del sistema educativo español.
 
-Así, en el ámbito de las enseñanzas no universitarias, se fija con carácter mínimo el horario lectivo que deberá impartir el profesorado en los centros docentes públicos en garantía del cumplimiento de los objetivos, competencias básicas y contenidos de las distintas enseñanzas, concretados en los currículos; se posibilita un grado razonable de flexibilidad en el número de alumnos por aula, en tanto subsistan en la normativa básica en materia de oferta de empleo público las medidas limitativas de incorporación de personal de nuevo ingreso; se vincula el nombramiento de personal interino y sustituto a ausencias de duración superior a los diez días, por considerar que las ausencias cortas pueden y deben ser cubiertas con los recursos ordinarios del propio centro docente, y se aplaza la aplicación de todas las disposiciones contempladas en el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo, a excepción de la disposición adicional séptima, al curso 2014-2015.
-
-Además, se elimina la exigencia de ofertar al menos dos modalidades de Bachillerato en cada centro docente, a fin de ampliar los márgenes para que las Comunidades Autónomas puedan programar una oferta educativa ajustada a sus necesidades.
+Así, en el ámbito de las enseñanzas no universitarias, se fija con carácter mínimo el horario lectivo que deberá impartir el profesorado en los centros docentes públicos en garantía del cumplimiento de los objetivos, competencias básicas y contenidos de las distintas enseñanzas, concretados en los currículos; se posibilita un grado razonable de flexibilidad en el número de alumnos por aula, en tanto subsistan en la normativa básica en materia de oferta de empleo público las medidas limitativas de incorporación de personal de nuevo ingreso; se vincula el nombramiento de personal interino y sustituto a ausencias de duración superior a los diez días, por considerar que las ausencias cortas pueden y deben ser cubiertas con los recursos ordinarios del propio centro docente, y se aplaza la aplicación de todas las disposiciones contempladas en el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo, a excepción de la disposición adicional séptima, al curso 2014-2015. Además, se elimina la exigencia de ofertar al menos dos modalidades de Bachillerato en cada centro docente, a fin de ampliar los márgenes para que las Comunidades Autónomas puedan programar una oferta educativa ajustada a sus necesidades.
 
 Por su parte, en el ámbito de las Universidades se determina la actividad docente a desarrollar por el personal docente e investigador de las Universidades, que se gradúa en atención a la intensidad y excelencia de su actividad investigadora; se prevé la racionalización del mapa universitario y de la oferta de titulaciones, de acuerdo con los requisitos mínimos que se fijen reglamentariamente, al tiempo que se facilita la cooperación interuniversitaria para la impartición conjunta de titulaciones; se adecua el régimen económico y financiero de las Universidades públicas al principio de estabilidad presupuestaria; se fijan umbrales en los precios públicos para aproximar gradualmente su cuantía a los costes de prestación del servicio, tomando asimismo en consideración el esfuerzo académico; y se somete expresamente la incorporación de personal de nuevo ingreso a la normativa básica en materia de oferta de empleo público, dado que las mismas se incluyen en el artículo 22.Uno.a) de la Ley 39/2010, de Presupuestos Generales del Estado para el año 2011 (o artículo equivalente en las sucesivas leyes de presupuestos) así como en el artículo 23 de la misma ley.
 
@@ -101,11 +98,7 @@ Lo dispuesto en el párrafo anterior resultará asimismo de aplicación a las su
 
 #### Artículo 5. Implantación de enseñanzas de formación profesional.
 
-Todas las disposiciones contempladas en el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo, a excepción de la disposición adicional séptima, serán de aplicación en el curso 2014-2015.
-
-Los ciclos formativos de grado medio y grado superior cuya implantación estuviera prevista para el curso escolar 2012-2013 se implantarán en el curso escolar 2014-2015.
-
-Las Administraciones educativas podrán anticipar la implantación de las medidas que consideren necesarias en los cursos anteriores.
+Todas las disposiciones contempladas en el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo, a excepción de la disposición adicional séptima, serán de aplicación en el curso 2014-2015. Los ciclos formativos de grado medio y grado superior cuya implantación estuviera prevista para el curso escolar 2012-2013 se implantarán en el curso escolar 2014-2015. Las Administraciones educativas podrán anticipar la implantación de las medidas que consideren necesarias en los cursos anteriores.
 
 ## Título II
 
@@ -131,9 +124,7 @@ Cuatro. Se da una nueva redacción al artículo 68 de la Ley Orgánica 6/2001, d
 
 «Artículo 68. Régimen de dedicación.
 
-1. El profesorado de las universidades públicas ejercerá sus funciones preferentemente en régimen de dedicación a tiempo completo, o bien a tiempo parcial. La dedicación será, en todo caso, compatible con la realización de trabajos científicos, técnicos o artísticos a que se refiere el artículo 83.
-
-La dedicación a tiempo completo del profesorado universitario será requisito necesario para el desempeño de órganos unipersonales de gobierno que, en ningún caso, podrán ejercerse simultáneamente.
+1. El profesorado de las universidades públicas ejercerá sus funciones preferentemente en régimen de dedicación a tiempo completo, o bien a tiempo parcial. La dedicación será, en todo caso, compatible con la realización de trabajos científicos, técnicos o artísticos a que se refiere el artículo 83. La dedicación a tiempo completo del profesorado universitario será requisito necesario para el desempeño de órganos unipersonales de gobierno que, en ningún caso, podrán ejercerse simultáneamente.
 
 2. Con carácter general, el personal docente e investigador funcionario de las Universidades en régimen de dedicación a tiempo completo dedicará a la actividad docente la parte de la jornada necesaria para impartir en cada curso un total de 24 créditos ECTS.
 
@@ -223,9 +214,7 @@ Primero.–Con efectos para los períodos impositivos que se inicien dentro de l
 
 «Cuatro. El importe de los pagos fraccionados establecidos en el apartado 3 del artículo 45 l.
 
-texto refundido de la Ley del Impuesto sobre Sociedades, para los sujetos pasivos cuyo importe neto de la cifra de negocios en los doce meses anteriores a la fecha en que se inicien los períodos impositivos dentro del año 2012 ó 2013 sea al menos veinte millones de euros, no podrá ser inferior, en ningún caso, al 8 por ciento del resultado positivo de la cuenta de pérdidas y ganancias del ejercicio de los tres, nueve u once primeros meses de cada año natural o, para sujetos pasivos cuyo período impositivo no coincida con el año natural, del ejercicio transcurrido desde el inicio del período impositivo hasta el día anterior al inicio de cada período de ingreso del pago fraccionado, determinado de acuerdo con el Código de Comercio y demás normativa contable de desarrollo, minorado en las bases imponibles negativas pendientes de compensar por los sujetos pasivos, teniendo en cuenta los límites que correspondan de acuerdo con lo establecido en el artículo 9. Primero. Dos del Real Decreto-ley 9/2011, de 19 de agosto, de medidas para la mejora de la calidad y cohesión del sistema nacional de salud, de contribución a la consolidación fiscal, y de elevación del importe máximo de los avales del Estado para 2011.
-
-No obstante, el porcentaje establecido en el párrafo anterior será del 4 por ciento para aquellas entidades allí referidas, en las que al menos del 85 por ciento de los ingresos de los tres, nueve u once primeros meses de cada año natural o, para sujetos pasivos cuyo período impositivo no coincida con el año natural, del ejercicio transcurrido desde el inicio del período impositivo hasta el día anterior al inicio de cada período de ingreso del pago fraccionado, correspondan a rentas a las que resulte de aplicación las exenciones previstas en los artículos 21 y 22 o la deducción prevista en el artículo 30.2, del texto refundido de la Ley del Impuesto sobre Sociedades.
+texto refundido de la Ley del Impuesto sobre Sociedades, para los sujetos pasivos cuyo importe neto de la cifra de negocios en los doce meses anteriores a la fecha en que se inicien los períodos impositivos dentro del año 2012 ó 2013 sea al menos veinte millones de euros, no podrá ser inferior, en ningún caso, al 8 por ciento del resultado positivo de la cuenta de pérdidas y ganancias del ejercicio de los tres, nueve u once primeros meses de cada año natural o, para sujetos pasivos cuyo período impositivo no coincida con el año natural, del ejercicio transcurrido desde el inicio del período impositivo hasta el día anterior al inicio de cada período de ingreso del pago fraccionado, determinado de acuerdo con el Código de Comercio y demás normativa contable de desarrollo, minorado en las bases imponibles negativas pendientes de compensar por los sujetos pasivos, teniendo en cuenta los límites que correspondan de acuerdo con lo establecido en el artículo 9. Primero. Dos del Real Decreto-ley 9/2011, de 19 de agosto, de medidas para la mejora de la calidad y cohesión del sistema nacional de salud, de contribución a la consolidación fiscal, y de elevación del importe máximo de los avales del Estado para 2011. No obstante, el porcentaje establecido en el párrafo anterior será del 4 por ciento para aquellas entidades allí referidas, en las que al menos del 85 por ciento de los ingresos de los tres, nueve u once primeros meses de cada año natural o, para sujetos pasivos cuyo período impositivo no coincida con el año natural, del ejercicio transcurrido desde el inicio del período impositivo hasta el día anterior al inicio de cada período de ingreso del pago fraccionado, correspondan a rentas a las que resulte de aplicación las exenciones previstas en los artículos 21 y 22 o la deducción prevista en el artículo 30.2, del texto refundido de la Ley del Impuesto sobre Sociedades.
 
 En cualquier caso, el porcentaje establecido en el primer párrafo de este apartado sería del 4 por ciento, y el establecido en el segundo párrafo de este apartado será del 2 por ciento para el pago fraccionado cuyo plazo de declaración vence el 20 de abril de 2012. Adicionalmente, no resultará de aplicación a dicho pago fraccionado lo establecido en el artículo 20 l.
 
@@ -247,9 +236,7 @@ El Gobierno dictará las disposiciones que sean precisas para el desarrollo y ej
 
 #### Disposición final cuarta. Entrada en vigor.
 
-Dado en Madrid, el 20 de abril de 2012.
-
-JUAN CARLOS R.
+Dado en Madrid, el 20 de abril de 2012. JUAN CARLOS R.
 
 El Presidente del Gobierno,
 

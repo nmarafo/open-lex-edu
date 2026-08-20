@@ -1,10 +1,13 @@
 ---
 id: norm-es-2011-2615
 codigo_sintetizado: BOE-A-2011-2615
-titulo: Orden EDU/216/2011, de 8 de febrero, por la que se establece el procedimiento de reconocimiento de las formaciones de entrenadores deportivos en las modalidades de fútbol y fútbol sala.
+titulo: Orden EDU/216/2011, de 8 de febrero, por la que se establece el procedimiento
+  de reconocimiento de las formaciones de entrenadores deportivos en las modalidades
+  de fútbol y fútbol sala.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2011-02-11'
 boletin: BOE
@@ -15,35 +18,31 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Deportivas
 tags:
-  - consejo-escolar
-  - curriculo
-  - ense-anzas-deportivas
-  - ensenanzas-deportivas
-  - formacion-profesional
-  - grado-medio
-  - grado-superior
-  - oposiciones
-  - titulacion
+- consejo-escolar
+- curriculo
+- ense-anzas-deportivas
+- ensenanzas-deportivas
+- formacion-profesional
+- grado-medio
+- grado-superior
+- oposiciones
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2000-5990
-    - norma_id: norm-es-2007-19326
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2000-5990
+  - norma_id: norm-es-2007-19326
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-l-39-2015
-  articulos:
-    - '1'
-    - norma_id: norm-es-2000-5990
-    - norma_id: norm-es-2007-19326
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - norma_id: norm-es-2000-5990
+  - norma_id: norm-es-2007-19326
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 ---
 # Orden EDU/216/2011, de 8 de febrero, por la que se establece el procedimiento de reconocimiento de las formaciones de entrenadores deportivos en las modalidades de fútbol y fútbol sala.
 
@@ -69,15 +68,11 @@ En virtud de lo expuesto, y con la aprobación previa de la Vicepresidenta Prime
 
 3. La aplicación del procedimiento en cada ámbito territorial exigirá que en el mismo:
 
-a) Se hayan llevado a cabo formaciones federativas durante el periodo precisado conforme a lo previsto en el punto 2.
-
-b) Estén implantadas las enseñanzas deportivas en la modalidad de fútbol y fútbol sala.
+a) Se hayan llevado a cabo formaciones federativas durante el periodo precisado conforme a lo previsto en el punto 2. b) Estén implantadas las enseñanzas deportivas en la modalidad de fútbol y fútbol sala.
 
 #### Artículo 2. Organismos competentes.
 
-Corresponderá a las Administraciones educativas de las Comunidades Autónomas y las Ciudades de Ceuta y Melilla, previo acuerdo con las respectivas Administraciones deportivas de las mismas, precisar el periodo al que se refiere el artículo 1.2.
-
-#### Artículo 3. Plazo para la aplicación del procedimiento.
+Corresponderá a las Administraciones educativas de las Comunidades Autónomas y las Ciudades de Ceuta y Melilla, previo acuerdo con las respectivas Administraciones deportivas de las mismas, precisar el periodo al que se refiere el artículo 1.2. #### Artículo 3. Plazo para la aplicación del procedimiento.
 
 La aplicación del procedimiento se realizará dentro de un plazo de cinco años que se iniciará el día de la entrada en vigor de la presente orden.
 
@@ -103,9 +98,7 @@ b) La segunda, la obtención individual del efecto que proceda, en función de l
 
 1. Requisitos de las formaciones.
 
-a) Haber sido promovidas por las Federaciones autonómicas o española de fútbol y fútbol sala entre el 15 de julio de 1999 y el 9 de noviembre de 2007.
-
-b) Tener el aval de la Real Federación Española de Fútbol, mediante certificado según el modelo del anexo II.
+a) Haber sido promovidas por las Federaciones autonómicas o española de fútbol y fútbol sala entre el 15 de julio de 1999 y el 9 de noviembre de 2007. b) Tener el aval de la Real Federación Española de Fútbol, mediante certificado según el modelo del anexo II.
 
 c) Estar acreditadas con las actas y plan de estudios, con expresión de la carga lectiva, que como mínimo será la establecida en el [Real Decreto 320/2000](./RD320_2000_establecen_titulos_tecnico_deportivo_tecnico_deportivo.md), de 3 de marzo que estableció los títulos de Técnico Deportivo y Técnico Deportivo Superior en las especialidades de Fútbol y Fútbol Sala.
 

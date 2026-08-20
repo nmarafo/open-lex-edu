@@ -1,7 +1,12 @@
 ---
 id: norm-can-res-juriscan-65632-66
 codigo_sintetizado: Resolucion BOC 66
-titulo: Resolución de 2 de junio de 2011, por la que se corrigen errores materiales en la Resolución de 25 de mayo de 2011, que dicta instrucciones sobre organización y desarrollo de las pruebas de acceso a las enseñanzas artísticas superiores de Grado en Música, , Arte Dramático y Diseño en la Comunidad Autónoma de Canarias, y convoca las correspondientes al curso académico 2011-2012 (BOC n.º 124, de 24 de junio).
+titulo: Resolución de 2 de junio de 2011, por la que se corrigen errores materiales
+  en la Resolución de 25 de mayo de 2011, que dicta instrucciones sobre organización
+  y desarrollo de las pruebas de acceso a las enseñanzas artísticas superiores de
+  Grado en Música, , Arte Dramático y Diseño en la Comunidad Autónoma de Canarias,
+  y convoca las correspondientes al curso académico 2011-2012 (BOC n.º 124, de 24
+  de junio).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,31 +18,31 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Artísticas
 tags:
-  - educacion-personas-adultas
-  - ense-anzas-art-sticas
-  - ensenanzas-artisticas
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - formacion-profesional
-  - oposiciones
-  - procedimiento-administrativo
-  - roc
+- educacion-personas-adultas
+- ense-anzas-art-sticas
+- ensenanzas-artisticas
+- ensenanzas-deportivas
+- equipos-directivos
+- formacion-profesional
+- oposiciones
+- procedimiento-administrativo
+- roc
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-212-1991
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-res-juriscan-65631-68
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-juriscan-65631-68
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-can-res-juriscan-65631-68
-    - norma_id: norm-can-d-212-1991
+  - '1'
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-res-juriscan-65631-68
+  - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2011-124-3519.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=65632
 ---
@@ -84,12 +89,12 @@ tercero, letra d), en su segunda línea (Admisión del alumnado y reserva de pla
 ..."se celebrarán el día 13 de junio de 2011"...
 
 8. Anexo II, dispositivo tercero, apartado séptimo (Realización de la prueba específica de acceso a las enseñanzas artísticas superiores de Grado en Música). Donde dice:
-Publicación listas definitivas de inscritos para la realización de la prueba específica de acceso 16 de junio de 2011 Debe decir:
-Publicación listas definitivas de inscritos para la realización de la prueba específica de acceso 17 de junio de 2011
+ÓPublicación listas definitivas de inscritos para la realización de la prueba específica de acceso Ó16 de junio de 2011 Debe decir:
+ÓPublicación listas definitivas de inscritos para la realización de la prueba específica de acceso Ó17 de junio de 2011
 
 9.- Anexo II, dispositivo cuarto, apartado séptimo (Calendario de la convocatoria para el curso 2011-2012). Donde dice:
-Plazo de solicitud de plaza e inscripción a la prueba específica de acceso Del 31 de mayo al 20 de junio de 2011 y del 1 al 7 de septiembre de Debe decir:
-Plazo de solicitud de plaza e inscripción a la prueba específica de acceso Del 31 de mayo al 7 de septiembre de 2011
+ÓPlazo de solicitud de plaza e inscripción a la prueba específica de acceso ÓDel 31 de mayo al 20 de junio de 2011 y del 1 al 7 de septiembre de Debe decir:
+ÓPlazo de solicitud de plaza e inscripción a la prueba específica de acceso ÓDel 31 de mayo al 7 de septiembre de 2011
 
 10. Anexo II, dispositivo quinto, apartado sexto (Calendario de la convocatoria para el curso 2011-2012). Donde dice:
 Realización de la prueba específica de acceso:

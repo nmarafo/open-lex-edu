@@ -1,7 +1,10 @@
 ---
 id: norm-can-res-juriscan-73844-69
 codigo_sintetizado: Resolucion BOC 69
-titulo: Resolución de 27 de noviembre de 2015, por la que se dictan instrucciones para la realización del trabajo fin de estudios correspondiente a las Enseñanzas Artísticas Superiores en la Comunidad Autónoma de Canarias, en el curso académico 2015-2016 (BOC n.º 245, de 18 de diciembre).
+titulo: Resolución de 27 de noviembre de 2015, por la que se dictan instrucciones
+  para la realización del trabajo fin de estudios correspondiente a las Enseñanzas
+  Artísticas Superiores en la Comunidad Autónoma de Canarias, en el curso académico
+  2015-2016 (BOC n.º 245, de 18 de diciembre).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,30 +16,30 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Artísticas
 tags:
-  - curriculo
-  - educacion-personas-adultas
-  - ense-anzas-art-sticas
-  - ensenanzas-artisticas
-  - equipos-directivos
-  - evaluacion
-  - formacion-profesional
-  - titulacion
+- curriculo
+- educacion-personas-adultas
+- ense-anzas-art-sticas
+- ensenanzas-artisticas
+- equipos-directivos
+- evaluacion
+- formacion-profesional
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2015-245-5622.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=73844
 ---
@@ -60,9 +63,7 @@ Dictar las instrucciones, que se detallan a continuación, relativas al Trabajo 
 
 #### Primera. Objeto y ámbito de aplicación.
 
-Establecer las directrices generales para la definición, organización, realización, defensa, evaluación y organización administrativa del TFE en el marco de las Enseñanzas Artísticas Superiores en la Comunidad Autónoma de Canarias, en el curso académico 2015-2016.
-
-#### Segunda. Finalidad del TFE.
+Establecer las directrices generales para la definición, organización, realización, defensa, evaluación y organización administrativa del TFE en el marco de las Enseñanzas Artísticas Superiores en la Comunidad Autónoma de Canarias, en el curso académico 2015-2016. #### Segunda. Finalidad del TFE.
 
 La finalidad del TFE es comprobar el grado de adquisición de las competencias transversales, generales y específicas, asociadas al título correspondiente, que ha sido alcanzado por el estudiante, así como demostrar su capacitación para el desempeño de la actividad profesional adecuada a la especialidad cursada.
 

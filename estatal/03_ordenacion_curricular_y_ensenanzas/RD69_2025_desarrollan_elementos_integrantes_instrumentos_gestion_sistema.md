@@ -1,10 +1,14 @@
 ---
 id: norm-es-2025-2039
 codigo_sintetizado: BOE-A-2025-2039
-titulo: Real Decreto 69/2025, de 4 de febrero, por el que se desarrollan los elementos integrantes y los instrumentos de gestión del Sistema Nacional de Formación Profesional, y se modifica el Real Decreto 375/1999, de 5 de marzo, por el que se crea el Instituto Nacional de las Cualificaciones.
+titulo: Real Decreto 69/2025, de 4 de febrero, por el que se desarrollan los elementos
+  integrantes y los instrumentos de gestión del Sistema Nacional de Formación Profesional,
+  y se modifica el Real Decreto 375/1999, de 5 de marzo, por el que se crea el Instituto
+  Nacional de las Cualificaciones.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2025-02-05'
 boletin: BOE
@@ -15,49 +19,46 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-  - curriculo
-  - ensenanzas-artisticas
-  - formacion-profesional
-  - orientacion-educativa
-  - personal-no-docente
+- curriculo
+- ensenanzas-artisticas
+- formacion-profesional
+- orientacion-educativa
+- personal-no-docente
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-659-2023
   fundamentado_en:
-    - norma_id: norm-es-2002-12018
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2018
   desarrollado_por: []
   fundamento_de:
-    - norma_id: norm-can-res-boc-2026-070-41
-    - norma_id: norm-can-res-036
-    - norma_id: norm-can-res-034
-    - norma_id: norm-can-res-039
-    - norma_id: norm-can-res-038
-    - norma_id: norm-can-res-035
-    - norma_id: norm-can-res-037
-    - norma_id: norm-can-res-033
+  - norma_id: norm-can-res-boc-2026-070-41
+  - norma_id: norm-can-res-036
+  - norma_id: norm-can-res-034
+  - norma_id: norm-can-res-039
+  - norma_id: norm-can-res-038
+  - norma_id: norm-can-res-035
+  - norma_id: norm-can-res-037
+  - norma_id: norm-can-res-033
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-es-l-39-2015
-  articulos:
-    - '1'
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-can-res-134
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-3-2018
-    - norma_id: norm-es-2002-12018
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-134
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-2010-12201
 ---
 # Real Decreto 69/2025, de 4 de febrero, por el que se desarrollan los elementos integrantes y los instrumentos de gestión del Sistema Nacional de Formación Profesional, y se modifica el Real Decreto 375/1999, de 5 de marzo, por el que se crea el Instituto Nacional de las Cualificaciones.
 
@@ -137,15 +138,15 @@ Todos los elementos integrantes del Sistema Nacional de Formación Profesional y
 
 #### Artículo 3. Naturaleza del Catálogo Nacional de Estándares de Competencias Profesionales.
 
-1. El Catálogo Nacional de Estándares de Competencias Profesionales (CNECP) es el instrumento del Sistema Nacional de Formación Profesional que ordena los estándares de competencias profesionales identificados en el sistema productivo español, en función de las competencias apropiadas y el estándar de calidad requerido para el ejercicio profesional, y que son susceptibles de reconocimiento y acreditación oficial.
+1. El Catálogo Nacional de Estándares de Competencias Profesionales (CNECP) es el instrumento del Sistema Nacional de Formación Profesional que ordena los estándares de competencias profesionales identificados en el sistema productivo español, en función de las competencias apropiadas y el estándar de calidad requerido para el ejercicio profesional, y que son susceptibles de reconocimiento y acreditación oficial.
 
-2. La inclusión de los estándares de competencias profesionales en el Catálogo Nacional de Estándares de Competencias Profesionales no supondrá regulación de ejercicio profesional ni afectará al contenido de las relaciones laborales.
+2. La inclusión de los estándares de competencias profesionales en el Catálogo Nacional de Estándares de Competencias Profesionales no supondrá regulación de ejercicio profesional ni afectará al contenido de las relaciones laborales.
 
-3. El Catálogo Nacional de Estándares de Competencias Profesionales tendrá naturaleza virtual, en forma de repositorio digital a través de una aplicación informática gestionada por el Ministerio de Educación, Formación Profesional y Deportes, que cumplirá con los requisitos de diseño y accesibilidad para todas las personas.
+3. El Catálogo Nacional de Estándares de Competencias Profesionales tendrá naturaleza virtual, en forma de repositorio digital a través de una aplicación informática gestionada por el Ministerio de Educación, Formación Profesional y Deportes, que cumplirá con los requisitos de diseño y accesibilidad para todas las personas.
 
 #### Artículo 4. Finalidad y funciones del Catálogo Nacional de Estándares de Competencias Profesionales.
 
-1. Sobre la base de la observación y el análisis permanente del sistema productivo y las demandas de las empresas y la sociedad, el Catálogo Nacional de Estándares de Competencias Profesionales:
+1. Sobre la base de la observación y el análisis permanente del sistema productivo y las demandas de las empresas y la sociedad, el Catálogo Nacional de Estándares de Competencias Profesionales:
 
 a) Identificará, clasificará y ordenará las competencias propias del mercado laboral significativas para la economía productiva con validez en todo el territorio nacional. El catálogo podrá, asimismo, recoger aquellos perfiles profesionales que, por su específico valor cultural o patrimonial, requieran una especial protección.
 
@@ -153,27 +154,27 @@ b) Operará como referencia obligada para la acreditación de competencias profe
 
 c) Proporcionará la base para el diseño de los módulos profesionales y la creación de ofertas de formación profesional, basadas en itinerarios acumulables y acreditables a lo largo de la vida, así como para la movilidad en un mercado de trabajo internacional sobre la base de transparencia y, en su caso, equivalencia de marcos comunes entre los diferentes sistemas nacionales de formación profesional de la Unión Europea.
 
-2. Se promoverá la utilización del Catálogo como herramienta de empleabilidad de las personas, facilitando la mejor visión del conjunto de sus competencias y de sus potencialidades. A su vez, las personas empleadoras podrán utilizarlo en la búsqueda y definición de perfiles profesionales que requieran en cada momento.
+2. Se promoverá la utilización del Catálogo como herramienta de empleabilidad de las personas, facilitando la mejor visión del conjunto de sus competencias y de sus potencialidades. A su vez, las personas empleadoras podrán utilizarlo en la búsqueda y definición de perfiles profesionales que requieran en cada momento.
 
 #### Artículo 5. Contenido y organización del Catálogo Nacional de Estándares de Competencias Profesionales.
 
-1. El Catálogo Nacional de Estándares de Competencias Profesionales recoge y ordena el conjunto de estándares de competencias profesionales identificados en el sistema productivo y de prestación de servicios.
+1. El Catálogo Nacional de Estándares de Competencias Profesionales recoge y ordena el conjunto de estándares de competencias profesionales identificados en el sistema productivo y de prestación de servicios.
 
-2. Los estándares de competencias profesionales quedarán asignados a los niveles de competencia profesional 1, 2 y 3, en función de los criterios y descriptores que se establecen en el anexo I del presente real decreto, y que atienden a los criterios y descriptores comúnmente establecidos a nivel europeo de conocimientos, capacidades, responsabilidad y autonomía, entre otros, de las tareas a desempeñar.
+2. Los estándares de competencias profesionales quedarán asignados a los niveles de competencia profesional 1, 2 y 3, en función de los criterios y descriptores que se establecen en el anexo I del presente real decreto, y que atienden a los criterios y descriptores comúnmente establecidos a nivel europeo de conocimientos, capacidades, responsabilidad y autonomía, entre otros, de las tareas a desempeñar.
 
-3. Los descriptores previstos en el anexo I se establecen sin perjuicio de los que se contemplan en el Real Decreto 272/2022, de 12 de abril, por el que se establece el Marco Español de Cualificaciones para el Aprendizaje Permanente, para las ofertas formativas en las que se acrediten los distintos estándares de competencias profesionales. La correlación de niveles entre unos y otros figura como anexo II.
+3. Los descriptores previstos en el anexo I se establecen sin perjuicio de los que se contemplan en el Real Decreto 272/2022, de 12 de abril, por el que se establece el Marco Español de Cualificaciones para el Aprendizaje Permanente, para las ofertas formativas en las que se acrediten los distintos estándares de competencias profesionales. La correlación de niveles entre unos y otros figura como anexo II.
 
-4. Cada estándar de competencias profesionales quedará adscrito, a efectos orientativos y de organización, a una familia profesional de las que se recogen en el anexo III de este real decreto, atendiendo a criterios de afinidad competencial.
+4. Cada estándar de competencias profesionales quedará adscrito, a efectos orientativos y de organización, a una familia profesional de las que se recogen en el anexo III de este real decreto, atendiendo a criterios de afinidad competencial.
 
-5. Excepcionalmente, un mismo estándar podrá vincularse a más de una familia profesional y tener carácter transversal cuando se refiera a competencias coparticipadas entre más de una familia profesional.
+5. Excepcionalmente, un mismo estándar podrá vincularse a más de una familia profesional y tener carácter transversal cuando se refiera a competencias coparticipadas entre más de una familia profesional.
 
-6. Cuando el estándar de competencias profesionales responda a múltiples desempeños profesionales vinculados al sistema de Formación Profesional quedará asociado a la familia profesional Actividades y Competencias Transversales.
+6. Cuando el estándar de competencias profesionales responda a múltiples desempeños profesionales vinculados al sistema de Formación Profesional quedará asociado a la familia profesional Actividades y Competencias Transversales.
 
 #### Artículo 6. Estándares de competencias profesionales.
 
-1. Los estándares de competencias profesionales (ECP) se definen como el conjunto detallado de elementos de competencia que describen el desempeño de las actividades y las tareas asociadas al ejercicio de una determinada actividad profesional con el estándar de calidad requerido. Será la unidad o elemento de referencia para diseñar, desarrollar y actualizar ofertas de formación profesional.
+1. Los estándares de competencias profesionales (ECP) se definen como el conjunto detallado de elementos de competencia que describen el desempeño de las actividades y las tareas asociadas al ejercicio de una determinada actividad profesional con el estándar de calidad requerido. Será la unidad o elemento de referencia para diseñar, desarrollar y actualizar ofertas de formación profesional.
 
-2. Los estándares de competencias profesionales constituyen la unidad básica para el diseño de la formación y para la acreditación de competencias profesionales adquiridas por experiencia laboral u otras vías no formales e informales. Para dar respuesta a ambas funciones, cada estándar de competencias profesionales contendrá, al menos, los siguientes elementos:
+2. Los estándares de competencias profesionales constituyen la unidad básica para el diseño de la formación y para la acreditación de competencias profesionales adquiridas por experiencia laboral u otras vías no formales e informales. Para dar respuesta a ambas funciones, cada estándar de competencias profesionales contendrá, al menos, los siguientes elementos:
 
 a) **Datos de identificación.** Figurarán la denominación oficial, la familia profesional a la que se adscribe, el nivel y un código alfanumérico que lo identifique inequívocamente.
 
@@ -185,21 +186,21 @@ d) **Contexto profesional.** En el que se incluirán, con carácter orientativo,
 
 #### Artículo 7. Actualización del Catálogo Nacional de Estándares de Competencias Profesionales.
 
-1. El Catálogo Nacional de Estándares de Competencias Profesionales se actualizará de manera continua, de forma que refleje en todo momento la realidad de los sistemas productivos y de prestación de servicios. La actualización de dicho catálogo podrá efectuarse bien mediante el establecimiento de un nuevo estándar de competencias profesionales, bien mediante la modificación o supresión de un estándar de competencias profesionales ya establecido con anterioridad.
+1. El Catálogo Nacional de Estándares de Competencias Profesionales se actualizará de manera continua, de forma que refleje en todo momento la realidad de los sistemas productivos y de prestación de servicios. La actualización de dicho catálogo podrá efectuarse bien mediante el establecimiento de un nuevo estándar de competencias profesionales, bien mediante la modificación o supresión de un estándar de competencias profesionales ya establecido con anterioridad.
 
-2. El Instituto Nacional de las Cualificaciones, de acuerdo con lo establecido en el Real Decreto 375/1999, de 5 de marzo, por el que se crea el Instituto Nacional de las Cualificaciones, es el órgano competente para el diseño y actualización de los estándares de competencias profesionales, que tendrán validez en todo el territorio español.
+2. El Instituto Nacional de las Cualificaciones, de acuerdo con lo establecido en el Real Decreto 375/1999, de 5 de marzo, por el que se crea el Instituto Nacional de las Cualificaciones, es el órgano competente para el diseño y actualización de los estándares de competencias profesionales, que tendrán validez en todo el territorio español.
 
-3. El Gobierno, previa consulta al Consejo General de Formación Profesional y en los términos previstos en la normativa vigente, aprobará los estándares de competencias profesionales que proceda incluir o suprimir en el Catálogo Nacional de Estándares de Competencias Profesionales.
+3. El Gobierno, previa consulta al Consejo General de Formación Profesional y en los términos previstos en la normativa vigente, aprobará los estándares de competencias profesionales que proceda incluir o suprimir en el Catálogo Nacional de Estándares de Competencias Profesionales.
 
-4. Tanto las administraciones autonómicas competentes como las asociaciones empresariales y sindicales podrán elevar propuestas al Instituto Nacional de las Cualificaciones para la actualización del Catálogo Nacional de Estándares de Competencias Profesionales.
+4. Tanto las administraciones autonómicas competentes como las asociaciones empresariales y sindicales podrán elevar propuestas al Instituto Nacional de las Cualificaciones para la actualización del Catálogo Nacional de Estándares de Competencias Profesionales.
 
 #### Artículo 8. Tipología de actualización del Catálogo Nacional de Estándares de Competencias Profesionales.
 
 A los efectos previstos en el artículo 7, se establece la siguiente tipología de actualización del Catálogo Nacional de Estándares de Competencias Profesionales:
 
-1. La actualización del Catálogo por establecimiento, fusión o escisión de uno o varios estándares de competencias profesionales implica la incorporación al Catálogo de un nuevo estándar, bien por la detección de una nueva ocupación no recogida previamente en el Catálogo, bien por la fusión, escisión o cambio en la nivelación de uno o varios estándares ya recogidos con anterioridad en el Catálogo. La actualización también puede producirse por la supresión de uno o varios estándares que resulten obsoletos.
+1. La actualización del Catálogo por establecimiento, fusión o escisión de uno o varios estándares de competencias profesionales implica la incorporación al Catálogo de un nuevo estándar, bien por la detección de una nueva ocupación no recogida previamente en el Catálogo, bien por la fusión, escisión o cambio en la nivelación de uno o varios estándares ya recogidos con anterioridad en el Catálogo. La actualización también puede producirse por la supresión de uno o varios estándares que resulten obsoletos.
 
-2. La actualización del Catálogo por modificación de un estándar ya incluido puede implicar alguno de los siguientes supuestos, siempre que no deriven en un cambio en la nivelación, de acuerdo con los criterios establecidos en el artículo 5.2 del presente real decreto:
+2. La actualización del Catálogo por modificación de un estándar ya incluido puede implicar alguno de los siguientes supuestos, siempre que no deriven en un cambio en la nivelación, de acuerdo con los criterios establecidos en el artículo 5.2 del presente real decreto:
 
 a) Actualización de la redacción de la competencia profesional.
 
@@ -213,9 +214,7 @@ e) Inclusión o supresión de ocupaciones y puestos de trabajo relevantes.
 
 f) Inclusión, modificación o supresión de los indicadores de calidad incluidos en los elementos de la competencia.
 
-3. La actualización del Catálogo Nacional de Estándares de Competencias Profesionales se podrá realizar mediante orden dictada por la persona titular del Ministerio de Educación, Formación Profesional y Deportes en los supuestos contemplados en el apartado 2.
-
-## Capítulo II. Catálogo Modular de Formación Profesional.
+3. La actualización del Catálogo Nacional de Estándares de Competencias Profesionales se podrá realizar mediante orden dictada por la persona titular del Ministerio de Educación, Formación Profesional y Deportes en los supuestos contemplados en el apartado 2. ## Capítulo II. Catálogo Modular de Formación Profesional.
 
 #### Artículo 9. Naturaleza del Catálogo Modular de Formación Profesional.
 
@@ -231,25 +230,25 @@ b) Operar como referencia obligada para el diseño de las ofertas del Catálogo 
 
 #### Artículo 11. Contenido y organización del Catálogo Modular de Formación Profesional.
 
-1. El Catálogo Modular de Formación Profesional recogerá la totalidad de módulos profesionales vinculados a estándares de competencias profesionales que estén incluidos en el currículo básico de una oferta de grado B, C, D o E. No forman parte, por consiguiente, ni los módulos profesionales desvinculados de estándares de competencias profesionales ni tampoco los módulos profesionales complementarios de diseño autonómico, amparados en el artículo 7.4.a) y 7.5.c) del Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.
+1. El Catálogo Modular de Formación Profesional recogerá la totalidad de módulos profesionales vinculados a estándares de competencias profesionales que estén incluidos en el currículo básico de una oferta de grado B, C, D o E. No forman parte, por consiguiente, ni los módulos profesionales desvinculados de estándares de competencias profesionales ni tampoco los módulos profesionales complementarios de diseño autonómico, amparados en el artículo 7.4.a) y 7.5.c) del Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.
 
-2. Estará organizado por niveles y familias profesionales, en función del estándar de competencias profesionales con el que esté total o parcialmente vinculado. A estos efectos, se entiende como «parcialmente» vinculado aquel módulo profesional que no acredita por sí mismo un estándar de competencias profesionales, pero que lo hace en concurso con otro u otros módulos profesionales y así figura recogido en la norma que establece la acción formativa.
+2. Estará organizado por niveles y familias profesionales, en función del estándar de competencias profesionales con el que esté total o parcialmente vinculado. A estos efectos, se entiende como «parcialmente» vinculado aquel módulo profesional que no acredita por sí mismo un estándar de competencias profesionales, pero que lo hace en concurso con otro u otros módulos profesionales y así figura recogido en la norma que establece la acción formativa.
 
-3. Los módulos profesionales incluidos deberán detallar, al menos, la denominación, la referencia al estándar de competencias profesionales, los resultados de aprendizaje y los criterios de evaluación, así como una identificación numérica inequívoca.
+3. Los módulos profesionales incluidos deberán detallar, al menos, la denominación, la referencia al estándar de competencias profesionales, los resultados de aprendizaje y los criterios de evaluación, así como una identificación numérica inequívoca.
 
-4. La publicación de cualquier oferta de Formación Profesional que incluya módulos profesionales vinculados a estándares de competencias profesionales supondrá la incorporación de oficio de dichos módulos al Catálogo Modular de Formación Profesional.
+4. La publicación de cualquier oferta de Formación Profesional que incluya módulos profesionales vinculados a estándares de competencias profesionales supondrá la incorporación de oficio de dichos módulos al Catálogo Modular de Formación Profesional.
 
-5. El Catálogo Modular de Formación Profesional tendrá naturaleza virtual, en forma de repositorio digital a través de una aplicación informática gestionada por el Ministerio de Educación, Formación Profesional y Deportes, que cumplirá con los requisitos de diseño y accesibilidad para todas las personas.
+5. El Catálogo Modular de Formación Profesional tendrá naturaleza virtual, en forma de repositorio digital a través de una aplicación informática gestionada por el Ministerio de Educación, Formación Profesional y Deportes, que cumplirá con los requisitos de diseño y accesibilidad para todas las personas.
 
-6. La incorporación de módulos profesionales al Catálogo Modular de Formación Profesional es competencia exclusiva del Ministerio de Educación, Formación Profesional y Deportes, sin perjuicio de que tanto las administraciones autonómicas competentes como las asociaciones empresariales y sindicales podrán elevar propuestas para su actualización.
+6. La incorporación de módulos profesionales al Catálogo Modular de Formación Profesional es competencia exclusiva del Ministerio de Educación, Formación Profesional y Deportes, sin perjuicio de que tanto las administraciones autonómicas competentes como las asociaciones empresariales y sindicales podrán elevar propuestas para su actualización.
 
 ## Capítulo III. Catálogo Nacional de Ofertas de Formación Profesional.
 
 #### Artículo 12. Naturaleza del Catálogo Nacional de Ofertas de Formación Profesional.
 
-1. El Catálogo Nacional de Ofertas de Formación Profesional es el instrumento del Sistema Nacional de Formación Profesional que contiene las ofertas de formación profesional reconocidas y acreditables en el marco del Sistema de Formación Profesional.
+1. El Catálogo Nacional de Ofertas de Formación Profesional es el instrumento del Sistema Nacional de Formación Profesional que contiene las ofertas de formación profesional reconocidas y acreditables en el marco del Sistema de Formación Profesional.
 
-2. Las ofertas del Sistema de Formación Profesional se organizarán en una dimensión vertical definitoria, de forma escalonada, de la serie ascendente de Grados descriptiva de la amplitud de cada oferta formativa diseñada a partir del estándar de competencias profesionales de mayor nivel del Catálogo Nacional de Estándares de Competencias Profesionales:
+2. Las ofertas del Sistema de Formación Profesional se organizarán en una dimensión vertical definitoria, de forma escalonada, de la serie ascendente de Grados descriptiva de la amplitud de cada oferta formativa diseñada a partir del estándar de competencias profesionales de mayor nivel del Catálogo Nacional de Estándares de Competencias Profesionales:
 
 a) **Grado A.** Conducente a una Acreditación parcial de competencia (niveles 1, 2 o 3).
 
@@ -261,17 +260,17 @@ d) **Grado D.** Conducente a un Título de Técnico Básico, Técnico o Técnico
 
 e) **Grado E.** Conducente a un Título de Especialista o Máster en Formación Profesional.
 
-3. La publicación de cualquier oferta de Formación Profesional supondrá su incorporación de oficio en el Catálogo Nacional de Ofertas de Formación Profesional.
+3. La publicación de cualquier oferta de Formación Profesional supondrá su incorporación de oficio en el Catálogo Nacional de Ofertas de Formación Profesional.
 
-4. El Catálogo Nacional de Ofertas de Formación Profesional tendrá naturaleza virtual, en forma de repositorio digital a través de una aplicación informática gestionada por el Ministerio de Educación, Formación Profesional y Deportes, que cumplirá con los requisitos de diseño y accesibilidad para todas las personas.
+4. El Catálogo Nacional de Ofertas de Formación Profesional tendrá naturaleza virtual, en forma de repositorio digital a través de una aplicación informática gestionada por el Ministerio de Educación, Formación Profesional y Deportes, que cumplirá con los requisitos de diseño y accesibilidad para todas las personas.
 
-5. Todas las ofertas de Formación Profesional tendrán carácter acreditable y acumulable, permitiendo progresar en itinerarios de formación conducentes a otros de mayor grado.
+5. Todas las ofertas de Formación Profesional tendrán carácter acreditable y acumulable, permitiendo progresar en itinerarios de formación conducentes a otros de mayor grado.
 
-6. La incorporación de nuevas ofertas al Catálogo Nacional de Ofertas de Formación Profesional es competencia exclusiva del Ministerio de Educación, Formación Profesional y Deportes, sin perjuicio de que tanto las administraciones autonómicas competentes como las asociaciones empresariales y sindicales puedan elevar propuestas para su actualización.
+6. La incorporación de nuevas ofertas al Catálogo Nacional de Ofertas de Formación Profesional es competencia exclusiva del Ministerio de Educación, Formación Profesional y Deportes, sin perjuicio de que tanto las administraciones autonómicas competentes como las asociaciones empresariales y sindicales puedan elevar propuestas para su actualización.
 
 #### Artículo 13. Alcance y funciones del Catálogo Nacional de Ofertas de Formación Profesional.
 
-1. El Catálogo Nacional de Ofertas de Formación Profesional tendrá el siguiente alcance:
+1. El Catálogo Nacional de Ofertas de Formación Profesional tendrá el siguiente alcance:
 
 a) Determinar el conjunto de acciones formativas dirigidas tanto a la capacitación formal para el desempeño cualificado de las diversas profesiones y la participación activa en la vida social, cultural y económica, como a la acreditación de las competencias profesionales de las personas.
 
@@ -279,7 +278,7 @@ b) Coordinar las diferentes ofertas de formación.
 
 c) Fijar la oferta formativa del Sistema de Formación Profesional.
 
-2. Las ofertas incluidas en el Catálogo Nacional de Ofertas de Formación Profesional tendrán las siguientes finalidades:
+2. Las ofertas incluidas en el Catálogo Nacional de Ofertas de Formación Profesional tendrán las siguientes finalidades:
 
 a) Cubrir las necesidades de cualificación de las personas en formación y de las ocupadas o desempleadas que necesiten adquirir, ampliar o actualizar competencias profesionales identificadas en el mercado de trabajo, mediante una formación ajustada a los requerimientos del sistema productivo, y que les permita la incorporación o reincorporación al mercado laboral y la reorientación del itinerario profesional.
 
@@ -289,15 +288,15 @@ c) Contar con un nivel de referencia en el Marco Español de Cualificaciones par
 
 #### Artículo 14. Organización y contenido del Catálogo Nacional de Ofertas de Formación Profesional.
 
-1. El Catálogo Nacional de Ofertas de Formación Profesional está formado por el total de ofertas de formación establecidas en el Sistema de Formación Profesional, en cualquiera de sus grados. Cualquier otra oferta no incluida en dicho catálogo no será considerada parte del Sistema de Formación Profesional.
+1. El Catálogo Nacional de Ofertas de Formación Profesional está formado por el total de ofertas de formación establecidas en el Sistema de Formación Profesional, en cualquiera de sus grados. Cualquier otra oferta no incluida en dicho catálogo no será considerada parte del Sistema de Formación Profesional.
 
-2. Cada oferta formativa contará con una denominación oficial, un currículo básico y llevará aparejada un número de código alfanumérico que lo identificará inequívocamente en relación con su grado, nivel e integración en una oferta de grado mayor.
+2. Cada oferta formativa contará con una denominación oficial, un currículo básico y llevará aparejada un número de código alfanumérico que lo identificará inequívocamente en relación con su grado, nivel e integración en una oferta de grado mayor.
 
-3. Cada oferta de Formación Profesional contará, si procede, con la indicación al nivel de referencia en el Marco Español de Cualificaciones para el Aprendizaje Permanente y, en su caso, en el Marco Europeo de Cualificaciones que le corresponda.
+3. Cada oferta de Formación Profesional contará, si procede, con la indicación al nivel de referencia en el Marco Español de Cualificaciones para el Aprendizaje Permanente y, en su caso, en el Marco Europeo de Cualificaciones que le corresponda.
 
-4. Cada oferta de Formación Profesional hará referencia, si procede, a su relación con las ofertas de grados superiores en que esté incluida y su vinculación con los grados inferiores de que esté formada.
+4. Cada oferta de Formación Profesional hará referencia, si procede, a su relación con las ofertas de grados superiores en que esté incluida y su vinculación con los grados inferiores de que esté formada.
 
-5. Cada oferta formativa hará mención expresa a la duración, que se ajustará a los siguientes supuestos:
+5. Cada oferta formativa hará mención expresa a la duración, que se ajustará a los siguientes supuestos:
 
 a) Para los grados D y E, la duración total será la determinada por la norma que establezca la oferta formativa, sin perjuicio de lo dispuesto en el artículo 7.5 del Real Decreto 659/2023, de 18 de julio.
 
@@ -307,9 +306,9 @@ c) Para los grados A, B y C que no deriven de un grado D, la duración será la 
 
 d) En el supuesto de que una administración competente implantara una acción formativa de grado A, B o C incluida en un grado D del que no tuviera concreción curricular autonómica, la duración de cada grado A, B y C atenderá a la duración que establezca el Ministerio de Educación, Formación Profesional y Deportes para su ámbito de gestión.
 
-6. Los itinerarios integrados a que hace referencia el artículo 22.4 del Real Decreto 659/2023, de 18 de julio, no formarán parte del Catálogo Nacional de Ofertas de Formación Profesional, si bien deberán tener como origen dos ofertas incluidas en dicho catálogo.
+6. Los itinerarios integrados a que hace referencia el artículo 22.4 del Real Decreto 659/2023, de 18 de julio, no formarán parte del Catálogo Nacional de Ofertas de Formación Profesional, si bien deberán tener como origen dos ofertas incluidas en dicho catálogo.
 
-7. Los currículos mixtos internacionales a que hace mención el artículo 212 l.
+7. Los currículos mixtos internacionales a que hace mención el artículo 212 l.
 
 Real Decreto 659/2023, de 18 de julio, deberán estar incluidos en el Catálogo Nacional de Ofertas de Formación Profesional, tras el acuerdo entre administraciones estatales.
 
@@ -317,9 +316,9 @@ Real Decreto 659/2023, de 18 de julio, deberán estar incluidos en el Catálogo 
 
 #### Artículo 15. Elementos básicos del currículo.
 
-1. Son elementos básicos del currículo el o los resultados de aprendizaje, los criterios de evaluación y los contenidos, que se considerarán implícitamente incluidos en la expresión de los resultados de aprendizaje y de los criterios de evaluación.
+1. Son elementos básicos del currículo el o los resultados de aprendizaje, los criterios de evaluación y los contenidos, que se considerarán implícitamente incluidos en la expresión de los resultados de aprendizaje y de los criterios de evaluación.
 
-2. Las administraciones competentes podrán, en virtud de lo establecido en el artículo 12.4 y 12.5 del Real Decreto 659/2023, de 18 de julio, hacer explícitos esos contenidos e incluirlos, adicionalmente y a título orientativo, en los grados de su competencia, en el currículo de los módulos profesionales, con el compromiso, en ese caso, de su actualización permanente, sin perjuicio de lo establecido en el artículo 13 de la Ley Orgánica 3/2022, de 31 de marzo.
+2. Las administraciones competentes podrán, en virtud de lo establecido en el artículo 12.4 y 12.5 del Real Decreto 659/2023, de 18 de julio, hacer explícitos esos contenidos e incluirlos, adicionalmente y a título orientativo, en los grados de su competencia, en el currículo de los módulos profesionales, con el compromiso, en ese caso, de su actualización permanente, sin perjuicio de lo establecido en el artículo 13 de la Ley Orgánica 3/2022, de 31 de marzo.
 
 ## Título II
 
@@ -329,27 +328,27 @@ Real Decreto 659/2023, de 18 de julio, deberán estar incluidos en el Catálogo 
 
 #### Artículo 16. Naturaleza del Registro Estatal de Formación Profesional.
 
-1. El Registro Estatal de Formación Profesional es un registro administrativo electrónico dependiente del Ministerio de Educación, Formación Profesional y Deportes que incluirá todos los títulos, certificados y acreditaciones del sistema de formación profesional que respondan a una acción formativa del Catálogo Nacional de Ofertas de Formación Profesional.
+1. El Registro Estatal de Formación Profesional es un registro administrativo electrónico dependiente del Ministerio de Educación, Formación Profesional y Deportes que incluirá todos los títulos, certificados y acreditaciones del sistema de formación profesional que respondan a una acción formativa del Catálogo Nacional de Ofertas de Formación Profesional.
 
-2. El Registro Estatal de Formación Profesional estará debidamente interconectado con el Registro Estatal de Acreditaciones de Competencias Profesionales Adquiridas por Experiencia Laboral o Vías No Formales e Informales y con el Registro Central de Títulos no universitarios regulado por el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos y certificaciones académicas y profesionales correspondientes a las enseñanzas establecidas por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
+2. El Registro Estatal de Formación Profesional estará debidamente interconectado con el Registro Estatal de Acreditaciones de Competencias Profesionales Adquiridas por Experiencia Laboral o Vías No Formales e Informales y con el Registro Central de Títulos no universitarios regulado por el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos y certificaciones académicas y profesionales correspondientes a las enseñanzas establecidas por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
-3. Los datos del registro serán objeto de tratamiento automatizado con sujeción a las medidas de seguridad previstas en la normativa sobre protección de datos de carácter personal.
+3. Los datos del registro serán objeto de tratamiento automatizado con sujeción a las medidas de seguridad previstas en la normativa sobre protección de datos de carácter personal.
 
 #### Artículo 17. Contenido del Registro Estatal de Formación Profesional.
 
-1. Los títulos de Técnico Básico, Técnico y Técnico Superior, así como los títulos de Especialista y Máster de Formación Profesional serán incluidos en el Registro Central de Títulos no universitarios regulado por el Real Decreto 1850/2009, de 4 de diciembre, y posteriormente serán transferidos automáticamente al Registro Estatal de Formación Profesional.
+1. Los títulos de Técnico Básico, Técnico y Técnico Superior, así como los títulos de Especialista y Máster de Formación Profesional serán incluidos en el Registro Central de Títulos no universitarios regulado por el Real Decreto 1850/2009, de 4 de diciembre, y posteriormente serán transferidos automáticamente al Registro Estatal de Formación Profesional.
 
-2. Los certificados profesionales (grados C), certificados de competencia (grados B) y acreditaciones parciales de competencia (grados A) cuya inscripción haya sido debidamente tramitada de acuerdo con lo establecido en el artículo 149 l.
+2. Los certificados profesionales (grados C), certificados de competencia (grados B) y acreditaciones parciales de competencia (grados A) cuya inscripción haya sido debidamente tramitada de acuerdo con lo establecido en el artículo 149 l.
 
 Real Decreto 659/2023, de 18 de julio, quedarán recogidos en el Registro Estatal de Formación Profesional.
 
-3. Las acreditaciones parciales de competencia de carácter autonómico no podrán ser integradas en este registro, hasta tanto no sean incluidas en el Catálogo Nacional de Ofertas de Formación Profesional. Estas acreditaciones parciales de competencia de carácter autonómico tendrán validez autonómica, y no podrán ser expedidas en los formatos previstos para los grados A.
+3. Las acreditaciones parciales de competencia de carácter autonómico no podrán ser integradas en este registro, hasta tanto no sean incluidas en el Catálogo Nacional de Ofertas de Formación Profesional. Estas acreditaciones parciales de competencia de carácter autonómico tendrán validez autonómica, y no podrán ser expedidas en los formatos previstos para los grados A.
 
 #### Artículo 18. Obligación de inscripción y derecho de acceso.
 
-1. Las administraciones con competencias en materia de formación profesional, previamente a la expedición de los certificados y acreditaciones, remitirán al Registro Estatal de Formación Profesional los datos correspondientes a los mismos para su integración en dicho Registro, así como para la asignación del número correspondiente, que se imprimirá en el certificado o acreditación, formando parte de la clave identificativa oficial de los mismos. La solicitud de inscripción en el Registro Estatal de Formación Profesional será requisito indispensable para que surtan efecto en todo el territorio español. En el caso de los títulos de Técnico Básico, Técnico, Técnico Superior, Técnico Especialista y Máster en Formación Profesional, harán lo propio en el Registro Central de Títulos no universitarios regulado por el Real Decreto 1850/2009, de 4 de diciembre.
+1. Las administraciones con competencias en materia de formación profesional, previamente a la expedición de los certificados y acreditaciones, remitirán al Registro Estatal de Formación Profesional los datos correspondientes a los mismos para su integración en dicho Registro, así como para la asignación del número correspondiente, que se imprimirá en el certificado o acreditación, formando parte de la clave identificativa oficial de los mismos. La solicitud de inscripción en el Registro Estatal de Formación Profesional será requisito indispensable para que surtan efecto en todo el territorio español. En el caso de los títulos de Técnico Básico, Técnico, Técnico Superior, Técnico Especialista y Máster en Formación Profesional, harán lo propio en el Registro Central de Títulos no universitarios regulado por el Real Decreto 1850/2009, de 4 de diciembre.
 
-2. Para la inscripción en el Registro Estatal de Formación Profesional, las administraciones competentes deberán incluir, entre otros, los siguientes datos:
+2. Para la inscripción en el Registro Estatal de Formación Profesional, las administraciones competentes deberán incluir, entre otros, los siguientes datos:
 
 a) Nombre y apellidos.
 
@@ -371,39 +370,39 @@ i) Fecha de inicio y finalización de la acción formativa.
 
 j) Duración, en número de horas.
 
-3. Le corresponde al Ministerio de Educación, Formación Profesional y Deportes el registro de los títulos, certificados y acreditaciones del sistema de formación profesional realizados en su ámbito de gestión, incluido el exterior, los realizados en la modalidad para personas en situación de privación de libertad y la modalidad destinada al personal militar. Además, deberá registrar y expedir las formaciones realizadas por las personas que hayan realizado acciones formativas propuestas, directamente, por el Ministerio de Educación, Formación Profesional y Deportes.
+3. Le corresponde al Ministerio de Educación, Formación Profesional y Deportes el registro de los títulos, certificados y acreditaciones del sistema de formación profesional realizados en su ámbito de gestión, incluido el exterior, los realizados en la modalidad para personas en situación de privación de libertad y la modalidad destinada al personal militar. Además, deberá registrar y expedir las formaciones realizadas por las personas que hayan realizado acciones formativas propuestas, directamente, por el Ministerio de Educación, Formación Profesional y Deportes.
 
-4. En el caso de personas en situación de privación de libertad, corresponderá, en su caso, a las comunidades autónomas que dispongan de competencia en materia penitenciaria, el registro de los títulos, certificados y acreditaciones.
+4. En el caso de personas en situación de privación de libertad, corresponderá, en su caso, a las comunidades autónomas que dispongan de competencia en materia penitenciaria, el registro de los títulos, certificados y acreditaciones.
 
-5. No se registrarán certificados o acreditaciones de grado inferior a quienes hayan superado en su totalidad cualquier oferta formativa de Formación Profesional de grado B, C, D o E de que formen parte los grados inferiores.
+5. No se registrarán certificados o acreditaciones de grado inferior a quienes hayan superado en su totalidad cualquier oferta formativa de Formación Profesional de grado B, C, D o E de que formen parte los grados inferiores.
 
-6. El Registro Estatal de Formación Profesional facilitará los datos de las personas tituladas a los registros profesionales que se establezcan por los organismos reguladores de cada ámbito profesional, en los términos que la normativa establezca.
+6. El Registro Estatal de Formación Profesional facilitará los datos de las personas tituladas a los registros profesionales que se establezcan por los organismos reguladores de cada ámbito profesional, en los términos que la normativa establezca.
 
-7. Corresponderá a las administraciones competentes la regulación sobre los procedimientos de emisión de duplicados por deterioro, pérdida o sustracción de loas grados A, B y C. En el caso del ámbito de gestión del Ministerio de Educación, Formación Profesional y Deportes, a la solicitud se acompañará una declaración responsable por parte de la persona interesada.
+7. Corresponderá a las administraciones competentes la regulación sobre los procedimientos de emisión de duplicados por deterioro, pérdida o sustracción de loas grados A, B y C. En el caso del ámbito de gestión del Ministerio de Educación, Formación Profesional y Deportes, a la solicitud se acompañará una declaración responsable por parte de la persona interesada.
 
-8. Para la modificación de los datos correspondientes a los campos a), b), d) y e) del apartado 2, deberá aportarse la documentación justificativa pertinente.
+8. Para la modificación de los datos correspondientes a los campos a), b), d) y e) del apartado 2, deberá aportarse la documentación justificativa pertinente.
 
 #### Artículo 19. Informe formativo-profesional.
 
-1. La persona interesada tendrá derecho a solicitar y obtener del Registro Estatal de Formación Profesional un informe formativo-profesional que recoja su itinerario y situación formativa profesional debidamente acreditada y actualizada a la fecha de descarga. Dicho informe podrá obtenerse a través de la sede electrónica asociada del Ministerio de Educación, Formación Profesional y Deportes.
+1. La persona interesada tendrá derecho a solicitar y obtener del Registro Estatal de Formación Profesional un informe formativo-profesional que recoja su itinerario y situación formativa profesional debidamente acreditada y actualizada a la fecha de descarga. Dicho informe podrá obtenerse a través de la sede electrónica asociada del Ministerio de Educación, Formación Profesional y Deportes.
 
-2. Este informe incluirá el total de estándares de competencias profesionales que figuren en el Registro Estatal de Acreditaciones de Competencias Profesionales Adquiridas por Experiencia Laboral o Vías No Formales e Informales, así como el conjunto de acreditaciones, certificados y títulos del Sistema de Formación Profesional.
+2. Este informe incluirá el total de estándares de competencias profesionales que figuren en el Registro Estatal de Acreditaciones de Competencias Profesionales Adquiridas por Experiencia Laboral o Vías No Formales e Informales, así como el conjunto de acreditaciones, certificados y títulos del Sistema de Formación Profesional.
 
 ## Capítulo II. Registro Estatal de Acreditaciones de Competencias Profesionales Adquiridas por Experiencia Laboral o Vías No Formales e Informales.
 
 #### Artículo 20. Naturaleza del Registro Estatal de Acreditaciones de Competencias Profesionales Adquiridas por Experiencia Laboral o Vías No Formales e Informales.
 
-1. El Registro Estatal de Acreditaciones de Competencias Profesionales Adquiridas por Experiencia Laboral o Vías No Formales e Informales es un registro administrativo electrónico dependiente del Ministerio de Educación, Formación Profesional y Deportes que incluirá las acreditaciones personales obtenidas a través del procedimiento de acreditación de competencias profesionales adquiridas por experiencia laboral u otras vías no formales e informales regulado en el título VI del Real Decreto 659/2023, de 18 de julio.
+1. El Registro Estatal de Acreditaciones de Competencias Profesionales Adquiridas por Experiencia Laboral o Vías No Formales e Informales es un registro administrativo electrónico dependiente del Ministerio de Educación, Formación Profesional y Deportes que incluirá las acreditaciones personales obtenidas a través del procedimiento de acreditación de competencias profesionales adquiridas por experiencia laboral u otras vías no formales e informales regulado en el título VI del Real Decreto 659/2023, de 18 de julio.
 
-2. Los datos del registro serán objeto de tratamiento automatizado con sujeción a las medidas de seguridad previstas en la normativa sobre protección de datos de carácter personal.
+2. Los datos del registro serán objeto de tratamiento automatizado con sujeción a las medidas de seguridad previstas en la normativa sobre protección de datos de carácter personal.
 
-3. El Registro Estatal de Acreditaciones de Competencias Profesionales Adquiridas por Experiencia Laboral o Vías No Formales e Informales estará debidamente interconectado con el Registro Estatal de Formación Profesional.
+3. El Registro Estatal de Acreditaciones de Competencias Profesionales Adquiridas por Experiencia Laboral o Vías No Formales e Informales estará debidamente interconectado con el Registro Estatal de Formación Profesional.
 
 #### Artículo 21. Obligación de inscripción y derecho de acceso.
 
-1. Las administraciones con competencias en materia de acreditación de competencias profesionales adquiridas por experiencia laboral o vías no formales e informales deberán comunicar o incorporar, según proceda, al registro estatal para su constancia en él cualquier acreditación obtenida mediante este procedimiento en un plazo máximo de tres meses desde la finalización del expediente de la persona interesada.
+1. Las administraciones con competencias en materia de acreditación de competencias profesionales adquiridas por experiencia laboral o vías no formales e informales deberán comunicar o incorporar, según proceda, al registro estatal para su constancia en él cualquier acreditación obtenida mediante este procedimiento en un plazo máximo de tres meses desde la finalización del expediente de la persona interesada.
 
-2. Para la inscripción en el registro, las administraciones competentes deberán incluir, entre otros, los siguientes datos:
+2. Para la inscripción en el registro, las administraciones competentes deberán incluir, entre otros, los siguientes datos:
 
 a) Nombre y apellido(s) de la persona interesada.
 
@@ -423,27 +422,27 @@ h) Comunidad autónoma de acreditación y fecha en que tuvo lugar.
 
 i) Código y denominación del estándar o estándares acreditados.
 
-3. En el caso de las personas que hayan acreditado estándares de competencias profesionales a través del acceso excepcional para colectivos a que se refiere el artículo 177.2.a) del Real Decreto 659/2023, de 18 de julio, el campo b) del apartado anterior podrá ser sustituido por otro documento o número legalmente reconocido.
+3. En el caso de las personas que hayan acreditado estándares de competencias profesionales a través del acceso excepcional para colectivos a que se refiere el artículo 177.2.a) del Real Decreto 659/2023, de 18 de julio, el campo b) del apartado anterior podrá ser sustituido por otro documento o número legalmente reconocido.
 
-4. La ciudadanía tendrá derecho a solicitar y obtener del Registro un informe individual sobre los estándares de competencia acreditados mediante este procedimiento que obren en dicho registro, actualizado a la fecha de descarga. Dicho informe podrá obtenerse a través de la sede electrónica del Ministerio de Educación, Formación Profesional y Deportes y se atendrá al modelo establecido en el anexo XVIII del Real Decreto 659/2023, de 18 de julio.
+4. La ciudadanía tendrá derecho a solicitar y obtener del Registro un informe individual sobre los estándares de competencia acreditados mediante este procedimiento que obren en dicho registro, actualizado a la fecha de descarga. Dicho informe podrá obtenerse a través de la sede electrónica del Ministerio de Educación, Formación Profesional y Deportes y se atendrá al modelo establecido en el anexo XVIII del Real Decreto 659/2023, de 18 de julio.
 
 ## Capítulo III. Registro General de Centros de Formación Profesional.
 
 #### Artículo 22. Naturaleza del Registro General de Centros de Formación Profesional.
 
-1. El Registro General de Centros de Formación Profesional es un registro administrativo electrónico dependiente del Ministerio de Educación, Formación Profesional y Deportes, en los términos recogidos en los artículos 19, 20 y 21 de la Ley Orgánica 3/2022, de 31 de marzo.
+1. El Registro General de Centros de Formación Profesional es un registro administrativo electrónico dependiente del Ministerio de Educación, Formación Profesional y Deportes, en los términos recogidos en los artículos 19, 20 y 21 de la Ley Orgánica 3/2022, de 31 de marzo.
 
-2. En el Registro General de Centros de Formación Profesional deben figurar todos los centros que tienen la consideración de Centros del Sistema de Formación Profesional, de acuerdo con lo establecido en el artículo 197 l.
+2. En el Registro General de Centros de Formación Profesional deben figurar todos los centros que tienen la consideración de Centros del Sistema de Formación Profesional, de acuerdo con lo establecido en el artículo 197 l.
 
 Real Decreto 659/2023, de 18 de julio.
 
-3. El Registro General de Centros de Formación Profesional se construye a partir de los datos de los centros que imparten ofertas del sistema de formación profesional incluidos en los registros autonómicos dependientes de las administraciones competentes, cuando las instalaciones y recursos formativos del centro que imparte ofertas de formación profesional se encuentren en su ámbito territorial, así como los datos de los centros que imparten ofertas de formación profesional y se incluyen en otros registros autonómicos en cuyo ámbito desarrolle el centro su actividad de manera sistemática, en cualquiera de las ofertas, grados y modalidades del Sistema de Formación Profesional.
+3. El Registro General de Centros de Formación Profesional se construye a partir de los datos de los centros que imparten ofertas del sistema de formación profesional incluidos en los registros autonómicos dependientes de las administraciones competentes, cuando las instalaciones y recursos formativos del centro que imparte ofertas de formación profesional se encuentren en su ámbito territorial, así como los datos de los centros que imparten ofertas de formación profesional y se incluyen en otros registros autonómicos en cuyo ámbito desarrolle el centro su actividad de manera sistemática, en cualquiera de las ofertas, grados y modalidades del Sistema de Formación Profesional.
 
-4. Todo centro deberá figurar en el Registro General de Centros de Formación Profesional para poder realizar ofertas conducentes a la obtención de acreditaciones, certificados o títulos oficiales del Sistema de Formación Profesional.
+4. Todo centro deberá figurar en el Registro General de Centros de Formación Profesional para poder realizar ofertas conducentes a la obtención de acreditaciones, certificados o títulos oficiales del Sistema de Formación Profesional.
 
-5. El Registro General de Centros de Formación Profesional estará debidamente interconectado con el Registro Estatal de Centros Docentes no universitarios para la incorporación de los centros autorizados para impartir ofertas de Grados D y E del Sistema de Formación Profesional.
+5. El Registro General de Centros de Formación Profesional estará debidamente interconectado con el Registro Estatal de Centros Docentes no universitarios para la incorporación de los centros autorizados para impartir ofertas de Grados D y E del Sistema de Formación Profesional.
 
-6. Los datos del Registro General de Centros de Formación Profesional serán objeto de tratamiento automatizado con sujeción a las medidas de seguridad previstas en la normativa sobre protección de datos de carácter personal.
+6. Los datos del Registro General de Centros de Formación Profesional serán objeto de tratamiento automatizado con sujeción a las medidas de seguridad previstas en la normativa sobre protección de datos de carácter personal.
 
 #### Artículo 23. Contenido del Registro General de Centros de Formación Profesional.
 
@@ -479,21 +478,19 @@ n) Ofertas del Sistema de Formación Profesional autorizadas, sobre las que se d
 
 #### Artículo 24. Obligación de inscripción y derecho de acceso.
 
-1. Las administraciones competentes deberán trasladar sobre cada centro autorizado para impartir ofertas del Sistema de Formación Profesional en su ámbito territorial los datos recogidos en el artículo anterior, así como las modificaciones que se produzcan en los mismos, con periodicidad al menos trimestral.
+1. Las administraciones competentes deberán trasladar sobre cada centro autorizado para impartir ofertas del Sistema de Formación Profesional en su ámbito territorial los datos recogidos en el artículo anterior, así como las modificaciones que se produzcan en los mismos, con periodicidad al menos trimestral.
 
-2. Corresponde al Ministerio de Educación, Formación Profesional y Deportes la inscripción en el Registro General de Centros de Formación Profesional de los centros que impartan ofertas del Sistema de Formación Profesional dependientes de otros departamentos de la Administración General del Estado.
+2. Corresponde al Ministerio de Educación, Formación Profesional y Deportes la inscripción en el Registro General de Centros de Formación Profesional de los centros que impartan ofertas del Sistema de Formación Profesional dependientes de otros departamentos de la Administración General del Estado.
 
-3. No podrán figurar en el Registro General de Centros de Formación Profesional aquellos centros que se vean afectados por las circunstancias limitantes recogidas en el artículo 198.2 del Real Decreto 659/2023, de 18 de julio.
+3. No podrán figurar en el Registro General de Centros de Formación Profesional aquellos centros que se vean afectados por las circunstancias limitantes recogidas en el artículo 198.2 del Real Decreto 659/2023, de 18 de julio.
 
-4. El Registro General de Centros de Formación Profesional mantendrá una versión pública que permitirá la consulta a la ciudadanía.
+4. El Registro General de Centros de Formación Profesional mantendrá una versión pública que permitirá la consulta a la ciudadanía.
 
-5. Los centros inscritos en el Registro General de Centros de Formación Profesional podrán solicitar la rectificación de los datos recogidos, bien a través de los registros autonómicos, o bien directamente, en los términos establecidos en la [Ley Orgánica 3/2018](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+5. Los centros inscritos en el Registro General de Centros de Formación Profesional podrán solicitar la rectificación de los datos recogidos, bien a través de los registros autonómicos, o bien directamente, en los términos establecidos en la [Ley Orgánica 3/2018](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
 
 #### Disposición adicional primera. Unidades de competencia.
 
-Las unidades de competencia incluidas en el Catálogo Nacional de Cualificaciones Profesionales establecidas al amparo del Real Decreto 1128/2003, de 5 de septiembre, por el que se regula el Catálogo Nacional de Cualificaciones Profesionales, quedan automáticamente asimiladas, a todos los efectos, a los estándares de competencias profesionales a que hace referencia la Ley Orgánica 3/2022, de 31 de marzo, sin perjuicio de desarrollos normativos posteriores que adapten dichas unidades de competencia a lo establecido en los artículos 5 y 6.
-
-#### Disposición adicional segunda. Registro de unidades de competencia acreditadas.
+Las unidades de competencia incluidas en el Catálogo Nacional de Cualificaciones Profesionales establecidas al amparo del Real Decreto 1128/2003, de 5 de septiembre, por el que se regula el Catálogo Nacional de Cualificaciones Profesionales, quedan automáticamente asimiladas, a todos los efectos, a los estándares de competencias profesionales a que hace referencia la Ley Orgánica 3/2022, de 31 de marzo, sin perjuicio de desarrollos normativos posteriores que adapten dichas unidades de competencia a lo establecido en los artículos 5 y 6. #### Disposición adicional segunda. Registro de unidades de competencia acreditadas.
 
 Los datos de acreditaciones incluidos en el registro al que hacía mención el artículo 18 l.
 
@@ -501,43 +498,43 @@ Real Decreto 1224/2009, de 17 de julio, de reconocimiento de las competencias pr
 
 #### Disposición adicional tercera. Catálogo Modular de Formación Profesional.
 
-1. Cualquier módulo profesional que cumpla con los requisitos establecidos en el artículo 11 de este real decreto y que esté incluido en cualesquiera de las ofertas de grados D y E de Formación Profesional amparadas en la Ley Orgánica 2/2006, de 3 de mayo, y establecidas con anterioridad al presente real decreto queda automáticamente incluido en el Catálogo Modular de Formación Profesional.
+1. Cualquier módulo profesional que cumpla con los requisitos establecidos en el artículo 11 de este real decreto y que esté incluido en cualesquiera de las ofertas de grados D y E de Formación Profesional amparadas en la Ley Orgánica 2/2006, de 3 de mayo, y establecidas con anterioridad al presente real decreto queda automáticamente incluido en el Catálogo Modular de Formación Profesional.
 
-2. Cualquier módulo profesional (antes «módulo formativo») incluido en cualesquiera de las ofertas de grados C de Formación Profesional a que se refiere la disposición transitoria primera del Real Decreto 659/2023, de 18 de julio, se considerará incorporado al Catálogo Modular de Formación Profesional.
+2. Cualquier módulo profesional (antes «módulo formativo») incluido en cualesquiera de las ofertas de grados C de Formación Profesional a que se refiere la disposición transitoria primera del Real Decreto 659/2023, de 18 de julio, se considerará incorporado al Catálogo Modular de Formación Profesional.
 
 #### Disposición adicional cuarta. Catálogo Nacional de Ofertas de Formación Profesional.
 
-1. Cualquier oferta de grados C, D y E de Formación Profesional establecida con anterioridad al presente real decreto queda automáticamente incluida en el Catálogo Nacional de Ofertas de Formación Profesional.
+1. Cualquier oferta de grados C, D y E de Formación Profesional establecida con anterioridad al presente real decreto queda automáticamente incluida en el Catálogo Nacional de Ofertas de Formación Profesional.
 
-2. Cualquier módulo profesional (antes «módulo formativo») a que se refiere el apartado 2 de la disposición adicional tercera se considerará una oferta formativa de grado B y quedará integrada en el Catálogo Nacional de Ofertas de Formación Profesional.
+2. Cualquier módulo profesional (antes «módulo formativo») a que se refiere el apartado 2 de la disposición adicional tercera se considerará una oferta formativa de grado B y quedará integrada en el Catálogo Nacional de Ofertas de Formación Profesional.
 
-3. Cualquier bloque formativo (antes «unidad formativa») en que pudiera estar dividido un módulo profesional (antes «módulo formativo») a los que se refiere el apartado 2 de la disposición adicional tercera se considerará una oferta formativa de grado A y quedará integrada en el Catálogo Nacional de Ofertas de Formación Profesional.
+3. Cualquier bloque formativo (antes «unidad formativa») en que pudiera estar dividido un módulo profesional (antes «módulo formativo») a los que se refiere el apartado 2 de la disposición adicional tercera se considerará una oferta formativa de grado A y quedará integrada en el Catálogo Nacional de Ofertas de Formación Profesional.
 
 #### Disposición adicional quinta. Registro de Certificados de Profesionalidad al amparo del Real Decreto 34/2008, de 18 de enero, por el que se regulan los certificados de profesionalidad.
 
-1. Los datos incluidos en el registro al que hacía mención el Real Decreto 34/2008, de 18 de enero, por el que se regulan los certificados de profesionalidad, serán automáticamente transferidos, como grados C, al Registro Estatal de Formación Profesional con las modificaciones que sean precisas para su adaptación a las características del citado registro.
+1. Los datos incluidos en el registro al que hacía mención el Real Decreto 34/2008, de 18 de enero, por el que se regulan los certificados de profesionalidad, serán automáticamente transferidos, como grados C, al Registro Estatal de Formación Profesional con las modificaciones que sean precisas para su adaptación a las características del citado registro.
 
-2. Las «acreditaciones parciales acumulables» a que hacía mención el artículo 17 l.
+2. Las «acreditaciones parciales acumulables» a que hacía mención el artículo 17 l.
 
 Real Decreto 34/2008, de 18 de enero, que estuvieran inscritas en el Registro de Certificados de Profesionalidad quedarán automáticamente asimiladas a grados B (certificados de competencia) a que hace referencia el Real Decreto 659/2023, de 18 de julio.
 
-3. Las personas que hubieran cursado bloques formativos (antes «unidades formativas») que formaran parte de un módulo profesional (antes «módulo formativo») a que se refiere el apartado 3 de la disposición adicional cuarta podrán solicitar su registro, en los términos establecidos en el artículo 149 l.
+3. Las personas que hubieran cursado bloques formativos (antes «unidades formativas») que formaran parte de un módulo profesional (antes «módulo formativo») a que se refiere el apartado 3 de la disposición adicional cuarta podrán solicitar su registro, en los términos establecidos en el artículo 149 l.
 
 Real Decreto 659/2023, de 18 de julio, y solicitar la expedición de la correspondiente acreditación parcial de competencia (grado A).
 
-4. La relación entre las ofertas formativas establecidas al amparo del Real Decreto 34/2008, de 18 de enero, y sus equivalentes al amparo del Real Decreto 659/2023, de 18 de julio, quedan recogidas en el anexo IV.
+4. La relación entre las ofertas formativas establecidas al amparo del Real Decreto 34/2008, de 18 de enero, y sus equivalentes al amparo del Real Decreto 659/2023, de 18 de julio, quedan recogidas en el anexo IV.
 
 #### Disposición adicional sexta. Protección de datos de carácter personal.
 
-1. Los tratamientos de datos personales regulados en el presente real decreto se llevarán a cabo conforme a lo dispuesto en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la directiva 95/46/CE, y en la Ley Orgánica 3/2018, de 5 de diciembre.
+1. Los tratamientos de datos personales regulados en el presente real decreto se llevarán a cabo conforme a lo dispuesto en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la directiva 95/46/CE, y en la Ley Orgánica 3/2018, de 5 de diciembre.
 
 Los derechos de acceso, rectificación y supresión se ejercitarán conforme a la normativa referida en el párrafo anterior.
 
-2. Los tratamientos de datos que se contemplan en esta norma se establecen al amparo de la Ley Orgánica 3/2022, de 31 de marzo.
+2. Los tratamientos de datos que se contemplan en esta norma se establecen al amparo de la Ley Orgánica 3/2022, de 31 de marzo.
 
-3. El tratamiento de los datos personales relativos al Registro Estatal de Acreditaciones de Competencias Profesionales adquiridas por experiencia laboral o vías no formales e informales al que se refiere el capítulo I del título II, ya está contemplado en la actividad de tratamiento correspondiente del Registro de Actividades de Tratamiento.
+3. El tratamiento de los datos personales relativos al Registro Estatal de Acreditaciones de Competencias Profesionales adquiridas por experiencia laboral o vías no formales e informales al que se refiere el capítulo I del título II, ya está contemplado en la actividad de tratamiento correspondiente del Registro de Actividades de Tratamiento.
 
-4. El tratamiento de los datos personales relativos al Registro Estatal de Formación Profesional al que se refiere el capítulo II del título II tendrá por finalidad la recopilación de datos de las acreditaciones, certificados y títulos del sistema de Formación Profesional, así como de la generación del informe formativo-profesional.
+4. El tratamiento de los datos personales relativos al Registro Estatal de Formación Profesional al que se refiere el capítulo II del título II tendrá por finalidad la recopilación de datos de las acreditaciones, certificados y títulos del sistema de Formación Profesional, así como de la generación del informe formativo-profesional.
 
 La base jurídica del tratamiento es el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos conferidos al responsable del tratamiento (artículo 6.1.e) del Reglamento UE 2016/679).
 
@@ -553,7 +550,7 @@ Conservación y seguridad de los datos: los datos se conservarán durante el tie
 
 El responsable del tratamiento garantizará la aplicación de las medidas de seguridad correspondientes en cumplimiento del Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad.
 
-5. El tratamiento de los datos personales relativos al Registro General de Centros de Formación Profesional al que se refiere el capítulo III del título II tendrá por finalidad la recopilación de datos de los centros que tienen la consideración de Centros del Sistema de Formación Profesional, con objeto de gestionar su participación en la impartición de las ofertas de formación profesional en cualquiera de los grados previstos en la legislación.
+5. El tratamiento de los datos personales relativos al Registro General de Centros de Formación Profesional al que se refiere el capítulo III del título II tendrá por finalidad la recopilación de datos de los centros que tienen la consideración de Centros del Sistema de Formación Profesional, con objeto de gestionar su participación en la impartición de las ofertas de formación profesional en cualquiera de los grados previstos en la legislación.
 
 La base jurídica del tratamiento es el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos conferidos al responsable del tratamiento [artículo 6.1.e) del Reglamento UE 2016/679].
 
@@ -571,11 +568,11 @@ El responsable del tratamiento garantizará la aplicación de las medidas de seg
 
 #### Disposición derogatoria única. Derogación normativa.
 
-1. Queda derogado el Real Decreto 1128/2003, de 5 de septiembre. Las normas establecidas al amparo de dicho real decreto mantendrán en todo su vigencia, salvo en aquellos aspectos que sean incompatibles con la regulación proyectada en este real decreto o la Ley Orgánica 3/2022, de 31 de marzo.
+1. Queda derogado el Real Decreto 1128/2003, de 5 de septiembre. Las normas establecidas al amparo de dicho real decreto mantendrán en todo su vigencia, salvo en aquellos aspectos que sean incompatibles con la regulación proyectada en este real decreto o la Ley Orgánica 3/2022, de 31 de marzo.
 
-2. Queda derogado el Real Decreto 817/2014, de 26 de septiembre, por el que se establecen los aspectos puntuales de las cualificaciones profesionales para cuya modificación, procedimiento de aprobación y efectos es de aplicación el artículo 7.3 de la [Ley Orgánica 5/2002](LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio.
+2. Queda derogado el Real Decreto 817/2014, de 26 de septiembre, por el que se establecen los aspectos puntuales de las cualificaciones profesionales para cuya modificación, procedimiento de aprobación y efectos es de aplicación el artículo 7.3 de la [Ley Orgánica 5/2002](LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio.
 
-3. Queda derogada la Orden PCI/18/2020, de 10 de enero, por la que se establece el Reglamento del Observatorio Profesional del Instituto Nacional de las Cualificaciones y se determinan las condiciones para el registro y reconocimiento de las entidades colaboradoras del Instituto Nacional de las Cualificaciones.
+3. Queda derogada la Orden PCI/18/2020, de 10 de enero, por la que se establece el Reglamento del Observatorio Profesional del Instituto Nacional de las Cualificaciones y se determinan las condiciones para el registro y reconocimiento de las entidades colaboradoras del Instituto Nacional de las Cualificaciones.
 
 #### Disposición final primera. Modificación del Real Decreto 375/1999, de 5 de marzo, por el que se crea el Instituto Nacional de las Cualificaciones.
 
@@ -585,11 +582,11 @@ Uno. El artículo 1 queda.
 
 redactado en los siguientes términos:
 
-#### «Artículo 1. Creación y fines.
+#### «Artículo 1. Creación y fines.
 
-1. Se crea el Instituto Nacional de las Cualificaciones, adscrito orgánicamente al Ministerio de Educación, Formación Profesional y Deportes, a través de la Secretaría General de Formación Profesional, y con dependencia funcional del Consejo General de Formación Profesional, como órgano técnico de apoyo de este y responsable de definir, elaborar y mantener actualizado el Catálogo Nacional de Estándares de Competencias Profesionales, así como de desarrollar el resto de las funciones que figuran en la presente disposición.
+1. Se crea el Instituto Nacional de las Cualificaciones, adscrito orgánicamente al Ministerio de Educación, Formación Profesional y Deportes, a través de la Secretaría General de Formación Profesional, y con dependencia funcional del Consejo General de Formación Profesional, como órgano técnico de apoyo de este y responsable de definir, elaborar y mantener actualizado el Catálogo Nacional de Estándares de Competencias Profesionales, así como de desarrollar el resto de las funciones que figuran en la presente disposición.
 
-2. El Instituto Nacional de las Cualificaciones actuará como instrumento técnico, dotado de capacidad e independencia de criterios, para apoyar al Consejo General de Formación Profesional en la realización de los siguientes objetivos:
+2. El Instituto Nacional de las Cualificaciones actuará como instrumento técnico, dotado de capacidad e independencia de criterios, para apoyar al Consejo General de Formación Profesional en la realización de los siguientes objetivos:
 
 a) Observación de los estándares de competencias profesionales y su evolución.
 
@@ -603,7 +600,7 @@ Dos. El artículo 2 queda.
 
 redactado en los siguientes términos:
 
-#### «Artículo 2. Funciones.
+#### «Artículo 2. Funciones.
 
 Serán funciones del Instituto Nacional de las Cualificaciones:
 
@@ -627,19 +624,17 @@ i) Proporcionar información sobre la evolución de la demanda y oferta de las p
 
 j) Realizar y encomendar cuantos informes y estudios sean precisos conforme a las dotaciones presupuestarias que estén previstas.»
 
-Tres. Se suprime el artículo 3.
-
-Cuatro. El artículo 4 queda.
+Tres. Se suprime el artículo 3. Cuatro. El artículo 4 queda.
 
 redactado en los siguientes términos:
 
-#### «Artículo 4. Dirección.
+#### «Artículo 4. Dirección.
 
-1. Al frente del Instituto habrá un Director a quien se encomendará la coordinación y el impulso de los trabajos y actividades a cargo de este Instituto.
+1. Al frente del Instituto habrá un Director a quien se encomendará la coordinación y el impulso de los trabajos y actividades a cargo de este Instituto.
 
 De él dependerán las unidades o departamentos que se creen para atender las distintas funciones.
 
-2. Son competencias del Director:
+2. Son competencias del Director:
 
 a) Elaborar y presentar a la Comisión Permanente del Consejo General de la Formación Profesional las propuestas de los planes de actividades y, en general, de los cometidos a los que se refiere el artículo anterior.
 
@@ -651,7 +646,7 @@ d) Actuar en nombre del Instituto ante las instancias y organismos relacionados 
 
 e) Cuantas otras funciones le sean expresamente encomendadas.
 
-3. El Director del Instituto será convocado a las reuniones de la Comisión Permanente del Consejo y, cuando proceda, de la Comisión Estatal Estratégica y del Pleno, en lo concerniente al Instituto Nacional de las Cualificaciones.»
+3. El Director del Instituto será convocado a las reuniones de la Comisión Permanente del Consejo y, cuando proceda, de la Comisión Estatal Estratégica y del Pleno, en lo concerniente al Instituto Nacional de las Cualificaciones.»
 
 #### Disposición final segunda. Títulos competenciales.
 
@@ -663,9 +658,7 @@ Se habilita a la persona titular del Ministerio de Educación, Formación Profes
 
 #### Disposición final cuarta. Entrada en vigor.
 
-Dado en Madrid, el 4 de febrero de 2025.
-
-FELIPE R.
+Dado en Madrid, el 4 de febrero de 2025. FELIPE R.
 
 El Ministro de la Presidencia, Justicia y Relaciones con las Cortes,
 
@@ -725,61 +718,61 @@ MECES: Marco Español de Cualificaciones para la Educación Superior.
 
 Familias Profesionales
 
-1. Actividades Físicas y Deportivas (AFD).
+1. Actividades Físicas y Deportivas (AFD).
 
-2. Actividades y Competencias Transversales (ACT).
+2. Actividades y Competencias Transversales (ACT).
 
-3. Administración y Gestión (ADG).
+3. Administración y Gestión (ADG).
 
-4. Agraria (AGA).
+4. Agraria (AGA).
 
-5. Artes Gráficas (ARG).
+5. Artes Gráficas (ARG).
 
-6. Artes y Artesanías (ART).
+6. Artes y Artesanías (ART).
 
-7. Comercio y Marketing (COM).
+7. Comercio y Marketing (COM).
 
-8. Edificación y Obra Civil (EOC).
+8. Edificación y Obra Civil (EOC).
 
-9. Electricidad y Electrónica (ELE).
+9. Electricidad y Electrónica (ELE).
 
-10. Energía y Agua (ENA).
+10. Energía y Agua (ENA).
 
-11. Fabricación Mecánica (FME).
+11. Fabricación Mecánica (FME).
 
-12. Hostelería y Turismo (HOT).
+12. Hostelería y Turismo (HOT).
 
-13. Imagen Personal (IMP).
+13. Imagen Personal (IMP).
 
-14. Imagen y Sonido (IMS).
+14. Imagen y Sonido (IMS).
 
-15. Industrias Alimentarias (INA).
+15. Industrias Alimentarias (INA).
 
-16. Industrias Extractivas (IEX).
+16. Industrias Extractivas (IEX).
 
-17. Informática y Comunicaciones (IFC).
+17. Informática y Comunicaciones (IFC).
 
-18. Instalación y Mantenimiento (IMA).
+18. Instalación y Mantenimiento (IMA).
 
-19. Inteligencia Artificial y Data (IAD).
+19. Inteligencia Artificial y Data (IAD).
 
 20. Madera, Mueble y Corcho (MAM).
 
-21. Marítimo-Pesquera (MAP).
+21. Marítimo-Pesquera (MAP).
 
-22. Química (QUI).
+22. Química (QUI).
 
-23. Sanidad (SAN).
+23. Sanidad (SAN).
 
-24. Seguridad y Medio Ambiente (SEA).
+24. Seguridad y Medio Ambiente (SEA).
 
-25. Servicios Socioculturales y a la Comunidad (SSC).
+25. Servicios Socioculturales y a la Comunidad (SSC).
 
-26. Textil, Confección y Piel (TCP).
+26. Textil, Confección y Piel (TCP).
 
-27. Transporte y Mantenimiento de Vehículos (TMV).
+27. Transporte y Mantenimiento de Vehículos (TMV).
 
-28. Vidrio y Cerámica (VIC).
+28. Vidrio y Cerámica (VIC).
 
 ## Anexo IV
 

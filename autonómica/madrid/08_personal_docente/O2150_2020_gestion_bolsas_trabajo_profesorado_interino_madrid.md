@@ -1,10 +1,12 @@
 ---
 id: norm-mad-o-2150-2020
 codigo_sintetizado: O2150_2020 Gestion Bolsas Trabajo Profesorado Interino Madrid
-titulo: Orden 2150/2020, de 11 de septiembre, por la que se regula la ordenación y gestión de las listas de aspirantes a interinidades.
+titulo: Orden 2150/2020, de 11 de septiembre, por la que se regula la ordenación y
+  gestión de las listas de aspirantes a interinidades.
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
 numero_disposicion: 2150/2020
 fecha_disposicion: '2020-09-11'
@@ -18,19 +20,19 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Profesorado interino
 tags:
-  - interinos
-  - listas_espera
-  - bolsas_trabajo
-  - madrid
+- interinos
+- listas_espera
+- bolsas_trabajo
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
   fundamentado_en:
-    - norma_id: norm-mad-d-29-2013
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
 ---
 # Orden 2150/2020, de 11 de septiembre, por la que se regula la ordenación y gestión de las listas de aspirantes a interinidades.
 

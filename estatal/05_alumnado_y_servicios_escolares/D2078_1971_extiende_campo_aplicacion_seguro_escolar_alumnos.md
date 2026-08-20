@@ -1,10 +1,15 @@
 ---
 id: norm-es-1971-1198
 codigo_sintetizado: BOE-A-1971-1198
-titulo: Decreto 2078/1971, de 13 de agosto, por el que se extiende el campo de aplicación del Seguro Escolar a los alumnos que siguen las enseñanzas de Formación Profesional y aquellas otras que, de conformidad con lo establecido en la Ley General de Educación y Financiamiento de la Reforma Educativa, se han de integrar en las enseñanzas de Formación Profesional.
+titulo: Decreto 2078/1971, de 13 de agosto, por el que se extiende el campo de aplicación
+  del Seguro Escolar a los alumnos que siguen las enseñanzas de Formación Profesional
+  y aquellas otras que, de conformidad con lo establecido en la Ley General de Educación
+  y Financiamiento de la Reforma Educativa, se han de integrar en las enseñanzas de
+  Formación Profesional.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1971-09-18'
 boletin: BOE
@@ -15,25 +20,21 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Seguro escolar
 tags:
-  - curriculo
-  - eoi
-  - formacion-profesional
-  - rgpd
-  - seguro-escolar
+- curriculo
+- eoi
+- formacion-profesional
+- rgpd
+- seguro-escolar
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   desarrollado_por: []
   fundamento_de:
-    - norma_id: norm-can-res-boc-2026-129-26
+  - norma_id: norm-can-res-boc-2026-129-26
   fundamentos_derecho:
-    - norma_id: norm-can-d-9-2022
+  - norma_id: norm-can-d-9-2022
   articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-lo-2-2006
-  articulos:
-    - '84'
+  - '84'
 ---
 # Decreto 2078/1971, de 13 de agosto, por el que se extiende el campo de aplicación del Seguro Escolar a los alumnos que siguen las enseñanzas de Formación Profesional y aquellas otras que, de conformidad con lo establecido en la Ley General de Educación y Financiamiento de la Reforma Educativa, se han de integrar en las enseñanzas de Formación Profesional.
 

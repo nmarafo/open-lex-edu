@@ -1,7 +1,10 @@
 ---
 id: norm-can-res-boc-2018-124-126
 codigo_sintetizado: Resolucion BOC 126
-titulo: Resolución de 21 de junio de 2018, de la Viceconsejería de Educación y Universidades, por la que se dictan instrucciones de organización y funcionamiento dirigidas a los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias para el curso 2018/19 (BOC n.º 124, de 28 de junio).
+titulo: Resolución de 21 de junio de 2018, de la Viceconsejería de Educación y Universidades,
+  por la que se dictan instrucciones de organización y funcionamiento dirigidas a
+  los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias
+  para el curso 2018/19 (BOC n.º 124, de 28 de junio).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Viceconsejería de Educación
@@ -13,51 +16,51 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Orientaciones y guías de actuación
 tags:
-  - autonomia-centro
-  - bachillerato
-  - educacion-personas-adultas
-  - ensenanzas-artisticas
-  - ensenanzas-universitarias
-  - eso
-  - evaluacion
-  - orientaciones-y-gu-as-de-actuaci-n
-  - profesorado
+- autonomia-centro
+- bachillerato
+- educacion-personas-adultas
+- ensenanzas-artisticas
+- ensenanzas-universitarias
+- eso
+- evaluacion
+- orientaciones-y-gu-as-de-actuaci-n
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-106-2009
-    - norma_id: norm-can-d-212-1991
-    - norma_id: norm-can-d-25-2018
-    - norma_id: norm-can-d-81-2010
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-o-2013-10-09
-    - norma_id: norm-es-2007-6115
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2010-4518
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-8-2021
-    - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-can-d-106-2009
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-25-2018
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-es-2007-6115
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2010-4518
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-lo-1-1996
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-can-d-106-2009
-    - norma_id: norm-can-d-81-2010
-    - norma_id: norm-can-o-2013-10-09
-    - norma_id: norm-can-d-25-2018
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2007-6115
-    - norma_id: norm-es-2010-4518
-    - norma_id: norm-can-d-212-1991
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-106-2009
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-can-d-25-2018
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2007-6115
+  - norma_id: norm-es-2010-4518
+  - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-124-3068.pdf
 ---
 # Resolución de 21 de junio de 2018, de la Viceconsejería de Educación y Universidades, por la que se dictan instrucciones de organización y funcionamiento dirigidas a los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias para el curso 2018/19 (BOC n.º 124, de 28 de junio).
@@ -474,9 +477,7 @@ b) Las ausencias por desempeño laboral que impliquen salida del centro motivada
 
 3. Relación de profesorado que se desplaza con indicación de la especialidad docente.
 
-4. Número de alumnos y alumnas que se desplazan2.
-
-5. Contenido del programa que dicha actividad generará dentro y fuera del centro escolar3. Si la movilidad es fruto de un proyecto europeo Erasmus+, los centros, además de informar a la Dirección Territorial correspondiente, deberán remitir a la cuenta de correo electrónico de la Oficina de Programas Europeos de Educación. Asimismo, los centros deberán disponer de una relación de personas que se desplazan con los teléfonos de contacto -familiar- para poder establecer comunicación con rapidez en caso de necesidad. Esta relación debe ser accesible al equipo directivo incluso en días y horas en que el centro esté cerrado. Una vez finalizada la movilidad, el profesorado participante acreditará ante la dirección del centro, en su caso, la asistencia a dicha actividad. Desde la Dirección T erritorial de Educación correspondiente se gestionará, en su caso, el expediente de averiguación de causas y, en el supuesto de ser reconocido el accidente como en acto de servicio, previo informe de la Inspección médica, se llevarán a cabo los trámites necesarios para el reconocimiento del abono total de las retribuciones a que se tenga derecho, a solicitud de la persona interesada y de conformidad con la normativa vigente en cada momento.
+4. Número de alumnos y alumnas que se desplazan2. 5. Contenido del programa que dicha actividad generará dentro y fuera del centro escolar3. Si la movilidad es fruto de un proyecto europeo Erasmus+, los centros, además de informar a la Dirección Territorial correspondiente, deberán remitir a la cuenta de correo electrónico de la Oficina de Programas Europeos de Educación. Asimismo, los centros deberán disponer de una relación de personas que se desplazan con los teléfonos de contacto -familiar- para poder establecer comunicación con rapidez en caso de necesidad. Esta relación debe ser accesible al equipo directivo incluso en días y horas en que el centro esté cerrado. Una vez finalizada la movilidad, el profesorado participante acreditará ante la dirección del centro, en su caso, la asistencia a dicha actividad. Desde la Dirección T erritorial de Educación correspondiente se gestionará, en su caso, el expediente de averiguación de causas y, en el supuesto de ser reconocido el accidente como en acto de servicio, previo informe de la Inspección médica, se llevarán a cabo los trámites necesarios para el reconocimiento del abono total de las retribuciones a que se tenga derecho, a solicitud de la persona interesada y de conformidad con la normativa vigente en cada momento.
 
 **1.6.** Otros motivos de ausencias. Cuando sean otros los motivos de ausencia se estará a lo que disponga la normativa vigente . En estos casos, se procederá como se señala a continuación:
 a) En el supuesto de solicitud de permisos y licencias, el centro remitirá al órgano competente la solicitud debidamente cumplimentada, mediante el impreso establecido, con la antelación que se establezca normativamente para cada tipo de permiso, antes del inicio del disfrute de la licencia. Dicha solicitud se adelantará por fax o, en su caso, correo electrónico.

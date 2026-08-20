@@ -1,10 +1,15 @@
 ---
 id: norm-can-res-boc-2017-061-4
 codigo_sintetizado: Resolucion BOC 4
-titulo: Resolución de 16 de marzo de 2017, de la Dirección General de Centros e Infraestructura Educativa, por la que se delega en la Dirección General de Formación Profesional y Educación de Adultos, la competencia en materia de contratos menores de material y equipamiento específico necesario para el desarrollo del Proyecto Enlaza (BOC n.º 61, de 28 de marzo).
+titulo: Resolución de 16 de marzo de 2017, de la Dirección General de Centros e Infraestructura
+  Educativa, por la que se delega en la Dirección General de Formación Profesional
+  y Educación de Adultos, la competencia en materia de contratos menores de material
+  y equipamiento específico necesario para el desarrollo del Proyecto Enlaza (BOC
+  n.º 61, de 28 de marzo).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios Complementarios
+organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios
+  Complementarios
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: pdf_oficial_boc
@@ -13,33 +18,33 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Estructura de la Consejería
 tags:
-  - educacion-personas-adultas
-  - equipos-directivos
-  - estructura-de-la-consejer-a
-  - formacion-profesional
-  - profesorado
-  - proteccion-menores
-  - roc
+- educacion-personas-adultas
+- equipos-directivos
+- estructura-de-la-consejer-a
+- formacion-profesional
+- profesorado
+- proteccion-menores
+- roc
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-135-2016
-    - norma_id: norm-can-d-212-1991
-    - norma_id: norm-can-l-14-1990
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-l-14-1990
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-can-d-135-2016
-    - norma_id: norm-can-d-212-1991
+  - '1'
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-061-1429.pdf
 anexos_extraidos_pdf: true
 ocr_procesado: true

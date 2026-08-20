@@ -1,10 +1,12 @@
 ---
 id: norm-and-d-206-2006
 codigo_sintetizado: D206_2006 Ordenacion Bachillerato Andalucía
-titulo: Decreto 206/2006, de 28 de noviembre, por el que se establece la ordenación del Bachillerato en Andalucía.
+titulo: Decreto 206/2006, de 28 de noviembre, por el que se establece la ordenación
+  del Bachillerato en Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 206/2006
 fecha_disposicion: '2006-11-28'
@@ -18,16 +20,16 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Bachillerato
 tags:
-  - bachillerato
-  - ordenacion
-  - andalucia
+- bachillerato
+- ordenacion
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Decreto 206/2006, de 28 de noviembre, por el que se establece la ordenación del Bachillerato en Andalucía.
 
@@ -94,17 +96,7 @@ El Instituto Andaluz de Administración Pública convoca el "VI Curso de Especia
 
 - Módulo I. Procesos de modernización y cambio en las Administraciones Públicas (5 y 6 de febrero de 2007) CEM0702-1.10120
 
-- Módulo II. Gestión Pública Estratégica en el ámbito local (5 y 6 de marzo de 2007) CEM0702-2.10157.
-
-- Módulo III. Técnicas de organización del gobierno local (12 y 13 de abril de 2007) CEM0702-3.10122.
-
-- Módulo IV. Liderazgo y dirección (7 y 8 de mayo de 2007) CEM0702-4.10123.
-
-- Módulo V. La comunicación como instrumento gerencial. (14 y 15 de junio de 2007) CEM0702-5.10161.
-
-- Módulo VI. Negociación y resolución de conflictos (2 y 3 de julio de 2007) CEM0702-6.10162.
-
-Estos módulos, aun formando parte de una acción formativa integral, son independientes entre sí y tienen autonomía docente singularizada, de tal manera que se admitirá la matriculación en uno solo o en varios de los seis módulos programados.
+- Módulo II. Gestión Pública Estratégica en el ámbito local (5 y 6 de marzo de 2007) CEM0702-2.10157. - Módulo III. Técnicas de organización del gobierno local (12 y 13 de abril de 2007) CEM0702-3.10122. - Módulo IV. Liderazgo y dirección (7 y 8 de mayo de 2007) CEM0702-4.10123. - Módulo V. La comunicación como instrumento gerencial. (14 y 15 de junio de 2007) CEM0702-5.10161. - Módulo VI. Negociación y resolución de conflictos (2 y 3 de julio de 2007) CEM0702-6.10162. Estos módulos, aun formando parte de una acción formativa integral, son independientes entre sí y tienen autonomía docente singularizada, de tal manera que se admitirá la matriculación en uno solo o en varios de los seis módulos programados.
 
 Todos los módulos se celebrarán en la sede del CEMCI, Plaza Mariana Pineda, núm. 8 (Granada), en horario de mañana y tarde, de 9,30 a 14,30 horas y de 16,30 a 19,30 horas.
 
@@ -120,9 +112,7 @@ Si el número de solicitudes lo permitiese, podrán ser admitidos al curso quien
 
 - Solicitud de realización del curso completo (2007) o de módulos con los que se complete el curso de Especialización en Gestión Pública Local (2005).
 
-- Realización del curso completo de Derecho Público Local 2006.
-
-- Prioridad en la presentación de solicitudes de asistencia y pago anticipado de los derechos de matrícula.
+- Realización del curso completo de Derecho Público Local 2006. - Prioridad en la presentación de solicitudes de asistencia y pago anticipado de los derechos de matrícula.
 
 El CEMCI podrá reservar el 10% de las plazas para su adjudicación discrecional a los colaboradores de ese Centro o a otras personas que presten servicio en entidades con las que el CEMCI mantenga relaciones de colaboración.
 

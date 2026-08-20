@@ -1,7 +1,11 @@
 ---
 id: norm-can-res-juriscan-49002-54
 codigo_sintetizado: Resolucion BOC 54
-titulo: Resolución de 23 de julio de 2004, de la Dirección General de Formación Profesional y Educación de Adultos, por la que se dictan instrucciones para la organización y funcionamiento de las Escuelas Oficiales de Idiomas dependientes de la Consejería de Educación, Cultura y Deportes del Gobierno de Canarias (BOC n.º 160, de 19 de agosto).
+titulo: Resolución de 23 de julio de 2004, de la Dirección General de Formación Profesional
+  y Educación de Adultos, por la que se dictan instrucciones para la organización
+  y funcionamiento de las Escuelas Oficiales de Idiomas dependientes de la Consejería
+  de Educación, Cultura y Deportes del Gobierno de Canarias (BOC n.º 160, de 19 de
+  agosto).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,34 +17,34 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas de Idiomas
 tags:
-  - admision-alumnado
-  - curriculo
-  - educacion-personas-adultas
-  - ense-anzas-de-idiomas
-  - ensenanzas-deportivas
-  - eoi
-  - equipos-directivos
-  - formacion-profesional
-  - fp-basica
+- admision-alumnado
+- curriculo
+- educacion-personas-adultas
+- ense-anzas-de-idiomas
+- ensenanzas-deportivas
+- eoi
+- equipos-directivos
+- formacion-profesional
+- fp-basica
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-l-1-1997
-    - norma_id: norm-can-l-2-1987
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-1984-17387
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-l-1-1997
+  - norma_id: norm-can-l-2-1987
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-l-1-1997
-    - norma_id: norm-can-l-2-1987
-    - norma_id: norm-es-1984-17387
-    - norma_id: norm-es-2001-7022
+  - '1'
+  - norma_id: norm-can-l-1-1997
+  - norma_id: norm-can-l-2-1987
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-2001-7022
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/2004/160/boc-2004-160-003.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=49002
 ---
@@ -178,9 +182,7 @@ en las exigencias específicas de las enseñanzas de idiomas, debiendo subordina
 - La distribución horaria de la jornada escolar, que se realizará de acuerdo con el calendario escolar y con las siguientes consideraciones:
 Cada grupo de alumnos dispondrá de 5 horas semanales de clase en el primer cuatrimestre, y de 4 horas en el segundo cuatrimestre. En el primero y segundo cuatrimestres podrán distribuirse bien a razón de 1 hora diaria de lunes a viernes o en días alternos con un máximo de dos horas cada día. Los Jefes de Estudios velarán para que a lo largo del Período lectivo ordinario cada grupo reciba un mínimo de 144 horas lectivas, correspondientes a las 32 semanas del curso escolar. La impartición de cursos especiales, tanto intensivos como específicos, requerirá la autorización expresa de la Dirección General de Formación Profesional y Educación de Adultos. Los horarios de los profesores habrán de incluir horas de periodicidad semanal fijas en todos y cada uno de los días de la semana, de lunes a viernes. En los horarios de los profesores se destinará una hora semanal no lectiva, dentro de su horario de permanencia en el centro, para atender las consultas de sus alumnos. Todas las distribuciones horarias han de contar con la expresa autorización previa de la Inspección de Educación. El procedimiento alternativo que se proponga ha de solicitarse antes del mes de julio, convenientemente fundamentado en razones pedagógicas. En la organización de los horarios se tendrá presente que en cualquier hora en que esté en funcionamiento el centro, en actividad académica, ha de garantizarse la presencia, como mínimo, de un miembro del Equipo Directivo.
 
-**1.1.3.** Calendario escolar. El calendario escolar, así como las actividades lectivas serán las que se establezcan para cada curso escolar. Para el curso escolar 2004/05, las actividades lectivas comenzarán el 15 de septiembre y terminarán el 22 de junio de 2005, y las actividades ordinarias se iniciarán el día 1 de septiembre y finalizarán el 30 de junio de 2005.
-
-**1.2.** Elaboración, aprobación, revisión y evaluación de la Programación General Anual.
+**1.1.3.** Calendario escolar. El calendario escolar, así como las actividades lectivas serán las que se establezcan para cada curso escolar. Para el curso escolar 2004/05, las actividades lectivas comenzarán el 15 de septiembre y terminarán el 22 de junio de 2005, y las actividades ordinarias se iniciarán el día 1 de septiembre y finalizarán el 30 de junio de 2005. **1.2.** Elaboración, aprobación, revisión y evaluación de la Programación General Anual.
 
 **1.2.1.** Elaboración Corresponde al Director del centro establecer un calendario de actuaciones que posibilite la adecuada elaboración participativa en la Programación General Anual, que una vez aprobado será de obligado cumplimiento para todos los miembros del centro. La Programación General Anual deberá incluir al menos los siguientes aspectos:
 a) Objetivos generales del centro, con una previsión detallada de los diversos aspectos que se proponen alcanzar.
@@ -194,8 +196,7 @@ f) Descripción del plan de atención establecido por el Claustro para los alumn
 g) Informe sobre los recursos materiales y económicos que el centro posee, elaborado por el Secretario. Para ello los Departamentos aportarán los inventarios del material de posible uso general que tengan asignado.
 h) Programa de organización y coordinación de las tareas del personal no docente. Será elaborado por el Secretario.
 i) Plan de reuniones del Consejo Escolar del centro, indicando el número mínimo de ellas que habrán de realizarse a lo largo del curso.
-j) El programa anual de actividades complementarias y extraescolares, conforme a las directrices que establezca el Consejo Escolar con especificación de su cobertura presupuestaria y departamentos participantes. Las actividades extraescolares deberán seguir las instrucciones de la Orden de 15 de enero de 2001.
-k) Los medios previstos para facilitar e impulsar la colaboración entre los distintos sectores de la comunidad educativa y las Instituciones relacionadas con la enseñanza o la práctica de idioma.
+j) El programa anual de actividades complementarias y extraescolares, conforme a las directrices que establezca el Consejo Escolar con especificación de su cobertura presupuestaria y departamentos participantes. Las actividades extraescolares deberán seguir las instrucciones de la Orden de 15 de enero de 2001. k) Los medios previstos para facilitar e impulsar la colaboración entre los distintos sectores de la comunidad educativa y las Instituciones relacionadas con la enseñanza o la práctica de idioma.
 l) Las aportaciones y sugerencias planteadas por los alumnos y los padres y, en su caso, por las Asociaciones correspondientes.
 m) Sugerencias a la Administración Educativa tendentes a mejorar la organización y funcionamiento de las Escuelas Oficiales de Idiomas.
 
@@ -255,9 +256,7 @@ e) Escuelas que tengan menos de 10 grupos.
 
 **2.5.** Elaboración de horarios. En sesión del Claustro de Profesores, convocada al inicio del curso, la Jefatura de Estudios comunicará a los Departamentos el número de grupos de alumnos y modalidades horarias que corresponden a cada idioma, así como el de profesores asignados en la planificación del curso correspondiente y los criterios pedagógicos propuestos para la elaboración de los horarios de los Departamentos, que serán sometidos a la aprobación del Claustro. Los Departamentos realizarán una reunión extraordinaria para adscribir los cursos y grupos entre sus miembros, respetando en todo caso los criterios pedagógicos establecidos por el Claustro y los que figuran en las presentes Instrucciones. Ala vista de la distribución de turnos y cursos realizados por los respectivos Departamentos, la Jefatura de Estudios procederá a la elaboración de los horarios del alumnado y del profesorado, respetando además los criterios organizativos establecidos. En los períodos marcados para llevar a cabo los exámenes finales, ordinarios y extraordinarios, el profesorado tendrá que acomodar su horario al calendario programado para la realización de los mismos. Los horarios de los profesores que impartan clases en más de un centro, cuyo horario lectivo contemplará una reducción de dos horas semanales, se elaborarán coordinadamente por las respectivas Jefaturas de Estudio, siguiendo las indicaciones de la Inspección de Educación. Las horas complementarias que este profesorado debe realizar en cada centro guardarán la debida proporción con las horas lectivas asignadas. Una vez elaborados los horarios, la Dirección los aprobará provisionalmente y se distribuirán entre el profesorado. La propuesta de horario se expondrá públicamente con anterioridad a la celebración de la sesión del Claustro, que habrá de convocarse antes del comienzo de las actividades del nuevo curso, con objeto de comprobar que en la elaboración de los mismos se han seguido los criterios pedagógicos establecidos.
 
-**2.6.** Elección de turno y curso. La Jefatura de Estudios comunicará a cada Departamento didáctico el número de grupos que le corresponda, especificado por curso y, en su caso, por turno. En sesión convocada al efecto, los componentes del Departamento acordarán en qué turno desarrollarán su actividad lectiva. En el supuesto de que algún miembro no pudiera completar su horario en el turno elegido, deberá completarlo en el siguiente turno. Atendiendo a la mejor organización del centro y a la presencia de los cargos directivos en el mismo, el Director, el Secretario y el Jefe de Estudios tendrán preferencia para elegir el turno más conveniente según las funciones que han de desempeñar. En todo caso, el Director tendrá preferencia para conformar su horario personal. En los casos en que no se produzca acuerdo, se seguirá el siguiente procedimiento: el profesor a quien corresponda elegir en primer lugar elegirá un grupo de alumnos del curso que desee impartir preferentemente; a continuación lo hará el profesor a quien corresponda elegir en segundo lugar y así sucesivamente hasta completar una primera ronda entre los profesores del Departamento presentes en el acto, conforme a la prioridad establecida en el subapartado siguiente. Finalizada la primera ronda, se procederá a realizar otras sucesivas hasta que todos los profesores completen su horario lectivo o se hayan asignado todos los grupos que correspondan al Departamento. De todas las circunstancias que se produzcan en esta reunión extraordinaria se levantará acta, firmada por todos los miembros del Departamento, de la cual se dará copia inmediata a la Jefatura de Estudios. La prioridad para la elección se regirá por la Orden de 14 de mayo de 2002, por la que se determinan los criterios de ordenación del personal docente con destino definitivo en los centros públicos no universitarios dependientes de la Consejería de Educación, Cultura y Deportes del Gobierno de Canarias y la Orden de 11 de abril de 2003, por la que se modifica parcialmente la Orden de 14 de mayo de 2002.
-
-**2.7.** Horario personal del profesorado. Cada profesor cumplimentará un horario individual que comprenda la totalidad de las actividades lectivas y no lectivas de obligada permanencia en el centro. El horario individual será suscrito por el interesado, verificado por el Jefe de Estudios y visado por el Director. Los horarios se remitirán antes del 1 de octubre a la Inspección de Educación para la aprobación definitiva de los mismos, que se considerará otorgada de no mediar reparo una vez transcurrido un mes desde la fecha de su recepción.
+**2.6.** Elección de turno y curso. La Jefatura de Estudios comunicará a cada Departamento didáctico el número de grupos que le corresponda, especificado por curso y, en su caso, por turno. En sesión convocada al efecto, los componentes del Departamento acordarán en qué turno desarrollarán su actividad lectiva. En el supuesto de que algún miembro no pudiera completar su horario en el turno elegido, deberá completarlo en el siguiente turno. Atendiendo a la mejor organización del centro y a la presencia de los cargos directivos en el mismo, el Director, el Secretario y el Jefe de Estudios tendrán preferencia para elegir el turno más conveniente según las funciones que han de desempeñar. En todo caso, el Director tendrá preferencia para conformar su horario personal. En los casos en que no se produzca acuerdo, se seguirá el siguiente procedimiento: el profesor a quien corresponda elegir en primer lugar elegirá un grupo de alumnos del curso que desee impartir preferentemente; a continuación lo hará el profesor a quien corresponda elegir en segundo lugar y así sucesivamente hasta completar una primera ronda entre los profesores del Departamento presentes en el acto, conforme a la prioridad establecida en el subapartado siguiente. Finalizada la primera ronda, se procederá a realizar otras sucesivas hasta que todos los profesores completen su horario lectivo o se hayan asignado todos los grupos que correspondan al Departamento. De todas las circunstancias que se produzcan en esta reunión extraordinaria se levantará acta, firmada por todos los miembros del Departamento, de la cual se dará copia inmediata a la Jefatura de Estudios. La prioridad para la elección se regirá por la Orden de 14 de mayo de 2002, por la que se determinan los criterios de ordenación del personal docente con destino definitivo en los centros públicos no universitarios dependientes de la Consejería de Educación, Cultura y Deportes del Gobierno de Canarias y la Orden de 11 de abril de 2003, por la que se modifica parcialmente la Orden de 14 de mayo de 2002. **2.7.** Horario personal del profesorado. Cada profesor cumplimentará un horario individual que comprenda la totalidad de las actividades lectivas y no lectivas de obligada permanencia en el centro. El horario individual será suscrito por el interesado, verificado por el Jefe de Estudios y visado por el Director. Los horarios se remitirán antes del 1 de octubre a la Inspección de Educación para la aprobación definitiva de los mismos, que se considerará otorgada de no mediar reparo una vez transcurrido un mes desde la fecha de su recepción.
 
 **2.8.** Reclamaciones al horario personal. El profesorado afectado por el supuesto incumplimiento de los criterios establecidos podrá reclamar, en primera instancia, ante la Dirección de la Escuela en el plazo de los dos días hábiles siguientes a la comunicación del horario. La Dirección resolverá al día siguiente de la presentación de la reclamación. En el caso de no estar de acuerdo con la resolución adoptada, podrá dirigirse, en segunda instancia, en el plazo de tres días hábiles, a la Dirección Territorial de Educación correspondiente, la cual, previo informe de la Inspección de Educación, resolverá de acuerdo con la normativa vigente en un plazo de treinta días, poniendo fin, de este modo a la vía administrativa. En todo caso la persona reclamante habrá de cumplir inexcusablemente el horario asignado hasta que se haya adoptado una resolución definitiva.
 
@@ -380,8 +379,7 @@ c) Todos los documentos de la evaluación se han de conservar en el centro a dis
 d) Al comienzo del curso se informará al alumnado de la programación en los aspectos relativos a temporalización de contenidos y actividades, instrumentos de evaluación y criterios de calificación, así como los contenidos mínimos establecidos para la superación del curso.
 e) Con independencia de las verificaciones o registros de los aspectos más destacados del proceso de aprendizaje, se suministrará a los alumnos, al menos, en dos ocasiones, coincidiendo con la conclusión del primero y segundo cuatrimestres, información sobre la situación de su proceso de aprendizaje, en los ámbitos de la compresión y de la expresión oral y escrita, así como de las actividades académicas, o de aquellas otras circunstancias que a criterio del Departamento deban ser conocidas por los interesados.
 f) Afin de que la información suministrada sea lo más precisa posible, las calificaciones de apto se matizarán con la valoración numérica alcanzada en la escala de 5 a 10, considerándose como positivas la puntuación de 5 y las superiores a este valor, y negativas las inferiores a 5 que no precisará de distinción numérica.
-g) Para compatibilizar los procesos de evaluación con el de la calificación antedicha, los distintos Departamentos determinarán con la suficiente concreción y precisión los criterios e instrumentos de evaluación que permitan la distinción de las calificaciones en la escala numérica de 0 a 10.
-h) Los alumnos obtendrán calificación positiva siempre que hayan alcanzado, en cada una de las evaluaciones parciales, en las recuperaciones, en la evaluación global o en la recuperación final, una valoración igual o superior al 50% de los contenidos objeto de evaluación.
+g) Para compatibilizar los procesos de evaluación con el de la calificación antedicha, los distintos Departamentos determinarán con la suficiente concreción y precisión los criterios e instrumentos de evaluación que permitan la distinción de las calificaciones en la escala numérica de 0 a 10. h) Los alumnos obtendrán calificación positiva siempre que hayan alcanzado, en cada una de las evaluaciones parciales, en las recuperaciones, en la evaluación global o en la recuperación final, una valoración igual o superior al 50% de los contenidos objeto de evaluación.
 i) La valoración numérica establecida y los criterios porcentuales de los contenidos exigidos serán también de aplicación al alumnado de enseñanza libre.
 j) La Inspección de Educación velará por el cumplimiento de estas directrices y prestará el asesoramiento oportuno para el mejor desarrollo de las mismas.
 

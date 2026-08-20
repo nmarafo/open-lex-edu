@@ -1,9 +1,11 @@
 ---
 id: norm-and-l1-2020
-titulo: Ley 1/2020, de 13 de julio, para la mejora de las condiciones térmicas y ambientales de los centros educativos andaluces mediante técnicas bioclimáticas
+titulo: Ley 1/2020, de 13 de julio, para la mejora de las condiciones térmicas y ambientales
+  de los centros educativos andaluces mediante técnicas bioclimáticas
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Ley
 numero_disposicion: 1/2020
 fecha_disposicion: '2020-07-13'
@@ -18,21 +20,21 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Instalaciones y prevención de riesgos
 tags:
-  - bioclimatizacion
-  - centros_educativos
-  - infraestructuras
-  - andalucia
+- bioclimatizacion
+- centros_educativos
+- infraestructuras
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
 ---
 # Ley 1/2020, de 13 de julio, para la mejora de las condiciones térmicas y ambientales de los centros educativos andaluces mediante técnicas bioclimáticas
 

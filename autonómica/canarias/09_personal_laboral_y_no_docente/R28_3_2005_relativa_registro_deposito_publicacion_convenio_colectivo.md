@@ -26,36 +26,46 @@ fecha_disposicion: '2005-03-28'
 
 ## Preámbulo
 
-Primero.- Ordenar la inscripciÃ³n en el Registro de Convenios Colectivos con notificaciÃ³n a la ComisiÃ³n Negociadora.
+1379 - Dirección General de Trabajo.- Anuncio por el que se hace pública la Resolución de 28 de marzo de 2005, relativa a registro, depósito y publicación del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias.
 
-Segundo.- Disponer el depÃ³sito del texto original.
+Descargar en formato pdf
 
-Tercero.- Disponer su publicaciÃ³n en el BoletÃ­n Oficial de Canarias.
+Visto el Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias. Y de conformidad con lo dispuesto en el artº. 90 del Real Decreto Legislativo 1/1995, de 24 de marzo, por el que se aprueba el Texto Refundido de la Ley del Estatuto de los Trabajadores y los Reales Decretos 661/1984, de 25 de enero y 1.033/1984, de 1 de abril, sobre traspaso de funciones y servicios del Estado a la Comunidad Autónoma de Canarias en materia de mediación, arbitraje y conciliación; el Real Decreto 1.040/1981, de 22 de mayo, sobre depósito y registro de Convenios Colectivos y el Decreto 329/1995, de 24 de noviembre, del Reglamento Orgánico de la Consejería de Empleo y Asuntos Sociales, modificado por el Decreto 138/2000, 10 de julio (B.O.C. nº 108, de 7.8.00) esta Dirección General de Trabajo
 
-Contra el presente acto que no agota la vÃ­a administrativa, cabe recurso de alzada ante el Sr. Consejero de Empleo y Asuntos Sociales, en el plazo de un mes desde la notificaciÃ³n o publicaciÃ³n de la presente resoluciÃ³n, y sin perjuicio de cualquier otro recurso que pudiera interponerse.
+ACUERDA:
 
-Las Palmas de Gran Canaria, a 28 de marzo de 2005.- El Director General de Trabajo, AgustÃ­n HernÃ¡ndez Miranda.
+Primero.- Ordenar la inscripción en el Registro de Convenios Colectivos con notificación a la Comisión Negociadora.
 
-Acuerdo de la AdministraciÃ³n de la Comunidad AutÃ³noma de Canarias y el ComitÃ© Intercentros ComisiÃ³n Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad AutÃ³noma de Canarias para la modificaciÃ³n de los artÃ­culos 46 y del 
+Segundo.- Disponer el depósito del texto original.
+
+Tercero.- Disponer su publicación en el Boletín Oficial de Canarias.
+
+Contra el presente acto que no agota la vía administrativa, cabe recurso de alzada ante el Sr. Consejero de Empleo y Asuntos Sociales, en el plazo de un mes desde la notificación o publicación de la presente resolución, y sin perjuicio de cualquier otro recurso que pudiera interponerse.
+
+Las Palmas de Gran Canaria, a 28 de marzo de 2005.- El Director General de Trabajo, Agustín Hernández Miranda.
+
+Acuerdo de la Administración de la Comunidad Autónoma de Canarias y el Comité Intercentros Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias para la modificación de los artículos 46 y del 
 
 ## anexo V. del vigente Convenio Colectivo.
 
-En Santa Cruz de Tenerife, el dÃ­a 3 de diciembre de 2004, se reunieron los miembros de la ComisiÃ³n Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad AutÃ³noma de Canarias, al objeto de estudiar la inclusiÃ³n en el artÃ­culo 46 del Complemento de atenciÃ³n al pÃºblico, asÃ­ como una inclusiÃ³n en el 
+En Santa Cruz de Tenerife, el día 3 de diciembre de 2004, se reunieron los miembros de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias, al objeto de estudiar la inclusión en el artículo 46 del Complemento de atención al público, así como una inclusión en el 
 
-## anexo V. , modificÃ¡ndose los citados artÃ­culos y anexos del citado Convenio Colectivo en el tenor literal siguiente:
+## anexo V. , modificándose los citados artículos y anexos del citado Convenio Colectivo en el tenor literal siguiente:
 
-"ArtÃ­culo 46: Complementos y pluses.
+"
 
-Introducir dentro del apartado b), un nuevo nÃºmero, distinguido con el 4 y que se denominarÃ¡: "Complemento de atenciÃ³n al pÃºblico".
+#### Artículo 46. : Complementos y pluses.
 
-Retribuye la especial dedicaciÃ³n a tareas de atenciÃ³n al pÃºblico que conllevan determinados puestos de trabajo.
+Introducir dentro del apartado b), un nuevo número, distinguido con el 4 y que se denominará: "Complemento de atención al público".
 
-SerÃ¡ de aplicaciÃ³n a aquellos puestos de trabajo, que dediquen mÃ¡s del cincuenta por ciento de la jornada laboral, a la realizaciÃ³n de tareas de atenciÃ³n al pÃºblico, y que cumplan con los demÃ¡s requisitos que determine la ComisiÃ³n Negociadora del Convenio Colectivo.
+Retribuye la especial dedicación a tareas de atención al público que conllevan determinados puestos de trabajo.
 
-La asignaciÃ³n del complemento se efectuarÃ¡ por la citada ComisiÃ³n, dentro de las disponibilidades presupuestarias que al efecto se establezcan.
+Será de aplicación a aquellos puestos de trabajo, que dediquen más del cincuenta por ciento de la jornada laboral, a la realización de tareas de atención al público, y que cumplan con los demás requisitos que determine la Comisión Negociadora del Convenio Colectivo.
 
-## ANEXO V. : AÃ±adir:
+La asignación del complemento se efectuará por la citada Comisión, dentro de las disponibilidades presupuestarias que al efecto se establezcan.
 
-Complemento de atenciÃ³n al pÃºblico: 37,29 euros/mes.
+## ANEXO V. : Añadir:
 
-La AdministraciÃ³n.- Ilma. Sra. Viceconsejera de AdministraciÃ³n PÃºblica.- Ilmo. Sr. Director General de la FunciÃ³n PÃºblica.- El ComitÃ© Intercentros.- El Presidente.- El Secretario.
+Complemento de atención al público: 37,29 euros/mes.
+
+La Administración.- Ilma. Sra. Viceconsejera de Administración Pública.- Ilmo. Sr. Director General de la Función Pública.- El Comité Intercentros.- El Presidente.- El Secretario.

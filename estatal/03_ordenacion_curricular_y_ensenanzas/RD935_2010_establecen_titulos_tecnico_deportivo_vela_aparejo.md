@@ -1,10 +1,13 @@
 ---
 id: norm-es-2010-13564
 codigo_sintetizado: BOE-A-2010-13564
-titulo: Real Decreto 935/2010, de 23 de julio, por el que se establecen los títulos de Técnico Deportivo en vela con aparejo fijo y Técnico Deportivo en vela con aparejo libre, y se fijan sus enseñanzas mínimas y los requisitos de acceso.
+titulo: Real Decreto 935/2010, de 23 de julio, por el que se establecen los títulos
+  de Técnico Deportivo en vela con aparejo fijo y Técnico Deportivo en vela con aparejo
+  libre, y se fijan sus enseñanzas mínimas y los requisitos de acceso.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2010-08-31'
 boletin: BOE
@@ -15,34 +18,34 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Deportivas
 tags:
-  - curriculo
-  - ense-anzas-deportivas
-  - ensenanzas-deportivas
-  - formacion-profesional
-  - oposiciones
-  - titulacion
+- curriculo
+- ense-anzas-deportivas
+- ensenanzas-deportivas
+- formacion-profesional
+- oposiciones
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2002-12018
-    - norma_id: norm-es-2002-4371
-    - norma_id: norm-es-2007-19326
-    - norma_id: norm-es-2007-6115
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2002-4371
+  - norma_id: norm-es-2007-19326
+  - norma_id: norm-es-2007-6115
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2002-12018
-    - norma_id: norm-es-2002-4371
-    - norma_id: norm-es-2007-19326
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2007-6115
+  - '1'
+  - '2'
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2002-4371
+  - norma_id: norm-es-2007-19326
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2007-6115
 ---
 # Real Decreto 935/2010, de 23 de julio, por el que se establecen los títulos de Técnico Deportivo en vela con aparejo fijo y Técnico Deportivo en vela con aparejo libre, y se fijan sus enseñanzas mínimas y los requisitos de acceso.
 
@@ -610,17 +613,13 @@ El presente real decreto tiene carácter de norma básica y se dicta, al amparo 
 
 #### Disposición final tercera. Implantación de los títulos.
 
-Las Administraciones educativas podrán implantar, de forma progresiva ciclo a ciclo, el nuevo currículo de estas enseñanzas durante el curso escolar 2.011-2012.
-
-#### Disposición final cuarta. Autorización para el desarrollo.
+Las Administraciones educativas podrán implantar, de forma progresiva ciclo a ciclo, el nuevo currículo de estas enseñanzas durante el curso escolar 2.011-2012. #### Disposición final cuarta. Autorización para el desarrollo.
 
 Con el objeto de actualizar los perfiles del profesorado a los nuevos títulos universitarios regulados por el RD 1393/2007, de 29 de septiembre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, se autoriza al titular del Ministerio de Educación para la modificación y actualización de los Anexos IX, X A y XI de este decreto.
 
 #### Disposición final quinta. Entrada en vigor.
 
-Dado en Madrid, el 23 de julio de 2010.
-
-JUAN CARLOS R.
+Dado en Madrid, el 23 de julio de 2010. JUAN CARLOS R.
 
 El Ministro de Educación,
 
@@ -638,7 +637,7 @@ ENSEÑANZAS MÍNIMAS
 
 BLOQUE COMÚN
 
-Â
+
 
 MED-C101: Bases del comportamiento deportivo
 
@@ -662,7 +661,7 @@ TOTAL
 
 BLOQUE ESPECÍFICO
 
-Â
+
 
 MED-VEVE102- Formación técnica
 
@@ -696,7 +695,7 @@ ENSEÑANZAS MÍNIMAS
 
 BLOQUE COMÚN
 
-Â
+
 
 MED-C201: Bases del aprendizaje deportivo
 
@@ -724,7 +723,7 @@ TOTAL
 
 BLOQUE ESPECÍFICO
 
-Â
+
 
 MED-VEVE201: Escuela de vela
 
@@ -774,7 +773,7 @@ ENSEÑANZAS MÍNIMAS
 
 BLOQUE COMÚN
 
-Â
+
 
 MED-C201: Bases del aprendizaje deportivo
 
@@ -802,7 +801,7 @@ TOTAL
 
 BLOQUE ESPECÍFICO
 
-Â
+
 
 MED-VEVE201: Escuela de vela
 
@@ -4422,9 +4421,7 @@ G- Identificación en las velas.
 
 J- Anuncio de regata e instrucciones de regata.
 
-P- Penalizaciones inmediatas por infracciones a la regla 42.
-
-f. Se han definido los modelos tácticos posibles en función de las características de la competición y del área de navegación en vela con aparejo fijo.
+P- Penalizaciones inmediatas por infracciones a la regla 42. f. Se han definido los modelos tácticos posibles en función de las características de la competición y del área de navegación en vela con aparejo fijo.
 
 g. Se han establecido los criterios técnicos de optimización del resultado del regatista, en un supuesto práctico de competición a vela con AF.
 
@@ -5306,9 +5303,7 @@ e. Se han aplicado, en un supuesto práctico de competición los contenidos del 
 
 – J- Anuncio de regata e Instrucciones de regata.
 
-– P- Penalizaciones Inmediatas por infracciones a la regla 42.
-
-f. Se han definido los modelos tácticos posibles en función de las características de la competición y del área de navegación en vela con aparejo libre.
+– P- Penalizaciones Inmediatas por infracciones a la regla 42. f. Se han definido los modelos tácticos posibles en función de las características de la competición y del área de navegación en vela con aparejo libre.
 
 g. Se han establecido los criterios técnicos de optimización del resultado del regatista, en un supuesto práctico de competición a vela con AL.
 
@@ -5962,13 +5957,13 @@ g. Se han elaborado los documentos informativos de un evento o regata de iniciac
 
 Ratio profesor/alumno
 
-Â
+
 
 RATIO PROFESOR/ALUMNO
 
 BLOQUE ESPECÍFICO CICLO INICIAL DE GRADO MEDIO EN VELA CON APAREJO FIJO Y APAREJO LIBRE
 
-Â
+
 
 MED-VEVE102: Formación Técnica
 
@@ -5978,7 +5973,7 @@ MED-VEVE104: Metodología de la vela e iniciación a la competición
 
 BLOQUE ESPECÍFICO CICLO FINAL DE GRADO MEDIO EN VELA EN APAREJO FIJO
 
-Â
+
 
 MED-VEVE201: Escuela de vela
 
@@ -5996,7 +5991,7 @@ MED-EVEAF207: Puesta a punto del material de AF
 
 BLOQUE ESPECÍFICO CICLO FINAL DE GRADO MEDIO EN VELA CON APAREJO LIBRE
 
-Â
+
 
 MED-VEVE201: Escuela de vela
 
@@ -6150,7 +6145,7 @@ MED-C201: Bases del aprendizaje deportivo. MED-C202: Bases del entrenamiento dep
 
 Pista polideportiva 44 x 22 mts
 
-Â
+
 
 Espacio de formación
 
@@ -6234,7 +6229,7 @@ MED-C201: Bases del aprendizaje deportivo. MED-C202: Bases del entrenamiento dep
 
 Pista polideportiva. 44 x 22 mts
 
-Â
+
 
 Espacio de formación
 
@@ -6662,7 +6657,7 @@ Catedráticos de Enseñanza Secundaria. Profesores de Enseñanza Secundaria.
 
 Profesor especialista.
 
-Â
+
 
 MED-VEVE103: Seguridad de la navegación y conservación de los materiales.
 
@@ -6672,7 +6667,7 @@ Catedráticos de Enseñanza Secundaria. Profesores de Enseñanza Secundaria.
 
 Profesor especialista.
 
-Â
+
 
 MED-VEVE104: Metodología de la vela e iniciación a la competición.
 
@@ -6682,7 +6677,7 @@ Catedráticos de Enseñanza Secundaria. Profesores de Enseñanza Secundaria.
 
 Profesor especialista.
 
-Â
+
 
 MED-VEVE105: Formación práctica.
 
@@ -6692,7 +6687,7 @@ Catedráticos de Enseñanza Secundaria. Profesores de Enseñanza Secundaria.
 
 Profesor especialista.
 
-Â
+
 
 Módulo de enseñanza deportiva CICLO FINAL
 
@@ -6708,7 +6703,7 @@ Catedráticos de Enseñanza Secundaria. Profesores de Enseñanza Secundaria.
 
 Profesor especialista.
 
-Â
+
 
 MED-VEVE202: Competiciones y eventos a vela.
 
@@ -6718,7 +6713,7 @@ Catedráticos de Enseñanza Secundaria. Profesores de Enseñanza Secundaria.
 
 Profesor especialista.
 
-Â
+
 
 MED-VEVE203: Seguridad en la navegación a vela.
 
@@ -6728,7 +6723,7 @@ Catedráticos de Enseñanza Secundaria. Profesores de Enseñanza Secundaria.
 
 Profesor especialista.
 
-Â
+
 
 MED-VEVE204: Preparación física del regatista.
 
@@ -6738,7 +6733,7 @@ Catedráticos de Enseñanza Secundaria Profesores de Enseñanza Secundaria
 
 Profesor especialista.
 
-Â
+
 
 MED-VEVE205: Vela adaptada.
 
@@ -6748,7 +6743,7 @@ Catedráticos de Enseñanza Secundaria. Profesores de Enseñanza Secundaria.
 
 Profesor especialista.
 
-Â
+
 
 MED-VEAF206: Perfeccionamiento técnico-táctico de la vela con AF.
 
@@ -6758,7 +6753,7 @@ Catedráticos de Enseñanza Secundaria. Profesores de Enseñanza Secundaria.
 
 Profesor especialista.
 
-Â
+
 
 MED-VEAF207: Puesta a punto del material de AF.
 
@@ -6768,7 +6763,7 @@ Catedráticos de Enseñanza Secundaria. Profesores de Enseñanza Secundaria.
 
 Profesor especialista.
 
-Â
+
 
 MED-VEAF208: Formación práctica.
 
@@ -6778,7 +6773,7 @@ Catedráticos de Enseñanza Secundaria. Profesores de Enseñanza Secundaria.
 
 Profesor especialista.
 
-Â
+
 
 MED-VEAL209: Perfeccionamiento técnico-táctico de la vela con AL.
 
@@ -6788,7 +6783,7 @@ Catedráticos de Enseñanza Secundaria. Profesores de Enseñanza Secundaria.
 
 Profesor especialista.
 
-Â
+
 
 MED-VEAL210: Puesta a punto del material de AL.
 
@@ -6804,7 +6799,7 @@ Especialidad de Educación Física con alguno de los siguientes títulos: • T�
 
 Catedráticos de Enseñanza Secundaria.
 
-Â
+
 
 Profesor especialista.
 

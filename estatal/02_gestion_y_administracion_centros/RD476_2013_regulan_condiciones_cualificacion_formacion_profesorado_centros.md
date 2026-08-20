@@ -1,10 +1,13 @@
 ---
 id: norm-es-rd-476-2013
 codigo_sintetizado: RD476_2013 Cualificacion del Profesorado en Centros Privados
-titulo: Real Decreto 476/2013, de 21 de junio, por el que se regulan las condiciones de cualificación y formación del profesorado de los centros privados de educación secundaria obligatoria y de bachillerato.
+titulo: Real Decreto 476/2013, de 21 de junio, por el que se regulan las condiciones
+  de cualificación y formación del profesorado de los centros privados de educación
+  secundaria obligatoria y de bachillerato.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto
 numero_disposicion: 476/2013
 fecha_disposicion: '2013-06-21'
@@ -18,46 +21,42 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros privados
 tags:
-  - bachillerato
-  - centros-privados
-  - conciertos-educativos
-  - cualificacion-profesorado
-  - curriculo
-  - educacion-infantil
-  - educacion-primaria
-  - ensenanzas-artisticas
-  - ensenanzas-universitarias
-  - eoi
-  - eso
-  - evaluacion
-  - profesorado
-  - titulacion
-  - titulaciones-requeridas
+- bachillerato
+- centros-privados
+- conciertos-educativos
+- cualificacion-profesorado
+- curriculo
+- educacion-infantil
+- educacion-primaria
+- ensenanzas-artisticas
+- ensenanzas-universitarias
+- eoi
+- eso
+- evaluacion
+- profesorado
+- titulacion
+- titulaciones-requeridas
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2007-5478
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-rd-132-2010
-    - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2007-5478
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-rd-276-2007
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - '93'
-    - '94'
-    - norma_id: norm-es-ce-1978
-  articulos:
-    - '27'
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-rd-132-2010
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2007-5478
-    - norma_id: norm-es-rd-276-2007
+  - '27'
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2007-5478
+  - norma_id: norm-es-rd-276-2007
 ---
 # Real Decreto 476/2013, de 21 de junio, por el que se regulan las condiciones de cualificación y formación del profesorado de los centros privados de educación secundaria obligatoria y de bachillerato.
 

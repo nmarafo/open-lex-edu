@@ -1,9 +1,12 @@
 ---
 id: norm-mad-o3413-2022
-titulo: Orden 3413/2022, de 15 de noviembre, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se modifica la Orden 893/2022 de evaluación y matrícula en Formación Profesional
+titulo: Orden 3413/2022, de 15 de noviembre, de la Consejería de Educación, Universidades,
+  Ciencia y Portavocía, por la que se modifica la Orden 893/2022 de evaluación y matrícula
+  en Formación Profesional
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
 numero_disposicion: 3413/2022
 fecha_disposicion: '2022-11-15'
@@ -16,20 +19,20 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Formación Profesional
 tags:
-  - formacion_profesional
-  - evaluacion
-  - madrid
+- formacion_profesional
+- evaluacion
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-mad-d-29-2013
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/23/BOCM-20221123-15.PDF
 ---
 # Orden 3413/2022, de 15 de noviembre, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se modifica la Orden 893/2022 de evaluación y matrícula en Formación Profesional

@@ -1,7 +1,10 @@
 ---
 id: norm-can-res-juriscan-30668-127
 codigo_sintetizado: Resolucion BOC 127
-titulo: Resolución de 15 de mayo de 1998, de la Dirección General de Ordenación e Innovación Educativa, por la que se establecen criterios para el reconocimiento o certificación de las actividades de formación del profesorado de esta Dirección General (BOC n.º 70, de 8 de junio).
+titulo: Resolución de 15 de mayo de 1998, de la Dirección General de Ordenación e
+  Innovación Educativa, por la que se establecen criterios para el reconocimiento
+  o certificación de las actividades de formación del profesorado de esta Dirección
+  General (BOC n.º 70, de 8 de junio).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Ordenación, Inclusión e Innovación
@@ -13,29 +16,29 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Formación del profesorado
 tags:
-  - curriculo
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - formacion-del-profesorado
-  - orientacion-educativa
-  - profesorado
-  - roc
-  - titulacion
+- curriculo
+- ensenanzas-deportivas
+- equipos-directivos
+- formacion-del-profesorado
+- orientacion-educativa
+- profesorado
+- roc
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
   desarrolla:
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-2001-7022
+  - '1'
+  - norma_id: norm-es-2001-7022
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/1998/070/boc-1998-070-009.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=30668
 ---
@@ -138,9 +141,7 @@ Vigesimoquinto.- Retribución: las actividades contempladas en los apartados vig
 
 Vigesimosexto.- Las actividades de formación, en las que en aplicación de los criterios anteriores corresponda remuneración, y que se desarrollen y comprendan parte de las mismas en horario habitual de trabajo y parte en horario no habitual, se remunerarán proporcionalmente según los módulos horarios que previamente se concreten.
 
-Vigesimoséptimo.- Las actividades desarrolladas dentro de los Planes de Formación Específicos destinados al profesorado con destino en los Servicios de Apoyo a la escuela y en los Servicios Centrales serán acreditadas con efectos retroactivos a partir del curso 1994/95.
-
-Vigesimoctavo.- A las actividades de formación desarrolladas a partir del día uno de enero de 1998, aunque hayan sido convocadas en fecha anterior, les será de aplicación la presente Resolución a los efectos de la certificación.
+Vigesimoséptimo.- Las actividades desarrolladas dentro de los Planes de Formación Específicos destinados al profesorado con destino en los Servicios de Apoyo a la escuela y en los Servicios Centrales serán acreditadas con efectos retroactivos a partir del curso 1994/95. Vigesimoctavo.- A las actividades de formación desarrolladas a partir del día uno de enero de 1998, aunque hayan sido convocadas en fecha anterior, les será de aplicación la presente Resolución a los efectos de la certificación.
 
 Vigesimonoveno.- El profesorado que desempeñe docencia directa en el aula tendrá en todo caso preferencia para la asistencia a las actividades de formación programadas de carácter general, precisándose tal circunstancia en los criterios de selección de las correspondientes convocatorias, salvo lo dispuesto para los Planes de Formación Específicos.
 

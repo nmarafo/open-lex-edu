@@ -1,7 +1,10 @@
 ---
 id: norm-can-res-boc-2022-087-31
 codigo_sintetizado: Resolucion BOC 31
-titulo: Resolución de 21 de abril de 2022, por la que se dictan instrucciones para la organización y el funcionamiento del Curso Específico de Acceso a Ciclos Formativos de Formación Profesional de Grado Medio que se impartirá en centros de educación de personas adultas dependientes de esta Consejería (BOC n.º 87, de 4 de mayo).
+titulo: Resolución de 21 de abril de 2022, por la que se dictan instrucciones para
+  la organización y el funcionamiento del Curso Específico de Acceso a Ciclos Formativos
+  de Formación Profesional de Grado Medio que se impartirá en centros de educación
+  de personas adultas dependientes de esta Consejería (BOC n.º 87, de 4 de mayo).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,31 +16,31 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-  - admision-alumnado
-  - curriculo
-  - educacion-personas-adultas
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - eso
-  - formacion-profesional
-  - grado-medio
-  - oposiciones
+- admision-alumnado
+- curriculo
+- educacion-personas-adultas
+- ensenanzas-deportivas
+- equipos-directivos
+- eso
+- formacion-profesional
+- grado-medio
+- oposiciones
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-res-134
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-134
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-can-res-134
-    - norma_id: norm-es-lo-3-2022
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-res-134
+  - norma_id: norm-es-lo-3-2022
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-087-1481.pdf
 ---
 # Resolución de 21 de abril de 2022, por la que se dictan instrucciones para la organización y el funcionamiento del Curso Específico de Acceso a Ciclos Formativos de Formación Profesional de Grado Medio que se impartirá en centros de educación de personas adultas dependientes de esta Consejería (BOC n.º 87, de 4 de mayo).
@@ -167,9 +170,7 @@ Además, en cada ámbito deben disponer de la siguiente atribución docente:
 
 5. Currículo, programación y evaluación.
 
-**5.1.** Currículo. El currículo de referencia para la organización del curso se centrará en las competencias de la Educación Secundaria Obligatoria (ESO). Asimismo, se centrará en los aspectos esenciales de los currículos de las materias de la ESO. En cualquier caso, el currículo tendrá por objeto acreditar la adquisición de las competencias recogidas en el Anexo II del Real Decreto 1147/2011, de 29 de julio, según se establece en su artículo 21.
-
-**5.2.** Programación. Las programaciones didácticas de los ámbitos se adecuarán al nivel de competencia curricular, a las características del alumnado y a la asignación horaria de los ámbitos. Las programaciones deberán incluir, como mínimo, los siguientes apartados:
+**5.1.** Currículo. El currículo de referencia para la organización del curso se centrará en las competencias de la Educación Secundaria Obligatoria (ESO). Asimismo, se centrará en los aspectos esenciales de los currículos de las materias de la ESO. En cualquier caso, el currículo tendrá por objeto acreditar la adquisición de las competencias recogidas en el Anexo II del Real Decreto 1147/2011, de 29 de julio, según se establece en su artículo 21. **5.2.** Programación. Las programaciones didácticas de los ámbitos se adecuarán al nivel de competencia curricular, a las características del alumnado y a la asignación horaria de los ámbitos. Las programaciones deberán incluir, como mínimo, los siguientes apartados:
 • Competencias específicas.
 • Criterios de evaluación.
 • Saberes básicos.

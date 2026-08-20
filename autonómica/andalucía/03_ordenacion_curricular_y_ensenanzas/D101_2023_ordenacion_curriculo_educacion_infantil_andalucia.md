@@ -1,9 +1,11 @@
 ---
 id: norm-and-d101-2023
-titulo: Decreto 101/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la Educación Infantil en la Comunidad Autónoma de Andalucía
+titulo: Decreto 101/2023, de 9 de mayo, por el que se establece la ordenación y el
+  currículo de la Educación Infantil en la Comunidad Autónoma de Andalucía
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 101/2023
 fecha_disposicion: '2023-05-09'
@@ -18,20 +20,20 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Infantil
 tags:
-  - educacion_infantil
-  - curriculo_lomloe
-  - ordenacion_academica
-  - andalucia
+- educacion_infantil
+- curriculo_lomloe
+- ordenacion_academica
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
 ---
 # Decreto 101/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la Educación Infantil en la Comunidad Autónoma de Andalucía
 
@@ -276,9 +278,7 @@ ayuda a familias y centros privados concertados. Los centros privados, los centr
 
 #### Disposición transitoria única. Calendario de aplicación.
 
-El presente decreto será de aplicación a partir del curso escolar 2023/2024.
-
-#### Disposición final primera. Conformidad con la normativa estatal.
+El presente decreto será de aplicación a partir del curso escolar 2023/2024. #### Disposición final primera. Conformidad con la normativa estatal.
 
 1. El contenido de los artículos 2, 4.a, 4.b, 5, 6.a, 6.b, 6.c, 6.e, 6.f, 8.1, 9.1, 9.2, reproduce, total o parcialmente, normas dictadas por el Estado al amparo del artículo 149.1.30.ª de la Constitución Española, recogidas en los artículos 12 de los «Principios generales», 13 de los «Objetivos», 14 de la «Ordenación y principios pedagógicos», 15 de la «Oferta de plazas y gratuidad», así como de la «Disposición adicional segunda. Enseñanza de la Religión», de la Ley Orgánica 2/2006, de 3 de mayo.
 

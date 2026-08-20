@@ -1,10 +1,15 @@
 ---
 id: norm-can-res-boc-2026-075-85
 codigo_sintetizado: Resolucion BOC 85
-titulo: Resolución de 10 de abril de 2026, por la que se corrige error en la Resolución de 17 de mazo de 2026, que establece el calendario escolar y dicta instrucciones para la organización y desarrollo de las actividades de comienzo y finalización del curso 2026-2027, para los centros de enseñanzas no universitarias de la Comunidad Autónoma de Canaria.(BOC n.º 61, de 30.3.2026).
+titulo: Resolución de 10 de abril de 2026, por la que se corrige error en la Resolución
+  de 17 de mazo de 2026, que establece el calendario escolar y dicta instrucciones
+  para la organización y desarrollo de las actividades de comienzo y finalización
+  del curso 2026-2027, para los centros de enseñanzas no universitarias de la Comunidad
+  Autónoma de Canaria.(BOC n.º 61, de 30.3.2026).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios Complementarios
+organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios
+  Complementarios
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: pdf_oficial_boc
@@ -13,32 +18,32 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Calendario escolar y jornadas
 tags:
-  - admision-alumnado
-  - calendario-escolar-y-jornadas
-  - ensenanzas-deportivas
-  - ensenanzas-universitarias
-  - equipos-directivos
-  - formacion-profesional
-  - organizacion-escolar
-  - permisos-licencias
-  - procedimiento-administrativo
+- admision-alumnado
+- calendario-escolar-y-jornadas
+- ensenanzas-deportivas
+- ensenanzas-universitarias
+- equipos-directivos
+- formacion-profesional
+- organizacion-escolar
+- permisos-licencias
+- procedimiento-administrativo
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-res-boc-2026-077-49
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-40-2015
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-boc-2026-077-49
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-40-2015
   fundamento_de:
-    - norma_id: norm-can-res-boc-2026-077-49
+  - norma_id: norm-can-res-boc-2026-077-49
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-can-res-boc-2026-077-49
+  - '1'
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-res-boc-2026-077-49
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-075-1240.pdf
 ---
 # Resolución de 10 de abril de 2026, por la que se corrige error en la Resolución de 17 de mazo de 2026, que establece el calendario escolar y dicta instrucciones para la organización y desarrollo de las actividades de comienzo y finalización del curso 2026-2027, para los centros de enseñanzas no universitarias de la Comunidad Autónoma de Canaria.(BOC n.º 61, de 30.3.2026).

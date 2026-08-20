@@ -1,10 +1,12 @@
 ---
 id: norm-mad-o-2300-2022
 codigo_sintetizado: O2300_2022 Evaluacion Segundo Ciclo Educacion Infantil Madrid
-titulo: Orden 2300/2022, de 5 de agosto, por la que se regula la evaluación del segundo ciclo de Educación Infantil en Madrid.
+titulo: Orden 2300/2022, de 5 de agosto, por la que se regula la evaluación del segundo
+  ciclo de Educación Infantil en Madrid.
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
 numero_disposicion: 2300/2022
 fecha_disposicion: '2022-08-05'
@@ -18,16 +20,16 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Infantil
 tags:
-  - infantil_segundo_ciclo
-  - evaluacion_infantil
-  - madrid
+- infantil_segundo_ciclo
+- evaluacion_infantil
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-mad-d-29-2013
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Orden 2300/2022, de 5 de agosto, por la que se regula la evaluación del segundo ciclo de Educación Infantil en Madrid.
 

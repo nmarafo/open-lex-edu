@@ -1,7 +1,9 @@
 ---
 id: norm-can-o-2023-09-28
 codigo_sintetizado: O28_9_2023 Instrucciones de Organizacion y Funcionamiento de Centros
-titulo: Orden de 28 de septiembre de 2023, por la que se aprueban las instrucciones de organización y funcionamiento de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
+titulo: Orden de 28 de septiembre de 2023, por la que se aprueban las instrucciones
+  de organización y funcionamiento de los centros docentes públicos no universitarios
+  de la Comunidad Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Ordenación, Inclusión e Innovación
@@ -19,52 +21,49 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Instrucciones de organización y funcionamiento
 tags:
-  - admision-alumnado
-  - instrucciones-de-organizacion-y-funcionamiento
-  - instrucciones-inicio-curso
-  - oposiciones
-  - organizacion-centros
-  - personal-no-docente
-  - profesorado
+- admision-alumnado
+- instrucciones-de-organizacion-y-funcionamiento
+- instrucciones-inicio-curso
+- oposiciones
+- organizacion-centros
+- personal-no-docente
+- profesorado
 relaciones:
   desarrolla:
-    - norma_id: norm-can-d-81-2010
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-can-res-boc-2019-069-48
-    - norma_id: norm-es-2007-6115
-    - norma_id: norm-es-2010-4518
-    - norma_id: norm-es-l-19-2013
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-1-2004
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-3-2018
-    - norma_id: norm-es-rdl-2-2015
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-boc-2019-069-48
+  - norma_id: norm-es-2007-6115
+  - norma_id: norm-es-2010-4518
+  - norma_id: norm-es-l-19-2013
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-1-2004
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-rdl-2-2015
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-can-l-6-2014
   fundamento_de:
-    - norma_id: norm-can-res-055
-    - norma_id: norm-can-res-boc-2026-116-87
+  - norma_id: norm-can-res-055
+  - norma_id: norm-can-res-boc-2026-116-87
   modifica:
-    - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-can-o-2013-10-09
   fundamentos_derecho:
-    - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-d-81-2010
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-  articulos:
-    - '120'
-    - norma_id: norm-can-res-boc-2019-069-48
-    - norma_id: norm-es-l-19-2013
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-3-2018
-    - norma_id: norm-es-2007-6115
-    - norma_id: norm-es-2010-4518
-    - norma_id: norm-es-lo-1-2004
-    - norma_id: norm-es-rdl-2-2015
+  - '120'
+  - norma_id: norm-can-res-boc-2019-069-48
+  - norma_id: norm-es-l-19-2013
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-2007-6115
+  - norma_id: norm-es-2010-4518
+  - norma_id: norm-es-lo-1-2004
+  - norma_id: norm-es-rdl-2-2015
 ---
 # Orden de 28 de septiembre de 2023, por la que se aprueban las instrucciones de organización y funcionamiento de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 
@@ -82,9 +81,7 @@ Archivo
 
 Año 2023
 
-2023/198.
-
-Siguiente
+2023/198. Siguiente
 
 Viernes 6 de octubre de 2023 - 3254
 
@@ -146,9 +143,7 @@ En los artículos 16 y siguientes del Convenio Colectivo se regulan las bases de
 
 respecto a la convocatoria pública para el personal de nuevo ingreso, que: la selección del personal laboral fijo, previa a su contratación, se realizará, preferentemente, por el sistema de concurso-oposición u oposición libre, según el nivel de conocimientos específicos que requiera el puesto de trabajo, de acuerdo con los principios constitucionales de igualdad, mérito y capacidad y con lo previsto en el presente Convenio y en el resto del ordenamiento jurídico.
 
-Por Acuerdo de la Mesa de 8 de septiembre de 2023 se aprobó el anteproyecto de las bases de la convocatoria de pruebas selectivas para la provisión, en régimen de contratación laboral fija, de una plaza con la categoría de Jefe/a de Desarrollo (Grupo I) del Parlamento de Canarias, por el sistema de concurso-oposición, turno de acceso libre. Asimismo, las mencionadas bases fueron informadas por el representante de personal laboral y ha sido objeto de negociación en la Mesa de Negociación de Personal Laboral celebrada el 18 de septiembre de 2023.
-
-En virtud de lo expuesto, a la vista de las competencias que tiene atribuida en el artículo 8 l.
+Por Acuerdo de la Mesa de 8 de septiembre de 2023 se aprobó el anteproyecto de las bases de la convocatoria de pruebas selectivas para la provisión, en régimen de contratación laboral fija, de una plaza con la categoría de Jefe/a de Desarrollo (Grupo I) del Parlamento de Canarias, por el sistema de concurso-oposición, turno de acceso libre. Asimismo, las mencionadas bases fueron informadas por el representante de personal laboral y ha sido objeto de negociación en la Mesa de Negociación de Personal Laboral celebrada el 18 de septiembre de 2023. En virtud de lo expuesto, a la vista de las competencias que tiene atribuida en el artículo 8 l.
 
 I Convenio Colectivo, con el parecer favorable del letrado-secretario general, la Mesa acuerda:
 
@@ -310,9 +305,7 @@ Asimismo, podrá disponer de personal colaborador, que será designado por el le
 
 7.- El tribunal podrá convocar personalmente a las personas aspirantes que considere conveniente al objeto de aclarar puntos dudosos, de difícil interpretación o controvertidos de la documentación presentada por los mismos, o, en su caso, reclamar la documentación adicional que se estime necesaria para la comprobación de los méritos alegados en la fase de concurso.
 
-8.- El plazo para la resolución del proceso selectivo será el previsto en la Oferta de Empleo Público ordinario de 2022 (BOPC n.º 211, 24.5.2022), modificada por Acuerdo de la Mesa de la Cámara de 28 de julio de 2023, publicado en el BOPC, n.º 32, de 2 de agosto de 2023.
-
-9.- El Tribunal Calificador queda facultado para resolver las dudas que se presenten en todo lo no previsto en estas bases.
+8.- El plazo para la resolución del proceso selectivo será el previsto en la Oferta de Empleo Público ordinario de 2022 (BOPC n.º 211, 24.5.2022), modificada por Acuerdo de la Mesa de la Cámara de 28 de julio de 2023, publicado en el BOPC, n.º 32, de 2 de agosto de 2023. 9.- El Tribunal Calificador queda facultado para resolver las dudas que se presenten en todo lo no previsto en estas bases.
 
 #### Sexta. Sistema selectivo.
 

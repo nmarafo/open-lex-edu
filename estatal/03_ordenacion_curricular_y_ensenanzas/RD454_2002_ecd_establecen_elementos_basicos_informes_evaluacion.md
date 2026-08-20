@@ -1,10 +1,15 @@
 ---
 id: norm-es-2002-4371
 codigo_sintetizado: BOE-A-2002-4371
-titulo: Orden ECD/454/2002, de 22 de febrero, por la que se establecen los elementos básicos de los informes de evaluación de las enseñanzas que conducentes a la obtención de titulaciones de técnicos deportivos reguladas por el Real Decreto 1913/1997, de 19 de diciembre, así como los requisitos formales derivados del proceso de evaluación que son necesarios para garantizar la movilidad de los alumnos.
+titulo: Orden ECD/454/2002, de 22 de febrero, por la que se establecen los elementos
+  básicos de los informes de evaluación de las enseñanzas que conducentes a la obtención
+  de titulaciones de técnicos deportivos reguladas por el Real Decreto 1913/1997,
+  de 19 de diciembre, así como los requisitos formales derivados del proceso de evaluación
+  que son necesarios para garantizar la movilidad de los alumnos.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2002-03-05'
 boletin: BOE
@@ -15,35 +20,31 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Deportivas
 tags:
-  - consejo-escolar
-  - ense-anzas-deportivas
-  - ensenanzas-deportivas
-  - evaluacion
-  - formacion-profesional
-  - titulacion
+- consejo-escolar
+- ense-anzas-deportivas
+- ensenanzas-deportivas
+- evaluacion
+- formacion-profesional
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
-    - norma_id: norm-es-2000-5990
-    - norma_id: norm-es-2007-19326
-    - norma_id: norm-es-2010-13564
-    - norma_id: norm-es-2011-12632
-    - norma_id: norm-es-2011-15628
-    - norma_id: norm-es-2013-10219
-    - norma_id: norm-can-res-boc-2017-036-75
-    - norma_id: norm-can-res-boc-2019-143-74
+  - norma_id: norm-es-2000-5990
+  - norma_id: norm-es-2007-19326
+  - norma_id: norm-es-2010-13564
+  - norma_id: norm-es-2011-12632
+  - norma_id: norm-es-2011-15628
+  - norma_id: norm-es-2013-10219
+  - norma_id: norm-can-res-boc-2017-036-75
+  - norma_id: norm-can-res-boc-2019-143-74
   desarrollado_por: []
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - '6'
-    - 6bis
-    - norma_id: norm-can-l-6-2014
-  articulos:
-    - '22'
-    - norma_id: norm-es-2001-7022
+  - '22'
+  - norma_id: norm-es-2001-7022
 ---
 # Orden ECD/454/2002, de 22 de febrero, por la que se establecen los elementos básicos de los informes de evaluación de las enseñanzas que conducentes a la obtención de titulaciones de técnicos deportivos reguladas por el Real Decreto 1913/1997, de 19 de diciembre, así como los requisitos formales derivados del proceso de evaluación que son necesarios para garantizar la movilidad de los alumnos.
 
@@ -265,9 +266,7 @@ En todos los procedimientos a los que se refiere la presente Orden, se estará a
 
 #### [precepto]Cuarta. Entrada en vigor.
 
-Madrid, 22 de febrero de 2002.
-
-DEL CASTILLO VERA
+Madrid, 22 de febrero de 2002. DEL CASTILLO VERA
 
 Excmo. Sr. Secretario de Estado-Presidente del Consejo Superior de Deportes.
 
@@ -287,9 +286,7 @@ Características de los elementos a emplear:
 
 Papel.
 
-Tamaño: 210 x 297.
-
-Composición fibrosa: sin pasta mecánica ( o similares) ni pasta semiquímica.
+Tamaño: 210 x 297. Composición fibrosa: sin pasta mecánica ( o similares) ni pasta semiquímica.
 
 Color: Blanco.
 
@@ -369,9 +366,7 @@ Datos del interesado:
 
 En el supuesto de que el alumno hubiera anulado la matrícula, solamente se utilizará la siguiente diligencia: Autorizada la anulación de matrícula con fecha...
 
-28. Segunda y sucesivas matrículas. En tal caso se detallarán los datos de forma análoga a lo expresado para la primera matrícula, en el punto 27.
-
-29. Denominación del órgano competente de la Comunidad Autónoma que realice la diligencia.
+28. Segunda y sucesivas matrículas. En tal caso se detallarán los datos de forma análoga a lo expresado para la primera matrícula, en el punto 27. 29. Denominación del órgano competente de la Comunidad Autónoma que realice la diligencia.
 
 30. Nombre y apellidos del funcionario.
 
@@ -391,7 +386,7 @@ Claves identificativas del Certificado de Superación del Primer Nivel y de la C
 
 1. Dígitos del carácter de la certificación:
 
-Â
+
 
 Certificado de Superación del Primer Nivel
 
@@ -403,7 +398,7 @@ CA
 
 2. Dígitos de las Comunidades Autónomas, para el Certificado de Superación del Primer Nivel y para la Certificación Académica Personal:
 
-Â
+
 
 Comunidad Autónoma de Andalucía
 
@@ -483,7 +478,7 @@ Ciudad Autónoma de Melilla
 
 3. Dígitos del nivel:
 
-Â
+
 
 Certificado de Superación del Primer Nivel
 
@@ -491,7 +486,7 @@ N1
 
 Certificación Académica Oficial:
 
-Â
+
 
 Formaciones no finalizadas de nivel 1 del Grado Medio
 
@@ -507,7 +502,7 @@ N3
 
 4. Dígitos de la especialidad deportiva:
 
-Â
+
 
 Fútbol
 

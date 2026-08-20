@@ -1,7 +1,12 @@
 ---
 id: norm-can-res-juriscan-72788-60
 codigo_sintetizado: Resolucion BOC 60
-titulo: Resolución de 13 de mayo de 2015, de la Dirección General de Ordenación, Innovación y Promoción Educativa de la Consejería de Educación, Universidades y Sostenibilidad, por la que se establecen las rúbricas de los criterios de evaluación del segundo ciclo de la Educación Infantil y de la Educación Primaria para orientar y facilitar la evaluación objetiva del alumnado en la Comunidad Autónoma de Canarias (BOC n.º 100, de 27 de mayo).
+titulo: Resolución de 13 de mayo de 2015, de la Dirección General de Ordenación, Innovación
+  y Promoción Educativa de la Consejería de Educación, Universidades y Sostenibilidad,
+  por la que se establecen las rúbricas de los criterios de evaluación del segundo
+  ciclo de la Educación Infantil y de la Educación Primaria para orientar y facilitar
+  la evaluación objetiva del alumnado en la Comunidad Autónoma de Canarias (BOC n.º
+  100, de 27 de mayo).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Ordenación, Inclusión e Innovación
@@ -13,33 +18,33 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Infantil
 tags:
-  - curriculo
-  - educaci-n-infantil
-  - educacion-infantil
-  - educacion-primaria
-  - ensenanzas-artisticas
-  - equipos-directivos
-  - evaluacion
-  - inclusiva
-  - neae
-  - profesorado
+- curriculo
+- educaci-n-infantil
+- educacion-infantil
+- educacion-primaria
+- ensenanzas-artisticas
+- equipos-directivos
+- evaluacion
+- inclusiva
+- neae
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-81-2010
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-o-2013-10-09
-    - norma_id: norm-es-2014-2222
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-es-2014-2222
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-d-81-2010
-    - norma_id: norm-can-o-2013-10-09
-    - norma_id: norm-es-2014-2222
+  - '1'
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-es-2014-2222
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2015-100-2486.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=72788
 ---

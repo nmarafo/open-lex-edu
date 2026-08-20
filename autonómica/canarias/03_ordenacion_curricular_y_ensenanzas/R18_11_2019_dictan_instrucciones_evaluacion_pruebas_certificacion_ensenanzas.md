@@ -1,7 +1,9 @@
 ---
 id: norm-can-res-boc-2019-234-52
 codigo_sintetizado: Resolucion BOC 52
-titulo: Resolución de 18 de noviembre de 2019, por la que se dictan instrucciones sobre evaluación de las pruebas de certificación de enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Canarias (BOC n.º 234, de 3 de diciembre).
+titulo: Resolución de 18 de noviembre de 2019, por la que se dictan instrucciones
+  sobre evaluación de las pruebas de certificación de enseñanzas de idiomas de régimen
+  especial en la Comunidad Autónoma de Canarias (BOC n.º 234, de 3 de diciembre).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,39 +15,39 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas de Idiomas
 tags:
-  - curriculo
-  - educacion-personas-adultas
-  - ense-anzas-de-idiomas
-  - ensenanzas-deportivas
-  - eoi
-  - equipos-directivos
-  - evaluacion
-  - formacion-profesional
-  - fp-basica
-  - titulacion
+- curriculo
+- educacion-personas-adultas
+- ense-anzas-de-idiomas
+- ensenanzas-deportivas
+- eoi
+- equipos-directivos
+- evaluacion
+- formacion-profesional
+- fp-basica
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-212-1991
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2019-317
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2019-317
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2019-317
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-d-212-1991
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2019-317
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-234-5741.pdf
 ---
 # Resolución de 18 de noviembre de 2019, por la que se dictan instrucciones sobre evaluación de las pruebas de certificación de enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Canarias (BOC n.º 234, de 3 de diciembre).
@@ -105,9 +107,7 @@ de lengua en los currículos fijados en el Anexo 1º del Decreto 142/2018, de 8 
 
 Decreto 142/2018, de 8 de octubre, o estar destinadas a colectivos específicos definidos por unos requisitos complementarios establecidos en las convocatorias.
 
-#### Cuarta. Certificación del nivel básico A2.
-
-1. Para la obtención del certificado oficial del nivel básico A2 será necesaria la realización y superación de una prueba específica de certificación de competencia general que será común para todas las personas aspirantes, cualquiera que sea el régimen o modalidad de enseñanza, convocada al efecto por el centro directivo de la consejería competente en materia de educación responsable de las enseñanzas de idiomas de régimen especial.
+#### Cuarta. Certificación del nivel básico A2. 1. Para la obtención del certificado oficial del nivel básico A2 será necesaria la realización y superación de una prueba específica de certificación de competencia general que será común para todas las personas aspirantes, cualquiera que sea el régimen o modalidad de enseñanza, convocada al efecto por el centro directivo de la consejería competente en materia de educación responsable de las enseñanzas de idiomas de régimen especial.
 
 2. No obstante lo anterior, de acuerdo con lo previsto en el apartado segundo del artículo 27.1 del Decreto 142/2018, de 8 de octubre, el alumnado que curse el nivel A2 en las Escuelas Oficiales de idiomas (EOI) o en aulas adscritas (AEOI), y que supere la evaluación del último curso del nivel -que incluirá una prueba terminal de aprovechamiento- obtendrá el certificado de nivel básico A2. En este supuesto, el alumnado podrá reclamar contra el resultado obtenido en la citada evaluación de acuerdo con el procedimiento establecido en el Capítulo IV de la Orden de 11 de abril de 2013, por la que se regula la evaluación de las enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Canarias, o norma que la sustituya. El alumnado que no supere la evaluación y, por tanto, no obtenga el certificado de nivel, podrá presentarse como aspirante escolarizado a la prueba de certificación convocada para el nivel básico A2 en ese curso escolar.
 
@@ -169,9 +169,7 @@ cada una de las actividades de lengua que componen la prueba de certificación, 
 
 Para garantizar la validez y la fiabilidad de dicho proceso y la igualdad de condiciones de todas las personas aspirantes a la certificación, las pruebas de certificación se administrarán de acuerdo con el protocolo que establezca la Dirección General competente en materia de ordenación de enseñanzas de régimen especial en la Guía de Administración de Pruebas de Certificación. Decimoprimera.- Evaluación y calificación de las pruebas.
 
-1. Corresponde al profesorado de EOI la evaluación y calificación de las pruebas para la obtención de los certificados de los niveles básico A2, intermedio B1, int ermedio B2, avanzado C1 y avanzado C2.
-
-2. En la evaluación y calificación de las pruebas de certificación se tomarán como referencia los criterios de evaluación establecidos para cada nivel y actividad de lengua en los currículos establecidos en el Decreto 142/2018, de 8 de octubre, así como los principios comunes de evaluación establecidos en el [Real Decreto 1/2019](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md), de 11 de enero.
+1. Corresponde al profesorado de EOI la evaluación y calificación de las pruebas para la obtención de los certificados de los niveles básico A2, intermedio B1, int ermedio B2, avanzado C1 y avanzado C2. 2. En la evaluación y calificación de las pruebas de certificación se tomarán como referencia los criterios de evaluación establecidos para cada nivel y actividad de lengua en los currículos establecidos en el Decreto 142/2018, de 8 de octubre, así como los principios comunes de evaluación establecidos en el [Real Decreto 1/2019](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md), de 11 de enero.
 
 3. El proceso de evaluación y calificación de pruebas se desarrollará según directrices que aseguren la fiabilidad, la equidad y la transparencia de dicho proceso, que se recogerán en la Guía de Evaluación y Calificación de Pruebas de Certificación que establezca la Dirección General competente en materia de ordenación de enseñanzas de régimen especial.
 

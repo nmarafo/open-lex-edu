@@ -4,7 +4,8 @@ codigo_sintetizado: BOE-A-2010-4518
 titulo: Ley 1/2010, de 26 de febrero, canaria de igualdad entre mujeres y hombres.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2010-03-18'
 boletin: BOE
@@ -15,33 +16,33 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Igualdad de género y diversidad
 tags:
-  - autonomia-centro
-  - igualdad-de-g-nero-y-diversidad
-  - igualdad-genero
-  - neae
-  - oposiciones
-  - personal-no-docente
+- autonomia-centro
+- igualdad-de-g-nero-y-diversidad
+- igualdad-genero
+- neae
+- oposiciones
+- personal-no-docente
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2007-6115
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-lo-1-2004
+  - norma_id: norm-es-2007-6115
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-1-2004
   fundamento_de:
-    - norma_id: norm-es-2012-9282
-    - norma_id: norm-es-2021-11382
-    - norma_id: norm-can-o-2023-09-28
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-4-2023
-    - norma_id: norm-can-o-2013-10-09
-    - norma_id: norm-can-res-boc-2018-124-126
+  - norma_id: norm-es-2012-9282
+  - norma_id: norm-es-2021-11382
+  - norma_id: norm-can-o-2023-09-28
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-4-2023
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-can-res-boc-2018-124-126
   desarrollado_por: []
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-can-l-16-2003
-    - norma_id: norm-es-2007-6115
-    - norma_id: norm-es-lo-1-2004
+  - '27'
+  - norma_id: norm-can-l-16-2003
+  - norma_id: norm-es-2007-6115
+  - norma_id: norm-es-lo-1-2004
 ---
 # Ley 1/2010, de 26 de febrero, canaria de igualdad entre mujeres y hombres.
 
@@ -63,9 +64,7 @@ Ha sido difícil que nuestra sociedad aceptase que la igualdad tenía que afecta
 
 En el ámbito internacional, figura de forma expresa y contundente, con los pronunciamientos para la eliminación de todas las formas de discriminación hacia las mujeres, en el marco de la Organización de las Naciones Unidas, que viene conformado por la Declaración sobre la eliminación de la discriminación contra la Mujer de 1967, la Convención para la eliminación de todas las formas de discriminación contra la Mujer de 1979 y el Comité para la Eliminación de la Discriminación contra la Mujer, que tiene como función vigilar la aplicación de la Convención por los Estados que la han suscrito; entre ellos, España. En la Convención se declara que la discriminación contra las mujeres vulnera los principios de igualdad de derechos y de respeto a la dignidad humana, dificultando la plena participación de las mujeres en la vida política, social, económica y cultural.
 
-En esta línea, las cuatro conferencias mundiales sobre la mujer, celebradas en el marco de la Organización de las Naciones Unidas –la primera de ellas celebrada en México en el año 1975, y las posteriores: Copenhague 1980, Nairobi 1985 y Pekín 1995–, han contribuido a situar la causa de la igualdad de género en primera línea del debate mundial. La Declaración y la Plataforma de Acción de la IV Conferencia Mundial sobre la Mujer de 1995 han establecido las dos estrategias fundamentales para el desarrollo eficaz de las políticas de igualdad entre mujeres y hombres: una, la transversalidad de género, siendo necesaria la vinculación de la totalidad de los poderes públicos, y dos, la representación equilibrada. Si bien es cierto que en estos últimos diez años, se han producido actuaciones de continuidad en el impulso que supuso sobre todo Beijing-Pekín, como ha sido el documento de Beijing + 10.
-
-Para Europa ha sido fundamental, partiendo de la influencia de todas las actuaciones en el seno de la ONU, el trabajo realizado desde la creación de la entonces llamada Comunidad Económica Europea, hoy Unión Europea, relacionadas temporalmente con los efectos posteriores a la Segunda Guerra Mundial. En este ámbito de la Unión Europea han sido numerosas las directivas, recomendaciones, resoluciones y decisiones relativas a la igualdad de trato y oportunidades entre mujeres y hombres, habiéndose desarrollado igualmente diversos programas de acción comunitaria para la igualdad de oportunidades. El Tratado de Ámsterdam, aprobado por el Consejo Europeo de Ámsterdam el 16 y 17 de junio de 1997, en sus modificaciones al Tratado de Roma de 25 de marzo de 1957, constitutivo de la Comunidad Europea, incluye en su artículo 2 una referencia específica a la igualdad entre el hombre y la mujer como misión de la Comunidad. Igualmente, en el apartado 2 del artículo 3 se incorpora el objetivo de eliminar las desigualdades entre el hombre y la mujer y promover su igualdad, que deberá inspirar todas las acciones y políticas comunitarias. También hay que destacar que los artículos 20 y 21 de la Carta de Derechos Fundamentales de la Unión Europea establecen tanto el principio de igualdad ante la ley como la prohibición de discriminación. Además, la Carta contiene un artículo específico, el 23, dedicado a la igualdad entre mujeres y hombres y a las acciones positivas como medidas compatibles con la igualdad de trato. Asimismo, se han aprobado normas comunitarias específicas, como la Directiva 2002/73/CE del Parlamento Europeo y del Consejo, de 23 de septiembre de 2002, relativa a la aplicación del principio de igualdad de trato entre mujeres y hombres en lo que se refiere al acceso al empleo, a la formación y a la promoción profesionales, y a las condiciones de trabajo, y la Directiva 2004/113/CE del Consejo, de 13 de diciembre de 2004, por la que se aplica el principio de igualdad de trato entre mujeres y hombres al acceso a bienes y servicios y su suministro, y la
+En esta línea, las cuatro conferencias mundiales sobre la mujer, celebradas en el marco de la Organización de las Naciones Unidas –la primera de ellas celebrada en México en el año 1975, y las posteriores: Copenhague 1980, Nairobi 1985 y Pekín 1995–, han contribuido a situar la causa de la igualdad de género en primera línea del debate mundial. La Declaración y la Plataforma de Acción de la IV Conferencia Mundial sobre la Mujer de 1995 han establecido las dos estrategias fundamentales para el desarrollo eficaz de las políticas de igualdad entre mujeres y hombres: una, la transversalidad de género, siendo necesaria la vinculación de la totalidad de los poderes públicos, y dos, la representación equilibrada. Si bien es cierto que en estos últimos diez años, se han producido actuaciones de continuidad en el impulso que supuso sobre todo Beijing-Pekín, como ha sido el documento de Beijing + 10. Para Europa ha sido fundamental, partiendo de la influencia de todas las actuaciones en el seno de la ONU, el trabajo realizado desde la creación de la entonces llamada Comunidad Económica Europea, hoy Unión Europea, relacionadas temporalmente con los efectos posteriores a la Segunda Guerra Mundial. En este ámbito de la Unión Europea han sido numerosas las directivas, recomendaciones, resoluciones y decisiones relativas a la igualdad de trato y oportunidades entre mujeres y hombres, habiéndose desarrollado igualmente diversos programas de acción comunitaria para la igualdad de oportunidades. El Tratado de Ámsterdam, aprobado por el Consejo Europeo de Ámsterdam el 16 y 17 de junio de 1997, en sus modificaciones al Tratado de Roma de 25 de marzo de 1957, constitutivo de la Comunidad Europea, incluye en su artículo 2 una referencia específica a la igualdad entre el hombre y la mujer como misión de la Comunidad. Igualmente, en el apartado 2 del artículo 3 se incorpora el objetivo de eliminar las desigualdades entre el hombre y la mujer y promover su igualdad, que deberá inspirar todas las acciones y políticas comunitarias. También hay que destacar que los artículos 20 y 21 de la Carta de Derechos Fundamentales de la Unión Europea establecen tanto el principio de igualdad ante la ley como la prohibición de discriminación. Además, la Carta contiene un artículo específico, el 23, dedicado a la igualdad entre mujeres y hombres y a las acciones positivas como medidas compatibles con la igualdad de trato. Asimismo, se han aprobado normas comunitarias específicas, como la Directiva 2002/73/CE del Parlamento Europeo y del Consejo, de 23 de septiembre de 2002, relativa a la aplicación del principio de igualdad de trato entre mujeres y hombres en lo que se refiere al acceso al empleo, a la formación y a la promoción profesionales, y a las condiciones de trabajo, y la Directiva 2004/113/CE del Consejo, de 13 de diciembre de 2004, por la que se aplica el principio de igualdad de trato entre mujeres y hombres al acceso a bienes y servicios y su suministro, y la
 
 Directiva 2006/54/CE del Parlamento Europeo y del Consejo, de 5 de julio de 2006, relativa a la aplicación del principio de igualdad de oportunidades e igualdad de trato entre mujeres y hombres en asuntos de empleo y ocupación.
 
@@ -673,9 +672,7 @@ g) Se potenciarán las subvenciones y la suscripción de convenios, tanto con or
 
 h) Se promoverán en el ámbito educativo las acciones necesarias para fomentar la asunción de una sexualidad responsable y de una maternidad y paternidad, caso de darse, corresponsable, antes, durante y después del embarazo.
 
-i) Todo el contenido de la presente sección se publicará y difundirá en cualesquiera medios que faciliten que la información llegue de manera eficaz a la ciudadanía. Se incluirá información a la mujer embarazada, en cualquiera de las circunstancias personales en que se encuentre a través del teléfono de información del Gobierno de Canarias 012.
-
-## Capítulo V. Políticas de promoción y atención a las mujeres.
+i) Todo el contenido de la presente sección se publicará y difundirá en cualesquiera medios que faciliten que la información llegue de manera eficaz a la ciudadanía. Se incluirá información a la mujer embarazada, en cualquiera de las circunstancias personales en que se encuentre a través del teléfono de información del Gobierno de Canarias 012. ## Capítulo V. Políticas de promoción y atención a las mujeres.
 
 #### Artículo 57. Vivienda, urbanismo y planeamiento.
 

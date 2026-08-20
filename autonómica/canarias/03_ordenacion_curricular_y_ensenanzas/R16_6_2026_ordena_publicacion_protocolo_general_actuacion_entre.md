@@ -1,7 +1,12 @@
 ---
 id: norm-can-res-boc-2026-129-26
 codigo_sintetizado: Resolucion BOC 26
-titulo: Resolución de 16 de junio de 2026, por la que se ordena la publicación del Protocolo General de Actuación entre la Consejería de Educación, Formación Profesional, Actividad Física y Deportes y la Federación Canaria de Municipios, como organismo intermedio, para el desarrollo de la formación en empresa u organismo equiparado por el alumnado de formación profesional matriculado en centros docentes de titularidad pública de la Comunidad Autónoma de Canarias.(BOC n.º 129, de 29.06.2026).
+titulo: Resolución de 16 de junio de 2026, por la que se ordena la publicación del
+  Protocolo General de Actuación entre la Consejería de Educación, Formación Profesional,
+  Actividad Física y Deportes y la Federación Canaria de Municipios, como organismo
+  intermedio, para el desarrollo de la formación en empresa u organismo equiparado
+  por el alumnado de formación profesional matriculado en centros docentes de titularidad
+  pública de la Comunidad Autónoma de Canarias.(BOC n.º 129, de 29.06.2026).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Secretaría General Técnica
@@ -13,60 +18,60 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-  - convivencia-escolar
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - formacion-profesional
-  - profesorado
+- convivencia-escolar
+- ensenanzas-deportivas
+- equipos-directivos
+- formacion-profesional
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-14-1990
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-can-res-134
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-es-1971-1198
-    - norma_id: norm-es-1985-5392
-    - norma_id: norm-es-1995-25444
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-l-9-2017
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-3-2018
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-lo-8-2021
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-rdl-2-2015
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-1971-1198
+  - norma_id: norm-es-1985-5392
+  - norma_id: norm-es-1995-25444
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-l-9-2017
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-rdl-2-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-14-1990
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-can-res-134
-    - norma_id: norm-es-1995-25444
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-1985-5392
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-l-9-2017
-    - norma_id: norm-es-lo-3-2018
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-1971-1198
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-lo-8-2021
-    - norma_id: norm-es-rdl-2-2015
+  - '1'
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-134
+  - norma_id: norm-es-1995-25444
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-1985-5392
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-l-9-2017
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-1971-1198
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-rdl-2-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-129-2245.pdf
 ---
 # Resolución de 16 de junio de 2026, por la que se ordena la publicación del Protocolo General de Actuación entre la Consejería de Educación, Formación Profesional, Actividad Física y Deportes y la Federación Canaria de Municipios, como organismo intermedio, para el desarrollo de la formación en empresa u organismo equiparado por el alumnado de formación profesional matriculado en centros docentes de titularidad pública de la Comunidad Autónoma de Canarias.(BOC n.º 129, de 29.06.2026).
@@ -351,9 +356,7 @@ i) El plan formativo estará firmado por la empresa u organismo equiparado, el c
 
 3. En ningún caso podrá tener lugar la realización de la actividad formativa en empresa sin que el plan de formación o programa formativo, en su caso, y la realización de los mismos hayan obtenido de la Dirección del centro educativo y la persona representante de la empresa los correspondientes visados. Los documentos donde consten las expresadas circunstancias formarán parte del presente convenio, como anexos al mismo, y se suscribirán por ambas partes.
 
-4. El contenido del programa formativo para la FCT se determinará conforme a lo dispuesto en la Resolución de 26 de julio de 2004, de la Dirección General de Formación Profesional y Enseñanzas de Adultos, por la que se regula la Formación en Centros de Trabajo, modificada por la Resolución de 13 de abril de 2015.
-
-#### Séptima. Periodo de formación.
+4. El contenido del programa formativo para la FCT se determinará conforme a lo dispuesto en la Resolución de 26 de julio de 2004, de la Dirección General de Formación Profesional y Enseñanzas de Adultos, por la que se regula la Formación en Centros de Trabajo, modificada por la Resolución de 13 de abril de 2015. #### Séptima. Periodo de formación.
 
 Jornada y horario.
 
@@ -523,9 +526,7 @@ sobre protección de datos. Garantiza y tutela el derecho fundamental a la prote
 ## Anexo II
 
 SOLICITUD DE ALUMNADO CON INDICACIÓN DE PREFERENCIA DE RÉGIMEN Y ASIGNACIÓN DE EMPRESA SOLICITUD DE ALUMNADO CON INDICACIÓN DE PREFERENCIA DE RÉGIMEN Y ASIGNACIÓN DE EMPRESA. Fecha______________________/ Curso 20..…../20...….. DATOS DEL CENTRO EDUCATIVO Nombre de Centro Código del centro DIRECTOR O DIRECTORA DEL CENTRO EDUCATIVO Nombre y Apellidos TUTOR O TUTORA DUAL DEL CENTRO EDUCATIVO Nombre y Apellidos DATOS DEL CICLO FORMATIVO (GB, GM, GS)/CURSOS DE ESPECIALIZACIÓN DENOMINACIÓN Curso:
-DATOS DEL ALUMNO O ALUMNA Nombre y Apellidos MODALIDAD EN LA QUE PREFIERE PARTICIPAR Prefiero participar en Modalidad en régimen general. Prefiero participar en Modalidad en régimen intensivo. Indicar orden de preferencia en la asignación de centros para la formación u organismo equiparado, de los indicados por el tutor o tutora del centro educativo 1. 2.
-
-3. 4. 5. (Incluir compromisos con la empresa EJ: el alumno/alumna firmante se compromete a aceptar y cumplirlas condiciones propuestas por la empresa, solicita adaptación del puesto de trabajo) Fdo.: Tutor/a Dual centro de formación. Fdo.: Alumno o Alumna. INFORMACIÓN BÁSICA SOBRE PROTECCIÓN DE DATOS PERSONALES Tratamiento: GESTIÓN DE LAS PRÁCTICAS FORMATIV AS DEL ALUMNADO DE FORMACIÓN PROFESIONAL EN EMPRESAS U ORGANISMOS EQUIPARADOS Responsable del tratamiento: Viceconsejería de Formación Profesional y Cualificaciones Profesionales de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes Finalidad del tratamiento: La gestión de la formación en centros de trabajo y la formación Dual en empresas y organismos equiparados, así como, a la gestión de altas y cotizaciones en la Seguridad Social para todos los estudiantes que realicen prácticas formativas no remuneradas. Base jurídica del tratamiento: - Artículo 6.1.c) del RGPD: El tratamiento es necesario para el cumplimiento de una obligación legal aplicable al responsable del tratamiento.
+DATOS DEL ALUMNO O ALUMNA Nombre y Apellidos MODALIDAD EN LA QUE PREFIERE PARTICIPAR Prefiero participar en Modalidad en régimen general. Prefiero participar en Modalidad en régimen intensivo. Indicar orden de preferencia en la asignación de centros para la formación u organismo equiparado, de los indicados por el tutor o tutora del centro educativo 1. 2. 3. 4. 5. (Incluir compromisos con la empresa EJ: el alumno/alumna firmante se compromete a aceptar y cumplirlas condiciones propuestas por la empresa, solicita adaptación del puesto de trabajo) Fdo.: Tutor/a Dual centro de formación. Fdo.: Alumno o Alumna. INFORMACIÓN BÁSICA SOBRE PROTECCIÓN DE DATOS PERSONALES Tratamiento: GESTIÓN DE LAS PRÁCTICAS FORMATIV AS DEL ALUMNADO DE FORMACIÓN PROFESIONAL EN EMPRESAS U ORGANISMOS EQUIPARADOS Responsable del tratamiento: Viceconsejería de Formación Profesional y Cualificaciones Profesionales de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes Finalidad del tratamiento: La gestión de la formación en centros de trabajo y la formación Dual en empresas y organismos equiparados, así como, a la gestión de altas y cotizaciones en la Seguridad Social para todos los estudiantes que realicen prácticas formativas no remuneradas. Base jurídica del tratamiento: - Artículo 6.1.c) del RGPD: El tratamiento es necesario para el cumplimiento de una obligación legal aplicable al responsable del tratamiento.
 - Artículo 6.1.e) del RGPD: el tratamiento es necesario para el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos conferidos al responsable del tratamiento.
 - Artículo 9.2.b) del RGPD. Cesiones de datos: - A la Seguridad Social y a otras administraciones públicas competentes.
 - A la Consejería de Turismo y Empleo

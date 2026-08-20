@@ -1,7 +1,15 @@
 ---
 id: norm-can-res-boc-2026-132-101
 codigo_sintetizado: Resolucion BOC 101
-titulo: Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- Resolución de 24 de junio de 2026, por la que se corrige la Resolución de 13 de febrero de 2026, que dicta instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grados D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026/2027 (BOC n.º 39, de 26.2.2026).
+titulo: Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.-
+  Resolución de 24 de junio de 2026, por la que se corrige la Resolución de 13 de
+  febrero de 2026, que dicta instrucciones sobre el proceso de admisión del alumnado
+  a Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3,
+  respectivamente) de las Enseñanzas de Formación Profesional de Grados D, Enseñanzas
+  Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales
+  de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos
+  con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026/2027
+  (BOC n.º 39, de 26.2.2026).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,36 +21,36 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión y escolarización del alumnado
 tags:
-  - admisi-n-y-escolarizaci-n-del-alumnado
-  - admision-alumnado
-  - curriculo
-  - ensenanzas-artisticas
-  - ensenanzas-deportivas
-  - eoi
-  - equipos-directivos
-  - formacion-profesional
-  - procedimiento-administrativo
-  - profesorado
+- admisi-n-y-escolarizaci-n-del-alumnado
+- admision-alumnado
+- curriculo
+- ensenanzas-artisticas
+- ensenanzas-deportivas
+- eoi
+- equipos-directivos
+- formacion-profesional
+- procedimiento-administrativo
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-212-1991
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-res-boc-2026-039-102
-    - norma_id: norm-can-res-boc-2026-039-103
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-boc-2026-039-102
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-res-boc-2026-039-102
-    - norma_id: norm-can-res-boc-2026-039-103
-    - norma_id: norm-can-d-212-1991
+  - '1'
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-res-boc-2026-039-102
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-132-2304.pdf
 ---
 # Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- Resolución de 24 de junio de 2026, por la que se corrige la Resolución de 13 de febrero de 2026, que dicta instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grados D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026/2027 (BOC n.º 39, de 26.2.2026).

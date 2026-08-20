@@ -1,7 +1,8 @@
 ---
 id: norm-can-d-109-1999
 codigo_sintetizado: D109_1999 Colectivos de Escuelas Rurales (CER)
-titulo: Decreto 109/1999, de 25 de mayo, por el que se regula el régimen de creación y funcionamiento de los Colectivos de Escuelas Rurales.
+titulo: Decreto 109/1999, de 25 de mayo, por el que se regula el régimen de creación
+  y funcionamiento de los Colectivos de Escuelas Rurales.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Gobierno de Canarias / Consejería de Educación
@@ -19,39 +20,39 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Colectivos de Escuelas Rurales (CER)
 tags:
-  - admision-alumnado
-  - cer
-  - colectivos-de-escuelas-rurales-cer
-  - curriculo
-  - escuelas-rurales
-  - escuelas-unitarias
-  - evaluacion
-  - oposiciones
-  - organizacion-escolar
-  - personal-no-docente
-  - plantillas-docentes
+- admision-alumnado
+- cer
+- colectivos-de-escuelas-rurales-cer
+- curriculo
+- escuelas-rurales
+- escuelas-unitarias
+- evaluacion
+- oposiciones
+- organizacion-escolar
+- personal-no-docente
+- plantillas-docentes
 relaciones:
   desarrolla:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
   fundamentado_en:
-    - norma_id: norm-es-1984-17387
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-l-6-2014
   fundamento_de:
-    - norma_id: norm-can-res-090
-    - norma_id: norm-can-res-095
-    - norma_id: norm-can-res-boc-2020-257-24
-    - norma_id: norm-can-res-boc-2022-143-23
-    - norma_id: norm-can-res-boc-2024-125-91
-    - norma_id: norm-can-res-boc-2026-046-139
+  - norma_id: norm-can-res-090
+  - norma_id: norm-can-res-095
+  - norma_id: norm-can-res-boc-2020-257-24
+  - norma_id: norm-can-res-boc-2022-143-23
+  - norma_id: norm-can-res-boc-2024-125-91
+  - norma_id: norm-can-res-boc-2026-046-139
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - '82'
-    - norma_id: norm-es-1984-17387
+  - '82'
+  - norma_id: norm-es-1984-17387
 fuente_pdf_oficial: https://www.gobiernodecanarias.org/boc/1999/079/boc-1999-079-007.pdf
 anexos_extraidos_pdf: true
 ocr_procesado: true
@@ -137,9 +138,7 @@ g) Aquellas otras que se le asignen dentro del ámbito del Colectivo de Escuelas
 
 determinará un número de horas lectivas en función de la amplitud del Colectivo de Escuelas Rurales y del número de unidades que lo conformen.
 
-#### Artículo 11.
-
-1. El Coordinador del Colectivo de Escuelas Rurales.
+#### Artículo 11. 1. El Coordinador del Colectivo de Escuelas Rurales.
 
 contará con reconocimiento administrativo y económico similar al de un Director de colegio de educación infantil o primaria con igual número de unidades que el Colectivo de Escuelas Rurales.
 
@@ -178,9 +177,7 @@ a) El Equipo Pedagógico celebrará un mínimo de una reunión al mes en horario
 
 derecho a percibir las correspondientes dietas por desplazamientos desde los centros de destino hasta el lugar de las reuniones, así como por los desplazamientos originados por actividades docentes de carácter itinerante recogidas en el Proyecto Educativo de Zona, conforme lo establecido en la normativa vigente en esta materia.
 
-#### Artículo 18.
-
-1. En los Colectivos de Escuelas Rurales que por el.
+#### Artículo 18. 1. En los Colectivos de Escuelas Rurales que por el.
 
 número de miembros de su Equipo Pedagógico fuera posible, se formará una Comisión de Coordinación Pedagógica cuya composición se determinará oportunamente por la Consejería de Educación, Cultura y Deportes.
 

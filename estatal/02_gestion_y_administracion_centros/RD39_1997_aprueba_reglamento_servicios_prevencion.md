@@ -1,10 +1,12 @@
 ---
 id: norm-es-rd-39-1997
 codigo_sintetizado: RD39_1997 Reglamento de los Servicios de Prevencion
-titulo: Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención.
+titulo: Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento
+  de los Servicios de Prevención.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto
 numero_disposicion: 39/1997
 fecha_disposicion: '1997-01-17'
@@ -18,29 +20,29 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Prevención de riesgos y salud laboral
 tags:
-  - equipos-directivos
-  - evaluacion
-  - evaluacion-riesgos
-  - personal-no-docente
-  - planificacion-preventiva
-  - prevenci-n-de-riesgos-y-salud-laboral
-  - prevencion-riesgos-laborales
-  - servicios-prevencion
+- equipos-directivos
+- evaluacion
+- evaluacion-riesgos
+- personal-no-docente
+- planificacion-preventiva
+- prevenci-n-de-riesgos-y-salud-laboral
+- prevencion-riesgos-laborales
+- servicios-prevencion
 relaciones:
   desarrolla:
-    - norma_id: norm-es-l-31-1995
+  - norma_id: norm-es-l-31-1995
   fundamento_de:
-    - norma_id: norm-es-2010-10424
-    - norma_id: norm-es-2014-5591
-    - norma_id: norm-es-2020-17274
-    - norma_id: norm-can-o-2013-10-09
-    - norma_id: norm-can-res-boc-2024-226-44
-    - norma_id: norm-can-res-036
+  - norma_id: norm-es-2010-10424
+  - norma_id: norm-es-2014-5591
+  - norma_id: norm-es-2020-17274
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-can-res-036
   desarrollado_por: []
   fundamentos_derecho:
-    - norma_id: norm-es-l-31-1995
+  - norma_id: norm-es-l-31-1995
   articulos:
-    - '6'
+  - '6'
 ---
 # Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención.
 
@@ -169,9 +171,7 @@ d) En ausencia de los anteriores, guías de otras entidades de reconocido presti
 
 revisarse cuando así lo establezca una disposición específica. En todo caso, se deberá revisar la evaluación correspondiente a aquellos puestos de trabajo afectados cuando se hayan detectado daños a la salud de los trabajadores o se haya apreciado a través de los controles periódicos, incluidos los relativos a la vigilancia de la salud, que las actividades de prevención pueden ser inadecuadas o insuficientes. Para ello se tendrán en cuenta los resultados de:
 a) La investigación sobre las causas de los daños para la salud que se hayan producido.
-b) Las actividades para la reducción de los riesgos a que se hace referencia en el apartado 1.a) del artículo 3.
-c) Las actividades para el control de los riesgos a que se hace referencia en el apartado 1.b) del artículo 3.
-d) El análisis de la situación epidemiológica según los datos aportados por el sistema de información sanitaria u otras fuentes disponibles.
+b) Las actividades para la reducción de los riesgos a que se hace referencia en el apartado 1.a) del artículo 3. c) Las actividades para el control de los riesgos a que se hace referencia en el apartado 1.b) del artículo 3. d) El análisis de la situación epidemiológica según los datos aportados por el sistema de información sanitaria u otras fuentes disponibles.
 
 2. Sin perjuicio de lo señalado en el apartado anterior, deberá revisarse igualmente la evaluación inicial con la periodicidad que se acuerde entre la empresa y los representantes de los trabajadores, teniendo en cuenta, en particular, el deterioro por el transcurso del tiempo de los elementos que integran el proceso productivo.
 
@@ -180,10 +180,7 @@ d) El análisis de la situación epidemiológica según los datos aportados por 
 En la documentación a que hacen referencia los párrafos b) y c) del artículo 23.1 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, deberán reflejarse, para cada puesto de trabajo cuya evaluación ponga de manifiesto la necesidad de tomar alguna medida preventiva, los siguientes datos:
 a) La identificación del puesto de trabajo.
 b) El riesgo o riesgos existentes y la relación de trabajadores afectados.
-c) El resultado de la evaluación y las medidas preventivas procedentes, teniendo en cuenta lo establecido en el artículo 3.
-d) La referencia de los criterios y procedimientos de evaluación y de los métodos de medición, análisis o ensayo utilizados, en los casos en que sea de aplicación lo dispuesto en el apartado 3 del artículo 5.
-
-#### Sección 2. ª Planificación de la actividad preventiva artículo 8 Necesidad de la planificación. Cuando el resultado de la evaluación pusiera de manifiesto situaciones de riesgo, el
+c) El resultado de la evaluación y las medidas preventivas procedentes, teniendo en cuenta lo establecido en el artículo 3. d) La referencia de los criterios y procedimientos de evaluación y de los métodos de medición, análisis o ensayo utilizados, en los casos en que sea de aplicación lo dispuesto en el apartado 3 del artículo 5. #### Sección 2. ª Planificación de la actividad preventiva artículo 8 Necesidad de la planificación. Cuando el resultado de la evaluación pusiera de manifiesto situaciones de riesgo, el
 
 empresario planificará la actividad preventiva que proceda con objeto de eliminar o controlar y reducir dichos riesgos, conforme a un orden de prioridades en función de su magnitud y número de trabajadores expuestos a los mismos. En la planificación de esta actividad preventiva se tendrá en cuenta la existencia, en su caso, de disposiciones legales relativas a riesgos específicos, así como los principios de acción preventiva señalados en el artículo 15 de la Ley de Prevención de Riesgos Laborales.
 
@@ -275,8 +272,7 @@ disposición.
 1. Podrán actuar como servicios de prevención ajenos las entidades especializadas que reúnan los siguientes requisitos:
 a) Disponer de la organización, las instalaciones, el personal y los equipos necesarios para el desempeño de su actividad.
 b) Constituir una garantía que cubra su eventual responsabilidad.
-c) No mantener con las empresas concertadas vinculaciones comerciales, financieras o de cualquier otro tipo, distintas a las propias de su actuación como servicio de prevención, que puedan afectar a su independencia e influir en el resultado de sus actividades, sin perjuicio de lo dispuesto en el artículo 22.
-d) Asumir directamente el desarrollo de las funciones señaladas en el artículo 31.3 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, que hubieran concertado.
+c) No mantener con las empresas concertadas vinculaciones comerciales, financieras o de cualquier otro tipo, distintas a las propias de su actuación como servicio de prevención, que puedan afectar a su independencia e influir en el resultado de sus actividades, sin perjuicio de lo dispuesto en el artículo 22. d) Asumir directamente el desarrollo de las funciones señaladas en el artículo 31.3 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, que hubieran concertado.
 
 2. Para actuar como servicio de prevención ajeno, las entidades especializadas deberán ser objeto de acreditación por la administración laboral, previa aprobación de la administración sanitaria, en cuanto a los aspectos de carácter sanitario. La acreditación se dirigirá a garantizar el cumplimiento de los requisitos de funcionamiento mencionados en el apartado anterior.
 
@@ -299,9 +295,7 @@ c) Disponer para el desarrollo de las actividades concertadas de las instalacion
 
 2. Las entidades asumirán directamente el desarrollo de aquéllas funciones señaladas en el artículo 31.3 de la Ley 31/1995, de 8 de noviembre, que hubieran concertado y contribuirán a la efectividad de la integración de las actividades de prevención en el conjunto de actividades de la empresa y en todos los niveles jerárquicos de la misma, sin perjuicio de que puedan:
 a) Subcontratar los servicios de otros profesionales o entidades cuando sea necesario para la realización de actividades que requieran conocimientos especiales o instalaciones de gran complejidad.
-b) Disponer mediante arrendamiento o negocio similar de instalaciones y medios materiales que estimen necesarios para prestar el servicio en condiciones y con un tiempo de respuesta adecuado, sin perjuicio de la obligación de contar con carácter permanente con los recursos instrumentales mínimos a que se refiere el artículo 18.
-
-#### Artículo 20. Concierto de la actividad preventiva.
+b) Disponer mediante arrendamiento o negocio similar de instalaciones y medios materiales que estimen necesarios para prestar el servicio en condiciones y con un tiempo de respuesta adecuado, sin perjuicio de la obligación de contar con carácter permanente con los recursos instrumentales mínimos a que se refiere el artículo 18. #### Artículo 20. Concierto de la actividad preventiva.
 
 1. Cuando el empresario no cuente con suficientes recursos propios para el desarrollo de la actividad preventiva y deba desarrollarla a través de uno o varios servicios de prevención ajenos a la empresa, deberá concertar por escrito la prestación. Dicho concierto consignará, como mínimo, los siguientes aspectos:
 a) Identificación de la entidad especializada que actúa como servicio de prevención ajeno a la empresa.
@@ -403,9 +397,7 @@ g) Los contratos o acuerdos a establecer, en su caso, con otras entidades para l
 
 5. La autoridad laboral, a la vista de la decisión de la autoridad sanitaria y de los informes emitidos, dictará y notificará la resolución en el plazo de tres meses, contados desde la entrada de la solicitud en el registro del órgano administrativo competente para resolver, acreditando a la entidad o denegando la solicitud formulada. Dicho plazo se ampliará a seis meses en el supuesto previsto en el apartado 3. Transcurrido dicho plazo sin que se haya notificado resolución expresa, la solicitud podrá entenderse desestimada por silencio administrativo, de conformidad con el artículo 31.6 de la Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales.
 
-6. Procederá dictar resolución estimatoria por parte de la autoridad laboral competente cuando se compruebe el cumplimiento de todos los extremos señalados en el artículo 23. La resolución estimatoria se inscribirá en el Registro al que se refiere el artículo 28.
-
-7. Contra la resolución expresa o presunta de la autoridad laboral podrá interponerse recurso de alzada en el plazo de un mes ante el órgano superior jerárquico correspondiente.
+6. Procederá dictar resolución estimatoria por parte de la autoridad laboral competente cuando se compruebe el cumplimiento de todos los extremos señalados en el artículo 23. La resolución estimatoria se inscribirá en el Registro al que se refiere el artículo 28. 7. Contra la resolución expresa o presunta de la autoridad laboral podrá interponerse recurso de alzada en el plazo de un mes ante el órgano superior jerárquico correspondiente.
 
 #### Artículo 26. Mantenimiento de los requisitos de funcionamiento.
 
@@ -413,9 +405,7 @@ g) Los contratos o acuerdos a establecer, en su caso, con otras entidades para l
 
 2. Las autoridades laboral y sanitaria podrán verificar, en el ámbito de sus competencias, el cumplimiento de los requisitos exigibles para el desarrollo de las actividades del servicio, comunicando a la autoridad laboral que concedió la acreditación las deficiencias detectadas con motivo de tales verificaciones.
 
-3. Si como resultado de las comprobaciones efectuadas, bien directamente o a través de las comunicaciones señaladas en el apartado anterior, la autoridad laboral que concedió la acreditación comprobara el incumplimiento de los requisitos a que se refiere el apartado anterior, podrá suspender y, en su caso, revocar la acreditación otorgada conforme al procedimiento que se establece en el artículo 27.
-
-4. Asimismo, la acreditación podrá ser revocada por la autoridad laboral competente, como consecuencia de sanción por infracción grave o muy grave de las entidades especializadas que actúen como servicios de prevención ajenos, de acuerdo con el artículo 40.2 del texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto. En este caso, el procedimiento de revocación se iniciará sólo en virtud de la resolución administrativa firme que aprecie la existencia de infracción grave o muy grave.
+3. Si como resultado de las comprobaciones efectuadas, bien directamente o a través de las comunicaciones señaladas en el apartado anterior, la autoridad laboral que concedió la acreditación comprobara el incumplimiento de los requisitos a que se refiere el apartado anterior, podrá suspender y, en su caso, revocar la acreditación otorgada conforme al procedimiento que se establece en el artículo 27. 4. Asimismo, la acreditación podrá ser revocada por la autoridad laboral competente, como consecuencia de sanción por infracción grave o muy grave de las entidades especializadas que actúen como servicios de prevención ajenos, de acuerdo con el artículo 40.2 del texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto. En este caso, el procedimiento de revocación se iniciará sólo en virtud de la resolución administrativa firme que aprecie la existencia de infracción grave o muy grave.
 
 #### Artículo 27. Revocación de la acreditación.
 
@@ -457,9 +447,7 @@ a) Los ciudadanos puedan consultar las entidades especializadas acreditadas como
 b) Las entidades especializadas puedan cumplir sus obligaciones de comunicación de datos relativos al cumplimiento de los requisitos de funcionamiento con las autoridades laborales competentes.
 c) Las autoridades laborales, las autoridades sanitarias, la Inspección de Trabajo y Seguridad Social, el Instituto Nacional de Seguridad e Higiene en el Trabajo así como los órganos técnicos territoriales en materia de seguridad y salud en el trabajo puedan tener acceso a toda la información disponible sobre las entidades especializadas acreditadas como servicios de prevención ajenos o entidades auditoras, al margen de la autoridad que haya expedido la acreditación.
 
-3. Los datos que obren en los Registros de las autoridades competentes, incluyendo las comunicaciones de datos relativos al cumplimiento de los requisitos de funcionamiento a que se refiere el artículo 26, se incorporarán a una base de datos general cuya gestión corresponderá a la Dirección General de Empleo del Ministerio de Empleo y Seguridad Social. La configuración de esta base de datos deberá permitir a las comunidades autónomas que sus respectivos registros cumplan las funciones que se les atribuyen en el apartado 2.
-
-4. Los órganos a los que se refiere el apartado 1 enviarán a la Dirección General de Empleo del Ministerio de Empleo y Seguridad Social, en el plazo de ocho días hábiles, copia de todo asiento practicado en sus respectivos registros. Las autoridades competentes que asuman como registro la aplicación informática de la base de datos general a que se refiere el apartado 3, cumplirán dicha obligación de comunicación con la sola incorporación de los datos a la referida aplicación informática.
+3. Los datos que obren en los Registros de las autoridades competentes, incluyendo las comunicaciones de datos relativos al cumplimiento de los requisitos de funcionamiento a que se refiere el artículo 26, se incorporarán a una base de datos general cuya gestión corresponderá a la Dirección General de Empleo del Ministerio de Empleo y Seguridad Social. La configuración de esta base de datos deberá permitir a las comunidades autónomas que sus respectivos registros cumplan las funciones que se les atribuyen en el apartado 2. 4. Los órganos a los que se refiere el apartado 1 enviarán a la Dirección General de Empleo del Ministerio de Empleo y Seguridad Social, en el plazo de ocho días hábiles, copia de todo asiento practicado en sus respectivos registros. Las autoridades competentes que asuman como registro la aplicación informática de la base de datos general a que se refiere el apartado 3, cumplirán dicha obligación de comunicación con la sola incorporación de los datos a la referida aplicación informática.
 
 5. Las relaciones entre las autoridades laborales se regirán por el principio de cooperación y por lo establecido en el artículo 4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
@@ -477,9 +465,7 @@ c) Las autoridades laborales, las autoridades sanitarias, la Inspección de Trab
 
 4. Teniendo en cuenta la notificación prevista en el apartado anterior, la documentación establecida en el artículo 7 y la.
 
-situación individualizada de la empresa, a la vista de los datos de siniestralidad de la empresa o del sector, de informaciones o de otras circunstancias que pongan de manifiesto la peligrosidad de las actividades desarrolladas o la inadecuación del sistema de prevención, la autoridad laboral, previo informe de la Inspección de Trabajo y Seguridad Social y, en su caso, de los órganos técnicos en materia preventiva de las Comunidades Autónomas, podrá requerir la realización de una auditoría a las empresas referidas en el citado apartado, de conformidad con lo dispuesto en el apartado 2.
-
-#### Artículo 30. Concepto, contenido, metodología y plazo.
+situación individualizada de la empresa, a la vista de los datos de siniestralidad de la empresa o del sector, de informaciones o de otras circunstancias que pongan de manifiesto la peligrosidad de las actividades desarrolladas o la inadecuación del sistema de prevención, la autoridad laboral, previo informe de la Inspección de Trabajo y Seguridad Social y, en su caso, de los órganos técnicos en materia preventiva de las Comunidades Autónomas, podrá requerir la realización de una auditoría a las empresas referidas en el citado apartado, de conformidad con lo dispuesto en el apartado 2. #### Artículo 30. Concepto, contenido, metodología y plazo.
 
 1. La auditoría es un instrumento de gestión que persigue reflejar la imagen fiel del sistema de prevención de riesgos laborales de la empresa, valorando su eficacia y detectando las deficiencias que puedan dar lugar a incumplimientos de la normativa vigente para permitir la adopción de decisiones dirigidas a su perfeccionamiento y mejora.
 
@@ -537,9 +523,7 @@ b) El contrato para realizar la auditoría del sistema de prevención de un empr
 
 #### Artículo 33. Autorización.
 
-1. Las personas o entidades especializadas que pretendan desarrollar la actividad de auditoría del sistema de prevención habrán de contar con la autorización de la autoridad laboral competente del lugar donde radiquen sus instalaciones principales, previa solicitud ante la misma, en la que se harán constar las previsiones señaladas en los párrafos a), c), d), e) y g) del artículo 23.
-
-2. La autoridad laboral, previos los informes que estime oportunos, dictará resolución autorizando o denegando la solicitud formulada en el plazo de tres meses, contados desde la entrada de la solicitud en el Registro del órgano administrativo competente. Transcurrido dicho plazo sin que haya recaído resolución expresa, la solicitud podrá entenderse desestimada.
+1. Las personas o entidades especializadas que pretendan desarrollar la actividad de auditoría del sistema de prevención habrán de contar con la autorización de la autoridad laboral competente del lugar donde radiquen sus instalaciones principales, previa solicitud ante la misma, en la que se harán constar las previsiones señaladas en los párrafos a), c), d), e) y g) del artículo 23. 2. La autoridad laboral, previos los informes que estime oportunos, dictará resolución autorizando o denegando la solicitud formulada en el plazo de tres meses, contados desde la entrada de la solicitud en el Registro del órgano administrativo competente. Transcurrido dicho plazo sin que haya recaído resolución expresa, la solicitud podrá entenderse desestimada.
 
 3. Será de aplicación a la autorización lo previsto para la acreditación en los artículos 24 y 25 así como lo dispuesto en el artículo 26 en.
 
@@ -686,9 +670,7 @@ c) Contar con una titulación universitaria de primer o segundo ciclo para el ca
 a) Por medio de la valoración de la documentación acreditativa de la titulación, que en su caso se posea, y de la correspondiente a los programas formativos de aquellos cursos recibidos que, dentro de los límites señalados en el apartado anterior, deberán incluir los contenidos sustanciales de los anexos V o VI de este Real Decreto, según el caso. Esta documentación será presentada por el solicitante, haciendo constar que éste los ha superado con suficiencia en entidades formativas con una solvencia y prestigio reconocidos en su ámbito.
 b) Mediante la valoración y verificación de la experiencia, que deberá ser acorde con las funciones propias de cada nivel y, además, con la especialidad a acreditar en el caso del nivel superior, con inclusión de los cursos impartidos en su caso, acreditada por entidades o empresas donde haya prestado sus servicios; y
 c) A través de la verificación de que se poseen los conocimientos necesarios en los aspectos no suficientemente demostrados en aplicación de lo dispuesto en los párrafos a) y
-b) Anteriores, que completan lo exigido en los anexos V o VI de este Real Decreto, mediante la superación de las pruebas teórico-prácticas necesarias para determinar las capacidades y aptitudes exigidas para el desarrollo de las funciones recogidas en los artícu los 36 ó 37.
-
-#### Disposición adicional sexta. Reconocimientos médicos previos al embarque de los.
+b) Anteriores, que completan lo exigido en los anexos V o VI de este Real Decreto, mediante la superación de las pruebas teórico-prácticas necesarias para determinar las capacidades y aptitudes exigidas para el desarrollo de las funciones recogidas en los artícu los 36 ó 37. #### Disposición adicional sexta. Reconocimientos médicos previos al embarque de los.
 
 trabajadores del mar. En el sector marítimo-pesquero seguirá en vigor lo establecido, en materia de formación, información, educación y práctica de los reconocimientos médicos previos al embarque, en el Real Decreto 1414/1981, de 3 de julio, por el que se reestructura el Instituto Social de la Marina.
 
@@ -706,9 +688,7 @@ administrativos. En materia de procedimientos administrativos, en todo lo no pre
 
 #### Disposición adicional décima. Presencia de recursos preventivos en las obras de.
 
-construcción. En el ámbito de aplicación del Real Decreto 1627/1997, de 24 de octubre, por el que se establecen las disposiciones mínimas de seguridad y salud en las obras de construcción, la presencia en el centro de trabajo de los recursos preventivos de cada contratista prevista en la disposición adicional decimocuarta de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales se aplicará en los términos establecidos en la disposición adicional única del citado Real Decreto 1627/1997.
-
-#### Disposición adicional undécima. Actividades peligrosas a efectos de coordinación de.
+construcción. En el ámbito de aplicación del Real Decreto 1627/1997, de 24 de octubre, por el que se establecen las disposiciones mínimas de seguridad y salud en las obras de construcción, la presencia en el centro de trabajo de los recursos preventivos de cada contratista prevista en la disposición adicional decimocuarta de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales se aplicará en los términos establecidos en la disposición adicional única del citado Real Decreto 1627/1997. #### Disposición adicional undécima. Actividades peligrosas a efectos de coordinación de.
 
 actividades empresariales. A efectos de lo previsto en el artículo 13.1.a) del Real Decreto 171/2004, de 30 de enero, por el que se desarrolla el artículo 24 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, en materia de coordinación de actividades empresariales, se consideran actividades o procesos peligrosos o con riesgos especiales los incluidos en el
 
@@ -815,8 +795,7 @@ e) Planes de emergencia y evacuación.
 f) **El control de la salud de los trabajadores.** Total horas: 25. III. Riesgos específicos y su prevención en el sector correspondiente a la actividad de la empresa. Total horas: 5. IV. Elementos básicos de gestión de la prevención de riesgos.
 a) Organismos públicos relacionados con la seguridad y salud en el trabajo.
 b) **Organización del trabajo preventivo.** «rutinas» básicas.
-c) **Documentación: recogida, elaboración y archivo.** Total horas: 5. V. Primeros auxilios. Total horas: 5.
-B) Contenido mínimo del programa de formación, para el desempeño de las funciones de nivel básico I. Conceptos básicos sobre seguridad y salud en el trabajo.
+c) **Documentación: recogida, elaboración y archivo.** Total horas: 5. V. Primeros auxilios. Total horas: 5. B) Contenido mínimo del programa de formación, para el desempeño de las funciones de nivel básico I. Conceptos básicos sobre seguridad y salud en el trabajo.
 a) **El trabajo y la salud: los riesgos profesionales.** Factores de riesgo.
 b) **Daños derivados del trabajo.** Los accidentes de trabajo y las enfermedades profesionales. Otras patologías derivadas del trabajo.
 c) **Marco normativo básico en materia de prevención de riesgos laborales.** Derechos y deberes básicos en esta materia. Total horas: 7. II. Riesgos generales y su prevención.
@@ -828,9 +807,7 @@ e) Planes de emergencia y evacuación.
 f) **El control de la salud de los trabajadores.** Total horas: 12. III. Riesgos específicos y su prevención en el sector correspondiente a la actividad de la empresa. Total horas: 5. IV. Elementos básicos de gestión de la prevención de riesgos.
 a) Organismos públicos relacionados con la seguridad y salud en el trabajo.
 b) **Organización del trabajo preventivo.** «rutinas» básicas.
-c) **Documentación: recogida, elaboración y archivo.** Total horas: 4. V. Primeros auxilios. Total horas: 2.
-
-## Anexo V
+c) **Documentación: recogida, elaboración y archivo.** Total horas: 4. V. Primeros auxilios. Total horas: 2. ## Anexo V
 
 Contenido mínimo del programa de formación, para el desempeño de las funciones de nivel intermedio I. Conceptos básicos sobre seguridad y salud en el trabajo.
 a) **El trabajo y la salud.** Los riesgos profesionales.

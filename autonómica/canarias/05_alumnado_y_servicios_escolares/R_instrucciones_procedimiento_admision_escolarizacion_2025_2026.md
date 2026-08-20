@@ -1,10 +1,12 @@
 ---
 id: norm-can-r-admision-alumnado-2025-2026
 codigo_sintetizado: R_Instrucciones Admision Alumnado 2025-2026 Canarias
-titulo: Resolución por la que se aprueban las instrucciones relativas al procedimiento de admisión y matriculación del alumnado para el curso escolar 2025-2026.
+titulo: Resolución por la que se aprueban las instrucciones relativas al procedimiento
+  de admisión y matriculación del alumnado para el curso escolar 2025-2026.
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Formación Profesional, Actividad Física y Deportes del Gobierno de Canarias
+organo_emisor: Consejería de Educación, Formación Profesional, Actividad Física y
+  Deportes del Gobierno de Canarias
 tipo_disposicion: Resolución
 numero_disposicion: Admisión 2025-2026
 fecha_disposicion: '2025-02-12'
@@ -18,22 +20,20 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión de alumnado
 tags:
-  - admision
-  - escolarizacion
-  - matriculacion
-  - curso_2025_2026
-  - canarias
+- admision
+- escolarizacion
+- matriculacion
+- curso_2025_2026
+- canarias
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
-# Resolución por la que se aprueban las instrucciones relativas al procedimiento de admisión y matriculación del alumnado para el curso escolar 2025-2026.
-
-## Preámbulo
+# Resolución por la que se aprueban las instrucciones relativas al procedimiento de admisión y matriculación del alumnado para el curso escolar 2025-2026. ## Preámbulo
 
 Oposiciones y concursos Consejería de Política Territorial, Cohesión Territorial y Aguas Secretaría General Técnica.- Resolución de 6 de febrero de 2025, por la que se convoca, por el procedimiento de libre designación, la provisión del puesto de trabajo n.º 10210410, denominado Jefe/a de Servicio de Asuntos Económicos, adscrito al Servicio de Asuntos Económicos de la Agencia Canaria de Protección del Medio Natural. ANTECEDENTES
 Primero.- El puesto n.º 10210410, Jefe/a de Servicio de Asuntos Económicos, adscrito al Servicio de Asuntos Económicos de la Agencia Canaria de Protección del Medio Natural, con localización territorial en Las Palmas de Gran Canaria, que figura en el Decreto 189/2006, de 19 de diciembre (BOC n.º 1, de 2.1.2007), por el que se aprueba la relación de puestos de trabajo de este organismo público adscrito a esta Consejería, modificada mediante Decreto 425/2023, de 11 de diciembre (BOC n.º 247, de 19.12.2023), tiene como forma de provisión la libre designación.

@@ -1,6 +1,8 @@
 ---
 id: norm-mad-d15-2016
-titulo: Decreto 15/2016, de 23 de febrero, del Consejo de Gobierno, por el que se aprueba el Reglamento marco de organización y funcionamiento de los centros públicos de Educación Infantil de la Comunidad de Madrid
+titulo: Decreto 15/2016, de 23 de febrero, del Consejo de Gobierno, por el que se
+  aprueba el Reglamento marco de organización y funcionamiento de los centros públicos
+  de Educación Infantil de la Comunidad de Madrid
 jurisdiccion: Madrid
 ambito: Autonómico
 organo_emisor: Consejería de Educación, Juventud y Deporte de la Comunidad de Madrid
@@ -18,21 +20,21 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Reglamentos orgánicos de centro
 tags:
-  - educacion_infantil
-  - escuelas_infantiles
-  - organizacion_centros
-  - comunidad_de_madrid
+- educacion_infantil
+- escuelas_infantiles
+- organizacion_centros
+- comunidad_de_madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
 ---
 # Decreto 15/2016, de 23 de febrero, del Consejo de Gobierno, por el que se aprueba el Reglamento marco de organización y funcionamiento de los centros públicos de Educación Infantil de la Comunidad de Madrid
 

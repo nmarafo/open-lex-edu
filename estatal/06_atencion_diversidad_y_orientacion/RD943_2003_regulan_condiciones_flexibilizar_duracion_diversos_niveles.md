@@ -1,10 +1,13 @@
 ---
 id: norm-es-rd-943-2003
 codigo_sintetizado: RD943_2003 Flexibilizacion para Alumnado con Altas Capacidades
-titulo: Real Decreto 943/2003, de 18 de julio, por el que se regulan las condiciones para flexibilizar la duración de los diversos niveles y etapas del sistema educativo para los alumnos superdotados intelectualmente.
+titulo: Real Decreto 943/2003, de 18 de julio, por el que se regulan las condiciones
+  para flexibilizar la duración de los diversos niveles y etapas del sistema educativo
+  para los alumnos superdotados intelectualmente.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto
 numero_disposicion: 943/2003
 fecha_disposicion: '2003-07-18'
@@ -18,31 +21,27 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Alumnado con altas capacidades
 tags:
-  - admision-alumnado
-  - altas-capacidades
-  - alumnado-con-altas-capacidades
-  - autonomia-centro
-  - flexibilizacion-escolar
-  - igualdad-genero
-  - medidas-curriculares
-  - neae
-  - profesorado
-  - superdotacion
+- admision-alumnado
+- altas-capacidades
+- alumnado-con-altas-capacidades
+- autonomia-centro
+- flexibilizacion-escolar
+- igualdad-genero
+- medidas-curriculares
+- neae
+- profesorado
+- superdotacion
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-8-1985
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - '76'
-    - '77'
-    - norma_id: norm-es-ce-1978
-  articulos:
-    - '27'
-    - norma_id: norm-es-lo-8-1985
+  - '27'
+  - norma_id: norm-es-lo-8-1985
 ---
 # Real Decreto 943/2003, de 18 de julio, por el que se regulan las condiciones para flexibilizar la duración de los diversos niveles y etapas del sistema educativo para los alumnos superdotados intelectualmente.
 
@@ -132,9 +131,7 @@ Corresponde a las Administraciones educativas, en el ámbito de sus competencias
 
 #### Disposición final tercera. Entrada en vigor.
 
-Dado en Palma de Mallorca, a 18 de julio de 2003.
-
-JUAN CARLOS R.
+Dado en Palma de Mallorca, a 18 de julio de 2003. JUAN CARLOS R.
 
 La Ministra de Educación, Cultura y Deporte,
 

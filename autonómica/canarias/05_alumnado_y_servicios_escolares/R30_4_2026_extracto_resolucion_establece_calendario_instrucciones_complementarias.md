@@ -1,7 +1,11 @@
 ---
 id: norm-can-res-118
 codigo_sintetizado: Resolucion BOC 118
-titulo: Extracto de la Resolución de 30 de abril de 2026, por la que se establece el calendario, las instrucciones complementarias del procedimiento de admisión del alumnado comensal y los criterios de concesión de las subvenciones, y por la que se autoriza la oferta de plazas de comensales en los centros docentes públicos no universitarios para el curso escolar 2026-2027.
+titulo: Extracto de la Resolución de 30 de abril de 2026, por la que se establece
+  el calendario, las instrucciones complementarias del procedimiento de admisión del
+  alumnado comensal y los criterios de concesión de las subvenciones, y por la que
+  se autoriza la oferta de plazas de comensales en los centros docentes públicos no
+  universitarios para el curso escolar 2026-2027.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General competente de la Consejería de Educación de Canarias
@@ -13,32 +17,30 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Comedores y desayunos escolares
 tags:
-  - admision-alumnado
-  - becas-y-ayudas
-  - comedor-escolar
-  - comedores-y-desayunos-escolares
-  - consejo-escolar
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - formacion-profesional
-  - profesorado
-  - servicios-complementarios
+- admision-alumnado
+- becas-y-ayudas
+- comedor-escolar
+- comedores-y-desayunos-escolares
+- consejo-escolar
+- ensenanzas-deportivas
+- equipos-directivos
+- formacion-profesional
+- profesorado
+- servicios-complementarios
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
+  - '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-100-1759.pdf
 ---
-# Extracto de la Resolución de 30 de abril de 2026, por la que se establece el calendario, las instrucciones complementarias del procedimiento de admisión del alumnado comensal y los criterios de concesión de las subvenciones, y por la que se autoriza la oferta de plazas de comensales en los centros docentes públicos no universitarios para el curso escolar 2026-2027.
-
-## Preámbulo
+# Extracto de la Resolución de 30 de abril de 2026, por la que se establece el calendario, las instrucciones complementarias del procedimiento de admisión del alumnado comensal y los criterios de concesión de las subvenciones, y por la que se autoriza la oferta de plazas de comensales en los centros docentes públicos no universitarios para el curso escolar 2026-2027. ## Preámbulo
 
 V . Anuncios Otros anuncios Consejería de Educación, Formación Profesional, Actividad Física y Deportes Complementarios.- Extracto de la Resolución de 30 de abril de 2026, por la que se establece el calendario, las instrucciones complementarias del procedimiento de admisión del alumnado comensal y los criterios de concesión de las subvenciones, y por la que se autoriza la oferta de plazas de comensales en los centros docentes públicos no universitarios para el curso escolar 2026-2027. BDNS (Identif.): 904251. De conformidad con lo previsto en los artículos 17.3.b) y 20.8.a) de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, se publica el extracto de la convocatoria cuyo texto completo puede consultarse en la Base de Datos Nacional de Subvenciones (https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/904251).
 Primero.- Alumnado destinatario del servicio de comedor escolar El servicio de comedor escolar está destinado al alumnado matriculado en el centro donde se preste este servicio. El alumnado de otro centro podrá ser destinatario del servicio, cuando queden plazas vacantes respecto de las ofertadas al alumnado del propio centro y el Consejo Escolar así lo haya aprobado. El alumnado procedente de otro centro educativo que hubiera obtenido plaza, será considerado a todos los efectos comensal del mismo, con todos sus derechos y deberes. No obstante, en estos supuestos y con carácter general, el desplazamiento de dicho alumnado correrá por cuenta y bajo la responsabilidad de sus representantes legales. Estos comensales no tendrán la condición de alumnos transportados en ningún caso.
@@ -49,9 +51,7 @@ Primero.- Alumnado destinatario del servicio de comedor escolar El servicio de c
 
 #### Tercero. Bases reguladoras.
 
-Orden de la Consejería de Educación, Universidades, Cultura y Deportes de 24 de abril de 2009, por la que se establece el procedimiento de obtención de plazas y se aprueban las bases de la concesión de subvenciones de los comedores escolares en los centros públicos docentes no universitarios dependientes de esta Consejería, modificada por la Orden de 28 de marzo de 2014.
-
-#### Cuarto. Cuantía.
+Orden de la Consejería de Educación, Universidades, Cultura y Deportes de 24 de abril de 2009, por la que se establece el procedimiento de obtención de plazas y se aprueban las bases de la concesión de subvenciones de los comedores escolares en los centros públicos docentes no universitarios dependientes de esta Consejería, modificada por la Orden de 28 de marzo de 2014. #### Cuarto. Cuantía.
 
 La cuantía de la concesión de la subvención viene determinada en la instrucción
 

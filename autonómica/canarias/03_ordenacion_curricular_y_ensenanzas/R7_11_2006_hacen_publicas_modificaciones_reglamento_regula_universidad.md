@@ -1,7 +1,9 @@
 ---
 id: norm-can-res-juriscan-55445-83
 codigo_sintetizado: Resolucion BOC 83
-titulo: Resolución de 7 de noviembre de 2006, por la que se hacen públicas las modificaciones al Reglamento que regula en la Universidad de Las Palmas de Gran Canaria el Acceso para mayores de 25 años (BOC n.º 226, de 21 de noviembre).
+titulo: Resolución de 7 de noviembre de 2006, por la que se hacen públicas las modificaciones
+  al Reglamento que regula en la Universidad de Las Palmas de Gran Canaria el Acceso
+  para mayores de 25 años (BOC n.º 226, de 21 de noviembre).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General competente de la Consejería de Educación de Canarias
@@ -13,23 +15,23 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación de Personas Adultas
 tags:
-  - educaci-n-de-personas-adultas
-  - educacion-personas-adultas
-  - ensenanzas-deportivas
-  - ensenanzas-universitarias
-  - equipos-directivos
-  - oposiciones
+- educaci-n-de-personas-adultas
+- educacion-personas-adultas
+- ensenanzas-deportivas
+- ensenanzas-universitarias
+- equipos-directivos
+- oposiciones
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
+  - '1'
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/2006/226/boc-2006-226-029.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=55445
 ---
@@ -92,9 +94,7 @@ Se puede acceder desde cualquier opción, a las siguientes titulaciones:
 
 a) **Organismo.** Instituto Canario de la Vivienda.
 b) **Dependencia que tramita el expediente.** Servicio de Promoción Pública del Instituto Canario de la Vivienda.
-c) **Número de expediente.** TF-050/PP/05.
-
-### 2. Objeto del contrato
+c) **Número de expediente.** TF-050/PP/05. ### 2. Objeto del contrato
 
 a) **Descripción del objeto.** Construcción de 9 viviendas protegidas de promoción pública en Montaña Miraflores, término municipal de Puntagorda, La Palma.
 b) **Lugar de ejecución.** Puntagorda (La Palma).

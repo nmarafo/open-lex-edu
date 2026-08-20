@@ -1,10 +1,12 @@
 ---
 id: norm-mad-o-2882-2019
 codigo_sintetizado: O2882_2019 Servicio Transporte Escolar Centros Publicos Madrid
-titulo: Orden 2882/2019, de 19 de septiembre, por la que se regula la prestación del servicio de transporte escolar en la Comunidad de Madrid.
+titulo: Orden 2882/2019, de 19 de septiembre, por la que se regula la prestación del
+  servicio de transporte escolar en la Comunidad de Madrid.
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
 numero_disposicion: 2882/2019
 fecha_disposicion: '2019-09-19'
@@ -18,17 +20,17 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Servicios escolares
 tags:
-  - transporte_escolar
-  - rutas_escolares
-  - servicios_complementarios
-  - madrid
+- transporte_escolar
+- rutas_escolares
+- servicios_complementarios
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-mad-d-29-2013
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Orden 2882/2019, de 19 de septiembre, por la que se regula la prestación del servicio de transporte escolar en la Comunidad de Madrid.
 

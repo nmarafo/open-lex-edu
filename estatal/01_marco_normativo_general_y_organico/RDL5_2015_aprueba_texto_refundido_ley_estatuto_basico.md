@@ -1,10 +1,12 @@
 ---
 id: norm-es-rdl-5-2015
 codigo_sintetizado: RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)
-titulo: Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.
+titulo: Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el
+  texto refundido de la Ley del Estatuto Básico del Empleado Público.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto Legislativo
 numero_disposicion: 5/2015
 fecha_disposicion: '2015-10-30'
@@ -18,133 +20,133 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Empleados públicos
 tags:
-  - ebep
-  - empleado-publico
-  - empleados-p-blicos
-  - fp-basica
-  - funcion-publica
-  - oposiciones
-  - procedimiento-administrativo
-  - trebep
+- ebep
+- empleado-publico
+- empleados-p-blicos
+- fp-basica
+- funcion-publica
+- oposiciones
+- procedimiento-administrativo
+- trebep
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-1984-17387
-    - norma_id: norm-es-1985-5392
-    - norma_id: norm-es-2012-9364
-    - norma_id: norm-es-2013-12632
-    - norma_id: norm-es-2015-8470
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-l-53-1984
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-1985-5392
+  - norma_id: norm-es-2012-9364
+  - norma_id: norm-es-2013-12632
+  - norma_id: norm-es-2015-8470
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-l-53-1984
   fundamento_de:
-    - norma_id: norm-es-1979-29491
-    - norma_id: norm-es-1985-7820
-    - norma_id: norm-es-1993-23257
-    - norma_id: norm-es-1995-22212
-    - norma_id: norm-es-1996-3102
-    - norma_id: norm-es-1998-10720
-    - norma_id: norm-es-2010-10424
-    - norma_id: norm-es-2012-9364
-    - norma_id: norm-es-2014-7684
-    - norma_id: norm-es-2015-6839
-    - norma_id: norm-es-2015-8470
-    - norma_id: norm-es-2015-9453
-    - norma_id: norm-es-2022-16194
-    - norma_id: norm-es-2024-11613
-    - norma_id: norm-es-2026-2622
-    - norma_id: norm-es-l-9-2017
-    - norma_id: norm-es-lo-10-2022
-    - norma_id: norm-es-lo-3-2018
-    - norma_id: norm-es-rd-1364-2010
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-can-o-2023-09-28
-    - norma_id: norm-can-res-boc-2020-130-131
-    - norma_id: norm-can-d-82-1994
-    - norma_id: norm-can-res-boc-1994-083-144
-    - norma_id: norm-can-res-juriscan-64565-138
-    - norma_id: norm-can-res-boc-2022-158-132
-    - norma_id: norm-can-convenio-3-laboral
-    - norma_id: norm-can-res-135
-    - norma_id: norm-can-res-boc-2007-036-147
-    - norma_id: norm-can-res-juriscan-41360-129
-    - norma_id: norm-can-d-74-2010
-    - norma_id: norm-can-res-juriscan-30668-127
-    - norma_id: norm-can-res-boc-1998-140-142
-    - norma_id: norm-can-res-boc-2002-147-141
-    - norma_id: norm-can-res-boc-2005-080-146
-    - norma_id: norm-can-res-boc-2025-094-137
-    - norma_id: norm-can-res-125
-    - norma_id: norm-can-res-boc-2018-019-130
-    - norma_id: norm-can-res-boc-2007-009-143
-    - norma_id: norm-can-res-boc-2018-127-9
-    - norma_id: norm-can-res-134
-    - norma_id: norm-can-res-juriscan-75818-136
-    - norma_id: norm-can-res-boc-1996-057-140
-    - norma_id: norm-can-res-boc-2026-046-139
-    - norma_id: norm-can-res-juriscan-61148-128
-    - norma_id: norm-mad-r-cdd-2025-2026
-    - norma_id: norm-mad-o-123-2015
-    - norma_id: norm-and-o-18-6-2020
-    - norma_id: norm-mad-d126-2017
-    - norma_id: norm-mad-o2532-2022
-    - norma_id: norm-and-l3-2021
-    - norma_id: norm-mad-d43-2022
-    - norma_id: norm-and-r-cdd-2025-2026
-    - norma_id: norm-mad-d-11-2019
-    - norma_id: norm-mad-o-2808-2017
-    - norma_id: norm-mad-o-2150-2020
-    - norma_id: norm-and-o-11-12-2012
-    - norma_id: norm-and-o-10-11-2020
-    - norma_id: norm-mad-o-1117-2020
+  - norma_id: norm-es-1979-29491
+  - norma_id: norm-es-1985-7820
+  - norma_id: norm-es-1993-23257
+  - norma_id: norm-es-1995-22212
+  - norma_id: norm-es-1996-3102
+  - norma_id: norm-es-1998-10720
+  - norma_id: norm-es-2010-10424
+  - norma_id: norm-es-2012-9364
+  - norma_id: norm-es-2014-7684
+  - norma_id: norm-es-2015-6839
+  - norma_id: norm-es-2015-8470
+  - norma_id: norm-es-2015-9453
+  - norma_id: norm-es-2022-16194
+  - norma_id: norm-es-2024-11613
+  - norma_id: norm-es-2026-2622
+  - norma_id: norm-es-l-9-2017
+  - norma_id: norm-es-lo-10-2022
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-rd-1364-2010
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-can-o-2023-09-28
+  - norma_id: norm-can-res-boc-2020-130-131
+  - norma_id: norm-can-d-82-1994
+  - norma_id: norm-can-res-boc-1994-083-144
+  - norma_id: norm-can-res-juriscan-64565-138
+  - norma_id: norm-can-res-boc-2022-158-132
+  - norma_id: norm-can-convenio-3-laboral
+  - norma_id: norm-can-res-135
+  - norma_id: norm-can-res-boc-2007-036-147
+  - norma_id: norm-can-res-juriscan-41360-129
+  - norma_id: norm-can-d-74-2010
+  - norma_id: norm-can-res-juriscan-30668-127
+  - norma_id: norm-can-res-boc-1998-140-142
+  - norma_id: norm-can-res-boc-2002-147-141
+  - norma_id: norm-can-res-boc-2005-080-146
+  - norma_id: norm-can-res-boc-2025-094-137
+  - norma_id: norm-can-res-125
+  - norma_id: norm-can-res-boc-2018-019-130
+  - norma_id: norm-can-res-boc-2007-009-143
+  - norma_id: norm-can-res-boc-2018-127-9
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-juriscan-75818-136
+  - norma_id: norm-can-res-boc-1996-057-140
+  - norma_id: norm-can-res-boc-2026-046-139
+  - norma_id: norm-can-res-juriscan-61148-128
+  - norma_id: norm-mad-r-cdd-2025-2026
+  - norma_id: norm-mad-o-123-2015
+  - norma_id: norm-and-o-18-6-2020
+  - norma_id: norm-mad-d126-2017
+  - norma_id: norm-mad-o2532-2022
+  - norma_id: norm-and-l3-2021
+  - norma_id: norm-mad-d43-2022
+  - norma_id: norm-and-r-cdd-2025-2026
+  - norma_id: norm-mad-d-11-2019
+  - norma_id: norm-mad-o-2808-2017
+  - norma_id: norm-mad-o-2150-2020
+  - norma_id: norm-and-o-11-12-2012
+  - norma_id: norm-and-o-10-11-2020
+  - norma_id: norm-mad-o-1117-2020
   desarrollado_por:
-    - norma_id: norm-can-res-boc-2020-130-131
-    - norma_id: norm-can-d-82-1994
-    - norma_id: norm-can-res-boc-1994-083-144
-    - norma_id: norm-can-res-juriscan-64565-138
-    - norma_id: norm-can-res-boc-2022-158-132
-    - norma_id: norm-can-convenio-3-laboral
-    - norma_id: norm-can-res-135
-    - norma_id: norm-can-res-boc-2007-036-147
-    - norma_id: norm-can-res-juriscan-41360-129
-    - norma_id: norm-can-d-74-2010
-    - norma_id: norm-can-res-juriscan-30668-127
-    - norma_id: norm-can-res-boc-1998-140-142
-    - norma_id: norm-can-res-boc-2002-147-141
-    - norma_id: norm-can-res-boc-2005-080-146
-    - norma_id: norm-can-res-boc-2025-094-137
-    - norma_id: norm-can-res-boc-2018-019-130
-    - norma_id: norm-can-res-boc-2007-009-143
-    - norma_id: norm-can-res-134
-    - norma_id: norm-can-l-2-1987
-    - norma_id: norm-can-res-juriscan-75818-136
-    - norma_id: norm-can-res-boc-1996-057-140
-    - norma_id: norm-can-res-boc-2026-046-139
-    - norma_id: norm-can-res-juriscan-61148-128
-    - norma_id: norm-mad-r-cdd-2025-2026
-    - norma_id: norm-mad-o-123-2015
-    - norma_id: norm-and-o-18-6-2020
-    - norma_id: norm-mad-d126-2017
-    - norma_id: norm-mad-o2532-2022
-    - norma_id: norm-and-l3-2021
-    - norma_id: norm-mad-d43-2022
-    - norma_id: norm-and-r-cdd-2025-2026
-    - norma_id: norm-mad-d-11-2019
-    - norma_id: norm-mad-o-2808-2017
-    - norma_id: norm-mad-o-2150-2020
-    - norma_id: norm-and-o-11-12-2012
-    - norma_id: norm-and-o-10-11-2020
-    - norma_id: norm-mad-o-1117-2020
+  - norma_id: norm-can-res-boc-2020-130-131
+  - norma_id: norm-can-d-82-1994
+  - norma_id: norm-can-res-boc-1994-083-144
+  - norma_id: norm-can-res-juriscan-64565-138
+  - norma_id: norm-can-res-boc-2022-158-132
+  - norma_id: norm-can-convenio-3-laboral
+  - norma_id: norm-can-res-135
+  - norma_id: norm-can-res-boc-2007-036-147
+  - norma_id: norm-can-res-juriscan-41360-129
+  - norma_id: norm-can-d-74-2010
+  - norma_id: norm-can-res-juriscan-30668-127
+  - norma_id: norm-can-res-boc-1998-140-142
+  - norma_id: norm-can-res-boc-2002-147-141
+  - norma_id: norm-can-res-boc-2005-080-146
+  - norma_id: norm-can-res-boc-2025-094-137
+  - norma_id: norm-can-res-boc-2018-019-130
+  - norma_id: norm-can-res-boc-2007-009-143
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-l-2-1987
+  - norma_id: norm-can-res-juriscan-75818-136
+  - norma_id: norm-can-res-boc-1996-057-140
+  - norma_id: norm-can-res-boc-2026-046-139
+  - norma_id: norm-can-res-juriscan-61148-128
+  - norma_id: norm-mad-r-cdd-2025-2026
+  - norma_id: norm-mad-o-123-2015
+  - norma_id: norm-and-o-18-6-2020
+  - norma_id: norm-mad-d126-2017
+  - norma_id: norm-mad-o2532-2022
+  - norma_id: norm-and-l3-2021
+  - norma_id: norm-mad-d43-2022
+  - norma_id: norm-and-r-cdd-2025-2026
+  - norma_id: norm-mad-d-11-2019
+  - norma_id: norm-mad-o-2808-2017
+  - norma_id: norm-mad-o-2150-2020
+  - norma_id: norm-and-o-11-12-2012
+  - norma_id: norm-and-o-10-11-2020
+  - norma_id: norm-mad-o-1117-2020
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '103'
-    - norma_id: norm-es-1984-17387
-    - norma_id: norm-es-2015-8470
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-l-53-1984
-    - norma_id: norm-es-1985-5392
-    - norma_id: norm-es-2013-12632
-    - norma_id: norm-es-2012-9364
+  - '103'
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-2015-8470
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-l-53-1984
+  - norma_id: norm-es-1985-5392
+  - norma_id: norm-es-2013-12632
+  - norma_id: norm-es-2012-9364
 ---
 # Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.
 
@@ -219,9 +221,7 @@ Quedan derogadas todas las disposiciones de igual o inferior rango que se oponga
 
 2. La disposición final quinta de la Ley 40/2007, de 4 de diciembre, de medidas en materia de Seguridad Social.
 
-3. La disposición final vigésima tercera de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para el año 2011.
-
-4. El artículo 11 de la Ley 26/2011, de 1 de agosto, de adaptación normativa a la Convención Internacional sobre los Derechos de las Personas con Discapacidad.
+3. La disposición final vigésima tercera de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para el año 2011. 4. El artículo 11 de la Ley 26/2011, de 1 de agosto, de adaptación normativa a la Convención Internacional sobre los Derechos de las Personas con Discapacidad.
 
 5. La disposición final segunda de la Ley 27/2011, de 1 de agosto, sobre actualización, adecuación y modernización del sistema de Seguridad Social.
 
@@ -243,17 +243,13 @@ artículo 13, apartado 1, del Real Decreto-ley 20/2012, de 13 de julio, de medid
 
 Real Decreto-ley 10/2015, de 11 de septiembre, por el que se conceden créditos extraordinarios y suplementos de crédito en el presupuesto del Estado y se adoptan otras medidas en materia de empleo público y de estímulo a la economía.
 
-13. La disposición final novena de la Ley 48/2015, de 29 de octubre, de Presupuestos Generales del Estado para el año 2016.
-
-#### Disposición final única. Entrada en vigor.
+13. La disposición final novena de la Ley 48/2015, de 29 de octubre, de Presupuestos Generales del Estado para el año 2016. #### Disposición final única. Entrada en vigor.
 
 El presente real decreto legislativo y el texto refundido que aprueba entrarán en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado». No obstante, la entrada en vigor de la duración prevista para el permiso de paternidad en el artículo 49.c) del texto refundido, se producirá en los términos previstos en la disposición transitoria sexta de dicho texto refundido. Por último, la entrada en vigor, tanto del apartado 2 del artículo 50 como.
 
 de la
 
-#### Disposición adicional decimosexta.... del texto refundido, se producirá el 1 de enero de 2016.
-
-Dado en Madrid, el 30 de octubre de 2015. FELIPE R. El Ministro de Hacienda y Administraciones Públicas, CRISTÓBAL MONTORO ROMERO TEXTO REFUNDIDO DE LA LEY DEL ESTATUTO BÁSICO DEL EMPLEADO PÚBLICO
+#### Disposición adicional decimosexta.... del texto refundido, se producirá el 1 de enero de 2016. Dado en Madrid, el 30 de octubre de 2015. FELIPE R. El Ministro de Hacienda y Administraciones Públicas, CRISTÓBAL MONTORO ROMERO TEXTO REFUNDIDO DE LA LEY DEL ESTATUTO BÁSICO DEL EMPLEADO PÚBLICO
 
 ## Título I
 
@@ -292,9 +288,7 @@ e) Las Universidades Públicas.
 
 3. El personal docente y el personal estatutario de los Servicios de Salud se regirán por la legislación específica dictada por el Estado y por las comunidades autónomas en el ámbito de sus respectivas competencias y por lo previsto en el presente Estatuto, excepto el
 
-### Capítulo II. del título III, salvo el artículo 20, y los artículos 22.3, 24 y 84.
-
-4. Cada vez que este Estatuto haga mención al personal funcionario de carrera se entenderá comprendido el personal estatutario de los Servicios de Salud.
+### Capítulo II. del título III, salvo el artículo 20, y los artículos 22.3, 24 y 84. 4. Cada vez que este Estatuto haga mención al personal funcionario de carrera se entenderá comprendido el personal estatutario de los Servicios de Salud.
 
 5. El presente Estatuto tiene carácter supletorio para todo el personal de las Administraciones Públicas no incluido en su ámbito de aplicación.
 
@@ -351,8 +345,7 @@ d) Personal eventual.
 #### Artículo 10. Funcionarios interinos.
 
 1. Son funcionarios interinos los que, por razones expresamente justificadas de necesidad y urgencia, son nombrados como tales con carácter temporal para el desempeño de funciones propias de funcionarios de carrera, cuando se dé alguna de las siguientes circunstancias:
-a) La existencia de plazas vacantes, cuando no sea posible su cobertura por funcionarios de carrera, por un máximo de tres años, en los términos previstos en el apartado 4.
-b) La sustitución transitoria de los titulares, durante el tiempo estrictamente necesario.
+a) La existencia de plazas vacantes, cuando no sea posible su cobertura por funcionarios de carrera, por un máximo de tres años, en los términos previstos en el apartado 4. b) La sustitución transitoria de los titulares, durante el tiempo estrictamente necesario.
 c) La ejecución de programas de carácter temporal, que no podrán tener una duración superior a tres años, ampliable hasta doce meses más por las leyes de Función Pública que se dicten en desarrollo de este Estatuto.
 d) El exceso o acumulación de tareas por plazo máximo de nueve meses, dentro de un periodo de dieciocho meses.
 
@@ -371,9 +364,7 @@ TREBEP. En este supuesto podrá permanecer hasta la resolución de la convocator
 
 1. Es personal laboral el que en virtud de contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios retribuidos por las Administraciones Públicas. En función de la duración del contrato éste podrá ser fijo, por tiempo indefinido o temporal.
 
-2. Las leyes de Función Pública que se dicten en desarrollo de este Estatuto establecerán los criterios para la determinación de los puestos de trabajo que pueden ser desempeñados por personal laboral, respetando en todo caso lo establecido en el artículo 9 2.
-
-3. Los procedimientos de selección del personal laboral serán públicos, rigiéndose en todo caso por los principios de igualdad, mérito y capacidad. En el caso del personal laboral temporal se regirá igualmente por el principio de celeridad, teniendo por finalidad atender razones expresamente justificadas de necesidad y urgencia.
+2. Las leyes de Función Pública que se dicten en desarrollo de este Estatuto establecerán los criterios para la determinación de los puestos de trabajo que pueden ser desempeñados por personal laboral, respetando en todo caso lo establecido en el artículo 9 2. 3. Los procedimientos de selección del personal laboral serán públicos, rigiéndose en todo caso por los principios de igualdad, mérito y capacidad. En el caso del personal laboral temporal se regirá igualmente por el principio de celeridad, teniendo por finalidad atender razones expresamente justificadas de necesidad y urgencia.
 
 #### Artículo 12. Personal eventual.
 
@@ -451,10 +442,7 @@ a) Carrera horizontal, que consiste en la progresión de grado, categoría, esca
 
 el apartado 3 del artículo 20 de este Estatuto.
 b) Carrera vertical, que consiste en el ascenso en la estructura de puestos de trabajo por los procedimientos de provisión establecidos en el capítulo III del título V de este Estatuto.
-c) Promoción interna vertical, que consiste en el ascenso desde un cuerpo o escala de un Subgrupo, o Grupo de clasificación profesional en el supuesto de que éste no tenga Subgrupo, a otro superior, de acuerdo con lo establecido en el artículo 18.
-d) Promoción interna horizontal, que consiste en el acceso a cuerpos o escalas del mismo Subgrupo profesional, de acuerdo con lo dispuesto en el artículo 18.
-
-4. Los funcionarios de carrera podrán progresar simultáneamente en las modalidades de carrera horizontal y vertical cuando la Administración correspondiente las haya implantado en un mismo ámbito.
+c) Promoción interna vertical, que consiste en el ascenso desde un cuerpo o escala de un Subgrupo, o Grupo de clasificación profesional en el supuesto de que éste no tenga Subgrupo, a otro superior, de acuerdo con lo establecido en el artículo 18. d) Promoción interna horizontal, que consiste en el acceso a cuerpos o escalas del mismo Subgrupo profesional, de acuerdo con lo dispuesto en el artículo 18. 4. Los funcionarios de carrera podrán progresar simultáneamente en las modalidades de carrera horizontal y vertical cuando la Administración correspondiente las haya implantado en un mismo ámbito.
 
 #### Artículo 17. Carrera horizontal de los funcionarios de carrera.
 
@@ -511,9 +499,7 @@ presente Estatuto y el cese del puesto de trabajo obtenido por el procedimiento 
 
 3. Las retribuciones complementarias son las que retribuyen las características de los puestos de trabajo, la carrera profesional o el desempeño, rendimiento o resultados alcanzados por el funcionario.
 
-4. Las pagas extraordinarias serán dos al año, cada una por el importe de una mensualidad de retribuciones básicas y de la totalidad de las retribuciones complementarias, salvo aquéllas a las que se refieren los apartados c) y d) del artículo 24.
-
-5. No podrá percibirse participación en tributos o en cualquier otro ingreso de las Administraciones Públicas como contraprestación de cualquier servicio, participación o premio en multas impuestas, aun cuando estuviesen normativamente atribuidas a los servicios.
+4. Las pagas extraordinarias serán dos al año, cada una por el importe de una mensualidad de retribuciones básicas y de la totalidad de las retribuciones complementarias, salvo aquéllas a las que se refieren los apartados c) y d) del artículo 24. 5. No podrá percibirse participación en tributos o en cualquier otro ingreso de las Administraciones Públicas como contraprestación de cualquier servicio, participación o premio en multas impuestas, aun cuando estuviesen normativamente atribuidas a los servicios.
 
 #### Artículo 23. Retribuciones básicas.
 
@@ -690,9 +676,7 @@ Estatuto de los Trabajadores para el personal laboral.
 4. El establecimiento de las unidades electorales se regulará por el Estado y por cada Comunidad Autónoma dentro del ámbito de sus competencias legislativas. Previo acuerdo con las Organizaciones Sindicales legitimadas en los artículos 6 y 7 de la Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical, los órganos de gobierno de las Administraciones Públicas podrán modificar o establecer unidades electorales en razón del número y peculiaridades de sus colectivos, adecuando la configuración de las mismas a las estructuras administrativas o a los ámbitos de negociación constituidos o que se constituyan.
 
 5. Cada Junta de Personal se compone de un número de representantes, en función del número de funcionarios de la Unidad electoral correspondiente, de acuerdo con la siguiente escala, en coherencia con lo establecido en el Estatuto de los Trabajadores:
-De 50 a 100 funcionarios: 5. De 101 a 250 funcionarios: 9. De 251 a 500 funcionarios: 13. De 501 a 750 funcionarios: 17. De 751 a 1.000 funcionarios: 21. De 1.001 en adelante, dos por cada 1.000 o fracción, con el máximo de 75.
-
-6. Las Juntas de Personal elegirán de entre sus miembros un Presidente y un Secretario y elaborarán su propio reglamento de procedimiento, que no podrá contravenir lo dispuesto en el presente Estatuto y legislación de desarrollo, remitiendo copia del mismo y de sus modificaciones al órgano u órganos competentes en materia de personal que cada Administración determine. El reglamento y sus modificaciones deberán ser aprobados por los votos favorables de, al menos, dos tercios de sus miembros.
+De 50 a 100 funcionarios: 5. De 101 a 250 funcionarios: 9. De 251 a 500 funcionarios: 13. De 501 a 750 funcionarios: 17. De 751 a 1.000 funcionarios: 21. De 1.001 en adelante, dos por cada 1.000 o fracción, con el máximo de 75. 6. Las Juntas de Personal elegirán de entre sus miembros un Presidente y un Secretario y elaborarán su propio reglamento de procedimiento, que no podrá contravenir lo dispuesto en el presente Estatuto y legislación de desarrollo, remitiendo copia del mismo y de sus modificaciones al órgano u órganos competentes en materia de personal que cada Administración determine. El reglamento y sus modificaciones deberán ser aprobados por los votos favorables de, al menos, dos tercios de sus miembros.
 
 #### Artículo 40. Funciones y legitimación de los órganos de representación.
 
@@ -1491,9 +1475,7 @@ Grupo A: Subgrupo A1. Grupo B: Subgrupo A2. Grupo C: Subgrupo C1. Grupo D: Subgr
 
 #### Disposición transitoria cuarta. Consolidación de empleo temporal.
 
-1. Las Administraciones Públicas podrán efectuar convocatorias de consolidación de empleo a puestos o plazas de carácter estructural correspondientes a sus distintos cuerpos, escalas o categorías, que estén dotados presupuestariamente y se encuentren desempeñados interina o temporalmente con anterioridad a 1 de enero de 2005.
-
-2. Los procesos selectivos garantizarán el cumplimiento de los principios de igualdad, mérito, capacidad y publicidad.
+1. Las Administraciones Públicas podrán efectuar convocatorias de consolidación de empleo a puestos o plazas de carácter estructural correspondientes a sus distintos cuerpos, escalas o categorías, que estén dotados presupuestariamente y se encuentren desempeñados interina o temporalmente con anterioridad a 1 de enero de 2005. 2. Los procesos selectivos garantizarán el cumplimiento de los principios de igualdad, mérito, capacidad y publicidad.
 
 3. El contenido de las pruebas guardará relación con los procedimientos, tareas y funciones habituales de los puestos objeto de cada convocatoria. En la fase de concurso podrá valorarse, entre otros méritos, el tiempo de servicios prestados en las Administraciones Públicas y la experiencia en los puestos de trabajo objeto de la convocatoria. Los procesos selectivos se desarrollarán conforme a lo dispuesto en los apartados 1 y 3 del artículo 61 l.
 
@@ -1503,9 +1485,7 @@ presente Estatuto.
 
 En tanto se determine el procedimiento electoral general previsto en el artículo 39 l.
 
-presente Estatuto, se mantendrán con carácter de normativa básica los siguientes artículos de la Ley 9/1987, de 12 de junio, de órganos de representación, determinación de las condiciones de trabajo y participación del personal al servicio de las Administraciones Públicas: 13.2, 13.3, 13.4, 13.5, 13.6, 15, 16, 17, 18, 19, 20, 21, 25, 26, 27, 28 y 29.
-
-#### Disposición transitoria sexta. Duración del permiso de paternidad por el nacimiento,.
+presente Estatuto, se mantendrán con carácter de normativa básica los siguientes artículos de la Ley 9/1987, de 12 de junio, de órganos de representación, determinación de las condiciones de trabajo y participación del personal al servicio de las Administraciones Públicas: 13.2, 13.3, 13.4, 13.5, 13.6, 15, 16, 17, 18, 19, 20, 21, 25, 26, 27, 28 y 29. #### Disposición transitoria sexta. Duración del permiso de paternidad por el nacimiento,.
 
 acogimiento o adopción de un hijo para el personal funcionario hasta la entrada en vigor de la Ley 9/2009, de 6 de octubre. Sin perjuicio de lo indicado en el artículo 49, letra c), la duración del permiso de paternidad para el personal funcionario seguirá siendo de quince días hasta que no se produzca la entrada en vigor del artículo 2 de la Ley 9/2009, de 6 de octubre.
 
@@ -1521,9 +1501,7 @@ Hasta que se produzca la entrada en vigor de la Ley 40/2015, de 1 de octubre, de
 
 #### Disposición transitoria novena. Aplicación progresiva del permiso del progenitor diferente.
 
-de la madre biológica para empleados públicos según lo previsto en el Real Decreto-ley 6/2019, de 1 de marzo, de medidas urgentes para garantía de la igualdad de trato y de oportunidades entre mujeres y hombres en el empleo y la ocupación. La duración del permiso del progenitor diferente de la madre biológica por nacimiento, guarda con fines de adopción, acogimiento, o adopción al que se refiere el apartado c) del artículo 49 de la presente norma, en la redacción dada por el Real Decreto-ley 6/2019, de 1.
-
-de marzo, de medidas urgentes para garantía de la igualdad de trato y de oportunidades entre mujeres y hombres en el empleo y la ocupación, se incrementará de forma progresiva, de tal forma que:
+de la madre biológica para empleados públicos según lo previsto en el Real Decreto-ley 6/2019, de 1 de marzo, de medidas urgentes para garantía de la igualdad de trato y de oportunidades entre mujeres y hombres en el empleo y la ocupación. La duración del permiso del progenitor diferente de la madre biológica por nacimiento, guarda con fines de adopción, acogimiento, o adopción al que se refiere el apartado c) del artículo 49 de la presente norma, en la redacción dada por el Real Decreto-ley 6/2019, de 1. de marzo, de medidas urgentes para garantía de la igualdad de trato y de oportunidades entre mujeres y hombres en el empleo y la ocupación, se incrementará de forma progresiva, de tal forma que:
 a) En 2019, la duración del permiso será de ocho semanas; las dos primeras semanas serán ininterrumpidas e inmediatamente posteriores a la fecha del nacimiento, de la decisión judicial de guarda con fines de adopción o acogimiento o decisión judicial por la que se constituya la adopción. Las seis semanas restantes podrán ser de disfrute interrumpido; ya sea con posterioridad a las seis semanas inmediatas posteriores al periodo de descanso obligatorio para la madre, o bien con posterioridad a la finalización de los permisos contenidos en los apartados a) y b) del artículo 49 o de.
 
 la suspensión del contrato por nacimiento, adopción, guarda con fines de adopción o acogimiento.
@@ -1535,8 +1513,7 @@ c) Finalmente en 2021, la duración del permiso será de dieciséis semanas; las
 #### Disposición derogatoria única.
 
 Quedan derogadas con el alcance establecido en el apartado 2 de la disposición final cuarta, las siguientes disposiciones:
-a) De la Ley de Funcionarios Civiles del Estado aprobada por Decreto 315/1964, de 7 de febrero, los artículos 1, 2, 3, 4, 5.2, 7, 29, 30, 36, 37, 38, 39.2, 40, 41, 42, 44, 47, 48, 49, 50, 59, 60, 61, 63, 64, 65, 68, 71, 76, 77, 78, 79, 80, 87, 89, 90, 91, 92, 93, 102, 104 y 105.
-b) De la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, los artículos 3.2.e) y f); 6; 7; 8; 11; 12; 13.2, 3 y 4; 14.4 y 5; 16; 17; 18.1 a 5; 19.1 y 3; 20.1.a), b) párrafo primero, c), e) y g) en sus párrafos primero a cuarto, e i), 2 y 3; 21; 22.1 a excepción de los dos últimos párrafos; 23; 24; 25; 26; 29, a excepción del último párrafo de sus apartados 5, 6 y 7; 30.3 y 5; 31; 32; 33; disposiciones adicionales tercera.2 y 3, cuarta,
+a) De la Ley de Funcionarios Civiles del Estado aprobada por Decreto 315/1964, de 7 de febrero, los artículos 1, 2, 3, 4, 5.2, 7, 29, 30, 36, 37, 38, 39.2, 40, 41, 42, 44, 47, 48, 49, 50, 59, 60, 61, 63, 64, 65, 68, 71, 76, 77, 78, 79, 80, 87, 89, 90, 91, 92, 93, 102, 104 y 105. b) De la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, los artículos 3.2.e) y f); 6; 7; 8; 11; 12; 13.2, 3 y 4; 14.4 y 5; 16; 17; 18.1 a 5; 19.1 y 3; 20.1.a), b) párrafo primero, c), e) y g) en sus párrafos primero a cuarto, e i), 2 y 3; 21; 22.1 a excepción de los dos últimos párrafos; 23; 24; 25; 26; 29, a excepción del último párrafo de sus apartados 5, 6 y 7; 30.3 y 5; 31; 32; 33; disposiciones adicionales tercera.2 y 3, cuarta,
 
 #### Duodécima. y decimoquinta, disposiciones transitorias segunda, octava y novena.
 

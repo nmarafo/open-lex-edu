@@ -1,7 +1,10 @@
 ---
 id: norm-can-res-098
 codigo_sintetizado: Resolucion BOC 98
-titulo: Resolución de 23 de febrero de 2026, por la que se dictan instrucciones para la tramitación electrónica de los títulos académicos y profesionales de las enseñanzas no universitarias en el ámbito de la Comunidad Autónoma de Canarias (BOC n.º 45, de 6 de marzo).
+titulo: Resolución de 23 de febrero de 2026, por la que se dictan instrucciones para
+  la tramitación electrónica de los títulos académicos y profesionales de las enseñanzas
+  no universitarias en el ámbito de la Comunidad Autónoma de Canarias (BOC n.º 45,
+  de 6 de marzo).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General competente de la Consejería de Educación de Canarias
@@ -13,36 +16,36 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Instrucciones de organización y funcionamiento
 tags:
-  - admision-alumnado
-  - curriculo
-  - ensenanzas-deportivas
-  - ensenanzas-universitarias
-  - equipos-directivos
-  - formacion-profesional
-  - instrucciones-de-organizacion-y-funcionamiento
-  - procedimiento-administrativo
-  - roc
-  - titulacion
+- admision-alumnado
+- curriculo
+- ensenanzas-deportivas
+- ensenanzas-universitarias
+- equipos-directivos
+- formacion-profesional
+- instrucciones-de-organizacion-y-funcionamiento
+- procedimiento-administrativo
+- roc
+- titulacion
 relaciones:
   desarrolla:
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-40-2015
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-40-2015
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-2001-7022
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-2001-7022
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-045-737.pdf
 ---
 # Resolución de 23 de febrero de 2026, por la que se dictan instrucciones para la tramitación electrónica de los títulos académicos y profesionales de las enseñanzas no universitarias en el ámbito de la Comunidad Autónoma de Canarias (BOC n.º 45, de 6 de marzo).

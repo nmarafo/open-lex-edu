@@ -1,7 +1,13 @@
 ---
 id: norm-can-res-boc-2025-047-107
 codigo_sintetizado: Resolucion BOC 107
-titulo: Resolución de 24 de febrero de 2025, por la que se convoca el procedimiento de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grado D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2025/2026.
+titulo: Resolución de 24 de febrero de 2025, por la que se convoca el procedimiento
+  de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior
+  (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de
+  Grado D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales
+  y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros
+  docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para
+  el curso escolar 2025/2026.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,52 +19,50 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión y escolarización del alumnado
 tags:
-  - admisi-n-y-escolarizaci-n-del-alumnado
-  - admision-alumnado
-  - ensenanzas-artisticas
-  - ensenanzas-deportivas
-  - eoi
-  - equipos-directivos
-  - formacion-profesional
-  - profesorado
+- admisi-n-y-escolarizaci-n-del-alumnado
+- admision-alumnado
+- ensenanzas-artisticas
+- ensenanzas-deportivas
+- eoi
+- equipos-directivos
+- formacion-profesional
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-d-9-2022
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-res-134
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-can-res-boc-2025-047-108
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-d-9-2022
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-boc-2025-047-108
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-l-39-2015
   fundamento_de:
-    - norma_id: norm-can-res-boc-2025-047-108
-    - norma_id: norm-can-res-boc-2025-061-106
+  - norma_id: norm-can-res-boc-2025-047-108
+  - norma_id: norm-can-res-boc-2025-061-106
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-can-d-9-2022
-    - norma_id: norm-can-res-134
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-res-boc-2025-047-108
+  - '1'
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-d-9-2022
+  - norma_id: norm-can-res-134
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-res-boc-2025-047-108
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-047-936.pdf
 ---
-# Resolución de 24 de febrero de 2025, por la que se convoca el procedimiento de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grado D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2025/2026.
-
-## Preámbulo
+# Resolución de 24 de febrero de 2025, por la que se convoca el procedimiento de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grado D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2025/2026. ## Preámbulo
 
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes [Resolución de 24 de febrero de 2025](./R24_2_2025_dictan_instrucciones_proceso_admision_alumnado_ciclos.md), por la que se convoca el procedimiento de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grado D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2025/2026. Vista la necesidad de convocar el procedimiento de admisión del alumnado y publicar el calendario del mismo para cursar, en centros docentes sostenidos con fondos públicos, las enseñanzas de Formación Profesional de Grado D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Deportivas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas de Idiomas en la Comunidad Autónoma de Canarias para el curso escolar 2025-2026, y teniendo en cuenta el siguiente ANTECEDENTE DE HECHO Único.- La Administración educativa debe convocar, para el curso 2025-2026, el procedimiento de admisión de aquel alumnado que se encuentre en los siguientes supuestos:
 a) Incorporación por primera vez a un centro para iniciar o continuar alguna de las enseñanzas no universitarias del sistema educativo.

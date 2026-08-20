@@ -1,7 +1,9 @@
 ---
 id: norm-can-res-boc-2021-114-80
 codigo_sintetizado: Resolucion BOC 80
-titulo: Resolución de 24 de mayo de 2021, por la que se actualizan las instrucciones para la impartición de los cursos de preparación de pruebas de acceso a ciclos formativos de grado medio y superior de Formación Profesional (BOC n.º 114, de 4 de junio).
+titulo: Resolución de 24 de mayo de 2021, por la que se actualizan las instrucciones
+  para la impartición de los cursos de preparación de pruebas de acceso a ciclos formativos
+  de grado medio y superior de Formación Profesional (BOC n.º 114, de 4 de junio).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,33 +15,33 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación de Personas Adultas
 tags:
-  - curriculo
-  - educaci-n-de-personas-adultas
-  - educacion-personas-adultas
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - evaluacion
-  - formacion-profesional
-  - grado-medio
-  - oposiciones
-  - roc
-  - titulacion
+- curriculo
+- educaci-n-de-personas-adultas
+- educacion-personas-adultas
+- ensenanzas-deportivas
+- equipos-directivos
+- evaluacion
+- formacion-profesional
+- grado-medio
+- oposiciones
+- roc
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2021-114-2852.pdf
 ---
 # Resolución de 24 de mayo de 2021, por la que se actualizan las instrucciones para la impartición de los cursos de preparación de pruebas de acceso a ciclos formativos de grado medio y superior de Formación Profesional (BOC n.º 114, de 4 de junio).

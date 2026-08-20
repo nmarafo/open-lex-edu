@@ -1,7 +1,9 @@
 ---
 id: norm-can-o-7-6-2007
-codigo_sintetizado: O7_6_2007 Medidas de Atencion a la Diversidad en la Ensenanza Basica
-titulo: Orden de 7 de junio de 2007, por la que se regulan las medidas de atención a la diversidad en la enseñanza básica en la Comunidad Autónoma de Canarias.
+codigo_sintetizado: O7_6_2007 Medidas de Atencion a la Diversidad en la Ensenanza
+  Basica
+titulo: Orden de 7 de junio de 2007, por la que se regulan las medidas de atención
+  a la diversidad en la enseñanza básica en la Comunidad Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Ministerio de Educación, Formación Profesional y Deportes
@@ -19,38 +21,38 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Medidas de atención a la diversidad
 tags:
-  - adaptaciones-curriculares-significativas
-  - atencion-diversidad
-  - conciertos-educativos
-  - curriculo
-  - educacion-primaria
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - eso
-  - fp-basica
-  - medidas-de-atenci-n-a-la-diversidad
-  - neae
-  - pmar-diversificacion
-  - refuerzo-educativo
-  - titulacion
+- adaptaciones-curriculares-significativas
+- atencion-diversidad
+- conciertos-educativos
+- curriculo
+- educacion-primaria
+- ensenanzas-deportivas
+- equipos-directivos
+- eso
+- fp-basica
+- medidas-de-atenci-n-a-la-diversidad
+- neae
+- pmar-diversificacion
+- refuerzo-educativo
+- titulacion
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-can-l-14-1990
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-1-1996
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '22'
-    - norma_id: norm-can-l-14-1990
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '22'
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://www.gobiernodecanarias.org/boc/2007/124/boc-2007-124-001.pdf
 anexos_extraidos_pdf: true
 ---

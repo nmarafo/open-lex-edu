@@ -1,7 +1,10 @@
 ---
 id: norm-can-res-juriscan-22458-15
 codigo_sintetizado: Resolucion BOC 15
-titulo: Resolución de 9 de mayo de 1995, de la Dirección General de Centros, por la que se autorizan determinados ingresos, se fijan precios máximos con carácter general y otros precios que puedan fijar los Centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias (BOC n.º 67, de 29 de mayo).
+titulo: Resolución de 9 de mayo de 1995, de la Dirección General de Centros, por la
+  que se autorizan determinados ingresos, se fijan precios máximos con carácter general
+  y otros precios que puedan fijar los Centros docentes públicos no universitarios
+  de la Comunidad Autónoma de Canarias (BOC n.º 67, de 29 de mayo).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General competente de la Consejería de Educación de Canarias
@@ -13,28 +16,28 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Gestión económica de centros
 tags:
-  - autonomia-centro
-  - consejo-escolar
-  - curriculo
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - gesti-n-econ-mica-de-centros
-  - gestion-economica
-  - oposiciones
-  - profesorado
-  - roc
+- autonomia-centro
+- consejo-escolar
+- curriculo
+- ensenanzas-deportivas
+- equipos-directivos
+- gesti-n-econ-mica-de-centros
+- gestion-economica
+- oposiciones
+- profesorado
+- roc
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
+  - '1'
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/1995/067/boc-1995-067-013.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=22458
 ---
@@ -64,7 +67,7 @@ Siguiente
 
 1012 - RESOLUCIÓN de 9 de mayo de 1995, de la Dirección General de Centros, por la que se autorizan determinados ingresos, se fijan precios máximos con carácter general y otros precios que puedan fijar los Centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 
-El artículo 21 De los Centros docentes públicos no universitarios de la Ley 14/1994, de 27 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Canarias para 1995, dispone en sus apartados 1 y 2 que:
+El artículo 21 ÓDe los Centros docentes públicos no universitarios de la Ley 14/1994, de 27 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Canarias para 1995, dispone en sus apartados 1 y 2 que:
 
 1. Los Centros docentes públicos no universitarios, en el ámbito territorial de Canarias, dispondrán de autonomía en su gestión económica en los términos que se establecen en este artículo.
 

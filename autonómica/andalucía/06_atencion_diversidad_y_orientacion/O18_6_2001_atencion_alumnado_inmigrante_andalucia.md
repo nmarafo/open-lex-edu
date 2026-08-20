@@ -1,10 +1,12 @@
 ---
 id: norm-and-o-18-6-2001
 codigo_sintetizado: O18_6_2001 Atencion Alumnado Inmigrante e Interculturalidad Andalucía
-titulo: Orden de 18 de junio de 2001, por la que se regulan las aulas de adaptación lingüística (ATAL) para alumnado inmigrante.
+titulo: Orden de 18 de junio de 2001, por la que se regulan las aulas de adaptación
+  lingüística (ATAL) para alumnado inmigrante.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 18/06/2001
 fecha_disposicion: '2001-06-18'
@@ -18,17 +20,17 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Atención a la diversidad
 tags:
-  - atal
-  - interculturalidad
-  - inmigrante
-  - andalucia
+- atal
+- interculturalidad
+- inmigrante
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-1-1996
 ---
 # Orden de 18 de junio de 2001, por la que se regulan las aulas de adaptación lingüística (ATAL) para alumnado inmigrante.
 
@@ -90,13 +92,9 @@ El Instituto Andaluz de Administración Pública convoca los Cursos de Formació
 
 #### Primera. Desarrollo de los cursos: Estos cursos se celebrarán en las siguientes fechas:
 
-- «Curso de Perfeccionamiento de Actos y Procedimiento Administrativo (Nivel Medio)¯: 25 de septiembre al 31 de octubre de 2001.
+- «Curso de Perfeccionamiento de Actos y Procedimiento Administrativo (Nivel Medio)¯: 25 de septiembre al 31 de octubre de 2001. - «Curso de Presupuesto, Gasto Público y Contabilidad Presupuestaria de Gastos (Nivel Básico)¯: 25 de septiembre al
 
-- «Curso de Presupuesto, Gasto Público y Contabilidad Presupuestaria de Gastos (Nivel Básico)¯: 25 de septiembre al
-
-31 de octubre de 2001.
-
-La celebración efectiva de los cursos programados queda supeditada a que exista un número idóneo de alumnos matriculados.
+31 de octubre de 2001. La celebración efectiva de los cursos programados queda supeditada a que exista un número idóneo de alumnos matriculados.
 
 #### Segunda. Condiciones generales de admisión: Los cursos están dirigidos al personal al servicio de las Entidades que integran la Administración Local de Andalucía.
 

@@ -1,10 +1,12 @@
 ---
 id: norm-es-2012-9364
 codigo_sintetizado: BOE-A-2012-9364
-titulo: Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad.
+titulo: Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad
+  presupuestaria y de fomento de la competitividad.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2012-07-14'
 boletin: BOE
@@ -15,30 +17,30 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Salud laboral y vigilancia
 tags:
-  - ensenanzas-artisticas
-  - personal-no-docente
-  - prevencion-riesgos-laborales
-  - salud-laboral-y-vigilancia
+- ensenanzas-artisticas
+- personal-no-docente
+- prevencion-riesgos-laborales
+- salud-laboral-y-vigilancia
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-1985-7820
-    - norma_id: norm-es-2012-8745
-    - norma_id: norm-es-l-53-1984
-    - norma_id: norm-es-lo-1-2004
-    - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-1985-7820
+  - norma_id: norm-es-2012-8745
+  - norma_id: norm-es-l-53-1984
+  - norma_id: norm-es-lo-1-2004
+  - norma_id: norm-es-rdl-5-2015
   fundamento_de:
-    - norma_id: norm-es-rdl-2-2015
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-can-l-4-2023
+  - norma_id: norm-es-rdl-2-2015
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-can-l-4-2023
   desarrollado_por: []
   fundamentos_derecho:
-    - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-rdl-5-2015
   articulos:
-    - '1'
-    - norma_id: norm-es-l-53-1984
-    - norma_id: norm-es-lo-1-2004
-    - norma_id: norm-es-1985-7820
-    - norma_id: norm-es-2012-8745
+  - '1'
+  - norma_id: norm-es-l-53-1984
+  - norma_id: norm-es-lo-1-2004
+  - norma_id: norm-es-1985-7820
+  - norma_id: norm-es-2012-8745
 ---
 # Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad.
 
@@ -82,9 +84,7 @@ Al objeto de aproximar los tipos de gravamen a los aplicados en la Unión Europe
 
 Dicha subida de tipos se ve acompañada con otras medidas adicionales por las que determinados productos y servicios pasan a tributar a un tipo impositivo distinto; tal es el supuesto de ciertos productos y servicios que venían tributando al tipo reducido del 8 por ciento y pasan a hacerlo al tipo general, como es el caso de las flores y plantas ornamentales, los servicios mixtos de hostelería, la entrada a teatros, circos y demás espectáculos y los servicios prestados por artistas personas físicas, los servicios funerarios, los servicios de peluquería, los servicios de televisión digital y la adquisición de obras de arte.
 
-La aplicación de estas medidas se demora hasta el 1 de septiembre, de suerte que los distintos agentes económicos concernidos por ellas puedan disponer de un período mínimo para su adaptación, y se verá acompañada por una reducción de las cotizaciones sociales en 2013 y en 2014.
-
-También se introducen modificaciones en la imposición sobre las labores del tabaco, que deben contribuir, dada su finalidad esencialmente recaudatoria, a la mejora de los ingresos tributarios, al tiempo que para poner de manifiesto su papel como instrumento al servicio de la política sanitaria.
+La aplicación de estas medidas se demora hasta el 1 de septiembre, de suerte que los distintos agentes económicos concernidos por ellas puedan disponer de un período mínimo para su adaptación, y se verá acompañada por una reducción de las cotizaciones sociales en 2013 y en 2014. También se introducen modificaciones en la imposición sobre las labores del tabaco, que deben contribuir, dada su finalidad esencialmente recaudatoria, a la mejora de los ingresos tributarios, al tiempo que para poner de manifiesto su papel como instrumento al servicio de la política sanitaria.
 
 Así, en primer término, se introduce un tipo mínimo para los cigarros y cigarritos, pues se ha detectado la existencia en el mercado de cigarritos de bajo precio, con características análogas a las de otras labores del tabaco. Habida cuenta de esta reciente evolución del mercado en España, de las distorsiones que pueden crearse en los hábitos de consumo sobre la base de la fiscalidad más reducida que estos productos soportan, resulta necesaria la implantación de este impuesto mínimo, que queda fijado en 32 euros por 1.000 unidades.
 
@@ -94,9 +94,7 @@ Además, en el caso de los cigarrillos, se considera oportuno reducir el tipo im
 
 Finalmente, y por lo que se refiere a la picadura de liar, se procede a elevar el impuesto mínimo de esta labor, que queda fijado en 80 euros por kilogramo, no solo para mantener los niveles mínimos aplicados a la picadura fina de tabaco para liar en relación con los de los cigarrillos, sino también para coadyuvar al objetivo de proporcionar fondos que financien los gastos sanitarios y asegurar los niveles deseables de tributación de aquellas labores del tabaco cuyos precios de venta al público se encuentran todavía por debajo de los umbrales aconsejables desde una perspectiva sanitaria.
 
-En el ámbito del Impuesto sobre la Renta de las Personas Físicas, con el objetivo anteriormente señalado de consolidación fiscal, se suprime en el período impositivo 2012 la compensación fiscal por deducción en adquisición de vivienda habitual aplicable a los contribuyentes que adquirieron su vivienda antes de 20 de enero de 2006.
-
-Adicionalmente, se eleva el porcentaje de retención o ingreso a cuenta aplicable a los rendimientos del trabajo derivados de impartir cursos, conferencias, coloquios, seminarios y similares, o derivados de la elaboración de obras literarias, artísticas o científicas, siempre que se ceda el derecho a su explotación, y a los rendimientos de actividades profesionales, que se satisfagan o abonen a partir de 1 de septiembre de 2012, quedando fijado hasta el 31 de diciembre de 2013 en el 21 por ciento.
+En el ámbito del Impuesto sobre la Renta de las Personas Físicas, con el objetivo anteriormente señalado de consolidación fiscal, se suprime en el período impositivo 2012 la compensación fiscal por deducción en adquisición de vivienda habitual aplicable a los contribuyentes que adquirieron su vivienda antes de 20 de enero de 2006. Adicionalmente, se eleva el porcentaje de retención o ingreso a cuenta aplicable a los rendimientos del trabajo derivados de impartir cursos, conferencias, coloquios, seminarios y similares, o derivados de la elaboración de obras literarias, artísticas o científicas, siempre que se ceda el derecho a su explotación, y a los rendimientos de actividades profesionales, que se satisfagan o abonen a partir de 1 de septiembre de 2012, quedando fijado hasta el 31 de diciembre de 2013 en el 21 por ciento.
 
 En relación con el Impuesto sobre Sociedades, las medidas que contiene este Real Decreto-ley se dirigen nuevamente a las grandes empresas, con capacidad de hacer frente a un nuevo esfuerzo recaudatorio dirigido a la consecución de los objetivos de déficit público que vienen impuestos desde el ámbito comunitario.
 
@@ -170,9 +168,7 @@ Así, por un lado, se promulgó el Real Decreto-ley 1/2012, de 27 de enero, por 
 
 Posteriormente, el Real Decreto-ley 13/2012, de 30 de marzo, por el que se transponen directivas en materia de mercados interiores de electricidad y gas y en materia de comunicaciones electrónicas, y por el que se adoptan medidas para la corrección de las desviaciones por desajustes entre los costes e ingresos de los sectores eléctrico y gasista, introdujo una batería de medidas con el objetivo de contribuir a alcanzar la suficiencia de los ingresos para cubrir los costes del sistema eléctrico. Estas medidas se complementaron con la revisión de peajes de acceso a las redes de transporte y distribución de aplicación a los suministros a partir del 1 de abril de 2012, que se llevó a cabo mediante la Orden IET/843/2012, de 25 de abril, por la que se establecen los peajes de acceso a partir de 1 de abril de 2012 y determinadas tarifas y primas de las instalaciones de régimen especial.
 
-Sin embargo, debe tenerse en cuenta la reciente aprobación de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012, que condicionada por las restricciones presupuestarias, deja en suspenso la aplicación del mecanismo de compensación con cargo a los Presupuestos Generales del Estado establecido en la disposición adicional primera del Real Decreto-ley 6/2009, de 30 de abril, conforme al cual se determinan las compensaciones por los extracostes de generación de los sistemas eléctricos Insulares y extrapeninsulares. Esto supone, por tanto, la incorporación como nuevo coste del sistema eléctrico, la partida correspondiente al 17 por ciento del sobrecoste de generación de los sistemas eléctricos insulares y extrapeninsulares en el año 2011.
-
-Esta circunstancia, unida a la necesidad del cumplimiento del principio de suficiencia de los ingresos obtenidos para cubrir los costes del sistema eléctrico a partir del 1 de enero de 2013 en la que inciden los recientes pronunciamientos judiciales, hace necesario la adopción con carácter urgente de medidas adicionales que equilibren el sistema eléctrico y de tal forma que el obligado ajuste sea compartido en este duro contexto económico actual por todos los agentes del sistema.
+Sin embargo, debe tenerse en cuenta la reciente aprobación de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012, que condicionada por las restricciones presupuestarias, deja en suspenso la aplicación del mecanismo de compensación con cargo a los Presupuestos Generales del Estado establecido en la disposición adicional primera del Real Decreto-ley 6/2009, de 30 de abril, conforme al cual se determinan las compensaciones por los extracostes de generación de los sistemas eléctricos Insulares y extrapeninsulares. Esto supone, por tanto, la incorporación como nuevo coste del sistema eléctrico, la partida correspondiente al 17 por ciento del sobrecoste de generación de los sistemas eléctricos insulares y extrapeninsulares en el año 2011. Esta circunstancia, unida a la necesidad del cumplimiento del principio de suficiencia de los ingresos obtenidos para cubrir los costes del sistema eléctrico a partir del 1 de enero de 2013 en la que inciden los recientes pronunciamientos judiciales, hace necesario la adopción con carácter urgente de medidas adicionales que equilibren el sistema eléctrico y de tal forma que el obligado ajuste sea compartido en este duro contexto económico actual por todos los agentes del sistema.
 
 En relación con los costes de generación en régimen ordinario de los sistemas eléctricos insulares y extrapeninsulares, el presente real decreto-ley establece que las revisiones normativas del modelo retributivo de las centrales de producción en estos sistemas que desarrollen lo dispuesto en el Real Decreto-ley 13/2012, de 30 de marzo, serán de aplicación desde el 1 de enero de 2012. A estos efectos, se adelantan algunas de estas modificaciones del modelo retributivo, incorporando las propuestas recogidas en el Informe de la Comisión Nacional de Energía sobre el Sector Energético Español de fecha 7 de marzo de 2012, relativas a la eliminación de la retribución de los gastos de naturaleza recurrente, y a la revisión de la tasa financiera de retribución.
 
@@ -186,9 +182,7 @@ El Real Decreto-ley 13/2012, de 30 de marzo, procedió a minorar la retribución
 
 Adicionalmente, para evitar que los consumidores se vean sometidos, antes de que las medidas adoptadas puedan desplegar su plena eficacia, a nuevas revisiones de los peajes de acceso que luego puedan revelarse innecesarias, se elimina la concreta previsión de revisión trimestral de peajes de acceso mediante la derogación del artículo 2.2 del Real Decreto 1202/2010, de 24 de septiembre, por el que se establecen los plazos de revisión de los peajes de acceso a las redes de transporte y distribución de energía eléctrica.
 
-Asimismo, se da ejecución a las Sentencias de 16, 17 y 18 de marzo de 2011, de la Sala Tercera del Tribunal Supremo, recaídas en los recursos contencioso-administrativo números 73/2009, 74/2009, y 77/2009 interpuestos contra la disposición adicional octava, apartado 1 párrafo 3.º, del Real Decreto 485/2009, de 3 de abril, por el que se regula la puesta en marcha del suministro de último recurso en el sector de la energía eléctrica, relativo al tipo de interés a aplicar a los importes pendientes del déficit de ingresos en las liquidaciones de las actividades reguladas del sector eléctrico generado en 2006.
-
-En la ejecución de dichas sentencias se parte del supuesto de que no debe afectarse a las cesiones ya realizadas ni al proceso de titulización del déficit del sector eléctrico a través del mecanismo contemplado en la disposición adicional vigésimo primera de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, y desarrollado en el Real Decreto 437/2010, de 9 de abril, por el que se desarrolla la regulación del proceso de titulización del déficit del sistema eléctrico.
+Asimismo, se da ejecución a las Sentencias de 16, 17 y 18 de marzo de 2011, de la Sala Tercera del Tribunal Supremo, recaídas en los recursos contencioso-administrativo números 73/2009, 74/2009, y 77/2009 interpuestos contra la disposición adicional octava, apartado 1 párrafo 3.º, del Real Decreto 485/2009, de 3 de abril, por el que se regula la puesta en marcha del suministro de último recurso en el sector de la energía eléctrica, relativo al tipo de interés a aplicar a los importes pendientes del déficit de ingresos en las liquidaciones de las actividades reguladas del sector eléctrico generado en 2006. En la ejecución de dichas sentencias se parte del supuesto de que no debe afectarse a las cesiones ya realizadas ni al proceso de titulización del déficit del sector eléctrico a través del mecanismo contemplado en la disposición adicional vigésimo primera de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, y desarrollado en el Real Decreto 437/2010, de 9 de abril, por el que se desarrolla la regulación del proceso de titulización del déficit del sistema eléctrico.
 
 De esta manera, se establece en la presente norma el Euribor a 3 meses del mes de noviembre del año anterior como tipo de interés definitivo a efectos de cálculo del precio de cesión al Fondo, y se prevé que la diferencia que resulte entre el precio de cesión al Fondo y el que hubiera resultado con el tipo de interés que se reconoce en el presente real decreto-ley, en ejecución de la Sentencia del Tribunal Supremo, tenga la consideración de coste liquidable del sistema.
 
@@ -270,9 +264,7 @@ Al personal incluido en el artículo 31 apartado.
 
 cuatro, le serán de aplicación las reducciones previstas en el presente artículo de acuerdo a la normativa que les resulte de aplicación.
 
-4. A los miembros del Poder Judicial y del Ministerio Fiscal a que se refiere el apartado cinco del artículo 31 de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), en aplicación de lo dispuesto en el artículo 2 de este Real Decreto-ley, se les reducirá una catorceava parte de las retribuciones totales anuales que figuran en el citado artículo, incluida la paga correspondiente al mes de diciembre recogida en el Anexo X de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para 2011.
-
-5. La citada minoración se prorrateará entre las nóminas pendientes de percibir en el presente ejercicio a partir de la entrada en vigor de este Real Decreto-ley.
+4. A los miembros del Poder Judicial y del Ministerio Fiscal a que se refiere el apartado cinco del artículo 31 de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), en aplicación de lo dispuesto en el artículo 2 de este Real Decreto-ley, se les reducirá una catorceava parte de las retribuciones totales anuales que figuran en el citado artículo, incluida la paga correspondiente al mes de diciembre recogida en el Anexo X de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para 2011. 5. La citada minoración se prorrateará entre las nóminas pendientes de percibir en el presente ejercicio a partir de la entrada en vigor de este Real Decreto-ley.
 
 6. Lo dispuesto en los apartados anteriores no será de aplicación a aquellos empleados públicos cuyas retribuciones por jornada completa, excluidos incentivos al rendimiento, no alcancen en cómputo anual 1,5 veces el salario mínimo interprofesional establecido en el Real Decreto 1888/2011, de 30 de diciembre.
 
@@ -290,9 +282,7 @@ presente Real Decreto-ley, procediéndose a la supresión de la paga extraordina
 
 #### Artículo 5. Cotización al régimen general de Seguridad Social.
 
-A efectos del cálculo de la base de cotización por todas las contingencias de los empleados públicos encuadrados en el Régimen General de la Seguridad Social cuyas retribuciones sean objeto del ajuste previsto en este Real Decreto-ley, en tanto permanezca su relación laboral o de servicio, seguirá siendo de aplicación lo dispuesto en el artículo 120. Dieciséis de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio de Presupuestos Generales del Estado para 2012.
-
-#### Artículo 6. Aplicación del artículo 31 del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, al personal laboral del sector público.
+A efectos del cálculo de la base de cotización por todas las contingencias de los empleados públicos encuadrados en el Régimen General de la Seguridad Social cuyas retribuciones sean objeto del ajuste previsto en este Real Decreto-ley, en tanto permanezca su relación laboral o de servicio, seguirá siendo de aplicación lo dispuesto en el artículo 120. Dieciséis de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio de Presupuestos Generales del Estado para 2012. #### Artículo 6. Aplicación del artículo 31 del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, al personal laboral del sector público.
 
 Durante el año 2012, se suprime para el personal laboral del sector público la percepción de la gratificación extraordinaria con ocasión de las fiestas de Navidad contenida en el artículo 31 l.
 
@@ -478,9 +468,7 @@ La regulación de otros derechos sindicales, permisos o créditos horarios se es
 
 3. Se dejan sin efecto cuantos pactos, acuerdos o convenios hayan podido establecer condiciones distintas a las reguladas en este artículo y, en concreto y en lo que se oponga al mismo, el Acuerdo de 3 de diciembre de 2007 de la Mesa General de Negociación de la Administración General del Estado sobre condiciones de trabajo para el personal laboral que presta servicios en el exterior al servicio de la Administración General del Estado y sus Organismos Autónomos y, en su integridad, el Acuerdo adoptado por dicha mesa el 9 de junio de 2011 sobre Procedimiento para la elección de órganos de representación del personal laboral de la Administración General del Estado en el exterior, así como cuantos procedimientos hubieran podido iniciarse o estuviesen en curso en ejecución del mismo.
 
-4. Lo dispuesto en este artículo producirá sus efectos desde el 1 de octubre de 2012.
-
-#### Artículo 15. Asignación eficiente y evaluación de efectivos en la Administración del Estado.
+4. Lo dispuesto en este artículo producirá sus efectos desde el 1 de octubre de 2012. #### Artículo 15. Asignación eficiente y evaluación de efectivos en la Administración del Estado.
 
 En el ámbito de la Administración del Estado y los organismos y entes de derecho público dependientes o vinculados de la misma, el Ministerio de Hacienda y Administraciones Públicas adoptará, en el marco del artículo 69.2 del Estatuto Básico del Empleado Público, las medidas y actuaciones requeridas para garantizar la asignación eficiente y la optimización de sus recursos humanos. Igualmente se fijarán sistemas objetivos que permitan evaluar el desempeño de los empleados.
 
@@ -848,17 +836,9 @@ Diecisiete. Se modifican los apartados 1 y 3 de la disposición final primera, q
 
 «1. La efectividad del derecho a las prestaciones de dependencia incluidas en la presente ley se ejercitará progresivamente, de modo gradual, y se realizará de acuerdo con el siguiente calendario a partir del 1 de enero de 2007:
 
-El primer año a quienes sean valorados en el Grado III de Gran Dependencia, niveles 1 y 2.
+El primer año a quienes sean valorados en el Grado III de Gran Dependencia, niveles 1 y 2. En el segundo y tercer año a quienes sean valorados en el Grado II de Dependencia Severa, nivel 2. En el tercer y cuarto año a quienes sean valorados en el Grado II de Dependencia Severa, nivel 1. El quinto año, que finaliza el 31 de diciembre de 2011, a quienes sean valorados en el Grado I de Dependencia Moderada, Nivel 2, y se les haya reconocido la concreta prestación.
 
-En el segundo y tercer año a quienes sean valorados en el Grado II de Dependencia Severa, nivel 2.
-
-En el tercer y cuarto año a quienes sean valorados en el Grado II de Dependencia Severa, nivel 1.
-
-El quinto año, que finaliza el 31 de diciembre de 2011, a quienes sean valorados en el Grado I de Dependencia Moderada, Nivel 2, y se les haya reconocido la concreta prestación.
-
-A partir del 1 de julio de 2015 al resto de quienes fueron valorados en el Grado I de Dependencia Moderada, nivel 2.
-
-A partir del 1 de julio de 2015 a quienes hayan sido valorados en el Grado I, nivel 1, o sean valorados en el Grado I de Dependencia Moderada.»
+A partir del 1 de julio de 2015 al resto de quienes fueron valorados en el Grado I de Dependencia Moderada, nivel 2. A partir del 1 de julio de 2015 a quienes hayan sido valorados en el Grado I, nivel 1, o sean valorados en el Grado I de Dependencia Moderada.»
 
 «3. El derecho de acceso a las prestaciones derivadas del reconocimiento de la situación de dependencia se generará desde la fecha de la resolución de reconocimiento de las prestaciones o, en su caso, desde el transcurso del plazo de seis meses desde la presentación de la solicitud sin haberse dictado y notificado resolución expresa de reconocimiento de la prestación, salvo cuando se trate de las prestaciones económicas previstas en el artículo 18 que.
 
@@ -1140,11 +1120,7 @@ Estos porcentajes se reducirán a la mitad cuando los rendimientos tengan derech
 
 Tres. Se añade una disposición transitoria vigésima tercera, que queda redactada de la siguiente forma:
 
-«Disposición transitoria vigésima tercera. Tipo de retención aplicable a los rendimientos de actividades profesionales y a determinados rendimientos del trabajo en 2012 y 2013.
-
-El porcentaje de retención o ingreso a cuenta aplicable a los rendimientos previstos en el apartado 3 y en la letra a) del apartado 5, ambos del artículo 101 de esta Ley, satisfechos o abonados hasta el 31 de agosto de 2012, será el previsto en dicho artículo, en su redacción vigente a 1 de enero de 2012.
-
-El porcentaje de retención o ingreso a cuenta aplicable a dichos rendimientos que se satisfagan a abonen a partir de 1 de septiembre de 2012 será el previsto en el primer párrafo del apartado 4 de la disposición adicional trigésima quinta de esta Ley, salvo en el supuesto en el que resulte de aplicación el porcentaje del 9 por ciento previsto en el segundo párrafo de la letra a) del apartado 5 del artículo 101 de esta Ley.»
+«Disposición transitoria vigésima tercera. Tipo de retención aplicable a los rendimientos de actividades profesionales y a determinados rendimientos del trabajo en 2012 y 2013. El porcentaje de retención o ingreso a cuenta aplicable a los rendimientos previstos en el apartado 3 y en la letra a) del apartado 5, ambos del artículo 101 de esta Ley, satisfechos o abonados hasta el 31 de agosto de 2012, será el previsto en dicho artículo, en su redacción vigente a 1 de enero de 2012. El porcentaje de retención o ingreso a cuenta aplicable a dichos rendimientos que se satisfagan a abonen a partir de 1 de septiembre de 2012 será el previsto en el primer párrafo del apartado 4 de la disposición adicional trigésima quinta de esta Ley, salvo en el supuesto en el que resulte de aplicación el porcentaje del 9 por ciento previsto en el segundo párrafo de la letra a) del apartado 5 del artículo 101 de esta Ley.»
 
 #### Artículo 26. Modificaciones relativas al Impuesto sobre Sociedades.
 
@@ -1682,9 +1658,7 @@ Activos netos = D + E
 
 Fórmula en la que se tomarán D y E los valores definidos con anterioridad.
 
-Para la concreción de los anteriores componentes de la fórmula se tendrán en cuenta exclusivamente los gastos de explotación, los Activos Netos, las Deudas y los Recursos Propios, vinculados a los Campos de Vuelo y Áreas Terminales que originan las prestaciones patrimoniales de carácter público a las que se refiere el Art. 68 de la Ley 1/2011.
-
-No obstante, con objeto de suavizar el incremento de tarifas, se establece que a partir del año 2014 y durante un periodo de cinco años, para la obtención de los Ingresos Regulados Requeridos, se adicionará al resultado que arroje la fórmula descrita, los Gastos de Explotación generados por las actividades relacionadas con los precios privados de las Áreas Terminales y se deducirán así mismo, los Ingresos correspondientes a los precios privados derivados de dichas Áreas Terminales, afectados ambos por el coeficiente corrector K, que a continuación se detalla en función del año de aplicación:
+Para la concreción de los anteriores componentes de la fórmula se tendrán en cuenta exclusivamente los gastos de explotación, los Activos Netos, las Deudas y los Recursos Propios, vinculados a los Campos de Vuelo y Áreas Terminales que originan las prestaciones patrimoniales de carácter público a las que se refiere el Art. 68 de la Ley 1/2011. No obstante, con objeto de suavizar el incremento de tarifas, se establece que a partir del año 2014 y durante un periodo de cinco años, para la obtención de los Ingresos Regulados Requeridos, se adicionará al resultado que arroje la fórmula descrita, los Gastos de Explotación generados por las actividades relacionadas con los precios privados de las Áreas Terminales y se deducirán así mismo, los Ingresos correspondientes a los precios privados derivados de dichas Áreas Terminales, afectados ambos por el coeficiente corrector K, que a continuación se detalla en función del año de aplicación:
 
 Coeficiente corrector K
 
@@ -1722,9 +1696,7 @@ Tanto los coeficientes correctores como las bonificaciones propuestas se integra
 
 Los coeficientes correctores, que podrán oscilar entre el 1.30 y el 0.70, y las bonificaciones, que no superarán el 10 por ciento, se aplicarán a las cuantías unitarias de las prestaciones patrimoniales de carácter público definidas en los artículos anteriores. Los coeficientes correctores definitivos para cada aeropuerto y las bonificaciones que, en su caso, procedan se establecerán con carácter anual en la Ley de Presupuestos Generales del Estado.»
 
-#### Artículo 35. Plan Estatal de Vivienda y Rehabilitación 2009-2012.
-
-A partir de la entrada en vigor de este Real Decreto-ley quedan suprimidas las ayudas de subsidiación de préstamos contenidas en el Real Decreto 2066/2008, de 12 de diciembre, por el que se regula el Plan Estatal de Vivienda y Rehabilitación 2009-2012. Así mismo no se reconocerán aquellas solicitudes que estén en tramitación y que no hayan sido objeto de concesión por parte de la Comunidad Autónoma.
+#### Artículo 35. Plan Estatal de Vivienda y Rehabilitación 2009-2012. A partir de la entrada en vigor de este Real Decreto-ley quedan suprimidas las ayudas de subsidiación de préstamos contenidas en el Real Decreto 2066/2008, de 12 de diciembre, por el que se regula el Plan Estatal de Vivienda y Rehabilitación 2009-2012. Así mismo no se reconocerán aquellas solicitudes que estén en tramitación y que no hayan sido objeto de concesión por parte de la Comunidad Autónoma.
 
 #### Artículo 36. Renta básica de emancipación.
 
@@ -1740,17 +1712,13 @@ Así mismo, los beneficiarios cuya resolución se haya extinguido por alguna de 
 
 #### Artículo 37. Establecimiento de medidas en los sistemas eléctricos insulares y extrapeninsulares.
 
-1. Los costes fijos y variables de las centrales de generación en régimen ordinario en los sistemas eléctricos insulares y extrapeninsulares, resultantes de la aplicación de las revisiones que se establezcan en las disposiciones que desarrollen el Real Decreto-ley 13/2012, de 30 de marzo, por el que se transponen directivas en materia de mercados interiores de electricidad y gas y en materia de comunicaciones electrónicas, y por el que se adoptan medidas para la corrección de las desviaciones por desajustes entre los costes e ingresos de los sectores eléctrico y gasista, serán de aplicación para la retribución de los costes de generación reconocidos a los generadores en régimen ordinario en dichos sistemas desde el 1 de enero de 2012.
-
-2. Adicionalmente a las revisiones del modelo retributivo que se aprueben en las citadas disposiciones que modifiquen el cálculo de costes fijos y variables de las centrales de generación en régimen ordinario de los sistemas eléctricos insulares y extrapeninsulares, se establecen las siguientes medidas a aplicar desde el 1 de enero de 2012:
+1. Los costes fijos y variables de las centrales de generación en régimen ordinario en los sistemas eléctricos insulares y extrapeninsulares, resultantes de la aplicación de las revisiones que se establezcan en las disposiciones que desarrollen el Real Decreto-ley 13/2012, de 30 de marzo, por el que se transponen directivas en materia de mercados interiores de electricidad y gas y en materia de comunicaciones electrónicas, y por el que se adoptan medidas para la corrección de las desviaciones por desajustes entre los costes e ingresos de los sectores eléctrico y gasista, serán de aplicación para la retribución de los costes de generación reconocidos a los generadores en régimen ordinario en dichos sistemas desde el 1 de enero de 2012. 2. Adicionalmente a las revisiones del modelo retributivo que se aprueben en las citadas disposiciones que modifiquen el cálculo de costes fijos y variables de las centrales de generación en régimen ordinario de los sistemas eléctricos insulares y extrapeninsulares, se establecen las siguientes medidas a aplicar desde el 1 de enero de 2012:
 
 a) Se elimina la retribución de los gastos de naturaleza recurrente a los que hace referencia el apartado 3 del artículo 5 de la Orden ITC/914/2006, de 30 de marzo, por la que se establece el método de cálculo de la retribución de garantía de potencia para las instalaciones de generación en régimen ordinario de los sistemas eléctricos insulares y extrapeninsulares.
 
 b) Se revisa la tasa financiera de retribución para el cálculo de la retribución financiera de la inversión de cada grupo a la que hace referencia el apartado 2 del artículo 5 de la Orden ITC/914/2006, de 30 de marzo, que se corresponderá con el valor de los Bonos del Estado a diez años más 200 puntos básicos.
 
-c) Se reducen en un 10 por ciento los valores unitarios de la anualidad en concepto de operación y mantenimiento fijos a los que hace referencia el apartado 3 del artículo 5 de la Orden ITC/914/2006, de 30 de marzo, actualizados mediante resolución de 7 de marzo de 2011, de la Dirección General de Política Energética y Minas, por la que se publica el valor unitario de garantía de potencia anual GPOTn(i) correspondiente a las instalaciones de generación en régimen ordinario de los sistemas eléctricos insulares y extrapeninsulares para el año 2011.
-
-Se habilita al Ministerio de Industria, Energía y Turismo a revisar tanto la tasa financiera de retribución como los valores unitarios de la anualidad en concepto de operación y mantenimiento fijos a los que se hace referencia en este artículo.
+c) Se reducen en un 10 por ciento los valores unitarios de la anualidad en concepto de operación y mantenimiento fijos a los que hace referencia el apartado 3 del artículo 5 de la Orden ITC/914/2006, de 30 de marzo, actualizados mediante resolución de 7 de marzo de 2011, de la Dirección General de Política Energética y Minas, por la que se publica el valor unitario de garantía de potencia anual GPOTn(i) correspondiente a las instalaciones de generación en régimen ordinario de los sistemas eléctricos insulares y extrapeninsulares para el año 2011. Se habilita al Ministerio de Industria, Energía y Turismo a revisar tanto la tasa financiera de retribución como los valores unitarios de la anualidad en concepto de operación y mantenimiento fijos a los que se hace referencia en este artículo.
 
 #### Artículo 38. Modificación de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico.
 
@@ -1802,9 +1770,7 @@ La disposición adicional octava.1 del Real Decreto 485/2009, de 3 de abril, por
 
 «1. Se reconoce la existencia de un déficit de ingresos en las liquidaciones de las actividades reguladas del sector eléctrico generado en 2006, incluyendo la minoración de la retribución para 2006 de la actividad de producción de energía eléctrica en el importe equivalente al valor de los derechos de emisión de gases de efecto invernadero asignados gratuitamente, que asciende a un valor a 31 de diciembre de 2006, de 2.279.940.066,63 euros.
 
-Esta cuantía se recuperará a través de la tarifa eléctrica durante un periodo de quince años a contar desde el 1 de enero de 2007. El importe pendiente de pago devengará intereses de actualización cada año desde el 31 de diciembre de 2006.
-
-El importe de los intereses será anual, aplicando el EURIBOR a tres meses de la media de las cotizaciones del mes de noviembre del año anterior más un diferencial de 65 puntos básicos al importe a recuperar a 31 de diciembre de cada año.»
+Esta cuantía se recuperará a través de la tarifa eléctrica durante un periodo de quince años a contar desde el 1 de enero de 2007. El importe pendiente de pago devengará intereses de actualización cada año desde el 31 de diciembre de 2006. El importe de los intereses será anual, aplicando el EURIBOR a tres meses de la media de las cotizaciones del mes de noviembre del año anterior más un diferencial de 65 puntos básicos al importe a recuperar a 31 de diciembre de cada año.»
 
 #### Artículo 41. Modificación del Real Decreto 437/2010, de 9 de abril, por el que se desarrolla la regulación del proceso de titulización del déficit del sistema eléctrico.
 
@@ -1844,9 +1810,7 @@ De acuerdo con lo previsto en el artículo 1.1 de la Ley Orgánica 2/2012, de 27
 
 1. Los funcionarios de la Administración General del Estado pertenecientes a los Subgrupos A1 y A2, incluidos en el ámbito de aplicación del [Real Decreto 598/1985](RD598_1985_incompatibilidades_personal_servicio_administracion_estado_seguridad.md), de 30 de abril, podrán solicitar ante las órganos y unidades de personal con competencias en materia de personal de los Departamentos, Organismos Autónomos y Entidades gestoras de la Seguridad Social en los que estén destinados la reducción del importe del complemento específico correspondiente al puesto que desempeñan al objeto de adecuarlo al porcentaje al que se refiere el artículo 16.4 de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas.
 
-2. Se excluye de esta posibilidad a los funcionarios que ocupen puestos en Gabinetes de miembros del Gobierno y altos cargos de la Administración General del Estado, a los que desempeñen puestos que tengan asignado complemento de destino de nivel 30 y 29.
-
-#### Disposición adicional sexta. Adecuación para los miembros de las Fuerzas Armadas y de la Guardia Civil.
+2. Se excluye de esta posibilidad a los funcionarios que ocupen puestos en Gabinetes de miembros del Gobierno y altos cargos de la Administración General del Estado, a los que desempeñen puestos que tengan asignado complemento de destino de nivel 30 y 29. #### Disposición adicional sexta. Adecuación para los miembros de las Fuerzas Armadas y de la Guardia Civil.
 
 1. Las disposiciones de carácter general que, para los miembros de las Fuerzas Armadas y de la Guardia Civil, regulan las materias contenidas en el título I deberán entenderse modificadas en los términos establecidos en esta disposición legal.
 
@@ -1918,23 +1882,13 @@ En la determinación de estos criterios se tendrá en cuenta el consumo medio de
 
 Se habilita al Ministro de Industria, Energía y Turismo a determinar, previo Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, los concretos tributos y recargos que serán considerados a efectos de la aplicación del suplemento territorial a los peajes de acceso y tarifas de último recurso, de acuerdo con lo establecido en los artículos 17 y 18 de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, así como los mecanismos necesarios para su gestión y liquidación
 
-Disposición adicional decimosexta.... Aplicación de la disposición adicional sexta de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012.
-
-A los efectos de la aplicación de la disposición adicional sexta de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012, la consideración de los porcentajes de cesión a favor de las entidades locales incluidas en el modelo de cesión de impuestos estatales, citados en los apartados Uno y Tres de dicha disposición, a efectos de calcular la liquidación definitiva correspondiente al año 2010, se deberán entender de aplicación exclusiva para determinar la cesión del Impuesto sobre la Renta de las Personas Físicas. Por lo que se refiere a la citada liquidación de la cesión de los impuestos indirectos serán de aplicación los porcentajes de cesión establecidos en los artículos 93, 94, 95, 101, 102 y 103 de la Ley 26/2009, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2010.»
+Disposición adicional decimosexta.... Aplicación de la disposición adicional sexta de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012. A los efectos de la aplicación de la disposición adicional sexta de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012, la consideración de los porcentajes de cesión a favor de las entidades locales incluidas en el modelo de cesión de impuestos estatales, citados en los apartados Uno y Tres de dicha disposición, a efectos de calcular la liquidación definitiva correspondiente al año 2010, se deberán entender de aplicación exclusiva para determinar la cesión del Impuesto sobre la Renta de las Personas Físicas. Por lo que se refiere a la citada liquidación de la cesión de los impuestos indirectos serán de aplicación los porcentajes de cesión establecidos en los artículos 93, 94, 95, 101, 102 y 103 de la Ley 26/2009, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2010.»
 
 Disposición adicional decimoséptima.... Beneficios fiscales aplicables a la «Candidatura de Madrid 2020».
 
 Uno. La «Candidatura de Madrid 2020» tendrá la consideración de acontecimiento de excepcional interés público a los efectos de lo dispuesto en el artículo 27 de la Ley 49/2002, de 23 de diciembre, de régimen fiscal de las entidades sin fines lucrativos y de los incentivos fiscales al mecenazgo.
 
-Dos. La duración del programa de apoyo a este acontecimiento abarcará los ejercicios 2012 y 2013.
-
-Tres. La certificación de la adecuación de los gastos realizados a los objetivos y planes del programa se efectuará en conformidad a lo dispuesto en la citada Ley 49/2002.
-
-Cuatro. Las actuaciones a realizar serán las que aseguren el adecuado desarrollo del acontecimiento. El desarrollo y concreción en planes y programas de actividades específicas se realizará por el órgano competente en conformidad a lo dispuesto en la citada Ley 49/2002.
-
-Cinco. Los beneficios fiscales de este programa serán los máximos establecidos en el artículo 27.3 de la citada Ley 49/2002.
-
-Disposición adicional decimoctava.... Incapacidad temporal en la Administración del Estado.
+Dos. La duración del programa de apoyo a este acontecimiento abarcará los ejercicios 2012 y 2013. Tres. La certificación de la adecuación de los gastos realizados a los objetivos y planes del programa se efectuará en conformidad a lo dispuesto en la citada Ley 49/2002. Cuatro. Las actuaciones a realizar serán las que aseguren el adecuado desarrollo del acontecimiento. El desarrollo y concreción en planes y programas de actividades específicas se realizará por el órgano competente en conformidad a lo dispuesto en la citada Ley 49/2002. Cinco. Los beneficios fiscales de este programa serán los máximos establecidos en el artículo 27.3 de la citada Ley 49/2002. Disposición adicional decimoctava.... Incapacidad temporal en la Administración del Estado.
 
 Al personal funcionario y laboral de la Administración General del Estado y organismos y entidades de ellas dependientes acogidos al Régimen General de la Seguridad Social se le reconocerán los siguientes complementos en los supuestos de incapacidad temporal:
 
@@ -2132,15 +2086,11 @@ Grado I Dependencia Moderada
 
 #### Disposición transitoria decimotercera. Convenios especiales en el Sistema de la Seguridad Social de los cuidadores no profesionales de las personas en situación de dependencia existentes a la fecha de entrada en vigor de este real decreto-ley.
 
-Los convenios especiales en el Sistema de la Seguridad Social de los cuidadores no profesionales de las personas en situación de dependencia previstos en el Real Decreto 615/2007, de 11 de mayo, por el que se regula la Seguridad Social de los cuidadores de las personas en situación de dependencia, existentes a la fecha de entrada en vigor de este real decreto-ley, se extinguirán el día 31 de agosto de 2012, salvo que el suscriptor solicite expresamente el mantenimiento del mismo con anterioridad al día 1 de noviembre de 2012, en cuyo caso se entenderá subsistente dicho convenio desde el día 1 de septiembre de 2012.
-
-En este último caso, desde el día 1 de septiembre hasta el 31 de diciembre de 2012 la cotización a la Seguridad Social tendrá una reducción del 10% en el total de la cuota a abonar, siendo a cargo de la Administración General del Estado el 5% del total de la cuota y el 85% restante a cargo del cuidador no profesional.
+Los convenios especiales en el Sistema de la Seguridad Social de los cuidadores no profesionales de las personas en situación de dependencia previstos en el Real Decreto 615/2007, de 11 de mayo, por el que se regula la Seguridad Social de los cuidadores de las personas en situación de dependencia, existentes a la fecha de entrada en vigor de este real decreto-ley, se extinguirán el día 31 de agosto de 2012, salvo que el suscriptor solicite expresamente el mantenimiento del mismo con anterioridad al día 1 de noviembre de 2012, en cuyo caso se entenderá subsistente dicho convenio desde el día 1 de septiembre de 2012. En este último caso, desde el día 1 de septiembre hasta el 31 de diciembre de 2012 la cotización a la Seguridad Social tendrá una reducción del 10% en el total de la cuota a abonar, siendo a cargo de la Administración General del Estado el 5% del total de la cuota y el 85% restante a cargo del cuidador no profesional.
 
 A partir del día 1 de enero de 2013, el convenio especial será a cargo exclusivamente del cuidador no profesional.
 
-#### Disposición transitoria decimocuarta. Vigencia transitoria de los calendarios de 2012.
-
-Continuarán vigentes, hasta el 31 de diciembre de 2012, los calendarios de domingos y festivos, ya aprobados, en que los comercios podrán permanecer abiertos al público.
+#### Disposición transitoria decimocuarta. Vigencia transitoria de los calendarios de 2012. Continuarán vigentes, hasta el 31 de diciembre de 2012, los calendarios de domingos y festivos, ya aprobados, en que los comercios podrán permanecer abiertos al público.
 
 Asimismo, los calendarios que regulen el periodo estival de rebajas de 2012 mantendrán su vigencia durante el periodo en ellos establecido.
 
@@ -2166,9 +2116,7 @@ a) El apartado 3.3 de la Disposición transitoria quinta de la Ley 45/2002, de 1
 
 b) Artículo 4.1 de la Ley 43/2006, de 29 de diciembre, para la mejora del crecimiento y del empleo.
 
-c) Disposición adicional sexagésima quinta de la Ley 30/2005, de 29 de diciembre, de Presupuestos Generales del Estado para el año 2006.
-
-d) Disposición adicional segunda del Real Decreto 63/2006, de 27 de enero, por el que se aprueba el Estatuto del personal investigador en formación.
+c) Disposición adicional sexagésima quinta de la Ley 30/2005, de 29 de diciembre, de Presupuestos Generales del Estado para el año 2006. d) Disposición adicional segunda del Real Decreto 63/2006, de 27 de enero, por el que se aprueba el Estatuto del personal investigador en formación.
 
 e) Disposición adicional vigésima de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio.
 
@@ -2196,9 +2144,7 @@ c) La letra d del apartado 1 del artículo 67, el segundo párrafo del apartado 
 
 apartado 4 del artículo 67 de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.
 
-d) La Disposición Adicional Sexta de la Ley 26/2009, de 23 de diciembre, de Presupuestos Generales del Estado para 2010.
-
-5. Se deroga el artículo 21.1.a) del Real Decreto Legislativo 4/2000, de 23 de junio, por el que se aprueba el texto refundido de la Ley sobre Seguridad Social de los Funcionarios Civiles del Estado, la disposición adicional sexta de la Ley 26/2009, de 26 de diciembre, de Presupuestos Generales del Estado para el año 2010, el artículo 20.1.a) del Real Decreto legislativo 1/2000, de 9 de junio, por el que se aprueba el Texto Refundido de la Ley sobre Seguridad Social de las Fuerzas Armadas y el artículo 20.1.A del Real Decreto Legislativo 3/2000, de 23 de junio, por el que se aprueba el texto refundido de las disposiciones legales vigentes sobre el régimen especial de seguridad social del personal al servicio de la Administración de Justicia.
+d) La Disposición Adicional Sexta de la Ley 26/2009, de 23 de diciembre, de Presupuestos Generales del Estado para 2010. 5. Se deroga el artículo 21.1.a) del Real Decreto Legislativo 4/2000, de 23 de junio, por el que se aprueba el texto refundido de la Ley sobre Seguridad Social de los Funcionarios Civiles del Estado, la disposición adicional sexta de la Ley 26/2009, de 26 de diciembre, de Presupuestos Generales del Estado para el año 2010, el artículo 20.1.a) del Real Decreto legislativo 1/2000, de 9 de junio, por el que se aprueba el Texto Refundido de la Ley sobre Seguridad Social de las Fuerzas Armadas y el artículo 20.1.A del Real Decreto Legislativo 3/2000, de 23 de junio, por el que se aprueba el texto refundido de las disposiciones legales vigentes sobre el régimen especial de seguridad social del personal al servicio de la Administración de Justicia.
 
 6. Asimismo, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en este real decreto-ley.
 
@@ -2258,9 +2204,7 @@ Las fundaciones, sociedades mercantiles y resto de entidades que conforman el se
 
 En el marco de las normas vigentes en materia de transparencia, las entidades mencionadas en el párrafo anterior, deberán informar al Ministerio de Hacienda y Administraciones Públicas u organismo autonómico competente en relación con estas materias, sin perjuicio de la protección de datos de carácter personal.
 
-#### Disposición final novena. Modificación de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de abril, de Presupuestos Generales del Estado para 2012.
-
-Se da nueva redacción al artículo 18 de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de abril, de Presupuestos Generales del Estado para 2012 que queda redactado en los siguientes términos:
+#### Disposición final novena. Modificación de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de abril, de Presupuestos Generales del Estado para 2012. Se da nueva redacción al artículo 18 de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de abril, de Presupuestos Generales del Estado para 2012 que queda redactado en los siguientes términos:
 
 «Al amparo de lo dispuesto en la disposición adicional primera de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, se autorizan los costes de personal docente (funcionario y contratado) y del personal de administración y servicios (funcionario y laboral fijo) de la Universidad Nacional de Educación a Distancia (UNED) para el año 2012 y por los importes consignados a continuación, sin incluir trienios ni seguridad social:
 
@@ -2280,21 +2224,13 @@ Miles de euros
 
 25.426,66
 
-#### Disposición final décima. Modificación de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012.
-
-Uno. Se modifica el apartado seis del artículo 17 de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012, que queda redactado en los siguientes términos:
+#### Disposición final décima. Modificación de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012. Uno. Se modifica el apartado seis del artículo 17 de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012, que queda redactado en los siguientes términos:
 
 «Seis. Las cantidades máximas a percibir de los alumnos en concepto de financiación complementaria a la proveniente de los fondos públicos que se asignen al régimen de conciertos singulares, suscritos para enseñanzas de niveles no obligatorios, y en concepto exclusivo de enseñanza reglada, son las que se establecen a continuación:
 
-a) **Ciclos formativos de grado superior.** Entre 18 y 36 euros alumno/mes durante diez meses, en el período comprendido entre el 1 de enero y el 31 de diciembre de 2012.
+a) **Ciclos formativos de grado superior.** Entre 18 y 36 euros alumno/mes durante diez meses, en el período comprendido entre el 1 de enero y el 31 de diciembre de 2012. b) **Bachillerato.** Entre 18 y 36 euros alumno/mes durante diez meses, en el período comprendido entre el 1 de enero y el 31 de diciembre de 2012. La financiación obtenida por los centros, consecuencia del cobro a los alumnos de estas cantidades, tendrá el carácter de complementaria a la abonada directamente por la Administración para la financiación de los «otros gastos».
 
-b) **Bachillerato.** Entre 18 y 36 euros alumno/mes durante diez meses, en el período comprendido entre el 1 de enero y el 31 de diciembre de 2012.
-
-La financiación obtenida por los centros, consecuencia del cobro a los alumnos de estas cantidades, tendrá el carácter de complementaria a la abonada directamente por la Administración para la financiación de los «otros gastos».
-
-Los centros que en el año 2011 estuvieran autorizados para percibir cuotas superiores a las señaladas podrán mantenerlas para el ejercicio 2012.
-
-La cantidad abonada por la Administración no podrá ser inferior a la resultante de minorar en 3.606,08 euros el importe correspondiente al componente de «otros gastos» de los módulos económicos establecidos en el anexo IV de la presente Ley, pudiendo las Administraciones educativas competentes establecer la regulación necesaria al respecto.»
+Los centros que en el año 2011 estuvieran autorizados para percibir cuotas superiores a las señaladas podrán mantenerlas para el ejercicio 2012. La cantidad abonada por la Administración no podrá ser inferior a la resultante de minorar en 3.606,08 euros el importe correspondiente al componente de «otros gastos» de los módulos económicos establecidos en el anexo IV de la presente Ley, pudiendo las Administraciones educativas competentes establecer la regulación necesaria al respecto.»
 
 Dos. Los anexos IV y V de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012 quedan redactados de la siguiente forma:
 
@@ -2304,13 +2240,13 @@ Módulos económicos de distribución de fondos públicos para sostenimiento de 
 
 Conforme a lo dispuesto en el artículo 17 de esta Ley, los importes anuales y desglose de los módulos económicos por unidad escolar en los centros concertados de los distintos niveles y modalidades educativas quedan establecidos con efectos de 1 de enero, y hasta el 31 de diciembre de 2012 de la siguiente forma:
 
-Â
+
 
 Euros
 
 EDUCACIÓN INFANTIL Y PRIMARIA
 
-Â
+
 
 Salarios de personal docente, incluidas cargas sociales.
 
@@ -2330,11 +2266,11 @@ IMPORTE TOTAL ANUAL.
 
 EDUCACIÓN ESPECIAL (*) (niveles obligatorios y gratuitos)
 
-Â
+
 
 I. Educación Básica/Primaria.
 
-Â
+
 
 Salarios de personal docente, incluidas cargas sociales.
 
@@ -2354,7 +2290,7 @@ IMPORTE TOTAL ANUAL.
 
 Personal Complementario (Logopedas, fisioterapeutas, ayudantes técnicos educativos, psicólogo-pedagogo y trabajador social), según deficiencias:
 
-Â
+
 
 Psíquicos.
 
@@ -2374,7 +2310,7 @@ Plurideficiente.
 
 II. Programas de formación para la transición a la vida adulta.
 
-Â
+
 
 Salarios de personal docente, incluidas cargas sociales.
 
@@ -2394,7 +2330,7 @@ IMPORTE TOTAL ANUAL.
 
 Personal Complementario (Logopedas, fisioterapeutas, ayudantes técnicos educativos, psicólogo-pedagogo y trabajador social), según deficiencias:
 
-Â
+
 
 Psíquicos.
 
@@ -2414,11 +2350,11 @@ Plurideficientes.
 
 EDUCACIÓN SECUNDARIA OBLIGATORIA.
 
-Â
+
 
 I. Primer y segundo curso (1).
 
-Â
+
 
 Salarios de personal docente, incluidas cargas sociales.
 
@@ -2438,7 +2374,7 @@ IMPORTE TOTAL ANUAL.
 
 I. Primer y segundo curso (2)...
 
-Â
+
 
 Salarios de personal docente, incluidas cargas sociales.
 
@@ -2458,7 +2394,7 @@ IMPORTE TOTAL ANUAL.
 
 II. Tercer y cuarto curso.
 
-Â
+
 
 Salarios de personal docente, incluidas cargas sociales.
 
@@ -2478,7 +2414,7 @@ IMPORTE TOTAL ANUAL.
 
 BACHILLERATO.
 
-Â
+
 
 Salarios de personal docente, incluidas cargas sociales.
 
@@ -2498,15 +2434,15 @@ IMPORTE TOTAL ANUAL.
 
 CICLOS FORMATIVOS.
 
-Â
+
 
 I. Salarios de personal docente, incluidas cargas sociales.
 
-Â
+
 
 Grupo 1. Ciclos formativos de grado medio de 1.300 a 1.700 horas.
 
-Â
+
 
 Primer curso.
 
@@ -2516,7 +2452,7 @@ Primer curso.
 
 Grupo 2. Ciclos formativos de grado medio de 2.000 horas.
 
-Â
+
 
 Primer curso.
 
@@ -2528,7 +2464,7 @@ Primer curso.
 
 Grupo 3. Ciclos formativos de grado superior de 1.300 a 1.700 horas.
 
-Â
+
 
 Primer curso.
 
@@ -2538,7 +2474,7 @@ Primer curso.
 
 Grupo 4. Ciclos formativos de grado superior de 2.000 horas.
 
-Â
+
 
 Primer curso.
 
@@ -2550,11 +2486,11 @@ Primer curso.
 
 II. Gastos variables.
 
-Â
+
 
 Grupo 1. Ciclos formativos de grado medio de 1.300 a 1.700 horas.
 
-Â
+
 
 Primer curso.
 
@@ -2564,7 +2500,7 @@ Primer curso.
 
 Grupo 2. Ciclos formativos de grado medio de 2.000 horas.
 
-Â
+
 
 Primer curso.
 
@@ -2576,7 +2512,7 @@ Primer curso.
 
 Grupo 3. Ciclos formativos de grado superior de 1.300 a 1.700 horas.
 
-Â
+
 
 Primer curso.
 
@@ -2586,7 +2522,7 @@ Primer curso.
 
 Grupo 4. Ciclos formativos de grado superior de 2.000 horas.
 
-Â
+
 
 Primer curso.
 
@@ -2598,31 +2534,31 @@ Primer curso.
 
 III. Otros gastos.
 
-Â
+
 
 Grupo 1. Ciclos formativos de:
 
-Â
+
 
 – Conducción de Actividades Físico Deportivas en el Medio Natural.
 
-Â
+
 
 – Animación Turística.
 
-Â
+
 
 – Estética Personal Decorativa.
 
-Â
+
 
 – Química Ambiental.
 
-Â
+
 
 – Higiene Bucodental.
 
-Â
+
 
 Primer curso.
 
@@ -2634,67 +2570,67 @@ Primer curso.
 
 Grupo 2. Ciclos formativos de:
 
-Â
+
 
 – Secretariado.
 
-Â
+
 
 – Buceo a Media Profundidad.
 
-Â
+
 
 – Laboratorio de Imagen.
 
-Â
+
 
 – Comercio.
 
-Â
+
 
 – Gestión Comercial y Marketing.
 
-Â
+
 
 – Servicios al Consumidor.
 
-Â
+
 
 – Elaboración de Productos Lácteos.
 
-Â
+
 
 – Matadero y Carnicería-Charcutería.
 
-Â
+
 
 – Molinería e Industrias Cerealistas.
 
-Â
+
 
 – Laboratorio.
 
-Â
+
 
 – Fabricación de Productos Farmacéuticos y Afines.
 
-Â
+
 
 – Cuidados Auxiliares de Enfermería.
 
-Â
+
 
 – Documentación Sanitaria.
 
-Â
+
 
 – Curtidos.
 
-Â
+
 
 – Procesos de Ennoblecimiento Textil.
 
-Â
+
 
 Primer curso
 
@@ -2706,35 +2642,35 @@ Segundo curso
 
 Grupo 3. Ciclos formativos de:
 
-Â
+
 
 – Conservería Vegetal, Cárnica y de Pescado.
 
-Â
+
 
 – Transformación de Madera y Corcho.
 
-Â
+
 
 – Operaciones de Fabricación de Productos Farmacéuticos.
 
-Â
+
 
 – Operaciones de Transformación de Plásticos y Caucho.
 
-Â
+
 
 – Industrias de Proceso de Pasta y Papel.
 
-Â
+
 
 – Plástico y Caucho.
 
-Â
+
 
 – Operaciones de Ennoblecimiento Textil.
 
-Â
+
 
 Primer curso
 
@@ -2746,55 +2682,55 @@ Segundo curso
 
 Grupo 4. Ciclos formativos de
 
-Â
+
 
 – Encuadernados y Manipulados de Papel y Cartón.
 
-Â
+
 
 – Impresión en Artes Gráficas.
 
-Â
+
 
 – Fundición.
 
-Â
+
 
 – Tratamientos Superficiales y Térmicos.
 
-Â
+
 
 – Calzado y Marroquinería.
 
-Â
+
 
 – Producción de Hilatura y Tejeduría de Calada.
 
-Â
+
 
 – Producción de Tejidos de Punto.
 
-Â
+
 
 – Procesos de Confección Industrial.
 
-Â
+
 
 – Procesos Textiles de Hilatura y Tejeduría de Calada.
 
-Â
+
 
 – Procesos Textiles de Tejeduría de Punto.
 
-Â
+
 
 – Operaciones de Fabricación de Vidrio y Transformados.
 
-Â
+
 
 – Fabricación y Transformación de Productos de Vidrio.
 
-Â
+
 
 Primer curso
 
@@ -2806,27 +2742,27 @@ Segundo curso
 
 Grupo 5. Ciclos formativos de:
 
-Â
+
 
 – Realización y Planes de Obra.
 
-Â
+
 
 – Asesoría de Imagen Personal.
 
-Â
+
 
 – Radioterapia.
 
-Â
+
 
 – Animación Sociocultural.
 
-Â
+
 
 – Integración Social.
 
-Â
+
 
 Primer curso
 
@@ -2838,11 +2774,11 @@ Segundo curso
 
 Grupo 6. Ciclos formativos de:
 
-Â
+
 
 – Operaciones de Cultivo Acuícola.
 
-Â
+
 
 Primer curso
 
@@ -2854,223 +2790,223 @@ Segundo curso
 
 Grupo 7. Ciclos formativos de:
 
-Â
+
 
 – Aceites de oliva y vinos.
 
-Â
+
 
 – Gestión Administrativa.
 
-Â
+
 
 – Explotaciones Ganaderas.
 
-Â
+
 
 – Jardinería.
 
-Â
+
 
 – Trabajos Forestales y de Conservación de Medio Natural.
 
-Â
+
 
 – Gestión y Organización de Empresas Agropecuarias.
 
-Â
+
 
 – Gestión y Organización de Recursos Naturales y Paisajísticos.
 
-Â
+
 
 – Administración y Finanzas.
 
-Â
+
 
 – Pesca y Transporte Marítimo.
 
-Â
+
 
 – Navegación, Pesca y Transporte Marítimo.
 
-Â
+
 
 – Producción de Audiovisuales, Radio y Espectáculos.
 
-Â
+
 
 – Comercio Internacional.
 
-Â
+
 
 – Gestión del Transporte.
 
-Â
+
 
 – Obras de Albañilería.
 
-Â
+
 
 – Obras de Hormigón.
 
-Â
+
 
 – Operación y Mantenimiento de Maquinaria de Construcción.
 
-Â
+
 
 – Desarrollo y Aplicación de Proyectos de Construcción.
 
-Â
+
 
 – Desarrollo de Proyectos Urbanísticos y Operaciones Topográficas.
 
-Â
+
 
 – Óptica de Anteojería.
 
-Â
+
 
 – Gestión de alojamientos turísticos.
 
-Â
+
 
 – Servicios en restauración.
 
-Â
+
 
 – Caracterización.
 
-Â
+
 
 – Peluquería.
 
-Â
+
 
 – Estética.
 
-Â
+
 
 – Elaboración de Productos Alimenticios.
 
-Â
+
 
 – Panadería, repostería y confitería.
 
-Â
+
 
 – Administración de Sistemas Informáticos.
 
-Â
+
 
 – Administración de Sistemas Informáticos en Red.
 
-Â
+
 
 – Desarrollo de Aplicaciones Informáticas.
 
-Â
+
 
 – Administración de Aplicaciones Multiplataforma.
 
-Â
+
 
 – Desarrollo de Productos de Carpintería y Mueble.
 
-Â
+
 
 – Prevención de riesgos profesionales.
 
-Â
+
 
 – Anatomía Patológica y Citología.
 
-Â
+
 
 – Salud Ambiental.
 
-Â
+
 
 – Laboratorio de análisis y de control de calidad.
 
-Â
+
 
 – Química industrial.
 
-Â
+
 
 – Planta química.
 
-Â
+
 
 – Dietética.
 
-Â
+
 
 – Imagen para el Diagnóstico.
 
-Â
+
 
 – Laboratorio de Diagnóstico Clínico.
 
-Â
+
 
 – Ortoprotésica.
 
-Â
+
 
 – Audiología protésica.
 
-Â
+
 
 – Emergencias Sanitarias.
 
-Â
+
 
 – Farmacia y Parafarmacia.
 
-Â
+
 
 – Interpretación de la Lengua de Signos.
 
-Â
+
 
 – Atención Sociosanitaria.
 
-Â
+
 
 – Educación Infantil.
 
-Â
+
 
 – Desarrollo de Aplicaciones Web.
 
-Â
+
 
 – Dirección de Cocina.
 
-Â
+
 
 – Guía de Información y Asistencia Turísticas.
 
-Â
+
 
 – Agencias de Viajes y Gestión de Eventos.
 
-Â
+
 
 – Dirección de Servicios de Restauración.
 
-Â
+
 
 – Diseño y Producción de Calzado y Complementos.
 
-Â
+
 
 – Proyectos de Edificación.
 
-Â
+
 
 Primer curso
 
@@ -3082,83 +3018,83 @@ Segundo curso
 
 Grupo 8. Ciclos formativos de:
 
-Â
+
 
 – Producción Agroecológica.
 
-Â
+
 
 – Producción Agropecuaria.
 
-Â
+
 
 – Explotaciones Agrarias Extensivas.
 
-Â
+
 
 – Explotaciones Agrícolas Intensivas.
 
-Â
+
 
 – Operación, Control y Mantenimiento de Maquinaria e Instalaciones del Buque.
 
-Â
+
 
 – Supervisión y Control de Máquinas e Instalaciones del Buque.
 
-Â
+
 
 – Equipos Electrónicos de Consumo.
 
-Â
+
 
 – Desarrollo de Productos Electrónicos.
 
-Â
+
 
 – Instalaciones Electrotécnicas.
 
-Â
+
 
 – Sistemas de Regulación y Control Automáticos.
 
-Â
+
 
 – Instalaciones de Telecomunicación.
 
-Â
+
 
 – Instalaciones eléctricas y automáticas.
 
-Â
+
 
 – Sistemas microinformático y redes.
 
-Â
+
 
 – Acabados de Construcción.
 
-Â
+
 
 – Cocina y Gastronomía.
 
-Â
+
 
 – Mantenimiento de Aviónica.
 
-Â
+
 
 – Prótesis Dentales.
 
-Â
+
 
 – Confección y Moda.
 
-Â
+
 
 – Patronaje y Moda.
 
-Â
+
 
 Primer curso
 
@@ -3170,95 +3106,95 @@ Segundo curso
 
 Grupo 9. Ciclos formativos de:
 
-Â
+
 
 – Animación de Actividades Físicas y Deportivas.
 
-Â
+
 
 – Diseño y Producción Editorial.
 
-Â
+
 
 – Producción en Industrias de Artes Gráficas.
 
-Â
+
 
 – Imagen.
 
-Â
+
 
 – Realización de Audiovisuales y Espectáculos.
 
-Â
+
 
 – Sonido.
 
-Â
+
 
 – Sistemas de Telecomunicación e Informáticos.
 
-Â
+
 
 – Desarrollo de Proyectos Mecánicos.
 
-Â
+
 
 – Producción por Fundición y Pulvimetalurgia.
 
-Â
+
 
 – Programación de la producción en fabricación mecánica.
 
-Â
+
 
 – Diseño en fabricación mecánica.
 
-Â
+
 
 – Fabricación a medida e instalación de Madera y Mueble.
 
-Â
+
 
 – Carpinteria y Mueble.
 
-Â
+
 
 – Producción de Madera y Mueble.
 
-Â
+
 
 – Montaje y Mantenim. de Instalaciones de Frío, Climatización y Produc. de Calor.
 
-Â
+
 
 – Desarrollo de Proyectos de Instalaciones Térmicas y Fluidos.
 
-Â
+
 
 – Mantenimiento de Instalaciones Térmicas y de Fluidos.
 
-Â
+
 
 – Carrocería.
 
-Â
+
 
 – Electromecánica de vehículos.
 
-Â
+
 
 – Automoción.
 
-Â
+
 
 – Mantenimiento Aeromecánico.
 
-Â
+
 
 – Eficiencia Energética y Energía Solar Térmica.
 
-Â
+
 
 Primer curso
 
@@ -3270,63 +3206,63 @@ Segundo curso
 
 Grupo 10. Ciclos formativos de:
 
-Â
+
 
 – Producción Acuícola.
 
-Â
+
 
 – Vitivinicultura.
 
-Â
+
 
 – Preimpresión en Artes Gráficas.
 
-Â
+
 
 – Joyería.
 
-Â
+
 
 – Mecanizado.
 
-Â
+
 
 – Soldadura y Calderería.
 
-Â
+
 
 – Construcciones Metálicas.
 
-Â
+
 
 – Industria Alimentaria.
 
-Â
+
 
 – Procesos de Calidad en la Industria Alimentaria.
 
-Â
+
 
 – Instalación y Mantenim. Electromecánico de Maquinaria y Conducción de Líneas.
 
-Â
+
 
 – Mantenimiento Ferroviario.
 
-Â
+
 
 – Mantenimiento de Equipo Industrial.
 
-Â
+
 
 – Fabricación de Productos Cerámicos.
 
-Â
+
 
 – Desarrollo y Fabricación de Productos Cerámicos.
 
-Â
+
 
 Primer curso
 
@@ -3338,7 +3274,7 @@ Segundo curso
 
 PROGRAMAS DE CUALIFICACIÓN PROFESIONAL INICIAL.
 
-Â
+
 
 I. Salarios de personal docente, incluidas cargas sociales
 
@@ -3350,7 +3286,7 @@ II. Gastos variables
 
 III. Otros Gastos.
 
-Â
+
 
 Grupo 1
 
@@ -3358,47 +3294,47 @@ Grupo 1
 
 (*) Sobre Cualificaciones Nivel 1 de las Familias Profesionales de:
 
-Â
+
 
 – Administración.
 
-Â
+
 
 – Administración y Gestión.
 
-Â
+
 
 – Artesanías.
 
-Â
+
 
 – Comercio y Marketing.
 
-Â
+
 
 – Hostelería y Turismo.
 
-Â
+
 
 – Imagen Personal.
 
-Â
+
 
 – Química.
 
-Â
+
 
 – Sanidad.
 
-Â
+
 
 – Seguridad y Medio Ambiente.
 
-Â
+
 
 – Servicios Socioculturales y a la Comunidad.
 
-Â
+
 
 Grupo 2
 
@@ -3406,83 +3342,83 @@ Grupo 2
 
 * Sobre Cualificaciones Nivel 1 de las Familias Profesionales de:
 
-Â
+
 
 – Actividades Agrarias.
 
-Â
+
 
 – Agraria.
 
-Â
+
 
 – Artes Gráficas.
 
-Â
+
 
 – Comunicación, Imagen y Sonido.
 
-Â
+
 
 – Imagen y Sonido.
 
-Â
+
 
 – Edificación y Obra Civil.
 
-Â
+
 
 – Electricidad y Electrónica.
 
-Â
+
 
 – Energía y Agua.
 
-Â
+
 
 – Fabricación Mecánica.
 
-Â
+
 
 – Industrias Alimentarias.
 
-Â
+
 
 – Industrias Extractivas.
 
-Â
+
 
 – Madera y Mueble.
 
-Â
+
 
 – Madera, Mueble y Corcho.
 
-Â
+
 
 – Mantenimiento de Vehículos Autopropulsados.
 
-Â
+
 
 – Transporte y Mantenimiento de Vehículos.
 
-Â
+
 
 – Mantenimiento y Servicios a la Producción.
 
-Â
+
 
 – Marítimo-Pesquera.
 
-Â
+
 
 – Instalación y Mantenimiento.
 
-Â
+
 
 – Textil, Confección y Piel.
 
-Â
+
 
 (1) A los maestros que imparten 1.º y 2.º curso de Educación Secundaria Obligatoria las Administraciones Educativas abonarán en 2012 la misma cuantía del complemento que para esta finalidad se les abona a los maestros de la enseñanza pública.
 
@@ -3496,19 +3432,15 @@ Módulos económicos de distribución de fondos públicos para sostenimiento de 
 
 Conforme a lo dispuesto en el artículo 17 de esta Ley, los importes anuales y desglose de los módulos económicos por unidad escolar en los centros concertados de los distintos niveles y modalidades educativas ubicados en las Ciudades de Ceuta y Melilla, quedan establecidos con efectos de 1 de enero, y hasta el 31 de diciembre de 2012 de la siguiente forma:
 
-Â
+
 
 Euros
 
 EDUCACIÓN INFANTIL.
 
-Â
 
-Relación profesor/unidad: 1,17:1.
 
-Â
-
-Salarios de personal docente, incluidas cargas sociales.
+Relación profesor/unidad: 1,17:1. Salarios de personal docente, incluidas cargas sociales.
 
 36.636,24
 
@@ -3526,13 +3458,9 @@ IMPORTE TOTAL ANUAL.
 
 EDUCACIÓN PRIMARIA.
 
-Â
 
-Relación profesor / unidad: 1,17:1.
 
-Â
-
-Salarios de personal docente, incluidas cargas sociales.
+Relación profesor / unidad: 1,17:1. Salarios de personal docente, incluidas cargas sociales.
 
 36.636,24
 
@@ -3550,17 +3478,13 @@ IMPORTE TOTAL ANUAL.
 
 EDUCACIÓN SECUNDARIA OBLIGATORIA.
 
-Â
+
 
 I. Primer y segundo curso: (1).
 
-Â
 
-Relación profesor / unidad: 1,49:1.
 
-Â
-
-Salarios de personal docente, incluidas cargas sociales.
+Relación profesor / unidad: 1,49:1. Salarios de personal docente, incluidas cargas sociales.
 
 46.656,42
 
@@ -3578,13 +3502,9 @@ IMPORTE TOTAL ANUAL.
 
 I. Primer y segundo curso: (2).
 
-Â
 
-Relación profesor / unidad: 1,49:1.
 
-Â
-
-Salarios de personal docente, incluidas cargas sociales.
+Relación profesor / unidad: 1,49:1. Salarios de personal docente, incluidas cargas sociales.
 
 53.899,03
 
@@ -3602,13 +3522,9 @@ IMPORTE TOTAL ANUAL.
 
 II. Tercer y cuarto curso.
 
-Â
 
-Relación profesor / unidad: 1,65:1.
 
-Â
-
-Salarios de personal docente, incluidas cargas sociales.
+Relación profesor / unidad: 1,65:1. Salarios de personal docente, incluidas cargas sociales.
 
 59.686,83
 
@@ -3626,17 +3542,13 @@ IMPORTE TOTAL ANUAL
 
 PROGRAMAS DE CUALIFICACIÓN PROFESIONAL INICIAL.
 
-Â
+
 
 – Auxiliar de Comercio y Almacén.
 
-Â
 
-Relación profesor / unidad: 1,20:1.
 
-Â
-
-Salarios de personal docente, incluidas cargas sociales...
+Relación profesor / unidad: 1,20:1. Salarios de personal docente, incluidas cargas sociales...
 
 46.932,61
 
@@ -3666,15 +3578,9 @@ Se modifica el apartado seis del artículo 17 de la [Ley 2/2012](./L2_2012_presu
 
 «Seis. Las cantidades máximas a percibir de los alumnos en concepto de financiación complementaria a la proveniente de los fondos públicos que se asignen al régimen de conciertos singulares, suscritos para enseñanzas de niveles no obligatorios, y en concepto exclusivo de enseñanza reglada, son las que se establecen a continuación:
 
-a) **Ciclos formativos de grado superior.** Entre 18 y 36 euros alumno/mes durante diez meses, en el período comprendido entre el 1 de enero y el 31 de diciembre de 2012.
+a) **Ciclos formativos de grado superior.** Entre 18 y 36 euros alumno/mes durante diez meses, en el período comprendido entre el 1 de enero y el 31 de diciembre de 2012. b) **Bachillerato.** Entre 18 y 36 euros alumno/mes durante diez meses, en el período comprendido entre el 1 de enero y el 31 de diciembre de 2012. La financiación obtenida por los centros, consecuencia del cobro a los alumnos de estas cantidades, tendrá el carácter de complementaria a la abonada directamente por la Administración para la financiación de los «otros gastos».
 
-b) **Bachillerato.** Entre 18 y 36 euros alumno/mes durante diez meses, en el período comprendido entre el 1 de enero y el 31 de diciembre de 2012.
-
-La financiación obtenida por los centros, consecuencia del cobro a los alumnos de estas cantidades, tendrá el carácter de complementaria a la abonada directamente por la Administración para la financiación de los «otros gastos».
-
-Los centros que en el año 2011 estuvieran autorizados para percibir cuotas superiores a las señaladas podrán mantenerlas para el ejercicio 2012.
-
-La cantidad abonada por la Administración no podrá ser inferior a la resultante de minorar en 3.606,08 euros el importe correspondiente al componente de «otros gastos» de los módulos económicos establecidos en el anexo IV de la presente Ley, pudiendo las Administraciones educativas competentes establecer la regulación necesaria al respecto.»
+Los centros que en el año 2011 estuvieran autorizados para percibir cuotas superiores a las señaladas podrán mantenerlas para el ejercicio 2012. La cantidad abonada por la Administración no podrá ser inferior a la resultante de minorar en 3.606,08 euros el importe correspondiente al componente de «otros gastos» de los módulos económicos establecidos en el anexo IV de la presente Ley, pudiendo las Administraciones educativas competentes establecer la regulación necesaria al respecto.»
 
 #### Disposición final duodécima. Derechos económicos del personal al servicio de la Administración de Justicia.
 
@@ -3720,9 +3626,7 @@ Se modifica el apartado 1 del artículo 116 de la Ley 36/2011, de 10 de octubre,
 
 #### Disposición final decimoquinta. Entrada en vigor.
 
-Dado en Madrid, el 13 de julio de 2012.
-
-JUAN CARLOS R.
+Dado en Madrid, el 13 de julio de 2012. JUAN CARLOS R.
 
 El Presidente del Gobierno,
 
@@ -3732,7 +3636,7 @@ MARIANO RAJOY BREY
 
 Determinación de los municipios de más de 200.000 habitantes, que en 2011 registraron una elevada ocupación hotelera superior a un millón de personas o un número de pasajeros de cruceros turísticos superior a cuatrocientos mil, a los efectos de declaración de zonas de gran afluencia turística en el año 2012
 
-Â
+
 
 N.º de habitantes(*)
 
@@ -3750,7 +3654,7 @@ Madrid
 
 16.411.369
 
-Â
+
 
 Barcelona
 
@@ -3782,7 +3686,7 @@ Barcelona
 
 2.769.103
 
-Â
+
 
 Málaga
 
@@ -3808,7 +3712,7 @@ Málaga
 
 1.330.616
 
-Â
+
 
 Córdoba
 
@@ -3816,7 +3720,7 @@ Córdoba
 
 1.249.873
 
-Â
+
 
 Las Palmas GC
 
@@ -3838,13 +3742,7 @@ Las Palmas GC
 
 **607.343** Fuentes:
 
-*   INE Padrón Municipal 2011.
-
-**  INE Encuesta de Ocupación Hotelera 2011.
-
-*** Ministerio de Fomento, Puertos del Estado 2011.
-
-## Relaciones Normativas y Fundamentos de Derecho
+*   INE Padrón Municipal 2011. **  INE Encuesta de Ocupación Hotelera 2011. *** Ministerio de Fomento, Puertos del Estado 2011. ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
 

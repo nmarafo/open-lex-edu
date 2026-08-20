@@ -1,10 +1,12 @@
 ---
 id: norm-es-rd-95-2022
 codigo_sintetizado: RD95_2022 Ensenanzas Minimas de Educacion Infantil
-titulo: Real Decreto 95/2022, de 1 de febrero, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Infantil.
+titulo: Real Decreto 95/2022, de 1 de febrero, por el que se establece la ordenación
+  y las enseñanzas mínimas de la Educación Infantil.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto
 numero_disposicion: 95/2022
 fecha_disposicion: '2022-02-01'
@@ -18,43 +20,35 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Infantil
 tags:
-  - curriculo
-  - educaci-n-infantil
-  - educacion-infantil
-  - ensenanzas-artisticas
-  - ensenanzas-minimas
-  - evaluacion
-  - inclusiva
-  - neae
-  - oposiciones
-  - ordenacion-infantil
-  - proteccion-menores
-  - titulacion
+- curriculo
+- educaci-n-infantil
+- educacion-infantil
+- ensenanzas-artisticas
+- ensenanzas-minimas
+- evaluacion
+- inclusiva
+- neae
+- oposiciones
+- ordenacion-infantil
+- proteccion-menores
+- titulacion
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-39-2015
   desarrollado_por:
-    - norma_id: norm-can-d-196-2022
+  - norma_id: norm-can-d-196-2022
   fundamento_de: []
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - '6.2'
-    - '14'
-    - '15'
-    - norma_id: norm-es-ce-1978
-  articulos:
-    - '27'
-    - norma_id: norm-es-l-39-2015
-  articulos:
-    - '1'
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 ---
 # Real Decreto 95/2022, de 1 de febrero, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Infantil.
 
@@ -106,9 +100,9 @@ f) **Situaciones de aprendizaje.** Situaciones y actividades que implican el des
 
 #### Artículo 3. La etapa de Educación Infantil en el marco del sistema educativo.
 
-1. La Educación Infantil constituye la etapa educativa con identidad propia que atiende a niños y niñas desde el nacimiento hasta los seis años de edad.
+1. La Educación Infantil constituye la etapa educativa con identidad propia que atiende a niños y niñas desde el nacimiento hasta los seis años de edad.
 
-2. Esta etapa se ordena en dos ciclos. El primero comprende hasta los tres años y el segundo, desde los tres a los seis años de edad.
+2. Esta etapa se ordena en dos ciclos. El primero comprende hasta los tres años y el segundo, desde los tres a los seis años de edad.
 
 #### Artículo 4. Fines.
 
@@ -116,31 +110,31 @@ La finalidad de la Educación Infantil es contribuir al desarrollo integral y ar
 
 #### Artículo 5. Principios generales.
 
-1. La Educación Infantil tiene carácter voluntario.
+1. La Educación Infantil tiene carácter voluntario.
 
-2. El segundo ciclo de esta etapa educativa será gratuito. En el marco del plan que, conforme a lo previsto en la disposición adicional tercera de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, deberá establecer el Gobierno en colaboración con las administraciones educativas, se tenderá a la progresiva implantación del primer ciclo mediante una oferta pública suficiente y a la extensión de su gratuidad, priorizando el acceso del alumnado en situación de riesgo de pobreza y exclusión social y la situación de baja tasa de escolarización.
+2. El segundo ciclo de esta etapa educativa será gratuito. En el marco del plan que, conforme a lo previsto en la disposición adicional tercera de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, deberá establecer el Gobierno en colaboración con las administraciones educativas, se tenderá a la progresiva implantación del primer ciclo mediante una oferta pública suficiente y a la extensión de su gratuidad, priorizando el acceso del alumnado en situación de riesgo de pobreza y exclusión social y la situación de baja tasa de escolarización.
 
-3. Con el objetivo de garantizar los principios de equidad e inclusión, la programación, la gestión y el desarrollo de la Educación Infantil atenderán a la compensación de los efectos que las desigualdades de origen cultural, social y económico tienen en el aprendizaje y en la evolución infantil, así como a la detección precoz y atención temprana de necesidades específicas de apoyo educativo.
+3. Con el objetivo de garantizar los principios de equidad e inclusión, la programación, la gestión y el desarrollo de la Educación Infantil atenderán a la compensación de los efectos que las desigualdades de origen cultural, social y económico tienen en el aprendizaje y en la evolución infantil, así como a la detección precoz y atención temprana de necesidades específicas de apoyo educativo.
 
-4. Con este mismo objetivo, las medidas organizativas, metodológicas y curriculares que se adopten se regirán por los principios del Diseño Universal para el Aprendizaje.
+4. Con este mismo objetivo, las medidas organizativas, metodológicas y curriculares que se adopten se regirán por los principios del Diseño Universal para el Aprendizaje.
 
 #### Artículo 6. Principios pedagógicos.
 
-1. La práctica educativa en esta etapa buscará desarrollar y asentar progresivamente las bases que faciliten el máximo desarrollo de cada niño y de cada niña.
+1. La práctica educativa en esta etapa buscará desarrollar y asentar progresivamente las bases que faciliten el máximo desarrollo de cada niño y de cada niña.
 
-2. Dicha práctica se basará en experiencias de aprendizaje significativas y emocionalmente positivas y en la experimentación y el juego. Además, deberá llevarse a cabo en un ambiente de afecto y confianza para potenciar su autoestima e integración social y el establecimiento de un apego seguro. Así mismo, se velará por garantizar desde el primer contacto una transición positiva desde el entorno familiar al escolar, así como la continuidad entre ciclos y entre etapas.
+2. Dicha práctica se basará en experiencias de aprendizaje significativas y emocionalmente positivas y en la experimentación y el juego. Además, deberá llevarse a cabo en un ambiente de afecto y confianza para potenciar su autoestima e integración social y el establecimiento de un apego seguro. Así mismo, se velará por garantizar desde el primer contacto una transición positiva desde el entorno familiar al escolar, así como la continuidad entre ciclos y entre etapas.
 
-3. En los dos ciclos de esta etapa, se atenderá progresivamente al desarrollo afectivo, a la gestión emocional, al movimiento y los hábitos de control corporal, a las manifestaciones de la comunicación y del lenguaje, y a las pautas elementales de convivencia y relación social, así como al descubrimiento del entorno, de los seres vivos que en él conviven y de las características físicas y sociales del medio en el que viven. También se incluirá la educación en valores.
+3. En los dos ciclos de esta etapa, se atenderá progresivamente al desarrollo afectivo, a la gestión emocional, al movimiento y los hábitos de control corporal, a las manifestaciones de la comunicación y del lenguaje, y a las pautas elementales de convivencia y relación social, así como al descubrimiento del entorno, de los seres vivos que en él conviven y de las características físicas y sociales del medio en el que viven. También se incluirá la educación en valores.
 
-4. Asimismo, se incluirán la educación para el consumo responsable y sostenible y la promoción y educación para la salud.
+4. Asimismo, se incluirán la educación para el consumo responsable y sostenible y la promoción y educación para la salud.
 
-5. Además, se favorecerá que niños y niñas adquieran autonomía personal y elaboren una imagen de sí mismos positiva, equilibrada e igualitaria y libre de estereotipos discriminatorios.
+5. Además, se favorecerá que niños y niñas adquieran autonomía personal y elaboren una imagen de sí mismos positiva, equilibrada e igualitaria y libre de estereotipos discriminatorios.
 
-6. Las administraciones educativas fomentarán el desarrollo de todos los lenguajes y modos de percepción específicos de estas edades para desarrollar el conjunto de sus potencialidades, respetando la específica cultura de la infancia que definen la Convención sobre los Derechos del Niño y las Observaciones Generales de su Comité.
+6. Las administraciones educativas fomentarán el desarrollo de todos los lenguajes y modos de percepción específicos de estas edades para desarrollar el conjunto de sus potencialidades, respetando la específica cultura de la infancia que definen la Convención sobre los Derechos del Niño y las Observaciones Generales de su Comité.
 
-7. De igual modo, sin que resulte exigible para afrontar la Educación Primaria, se podrá favorecer una primera aproximación a la lectura y a la escritura, así como experiencias de iniciación temprana en habilidades numéricas básicas, en las tecnologías de la información y la comunicación, en la expresión visual y musical y en cualesquiera otras que las administraciones educativas determinen.
+7. De igual modo, sin que resulte exigible para afrontar la Educación Primaria, se podrá favorecer una primera aproximación a la lectura y a la escritura, así como experiencias de iniciación temprana en habilidades numéricas básicas, en las tecnologías de la información y la comunicación, en la expresión visual y musical y en cualesquiera otras que las administraciones educativas determinen.
 
-8. Corresponde a las administraciones educativas fomentar una primera aproximación a la lengua extranjera en los aprendizajes del segundo ciclo de la Educación Infantil, especialmente en el último año.
+8. Corresponde a las administraciones educativas fomentar una primera aproximación a la lengua extranjera en los aprendizajes del segundo ciclo de la Educación Infantil, especialmente en el último año.
 
 #### Artículo 7. Objetivos.
 
@@ -164,9 +158,9 @@ h) Promover, aplicar y desarrollar las normas sociales que fomentan la igualdad 
 
 #### Artículo 8. Áreas.
 
-1. Los contenidos educativos de la Educación Infantil se organizan en áreas correspondientes a ámbitos propios de la experiencia y del desarrollo infantil y se abordarán por medio de propuestas globalizadas de aprendizaje que tengan interés y significado para los niños y las niñas.
+1. Los contenidos educativos de la Educación Infantil se organizan en áreas correspondientes a ámbitos propios de la experiencia y del desarrollo infantil y se abordarán por medio de propuestas globalizadas de aprendizaje que tengan interés y significado para los niños y las niñas.
 
-2. Las áreas de la Educación Infantil son las siguientes:
+2. Las áreas de la Educación Infantil son las siguientes:
 
 – Crecimiento en Armonía.
 
@@ -174,91 +168,89 @@ h) Promover, aplicar y desarrollar las normas sociales que fomentan la igualdad 
 
 – Comunicación y Representación de la Realidad.
 
-3. Estas áreas deben entenderse como ámbitos de experiencia intrínsecamente relacionados entre sí, por lo que se requerirá un planteamiento educativo que promueva la configuración de situaciones de aprendizaje globales, significativas y estimulantes que ayuden a establecer relaciones entre todos los elementos que las conforman.
+3. Estas áreas deben entenderse como ámbitos de experiencia intrínsecamente relacionados entre sí, por lo que se requerirá un planteamiento educativo que promueva la configuración de situaciones de aprendizaje globales, significativas y estimulantes que ayuden a establecer relaciones entre todos los elementos que las conforman.
 
 #### Artículo 9. Competencias, criterios de evaluación y saberes básicos.
 
-1. En el anexo I de este real decreto se establecen las competencias clave de la etapa.
+1. En el anexo I de este real decreto se establecen las competencias clave de la etapa.
 
-2. En el anexo II se fijan las competencias específicas de cada área, que serán comunes para los dos ciclos de la etapa, así como los criterios de evaluación y los contenidos, enunciados en forma de saberes básicos. Estos elementos curriculares se establecen con carácter orientativo para el primer ciclo y conforman, junto con los objetivos de la etapa, las enseñanzas mínimas del segundo ciclo.
+2. En el anexo II se fijan las competencias específicas de cada área, que serán comunes para los dos ciclos de la etapa, así como los criterios de evaluación y los contenidos, enunciados en forma de saberes básicos. Estos elementos curriculares se establecen con carácter orientativo para el primer ciclo y conforman, junto con los objetivos de la etapa, las enseñanzas mínimas del segundo ciclo.
 
-3. Para la adquisición y desarrollo de las competencias a las que se refieren los apartados anteriores, el equipo educativo diseñará situaciones de aprendizaje, de acuerdo a los principios que, con carácter orientativo, se establecen en el anexo III y en los términos que dispongan las administraciones educativas.
+3. Para la adquisición y desarrollo de las competencias a las que se refieren los apartados anteriores, el equipo educativo diseñará situaciones de aprendizaje, de acuerdo a los principios que, con carácter orientativo, se establecen en el anexo III y en los términos que dispongan las administraciones educativas.
 
 #### Artículo 10. Currículo.
 
-1. Las administraciones educativas establecerán el currículo de toda la etapa de Educación Infantil, del que formarán parte, en todo caso, las enseñanzas mínimas fijadas en este real decreto para el segundo ciclo de la etapa.
+1. Las administraciones educativas establecerán el currículo de toda la etapa de Educación Infantil, del que formarán parte, en todo caso, las enseñanzas mínimas fijadas en este real decreto para el segundo ciclo de la etapa.
 
-2. Los centros, como parte de su propuesta pedagógica, desarrollarán y completarán el currículo establecido por las administraciones educativas, adaptándolo a las características personales de cada niño o niña, así como a su realidad socioeducativa.
+2. Los centros, como parte de su propuesta pedagógica, desarrollarán y completarán el currículo establecido por las administraciones educativas, adaptándolo a las características personales de cada niño o niña, así como a su realidad socioeducativa.
 
-3. El profesorado y el resto de profesionales que atienden a los niños y las niñas adaptarán a dichas concreciones su propia práctica educativa, basándose en el Diseño Universal para el Aprendizaje y de acuerdo con las características de esta etapa educativa y las necesidades colectivas e individuales de su alumnado.
+3. El profesorado y el resto de profesionales que atienden a los niños y las niñas adaptarán a dichas concreciones su propia práctica educativa, basándose en el Diseño Universal para el Aprendizaje y de acuerdo con las características de esta etapa educativa y las necesidades colectivas e individuales de su alumnado.
 
 #### Artículo 11. Horario.
 
-1. El horario en la etapa de Educación Infantil se entenderá como la distribución en secuencias temporales de las actividades que se realizan en los distintos días de la semana, teniendo en cuenta que todos los momentos de la jornada tienen carácter educativo.
+1. El horario en la etapa de Educación Infantil se entenderá como la distribución en secuencias temporales de las actividades que se realizan en los distintos días de la semana, teniendo en cuenta que todos los momentos de la jornada tienen carácter educativo.
 
-2. El horario escolar se organizará desde un enfoque globalizador e incluirá propuestas de aprendizaje que permitan alternar diferentes tipos y ritmos de actividad con periodos de descanso en función de las necesidades del alumnado.
+2. El horario escolar se organizará desde un enfoque globalizador e incluirá propuestas de aprendizaje que permitan alternar diferentes tipos y ritmos de actividad con periodos de descanso en función de las necesidades del alumnado.
 
 #### Artículo 12. Evaluación.
 
-1. La evaluación será global, continua y formativa. La observación directa y sistemática constituirá la técnica principal del proceso de evaluación.
+1. La evaluación será global, continua y formativa. La observación directa y sistemática constituirá la técnica principal del proceso de evaluación.
 
-2. La evaluación en esta etapa estará orientada a identificar las condiciones iniciales individuales y el ritmo y características de la evolución de cada niño o niña. A estos efectos, se tomarán como referencia los criterios de evaluación establecidos para cada ciclo en cada una de las áreas.
+2. La evaluación en esta etapa estará orientada a identificar las condiciones iniciales individuales y el ritmo y características de la evolución de cada niño o niña. A estos efectos, se tomarán como referencia los criterios de evaluación establecidos para cada ciclo en cada una de las áreas.
 
-3. El proceso de evaluación deberá contribuir a mejorar el proceso de enseñanza y de aprendizaje mediante la valoración de la pertinencia de las estrategias metodológicas y de los recursos utilizados. Con esta finalidad, todos los profesionales implicados evaluarán su propia práctica educativa.
+3. El proceso de evaluación deberá contribuir a mejorar el proceso de enseñanza y de aprendizaje mediante la valoración de la pertinencia de las estrategias metodológicas y de los recursos utilizados. Con esta finalidad, todos los profesionales implicados evaluarán su propia práctica educativa.
 
-4. Los padres, las madres, los tutores y las tutoras legales deberán participar y apoyar la evolución del proceso educativo de sus hijos, hijas, tutelados o tuteladas, así como conocer las decisiones relativas a la evaluación y colaborar en las medidas que adopten los centros para facilitar su progreso educativo.
+4. Los padres, las madres, los tutores y las tutoras legales deberán participar y apoyar la evolución del proceso educativo de sus hijos, hijas, tutelados o tuteladas, así como conocer las decisiones relativas a la evaluación y colaborar en las medidas que adopten los centros para facilitar su progreso educativo.
 
 #### Artículo 13. Atención a las diferencias individuales.
 
-1. La atención individualizada constituirá la pauta ordinaria de la acción educativa del profesorado y demás profesionales de la educación.
+1. La atención individualizada constituirá la pauta ordinaria de la acción educativa del profesorado y demás profesionales de la educación.
 
-2. La intervención educativa contemplará la diversidad del alumnado adaptando la práctica educativa a las características personales, necesidades, intereses y estilo cognitivo de los niños y las niñas e identificando aquellas características que puedan tener incidencia en su evolución escolar con el objetivo de asegurar la plena inclusión de todo el alumnado.
+2. La intervención educativa contemplará la diversidad del alumnado adaptando la práctica educativa a las características personales, necesidades, intereses y estilo cognitivo de los niños y las niñas e identificando aquellas características que puedan tener incidencia en su evolución escolar con el objetivo de asegurar la plena inclusión de todo el alumnado.
 
-3. Las administraciones educativas establecerán procedimientos que permitan la detección temprana de las dificultades que pueden darse en los procesos de enseñanza y aprendizaje y la prevención de las mismas a través de planes y programas que faciliten una intervención precoz. Asimismo, facilitarán la coordinación de cuantos sectores intervengan en la atención de este alumnado.
+3. Las administraciones educativas establecerán procedimientos que permitan la detección temprana de las dificultades que pueden darse en los procesos de enseñanza y aprendizaje y la prevención de las mismas a través de planes y programas que faciliten una intervención precoz. Asimismo, facilitarán la coordinación de cuantos sectores intervengan en la atención de este alumnado.
 
-4. Los centros adoptarán las medidas adecuadas dirigidas al alumnado que presente necesidad específica de apoyo educativo.
+4. Los centros adoptarán las medidas adecuadas dirigidas al alumnado que presente necesidad específica de apoyo educativo.
 
-5. Asimismo, adoptarán la respuesta educativa que mejor se adapte a las características y necesidades personales de los niños y niñas que presenten necesidades educativas especiales.
+5. Asimismo, adoptarán la respuesta educativa que mejor se adapte a las características y necesidades personales de los niños y niñas que presenten necesidades educativas especiales.
 
-6. Las administraciones educativas podrán incorporar a su oferta educativa las lenguas de signos españolas.
+6. Las administraciones educativas podrán incorporar a su oferta educativa las lenguas de signos españolas.
 
 #### Artículo 14. Autonomía de los centros.
 
-1. Las administraciones educativas fomentarán la autonomía pedagógica y organizativa de los centros, favorecerán el trabajo en equipo del profesorado y su actividad investigadora a partir de la práctica educativa.
+1. Las administraciones educativas fomentarán la autonomía pedagógica y organizativa de los centros, favorecerán el trabajo en equipo del profesorado y su actividad investigadora a partir de la práctica educativa.
 
-2. En el marco de lo que dispongan las administraciones educativas, todos los centros que impartan Educación Infantil deberán incluir en su proyecto educativo la propuesta pedagógica a la que se refiere el artículo 10.2, que recogerá el carácter educativo de uno y otro ciclo.
+2. En el marco de lo que dispongan las administraciones educativas, todos los centros que impartan Educación Infantil deberán incluir en su proyecto educativo la propuesta pedagógica a la que se refiere el artículo 10.2, que recogerá el carácter educativo de uno y otro ciclo.
 
-3. Para garantizar la continuidad del proceso de formación y una transición y evolución positivas de todo el alumnado, se reflejará en el desarrollo curricular la necesaria continuidad entre esta etapa y la Educación Primaria, lo que requerirá la estrecha coordinación entre el profesorado de ambas etapas. A tal fin, al finalizar la etapa, el tutor o la tutora emitirá un informe sobre el desarrollo y las necesidades de cada alumno o alumna.
+3. Para garantizar la continuidad del proceso de formación y una transición y evolución positivas de todo el alumnado, se reflejará en el desarrollo curricular la necesaria continuidad entre esta etapa y la Educación Primaria, lo que requerirá la estrecha coordinación entre el profesorado de ambas etapas. A tal fin, al finalizar la etapa, el tutor o la tutora emitirá un informe sobre el desarrollo y las necesidades de cada alumno o alumna.
 
-4. Las administraciones educativas asegurarán la coordinación entre los equipos pedagógicos de los centros que actualmente imparten distintos ciclos, y de estos con los centros de Educación Primaria.
+4. Las administraciones educativas asegurarán la coordinación entre los equipos pedagógicos de los centros que actualmente imparten distintos ciclos, y de estos con los centros de Educación Primaria.
 
-5. Con objeto de respetar la responsabilidad fundamental de las madres, padres, tutoras o tutores legales, en esta etapa, los centros de Educación Infantil cooperarán estrechamente con ellos, para lo cual arbitrarán las medidas correspondientes.
+5. Con objeto de respetar la responsabilidad fundamental de las madres, padres, tutoras o tutores legales, en esta etapa, los centros de Educación Infantil cooperarán estrechamente con ellos, para lo cual arbitrarán las medidas correspondientes.
 
 #### Disposición adicional primera. Enseñanzas de religión.
 
-1. Las enseñanzas de religión se incluirán en el segundo ciclo de la Educación Infantil, de acuerdo con lo establecido en la disposición adicional segunda de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+1. Las enseñanzas de religión se incluirán en el segundo ciclo de la Educación Infantil, de acuerdo con lo establecido en la disposición adicional segunda de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
-2. Las administraciones educativas garantizarán que, al inicio del curso, los padres, las madres, los tutores o las tutoras de los alumnos y las alumnas puedan manifestar su voluntad de que reciban o no enseñanzas de religión.
+2. Las administraciones educativas garantizarán que, al inicio del curso, los padres, las madres, los tutores o las tutoras de los alumnos y las alumnas puedan manifestar su voluntad de que reciban o no enseñanzas de religión.
 
-3. Las administraciones educativas velarán para que las enseñanzas de religión respeten los derechos de todo el alumnado y de sus padres, madres, tutores o tutoras legales y para que no suponga discriminación alguna el recibir o no dichas enseñanzas.
+3. Las administraciones educativas velarán para que las enseñanzas de religión respeten los derechos de todo el alumnado y de sus padres, madres, tutores o tutoras legales y para que no suponga discriminación alguna el recibir o no dichas enseñanzas.
 
-4. La determinación del currículo de las enseñanzas de religión católica y de las diferentes confesiones religiosas con las que el Estado ha suscrito acuerdos de cooperación en materia educativa será competencia, respectivamente, de la jerarquía eclesiástica y de las correspondientes autoridades religiosas.
+4. La determinación del currículo de las enseñanzas de religión católica y de las diferentes confesiones religiosas con las que el Estado ha suscrito acuerdos de cooperación en materia educativa será competencia, respectivamente, de la jerarquía eclesiástica y de las correspondientes autoridades religiosas.
 
 #### Disposición adicional segunda. Enseñanzas del sistema educativo español impartidas en lenguas extranjeras.
 
-1. Las administraciones educativas podrán establecer el uso de metodologías de aprendizaje integrado de contenidos y lenguas extranjeras, sin que ello suponga modificación de los aspectos básicos regulados en el presente real decreto. En este caso, procurarán que a lo largo de la etapa el alumnado desarrolle de manera equilibrada su competencia en las distintas lenguas.
+1. Las administraciones educativas podrán establecer el uso de metodologías de aprendizaje integrado de contenidos y lenguas extranjeras, sin que ello suponga modificación de los aspectos básicos regulados en el presente real decreto. En este caso, procurarán que a lo largo de la etapa el alumnado desarrolle de manera equilibrada su competencia en las distintas lenguas.
 
-2. El hecho de que los centros impartan sus enseñanzas conforme a lo previsto en el apartado anterior en ningún caso podrá suponer modificación de los criterios para la admisión del alumnado establecidos en el artículo 86 de la Ley Orgánica 2/2006, de 3 de mayo.
+2. El hecho de que los centros impartan sus enseñanzas conforme a lo previsto en el apartado anterior en ningún caso podrá suponer modificación de los criterios para la admisión del alumnado establecidos en el artículo 86 de la Ley Orgánica 2/2006, de 3 de mayo.
 
 #### Disposición transitoria única. Aplicación del Real Decreto 1630/2006, de 29 de diciembre, por el que se establecen las enseñanzas mínimas del segundo ciclo de Educación infantil.
 
-El Real Decreto 1630/2006, de 29 de diciembre, por el que se establecen las enseñanzas mínimas del segundo ciclo de Educación infantil, mantendrá sus efectos y será de aplicación hasta el fin del curso escolar 2021-2022.
+El Real Decreto 1630/2006, de 29 de diciembre, por el que se establecen las enseñanzas mínimas del segundo ciclo de Educación infantil, mantendrá sus efectos y será de aplicación hasta el fin del curso escolar 2021-2022. #### Disposición derogatoria única. Derogación normativa.
 
-#### Disposición derogatoria única. Derogación normativa.
+1. Queda derogado el Real Decreto 1630/2006, de 29 de diciembre, por el que se establecen las enseñanzas mínimas del segundo ciclo de Educación infantil, sin perjuicio de lo establecido en la disposición transitoria única de este real decreto.
 
-1. Queda derogado el Real Decreto 1630/2006, de 29 de diciembre, por el que se establecen las enseñanzas mínimas del segundo ciclo de Educación infantil, sin perjuicio de lo establecido en la disposición transitoria única de este real decreto.
-
-2. Quedan derogadas las demás normas de igual o inferior rango en cuanto se opongan a lo establecido en este real decreto.
+2. Quedan derogadas las demás normas de igual o inferior rango en cuanto se opongan a lo establecido en este real decreto.
 
 #### Disposición final primera. Título competencial.
 
@@ -274,13 +266,9 @@ Corresponde a la persona titular del Ministerio de Educación y Formación Profe
 
 #### Disposición final tercera. Calendario de implantación.
 
-El contenido del presente real decreto se implantará en el curso escolar 2022-2023.
+El contenido del presente real decreto se implantará en el curso escolar 2022-2023. #### Disposición final cuarta. Entrada en vigor.
 
-#### Disposición final cuarta. Entrada en vigor.
-
-Dado en Madrid, el 1 de febrero de 2022.
-
-FELIPE R.
+Dado en Madrid, el 1 de febrero de 2022. FELIPE R.
 
 La Ministra de Educación y Formación Profesional,
 
@@ -374,7 +362,7 @@ La división en áreas no implica que la realidad se presente en el aula de mane
 
 La inclusión en el aula de alumnado con necesidades específicas de apoyo educativo acerca a los niños y niñas a la diversidad de formas de ser y estar en el mundo y les ayuda a observar cómo actúan las personas que deben desenvolverse de un modo diferente al que ellos consideran habitual. Un aula inclusiva da cabida a diferentes posibilidades y limitaciones, a distintos modos de lenguaje y comunicación, a diversas formas de movilidad y a múltiples maneras de acercarse y comprender el entorno. La convivencia mutua enriquece a todas las personas, desarrolla una sociedad más justa y tolerante en la que las diferencias no se conciben como un impedimento, sino como una oportunidad de crecimiento personal y social para toda la comunidad educativa.
 
-Área 1. Crecimiento en Armonía
+Área 1. Crecimiento en Armonía
 
 El área Crecimiento en Armonía se centra en las dimensiones personal y social del niño o la niña, entendidas como inseparables y complementarias, que se desarrollan y regulan de manera progresiva, conjunta y armónica, aunque solo adquiere sentido desde la complementariedad con las otras dos, ya que se produce en un entorno físico y natural determinado y precisa de la utilización de distintos lenguajes y representaciones de la realidad.
 
@@ -404,19 +392,19 @@ La diversidad étnica y cultural posibilita el acceso de niños y niñas a los d
 
 Competencias específicas.
 
-1. Progresar en el conocimiento y control de su cuerpo y en la adquisición de distintas estrategias, adecuando sus acciones a la realidad del entorno de una manera segura, para construir una autoimagen ajustada y positiva.
+1. Progresar en el conocimiento y control de su cuerpo y en la adquisición de distintas estrategias, adecuando sus acciones a la realidad del entorno de una manera segura, para construir una autoimagen ajustada y positiva.
 
 El conocimiento, valoración y control que los niños y las niñas van adquiriendo de sí mismos y del uso de los recursos de su propio cuerpo, junto a la utilización de los sentidos para desenvolverse en el medio de forma cada vez más ajustada e independiente, son aspectos fundamentales que van conformando su autonomía y su autodeterminación. Reconocerse como persona diferenciada de las demás, elaborar la noción del «yo» y formarse una autoimagen positiva son procesos relevantes que requieren la toma de conciencia sobre las posibilidades de uno mismo a partir de la identificación de las cualidades personales y de las diferencias con respecto a las otras personas, siempre desde la aceptación y el respeto. Dichos procesos se producen a partir de las interacciones espontáneas con el medio, de las sensaciones que experimentan y de la exploración de sí mismos, de los objetos y del entorno.
 
 A través del juego viven experiencias que contribuyen a su desarrollo armónico e integral, y demuestran un control creciente de su cuerpo, así como mayor autonomía e independencia con respecto a las personas adultas. Experimentar las posibilidades motrices y sensitivas del propio cuerpo servirá para avanzar en el control dinámico en desplazamientos y movimientos, superar retos y elaborar un esquema corporal cada vez más ajustado. También servirá para desarrollar destrezas necesarias en la exploración, manipulación y uso de utensilios comunes.
 
-2. Reconocer, manifestar y regular progresivamente sus emociones, expresando necesidades y sentimientos para lograr bienestar emocional y seguridad afectiva.
+2. Reconocer, manifestar y regular progresivamente sus emociones, expresando necesidades y sentimientos para lograr bienestar emocional y seguridad afectiva.
 
 Conocer e iniciarse en el manejo de sus emociones constituye una herramienta fundamental para poder hacer frente, gradualmente, con seguridad y autonomía, a situaciones cambiantes e inciertas presentes en su vida cotidiana. En la satisfacción de sus propias necesidades y en las situaciones de juego es donde las emociones están más vinculadas al desarrollo del yo y al conocimiento de las normas y valores sociales, ya que, a través de las interacciones con las otras personas, se avanza en la identificación, comprensión y regulación de las emociones propias y en la apropiación de información muy valiosa sobre uno mismo. Todo ello irá contribuyendo de manera decisiva a la interiorización de sentimientos de seguridad y confianza personales, dos aspectos fundamentales para la construcción de la autoestima y la formación de una autoimagen positiva y ajustada, alejada de los estereotipos sexistas. También se desarrolla la confianza en los demás, lo que incide en la mejora de las relaciones sociales, de la automotivación con respecto a las actividades y juegos, y de la comprensión y expresión de lo que siente, piensa, prefiere y le interesa.
 
 Establecer relaciones armoniosas y de calidad supone potenciar que cada niño y cada niña puedan identificar y superar sus límites, reforzar sus fortalezas, regular sus necesidades personales, valorar el trabajo bien hecho, aprender de los errores de forma constructiva aceptando positivamente las correcciones, tomar iniciativas propias sobre su persona y sobre el entorno, y establecer metas realistas y ambiciosas con creatividad y responsabilidad, sintiéndose reconocidos dentro del grupo.
 
-3. Adoptar modelos, normas y hábitos, desarrollando la confianza en sus posibilidades y sentimientos de logro, para promover un estilo de vida saludable y ecosocialmente responsable.
+3. Adoptar modelos, normas y hábitos, desarrollando la confianza en sus posibilidades y sentimientos de logro, para promover un estilo de vida saludable y ecosocialmente responsable.
 
 La adquisición de hábitos saludables y sostenibles, así como su progresiva integración en la vida cotidiana, contribuye al cuidado del propio cuerpo y al logro de una creciente autonomía. En este proceso resulta imprescindible que conozcan y reflexionen sobre las normas que contribuyen a crear tendencias de actuación respetuosas con ellos mismos, con los demás y con el medio, desde una perspectiva interdependiente y ecorresponsable. Se espera también que se produzca un inicio en la reflexión sobre el consumo responsable de bienes y recursos, así como que se promueva la actividad física como conducta saludable.
 
@@ -424,7 +412,7 @@ Todo ello se transfiere al aula a través de la realización de rutinas entendid
 
 Por último, se deben estimular iniciativas relativas a la importancia de prevenir los riesgos y evitar los accidentes.
 
-4. Establecer interacciones sociales en condiciones de igualdad, valorando la importancia de la amistad, el respeto y la empatía, para construir su propia identidad basada en valores democráticos y de respeto a los derechos humanos.
+4. Establecer interacciones sociales en condiciones de igualdad, valorando la importancia de la amistad, el respeto y la empatía, para construir su propia identidad basada en valores democráticos y de respeto a los derechos humanos.
 
 La construcción de la identidad es una de las resultantes del conjunto de interacciones con el entorno social próximo. En este proceso de reformulación de sus recursos cognitivos y afectivos necesario para establecer nuevas relaciones con los demás y con el mundo, es preciso proporcionarles sentimientos de seguridad y confianza mediante la creación de vínculos de apego sanos y estables que hagan que se sientan respetados, queridos y valorados, y adopten de manera natural los modelos sociales adecuados en un entorno de cooperación, respeto y empatía.
 
@@ -436,9 +424,7 @@ El reconocimiento y aprecio hacia la pluralidad sociocultural del aula se debe f
 
 **Criterios de evaluación**
 
-Competencia específica 1.
-
-**1.1** Adecuar sus acciones y reacciones a cada situación, en una interacción lúdica y espontánea con el entorno, explorando sus posibilidades motoras y perceptivas y progresando en precisión, seguridad, coordinación e intencionalidad.
+Competencia específica 1. **1.1** Adecuar sus acciones y reacciones a cada situación, en una interacción lúdica y espontánea con el entorno, explorando sus posibilidades motoras y perceptivas y progresando en precisión, seguridad, coordinación e intencionalidad.
 
 **1.2** Mostrar aceptación y respeto por el cuerpo propio y por el cuerpo de las demás personas, mejorando progresivamente en su conocimiento.
 
@@ -446,23 +432,17 @@ Competencia específica 1.
 
 **1.4** Adquirir nociones temporales básicas para ubicarse en el tiempo a través de las actividades y rutinas de la vida cotidiana, así como de otros acontecimientos.
 
-Competencia específica 2.
-
-**2.1** Expresar emociones y sentimientos desarrollando de manera progresiva la conciencia emocional y estrategias de regulación emocional.
+Competencia específica 2. **2.1** Expresar emociones y sentimientos desarrollando de manera progresiva la conciencia emocional y estrategias de regulación emocional.
 
 **2.2** Relacionarse con las otras personas aceptando y mostrando afecto de manera libre, segura, respetuosa y alejada de todo tipo de estereotipos.
 
 **2.3** Afrontar pequeñas adversidades manifestando actitudes de superación, así como solicitando y prestando ayuda.
 
-Competencia específica 3.
-
-**3.1** Incorporar estrategias y hábitos relacionados con el cuidado del entorno y el autocuidado, manifestando satisfacción por los beneficios que le aportan.
+Competencia específica 3. **3.1** Incorporar estrategias y hábitos relacionados con el cuidado del entorno y el autocuidado, manifestando satisfacción por los beneficios que le aportan.
 
 **3.2** Reconocer y anticipar la sucesión temporal de actividades, ritmos biológicos y pautas socioculturales que estructuran la dinámica cotidiana, asociándola a elementos, procedimientos y actitudes concretas.
 
-Competencia específica 4.
-
-**4.1** Establecer vínculos y relaciones de apego saludables, demostrando actitudes de afecto y empatía hacia las demás personas y respetando los distintos ritmos individuales.
+Competencia específica 4. **4.1** Establecer vínculos y relaciones de apego saludables, demostrando actitudes de afecto y empatía hacia las demás personas y respetando los distintos ritmos individuales.
 
 **4.2** Reproducir conductas y situaciones previamente observadas en su entorno próximo, basadas en el respeto, la empatía, la igualdad de género, el trato no discriminatorio a las personas con discapacidad y el respeto a los derechos humanos, a través del juego de imitación.
 
@@ -536,9 +516,7 @@ D. Interacción socioemocional en el entorno. La vida junto a los demás.
 
 **Criterios de evaluación**
 
-Competencia específica 1.
-
-**1.1** Progresar en el conocimiento de su cuerpo ajustando acciones y reacciones y desarrollando el equilibrio, la percepción sensorial y la coordinación en el movimiento.
+Competencia específica 1. **1.1** Progresar en el conocimiento de su cuerpo ajustando acciones y reacciones y desarrollando el equilibrio, la percepción sensorial y la coordinación en el movimiento.
 
 **1.2** Manifestar sentimientos de seguridad personal en la participación en juegos y en las diversas situaciones de la vida cotidiana, confiando en las propias posibilidades y mostrando iniciativa.
 
@@ -546,23 +524,17 @@ Competencia específica 1.
 
 **1.4** Participar en contextos de juego dirigido y espontáneo, ajustándose a sus posibilidades personales.
 
-Competencia específica 2.
-
-**2.1** Identificar y expresar sus necesidades y sentimientos, ajustando progresivamente el control de sus emociones.
+Competencia específica 2. **2.1** Identificar y expresar sus necesidades y sentimientos, ajustando progresivamente el control de sus emociones.
 
 **2.2** Ofrecer y pedir ayuda en situaciones cotidianas, valorando los beneficios de la cooperación y la ayuda entre iguales.
 
 **2.3** Expresar inquietudes, gustos y preferencias, mostrando satisfacción y seguridad sobre los logros conseguidos.
 
-Competencia específica 3.
-
-**3.1** Realizar actividades relacionadas con el autocuidado y el cuidado del entorno con una actitud respetuosa, mostrando autoconfianza e iniciativa.
+Competencia específica 3. **3.1** Realizar actividades relacionadas con el autocuidado y el cuidado del entorno con una actitud respetuosa, mostrando autoconfianza e iniciativa.
 
 **3.2** Respetar la secuencia temporal asociada a los acontecimientos y actividades cotidianas, adaptándose a las rutinas establecidas para el grupo y desarrollando comportamientos respetuosos hacia las demás personas.
 
-Competencia específica 4.
-
-**4.1** Participar con iniciativa en juegos y actividades colectivas relacionándose con otras personas con actitudes de afecto y de empatía, respetando los distintos ritmos individuales y evitando todo tipo de discriminación.
+Competencia específica 4. **4.1** Participar con iniciativa en juegos y actividades colectivas relacionándose con otras personas con actitudes de afecto y de empatía, respetando los distintos ritmos individuales y evitando todo tipo de discriminación.
 
 **4.2** Reproducir conductas, acciones o situaciones a través del juego simbólico en interacción con sus iguales, identificando y rechazando todo tipo de estereotipos.
 
@@ -644,7 +616,7 @@ D. Interacción socioemocional en el entorno. La vida junto a los demás.
 
 – Celebraciones, costumbres y tradiciones. Herramientas para el aprecio de las señas de identidad étnico-cultural presentes en su entorno.
 
-Área 2. Descubrimiento y Exploración del Entorno
+Área 2. Descubrimiento y Exploración del Entorno
 
 Con esta área se pretende favorecer el proceso de descubrimiento, observación y exploración de los elementos físicos y naturales del entorno, concibiendo este como un elemento provocador de emociones y sorpresas, y tratando de que, junto con su progresivo conocimiento, niños y niñas vayan adoptando y desarrollando actitudes de respeto y valoración sobre la necesidad de cuidarlo y protegerlo.
 
@@ -666,17 +638,17 @@ El alumnado, alentado por el interés y la emoción, participará con iniciativa
 
 Competencias específicas.
 
-1. Identificar las características de materiales, objetos y colecciones y establecer relaciones entre ellos, mediante la exploración, la manipulación sensorial, el manejo de herramientas sencillas y el desarrollo de destrezas lógico-matemáticas para descubrir y crear una idea cada vez más compleja del mundo.
+1. Identificar las características de materiales, objetos y colecciones y establecer relaciones entre ellos, mediante la exploración, la manipulación sensorial, el manejo de herramientas sencillas y el desarrollo de destrezas lógico-matemáticas para descubrir y crear una idea cada vez más compleja del mundo.
 
 En esta etapa, la curiosidad de niños y niñas por descubrir el mundo que los rodea hace de la exploración a través de la manipulación sensorial el instrumento perfecto para identificar las características de los materiales y objetos de su entorno más cercano y para establecer relaciones entre ellos. La finalidad de este juego exploratorio en edades muy tempranas es disfrutar de las sensaciones físicas que produce. Sin embargo, a medida que el niño o la niña se desarrolla, la demanda exploratoria se amplía: al propósito de obtener placer por sentir y tocar se añade progresivamente el interés por indagar acerca de las diferentes características de los objetos. Al movimiento amplio y global se suma la capacidad para ejercer acciones más específicas y minuciosas sobre ellos. Todo ello les proporciona cada vez más información acerca de sus cualidades.
 
 La persona adulta debe proponer retos que hay que resolver, contextualizados en situaciones de aprendizaje y experiencias significativas, eligiendo el material y el tipo de actividad que responda a la intencionalidad que se pretenda conseguir y teniendo en cuenta que debe partir de los intereses y las inquietudes individuales y grupales, y que la interacción con los demás debe jugar un papel de primer orden. Así, los niños y las niñas continúan estableciendo relaciones entre sus aprendizajes, lo cual les permitirá desarrollar progresivamente sus habilidades lógicas y matemáticas de medida, relación, clasificación, ordenación y cuantificación; primero, ligadas a sus intereses particulares y, progresivamente, formando parte de situaciones de aprendizaje que atienden también a los intereses grupales y colectivos.
 
-2. Desarrollar, de manera progresiva, los procedimientos del método científico y las destrezas del pensamiento computacional, a través de procesos de observación y manipulación de objetos, para iniciarse en la interpretación del entorno y responder de forma creativa a las situaciones y retos que se plantean.
+2. Desarrollar, de manera progresiva, los procedimientos del método científico y las destrezas del pensamiento computacional, a través de procesos de observación y manipulación de objetos, para iniciarse en la interpretación del entorno y responder de forma creativa a las situaciones y retos que se plantean.
 
 Sentar las bases del pensamiento científico, la iniciativa investigadora y la curiosidad por el conocimiento es inherente al desarrollo de la etapa Educación Infantil. A lo largo de la etapa, el alumnado deberá encontrar soluciones o alternativas originales y creativas a diferentes cuestiones, retos o situaciones. Y lo hará mediante la aplicación de procesos inicialmente sencillos y manipulativos, que progresivamente ganarán en complejidad y requerirán mayor capacidad de abstracción. Dichos procesos son propios tanto de las destrezas de pensamiento computacional y de diseño como del método científico, y se aplicarán descomponiendo una tarea en otras más simples, formulando y comprobando hipótesis, explorando e investigando, relacionando conocimientos y planteando ideas o soluciones originales.
 
-3. Reconocer elementos y fenómenos de la naturaleza, mostrando interés por los hábitos que inciden sobre ella, para apreciar la importancia del uso sostenible, el cuidado y la conservación del entorno en la vida de las personas.
+3. Reconocer elementos y fenómenos de la naturaleza, mostrando interés por los hábitos que inciden sobre ella, para apreciar la importancia del uso sostenible, el cuidado y la conservación del entorno en la vida de las personas.
 
 El entorno próximo es el primer contexto con el que se relacionan niños y niñas desde su nacimiento. Los diferentes elementos y fenómenos naturales que en él se desarrollan atraerán su atención y supondrán una oportunidad ideal para alentar su curiosidad a medida que los va descubriendo. La actitud con la que se relacionen con el medio físico y natural condicionará en gran medida sus experiencias y aprendizajes. Así, desde el primer momento, debe propiciarse un acercamiento al medio natural y a los seres vivos e inertes que forman parte de él con todo el cuidado y el respeto que su edad y aptitudes les permitan.
 
@@ -686,23 +658,17 @@ Este proceso de descubrimiento y conocimiento progresivo del entorno deberá ori
 
 **Criterios de evaluación**
 
-Competencia específica 1.
-
-**1.1** Relacionar objetos a partir de sus cualidades o atributos básicos, mostrando curiosidad e interés.
+Competencia específica 1. **1.1** Relacionar objetos a partir de sus cualidades o atributos básicos, mostrando curiosidad e interés.
 
 **1.2** Emplear los cuantificadores básicos más significativos relacionados con su experiencia diaria, utilizándolos en el contexto del juego y la interacción con los demás.
 
 **1.3** Aplicar sus conocimientos acerca de las nociones espaciales básicas para ubicarse en los espacios, tanto en reposo como en movimiento, jugando con el propio cuerpo y con los objetos.
 
-Competencia específica 2.
-
-**2.1** Gestionar las dificultades, retos y problemas con interés e iniciativa, mediante su división en secuencias de actividades más sencillas.
+Competencia específica 2. **2.1** Gestionar las dificultades, retos y problemas con interés e iniciativa, mediante su división en secuencias de actividades más sencillas.
 
 **2.2** Proponer soluciones y alternativas a través de distintas estrategias, escuchando y respetando las de los demás.
 
-Competencia específica 3.
-
-**3.1** Interesarse por las actividades en contacto con la naturaleza y las características de los elementos naturales del entorno, mostrando respeto hacia ellos y hacia los animales que lo habitan.
+Competencia específica 3. **3.1** Interesarse por las actividades en contacto con la naturaleza y las características de los elementos naturales del entorno, mostrando respeto hacia ellos y hacia los animales que lo habitan.
 
 **3.2** Identificar y nombrar los fenómenos atmosféricos habituales en su entorno, explicando sus consecuencias en la vida cotidiana.
 
@@ -748,9 +714,7 @@ C. Indagación en el medio físico y natural: cuidado, valoración y respeto.
 
 **Criterios de evaluación**
 
-Competencia específica 1.
-
-**1.1** Establecer distintas relaciones entre los objetos a partir de sus cualidades o atributos, mostrando curiosidad e interés.
+Competencia específica 1. **1.1** Establecer distintas relaciones entre los objetos a partir de sus cualidades o atributos, mostrando curiosidad e interés.
 
 **1.2** Emplear los cuantificadores básicos más significativos en el contexto del juego y en la interacción con los demás.
 
@@ -760,9 +724,7 @@ Competencia específica 1.
 
 **1.5** Organizar su actividad, ordenando las secuencias y utilizando las nociones temporales básicas.
 
-Competencia específica 2.
-
-**2.1** Gestionar situaciones, dificultades, retos o problemas mediante la planificación de secuencias de actividades, la manifestación de interés e iniciativa y la cooperación con sus iguales.
+Competencia específica 2. **2.1** Gestionar situaciones, dificultades, retos o problemas mediante la planificación de secuencias de actividades, la manifestación de interés e iniciativa y la cooperación con sus iguales.
 
 **2.2** Canalizar progresivamente la frustración ante las dificultades o problemas mediante la aplicación de diferentes estrategias.
 
@@ -774,9 +736,7 @@ Competencia específica 2.
 
 **2.6** Participar en proyectos utilizando dinámicas cooperativas, compartiendo y valorando opiniones propias y ajenas, y expresando conclusiones personales a partir de ellas.
 
-Competencia específica 3.
-
-**3.1** Mostrar una actitud de respeto, cuidado y protección hacia el medio natural y los animales, identificando el impacto positivo o negativo que algunas acciones humanas ejercen sobre ellos.
+Competencia específica 3. **3.1** Mostrar una actitud de respeto, cuidado y protección hacia el medio natural y los animales, identificando el impacto positivo o negativo que algunas acciones humanas ejercen sobre ellos.
 
 **3.2** Identificar rasgos comunes y diferentes entre seres vivos e inertes.
 
@@ -828,7 +788,7 @@ C. Indagación en el medio físico y natural. Cuidado, valoración y respeto.
 
 – Respeto por el patrimonio cultural presente en el medio físico.
 
-Área 3. Comunicación y Representación de la Realidad
+Área 3. Comunicación y Representación de la Realidad
 
 Los diferentes lenguajes y formas de expresión que se recogen en esta área contribuyen al desarrollo integral y armónico de niños y niñas, y deben abordarse de manera global e integrada con las otras dos áreas, mediante el diseño de situaciones de aprendizaje en las que puedan utilizar diferentes formas de comunicación y representación en contextos significativos y funcionales. Se pretende desarrollar en niños y niñas las capacidades que les permitan comunicarse a través de diferentes lenguajes y formas de expresión como medio para construir su identidad, representar la realidad y relacionarse con las demás personas.
 
@@ -858,7 +818,7 @@ La etapa se concibe como un continuo aprendizaje. Desde su nacimiento y a lo lar
 
 Competencias específicas.
 
-1. Manifestar interés por interactuar en situaciones cotidianas a través de la exploración y el uso de su repertorio comunicativo, para expresar sus necesidades e intenciones y responder a las exigencias del entorno.
+1. Manifestar interés por interactuar en situaciones cotidianas a través de la exploración y el uso de su repertorio comunicativo, para expresar sus necesidades e intenciones y responder a las exigencias del entorno.
 
 El deseo o la necesidad de interactuar con el entorno es el motor que posibilita la evolución de las destrezas comunicativas. Para ello es imprescindible experimentar el placer de comunicarse mediante las primeras interacciones ligadas a la emoción, que se producen en situaciones globales cuyo contexto (gestos, silencios, prosodia…) facilitan la comprensión, la expresión y la integración de los significados de las palabras antes de que el niño o la niña sea capaz de usarlas. La persona adulta, como principal interlocutor en las fases iniciales, se convierte en el facilitador de la experiencia comunicativa de cada niño o niña a partir de experiencias compartidas.
 
@@ -868,25 +828,25 @@ Participar en situaciones de comunicación significativas y funcionales, desde e
 
 Estas interacciones comunicativas fomentarán también la adquisición progresiva de las convenciones sociales que rigen los intercambios comunicativos, así como la curiosidad y motivación hacia el aprendizaje de otras lenguas, acercándose progresivamente a los significados de distintos mensajes en contextos de comunicación conocidos.
 
-2. Interpretar y comprender mensajes y representaciones apoyándose en conocimientos y recursos de su propia experiencia para responder a las demandas del entorno y construir nuevos aprendizajes.
+2. Interpretar y comprender mensajes y representaciones apoyándose en conocimientos y recursos de su propia experiencia para responder a las demandas del entorno y construir nuevos aprendizajes.
 
 La comprensión supone recibir y procesar información en distintos ámbitos y formatos, expresada a través de mensajes variados (orales, escritos, multimodales…), representaciones y manifestaciones personales, sociales, culturales y artísticas próximas al interés o a la necesidad personal.
 
 La comprensión implica interpretar mensajes, analizarlos y dar respuesta a los estímulos percibidos. Para ello, el alumnado de esta etapa irá adquiriendo y activando distintas estrategias para desarrollar la capacidad de realizar anticipaciones, aproximaciones e inferencias de una manera cada vez más personal y creativa. De esta forma, podrá comprender los mensajes y las intenciones comunicativas de otras personas e irá construyendo nuevos significados y aprendizajes, progresando desde el acompañamiento y la mediación hacia un determinado grado de autonomía y conocimiento del mundo.
 
-3. Producir mensajes de manera eficaz, personal y creativa, utilizando diferentes lenguajes, descubriendo los códigos de cada uno de ellos y explorando sus posibilidades expresivas, para responder a diferentes necesidades comunicativas.
+3. Producir mensajes de manera eficaz, personal y creativa, utilizando diferentes lenguajes, descubriendo los códigos de cada uno de ellos y explorando sus posibilidades expresivas, para responder a diferentes necesidades comunicativas.
 
 En las primeras etapas, la producción y emisión de mensajes tienen que ver con la necesidad de contacto y satisfacción de las necesidades más básicas; el lenguaje corporal y gestual es esencial en ese primer acto comunicativo. El lenguaje oral, gracias a la interacción con la persona adulta, se convierte en el vehículo principal de aprendizaje, regulación de la conducta y expresión de necesidades, ideas, emociones, sentimientos y vivencias. La prosodia y todos los aspectos no verbales que acompañan al lenguaje oral cobran ahora una importancia capital.
 
 Conforme se avanza en la etapa, la producción de mensajes permite también representar aspectos de la realidad vivida o imaginada de una forma cada vez más personal y mejor ajustada a los distintos contextos y situaciones comunicativas, a través del uso de diferentes lenguajes. El alumnado utilizará diferentes formas de expresión de una manera libre y creativa a partir de su conocimiento e interpretación de la realidad y la conceptualización y el dominio de los sistemas de simbolización y de las técnicas requeridas en cada caso (verbales, no verbales, plásticas, musicales, digitales...). El alumnado irá descubriendo, mediante la experimentación y el uso, las posibilidades expresivas de cada uno de dichos lenguajes, en función del momento concreto de su proceso madurativo y de aprendizaje.
 
-4. Participar por iniciativa propia en actividades relacionadas con textos escritos, mostrando interés y curiosidad, para comprender su funcionalidad y algunas de sus características.
+4. Participar por iniciativa propia en actividades relacionadas con textos escritos, mostrando interés y curiosidad, para comprender su funcionalidad y algunas de sus características.
 
 La etapa de Educación Infantil es el entorno privilegiado para realizar un acercamiento progresivo al lenguaje escrito como forma de comunicación, conocimiento y disfrute. A través del acercamiento a los textos escritos y su exploración mediante anticipaciones e inferencias, así como a través de la observación de modelos lectores y escritores de calidad, se irá despertando en niños y niñas la curiosidad por descubrir sus funcionalidades en tanto que herramienta de representación del lenguaje oral y sus sonidos. En la medida en que avanza en la comprensión de algunas de las características y convenciones del lenguaje escrito, se incrementa la necesidad de descubrir la información que contiene, con una actitud lúdica y de disfrute.
 
 Siempre desde el respeto a la evolución de los diferentes ritmos de desarrollo personal y del conocimiento del proceso a través del cual niños y niñas se apropian del sistema de escritura y las hipótesis que utilizan, se promoverá una aproximación al lenguaje escrito como actividad inserta en el quehacer cotidiano del aula, como inicio de un proceso que deberá consolidarse en la Educación Primaria. Las bibliotecas jugarán un papel relevante como espacios donde se pongan en juego las ideas infantiles sobre el porqué y el para qué del lenguaje escrito, así como lugar de acercamiento al disfrute de los primeros contactos con la literatura infantil. Del mismo modo, la presencia de soportes y útiles de escritura variados, en lugares accesibles, serán una invitación a producir mensajes por placer y a sentir la emoción de expresar sus pensamientos, vivencias o sentimientos de manera espontánea.
 
-5. Valorar la diversidad lingüística presente en su entorno, así como otras manifestaciones culturales, para enriquecer sus estrategias comunicativas y su bagaje cultural.
+5. Valorar la diversidad lingüística presente en su entorno, así como otras manifestaciones culturales, para enriquecer sus estrategias comunicativas y su bagaje cultural.
 
 La riqueza plurilingüe del aula –y, en su caso, el aprendizaje de lenguas extranjeras– se convierte en un elemento de particular importancia, ya que favorece la exposición a lenguas distintas de la familiar de cada niño o niña, así como una aproximación a las mismas a través de interacciones y actividades lúdicas. A partir de ello, surge la necesidad de educar en el respeto y la valoración del bagaje lingüístico y sociocultural propio y ajeno, entendiendo la pluralidad lingüística y dialectal como un elemento enriquecedor que proporciona las claves para una mayor y mejor comprensión del mundo. También las manifestaciones y representaciones socioculturales constituyen un marco privilegiado para la comunicación. La pluralidad de sus lenguajes invita a promover el reconocimiento de las semejanzas y diferencias entre sus códigos y a desarrollar la sensibilidad hacia distintos referentes culturales, prestando una especial atención a la literatura infantil.
 
@@ -896,9 +856,7 @@ De todo ello se espera que surja un diálogo lleno de matices entre las diferent
 
 **Criterios de evaluación**
 
-Competencia específica 1.
-
-**1.1** Participar con interés en interacciones cotidianas, utilizando diferentes sistemas comunicativos.
+Competencia específica 1. **1.1** Participar con interés en interacciones cotidianas, utilizando diferentes sistemas comunicativos.
 
 **1.2** Participar de forma espontánea en situaciones comunicativas, adecuando la postura, los gestos y los movimientos a sus intenciones.
 
@@ -908,29 +866,21 @@ Competencia específica 1.
 
 **1.5** Participar en situaciones de uso de diferentes lenguas, manifestando interés y curiosidad hacia la diversidad de perfiles lingüísticos.
 
-Competencia específica 2.
-
-**2.1** Interpretar los estímulos y mensajes del entorno, reaccionando de manera adecuada.
+Competencia específica 2. **2.1** Interpretar los estímulos y mensajes del entorno, reaccionando de manera adecuada.
 
 **2.2** Expresar sensaciones, sentimientos y emociones a partir de distintas representaciones y manifestaciones artísticas y culturales.
 
-Competencia específica 3.
-
-**3.1** Utilizar el lenguaje oral para expresar y compartir necesidades, sentimientos, deseos, emociones, vivencias, regulando las acciones e interactuando en diferentes situaciones y contextos.
+Competencia específica 3. **3.1** Utilizar el lenguaje oral para expresar y compartir necesidades, sentimientos, deseos, emociones, vivencias, regulando las acciones e interactuando en diferentes situaciones y contextos.
 
 **3.2** Explorar las posibilidades expresivas de los diferentes lenguajes, utilizando los medios materiales propios de los mismos.
 
 **3.3** Producir mensajes, ampliando y enriqueciendo su repertorio comunicativo con seguridad y confianza.
 
-Competencia específica 4.
-
-**4.1** Participar en actividades lúdicas de aproximación al lenguaje escrito, mostrando una actitud activa.
+Competencia específica 4. **4.1** Participar en actividades lúdicas de aproximación al lenguaje escrito, mostrando una actitud activa.
 
 **4.2** Recurrir a escrituras indeterminadas, espontáneas y no convencionales, incorporándolas a sus producciones con intención comunicativa.
 
-Competencia específica 5.
-
-**5.1** Relacionarse con naturalidad en la realidad lingüística y cultural del aula.
+Competencia específica 5. **5.1** Relacionarse con naturalidad en la realidad lingüística y cultural del aula.
 
 **5.2** Manifestar interés y disfrute hacia actividades individuales o colectivas relacionadas con la literatura infantil, las obras musicales, los audiovisuales, las danzas o las dramatizaciones, avanzando en una actitud participativa.
 
@@ -1018,9 +968,7 @@ H. El lenguaje y la expresión corporales.
 
 **Criterios de evaluación**
 
-Competencia específica 1.
-
-**1.1** Participar de manera activa, espontánea y respetuosa con las diferencias individuales en situaciones comunicativas de progresiva complejidad, en función de su desarrollo individual.
+Competencia específica 1. **1.1** Participar de manera activa, espontánea y respetuosa con las diferencias individuales en situaciones comunicativas de progresiva complejidad, en función de su desarrollo individual.
 
 **1.2** Ajustar su repertorio comunicativo a las propuestas, a los interlocutores y al contexto, indagando en las posibilidades expresivas de los diferentes lenguajes.
 
@@ -1028,15 +976,11 @@ Competencia específica 1.
 
 **1.4** Interactuar con distintos recursos digitales, familiarizándose con diferentes medios y herramientas digitales.
 
-Competencia específica 2.
-
-**2.1** Interpretar de forma eficaz los mensajes e intenciones comunicativas de los demás.
+Competencia específica 2. **2.1** Interpretar de forma eficaz los mensajes e intenciones comunicativas de los demás.
 
 **2.2** Interpretar los mensajes transmitidos mediante representaciones o manifestaciones artísticas, también en formato digital, reconociendo la intencionalidad del emisor y mostrando una actitud curiosa y responsable.
 
-Competencia específica 3.
-
-**3.1** Hacer un uso funcional del lenguaje oral, aumentando su repertorio lingüístico y construyendo progresivamente un discurso más eficaz, organizado y coherente en contextos formales e informales.
+Competencia específica 3. **3.1** Hacer un uso funcional del lenguaje oral, aumentando su repertorio lingüístico y construyendo progresivamente un discurso más eficaz, organizado y coherente en contextos formales e informales.
 
 **3.2** Utilizar el lenguaje oral como instrumento regulador de la acción en las interacciones con los demás con seguridad y confianza.
 
@@ -1050,17 +994,13 @@ Competencia específica 3.
 
 **3.7** Expresarse de manera creativa, utilizando diversas herramientas o aplicaciones digitales intuitivas y visuales.
 
-Competencia específica 4.
-
-**4.1** Mostrar interés por comunicarse a través de códigos escritos, convencionales o no, valorando su función comunicativa.
+Competencia específica 4. **4.1** Mostrar interés por comunicarse a través de códigos escritos, convencionales o no, valorando su función comunicativa.
 
 **4.2** Identificar, de manera acompañada, alguna de las características textuales y paratextuales mediante la indagación en textos de uso social libres de prejuicios y estereotipos sexistas.
 
 **4.3** Recurrir a la biblioteca como fuente de información y disfrute, respetando sus normas de uso.
 
-Competencia específica 5.
-
-**5.1** Relacionarse de forma respetuosa en la pluralidad lingüística y cultural de su entorno, manifestando interés por otras lenguas, etnias y culturas.
+Competencia específica 5. **5.1** Relacionarse de forma respetuosa en la pluralidad lingüística y cultural de su entorno, manifestando interés por otras lenguas, etnias y culturas.
 
 **5.2** Participar en interacciones comunicativas en lengua extranjera relacionadas con rutinas y situaciones cotidianas.
 
@@ -1142,7 +1082,7 @@ G. El lenguaje y la expresión plásticos y visuales.
 
 – Materiales específicos e inespecíficos, elementos, técnicas y procedimientos plásticos.
 
-ââIntenciÃ³n expresiva de producciones plÃ¡sticas y pictÃ³ricas.Â
+âÓâIntención expresiva de producciones plásticas y pictóricas.
 
 – Manifestaciones plásticas variadas. Otras manifestaciones artísticas.
 

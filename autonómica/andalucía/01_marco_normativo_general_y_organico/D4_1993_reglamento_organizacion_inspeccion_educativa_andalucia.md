@@ -1,10 +1,12 @@
 ---
 id: norm-and-d-4-1993
 codigo_sintetizado: D4_1993 Reglamento Organizacion Inspeccion Educativa Andalucia
-titulo: Decreto 4/1993, de 26 de enero, por el que se aprueba el Reglamento de Organización y Funcionamiento de la Inspección Educativa de Andalucía.
+titulo: Decreto 4/1993, de 26 de enero, por el que se aprueba el Reglamento de Organización
+  y Funcionamiento de la Inspección Educativa de Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 4/1993
 fecha_disposicion: '1993-01-26'
@@ -18,19 +20,19 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Inspección educativa
 tags:
-  - inspeccion_educativa
-  - inspectores
-  - supervision
-  - andalucia
+- inspeccion_educativa
+- inspectores
+- supervision
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
 ---
 # Decreto 4/1993, de 26 de enero, por el que se aprueba el Reglamento de Organización y Funcionamiento de la Inspección Educativa de Andalucía.
 

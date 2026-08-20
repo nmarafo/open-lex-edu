@@ -1,7 +1,11 @@
 ---
 id: norm-can-res-036
 codigo_sintetizado: Resolucion BOC 36
-titulo: Resolución de 25 de febrero de 2026, por la que se establece la distribución horaria y estructura modular de los Grados C (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y 3, de las familias profesionales de Artes Gráficas; Fabricación Mecánica; y Servicios Socioculturales y a la Comunidad, en el ámbito de la Comunidad Autónoma de Canarias.
+titulo: Resolución de 25 de febrero de 2026, por la que se establece la distribución
+  horaria y estructura modular de los Grados C (Certificados Profesionales) y sus
+  correspondientes Grados B (Certificados de Competencia), de niveles 2 y 3, de las
+  familias profesionales de Artes Gráficas; Fabricación Mecánica; y Servicios Socioculturales
+  y a la Comunidad, en el ámbito de la Comunidad Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General competente de la Consejería de Educación de Canarias
@@ -13,64 +17,64 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-  - curriculo
-  - ensenanzas-artisticas
-  - ensenanzas-deportivas
-  - formacion-profesional
-  - orientacion-educativa
-  - personal-no-docente
+- curriculo
+- ensenanzas-artisticas
+- ensenanzas-deportivas
+- formacion-profesional
+- orientacion-educativa
+- personal-no-docente
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-can-res-032
-    - norma_id: norm-can-res-033
-    - norma_id: norm-can-res-034
-    - norma_id: norm-can-res-035
-    - norma_id: norm-can-res-037
-    - norma_id: norm-can-res-038
-    - norma_id: norm-can-res-039
-    - norma_id: norm-can-res-134
-    - norma_id: norm-can-res-boc-2024-226-44
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-es-2025-2039
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-rd-39-1997
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-res-032
+  - norma_id: norm-can-res-033
+  - norma_id: norm-can-res-034
+  - norma_id: norm-can-res-035
+  - norma_id: norm-can-res-037
+  - norma_id: norm-can-res-038
+  - norma_id: norm-can-res-039
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-2025-2039
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-rd-39-1997
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
-    - norma_id: norm-can-res-032
-    - norma_id: norm-can-res-033
-    - norma_id: norm-can-res-034
-    - norma_id: norm-can-res-035
-    - norma_id: norm-can-res-037
-    - norma_id: norm-can-res-038
-    - norma_id: norm-can-res-039
+  - norma_id: norm-can-res-032
+  - norma_id: norm-can-res-033
+  - norma_id: norm-can-res-034
+  - norma_id: norm-can-res-035
+  - norma_id: norm-can-res-037
+  - norma_id: norm-can-res-038
+  - norma_id: norm-can-res-039
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-can-res-134
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-rd-39-1997
-    - norma_id: norm-es-2025-2039
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-can-res-033
-    - norma_id: norm-can-res-034
-    - norma_id: norm-can-res-035
-    - norma_id: norm-can-res-037
-    - norma_id: norm-can-res-038
-    - norma_id: norm-can-res-039
-    - norma_id: norm-can-res-032
-    - norma_id: norm-can-res-boc-2024-226-44
+  - '1'
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-134
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-rd-39-1997
+  - norma_id: norm-es-2025-2039
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-can-res-033
+  - norma_id: norm-can-res-034
+  - norma_id: norm-can-res-035
+  - norma_id: norm-can-res-037
+  - norma_id: norm-can-res-038
+  - norma_id: norm-can-res-039
+  - norma_id: norm-can-res-032
+  - norma_id: norm-can-res-boc-2024-226-44
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-045-735.pdf
 ---
 # Resolución de 25 de febrero de 2026, por la que se establece la distribución horaria y estructura modular de los Grados C (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y 3, de las familias profesionales de Artes Gráficas; Fabricación Mecánica; y Servicios Socioculturales y a la Comunidad, en el ámbito de la Comunidad Autónoma de Canarias.
@@ -174,8 +178,7 @@ Certificado profesional: Gestión de la producción en procesos de encuadernaci�
 ## Anexo II
 
 FAMILIA PROFESIONAL: FABRICACIÓN MECÁNICA DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C (CERTIFICADOS PROFESIONALES) Y SUS CORRESPONDIENTES GRADOS B (CERTIFICADOS DE COMPETENCIA) DE NIVELES 2 Y 3 Certificado de competencia: Definición de procesos de construcciones metálicas.
-• Código: FME_B_0247.
-• Título de Formación Profesional asociado: Técnico Superior en Construcciones Metálicas.
+• Código: FME_B_0247. • Título de Formación Profesional asociado: Técnico Superior en Construcciones Metálicas.
 • Nivel: 3 Código Real Decreto MÓDULOS PROFESIONALES Horas totales 0247 Definición de procesos de construcciones metálicas Código del certificado de competencia: FME_B_0247 170 Certificado profesional: Ejecución de procedimientos de mecanizado, conformado y especiales en fabricación mecánica.
 • Código: FME_C_001_4B.
 • Título de Formación Profesional asociado: Técnico en Mecanizado.
@@ -218,21 +221,17 @@ Certificado profesional: : Diseño de productos de construcciones metálicas.
 ## Anexo III
 
 FAMILIA PROFESIONAL: SERVICIOS SOCIOCULTURALES Y A LA COMUNIDAD DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C (CERTIFICADOS PROFESIONALES) Y SUS CORRESPONDIENTES GRADOS B (CERTIFICADOS DE COMPETENCIA) DE NIVELES 2 Y 3 Certificado de competencia: Didáctica de la educación infantil.
-• Código: SSC_B_0011.
-• Título de Formación Profesional asociado: Técnico Superior en Educación infantil.
+• Código: SSC_B_0011. • Título de Formación Profesional asociado: Técnico Superior en Educación infantil.
 • Nivel: 3. Código Real Decreto MÓDULOS PROFESIONALES Horas totales 0011 Didáctica de la educación infantil Código del certificado de competencia: SSC_B_0011 202 Certificado de competencia: Desarrollo cognitivo y motor.
-• Código: SSC_B_0015.
-• Título de Formación Profesional asociado: Técnico Superior en Educación infantil.
+• Código: SSC_B_0015. • Título de Formación Profesional asociado: Técnico Superior en Educación infantil.
 • Nivel: 3. Código Real Decreto MÓDULOS PROFESIONALES Horas totales 0015 Desarrollo cognitivo y motor Código del certificado de competencia: SSC_B_0015 170 Certificado de competencia: Actividades de ocio y tiempo libre.
-• Código: SSC_B_1123.
-• Título de Formación Profesional asociado: Técnico Superior en Animación Sociocultural y Turística.
+• Código: SSC_B_1123. • Título de Formación Profesional asociado: Técnico Superior en Animación Sociocultural y Turística.
 • Nivel: 3. Código Real Decreto MÓDULOS PROFESIONALES Horas totales 1123 Actividades de ocio y tiempo libre Código del certificado de competencia: SSC_B_1123 202
 
 ## Anexo III
 
 Certificado de competencia: SSC_B_1651. Tráfico, circulación de vehículos y transporte por carretera.
-• Código: SSC_B_1651.
-• Título de Formación Profesional asociado: Técnico Superior en Formación para la Movilidad Segura y Sostenible.
+• Código: SSC_B_1651. • Título de Formación Profesional asociado: Técnico Superior en Formación para la Movilidad Segura y Sostenible.
 • Nivel: 3. Código Real Decreto MÓDULOS PROFESIONALES Horas totales 1651 Tráfico, circulación de vehículos y transporte por carretera Código del certificado de competencia: SSC_B_1651 205 Certificado profesional: Atención al cliente y organización de actos de protocolo en servicios funerarios.
 • Código: SSC_C_001_4B
 • Títulos de Formación Profesional asociados: Técnico en Servicios Funerarios.
@@ -283,7 +282,7 @@ j) Se ha dado parte del accidente a la compañía de seguros para que el vehícu
 k) Se han documentado todos los procesos realizados en el servicio funerario.
 l) Se ha seguido el reglamento general de vehículos aplicable y el protocolo de traslados y conducciones afines en la conducción de vehículos de transporte funerario.
 
-4. Verifica el estado técnico del vehículo funerario y sus equipos auxiliares realizando las comprobaciones necesarias, garantizando las condiciones óptimas de funcionamiento y seguridad en la vía pública. Criterios de evaluación:
+4. Verifica el estado técnico del vehículo funerario y sus equipos auxiliares realizando las comprobaciones necesarias, garantizando las condiciones óptimas de funcionamiento y seguridad en la vía pública. Criterios de evaluación:
 a) Se han realizado las inspecciones de seguridad básica del vehículo al inicio del servicio funerario conforme a las hojas y formularios o documentos de control en función de las características del servicio y la normativa vigente.
 b) Se han realizado las operaciones de prueba, verificación, control y puesta en marcha en la comprobación del funcionamiento de los equipos y sistemas auxiliares del vehículo funerario.
 c) Se han descrito las disfunciones encontradas en el funcionamiento del vehículo funerario para su posterior reparación.
@@ -295,7 +294,7 @@ h) Se ha comprobado el estado del volumen de combustible.
 i) Se ha conectado el cargador, en el caso de los vehículos eléctricos, verificando que se activa la carga.
 j) Se ha desconectado el cargador del vehículo eléctrico antes de su uso recogiendo la manguera de conexión tomando las precauciones necesarias para evitar daños.
 
-5. Realiza las operaciones de conservación y mantenimiento preventivo básico del vehículo funerario respetando las normas de seguridad, salud laboral y medioambiental y aplicando los procedimientos e instrucciones establecidos. Criterios de evaluación:
+5. Realiza las operaciones de conservación y mantenimiento preventivo básico del vehículo funerario respetando las normas de seguridad, salud laboral y medioambiental y aplicando los procedimientos e instrucciones establecidos. Criterios de evaluación:
 a) Se han identificado las normas de protección medioambiental, salud laboral y las medidas de protección personal y colectivas estipuladas en las normas de seguridad, en las operaciones de conservación y mantenimiento regular del vehículo funerario.
 b) Se han descrito las normas de seguridad aplicables en la organización del espacio y la preparación de los materiales y herramientas necesarios para la realización de las operaciones de mantenimiento y conservación del vehículo funerario.
 c) Se ha realizado el mantenimiento preventivo de un vehículo de transporte funerario: motor, sistema de refrigeración, sistema de lubricación y sistema de alimentación, entre otros.

@@ -3,7 +3,8 @@ id: norm-and-l17-2007
 titulo: Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Ley
 numero_disposicion: 17/2007
 fecha_disposicion: '2007-12-10'
@@ -18,21 +19,21 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Marco normativo general
 tags:
-  - lea
-  - ley_educacion_andalucia
-  - sistema_educativo_andaluz
-  - equidad
+- lea
+- ley_educacion_andalucia
+- sistema_educativo_andaluz
+- equidad
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
 ---
 # Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)
 

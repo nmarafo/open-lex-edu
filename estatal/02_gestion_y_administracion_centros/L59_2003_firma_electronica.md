@@ -4,7 +4,8 @@ codigo_sintetizado: BOE-A-2003-23399
 titulo: Ley 59/2003, de 19 de diciembre, de firma electrónica.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2003-12-20'
 boletin: BOE
@@ -15,20 +16,20 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Administración electrónica y firmas
 tags:
-  - administraci-n-electr-nica-y-firmas
-  - equipos-directivos
+- administraci-n-electr-nica-y-firmas
+- equipos-directivos
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-ce-1978
   fundamento_de:
-    - norma_id: norm-es-2012-8745
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-2012-8745
+  - norma_id: norm-es-l-39-2015
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-es-1999-23750
+  - '27'
+  - norma_id: norm-es-1999-23750
 ---
 # Ley 59/2003, de 19 de diciembre, de firma electrónica.
 
@@ -272,9 +273,7 @@ a) Solicitud del firmante, la persona física o jurídica representada por éste
 
 b) Resolución judicial o administrativa que lo ordene.
 
-c) La existencia de dudas fundadas acerca de la concurrencia de las causas de extinción de la vigencia de los certificados contempladas en los párrafos c) y g) del artículo 8.1.
-
-d) Cualquier otra causa lícita prevista en la declaración de prácticas de certificación.
+c) La existencia de dudas fundadas acerca de la concurrencia de las causas de extinción de la vigencia de los certificados contempladas en los párrafos c) y g) del artículo 8.1. d) Cualquier otra causa lícita prevista en la declaración de prácticas de certificación.
 
 2. La suspensión de la vigencia de un certificado electrónico surtirá efectos desde que se incluya en el servicio de consulta sobre la vigencia de los certificados del prestador de servicios de certificación.
 
@@ -316,9 +315,7 @@ i) Los límites del valor de las transacciones para las que puede utilizarse el 
 
 3. Los certificados reconocidos podrán asimismo contener cualquier otra circunstancia o atributo específico del firmante en caso de que sea significativo en función del fin propio del certificado y siempre que aquél lo solicite.
 
-4. Si los certificados reconocidos admiten una relación de representación incluirán una indicación del documento público que acredite de forma fehaciente las facultades del firmante para actuar en nombre de la persona o entidad a la que represente y, en caso de ser obligatoria la inscripción, de los datos registrales, de conformidad con el apartado 2 del artículo 13.
-
-#### Artículo 12. Obligaciones previas a la expedición de certificados reconocidos.
+4. Si los certificados reconocidos admiten una relación de representación incluirán una indicación del documento público que acredite de forma fehaciente las facultades del firmante para actuar en nombre de la persona o entidad a la que represente y, en caso de ser obligatoria la inscripción, de los datos registrales, de conformidad con el apartado 2 del artículo 13. #### Artículo 12. Obligaciones previas a la expedición de certificados reconocidos.
 
 Antes de la expedición de un certificado reconocido, los prestadores de servicios de certificación deberán cumplir las siguientes obligaciones:
 
@@ -500,9 +497,7 @@ f) Superar los límites que figuren en el certificado electrónico en cuanto a s
 
 2. En el caso de los certificados electrónicos que recojan un poder de representación del firmante, tanto éste como la persona o entidad representada, cuando ésta tenga conocimiento de la existencia del certificado, están obligados a solicitar la revocación o suspensión de la vigencia del certificado en los términos previstos en esta ley.
 
-3. Cuando el firmante sea una persona jurídica, el solicitante del certificado electrónico asumirá las obligaciones indicadas en el apartado 1.
-
-4. El prestador de servicios de certificación tampoco será responsable por los daños y perjuicios ocasionados al firmante o a terceros de buena fe si el destinatario de los documentos firmados electrónicamente actúa de forma negligente. Se entenderá, en particular, que el destinatario actúa de forma negligente en los siguientes casos:
+3. Cuando el firmante sea una persona jurídica, el solicitante del certificado electrónico asumirá las obligaciones indicadas en el apartado 1. 4. El prestador de servicios de certificación tampoco será responsable por los daños y perjuicios ocasionados al firmante o a terceros de buena fe si el destinatario de los documentos firmados electrónicamente actúa de forma negligente. Se entenderá, en particular, que el destinatario actúa de forma negligente en los siguientes casos:
 
 a) Cuando no compruebe y tenga en cuenta las restricciones que figuren en el certificado electrónico en cuanto a sus posibles usos y al importe individualizado de las transacciones que puedan realizarse con él.
 
@@ -784,33 +779,19 @@ a) El incumplimiento de las órdenes dictadas en virtud del artículo 8 en.
 
 aquellos supuestos en que hayan sido dictadas por un órgano administrativo.
 
-b) El incumplimiento de la obligación de suspender la transmisión, el alojamiento de datos, el acceso a la red o la prestación de cualquier otro servicio equivalente de intermediación, cuando un órgano administrativo competente lo ordene, en virtud de lo dispuesto en el artículo 11.
-
-c) El incumplimiento significativo de la obligación de retener los datos de tráfico generados por las comunicaciones establecidas durante la prestación de un servicio de la sociedad de la información, prevista en el artículo 12.
-
-d) La utilización de los datos retenidos, en cumplimiento del artículo 12, para fines distintos de los señalados en él.
+b) El incumplimiento de la obligación de suspender la transmisión, el alojamiento de datos, el acceso a la red o la prestación de cualquier otro servicio equivalente de intermediación, cuando un órgano administrativo competente lo ordene, en virtud de lo dispuesto en el artículo 11. c) El incumplimiento significativo de la obligación de retener los datos de tráfico generados por las comunicaciones establecidas durante la prestación de un servicio de la sociedad de la información, prevista en el artículo 12. d) La utilización de los datos retenidos, en cumplimiento del artículo 12, para fines distintos de los señalados en él.
 
 3. Son infracciones graves:
 
 a) El incumplimiento de la obligación de retener los datos de tráfico generados por las comunicaciones establecidas durante la prestación de un servicio de la sociedad de la información, prevista en el artículo 12, salvo que deba ser considerado como infracción muy grave.
 
-b) El incumplimiento significativo de lo establecido en los párrafos a) y f) del artículo 10.1.
+b) El incumplimiento significativo de lo establecido en los párrafos a) y f) del artículo 10.1. c) El envío masivo de comunicaciones comerciales por correo electrónico u otro medio de comunicación electrónica equivalente o el envío, en el plazo de un año, de más de tres comunicaciones comerciales por los medios aludidos a un mismo destinatario, cuando en dichos envíos no se cumplan los requisitos establecidos en el artículo 21. d) El incumplimiento significativo de la obligación del prestador de servicios establecida en el apartado 1 del artículo 22, en relación con los procedimientos para revocar el consentimiento prestado por los destinatarios.
 
-c) El envío masivo de comunicaciones comerciales por correo electrónico u otro medio de comunicación electrónica equivalente o el envío, en el plazo de un año, de más de tres comunicaciones comerciales por los medios aludidos a un mismo destinatario, cuando en dichos envíos no se cumplan los requisitos establecidos en el artículo 21.
-
-d) El incumplimiento significativo de la obligación del prestador de servicios establecida en el apartado 1 del artículo 22, en relación con los procedimientos para revocar el consentimiento prestado por los destinatarios.
-
-e) No poner a disposición del destinatario del servicio las condiciones generales a que, en su caso, se sujete el contrato, en la forma prevista en el artículo 27.
-
-f) El incumplimiento habitual de la obligación de confirmar la recepción de una aceptación, cuando no se haya pactado su exclusión o el contrato se haya celebrado con un consumidor.
+e) No poner a disposición del destinatario del servicio las condiciones generales a que, en su caso, se sujete el contrato, en la forma prevista en el artículo 27. f) El incumplimiento habitual de la obligación de confirmar la recepción de una aceptación, cuando no se haya pactado su exclusión o el contrato se haya celebrado con un consumidor.
 
 g) La resistencia, excusa o negativa a la actuación inspectora de los órganos facultados para llevarla a cabo con arreglo a esta ley.
 
-h) El incumplimiento significativo de lo establecido en el apartado 3 del artículo 10.
-
-i) El incumplimiento significativo de las obligaciones de información o de establecimiento de un procedimiento de rechazo del tratamiento de datos, establecidas en el apartado 2 del artículo 22.
-
-4. Son infracciones leves:
+h) El incumplimiento significativo de lo establecido en el apartado 3 del artículo 10. i) El incumplimiento significativo de las obligaciones de información o de establecimiento de un procedimiento de rechazo del tratamiento de datos, establecidas en el apartado 2 del artículo 22. 4. Son infracciones leves:
 
 a) La falta de comunicación al registro público en que estén inscritos, de acuerdo con lo establecido en el artículo 9, del nombre o nombres de dominio o direcciones de Internet que empleen para la prestación de servicios de la sociedad de la información.
 
@@ -886,9 +867,7 @@ Esta ley se dicta al amparo del artículo 149.1.8.ª, 18.ª, 21.ª y 29.ª de la
 
 Por tanto, Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
 
-Madrid, 19 de diciembre de 2003.
-
-JUAN CARLOS R.
+Madrid, 19 de diciembre de 2003. JUAN CARLOS R.
 
 El Presidente del Gobierno,
 

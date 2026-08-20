@@ -50,9 +50,7 @@ intermedio y avanzado, y su correspondencia con los niveles A, B y C del Marco C
 
 Europeo de Referencia para las Lenguas que, a su vez, se subdividen en los niveles A1, A2,
 
-B1, B2, C1 y C2.
-
-En el ámbito autonómico, la Ley 6/2014, de 25 de julio, Canaria de Educación no
+B1, B2, C1 y C2. En el ámbito autonómico, la Ley 6/2014, de 25 de julio, Canaria de Educación no
 
 Universitaria, complementa esta definición de las enseñanzas de régimen especial, a las
 
@@ -890,9 +888,7 @@ definidos por unos requisitos complementarios establecidos en las convocatorias.
 
 #### Artículo 10. Certificación de nivel.
 
-1. Certificación del nivel básico A2.
-
-Para la obtención del certificado oficial de enseñanzas de idiomas del nivel básico
+1. Certificación del nivel básico A2. Para la obtención del certificado oficial de enseñanzas de idiomas del nivel básico
 
 A2 será necesaria la realización y superación de una prueba específica de certificación
 
@@ -912,9 +908,7 @@ o en sus aulas adscritas (AEOI), y que supere la evaluación final de aprovecham
 
 primer curso del nivel -que incluirá una prueba de aprovechamiento- obtendrá el certificado
 
-de nivel básico A1.
-
-Del mismo modo, el alumnado que curse el nivel A2 en las escuelas oficiales de
+de nivel básico A1. Del mismo modo, el alumnado que curse el nivel A2 en las escuelas oficiales de
 
 idiomas (EOI), o en sus aulas adscritas (AEOI), y que supere la evaluación final de
 
@@ -930,9 +924,7 @@ aspirante escolarizado a la prueba de certificación de enseñanzas de idiomas c
 
 para el nivel básico A2 en ese curso escolar.
 
-2. Certificación de los niveles Intermedio B1, Intermedio B2, Avanzado C1 y Avanzado C2.
-
-Para la obtención de los certificados de enseñanzas de idiomas de los niveles intermedio
+2. Certificación de los niveles Intermedio B1, Intermedio B2, Avanzado C1 y Avanzado C2. Para la obtención de los certificados de enseñanzas de idiomas de los niveles intermedio
 
 B1, intermedio B2, avanzado C1 y avanzado C2 será necesaria la realización y superación
 
@@ -1112,9 +1104,7 @@ que será de obligado cumplimiento.
 
 para la obtención de los certificados de los niveles Básico A2, Intermedio B1, Intermedio
 
-B2, Avanzado C1 y Avanzado C2.
-
-2. En la evaluación y calificación de las pruebas de certificación se tomarán como
+B2, Avanzado C1 y Avanzado C2. 2. En la evaluación y calificación de las pruebas de certificación se tomarán como
 
 referencia los criterios de evaluación recogidos para cada nivel y actividad de lengua en los
 
@@ -1802,11 +1792,7 @@ establecido en la presente Orden.
 
 La presente Orden entrará en vigor al día siguiente de su publicación en el Boletín
 
-Oficial de Canarias y tendrá efectos a partir del año académico 2022-2023.
-
-Santa Cruz de Tenerife, a 15 de septiembre de 2022.
-
-LA CONSEJERA DE EDUCACIÓN,
+Oficial de Canarias y tendrá efectos a partir del año académico 2022-2023. Santa Cruz de Tenerife, a 15 de septiembre de 2022. LA CONSEJERA DE EDUCACIÓN,
 
 UNIVERSIDADES, CULTURA Y DEPORTES,
 

@@ -1,7 +1,11 @@
 ---
 id: norm-can-res-042
 codigo_sintetizado: Resolucion BOC 42
-titulo: Resolución de 26 de noviembre de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial,por la que se dictan instrucciones para la implantación y desarrollo de la oferta de dobles titulaciones de formación profesional (Grados D) en la Comunidad Autónoma de Canarias, a partir del curso escolar 2026/2027 (BOC n.º 250, de 18 de diciembre)
+titulo: Resolución de 26 de noviembre de 2025, de la Dirección General de Formación
+  Profesional y Enseñanzas de Régimen Especial,por la que se dictan instrucciones
+  para la implantación y desarrollo de la oferta de dobles titulaciones de formación
+  profesional (Grados D) en la Comunidad Autónoma de Canarias, a partir del curso
+  escolar 2026/2027 (BOC n.º 250, de 18 de diciembre)
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,39 +17,39 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-  - curriculo
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - evaluacion
-  - formacion-profesional
-  - titulacion
+- curriculo
+- ensenanzas-deportivas
+- equipos-directivos
+- evaluacion
+- formacion-profesional
+- titulacion
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-can-res-134
-    - norma_id: norm-can-res-boc-2024-226-44
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-can-res-boc-2025-118-46
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-boc-2025-118-46
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-can-res-134
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-can-res-boc-2024-226-44
-    - norma_id: norm-can-res-boc-2025-118-46
+  - '1'
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-134
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-can-res-boc-2025-118-46
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-250-4323.pdf
 ---
 # Resolución de 26 de noviembre de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial,por la que se dictan instrucciones para la implantación y desarrollo de la oferta de dobles titulaciones de formación profesional (Grados D) en la Comunidad Autónoma de Canarias, a partir del curso escolar 2026/2027 (BOC n.º 250, de 18 de diciembre)
@@ -77,9 +81,7 @@ país, bajo la denominación "Doble titulación internacional de formación prof
 Cuarto.- Los Reales Decretos 499/2024 y 500/2024, de 21 de mayo, establecen los cambios de ordenación necesarios en los ciclos formativos de grado medio y superior, para permitir su oferta en el marco de la nueva estructura establecida por el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.
 Quinto.- La Resolución de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, de 30 de octubre de 2024, por la que se dictan instrucciones y orientaciones para la implantación y desarrollo de los grados de formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los currículos, en el ámbito de la Comunidad Autónoma de Canarias.
 Sexto.- La Resolución de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, de 5 de noviembre de 2024, por la que se dictan instrucciones y orientaciones para la formación dual en empresas u organismos equiparados en los Certificados Profesionales (Grado C), los Ciclos Formativos de Grado Básico, Medio y Superior (Grados D, niveles 1, 2 y 3) y Cursos de Especialización (Grado E, niveles 2 y 3), en aplicación del [Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, en los centros docentes no universitarios de la Comunidad Autónoma de Canarias.
-Séptimo.- La Resolución de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, de 9 de junio de 2025, por la que se dictan instrucciones respecto al proceso de evaluación en los Ciclos Formativos (Grados C y D) y Cursos de Especialización (Grado E) del sistema de formación profesional que se imparten en la Comunidad Autónoma de Canarias a partir del curso escolar 2024/2025.
-Octavo.- La Resolución de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, de 18 de julio de 2025, por la que se dictan instrucciones para la implantación y desarrollo del Proyecto intermodular en los Grados de Formación D, ciclos formativos de grado básico, ciclos formativos de grado medio y ciclos formativos de grado superior, a partir del curso escolar 2025/2026.
-Noveno.- La Resolución de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, de 19 de noviembre de 2025, por la que se dictan instrucciones para la organización de la formación en empresa u organismo equiparado en régimen intensivo en los Certificados Profesionales (Grados C, niveles 2 y 3), Ciclos Formativos de Grado Medio y Superior (Grados D, niveles 2 y 3) y Cursos de Especialización (Grados E, niveles 2 y 3), que se impartan en la ámbito de Comunidad Autónoma de Canarias a partir del curso escolar 2025/2026. Por todo lo expuesto, de conformidad con lo establecido en el artículo 20 l.
+Séptimo.- La Resolución de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, de 9 de junio de 2025, por la que se dictan instrucciones respecto al proceso de evaluación en los Ciclos Formativos (Grados C y D) y Cursos de Especialización (Grado E) del sistema de formación profesional que se imparten en la Comunidad Autónoma de Canarias a partir del curso escolar 2024/2025. Octavo.- La Resolución de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, de 18 de julio de 2025, por la que se dictan instrucciones para la implantación y desarrollo del Proyecto intermodular en los Grados de Formación D, ciclos formativos de grado básico, ciclos formativos de grado medio y ciclos formativos de grado superior, a partir del curso escolar 2025/2026. Noveno.- La Resolución de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, de 19 de noviembre de 2025, por la que se dictan instrucciones para la organización de la formación en empresa u organismo equiparado en régimen intensivo en los Certificados Profesionales (Grados C, niveles 2 y 3), Ciclos Formativos de Grado Medio y Superior (Grados D, niveles 2 y 3) y Cursos de Especialización (Grados E, niveles 2 y 3), que se impartan en la ámbito de Comunidad Autónoma de Canarias a partir del curso escolar 2025/2026. Por todo lo expuesto, de conformidad con lo establecido en el artículo 20 l.
 
 Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, aprobado mediante [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por el que se asignan competencias generales y específicas a la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial,
 
@@ -91,9 +93,7 @@ Cuarto.- Ordenar la publicación de la presente Resolución en el Boletín Ofici
 
 ## Anexo I
 
-INSTRUCCIONES PARA LA IMPLANTACIÓN Y DESARROLLO DE LA OFERTA DE DOBLES TITULACIONES DE FORMACIÓN PROFESIONAL DE CICLOS FORMATIVOS DE GRADO MEDIO Y SUPERIOR (GRADOS D), A PARTIR DEL CURSO 2026/2027.
-
-#### Primera. Objeto y ámbito de aplicación.
+INSTRUCCIONES PARA LA IMPLANTACIÓN Y DESARROLLO DE LA OFERTA DE DOBLES TITULACIONES DE FORMACIÓN PROFESIONAL DE CICLOS FORMATIVOS DE GRADO MEDIO Y SUPERIOR (GRADOS D), A PARTIR DEL CURSO 2026/2027. #### Primera. Objeto y ámbito de aplicación.
 
 1. Las presentes instrucciones tienen por objeto regular la implantación y el desarrollo de la oferta de "Doble titulación de formación profesional", de conformidad con lo previsto en los artículos 22 y 84 del [Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se establece la ordenación del Sistema de Formación Profesional.
 
@@ -108,9 +108,7 @@ A partir del curso escolar 2026/2027, la oferta de doble titulación de formaci�
 a) **Doble titulación que se cursa en una única secuencia formativa.** En este tipo de oferta, el itinerario formativo se desarrollará en una única secuencia que integra dos ciclos formativos, ambos de grado medio o de grado superior. El alumnado obtendrá la "Doble titulación de formación profesional" tras cursar los tres cursos académicos previstos, superar la totalidad de los módulos profesionales que lo integran y completar el correspondiente periodo de formación en empresa u organismo equiparado (en adelante, FEOE). En esta organización, deberán respetarse los módulos profesionales de ambos ciclos formativos y la duración de cada uno de ellos, de acuerdo con los currículos vigentes en la Comunidad Autónoma de Canarias. El módulo optativo en este itinerario, así como los módulos asociados a las habilidades y capacidades transversales serán los prescriptivos para una única oferta. Las presentes instrucciones tienen por objeto concretar los aspectos específicos aplicables a la organización y desarrollo de este nuevo formato de doble titulación, así como determinar las condiciones necesarias para su implantación, seguimiento y evaluación en los centros docentes de esta Comunidad Autónoma.
 b) **Doble titulación que se cursa en dos secuencias formativas.** En este tipo de oferta, el itinerario formativo se articulará en dos secuencias sucesivas. En la primera, el alumnado cursará un ciclo formativo completo y obtendrá la correspondiente
 
-titulación de Técnico o de Técnico Superior. Una vez finalizada, se incorporará al segundo ciclo, completando la formación y obteniendo la segunda titulación del mismo nivel. La configuración de esta oferta se ajusta a lo dispuesto en la Resolución de 2 de mayo de 2025, por la que se dictan instrucciones para la organización de la oferta de dobles titulaciones de Formación Profesional (Grados D) de ciclos formativos con primer curso común, en el ámbito de la Comunidad Autónoma de Canarias, con efectos a partir del curso académico 2025/2026.
-
-#### Tercera. Currículos.
+titulación de Técnico o de Técnico Superior. Una vez finalizada, se incorporará al segundo ciclo, completando la formación y obteniendo la segunda titulación del mismo nivel. La configuración de esta oferta se ajusta a lo dispuesto en la Resolución de 2 de mayo de 2025, por la que se dictan instrucciones para la organización de la oferta de dobles titulaciones de Formación Profesional (Grados D) de ciclos formativos con primer curso común, en el ámbito de la Comunidad Autónoma de Canarias, con efectos a partir del curso académico 2025/2026. #### Tercera. Currículos.
 
 Las dobles titulaciones de formación profesional incluidas en la presente Resolución tendrán una duración de tres cursos académicos, de acuerdo con la secuenciación, temporalización y distribución horaria que figuran en los Anexos II y III, sin que sea posible su modificación.
 
@@ -180,9 +178,7 @@ d) **Sesión de evaluación final de ciclo extraordinaria.** Aquel alumnado que 
 
 Se llevará a cabo según lo establecido en la instrucción quinta del Anexo II de la [Resolución de 9 de junio de 2025](./R9_6_2025_dictan_instrucciones_respecto_proceso_evaluacion_ciclos.md), por la que se dictan instrucciones respecto al proceso de evaluación en los Ciclos Formativos (Grados C y D) y Cursos de Especialización (Grado
 
-E) del Sistema de Formación Profesional que se imparten en la Comunidad Autónoma de Canarias a partir del curso escolar 2024/2025.
-
-#### Séptima. Organización de la formación en empresa u organismo equiparado.
+E) del Sistema de Formación Profesional que se imparten en la Comunidad Autónoma de Canarias a partir del curso escolar 2024/2025. #### Séptima. Organización de la formación en empresa u organismo equiparado.
 
 1. Los centros que oferten ciclos de doble titulación en una única secuencia formativa podrán organizar la formación en empresa u organismo equiparado, en régimen general o régimen intensivo, teniendo en cuenta los aspectos específicos que se detallan en las siguientes instrucciones.
 
@@ -231,15 +227,11 @@ máximo de 400 horas. La alternancia semanal con el centro educativo será la es
 Se llevará a cabo según lo establecido en la instrucción sexta del Anexo II de la [Resolución de 9 de junio de 2025](./R9_6_2025_dictan_instrucciones_respecto_proceso_evaluacion_ciclos.md), por la que se dictan instrucciones respecto al proceso de
 
 evaluación en los Ciclos Formativos (Grados C y D) y Cursos de Especialización (Grado
-E) del sistema de formación profesional que se imparten en la Comunidad Autónoma de Canarias a partir del curso escolar 2024/2025.
-
-#### Novena. Proyecto intermodular.
+E) del sistema de formación profesional que se imparten en la Comunidad Autónoma de Canarias a partir del curso escolar 2024/2025. #### Novena. Proyecto intermodular.
 
 1. El proyecto intermodular se desarrollará conforme a lo establecido en la instrucción
 
-#### Cuarta. del Anexo I de la Resolución de 18 de julio de 2025, por la que se dictan instrucciones para la implantación y desarrollo del proyecto intermodular en los Grados de Formación D, ciclos formativos de grado básico, ciclos formativos de grado medio y ciclos formativos de grado superior, a partir del curso escolar 2025/2026.
-
-2. En el ámbito de la Comunidad Autónoma de Canarias, y atendiendo al perfil profesional de cada ciclo formativo de doble titulación de formación profesional, podrá establecerse un único proyecto intermodular, desarrollado a lo largo de dos cursos académicos, que integre la formación correspondiente a ambos ciclos; o bien, dos proyectos intermodulares diferenciados, uno por cada ciclo formativo que conforma la doble titulación. En cualquier caso, para el desarrollo de las propuestas anteriores, los currículos de los ciclos formativos contemplarán dos proyectos intermodulares, uno en segundo curso y otro en el tercero, ambos sujetos a evaluación y calificación. Esta organización tiene como finalidad favorecer la contextualización de la formación en relación con el tejido productivo y las singularidades socioeconómicas del Archipiélago, así como garantizar la coherencia pedagógica en la estructura formativa.
+#### Cuarta. del Anexo I de la Resolución de 18 de julio de 2025, por la que se dictan instrucciones para la implantación y desarrollo del proyecto intermodular en los Grados de Formación D, ciclos formativos de grado básico, ciclos formativos de grado medio y ciclos formativos de grado superior, a partir del curso escolar 2025/2026. 2. En el ámbito de la Comunidad Autónoma de Canarias, y atendiendo al perfil profesional de cada ciclo formativo de doble titulación de formación profesional, podrá establecerse un único proyecto intermodular, desarrollado a lo largo de dos cursos académicos, que integre la formación correspondiente a ambos ciclos; o bien, dos proyectos intermodulares diferenciados, uno por cada ciclo formativo que conforma la doble titulación. En cualquier caso, para el desarrollo de las propuestas anteriores, los currículos de los ciclos formativos contemplarán dos proyectos intermodulares, uno en segundo curso y otro en el tercero, ambos sujetos a evaluación y calificación. Esta organización tiene como finalidad favorecer la contextualización de la formación en relación con el tejido productivo y las singularidades socioeconómicas del Archipiélago, así como garantizar la coherencia pedagógica en la estructura formativa.
 
 3. En lo relativo a las movilidades internacionales con respecto al proyecto intermodular, será de aplicación lo establecido en la circular a la que se hace referencia en la instrucción
 
@@ -253,9 +245,7 @@ E) del sistema de formación profesional que se imparten en la Comunidad Autóno
 
 Se llevará a cabo según lo establecido en la instrucción séptima del Anexo II de la [Resolución de 9 de junio de 2025](./R9_6_2025_dictan_instrucciones_respecto_proceso_evaluacion_ciclos.md), por la que se dictan instrucciones respecto al proceso de evaluación en los Ciclos Formativos (Grados C y D) y Cursos de Especialización (Grado
 
-E) del sistema de formación profesional que se imparten en la Comunidad Autónoma de Canarias a partir del curso escolar 2024/2025.
-
-#### Undécima. Reclamaciones a evaluaciones finales.
+E) del sistema de formación profesional que se imparten en la Comunidad Autónoma de Canarias a partir del curso escolar 2024/2025. #### Undécima. Reclamaciones a evaluaciones finales.
 
 1. El alumnado mayor de edad, o sus representantes legales en el caso de menores de edad, podrá reclamar, por escrito, contra las decisiones y calificaciones que se adopten en las evaluaciones finales como resultado del proceso de evaluación de la forma establecida
 

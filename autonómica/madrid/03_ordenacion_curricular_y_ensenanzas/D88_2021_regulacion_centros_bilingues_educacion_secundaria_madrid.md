@@ -1,10 +1,12 @@
 ---
 id: norm-mad-d-88-2021
 codigo_sintetizado: D88_2021 Regulacion Centros Bilingues Secundaria Madrid
-titulo: Decreto 88/2021, de 30 de junio, por el que se regula el programa bilingüe en Educación Secundaria Obligatoria y Bachillerato.
+titulo: Decreto 88/2021, de 30 de junio, por el que se regula el programa bilingüe
+  en Educación Secundaria Obligatoria y Bachillerato.
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Decreto
 numero_disposicion: 88/2021
 fecha_disposicion: '2021-06-30'
@@ -18,17 +20,17 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Bilingüismo
 tags:
-  - bilinguismo
-  - secundaria
-  - bachillerato_bilingue
-  - madrid
+- bilinguismo
+- secundaria
+- bachillerato_bilingue
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-mad-d-29-2013
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Decreto 88/2021, de 30 de junio, por el que se regula el programa bilingüe en Educación Secundaria Obligatoria y Bachillerato.
 

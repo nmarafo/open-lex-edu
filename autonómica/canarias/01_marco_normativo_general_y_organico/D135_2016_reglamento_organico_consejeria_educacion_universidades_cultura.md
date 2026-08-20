@@ -1,7 +1,9 @@
 ---
 id: norm-can-d-135-2016
 codigo_sintetizado: Decreto BOC 135/2016
-titulo: Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes (BOC n.º 203, de 19 de octubre).
+titulo: Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento Orgánico
+  de la Consejería de Educación, Universidades, Cultura y Deportes (BOC n.º 203, de
+  19 de octubre).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Presidencia del Gobierno
@@ -16,55 +18,55 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Marco normativo general
 tags:
-  - consejeria-educacion
-  - educacion-personas-adultas
-  - ensenanzas-universitarias
-  - equipos-directivos
-  - evaluacion
-  - formacion-profesional
-  - marco-normativo-general
-  - organizacion-escolar
-  - roc
+- consejeria-educacion
+- educacion-personas-adultas
+- ensenanzas-universitarias
+- equipos-directivos
+- evaluacion
+- formacion-profesional
+- marco-normativo-general
+- organizacion-escolar
+- roc
 relaciones:
   desarrolla:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
   fundamentado_en:
-    - norma_id: norm-can-d-212-1991
-    - norma_id: norm-can-l-14-1990
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-can-l-6-2014
   fundamento_de:
-    - norma_id: norm-can-res-boc-2017-020-2
-    - norma_id: norm-can-res-boc-2017-036-71
-    - norma_id: norm-can-res-boc-2017-036-75
-    - norma_id: norm-can-res-boc-2017-061-4
-    - norma_id: norm-can-res-boc-2017-132-1
-    - norma_id: norm-can-res-boc-2017-169-100
-    - norma_id: norm-can-res-boc-2017-220-70
-    - norma_id: norm-can-res-boc-2017-235-5
-    - norma_id: norm-can-res-boc-2018-048-56
-    - norma_id: norm-can-res-boc-2018-106-114
-    - norma_id: norm-can-res-boc-2018-220-18
-    - norma_id: norm-can-res-boc-2018-220-19
-    - norma_id: norm-can-res-boc-2019-016-12
-    - norma_id: norm-can-res-boc-2019-016-13
-    - norma_id: norm-can-res-boc-2019-024-22
-    - norma_id: norm-can-res-boc-2019-067-11
-    - norma_id: norm-can-res-boc-2019-069-48
-    - norma_id: norm-can-res-boc-2019-143-74
-    - norma_id: norm-can-res-boc-2020-130-131
-    - norma_id: norm-can-res-boc-2020-236-82
-    - norma_id: norm-can-res-boc-2020-257-24
-    - norma_id: norm-can-res-boc-2021-038-3
-    - norma_id: norm-can-res-juriscan-75818-136
+  - norma_id: norm-can-res-boc-2017-020-2
+  - norma_id: norm-can-res-boc-2017-036-71
+  - norma_id: norm-can-res-boc-2017-036-75
+  - norma_id: norm-can-res-boc-2017-061-4
+  - norma_id: norm-can-res-boc-2017-132-1
+  - norma_id: norm-can-res-boc-2017-169-100
+  - norma_id: norm-can-res-boc-2017-220-70
+  - norma_id: norm-can-res-boc-2017-235-5
+  - norma_id: norm-can-res-boc-2018-048-56
+  - norma_id: norm-can-res-boc-2018-106-114
+  - norma_id: norm-can-res-boc-2018-220-18
+  - norma_id: norm-can-res-boc-2018-220-19
+  - norma_id: norm-can-res-boc-2019-016-12
+  - norma_id: norm-can-res-boc-2019-016-13
+  - norma_id: norm-can-res-boc-2019-024-22
+  - norma_id: norm-can-res-boc-2019-067-11
+  - norma_id: norm-can-res-boc-2019-069-48
+  - norma_id: norm-can-res-boc-2019-143-74
+  - norma_id: norm-can-res-boc-2020-130-131
+  - norma_id: norm-can-res-boc-2020-236-82
+  - norma_id: norm-can-res-boc-2020-257-24
+  - norma_id: norm-can-res-boc-2021-038-3
+  - norma_id: norm-can-res-juriscan-75818-136
   fundamentos_derecho:
-    - norma_id: norm-can-l-14-1990
-    - norma_id: norm-can-l-1-1983
-    - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-l-1-1983
+  - norma_id: norm-can-d-212-1991
 ---
 # Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes (BOC n.º 203, de 19 de octubre).
 

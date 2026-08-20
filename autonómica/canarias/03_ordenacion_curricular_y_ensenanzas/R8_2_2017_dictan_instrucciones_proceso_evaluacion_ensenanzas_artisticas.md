@@ -1,7 +1,9 @@
 ---
 id: norm-can-res-boc-2017-036-71
 codigo_sintetizado: Resolucion BOC 71
-titulo: Resolución de 8 de febrero de 2017, por la que se dictan instrucciones para el proceso de evaluación en las Enseñanzas Artísticas Superiores en la Comunidad Autónoma de Canarias (BOC n.º 36, de 21 de febrero).
+titulo: Resolución de 8 de febrero de 2017, por la que se dictan instrucciones para
+  el proceso de evaluación en las Enseñanzas Artísticas Superiores en la Comunidad
+  Autónoma de Canarias (BOC n.º 36, de 21 de febrero).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,33 +15,33 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Artísticas
 tags:
-  - educacion-personas-adultas
-  - ense-anzas-art-sticas
-  - ensenanzas-artisticas
-  - equipos-directivos
-  - evaluacion
-  - formacion-profesional
-  - titulacion
+- educacion-personas-adultas
+- ense-anzas-art-sticas
+- ensenanzas-artisticas
+- equipos-directivos
+- evaluacion
+- formacion-profesional
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-135-2016
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-res-juriscan-74499-67
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-juriscan-74499-67
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-res-juriscan-74499-67
-    - norma_id: norm-can-d-135-2016
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-res-juriscan-74499-67
+  - norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-036-808.pdf
 ---
 # Resolución de 8 de febrero de 2017, por la que se dictan instrucciones para el proceso de evaluación en las Enseñanzas Artísticas Superiores en la Comunidad Autónoma de Canarias (BOC n.º 36, de 21 de febrero).
@@ -221,8 +223,7 @@ c) En determinadas asignaturas del último curso, cuando así lo establezca el P
 3. Los tribunales de evaluación se conformarán de la siguiente manera:
 a) Para la evaluación de asignaturas en tercera matrícula, el tribunal evaluador estará compuesto por tres profesores del departamento docente correspondiente a la asignatura objeto de evaluación. El profesor que imparta la asignatura no podrá formar parte de dicho tribunal.
 
-b) Para la evaluación de los trabajos de fin de estudios, se estará a lo establecido en la citada Resolución de 2 de noviembre de 2016.
-c) Para la evaluación de asignaturas del último curso, cuando así lo establezca el Proyecto Educativo, el tribunal evaluador estará compuesto por tres profesores del departamento docente correspondiente a la asignatura objeto de evaluación, incluido el profesor de la asignatura. En el caso de que en el centro no se puedan conformar los tribunales de acuerdo a los criterios definidos anteriormente, podrán formar parte de los tribunales profesores de materias o asignaturas que guarden relación.
+b) Para la evaluación de los trabajos de fin de estudios, se estará a lo establecido en la citada Resolución de 2 de noviembre de 2016. c) Para la evaluación de asignaturas del último curso, cuando así lo establezca el Proyecto Educativo, el tribunal evaluador estará compuesto por tres profesores del departamento docente correspondiente a la asignatura objeto de evaluación, incluido el profesor de la asignatura. En el caso de que en el centro no se puedan conformar los tribunales de acuerdo a los criterios definidos anteriormente, podrán formar parte de los tribunales profesores de materias o asignaturas que guarden relación.
 
 #### Duodécima. Reclamación de las calificaciones.
 

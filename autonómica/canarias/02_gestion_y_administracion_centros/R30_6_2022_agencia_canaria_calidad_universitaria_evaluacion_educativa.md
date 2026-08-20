@@ -1,7 +1,9 @@
 ---
 id: norm-can-res-boc-2022-138-7
 codigo_sintetizado: Resolucion BOC 7
-titulo: Agencia Canaria de Calidad Universitaria y Evaluación Educativa (ACCUEE).- Resolución de 30 de junio de 2022, del Director, por la que se crea el sello electrónico cualificado de la Agencia Canaria de Calidad Universitaria y Evaluación Educativa.
+titulo: Agencia Canaria de Calidad Universitaria y Evaluación Educativa (ACCUEE).-
+  Resolución de 30 de junio de 2022, del Director, por la que se crea el sello electrónico
+  cualificado de la Agencia Canaria de Calidad Universitaria y Evaluación Educativa.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Secretaría General Técnica
@@ -13,28 +15,28 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Administración electrónica y firmas
 tags:
-  - administraci-n-electr-nica-y-firmas
-  - ensenanzas-deportivas
-  - ensenanzas-universitarias
-  - equipos-directivos
-  - evaluacion
-  - oposiciones
-  - procedimiento-administrativo
+- administraci-n-electr-nica-y-firmas
+- ensenanzas-deportivas
+- ensenanzas-universitarias
+- equipos-directivos
+- evaluacion
+- oposiciones
+- procedimiento-administrativo
 relaciones:
   desarrolla:
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
+  - '1'
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-138-2350.pdf
 ---
 # Agencia Canaria de Calidad Universitaria y Evaluación Educativa (ACCUEE).- Resolución de 30 de junio de 2022, del Director, por la que se crea el sello electrónico cualificado de la Agencia Canaria de Calidad Universitaria y Evaluación Educativa.

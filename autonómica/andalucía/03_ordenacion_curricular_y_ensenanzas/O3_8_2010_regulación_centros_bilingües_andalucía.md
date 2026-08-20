@@ -1,10 +1,12 @@
 ---
 id: norm-and-o-3-8-2010
 codigo_sintetizado: O3_8_2010 Desarrollo Programa Bilinguismo Andalucía
-titulo: Orden de 3 de agosto de 2010, por la que se adapta la enseñanza bilingüe en los centros docentes públicos de Andalucía.
+titulo: Orden de 3 de agosto de 2010, por la que se adapta la enseñanza bilingüe en
+  los centros docentes públicos de Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 03/08/2010
 fecha_disposicion: '2010-08-03'
@@ -18,17 +20,17 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Bilingüismo
 tags:
-  - bilinguismo
-  - auxiliares_conversacion
-  - plurilinguismo
-  - andalucia
+- bilinguismo
+- auxiliares_conversacion
+- plurilinguismo
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Orden de 3 de agosto de 2010, por la que se adapta la enseñanza bilingüe en los centros docentes públicos de Andalucía.
 
@@ -67,9 +69,7 @@ En materia de género, la AACID destaca por su calificación como G+ por el Prog
 
 ## Anexo C. on la relación de las medidas concretas a acometer y los resultados esperados a alcanzar por la
 
-cooperación andaluza en el año 2010.
-
-Sevilla, 17 de agosto 2010 Página núm. 103
+cooperación andaluza en el año 2010. Sevilla, 17 de agosto 2010 Página núm. 103
 
 Objetivo 1: Generar procesos de desarrollo en las áreas geográficas prioritarias de la cooperación andaluza Con el objetivo de contribuir a erradicar la pobreza y a consolidar procesos encaminados a asegurar un desarrollo humano sostenible, durante 2010 se van a apoyar intervenciones de los agentes andaluces de cooperación que serán desarrolladas principalmente en los 23 países que en el PACODE se definieron como prioritarios. Cooperación bilateral La apuesta por la concentración geográfica de la cooperación, contemplada en el PACODE, y determinada en función de las capacidades y experiencia de los agentes andaluces y de la cooperación de la Administración de la Junta de Andalucía, persigue aumentar la eficacia e impacto de las actuaciones, de manera que, no excluyendo la posibilidad de financiar intervenciones en otros países1, se centren los esfuerzos en consolidar el trabajo en aquellos con los que tradicionalmente se ha cooperado y con los que se ha iniciado recientemente el trabajo por parte de la Administración de la Junta de Andalucía. Con el fin de mejorar los resultados de la cooperación andaluza y la calidad de las intervenciones de cooperación de todos los agentes andaluces involucrados en el desarrollo sostenible de los países del Sur, en 2010 se acometerán las siguientes tareas: i) consolidar la estrategia de cooperación para el desarrollo en los distintos países prioritarios; ii) promover una coordinación activa, participativa e integradora de las intervenciones en el exterior y, iii) optimizar la ejecución y seguimiento de los proyectos y programas de cooperación para el desarrollo. Consolidar la estrategia de cooperación para el desarrollo en los distintos países prioritarios Durante el año 2009 se elaboraron y aprobaron los Programas Operativos de once de los países prioritarios: Guatemala, Nicaragua, El Salvador, Costa Rica, Panamá, Bolivia, Paraguay, Cuba, República Dominicana, Mozambique y Territorios Palestinos. Toda vez que estos once POPP están en vigor, y asumiendo en 2010 la elaboración de los borradores de la planificación para Burkina Faso, Ecuador, Guinea Bissau, Honduras, Malí, Marruecos, Mauritania, Perú, República Democrática del Congo, Togo y Senegal, se iniciará el proceso de identificación y selección de intervenciones y agentes que, de manera congruente con las líneas estratégicas definidas en estos Programas, aporten mayor valor añadido a la cooperación andaluza. Se identificarán nuevas intervenciones de la cooperación de la Administración de la Junta de Andalucía en países en los que se ha venido cooperando en años anteriores, así como en países en los que la Administración inicia su intervención en el año 2010 de manera gradual y coordinada. Se asegurará la total integración de las nuevas intervenciones con las políticas nacionales y programas estratégicos
 
@@ -173,7 +173,7 @@ Sevilla, 17 de agosto 2010 Página núm. 123
 Página núm. 124 Sevilla, 17 de agosto 2010
 
  En cuanto a la producción de diagnósticos sensibles al género, se realizará el diagnóstico de Ecuador, por su relevante papel en la promoción de uno de los ejes de trabajo de la AACID:
-la economía de los cuidados4.  Un diagnóstico sobre la integración de la perspectiva de género en la Acción Humanitaria en el ámbito de actuación de la AACID, por la urgente necesidad de aplicar el principio del "Do No Harm" paliando así los efectos de las intervenciones que no integran la perspectiva de género.  Un diagnóstico sobre la integración de la perspectiva de género en las actuaciones financiadas por la AACID.  Una metodología para la elaboración de diagnósticos país con enfoque de género. Además de lo anterior, y en cumplimiento del compromiso de la AACID como Organismo G+, se enfocará sus esfuerzos, mediante el apoyo de intervenciones de cooperación, formación e investigación, hacia el fortalecimiento de los siguientes tres ejes: la producción de diagnósticos sensibles al género, la economía de los cuidados y la erradicación de la violencia de género.
+la economía de los cuidados4. Un diagnóstico sobre la integración de la perspectiva de género en la Acción Humanitaria en el ámbito de actuación de la AACID, por la urgente necesidad de aplicar el principio del "Do No Harm" paliando así los efectos de las intervenciones que no integran la perspectiva de género.  Un diagnóstico sobre la integración de la perspectiva de género en las actuaciones financiadas por la AACID.  Una metodología para la elaboración de diagnósticos país con enfoque de género. Además de lo anterior, y en cumplimiento del compromiso de la AACID como Organismo G+, se enfocará sus esfuerzos, mediante el apoyo de intervenciones de cooperación, formación e investigación, hacia el fortalecimiento de los siguientes tres ejes: la producción de diagnósticos sensibles al género, la economía de los cuidados y la erradicación de la violencia de género.
 
 4 Consenso de Quito, compromiso resultado de la X Conferencia Regional sobre la Mujer de América Latina y el Caribe. 2007
 

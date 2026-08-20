@@ -1,10 +1,12 @@
 ---
 id: norm-and-o-10-2-2004
 codigo_sintetizado: O10_2_2004 Pruebas Acceso Formacion Profesional Andalucía
-titulo: Orden de 10 de febrero de 2004, por la que se regulan las pruebas de acceso a los ciclos formativos de FP.
+titulo: Orden de 10 de febrero de 2004, por la que se regulan las pruebas de acceso
+  a los ciclos formativos de FP.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 10/02/2004
 fecha_disposicion: '2004-02-10'
@@ -18,16 +20,16 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-  - pruebas_acceso
-  - fp
-  - andalucia
+- pruebas_acceso
+- fp
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Orden de 10 de febrero de 2004, por la que se regulan las pruebas de acceso a los ciclos formativos de FP.
 
@@ -35,8 +37,7 @@ relaciones:
 
 Página núm.
 
-**4.820** Sevilla, 25 de febrero 2004 CONSEJERIA DE MEDIO AMBIENTE DECRETO 4/2004, de 13 de enero, por el que se aprueban el Plan de Ordenación de los Recursos Naturales y el Plan Rector de Uso y Gestión del Parque Natural Sierras Subbéticas. El Parque Natural Sierras Subbéticas fue declarado por el Decreto 232/1988, de 31 de mayo, que estableció un régimen jurídico especial para este espacio con la finalidad de atender a la conservación de sus ecosistemas naturales y valores paisajísticos. Posteriormente, la Ley 2/1989, de 18 de julio, por la que se aprueba el Inventario de Espacios Naturales Protegidos de Andalucía y se establecen medidas adicionales para su protección, lo incluyó en el Inventario de Espacios Naturales Protegidos de Andalucía. Situado al sur de la provincia de Córdoba, en las cordilleras béticas, se observan formaciones típicas del modelo cárstico, lo que constituye uno de sus mayores atractivos. El paisaje cárstico de este Parque Natural se caracteriza por la presencia de prácticamente todas las formas asociadas a los procesos de disolución de las rocas carbonatadas, tanto superficiales como subterráneas. Entre las primeras destacan las Dolinas de los Hoyones, el Lapiaz de los Lanchares y el Poljé de la Nava, de gran valor paisajístico, mientras que entre las formas subterráneas destaca la Cueva de los Murciélagos, declarada Monumento Natural por el Decreto 226/2001, de 2 de octubre, por el que se declaran determinados Monumentos Naturales de Andalucía. Las rocas del Parque Natural albergan una extraordinaria riqueza paleontológica, especialmente de un grupo de fósiles de gran interés, los ammonites, grupo de moluscos marinos ya extinguidos, parientes de los actuales cefalópodos. En cuanto a la flora, goza de una gran riqueza, con más de 1.200 taxones catalogados, 29 de los cuales son endemismos andaluces, entre los que destacan por tener una distribución exclusiva del Parque, Narcissus bugei, Lithodora nitida, Thimelaea granatensis subsp. glauca o Hipochaeris rutea, éste último endémico de la Sierra de Rute. En lo que a fauna se refiere, hay que destacar la presencia de numerosas aves rapaces, como el buitre leonado y el halcón peregrino, que aprovechan los cortados para nidificar. Actualmente, el citado Parque Natural, designado como Zona de Especial Protección para las Aves (ZEPA) en el año 2003, conforme a la Directiva 79/409/CEE, del Consejo, de 2 de abril de 1979, relativa a la conservación de las aves silvestres, forma parte de la red ecológica europea «Natura 2000» instaurada por la Directiva 92/43/CEE, del Consejo, de 21 de mayo de 1992, relativa a la conservación de los hábitats naturales y de la fauna y flora silvestres. Además, se encuentra incluido en la propuesta de la Comunidad Autónoma de Andalucía de Lugares de Importancia Comunitaria (LIC), conforme a la Directiva 92/43/CEE, de 21 de mayo de 1992. Mediante el Decreto 79/1994, de 5 de abril, se aprobaron el Plan de Ordenación de los Recursos Naturales, con una vigencia de ocho años, y el Plan Rector de Uso y Gestión, con una vigencia de cuatro años, que fue prorrogada por un plazo de cuatro años a través del Decreto 73/2000, de 21 de febrero. En cumplimiento de lo dispuesto en los artículos 13 y 18 de la Ley 2/1989, de 18 de julio, se procede a través de este Decreto a aprobar el Plan de Ordenación de los Recursos Naturales y el Plan Rector de Uso y Gestión del Parque Natural Sierras Subbéticas, documentos que se adaptan a las nuevas circunstancias ambientales y socioeconómicas que caracterizan el Parque Natural, así como al nuevo marco normativo y directrices políticas que, en materia de medio ambiente, se vienen desarrollando en el ámbito internacional y en el de la Unión Europea. En cuanto al procedimiento seguido para la elaboración del Plan de Ordenación de los Recursos Naturales y del Plan Rector de Uso y Gestión del Parque Natural Sierras Subbéticas, los citados Planes han sido elaborados por la Consejería de Medio Ambiente, informados por el Comité de Acciones para el Desarrollo Sostenible, la Junta Rectora del citado Parque Natural y el órgano competente en materia urbanística, sometidos a los trámites de audiencia a los interesados, información pública y consulta de los intereses sociales e institucionales implicados, incluidas las Corporaciones Locales, y de las asociaciones que persiguen el logro de los principios establecidos en el artículo 2 de la Ley 4/1989, de 27 de marzo. Cumplidos los demás trámites previstos en la Ley, han sido elevados al Consejo de Gobierno para su aprobación. Por otra parte, los avances tecnológicos permiten disponer actualmente de nuevos productos cartográficos que ofrecen una visión más actualizada y detallada de la realidad territorial y de los diferentes elementos que la constituyen. Por ello, y con la pretensión de contribuir a la seguridad jurídica en cuanto a la delimitación territorial del Parque Natural Sierras Subbéticas, mediante el presente Decreto se precisan literaria y gráficamente los límites del citado Parque Natural establecidos en el Decreto 232/1988, de 31 de mayo. En su virtud, de conformidad con la legislación vigente, a propuesta de la Consejera de Medio Ambiente de acuerdo con lo dispuesto en el artículo 39.2 de la Ley 6/1983, de 21 de julio, del Gobierno y Administración de la Comunidad Autónoma, y previa deliberación del Consejo de Gobierno en su reunión de 13 de enero de 2004.
-DISPONGO:
+**4.820** Sevilla, 25 de febrero 2004 CONSEJERIA DE MEDIO AMBIENTE DECRETO 4/2004, de 13 de enero, por el que se aprueban el Plan de Ordenación de los Recursos Naturales y el Plan Rector de Uso y Gestión del Parque Natural Sierras Subbéticas. El Parque Natural Sierras Subbéticas fue declarado por el Decreto 232/1988, de 31 de mayo, que estableció un régimen jurídico especial para este espacio con la finalidad de atender a la conservación de sus ecosistemas naturales y valores paisajísticos. Posteriormente, la Ley 2/1989, de 18 de julio, por la que se aprueba el Inventario de Espacios Naturales Protegidos de Andalucía y se establecen medidas adicionales para su protección, lo incluyó en el Inventario de Espacios Naturales Protegidos de Andalucía. Situado al sur de la provincia de Córdoba, en las cordilleras béticas, se observan formaciones típicas del modelo cárstico, lo que constituye uno de sus mayores atractivos. El paisaje cárstico de este Parque Natural se caracteriza por la presencia de prácticamente todas las formas asociadas a los procesos de disolución de las rocas carbonatadas, tanto superficiales como subterráneas. Entre las primeras destacan las Dolinas de los Hoyones, el Lapiaz de los Lanchares y el Poljé de la Nava, de gran valor paisajístico, mientras que entre las formas subterráneas destaca la Cueva de los Murciélagos, declarada Monumento Natural por el Decreto 226/2001, de 2 de octubre, por el que se declaran determinados Monumentos Naturales de Andalucía. Las rocas del Parque Natural albergan una extraordinaria riqueza paleontológica, especialmente de un grupo de fósiles de gran interés, los ammonites, grupo de moluscos marinos ya extinguidos, parientes de los actuales cefalópodos. En cuanto a la flora, goza de una gran riqueza, con más de 1.200 taxones catalogados, 29 de los cuales son endemismos andaluces, entre los que destacan por tener una distribución exclusiva del Parque, Narcissus bugei, Lithodora nitida, Thimelaea granatensis subsp. glauca o Hipochaeris rutea, éste último endémico de la Sierra de Rute. En lo que a fauna se refiere, hay que destacar la presencia de numerosas aves rapaces, como el buitre leonado y el halcón peregrino, que aprovechan los cortados para nidificar. Actualmente, el citado Parque Natural, designado como Zona de Especial Protección para las Aves (ZEPA) en el año 2003, conforme a la Directiva 79/409/CEE, del Consejo, de 2 de abril de 1979, relativa a la conservación de las aves silvestres, forma parte de la red ecológica europea «Natura 2000» instaurada por la Directiva 92/43/CEE, del Consejo, de 21 de mayo de 1992, relativa a la conservación de los hábitats naturales y de la fauna y flora silvestres. Además, se encuentra incluido en la propuesta de la Comunidad Autónoma de Andalucía de Lugares de Importancia Comunitaria (LIC), conforme a la Directiva 92/43/CEE, de 21 de mayo de 1992. Mediante el Decreto 79/1994, de 5 de abril, se aprobaron el Plan de Ordenación de los Recursos Naturales, con una vigencia de ocho años, y el Plan Rector de Uso y Gestión, con una vigencia de cuatro años, que fue prorrogada por un plazo de cuatro años a través del Decreto 73/2000, de 21 de febrero. En cumplimiento de lo dispuesto en los artículos 13 y 18 de la Ley 2/1989, de 18 de julio, se procede a través de este Decreto a aprobar el Plan de Ordenación de los Recursos Naturales y el Plan Rector de Uso y Gestión del Parque Natural Sierras Subbéticas, documentos que se adaptan a las nuevas circunstancias ambientales y socioeconómicas que caracterizan el Parque Natural, así como al nuevo marco normativo y directrices políticas que, en materia de medio ambiente, se vienen desarrollando en el ámbito internacional y en el de la Unión Europea. En cuanto al procedimiento seguido para la elaboración del Plan de Ordenación de los Recursos Naturales y del Plan Rector de Uso y Gestión del Parque Natural Sierras Subbéticas, los citados Planes han sido elaborados por la Consejería de Medio Ambiente, informados por el Comité de Acciones para el Desarrollo Sostenible, la Junta Rectora del citado Parque Natural y el órgano competente en materia urbanística, sometidos a los trámites de audiencia a los interesados, información pública y consulta de los intereses sociales e institucionales implicados, incluidas las Corporaciones Locales, y de las asociaciones que persiguen el logro de los principios establecidos en el artículo 2 de la Ley 4/1989, de 27 de marzo. Cumplidos los demás trámites previstos en la Ley, han sido elevados al Consejo de Gobierno para su aprobación. Por otra parte, los avances tecnológicos permiten disponer actualmente de nuevos productos cartográficos que ofrecen una visión más actualizada y detallada de la realidad territorial y de los diferentes elementos que la constituyen. Por ello, y con la pretensión de contribuir a la seguridad jurídica en cuanto a la delimitación territorial del Parque Natural Sierras Subbéticas, mediante el presente Decreto se precisan literaria y gráficamente los límites del citado Parque Natural establecidos en el Decreto 232/1988, de 31 de mayo. En su virtud, de conformidad con la legislación vigente, a propuesta de la Consejera de Medio Ambiente de acuerdo con lo dispuesto en el artículo 39.2 de la Ley 6/1983, de 21 de julio, del Gobierno y Administración de la Comunidad Autónoma, y previa deliberación del Consejo de Gobierno en su reunión de 13 de enero de 2004. DISPONGO:
 
 #### Artículo 1. Plan de Ordenación de los Recursos Naturales.
 
@@ -551,9 +552,7 @@ Página núm.
 
 4. Las obras hidrológicas y de infraestructuras que puedan afectar a las comunidades piscícolas del Parque Natural, adoptarán las medidas correctoras oportunas.
 
-**4.1.10.** Vías pecuarias. Las vías pecuarias se regularán y ordenarán siguiendo lo dispuesto en el Plan para la recuperación y ordenación de la red de Vías Pecuarias, aprobado por Acuerdo del Consejo de Gobierno el 27 de marzo de 2001.
-
-**4.1.11.** Uso público y educación ambiental. Las actividades de uso público y educación ambiental en el ámbito del Parque Natural se deberán ajustar a los siguientes criterios básicos:
+**4.1.10.** Vías pecuarias. Las vías pecuarias se regularán y ordenarán siguiendo lo dispuesto en el Plan para la recuperación y ordenación de la red de Vías Pecuarias, aprobado por Acuerdo del Consejo de Gobierno el 27 de marzo de 2001. **4.1.11.** Uso público y educación ambiental. Las actividades de uso público y educación ambiental en el ámbito del Parque Natural se deberán ajustar a los siguientes criterios básicos:
 
 1. Compatibilización de los objetivos de conservación de los recursos naturales y culturales del Parque Natural y su entorno con el conocimiento y disfrute por parte de la población.
 
@@ -724,9 +723,7 @@ c) La revisión se llevará a cabo siguiendo los mismos trámites establecidos p
 4. Adaptación.
 a) No se considera revisión ni modificación cualquier adaptación literaria o gráfica de sus límites como consecuencia de los avances tecnológicos que se puedan producir en la información gráfica relativa al espacio o para su adecuación a escalas cartográficas más detalladas.
 
-**5.1.3.** Evaluación. El presente Plan se evaluará por parte de la Consejería de Medio Ambiente, a partir de su entrada en vigor, cada diez años. Para ello se tendrán en cuenta el sistema de indicadores establecidos en el apartado 7.
-
-**5.2.** Régimen de prevención ambiental.
+**5.1.3.** Evaluación. El presente Plan se evaluará por parte de la Consejería de Medio Ambiente, a partir de su entrada en vigor, cada diez años. Para ello se tendrán en cuenta el sistema de indicadores establecidos en el apartado 7. **5.2.** Régimen de prevención ambiental.
 
 1. En el ámbito del presente Plan y en materia de prevención ambiental se estará a lo dispuesto en la Ley 7/1994, de 18 de mayo, de protección ambiental, y demás normativa vigente sobre dicha materia.
 
@@ -1493,9 +1490,7 @@ a) La revisión del Plan implica un examen del mismo en su conjunto y lleva impl
 b) El Plan podrá ser revisado por Acuerdo del Consejo de Gobierno de la Junta de Andalucía a propuesta de la Consejería de Medio Ambiente, cuando se lleve a cabo una revisión del Plan de Ordenación de Recursos Naturales del Parque Natural.
 c) La revisión del Plan se llevará a cabo siguiendo los mismos trámites establecidos para su elaboración y aprobación.
 
-**4.1.3.** Seguimiento. Para el seguimiento de la ejecución del presente Plan, la Consejería de Medio Ambiente evaluará, a los cuatro años de la entrada en vigor del Plan y al finalizar su vigencia, el grado de ejecución de las Líneas de Actuación contenidas en el apartado 5.
-
-**4.2.** Normas relativas a la gestión de los recursos naturales.
+**4.1.3.** Seguimiento. Para el seguimiento de la ejecución del presente Plan, la Consejería de Medio Ambiente evaluará, a los cuatro años de la entrada en vigor del Plan y al finalizar su vigencia, el grado de ejecución de las Líneas de Actuación contenidas en el apartado 5. **4.2.** Normas relativas a la gestión de los recursos naturales.
 
 **4.2.1.** Usos y aprovechamientos agrícolas.
 

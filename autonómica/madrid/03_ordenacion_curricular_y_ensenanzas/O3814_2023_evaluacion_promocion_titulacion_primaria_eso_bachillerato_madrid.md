@@ -1,10 +1,14 @@
 ---
 id: norm-mad-o-3814-2023
 codigo_sintetizado: O3814_2023 Evaluacion y Titulacion Primaria ESO Bachillerato Madrid
-titulo: Orden 3814/2023, de 17 de noviembre, de la Consejería de Educación, Ciencia y Universidades, por la que se regula la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria y el Bachillerato en la Comunidad de Madrid.
+titulo: Orden 3814/2023, de 17 de noviembre, de la Consejería de Educación, Ciencia
+  y Universidades, por la que se regula la evaluación y la promoción en la Educación
+  Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria
+  Obligatoria y el Bachillerato en la Comunidad de Madrid.
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
 numero_disposicion: 3814/2023
 fecha_disposicion: '2023-11-17'
@@ -18,20 +22,20 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Evaluación y Titulación
 tags:
-  - evaluacion
-  - promocion
-  - titulacion
-  - primaria
-  - eso
-  - bachillerato
-  - madrid
+- evaluacion
+- promocion
+- titulacion
+- primaria
+- eso
+- bachillerato
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-mad-d-29-2013
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Orden 3814/2023, de 17 de noviembre, de la Consejería de Educación, Ciencia y Universidades, por la que se regula la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria y el Bachillerato en la Comunidad de Madrid.
 

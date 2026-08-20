@@ -1,10 +1,13 @@
 ---
 id: norm-can-res-boc-1992-106-117
 codigo_sintetizado: Resolucion BOC 117
-titulo: Resolución de 15 de julio de 1992, de la Dirección General de Promoción Educativa, por la que se dictan instrucciones para la organización y funcionamiento de las Residencias Escolares.
+titulo: Resolución de 15 de julio de 1992, de la Dirección General de Promoción Educativa,
+  por la que se dictan instrucciones para la organización y funcionamiento de las
+  Residencias Escolares.
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios Complementarios
+organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios
+  Complementarios
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul
@@ -13,30 +16,30 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Residencias escolares
 tags:
-  - autonomia-centro
-  - comedor-escolar
-  - consejo-escolar
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - evaluacion
-  - organizacion-escolar
-  - orientacion-educativa
-  - personal-no-docente
-  - profesorado
-  - residencias-escolares
-  - roc
-  - servicios-complementarios
+- autonomia-centro
+- comedor-escolar
+- consejo-escolar
+- ensenanzas-deportivas
+- equipos-directivos
+- evaluacion
+- organizacion-escolar
+- orientacion-educativa
+- personal-no-docente
+- profesorado
+- residencias-escolares
+- roc
+- servicios-complementarios
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
+  - '1'
 ---
 # Resolución de 15 de julio de 1992, de la Dirección General de Promoción Educativa, por la que se dictan instrucciones para la organización y funcionamiento de las Residencias Escolares.
 

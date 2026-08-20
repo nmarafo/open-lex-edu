@@ -1,10 +1,14 @@
 ---
 id: norm-es-2007-5478
 codigo_sintetizado: BOE-A-2007-5478
-titulo: Orden ECI/592/2007, de 12 de marzo, por la que se aprueba el temario que ha de regir en el procedimiento de ingreso, accesos y adquisición de nuevas especialidades, para la especialidad de Primaria en el Cuerpo de Maestros, regulada por el Real Decreto 276/2007, de 23 de febrero.
+titulo: Orden ECI/592/2007, de 12 de marzo, por la que se aprueba el temario que ha
+  de regir en el procedimiento de ingreso, accesos y adquisición de nuevas especialidades,
+  para la especialidad de Primaria en el Cuerpo de Maestros, regulada por el Real
+  Decreto 276/2007, de 23 de febrero.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2007-03-15'
 boletin: BOE
@@ -15,40 +19,40 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Oposiciones y acceso
 tags:
-  - ebep
-  - educacion-primaria
-  - oposiciones
-  - oposiciones-y-acceso
-  - profesorado
+- ebep
+- educacion-primaria
+- oposiciones
+- oposiciones-y-acceso
+- profesorado
 relaciones:
   desarrolla:
-    - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rd-276-2007
   fundamentado_en:
-    - norma_id: norm-es-1984-17387
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
-    - norma_id: norm-es-2009-20550
-    - norma_id: norm-es-2010-11426
-    - norma_id: norm-es-2011-15628
-    - norma_id: norm-es-2015-9453
-    - norma_id: norm-es-2022-16194
-    - norma_id: norm-es-2024-10683
-    - norma_id: norm-es-2024-10684
-    - norma_id: norm-es-2024-10685
-    - norma_id: norm-es-2026-2622
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rd-476-2013
+  - norma_id: norm-es-2009-20550
+  - norma_id: norm-es-2010-11426
+  - norma_id: norm-es-2011-15628
+  - norma_id: norm-es-2015-9453
+  - norma_id: norm-es-2022-16194
+  - norma_id: norm-es-2024-10683
+  - norma_id: norm-es-2024-10684
+  - norma_id: norm-es-2024-10685
+  - norma_id: norm-es-2026-2622
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rd-476-2013
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-1984-17387
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-rd-276-2007
+  - '1'
+  - '2'
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-rd-276-2007
 ---
 # Orden ECI/592/2007, de 12 de marzo, por la que se aprueba el temario que ha de regir en el procedimiento de ingreso, accesos y adquisición de nuevas especialidades, para la especialidad de Primaria en el Cuerpo de Maestros, regulada por el Real Decreto 276/2007, de 23 de febrero.
 

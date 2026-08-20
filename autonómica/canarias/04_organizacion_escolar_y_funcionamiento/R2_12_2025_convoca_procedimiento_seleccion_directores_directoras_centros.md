@@ -1,7 +1,11 @@
 ---
 id: norm-can-res-095
 codigo_sintetizado: Resolucion BOC 95
-titulo: Resolución de 2 de diciembre de 2025, de la Dirección General de Personal y Formación del Profesorado, por la que se convoca procedimiento para la selección de directores y directoras de los centros públicos de enseñanzas no universitarias de la Comunidad Autónoma de Canarias para el periodo de mandato 2026-2030 (BOC n.º 246, de 12 de diciembre).
+titulo: Resolución de 2 de diciembre de 2025, de la Dirección General de Personal
+  y Formación del Profesorado, por la que se convoca procedimiento para la selección
+  de directores y directoras de los centros públicos de enseñanzas no universitarias
+  de la Comunidad Autónoma de Canarias para el periodo de mandato 2026-2030 (BOC n.º
+  246, de 12 de diciembre).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Personal y Formación del Profesorado
@@ -13,41 +17,41 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Función directiva y liderazgo
 tags:
-  - ensenanzas-deportivas
-  - ensenanzas-universitarias
-  - equipos-directivos
-  - formacion-profesional
-  - funci-n-directiva-y-liderazgo
-  - inclusiva
-  - oposiciones
-  - profesorado
+- ensenanzas-deportivas
+- ensenanzas-universitarias
+- equipos-directivos
+- formacion-profesional
+- funci-n-directiva-y-liderazgo
+- inclusiva
+- oposiciones
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-106-2009
-    - norma_id: norm-can-d-109-1999
-    - norma_id: norm-can-d-212-1991
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-106-2009
+  - norma_id: norm-can-d-109-1999
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-d-109-1999
-    - norma_id: norm-can-d-106-2009
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-d-212-1991
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-d-109-1999
+  - norma_id: norm-can-d-106-2009
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-246-4231.pdf
 ---
 # Resolución de 2 de diciembre de 2025, de la Dirección General de Personal y Formación del Profesorado, por la que se convoca procedimiento para la selección de directores y directoras de los centros públicos de enseñanzas no universitarias de la Comunidad Autónoma de Canarias para el periodo de mandato 2026-2030 (BOC n.º 246, de 12 de diciembre).
@@ -387,9 +391,7 @@ MÉRITOS VALORACIÓN JUSTIFICACIÓN
 **3.2.4.** Por el título universitario oficial de Máster distinto del requerido para el ingreso a la función pública docente, para cuya obtención se hayan exigido, al menos, 60 créditos:
 Solo se tendrán en cuenta los títulos oficiales de Máster recogidos en el artículo 15 l.
 
-Real Decreto 1393/2007, de 29 de octubre. 0,30 puntos La misma documentación justificativa que se indica para justificar el mérito del subapartado 3.1.1.
-
-**3.3.** Titulaciones de enseñanzas de régimen especial: Las titulaciones de enseñanzas de régimen especial otorgadas por las Escuelas Oficiales de Idiomas, Conservatorios Profesionales y Superiores de Música y Danza y Escuelas de Arte, así como las de la formación profesional, caso de no haber sido las exigidas como requisito para ingreso en la función pública docente o, en su caso, que no hayan sido necesarias para la obtención del título alegado, se valorarán de la forma siguiente:
+Real Decreto 1393/2007, de 29 de octubre. 0,30 puntos La misma documentación justificativa que se indica para justificar el mérito del subapartado 3.1.1. **3.3.** Titulaciones de enseñanzas de régimen especial: Las titulaciones de enseñanzas de régimen especial otorgadas por las Escuelas Oficiales de Idiomas, Conservatorios Profesionales y Superiores de Música y Danza y Escuelas de Arte, así como las de la formación profesional, caso de no haber sido las exigidas como requisito para ingreso en la función pública docente o, en su caso, que no hayan sido necesarias para la obtención del título alegado, se valorarán de la forma siguiente:
 Título que se posea o, en su caso, certificación acreditativa de la expedición de dicho título o certificación acreditativa de haber superado los estudios conducentes a su obtención.
 a) Por cada Certificado de nivel C2 del Marco Común Europeo de Referencia para las Lenguas. 0,60 puntos
 b) Por cada Certificado de nivel C1 del Marco Común Europeo de Referencia para las Lenguas. 0,45 puntos
@@ -512,8 +514,7 @@ Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación
 - Los certificados de cursos impartidos o superados en los Centros de Profesores (CEP) de Canarias solo se baremarán cuando estén firmados por cargo orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, o firmados por la Coordinación o Dirección del CEP y que lleven el visto bueno del Servicio correspondiente de la Dirección General de Educación correspondiente.
 - En el apartado 4.1 no serán valorados los cursos, proyectos o actividades en cuyo certificado no se especifique el número de horas de su duración, aunque aparezcan en los mismos los días o meses durante los que tuvieron lugar. A estos efectos, se considerará que en los casos que aparezcan créditos, estos se contabilizarán como 10 horas por cada crédito. Igualmente, por los citados apartados no serán valorados aquellos cursos cuya finalidad sea la obtención de un título académico.
 - En el apartado 4.2 deberá constar, en el documento acreditativo, específicamente el número de horas en el que la persona aspirante desarrolló su tarea como director, coordinador o ponente del curso, proyecto o actividad en cuestión.
-- En relación con el apartado 4.3.
-- No se valorarán aquellas publicaciones en el que autor sea el editor de las mismas.
+- En relación con el apartado 4.3. - No se valorarán aquellas publicaciones en el que autor sea el editor de las mismas.
 - No se valorarán publicaciones aparecidas en la prensa diaria, ni prólogos ni artículos de opinión.
 - No se valorarán las coordinaciones o ediciones de revistas, libros, etc.
 

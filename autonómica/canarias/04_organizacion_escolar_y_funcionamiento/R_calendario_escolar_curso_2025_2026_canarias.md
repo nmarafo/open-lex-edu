@@ -1,10 +1,13 @@
 ---
 id: norm-can-r-calendario-escolar-2025-2026
 codigo_sintetizado: R_Calendario Escolar Curso 2025-2026 Canarias
-titulo: Resolución por la que se establece el calendario escolar y las instrucciones para el desarrollo de las actividades del curso 2025-2026 en la Comunidad Autónoma de Canarias.
+titulo: Resolución por la que se establece el calendario escolar y las instrucciones
+  para el desarrollo de las actividades del curso 2025-2026 en la Comunidad Autónoma
+  de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Formación Profesional, Actividad Física y Deportes del Gobierno de Canarias
+organo_emisor: Consejería de Educación, Formación Profesional, Actividad Física y
+  Deportes del Gobierno de Canarias
 tipo_disposicion: Resolución
 numero_disposicion: Calendario 2025-2026
 fecha_disposicion: '2025-05-28'
@@ -18,19 +21,19 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Calendario escolar
 tags:
-  - calendario_escolar
-  - curso_2025_2026
-  - dias_lectivos
-  - vacaciones
-  - canarias
+- calendario_escolar
+- curso_2025_2026
+- dias_lectivos
+- vacaciones
+- canarias
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
 ---
 # Resolución por la que se establece el calendario escolar y las instrucciones para el desarrollo de las actividades del curso 2025-2026 en la Comunidad Autónoma de Canarias.
 
@@ -46,9 +49,7 @@ DISPONGO:
 
 #### Artículo 1. Objeto y ámbito de aplicación.
 
-1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Resolución Calendario 2025-2026.
-
-2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Canarias.
+1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Resolución Calendario 2025-2026. 2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Canarias.
 
 #### Artículo 2. Principios generales de actuación.
 
@@ -68,8 +69,6 @@ Las Administraciones educativas proveerán los recursos materiales, organizativo
 
 #### Disposición final primera. Habilitación para el desarrollo normativo.
 
-Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Resolución Calendario 2025-2026.
-
-#### Disposición final segunda. Entrada en vigor.
+Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Resolución Calendario 2025-2026. #### Disposición final segunda. Entrada en vigor.
 
 La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

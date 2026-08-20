@@ -30,48 +30,42 @@ fecha_disposicion: '1996-06-20'
 
 ## Preámbulo
 
-La Ley 1/1990, de 3 de octubre, de OrdenaciÃ³n General del Sistema Educativo, concibe la educaciÃ³n de las personas adultas desde una perspectiva dinÃ¡mica y con una organizaciÃ³n y metodologÃ­a en la que se complementen las modalidades presencial y a distancia. En este sentido, la citada Ley contiene una serie de artÃ­culos relativos a la obligaciÃ³n de los poderes pÃºblicos de desarrollar una oferta adecuada de EducaciÃ³n de Adultos, que garantice la aspiraciÃ³n de importantes colectivos a obtener una mejor y mÃ¡s prolongada educaciÃ³n.
+La Ley 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, concibe la educación de las personas adultas desde una perspectiva dinámica y con una organización y metodología en la que se complementen las modalidades presencial y a distancia. En este sentido, la citada Ley contiene una serie de artículos relativos a la obligación de los poderes públicos de desarrollar una oferta adecuada de Educación de Adultos, que garantice la aspiración de importantes colectivos a obtener una mejor y más prolongada educación.
 
-Al amparo de estos preceptos y de acuerdo con lo previsto en el Estatuto de AutonomÃ­a de Canarias referido a las competencias del Gobierno de Canarias en materia de educaciÃ³n, en funciÃ³n de la Ley OrgÃ¡nica 11/1982, de 10 de agosto, de Transferencias Complementarias a Canarias, procede regular las condiciones de imparticiÃ³n de dichas enseÃ±anzas.
+Al amparo de estos preceptos y de acuerdo con lo previsto en el Estatuto de Autonomía de Canarias referido a las competencias del Gobierno de Canarias en materia de educación, en función de la Ley Orgánica 11/1982, de 10 de agosto, de Transferencias Complementarias a Canarias, procede regular las condiciones de impartición de dichas enseñanzas.
 
-En su virtud, a propuesta del Consejero de EducaciÃ³n, Cultura y Deportes, en uso de las facultades que le otorga la DisposiciÃ³n Adicional Octava de la Ley 9/1995, de 28 de diciembre, de Presupuestos Generales de la Comunidad AutÃ³noma de Canarias para 1996 y previa deliberaciÃ³n del Gobierno en su reuniÃ³n del dÃ­a 20 de junio de 1996,
+En su virtud, a propuesta del Consejero de Educación, Cultura y Deportes, en uso de las facultades que le otorga la Disposición Adicional Octava de la Ley 9/1995, de 28 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Canarias para 1996 y previa deliberación del Gobierno en su reunión del día 20 de junio de 1996,
 
 D I S P O N G O:
 
-ArtÃ­culo 1.- El personal adscrito a la ConsejerÃ­a de EducaciÃ³n, Cultura y Deportes que imparta enseÃ±anzas de EducaciÃ³n de Adultos, tanto en su modalidad presencial como a distancia, podrÃ¡n efectuar horas lectivas extraordinarias en los tÃ©rminos establecidos en la DisposiciÃ³n Adicional Octava de la Ley 9/1995, de 28 de diciembre, de Presupuestos Generales de la Comunidad AutÃ³noma de Canarias para 1996.
+Artículo 1.- El personal adscrito a la Consejería de Educación, Cultura y Deportes que imparta enseñanzas de Educación de Adultos, tanto en su modalidad presencial como a distancia, podrán efectuar horas lectivas extraordinarias en los términos establecidos en la Disposición Adicional Octava de la Ley 9/1995, de 28 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Canarias para 1996. Artículo 2.- Sólo podrán impartir horas extraordinarias en Educación de Adultos aquellos profesores que acrediten la realización de la jornada lectiva completa en su centro de destino.
 
-ArtÃ­culo 2.- SÃ³lo podrÃ¡n impartir horas extraordinarias en EducaciÃ³n de Adultos aquellos profesores que acrediten la realizaciÃ³n de la jornada lectiva completa en su centro de destino.
+Artículo 3.- El número de horas lectivas semanales de carácter extraordinario que podrá impartir cada profesor no será superior a diez.
 
-ArtÃ­culo 3.- El nÃºmero de horas lectivas semanales de carÃ¡cter extraordinario que podrÃ¡ impartir cada profesor no serÃ¡ superior a diez.
+Artículo 4.- El coste de cada hora extraordinaria será el siguiente:
 
-ArtÃ­culo 4.- El coste de cada hora extraordinaria serÃ¡ el siguiente:
+Profesores de grupo ÓA 2.900 ptas. c/hora.
 
-Profesores de grupo ÂAÂ 2.900 ptas. c/hora.
+Profesores de grupo ÓB 2.000 ptas. c/hora.
 
-Profesores de grupo ÂBÂ 2.000 ptas. c/hora.
+Artículo 5.- El gasto originado por las retribuciones correspondientes a las horas extraordinarias reguladas en el presente Decreto no podrá ser superior al importe de los créditos destinados específicamente para estas atenciones, y deberá ser imputado a las aplicaciones presupuestarias 18.04.422B.151.01 y 18.04.422C.151.01 ÓHoras lectivas extraordinarias.
 
-ArtÃ­culo 5.- El gasto originado por las retribuciones correspondientes a las horas extraordinarias reguladas en el presente Decreto no podrÃ¡ ser superior al importe de los crÃ©ditos destinados especÃ­ficamente para estas atenciones, y deberÃ¡ ser imputado a las aplicaciones presupuestarias 18.04.422B.151.01 y 18.04.422C.151.01 ÂHoras lectivas extraordinariasÂ.
-
-ArtÃ­culo 6.- El Jefe de Estudios del centro que oferte las EnseÃ±anzas de EducaciÃ³n de Adultos se encargarÃ¡ del control y seguimiento del profesorado que imparta las horas lectivas de carÃ¡cter extraordinario, comunicando las incidencias que se produzcan a la DirecciÃ³n General de PromociÃ³n Educativa.
+Artículo 6.- El Jefe de Estudios del centro que oferte las Enseñanzas de Educación de Adultos se encargará del control y seguimiento del profesorado que imparta las horas lectivas de carácter extraordinario, comunicando las incidencias que se produzcan a la Dirección General de Promoción Educativa.
 
 DISPOSICIONES FINALES
 
-Primera.- Lo dispuesto en el presente Decreto tendrÃ¡ efectos de 1 de enero de 1996.
+Primera.- Lo dispuesto en el presente Decreto tendrá efectos de 1 de enero de 1996. Segunda.- Se autoriza al Consejero de Educación, Cultura y Deportes, para que, en el ámbito de sus competencias, dicte las disposiciones necesarias para la aplicación del presente Decreto.
 
-Segunda.- Se autoriza al Consejero de EducaciÃ³n, Cultura y Deportes, para que, en el Ã¡mbito de sus competencias, dicte las disposiciones necesarias para la aplicaciÃ³n del presente Decreto.
+Tercera.- El presente Decreto entrará en vigor el mismo día de su publicación en el Boletín Oficial de Canarias.
 
-Tercera.- El presente Decreto entrarÃ¡ en vigor el mismo dÃ­a de su publicaciÃ³n en el BoletÃ­n Oficial de Canarias.
-
-Dado en Santa Cruz de Tenerife, a 20 de junio de 1996.
-
-EL PRESIDENTE
+Dado en Santa Cruz de Tenerife, a 20 de junio de 1996. EL PRESIDENTE
 
 DEL GOBIERNO,
 
 Manuel Hermoso Rojas.
 
-EL CONSEJERO DE EDUCACIÃN,
+EL CONSEJERO DE EDUCACIÃÓN,
 
 CULTURA Y DEPORTES,
 
-JosÃ© Mendoza Cabrera.
+José Mendoza Cabrera.

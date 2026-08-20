@@ -1,10 +1,15 @@
 ---
 id: norm-es-1993-23257
 codigo_sintetizado: BOE-A-1993-23257
-titulo: Orden de 9 de septiembre de 1993 por la que se aprueban los temarios que han de regir en los procedimientos de ingreso, adquisición de nuevas especialidades y movilidad para determinadas especialidades de los Cuerpos de Maestros, Profesores de Enseñanza Secundaria y Profesores de Escuelas Oficiales de Idiomas, regulados por el Real Decreto 850/1993, de 4 de junio.
+titulo: Orden de 9 de septiembre de 1993 por la que se aprueban los temarios que han
+  de regir en los procedimientos de ingreso, adquisición de nuevas especialidades
+  y movilidad para determinadas especialidades de los Cuerpos de Maestros, Profesores
+  de Enseñanza Secundaria y Profesores de Escuelas Oficiales de Idiomas, regulados
+  por el Real Decreto 850/1993, de 4 de junio.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1993-09-21'
 boletin: BOE
@@ -15,29 +20,26 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Oposiciones y acceso
 tags:
-  - eoi
-  - eso
-  - oposiciones
-  - oposiciones-y-acceso
-  - profesorado
-  - proteccion-menores
-  - rgpd
+- eoi
+- eso
+- oposiciones
+- oposiciones-y-acceso
+- profesorado
+- proteccion-menores
+- rgpd
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
   fundamento_de:
-    - norma_id: norm-es-1995-22212
-    - norma_id: norm-es-1996-3102
-    - norma_id: norm-es-1998-10720
-    - norma_id: norm-es-2023-9553
+  - norma_id: norm-es-1995-22212
+  - norma_id: norm-es-1996-3102
+  - norma_id: norm-es-1998-10720
+  - norma_id: norm-es-2023-9553
   fundamentos_derecho:
-    - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rd-276-2007
   articulos:
-    - '1'
-    - norma_id: norm-es-rdl-5-2015
-  articulos:
-    - '1'
+  - '1'
 ---
 # Orden de 9 de septiembre de 1993 por la que se aprueban los temarios que han de regir en los procedimientos de ingreso, adquisición de nuevas especialidades y movilidad para determinadas especialidades de los Cuerpos de Maestros, Profesores de Enseñanza Secundaria y Profesores de Escuelas Oficiales de Idiomas, regulados por el Real Decreto 850/1993, de 4 de junio.
 

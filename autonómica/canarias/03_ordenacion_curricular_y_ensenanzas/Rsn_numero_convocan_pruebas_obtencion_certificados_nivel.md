@@ -1,7 +1,12 @@
 ---
 id: norm-can-res-059
 codigo_sintetizado: Resolucion BOC 59
-titulo: Resolución de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, número 597/2025 de 4 de diciembre, por la que se convocan pruebas para la obtención de certificados de nivel intermedio B2 y nivel avanzado C1 de Inglés de Enseñanzas de Idiomas de Régimen Especial en la Comunidad Autónoma de Canarias y se dictan instrucciones para su organización y aplicación en el curso 2025-2026 (BOC núm 250, de 18 de diciembre).
+titulo: Resolución de la Dirección General de Formación Profesional y Enseñanzas de
+  Régimen Especial, número 597/2025 de 4 de diciembre, por la que se convocan pruebas
+  para la obtención de certificados de nivel intermedio B2 y nivel avanzado C1 de
+  Inglés de Enseñanzas de Idiomas de Régimen Especial en la Comunidad Autónoma de
+  Canarias y se dictan instrucciones para su organización y aplicación en el curso
+  2025-2026 (BOC núm 250, de 18 de diciembre).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,35 +18,35 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas de Idiomas
 tags:
-  - ense-anzas-de-idiomas
-  - ensenanzas-deportivas
-  - eoi
-  - equipos-directivos
-  - evaluacion
-  - formacion-profesional
-  - profesorado
+- ense-anzas-de-idiomas
+- ensenanzas-deportivas
+- eoi
+- equipos-directivos
+- evaluacion
+- formacion-profesional
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-212-1991
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2019-317
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2019-317
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-2019-317
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-d-212-1991
+  - '1'
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2019-317
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-250-4324.pdf
 ---
 # Resolución de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, número 597/2025 de 4 de diciembre, por la que se convocan pruebas para la obtención de certificados de nivel intermedio B2 y nivel avanzado C1 de Inglés de Enseñanzas de Idiomas de Régimen Especial en la Comunidad Autónoma de Canarias y se dictan instrucciones para su organización y aplicación en el curso 2025-2026 (BOC núm 250, de 18 de diciembre).
@@ -56,8 +61,7 @@ Cuarto.- Las Escuelas Oficiales de Idiomas, con el fin de atender la necesidad d
 Quinto.- La ordenación académica de las Enseñanzas de Idiomas de Régimen Especial requiere una unificación y regulación de los procedimientos para la obtención de los certificados de idiomas mediante prácticas de evaluación objetivas, fiables y homologables. Ello hace necesario establecer pautas comunes tanto para los centros participantes como para los tribunales examinadores, por lo que se dictan instrucciones para la organización y coordinación de esta convocatoria donde se incluyen, entre otros aspectos, las características de las pruebas, el calendario y horario de su celebración, la evaluación y calificación, las personas convocadas y los requisitos de participación. A los anteriores hechos les son de aplicación los siguientes
 
 FUNDAMENTOS DE DERECHO
-Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, dedica los artículos 59, 60, 61 y 62 a la ordenación de las Enseñanzas de Idiomas de Régimen Especial, estableciendo que estas enseñanzas se organizarán en tres niveles: básico, intermedio y avanzado. Estos niveles se corresponderán, respectivamente, con los niveles A, B y C del Marco Común Europeo de Referencia para las Lenguas, que se subdividen en los niveles A1, A2, B1, B2, C1 y C2.
-Segundo.- El Real Decreto 1041/2017, de 22 de diciembre, por el que se fijan las exigencias mínimas del nivel básico a efectos de certificación, establece el currículo básico de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2 de las Enseñanzas de Idiomas de Régimen Especial reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y establece las equivalencias entre las Enseñanzas de Idiomas de Régimen Especial reguladas en diversos planes de estudios y las de este Real Decreto, y en su artículo 7 dispone que, para obtener el Certificado del Nivel Intermedio B2 y de Nivel Avanzado C1, será necesaria la superación de una prueba específica de certificación. Asimismo, establece que las Administraciones educativas regularán la organización de las pruebas de certificación, que se elaborarán, administrarán y evaluarán según unos estándares que garanticen su validez, fiabilidad, viabilidad, equidad, transparencia e impacto positivo, así como el derecho del alumnado a ser evaluado con plena objetividad. Por último, determina que el Gobierno, previa consulta con las Comunidades Autónomas, establecerá los principios básicos comunes de evaluación con el fin de garantizar el cumplimiento de los requisitos de calidad mencionados.
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, dedica los artículos 59, 60, 61 y 62 a la ordenación de las Enseñanzas de Idiomas de Régimen Especial, estableciendo que estas enseñanzas se organizarán en tres niveles: básico, intermedio y avanzado. Estos niveles se corresponderán, respectivamente, con los niveles A, B y C del Marco Común Europeo de Referencia para las Lenguas, que se subdividen en los niveles A1, A2, B1, B2, C1 y C2. Segundo.- El Real Decreto 1041/2017, de 22 de diciembre, por el que se fijan las exigencias mínimas del nivel básico a efectos de certificación, establece el currículo básico de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2 de las Enseñanzas de Idiomas de Régimen Especial reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y establece las equivalencias entre las Enseñanzas de Idiomas de Régimen Especial reguladas en diversos planes de estudios y las de este Real Decreto, y en su artículo 7 dispone que, para obtener el Certificado del Nivel Intermedio B2 y de Nivel Avanzado C1, será necesaria la superación de una prueba específica de certificación. Asimismo, establece que las Administraciones educativas regularán la organización de las pruebas de certificación, que se elaborarán, administrarán y evaluarán según unos estándares que garanticen su validez, fiabilidad, viabilidad, equidad, transparencia e impacto positivo, así como el derecho del alumnado a ser evaluado con plena objetividad. Por último, determina que el Gobierno, previa consulta con las Comunidades Autónomas, establecerá los principios básicos comunes de evaluación con el fin de garantizar el cumplimiento de los requisitos de calidad mencionados.
 Tercero.- El [Real Decreto 1/2019](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md), de 11 de enero, por el que se establecen los principios básicos comunes de evaluación aplicables a las pruebas de certificación oficial de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2 de las Enseñanzas de Idiomas de Régimen Especial, dictado en desarrollo de lo dispuesto en el citado artículo 7 del Real Decreto 1041/2017, de 22 de diciembre, regula los principios básicos comunes que han de regir el diseño, la elaboración, la administración, y la evaluación y calificación de las pruebas de certificación oficial de los mencionados niveles, y la publicación de resultados y procedimientos de reclamación sobre las calificaciones.
 Cuarto.- El Decreto 142/2018, de 8 de octubre, por el que se establece la ordenación y el currículo de las enseñanzas y la certificación de Idiomas de Régimen Especial para la Comunidad Autónoma de Canarias, fija en su Capítulo V todo lo concerniente a la certificación de idiomas. Dentro del citado capítulo, el artículo 27, dedicado al procedimiento para la obtención de la certificación de Enseñanzas de Idiomas de Régimen Especial, establece que las convocatorias de pruebas de certificación podrán estar dirigidas a un colectivo específico definido por unos requisitos complementarios establecidos en la convocatoria. Asimismo, el artículo 28, referido a las pruebas para la obtención de los certificados de la Enseñanzas de Idiomas de Régimen Especial, determina en su apartado 2 que estas pruebas tendrán como referente los objetivos, contenidos y criterios de evaluación establecidos en los currículos de cada nivel, y en el apartado 3, que las características y la evaluación de las pruebas de certificación de Enseñanzas de Idiomas de Régimen Especial se regirán por lo establecido en la normativa básica estatal, así como en las disposiciones normativas e instrucciones dictadas en esta materia en el ámbito autonómico para las Enseñanzas de Idiomas de Régimen Especial.
 
@@ -66,8 +70,7 @@ Sexto.- La Resolución de 5 de julio de 2023, de la Dirección General de Formac
 
 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias, y el artículo 20 del [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, que asigna competencias generales y específicas a la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial,
 RESUELVO:
-Primero.- Convocar pruebas de certificación de competencia general para la obtención del Certificado de Nivel Intermedio B2 y del Certificado de Nivel Avanzado C1 de inglés de las Enseñanzas de Idiomas de Régimen Especial dirigidas al profesorado con nombramiento durante el curso 2025-2026 en un centro docente público dependiente de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes de la Comunidad Autónoma de Canarias o integrante de las listas de empleo público de centros docentes públicos dependientes de la mencionada Consejería en situación de disponibilidad. Asimismo, estas pruebas se dirigen al alumnado matriculado en cursos de especialización de preparación para pruebas de certificación de nivel intermedio B2 y de nivel avanzado C1 impartidos en las Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Canarias entre septiembre de 2025 y enero de 2026.
-Segundo.- Dictar instrucciones para su organización y aplicación en las Escuelas Oficiales de Idiomas, en los términos recogidos en el anexo de la presente Resolución y sus Apéndices del I al VIII.
+Primero.- Convocar pruebas de certificación de competencia general para la obtención del Certificado de Nivel Intermedio B2 y del Certificado de Nivel Avanzado C1 de inglés de las Enseñanzas de Idiomas de Régimen Especial dirigidas al profesorado con nombramiento durante el curso 2025-2026 en un centro docente público dependiente de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes de la Comunidad Autónoma de Canarias o integrante de las listas de empleo público de centros docentes públicos dependientes de la mencionada Consejería en situación de disponibilidad. Asimismo, estas pruebas se dirigen al alumnado matriculado en cursos de especialización de preparación para pruebas de certificación de nivel intermedio B2 y de nivel avanzado C1 impartidos en las Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Canarias entre septiembre de 2025 y enero de 2026. Segundo.- Dictar instrucciones para su organización y aplicación en las Escuelas Oficiales de Idiomas, en los términos recogidos en el anexo de la presente Resolución y sus Apéndices del I al VIII.
 Tercero.- Ordenar su publicación en el Boletín Oficial de Canarias para general conocimiento y encomendar a los equipos directivos de las Escuelas Oficiales de Idiomas que desarrollen el procedimiento más adecuado para que la presente Resolución sea conocida y difundida entre los distintos sectores de la comunidad educativa. Esta Resolución también estará a disposición de las personas interesadas en la página web de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes. Contra la presente Resolución, que no pone fin a la vía administrativa, cabe interponer en el plazo de un (1) mes, a contar desde el día siguiente al de su publicación, recurso de alzada ante la Viceconsejería de Formación Profesional y Cualificaciones Profesionales, sin perjuicio de cualesquiera otros que se estime procedente interponer. Las Palmas de Gran Canaria, a 4 de diciembre de 2025.- La Directora General de Formación Profesional y Enseñanzas de Régimen Especial, Carolina León Martínez.
 
 ## Anexo
@@ -93,9 +96,7 @@ b) Profesorado integrante de las listas de empleo público de centros docentes p
 c) Alumnado matriculado en cursos de especialización de preparación de pruebas de certificación de nivel intermedio B2 y nivel avanzado C1 de inglés impartidos en modalidad presencial, semipresencial o a distancia y durante el primer cuatrimestre, de septiembre de 2025 a enero de 2026, en las Escuelas Oficiales de Idiomas (en adelante, EOI) de la Comunidad Autónoma de Canarias recogidas en el Apéndice IV . 4.- Condiciones y requisitos de inscripción.
 
 **4.1.** Quienes deseen inscribirse en las pruebas para la obtención del Certificado de Nivel Intermedio B2 y de Nivel Avanzado C1 de inglés deberán cumplir las siguientes condiciones:
-a) Pertenecer a alguno de los tres colectivos recogidos en la instrucción 3 de la presente Resolución. En el caso del alumnado que cumpla con el requisito recogido en la instrucción 3.c), solo se podrá solicitar la inscripción en la prueba del nivel que corresponde con el curso de especialización de preparación para pruebas de certificación en el que se está matriculado en el primer cuatrimestre del curso escolar 2025-2026.
-
-Quienes hayan estado matriculados en uno de los mencionados cursos de especialización y cuya matrícula haya sido anulada por renuncia voluntaria o baja de oficio o quienes se hayan matriculado con fecha posterior a la publicación de la presente Resolución, no podrán solicitar la inscripción en estas pruebas.
+a) Pertenecer a alguno de los tres colectivos recogidos en la instrucción 3 de la presente Resolución. En el caso del alumnado que cumpla con el requisito recogido en la instrucción 3.c), solo se podrá solicitar la inscripción en la prueba del nivel que corresponde con el curso de especialización de preparación para pruebas de certificación en el que se está matriculado en el primer cuatrimestre del curso escolar 2025-2026. Quienes hayan estado matriculados en uno de los mencionados cursos de especialización y cuya matrícula haya sido anulada por renuncia voluntaria o baja de oficio o quienes se hayan matriculado con fecha posterior a la publicación de la presente Resolución, no podrán solicitar la inscripción en estas pruebas.
 b) En el caso de nacionales de un país cuya lengua oficial coincida con aquella de la que solicitan examinarse, acreditar que no se trata de su lengua materna ni de la lengua de su escolarización ordinaria.
 c) Formalizar la inscripción en la prueba dentro del plazo recogido en el Apéndice I de la presente Resolución.
 
@@ -193,9 +194,7 @@ g) Designar tribunales examinadores, estableciendo su ámbito de actuación.
 h) Asesorar a los tribunales examinadores sobre la administración, organización, corrección y evaluación de las pruebas de certificación, resolviendo cualquier duda que pueda surgir a lo largo del procedimiento.
 i) Resolver las incidencias que surjan a lo largo del procedimiento y que no puedan ser resueltas por los centros o tribunales examinadores. 9.- Tribunales examinadores.
 
-**9.1.** La DGFPERE designará a los tribunales examinadores encargados de la administración, corrección y calificación de las pruebas de entre el profesorado con nombramiento en una EOI de la Comunidad Autónoma de Canarias durante el curso 2025-2026.
-
-**9.2.** Los tribunales examinadores tendrán las funciones que se recogen a continuación:
+**9.1.** La DGFPERE designará a los tribunales examinadores encargados de la administración, corrección y calificación de las pruebas de entre el profesorado con nombramiento en una EOI de la Comunidad Autónoma de Canarias durante el curso 2025-2026. **9.2.** Los tribunales examinadores tendrán las funciones que se recogen a continuación:
 a) Administrar la parte escrita de las pruebas en el ámbito de la isla de nombramiento, según asignación de la DGFPERE.
 b) Organizar, en coordinación con la jefatura de estudios, los días y horas para la administración de la parte oral de la prueba.
 c) Administrar la parte oral de las pruebas del alumnado asignado, velando por la correcta grabación de la misma.
@@ -216,9 +215,7 @@ i) Emitir informe motivado sobre las reclamaciones presentadas por escrito y dir
 
 **10.5.** La página web de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes albergará documentación informativa relativa a las pruebas de certificación de los niveles convocados. Las personas titulares de la dirección de la EOI donde tendrá lugar esta convocatoria velarán para que se facilite esta información al alumnado a través de cualquier medio que estime oportuno. 11.- Estructura y duración de las pruebas.
 
-**11.1.** La estructura general de la prueba viene recogida en la instrucción 7 de la Resolución de la DGFPEA de 5 de julio de 2023. Asimismo, la mencionada Resolución recoge las características de la prueba y las características específicas, incluyendo los criterios de evaluación, las áreas temáticas, los tipos de tarea y las características de los textos para cada una de las actividades de lengua en el Apéndice III para el Nivel Intermedio B2 y en el Apéndice IV para el Nivel Avanzado C1.
-
-**11.2.** La prueba constará de cinco actividades de lengua independientes:
+**11.1.** La estructura general de la prueba viene recogida en la instrucción 7 de la Resolución de la DGFPEA de 5 de julio de 2023. Asimismo, la mencionada Resolución recoge las características de la prueba y las características específicas, incluyendo los criterios de evaluación, las áreas temáticas, los tipos de tarea y las características de los textos para cada una de las actividades de lengua en el Apéndice III para el Nivel Intermedio B2 y en el Apéndice IV para el Nivel Avanzado C1. **11.2.** La prueba constará de cinco actividades de lengua independientes:
 • comprensión de textos escritos,
 • comprensión de textos orales,
 • producción y coproducción de textos escritos,

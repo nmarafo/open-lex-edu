@@ -1,10 +1,14 @@
 ---
 id: norm-can-res-juriscan-41360-129
 codigo_sintetizado: Resolucion BOC 129
-titulo: Dirección General de Promoción Educativa.- Resolución de 14 de octubre de 2002, por la que se dictan instrucciones para la realización de horas lectivas extraordinarias en centros que desarrollen ofertas formativas de Educación de Personas Adultas (BOC n.º 148, de 6 de noviembre).
+titulo: Dirección General de Promoción Educativa.- Resolución de 14 de octubre de
+  2002, por la que se dictan instrucciones para la realización de horas lectivas extraordinarias
+  en centros que desarrollen ofertas formativas de Educación de Personas Adultas (BOC
+  n.º 148, de 6 de noviembre).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios Complementarios
+organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios
+  Complementarios
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: original
@@ -13,32 +17,32 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Formación del profesorado
 tags:
-  - bachillerato
-  - educacion-personas-adultas
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - evaluacion
-  - formacion-del-profesorado
-  - oposiciones
-  - profesorado
-  - roc
+- bachillerato
+- educacion-personas-adultas
+- ensenanzas-deportivas
+- equipos-directivos
+- evaluacion
+- formacion-del-profesorado
+- oposiciones
+- profesorado
+- roc
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-res-boc-2002-148-77
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-boc-2002-148-77
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
-    - norma_id: norm-can-res-boc-2002-148-77
+  - norma_id: norm-can-res-boc-2002-148-77
   desarrolla:
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-res-boc-2002-148-77
+  - '1'
+  - norma_id: norm-can-res-boc-2002-148-77
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/2002/148/boc-2002-148-011.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=41360
 ---
@@ -54,9 +58,7 @@ fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=41360
 
 **1.2.** La Dirección General de Promoción Educativa priorizará, en el caso de los centros presenciales de Educación de Personas Adultas, las propuestas de Formación Básica y, dentro de ésta, las de Formación Instrumental y las de menor nivel formativo. Todos los centros acompañarán con un informe justificativo la petición de horas lectivas extraordinarias para actividades no regladas de Formación orientada al empleo y sociocultural no incluidas en la Formación Básica.
 
-**1.3.** Las retribuciones que percibirá el profesorado serán las que figuran en el artículo cuarto del citado Decreto 140/1996.
-
-**1.4.** Solamente podrá desarrollar actividades de Educación de Personas Adultas en régimen de horas lectivas extraordinarias el profesorado que figure en la nómina de personal docente de la Consejería de Educación, Cultura y Deportes, que tenga nombramiento para el curso escolar en centros públicos y esté en activo, independientemente de su situación administrativa (funcionarios de carrera, interinos o sustitutos).
+**1.3.** Las retribuciones que percibirá el profesorado serán las que figuran en el artículo cuarto del citado Decreto 140/1996. **1.4.** Solamente podrá desarrollar actividades de Educación de Personas Adultas en régimen de horas lectivas extraordinarias el profesorado que figure en la nómina de personal docente de la Consejería de Educación, Cultura y Deportes, que tenga nombramiento para el curso escolar en centros públicos y esté en activo, independientemente de su situación administrativa (funcionarios de carrera, interinos o sustitutos).
 
 **1.5.** Para la realización de las horas lectivas extraordinarias es condición indispensable que el centro de destino de cada profesor certifique que cumple totalmente la jornada laboral en el mismo. Por ello, los centros no aceptarán propuestas de horas lectivas extraordinarias de personal docente que se encuentre en situación de servicio especial que implique una actividad no relacionada con la función docente habitual.
 

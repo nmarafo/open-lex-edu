@@ -1,7 +1,10 @@
 ---
 id: norm-can-res-boc-2021-109-79
 codigo_sintetizado: Resolucion BOC 79
-titulo: Resolución de 19 de mayo de 2021, por la que se dictan instrucciones para la organización y el funcionamiento del Curso Específico de Acceso a Ciclos Formativos de Formación Profesional de Grado Medio a impartir en centros de educación de personas adultas dependientes de esta Consejería (BOC n.º 109, de 28 de mayo).
+titulo: Resolución de 19 de mayo de 2021, por la que se dictan instrucciones para
+  la organización y el funcionamiento del Curso Específico de Acceso a Ciclos Formativos
+  de Formación Profesional de Grado Medio a impartir en centros de educación de personas
+  adultas dependientes de esta Consejería (BOC n.º 109, de 28 de mayo).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,28 +16,28 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación de Personas Adultas
 tags:
-  - admision-alumnado
-  - curriculo
-  - educaci-n-de-personas-adultas
-  - educacion-personas-adultas
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - eso
-  - formacion-profesional
-  - grado-medio
-  - oposiciones
+- admision-alumnado
+- curriculo
+- educaci-n-de-personas-adultas
+- educacion-personas-adultas
+- ensenanzas-deportivas
+- equipos-directivos
+- eso
+- formacion-profesional
+- grado-medio
+- oposiciones
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
+  - '1'
+  - norma_id: norm-es-lo-2-2006
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2021-109-2756.pdf
 ---
 # Resolución de 19 de mayo de 2021, por la que se dictan instrucciones para la organización y el funcionamiento del Curso Específico de Acceso a Ciclos Formativos de Formación Profesional de Grado Medio a impartir en centros de educación de personas adultas dependientes de esta Consejería (BOC n.º 109, de 28 de mayo).
@@ -146,9 +149,7 @@ e. Tecnologías de la Información y la Comunicación
 
 **5.1.** Currículo El currículo de referencia para la organización del curso se centrará en las competencias de la Educación Secundaria Obligatoria (ESO). Asimismo, se centrará en los aspectos esenciales (criterios de evaluación, estándares de -IteeO7v4RVxf aprendizaje, contenidos, etc.) de los currículos de las materias de la ESO. En cualquier caso, el currículo tendrá por objeto acreditar la adquisición de las competencias recogidas en el anexo II del Real Decreto 1147/2011 de 29 de julio, según se establece en su
 
-#### Artículo 21.
-
-**5.2.** Programación Las programaciones didácticas de los ámbitos se adecuarán al nivel de competencia curricular, a las características del alumnado y a la asignación horaria de los ámbitos Las programaciones deberán incluir, como mínimo, los siguientes apartados:
+#### Artículo 21. **5.2.** Programación Las programaciones didácticas de los ámbitos se adecuarán al nivel de competencia curricular, a las características del alumnado y a la asignación horaria de los ámbitos Las programaciones deberán incluir, como mínimo, los siguientes apartados:
 
 • Relación entre los criterios de evaluación, contenidos, estándares de aprendizaje y competencias clave.
 • La metodología que se va a aplicar.
@@ -162,9 +163,7 @@ e. Tecnologías de la Información y la Comunicación
 
 1. Durante el mes de octubre se realizará una evaluación sin notas. Esta evaluación será informativa. En ella se tomarán decisiones consensuadas sobre aspectos como la metodología, necesidades de adaptaciones de las programaciones, respuesta coordinada para nuevas incorporaciones, etc. u otros aspectos que el equipo docente determine. -IteeO7v4RVxf aprendizaje, contenidos, etc.) de los currículos de las materias de la ESO. En cualquier caso, el currículo tendrá por objeto acreditar la adquisición de las competencias recogidas en el anexo II del Real Decreto 1147/2011 de 29 de julio, según se establece en su
 
-#### Artículo 21.
-
-**5.2.** Programación Las programaciones didácticas de los ámbitos se adecuarán al nivel de competencia curricular, a las características del alumnado y a la asignación horaria de los ámbitos Las programaciones deberán incluir, como mínimo, los siguientes apartados:
+#### Artículo 21. **5.2.** Programación Las programaciones didácticas de los ámbitos se adecuarán al nivel de competencia curricular, a las características del alumnado y a la asignación horaria de los ámbitos Las programaciones deberán incluir, como mínimo, los siguientes apartados:
 
 • Relación entre los criterios de evaluación, contenidos, estándares de aprendizaje y competencias clave.
 • La metodología que se va a aplicar.

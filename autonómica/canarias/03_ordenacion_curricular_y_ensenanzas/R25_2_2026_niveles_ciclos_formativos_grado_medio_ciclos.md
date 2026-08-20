@@ -1,7 +1,12 @@
 ---
 id: norm-can-res-032
 codigo_sintetizado: Resolucion BOC 32
-titulo: Resolución de 25 de febrero de 2026, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial por la que se dictan instrucciones para la implantación y desarrollo del módulo profesional optativo en las ofertas formativas de Grados D, niveles 2 (ciclos formativos de grado medio) y 3 (ciclos formativos de grado superior), a partir del curso escolar 2026/2027, en la Comunidad Autónoma de Canarias (BOC n.º 43, de 4 de marzo).
+titulo: Resolución de 25 de febrero de 2026, de la Dirección General de Formación
+  Profesional y Enseñanzas de Régimen Especial por la que se dictan instrucciones
+  para la implantación y desarrollo del módulo profesional optativo en las ofertas
+  formativas de Grados D, niveles 2 (ciclos formativos de grado medio) y 3 (ciclos
+  formativos de grado superior), a partir del curso escolar 2026/2027, en la Comunidad
+  Autónoma de Canarias (BOC n.º 43, de 4 de marzo).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,64 +18,64 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-  - curriculo
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - formacion-profesional
-  - grado-medio
-  - grado-superior
+- curriculo
+- ensenanzas-deportivas
+- equipos-directivos
+- formacion-profesional
+- grado-medio
+- grado-superior
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-can-res-033
-    - norma_id: norm-can-res-034
-    - norma_id: norm-can-res-035
-    - norma_id: norm-can-res-036
-    - norma_id: norm-can-res-037
-    - norma_id: norm-can-res-038
-    - norma_id: norm-can-res-039
-    - norma_id: norm-can-res-134
-    - norma_id: norm-can-res-boc-2024-226-44
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-es-2020-17274
-    - norma_id: norm-es-2021-979
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-res-033
+  - norma_id: norm-can-res-034
+  - norma_id: norm-can-res-035
+  - norma_id: norm-can-res-036
+  - norma_id: norm-can-res-037
+  - norma_id: norm-can-res-038
+  - norma_id: norm-can-res-039
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-2020-17274
+  - norma_id: norm-es-2021-979
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
-    - norma_id: norm-can-res-033
-    - norma_id: norm-can-res-034
-    - norma_id: norm-can-res-035
-    - norma_id: norm-can-res-036
-    - norma_id: norm-can-res-037
-    - norma_id: norm-can-res-038
-    - norma_id: norm-can-res-039
+  - norma_id: norm-can-res-033
+  - norma_id: norm-can-res-034
+  - norma_id: norm-can-res-035
+  - norma_id: norm-can-res-036
+  - norma_id: norm-can-res-037
+  - norma_id: norm-can-res-038
+  - norma_id: norm-can-res-039
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-can-res-134
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-2020-17274
-    - norma_id: norm-es-2021-979
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-can-res-033
-    - norma_id: norm-can-res-034
-    - norma_id: norm-can-res-035
-    - norma_id: norm-can-res-036
-    - norma_id: norm-can-res-037
-    - norma_id: norm-can-res-038
-    - norma_id: norm-can-res-039
-    - norma_id: norm-can-res-boc-2024-226-44
+  - '1'
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-134
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-2020-17274
+  - norma_id: norm-es-2021-979
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-can-res-033
+  - norma_id: norm-can-res-034
+  - norma_id: norm-can-res-035
+  - norma_id: norm-can-res-036
+  - norma_id: norm-can-res-037
+  - norma_id: norm-can-res-038
+  - norma_id: norm-can-res-039
+  - norma_id: norm-can-res-boc-2024-226-44
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-043-703.pdf
 ---
 # Resolución de 25 de febrero de 2026, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial por la que se dictan instrucciones para la implantación y desarrollo del módulo profesional optativo en las ofertas formativas de Grados D, niveles 2 (ciclos formativos de grado medio) y 3 (ciclos formativos de grado superior), a partir del curso escolar 2026/2027, en la Comunidad Autónoma de Canarias (BOC n.º 43, de 4 de marzo).
@@ -81,8 +86,7 @@ Consejería de Educación, Formación Profesional, Actividad Física y Deportes 
 Primero.- La [Ley Orgánica 3/2022](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación Profesional (en adelante LOOIFP), tiene como finalidad garantizar una oferta formativa ágil y eficaz, adaptada al entorno productivo al que se dirige la formación del alumnado.
 Segundo.- Con la aprobación del [Real Decreto 659/2023](R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, modificado por el Real Decreto 658/2024, de 9 de julio, se regula la optatividad en los currículos de los ciclos formativos de grado medio y superior, configurándola como un módulo destinado a la adquisición de competencias transversales o a la ampliación de la formación general del alumnado, contribuyendo a su empleabilidad.
 
-Tercero.- La [Resolución de 30 de octubre de 2024](R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md), de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se dictan las instrucciones y orientaciones para la implantación y desarrollo de los grados D y E, estableció la incorporación del módulo profesional optativo a los planes de estudios de la Comunidad Autónoma de Canarias, cuya implantación se llevó a cabo por primera vez en el curso escolar 2025/2026.
-Cuarto.- Tras su aplicación en los ciclos formativos de grado medio y superior, y analizadas diversas propuestas remitidas por los centros educativos, la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial ha valorado dichas aportaciones. Como resultado, se dictan nuevas instrucciones para el curso académico 2026/2027, incorporando un catálogo actualizado de módulos profesionales optativos que amplía de forma notable la oferta formativa y asegura la cobertura de todas las especialidades docentes. FUNDAMENTOS DE DERECHO
+Tercero.- La [Resolución de 30 de octubre de 2024](R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md), de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se dictan las instrucciones y orientaciones para la implantación y desarrollo de los grados D y E, estableció la incorporación del módulo profesional optativo a los planes de estudios de la Comunidad Autónoma de Canarias, cuya implantación se llevó a cabo por primera vez en el curso escolar 2025/2026. Cuarto.- Tras su aplicación en los ciclos formativos de grado medio y superior, y analizadas diversas propuestas remitidas por los centros educativos, la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial ha valorado dichas aportaciones. Como resultado, se dictan nuevas instrucciones para el curso académico 2026/2027, incorporando un catálogo actualizado de módulos profesionales optativos que amplía de forma notable la oferta formativa y asegura la cobertura de todas las especialidades docentes. FUNDAMENTOS DE DERECHO
 Primero.- El artículo 133.3 de la [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias, indica que le corresponde a la Comunidad Autónoma de Canarias la competencia de desarrollo legislativo y de ejecución, entre otras, de la ordenación de las enseñanzas y la actividad docente y educativa, así como el establecimiento de los correspondientes planes de estudio, incluida la ordenación curricular.
 Segundo.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria, establece en su artículo 33.3 que "De acuerdo con la normativa básica del Estado, una vez aprobado el real decreto correspondiente a un título de formación profesional y hasta que sea completado el currículo correspondiente a la comunidad autónoma, aquel actuará como norma subsidiaria".
 Tercero.- La [Ley Orgánica 3/2022](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación Profesional, en su artículo 40, determina la estructura modular de los ciclos formativos de grado medio y superior, disponiendo que la misma consta de una parte de optatividad integrada por módulos profesionales que doten de mayor flexibilidad a la configuración y capacidad de adaptación de la oferta.
@@ -111,13 +115,9 @@ Tercero.- Ordenar la publicación de la presente Resolución en el Boletín Ofic
 
 ## Anexo I
 
-INSTRUCCIONES PARA LA IMPLANTACIÓN Y DESARROLLO DEL MÓDULO PROFESIONAL OPTATIVO EN LAS OFERTAS FORMATIV AS DE GRADO D, NIVELES 2 (CICLOS FORMATIVOS DE GRADO MEDIO), Y 3 (CICLOS FORMATIVOS DE GRADO SUPERIOR), A PARTIR DEL CURSO ESCOLAR 2026/2027.
+INSTRUCCIONES PARA LA IMPLANTACIÓN Y DESARROLLO DEL MÓDULO PROFESIONAL OPTATIVO EN LAS OFERTAS FORMATIV AS DE GRADO D, NIVELES 2 (CICLOS FORMATIVOS DE GRADO MEDIO), Y 3 (CICLOS FORMATIVOS DE GRADO SUPERIOR), A PARTIR DEL CURSO ESCOLAR 2026/2027. #### Primera. Objeto y ámbito de aplicación.
 
-#### Primera. Objeto y ámbito de aplicación.
-
-Las presentes instrucciones tienen por objeto la organización del módulo profesional optativo en las ofertas formativas de grados D, Niveles 2 (ciclos formativos de grado medio) y 3 (ciclos formativos de grado superior), a partir del curso escolar 2026/2027, en los centros docentes que impartan ciclos formativos de grado medio y superior. Será de aplicación en todos los centros educativos del Sistema de Formación Profesional de la Comunidad Autónoma de Canarias, a partir del curso escolar 2026/2027.
-
-#### Segunda. Disposiciones generales.
+Las presentes instrucciones tienen por objeto la organización del módulo profesional optativo en las ofertas formativas de grados D, Niveles 2 (ciclos formativos de grado medio) y 3 (ciclos formativos de grado superior), a partir del curso escolar 2026/2027, en los centros docentes que impartan ciclos formativos de grado medio y superior. Será de aplicación en todos los centros educativos del Sistema de Formación Profesional de la Comunidad Autónoma de Canarias, a partir del curso escolar 2026/2027. #### Segunda. Disposiciones generales.
 
 1. Todos los ciclos formativos de grado medio y superior, impartidos en los centros que conforman el Sistema de Formación Profesional en la Comunidad Autónoma de Canarias, incluirán en su plan de estudios un módulo profesional optativo de duración anual con el objeto de profundizar en el desarrollo de las competencias transversales, o bien complementar la formación del alumnado para facilitar la progresión en su itinerario formativo individual.
 
@@ -147,8 +147,7 @@ Inglés profesional II (GM) para los CFGM Inglés profesional II (GS) para los C
 
 8. En los centros en los que se impartan varios ciclos formativos del mismo nivel, pertenecientes a la misma familia profesional, podrá establecerse una oferta conjunta de módulos optativos para dichos ciclos, teniendo en cuenta los aspectos siguientes:
 a) La definición de la oferta corresponderá a los departamentos didácticos de los ciclos participantes.
-b) La propuesta será única, y estará integrada por un mínimo de dos y un máximo de cinco módulos, conforme a los criterios establecidos en la Tabla 1.
-c) El alumnado de los ciclos formativos participantes elegirá, por orden de preferencia, entre los módulos optativos ofertados. A tal efecto, se impartirán aquellos que obtengan el mayor número de solicitudes, siempre que cumplan los requisitos siguientes:
+b) La propuesta será única, y estará integrada por un mínimo de dos y un máximo de cinco módulos, conforme a los criterios establecidos en la Tabla 1. c) El alumnado de los ciclos formativos participantes elegirá, por orden de preferencia, entre los módulos optativos ofertados. A tal efecto, se impartirán aquellos que obtengan el mayor número de solicitudes, siempre que cumplan los requisitos siguientes:
 • Que hayan sido escogidos por un mínimo de 12 personas.
 • Que se impartan en la misma franja horaria (mismos días y horas para los ciclos participantes).
 d) El número máximo de módulos optativos que podrán ser impartidos en la oferta conjunta coincidirá con el número de grupos destinatarios. Para superar dicho límite será necesaria autorización expresa de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, previa solicitud motivada del centro educativo.
@@ -272,15 +271,13 @@ b) Convalidación de un módulo profesional optativo de un ciclo formativo de gr
 b) Convalidación de un módulo profesional optativo de un ciclo formativo de grado superior:
 CICLOS FORMATIVOS DE GRADO SUPERIOR DE LA MISMA FAMILIA PROFESIONAL Módulo profesional aportado en la solicitud Módulo profesional objeto de convalidación Módulo profesional optativo del Anexo II cursado y superado Cualquier módulo profesional optativo del Anexo II ofertado en otro CFGS de la misma familia
 
-3. Convalidación del módulo Inglés profesional II (GM), con código CAN-1711.
-a) Una vez superado este módulo en un ciclo formativo de grado medio, podrá ser objeto de convalidación en otro ciclo formativo de grado medio, siempre que ambos pertenezcan a la misma familia profesional. En tal caso, se trasladará la calificación obtenida al nuevo módulo.
+3. Convalidación del módulo Inglés profesional II (GM), con código CAN-1711. a) Una vez superado este módulo en un ciclo formativo de grado medio, podrá ser objeto de convalidación en otro ciclo formativo de grado medio, siempre que ambos pertenezcan a la misma familia profesional. En tal caso, se trasladará la calificación obtenida al nuevo módulo.
 
 b) Una vez superado el módulo Inglés profesional, código 0179, o Inglés profesional II (GS), código CAN-1712, en un ciclo formativo de grado superior, podrá ser objeto de convalidación el módulo de Inglés profesional II (GM) en un ciclo formativo de grado medio, siempre que ambos pertenezcan a la misma familia profesional. En tal caso, se trasladará la calificación obtenida al nuevo módulo.
 c) El módulo será convalidado cuando se aporten certificados de nivel B2 o superior que para el idioma Inglés ha establecido la Orden de 25 de noviembre de 2022, por la que se actualizan los títulos y certificados establecidos en el Anexo I de la Orden de 21 de septiembre de 2016, que regula el reconocimiento de la acreditación de la competencia lingüística conforme al Marco Común Europeo de Referencia para las Lenguas en la Comunidad Autónoma de Canarias. En estos casos, la convalidación quedará registrada en todos los documentos de evaluación como "convalidado" (CV), sin calificación numérica y no computará a efectos de cálculo de la nota media del título.
 d) El módulo será convalidado cuando se aporte un título universitario de Grado o equivalente en Filología Inglesa, Traducción e Interpretación (Inglés) o una asignatura de Lengua Inglesa superada en estudios universitarios relacionados con la familia profesional. En estos casos, la convalidación quedará registrada en todos los documentos de evaluación como "convalidado" (CV), sin calificación numérica y no computará a efectos de cálculo de la nota media del título.
 
-4. Convalidación del módulo Inglés profesional II (GS), con código CAN-1712.
-a) Una vez superado este módulo en un ciclo formativo de grado superior, podrá ser objeto de convalidación en otro ciclo formativo de grado superior, siempre que ambos pertenezcan a la misma familia profesional. En tal caso, se trasladará la calificación obtenida al nuevo módulo.
+4. Convalidación del módulo Inglés profesional II (GS), con código CAN-1712. a) Una vez superado este módulo en un ciclo formativo de grado superior, podrá ser objeto de convalidación en otro ciclo formativo de grado superior, siempre que ambos pertenezcan a la misma familia profesional. En tal caso, se trasladará la calificación obtenida al nuevo módulo.
 b) El módulo será convalidado cuando se aporten certificados de nivel C1 o superior que para el idioma Inglés ha establecido la citada Orden de 25 de noviembre de 2022. En estos casos, la convalidación quedará registrada en todos los documentos de evaluación como "convalidado" (CV), sin calificación numérica y no computará a efectos de cálculo de la nota media del título.
 c) El módulo será convalidado cuando se aporte un título universitario de Grado o equivalente en Filología Inglesa, Traducción e Interpretación (Inglés) o una asignatura de Lengua Inglesa superada en estudios universitarios relacionados con la familia profesional. En estos casos, la convalidación quedará registrada en todos los documentos de evaluación como "convalidado" (CV), sin calificación numérica y no computará a efectos de cálculo de la nota media del título.
 
@@ -323,8 +320,7 @@ d) La dirección del centro educativo en el que el alumnado esté matriculado re
 e) Contra las resoluciones de reconocimiento podrán interponerse recurso de alzada ante la Dirección Territorial que corresponda, en los plazos y términos previstos en la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 
 4. Una vez que sea firme la resolución emitida por la dirección del centro educativo, y de conformidad con lo dispuesto en la misma, el resultado del reconocimiento se trasladará a los documentos oficiales de evaluación, consignándose:
-• En los casos de reconocimiento total, la calificación numérica de 5.
-• En los casos de reconocimiento parcial, la calificación final del módulo será la media ponderada entre la parte reconocida por formación no formal (5) y la calificación obtenida en el resto del módulo cursado.
+• En los casos de reconocimiento total, la calificación numérica de 5. • En los casos de reconocimiento parcial, la calificación final del módulo será la media ponderada entre la parte reconocida por formación no formal (5) y la calificación obtenida en el resto del módulo cursado.
 
 5. El reconocimiento tendrá validez exclusivamente para la superación total o parcial del módulo optativo del ciclo formativo concreto para el que se solicite y solo podrá concederse una vez.
 

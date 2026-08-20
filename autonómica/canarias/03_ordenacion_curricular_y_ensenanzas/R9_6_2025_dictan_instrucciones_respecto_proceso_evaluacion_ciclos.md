@@ -1,7 +1,10 @@
 ---
 id: norm-can-res-boc-2025-118-46
 codigo_sintetizado: Resolucion BOC 46
-titulo: Resolución de 9 de junio de 2025, por la que se dictan instrucciones respecto al proceso de evaluación en los Ciclos Formativos (Grados C y D) y Cursos de Especialización (Grado E) del sistema de formación profesional que se imparten en la Comunidad Autónoma de Canarias a partir del curso escolar 2024/2025.
+titulo: Resolución de 9 de junio de 2025, por la que se dictan instrucciones respecto
+  al proceso de evaluación en los Ciclos Formativos (Grados C y D) y Cursos de Especialización
+  (Grado E) del sistema de formación profesional que se imparten en la Comunidad Autónoma
+  de Canarias a partir del curso escolar 2024/2025.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,51 +16,49 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-  - curriculo
-  - cursos-especializacion
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - evaluacion
-  - formacion-profesional
-  - fp-basica
-  - profesorado
+- curriculo
+- cursos-especializacion
+- ensenanzas-deportivas
+- equipos-directivos
+- evaluacion
+- formacion-profesional
+- fp-basica
+- profesorado
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-res-134
-    - norma_id: norm-can-res-boc-2024-226-44
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-l-39-2015
   fundamento_de:
-    - norma_id: norm-can-res-042
+  - norma_id: norm-can-res-042
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-can-res-134
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-res-boc-2024-226-44
+  - '1'
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-134
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-res-boc-2024-226-44
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-118-2219.pdf
 ---
-# Resolución de 9 de junio de 2025, por la que se dictan instrucciones respecto al proceso de evaluación en los Ciclos Formativos (Grados C y D) y Cursos de Especialización (Grado E) del sistema de formación profesional que se imparten en la Comunidad Autónoma de Canarias a partir del curso escolar 2024/2025.
-
-## Preámbulo
+# Resolución de 9 de junio de 2025, por la que se dictan instrucciones respecto al proceso de evaluación en los Ciclos Formativos (Grados C y D) y Cursos de Especialización (Grado E) del sistema de formación profesional que se imparten en la Comunidad Autónoma de Canarias a partir del curso escolar 2024/2025. ## Preámbulo
 
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes Resolución de 9 de junio de 2025, por la que se dictan instrucciones respecto al proceso de evaluación en los Ciclos Formativos (Grados C y D) y Cursos de Especialización (Grado E) del sistema de formación profesional que se imparten en la Comunidad Autónoma de Canarias a partir del curso escolar 2024/2025. La entrada en vigor de la [Ley Orgánica 3/2022](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación Profesional (en adelante LOOIFP), determina una transformación global del Sistema de Formación Profesional, a través de un sistema único en el que toda la formación profesional tendrá carácter dual, en tanto que se realizará entre el centro de formación y la empresa. La oferta de formación profesional de los Grados D incorporará una fase de formación en empresa u organismo equiparado (en adelante FEOE) como parte integrada en el currículo previsto en cada oferta formativa que contribuirá a la adquisición de los resultados de aprendizaje. Los cursos de especialización de los Grados E podrán contemplar este periodo de estancia en la empresa, en función de las características de cada formación. En dicho modelo, la evaluación, como elemento clave del proceso de aprendizaje, debe estar en consonancia con lo previsto en la normativa básica, así como con las precisiones efectuadas por nuestra Comunidad Autónoma en la gestión de cada Grado. Vista la necesidad de establecer instrucciones sobre el procedimiento de evaluación académica del alumnado que cursa enseñanzas de formación profesional de los Grados D y E en centros docentes de la Comunidad Autónoma de Canarias, y de acuerdo con los siguientes ANTECEDENTES DE HECHO
 Primero.- En el curso 2024/2025 se completa la implantación del primer curso de todos los ciclos formativos de las ofertas de Grado D y, con carácter general, de las ofertas de Grado E, de conformidad con lo dispuesto en el artículo 11 l.
@@ -85,17 +86,11 @@ Cuarto.- Ordenar la publicación de la presente Resolución en el Boletín Ofici
 
 ## Anexo I
 
-INSTRUCCIONES PARA LA EV ALUACIÓN DEL ALUMNADO DE LOS CICLOS FORMATIVOS DE GRADO BÁSICO EN LA COMUNIDAD AUTÓNOMA DE CANARIAS A PARTIR DEL CURSO 2024/2025.
+INSTRUCCIONES PARA LA EV ALUACIÓN DEL ALUMNADO DE LOS CICLOS FORMATIVOS DE GRADO BÁSICO EN LA COMUNIDAD AUTÓNOMA DE CANARIAS A PARTIR DEL CURSO 2024/2025. #### Primera. Objeto y ámbito de aplicación.
 
-#### Primera. Objeto y ámbito de aplicación.
+Las presentes instrucciones tienen por objeto establecer la evaluación, promoción y titulación del alumnado que curse enseñanzas de los ciclos formativos de grado básico. Será de aplicación en todos los centros educativos del Sistema de Formación Profesional de la Comunidad Autónoma de Canarias, a partir del curso 2024/2025. #### Segunda. Aspectos generales de la evaluación.
 
-Las presentes instrucciones tienen por objeto establecer la evaluación, promoción y titulación del alumnado que curse enseñanzas de los ciclos formativos de grado básico. Será de aplicación en todos los centros educativos del Sistema de Formación Profesional de la Comunidad Autónoma de Canarias, a partir del curso 2024/2025.
-
-#### Segunda. Aspectos generales de la evaluación.
-
-1. La evaluación del alumnado de ciclos formativos de grado básico responderá, con carácter general, a lo establecido en los artículo 18 y 93.
-
-del [Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y en el artículo 12 del Decreto 9/2023, de 26 de enero, por el que se regula y establece el currículo de veintitrés Ciclos Formativos de Grado Básico en el ámbito de la Comunidad Autónoma de Canarias.
+1. La evaluación del alumnado de ciclos formativos de grado básico responderá, con carácter general, a lo establecido en los artículo 18 y 93. del [Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y en el artículo 12 del Decreto 9/2023, de 26 de enero, por el que se regula y establece el currículo de veintitrés Ciclos Formativos de Grado Básico en el ámbito de la Comunidad Autónoma de Canarias.
 
 2. La evaluación del proceso de aprendizaje del alumnado de ciclos formativos de grado básico será continua, formativa e integradora y se realizará por ámbitos, teniendo en cuenta la globalidad del ciclo desde la perspectiva de las nuevas metodologías del aprendizaje.
 
@@ -253,9 +248,7 @@ c) Si no supera en ningún caso la formación en materia de prevención de riesg
 
 2. Los resultados de la evaluación de los ámbitos de Comunicación y Ciencias Sociales y Ciencias aplicadas se expresarán en los términos "Insuficiente (IN)", para las calificaciones negativas; "Suficiente (SU)", "Bien (BI)", "Notable (NT)", o "Sobresaliente (SB)" para las calificaciones positivas.
 
-3. En aquellos casos en los que sea necesario trasladar la calificación de un valor cualitativo a cuantitativo, se seguirá el siguiente criterio: "Insuficiente (IN)", 3; "Suficiente (SU)" 5; "Bien (BI)", 6; "Notable (NT)",7,5; y "Sobresaliente (SB)", 9.
-
-4. La nota final de los ámbitos de Comunicación y Ciencias Sociales y de Ciencias aplicadas, con materias diferenciadas, será la media ponderada de las materias que lo conforman. Esta media ponderada se obtiene considerando la proporción de la carga horaria de cada materia respecto a la carga horaria total del ámbito, de acuerdo con lo dispuesto en el artículo 6 l.
+3. En aquellos casos en los que sea necesario trasladar la calificación de un valor cualitativo a cuantitativo, se seguirá el siguiente criterio: "Insuficiente (IN)", 3; "Suficiente (SU)" 5; "Bien (BI)", 6; "Notable (NT)",7,5; y "Sobresaliente (SB)", 9. 4. La nota final de los ámbitos de Comunicación y Ciencias Sociales y de Ciencias aplicadas, con materias diferenciadas, será la media ponderada de las materias que lo conforman. Esta media ponderada se obtiene considerando la proporción de la carga horaria de cada materia respecto a la carga horaria total del ámbito, de acuerdo con lo dispuesto en el artículo 6 l.
 
 Decreto 9/2023, de 26 de enero, por el que se regula y establece el currículo de veintitrés Ciclos Formativos de Grado Básico en el ámbito de la Comunidad Autónoma de Canarias.
 
@@ -315,9 +308,7 @@ segundo curso sin haber superado los ámbitos comunes (Comunicación y ciencias 
 
 ## Anexo II
 
-INSTRUCCIONES PARA LA EV ALUACIÓN DEL ALUMNADO DE LOS GRADOS D, NIVEL 2 (GRADO MEDIO) Y NIVEL 3 (GRADO SUPERIOR), EN LA COMUNIDAD AUTÓNOMA DE CANARIAS, EN LA MODALIDAD PRESENCIAL, A PARTIR DEL CURSO 2024/2025.
-
-#### Primera. Objeto y ámbito de aplicación.
+INSTRUCCIONES PARA LA EV ALUACIÓN DEL ALUMNADO DE LOS GRADOS D, NIVEL 2 (GRADO MEDIO) Y NIVEL 3 (GRADO SUPERIOR), EN LA COMUNIDAD AUTÓNOMA DE CANARIAS, EN LA MODALIDAD PRESENCIAL, A PARTIR DEL CURSO 2024/2025. #### Primera. Objeto y ámbito de aplicación.
 
 Las presentes instrucciones tienen por objeto establecer la evaluación, promoción y titulación del alumnado que curse Grados D, niveles 2 y 3 (ciclos formativos de grado medio y superior), en régimen presencial, a partir del curso 2024/2025. Serán de aplicación en todos los centros educativos del Sistema de Formación Profesional de la Comunidad Autónoma de Canarias.
 
@@ -538,9 +529,7 @@ Real Decreto 278/2023, de 11 de abril, por el que se establece el calendario de 
 
 5. A partir del 1 de septiembre de 2026, el alumnado deberá cursar la totalidad de los módulos profesionales y proyecto intermodular establecido en la nueva ordenación académica, aplicando, en sentido inverso, la misma tabla de convalidaciones incluida en la tabla del apartado 4 de la instrucción tercera.
 
-6. Las administraciones competentes deberán garantizar la oferta del módulo de FCT durante el curso académico 2025-2026 para el alumnado al que se refiere el anterior apartado 4.
-
-7. Aquellos ciclos formativos en modalidad LOGSE, aún en vigor, quedan con la ordenación del Sistema de Formación Profesional, sin alteración alguna, manteniendo el módulo de FCT y su distribución modular y horaria de acuerdo con la normativa básica y autonómica que le sea de aplicación. Mantendrán, en consecuencia, las sesiones de evaluación de acceso a la FCT y evaluación final ordinaria de la FCT correspondientes.
+6. Las administraciones competentes deberán garantizar la oferta del módulo de FCT durante el curso académico 2025-2026 para el alumnado al que se refiere el anterior apartado 4. 7. Aquellos ciclos formativos en modalidad LOGSE, aún en vigor, quedan con la ordenación del Sistema de Formación Profesional, sin alteración alguna, manteniendo el módulo de FCT y su distribución modular y horaria de acuerdo con la normativa básica y autonómica que le sea de aplicación. Mantendrán, en consecuencia, las sesiones de evaluación de acceso a la FCT y evaluación final ordinaria de la FCT correspondientes.
 
 #### Decimotercera. Certificación de la formación de nivel básico en prevención de riesgos laborales.
 
@@ -554,9 +543,7 @@ centros de titularidad privada, este será visado por la persona titular de la d
 
 ## Anexo III
 
-INSTRUCCIONES PARA LA EV ALUACIÓN DEL ALUMNADO DE LOS GRADOS E, CURSOS DE ESPECIALIZACIÓN DE GRADO MEDIO (NIVEL 2) Y GRADO SUPERIOR (NIVEL 3), EN LA COMUNIDAD AUTÓNOMA DE CANARIAS A PARTIR DEL CURSO 2024/2025.
-
-#### Primera. Objeto y ámbito de aplicación.
+INSTRUCCIONES PARA LA EV ALUACIÓN DEL ALUMNADO DE LOS GRADOS E, CURSOS DE ESPECIALIZACIÓN DE GRADO MEDIO (NIVEL 2) Y GRADO SUPERIOR (NIVEL 3), EN LA COMUNIDAD AUTÓNOMA DE CANARIAS A PARTIR DEL CURSO 2024/2025. #### Primera. Objeto y ámbito de aplicación.
 
 Las presentes instrucciones tienen por objeto establecer la evaluación y titulación del alumnado que realice Grados E, cursos de especialización de grado medio (nivel 2 - Título de Especialista) y de grado superior (nivel 3 - Título de Máster), a partir del curso escolar 2024/2025. Será de aplicación en todos los centros educativos del Sistema de Formación Profesional de la Comunidad Autónoma de Canarias.
 
@@ -654,9 +641,7 @@ INSTRUCCIONES PARA LA EV ALUACIÓN DEL ALUMNADO DE LOS GRADOS D (GRADO MEDIO Y S
 
 #### Primera. Objeto y ámbito de aplicación.
 
-Las presentes instrucciones tienen por objeto establecer el procedimiento de evaluación del alumnado que curse enseñanzas de Grado D y E en las modalidades semipresencial y virtual. Será de aplicación en todos los centros educativos del Sistema de Formación Profesional de la Comunidad Autónoma de Canarias a partir del curso 2024/2025.
-
-#### Segunda. Aspectos generales de la evaluación.
+Las presentes instrucciones tienen por objeto establecer el procedimiento de evaluación del alumnado que curse enseñanzas de Grado D y E en las modalidades semipresencial y virtual. Será de aplicación en todos los centros educativos del Sistema de Formación Profesional de la Comunidad Autónoma de Canarias a partir del curso 2024/2025. #### Segunda. Aspectos generales de la evaluación.
 
 1. La evaluación del aprendizaje del alumnado que curse formación en estas modalidades se ajustará a lo dispuesto en la normativa vigente, adaptando las características, procedimientos y documentos de evaluación a las peculiaridades organizativas y curriculares de estas enseñanzas, debiendo responder en todo caso a lo establecido en los artículos 18, 27, 107 y 123 del [Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, así como a la Resolución de 10 de diciembre de 2024, de la DGFPERE, por la que se dictan instrucciones y orientaciones para la implantación y desarrollo de la oferta en las modalidades semipresencial y virtual de certificados profesionales de Grado C, ciclos formativos de Grado D y cursos de especialización de Grado E a partir del curso escolar 2024/2025 en el ámbito de la Comunidad Autónoma de Canarias.
 
@@ -688,21 +673,15 @@ Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual
 a) Una sesión de evaluación inicial.
 b) Dos sesiones de evaluación parciales.
 c) **Una sesión de evaluación final.** En el segundo curso y tercer curso (Plan de estudios a extinguir Real Decreto 1147/2011, de 29 de julio):
-Se llevarán a cabo las sesiones de evaluación previstas en la Resolución de 23 de septiembre de 2020, por la que se dictan instrucciones para la organización y funcionamiento de la oferta de Formación Profesional Semipresencial en la Comunidad Autónoma de Canarias, a partir del curso 2020-2021.
-
-**1.2.** Año académico 2025/2026. En el primer curso ( LOOIFP):
+Se llevarán a cabo las sesiones de evaluación previstas en la Resolución de 23 de septiembre de 2020, por la que se dictan instrucciones para la organización y funcionamiento de la oferta de Formación Profesional Semipresencial en la Comunidad Autónoma de Canarias, a partir del curso 2020-2021. **1.2.** Año académico 2025/2026. En el primer curso ( LOOIFP):
 a) Una sesión de evaluación inicial.
 b) Dos sesiones de evaluación parciales.
 c) **Una sesión de evaluación final.** En el segundo curso (LOOIFP):
 a) Una sesión de evaluación inicial.
 b) Dos sesiones de evaluación parciales.
-c) **Una sesión de evaluación final de ciclo.** Para el alumnado que cursa una formación del plan de estudios a extinguir y que ha promocionado al tercer curso, en el caso de ciclos estructurados en tres años académicos, y alumnado con módulos pendientes en el caso de los ciclos formativos estructurados en dos años académicos, se mantendrán las sesiones de evaluación previstas en la Resolución de 23 de septiembre de 2020, por la que se dictan instrucciones para la organización y funcionamiento de la oferta de Formación Profesional Semipresencial en la Comunidad Autónoma de Canarias, a partir del curso 2020-2021.
+c) **Una sesión de evaluación final de ciclo.** Para el alumnado que cursa una formación del plan de estudios a extinguir y que ha promocionado al tercer curso, en el caso de ciclos estructurados en tres años académicos, y alumnado con módulos pendientes en el caso de los ciclos formativos estructurados en dos años académicos, se mantendrán las sesiones de evaluación previstas en la Resolución de 23 de septiembre de 2020, por la que se dictan instrucciones para la organización y funcionamiento de la oferta de Formación Profesional Semipresencial en la Comunidad Autónoma de Canarias, a partir del curso 2020-2021. **1.3.** Año académico 2026/2027. A partir del 1 de septiembre de 2026, aquel alumnado que solo tenga pendiente de superar la FEOE podrá realizarla al comienzo del curso escolar. La evaluación se llevará a cabo en una sesión de evaluación final de ciclo extraordinaria, una vez finalizada la FEOE.
 
-**1.3.** Año académico 2026/2027. A partir del 1 de septiembre de 2026, aquel alumnado que solo tenga pendiente de superar la FEOE podrá realizarla al comienzo del curso escolar. La evaluación se llevará a cabo en una sesión de evaluación final de ciclo extraordinaria, una vez finalizada la FEOE.
-
-Para alumnado que durante el año académico 2026/2027 se encuentre repitiendo con módulos profesionales del sistema que se extingue, deberá superarlos conforme al currículo del plan de estudios a extinguir. Para este alumnado se mantendrán las sesiones de evaluación previstas en la Resolución de 23 de septiembre de 2020, por la que se dictan instrucciones para la organización y funcionamiento de la oferta de Formación Profesional Semipresencial en la Comunidad Autónoma de Canarias, a partir del curso 2020-2021.
-
-**1.4.** A partir de 1 de septiembre de 2027. El alumnado con módulos pendientes del sistema que se extingue será adaptado a la nueva ordenación académica. A estos efectos, se trasladarán las calificaciones obtenidas a los nuevos módulos.
+Para alumnado que durante el año académico 2026/2027 se encuentre repitiendo con módulos profesionales del sistema que se extingue, deberá superarlos conforme al currículo del plan de estudios a extinguir. Para este alumnado se mantendrán las sesiones de evaluación previstas en la Resolución de 23 de septiembre de 2020, por la que se dictan instrucciones para la organización y funcionamiento de la oferta de Formación Profesional Semipresencial en la Comunidad Autónoma de Canarias, a partir del curso 2020-2021. **1.4.** A partir de 1 de septiembre de 2027. El alumnado con módulos pendientes del sistema que se extingue será adaptado a la nueva ordenación académica. A estos efectos, se trasladarán las calificaciones obtenidas a los nuevos módulos.
 
 2. Sesiones de Evaluación ( LOOIFP). Las sesiones de evaluación de los Grados D, en las modalidades semipresencial y virtual se llevarán a cabo en los mismos términos indicados para la modalidad presencial (Anexo II, instrucción Tercera de la presente Resolución) con las siguientes peculiaridades:
 • En las sesiones de evaluación parciales se evaluarán y calificarán los módulos que en dicho momento se estén impartiendo, los no impartidos se consignarán como "No evaluado" (N.E.).
@@ -783,9 +762,7 @@ Real Decreto que establece el título correspondiente y se fijan los aspectos b�
 b) **Curso 2025-2026.** Se implementa la nueva distribución horaria del segundo curso de los Grados D establecida por la nueva ordenación académica LOOIFP, completando su implantación. En este curso escolar se mantiene la distribución horaria y las instrucciones que para la oferta de Formación Profesional semipresencial estableció la Resolución de 23 de septiembre de 2020 para el tercer curso, dejando de impartirse los segundos cursos, tanto en los ciclos formativos estructurados en dos cursos como en tres, salvo aquellos módulos que el alumnado que ha promocionado al tercer curso tiene que recuperar, o en el caso de los ciclos formativos estructurados en dos cursos, los módulos que tenga pendientes y/o la Formación en Centros de Trabajo para poder acceder a la titulación.
 c) **Curso 2026-2027.** En este curso escolar se deja de impartir la organización del sistema anterior, quedando sin efecto la Resolución de 23 de septiembre de 2020, por la que se dictan instrucciones para la organización y funcionamiento de la oferta de Formación Profesional semipresencial en la Comunidad Autónoma de Canarias, a partir del curso 2020-2021, salvo aquellos módulos que el alumnado tenga pendientes y/o la Formación en Centros de Trabajo para poder titular. A partir del 1 de septiembre de 2027, para el alumnado que no haya superado la oferta de Formación Profesional semipresencial, conforme a la ordenación académica vigente en el curso 2023-2024, se le aplicarán las convalidaciones que para los módulos superados, han sido establecidas en el artículo 15, en su redacción actual, de cada uno de los Reales Decretos que establece el título correspondiente y se fijan los aspectos básicos del currículo y en el [Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
-2. En relación a los ciclos residuales LOGSE, aún en vigor, quedan con la ordenación del Sistema de Formación Profesional anterior, sin alteración alguna, manteniendo el módulo de Formación en Centros de Trabajo y su distribución modular y horaria de acuerdo con la normativa básica y autonómica que le sea de aplicación. En aquellos ciclos LOGSE impartidos en la modalidad semipresencial, seguirá siendo de aplicación la Resolución de la Dirección General de Formación Profesional y Educación de Adultos de 23 de septiembre de 2020, por la que se dictan instrucciones para la organización y funcionamiento de la oferta de Formación Profesional Semipresencial en la Comunidad Autónoma de Canarias, a partir del curso 2020-2021.
-
-## Anexo V
+2. En relación a los ciclos residuales LOGSE, aún en vigor, quedan con la ordenación del Sistema de Formación Profesional anterior, sin alteración alguna, manteniendo el módulo de Formación en Centros de Trabajo y su distribución modular y horaria de acuerdo con la normativa básica y autonómica que le sea de aplicación. En aquellos ciclos LOGSE impartidos en la modalidad semipresencial, seguirá siendo de aplicación la Resolución de la Dirección General de Formación Profesional y Educación de Adultos de 23 de septiembre de 2020, por la que se dictan instrucciones para la organización y funcionamiento de la oferta de Formación Profesional Semipresencial en la Comunidad Autónoma de Canarias, a partir del curso 2020-2021. ## Anexo V
 
 V ALORACIÓN CONJUNTA DE LA ADQUISICIÓN DE COMPETENCIAS RELATIV AS A LA PREVENCIÓN DE RIESGOS LABORALES (PARA EL ACCESO A LA FORMACIÓN EN EMPRESA U ORGANISMO EQUIPARADO)
 

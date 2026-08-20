@@ -1,10 +1,12 @@
 ---
 id: norm-and-o-12-7-2011
 codigo_sintetizado: O12_7_2011 Evaluacion Artes Plasticas y Diseño Andalucía
-titulo: Orden de 12 de julio de 2011, sobre ordenación de la evaluación en los ciclos formativos de Artes Plásticas y Diseño.
+titulo: Orden de 12 de julio de 2011, sobre ordenación de la evaluación en los ciclos
+  formativos de Artes Plásticas y Diseño.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 12/07/2011
 fecha_disposicion: '2011-07-12'
@@ -18,17 +20,17 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Artísticas
 tags:
-  - artes_plasticas
-  - diseño
-  - evaluacion
-  - andalucia
+- artes_plasticas
+- diseño
+- evaluacion
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Orden de 12 de julio de 2011, sobre ordenación de la evaluación en los ciclos formativos de Artes Plásticas y Diseño.
 

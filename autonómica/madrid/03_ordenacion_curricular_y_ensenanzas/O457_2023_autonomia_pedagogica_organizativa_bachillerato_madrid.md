@@ -1,9 +1,11 @@
 ---
 id: norm-mad-o457-2023
-titulo: Orden 457/2023, de 16 de febrero, sobre autonomía pedagógica y de organización en el Bachillerato
+titulo: Orden 457/2023, de 16 de febrero, sobre autonomía pedagógica y de organización
+  en el Bachillerato
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
 numero_disposicion: 457/2023
 fecha_disposicion: '2023-02-16'
@@ -18,20 +20,20 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Bachillerato
 tags:
-  - bachillerato
-  - autonomia_pedagogica
-  - organizacion_escolar
-  - comunidad_de_madrid
+- bachillerato
+- autonomia_pedagogica
+- organizacion_escolar
+- comunidad_de_madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
 ---
 # Orden 457/2023, de 16 de febrero, sobre autonomía pedagógica y de organización en el Bachillerato
 
@@ -66,9 +68,7 @@ a) Los movimientos de tierra, excavaciones, explanaciones y terraplenado en cual
 b) Los actos de edificación y uso del suelo, subsuelo y vuelo que, con arreglo a la normativa general de ordenación de la edificación, precisen de proyecto, salvo los recogidos en el artículo 155.e) de esta Ley. b) Cualquier actuación que tenga el carácter de intervención total en edificaciones catalogadas o que dispongan de algún tipo de protección de carácter ambiental o histórico-artístico, regulada a través de norma legal o documento urbanístico y aquellas otras de carácter parcial que afecten a los elementos o partes objeto de protección. c) Los actos de parcelación, segregación y división de terrenos, en cualquier clase de suelo, salvo cuando formen parte de un proyecto de reparcelación debidamente aprobado. d) Las talas y el trasplante de árboles, de masas arbóreas o de vegetación arbustiva. e) La ubicación de casas prefabricadas e instalaciones similares, ya sean provisionales o permanentes, en cualquier clase de suelo. f) Las obras y los usos provisionales que se regulan en esta Ley. […]». Debe decir:
 «Capítulo III. Intervención municipal en actos de uso del suelo y edificación. […]
 
-#### Artículo 152.
-
-Actos sometidos a licencia urbanística. Únicamente estarán sujetos a licencia urbanística municipal los siguientes actos de uso del suelo, construcción y edificación:
+#### Artículo 152. Actos sometidos a licencia urbanística. Únicamente estarán sujetos a licencia urbanística municipal los siguientes actos de uso del suelo, construcción y edificación:
 a) Los movimientos de tierra, excavaciones, explanaciones y terraplenado en cualquier clase de suelo cuando no formen parte de un proyecto de urbanización, edificación o construcción autorizado. b) Los actos de edificación y uso del suelo, subsuelo y vuelo que, con arreglo a la normativa general de ordenación de la edificación, precisen de proyecto, salvo los recogidos en el artículo 155.e) de esta Ley. c) Cualquier actuación que tenga el carácter de intervención total en edificaciones catalogadas o que dispongan de algún tipo de protección de carácter ambiental o histórico-artístico, regulada a través de norma legal o documento urbanístico y aquellas otras de carácter parcial que afecten a los elementos o partes objeto de protección. d) Los actos de parcelación, segregación y división de terrenos, en cualquier clase de suelo, salvo cuando formen parte de un proyecto de reparcelación debidamente aprobado. e) Las talas y el trasplante de árboles, de masas arbóreas o de vegetación arbustiva. f) La ubicación de casas prefabricadas e instalaciones similares, ya sean provisionales o permanentes, en cualquier clase de suelo. g) Las obras y los usos provisionales que se regulan en esta Ley. […]». 5. En el artículo cinco, apartado veinticinco:
 Donde dice:
 «Artículo 167 ter. Requisitos de acreditación de las entidades privadas colaboradoras urbanísticas. […] 2. Dicha acreditación deberá estar concedida en cumplimiento de la UNE-EN ISO/IEC 17020 (entidades de tipo A), siendo necesario cumplir los siguientes requisitos:

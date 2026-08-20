@@ -1,10 +1,12 @@
 ---
 id: norm-and-o-14-3-1995
 codigo_sintetizado: O14_3_1995 Evaluacion Educación Secundaria Obligatoria Andalucía
-titulo: Orden de 14 de marzo de 1995, por la que se regula la evaluación en la Educación Secundaria Obligatoria.
+titulo: Orden de 14 de marzo de 1995, por la que se regula la evaluación en la Educación
+  Secundaria Obligatoria.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 14/03/1995
 fecha_disposicion: '1995-03-14'
@@ -18,17 +20,17 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Secundaria Obligatoria
 tags:
-  - eso
-  - evaluacion
-  - promocion
-  - andalucia
+- eso
+- evaluacion
+- promocion
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Orden de 14 de marzo de 1995, por la que se regula la evaluación en la Educación Secundaria Obligatoria.
 
@@ -45,8 +47,7 @@ Segundo. Para la adquisición de la condición de funcionarios de carrera, los i
 Tercero. La toma de posesión deberán efectuarla, ante el Rector/Gerente de la Universidad, en el plazo de un mes, contado a partir del siguiente al de la publicación de la presente Resolución en el Boletín Oficial del Estado.
 Cuarto. De conformidad con lo dispuesto en el artículo 13 l.
 
-Real Decreto 598/1985, de 30 de abril, y en el artículo 10 de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, el personal objeto del presente nombramiento, para tomar posesión, deberá realizar la declaración a que se refiere el primero de los preceptos citados, o la opción o solicitud de compatibilidad contemplados en el artículo 10 de la Ley 53/1984.
-Quinto. La diligencia de toma de posesión deberá formalizarse de acuerdo con lo dispuesto en la Resolución de la Secretaría de Estado para la Administración Pública, Real Decreto 1405/1986 de 6 de junio, por la que se establece el modelo «F.2.R« del Anexo I de dicha Resolución, se enviará copia a la Oficina Delegada del Registro Central de Personal en la Secretaría de Estado de Universidades e Investigación, para la correspondiente inscripción de la toma de posesión.
+Real Decreto 598/1985, de 30 de abril, y en el artículo 10 de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, el personal objeto del presente nombramiento, para tomar posesión, deberá realizar la declaración a que se refiere el primero de los preceptos citados, o la opción o solicitud de compatibilidad contemplados en el artículo 10 de la Ley 53/1984. Quinto. La diligencia de toma de posesión deberá formalizarse de acuerdo con lo dispuesto en la Resolución de la Secretaría de Estado para la Administración Pública, Real Decreto 1405/1986 de 6 de junio, por la que se establece el modelo «F.2.R« del Anexo I de dicha Resolución, se enviará copia a la Oficina Delegada del Registro Central de Personal en la Secretaría de Estado de Universidades e Investigación, para la correspondiente inscripción de la toma de posesión.
 Sexto. Contra la presente Resolución podrán los interesados interponer recurso contencioso-administrativo en el plazo de dos meses contado a partir del siguiente a su publicación en el Boletín Oficial del Estado ante el Tribunal Superior de Justicia de Andalucía, previa comunicación a esta Universidad, de acuerdo con lo establecido en el art. 110.3 de la Nueva Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. Córdoba, 10 de enero de 1995.- El Rector, Amador Jover Moyano. A N E X O I F. Nacimiento:
 
 **6.12.1968.** Apellidos y nombre: Guzmán Pérez, Catalina. DNI:
@@ -63,8 +64,6 @@ Sexto. Contra la presente Resolución podrán los interesados interponer recurso
 
 **5.11.1959.** Apellidos y nombre: Sánchez Polaina, Pilar. DNI:
 
-**30.462.569.** N.R.P.: 3046256946.
-
-Descargar PDF
+**30.462.569.** N.R.P.: 3046256946. Descargar PDF
 
 Disposición siguiente

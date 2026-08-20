@@ -1,7 +1,10 @@
 ---
 id: norm-can-res-boc-2021-038-3
 codigo_sintetizado: Resolucion BOC 3
-titulo: Resolución de 12 de febrero de 2021, por la que se delega en las Direcciones Territoriales de Educación determinada competencia relativa a cargos directivos de los centros públicos docentes del ámbito de gestión de este Departamento (BOC n.º 38, de 24 de febrero).
+titulo: Resolución de 12 de febrero de 2021, por la que se delega en las Direcciones
+  Territoriales de Educación determinada competencia relativa a cargos directivos
+  de los centros públicos docentes del ámbito de gestión de este Departamento (BOC
+  n.º 38, de 24 de febrero).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Personal y Formación del Profesorado
@@ -13,29 +16,29 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Estructura de la Consejería
 tags:
-  - concurso-traslados
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - estructura-de-la-consejer-a
-  - profesorado
-  - roc
+- concurso-traslados
+- ensenanzas-deportivas
+- equipos-directivos
+- estructura-de-la-consejer-a
+- profesorado
+- roc
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-135-2016
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-can-d-135-2016
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2021-038-932.pdf
 anexos_extraidos_pdf: true
 ocr_procesado: true

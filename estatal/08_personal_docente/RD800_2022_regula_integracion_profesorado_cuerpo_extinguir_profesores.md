@@ -1,10 +1,14 @@
 ---
 id: norm-es-2022-16194
 codigo_sintetizado: BOE-A-2022-16194
-titulo: Real Decreto 800/2022, de 4 de octubre, por el que se regula la integración del profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional en el Cuerpo de Profesores de Enseñanza Secundaria, y se modifican diversos reales decretos relativos al profesorado de enseñanzas no universitarias.
+titulo: Real Decreto 800/2022, de 4 de octubre, por el que se regula la integración
+  del profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional
+  en el Cuerpo de Profesores de Enseñanza Secundaria, y se modifican diversos reales
+  decretos relativos al profesorado de enseñanzas no universitarias.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2022-10-05'
 boletin: BOE
@@ -15,47 +19,47 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Especialidades y habilitaciones
 tags:
-  - ebep
-  - ensenanzas-universitarias
-  - eso
-  - especialidades-y-habilitaciones
-  - evaluacion
-  - formacion-profesional
-  - oposiciones
-  - profesorado
+- ebep
+- ensenanzas-universitarias
+- eso
+- especialidades-y-habilitaciones
+- evaluacion
+- formacion-profesional
+- oposiciones
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2007-5478
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-1364-2010
-    - norma_id: norm-es-rd-1834-2008
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2007-5478
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-1364-2010
+  - norma_id: norm-es-rd-1834-2008
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
   fundamento_de:
-    - norma_id: norm-es-2023-9553
-    - norma_id: norm-es-2024-10683
-    - norma_id: norm-es-2024-10684
-    - norma_id: norm-es-2024-10685
+  - norma_id: norm-es-2023-9553
+  - norma_id: norm-es-2024-10683
+  - norma_id: norm-es-2024-10684
+  - norma_id: norm-es-2024-10685
   fundamentos_derecho:
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-39-2015
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-can-res-134
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-rd-1834-2008
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2007-5478
-    - norma_id: norm-es-rd-1364-2010
-    - norma_id: norm-es-rd-276-2007
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-res-134
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-rd-1834-2008
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2007-5478
+  - norma_id: norm-es-rd-1364-2010
+  - norma_id: norm-es-rd-276-2007
 ---
 # Real Decreto 800/2022, de 4 de octubre, por el que se regula la integración del profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional en el Cuerpo de Profesores de Enseñanza Secundaria, y se modifican diversos reales decretos relativos al profesorado de enseñanzas no universitarias.
 
@@ -101,9 +105,9 @@ En su virtud, a propuesta de la Ministra de Educación y Formación Profesional,
 
 #### Artículo 1. Objeto.
 
-1. El presente real decreto tiene por objeto regular la normativa básica del procedimiento de integración del profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional en el Cuerpo de Profesores de Enseñanza Secundaria, de conformidad con lo previsto en la disposición adicional undécima de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+1. El presente real decreto tiene por objeto regular la normativa básica del procedimiento de integración del profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional en el Cuerpo de Profesores de Enseñanza Secundaria, de conformidad con lo previsto en la disposición adicional undécima de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
-2. Igualmente tiene por objeto el desarrollo de diferentes medidas sobre el profesorado funcionario que imparte docencia en las enseñanzas de formación profesional, constituido por Catedráticos y Profesores de Enseñanza Secundaria, Profesores Técnicos de Formación Profesional, a extinguir, y Profesores Especialistas en Sectores Singulares de la Formación Profesional, al objeto de ordenar su regulación reglamentaria, así como hacer posible el correcto funcionamiento de los diferentes cuerpos de la función pública docente de las enseñanzas no universitarias.
+2. Igualmente tiene por objeto el desarrollo de diferentes medidas sobre el profesorado funcionario que imparte docencia en las enseñanzas de formación profesional, constituido por Catedráticos y Profesores de Enseñanza Secundaria, Profesores Técnicos de Formación Profesional, a extinguir, y Profesores Especialistas en Sectores Singulares de la Formación Profesional, al objeto de ordenar su regulación reglamentaria, así como hacer posible el correcto funcionamiento de los diferentes cuerpos de la función pública docente de las enseñanzas no universitarias.
 
 #### Artículo 2. Ámbito de aplicación.
 
@@ -111,17 +115,15 @@ La normativa básica que dispone el presente real decreto será de aplicación e
 
 #### Artículo 3. Requisitos y condiciones.
 
-1. El profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional deberá poder acreditar estar en posesión de la titulación de Grado universitario, Licenciado o Licenciada, Ingeniero o Ingeniera y Arquitecto o Arquitecta, o equivalente a efectos de acceso a la función pública docente, u otra equivalente a efectos de docencia de las especialidades del Cuerpo de Profesores de Enseñanza Secundaria, de acuerdo con lo dispuesto en la disposición adicional undécima de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+1. El profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional deberá poder acreditar estar en posesión de la titulación de Grado universitario, Licenciado o Licenciada, Ingeniero o Ingeniera y Arquitecto o Arquitecta, o equivalente a efectos de acceso a la función pública docente, u otra equivalente a efectos de docencia de las especialidades del Cuerpo de Profesores de Enseñanza Secundaria, de acuerdo con lo dispuesto en la disposición adicional undécima de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
-2. El profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional solo podrá participar en la convocatoria que se efectúe por la administración educativa donde tenga su destino definitivo o se encuentre en expectativa de destino.
+2. El profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional solo podrá participar en la convocatoria que se efectúe por la administración educativa donde tenga su destino definitivo o se encuentre en expectativa de destino.
 
-3. El Profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional podrá solicitar la integración en el Cuerpo de Profesores de Enseñanza Secundaria, siempre que se encuentre en la situación de servicio activo o en algunas de las situaciones administrativas a que se refiere el apartado 1 del artículo 12.
+3. El Profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional podrá solicitar la integración en el Cuerpo de Profesores de Enseñanza Secundaria, siempre que se encuentre en la situación de servicio activo o en algunas de las situaciones administrativas a que se refiere el apartado 1 del artículo 12. #### Artículo 4. Convocatoria.
 
-#### Artículo 4. Convocatoria.
+1. Las administraciones educativas deberán efectuar una convocatoria pública para que el profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional que reúna los requisitos y cumpla las condiciones establecidas, pueda integrarse en el Cuerpo de Profesores de Enseñanza Secundaria.
 
-1. Las administraciones educativas deberán efectuar una convocatoria pública para que el profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional que reúna los requisitos y cumpla las condiciones establecidas, pueda integrarse en el Cuerpo de Profesores de Enseñanza Secundaria.
-
-2. La convocatoria contendrá, al menos, lo siguiente:
+2. La convocatoria contendrá, al menos, lo siguiente:
 
 a) Órgano de instrucción.
 
@@ -141,17 +143,17 @@ h) Recursos que proceden contra la resolución.
 
 #### Artículo 5. Acreditación de los requisitos y condiciones.
 
-1. El profesorado que reúna los requisitos y cumpla las condiciones establecidas en el artículo 3, deberá solicitarlo expresamente en el plazo que se determine en la convocatoria a que se refiere el artículo 4 anterior.
+1. El profesorado que reúna los requisitos y cumpla las condiciones establecidas en el artículo 3, deberá solicitarlo expresamente en el plazo que se determine en la convocatoria a que se refiere el artículo 4 anterior.
 
 que efectúe la administración educativa en la que le corresponda, y estar en posesión o en condiciones de obtener la titulación académica exigida antes de la finalización del plazo de solicitud en la forma que la convocatoria disponga.
 
-2. Las solicitudes de integración se presentarán de forma electrónica de acuerdo con lo previsto en el artículo 14.2.e) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y deberán ir acompañadas de la documentación acreditativa de estar en posesión de la titulación académica exigida. La acreditación de este requisito requerirá la aportación de alguno de los siguientes documentos:
+2. Las solicitudes de integración se presentarán de forma electrónica de acuerdo con lo previsto en el artículo 14.2.e) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y deberán ir acompañadas de la documentación acreditativa de estar en posesión de la titulación académica exigida. La acreditación de este requisito requerirá la aportación de alguno de los siguientes documentos:
 
 a) Copia del título académico o, en su caso, autorización expresa a la administración convocante para la consulta del Registro Nacional de Títulos Universitarios Oficiales. En caso de titulaciones expedidas en el extranjero deberá aportarse la credencial que acredite su homologación o la declaración de equivalencia a nivel académico de grado.
 
 b) Certificación académica que acredite haber realizado todos los estudios necesarios para la obtención del título, acompañada del resguardo de pago de las tasas de expedición del mismo.
 
-3. En aquellos casos en que la documentación referida en los apartados anteriores se encuentre en poder de la administración convocante, el solicitante quedará eximido de la presentación de dicha documentación, de acuerdo con lo previsto en el artículo 28 de la Ley 39/2015, de 1 de octubre.
+3. En aquellos casos en que la documentación referida en los apartados anteriores se encuentre en poder de la administración convocante, el solicitante quedará eximido de la presentación de dicha documentación, de acuerdo con lo previsto en el artículo 28 de la Ley 39/2015, de 1 de octubre.
 
 #### Artículo 6. Instrucción.
 
@@ -159,25 +161,17 @@ Las administraciones educativas, de acuerdo con la normativa básica recogida en
 
 #### Artículo 7. Efectos de la resolución de integración.
 
-1. Las resoluciones estimatorias de las solicitudes de integración que hayan sido presentadas en el plazo establecido en la convocatoria de la correspondiente administración educativa a que se refiere el artículo 4, producirán efectos desde el 19 de enero de 2021 para el personal funcionario que a dicha fecha cumpliera las condiciones establecidas en el apartado primero del artículo 3. Para el personal funcionario que solo cumpliera dichas condiciones con posterioridad al 19 de enero de 2021, los efectos de las correspondientes resoluciones estimatorias se retrotraerán exclusivamente al momento en que las mismas se cumplieran. Para estos casos, se entenderá como fecha de cumplimiento de las condiciones relativas a titulación la de solicitud de expedición de los títulos académicos referidos en el citado apartado primero del artículo 3.
-
-2. Para el profesorado que hubiese ingresado en el Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional con posterioridad al 19 de enero de 2021 y se le hubiese estimado su solicitud de integración en el Cuerpo de Profesores de Enseñanza Secundaria, de acuerdo con el procedimiento a que se refiere el artículo 4, la fecha de efectos será la correspondiente a la que figure en su nombramiento en el Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional.
+1. Las resoluciones estimatorias de las solicitudes de integración que hayan sido presentadas en el plazo establecido en la convocatoria de la correspondiente administración educativa a que se refiere el artículo 4, producirán efectos desde el 19 de enero de 2021 para el personal funcionario que a dicha fecha cumpliera las condiciones establecidas en el apartado primero del artículo 3. Para el personal funcionario que solo cumpliera dichas condiciones con posterioridad al 19 de enero de 2021, los efectos de las correspondientes resoluciones estimatorias se retrotraerán exclusivamente al momento en que las mismas se cumplieran. Para estos casos, se entenderá como fecha de cumplimiento de las condiciones relativas a titulación la de solicitud de expedición de los títulos académicos referidos en el citado apartado primero del artículo 3. 2. Para el profesorado que hubiese ingresado en el Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional con posterioridad al 19 de enero de 2021 y se le hubiese estimado su solicitud de integración en el Cuerpo de Profesores de Enseñanza Secundaria, de acuerdo con el procedimiento a que se refiere el artículo 4, la fecha de efectos será la correspondiente a la que figure en su nombramiento en el Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional.
 
 #### Artículo 8. Reconocimiento del derecho una vez concluida la convocatoria de integración.
 
-1. El profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional que reuniese los requisitos establecidos en la disposición adicional undécima de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, con posterioridad a la finalización del plazo establecido en la convocatoria a que hace referencia el artículo 4, o bien no hubiese solicitado la integración dentro dicho plazo, podrá solicitarlo con posterioridad en la administración educativa que le corresponda.
+1. El profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional que reuniese los requisitos establecidos en la disposición adicional undécima de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, con posterioridad a la finalización del plazo establecido en la convocatoria a que hace referencia el artículo 4, o bien no hubiese solicitado la integración dentro dicho plazo, podrá solicitarlo con posterioridad en la administración educativa que le corresponda.
 
-2. El profesorado a que se refiere el apartado anterior deberá reunir al momento de efectuar su solicitud, los requisitos y cumplir las condiciones establecidas en el artículo 3 y en.
+2. El profesorado a que se refiere el apartado anterior deberá reunir al momento de efectuar su solicitud, los requisitos y cumplir las condiciones establecidas en el artículo 3 y en.
 
-el apartado 2 del artículo 5.
+el apartado 2 del artículo 5. 3. La solicitud del reconocimiento de este derecho solo podrá efectuarse, por este personal, hasta el 19 de enero de 2026. 4. Los efectos de las resoluciones estimatorias de integración que se produzcan en los casos previstos en este artículo, se referirán a la fecha de la solicitud que efectúe la persona interesada.
 
-3. La solicitud del reconocimiento de este derecho solo podrá efectuarse, por este personal, hasta el 19 de enero de 2026.
-
-4. Los efectos de las resoluciones estimatorias de integración que se produzcan en los casos previstos en este artículo, se referirán a la fecha de la solicitud que efectúe la persona interesada.
-
-5. Una vez concluida la convocatoria a que se refiere el artículo 4, las administraciones educativas establecerán y desarrollarán las fases de un procedimiento abierto, cuyo plazo de solicitud finalizará el 19 de enero de 2026, y cuyo contenido mínimo será coincidente con el previsto en el artículo 4.2.
-
-#### Artículo 9. Cambio de destino durante la instrucción del procedimiento.
+5. Una vez concluida la convocatoria a que se refiere el artículo 4, las administraciones educativas establecerán y desarrollarán las fases de un procedimiento abierto, cuyo plazo de solicitud finalizará el 19 de enero de 2026, y cuyo contenido mínimo será coincidente con el previsto en el artículo 4.2. #### Artículo 9. Cambio de destino durante la instrucción del procedimiento.
 
 Cuando la persona que solicite la integración, ya sea a través de la convocatoria a que se refiere el artículo 4 o mediante.
 
@@ -189,15 +183,15 @@ El profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Pr
 
 #### Artículo 11. Profesorado destinado en la administración educativa en el exterior.
 
-1. El profesorado que se encuentre destinado en la administración educativa en el exterior durante la convocatoria, si desea participar en la misma deberá hacerlo en su administración educativa de origen.
+1. El profesorado que se encuentre destinado en la administración educativa en el exterior durante la convocatoria, si desea participar en la misma deberá hacerlo en su administración educativa de origen.
 
-2. El Ministerio de Educación y Formación Profesional se responsabilizará de los efectos económicos y administrativos que le pudieran corresponder a este profesorado solo durante el periodo temporal de permanencia en el exterior.
+2. El Ministerio de Educación y Formación Profesional se responsabilizará de los efectos económicos y administrativos que le pudieran corresponder a este profesorado solo durante el periodo temporal de permanencia en el exterior.
 
 #### Artículo 12. Profesorado en otras situaciones administrativas.
 
-1. El profesorado que se encontrase en las situaciones administrativas de servicios especiales, excedencia por cuidado de familiares, excedencia por razón de violencia de género, y excedencia por razón de violencia terrorista, podrá participar en el proceso de integración de conformidad con lo regulado en el presente real decreto, en la convocatoria que se efectúe por la administración educativa donde haya tenido su último destino en servicio activo.
+1. El profesorado que se encontrase en las situaciones administrativas de servicios especiales, excedencia por cuidado de familiares, excedencia por razón de violencia de género, y excedencia por razón de violencia terrorista, podrá participar en el proceso de integración de conformidad con lo regulado en el presente real decreto, en la convocatoria que se efectúe por la administración educativa donde haya tenido su último destino en servicio activo.
 
-2. La fecha de efectos de la integración dependerá del momento en que efectúe su solicitud de acuerdo con lo establecido en los artículos 4 y 8, pero los derechos que le pudieran corresponder estarán sujetos a lo dispuesto en los artículos 87 y 89 de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre.
+2. La fecha de efectos de la integración dependerá del momento en que efectúe su solicitud de acuerdo con lo establecido en los artículos 4 y 8, pero los derechos que le pudieran corresponder estarán sujetos a lo dispuesto en los artículos 87 y 89 de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre.
 
 #### Disposición derogatoria única. Derogación normativa.
 
@@ -211,13 +205,13 @@ Uno. Se modifica el apartado 2 del artículo 2, que queda redactado como sigue
 
 #### Artículo 2. Especialidades docentes.
 
-«2. Las especialidades docentes del Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional son las que se relacionan en el anexo II.»
+«2. Las especialidades docentes del Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional son las que se relacionan en el anexo II.»
 
 Dos. Se modifica el apartado 1 del artículo 4, que queda redactado como sigue:
 
 #### Artículo 4. Asignación de módulos profesionales en formación profesional.
 
-«1. El personal funcionario de los cuerpos de catedráticos de enseñanza secundaria, de profesores de enseñanza secundaria y de profesores especialistas en sectores singulares de formación profesional impartirá enseñanzas en los ciclos formativos de grado básico, de grado medio, de grado superior, y en los cursos de especialización, de acuerdo con la asignación de módulos contenida, para las especialidades docentes respectivas, en los reales decretos reguladores de las diferentes titulaciones de acuerdo con lo dispuesto en la disposición adicional sexta del Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo. Los módulos profesionales asignados a las distintas especialidades de formación profesional contenidas en los reales decretos reguladores de las titulaciones y cursos de especialización de estas enseñanzas, se entenderán referidos a las especialidades correspondientes de los cuerpos de la función pública docente.»
+«1. El personal funcionario de los cuerpos de catedráticos de enseñanza secundaria, de profesores de enseñanza secundaria y de profesores especialistas en sectores singulares de formación profesional impartirá enseñanzas en los ciclos formativos de grado básico, de grado medio, de grado superior, y en los cursos de especialización, de acuerdo con la asignación de módulos contenida, para las especialidades docentes respectivas, en los reales decretos reguladores de las diferentes titulaciones de acuerdo con lo dispuesto en la disposición adicional sexta del Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo. Los módulos profesionales asignados a las distintas especialidades de formación profesional contenidas en los reales decretos reguladores de las titulaciones y cursos de especialización de estas enseñanzas, se entenderán referidos a las especialidades correspondientes de los cuerpos de la función pública docente.»
 
 Tres. Se añade una disposición adicional décima, con la siguiente redacción:
 
@@ -395,7 +389,7 @@ El Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los
 
 Uno. Se modifica el apartado 3 del artículo 13, que queda redactado como sigue:
 
-«3. Para el ingreso en el Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional:
+«3. Para el ingreso en el Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional:
 
 a) Estar en posesión de la titulación de Diplomado, Arquitecto Técnico, Ingeniero Técnico o el título de Grado, Licenciado o Licenciada, Ingeniero o Ingeniera y Arquitecto o Arquitecta, correspondiente u otros títulos de Técnico Superior de Formación Profesional declarados equivalentes, a efectos de docencia.
 
@@ -411,15 +405,15 @@ Tres. Se modifica el apartado 1 del artículo 54, que queda redactado como sig
 
 #### Artículo 54. Adquisición de nuevas especialidades por el personal funcionario de otros cuerpos.
 
-«1. El personal funcionario de los Cuerpos de Catedráticos y Profesores de Enseñanza Secundaria, Profesores Especialistas en Sectores Singulares de Formación Profesional, Catedráticos y Profesores de Escuelas Oficiales de Idiomas, Catedráticos y Profesores de Música y Artes Escénicas, Catedráticos y Profesores de Artes Plásticas y Diseño y Maestros de Taller de Artes Plásticas y Diseño, podrá adquirir nuevas especialidades, dentro del cuerpo al que pertenecen, mediante el procedimiento y con los requisitos que se establecen en este artículo.»
+«1. El personal funcionario de los Cuerpos de Catedráticos y Profesores de Enseñanza Secundaria, Profesores Especialistas en Sectores Singulares de Formación Profesional, Catedráticos y Profesores de Escuelas Oficiales de Idiomas, Catedráticos y Profesores de Música y Artes Escénicas, Catedráticos y Profesores de Artes Plásticas y Diseño y Maestros de Taller de Artes Plásticas y Diseño, podrá adquirir nuevas especialidades, dentro del cuerpo al que pertenecen, mediante el procedimiento y con los requisitos que se establecen en este artículo.»
 
 Cuatro. Se modifican los apartados 1 y 2, de la disposición adicional única, que quedan redactados como sigue:
 
 #### Disposición adicional única. Titulaciones declaradas equivalentes a efectos de docencia para el ingreso en determinados cuerpos.
 
-«1. Para el ingreso en el Cuerpo de Profesores de Enseñanza Secundaria, para las especialidades que se detallan en el anexo V al presente Reglamento, podrán ser admitidos quienes, aun careciendo de la titulación exigida con carácter general, estén en posesión de alguna titulación de diplomatura universitaria, arquitectura técnica o ingeniería técnica.
+«1. Para el ingreso en el Cuerpo de Profesores de Enseñanza Secundaria, para las especialidades que se detallan en el anexo V al presente Reglamento, podrán ser admitidos quienes, aun careciendo de la titulación exigida con carácter general, estén en posesión de alguna titulación de diplomatura universitaria, arquitectura técnica o ingeniería técnica.
 
-2. Para el ingreso en el Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional, para las especialidades que se detallan en el anexo VI al presente Reglamento, podrán ser admitidos quienes, aun careciendo de la titulación exigida con carácter general, estén en posesión de alguna titulación de Técnico Superior de la familia profesional o familias profesionales para cuyas titulaciones tenga atribución docente la especialidad por la que se concursa. Los títulos declarados equivalentes a Técnico Superior a efectos académicos y profesionales, serán también equivalentes a efectos de docencia.»
+2. Para el ingreso en el Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional, para las especialidades que se detallan en el anexo VI al presente Reglamento, podrán ser admitidos quienes, aun careciendo de la titulación exigida con carácter general, estén en posesión de alguna titulación de Técnico Superior de la familia profesional o familias profesionales para cuyas titulaciones tenga atribución docente la especialidad por la que se concursa. Los títulos declarados equivalentes a Técnico Superior a efectos académicos y profesionales, serán también equivalentes a efectos de docencia.»
 
 Cinco. Se añade una disposición transitoria sexta, con la siguiente redacción:
 
@@ -587,9 +581,7 @@ Se autoriza a la persona titular del Ministerio de Educación y Formación Profe
 
 #### Disposición final sexta. Entrada en vigor.
 
-Dado en Madrid, el 4 de octubre de 2022.
-
-FELIPE R.
+Dado en Madrid, el 4 de octubre de 2022. FELIPE R.
 
 La Ministra de Educación y Formación Profesional,
 

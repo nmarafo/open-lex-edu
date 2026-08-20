@@ -1,10 +1,12 @@
 ---
 id: norm-and-d-52-2021
 codigo_sintetizado: D52_2021 Simplificacion Tramites Centros Concertados Andalucía
-titulo: Decreto 52/2021, de 19 de enero, por el que se regulan la simplificación de trámites administrativos en conciertos educativos.
+titulo: Decreto 52/2021, de 19 de enero, por el que se regulan la simplificación de
+  trámites administrativos en conciertos educativos.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 52/2021
 fecha_disposicion: '2021-01-19'
@@ -18,18 +20,18 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Conciertos educativos
 tags:
-  - simplificacion
-  - conciertos
-  - tramites
-  - andalucia
+- simplificacion
+- conciertos
+- tramites
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Decreto 52/2021, de 19 de enero, por el que se regulan la simplificación de trámites administrativos en conciertos educativos.
 
@@ -83,13 +85,9 @@ Histórico del BOJA Boletín número 17 de 27/01/2021
 
 ### Corrección de errores de la Resolución de 19 de enero de 2021, del Instituto Andaluz de la Juventud, por la que se regula la convocatoria para la aprobación de los proyectos correspondientes al Programa de Campos de Voluntariado Juvenil 2021 (BOJA núm. 14, de 22.1.2021).
 
-Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad con CVE 00184951.
+Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad con CVE 00184951. Advertido error en la Resolución de 19 de enero de 2021, del Instituto Andaluz de la Juventud, por la que se regula la convocatoria para la aprobación de los proyectos correspondientes al Programa de Campos de Voluntariado Juvenil 2021 (BOJA núm. 14, de 22 de enero de 2021), procede efectuar la rectificación en los siguientes términos:
 
-Advertido error en la Resolución de 19 de enero de 2021, del Instituto Andaluz de la Juventud, por la que se regula la convocatoria para la aprobación de los proyectos correspondientes al Programa de Campos de Voluntariado Juvenil 2021 (BOJA núm. 14, de 22 de enero de 2021), procede efectuar la rectificación en los siguientes términos:
-
-1. En el apartado «Tercero. Solicitudes, proyectos y plazo de presentación», dentro del subapartado 3.
-
-Donde dice:
+1. En el apartado «Tercero. Solicitudes, proyectos y plazo de presentación», dentro del subapartado 3. Donde dice:
 
 3. Las solicitudes se dirigirán a la persona titular de la Dirección General del Instituto Andaluz de la Juventud y se podrán presentar, al igual que el proyecto, y la documentación exigida, de forma telemática a través de la oficina virtual del Instituto Andaluz de la Juventud, accediendo a la siguiente dirección web:
 

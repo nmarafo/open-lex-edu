@@ -1,7 +1,9 @@
 ---
 id: norm-can-res-juriscan-70096-50
 codigo_sintetizado: Resolucion BOC 50
-titulo: Resolución de 14 de enero de 2014, por la que se determinan las características de las pruebas comunes de obtención del certificado de especialización de nivel C1 de enseñanzas de idiomas de régimen especial, en la Comunidad Autónoma de Canarias.
+titulo: Resolución de 14 de enero de 2014, por la que se determinan las características
+  de las pruebas comunes de obtención del certificado de especialización de nivel
+  C1 de enseñanzas de idiomas de régimen especial, en la Comunidad Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,29 +15,29 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas de Idiomas
 tags:
-  - curriculo
-  - cursos-especializacion
-  - educacion-personas-adultas
-  - ense-anzas-de-idiomas
-  - eoi
-  - equipos-directivos
-  - formacion-profesional
+- curriculo
+- cursos-especializacion
+- educacion-personas-adultas
+- ense-anzas-de-idiomas
+- eoi
+- equipos-directivos
+- formacion-profesional
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2014-021-349.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=70096
 ---
@@ -72,9 +74,7 @@ Tercero.- Encomendar a la Inspección de Educación la supervisión y asesoramie
 
 CARACTERÍSTICAS DE LAS PRUEBAS COMUNES DE OBTENCIÓN DEL CERTIFICADO DE ESPECIALIZACIÓN DE NIVEL C1 DE ENSEÑANZAS DE IDIOMAS DE RÉGIMEN ESPECIAL, EN LA COMUNIDAD AUTÓNOMA DE CANARIAS.
 
-1. Definición de las pruebas de certificación de nivel C1.
-
-2. Características generales de las técnicas e instrumentos de evaluación.
+1. Definición de las pruebas de certificación de nivel C1. 2. Características generales de las técnicas e instrumentos de evaluación.
 
 3. Estructura de las pruebas:
 
@@ -89,9 +89,7 @@ CARACTERÍSTICAS DE LAS PRUEBAS COMUNES DE OBTENCIÓN DEL CERTIFICADO DE ESPECIA
 1. Definición de las pruebas de certificación de nivel C1. Las pruebas objeto de esta resolución conducen a la obtención del certificado de especialización de nivel C1 de enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Canarias. Las pruebas de certificación de nivel C1 tienen como finalidad evaluar la capacidad del alumnado aspirante para usar el idioma con flexibilidad, eficacia y precisión en todo tipo de situaciones, en los ámbitos personal, público, académico y profesional, que requieran comprender, producir y procesar textos orales y escritos extensos y complejos, en diversas variedades estándares de la lengua, con un repertorio léxico amplio, y que versen sobre temas tanto abstractos como concretos, incluso aquellos con los que el hablante no esté familiarizado. La posesión del certificado de especialización de nivel C1 acredita una competencia de idioma del nivel C1 del Marco Común Europeo de Referencia para las Lenguas: aprendizaje, enseñanza y evaluación (MCERL), del Consejo de Europa.
 
 2. Características generales de las técnicas e instrumentos de evaluación. Las pruebas de certificación han de permitir la obtención de la información necesaria para conocer el dominio alcanzado en el idioma por la persona aspirante. Para ello se utilizarán técnicas e instrumentos viables, eficaces y fiables que han de cumplir, entre otras, las siguientes características:
-- Comprender los objetivos y contenidos más significativos del nivel C1.
-- Adecuarse a la naturaleza diversa de los contenidos del nivel C1.
-- Permitir la graduación del dominio alcanzado en cada una de las destrezas.
+- Comprender los objetivos y contenidos más significativos del nivel C1. - Adecuarse a la naturaleza diversa de los contenidos del nivel C1. - Permitir la graduación del dominio alcanzado en cada una de las destrezas.
 - Permitir la asociación de escalas numéricas a valoraciones cualitativas.
 - Adecuarse al carácter propio de cada una de las destrezas.
 - Medir el grado de dominio de los distintos aspectos de cada contenido planteado.

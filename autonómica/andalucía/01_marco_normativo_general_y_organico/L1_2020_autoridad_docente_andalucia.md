@@ -1,10 +1,12 @@
 ---
 id: norm-and-l1-2020
 codigo_sintetizado: L1_2020 Autoridad Docente Andalucia
-titulo: Ley 1/2020, de 13 de julio, para el reconocimiento de la autoridad del profesorado en la Comunidad Autónoma de Andalucía.
+titulo: Ley 1/2020, de 13 de julio, para el reconocimiento de la autoridad del profesorado
+  en la Comunidad Autónoma de Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Ley
 numero_disposicion: 1/2020
 fecha_disposicion: '2020-07-13'
@@ -18,15 +20,15 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Marco normativo general
 tags:
-  - autoridad_docente
-  - profesorado
-  - presuncion_veracidad
-  - andalucia
+- autoridad_docente
+- profesorado
+- presuncion_veracidad
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
+  - norma_id: norm-and-l17-2007
 ---
 # Ley 1/2020, de 13 de julio, para el reconocimiento de la autoridad del profesorado en la Comunidad Autónoma de Andalucía.
 

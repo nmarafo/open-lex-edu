@@ -1,10 +1,13 @@
 ---
 id: norm-es-1995-8730
 codigo_sintetizado: BOE-A-1995-8730
-titulo: Real Decreto 365/1995, de 10 de marzo, por el que se aprueba el Reglamento de Situaciones Administrativas de los Funcionarios Civiles de la Administración General del Estado.
+titulo: Real Decreto 365/1995, de 10 de marzo, por el que se aprueba el Reglamento
+  de Situaciones Administrativas de los Funcionarios Civiles de la Administración
+  General del Estado.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1995-04-10'
 boletin: BOE
@@ -15,23 +18,23 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Empleados públicos
 tags:
-  - ebep
-  - empleados-p-blicos
-  - igualdad-genero
-  - procedimiento-administrativo
-  - proteccion-menores
+- ebep
+- empleados-p-blicos
+- igualdad-genero
+- procedimiento-administrativo
+- proteccion-menores
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-1984-17387
-    - norma_id: norm-es-1985-5392
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-1985-5392
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - '1'
-    - '2.1'
-    - norma_id: norm-es-1984-17387
-    - norma_id: norm-es-1985-5392
+  - '1'
+  - '2.1'
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-1985-5392
 ---
 # Real Decreto 365/1995, de 10 de marzo, por el que se aprueba el Reglamento de Situaciones Administrativas de los Funcionarios Civiles de la Administración General del Estado.
 
@@ -55,9 +58,7 @@ Queda derogado el Reglamento de Situaciones Administrativas de los Funcionarios 
 
 #### Disposición final única. Entrada en vigor.
 
-Dado en Madrid a 10 de marzo de 1995.
-
-JUAN CARLOS R.
+Dado en Madrid a 10 de marzo de 1995. JUAN CARLOS R.
 
 El Ministro para las Administraciones Públicas,
 

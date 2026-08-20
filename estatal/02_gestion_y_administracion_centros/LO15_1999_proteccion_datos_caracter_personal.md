@@ -1,10 +1,12 @@
 ---
 id: norm-es-1999-23750
 codigo_sintetizado: BOE-A-1999-23750
-titulo: Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+titulo: Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter
+  Personal.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1999-12-14'
 boletin: BOE
@@ -15,52 +17,48 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Protección de datos y seguridad de la información
 tags:
-  - curriculo
-  - evaluacion
-  - protecci-n-de-datos-y-seguridad-de-la-informacion
-  - proteccion-menores
-  - rgpd
-  - titulacion
+- curriculo
+- evaluacion
+- protecci-n-de-datos-y-seguridad-de-la-informacion
+- proteccion-menores
+- rgpd
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
-    - norma_id: norm-es-2003-23399
-    - norma_id: norm-es-2003-4151
-    - norma_id: norm-es-2004-15601
-    - norma_id: norm-es-2006-21648
-    - norma_id: norm-es-2007-19814
-    - norma_id: norm-es-2008-979
-    - norma_id: norm-es-2010-10424
-    - norma_id: norm-es-2011-16923
-    - norma_id: norm-es-2011-17560
-    - norma_id: norm-es-2012-8745
-    - norma_id: norm-es-2013-12632
-    - norma_id: norm-es-2014-2222
-    - norma_id: norm-es-2014-7684
-    - norma_id: norm-es-2015-6839
-    - norma_id: norm-es-2015-8470
-    - norma_id: norm-es-l-19-2013
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-l-9-2017
-    - norma_id: norm-es-lo-3-2018
-    - norma_id: norm-es-lo-5-2000
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-can-res-juriscan-65631-68
-    - norma_id: norm-can-o-1-9-2010
-    - norma_id: norm-can-res-juriscan-64838-121
-    - norma_id: norm-can-res-juriscan-72882-123
-    - norma_id: norm-can-res-boc-2018-086-122
-    - norma_id: norm-can-d-114-2011
+  - norma_id: norm-es-2003-23399
+  - norma_id: norm-es-2003-4151
+  - norma_id: norm-es-2004-15601
+  - norma_id: norm-es-2006-21648
+  - norma_id: norm-es-2007-19814
+  - norma_id: norm-es-2008-979
+  - norma_id: norm-es-2010-10424
+  - norma_id: norm-es-2011-16923
+  - norma_id: norm-es-2011-17560
+  - norma_id: norm-es-2012-8745
+  - norma_id: norm-es-2013-12632
+  - norma_id: norm-es-2014-2222
+  - norma_id: norm-es-2014-7684
+  - norma_id: norm-es-2015-6839
+  - norma_id: norm-es-2015-8470
+  - norma_id: norm-es-l-19-2013
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-l-9-2017
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-lo-5-2000
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-can-res-juriscan-65631-68
+  - norma_id: norm-can-o-1-9-2010
+  - norma_id: norm-can-res-juriscan-64838-121
+  - norma_id: norm-can-res-juriscan-72882-123
+  - norma_id: norm-can-res-boc-2018-086-122
+  - norma_id: norm-can-d-114-2011
   desarrollado_por: []
   fundamentos_derecho:
-    - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-d-81-2010
   articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-lo-2-2006
-  articulos:
-    - '120'
+  - '120'
 ---
 # Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
 
@@ -150,9 +148,7 @@ Tienen la consideración de fuentes de acceso público, exclusivamente, el censo
 
 3. Los datos de carácter personal serán exactos y puestos al día de forma que respondan con veracidad a la situación actual del afectado.
 
-4. Si los datos de carácter personal registrados resultaran ser inexactos, en todo o en parte, o incompletos, serán cancelados y sustituidos de oficio por los correspondientes datos rectificados o completados, sin perjuicio de las facultades que a los afectados reconoce el artículo 16.
-
-5. Los datos de carácter personal serán cancelados cuando hayan dejado de ser necesarios o pertinentes para la finalidad para la cual hubieran sido recabados o registrados.
+4. Si los datos de carácter personal registrados resultaran ser inexactos, en todo o en parte, o incompletos, serán cancelados y sustituidos de oficio por los correspondientes datos rectificados o completados, sin perjuicio de las facultades que a los afectados reconoce el artículo 16. 5. Los datos de carácter personal serán cancelados cuando hayan dejado de ser necesarios o pertinentes para la finalidad para la cual hubieran sido recabados o registrados.
 
 No serán conservados en forma que permita la identificación del interesado durante un período superior al necesario para los fines en base a los cuales hubieran sido recabados o registrados.
 
@@ -460,9 +456,7 @@ En el caso de que se obtenga telemáticamente una copia de la lista en formato e
 
 2. Cuando los datos procedan de fuentes accesibles al público, de conformidad con lo establecido en el párrafo segundo del artículo 5.5 de esta Ley, en cada comunicación que se dirija al interesado se informará del origen de los datos y de la identidad del responsable del tratamiento, así como de los derechos que le asisten.
 
-3. En el ejercicio del derecho de acceso los interesados tendrán derecho a conocer el origen de sus datos de carácter personal, así como del resto de información a que se refiere el artículo 15.
-
-4. Los interesados tendrán derecho a oponerse, previa petición y sin gastos, al tratamiento de los datos que les conciernan, en cuyo caso serán dados de baja del tratamiento, cancelándose las informaciones que sobre ellos figuren en aquél, a su simple solicitud.
+3. En el ejercicio del derecho de acceso los interesados tendrán derecho a conocer el origen de sus datos de carácter personal, así como del resto de información a que se refiere el artículo 15. 4. Los interesados tendrán derecho a oponerse, previa petición y sin gastos, al tratamiento de los datos que les conciernan, en cuyo caso serán dados de baja del tratamiento, cancelándose las informaciones que sobre ellos figuren en aquél, a su simple solicitud.
 
 #### Artículo 31. Censo promocional.
 
@@ -586,9 +580,7 @@ k) Redactar una memoria anual y remitirla al Ministerio de Justicia.
 
 l) Ejercer el control y adoptar las autorizaciones que procedan en relación con los movimientos internacionales de datos, así como desempeñar las funciones de cooperación internacional en materia de protección de datos personales.
 
-m) Velar por el cumplimiento de las disposiciones que la Ley de la Función Estadística Pública establece respecto a la recogida de datos estadísticos y al secreto estadístico, así como dictar las instrucciones precisas, dictaminar sobre las condiciones de seguridad de los ficheros constituidos con fines exclusivamente estadísticos y ejercer la potestad a la que se refiere el artículo 46.
-
-n) Cuantas otras le sean atribuidas por normas legales o reglamentarias.
+m) Velar por el cumplimiento de las disposiciones que la Ley de la Función Estadística Pública establece respecto a la recogida de datos estadísticos y al secreto estadístico, así como dictar las instrucciones precisas, dictaminar sobre las condiciones de seguridad de los ficheros constituidos con fines exclusivamente estadísticos y ejercer la potestad a la que se refiere el artículo 46. n) Cuantas otras le sean atribuidas por normas legales o reglamentarias.
 
 #### Artículo 38. Consejo Consultivo.
 
@@ -664,9 +656,7 @@ Estarán obligados a guardar secreto sobre las informaciones que conozcan en el 
 
 1. Los responsables de los ficheros y los encargados de los tratamientos estarán sujetos al régimen sancionador establecido en la presente Ley.
 
-2. Cuando se trate de ficheros de los que sean responsables las Administraciones públicas se estará, en cuanto al procedimiento y a las sanciones, a lo dispuesto en el artículo 46, apartado 2.
-
-#### Artículo 44. Tipos de infracciones.
+2. Cuando se trate de ficheros de los que sean responsables las Administraciones públicas se estará, en cuanto al procedimiento y a las sanciones, a lo dispuesto en el artículo 46, apartado 2. #### Artículo 44. Tipos de infracciones.
 
 1. Las infracciones se calificarán como leves, graves o muy graves.
 
@@ -714,9 +704,7 @@ b) La comunicación o cesión de los datos de carácter personal, fuera de los c
 
 c) Recabar y tratar los datos de carácter personal a los que se refiere el apartado 2 del artículo 7 cuando.
 
-no medie el consentimiento expreso del afectado; recabar y tratar los datos referidos en el apartado 3 del artículo 7 cuando no lo disponga una ley o el afectado no haya consentido expresamente, o violentar la prohibición contenida en el apartado 4 del artículo 7.
-
-d) No cesar en el uso ilegítimo de los tratamientos de datos de carácter personal cuando sea requerido para ello por el Director de la Agencia de Protección de Datos o por las personas titulares del derecho de acceso.
+no medie el consentimiento expreso del afectado; recabar y tratar los datos referidos en el apartado 3 del artículo 7 cuando no lo disponga una ley o el afectado no haya consentido expresamente, o violentar la prohibición contenida en el apartado 4 del artículo 7. d) No cesar en el uso ilegítimo de los tratamientos de datos de carácter personal cuando sea requerido para ello por el Director de la Agencia de Protección de Datos o por las personas titulares del derecho de acceso.
 
 e) La transferencia temporal o definitiva de datos de carácter personal que hayan sido objeto de tratamiento o hayan sido recogidos para someterlos a dicho tratamiento, con destino a países que no proporcionen un nivel de protección equiparable sin autorización del Director de la Agencia de Protección de Datos.
 
@@ -862,9 +850,7 @@ Por tanto,
 
 Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley Orgánica.
 
-Madrid, 13 de diciembre de 1999.
-
-JUAN CARLOS R.
+Madrid, 13 de diciembre de 1999. JUAN CARLOS R.
 
 El Presidente del Gobierno,
 

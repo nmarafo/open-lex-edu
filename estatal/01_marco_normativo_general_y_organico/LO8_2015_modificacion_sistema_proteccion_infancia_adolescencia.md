@@ -1,10 +1,12 @@
 ---
 id: norm-es-2015-8222
 codigo_sintetizado: BOE-A-2015-8222
-titulo: Ley Orgánica 8/2015, de 22 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
+titulo: Ley Orgánica 8/2015, de 22 de julio, de modificación del sistema de protección
+  a la infancia y a la adolescencia.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2015-07-23'
 boletin: BOE
@@ -15,29 +17,29 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Protección jurídica de menores
 tags:
-  - bienestar-infantil
-  - curriculo
-  - protecci-n-jur-dica-de-menores
-  - proteccion-menores
+- bienestar-infantil
+- curriculo
+- protecci-n-jur-dica-de-menores
+- proteccion-menores
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2000-544
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-lo-1-1996
-    - norma_id: norm-es-lo-1-2004
+  - norma_id: norm-es-2000-544
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-es-lo-1-2004
   fundamento_de:
-    - norma_id: norm-es-2021-11382
-    - norma_id: norm-es-lo-8-2021
-    - norma_id: norm-can-res-boc-2018-086-122
-    - norma_id: norm-can-res-boc-2017-132-1
+  - norma_id: norm-es-2021-11382
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-can-res-boc-2018-086-122
+  - norma_id: norm-can-res-boc-2017-132-1
   desarrollado_por: []
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-es-2000-544
-    - norma_id: norm-es-lo-1-1996
-    - norma_id: norm-es-lo-1-2004
+  - '27'
+  - norma_id: norm-es-2000-544
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-es-lo-1-2004
 ---
 # Ley Orgánica 8/2015, de 22 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
 
@@ -517,9 +519,7 @@ Por tanto,
 
 Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley orgánica.
 
-Madrid, 22 de julio de 2015.
-
-FELIPE R.
+Madrid, 22 de julio de 2015. FELIPE R.
 
 El Presidente del Gobierno,
 

@@ -1,10 +1,12 @@
 ---
 id: norm-mad-d-56-2023
 codigo_sintetizado: D56_2023 Ordenacion Conservatorios Musica y Danza Madrid
-titulo: Decreto 56/2023, de 24 de mayo, por el que se establece la ordenación de las Enseñanzas Profesionales de Música y Danza en Madrid.
+titulo: Decreto 56/2023, de 24 de mayo, por el que se establece la ordenación de las
+  Enseñanzas Profesionales de Música y Danza en Madrid.
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Decreto
 numero_disposicion: 56/2023
 fecha_disposicion: '2023-05-24'
@@ -18,17 +20,17 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Artísticas
 tags:
-  - conservatorios
-  - musica
-  - danza
-  - madrid
+- conservatorios
+- musica
+- danza
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-mad-d-29-2013
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Decreto 56/2023, de 24 de mayo, por el que se establece la ordenación de las Enseñanzas Profesionales de Música y Danza en Madrid.
 

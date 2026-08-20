@@ -1,10 +1,15 @@
 ---
 id: norm-can-res-119
 codigo_sintetizado: Resolucion BOC 119
-titulo: Resolución de 8 de agosto de 2025,de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios por la que se aprueban las instrucciones de organización y funcionamiento de los comedores escolares de los centros docentes públicos no universitarios para el curso escolar 2025-2026 (BOC nº 166, de 22 de agosto).
+titulo: Resolución de 8 de agosto de 2025,de la Dirección General de Administración
+  de Centros, Escolarización y Servicios Complementarios por la que se aprueban las
+  instrucciones de organización y funcionamiento de los comedores escolares de los
+  centros docentes públicos no universitarios para el curso escolar 2025-2026 (BOC
+  nº 166, de 22 de agosto).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios Complementarios
+organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios
+  Complementarios
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: pdf_oficial_boc
@@ -13,43 +18,43 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Comedores y desayunos escolares
 tags:
-  - admision-alumnado
-  - becas-y-ayudas
-  - comedor-escolar
-  - comedores-y-desayunos-escolares
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - evaluacion
-  - formacion-profesional
-  - organizacion-escolar
-  - profesorado
-  - servicios-complementarios
+- admision-alumnado
+- becas-y-ayudas
+- comedor-escolar
+- comedores-y-desayunos-escolares
+- ensenanzas-deportivas
+- equipos-directivos
+- evaluacion
+- formacion-profesional
+- organizacion-escolar
+- profesorado
+- servicios-complementarios
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-114-2011
-    - norma_id: norm-can-d-123-2023
-    - norma_id: norm-can-d-212-1991
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-14-1990
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-o-25-2-2003
-    - norma_id: norm-can-res-boc-2025-061-88
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-114-2011
+  - norma_id: norm-can-d-123-2023
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-o-25-2-2003
+  - norma_id: norm-can-res-boc-2025-061-88
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-d-123-2023
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-14-1990
-    - norma_id: norm-can-o-25-2-2003
-    - norma_id: norm-can-d-114-2011
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-can-res-boc-2025-061-88
-    - norma_id: norm-can-d-212-1991
+  - '1'
+  - norma_id: norm-can-d-123-2023
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-o-25-2-2003
+  - norma_id: norm-can-d-114-2011
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-res-boc-2025-061-88
+  - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-166-3041.pdf
 ---
 # Resolución de 8 de agosto de 2025,de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios por la que se aprueban las instrucciones de organización y funcionamiento de los comedores escolares de los centros docentes públicos no universitarios para el curso escolar 2025-2026 (BOC nº 166, de 22 de agosto).
@@ -69,8 +74,7 @@ e) Personal laboral al servicio de cada comedor.
 f) Las personas distintas a los alumnos comensales del centro que, con carácter habitual, durante el curso escolar, podrán disfrutar del servicio de comedor escolar.
 g) Cuantas instrucciones considere convenientes para el buen funcionamiento del servicio".
 Segundo.- De acuerdo con lo previsto en el artículo 8.2 de la citada Orden de 25 de febrero de 2003, la resolución en la que se dicten las instrucciones de organización y funcionamiento de los comedores escolares, incluirá el certificado que, los centros que presenten modificaciones con respecto al curso anterior, deberán remitir a la Dirección General a los efectos de efectuar la planificación para el siguiente curso escolar.
-Tercero.- Según lo preceptuado en el artículo 8.1 de la reiterada Orden de 25 de febrero de 2003, los comedores escolares contarán con el número de plazas autorizadas por la DGACESC. En cumplimiento de lo anterior se dicta la Resolución n.º 229, de 8 de mayo de 2025, de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios, por la que se establece el calendario escolar, las instrucciones complementarias del procedimiento de admisión del alumnado comensal y los criterios de concesión de las subvenciones y por la que se autoriza la oferta de plazas de comensales de los centros docentes públicos no universitarios para el curso escolar 2025-2026.
-Cuarto.- Conforme a lo dispuesto en el artículo 19.1 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias, "Los directores generales, en el área de actividad que tengan encomendada, desempeñan las atribuciones que se especifiquen en el correspondiente reglamento orgánico, elaboran las propuestas de planes y programas de actuación e instruyen y formulan la propuesta de resolución en los procedimientos en que deban resolver las viceconsejerías a que estén adscritos o, en su defecto, los titulares de los Departamentos". De conformidad con lo dispuesto en el Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, aprobado por el [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, y en línea con lo anterior, de acuerdo con lo previsto en el artículo 5 l.
+Tercero.- Según lo preceptuado en el artículo 8.1 de la reiterada Orden de 25 de febrero de 2003, los comedores escolares contarán con el número de plazas autorizadas por la DGACESC. En cumplimiento de lo anterior se dicta la Resolución n.º 229, de 8 de mayo de 2025, de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios, por la que se establece el calendario escolar, las instrucciones complementarias del procedimiento de admisión del alumnado comensal y los criterios de concesión de las subvenciones y por la que se autoriza la oferta de plazas de comensales de los centros docentes públicos no universitarios para el curso escolar 2025-2026. Cuarto.- Conforme a lo dispuesto en el artículo 19.1 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias, "Los directores generales, en el área de actividad que tengan encomendada, desempeñan las atribuciones que se especifiquen en el correspondiente reglamento orgánico, elaboran las propuestas de planes y programas de actuación e instruyen y formulan la propuesta de resolución en los procedimientos en que deban resolver las viceconsejerías a que estén adscritos o, en su defecto, los titulares de los Departamentos". De conformidad con lo dispuesto en el Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, aprobado por el [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, y en línea con lo anterior, de acuerdo con lo previsto en el artículo 5 l.
 
 vigente [Decreto 123/2023](../01_marco_normativo_general_y_organico/D123_2023_determina_estructura_organica_sedes_consejerias_gobierno.md), de 17 de julio, por el que se determina la estructura orgánica y las sedes de las Consejerías del Gobierno de Canarias, así como con la Orden de 27 de mayo de 2024, por la que se delegan determinadas competencias, y en relación con lo establecido en el artículo 29, apartado 1, letra j), de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md), de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias, así como con la restante normativa de general aplicación, se procede a dictar la presente Resolución.
 
@@ -78,9 +82,7 @@ En base a los preceptos anteriormente señalados, corresponde al Director Genera
 RESUELVO:
 Único.- Aprobar las instrucciones de organización y funcionamiento de los comedores escolares de los centros docentes públicos no universitarios para el curso escolar 2025- 2026 y los anexos que correspondan. Contra el presente acto, que no pone fin a la vía administrativa, cabe interponer en el plazo de un (1) mes, a contar desde el día siguiente al de su publicación, recurso de alzada ante la Viceconsejería de Educación, sin perjuicio de cualesquiera otros que se estime procedente interponer. Las Palmas de Gran Canaria, a 8 de agosto de 2025.- El Director General de Administración de Centros, Escolarización y Servicios Complementarios, David Crego Chaves.
 
-INSTRUCCIONES DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS COMEDORES ESCOLARES DE LOS CENTROS DOCENTES PÚBLICOS NO UNIVERSITARIOS PARA EL CURSO ESCOLAR 2025-2026.
-
-#### Primera. Días de funcionamiento del comedor y días objeto de ayuda.
+INSTRUCCIONES DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS COMEDORES ESCOLARES DE LOS CENTROS DOCENTES PÚBLICOS NO UNIVERSITARIOS PARA EL CURSO ESCOLAR 2025-2026. #### Primera. Días de funcionamiento del comedor y días objeto de ayuda.
 
 1. El servicio del comedor escolar coincidirá con el periodo lectivo que fije la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, mediante la Resolución de la DGACESC de aprobación del Calendario Escolar, no excediendo su puesta en marcha transcurridos tres días del inicio lectivo. Su finalización coincidirá con el último día lectivo del curso escolar. El periodo lectivo se fijó en la [Resolución de 20 de febrero de 2025](../04_organizacion_escolar_y_funcionamiento/R19_3_2025_escolarizacion_servicios_complementarios_corrige_error_resolucion.md), de la DGACESC, por la que se establece el calendario escolar y se dictan instrucciones para la organización y desarrollo de las actividades de comienzo y finalización del curso 2025-2026, y modificado por la Resolución de 19 de marzo de 2025, por la que se corrige error en la citada Resolución de 20 de febrero de 2025, relativa al calendario escolar y a las instrucciones para la organización y desarrollo de las actividades de comienzo y finalización del curso 2025-2026, para los centros de enseñanzas no universitarias de la Comunidad Autónoma de Canarias.
 
@@ -112,9 +114,7 @@ MÓDULO GESTIÓN DIRECTA CONTRATO Hasta 100 139,40 € 121,70 € De 101 a 300 1
 
 2. El módulo de comensales a tener en cuenta, a los efectos de aplicación del párrafo anterior, será el que el centro escolar tenga autorizado en la Resolución n.º 229, de la DGACESC, por la que se establece el calendario escolar, las instrucciones complementarias
 
-del procedimiento de admisión del alumnado comensal y los criterios de concesión de las subvenciones y por la que se autoriza la oferta de plazas de comensales de los centros docentes públicos no universitarios para el curso escolar 2025-2026.
-
-3. Al finalizar el servicio del comedor, y antes del 15 de julio de 2025, la persona encargada del comedor remitirá a la DGACESC, debidamente cumplimentado, el Certificado de Prestación de Servicio que figura como Anexo I en la presente Resolución.
+del procedimiento de admisión del alumnado comensal y los criterios de concesión de las subvenciones y por la que se autoriza la oferta de plazas de comensales de los centros docentes públicos no universitarios para el curso escolar 2025-2026. 3. Al finalizar el servicio del comedor, y antes del 15 de julio de 2025, la persona encargada del comedor remitirá a la DGACESC, debidamente cumplimentado, el Certificado de Prestación de Servicio que figura como Anexo I en la presente Resolución.
 
 4. En virtud del referido certificado, y con posterioridad a la finalización del servicio, se abonará a la persona encargada del comedor la asistencia realizada mediante un ingreso en la cuenta de percepción de sus haberes.
 

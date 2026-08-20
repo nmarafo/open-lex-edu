@@ -1,9 +1,12 @@
 ---
 id: norm-mad-o3536-2025
-titulo: Orden 3536/2025, de 12 de agosto, por la que se establece el catálogo de módulos profesionales optativos en los ciclos formativos de Grado Medio y de Grado Superior de Formación Profesional en la Comunidad de Madrid
+titulo: Orden 3536/2025, de 12 de agosto, por la que se establece el catálogo de módulos
+  profesionales optativos en los ciclos formativos de Grado Medio y de Grado Superior
+  de Formación Profesional en la Comunidad de Madrid
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
 numero_disposicion: 3536/2025
 fecha_disposicion: '2025-08-12'
@@ -18,22 +21,22 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Formación Profesional
 tags:
-  - formacion_profesional
-  - modulos_optativos
-  - grado_medio
-  - grado_superior
-  - comunidad_de_madrid
+- formacion_profesional
+- modulos_optativos
+- grado_medio
+- grado_superior
+- comunidad_de_madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-mad-d-29-2013
 ---
 # Orden 3536/2025, de 12 de agosto, por la que se establece el catálogo de módulos profesionales optativos en los ciclos formativos de Grado Medio y de Grado Superior de Formación Profesional en la Comunidad de Madrid
 

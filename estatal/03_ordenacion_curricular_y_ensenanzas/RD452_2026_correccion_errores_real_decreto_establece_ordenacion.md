@@ -1,10 +1,13 @@
 ---
 id: norm-es-2026-15301
 codigo_sintetizado: BOE-A-2026-15301
-titulo: Corrección de errores del Real Decreto 452/2026, de 3 de junio, por el que se establece la ordenación de las Enseñanzas Profesionales de Artes Plásticas y Diseño.
+titulo: Corrección de errores del Real Decreto 452/2026, de 3 de junio, por el que
+  se establece la ordenación de las Enseñanzas Profesionales de Artes Plásticas y
+  Diseño.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2026-07-14'
 boletin: BOE
@@ -15,23 +18,19 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Artísticas
 tags:
-  - ense-anzas-art-sticas
-  - ensenanzas-artisticas
+- ense-anzas-art-sticas
+- ensenanzas-artisticas
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2026-12038
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2026-12038
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
-    - norma_id: norm-es-2026-12038
+  - norma_id: norm-es-2026-12038
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - '6'
-    - 6bis
-    - norma_id: norm-can-l-6-2014
-  articulos:
-    - '22'
-    - norma_id: norm-es-2026-12038
+  - '22'
+  - norma_id: norm-es-2026-12038
 ---
 # Corrección de errores del Real Decreto 452/2026, de 3 de junio, por el que se establece la ordenación de las Enseñanzas Profesionales de Artes Plásticas y Diseño.
 

@@ -1,7 +1,11 @@
 ---
 id: norm-can-res-096
 codigo_sintetizado: Resolucion BOC 96
-titulo: Resolución de 30 de enero de2026, de la Dirección General de Personal y Formación del Profesorado, por la que se convoca, por el sistema de libre designación, la provisión de puestos de dirección de centros públicos integrados de formación profesional de la Comunidad Autónoma de Canarias para el periodo de mandato 2026-2030 (BOC n.º 29, de 12 de febrero).
+titulo: Resolución de 30 de enero de2026, de la Dirección General de Personal y Formación
+  del Profesorado, por la que se convoca, por el sistema de libre designación, la
+  provisión de puestos de dirección de centros públicos integrados de formación profesional
+  de la Comunidad Autónoma de Canarias para el periodo de mandato 2026-2030 (BOC n.º
+  29, de 12 de febrero).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Personal y Formación del Profesorado
@@ -13,40 +17,40 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Función directiva y liderazgo
 tags:
-  - concurso-traslados
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - formacion-profesional
-  - funci-n-directiva-y-liderazgo
-  - lopivi
-  - oposiciones
-  - profesorado
-  - roc
+- concurso-traslados
+- ensenanzas-deportivas
+- equipos-directivos
+- formacion-profesional
+- funci-n-directiva-y-liderazgo
+- lopivi
+- oposiciones
+- profesorado
+- roc
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-8-2021
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-can-d-212-1991
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-lo-8-2021
-    - norma_id: norm-can-d-212-1991
+  - '1'
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-029-465.pdf
 ---
 # Resolución de 30 de enero de2026, de la Dirección General de Personal y Formación del Profesorado, por la que se convoca, por el sistema de libre designación, la provisión de puestos de dirección de centros públicos integrados de formación profesional de la Comunidad Autónoma de Canarias para el periodo de mandato 2026-2030 (BOC n.º 29, de 12 de febrero).
@@ -60,9 +64,7 @@ Primero.- El Decreto 112/2011, de 11 de mayo, por el que se regulan los Centros 
 
 centros, estableciendo, en su artículo 16, que su provisión se efectuará por el procedimiento de libre designación conforme a los principios de mérito, capacidad y publicidad, previa consulta a los órganos colegiados de participación del centro entre el personal funcionario público docente y por un periodo de cuatro años.
 Segundo.- Los artículos 3 al 8 de la Orden de 28 de septiembre de 2017, por la que se aprueba el procedimiento para la selección, nombramiento y renovación de los directores y de los equipos directivos de los centros públicos integrados de formación profesional de la Comunidad Autónoma de Canarias, que regulan el procedimiento a seguir en las convocatorias, así como el nombramiento del director o directora y el seguimiento de la función directiva.
-Tercero.- La [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia, en particular el artículo 57, apartado 1.
-
-Cuarto.- La [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en cuanto le sea de aplicación.
+Tercero.- La [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia, en particular el artículo 57, apartado 1. Cuarto.- La [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en cuanto le sea de aplicación.
 Quinto.- La [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público, en cuanto le sea de aplicación. De conformidad con lo anterior, en virtud de las competencias previstas en el artículo 16 l.
 
 Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes del Gobierno de Canarias, aprobado por [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, y en relación con el artículo 19 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias,

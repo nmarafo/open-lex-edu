@@ -1,10 +1,13 @@
 ---
 id: norm-can-res-boc-2020-257-24
 codigo_sintetizado: Resolucion BOC 24
-titulo: Resolución de la Viceconsejería de Educación y Universidades, por la que se dictan instrucciones para la oferta educativa y recursos en las escuelas unitarias y los colectivos de escuelas rurales en canarias (13 de marzo de 2015).
+titulo: Resolución de la Viceconsejería de Educación y Universidades, por la que se
+  dictan instrucciones para la oferta educativa y recursos en las escuelas unitarias
+  y los colectivos de escuelas rurales en canarias (13 de marzo de 2015).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios Complementarios
+organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios
+  Complementarios
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: pdf_oficial_boc
@@ -13,32 +16,32 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Colectivos de Escuelas Rurales (CER)
 tags:
-  - autonomia-centro
-  - colectivos-de-escuelas-rurales-cer
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - evaluacion
+- autonomia-centro
+- colectivos-de-escuelas-rurales-cer
+- ensenanzas-deportivas
+- equipos-directivos
+- evaluacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-109-1999
-    - norma_id: norm-can-d-135-2016
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-109-1999
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-can-d-109-1999
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-d-135-2016
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-109-1999
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2020-257-4915.pdf
 ---
 # Resolución de la Viceconsejería de Educación y Universidades, por la que se dictan instrucciones para la oferta educativa y recursos en las escuelas unitarias y los colectivos de escuelas rurales en canarias (13 de marzo de 2015).
@@ -47,8 +50,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2020-257-4915.
 
 3 de diciembre de 2020, por la que se convoca el proceso para la renovación parcial de los Consejos de los Colectivos de Escuelas Rurales de la Comunidad Autónoma de Canarias, a celebrar en el curso escolar 2020/2021, y se aprueba su calendario. Al objeto de regular el proceso y el calendario para la renovación parcial de los Consejos de los Colectivos de Escuelas Rurales (CER), a celebrar en el curso escolar 2020/2021, y teniendo en cuenta los siguientes antecedentes de hecho y los posteriores fundamentos de derecho, ANTECEDENTES DE HECHO
 Primero.- La organización de cada CER se fundamenta, entre otros pilares, en su Consejo, órgano de participación democrática donde se hallan representados los distintos sectores de la comunidad educativa. En atención a la inminente conclusión del periodo previsto para la renovación parcial de los actuales miembros de dichos Consejos, procede efectuar la convocatoria para la renovación, a fin de completar el proceso y garantizar, de este modo, el efectivo funcionamiento de los Consejos de los CER, una vez conformados los consejos escolares de los centros de su ámbito.
-Segundo.- La Consejería de Educación, Universidades, Cultura y Deportes es competente para fijar el calendario de celebración de estas elecciones. En este sentido, la última convocatoria para la renovación parcial de los Consejos de CER fue en el curso 2018/2019.
-Tercero.- La situación de emergencia de salud pública ocasionada por el COVID-19 viene a suponer que en todos los actos de la convocatoria de elecciones a los Consejos Escolares se deban atender las medidas de higiene y prevención previstas. A estos antecedentes, le son de aplicación los siguientes FUNDAMENTOS DE DERECHO
+Segundo.- La Consejería de Educación, Universidades, Cultura y Deportes es competente para fijar el calendario de celebración de estas elecciones. En este sentido, la última convocatoria para la renovación parcial de los Consejos de CER fue en el curso 2018/2019. Tercero.- La situación de emergencia de salud pública ocasionada por el COVID-19 viene a suponer que en todos los actos de la convocatoria de elecciones a los Consejos Escolares se deban atender las medidas de higiene y prevención previstas. A estos antecedentes, le son de aplicación los siguientes FUNDAMENTOS DE DERECHO
 Primero.- El Título V de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en su redacción actual, está dedicado a la participación, autonomía y gobierno de los centros; y el Capítulo II de dicho título se refiere específicamente a la autonomía de los centros, en particular, para elaborar, aprobar y ejecutar el proyecto educativo y el proyecto de gestión del centro, y las normas de organización y funcionamiento del centro. El principal órgano colegiado de gobierno de los CER es su Consejo, que es también responsable, en gran medida, de impulsar y dinamizar esa autonomía del centro. De ahí deriva la importancia y la trascendencia que tienen las elecciones a miembro del Consejo, toda vez que tal órgano, junto con la figura del coordinador o coordinadora de los CER y los distintos equipos educativos de los centros que lo integran, conforman el eje de la organización y funcionamiento de dichos centros. Página
 
 Segundo.- La necesidad de convocar elecciones para la renovación de los representantes de los distintos sectores de la comunidad educativa en los Consejos de los CER viene determinada en el artículo 22 l [Decreto.
@@ -72,9 +74,7 @@ Las elecciones para la renovación de los representantes de los distintos sector
 
 1. El número de representantes que deberán ser renovados se determinará según lo dispuesto en el artículo 22 de citado [Decreto 109/1999](./D109_1999_regula_regimen_creacion_funcionamiento_colectivos_escuelas.md), de 25 de mayo.
 
-2. A los efectos de definir el número de miembros que le corresponde a cada sector en el Consejo del CER, se tendrá en cuenta el número de unidades autorizadas para cada uno de los CER en funcionamiento para el presente curso escolar 2020/2021.
-
-#### Cuarto. Representantes a designar.
+2. A los efectos de definir el número de miembros que le corresponde a cada sector en el Consejo del CER, se tendrá en cuenta el número de unidades autorizadas para cada uno de los CER en funcionamiento para el presente curso escolar 2020/2021. #### Cuarto. Representantes a designar.
 
 1. La junta electoral del CER, a través de la persona que ejerza su presidencia, solicitará al ayuntamiento o ayuntamientos que conforman el CER la designación de la persona representante municipal que ha de formar parte del Consejo, mediante escrito en el que ha de figurar el plazo para la comunicación de la referida designación.
 
@@ -96,8 +96,7 @@ c) Concretar el calendario electoral del proceso y, en particular, el horario de
 d) Admitir y proclamar las distintas candidaturas hasta el plazo indicado en el Anexo I de esta Resolución, que los interesados o interesadas habrán entregado con anterioridad para su tramitación a las direcciones de sus respectivos centros del ámbito.
 e) Elaborar y aprobar, en su caso, los modelos de papeletas electorales, declarando nulos los votos emitidos en modelos diferentes.
 f) Realizar en acto público los sorteos para la constitución de las mesas electorales.
-g) Acreditar la identidad de los supervisores y las supervisoras, y comunicarla por escrito a las distintas mesas electorales, conforme a lo establecido en los artículos 22, apartado 6, y 23, apartado 6, de la citada Orden de 12 de mayo de 2016.
-h) Solicitar de los ayuntamientos que conforman el CER la designación del concejal o la concejala, o la persona representante del municipio que haya de formar parte del Consejo del CER. En el caso de que el ámbito del CER afecte a más de un municipio, se tendrá en cuenta el carácter rotativo de la representación, de acuerdo a lo estipulado en el artículo 20 l [Decreto.
+g) Acreditar la identidad de los supervisores y las supervisoras, y comunicarla por escrito a las distintas mesas electorales, conforme a lo establecido en los artículos 22, apartado 6, y 23, apartado 6, de la citada Orden de 12 de mayo de 2016. h) Solicitar de los ayuntamientos que conforman el CER la designación del concejal o la concejala, o la persona representante del municipio que haya de formar parte del Consejo del CER. En el caso de que el ámbito del CER afecte a más de un municipio, se tendrá en cuenta el carácter rotativo de la representación, de acuerdo a lo estipulado en el artículo 20 l [Decreto.
 
 109/1999](./D109_1999_regula_regimen_creacion_funcionamiento_colectivos_escuelas.md), de 25 de mayo.
 i) Adoptar medidas para facilitar la máxima participación de todos los sectores en el proceso electoral.
@@ -105,9 +104,7 @@ j) Resolver en primera instancia las reclamaciones sobre cualquier cuestión rel
 k) Atender las solicitudes del voto no presencial, comprobando las circunstancias que se alegan para garantizar este derecho y la inscripción en el censo de la persona interesada; facilitarle la documentación necesaria; y conservar los votos recibidos y hacerlos llegar a la mesa electoral correspondiente.
 l) Determinar y dar publicidad al horario de las votaciones dentro de los límites temporales establecidos en esta Resolución y en horas que faciliten al máximo la participación.
 m) Proclamar las candidaturas elegidas.
-n) Acordar los términos en los que se realizará el sorteo en el caso de empate en las votaciones de cualquiera de los sectores, según el artículo 32, apartado 2, de la antedicha Orden de 12 de mayo de 2016.
-
-#### Sexto. Miembros electores y elegibles.
+n) Acordar los términos en los que se realizará el sorteo en el caso de empate en las votaciones de cualquiera de los sectores, según el artículo 32, apartado 2, de la antedicha Orden de 12 de mayo de 2016. #### Sexto. Miembros electores y elegibles.
 
 1. El derecho a elegir y ser elegido representante en la renovación lo ostentan los padres, madres o tutores legales del alumnado, y los alumnos o las alumnas que formen parte de los Consejos Escolares de los centros del ámbito del CER, así como los maestros o maestras que compongan el equipo pedagógico, tal y como estipula el artículo 22 en.
 
@@ -143,8 +140,7 @@ concordancia con el 20, ambos del indicado [Decreto 109/1999](./D109_1999_regula
 
 #### Noveno. Voto no presencial.
 
-Para todo lo relacionado con el voto no presencial, se estará a lo dispuesto en el artículo 31 de la citada Orden de 12 de mayo de 2016.
-Décimo.- Elecciones de representantes de padres, madres o representantes legales del alumnado, y del propio alumnado.
+Para todo lo relacionado con el voto no presencial, se estará a lo dispuesto en el artículo 31 de la citada Orden de 12 de mayo de 2016. Décimo.- Elecciones de representantes de padres, madres o representantes legales del alumnado, y del propio alumnado.
 
 1. Dadas las especiales características del proceso, las votaciones se realizarán en reuniones que se celebrarán en cada CER entre los representantes de padres, madres o representantes legales del alumnado, y del propio alumnado, respectivamente, que pertenezcan a los Consejos Escolares de los centros del ámbito del CER, previa convocatoria hecha por la coordinación y figurando como único punto del orden del día el acto de elección.
 
@@ -164,9 +160,7 @@ y el maestro o la maestra que desempeñan funciones de secretario o secretaria d
 
 8. Si no existiera quorum en alguno de los sectores, se efectuará una nueva convocatoria, de forma específica, para el sector que lo precise, veinticuatro horas después de la señalada para la primera. En este caso, será suficiente la asistencia de la tercera parte de los miembros.
 
-9. Podrán actuar como personal supervisor de la votación los padres, las madres o las personas representantes del alumnado, así como los alumnos y las alumnas matriculados en centros del CER, conforme a lo establecido en los artículos 22, apartado 6, y 23, apartado 6, de la citada Orden de 12 de mayo de 2016.
-
-10. El voto será directo, secreto y no delegable. Las candidaturas se publicarán en los tablones de anuncios o, en su caso, en las páginas web de los centros del CER, y serán notificadas a los miembros de los Consejos Escolares pertenecientes a los sectores de padres, madres o tutores legales del alumnado, y de alumnos y alumnas de todos los centros del ámbito, al menos, cuarenta y ocho horas antes de las votaciones.
+9. Podrán actuar como personal supervisor de la votación los padres, las madres o las personas representantes del alumnado, así como los alumnos y las alumnas matriculados en centros del CER, conforme a lo establecido en los artículos 22, apartado 6, y 23, apartado 6, de la citada Orden de 12 de mayo de 2016. 10. El voto será directo, secreto y no delegable. Las candidaturas se publicarán en los tablones de anuncios o, en su caso, en las páginas web de los centros del CER, y serán notificadas a los miembros de los Consejos Escolares pertenecientes a los sectores de padres, madres o tutores legales del alumnado, y de alumnos y alumnas de todos los centros del ámbito, al menos, cuarenta y ocho horas antes de las votaciones.
 
 11. Cada persona electora perteneciente al sector de padres, madres o representantes legales del alumnado hará constar en su papeleta, como máximo, tantos nombres como puestos a cubrir.
 
@@ -198,9 +192,7 @@ y el maestro o la maestra que desempeñan funciones de secretario o secretaria d
 
 11. Cada elector o electora hará constar en su papeleta, como máximo, tantos nombres como puestos a cubrir. Serán elegidos los maestros y las maestras con mayor número de votos.
 
-12. Si en la primera votación no hubiese resultado elegido el número de maestros y maestras que corresponda, se procederá a realizar en el mismo acto una segunda votación para alcanzar dicho número, una vez considerados los desempates y sin perjuicio de lo dispuesto en el artículo 27 de la citada Orden de 12 de mayo de 2016.
-
-13. Concluida la elección, el secretario o la secretaria de la mesa hará llegar el acta con los resultados electorales a la junta electoral, que proclamará a las personas electas.
+12. Si en la primera votación no hubiese resultado elegido el número de maestros y maestras que corresponda, se procederá a realizar en el mismo acto una segunda votación para alcanzar dicho número, una vez considerados los desempates y sin perjuicio de lo dispuesto en el artículo 27 de la citada Orden de 12 de mayo de 2016. 13. Concluida la elección, el secretario o la secretaria de la mesa hará llegar el acta con los resultados electorales a la junta electoral, que proclamará a las personas electas.
 
 #### Duodécimo. Escrutinio de votos y elaboración de las actas.
 

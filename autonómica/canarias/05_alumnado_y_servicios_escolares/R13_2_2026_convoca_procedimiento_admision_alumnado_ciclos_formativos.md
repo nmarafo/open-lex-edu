@@ -1,7 +1,14 @@
 ---
 id: norm-can-res-boc-2026-039-102
 codigo_sintetizado: Resolucion BOC 102
-titulo: Resolución de 13 de febrero de 2026, por la que se convoca el procedimiento de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) y de los cursos de especialización de Grado Medio y Superior (Grados E, niveles 2 y 3, respectivamente) de todas las Enseñanzas de Formación Profesional autorizadas, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Deportivas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas de Idiomas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027.
+titulo: Resolución de 13 de febrero de 2026, por la que se convoca el procedimiento
+  de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior
+  (Grado D, niveles 1, 2 y 3, respectivamente) y de los cursos de especialización
+  de Grado Medio y Superior (Grados E, niveles 2 y 3, respectivamente) de todas las
+  Enseñanzas de Formación Profesional autorizadas, Enseñanzas Profesionales de Artes
+  Plásticas y Diseño, Enseñanzas Deportivas, Enseñanzas Elementales y Profesionales
+  de Música y Enseñanzas de Idiomas en centros docentes sostenidos con fondos públicos
+  en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,62 +20,60 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión y escolarización del alumnado
 tags:
-  - admisi-n-y-escolarizaci-n-del-alumnado
-  - admision-alumnado
-  - cursos-especializacion
-  - ensenanzas-artisticas
-  - ensenanzas-deportivas
-  - eoi
-  - equipos-directivos
-  - formacion-profesional
-  - grado-medio
-  - profesorado
+- admisi-n-y-escolarizaci-n-del-alumnado
+- admision-alumnado
+- cursos-especializacion
+- ensenanzas-artisticas
+- ensenanzas-deportivas
+- eoi
+- equipos-directivos
+- formacion-profesional
+- grado-medio
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-d-9-2022
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-can-res-134
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-can-res-boc-2025-061-88
-    - norma_id: norm-can-res-boc-2026-039-103
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-d-9-2022
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-boc-2025-061-88
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-l-39-2015
   fundamento_de:
-    - norma_id: norm-can-res-099
-    - norma_id: norm-can-res-112
-    - norma_id: norm-can-res-boc-2026-039-103
-    - norma_id: norm-can-res-boc-2026-039-111
-    - norma_id: norm-can-res-boc-2026-073-113
-    - norma_id: norm-can-res-boc-2026-132-101
+  - norma_id: norm-can-res-099
+  - norma_id: norm-can-res-112
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-can-res-boc-2026-039-111
+  - norma_id: norm-can-res-boc-2026-073-113
+  - norma_id: norm-can-res-boc-2026-132-101
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-can-d-9-2022
-    - norma_id: norm-can-res-134
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-res-boc-2025-061-88
-    - norma_id: norm-can-res-boc-2026-039-103
+  - '1'
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-d-9-2022
+  - norma_id: norm-can-res-134
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-res-boc-2025-061-88
+  - norma_id: norm-can-res-boc-2026-039-103
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-039-642.pdf
 ---
-# Resolución de 13 de febrero de 2026, por la que se convoca el procedimiento de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) y de los cursos de especialización de Grado Medio y Superior (Grados E, niveles 2 y 3, respectivamente) de todas las Enseñanzas de Formación Profesional autorizadas, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Deportivas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas de Idiomas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027.
-
-## Preámbulo
+# Resolución de 13 de febrero de 2026, por la que se convoca el procedimiento de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) y de los cursos de especialización de Grado Medio y Superior (Grados E, niveles 2 y 3, respectivamente) de todas las Enseñanzas de Formación Profesional autorizadas, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Deportivas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas de Idiomas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027. ## Preámbulo
 
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes [Resolución de 13 de febrero de 2026](./R13_2_2026_dictan_instrucciones_proceso_admision_alumnado_ciclos.md), por la que se convoca el procedimiento de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) y de los cursos de especialización de Grado Medio y Superior (Grados E, niveles 2 y 3, respectivamente) de todas las Enseñanzas de Formación Profesional autorizadas, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Deportivas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas de Idiomas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027. Vista la necesidad de convocar el procedimiento de admisión del alumnado y publicar el calendario del mismo para cursar, en centros docentes sostenidos con fondos públicos, las enseñanzas de Formación Profesional tales como los ciclos formativos de Grado Básico, Medio y Superior (niveles 1, 2 y 3, respectivamente), las dobles titulaciones de formación profesional de los Grados D (niveles 2 y 3), los cursos de especialización denominados Grados E, en sus niveles 2 y 3, los cambios de centro o de modalidad en los segundos (2.º) o terceros (3.º) cursos de cada una de las enseñanzas, la modalidad bilingüe en los Grados D, niveles 2 y 3, Itinerarios Formativos de Formación Profesional Adaptada (IF+16/IF+21), Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Deportivas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas de Idiomas en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027, y teniendo en cuenta el siguiente ANTECEDENTE DE HECHO Único.- La Administración educativa debe convocar, para el curso 2026-2027, el procedimiento de admisión de aquel alumnado que se encuentre en los siguientes supuestos:
 a) Incorporación por primera vez a un centro para iniciar o continuar alguna de las enseñanzas no universitarias del sistema educativo.
@@ -96,16 +101,13 @@ Séptimo.- Las Resoluciones de la Dirección General de Formación Profesional y
 RESUELVO:
 Primero.- Aprobar las presentes instrucciones contenidas en esta Resolución que tiene por objeto publicar el procedimiento de admisión del alumnado, el calendario de aplicación y sus instrucciones básicas, en los centros docentes sostenidos con fondos públicos de
 
-las Enseñanzas de Formación Profesional siguientes: Grados D (niveles 1, 2 y 3), Grados E (niveles 2 y 3), dobles titulaciones de Formación Profesional de Grado D (niveles 2 y 3), en los segundos (2.º) o terceros (3.º) cursos para alumnado que desee cambiar de centro o de modalidad, enseñanzas impartidas en modalidad bilingüe en los Grados D (niveles 2 y 3), alumnado no escolarizado en el curso 2025/2026, Itinerarios Formativos de Formación Profesional Adaptada (IF+16/IF+21), alumnado de continuidad, y de las Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Deportivas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas de Idiomas en la Comunidad Autónoma de Canarias para el curso 2026-2027.
-Segundo.- Los centros educativos velarán durante todo el periodo que dure el procedimiento de admisión y matrícula por el cumplimiento de los calendarios establecidos y de las instrucciones que se recogen en esta Resolución.
+las Enseñanzas de Formación Profesional siguientes: Grados D (niveles 1, 2 y 3), Grados E (niveles 2 y 3), dobles titulaciones de Formación Profesional de Grado D (niveles 2 y 3), en los segundos (2.º) o terceros (3.º) cursos para alumnado que desee cambiar de centro o de modalidad, enseñanzas impartidas en modalidad bilingüe en los Grados D (niveles 2 y 3), alumnado no escolarizado en el curso 2025/2026, Itinerarios Formativos de Formación Profesional Adaptada (IF+16/IF+21), alumnado de continuidad, y de las Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Deportivas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas de Idiomas en la Comunidad Autónoma de Canarias para el curso 2026-2027. Segundo.- Los centros educativos velarán durante todo el periodo que dure el procedimiento de admisión y matrícula por el cumplimiento de los calendarios establecidos y de las instrucciones que se recogen en esta Resolución.
 Tercero.- Encomendar a la Inspección de Educación el asesoramiento sobre aquellos aspectos específicos que le soliciten los equipos directivos de los centros docentes y la supervisión del cumplimiento de esta Resolución.
 Cuarto.- Ordenar la publicación de las presentes instrucciones en el Boletín Oficial de Canarias y en la página web de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes para general conocimiento y su divulgación. Se encomienda a los equipos directivos de los centros docentes que desarrollen el procedimiento más adecuado para que la presente Resolución sea conocida y difundida entre los distintos sectores de la comunidad educativa. Contra el presente acto, que no pone fin a la vía administrativa, cabe interponer en el plazo de un (1) mes, a contar desde el día siguiente al de su publicación en el Boletín Oficial de Canarias, recurso de alzada ante la Viceconsejería de Formación Profesional y Cualificaciones Profesionales, sin perjuicio de cualquier otro que se estime procedente interponer. Las Palmas de Gran Canaria, a 13 de febrero de 2026.- La Directora General de Formación Profesional y Enseñanzas de Régimen Especial, Carolina León Martínez.
 
 ## Anexo
 
-PROCEDIMIENTO DE ADMISIÓN DEL ALUMNADO, CALENDARIO DE APLICACIÓN E INSTRUCCIONES BÁSICAS DE LAS ENSEÑANZAS DE FORMACIÓN PROFESIONAL AUTORIZADAS Y ENSEÑANZAS DE RÉGIMEN ESPECIAL PARA EL CURSO 2026/2027.
-
-#### Primera. Los calendarios para cada una de las enseñanzas recogidas en el primer resuelvo de esta Resolución serán los establecidos en los anexos siguientes:
+PROCEDIMIENTO DE ADMISIÓN DEL ALUMNADO, CALENDARIO DE APLICACIÓN E INSTRUCCIONES BÁSICAS DE LAS ENSEÑANZAS DE FORMACIÓN PROFESIONAL AUTORIZADAS Y ENSEÑANZAS DE RÉGIMEN ESPECIAL PARA EL CURSO 2026/2027. #### Primera. Los calendarios para cada una de las enseñanzas recogidas en el primer resuelvo de esta Resolución serán los establecidos en los anexos siguientes:
 
 ## Anexo
 

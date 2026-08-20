@@ -1,7 +1,8 @@
 ---
 id: norm-can-d-196-2022
 codigo_sintetizado: D196_2022 Ordenacion y Curriculo de Educacion Infantil en Canarias
-titulo: Decreto 196/2022, de 13 de octubre, por el que se establece la ordenación y el currículo de la Educación Infantil en la Comunidad Autónoma de Canarias.
+titulo: Decreto 196/2022, de 13 de octubre, por el que se establece la ordenación
+  y el currículo de la Educación Infantil en la Comunidad Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Gobierno de Canarias / Consejería de Educación
@@ -19,34 +20,31 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Infantil
 tags:
-  - curriculo
-  - curriculo-infantil
-  - ebep
-  - educaci-n-infantil
-  - educacion-infantil
-  - equipos-directivos
-  - oposiciones
-  - primer-ciclo
-  - procedimiento-administrativo
-  - roc
-  - segundo-ciclo
+- curriculo
+- curriculo-infantil
+- ebep
+- educaci-n-infantil
+- educacion-infantil
+- equipos-directivos
+- oposiciones
+- primer-ciclo
+- procedimiento-administrativo
+- roc
+- segundo-ciclo
 relaciones:
   desarrolla:
-    - norma_id: norm-es-rd-95-2022
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-95-2022
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '27'
-    - norma_id: norm-es-lo-2-2006
-  articulos:
-    - '6.5'
-    - '14'
-    - norma_id: norm-es-l-39-2015
+  - '6.5'
+  - '14'
+  - norma_id: norm-es-l-39-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-208-3159.pdf
 ---
 # Decreto 196/2022, de 13 de octubre, por el que se establece la ordenación y el currículo de la Educación Infantil en la Comunidad Autónoma de Canarias.

@@ -1,7 +1,9 @@
 ---
 id: norm-can-res-boc-2018-048-56
 codigo_sintetizado: Resolucion BOC 56
-titulo: Resolución de 27 de febrero de 2018, por la que se determinan las características de las pruebas para la obtención del certificado de nivel C2 de enseñanzas de idiomas de régimen especial, en la Comunidad Autónoma de Canarias (BOC n.º 48, de 8 de marzo).
+titulo: Resolución de 27 de febrero de 2018, por la que se determinan las características
+  de las pruebas para la obtención del certificado de nivel C2 de enseñanzas de idiomas
+  de régimen especial, en la Comunidad Autónoma de Canarias (BOC n.º 48, de 8 de marzo).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,35 +15,35 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas de Idiomas
 tags:
-  - curriculo
-  - educacion-personas-adultas
-  - ense-anzas-de-idiomas
-  - eoi
-  - equipos-directivos
-  - formacion-profesional
+- curriculo
+- educacion-personas-adultas
+- ense-anzas-de-idiomas
+- eoi
+- equipos-directivos
+- formacion-profesional
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-135-2016
-    - norma_id: norm-can-d-212-1991
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-d-135-2016
-    - norma_id: norm-can-d-212-1991
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-048-1091.pdf
 ---
 # Resolución de 27 de febrero de 2018, por la que se determinan las características de las pruebas para la obtención del certificado de nivel C2 de enseñanzas de idiomas de régimen especial, en la Comunidad Autónoma de Canarias (BOC n.º 48, de 8 de marzo).
@@ -50,13 +52,10 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-048-1091.
 
 Primero.- Anualmente se convocan pruebas para la obtención de los certificados de enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Canarias.
 Segundo.- Estas pruebas, de carácter común y unificado, son elaboradas de acuerdo con unas instrucciones concretas, que determinan la estructura general de la prueba, el formato, el calendario de elaboración, así como los procesos de validación y revisión que garantizan la fiabilidad de las pruebas.
-Tercero.- Esas instrucciones también definen las características de cada una de las partes de la prueba en relación con los niveles hasta ahora convocados: nivel básico, nivel intermedio, nivel avanzado y nivel C1.
-Cuarto.- En el curso 2017/2018 ha comenzado a impartirse en las Escuelas Oficiales de Idiomas el nivel C2. Puesto que hasta ahora no han sido convocadas pruebas para la obtención del certificado de especialización de este nivel, queda por definir las características concretas de las pruebas en relación con este nivel C2. A los anteriores hechos les son de aplicación los siguientes FUNDAMENTOS DE DERECHO
-Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación (BOE nº 106, de 4 de mayo de 2006), en la redacción actual dada por la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la mejora de la calidad educativa (BOE nº 295, de 10 de diciembre de 2013), regula en sus artículos 59, 60, 61 y 62 la ordenación de las enseñanzas de idiomas, estableciendo que estas enseñanzas se organizarán en tres niveles, que se corresponderán, respectivamente, con los niveles A, B y C del Marco Común Europeo de Referencia para las Lenguas, que se subdividen en los niveles A1, A2, B1, B2, C1 y C2.
-Segundo.- El Real Decreto 1041/2017, de 22 de diciembre, por el que se fijan las exigencias mínimas del nivel básico a efectos de certificación, se establece el currículo básico de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2, de las Página
+Tercero.- Esas instrucciones también definen las características de cada una de las partes de la prueba en relación con los niveles hasta ahora convocados: nivel básico, nivel intermedio, nivel avanzado y nivel C1. Cuarto.- En el curso 2017/2018 ha comenzado a impartirse en las Escuelas Oficiales de Idiomas el nivel C2. Puesto que hasta ahora no han sido convocadas pruebas para la obtención del certificado de especialización de este nivel, queda por definir las características concretas de las pruebas en relación con este nivel C2. A los anteriores hechos les son de aplicación los siguientes FUNDAMENTOS DE DERECHO
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación (BOE nº 106, de 4 de mayo de 2006), en la redacción actual dada por la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la mejora de la calidad educativa (BOE nº 295, de 10 de diciembre de 2013), regula en sus artículos 59, 60, 61 y 62 la ordenación de las enseñanzas de idiomas, estableciendo que estas enseñanzas se organizarán en tres niveles, que se corresponderán, respectivamente, con los niveles A, B y C del Marco Común Europeo de Referencia para las Lenguas, que se subdividen en los niveles A1, A2, B1, B2, C1 y C2. Segundo.- El Real Decreto 1041/2017, de 22 de diciembre, por el que se fijan las exigencias mínimas del nivel básico a efectos de certificación, se establece el currículo básico de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2, de las Página
 
-Enseñanzas de idiomas de régimen especial reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y se establecen las equivalencias entre las enseñanzas de idiomas de régimen especial reguladas en diversos planes de estudios (BOE nº 311, de 23 de diciembre de 2017), a los efectos de la certificación, fija las exigencias mínimas de nivel básico y el currículo de los niveles intermedio B1, B2 y avanzado C1 y C2.
-Tercero.- El Decreto 362/2007, de 2 de octubre, por el que se establece la ordenación de las enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Canarias (BOC nº 205, de 15 de octubre de 2007), dedica los artículos 15 y 16 a los cursos de especialización y actualización y su
+Enseñanzas de idiomas de régimen especial reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y se establecen las equivalencias entre las enseñanzas de idiomas de régimen especial reguladas en diversos planes de estudios (BOE nº 311, de 23 de diciembre de 2017), a los efectos de la certificación, fija las exigencias mínimas de nivel básico y el currículo de los niveles intermedio B1, B2 y avanzado C1 y C2. Tercero.- El Decreto 362/2007, de 2 de octubre, por el que se establece la ordenación de las enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Canarias (BOC nº 205, de 15 de octubre de 2007), dedica los artículos 15 y 16 a los cursos de especialización y actualización y su
 
 #### Artículo 14. a las.
 
@@ -77,9 +76,7 @@ RESOLUCIÓN DE LA DIRECCIÓN GENERAL DE FORMACIÓN PROFESIONAL Y EDUCACIÓN DE A
 
 CARACTERÍSTICAS DE LAS PRUEBAS PARA LA OBTENCIÓN DEL CERTIFICADO DE NIVEL C2 DE ENSEÑANZAS DE IDIOMAS DE RÉGIMEN ESPECIAL, EN LA COMUNIDAD AUTÓNOMA DE CANARIAS.
 
-1. Definición de las pruebas de certificación de nivel C2.
-
-2. Características generales de las técnicas e instrumentos de evaluación.
+1. Definición de las pruebas de certificación de nivel C2. 2. Características generales de las técnicas e instrumentos de evaluación.
 
 3. Estructura de las pruebas:
 
@@ -94,15 +91,11 @@ CARACTERÍSTICAS DE LAS PRUEBAS PARA LA OBTENCIÓN DEL CERTIFICADO DE NIVEL C2 D
 1. Definición de las pruebas de certificación de nivel C2. Las pruebas objeto de esta resolución conducen a la obtención del certificado de especialización RESOLUCIÓN DE LA DIRECCIÓN GENERAL DE FORMACIÓN PROFESIONAL Y EDUCACIÓN DE ADULTOS POR LA QUE SE DETERMINAN LAS CARACTERÍSTICAS DE LAS PRUEBAS PARA LA OBTENCIÓN DEL CERTIFICADO DE NIVEL C2 DE ENSEÑANZAS DE IDIOMAS DE RÉGIMEN ESPECIAL, EN LA COMUNIDAD AUTÓNOMA DE CANARIAS. de nivel C2 de enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Ca - narias. Las pruebas de certificación de nivel C2 tiene como finalidad evaluar la capacidad del alumnado aspirante para usar el idioma con flexibilidad, eficacia y precisión en todo tipo de si - tuaciones, en los ámbitos personal, público, académico y profesional, que requieran compren - der, producir y procesar textos orales y escritos extensos y complejos, en diversas variedades estándares de la lengua, con un repertorio léxico amplio, y que versen sobre temas tanto abstractos como concretos, incluso aquellos con los que el hablante no esté familiarizado. La posesión del certificado de especialización de nivel C2 acredita una competencia de idioma del nivel C2 del Marco Común Europeo de Referencia para las Lenguas: aprendizaje, enseñanza y evaluación (MCERL), del Consejo de Europa.
 
 2. Características generales de las técnicas e instrumentos de evaluación. Las pruebas de certificación han de permitir la obtención de la información necesaria para conocer el dominio alcanzado en el idioma por la persona aspirante. Para ello se utilizarán técnicas e instrumentos viables, eficaces y fiables que han de cumplir, entre otras, las siguientes características:
-• Comprender los objetivos y contenidos más significativos del nivel C2.
-• Adecuarse a la naturaleza diversa de los contenidos del nivel C2.
-• Permitir la graduación del dominio alcanzado en cada una de las destrezas.
+• Comprender los objetivos y contenidos más significativos del nivel C2. • Adecuarse a la naturaleza diversa de los contenidos del nivel C2. • Permitir la graduación del dominio alcanzado en cada una de las destrezas.
 • Permitir la asociación de escalas numéricas a valoraciones cualitativas. RESOLUCIÓN DE LA DIRECCIÓN GENERAL DE FORMACIÓN PROFESIONAL Y EDUCACIÓN DE ADULTOS POR LA QUE SE DETERMINAN LAS CARACTERÍSTICAS DE LAS PRUEBAS PARA LA OBTENCIÓN DEL CERTIFICADO DE NIVEL C2 DE ENSEÑANZAS DE IDIOMAS DE RÉGIMEN ESPECIAL, EN LA COMUNIDAD AUTÓNOMA DE CANARIAS. de nivel C2 de enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Ca - narias. Las pruebas de certificación de nivel C2 tiene como finalidad evaluar la capacidad del alumnado aspirante para usar el idioma con flexibilidad, eficacia y precisión en todo tipo de si - tuaciones, en los ámbitos personal, público, académico y profesional, que requieran compren - der, producir y procesar textos orales y escritos extensos y complejos, en diversas variedades estándares de la lengua, con un repertorio léxico amplio, y que versen sobre temas tanto abstractos como concretos, incluso aquellos con los que el hablante no esté familiarizado. La posesión del certificado de especialización de nivel C2 acredita una competencia de idioma del nivel C2 del Marco Común Europeo de Referencia para las Lenguas: aprendizaje, enseñanza y evaluación (MCERL), del Consejo de Europa.
 
 2. Características generales de las técnicas e instrumentos de evaluación. Las pruebas de certificación han de permitir la obtención de la información necesaria para conocer el dominio alcanzado en el idioma por la persona aspirante. Para ello se utilizarán técnicas e instrumentos viables, eficaces y fiables que han de cumplir, entre otras, las siguientes características:
-• Comprender los objetivos y contenidos más significativos del nivel C2.
-• Adecuarse a la naturaleza diversa de los contenidos del nivel C2.
-• Permitir la graduación del dominio alcanzado en cada una de las destrezas.
+• Comprender los objetivos y contenidos más significativos del nivel C2. • Adecuarse a la naturaleza diversa de los contenidos del nivel C2. • Permitir la graduación del dominio alcanzado en cada una de las destrezas.
 • Permitir la asociación de escalas numéricas a valoraciones cualitativas. RESOLUCIÓN DE LA DIRECCIÓN GENERAL DE FORMACIÓN PROFESIONAL Y EDUCACIÓN DE ADULTOS POR LA QUE SE DETERMINAN LAS CARACTERÍSTICAS DE LAS PRUEBAS PARA LA OBTENCIÓN DEL CERTIFICADO DE NIVEL C2 DE ENSEÑANZAS DE IDIOMAS DE RÉGIMEN ESPECIAL, EN LA COMUNIDAD AUTÓNOMA DE CANARIAS.
 • Adecuarse al carácter propio de cada una de las destrezas.
 • Medir el grado de dominio de los distintos aspectos de cada contenido planteado.

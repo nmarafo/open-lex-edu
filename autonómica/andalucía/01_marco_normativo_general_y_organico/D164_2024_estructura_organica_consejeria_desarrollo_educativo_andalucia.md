@@ -1,10 +1,14 @@
 ---
 id: norm-and-d-164-2024
-codigo_sintetizado: D164_2024 Estructura Organica Consejeria Desarrollo Educativo Andalucia
-titulo: Decreto 164/2024, de 26 de agosto, por el que se establece la estructura orgánica de la Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía.
+codigo_sintetizado: D164_2024 Estructura Organica Consejeria Desarrollo Educativo
+  Andalucia
+titulo: Decreto 164/2024, de 26 de agosto, por el que se establece la estructura orgánica
+  de la Consejería de Desarrollo Educativo y Formación Profesional de la Junta de
+  Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 164/2024
 fecha_disposicion: '2024-08-26'
@@ -18,19 +22,19 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Estructura de la Consejería
 tags:
-  - estructura_organica
-  - consejeria_desarrollo_educativo
-  - junta_de_andalucia
-  - andalucia
+- estructura_organica
+- consejeria_desarrollo_educativo
+- junta_de_andalucia
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
 ---
 # Decreto 164/2024, de 26 de agosto, por el que se establece la estructura orgánica de la Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía.
 
@@ -83,9 +87,7 @@ d) El Observatorio para la Convivencia Escolar en Andalucía, a través de la Di
 
 1. La suplencia de la persona titular de la Consejería le corresponde a la persona titular de la Viceconsejería, sin perjuicio de lo dispuesto en el artículo 27.1.b) de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía.
 
-2. En caso de producirse vacante, ausencia o enfermedad de la persona titular de la Viceconsejería, ésta será suplida por la persona titular de la Secretaría General de Formación Profesional y, en su defecto, por la persona titular del órgano directivo que corresponda según el orden establecido en el artículo 2.1.
-
-3. En caso de vacante, ausencia o enfermedad de la persona titular de la Secretaría General Técnica, ésta será suplida por la persona titular de la Viceconsejería.
+2. En caso de producirse vacante, ausencia o enfermedad de la persona titular de la Viceconsejería, ésta será suplida por la persona titular de la Secretaría General de Formación Profesional y, en su defecto, por la persona titular del órgano directivo que corresponda según el orden establecido en el artículo 2.1. 3. En caso de vacante, ausencia o enfermedad de la persona titular de la Secretaría General Técnica, ésta será suplida por la persona titular de la Viceconsejería.
 
 4. En los casos de vacante, ausencia o enfermedad de la persona titular de la Secretaría General de Formación Profesional, corresponderá la suplencia a la persona titular de la Dirección General de Formación Profesional y Educación Permanente.
 

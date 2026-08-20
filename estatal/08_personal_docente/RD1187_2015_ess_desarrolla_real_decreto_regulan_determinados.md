@@ -1,10 +1,14 @@
 ---
 id: norm-es-2015-6839
 codigo_sintetizado: BOE-A-2015-6839
-titulo: Orden ESS/1187/2015, de 15 de junio, por la que se desarrolla el Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración.
+titulo: Orden ESS/1187/2015, de 15 de junio, por la que se desarrolla el Real Decreto
+  625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión
+  y control de los procesos por incapacidad temporal en los primeros trescientos sesenta
+  y cinco días de su duración.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2015-06-20'
 boletin: BOE
@@ -15,26 +19,23 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Salud laboral y vigilancia
 tags:
-  - personal-no-docente
-  - prevencion-riesgos-laborales
-  - salud-laboral-y-vigilancia
+- personal-no-docente
+- prevencion-riesgos-laborales
+- salud-laboral-y-vigilancia
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-2014-7684
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2014-7684
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
   fundamento_de:
-    - norma_id: norm-es-2014-7684
+  - norma_id: norm-es-2014-7684
   fundamentos_derecho:
-    - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rd-276-2007
   articulos:
-    - '1'
-    - norma_id: norm-es-rdl-5-2015
-  articulos:
-    - '1'
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-2014-7684
+  - '1'
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2014-7684
 ---
 # Orden ESS/1187/2015, de 15 de junio, por la que se desarrolla el Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración.
 
@@ -158,9 +159,7 @@ El Instituto Nacional de la Seguridad Social o el Instituto Social de la Marina,
 
 Si la entidad gestora considera que no procede el alta solicitada por la mutua, se lo comunicará a esta por vía telemática, de manera inmediata y, en todo caso, en el primer día hábil siguiente a aquel en que se hubiera adoptado dicha decisión.
 
-Si la entidad gestora considera que procede el alta solicitada por la mutua, expedirá el correspondiente parte, conforme a lo indicado en el apartado 1 de este artículo. La tramitación y comunicación del citado parte se hará, igualmente, conforme a lo señalado en el apartado 1.
-
-3. Cuando en un proceso de incapacidad temporal se haya expedido el parte médico de alta por el Instituto Nacional de la Seguridad Social o, en su caso, por el Instituto Social de la Marina, a través de los inspectores médicos adscritos a dichas entidades, estas serán las únicas competentes para emitir a través de dichos inspectores una nueva baja por la misma o similar patología, durante los ciento ochenta días naturales siguientes a la fecha en que se expidió el alta, utilizando para ello el modelo del anexo I. Tales bajas serán comunicadas al Servicio Público de Salud así como a la mutua cuando le corresponda la cobertura de la prestación económica. En esos casos, el control de la situación se llevará a cabo, a partir de ese momento, directamente por el Instituto Nacional de la Seguridad Social o el Instituto Social de la Marina, sin que proceda la expedición de partes de confirmación.
+Si la entidad gestora considera que procede el alta solicitada por la mutua, expedirá el correspondiente parte, conforme a lo indicado en el apartado 1 de este artículo. La tramitación y comunicación del citado parte se hará, igualmente, conforme a lo señalado en el apartado 1. 3. Cuando en un proceso de incapacidad temporal se haya expedido el parte médico de alta por el Instituto Nacional de la Seguridad Social o, en su caso, por el Instituto Social de la Marina, a través de los inspectores médicos adscritos a dichas entidades, estas serán las únicas competentes para emitir a través de dichos inspectores una nueva baja por la misma o similar patología, durante los ciento ochenta días naturales siguientes a la fecha en que se expidió el alta, utilizando para ello el modelo del anexo I. Tales bajas serán comunicadas al Servicio Público de Salud así como a la mutua cuando le corresponda la cobertura de la prestación económica. En esos casos, el control de la situación se llevará a cabo, a partir de ese momento, directamente por el Instituto Nacional de la Seguridad Social o el Instituto Social de la Marina, sin que proceda la expedición de partes de confirmación.
 
 ## Capítulo IV. Normas comunes sobre tramitación de los partes médicos de baja/alta y confirmación.
 
@@ -202,9 +201,7 @@ Los modelos de las copias de los partes médicos en soporte papel deberán ser c
 
 En los procesos de incapacidad temporal en los que proceda el pago directo del subsidio por la entidad gestora o colaboradora, corresponderá a los interesados presentar ante la misma los partes médicos de baja/alta o de confirmación, utilizando para ello la copia destinada a la empresa.
 
-La presentación de los indicados partes se efectuará, como máximo, en los plazos indicados en el artículo 10.2.
-
-#### Artículo 13. Tramitación por el Instituto Nacional de la Seguridad Social.
+La presentación de los indicados partes se efectuará, como máximo, en los plazos indicados en el artículo 10.2. #### Artículo 13. Tramitación por el Instituto Nacional de la Seguridad Social.
 
 El Instituto Nacional de la Seguridad Social dará el trámite que corresponda a los partes médicos de baja/alta y confirmación destinados a él mismo. Tratándose de procesos derivados de contingencia común, el Instituto Nacional de la Seguridad Social transmitirá al Instituto Social de la Marina, o a la mutua correspondiente, de manera inmediata y en todo caso en el primer día hábil siguiente al de su recepción, los partes médicos de baja/alta y de confirmación de los trabajadores respecto de los que cubran la prestación económica por incapacidad temporal derivada de las indicadas contingencias.
 

@@ -1,10 +1,12 @@
 ---
 id: norm-es-1991-342
 codigo_sintetizado: BOE-A-1991-342
-titulo: Ley 1/1991, de 7 de enero, de modificación de los Códigos Civil y Penal en materia de responsabilidad civil del profesorado.
+titulo: Ley 1/1991, de 7 de enero, de modificación de los Códigos Civil y Penal en
+  materia de responsabilidad civil del profesorado.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1991-01-08'
 boletin: BOE
@@ -15,18 +17,18 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Empleados públicos
 tags:
-  - empleados-p-blicos
-  - igualdad-genero
-  - profesorado
-  - proteccion-menores
+- empleados-p-blicos
+- igualdad-genero
+- profesorado
+- proteccion-menores
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - '1'
-    - '2.1'
+  - '1'
+  - '2.1'
 ---
 # Ley 1/1991, de 7 de enero, de modificación de los Códigos Civil y Penal en materia de responsabilidad civil del profesorado.
 
@@ -44,9 +46,7 @@ El régimen de responsabilidad que para los profesores y maestros establecen los
 
 Ello induce a modificar el régimen de responsabilidad a fin de establecer que quien responda de los daños ocasionados por sus alumnos sean las personas o entidades titulares de los centros, que son quienes deben adoptar las correspondientes medidas de organización, sin perjuicio de que en supuestos tasados, y a ello obedece la reforma del artículo 1.904 del Código Civil, el titular puede reclamar al personal docente la cantidad satisfecha.
 
-#### Artículo 1.
-
-Se modifica el artículo 22 l.
+#### Artículo 1. Se modifica el artículo 22 l.
 
 Código Penal, que queda redactado del modo siguiente:
 
@@ -54,15 +54,11 @@ Código Penal, que queda redactado del modo siguiente:
 
 Igualmente, será extensiva dicha responsabilidad subsidiaria a las personas o entidades que sean titulares de un Centro docente de enseñanza no superior, por los delitos o faltas en que hubiesen incurrido los alumnos del mismo, menores de dieciocho años, durante los periodos en que dichos alumnos se hallen bajo el control o vigilancia del profesorado del Centro, desarrollando actividades escolares o extraescolares y complementarias.»
 
-#### Artículo 2.
-
-Se suprime el párrafo quinto del artículo 1.903 del Código Civil. El párrafo sexto de dicho artículo queda redactado en los siguientes términos:
+#### Artículo 2. Se suprime el párrafo quinto del artículo 1.903 del Código Civil. El párrafo sexto de dicho artículo queda redactado en los siguientes términos:
 
 «Las personas o entidades que sean titulares de un Centro docente de enseñanza no superior responderán por los daños y perjuicios que causen sus alumnos menores de edad durante los períodos de tiempo en que los mismos se hallen bajo el control o vigilancia del profesorado del Centro, desarrollando actividades escolares o extraescolares y complementarias.»
 
-#### Artículo 3.
-
-El artículo 1.904 del Código Civil tendrá la siguiente redacción:
+#### Artículo 3. El artículo 1.904 del Código Civil tendrá la siguiente redacción:
 
 «El que paga el daño causado por sus dependientes puede repetir de éstos lo que hubiese satisfecho.
 
@@ -72,9 +68,7 @@ Por tanto,
 
 Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
 
-Madrid, 7 de enero de 1991.
-
-JUAN CARLOS R.
+Madrid, 7 de enero de 1991. JUAN CARLOS R.
 
 El Presidente del Gobierno,
 

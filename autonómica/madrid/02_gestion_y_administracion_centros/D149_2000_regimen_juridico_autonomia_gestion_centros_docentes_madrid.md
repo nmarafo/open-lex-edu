@@ -1,6 +1,8 @@
 ---
 id: norm-mad-d149-2000
-titulo: Decreto 149/2000, de 22 de junio, por el que se regula el régimen jurídico de la autonomía de gestión de los centros docentes públicos no universitarios de la Comunidad de Madrid
+titulo: Decreto 149/2000, de 22 de junio, por el que se regula el régimen jurídico
+  de la autonomía de gestión de los centros docentes públicos no universitarios de
+  la Comunidad de Madrid
 jurisdiccion: Madrid
 ambito: Autonómico
 organo_emisor: Consejería de Educación de la Comunidad de Madrid
@@ -18,22 +20,22 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Autonomía de gestión y presupuestos
 tags:
-  - autonomia_de_gestion
-  - gestion_economica
-  - centros_publicos
-  - presupuesto_escolar
-  - comunidad_de_madrid
+- autonomia_de_gestion
+- gestion_economica
+- centros_publicos
+- presupuesto_escolar
+- comunidad_de_madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
 ---
 # Decreto 149/2000, de 22 de junio, por el que se regula el régimen jurídico de la autonomía de gestión de los centros docentes públicos no universitarios de la Comunidad de Madrid
 

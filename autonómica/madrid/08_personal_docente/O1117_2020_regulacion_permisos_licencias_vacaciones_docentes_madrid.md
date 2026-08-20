@@ -1,10 +1,12 @@
 ---
 id: norm-mad-o-1117-2020
 codigo_sintetizado: O1117_2020 Permisos Licencias Vacaciones Personal Docente Madrid
-titulo: Orden 1117/2020, de 29 de mayo, sobre permisos y licencias por conciliación del personal docente.
+titulo: Orden 1117/2020, de 29 de mayo, sobre permisos y licencias por conciliación
+  del personal docente.
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
 numero_disposicion: 1117/2020
 fecha_disposicion: '2020-05-29'
@@ -18,19 +20,19 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Personal docente
 tags:
-  - permisos_docentes
-  - conciliacion
-  - licencias
-  - madrid
+- permisos_docentes
+- conciliacion
+- licencias
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
   fundamentado_en:
-    - norma_id: norm-mad-d-29-2013
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
 ---
 # Orden 1117/2020, de 29 de mayo, sobre permisos y licencias por conciliación del personal docente.
 

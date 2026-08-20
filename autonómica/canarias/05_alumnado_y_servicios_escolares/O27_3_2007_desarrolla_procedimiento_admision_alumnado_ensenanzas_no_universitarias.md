@@ -163,9 +163,7 @@ Juzgado de Primera Instancia nº 10 de Las Palmas de Gran Canaria
 
 Edicto de 12 de marzo de 2007, relativo al fallo de la sentencia recaída en los autos de
 
-juicio ordinario nº 0000958/2004.
-
-y en uso de la habilitación prevista en la
+juicio ordinario nº 0000958/2004. y en uso de la habilitación prevista en la
 
 #### Disposición
 
@@ -797,17 +795,7 @@ va, previamente al cálculo de la nota media se apli-
 
 cará la siguiente conversión:
 
-- Insuficiente: 4.
-
-- Suficiente: 5.
-
-- Bien: 6.
-
-- Notable: 7.
-
-- Sobresaliente: 9.
-
-b) Se utilizará como documento válido la certifi-
+- Insuficiente: 4. - Suficiente: 5. - Bien: 6. - Notable: 7. - Sobresaliente: 9. b) Se utilizará como documento válido la certifi-
 
 cación oficial del centro en el que haya cursado sus
 
@@ -875,9 +863,7 @@ loración de las pruebas de acceso a grado medio vi-
 
 niera expresada con la calificación de apto, se otorgará
 
-una puntuación de 5.
-
-#### Artículo 10. Atribuciones de los consejos esco-
+una puntuación de 5. #### Artículo 10. Atribuciones de los consejos esco-
 
 lares o de los titulares.
 
@@ -1795,9 +1781,7 @@ neral en la presente Orden podrán ser modificados a
 
 través de las convocatorias del procedimiento de ad-
 
-misión para el curso escolar 2007/2008.
-
-#### DISPOSICIÓN DEROGATORIA
+misión para el curso escolar 2007/2008. #### DISPOSICIÓN DEROGATORIA
 
 Queda derogada toda norma de igual o inferior ran-. go que se oponga o contradiga lo dispuesto en la pre-
 
@@ -1819,9 +1803,7 @@ guiente al de su publicación en el Boletín Oficial de
 
 Canarias.
 
-Santa Cruz de Tenerife, a 27 de marzo de 2007.
-
-EL CONSEJERO DE EDUCACIÓN,
+Santa Cruz de Tenerife, a 27 de marzo de 2007. EL CONSEJERO DE EDUCACIÓN,
 
 CULTURA Y DEPORTES,
 

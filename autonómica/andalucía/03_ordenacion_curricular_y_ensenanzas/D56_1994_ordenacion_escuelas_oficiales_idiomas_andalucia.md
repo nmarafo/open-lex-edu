@@ -1,10 +1,12 @@
 ---
 id: norm-and-d-56-1994
 codigo_sintetizado: D56_1994 Ordenacion Escuelas Oficiales Idiomas Andalucia
-titulo: Decreto 56/1994, de 1 de marzo, por el que se establece la ordenación de las Enseñanzas de Idiomas de Régimen Especial en la Comunidad Autónoma de Andalucía.
+titulo: Decreto 56/1994, de 1 de marzo, por el que se establece la ordenación de las
+  Enseñanzas de Idiomas de Régimen Especial en la Comunidad Autónoma de Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 56/1994
 fecha_disposicion: '1994-03-01'
@@ -18,17 +20,17 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas de Idiomas
 tags:
-  - eoi
-  - idiomas
-  - ensenanzas_especializadas
-  - andalucia
+- eoi
+- idiomas
+- ensenanzas_especializadas
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Decreto 56/1994, de 1 de marzo, por el que se establece la ordenación de las Enseñanzas de Idiomas de Régimen Especial en la Comunidad Autónoma de Andalucía.
 

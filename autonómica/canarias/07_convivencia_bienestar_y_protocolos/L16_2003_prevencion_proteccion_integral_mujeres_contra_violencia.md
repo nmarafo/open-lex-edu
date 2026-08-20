@@ -1,7 +1,9 @@
 ---
 id: norm-can-l-16-2003
-codigo_sintetizado: L16_2003 Prevencion y Proteccion de Mujeres contra la Violencia de Genero
-titulo: Ley 16/2003, de 8 de abril, de Prevención y Protección Integral de las Mujeres contra la Violencia de Género.
+codigo_sintetizado: L16_2003 Prevencion y Proteccion de Mujeres contra la Violencia
+  de Genero
+titulo: Ley 16/2003, de 8 de abril, de Prevención y Protección Integral de las Mujeres
+  contra la Violencia de Género.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Parlamento de Canarias / Gobierno de Canarias
@@ -19,32 +21,32 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Protocolos de actuación y protección
 tags:
-  - autonomia-centro
-  - coeducacion
-  - convivencia
-  - convivencia-escolar
-  - evaluacion
-  - igualdad-genero
-  - prevencion-riesgos-laborales
-  - proteccion-menores
-  - proteccion-mujeres
-  - protocolos-de-actuaci-n-y-protecci-n
-  - violencia-genero
+- autonomia-centro
+- coeducacion
+- convivencia
+- convivencia-escolar
+- evaluacion
+- igualdad-genero
+- prevencion-riesgos-laborales
+- proteccion-menores
+- proteccion-mujeres
+- protocolos-de-actuaci-n-y-protecci-n
+- violencia-genero
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-1-2004
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-lo-1-2004
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
   fundamentado_en:
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-8-2021
-    - norma_id: norm-es-lo-1-1996
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-can-l-6-2014
   fundamentos_derecho:
-    - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-lo-1-2018
   articulos:
-    - '16'
+  - '16'
 ---
 # Ley 16/2003, de 8 de abril, de Prevención y Protección Integral de las Mujeres contra la Violencia de Género.
 
@@ -750,9 +752,7 @@ La presente Ley entrará en vigor a los veinte días siguientes al de su publica
 
 Por tanto mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
 
-Las Palmas de Gran Canaria, 8 de abril de 2003.
-
-ROMÁN RODRÍGUEZ RODRÍGUEZ,
+Las Palmas de Gran Canaria, 8 de abril de 2003. ROMÁN RODRÍGUEZ RODRÍGUEZ,
 
 Presidente
 

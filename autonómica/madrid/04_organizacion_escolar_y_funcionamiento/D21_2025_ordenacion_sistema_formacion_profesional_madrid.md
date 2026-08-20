@@ -1,9 +1,11 @@
 ---
 id: norm-mad-d21-2025
-titulo: Decreto 21/2025, de 21 de mayo, por el que se establece la ordenación del Sistema de Formación Profesional en la Comunidad de Madrid
+titulo: Decreto 21/2025, de 21 de mayo, por el que se establece la ordenación del
+  Sistema de Formación Profesional en la Comunidad de Madrid
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Decreto
 numero_disposicion: 21/2025
 fecha_disposicion: '2025-05-21'
@@ -18,21 +20,21 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Formación Profesional
 tags:
-  - formacion_profesional
-  - fp_dual
-  - grados_a_e
-  - comunidad_de_madrid
+- formacion_profesional
+- fp_dual
+- grados_a_e
+- comunidad_de_madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-mad-d-29-2013
 ---
 # Decreto 21/2025, de 21 de mayo, por el que se establece la ordenación del Sistema de Formación Profesional en la Comunidad de Madrid
 
@@ -46,65 +48,37 @@ A) Disposiciones Generales Consejería de Educación, Ciencia y Universidades 1 
 
 ### Disposiciones generales artículo 1 Objeto y ámbito de aplicación.
 
-#### Artículo 2.
+#### Artículo 2. Fines y objetivos.
 
-Fines y objetivos.
-
-#### Artículo 3.
-
-Ejes principales del Sistema de Formación Profesional de la Comunidad de Madrid.
+#### Artículo 3. Ejes principales del Sistema de Formación Profesional de la Comunidad de Madrid.
 
 ## Capítulo II. Ordenación de la oferta del Sistema de Formación Profesional.
 
 #### Artículo 4. Oferta del Sistema de Formación Profesional.
 
-#### Artículo 5.
+#### Artículo 5. Currículo.
 
-Currículo.
+#### Artículo 6. Oferta de Grado A. Acreditación parcial de competencia.
 
-#### Artículo 6.
+#### Artículo 7. Oferta de Grado B. Certificado de competencia.
 
-Oferta de Grado A. Acreditación parcial de competencia.
+#### Artículo 8. Oferta de Grado C. Certificado profesional.
 
-#### Artículo 7.
+#### Artículo 9. Oferta de Grado D. Ciclos formativos de grado básico.
 
-Oferta de Grado B. Certificado de competencia.
+#### Artículo 10. Duración y oferta de los ciclos formativos de grado básico.
 
-#### Artículo 8.
+#### Artículo 11. Oferta de Grado D. Ciclos formativos de grado medio y grado superior.
 
-Oferta de Grado C. Certificado profesional.
+#### Artículo 12. Optatividad del currículo de los ciclos formativos de grado medio y grado superior.
 
-#### Artículo 9.
+#### Artículo 13. Oferta de Grado E. Cursos de especialización.
 
-Oferta de Grado D. Ciclos formativos de grado básico.
+#### Artículo 14. Programas de especialización.
 
-#### Artículo 10.
+#### Artículo 15. Itinerarios integrados.
 
-Duración y oferta de los ciclos formativos de grado básico.
-
-#### Artículo 11.
-
-Oferta de Grado D. Ciclos formativos de grado medio y grado superior.
-
-#### Artículo 12.
-
-Optatividad del currículo de los ciclos formativos de grado medio y grado superior.
-
-#### Artículo 13.
-
-Oferta de Grado E. Cursos de especialización.
-
-#### Artículo 14.
-
-Programas de especialización.
-
-#### Artículo 15.
-
-Itinerarios integrados.
-
-#### Artículo 16.
-
-Dobles titulaciones.
+#### Artículo 16. Dobles titulaciones.
 
 ## Capítulo III. Modalidades, ofertas específicas y regímenes.
 
@@ -112,17 +86,11 @@ Dobles titulaciones.
 
 Modalidades.
 
-#### Artículo 17.
+#### Artículo 17. Modalidades de impartición.
 
-Modalidades de impartición.
+#### Artículo 18. Modalidad presencial.
 
-#### Artículo 18.
-
-Modalidad presencial.
-
-#### Artículo 19.
-
-Modalidades semipresencial y virtual.
+#### Artículo 19. Modalidades semipresencial y virtual.
 
 #### Artículo 20.
 
@@ -132,29 +100,17 @@ Atención tutorial en las modalidades semipresencial y virtual.
 
 Ofertas específicas.
 
-#### Artículo 21.
+#### Artículo 21. Oferta específica de formación modular.
 
-Oferta específica de formación modular.
+#### Artículo 22. Oferta específica dirigida a personas con necesidades educativas o formativas especiales.
 
-#### Artículo 22.
+#### Artículo 23. Oferta específica dirigida a personas con especiales dificultades formativas o de inserción laboral.
 
-Oferta específica dirigida a personas con necesidades educativas o formativas especiales.
-
-#### Artículo 23.
-
-Oferta específica dirigida a personas con especiales dificultades formativas o de inserción laboral.
-
-#### Artículo 24.
-
-Oferta específica dirigida a personas con necesidades de cualificación profesional de nivel 2.
-
-#### Sección 3. a
+#### Artículo 24. Oferta específica dirigida a personas con necesidades de cualificación profesional de nivel 2. #### Sección 3. a
 
 Regímenes.
 
-#### Artículo 25.
-
-Regímenes general e intensivo.
+#### Artículo 25. Regímenes general e intensivo.
 
 ## Capítulo IV. Acceso y admisión.
 
@@ -164,23 +120,15 @@ Acceso
 
 #### Artículo 26. Acceso a la oferta de Grado A y de Grado B.
 
-#### Artículo 27.
+#### Artículo 27. Acceso a la oferta de Grado C.
 
-Acceso a la oferta de Grado C.
+#### Artículo 28. Acceso a la oferta de Grado D. Ciclos formativos de grado básico.
 
-#### Artículo 28.
-
-Acceso a la oferta de Grado D. Ciclos formativos de grado básico.
-
-#### Artículo 29.
-
-Acceso a la oferta de Grado D. Ciclos formativos de grado medio.
+#### Artículo 29. Acceso a la oferta de Grado D. Ciclos formativos de grado medio.
 
 Pág. 12
 
-#### Artículo 31.
-
-Acceso a la oferta de Grado E. Cursos de especialización.
+#### Artículo 31. Acceso a la oferta de Grado E. Cursos de especialización.
 
 #### Sección 2. a
 
@@ -188,45 +136,29 @@ Admisión
 
 #### Artículo 32. Admisión en enseñanzas de formación profesional en centros sostenidos con fondos públicos.
 
-#### Artículo 33.
+#### Artículo 33. Aspectos a regular en los procedimientos de admisión en los grados D y E.
 
-Aspectos a regular en los procedimientos de admisión en los grados D y E.
+#### Artículo 34. Matrícula.
 
-#### Artículo 34.
-
-Matrícula.
-
-#### Artículo 35.
-
-Convalidaciones.
+#### Artículo 35. Convalidaciones.
 
 ## Capítulo V. Fase de formación en empresa u organismo equiparado.
 
 #### Artículo 36. Currículo y fase de formación en empresa u organismo equiparado.
 
-#### Artículo 37.
+#### Artículo 37. Aspectos generales.
 
-Aspectos generales.
+#### Artículo 38. Organización de la fase de formación en empresa u organismo equiparado.
 
-#### Artículo 38.
-
-Organización de la fase de formación en empresa u organismo equiparado.
-
-#### Artículo 39.
-
-Asignación de las estancias en empresa u organismo equiparado.
+#### Artículo 39. Asignación de las estancias en empresa u organismo equiparado.
 
 #### Artículo 40.
 
 Plan de formación.
 
-#### Artículo 41.
+#### Artículo 41. Periodo de realización.
 
-Periodo de realización.
-
-#### Artículo 42.
-
-Exención de la fase de formación en empresa u organismo equiparado.
+#### Artículo 42. Exención de la fase de formación en empresa u organismo equiparado.
 
 ## Capítulo VI. Evaluación. Acreditaciones y titulaciones.
 
@@ -234,77 +166,47 @@ Exención de la fase de formación en empresa u organismo equiparado.
 
 Evaluación.
 
-#### Artículo 43.
+#### Artículo 43. Aspectos generales de la evaluación.
 
-Aspectos generales de la evaluación.
+#### Artículo 44. Metodologías e instrumentos de evaluación.
 
-#### Artículo 44.
+#### Artículo 45. Adecuación de la evaluación a la metodología de aprendizaje.
 
-Metodologías e instrumentos de evaluación.
+#### Artículo 46. Calificaciones.
 
-#### Artículo 45.
+#### Artículo 47. Sesiones de evaluación.
 
-Adecuación de la evaluación a la metodología de aprendizaje.
+#### Artículo 48. Convocatorias, promoción y permanencia.
 
-#### Artículo 46.
-
-Calificaciones.
-
-#### Artículo 47.
-
-Sesiones de evaluación.
-
-#### Artículo 48.
-
-Convocatorias, promoción y permanencia.
-
-#### Artículo 49.
-
-Derechos de los alumnos en el proceso de evaluación.
+#### Artículo 49. Derechos de los alumnos en el proceso de evaluación.
 
 #### Artículo 50.
 
 Reconocimiento académico.
 
-#### Artículo 51.
-
-Documentos de evaluación.
+#### Artículo 51. Documentos de evaluación.
 
 #### Sección 2. a
 
 Acreditaciones, certificados y titulaciones de formación profesional.
 
-#### Artículo 52.
+#### Artículo 52. Acreditación parcial de competencia.
 
-Acreditación parcial de competencia.
+#### Artículo 53. Certificado de competencia.
 
-#### Artículo 53.
+#### Artículo 54. Certificado profesional.
 
-Certificado de competencia.
+#### Artículo 55. Títulos de formación profesional.
 
-#### Artículo 54.
-
-Certificado profesional.
-
-#### Artículo 55.
-
-Títulos de formación profesional.
-
-#### Artículo 56.
-
-Certificaciones académicas.
+#### Artículo 56. Certificaciones académicas.
 
 #### Sección 3. a
 
 Procedimiento de acreditación de competencias adquiridas a través de la experiencia laboral u otras vías no formales e informales.
 
-#### Artículo 57.
+#### Artículo 57. Finalidad y efectos.
 
-Finalidad y efectos.
-
-#### Artículo 58.
-
-Organización del procedimiento.
+#### Artículo 58. Organización del procedimiento.
 
 ### Capítulo VII. Centros del Sistema de Formación Profesional
 
@@ -312,45 +214,29 @@ Organización del procedimiento.
 
 Autorizaciones.
 
-#### Artículo 59.
-
-Centros del Sistema de Formación Profesional.
+#### Artículo 59. Centros del Sistema de Formación Profesional.
 
 #### Artículo 60.
 
 Autorización de centros privados.
 
-#### Artículo 61.
+#### Artículo 61. Autorización para impartir ofertas en las modalidades semipresencial y virtual.
 
-Autorización para impartir ofertas en las modalidades semipresencial y virtual.
-
-#### Artículo 62.
-
-Adscripciones.
+#### Artículo 62. Adscripciones.
 
 #### Sección 2. a
 
 Autonomía de los centros.
 
-#### Artículo 63.
+#### Artículo 63. Autonomía pedagógica, de organización y de gestión de los centros docentes autorizados a impartir la oferta de los grados D y E.
 
-Autonomía pedagógica, de organización y de gestión de los centros docentes autorizados a impartir la oferta de los grados D y E.
+#### Artículo 64. Proyectos de autonomía de los centros que imparten ofertas de grados C, D y E.
 
-#### Artículo 64.
+#### Artículo 65. Tutoría y orientación.
 
-Proyectos de autonomía de los centros que imparten ofertas de grados C, D y E.
+#### Artículo 66. Programación formativa de la oferta de los grados A, B y C.
 
-#### Artículo 65.
-
-Tutoría y orientación.
-
-#### Artículo 66.
-
-Programación formativa de la oferta de los grados A, B y C.
-
-#### Artículo 67.
-
-Programación didáctica de la oferta de los grados D y E.
+#### Artículo 67. Programación didáctica de la oferta de los grados D y E.
 
 Pág. 13
 
@@ -358,13 +244,9 @@ Pág. 13
 
 Internacionalización, innovación y emprendimiento.
 
-#### Artículo 68.
+#### Artículo 68. Internacionalización en los grados D y E.
 
-Internacionalización en los grados D y E.
-
-#### Artículo 69.
-
-Participación en programas internacionales.
+#### Artículo 69. Participación en programas internacionales.
 
 #### Artículo 70.
 
@@ -374,17 +256,13 @@ Proyectos de innovación y de emprendimiento.
 
 Planificación de la oferta en centros del sistema de formación profesional.
 
-#### Artículo 71.
-
-Planificación y programación de la oferta del Sistema de Formación Profesional.
+#### Artículo 71. Planificación y programación de la oferta del Sistema de Formación Profesional.
 
 ## Capítulo VIII. Orientación profesional y educativa.
 
 #### Artículo 72. Información y orientación profesional.
 
-#### Artículo 73.
-
-Orientación educativa y atención a las diferencias individuales.
+#### Artículo 73. Orientación educativa y atención a las diferencias individuales.
 
 ### Capítulo IX. Evaluación y calidad del Sistema de Formación Profesional de la Comunidad de Madrid artículo 74 Evaluación y calidad del Sistema de Formación Profesional de la Comunidad de Madrid.
 
@@ -554,9 +432,7 @@ Ofertas específicas
 
 #### Artículo 21. Oferta específica de formación modular
 
-1.
-
-La formación modular es una oferta formativa flexible a través de la cual es posible alcanzar competencias profesionales, así como actualizar, completar y adquirir conocimientos, habilidades y destrezas relacionados con un sector profesional específico, facilitando la compatibilidad de la formación con situaciones de necesidad y responsabilidad de carácter laboral o personal. 2. El currículo de los módulos que formen esta oferta específica y su duración será el establecido en el plan de estudios que lo contemple. No obstante, la formación modular podrá adaptarse a una organización específica que permita la compatibilidad laboral de los alumnos, esta organización contemplará una distribución temporal extraordinaria o jornadas diferenciadas, pudiéndose concentrar la carga lectiva modular en periodos compactos. En estos casos, los centros deberán contar con la autorización correspondiente, de acuerdo con el procedimiento que se establezca. 3. Los centros podrán solicitar autorización para ofertar la formación modular en los grados C, D y E. Los alumnos podrán realizar una matrícula parcial o inscripción en los módulos ofertados como formación modular, siempre que exista disponibilidad. 4. La formación modular está destinada a los mayores de dieciocho años, preferentemente a aquellos que, habiendo superado un procedimiento de acreditación de competencias profesionales, necesiten cursar uno o varios módulos profesionales para completar un grado de formación profesional. Asimismo, se destina a aquellas personas en posesión de un certificado profesional, un título de Técnico o de Técnico Superior que permita ser complementado y especializado con esta oferta modular, que corresponderá a un ciclo formativo u oferta diferente de la que dispone en su titulación o certificado. 5. Excepcionalmente, se permitirá el acceso a esta modalidad a las personas mayores de dieciséis y menores de dieciocho años incorporados al mercado laboral y en activo, siempre y cuando se considere que esta modalidad se ajusta mejor a sus características personales. 6. Asimismo, se permitirá el acceso a la formación modular a personas adultas con experiencia laboral que presenten especiales dificultades de inserción en el mercado de trabajo y necesiten cualificarse para mejorar su situación laboral. En el caso de que no se reúnan las condiciones académicas establecidas para el acceso a la formación, el centro acompañará a la persona en formación en el procedimiento de acreditación de competencias básicas que corresponda.
+1. La formación modular es una oferta formativa flexible a través de la cual es posible alcanzar competencias profesionales, así como actualizar, completar y adquirir conocimientos, habilidades y destrezas relacionados con un sector profesional específico, facilitando la compatibilidad de la formación con situaciones de necesidad y responsabilidad de carácter laboral o personal. 2. El currículo de los módulos que formen esta oferta específica y su duración será el establecido en el plan de estudios que lo contemple. No obstante, la formación modular podrá adaptarse a una organización específica que permita la compatibilidad laboral de los alumnos, esta organización contemplará una distribución temporal extraordinaria o jornadas diferenciadas, pudiéndose concentrar la carga lectiva modular en periodos compactos. En estos casos, los centros deberán contar con la autorización correspondiente, de acuerdo con el procedimiento que se establezca. 3. Los centros podrán solicitar autorización para ofertar la formación modular en los grados C, D y E. Los alumnos podrán realizar una matrícula parcial o inscripción en los módulos ofertados como formación modular, siempre que exista disponibilidad. 4. La formación modular está destinada a los mayores de dieciocho años, preferentemente a aquellos que, habiendo superado un procedimiento de acreditación de competencias profesionales, necesiten cursar uno o varios módulos profesionales para completar un grado de formación profesional. Asimismo, se destina a aquellas personas en posesión de un certificado profesional, un título de Técnico o de Técnico Superior que permita ser complementado y especializado con esta oferta modular, que corresponderá a un ciclo formativo u oferta diferente de la que dispone en su titulación o certificado. 5. Excepcionalmente, se permitirá el acceso a esta modalidad a las personas mayores de dieciséis y menores de dieciocho años incorporados al mercado laboral y en activo, siempre y cuando se considere que esta modalidad se ajusta mejor a sus características personales. 6. Asimismo, se permitirá el acceso a la formación modular a personas adultas con experiencia laboral que presenten especiales dificultades de inserción en el mercado de trabajo y necesiten cualificarse para mejorar su situación laboral. En el caso de que no se reúnan las condiciones académicas establecidas para el acceso a la formación, el centro acompañará a la persona en formación en el procedimiento de acreditación de competencias básicas que corresponda.
 
 #### Artículo 22. Oferta específica dirigida a personas con necesidades educativas o formativas especiales.
 
@@ -567,16 +443,12 @@ Pág. 24 b) Favorecer la inserción laboral mediante un acompañamiento personal
 a) Ser mayor de dieciséis años en el momento de la incorporación a la formación o, excepcionalmente, quince años en caso de que el equipo docente y los profesionales de la orientación consideren que es la opción formativa más idónea. b) Contar con la conformidad del alumno y, en su caso, de los padres o representantes legales. Cuando se trate de una oferta de Grado D de ciclos formativos de grado básico, el destinatario no deberá haber obtenido el título de graduado en Educación Secundaria Obligatoria. No obstante, se podrá adecuar esta oferta específica para los destinatarios que hayan obtenido el título de graduado en Educación Secundaria Obligatoria. En este caso la oferta se centrará en el ámbito profesional de los ciclos formativos de grado básico. 4. Las personas escolarizadas en centros docentes del ámbito del sistema educativo que cursen esta oferta específica podrán permanecer hasta los veintiún años cumplidos en el año natural en que finalice el curso escolar; plazo que podrá ser excepcionalmente ampliado por un año cuando el equipo docente considere que dicha ampliación hará posible la consecución de los resultados de aprendizaje. 5. Esta oferta específica podrá incorporar módulos transversales relacionados con las competencias personales y sociales, así como la empleabilidad. Asimismo, realizarán la fase de formación en la empresa u organismo equiparado, en los términos y periodos que establezca el equipo docente. 6. Las direcciones generales con competencias en las distintas ofertas de grados A, B, C y D podrán:
 a) Autorizar la impartición de esta oferta específica en grados A, B, C y D en los centros de su ámbito de competencia que determinen. b) Autorizar flexibilizaciones en la estructura, programa y organización, ampliando la permanencia o el número de convocatorias, así como la duración hasta el doble del número de horas del plan de estudios de la oferta en la que esté integrada, sin modificar el perfil profesional, las competencias y los resultados de aprendizaje.
 
-#### Artículo 23. Oferta específica dirigida a personas con especiales dificultades formativas o de inserción laboral 1.
-
-El objetivo de esta oferta específica es que las personas sin cualificación profesional logren incorporarse a la formación ofertada por el Sistema de Formación Profesional, reforzando sus competencias básicas y habilidades de desarrollo personal y para la empleabilidad, mediante programas formativos que se adapten a sus necesidades flexibilizando la duración de la oferta hasta el doble de tiempo de la misma. 2. La Comunidad de Madrid podrá efectuar ofertas específicas de formación profesional dirigidas, con fines de cualificación profesional e integración social para alcanzar el objetivo previsto en el apartado anterior, a los siguientes destinatarios:
+#### Artículo 23. Oferta específica dirigida a personas con especiales dificultades formativas o de inserción laboral 1. El objetivo de esta oferta específica es que las personas sin cualificación profesional logren incorporarse a la formación ofertada por el Sistema de Formación Profesional, reforzando sus competencias básicas y habilidades de desarrollo personal y para la empleabilidad, mediante programas formativos que se adapten a sus necesidades flexibilizando la duración de la oferta hasta el doble de tiempo de la misma. 2. La Comunidad de Madrid podrá efectuar ofertas específicas de formación profesional dirigidas, con fines de cualificación profesional e integración social para alcanzar el objetivo previsto en el apartado anterior, a los siguientes destinatarios:
 a) Personas mayores de dieciséis años sin cualificación que hayan abandonado el sistema educativo, incorporadas o no a la vida laboral, para permitirles la obtención de un certificado profesional o un título de formación profesional. b) Personas mayores de dieciséis años que no hayan desarrollado su historia escolar en el sistema educativo español, y que tengan dificultades para incorporarse al mismo. c) Jóvenes de dieciséis a veintinueve años, sin titulación profesional y en desempleo, con dificultades en su recorrido académico y formativo o en riesgo de exclusión social o laboral, con especial atención a aquellos en situación de abandono escolar temprano o con especiales dificultades formativas.
 
 Pág. 25 d) Personas adultas o grupos desfavorecidos en el mercado de trabajo o en riesgo de exclusión social que pertenezcan a población en desventaja por motivos de origen social, económico, cultural o étnico. e) Personas adultas que hayan superado una o varias formaciones de Grado C incluidas en un ciclo formativo de grado básico sin haber completado la titulación. Asimismo, esta oferta se dirigirá a los menores de edad a partir de dieciséis años que se encuentren bajo una medida de protección de guarda o tutela por la Comunidad de Madrid, a los jóvenes que participen en el programa de preparación para la vida independiente previsto en el artículo 123 de la Ley 4/2023, de 22 de marzo, de Derechos, Garantías y Protección Integral de la Infancia y la Adolescencia de la Comunidad de Madrid, a los jóvenes incluidos en el ámbito de aplicación de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, a los jóvenes a partir de dieciséis años procedentes de servicios de prevención e inserción social autorizados por la Comunidad de Madrid, a los jóvenes a partir de dieciséis años con discapacidad, víctimas de violencia y a las jóvenes mayores de dieciséis años embarazadas o con algún niño a cargo. 3. Excepcionalmente, los alumnos que cumplan quince años y se encuentren en riesgo de abandono escolar, podrán ser autorizados a incorporarse parcialmente a estos programas formativos. La consejería competente en materia de Educación podrá establecer acuerdos con los centros que impartan estos programas formativos, para que aquellos alumnos escolarizados en la enseñanza obligatoria, en centros sostenidos con fondos públicos, que cumplan con los requisitos establecidos en el párrafo anterior, se incorporen a estos centros para la realización parcial de un programa formativo. Con el fin de garantizar la escolaridad obligatoria, el alumno seguirá matriculado en el centro de origen. 4. Esta oferta específica deberá incluir formación en las competencias básicas, profesionales y para la empleabilidad propias de estándares de competencia profesional de nivel 1 del Catálogo Nacional de Estándares de Competencias Profesionales que permitan participar en la vida social, cultural y laboral, y establecer itinerarios formativos y profesionales. La duración de esta oferta será variable, según las necesidades de los colectivos a que vayan destinados. Esta oferta se diseñará mediante programas profesionales generales de nivel 1 que se impartirá en modalidad presencial. La superación de los módulos incluidos en una oferta de los grados correspondientes tendrá carácter acumulable y se acreditará mediante la certificación académica pertinente, lo que permitirá continuar su formación dentro del Sistema de Formación Profesional. 5. Con dicha finalidad, se promoverá la colaboración y participación de la administración local, las entidades sociales del tercer sector para la inserción laboral y los centros de segunda oportunidad en las ofertas de grado A, B, C y D de grado básico a que se refiere este artículo. Estos centros deberán estar autorizados por la consejería competente, según la oferta de grados que deseen impartir, y cumplir con los mismos requisitos que los centros del Sistema de Formación Profesional establecidos en el capítulo VII, así como con las condiciones establecidas en el artículo 38.1 del Real Decreto 659/2023, de 18 de julio. Podrán formar parte de la red de centros de segunda oportunidad.
 
-#### Artículo 24. Oferta específica dirigida a personas con necesidades de cualificación profesional de nivel 2.
-
-1. El objetivo de esta oferta específica es que las personas sin cualificación profesional logren obtener una formación correspondiente a la educación secundaria postobligatoria dentro del marco de la oferta de los grados A, B, C y D de grado medio del Sistema de Formación Profesional, de nivel 2. Esta oferta específica se diseñará mediante programas profesionales generales de nivel 2 que se podrán impartir en cualquiera de las modalidades previstas en el artículo 17. 2. Los programas que se impartan en esta oferta específica deberán incluir módulos profesionales del Catálogo modular de formación profesional, que en los grados A, B y C tendrán una duración, al menos, del 75 por ciento de la duración total del programa. El programa se podrá completar con módulos de formación complementaria que permitan la adquisición de las competencias básicas de la educación secundaria obligatoria y de un itinerario formativo personal. No deberá coincidir en su estructura con ninguna oferta contemplada en cualquier grado.
+#### Artículo 24. Oferta específica dirigida a personas con necesidades de cualificación profesional de nivel 2. 1. El objetivo de esta oferta específica es que las personas sin cualificación profesional logren obtener una formación correspondiente a la educación secundaria postobligatoria dentro del marco de la oferta de los grados A, B, C y D de grado medio del Sistema de Formación Profesional, de nivel 2. Esta oferta específica se diseñará mediante programas profesionales generales de nivel 2 que se podrán impartir en cualquiera de las modalidades previstas en el artículo 17. 2. Los programas que se impartan en esta oferta específica deberán incluir módulos profesionales del Catálogo modular de formación profesional, que en los grados A, B y C tendrán una duración, al menos, del 75 por ciento de la duración total del programa. El programa se podrá completar con módulos de formación complementaria que permitan la adquisición de las competencias básicas de la educación secundaria obligatoria y de un itinerario formativo personal. No deberá coincidir en su estructura con ninguna oferta contemplada en cualquier grado.
 
 Pág. 26 3. Los programas se diseñarán según la correspondiente oferta de grados y posibilitarán a las personas que los cursen que puedan obtener una acreditación, certificado o título de formación profesional. En el caso de ser necesario, los centros orientarán a los alumnos para que puedan adquirir los requisitos de acceso oportunos. 4. Los destinatarios de esta oferta son las personas mayores de dieciséis años que hayan abandonado prematuramente el sistema educativo sin alcanzar cualificación profesional alguna, o bien que necesiten mejorar su cualificación hasta alcanzar el objetivo previsto. También, podrán ser destinatarios de esta oferta las personas con necesidades educativas o formativas especiales.
 
@@ -586,9 +458,7 @@ Regímenes
 
 #### Artículo 25. Regímenes general e intensivo
 
-1.
-
-Todas las ofertas del Sistema de Formación Profesional de grados C, D y, en su caso, E conducentes a la expedición de un Certificado Profesional, un Título de Formación Profesional, un Título de Especialista o un Máster de Formación Profesional, se efectuarán, con carácter dual, bajo uno de los dos regímenes de oferta, bien general, bien intensivo. 2. Las ofertas en régimen general deberán cumplir las siguientes condiciones:
+1. Todas las ofertas del Sistema de Formación Profesional de grados C, D y, en su caso, E conducentes a la expedición de un Certificado Profesional, un Título de Formación Profesional, un Título de Especialista o un Máster de Formación Profesional, se efectuarán, con carácter dual, bajo uno de los dos regímenes de oferta, bien general, bien intensivo. 2. Las ofertas en régimen general deberán cumplir las siguientes condiciones:
 a) Una duración de la formación en empresa u organismo equiparado equivalente al 25 por ciento de la duración total de la formación ofertada prevista en el plan de estudios de la Comunidad de Madrid. En las ofertas asociadas a estándares de competencia profesional de nivel 1 de los grados C y de los ciclos formativos de grado básico, la duración de la formación en empresa u organismo equiparado será del 20 por ciento de la duración total de la oferta formativa. En el caso de las ofertas de doble titulación de grados D, los centros podrán ampliar la fase de formación en empresa u organismo equiparado hasta el 35 por ciento de la duración del plan de estudios conjunto. b) La participación de la empresa u organismo equiparado comprenderá entre el 10 y el 20 por ciento de los resultados de aprendizaje de los módulos profesionales incluidos en el plan de estudios. c) Inexistencia de contrato de formación en la empresa. 3. Las ofertas en régimen intensivo deberán cumplir las siguientes condiciones:
 a) La formación en la empresa u organismo equiparado ocupará entre el 35 y el 50 por ciento de la duración total de la formación ofertada prevista en el plan de estudios. Excepcionalmente, los grados C que se desarrollen en el marco de programas públicos de empleo no contarán con límite máximo de duración del periodo de formación en empresa u organismo equiparado. b) La formación en la empresa u organismo equiparado comprenderá, al menos, el 30 por ciento de los resultados de aprendizaje de los módulos profesionales. c) Existencia de un contrato de formación con la empresa. 4. En el régimen intensivo la relación entre la persona en formación y la empresa u organismo equiparado se concretará mediante un contrato de formación, de acuerdo con lo establecido en la legislación laboral correspondiente, así como con las singularidades propias de este régimen del Sistema de Formación Profesional. 5. La oferta de los ciclos formativos de grado básico se desarrollará, preferentemente, en el régimen general. La participación de la empresa en la formación se realizará sobre los módulos profesionales incluidos en el ámbito profesional. En esta oferta, el plan de estudios se podrá ampliar a tres cursos académicos cuando se realice en régimen intensivo, con el objeto de que las personas en formación adquieran la totalidad de los resultados de aprendizaje incluidos en el título. Los centros docentes que quieran desarrollar los ciclos formativos de grado básico en régimen intensivo, deberán solicitar autorización a la dirección general competente según el tipo de centro.
 
@@ -628,9 +498,7 @@ Ciclos formativos de grado medio.
 1. Para el acceso a los ciclos formativos de grado medio se precisará el cumplimiento de uno de los siguientes requisitos:
 a) Estar en posesión del título de graduado en Educación Secundaria Obligatoria o equivalente. b) Estar en posesión del título de Técnico Básico o de Técnico de Formación Profesional o equivalente. c) Haber superado una oferta formativa de Grado C incluida en el ciclo formativo. d) Haber superado un curso de formación específico preparatorio para el acceso a ciclos formativos de grado medio. e) Haber superado la prueba de acceso a ciclos formativos de formación profesional de grado medio o de grado superior. f) Haber superado la prueba de acceso a la universidad para mayores de veinticinco años. En el caso de los supuestos contemplados en las letras c) y d), se requerirá tener una edad mínima de diecisiete años cumplidos al inicio del curso académico. 2. De conformidad con la normativa vigente en materia de equivalencias de títulos académicos, podrán acceder, asimismo, a ciclos formativos de grado medio de formación profesional quienes reúnan las condiciones recogidas en el apartado 1 de la disposición adicional segunda. 3. La consejería competente en materia de Educación regulará el curso de formación específico preparatorio para el acceso a los ciclos formativos de grado medio, conforme a lo establecido en el artículo 109 l.
 
-Real Decreto 659/2023, de 18 de julio. Este curso está destinado a las personas que no cumplan los requisitos académicos de acceso y se ofertarán conforme a los principios de accesibilidad, no discriminación e igualdad de oportunidades. 4. Las pruebas de acceso a los ciclos formativos de grado medio están destinadas a las personas a partir de diecisiete años que no cumplen los requisitos académicos de acceso. La consejería competente en materia de Educación organizará y convocará estas pruebas de acceso anualmente, conforme a lo establecido en el artículo 110 del Real Decreto 659/2023, de 18 de julio, cuyos resultados tendrán validez en el ámbito estatal. Asimismo, regulará el procedimiento de exención de la prueba de acceso, según lo establecido en el citado artículo 110.
-
-#### Artículo 30. Acceso a la oferta de Grado D.
+Real Decreto 659/2023, de 18 de julio. Este curso está destinado a las personas que no cumplan los requisitos académicos de acceso y se ofertarán conforme a los principios de accesibilidad, no discriminación e igualdad de oportunidades. 4. Las pruebas de acceso a los ciclos formativos de grado medio están destinadas a las personas a partir de diecisiete años que no cumplen los requisitos académicos de acceso. La consejería competente en materia de Educación organizará y convocará estas pruebas de acceso anualmente, conforme a lo establecido en el artículo 110 del Real Decreto 659/2023, de 18 de julio, cuyos resultados tendrán validez en el ámbito estatal. Asimismo, regulará el procedimiento de exención de la prueba de acceso, según lo establecido en el citado artículo 110. #### Artículo 30. Acceso a la oferta de Grado D.
 
 Ciclos formativos de grado superior.
 
@@ -639,9 +507,7 @@ a) Poseer el título de Técnico de Grado Medio de Formación Profesional o el t
 
 Pág. 29 En los supuestos de acceso al amparo de las letras c), d) y e), se requerirá, además, tener diecinueve años como mínimo, cumplidos en el año natural de realización de la prueba o del inicio del curso académico. 2. De conformidad con la normativa vigente en materia de equivalencias de títulos académicos, podrán acceder, asimismo, a ciclos formativos de grado superior de formación profesional quienes reúnan las condiciones recogidas en el apartado 2 de la disposición adicional segunda. 3. La consejería competente en materia de Educación regulará el curso de formación específico preparatorio para el acceso a los ciclos formativos de grado superior, conforme a lo establecido en el artículo 113 l.
 
-Real Decreto 659/2023, de 18 de julio. Este curso está destinado a las personas que no cumplan los requisitos académicos de acceso y se ofertarán conforme a los principios de accesibilidad, no discriminación e igualdad de oportunidades. 4. Las pruebas de acceso a los ciclos formativos de grado superior están destinadas a las personas a partir de diecinueve años que no cumplen los requisitos académicos de acceso. La consejería competente en materia de Educación organizará y convocará anualmente, estas pruebas de acceso conforme a lo establecido en el artículo 114 del Real Decreto 659/2023, de 18 de julio, cuyos resultados tendrán validez en el ámbito estatal. Asimismo, regulará el procedimiento de exención de la prueba de acceso, según lo establecido en el citado artículo 114.
-
-#### Artículo 31. Acceso a la oferta de Grado E.
+Real Decreto 659/2023, de 18 de julio. Este curso está destinado a las personas que no cumplan los requisitos académicos de acceso y se ofertarán conforme a los principios de accesibilidad, no discriminación e igualdad de oportunidades. 4. Las pruebas de acceso a los ciclos formativos de grado superior están destinadas a las personas a partir de diecinueve años que no cumplen los requisitos académicos de acceso. La consejería competente en materia de Educación organizará y convocará anualmente, estas pruebas de acceso conforme a lo establecido en el artículo 114 del Real Decreto 659/2023, de 18 de julio, cuyos resultados tendrán validez en el ámbito estatal. Asimismo, regulará el procedimiento de exención de la prueba de acceso, según lo establecido en el citado artículo 114. #### Artículo 31. Acceso a la oferta de Grado E.
 
 Cursos de especialización.
 
@@ -719,9 +585,7 @@ a) El periodo correspondiente al primer curso de formación, o segundo curso en 
 a) En el primer curso del ciclo formativo, la estancia en la empresa podrá desarrollarse asegurando que, en total, la persona en formación cumpla, al menos, sesenta horas y un 5 por ciento del total de resultados de aprendizaje de los módulos profesionales del plan de estudios, que de acuerdo con el plan de formación sean de impartición compartida entre el centro y la empresa u organismo equiparado. b) En el segundo curso del ciclo formativo, se podrá desarrollar la estancia en la empresa hasta completar las condiciones establecidas en el artículo 25.3 a) y b). 4. Los centros organizarán los horarios lectivos, de manera que sean compatibles con los horarios de formación en la empresa, para lo que podrán agrupar la impartición de los módulos profesionales que se imparten íntegramente en el centro docente en periodos intensivos o disponer un horario anual de frecuencia semanal con jornadas diferenciadas de formación en la empresa u organismo equiparado y de sesiones lectivas en el centro de formación profesional. 5. Las estancias en la empresa u organismo equiparado deberán finalizar con antelación suficiente a las fechas de evaluación previstas en el calendario escolar, de manera que el alumno pueda presentarse a las pruebas finales. 6. Se promoverá el contacto entre la persona en formación y la empresa u organismo equiparado asignado con la mayor antelación posible, y una vez superada la formación relativa a la prevención de riesgos laborales, asegurando que el contacto sea continuo a lo largo de los dos cursos del ciclo formativo.
 
 Pág. 35 7. Los centros de formación profesional podrán establecer un único periodo de formación en empresa u organismo equiparado, en los siguientes supuestos:
-a) Los periodos de formación en empresa u organismo equiparado que se realicen en movilidad, preferentemente internacional. b) Cuando así se determine por la dirección general competente en la ordenación de los Grados D, para aquellos ciclos formativos que se enmarquen en un sector cuyo funcionamiento productivo sea incompatible con la fragmentación de los tiempos en empresa u organismo equiparado. c) En los ciclos formativos de grado básico, cuando se propongan a alumnos menores de dieciséis años que no puedan realizar el periodo de formación en empresa en dos periodos. En cualquier caso, las características del programa y de la disponibilidad de puestos formativos en las empresas u organismos equiparados determinarán el momento en el que debe realizarse dicha estancia de formación. 8. En el caso de la modalidad virtual, los centros organizarán la fase de formación en empresa u organismo equiparado en un único periodo. Esta fase se desarrollará tras haber superado un número de módulos profesionales cuya carga lectiva suponga en su conjunto, al menos el 30 por ciento de la duración prevista para el plan de estudios del título y siempre que se haya determinado por el equipo docente que se cumplen las condiciones de acceso establecidas en el artículo 37.5. 9. En los grados C y E, así como en los programas de especialización que incluyan fase de formación en la empresa, las estancias en empresa u organismo equiparado se desarrollarán a continuación de la formación en el centro docente, en un único periodo y de acuerdo con las condiciones previstas en los apartados a) y b) del artículo 25.2.
-
-#### Artículo 42. Exención de la fase de formación en empresa u organismo equiparado.
+a) Los periodos de formación en empresa u organismo equiparado que se realicen en movilidad, preferentemente internacional. b) Cuando así se determine por la dirección general competente en la ordenación de los Grados D, para aquellos ciclos formativos que se enmarquen en un sector cuyo funcionamiento productivo sea incompatible con la fragmentación de los tiempos en empresa u organismo equiparado. c) En los ciclos formativos de grado básico, cuando se propongan a alumnos menores de dieciséis años que no puedan realizar el periodo de formación en empresa en dos periodos. En cualquier caso, las características del programa y de la disponibilidad de puestos formativos en las empresas u organismos equiparados determinarán el momento en el que debe realizarse dicha estancia de formación. 8. En el caso de la modalidad virtual, los centros organizarán la fase de formación en empresa u organismo equiparado en un único periodo. Esta fase se desarrollará tras haber superado un número de módulos profesionales cuya carga lectiva suponga en su conjunto, al menos el 30 por ciento de la duración prevista para el plan de estudios del título y siempre que se haya determinado por el equipo docente que se cumplen las condiciones de acceso establecidas en el artículo 37.5. 9. En los grados C y E, así como en los programas de especialización que incluyan fase de formación en la empresa, las estancias en empresa u organismo equiparado se desarrollarán a continuación de la formación en el centro docente, en un único periodo y de acuerdo con las condiciones previstas en los apartados a) y b) del artículo 25.2. #### Artículo 42. Exención de la fase de formación en empresa u organismo equiparado.
 
 1. La exención de la formación en empresa u organismo equiparado solo podrá solicitarse en las ofertas cursadas en el régimen general. 2. Podrán quedar exentos, total o parcialmente, de la formación en empresa u organismo equiparado quienes acrediten una experiencia laboral de seis meses a tiempo completo, o su equivalente, para los grados C y E, y de un año a tiempo completo, o su equivalente, para los grados D, que se corresponda con la formación cursada. A estos efectos se podrá aportar la experiencia laboral de los cinco años anteriores al momento de la solicitud. 3. La justificación de la experiencia laboral se realizará de conformidad con lo establecido en el apartado 3 del artículo 177 l.
 
@@ -735,9 +599,7 @@ Evaluación
 
 #### Artículo 43. Aspectos generales de la evaluación
 
-1.
-
-La evaluación de todas las ofertas de formación profesional debe verificar la adquisición de los resultados de aprendizaje. Para ello tendrán como referencia los criterios de evaluación establecidos en la normativa básica y autonómica que regule el currículo correspondiente. 2. La valoración de los procesos de enseñanza y aprendizaje, en cualquiera de sus modalidades, se sustenta en la observación de las actividades de los alumnos, en la evaluación continua de los aprendizajes y en las pruebas de evaluación final. 3. La evaluación de los resultados de aprendizaje recogidos en el plan de formación para ser impartidos en la empresa u organismo equiparado será responsabilidad del docente, formador o experto titular del módulo profesional del centro de formación profesional cuyos resultados de aprendizaje se incluyen en el plan. Para ello, se tendrá en cuenta la vaJUEVES 22 DE MAYO DE 2025 Pág. 36 loración cualitativa que el tutor de la empresa haya realizado durante la estancia en la empresa del alumno. 4. La persona que ocupe la jefatura de departamento o, en su caso, la dirección del centro de formación profesional, compartirá la responsabilidad de la programación y de la evaluación de aquellos módulos profesionales que estén a cargo de un experto o experto sénior. Ambos firmarán los documentos de evaluación. 5. Las evaluaciones finales y las pruebas de evaluación correspondientes serán siempre presenciales, independientemente de la oferta y de la modalidad y régimen en los que se curse la misma. 6. En el caso de las formaciones de grado B, C, D o E cursadas en modalidad virtual, la evaluación final, tanto ordinaria como extraordinaria, de cada uno de los módulos profesionales exigirá la superación de pruebas presenciales, de asistencia obligatoria, que incluirán las pruebas prácticas necesarias para garantizar la adecuada valoración del logro de todos los resultados de aprendizaje, y se armonizarán con los procesos de evaluación desarrollados a lo largo del curso o acción formativa, en los términos que, en cada caso, se determinen. Estas pruebas se desarrollarán siempre dentro del ámbito territorial de la Comunidad de Madrid. 7. En los grados A, B y C, para poder presentarse a la prueba de evaluación final de bloque formativo o del módulo profesional, en cada caso, la persona en formación deberá justificar una asistencia de, al menos, el 75 por ciento de las horas totales del mismo en la modalidad presencial, o un 75 por ciento de las actividades de aprendizaje en la modalidad virtual realizadas y superadas en, al menos, el 70 por ciento de las actividades totales, con independencia de las horas de conexión. 8. Los profesores, las personas formadoras y los expertos evaluarán, además, los procesos de enseñanza y su propia práctica formativa.
+1. La evaluación de todas las ofertas de formación profesional debe verificar la adquisición de los resultados de aprendizaje. Para ello tendrán como referencia los criterios de evaluación establecidos en la normativa básica y autonómica que regule el currículo correspondiente. 2. La valoración de los procesos de enseñanza y aprendizaje, en cualquiera de sus modalidades, se sustenta en la observación de las actividades de los alumnos, en la evaluación continua de los aprendizajes y en las pruebas de evaluación final. 3. La evaluación de los resultados de aprendizaje recogidos en el plan de formación para ser impartidos en la empresa u organismo equiparado será responsabilidad del docente, formador o experto titular del módulo profesional del centro de formación profesional cuyos resultados de aprendizaje se incluyen en el plan. Para ello, se tendrá en cuenta la vaJUEVES 22 DE MAYO DE 2025 Pág. 36 loración cualitativa que el tutor de la empresa haya realizado durante la estancia en la empresa del alumno. 4. La persona que ocupe la jefatura de departamento o, en su caso, la dirección del centro de formación profesional, compartirá la responsabilidad de la programación y de la evaluación de aquellos módulos profesionales que estén a cargo de un experto o experto sénior. Ambos firmarán los documentos de evaluación. 5. Las evaluaciones finales y las pruebas de evaluación correspondientes serán siempre presenciales, independientemente de la oferta y de la modalidad y régimen en los que se curse la misma. 6. En el caso de las formaciones de grado B, C, D o E cursadas en modalidad virtual, la evaluación final, tanto ordinaria como extraordinaria, de cada uno de los módulos profesionales exigirá la superación de pruebas presenciales, de asistencia obligatoria, que incluirán las pruebas prácticas necesarias para garantizar la adecuada valoración del logro de todos los resultados de aprendizaje, y se armonizarán con los procesos de evaluación desarrollados a lo largo del curso o acción formativa, en los términos que, en cada caso, se determinen. Estas pruebas se desarrollarán siempre dentro del ámbito territorial de la Comunidad de Madrid. 7. En los grados A, B y C, para poder presentarse a la prueba de evaluación final de bloque formativo o del módulo profesional, en cada caso, la persona en formación deberá justificar una asistencia de, al menos, el 75 por ciento de las horas totales del mismo en la modalidad presencial, o un 75 por ciento de las actividades de aprendizaje en la modalidad virtual realizadas y superadas en, al menos, el 70 por ciento de las actividades totales, con independencia de las horas de conexión. 8. Los profesores, las personas formadoras y los expertos evaluarán, además, los procesos de enseñanza y su propia práctica formativa.
 
 #### Artículo 44. Metodologías e instrumentos de evaluación.
 
@@ -754,9 +616,7 @@ La evaluación de todas las ofertas de formación profesional debe verificar la 
 #### Artículo 47. Sesiones de evaluación.
 
 1. Las sesiones de evaluación son las reuniones que celebra el equipo docente, constituido por los profesores o formadores y expertos que imparten la oferta de formación profesional a un determinado grupo, y coordinados, en su caso, por el tutor del centro de formación profesional asignado al grupo. 2. En sesión de evaluación, el equipo docente, en los grados C, D y E, actuará de manera colegiada en la adopción de las decisiones relativas al acceso a la fase de formación en la empresa u organismo equiparado, la promoción o repetición de curso, según el caso, así como a la obtención del certificado o titulación, teniendo siempre en cuenta las condiciones que las regulan. 3. Además, las sesiones de evaluación, tendrán por objeto los siguientes aspectos:
-a) Valorar y calificar el logro de los aprendizajes de los alumnos en cada módulo profesional, de acuerdo con los resultados de aprendizaje y los criterios de evaluación y calificación concretados en cada una de sus programaciones. b) Valorar, para cada persona en formación, el cumplimiento de las condiciones de acceso a la fase de formación en empresa establecidas en el artículo 37.5. c) Adoptar, en su caso, los acuerdos y decisiones necesarios para facilitar el aprendizaje y el progreso de las personas de formación, de acuerdo con lo establecido en el artículo 45.2. d) Elaborar un informe, cuando se considere conveniente, que oriente a la persona en formación sobre la mejora de su aprendizaje y las opciones que dispone en su itinerario formativo y profesional. Estos informes serán necesarios cuando no se haya superado la oferta o en el caso de que existan medidas de atención a los alumnos con necesidades específicas de apoyo educativo o formativo. e) El equipo docente podrá determinar, en su caso, la repetición de la fase de formación en la empresa, con el límite previsto en el artículo 48.8.
-
-#### Artículo 48. Convocatorias, promoción y permanencia.
+a) Valorar y calificar el logro de los aprendizajes de los alumnos en cada módulo profesional, de acuerdo con los resultados de aprendizaje y los criterios de evaluación y calificación concretados en cada una de sus programaciones. b) Valorar, para cada persona en formación, el cumplimiento de las condiciones de acceso a la fase de formación en empresa establecidas en el artículo 37.5. c) Adoptar, en su caso, los acuerdos y decisiones necesarios para facilitar el aprendizaje y el progreso de las personas de formación, de acuerdo con lo establecido en el artículo 45.2. d) Elaborar un informe, cuando se considere conveniente, que oriente a la persona en formación sobre la mejora de su aprendizaje y las opciones que dispone en su itinerario formativo y profesional. Estos informes serán necesarios cuando no se haya superado la oferta o en el caso de que existan medidas de atención a los alumnos con necesidades específicas de apoyo educativo o formativo. e) El equipo docente podrá determinar, en su caso, la repetición de la fase de formación en la empresa, con el límite previsto en el artículo 48.8. #### Artículo 48. Convocatorias, promoción y permanencia.
 
 1. Los grados A y B contarán con una convocatoria por periodo formativo, que tendrá la denominación de prueba de evaluación de la correspondiente acción formativa. 2. En los grados C y E, se contará con dos convocatorias para cada módulo profesional.
 
@@ -784,9 +644,7 @@ Acreditaciones, Certificados y Titulaciones de Formación Profesional
 
 #### Artículo 52. Acreditación parcial de competencia
 
-La superación de un Grado A conduce a la obtención de una acreditación parcial de competencia de nivel 1, 2 o 3.
-
-Estas acreditaciones, que surtirán efecto desde su inscripción en el Registro Estatal de Formación Profesional, tendrán carácter oficial y validez académica y profesional en el marco del Sistema de Formación Profesional, en todo el territorio nacional cuando se hayan publicado por el ministerio con competencias en Formación Profesional y consten en el Catálogo Nacional de Ofertas de Formación Profesional. Hasta ese momento, una acreditación parcial de competencia tendrá validez autonómica. Las acreditaciones parciales de competencia serán expedidas por la consejería competente en materia de Empleo.
+La superación de un Grado A conduce a la obtención de una acreditación parcial de competencia de nivel 1, 2 o 3. Estas acreditaciones, que surtirán efecto desde su inscripción en el Registro Estatal de Formación Profesional, tendrán carácter oficial y validez académica y profesional en el marco del Sistema de Formación Profesional, en todo el territorio nacional cuando se hayan publicado por el ministerio con competencias en Formación Profesional y consten en el Catálogo Nacional de Ofertas de Formación Profesional. Hasta ese momento, una acreditación parcial de competencia tendrá validez autonómica. Las acreditaciones parciales de competencia serán expedidas por la consejería competente en materia de Empleo.
 
 #### Artículo 53. Certificado de competencia.
 
@@ -960,9 +818,7 @@ Derogación normativa Queda derogado el Decreto 63/2019, de 16 de julio, del Con
 
 #### Disposición final primera. Implantación de las nuevas ofertas.
 
-Las ofertas formativas que se determinan en este decreto se implantarán a partir del curso escolar 2024-2025 de forma progresiva. En el caso de las ofertas de grados A, B y C, la implantación comenzará a partir de 2026.
-
-#### Disposición final segunda. Habilitación normativa.
+Las ofertas formativas que se determinan en este decreto se implantarán a partir del curso escolar 2024-2025 de forma progresiva. En el caso de las ofertas de grados A, B y C, la implantación comenzará a partir de 2026. #### Disposición final segunda. Habilitación normativa.
 
 Se habilita a los titulares de las consejerías competentes en materia de Empleo, para las ofertas de grados A, B y C, y en materia de Educación, para las ofertas de grados D y E, a dictar las disposiciones que sean precisas para el desarrollo de lo dispuesto en este decreto.
 

@@ -1,10 +1,12 @@
 ---
 id: norm-and-d-390-1986
 codigo_sintetizado: D390_1986 Reglamento Conciertos Educativos Andalucía
-titulo: Decreto 390/1986, de 10 de diciembre, por el que se aprueba el Reglamento General de Conciertos Educativos en Andalucía.
+titulo: Decreto 390/1986, de 10 de diciembre, por el que se aprueba el Reglamento
+  General de Conciertos Educativos en Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 390/1986
 fecha_disposicion: '1986-12-10'
@@ -18,17 +20,17 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Conciertos educativos
 tags:
-  - conciertos
-  - centros_concertados
-  - andalucia
+- conciertos
+- centros_concertados
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Decreto 390/1986, de 10 de diciembre, por el que se aprueba el Reglamento General de Conciertos Educativos en Andalucía.
 
@@ -38,9 +40,7 @@ Atención: La información contenida en estas páginas no tiene validez legal. V
 
 La Ley 6/1985, de noviembre, de su artº 11, configura la relación de puestos de trabajo como instrumento de ordenación de la política de personal en la Administración de la Junta de Andalucía, estableciendo en su artº 4.2.g) que corresponde al Consejo de Gobierno su aprobación. En el Decreto 390/1986, de 10 de diciembre, se determinan las normas de elaboración y aplicación de la relación de puestos de trabajo. El cumplimiento de tales preceptos y en virtud de lo establecido en el artº 12.4 de dicha Ley, y en el artº 3 del Decreto del Presidente 130/1986, de 30 de julio, a propuesta del Consejero de Gobernación y previa deliberación del Consejo de Gobierno en su reunión del día 17 de diciembre de 1986,
 DISPONGO:
-Artículo único. Se aprueba la relación de puestos de trabajo correspondiente a funcionarios y personal laboral fijo de la Junta de Andalucía, que se publica como anexo al presente Decreto. La relación de puestos de trabajo entrará en vigor el mismo día de su publicación en el Boletín Oficial de la Junta de Andalucía, salvo los efectos derivados del cambio de sistema retributivo que se producirán a partir del 1 de enero de 1987, sin perjuicio del incremento que se establezca en la Ley de Presupuestos de 1987.
-
-#### Disposición derogatoria ....
+Artículo único. Se aprueba la relación de puestos de trabajo correspondiente a funcionarios y personal laboral fijo de la Junta de Andalucía, que se publica como anexo al presente Decreto. La relación de puestos de trabajo entrará en vigor el mismo día de su publicación en el Boletín Oficial de la Junta de Andalucía, salvo los efectos derivados del cambio de sistema retributivo que se producirán a partir del 1 de enero de 1987, sin perjuicio del incremento que se establezca en la Ley de Presupuestos de 1987. #### Disposición derogatoria ....
 
 Quedan derogadas cuantas normas de igual o inferior rango opongan a lo previsto en el presente Decreto.
 

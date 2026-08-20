@@ -1,10 +1,14 @@
 ---
 id: norm-es-2007-22450
 codigo_sintetizado: BOE-A-2007-22450
-titulo: Orden ECI/3858/2007, de 27 de diciembre, por la que se establecen los requisitos para la verificación de los títulos universitarios oficiales que habiliten para el ejercicio de las profesiones de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas.
+titulo: Orden ECI/3858/2007, de 27 de diciembre, por la que se establecen los requisitos
+  para la verificación de los títulos universitarios oficiales que habiliten para
+  el ejercicio de las profesiones de Profesor de Educación Secundaria Obligatoria
+  y Bachillerato, Formación Profesional y Enseñanzas de Idiomas.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2007-12-29'
 boletin: BOE
@@ -15,23 +19,23 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Formación del profesorado
 tags:
-  - bachillerato
-  - ensenanzas-universitarias
-  - eoi
-  - equipos-directivos
-  - eso
-  - formacion-del-profesorado
-  - formacion-profesional
-  - profesorado
-  - titulacion
+- bachillerato
+- ensenanzas-universitarias
+- eoi
+- equipos-directivos
+- eso
+- formacion-del-profesorado
+- formacion-profesional
+- profesorado
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - '1'
-    - '2'
+  - '1'
+  - '2'
 ---
 # Orden ECI/3858/2007, de 27 de diciembre, por la que se establecen los requisitos para la verificación de los títulos universitarios oficiales que habiliten para el ejercicio de las profesiones de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas.
 
@@ -123,23 +127,23 @@ Genérico.
 
 12
 
-Â
+
 
 Aprendizaje y desarrollo de la personalidad.
 
-Â
+
 
 Conocer las características de los estudiantes, sus contextos sociales y motivaciones. Comprender el desarrollo de la personalidad de estos estudiantes y las posibles disfunciones que afectan al aprendizaje. Elaborar propuestas basadas en la adquisición de conocimientos, destrezas y aptitudes intelectuales y emocionales. Identificar y planificar la resolución de situaciones educativas que afectan a estudiantes con diferentes capacidades y diferentes ritmos de aprendizaje.
 
 Procesos y contextos educativos.
 
-Â
+
 
 Conocer los procesos de interacción y comunicación en el aula y en el centro, abordar y resolver posibles problemas. Conocer la evolución histórica del sistema educativo en nuestro país. Conocer y aplicar recursos y estrategias de información, tutoría y orientación académica y profesional. Promover acciones de educación emocional, en valores y formación ciudadana. Participar en la definición del proyecto educativo y en las actividades generales del centro atendiendo a criterios de mejora de la calidad, atención a la diversidad, prevención de problemas de aprendizaje y convivencia.
 
 Sociedad, familia y educación.
 
-Â
+
 
 Relacionar la educación con el medio y comprender la función educadora de la familia y la comunidad, tanto en la adquisición de competencias y aprendizajes como en la educación en el respeto de los derechos y libertades, en la igualdad de derechos y oportunidades entre hombres y mujeres y en la igualdad de trato y no discriminación de las personas con discapacidad. Conocer la evolución histórica de la familia, sus diferentes tipos y la incidencia del contexto familiar en la educación. Adquirir habilidades sociales en la relación y orientación familiar.
 
@@ -147,23 +151,23 @@ Específico.
 
 24
 
-Â
+
 
 Complementos para la formación disciplinar.
 
-Â
+
 
 Conocer el valor formativo y cultural de las materias correspondientes a la especialización y los contenidos que se cursan en las respectivas enseñanzas. Conocer la historia y los desarrollos recientes de las materias y sus perspectivas para poder transmitir una visión dinámica de las mismas. Conocer contextos y situaciones en que se usan o aplican los diversos contenidos curriculares. En formación profesional, conocer la evolución del mundo laboral, la interacción entre sociedad, trabajo y calidad de vida, así como la necesidad de adquirir la formación adecuada para la adaptación a los cambios y transformaciones que puedan requerir las profesiones. En el caso de la orientación psicopedagógica y profesional, conocer los procesos y recursos para la prevención de problemas de aprendizaje y convivencia, los procesos de evaluación y de orientación académica y profesional.
 
 Aprendizaje y enseñanza de las materias correspondientes.
 
-Â
+
 
 Conocer los desarrollos teórico-prácticos de la enseñanza y el aprendizaje de las materias correspondientes. Transformar los currículos en programas de actividades y de trabajo. Adquirir criterios de selección y elaboración de materiales educativos. Fomentar un clima que facilite el aprendizaje y ponga en valor las aportaciones de los estudiantes. Integrar la formación en comunicación audiovisual y multimedia en el proceso de enseñanza-aprendizaje. Conocer estrategias y técnicas de evaluación y entender la evaluación como un instrumento de regulación y estímulo al esfuerzo.
 
 Innovación docente e iniciación a la investigación educativa.
 
-Â
+
 
 Conocer y aplicar propuestas docentes innovadoras en el ámbito de la especialización cursada. Analizar críticamente el desempeño de la docencia, de las buenas prácticas y de la orientación utilizando indicadores de calidad. Identificar los problemas relativos a la enseñanza y aprendizaje de las materias de la especialización y plantear alternativas y soluciones. Conocer y aplicar metodologías y técnicas básicas de investigación y evaluación educativas y ser capaz de diseñar y desarrollar proyectos de investigación, innovación y evaluación.
 
@@ -171,13 +175,13 @@ Practicum.
 
 16
 
-Â
+
 
 Practicum en la
 
 especialización, incluyendo el Trabajo fin de Máster.
 
-Â
+
 
 Adquirir experiencia en la planificación, la docencia y la evaluación de las materias correspondientes a la especialización. Acreditar un buen dominio de la expresión oral y escrita en la práctica docente. Dominar las destrezas y habilidades sociales necesarias para fomentar un clima que facilite el aprendizaje y la convivencia. Participar en las propuestas de mejora en los distintos ámbitos de actuación a partir de la reflexión basada en la práctica. Para la formación profesional, conocer la tipología empresarial correspondiente a los sectores productivos y comprender los sistemas organizativos más comunes en las empresas. Respecto a la orientación, ejercitarse en la evaluación psicopedagógica, el asesoramiento a otros profesionales de la educación, a los estudiantes y a las familias. Estas competencias, junto con las propias del resto de materias, quedarán reflejadas en el Trabajo fin de Máster que compendia la formación adquirida a lo largo de todas las enseñanzas descritas.
 

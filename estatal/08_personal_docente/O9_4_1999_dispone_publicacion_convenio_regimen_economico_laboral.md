@@ -1,10 +1,15 @@
 ---
 id: norm-es-1999-8849
 codigo_sintetizado: BOE-A-1999-8849
-titulo: Orden de 9 de abril de 1999 por la que se dispone la publicación del Convenio sobre el régimen económico-laboral de las personas que, no perteneciendo a los Cuerpos de Funcionarios Docentes, están encargadas de la enseñanza de la religión católica en los centros públicos de Educación Infantil, de Educación Primaria y de Educación Secundaria.
+titulo: Orden de 9 de abril de 1999 por la que se dispone la publicación del Convenio
+  sobre el régimen económico-laboral de las personas que, no perteneciendo a los Cuerpos
+  de Funcionarios Docentes, están encargadas de la enseñanza de la religión católica
+  en los centros públicos de Educación Infantil, de Educación Primaria y de Educación
+  Secundaria.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1999-04-20'
 boletin: BOE
@@ -15,21 +20,21 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Profesorado de religión
 tags:
-  - educacion-infantil
-  - educacion-primaria
-  - eso
-  - personal-no-docente
-  - profesorado
-  - profesorado-de-religi-n
+- educacion-infantil
+- educacion-primaria
+- eso
+- personal-no-docente
+- profesorado
+- profesorado-de-religi-n
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-ce-1978
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-es-2001-7022
+  - '27'
+  - norma_id: norm-es-2001-7022
 ---
 # Orden de 9 de abril de 1999 por la que se dispone la publicación del Convenio sobre el régimen económico-laboral de las personas que, no perteneciendo a los Cuerpos de Funcionarios Docentes, están encargadas de la enseñanza de la religión católica en los centros públicos de Educación Infantil, de Educación Primaria y de Educación Secundaria.
 
@@ -43,9 +48,7 @@ En su virtud, a propuesta de los Ministros de Justicia y de Educación y Cultura
 
 Se acuerda la publicación del texto del Convenio sobre el régimen económico-laboral de las personas que, no perteneciendo a los Cuerpos de Funcionarios Docentes, están encargadas de la enseñanza de la religión católica en los centros públicos de Educación Infantil, de Educación Primaria y de Educación Secundaria, celebrado el día 26 de febrero de 1999, que figura como anexo de la presente Orden.
 
-Madrid, 9 de abril de 1999.
-
-ÁLVAREZ-CASCOS FERNÁNDEZ
+Madrid, 9 de abril de 1999. ÁLVAREZ-CASCOS FERNÁNDEZ
 
 Excmos. Sres. Ministros de Justicia y de Educación y Cultura.
 
@@ -71,17 +74,17 @@ Los profesores de religión católica a los que se refiere el presente Convenio 
 
 #### Cuarta.
 
-1. Los profesores encargados de la enseñanza de la religión católica a los que se refiere el presente Convenio deberán ser, según el artículo III del Acuerdo entre el Estado español y la Santa Sede sobre Enseñanza y Asuntos culturales, personas que sean consideradas competentes para dicha enseñanza.
+1. Los profesores encargados de la enseñanza de la religión católica a los que se refiere el presente Convenio deberán ser, según el artículo III del Acuerdo entre el Estado español y la Santa Sede sobre Enseñanza y Asuntos culturales, personas que sean consideradas competentes para dicha enseñanza.
 
 A los efectos anteriores serán consideradas personas competentes para la enseñanza de la religión católica aquellas que posean, al menos, una titulación académica igual o equivalente a la exigida para el mismo nivel al correspondiente profesorado interino, y además, se encuentren en posesión de la Declaración Eclesiástica de Idoneidad de la Conferencia Episcopal Española y reúnan los demás requisitos derivados del artículo III del mencionado Acuerdo.
 
-2. Sin perjuicio de lo dispuesto en el apartado anterior respecto de las titulaciones académicas exigidas, los profesores de religión católica de Educación Infantil y de Educación Primaria, propuestos con anterioridad a 1993 al amparo del Diploma de Declaración Eclesiástica de Idoneidad para los niveles de Preescolar y Educación General Básica, podrán seguir impartiendo la enseñanza de la religión católica en Educación Infantil y Educación Primaria, respectivamente. Asimismo, podrán impartir Religión Católica en Educación Secundaria quienes hayan superado el Ciclo Filosófico-Teológico de Estudios Eclesiásticos y las horas correspondientes de Pedagogía y Didáctica Religiosa.
+2. Sin perjuicio de lo dispuesto en el apartado anterior respecto de las titulaciones académicas exigidas, los profesores de religión católica de Educación Infantil y de Educación Primaria, propuestos con anterioridad a 1993 al amparo del Diploma de Declaración Eclesiástica de Idoneidad para los niveles de Preescolar y Educación General Básica, podrán seguir impartiendo la enseñanza de la religión católica en Educación Infantil y Educación Primaria, respectivamente. Asimismo, podrán impartir Religión Católica en Educación Secundaria quienes hayan superado el Ciclo Filosófico-Teológico de Estudios Eclesiásticos y las horas correspondientes de Pedagogía y Didáctica Religiosa.
 
 #### Quinta.
 
-1. Los profesores encargados de la enseñanza de la religión católica a los que se refiere el presente Convenio prestarán su actividad, en régimen de contratación laboral, de duración determinada y coincidente con el curso o año escolar, a tiempo completo o parcial y quedarán encuadrados en el Régimen General de la Seguridad Social, al que serán incorporados los profesores de Educación Infantil y de Educación Primaria que aún no lo estén. A los efectos anteriores, la condición de empleador corresponderá a la respectiva Administración educativa.
+1. Los profesores encargados de la enseñanza de la religión católica a los que se refiere el presente Convenio prestarán su actividad, en régimen de contratación laboral, de duración determinada y coincidente con el curso o año escolar, a tiempo completo o parcial y quedarán encuadrados en el Régimen General de la Seguridad Social, al que serán incorporados los profesores de Educación Infantil y de Educación Primaria que aún no lo estén. A los efectos anteriores, la condición de empleador corresponderá a la respectiva Administración educativa.
 
-2. Transitoriamente, en tanto no se lleve a cabo el traspaso de los profesores de religión católica de Educación Infantil, de Educación Primaria y de Educación Secundaria a la correspondiente Administración educativa, el Ministerio de Educación y Cultura asume, respecto de estos profesores, la condición de empleador a los efectos previstos en el apartado anterior.
+2. Transitoriamente, en tanto no se lleve a cabo el traspaso de los profesores de religión católica de Educación Infantil, de Educación Primaria y de Educación Secundaria a la correspondiente Administración educativa, el Ministerio de Educación y Cultura asume, respecto de estos profesores, la condición de empleador a los efectos previstos en el apartado anterior.
 
 #### Sexta.
 
@@ -93,17 +96,13 @@ En aplicación y seguimiento del presente Convenio se constituirá una Comisión
 
 #### Octava.
 
-Ambas partes se comprometen a tomar las medidas que les correspondan para que el presente Convenio tenga efectividad a partir del 26 de febrero de 1999.
-
-#### Novena.
+Ambas partes se comprometen a tomar las medidas que les correspondan para que el presente Convenio tenga efectividad a partir del 26 de febrero de 1999. #### Novena.
 
 El presente Convenio, que se suscribe con carácter indefinido, será susceptible de revisión a iniciativa de cualquiera de las partes, previa notificación con seis meses de antelación.
 
 Disposición derogatoria ....
 
-El presente Convenio deroga y sustituye al suscrito por las mismas partes con fecha de 20 de mayo de 1993, publicado mediante Orden de 9 de septiembre de 1993.
-
-Madrid, 26 de febrero de 1999.–La Ministra de Justicia, Margarita Mariscal de Gante y Mirón.–El Ministro de Educación y Cultura, Mariano Rajoy Brey.–El Presidente de la Conferencia Episcopal Española, Elías Yanes Álvarez.
+El presente Convenio deroga y sustituye al suscrito por las mismas partes con fecha de 20 de mayo de 1993, publicado mediante Orden de 9 de septiembre de 1993. Madrid, 26 de febrero de 1999.–La Ministra de Justicia, Margarita Mariscal de Gante y Mirón.–El Ministro de Educación y Cultura, Mariano Rajoy Brey.–El Presidente de la Conferencia Episcopal Española, Elías Yanes Álvarez.
 
 ## Relaciones Normativas y Fundamentos de Derecho
 

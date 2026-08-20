@@ -1,10 +1,12 @@
 ---
 id: norm-mad-o-1050-2020
 codigo_sintetizado: O1050_2020 Atencion Educativa Alumnado NEAE Madrid
-titulo: Orden 1050/2020, de 22 de mayo, sobre organización de medidas de apoyo educativo para alumnado con necesidades específicas.
+titulo: Orden 1050/2020, de 22 de mayo, sobre organización de medidas de apoyo educativo
+  para alumnado con necesidades específicas.
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
 numero_disposicion: 1050/2020
 fecha_disposicion: '2020-05-22'
@@ -18,17 +20,17 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Atención a la diversidad
 tags:
-  - neae
-  - apoyo_educativo
-  - adaptaciones_curriculares
-  - madrid
+- neae
+- apoyo_educativo
+- adaptaciones_curriculares
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-mad-d-29-2013
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-1-1996
 ---
 # Orden 1050/2020, de 22 de mayo, sobre organización de medidas de apoyo educativo para alumnado con necesidades específicas.
 

@@ -1,7 +1,9 @@
 ---
 id: norm-can-d-9-2022
 codigo_sintetizado: D9_2022 Admision del Alumnado en Canarias
-titulo: Decreto 9/2022, de 20 de enero, por el que se regula la admisión del alumnado en los centros docentes públicos y privados concertados que imparten enseñanzas no universitarias en la Comunidad Autónoma de Canarias.
+titulo: Decreto 9/2022, de 20 de enero, por el que se regula la admisión del alumnado
+  en los centros docentes públicos y privados concertados que imparten enseñanzas
+  no universitarias en la Comunidad Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Gobierno de Canarias / Consejería de Educación
@@ -19,41 +21,38 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión del alumnado
 tags:
-  - admisi-n-del-alumnado
-  - admision-alumnado
-  - centros-concertados
-  - criterios-baremacion
-  - curriculo
-  - ebep
-  - ensenanzas-universitarias
-  - equipos-directivos
-  - escolarizacion
-  - interinos
-  - oposiciones
-  - personal-no-docente
-  - profesorado
+- admisi-n-del-alumnado
+- admision-alumnado
+- centros-concertados
+- criterios-baremacion
+- curriculo
+- ebep
+- ensenanzas-universitarias
+- equipos-directivos
+- escolarizacion
+- interinos
+- oposiciones
+- personal-no-docente
+- profesorado
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   fundamento_de:
-    - norma_id: norm-can-res-boc-2024-049-109
-    - norma_id: norm-can-res-boc-2025-039-104
-    - norma_id: norm-can-res-boc-2025-047-107
-    - norma_id: norm-can-res-boc-2025-047-108
-    - norma_id: norm-can-res-boc-2026-039-102
-    - norma_id: norm-can-res-boc-2026-039-103
-    - norma_id: norm-can-res-boc-2026-039-111
+  - norma_id: norm-can-res-boc-2024-049-109
+  - norma_id: norm-can-res-boc-2025-039-104
+  - norma_id: norm-can-res-boc-2025-047-107
+  - norma_id: norm-can-res-boc-2025-047-108
+  - norma_id: norm-can-res-boc-2026-039-102
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-can-res-boc-2026-039-111
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '54'
-    - norma_id: norm-es-lo-2-2006
-  articulos:
-    - '84'
+  - '84'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-018-273.pdf
 ---
 # Decreto 9/2022, de 20 de enero, por el que se regula la admisión del alumnado en los centros docentes públicos y privados concertados que imparten enseñanzas no universitarias en la Comunidad Autónoma de Canarias.

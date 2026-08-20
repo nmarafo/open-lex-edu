@@ -1,10 +1,12 @@
 ---
 id: norm-and-o-3-1-2000
 codigo_sintetizado: O3_1_2000 Orientacion Educativa y Profesional Centros Andalucía
-titulo: Orden de 3 de enero de 2000, por la que se regula la articulación de los Planes de Orientación y Acción Tutorial.
+titulo: Orden de 3 de enero de 2000, por la que se regula la articulación de los Planes
+  de Orientación y Acción Tutorial.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 03/01/2000
 fecha_disposicion: '2000-01-03'
@@ -18,17 +20,17 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Orientación educativa
 tags:
-  - orientacion_educativa
-  - poat
-  - accion_tutorial
-  - andalucia
+- orientacion_educativa
+- poat
+- accion_tutorial
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-1-1996
 ---
 # Orden de 3 de enero de 2000, por la que se regula la articulación de los Planes de Orientación y Acción Tutorial.
 
@@ -38,13 +40,9 @@ Sevilla, 18 de enero 2000 Página núm. 485 PRESIDENCIA DECRETO del Presidente 1
 
 #### Artículo 1. Queda.
 
-disuelto el Parlamento de Andalucía. elegido el día 3 de marzo de 1996.
+disuelto el Parlamento de Andalucía. elegido el día 3 de marzo de 1996. #### Artículo 2. Se convocan elecciones al Parlamento de Andalucía, que se celebrarán el domingo 12 de marzo de 2000.
 
-#### Artículo 2. Se convocan elecciones al Parlamento de Andalucía, que se celebrarán el domingo 12 de marzo de 2000.
-
-#### Artículo 3. De acuerdo con lo dispuesto en el artículo 17.
-
-de la Ley 1/1986, de 2 de enero, Electoral de Andalucía, el número de Diputados a elegir en cada circunscripción es el siguiente:
+#### Artículo 3. De acuerdo con lo dispuesto en el artículo 17. de la Ley 1/1986, de 2 de enero, Electoral de Andalucía, el número de Diputados a elegir en cada circunscripción es el siguiente:
 Circunscripción Diputados Almería Once Cádiz Quince Córdoba Trece Granada Trece Huelva Once Jaén Doce Málaga Dieciséis Sevilla Dieciocho artículo 4 La campaña electoral durará quince días,. comenzando a las cero horas del día 25 de febrero, y finalizando a las cero horas del día 11 de marzo.
 
 #### Artículo 5. El Parlamento elegido celebrará su sesión constitutiva el día 6 de abril a las 12 horas.
@@ -76,8 +74,6 @@ redactado de la siguiente forma:
 La presente Orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 20 de diciembre de 1999 GASPAR ZARRIAS AREVALO Consejero de la Presidencia CONSEJERIA DE GOBERNACION Y JUSTICIA CORRECCION de errores del Decreto 216/1999, de 26 de octubre, por el que se aprueba el Reglamento de Asistencia Jurídica Gratuita de Andalucía (BOJA núm. 134, de 18.11.99). Advertido error en el texto normativo de referencia, publicado en el BOJA número 134, de 18 de noviembre de 1999, a continuación se transcribe la oportuna corrección:
 En la página número 14.805, Anexo 5 «ORGANIZACION DEL SERVICIO DE ASISTENCIA LETRADA AL DETENIDO», «TURNO DE GUARDIA PERMANENTE», segunda columna «PARTIDOS JUDICIALES», en el apartado correspondiente al Colegio de Abogados de Almería. Donde dice: «El Ejido». Debe decir: «El Ejido-Berja». Sevilla, 14 de diciembre de 1999 CONSEJERIA DE AGRICULTURA Y PESCA ORDEN de 29 de diciembre de 1999, por la que se regulan las ayudas, superficies y primas ganaderas para el año 2000. Ver esta disposición en fascículo 2 de 2 de este mismo número CONSEJERIA DE SALUD DECRETO 245/1999, de 27 de diciembre, por el que se aprueba la Oferta de Empleo Público para 1999 de los Centros Asistenciales del Servicio Andaluz de Salud. La Disposición Transitoria Primera de la Ley 11/1998, de 28 de diciembre, por la que se aprueban medidas en materia de Hacienda Pública, de introducción al euro, de expropiación forzosa, de contratación, de Función Pública, de tasas y precios públicos de Universidades, Juegos y Apuestas y Empresa Pública para el desarrollo Agrario y Pesquero de Andalucía, S.A., regula el régimen de la Oferta de Empleo Público durante 1999. En la citada disposición se suspende la vigencia de los artículos 35 y 36 de la Ley 6/1985, de 28 de noviembre, de Ordenación de la Función Pública de la Junta de Andalucía, en lo relativo a la obligatoriedad de publicación y al plazo de aprobación de la oferta de empleo público y a la necesidad de que la oferta de empleo público contenga la relación de las vacantes dotadas no cubiertas, facultando al Consejo de Gobierno para autorizar con carácter excepcional la convocatoria de aquellas plazas que considere imprescindibles para el buen funcionamiento de la Administración Pública. En la Administración Sanitaria resulta necesario ofertar las plazas que garanticen los objetivos establecidos para el buen funcionamiento de los Centros Asistenciales del Servicio Andaluz de Salud, dada la naturaleza del servicio que presta. La oferta que se aprueba se desarrollará a través de los procesos de cobertura de plazas vacantes, de conformidad con lo previsto en la normativa vigente de selección del personal estatutario y de provisión de plazas básicas en los Centros Asistenciales del Servicio Andaluz de Salud. Atendiendo al principio de eficacia y al criterio de eficiencia que proclama el artículo 3 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, en redacción dada por la Ley 4/1999, de 13 de enero, considerando razones de oportunidad y racionalidad administrativa y con la finalidad de no dilatar en exceso el proceso de conversión de empleo temporal en fijo iniciado tras la publicación de la Oferta de Empleo Público de 1997, las plazas incluidas en la oferta que se aprueba se convocarán conjuntamente con las ofertadas en la Oferta de Empleo Público para 1998 de los Centros Asistenciales del SAS, aprobada mediante Decreto 282/1998, de 29 de diciembre. En el procedimiento de elaboración de esta disposición se han cumplido las previsiones de la Ley 9/1987, de 12 de junio, de Organos de Representación, Determinación de las condiciones de trabajo y Participación del personal al servicio de las Administraciones Públicas, sobre la negociación previa con las Organizaciones Sindicales presentes en la Mesa Sectorial de Sanidad de la Comunidad Autónoma Andaluza. En su virtud, a propuesta del Consejero de Salud, con informes favorables de la Consejería de Economía y Hacienda y de la Consejería de Gobernación y Justicia y previa deliberación del Consejo de Gobierno, en su reunión del 27 de diciembre de 1999, D I S P O N G O artículo 1 Se aprueba la Oferta de Empleo Público de. los Centros Asistenciales del Servicio Andaluz de Salud para 1999, que estará constituida por un total de 620 plazas de la categoría de Médicos de Familia.
 
-#### Artículo 2.
-
-1. Las plazas ofertadas se convocarán conjuntamente con las 430 plazas de Médicos Generales ofertadas
+#### Artículo 2. 1. Las plazas ofertadas se convocarán conjuntamente con las 430 plazas de Médicos Generales ofertadas
 
 en el Decreto 282/1998, de 29 de diciembre, que han pasado a denominarse plazas de Medicina de Familia, conforme a

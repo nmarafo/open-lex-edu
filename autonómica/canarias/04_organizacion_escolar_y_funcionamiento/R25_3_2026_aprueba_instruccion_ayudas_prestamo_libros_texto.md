@@ -1,7 +1,9 @@
 ---
 id: norm-can-res-099
 codigo_sintetizado: Resolucion BOC 99
-titulo: Resolución de 25 de marzo de 2026, por la que se aprueba la instrucción de las ayudas de préstamo de libros de texto y materiales didácticos en los centros públicos para el curso escolar 2026/2027.
+titulo: Resolución de 25 de marzo de 2026, por la que se aprueba la instrucción de
+  las ayudas de préstamo de libros de texto y materiales didácticos en los centros
+  públicos para el curso escolar 2026/2027.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General competente de la Consejería de Educación de Canarias
@@ -13,51 +15,49 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Instrucciones de organización y funcionamiento
 tags:
-  - admision-alumnado
-  - becas-ayudas
-  - becas-y-ayudas
-  - educacion-primaria
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - eso
-  - formacion-profesional
-  - gestion-economica
-  - instrucciones-de-organizacion-y-funcionamiento
-  - oposiciones
+- admision-alumnado
+- becas-ayudas
+- becas-y-ayudas
+- educacion-primaria
+- ensenanzas-deportivas
+- equipos-directivos
+- eso
+- formacion-profesional
+- gestion-economica
+- instrucciones-de-organizacion-y-funcionamiento
+- oposiciones
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-276-1997
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-res-boc-2026-039-102
-    - norma_id: norm-can-res-boc-2026-039-103
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-can-d-276-1997
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-boc-2026-039-102
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2018
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-d-276-1997
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-3-2018
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-res-boc-2026-039-102
-    - norma_id: norm-can-res-boc-2026-039-103
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-d-276-1997
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-res-boc-2026-039-102
+  - norma_id: norm-can-res-boc-2026-039-103
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-067-1098.pdf
 ---
-# Resolución de 25 de marzo de 2026, por la que se aprueba la instrucción de las ayudas de préstamo de libros de texto y materiales didácticos en los centros públicos para el curso escolar 2026/2027.
-
-## Preámbulo
+# Resolución de 25 de marzo de 2026, por la que se aprueba la instrucción de las ayudas de préstamo de libros de texto y materiales didácticos en los centros públicos para el curso escolar 2026/2027. ## Preámbulo
 
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes Complementarios.- Resolución de 25 de marzo de 2026, por la que se aprueba la instrucción de las ayudas de préstamo de libros de texto y materiales didácticos en los centros públicos para el curso escolar 2026/2027. Examinado el informe del responsable del Servicio de Programas Educativos y Actividades Extraescolares de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios, para sufragar gastos relativos a las necesidades detectadas de libros de texto y materiales didácticos en determinadas enseñanzas para el curso 2026/2027, de acuerdo con los siguientes ANTECEDENTES DE HECHO
 Primero.- El día 5 de noviembre de 2025 la Consejería de Educación, Formación Profesional, Actividad Física y Deportes publica en el portal de noticias del Gobierno de Canarias la noticia titulada "Educación registra para 2026 el mayor presupuesto de su historia e implanta la gratuidad de los libros de texto". En ella se detalla el anuncio del Consejero de Educación, Formación Profesional, Actividad Física y Deportes de una medida de carácter estructural, que permitirá poner en marcha el programa de gratuidad de los libros y materiales escolares, que se implantará a partir del curso 2026/2027 en todas las etapas de las enseñanzas obligatorias en Canarias. La medida "…se desarrollará de forma progresiva y plurianual con una inversión inicial de once millones de euros, lo que supone un cambio de modelo en la adquisición y gestión del material en las islas. Este nuevo sistema permitirá crear un banco público de libros y materiales, cuyo uso compartido busca garantizar la igualdad de oportunidades para todo el alumnado isleño".
@@ -129,9 +129,7 @@ El disfrute del uso gratuito de libros de textos o materiales didácticos será 
 
 #### Quinta. Fases y plazos del procedimiento.
 
-Los plazos se encuentran vinculados a las Resoluciones de 5 y 18 de febrero de 2026, de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios, por la que se convoca el procedimiento de admisión y matrícula del alumnado de Educación Infantil, Educación Primaria y Educación Secundaria Obligatoria, en centros sostenidos con fondos públicos, para el curso escolar 2026/2027, en la Comunidad Autónoma de Canarias; y a la [Resolución de 13 de febrero de 2026](../05_alumnado_y_servicios_escolares/R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md), de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se dictan instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico y a los Itinerarios de Formación Profesional Adaptada. Fases. 1.- Grabación de matrículas y solicitudes para el uso y disfrute del uso gratuito de libros de texto. Los centros educativos han de cargar la totalidad de matrículas para los cursos citados en el aplicativo Pincel EKADE. Estas matrículas generarán automáticamente una solicitud por alumna o alumno en WebGesALT (portal docente). 2.- Nuevas matrículas. A realizar en Pincel EKADE por los centros educativos. El Servicio de Programas Educativos y Actividades Extraescolares contemplará la adjudicación de alumnado que se traslade a un nuevo centro educativo, a partir del 1 de septiembre de 2026 hasta el 31 de marzo de 2027.
-
-#### Sexta. Comprobación del cumplimiento de los requisitos en las distintas fases del proceso. El disfrute del uso gratuito de libros de textos o materiales didácticos será automático con la matrícula.
+Los plazos se encuentran vinculados a las Resoluciones de 5 y 18 de febrero de 2026, de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios, por la que se convoca el procedimiento de admisión y matrícula del alumnado de Educación Infantil, Educación Primaria y Educación Secundaria Obligatoria, en centros sostenidos con fondos públicos, para el curso escolar 2026/2027, en la Comunidad Autónoma de Canarias; y a la [Resolución de 13 de febrero de 2026](../05_alumnado_y_servicios_escolares/R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md), de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se dictan instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico y a los Itinerarios de Formación Profesional Adaptada. Fases. 1.- Grabación de matrículas y solicitudes para el uso y disfrute del uso gratuito de libros de texto. Los centros educativos han de cargar la totalidad de matrículas para los cursos citados en el aplicativo Pincel EKADE. Estas matrículas generarán automáticamente una solicitud por alumna o alumno en WebGesALT (portal docente). 2.- Nuevas matrículas. A realizar en Pincel EKADE por los centros educativos. El Servicio de Programas Educativos y Actividades Extraescolares contemplará la adjudicación de alumnado que se traslade a un nuevo centro educativo, a partir del 1 de septiembre de 2026 hasta el 31 de marzo de 2027. #### Sexta. Comprobación del cumplimiento de los requisitos en las distintas fases del proceso. El disfrute del uso gratuito de libros de textos o materiales didácticos será automático con la matrícula.
 
 #### Séptima. Comisión de Seguimiento del centro educativo.
 
@@ -261,8 +259,7 @@ Situación sociofamiliar crítica Documento justificativo emitido mediante Resol
 a) Resolución de los servicios sociales municipales o un certificado de una ONG que indique la situación económica crítica actual.
 b) Certificado de ser beneficiario de una renta activa de inserción de SEPE, si se encuentra en situación de desempleo Otros Se contemplarán los ingresos derivados de rentas de capital del ejercicio fiscal del año 2024 o Ingreso Mínimo Vital u otro tipo de ingresos. Cuando el nivel de ingresos haya variado de manera significativa en los dos últimos años, se podrá aportar:
 a) Certificado de empresa acreditando el cambio de situación económica en la vinculación con la empresa.
-b) Certificado de IRPF del año 2025.
-c) **Certificado de SEPE actualizado.** 6.3.- Otras casuísticas.
+b) Certificado de IRPF del año 2025. c) **Certificado de SEPE actualizado.** 6.3.- Otras casuísticas.
 a) Una vez que se ha comprobado que el documento de identificación presentado y cargado es correcto, la información intermediada declara: "Titular identificado por la agencia tributaria sin datos de declaración o imputaciones":
 a.1.- La persona responsable tiene nacionalidad española: se añadirá automáticamente un 0 en los datos no intermediados de IRPF. a.2.- La persona responsable no tiene nacionalidad española y la información intermediada declara que es un titular identificado por la agencia tributaria, sin datos de imputaciones: el centro podrá añadir un 0 en los datos no intermediados de IRPF.
 b) Una vez que se ha comprobado que el documento de identificación presentado y cargado es correcto, la información intermediada declara: "No se dispone de información intermediada":

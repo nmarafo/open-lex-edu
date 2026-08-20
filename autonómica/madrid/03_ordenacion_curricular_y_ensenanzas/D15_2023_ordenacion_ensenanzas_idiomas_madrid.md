@@ -1,10 +1,12 @@
 ---
 id: norm-mad-d-15-2023
 codigo_sintetizado: D15_2023 Ordenacion Enseñanzas de Idiomas Madrid
-titulo: Decreto 15/2023, de 1 de marzo, por el que se establece la ordenación de las Enseñanzas de Idiomas en la Comunidad de Madrid.
+titulo: Decreto 15/2023, de 1 de marzo, por el que se establece la ordenación de las
+  Enseñanzas de Idiomas en la Comunidad de Madrid.
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Decreto
 numero_disposicion: 15/2023
 fecha_disposicion: '2023-03-01'
@@ -18,17 +20,17 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas de Idiomas
 tags:
-  - eoi
-  - idiomas_ordenacion
-  - certificados_idioma
-  - madrid
+- eoi
+- idiomas_ordenacion
+- certificados_idioma
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-mad-d-29-2013
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Decreto 15/2023, de 1 de marzo, por el que se establece la ordenación de las Enseñanzas de Idiomas en la Comunidad de Madrid.
 
@@ -211,9 +213,7 @@ d) Intermediar exclusivamente en aquellos procesos en los que la adoptabilidad d
 
 Real Decreto 165/2019, de 22 de marzo. Se promoverán medidas de colaboración y coordinación con el resto de entidades públicas para procurar la mayor homogeneidad posible en los requisitos básicos para la realización de esta actividad de control, inspección y seguimiento, conforme a lo establecido en el artículo 7.3 de la LAI. Para el ejercicio de estas funciones en relación con la actividad que dichos organismos desarrollen en el país de origen se solicitará la colaboración de los organismos competentes sobre la adopción y las relaciones internacionales de la Administración General del Estado, de conformidad con el artículo 7.3 de la LAI. 2. El seguimiento y control de la tramitación de cada expediente de adopción, corresponderá a las Entidades Públicas en cuyo territorio residan las personas que se ofrecen para adoptar.
 
-#### Artículo 29. Obligaciones de los organismos acreditados para la supervisión y coordinación administrativa 1.
-
-Con objeto de asegurar la supervisión y coordinación señalada en el artículo anterior, los organismos acreditados tendrán las siguientes obligaciones:
+#### Artículo 29. Obligaciones de los organismos acreditados para la supervisión y coordinación administrativa 1. Con objeto de asegurar la supervisión y coordinación señalada en el artículo anterior, los organismos acreditados tendrán las siguientes obligaciones:
 a) Tener un director que asumirá las funciones de dirección y coordinación técnica del equipo, incluyendo la actividad del representante en el país de origen. b) Participar en las reuniones técnicas a las que sean convocadas y observar las directrices que transmita el centro directivo competente. c) Someterse a las auditorías correspondientes, en las condiciones y con la periodicidad fijadas por el plan acordado por la Comisión Técnica de Seguimiento y Control, en los términos establecidos en el artículo 34.4 del RAI. d) Mantener un único archivo para todos los expedientes tramitados por el organismo, en el que se custodiarán en carpetas individualizadas para cada expediente: el contrato firmado con las personas que se ofrecen para la adopción, los documentos que acrediten el envío y la presentación de la solicitud ante el correspondiente organismo del país de origen, los documentos de preasignación y aceptación y
 
 cuantas informaciones escritas se transmitan a la familia. También se incluirán las facturas por servicios externos imputables a los interesados, así como las justificaciones de pagos y transferencias efectuados por razón de la tramitación de su expediente.
@@ -240,9 +240,7 @@ segundo grado, con cualquiera de los empleados públicos o autoridades que inter
 
 1. El representante del organismo acreditado deberá cumplir los siguientes requisitos:
 a) **Será una persona física.** Excepcionalmente, cuando así lo exija la legislación del país, podrá ser una persona jurídica que, en todo caso, deberá estar autorizada para trabajar en adopción internacional por la autoridad competente en el país de origen. En el caso de estados de estructura político-administrativa descentralizada podrá existir más de un representante. b) Deberá tener su residencia en el país de origen donde vaya a desarrollar su actividad, debiendo indicarse la zona o zonas del país donde fuera a realizar sus funciones. c) Deberá ser un profesional con experiencia en el ámbito de la infancia y la familia y disponer, tanto de conocimientos generales sobre la situación política, económica y social del país, como de conocimientos específicos sobre las políticas de la infancia y la familia en el país en el que se va a desarrollar la actividad, los sistemas de protección de los menores de edad, la legislación aplicable y los procedimientos de adopción. d) No podrá estar vinculado ni profesional ni personalmente a la administración, ni a las instituciones públicas o privadas de protección de menores, ni podrá tener intervención en los procedimientos conducentes a la previa declaración de adoptabilidad de los menores de edad en dicho país. e) Estará vinculado al organismo acreditado mediante contrato laboral o mercantil que deberá aportarse en cuanto se suscriba por las partes al centro directivo competente. Asimismo, percibirá una retribución adecuada a las tareas que desempeñe y a las circunstancias económicas del país de origen, que no dependerá de la culminación de la adopción. 2. El organismo acreditado responde de los actos realizados por el representante en su nombre, que estarán sometidos a la supervisión del centro directivo competente. Estos profesionales deberán ser evaluados por la Administración General del Estado, previa información de las Entidades Públicas. Los representantes actuarán, durante todo el proceso de adopción, conforme a:
-a) Las normas internacionales sobre protección de los menores de edad, el ordenamiento jurídico español y la legislación de su país de origen. b) Los principios de buena fe, confianza legítima, transparencia, y respeto del interés superior de la persona menor de edad, impidiendo beneficios financieros distintos de aquellos que fueran precisos para cubrir estrictamente los costes necesarios de la intermediación, así como toda práctica contraria a los principios del Convenio relativo a la protección del niño y a la cooperación en materia de adopción internacional, hecho en La Haya el 29 de mayo de 1993, y ratificado por España el 30 de junio de 1995.
-
-1. El organismo acreditado no podrá admitir a trámite nueva solicitud de aquellas personas que ya tengan en trámite una solicitud anterior de adopción internacional en ese, otro organismo acreditado o directamente a través de la Entidad Pública. 2. El organismo acreditado no podrá tramitar un mismo procedimiento de adopción en varios países a la vez. Iniciados los trámites de una solicitud, será necesario finalizar o cancelar ese procedimiento para poder iniciar una nueva tramitación en el mismo u otro país. 3. No obstante lo dispuesto en los dos apartados anteriores, cuando por acuerdo del organismo competente de la Administración General del Estado, en un país se paralice la tramitación de todos los expedientes de adopción internacional ya iniciados sin que pueda preverse su reanudación, el centro directivo competente, previo acuerdo de la Comisión de Tutela del Menor, podrá autorizar a los titulares de los mismos a tramitar un segundo expediente en un país distinto. En caso de producirse una reanudación de los expedientes paralizados, deberán optar por uno de los dos abiertos y desistir del otro. 4. Las solicitudes de adopción que se tramiten a través del organismo acreditado deberán estar referidas a los menores de edad susceptibles de adopción del país o países para los que haya sido acreditada. 5. El organismo acreditado no podrá aceptar nuevos expedientes para su tramitación cuando haya alcanzado el número máximo de expedientes en tramitación, aprobado anualmente por el organismo competente de la Administración General del Estado, y objeto de distribución, de acuerdo con el artículo 11 l.
+a) Las normas internacionales sobre protección de los menores de edad, el ordenamiento jurídico español y la legislación de su país de origen. b) Los principios de buena fe, confianza legítima, transparencia, y respeto del interés superior de la persona menor de edad, impidiendo beneficios financieros distintos de aquellos que fueran precisos para cubrir estrictamente los costes necesarios de la intermediación, así como toda práctica contraria a los principios del Convenio relativo a la protección del niño y a la cooperación en materia de adopción internacional, hecho en La Haya el 29 de mayo de 1993, y ratificado por España el 30 de junio de 1995. 1. El organismo acreditado no podrá admitir a trámite nueva solicitud de aquellas personas que ya tengan en trámite una solicitud anterior de adopción internacional en ese, otro organismo acreditado o directamente a través de la Entidad Pública. 2. El organismo acreditado no podrá tramitar un mismo procedimiento de adopción en varios países a la vez. Iniciados los trámites de una solicitud, será necesario finalizar o cancelar ese procedimiento para poder iniciar una nueva tramitación en el mismo u otro país. 3. No obstante lo dispuesto en los dos apartados anteriores, cuando por acuerdo del organismo competente de la Administración General del Estado, en un país se paralice la tramitación de todos los expedientes de adopción internacional ya iniciados sin que pueda preverse su reanudación, el centro directivo competente, previo acuerdo de la Comisión de Tutela del Menor, podrá autorizar a los titulares de los mismos a tramitar un segundo expediente en un país distinto. En caso de producirse una reanudación de los expedientes paralizados, deberán optar por uno de los dos abiertos y desistir del otro. 4. Las solicitudes de adopción que se tramiten a través del organismo acreditado deberán estar referidas a los menores de edad susceptibles de adopción del país o países para los que haya sido acreditada. 5. El organismo acreditado no podrá aceptar nuevos expedientes para su tramitación cuando haya alcanzado el número máximo de expedientes en tramitación, aprobado anualmente por el organismo competente de la Administración General del Estado, y objeto de distribución, de acuerdo con el artículo 11 l.
 
 RAI. Asimismo, deberá informar de esta circunstancia a las personas que se ofrecen para la adopción interesadas en contratar sus servicios de mediación para la adopción internacional.
 
@@ -258,9 +256,7 @@ Los ingresos del organismo acreditado recibidos de las personas que se ofrecen p
 
 #### Artículo 37. Gastos directos
 
-1.
-
-El organismo acreditado repercutirá a las personas que se ofrezcan para adoptar, para hacer frente a los gastos derivados de la gestión específica de su expediente, los costes reales por los siguientes conceptos:
+1. El organismo acreditado repercutirá a las personas que se ofrezcan para adoptar, para hacer frente a los gastos derivados de la gestión específica de su expediente, los costes reales por los siguientes conceptos:
 a) Por la obtención, traducción, legalización, autenticación de documentos y gestiones similares realizadas tanto en España como en el extranjero. b) Por los honorarios profesionales o costes satisfechos a personas físicas o jurídicas externas al organismo acreditado por servicios facturados (mensajería, abogados, notarios, intérpretes…). Los costes satisfechos al representante en el país de origen únicamente tendrán este carácter cuando su vinculación con el organismo sea mediante un contrato de prestación de servicios en el que la retribución se fije en función de cada expediente en que intervenga. c) Por las tasas o tarifas oficiales exigidos por las autoridades del país, en los casos en que así sea. d) Por los gastos de manutención de la persona menor de edad, en los países cuya legislación así lo requiera, no pudiendo ser anteriores a la fecha en la que el adoptante aceptó la preasignación del menor. e) Por los costes por la realización de revisiones, pruebas e informes médicos de las personas menores de edad asignados en sus países de origen. f) Por los costes por la realización, elaboración, traducción, en su caso, legalización y envío al país de origen de los informes de seguimiento postadoptivos. 2. Para la satisfacción de estos gastos, las personas que se ofrecen para la adopción efectuarán una provisión de fondos, según las condiciones y términos establecidos en el contrato. Todos los pagos de los costes autorizados en la tarifa aprobada, tanto si se producen en España como en el país de origen, serán realizados por el organismo acreditado. La justificación de los costes tanto en España como en el en el país de origen vendrá acompañada de la traducción de los documentos y facturas justificativas.
 
 #### Artículo 38. Donaciones humanitarias.

@@ -1,7 +1,11 @@
 ---
 id: norm-can-res-boc-2026-070-115
 codigo_sintetizado: Resolucion BOC 115
-titulo: 'Resolución de 26 de marzo de 2026, por la que se convocan los Premios Extraordinarios de Bachillerato en el ámbito de la Comunidad Autónoma de Canarias, correspondientes al curso escolar 2025/2026. Plazo para realizar la inscripción: desde el 15 de mayo de 2026, día de la entrega de las calificaciones finales de segundo curso de Bachillerato, al 15 de junio de 2026.'
+titulo: 'Resolución de 26 de marzo de 2026, por la que se convocan los Premios Extraordinarios
+  de Bachillerato en el ámbito de la Comunidad Autónoma de Canarias, correspondientes
+  al curso escolar 2025/2026. Plazo para realizar la inscripción: desde el 15 de mayo
+  de 2026, día de la entrega de las calificaciones finales de segundo curso de Bachillerato,
+  al 15 de junio de 2026.'
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Ordenación, Inclusión e Innovación
@@ -13,48 +17,46 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Concursos y premios escolares
 tags:
-  - bachillerato
-  - concursos-y-premios-escolares
-  - curriculo
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - formacion-profesional
-  - inclusiva
-  - neae
+- bachillerato
+- concursos-y-premios-escolares
+- curriculo
+- ensenanzas-deportivas
+- equipos-directivos
+- formacion-profesional
+- inclusiva
+- neae
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-can-res-boc-2026-070-116
-    - norma_id: norm-can-res-boc-2026-070-41
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-res-boc-2026-070-116
+  - norma_id: norm-can-res-boc-2026-070-41
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
-    - norma_id: norm-can-res-028
-    - norma_id: norm-can-res-boc-2026-070-116
-    - norma_id: norm-can-res-boc-2026-070-41
+  - norma_id: norm-can-res-028
+  - norma_id: norm-can-res-boc-2026-070-116
+  - norma_id: norm-can-res-boc-2026-070-41
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-res-boc-2026-070-41
-    - norma_id: norm-can-res-boc-2026-070-116
+  - '1'
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-res-boc-2026-070-41
+  - norma_id: norm-can-res-boc-2026-070-116
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-070-1145.pdf
 ---
-# Resolución de 26 de marzo de 2026, por la que se convocan los Premios Extraordinarios de Bachillerato en el ámbito de la Comunidad Autónoma de Canarias, correspondientes al curso escolar 2025/2026. Plazo para realizar la inscripción: desde el 15 de mayo de 2026, día de la entrega de las calificaciones finales de segundo curso de Bachillerato, al 15 de junio de 2026.
-
-## Preámbulo
+# Resolución de 26 de marzo de 2026, por la que se convocan los Premios Extraordinarios de Bachillerato en el ámbito de la Comunidad Autónoma de Canarias, correspondientes al curso escolar 2025/2026. Plazo para realizar la inscripción: desde el 15 de mayo de 2026, día de la entrega de las calificaciones finales de segundo curso de Bachillerato, al 15 de junio de 2026. ## Preámbulo
 
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes [Resolución de 26 de marzo de 2026](../03_ordenacion_curricular_y_ensenanzas/R26_3_2026_amplian_resolucion_dicta_instrucciones_orientaciones_implantacion.md), por la que se convocan los Premios Extraordinarios de Bachillerato en el ámbito de la Comunidad Autónoma de Canarias, correspondientes al curso escolar 2025/2026. Al objeto de mejorar la calidad educativa, y de reconocer el esfuerzo y la dedicación del alumnado que termina la etapa educativa de Bachillerato en la Comunidad Autónoma de Canarias en el curso 2025/2026 con un excelente rendimiento académico, y en atención a los siguientes ANTECEDENTES DE HECHO
 Primero.- Con carácter anual la Consejería de Educación, Formación Profesional, Actividad Física y Deportes ( CEFPAFD) convoca los Premios de Bachillerato para el alumnado de dicha etapa educativa en el ámbito de la Comunidad Autónoma de Canarias, como reconocimiento oficial de los méritos basados en el esfuerzo y en el trabajo del alumnado que ha cursado esos estudios con un excelente rendimiento académico, constituyendo, en este sentido, un estímulo y un aliciente para que pueda proseguir con éxito sus estudios.
@@ -71,9 +73,7 @@ RESUELVO:
 
 #### Primero. Objeto.
 
-1. La presente Resolución tiene por objeto convocar los Premios Extraordinarios de Bachillerato en el ámbito de la Comunidad Autónoma de Canarias, correspondientes al curso académico 2025/2026.
-
-2. Para el presente curso, se convocan 18 Premios Extraordinarios de Bachillerato: 9 para la provincia de Santa Cruz de Tenerife y 9 para la provincia de Las Palmas, teniendo en cuenta el alumnado matriculado en el segundo curso de esta etapa educativa en cada provincia. No obstante, en el caso de que queden desiertos premios en alguna de las provincias, estos se podrán acumular a los de la otra provincia, teniendo en cuenta los requisitos establecidos en el resuelvo siguiente de esta convocatoria.
+1. La presente Resolución tiene por objeto convocar los Premios Extraordinarios de Bachillerato en el ámbito de la Comunidad Autónoma de Canarias, correspondientes al curso académico 2025/2026. 2. Para el presente curso, se convocan 18 Premios Extraordinarios de Bachillerato: 9 para la provincia de Santa Cruz de Tenerife y 9 para la provincia de Las Palmas, teniendo en cuenta el alumnado matriculado en el segundo curso de esta etapa educativa en cada provincia. No obstante, en el caso de que queden desiertos premios en alguna de las provincias, estos se podrán acumular a los de la otra provincia, teniendo en cuenta los requisitos establecidos en el resuelvo siguiente de esta convocatoria.
 Segundo.- Alumnado destinatario y requisitos específicos para participar en la convocatoria. Podrá optar al Premio Extraordinario de Bachillerato el alumnado que finalice sus estudios en el curso académico 2025/2026 y cumpla los siguientes requisitos:
 a) Haber cursado y superado en centros docentes españoles los dos cursos, primero y
 segundo de Bachillerato, en cualquiera de las modalidades establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en su redacción actual, y en cualquier tipo de enseñanza de esta etapa educativa.
@@ -170,9 +170,7 @@ c) Ordenación alfabética del alumnado participante por apellidos, comenzando p
 
 2. La secretarías de los centros educativos del alumnado premiado anotarán mediante diligencia esta distinción en su historial y expediente académico. Igualmente se procedería en el caso de que el Ministerio de Educación, Formación Profesional y Deportes llegara
 
-a convocar los Premios Nacionales de Bachillerato, correspondientes al curso escolar 2025/2026.
-
-3. Además, el alumnado premiado quedará exento del pago del precio público establecido por la matrícula del primer curso de los estudios de grado de las universidades públicas de la Comunidad Autónoma de Canarias en los que se matricule, conforme a lo que establezca, en su momento, el Decreto que fije los precios públicos a satisfacer por la prestación de servicios académicos de carácter universitario para el curso 2026/2027 por las universidades públicas de la Comunidad Autónoma de Canarias.
+a convocar los Premios Nacionales de Bachillerato, correspondientes al curso escolar 2025/2026. 3. Además, el alumnado premiado quedará exento del pago del precio público establecido por la matrícula del primer curso de los estudios de grado de las universidades públicas de la Comunidad Autónoma de Canarias en los que se matricule, conforme a lo que establezca, en su momento, el Decreto que fije los precios públicos a satisfacer por la prestación de servicios académicos de carácter universitario para el curso 2026/2027 por las universidades públicas de la Comunidad Autónoma de Canarias.
 
 4. La concesión de los premios, que pondrá fin a la vía administrativa, podrá ser recurrida potestativamente en reposición en el plazo de un mes ante el Consejero de Educación, Formación Profesional, Actividad Física y Deportes, o ser impugnada mediante la interposición de recurso contencioso-administrativo conforme a lo establecido en el artículo 111 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contenciosoadministrativa, en el plazo de dos meses a contar desde el día siguiente a la fecha de su publicación, de acuerdo con lo dispuesto en el artículo 46.1 de la citada Ley.
 

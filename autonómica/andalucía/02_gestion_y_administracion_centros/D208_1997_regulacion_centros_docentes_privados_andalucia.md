@@ -1,10 +1,12 @@
 ---
 id: norm-and-d-208-1997
 codigo_sintetizado: D208_1997 Regulacion Centros Docentes Privados Andalucía
-titulo: Decreto 208/1997, de 9 de septiembre, por el que se aprueba el Reglamento de autorización de Centros Privados.
+titulo: Decreto 208/1997, de 9 de septiembre, por el que se aprueba el Reglamento
+  de autorización de Centros Privados.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 208/1997
 fecha_disposicion: '1997-09-09'
@@ -18,17 +20,17 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros privados
 tags:
-  - centros_privados
-  - autorizacion
-  - andalucia
+- centros_privados
+- autorizacion
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Decreto 208/1997, de 9 de septiembre, por el que se aprueba el Reglamento de autorización de Centros Privados.
 
@@ -45,9 +47,7 @@ Podrán participar en el procedimiento regulado por esta Orden aquellas Organiza
 a) Prestar Servicios Sociales en Andalucía dirigidos, al menos, a tres de los sectores de población que se enumeran en el artículo 11 de la Ley 2/1988, de 4 de abril, de Servicios Sociales de Andalucía.
 b) Encontrarse inscrita en el Registro de Entidades, Servicios y Centros de Servicios Sociales establecido en el Decreto 87/1996, de 20 de enero.
 c) Tener su ámbito efectivo de actuación en el conjunto del territorio de la Comunidad Autónoma de Andalucía.
-d) Estar constituida y desarrollar actividades con anterioridad al 1 de enero de 1993.
-
-#### Artículo 3. Propuesta de candidatos.
+d) Estar constituida y desarrollar actividades con anterioridad al 1 de enero de 1993. #### Artículo 3. Propuesta de candidatos.
 
 Las Organizaciones No Gubernamentales en las que concurran las circunstancias establecidas en el artículo anterior podrán proponer un candidato para vocal del Consejo Andaluz de Servicios Sociales y otro para cada uno de los Consejos Provinciales, dentro de los quince días hábiles siguientes al de la publicación de la presente Orden en el Boletín Oficial de la Junta de Andalucía, mediante escrito dirigido al Excmo. Sr. Consejero de Asuntos Sociales y suscrito por el representante legal de las mismas, en el que hará constar igualmente el nombre y apellidos de las personas designadas como candidatos. La propuesta se presentará en el Registro General de la Consejería de Asuntos Sociales, situado en Avda. Héroes de Toledo s/n, de Sevilla, sin perjuicio de lo establecido en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 

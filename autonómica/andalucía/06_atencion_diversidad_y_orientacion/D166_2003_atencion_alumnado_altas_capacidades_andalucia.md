@@ -1,10 +1,12 @@
 ---
 id: norm-and-d-166-2003
 codigo_sintetizado: D166_2003 Atencion Alumnado Altas Capacidades Andalucía
-titulo: Decreto 166/2003, de 17 de junio, sobre atención educativa al alumnado con altas capacidades intelectuales.
+titulo: Decreto 166/2003, de 17 de junio, sobre atención educativa al alumnado con
+  altas capacidades intelectuales.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 166/2003
 fecha_disposicion: '2003-06-17'
@@ -18,17 +20,17 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Atención a la diversidad
 tags:
-  - altas_capacidades
-  - sobredotacion
-  - enriquecimiento_curricular
-  - andalucia
+- altas_capacidades
+- sobredotacion
+- enriquecimiento_curricular
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-1-1996
 ---
 # Decreto 166/2003, de 17 de junio, sobre atención educativa al alumnado con altas capacidades intelectuales.
 

@@ -1,7 +1,8 @@
 ---
 id: norm-can-d-102-2023
 codigo_sintetizado: D102_2023 Ordenacion y Curriculo de la ESO en Canarias
-titulo: Decreto 102/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la Educación Secundaria Obligatoria en la Comunidad Autónoma de Canarias.
+titulo: Decreto 102/2023, de 9 de mayo, por el que se establece la ordenación y el
+  currículo de la Educación Secundaria Obligatoria en la Comunidad Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Gobierno de Canarias / Consejería de Educación
@@ -19,38 +20,35 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Secundaria Obligatoria (ESO)
 tags:
-  - admision-alumnado
-  - concurso-traslados
-  - curriculo
-  - curriculo-eso
-  - ebep
-  - educaci-n-secundaria-obligatoria-eso
-  - equipos-directivos
-  - eso
-  - evaluacion
-  - evaluacion-eso
-  - interinos
-  - oposiciones
-  - perfil-salida
+- admision-alumnado
+- concurso-traslados
+- curriculo
+- curriculo-eso
+- ebep
+- educaci-n-secundaria-obligatoria-eso
+- equipos-directivos
+- eso
+- evaluacion
+- evaluacion-eso
+- interinos
+- oposiciones
+- perfil-salida
 relaciones:
   desarrolla:
-    - norma_id: norm-es-rd-217-2022
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-217-2022
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '29'
-    - norma_id: norm-es-lo-2-2006
-  articulos:
-    - '6.5'
-    - '22'
-    - '24'
-    - '25'
-    - norma_id: norm-es-l-39-2015
+  - '6.5'
+  - '22'
+  - '24'
+  - '25'
+  - norma_id: norm-es-l-39-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-096-1554.pdf
 ---
 # Decreto 102/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la Educación Secundaria Obligatoria en la Comunidad Autónoma de Canarias.
@@ -380,9 +378,7 @@ Los centros privados y los centros privados concertados adecuarán su organizaci
 
 #### Disposición transitoria única. Calendario de aplicación.
 
-El presente decreto será de aplicación a partir del curso escolar 2023/2024.
-
-#### Disposición derogatoria única. Derogación normativa.
+El presente decreto será de aplicación a partir del curso escolar 2023/2024. #### Disposición derogatoria única. Derogación normativa.
 
 1. Queda derogado el Decreto 97/2015, de 3 de marzo, por el que se establece la ordenación y el currículo de la Educación Primaria en la Comunidad Autónoma de Andalucía.
 

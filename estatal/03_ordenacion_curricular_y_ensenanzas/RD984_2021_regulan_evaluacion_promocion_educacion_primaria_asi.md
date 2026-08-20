@@ -1,10 +1,14 @@
 ---
 id: norm-es-2021-18812
 codigo_sintetizado: BOE-A-2021-18812
-titulo: Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
+titulo: Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación
+  y la promoción en la Educación Primaria, así como la evaluación, la promoción y
+  la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación
+  Profesional.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2021-11-17'
 boletin: BOE
@@ -15,39 +19,36 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Primaria
 tags:
-  - bachillerato
-  - curriculo
-  - educaci-n-primaria
-  - educacion-primaria
-  - eso
-  - evaluacion
-  - formacion-profesional
-  - fp-basica
-  - profesorado
-  - titulacion
+- bachillerato
+- curriculo
+- educaci-n-primaria
+- educacion-primaria
+- eso
+- evaluacion
+- formacion-profesional
+- fp-basica
+- profesorado
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2014-2222
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2014-2222
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
-    - norma_id: norm-es-rd-157-2022
-    - norma_id: norm-es-rd-217-2022
-    - norma_id: norm-es-rd-243-2022
+  - norma_id: norm-es-rd-157-2022
+  - norma_id: norm-es-rd-217-2022
+  - norma_id: norm-es-rd-243-2022
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-es-l-39-2015
-  articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-2014-2222
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2014-2222
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 ---
 # Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
 
@@ -69,9 +70,7 @@ En el calendario de implantación que recoge su disposición final quinta, la nu
 
 Procede pues, en tanto que no se publiquen los reales decretos que desarrollen estos aspectos, regular la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
 
-En cualquier caso, es necesario destacar que la implantación de las modificaciones previstas en la nueva ley ha de ir vinculada a la aplicación de lo establecido en el Real Decreto-ley 31/2020, de 29 de septiembre, por el que se adoptan medidas urgentes en el ámbito de la educación no universitaria, hasta que las autoridades correspondientes no determinen que han dejado de concurrir las circunstancias extraordinarias derivadas de la pandemia generada por la COVID-19.
-
-El presente real decreto se adecua a los principios de buena regulación previstos en el artículo 129 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En lo que se refiere a los principios de necesidad y eficacia, se trata de una norma necesaria para el cumplimiento del calendario de implantación de la Ley Orgánica 3/2020, de 29 de diciembre. De acuerdo con el principio de proporcionalidad contiene la regulación imprescindible de lo previsto por la citada ley, no existiendo ninguna alternativa regulatoria menos restrictiva de derechos. Conforme a los principios de seguridad jurídica y eficiencia resulta coherente con el ordenamiento jurídico y permite una gestión más eficiente de los recursos públicos. Cumple también con el principio de transparencia, ya que identifica claramente su propósito y durante el procedimiento de elaboración de la norma se ha permitido la participación activa de los potenciales destinatarios a través del trámite de audiencia e información pública.
+En cualquier caso, es necesario destacar que la implantación de las modificaciones previstas en la nueva ley ha de ir vinculada a la aplicación de lo establecido en el Real Decreto-ley 31/2020, de 29 de septiembre, por el que se adoptan medidas urgentes en el ámbito de la educación no universitaria, hasta que las autoridades correspondientes no determinen que han dejado de concurrir las circunstancias extraordinarias derivadas de la pandemia generada por la COVID-19. El presente real decreto se adecua a los principios de buena regulación previstos en el artículo 129 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En lo que se refiere a los principios de necesidad y eficacia, se trata de una norma necesaria para el cumplimiento del calendario de implantación de la Ley Orgánica 3/2020, de 29 de diciembre. De acuerdo con el principio de proporcionalidad contiene la regulación imprescindible de lo previsto por la citada ley, no existiendo ninguna alternativa regulatoria menos restrictiva de derechos. Conforme a los principios de seguridad jurídica y eficiencia resulta coherente con el ordenamiento jurídico y permite una gestión más eficiente de los recursos públicos. Cumple también con el principio de transparencia, ya que identifica claramente su propósito y durante el procedimiento de elaboración de la norma se ha permitido la participación activa de los potenciales destinatarios a través del trámite de audiencia e información pública.
 
 De acuerdo con la jurisprudencia constitucional, procede en este caso establecer la extensión del carácter básico a una norma reglamentaria, ya que, conforme a la excepcionalidad admitida por el Tribunal constitucional, entre otras, en las SSTC 25/1983, 32/1983 y 48/1988, «resulta complemento indispensable en determinados supuestos para asegurar el mínimo común denominador establecido en las normas legales básicas».
 
@@ -93,11 +92,11 @@ Lo establecido en el presente real decreto será de aplicación en los centros q
 
 #### Artículo 3. Referentes de la evaluación.
 
-1. La evaluación se llevará a cabo tomando como referentes los diferentes elementos del currículo que se recogen en el [Real Decreto 126/2014](RD126_2014_establece_curriculo_basico_educacion_primaria.md), de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria, y el Real Decreto 1105/2014, de 26 de diciembre, por el que se establece el currículo básico de la Educación Secundaria Obligatoria y del Bachillerato, respectivamente. En todo caso, se tendrá en cuenta que los estándares de aprendizaje evaluables que figuran en los anexos de dichos reales decretos tienen carácter meramente orientativo.
+1. La evaluación se llevará a cabo tomando como referentes los diferentes elementos del currículo que se recogen en el [Real Decreto 126/2014](RD126_2014_establece_curriculo_basico_educacion_primaria.md), de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria, y el Real Decreto 1105/2014, de 26 de diciembre, por el que se establece el currículo básico de la Educación Secundaria Obligatoria y del Bachillerato, respectivamente. En todo caso, se tendrá en cuenta que los estándares de aprendizaje evaluables que figuran en los anexos de dichos reales decretos tienen carácter meramente orientativo.
 
-2. La evaluación en Formación Profesional tendrá como referentes los elementos de los currículos básicos publicados para cada uno de los títulos, teniendo siempre en cuenta la globalidad del ciclo.
+2. La evaluación en Formación Profesional tendrá como referentes los elementos de los currículos básicos publicados para cada uno de los títulos, teniendo siempre en cuenta la globalidad del ciclo.
 
-3. En el caso del alumnado con necesidades educativas especiales los referentes de la evaluación durante la educación básica serán los incluidos en las correspondientes adaptaciones del currículo, sin que este hecho pueda impedirles la promoción al siguiente curso o etapa, o la obtención del título de Graduado en Educación Secundaria Obligatoria.
+3. En el caso del alumnado con necesidades educativas especiales los referentes de la evaluación durante la educación básica serán los incluidos en las correspondientes adaptaciones del currículo, sin que este hecho pueda impedirles la promoción al siguiente curso o etapa, o la obtención del título de Graduado en Educación Secundaria Obligatoria.
 
 #### Artículo 4. Derecho del alumnado a una evaluación objetiva.
 
@@ -109,13 +108,13 @@ Cuando el alumnado sea menor de edad, sus madres, padres o tutores legales deber
 
 #### Artículo 6. Atención a las diferencias individuales en la evaluación.
 
-1. En el marco de lo establecido por las respectivas Administraciones educativas, se establecerán las medidas más adecuadas para que las condiciones de realización de los procesos asociados a la evaluación se adapten a las circunstancias del alumnado con necesidad específica de apoyo educativo. Estas adaptaciones en ningún caso se tendrán en cuenta para minorar las calificaciones obtenidas.
+1. En el marco de lo establecido por las respectivas Administraciones educativas, se establecerán las medidas más adecuadas para que las condiciones de realización de los procesos asociados a la evaluación se adapten a las circunstancias del alumnado con necesidad específica de apoyo educativo. Estas adaptaciones en ningún caso se tendrán en cuenta para minorar las calificaciones obtenidas.
 
-2. Igualmente, se promoverá el uso generalizado de instrumentos de evaluación variados, diversos y adaptados a las distintas situaciones de aprendizaje, que permitan la valoración objetiva de todo el alumnado.
+2. Igualmente, se promoverá el uso generalizado de instrumentos de evaluación variados, diversos y adaptados a las distintas situaciones de aprendizaje, que permitan la valoración objetiva de todo el alumnado.
 
-3. Se establecerán medidas de flexibilización y alternativas metodológicas en la enseñanza y evaluación de la lengua extranjera para el alumnado con necesidad específica de apoyo educativo, en especial para aquel que presente dificultades en su comprensión y expresión.
+3. Se establecerán medidas de flexibilización y alternativas metodológicas en la enseñanza y evaluación de la lengua extranjera para el alumnado con necesidad específica de apoyo educativo, en especial para aquel que presente dificultades en su comprensión y expresión.
 
-4. Cuando las circunstancias personales del alumno o alumna con necesidades educativas especiales lo aconsejen para la consecución de los objetivos de la enseñanza básica, este alumnado podrá prolongar un curso adicional su escolarización. Estas circunstancias podrán ser permanentes o transitorias y deberán estar suficientemente acreditadas.
+4. Cuando las circunstancias personales del alumno o alumna con necesidades educativas especiales lo aconsejen para la consecución de los objetivos de la enseñanza básica, este alumnado podrá prolongar un curso adicional su escolarización. Estas circunstancias podrán ser permanentes o transitorias y deberán estar suficientemente acreditadas.
 
 #### Artículo 7. Evaluación de la Lengua cooficial.
 
@@ -125,69 +124,69 @@ En aquellas comunidades autónomas que posean más de una lengua oficial de acue
 
 #### Artículo 8. Evaluación.
 
-1. La evaluación del alumnado será continua y global y tendrá en cuenta su progreso en el conjunto de los procesos de aprendizaje.
+1. La evaluación del alumnado será continua y global y tendrá en cuenta su progreso en el conjunto de los procesos de aprendizaje.
 
-2. En el contexto de este proceso de evaluación continua, cuando el progreso de un alumno o alumna no sea el adecuado, se establecerán medidas de refuerzo educativo. Estas medidas deberán adoptarse tan pronto como se detecten las dificultades, con especial seguimiento a la situación del alumnado con necesidades educativas especiales y estarán dirigidas a garantizar la adquisición de los aprendizajes imprescindibles para continuar el proceso educativo, con los apoyos que cada uno precise.
+2. En el contexto de este proceso de evaluación continua, cuando el progreso de un alumno o alumna no sea el adecuado, se establecerán medidas de refuerzo educativo. Estas medidas deberán adoptarse tan pronto como se detecten las dificultades, con especial seguimiento a la situación del alumnado con necesidades educativas especiales y estarán dirigidas a garantizar la adquisición de los aprendizajes imprescindibles para continuar el proceso educativo, con los apoyos que cada uno precise.
 
-3. Los centros docentes podrán, conforme a las orientaciones de las Administraciones educativas, elaborar programas de refuerzo o de enriquecimiento curricular que permitan mejorar el nivel competencial del alumnado que lo requiera.
+3. Los centros docentes podrán, conforme a las orientaciones de las Administraciones educativas, elaborar programas de refuerzo o de enriquecimiento curricular que permitan mejorar el nivel competencial del alumnado que lo requiera.
 
-4. El profesorado evaluará tanto los aprendizajes del alumnado como los procesos de enseñanza y su propia práctica docente.
+4. El profesorado evaluará tanto los aprendizajes del alumnado como los procesos de enseñanza y su propia práctica docente.
 
-5. Con independencia del seguimiento realizado a lo largo del curso, el equipo docente llevará a cabo la evaluación del alumnado de forma colegiada en una única sesión que tendrá lugar al finalizar el curso escolar.
+5. Con independencia del seguimiento realizado a lo largo del curso, el equipo docente llevará a cabo la evaluación del alumnado de forma colegiada en una única sesión que tendrá lugar al finalizar el curso escolar.
 
 #### Artículo 9. Promoción.
 
-1. El equipo docente adoptará las decisiones correspondientes sobre la promoción del alumnado de manera colegiada, tomando especialmente en consideración la información y el criterio del tutor o la tutora. En cualquier caso, las decisiones sobre la promoción se adoptarán al finalizar los cursos segundo, cuarto y sexto, siendo ésta automática en el resto de cursos de la etapa.
+1. El equipo docente adoptará las decisiones correspondientes sobre la promoción del alumnado de manera colegiada, tomando especialmente en consideración la información y el criterio del tutor o la tutora. En cualquier caso, las decisiones sobre la promoción se adoptarán al finalizar los cursos segundo, cuarto y sexto, siendo ésta automática en el resto de cursos de la etapa.
 
-2. El alumnado recibirá los apoyos necesarios para recuperar los aprendizajes que no hubiera alcanzado el curso anterior.
+2. El alumnado recibirá los apoyos necesarios para recuperar los aprendizajes que no hubiera alcanzado el curso anterior.
 
-3. Si en algún caso y tras haber aplicado las medidas ordinarias suficientes, adecuadas y personalizadas para atender el desfase curricular o las dificultades de aprendizaje del alumno o la alumna, el equipo docente considera que la permanencia un año más en el mismo curso es la medida más adecuada para favorecer su desarrollo, el citado equipo organizará un plan específico de refuerzo para que, durante ese curso, pueda alcanzar el grado de adquisición de las competencias correspondientes. Esta decisión solo se podrá adoptar una vez durante la etapa y tendrá, en todo caso, carácter excepcional.
+3. Si en algún caso y tras haber aplicado las medidas ordinarias suficientes, adecuadas y personalizadas para atender el desfase curricular o las dificultades de aprendizaje del alumno o la alumna, el equipo docente considera que la permanencia un año más en el mismo curso es la medida más adecuada para favorecer su desarrollo, el citado equipo organizará un plan específico de refuerzo para que, durante ese curso, pueda alcanzar el grado de adquisición de las competencias correspondientes. Esta decisión solo se podrá adoptar una vez durante la etapa y tendrá, en todo caso, carácter excepcional.
 
-4. En aplicación de lo previsto en el artículo 20.3 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, los tutores de segundo y cuarto emitirán al finalizar el curso un informe sobre el grado de adquisición de las competencias de cada alumno o alumna, indicando en su caso las medidas de refuerzo que se deben contemplar en el ciclo siguiente.
+4. En aplicación de lo previsto en el artículo 20.3 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, los tutores de segundo y cuarto emitirán al finalizar el curso un informe sobre el grado de adquisición de las competencias de cada alumno o alumna, indicando en su caso las medidas de refuerzo que se deben contemplar en el ciclo siguiente.
 
-5. Con el fin de garantizar la continuidad del proceso de formación del alumnado, cada alumno o alumna dispondrá al finalizar la etapa de un informe elaborado por su tutor o tutora sobre su evolución y el grado de adquisición de las competencias desarrolladas, según lo dispuesto por las Administraciones educativas. En el caso de alumnado con necesidades educativas especiales, el informe deberá reflejar las adaptaciones y medidas adoptadas y su necesidad de continuidad en la siguiente etapa escolar.
+5. Con el fin de garantizar la continuidad del proceso de formación del alumnado, cada alumno o alumna dispondrá al finalizar la etapa de un informe elaborado por su tutor o tutora sobre su evolución y el grado de adquisición de las competencias desarrolladas, según lo dispuesto por las Administraciones educativas. En el caso de alumnado con necesidades educativas especiales, el informe deberá reflejar las adaptaciones y medidas adoptadas y su necesidad de continuidad en la siguiente etapa escolar.
 
 ## Capítulo III. Educación Secundaria Obligatoria.
 
 #### Artículo 10. Evaluación.
 
-1. La evaluación del proceso de aprendizaje del alumnado de Educación Secundaria Obligatoria será continua, formativa e integradora.
+1. La evaluación del proceso de aprendizaje del alumnado de Educación Secundaria Obligatoria será continua, formativa e integradora.
 
-2. En el proceso de evaluación continua, cuando el progreso de un alumno o una alumna no sea el adecuado, se establecerán medidas de refuerzo educativo. Estas medidas se adoptarán en cualquier momento del curso, tan pronto como se detecten las dificultades, con especial seguimiento a la situación del alumnado con necesidades educativas especiales y estarán dirigidas a garantizar la adquisición de las competencias imprescindibles para continuar el proceso educativo, con los apoyos que cada uno precise.
+2. En el proceso de evaluación continua, cuando el progreso de un alumno o una alumna no sea el adecuado, se establecerán medidas de refuerzo educativo. Estas medidas se adoptarán en cualquier momento del curso, tan pronto como se detecten las dificultades, con especial seguimiento a la situación del alumnado con necesidades educativas especiales y estarán dirigidas a garantizar la adquisición de las competencias imprescindibles para continuar el proceso educativo, con los apoyos que cada uno precise.
 
-3. En la evaluación del proceso de aprendizaje del alumnado deberá tenerse en cuenta como referentes últimos, desde todas y cada una de las materias o ámbitos, la consecución de los objetivos establecidos para la etapa y el desarrollo de las competencias correspondientes. El carácter integrador de la evaluación no impedirá que el profesorado realice de manera diferenciada la evaluación de cada materia o ámbito teniendo en cuenta sus criterios de evaluación.
+3. En la evaluación del proceso de aprendizaje del alumnado deberá tenerse en cuenta como referentes últimos, desde todas y cada una de las materias o ámbitos, la consecución de los objetivos establecidos para la etapa y el desarrollo de las competencias correspondientes. El carácter integrador de la evaluación no impedirá que el profesorado realice de manera diferenciada la evaluación de cada materia o ámbito teniendo en cuenta sus criterios de evaluación.
 
-4. El profesorado evaluará tanto los aprendizajes del alumnado como los procesos de enseñanza y su propia práctica docente.
+4. El profesorado evaluará tanto los aprendizajes del alumnado como los procesos de enseñanza y su propia práctica docente.
 
-5. Con independencia del seguimiento realizado a lo largo del curso, el equipo docente llevará a cabo la evaluación del alumnado de forma colegiada en una única sesión que tendrá lugar al finalizar el curso escolar.
+5. Con independencia del seguimiento realizado a lo largo del curso, el equipo docente llevará a cabo la evaluación del alumnado de forma colegiada en una única sesión que tendrá lugar al finalizar el curso escolar.
 
 #### Artículo 11. Promoción.
 
-1. Las decisiones sobre la promoción del alumnado de un curso a otro serán adoptadas de forma colegiada por el equipo docente, atendiendo a la consecución de los objetivos, al grado de adquisición de las competencias establecidas y a la valoración de las medidas que favorezcan el progreso del alumno o la alumna.
+1. Las decisiones sobre la promoción del alumnado de un curso a otro serán adoptadas de forma colegiada por el equipo docente, atendiendo a la consecución de los objetivos, al grado de adquisición de las competencias establecidas y a la valoración de las medidas que favorezcan el progreso del alumno o la alumna.
 
-2. Los alumnos y alumnas promocionarán de curso cuando el equipo docente considere que la naturaleza de las materias no superadas les permite seguir con éxito el curso siguiente y se estime que tienen expectativas favorables de recuperación y que dicha promoción beneficiará su evolución académica. Promocionarán quienes hayan superado las materias o ámbitos cursados o tengan evaluación negativa en una o dos materias.
+2. Los alumnos y alumnas promocionarán de curso cuando el equipo docente considere que la naturaleza de las materias no superadas les permite seguir con éxito el curso siguiente y se estime que tienen expectativas favorables de recuperación y que dicha promoción beneficiará su evolución académica. Promocionarán quienes hayan superado las materias o ámbitos cursados o tengan evaluación negativa en una o dos materias.
 
-3. Quienes promocionen sin haber superado todas las materias o ámbitos seguirán los planes de refuerzo que establezca el equipo docente, que revisará periódicamente la aplicación personalizada de estos en diferentes momentos del curso académico y, en todo caso, al finalizar el mismo.
+3. Quienes promocionen sin haber superado todas las materias o ámbitos seguirán los planes de refuerzo que establezca el equipo docente, que revisará periódicamente la aplicación personalizada de estos en diferentes momentos del curso académico y, en todo caso, al finalizar el mismo.
 
 Este alumnado deberá superar las evaluaciones correspondientes a dichos planes, de acuerdo con lo dispuesto por las Administraciones educativas. Esta circunstancia será tenida en cuenta a los efectos de promoción y titulación previstos en los apartados anteriores.
 
-4. La permanencia en el mismo curso se considerará una medida de carácter excepcional y se tomará tras haber agotado las medidas ordinarias de refuerzo y apoyo para solventar las dificultades de aprendizaje del alumno o la alumna. En todo caso, el alumno o la alumna podrá permanecer en el mismo curso una sola vez y dos veces como máximo a lo largo de la enseñanza obligatoria.
+4. La permanencia en el mismo curso se considerará una medida de carácter excepcional y se tomará tras haber agotado las medidas ordinarias de refuerzo y apoyo para solventar las dificultades de aprendizaje del alumno o la alumna. En todo caso, el alumno o la alumna podrá permanecer en el mismo curso una sola vez y dos veces como máximo a lo largo de la enseñanza obligatoria.
 
-5. De forma excepcional se podrá permanecer un año más en el cuarto curso, aunque se haya agotado el máximo de permanencia, siempre que el equipo docente considere que esta medida favorece la adquisición de las competencias establecidas para la etapa. En este caso se podrá prolongar un año el límite de edad al que se refiere el artículo 4.2 de la Ley Orgánica 2/2006, de 3 de mayo.
+5. De forma excepcional se podrá permanecer un año más en el cuarto curso, aunque se haya agotado el máximo de permanencia, siempre que el equipo docente considere que esta medida favorece la adquisición de las competencias establecidas para la etapa. En este caso se podrá prolongar un año el límite de edad al que se refiere el artículo 4.2 de la Ley Orgánica 2/2006, de 3 de mayo.
 
-6. En todo caso, la permanencia en el mismo curso se planificará de manera que las condiciones curriculares se adapten a las necesidades del alumnado y estén orientadas a la superación de las dificultades detectadas, así como al avance y profundización en los aprendizajes ya adquiridos. Estas condiciones se recogerán en un plan específico personalizado con cuantas medidas se consideren adecuadas para este alumnado.
+6. En todo caso, la permanencia en el mismo curso se planificará de manera que las condiciones curriculares se adapten a las necesidades del alumnado y estén orientadas a la superación de las dificultades detectadas, así como al avance y profundización en los aprendizajes ya adquiridos. Estas condiciones se recogerán en un plan específico personalizado con cuantas medidas se consideren adecuadas para este alumnado.
 
 #### Artículo 12. Consejo orientador.
 
-1. Al finalizar el segundo curso se entregará a los padres, madres o tutores legales de cada alumno o alumna un consejo orientador. Dicho consejo incluirá un informe sobre el grado de logro de los objetivos y de adquisición de las competencias correspondientes, así como una propuesta a padres, madres o tutores legales o, en su caso, al alumno o alumna de la opción que se considera más adecuada para continuar su formación, que podrá incluir la incorporación a un programa de diversificación curricular o a un ciclo formativo de grado básico.
+1. Al finalizar el segundo curso se entregará a los padres, madres o tutores legales de cada alumno o alumna un consejo orientador. Dicho consejo incluirá un informe sobre el grado de logro de los objetivos y de adquisición de las competencias correspondientes, así como una propuesta a padres, madres o tutores legales o, en su caso, al alumno o alumna de la opción que se considera más adecuada para continuar su formación, que podrá incluir la incorporación a un programa de diversificación curricular o a un ciclo formativo de grado básico.
 
-2. Igualmente, al finalizar la etapa, o en su caso, al concluir su escolarización, todo el alumnado recibirá un consejo orientador individualizado que incluirá una propuesta sobre la opción u opciones académicas, formativas o profesionales que se consideran más convenientes. Este consejo orientador tendrá por objeto que todo el alumnado encuentre una opción adecuada para su futuro formativo.
+2. Igualmente, al finalizar la etapa, o en su caso, al concluir su escolarización, todo el alumnado recibirá un consejo orientador individualizado que incluirá una propuesta sobre la opción u opciones académicas, formativas o profesionales que se consideran más convenientes. Este consejo orientador tendrá por objeto que todo el alumnado encuentre una opción adecuada para su futuro formativo.
 
 #### Artículo 13. Incorporación a los programas de diversificación curricular.
 
-1. Los programas de diversificación curricular estarán orientados a la consecución del título de Graduado en Educación Secundaria Obligatoria, por parte de quienes presenten dificultades relevantes de aprendizaje tras haber recibido, en su caso, medidas de apoyo en el primero o segundo curso de esta etapa, o a quienes esta medida de atención a la diversidad les sea favorable para la obtención del título.
+1. Los programas de diversificación curricular estarán orientados a la consecución del título de Graduado en Educación Secundaria Obligatoria, por parte de quienes presenten dificultades relevantes de aprendizaje tras haber recibido, en su caso, medidas de apoyo en el primero o segundo curso de esta etapa, o a quienes esta medida de atención a la diversidad les sea favorable para la obtención del título.
 
-2. Los equipos docentes podrán proponer que, en 2022-2023, se incorporen al primer curso de un programa de diversificación curricular aquellos alumnos o alumnas que se considere que precisan una metodología específica asociada a una organización del currículo diferente a la establecida con carácter general para alcanzar los objetivos de la etapa y las competencias correspondientes, y que, además, se encuentren en alguna de las siguientes situaciones:
+2. Los equipos docentes podrán proponer que, en 2022-2023, se incorporen al primer curso de un programa de diversificación curricular aquellos alumnos o alumnas que se considere que precisan una metodología específica asociada a una organización del currículo diferente a la establecida con carácter general para alcanzar los objetivos de la etapa y las competencias correspondientes, y que, además, se encuentren en alguna de las siguientes situaciones:
 
 a) Que finalicen en 2021-2022 el segundo curso de Educación Secundaria Obligatoria, no estén en condiciones de promocionar a tercero y el equipo docente considere que la permanencia un año más en el mismo curso no va a suponer un beneficio en su evolución académica.
 
@@ -197,9 +196,7 @@ c) Que finalicen en 2021-2022 el tercer curso de Educación Secundaria Obligator
 
 En todos estos casos, la incorporación a estos programas requerirá, además de la evaluación académica, un informe de idoneidad de la medida en los términos que establezcan las Administraciones educativas, y se realizará una vez oído el propio alumno o alumna, y contando con la conformidad de sus madres, padres, o tutores legales.
 
-3. El alumnado que en 2021-2022 hubiera cursado el segundo curso de Educación Secundaria Obligatoria en un programa de mejora del aprendizaje y del rendimiento podrá incorporarse de forma automática al primer curso de un programa de diversificación curricular en el curso 2022-2023. Asimismo podrán hacerlo quienes hayan finalizado el tercer curso de Educación Secundaria Obligatoria en un programa de mejora del aprendizaje y del rendimiento y no estén en condiciones de promocionar a cuarto curso, siempre que la incorporación al programa les permita obtener el título dentro de los límites de edad establecidos en el artículo 4.2 de la Ley Orgánica 2/2006, de 3 de mayo, teniendo en cuenta asimismo la prolongación excepcional de la permanencia en la etapa que prevé la propia ley en el artículo 28.5.
-
-4. Las Administraciones educativas garantizarán al alumnado con necesidades educativas especiales que participe en estos programas los recursos de apoyo que, con carácter general, se prevean para este alumnado.
+3. El alumnado que en 2021-2022 hubiera cursado el segundo curso de Educación Secundaria Obligatoria en un programa de mejora del aprendizaje y del rendimiento podrá incorporarse de forma automática al primer curso de un programa de diversificación curricular en el curso 2022-2023. Asimismo podrán hacerlo quienes hayan finalizado el tercer curso de Educación Secundaria Obligatoria en un programa de mejora del aprendizaje y del rendimiento y no estén en condiciones de promocionar a cuarto curso, siempre que la incorporación al programa les permita obtener el título dentro de los límites de edad establecidos en el artículo 4.2 de la Ley Orgánica 2/2006, de 3 de mayo, teniendo en cuenta asimismo la prolongación excepcional de la permanencia en la etapa que prevé la propia ley en el artículo 28.5. 4. Las Administraciones educativas garantizarán al alumnado con necesidades educativas especiales que participe en estos programas los recursos de apoyo que, con carácter general, se prevean para este alumnado.
 
 #### Artículo 14. Incorporación a un programa de mejora del aprendizaje y del rendimiento.
 
@@ -215,29 +212,29 @@ b) Que hayan cursado el tercer curso de Educación Secundaria Obligatoria o, exc
 
 #### Artículo 16. Título de Graduado en Educación Secundaria Obligatoria.
 
-1. Obtendrán el título de Graduado en Educación Secundaria Obligatoria los alumnos y alumnas que, al terminar la Educación Secundaria Obligatoria, hayan adquirido, a juicio del equipo docente, las competencias establecidas y alcanzado los objetivos de la etapa, sin perjuicio de lo establecido en el artículo 3.3 de este real decreto.
+1. Obtendrán el título de Graduado en Educación Secundaria Obligatoria los alumnos y alumnas que, al terminar la Educación Secundaria Obligatoria, hayan adquirido, a juicio del equipo docente, las competencias establecidas y alcanzado los objetivos de la etapa, sin perjuicio de lo establecido en el artículo 3.3 de este real decreto.
 
-2. Las decisiones sobre la obtención del título serán adoptadas de forma colegiada por el profesorado del alumno o la alumna.
+2. Las decisiones sobre la obtención del título serán adoptadas de forma colegiada por el profesorado del alumno o la alumna.
 
-3. El título de Graduado en Educación Secundaria Obligatoria será único y se expedirá sin calificación.
+3. El título de Graduado en Educación Secundaria Obligatoria será único y se expedirá sin calificación.
 
-4. En cualquier caso, todos los alumnos y alumnas recibirán, al concluir su escolarización en la Educación Secundaria Obligatoria, una certificación oficial en la que constará el número de años cursados y el nivel de adquisición de las competencias de la etapa.
+4. En cualquier caso, todos los alumnos y alumnas recibirán, al concluir su escolarización en la Educación Secundaria Obligatoria, una certificación oficial en la que constará el número de años cursados y el nivel de adquisición de las competencias de la etapa.
 
-5. Quienes, una vez finalizado el proceso de evaluación de cuarto curso de Educación Secundaria Obligatoria, no hayan obtenido el título, y hayan superado los límites de edad establecidos en el artículo 4.2 de la Ley Orgánica 2/2006, de 3 de mayo, teniendo en cuenta asimismo la prolongación excepcional de la permanencia en la etapa que prevé la propia ley en el artículo 28.5, podrán hacerlo en los dos cursos siguientes a través de la realización de pruebas o actividades personalizadas extraordinarias de las materias que no hayan superado, de acuerdo con el currículo establecido por las Administraciones educativas competentes y con la organización que dichas Administraciones dispongan.
+5. Quienes, una vez finalizado el proceso de evaluación de cuarto curso de Educación Secundaria Obligatoria, no hayan obtenido el título, y hayan superado los límites de edad establecidos en el artículo 4.2 de la Ley Orgánica 2/2006, de 3 de mayo, teniendo en cuenta asimismo la prolongación excepcional de la permanencia en la etapa que prevé la propia ley en el artículo 28.5, podrán hacerlo en los dos cursos siguientes a través de la realización de pruebas o actividades personalizadas extraordinarias de las materias que no hayan superado, de acuerdo con el currículo establecido por las Administraciones educativas competentes y con la organización que dichas Administraciones dispongan.
 
 ## Capítulo IV. Ciclos de Formación Profesional Básica.
 
 #### Artículo 17. Evaluación.
 
-1. La evaluación del proceso de aprendizaje del alumnado de ciclos de Formación Profesional Básica será continua, formativa e integradora.
+1. La evaluación del proceso de aprendizaje del alumnado de ciclos de Formación Profesional Básica será continua, formativa e integradora.
 
-2. El equipo docente constituido por el conjunto de profesores del alumno o la alumna, coordinados por el tutor o la tutora, actuará de manera colegiada a lo largo del proceso de evaluación y en la adopción de las decisiones resultantes del mismo, atendiendo a los criterios pedagógicos de estos ciclos, su organización del currículo desde una perspectiva aplicada, el papel asignado a la tutoría y la orientación educativa y profesional, realizando un acompañamiento socioeducativo personalizado.
+2. El equipo docente constituido por el conjunto de profesores del alumno o la alumna, coordinados por el tutor o la tutora, actuará de manera colegiada a lo largo del proceso de evaluación y en la adopción de las decisiones resultantes del mismo, atendiendo a los criterios pedagógicos de estos ciclos, su organización del currículo desde una perspectiva aplicada, el papel asignado a la tutoría y la orientación educativa y profesional, realizando un acompañamiento socioeducativo personalizado.
 
-3. En el proceso de evaluación continua, cuando el progreso de un alumno o una alumna no sea el adecuado, cuando el alumnado presente necesidades educativas especiales, y, en todo caso, en cuanto se detecten dificultades en el proceso de aprendizaje del alumno o alumna, la tutoría tendrá una especial relevancia, realizando un acompañamiento socioeducativo específico para el establecimiento de los apoyos individualizados que se precisen.
+3. En el proceso de evaluación continua, cuando el progreso de un alumno o una alumna no sea el adecuado, cuando el alumnado presente necesidades educativas especiales, y, en todo caso, en cuanto se detecten dificultades en el proceso de aprendizaje del alumno o alumna, la tutoría tendrá una especial relevancia, realizando un acompañamiento socioeducativo específico para el establecimiento de los apoyos individualizados que se precisen.
 
-4. La evaluación del proceso de aprendizaje y la calificación del alumnado en los módulos de Comunicación y Sociedad y de Ciencias Aplicadas se realizará atendiendo al carácter global y al logro de las competencias incluidas en cada uno de ellos.
+4. La evaluación del proceso de aprendizaje y la calificación del alumnado en los módulos de Comunicación y Sociedad y de Ciencias Aplicadas se realizará atendiendo al carácter global y al logro de las competencias incluidas en cada uno de ellos.
 
-5. La evaluación del proceso de aprendizaje y la calificación del alumnado en el resto de módulos profesionales tendrá como referente los resultados de aprendizaje y las competencias profesionales, personales y sociales que en él se incluyen.
+5. La evaluación del proceso de aprendizaje y la calificación del alumnado en el resto de módulos profesionales tendrá como referente los resultados de aprendizaje y las competencias profesionales, personales y sociales que en él se incluyen.
 
 #### Artículo 18. Obtención del título de Graduado en Educación Secundaria Obligatoria.
 
@@ -247,31 +244,31 @@ La superación de la totalidad de los módulos incluidos en un ciclo de Formaci�
 
 #### Artículo 19. Evaluación.
 
-1. La evaluación del aprendizaje del alumnado será continua y diferenciada según las distintas materias.
+1. La evaluación del aprendizaje del alumnado será continua y diferenciada según las distintas materias.
 
-2. El profesorado de cada materia decidirá, al término del curso, si el alumno o la alumna ha logrado los objetivos y ha alcanzado el adecuado grado de adquisición de las competencias correspondientes.
+2. El profesorado de cada materia decidirá, al término del curso, si el alumno o la alumna ha logrado los objetivos y ha alcanzado el adecuado grado de adquisición de las competencias correspondientes.
 
-3. El alumnado podrá realizar una prueba extraordinaria de las materias no superadas, en las fechas que determinen las Administraciones educativas.
+3. El alumnado podrá realizar una prueba extraordinaria de las materias no superadas, en las fechas que determinen las Administraciones educativas.
 
-4. Los profesores evaluarán tanto los aprendizajes del alumnado como los procesos de enseñanza y su propia práctica docente.
+4. Los profesores evaluarán tanto los aprendizajes del alumnado como los procesos de enseñanza y su propia práctica docente.
 
 #### Artículo 20. Promoción.
 
-1. Los alumnos y las alumnas promocionarán de primero a segundo de Bachillerato cuando hayan superado las materias cursadas o tengan evaluación negativa en dos materias como máximo. En todo caso, deberán matricularse en segundo curso de las materias pendientes de primero. Los centros educativos deberán organizar las consiguientes actividades de recuperación y la evaluación de las materias pendientes en el marco organizativo que establezcan las Administraciones educativas.
+1. Los alumnos y las alumnas promocionarán de primero a segundo de Bachillerato cuando hayan superado las materias cursadas o tengan evaluación negativa en dos materias como máximo. En todo caso, deberán matricularse en segundo curso de las materias pendientes de primero. Los centros educativos deberán organizar las consiguientes actividades de recuperación y la evaluación de las materias pendientes en el marco organizativo que establezcan las Administraciones educativas.
 
-2. La superación de las materias de segundo curso que se indican en el anexo III del Real Decreto 1105/2014, de 26 de diciembre, estará condicionada a la superación de las correspondientes materias de primer curso indicadas en dicho anexo por implicar continuidad.
+2. La superación de las materias de segundo curso que se indican en el anexo III del Real Decreto 1105/2014, de 26 de diciembre, estará condicionada a la superación de las correspondientes materias de primer curso indicadas en dicho anexo por implicar continuidad.
 
 No obstante, el alumnado podrá matricularse de la materia de segundo curso sin haber cursado la correspondiente materia de primer curso siempre que el profesorado que la imparta considere que el alumno o alumna reúne las condiciones necesarias para poder seguir con aprovechamiento la materia de segundo. En caso contrario, deberá cursar la materia de primer curso, que tendrá la consideración de materia pendiente, si bien no será computable a efectos de modificar las condiciones en las que ha promocionado a segundo.
 
-3. Los alumnos y las alumnas que al término del segundo curso tuvieran evaluación negativa en algunas materias podrán matricularse de ellas sin necesidad de cursar de nuevo las materias superadas o podrán optar, asimismo, por repetir el curso completo.
+3. Los alumnos y las alumnas que al término del segundo curso tuvieran evaluación negativa en algunas materias podrán matricularse de ellas sin necesidad de cursar de nuevo las materias superadas o podrán optar, asimismo, por repetir el curso completo.
 
 #### Artículo 21. Título de Bachiller.
 
-1. El título de Bachiller acredita el logro de los objetivos establecidos para la etapa y la adquisición de las competencias correspondientes.
+1. El título de Bachiller acredita el logro de los objetivos establecidos para la etapa y la adquisición de las competencias correspondientes.
 
-2. Para obtener el título de Bachiller será necesaria la evaluación positiva en todas las materias de los dos cursos de Bachillerato.
+2. Para obtener el título de Bachiller será necesaria la evaluación positiva en todas las materias de los dos cursos de Bachillerato.
 
-3. Excepcionalmente, el equipo docente podrá decidir la obtención del título de Bachiller por un alumno o alumna que haya superado todas las materias salvo una, siempre que se cumplan además todas las condiciones siguientes:
+3. Excepcionalmente, el equipo docente podrá decidir la obtención del título de Bachiller por un alumno o alumna que haya superado todas las materias salvo una, siempre que se cumplan además todas las condiciones siguientes:
 
 a) Que el equipo docente considere que el alumno o la alumna ha alcanzado los objetivos y competencias vinculados a ese título.
 
@@ -283,11 +280,11 @@ d) Que la media aritmética de las calificaciones obtenidas en todas las materia
 
 En este caso, a efectos del cálculo de la calificación final de la etapa, se considerará la nota numérica obtenida en la materia no superada.
 
-4. El título de Bachiller será único y se expedirá con expresión de la modalidad cursada y de la nota media obtenida, que se hallará calculando la media aritmética de las calificaciones de todas las materias cursadas, redondeada a la centésima.
+4. El título de Bachiller será único y se expedirá con expresión de la modalidad cursada y de la nota media obtenida, que se hallará calculando la media aritmética de las calificaciones de todas las materias cursadas, redondeada a la centésima.
 
 #### Artículo 22. Obtención del título de Bachiller desde otras enseñanzas.
 
-1. El alumnado que tenga el título de Técnico o Técnica en Formación Profesional o en Artes Plásticas y Diseño podrá obtener el título de Bachiller por la superación de las siguientes materias:
+1. El alumnado que tenga el título de Técnico o Técnica en Formación Profesional o en Artes Plásticas y Diseño podrá obtener el título de Bachiller por la superación de las siguientes materias:
 
 a) Filosofía.
 
@@ -297,7 +294,7 @@ c) Lengua Castellana y Literatura I y II y, en su caso, Lengua Cooficial y Liter
 
 d) Primera Lengua Extranjera I y II.
 
-2. Además de las citadas en el apartado anterior, será necesario que este alumnado haya superado las siguientes materias, en función de la modalidad del título que desee obtener:
+2. Además de las citadas en el apartado anterior, será necesario que este alumnado haya superado las siguientes materias, en función de la modalidad del título que desee obtener:
 
 − Modalidad de Ciencias: Matemáticas I y II.
 
@@ -309,9 +306,7 @@ d) Primera Lengua Extranjera I y II.
 
 − Modalidad de Artes: Fundamentos del Arte I y II.
 
-3. También podrán obtener el título de Bachiller en la modalidad de Artes quienes hayan superado las Enseñanzas Profesionales de Música o de Danza, las materias establecidas en el apartado 1 de este artículo, y las correspondientes a la citada modalidad conforme al apartado 2.
-
-4. La nota que figurará en el título de Bachiller de este alumnado se deducirá de la siguiente ponderación:
+3. También podrán obtener el título de Bachiller en la modalidad de Artes quienes hayan superado las Enseñanzas Profesionales de Música o de Danza, las materias establecidas en el apartado 1 de este artículo, y las correspondientes a la citada modalidad conforme al apartado 2. 4. La nota que figurará en el título de Bachiller de este alumnado se deducirá de la siguiente ponderación:
 
 a) El 60 % de la media de las calificaciones obtenidas en las materias cursadas en Bachillerato.
 
@@ -321,9 +316,9 @@ b) El 40 % de la nota media obtenida en las enseñanzas mediante las que se acce
 
 #### Artículo 23. Evaluación y titulación.
 
-1. La evaluación del aprendizaje del alumnado en los ciclos formativos se realizará por módulos profesionales, teniendo siempre en cuenta la globalidad del ciclo.
+1. La evaluación del aprendizaje del alumnado en los ciclos formativos se realizará por módulos profesionales, teniendo siempre en cuenta la globalidad del ciclo.
 
-2. La superación de un ciclo formativo de grado medio, grado superior o curso de especialización requerirá la evaluación positiva en todos los módulos profesionales que lo componen. En los casos de organizaciones curriculares diferentes a los módulos profesionales, el equipo docente evaluará teniendo como referentes todos los resultados de aprendizaje y las competencias profesionales, personales y sociales que en ellos se incluyen.
+2. La superación de un ciclo formativo de grado medio, grado superior o curso de especialización requerirá la evaluación positiva en todos los módulos profesionales que lo componen. En los casos de organizaciones curriculares diferentes a los módulos profesionales, el equipo docente evaluará teniendo como referentes todos los resultados de aprendizaje y las competencias profesionales, personales y sociales que en ellos se incluyen.
 
 ## Capítulo VII. Educación de personas adultas.
 
@@ -335,7 +330,7 @@ Asimismo, el equipo docente podrá proponer para la expedición de dicho título
 
 #### Artículo 25. Bachillerato.
 
-1. Los alumnos y alumnas que cursen Bachillerato en el marco de la oferta específica establecida por las Administraciones educativas para personas adultas obtendrán el título siempre que hayan obtenido evaluación positiva en todas las materias de los dos cursos de Bachillerato, o en todas las materias salvo en una. En este último caso, se deberán reunir las condiciones siguientes:
+1. Los alumnos y alumnas que cursen Bachillerato en el marco de la oferta específica establecida por las Administraciones educativas para personas adultas obtendrán el título siempre que hayan obtenido evaluación positiva en todas las materias de los dos cursos de Bachillerato, o en todas las materias salvo en una. En este último caso, se deberán reunir las condiciones siguientes:
 
 a) Que el equipo docente considere que el alumno o la alumna ha alcanzado los objetivos y competencias vinculados a ese título.
 
@@ -345,15 +340,15 @@ c) Que el alumno o la alumna se haya presentado a todas las pruebas y realizado 
 
 d) Que la media aritmética de las calificaciones obtenidas en todas las materias de la etapa sea igual o superior a cinco.
 
-2. Asimismo, el alumnado que curse estas enseñanzas y se encuentre en posesión de alguno de los títulos a los que se refiere el artículo 22 de este real decreto, podrá obtener el título de Bachiller mediante el procedimiento previsto en el citado artículo.
+2. Asimismo, el alumnado que curse estas enseñanzas y se encuentre en posesión de alguno de los títulos a los que se refiere el artículo 22 de este real decreto, podrá obtener el título de Bachiller mediante el procedimiento previsto en el citado artículo.
 
 #### Artículo 26. Pruebas libres para la obtención de los títulos de Graduado en Educación Secundaria Obligatoria y de Bachiller.
 
-1. Las Administraciones educativas, en el ámbito de sus competencias, organizarán periódicamente pruebas para que las personas mayores de dieciocho años puedan obtener directamente el título de Graduado en Educación Secundaria Obligatoria, siempre que hayan alcanzado las competencias básicas y los objetivos de la etapa. Al mismo tiempo las propias Administraciones determinarán las partes de dicha prueba que se considerará que tienen superadas quienes concurran a las mismas, de acuerdo con su historia académica previa.
+1. Las Administraciones educativas, en el ámbito de sus competencias, organizarán periódicamente pruebas para que las personas mayores de dieciocho años puedan obtener directamente el título de Graduado en Educación Secundaria Obligatoria, siempre que hayan alcanzado las competencias básicas y los objetivos de la etapa. Al mismo tiempo las propias Administraciones determinarán las partes de dicha prueba que se considerará que tienen superadas quienes concurran a las mismas, de acuerdo con su historia académica previa.
 
-2. Asimismo, corresponderá a las Administraciones educativas la organización de pruebas para que las personas mayores de veinte años puedan obtener directamente el título de Bachiller, siempre que demuestren haber alcanzado los objetivos del Bachillerato. Dichas pruebas se organizarán de manera diferenciada según las modalidades del Bachillerato.
+2. Asimismo, corresponderá a las Administraciones educativas la organización de pruebas para que las personas mayores de veinte años puedan obtener directamente el título de Bachiller, siempre que demuestren haber alcanzado los objetivos del Bachillerato. Dichas pruebas se organizarán de manera diferenciada según las modalidades del Bachillerato.
 
-3. Corresponderá igualmente a las Administraciones educativas garantizar que dichas pruebas cuenten con las medidas de accesibilidad universal y las adaptaciones que precise todo el alumnado con necesidades educativas especiales.
+3. Corresponderá igualmente a las Administraciones educativas garantizar que dichas pruebas cuenten con las medidas de accesibilidad universal y las adaptaciones que precise todo el alumnado con necesidades educativas especiales.
 
 #### Disposición adicional única. No incremento del gasto público.
 
@@ -395,11 +390,7 @@ Se faculta a la persona titular del Ministerio de Educación y Formación Profes
 
 #### Disposición final tercera. Entrada en vigor.
 
-Su contenido será de aplicación a partir del curso escolar 2021-2022.
-
-Dado en Madrid, el 16 de noviembre de 2021.
-
-FELIPE R.
+Su contenido será de aplicación a partir del curso escolar 2021-2022. Dado en Madrid, el 16 de noviembre de 2021. FELIPE R.
 
 La Ministra de Educación y Formación Profesional,
 

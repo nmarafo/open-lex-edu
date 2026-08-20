@@ -1,7 +1,10 @@
 ---
 id: norm-can-res-boc-2019-024-22
 codigo_sintetizado: Resolucion BOC 22
-titulo: Resolución de 29 de enero de 2019, por la que se aprueba la convocatoria de reconocimiento de la trayectoria y proyección internacional de los centros educativos públicos no universitarios de la Comunidad Autónoma de Canarias (BOC n.º 24, de 5 de febrero).
+titulo: Resolución de 29 de enero de 2019, por la que se aprueba la convocatoria de
+  reconocimiento de la trayectoria y proyección internacional de los centros educativos
+  públicos no universitarios de la Comunidad Autónoma de Canarias (BOC n.º 24, de
+  5 de febrero).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Viceconsejería de Educación
@@ -13,30 +16,30 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros públicos
 tags:
-  - centros-p-blicos
-  - ensenanzas-universitarias
-  - evaluacion
-  - profesorado
+- centros-p-blicos
+- ensenanzas-universitarias
+- evaluacion
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-135-2016
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-d-135-2016
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-024-502.pdf
 ---
 # Resolución de 29 de enero de 2019, por la que se aprueba la convocatoria de reconocimiento de la trayectoria y proyección internacional de los centros educativos públicos no universitarios de la Comunidad Autónoma de Canarias (BOC n.º 24, de 5 de febrero).
@@ -135,9 +138,7 @@ MODELO DE SOLICITUD (A cumplimentar de forma telemática)
 (2) Breve descripción de cada una de las iniciativas y proyectos de internacionalización desarrollados en cada curso escolar.
 (3) Indicar los colectivos que participaron de cada una de las iniciativas y proyectos de internacionalización, con indicación del porcentaje en que participó cada uno.
 (4) Relación de premios, reconocimientos y/o valoraciones favorables se han obtenido en cada uno de los proyectos o iniciativas de internacionalización realizados en cada curso escolar.
-(5) Indicar qué documentos se aportan para acreditar cada una de las iniciativas y proyectos de internacionalización desarrollados en cada curso. Estos documentos se adjuntarán a la solicitud conforme a lo establecido en la presente resolución. El/la Director/a del centro Fdo. ______________________ En ____________________, a ___ de ___________de 2019.
-
-_Cnf50 ## Anexo III
+(5) Indicar qué documentos se aportan para acreditar cada una de las iniciativas y proyectos de internacionalización desarrollados en cada curso. Estos documentos se adjuntarán a la solicitud conforme a lo establecido en la presente resolución. El/la Director/a del centro Fdo. ______________________ En ____________________, a ___ de ___________de 2019. _Cnf50 ## Anexo III
 
 BAREMO Nivel: 0= Ausencia; 1 Bajo; 2 Medio; 3 Alto Valoración en puntuación: Ausencia=0; Bajo=1; Medio=2; Alto=3. 1
 

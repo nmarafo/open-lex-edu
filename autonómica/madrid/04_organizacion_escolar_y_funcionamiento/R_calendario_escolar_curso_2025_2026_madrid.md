@@ -1,10 +1,12 @@
 ---
 id: norm-mad-r-calendario-escolar-2025-2026
 codigo_sintetizado: R_Calendario Escolar Curso 2025-2026 Madrid
-titulo: Resolución por la que se establece el calendario escolar para el curso 2025-2026 en los centros docentes no universitarios de la Comunidad de Madrid.
+titulo: Resolución por la que se establece el calendario escolar para el curso 2025-2026
+  en los centros docentes no universitarios de la Comunidad de Madrid.
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Resolución
 numero_disposicion: Calendario 2025-2026
 fecha_disposicion: '2025-05-15'
@@ -18,19 +20,19 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Calendario escolar
 tags:
-  - calendario_escolar
-  - curso_2025_2026
-  - dias_lectivos
-  - vacaciones
-  - madrid
+- calendario_escolar
+- curso_2025_2026
+- dias_lectivos
+- vacaciones
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-mad-d-29-2013
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
+  - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
 ---
 # Resolución por la que se establece el calendario escolar para el curso 2025-2026 en los centros docentes no universitarios de la Comunidad de Madrid.
 
@@ -46,15 +48,10 @@ Segundo Educación Infantil, Educación Primaria y Educación Especial Actividad
 
 **2.2.1.** En las Escuelas Infantiles, Casas de Niños, unidades de primer ciclo de Educación Infantil autorizadas en colegios públicos y Escuelas Infantiles privadas sostenidas con fondos públicos, las actividades lectivas comenzarán el día 7 de septiembre de 2026 y finalizarán el día 30 de julio de 2027. Los alumnos escolarizados en unidades de segundo ciclo de Educación Infantil, en Escuelas Infantiles de la red pública de la Comunidad de Madrid y en Escuelas Infantiles privadas sostenidas con fondos públicos podrán acogerse al calendario del primer ciclo de Educación Infantil en las condiciones que oportunamente establezca la Consejería de Educación, Ciencia y Universidades.
 
-**2.2.2.** En los centros que imparten segundo ciclo de Educación Infantil, Educación Primaria o Educación Especial, las actividades lectivas comenzarán el día 7 de septiembre de 2026 y finalizarán el 18 de junio de 2027.
-Tercero Educación Secundaria Obligatoria, Bachillerato, Formación Profesional, Enseñanzas de Idiomas, Enseñanzas Artísticas Elementales y Profesionales y Educación de Personas Adultas Actividades escolares. Las actividades escolares se realizarán entre los días 1 de septiembre de 2026 y 30 de junio de 2027, con excepción de las correspondientes vacaciones y días festivos. Actividades lectivas.
+**2.2.2.** En los centros que imparten segundo ciclo de Educación Infantil, Educación Primaria o Educación Especial, las actividades lectivas comenzarán el día 7 de septiembre de 2026 y finalizarán el 18 de junio de 2027. Tercero Educación Secundaria Obligatoria, Bachillerato, Formación Profesional, Enseñanzas de Idiomas, Enseñanzas Artísticas Elementales y Profesionales y Educación de Personas Adultas Actividades escolares. Las actividades escolares se realizarán entre los días 1 de septiembre de 2026 y 30 de junio de 2027, con excepción de las correspondientes vacaciones y días festivos. Actividades lectivas.
 
 **3.2.1.** En los centros que imparten Educación Secundaria Obligatoria, Bachillerato y Formación Profesional, las actividades lectivas comenzarán el día 8 de septiembre de 2026 y terminarán el día 18 de junio de 2027, excepto para los alumnos de segundo curso de Bachillerato, que finalizarán sus actividades lectivas en función de las necesidades derivadas de la realización de la prueba de acceso a la Universidad y sus procedimientos de admisión. La evaluación final en la Educación Secundaria Obligatoria, con carácter general, se realizará hasta el 18 de junio de 2027. En Bachillerato y Formación Profesional, con carácter general, la evaluación final ordinaria se realizará hasta el 10 de junio de 2027. El período comprendido hasta el 18 de junio de 2027 se destinará, según corresponda en cada caso, a:
-a) Actividades de apoyo, refuerzo, tutorización y realización de las pruebas extraordinarias de evaluación para alumnos con materias o módulos pendientes. b) Actividades formativas para alumnos sin materias o módulos pendientes. No obstante, en el marco de la autonomía de los centros, la evaluación final en la Educación Secundaria Obligatoria y las pruebas extraordinarias de evaluación para alumnos con materias o módulos pendientes en Bachillerato y Formación Profesional podrán realizarse hasta el día 23 de junio de 2027.
-
-**3.2.2.** En los centros de Educación de Personas Adultas las actividades lectivas comenzarán el día 21 de septiembre de 2026 y terminarán el día 18 de junio de 2027.
-
-**3.2.3.** En los Conservatorios Profesionales de Música y en los Conservatorios Profesionales de Danza, las actividades lectivas comenzarán el día 8 de septiembre de 2026 y finalizarán el día 18 de junio de 2027. La sesión de evaluación final ordinaria se realizará del 24 al 28 de mayo de 2027. En el período comprendido desde la finalización de dicha evaluación hasta el 18 de junio de 2027, se realizarán actividades de repaso y profundización, las pruebas extraordinarias y la evaluación final extraordinaria. Los alumnos de sexto curso
+a) Actividades de apoyo, refuerzo, tutorización y realización de las pruebas extraordinarias de evaluación para alumnos con materias o módulos pendientes. b) Actividades formativas para alumnos sin materias o módulos pendientes. No obstante, en el marco de la autonomía de los centros, la evaluación final en la Educación Secundaria Obligatoria y las pruebas extraordinarias de evaluación para alumnos con materias o módulos pendientes en Bachillerato y Formación Profesional podrán realizarse hasta el día 23 de junio de 2027. **3.2.2.** En los centros de Educación de Personas Adultas las actividades lectivas comenzarán el día 21 de septiembre de 2026 y terminarán el día 18 de junio de 2027. **3.2.3.** En los Conservatorios Profesionales de Música y en los Conservatorios Profesionales de Danza, las actividades lectivas comenzarán el día 8 de septiembre de 2026 y finalizarán el día 18 de junio de 2027. La sesión de evaluación final ordinaria se realizará del 24 al 28 de mayo de 2027. En el período comprendido desde la finalización de dicha evaluación hasta el 18 de junio de 2027, se realizarán actividades de repaso y profundización, las pruebas extraordinarias y la evaluación final extraordinaria. Los alumnos de sexto curso
 
 Pág. 157 de enseñanzas profesionales finalizarán sus actividades lectivas en función de las necesidades derivadas de la prueba de acceso a la Universidad y sus procedimientos de admisión.
 
@@ -69,9 +66,7 @@ Las actividades académicas se realizarán entre los días 1 de septiembre de 20
 
 **4.3.1.** En los centros públicos que imparten Enseñanzas Artísticas Superiores: Real Conservatorio Superior de Música, Escuela Superior de Canto, Real Escuela Superior de Arte Dramático, Conservatorio Superior de Danza María de Ávila, Escuela Superior de Diseño y Escuela Superior de Conservación y Restauración de Bienes Culturales, las actividades lectivas comenzarán el día 9 de septiembre de 2026 y terminarán el día 18 de junio de 2027. Podrá prorrogarse, de forma excepcional, la fecha del 18 de junio para atender necesidades derivadas de la evaluación extraordinaria de los trabajos fin de grado.
 
-**4.3.2.** La evaluación final ordinaria de las asignaturas de carácter semestral que se impartan en el primer semestre deberá estar concluida el 22 de enero de 2027. Para aquellas asignaturas que se impartan en el segundo semestre o tengan carácter anual, la evaluación final ordinaria deberá estar concluida el 4 de junio de 2027.
-
-**4.3.3.** Con carácter general, en el período comprendido desde la finalización de la evaluación ordinaria hasta el 18 de junio de 2027, se realizarán las pruebas extraordinarias, la evaluación final extraordinaria de las asignaturas anuales y semestrales y las actividades que correspondan, con las excepciones señaladas en el apartado
+**4.3.2.** La evaluación final ordinaria de las asignaturas de carácter semestral que se impartan en el primer semestre deberá estar concluida el 22 de enero de 2027. Para aquellas asignaturas que se impartan en el segundo semestre o tengan carácter anual, la evaluación final ordinaria deberá estar concluida el 4 de junio de 2027. **4.3.3.** Con carácter general, en el período comprendido desde la finalización de la evaluación ordinaria hasta el 18 de junio de 2027, se realizarán las pruebas extraordinarias, la evaluación final extraordinaria de las asignaturas anuales y semestrales y las actividades que correspondan, con las excepciones señaladas en el apartado
 
 **4.3.1.** No obstante, para las asignaturas del primer semestre evaluadas el 22 de enero de 2027, se podrá realizar la evaluación extraordinaria hasta el cierre de actas el 29 de enero de 2027, según establezca la guía docente correspondiente.
 

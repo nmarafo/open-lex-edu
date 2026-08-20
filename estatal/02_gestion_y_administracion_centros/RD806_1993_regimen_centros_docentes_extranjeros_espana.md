@@ -1,10 +1,12 @@
 ---
 id: norm-es-1993-16128
 codigo_sintetizado: BOE-A-1993-16128
-titulo: Real Decreto 806/1993, de 28 de mayo, sobre régimen de Centros docentes extranjeros en España.
+titulo: Real Decreto 806/1993, de 28 de mayo, sobre régimen de Centros docentes extranjeros
+  en España.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1993-06-23'
 boletin: BOE
@@ -15,19 +17,19 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros extranjeros
 tags:
-  - centros-extranjeros
-  - consejo-escolar
-  - curriculo
-  - procedimiento-administrativo
-  - profesorado
+- centros-extranjeros
+- consejo-escolar
+- curriculo
+- procedimiento-administrativo
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-lo-8-1985
   fundamentos_derecho:
-    - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-lo-8-1985
   articulos:
-    - '1'
-    - '6'
+  - '1'
+  - '6'
 ---
 # Real Decreto 806/1993, de 28 de mayo, sobre régimen de Centros docentes extranjeros en España.
 
@@ -43,17 +45,13 @@ En su virtud, a propuesta del Ministro de Educación y Ciencia, con la aprobaci�
 
 ## Capítulo I. Disposiciones comunes a todos los centros docentes extranjeros en España.
 
-#### Artículo 1.
-
-1. El presente Real Decreto será de aplicación a los centros docentes que impartan, en territorio español, enseñanzas propias de sistemas educativos de otros países, correspondientes a niveles no universitarios del sistema español.
+#### Artículo 1. 1. El presente Real Decreto será de aplicación a los centros docentes que impartan, en territorio español, enseñanzas propias de sistemas educativos de otros países, correspondientes a niveles no universitarios del sistema español.
 
 2. El establecimiento de centros extranjeros en España para impartir, tanto a alumnos españoles como extranjeros y conforme a sistemas educativos vigentes en otros países, enseñanzas conducentes a la obtención de títulos homologables académicamente a los universitarios oficiales del sistema educativo español se regirá por lo establecido en el Real Decreto 557/1991, de 12 de abril, sobre creación y reconocimiento de Universidades y centros universitarios.
 
 3. A los efectos de este Real Decreto, se entiende por país de origen del centro aquel a cuyo sistema educativo correspondan las enseñanzas que imparta.
 
-#### Artículo 2.
-
-Los centros extranjeros en España se regirán:
+#### Artículo 2. Los centros extranjeros en España se regirán:
 
 a) Por lo dispuesto en los tratados y convenios internacionales suscritos por España, teniendo en cuenta, en su defecto, el principio de reciprocidad.
 
@@ -61,9 +59,7 @@ b) Por lo establecido en el Título preliminar y en los artículos 10, 12.2, 13,
 
 c) Por lo previsto en el presente Real Decreto y en las normas que, para su ejecución y desarrollo, dicten las Administraciones educativas competentes.
 
-#### Artículo 3.
-
-Los centros docentes extranjeros en España, a los efectos de lo dispuesto en el presente Real Decreto, se clasifican del modo siguiente:
+#### Artículo 3. Los centros docentes extranjeros en España, a los efectos de lo dispuesto en el presente Real Decreto, se clasifican del modo siguiente:
 
 1. Centros que impartan enseñanzas regladas de niveles equivalentes a los obligatorios del sistema educativo y que, a su vez, podrán ser:
 
@@ -73,25 +69,17 @@ b) Centros en los que se cursen exclusivamente estudios de un sistema educativo 
 
 2. Centros que impartan enseñanzas regladas equivalentes a niveles no obligatorios del sistema educativo español.
 
-#### Artículo 4.
+#### Artículo 4. Podrá ser titular de un centro extranjero en España cualquier persona física o jurídica, de nacionalidad española o extranjera, con excepción de las que se encuentren en alguna de las situaciones previstas en el artículo 21.2 de la [Ley Orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación.
 
-Podrá ser titular de un centro extranjero en España cualquier persona física o jurídica, de nacionalidad española o extranjera, con excepción de las que se encuentren en alguna de las situaciones previstas en el artículo 21.2 de la [Ley Orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación.
-
-#### Artículo 5.
-
-1. Los centros extranjeros en España deberán reunir los requisitos que, para la creación de centros docentes y la validez oficial plena de sus enseñanzas, exija la legislación de los países conforme a cuyo sistema educativo pretendan impartir las mismas.
+#### Artículo 5. 1. Los centros extranjeros en España deberán reunir los requisitos que, para la creación de centros docentes y la validez oficial plena de sus enseñanzas, exija la legislación de los países conforme a cuyo sistema educativo pretendan impartir las mismas.
 
 2. En el supuesto de que la legislación del país respectivo no establezca requisitos en cuanto a instalaciones y condiciones materiales, serán de aplicación los establecidos por la normativa española para los centros del sistema educativo español, con las salvedades derivadas de la singularidad de cada sistema a juicio de las Administraciones educativas competentes.
 
-#### Artículo 6.
-
-1. Los centros extranjeros en España deberán reunir, en todo caso, las condiciones de seguridad e higiene, acústicas y de habitabilidad que se exigen en la legislación española.
+#### Artículo 6. 1. Los centros extranjeros en España deberán reunir, en todo caso, las condiciones de seguridad e higiene, acústicas y de habitabilidad que se exigen en la legislación española.
 
 2. Los centros extranjeros en España deberán disponer de unas condiciones arquitectónicas que posibiliten el acceso y circulación a los alumnos con problemas físicos, de acuerdo con lo establecido en la legislación española.
 
-#### Artículo 7.
-
-1. Todos los centros extranjeros para poder funcionar válidamente en España deberán inscribirse en el Registro público de centros dependientes de la Administración educativa competente, la cual deberá dar traslado de los asientos registrales al Ministerio de Educación y Ciencia, en el plazo máximo de un mes desde la fecha de los mismos.
+#### Artículo 7. 1. Todos los centros extranjeros para poder funcionar válidamente en España deberán inscribirse en el Registro público de centros dependientes de la Administración educativa competente, la cual deberá dar traslado de los asientos registrales al Ministerio de Educación y Ciencia, en el plazo máximo de un mes desde la fecha de los mismos.
 
 2. En el Registro figurarán, en todo caso, los datos de identificación del titular y del centro, las enseñanzas que imparte, el número de puestos escolares y el régimen al que se acoge con arreglo a lo dispuesto en este Real Decreto. Se inscribirán, igualmente, las modificaciones que se produzcan de cualesquiera de estos datos.
 
@@ -105,13 +93,9 @@ Podrá ser titular de un centro extranjero en España cualquier persona física 
 
 7. La inscripción exigirá el informe del Ministerio de Asuntos Exteriores, salvo en el caso de centros que impartan enseñanzas correspondientes a sistemas educativos de países de la Comunidad Económica Europea. El referido informe versará sobre la conveniencia de la misma basada en la existencia de tratados o convenios internacionales suscritos por España o, en su defecto, en el principio de reciprocidad.
 
-#### Artículo 8.
+#### Artículo 8. El reconocimiento de los estudios cursados en los centros extranjeros se ajustará a lo dispuesto en la normativa reguladora de la homologación y convalidación de títulos y estudios extranjeros de educación no universitaria. A tales efectos, los alumnos deberán cumplir los requisitos académicos exigidos en dicha normativa y, en su caso, los establecidos en el presente Real Decreto.
 
-El reconocimiento de los estudios cursados en los centros extranjeros se ajustará a lo dispuesto en la normativa reguladora de la homologación y convalidación de títulos y estudios extranjeros de educación no universitaria. A tales efectos, los alumnos deberán cumplir los requisitos académicos exigidos en dicha normativa y, en su caso, los establecidos en el presente Real Decreto.
-
-#### Artículo 9.
-
-1. Los centros extranjeros en España quedarán sometidos a la inspección de las correspondientes Administraciones educativas españolas, en lo que respecta al cumplimiento de lo dispuesto en los artículos 5, 6, 11, 12 y 16 del presente Real Decreto, sin perjuicio de su inspección por las autoridades de los países respectivos.
+#### Artículo 9. 1. Los centros extranjeros en España quedarán sometidos a la inspección de las correspondientes Administraciones educativas españolas, en lo que respecta al cumplimiento de lo dispuesto en los artículos 5, 6, 11, 12 y 16 del presente Real Decreto, sin perjuicio de su inspección por las autoridades de los países respectivos.
 
 2. Las Administraciones educativas españolas podrán asumir, en relación con los centros extranjeros en España, funciones inspectoras más amplias que las previstas en el apartado anterior, si las autoridades de los países respectivos, a través del Ministerio de Asuntos Exteriores y con informe de éste, establecen fórmulas de colaboración para tal finalidad con el Ministerio de Educación y Ciencia, de acuerdo, en todo caso, con las Administraciones españolas correspondientes.
 
@@ -119,35 +103,25 @@ El reconocimiento de los estudios cursados en los centros extranjeros se ajustar
 
 #### Sección 1. Centros que impartan enseñanzas de un sistema educativo extranjero y de lengua y cultura españolas
 
-#### Artículo 10.
-
-1. Los centros a los que se refiere el apartado 1.a), del artículo 3 de este Real Decreto impartirán las enseñanzas del sistema educativo extranjero de que se trate, completadas por enseñanzas de lengua y cultura españolas y, en su caso, de la lengua propia de la Comunidad Autónoma en la que estén ubicados.
+#### Artículo 10. 1. Los centros a los que se refiere el apartado 1.a), del artículo 3 de este Real Decreto impartirán las enseñanzas del sistema educativo extranjero de que se trate, completadas por enseñanzas de lengua y cultura españolas y, en su caso, de la lengua propia de la Comunidad Autónoma en la que estén ubicados.
 
 2. Los centros a los que se refiere el presente artículo podrán acoger tanto a alumnos españoles como a alumnos extranjeros.
 
-#### Artículo 11.
+#### Artículo 11. El Ministerio de Educación y Ciencia y las demás Administraciones educativas fijarán, de acuerdo con sus respectivas competencias, el currículo de la lengua y cultura españolas y el de las lenguas propias de las Comunidades Autónomas, así como el horario correspondiente a unas y otras enseñanzas. El currículo de cultura española incluirá contenidos de Geografía e Historia y, entre ellos, los propios de la Comunidad Autónoma respectiva.
 
-El Ministerio de Educación y Ciencia y las demás Administraciones educativas fijarán, de acuerdo con sus respectivas competencias, el currículo de la lengua y cultura españolas y el de las lenguas propias de las Comunidades Autónomas, así como el horario correspondiente a unas y otras enseñanzas. El currículo de cultura española incluirá contenidos de Geografía e Historia y, entre ellos, los propios de la Comunidad Autónoma respectiva.
-
-#### Artículo 12.
-
-1. Los profesores que tengan a su cargo las enseñanzas citadas en el artículo anterior deberán reunir los requisitos de titulación requeridos por la legislación española para los niveles educativos correspondientes. Dichos profesores participarán en los órganos del centro en régimen de igualdad con el resto del profesorado.
+#### Artículo 12. 1. Los profesores que tengan a su cargo las enseñanzas citadas en el artículo anterior deberán reunir los requisitos de titulación requeridos por la legislación española para los niveles educativos correspondientes. Dichos profesores participarán en los órganos del centro en régimen de igualdad con el resto del profesorado.
 
 2. Los centros extranjeros acogidos a este régimen deberán designar, entre los profesores de las enseñanzas a las que se refiere este artículo, un Director técnico para la coordinación de dichas enseñanzas.
 
 3. La evaluación de las enseñanzas de lengua y cultura españolas y, en su caso, de las lenguas propias de las Comunidades Autónomas, se realizará con arreglo a las mismas normas aplicables al resto de las enseñanzas que se cursen en el centro y sus resultados se consignarán en las certificaciones académicas correspondientes.
 
-#### Artículo 13.
-
-1. Para funcionar válidamente en España, los centros a los que se refiere esta Sección deberán obtener una autorización de apertura y funcionamiento, que en tal caso dará lugar a la inscripción en el Registro a la que se refiere el artículo 7 l.
+#### Artículo 13. 1. Para funcionar válidamente en España, los centros a los que se refiere esta Sección deberán obtener una autorización de apertura y funcionamiento, que en tal caso dará lugar a la inscripción en el Registro a la que se refiere el artículo 7 l.
 
 presente Real Decreto.
 
 2. El expediente para la autorización de enseñanzas e inscripción en el Registro se iniciará mediante solicitud dirigida a la Administración educativa competente.
 
-#### Artículo 14.
-
-1. La solicitud con la que se iniciará el expediente a que se refiere el artículo anterior contendrá, al menos, los siguientes datos referidos al centro:
+#### Artículo 14. 1. La solicitud con la que se iniciará el expediente a que se refiere el artículo anterior contendrá, al menos, los siguientes datos referidos al centro:
 
 a) Titular.
 
@@ -169,23 +143,17 @@ b) Certificación expedida por la correspondiente representación diplomática a
 
 c) Relación de profesores de lengua y cultura españolas, y, en su caso, de la lengua propia de la Comunidad Autónoma, con indicación de sus titulaciones respectivas.
 
-#### Artículo 15.
-
-1. Emitido, en su caso, el informe del Ministerio de Asuntos Exteriores, el órgano que corresponda de la Administración educativa competente elaborará la propuesta de concesión o denegación de la autorización e inscripción. Cuando se proponga la denegación, se dará vista del expediente al interesado para que alegue y presente los documentos y justificaciones que estime pertinentes.
+#### Artículo 15. 1. Emitido, en su caso, el informe del Ministerio de Asuntos Exteriores, el órgano que corresponda de la Administración educativa competente elaborará la propuesta de concesión o denegación de la autorización e inscripción. Cuando se proponga la denegación, se dará vista del expediente al interesado para que alegue y presente los documentos y justificaciones que estime pertinentes.
 
 2. A la vista de lo actuado y de las alegaciones presentadas, en su caso, por el interesado, la Administración educativa competente resolverá sobre la autorización e inscripción. La resolución correspondiente podrá ser objeto de los recursos que en cada caso procedan.
 
 3. De igual modo, se procederá, en su caso, para la cancelación.
 
-#### Artículo 16.
-
-1. Los titulares de los centros extranjeros en España están obligados a solicitar de la Administración educativa competente nueva autorización e inscripción, si se produce cualquier variación en los elementos y circunstancias que dieron lugar a la correspondiente resolución.
+#### Artículo 16. 1. Los titulares de los centros extranjeros en España están obligados a solicitar de la Administración educativa competente nueva autorización e inscripción, si se produce cualquier variación en los elementos y circunstancias que dieron lugar a la correspondiente resolución.
 
 2. A la solicitud razonada deberán acompañarse los documentos acreditativos de las variaciones producidas que no consten en el expediente previo y sobre aquélla deberá resolverse siguiendo los mismos trámites establecidos para los expedientes de autorización e inscripción iniciales.
 
-#### Artículo 17.
-
-1. Las inscripciones y autorizaciones de los centros extranjeros en España a que se refiere esta sección podrán ser canceladas, revocadas o modificadas, según proceda, previa audiencia del interesado, cuando se alteren las condiciones esenciales que sirvieron de base a la inscripción o autorización o se contravenga lo dispuesto en el presente Real Decreto y en las demás normas aplicables.
+#### Artículo 17. 1. Las inscripciones y autorizaciones de los centros extranjeros en España a que se refiere esta sección podrán ser canceladas, revocadas o modificadas, según proceda, previa audiencia del interesado, cuando se alteren las condiciones esenciales que sirvieron de base a la inscripción o autorización o se contravenga lo dispuesto en el presente Real Decreto y en las demás normas aplicables.
 
 2. El expediente se iniciará y resolverá por la Administración educativa correspondiente. La resolución podrá ser objeto de los recursos que en cada caso procedan.
 
@@ -193,15 +161,9 @@ c) Relación de profesores de lengua y cultura españolas, y, en su caso, de la 
 
 #### Sección 2. Centros que impartan exclusivamente enseñanzas de un sistema educativo extranjero
 
-#### Artículo 18.
+#### Artículo 18. 1. Los centros a los que se refiere el apartado 1.b), del artículo 3 de este Real Decreto impartirán exclusivamente enseñanzas de un sistema educativo extranjero y deberán inscribirse de acuerdo con lo establecido en el artículo 7. 2. Estos centros no podrán acoger alumnado de nacionalidad española, salvo en el caso que además de dicha nacionalidad posean la del Estado a cuyo sistema educativo correspondan las enseñanzas impartidas. En la inscripción a que se refiere el apartado anterior se hará constar expresamente esta circunstancia.
 
-1. Los centros a los que se refiere el apartado 1.b), del artículo 3 de este Real Decreto impartirán exclusivamente enseñanzas de un sistema educativo extranjero y deberán inscribirse de acuerdo con lo establecido en el artículo 7.
-
-2. Estos centros no podrán acoger alumnado de nacionalidad española, salvo en el caso que además de dicha nacionalidad posean la del Estado a cuyo sistema educativo correspondan las enseñanzas impartidas. En la inscripción a que se refiere el apartado anterior se hará constar expresamente esta circunstancia.
-
-#### Artículo 19.
-
-1. Los titulares de los centros a que se refiere esta sección están obligados a solicitar de la Administración educativa competente nueva inscripción si se produce cualquier variación en los elementos y circunstancias que dieron lugar a la correspondiente resolución.
+#### Artículo 19. 1. Los titulares de los centros a que se refiere esta sección están obligados a solicitar de la Administración educativa competente nueva inscripción si se produce cualquier variación en los elementos y circunstancias que dieron lugar a la correspondiente resolución.
 
 2. A la solicitud razonada deberán acompañarse los documentos acreditativos de las variaciones producidas que no consten en el expediente previo y sobre aquélla deberá resolverse siguiendo los mismos trámites establecidos para el expediente inicial de inscripción.
 
@@ -215,17 +177,13 @@ c) Relación de profesores de lengua y cultura españolas, y, en su caso, de la 
 
 ## Capítulo III. Centros extranjeros que impartan enseñanzas regladas equivalentes a niveles no obligatorios del sistema educativo español artículo 21 Los centros extranjeros que impartan en España enseñanzas regladas equivalentes a niveles no obligatorios del sistema educativo español podrán acoger tanto a alumnos extranjeros como a alumnos españoles.
 
-#### Artículo 22.
-
-1. Los centros extranjeros a los que se refiere el presente capítulo deberán obtener autorización de apertura y funcionamiento, que dará lugar a la inscripción en el registro a que se refiere el artículo 7 l.
+#### Artículo 22. 1. Los centros extranjeros a los que se refiere el presente capítulo deberán obtener autorización de apertura y funcionamiento, que dará lugar a la inscripción en el registro a que se refiere el artículo 7 l.
 
 presente Real Decreto. Dicha autorización se tramitará con sujeción a lo establecido en el artículo 14, con la salvedad de lo exigido en materia de profesorado de lengua y cultura españolas y lenguas propias de las Comunidades Autonómas.
 
 2. En el supuesto de que las enseñanzas que pretenda impartir el centro no estén recogidas en los sistemas de equivalencias aprobados por el Ministerio de Educación y Ciencia, la Administración educativa competente para conceder o denegar la autorización de apertura y funcionamiento deberá además solicitar a la Secretaría General Técnica del citado Departamento un informe de carácter preceptivo y vinculante, sobre la equivalencia de tales enseñanzas a efectos de su reconocimiento.
 
-#### Artículo 23.
-
-En el caso de aquellos centros que, además de las enseñanzas a las que se refiere el presente capítulo III, hayan de impartir las previstas en la sección 1.ª del capítulo II, la tramitación de la solicitud de autorización se realizará conjuntamente para todas las enseñanzas citadas.
+#### Artículo 23. En el caso de aquellos centros que, además de las enseñanzas a las que se refiere el presente capítulo III, hayan de impartir las previstas en la sección 1.ª del capítulo II, la tramitación de la solicitud de autorización se realizará conjuntamente para todas las enseñanzas citadas.
 
 #### Disposición adicional primera.
 
@@ -275,9 +233,7 @@ Corresponde al Ministro de Educación y Ciencia y a los órganos competentes de 
 
 Las normas sobre autorización de centros docentes privados que imparten enseñanzas no universitarias serán de aplicación subsidiaria para los centros privados extranjeros comprendidos en el ámbito de este Real Decreto.
 
-#### Disposición final cuarta. Dado en Madrid a 28 de mayo de 1993.
-
-JUAN CARLOS R.
+#### Disposición final cuarta. Dado en Madrid a 28 de mayo de 1993. JUAN CARLOS R.
 
 El Ministro de Educación y Ciencia,
 

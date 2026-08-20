@@ -1,7 +1,9 @@
 ---
 id: norm-can-res-juriscan-74499-67
 codigo_sintetizado: Resolucion BOC 67
-titulo: Resolución de 20 de abril de 2016, por la que se dictan instrucciones para la realización de las prácticas externas de los estudiantes de enseñanzas artísticas superiores en la Comunidad Autónoma de Canarias (BOC n.º 86, de 5 de mayo).
+titulo: Resolución de 20 de abril de 2016, por la que se dictan instrucciones para
+  la realización de las prácticas externas de los estudiantes de enseñanzas artísticas
+  superiores en la Comunidad Autónoma de Canarias (BOC n.º 86, de 5 de mayo).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,31 +15,31 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Artísticas
 tags:
-  - curriculo
-  - educacion-personas-adultas
-  - ense-anzas-art-sticas
-  - ensenanzas-artisticas
-  - equipos-directivos
-  - evaluacion
-  - formacion-profesional
+- curriculo
+- educacion-personas-adultas
+- ense-anzas-art-sticas
+- ensenanzas-artisticas
+- equipos-directivos
+- evaluacion
+- formacion-profesional
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   fundamento_de:
-    - norma_id: norm-can-res-boc-2017-036-71
+  - norma_id: norm-can-res-boc-2017-036-71
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2016-086-1192.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=74499
 ---

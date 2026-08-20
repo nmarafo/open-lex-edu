@@ -1,9 +1,12 @@
 ---
 id: norm-mad-o3537-2025
-titulo: Orden 3537/2025, de 12 de agosto, de la Consejería de Educación, Ciencia y Universidades, por la que se regulan los currículos de los módulos profesionales transversales en Formación Profesional en la Comunidad de Madrid
+titulo: Orden 3537/2025, de 12 de agosto, de la Consejería de Educación, Ciencia y
+  Universidades, por la que se regulan los currículos de los módulos profesionales
+  transversales en Formación Profesional en la Comunidad de Madrid
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
 numero_disposicion: 3537/2025
 fecha_disposicion: '2025-08-12'
@@ -16,20 +19,20 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Formación Profesional
 tags:
-  - formacion_profesional
-  - modulos_transversales
-  - madrid
+- formacion_profesional
+- modulos_transversales
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-mad-d-29-2013
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/20/BOCM-20250820-2.PDF
 ---
 # Orden 3537/2025, de 12 de agosto, de la Consejería de Educación, Ciencia y Universidades, por la que se regulan los currículos de los módulos profesionales transversales en Formación Profesional en la Comunidad de Madrid

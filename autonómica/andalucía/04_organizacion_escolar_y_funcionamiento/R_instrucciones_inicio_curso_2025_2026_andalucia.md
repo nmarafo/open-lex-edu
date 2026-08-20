@@ -1,10 +1,13 @@
 ---
 id: norm-and-r-instrucciones-curso-2025-2026
 codigo_sintetizado: R_Instrucciones Inicio de Curso 2025-2026 Andalucia
-titulo: Resolución de la Viceconsejería de Desarrollo Educativo y Formación Profesional, por la que se dictan instrucciones sobre la organización y funcionamiento de los centros docentes públicos no universitarios para el curso escolar 2025-2026.
+titulo: Resolución de la Viceconsejería de Desarrollo Educativo y Formación Profesional,
+  por la que se dictan instrucciones sobre la organización y funcionamiento de los
+  centros docentes públicos no universitarios para el curso escolar 2025-2026.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Resolución
 numero_disposicion: Instrucciones Curso 2025-2026
 fecha_disposicion: '2025-06-22'
@@ -18,23 +21,21 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Instrucciones de comienzo de curso
 tags:
-  - inicio_de_curso
-  - instrucciones_curso_2025_2026
-  - organizacion_escolar
-  - plan_de_centro
-  - andalucia
+- inicio_de_curso
+- instrucciones_curso_2025_2026
+- organizacion_escolar
+- plan_de_centro
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
 ---
-# Resolución de la Viceconsejería de Desarrollo Educativo y Formación Profesional, por la que se dictan instrucciones sobre la organización y funcionamiento de los centros docentes públicos no universitarios para el curso escolar 2025-2026.
-
-## Preámbulo
+# Resolución de la Viceconsejería de Desarrollo Educativo y Formación Profesional, por la que se dictan instrucciones sobre la organización y funcionamiento de los centros docentes públicos no universitarios para el curso escolar 2025-2026. ## Preámbulo
 
 El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.
 
@@ -46,9 +47,7 @@ DISPONGO:
 
 #### Artículo 1. Objeto y ámbito de aplicación.
 
-1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Resolución Instrucciones Curso 2025-2026.
-
-2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Andalucía.
+1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Resolución Instrucciones Curso 2025-2026. 2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Andalucía.
 
 #### Artículo 2. Principios generales de actuación.
 
@@ -68,8 +67,6 @@ Las Administraciones educativas proveerán los recursos materiales, organizativo
 
 #### Disposición final primera. Habilitación para el desarrollo normativo.
 
-Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Resolución Instrucciones Curso 2025-2026.
-
-#### Disposición final segunda. Entrada en vigor.
+Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Resolución Instrucciones Curso 2025-2026. #### Disposición final segunda. Entrada en vigor.
 
 La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

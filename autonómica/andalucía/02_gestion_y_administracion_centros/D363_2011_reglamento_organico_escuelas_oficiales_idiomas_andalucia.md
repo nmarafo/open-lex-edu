@@ -1,10 +1,12 @@
 ---
 id: norm-and-d-363-2011
 codigo_sintetizado: D363_2011 ROC Escuelas Oficiales Idiomas Andalucia
-titulo: Decreto 363/2011, de 7 de diciembre, por el que se aprueba el Reglamento Orgánico de las Escuelas Oficiales de Idiomas en la Comunidad Autónoma de Andalucía.
+titulo: Decreto 363/2011, de 7 de diciembre, por el que se aprueba el Reglamento Orgánico
+  de las Escuelas Oficiales de Idiomas en la Comunidad Autónoma de Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 363/2011
 fecha_disposicion: '2011-12-07'
@@ -18,19 +20,19 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Reglamentos Orgánicos de Centro
 tags:
-  - roc_eoi
-  - idiomas
-  - eoi
-  - ensenanzas_especializadas
-  - andalucia
+- roc_eoi
+- idiomas
+- eoi
+- ensenanzas_especializadas
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Decreto 363/2011, de 7 de diciembre, por el que se aprueba el Reglamento Orgánico de las Escuelas Oficiales de Idiomas en la Comunidad Autónoma de Andalucía.
 
@@ -84,9 +86,7 @@ m ú n A J O B
 
 m ú n a nig á P ingresos, así como modificar el estatuto de los ex presidentes de la Junta de Andalucía. Las normas y procedimientos electorales se encuentran regulados en la Ley 1/1986, de 2 de enero, Electoral de Andalucía, que ha sido modificada puntualmente en materia de inelegibilidades e incompatibilidades para adaptar la normativa electoral a la realidad institucional de la Junta de Andalucía. Actualmente, entendiendo la política como un servicio público imprescindible en nuestro sistema democrático y siguiendo la línea de profundizar en la transparencia y plena dedicación que los parlamentarios deben a la ciudadanía, el artículo 6 2 de la Ley Electoral debe ser modificado para atender a las nuevas necesidades de la sociedad andaluza, pues la política debe ser ejercida con lealtad a los intereses generales y desde una objetividad y rigor que solo la plena dedicación puede otorgarle. En esta misma línea, se establece la incompatibilidad de percibir cualquier retribución o asignación, pública o privada, al margen de las retribuciones como parlamentario y las expresamente previstas en la legislación, y la incorporación a las declaraciones públicas que deben realizar los parlamentarios de sus retribuciones y las relaciones en materia de contratación con todas las Administraciones de sus familiares directos. La aprobación de la Ley 2/2005, de 8 de abril, por la que se regula el estatuto de los ex presidentes de la Junta de Andalucía reconoció el fundamental papel desempeñado en la consolidación de la democracia y en el desarrollo de Andalucía por aquellas personas que han ejercido la más alta responsabilidad política de nuestra Comunidad Autónoma. De acuerdo con las recomendaciones del grupo de trabajo, se suprimen los artículos 2 y 3 de esta Ley, eliminando la asignación mensual prevista en los mismos. Finalmente, en aras de una mayor transparencia de los asuntos públicos, se procede a modificar la Ley 3/2005, de 8 de abril, de Incompatibilidades de Altos Cargos de la Administración de la Junta de Andalucía y de Declaración de Actividades, Bienes e Intereses de Altos Cargos y otros Cargos Públicos, obligando a todos los altos cargos a incluir en la declaración de actividades, bienes e intereses sus retribuciones y relaciones en materia de contratación con todas las Administraciones de sus familiares directos. Asimismo se adecuan la Exposición de Motivos, la tipificación de infracciones y el régimen sancionador a las nuevas obligaciones. Asimismo, para facilitar la comprensión de la norma y la claridad del marco legislativo, redundando de esta forma en la seguridad jurídica del ciudadano, resulta necesario modificar las referencias que la Ley 1/1986, de 2 de enero, Electoral de Andalucía y la Ley 3/2005, de 8 de abril, de Incompatibilidades de Altos Cargos de la Administración de la Junta de Andalucía y de Declaración de Actividades, Bienes e Intereses de Altos Cargos y otros Cargos Públicos realizan del Estatuto de Autonomía, actualizando dichas referencias al nuevo texto estatutario.
 Artículo primero. Modificación del artículo 6.2 de la Ley 1/1986, de 2 de enero, Electoral de Andalucía. Se modifica el artículo 6.2 de la Ley 1/1986, de 2 de enero, Electoral de Andalucía, que queda redactado del siguiente modo:
-«Artículo 6.
-
-2. Además de los comprendidos en el artículo 155.2 a), b), c) y d) de la Ley Orgánica del Régimen Electoral General, son incompatibles:
+«Artículo 6. 2. Además de los comprendidos en el artículo 155.2 a), b), c) y d) de la Ley Orgánica del Régimen Electoral General, son incompatibles:
 a) Los Diputados del Congreso.
 b) Los Diputados del Parlamento Europeo.
 c) Los Alcaldes, los Presidentes de Diputación Provincial y los Presidentes de mancomunidades de municipios.

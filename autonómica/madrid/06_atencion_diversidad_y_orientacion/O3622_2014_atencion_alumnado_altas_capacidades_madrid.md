@@ -1,10 +1,12 @@
 ---
 id: norm-mad-o-3622-2014
 codigo_sintetizado: O3622_2014 Atencion Alumnado Altas Capacidades Madrid
-titulo: Orden 3622/2014, de 3 de diciembre, sobre escolarización y atención educativa al alumnado con Altas Capacidades Intelectuales.
+titulo: Orden 3622/2014, de 3 de diciembre, sobre escolarización y atención educativa
+  al alumnado con Altas Capacidades Intelectuales.
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
 numero_disposicion: 3622/2014
 fecha_disposicion: '2014-12-03'
@@ -18,17 +20,17 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Atención a la diversidad
 tags:
-  - altas_capacidades
-  - peac
-  - sobredotacion
-  - madrid
+- altas_capacidades
+- peac
+- sobredotacion
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-mad-d-29-2013
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-1-1996
 ---
 # Orden 3622/2014, de 3 de diciembre, sobre escolarización y atención educativa al alumnado con Altas Capacidades Intelectuales.
 
@@ -52,8 +54,7 @@ Primero Hacer pública en Anexo I a la presente Orden, la relación definitiva d
 Segundo Hacer pública, en Anexo II a la presente Orden, la relación definitiva del personal funcionario y laboral de la Comunidad de Madrid excluido del proceso de integración especificando las causas de exclusión.
 Tercero Los efectos jurídicos y económicos de la integración en el régimen estatutario para el personal relacionado en el Anexo I serán los que se recogen en el artículo 6 l.
 
-Decreto 8/2007, de 1 de febrero, del Consejo de Gobierno de la Comunidad de Madrid, por el que se regula el proceso voluntario de integración en el régimen estatutario del personal laboral y funcionario que presta servicios en las Instituciones Sanitarias del Servicio Madrileño de Salud, y surtirán efectos a partir del día 1 de enero de 2015.
-Cuarto El Director General de Recursos Humanos del Servicio Madrileño de Salud, de acuerdo con lo establecido en el apartado quinto d) de la Orden 574/2014, de 17 de junio, expedirá al personal relacionado en el Anexo I el nombramiento como personal estatutario fijo en la categoría de integración que corresponda.
+Decreto 8/2007, de 1 de febrero, del Consejo de Gobierno de la Comunidad de Madrid, por el que se regula el proceso voluntario de integración en el régimen estatutario del personal laboral y funcionario que presta servicios en las Instituciones Sanitarias del Servicio Madrileño de Salud, y surtirán efectos a partir del día 1 de enero de 2015. Cuarto El Director General de Recursos Humanos del Servicio Madrileño de Salud, de acuerdo con lo establecido en el apartado quinto d) de la Orden 574/2014, de 17 de junio, expedirá al personal relacionado en el Anexo I el nombramiento como personal estatutario fijo en la categoría de integración que corresponda.
 Quinto El personal que resulte integrado en el régimen estatutario como consecuencia de la publicación de la presente Orden podrá participar en el primer concurso de traslados que se convoque para personal estatutario fijo de la categoría de integración.
 Sexto Contra la presente Orden, que pone fin a la vía administrativa, podrá interponerse recurso potestativo de reposición ante el Consejero de Sanidad (artículos 116 y 117 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común), en el plazo de un mes a contar desde el siguiente a su publicación, o bien, directamente, recurso contencioso-administrativo en el plazo de dos meses desde el día siguiente a su publicación, de conformidad en lo establecido con el artículo 46 de la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa. Todo ello, sin perjuicio de poder interponer cualquier otro recurso que estime procedente. Madrid, a 28 de noviembre de 2014. El Consejero de Sanidad, FRANCISCO JAVIER RODRÍGUEZ RODRÍGUEZ
 

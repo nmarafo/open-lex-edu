@@ -1,10 +1,14 @@
 ---
 id: norm-es-2010-4130
 codigo_sintetizado: BOE-A-2010-4130
-titulo: Real Decreto 102/2010, de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles.
+titulo: Real Decreto 102/2010, de 5 de febrero, por el que se regula la ordenación
+  de las enseñanzas acogidas al acuerdo entre el Gobierno de España y el Gobierno
+  de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros
+  docentes españoles.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2010-03-12'
 boletin: BOE
@@ -15,37 +19,34 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Bachillerato
 tags:
-  - bachillerato
-  - consejo-escolar
-  - curriculo
-  - eso
-  - evaluacion
-  - profesorado
-  - titulacion
+- bachillerato
+- consejo-escolar
+- curriculo
+- eso
+- evaluacion
+- profesorado
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
-    - norma_id: norm-es-2010-12706
-    - norma_id: norm-es-2022-15953
-    - norma_id: norm-es-2023-3846
-    - norma_id: norm-es-2025-16039
-    - norma_id: norm-can-res-063
-    - norma_id: norm-can-res-boc-2026-077-62
+  - norma_id: norm-es-2010-12706
+  - norma_id: norm-es-2022-15953
+  - norma_id: norm-es-2023-3846
+  - norma_id: norm-es-2025-16039
+  - norma_id: norm-can-res-063
+  - norma_id: norm-can-res-boc-2026-077-62
   desarrollado_por: []
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-es-lo-2-2006
-  articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - '2'
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 ---
 # Real Decreto 102/2010, de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles.
 
@@ -99,9 +100,7 @@ Acuerdo de Doble Titulación.
 
 #### Artículo 4. Enseñanzas de las materias especificas.
 
-1. En los centros a los que se refiere este real decreto y en las etapas afectadas se impartirá íntegramente en lengua francesa, al menos, las materias específicas del currículo mixto, cuyo contenido será objeto de acuerdo entre las Partes y estará incluido en la prueba específica en los términos establecidos en el artículo 7.
-
-2. En virtud del artículo 2 l.
+1. En los centros a los que se refiere este real decreto y en las etapas afectadas se impartirá íntegramente en lengua francesa, al menos, las materias específicas del currículo mixto, cuyo contenido será objeto de acuerdo entre las Partes y estará incluido en la prueba específica en los términos establecidos en el artículo 7. 2. En virtud del artículo 2 l.
 
 Acuerdo de Doble Titulación, las enseñanzas de este currículo mixto deberán permitir que el alumnado alcance al final de la etapa, al menos, el nivel de usuario independiente correspondiente al nivel B2 del Marco común europeo de referencia para las lenguas.
 
@@ -169,9 +168,7 @@ Se autoriza al titular del Ministerio de Educación, para dictar, en el ámbito 
 
 #### Disposición final tercera. Entrada en vigor.
 
-Dado en Madrid, el 5 de febrero de 2010.
-
-JUAN CARLOS R.
+Dado en Madrid, el 5 de febrero de 2010. JUAN CARLOS R.
 
 El Ministro de Educación,
 

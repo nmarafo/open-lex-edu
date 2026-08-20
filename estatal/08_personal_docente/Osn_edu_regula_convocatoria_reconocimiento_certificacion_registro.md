@@ -1,10 +1,13 @@
 ---
 id: norm-es-2011-16923
 codigo_sintetizado: BOE-A-2011-16923
-titulo: Orden EDU/2886/2011, de 20 de octubre, por la que se regula la convocatoria, reconocimiento, certificación y registro de las actividades de formación permanente del profesorado.
+titulo: Orden EDU/2886/2011, de 20 de octubre, por la que se regula la convocatoria,
+  reconocimiento, certificación y registro de las actividades de formación permanente
+  del profesorado.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2011-10-28'
 boletin: BOE
@@ -15,29 +18,29 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Formación del profesorado
 tags:
-  - atencion-diversidad
-  - formacion-del-profesorado
-  - igualdad-genero
-  - neae
-  - orientacion-educativa
-  - profesorado
-  - titulacion
+- atencion-diversidad
+- formacion-del-profesorado
+- igualdad-genero
+- neae
+- orientacion-educativa
+- profesorado
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-1834-2008
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-1834-2008
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-rd-1834-2008
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - '2'
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-rd-1834-2008
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 ---
 # Orden EDU/2886/2011, de 20 de octubre, por la que se regula la convocatoria, reconocimiento, certificación y registro de las actividades de formación permanente del profesorado.
 

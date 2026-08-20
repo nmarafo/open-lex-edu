@@ -1,10 +1,14 @@
 ---
 id: norm-es-2015-8702
 codigo_sintetizado: BOE-A-2015-8702
-titulo: Orden ECD/1611/2015, de 29 de julio, por la que se crean y regulan los Premios Nacionales al rendimiento académico del alumnado de Educación Secundaria Obligatoria y de Enseñanzas Artísticas Profesionales en los ámbitos de Música, Danza y Artes Plásticas y Diseño.
+titulo: Orden ECD/1611/2015, de 29 de julio, por la que se crean y regulan los Premios
+  Nacionales al rendimiento académico del alumnado de Educación Secundaria Obligatoria
+  y de Enseñanzas Artísticas Profesionales en los ámbitos de Música, Danza y Artes
+  Plásticas y Diseño.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2015-08-01'
 boletin: BOE
@@ -15,35 +19,31 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Concursos y premios escolares
 tags:
-  - bachillerato
-  - concursos-y-premios-escolares
-  - curriculo
-  - ensenanzas-artisticas
-  - ensenanzas-deportivas
-  - eso
-  - formacion-profesional
-  - grado-superior
-  - igualdad-genero
-  - profesorado
-  - transparencia
+- bachillerato
+- concursos-y-premios-escolares
+- curriculo
+- ensenanzas-artisticas
+- ensenanzas-deportivas
+- eso
+- formacion-profesional
+- grado-superior
+- igualdad-genero
+- profesorado
+- transparencia
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-l-39-2015
-  articulos:
-    - '1'
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 ---
 # Orden ECD/1611/2015, de 29 de julio, por la que se crean y regulan los Premios Nacionales al rendimiento académico del alumnado de Educación Secundaria Obligatoria y de Enseñanzas Artísticas Profesionales en los ámbitos de Música, Danza y Artes Plásticas y Diseño.
 
@@ -201,9 +201,7 @@ Para todos aquellos extremos no previstos en la presente orden se aplicará la L
 
 #### Disposición transitoria única. Periodo transitorio.
 
-La presente orden no será de aplicación a los procedimientos regidos por las convocatorias aprobadas con anterioridad a su entrada en vigor. El plazo establecido en el artículo 3.1 queda prorrogado para la convocatoria de los premios Extraordinarios en las modalidades a las que se refiere la presente orden correspondientes al curso 2014-2015, hasta el 15 de noviembre de 2015.
-
-Hasta el curso escolar 2016-2017, en el que, de acuerdo con el apartado 2 de la disposición final quinta de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la mejora de la calidad educativa, tendrá lugar la implantación de las modificaciones introducidas en el currículo, la organización, objetivos, requisitos para la obtención de certificados y títulos, programas, promoción y evaluaciones de Educación Secundaria Obligatoria, no se tendrá en cuenta la distinción de opciones previstas para dicha etapa a las que se hace alusión en el artículo 6.a) de la presente orden.
+La presente orden no será de aplicación a los procedimientos regidos por las convocatorias aprobadas con anterioridad a su entrada en vigor. El plazo establecido en el artículo 3.1 queda prorrogado para la convocatoria de los premios Extraordinarios en las modalidades a las que se refiere la presente orden correspondientes al curso 2014-2015, hasta el 15 de noviembre de 2015. Hasta el curso escolar 2016-2017, en el que, de acuerdo con el apartado 2 de la disposición final quinta de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la mejora de la calidad educativa, tendrá lugar la implantación de las modificaciones introducidas en el currículo, la organización, objetivos, requisitos para la obtención de certificados y títulos, programas, promoción y evaluaciones de Educación Secundaria Obligatoria, no se tendrá en cuenta la distinción de opciones previstas para dicha etapa a las que se hace alusión en el artículo 6.a) de la presente orden.
 
 Del mismo modo, hasta dicha fecha, el segundo ejercicio de las pruebas a las que se refiere el artículo 7 consistirá.
 

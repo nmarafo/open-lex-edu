@@ -1,10 +1,13 @@
 ---
 id: norm-es-2014-7684
 codigo_sintetizado: BOE-A-2014-7684
-titulo: Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración.
+titulo: Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados
+  aspectos de la gestión y control de los procesos por incapacidad temporal en los
+  primeros trescientos sesenta y cinco días de su duración.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2014-07-21'
 boletin: BOE
@@ -15,27 +18,24 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Salud laboral y vigilancia
 tags:
-  - personal-no-docente
-  - prevencion-riesgos-laborales
-  - proteccion-menores
-  - salud-laboral-y-vigilancia
+- personal-no-docente
+- prevencion-riesgos-laborales
+- proteccion-menores
+- salud-laboral-y-vigilancia
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-2015-6839
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2015-6839
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
   fundamento_de:
-    - norma_id: norm-es-2015-6839
+  - norma_id: norm-es-2015-6839
   fundamentos_derecho:
-    - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rd-276-2007
   articulos:
-    - '1'
-    - norma_id: norm-es-rdl-5-2015
-  articulos:
-    - '1'
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-2015-6839
+  - '1'
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2015-6839
 ---
 # Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración.
 
@@ -219,9 +219,7 @@ Asimismo, la Intervención General de la Seguridad Social, en sus funciones de c
 
 En todo caso, los inspectores médicos del Instituto Nacional de la Seguridad Social o, en su caso, del Instituto Social de la Marina, para el ejercicio de sus competencias, tendrán acceso, preferentemente por vía telemática, a la documentación clínica de atención primaria y especializada de los trabajadores del sistema de la Seguridad Social, incluida la documentación clínica de los trabajadores protegidos frente a las contingencias profesionales con las mutuas, en los términos establecidos en la disposición adicional cuadragésima de la Ley General de la Seguridad Social.
 
-2. Con el fin de que las actuaciones médicas a las que se refiere este artículo cuenten con el mayor respaldo técnico, a los efectos indicados en el artículo 2.3, se pondrá a disposición de los médicos a los que competan dichas actuaciones tablas de duraciones óptimas, tipificadas para los distintos procesos patológicos susceptibles de generar incapacidades, así como tablas sobre el grado de incidencia de dichos procesos en las diversas ocupaciones laborales, a que se refiere el artículo 2.2.
-
-3. El tratamiento de los datos de los trabajadores afectados así como el acceso a los mismos quedará sujeto a lo dispuesto en la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, y en sus disposiciones de desarrollo.
+2. Con el fin de que las actuaciones médicas a las que se refiere este artículo cuenten con el mayor respaldo técnico, a los efectos indicados en el artículo 2.3, se pondrá a disposición de los médicos a los que competan dichas actuaciones tablas de duraciones óptimas, tipificadas para los distintos procesos patológicos susceptibles de generar incapacidades, así como tablas sobre el grado de incidencia de dichos procesos en las diversas ocupaciones laborales, a que se refiere el artículo 2.2. 3. El tratamiento de los datos de los trabajadores afectados así como el acceso a los mismos quedará sujeto a lo dispuesto en la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, y en sus disposiciones de desarrollo.
 
 Los datos únicamente podrán ser utilizados con la finalidad del control de los procesos de incapacidad y control interno, sin que puedan ser empleados para finalidades distintas. En ningún caso podrán ser utilizados con fines discriminatorios o en perjuicio del trabajador.
 
@@ -463,9 +461,7 @@ Se faculta a la Ministra de Empleo y Seguridad Social para dictar cuantas dispos
 
 #### Disposición final octava. Entrada en vigor.
 
-Dado en Madrid, el 18 de julio de 2014.
-
-FELIPE R.
+Dado en Madrid, el 18 de julio de 2014. FELIPE R.
 
 La Ministra de Empleo y Seguridad Social,
 

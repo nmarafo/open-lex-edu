@@ -1,10 +1,12 @@
 ---
 id: norm-mad-d-45-2023
 codigo_sintetizado: D45_2023 Ordenacion Enseñanzas Arte Dramatico Madrid
-titulo: Decreto 45/2023, de 10 de mayo, del Consejo de Gobierno, por el que se establece la ordenación de las Enseñanzas de Arte Dramático.
+titulo: Decreto 45/2023, de 10 de mayo, del Consejo de Gobierno, por el que se establece
+  la ordenación de las Enseñanzas de Arte Dramático.
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Decreto
 numero_disposicion: 45/2023
 fecha_disposicion: '2023-05-10'
@@ -18,17 +20,17 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Artísticas
 tags:
-  - arte_dramatico
-  - teatro
-  - artisticas
-  - madrid
+- arte_dramatico
+- teatro
+- artisticas
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-mad-d-29-2013
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Decreto 45/2023, de 10 de mayo, del Consejo de Gobierno, por el que se establece la ordenación de las Enseñanzas de Arte Dramático.
 

@@ -1,10 +1,15 @@
 ---
 id: norm-es-2013-6281
 codigo_sintetizado: BOE-A-2013-6281
-titulo: Orden ECD/1058/2013, de 7 de junio, por la que se modifica la Orden EDU/2645/2011, de 23 de septiembre, por la que se establece la formación equivalente a la formación pedagógica y didáctica exigida para aquellas personas que, estando en posesión de una titulación declarada equivalente a efectos de docencia, no pueden realizar los estudios de máster.
+titulo: Orden ECD/1058/2013, de 7 de junio, por la que se modifica la Orden EDU/2645/2011,
+  de 23 de septiembre, por la que se establece la formación equivalente a la formación
+  pedagógica y didáctica exigida para aquellas personas que, estando en posesión de
+  una titulación declarada equivalente a efectos de docencia, no pueden realizar los
+  estudios de máster.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2013-06-12'
 boletin: BOE
@@ -15,29 +20,29 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Formación del profesorado
 tags:
-  - bachillerato
-  - ensenanzas-deportivas
-  - eoi
-  - eso
-  - evaluacion
-  - formacion-del-profesorado
-  - formacion-profesional
-  - profesorado
-  - titulacion
+- bachillerato
+- ensenanzas-deportivas
+- eoi
+- eso
+- evaluacion
+- formacion-del-profesorado
+- formacion-profesional
+- profesorado
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-1834-2008
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-1834-2008
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-rd-1834-2008
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - '2'
+  - norma_id: norm-es-rd-1834-2008
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 ---
 # Orden ECD/1058/2013, de 7 de junio, por la que se modifica la Orden EDU/2645/2011, de 23 de septiembre, por la que se establece la formación equivalente a la formación pedagógica y didáctica exigida para aquellas personas que, estando en posesión de una titulación declarada equivalente a efectos de docencia, no pueden realizar los estudios de máster.
 
@@ -59,9 +64,7 @@ Para la regulación de la situación del profesorado al que se refiere la dispos
 
 La Orden EDU/2645/2011, de 23 de septiembre, dispone en su disposición adicional primera la exigencia del certificado oficial de los estudios regulados en dicha orden a partir del 1 de septiembre de 2013, tanto para el profesorado de Formación Profesional como el de Enseñanzas Deportivas; en el caso de los títulos de enseñanzas deportivas que se establezcan con posterioridad a esta orden, este requisito se exigirá pasados dos años de la fecha de establecimiento del título de la modalidad o especialidad correspondiente.
 
-Por su parte, la disposición adicional segunda señala que hasta el 1 de septiembre de 2014 no será necesario acreditar el dominio de una lengua extranjera equivalente al nivel B1 del Marco Común Europeo de Referencia para las Lenguas. Por último, la disposición transitoria única establece que tendrán reconocido el requisito de formación pedagógica y didáctica a que se refiere la presente orden quienes acrediten que han impartido docencia durante dos cursos académicos completos o dos ciclos de enseñanzas deportivas completos o, en su defecto, doce meses en períodos continuos o discontinuos, en centros públicos o privados de enseñanza reglada debidamente autorizados, en los niveles y enseñanzas correspondientes, con anterioridad al 1 de septiembre de 2012.
-
-No es posible desarrollar en los plazos indicado los estudios conducentes a la certificación oficial de la formación pedagógica y didáctica que habilite para el ejercicio de la docencia. Por ello, procede modificar las disposiciones adicional primera y segunda y transitoria única de la Orden EDU/2645/2011, de 23 de septiembre, en el sentido de trasladar al 1 de septiembre de 2015 la exigencia de la certificación oficial, considerar en consecuencia la docencia ejercida hasta el 1 de septiembre de 2014, y aplazar también hasta el 1 de septiembre de 2015 la necesidad de acreditar el dominio de una lengua extranjera equivalente al nivel B1 del Marco Común Europeo de Referencia para las Lenguas.
+Por su parte, la disposición adicional segunda señala que hasta el 1 de septiembre de 2014 no será necesario acreditar el dominio de una lengua extranjera equivalente al nivel B1 del Marco Común Europeo de Referencia para las Lenguas. Por último, la disposición transitoria única establece que tendrán reconocido el requisito de formación pedagógica y didáctica a que se refiere la presente orden quienes acrediten que han impartido docencia durante dos cursos académicos completos o dos ciclos de enseñanzas deportivas completos o, en su defecto, doce meses en períodos continuos o discontinuos, en centros públicos o privados de enseñanza reglada debidamente autorizados, en los niveles y enseñanzas correspondientes, con anterioridad al 1 de septiembre de 2012. No es posible desarrollar en los plazos indicado los estudios conducentes a la certificación oficial de la formación pedagógica y didáctica que habilite para el ejercicio de la docencia. Por ello, procede modificar las disposiciones adicional primera y segunda y transitoria única de la Orden EDU/2645/2011, de 23 de septiembre, en el sentido de trasladar al 1 de septiembre de 2015 la exigencia de la certificación oficial, considerar en consecuencia la docencia ejercida hasta el 1 de septiembre de 2014, y aplazar también hasta el 1 de septiembre de 2015 la necesidad de acreditar el dominio de una lengua extranjera equivalente al nivel B1 del Marco Común Europeo de Referencia para las Lenguas.
 
 En el proceso de elaboración de esta orden, han sido consultadas las Comunidades Autónomas en el seno de la Conferencia Sectorial de Educación y han emitido informe el Consejo Escolar del Estado y el Ministerio de Hacienda y Administraciones Públicas.
 

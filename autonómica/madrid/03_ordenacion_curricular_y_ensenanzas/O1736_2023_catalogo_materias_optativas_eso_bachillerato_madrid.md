@@ -1,9 +1,11 @@
 ---
 id: norm-mad-o1736-2023
-titulo: Orden 1736/2023, de 23 de mayo, por la que se aprueba el catálogo de materias optativas en ESO y Bachillerato
+titulo: Orden 1736/2023, de 23 de mayo, por la que se aprueba el catálogo de materias
+  optativas en ESO y Bachillerato
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
 numero_disposicion: 1736/2023
 fecha_disposicion: '2023-05-23'
@@ -18,20 +20,20 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Secundaria Obligatoria (ESO)
 tags:
-  - materias_optativas
-  - eso
-  - bachillerato
-  - comunidad_de_madrid
+- materias_optativas
+- eso
+- bachillerato
+- comunidad_de_madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
 ---
 # Orden 1736/2023, de 23 de mayo, por la que se aprueba el catálogo de materias optativas en ESO y Bachillerato
 
@@ -93,9 +95,7 @@ título en el Real Decreto 652/2017, de 23 de junio.
 
 #### Disposición final primera. Implantación del nuevo currículo.
 
-Las enseñanzas que se determinan en el presente Decreto se implantarán a partir del curso escolar 2023-2024.
-
-#### Disposición final segunda. Habilitación para el desarrollo normativo.
+Las enseñanzas que se determinan en el presente Decreto se implantarán a partir del curso escolar 2023-2024. #### Disposición final segunda. Habilitación para el desarrollo normativo.
 
 Se autoriza al titular de la consejería competente en materia de Educación a dictar las disposiciones que sean precisas para el desarrollo de lo dispuesto en este Decreto.
 
@@ -564,8 +564,7 @@ ESPACIOS Y EQUIPAMIENTOS MÍNIMOS ESPACIO FORMATIVO SUPERFICIE (M2) 30 ALUMNOS (
 (2) Caminador automático. 150
 (2) Zona de duchas, corraletas, cestiles y/o verderas. 250
 (2) Local para herrado de equinos. 100
-(1) En caso de autorizarse unidades escolares con ratios inferiores a 30 alumnos, el aula polivalente deberá tener una superficie de 2 m2/alumno, con un mínimo de 40 m2.
-(2) Espacio singular no necesariamente ubicado en el centro de formación.
+(1) En caso de autorizarse unidades escolares con ratios inferiores a 30 alumnos, el aula polivalente deberá tener una superficie de 2 m2/alumno, con un mínimo de 40 m2. (2) Espacio singular no necesariamente ubicado en el centro de formación.
 
 ESPACIO FORMATIVO EQUIPAMIENTO EQUIPAMIENTOS MÍNIMOS Aula polivalente
 - Ordenadores instalados en red.

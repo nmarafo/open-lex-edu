@@ -1,10 +1,15 @@
 ---
 id: norm-can-res-boc-2024-049-109
 codigo_sintetizado: Resolucion BOC 109
-titulo: Resolución de 27 de febrero de 2024, de la DGACESC, por la que se dictan instrucciones sobre el proceso de admisión del alumnado en centros docentes que oferten enseñanzas de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato y Educación de Personas Adultas en los centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias (BOC núm. 49, de 7 de marzo).
+titulo: Resolución de 27 de febrero de 2024, de la DGACESC, por la que se dictan instrucciones
+  sobre el proceso de admisión del alumnado en centros docentes que oferten enseñanzas
+  de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato
+  y Educación de Personas Adultas en los centros docentes sostenidos con fondos públicos
+  en la Comunidad Autónoma de Canarias (BOC núm. 49, de 7 de marzo).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios Complementarios
+organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios
+  Complementarios
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: pdf_oficial_boc
@@ -13,41 +18,41 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión y escolarización del alumnado
 tags:
-  - admisi-n-y-escolarizaci-n-del-alumnado
-  - admision-alumnado
-  - bachillerato
-  - educacion-infantil
-  - educacion-personas-adultas
-  - educacion-primaria
-  - ensenanzas-deportivas
-  - ensenanzas-universitarias
-  - equipos-directivos
-  - eso
-  - formacion-profesional
-  - plantillas-docentes
-  - profesorado
+- admisi-n-y-escolarizaci-n-del-alumnado
+- admision-alumnado
+- bachillerato
+- educacion-infantil
+- educacion-personas-adultas
+- educacion-primaria
+- ensenanzas-deportivas
+- ensenanzas-universitarias
+- equipos-directivos
+- eso
+- formacion-profesional
+- plantillas-docentes
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-123-2023
-    - norma_id: norm-can-d-9-2022
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-123-2023
+  - norma_id: norm-can-d-9-2022
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   fundamento_de:
-    - norma_id: norm-can-res-boc-2025-039-104
+  - norma_id: norm-can-res-boc-2025-039-104
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-d-123-2023
-    - norma_id: norm-can-d-9-2022
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - norma_id: norm-can-d-123-2023
+  - norma_id: norm-can-d-9-2022
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-049-903.pdf
 ---
 # Resolución de 27 de febrero de 2024, de la DGACESC, por la que se dictan instrucciones sobre el proceso de admisión del alumnado en centros docentes que oferten enseñanzas de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato y Educación de Personas Adultas en los centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias (BOC núm. 49, de 7 de marzo).

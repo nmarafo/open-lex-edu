@@ -1,10 +1,13 @@
 ---
 id: norm-and-o-18-6-2020
 codigo_sintetizado: O18_6_2020 Bolsas Trabajo Profesorado Interino Andalucia
-titulo: Orden de 18 de junio de 2020, por la que se regula la constitución, ordenación y gestión de las bolsas de trabajo del personal docente funcionario interino de la Comunidad Autónoma de Andalucía.
+titulo: Orden de 18 de junio de 2020, por la que se regula la constitución, ordenación
+  y gestión de las bolsas de trabajo del personal docente funcionario interino de
+  la Comunidad Autónoma de Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 18/06/2020
 fecha_disposicion: '2020-06-18'
@@ -18,20 +21,20 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Profesorado interino
 tags:
-  - profesorado_interino
-  - bolsas_de_trabajo
-  - sipri
-  - adjudicacion_destinos
-  - andalucia
+- profesorado_interino
+- bolsas_de_trabajo
+- sipri
+- adjudicacion_destinos
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
 ---
 # Orden de 18 de junio de 2020, por la que se regula la constitución, ordenación y gestión de las bolsas de trabajo del personal docente funcionario interino de la Comunidad Autónoma de Andalucía.
 

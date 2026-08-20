@@ -1,7 +1,9 @@
 ---
 id: norm-es-1988-6938
 codigo_sintetizado: BOE-A-1988-6938
-titulo: Orden de 14 de marzo de 1988 para la aplicación de lo dispuesto en el Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
+titulo: Orden de 14 de marzo de 1988 para la aplicación de lo dispuesto en el Real
+  Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de títulos
+  y estudios extranjeros de educación no universitaria.
 jurisdiccion: España
 ambito: Estatal
 organo_emisor: Secretaría General Técnica
@@ -15,40 +17,36 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros extranjeros
 tags:
-  - bachillerato
-  - centros-extranjeros
-  - curriculo
-  - ensenanzas-universitarias
-  - equipos-directivos
-  - formacion-profesional
-  - fp-basica
-  - procedimiento-administrativo
-  - titulacion
+- bachillerato
+- centros-extranjeros
+- curriculo
+- ensenanzas-universitarias
+- equipos-directivos
+- formacion-profesional
+- fp-basica
+- procedimiento-administrativo
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-1988-3987
-    - norma_id: norm-es-2002-25289
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-1988-3987
+  - norma_id: norm-es-2002-25289
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
-    - norma_id: norm-es-1988-3987
-    - norma_id: norm-es-1996-10210
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2002-25289
-    - norma_id: norm-es-2018-4480
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-can-res-boc-2025-047-108
-    - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-es-1988-3987
+  - norma_id: norm-es-1996-10210
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2002-25289
+  - norma_id: norm-es-2018-4480
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-can-res-boc-2025-047-108
+  - norma_id: norm-can-res-boc-2026-039-103
   desarrollado_por: []
   fundamentos_derecho:
-    - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-d-81-2010
   articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-lo-2-2006
-  articulos:
-    - '120'
-    - norma_id: norm-es-1988-3987
-    - norma_id: norm-es-2002-25289
+  - '120'
+  - norma_id: norm-es-1988-3987
+  - norma_id: norm-es-2002-25289
 ---
 # Orden de 14 de marzo de 1988 para la aplicación de lo dispuesto en el Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
 
@@ -164,9 +162,7 @@ Disposición derogatoria ....
 
 Se autoriza a la Secretaría General Técnica del Departamento para dictar las instrucciones que resulten precisas para la aplicación de la presente Orden.
 
-#### Disposición final segunda. Madrid, 14 de marzo de 1988.
-
-MARAVALL HERRERO
+#### Disposición final segunda. Madrid, 14 de marzo de 1988. MARAVALL HERRERO
 
 Ilmos. Sres. Subsecretario y secretario general técnico.
 

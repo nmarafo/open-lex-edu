@@ -1,10 +1,12 @@
 ---
 id: norm-and-o-11-12-2012
 codigo_sintetizado: O11_12_2012 Adjudicacion Destinos Profesorado Interino Andalucía
-titulo: Orden de 11 de diciembre de 2012, por la que se regula la adjudicación de destinos al personal docente interino (SIPRI).
+titulo: Orden de 11 de diciembre de 2012, por la que se regula la adjudicación de
+  destinos al personal docente interino (SIPRI).
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 11/12/2012
 fecha_disposicion: '2012-12-11'
@@ -18,27 +20,25 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Profesorado interino
 tags:
-  - sipri
-  - interinos
-  - adjudicacion_destinos
-  - andalucia
+- sipri
+- interinos
+- adjudicacion_destinos
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
 ---
 # Orden de 11 de diciembre de 2012, por la que se regula la adjudicación de destinos al personal docente interino (SIPRI).
 
 ## Preámbulo
 
-ORDEN de 11 de diciembre de 2012, por la que se aprueban las bases reguladoras y se convocan subvenciones en régimen de concurrencia no competitiva destinadas a los Consorcios Escuela de Formación Profesional para el empleo para el año 2012.
-
-name="Description"/> name="Keywords"/>
+ORDEN de 11 de diciembre de 2012, por la que se aprueban las bases reguladoras y se convocan subvenciones en régimen de concurrencia no competitiva destinadas a los Consorcios Escuela de Formación Profesional para el empleo para el año 2012. name="Description"/> name="Keywords"/>
 
 title="Boletín completo - BOJA" type="application/atom+xml" rel="alternate"/> <link type="application/atom+xml" rel="alternate" title="1. Disposiciones generales - BOJA" href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
 
@@ -84,20 +84,14 @@ Histórico del BOJA Boletín número 248 de 20/12/2012
 
 ### Consejería de Economía, Innovación, Ciencia y Empleo
 
-### ORDEN de 11 de diciembre de 2012, por la que se aprueban las bases reguladoras y se convocan subvenciones en régimen de concurrencia no competitiva destinadas a los Consorcios Escuela de Formación Profesional para el empleo para el año 2012.
-
-Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad con CVE 00018358.
-
-Esta disposición incluye elementos no textuales, que no se muestran en esta página. Para visualizarlos, consulte la versión en <a title="Ir al final de la
+### ORDEN de 11 de diciembre de 2012, por la que se aprueban las bases reguladoras y se convocan subvenciones en régimen de concurrencia no competitiva destinadas a los Consorcios Escuela de Formación Profesional para el empleo para el año 2012. Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad con CVE 00018358. Esta disposición incluye elementos no textuales, que no se muestran en esta página. Para visualizarlos, consulte la versión en <a title="Ir al final de la
 disposición" href="
 
 Desde el año 1991 la Administración de la Junta de Andalucía, a través de la Consejería competente en materia de Formación Profesional para el Empleo, ha constituido en colaboración con Entidades Locales catorce Consorcios Escuela, que vienen a constituir la denominada «Red de Consorcios Escuela de Formación para el Empleo de la Junta de Andalucía».
 
 De este modo, se viene subvencionando el desarrollo de proyectos formativos y/o de inversiones, a los Consorcios Escuela de Formación Profesional para el Empleo.
 
-Esta modalidad de subvención se ha configurado como reglada, cuyo procedimiento de concesión es iniciado a solicitud del interesado en atención a la existencia de una determinada situación en la persona beneficiaria, en régimen de concurrencia no competitiva. Por otra parte, el modelo formativo de los Consorcios Escuela responde plenamente a los objetivos perseguidos en materia de Formación, por el VII Acuerdo de Concertación Social de Andalucía firmado el 24 de noviembre de 2009.
-
-El régimen jurídico de las subvenciones de la Administración de la Junta de Andalucía y de sus agencias, establecido en el Título VII del Texto Refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía, aprobado por Decreto Legislativo 1/2010, de 2 de marzo, se ha desarrollado por el Reglamento de los Procedimientos de Concesión de Subvenciones de la Administración de la Junta de Andalucía, aprobado por Decreto 282/2010, de 4 de mayo.
+Esta modalidad de subvención se ha configurado como reglada, cuyo procedimiento de concesión es iniciado a solicitud del interesado en atención a la existencia de una determinada situación en la persona beneficiaria, en régimen de concurrencia no competitiva. Por otra parte, el modelo formativo de los Consorcios Escuela responde plenamente a los objetivos perseguidos en materia de Formación, por el VII Acuerdo de Concertación Social de Andalucía firmado el 24 de noviembre de 2009. El régimen jurídico de las subvenciones de la Administración de la Junta de Andalucía y de sus agencias, establecido en el Título VII del Texto Refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía, aprobado por Decreto Legislativo 1/2010, de 2 de marzo, se ha desarrollado por el Reglamento de los Procedimientos de Concesión de Subvenciones de la Administración de la Junta de Andalucía, aprobado por Decreto 282/2010, de 4 de mayo.
 
 El citado Reglamento establece la simplificación de los procedimientos en materia de subvenciones, consiguiendo una gestión más eficaz y rápida, a través de la aprobación por la Consejería de Hacienda y Administración Pública de bases reguladoras tipo, lo que ha tenido lugar mediante la publicación de sendas Órdenes de 30 de agosto de 2010, por las que se aprueban las bases reguladoras tipo y los formularios tipo de la Administración de la Junta de Andalucía para la concesión de subvenciones en régimen de concurrencia no competitiva y en régimen de concurrencia competitiva.
 
@@ -109,9 +103,7 @@ DISPONGO:
 
 Artículo único. Aprobación de las bases reguladoras y de la convocatoria.
 
-1. Se aprueban las bases reguladoras para la concesión de subvenciones en régimen de concurrencia no competitiva para los Consorcios Escuela de Formación para el Empleo en la Comunidad Autónoma de Andalucía y la convocatoria para el año 2012.
-
-2. A continuación de esta Orden, se inserta lo siguiente:
+1. Se aprueban las bases reguladoras para la concesión de subvenciones en régimen de concurrencia no competitiva para los Consorcios Escuela de Formación para el Empleo en la Comunidad Autónoma de Andalucía y la convocatoria para el año 2012. 2. A continuación de esta Orden, se inserta lo siguiente:
 
 - Texto articulado de las bases reguladoras.
 
@@ -129,9 +121,7 @@ La persona titular de la Dirección-Gerencia del Servicio Andaluz de Empleo podr
 
 La citada Resolución deberá ser informada conforme al Decreto 162/2006, de 12 de septiembre, por el que se regulan la memoria económica y el informe en las actuaciones con incidencia económico-financiera.
 
-#### Disposición adicional segunda. Convocatoria para el año 2012.
-
-1. Se convocan para el año 2012 la concesión de subvenciones, en las modalidades de proyectos formativos e inversiones, siendo el plazo de presentación de solicitudes de cinco días naturales, contados desde el día siguiente a la entrada en vigor de la presente Orden.
+#### Disposición adicional segunda. Convocatoria para el año 2012. 1. Se convocan para el año 2012 la concesión de subvenciones, en las modalidades de proyectos formativos e inversiones, siendo el plazo de presentación de solicitudes de cinco días naturales, contados desde el día siguiente a la entrada en vigor de la presente Orden.
 
 2. Los conceptos subvencionables de la presente convocatoria serán los establecidos en el artículo 1 de las Bases Reguladoras.
 
@@ -287,9 +277,7 @@ Texto Refundido de la Ley General de la Hacienda Pública de la Junta de Andaluc
 
 3. Los requisitos señalados en el apartado anterior deberán mantenerse durante el período indicado en el apartado 8.c) del cuadro resumen correspondiente.
 
-4. Salvo las excepciones establecidas en el apartado 8.d) del cuadro resumen correspondiente, no se podrá obtener la condición de entidad colaboradora cuando concurra alguna de las circunstancias indicadas en el artículo 3.3.
-
-5. Las entidades colaboradoras deberán reunir las condiciones de solvencia y eficacia que, en su caso, se establezcan en el apartado 8.e) del cuadro resumen correspondiente.
+4. Salvo las excepciones establecidas en el apartado 8.d) del cuadro resumen correspondiente, no se podrá obtener la condición de entidad colaboradora cuando concurra alguna de las circunstancias indicadas en el artículo 3.3. 5. Las entidades colaboradoras deberán reunir las condiciones de solvencia y eficacia que, en su caso, se establezcan en el apartado 8.e) del cuadro resumen correspondiente.
 
 6. Las particularidades y el contenido del convenio de colaboración o contrato, serán los que, en su caso, se indiquen en el apartado 8.f) del cuadro resumen correspondiente.
 
@@ -345,15 +333,11 @@ a) Los datos identificativos de la persona interesada y, en su caso, de quien la
 
 b) El medio preferente o el lugar a efectos de practicar las notificaciones que proceda efectuar. A tal efecto, en el modelo de solicitud figura un apartado para que puedan indicar como preferente el medio electrónico.
 
-c) Una declaración responsable de no hallarse incursas en las circunstancias previstas en el artículo 3.3.
-
-d) Una declaración responsable de que cumplen los requisitos exigidos en estas bases reguladoras.
+c) Una declaración responsable de no hallarse incursas en las circunstancias previstas en el artículo 3.3. d) Una declaración responsable de que cumplen los requisitos exigidos en estas bases reguladoras.
 
 e) Una declaración responsable relativa a otras subvenciones, ayudas, ingresos o recursos solicitados y, en su caso, concedidos, para la misma finalidad, por cualesquiera Administraciones Públicas o entes públicos o privados, nacionales o internacionales, con indicación de la entidad concedente, fecha e importe.
 
-f) En su caso, el consentimiento expreso al órgano instructor para que recabe de otras Consejerías o de otras Administraciones Públicas toda la información o documentación acreditativa exigida en la normativa de aplicación que estuviera en poder de aquellas. En caso de no prestar el consentimiento, estarán obligadas a aportar los documentos necesarios para facilitar esa información, en los términos indicados en el apartado 5 de este artículo y en el artículo 17.
-
-g) La declaración responsable de la veracidad de todos los datos reflejados en la solicitud.
+f) En su caso, el consentimiento expreso al órgano instructor para que recabe de otras Consejerías o de otras Administraciones Públicas toda la información o documentación acreditativa exigida en la normativa de aplicación que estuviera en poder de aquellas. En caso de no prestar el consentimiento, estarán obligadas a aportar los documentos necesarios para facilitar esa información, en los términos indicados en el apartado 5 de este artículo y en el artículo 17. g) La declaración responsable de la veracidad de todos los datos reflejados en la solicitud.
 
 2. Conforme al artículo 23 l.
 
@@ -367,9 +351,7 @@ Reglamento de los Procedimientos de Concesión de Subvenciones de la Administrac
 
 a) Por aportarlos con la solicitud, en los términos previstos en dicho artículo.
 
-b) Por limitarse a cumplimentar en la solicitud una declaración responsable de que cumplen los requisitos exigidos en estas bases reguladoras, con el compromiso de aportarlos en el trámite de audiencia, en los términos del artículo 17.
-
-6. Con carácter general, cuando se trate de información o documentos que obren en poder de la Administración de la Junta de Andalucía o sus agencias, podrá ejercerse el derecho a no presentarlos, autorizando al órgano instructor para que los recabe de otra Consejería o agencia, para lo cual deberá indicarse el órgano al que fueron presentados o por el que fueron emitidos, la fecha de dicha presentación o emisión, y el procedimiento al que corresponden, siempre que no hayan transcurrido más de cinco años desde la finalización de este.
+b) Por limitarse a cumplimentar en la solicitud una declaración responsable de que cumplen los requisitos exigidos en estas bases reguladoras, con el compromiso de aportarlos en el trámite de audiencia, en los términos del artículo 17. 6. Con carácter general, cuando se trate de información o documentos que obren en poder de la Administración de la Junta de Andalucía o sus agencias, podrá ejercerse el derecho a no presentarlos, autorizando al órgano instructor para que los recabe de otra Consejería o agencia, para lo cual deberá indicarse el órgano al que fueron presentados o por el que fueron emitidos, la fecha de dicha presentación o emisión, y el procedimiento al que corresponden, siempre que no hayan transcurrido más de cinco años desde la finalización de este.
 
 #### Artículo 11. Lugares y medios de presentación de solicitudes.
 
@@ -511,9 +493,7 @@ Las notificaciones se cursarán personalmente y se practicarán en el lugar o po
 
 1. El procedimiento para modificar la resolución de concesión se iniciará siempre de oficio por acuerdo del órgano que la otorgó, bien por propia iniciativa, como consecuencia de petición razonada de otros órganos o bien a instancia de la persona beneficiaria.
 
-2. Toda alteración de las condiciones tenidas en cuenta para la concesión de la subvención, indicadas en el apartado 20.a) del cuadro resumen correspondiente, podrá dar lugar a la modificación de la resolución de concesión. En el supuesto de que se obtengan de manera concurrente otras aportaciones fuera de los casos permitidos en estas bases reguladoras, se acordará la modificación de la resolución de concesión en los términos previstos en el artículo 28.
-
-3. Salvo previsión expresa en contrario establecida en el apartado 20.b) del cuadro resumen correspondiente, la persona o entidad beneficiaria de la subvención podrá instar del órgano concedente la iniciación de oficio del procedimiento para modificar la resolución de concesión, incluida la ampliación de los plazos de ejecución y justificación, sin que en ningún caso pueda variarse el destino o finalidad de la subvención, ni alterar la actividad, programa, actuación o comportamiento para los que se concedió la subvención ni elevar la cuantía de la subvención obtenida que figura en la resolución de concesión. La variación tampoco podrá afectar a aquellos aspectos propuestos u ofertados por la persona o entidad beneficiaria que fueron razón de su concreto otorgamiento. La ampliación del plazo de justificación no podrá exceder de la mitad del inicialmente establecido y en ningún caso podrá perjudicar derechos de terceras personas.
+2. Toda alteración de las condiciones tenidas en cuenta para la concesión de la subvención, indicadas en el apartado 20.a) del cuadro resumen correspondiente, podrá dar lugar a la modificación de la resolución de concesión. En el supuesto de que se obtengan de manera concurrente otras aportaciones fuera de los casos permitidos en estas bases reguladoras, se acordará la modificación de la resolución de concesión en los términos previstos en el artículo 28. 3. Salvo previsión expresa en contrario establecida en el apartado 20.b) del cuadro resumen correspondiente, la persona o entidad beneficiaria de la subvención podrá instar del órgano concedente la iniciación de oficio del procedimiento para modificar la resolución de concesión, incluida la ampliación de los plazos de ejecución y justificación, sin que en ningún caso pueda variarse el destino o finalidad de la subvención, ni alterar la actividad, programa, actuación o comportamiento para los que se concedió la subvención ni elevar la cuantía de la subvención obtenida que figura en la resolución de concesión. La variación tampoco podrá afectar a aquellos aspectos propuestos u ofertados por la persona o entidad beneficiaria que fueron razón de su concreto otorgamiento. La ampliación del plazo de justificación no podrá exceder de la mitad del inicialmente establecido y en ningún caso podrá perjudicar derechos de terceras personas.
 
 4. El escrito por el que se inste la iniciación de oficio deberá estar suficientemente justificado, presentándose de forma inmediata a la aparición de las circunstancias que lo motiven y con antelación a la finalización del plazo de ejecución y de justificación inicialmente concedido.
 
@@ -541,9 +521,7 @@ g) Conservar los documentos justificativos de la aplicación de los fondos recib
 
 h) Hacer constar en toda información o publicidad que se efectúe de la actividad u objeto de la subvención que la misma está subvencionada por la Administración de la Junta de Andalucía, indicando la Consejería o Agencia que la ha concedido, utilizando un lenguaje no sexista. En los supuestos de subvenciones financiadas con fondos comunitarios, se deberá cumplir con las disposiciones que sobre información y publicidad se dicten por la Unión Europea. En todo caso, se deberán adoptar las medidas específicas de información y publicidad que se indican en el apartado 22.a) del cuadro resumen correspondiente.
 
-i) Proceder al reintegro de los fondos percibidos en los supuestos contemplados en el artículo 28.
-
-j) Comunicar al órgano concedente el cambio de domicilio o de la dirección de correo electrónico durante el período en el que la subvención es susceptible de control.
+i) Proceder al reintegro de los fondos percibidos en los supuestos contemplados en el artículo 28. j) Comunicar al órgano concedente el cambio de domicilio o de la dirección de correo electrónico durante el período en el que la subvención es susceptible de control.
 
 k) Cualquier otra condición u obligación específica que se establezca en el apartado 22.b) del cuadro resumen correspondiente.
 
@@ -811,15 +789,9 @@ Con carácter específico, las presentes subvenciones se regirán por las normas
 
 - Instrucción 2/2010, de 27 de julio de 2010, de la Dirección General de Fondos Europeos y Planificación, por la que se establecen los requisitos aplicables al pago de gastos cofinanciados con Fondos Europeos.
 
-- Instrucción de 2 de enero de 2009, de la Dirección General de Fondos Europeos, por la que se desarrolla la Orden de 23 de julio de 2008, por la que se establecen normas para la gestión y coordinación de las intervenciones cofinanciadas con Fondos Europeos en el ámbito de la Comunidad Autónoma de Andalucía para el periodo de programación 2007-2013.
+- Instrucción de 2 de enero de 2009, de la Dirección General de Fondos Europeos, por la que se desarrolla la Orden de 23 de julio de 2008, por la que se establecen normas para la gestión y coordinación de las intervenciones cofinanciadas con Fondos Europeos en el ámbito de la Comunidad Autónoma de Andalucía para el periodo de programación 2007-2013. - Reglamento (CE) núm. 1083/2006 del Consejo de 11 de julio de 2006, por el que se establecen las disposiciones generales relativas al Fondo Europeo de Desarrollo Regional, al Fondo Social Europeo y al Fondo de Cohesión y se deroga el Reglamento (CE) núm. 1260/1999. - Reglamento (CE) núm. 1828/2006 de la Comisión de 8 de diciembre de 2006, que fijan normas de desarrollo para el Reglamento (CE) núm. 1083/2006 del Consejo, por el que se establecen las disposiciones generales relativas al Fondo Europeo de Desarrollo Regional, al Fondo Social Europeo y al Fondo de Cohesión, y el Reglamento (CE) núm. 1080/2006 del Parlamento Europeo y del Consejo, relativo al Fondo Europeo de Desarrollo Regional.
 
-- Reglamento (CE) núm. 1083/2006 del Consejo de 11 de julio de 2006, por el que se establecen las disposiciones generales relativas al Fondo Europeo de Desarrollo Regional, al Fondo Social Europeo y al Fondo de Cohesión y se deroga el Reglamento (CE) núm. 1260/1999.
-
-- Reglamento (CE) núm. 1828/2006 de la Comisión de 8 de diciembre de 2006, que fijan normas de desarrollo para el Reglamento (CE) núm. 1083/2006 del Consejo, por el que se establecen las disposiciones generales relativas al Fondo Europeo de Desarrollo Regional, al Fondo Social Europeo y al Fondo de Cohesión, y el Reglamento (CE) núm. 1080/2006 del Parlamento Europeo y del Consejo, relativo al Fondo Europeo de Desarrollo Regional.
-
-- Reglamento (CE) núm. 1081/2006 del Parlamento Europeo y del Consejo, de 5 de julio de 2006, relativo al Fondo Social Europeo y por el que se deroga el Reglamento (CE) núm. 1784/1999.
-
-- Decisión de la Comisión de 7 de mayo de 2007 por la que se aprueban determinados elementos del Marco Estratégico Nacional de Referencia.
+- Reglamento (CE) núm. 1081/2006 del Parlamento Europeo y del Consejo, de 5 de julio de 2006, relativo al Fondo Social Europeo y por el que se deroga el Reglamento (CE) núm. 1784/1999. - Decisión de la Comisión de 7 de mayo de 2007 por la que se aprueban determinados elementos del Marco Estratégico Nacional de Referencia.
 
 - Decisión de la Comisión de 13 de diciembre de 2007 por la que se adopta el Programa Operativo (PO) de intervención comunitaria del Fondo Social Europeo en el marco del objetivo de convergencia de la Comunidad Autónoma de Andalucía (España).
 
@@ -1137,17 +1109,13 @@ Las entidades beneficiarias deberán llevar una contabilidad separada o codifica
 
 Publicidad en actuaciones cofinanciadas con Fondos Europeos: de conformidad con el artículo 9 l.
 
-Reglamento (CE) 1828/2006 de la Comisión, de 8 de diciembre de 2006, sobre información y publicidad, todas las medidas de información y publicidad destinadas a los beneficiarios, a los beneficiarios potenciales y al público en general, recogidas en el apartado 22 del Cuadro Resumen, cualquier documento o material de difusión relacionado con la subvención concedida, así como los formularios de solicitud, y de alegaciones, aceptación, reformulación y presentación de documentos, deberán incluir el emblema de la Unión Europea, de conformidad con las normas gráficas establecidas en el Anexo I de dicho Reglamento y el logotipo con la declaración «Andalucía se mueve con Europa» previsto en el Plan de Comunicación de los Programas Operativos FEDER y FSE de Andalucía 2007-2013.
-
-A este respecto, serán de aplicación, según lo previsto en el artículo 51 de la Orden de 23 de julio de 2008, el manual y las dos guías rápidas sobre información y publicidad disponibles en la página Web de la Consejería de Economía, Innovación, Ciencia y Empleo.
+Reglamento (CE) 1828/2006 de la Comisión, de 8 de diciembre de 2006, sobre información y publicidad, todas las medidas de información y publicidad destinadas a los beneficiarios, a los beneficiarios potenciales y al público en general, recogidas en el apartado 22 del Cuadro Resumen, cualquier documento o material de difusión relacionado con la subvención concedida, así como los formularios de solicitud, y de alegaciones, aceptación, reformulación y presentación de documentos, deberán incluir el emblema de la Unión Europea, de conformidad con las normas gráficas establecidas en el Anexo I de dicho Reglamento y el logotipo con la declaración «Andalucía se mueve con Europa» previsto en el Plan de Comunicación de los Programas Operativos FEDER y FSE de Andalucía 2007-2013. A este respecto, serán de aplicación, según lo previsto en el artículo 51 de la Orden de 23 de julio de 2008, el manual y las dos guías rápidas sobre información y publicidad disponibles en la página Web de la Consejería de Economía, Innovación, Ciencia y Empleo.
 
 22.b) Condiciones y obligaciones específicas que debe cumplir o adoptar la persona beneficiaria:
 
 - Gratuidad de las acciones formativas para los participantes en el Plan de Formación subvencionado.
 
-- Aceptación expresa de su inclusión en la lista pública de beneficiarios a que se refiere el artículo 7.2.d) del Reglamento (CE) número 1828/2006 de la Comisión de 8 de diciembre de 2006.
-
-- Conservar la documentación justificativa, financiera y de gestión de las actuaciones cofinanciadas por Fondos Europeos durante los tres años siguientes al cierre del Programa Operativo que financie las actuaciones, tal y como, establece el artículo 90 l.
+- Aceptación expresa de su inclusión en la lista pública de beneficiarios a que se refiere el artículo 7.2.d) del Reglamento (CE) número 1828/2006 de la Comisión de 8 de diciembre de 2006. - Conservar la documentación justificativa, financiera y de gestión de las actuaciones cofinanciadas por Fondos Europeos durante los tres años siguientes al cierre del Programa Operativo que financie las actuaciones, tal y como, establece el artículo 90 l.
 
 Reglamento (CE) núm. 1083/2006 del Consejo, de 11 de julio de 2006, por el que se establecen las disposiciones generales relativas al FEDER y al FSE.
 
@@ -1155,9 +1123,7 @@ Reglamento (CE) núm. 1083/2006 del Consejo, de 11 de julio de 2006, por el que 
 
 - Someterse a las actuaciones de verificación y control realizadas por la Dirección General de Fondos Europeos y Planificación, en virtud de las competencias de seguimiento y control que el artículo 10 l.
 
-Decreto 149/2012, de 5 de junio, por el que se regula la estructura orgánica de la Consejería de Economía, Innovación, Ciencia y Empleo, y las de otros entes comunitarios competentes, de acuerdo con lo previsto en el artículo 24.1.c) En la ejecución de estos controles se gozará de las mismas prerrogativas previstas en el artículo 24.2.
-
-- Remitir, en el plazo de tres meses desde la recepción de cada uno de los abonos de la subvención, a la Dirección-Gerencia del Servicio Andaluz de Empleo, certificado expedido por el Interventor de la entidad beneficiaria u órgano similar, en el que se hará constar que la subvención ha sido ingresada en su contabilidad, con especificación del número de asiento contable practicado.
+Decreto 149/2012, de 5 de junio, por el que se regula la estructura orgánica de la Consejería de Economía, Innovación, Ciencia y Empleo, y las de otros entes comunitarios competentes, de acuerdo con lo previsto en el artículo 24.1.c) En la ejecución de estos controles se gozará de las mismas prerrogativas previstas en el artículo 24.2. - Remitir, en el plazo de tres meses desde la recepción de cada uno de los abonos de la subvención, a la Dirección-Gerencia del Servicio Andaluz de Empleo, certificado expedido por el Interventor de la entidad beneficiaria u órgano similar, en el que se hará constar que la subvención ha sido ingresada en su contabilidad, con especificación del número de asiento contable practicado.
 
 23. Forma y Secuencia del Pago. (Artículo 25).
 
@@ -1247,9 +1213,7 @@ Contenido de la memoria económica abreviada:
 
 El gasto derivado de la revisión de la cuenta justificativa por el auditor es subvencionable: Sí. Sin exceder del 1% del presupuesto aceptado, con el límite máximo de 3.000 euros.
 
-Para los proyectos cofinanciados por el FSE, los gastos efectuados por las entidades beneficiarias deberán documentarse mediante facturas pagadas o documentos contables de valor probatorio equivalente, no pudiendo ser sustituidos por certificados justificativos de los mismos, con independencia de quien sea su emisor, siendo de aplicación los artículos 56 y 78 del Reglamento (CE) 1083/2006, la Orden TIN 2965/2008 de 14 de octubre, y los artículos 35 y 43 de la Orden de 23 de julio de 2008, por la que se establecen normas para la gestión y coordinación de las Intervenciones cofinanciadas con Fondos Europeos en el ámbito de la Comunidad Autónoma de Andalucía para el período de programación 2007-2013.
-
-El informe del auditor deberá garantizar el cumplimiento de la normativa comunitaria en las actuaciones cofinanciadas, en lo referente a la correcta imputación de los gastos, el respeto a los porcentajes de cofinanciación, y la conservación de la pista de auditoría financiera y de gestión.
+Para los proyectos cofinanciados por el FSE, los gastos efectuados por las entidades beneficiarias deberán documentarse mediante facturas pagadas o documentos contables de valor probatorio equivalente, no pudiendo ser sustituidos por certificados justificativos de los mismos, con independencia de quien sea su emisor, siendo de aplicación los artículos 56 y 78 del Reglamento (CE) 1083/2006, la Orden TIN 2965/2008 de 14 de octubre, y los artículos 35 y 43 de la Orden de 23 de julio de 2008, por la que se establecen normas para la gestión y coordinación de las Intervenciones cofinanciadas con Fondos Europeos en el ámbito de la Comunidad Autónoma de Andalucía para el período de programación 2007-2013. El informe del auditor deberá garantizar el cumplimiento de la normativa comunitaria en las actuaciones cofinanciadas, en lo referente a la correcta imputación de los gastos, el respeto a los porcentajes de cofinanciación, y la conservación de la pista de auditoría financiera y de gestión.
 
 25.f).3.º Cuenta justificativa simplificada:
 
@@ -1345,11 +1309,7 @@ Con carácter específico, las presentes subvenciones se regirán por las normas
 
 - Instrucción 2/2010, de 27 de julio de 2010, de la Dirección General de Fondos Europeos y Planificación, por la que se establecen los requisitos aplicables al pago de gastos cofinanciados con Fondos Europeos.
 
-- Instrucción de 2 de enero de 2009, de la Dirección General de Fondos Europeos, por la que se desarrolla la Orden de 23 de julio de 2008, por la que se establecen normas para la gestión y coordinación de las intervenciones cofinanciadas con Fondos Europeos en el ámbito de la Comunidad Autónoma de Andalucía para el periodo de programación 2007-2013.
-
-- Reglamento (CE) núm. 1083/2006 DEL CONSEJO de 11 de julio de 2006, por el que se establecen las disposiciones generales relativas al Fondo Europeo de Desarrollo Regional, al Fondo Social Europeo y al Fondo de Cohesión y se deroga el Reglamento (CE) núm. 1260/1999.
-
-- Reglamento (CE) núm. 1828/2006 DE LA COMISIÓN de 8 de diciembre de 2006, que fijan normas de desarrollo para el Reglamento (CE) núm. 1083/2006 del Consejo, por el que se establecen las disposiciones generales relativas al Fondo Europeo de Desarrollo Regional, al Fondo Social Europeo y al Fondo de Cohesión, y el Reglamento (CE) núm. 1080/2006 del Parlamento Europeo y del Consejo, relativo al Fondo Europeo de Desarrollo Regional.
+- Instrucción de 2 de enero de 2009, de la Dirección General de Fondos Europeos, por la que se desarrolla la Orden de 23 de julio de 2008, por la que se establecen normas para la gestión y coordinación de las intervenciones cofinanciadas con Fondos Europeos en el ámbito de la Comunidad Autónoma de Andalucía para el periodo de programación 2007-2013. - Reglamento (CE) núm. 1083/2006 DEL CONSEJO de 11 de julio de 2006, por el que se establecen las disposiciones generales relativas al Fondo Europeo de Desarrollo Regional, al Fondo Social Europeo y al Fondo de Cohesión y se deroga el Reglamento (CE) núm. 1260/1999. - Reglamento (CE) núm. 1828/2006 DE LA COMISIÓN de 8 de diciembre de 2006, que fijan normas de desarrollo para el Reglamento (CE) núm. 1083/2006 del Consejo, por el que se establecen las disposiciones generales relativas al Fondo Europeo de Desarrollo Regional, al Fondo Social Europeo y al Fondo de Cohesión, y el Reglamento (CE) núm. 1080/2006 del Parlamento Europeo y del Consejo, relativo al Fondo Europeo de Desarrollo Regional.
 
 - Decisión de la Comisión de 7 de mayo de 2007 por la que se aprueban determinados elementos del Marco Estratégico Nacional de Referencia.
 
@@ -1409,9 +1369,7 @@ f) Gastos notariales y los gastos periciales para la realización del proyecto s
 
 Reglamento (CE) núm. 1080/2006 del Parlamento Europeo y del Consejo de 5 de julio de 2006 relativo al Fondo Europeo de Desarrollo Regional (en adelante FEDER), y al artículo 56 del Reglamento (CE) núm. 1083/2006 del Consejo de 11 de julio de 2006, así como a la Orden EHA/524/2008, de 26 de febrero (BOE núm. 53, de 1.3.08), por la que se aprueban las normas sobre los gastos subvencionables de los programas operativos del Fondo Europeo de Desarrollo Regional y del Fondo de Cohesión.
 
-5. En el caso de que los proyectos sean cofinanciados con fondos FEDER, la selección de las operaciones se realizará de conformidad con los criterios aprobados por el Comité de seguimiento del Programa Operativo FEDER de Andalucía 2007-2013.
-
-6. Se considerará gasto realizado el que haya sido efectivamente pagado con anterioridad a la finalización del periodo de justificación establecido en la resolución de concesión.
+5. En el caso de que los proyectos sean cofinanciados con fondos FEDER, la selección de las operaciones se realizará de conformidad con los criterios aprobados por el Comité de seguimiento del Programa Operativo FEDER de Andalucía 2007-2013. 6. Se considerará gasto realizado el que haya sido efectivamente pagado con anterioridad a la finalización del periodo de justificación establecido en la resolución de concesión.
 
 5.b).2.º Posibilidad de compensar varios conceptos:
 
@@ -1611,15 +1569,11 @@ Las entidades beneficiarias deberán llevar una contabilidad separada o codifica
 
 Publicidad en actuaciones cofinanciadas con Fondos Europeos: de conformidad con el artículo 9 l.
 
-Reglamento (CE) 1828/2006 de la Comisión, de 8 de diciembre de 2006, sobre información y publicidad, todas las medidas de información y publicidad destinadas a los beneficiarios, a los beneficiarios potenciales y al público en general (recogidas en el apartado 22 del Cuadro Resumen), cualquier documento o material de difusión relacionado con la subvención concedida, así como los formularios de solicitud, y de alegaciones, aceptación, reformulación y presentación de documentos, deberán incluir el emblema de la Unión Europea, de conformidad con las normas gráficas establecidas en el Anexo I de dicho Reglamento, y el logotipo con la declaración «Andalucía se mueve con Europa» previsto en el Plan de Comunicación de los Programas Operativos FEDER y FSE de Andalucía 2007-2013.
-
-A este respecto, serán de aplicación, según lo previsto en el artículo 51 de la Orden de 23 de julio de 2008, el manual y las dos guías rápidas sobre información y publicidad disponibles en la web de la Consejería de Economía, Innovación, Ciencia y Empleo.
+Reglamento (CE) 1828/2006 de la Comisión, de 8 de diciembre de 2006, sobre información y publicidad, todas las medidas de información y publicidad destinadas a los beneficiarios, a los beneficiarios potenciales y al público en general (recogidas en el apartado 22 del Cuadro Resumen), cualquier documento o material de difusión relacionado con la subvención concedida, así como los formularios de solicitud, y de alegaciones, aceptación, reformulación y presentación de documentos, deberán incluir el emblema de la Unión Europea, de conformidad con las normas gráficas establecidas en el Anexo I de dicho Reglamento, y el logotipo con la declaración «Andalucía se mueve con Europa» previsto en el Plan de Comunicación de los Programas Operativos FEDER y FSE de Andalucía 2007-2013. A este respecto, serán de aplicación, según lo previsto en el artículo 51 de la Orden de 23 de julio de 2008, el manual y las dos guías rápidas sobre información y publicidad disponibles en la web de la Consejería de Economía, Innovación, Ciencia y Empleo.
 
 22.b) Condiciones y obligaciones específicas que debe cumplir o adoptar la persona beneficiaria:
 
-- Aceptación expresa de su inclusión en la lista pública de beneficiarios a que se refiere el artículo 7.2.d) del Reglamento (CE) número 1828/2006 de la Comisión de 8 de diciembre de 2006.
-
-- Conservar la documentación justificativa, financiera y de gestión de las actuaciones cofinanciadas por Fondos Europeos durante los tres años siguientes al cierre del Programa Operativo que financie las actuaciones tal y como establece el artículo 90 l.
+- Aceptación expresa de su inclusión en la lista pública de beneficiarios a que se refiere el artículo 7.2.d) del Reglamento (CE) número 1828/2006 de la Comisión de 8 de diciembre de 2006. - Conservar la documentación justificativa, financiera y de gestión de las actuaciones cofinanciadas por Fondos Europeos durante los tres años siguientes al cierre del Programa Operativo que financie las actuaciones tal y como establece el artículo 90 l.
 
 Reglamento (CE) núm. 1083/2006 del Consejo, de 11 de julio de 2006, por el que se establecen las disposiciones generales relativas al FEDER y al FSE.
 
@@ -1627,9 +1581,7 @@ Reglamento (CE) núm. 1083/2006 del Consejo, de 11 de julio de 2006, por el que 
 
 - Someterse a las actuaciones de verificación y control realizadas por la Dirección General de Fondos Europeos y Planificación, en virtud de las competencias de seguimiento y control que el artículo 10 l.
 
-Decreto 149/2012 de 5 de junio, por el que se regula la estructura orgánica de la Consejería de Economía, Innovación, Ciencia y Empleo, atribuye a este centro Directivo, y las de otros entes comunitarios competentes, de acuerdo con lo previsto en el artículo 24.1.c). En la ejecución de estos controles se gozará de las mismas prerrogativas previstas en el artículo 24.2.
-
-- Remitir, en el plazo de tres meses desde la recepción de cada uno de los abonos de la subvención, a la Dirección-Gerencia del Servicio Andaluz de Empleo, certificado expedido por el Interventor de la entidad beneficiaria, u órgano similar, en el que se hará constar que la subvención ha sido ingresada en su contabilidad, con especificación del número de asiento contable practicado.
+Decreto 149/2012 de 5 de junio, por el que se regula la estructura orgánica de la Consejería de Economía, Innovación, Ciencia y Empleo, atribuye a este centro Directivo, y las de otros entes comunitarios competentes, de acuerdo con lo previsto en el artículo 24.1.c). En la ejecución de estos controles se gozará de las mismas prerrogativas previstas en el artículo 24.2. - Remitir, en el plazo de tres meses desde la recepción de cada uno de los abonos de la subvención, a la Dirección-Gerencia del Servicio Andaluz de Empleo, certificado expedido por el Interventor de la entidad beneficiaria, u órgano similar, en el que se hará constar que la subvención ha sido ingresada en su contabilidad, con especificación del número de asiento contable practicado.
 
 23. Forma y Secuencia del Pago. (Artículo 25).
 
@@ -1715,9 +1667,7 @@ Contenido de la memoria económica abreviada:
 
 El gasto derivado de la revisión de la cuenta justificativa por el auditor es subvencionable: Sí. Sin exceder del 1% del presupuesto aceptado, con un límite máximo de 3.000 euros.
 
-Para los proyectos cofinanciados con Fondos europeos, los gastos efectuados por las entidades beneficiarias deberán documentarse mediante facturas pagadas o documentos contables de valor probatorio equivalente, no pudiendo ser sustituidos por certificados justificativos de los mismos, con independencia de quien sea su emisor, siendo de aplicación los artículos 56 y 78 del Reglamento (CE) 1083/2006, la Orden EHA/524/2008, de 26 de febrero, la Orden TIN 2965/2008 de 14 de octubre, y los artículos 35 y 43 de la Orden de 23 de julio de 2008, por la que se establecen normas para la gestión y coordinación de las Intervenciones cofinanciadas con Fondos Europeos en el ámbito de la Comunidad Autónoma de Andalucía para el período de programación 2007-2013.
-
-El informe del auditor deberá garantizar el cumplimiento de la normativa comunitaria en las actuaciones cofinanciadas, en lo referente a la correcta imputación de los gastos, el respeto a los porcentajes de cofinanciación, y la conservación de la pista de auditoría financiera y de gestión.
+Para los proyectos cofinanciados con Fondos europeos, los gastos efectuados por las entidades beneficiarias deberán documentarse mediante facturas pagadas o documentos contables de valor probatorio equivalente, no pudiendo ser sustituidos por certificados justificativos de los mismos, con independencia de quien sea su emisor, siendo de aplicación los artículos 56 y 78 del Reglamento (CE) 1083/2006, la Orden EHA/524/2008, de 26 de febrero, la Orden TIN 2965/2008 de 14 de octubre, y los artículos 35 y 43 de la Orden de 23 de julio de 2008, por la que se establecen normas para la gestión y coordinación de las Intervenciones cofinanciadas con Fondos Europeos en el ámbito de la Comunidad Autónoma de Andalucía para el período de programación 2007-2013. El informe del auditor deberá garantizar el cumplimiento de la normativa comunitaria en las actuaciones cofinanciadas, en lo referente a la correcta imputación de los gastos, el respeto a los porcentajes de cofinanciación, y la conservación de la pista de auditoría financiera y de gestión.
 
 25.f).3.º Cuenta justificativa simplificada:
 

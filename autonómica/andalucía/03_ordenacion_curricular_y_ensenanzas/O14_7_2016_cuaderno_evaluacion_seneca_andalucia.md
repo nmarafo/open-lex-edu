@@ -1,10 +1,12 @@
 ---
 id: norm-and-o-14-7-2016
 codigo_sintetizado: O14_7_2016 Cuaderno Evaluacion Seneca Andalucía
-titulo: Orden de 14 de julio de 2016, por la que se regula la utilización del Cuaderno de Evaluación del Profesorado en Séneca.
+titulo: Orden de 14 de julio de 2016, por la que se regula la utilización del Cuaderno
+  de Evaluación del Profesorado en Séneca.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 14/07/2016
 fecha_disposicion: '2016-07-14'
@@ -18,25 +20,23 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Gestión digital
 tags:
-  - seneca
-  - cuaderno_evaluacion
-  - gestion_digital
-  - andalucia
+- seneca
+- cuaderno_evaluacion
+- gestion_digital
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Orden de 14 de julio de 2016, por la que se regula la utilización del Cuaderno de Evaluación del Profesorado en Séneca.
 
 ## Preámbulo
 
-Resolución de 21 de julio de 2016, de la Secretaría General para la Administración Pública, por la que se dictan instrucciones para la aplicación de lo dispuesto en el Acuerdo del Consejo de Gobierno, de 21 de junio de 2016, sobre recuperación de la paga extraordinaria del mes de diciembre de 2012.
-
-<link rel="alternate" type="application/atom+xml" title="Boletín completo - BOJA" href="http://www.juntadeandalucia.es/boja/distribucion/boja.xml"/> <link rel="alternate" type="application/atom+xml" title="1. Disposiciones generales - BOJA" href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
+Resolución de 21 de julio de 2016, de la Secretaría General para la Administración Pública, por la que se dictan instrucciones para la aplicación de lo dispuesto en el Acuerdo del Consejo de Gobierno, de 21 de junio de 2016, sobre recuperación de la paga extraordinaria del mes de diciembre de 2012. <link rel="alternate" type="application/atom+xml" title="Boletín completo - BOJA" href="http://www.juntadeandalucia.es/boja/distribucion/boja.xml"/> <link rel="alternate" type="application/atom+xml" title="1. Disposiciones generales - BOJA" href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
 
 ###
 
@@ -80,11 +80,7 @@ Histórico del BOJA Boletín número 143 de 27/07/2016
 
 ### Consejería de Hacienda y Administración Pública
 
-### Resolución de 21 de julio de 2016, de la Secretaría General para la Administración Pública, por la que se dictan instrucciones para la aplicación de lo dispuesto en el Acuerdo del Consejo de Gobierno, de 21 de junio de 2016, sobre recuperación de la paga extraordinaria del mes de diciembre de 2012.
-
-Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad con CVE 00095983.
-
-Esta disposición incluye elementos no textuales, que no se muestran en esta página. Para visualizarlos, consulte la versión en <a title="Ir al final de la
+### Resolución de 21 de julio de 2016, de la Secretaría General para la Administración Pública, por la que se dictan instrucciones para la aplicación de lo dispuesto en el Acuerdo del Consejo de Gobierno, de 21 de junio de 2016, sobre recuperación de la paga extraordinaria del mes de diciembre de 2012. Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad con CVE 00095983. Esta disposición incluye elementos no textuales, que no se muestran en esta página. Para visualizarlos, consulte la versión en <a title="Ir al final de la
 disposición" href="
 
 Para dar cumplimiento al compromiso adquirido por el Gobierno andaluz, de devolución de los primeros 44 días de la paga extraordinaria, paga adicional del complemento específico, o pagas adicionales del mes de diciembre de 2012, o importes equivalentes, mediante Resolución de esta Secretaría General, de 30 de diciembre de 2015, se dictaron Instrucciones para proceder al abono de las cantidades recuperadas.
@@ -123,9 +119,7 @@ En ningún caso, la liquidación realizada como consecuencia de la aplicación d
 
 De la liquidación resultante se descontarán las cantidades que se hayan percibido por la misma causa como consecuencia de sentencia judicial u otra circunstancia.
 
-El reconocimiento del derecho a recuperar las cantidades dejadas de percibir se produce conforme a lo establecido en el Acuerdo de 21 de junio de 2016, del Consejo de Gobierno, y produce sus efectos a partir de este año, por lo que todas las cantidades que se reconozcan en virtud de lo dispuesto en el Acuerdo constituyen percepciones correspondientes al ejercicio de 2016.
-
-3. Aplicación al personal funcionario, estatutario y eventual de la Administración de la Junta de Andalucía y al personal laboral del VI Convenio colectivo del personal laboral de la Administración de la Junta de Andalucía.
+El reconocimiento del derecho a recuperar las cantidades dejadas de percibir se produce conforme a lo establecido en el Acuerdo de 21 de junio de 2016, del Consejo de Gobierno, y produce sus efectos a partir de este año, por lo que todas las cantidades que se reconozcan en virtud de lo dispuesto en el Acuerdo constituyen percepciones correspondientes al ejercicio de 2016. 3. Aplicación al personal funcionario, estatutario y eventual de la Administración de la Junta de Andalucía y al personal laboral del VI Convenio colectivo del personal laboral de la Administración de la Junta de Andalucía.
 
 Este personal, de conformidad con lo establecido en el Acuerdo de 21 de junio de 2016, percibirá, en septiembre de 2016, la parte proporcional correspondiente a 48 días de la paga extraordinaria y, en su caso, de la paga adicional o equivalentes del mes de diciembre de 2012 que fueron suprimidas.
 
@@ -145,9 +139,7 @@ En el caso de que, de no haberse suprimido, no hubiera procedido el reconocimien
 
 2. Descuentos de aplicación:
 
-Respecto de las cuotas mensuales de los funcionarios a los que legal y reglamentariamente les corresponda descuentos por las cuotas de Derechos Pasivos, así como de las cuotas mensuales de cotización a la Mutualidad General de Funcionarios Civiles del Estado, al Instituto Social de las Fuerzas Armadas y a la Mutualidad General Judicial, no es procedente efectuar descuento alguno distinto de las cuotas mensuales consignadas en el apartado Cuatro del artículo 104 de la Ley de Presupuestos Generales del Estado para 2015.
-
-En relación con las retenciones a cuenta del Impuesto sobre la Renta de las personas físicas y de las cotizaciones al Régimen General de la Seguridad Social, se tendrá en cuenta la normativa que resulte de aplicación.
+Respecto de las cuotas mensuales de los funcionarios a los que legal y reglamentariamente les corresponda descuentos por las cuotas de Derechos Pasivos, así como de las cuotas mensuales de cotización a la Mutualidad General de Funcionarios Civiles del Estado, al Instituto Social de las Fuerzas Armadas y a la Mutualidad General Judicial, no es procedente efectuar descuento alguno distinto de las cuotas mensuales consignadas en el apartado Cuatro del artículo 104 de la Ley de Presupuestos Generales del Estado para 2015. En relación con las retenciones a cuenta del Impuesto sobre la Renta de las personas físicas y de las cotizaciones al Régimen General de la Seguridad Social, se tendrá en cuenta la normativa que resulte de aplicación.
 
 3. En los casos en que el régimen retributivo no contemple la percepción de pagas extraordinarias o se perciban más de dos al año, y se hubiera efectuado en 2012 una minoración de la catorceava parte de las retribuciones totales anuales:
 
@@ -155,13 +147,9 @@ Se percibirá un 26,23 por ciento del importe efectivamente dejado de percibir p
 
 4. Aspectos presupuestarios:
 
-Las cantidades han de aplicarse a los mismos conceptos presupuestarios a los que se aplican las respectivas pagas extraordinarias y adicionales del ejercicio 2016.
+Las cantidades han de aplicarse a los mismos conceptos presupuestarios a los que se aplican las respectivas pagas extraordinarias y adicionales del ejercicio 2016. 5. Cambio de destino:
 
-5. Cambio de destino:
-
-Al personal cuyas retribuciones se gestionen por el Sistema de Información de Recursos Humanos de la Junta de Andalucía (SIRhUS), que hubiera cambiado de destino, pero siga percibiendo sus retribuciones dentro del mismo Sistema, le serán abonados los importes a que se refiere esta Resolución en el puesto de trabajo en que tenía su toma de posesión vigente en el mes de diciembre de 2012, así como se efectuará la cotización que pueda corresponder al régimen de Seguridad Social al que perteneciera en el período de referencia en el Código de Cuenta de Cotización en el que estuviera encuadrado en período comprendido entre en el día 1 de julio al 31 de diciembre de 2012.
-
-Al personal cuyas retribuciones se gestionen por la nómina del personal docente o del personal de instituciones sanitarias del Servicio Andaluz de Salud que sigan percibiendo sus retribuciones dentro de dichas nóminas les será de aplicación lo dispuesto en el párrafo anterior.
+Al personal cuyas retribuciones se gestionen por el Sistema de Información de Recursos Humanos de la Junta de Andalucía (SIRhUS), que hubiera cambiado de destino, pero siga percibiendo sus retribuciones dentro del mismo Sistema, le serán abonados los importes a que se refiere esta Resolución en el puesto de trabajo en que tenía su toma de posesión vigente en el mes de diciembre de 2012, así como se efectuará la cotización que pueda corresponder al régimen de Seguridad Social al que perteneciera en el período de referencia en el Código de Cuenta de Cotización en el que estuviera encuadrado en período comprendido entre en el día 1 de julio al 31 de diciembre de 2012. Al personal cuyas retribuciones se gestionen por la nómina del personal docente o del personal de instituciones sanitarias del Servicio Andaluz de Salud que sigan percibiendo sus retribuciones dentro de dichas nóminas les será de aplicación lo dispuesto en el párrafo anterior.
 
 En el caso de personal que en diciembre de 2012 tuviera toma de posesión activa en alguna de las nóminas mencionadas anteriormente y hubiera efectivamente dejado de percibir las pagas extra y adicional o equivalente por aplicación del Real Decreto-ley 20/2012, y a 1 de septiembre de 2016 tuviera una toma de posesión activa en cualquiera otra de las nóminas mencionadas en este punto, así como para el caso del personal perteneciente en 2012 al sector público de esta Comunidad Autónoma al que se hubiera suprimido la paga extraordinaria y adicional o equivalente, correspondientes a diciembre de dicho año, que con posterioridad hubiera pasado a prestar servicios en una Administración Pública distinta, las cantidades a que se refiere el Acuerdo de 21 de junio de 2016, le serán abonadas por el organismo o entidad al que hubiera correspondido abonar dichas pagas, previa petición dirigida al órgano de gestión de personal al que hubiera correspondido el abono de las pagas en cuestión.
 
@@ -203,9 +191,7 @@ Las cantidades correspondientes a la recuperación de la paga extraordinaria y a
 
 7. Modelo de solicitud: Excepciones al abono de oficio.
 
-Conforme a lo dispuesto en los puntos 5 y 6 del apartado 3 de estas Instrucciones, el abono de las cantidades a que se refiere el Acuerdo de 21 de junio de 2016, debe ser previamente solicitada en los supuestos de personal que hubiera cambiado de destino con cambio de su sistema de nóminas respecto al segundo semestre de 2012, así como del personal que no se encontrase en activo a 1 de septiembre de 2016.
-
-En el anexo de esta Resolución, se acompaña el modelo de solicitud de abono de las referidas cantidades que las personas interesadas podrán emplear a los efectos previstos en el citado Acuerdo de 21 de junio.
+Conforme a lo dispuesto en los puntos 5 y 6 del apartado 3 de estas Instrucciones, el abono de las cantidades a que se refiere el Acuerdo de 21 de junio de 2016, debe ser previamente solicitada en los supuestos de personal que hubiera cambiado de destino con cambio de su sistema de nóminas respecto al segundo semestre de 2012, así como del personal que no se encontrase en activo a 1 de septiembre de 2016. En el anexo de esta Resolución, se acompaña el modelo de solicitud de abono de las referidas cantidades que las personas interesadas podrán emplear a los efectos previstos en el citado Acuerdo de 21 de junio.
 
 8. Instrucciones complementarias.
 

@@ -1,7 +1,14 @@
 ---
 id: norm-can-res-boc-2025-061-106
 codigo_sintetizado: Resolucion BOC 106
-titulo: Resolución de 18 de marzo de 2025, por la que se corrigen errores en las instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grado D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2025-2026, aprobadas por Resolución de 24 de febrero de 2025 (BOC n.º 47, de 7.3.2025).
+titulo: Resolución de 18 de marzo de 2025, por la que se corrigen errores en las instrucciones
+  sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio
+  y Superior (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional
+  de Grado D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales
+  y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros
+  docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para
+  el curso escolar 2025-2026, aprobadas por Resolución de 24 de febrero de 2025 (BOC
+  n.º 47, de 7.3.2025).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,35 +20,35 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión y escolarización del alumnado
 tags:
-  - admisi-n-y-escolarizaci-n-del-alumnado
-  - admision-alumnado
-  - ensenanzas-artisticas
-  - ensenanzas-deportivas
-  - eoi
-  - equipos-directivos
-  - formacion-profesional
-  - procedimiento-administrativo
-  - profesorado
+- admisi-n-y-escolarizaci-n-del-alumnado
+- admision-alumnado
+- ensenanzas-artisticas
+- ensenanzas-deportivas
+- eoi
+- equipos-directivos
+- formacion-profesional
+- procedimiento-administrativo
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-212-1991
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-res-boc-2025-047-107
-    - norma_id: norm-can-res-boc-2025-047-108
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-boc-2025-047-107
+  - norma_id: norm-can-res-boc-2025-047-108
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-res-boc-2025-047-107
-    - norma_id: norm-can-res-boc-2025-047-108
-    - norma_id: norm-can-d-212-1991
+  - '1'
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-res-boc-2025-047-107
+  - norma_id: norm-can-res-boc-2025-047-108
+  - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-061-1212.pdf
 ---
 # Resolución de 18 de marzo de 2025, por la que se corrigen errores en las instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grado D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2025-2026, aprobadas por Resolución de 24 de febrero de 2025 (BOC n.º 47, de 7.3.2025).
@@ -49,8 +56,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-061-1212.
 ## Preámbulo
 
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes Resolución de 18 de marzo de 2025, por la que se corrigen errores en las instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grado D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2025-2026, aprobadas por [Resolución de 24 de febrero de 2025](./R24_2_2025_convoca_procedimiento_admision_alumnado_ciclos_formativos.md) (BOC n.º 47, de 7.3.2025). ANTECEDENTES DE HECHO
-Primero.- Con fecha 7 de marzo de 2025, se publica en el Boletín Oficial de Canarias n.º 47 la [Resolución de 24 de febrero de 2025](./R24_2_2025_convoca_procedimiento_admision_alumnado_ciclos_formativos.md), por la que se dictan instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grado D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2025/2026.
-Segundo.- Se advierte un error material, de hecho en el Anexo VI, referido a los Ciclos Formativos de Grado Medio (Grado D, nivel 2) que dan prioridad para acceder a Ciclos Formativos de Grado Superior (Grado D, nivel 3). FUNDAMENTO DE DERECHO Único.- El artículo 109.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, dispone que "Las Administraciones Públicas podrán, asimismo, rectificar en cualquier momento, de oficio o a instancia de los interesados, los errores materiales, de hecho, o aritméticos existentes en sus actos". A este respecto se han detectado un error material al indicar la preferencia en la admisión de los Ciclos Formativos de Grado Superior (Grado D, nivel 3), para el alumnado que haya cursado determinados Ciclos Formativos de Grado Medio (Grado D, nivel 2), en la Resolución por la que se dictan las instrucciones sobre el proceso de admisión, de 24 de febrero de 2025. En su virtud, y en uso de las competencias que tengo conferidas en base a lo dispuesto en el artículo 19 l [Decreto.
+Primero.- Con fecha 7 de marzo de 2025, se publica en el Boletín Oficial de Canarias n.º 47 la [Resolución de 24 de febrero de 2025](./R24_2_2025_convoca_procedimiento_admision_alumnado_ciclos_formativos.md), por la que se dictan instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grado D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2025/2026. Segundo.- Se advierte un error material, de hecho en el Anexo VI, referido a los Ciclos Formativos de Grado Medio (Grado D, nivel 2) que dan prioridad para acceder a Ciclos Formativos de Grado Superior (Grado D, nivel 3). FUNDAMENTO DE DERECHO Único.- El artículo 109.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, dispone que "Las Administraciones Públicas podrán, asimismo, rectificar en cualquier momento, de oficio o a instancia de los interesados, los errores materiales, de hecho, o aritméticos existentes en sus actos". A este respecto se han detectado un error material al indicar la preferencia en la admisión de los Ciclos Formativos de Grado Superior (Grado D, nivel 3), para el alumnado que haya cursado determinados Ciclos Formativos de Grado Medio (Grado D, nivel 2), en la Resolución por la que se dictan las instrucciones sobre el proceso de admisión, de 24 de febrero de 2025. En su virtud, y en uso de las competencias que tengo conferidas en base a lo dispuesto en el artículo 19 l [Decreto.
 
 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias, y en el artículo 20 del Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, aprobado por el [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por el que se asignan las competencias generales y específicas a la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial,
 

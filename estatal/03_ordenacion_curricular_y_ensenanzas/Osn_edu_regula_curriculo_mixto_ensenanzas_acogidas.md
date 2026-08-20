@@ -1,10 +1,14 @@
 ---
 id: norm-es-2010-12706
 codigo_sintetizado: BOE-A-2010-12706
-titulo: Orden EDU/2157/2010, de 30 de julio, por la que se regula el currículo mixto de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, así como los requisitos para su obtención.
+titulo: Orden EDU/2157/2010, de 30 de julio, por la que se regula el currículo mixto
+  de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno
+  de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros
+  docentes españoles, así como los requisitos para su obtención.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2010-08-07'
 boletin: BOE
@@ -15,31 +19,28 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Bachillerato
 tags:
-  - bachillerato
-  - curriculo
-  - eoi
-  - eso
-  - evaluacion
-  - profesorado
-  - titulacion
+- bachillerato
+- curriculo
+- eoi
+- eso
+- evaluacion
+- profesorado
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2010-4130
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2010-4130
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-es-lo-2-2006
-  articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-2010-4130
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - '2'
+  - norma_id: norm-es-2010-4130
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 ---
 # Orden EDU/2157/2010, de 30 de julio, por la que se regula el currículo mixto de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, así como los requisitos para su obtención.
 
@@ -59,9 +60,7 @@ Asimismo, su
 
 #### Artículo 2. dispone.
 
-que los centros escolares españoles que deseen ofrecer las enseñanzas conducentes a la doble titulación de Bachiller y Baccalauréat deberán implantar un currículo mixto que integre los contenidos esenciales para el conocimiento de la lengua y de la realidad histórica, social y política de Francia, así como los métodos pedagógicos y los criterios de evaluación acordados por las Partes firmantes del Acuerdo de Doble Titulación de 2008.
-
-Procede, por tanto, regular el currículo mixto acordado por la Comisión de seguimiento prevista en el artículo 7 l.
+que los centros escolares españoles que deseen ofrecer las enseñanzas conducentes a la doble titulación de Bachiller y Baccalauréat deberán implantar un currículo mixto que integre los contenidos esenciales para el conocimiento de la lengua y de la realidad histórica, social y política de Francia, así como los métodos pedagógicos y los criterios de evaluación acordados por las Partes firmantes del Acuerdo de Doble Titulación de 2008. Procede, por tanto, regular el currículo mixto acordado por la Comisión de seguimiento prevista en el artículo 7 l.
 
 citado Acuerdo de Doble Titulación, estableciendo los contenidos, métodos pedagógicos y criterios de evaluación propios del sistema educativo francés que deberán ser integrados en el currículo mixto por los centros acogidos al acuerdo.
 
@@ -701,9 +700,7 @@ Bloque 2.–Historia del mundo contemporáneo desde el siglo XIX hasta nuestros 
 
 1. La era de la industrialización y el capitalismo desde el siglo XIX hasta 1939:
 
-**1.1** Las transformaciones políticas, económicas, sociales, y culturales de la era industrial en Europa, desde el siglo XIX a 1939.
-
-**1.2** Europa y su presencia en el mundo: interrelaciones, colonizaciones, confrontaciones.
+**1.1** Las transformaciones políticas, económicas, sociales, y culturales de la era industrial en Europa, desde el siglo XIX a 1939. **1.2** Europa y su presencia en el mundo: interrelaciones, colonizaciones, confrontaciones.
 
 **1.3** Las Revoluciones liberales y los nacionalismos en Europa durante el siglo XIX.
 
@@ -721,9 +718,7 @@ Bloque 2.–Historia del mundo contemporáneo desde el siglo XIX hasta nuestros 
 
 **3.1** De la sociedad industrial a la sociedad de la comunicación.
 
-**3.2** Las relaciones internacionales desde 1945.
-
-**3.3** Europa desde 1947 a nuestros días.
+**3.2** Las relaciones internacionales desde 1945. **3.3** Europa desde 1947 a nuestros días.
 
 **3.4** La descolonización y sus consecuencias.
 
@@ -737,9 +732,7 @@ Bloque 3.–Historia de España y Francia desde el siglo XIX hasta nuestros día
 
 **1.2** Las tensiones políticas del periodo de entre guerras: de la dictatura de Primo de Rivera a la Segunda República (1923-1936).
 
-**1.3** La guerra civil 1936-1939.
-
-2. España desde el final de la Guerra Civil (1939) a nuestros días:
+**1.3** La guerra civil 1936-1939. 2. España desde el final de la Guerra Civil (1939) a nuestros días:
 
 **2.1** La evolución política: El franquismo, la transición política y la consolidación de la democracia.
 

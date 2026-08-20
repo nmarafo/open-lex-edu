@@ -1,10 +1,12 @@
 ---
 id: norm-and-d-100-2023
 codigo_sintetizado: D100_2023 Ordenacion y Curriculo Educacion Infantil Andalucia
-titulo: Decreto 100/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la Educación Infantil en la Comunidad Autónoma de Andalucía.
+titulo: Decreto 100/2023, de 9 de mayo, por el que se establece la ordenación y el
+  currículo de la Educación Infantil en la Comunidad Autónoma de Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 100/2023
 fecha_disposicion: '2023-05-09'
@@ -18,17 +20,17 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Infantil
 tags:
-  - curriculo_infantil
-  - ordenacion_infantil
-  - etapa_infantil
-  - andalucia
+- curriculo_infantil
+- ordenacion_infantil
+- etapa_infantil
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Decreto 100/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la Educación Infantil en la Comunidad Autónoma de Andalucía.
 
@@ -76,9 +78,7 @@ Histórico del BOJA Boletín número 90 de 15/05/2023
 
 Decreto 100/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la etapa de Educación Infantil en la Comunidad Autónoma de Andalucía.
 
-Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad con CVE 00283496.
-
-La Comunidad Autónoma de Andalucía ostenta la competencia compartida para el establecimiento de los planes de estudio, incluida la ordenación curricular, de conformidad con lo dispuesto en el artículo 52.2 del Estatuto de Autonomía para Andalucía, sin perjuicio de lo recogido en el artículo 149.1.30.ª de la Constitución Española, a tenor del cual corresponde al Estado dictar las normas básicas para el desarrollo de su artículo 27, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
+Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad con CVE 00283496. La Comunidad Autónoma de Andalucía ostenta la competencia compartida para el establecimiento de los planes de estudio, incluida la ordenación curricular, de conformidad con lo dispuesto en el artículo 52.2 del Estatuto de Autonomía para Andalucía, sin perjuicio de lo recogido en el artículo 149.1.30.ª de la Constitución Española, a tenor del cual corresponde al Estado dictar las normas básicas para el desarrollo de su artículo 27, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
 La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, introduce importantes cambios en esta última, muchos de ellos derivados, tal y como indica la propia Ley Orgánica en su Exposición de Motivos, de la conveniencia de revisar las medidas previstas en el texto original con objeto de adaptar el Sistema Educativo a los retos y desafíos del siglo XXI de acuerdo con los objetivos fijados por la Unión Europea y la UNESCO para la década 2020/2030.
 
@@ -376,9 +376,7 @@ Los centros privados, los centros adheridos al programa de ayuda a las familias 
 
 #### Disposición transitoria única. Calendario de aplicación.
 
-El presente decreto será de aplicación a partir del curso escolar 2023/2024.
-
-#### Disposición final primera. Conformidad con la normativa estatal.
+El presente decreto será de aplicación a partir del curso escolar 2023/2024. #### Disposición final primera. Conformidad con la normativa estatal.
 
 1. El contenido de los artículos 2, 4.a, 4.b, 5, 6.a, 6.b, 6.c, 6.e, 6.f, 8.1, 9.1, 9.2, reproduce, total o parcialmente, normas dictadas por el Estado al amparo del artículo 149.1.30.ª de la Constitución Española, recogidas en los artículos 12 de los «Principios generales», 13 de los «Objetivos», 14 de la «Ordenación y principios pedagógicos», 15 de la «Oferta de plazas y gratuidad», así como de la «Disposición adicional segunda. Enseñanza de la Religión», de la Ley Orgánica 2/2006, de 3 de mayo.
 

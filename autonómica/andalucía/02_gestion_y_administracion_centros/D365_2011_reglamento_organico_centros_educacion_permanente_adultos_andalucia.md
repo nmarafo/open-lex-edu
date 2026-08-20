@@ -1,10 +1,12 @@
 ---
 id: norm-and-d-365-2011
 codigo_sintetizado: D365_2011 ROC Centros Educacion Permanente Adultos Andalucia
-titulo: Decreto 365/2011, de 7 de diciembre, por el que se aprueba el Reglamento Orgánico de los Centros de Educación Permanente en Andalucía.
+titulo: Decreto 365/2011, de 7 de diciembre, por el que se aprueba el Reglamento Orgánico
+  de los Centros de Educación Permanente en Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 365/2011
 fecha_disposicion: '2011-12-07'
@@ -18,18 +20,18 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Reglamentos Orgánicos de Centro
 tags:
-  - roc_ceper
-  - educacion_adultos
-  - ceper
-  - andalucia
+- roc_ceper
+- educacion_adultos
+- ceper
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Decreto 365/2011, de 7 de diciembre, por el que se aprueba el Reglamento Orgánico de los Centros de Educación Permanente en Andalucía.
 

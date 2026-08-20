@@ -1,7 +1,9 @@
 ---
 id: norm-es-l-9-2017
 codigo_sintetizado: L9_2017 Contratos del Sector Publico (LCSP)
-titulo: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.
+titulo: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que
+  se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo
+  y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.
 jurisdiccion: España
 ambito: Estatal
 organo_emisor: Jefatura del Estado / Cortes Generales
@@ -18,51 +20,49 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Gestión económica de centros
 tags:
-  - contratacion-publica
-  - evaluacion
-  - gesti-n-econ-mica-de-centros
-  - gestion-economica
-  - lcsp
-  - titulacion
+- contratacion-publica
+- evaluacion
+- gesti-n-econ-mica-de-centros
+- gestion-economica
+- lcsp
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-1985-5392
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-2007-19814
-    - norma_id: norm-es-2007-6115
-    - norma_id: norm-es-2013-12632
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-l-19-2013
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-l-53-1984
-    - norma_id: norm-es-rdl-2-2015
-    - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-1985-5392
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2007-19814
+  - norma_id: norm-es-2007-6115
+  - norma_id: norm-es-2013-12632
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-19-2013
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-l-53-1984
+  - norma_id: norm-es-rdl-2-2015
+  - norma_id: norm-es-rdl-5-2015
   fundamento_de:
-    - norma_id: norm-es-2022-11589
-    - norma_id: norm-can-res-014
-    - norma_id: norm-can-res-boc-2026-129-26
-    - norma_id: norm-can-d-84-2024
+  - norma_id: norm-es-2022-11589
+  - norma_id: norm-can-res-014
+  - norma_id: norm-can-res-boc-2026-129-26
+  - norma_id: norm-can-d-84-2024
   desarrollado_por: []
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - 149.1.18
-    - norma_id: norm-es-2007-19814
-    - norma_id: norm-es-l-19-2013
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-l-53-1984
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-1985-5392
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-2007-6115
-    - norma_id: norm-es-2013-12632
-    - norma_id: norm-es-rdl-2-2015
+  - 149.1.18
+  - norma_id: norm-es-2007-19814
+  - norma_id: norm-es-l-19-2013
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-l-53-1984
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-1985-5392
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2007-6115
+  - norma_id: norm-es-2013-12632
+  - norma_id: norm-es-rdl-2-2015
 ---
-# Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.
-
-## Preámbulo
+# Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014. ## Preámbulo
 
 **FELIPE VI**
 
@@ -1182,9 +1182,7 @@ Servicio público de noticias de titularidad estatal.
 
 #### Disposición transitoria segunda. Determinación de cuantías por los departamentos ministeriales respecto de las entidades que tengan la consideración de poder adjudicador y que estén adscritos a los primeros.
 
-#### Disposición transitoria tercera. Inscripción en el Registro de Licitadores en el procedimiento abierto simplificado del artículo 159.
-
-#### Disposición transitoria cuarta. Estatutos de los medios propios personificados.
+#### Disposición transitoria tercera. Inscripción en el Registro de Licitadores en el procedimiento abierto simplificado del artículo 159. #### Disposición transitoria cuarta. Estatutos de los medios propios personificados.
 
 #### Disposición transitoria quinta. Instrucciones internas de contratación.
 
@@ -1222,17 +1220,13 @@ Disposición derogatoria .... Derogación normativa.
 
 Disposición final decimosexta.... Entrada en vigor.
 
-## Anexo I. Trabajos contemplados en el artículo 13.
-
-## Anexo II. . Lista de productos contemplados en el artículo 21.1.a), en lo que se refiere a los contratos de suministro adjudicados por los órganos de contratación en el sector de la defensa.
+## Anexo I. Trabajos contemplados en el artículo 13. ## Anexo II. . Lista de productos contemplados en el artículo 21.1.a), en lo que se refiere a los contratos de suministro adjudicados por los órganos de contratación en el sector de la defensa.
 
 ## Anexo III. Información que debe figurar en los anuncios.
 
 ## Anexo IV. . Servicios especiales a que se refieren los artículos 22.1.c), 135.5 y la Disposición Adicional Trigésima sexta.
 
-## Anexo V. . Listado de convenios internacionales en el ámbito social y medioambiental a que se refiere el artículo 201.
-
-## Anexo VI. . Códigos CPV de los servicios y suministros a los que se refiere la Disposición adicional cuarta relativa a los contratos reservados.
+## Anexo V. . Listado de convenios internacionales en el ámbito social y medioambiental a que se refiere el artículo 201. ## Anexo VI. . Códigos CPV de los servicios y suministros a los que se refiere la Disposición adicional cuarta relativa a los contratos reservados.
 
 **I**
 
@@ -1244,9 +1238,7 @@ En la actualidad, nos encontramos ante un panorama legislativo marcado por la de
 
 Con este fin, aparecen las tres nuevas Directivas comunitarias, como son la Directiva 2014/24/UE, sobre contratación pública; la Directiva 2014/25/UE, relativa a la contratación por entidades que operan en los sectores del agua, la energía, los transportes y los servicios postales, y la más novedosa, ya que carece de precedente en la normativa comunitaria, como es la Directiva 2014/23/UE, relativa a la adjudicación de contratos de concesión.
 
-Estas Directivas constituyen la culminación de un proceso iniciado en el seno de la Unión Europea en el año 2010, que después de diversas propuestas y negociaciones primero en la Comisión, luego en el Consejo de la Unión Europea y finalmente, entre el Parlamento y el Consejo, fue finalmente aprobado por aquel, el 15 de enero de 2014, siendo publicadas estas normas en el DOUE el 28 de marzo de 2014.
-
-Las nuevas directivas vienen a sustituir a la Directiva 2004/18/CE sobre coordinación de los procedimientos de adjudicación de los contratos públicos de obras, de suministro y de servicios y Directiva 2004/17/CE sobre la coordinación de los procedimientos de adjudicación de contratos en los sectores del agua, de la energía, de los transportes y de los servicios postales, aprobadas hace ahora una década, y que habían sido transpuestas al ordenamiento jurídico español a través de la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público –posteriormente derogada y sustituida por el texto refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto Legislativo 3/2011, de 14 de noviembre–, y la Ley 31/2007 de 30 de octubre, sobre procedimientos de contratación en los sectores del agua, la energía, los transportes y los servicios postales, respectivamente.
+Estas Directivas constituyen la culminación de un proceso iniciado en el seno de la Unión Europea en el año 2010, que después de diversas propuestas y negociaciones primero en la Comisión, luego en el Consejo de la Unión Europea y finalmente, entre el Parlamento y el Consejo, fue finalmente aprobado por aquel, el 15 de enero de 2014, siendo publicadas estas normas en el DOUE el 28 de marzo de 2014. Las nuevas directivas vienen a sustituir a la Directiva 2004/18/CE sobre coordinación de los procedimientos de adjudicación de los contratos públicos de obras, de suministro y de servicios y Directiva 2004/17/CE sobre la coordinación de los procedimientos de adjudicación de contratos en los sectores del agua, de la energía, de los transportes y de los servicios postales, aprobadas hace ahora una década, y que habían sido transpuestas al ordenamiento jurídico español a través de la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público –posteriormente derogada y sustituida por el texto refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto Legislativo 3/2011, de 14 de noviembre–, y la Ley 31/2007 de 30 de octubre, sobre procedimientos de contratación en los sectores del agua, la energía, los transportes y los servicios postales, respectivamente.
 
 Con esta normativa, la Unión Europea ha dado por concluido un proceso de revisión y modernización de las vigentes normas sobre contratación pública, que permitan incrementar la eficiencia del gasto público y facilitar, en particular, la participación de las pequeñas y medianas empresas (PYMES) en la contratación pública, así como permitir que los poderes públicos empleen la contratación en apoyo de objetivos sociales comunes. Asimismo, se hacía preciso aclarar determinadas nociones y conceptos básicos para garantizar la seguridad jurídica e incorporar diversos aspectos resaltados por la Jurisprudencia del Tribunal de Justicia de la Unión Europea relativa a la contratación pública, lo que también ha sido un logro de estas Directivas.
 
@@ -1286,9 +1278,7 @@ En el ámbito de las concesiones, desaparece la figura del contrato de gestión 
 
 anterior texto refundido. Surge en su lugar, y en virtud de la nueva Directiva relativa a la adjudicación de contratos de concesión, la nueva figura de la concesión de servicios, que se añade dentro de la categoría de las concesiones a la ya existente figura de la concesión de obras.
 
-Sin perjuicio de lo anterior, se mantiene la posibilidad de que se adjudique directamente a una sociedad de economía mixta un contrato de concesión de obras o de concesión de servicios en los términos recogidos en la Disposición adicional vigésima segunda, siguiendo el criterio recogido por el Tribunal de Justicia de la Unión Europea en la Sentencia 196/08 en el caso ACOSET, y en la Comunicación Interpretativa de la Comisión Europea relativa a la aplicación del derecho comunitario en materia de contratación pública y concesiones a la colaboración público-privada institucionalizada de 5 de febrero de 2008.
-
-En lo que respecta a los contratos de concesión de obras y de concesión de servicios, merece destacarse que en ambas figuras necesariamente debe haber una transferencia del riesgo operacional de la Administración al concesionario, delimitándose en el artículo 14 de la Ley, en línea con lo establecido en la nueva Directiva de adjudicación de contratos de concesión, los casos en que se considerará que el concesionario asume dicho riesgo operacional.
+Sin perjuicio de lo anterior, se mantiene la posibilidad de que se adjudique directamente a una sociedad de economía mixta un contrato de concesión de obras o de concesión de servicios en los términos recogidos en la Disposición adicional vigésima segunda, siguiendo el criterio recogido por el Tribunal de Justicia de la Unión Europea en la Sentencia 196/08 en el caso ACOSET, y en la Comunicación Interpretativa de la Comisión Europea relativa a la aplicación del derecho comunitario en materia de contratación pública y concesiones a la colaboración público-privada institucionalizada de 5 de febrero de 2008. En lo que respecta a los contratos de concesión de obras y de concesión de servicios, merece destacarse que en ambas figuras necesariamente debe haber una transferencia del riesgo operacional de la Administración al concesionario, delimitándose en el artículo 14 de la Ley, en línea con lo establecido en la nueva Directiva de adjudicación de contratos de concesión, los casos en que se considerará que el concesionario asume dicho riesgo operacional.
 
 Por otra parte, como es sabido, el contrato de gestión de servicios públicos hasta la regulación de esta Ley era un supuesto de gestión indirecta del servicio, lo que implicaba que mediante este contrato, la Administración le encomendaba a un tercero, el empresario (normalmente, el concesionario), que gestionase un determinado servicio público. El que gestionaba el servicio, por lo tanto, era el empresario o el concesionario, por lo que en todo lo relativo a la utilización del servicio suponía el establecimiento de una relación directa entre el concesionario y el usuario del mismo.
 
@@ -1364,21 +1354,15 @@ En tercer lugar, se crea la Oficina de Supervisión de la Contratación, tambié
 
 Adicionalmente en el Libro IV se hace una nueva regulación de la Mesa de contratación y de la obligación de remisión de información de fiscalización al Tribunal de Cuentas u órgano correspondiente de la Comunidad Autónoma.
 
-Por último en este apartado, se incluye en el Anexo III del texto la información que debe figurar en los distintos anuncios, la cual ha sido normalizada por la Comisión Europea en el Reglamento de Ejecución 2015/1986, de la Comisión, de 11 de noviembre de 2015, por el que se establecen formularios normalizados para la publicación de anuncios en el ámbito de la contratación pública y se deroga el Reglamento de Ejecución (UE) 842/2011.
-
-**V**
+Por último en este apartado, se incluye en el Anexo III del texto la información que debe figurar en los distintos anuncios, la cual ha sido normalizada por la Comisión Europea en el Reglamento de Ejecución 2015/1986, de la Comisión, de 11 de noviembre de 2015, por el que se establecen formularios normalizados para la publicación de anuncios en el ámbito de la contratación pública y se deroga el Reglamento de Ejecución (UE) 842/2011. **V**
 
 Por lo que respecta al contenido, tomando como referencia las Directivas europeas y los principios que han guiado la elaboración de esta Ley, las principales novedades que presenta afectan, en primer lugar, a su ámbito de aplicación, dentro del cual se ha extendido el ámbito subjetivo, con la idea de aplicar estas normas a entidades no sujetas.
 
 Así, se han incluido los partidos políticos, las organizaciones sindicales y las empresariales, así como las fundaciones y asociaciones vinculadas a cualquiera de ellos siempre que se cumplan determinadas circunstancias como que su financiación sea mayoritariamente pública y respecto de los contratos sometidos a regulación armonizada. Por otra parte, se ha adaptado la tipología de las entidades incluidas dentro del ámbito subjetivo a la establecida en la nueva Ley de Régimen Jurídico del Sector Público, Ley 40/2015, de 1 de octubre. En el ámbito objetivo de aplicación, se han estructurado de forma más definida los supuestos de contratos y negocios jurídicos no incluidos en la legislación contractual, aclarándose algunos supuestos, como los contratos patrimoniales y añadiéndose algún caso nuevo, como los contratos que tengan por objeto la realización de campañas políticas, que no seguirán las normas de esta Ley.
 
-Se incluyen en los contratos públicos consideraciones de tipo social, medioambiental y de innovación y desarrollo. Estas consideraciones podrán incluirse tanto al diseñarse los criterios de adjudicación, como criterios cualitativos para evaluar la mejor relación calidad-precio, o como condiciones especiales de ejecución, si bien su introducción está supeditada a que se relacionen con el objeto del contrato a celebrar. En particular, en el caso de las condiciones especiales de ejecución, la Ley impone la obligación al órgano de contratación de establecer en el pliego al menos una de las condiciones especiales de ejecución de tipo medioambiental, social o relativas al empleo que se listan en el artículo 202.
+Se incluyen en los contratos públicos consideraciones de tipo social, medioambiental y de innovación y desarrollo. Estas consideraciones podrán incluirse tanto al diseñarse los criterios de adjudicación, como criterios cualitativos para evaluar la mejor relación calidad-precio, o como condiciones especiales de ejecución, si bien su introducción está supeditada a que se relacionen con el objeto del contrato a celebrar. En particular, en el caso de las condiciones especiales de ejecución, la Ley impone la obligación al órgano de contratación de establecer en el pliego al menos una de las condiciones especiales de ejecución de tipo medioambiental, social o relativas al empleo que se listan en el artículo 202. En el ámbito medioambiental, se exigen certificados de gestión medioambiental a las empresas licitadoras, como condición de solvencia técnica, esto es, para acreditar la experiencia o el «buen hacer» de esa empresa en el ámbito de la protección del medio ambiente. Respecto de los temas sociales, se siguen regulando los contratos reservados a centros especiales de empleo o la posibilidad de reservar su ejecución en el marco de programas de empleo protegido, extendiéndose dicha reserva a las empresas de inserción y exigiéndoles a todas las entidades citadas que tengan en plantilla el porcentaje de trabajadores discapacitados que se establezca en su respectiva regulación. En el ámbito de la discapacidad, se recoge como causa de prohibición de contratar con las entidades del sector público el no cumplir el requisito de que al menos el 2 por ciento de los empleados de las empresas de 50 o más trabajadores sean trabajadores con discapacidad, cuestión ya adelantada mediante la modificación del hasta ahora vigente texto refundido de la Ley de Contratos del Sector Público por la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, del Régimen Jurídico del Sector Público.
 
-En el ámbito medioambiental, se exigen certificados de gestión medioambiental a las empresas licitadoras, como condición de solvencia técnica, esto es, para acreditar la experiencia o el «buen hacer» de esa empresa en el ámbito de la protección del medio ambiente. Respecto de los temas sociales, se siguen regulando los contratos reservados a centros especiales de empleo o la posibilidad de reservar su ejecución en el marco de programas de empleo protegido, extendiéndose dicha reserva a las empresas de inserción y exigiéndoles a todas las entidades citadas que tengan en plantilla el porcentaje de trabajadores discapacitados que se establezca en su respectiva regulación. En el ámbito de la discapacidad, se recoge como causa de prohibición de contratar con las entidades del sector público el no cumplir el requisito de que al menos el 2 por ciento de los empleados de las empresas de 50 o más trabajadores sean trabajadores con discapacidad, cuestión ya adelantada mediante la modificación del hasta ahora vigente texto refundido de la Ley de Contratos del Sector Público por la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, del Régimen Jurídico del Sector Público.
-
-Además, con el ánimo de favorecer el respeto hacia los derechos humanos, y en especial hacia los derechos laborales básicos de las personas trabajadoras y de los pequeños productores de países en vías de desarrollo, se introduce la posibilidad de que tanto los criterios de adjudicación como las condiciones especiales de ejecución incorporen aspectos sociales del proceso de producción y comercialización referidos a las obras, suministros o servicios que hayan de facilitarse con arreglo al contrato de que se trate, y en especial podrá exigirse que dicho proceso cumpla los principios de comercio justo que establece la Resolución del Parlamento Europeo sobre comercio justo y desarrollo (2005/2245(INI)) en su apartado 2.
-
-En el ámbito de la innovación y desarrollo, con la idea de favorecer a las empresas más innovadoras, destaca especialmente la introducción del nuevo procedimiento de asociación para la innovación, el cual se ha previsto expresamente para aquellos casos en que resulte necesario realizar actividades de investigación y desarrollo respecto de obras, servicios y productos innovadores, para su posterior adquisición por la Administración. Se trata, por tanto, de supuestos en que las soluciones disponibles en el mercado no satisfagan las necesidades del órgano de contratación.
+Además, con el ánimo de favorecer el respeto hacia los derechos humanos, y en especial hacia los derechos laborales básicos de las personas trabajadoras y de los pequeños productores de países en vías de desarrollo, se introduce la posibilidad de que tanto los criterios de adjudicación como las condiciones especiales de ejecución incorporen aspectos sociales del proceso de producción y comercialización referidos a las obras, suministros o servicios que hayan de facilitarse con arreglo al contrato de que se trate, y en especial podrá exigirse que dicho proceso cumpla los principios de comercio justo que establece la Resolución del Parlamento Europeo sobre comercio justo y desarrollo (2005/2245(INI)) en su apartado 2. En el ámbito de la innovación y desarrollo, con la idea de favorecer a las empresas más innovadoras, destaca especialmente la introducción del nuevo procedimiento de asociación para la innovación, el cual se ha previsto expresamente para aquellos casos en que resulte necesario realizar actividades de investigación y desarrollo respecto de obras, servicios y productos innovadores, para su posterior adquisición por la Administración. Se trata, por tanto, de supuestos en que las soluciones disponibles en el mercado no satisfagan las necesidades del órgano de contratación.
 
 En relación con este nuevo procedimiento, la nueva Directiva perfila un proceso en el que tras una convocatoria de licitación, cualquier empresario puede formular una solicitud de participación, tras lo cual, los candidatos que resulten seleccionados podrán formular ofertas, convirtiéndose así en licitadores, en el marco de un proceso de negociación. Este podrá desarrollarse en fases sucesivas, y culminará con la creación de la asociación para la innovación. Esta asociación para la innovación se estructurará a su vez en fases sucesivas, pero ya no tendrá lugar entre el órgano de contratación y los licitadores, sino entre aquel y uno o más socios; y generalmente culminará con la adquisición de los suministros, servicios u obras resultantes.
 
@@ -1450,9 +1434,7 @@ Tratado de Funcionamiento de la Unión Europea de conformidad con la Decisión d
 
 #### Artículo 2. Ámbito de aplicación.
 
-1. Son contratos del sector público y, en consecuencia, están sometidos a la presente Ley en la forma y términos previstos en la misma, los contratos onerosos, cualquiera que sea su naturaleza jurídica, que celebren las entidades enumeradas en el artículo 3.
-
-Se entenderá que un contrato tiene carácter oneroso en los casos en que el contratista obtenga algún tipo de beneficio económico, ya sea de forma directa o indirecta.
+1. Son contratos del sector público y, en consecuencia, están sometidos a la presente Ley en la forma y términos previstos en la misma, los contratos onerosos, cualquiera que sea su naturaleza jurídica, que celebren las entidades enumeradas en el artículo 3. Se entenderá que un contrato tiene carácter oneroso en los casos en que el contratista obtenga algún tipo de beneficio económico, ya sea de forma directa o indirecta.
 
 2. Están también sujetos a la presente Ley, en los términos que en ella se señalan, los contratos subvencionados por entidades que tengan la consideración de poderes adjudicadores que celebren otras personas físicas o jurídicas en los supuestos previstos en el artículo 23 relativo.
 
@@ -1530,9 +1512,7 @@ Los sujetos obligados deberán aprobar unas instrucciones internas en materia de
 
 Tratado de Funcionamiento de la Unión Europea que se concluyan en el sector de la defensa y la seguridad.
 
-2. Se excluyen, asimismo, del ámbito de la presente Ley los contratos de obras, suministros y servicios que se celebren en el ámbito de la seguridad o de la defensa que estén comprendidos dentro del ámbito de aplicación de la Ley 24/2011, de 1 de agosto, de contratos del sector público en los ámbitos de la defensa y de la seguridad; así como los contratos a los que no resulte de aplicación la citada Ley en virtud de su artículo 7.
-
-Quedan también excluidos los contratos de concesiones de obras y concesiones de servicios, que se celebren en el ámbito de la seguridad y de la defensa, en los que concurra alguna de las circunstancias siguientes:
+2. Se excluyen, asimismo, del ámbito de la presente Ley los contratos de obras, suministros y servicios que se celebren en el ámbito de la seguridad o de la defensa que estén comprendidos dentro del ámbito de aplicación de la Ley 24/2011, de 1 de agosto, de contratos del sector público en los ámbitos de la defensa y de la seguridad; así como los contratos a los que no resulte de aplicación la citada Ley en virtud de su artículo 7. Quedan también excluidos los contratos de concesiones de obras y concesiones de servicios, que se celebren en el ámbito de la seguridad y de la defensa, en los que concurra alguna de las circunstancias siguientes:
 
 a) Que sean adjudicados en el marco de un programa de cooperación basado en la investigación y el desarrollo de un nuevo producto y, en su caso, también relacionados con el ciclo de vida del mismo o partes de dicho ciclo, siempre que participen en el programa al menos dos Estados miembros de la Unión Europea.
 
@@ -1588,9 +1568,7 @@ b) Que el servicio prestado sea remunerado íntegramente por el poder adjudicado
 
 1. Se encuentran excluidas de la presente Ley las autorizaciones y concesiones sobre bienes de dominio público y los contratos de explotación de bienes patrimoniales distintos a los definidos en el artículo 14, que se regularán por su legislación específica salvo en los casos en que expresamente se declaren de aplicación las prescripciones de la presente Ley.
 
-2. Quedan, asimismo, excluidos de la presente Ley los contratos de compraventa, donación, permuta, arrendamiento y demás negocios jurídicos análogos sobre bienes inmuebles, valores negociables y propiedades incorporales, a no ser que recaigan sobre programas de ordenador y deban ser calificados como contratos de suministro o servicios, que tendrán siempre el carácter de contratos privados y se regirán por la legislación patrimonial. En estos contratos solo podrán incluirse prestaciones que sean propias de los contratos típicos regulados en la Sección 1.ª del Capítulo II del Título Preliminar, si el valor estimado de las mismas no es superior al 50 por 100 del importe total del negocio y, a su vez, mantienen con la prestación característica del contrato patrimonial relaciones de vinculación y complementariedad en los términos previstos en el artículo 34.2.
-
-#### Artículo 10. Negocios y contratos excluidos en el ámbito financiero.
+2. Quedan, asimismo, excluidos de la presente Ley los contratos de compraventa, donación, permuta, arrendamiento y demás negocios jurídicos análogos sobre bienes inmuebles, valores negociables y propiedades incorporales, a no ser que recaigan sobre programas de ordenador y deban ser calificados como contratos de suministro o servicios, que tendrán siempre el carácter de contratos privados y se regirán por la legislación patrimonial. En estos contratos solo podrán incluirse prestaciones que sean propias de los contratos típicos regulados en la Sección 1.ª del Capítulo II del Título Preliminar, si el valor estimado de las mismas no es superior al 50 por 100 del importe total del negocio y, a su vez, mantienen con la prestación característica del contrato patrimonial relaciones de vinculación y complementariedad en los términos previstos en el artículo 34.2. #### Artículo 10. Negocios y contratos excluidos en el ámbito financiero.
 
 Están excluidos del ámbito de la presente Ley los contratos relativos a servicios financieros relacionados con la emisión, compra, venta o transferencia de valores o de otros instrumentos financieros en el sentido de la Directiva 2004/39/CE, del Parlamento Europeo y del Consejo, de 21 de abril de 2004, relativa a los mercados de instrumentos financieros, por la que se modifican las Directivas 85/611/CEE y 93/6/CEE, del Consejo y la Directiva 2000/12/CE, del Parlamento Europeo y del Consejo y se deroga la Directiva 93/22/ CEE, del Consejo. Asimismo quedan excluidos los servicios prestados por el Banco de España y las operaciones realizadas con la Facilidad Europea de Estabilización Financiera y el Mecanismo Europeo de Estabilidad y los contratos de préstamo y operaciones de tesorería, estén o no relacionados con la emisión, venta, compra o transferencia de valores o de otros instrumentos financieros.
 
@@ -1714,9 +1692,7 @@ En el supuesto de que el contrato mixto contenga elementos de una concesión de 
 
 #### Artículo 19. Delimitación general.
 
-1. Son contratos sujetos a una regulación armonizada los contratos de obras, los de concesión de obras, los de concesión de servicios, los de suministro, y los de servicios, cuyo valor estimado, calculado conforme a las reglas que se establecen en el artículo 101, sea igual o superior a las cuantías que se indican en los artículos siguientes, siempre que la entidad contratante tenga el carácter de poder adjudicador. Tendrán también la consideración de contratos sujetos a regulación armonizada los contratos subvencionados por estas entidades a los que se refiere el artículo 23.
-
-2. No obstante lo señalado en el apartado anterior, no se consideran sujetos a regulación armonizada, cualquiera que sea su valor estimado, los contratos siguientes:
+1. Son contratos sujetos a una regulación armonizada los contratos de obras, los de concesión de obras, los de concesión de servicios, los de suministro, y los de servicios, cuyo valor estimado, calculado conforme a las reglas que se establecen en el artículo 101, sea igual o superior a las cuantías que se indican en los artículos siguientes, siempre que la entidad contratante tenga el carácter de poder adjudicador. Tendrán también la consideración de contratos sujetos a regulación armonizada los contratos subvencionados por estas entidades a los que se refiere el artículo 23. 2. No obstante lo señalado en el apartado anterior, no se consideran sujetos a regulación armonizada, cualquiera que sea su valor estimado, los contratos siguientes:
 
 a) Los que tengan por objeto la adquisición, el desarrollo, la producción o la coproducción de programas destinados a servicios de comunicación audiovisual o servicios de comunicación radiofónica, que sean adjudicados por proveedores del servicio de comunicación audiovisual o radiofónica, o los relativos al tiempo de radiodifusión o al suministro de programas que sean adjudicados a proveedores del servicio de comunicación audiovisual o radiofónica. A efectos de la presente letra, por «servicio de comunicación audiovisual» y «proveedor del servicio de comunicación» se entenderá, respectivamente, lo mismo que en el artículo 1, apartado 1, letras a) y d), de la Directiva 2010/13/UE, del Parlamento Europeo y del Consejo, de 10 de marzo de 2010, sobre la coordinación de determinadas disposiciones legales, reglamentarias y administrativas de los Estados miembros relativas a la prestación de servicios de comunicación audiovisual. Por «programa» se entenderá lo mismo que en el artículo 1, apartado 1, letra b), de dicha Directiva, si bien se incluirán también los programas radiofónicos y los contenidos de los programas radiofónicos. Además, a efectos de la presente disposición, «contenidos del programa» tendrá el mismo significado que «programa».
 
@@ -1796,9 +1772,7 @@ a) Contratos de obras que tengan por objeto actividades de ingeniería civil de 
 
 b) Contratos de servicios vinculados a un contrato de obras de los definidos en la letra a), cuyo valor estimado sea igual o superior a 209.000 euros.
 
-2. Las normas previstas para los contratos subvencionados se aplicarán a aquellos celebrados por particulares o por entidades del sector público que no tengan la consideración de poderes adjudicadores, en conjunción, en este último caso, con las establecidas en el Título II del Libro Tercero de esta Ley. Cuando el contrato subvencionado se adjudique por entidades del sector público que tengan la consideración de poder adjudicador, se aplicarán las normas de contratación previstas para estas entidades, de acuerdo con su naturaleza, salvo la relativa a la determinación de la competencia para resolver el recurso especial en materia de contratación y para adoptar medidas cautelares en el procedimiento de adjudicación, que se regirá, en todo caso, por la regla establecida en el apartado 2 del artículo 47.
-
-#### Sección 3. ª Contratos administrativos y contratos privados artículo 24 Régimen jurídico aplicable a los contratos del sector público. Los contratos del sector público podrán estar sometidos a un régimen jurídico de derecho administrativo o de derecho privado.
+2. Las normas previstas para los contratos subvencionados se aplicarán a aquellos celebrados por particulares o por entidades del sector público que no tengan la consideración de poderes adjudicadores, en conjunción, en este último caso, con las establecidas en el Título II del Libro Tercero de esta Ley. Cuando el contrato subvencionado se adjudique por entidades del sector público que tengan la consideración de poder adjudicador, se aplicarán las normas de contratación previstas para estas entidades, de acuerdo con su naturaleza, salvo la relativa a la determinación de la competencia para resolver el recurso especial en materia de contratación y para adoptar medidas cautelares en el procedimiento de adjudicación, que se regirá, en todo caso, por la regla establecida en el apartado 2 del artículo 47. #### Sección 3. ª Contratos administrativos y contratos privados artículo 24 Régimen jurídico aplicable a los contratos del sector público. Los contratos del sector público podrán estar sometidos a un régimen jurídico de derecho administrativo o de derecho privado.
 
 #### Artículo 25. Contratos administrativos.
 
@@ -1806,9 +1780,7 @@ b) Contratos de servicios vinculados a un contrato de obras de los definidos en 
 
 a) Los contratos de obra, concesión de obra, concesión de servicios, suministro y servicios. No obstante, tendrán carácter privado los siguientes contratos:
 
-1.º Los contratos de servicios que tengan por objeto servicios financieros con número de referencia CPV de 66100000-1 a 66720000-3 y los que tengan por objeto la creación e interpretación artística y literaria y los de espectáculos con número de referencia CPV de 79995000-5 a 79995200-7, y de 92000000-1 a 92700000-8, excepto 92230000-2, 92231000-9 y 92232000-6.
-
-2.º Aquellos cuyo objeto sea la suscripción a revistas, publicaciones periódicas y bases de datos.
+1.º Los contratos de servicios que tengan por objeto servicios financieros con número de referencia CPV de 66100000-1 a 66720000-3 y los que tengan por objeto la creación e interpretación artística y literaria y los de espectáculos con número de referencia CPV de 79995000-5 a 79995200-7, y de 92000000-1 a 92700000-8, excepto 92230000-2, 92231000-9 y 92232000-6. 2.º Aquellos cuyo objeto sea la suscripción a revistas, publicaciones periódicas y bases de datos.
 
 b) Los contratos declarados así expresamente por una Ley, y aquellos otros de objeto distinto a los expresados en la letra anterior, pero que tengan naturaleza administrativa especial por estar vinculados al giro o tráfico específico de la Administración contratante o por satisfacer de forma directa o inmediata una finalidad pública de la específica competencia de aquella.
 
@@ -1832,11 +1804,7 @@ No obstante lo establecido en el párrafo anterior, a los contratos mencionados 
 
 En cuanto a sus efectos y extinción les serán aplicables las normas de derecho privado, y aquellas normas a las que se refiere el párrafo primero del artículo 319 en.
 
-materia medioambiental, social o laboral, de condiciones especiales de ejecución, de modificación del contrato, de cesión y subcontratación, de racionalización técnica de la contratación; y la causa de resolución del contrato referida a la imposibilidad de ejecutar la prestación en los términos inicialmente pactados, cuando no sea posible modificar el contrato conforme a los artículos 204 y 205.
-
-4. Los contratos que celebren las Entidades del Sector Público que no posean la condición de poder adjudicador, se regirán por lo dispuesto en los artículos 321 y 322.
-
-En lo que se refiere a sus efectos, modificación y extinción se regularán por las normas de derecho privado que les resulten de aplicación.
+materia medioambiental, social o laboral, de condiciones especiales de ejecución, de modificación del contrato, de cesión y subcontratación, de racionalización técnica de la contratación; y la causa de resolución del contrato referida a la imposibilidad de ejecutar la prestación en los términos inicialmente pactados, cuando no sea posible modificar el contrato conforme a los artículos 204 y 205. 4. Los contratos que celebren las Entidades del Sector Público que no posean la condición de poder adjudicador, se regirán por lo dispuesto en los artículos 321 y 322. En lo que se refiere a sus efectos, modificación y extinción se regularán por las normas de derecho privado que les resulten de aplicación.
 
 #### Artículo 27. Jurisdicción competente.
 
@@ -1852,9 +1820,7 @@ c) Las referidas a la preparación, adjudicación y modificaciones contractuales
 
 d) Las relativas a la preparación y adjudicación de los contratos de entidades del sector público que no tengan el carácter de poderes adjudicadores.
 
-e) Los recursos interpuestos contra las resoluciones que se dicten por los órganos administrativos de resolución de los recursos previstos en el artículo 44 de esta Ley, así como en el artículo 321.5.
-
-f) Las cuestiones que se susciten en relación con la preparación, adjudicación y modificación de los contratos subvencionados a que se refiere el artículo 23 de la presente Ley.
+e) Los recursos interpuestos contra las resoluciones que se dicten por los órganos administrativos de resolución de los recursos previstos en el artículo 44 de esta Ley, así como en el artículo 321.5. f) Las cuestiones que se susciten en relación con la preparación, adjudicación y modificación de los contratos subvencionados a que se refiere el artículo 23 de la presente Ley.
 
 2. El orden jurisdiccional civil será el competente para resolver:
 
@@ -1956,9 +1922,7 @@ e) Cuando, dada la naturaleza de la prestación, sea imposible la fijación prev
 
 f) Cuando sea necesario relevar al contratista de realizar algunas unidades de obra por no haberse llegado a un acuerdo en los precios contradictorios correspondientes.
 
-g) Las obras de mera conservación y mantenimiento, definidas en el artículo 232.5.
-
-h) Excepcionalmente, la ejecución de obras definidas en virtud de un anteproyecto, cuando no se aplique el artículo 146.2 relativo a la valoración de las ofertas con más de un criterio de adjudicación.
+g) Las obras de mera conservación y mantenimiento, definidas en el artículo 232.5. h) Excepcionalmente, la ejecución de obras definidas en virtud de un anteproyecto, cuando no se aplique el artículo 146.2 relativo a la valoración de las ofertas con más de un criterio de adjudicación.
 
 En los supuestos contemplados en las letras a), b), c), e) y f) anteriores, deberá redactarse el correspondiente proyecto, cuyo contenido se fijará reglamentariamente.
 
@@ -1974,9 +1938,7 @@ En los supuestos de obras incluidas en las letras a) y b) del apartado 1 del pre
 
 5. La autorización de la ejecución de obras y de la fabricación de bienes muebles y, en su caso, la aprobación del proyecto, corresponderá al órgano competente para la aprobación del gasto o al órgano que determinen las disposiciones orgánicas de las Comunidades Autónomas, en su respectivo ámbito.
 
-Lo dispuesto en el párrafo anterior también resulta de aplicación a los encargos a medios propios personificados regulados en los artículos 32 y 33.
-
-#### Artículo 31. Potestad de auto organización y sistemas de cooperación pública vertical y horizontal.
+Lo dispuesto en el párrafo anterior también resulta de aplicación a los encargos a medios propios personificados regulados en los artículos 32 y 33. #### Artículo 31. Potestad de auto organización y sistemas de cooperación pública vertical y horizontal.
 
 1. Las entidades pertenecientes al sector público podrán cooperar entre sí de alguna de las siguientes formas, sin que el resultado de esa cooperación pueda calificarse de contractual:
 
@@ -1984,9 +1946,7 @@ a) Mediante sistemas de cooperación vertical consistentes en el uso de medios p
 
 los poderes adjudicadores, y en el artículo 33 para los entes del sector público que no tengan la consideración de poder adjudicador, en el ejercicio de su potestad de auto organización, mediante el oportuno acuerdo de encargo.
 
-b) Mediante sistemas de cooperación horizontal entre entidades pertenecientes al sector público, previa celebración de los correspondientes convenios, en las condiciones y con los límites que se establecen en el apartado 1 del artículo 6.
-
-2. A efectos de lo dispuesto en el apartado anterior, las entidades pertenecientes al sector público podrán en todo caso, acordar la realización conjunta de contrataciones específicas.
+b) Mediante sistemas de cooperación horizontal entre entidades pertenecientes al sector público, previa celebración de los correspondientes convenios, en las condiciones y con los límites que se establecen en el apartado 1 del artículo 6. 2. A efectos de lo dispuesto en el apartado anterior, las entidades pertenecientes al sector público podrán en todo caso, acordar la realización conjunta de contrataciones específicas.
 
 3. Cuando un procedimiento de contratación se desarrolle en su totalidad de forma conjunta en nombre y por cuenta de varias entidades, estas tendrán la responsabilidad conjunta del cumplimiento de sus obligaciones. Ello se aplicará también en aquellos casos en que una sola entidad administre el procedimiento, por cuenta propia y por cuenta de las demás entidades interesadas.
 
@@ -2156,13 +2116,9 @@ n) La obligación de la empresa contratista de cumplir durante todo el periodo d
 
 1. Las entidades del sector público no podrán contratar verbalmente, salvo que el contrato tenga, conforme a lo señalado en el artículo 120.1, carácter de emergencia.
 
-2. Los contratos que celebren las Administraciones Públicas se formalizarán de acuerdo con lo previsto en el artículo 153, sin perjuicio de lo señalado para los contratos menores en el artículo 118.
+2. Los contratos que celebren las Administraciones Públicas se formalizarán de acuerdo con lo previsto en el artículo 153, sin perjuicio de lo señalado para los contratos menores en el artículo 118. 3. Los contratos que celebren los poderes adjudicadores que no tengan la consideración de Administraciones Públicas cuando sean susceptibles de recurso especial en materia de contratación conforme al artículo 44 berán.
 
-3. Los contratos que celebren los poderes adjudicadores que no tengan la consideración de Administraciones Públicas cuando sean susceptibles de recurso especial en materia de contratación conforme al artículo 44 berán.
-
-formalizarse en los plazos establecidos en el artículo 153.
-
-## Capítulo IV. Régimen de invalidez.
+formalizarse en los plazos establecidos en el artículo 153. ## Capítulo IV. Régimen de invalidez.
 
 #### Artículo 38. Supuestos de invalidez.
 
@@ -2180,13 +2136,9 @@ c) En aquellos casos en que la invalidez derive de la ilegalidad de su clausulad
 
 2. Serán igualmente nulos de pleno derecho los contratos celebrados por poderes adjudicadores en los que concurra alguna de las causas siguientes:
 
-a) La falta de capacidad de obrar o de solvencia económica, financiera, técnica o profesional; o la falta de habilitación empresarial o profesional cuando sea exigible para la realización de la actividad o prestación que constituya el objeto del contrato; o la falta de clasificación, cuando esta proceda, debidamente acreditada, del adjudicatario; o el estar este incurso en alguna de las prohibiciones para contratar señaladas en el artículo 71.
+a) La falta de capacidad de obrar o de solvencia económica, financiera, técnica o profesional; o la falta de habilitación empresarial o profesional cuando sea exigible para la realización de la actividad o prestación que constituya el objeto del contrato; o la falta de clasificación, cuando esta proceda, debidamente acreditada, del adjudicatario; o el estar este incurso en alguna de las prohibiciones para contratar señaladas en el artículo 71. b) La carencia o insuficiencia de crédito, de conformidad con lo establecido en la Ley 47/2003, de 26 de noviembre, General Presupuestaria, o en las normas presupuestarias de las restantes Administraciones Públicas sujetas a esta Ley, salvo los supuestos de emergencia.
 
-b) La carencia o insuficiencia de crédito, de conformidad con lo establecido en la Ley 47/2003, de 26 de noviembre, General Presupuestaria, o en las normas presupuestarias de las restantes Administraciones Públicas sujetas a esta Ley, salvo los supuestos de emergencia.
-
-c) La falta de publicación del anuncio de licitación en el perfil de contratante alojado en la Plataforma de Contratación del Sector Público o en los servicios de información similares de las Comunidades Autónomas, en el «Diario Oficial de la Unión Europea» o en el medio de publicidad en que sea preceptivo, de conformidad con el artículo 135.
-
-d) La inobservancia por parte del órgano de contratación del plazo para la formalización del contrato siempre que concurran los dos siguientes requisitos:
+c) La falta de publicación del anuncio de licitación en el perfil de contratante alojado en la Plataforma de Contratación del Sector Público o en los servicios de información similares de las Comunidades Autónomas, en el «Diario Oficial de la Unión Europea» o en el medio de publicidad en que sea preceptivo, de conformidad con el artículo 135. d) La inobservancia por parte del órgano de contratación del plazo para la formalización del contrato siempre que concurran los dos siguientes requisitos:
 
 1.º Que por esta causa el licitador se hubiese visto privado de la posibilidad de interponer recurso contra alguno de los actos del procedimiento de adjudicación y,
 
@@ -2206,9 +2158,7 @@ Son causas de anulabilidad de derecho administrativo las demás infracciones del
 
 En particular, se incluyen entre las causas de anulabilidad a las que se refiere el párrafo anterior, las siguientes:
 
-a) El incumplimiento de las circunstancias y requisitos exigidos para la modificación de los contratos en los artículos 204 y 205.
-
-b) Todas aquellas disposiciones, resoluciones, cláusulas o actos emanados de cualquier poder adjudicador que otorguen, de forma directa o indirecta, ventajas a las empresas que hayan contratado previamente con cualquier Administración.
+a) El incumplimiento de las circunstancias y requisitos exigidos para la modificación de los contratos en los artículos 204 y 205. b) Todas aquellas disposiciones, resoluciones, cláusulas o actos emanados de cualquier poder adjudicador que otorguen, de forma directa o indirecta, ventajas a las empresas que hayan contratado previamente con cualquier Administración.
 
 c) Los encargos que acuerden los poderes adjudicadores para la ejecución directa de prestaciones a través de medios propios, cuando no observen alguno de los requisitos establecidos en los apartados 2, 3 y 4 del artículo 32, relativos a la condición de medio propio.
 
@@ -2260,9 +2210,7 @@ Asimismo serán susceptibles de recurso especial en materia de contratación los
 
 a) Los anuncios de licitación, los pliegos y los documentos contractuales que establezcan las condiciones que deban regir la contratación.
 
-b) Los actos de trámite adoptados en el procedimiento de adjudicación, siempre que estos decidan directa o indirectamente sobre la adjudicación, determinen la imposibilidad de continuar el procedimiento o produzcan indefensión o perjuicio irreparable a derechos o intereses legítimos. En todo caso se considerará que concurren las circunstancias anteriores en los actos de la mesa o del órgano de contratación por los que se acuerde la admisión o inadmisión de candidatos o licitadores, o la admisión o exclusión de ofertas, incluidas las ofertas que sean excluidas por resultar anormalmente bajas como consecuencia de la aplicación del artículo 149.
-
-c) Los acuerdos de adjudicación.
+b) Los actos de trámite adoptados en el procedimiento de adjudicación, siempre que estos decidan directa o indirectamente sobre la adjudicación, determinen la imposibilidad de continuar el procedimiento o produzcan indefensión o perjuicio irreparable a derechos o intereses legítimos. En todo caso se considerará que concurren las circunstancias anteriores en los actos de la mesa o del órgano de contratación por los que se acuerde la admisión o inadmisión de candidatos o licitadores, o la admisión o exclusión de ofertas, incluidas las ofertas que sean excluidas por resultar anormalmente bajas como consecuencia de la aplicación del artículo 149. c) Los acuerdos de adjudicación.
 
 d) Las modificaciones basadas en el incumplimiento de lo establecido en los artículos 204 y 205 de la presente Ley, por entender que la modificación debió ser objeto de una nueva adjudicación.
 
@@ -2432,9 +2380,7 @@ Los escritos presentados en registros distintos de los dos citados específicame
 
 #### Artículo 53. Efectos derivados de la interposición del recurso.
 
-Una vez interpuesto el recurso quedará en suspenso la tramitación del procedimiento cuando el acto recurrido sea el de adjudicación, salvo en el supuesto de contratos basados en un acuerdo marco o de contratos específicos en el marco de un sistema dinámico de adquisición, sin perjuicio de las medidas cautelares que en relación a estos últimos podrían adoptarse en virtud de lo señalado en el artículo 56.3.
-
-#### Artículo 54. Comunicaciones y notificaciones.
+Una vez interpuesto el recurso quedará en suspenso la tramitación del procedimiento cuando el acto recurrido sea el de adjudicación, salvo en el supuesto de contratos basados en un acuerdo marco o de contratos específicos en el marco de un sistema dinámico de adquisición, sin perjuicio de las medidas cautelares que en relación a estos últimos podrían adoptarse en virtud de lo señalado en el artículo 56.3. #### Artículo 54. Comunicaciones y notificaciones.
 
 Las comunicaciones y el intercambio de documentación entre los órganos competentes para la resolución de los recursos, los órganos de contratación y los interesados en el procedimiento se harán por medios electrónicos.
 
@@ -2446,9 +2392,7 @@ a) La incompetencia del órgano para conocer del recurso.
 
 b) La falta de legitimación del recurrente o de acreditación de la representación de la persona que interpone el recurso en nombre de otra, mediante poder que sea suficiente a tal efecto.
 
-c) Haberse interpuesto el recurso contra actos no susceptibles de impugnación de conformidad con lo dispuesto en el artículo 44.
-
-d) La interposición del recurso, una vez finalizado el plazo establecido para su interposición.
+c) Haberse interpuesto el recurso contra actos no susceptibles de impugnación de conformidad con lo dispuesto en el artículo 44. d) La interposición del recurso, una vez finalizado el plazo establecido para su interposición.
 
 Si el órgano encargado de resolverlo apreciara que concurre alguno de ellos, sin perjuicio de lo previsto en el artículo 51.2, dictará resolución acordando la inadmisión del recurso.
 
@@ -2534,9 +2478,7 @@ Los órganos competentes para la resolución del recurso podrán rectificar en c
 
 1. Con independencia de la unidad encargada del seguimiento y ejecución ordinaria del contrato que figure en los pliegos, los órganos de contratación deberán designar un responsable del contrato al que corresponderá supervisar su ejecución y adoptar las decisiones y dictar las instrucciones necesarias con el fin de asegurar la correcta realización de la prestación pactada, dentro del ámbito de facultades que aquellos le atribuyan. El responsable del contrato podrá ser una persona física o jurídica, vinculada a la entidad contratante o ajena a él.
 
-2. En los contratos de obras, las facultades del responsable del contrato serán ejercidas por el Director Facultativo conforme con lo dispuesto en los artículos 237 a 246.
-
-3. En los casos de concesiones de obra pública y de concesiones de servicios, la Administración designará una persona que actúe en defensa del interés general, para obtener y para verificar el cumplimiento de las obligaciones del concesionario, especialmente en lo que se refiere a la calidad en la prestación del servicio o de la obra.
+2. En los contratos de obras, las facultades del responsable del contrato serán ejercidas por el Director Facultativo conforme con lo dispuesto en los artículos 237 a 246. 3. En los casos de concesiones de obra pública y de concesiones de servicios, la Administración designará una persona que actúe en defensa del interés general, para obtener y para verificar el cumplimiento de las obligaciones del concesionario, especialmente en lo que se refiere a la calidad en la prestación del servicio o de la obra.
 
 #### Artículo 63. Perfil de contratante.
 
@@ -2600,9 +2542,7 @@ Cuando, por así determinarlo la normativa aplicable, se le requirieran al contr
 
 2. Los contratistas deberán contar, asimismo, con la habilitación empresarial o profesional que, en su caso, sea exigible para la realización de las prestaciones que constituyan el objeto del contrato.
 
-3. En los contratos subvencionados a que se refiere el artículo 23 de esta Ley, el contratista deberá acreditar su solvencia y no podrá estar incurso en la prohibición de contratar a que se refiere la letra a) del apartado 1 del artículo 71.
-
-#### Artículo 66. Personas jurídicas.
+3. En los contratos subvencionados a que se refiere el artículo 23 de esta Ley, el contratista deberá acreditar su solvencia y no podrá estar incurso en la prohibición de contratar a que se refiere la letra a) del apartado 1 del artículo 71. #### Artículo 66. Personas jurídicas.
 
 1. Las personas jurídicas solo podrán ser adjudicatarias de contratos cuyas prestaciones estén comprendidas dentro de los fines, objeto o ámbito de actividad que, a tenor de sus estatutos o reglas fundacionales, les sean propios.
 
@@ -2664,9 +2604,7 @@ En todo caso, antes de proceder a la exclusión del candidato o licitador que pa
 
 Entre las medidas a las que se refiere el primer párrafo del presente apartado, se encontrarán la comunicación a los demás candidatos o licitadores de la información intercambiada en el marco de la participación en la preparación del procedimiento de contratación o como resultado de ella, y el establecimiento de plazos adecuados para la presentación de ofertas.
 
-Las medidas adoptadas se consignarán en los informes específicos previstos en el artículo 336.
-
-2. Los contratos que tengan por objeto la vigilancia, supervisión, control y dirección de la ejecución de cualesquiera contratos, así como la coordinación en materia de seguridad y salud, no podrán adjudicarse a las mismas empresas adjudicatarias de los correspondientes contratos, ni a las empresas a estas vinculadas, en el sentido establecido en el apartado anterior.
+Las medidas adoptadas se consignarán en los informes específicos previstos en el artículo 336. 2. Los contratos que tengan por objeto la vigilancia, supervisión, control y dirección de la ejecución de cualesquiera contratos, así como la coordinación en materia de seguridad y salud, no podrán adjudicarse a las mismas empresas adjudicatarias de los correspondientes contratos, ni a las empresas a estas vinculadas, en el sentido establecido en el apartado anterior.
 
 **Subsección 2.ª Prohibiciones de contratar**
 
@@ -2694,9 +2632,7 @@ No obstante lo dispuesto en el párrafo anterior, el Consejo de Ministros, media
 
 e) Haber incurrido en falsedad al efectuar la declaración responsable a que se refiere el artículo 140 o al.
 
-facilitar cualesquiera otros datos relativos a su capacidad y solvencia, o haber incumplido, por causa que le sea imputable, la obligación de comunicar la información prevista en el artículo 82.4 y en el artículo 343.1.
-
-f) Estar afectado por una prohibición de contratar impuesta en virtud de sanción administrativa firme, con arreglo a lo previsto en la Ley 38/2003, de 17 de noviembre, General de Subvenciones, o en la Ley 58/2003, de 17 de diciembre, General Tributaria.
+facilitar cualesquiera otros datos relativos a su capacidad y solvencia, o haber incumplido, por causa que le sea imputable, la obligación de comunicar la información prevista en el artículo 82.4 y en el artículo 343.1. f) Estar afectado por una prohibición de contratar impuesta en virtud de sanción administrativa firme, con arreglo a lo previsto en la Ley 38/2003, de 17 de noviembre, General de Subvenciones, o en la Ley 58/2003, de 17 de diciembre, General Tributaria.
 
 La presente causa de prohibición de contratar dejará de aplicarse cuando el órgano de contratación, en aplicación de lo dispuesto en el artículo 72.1, compruebe que la empresa ha cumplido sus obligaciones de pago o celebrado un acuerdo vinculante con vistas al pago de las cantidades adeudadas, incluidos en su caso los intereses acumulados o las multas impuestas.
 
@@ -2748,9 +2684,7 @@ La prohibición de contratar, así declarada, podrá ser revisada en cualquier m
 
 6. En los casos en que por sentencia penal firme así se prevea, la duración de la prohibición de contratar será la prevista en la misma. En los casos en los que esta no haya establecido plazo, esa duración no podrá exceder de cinco años desde la fecha de la condena por sentencia firme.
 
-En el resto de los supuestos, el plazo de duración no podrá exceder de tres años, para cuyo cómputo se estará a lo establecido en el apartado tercero del artículo 73.
-
-7. En el caso de la letra a) del apartado 1 del artículo anterior, el procedimiento, de ser necesario, no podrá iniciarse una vez transcurrido el plazo previsto para la prescripción de la correspondiente pena, y en el caso de la letra b) del apartado 2 del mismo artículo, si hubiesen transcurrido más de tres meses desde que se produjo la adjudicación.
+En el resto de los supuestos, el plazo de duración no podrá exceder de tres años, para cuyo cómputo se estará a lo establecido en el apartado tercero del artículo 73. 7. En el caso de la letra a) del apartado 1 del artículo anterior, el procedimiento, de ser necesario, no podrá iniciarse una vez transcurrido el plazo previsto para la prescripción de la correspondiente pena, y en el caso de la letra b) del apartado 2 del mismo artículo, si hubiesen transcurrido más de tres meses desde que se produjo la adjudicación.
 
 En los restantes supuestos previstos en dicho artículo, el procedimiento para la declaración de la prohibición de contratar no podrá iniciarse si hubiesen transcurrido más de tres años contados a partir de las siguientes fechas:
 
@@ -2762,9 +2696,7 @@ c) Desde la fecha en que fuese firme la resolución del contrato, en el caso pre
 
 d) En los casos previstos en la letra a) del apartado 2 del artículo anterior, desde la fecha en que se hubiese procedido a la adjudicación del contrato, si la causa es la retirada indebida de proposiciones o candidaturas; o desde la fecha en que hubiese debido procederse a la adjudicación, si la prohibición se fundamenta en el incumplimiento de lo establecido en el apartado segundo del artículo 150;
 
-e) Desde que la entidad contratante tuvo conocimiento del incumplimiento de las condiciones especiales de ejecución del contrato en los casos previstos en la letra c) del apartado segundo del artículo 71.
-
-#### Artículo 73. Efectos de la declaración de la prohibición de contratar.
+e) Desde que la entidad contratante tuvo conocimiento del incumplimiento de las condiciones especiales de ejecución del contrato en los casos previstos en la letra c) del apartado segundo del artículo 71. #### Artículo 73. Efectos de la declaración de la prohibición de contratar.
 
 1. En los supuestos en que se den las circunstancias establecidas en el apartado segundo del artículo 71 y en.
 
@@ -2840,9 +2772,7 @@ a) Para los contratos de obras cuyo valor estimado sea igual o superior a 500.00
 
 Para los contratos de obras cuyo valor estimado sea inferior a 500.000 euros la clasificación del empresario en el grupo o subgrupo que en función del objeto del contrato corresponda, y que será recogido en los pliegos del contrato, acreditará su solvencia económica y financiera y solvencia técnica para contratar. En tales casos, el empresario podrá acreditar su solvencia indistintamente mediante su clasificación como contratista de obras en el grupo o subgrupo de clasificación correspondiente al contrato o bien acreditando el cumplimiento de los requisitos específicos de solvencia exigidos en el anuncio de licitación o en la invitación a participar en el procedimiento y detallados en los pliegos del contrato. Si los pliegos no concretaran los requisitos de solvencia económica y financiera o los requisitos de solvencia técnica o profesional, la acreditación de la solvencia se efectuará conforme a los criterios, requisitos y medios recogidos en el segundo inciso del apartado 3 del artículo 87, que tendrán carácter supletorio de lo que al respecto de los mismos haya sido omitido o no concretado en los pliegos.
 
-b) Para los contratos de servicios no será exigible la clasificación del empresario. En el anuncio de licitación o en la invitación a participar en el procedimiento y en los pliegos del contrato se establecerán los criterios y requisitos mínimos de solvencia económica y financiera y de solvencia técnica o profesional tanto en los términos establecidos en los artículos 87 y 90 de la Ley como en términos de grupo o subgrupo de clasificación y de categoría mínima exigible, siempre que el objeto del contrato esté incluido en el ámbito de clasificación de alguno de los grupos o subgrupos de clasificación vigentes, atendiendo para ello al código CPV del contrato, según el Vocabulario común de contratos públicos aprobado por Reglamento (CE) 2195/2002, del Parlamento Europeo y del Consejo, de 5 de noviembre de 2002.
-
-En tales casos, el empresario podrá acreditar su solvencia indistintamente mediante su clasificación en el grupo o subgrupo de clasificación y categoría de clasificación correspondientes al contrato o bien acreditando el cumplimiento de los requisitos específicos de solvencia exigidos en el anuncio de licitación o en la invitación a participar en el procedimiento y detallados en los pliegos del contrato. Si los pliegos no concretaran los requisitos de solvencia económica y financiera o los requisitos de solvencia técnica o profesional, la acreditación de la solvencia se efectuará conforme a los criterios, requisitos y medios recogidos en el segundo inciso del apartado 3 del artículo 87, que tendrán carácter supletorio de lo que al respecto de los mismos haya sido omitido o no concretado en los pliegos.
+b) Para los contratos de servicios no será exigible la clasificación del empresario. En el anuncio de licitación o en la invitación a participar en el procedimiento y en los pliegos del contrato se establecerán los criterios y requisitos mínimos de solvencia económica y financiera y de solvencia técnica o profesional tanto en los términos establecidos en los artículos 87 y 90 de la Ley como en términos de grupo o subgrupo de clasificación y de categoría mínima exigible, siempre que el objeto del contrato esté incluido en el ámbito de clasificación de alguno de los grupos o subgrupos de clasificación vigentes, atendiendo para ello al código CPV del contrato, según el Vocabulario común de contratos públicos aprobado por Reglamento (CE) 2195/2002, del Parlamento Europeo y del Consejo, de 5 de noviembre de 2002. En tales casos, el empresario podrá acreditar su solvencia indistintamente mediante su clasificación en el grupo o subgrupo de clasificación y categoría de clasificación correspondientes al contrato o bien acreditando el cumplimiento de los requisitos específicos de solvencia exigidos en el anuncio de licitación o en la invitación a participar en el procedimiento y detallados en los pliegos del contrato. Si los pliegos no concretaran los requisitos de solvencia económica y financiera o los requisitos de solvencia técnica o profesional, la acreditación de la solvencia se efectuará conforme a los criterios, requisitos y medios recogidos en el segundo inciso del apartado 3 del artículo 87, que tendrán carácter supletorio de lo que al respecto de los mismos haya sido omitido o no concretado en los pliegos.
 
 c) **La clasificación no será exigible para los demás tipos de contratos.** Para dichos contratos, los requisitos específicos de solvencia exigidos se indicarán en el anuncio de licitación o en la invitación a participar en el procedimiento y se detallarán en los pliegos del contrato.
 
@@ -2850,9 +2780,7 @@ c) **La clasificación no será exigible para los demás tipos de contratos.** P
 
 3. Por Real Decreto podrá exceptuarse la necesidad de clasificación para determinados tipos de contratos de obras en los que este requisito sea exigible, debiendo motivarse dicha excepción en las circunstancias especiales y excepcionales concurrentes en los mismos.
 
-4. Cuando no haya concurrido ninguna empresa clasificada en un procedimiento de adjudicación de un contrato para el que se requiera clasificación, el órgano de contratación podrá excluir la necesidad de cumplir este requisito en el siguiente procedimiento que se convoque para la adjudicación del mismo contrato, siempre y cuando no se alteren sus condiciones, precisando en el pliego de cláusulas y en el anuncio, en su caso, los medios de acreditación de la solvencia que deban ser utilizados de entre los especificados en los artículos 87 y 88.
-
-5. Las entidades del sector público que no tengan el carácter de poderes adjudicadores podrán acordar la aplicación del régimen dispuesto en el apartado 1 de este artículo.
+4. Cuando no haya concurrido ninguna empresa clasificada en un procedimiento de adjudicación de un contrato para el que se requiera clasificación, el órgano de contratación podrá excluir la necesidad de cumplir este requisito en el siguiente procedimiento que se convoque para la adjudicación del mismo contrato, siempre y cuando no se alteren sus condiciones, precisando en el pliego de cláusulas y en el anuncio, en su caso, los medios de acreditación de la solvencia que deban ser utilizados de entre los especificados en los artículos 87 y 88. 5. Las entidades del sector público que no tengan el carácter de poderes adjudicadores podrán acordar la aplicación del régimen dispuesto en el apartado 1 de este artículo.
 
 #### Artículo 78. Exención de la exigencia de clasificación.
 
@@ -2910,9 +2838,7 @@ La no aportación en los plazos reglamentariamente establecidos de las declaraci
 
 3. La clasificación será revisable a petición de los interesados o de oficio por la Administración en cuanto varíen las circunstancias tomadas en consideración para concederla.
 
-4. En todo caso, el empresario está obligado a poner en conocimiento del órgano competente en materia de clasificación cualquier variación en las circunstancias que hubiesen sido tenidas en cuenta para concederla que pueda dar lugar a una revisión de la misma. La omisión de esta comunicación hará incurrir al empresario en la prohibición de contratar prevista en la letra e) del apartado 1 del artículo 71.
-
-#### Artículo 83. Comprobación de los elementos de la clasificación.
+4. En todo caso, el empresario está obligado a poner en conocimiento del órgano competente en materia de clasificación cualquier variación en las circunstancias que hubiesen sido tenidas en cuenta para concederla que pueda dar lugar a una revisión de la misma. La omisión de esta comunicación hará incurrir al empresario en la prohibición de contratar prevista en la letra e) del apartado 1 del artículo 71. #### Artículo 83. Comprobación de los elementos de la clasificación.
 
 Los órganos competentes en materia de clasificación podrán solicitar en cualquier momento de las empresas clasificadas o pendientes de clasificación los documentos que estimen necesarios para comprobar las declaraciones y hechos manifestados por las mismas en los expedientes que tramiten, así como pedir informe a cualquier órgano de las Administraciones Públicas sobre estos extremos.
 
@@ -2942,9 +2868,7 @@ Cuando dicho documento no pueda ser expedido por la autoridad competente, podrá
 
 1. La solvencia económica y financiera y técnica o profesional para un contrato se acreditará mediante la aportación de los documentos que se determinen por el órgano de contratación de entre los previstos en los artículos 87 a 91 de la presente Ley.
 
-Sin perjuicio de lo establecido en el párrafo siguiente, para los contratos que no estén sujetos a regulación armonizada el órgano de contratación, además de los documentos a los que se refiere el párrafo primero, podrá admitir de forma justificada otros medios de prueba de la solvencia distintos de los previstos en los artículos 87 a 91.
-
-Cuando por una razón válida, el operador económico no esté en condiciones de presentar las referencias solicitadas por el órgano de contratación, se le autorizará a acreditar su solvencia económica y financiera por medio de cualquier otro documento que el poder adjudicador considere apropiado.
+Sin perjuicio de lo establecido en el párrafo siguiente, para los contratos que no estén sujetos a regulación armonizada el órgano de contratación, además de los documentos a los que se refiere el párrafo primero, podrá admitir de forma justificada otros medios de prueba de la solvencia distintos de los previstos en los artículos 87 a 91. Cuando por una razón válida, el operador económico no esté en condiciones de presentar las referencias solicitadas por el órgano de contratación, se le autorizará a acreditar su solvencia económica y financiera por medio de cualquier otro documento que el poder adjudicador considere apropiado.
 
 2. La solvencia económica y financiera y técnica o profesional para la clasificación de empresas se acreditará mediante la aportación de los documentos reglamentariamente establecidos de entre los previstos en los artículos 87 a 91 de la presente Ley.
 
@@ -2958,9 +2882,7 @@ En el caso de aquellos empresarios que acogiéndose a la posibilidad prevista en
 
 1. La solvencia económica y financiera del empresario deberá acreditarse por uno o varios de los medios siguientes, a elección del órgano de contratación:
 
-a) Volumen anual de negocios, o bien volumen anual de negocios en el ámbito al que se refiera el contrato, referido al mejor ejercicio dentro de los tres últimos disponibles en función de las fechas de constitución o de inicio de actividades del empresario y de presentación de las ofertas por importe igual o superior al exigido en el anuncio de licitación o en la invitación a participar en el procedimiento y en los pliegos del contrato o, en su defecto, al establecido reglamentariamente. El volumen de negocios mínimo anual exigido no excederá de una vez y media el valor estimado del contrato, excepto en casos debidamente justificados como los relacionados con los riesgos especiales vinculados a la naturaleza de las obras, los servicios o los suministros. El órgano de contratación indicará las principales razones de la imposición de dicho requisito en los pliegos de la contratación o en el informe específico a que se refiere el artículo 336.
-
-Cuando un contrato se divida en lotes, el presente criterio se aplicará en relación con cada uno de los lotes. No obstante, el órgano de contratación podrá establecer el volumen de negocios mínimo anual exigido a los licitadores por referencia a grupos de lotes en caso de que al adjudicatario se le adjudiquen varios lotes que deban ejecutarse al mismo tiempo.
+a) Volumen anual de negocios, o bien volumen anual de negocios en el ámbito al que se refiera el contrato, referido al mejor ejercicio dentro de los tres últimos disponibles en función de las fechas de constitución o de inicio de actividades del empresario y de presentación de las ofertas por importe igual o superior al exigido en el anuncio de licitación o en la invitación a participar en el procedimiento y en los pliegos del contrato o, en su defecto, al establecido reglamentariamente. El volumen de negocios mínimo anual exigido no excederá de una vez y media el valor estimado del contrato, excepto en casos debidamente justificados como los relacionados con los riesgos especiales vinculados a la naturaleza de las obras, los servicios o los suministros. El órgano de contratación indicará las principales razones de la imposición de dicho requisito en los pliegos de la contratación o en el informe específico a que se refiere el artículo 336. Cuando un contrato se divida en lotes, el presente criterio se aplicará en relación con cada uno de los lotes. No obstante, el órgano de contratación podrá establecer el volumen de negocios mínimo anual exigido a los licitadores por referencia a grupos de lotes en caso de que al adjudicatario se le adjudiquen varios lotes que deban ejecutarse al mismo tiempo.
 
 b) En los casos en que resulte apropiado, justificante de la existencia de un seguro de responsabilidad civil por riesgos profesionales por importe igual o superior al exigido en el anuncio de licitación o en la invitación a participar en el procedimiento y en los pliegos del contrato o, en su defecto, al establecido reglamentariamente.
 
@@ -3122,9 +3044,7 @@ A los efectos anteriores la empresa deberá comunicar al órgano de contratació
 
 Cuando como consecuencia de las operaciones mercantiles a que se refiere el párrafo primero se le atribuyera el contrato a una entidad distinta, la garantía definitiva podrá ser, a criterio de la entidad otorgante de la misma, renovada o reemplazada por una nueva garantía que se suscriba por la nueva entidad teniéndose en cuenta las especiales características del riesgo que constituya esta última entidad. En este caso, la antigua garantía definitiva conservará su vigencia hasta que esté constituida la nueva garantía.
 
-2. Cuando el contratista inicial sea una unión temporal de empresas, se estará a lo establecido en el artículo 69.
-
-## Título III
+2. Cuando el contratista inicial sea una unión temporal de empresas, se estará a lo establecido en el artículo 69. ## Título III
 
 **Objeto, presupuesto base de licitación, valor estimado, precio del contrato y su revisión**
 
@@ -3170,9 +3090,7 @@ c) Que previamente se lleve a cabo una evaluación comparativa para determinar s
 
 d) Que los empresarios acrediten la solvencia económica, financiera y técnica correspondiente, o, en su caso, la clasificación, al conjunto de lotes por los que licite.
 
-6. Cuando se proceda a la división en lotes, las normas procedimentales y de publicidad que deben aplicarse en la adjudicación de cada lote o prestación diferenciada se determinarán en función del valor acumulado del conjunto, calculado según lo establecido en el artículo 101, salvo que se dé alguna de las excepciones a que se refieren los artículos 20.2, 21.2 y 22.2.
-
-7. En los contratos adjudicados por lotes, y salvo que se establezca otra previsión en el pliego que rija el contrato, cada lote constituirá un contrato, salvo en casos en que se presenten ofertas integradoras, en los que todas las ofertas constituirán un contrato.
+6. Cuando se proceda a la división en lotes, las normas procedimentales y de publicidad que deben aplicarse en la adjudicación de cada lote o prestación diferenciada se determinarán en función del valor acumulado del conjunto, calculado según lo establecido en el artículo 101, salvo que se dé alguna de las excepciones a que se refieren los artículos 20.2, 21.2 y 22.2. 7. En los contratos adjudicados por lotes, y salvo que se establezca otra previsión en el pliego que rija el contrato, cada lote constituirá un contrato, salvo en casos en que se presenten ofertas integradoras, en los que todas las ofertas constituirán un contrato.
 
 #### Artículo 100. Presupuesto base de licitación.
 
@@ -3230,9 +3148,7 @@ En todo caso, se entenderá que se da la circunstancia aludida en el párrafo an
 
 a) En el caso de contratos de duración determinada, cuando su duración sea igual o inferior a doce meses, el valor total estimado para la duración del contrato; cuando su duración sea superior a doce meses, su valor total, incluido el importe estimado del valor residual.
 
-b) En el caso de contratos cuya duración no se fije por referencia a un período de tiempo determinado, el valor mensual multiplicado por 48.
-
-10. En los contratos de suministro o de servicios que tengan un carácter de periodicidad, o de contratos que se deban renovar en un período de tiempo determinado, se tomará como base para el cálculo del valor estimado del contrato alguna de las siguientes cantidades:
+b) En el caso de contratos cuya duración no se fije por referencia a un período de tiempo determinado, el valor mensual multiplicado por 48. 10. En los contratos de suministro o de servicios que tengan un carácter de periodicidad, o de contratos que se deban renovar en un período de tiempo determinado, se tomará como base para el cálculo del valor estimado del contrato alguna de las siguientes cantidades:
 
 a) El valor real total de los contratos sucesivos similares adjudicados durante el ejercicio precedente o durante los doce meses previos, ajustado, cuando sea posible, en función de los cambios de cantidad o valor previstos para los doce meses posteriores al contrato inicial.
 
@@ -3246,9 +3162,7 @@ b) En servicios bancarios y otros servicios financieros, los honorarios, las com
 
 c) En los contratos relativos a un proyecto, los honorarios, las comisiones pagaderas y otras formas de remuneración, así como las primas o contraprestaciones que, en su caso, se fijen para los participantes en el concurso.
 
-d) En los contratos de servicios en que no se especifique un precio total, si tienen una duración determinada igual o inferior a cuarenta y ocho meses, el valor total estimado correspondiente a toda su duración. Si la duración es superior a cuarenta y ocho meses o no se encuentra fijada por referencia a un período de tiempo cierto, el valor mensual multiplicado por 48.
-
-12. Cuando la realización de una obra, la contratación de unos servicios o la obtención de unos suministros destinados a usos idénticos o similares pueda dar lugar a la adjudicación simultánea de contratos por lotes separados, se deberá tener en cuenta el valor global estimado de la totalidad de dichos lotes.
+d) En los contratos de servicios en que no se especifique un precio total, si tienen una duración determinada igual o inferior a cuarenta y ocho meses, el valor total estimado correspondiente a toda su duración. Si la duración es superior a cuarenta y ocho meses o no se encuentra fijada por referencia a un período de tiempo cierto, el valor mensual multiplicado por 48. 12. Cuando la realización de una obra, la contratación de unos servicios o la obtención de unos suministros destinados a usos idénticos o similares pueda dar lugar a la adjudicación simultánea de contratos por lotes separados, se deberá tener en cuenta el valor global estimado de la totalidad de dichos lotes.
 
 Igualmente, cuando una obra o un servicio propuestos puedan derivar en la adjudicación simultánea de contratos de concesión de obras o de concesión de servicios por lotes separados, deberá tenerse en cuenta el valor global estimado de todos los lotes.
 
@@ -3310,9 +3224,7 @@ No se considerarán revisables en ningún caso los costes asociados a las amorti
 
 No obstante, la condición relativa al porcentaje de ejecución del contrato no será exigible a efectos de proceder a la revisión periódica y predeterminada en los contratos de concesión de servicios.
 
-6. El Consejo de Ministros podrá aprobar, previo informe de la Junta Consultiva de Contratación Pública del Estado y de la Comisión Delegada del Gobierno para Asuntos Económicos, fórmulas tipo de revisión periódica y predeterminada para los contratos previstos en el apartado 2.
-
-A propuesta de la Administración Pública competente de la contratación, el Comité Superior de Precios de Contratos del Estado determinará aquellas actividades donde resulte conveniente contar con una fórmula tipo, elaborará las fórmulas y las remitirá para su aprobación al Consejo de Ministros.
+6. El Consejo de Ministros podrá aprobar, previo informe de la Junta Consultiva de Contratación Pública del Estado y de la Comisión Delegada del Gobierno para Asuntos Económicos, fórmulas tipo de revisión periódica y predeterminada para los contratos previstos en el apartado 2. A propuesta de la Administración Pública competente de la contratación, el Comité Superior de Precios de Contratos del Estado determinará aquellas actividades donde resulte conveniente contar con una fórmula tipo, elaborará las fórmulas y las remitirá para su aprobación al Consejo de Ministros.
 
 Cuando para un determinado tipo de contrato, se hayan aprobado, por el procedimiento descrito, fórmulas tipo, el órgano de contratación no podrá incluir otra fórmula de revisión diferente a esta en los pliegos y contrato.
 
@@ -3350,9 +3262,7 @@ El importe de las revisiones que procedan se hará efectivo, de oficio, mediante
 
 1. En el procedimiento de contratación no procederá la exigencia de garantía provisional, salvo cuando de forma excepcional el órgano de contratación, por motivos de interés público, lo considere necesario y lo justifique motivadamente en el expediente. En este último caso, se podrá exigir a los licitadores la constitución previa de una garantía que responda del mantenimiento de sus ofertas hasta la perfección del contrato.
 
-2. En los casos en que el órgano de contratación haya acordado la exigencia de garantía provisional, en los pliegos de cláusulas administrativas particulares se determinará el importe de la misma, que no podrá ser superior a un 3 por 100 del presupuesto base de licitación del contrato, excluido el Impuesto sobre el Valor Añadido y el régimen de su devolución. La garantía provisional podrá prestarse en alguna o algunas de las formas previstas en el apartado 1 del artículo 108.
-
-En el caso de división en lotes, la garantía provisional se fijará atendiendo exclusivamente al importe de los lotes para los que el licitador vaya a presentar oferta y no en función del importe del presupuesto total del contrato.
+2. En los casos en que el órgano de contratación haya acordado la exigencia de garantía provisional, en los pliegos de cláusulas administrativas particulares se determinará el importe de la misma, que no podrá ser superior a un 3 por 100 del presupuesto base de licitación del contrato, excluido el Impuesto sobre el Valor Añadido y el régimen de su devolución. La garantía provisional podrá prestarse en alguna o algunas de las formas previstas en el apartado 1 del artículo 108. En el caso de división en lotes, la garantía provisional se fijará atendiendo exclusivamente al importe de los lotes para los que el licitador vaya a presentar oferta y no en función del importe del presupuesto total del contrato.
 
 En los acuerdos marco y en los sistemas dinámicos de adquisición, el importe de la garantía provisional, de exigirse, se fijará a tanto alzado por la Administración Pública, sin que en ningún caso pueda superar el 3 por 100 del valor estimado del contrato.
 
@@ -3416,9 +3326,7 @@ acreditar en el plazo señalado en el apartado 2 del artículo 150, la constituc
 
 La garantía definitiva únicamente responderá de los siguientes conceptos:
 
-a) De la obligación de formalizar el contrato en plazo, de conformidad con lo dispuesto en el artículo 153.
-
-b) De las penalidades impuestas al contratista conforme al artículo 192 de la presente Ley.
+a) De la obligación de formalizar el contrato en plazo, de conformidad con lo dispuesto en el artículo 153. b) De las penalidades impuestas al contratista conforme al artículo 192 de la presente Ley.
 
 c) De la correcta ejecución de las prestaciones contempladas en el contrato incluidas las mejoras que ofertadas por el contratista hayan sido aceptadas por el órgano de contratación, de los gastos originados a la Administración por la demora del contratista en el cumplimiento de sus obligaciones, y de los daños y perjuicios ocasionados a la misma con motivo de la ejecución del contrato o por su incumplimiento, cuando no proceda su resolución.
 
@@ -3438,9 +3346,7 @@ El acuerdo de devolución deberá adoptarse y notificarse al interesado en el pl
 
 4. En los casos de cesión de contratos no se procederá a la devolución o cancelación de la garantía prestada por el cedente hasta que se halle formalmente constituida la del cesionario.
 
-5. Transcurrido un año desde la fecha de terminación del contrato, y vencido el plazo de garantía, sin que la recepción formal y la liquidación hubiesen tenido lugar por causas no imputables al contratista, se procederá, sin más demora, a la devolución o cancelación de las garantías una vez depuradas las responsabilidades a que se refiere el artículo 110.
-
-Cuando el valor estimado del contrato sea inferior a 1.000.000 de euros, si se trata de contratos de obras, o a 100.000 euros, en el caso de otros contratos, o cuando las empresas licitadoras reúnan los requisitos de pequeña o mediana empresa, definida según lo establecido en el Reglamento (CE) n.º 800/2008, de la Comisión, de 6 de agosto de 2008, por el que se declaran determinadas categorías de ayuda compatibles con el mercado común en aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea y no estén controladas directa o indirectamente por otra empresa que no cumpla tales requisitos, el plazo se reducirá a seis meses.
+5. Transcurrido un año desde la fecha de terminación del contrato, y vencido el plazo de garantía, sin que la recepción formal y la liquidación hubiesen tenido lugar por causas no imputables al contratista, se procederá, sin más demora, a la devolución o cancelación de las garantías una vez depuradas las responsabilidades a que se refiere el artículo 110. Cuando el valor estimado del contrato sea inferior a 1.000.000 de euros, si se trata de contratos de obras, o a 100.000 euros, en el caso de otros contratos, o cuando las empresas licitadoras reúnan los requisitos de pequeña o mediana empresa, definida según lo establecido en el Reglamento (CE) n.º 800/2008, de la Comisión, de 6 de agosto de 2008, por el que se declaran determinadas categorías de ayuda compatibles con el mercado común en aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea y no estén controladas directa o indirectamente por otra empresa que no cumpla tales requisitos, el plazo se reducirá a seis meses.
 
 #### Sección 3. ª Garantías prestadas por terceros y preferencia en la ejecución de garantías
 
@@ -3464,9 +3370,7 @@ c) El asegurador no podrá oponer al asegurado las excepciones que puedan corres
 
 2. Cuando la garantía no sea bastante para cubrir las responsabilidades a las que está afecta, la Administración procederá al cobro de la diferencia mediante el procedimiento administrativo de apremio, con arreglo a lo establecido en las normas de recaudación.
 
-3. Sin perjuicio de lo establecido en el artículo 90 de la Ley 22/2003, de 9 de julio, Concursal, en el caso de concurso los créditos derivados de las obligaciones ex lege o los surgidos en virtud de actos administrativos tendrán la consideración de créditos con privilegio general conforme a lo establecido en el artículo 91.4 de la Ley 22/2003.
-
-## Capítulo II. Garantías exigibles en otros contratos del sector público.
+3. Sin perjuicio de lo establecido en el artículo 90 de la Ley 22/2003, de 9 de julio, Concursal, en el caso de concurso los créditos derivados de las obligaciones ex lege o los surgidos en virtud de actos administrativos tendrán la consideración de créditos con privilegio general conforme a lo establecido en el artículo 91.4 de la Ley 22/2003. ## Capítulo II. Garantías exigibles en otros contratos del sector público.
 
 #### Artículo 114. Supuestos y régimen.
 
@@ -3554,9 +3458,7 @@ el trabajo afecte a la estabilidad, seguridad o estanqueidad de la obra.
 
 3. En el expediente se justificará que no se está alterando el objeto del contrato para evitar la aplicación de las reglas generales de contratación, y que el contratista no ha suscrito más contratos menores que individual o conjuntamente superen la cifra que consta en el apartado primero de este artículo. El órgano de contratación comprobará el cumplimiento de dicha regla. Quedan excluidos los supuestos encuadrados en el artículo 168.a).2.º
 
-4. Los contratos menores se publicarán en la forma prevista en el artículo 63.4.
-
-#### Artículo 119. Tramitación urgente del expediente.
+4. Los contratos menores se publicarán en la forma prevista en el artículo 63.4. #### Artículo 119. Tramitación urgente del expediente.
 
 1. Podrán ser objeto de tramitación urgente los expedientes correspondientes a los contratos cuya celebración responda a una necesidad inaplazable o cuya adjudicación sea preciso acelerar por razones de interés público. A tales efectos el expediente deberá contener la declaración de urgencia hecha por el órgano de contratación, debidamente motivada.
 
@@ -3570,9 +3472,7 @@ b) Acordada la apertura del procedimiento de adjudicación, los plazos estableci
 
 1.º El plazo de quince días hábiles establecido en el apartado 3 del artículo 153, como período de espera antes de la formalización del contrato.
 
-2.º El plazo de presentación de proposiciones en el procedimiento abierto en los contratos de obras, suministros y servicios sujetos a regulación armonizada, que se podrá reducir de conformidad con lo indicado en la letra b) del apartado 3) del artículo 156.
-
-3.º Los plazos de presentación de solicitudes y de proposiciones en los procedimientos restringido y de licitación con negociación en los contratos de obras, suministros y servicios sujetos a regulación armonizada, que se podrán reducir según lo establecido en el segundo párrafo del apartado 1 del artículo 161 y en.
+2.º El plazo de presentación de proposiciones en el procedimiento abierto en los contratos de obras, suministros y servicios sujetos a regulación armonizada, que se podrá reducir de conformidad con lo indicado en la letra b) del apartado 3) del artículo 156. 3.º Los plazos de presentación de solicitudes y de proposiciones en los procedimientos restringido y de licitación con negociación en los contratos de obras, suministros y servicios sujetos a regulación armonizada, que se podrán reducir según lo establecido en el segundo párrafo del apartado 1 del artículo 161 y en.
 
 la letra b) del apartado 1 del artículo 164, según el caso.
 
@@ -3624,9 +3524,7 @@ Los pliegos podrán también especificar si va a exigirse la transferencia de de
 
 de los contratos de servicios.
 
-3. Los pliegos de cláusulas administrativas particulares podrán establecer penalidades, conforme a lo prevenido en el apartado 1 del artículo 192, para los casos de incumplimiento o de cumplimiento defectuoso de la prestación que afecten a características de la misma, en especial cuando se hayan tenido en cuenta para definir los criterios de adjudicación, o atribuir a la puntual observancia de estas características el carácter de obligación contractual esencial a los efectos señalados en la letra f) del apartado 1 del artículo 211. Asimismo, para los casos de incumplimiento de lo prevenido en los artículos 130 y 201.
-
-4. Los contratos se ajustarán al contenido de los pliegos de cláusulas administrativas particulares, cuyas cláusulas se consideran parte integrante de los mismos.
+3. Los pliegos de cláusulas administrativas particulares podrán establecer penalidades, conforme a lo prevenido en el apartado 1 del artículo 192, para los casos de incumplimiento o de cumplimiento defectuoso de la prestación que afecten a características de la misma, en especial cuando se hayan tenido en cuenta para definir los criterios de adjudicación, o atribuir a la puntual observancia de estas características el carácter de obligación contractual esencial a los efectos señalados en la letra f) del apartado 1 del artículo 211. Asimismo, para los casos de incumplimiento de lo prevenido en los artículos 130 y 201. 4. Los contratos se ajustarán al contenido de los pliegos de cláusulas administrativas particulares, cuyas cláusulas se consideran parte integrante de los mismos.
 
 5. La aprobación de los pliegos de cláusulas administrativas particulares corresponderá al órgano de contratación, que podrá, asimismo, aprobar modelos de pliegos particulares para determinadas categorías de contratos de naturaleza análoga.
 
@@ -3660,9 +3558,7 @@ c) «Norma nacional»: Norma adoptada por un organismo nacional de normalizació
 
 3. «Evaluación técnica europea»: La evaluación documentada de las prestaciones de un producto de construcción en cuanto a sus características esenciales, con arreglo al correspondiente documento de evaluación europeo, tal como se define en el artículo 2, punto 12, del Reglamento (UE) n.º 305/2011, del Parlamento Europeo y del Consejo.
 
-4. «Especificación técnica común»: la especificación técnica en el ámbito de las TIC elaborada de conformidad con los artículos 13 y 14 del Reglamento (UE) n.º 1025/2012.
-
-5. «Referencia técnica»: Cualquier documento elaborado por los organismos europeos de normalización, distinto de las normas europeas, con arreglo a procedimientos adaptados a la evolución de las necesidades del mercado.
+4. «Especificación técnica común»: la especificación técnica en el ámbito de las TIC elaborada de conformidad con los artículos 13 y 14 del Reglamento (UE) n.º 1025/2012. 5. «Referencia técnica»: Cualquier documento elaborado por los organismos europeos de normalización, distinto de las normas europeas, con arreglo a procedimientos adaptados a la evolución de las necesidades del mercado.
 
 #### Artículo 126. Reglas para el establecimiento de prescripciones técnicas.
 
@@ -3780,9 +3676,7 @@ En los supuestos del artículo 168 podrá.
 
 seguirse el procedimiento negociado sin publicidad; en los casos previstos en el artículo 167 podrá recurrirse al diálogo competitivo o a la licitación con negociación, y en los indicados en el artículo 177 podrá emplearse el procedimiento de asociación para la innovación.
 
-3. Los contratos menores podrán adjudicarse directamente a cualquier empresario con capacidad de obrar y que cuente con la habilitación profesional necesaria para realizar la prestación, cumpliendo con las normas establecidas en el artículo 118.
-
-4. En los contratos relativos a la prestación de asistencia sanitaria en supuestos de urgencia y con un valor estimado inferior a 30.000 euros, no serán de aplicación las disposiciones de esta Ley relativas a la preparación y adjudicación del contrato.
+3. Los contratos menores podrán adjudicarse directamente a cualquier empresario con capacidad de obrar y que cuente con la habilitación profesional necesaria para realizar la prestación, cumpliendo con las normas establecidas en el artículo 118. 4. En los contratos relativos a la prestación de asistencia sanitaria en supuestos de urgencia y con un valor estimado inferior a 30.000 euros, no serán de aplicación las disposiciones de esta Ley relativas a la preparación y adjudicación del contrato.
 
 Para proceder a la contratación en estos casos bastará con que, además de justificarse la urgencia, se determine el objeto de la prestación, se fije el precio a satisfacer por la asistencia y se designe por el órgano de contratación la empresa a la que corresponderá la ejecución.
 
@@ -3854,9 +3748,7 @@ La Oficina de Publicaciones de la Unión Europea confirmará al poder adjudicado
 
 1. Los órganos de contratación fijarán los plazos de presentación de las ofertas y solicitudes de participación teniendo en cuenta el tiempo que razonablemente pueda ser necesario para preparar aquellas, atendida la complejidad del contrato, y respetando, en todo caso, los plazos mínimos fijados en esta Ley.
 
-2. Los órganos de contratación deberán ampliar el plazo inicial de presentación de las ofertas y solicitudes de participación, de forma que todos los posibles interesados en la licitación puedan tener acceso a toda la información necesaria para elaborar estas, cuando por cualquier razón los servicios dependientes del órgano de contratación no hubieran atendido el requerimiento de información que el interesado hubiera formulado con la debida antelación, en los términos señalados en el apartado 3 del artículo 138.
-
-Esta causa no se aplicará cuando la información adicional solicitada tenga un carácter irrelevante a los efectos de poder formular una oferta o solicitud que sean válidas.
+2. Los órganos de contratación deberán ampliar el plazo inicial de presentación de las ofertas y solicitudes de participación, de forma que todos los posibles interesados en la licitación puedan tener acceso a toda la información necesaria para elaborar estas, cuando por cualquier razón los servicios dependientes del órgano de contratación no hubieran atendido el requerimiento de información que el interesado hubiera formulado con la debida antelación, en los términos señalados en el apartado 3 del artículo 138. Esta causa no se aplicará cuando la información adicional solicitada tenga un carácter irrelevante a los efectos de poder formular una oferta o solicitud que sean válidas.
 
 En todo caso se considerará información relevante a los efectos de este artículo la siguiente:
 
@@ -3864,9 +3756,7 @@ a) Cualquier información adicional trasmitida a un licitador.
 
 b) Cualquier información asociada a elementos referidos en los pliegos y documentos de contratación.
 
-Los órganos de contratación deberán ampliar el plazo inicial de presentación de las ofertas y solicitudes de participación, asimismo, en el caso en que se introduzcan modificaciones significativas en los pliegos de la contratación, sin perjuicio de lo señalado en los artículos 122.1 y 124.
-
-En todo caso se considerará modificación significativa de los pliegos la que afecte a:
+Los órganos de contratación deberán ampliar el plazo inicial de presentación de las ofertas y solicitudes de participación, asimismo, en el caso en que se introduzcan modificaciones significativas en los pliegos de la contratación, sin perjuicio de lo señalado en los artículos 122.1 y 124. En todo caso se considerará modificación significativa de los pliegos la que afecte a:
 
 a) La clasificación requerida.
 
@@ -3892,15 +3782,11 @@ las demás disposiciones de esta Ley.
 
 1. Los órganos de contratación ofrecerán acceso a los pliegos y demás documentación complementaria por medios electrónicos a través del perfil de contratante, acceso que será libre, directo, completo y gratuito, y que deberá poder efectuarse desde la fecha de la publicación del anuncio de licitación o, en su caso, del envío de la invitación a los candidatos seleccionados.
 
-2. Excepcionalmente, en los casos que se señalan a continuación, los órganos de contratación podrán dar acceso a los pliegos y demás documentación complementaria de la licitación, valiéndose de medios no electrónicos. En ese caso el anuncio de licitación o la invitación a los candidatos seleccionados advertirán de esta circunstancia; y el plazo de presentación de las proposiciones o de las solicitudes de participación se prolongará cinco días, salvo en el supuesto de tramitación urgente del expediente a que se refiere el artículo 119.
-
-El acceso no electrónico a los pliegos y demás documentación complementaria de la licitación estará justificado cuando concurra alguno de los siguientes supuestos:
+2. Excepcionalmente, en los casos que se señalan a continuación, los órganos de contratación podrán dar acceso a los pliegos y demás documentación complementaria de la licitación, valiéndose de medios no electrónicos. En ese caso el anuncio de licitación o la invitación a los candidatos seleccionados advertirán de esta circunstancia; y el plazo de presentación de las proposiciones o de las solicitudes de participación se prolongará cinco días, salvo en el supuesto de tramitación urgente del expediente a que se refiere el artículo 119. El acceso no electrónico a los pliegos y demás documentación complementaria de la licitación estará justificado cuando concurra alguno de los siguientes supuestos:
 
 a) Cuando se den circunstancias técnicas que lo impidan, en los términos señalados en la Disposición adicional decimoquinta.
 
-b) Por razones de confidencialidad, en aplicación de lo dispuesto en el artículo 133.
-
-c) En el caso de las concesiones de obras y de servicios, por motivos de seguridad excepcionales.
+b) Por razones de confidencialidad, en aplicación de lo dispuesto en el artículo 133. c) En el caso de las concesiones de obras y de servicios, por motivos de seguridad excepcionales.
 
 3. Los órganos de contratación proporcionarán a todos los interesados en el procedimiento de licitación, a más tardar 6 días antes de que finalice el plazo fijado para la presentación de ofertas, aquella información adicional sobre los pliegos y demás documentación complementaria que estos soliciten, a condición de que la hubieren pedido al menos 12 días antes del transcurso del plazo de presentación de las proposiciones o de las solicitudes de participación, salvo que en los pliegos que rigen la licitación se estableciera otro plazo distinto. En los expedientes que hayan sido calificados de urgentes, el plazo de seis días a más tardar antes de que finalice el plazo fijado para la presentación de ofertas será de 4 días a más tardar antes de que finalice el citado plazo en los contratos de obras, suministros y servicios sujetos a regulación armonizada siempre que se adjudiquen por procedimientos abierto y restringido.
 
@@ -3960,9 +3846,7 @@ No obstante lo anterior, cuando el empresario esté inscrito en el Registro Ofic
 
 #### Artículo 141. Declaración responsable y otra documentación.
 
-1. Los órganos de contratación incluirán en el pliego, junto con la exigencia de declaración responsable, el modelo al que deberá ajustarse la misma. El modelo que recoja el pliego seguirá el formulario de documento europeo único de contratación aprobado en el seno de la Unión Europea, sin perjuicio de lo establecido en la letra c) del apartado 4 del artículo 159.
-
-2. En los casos en que se establezca la intervención de mesa de contratación, esta calificará la declaración responsable y la documentación a la que se refiere el artículo anterior.
+1. Los órganos de contratación incluirán en el pliego, junto con la exigencia de declaración responsable, el modelo al que deberá ajustarse la misma. El modelo que recoja el pliego seguirá el formulario de documento europeo único de contratación aprobado en el seno de la Unión Europea, sin perjuicio de lo establecido en la letra c) del apartado 4 del artículo 159. 2. En los casos en que se establezca la intervención de mesa de contratación, esta calificará la declaración responsable y la documentación a la que se refiere el artículo anterior.
 
 Cuando esta aprecie defectos subsanables, dará un plazo de tres días al empresario para que los corrija.
 
@@ -4044,9 +3928,7 @@ Si durante la tramitación de un procedimiento y antes de la formalización del 
 
 1. La adjudicación de los contratos se realizará utilizando una pluralidad de criterios de adjudicación en base a la mejor relación calidad-precio.
 
-Previa justificación en el expediente, los contratos se podrán adjudicar con arreglo a criterios basados en un planteamiento que atienda a la mejor relación coste-eficacia, sobre la base del precio o coste, como el cálculo del coste del ciclo de vida con arreglo al artículo 148.
-
-2. La mejor relación calidad-precio se evaluará con arreglo a criterios económicos y cualitativos.
+Previa justificación en el expediente, los contratos se podrán adjudicar con arreglo a criterios basados en un planteamiento que atienda a la mejor relación coste-eficacia, sobre la base del precio o coste, como el cálculo del coste del ciclo de vida con arreglo al artículo 148. 2. La mejor relación calidad-precio se evaluará con arreglo a criterios económicos y cualitativos.
 
 Los criterios cualitativos que establezca el órgano de contratación para evaluar la mejor relación calidad-precio podrán incluir aspectos medioambientales o sociales, vinculados al objeto del contrato en la forma establecida en el apartado 6 de este artículo, que podrán ser, entre otros, los siguientes:
 
@@ -4060,9 +3942,7 @@ Las características sociales del contrato se referirán, entre otras, a las sig
 
 3.º El servicio posventa y la asistencia técnica y condiciones de entrega tales como la fecha en que esta última debe producirse, el proceso de entrega, el plazo de entrega o ejecución y los compromisos relativos a recambios y seguridad del suministro.
 
-Los criterios cualitativos deberán ir acompañados de un criterio relacionado con los costes el cual, a elección del órgano de contratación, podrá ser el precio o un planteamiento basado en la rentabilidad, como el coste del ciclo de vida calculado de conformidad con lo dispuesto en el artículo 148.
-
-3. La aplicación de más de un criterio de adjudicación procederá, en todo caso, en la adjudicación de los siguientes contratos:
+Los criterios cualitativos deberán ir acompañados de un criterio relacionado con los costes el cual, a elección del órgano de contratación, podrá ser el precio o un planteamiento basado en la rentabilidad, como el coste del ciclo de vida calculado de conformidad con lo dispuesto en el artículo 148. 3. La aplicación de más de un criterio de adjudicación procederá, en todo caso, en la adjudicación de los siguientes contratos:
 
 a) Aquellos cuyos proyectos o presupuestos no hayan podido ser establecidos previamente y deban ser presentados por los candidatos o licitadores.
 
@@ -4084,9 +3964,7 @@ h) Contratos cuya ejecución pueda tener un impacto significativo en el medio am
 
 4. Los órganos de contratación velarán por que se establezcan criterios de adjudicación que permitan obtener obras, suministros y servicios de gran calidad que respondan lo mejor posible a sus necesidades; y, en especial, en los procedimientos de contratos de servicios que tengan por objeto prestaciones de carácter intelectual, como los servicios de ingeniería y arquitectura.
 
-En los contratos de servicios del Anexo IV, así como en los contratos que tengan por objeto prestaciones de carácter intelectual, los criterios relacionados con la calidad deberán representar, al menos, el 51 por ciento de la puntuación asignable en la valoración de las ofertas, sin perjuicio de lo dispuesto en el apartado 2.a) del artículo 146.
-
-5. Los criterios a que se refiere el apartado 1 que han de servir de base para la adjudicación del contrato se establecerán en los pliegos de cláusulas administrativas particulares o en el documento descriptivo, y deberá figurar en el anuncio que sirva de convocatoria de la licitación, debiendo cumplir los siguientes requisitos:
+En los contratos de servicios del Anexo IV, así como en los contratos que tengan por objeto prestaciones de carácter intelectual, los criterios relacionados con la calidad deberán representar, al menos, el 51 por ciento de la puntuación asignable en la valoración de las ofertas, sin perjuicio de lo dispuesto en el apartado 2.a) del artículo 146. 5. Los criterios a que se refiere el apartado 1 que han de servir de base para la adjudicación del contrato se establecerán en los pliegos de cláusulas administrativas particulares o en el documento descriptivo, y deberá figurar en el anuncio que sirva de convocatoria de la licitación, debiendo cumplir los siguientes requisitos:
 
 a) En todo caso estarán vinculados al objeto del contrato, en el sentido expresado en el apartado siguiente de este artículo.
 
@@ -4110,9 +3988,7 @@ Las mejoras propuestas por el adjudicatario pasarán a formar parte del contrato
 
 #### Artículo 146. Aplicación de los criterios de adjudicación.
 
-1. Sin perjuicio de lo dispuesto en los apartados primero y tercero del artículo anterior, cuando solo se utilice un criterio de adjudicación, este deberá estar relacionado con los costes, pudiendo ser el precio o un criterio basado en la rentabilidad, como el coste del ciclo de vida calculado de acuerdo con lo indicado en el artículo 148.
-
-2. Cuando se utilicen una pluralidad de criterios de adjudicación, en su determinación, siempre y cuando sea posible, se dará preponderancia a aquellos que hagan referencia a características del objeto del contrato que puedan valorarse mediante cifras o porcentajes obtenidos a través de la mera aplicación de las fórmulas establecidas en los pliegos.
+1. Sin perjuicio de lo dispuesto en los apartados primero y tercero del artículo anterior, cuando solo se utilice un criterio de adjudicación, este deberá estar relacionado con los costes, pudiendo ser el precio o un criterio basado en la rentabilidad, como el coste del ciclo de vida calculado de acuerdo con lo indicado en el artículo 148. 2. Cuando se utilicen una pluralidad de criterios de adjudicación, en su determinación, siempre y cuando sea posible, se dará preponderancia a aquellos que hagan referencia a características del objeto del contrato que puedan valorarse mediante cifras o porcentajes obtenidos a través de la mera aplicación de las fórmulas establecidas en los pliegos.
 
 La aplicación de los criterios de adjudicación se efectuará por los siguientes órganos:
 
@@ -4224,15 +4100,11 @@ b) Las soluciones técnicas adoptadas y las condiciones excepcionalmente favorab
 
 c) La innovación y originalidad de las soluciones propuestas, para suministrar los productos, prestar los servicios o ejecutar las obras.
 
-d) El respeto de obligaciones que resulten aplicables en materia medioambiental, social o laboral, y de subcontratación, no siendo justificables precios por debajo de mercado o que incumplan lo establecido en el artículo 201.
-
-e) O la posible obtención de una ayuda de Estado.
+d) El respeto de obligaciones que resulten aplicables en materia medioambiental, social o laboral, y de subcontratación, no siendo justificables precios por debajo de mercado o que incumplan lo establecido en el artículo 201. e) O la posible obtención de una ayuda de Estado.
 
 En el procedimiento deberá solicitarse el asesoramiento técnico del servicio correspondiente.
 
-En todo caso, los órganos de contratación rechazarán las ofertas si comprueban que son anormalmente bajas porque vulneran la normativa sobre subcontratación o no cumplen las obligaciones aplicables en materia medioambiental, social o laboral, nacional o internacional, incluyendo el incumplimiento de los convenios colectivos sectoriales vigentes, en aplicación de lo establecido en el artículo 201.
-
-Se entenderá en todo caso que la justificación no explica satisfactoriamente el bajo nivel de los precios o costes propuestos por el licitador cuando esta sea incompleta o se fundamente en hipótesis o prácticas inadecuadas desde el punto de vista técnico, jurídico o económico.
+En todo caso, los órganos de contratación rechazarán las ofertas si comprueban que son anormalmente bajas porque vulneran la normativa sobre subcontratación o no cumplen las obligaciones aplicables en materia medioambiental, social o laboral, nacional o internacional, incluyendo el incumplimiento de los convenios colectivos sectoriales vigentes, en aplicación de lo establecido en el artículo 201. Se entenderá en todo caso que la justificación no explica satisfactoriamente el bajo nivel de los precios o costes propuestos por el licitador cuando esta sea incompleta o se fundamente en hipótesis o prácticas inadecuadas desde el punto de vista técnico, jurídico o económico.
 
 5. En los casos en que se compruebe que una oferta es anormalmente baja debido a que el licitador ha obtenido una ayuda de Estado, solo podrá rechazarse la proposición por esta única causa si aquel no puede acreditar que tal ayuda se ha concedido sin contravenir las disposiciones comunitarias en materia de ayudas públicas. El órgano de contratación que rechace una oferta por esta razón deberá informar de ello a la Comisión Europea, cuando el procedimiento de adjudicación se refiera a un contrato sujeto a regulación armonizada.
 
@@ -4254,9 +4126,7 @@ Si en el ejercicio de sus funciones la mesa de contratación, o en su defecto, e
 
 que, dentro del plazo de diez días hábiles, a contar desde el siguiente a aquel en que hubiera recibido el requerimiento, presente la documentación justificativa de las circunstancias a las que se refieren las letras a) a c) del apartado 1 del artículo 140 si no se hubiera aportado con anterioridad, tanto del licitador como de aquellas otras empresas a cuyas capacidades se recurra, sin perjuicio de lo establecido en el segundo párrafo del apartado 3 del citado artículo; de disponer efectivamente de los medios que se hubiese comprometido a dedicar o adscribir a la ejecución del contrato conforme al artículo 76.2; y de haber constituido la garantía definitiva que sea procedente. Los correspondientes certificados podrán ser expedidos por medios electrónicos, informáticos o telemáticos, salvo que se establezca otra cosa en los pliegos.
 
-De no cumplimentarse adecuadamente el requerimiento en el plazo señalado, se entenderá que el licitador ha retirado su oferta, procediéndose a exigirle el importe del 3 por ciento del presupuesto base de licitación, IVA excluido, en concepto de penalidad, que se hará efectivo en primer lugar contra la garantía provisional, si se hubiera constituido, sin perjuicio de lo establecido en la letra a) del apartado 2 del artículo 71.
-
-En el supuesto señalado en el párrafo anterior, se procederá a recabar la misma documentación al licitador siguiente, por el orden en que hayan quedado clasificadas las ofertas.
+De no cumplimentarse adecuadamente el requerimiento en el plazo señalado, se entenderá que el licitador ha retirado su oferta, procediéndose a exigirle el importe del 3 por ciento del presupuesto base de licitación, IVA excluido, en concepto de penalidad, que se hará efectivo en primer lugar contra la garantía provisional, si se hubiera constituido, sin perjuicio de lo establecido en la letra a) del apartado 2 del artículo 71. En el supuesto señalado en el párrafo anterior, se procederá a recabar la misma documentación al licitador siguiente, por el orden en que hayan quedado clasificadas las ofertas.
 
 3. El órgano de contratación adjudicará el contrato dentro de los cinco días hábiles siguientes a la recepción de la documentación. En los procedimientos negociados, de diálogo competitivo y de asociación para la innovación, la adjudicación concretará y fijará los términos definitivos del contrato.
 
@@ -4308,11 +4178,7 @@ acreditará su existencia con los documentos a los que se refiere dicho artícul
 
 Los servicios dependientes del órgano de contratación requerirán al adjudicatario para que formalice el contrato en plazo no superior a cinco días a contar desde el siguiente a aquel en que hubiera recibido el requerimiento, una vez transcurrido el plazo previsto en el párrafo anterior sin que se hubiera interpuesto recurso que lleve aparejada la suspensión de la formalización del contrato. De igual forma procederá cuando el órgano competente para la resolución del recurso hubiera levantado la suspensión.
 
-En los restantes casos, la formalización del contrato deberá efectuarse no más tarde de los quince días hábiles siguientes a aquel en que se realice la notificación de la adjudicación a los licitadores y candidatos en la forma prevista en el artículo 151.
-
-4. Cuando por causas imputables al adjudicatario no se hubiese formalizado el contrato dentro del plazo indicado se le exigirá el importe del 3 por ciento del presupuesto base de licitación, IVA excluido, en concepto de penalidad, que se hará efectivo en primer lugar contra la garantía definitiva, si se hubiera constituido, sin perjuicio de lo establecido en la letra b) del apartado 2 del artículo 71.
-
-En este caso, el contrato se adjudicará al siguiente licitador por el orden en que hubieran quedado clasificadas las ofertas, previa presentación de la documentación establecida en el apartado 2 del artículo 150 de la presente Ley, resultando de aplicación los plazos establecidos en el apartado anterior.
+En los restantes casos, la formalización del contrato deberá efectuarse no más tarde de los quince días hábiles siguientes a aquel en que se realice la notificación de la adjudicación a los licitadores y candidatos en la forma prevista en el artículo 151. 4. Cuando por causas imputables al adjudicatario no se hubiese formalizado el contrato dentro del plazo indicado se le exigirá el importe del 3 por ciento del presupuesto base de licitación, IVA excluido, en concepto de penalidad, que se hará efectivo en primer lugar contra la garantía definitiva, si se hubiera constituido, sin perjuicio de lo establecido en la letra b) del apartado 2 del artículo 71. En este caso, el contrato se adjudicará al siguiente licitador por el orden en que hubieran quedado clasificadas las ofertas, previa presentación de la documentación establecida en el apartado 2 del artículo 150 de la presente Ley, resultando de aplicación los plazos establecidos en el apartado anterior.
 
 5. Si las causas de la no formalización fueren imputables a la Administración, se indemnizará al contratista de los daños y perjuicios que la demora le pudiera ocasionar.
 
@@ -4328,13 +4194,9 @@ Los anuncios de formalización no se publicarán en los lugares indicados en los
 
 4. La adjudicación de los contratos basados en un acuerdo marco o de los contratos específicos en el marco de un sistema dinámico de adquisición, ya perfeccionados en virtud de lo establecido en el artículo 36.3, se publicará trimestralmente por el órgano de contratación dentro de los 30 días siguientes al fin de cada trimestre, en la forma prevista en el presente artículo.
 
-5. Los contratos menores serán objeto de publicación en las condiciones establecidas en el apartado 4 del artículo 63.
+5. Los contratos menores serán objeto de publicación en las condiciones establecidas en el apartado 4 del artículo 63. 6. Los anuncios de formalización de contratos contendrán la información recogida en el anexo III.
 
-6. Los anuncios de formalización de contratos contendrán la información recogida en el anexo III.
-
-7. Podrán no publicarse determinados datos relativos a la celebración del contrato cuando se considere, justificándose debidamente en el expediente, que la divulgación de esa información puede obstaculizar la aplicación de una norma, resultar contraria al interés público o perjudicar intereses comerciales legítimos de empresas públicas o privadas o la competencia leal entre ellas, o cuando se trate de contratos declarados secretos o reservados o cuya ejecución deba ir acompañada de medidas de seguridad especiales conforme a la legislación vigente, o cuando lo exija la protección de los intereses esenciales de la seguridad del Estado y así se haya declarado de conformidad con lo previsto en la letra c) del apartado 2 del artículo 19.
-
-En todo caso, previa la decisión de no publicar unos determinados datos relativos a la celebración del contrato, los órganos de contratación deberán solicitar la emisión de informe por el Consejo de Transparencia y Buen Gobierno a que se refiere la [Ley 19/2013](../01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md), de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, en el que se aprecie si el derecho de acceso a la información pública prevalece o no frente a los bienes que se pretenden salvaguardar con su no publicación, que será evacuado en un plazo máximo de diez días.
+7. Podrán no publicarse determinados datos relativos a la celebración del contrato cuando se considere, justificándose debidamente en el expediente, que la divulgación de esa información puede obstaculizar la aplicación de una norma, resultar contraria al interés público o perjudicar intereses comerciales legítimos de empresas públicas o privadas o la competencia leal entre ellas, o cuando se trate de contratos declarados secretos o reservados o cuya ejecución deba ir acompañada de medidas de seguridad especiales conforme a la legislación vigente, o cuando lo exija la protección de los intereses esenciales de la seguridad del Estado y así se haya declarado de conformidad con lo previsto en la letra c) del apartado 2 del artículo 19. En todo caso, previa la decisión de no publicar unos determinados datos relativos a la celebración del contrato, los órganos de contratación deberán solicitar la emisión de informe por el Consejo de Transparencia y Buen Gobierno a que se refiere la [Ley 19/2013](../01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md), de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, en el que se aprecie si el derecho de acceso a la información pública prevalece o no frente a los bienes que se pretenden salvaguardar con su no publicación, que será evacuado en un plazo máximo de diez días.
 
 No obstante lo anterior, no se requerirá dicho informe por el Consejo de Transparencia y Buen Gobierno en caso de que con anterioridad se hubiese efectuado por el órgano de contratación consulta sobre una materia idéntica o análoga, sin perjuicio de la justificación debida de su exclusión en el expediente en los términos establecidos en este apartado.
 
@@ -4474,9 +4336,7 @@ g) En los casos en que a la licitación se presenten empresarios extranjeros de 
 
 h) En lo no previsto en este artículo se observarán las normas generales aplicables al procedimiento abierto.
 
-5. En los casos de declaración de urgencia del expediente de contratación en el que el procedimiento de adjudicación utilizado sea el procedimiento abierto simplificado regulado en el presente artículo, no se producirá la reducción de plazos a la que se refiere la letra b) del apartado 2 del artículo 119.
-
-6. En contratos de obras de valor estimado inferior a 80.000 euros, y en contratos de suministros y de servicios de valor estimado inferior a 35.000 euros, excepto los que tengan por objeto prestaciones de carácter intelectual a los que no será de aplicación este apartado, el procedimiento abierto simplificado podrá seguir la siguiente tramitación:
+5. En los casos de declaración de urgencia del expediente de contratación en el que el procedimiento de adjudicación utilizado sea el procedimiento abierto simplificado regulado en el presente artículo, no se producirá la reducción de plazos a la que se refiere la letra b) del apartado 2 del artículo 119. 6. En contratos de obras de valor estimado inferior a 80.000 euros, y en contratos de suministros y de servicios de valor estimado inferior a 35.000 euros, excepto los que tengan por objeto prestaciones de carácter intelectual a los que no será de aplicación este apartado, el procedimiento abierto simplificado podrá seguir la siguiente tramitación:
 
 a) El plazo para la presentación de proposiciones no podrá ser inferior a diez días hábiles, a contar desde el siguiente a la publicación del anuncio de licitación en el perfil de contratante. No obstante lo anterior, cuando se trate de compras corrientes de bienes disponibles en el mercado el plazo será de 5 días hábiles.
 
@@ -4536,9 +4396,7 @@ En cualquier caso, el número de candidatos invitados debe ser suficiente para g
 
 3. Los criterios o normas objetivos y no discriminatorios con arreglo a los cuales se seleccionará a los candidatos, así como el número mínimo y, en su caso, el número máximo de aquellos a los que se invitará a presentar proposiciones se indicarán en el anuncio de licitación.
 
-4. El órgano de contratación, una vez comprobada la personalidad y solvencia de los solicitantes, seleccionará a los que deban pasar a la siguiente fase, a los que invitará, simultáneamente y por escrito, a presentar sus proposiciones en el plazo que proceda conforme a lo señalado en el artículo 164.
-
-#### Artículo 163. Contenido de las invitaciones e información a los candidatos.
+4. El órgano de contratación, una vez comprobada la personalidad y solvencia de los solicitantes, seleccionará a los que deban pasar a la siguiente fase, a los que invitará, simultáneamente y por escrito, a presentar sus proposiciones en el plazo que proceda conforme a lo señalado en el artículo 164. #### Artículo 163. Contenido de las invitaciones e información a los candidatos.
 
 1. Las invitaciones contendrán una referencia al anuncio de licitación publicado e indicarán la fecha límite para la recepción de ofertas; la dirección a la que deban enviarse y la lengua o lenguas en que deban estar redactadas; los documentos que, en su caso, se deban adjuntar complementariamente; los criterios de adjudicación del contrato que se tendrán en cuenta y su ponderación relativa o, en su caso, el orden decreciente de importancia atribuido a los mismos, si no figurasen en el anuncio de licitación; y el lugar, día y hora de la apertura de proposiciones.
 
@@ -4552,9 +4410,7 @@ Cuando, con arreglo a lo dispuesto en el apartado 2 del artículo 138, estuviera
 
 El plazo general previsto en el párrafo anterior podrá reducirse en los siguientes casos:
 
-a) Si se hubiese enviado el anuncio de información previa, el plazo general podrá reducirse a diez días. Esta reducción del plazo solo será admisible cuando el anuncio de información previa se hubiese enviado cumpliéndose los requisitos que establece la letra a) del apartado 3 del artículo 156.
-
-b) Cuando el plazo general de presentación de proposiciones sea impracticable por tratarse de una situación de urgencia, en los términos descritos en el artículo 119, el órgano de contratación podrá fijar otro plazo que no será inferior a diez días contados desde la fecha del envío de la invitación escrita.
+a) Si se hubiese enviado el anuncio de información previa, el plazo general podrá reducirse a diez días. Esta reducción del plazo solo será admisible cuando el anuncio de información previa se hubiese enviado cumpliéndose los requisitos que establece la letra a) del apartado 3 del artículo 156. b) Cuando el plazo general de presentación de proposiciones sea impracticable por tratarse de una situación de urgencia, en los términos descritos en el artículo 119, el órgano de contratación podrá fijar otro plazo que no será inferior a diez días contados desde la fecha del envío de la invitación escrita.
 
 c) Si el órgano de contratación aceptara la presentación de ofertas por medios electrónicos, podrá reducirse el plazo general de presentación de proposiciones en cinco días.
 
@@ -4610,13 +4466,9 @@ Se considerará que una oferta no es adecuada cuando no sea pertinente para el c
 
 La no existencia de competencia por razones técnicas y la protección de derechos exclusivos, incluidos los derechos de propiedad intelectual e industrial solo se aplicarán cuando no exista una alternativa o sustituto razonable y cuando la ausencia de competencia no sea consecuencia de una configuración restrictiva de los requisitos y criterios para adjudicar el contrato.
 
-3.º Cuando el contrato haya sido declarado secreto o reservado, o cuando su ejecución deba ir acompañada de medidas de seguridad especiales conforme a la legislación vigente, o cuando lo exija la protección de los intereses esenciales de la seguridad del Estado y así se haya declarado de conformidad con lo previsto en la letra c) del apartado 2 del artículo 19.
+3.º Cuando el contrato haya sido declarado secreto o reservado, o cuando su ejecución deba ir acompañada de medidas de seguridad especiales conforme a la legislación vigente, o cuando lo exija la protección de los intereses esenciales de la seguridad del Estado y así se haya declarado de conformidad con lo previsto en la letra c) del apartado 2 del artículo 19. b) En los contratos de obras, suministros y servicios, en los casos en que:
 
-b) En los contratos de obras, suministros y servicios, en los casos en que:
-
-1.º Una imperiosa urgencia resultante de acontecimientos imprevisibles para el órgano de contratación y no imputables al mismo, demande una pronta ejecución del contrato que no pueda lograrse mediante la aplicación de la tramitación de urgencia regulada en el artículo 119.
-
-2.º Cuando se dé la situación a que se refiere la letra e) del artículo 167, siempre y cuando en la negociación se incluya a todos los licitadores que, en el procedimiento antecedente, hubiesen presentado ofertas conformes con los requisitos formales del procedimiento de contratación, y siempre que las condiciones iniciales del contrato no se modifiquen sustancialmente, sin que en ningún caso se pueda incrementar el precio de licitación ni modificar el sistema de retribución.
+1.º Una imperiosa urgencia resultante de acontecimientos imprevisibles para el órgano de contratación y no imputables al mismo, demande una pronta ejecución del contrato que no pueda lograrse mediante la aplicación de la tramitación de urgencia regulada en el artículo 119. 2.º Cuando se dé la situación a que se refiere la letra e) del artículo 167, siempre y cuando en la negociación se incluya a todos los licitadores que, en el procedimiento antecedente, hubiesen presentado ofertas conformes con los requisitos formales del procedimiento de contratación, y siempre que las condiciones iniciales del contrato no se modifiquen sustancialmente, sin que en ningún caso se pueda incrementar el precio de licitación ni modificar el sistema de retribución.
 
 c) En los contratos de suministro, además, en los siguientes casos:
 
@@ -4636,9 +4488,7 @@ e) En los contratos de obras y de servicios, además, cuando las obras o servici
 
 #### Artículo 169. Tramitación del procedimiento de licitación con negociación.
 
-1. Cuando se acuda al procedimiento de licitación con negociación por concurrir las circunstancias previstas en el artículo 167, el órgano de contratación, en todo caso, deberá publicar un anuncio de licitación en la forma prevista en el artículo 135.
-
-2. Serán de aplicación a la tramitación del procedimiento de licitación con negociación, las normas contenidas en el apartado 1 del artículo 160, y en los artículos 161, 162, 163 y 164.1 relativos al procedimiento restringido. No obstante, en caso de que se decida limitar el número de empresas a las que se invitará a negociar, el órgano de contratación y los servicios dependientes de él, en todo caso, deberán asegurarse de que el número mínimo de candidatos invitados será de tres. Cuando el número de candidatos que cumplan con los criterios de selección sea inferior a ese número mínimo, el órgano de contratación podrá continuar el procedimiento con los que reúnen las condiciones exigidas, sin que pueda invitarse a empresarios que no hayan solicitado participar en el mismo, o a candidatos que no posean esas condiciones.
+1. Cuando se acuda al procedimiento de licitación con negociación por concurrir las circunstancias previstas en el artículo 167, el órgano de contratación, en todo caso, deberá publicar un anuncio de licitación en la forma prevista en el artículo 135. 2. Serán de aplicación a la tramitación del procedimiento de licitación con negociación, las normas contenidas en el apartado 1 del artículo 160, y en los artículos 161, 162, 163 y 164.1 relativos al procedimiento restringido. No obstante, en caso de que se decida limitar el número de empresas a las que se invitará a negociar, el órgano de contratación y los servicios dependientes de él, en todo caso, deberán asegurarse de que el número mínimo de candidatos invitados será de tres. Cuando el número de candidatos que cumplan con los criterios de selección sea inferior a ese número mínimo, el órgano de contratación podrá continuar el procedimiento con los que reúnen las condiciones exigidas, sin que pueda invitarse a empresarios que no hayan solicitado participar en el mismo, o a candidatos que no posean esas condiciones.
 
 3. Los órganos de contratación podrán articular el procedimiento regulado en el presente artículo en fases sucesivas, a fin de reducir progresivamente el número de ofertas a negociar mediante la aplicación de los criterios de adjudicación señalados en el anuncio de licitación o en el pliego de cláusulas administrativas particulares, indicándose en estos si se va a hacer uso de esta facultad. El número de soluciones que lleguen hasta la fase final deberá ser lo suficientemente amplio como para garantizar una competencia efectiva, siempre que se hayan presentado un número suficiente de soluciones o de candidatos adecuados.
 
@@ -4646,9 +4496,7 @@ e) En los contratos de obras y de servicios, además, cuando las obras o servici
 
 Los órganos de contratación informarán por escrito a todos los licitadores cuyas ofertas no hayan sido excluidas, de todo cambio en las especificaciones técnicas u otra documentación de la contratación que no establezca los requisitos mínimos a que se refiere el artículo 166, y les darán plazo suficiente para que presenten una nueva oferta revisada.
 
-5. Los órganos de contratación, en su caso, a través de los servicios técnicos de ellos dependientes, negociarán con los licitadores las ofertas iniciales y todas las ofertas ulteriores presentadas por éstos, excepto las ofertas definitivas a que se refiere el apartado octavo del presente artículo, que estos hayan presentado para mejorar su contenido y para adaptarlas a los requisitos indicados en el pliego de cláusulas administrativas particulares y en el anuncio de licitación, en su caso, y en los posibles documentos complementarios, con el fin de identificar la mejor oferta, de conformidad con lo previsto en el artículo 145.
-
-No se negociarán los requisitos mínimos de la prestación objeto del contrato ni tampoco los criterios de adjudicación.
+5. Los órganos de contratación, en su caso, a través de los servicios técnicos de ellos dependientes, negociarán con los licitadores las ofertas iniciales y todas las ofertas ulteriores presentadas por éstos, excepto las ofertas definitivas a que se refiere el apartado octavo del presente artículo, que estos hayan presentado para mejorar su contenido y para adaptarlas a los requisitos indicados en el pliego de cláusulas administrativas particulares y en el anuncio de licitación, en su caso, y en los posibles documentos complementarios, con el fin de identificar la mejor oferta, de conformidad con lo previsto en el artículo 145. No se negociarán los requisitos mínimos de la prestación objeto del contrato ni tampoco los criterios de adjudicación.
 
 6. En el expediente deberá dejarse constancia de las invitaciones cursadas, de las ofertas recibidas, de las razones para su aceptación o rechazo y de las ventajas obtenidas en la negociación.
 
@@ -4662,15 +4510,11 @@ No se negociarán los requisitos mínimos de la prestación objeto del contrato 
 
 tramitarán con arreglo a las normas que establece el artículo 169, en todo lo que resulten de aplicación según el número de participantes que concurran en cada caso, a excepción de lo relativo a la publicidad previa.
 
-2. Cuando únicamente participe un candidato, la mesa de contratación, o en su defecto, el órgano de contratación, siempre y cuando sea posible, deberá negociar con él en los términos que se señalan en el apartado 5 del artículo 169.
-
-#### Artículo 171. Información a los licitadores.
+2. Cuando únicamente participe un candidato, la mesa de contratación, o en su defecto, el órgano de contratación, siempre y cuando sea posible, deberá negociar con él en los términos que se señalan en el apartado 5 del artículo 169. #### Artículo 171. Información a los licitadores.
 
 A petición del licitador que haya presentado una oferta admisible, la mesa de contratación, o en su defecto, los servicios dependientes del órgano de contratación, comunicará lo antes posible y en todo caso dentro de los quince días siguientes al de recepción de la solicitud por escrito de aquel, el desarrollo de las negociaciones.
 
-No obstante lo anterior, la mesa o en su defecto, el órgano de contratación, podrá no comunicar determinados datos amparándose en la excepción de confidencialidad contenida en el apartado 3 del artículo 155.
-
-**Subsección 5.ª Diálogo competitivo**
+No obstante lo anterior, la mesa o en su defecto, el órgano de contratación, podrá no comunicar determinados datos amparándose en la excepción de confidencialidad contenida en el apartado 3 del artículo 155. **Subsección 5.ª Diálogo competitivo**
 
 #### Artículo 172. Caracterización.
 
@@ -4714,9 +4558,7 @@ Cuando, con arreglo a lo dispuesto en el apartado 2 del artículo 138, estuviera
 
 2. Durante el diálogo, la mesa dará un trato igual a todos los licitadores y, en particular, no facilitará, de forma discriminatoria, información que pueda dar ventajas a determinados licitadores con respecto al resto.
 
-La mesa no podrá revelar a los demás participantes las soluciones propuestas por un participante u otros datos confidenciales que este les comunique sin previo consentimiento de este, en los términos establecidos en el apartado 7 del artículo 169.
-
-3. El procedimiento podrá articularse en fases sucesivas, a fin de reducir progresivamente el número de soluciones a examinar durante la fase de diálogo mediante la aplicación de los criterios de adjudicación indicados en el anuncio de licitación o en el documento descriptivo, indicándose en estos si se va a hacer uso de esta posibilidad.
+La mesa no podrá revelar a los demás participantes las soluciones propuestas por un participante u otros datos confidenciales que este les comunique sin previo consentimiento de este, en los términos establecidos en el apartado 7 del artículo 169. 3. El procedimiento podrá articularse en fases sucesivas, a fin de reducir progresivamente el número de soluciones a examinar durante la fase de diálogo mediante la aplicación de los criterios de adjudicación indicados en el anuncio de licitación o en el documento descriptivo, indicándose en estos si se va a hacer uso de esta posibilidad.
 
 El número de soluciones que se examinen en la fase final deberá ser lo suficientemente amplio como para garantizar una competencia efectiva entre ellas, siempre que se hayan presentado un número suficiente de soluciones o de candidatos adecuados.
 
@@ -4734,9 +4576,7 @@ Tras declarar cerrado el diálogo por el órgano de contratación e informar de 
 
 La mesa podrá solicitar precisiones o aclaraciones sobre las ofertas presentadas, ajustes en las mismas o información complementaria relativa a ellas, siempre que ello no suponga una modificación de los elementos fundamentales de la oferta o de la licitación pública, en particular de las necesidades y de los requisitos establecidos en el anuncio de licitación o en el documento descriptivo, cuando implique una variación que pueda falsear la competencia o tener un efecto discriminatorio.
 
-2. La mesa evaluará las ofertas presentadas por los licitadores en función de los criterios de adjudicación establecidos en el anuncio de licitación o en el documento descriptivo y seleccionará la oferta que presente la mejor relación calidad precio de acuerdo con la letra b) del apartado 3 del artículo 145.
-
-3. La mesa podrá llevar a cabo negociaciones con el licitador cuya oferta se considere que presenta la mejor relación calidad-precio de acuerdo con la letra b) del apartado 3 del artículo 145 con.
+2. La mesa evaluará las ofertas presentadas por los licitadores en función de los criterios de adjudicación establecidos en el anuncio de licitación o en el documento descriptivo y seleccionará la oferta que presente la mejor relación calidad precio de acuerdo con la letra b) del apartado 3 del artículo 145. 3. La mesa podrá llevar a cabo negociaciones con el licitador cuya oferta se considere que presenta la mejor relación calidad-precio de acuerdo con la letra b) del apartado 3 del artículo 145 con.
 
 el fin de confirmar compromisos financieros u otras condiciones contenidas en la oferta, para lo cual se ultimarán las condiciones del contrato, siempre que con ello no se modifiquen elementos sustanciales de la oferta o de la licitación pública, en particular las necesidades y los requisitos establecidos en el anuncio de licitación o en el documento descriptivo, y no conlleve un riesgo de falseamiento de la competencia ni tenga un efecto discriminatorio.
 
@@ -4776,9 +4616,7 @@ Los órganos de contratación podrán limitar el número de candidatos aptos que
 
 1. Concluida la selección de los candidatos, el órgano de contratación les invitará a presentar sus proyectos de investigación e innovación para responder a las necesidades a cubrir.
 
-2. Los contratos se adjudicarán únicamente con arreglo al criterio de la mejor relación calidad-precio, según lo dispuesto en el artículo 145.2.
-
-3. Salvo que se disponga de otro modo, los órganos de contratación negociarán con los candidatos seleccionados las ofertas iniciales y todas las ofertas ulteriores presentadas por estos, excepto la oferta definitiva, con el fin de mejorar su contenido.
+2. Los contratos se adjudicarán únicamente con arreglo al criterio de la mejor relación calidad-precio, según lo dispuesto en el artículo 145.2. 3. Salvo que se disponga de otro modo, los órganos de contratación negociarán con los candidatos seleccionados las ofertas iniciales y todas las ofertas ulteriores presentadas por estos, excepto la oferta definitiva, con el fin de mejorar su contenido.
 
 No se negociarán los requisitos mínimos ni los criterios de adjudicación.
 
@@ -4842,9 +4680,7 @@ El valor estimado de los concursos de proyectos se calculará aplicando las sigu
 
 #### Artículo 185. Participantes.
 
-1. El órgano de contratación podrá limitar el número de participantes en el concurso de proyectos. Cuando este fuera el caso, el concurso constará de dos fases: en la primera el órgano de contratación seleccionará a los participantes de entre los candidatos que hubieren presentado solicitud de participación, mediante la aplicación de los criterios a que se refiere el apartado siguiente; y en la segunda el órgano de contratación invitará simultáneamente y por escrito a los candidatos seleccionados para que presenten sus propuestas de proyectos ante el órgano de contratación en el plazo que proceda conforme a lo señalado en el artículo 136.
-
-2. En caso de que se decida limitar el número de participantes, la selección de estos deberá efectuarse aplicando criterios objetivos, claros y no discriminatorios, que deberán figurar en las bases del concurso y en el anuncio de licitación, sin que el acceso a la participación pueda limitarse a un determinado ámbito territorial, o a personas físicas con exclusión de las jurídicas o a la inversa. En cualquier caso, al fijar el número de candidatos invitados a participar, deberá tenerse en cuenta la necesidad de garantizar una competencia real.
+1. El órgano de contratación podrá limitar el número de participantes en el concurso de proyectos. Cuando este fuera el caso, el concurso constará de dos fases: en la primera el órgano de contratación seleccionará a los participantes de entre los candidatos que hubieren presentado solicitud de participación, mediante la aplicación de los criterios a que se refiere el apartado siguiente; y en la segunda el órgano de contratación invitará simultáneamente y por escrito a los candidatos seleccionados para que presenten sus propuestas de proyectos ante el órgano de contratación en el plazo que proceda conforme a lo señalado en el artículo 136. 2. En caso de que se decida limitar el número de participantes, la selección de estos deberá efectuarse aplicando criterios objetivos, claros y no discriminatorios, que deberán figurar en las bases del concurso y en el anuncio de licitación, sin que el acceso a la participación pueda limitarse a un determinado ámbito territorial, o a personas físicas con exclusión de las jurídicas o a la inversa. En cualquier caso, al fijar el número de candidatos invitados a participar, deberá tenerse en cuenta la necesidad de garantizar una competencia real.
 
 3. La segunda fase a que se refiere el apartado 1 de este artículo podrá realizarse en dos sub-fases sucesivas, a fin de reducir el número de concursantes.
 
@@ -4926,9 +4762,7 @@ Igualmente, el órgano de contratación ostenta las facultades de inspección de
 
 1. En los procedimientos que se instruyan para la adopción de acuerdos relativos a las prerrogativas establecidas en el artículo anterior, deberá darse audiencia al contratista.
 
-2. En la Administración General del Estado, sus Organismos Autónomos, Entidades Gestoras y Servicios Comunes de la Seguridad Social y demás Administraciones Públicas integrantes del sector público estatal, los acuerdos a que se refiere el apartado anterior deberán ser adoptados previo informe del Servicio Jurídico correspondiente, salvo en los casos previstos en los artículos 109 y 195.
-
-3. No obstante lo anterior, será preceptivo el dictamen del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma respectiva en los casos y respecto de los contratos que se indican a continuación:
+2. En la Administración General del Estado, sus Organismos Autónomos, Entidades Gestoras y Servicios Comunes de la Seguridad Social y demás Administraciones Públicas integrantes del sector público estatal, los acuerdos a que se refiere el apartado anterior deberán ser adoptados previo informe del Servicio Jurídico correspondiente, salvo en los casos previstos en los artículos 109 y 195. 3. No obstante lo anterior, será preceptivo el dictamen del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma respectiva en los casos y respecto de los contratos que se indican a continuación:
 
 a) La interpretación, nulidad y resolución de los contratos, cuando se formule oposición por parte del contratista.
 
@@ -4988,9 +4822,7 @@ El órgano de contratación podrá acordar la inclusión en el pliego de cláusu
 
 #### Artículo 197. Principio de riesgo y ventura.
 
-La ejecución del contrato se realizará a riesgo y ventura del contratista, sin perjuicio de lo establecido para el contrato de obras en el artículo 239.
-
-#### Artículo 198. Pago del precio.
+La ejecución del contrato se realizará a riesgo y ventura del contratista, sin perjuicio de lo establecido para el contrato de obras en el artículo 239. #### Artículo 198. Pago del precio.
 
 1. El contratista tendrá derecho al abono del precio convenido por la prestación realizada en los términos establecidos en esta Ley y en el contrato.
 
@@ -5044,9 +4876,7 @@ Los órganos de contratación tomarán las medidas pertinentes para garantizar q
 
 Lo indicado en el párrafo anterior se establece sin perjuicio de la potestad de los órganos de contratación de tomar las oportunas medidas para comprobar, durante el procedimiento de licitación, que los candidatos y licitadores cumplen las obligaciones a que se refiere el citado párrafo.
 
-El incumplimiento de las obligaciones referidas en el primer párrafo y, en especial, los incumplimientos o los retrasos reiterados en el pago de los salarios o la aplicación de condiciones salariales inferiores a las derivadas de los convenios colectivos que sea grave y dolosa, dará lugar a la imposición de las penalidades a que se refiere el artículo 192.
-
-#### Artículo 202. Condiciones especiales de ejecución del contrato de carácter social, ético, medioambiental o de otro orden.
+El incumplimiento de las obligaciones referidas en el primer párrafo y, en especial, los incumplimientos o los retrasos reiterados en el pago de los salarios o la aplicación de condiciones salariales inferiores a las derivadas de los convenios colectivos que sea grave y dolosa, dará lugar a la imposición de las penalidades a que se refiere el artículo 192. #### Artículo 202. Condiciones especiales de ejecución del contrato de carácter social, ético, medioambiental o de otro orden.
 
 1. Los órganos de contratación podrán establecer condiciones especiales en relación con la ejecución del contrato, siempre que estén vinculadas al objeto del contrato, en el sentido del artículo 145, no sean directa o indirectamente discriminatorias, sean compatibles con el derecho comunitario y se indiquen en el anuncio de licitación y en los pliegos.
 
@@ -5060,29 +4890,21 @@ Las consideraciones de tipo social o relativas al empleo, podrán introducirse, 
 
 Tratado de Funcionamiento de la Unión Europea; o garantizar el respeto a los derechos laborales básicos a lo largo de la cadena de producción mediante la exigencia del cumplimiento de las Convenciones fundamentales de la Organización Internacional del Trabajo, incluidas aquellas consideraciones que busquen favorecer a los pequeños productores de países en desarrollo, con los que se mantienen relaciones comerciales que les son favorables tales como el pago de un precio mínimo y una prima a los productores o una mayor transparencia y trazabilidad de toda la cadena comercial.
 
-3. Los pliegos podrán establecer penalidades, conforme a lo previsto en el apartado 1 del artículo 192, para el caso de incumplimiento de estas condiciones especiales de ejecución, o atribuirles el carácter de obligaciones contractuales esenciales a los efectos señalados en la letra f) del artículo 211. Cuando el incumplimiento de estas condiciones no se tipifique como causa de resolución del contrato, el mismo podrá ser considerado en los pliegos, en los términos que se establezcan reglamentariamente, como infracción grave a los efectos establecidos en la letra c) del apartado 2 del artículo 71.
-
-4. Todas las condiciones especiales de ejecución que formen parte del contrato serán exigidas igualmente a todos los subcontratistas que participen de la ejecución del mismo.
+3. Los pliegos podrán establecer penalidades, conforme a lo previsto en el apartado 1 del artículo 192, para el caso de incumplimiento de estas condiciones especiales de ejecución, o atribuirles el carácter de obligaciones contractuales esenciales a los efectos señalados en la letra f) del artículo 211. Cuando el incumplimiento de estas condiciones no se tipifique como causa de resolución del contrato, el mismo podrá ser considerado en los pliegos, en los términos que se establezcan reglamentariamente, como infracción grave a los efectos establecidos en la letra c) del apartado 2 del artículo 71. 4. Todas las condiciones especiales de ejecución que formen parte del contrato serán exigidas igualmente a todos los subcontratistas que participen de la ejecución del mismo.
 
 **Subsección 4.ª Modificación de los contratos**
 
 #### Artículo 203. Potestad de modificación del contrato.
 
-1. Sin perjuicio de los supuestos previstos en esta Ley respecto a la sucesión en la persona del contratista, cesión del contrato, revisión de precios y ampliación del plazo de ejecución, los contratos administrativos solo podrán ser modificados por razones de interés público en los casos y en la forma previstos en esta Subsección, y de acuerdo con el procedimiento regulado en el artículo 191, con las particularidades previstas en el artículo 207.
-
-2. Los contratos administrativos celebrados por los órganos de contratación solo podrán modificarse durante su vigencia cuando se dé alguno de los siguientes supuestos:
+1. Sin perjuicio de los supuestos previstos en esta Ley respecto a la sucesión en la persona del contratista, cesión del contrato, revisión de precios y ampliación del plazo de ejecución, los contratos administrativos solo podrán ser modificados por razones de interés público en los casos y en la forma previstos en esta Subsección, y de acuerdo con el procedimiento regulado en el artículo 191, con las particularidades previstas en el artículo 207. 2. Los contratos administrativos celebrados por los órganos de contratación solo podrán modificarse durante su vigencia cuando se dé alguno de los siguientes supuestos:
 
 a) Cuando así se haya previsto en el pliego de cláusulas administrativas particulares, en los términos y condiciones establecidos en el artículo 204;
 
-b) Excepcionalmente, cuando sea necesario realizar una modificación que no esté prevista en el pliego de cláusulas administrativas particulares, siempre y cuando se cumplan las condiciones que establece el artículo 205.
-
-En cualesquiera otros supuestos, si fuese necesario que un contrato en vigor se ejecutase en forma distinta a la pactada, deberá procederse a su resolución y a la celebración de otro bajo las condiciones pertinentes, en su caso previa convocatoria y sustanciación de una nueva licitación pública de conformidad con lo establecido en esta Ley, sin perjuicio de lo dispuesto en el apartado 6 del artículo 213 respecto.
+b) Excepcionalmente, cuando sea necesario realizar una modificación que no esté prevista en el pliego de cláusulas administrativas particulares, siempre y cuando se cumplan las condiciones que establece el artículo 205. En cualesquiera otros supuestos, si fuese necesario que un contrato en vigor se ejecutase en forma distinta a la pactada, deberá procederse a su resolución y a la celebración de otro bajo las condiciones pertinentes, en su caso previa convocatoria y sustanciación de una nueva licitación pública de conformidad con lo establecido en esta Ley, sin perjuicio de lo dispuesto en el apartado 6 del artículo 213 respecto.
 
 de la obligación del contratista de adoptar medidas que resulten necesarias por razones de seguridad, servicio público o posible ruina.
 
-3. Las modificaciones del contrato deberán formalizarse conforme a lo dispuesto en el artículo 153, y deberán publicarse de acuerdo con lo establecido en los artículos 207 y 63.
-
-#### Artículo 204. Modificaciones previstas en el pliego de cláusulas administrativas particulares.
+3. Las modificaciones del contrato deberán formalizarse conforme a lo dispuesto en el artículo 153, y deberán publicarse de acuerdo con lo establecido en los artículos 207 y 63. #### Artículo 204. Modificaciones previstas en el pliego de cláusulas administrativas particulares.
 
 1. Los contratos de las Administraciones Públicas podrán modificarse durante su vigencia hasta un máximo del veinte por ciento del precio inicial cuando en los pliegos de cláusulas administrativas particulares se hubiere advertido expresamente de esta posibilidad, en la forma y con el contenido siguientes:
 
@@ -5136,17 +4958,13 @@ En todo caso se considerará que se da el supuesto previsto en el párrafo anter
 
 En todo caso se considerará que se da el supuesto previsto en el párrafo anterior cuando:
 
-(i) El valor de la modificación suponga una alteración en la cuantía del contrato que exceda, aislada o conjuntamente, del 15 por ciento del precio inicial del mismo, IVA excluido, si se trata del contrato de obras o de un 10 por ciento, IVA excluido, cuando se refiera a los demás contratos, o bien que supere el umbral que en función del tipo de contrato resulte de aplicación de entre los señalados en los artículos 20 a 23.
-
-(ii) Las obras, servicios o suministros objeto de modificación se hallen dentro del ámbito de otro contrato, actual o futuro, siempre que se haya iniciado la tramitación del expediente de contratación.
+(i) El valor de la modificación suponga una alteración en la cuantía del contrato que exceda, aislada o conjuntamente, del 15 por ciento del precio inicial del mismo, IVA excluido, si se trata del contrato de obras o de un 10 por ciento, IVA excluido, cuando se refiera a los demás contratos, o bien que supere el umbral que en función del tipo de contrato resulte de aplicación de entre los señalados en los artículos 20 a 23. (ii) Las obras, servicios o suministros objeto de modificación se hallen dentro del ámbito de otro contrato, actual o futuro, siempre que se haya iniciado la tramitación del expediente de contratación.
 
 #### Artículo 206. Obligatoriedad de las modificaciones del contrato.
 
 1. En los supuestos de modificación del contrato recogidas en el artículo 205, las modificaciones acordadas por el órgano de contratación serán obligatorias para los contratistas cuando impliquen, aislada o conjuntamente, una alteración en su cuantía que no exceda del 20 por ciento del precio inicial del contrato, IVA excluido.
 
-2. Cuando de acuerdo con lo dispuesto en el apartado anterior la modificación no resulte obligatoria para el contratista, la misma solo será acordada por el órgano de contratación previa conformidad por escrito del mismo, resolviéndose el contrato, en caso contrario, de conformidad con lo establecido en la letra g) del apartado 1 del artículo 211.
-
-#### Artículo 207. Especialidades procedimentales.
+2. Cuando de acuerdo con lo dispuesto en el apartado anterior la modificación no resulte obligatoria para el contratista, la misma solo será acordada por el órgano de contratación previa conformidad por escrito del mismo, resolviéndose el contrato, en caso contrario, de conformidad con lo establecido en la letra g) del apartado 1 del artículo 211. #### Artículo 207. Especialidades procedimentales.
 
 1. En el caso previsto en el artículo 204 las.
 
@@ -5160,9 +4978,7 @@ publicar en el «Diario Oficial de la Unión Europea» el correspondiente anunci
 
 Asimismo los órganos de contratación que hubieren modificado un contrato durante su vigencia, con independencia de si este está o no sujeto a regulación armonizada y de la causa que justifique la modificación, deberán publicar en todo caso un anuncio de modificación en el perfil de contratante del órgano de contratación en el plazo de 5 días desde la aprobación de la misma, que deberá ir acompañado de las alegaciones del contratista y de todos los informes que, en su caso, se hubieran recabado con carácter previo a su aprobación, incluidos aquellos aportados por el adjudicatario o los emitidos por el propio órgano de contratación.
 
-4. Lo dispuesto en este artículo se entiende sin perjuicio de lo establecido en el artículo 191.
-
-**Subsección 5.ª Suspensión y extinción de los contratos**
+4. Lo dispuesto en este artículo se entiende sin perjuicio de lo establecido en el artículo 191. **Subsección 5.ª Suspensión y extinción de los contratos**
 
 #### Artículo 208. Suspensión de los contratos.
 
@@ -5220,9 +5036,7 @@ En todo caso el retraso injustificado sobre el plan de trabajos establecido en e
 
 e) La demora en el pago por parte de la Administración por plazo superior al establecido en el apartado 6 del artículo 198 o el.
 
-inferior que se hubiese fijado al amparo de su apartado 8.
-
-f) El incumplimiento de la obligación principal del contrato.
+inferior que se hubiese fijado al amparo de su apartado 8. f) El incumplimiento de la obligación principal del contrato.
 
 Serán, asimismo causas de resolución del contrato, el incumplimiento de las restantes obligaciones esenciales siempre que estas últimas hubiesen sido calificadas como tales en los pliegos o en el correspondiente documento descriptivo, cuando concurran los dos requisitos siguientes:
 
@@ -5262,13 +5076,9 @@ En los restantes casos, la resolución podrá instarse por aquella parte a la qu
 
 En todo caso se entenderá que son garantías suficientes:
 
-a) Una garantía complementaria de al menos un 5 por 100 del precio del contrato, que deberá prestarse en cualquiera de las formas contempladas en el artículo 108.
+a) Una garantía complementaria de al menos un 5 por 100 del precio del contrato, que deberá prestarse en cualquiera de las formas contempladas en el artículo 108. b) El depósito de una cantidad en concepto de fianza, que se realizará de conformidad con lo establecido en el artículo 108.1, letra a), y que quedará constituida como cláusula penal para el caso de incumplimiento por parte del contratista.
 
-b) El depósito de una cantidad en concepto de fianza, que se realizará de conformidad con lo establecido en el artículo 108.1, letra a), y que quedará constituida como cláusula penal para el caso de incumplimiento por parte del contratista.
-
-6. En el supuesto de demora a que se refiere la letra d) del apartado primero del artículo anterior, si las penalidades a que diere lugar la demora en el cumplimiento del plazo alcanzasen un múltiplo del 5 por ciento del precio del contrato, IVA excluido, se estará a lo dispuesto en el apartado 4 del artículo 193.
-
-7. El incumplimiento de las obligaciones derivadas del contrato por parte de la Administración originará la resolución de aquel solo en los casos previstos en esta Ley.
+6. En el supuesto de demora a que se refiere la letra d) del apartado primero del artículo anterior, si las penalidades a que diere lugar la demora en el cumplimiento del plazo alcanzasen un múltiplo del 5 por ciento del precio del contrato, IVA excluido, se estará a lo dispuesto en el apartado 4 del artículo 193. 7. El incumplimiento de las obligaciones derivadas del contrato por parte de la Administración originará la resolución de aquel solo en los casos previstos en esta Ley.
 
 8. Los expedientes de resolución contractual deberán ser instruidos y resueltos en el plazo máximo de ocho meses.
 
@@ -5280,9 +5090,7 @@ b) El depósito de una cantidad en concepto de fianza, que se realizará de conf
 
 3. Cuando el contrato se resuelva por incumplimiento culpable del contratista le será incautada la garantía y deberá, además, indemnizar a la Administración los daños y perjuicios ocasionados en lo que excedan del importe de la garantía incautada.
 
-4. Cuando la resolución se acuerde por las causas recogidas en la letra g) del artículo 211, el contratista tendrá derecho a una indemnización del 3 por ciento del importe de la prestación dejada de realizar, salvo que la causa sea imputable al contratista o este rechace la modificación contractual propuesta por la Administración al amparo del artículo 205.
-
-5. En todo caso el acuerdo de resolución contendrá pronunciamiento expreso acerca de la procedencia o no de la pérdida, devolución o cancelación de la garantía que, en su caso, hubiese sido constituida.
+4. Cuando la resolución se acuerde por las causas recogidas en la letra g) del artículo 211, el contratista tendrá derecho a una indemnización del 3 por ciento del importe de la prestación dejada de realizar, salvo que la causa sea imputable al contratista o este rechace la modificación contractual propuesta por la Administración al amparo del artículo 205. 5. En todo caso el acuerdo de resolución contendrá pronunciamiento expreso acerca de la procedencia o no de la pérdida, devolución o cancelación de la garantía que, en su caso, hubiese sido constituida.
 
 6. Al tiempo de incoarse el expediente administrativo de resolución del contrato por las causas establecidas en las letras b), d), f) y g) del apartado 1 del artículo 211, podrá iniciarse el procedimiento para la adjudicación del nuevo contrato, si bien la adjudicación de este quedará condicionada a la terminación del expediente de resolución. Se aplicará la tramitación de urgencia a ambos procedimientos.
 
@@ -5326,9 +5134,7 @@ En ningún caso la limitación de la subcontratación podrá suponer que se prod
 
 a) Si así se prevé en los pliegos, los licitadores deberán indicar en la oferta la parte del contrato que tengan previsto subcontratar, señalando su importe, y el nombre o el perfil empresarial, definido por referencia a las condiciones de solvencia profesional o técnica, de los subcontratistas a los que se vaya a encomendar su realización.
 
-b) En todo caso, el contratista deberá comunicar por escrito, tras la adjudicación del contrato y, a más tardar, cuando inicie la ejecución de este, al órgano de contratación la intención de celebrar los subcontratos, señalando la parte de la prestación que se pretende subcontratar y la identidad, datos de contacto y representante o representantes legales del subcontratista, y justificando suficientemente la aptitud de este para ejecutarla por referencia a los elementos técnicos y humanos de que dispone y a su experiencia, y acreditando que el mismo no se encuentra incurso en prohibición de contratar de acuerdo con el artículo 71.
-
-El contratista principal deberá notificar por escrito al órgano de contratación cualquier modificación que sufra esta información durante la ejecución del contrato principal, y toda la información necesaria sobre los nuevos subcontratistas.
+b) En todo caso, el contratista deberá comunicar por escrito, tras la adjudicación del contrato y, a más tardar, cuando inicie la ejecución de este, al órgano de contratación la intención de celebrar los subcontratos, señalando la parte de la prestación que se pretende subcontratar y la identidad, datos de contacto y representante o representantes legales del subcontratista, y justificando suficientemente la aptitud de este para ejecutarla por referencia a los elementos técnicos y humanos de que dispone y a su experiencia, y acreditando que el mismo no se encuentra incurso en prohibición de contratar de acuerdo con el artículo 71. El contratista principal deberá notificar por escrito al órgano de contratación cualquier modificación que sufra esta información durante la ejecución del contrato principal, y toda la información necesaria sobre los nuevos subcontratistas.
 
 En el caso que el subcontratista tuviera la clasificación adecuada para realizar la parte del contrato objeto de la subcontratación, la comunicación de esta circunstancia será suficiente para acreditar la aptitud del mismo.
 
@@ -5346,15 +5152,9 @@ e) De conformidad con lo establecido en el apartado 4 del artículo 75, en los c
 
 a) La imposición al contratista de una penalidad de hasta un 50 por 100 del importe del subcontrato.
 
-b) La resolución del contrato, siempre y cuando se cumplan los requisitos establecidos en el segundo párrafo de la letra f) del apartado 1 del artículo 211.
+b) La resolución del contrato, siempre y cuando se cumplan los requisitos establecidos en el segundo párrafo de la letra f) del apartado 1 del artículo 211. 4. Los subcontratistas quedarán obligados solo ante el contratista principal que asumirá, por tanto, la total responsabilidad de la ejecución del contrato frente a la Administración, con arreglo estricto a los pliegos de cláusulas administrativas particulares o documento descriptivo, y a los términos del contrato, incluido el cumplimiento de las obligaciones en materia medioambiental, social o laboral a que se refiere el artículo 201. El conocimiento que tenga la Administración de los subcontratos celebrados en virtud de las comunicaciones a que se refieren las letras b) y c) del apartado 2 de este artículo, o la autorización que otorgue en el supuesto previsto en la letra d) de dicho apartado, no alterarán la responsabilidad exclusiva del contratista principal.
 
-4. Los subcontratistas quedarán obligados solo ante el contratista principal que asumirá, por tanto, la total responsabilidad de la ejecución del contrato frente a la Administración, con arreglo estricto a los pliegos de cláusulas administrativas particulares o documento descriptivo, y a los términos del contrato, incluido el cumplimiento de las obligaciones en materia medioambiental, social o laboral a que se refiere el artículo 201.
-
-El conocimiento que tenga la Administración de los subcontratos celebrados en virtud de las comunicaciones a que se refieren las letras b) y c) del apartado 2 de este artículo, o la autorización que otorgue en el supuesto previsto en la letra d) de dicho apartado, no alterarán la responsabilidad exclusiva del contratista principal.
-
-5. En ningún caso podrá concertarse por el contratista la ejecución parcial del contrato con personas inhabilitadas para contratar de acuerdo con el ordenamiento jurídico o comprendidas en alguno de los supuestos del artículo 71.
-
-6. El contratista deberá informar a los representantes de los trabajadores de la subcontratación, de acuerdo con la legislación laboral.
+5. En ningún caso podrá concertarse por el contratista la ejecución parcial del contrato con personas inhabilitadas para contratar de acuerdo con el ordenamiento jurídico o comprendidas en alguno de los supuestos del artículo 71. 6. El contratista deberá informar a los representantes de los trabajadores de la subcontratación, de acuerdo con la legislación laboral.
 
 7. Los subcontratos y los contratos de suministro a que se refieren los artículos 215 a 217 tendrán en todo caso naturaleza privada.
 
@@ -5500,9 +5300,7 @@ b) Indicar en los pliegos, al menos, la naturaleza y la cantidad estimada de com
 
 c) Indicar toda división en categorías de productos, obras o servicios y las características que definen dichas categorías.
 
-d) Ofrecer un acceso libre, directo y completo, durante todo el período de vigencia del sistema, a los pliegos de la contratación, de conformidad con el artículo 138.
-
-6. La participación en el sistema será gratuita para las empresas, a las que no se podrá cargar ningún gasto.
+d) Ofrecer un acceso libre, directo y completo, durante todo el período de vigencia del sistema, a los pliegos de la contratación, de conformidad con el artículo 138. 6. La participación en el sistema será gratuita para las empresas, a las que no se podrá cargar ningún gasto.
 
 7. Los órganos de contratación informarán a la Comisión Europea de cualquier cambio del periodo de vigencia establecido en el anuncio de licitación de la siguiente forma:
 
@@ -5536,9 +5334,7 @@ Durante todo el período de vigencia del sistema dinámico de adquisición será
 
 2. Los órganos de contratación invitarán a todas las empresas que hubieran sido previamente admitidas al sistema dinámico de adquisición a presentar una oferta en cada licitación que se celebre en el marco de dicho sistema, con sujeción a lo dispuesto en el apartado 4 del artículo 162 y en.
 
-el apartado 2 del artículo 163.
-
-Cuando el sistema dinámico de adquisición se hubiera articulado en varias categorías de productos, obras o servicios, los órganos de contratación invitarán a todas las empresas que previamente hubieran sido admitidas en la categoría correspondiente.
+el apartado 2 del artículo 163. Cuando el sistema dinámico de adquisición se hubiera articulado en varias categorías de productos, obras o servicios, los órganos de contratación invitarán a todas las empresas que previamente hubieran sido admitidas en la categoría correspondiente.
 
 3. El plazo mínimo para la presentación de ofertas será de diez días, contados a partir de la fecha de envío de la invitación escrita.
 
@@ -5742,9 +5538,7 @@ c) Los destrozos ocasionados violentamente en tiempo de guerra, robos tumultuoso
 
 1. A los efectos del pago, la Administración expedirá mensualmente, en los primeros diez días siguientes al mes al que correspondan, certificaciones que comprendan la obra ejecutada conforme a proyecto durante dicho período de tiempo, salvo prevención en contrario en el pliego de cláusulas administrativas particulares, cuyos abonos tienen el concepto de pagos a cuenta sujetos a las rectificaciones y variaciones que se produzcan en la medición final y sin suponer en forma alguna, aprobación y recepción de las obras que comprenden.
 
-En estos abonos a cuenta se observará lo dispuesto en el párrafo segundo del apartado 2 del artículo 198.
-
-2. El contratista tendrá también derecho a percibir abonos a cuenta sobre su importe por las operaciones preparatorias realizadas como instalaciones y acopio de materiales o equipos de maquinaria pesada adscritos a la obra, en las condiciones que se señalen en los respectivos pliegos de cláusulas administrativas particulares y conforme al régimen y los límites que con carácter general se determinen reglamentariamente, debiendo asegurar los referidos pagos mediante la prestación de garantía.
+En estos abonos a cuenta se observará lo dispuesto en el párrafo segundo del apartado 2 del artículo 198. 2. El contratista tendrá también derecho a percibir abonos a cuenta sobre su importe por las operaciones preparatorias realizadas como instalaciones y acopio de materiales o equipos de maquinaria pesada adscritos a la obra, en las condiciones que se señalen en los respectivos pliegos de cláusulas administrativas particulares y conforme al régimen y los límites que con carácter general se determinen reglamentariamente, debiendo asegurar los referidos pagos mediante la prestación de garantía.
 
 #### Artículo 241. Obras a tanto alzado y obras con precio cerrado.
 
@@ -5774,9 +5568,7 @@ El adjudicatario del contrato en el plazo que determine dicho pliego deberá apo
 
 2. Cuando las modificaciones supongan la introducción de unidades de obra no previstas en el proyecto o cuyas características difieran de las fijadas en este, y no sea necesario realizar una nueva licitación, los precios aplicables a las mismas serán fijados por la Administración, previa audiencia del contratista por plazo mínimo de tres días hábiles. Cuando el contratista no aceptase los precios fijados, el órgano de contratación podrá contratarlas con otro empresario en los mismos precios que hubiese fijado, ejecutarlas directamente u optar por la resolución del contrato conforme al artículo 211 de esta Ley.
 
-3. Cuando la modificación contemple unidades de obra que hayan de quedar posterior y definitivamente ocultas, antes de efectuar la medición parcial de las mismas, deberá comunicarse a la Intervención de la Administración correspondiente, con una antelación mínima de cinco días, para que, si lo considera oportuno, pueda acudir a dicho acto en sus funciones de comprobación material de la inversión, y ello, sin perjuicio de, una vez terminadas las obras, efectuar la recepción, de conformidad con lo dispuesto en el apartado 1 del artículo 243, en relación con el apartado 2 del artículo 210.
-
-4. Cuando el Director facultativo de la obra considere necesaria una modificación del proyecto y se cumplan los requisitos que a tal efecto regula esta Ley, recabará del órgano de contratación autorización para iniciar el correspondiente expediente, que se sustanciará con las siguientes actuaciones:
+3. Cuando la modificación contemple unidades de obra que hayan de quedar posterior y definitivamente ocultas, antes de efectuar la medición parcial de las mismas, deberá comunicarse a la Intervención de la Administración correspondiente, con una antelación mínima de cinco días, para que, si lo considera oportuno, pueda acudir a dicho acto en sus funciones de comprobación material de la inversión, y ello, sin perjuicio de, una vez terminadas las obras, efectuar la recepción, de conformidad con lo dispuesto en el apartado 1 del artículo 243, en relación con el apartado 2 del artículo 210. 4. Cuando el Director facultativo de la obra considere necesaria una modificación del proyecto y se cumplan los requisitos que a tal efecto regula esta Ley, recabará del órgano de contratación autorización para iniciar el correspondiente expediente, que se sustanciará con las siguientes actuaciones:
 
 a) Redacción de la modificación del proyecto y aprobación técnica de la misma.
 
@@ -5794,17 +5586,13 @@ ii. La inclusión de precios nuevos, fijados contradictoriamente por los procedi
 
 El expediente de continuación provisional a tramitar al efecto exigirá exclusivamente la incorporación de las siguientes actuaciones:
 
-a) Propuesta técnica motivada efectuada por el director facultativo de la obra, donde figure el importe aproximado de la modificación, la descripción básica de las obras a realizar y la justificación de que la modificación se encuentra en uno de los supuestos previstos en el apartado 2 del artículo 203.
-
-b) Audiencia del contratista.
+a) Propuesta técnica motivada efectuada por el director facultativo de la obra, donde figure el importe aproximado de la modificación, la descripción básica de las obras a realizar y la justificación de que la modificación se encuentra en uno de los supuestos previstos en el apartado 2 del artículo 203. b) Audiencia del contratista.
 
 c) Conformidad del órgano de contratación.
 
 d) Certificado de existencia de crédito.
 
-e) Informe de la Oficina de Supervisión de Proyectos, en el caso de que en la propuesta técnica motivada se introdujeran precios nuevos. El informe deberá motivar la adecuación de los nuevos precios a los precios generales del mercado, de conformidad con lo establecido en el apartado 3 del artículo 102.
-
-En el plazo de seis meses contados desde el acuerdo de autorización provisional deberá estar aprobado técnicamente el proyecto, y en el de ocho meses el expediente de la modificación del contrato.
+e) Informe de la Oficina de Supervisión de Proyectos, en el caso de que en la propuesta técnica motivada se introdujeran precios nuevos. El informe deberá motivar la adecuación de los nuevos precios a los precios generales del mercado, de conformidad con lo establecido en el apartado 3 del artículo 102. En el plazo de seis meses contados desde el acuerdo de autorización provisional deberá estar aprobado técnicamente el proyecto, y en el de ocho meses el expediente de la modificación del contrato.
 
 Dentro del citado plazo de ocho meses se ejecutarán preferentemente, de las unidades de obra previstas, aquellas partes que no hayan de quedar posterior y definitivamente ocultas.
 
@@ -5992,9 +5780,7 @@ m) Distribución entre la Administración y el concesionario de los riesgos rele
 
 2. Sin perjuicio del derecho de información a que se refiere el artículo 138, el órgano de contratación podrá incluir en el pliego, en función de la naturaleza y complejidad de este, un plazo para que los licitadores puedan solicitar las aclaraciones que estimen pertinentes sobre su contenido. Este plazo, como mínimo, deberá respetar lo establecido en el apartado 3 del artículo 138. Las respuestas tendrán carácter vinculante y deberán hacerse públicas en términos que garanticen la igualdad y concurrencia en el proceso de licitación.
 
-#### Sección 2. ª Efectos, cumplimiento y extinción de las concesiones artículo 251 Efectos, cumplimiento y extinción. Los efectos, cumplimiento y extinción de los contratos de concesión de obras se regularán por la presente Ley, excluidos los artículos 208 y 210. Tampoco resultarán de aplicación, salvo en la fase de construcción, el apartado 2 del artículo 192, el artículo 193 y el artículo 195.
-
-#### Sección 3. ª Construcción de las obras objeto de concesión
+#### Sección 2. ª Efectos, cumplimiento y extinción de las concesiones artículo 251 Efectos, cumplimiento y extinción. Los efectos, cumplimiento y extinción de los contratos de concesión de obras se regularán por la presente Ley, excluidos los artículos 208 y 210. Tampoco resultarán de aplicación, salvo en la fase de construcción, el apartado 2 del artículo 192, el artículo 193 y el artículo 195. #### Sección 3. ª Construcción de las obras objeto de concesión
 
 #### Artículo 252. Modalidades de ejecución de las obras.
 
@@ -6002,9 +5788,7 @@ m) Distribución entre la Administración y el concesionario de los riesgos rele
 
 2. La ayuda de la Administración en la construcción de las obras podrá consistir en la ejecución por su cuenta de parte de la misma o en su financiación parcial. En el primer supuesto la parte de obra que ejecute deberá presentar características propias que permitan su tratamiento diferenciado, y deberá ser objeto a su terminación de la correspondiente recepción formal. Si no dispusiera otra cosa el pliego de cláusulas administrativas particulares, el importe de la obra se abonará de acuerdo con lo establecido en el artículo 240.
 
-En el segundo supuesto, el importe de la financiación que se otorgue podrá abonarse en los términos pactados, durante la ejecución de las obras, de acuerdo con lo establecido en el artículo 240, o bien una vez que aquellas hayan concluido, en la forma en que se especifica en el artículo 266.
-
-3. El sistema de ayudas públicas deberá respetar en todo caso la transferencia efectiva del riesgo operacional.
+En el segundo supuesto, el importe de la financiación que se otorgue podrá abonarse en los términos pactados, durante la ejecución de las obras, de acuerdo con lo establecido en el artículo 240, o bien una vez que aquellas hayan concluido, en la forma en que se especifica en el artículo 266. 3. El sistema de ayudas públicas deberá respetar en todo caso la transferencia efectiva del riesgo operacional.
 
 #### Artículo 253. Responsabilidad en la ejecución de las obras por terceros.
 
@@ -6160,9 +5944,7 @@ Los límites establecidos para las penalizaciones serán los fijados en el párr
 
 #### Artículo 265. Financiación de las obras.
 
-1. Las obras objeto de concesión serán financiadas, total o parcialmente, por el concesionario que, en todo caso, asumirá el riesgo operacional en los términos definidos en el apartado cuarto del artículo 14.
-
-2. Cuando existan razones de rentabilidad económica o social, o concurran singulares exigencias derivadas del fin público o interés general de las obras objeto de concesión, la Administración podrá también aportar recursos públicos para su financiación, que adoptará la forma de financiación conjunta de la obra, mediante subvenciones o préstamos reintegrables, con o sin interés, de acuerdo con lo establecido en el artículo 252 y en.
+1. Las obras objeto de concesión serán financiadas, total o parcialmente, por el concesionario que, en todo caso, asumirá el riesgo operacional en los términos definidos en el apartado cuarto del artículo 14. 2. Cuando existan razones de rentabilidad económica o social, o concurran singulares exigencias derivadas del fin público o interés general de las obras objeto de concesión, la Administración podrá también aportar recursos públicos para su financiación, que adoptará la forma de financiación conjunta de la obra, mediante subvenciones o préstamos reintegrables, con o sin interés, de acuerdo con lo establecido en el artículo 252 y en.
 
 esta Sección, y de conformidad con las previsiones del correspondiente pliego de cláusulas administrativas particulares, debiendo respetarse en todo caso el principio de asunción del riesgo operacional por el concesionario.
 
@@ -6218,13 +6000,9 @@ Los licitadores deberán presentar el correspondiente plan económico-financiero
 
 2. Se deberá restablecer el equilibrio económico del contrato, en beneficio de la parte que corresponda, en los siguientes supuestos:
 
-a) Cuando la Administración realice una modificación de las señaladas en el artículo 262.
+a) Cuando la Administración realice una modificación de las señaladas en el artículo 262. b) Cuando actuaciones de la Administración Pública concedente, por su carácter obligatorio para el concesionario determinaran de forma directa la ruptura sustancial de la economía del contrato.
 
-b) Cuando actuaciones de la Administración Pública concedente, por su carácter obligatorio para el concesionario determinaran de forma directa la ruptura sustancial de la economía del contrato.
-
-Fuera de los casos previstos en las letras anteriores, únicamente procederá el restablecimiento del equilibrio económico del contrato cuando causas de fuerza mayor determinaran de forma directa la ruptura sustancial de la economía del contrato. A estos efectos, se entenderá por causas de fuerza mayor las enumeradas en el artículo 239.
-
-En todo caso, no existirá derecho al restablecimiento del equilibrio económico financiero por incumplimiento de las previsiones de la demanda recogidas en el estudio de la Administración o en el estudio que haya podido realizar el concesionario.
+Fuera de los casos previstos en las letras anteriores, únicamente procederá el restablecimiento del equilibrio económico del contrato cuando causas de fuerza mayor determinaran de forma directa la ruptura sustancial de la economía del contrato. A estos efectos, se entenderá por causas de fuerza mayor las enumeradas en el artículo 239. En todo caso, no existirá derecho al restablecimiento del equilibrio económico financiero por incumplimiento de las previsiones de la demanda recogidas en el estudio de la Administración o en el estudio que haya podido realizar el concesionario.
 
 3. En los supuestos previstos en el apartado anterior, el restablecimiento del equilibrio económico del contrato se realizará mediante la adopción de las medidas que en cada caso procedan. Estas medidas podrán consistir en la modificación de las tarifas establecidas por la utilización de las obras, la modificación en la retribución a abonar por la Administración concedente, la reducción del plazo concesional, y, en general, en cualquier modificación de las cláusulas de contenido económico incluidas en el contrato. Asimismo, en los casos previstos en la letra b) y en el último párrafo del apartado 2 anterior, y siempre que la retribución del concesionario proviniere en más de un 50 por ciento de tarifas abonadas por los usuarios, podrá prorrogarse el plazo de la concesión por un período que no exceda de un 15 por ciento de su duración inicial.
 
@@ -6380,11 +6158,7 @@ f) El secuestro o intervención de la concesión por un plazo superior al establ
 
 1. En los supuestos de resolución por causa imputable a la Administración, esta abonará en todo caso al concesionario el importe de las inversiones realizadas por razón de la expropiación de terrenos, ejecución de obras de construcción y adquisición de bienes que sean necesarios para la explotación de la obra objeto de la concesión, atendiendo a su grado de amortización. Al efecto, se aplicará un criterio de amortización lineal. La cantidad resultante se fijará dentro del plazo de tres meses, salvo que se estableciera otro en el pliego de cláusulas administrativas particulares.
 
-En los casos en que la resolución se produzca por causas no imputables a la Administración, el importe a abonar al concesionario por cualquiera de las causas posibles será el que resulte de la valoración de la concesión, determinado conforme lo dispuesto en el artículo 281.
-
-En todo caso, se entenderá que la resolución de la concesión no es imputable a la Administración cuando obedezca a alguna de las causas previstas en las letras a), b) y f) del artículo 211, así como en las letras a) y f) del artículo 279.
-
-2. Cuando el contrato se resuelva por causa imputable al concesionario, le será incautada la garantía y deberá, además, indemnizar a la Administración los daños y perjuicios ocasionados en lo que exceda del importe de la garantía incautada.
+En los casos en que la resolución se produzca por causas no imputables a la Administración, el importe a abonar al concesionario por cualquiera de las causas posibles será el que resulte de la valoración de la concesión, determinado conforme lo dispuesto en el artículo 281. En todo caso, se entenderá que la resolución de la concesión no es imputable a la Administración cuando obedezca a alguna de las causas previstas en las letras a), b) y f) del artículo 211, así como en las letras a) y f) del artículo 279. 2. Cuando el contrato se resuelva por causa imputable al concesionario, le será incautada la garantía y deberá, además, indemnizar a la Administración los daños y perjuicios ocasionados en lo que exceda del importe de la garantía incautada.
 
 3. En los supuestos de las letras b), c), d) y e) del artículo 279, y en general en los casos en que la resolución del contrato se produjera por causas imputables a la Administración y sin perjuicio de lo dispuesto en el apartado 1 de este artículo, la Administración concedente indemnizará al concesionario por los daños y perjuicios que se le irroguen.
 
@@ -6410,9 +6184,7 @@ El adjudicatario de la licitación deberá abonar el importe de esta en el plazo
 
 La convocatoria de la licitación podrá realizarse siempre que se haya incoado el expediente de resolución, si bien no podrá adjudicarse hasta que este no haya concluido. En todo caso, desde la resolución de la concesión a la apertura de las ofertas de la primera licitación no podrá transcurrir un plazo superior a tres meses.
 
-Podrá participar en la licitación todo empresario que haya obtenido la oportuna autorización administrativa en los términos previstos en el apartado 2 del artículo 275.
-
-2. El valor de la concesión, en el supuesto de que la resolución obedezca a causas no imputables a la Administración, será el que resulte de la adjudicación de las licitaciones a las que se refiere el apartado anterior.
+Podrá participar en la licitación todo empresario que haya obtenido la oportuna autorización administrativa en los términos previstos en el apartado 2 del artículo 275. 2. El valor de la concesión, en el supuesto de que la resolución obedezca a causas no imputables a la Administración, será el que resulte de la adjudicación de las licitaciones a las que se refiere el apartado anterior.
 
 En el caso de que la segunda licitación quedara desierta, el valor de la concesión será el tipo de esta, sin perjuicio de la posibilidad de presentar por el concesionario originario o acreedores titulares al menos de un 5 por ciento del pasivo exigible de la concesionaria, en el plazo máximo de tres meses a contar desde que quedó desierta, un nuevo comprador que abone al menos el citado tipo de licitación, en cuyo caso el valor de la concesión será el importe abonado por el nuevo comprador.
 
@@ -6478,9 +6250,7 @@ d) Definirán los requisitos de capacidad y solvencia financiera, económica y t
 
 e) Preverán también la posibilidad de que se produzca la cesión del contrato de conformidad con lo previsto en el artículo 214, así como de las participaciones en la sociedad concesionaria cuando se constituyera una sociedad de propósito específico por los licitadores para la ejecución del contrato. Asimismo, establecerán criterios para la determinación de cuándo la cesión de las participaciones deberá considerarse por suponer un efectivo cambio de control y, en el caso de que estuviera justificado por las características del contrato, se establecerán también mecanismos de control para cesiones de participaciones en la sociedad concesionaria que no puedan equipararse a una cesión del contrato. En todo caso se considerará que se produce un efectivo cambio de control cuando se ceda el 51 por ciento de las participaciones.
 
-En los casos en que la concesión de servicios se refiera a servicios públicos, lo establecido en el presente apartado se realizará de acuerdo con las normas reguladoras del régimen jurídico del servicio a que se refiere el artículo 284.2.
-
-2. En los contratos de concesión de servicios la tramitación del expediente irá precedida de la realización y aprobación de un estudio de viabilidad de los mismos o en su caso, de un estudio de viabilidad económico-financiera, que tendrán carácter vinculante en los supuestos en que concluyan en la inviabilidad del proyecto. En los casos en que los contratos de concesión de servicios comprendan la ejecución de obras, la tramitación de aquel irá precedida, además, cuando proceda de conformidad con lo dispuesto en el artículo 248.1, de la elaboración y aprobación administrativa del Anteproyecto de construcción y explotación de las obras que resulten precisas, con especificación de las prescripciones técnicas relativas a su realización; y, además, de la redacción, supervisión, aprobación y replanteo del correspondiente proyecto de las obras.
+En los casos en que la concesión de servicios se refiera a servicios públicos, lo establecido en el presente apartado se realizará de acuerdo con las normas reguladoras del régimen jurídico del servicio a que se refiere el artículo 284.2. 2. En los contratos de concesión de servicios la tramitación del expediente irá precedida de la realización y aprobación de un estudio de viabilidad de los mismos o en su caso, de un estudio de viabilidad económico-financiera, que tendrán carácter vinculante en los supuestos en que concluyan en la inviabilidad del proyecto. En los casos en que los contratos de concesión de servicios comprendan la ejecución de obras, la tramitación de aquel irá precedida, además, cuando proceda de conformidad con lo dispuesto en el artículo 248.1, de la elaboración y aprobación administrativa del Anteproyecto de construcción y explotación de las obras que resulten precisas, con especificación de las prescripciones técnicas relativas a su realización; y, además, de la redacción, supervisión, aprobación y replanteo del correspondiente proyecto de las obras.
 
 En los supuestos en que para la viabilidad de la concesión se contemplen ayudas a la construcción o explotación de la misma, el estudio de viabilidad se pronunciará sobre la existencia de una posible ayuda de Estado y la compatibilidad de la misma con el Tratado de Funcionamiento de la Unión Europea.
 
@@ -6490,9 +6260,7 @@ En los supuestos en que para la viabilidad de la concesión se contemplen ayudas
 
 Los efectos, cumplimiento y extinción de los contratos de concesión de servicios se regularán por la presente Ley, excluidos los artículos 208 y 210. Tampoco resultarán de aplicación, salvo en la fase de construcción cuando comprenda la ejecución de obras, el apartado 2 del artículo 192, el artículo 193 y el.
 
-artículo 195.
-
-#### Sección 3. ª Ejecución del contrato de concesión de servicios
+artículo 195. #### Sección 3. ª Ejecución del contrato de concesión de servicios
 
 #### Artículo 287. Ejecución del contrato de concesión de servicios.
 
@@ -6522,9 +6290,7 @@ e) Cualesquiera otras previstas en la legislación, en el pliego de cláusulas a
 
 2. Las contraprestaciones económicas pactadas, que se denominarán tarifas y tendrán la naturaleza de prestación patrimonial de carácter público no tributario, serán revisadas, en su caso, en la forma establecida en el contrato, que se ajustará, en todo caso, a lo previsto en el Capítulo II del Título III del Libro Primero de la presente Ley, relativo a la revisión de precios en los contratos de las entidades del sector público.
 
-En la contabilidad diferenciada que el concesionario debe llevar respecto de todos los ingresos y gastos de la concesión, y que deberá estar a disposición de la entidad contratante, quedarán debidamente reflejados todos los ingresos derivados de las contraprestaciones pactadas en la forma prevista en el apartado 6 del artículo 267.
-
-3. Si así lo hubiera establecido el pliego de cláusulas administrativas particulares, el concesionario abonará a la Administración concedente un canon o participación, que se determinará y abonará en la forma y condiciones previstas en el citado pliego y en la restante documentación contractual.
+En la contabilidad diferenciada que el concesionario debe llevar respecto de todos los ingresos y gastos de la concesión, y que deberá estar a disposición de la entidad contratante, quedarán debidamente reflejados todos los ingresos derivados de las contraprestaciones pactadas en la forma prevista en el apartado 6 del artículo 267. 3. Si así lo hubiera establecido el pliego de cláusulas administrativas particulares, el concesionario abonará a la Administración concedente un canon o participación, que se determinará y abonará en la forma y condiciones previstas en el citado pliego y en la restante documentación contractual.
 
 #### Sección 4. ª Modificación del contrato de concesión de servicios
 
@@ -6570,9 +6336,7 @@ Cuando el contratista desistiera del contrato como consecuencia de lo establecid
 
 #### Artículo 292. Falta de entrega de contraprestaciones económicas y medios auxiliares.
 
-Si la Administración no hiciere efectiva al concesionario la contraprestación económica o no entregare los medios auxiliares a que se obligó en el contrato dentro de los plazos previstos en el mismo y no procediese la resolución del contrato o no la solicitase el concesionario, este tendrá derecho al interés de demora de las cantidades o valores económicos que aquellos signifiquen, de conformidad con lo establecido en el artículo 198.
-
-#### Artículo 293. Incumplimiento del concesionario.
+Si la Administración no hiciere efectiva al concesionario la contraprestación económica o no entregare los medios auxiliares a que se obligó en el contrato dentro de los plazos previstos en el mismo y no procediese la resolución del contrato o no la solicitase el concesionario, este tendrá derecho al interés de demora de las cantidades o valores económicos que aquellos signifiquen, de conformidad con lo establecido en el artículo 198. #### Artículo 293. Incumplimiento del concesionario.
 
 1. Cuando el contrato recaiga sobre un servicio público, si por causas ajenas al concesionario o bien del incumplimiento por parte de este se derivase perturbación grave y no reparable por otros medios en el servicio, la Administración podrá acordar el secuestro o intervención del mismo en los términos establecidos en el artículo 263. En todo caso, el concesionario deberá abonar a la Administración los daños y perjuicios que efectivamente le haya ocasionado.
 
@@ -6596,11 +6360,7 @@ f) El secuestro o intervención de la concesión por un plazo superior al establ
 
 1. En los supuestos de resolución por causa imputable a la Administración, esta abonará al concesionario en todo caso el importe de las inversiones realizadas por razón de la expropiación de terrenos, ejecución de obras de construcción y adquisición de bienes que sean necesarios para la explotación de los servicios objeto de concesión, atendiendo a su grado de amortización. Al efecto, se aplicara un criterio de amortización lineal de la inversión.
 
-Cuando la resolución obedezca a causas no imputables a la Administración, el importe a abonar al concesionario por razón de la expropiación de terrenos, ejecución de obras y adquisición de bienes que deban revertir a la Administración será el que resulte de la valoración de la concesión, determinado conforme lo dispuesto en el artículo 281.
-
-En todo caso, se entenderá que no es imputable a la Administración la resolución del contrato cuando esta obedezca a alguna de las causas establecidas en las letras a), b) y f) del artículo 211, así como a las causas establecidas en las letras a) y f) del artículo 294.
-
-2. Con independencia de lo dispuesto en el artículo 213, el incumplimiento por parte de la Administración o del contratista de las obligaciones del contrato producirá los efectos que según las disposiciones específicas del servicio puedan afectar a estos contratos.
+Cuando la resolución obedezca a causas no imputables a la Administración, el importe a abonar al concesionario por razón de la expropiación de terrenos, ejecución de obras y adquisición de bienes que deban revertir a la Administración será el que resulte de la valoración de la concesión, determinado conforme lo dispuesto en el artículo 281. En todo caso, se entenderá que no es imputable a la Administración la resolución del contrato cuando esta obedezca a alguna de las causas establecidas en las letras a), b) y f) del artículo 211, así como a las causas establecidas en las letras a) y f) del artículo 294. 2. Con independencia de lo dispuesto en el artículo 213, el incumplimiento por parte de la Administración o del contratista de las obligaciones del contrato producirá los efectos que según las disposiciones específicas del servicio puedan afectar a estos contratos.
 
 3. En el supuesto de la letra b) del artículo 294, el contratista tendrá derecho al abono del interés de demora previsto en la Ley 3/2004, de 29 de diciembre, por la que se establecen medidas de lucha contra la morosidad en operaciones comerciales, de las cantidades debidas o valores económicos convenidos, a partir del vencimiento del plazo previsto para su entrega y hasta la liquidación de la indemnización resultante de la resolución, así como de los daños y perjuicios sufridos.
 
@@ -6754,9 +6514,7 @@ e) La Administración conservará los poderes de policía necesarios para asegur
 
 f) Con carácter general, la prestación de los servicios que conlleven prestaciones directas a favor de la ciudadanía se efectuará en dependencias o instalaciones diferenciadas de las de la propia Administración contratante. Si ello no fuera posible, se harán constar las razones objetivas que lo motivan. En estos casos, a efectos de evitar la confusión de plantillas, se intentará que los trabajadores de la empresa contratista no compartan espacios y lugares de trabajo con el personal al servicio de la Administración, y los trabajadores y los medios de la empresa contratista se identificarán mediante los correspondientes signos distintivos, tales como uniformidad o rotulaciones.
 
-g) Además de las causas de resolución del contrato establecidas en el artículo 313, serán causas de resolución de los contratos de servicios tratados en el presente artículo, las señaladas en las letras c), d), y f) del artículo 294.
-
-#### Sección 3. ª Resolución de los contratos de servicios
+g) Además de las causas de resolución del contrato establecidas en el artículo 313, serán causas de resolución de los contratos de servicios tratados en el presente artículo, las señaladas en las letras c), d), y f) del artículo 294. #### Sección 3. ª Resolución de los contratos de servicios
 
 #### Artículo 313. Causas y efectos de la resolución.
 
@@ -6828,23 +6586,15 @@ En la adjudicación de contratos no sujetos a regulación armonizada se aplicar�
 
 a) Los contratos de valor estimado inferior a 40.000 euros, cuando se trate de contratos de obras, de concesiones de obras y concesiones de servicios, o a 15.000 euros, cuando se trate de contratos de servicios y suministros, podrán adjudicarse directamente a cualquier empresario con capacidad de obrar y que cuente con la habilitación profesional necesaria para realizar la prestación objeto del contrato.
 
-b) Los contratos de obras, concesiones de obras y concesiones de servicios cuyo valor estimado sea igual o superior a 40.000 euros e inferior a 5.225.000 euros y los contratos de servicios y suministros de valor estimado superior a 15.000 euros e inferior a 209.000 euros, se podrán adjudicar por cualquiera de los procedimientos previstos en la Sección 2.ª del Capítulo I del Título I del Libro Segundo de la presente Ley, con excepción del procedimiento negociado sin publicidad, que únicamente se podrá utilizar en los casos previstos en el artículo 168.
+b) Los contratos de obras, concesiones de obras y concesiones de servicios cuyo valor estimado sea igual o superior a 40.000 euros e inferior a 5.225.000 euros y los contratos de servicios y suministros de valor estimado superior a 15.000 euros e inferior a 209.000 euros, se podrán adjudicar por cualquiera de los procedimientos previstos en la Sección 2.ª del Capítulo I del Título I del Libro Segundo de la presente Ley, con excepción del procedimiento negociado sin publicidad, que únicamente se podrá utilizar en los casos previstos en el artículo 168. #### Artículo 319. Efectos y extinción.
 
-#### Artículo 319. Efectos y extinción.
+1. Los efectos y extinción de los contratos celebrados por los poderes adjudicadores que no pertenezcan a la categoría de Administraciones Públicas se regirán por normas de derecho privado. No obstante lo anterior, le será aplicable lo dispuesto en los artículos 201 sobre obligaciones en materia medioambiental, social o laboral; 202 sobre condiciones especiales de ejecución; 203 a 205 sobre supuestos de modificación del contrato; 214 a 217 sobre cesión y subcontratación; y 218 a 228 sobre racionalización técnica de la contratación; así como las condiciones de pago establecidas en los apartados 4.º del artículo 198, 4.º del artículo 210 y 1.º del artículo 243. Asimismo, en los casos en que la modificación del contrato no estuviera prevista en el pliego de cláusulas administrativas particulares, siempre que su importe sea igual o superior a 6.000.000 de euros y la cuantía de la modificación, aislada o conjuntamente, fuera superior a un 20 por ciento del precio inicial del contrato, IVA excluido, será necesaria la autorización del Departamento ministerial u órgano de la administración autonómica o local al que esté adscrita o corresponda la tutela de la entidad contratante, previo dictamen preceptivo del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma.
 
-1. Los efectos y extinción de los contratos celebrados por los poderes adjudicadores que no pertenezcan a la categoría de Administraciones Públicas se regirán por normas de derecho privado. No obstante lo anterior, le será aplicable lo dispuesto en los artículos 201 sobre obligaciones en materia medioambiental, social o laboral; 202 sobre condiciones especiales de ejecución; 203 a 205 sobre supuestos de modificación del contrato; 214 a 217 sobre cesión y subcontratación; y 218 a 228 sobre racionalización técnica de la contratación; así como las condiciones de pago establecidas en los apartados 4.º del artículo 198, 4.º del artículo 210 y 1.º del artículo 243.
-
-Asimismo, en los casos en que la modificación del contrato no estuviera prevista en el pliego de cláusulas administrativas particulares, siempre que su importe sea igual o superior a 6.000.000 de euros y la cuantía de la modificación, aislada o conjuntamente, fuera superior a un 20 por ciento del precio inicial del contrato, IVA excluido, será necesaria la autorización del Departamento ministerial u órgano de la administración autonómica o local al que esté adscrita o corresponda la tutela de la entidad contratante, previo dictamen preceptivo del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma.
-
-2. En estos contratos será en todo caso causa de resolución la imposibilidad de ejecutar la prestación en los términos inicialmente pactados, cuando no sea posible modificar el contrato conforme a los artículos 204 y 205 así como la recogida en la letra i) del artículo 211.
-
-A los contratos de concesión de obras y concesión de servicios les será de aplicación las causas de resolución establecidas en los artículos 279 y 294, para cada uno de ellos. No obstante lo anterior, el rescate de la obra o el servicio, la supresión de su explotación así como el secuestro o intervención de los mismos, se tendrá que acordar por el Departamento ministerial u órgano de la administración autonómica o local al que esté adscrita o corresponda la tutela del poder adjudicador.
+2. En estos contratos será en todo caso causa de resolución la imposibilidad de ejecutar la prestación en los términos inicialmente pactados, cuando no sea posible modificar el contrato conforme a los artículos 204 y 205 así como la recogida en la letra i) del artículo 211. A los contratos de concesión de obras y concesión de servicios les será de aplicación las causas de resolución establecidas en los artículos 279 y 294, para cada uno de ellos. No obstante lo anterior, el rescate de la obra o el servicio, la supresión de su explotación así como el secuestro o intervención de los mismos, se tendrá que acordar por el Departamento ministerial u órgano de la administración autonómica o local al que esté adscrita o corresponda la tutela del poder adjudicador.
 
 artículo 320 De la responsabilidad del contratista por defectos o errores del proyecto.
 
-En los contratos de servicios consistentes en la elaboración íntegra de un proyecto de obra, se exigirá la responsabilidad del contratista por defectos o errores del proyecto, de conformidad con lo dispuesto en el artículo 314.
-
-## Título II
+En los contratos de servicios consistentes en la elaboración íntegra de un proyecto de obra, se exigirá la responsabilidad del contratista por defectos o errores del proyecto, de conformidad con lo dispuesto en el artículo 314. ## Título II
 
 **Contratos de las entidades del sector público que no tengan el carácter de poderes adjudicadores**
 
@@ -6852,9 +6602,7 @@ En los contratos de servicios consistentes en la elaboración íntegra de un pro
 
 La adjudicación de contratos por las entidades del sector público que no tengan la condición de poderes adjudicadores se ajustará a las siguientes reglas:
 
-1. Los órganos competentes de estas entidades aprobarán unas instrucciones en las que regulen los procedimientos de contratación de forma que quede garantizada la efectividad de los principios de publicidad, concurrencia, transparencia, confidencialidad, igualdad y no discriminación, así como que los contratos se adjudiquen a quienes presenten la mejor oferta, de conformidad con lo dispuesto en el artículo 145.
-
-Estas instrucciones se pondrán a disposición de todos los interesados en participar en los procedimientos de adjudicación de los contratos regulados por ellas y se publicarán en el perfil de contratante de la entidad.
+1. Los órganos competentes de estas entidades aprobarán unas instrucciones en las que regulen los procedimientos de contratación de forma que quede garantizada la efectividad de los principios de publicidad, concurrencia, transparencia, confidencialidad, igualdad y no discriminación, así como que los contratos se adjudiquen a quienes presenten la mejor oferta, de conformidad con lo dispuesto en el artículo 145. Estas instrucciones se pondrán a disposición de todos los interesados en participar en los procedimientos de adjudicación de los contratos regulados por ellas y se publicarán en el perfil de contratante de la entidad.
 
 En el ámbito del sector público estatal, la aprobación de las instrucciones requerirá el informe previo del órgano al que corresponda el asesoramiento jurídico de la entidad.
 
@@ -6884,9 +6632,7 @@ Responsabilidad del contratista por defectos o errores del proyecto.
 
 1. Los efectos, modificación y extinción de los contratos de las entidades del Sector Público que no ostenten la condición de poder adjudicador se regularán por las normas de derecho privado que les resulten de aplicación.
 
-2. En los contratos de servicios consistentes en la elaboración íntegra de un proyecto de obra, se exigirá la responsabilidad del contratista por defectos o errores del proyecto, de conformidad con lo dispuesto en el artículo 314.
-
-LIBRO CUARTO
+2. En los contratos de servicios consistentes en la elaboración íntegra de un proyecto de obra, se exigirá la responsabilidad del contratista por defectos o errores del proyecto, de conformidad con lo dispuesto en el artículo 314. LIBRO CUARTO
 
 Organización administrativa para la gestión de la contratación
 
@@ -7066,9 +6812,7 @@ Los informes serán remitidos a la Comisión Europea en los quince días que sig
 
 a) Coordinar los criterios de interpretación seguidos por las Administraciones Públicas en relación con las normas de la contratación pública.
 
-b) Elaborar la propuesta de Estrategia Nacional de Contratación Pública que se someterá a la aprobación de la Oficina de Supervisión de la Contratación, conforme al apartado 6 a) del artículo 332.
-
-c) Proponer los criterios de selección de actuaciones de supervisión de la contratación, así como elaborar una metodología básica común para las mismas.
+b) Elaborar la propuesta de Estrategia Nacional de Contratación Pública que se someterá a la aprobación de la Oficina de Supervisión de la Contratación, conforme al apartado 6 a) del artículo 332. c) Proponer los criterios de selección de actuaciones de supervisión de la contratación, así como elaborar una metodología básica común para las mismas.
 
 d) Supervisar el funcionamiento de la Plataforma de Contratación del Sector Público y del Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público.
 
@@ -7106,11 +6850,7 @@ a) Sección relativa a la regulación de la contratación, en los términos de l
 
 b) Sección relativa a la información cuantitativa y estadística en materia de contratación pública para el cumplimiento de las obligaciones establecidas en la letra d) del apartado 3 del artículo 328 y de.
 
-la obligación de información a que se refiere la letra c) del apartado 4 del artículo 328.
-
-c) Sección relativa a la supervisión de la contratación pública para el cumplimiento de las obligaciones establecidas en los apartados 6, 8 y 9 del artículo 332.
-
-d) Sección de contratación pública electrónica, encargada de ejecutar las competencias del Comité de Cooperación en esta materia y de la supervisión del funcionamiento de la Plataforma de Contratación del Sector Público; y
+la obligación de información a que se refiere la letra c) del apartado 4 del artículo 328. c) Sección relativa a la supervisión de la contratación pública para el cumplimiento de las obligaciones establecidas en los apartados 6, 8 y 9 del artículo 332. d) Sección de contratación pública electrónica, encargada de ejecutar las competencias del Comité de Cooperación en esta materia y de la supervisión del funcionamiento de la Plataforma de Contratación del Sector Público; y
 
 e) Sección relativa a la supervisión del funcionamiento del Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público.
 
@@ -7252,9 +6992,7 @@ Las distintas autoridades de supervisión, designadas por las administraciones c
 
 #### Artículo 333. La Oficina Nacional de Evaluación.
 
-1. La Oficina Nacional de Evaluación, órgano colegiado integrado en la Oficina Independiente de Regulación y Supervisión de la Contratación, tiene como finalidad analizar la sostenibilidad financiera de los contratos de concesiones de obras y contratos de concesión de servicios, sin perjuicio de lo establecido en el segundo párrafo de la letra b) del apartado 3.
-
-2. La Oficina Nacional de Evaluación estará presidida por el Presidente de la Oficina Independiente de Regulación y Supervisión de la Contratación.
+1. La Oficina Nacional de Evaluación, órgano colegiado integrado en la Oficina Independiente de Regulación y Supervisión de la Contratación, tiene como finalidad analizar la sostenibilidad financiera de los contratos de concesiones de obras y contratos de concesión de servicios, sin perjuicio de lo establecido en el segundo párrafo de la letra b) del apartado 3. 2. La Oficina Nacional de Evaluación estará presidida por el Presidente de la Oficina Independiente de Regulación y Supervisión de la Contratación.
 
 Formarán parte de la misma el Vocal de la Oficina Independiente de Regulación y Supervisión de la Contratación que se determine; y un representante con rango de Subdirector General o equivalente de la Intervención General de la Administración del Estado, de la Dirección General del Patrimonio del Estado, y de la Dirección General de Fondos Comunitarios del Ministerio de Hacienda y Función Pública. Asimismo, formará parte de la misma, dos vocales, uno nombrado a propuesta de las organizaciones empresariales representativas de los sectores afectados por la contratación administrativa, y otro, designado entre académicos, profesionales y técnicos, de reconocido conocimiento y competencia en la materia de la contratación pública, sin relación directa o indirecta con las empresas contratistas a las que se refiere el primer apartado de este artículo. Estos vocales contarán con voz pero no así con voto.
 
@@ -7396,9 +7134,7 @@ i) En su caso, los conflictos de intereses detectados y las medidas tomadas al r
 
 j) En su caso, la medidas tomadas en el marco del artículo 70.
 
-Dicho informe no será exigido por lo que respecta a contratos basados en acuerdos marco, cuando estos se hayan celebrado con arreglo a los apartados 3 y 4.a) del artículo 221.
-
-En la medida en que el anuncio de formalización del contrato contenga la información requerida en el presente apartado, los poderes adjudicadores podrán hacer referencia a dicho anuncio.
+Dicho informe no será exigido por lo que respecta a contratos basados en acuerdos marco, cuando estos se hayan celebrado con arreglo a los apartados 3 y 4.a) del artículo 221. En la medida en que el anuncio de formalización del contrato contenga la información requerida en el presente apartado, los poderes adjudicadores podrán hacer referencia a dicho anuncio.
 
 2. El informe, o sus elementos principales, se remitirán a la Comisión Europea o al Comité de cooperación en materia de contratación pública regulado en el artículo 329, cuando lo soliciten.
 
@@ -7430,13 +7166,9 @@ En caso de discrepancia entre los poderes inscritos, prevalecerá el inscrito en
 
 En los casos en que con respecto a la empresa de cuya clasificación se trate, no constasen inscritas en el Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público las circunstancias a que se refieren las letras a) y c) del apartado 1 del artículo 339, se inscribirán estas de oficio, tomando como base los documentos adecuados para ello y que se hubiesen aportado al procedimiento de clasificación.
 
-2. Se harán constar igualmente los datos relativos a las prohibiciones de contratar a las que se refiere el apartado 2 del artículo 73.
+2. Se harán constar igualmente los datos relativos a las prohibiciones de contratar a las que se refiere el apartado 2 del artículo 73. 3. A efectos de poder dar cumplimiento a lo establecido en el apartado anterior, el órgano del que emane la sentencia o resolución que impone la prohibición de contratar deberá remitir de oficio testimonio de aquella o copia de esta a la Junta Consultiva de Contratación Pública del Estado, sin perjuicio de que por parte de este órgano, de tener conocimiento de su existencia y no habiendo recibido el citado testimonio de la sentencia o copia de la resolución pueda solicitarlos al órgano del que emanaron.
 
-3. A efectos de poder dar cumplimiento a lo establecido en el apartado anterior, el órgano del que emane la sentencia o resolución que impone la prohibición de contratar deberá remitir de oficio testimonio de aquella o copia de esta a la Junta Consultiva de Contratación Pública del Estado, sin perjuicio de que por parte de este órgano, de tener conocimiento de su existencia y no habiendo recibido el citado testimonio de la sentencia o copia de la resolución pueda solicitarlos al órgano del que emanaron.
-
-4. Las prohibiciones de contratar que, en función de su ámbito y del órgano que las haya declarado, deban ser inscritas en el registro de licitadores y empresas clasificadas de una Comunidad Autónoma que cuente con dicho registro, serán comunicadas al Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público, por el órgano de dicha Comunidad Autónoma competente para la llevanza del registro, para su publicación de acuerdo con lo dispuesto en el artículo 345.
-
-#### Artículo 339. Inscripciones a solicitud de los interesados.
+4. Las prohibiciones de contratar que, en función de su ámbito y del órgano que las haya declarado, deban ser inscritas en el registro de licitadores y empresas clasificadas de una Comunidad Autónoma que cuente con dicho registro, serán comunicadas al Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público, por el órgano de dicha Comunidad Autónoma competente para la llevanza del registro, para su publicación de acuerdo con lo dispuesto en el artículo 345. #### Artículo 339. Inscripciones a solicitud de los interesados.
 
 1. En el Registro podrán constar, cuando así lo solicite el interesado, los siguientes datos y circunstancias relativas a los empresarios:
 
@@ -7474,11 +7206,7 @@ en todo caso, las prohibiciones de contratar que sean declaradas por sus órgano
 
 A efectos de poder dar cumplimiento a lo establecido en el párrafo anterior, el órgano del que emane la resolución que impone la prohibición de contratar deberá remitir de oficio copia de esta al órgano competente de la llevanza del registro, sin perjuicio de que por parte de este órgano, de tener conocimiento de su existencia y no habiendo recibido copia de la resolución pueda solicitarla al órgano del que emanó.
 
-Las restantes prohibiciones de contratar que deban ser inscritas en el Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público serán igualmente publicadas en los registros de licitadores y empresas clasificadas de las Comunidades Autónomas, aplicándose a tal efecto lo dispuesto en el artículo 345.
-
-2. Podrán igualmente ser inscritos en el registro, cuando así lo solicite el interesado a la Comunidad Autónoma, los datos y circunstancias indicados en el artículo 339.
-
-3. La inscripción en el registro de licitadores y empresas clasificadas de una Comunidad Autónoma acreditará los datos y circunstancias de los empresarios ante los órganos de contratación de la propia Comunidad Autónoma, de las entidades locales de su ámbito territorial, y de los organismos y entidades dependientes de una u otras.
+Las restantes prohibiciones de contratar que deban ser inscritas en el Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público serán igualmente publicadas en los registros de licitadores y empresas clasificadas de las Comunidades Autónomas, aplicándose a tal efecto lo dispuesto en el artículo 345. 2. Podrán igualmente ser inscritos en el registro, cuando así lo solicite el interesado a la Comunidad Autónoma, los datos y circunstancias indicados en el artículo 339. 3. La inscripción en el registro de licitadores y empresas clasificadas de una Comunidad Autónoma acreditará los datos y circunstancias de los empresarios ante los órganos de contratación de la propia Comunidad Autónoma, de las entidades locales de su ámbito territorial, y de los organismos y entidades dependientes de una u otras.
 
 #### Artículo 342. Voluntariedad de la inscripción.
 
@@ -7558,9 +7286,7 @@ Los órganos de contratación de las Administraciones locales, así como los de 
 
 4. La plataforma deberá contar con un sistema de sellado de tiempo que permita acreditar fehacientemente el inicio de la difusión pública de la información que se incluya en la misma.
 
-5. La publicación de anuncios y otra información relativa a los contratos en los perfiles de contratante surtirá los efectos previstos en la presente Ley cuando los mismos estén alojados en la Plataforma de Contratación del Sector Público o en los servicios de información similares que se establezcan por las Comunidades Autónomas o las Ciudades Autónomas de Ceuta y Melilla y de conformidad con lo establecido en los apartados 2 y 3 del presente artículo, y siempre que, en este último caso, se cumpla con lo dispuesto en el párrafo tercero del citado apartado 3.
-
-6. El acceso de los interesados a la Plataforma de Contratación del Sector Público se efectuará a través de un portal único.
+5. La publicación de anuncios y otra información relativa a los contratos en los perfiles de contratante surtirá los efectos previstos en la presente Ley cuando los mismos estén alojados en la Plataforma de Contratación del Sector Público o en los servicios de información similares que se establezcan por las Comunidades Autónomas o las Ciudades Autónomas de Ceuta y Melilla y de conformidad con lo establecido en los apartados 2 y 3 del presente artículo, y siempre que, en este último caso, se cumpla con lo dispuesto en el párrafo tercero del citado apartado 3. 6. El acceso de los interesados a la Plataforma de Contratación del Sector Público se efectuará a través de un portal único.
 
 7. Mediante Orden del Ministerio de Hacienda y Función Pública se definirán las especificaciones relativas a la operación y utilización de los servicios prestados por la Plataforma de Contratación del Sector Público.
 
@@ -7626,9 +7352,7 @@ Igualmente será de aplicación lo previsto en el párrafo anterior cuando las a
 
 5. En las Entidades Locales será potestativa la constitución de Juntas de Contratación que actuarán como órganos de contratación en los contratos de obras que tengan por objeto trabajos de reparación simple, de conservación y de mantenimiento, en los contratos de suministro que se refieran a bienes consumibles o de fácil deterioro por el uso, y en los contratos de servicios cuando su valor estimado no supere el 10 por ciento de los recursos ordinarios de la Entidad, o cuando superen este importe las acciones estén previstas en el presupuesto del ejercicio a que corresponda y se realicen de acuerdo con lo dispuesto en las bases de ejecución de este.
 
-Corresponde al Pleno acordar la constitución de las Juntas de Contratación y determinar su composición, debiendo formar parte de las mismas necesariamente el Secretario o el titular del órgano que tenga atribuida la función de asesoramiento jurídico de la Corporación, y el Interventor de la misma. Los límites cuantitativos, que podrán ser inferiores a los señalados en el párrafo anterior, o los referentes a las características de los contratos en los que intervendrá la Junta de Contratación como órgano de contratación, se determinarán, en los municipios de gran población por la Junta de Gobierno Local y en las restantes entidades locales, por el Pleno, a propuesta del Alcalde o del Presidente cuando sea, el órgano que tenga atribuida la competencia sobre dichos contratos, de acuerdo con el apartado 2.
-
-En los casos de actuación de las Juntas de Contratación se prescindirá de la intervención de la Mesa de contratación.
+Corresponde al Pleno acordar la constitución de las Juntas de Contratación y determinar su composición, debiendo formar parte de las mismas necesariamente el Secretario o el titular del órgano que tenga atribuida la función de asesoramiento jurídico de la Corporación, y el Interventor de la misma. Los límites cuantitativos, que podrán ser inferiores a los señalados en el párrafo anterior, o los referentes a las características de los contratos en los que intervendrá la Junta de Contratación como órgano de contratación, se determinarán, en los municipios de gran población por la Junta de Gobierno Local y en las restantes entidades locales, por el Pleno, a propuesta del Alcalde o del Presidente cuando sea, el órgano que tenga atribuida la competencia sobre dichos contratos, de acuerdo con el apartado 2. En los casos de actuación de las Juntas de Contratación se prescindirá de la intervención de la Mesa de contratación.
 
 6. En los municipios de población inferior a 5.000 habitantes las competencias en materia de contratación podrán ser ejercidas por los órganos que, con carácter de centrales de contratación, se constituyan en la forma prevista en el artículo 228 de la presente Ley, mediante acuerdos al efecto.
 
@@ -7666,9 +7390,7 @@ La composición de la Mesa se publicará en el perfil de contratante del órgano
 
 6. Serán de aplicación a los contratos de obras las normas sobre supervisión de proyectos establecidas en el artículo 235. La supervisión podrá efectuarse por las oficinas o unidades competentes de la propia entidad contratante o, en el caso de municipios que carezcan de ellas, por las de la correspondiente Diputación provincial o Administración autonómica uniprovincial. En el acuerdo de aprobación de los proyectos se recogerá expresamente la referencia a la supervisión favorable del mismo.
 
-7. En los municipios de población inferior a 5.000 habitantes, en los contratos de obras cuya financiación exceda de un presupuesto anual, podrán redactarse proyectos independientes relativos a cada una de las partes de la obra, siempre que estas sean susceptibles de utilización separada en el sentido del uso general o del servicio, o puedan ser sustancialmente definidas. La ejecución de cada uno de los proyectos podrá ser objeto de un contrato diferente, sin perjuicio de la aplicación de los artículos 99 y 101.
-
-8. Los informes que la Ley asigna a los servicios jurídicos se evacuarán por el Secretario. Será también preceptivo el informe jurídico del Secretario en la aprobación de expedientes de contratación, modificación de contratos, revisión de precios, prórrogas, mantenimiento del equilibrio económico, interpretación y resolución de los contratos. Corresponderá también al Secretario la coordinación de las obligaciones de publicidad e información que se establecen en la [Ley 19/2013](../01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md), de 9 de diciembre, de Transparencia, Acceso a la Información Pública y Buen Gobierno.
+7. En los municipios de población inferior a 5.000 habitantes, en los contratos de obras cuya financiación exceda de un presupuesto anual, podrán redactarse proyectos independientes relativos a cada una de las partes de la obra, siempre que estas sean susceptibles de utilización separada en el sentido del uso general o del servicio, o puedan ser sustancialmente definidas. La ejecución de cada uno de los proyectos podrá ser objeto de un contrato diferente, sin perjuicio de la aplicación de los artículos 99 y 101. 8. Los informes que la Ley asigna a los servicios jurídicos se evacuarán por el Secretario. Será también preceptivo el informe jurídico del Secretario en la aprobación de expedientes de contratación, modificación de contratos, revisión de precios, prórrogas, mantenimiento del equilibrio económico, interpretación y resolución de los contratos. Corresponderá también al Secretario la coordinación de las obligaciones de publicidad e información que se establecen en la [Ley 19/2013](../01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md), de 9 de diciembre, de Transparencia, Acceso a la Información Pública y Buen Gobierno.
 
 Conforme a lo dispuesto en la letra e) de la disposición adicional octava de la Ley 7/1985, de 2 de abril, Reguladoras de las Bases del Régimen Local, en los municipios acogidos al régimen regulado en su Título X, corresponderá al titular de la asesoría jurídica la emisión de los informes atribuidos al Secretario en el presente apartado. La coordinación de las obligaciones de publicidad e información antedichas corresponderá al titular del Órgano de Apoyo a la Junta de Gobierno.
 
@@ -7900,9 +7622,7 @@ Las relaciones de TRAGSA y su filial TRAGSATEC con los poderes adjudicadores de 
 
 La comunicación efectuada por uno de estos poderes adjudicadores encargando una actuación a alguna de las sociedades del grupo supondrá la orden para iniciarla, sin perjuicio de la observancia de lo establecido en el artículo 32.6.b).
 
-Asimismo, TRAGSA y su filial TRAGSATEC tendrán la consideración de medios propios personificados y servicios técnicos de las entidades pertenecientes al sector público que no tengan la consideración de poder adjudicador y podrán recibir sus encargos, siempre y cuando se cumplan los requisitos que establece el artículo 33.
-
-3. El capital social de TRAGSA será íntegramente de titularidad pública.
+Asimismo, TRAGSA y su filial TRAGSATEC tendrán la consideración de medios propios personificados y servicios técnicos de las entidades pertenecientes al sector público que no tengan la consideración de poder adjudicador y podrán recibir sus encargos, siempre y cuando se cumplan los requisitos que establece el artículo 33. 3. El capital social de TRAGSA será íntegramente de titularidad pública.
 
 Las Comunidades Autónomas, las Ciudades Autónomas de Ceuta y Melilla, los Cabildos y Consejos Insulares, las Diputaciones Forales del País Vasco y las Diputaciones provinciales deberán participar en el capital de esta sociedad mediante la adquisición de acciones cuya enajenación será autorizada por el Ministerio de Hacienda y Función Pública a iniciativa del Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente. Las Comunidades Autónomas y las demás entidades a que se refiere este artículo solo podrán enajenar sus participaciones a favor de la Administración General del Estado o de organismos de derecho público vinculados o dependientes de aquella.
 
@@ -8066,9 +7786,7 @@ La Junta Consultiva de Contratación Pública del Estado, asimismo, informará a
 
 Convocatoria de la licitación de contratos de concesión de servicios especiales del anexo IV.
 
-Los órganos de contratación que celebren contratos de concesiones de servicios especiales del anexo IV utilizarán como medio de convocatoria de licitación un anuncio de información previa que deberá tener el contenido establecido en el anexo III. B. Sección 3.
-
-Estos anuncios se publicarán en el «Diario Oficial de la Unión Europea» y en el perfil de contratante.
+Los órganos de contratación que celebren contratos de concesiones de servicios especiales del anexo IV utilizarán como medio de convocatoria de licitación un anuncio de información previa que deberá tener el contenido establecido en el anexo III. B. Sección 3. Estos anuncios se publicarán en el «Diario Oficial de la Unión Europea» y en el perfil de contratante.
 
 #### Disposición adicional trigésima.... séptima.
 
@@ -8148,9 +7866,7 @@ Asimismo, al establecer los criterios de adjudicación de los contratos a que se
 
 Reserva de ciertos contratos de servicios sociales, culturales y de salud a determinadas organizaciones.
 
-1. Sin perjuicio de lo establecido en la Disposición adicional cuarta, los órganos de contratación de los poderes adjudicadores podrán reservar a determinadas organizaciones el derecho a participar en los procedimientos de licitación de los contratos de servicios de carácter social, cultural y de salud que enumera el Anexo IV bajo los códigos CPV 75121000-0, 75122000-7, 75123000-4, 79622000-0, 79624000-4, 79625000-1, 80110000-8, 80300000-7, 80420000-4, 80430000-7, 80511000-9, 80520000-5, 80590000-6, desde 85000000-9 hasta 85323000-9, 92500000-6, 92600000-7, 98133000-4 y 98133110-8.
-
-2. Las organizaciones a que se refiere el apartado 1 deberán cumplir todas y cada una de las condiciones siguientes:
+1. Sin perjuicio de lo establecido en la Disposición adicional cuarta, los órganos de contratación de los poderes adjudicadores podrán reservar a determinadas organizaciones el derecho a participar en los procedimientos de licitación de los contratos de servicios de carácter social, cultural y de salud que enumera el Anexo IV bajo los códigos CPV 75121000-0, 75122000-7, 75123000-4, 79622000-0, 79624000-4, 79625000-1, 80110000-8, 80300000-7, 80420000-4, 80430000-7, 80511000-9, 80520000-5, 80590000-6, desde 85000000-9 hasta 85323000-9, 92500000-6, 92600000-7, 98133000-4 y 98133110-8. 2. Las organizaciones a que se refiere el apartado 1 deberán cumplir todas y cada una de las condiciones siguientes:
 
 a) Que su objetivo sea la realización de una misión de servicio público vinculada a la prestación de los servicios contemplados en el apartado primero.
 
@@ -8228,23 +7944,17 @@ actos susceptibles de ser recurridos en esta vía, siempre que se hayan dictado 
 
 5. Los contratos basados en acuerdos marco o en sistemas dinámicos de adquisición se regirán por la normativa aplicable a estos.
 
-6. Los pliegos de cláusulas administrativas generales que a la entrada en vigor de la presente Ley ya se encontraran aprobados por las Comunidades Autónomas, dispondrán de un plazo de seis meses para su adaptación a lo previsto en el apartado 2 del artículo 121.
-
-#### Disposición transitoria segunda. Determinación de cuantías por los departamentos ministeriales respecto de las entidades que tengan la consideración de poder adjudicador y que estén adscritos a los primeros.
+6. Los pliegos de cláusulas administrativas generales que a la entrada en vigor de la presente Ley ya se encontraran aprobados por las Comunidades Autónomas, dispondrán de un plazo de seis meses para su adaptación a lo previsto en el apartado 2 del artículo 121. #### Disposición transitoria segunda. Determinación de cuantías por los departamentos ministeriales respecto de las entidades que tengan la consideración de poder adjudicador y que estén adscritos a los primeros.
 
 Hasta el momento en que los Secretarios de Estado, o en su defecto, los titulares de los departamentos ministeriales fijen la cuantía para la autorización establecida en el apartado 5 del artículo 324 será.
 
 de aplicación la cantidad, calculada de conformidad con el artículo 101, de 900.000 euros.
 
-#### Disposición transitoria tercera. Inscripción en el Registro de Licitadores en el procedimiento abierto simplificado del artículo 159.
-
-Hasta que transcurran seis meses de la entrada en vigor de la presente Ley y resulte exigible, por tanto, la obligación establecida para el procedimiento abierto simplificado en la letra a) del apartado 4 del artículo 159, de estar inscrito en el Registro Oficial de Licitadores y Empresas Clasificadas o registro equivalente, la acreditación de la capacidad, solvencia y ausencia de prohibiciones de contratar se realizará en la forma establecida con carácter general.
+#### Disposición transitoria tercera. Inscripción en el Registro de Licitadores en el procedimiento abierto simplificado del artículo 159. Hasta que transcurran seis meses de la entrada en vigor de la presente Ley y resulte exigible, por tanto, la obligación establecida para el procedimiento abierto simplificado en la letra a) del apartado 4 del artículo 159, de estar inscrito en el Registro Oficial de Licitadores y Empresas Clasificadas o registro equivalente, la acreditación de la capacidad, solvencia y ausencia de prohibiciones de contratar se realizará en la forma establecida con carácter general.
 
 #### Disposición transitoria cuarta. Estatutos de los medios propios personificados.
 
-Hasta que transcurran seis meses de la entrada en vigor de la presente Ley y resulte exigible, por tanto, las obligaciones establecidas en el artículo 32.2.d) respecto al contenido de los estatutos de las entidades que ostenten la condición de medio propio personificado, estas seguirán actuando con sus estatutos vigentes siempre y cuando cumplan con lo establecido en las letras a), b) y c) del apartado 2 del artículo 32.
-
-#### Disposición transitoria quinta. Instrucciones internas de contratación.
+Hasta que transcurran seis meses de la entrada en vigor de la presente Ley y resulte exigible, por tanto, las obligaciones establecidas en el artículo 32.2.d) respecto al contenido de los estatutos de las entidades que ostenten la condición de medio propio personificado, estas seguirán actuando con sus estatutos vigentes siempre y cuando cumplan con lo establecido en las letras a), b) y c) del apartado 2 del artículo 32. #### Disposición transitoria quinta. Instrucciones internas de contratación.
 
 Los entes a los que se refiere el Título Tercero deberán adaptar sus instrucciones internas de contratación a lo establecido en los artículos 318 y 321 en el plazo máximo de cuatro meses desde la entrada en vigor de la presente Ley. Hasta entonces, seguirán contratando de conformidad con sus instrucciones vigentes, siempre que no contradigan lo establecido en los citados artículos.
 
@@ -8262,9 +7972,7 @@ dicta al amparo de la regla 6.ª del artículo 149.1 de la Constitución, que at
 
 #### Artículo 275. y artículo.
 
-276.
-
-3. El apartado 3 del artículo 347 constituye.
+276. 3. El apartado 3 del artículo 347 constituye.
 
 legislación básica y se dicta al amparo del artículo 149.1.18 de la Constitución en materia de «bases del régimen jurídico de las Administraciones Públicas». Por su parte, los restantes artículos de la presente Ley constituyen legislación básica dictada al amparo del artículo 149.1.18.ª de la Constitución en materia de legislación básica sobre contratos y concesiones administrativas y, en consecuencia, son de aplicación general a todas las Administraciones Públicas y organismos y entidades dependientes de ellas.
 
@@ -8278,13 +7986,9 @@ A los mismos efectos previstos en el párrafo anterior tendrán la consideració
 
 El porcentaje del 3 por 100 del artículo
 
-**106.2.** El porcentaje del 5 por 100 del artículo 107.1 y 2.
+**106.2.** El porcentaje del 5 por 100 del artículo 107.1 y 2. Las cuantías del artículo
 
-Las cuantías del artículo
-
-**131.4.** Los plazos de un mes establecidos en los apartados 2 y 4 del artículo 210.
-
-4. Las previsiones de esta Ley serán de aplicación a las Comunidades Autónomas de acuerdo con lo establecido en los apartados 1, 2 y 3 anteriores, sin perjuicio de las posiciones singulares que en materia de sistema institucional, y en lo que respecta a las competencias exclusivas y compartidas, en materia de función pública y de auto organización, en cada caso resulten de aplicación en virtud de lo dispuesto en la Constitución Española y en los Estatutos de Autonomía.
+**131.4.** Los plazos de un mes establecidos en los apartados 2 y 4 del artículo 210. 4. Las previsiones de esta Ley serán de aplicación a las Comunidades Autónomas de acuerdo con lo establecido en los apartados 1, 2 y 3 anteriores, sin perjuicio de las posiciones singulares que en materia de sistema institucional, y en lo que respecta a las competencias exclusivas y compartidas, en materia de función pública y de auto organización, en cada caso resulten de aplicación en virtud de lo dispuesto en la Constitución Española y en los Estatutos de Autonomía.
 
 #### Disposición final segunda. Comunidad Foral de Navarra.
 
@@ -8316,9 +8020,7 @@ Mediante la presente Ley se incorpora al ordenamiento jurídico la Directiva 201
 
 #### Disposición final séptima. Fomento de la celebración de negocios y contratos en materia de Investigación, Desarrollo e Innovación.
 
-Mediante Acuerdo de Ministros podrán reservarse fondos destinados a la financiación de negocios y contratos relacionados con el ámbito de la Investigación, el Desarrollo y la Innovación a los que se refiere el artículo 8.
-
-#### Disposición final octava. Desarrollo reglamentario.
+Mediante Acuerdo de Ministros podrán reservarse fondos destinados a la financiación de negocios y contratos relacionados con el ámbito de la Investigación, el Desarrollo y la Innovación a los que se refiere el artículo 8. #### Disposición final octava. Desarrollo reglamentario.
 
 El Gobierno, en el ámbito de sus competencias, podrá dictar cuantas disposiciones sean necesarias para el desarrollo y aplicación de lo establecido en esta Ley.
 
@@ -8348,9 +8050,7 @@ d) Cualesquiera entidad de derecho público con personalidad jurídica propia, d
 
 No tendrán la consideración de Administraciones Públicas las entidades públicas empresariales estatales y los organismos asimilados dependientes de las Comunidades Autónomas y Entidades locales.
 
-C) No estarán sujetos al Impuesto los servicios prestados en virtud de los encargos ejecutados por los entes, organismos y entidades del sector público que ostenten, de conformidad con lo establecido en el artículo 32 de la Ley de Contratos del Sector Público, la condición de medio propio personificado del poder adjudicador que haya ordenado el encargo, en los términos establecidos en el referido artículo 32.
-
-D) Asimismo, no estarán sujetos al Impuesto los servicios prestados por cualesquiera entes, organismos o entidades del sector público, en los términos a que se refiere el artículo 3.1 de la Ley de Contratos del Sector Público, a favor de las Administraciones Públicas de la que dependan o de otra íntegramente dependiente de estas, cuando dichas Administraciones Públicas ostenten la titularidad íntegra de los mismos.
+C) No estarán sujetos al Impuesto los servicios prestados en virtud de los encargos ejecutados por los entes, organismos y entidades del sector público que ostenten, de conformidad con lo establecido en el artículo 32 de la Ley de Contratos del Sector Público, la condición de medio propio personificado del poder adjudicador que haya ordenado el encargo, en los términos establecidos en el referido artículo 32. D) Asimismo, no estarán sujetos al Impuesto los servicios prestados por cualesquiera entes, organismos o entidades del sector público, en los términos a que se refiere el artículo 3.1 de la Ley de Contratos del Sector Público, a favor de las Administraciones Públicas de la que dependan o de otra íntegramente dependiente de estas, cuando dichas Administraciones Públicas ostenten la titularidad íntegra de los mismos.
 
 E) La no consideración como operaciones sujetas al impuesto que establecen los dos apartados C) y D) anteriores será igualmente aplicable a los servicios prestados entre las entidades a las que se refieren los mismos, íntegramente dependientes de la misma Administración Pública.
 
@@ -8410,9 +8110,7 @@ Las deducciones establecidas en este apartado se ajustarán también a las condi
 
 Lo previsto en este apartado no será de aplicación a las actividades de gestión de servicios públicos en las condiciones señaladas en la letra a) del artículo 78.Dos.3.º de esta Ley.»
 
-Cuatro. Se suprime el número 4.º del apartado Tres del artículo 78.
-
-#### Disposición final undécima. Modificación de la Disposición adicional primera de la Ley 58/2003, de 17 de diciembre, General Tributaria.
+Cuatro. Se suprime el número 4.º del apartado Tres del artículo 78. #### Disposición final undécima. Modificación de la Disposición adicional primera de la Ley 58/2003, de 17 de diciembre, General Tributaria.
 
 La Disposición adicional primera de la Ley 58/2003, de 17 de diciembre, General Tributaria, queda redactada en los siguientes términos:
 
@@ -8522,9 +8220,7 @@ Por tanto,
 
 Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
 
-Madrid, 8 de noviembre de 2017.
-
-FELIPE R.
+Madrid, 8 de noviembre de 2017. FELIPE R.
 
 El Presidente del Gobierno,
 
@@ -9118,9 +8814,7 @@ ex ex 84.45: máquinas.
 
 ex ex 84.53: máquinas automáticas de tratamiento de la información.
 
-ex ex 84.55: piezas del n.º 84.53.
-
-ex ex 84.59: reactores nucleares.
+ex ex 84.55: piezas del n.º 84.53. ex ex 84.59: reactores nucleares.
 
 ## Capítulo 85. Máquinas y aparatos eléctricos y objetos que sirvan para usos electrotécnicos.
 
@@ -9646,9 +9340,7 @@ a) Honorarios, precios y multas de haberlas;
 
 b) Primas y pagos de haberlos;
 
-c) Cualesquiera otros detalles pertinentes para el valor de la concesión conforme a lo establecido en el apartado 3 del artículo 101.
-
-12. Información de si la concesión guarda relación con un proyecto o programa financiado por fondos de la Unión.
+c) Cualesquiera otros detalles pertinentes para el valor de la concesión conforme a lo establecido en el apartado 3 del artículo 101. 12. Información de si la concesión guarda relación con un proyecto o programa financiado por fondos de la Unión.
 
 13. Nombre y dirección del órgano responsable de los procedimientos de recurso y, si procede, de mediación. Indicación precisa del plazo de presentación de recursos o, en caso necesario, el nombre, dirección, números de teléfono y de fax y dirección electrónica del servicio del que pueda obtenerse dicha información.
 
@@ -9656,9 +9348,7 @@ c) Cualesquiera otros detalles pertinentes para el valor de la concesión confor
 
 15. Fecha de envío del anuncio.
 
-16. Método utilizado para calcular el valor estimado de la concesión, si no se especifica en otros documentos relativos a la concesión de conformidad con el artículo 101.
-
-17. Si procede, otras informaciones.
+16. Método utilizado para calcular el valor estimado de la concesión, si no se especifica en otros documentos relativos a la concesión de conformidad con el artículo 101. 17. Si procede, otras informaciones.
 
 Sección 3. Información que debe figurar en los anuncios de información previa de concesiones de servicios especiales del anexo IV:
 
@@ -9748,17 +9438,11 @@ Servicios sociales y de salud y servicios conexos.
 
 Servicios administrativos sociales, educativos, sanitarios y culturales.
 
-75300000-9.
+75300000-9. Servicios de seguridad social de afiliación obligatoria.
 
-Servicios de seguridad social de afiliación obligatoria.
+75310000-2, 75311000-9, 75312000-6, 75313000-3, 75313100-4, 75314000-0, 75320000-5, 75330000-8, 75340000-1. Servicios de prestaciones sociales.
 
-75310000-2, 75311000-9, 75312000-6, 75313000-3, 75313100-4, 75314000-0, 75320000-5, 75330000-8, 75340000-1.
-
-Servicios de prestaciones sociales.
-
-98000000-3; 98120000-0; 98132000-7; 98133110-8 y 98130000-3.
-
-Otros servicios comunitarios, sociales y personales, incluidos los servicios prestados por sindicatos, organizaciones políticas, asociaciones juveniles y otros servicios prestados por asociaciones.
+98000000-3; 98120000-0; 98132000-7; 98133110-8 y 98130000-3. Otros servicios comunitarios, sociales y personales, incluidos los servicios prestados por sindicatos, organizaciones políticas, asociaciones juveniles y otros servicios prestados por asociaciones.
 
 98131000-0.
 
@@ -9772,21 +9456,13 @@ Servicios religiosos.
 
 Servicios de hostelería y restaurante.
 
-79100000-5 a 79140000-7; 75231100-5.
+79100000-5 a 79140000-7; 75231100-5. Servicios jurídicos distintos de los referidos en el artículo 19.2.d).
 
-Servicios jurídicos distintos de los referidos en el artículo 19.2.d).
+75100000-7 a 75120000-3; 75123000-4; 75125000-8 a 75131000-3. Otros servicios administrativos y servicios gubernamentales.
 
-75100000-7 a 75120000-3; 75123000-4; 75125000-8 a 75131000-3.
+75200000-8 a 75231000-4. Prestación de servicios para la comunidad.
 
-Otros servicios administrativos y servicios gubernamentales.
-
-75200000-8 a 75231000-4.
-
-Prestación de servicios para la comunidad.
-
-75231210-9 a 75231230-5; 75240000-0 a 75252000-7; 794300000-7; 98113100-9.
-
-Servicios relacionados con las prisiones, servicios de seguridad pública y servicios de salvamento distintos de los referidos en el artículo 19.2.f).
+75231210-9 a 75231230-5; 75240000-0 a 75252000-7; 794300000-7; 98113100-9. Servicios relacionados con las prisiones, servicios de seguridad pública y servicios de salvamento distintos de los referidos en el artículo 19.2.f).
 
 79700000-1 a 79721000-4 [Servicios de investigación y seguridad, Servicios de seguridad, Servicios de vigilancia de sistemas de alarma, Servicios de vigilancia, Servicios relacionados con el sistema de localización, Servicios de búsqueda de prófugos, Servicios de patrullas, Servicios de expedición de distintivos de identificación, Servicios de investigación y Servicios de agencia de detectives] 79722000-1 [Servicios de grafología], 79723000-8 [Servicios de análisis de residuos].
 
@@ -9842,85 +9518,45 @@ Servicios de limpieza:
 
 Servicio de recogida y reciclaje:
 
-90511300-5, 90511400-6, 90531000-8.
+90511300-5, 90511400-6, 90531000-8. Servicios forestales:
 
-Servicios forestales:
+77200000-2, 77231000-8, 77231800-6, 77312000-0, 77312100-1, 79930000-2. Servicios de lavandería:
 
-77200000-2, 77231000-8, 77231800-6, 77312000-0, 77312100-1, 79930000-2.
+98311100-7, 98311200-8, 98312100-4, 98314000-7, 98315000-4, 98311000-6. Servicio de hostelería y catering:
 
-Servicios de lavandería:
+79952000-2, 55130000-0, 79952100-3, 55120000-7, 79950000-8, 55512000-2, 55330000-2, 55400000-4, 55410000-7. Servicios de transporte:
 
-98311100-7, 98311200-8, 98312100-4, 98314000-7, 98315000-4, 98311000-6.
+60112000-6. Servicios de imprenta:
 
-Servicio de hostelería y catering:
+79824000-6, 79821000-5, 79820000-8, 79800000-2, 79810000-5, 79823000-9, 79971000-1, 79971200-3, 79971100-2. Servicios sociales:
 
-79952000-2, 55130000-0, 79952100-3, 55120000-7, 79950000-8, 55512000-2, 55330000-2, 55400000-4, 55410000-7.
+85320000-8, 85312000-9, 85300000-2, 85310000-5. Servicios de almacenamiento y reparto:
 
-Servicios de transporte:
+63100000-0, 63120000-6, 63121100-4. Servicios de hospedaje y turismo rural:
 
-60112000-6.
+63500000-4, 75125000-8. Servicios de trabajos administrativos:
 
-Servicios de imprenta:
+92500000-6, 92510000-9, 92511000-6, 92512000-3, 79500000-9, 98341120-2, 98341130-5, 79511000-9, 92520000-2, 92521000-9, 92521100-0, 72312000-5. Servicios de gestión y trabajos auxiliares:
 
-79824000-6, 79821000-5, 79820000-8, 79800000-2, 79810000-5, 79823000-9, 79971000-1, 79971200-3, 79971100-2.
+45233294-6, 45316000-5, 79993100-2, 79993000-1. Servicios de correo y publicidad:
 
-Servicios sociales:
+79571000-7, 79340000-9, 79341000-6, 64121100-1, 64121200-2, 79520000-5, 79920000-9, 79921000-6. Servicios de mantenimiento y reparación:
 
-85320000-8, 85312000-9, 85300000-2, 85310000-5.
+45422000-1, 45420000-7, 50850000-8, 45262500-6, 45262520-2, 50000000-5, 71314100-3, 45330000-9, 45442100-8, 50232200-2, 45262680-1, 45259000-7, 50115000-4. Producción y venta de plantas de temporada, de compost, de planta y arbusto, de mobiliario de jardín…
 
-Servicios de almacenamiento y reparto:
+03121100-6, 03451300-9, 39142000-9, 03110000-5. Producción y venta de jabones de mano:
 
-63100000-0, 63120000-6, 63121100-4.
+33711900-6, 33741100-7, 39831700-3. Producción y venta de herramientas de cocina de madera:
 
-Servicios de hospedaje y turismo rural:
+39220000-0, 44410000-7, 39221100-8, 39221180-2, 39141000-2. Producción y venta de mobiliario de carpintería:
 
-63500000-4, 75125000-8.
+39100000-3, 03419100-1, 37800000-6, 37810000-9. Venta y distribución:
 
-Servicios de trabajos administrativos:
+30199000-0, 39000000-2. Artículos para eventos:
 
-92500000-6, 92510000-9, 92511000-6, 92512000-3, 79500000-9, 98341120-2, 98341130-5, 79511000-9, 92520000-2, 92521000-9, 92521100-0, 72312000-5.
+18530000-3. Regalos y obsequios de empresa:
 
-Servicios de gestión y trabajos auxiliares:
-
-45233294-6, 45316000-5, 79993100-2, 79993000-1.
-
-Servicios de correo y publicidad:
-
-79571000-7, 79340000-9, 79341000-6, 64121100-1, 64121200-2, 79520000-5, 79920000-9, 79921000-6.
-
-Servicios de mantenimiento y reparación:
-
-45422000-1, 45420000-7, 50850000-8, 45262500-6, 45262520-2, 50000000-5, 71314100-3, 45330000-9, 45442100-8, 50232200-2, 45262680-1, 45259000-7, 50115000-4.
-
-Producción y venta de plantas de temporada, de compost, de planta y arbusto, de mobiliario de jardín…
-
-03121100-6, 03451300-9, 39142000-9, 03110000-5.
-
-Producción y venta de jabones de mano:
-
-33711900-6, 33741100-7, 39831700-3.
-
-Producción y venta de herramientas de cocina de madera:
-
-39220000-0, 44410000-7, 39221100-8, 39221180-2, 39141000-2.
-
-Producción y venta de mobiliario de carpintería:
-
-39100000-3, 03419100-1, 37800000-6, 37810000-9.
-
-Venta y distribución:
-
-30199000-0, 39000000-2.
-
-Artículos para eventos:
-
-18530000-3.
-
-Regalos y obsequios de empresa:
-
-39516000-2, 39295500-1, 39561140-5, 39200000-4, 39290000-1, 39170000-4, 44111300-4, 39298900-6, 44812400-9.
-
-## Relaciones Normativas y Fundamentos de Derecho
+39516000-2, 39295500-1, 39561140-5, 39200000-4, 39290000-1, 39170000-4, 44111300-4, 39298900-6, 44812400-9. ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
 

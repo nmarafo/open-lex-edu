@@ -1,7 +1,12 @@
 ---
 id: norm-can-res-boc-2026-060-61
 codigo_sintetizado: Resolucion BOC 61
-titulo: 'Resolución de la Dirección General de Ordenación de las Enseñanzas, Inclusión e Innovación, por la que se dictan instrucciones para regular la implantación, con carácter de experiencia piloto, del Programa del Diploma del Bachillerato Internacional en centros educativos públicos de la Comunidad Autónoma de Canarias, durante el curso 2026-2027. Presentación de solicitudes de participación del alumnado por vía telemática: del 20 de abril al 11 de mayo (BOC nº 60, de 27 de marzo).'
+titulo: 'Resolución de la Dirección General de Ordenación de las Enseñanzas, Inclusión
+  e Innovación, por la que se dictan instrucciones para regular la implantación, con
+  carácter de experiencia piloto, del Programa del Diploma del Bachillerato Internacional
+  en centros educativos públicos de la Comunidad Autónoma de Canarias, durante el
+  curso 2026-2027. Presentación de solicitudes de participación del alumnado por vía
+  telemática: del 20 de abril al 11 de mayo (BOC nº 60, de 27 de marzo).'
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Ordenación, Inclusión e Innovación
@@ -13,40 +18,40 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Bachillerato
 tags:
-  - bachillerato
-  - bienestar-infantil
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - formacion-profesional
-  - inclusiva
-  - neae
-  - personal-no-docente
-  - profesorado
+- bachillerato
+- bienestar-infantil
+- ensenanzas-deportivas
+- equipos-directivos
+- formacion-profesional
+- inclusiva
+- neae
+- personal-no-docente
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-25-2018
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-res-boc-2019-069-48
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-25-2018
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-boc-2019-069-48
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-res-boc-2019-069-48
-    - norma_id: norm-can-d-25-2018
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-res-boc-2019-069-48
+  - norma_id: norm-can-d-25-2018
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-060-1011.pdf
 ---
 # Resolución de la Dirección General de Ordenación de las Enseñanzas, Inclusión e Innovación, por la que se dictan instrucciones para regular la implantación, con carácter de experiencia piloto, del Programa del Diploma del Bachillerato Internacional en centros educativos públicos de la Comunidad Autónoma de Canarias, durante el curso 2026-2027. Presentación de solicitudes de participación del alumnado por vía telemática: del 20 de abril al 11 de mayo (BOC nº 60, de 27 de marzo).
@@ -82,15 +87,12 @@ Décimo.- El [Decreto 25/2018](../06_atencion_diversidad_y_orientacion/D25_2018_
 
 Undécimo.- La normativa vigente en la Comunidad Autónoma de Canarias que regula el procedimiento ordinario de admisión del alumnado en Bachillerato en centros educativos sostenidos con fondos públicos constituye el marco de referencia con el que debe coordinarse el procedimiento específico de participación previsto en la presente Resolución. En atención a lo anterior, y a fin de ordenar un procedimiento único y transparente para todo el alumnado de Canarias que desee optar a las plazas ofertadas en los centros participantes, se establecen las presentes instrucciones y sus anexos, sin perjuicio de la condición de autorización definitiva de los centros por la Organización del Bachillerato Internacional. En virtud de lo anteriormente expuesto y conforme a la competencia prevista en el artículo 17 2.j) del [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, para desarrollar e impulsar iniciativas de investigación e innovación educativas, incluidas la gestión económica y administrativa de las mismas,
 RESUELVO:
-Primero.- Dictar las instrucciones para regular la implantación, con carácter de experiencia piloto, del Programa del Diploma del Bachillerato Internacional en centros educativos públicos de la Comunidad Autónoma de Canarias durante el curso 2026-2027.
-Segundo.- Aprobar los Anexos I, II, III y IV , que forman parte integrante de esta Resolución, y que establecen el procedimiento, el calendario, la documentación y los modelos necesarios para su ejecución.
+Primero.- Dictar las instrucciones para regular la implantación, con carácter de experiencia piloto, del Programa del Diploma del Bachillerato Internacional en centros educativos públicos de la Comunidad Autónoma de Canarias durante el curso 2026-2027. Segundo.- Aprobar los Anexos I, II, III y IV , que forman parte integrante de esta Resolución, y que establecen el procedimiento, el calendario, la documentación y los modelos necesarios para su ejecución.
 Tercero.- Ordenar la publicación de la presente Resolución en el Boletín Oficial de Canarias y en la página web de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes del Gobierno de Canarias. A la presente Resolución, que no pone fin a la vía administrativa, podrá interponerse recurso de alzada ante el órgano superior jerárquico, en el plazo de un mes contado a partir del día siguiente al de su publicación, de conformidad con lo previsto en los artículos 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Las Palmas de Gran Canaria, a 13 de marzo de 2026.- El Director General de Ordenación de las Enseñanzas, Inclusión e Innovación, David Pablos González.
 
 ## Anexo I
 
-INSTRUCCIONES PARA REGULAR LA IMPLANTACIÓN DEL PROGRAMA DEL DIPLOMA DEL BACHILLERATO INTERNACIONAL EN CENTROS EDUCATIVOS PÚBLICOS DE LA COMUNIDAD AUTÓNOMA DE CANARIAS, DURANTE EL CURSO 2026-2027.
-
-#### Primera. Descripción del Programa del Diploma del Bachillerato Internacional.
+INSTRUCCIONES PARA REGULAR LA IMPLANTACIÓN DEL PROGRAMA DEL DIPLOMA DEL BACHILLERATO INTERNACIONAL EN CENTROS EDUCATIVOS PÚBLICOS DE LA COMUNIDAD AUTÓNOMA DE CANARIAS, DURANTE EL CURSO 2026-2027. #### Primera. Descripción del Programa del Diploma del Bachillerato Internacional.
 
 El Programa del Diploma del Bachillerato Internacional (IB) es un programa educativo preuniversitario de dos años, dirigido al alumnado de 16 a 19 años. Su participación es voluntaria para el alumnado y para los centros educativos, y no sustituye al Bachillerato, sino que permite simultanear las enseñanzas de Bachillerato reguladas por la normativa autonómica vigente con la formación propia del IB, orientada a la obtención del diploma, lo que representa una nueva orientación formativa para el alumnado, incrementando sus opciones de trayectoria educativa internacional.
 
@@ -183,9 +185,7 @@ INSTRUCCIONES PARA LA PARTICIPACIÓN DEL ALUMNADO EN EL PROGRAMA DEL DIPLOMA DEL
 
 1. El procedimiento de participación en el programa se articula de forma coordinada con el procedimiento ordinario de admisión a Bachillerato, garantizando los principios de publicidad, igualdad, mérito y capacidad. Por tanto, el alumnado que participe en el procedimiento regulado en el presente anexo deberá haber tramitado previamente la admisión ordinaria a Bachillerato conforme a la normativa vigente para el curso 2026- 2027, a fin de garantizar su escolarización. La solicitud de participación en el Programa del Diploma no sustituye la solicitud de admisión ordinaria a Bachillerato.
 
-2. Podrá participar en este procedimiento el alumnado que se encuentre cursando 4.º de la ESO en el curso 2025-2026, con independencia de su centro educativo de origen o comunidad autónoma de procedencia; y que haya solicitado plaza para cursar Bachillerato en la Comunidad Autónoma de Canarias para el curso 2026-2027.
-
-3. Además, el alumnado deberá acreditar una nota media mínima de 7,5 en la etapa de Educación Secundaria Obligatoria. En este sentido:
+2. Podrá participar en este procedimiento el alumnado que se encuentre cursando 4.º de la ESO en el curso 2025-2026, con independencia de su centro educativo de origen o comunidad autónoma de procedencia; y que haya solicitado plaza para cursar Bachillerato en la Comunidad Autónoma de Canarias para el curso 2026-2027. 3. Además, el alumnado deberá acreditar una nota media mínima de 7,5 en la etapa de Educación Secundaria Obligatoria. En este sentido:
 a) La nota media se calculará a partir de las calificaciones finales de las materias cursadas, conforme al procedimiento establecido para la admisión a las enseñanzas de Bachillerato en centros sostenidos con fondos públicos.
 
 b) Cuando para el cálculo de la nota media sea necesario convertir calificaciones cualitativas a cuantitativas, se aplicarán las equivalencias y los criterios establecidos en las instrucciones vigentes de la Comunidad Autónoma de Canarias para el cálculo de la nota media en el procedimiento ordinario de admisión del alumnado en centros educativos. A estos efectos, se utilizará la tabla de equivalencias siguiente:

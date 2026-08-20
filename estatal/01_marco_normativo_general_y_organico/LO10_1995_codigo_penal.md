@@ -4,7 +4,8 @@ codigo_sintetizado: BOE-A-1995-25444
 titulo: Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1995-11-24'
 boletin: BOE
@@ -15,28 +16,28 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Empleados públicos
 tags:
-  - convivencia
-  - convivencia-escolar
-  - empleados-p-blicos
-  - equipos-directivos
-  - gestion-economica
+- convivencia
+- convivencia-escolar
+- empleados-p-blicos
+- equipos-directivos
+- gestion-economica
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-lo-1-1982
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-1-1982
   fundamento_de:
-    - norma_id: norm-es-2004-15601
-    - norma_id: norm-es-lo-1-2004
-    - norma_id: norm-es-lo-10-2022
-    - norma_id: norm-es-lo-5-2000
-    - norma_id: norm-es-lo-8-2021
-    - norma_id: norm-can-res-boc-2026-129-26
+  - norma_id: norm-es-2004-15601
+  - norma_id: norm-es-lo-1-2004
+  - norma_id: norm-es-lo-10-2022
+  - norma_id: norm-es-lo-5-2000
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-can-res-boc-2026-129-26
   desarrollado_por: []
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-es-lo-1-1982
+  - '27'
+  - norma_id: norm-es-lo-1-1982
 ---
 # Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.
 

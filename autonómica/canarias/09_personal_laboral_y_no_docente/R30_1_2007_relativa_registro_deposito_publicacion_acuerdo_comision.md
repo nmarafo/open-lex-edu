@@ -28,51 +28,59 @@ fecha_disposicion: '2007-01-30'
 
 ## Preámbulo
 
-Primero.- Ordenar la inscripciÃ³n en el Registro de Convenios Colectivos con notificaciÃ³n a la ComisiÃ³n Negociadora.
+589 - Dirección General de Trabajo.- Anuncio por el que se hace pública la Resolución de 30 de enero de 2007, relativa al registro, depósito y publicación del Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias, sobre encuadramiento de diferentes categorías profesionales del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias.
 
-Segundo.- Disponer el depÃ³sito del texto original.
+Descargar en formato pdf
 
-Tercero.- Disponer su publicaciÃ³n en el BoletÃ­n Oficial de Canarias.
+Visto el Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias, sobre encuadramiento de diferentes categorías profesionales del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias, y de conformidad con lo dispuesto en el artº. 90 del Real Decreto Legislativo 1/1995, de 24 de marzo, por el que se aprueba el Texto Refundido de la Ley del Estatuto de los Trabajadores, y los Reales Decretos 661/1984, de 25 de enero y 1.033/1984, de 1 de abril, sobre traspaso de funciones y servicios del Estado a la Comunidad Autónoma de Canarias en materia de mediación, arbitraje y conciliación; el Real Decreto 1.040/1981, de 22 de mayo, sobre depósito y registro de Convenios Colectivos, y el Reglamento Orgánico de la Consejería de Empleo y Asuntos Sociales, aprobado por el Decreto 39/2005, de 16 de marzo (B.O.C. nº 63, de 31.3.05), esta Dirección General de Trabajo
 
-Contra el presente acto, que no agota la vÃ­a administrativa, cabe recurso de alzada ante la Sra. Consejera de Empleo y Asuntos Sociales, en el plazo de un mes desde la notificaciÃ³n o publicaciÃ³n de la presente resoluciÃ³n, y sin perjuicio de cualquier otro recurso que pudiera interponerse.
+ACUERDA:
 
-Las Palmas de Gran Canaria, a 30 de enero de 2007.- El Director General de Trabajo, Pedro TomÃ¡s Pino PÃ©rez.
+Primero.- Ordenar la inscripción en el Registro de Convenios Colectivos con notificación a la Comisión Negociadora.
 
-Acuerdo de la ComisiÃ³n Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad AutÃ³noma de Canarias sobre encuadramiento de diferentes categorÃ­as profesionales del Convenio Colectivo del Personal Laboral de la Comunidad AutÃ³noma de Canarias.
+Segundo.- Disponer el depósito del texto original.
 
-En la reuniÃ³n celebrada por la ComisiÃ³n Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad AutÃ³noma de Canarias, el dÃ­a 15 de noviembre de 2006 se adoptÃ³, con el voto favorable de la AdministraciÃ³n y de todas las Organizaciones Sindicales el siguiente acuerdo, por el que se hace efectivo el encuadramiento definitivo de las categorÃ­as profesionales que se relacionan a continuaciÃ³n en el grupo retributivo que igualmente se seÃ±ala, del que pasan a formar parte a todos los efectos, modificÃ¡ndose el 
+Tercero.- Disponer su publicación en el Boletín Oficial de Canarias.
+
+Contra el presente acto, que no agota la vía administrativa, cabe recurso de alzada ante la Sra. Consejera de Empleo y Asuntos Sociales, en el plazo de un mes desde la notificación o publicación de la presente resolución, y sin perjuicio de cualquier otro recurso que pudiera interponerse.
+
+Las Palmas de Gran Canaria, a 30 de enero de 2007.- El Director General de Trabajo, Pedro Tomás Pino Pérez.
+
+Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias sobre encuadramiento de diferentes categorías profesionales del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias.
+
+En la reunión celebrada por la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias, el día 15 de noviembre de 2006 se adoptó, con el voto favorable de la Administración y de todas las Organizaciones Sindicales el siguiente acuerdo, por el que se hace efectivo el encuadramiento definitivo de las categorías profesionales que se relacionan a continuación en el grupo retributivo que igualmente se señala, del que pasan a formar parte a todos los efectos, modificándose el 
 
 ## anexo II. del Convenio en el sentido siguiente:
 
 EN EL GRUPO II
 
-CATEGORÃAS
+CATEGORÍAS
 
 - Administrador
 
 - Enfermera
 
-- Profesor de EducaciÃ³n FÃ­sica
+- Profesor de Educación Física
 
-- Profesor de MÃºsica
+- Profesor de Música
 
-- Profesor IdÃ³neo
+- Profesor Idóneo
 
 EN EL GRUPO III
 
-CATEGORÃAS
+CATEGORÍAS
 
 - Administrativo
 
 - Contable
 
-- Oficial 1Âª Administrativo
+- Oficial 1ª Administrativo
 
 EN EL GRUPO IV
 
-CATEGORÃAS
+CATEGORÍAS
 
-- AlbaÃ±il II
+- Albañil II
 
 - Auxiliar Administrativo
 
@@ -100,4 +108,4 @@ CATEGORÃAS
 
 - Grabador
 
-La AdministraciÃ³n.- El Viceconsejero de AdministraciÃ³n PÃºblica; El Director General de la FunciÃ³n PÃºblica.- El ComitÃ© Intercentros.- El Presidente; El Secretario.
+La Administración.- El Viceconsejero de Administración Pública; El Director General de la Función Pública.- El Comité Intercentros.- El Presidente; El Secretario.

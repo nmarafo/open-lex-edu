@@ -1,10 +1,13 @@
 ---
 id: norm-es-2010-11426
 codigo_sintetizado: BOE-A-2010-11426
-titulo: Real Decreto 860/2010, de 2 de julio, por el que se regulan las condiciones de formación inicial del profesorado de los centros privados para ejercer la docencia en las enseñanzas de educación secundaria obligatoria o de bachillerato.
+titulo: Real Decreto 860/2010, de 2 de julio, por el que se regulan las condiciones
+  de formación inicial del profesorado de los centros privados para ejercer la docencia
+  en las enseñanzas de educación secundaria obligatoria o de bachillerato.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2010-07-17'
 boletin: BOE
@@ -15,37 +18,37 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros privados
 tags:
-  - bachillerato
-  - centros-privados
-  - conciertos-educativos
-  - eso
-  - evaluacion
-  - formacion-profesional
-  - profesorado
-  - titulacion
+- bachillerato
+- centros-privados
+- conciertos-educativos
+- eso
+- evaluacion
+- formacion-profesional
+- profesorado
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2007-5478
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-1834-2008
-    - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2007-5478
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-1834-2008
+  - norma_id: norm-es-rd-276-2007
   fundamento_de:
-    - norma_id: norm-es-2011-13117
-    - norma_id: norm-es-2015-8043
+  - norma_id: norm-es-2011-13117
+  - norma_id: norm-es-2015-8043
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-rd-1834-2008
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2007-5478
-    - norma_id: norm-es-rd-276-2007
+  - '1'
+  - '2'
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-rd-1834-2008
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2007-5478
+  - norma_id: norm-es-rd-276-2007
 ---
 # Real Decreto 860/2010, de 2 de julio, por el que se regulan las condiciones de formación inicial del profesorado de los centros privados para ejercer la docencia en las enseñanzas de educación secundaria obligatoria o de bachillerato.
 
@@ -155,9 +158,7 @@ Todas las referencias al profesorado y a titulaciones para las que en este real 
 
 #### Disposición transitoria primera. Acreditación mediante actividades de formación.
 
-Hasta el 31 de agosto de 2010, la cualificación específica a la que se refiere el artículo 3.3.c), podrá acreditarse mediante las actividades de formación del profesorado relacionadas con la materia a impartir, de una duración al menos de 100 horas, certificadas por la Administración educativa competente, en los términos previstos en el artículo 1.4.c) de la Orden de 24 de julio de 1995.
-
-#### Disposición transitoria segunda. Acreditación de la formación pedagógica y didáctica.
+Hasta el 31 de agosto de 2010, la cualificación específica a la que se refiere el artículo 3.3.c), podrá acreditarse mediante las actividades de formación del profesorado relacionadas con la materia a impartir, de una duración al menos de 100 horas, certificadas por la Administración educativa competente, en los términos previstos en el artículo 1.4.c) de la Orden de 24 de julio de 1995. #### Disposición transitoria segunda. Acreditación de la formación pedagógica y didáctica.
 
 1. Los títulos profesionales de Especialización Didáctica, el Certificado de Cualificación Pedagógica, el Certificado de Aptitud Pedagógica, los títulos de Maestro, de Licenciado en Pedagogía y en Psicopedagogía y los de quienes estén en posesión de licenciatura o titulación equivalente que incluya formación pedagógica y didáctica obtenidos antes del 1 de octubre de 2009, acreditarán la formación pedagógica y didáctica a la que se refiere el artículo 100.2 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de acuerdo con lo establecido en la disposición transitoria octava de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y en la disposición transitoria tercera del [Real Decreto 1834/2008](./RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md), de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la Educación Secundaria Obligatoria, el Bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria.
 
@@ -181,9 +182,7 @@ El Ministro de Educación, en su ámbito de competencias, dictará cuantas dispo
 
 #### Disposición final tercera. Entrada en vigor.
 
-Dado en Madrid, el 2 de julio de 2010.
-
-JUAN CARLOS R.
+Dado en Madrid, el 2 de julio de 2010. JUAN CARLOS R.
 
 El Ministro de Educación,
 

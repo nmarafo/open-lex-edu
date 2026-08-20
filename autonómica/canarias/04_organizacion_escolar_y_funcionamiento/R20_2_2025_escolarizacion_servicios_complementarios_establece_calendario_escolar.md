@@ -1,10 +1,16 @@
 ---
 id: norm-can-res-boc-2025-044-89
 codigo_sintetizado: Resolucion BOC 89
-titulo: Resolución de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios, de 20 de febrero de 2025, por la que se establece el calendario escolar y se dictan instrucciones para la organización y desarrollo de las actividades de comienzo y finalización del curso 2025-2026, para los centros de enseñanzas no universitarias de la Comunidad Autónoma de Canarias (BOC n.º 44, de 4 de marzo).
+titulo: Resolución de la Dirección General de Administración de Centros, Escolarización
+  y Servicios Complementarios, de 20 de febrero de 2025, por la que se establece el
+  calendario escolar y se dictan instrucciones para la organización y desarrollo de
+  las actividades de comienzo y finalización del curso 2025-2026, para los centros
+  de enseñanzas no universitarias de la Comunidad Autónoma de Canarias (BOC n.º 44,
+  de 4 de marzo).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios Complementarios
+organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios
+  Complementarios
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: pdf_oficial_boc
@@ -13,41 +19,41 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Calendario escolar y jornadas
 tags:
-  - admision-alumnado
-  - autonomia-centro
-  - calendario-escolar-y-jornadas
-  - ensenanzas-deportivas
-  - ensenanzas-universitarias
-  - equipos-directivos
-  - formacion-profesional
-  - organizacion-escolar
-  - profesorado
-  - roc
+- admision-alumnado
+- autonomia-centro
+- calendario-escolar-y-jornadas
+- ensenanzas-deportivas
+- ensenanzas-universitarias
+- equipos-directivos
+- formacion-profesional
+- organizacion-escolar
+- profesorado
+- roc
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-123-2023
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-o-2013-10-09
-    - norma_id: norm-can-res-boc-2025-061-88
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
+  - norma_id: norm-can-d-123-2023
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-can-res-boc-2025-061-88
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-can-d-123-2023
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-o-2013-10-09
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-res-boc-2025-061-88
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-123-2023
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-res-boc-2025-061-88
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-044-886.pdf
 ---
 # Resolución de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios, de 20 de febrero de 2025, por la que se establece el calendario escolar y se dictan instrucciones para la organización y desarrollo de las actividades de comienzo y finalización del curso 2025-2026, para los centros de enseñanzas no universitarias de la Comunidad Autónoma de Canarias (BOC n.º 44, de 4 de marzo).
@@ -63,9 +69,7 @@ RESUELVO:
 
 #### Primero. Objeto y ámbito de aplicación.
 
-1. Esta Resolución tiene por objeto establecer el calendario escolar y la organización y desarrollo de las actividades de comienzo y finalización del curso escolar 2025-2026.
-
-2. La presente Resolución se aplicará a todos los centros públicos y privados que impartan Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato, Grado C de Formación Profesional (Itinerarios Formativos de Programas de Formación Profesional Adaptada IFE +16 e IFC +21), Grado D de Formación Profesional, Educación de Personas Adultas, Enseñanzas Deportivas, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música y Danza, Enseñanzas Artísticas Superiores de Música, de Diseño, de Arte Dramático y Enseñanzas de Idiomas.
+1. Esta Resolución tiene por objeto establecer el calendario escolar y la organización y desarrollo de las actividades de comienzo y finalización del curso escolar 2025-2026. 2. La presente Resolución se aplicará a todos los centros públicos y privados que impartan Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato, Grado C de Formación Profesional (Itinerarios Formativos de Programas de Formación Profesional Adaptada IFE +16 e IFC +21), Grado D de Formación Profesional, Educación de Personas Adultas, Enseñanzas Deportivas, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música y Danza, Enseñanzas Artísticas Superiores de Música, de Diseño, de Arte Dramático y Enseñanzas de Idiomas.
 
 3. Las escuelas oficiales de idiomas, como centros docentes que imparten Enseñanzas de Idiomas de Régimen Especial, ajustarán sus actividades docentes a las instrucciones de organización, funcionamiento y calendario que, para las citadas enseñanzas, dicte la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.
 
@@ -77,9 +81,7 @@ RESUELVO:
 
 #### Tercero. Calendario de actividades de inicio y finalización de curso.
 
-1. El curso escolar se iniciará el 1 de septiembre de 2025 y finalizará el 31 de agosto de 2026.
-
-2. Las actividades ordinarias del curso escolar se iniciarán el 1 de septiembre de 2025 y finalizarán el 30 de junio de 2026, de conformidad con lo dispuesto en el Anexo I de la presente Resolución.
+1. El curso escolar se iniciará el 1 de septiembre de 2025 y finalizará el 31 de agosto de 2026. 2. Las actividades ordinarias del curso escolar se iniciarán el 1 de septiembre de 2025 y finalizarán el 30 de junio de 2026, de conformidad con lo dispuesto en el Anexo I de la presente Resolución.
 
 3. En las Enseñanzas Artísticas Superiores las actividades ordinarias del curso escolar se iniciarán el 1 de septiembre de 2025 y finalizarán el 10 de julio de 2026, tal y como se prevé en el Anexo II de la presente Resolución.
 
@@ -166,9 +168,7 @@ de las sesiones de evaluación final, que se determinarán respetando las activi
 
 #### Décimo. Programación General Anual y memoria final de curso.
 
-1. El plazo para la aprobación de la PGA, con carácter general, finaliza el día 31 de octubre de 2025.
-
-2. Una vez aprobada la memoria final del curso por la dirección del centro, será remitida a la Inspección de Educación a través de la página web de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, o de los medios telemáticos que se establezcan al efecto, antes del 15 de julio de 2026. La Inspección de Educación remitirá a la Dirección General de Ordenación de las Enseñanzas, Inclusión e Innovación, las memorias de los centros de Educación Especial.
+1. El plazo para la aprobación de la PGA, con carácter general, finaliza el día 31 de octubre de 2025. 2. Una vez aprobada la memoria final del curso por la dirección del centro, será remitida a la Inspección de Educación a través de la página web de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, o de los medios telemáticos que se establezcan al efecto, antes del 15 de julio de 2026. La Inspección de Educación remitirá a la Dirección General de Ordenación de las Enseñanzas, Inclusión e Innovación, las memorias de los centros de Educación Especial.
 
 #### Undécimo. Calendario de las pruebas extraordinarias.
 

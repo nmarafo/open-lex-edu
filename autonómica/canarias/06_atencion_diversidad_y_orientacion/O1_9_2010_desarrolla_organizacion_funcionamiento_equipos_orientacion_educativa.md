@@ -1,7 +1,9 @@
 ---
 id: norm-can-o-1-9-2010
 codigo_sintetizado: O1_9_2010 Organizacion y Funcionamiento de los EOEP en Canarias
-titulo: Orden de 1 de septiembre de 2010, por la que se desarrolla la organización y funcionamiento de los equipos de orientación educativa y psicopedagógica de zona y específicos de la Comunidad Autónoma de Canarias.
+titulo: Orden de 1 de septiembre de 2010, por la que se desarrolla la organización
+  y funcionamiento de los equipos de orientación educativa y psicopedagógica de zona
+  y específicos de la Comunidad Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Ministerio de Educación, Formación Profesional y Deportes
@@ -19,38 +21,38 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Equipos de Orientación (EOEP)
 tags:
-  - admision-alumnado
-  - curriculo
-  - dictamen-escolarizacion
-  - eoep
-  - eoep-especificos
-  - equipos-de-orientacion-eoep
-  - oposiciones
-  - orientacion-educativa
-  - orientacion-psicopedagogica
-  - personal-no-docente
-  - procedimiento-administrativo
-  - profesorado
+- admision-alumnado
+- curriculo
+- dictamen-escolarizacion
+- eoep
+- eoep-especificos
+- equipos-de-orientacion-eoep
+- oposiciones
+- orientacion-educativa
+- orientacion-psicopedagogica
+- personal-no-docente
+- procedimiento-administrativo
+- profesorado
 relaciones:
   desarrolla:
-    - norma_id: norm-can-d-23-1995
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-23-1995
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-53-1984
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-1-1996
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-53-1984
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-can-l-6-2014
   fundamento_de:
-    - norma_id: norm-can-res-juriscan-64838-121
+  - norma_id: norm-can-res-juriscan-64838-121
   fundamentos_derecho:
-    - norma_id: norm-can-d-23-1995
+  - norma_id: norm-can-d-23-1995
   articulos:
-    - '1'
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-53-1984
-    - norma_id: norm-es-1999-23750
+  - '1'
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-53-1984
+  - norma_id: norm-es-1999-23750
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-181-5209.pdf
 ---
 # Orden de 1 de septiembre de 2010, por la que se desarrolla la organización y funcionamiento de los equipos de orientación educativa y psicopedagógica de zona y específicos de la Comunidad Autónoma de Canarias.
@@ -539,8 +541,7 @@ k) Una vez que el informe esté en el centro, el padre y la madre o tutores lega
 
 3. En el caso de que existiera discrepancia entre la opinión de la familia y la propuesta de escolarización del dictamen de escolarización o propuesta de orientación psicoeducativa de escolarización, se actuará de la siguiente manera:
 a) El Inspector o Inspectora de zona junto con el coordinador o coordinadora del Equipo y, en su caso, con un responsable de la Dirección General de Ordenación e Innovación Educativa mediará con la familia para encontrar una solución y levantará acta de la reunión mantenida con tal fin.
-b) De no encontrar solución por este procedimiento, el Inspector o Inspectora de zona remitirá a la Dirección Territorial un escrito en el que recoja una propuesta de escolarización consensuada entre los participantes en la reunión y la Dirección General de Ordenación e Innovación Educativa, teniendo en cuenta la oferta escolar de la zona y se adjuntará el acta de la reunión a que se refiere el apartado a) de este punto 4.
-c) En el supuesto de no conseguir la opinión de la familia sobre la propuesta de escolarización del dictamen de escolarización o sobre la propuesta de orientación psicoeducativa de escolarización, después de realizadas todas las actuaciones al alcance del centro educativo y acreditadas documentalmente las mismas, el Inspector visará el informe y se continuará con el procedimiento establecido en el apartado h) anterior.
+b) De no encontrar solución por este procedimiento, el Inspector o Inspectora de zona remitirá a la Dirección Territorial un escrito en el que recoja una propuesta de escolarización consensuada entre los participantes en la reunión y la Dirección General de Ordenación e Innovación Educativa, teniendo en cuenta la oferta escolar de la zona y se adjuntará el acta de la reunión a que se refiere el apartado a) de este punto 4. c) En el supuesto de no conseguir la opinión de la familia sobre la propuesta de escolarización del dictamen de escolarización o sobre la propuesta de orientación psicoeducativa de escolarización, después de realizadas todas las actuaciones al alcance del centro educativo y acreditadas documentalmente las mismas, el Inspector visará el informe y se continuará con el procedimiento establecido en el apartado h) anterior.
 
 4. La elaboración del Informe de evaluación de la comunicación y el lenguaje contendrá al menos los apartados previstos en el anexo V y su actualización en el anexo VI de la presente Orden.
 
@@ -773,7 +774,7 @@ Estas orientaciones han de ser útiles para realizar las adecuaciones organizati
 
 CURRICULAR Reunidos los abajo firmantes, miembros del equipo docente del/la alumno/a:
 ________________________________________________CIAL_________ escolarizado en el curso/ciclo/etapa______ en el centro escolar CEIP/IES/CEO_________________________________ Informamos que, teniendo en cuenta los objetivos, contenidos y competencias establecidos en el Decreto 183/2008 del segundo ciclo de Ed. Infantil, en el Decreto 126/2007 de Ed. Primaria, o en el Decreto 127/2007 de la ESO, en el día de la fecha, su referente curricular1 se sitúa en las distintas áreas y materia en los siguientes cursos:
-(poner una X dentro del cuadro correspondiente) EDUCACIÓN INFANTIL Conocimiento de sí mismo y autonomía personal Conocimiento del entorno Lenguaje:
+(poner una ÓX dentro del cuadro correspondiente) EDUCACIÓN INFANTIL Conocimiento de sí mismo y autonomía personal Conocimiento del entorno Lenguaje:
 comunicación y representación
 Segundo ciclo 3 años
 

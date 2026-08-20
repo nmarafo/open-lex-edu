@@ -1,10 +1,13 @@
 ---
 id: norm-and-d-147-2002
 codigo_sintetizado: D147_2002 Atencion Educativa Alumnado NEE Andalucia
-titulo: Decreto 147/2002, de 14 de mayo, por el que se establece la ordenación de la atención educativa al alumnado con necesidades educativas especiales asociadas a capacidades personales distintas.
+titulo: Decreto 147/2002, de 14 de mayo, por el que se establece la ordenación de
+  la atención educativa al alumnado con necesidades educativas especiales asociadas
+  a capacidades personales distintas.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 147/2002
 fecha_disposicion: '2002-05-14'
@@ -18,17 +21,17 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Atención a la diversidad
 tags:
-  - nee
-  - educacion_especial
-  - adaptaciones_curriculares
-  - andalucia
+- nee
+- educacion_especial
+- adaptaciones_curriculares
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-1-1996
 ---
 # Decreto 147/2002, de 14 de mayo, por el que se establece la ordenación de la atención educativa al alumnado con necesidades educativas especiales asociadas a capacidades personales distintas.
 
@@ -47,15 +50,9 @@ DISPONGO:
 
 2. Plazo: 10 años.
 
-3. Fecha de emisión: 30 de mayo de 2002.
+3. Fecha de emisión: 30 de mayo de 2002. 4. Cupón anual: 5,375%.
 
-4. Cupón anual: 5,375%.
-
-5. Fecha de pago del primer cupón: 30 de mayo de 2003.
-
-6. Fecha de vencimiento: 30 de mayo de 2012.
-
-7. Precio de emisión: 99,761%.
+5. Fecha de pago del primer cupón: 30 de mayo de 2003. 6. Fecha de vencimiento: 30 de mayo de 2012. 7. Precio de emisión: 99,761%.
 
 8. TIR de emisión: 5,4265%.
 
@@ -94,9 +91,7 @@ DISPONGO:
 
 1. El objeto de la presente Orden es regular el procedimiento de concesión de subvenciones para propiciar la integración de la perspectiva de género en las actuaciones de desarrollo rural, garantizando que las intervenciones de desarrollo contemplen las necesidades de las mujeres y de los hombres, permitan su plena participación con equidad en los procesos de desarrollo rural y contribuyan a una igualdad real de oportunidades entre mujeres y hombres.
 
-2. Asimismo, es objeto de la presente Orden convocar dichas subvenciones para el año 2002.
-
-3. La concesión de las subvenciones reguladas por la presente Orden se efectuará en régimen de concurrencia competitiva, de conformidad con lo establecido en el artículo 9 l.
+2. Asimismo, es objeto de la presente Orden convocar dichas subvenciones para el año 2002. 3. La concesión de las subvenciones reguladas por la presente Orden se efectuará en régimen de concurrencia competitiva, de conformidad con lo establecido en el artículo 9 l.
 
 Reglamento por el que se regulan los procedimientos para la concesión de subvenciones y ayudas públicas por la Administración de la Junta de Andalucía y sus Organismos Autónomos y su régimen jurídico, aprobado por el Decreto 254/2001, de 20 de noviembre.
 

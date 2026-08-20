@@ -1,7 +1,13 @@
 ---
 id: norm-can-res-boc-2026-073-113
 codigo_sintetizado: Resolucion BOC 113
-titulo: Resolución de 8 de abril de 2026, por la que se corrige la Resolución de 13 de febrero de 2026, que dicta instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grados D, Enseñanzas Profesionales de Artes Pláticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026/2027.
+titulo: Resolución de 8 de abril de 2026, por la que se corrige la Resolución de 13
+  de febrero de 2026, que dicta instrucciones sobre el proceso de admisión del alumnado
+  a Ciclos Formativos de Grado Básico, Medio y Superior (niveles 1, 2 y 3, respectivamente)
+  de las Enseñanzas de Formación Profesional de Grados D, Enseñanzas Profesionales
+  de Artes Pláticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas
+  de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos
+  en la Comunidad Autónoma de Canarias para el curso escolar 2026/2027.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,50 +19,46 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión y escolarización del alumnado
 tags:
-  - admisi-n-y-escolarizaci-n-del-alumnado
-  - admision-alumnado
-  - ensenanzas-artisticas
-  - ensenanzas-deportivas
-  - eoi
-  - equipos-directivos
-  - formacion-profesional
-  - oposiciones
-  - procedimiento-administrativo
-  - profesorado
+- admisi-n-y-escolarizaci-n-del-alumnado
+- admision-alumnado
+- ensenanzas-artisticas
+- ensenanzas-deportivas
+- eoi
+- equipos-directivos
+- formacion-profesional
+- oposiciones
+- procedimiento-administrativo
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-212-1991
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-can-res-boc-2026-039-102
-    - norma_id: norm-can-res-boc-2026-039-103
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-boc-2026-039-102
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-lo-2-2006
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-can-res-boc-2026-039-102
-    - norma_id: norm-can-res-boc-2026-039-103
-    - norma_id: norm-can-d-212-1991
+  - '1'
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-can-res-boc-2026-039-102
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-073-1192.pdf
 ---
-# Resolución de 8 de abril de 2026, por la que se corrige la Resolución de 13 de febrero de 2026, que dicta instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grados D, Enseñanzas Profesionales de Artes Pláticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026/2027.
-
-## Preámbulo
+# Resolución de 8 de abril de 2026, por la que se corrige la Resolución de 13 de febrero de 2026, que dicta instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grados D, Enseñanzas Profesionales de Artes Pláticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026/2027. ## Preámbulo
 
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes Resolución de 8 de abril de 2026, por la que se corrige la Resolución de 13 de febrero de 2026, que dicta instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grados D, Enseñanzas Profesionales de Artes Pláticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026/2027. ANTECEDENTES DE HECHO
-Primero.- Con fecha de 26 de febrero de 2026, se publica en el Boletín Oficial de Canarias n.º 39 la [Resolución de 13 de febrero de 2026](./R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md), por la que se dictan instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grados D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026/2027.
-
-#### Segunda. Se advierten errores materiales, de hecho en la instrucción "II.b. Instrucciones específicas para los Ciclos Formativos de Grado Medio (nivel 2) y Superior (nivel 3)", referidos al acceso a los Ciclos Formativos de Grado Medio (nivel 2), y a la adjudicación definitiva y matrícula en los Ciclos Formativos de Formación Profesional. FUNDAMENTO DE DERECHO Único.- El artículo 109.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, dispone que "Las Administraciones Públicas podrán, asimismo, rectificar en cualquier momento, de oficio o a instancia de los interesados, los errores materiales, de hecho, o aritméticos existentes en sus actos". A este respecto se han detectado errores materiales en las instrucciones siguientes:
+Primero.- Con fecha de 26 de febrero de 2026, se publica en el Boletín Oficial de Canarias n.º 39 la [Resolución de 13 de febrero de 2026](./R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md), por la que se dictan instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grados D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026/2027. #### Segunda. Se advierten errores materiales, de hecho en la instrucción "II.b. Instrucciones específicas para los Ciclos Formativos de Grado Medio (nivel 2) y Superior (nivel 3)", referidos al acceso a los Ciclos Formativos de Grado Medio (nivel 2), y a la adjudicación definitiva y matrícula en los Ciclos Formativos de Formación Profesional. FUNDAMENTO DE DERECHO Único.- El artículo 109.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, dispone que "Las Administraciones Públicas podrán, asimismo, rectificar en cualquier momento, de oficio o a instancia de los interesados, los errores materiales, de hecho, o aritméticos existentes en sus actos". A este respecto se han detectado errores materiales en las instrucciones siguientes:
 
 - Decimonovena, apartado c): en lo que se refiere al acceso desde el Grado C.
 - Vigésima quinta: al hacer referencia al anexo que se emplea para publicar en el tablón de anuncios y en la página web del centro educativo las vacantes una vez finalizado el periodo de matrícula del alumnado admitido en la adjudicación definitiva. En su virtud, y en uso de las competencias que tengo conferidas en base a lo dispuesto en el artículo 19 l [Decreto.

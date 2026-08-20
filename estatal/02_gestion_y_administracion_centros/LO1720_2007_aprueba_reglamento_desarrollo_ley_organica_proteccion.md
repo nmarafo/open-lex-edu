@@ -1,10 +1,13 @@
 ---
 id: norm-es-2008-979
 codigo_sintetizado: BOE-A-2008-979
-titulo: Real Decreto 1720/2007, de 21 de diciembre, por el que se aprueba el Reglamento de desarrollo de la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal.
+titulo: Real Decreto 1720/2007, de 21 de diciembre, por el que se aprueba el Reglamento
+  de desarrollo de la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos
+  de carácter personal.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2008-01-19'
 boletin: BOE
@@ -15,33 +18,30 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Protección de datos y seguridad de la información
 tags:
-  - curriculo
-  - equipos-directivos
-  - protecci-n-de-datos-y-seguridad-de-la-informacion
-  - proteccion-menores
-  - rgpd
+- curriculo
+- equipos-directivos
+- protecci-n-de-datos-y-seguridad-de-la-informacion
+- proteccion-menores
+- rgpd
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-3-2018
   fundamento_de:
-    - norma_id: norm-es-2011-17560
-    - norma_id: norm-es-lo-3-2018
-    - norma_id: norm-can-res-boc-2018-086-122
-    - norma_id: norm-can-res-juriscan-72882-123
-    - norma_id: norm-can-d-114-2011
-    - norma_id: norm-can-res-juriscan-64838-121
+  - norma_id: norm-es-2011-17560
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-can-res-boc-2018-086-122
+  - norma_id: norm-can-res-juriscan-72882-123
+  - norma_id: norm-can-d-114-2011
+  - norma_id: norm-can-res-juriscan-64838-121
   desarrollado_por: []
   fundamentos_derecho:
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-39-2015
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-3-2018
-  articulos:
-    - '1'
-    - norma_id: norm-can-l-16-2003
-    - norma_id: norm-es-1999-23750
+  - '1'
+  - norma_id: norm-can-l-16-2003
+  - norma_id: norm-es-1999-23750
 ---
 # Real Decreto 1720/2007, de 21 de diciembre, por el que se aprueba el Reglamento de desarrollo de la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal.
 
@@ -87,9 +87,7 @@ El título VIII regula un aspecto esencial para la tutela del derecho fundamenta
 
 Finalmente en el título IX, dedicado a los procedimientos tramitados por la Agencia Española de Protección de Datos, se ha optado por normar exclusivamente aquellas especialidades que diferencian a los distintos procedimientos tramitados por la Agencia de las normas generales previstas para los procedimientos en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, cuya aplicación se declara supletoria al presente reglamento.
 
-En su virtud, a propuesta del Ministro de Justicia, con la aprobación previa de la Ministra de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 21 de diciembre de 2007.
-
-**D I S P O N G O :**
+En su virtud, a propuesta del Ministro de Justicia, con la aprobación previa de la Ministra de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 21 de diciembre de 2007. **D I S P O N G O :**
 
 #### Artículo único. Aprobación del reglamento.
 
@@ -155,9 +153,7 @@ El título I, con excepción del apartado c) del artículo 4, los títulos II, I
 
 #### Disposición final segunda. Entrada en vigor.
 
-Dado en Madrid, el 21 de diciembre de 2007.
-
-JUAN CARLOS R.
+Dado en Madrid, el 21 de diciembre de 2007. JUAN CARLOS R.
 
 El Ministro de Justicia,
 
@@ -1397,9 +1393,7 @@ Cuando se tenga previsto crear un fichero del que resulten responsables varias p
 
 #### Artículo 58. Notificación de la modificación o supresión de ficheros.
 
-1. La inscripción del fichero deberá encontrarse actualizada en todo momento. Cualquier modificación que afecte al contenido de la inscripción de un fichero deberá ser previamente notificada a la Agencia Española de Protección de Datos o a las autoridades de control autonómicas competentes, a fin de proceder a su inscripción en el registro correspondiente, conforme a lo dispuesto en el artículo 55.
-
-2. Cuando el responsable del fichero decida su supresión, deberá notificarla a efectos de que se proceda a la cancelación de la inscripción en el registro correspondiente.
+1. La inscripción del fichero deberá encontrarse actualizada en todo momento. Cualquier modificación que afecte al contenido de la inscripción de un fichero deberá ser previamente notificada a la Agencia Española de Protección de Datos o a las autoridades de control autonómicas competentes, a fin de proceder a su inscripción en el registro correspondiente, conforme a lo dispuesto en el artículo 55. 2. Cuando el responsable del fichero decida su supresión, deberá notificarla a efectos de que se proceda a la cancelación de la inscripción en el registro correspondiente.
 
 3. Tratándose de ficheros de titularidad pública, cuando se pretenda la modificación que afecte a alguno de los requisitos previstos en el artículo 55 o la.
 
@@ -1417,9 +1411,7 @@ supresión del fichero deberá haberse adoptado, con carácter previo a la notif
 
 1. El Director de la Agencia Española de Protección de Datos, a propuesta del Registro General de Protección de Datos, dictará resolución acordando, en su caso, la inscripción, una vez tramitado el procedimiento previsto en el capítulo IV del título IX.
 
-2. La inscripción contendrá el código asignado por el Registro, la identificación del responsable del fichero, la identificación del fichero o tratamiento, la descripción de su finalidad y usos previstos, el sistema de tratamiento empleado en su organización, en su caso, el colectivo de personas sobre el que se obtienen los datos, el procedimiento y procedencia de los datos, las categorías de datos, el servicio o unidad de acceso, y la indicación del nivel de medidas de seguridad exigible conforme a lo dispuesto en el artículo 81.
-
-Asimismo, se incluirán, en su caso, la identificación del encargado del tratamiento en donde se encuentre ubicado el fichero y los destinatarios de cesiones y transferencias internacionales.
+2. La inscripción contendrá el código asignado por el Registro, la identificación del responsable del fichero, la identificación del fichero o tratamiento, la descripción de su finalidad y usos previstos, el sistema de tratamiento empleado en su organización, en su caso, el colectivo de personas sobre el que se obtienen los datos, el procedimiento y procedencia de los datos, las categorías de datos, el servicio o unidad de acceso, y la indicación del nivel de medidas de seguridad exigible conforme a lo dispuesto en el artículo 81. Asimismo, se incluirán, en su caso, la identificación del encargado del tratamiento en donde se encuentre ubicado el fichero y los destinatarios de cesiones y transferencias internacionales.
 
 En el caso de ficheros de titularidad pública también se hará constar la referencia de la disposición general por la que ha sido creado, y en su caso, modificado.
 
@@ -1735,9 +1727,7 @@ Las medidas de seguridad exigibles a los accesos a datos de carácter personal a
 
 #### Artículo 87. Ficheros temporales o copias de trabajo de documentos.
 
-1. Aquellos ficheros temporales o copias de documentos que se hubiesen creado exclusivamente para la realización de trabajos temporales o auxiliares deberán cumplir el nivel de seguridad que les corresponda conforme a los criterios establecidos en el artículo 81.
-
-2. Todo fichero temporal o copia de trabajo así creado será borrado o destruido una vez que haya dejado de ser necesario para los fines que motivaron su creación.
+1. Aquellos ficheros temporales o copias de documentos que se hubiesen creado exclusivamente para la realización de trabajos temporales o auxiliares deberán cumplir el nivel de seguridad que les corresponda conforme a los criterios establecidos en el artículo 81. 2. Todo fichero temporal o copia de trabajo así creado será borrado o destruido una vez que haya dejado de ser necesario para los fines que motivaron su creación.
 
 ## Capítulo II. Del documento de seguridad.
 

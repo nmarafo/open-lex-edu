@@ -1,10 +1,12 @@
 ---
 id: norm-es-2014-2222
 codigo_sintetizado: BOE-A-2014-2222
-titulo: Real Decreto 126/2014, de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria.
+titulo: Real Decreto 126/2014, de 28 de febrero, por el que se establece el currículo
+  básico de la Educación Primaria.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2014-03-01'
 boletin: BOE
@@ -15,42 +17,39 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Primaria
 tags:
-  - bachillerato
-  - curriculo
-  - educaci-n-primaria
-  - educacion-primaria
-  - ensenanzas-artisticas
-  - eso
-  - evaluacion
-  - organizacion-escolar
-  - profesorado
+- bachillerato
+- curriculo
+- educaci-n-primaria
+- educacion-primaria
+- ensenanzas-artisticas
+- eso
+- evaluacion
+- organizacion-escolar
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-1985
   fundamento_de:
-    - norma_id: norm-es-2021-18812
-    - norma_id: norm-es-rd-157-2022
-    - norma_id: norm-can-res-juriscan-72788-60
+  - norma_id: norm-es-2021-18812
+  - norma_id: norm-es-rd-157-2022
+  - norma_id: norm-can-res-juriscan-72788-60
   desarrollado_por: []
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-es-lo-2-2006
-  articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-lo-8-1985
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - '2'
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 ---
 # Real Decreto 126/2014, de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria.
 
@@ -426,17 +425,7 @@ Los documentos oficiales de evaluación deberán recoger siempre la norma de la 
 
 Dichos términos irán acompañados de una calificación numérica, sin emplear decimales, en una escala de uno a diez, con las siguientes correspondencias:
 
-Insuficiente: 1, 2, 3 o 4.
-
-Suficiente: 5.
-
-Bien: 6.
-
-Notable: 7 u 8.
-
-Sobresaliente: 9 o 10.
-
-La nota media de las calificaciones numéricas obtenidas en cada una de las áreas será la media aritmética de las calificaciones de todas ellas, redondeada a la centésima más próxima y en caso de equidistancia a la superior.
+Insuficiente: 1, 2, 3 o 4. Suficiente: 5. Bien: 6. Notable: 7 u 8. Sobresaliente: 9 o 10. La nota media de las calificaciones numéricas obtenidas en cada una de las áreas será la media aritmética de las calificaciones de todas ellas, redondeada a la centésima más próxima y en caso de equidistancia a la superior.
 
 Las Administraciones educativas podrán otorgar una Mención Honorífica o Matrícula de Honor a los alumnos y alumnas que hayan obtenido un Sobresaliente al finalizar Educación Primaria en el área para la que se otorga, y que hayan demostrado un rendimiento académico excelente.
 
@@ -496,9 +485,7 @@ A partir de la total implantación de las modificaciones indicadas en la disposi
 
 #### Disposición final primera. Calendario de implantación.
 
-Las modificaciones introducidas en el currículo, la organización, objetivos, promoción y evaluaciones de Educación Primaria se implantarán para los cursos primero, tercero y quinto en el curso escolar 2014-2015, y para los cursos segundo, cuarto y sexto en el curso escolar 2015-2016.
-
-#### Disposición final segunda. Título competencial y carácter básico.
+Las modificaciones introducidas en el currículo, la organización, objetivos, promoción y evaluaciones de Educación Primaria se implantarán para los cursos primero, tercero y quinto en el curso escolar 2014-2015, y para los cursos segundo, cuarto y sexto en el curso escolar 2015-2016. #### Disposición final segunda. Título competencial y carácter básico.
 
 Este real decreto tiene el carácter de norma básica y se dicta al amparo del artículo 149.1.30ª de la Constitución, que atribuye al Estado las competencias para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
@@ -508,9 +495,7 @@ Se faculta a la persona titular del Ministerio de Educación, Cultura y Deporte 
 
 #### Disposición final cuarta. Entrada en vigor.
 
-Dado en Madrid, el 28 de febrero de 2014.
-
-JUAN CARLOS R.
+Dado en Madrid, el 28 de febrero de 2014. JUAN CARLOS R.
 
 El Ministro de Educación, Cultura y Deporte,
 
@@ -1178,9 +1163,7 @@ La Organización social, política y territorial del Estado español.
 
 Derechos y deberes de los ciudadanos.
 
-La Constitución de 1978.
-
-Forma de Gobierno. La Monarquía Parlamentaria.
+La Constitución de 1978. Forma de Gobierno. La Monarquía Parlamentaria.
 
 Entidades territoriales y órganos de gobierno.
 
@@ -2002,9 +1985,7 @@ Operaciones con números naturales: adición, sustracción, multiplicación y di
 
 La multiplicación como suma de sumandos iguales y viceversa. Las tablas de multiplicar.
 
-Potencia como producto de factores iguales. Cuadrados y cubos. Potencias de base 10.
-
-Identificación y uso de los términos propios de la división.
+Potencia como producto de factores iguales. Cuadrados y cubos. Potencias de base 10. Identificación y uso de los términos propios de la división.
 
 Propiedades de las operaciones y relaciones entre ellas utilizando números naturales.
 
@@ -2092,9 +2073,7 @@ Utilización de la calculadora.
 
 **3.3.** Ordena fracciones aplicando la relación entre fracción y número decimal.
 
-**4.1.** Conoce y aplica los criterios de divisibilidad por 2, 3, 5, 9 y 10.
-
-**5.1.** Opera con los números conociendo la jerarquía de las operaciones.
+**4.1.** Conoce y aplica los criterios de divisibilidad por 2, 3, 5, 9 y 10. **5.1.** Opera con los números conociendo la jerarquía de las operaciones.
 
 **5.2.** Utiliza diferentes tipos de números en contextos reales, estableciendo equivalencias entre ellos, identificándolos y utilizándolos como operadores en la interpretación y la resolución de problemas.
 
@@ -2106,9 +2085,7 @@ Utilización de la calculadora.
 
 **6.3.** Resuelve problemas utilizando la multiplicación para realizar recuentos, en disposiciones rectangulares en los que interviene la ley del producto.
 
-**6.4.** Calcula cuadrados, cubos y potencias de base 10.
-
-**6.5.** Aplica las propiedades de las operaciones y las relaciones entre ellas.
+**6.4.** Calcula cuadrados, cubos y potencias de base 10. **6.5.** Aplica las propiedades de las operaciones y las relaciones entre ellas.
 
 **6.6.** Realiza sumas y restas de fracciones con el mismo denominador. Calcula el producto de una fracción por un número.
 
@@ -2460,9 +2437,7 @@ Funciones comunicativas:
 
 - Establecimiento y mantenimiento de la comunicación.
 
-Estructuras sintáctico-discursivas1.
-
-Léxico oral de alta frecuencia (recepción) relativo a identificación personal; vivienda, hogar y entorno; actividades de la vida diaria; familia y amigos; trabajo y ocupaciones; tiempo libre, ocio y deporte; viajes y vacaciones; salud y cuidados físicos; educación y estudio; compras y actividades comerciales; alimentación y restauración; transporte; lengua y comunicación; medio ambiente, clima y entorno natural; y tecnologías de la información y la comunicación.
+Estructuras sintáctico-discursivas1. Léxico oral de alta frecuencia (recepción) relativo a identificación personal; vivienda, hogar y entorno; actividades de la vida diaria; familia y amigos; trabajo y ocupaciones; tiempo libre, ocio y deporte; viajes y vacaciones; salud y cuidados físicos; educación y estudio; compras y actividades comerciales; alimentación y restauración; transporte; lengua y comunicación; medio ambiente, clima y entorno natural; y tecnologías de la información y la comunicación.
 
 Patrones sonoros, acentuales, rítmicos y de entonación.
 
@@ -2546,9 +2521,7 @@ Funciones comunicativas:
 
 - Establecimiento y mantenimiento de la comunicación.
 
-Estructuras sintáctico-discursivas1.
-
-Léxico oral de alta frecuencia (producción) relativo a identificación personal; vivienda, hogar y entorno; actividades de la vida diaria; familia y amigos; trabajo y ocupaciones; tiempo libre, ocio y deporte; viajes y vacaciones; salud y cuidados físicos; educación y estudio; compras y actividades comerciales; alimentación y restauración; transporte; lengua y comunicación; medio ambiente, clima y entorno natural; y tecnologías de la información y la comunicación.
+Estructuras sintáctico-discursivas1. Léxico oral de alta frecuencia (producción) relativo a identificación personal; vivienda, hogar y entorno; actividades de la vida diaria; familia y amigos; trabajo y ocupaciones; tiempo libre, ocio y deporte; viajes y vacaciones; salud y cuidados físicos; educación y estudio; compras y actividades comerciales; alimentación y restauración; transporte; lengua y comunicación; medio ambiente, clima y entorno natural; y tecnologías de la información y la comunicación.
 
 Patrones sonoros, acentuales, rítmicos y de entonación.
 
@@ -2610,9 +2583,7 @@ Funciones comunicativas:
 
 - Establecimiento y mantenimiento de la comunicación.
 
-Estructuras sintáctico-discursivas1.
-
-Léxico escrito de alta frecuencia (recepción) relativo a identificación personal; vivienda, hogar y entorno; actividades de la vida diaria; familia y amigos; trabajo y ocupaciones; tiempo libre, ocio y deporte; viajes y vacaciones; salud y cuidados físicos; educación y estudio; compras y actividades comerciales; alimentación y restauración; transporte; lengua y comunicación; medio ambiente, clima y entorno natural; y tecnologías de la información y la comunicación.
+Estructuras sintáctico-discursivas1. Léxico escrito de alta frecuencia (recepción) relativo a identificación personal; vivienda, hogar y entorno; actividades de la vida diaria; familia y amigos; trabajo y ocupaciones; tiempo libre, ocio y deporte; viajes y vacaciones; salud y cuidados físicos; educación y estudio; compras y actividades comerciales; alimentación y restauración; transporte; lengua y comunicación; medio ambiente, clima y entorno natural; y tecnologías de la información y la comunicación.
 
 Patrones gráficos y convenciones ortográficas.
 
@@ -2674,9 +2645,7 @@ Funciones comunicativas:
 
 - Establecimiento y mantenimiento de la comunicación.
 
-Estructuras sintáctico-discursivas1.
-
-Léxico escrito de alta frecuencia (producción) relativo a identificación personal; vivienda, hogar y entorno; actividades de la vida diaria; familia y amigos; trabajo y ocupaciones; tiempo libre, ocio y deporte; viajes y vacaciones; salud y cuidados físicos; educación y estudio; compras y actividades comerciales; alimentación y restauración; transporte; lengua y comunicación; medio ambiente, clima y entorno natural; y tecnologías de la información y la comunicación.
+Estructuras sintáctico-discursivas1. Léxico escrito de alta frecuencia (producción) relativo a identificación personal; vivienda, hogar y entorno; actividades de la vida diaria; familia y amigos; trabajo y ocupaciones; tiempo libre, ocio y deporte; viajes y vacaciones; salud y cuidados físicos; educación y estudio; compras y actividades comerciales; alimentación y restauración; transporte; lengua y comunicación; medio ambiente, clima y entorno natural; y tecnologías de la información y la comunicación.
 
 Patrones gráficos y convenciones ortográficas.
 
@@ -3656,7 +3625,7 @@ Bloque 3. La convivencia y los valores sociales
 
 **13.3.** Expone mediante trabajos de libre creación las conclusiones de su análisis crítico de las diferencias en la asignación de tareas y responsabilidades en la familia y la comunidad escolar en función del sexo.
 
-Â
+
 
 **14.1.** Enjuicia críticamente actitudes de falta de respeto a la igualdad de oportunidades de hombres y mujeres.
 

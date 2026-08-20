@@ -1,9 +1,11 @@
 ---
 id: norm-mad-o1712-2023
-titulo: Orden 1712/2023, de 19 de mayo, de organización, funcionamiento y evaluación en Educación Secundaria Obligatoria en Madrid
+titulo: Orden 1712/2023, de 19 de mayo, de organización, funcionamiento y evaluación
+  en Educación Secundaria Obligatoria en Madrid
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
 numero_disposicion: 1712/2023
 fecha_disposicion: '2023-05-19'
@@ -18,20 +20,20 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Secundaria Obligatoria (ESO)
 tags:
-  - eso
-  - evaluacion
-  - organizacion_escolar
-  - comunidad_de_madrid
+- eso
+- evaluacion
+- organizacion_escolar
+- comunidad_de_madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
 ---
 # Orden 1712/2023, de 19 de mayo, de organización, funcionamiento y evaluación en Educación Secundaria Obligatoria en Madrid
 

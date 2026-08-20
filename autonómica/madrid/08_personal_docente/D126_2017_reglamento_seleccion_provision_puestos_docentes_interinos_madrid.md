@@ -1,6 +1,8 @@
 ---
 id: norm-mad-d126-2017
-titulo: Decreto 126/2017, de 24 de octubre, del Consejo de Gobierno, por el que se aprueba el Reglamento de selección de funcionarios docentes interinos y provisión de puestos de trabajo en la Comunidad de Madrid
+titulo: Decreto 126/2017, de 24 de octubre, del Consejo de Gobierno, por el que se
+  aprueba el Reglamento de selección de funcionarios docentes interinos y provisión
+  de puestos de trabajo en la Comunidad de Madrid
 jurisdiccion: Madrid
 ambito: Autonómico
 organo_emisor: Consejería de Educación e Investigación de la Comunidad de Madrid
@@ -18,23 +20,23 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Personal docente interino
 tags:
-  - personal_docente
-  - interinos
-  - seleccion_docente
-  - listas_de_aspirantes
-  - comunidad_de_madrid
+- personal_docente
+- interinos
+- seleccion_docente
+- listas_de_aspirantes
+- comunidad_de_madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-mad-d-29-2013
 ---
 # Decreto 126/2017, de 24 de octubre, del Consejo de Gobierno, por el que se aprueba el Reglamento de selección de funcionarios docentes interinos y provisión de puestos de trabajo en la Comunidad de Madrid
 
@@ -45,9 +47,7 @@ A) Disposiciones Generales Consejería de Economía, Empleo y Hacienda 1 DECRETO
 
 supone un cambio que afecte a su naturaleza ni a sus competencias, lo que se pretende es fijar las competencias utilizando la terminología de técnica y de infraestructura contable, más acorde con el nuevo modelo contable público, lo que permite poner en consonancia la definición de las competencias con la normativa y la actividad contable. Por último, se modifica la denominación de algunas de las subdirecciones generales de la Dirección General de Presupuestos y Recursos Humanos, de la Dirección General de Economía, Estadística y Competitividad y de la Dirección General de Comercio y Consumo y se suprime la referencia al Centro de Transportes de Coslada, Sociedad Anónima, contenida en la disposición adicional primera, al haber quedado adscrita dicha empresa a la Consejería de Transportes, Vivienda e Infraestructuras, por Decreto 84/2017, de 26 de septiembre y se adaptan las referencias a otros órganos, entes y organismos que no figuran en el Decreto de Estructura con la denominación vigente, como el Consejo para el Diálogo Social de la Comunidad de Madrid. Corresponde al Consejo de Gobierno la aprobación de este Decreto, de conformidad con los artículos 21 y 40 de la Ley 1/1983, de 13 de diciembre, de Gobierno y Administración de la Comunidad de Madrid. En su virtud, el Consejo de Gobierno, a propuesta de la Consejera de Economía, Empleo y Hacienda y previa deliberación en su reunión del día 24 de octubre de 2017, DISPONE
 Artículo único Modificación del Decreto 193/2015, de 4 de agosto, por el que se establece la estructura orgánica de la Consejería de Economía, Empleo y Hacienda El Decreto 193/2015, de 4 de agosto, por el que se establece la estructura orgánica de la Consejería de Economía, Empleo y Hacienda, queda modificado de la siguiente forma:
-Uno. Se suprimen las referencias a "innovación tecnológica" contenidas en los artículos 1 y 5.
-
-Pág. 12 Dos. Las referencias a la Viceconsejería de Economía e Innovación que se contienen en el artículo 2, en el título del capítulo IV y en el artículo 5, se entenderán realizadas a la Viceconsejería de Economía y Competitividad. Tres. Se modifica la denominación de la Dirección General de Economía y Política Financiera, que pasa a denominarse Dirección General de Economía, Estadística y Competitividad. Las referencias a la Dirección General de Economía y Política Financiera contenidas en el artículo 2, artículo 5, el título del capítulo XIV y los artículos 22 y 23, se entenderán hechas a la Dirección General de Economía, Estadística y Competitividad. Cuatro. El capítulo VI queda redactado como sigue:
+Uno. Se suprimen las referencias a "innovación tecnológica" contenidas en los artículos 1 y 5. Pág. 12 Dos. Las referencias a la Viceconsejería de Economía e Innovación que se contienen en el artículo 2, en el título del capítulo IV y en el artículo 5, se entenderán realizadas a la Viceconsejería de Economía y Competitividad. Tres. Se modifica la denominación de la Dirección General de Economía y Política Financiera, que pasa a denominarse Dirección General de Economía, Estadística y Competitividad. Las referencias a la Dirección General de Economía y Política Financiera contenidas en el artículo 2, artículo 5, el título del capítulo XIV y los artículos 22 y 23, se entenderán hechas a la Dirección General de Economía, Estadística y Competitividad. Cuatro. El capítulo VI queda redactado como sigue:
 "Capítulo VI Dirección General de Presupuestos y Recursos Humanos
 
 #### Artículo 8. Competencias de la Dirección General de Presupuestos y Recursos Humanos.
@@ -115,9 +115,7 @@ Pág. 21 http://www.bocm.es D. L.: M. 19.462-1983 ISSN 1989-4791 x) La participa
 
 #### Disposición transitoria única.
 
-Adaptación de los procesos de estructuras orgánicas, presupuestarias y contables Lo dispuesto en el presente decreto en lo relativo a la adaptación de los procesos de estructuras orgánicas, presupuestarias y contables deberá quedar adecuado, como máximo, el día 1 de enero de 2018.
-
-#### Disposición derogatoria única. Derogación normativa.
+Adaptación de los procesos de estructuras orgánicas, presupuestarias y contables Lo dispuesto en el presente decreto en lo relativo a la adaptación de los procesos de estructuras orgánicas, presupuestarias y contables deberá quedar adecuado, como máximo, el día 1 de enero de 2018. #### Disposición derogatoria única. Derogación normativa.
 
 Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo previsto en este Decreto.
 

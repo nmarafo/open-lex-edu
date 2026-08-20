@@ -1,10 +1,12 @@
 ---
 id: norm-and-dl1-2017
 codigo_sintetizado: DL1_2017 Medidas Urgentes Personal Docente Andalucia
-titulo: Decreto-Ley 1/2017, de 28 de marzo, por el que se adoptan medidas urgentes en relación con las ofertas de empleo público de los cuerpos docentes.
+titulo: Decreto-Ley 1/2017, de 28 de marzo, por el que se adoptan medidas urgentes
+  en relación con las ofertas de empleo público de los cuerpos docentes.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: DL1/2017
 fecha_disposicion: '2017-03-28'
@@ -18,15 +20,15 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Empleados públicos
 tags:
-  - oferta_empleo
-  - oposiciones
-  - personal_docente
-  - andalucia
+- oferta_empleo
+- oposiciones
+- personal_docente
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
+  - norma_id: norm-and-l17-2007
 ---
 # Decreto-Ley 1/2017, de 28 de marzo, por el que se adoptan medidas urgentes en relación con las ofertas de empleo público de los cuerpos docentes.
 

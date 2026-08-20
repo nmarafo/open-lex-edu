@@ -1,7 +1,8 @@
 ---
 id: norm-es-l-39-2015
 codigo_sintetizado: L39_2015 Procedimiento Administrativo Comun
-titulo: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+titulo: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+  Administraciones Públicas.
 jurisdiccion: España
 ambito: Estatal
 organo_emisor: Jefatura del Estado / Cortes Generales
@@ -18,405 +19,405 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Marco normativo general
 tags:
-  - administracion-publica
-  - marco-normativo-general
-  - procedimiento-administrativo
-  - recursos
+- administracion-publica
+- marco-normativo-general
+- procedimiento-administrativo
+- recursos
 relaciones:
   desarrolla:
-    - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-l-40-2015
   fundamentado_en:
-    - norma_id: norm-es-1985-5392
-    - norma_id: norm-es-2003-23399
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-l-19-2013
+  - norma_id: norm-es-1985-5392
+  - norma_id: norm-es-2003-23399
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-19-2013
   fundamento_de:
-    - norma_id: norm-es-2002-25289
-    - norma_id: norm-es-2003-4151
-    - norma_id: norm-es-2007-19814
-    - norma_id: norm-es-2008-979
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2011-17560
-    - norma_id: norm-es-2011-17890
-    - norma_id: norm-es-2011-2615
-    - norma_id: norm-es-2015-8702
-    - norma_id: norm-es-2018-6348
-    - norma_id: norm-es-2019-317
-    - norma_id: norm-es-2019-3307
-    - norma_id: norm-es-2020-17274
-    - norma_id: norm-es-2021-11382
-    - norma_id: norm-es-2021-18189
-    - norma_id: norm-es-2021-18812
-    - norma_id: norm-es-2022-11589
-    - norma_id: norm-es-2022-12014
-    - norma_id: norm-es-2022-1274
-    - norma_id: norm-es-2022-15953
-    - norma_id: norm-es-2022-16194
-    - norma_id: norm-es-2023-9553
-    - norma_id: norm-es-2024-10683
-    - norma_id: norm-es-2024-10684
-    - norma_id: norm-es-2024-10685
-    - norma_id: norm-es-2024-11613
-    - norma_id: norm-es-2025-2039
-    - norma_id: norm-es-2026-12038
-    - norma_id: norm-es-2026-2622
-    - norma_id: norm-es-l-19-2013
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-l-9-2017
-    - norma_id: norm-es-lo-10-2022
-    - norma_id: norm-es-lo-3-2018
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-lo-5-2000
-    - norma_id: norm-es-lo-8-2021
-    - norma_id: norm-es-rd-157-2022
-    - norma_id: norm-es-rd-217-2022
-    - norma_id: norm-es-rd-243-2022
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-rd-95-2022
-    - norma_id: norm-can-res-juriscan-65632-66
-    - norma_id: norm-es-2010-10321
-    - norma_id: norm-can-res-juriscan-66772-94
-    - norma_id: norm-can-res-juriscan-22458-15
-    - norma_id: norm-can-res-boc-2002-148-77
-    - norma_id: norm-can-res-juriscan-64565-138
-    - norma_id: norm-can-res-112
-    - norma_id: norm-can-res-boc-2024-226-44
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-can-res-juriscan-63878-20
-    - norma_id: norm-can-res-boc-2011-099-72
-    - norma_id: norm-can-res-boc-2026-070-41
-    - norma_id: norm-can-res-boc-2026-075-85
-    - norma_id: norm-can-res-096
-    - norma_id: norm-can-res-juriscan-74499-67
-    - norma_id: norm-can-d-40-2005
-    - norma_id: norm-can-res-028
-    - norma_id: norm-can-l-14-1990
-    - norma_id: norm-can-res-055
-    - norma_id: norm-can-res-juriscan-73844-69
-    - norma_id: norm-can-res-118
-    - norma_id: norm-can-res-boc-2019-234-52
-    - norma_id: norm-can-res-juriscan-64885-10
-    - norma_id: norm-can-d-102-2023
-    - norma_id: norm-can-res-033
-    - norma_id: norm-can-res-juriscan-72788-60
-    - norma_id: norm-can-res-juriscan-65631-68
-    - norma_id: norm-can-res-boc-2025-046-47
-    - norma_id: norm-can-res-boc-2026-039-102
-    - norma_id: norm-can-res-boc-2026-141-29
-    - norma_id: norm-can-res-098
-    - norma_id: norm-can-res-boc-2022-158-21
-    - norma_id: norm-can-res-032
-    - norma_id: norm-can-res-027
-    - norma_id: norm-can-res-038
-    - norma_id: norm-can-res-014
-    - norma_id: norm-can-res-042
-    - norma_id: norm-can-res-boc-2025-044-89
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-can-res-063
-    - norma_id: norm-can-res-boc-2018-220-18
-    - norma_id: norm-can-res-086
-    - norma_id: norm-can-l-1-1997
-    - norma_id: norm-can-res-boc-2012-035-58
-    - norma_id: norm-can-res-juriscan-71394-16
-    - norma_id: norm-can-res-boc-2024-125-91
-    - norma_id: norm-can-res-boc-2019-069-48
-    - norma_id: norm-can-res-boc-2025-047-107
-    - norma_id: norm-can-res-boc-2026-070-116
-    - norma_id: norm-can-res-097
-    - norma_id: norm-can-res-095
-    - norma_id: norm-can-res-boc-2022-138-7
-    - norma_id: norm-can-o-25-2-2003
-    - norma_id: norm-can-res-juriscan-48984-84
-    - norma_id: norm-can-res-juriscan-58182-8
-    - norma_id: norm-can-res-boc-2026-132-101
-    - norma_id: norm-can-res-boc-2019-016-13
-    - norma_id: norm-can-res-boc-2017-036-71
-    - norma_id: norm-can-res-boc-2018-048-56
-    - norma_id: norm-can-res-boc-2026-039-103
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-res-059
-    - norma_id: norm-can-d-52-2009
-    - norma_id: norm-can-res-boc-2022-087-31
-    - norma_id: norm-can-res-boc-2021-109-79
-    - norma_id: norm-can-d-212-1991
-    - norma_id: norm-can-res-boc-2023-133-57
-    - norma_id: norm-can-res-110
-    - norma_id: norm-can-res-boc-2026-046-139
-    - norma_id: norm-can-res-030
-    - norma_id: norm-can-res-boc-2017-061-4
-    - norma_id: norm-can-d-106-2009
-    - norma_id: norm-can-d-234-1996
-    - norma_id: norm-can-d-276-1997
-    - norma_id: norm-can-res-boc-2026-060-61
-    - norma_id: norm-can-res-boc-2018-106-114
-    - norma_id: norm-can-res-034
-    - norma_id: norm-can-d-123-2023
-    - norma_id: norm-can-res-boc-2026-077-62
-    - norma_id: norm-can-res-boc-2017-036-75
-    - norma_id: norm-can-res-boc-2025-039-104
-    - norma_id: norm-can-res-juriscan-49002-54
-    - norma_id: norm-can-d-109-1999
-    - norma_id: norm-can-res-125
-    - norma_id: norm-can-res-boc-2025-061-88
-    - norma_id: norm-can-o-2013-10-09
-    - norma_id: norm-can-res-boc-2026-077-49
-    - norma_id: norm-can-res-boc-2025-047-108
-    - norma_id: norm-can-res-040
-    - norma_id: norm-can-res-boc-2024-117-93
-    - norma_id: norm-can-res-053
-    - norma_id: norm-can-res-boc-2017-020-2
-    - norma_id: norm-can-res-119
-    - norma_id: norm-can-l-4-2023
-    - norma_id: norm-can-res-039
-    - norma_id: norm-can-res-boc-2004-158-76
-    - norma_id: norm-can-d-101-2023
-    - norma_id: norm-can-res-boc-2019-024-22
-    - norma_id: norm-can-res-099
-    - norma_id: norm-can-res-juriscan-75527-17
-    - norma_id: norm-can-res-boc-2026-116-87
-    - norma_id: norm-can-res-boc-2024-049-109
-    - norma_id: norm-can-res-boc-2026-073-113
-    - norma_id: norm-can-o-2023-09-28
-    - norma_id: norm-can-res-boc-2023-085-51
-    - norma_id: norm-can-res-juriscan-55445-83
-    - norma_id: norm-can-d-135-2016
-    - norma_id: norm-can-res-juriscan-75634-6
-    - norma_id: norm-can-res-juriscan-72176-78
-    - norma_id: norm-can-res-boc-2025-118-46
-    - norma_id: norm-can-res-boc-1992-106-117
-    - norma_id: norm-can-res-boc-2021-038-3
-    - norma_id: norm-can-res-boc-2017-220-70
-    - norma_id: norm-can-res-boc-2026-039-111
-    - norma_id: norm-can-d-25-2018
-    - norma_id: norm-can-d-168-2009
-    - norma_id: norm-can-res-boc-2022-143-23
-    - norma_id: norm-can-res-boc-2017-169-100
-    - norma_id: norm-can-res-boc-2018-086-122
-    - norma_id: norm-can-res-boc-2020-257-24
-    - norma_id: norm-can-res-boc-2022-243-81
-    - norma_id: norm-can-res-043
-    - norma_id: norm-can-res-boc-2025-094-137
-    - norma_id: norm-can-res-boc-2026-129-26
-    - norma_id: norm-can-res-boc-2017-235-5
-    - norma_id: norm-can-res-boc-2026-070-115
-    - norma_id: norm-can-res-090
-    - norma_id: norm-can-res-boc-2018-127-9
-    - norma_id: norm-can-l-2-1987
-    - norma_id: norm-can-res-boc-2019-016-12
-    - norma_id: norm-can-d-196-2022
-    - norma_id: norm-can-res-boc-2004-189-65
-    - norma_id: norm-can-res-037
-    - norma_id: norm-can-res-boc-2021-114-80
-    - norma_id: norm-can-res-boc-2018-220-19
-    - norma_id: norm-can-res-boc-2019-067-11
-    - norma_id: norm-can-res-juriscan-70096-50
-    - norma_id: norm-can-res-036
-    - norma_id: norm-can-res-boc-2026-037-105
-    - norma_id: norm-can-res-boc-2026-109-92
-    - norma_id: norm-can-o-1-9-2010
-    - norma_id: norm-can-res-boc-2017-132-1
-    - norma_id: norm-can-res-boc-2025-061-106
-    - norma_id: norm-can-o-2-8-2006
-    - norma_id: norm-can-res-boc-2020-236-82
-    - norma_id: norm-can-res-035
-    - norma_id: norm-can-res-boc-2019-143-74
-    - norma_id: norm-can-r-calendario-escolar-2025-2026
-    - norma_id: norm-can-r-instrucciones-curso-2025-2026
-    - norma_id: norm-can-r-fp-dual-curso-2025-2026
-    - norma_id: norm-can-r-admision-alumnado-2025-2026
-    - norma_id: norm-mad-d43-2024
-    - norma_id: norm-mad-o1712-2023
-    - norma_id: norm-mad-o-3814-2023
-    - norma_id: norm-mad-r-instrucciones-curso-2025-2026
-    - norma_id: norm-and-d-100-2023
-    - norma_id: norm-and-d-21-2020
-    - norma_id: norm-mad-o6116-2025
-    - norma_id: norm-mad-o1240-2013
-    - norma_id: norm-mad-d29-2013
-    - norma_id: norm-mad-o3536-2025
-    - norma_id: norm-and-d-164-2024
-    - norma_id: norm-mad-o893-2022
-    - norma_id: norm-mad-o460-2023
-    - norma_id: norm-mad-d21-2025
-    - norma_id: norm-and-d154-2022
-    - norma_id: norm-and-d328-2010
-    - norma_id: norm-mad-d-230-2023
-    - norma_id: norm-mad-l1-2022
-    - norma_id: norm-mad-r2-12-2025
-    - norma_id: norm-mad-o123-2015
-    - norma_id: norm-mad-d149-2000
-    - norma_id: norm-and-d101-2023
-    - norma_id: norm-and-o-admision-alumnado-2025-2026
-    - norma_id: norm-and-d164-2024
-    - norma_id: norm-mad-o3413-2022
-    - norma_id: norm-mad-r-calendario-escolar-2025-2026
-    - norma_id: norm-mad-o1312-2021
-    - norma_id: norm-mad-o-1238-2023
-    - norma_id: norm-and-dl2-2021
-    - norma_id: norm-and-o-30-5-2023-primaria
-    - norma_id: norm-and-r-instrucciones-curso-2025-2026
-    - norma_id: norm-mad-d-36-2022
-    - norma_id: norm-mad-o-admision-alumnado-2025-2026
-    - norma_id: norm-can-d-103-2023
-    - norma_id: norm-mad-d65-2022
-    - norma_id: norm-mad-d-164-2024
-    - norma_id: norm-mad-o1736-2023
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-and-d162-2009
-    - norma_id: norm-and-o-30-5-2023-eso
-    - norma_id: norm-and-d100-2023
-    - norma_id: norm-and-d103-2023
-    - norma_id: norm-and-l1-2020
-    - norma_id: norm-mad-o592-2022
-    - norma_id: norm-and-d-328-2010
-    - norma_id: norm-mad-o2356-2023
-    - norma_id: norm-mad-o3537-2025
-    - norma_id: norm-mad-o2067-2023
-    - norma_id: norm-mad-r23-6-2025
-    - norma_id: norm-and-r-calendario-escolar-2025-2026
-    - norma_id: norm-mad-d-64-2022
-    - norma_id: norm-mad-d64-2022
-    - norma_id: norm-mad-o457-2023
-    - norma_id: norm-and-l4-1984
-    - norma_id: norm-mad-l2-2010
-    - norma_id: norm-mad-o190-2023
-    - norma_id: norm-and-d102-2023
-    - norma_id: norm-mad-d15-2016
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-mad-d-61-2022
-    - norma_id: norm-mad-o1338-2023
-    - norma_id: norm-and-d-285-2023
-    - norma_id: norm-can-d-9-2022
-    - norma_id: norm-and-dl1-2017
-    - norma_id: norm-mad-o2808-2023
-    - norma_id: norm-mad-o266-2023
-    - norma_id: norm-and-d327-2010
-    - norma_id: norm-and-d-327-2010
-    - norma_id: norm-can-d-81-2010
-    - norma_id: norm-mad-o130-2023
-    - norma_id: norm-mad-d-29-2013
-    - norma_id: norm-mad-d-149-2000
-    - norma_id: norm-and-d-363-2011
-    - norma_id: norm-and-o-20-8-2010
-    - norma_id: norm-mad-d-65-2022
-    - norma_id: norm-and-d-6-2017
-    - norma_id: norm-and-d-362-2011
-    - norma_id: norm-and-d-329-2010
-    - norma_id: norm-mad-d-43-2024
-    - norma_id: norm-and-o-30-5-2023-bach
-    - norma_id: norm-and-d-436-2008
-    - norma_id: norm-mad-o-190-2023
-    - norma_id: norm-and-d-365-2011
-    - norma_id: norm-and-d-68-2008
-    - norma_id: norm-and-d-117-1985
-    - norma_id: norm-mad-d-10-2023
-    - norma_id: norm-and-d-56-1994
-    - norma_id: norm-mad-d-126-2017
-    - norma_id: norm-mad-d-35-2019
-    - norma_id: norm-and-d-4-1993
-    - norma_id: norm-mad-d-12-2022
-    - norma_id: norm-mad-o-893-2022
-    - norma_id: norm-and-d-390-1986
-    - norma_id: norm-and-o-19-4-2005
-    - norma_id: norm-mad-d-51-2023
-    - norma_id: norm-mad-o-2808-2023
-    - norma_id: norm-and-o-10-5-2006
-    - norma_id: norm-and-d-156-1983
-    - norma_id: norm-mad-o-2882-2019
-    - norma_id: norm-and-d-206-2006
-    - norma_id: norm-and-d-266-1988
-    - norma_id: norm-and-d-21-1985
-    - norma_id: norm-and-o-10-2-2004
-    - norma_id: norm-and-d-95-2003
-    - norma_id: norm-and-d-208-1997
-    - norma_id: norm-and-o-20-7-2006
-    - norma_id: norm-and-d-14-1995
-    - norma_id: norm-mad-d-56-2023
-    - norma_id: norm-mad-d-21-2025
-    - norma_id: norm-and-d-467-1994
-    - norma_id: norm-and-d-2-1995
-    - norma_id: norm-mad-o-1312-2021
-    - norma_id: norm-and-d-54-1989
-    - norma_id: norm-and-d-19-1995
-    - norma_id: norm-mad-o-1338-2023
-    - norma_id: norm-and-d-77-1994
-    - norma_id: norm-and-d-204-1995
-    - norma_id: norm-mad-d-43-2022
-    - norma_id: norm-and-o-23-4-2007
-    - norma_id: norm-mad-l-2-2010
-    - norma_id: norm-and-o-16-11-2007
-    - norma_id: norm-and-o-16-4-2008
-    - norma_id: norm-mad-d-126-2014
-    - norma_id: norm-and-o-27-7-2006
-    - norma_id: norm-and-o-15-12-2008
-    - norma_id: norm-and-o-3-8-2010
-    - norma_id: norm-mad-d-31-2011
-    - norma_id: norm-mad-l-4-2023
-    - norma_id: norm-and-d-431-2008
-    - norma_id: norm-and-o-29-9-2008
-    - norma_id: norm-and-o-28-6-2011
-    - norma_id: norm-and-r-1-9-2025
-    - norma_id: norm-and-d-140-2002
-    - norma_id: norm-and-d-52-2021
-    - norma_id: norm-and-o-14-7-2016
-    - norma_id: norm-mad-o-6116-2025
-    - norma_id: norm-and-o-24-6-2008
-    - norma_id: norm-mad-d-112-2002
-    - norma_id: norm-and-o-17-6-2009
-    - norma_id: norm-and-o-26-5-2011-arte
-    - norma_id: norm-and-o-15-7-2008
-    - norma_id: norm-and-r-12-2-2021
-    - norma_id: norm-mad-d-15-2016
-    - norma_id: norm-and-d-80-1999
-    - norma_id: norm-and-o-26-5-2011-eoi
-    - norma_id: norm-and-o-10-8-2007
-    - norma_id: norm-and-o-12-7-2011
-    - norma_id: norm-and-d-40-2011
-    - norma_id: norm-and-o-26-5-2011
-    - norma_id: norm-and-d-213-1995
-    - norma_id: norm-and-d-155-1997
-    - norma_id: norm-and-o-14-3-1995
-    - norma_id: norm-and-r-27-6-2023
-    - norma_id: norm-and-o-12-5-2017
-    - norma_id: norm-and-d-149-1988
-    - norma_id: norm-and-d-276-1998
-    - norma_id: norm-and-o-9-9-1993
-    - norma_id: norm-mad-d-18-2024
-    - norma_id: norm-and-o-12-7-2004
-    - norma_id: norm-mad-o-1568-2022
-    - norma_id: norm-and-o-18-4-2001
-    - norma_id: norm-mad-o-2460-2023
-    - norma_id: norm-mad-d-45-2023
-    - norma_id: norm-and-o-29-12-2000
-    - norma_id: norm-mad-r-inicio-2025
-    - norma_id: norm-and-d-512-1996
-    - norma_id: norm-and-o-8-7-1996
-    - norma_id: norm-mad-d-88-2021
-    - norma_id: norm-mad-o-1493-2015
-    - norma_id: norm-and-o-22-7-2013
-    - norma_id: norm-and-d-156-1997
-    - norma_id: norm-and-o-28-3-2008
-    - norma_id: norm-and-d-135-2014
-    - norma_id: norm-mad-o-1190-2021
-    - norma_id: norm-mad-o-2694-2009
-    - norma_id: norm-and-o-17-9-2010
-    - norma_id: norm-and-o-16-12-2008
-    - norma_id: norm-and-o-12-6-2008
-    - norma_id: norm-mad-o-2300-2022
-    - norma_id: norm-mad-d-15-2023
-    - norma_id: norm-and-d-115-2002
-    - norma_id: norm-and-d-301-2009
-    - norma_id: norm-mad-d-40-2021
-    - norma_id: norm-mad-d-29-2019
-    - norma_id: norm-and-o-26-6-2012
+  - norma_id: norm-es-2002-25289
+  - norma_id: norm-es-2003-4151
+  - norma_id: norm-es-2007-19814
+  - norma_id: norm-es-2008-979
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2011-17560
+  - norma_id: norm-es-2011-17890
+  - norma_id: norm-es-2011-2615
+  - norma_id: norm-es-2015-8702
+  - norma_id: norm-es-2018-6348
+  - norma_id: norm-es-2019-317
+  - norma_id: norm-es-2019-3307
+  - norma_id: norm-es-2020-17274
+  - norma_id: norm-es-2021-11382
+  - norma_id: norm-es-2021-18189
+  - norma_id: norm-es-2021-18812
+  - norma_id: norm-es-2022-11589
+  - norma_id: norm-es-2022-12014
+  - norma_id: norm-es-2022-1274
+  - norma_id: norm-es-2022-15953
+  - norma_id: norm-es-2022-16194
+  - norma_id: norm-es-2023-9553
+  - norma_id: norm-es-2024-10683
+  - norma_id: norm-es-2024-10684
+  - norma_id: norm-es-2024-10685
+  - norma_id: norm-es-2024-11613
+  - norma_id: norm-es-2025-2039
+  - norma_id: norm-es-2026-12038
+  - norma_id: norm-es-2026-2622
+  - norma_id: norm-es-l-19-2013
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-l-9-2017
+  - norma_id: norm-es-lo-10-2022
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-lo-5-2000
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-rd-157-2022
+  - norma_id: norm-es-rd-217-2022
+  - norma_id: norm-es-rd-243-2022
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-rd-95-2022
+  - norma_id: norm-can-res-juriscan-65632-66
+  - norma_id: norm-es-2010-10321
+  - norma_id: norm-can-res-juriscan-66772-94
+  - norma_id: norm-can-res-juriscan-22458-15
+  - norma_id: norm-can-res-boc-2002-148-77
+  - norma_id: norm-can-res-juriscan-64565-138
+  - norma_id: norm-can-res-112
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-res-juriscan-63878-20
+  - norma_id: norm-can-res-boc-2011-099-72
+  - norma_id: norm-can-res-boc-2026-070-41
+  - norma_id: norm-can-res-boc-2026-075-85
+  - norma_id: norm-can-res-096
+  - norma_id: norm-can-res-juriscan-74499-67
+  - norma_id: norm-can-d-40-2005
+  - norma_id: norm-can-res-028
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-res-055
+  - norma_id: norm-can-res-juriscan-73844-69
+  - norma_id: norm-can-res-118
+  - norma_id: norm-can-res-boc-2019-234-52
+  - norma_id: norm-can-res-juriscan-64885-10
+  - norma_id: norm-can-d-102-2023
+  - norma_id: norm-can-res-033
+  - norma_id: norm-can-res-juriscan-72788-60
+  - norma_id: norm-can-res-juriscan-65631-68
+  - norma_id: norm-can-res-boc-2025-046-47
+  - norma_id: norm-can-res-boc-2026-039-102
+  - norma_id: norm-can-res-boc-2026-141-29
+  - norma_id: norm-can-res-098
+  - norma_id: norm-can-res-boc-2022-158-21
+  - norma_id: norm-can-res-032
+  - norma_id: norm-can-res-027
+  - norma_id: norm-can-res-038
+  - norma_id: norm-can-res-014
+  - norma_id: norm-can-res-042
+  - norma_id: norm-can-res-boc-2025-044-89
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-063
+  - norma_id: norm-can-res-boc-2018-220-18
+  - norma_id: norm-can-res-086
+  - norma_id: norm-can-l-1-1997
+  - norma_id: norm-can-res-boc-2012-035-58
+  - norma_id: norm-can-res-juriscan-71394-16
+  - norma_id: norm-can-res-boc-2024-125-91
+  - norma_id: norm-can-res-boc-2019-069-48
+  - norma_id: norm-can-res-boc-2025-047-107
+  - norma_id: norm-can-res-boc-2026-070-116
+  - norma_id: norm-can-res-097
+  - norma_id: norm-can-res-095
+  - norma_id: norm-can-res-boc-2022-138-7
+  - norma_id: norm-can-o-25-2-2003
+  - norma_id: norm-can-res-juriscan-48984-84
+  - norma_id: norm-can-res-juriscan-58182-8
+  - norma_id: norm-can-res-boc-2026-132-101
+  - norma_id: norm-can-res-boc-2019-016-13
+  - norma_id: norm-can-res-boc-2017-036-71
+  - norma_id: norm-can-res-boc-2018-048-56
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-res-059
+  - norma_id: norm-can-d-52-2009
+  - norma_id: norm-can-res-boc-2022-087-31
+  - norma_id: norm-can-res-boc-2021-109-79
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-res-boc-2023-133-57
+  - norma_id: norm-can-res-110
+  - norma_id: norm-can-res-boc-2026-046-139
+  - norma_id: norm-can-res-030
+  - norma_id: norm-can-res-boc-2017-061-4
+  - norma_id: norm-can-d-106-2009
+  - norma_id: norm-can-d-234-1996
+  - norma_id: norm-can-d-276-1997
+  - norma_id: norm-can-res-boc-2026-060-61
+  - norma_id: norm-can-res-boc-2018-106-114
+  - norma_id: norm-can-res-034
+  - norma_id: norm-can-d-123-2023
+  - norma_id: norm-can-res-boc-2026-077-62
+  - norma_id: norm-can-res-boc-2017-036-75
+  - norma_id: norm-can-res-boc-2025-039-104
+  - norma_id: norm-can-res-juriscan-49002-54
+  - norma_id: norm-can-d-109-1999
+  - norma_id: norm-can-res-125
+  - norma_id: norm-can-res-boc-2025-061-88
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-can-res-boc-2026-077-49
+  - norma_id: norm-can-res-boc-2025-047-108
+  - norma_id: norm-can-res-040
+  - norma_id: norm-can-res-boc-2024-117-93
+  - norma_id: norm-can-res-053
+  - norma_id: norm-can-res-boc-2017-020-2
+  - norma_id: norm-can-res-119
+  - norma_id: norm-can-l-4-2023
+  - norma_id: norm-can-res-039
+  - norma_id: norm-can-res-boc-2004-158-76
+  - norma_id: norm-can-d-101-2023
+  - norma_id: norm-can-res-boc-2019-024-22
+  - norma_id: norm-can-res-099
+  - norma_id: norm-can-res-juriscan-75527-17
+  - norma_id: norm-can-res-boc-2026-116-87
+  - norma_id: norm-can-res-boc-2024-049-109
+  - norma_id: norm-can-res-boc-2026-073-113
+  - norma_id: norm-can-o-2023-09-28
+  - norma_id: norm-can-res-boc-2023-085-51
+  - norma_id: norm-can-res-juriscan-55445-83
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-res-juriscan-75634-6
+  - norma_id: norm-can-res-juriscan-72176-78
+  - norma_id: norm-can-res-boc-2025-118-46
+  - norma_id: norm-can-res-boc-1992-106-117
+  - norma_id: norm-can-res-boc-2021-038-3
+  - norma_id: norm-can-res-boc-2017-220-70
+  - norma_id: norm-can-res-boc-2026-039-111
+  - norma_id: norm-can-d-25-2018
+  - norma_id: norm-can-d-168-2009
+  - norma_id: norm-can-res-boc-2022-143-23
+  - norma_id: norm-can-res-boc-2017-169-100
+  - norma_id: norm-can-res-boc-2018-086-122
+  - norma_id: norm-can-res-boc-2020-257-24
+  - norma_id: norm-can-res-boc-2022-243-81
+  - norma_id: norm-can-res-043
+  - norma_id: norm-can-res-boc-2025-094-137
+  - norma_id: norm-can-res-boc-2026-129-26
+  - norma_id: norm-can-res-boc-2017-235-5
+  - norma_id: norm-can-res-boc-2026-070-115
+  - norma_id: norm-can-res-090
+  - norma_id: norm-can-res-boc-2018-127-9
+  - norma_id: norm-can-l-2-1987
+  - norma_id: norm-can-res-boc-2019-016-12
+  - norma_id: norm-can-d-196-2022
+  - norma_id: norm-can-res-boc-2004-189-65
+  - norma_id: norm-can-res-037
+  - norma_id: norm-can-res-boc-2021-114-80
+  - norma_id: norm-can-res-boc-2018-220-19
+  - norma_id: norm-can-res-boc-2019-067-11
+  - norma_id: norm-can-res-juriscan-70096-50
+  - norma_id: norm-can-res-036
+  - norma_id: norm-can-res-boc-2026-037-105
+  - norma_id: norm-can-res-boc-2026-109-92
+  - norma_id: norm-can-o-1-9-2010
+  - norma_id: norm-can-res-boc-2017-132-1
+  - norma_id: norm-can-res-boc-2025-061-106
+  - norma_id: norm-can-o-2-8-2006
+  - norma_id: norm-can-res-boc-2020-236-82
+  - norma_id: norm-can-res-035
+  - norma_id: norm-can-res-boc-2019-143-74
+  - norma_id: norm-can-r-calendario-escolar-2025-2026
+  - norma_id: norm-can-r-instrucciones-curso-2025-2026
+  - norma_id: norm-can-r-fp-dual-curso-2025-2026
+  - norma_id: norm-can-r-admision-alumnado-2025-2026
+  - norma_id: norm-mad-d43-2024
+  - norma_id: norm-mad-o1712-2023
+  - norma_id: norm-mad-o-3814-2023
+  - norma_id: norm-mad-r-instrucciones-curso-2025-2026
+  - norma_id: norm-and-d-100-2023
+  - norma_id: norm-and-d-21-2020
+  - norma_id: norm-mad-o6116-2025
+  - norma_id: norm-mad-o1240-2013
+  - norma_id: norm-mad-d29-2013
+  - norma_id: norm-mad-o3536-2025
+  - norma_id: norm-and-d-164-2024
+  - norma_id: norm-mad-o893-2022
+  - norma_id: norm-mad-o460-2023
+  - norma_id: norm-mad-d21-2025
+  - norma_id: norm-and-d154-2022
+  - norma_id: norm-and-d328-2010
+  - norma_id: norm-mad-d-230-2023
+  - norma_id: norm-mad-l1-2022
+  - norma_id: norm-mad-r2-12-2025
+  - norma_id: norm-mad-o123-2015
+  - norma_id: norm-mad-d149-2000
+  - norma_id: norm-and-d101-2023
+  - norma_id: norm-and-o-admision-alumnado-2025-2026
+  - norma_id: norm-and-d164-2024
+  - norma_id: norm-mad-o3413-2022
+  - norma_id: norm-mad-r-calendario-escolar-2025-2026
+  - norma_id: norm-mad-o1312-2021
+  - norma_id: norm-mad-o-1238-2023
+  - norma_id: norm-and-dl2-2021
+  - norma_id: norm-and-o-30-5-2023-primaria
+  - norma_id: norm-and-r-instrucciones-curso-2025-2026
+  - norma_id: norm-mad-d-36-2022
+  - norma_id: norm-mad-o-admision-alumnado-2025-2026
+  - norma_id: norm-can-d-103-2023
+  - norma_id: norm-mad-d65-2022
+  - norma_id: norm-mad-d-164-2024
+  - norma_id: norm-mad-o1736-2023
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-and-d162-2009
+  - norma_id: norm-and-o-30-5-2023-eso
+  - norma_id: norm-and-d100-2023
+  - norma_id: norm-and-d103-2023
+  - norma_id: norm-and-l1-2020
+  - norma_id: norm-mad-o592-2022
+  - norma_id: norm-and-d-328-2010
+  - norma_id: norm-mad-o2356-2023
+  - norma_id: norm-mad-o3537-2025
+  - norma_id: norm-mad-o2067-2023
+  - norma_id: norm-mad-r23-6-2025
+  - norma_id: norm-and-r-calendario-escolar-2025-2026
+  - norma_id: norm-mad-d-64-2022
+  - norma_id: norm-mad-d64-2022
+  - norma_id: norm-mad-o457-2023
+  - norma_id: norm-and-l4-1984
+  - norma_id: norm-mad-l2-2010
+  - norma_id: norm-mad-o190-2023
+  - norma_id: norm-and-d102-2023
+  - norma_id: norm-mad-d15-2016
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-mad-d-61-2022
+  - norma_id: norm-mad-o1338-2023
+  - norma_id: norm-and-d-285-2023
+  - norma_id: norm-can-d-9-2022
+  - norma_id: norm-and-dl1-2017
+  - norma_id: norm-mad-o2808-2023
+  - norma_id: norm-mad-o266-2023
+  - norma_id: norm-and-d327-2010
+  - norma_id: norm-and-d-327-2010
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-mad-o130-2023
+  - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-mad-d-149-2000
+  - norma_id: norm-and-d-363-2011
+  - norma_id: norm-and-o-20-8-2010
+  - norma_id: norm-mad-d-65-2022
+  - norma_id: norm-and-d-6-2017
+  - norma_id: norm-and-d-362-2011
+  - norma_id: norm-and-d-329-2010
+  - norma_id: norm-mad-d-43-2024
+  - norma_id: norm-and-o-30-5-2023-bach
+  - norma_id: norm-and-d-436-2008
+  - norma_id: norm-mad-o-190-2023
+  - norma_id: norm-and-d-365-2011
+  - norma_id: norm-and-d-68-2008
+  - norma_id: norm-and-d-117-1985
+  - norma_id: norm-mad-d-10-2023
+  - norma_id: norm-and-d-56-1994
+  - norma_id: norm-mad-d-126-2017
+  - norma_id: norm-mad-d-35-2019
+  - norma_id: norm-and-d-4-1993
+  - norma_id: norm-mad-d-12-2022
+  - norma_id: norm-mad-o-893-2022
+  - norma_id: norm-and-d-390-1986
+  - norma_id: norm-and-o-19-4-2005
+  - norma_id: norm-mad-d-51-2023
+  - norma_id: norm-mad-o-2808-2023
+  - norma_id: norm-and-o-10-5-2006
+  - norma_id: norm-and-d-156-1983
+  - norma_id: norm-mad-o-2882-2019
+  - norma_id: norm-and-d-206-2006
+  - norma_id: norm-and-d-266-1988
+  - norma_id: norm-and-d-21-1985
+  - norma_id: norm-and-o-10-2-2004
+  - norma_id: norm-and-d-95-2003
+  - norma_id: norm-and-d-208-1997
+  - norma_id: norm-and-o-20-7-2006
+  - norma_id: norm-and-d-14-1995
+  - norma_id: norm-mad-d-56-2023
+  - norma_id: norm-mad-d-21-2025
+  - norma_id: norm-and-d-467-1994
+  - norma_id: norm-and-d-2-1995
+  - norma_id: norm-mad-o-1312-2021
+  - norma_id: norm-and-d-54-1989
+  - norma_id: norm-and-d-19-1995
+  - norma_id: norm-mad-o-1338-2023
+  - norma_id: norm-and-d-77-1994
+  - norma_id: norm-and-d-204-1995
+  - norma_id: norm-mad-d-43-2022
+  - norma_id: norm-and-o-23-4-2007
+  - norma_id: norm-mad-l-2-2010
+  - norma_id: norm-and-o-16-11-2007
+  - norma_id: norm-and-o-16-4-2008
+  - norma_id: norm-mad-d-126-2014
+  - norma_id: norm-and-o-27-7-2006
+  - norma_id: norm-and-o-15-12-2008
+  - norma_id: norm-and-o-3-8-2010
+  - norma_id: norm-mad-d-31-2011
+  - norma_id: norm-mad-l-4-2023
+  - norma_id: norm-and-d-431-2008
+  - norma_id: norm-and-o-29-9-2008
+  - norma_id: norm-and-o-28-6-2011
+  - norma_id: norm-and-r-1-9-2025
+  - norma_id: norm-and-d-140-2002
+  - norma_id: norm-and-d-52-2021
+  - norma_id: norm-and-o-14-7-2016
+  - norma_id: norm-mad-o-6116-2025
+  - norma_id: norm-and-o-24-6-2008
+  - norma_id: norm-mad-d-112-2002
+  - norma_id: norm-and-o-17-6-2009
+  - norma_id: norm-and-o-26-5-2011-arte
+  - norma_id: norm-and-o-15-7-2008
+  - norma_id: norm-and-r-12-2-2021
+  - norma_id: norm-mad-d-15-2016
+  - norma_id: norm-and-d-80-1999
+  - norma_id: norm-and-o-26-5-2011-eoi
+  - norma_id: norm-and-o-10-8-2007
+  - norma_id: norm-and-o-12-7-2011
+  - norma_id: norm-and-d-40-2011
+  - norma_id: norm-and-o-26-5-2011
+  - norma_id: norm-and-d-213-1995
+  - norma_id: norm-and-d-155-1997
+  - norma_id: norm-and-o-14-3-1995
+  - norma_id: norm-and-r-27-6-2023
+  - norma_id: norm-and-o-12-5-2017
+  - norma_id: norm-and-d-149-1988
+  - norma_id: norm-and-d-276-1998
+  - norma_id: norm-and-o-9-9-1993
+  - norma_id: norm-mad-d-18-2024
+  - norma_id: norm-and-o-12-7-2004
+  - norma_id: norm-mad-o-1568-2022
+  - norma_id: norm-and-o-18-4-2001
+  - norma_id: norm-mad-o-2460-2023
+  - norma_id: norm-mad-d-45-2023
+  - norma_id: norm-and-o-29-12-2000
+  - norma_id: norm-mad-r-inicio-2025
+  - norma_id: norm-and-d-512-1996
+  - norma_id: norm-and-o-8-7-1996
+  - norma_id: norm-mad-d-88-2021
+  - norma_id: norm-mad-o-1493-2015
+  - norma_id: norm-and-o-22-7-2013
+  - norma_id: norm-and-d-156-1997
+  - norma_id: norm-and-o-28-3-2008
+  - norma_id: norm-and-d-135-2014
+  - norma_id: norm-mad-o-1190-2021
+  - norma_id: norm-mad-o-2694-2009
+  - norma_id: norm-and-o-17-9-2010
+  - norma_id: norm-and-o-16-12-2008
+  - norma_id: norm-and-o-12-6-2008
+  - norma_id: norm-mad-o-2300-2022
+  - norma_id: norm-mad-d-15-2023
+  - norma_id: norm-and-d-115-2002
+  - norma_id: norm-and-d-301-2009
+  - norma_id: norm-mad-d-40-2021
+  - norma_id: norm-mad-d-29-2019
+  - norma_id: norm-and-o-26-6-2012
   desarrollado_por: []
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - 149.1.18
-    - norma_id: norm-es-l-19-2013
-    - norma_id: norm-es-1985-5392
-    - norma_id: norm-es-2003-23399
+  - 149.1.18
+  - norma_id: norm-es-l-19-2013
+  - norma_id: norm-es-1985-5392
+  - norma_id: norm-es-2003-23399
 ---
 # Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
 
@@ -464,9 +465,7 @@ Por lo que se refiere al procedimiento administrativo, entendido como el conjunt
 
 **III**
 
-Son varios los antecedentes legislativos relevantes en esta materia. El legislador ha hecho evolucionar el concepto de procedimiento administrativo y adaptando la forma de actuación de las Administraciones al contexto histórico y la realidad social de cada momento. Al margen de la conocida como Ley de Azcárate, de 19 de octubre de 1889, la primera regulación completa del procedimiento administrativo en nuestro ordenamiento jurídico es la contenida en la Ley de Procedimiento Administrativo de 17 de julio de 1958.
-
-La Constitución de 1978 alumbra un nuevo concepto de Administración, expresa y plenamente sometida a la Ley y al Derecho, como expresión democrática de la voluntad popular, y consagra su carácter instrumental, al ponerla al servicio objetivo de los intereses generales bajo la dirección del Gobierno, que responde políticamente por su gestión. En este sentido, la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, supuso un hito clave de la evolución del Derecho administrativo en el nuevo marco constitucional. Para ello, incorporó avances significativos en las relaciones de las Administraciones con los administrados mediante la mejora del funcionamiento de aquellas y, sobre todo, a través de una mayor garantía de los derechos de los ciudadanos frente a la potestad de autotutela de la Administración, cuyo elemento de cierre se encuentra en la revisión judicial de su actuación por ministerio del artículo 106 l.
+Son varios los antecedentes legislativos relevantes en esta materia. El legislador ha hecho evolucionar el concepto de procedimiento administrativo y adaptando la forma de actuación de las Administraciones al contexto histórico y la realidad social de cada momento. Al margen de la conocida como Ley de Azcárate, de 19 de octubre de 1889, la primera regulación completa del procedimiento administrativo en nuestro ordenamiento jurídico es la contenida en la Ley de Procedimiento Administrativo de 17 de julio de 1958. La Constitución de 1978 alumbra un nuevo concepto de Administración, expresa y plenamente sometida a la Ley y al Derecho, como expresión democrática de la voluntad popular, y consagra su carácter instrumental, al ponerla al servicio objetivo de los intereses generales bajo la dirección del Gobierno, que responde políticamente por su gestión. En este sentido, la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, supuso un hito clave de la evolución del Derecho administrativo en el nuevo marco constitucional. Para ello, incorporó avances significativos en las relaciones de las Administraciones con los administrados mediante la mejora del funcionamiento de aquellas y, sobre todo, a través de una mayor garantía de los derechos de los ciudadanos frente a la potestad de autotutela de la Administración, cuyo elemento de cierre se encuentra en la revisión judicial de su actuación por ministerio del artículo 106 l.
 
 texto fundamental.
 
@@ -818,9 +817,7 @@ En la sede electrónica de acceso a cada registro figurará la relación actuali
 
 4. Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas podrán presentarse:
 
-a) En el registro electrónico de la Administración u Organismo al que se dirijan, así como en los restantes registros electrónicos de cualquiera de los sujetos a los que se refiere el artículo 2.1.
-
-b) En las oficinas de Correos, en la forma que reglamentariamente se establezca.
+a) En el registro electrónico de la Administración u Organismo al que se dirijan, así como en los restantes registros electrónicos de cualquiera de los sujetos a los que se refiere el artículo 2.1. b) En las oficinas de Correos, en la forma que reglamentariamente se establezca.
 
 c) En las representaciones diplomáticas u oficinas consulares de España en el extranjero.
 
@@ -958,9 +955,7 @@ b) En los casos de desestimación por silencio administrativo, la resolución ex
 
 a) En el caso de procedimientos de los que pudiera derivarse el reconocimiento o, en su caso, la constitución de derechos u otras situaciones jurídicas favorables, los interesados que hubieren comparecido podrán entender desestimadas sus pretensiones por silencio administrativo.
 
-b) En los procedimientos en que la Administración ejercite potestades sancionadoras o, en general, de intervención, susceptibles de producir efectos desfavorables o de gravamen, se producirá la caducidad. En estos casos, la resolución que declare la caducidad ordenará el archivo de las actuaciones, con los efectos previstos en el artículo 95.
-
-2. En los supuestos en los que el procedimiento se hubiera paralizado por causa imputable al interesado, se interrumpirá el cómputo del plazo para resolver y notificar la resolución.
+b) En los procedimientos en que la Administración ejercite potestades sancionadoras o, en general, de intervención, susceptibles de producir efectos desfavorables o de gravamen, se producirá la caducidad. En estos casos, la resolución que declare la caducidad ordenará el archivo de las actuaciones, con los efectos previstos en el artículo 95. 2. En los supuestos en los que el procedimiento se hubiera paralizado por causa imputable al interesado, se interrumpirá el cómputo del plazo para resolver y notificar la resolución.
 
 #### Artículo 26. Emisión de documentos por las Administraciones Públicas.
 
@@ -1088,9 +1083,7 @@ Los documentos se considerarán presentados por el orden de hora efectiva en el 
 
 c) El inicio del cómputo de los plazos que hayan de cumplir las Administraciones Públicas vendrá determinado por la fecha y hora de presentación en el registro electrónico de cada Administración u Organismo. En todo caso, la fecha y hora efectiva de inicio del cómputo de plazos deberá ser comunicada a quien presentó el documento.
 
-3. La sede electrónica del registro de cada Administración Pública u Organismo, determinará, atendiendo al ámbito territorial en el que ejerce sus competencias el titular de aquélla y al calendario previsto en el artículo 30.7, los días que se considerarán inhábiles a los efectos previstos en este artículo. Este será el único calendario de días inhábiles que se aplicará a efectos del cómputo de plazos en los registros electrónicos, sin que resulte de aplicación a los mismos lo dispuesto en el artículo 30.6.
-
-#### Artículo 32. Ampliación.
+3. La sede electrónica del registro de cada Administración Pública u Organismo, determinará, atendiendo al ámbito territorial en el que ejerce sus competencias el titular de aquélla y al calendario previsto en el artículo 30.7, los días que se considerarán inhábiles a los efectos previstos en este artículo. Este será el único calendario de días inhábiles que se aplicará a efectos del cómputo de plazos en los registros electrónicos, sin que resulte de aplicación a los mismos lo dispuesto en el artículo 30.6. #### Artículo 32. Ampliación.
 
 1. La Administración, salvo precepto en contrario, podrá conceder de oficio o a petición de los interesados, una ampliación de los plazos establecidos, que no exceda de la mitad de los mismos, si las circunstancias lo aconsejan y con ello no se perjudican derechos de tercero. El acuerdo de ampliación deberá ser notificado a los interesados.
 
@@ -1128,9 +1121,7 @@ b) Los actos que resuelvan procedimientos de revisión de oficio de disposicione
 
 c) Los actos que se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos.
 
-d) Los acuerdos de suspensión de actos, cualquiera que sea el motivo de ésta, así como la adopción de medidas provisionales previstas en el artículo 56.
-
-e) Los acuerdos de aplicación de la tramitación de urgencia, de ampliación de plazos y de realización de actuaciones complementarias.
+d) Los acuerdos de suspensión de actos, cualquiera que sea el motivo de ésta, así como la adopción de medidas provisionales previstas en el artículo 56. e) Los acuerdos de aplicación de la tramitación de urgencia, de ampliación de plazos y de realización de actuaciones complementarias.
 
 f) Los actos que rechacen pruebas propuestas por los interesados.
 
@@ -1156,9 +1147,7 @@ i) Los actos que se dicten en el ejercicio de potestades discrecionales, así co
 
 1. Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general.
 
-2. Son nulas las resoluciones administrativas que vulneren lo establecido en una disposición reglamentaria, así como aquellas que incurran en alguna de las causas recogidas en el artículo 47.
-
-#### Artículo 38. Ejecutividad.
+2. Son nulas las resoluciones administrativas que vulneren lo establecido en una disposición reglamentaria, así como aquellas que incurran en alguna de las causas recogidas en el artículo 47. #### Artículo 38. Ejecutividad.
 
 Los actos de las Administraciones Públicas sujetos al Derecho Administrativo serán ejecutivos con arreglo a lo dispuesto en esta Ley.
 
@@ -1226,9 +1215,7 @@ Cuando no fuera posible realizar la notificación de acuerdo con lo señalado en
 
 1. Todas las notificaciones que se practiquen en papel deberán ser puestas a disposición del interesado en la sede electrónica de la Administración u Organismo actuante para que pueda acceder al contenido de las mismas de forma voluntaria.
 
-2. Cuando la notificación se practique en el domicilio del interesado, de no hallarse presente éste en el momento de entregarse la notificación, podrá hacerse cargo de la misma cualquier persona mayor de catorce años que se encuentre en el domicilio y haga constar su identidad. Si nadie se hiciera cargo de la notificación, se hará constar esta circunstancia en el expediente, junto con el día y la hora en que se intentó la notificación, intento que se repetirá por una sola vez y en una hora distinta dentro de los tres días siguientes. En caso de que el primer intento de notificación se haya realizado antes de las quince horas, el segundo intento deberá realizarse después de las quince horas y viceversa, dejando en todo caso al menos un margen de diferencia de tres horas entre ambos intentos de notificación. Si el segundo intento también resultara infructuoso, se procederá en la forma prevista en el artículo 44.
-
-3. Cuando el interesado accediera al contenido de la notificación en sede electrónica, se le ofrecerá la posibilidad de que el resto de notificaciones se puedan realizar a través de medios electrónicos.
+2. Cuando la notificación se practique en el domicilio del interesado, de no hallarse presente éste en el momento de entregarse la notificación, podrá hacerse cargo de la misma cualquier persona mayor de catorce años que se encuentre en el domicilio y haga constar su identidad. Si nadie se hiciera cargo de la notificación, se hará constar esta circunstancia en el expediente, junto con el día y la hora en que se intentó la notificación, intento que se repetirá por una sola vez y en una hora distinta dentro de los tres días siguientes. En caso de que el primer intento de notificación se haya realizado antes de las quince horas, el segundo intento deberá realizarse después de las quince horas y viceversa, dejando en todo caso al menos un margen de diferencia de tres horas entre ambos intentos de notificación. Si el segundo intento también resultara infructuoso, se procederá en la forma prevista en el artículo 44. 3. Cuando el interesado accediera al contenido de la notificación en sede electrónica, se le ofrecerá la posibilidad de que el resto de notificaciones se puedan realizar a través de medios electrónicos.
 
 #### Artículo 43. Práctica de las notificaciones a través de medios electrónicos.
 
@@ -1352,9 +1339,7 @@ f) A obtener información y orientación acerca de los requisitos jurídicos o t
 
 g) A actuar asistidos de asesor cuando lo consideren conveniente en defensa de sus intereses.
 
-h) A cumplir las obligaciones de pago a través de los medios electrónicos previstos en el artículo 98.2.
-
-i) Cualesquiera otros que les reconozcan la Constitución y las leyes.
+h) A cumplir las obligaciones de pago a través de los medios electrónicos previstos en el artículo 98.2. i) Cualesquiera otros que les reconozcan la Constitución y las leyes.
 
 2. Además de los derechos previstos en el apartado anterior, en el caso de procedimientos administrativos de naturaleza sancionadora, los presuntos responsables tendrán los siguientes derechos:
 
@@ -1476,19 +1461,13 @@ b) Los hechos que motivan la incoación del procedimiento, su posible calificaci
 
 c) Identificación del instructor y, en su caso, Secretario del procedimiento, con expresa indicación del régimen de recusación de los mismos.
 
-d) Órgano competente para la resolución del procedimiento y norma que le atribuya tal competencia, indicando la posibilidad de que el presunto responsable pueda reconocer voluntariamente su responsabilidad, con los efectos previstos en el artículo 85.
-
-e) Medidas de carácter provisional que se hayan acordado por el órgano competente para iniciar el procedimiento sancionador, sin perjuicio de las que se puedan adoptar durante el mismo de conformidad con el artículo 56.
-
-f) Indicación del derecho a formular alegaciones y a la audiencia en el procedimiento y de los plazos para su ejercicio, así como indicación de que, en caso de no efectuar alegaciones en el plazo previsto sobre el contenido del acuerdo de iniciación, éste podrá ser considerado propuesta de resolución cuando contenga un pronunciamiento preciso acerca de la responsabilidad imputada.
+d) Órgano competente para la resolución del procedimiento y norma que le atribuya tal competencia, indicando la posibilidad de que el presunto responsable pueda reconocer voluntariamente su responsabilidad, con los efectos previstos en el artículo 85. e) Medidas de carácter provisional que se hayan acordado por el órgano competente para iniciar el procedimiento sancionador, sin perjuicio de las que se puedan adoptar durante el mismo de conformidad con el artículo 56. f) Indicación del derecho a formular alegaciones y a la audiencia en el procedimiento y de los plazos para su ejercicio, así como indicación de que, en caso de no efectuar alegaciones en el plazo previsto sobre el contenido del acuerdo de iniciación, éste podrá ser considerado propuesta de resolución cuando contenga un pronunciamiento preciso acerca de la responsabilidad imputada.
 
 3. Excepcionalmente, cuando en el momento de dictar el acuerdo de iniciación no existan elementos suficientes para la calificación inicial de los hechos que motivan la incoación del procedimiento, la citada calificación podrá realizarse en una fase posterior mediante la elaboración de un Pliego de cargos, que deberá ser notificado a los interesados.
 
 #### Artículo 65. Especialidades en el inicio de oficio de los procedimientos de responsabilidad patrimonial.
 
-1. Cuando las Administraciones Públicas decidan iniciar de oficio un procedimiento de responsabilidad patrimonial será necesario que no haya prescrito el derecho a la reclamación del interesado al que se refiere el artículo 67.
-
-2. El acuerdo de iniciación del procedimiento se notificará a los particulares presuntamente lesionados, concediéndoles un plazo de diez días para que aporten cuantas alegaciones, documentos o información estimen conveniente a su derecho y propongan cuantas pruebas sean pertinentes para el reconocimiento del mismo. El procedimiento iniciado se instruirá aunque los particulares presuntamente lesionados no se personen en el plazo establecido.
+1. Cuando las Administraciones Públicas decidan iniciar de oficio un procedimiento de responsabilidad patrimonial será necesario que no haya prescrito el derecho a la reclamación del interesado al que se refiere el artículo 67. 2. El acuerdo de iniciación del procedimiento se notificará a los particulares presuntamente lesionados, concediéndoles un plazo de diez días para que aporten cuantas alegaciones, documentos o información estimen conveniente a su derecho y propongan cuantas pruebas sean pertinentes para el reconocimiento del mismo. El procedimiento iniciado se instruirá aunque los particulares presuntamente lesionados no se personen en el plazo establecido.
 
 #### Sección 3. ª Inicio del procedimiento a solicitud del interesado
 
@@ -1534,9 +1513,7 @@ En los casos en que proceda reconocer derecho a indemnización por anulación en
 
 1. Si la solicitud de iniciación no reúne los requisitos que señala el artículo 66, y, en su caso, los que señala el artículo 67 u otros.
 
-exigidos por la legislación específica aplicable, se requerirá al interesado para que, en un plazo de diez días, subsane la falta o acompañe los documentos preceptivos, con indicación de que, si así no lo hiciera, se le tendrá por desistido de su petición, previa resolución que deberá ser dictada en los términos previstos en el artículo 21.
-
-2. Siempre que no se trate de procedimientos selectivos o de concurrencia competitiva, este plazo podrá ser ampliado prudencialmente, hasta cinco días, a petición del interesado o a iniciativa del órgano, cuando la aportación de los documentos requeridos presente dificultades especiales.
+exigidos por la legislación específica aplicable, se requerirá al interesado para que, en un plazo de diez días, subsane la falta o acompañe los documentos preceptivos, con indicación de que, si así no lo hiciera, se le tendrá por desistido de su petición, previa resolución que deberá ser dictada en los términos previstos en el artículo 21. 2. Siempre que no se trate de procedimientos selectivos o de concurrencia competitiva, este plazo podrá ser ampliado prudencialmente, hasta cinco días, a petición del interesado o a iniciativa del órgano, cuando la aportación de los documentos requeridos presente dificultades especiales.
 
 3. En los procedimientos iniciados a solicitud de los interesados, el órgano competente podrá recabar del solicitante la modificación o mejora voluntarias de los términos de aquélla. De ello se levantará acta sucinta, que se incorporará al procedimiento.
 
@@ -1666,9 +1643,7 @@ Unos y otros serán tenidos en cuenta por el órgano competente al redactar la c
 
 el plazo de diez días, salvo que una disposición o el cumplimiento del resto de los plazos del procedimiento permita o exija otro plazo mayor o menor.
 
-3. De no emitirse el informe en el plazo señalado, y sin perjuicio de la responsabilidad en que incurra el responsable de la demora, se podrán proseguir las actuaciones salvo cuando se trate de un informe preceptivo, en cuyo caso se podrá suspender el transcurso del plazo máximo legal para resolver el procedimiento en los términos establecidos en la letra d) del apartado 1 del artículo 22.
-
-4. Si el informe debiera ser emitido por una Administración Pública distinta de la que tramita el procedimiento en orden a expresar el punto de vista correspondiente a sus competencias respectivas, y transcurriera el plazo sin que aquél se hubiera emitido, se podrán proseguir las actuaciones.
+3. De no emitirse el informe en el plazo señalado, y sin perjuicio de la responsabilidad en que incurra el responsable de la demora, se podrán proseguir las actuaciones salvo cuando se trate de un informe preceptivo, en cuyo caso se podrá suspender el transcurso del plazo máximo legal para resolver el procedimiento en los términos establecidos en la letra d) del apartado 1 del artículo 22. 4. Si el informe debiera ser emitido por una Administración Pública distinta de la que tramita el procedimiento en orden a expresar el punto de vista correspondiente a sus competencias respectivas, y transcurriera el plazo sin que aquél se hubiera emitido, se podrán proseguir las actuaciones.
 
 El informe emitido fuera de plazo podrá no ser tenido en cuenta al adoptar la correspondiente resolución.
 
@@ -1866,9 +1841,7 @@ En cualquier momento del procedimiento anterior a su resolución, el órgano com
 
 4. En el caso de procedimientos en materia de responsabilidad patrimonial de las Administraciones Públicas, si una vez iniciado el procedimiento administrativo el órgano competente para su tramitación considera inequívoca la relación de causalidad entre el funcionamiento del servicio público y la lesión, así como la valoración del daño y el cálculo de la cuantía de la indemnización, podrá acordar de oficio la suspensión del procedimiento general y la iniciación de un procedimiento simplificado.
 
-5. En el caso de procedimientos de naturaleza sancionadora, se podrá adoptar la tramitación simplificada del procedimiento cuando el órgano competente para iniciar el procedimiento considere que, de acuerdo con lo previsto en su normativa reguladora, existen elementos de juicio suficientes para calificar la infracción como leve, sin que quepa la oposición expresa por parte del interesado prevista en el apartado 2.
-
-6. Salvo que reste menos para su tramitación ordinaria, los procedimientos administrativos tramitados de manera simplificada deberán ser resueltos en treinta días, a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada del procedimiento, y constarán únicamente de los siguientes trámites:
+5. En el caso de procedimientos de naturaleza sancionadora, se podrá adoptar la tramitación simplificada del procedimiento cuando el órgano competente para iniciar el procedimiento considere que, de acuerdo con lo previsto en su normativa reguladora, existen elementos de juicio suficientes para calificar la infracción como leve, sin que quepa la oposición expresa por parte del interesado prevista en el apartado 2. 6. Salvo que reste menos para su tramitación ordinaria, los procedimientos administrativos tramitados de manera simplificada deberán ser resueltos en treinta días, a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada del procedimiento, y constarán únicamente de los siguientes trámites:
 
 a) Inicio del procedimiento de oficio o a solicitud del interesado.
 
@@ -1988,11 +1961,7 @@ No se admitirán a trámite acciones posesorias contra las actuaciones de los ó
 
 #### Artículo 106. Revisión de disposiciones y actos nulos.
 
-1. Las Administraciones Públicas, en cualquier momento, por iniciativa propia o a solicitud de interesado, y previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere, declararán de oficio la nulidad de los actos administrativos que hayan puesto fin a la vía administrativa o que no hayan sido recurridos en plazo, en los supuestos previstos en el artículo 47.1.
-
-2. Asimismo, en cualquier momento, las Administraciones Públicas de oficio, y previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma si lo hubiere, podrán declarar la nulidad de las disposiciones administrativas en los supuestos previstos en el artículo 47.2.
-
-3. El órgano competente para la revisión de oficio podrá acordar motivadamente la inadmisión a trámite de las solicitudes formuladas por los interesados, sin necesidad de recabar Dictamen del Consejo de Estado u órgano consultivo de la Comunidad Autónoma, cuando las mismas no se basen en alguna de las causas de nulidad del artículo 47.1 o carezcan manifiestamente de fundamento, así como en el supuesto de que se hubieran desestimado en cuanto al fondo otras solicitudes sustancialmente iguales.
+1. Las Administraciones Públicas, en cualquier momento, por iniciativa propia o a solicitud de interesado, y previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere, declararán de oficio la nulidad de los actos administrativos que hayan puesto fin a la vía administrativa o que no hayan sido recurridos en plazo, en los supuestos previstos en el artículo 47.1. 2. Asimismo, en cualquier momento, las Administraciones Públicas de oficio, y previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma si lo hubiere, podrán declarar la nulidad de las disposiciones administrativas en los supuestos previstos en el artículo 47.2. 3. El órgano competente para la revisión de oficio podrá acordar motivadamente la inadmisión a trámite de las solicitudes formuladas por los interesados, sin necesidad de recabar Dictamen del Consejo de Estado u órgano consultivo de la Comunidad Autónoma, cuando las mismas no se basen en alguna de las causas de nulidad del artículo 47.1 o carezcan manifiestamente de fundamento, así como en el supuesto de que se hubieran desestimado en cuanto al fondo otras solicitudes sustancialmente iguales.
 
 4. Las Administraciones Públicas, al declarar la nulidad de una disposición o acto, podrán establecer, en la misma resolución, las indemnizaciones que proceda reconocer a los interesados, si se dan las circunstancias previstas en los artículos 32.2 y 34.1 de la Ley de Régimen Jurídico del Sector Público sin perjuicio de que, tratándose de una disposición, subsistan los actos firmes dictados en aplicación de la misma.
 
@@ -2002,9 +1971,7 @@ No se admitirán a trámite acciones posesorias contra las actuaciones de los ó
 
 1. Las Administraciones Públicas podrán impugnar ante el orden jurisdiccional contencioso-administrativo los actos favorables para los interesados que sean anulables conforme a lo dispuesto en el artículo 48, previa su declaración de lesividad para el interés público.
 
-2. La declaración de lesividad no podrá adoptarse una vez transcurridos cuatro años desde que se dictó el acto administrativo y exigirá la previa audiencia de cuantos aparezcan como interesados en el mismo, en los términos establecidos por el artículo 82.
-
-Sin perjuicio de su examen como presupuesto procesal de admisibilidad de la acción en el proceso judicial correspondiente, la declaración de lesividad no será susceptible de recurso, si bien podrá notificarse a los interesados a los meros efectos informativos.
+2. La declaración de lesividad no podrá adoptarse una vez transcurridos cuatro años desde que se dictó el acto administrativo y exigirá la previa audiencia de cuantos aparezcan como interesados en el mismo, en los términos establecidos por el artículo 82. Sin perjuicio de su examen como presupuesto procesal de admisibilidad de la acción en el proceso judicial correspondiente, la declaración de lesividad no será susceptible de recurso, si bien podrá notificarse a los interesados a los meros efectos informativos.
 
 3. Transcurrido el plazo de seis meses desde la iniciación del procedimiento sin que se hubiera declarado la lesividad, se producirá la caducidad del mismo.
 
@@ -2068,25 +2035,19 @@ Los recursos contra un acto administrativo que se funden únicamente en la nulid
 
 #### Artículo 113. Recurso extraordinario de revisión.
 
-Contra los actos firmes en vía administrativa, sólo procederá el recurso extraordinario de revisión cuando concurra alguna de las circunstancias previstas en el artículo 125.1.
-
-#### Artículo 114. Fin de la vía administrativa.
+Contra los actos firmes en vía administrativa, sólo procederá el recurso extraordinario de revisión cuando concurra alguna de las circunstancias previstas en el artículo 125.1. #### Artículo 114. Fin de la vía administrativa.
 
 1. Ponen fin a la vía administrativa:
 
 a) Las resoluciones de los recursos de alzada.
 
-b) Las resoluciones de los procedimientos a que se refiere el artículo 112.2.
-
-c) Las resoluciones de los órganos administrativos que carezcan de superior jerárquico, salvo que una Ley establezca lo contrario.
+b) Las resoluciones de los procedimientos a que se refiere el artículo 112.2. c) Las resoluciones de los órganos administrativos que carezcan de superior jerárquico, salvo que una Ley establezca lo contrario.
 
 d) Los acuerdos, pactos, convenios o contratos que tengan la consideración de finalizadores del procedimiento.
 
 e) La resolución administrativa de los procedimientos de responsabilidad patrimonial, cualquiera que fuese el tipo de relación, pública o privada, de que derive.
 
-f) La resolución de los procedimientos complementarios en materia sancionadora a los que se refiere el artículo 90.4.
-
-g) Las demás resoluciones de órganos administrativos cuando una disposición legal o reglamentaria así lo establezca.
+f) La resolución de los procedimientos complementarios en materia sancionadora a los que se refiere el artículo 90.4. g) Las demás resoluciones de órganos administrativos cuando una disposición legal o reglamentaria así lo establezca.
 
 2. Además de lo previsto en el apartado anterior, en el ámbito estatal ponen fin a la vía administrativa los actos y resoluciones siguientes:
 
@@ -2164,9 +2125,7 @@ No se tendrán en cuenta en la resolución de los recursos, hechos, documentos o
 
 1. La resolución del recurso estimará en todo o en parte o desestimará las pretensiones formuladas en el mismo o declarará su inadmisión.
 
-2. Cuando existiendo vicio de forma no se estime procedente resolver sobre el fondo se ordenará la retroacción del procedimiento al momento en el que el vicio fue cometido, sin perjuicio de que eventualmente pueda acordarse la convalidación de actuaciones por el órgano competente para ello, de acuerdo con lo dispuesto en el artículo 52.
-
-3. El órgano que resuelva el recurso decidirá cuantas cuestiones, tanto de forma como de fondo, plantee el procedimiento, hayan sido o no alegadas por los interesados. En este último caso se les oirá previamente. No obstante, la resolución será congruente con las peticiones formuladas por el recurrente, sin que en ningún caso pueda agravarse su situación inicial.
+2. Cuando existiendo vicio de forma no se estime procedente resolver sobre el fondo se ordenará la retroacción del procedimiento al momento en el que el vicio fue cometido, sin perjuicio de que eventualmente pueda acordarse la convalidación de actuaciones por el órgano competente para ello, de acuerdo con lo dispuesto en el artículo 52. 3. El órgano que resuelva el recurso decidirá cuantas cuestiones, tanto de forma como de fondo, plantee el procedimiento, hayan sido o no alegadas por los interesados. En este último caso se les oirá previamente. No obstante, la resolución será congruente con las peticiones formuladas por el recurrente, sin que en ningún caso pueda agravarse su situación inicial.
 
 #### Artículo 120. Pluralidad de recursos administrativos.
 
@@ -2198,9 +2157,7 @@ Si el acto no fuera expreso el solicitante y otros posibles interesados podrán 
 
 2. El plazo máximo para dictar y notificar la resolución será de tres meses. Transcurrido este plazo sin que recaiga resolución, se podrá entender desestimado el recurso, salvo en el supuesto previsto en el artículo 24.1, tercer párrafo.
 
-3. Contra la resolución de un recurso de alzada no cabrá ningún otro recurso administrativo, salvo el recurso extraordinario de revisión, en los casos establecidos en el artículo 125.1.
-
-#### Sección 3. ª Recurso potestativo de reposición
+3. Contra la resolución de un recurso de alzada no cabrá ningún otro recurso administrativo, salvo el recurso extraordinario de revisión, en los casos establecidos en el artículo 125.1. #### Sección 3. ª Recurso potestativo de reposición
 
 #### Artículo 123. Objeto y naturaleza.
 
@@ -2564,9 +2521,7 @@ Por tanto,
 
 Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
 
-Madrid, 1 de octubre de 2015.
-
-FELIPE R.
+Madrid, 1 de octubre de 2015. FELIPE R.
 
 El Presidente del Gobierno,
 

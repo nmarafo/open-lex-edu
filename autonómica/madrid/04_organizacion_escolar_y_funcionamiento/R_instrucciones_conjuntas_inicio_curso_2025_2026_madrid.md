@@ -1,10 +1,13 @@
 ---
 id: norm-mad-r-instrucciones-curso-2025-2026
 codigo_sintetizado: R_Instrucciones Inicio de Curso 2025-2026 Madrid
-titulo: Resolución conjunta de las Viceconsejerías de Política Educativa y de Organización Educativa por la que se dictan instrucciones para el comienzo del curso escolar 2025-2026 en centros docentes públicos no universitarios de la Comunidad de Madrid.
+titulo: Resolución conjunta de las Viceconsejerías de Política Educativa y de Organización
+  Educativa por la que se dictan instrucciones para el comienzo del curso escolar
+  2025-2026 en centros docentes públicos no universitarios de la Comunidad de Madrid.
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Resolución
 numero_disposicion: Instrucciones Curso 2025-2026
 fecha_disposicion: '2025-06-20'
@@ -18,19 +21,19 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Instrucciones de comienzo de curso
 tags:
-  - inicio_de_curso
-  - instrucciones_curso_2025_2026
-  - organizacion_escolar
-  - pga
-  - madrid
+- inicio_de_curso
+- instrucciones_curso_2025_2026
+- organizacion_escolar
+- pga
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-mad-d-29-2013
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
+  - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
 ---
 # Resolución conjunta de las Viceconsejerías de Política Educativa y de Organización Educativa por la que se dictan instrucciones para el comienzo del curso escolar 2025-2026 en centros docentes públicos no universitarios de la Comunidad de Madrid.
 
@@ -46,9 +49,7 @@ DISPONGO:
 
 #### Artículo 1. Objeto y ámbito de aplicación.
 
-1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Resolución Instrucciones Curso 2025-2026.
-
-2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Madrid.
+1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Resolución Instrucciones Curso 2025-2026. 2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Madrid.
 
 #### Artículo 2. Principios generales de actuación.
 
@@ -68,8 +69,6 @@ Las Administraciones educativas proveerán los recursos materiales, organizativo
 
 #### Disposición final primera. Habilitación para el desarrollo normativo.
 
-Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Resolución Instrucciones Curso 2025-2026.
-
-#### Disposición final segunda. Entrada en vigor.
+Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Resolución Instrucciones Curso 2025-2026. #### Disposición final segunda. Entrada en vigor.
 
 La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

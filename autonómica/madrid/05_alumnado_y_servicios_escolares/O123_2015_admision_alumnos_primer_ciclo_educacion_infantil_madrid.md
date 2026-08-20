@@ -1,9 +1,11 @@
 ---
 id: norm-mad-o123-2015
-titulo: Orden 123/2015, de 26 de enero, sobre admisión de alumnos en primer ciclo de Educación Infantil
+titulo: Orden 123/2015, de 26 de enero, sobre admisión de alumnos en primer ciclo
+  de Educación Infantil
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
 numero_disposicion: 123/2015
 fecha_disposicion: '2015-01-26'
@@ -18,20 +20,20 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión y escolarización del alumnado
 tags:
-  - admision_infantil
-  - primer_ciclo_infantil
-  - escuelas_infantiles
-  - comunidad_de_madrid
+- admision_infantil
+- primer_ciclo_infantil
+- escuelas_infantiles
+- comunidad_de_madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
 ---
 # Orden 123/2015, de 26 de enero, sobre admisión de alumnos en primer ciclo de Educación Infantil
 

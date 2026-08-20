@@ -3,7 +3,8 @@ id: norm-and-l9-1999
 titulo: Ley 9/1999, de 18 de noviembre, de Solidaridad en la Educación
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Ley
 numero_disposicion: 9/1999
 fecha_disposicion: '1999-11-18'
@@ -18,20 +19,20 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Medidas de atención a la diversidad
 tags:
-  - solidaridad_educativa
-  - neae
-  - compensacion_educativa
-  - andalucia
+- solidaridad_educativa
+- neae
+- compensacion_educativa
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-1-1996
-    - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-and-l17-2007
 ---
 # Ley 9/1999, de 18 de noviembre, de Solidaridad en la Educación
 
@@ -161,9 +162,7 @@ relación con el 16, ambos de la Ley 2/1989, por la que se aprueba el Inventario
 
 1. El Consejo de Participación estará compuesto por el Presidente, Vicepresidente, Secretario y los Vocales representantes de la Administración de la Junta de Andalucía, de la Administración del Estado y de la Administración Local, de las organizaciones y agentes sociales y económicos y de la comunidad científica. La forma de designación de los miembros y el número de los Vocales se determinará reglamentariamente.
 
-2. El régimen jurídico de funcionamiento del Consejo de Participación será el que se disponga en su Reglamento de Régimen Interno y lo establecido en los artículos 22 y siguientes, sobre los órganos colegiados, de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, modificada por Ley 4/1999.
-
-#### Artículo 16. Competencias.
+2. El régimen jurídico de funcionamiento del Consejo de Participación será el que se disponga en su Reglamento de Régimen Interno y lo establecido en los artículos 22 y siguientes, sobre los órganos colegiados, de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, modificada por Ley 4/1999. #### Artículo 16. Competencias.
 
 El Consejo de Participación, sin perjuicio de las demás competencias que legalmente le pudieran corresponder, asumirá las siguientes funciones:
 

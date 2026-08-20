@@ -1,7 +1,15 @@
 ---
 id: norm-can-res-028
 codigo_sintetizado: Resolucion BOC 28
-titulo: Resolución de 17 de abril de 2026, que corrige error en la Resolución de 26 de marzo de 2026, por la que se amplían la Resolución de 30 de octubre de 2024, que dicta instrucciones y orientaciones par la implantación y desarrollo de los grados de formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los currículos; y la Resolución de 21 de febrero de 2025, que dicta instrucciones para la implantación de los itinerarios formativos de Formación Profesional Adaptada y el desarrollo de los currículos de los módulos de carácter general a partir del curso escolar 2024/2025, en el ámbito de la Comunidad Autónoma de Canarias (BOC n.º 70, de 13.4.2026).
+titulo: Resolución de 17 de abril de 2026, que corrige error en la Resolución de 26
+  de marzo de 2026, por la que se amplían la Resolución de 30 de octubre de 2024,
+  que dicta instrucciones y orientaciones par la implantación y desarrollo de los
+  grados de formación D y E, a partir del curso escolar 2024/2025, y se establece
+  la distribución horaria y modular de los currículos; y la Resolución de 21 de febrero
+  de 2025, que dicta instrucciones para la implantación de los itinerarios formativos
+  de Formación Profesional Adaptada y el desarrollo de los currículos de los módulos
+  de carácter general a partir del curso escolar 2024/2025, en el ámbito de la Comunidad
+  Autónoma de Canarias (BOC n.º 70, de 13.4.2026).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General competente de la Consejería de Educación de Canarias
@@ -13,36 +21,36 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-  - curriculo
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - formacion-profesional
+- curriculo
+- ensenanzas-deportivas
+- equipos-directivos
+- formacion-profesional
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-212-1991
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-res-boc-2024-226-44
-    - norma_id: norm-can-res-boc-2026-070-115
-    - norma_id: norm-can-res-boc-2026-070-116
-    - norma_id: norm-can-res-boc-2026-070-41
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-can-res-boc-2026-070-115
+  - norma_id: norm-can-res-boc-2026-070-116
+  - norma_id: norm-can-res-boc-2026-070-41
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-can-res-boc-2026-070-41
-    - norma_id: norm-can-res-boc-2024-226-44
-    - norma_id: norm-can-res-boc-2026-070-115
-    - norma_id: norm-can-res-boc-2026-070-116
-    - norma_id: norm-can-d-212-1991
+  - '1'
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-can-res-boc-2026-070-41
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-can-res-boc-2026-070-115
+  - norma_id: norm-can-res-boc-2026-070-116
+  - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-080-1342.pdf
 ---
 # Resolución de 17 de abril de 2026, que corrige error en la Resolución de 26 de marzo de 2026, por la que se amplían la Resolución de 30 de octubre de 2024, que dicta instrucciones y orientaciones par la implantación y desarrollo de los grados de formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los currículos; y la Resolución de 21 de febrero de 2025, que dicta instrucciones para la implantación de los itinerarios formativos de Formación Profesional Adaptada y el desarrollo de los currículos de los módulos de carácter general a partir del curso escolar 2024/2025, en el ámbito de la Comunidad Autónoma de Canarias (BOC n.º 70, de 13.4.2026).
@@ -73,9 +81,7 @@ FAMILIA PROFESIONAL: AGRARIA ITINERARIO FORMATIVO DE FORMACIÓN PROFESIONAL ADAP
 
 ## Anexo III
 
-FAMILIA PROFESIONAL: AGRARIA ITINERARIO FORMATIVO DE FORMACIÓN PROFESIONAL ADAPTADA ACTIVIDADES AUXILIARES EN AGRICULTURA (AGA163_1) (Orden PRE/1634/2015, de 23 de julio 1) Certificado profesional: Actividades auxiliares en agricultura (AGAX0208) Distribución horaria semanal por curso Actividades auxiliares en agricultura Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de comunicación y competencia social 145 4 Ámbito de ciencias aplicadas y competencia lógica 110 3 Ámbito de prevención y orientación profesional 145 4 Módulos profesionales MF0517_1 Operaciones auxiliares de preparación del terreno, plantación y siembra de cultivos agrícolas 170 5 MF0518_1 Operaciones auxiliares de riego, abonado y aplicación de tratamientos en cultivos agrícolas 170 5 MF0519_1 Operaciones auxiliares en los cultivos y de mantenimiento de instalaciones en explotaciones agrícolas 130 3 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 1 Anexo III, Sec. I, p.69141 del BOE núm 185 1 Anexo III, Sec. I, p.69141 del BOE n.º 185.
-
-## Relaciones Normativas y Fundamentos de Derecho
+FAMILIA PROFESIONAL: AGRARIA ITINERARIO FORMATIVO DE FORMACIÓN PROFESIONAL ADAPTADA ACTIVIDADES AUXILIARES EN AGRICULTURA (AGA163_1) (Orden PRE/1634/2015, de 23 de julio 1) Certificado profesional: Actividades auxiliares en agricultura (AGAX0208) Distribución horaria semanal por curso Actividades auxiliares en agricultura Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de comunicación y competencia social 145 4 Ámbito de ciencias aplicadas y competencia lógica 110 3 Ámbito de prevención y orientación profesional 145 4 Módulos profesionales MF0517_1 Operaciones auxiliares de preparación del terreno, plantación y siembra de cultivos agrícolas 170 5 MF0518_1 Operaciones auxiliares de riego, abonado y aplicación de tratamientos en cultivos agrícolas 170 5 MF0519_1 Operaciones auxiliares en los cultivos y de mantenimiento de instalaciones en explotaciones agrícolas 130 3 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 1 Anexo III, Sec. I, p.69141 del BOE núm 185 1 Anexo III, Sec. I, p.69141 del BOE n.º 185. ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
 

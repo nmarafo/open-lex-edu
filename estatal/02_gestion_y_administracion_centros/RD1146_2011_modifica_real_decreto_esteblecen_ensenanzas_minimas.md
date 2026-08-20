@@ -1,10 +1,14 @@
 ---
 id: norm-es-2011-13117
 codigo_sintetizado: BOE-A-2011-13117
-titulo: Real Decreto 1146/2011, de 29 de julio, por el que se modifica el Real Decreto 1631/2006, de 29 de diciembre, por el que se esteblecen las enseñanzas mínimas correspondientes a la Educación Secundaria Obligatoria, así como los Reales Decretos 1834/2008, de 8 de noviembre, y 860/2010, de 2 de julio, afectados por estas modificaciones.
+titulo: Real Decreto 1146/2011, de 29 de julio, por el que se modifica el Real Decreto
+  1631/2006, de 29 de diciembre, por el que se esteblecen las enseñanzas mínimas correspondientes
+  a la Educación Secundaria Obligatoria, así como los Reales Decretos 1834/2008, de
+  8 de noviembre, y 860/2010, de 2 de julio, afectados por estas modificaciones.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2011-07-30'
 boletin: BOE
@@ -15,34 +19,34 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros privados
 tags:
-  - admision-alumnado
-  - bachillerato
-  - centros-privados
-  - conciertos-educativos
-  - curriculo
-  - educacion-primaria
-  - eso
-  - formacion-profesional
-  - grado-medio
-  - oposiciones
-  - orientacion-educativa
-  - titulacion
+- admision-alumnado
+- bachillerato
+- centros-privados
+- conciertos-educativos
+- curriculo
+- educacion-primaria
+- eso
+- formacion-profesional
+- grado-medio
+- oposiciones
+- orientacion-educativa
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2010-11426
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-1834-2008
+  - norma_id: norm-es-2010-11426
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-1834-2008
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-2010-11426
-    - norma_id: norm-es-rd-1834-2008
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - '2'
+  - norma_id: norm-es-2010-11426
+  - norma_id: norm-es-rd-1834-2008
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 ---
 # Real Decreto 1146/2011, de 29 de julio, por el que se modifica el Real Decreto 1631/2006, de 29 de diciembre, por el que se esteblecen las enseñanzas mínimas correspondientes a la Educación Secundaria Obligatoria, así como los Reales Decretos 1834/2008, de 8 de noviembre, y 860/2010, de 2 de julio, afectados por estas modificaciones.
 
@@ -588,9 +592,7 @@ Licenciado o Ingeniero en Informática. Cualquier título de Ingeniero, Arquitec
 
 Real Decreto 1631/2006, de 29 de diciembre, por el que se establecen las enseñanzas mínimas correspondientes a la Educación Secundaria Obligatoria
 
-2. En el curso 2012-2013 se implantarán el resto de las modificaciones incorporadas en el presente Real Decreto. No obstante, las Administraciones educativas podrán anticipar su aplicación al curso 2011-2012.
-
-#### Disposición adicional segunda. Conciertos de los programas de cualificación profesional inicial.
+2. En el curso 2012-2013 se implantarán el resto de las modificaciones incorporadas en el presente Real Decreto. No obstante, las Administraciones educativas podrán anticipar su aplicación al curso 2011-2012. #### Disposición adicional segunda. Conciertos de los programas de cualificación profesional inicial.
 
 Las Administraciones educativas podrán concertar, con carácter preferente, la impartición de programas de cualificación profesional inicial con centros privados concertados que impartan la educación secundaria obligatoria, conforme a lo previsto en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación. Estos conciertos asegurarán que las familias no realicen aportaciones económicas.
 
@@ -602,9 +604,7 @@ Se habilita al Ministro de Educación para dictar, en el ámbito de sus competen
 
 El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de Estado».
 
-Dado en Madrid, el 29 de julio de 2011.
-
-JUAN CARLOS R.
+Dado en Madrid, el 29 de julio de 2011. JUAN CARLOS R.
 
 El Ministro de Educación,
 

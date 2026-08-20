@@ -1,10 +1,13 @@
 ---
 id: norm-and-o-15-1-2021
 codigo_sintetizado: O15_1_2021 Atencion Diversidad y Orientacion Educativa Andalucia
-titulo: Orden de 15 de enero de 2021, por la que se desarrolla el currículo de la Educación Especial y se regulan la atención a la diversidad y la orientación educativa en la Comunidad Autónoma de Andalucía.
+titulo: Orden de 15 de enero de 2021, por la que se desarrolla el currículo de la
+  Educación Especial y se regulan la atención a la diversidad y la orientación educativa
+  en la Comunidad Autónoma de Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 15/01/2021
 fecha_disposicion: '2021-01-15'
@@ -18,18 +21,18 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Atención a la diversidad
 tags:
-  - neae
-  - atencion_diversidad
-  - eoe
-  - orientacion_educativa
-  - andalucia
+- neae
+- atencion_diversidad
+- eoe
+- orientacion_educativa
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-1-1996
 ---
 # Orden de 15 de enero de 2021, por la que se desarrolla el currículo de la Educación Especial y se regulan la atención a la diversidad y la orientación educativa en la Comunidad Autónoma de Andalucía.
 
@@ -83,9 +86,7 @@ Histórico del BOJA Boletín número 13 de 21/01/2021
 
 ### Corrección de errores de la Resolución de 15 de enero de 2021, de la Delegación Territorial de Salud y Familias en Huelva, por la que se adoptan y modulan los niveles de alerta sanitaria y la aplicación de las medidas que corresponden por razón de la salud pública para la contención de la COVID-19, en los municipios que se detallan (BOJA extraordinario núm. 6, de 16.1.2021).
 
-Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad con CVE 00184634.
-
-Advertidos errores en la Resolución de 15 de enero de 2021, de la Delegación Territorial de Salud y Familias en Huelva, por la que se adoptan y modulan los niveles de alerta sanitaria y la aplicación de las medidas que corresponden por razón de la salud pública para la contención de la COVID-19, en los municipios que se detallan, que ha sido publicada en el BOJA extraordinario núm. 6, de 16.1.2021, procede su subsanación en los siguientes términos:
+Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad con CVE 00184634. Advertidos errores en la Resolución de 15 de enero de 2021, de la Delegación Territorial de Salud y Familias en Huelva, por la que se adoptan y modulan los niveles de alerta sanitaria y la aplicación de las medidas que corresponden por razón de la salud pública para la contención de la COVID-19, en los municipios que se detallan, que ha sido publicada en el BOJA extraordinario núm. 6, de 16.1.2021, procede su subsanación en los siguientes términos:
 
 Página núm. 43: Anexo I
 

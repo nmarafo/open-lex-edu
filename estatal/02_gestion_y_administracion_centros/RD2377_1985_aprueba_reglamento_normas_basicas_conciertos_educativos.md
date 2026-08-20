@@ -1,10 +1,12 @@
 ---
 id: norm-es-rd-2377-1985
 codigo_sintetizado: RD2377_1985 Reglamento de Conciertos Educativos
-titulo: Real Decreto 2377/1985, de 18 de diciembre, por el que se aprueba el Reglamento de Normas Básicas sobre Conciertos Educativos.
+titulo: Real Decreto 2377/1985, de 18 de diciembre, por el que se aprueba el Reglamento
+  de Normas Básicas sobre Conciertos Educativos.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto
 numero_disposicion: 2377/1985
 fecha_disposicion: '1985-12-18'
@@ -18,29 +20,26 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros privados concertados
 tags:
-  - centros-concertados
-  - centros-privados-concertados
-  - conciertos-educativos
-  - fp-basica
-  - profesorado
-  - regimen-economico
-  - titulacion
+- centros-concertados
+- centros-privados-concertados
+- conciertos-educativos
+- fp-basica
+- profesorado
+- regimen-economico
+- titulacion
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-lo-8-1985
   fundamentado_en:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   desarrollado_por: []
   fundamento_de:
-    - norma_id: norm-can-res-juriscan-63878-20
-    - norma_id: norm-can-res-boc-2022-158-21
+  - norma_id: norm-can-res-juriscan-63878-20
+  - norma_id: norm-can-res-boc-2022-158-21
   fundamentos_derecho:
-    - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-lo-8-1985
   articulos:
-    - '47'
-    - norma_id: norm-es-ce-1978
-  articulos:
-    - '27'
+  - '27'
 ---
 # Real Decreto 2377/1985, de 18 de diciembre, por el que se aprueba el Reglamento de Normas Básicas sobre Conciertos Educativos.
 
@@ -70,67 +69,41 @@ disposición adicional primera, punto uno, de la ley orgánica reguladora del De
 
 **Disposiciones generales**
 
-#### Artículo 1.
+#### Artículo 1. El derecho a la educación básica obligatoria y gratuita, cuya garantía corresponde a los poderes públicos mediante la programación general de la enseñanza, podrá hacerse efectivo en centros privados mediante el régimen de conciertos que, de acuerdo con lo previsto en la ley orgánica del Derecho a la Educación, se regula en el presente reglamento.
 
-El derecho a la educación básica obligatoria y gratuita, cuya garantía corresponde a los poderes públicos mediante la programación general de la enseñanza, podrá hacerse efectivo en centros privados mediante el régimen de conciertos que, de acuerdo con lo previsto en la ley orgánica del Derecho a la Educación, se regula en el presente reglamento.
+#### Artículo 2. Los poderes públicos, a fin de garantizar la gratuidad de la educación básica y dentro de las consignaciones presupuestarias fijadas al efecto, suscribirán conciertos educativos con los centros privados que deseen ser sostenidos con fondos públicos, siempre que reúnan los requisitos a que se refiere el título IV de la citada ley orgánica.
 
-#### Artículo 2.
-
-Los poderes públicos, a fin de garantizar la gratuidad de la educación básica y dentro de las consignaciones presupuestarias fijadas al efecto, suscribirán conciertos educativos con los centros privados que deseen ser sostenidos con fondos públicos, siempre que reúnan los requisitos a que se refiere el título IV de la citada ley orgánica.
-
-#### Artículo 3.
-
-1. Corresponde al Ministro de Educación y Ciencia o, en su caso, a los Consejeros titulares de Educación de las Comunidades Autónomas que hayan recibido los correspondientes traspasos de funciones y servicios, la aprobación de los conciertos educativos.
+#### Artículo 3. 1. Corresponde al Ministro de Educación y Ciencia o, en su caso, a los Consejeros titulares de Educación de las Comunidades Autónomas que hayan recibido los correspondientes traspasos de funciones y servicios, la aprobación de los conciertos educativos.
 
 2. La formalización de dichos conciertos se efectuará por los órganos competentes del Ministerio de Educación y Ciencia o, en su caso, de las Comunidades Autónomas.
 
-#### Artículo 4.
-
-1. Están facultados para formalizar conciertos educativos con la Administración las personas físicas o jurídicas de carácter privado y de nacionalidad española que sean titulares de los centros privados a que se refiere el presente reglamento.
+#### Artículo 4. 1. Están facultados para formalizar conciertos educativos con la Administración las personas físicas o jurídicas de carácter privado y de nacionalidad española que sean titulares de los centros privados a que se refiere el presente reglamento.
 
 2. Están asimismo facultados para formalizar conciertos educativos las personas físicas o jurídicas de carácter privado y de nacionalidad extranjera en los términos previstos en la ley, en los correspondientes tratados internacionales o, en su defecto, de acuerdo con el principio de reciprocidad.
 
-#### Artículo 5.
-
-1. Para poder acogerse al régimen de conciertos los centros privados deberán cumplir los requisitos mínimos que se establezcan en desarrollo del artículo 14 de la ley orgánica reguladora del Derecho a la Educación, estar autorizados para impartir las enseñanzas que constituyen el objeto del concierto, someterse a las normas establecidas en el título IV de dicha ley orgánica y asumir las obligaciones derivadas del concierto en los términos establecidos en este reglamento.
+#### Artículo 5. 1. Para poder acogerse al régimen de conciertos los centros privados deberán cumplir los requisitos mínimos que se establezcan en desarrollo del artículo 14 de la ley orgánica reguladora del Derecho a la Educación, estar autorizados para impartir las enseñanzas que constituyen el objeto del concierto, someterse a las normas establecidas en el título IV de dicha ley orgánica y asumir las obligaciones derivadas del concierto en los términos establecidos en este reglamento.
 
 2. En todo caso, el titular deberá constituir el consejo escolar del centro y proceder a la designación de director en el plazo previsto en este reglamento.
 
-#### Artículo 6.
+#### Artículo 6. El concierto educativo tendrá una duración de cuatro años. El concierto podrá renovarse en los términos previstos en este reglamento.
 
-El concierto educativo tendrá una duración de cuatro años. El concierto podrá renovarse en los términos previstos en este reglamento.
+#### Artículo 7. Lo dispuesto en este reglamento será de aplicación en todo el territorio español. Las Administraciones educativas competentes dictarán las disposiciones necesarias para su ejecución.
 
-#### Artículo 7.
-
-Lo dispuesto en este reglamento será de aplicación en todo el territorio español. Las Administraciones educativas competentes dictarán las disposiciones necesarias para su ejecución.
-
-#### Artículo 8.
-
-La cuestiones litigiosas derivadas de la aplicación del régimen de conciertos, sin perjuicio de lo dispuesto en el artículo 61 de la [ley orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, serán resueltas por el órgano competente para la aprobación de los conciertos educativos, cuyos actos pondrán fin a la vía administrativa. Contra dichos actos podrá interponerse recurso contencioso-administrativo, de acuerdo con la ley reguladora de dicha jurisdicción, sin perjuicio de los recursos que procedan en virtud de la ley 62/1978, de 26 de diciembre, de Protección Jurisdiccional de los Derechos Fundamentales.
+#### Artículo 8. La cuestiones litigiosas derivadas de la aplicación del régimen de conciertos, sin perjuicio de lo dispuesto en el artículo 61 de la [ley orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, serán resueltas por el órgano competente para la aprobación de los conciertos educativos, cuyos actos pondrán fin a la vía administrativa. Contra dichos actos podrá interponerse recurso contencioso-administrativo, de acuerdo con la ley reguladora de dicha jurisdicción, sin perjuicio de los recursos que procedan en virtud de la ley 62/1978, de 26 de diciembre, de Protección Jurisdiccional de los Derechos Fundamentales.
 
 **TITULO II**
 
 **Contenido de los conciertos educativos**
 
-#### Artículo 9.
+#### Artículo 9. Los conciertos educativos tienen por objeto garantizar la impartición de la educación básica obligatoria y gratuita en centros privados mediante la asignación de fondos públicos destinados a este fin por la Administración, en orden a la prestación del servicio público de la educación en los términos previstos en la [ley orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio.
 
-Los conciertos educativos tienen por objeto garantizar la impartición de la educación básica obligatoria y gratuita en centros privados mediante la asignación de fondos públicos destinados a este fin por la Administración, en orden a la prestación del servicio público de la educación en los términos previstos en la [ley orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio.
+#### Artículo 10. En el concierto educativo constarán los derechos y obligaciones de ambas partes, con sujeción a lo establecido en este reglamento y demás disposiciones reguladoras del régimen de conciertos, de acuerdo con lo dispuesto en el artículo 48.1 de la [ley orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio.
 
-#### Artículo 10.
+#### Artículo 11. El concierto educativo obliga a la Administración a asignar fondos públicos para el sostenimiento de los centros concertados, así como el reconocimiento de los beneficios a que se refiere el artículo 50 de la ley orgánica reguladora del Derecho a la Educación.
 
-En el concierto educativo constarán los derechos y obligaciones de ambas partes, con sujeción a lo establecido en este reglamento y demás disposiciones reguladoras del régimen de conciertos, de acuerdo con lo dispuesto en el artículo 48.1 de la [ley orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio.
+#### Artículo 12. La asignación de los mencionados fondos públicos destinados al sostenimiento de los centros concertados se realizará, dentro de la cuantía global establecida en los presupuestos generales del Estado y, en su caso, en la de las Comunidades Autónomas, en función de los módulos económicos por unidad escolar y nivel educativo que se fijen en la ley de presupuestos generales del Estado.
 
-#### Artículo 11.
-
-El concierto educativo obliga a la Administración a asignar fondos públicos para el sostenimiento de los centros concertados, así como el reconocimiento de los beneficios a que se refiere el artículo 50 de la ley orgánica reguladora del Derecho a la Educación.
-
-#### Artículo 12.
-
-La asignación de los mencionados fondos públicos destinados al sostenimiento de los centros concertados se realizará, dentro de la cuantía global establecida en los presupuestos generales del Estado y, en su caso, en la de las Comunidades Autónomas, en función de los módulos económicos por unidad escolar y nivel educativo que se fijen en la ley de presupuestos generales del Estado.
-
-#### Artículo 13.
-
-1. En los módulos económicos por unidad, cuya cuantía asegurará que la enseñanza se imparte en condiciones de gratuidad, se diferenciarán:
+#### Artículo 13. 1. En los módulos económicos por unidad, cuya cuantía asegurará que la enseñanza se imparte en condiciones de gratuidad, se diferenciarán:
 
 a) Las cantidades correspondientes a salarios del personal docente, incluidas las cotizaciones por cuota patronal a la Seguridad Social correspondientes a los titulares de los centros. Estas cantidades tenderán a hacer posible gradualmente que la remuneración del personal docente sea análoga a la del profesorado estatal de los respectivos niveles de enseñanza objeto del concierto.
 
@@ -140,35 +113,25 @@ c) Las cantidades pertinentes para atender al pago de los conceptos de antigüed
 
 2. La Administración asumirá las alteraciones en los salarios del profesorado derivadas de convenios colectivos siempre que no superen el porcentaje del incremento global de las cantidades correspondientes a salarios a que hace referencia el artículo 49.6 de la ley orgánica reguladora del Derecho a la Educación.
 
-#### Artículo 14.
-
-1. El concierto educativo obliga al titular del centro privado a impartir gratuitamente las enseñanzas del concierto de acuerdo con los correspondientes programas y planes de estudio y con sujeción a las normas de ordenación académica en vigor.
+#### Artículo 14. 1. El concierto educativo obliga al titular del centro privado a impartir gratuitamente las enseñanzas del concierto de acuerdo con los correspondientes programas y planes de estudio y con sujeción a las normas de ordenación académica en vigor.
 
 2. Por la impartición de las enseñanzas del nivel educativo objeto del concierto no se podrá percibir concepto alguno que, directa o indirectamente, suponga una contrapartida económica por tal actividad.
 
 3. Por el concierto educativo el titular del centro se obliga al cumplimiento de las normas establecidas en el título IV de la [ley orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, y en los correspondientes reglamentos de aplicación de la misma.
 
-#### Artículo 15.
-
-1. Las actividades escolares complementarias y de servicios de los centros concertados serán voluntarias, no tendrán carácter discriminatorio para los alumnos, no podrán formar parte del horario lectivo y carecerán de carácter lucrativo.
+#### Artículo 15. 1. Las actividades escolares complementarias y de servicios de los centros concertados serán voluntarias, no tendrán carácter discriminatorio para los alumnos, no podrán formar parte del horario lectivo y carecerán de carácter lucrativo.
 
 2. La percepción de cantidades determinadas en concepto de retribución de las referidas actividades deberá ser autorizada por la Administración educativa competente. En el supuesto de actividades complementarias, la autorización se realizará previa propuesta del consejo escolar del centro.
 
-#### Artículo 16.
+#### Artículo 16. Por el concierto educativo el titular del centro se obliga a tener en funcionamiento el número total de unidades escolares correspondiente al nivel o niveles de enseñanza objeto del concierto. Asimismo, se obliga a tener una relación media alumnos/profesor por unidad escolar no inferior a la que la Administración determine teniendo en cuenta la existente para los centros públicos de la comarca, municipio, o, en su caso, distrito en el que esté situado el centro.
 
-Por el concierto educativo el titular del centro se obliga a tener en funcionamiento el número total de unidades escolares correspondiente al nivel o niveles de enseñanza objeto del concierto. Asimismo, se obliga a tener una relación media alumnos/profesor por unidad escolar no inferior a la que la Administración determine teniendo en cuenta la existente para los centros públicos de la comarca, municipio, o, en su caso, distrito en el que esté situado el centro.
-
-#### Artículo 17.
-
-No obstante lo dispuesto en el artículo anterior, y atendiendo a razones suficientemente justificadas, podrá exceptuarse del cumplimiento de esta obligación a los siguientes centros:
+#### Artículo 17. No obstante lo dispuesto en el artículo anterior, y atendiendo a razones suficientemente justificadas, podrá exceptuarse del cumplimiento de esta obligación a los siguientes centros:
 
 a) Aquellos en los que se encuentre prevista la entrada progresiva en funcionamiento del número completo de unidades en un plazo no superior a la duración del concierto.
 
 b) Aquellos otros en los que de la celebración del concierto pueda preverse que, en un plazo no superior a la mitad de la duración del mismo, alcancen la relación media alumnos/profesor requerida.
 
-#### Artículo 18.
-
-1. Los titulares de los centros acogidos al régimen de conciertos deberán hacer constar en su denominación, en su documentación y en su publicidad la condición de centro concertado de los mismos.
+#### Artículo 18. 1. Los titulares de los centros acogidos al régimen de conciertos deberán hacer constar en su denominación, en su documentación y en su publicidad la condición de centro concertado de los mismos.
 
 2. Asimismo el titular del centro deberá poner en conocimiento de los miembros de la comunidad escolar y, en su caso, de las autoridades competentes, el carácter propio del centro, en el supuesto de que lo hubiere.
 
@@ -180,9 +143,7 @@ b) Aquellos otros en los que de la celebración del concierto pueda preverse que
 
 Centros autorizados
 
-#### Artículo 19.
-
-1. Los centros privados que, cumplimentando lo dispuesto en el artículo quinto de este reglamento, deseen acogerse al régimen de conciertos a partir de un determinado curso académico, lo solicitarán de la Administración educativa competente durante el mes de enero anterior al comienzo de dicho curso.
+#### Artículo 19. 1. Los centros privados que, cumplimentando lo dispuesto en el artículo quinto de este reglamento, deseen acogerse al régimen de conciertos a partir de un determinado curso académico, lo solicitarán de la Administración educativa competente durante el mes de enero anterior al comienzo de dicho curso.
 
 2. A la solicitud se acompañará la documentación complementaria que, en orden a circunstancias de los centros, determine la Administración competente con antelación al plazo referido.
 
@@ -190,9 +151,7 @@ Centros autorizados
 
 Tendrán preferencia para acogerse al régimen de conciertos los centros a que se refiere el artículo 48.3 de la [ley orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio.
 
-#### Artículo 21.
-
-1. A efectos de lo dispuesto en el artículo anterior, los centros privados que satisfagan necesidades de escolarización, atiendan a poblaciones escolares de condiciones socioeconómicas desfavorables o, que, cumpliendo alguno de los requisitos anteriores, realicen experiencias de interés pedagógico para el sistema educativo, presentarán, junto con la solicitud de concierto, una memoria explicativa de las circunstancias señaladas, que será evaluada por la Administración educativa competente.
+#### Artículo 21. 1. A efectos de lo dispuesto en el artículo anterior, los centros privados que satisfagan necesidades de escolarización, atiendan a poblaciones escolares de condiciones socioeconómicas desfavorables o, que, cumpliendo alguno de los requisitos anteriores, realicen experiencias de interés pedagógico para el sistema educativo, presentarán, junto con la solicitud de concierto, una memoria explicativa de las circunstancias señaladas, que será evaluada por la Administración educativa competente.
 
 2. La memoria explicativa deberá especificar, en cada caso:
 
@@ -204,35 +163,23 @@ c) Las características de las experiencias pedagógicas realizadas en el centro
 
 A efectos de lo señalado en los apartados a) y b) se podrán utilizar como indicadores para la evaluación de las memorias presentadas, entre otros, la insuficiencia de la oferta de puestos escolares en centros sostenidos con fondos públicos, el volumen de alumnos acogidos al transporte escolar y el coste de los servicios complementarios del centro. Se considera, en todo caso, que un centro no satisface necesidades de escolarización o no atiende a poblaciones desfavorecidas cuando su ubicación impida el acceso al mismo de alumnos que carezcan de recursos económicos para hacer frentre al coste de los servicios de transporte y comedor escolares.
 
-#### Artículo 22.
+#### Artículo 22. En todo caso, siempre que se dé igualdad de condiciones, tendrán preferencia aquellos centros que en régimen de cooperativa cumplan con alguna o algunas de las finalidades descritas en el artículo anterior. No obstante, y a efectos de la celebración de conciertos, será necesario que los estatutos de las cooperativas no contengan cláusulas que impidan el cumplimiento de las obligaciones que para los centros concertados se derivan de la ley orgánica reguladora del Derecho a la Educación.
 
-En todo caso, siempre que se dé igualdad de condiciones, tendrán preferencia aquellos centros que en régimen de cooperativa cumplan con alguna o algunas de las finalidades descritas en el artículo anterior. No obstante, y a efectos de la celebración de conciertos, será necesario que los estatutos de las cooperativas no contengan cláusulas que impidan el cumplimiento de las obligaciones que para los centros concertados se derivan de la ley orgánica reguladora del Derecho a la Educación.
-
-#### Artículo 23.
-
-1. La Administración podrá encomendar a comisiones o, en su caso, a consejos escolares, del ámbito territorial que proceda, la evaluación de las solicitudes presentadas. En dichos órganos estarán representados, además de las autoridades educativas, la Administración local y los distintos sectores afectados, estos últimos a través de sus organizaciones representativas.
+#### Artículo 23. 1. La Administración podrá encomendar a comisiones o, en su caso, a consejos escolares, del ámbito territorial que proceda, la evaluación de las solicitudes presentadas. En dichos órganos estarán representados, además de las autoridades educativas, la Administración local y los distintos sectores afectados, estos últimos a través de sus organizaciones representativas.
 
 2. Dichos órganos examinarán las solicitudes y memorias presentadas, formulando ante la autoridad competente las correspondientes propuestas, que deberán ser motivadas, dentro del orden de preferencia a que se refiere el artículo 48.3 de la ley orgánica reguladora del Derecho a la Educación. En todo caso, las propuestas de dichos órganos deberán ajustarse a las consignaciones presupuestarias disponibles.
 
-#### Artículo 24.
+#### Artículo 24. 1. La aprobación o denegación de los conciertos se efectuará por los órganos a que se refiere el artículo tercero, previa comprobación del cumplimiento de los requisitos previstos y de acuerdo con los correspondientes criterios de preferencia. Si la resolución fuera denegatoria, ésta deberá ser motivada.
 
-1. La aprobación o denegación de los conciertos se efectuará por los órganos a que se refiere el artículo tercero, previa comprobación del cumplimiento de los requisitos previstos y de acuerdo con los correspondientes criterios de preferencia. Si la resolución fuera denegatoria, ésta deberá ser motivada.
+#### Artículo 25. Los conciertos educativos se formalizarán en documento administrativo en el que se harán constar los derechos y obligaciones recíprocos, así como las características concretas del centro y demás circunstancias derivadas de la ley orgánica y de los reglamentos de aplicación de la misma. Dicha formalización se efectuará antes del 15 de mayo del año correspondiente.
 
-#### Artículo 25.
-
-Los conciertos educativos se formalizarán en documento administrativo en el que se harán constar los derechos y obligaciones recíprocos, así como las características concretas del centro y demás circunstancias derivadas de la ley orgánica y de los reglamentos de aplicación de la misma. Dicha formalización se efectuará antes del 15 de mayo del año correspondiente.
-
-#### Artículo 26.
-
-1. Formalizado el concierto, el titular deberá adoptar las medidas precisas para la constitución del consejo escolar del centro y consiguiente designación del director con anterioridad al curso académico siguiente.
+#### Artículo 26. 1. Formalizado el concierto, el titular deberá adoptar las medidas precisas para la constitución del consejo escolar del centro y consiguiente designación del director con anterioridad al curso académico siguiente.
 
 2. El consejo escolar del centro se constituirá de acuerdo con un procedimiento que garantice la publicidad y objetividad del proceso electoral, así como el carácter personal, directo, igual y secreto del voto de los miembros de la comunidad escolar.
 
 3. A partir de la fecha de constitución del consejo escolar del centro, las vacantes que se produjeren se cubrirán de acuerdo con el procedimiento previsto en el artículo 60 de la [ley orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio. No obstante, se exceptuarán de este procedimiento aquellas vacantes que se cubran por quienes, encontrándose en algunas de las situaciones previstas en el Estatuto de los Trabajadores, tengan derecho a reincorporarse al puesto de trabajo.
 
-#### Artículo 27.
-
-1. Una vez formalizados los conciertos educativos, se inscribirán de oficio en el registro de centros de la Administración educativa competente. Las Comunidades Autónomas que han recibido los correspondientes traspasos de bienes y servicios, deberán dar traslado de los correspondientes asientos al Ministerio de Educación y Ciencia en el plazo máximo de un mes.
+#### Artículo 27. 1. Una vez formalizados los conciertos educativos, se inscribirán de oficio en el registro de centros de la Administración educativa competente. Las Comunidades Autónomas que han recibido los correspondientes traspasos de bienes y servicios, deberán dar traslado de los correspondientes asientos al Ministerio de Educación y Ciencia en el plazo máximo de un mes.
 
 2. En el referido registro se anotarán, entre otras circunstancias, los siguientes extremos:
 
@@ -250,9 +197,7 @@ f) Extinción y sus causas.
 
 ## Capítulo II. Centros de nueva creación artículo 28 Los centros privados de nueva creación que vayan a impartir enseñanzas comprendidas en la educación básica y deseen acogerse al régimen de conciertos lo solicitarán al iniciarse el procedimiento de autorización administrativa. De no solicitarlo en tal momento, no podrán acogerse a dicho régimen hasta que hayan transcurrido cinco años desde la fecha de su autorización, tal y como establece la disposición adicional quinta de la ley orgánica reguladora del Derecho a la Educación.
 
-#### Artículo 29.
-
-1. Los centros privados de nueva creación, además de reunir los requisitos propios del régimen de conciertos, deberán proponer a la Administración un convenio en el que, dentro del marco previsto por la ley 8/1985, de 3 de julio, se especifique el procedimiento para la designación del director, que en todo caso recaerá sobre un profesor de acreditada experiencia profesional y docente, el sistema de provisión del profesorado de acuerdo con los principios de publicidad, mérito y capacidad, así como las condiciones y la fecha para la constitución del consejo escolar del centro. De existir acuerdo se procederá a la suscripción del convenio.
+#### Artículo 29. 1. Los centros privados de nueva creación, además de reunir los requisitos propios del régimen de conciertos, deberán proponer a la Administración un convenio en el que, dentro del marco previsto por la ley 8/1985, de 3 de julio, se especifique el procedimiento para la designación del director, que en todo caso recaerá sobre un profesor de acreditada experiencia profesional y docente, el sistema de provisión del profesorado de acuerdo con los principios de publicidad, mérito y capacidad, así como las condiciones y la fecha para la constitución del consejo escolar del centro. De existir acuerdo se procederá a la suscripción del convenio.
 
 2. Si no hubiere acuerdo, la Administración notificará al titular las razones que impiden la formalización del convenio. Contra dicho acto el titular podrá interponer recurso de reposición que será previo para acceder a la jurisdicción contencioso-administrativa.
 
@@ -260,87 +205,57 @@ f) Extinción y sus causas.
 
 El convenio en el que se concreten los extremos señalados en el artículo anterior incluirá también las previsiones sobre puesta en funcionamiento del centro y la progresiva aplicación del concierto.
 
-#### Artículo 31.
+#### Artículo 31. La designación del director tendrá carácter provisional hasta que se constituya el consejo escolar del centro.
 
-La designación del director tendrá carácter provisional hasta que se constituya el consejo escolar del centro.
+#### Artículo 32. Una vez constituido el consejo escolar del centro, se procederá a la designación definitiva del director de acuerdo con lo dispuesto en el artículo 59 de la ley 8/1985, de 3 de julio. La provisión de las vacantes del profesorado que se produzcan se realizará conforme a lo dispuesto en el artículo 60 de la citada ley orgánica.
 
-#### Artículo 32.
-
-Una vez constituido el consejo escolar del centro, se procederá a la designación definitiva del director de acuerdo con lo dispuesto en el artículo 59 de la ley 8/1985, de 3 de julio. La provisión de las vacantes del profesorado que se produzcan se realizará conforme a lo dispuesto en el artículo 60 de la citada ley orgánica.
-
-#### Artículo 33.
-
-La suscripción del concierto se someterá al procedimiento previsto para los centros ya autorizados.
+#### Artículo 33. La suscripción del concierto se someterá al procedimiento previsto para los centros ya autorizados.
 
 **TITULO IV**
 
 **Ejecución del concierto educativo**
 
-#### Artículo 34.
-
-1. La Administración abonará mensualmente los salarios al profesorado de los centros concertados como pago delegado y en nombre de la entidad titular del centro.
+#### Artículo 34. 1. La Administración abonará mensualmente los salarios al profesorado de los centros concertados como pago delegado y en nombre de la entidad titular del centro.
 
 2. Las cantidades correspondientes a los restantes gastos de funcionamiento de los centros se abonará por la Administración a los titulares de los mismos cada trimestre.
 
 3. Ambos conceptos de gasto tendrán jurídicamente la conceptuación de contraprestación por los servicios educativos concertados con los centros.
 
-#### Artículo 35.
+#### Artículo 35. A efectos del abono de las cantidades correspondientes a salarios, los titulares de los centros concertados facilitarán a la Administración educativa competente las nóminas de su profesorado, la liquidaciones de las cotizaciones a la Seguridad Social mediante la cumplimentación y remisión, de los documentos oficiales de cotización correspondientes, así como los partes de alta, baja o alteración.
 
-A efectos del abono de las cantidades correspondientes a salarios, los titulares de los centros concertados facilitarán a la Administración educativa competente las nóminas de su profesorado, la liquidaciones de las cotizaciones a la Seguridad Social mediante la cumplimentación y remisión, de los documentos oficiales de cotización correspondientes, así como los partes de alta, baja o alteración.
-
-#### Artículo 36.
-
-1. Las altas y bajas del profesorado en el régimen de la Seguridad Social se gestionarán por el titular del centro en su condición de empleador en la relación laboral. Las citadas circunstancias deberán ser acreditadas por el mismo ante la Administración educativa competente.
+#### Artículo 36. 1. Las altas y bajas del profesorado en el régimen de la Seguridad Social se gestionarán por el titular del centro en su condición de empleador en la relación laboral. Las citadas circunstancias deberán ser acreditadas por el mismo ante la Administración educativa competente.
 
 2. Las responsabilidades que pudieran derivarse del incumplimiento de las obligaciones de altas, bajas y liquidación de cotizaciones, serán por cuenta del titular del centro.
 
-#### Artículo 37.
+#### Artículo 37. En las nóminas se relacionarán los profesores correspondientes a las unidades concertadas sin que, en ningún caso, el coste de cada unidad pueda exceder de los módulos señalados en los presupuestos generales del Estado, excluida la antigüedad. Asimismo, el listado de las nóminas incluirá las circunstancias que concurren en cada profesor a efectos de determinar el sueldo, la antigüedad, la cotización a la Seguridad Social y otras posibles variantes.
 
-En las nóminas se relacionarán los profesores correspondientes a las unidades concertadas sin que, en ningún caso, el coste de cada unidad pueda exceder de los módulos señalados en los presupuestos generales del Estado, excluida la antigüedad. Asimismo, el listado de las nóminas incluirá las circunstancias que concurren en cada profesor a efectos de determinar el sueldo, la antigüedad, la cotización a la Seguridad Social y otras posibles variantes.
+#### Artículo 38. Todas las actividades del profesorado de los centros concertados, tanto lectivas como no lectivas, retribuidas por la Administración, se prestarán en el nivel de enseñanza objeto del concierto.
 
-#### Artículo 38.
-
-Todas las actividades del profesorado de los centros concertados, tanto lectivas como no lectivas, retribuidas por la Administración, se prestarán en el nivel de enseñanza objeto del concierto.
-
-#### Artículo 39.
-
-La Administración, al abonar los salarios al personal docente de los centros concertados, efectuará e ingresará en el Tesoro las retenciones correspondientes al impuesto sobre la renta de las personas físicas. Asimismo, realizará el ingreso de las oportunas cotizaciones a la Seguridad Social.
+#### Artículo 39. La Administración, al abonar los salarios al personal docente de los centros concertados, efectuará e ingresará en el Tesoro las retenciones correspondientes al impuesto sobre la renta de las personas físicas. Asimismo, realizará el ingreso de las oportunas cotizaciones a la Seguridad Social.
 
 #### Artículo 40.
 
 Las cantidades abonadas por la Administración para los otros gastos del centro concertado se justificarán, al final de cada curso escolar, mediante aportación por el titular de la certificación del acuerdo del consejo escolar aprobatorio de las cuentas.
 
-#### Artículo 41.
-
-Sin perjuicio de lo dispuesto en el artículo anterior, los centros concertados quedarán sujetos al control de carácter financiero que las disposiciones vigentes atribuyen a la Intervención General de la Administración del Estado o al órgano equivalente de las Comunidades Autónomas.
+#### Artículo 41. Sin perjuicio de lo dispuesto en el artículo anterior, los centros concertados quedarán sujetos al control de carácter financiero que las disposiciones vigentes atribuyen a la Intervención General de la Administración del Estado o al órgano equivalente de las Comunidades Autónomas.
 
 **TITULO V**
 
 **Renovación y modificación del concierto educativo**
 
-#### Artículo 42.
-
-1. Los centros privados que deseen renovar un concierto educativo lo solicitarán de la Administración durante el mes de enero del año correspondiente a su finalización.
+#### Artículo 42. 1. Los centros privados que deseen renovar un concierto educativo lo solicitarán de la Administración durante el mes de enero del año correspondiente a su finalización.
 
 2. A la solicitud se acompañará la documentación que acredite que los centros siguen cumpliendo los requisitos que determinaron la aprobación del concierto, así como las variaciones habidas que puedan afectar al concierto.
 
-#### Artículo 43.
-
-1. Los conciertos se renovarán siempre que el centro siga cumpliendo los requisitos que determinaron su aprobación, no se haya incurrido en las causas de no renovación previstas en el artículo 62.3 de la ley orgánica reguladora del Derecho a la Educación y existan consignaciones presupuestarias disponibles. En este último supuesto se aplicarán los criterios de preferencia del artículos 48.3 de la citada ley orgánica.
+#### Artículo 43. 1. Los conciertos se renovarán siempre que el centro siga cumpliendo los requisitos que determinaron su aprobación, no se haya incurrido en las causas de no renovación previstas en el artículo 62.3 de la ley orgánica reguladora del Derecho a la Educación y existan consignaciones presupuestarias disponibles. En este último supuesto se aplicarán los criterios de preferencia del artículos 48.3 de la citada ley orgánica.
 
 2. La Administración, una vez examinada la documentación presentada, procederá a renovar por otros cuatro años el concierto o a denegar la solicitud de renovación.
 
-#### Artículo 44.
+#### Artículo 44. En el supuesto de denegación de la renovación, que deberá ser motivada, la Administración podrá acordar con el titular del centro la prórroga del concierto por un solo año. Contra la denegación podrá interponerse recurso de reposición, previo a la vía contencioso-administrativa.
 
-En el supuesto de denegación de la renovación, que deberá ser motivada, la Administración podrá acordar con el titular del centro la prórroga del concierto por un solo año. Contra la denegación podrá interponerse recurso de reposición, previo a la vía contencioso-administrativa.
+#### Artículo 45. La aprobación, formalización e inscripción de la renovación de los conciertos educativos, así como su denegación, se regirán, en lo no previsto en este título, por las normas contenidas en el título tercero, capítulo primero, de este reglamento.
 
-#### Artículo 45.
-
-La aprobación, formalización e inscripción de la renovación de los conciertos educativos, así como su denegación, se regirán, en lo no previsto en este título, por las normas contenidas en el título tercero, capítulo primero, de este reglamento.
-
-#### Artículo 46.
-
-1. Las variaciones que puedan producirse en los centros por alteración del número de unidades o por otras circunstancias individualizadas, darán lugar a la modificación del concierto educativo siempre que tales variaciones no afecten a los requisitos que originaron su aprobación.
+#### Artículo 46. 1. Las variaciones que puedan producirse en los centros por alteración del número de unidades o por otras circunstancias individualizadas, darán lugar a la modificación del concierto educativo siempre que tales variaciones no afecten a los requisitos que originaron su aprobación.
 
 2. Se entiende como causa de modificación del concierto el cambio de titular, siempre que el nuevo titular se subrogue en los derechos y obligaciones derivados del concierto.
 
@@ -350,9 +265,7 @@ La aprobación, formalización e inscripción de la renovación de los concierto
 
 **Extinción del concierto educativo**
 
-#### Artículo 47.
-
-Son causas de extinción del concierto educativo:
+#### Artículo 47. Son causas de extinción del concierto educativo:
 
 a) El vencimiento de plazo de duración del concierto.
 
@@ -370,63 +283,41 @@ g) El cese voluntario, debidamente autorizado, de la actividad del centro.
 
 h) Aquellas otras causas que se establezcan en el concierto.
 
-#### Artículo 48.
+#### Artículo 48. El vencimiento del plazo de duración del concierto será causa de extinción del mismo, salvo que se produzca la renovación o prórroga de acuerdo con las normas de este reglamento.
 
-El vencimiento del plazo de duración del concierto será causa de extinción del mismo, salvo que se produzca la renovación o prórroga de acuerdo con las normas de este reglamento.
-
-#### Artículo 49.
-
-La extinción del concierto educativo por mutuo acuerdo de las partes no procederá cuando existan razones de interés público que lo impida. En todo caso, el consejo escolar del centro deberá ser oído antes de que se dicte la resolución administrativa.
+#### Artículo 49. La extinción del concierto educativo por mutuo acuerdo de las partes no procederá cuando existan razones de interés público que lo impida. En todo caso, el consejo escolar del centro deberá ser oído antes de que se dicte la resolución administrativa.
 
 #### Artículo 50.
 
 El titular podrá solicitar la resolución del concierto si estimare que la Administración ha incurrido en causa de extinción del mismo, de acuerdo con lo dispuesto en la letra c) del artículo 47 de este reglamento. En el supuesto de que la Administración denegare la resolución de concierto, el titular podrá interponer contra dicho acto el recurso de reposición previo a la vía contencioso-administrativa.
 
-#### Artículo 51.
+#### Artículo 51. La rescisión del concierto educativo sólo tendrá lugar cuando se produzca, un incumplimiento grave del mismo, de acuerdo con lo dispuesto en el artículo 62.2 de la [ley orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio.
 
-La rescisión del concierto educativo sólo tendrá lugar cuando se produzca, un incumplimiento grave del mismo, de acuerdo con lo dispuesto en el artículo 62.2 de la [ley orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio.
+#### Artículo 52. A efectos de la determinación de posible incumplimiento por parte del titular, la Administración educativa competente, de oficio o a instancia del consejo escolar del centro, constituirá la comisión de conciliación a que se refiere el artículo 61 de la citada ley orgánica.
 
-#### Artículo 52.
-
-A efectos de la determinación de posible incumplimiento por parte del titular, la Administración educativa competente, de oficio o a instancia del consejo escolar del centro, constituirá la comisión de conciliación a que se refiere el artículo 61 de la citada ley orgánica.
-
-#### Artículo 53.
-
-1. En el supuesto de que la citada comisión no alcance acuerdo, la Administración, visto el informe en el que aquélla exponga las razones de su discrepancia, podrá acordar la incoación del oportuno expediente administrativo en orden a determinar la posible existencia del incumplimiento del concierto y, en su caso, la gravedad del mismo.
+#### Artículo 53. 1. En el supuesto de que la citada comisión no alcance acuerdo, la Administración, visto el informe en el que aquélla exponga las razones de su discrepancia, podrá acordar la incoación del oportuno expediente administrativo en orden a determinar la posible existencia del incumplimiento del concierto y, en su caso, la gravedad del mismo.
 
 2. La incoación y resolución del expediente corresponderá a los órganos competentes para aprobar los conciertos educativos.
 
 3. La instrucción del expediente se realizará de acuerdo con las normas contenidas en el capítulo II, título VI, de la ley de Procedimiento Administrativo.
 
-#### Artículo 54.
+#### Artículo 54. Si como consecuencia del expediente administrativo a que se refiere el artículo anterior, resultase que el titular del centro ha incumplido gravemente el concierto, la Administración procederá a su rescisión, con efectos, en su caso, desde el siguiente curso académico y adoptará las medidas necesarias de escolarización a que se refiere el artículo 63.1 de la [ley orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio.
 
-Si como consecuencia del expediente administrativo a que se refiere el artículo anterior, resultase que el titular del centro ha incumplido gravemente el concierto, la Administración procederá a su rescisión, con efectos, en su caso, desde el siguiente curso académico y adoptará las medidas necesarias de escolarización a que se refiere el artículo 63.1 de la [ley orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio.
-
-#### Artículo 55.
-
-1. Si del referido expediente administrativo se dedujere que el incumplimiento no fuera grave, la Administración apercibirá al titular del centro para que en el plazo que en cada caso se determine, que no podrá ser inferior a un mes, subsane las causas de dicho incumplimiento. La no subsanación dará lugar a nuevo apercibimiento que, de no ser atendido en el plazo de otro mes, originará la no renovación del concierto.
+#### Artículo 55. 1. Si del referido expediente administrativo se dedujere que el incumplimiento no fuera grave, la Administración apercibirá al titular del centro para que en el plazo que en cada caso se determine, que no podrá ser inferior a un mes, subsane las causas de dicho incumplimiento. La no subsanación dará lugar a nuevo apercibimiento que, de no ser atendido en el plazo de otro mes, originará la no renovación del concierto.
 
 2. La reiteración o reincidencia en el comportamiento previsto en el número anterior, podrá estimarse causa grave de incumplimiento del concierto. A tal efecto, la Administración constituirá la comisión de conciliación e instruirá, en su caso, el correspondiente expediente administrativo.
 
-#### Artículo 56.
+#### Artículo 56. La percepción indebida de cantidades por parte del titular del centro, en los términos de la ley orgánica del Derecho a la Educación, supondrá para el mismo la obligación de acreditar documentalmente ante la Administración la devolución de dichas cantidades en el plazo de un mes a contar desde la fecha de la notificación de la resolución del oportuno expediente. Todo ello sin perjuicio de las responsabilidades civiles o penales en que se hubiera podido incurrir.
 
-La percepción indebida de cantidades por parte del titular del centro, en los términos de la ley orgánica del Derecho a la Educación, supondrá para el mismo la obligación de acreditar documentalmente ante la Administración la devolución de dichas cantidades en el plazo de un mes a contar desde la fecha de la notificación de la resolución del oportuno expediente. Todo ello sin perjuicio de las responsabilidades civiles o penales en que se hubiera podido incurrir.
-
-#### Artículo 57.
-
-1. En caso de fallecimiento del titular del centro concertado, su herederos tendrán derecho a formalizar un nuevo concierto siempre que concurran los requisitos previstos en este reglamento, presumiéndose a todos los efectos su continuidad.
+#### Artículo 57. 1. En caso de fallecimiento del titular del centro concertado, su herederos tendrán derecho a formalizar un nuevo concierto siempre que concurran los requisitos previstos en este reglamento, presumiéndose a todos los efectos su continuidad.
 
 2. La extinción de la persona jurídica titular del centro concertado producirá la extinción del concierto, salvo que su organización y patrimonio pasen a ser de la titularidad de otra persona que, reuniendo los requisitos establecidos en este reglamento, asuma las obligaciones correspondientes a un nuevo concierto.
 
 3. Si los herederos optasen por no continuar en el régimen de conciertos o la nueva persona no asumiera las obligaciones del concierto, los efectos de la extinción del mismo se producirán a partir de la finalización del correspondiente curso académico.
 
-#### Artículo 58.
+#### Artículo 58. En los supuestos de solicitud de declaración de quiebra o de suspensión de pagos, y hasta tanto no se produzca la oportuna resolución judicial, la Administración, de acuerdo con los correspondientes interventores judiciales, arbitrará las medidas necesarias para asegurar el cumplimiento de las obligaciones derivadas del concierto.
 
-En los supuestos de solicitud de declaración de quiebra o de suspensión de pagos, y hasta tanto no se produzca la oportuna resolución judicial, la Administración, de acuerdo con los correspondientes interventores judiciales, arbitrará las medidas necesarias para asegurar el cumplimiento de las obligaciones derivadas del concierto.
-
-#### Artículo 59.
-
-1. La revocación de la autorización administrativa y el cese voluntario de la actividad del centro se producirá de acuerdo con su normativa específica.
+#### Artículo 59. 1. La revocación de la autorización administrativa y el cese voluntario de la actividad del centro se producirá de acuerdo con su normativa específica.
 
 2. En el supuesto de cese voluntario de la actividad del centro, los efectos de la extinción tendrán lugar a partir del momento del cese efectivo de dicha actividad.
 
@@ -518,9 +409,7 @@ Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo
 
 #### [precepto]Segunda.
 
-Dado en Madrid a 18 de diciembre de 1985.
-
-JUAN CARLOS R.
+Dado en Madrid a 18 de diciembre de 1985. JUAN CARLOS R.
 
 El Ministro de Educación y Ciencia,
 

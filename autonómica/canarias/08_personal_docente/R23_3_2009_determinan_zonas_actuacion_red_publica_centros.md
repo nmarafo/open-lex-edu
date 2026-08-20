@@ -1,7 +1,10 @@
 ---
 id: norm-can-res-juriscan-61148-128
 codigo_sintetizado: Resolucion BOC 128
-titulo: Dirección General de Formación Profesional y Educación de Adultos.- Resolución de 23 de marzo de 2009, por la que se determinan las zonas de actuación de la red pública de Centros de Educación de Personas Adultas de la Comunidad Autónoma de Canarias (BOC n.º 82, de 30 de abril).
+titulo: Dirección General de Formación Profesional y Educación de Adultos.- Resolución
+  de 23 de marzo de 2009, por la que se determinan las zonas de actuación de la red
+  pública de Centros de Educación de Personas Adultas de la Comunidad Autónoma de
+  Canarias (BOC n.º 82, de 30 de abril).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,28 +16,28 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Formación del profesorado
 tags:
-  - admision-alumnado
-  - educacion-personas-adultas
-  - ensenanzas-deportivas
-  - ensenanzas-universitarias
-  - equipos-directivos
-  - formacion-del-profesorado
-  - formacion-profesional
-  - oposiciones
-  - profesorado
+- admision-alumnado
+- educacion-personas-adultas
+- ensenanzas-deportivas
+- ensenanzas-universitarias
+- equipos-directivos
+- formacion-del-profesorado
+- formacion-profesional
+- oposiciones
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
   desarrolla:
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
+  - '1'
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/2009/082/boc-2009-082-009.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=61148
 ---

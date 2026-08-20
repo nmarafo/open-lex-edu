@@ -1,10 +1,13 @@
 ---
 id: norm-es-1987-11341
 codigo_sintetizado: BOE-A-1987-11341
-titulo: Real Decreto 605/1987, de 10 de abril, por el que se regula el procedimiento de autorización previa a la desafectación de edificios públicos escolares de propiedad municipal.
+titulo: Real Decreto 605/1987, de 10 de abril, por el que se regula el procedimiento
+  de autorización previa a la desafectación de edificios públicos escolares de propiedad
+  municipal.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1987-05-09'
 boletin: BOE
@@ -15,22 +18,18 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros públicos
 tags:
-  - centros-p-blicos
+- centros-p-blicos
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-1987-13494
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-1987-13494
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
-    - norma_id: norm-es-1987-13494
+  - norma_id: norm-es-1987-13494
   fundamentos_derecho:
-    - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-d-81-2010
   articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-lo-2-2006
-  articulos:
-    - '120'
-    - norma_id: norm-es-1987-13494
+  - '120'
+  - norma_id: norm-es-1987-13494
 ---
 # Real Decreto 605/1987, de 10 de abril, por el que se regula el procedimiento de autorización previa a la desafectación de edificios públicos escolares de propiedad municipal.
 

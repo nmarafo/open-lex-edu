@@ -1,7 +1,9 @@
 ---
 id: norm-can-o-25-2-2003
 codigo_sintetizado: O25_2_2003 Regulacion de Comedores Escolares
-titulo: Orden de 25 de febrero de 2003, por la que se regula la organización y funcionamiento de los comedores escolares en los centros docentes públicos no universitarios dependientes de la Consejería de Educación, Cultura y Deportes.
+titulo: Orden de 25 de febrero de 2003, por la que se regula la organización y funcionamiento
+  de los comedores escolares en los centros docentes públicos no universitarios dependientes
+  de la Consejería de Educación, Cultura y Deportes.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Consejería de Educación, Cultura y Deportes
@@ -19,32 +21,32 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Comedores y desayunos escolares
 tags:
-  - admision-alumnado
-  - becas-y-ayudas
-  - comedor-escolar
-  - comedores-escolares
-  - comedores-y-desayunos-escolares
-  - cuotas-subvenciones
-  - ensenanzas-deportivas
-  - evaluacion
-  - profesorado
-  - servicios-complementarios
+- admision-alumnado
+- becas-y-ayudas
+- comedor-escolar
+- comedores-escolares
+- comedores-y-desayunos-escolares
+- cuotas-subvenciones
+- ensenanzas-deportivas
+- evaluacion
+- profesorado
+- servicios-complementarios
 relaciones:
   desarrolla:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-can-d-276-1997
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-d-276-1997
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-l-6-2014
   fundamento_de:
-    - norma_id: norm-can-res-119
+  - norma_id: norm-can-res-119
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '57'
-    - norma_id: norm-can-d-276-1997
+  - '57'
+  - norma_id: norm-can-d-276-1997
 anexos_extraidos_pdf: true
 fuente_pdf_oficial: https://www.gobiernodecanarias.org/boc/2003/047/boc-2003-047-002.pdf
 ocr_procesado: true

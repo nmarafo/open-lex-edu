@@ -1,7 +1,9 @@
 ---
 id: norm-can-res-boc-2020-236-82
 codigo_sintetizado: Resolucion BOC 82
-titulo: Resolución de 5 de noviembre de 2020, por la que se dictan instrucciones para la organización y el funcionamiento de los niveles básico, intermedio y avanzado de la enseñanza del idioma inglés a distancia para personas adultas That's English!
+titulo: Resolución de 5 de noviembre de 2020, por la que se dictan instrucciones para
+  la organización y el funcionamiento de los niveles básico, intermedio y avanzado
+  de la enseñanza del idioma inglés a distancia para personas adultas That's English!
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,38 +15,38 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación de Personas Adultas
 tags:
-  - curriculo
-  - educaci-n-de-personas-adultas
-  - educacion-personas-adultas
-  - ensenanzas-deportivas
-  - eoi
-  - equipos-directivos
-  - formacion-profesional
-  - titulacion
+- curriculo
+- educaci-n-de-personas-adultas
+- educacion-personas-adultas
+- ensenanzas-deportivas
+- eoi
+- equipos-directivos
+- formacion-profesional
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-135-2016
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-res-boc-2019-069-48
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2019-317
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-boc-2019-069-48
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2019-317
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-can-res-boc-2019-069-48
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2019-317
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-d-135-2016
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-res-boc-2019-069-48
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2019-317
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2020-236-4341.pdf
 ---
 # Resolución de 5 de noviembre de 2020, por la que se dictan instrucciones para la organización y el funcionamiento de los niveles básico, intermedio y avanzado de la enseñanza del idioma inglés a distancia para personas adultas That's English!
@@ -65,9 +67,7 @@ Sexto.- La [Resolución de 26 de marzo de 2019](R26_3_2019_determina_acceso_dist
 
 135/2016](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 de octubre, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación y Universidades, y se asignan competencias generales y específicas a la Dirección General de Formación Profesional y Educación de Adultos,
 RESUELVO:
-Primero.- Dictar instrucciones, que figuran como anexo a la presente resolución, para la organización y el funcionamiento de los niveles básico, intermedio y avanzado de la enseñanza del idioma inglés a distancia para personas adultas That's English!, a partir del curso 2020-2021.
-
-Segundo.- Ordenar la publicación de la presente Resolución en el Boletín Oficial de Canarias, así como en la web de la Consejería de Educación, Universidades, Cultura y Deportes para su general conocimiento.
+Primero.- Dictar instrucciones, que figuran como anexo a la presente resolución, para la organización y el funcionamiento de los niveles básico, intermedio y avanzado de la enseñanza del idioma inglés a distancia para personas adultas That's English!, a partir del curso 2020-2021. Segundo.- Ordenar la publicación de la presente Resolución en el Boletín Oficial de Canarias, así como en la web de la Consejería de Educación, Universidades, Cultura y Deportes para su general conocimiento.
 Tercero.- Facultar a los equipos directivos de los centros de educación a distancia (CEAD) y los centros de educación de personas adultas (CEPA), para que arbitren el procedimiento más adecuado con el fin de que la presente resolución sea conocida y difundida entre los distintos sectores de la comunidad educativa.
 Cuarto.- Encomendar a la Inspección de Educación la supervisión y asesoramiento en aquellos aspectos que le soliciten los equipos directivos de los centros. Contra el presente acto, que no pone fin a la vía administrativa, cabe interponer en el plazo de un (1) mes, a contar desde el día siguiente al de su publicación en el Boletín Oficial de Canarias, recurso de alzada ante la Viceconsejería de Educación, Universidades y Deportes, sin perjuicio de cualesquiera otros que se estime procedente interponer. Santa Cruz de Tenerife, a 5 de noviembre de 2020.- La Directora General de Formación Profesional y Educación de Adultos, p.s. (Orden nº 545, de 20.10.2020), la Viceconsejera de Educación, Universidades y Deportes, María Dolores Rodríguez González.
 
@@ -143,8 +143,7 @@ d) Estar en posesión de certificados reconocidos como B1 según el Marco Común
 cursos de enseñanzas de idiomas de régimen especial en aplicación de lo establecido en la Orden de 21 de septiembre de 2016, de esta Consejería, que regula el reconocimiento de la acreditación de la competencia lingüística conforme al Marco Común Europeo de Referencia para las Lenguas en la Comunidad Autónoma de Canarias.
 e) Obtener informe positivo en la Valoración Inicial del Alumno (VIA) según lo establecido en el punto 2.2. de este anexo. 2.1.4.2. Para poder inscribirse en el segundo curso del nivel Intermedio B2, el alumnado deberá cumplir y acreditar alguna de las siguientes condiciones:
 a) Haber superado el primer curso del nivel B2 de las enseñanzas del idioma inglés en la modalidad presencial, semipresencial o a distancia.
-b) Excepcionalmente para el curso 2020-2021, haber superado el módulo 7 que forma parte del segundo curso del nivel Intermedio B1 del Plan 2018 That's English! En este caso, será preciso que el alumno o alumna supere el módulo 8 en la convocatoria de diciembre para poder ser evaluado de los módulos del segundo curso del nivel intermedio B2.
-c) Haber superado el módulo 9 que forma parte del primer curso del nivel Intermedio B2 del Plan 2018 That's English! En este caso, el alumno tendrá la condición de repetidor.
+b) Excepcionalmente para el curso 2020-2021, haber superado el módulo 7 que forma parte del segundo curso del nivel Intermedio B1 del Plan 2018 That's English! En este caso, será preciso que el alumno o alumna supere el módulo 8 en la convocatoria de diciembre para poder ser evaluado de los módulos del segundo curso del nivel intermedio B2. c) Haber superado el módulo 9 que forma parte del primer curso del nivel Intermedio B2 del Plan 2018 That's English! En este caso, el alumno tendrá la condición de repetidor.
 d) Haber superado el módulo 10 que forma parte del primer curso del nivel Intermedio B2 del Plan 2018 That's English! Excepcionalmente, en el curso 2020-2021, se podrá elegir entre incorporarse al plan nuevo con la condición de repetidor o inscribirse en el módulo 11 del Plan 2018 That's English! (a extinguir).
 e) Haber superado el módulo 11 y suspendido el módulo 12 del nivel Intermedio B2 del Plan 2018 That's English! Excepcionalmente, en el curso 2020-2021, se podrá elegir entre incorporarse al plan nuevo con la condición de repetidor o inscribirse en el segundo curso del nivel Intermedio B2 del Plan 2018 That's English! (a extinguir), en el que también tendrá condición de repetidor. En los casos d) y e), si un alumno o alumna opta por cursar el Plan 2018 y no supera los módulos 11 y 12 o la prueba de certificación del nivel B2 en el curso 2020-2021, deberá incorporarse, con condición de repetidor, al módulo B2.3 del plan nuevo el curso siguiente.
 f) Obtener informe positivo en la Valoración inicial del Alumno (VIA) según lo establecido en el punto 2.2. de este anexo.
@@ -219,9 +218,7 @@ e) Las personas en situación de desempleo mayores de 52 años tendrán derecho 
 
 **3.1.** That's English! se imparte en los centros de educación a distancia (CEAD) y en los centros de educación de personas adultas (CEPA), que hayan sido autorizados para tal fin por la Consejería competente en materia de educación, teniendo los primeros la consideración de centros de apoyo administrativo y los últimos de centros colaboradores.
 
-**3.2.** Los niveles Básico A2, Intermedio B1, Intermedio B2 y Avanzado C1 de That's English! se podrán impartir en los centros de educación a distancia (CEAD) de ambas provincias de la Comunidad Autónoma de Canarias. En los centros de educación de personas adultas (CEPA) se podrán impartir los niveles Básico A2 e Intermedio B1. Excepcionalmente, la Administración educativa podrá autorizar en estos centros el nivel Intermedio B2 y el Avanzado C1.
-
-**3.3.** La Consejería competente en materia de educación autorizará a cada centro un número determinado de grupos de alumnos, pudiendo alterarse esta autorización si no se alcanza la ratio mínima establecida.
+**3.2.** Los niveles Básico A2, Intermedio B1, Intermedio B2 y Avanzado C1 de That's English! se podrán impartir en los centros de educación a distancia (CEAD) de ambas provincias de la Comunidad Autónoma de Canarias. En los centros de educación de personas adultas (CEPA) se podrán impartir los niveles Básico A2 e Intermedio B1. Excepcionalmente, la Administración educativa podrá autorizar en estos centros el nivel Intermedio B2 y el Avanzado C1. **3.3.** La Consejería competente en materia de educación autorizará a cada centro un número determinado de grupos de alumnos, pudiendo alterarse esta autorización si no se alcanza la ratio mínima establecida.
 
 **3.4.** Las funciones de los centros de apoyo administrativo son las siguientes:
 • Coordinarse con los centros colaboradores autorizados a impartir esta enseñanza.

@@ -1,9 +1,11 @@
 ---
 id: norm-and-d19-2007
-titulo: Decreto 19/2007, de 23 de enero, por el que se adoptan medidas para la promoción de la cultura de paz y la mejora de la convivencia en los centros educativos
+titulo: Decreto 19/2007, de 23 de enero, por el que se adoptan medidas para la promoción
+  de la cultura de paz y la mejora de la convivencia en los centros educativos
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 19/2007
 fecha_disposicion: '2007-01-23'
@@ -18,22 +20,22 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Convivencia escolar y disciplina
 tags:
-  - convivencia_escolar
-  - cultura_de_paz
-  - derechos_y_deberes
-  - andalucia
+- convivencia_escolar
+- cultura_de_paz
+- derechos_y_deberes
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-8-2021
-    - norma_id: norm-es-lo-1-1996
-    - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-and-l17-2007
 ---
 # Decreto 19/2007, de 23 de enero, por el que se adoptan medidas para la promoción de la cultura de paz y la mejora de la convivencia en los centros educativos
 

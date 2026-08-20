@@ -1,10 +1,13 @@
 ---
 id: norm-es-2013-10219
 codigo_sintetizado: BOE-A-2013-10219
-titulo: Real Decreto 669/2013, de 6 de septiembre, por el que se establece el título de Técnico Deportivo en Atletismo y se fijan sus enseñanzas mínimas y los requisitos de acceso.
+titulo: Real Decreto 669/2013, de 6 de septiembre, por el que se establece el título
+  de Técnico Deportivo en Atletismo y se fijan sus enseñanzas mínimas y los requisitos
+  de acceso.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2013-10-02'
 boletin: BOE
@@ -15,34 +18,34 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Deportivas
 tags:
-  - curriculo
-  - ense-anzas-deportivas
-  - ensenanzas-deportivas
-  - formacion-profesional
-  - oposiciones
-  - titulacion
+- curriculo
+- ense-anzas-deportivas
+- ensenanzas-deportivas
+- formacion-profesional
+- oposiciones
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2002-12018
-    - norma_id: norm-es-2002-4371
-    - norma_id: norm-es-2007-19326
-    - norma_id: norm-es-2007-6115
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2002-4371
+  - norma_id: norm-es-2007-19326
+  - norma_id: norm-es-2007-6115
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2002-12018
-    - norma_id: norm-es-2002-4371
-    - norma_id: norm-es-2007-19326
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2007-6115
+  - '1'
+  - '2'
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2002-4371
+  - norma_id: norm-es-2007-19326
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2007-6115
 ---
 # Real Decreto 669/2013, de 6 de septiembre, por el que se establece el título de Técnico Deportivo en Atletismo y se fijan sus enseñanzas mínimas y los requisitos de acceso.
 
@@ -454,17 +457,13 @@ El presente real decreto tiene carácter de norma básica y se dicta, al amparo 
 
 #### Disposición final segunda. Implantación del nuevo currículo.
 
-Las Administraciones educativas implantarán el nuevo currículo de estas enseñanzas en el curso escolar 2013-2014.
-
-#### Disposición final tercera. Autorización para el desarrollo.
+Las Administraciones educativas implantarán el nuevo currículo de estas enseñanzas en el curso escolar 2013-2014. #### Disposición final tercera. Autorización para el desarrollo.
 
 Con el objeto de actualizar los perfiles del profesorado a los nuevos títulos universitarios regulados por el Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, se autoriza al titular del Ministerio de Educación, Cultura y Deporte para la modificación y actualización de los anexos VIII, IX-A, y X de este decreto.
 
 #### Disposición final cuarta. Entrada en vigor.
 
-Dado en Madrid, el 6 de septiembre de 2013.
-
-JUAN CARLOS R.
+Dado en Madrid, el 6 de septiembre de 2013. JUAN CARLOS R.
 
 El Ministro de Educación, Cultura y Deporte,
 
@@ -476,7 +475,7 @@ Distribución horaria de las enseñanzas mínimas
 
 Ciclo inicial de grado medio en Atletismo
 
-Â
+
 
 Enseñanzas mínimas
 
@@ -486,7 +485,7 @@ Horas
 
 Bloque común:
 
-Â
+
 
 MED-C101: Bases del comportamiento deportivo
 
@@ -510,7 +509,7 @@ Total
 
 Bloque específico:
 
-Â
+
 
 MED-ATAT102: Metodología de la enseñanza del atletismo.
 
@@ -530,7 +529,7 @@ Total enseñanzas mínimas
 
 Ciclo final de grado medio en Atletismo
 
-Â
+
 
 Enseñanzas mínimas
 
@@ -540,7 +539,7 @@ Horas
 
 Bloque común:
 
-Â
+
 
 MED-C201: Bases del aprendizaje deportivo
 
@@ -568,7 +567,7 @@ Total
 
 Bloque específico:
 
-Â
+
 
 MED-ATAT201: Perfeccionamiento técnico en carreras y marcha
 
@@ -4772,13 +4771,13 @@ h. Se ha demostrado una actitud crítica en la autoevaluación de su desempeño.
 
 Ratio profesor/alumno
 
-Â
+
 
 Ratio profesor/alumno
 
 Bloque específico ciclo inicial
 
-Â
+
 
 MED-ATAT102 Metodología de la enseñanza del atletismo.
 
@@ -4786,7 +4785,7 @@ MED-ATAT103 Organización de actividades de iniciación en atletismo.
 
 Bloque específico ciclo final
 
-Â
+
 
 MED-ATAT201 Perfeccionamiento técnico en carreras y marcha.
 
@@ -4972,7 +4971,7 @@ Pista polideportiva
 
 44 x 22 mts
 
-Â
+
 
 MED-C201 Bases del aprendizaje deportivo.
 
@@ -5330,7 +5329,7 @@ Educación física con el título de Técnico Deportivo Superior en Atletismo.
 
 Profesor especialista
 
-Â
+
 
 MED-ATAT104 Formación práctica
 
@@ -5342,7 +5341,7 @@ Educación física con el título de Técnico Deportivo Superior en Atletismo
 
 Profesor especialista
 
-Â
+
 
 Ciclo final
 
@@ -5370,7 +5369,7 @@ Educación física con el título de Técnico Deportivo Superior en Atletismo
 
 Profesor especialista
 
-Â
+
 
 ## Anexo IX. B
 

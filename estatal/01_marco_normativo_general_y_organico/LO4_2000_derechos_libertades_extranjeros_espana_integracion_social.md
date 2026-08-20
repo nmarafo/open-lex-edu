@@ -1,10 +1,12 @@
 ---
 id: norm-es-2000-544
 codigo_sintetizado: BOE-A-2000-544
-titulo: Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.
+titulo: Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros
+  en España y su integración social.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2000-01-12'
 boletin: BOE
@@ -15,32 +17,32 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Protección jurídica de menores
 tags:
-  - curriculo
-  - igualdad-genero
-  - protecci-n-jur-dica-de-menores
-  - proteccion-menores
-  - servicios-complementarios
-  - titulacion
+- curriculo
+- igualdad-genero
+- protecci-n-jur-dica-de-menores
+- proteccion-menores
+- servicios-complementarios
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   fundamento_de:
-    - norma_id: norm-es-2012-8745
-    - norma_id: norm-es-2013-12632
-    - norma_id: norm-es-2015-8222
-    - norma_id: norm-es-2015-8470
-    - norma_id: norm-es-2022-11589
-    - norma_id: norm-es-2024-11613
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-10-2022
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-es-2012-8745
+  - norma_id: norm-es-2013-12632
+  - norma_id: norm-es-2015-8222
+  - norma_id: norm-es-2015-8470
+  - norma_id: norm-es-2022-11589
+  - norma_id: norm-es-2024-11613
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-10-2022
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-can-res-boc-2026-039-103
   desarrollado_por: []
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
+  - '27'
 ---
 # Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.
 
@@ -288,9 +290,7 @@ a) Expulsión del territorio español por orden judicial, en los casos previstos
 
 b) Expulsión o devolución acordadas por resolución administrativa en los casos previstos en la presente Ley.
 
-c) Denegación administrativa de las solicitudes formuladas por el extranjero para continuar permaneciendo en territorio español, salvo que la solicitud se hubiere realizado al amparo del artículo 29.3.
-
-## Capítulo II. Situaciones de los extranjeros.
+c) Denegación administrativa de las solicitudes formuladas por el extranjero para continuar permaneciendo en territorio español, salvo que la solicitud se hubiere realizado al amparo del artículo 29.3. ## Capítulo II. Situaciones de los extranjeros.
 
 #### Artículo 27. Enumeración de las situaciones.
 
@@ -556,15 +556,11 @@ a) Los nacidos en España que hayan residido legalmente en los últimos cinco a�
 
 b) Los que tengan reconocida la residencia permanente, salvo que estén inmersas en los apartados a), b), c) y f) del artículo 50 y g).
 
-del artículo 49.
-
-c) Los que hayan sido españoles de origen y hubieran perdido la nacionalidad española.
+del artículo 49. c) Los que hayan sido españoles de origen y hubieran perdido la nacionalidad española.
 
 d) Los que sean beneficiarios de una prestación por incapacidad permanente para el trabajo como consecuencia de un accidente de trabajo o enfermedad profesional ocurridos en España, así como los que perciban una prestación contributiva por desempleo o sean beneficiarios de una prestación económica asistencial de carácter público destinada a lograr su inserción o reinserción social o laboral, salvo que la sanción se proponga por haber realizado alguna de las infracciones reconocidas en los apartados a), b), c) y f) del artículo 50 y g).
 
-del artículo 49.
-
-3. Tampoco podrán ser expulsados los cónyuges de los extranjeros, ascendientes e hijos menores o incapacitados a cargo del extranjero que se encuentre en alguna de las situaciones señaladas anteriormente y hayan residido legalmente en España durante más de dos años, ni las mujeres embarazadas cuando la medida pueda suponer un riesgo para la gestación o para la salud de la madre.
+del artículo 49. 3. Tampoco podrán ser expulsados los cónyuges de los extranjeros, ascendientes e hijos menores o incapacitados a cargo del extranjero que se encuentre en alguna de las situaciones señaladas anteriormente y hayan residido legalmente en España durante más de dos años, ni las mujeres embarazadas cuando la medida pueda suponer un riesgo para la gestación o para la salud de la madre.
 
 4. Cuando el extranjero se encuentre encartado en un procedimiento por delitos castigados con penas privativas de libertad inferiores a seis años, el Juez podrá autorizar, previa audiencia del Fiscal, su salida del territorio español, siempre que se cumplan los requisitos establecidos en la Ley de Enjuiciamiento Criminal, o su expulsión, si ésta resultara procedente de conformidad con lo previsto en los párrafos anteriores del presente artículo, previa sustanciación del correspondiente procedimiento administrativo sancionador.
 
@@ -684,9 +680,7 @@ El apartado 1 del artículo 312 l.
 
 Código Penal queda redactado de la forma siguiente:
 
-"Artículo 312.
-
-1. Serán castigados con las penas de prisión de dos a cinco años y multa de seis a doce meses, los que trafiquen de manera ilegal con mano de obra."
+"Artículo 312. 1. Serán castigados con las penas de prisión de dos a cinco años y multa de seis a doce meses, los que trafiquen de manera ilegal con mano de obra."
 
 #### Disposición final segunda. Inclusión de un nuevo Título XV bis en el Código Penal.
 

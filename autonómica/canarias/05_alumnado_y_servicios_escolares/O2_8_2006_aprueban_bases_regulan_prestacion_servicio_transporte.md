@@ -1,7 +1,8 @@
 ---
 id: norm-can-o-2-8-2006
 codigo_sintetizado: O2_8_2006 Regulacion del Transporte Escolar en Canarias
-titulo: Orden de 2 de agosto de 2006, por la que se aprueban las bases que regulan la prestación del servicio de transporte escolar en la Comunidad Autónoma de Canarias.
+titulo: Orden de 2 de agosto de 2006, por la que se aprueban las bases que regulan
+  la prestación del servicio de transporte escolar en la Comunidad Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Ministerio de Educación, Formación Profesional y Deportes
@@ -19,39 +20,39 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Transporte escolar
 tags:
-  - admision-alumnado
-  - atencion-diversidad
-  - consejo-escolar
-  - curriculo
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - evaluacion
-  - gratuidad-transporte
-  - neae
-  - proteccion-menores
-  - rutas-transporte
-  - servicios-complementarios
-  - transporte-escolar
+- admision-alumnado
+- atencion-diversidad
+- consejo-escolar
+- curriculo
+- ensenanzas-deportivas
+- equipos-directivos
+- evaluacion
+- gratuidad-transporte
+- neae
+- proteccion-menores
+- rutas-transporte
+- servicios-complementarios
+- transporte-escolar
 relaciones:
   desarrolla:
-    - norma_id: norm-es-rd-443-2001
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-443-2001
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-can-l-14-1990
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '56'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-can-l-14-1990
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-rd-443-2001
+  - '56'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-rd-443-2001
 anexos_extraidos_pdf: true
 ---
 # Orden de 2 de agosto de 2006, por la que se aprueban las bases que regulan la prestación del servicio de transporte escolar en la Comunidad Autónoma de Canarias.
@@ -90,9 +91,7 @@ Cuarto.- Asimismo, el artículo 110.2 de la citada Ley Orgánica, indica que "La
 
 Quinto.- La presente Orden se establece como un marco normativo del servicio complementario de Transporte Escolar, de apoyo a la escolarización del alumnado perteneciente a los Centros Educativos Públicos no Universitarios y de las Residencias Escolares de la Comunidad Autónoma de Canarias.
 
-#### Sexto. Emitido Informe del Consejo Escolar de Canarias, de fecha 17 de julio de 2006.
-
-FUNDAMENTOS DE DERECHO
+#### Sexto. Emitido Informe del Consejo Escolar de Canarias, de fecha 17 de julio de 2006. FUNDAMENTOS DE DERECHO
 
 Primero.- De conformidad con la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
@@ -116,9 +115,7 @@ Cuarto.- Proceder a la publicación de la presente Orden en el Boletín Oficial 
 
 Contra el presente acto, que pone fin a la vía administrativa, cabe interponer potestativamente recurso de reposición ante la Consejería de Educación, Cultura y Deportes, en el plazo de un mes a contar desde el día siguiente a su publicación, o bien directamente, cabe interponer recurso contencioso-administrativo ante el Tribunal Superior de Justicia de Canarias, en el plazo de dos meses a contar desde el día siguiente al de la publicación de esta Orden. En el caso de interponer recurso potestativo de reposición, no podrá acudir a la vía contencioso-administrativa hasta que aquél sea resuelto expresamente o desestimado por silencio administrativo, en el plazo de un mes, a contar desde que hubiera sido interpuesto el citado recurso. Todo ello sin perjuicio de cualquier otro recurso que se estime oportuno interponer.
 
-Santa Cruz de Tenerife, a 2 de agosto de 2006.
-
-EL CONSEJERO DE EDUCACIÓN,
+Santa Cruz de Tenerife, a 2 de agosto de 2006. EL CONSEJERO DE EDUCACIÓN,
 
 CULTURA Y DEPORTES,
 

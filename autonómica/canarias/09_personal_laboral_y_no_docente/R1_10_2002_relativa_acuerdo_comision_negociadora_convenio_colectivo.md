@@ -27,34 +27,46 @@ fecha_disposicion: '2002-10-01'
 
 ## Preámbulo
 
-Primero.- Ordenar su inscripciÃ³n en el Registro Oficial de Pactos, con notificaciÃ³n a la ComisiÃ³n Negociadora.
+3551 - Dirección General de Trabajo.- Anuncio por el que se hace pública la Resolución de 1 de octubre de 2002, relativa al Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias para la introducción en el Convenio de una 
 
-Segundo.- Disponer el depÃ³sito del texto original.
+#### Disposición Adicional Novena. Descargar en formato pdf
 
-Tercero.- Disponer asimismo su publicaciÃ³n en el BoletÃ­n Oficial de Canarias.
+Visto el Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias para la introducción en el Convenio de una 
 
-Contra el presente acto, que no agota la vÃ­a administrativa, cabe recurso de alzada ante el Excmo. Sr. Consejero de Empleo y Asuntos Sociales, en el plazo de un mes desde la notificaciÃ³n o publicaciÃ³n de la presente ResoluciÃ³n, y sin perjuicio de cualquier otro recurso que pudiera interponerse.
+#### Disposición Adicional Novena, y de conformidad con lo dispuesto en el artº. 90 del Real Decreto Legislativo 1/1995, de 24 de marzo, por el que se aprueba el Texto Refundido de la Ley del Estatuto de los Trabajadores, así como los Reales Decretos 661/1984, de 25 de enero y 1.033/1984, de 1 de abril, sobre traspaso de funciones y servicios del Estado a la Comunidad Autónoma de Canarias en materia de mediación, arbitraje y conciliación; el Real Decreto 1.040/1981, de 22 de mayo, sobre depósito y registro de Convenios Colectivos y el Decreto 329/1995, de 24 de noviembre, por el que se aprueba el Reglamento Orgánico de la Consejería de Empleo y Asuntos Sociales (B.O.C. nº 159, de 15.12.95), modificado por el Decreto 138/2000, de 10 de julio (B.O.C. nº 108, de 7.8.00), esta Dirección General
+
+R E S U E L V E:
+
+Primero.- Ordenar su inscripción en el Registro Oficial de Pactos, con notificación a la Comisión Negociadora.
+
+Segundo.- Disponer el depósito del texto original.
+
+Tercero.- Disponer asimismo su publicación en el Boletín Oficial de Canarias.
+
+Contra el presente acto, que no agota la vía administrativa, cabe recurso de alzada ante el Excmo. Sr. Consejero de Empleo y Asuntos Sociales, en el plazo de un mes desde la notificación o publicación de la presente Resolución, y sin perjuicio de cualquier otro recurso que pudiera interponerse.
 
 Las Palmas de Gran Canaria, a 1 de octubre de 2002.- El Director General de Trabajo, Antonio Lorenzo Tejera.
 
-ACUERDO DE LA COMISIÃN NEGOCIADORA DEL CONVENIO COLECTIVO DEL PERSONAL LABORAL DE LA COMUNIDAD AUTÃNOMA DE CANARIAS PARA LA INTRODUCCIÃN EN EL CONVENIO DE UNA DISPOSICIÃN ADICIONAL NOVENA.
+ACUERDO DE LA COMISIÓN NEGOCIADORA DEL CONVENIO COLECTIVO DEL PERSONAL LABORAL DE LA COMUNIDAD AUTÓNOMA DE CANARIAS PARA LA INTRODUCCIÓN EN EL CONVENIO DE UNA 
 
-En Las Palmas de Gran Canaria, a 31 de julio de 2002, se reÃºnen las personas abajo firmantes, miembros de la ComisiÃ³n Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad AutÃ³noma de Canarias, al objeto de estudiar la inclusiÃ³n en el Convenio Colectivo de una DisposiciÃ³n Adicional que regule el llamamiento del personal fijo discontinuo quedando aprobada como DisposiciÃ³n Adicional Novena en los tÃ©rminos siguientes:
+#### DISPOSICIÓN ADICIONAL NOVENA. En Las Palmas de Gran Canaria, a 31 de julio de 2002, se reúnen las personas abajo firmantes, miembros de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias, al objeto de estudiar la inclusión en el Convenio Colectivo de una Disposición Adicional que regule el llamamiento del personal fijo discontinuo quedando aprobada como Disposición Adicional Novena en los términos siguientes:
 
-"Los trabajadores fijos-discontinuos deberÃ¡n ser llamados cada vez que vayan a llevarse a cabo las actividades para las que fueron contratados y de modo que todos los trabajadores afectados por dicho llamamiento cumplan de manera continuada y como mÃ­nimo el perÃ­odo de trabajo estimado en su contrato de trabajo que serÃ¡ computado a partir de la iniciaciÃ³n de las actividades.
+"Los trabajadores fijos-discontinuos deberán ser llamados cada vez que vayan a llevarse a cabo las actividades para las que fueron contratados y de modo que todos los trabajadores afectados por dicho llamamiento cumplan de manera continuada y como mínimo el período de trabajo estimado en su contrato de trabajo que será computado a partir de la iniciación de las actividades.
 
-El trabajador/a fijo discontinuo serÃ¡ llamado a cubrir el puesto de trabajo al que estÃ© adscrito. Para cualquier otra situaciÃ³n se estarÃ¡ a lo que dispone el Convenio Colectivo de la Comunidad AutÃ³noma de Canarias.
+El trabajador/a fijo discontinuo será llamado a cubrir el puesto de trabajo al que esté adscrito. Para cualquier otra situación se estará a lo que dispone el Convenio Colectivo de la Comunidad Autónoma de Canarias.
 
-El llamamiento se efectuarÃ¡ mediante comunicaciÃ³n comprobable al trabajador, disponiendo Ã©ste de un plazo de 72 horas (3 dÃ­as), dentro de los cuales ha de incorporarse al puesto de trabajo. Excepcionalmente, por las causas previstas en el Estatuto de los Trabajadores, debidamente justificadas, el trabajador podrÃ¡ alegar la no incorporaciÃ³n en dicho plazo sin que ello suponga pÃ©rdida de sus derechos.
+El llamamiento se efectuará mediante comunicación comprobable al trabajador, disponiendo éste de un plazo de 72 horas (3 días), dentro de los cuales ha de incorporarse al puesto de trabajo. Excepcionalmente, por las causas previstas en el Estatuto de los Trabajadores, debidamente justificadas, el trabajador podrá alegar la no incorporación en dicho plazo sin que ello suponga pérdida de sus derechos.
 
-En todo caso dicho llamamiento se harÃ¡ de forma que quede constancia de haberse efectuado y de la propuesta de llamamiento se darÃ¡ conocimiento a los representantes sindicales con una antelaciÃ³n mÃ­nima de 15 dÃ­as. Lo mismo serÃ¡ de aplicaciÃ³n con ocasiÃ³n de la comunicaciÃ³n de finalizaciÃ³n.
+En todo caso dicho llamamiento se hará de forma que quede constancia de haberse efectuado y de la propuesta de llamamiento se dará conocimiento a los representantes sindicales con una antelación mínima de 15 días. Lo mismo será de aplicación con ocasión de la comunicación de finalización.
 
-En ningÃºn momento el hecho del llamamiento gradual podrÃ¡ cambiar ni modificar las condiciones establecidas en el contrato del trabajador fijo-discontinuo, con excepciÃ³n de la fecha de inicio y fin de la actividad que deberÃ¡ ser acordada con los representantes sindicales.
+En ningún momento el hecho del llamamiento gradual podrá cambiar ni modificar las condiciones establecidas en el contrato del trabajador fijo-discontinuo, con excepción de la fecha de inicio y fin de la actividad que deberá ser acordada con los representantes sindicales.
 
-Hasta la cobertura definitiva por los procedimientos establecidos en el Convenio, para cubrir los puestos de trabajo no ocupados por los trabajadores fijos-discontinuos se procederÃ¡ al llamamiento de personal con carÃ¡cter temporal a travÃ©s de las listas de reserva vigentes en cada momento.
+Hasta la cobertura definitiva por los procedimientos establecidos en el Convenio, para cubrir los puestos de trabajo no ocupados por los trabajadores fijos-discontinuos se procederá al llamamiento de personal con carácter temporal a través de las listas de reserva vigentes en cada momento.
 
-El proceso de llamamiento del personal temporal serÃ¡ el mismo que para el trabajador fijo discontinuo, y en las mismas condiciones laborales. La peculiaridad es que estos trabajadores temporales saldrÃ¡n de las listas de sustituciones, ordenada por categorÃ­as, antigÃ¼edad y puntuaciÃ³n de las distintas convocatorias de selecciÃ³n.
+El proceso de llamamiento del personal temporal será el mismo que para el trabajador fijo discontinuo, y en las mismas condiciones laborales. La peculiaridad es que estos trabajadores temporales saldrán de las listas de sustituciones, ordenada por categorías, antigüedad y puntuación de las distintas convocatorias de selección.
 
-Cualquier modificaciÃ³n legal que pudiera afectar a los trabajadores fijos-discontinuos obligarÃ¡ a la revisiÃ³n de esta DisposiciÃ³n Adicional por la ComisiÃ³n Negociadora del Convenio Colectivo."
+Cualquier modificación legal que pudiera afectar a los trabajadores fijos-discontinuos obligará a la revisión de esta 
 
-En Las Palmas de Gran Canaria, a 31 de julio de 2002.- La AdministraciÃ³n: Viceconsejero de AdministraciÃ³n PÃºblica, Directora General de la FunciÃ³n PÃºblica. ComitÃ© Intercentros.
+#### Disposición Adicional por la Comisión Negociadora del Convenio Colectivo. "
+
+En Las Palmas de Gran Canaria, a 31 de julio de 2002.- La Administración: Viceconsejero de Administración Pública, Directora General de la Función Pública. Comité Intercentros.

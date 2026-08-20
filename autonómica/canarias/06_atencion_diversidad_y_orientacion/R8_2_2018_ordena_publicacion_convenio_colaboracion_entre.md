@@ -1,7 +1,12 @@
 ---
 id: norm-can-res-boc-2018-086-122
 codigo_sintetizado: Resolucion BOC 122
-titulo: Resolución de 8 de febrero de 2018, de la Secretaría General Técnica, por la que se ordena la publicación del Convenio de Colaboración entre la Consejería de Educación y Universidades y la Asociación de Padres de Personas con Autismo de Tenerife (APANATE) para la atención educativa del alumnado no universitario con necesidades específicas de apoyo educativo derivadas de Trastornos del Espectro Autista (TEA) (BOC n.º 86, de 4 de mayo).
+titulo: Resolución de 8 de febrero de 2018, de la Secretaría General Técnica, por
+  la que se ordena la publicación del Convenio de Colaboración entre la Consejería
+  de Educación y Universidades y la Asociación de Padres de Personas con Autismo de
+  Tenerife (APANATE) para la atención educativa del alumnado no universitario con
+  necesidades específicas de apoyo educativo derivadas de Trastornos del Espectro
+  Autista (TEA) (BOC n.º 86, de 4 de mayo).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Secretaría General Técnica
@@ -13,38 +18,38 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Alumnado con NEAE
 tags:
-  - alumnado-con-neae
-  - equipos-directivos
-  - neae
+- alumnado-con-neae
+- equipos-directivos
+- neae
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-2008-979
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2015-8222
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-1-1996
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2008-979
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2015-8222
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-es-lo-2-2006
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-2015-8222
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-1-1996
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-2008-979
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - norma_id: norm-es-2015-8222
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2008-979
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-086-2126.pdf
 ---
 # Resolución de 8 de febrero de 2018, de la Secretaría General Técnica, por la que se ordena la publicación del Convenio de Colaboración entre la Consejería de Educación y Universidades y la Asociación de Padres de Personas con Autismo de Tenerife (APANATE) para la atención educativa del alumnado no universitario con necesidades específicas de apoyo educativo derivadas de Trastornos del Espectro Autista (TEA) (BOC n.º 86, de 4 de mayo).
@@ -77,9 +82,7 @@ Quinto.- La asociación APANATE tiene como ámbito de actuación la isla de Tene
 • Potenciar, fomentar y organizar la formación y actualización de las competencias de los profesionales de esta Asociación en el desarrollo de sus funciones, así como de los voluntarios y colaboradores.
 • La gestión de cualquier clase de servicios que le sea encomendado por Entes Autonómicos, Provinciales, Insulares o Municipales.
 • Cualesquiera otras actuaciones que directa o indirectamente incidan en el mejor cumplimiento de sus fines.
-Sexto.- En el año 2005 fue suscrito un Convenio de Colaboración entre ambas entidades, con nº 466 de registro en el Registro de Convenios de la Secretaría General Técnica, con fecha 7 de julio de 2005.
-
-Asimismo, el día 8 de febrero de 2013 se firma Adenda al mencionado Protocolo de colaboración entre la Directora General de Ordenación, Innovación y Promoción Educativa de la Consejería de Educación, Universidades y Sostenibilidad del Gobierno de Canarias, y APANATE, siendo necesario, mediante el presente Convenio, su actualización a fin de impulsar el desarrollo de cuantas acciones de todo orden sean precisas para promover y lograr la plena integración e inclusión escolar del alumnado con trastornos del espectro autista en los centros y aulas ordinarias, así como crear y perfeccionar los mecanismos de coordinación de los servicios educativos y de los servicios complementarios para garantizar las condiciones óptimas de atención educativa a estas personas y garantizar la formación y apoyo preciso a los centros y profesionales que los atienden.
+Sexto.- En el año 2005 fue suscrito un Convenio de Colaboración entre ambas entidades, con nº 466 de registro en el Registro de Convenios de la Secretaría General Técnica, con fecha 7 de julio de 2005. Asimismo, el día 8 de febrero de 2013 se firma Adenda al mencionado Protocolo de colaboración entre la Directora General de Ordenación, Innovación y Promoción Educativa de la Consejería de Educación, Universidades y Sostenibilidad del Gobierno de Canarias, y APANATE, siendo necesario, mediante el presente Convenio, su actualización a fin de impulsar el desarrollo de cuantas acciones de todo orden sean precisas para promover y lograr la plena integración e inclusión escolar del alumnado con trastornos del espectro autista en los centros y aulas ordinarias, así como crear y perfeccionar los mecanismos de coordinación de los servicios educativos y de los servicios complementarios para garantizar las condiciones óptimas de atención educativa a estas personas y garantizar la formación y apoyo preciso a los centros y profesionales que los atienden.
 Séptimo.- La asociación APANATE está acreditada como entidad de V oluntariado de Canarias figurando inscrita en el Registro de Entidades Colaboradoras en la prestación de Servicios Sociales, en el libro de entidades acreditadas de la Oficina de Información y Asesoramiento del V oluntariado.
 
 #### Octava. La Consejería de Educación y Universidades y la Asociación de Padres de Personas con Autismo de Tenerife (en adelante APANATE), comparten la voluntad de aunar esfuerzos para optimizar la respuesta educativa personalizada, inclusiva y normalizadora al alumnado con Necesidades Específicas de Apoyo Educativo derivadas de Trastornos del Espectro Autista escolarizado en cualquier centro de enseñanza, por lo que suscriben el presente Convenio de colaboración, con arreglo a las siguientes CLÁUSULAS

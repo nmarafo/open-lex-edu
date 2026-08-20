@@ -1,10 +1,15 @@
 ---
 id: norm-es-2011-17890
 codigo_sintetizado: BOE-A-2011-17890
-titulo: Real Decreto 1619/2011, de 14 de noviembre, por el que se establece el nuevo régimen de equivalencias de los estudios y titulaciones de Ciencias Eclesiásticas de nivel universitario respecto de los títulos universitarios oficiales españoles, en cumplimiento de lo dispuesto en el Acuerdo entre el Estado español y la Santa Sede de 3 de enero de 1979 sobre Enseñanza y Asuntos Culturales.
+titulo: Real Decreto 1619/2011, de 14 de noviembre, por el que se establece el nuevo
+  régimen de equivalencias de los estudios y titulaciones de Ciencias Eclesiásticas
+  de nivel universitario respecto de los títulos universitarios oficiales españoles,
+  en cumplimiento de lo dispuesto en el Acuerdo entre el Estado español y la Santa
+  Sede de 3 de enero de 1979 sobre Enseñanza y Asuntos Culturales.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2011-11-16'
 boletin: BOE
@@ -15,20 +20,17 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Profesorado de religión
 tags:
-  - ensenanzas-universitarias
-  - profesorado-de-religi-n
-  - titulacion
+- ensenanzas-universitarias
+- profesorado-de-religi-n
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-39-2015
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-es-l-39-2015
-  articulos:
-    - '1'
+  - '1'
 ---
 # Real Decreto 1619/2011, de 14 de noviembre, por el que se establece el nuevo régimen de equivalencias de los estudios y titulaciones de Ciencias Eclesiásticas de nivel universitario respecto de los títulos universitarios oficiales españoles, en cumplimiento de lo dispuesto en el Acuerdo entre el Estado español y la Santa Sede de 3 de enero de 1979 sobre Enseñanza y Asuntos Culturales.
 
@@ -94,9 +96,7 @@ El reconocimiento de efectos civiles de los títulos eclesiásticos universitari
 
 Asimismo, dichos documentos deberán contar con el diligenciado previo a que se refiere el artículo 6 de esta norma.
 
-3. La solicitud deberá indicar los datos de identificación del interesado, el lugar a los efectos de notificación y los demás datos que exige el artículo 70.1 de la Ley 30/1992.
-
-4. Si la solicitud o la documentación presentadas resultaran incompletas se requerirá al interesado para que en un plazo de quince días subsane la deficiencia, con indicación de que, si así no lo hiciera, se le tendrá desistido de su petición, archivándose sin más trámite. Todo ello de conformidad con lo establecido en el artículo 71 de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+3. La solicitud deberá indicar los datos de identificación del interesado, el lugar a los efectos de notificación y los demás datos que exige el artículo 70.1 de la Ley 30/1992. 4. Si la solicitud o la documentación presentadas resultaran incompletas se requerirá al interesado para que en un plazo de quince días subsane la deficiencia, con indicación de que, si así no lo hiciera, se le tendrá desistido de su petición, archivándose sin más trámite. Todo ello de conformidad con lo establecido en el artículo 71 de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
 5. En el plazo de tres meses desde la presentación de la solicitud, el Director General de Política Universitaria resolverá y notificará al interesado la resolución, que vendrá expresada en términos favorables o desfavorables a la equivalencia solicitada.
 
@@ -132,9 +132,7 @@ Quienes a la entrada en vigor del presente real decreto hubiesen iniciado la tra
 
 #### Disposición transitoria segunda. Estudios anteriores.
 
-Quienes a la entrada en vigor de este Real Decreto ya hubieran completado o iniciado estudios conducentes a la obtención de un título eclesiástico susceptible de reconocimiento de efectos civiles respecto del título español de diplomado universitario, de conformidad con lo establecido en el Real Decreto 3/1995, de 13 de enero, podrán optar a dicho reconocimiento en los mismos términos hasta el 30 de septiembre de 2015.
-
-#### Disposición derogatoria única. Derogación del Real Decreto 3/1995, de 13 de enero.
+Quienes a la entrada en vigor de este Real Decreto ya hubieran completado o iniciado estudios conducentes a la obtención de un título eclesiástico susceptible de reconocimiento de efectos civiles respecto del título español de diplomado universitario, de conformidad con lo establecido en el Real Decreto 3/1995, de 13 de enero, podrán optar a dicho reconocimiento en los mismos términos hasta el 30 de septiembre de 2015. #### Disposición derogatoria única. Derogación del Real Decreto 3/1995, de 13 de enero.
 
 Queda derogado el RD 3/1995, de 13 de enero, por el que se da cumplimiento a lo dispuesto en el Acuerdo entre el Estado español y la Santa Sede sobre enseñanza y asuntos culturales en materia de estudios y titulaciones de Ciencias Eclesiásticas de nivel universitario, sin perjuicio de lo dispuesto en la disposición transitoria segunda del presente real decreto.
 
@@ -152,9 +150,7 @@ Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.30.ª
 
 #### Disposición final cuarta. Entrada en vigor.
 
-Dado en Madrid, el 14 de noviembre de 2011.
-
-JUAN CARLOS R.
+Dado en Madrid, el 14 de noviembre de 2011. JUAN CARLOS R.
 
 El Ministro de Educación,
 

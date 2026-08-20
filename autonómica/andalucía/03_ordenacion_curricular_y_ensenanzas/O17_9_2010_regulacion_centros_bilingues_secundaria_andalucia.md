@@ -1,10 +1,12 @@
 ---
 id: norm-and-o-17-9-2010
 codigo_sintetizado: O17_9_2010 Programa Bilinguismo Secundaria Andalucía
-titulo: Orden de 17 de septiembre de 2010, por la que se regula la enseñanza bilingüe en Educación Secundaria y Bachillerato.
+titulo: Orden de 17 de septiembre de 2010, por la que se regula la enseñanza bilingüe
+  en Educación Secundaria y Bachillerato.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 17/09/2010
 fecha_disposicion: '2010-09-17'
@@ -18,16 +20,16 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Bilingüismo
 tags:
-  - bilinguismo_secundaria
-  - auxiliares_conversacion
-  - andalucia
+- bilinguismo_secundaria
+- auxiliares_conversacion
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Orden de 17 de septiembre de 2010, por la que se regula la enseñanza bilingüe en Educación Secundaria y Bachillerato.
 
@@ -256,9 +258,7 @@ d) Cuando existan fundadas dudas sobre la capacidad de la ONGD para continuar su
 
 2011. En la convocatoria de subvenciones a programas que realice la AACID para el ejercicio 2011, se exceptúa a las ONGD del cumplimento de lo dispuesto en el apartado 2 del artículo 1 de la Orden, dado que las primeras entidades que podrán optar a dicha convocatoria serán las resultantes del procedimiento que con la presente Orden se inicia, lo que haría imposible su cumplimiento.
 
-#### Disposición adicional segunda. Excepción al artículo 14.
-
-en relación a aquellas ONGD que pretendan concurrir a la convocatoria de programas de 2011. El plazo de presentación de solicitudes para participar en el procedimiento de calificación, para aquellas ONGD que pretendan concurrir a la convocatoria de subvenciones a programas que realice la AACID para el ejercicio de 2011, será de un mes a contar desde la entrada en vigor de la presente Orden, dada la simultaneidad de ambas convocatorias.
+#### Disposición adicional segunda. Excepción al artículo 14. en relación a aquellas ONGD que pretendan concurrir a la convocatoria de programas de 2011. El plazo de presentación de solicitudes para participar en el procedimiento de calificación, para aquellas ONGD que pretendan concurrir a la convocatoria de subvenciones a programas que realice la AACID para el ejercicio de 2011, será de un mes a contar desde la entrada en vigor de la presente Orden, dada la simultaneidad de ambas convocatorias.
 
 #### Disposición final primera. Modelos a utilizar y servicio de.
 

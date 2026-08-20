@@ -1,10 +1,15 @@
 ---
 id: norm-can-res-boc-2025-039-104
 codigo_sintetizado: Resolucion BOC 104
-titulo: Resolución de 17 de febrero de 2025,de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios, por la que se dictan instrucciones específicas y se convoca procedimiento extraordinario de admisión del alumnado del primer ciclo de Educación Infantil en determinados centros docentes dependientes de esta Consejería, para el curso escolar 2024-2025.
+titulo: Resolución de 17 de febrero de 2025,de la Dirección General de Administración
+  de Centros, Escolarización y Servicios Complementarios, por la que se dictan instrucciones
+  específicas y se convoca procedimiento extraordinario de admisión del alumnado del
+  primer ciclo de Educación Infantil en determinados centros docentes dependientes
+  de esta Consejería, para el curso escolar 2024-2025.
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios Complementarios
+organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios
+  Complementarios
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: pdf_oficial_boc
@@ -13,52 +18,49 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión y escolarización del alumnado
 tags:
-  - admisi-n-y-escolarizaci-n-del-alumnado
-  - admision-alumnado
-  - bachillerato
-  - educacion-infantil
-  - educacion-personas-adultas
-  - educacion-primaria
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - eso
-  - formacion-profesional
-  - oposiciones
-  - plantillas-docentes
-  - profesorado
+- admisi-n-y-escolarizaci-n-del-alumnado
+- admision-alumnado
+- bachillerato
+- educacion-infantil
+- educacion-personas-adultas
+- educacion-primaria
+- ensenanzas-deportivas
+- equipos-directivos
+- eso
+- formacion-profesional
+- oposiciones
+- plantillas-docentes
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-d-9-2022
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-res-boc-2017-132-1
-    - norma_id: norm-can-res-boc-2024-049-109
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-d-9-2022
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-boc-2017-132-1
+  - norma_id: norm-can-res-boc-2024-049-109
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-d-9-2022
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-res-boc-2017-132-1
-    - norma_id: norm-can-res-boc-2024-049-109
+  - '1'
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-d-9-2022
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-res-boc-2017-132-1
+  - norma_id: norm-can-res-boc-2024-049-109
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-039-739.pdf
 ---
-# Resolución de 17 de febrero de 2025,de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios, por la que se dictan instrucciones específicas y se convoca procedimiento extraordinario de admisión del alumnado del primer ciclo de Educación Infantil en determinados centros docentes dependientes de esta Consejería, para el curso escolar 2024-2025.
-
-## Preámbulo
+# Resolución de 17 de febrero de 2025,de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios, por la que se dictan instrucciones específicas y se convoca procedimiento extraordinario de admisión del alumnado del primer ciclo de Educación Infantil en determinados centros docentes dependientes de esta Consejería, para el curso escolar 2024-2025. ## Preámbulo
 
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes Complementarios.- Resolución de 17 de febrero de 2025, por la que se dictan instrucciones específicas y se convoca procedimiento extraordinario de admisión del alumnado del primer ciclo de Educación Infantil en determinados centros docentes dependientes de esta Consejería, para el curso escolar 2024-2025. Vista la necesidad de dictar instrucciones específicas y convocar un procedimiento extraordinario de admisión para el primer ciclo de Educación Infantil en determinados centros docentes dependientes de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes del Gobierno de Canarias para el curso 2024-2025, y teniendo en cuenta los siguientes ANTECEDENTES DE HECHO
-Primero.- En la convocatoria del procedimiento de admisión del alumnado en centros docentes que ofertan enseñanzas de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato y Educación de Personas Adultas sostenidas con fondos públicos para el curso escolar 2024-2025, en la Comunidad Autónoma de Canarias, dictada mediante la [Resolución de 27 de febrero de 2024](R27_2_2024_dgacesc_dictan_instrucciones_proceso_admision_alumnado.md), se ofertaron plazas del primer ciclo de Educación Infantil. Sin embargo, con posterioridad se han convocado dos procedimientos extraordinarios de admisión para el alumnado del primer ciclo de Educación Infantil en determinados centros docentes dependientes de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, para el curso 2024-2025, mediante la Resolución de 24 de mayo de 2024, y mediante la Resolución de 4 de octubre de 2024.
-Segundo.- El proceso de creación de plazas del primer ciclo de Educación Infantil en centros docentes dependientes de esta Consejería de Educación, Formación Profesional, Actividad Física y Deportes del Gobierno de Canarias, que se encuentra en un continuo avance, trae como consecuencia que en estos momentos, y para el presente curso escolar 2024-2025, contemos con la apertura de nuevas aulas en determinados centros docentes. Por ello, es necesario regular y convocar un nuevo procedimiento extraordinario de admisión para estas nuevas aulas, que garantice el derecho a la educación, el acceso en condiciones de igualdad y la libertad de elección de centro por padres, madres, tutores o tutoras legales o guardadores o guardadoras, así como la incorporación inmediata del alumnado, una vez finalizadas las obras y dotadas las aulas del equipamiento necesario para su apertura y puesta en funcionamiento. Las fechas previstas en el calendario correspondiente a este procedimiento extraordinario de admisión finalizan con la adjudicación definitiva de plazas y la presentación de recursos de alzada a las citadas listas, puesto que el periodo de la matriculación del alumnado, previamente admitido, se realizará en fechas diferentes dependiendo del centro educativo y la adecuación del aula, lo que será comunicado oportunamente a cada familia.
+Primero.- En la convocatoria del procedimiento de admisión del alumnado en centros docentes que ofertan enseñanzas de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato y Educación de Personas Adultas sostenidas con fondos públicos para el curso escolar 2024-2025, en la Comunidad Autónoma de Canarias, dictada mediante la [Resolución de 27 de febrero de 2024](R27_2_2024_dgacesc_dictan_instrucciones_proceso_admision_alumnado.md), se ofertaron plazas del primer ciclo de Educación Infantil. Sin embargo, con posterioridad se han convocado dos procedimientos extraordinarios de admisión para el alumnado del primer ciclo de Educación Infantil en determinados centros docentes dependientes de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, para el curso 2024-2025, mediante la Resolución de 24 de mayo de 2024, y mediante la Resolución de 4 de octubre de 2024. Segundo.- El proceso de creación de plazas del primer ciclo de Educación Infantil en centros docentes dependientes de esta Consejería de Educación, Formación Profesional, Actividad Física y Deportes del Gobierno de Canarias, que se encuentra en un continuo avance, trae como consecuencia que en estos momentos, y para el presente curso escolar 2024-2025, contemos con la apertura de nuevas aulas en determinados centros docentes. Por ello, es necesario regular y convocar un nuevo procedimiento extraordinario de admisión para estas nuevas aulas, que garantice el derecho a la educación, el acceso en condiciones de igualdad y la libertad de elección de centro por padres, madres, tutores o tutoras legales o guardadores o guardadoras, así como la incorporación inmediata del alumnado, una vez finalizadas las obras y dotadas las aulas del equipamiento necesario para su apertura y puesta en funcionamiento. Las fechas previstas en el calendario correspondiente a este procedimiento extraordinario de admisión finalizan con la adjudicación definitiva de plazas y la presentación de recursos de alzada a las citadas listas, puesto que el periodo de la matriculación del alumnado, previamente admitido, se realizará en fechas diferentes dependiendo del centro educativo y la adecuación del aula, lo que será comunicado oportunamente a cada familia.
 
 FUNDAMENTOS DE DERECHO
 Primero.- El [Decreto 9/2022](D9_2022_regula_admision_alumnado_centros_docentes_publicos.md), de 20 de enero, por el que se regula la admisión del alumnado en centros docentes que oferten enseñanzas no universitarias sostenidas con fondos públicos en la Comunidad Autónoma de Canarias, reglamento marco que establece, en nuestro ámbito autonómico de gestión, el procedimiento de admisión del alumnado en las distintas etapas o niveles educativos.
@@ -110,9 +112,7 @@ Para aplicar los criterios de baremación es necesario que la persona interesada
 
 #### Sexta. Aplicación de la letra resultante del sorteo público.
 
-En caso de necesidad de aplicación de la letra resultante del sorteo público como criterio de desempate, se aplicará la letra "U", de acuerdo con el resultado del sorteo efectuado en la sede de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios para el procedimiento de admisión convocado mediante Resolución de 27 de febrero de 2024.
-
-#### Séptima. Publicación de las listas de adjudicación provisional.
+En caso de necesidad de aplicación de la letra resultante del sorteo público como criterio de desempate, se aplicará la letra "U", de acuerdo con el resultado del sorteo efectuado en la sede de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios para el procedimiento de admisión convocado mediante Resolución de 27 de febrero de 2024. #### Séptima. Publicación de las listas de adjudicación provisional.
 
 Los centros publicarán las listas de participantes admitidos provisionalmente, no admitidos y excluidos, con indicación del motivo de la exclusión, en las fechas indicadas en la presente Resolución. Para la comprobación del desglose de la puntuación obtenida se deberá acudir al centro educativo.
 
@@ -197,8 +197,7 @@ Fdo.: Tutor, tutora, guardador o guardadora (en su caso)
 
 PROTECCIÓN DE DATOS: Tratamiento de datos de carácter personal:"Admisión del alumnado". Responsable del tratamiento: Consejería de Educación, Formación Profesional, Actividad Física y Deportes del Gobierno de Canarias. Finalidad del tratamiento: Gestionar la escolarización del alumnado que accede por primera vez a un centro público o privado concertado de enseñanzas no universitarias o que accede a enseñanzas postobligatorias. Legitimación:- Artículo 6.1.c) y e) del Reglamento UE 2016/679 General de Protección de Datos. -[Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación. [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria. Destinatarios de cesiones o transferencias: No hay cesiones. No hay transferencias internacionales previstas. Derechos de las personas interesadas: De acuerdo con el Reglamento General de Protección de Datos, podrá ejercer los derechos de acceso, rectificación, supresión, limitación y oposición del tratamiento, y a no ser objeto de decisiones individualizadas basadas únicamente en el tratamiento automatizado ante el centro docente al que vaya dirigida. Derecho a reclamar ante la autoridad de control (AEPD). Procedencia de los datos: El propio interesado o interesada o su representante legal. Información adicional:https://www.gobiernodecanarias.org/administracionespublicas/tratamientodedatos/tratamientos/eucd/ceucd/ Tratamiento de datos de carácter personal "Admisión del alumnado con prioridad por cambio de residencia derivado de actos de violencia de género". Responsable del tratamiento: Consejería de Educación, Formación Profesional, Actividad Física y Deportes del Gobierno de Canarias. Finalidad del tratamiento: Gestionar la escolarización del alumnado de enseñanzas no universitarias, en las condiciones establecidas en la normativa de admisión, ejerciendo su prioridad en el área de escolarización que corresponda al domicilio o al lugar de trabajo de alguno de sus padres, madres o tutores legales cuya escolarización en centros públicos y privados concertados venga motivada por traslado de la unidad familiar debido a un cambio de residencia derivado de actos de violencia de género. Legitimación:- Artículo 6.1.c) y e) del Reglamento UE 2016/679 General de Protección de Datos. -Ley Orgánica 2/2006, de 3 de mayo, de Educación. Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria.Destinatarios de cesiones o transferencias: No hay cesiones. No hay transferencias internacionales previstas.Derechos de las personas interesadas: De acuerdo con el Reglamento General de Protección de Datos, podrá ejercer los derechos de acceso, rectificación, supresión, limitación y oposición del tratamiento, y a no ser objeto de decisiones individualizadas basadas únicamente en el tratamiento automatizado ante el centro docente al que vaya dirigida. Derecho a reclamar ante la autoridad de control (AEPD). Procedencia de los datos: El propio interesado o interesada o su representante legal. Información adicional:
 https://www.gobiernodecanarias.org/administracionespublicas/tratamientodedatos/tratamientos/eucd/ceucd/ INSTRUCCIONES PARA CUMPLIMENTAR LA SOLICITUD Y DOCUMENTOS QUE SE DEBEN ADJUNTAR, EN SU CASO.
-- Este formulario se utilizará en procedimiento extraordinario para solicitar plaza en el primer ciclo de Educación Infantil en los centros indicados en la presente Resolución del Director General de Administración de Centros, Escolarización y Servicios Complementarios, por la que se dictan instrucciones específicas y se convoca el procedimiento extraordinario de admisión del alumnado del primer ciclo de Educación Infantil en centros docentes dependientes de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, para el curso 2024-2025.
-- La presentación de más de una solicitud, así como la falsedad de los datos aportados o documentos entregados, motivará la exclusión de la petición de centro.
+- Este formulario se utilizará en procedimiento extraordinario para solicitar plaza en el primer ciclo de Educación Infantil en los centros indicados en la presente Resolución del Director General de Administración de Centros, Escolarización y Servicios Complementarios, por la que se dictan instrucciones específicas y se convoca el procedimiento extraordinario de admisión del alumnado del primer ciclo de Educación Infantil en centros docentes dependientes de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, para el curso 2024-2025. - La presentación de más de una solicitud, así como la falsedad de los datos aportados o documentos entregados, motivará la exclusión de la petición de centro.
 (1) Debe indicar el centro educativo en el que quiere ser admitido, es decir, el centro donde se presenta el formulario. Sólo podrá indicar uno de los centros educativos para los que se ha convocado el procedimiento extraordinario de admisión.
 (2) Puede solicitarlo en el centro en el que ha solicitado la plaza escolar, si ya lo tuviera asignado.
 (3) Deberá indicarse la dirección completa (Nombre de la vía, nº, escalera, piso, puerta, etc. según corresponda), que alegue a efectos de baremación:

@@ -1,7 +1,9 @@
 ---
 id: norm-can-res-juriscan-72176-78
 codigo_sintetizado: Resolucion BOC 78
-titulo: Resolución de 18 de febrero de 2015, por la que se dispone la publicación del Reglamento de acceso a la Universidad de La Laguna para mayores de 25, 40 y 45 años.
+titulo: Resolución de 18 de febrero de 2015, por la que se dispone la publicación
+  del Reglamento de acceso a la Universidad de La Laguna para mayores de 25, 40 y
+  45 años.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General competente de la Consejería de Educación de Canarias
@@ -13,36 +15,36 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación de Personas Adultas
 tags:
-  - admision-alumnado
-  - bachillerato
-  - educaci-n-de-personas-adultas
-  - educacion-personas-adultas
-  - ensenanzas-artisticas
-  - evaluacion
-  - oposiciones
-  - procedimiento-administrativo
-  - titulacion
+- admision-alumnado
+- bachillerato
+- educaci-n-de-personas-adultas
+- educacion-personas-adultas
+- ensenanzas-artisticas
+- evaluacion
+- oposiciones
+- procedimiento-administrativo
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2014-6008
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2014-6008
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-2014-6008
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-2014-6008
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2015-040-837.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=72176
 ---
@@ -150,9 +152,7 @@ d) Las demás que se le atribuyen en el presente Reglamento.
 
 2. El CAM-25 es previo a la prueba de acceso y podrá ser cursado por aquellas personas que deseen realizar la misma y hayan efectuado la matrícula de la prueba en el período oficial establecido en la convocatoria.
 
-#### Artículo 13. Estructura del CAM-25.
-
-1. El CAM-25 consta de dos módulos temáticos, debiendo el alumno inscrito cursar las asignaturas asignadas a cada módulo.
+#### Artículo 13. Estructura del CAM-25. 1. El CAM-25 consta de dos módulos temáticos, debiendo el alumno inscrito cursar las asignaturas asignadas a cada módulo.
 
 2. El primer módulo temático estará directamente vinculado con la parte común de la prueba de acceso, y en él se cursarán tres asignaturas respectivamente relacionadas con comentario de texto o temas de actualidad, con la lengua castellana y con un idioma extranjero a elegir entre la oferta que al respecto realice la Universidad.
 
@@ -238,9 +238,7 @@ c) No poder acreditar experiencia laboral o profesional que habilite para el acc
 
 a establecer procedimientos adecuados para la selección de su alumnado, la Universidad de La Laguna organiza con carácter previo a la prueba el Curso de Acceso para Mayores de 45 años (CAM-45), que podrá ser cursado por aquellas personas que deseen realizar la misma y hayan efectuado la matrícula de la prueba en el período oficial establecido en la convocatoria.
 
-#### Artículo 22. Estructura del CAM-45.
-
-1. El CAM-45 consta de un módulo temático vinculado a la prueba general, cursando el alumnado dos asignaturas obligatorias: Comentario de texto o desarrollo de un tema general de actualidad y Lengua Castellana.
+#### Artículo 22. Estructura del CAM-45. 1. El CAM-45 consta de un módulo temático vinculado a la prueba general, cursando el alumnado dos asignaturas obligatorias: Comentario de texto o desarrollo de un tema general de actualidad y Lengua Castellana.
 
 2. El Plan de estudios, aprobado por la Comisión de Acceso para Mayores, determinará el número de créditos, con la especificación del trabajo autónomo del alumno y de las horas presenciales de docencia.
 

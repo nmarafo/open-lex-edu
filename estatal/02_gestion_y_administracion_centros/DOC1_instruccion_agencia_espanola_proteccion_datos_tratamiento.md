@@ -1,10 +1,13 @@
 ---
 id: norm-es-2006-21648
 codigo_sintetizado: BOE-A-2006-21648
-titulo: Instrucción 1/2006, de 8 de noviembre, de la Agencia Española de Protección de Datos, sobre el tratamiento de datos personales con fines de vigilancia a través de sistemas de cámaras o videocámaras.
+titulo: Instrucción 1/2006, de 8 de noviembre, de la Agencia Española de Protección
+  de Datos, sobre el tratamiento de datos personales con fines de vigilancia a través
+  de sistemas de cámaras o videocámaras.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2006-12-12'
 boletin: BOE
@@ -15,22 +18,18 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Protección de datos y seguridad de la información
 tags:
-  - protecci-n-de-datos-y-seguridad-de-la-informacion
-  - proteccion-menores
-  - rgpd
+- protecci-n-de-datos-y-seguridad-de-la-informacion
+- proteccion-menores
+- rgpd
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-d-81-2010
   articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-lo-2-2006
-  articulos:
-    - '120'
-    - norma_id: norm-es-1999-23750
+  - '120'
+  - norma_id: norm-es-1999-23750
 ---
 # Instrucción 1/2006, de 8 de noviembre, de la Agencia Española de Protección de Datos, sobre el tratamiento de datos personales con fines de vigilancia a través de sistemas de cámaras o videocámaras.
 

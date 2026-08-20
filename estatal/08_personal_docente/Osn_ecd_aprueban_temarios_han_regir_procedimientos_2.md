@@ -1,10 +1,14 @@
 ---
 id: norm-es-2015-9453
 codigo_sintetizado: BOE-A-2015-9453
-titulo: Orden ECD/1753/2015, de 25 de agosto, por la que se aprueban los temarios que han de regir en los procedimientos de ingreso, acceso y adquisición de nuevas especialidades en el Cuerpo de Profesores de Música y Artes Escénicas en las especialidades vinculadas a las enseñanzas de música y de danza.
+titulo: Orden ECD/1753/2015, de 25 de agosto, por la que se aprueban los temarios
+  que han de regir en los procedimientos de ingreso, acceso y adquisición de nuevas
+  especialidades en el Cuerpo de Profesores de Música y Artes Escénicas en las especialidades
+  vinculadas a las enseñanzas de música y de danza.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2015-08-28'
 boletin: BOE
@@ -15,38 +19,31 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Oposiciones y acceso
 tags:
-  - ebep
-  - ensenanzas-artisticas
-  - oposiciones
-  - oposiciones-y-acceso
-  - profesorado
+- ebep
+- ensenanzas-artisticas
+- oposiciones
+- oposiciones-y-acceso
+- profesorado
 relaciones:
   desarrolla:
-    - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rd-276-2007
   fundamentado_en:
-    - norma_id: norm-es-1984-17387
-    - norma_id: norm-es-2007-5478
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-2007-5478
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rdl-5-2015
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-es-lo-2-2006
-  articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-rdl-5-2015
-  articulos:
-    - '1'
-    - norma_id: norm-es-1984-17387
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2007-5478
-    - norma_id: norm-es-rd-276-2007
+  - '1'
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2007-5478
+  - norma_id: norm-es-rd-276-2007
 ---
 # Orden ECD/1753/2015, de 25 de agosto, por la que se aprueban los temarios que han de regir en los procedimientos de ingreso, acceso y adquisición de nuevas especialidades en el Cuerpo de Profesores de Música y Artes Escénicas en las especialidades vinculadas a las enseñanzas de música y de danza.
 

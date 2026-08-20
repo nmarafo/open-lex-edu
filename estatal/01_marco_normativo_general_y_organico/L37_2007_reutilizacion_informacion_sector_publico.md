@@ -1,10 +1,12 @@
 ---
 id: norm-es-2007-19814
 codigo_sintetizado: BOE-A-2007-19814
-titulo: Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público.
+titulo: Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del
+  sector público.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2007-11-17'
 boletin: BOE
@@ -15,30 +17,24 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Empleados públicos
 tags:
-  - empleados-p-blicos
-  - equipos-directivos
-  - transparencia
+- empleados-p-blicos
+- equipos-directivos
+- transparencia
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-3-2018
   fundamento_de:
-    - norma_id: norm-es-2011-17560
-    - norma_id: norm-es-l-19-2013
-    - norma_id: norm-es-l-9-2017
+  - norma_id: norm-es-2011-17560
+  - norma_id: norm-es-l-19-2013
+  - norma_id: norm-es-l-9-2017
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-es-l-39-2015
-  articulos:
-    - '1'
-    - norma_id: norm-es-lo-3-2018
-  articulos:
-    - '1'
-    - norma_id: norm-es-1999-23750
+  - '1'
+  - norma_id: norm-es-1999-23750
 ---
 # Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público.
 
@@ -82,9 +78,7 @@ Por último se establece para la Administración General del Estado un régimen 
 
 La presente Ley tiene carácter de legislación básica al amparo de lo dispuesto en el artículo 149.1.18.ª de la Constitución. Se exceptúa el artículo 11 y los.
 
-apartados 1 (párrafos segundo y tercero), 3 y 8 del artículo 10.
-
-En la elaboración de la ley se ha recabado el informe de la Agencia Española de Protección de Datos.
+apartados 1 (párrafos segundo y tercero), 3 y 8 del artículo 10. En la elaboración de la ley se ha recabado el informe de la Agencia Española de Protección de Datos.
 
 ## Título I
 
@@ -188,9 +182,7 @@ c) No deberán ser discriminatorias para categorías comparables de reutilizaci�
 
 Asimismo, las Administraciones y organismos del sector público adoptarán, en la medida de lo posible, las medidas adecuadas para facilitar que aquellos documentos destinados a personas con discapacidad estén disponibles en formatos que tengan en cuenta las posibilidades de reutilización por parte de dichas personas.
 
-No regirá esta obligación en los supuestos en los que dicha adecuación no constituya un ajuste razonable, entendiéndose por tal lo dispuesto en el artículo 7 de la ley 51/2003.
-
-#### Artículo 6. Prohibición de derechos exclusivos.
+No regirá esta obligación en los supuestos en los que dicha adecuación no constituya un ajuste razonable, entendiéndose por tal lo dispuesto en el artículo 7 de la ley 51/2003. #### Artículo 6. Prohibición de derechos exclusivos.
 
 1. La reutilización de documentos estará abierta a todos los agentes potenciales del mercado, incluso en caso de que uno o más de los agentes exploten ya productos con valor añadido basados en estos documentos. Los contratos o acuerdos de otro tipo entre los organismos del sector público que conserven los documentos y los terceros no otorgarán derechos exclusivos.
 
@@ -236,9 +228,7 @@ No obstante, cuando el órgano al que se ha dirigido la solicitud no posea la in
 
 Cuando ello no sea posible, informará directamente al solicitante sobre la Administración u organismo del sector público al que, según su conocimiento, ha de dirigirse para solicitar dicha información.
 
-2. La solicitud deberá reflejar el contenido previsto en el artículo 70.1 de la ley 30/1992, identificando el documento o documentos susceptibles de reutilización y especificando los fines, comerciales o no comerciales, de la reutilización. No obstante, cuando una solicitud esté formulada de manera imprecisa, el órgano competente pedirá al solicitante que la concrete y le indicará expresamente que si así no lo hiciera se le tendrá por desistido de su solicitud, en los términos previstos en el artículo 71 de la ley 30/1992.
-
-El solicitante deberá concretar su petición en el plazo de diez días a contar desde el día siguiente al de la recepción de dicho requerimiento. A estos efectos, el órgano competente asistirá al solicitante para delimitar el contenido de la información solicitada.
+2. La solicitud deberá reflejar el contenido previsto en el artículo 70.1 de la ley 30/1992, identificando el documento o documentos susceptibles de reutilización y especificando los fines, comerciales o no comerciales, de la reutilización. No obstante, cuando una solicitud esté formulada de manera imprecisa, el órgano competente pedirá al solicitante que la concrete y le indicará expresamente que si así no lo hiciera se le tendrá por desistido de su solicitud, en los términos previstos en el artículo 71 de la ley 30/1992. El solicitante deberá concretar su petición en el plazo de diez días a contar desde el día siguiente al de la recepción de dicho requerimiento. A estos efectos, el órgano competente asistirá al solicitante para delimitar el contenido de la información solicitada.
 
 El cómputo del plazo para resolver la solicitud de información se entenderá suspendido por el tiempo que medie entre la notificación del requerimiento y su efectivo cumplimiento por el destinatario o, en su defecto, por el transcurso del plazo concedido, informándose al solicitante de la suspensión del plazo para resolver.
 
@@ -312,15 +302,11 @@ El Gobierno, a propuesta de los Ministerios competentes, desarrollará planes y 
 
 Los acuerdos exclusivos existentes a los que no se aplique la excepción contemplada en el artículo 6 concluirán.
 
-cuando expire el contrato y, en cualquier caso, no más tarde del 31 de diciembre de 2008.
-
-#### Disposición final primera. Fundamento constitucional.
+cuando expire el contrato y, en cualquier caso, no más tarde del 31 de diciembre de 2008. #### Disposición final primera. Fundamento constitucional.
 
 La presente ley tiene carácter de legislación básica al amparo de lo dispuesto en el artículo 149.1.18.ª de la Constitución. Se exceptúa el artículo 11 y los.
 
-apartados 1 (párrafos segundo y tercero), 3 y 8 del artículo 10.
-
-#### Disposición final segunda. Desarrollo reglamentario.
+apartados 1 (párrafos segundo y tercero), 3 y 8 del artículo 10. #### Disposición final segunda. Desarrollo reglamentario.
 
 El Gobierno, en el ámbito de sus competencias, dictará cuantas disposiciones sean necesarias para la ejecución y desarrollo de lo establecido en esta ley.
 
@@ -330,9 +316,7 @@ Por tanto,
 
 Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
 
-Madrid, 16 de noviembre de 2007.
-
-JUAN CARLOS R.
+Madrid, 16 de noviembre de 2007. JUAN CARLOS R.
 
 El Presidente del Gobierno,
 

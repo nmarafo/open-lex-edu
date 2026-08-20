@@ -1,10 +1,12 @@
 ---
 id: norm-and-d-213-1995
 codigo_sintetizado: D213_1995 Reglamento AMPAs Andalucía
-titulo: Decreto 213/1995, de 12 de septiembre, por el que se regulan las Asociaciones de Padres y Madres del Alumnado.
+titulo: Decreto 213/1995, de 12 de septiembre, por el que se regulan las Asociaciones
+  de Padres y Madres del Alumnado.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 213/1995
 fecha_disposicion: '1995-09-12'
@@ -18,17 +20,17 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Participación educativa
 tags:
-  - ampa
-  - familias
-  - participacion_educativa
-  - andalucia
+- ampa
+- familias
+- participacion_educativa
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Decreto 213/1995, de 12 de septiembre, por el que se regulan las Asociaciones de Padres y Madres del Alumnado.
 

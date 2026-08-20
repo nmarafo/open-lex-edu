@@ -1,10 +1,14 @@
 ---
 id: norm-and-o-20-8-2010
 codigo_sintetizado: O20_8_2010 Instrucciones Organizacion Funcionamiento CEIP Andalucia
-titulo: Orden de 20 de agosto de 2010, por la que se regulan la organización y el funcionamiento de las escuelas infantiles de segundo ciclo, de los colegios de educación primaria, de los colegios de educación infantil y primaria y de los centros específicos de educación especial.
+titulo: Orden de 20 de agosto de 2010, por la que se regulan la organización y el
+  funcionamiento de las escuelas infantiles de segundo ciclo, de los colegios de educación
+  primaria, de los colegios de educación infantil y primaria y de los centros específicos
+  de educación especial.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 20/08/2010
 fecha_disposicion: '2010-08-20'
@@ -18,19 +22,19 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Organización de centros
 tags:
-  - instrucciones_ceip
-  - organizacion_escolar
-  - horario_lectivo
-  - pga
-  - andalucia
+- instrucciones_ceip
+- organizacion_escolar
+- horario_lectivo
+- pga
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
 ---
 # Orden de 20 de agosto de 2010, por la que se regulan la organización y el funcionamiento de las escuelas infantiles de segundo ciclo, de los colegios de educación primaria, de los colegios de educación infantil y primaria y de los centros específicos de educación especial.
 
@@ -220,9 +224,7 @@ c) En los institutos de educación secundaria que impartan, al menos, bachillera
 
 3. La asistencia a las reuniones previstas en el artículo 13.4.a) por parte de este profesorado se hará, con carácter general, al centro donde imparta más horas de docencia.
 
-4. El profesorado que comparte centro quedará exento del cuidado y vigilancia de los recreos, salvo que sea absolutamente necesaria su colaboración para alcanzar la relación de profesorado de guardia por grupo de alumnos y alumnas a que se refiere el artículo 18.3.
-
-## Capítulo V. Otras disposiciones.
+4. El profesorado que comparte centro quedará exento del cuidado y vigilancia de los recreos, salvo que sea absolutamente necesaria su colaboración para alcanzar la relación de profesorado de guardia por grupo de alumnos y alumnas a que se refiere el artículo 18.3. ## Capítulo V. Otras disposiciones.
 
 #### Artículo 17. Profesorado.
 
@@ -236,8 +238,7 @@ b) La realización, en colaboración con el profesorado de la materia encargado 
 
 Página núm. 8 Sevilla, 30 de agosto 2010
 c) La elaboración y adaptación de material didáctico para la atención educativa especializada del alumnado con necesidades educativas especiales, así como la orientación al resto del profesorado para la adaptación de los materiales curriculares y de apoyo.
-d) La tutoría del alumnado con necesidades educativas especiales al que imparte docencia, en los términos previstos en el apartado 3.
-e) La coordinación con los profesionales de la orientación educativa, con el personal de atención educativa complementaria y con otros profesionales que participen en el proceso educativo del alumnado con necesidades educativas especiales.
+d) La tutoría del alumnado con necesidades educativas especiales al que imparte docencia, en los términos previstos en el apartado 3. e) La coordinación con los profesionales de la orientación educativa, con el personal de atención educativa complementaria y con otros profesionales que participen en el proceso educativo del alumnado con necesidades educativas especiales.
 
 2. La atención al alumnado con necesidades educativas especiales escolarizado en grupos ordinarios con apoyos en periodos variables se llevará a cabo, preferentemente, en dicho grupo. No obstante, podrán desarrollarse intervenciones específicas individuales o grupales fuera del aula ordinaria cuando se considere necesario.
 

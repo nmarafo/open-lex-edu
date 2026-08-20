@@ -1,7 +1,11 @@
 ---
 id: norm-can-res-033
 codigo_sintetizado: Resolucion BOC 33
-titulo: Resolución de 25 de febrero de 2026, por la que se establece la distribución horaria y estructura modular de los Grados C (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y 3, de la familia profesional de Hostelería y Turismo, en el ámbito de la Comunidad Autónoma de Canarias.
+titulo: Resolución de 25 de febrero de 2026, por la que se establece la distribución
+  horaria y estructura modular de los Grados C (Certificados Profesionales) y sus
+  correspondientes Grados B (Certificados de Competencia), de niveles 2 y 3, de la
+  familia profesional de Hostelería y Turismo, en el ámbito de la Comunidad Autónoma
+  de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General competente de la Consejería de Educación de Canarias
@@ -13,62 +17,62 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-  - curriculo
-  - ensenanzas-artisticas
-  - ensenanzas-deportivas
-  - formacion-profesional
-  - orientacion-educativa
-  - personal-no-docente
+- curriculo
+- ensenanzas-artisticas
+- ensenanzas-deportivas
+- formacion-profesional
+- orientacion-educativa
+- personal-no-docente
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-can-res-032
-    - norma_id: norm-can-res-034
-    - norma_id: norm-can-res-035
-    - norma_id: norm-can-res-036
-    - norma_id: norm-can-res-037
-    - norma_id: norm-can-res-038
-    - norma_id: norm-can-res-039
-    - norma_id: norm-can-res-134
-    - norma_id: norm-can-res-boc-2024-226-44
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-es-2025-2039
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-res-032
+  - norma_id: norm-can-res-034
+  - norma_id: norm-can-res-035
+  - norma_id: norm-can-res-036
+  - norma_id: norm-can-res-037
+  - norma_id: norm-can-res-038
+  - norma_id: norm-can-res-039
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-2025-2039
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
-    - norma_id: norm-can-res-032
-    - norma_id: norm-can-res-034
-    - norma_id: norm-can-res-035
-    - norma_id: norm-can-res-036
-    - norma_id: norm-can-res-037
-    - norma_id: norm-can-res-038
-    - norma_id: norm-can-res-039
+  - norma_id: norm-can-res-032
+  - norma_id: norm-can-res-034
+  - norma_id: norm-can-res-035
+  - norma_id: norm-can-res-036
+  - norma_id: norm-can-res-037
+  - norma_id: norm-can-res-038
+  - norma_id: norm-can-res-039
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-can-res-134
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-2025-2039
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-can-res-034
-    - norma_id: norm-can-res-035
-    - norma_id: norm-can-res-036
-    - norma_id: norm-can-res-037
-    - norma_id: norm-can-res-038
-    - norma_id: norm-can-res-039
-    - norma_id: norm-can-res-032
-    - norma_id: norm-can-res-boc-2024-226-44
+  - '1'
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-134
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-2025-2039
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-can-res-034
+  - norma_id: norm-can-res-035
+  - norma_id: norm-can-res-036
+  - norma_id: norm-can-res-037
+  - norma_id: norm-can-res-038
+  - norma_id: norm-can-res-039
+  - norma_id: norm-can-res-032
+  - norma_id: norm-can-res-boc-2024-226-44
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-046-748.pdf
 ---
 # Resolución de 25 de febrero de 2026, por la que se establece la distribución horaria y estructura modular de los Grados C (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y 3, de la familia profesional de Hostelería y Turismo, en el ámbito de la Comunidad Autónoma de Canarias.

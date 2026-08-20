@@ -1,9 +1,12 @@
 ---
 id: norm-mad-o2532-2022
-titulo: Orden 2532/2022, de 29 de agosto, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se regula la formación de listas de aspirantes a interinidades en cuerpos docentes no universitarios
+titulo: Orden 2532/2022, de 29 de agosto, de la Consejería de Educación, Universidades,
+  Ciencia y Portavocía, por la que se regula la formación de listas de aspirantes
+  a interinidades en cuerpos docentes no universitarios
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
 numero_disposicion: 2532/2022
 fecha_disposicion: '2022-08-29'
@@ -16,21 +19,21 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Personal interino
 tags:
-  - interinos
-  - listas_aspirantes
-  - madrid
+- interinos
+- listas_aspirantes
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-mad-d-29-2013
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/07/BOCM-20220907-1.PDF
 ---
 # Orden 2532/2022, de 29 de agosto, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se regula la formación de listas de aspirantes a interinidades en cuerpos docentes no universitarios

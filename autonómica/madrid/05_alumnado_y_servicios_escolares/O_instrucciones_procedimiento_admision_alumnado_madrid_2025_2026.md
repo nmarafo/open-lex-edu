@@ -1,10 +1,14 @@
 ---
 id: norm-mad-o-admision-alumnado-2025-2026
 codigo_sintetizado: O_Instrucciones Admision Alumnado 2025-2026 Madrid
-titulo: Orden por la que se dictan instrucciones sobre el proceso de admisión de alumnos en centros docentes sostenidos con fondos públicos que imparten segundo ciclo de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria y Bachillerato para el curso 2025-2026.
+titulo: Orden por la que se dictan instrucciones sobre el proceso de admisión de alumnos
+  en centros docentes sostenidos con fondos públicos que imparten segundo ciclo de
+  Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria y Bachillerato
+  para el curso 2025-2026.
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
 numero_disposicion: Admisión 2025-2026
 fecha_disposicion: '2025-02-10'
@@ -18,22 +22,20 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión de alumnado
 tags:
-  - admision
-  - escolarizacion
-  - matriculacion
-  - curso_2025_2026
-  - madrid
+- admision
+- escolarizacion
+- matriculacion
+- curso_2025_2026
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-mad-d-29-2013
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
-# Orden por la que se dictan instrucciones sobre el proceso de admisión de alumnos en centros docentes sostenidos con fondos públicos que imparten segundo ciclo de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria y Bachillerato para el curso 2025-2026.
-
-## Preámbulo
+# Orden por la que se dictan instrucciones sobre el proceso de admisión de alumnos en centros docentes sostenidos con fondos públicos que imparten segundo ciclo de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria y Bachillerato para el curso 2025-2026. ## Preámbulo
 
 El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.
 
@@ -45,9 +47,7 @@ DISPONGO:
 
 #### Artículo 1. Objeto y ámbito de aplicación.
 
-1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Orden Admisión 2025-2026.
-
-2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Madrid.
+1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Orden Admisión 2025-2026. 2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Madrid.
 
 #### Artículo 2. Principios generales de actuación.
 
@@ -67,8 +67,6 @@ Las Administraciones educativas proveerán los recursos materiales, organizativo
 
 #### Disposición final primera. Habilitación para el desarrollo normativo.
 
-Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Orden Admisión 2025-2026.
-
-#### Disposición final segunda. Entrada en vigor.
+Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Orden Admisión 2025-2026. #### Disposición final segunda. Entrada en vigor.
 
 La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

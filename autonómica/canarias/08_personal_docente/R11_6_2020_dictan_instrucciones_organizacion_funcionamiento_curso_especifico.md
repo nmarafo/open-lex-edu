@@ -1,7 +1,10 @@
 ---
 id: norm-can-res-boc-2020-130-131
 codigo_sintetizado: Resolucion BOC 131
-titulo: Resolución de 11 de junio de 2020, por la que se dictan instrucciones para la organización y el funcionamiento del Curso Específico de Acceso a Ciclos Formativos de Formación Profesional de Grado Medio a impartir en centros de educación de personas adultas dependientes de esta Consejería (BOC n.º 130, de 30 de junio).
+titulo: Resolución de 11 de junio de 2020, por la que se dictan instrucciones para
+  la organización y el funcionamiento del Curso Específico de Acceso a Ciclos Formativos
+  de Formación Profesional de Grado Medio a impartir en centros de educación de personas
+  adultas dependientes de esta Consejería (BOC n.º 130, de 30 de junio).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,33 +16,33 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Formación del profesorado
 tags:
-  - educacion-personas-adultas
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - formacion-del-profesorado
-  - formacion-profesional
-  - grado-medio
-  - oposiciones
+- educacion-personas-adultas
+- ensenanzas-deportivas
+- equipos-directivos
+- formacion-del-profesorado
+- formacion-profesional
+- grado-medio
+- oposiciones
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-135-2016
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rdl-5-2015
   desarrolla:
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-d-135-2016
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2020-130-2054.pdf
 ---
 # Resolución de 11 de junio de 2020, por la que se dictan instrucciones para la organización y el funcionamiento del Curso Específico de Acceso a Ciclos Formativos de Formación Profesional de Grado Medio a impartir en centros de educación de personas adultas dependientes de esta Consejería (BOC n.º 130, de 30 de junio).
@@ -150,9 +153,7 @@ Durante el primer mes del curso, con el fin de fomentar el conocimiento del alum
 ÁMBITO HORAS SEMANALES RÉGIMEN SEMIPRESENCIAL HORAS PRESENCIALES HORAS ONLINE Ámbito de comunicación (ACO) 6 3 3 Ámbito social (ASO) 4 2 2 Ámbito científico tecnológico (ACT) 7 4 3 Tutoría, convivencia e integración (TCI) 1 1 0 TOTAL 18 10 8 Durante el primer mes del curso, con el fin de fomentar el conocimiento del alumnado y su entrenamiento en el uso de los recursos digitales para el posterior desarrollo online, toda la actividad lectiva (18 horas) se impartirá presencialmente. A partir de ese mes, se comenzarán a impartir 10 horas presenciales y 8 online. Asimismo, durante este mes, se impartirán una serie de talleres sobre convivencia, habilidades B. Régimen presencial En este caso, la distribución horaria de los ámbitos será la siguiente:
 No obstante, durante el primer mes, también se desarrollarán los talleres indicados para el régimen semipresencial en el punto 4.2.A) y con la misma distribución horaria.
 
-**4.3.** Ratio. La ratio mínima será de 20 alumnos/as y la máxima de 25.
-
-**4.4.** Centros en los que se imparte. Estos cursos se impartirán en los centros de educación de personas adultas (CEPA) que la Dirección General de Formación Profesional y Educación de Adultos establezca en la planificación anual.
+**4.3.** Ratio. La ratio mínima será de 20 alumnos/as y la máxima de 25. **4.4.** Centros en los que se imparte. Estos cursos se impartirán en los centros de educación de personas adultas (CEPA) que la Dirección General de Formación Profesional y Educación de Adultos establezca en la planificación anual.
 
 **4.5.** Profesorado. El profesorado con nombramiento en los centros será el encargado de impartir aquellos ámbitos cuya atribución docente tenga reconocida. En la medida de lo posible, cada ámbito será impartido por un único docente. sociales, valores, técnicas de estudio, etc. Dichos talleres, tendrán una duración de 8 horas, en su totalidad, y serán impartidos por profesorado y/o expertos en esas materias. Para el desarrollo de los anteriores talleres, se reorganizará el horario de los ámbitos en la forma que se indica a continuación:
 ÁMBITO HORAS SEMANALES 1ª SEMANA 2ª SEMANA 3ª SEMANA 4ª SEMANA Ámbito de comunicación (ACO) 6 5 6 6 Ámbito social (ASO) 4 4 3 4 Ámbito científico tecnológico (ACT) 6 7 7 6 Tutoría, convivencia e integración (TCI) 2 2 2 2 TOTAL 18 18 18 18 B. Régimen presencial En este caso, la distribución horaria de los ámbitos será la siguiente:
@@ -169,9 +170,7 @@ No obstante, durante el primer mes, también se desarrollarán los talleres indi
 
 5. CURRICULO, PROGRAMACIÓN Y EV ALUACIÓN.
 
-**5.1.** Curriculo. El curriculo de referencia para la organización del curso se centrará en las competencias de la Educación Secundaria Obligatoria (ESO). Asimismo, se centrará en los aspectos esenciales (criterios de evaluación, estándares de aprendizaje, contenidos, etc.) de los curriculos de las materias de la ESO. En cualquier caso, el curriculo tendrá por objeto acreditar la adquisición de las competencias recogidas en el Anexo II del Real Decreto 1147/2011, de 29 de julio, según se establece en su artículo 21.
-
-**5.2.** Programación. Las programaciones didácticas de los ámbitos se adecuarán al nivel de competencia curricular, a las características del alumnado y a la asignación horaria de los ámbitos. Las programaciones deberán incluir, como mínimo, los siguientes apartados:
+**5.1.** Curriculo. El curriculo de referencia para la organización del curso se centrará en las competencias de la Educación Secundaria Obligatoria (ESO). Asimismo, se centrará en los aspectos esenciales (criterios de evaluación, estándares de aprendizaje, contenidos, etc.) de los curriculos de las materias de la ESO. En cualquier caso, el curriculo tendrá por objeto acreditar la adquisición de las competencias recogidas en el Anexo II del Real Decreto 1147/2011, de 29 de julio, según se establece en su artículo 21. **5.2.** Programación. Las programaciones didácticas de los ámbitos se adecuarán al nivel de competencia curricular, a las características del alumnado y a la asignación horaria de los ámbitos. Las programaciones deberán incluir, como mínimo, los siguientes apartados:
 • Relación entre los criterios de evaluación, contenidos, estándares de aprendizaje y competencias clave.
 • La metodología que se va a aplicar.
 

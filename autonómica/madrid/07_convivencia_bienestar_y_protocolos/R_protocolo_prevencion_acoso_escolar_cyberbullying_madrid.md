@@ -1,10 +1,12 @@
 ---
 id: norm-mad-r-acoso-2022
 codigo_sintetizado: R_2022 Protocolo Prevencion Acoso Escolar y Cyberbullying Madrid
-titulo: Resolución de 14 de octubre de 2022, por la que se aprueba el Protocolo de Actuación ante Situaciones de Acoso Escolar en Madrid.
+titulo: Resolución de 14 de octubre de 2022, por la que se aprueba el Protocolo de
+  Actuación ante Situaciones de Acoso Escolar en Madrid.
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Resolución
 numero_disposicion: 14/10/2022
 fecha_disposicion: '2022-10-14'
@@ -18,19 +20,19 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Convivencia y protocolos
 tags:
-  - acoso_escolar
-  - cyberbullying
-  - protocolo_acoso
-  - madrid
+- acoso_escolar
+- cyberbullying
+- protocolo_acoso
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
   fundamentado_en:
-    - norma_id: norm-mad-d-29-2013
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-8-2021
-    - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-lo-1-1996
 ---
 # Resolución de 14 de octubre de 2022, por la que se aprueba el Protocolo de Actuación ante Situaciones de Acoso Escolar en Madrid.
 
@@ -46,9 +48,7 @@ DISPONGO:
 
 #### Artículo 1. Objeto y ámbito de aplicación.
 
-1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Resolución 14/10/2022.
-
-2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Madrid.
+1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Resolución 14/10/2022. 2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Madrid.
 
 #### Artículo 2. Principios generales de actuación.
 
@@ -68,8 +68,6 @@ Las Administraciones educativas proveerán los recursos materiales, organizativo
 
 #### Disposición final primera. Habilitación para el desarrollo normativo.
 
-Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Resolución 14/10/2022.
-
-#### Disposición final segunda. Entrada en vigor.
+Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Resolución 14/10/2022. #### Disposición final segunda. Entrada en vigor.
 
 La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

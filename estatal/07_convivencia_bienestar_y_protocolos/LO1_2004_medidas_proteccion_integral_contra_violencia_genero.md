@@ -1,7 +1,8 @@
 ---
 id: norm-es-lo-1-2004
 codigo_sintetizado: LO1_2004 Proteccion Integral contra la Violencia de Genero
-titulo: Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
+titulo: Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral
+  contra la Violencia de Género.
 jurisdiccion: España
 ambito: Estatal
 organo_emisor: Jefatura del Estado / Cortes Generales
@@ -18,42 +19,42 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Protocolos de actuación y protección
 tags:
-  - convivencia-escolar
-  - igualdad
-  - igualdad-genero
-  - personal-no-docente
-  - proteccion-menores
-  - proteccion-victimas
-  - protocolos-de-actuaci-n-y-protecci-n
-  - violencia-genero
+- convivencia-escolar
+- igualdad
+- igualdad-genero
+- personal-no-docente
+- proteccion-menores
+- proteccion-victimas
+- protocolos-de-actuaci-n-y-protecci-n
+- violencia-genero
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-1984-17387
-    - norma_id: norm-es-1995-25444
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-1995-25444
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-8-1985
   fundamento_de:
-    - norma_id: norm-es-2010-4518
-    - norma_id: norm-es-2012-9364
-    - norma_id: norm-es-2015-8222
-    - norma_id: norm-es-2015-8470
-    - norma_id: norm-es-2022-11589
-    - norma_id: norm-es-2024-11613
-    - norma_id: norm-es-lo-10-2022
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-8-2021
-    - norma_id: norm-can-o-2023-09-28
+  - norma_id: norm-es-2010-4518
+  - norma_id: norm-es-2012-9364
+  - norma_id: norm-es-2015-8222
+  - norma_id: norm-es-2015-8470
+  - norma_id: norm-es-2022-11589
+  - norma_id: norm-es-2024-11613
+  - norma_id: norm-es-lo-10-2022
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-can-o-2023-09-28
   desarrollado_por:
-    - norma_id: norm-can-l-16-2003
+  - norma_id: norm-can-l-16-2003
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '14'
-    - norma_id: norm-es-1984-17387
-    - norma_id: norm-es-1995-25444
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-lo-8-1985
+  - '14'
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-1995-25444
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-lo-8-1985
 ---
 # Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
 
@@ -263,9 +264,7 @@ Los servicios de inspección educativa velarán por el cumplimiento y aplicació
 
 De acuerdo con lo establecido en la Ley 34/1988, de 11 de noviembre, General de Publicidad, se considerará ilícita la publicidad que utilice la imagen de la mujer con carácter vejatorio o discriminatorio.
 
-#### Artículo 11.
-
-El Ente público al que corresponda velar para que los medios audiovisuales cumplan sus obligaciones adoptará las medidas que procedan para asegurar un tratamiento de la mujer conforme con los principios y valores constitucionales, sin perjuicio de las posibles actuaciones por parte de otras entidades.
+#### Artículo 11. El Ente público al que corresponda velar para que los medios audiovisuales cumplan sus obligaciones adoptará las medidas que procedan para asegurar un tratamiento de la mujer conforme con los principios y valores constitucionales, sin perjuicio de las posibles actuaciones por parte de otras entidades.
 
 #### Artículo 12. Titulares de la acción de cesación y rectificación.
 
@@ -277,9 +276,7 @@ La Delegación Especial del Gobierno contra la Violencia sobre la Mujer , el Ins
 
 2. La Administración pública promoverá acuerdos de autorregulación que, contando con mecanismos de control preventivo y de resolución extrajudicial de controversias eficaces, contribuyan al cumplimiento de la legislación publicitaria.
 
-#### Artículo 14.
-
-Los medios de comunicación fomentarán la protección y salvaguarda de la igualdad entre hombre y mujer, evitando toda discriminación entre ellos.
+#### Artículo 14. Los medios de comunicación fomentarán la protección y salvaguarda de la igualdad entre hombre y mujer, evitando toda discriminación entre ellos.
 
 La difusión de informaciones relativas a la violencia sobre la mujer garantizará, con la correspondiente objetividad informativa, la defensa de los derechos humanos, la libertad y dignidad de las mujeres víctimas de violencia y de sus hijos. En particular, se tendrá especial cuidado en el tratamiento gráfico de las informaciones.
 
@@ -403,9 +400,7 @@ Las ausencias totales o parciales al trabajo motivadas por la situación física
 
 #### Artículo 26. Acreditación de las situaciones de violencia de género ejercida sobre las funcionarias.
 
-La acreditación de las circunstancias que dan lugar al reconocimiento de los derechos de movilidad geográfica de centro de trabajo, excedencia, y reducción o reordenación del tiempo de trabajo, se realizará en los términos establecidos en el artículo 23.
-
-## Capítulo IV. Derechos económicos.
+La acreditación de las circunstancias que dan lugar al reconocimiento de los derechos de movilidad geográfica de centro de trabajo, excedencia, y reducción o reordenación del tiempo de trabajo, se realizará en los términos establecidos en el artículo 23. ## Capítulo IV. Derechos económicos.
 
 #### Artículo 27. Ayudas sociales.
 
@@ -797,9 +792,7 @@ Se modifica el artículo 14 de la Ley de Enjuiciamiento Criminal, que queda reda
 
 2. Para la instrucción de las causas, el Juez de Instrucción del partido en que el delito se hubiere cometido, o el Juez de Violencia sobre la Mujer, o el Juez Central de Instrucción respecto de los delitos que la Ley determine.
 
-3. Para el conocimiento y fallo de las causas por delitos a los que la Ley señale pena privativa de libertad de duración no superior a cinco años o pena de multa cualquiera que sea su cuantía, o cualesquiera otras de distinta naturaleza, bien sean únicas, conjuntas o alternativas, siempre que la duración de éstas no exceda de diez años, así como por faltas, sean o no incidentales, imputables a los autores de estos delitos o a otras personas, cuando la comisión de la falta o su prueba estuviesen relacionadas con aquéllos, el Juez de lo Penal de la circunscripción donde el delito fue cometido, o el Juez de lo Penal correspondiente a la circunscripción del Juzgado de Violencia sobre la Mujer en su caso, o el Juez Central de lo Penal en el ámbito que le es propio, sin perjuicio de la competencia del Juez de Instrucción de Guardia del lugar de comisión del delito para dictar sentencia de conformidad, o del Juez de Violencia sobre la Mujer competente en su caso, en los términos establecidos en el artículo 801.
-
-No obstante, en los supuestos de competencia del Juez de lo Penal, si el delito fuere de los atribuidos al Tribunal del Jurado, el conocimiento y fallo corresponderá a éste.
+3. Para el conocimiento y fallo de las causas por delitos a los que la Ley señale pena privativa de libertad de duración no superior a cinco años o pena de multa cualquiera que sea su cuantía, o cualesquiera otras de distinta naturaleza, bien sean únicas, conjuntas o alternativas, siempre que la duración de éstas no exceda de diez años, así como por faltas, sean o no incidentales, imputables a los autores de estos delitos o a otras personas, cuando la comisión de la falta o su prueba estuviesen relacionadas con aquéllos, el Juez de lo Penal de la circunscripción donde el delito fue cometido, o el Juez de lo Penal correspondiente a la circunscripción del Juzgado de Violencia sobre la Mujer en su caso, o el Juez Central de lo Penal en el ámbito que le es propio, sin perjuicio de la competencia del Juez de Instrucción de Guardia del lugar de comisión del delito para dictar sentencia de conformidad, o del Juez de Violencia sobre la Mujer competente en su caso, en los términos establecidos en el artículo 801. No obstante, en los supuestos de competencia del Juez de lo Penal, si el delito fuere de los atribuidos al Tribunal del Jurado, el conocimiento y fallo corresponderá a éste.
 
 4. Para el conocimiento y fallo de las causas en los demás casos la Audiencia Provincial de la circunscripción donde el delito se haya cometido, o la Audiencia Provincial correspondiente a la circunscripción del Juzgado de Violencia sobre la Mujer en su caso, o la Sala de lo Penal de la Audiencia Nacional.
 
@@ -1197,9 +1190,7 @@ Las funcionarias víctimas de violencia sobre la mujer, para hacer efectiva su p
 
 Uno. Se modifica el apartado segundo del artículo 26 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, que queda redactado de la siguiente forma:
 
-«Artículo 26.
-
-Juzgados de Primera Instancia e Instrucción, de lo Mercantil, de Violencia sobre la Mujer, de lo Penal, de lo Contencioso-Administrativo, de lo Social, de Menores y de Vigilancia Penitenciaria.»
+«Artículo 26. Juzgados de Primera Instancia e Instrucción, de lo Mercantil, de Violencia sobre la Mujer, de lo Penal, de lo Contencioso-Administrativo, de lo Social, de Menores y de Vigilancia Penitenciaria.»
 
 Dos. Se modifica la rúbrica del capítulo V del título IV del libro I de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, que queda redactada de la siguiente forma:
 
@@ -1207,9 +1198,7 @@ Dos. Se modifica la rúbrica del capítulo V del título IV del libro I de la Le
 
 Tres. Se modifica el apartado 1 del artículo 87 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, que queda redactado de la siguiente forma:
 
-«Artículo 87.
-
-1. Los Juzgados de Instrucción conocerán, en el orden penal:
+«Artículo 87. 1. Los Juzgados de Instrucción conocerán, en el orden penal:
 
 a) De la instrucción de las causas por delito cuyo enjuiciamiento corresponda a las Audiencias Provinciales y a los Juzgados de lo Penal, excepto de aquellas causas que sean competencia de los Juzgados de Violencia sobre la Mujer.
 
@@ -1333,9 +1322,7 @@ Por tanto,
 
 Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley orgánica.
 
-Madrid, 28 de diciembre de 2004.
-
-JUAN CARLOS R.
+Madrid, 28 de diciembre de 2004. JUAN CARLOS R.
 
 El Presidente del Gobierno,
 

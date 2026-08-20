@@ -19,196 +19,190 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Marco normativo general
 tags:
-  - ensenanzas-universitarias
-  - ley-canaria-educacion
-  - marco-general
-  - marco-normativo-general
-  - personal-no-docente
-  - titulacion
+- ensenanzas-universitarias
+- ley-canaria-educacion
+- marco-general
+- marco-normativo-general
+- personal-no-docente
+- titulacion
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
   desarrollado_por:
-    - norma_id: norm-can-d-109-1999
-    - norma_id: norm-can-d-114-2011
-    - norma_id: norm-can-d-135-2016
-    - norma_id: norm-can-d-40-2005
-    - norma_id: norm-can-d-82-1994
-    - norma_id: norm-can-o-25-2-2003
+  - norma_id: norm-can-d-109-1999
+  - norma_id: norm-can-d-114-2011
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-d-40-2005
+  - norma_id: norm-can-d-82-1994
+  - norma_id: norm-can-o-25-2-2003
   fundamentado_en:
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
   fundamento_de:
-    - norma_id: norm-can-d-101-2023
-    - norma_id: norm-can-d-102-2023
-    - norma_id: norm-can-d-103-2023
-    - norma_id: norm-can-d-106-2009
-    - norma_id: norm-can-d-196-2022
-    - norma_id: norm-can-d-23-1995
-    - norma_id: norm-can-d-234-1996
-    - norma_id: norm-can-d-25-2018
-    - norma_id: norm-can-d-276-1997
-    - norma_id: norm-can-d-52-2009
-    - norma_id: norm-can-d-81-2010
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-d-9-2022
-    - norma_id: norm-can-o-2-8-2006
-    - norma_id: norm-can-o-7-6-2007
-    - norma_id: norm-can-res-014
-    - norma_id: norm-can-res-027
-    - norma_id: norm-can-res-028
-    - norma_id: norm-can-res-030
-    - norma_id: norm-can-res-032
-    - norma_id: norm-can-res-033
-    - norma_id: norm-can-res-034
-    - norma_id: norm-can-res-035
-    - norma_id: norm-can-res-036
-    - norma_id: norm-can-res-037
-    - norma_id: norm-can-res-038
-    - norma_id: norm-can-res-039
-    - norma_id: norm-can-res-040
-    - norma_id: norm-can-res-042
-    - norma_id: norm-can-res-043
-    - norma_id: norm-can-res-053
-    - norma_id: norm-can-res-055
-    - norma_id: norm-can-res-059
-    - norma_id: norm-can-res-063
-    - norma_id: norm-can-res-086
-    - norma_id: norm-can-res-090
-    - norma_id: norm-can-res-095
-    - norma_id: norm-can-res-096
-    - norma_id: norm-can-res-097
-    - norma_id: norm-can-res-098
-    - norma_id: norm-can-res-099
-    - norma_id: norm-can-res-110
-    - norma_id: norm-can-res-112
-    - norma_id: norm-can-res-118
-    - norma_id: norm-can-res-119
-    - norma_id: norm-can-res-125
-    - norma_id: norm-can-res-134
-    - norma_id: norm-can-res-135
-    - norma_id: norm-can-res-boc-1992-106-117
-    - norma_id: norm-can-res-boc-1994-083-144
-    - norma_id: norm-can-res-boc-1996-057-140
-    - norma_id: norm-can-res-boc-1998-140-142
-    - norma_id: norm-can-res-boc-2002-147-141
-    - norma_id: norm-can-res-boc-2002-148-77
-    - norma_id: norm-can-res-boc-2004-158-76
-    - norma_id: norm-can-res-boc-2004-189-65
-    - norma_id: norm-can-res-boc-2005-080-146
-    - norma_id: norm-can-res-boc-2007-009-143
-    - norma_id: norm-can-res-boc-2007-036-147
-    - norma_id: norm-can-res-boc-2011-099-72
-    - norma_id: norm-can-res-boc-2012-035-58
-    - norma_id: norm-can-res-boc-2017-020-2
-    - norma_id: norm-can-res-boc-2017-036-71
-    - norma_id: norm-can-res-boc-2017-036-75
-    - norma_id: norm-can-res-boc-2017-061-4
-    - norma_id: norm-can-res-boc-2017-132-1
-    - norma_id: norm-can-res-boc-2017-169-100
-    - norma_id: norm-can-res-boc-2017-220-70
-    - norma_id: norm-can-res-boc-2017-235-5
-    - norma_id: norm-can-res-boc-2018-019-130
-    - norma_id: norm-can-res-boc-2018-048-56
-    - norma_id: norm-can-res-boc-2018-086-122
-    - norma_id: norm-can-res-boc-2018-106-114
-    - norma_id: norm-can-res-boc-2018-124-126
-    - norma_id: norm-can-res-boc-2018-127-9
-    - norma_id: norm-can-res-boc-2018-220-18
-    - norma_id: norm-can-res-boc-2018-220-19
-    - norma_id: norm-can-res-boc-2019-016-12
-    - norma_id: norm-can-res-boc-2019-016-13
-    - norma_id: norm-can-res-boc-2019-024-22
-    - norma_id: norm-can-res-boc-2019-067-11
-    - norma_id: norm-can-res-boc-2019-069-48
-    - norma_id: norm-can-res-boc-2019-143-74
-    - norma_id: norm-can-res-boc-2019-234-52
-    - norma_id: norm-can-res-boc-2020-130-131
-    - norma_id: norm-can-res-boc-2020-236-82
-    - norma_id: norm-can-res-boc-2020-257-24
-    - norma_id: norm-can-res-boc-2021-038-3
-    - norma_id: norm-can-res-boc-2021-109-79
-    - norma_id: norm-can-res-boc-2021-114-80
-    - norma_id: norm-can-res-boc-2022-087-31
-    - norma_id: norm-can-res-boc-2022-138-7
-    - norma_id: norm-can-res-boc-2022-143-23
-    - norma_id: norm-can-res-boc-2022-158-132
-    - norma_id: norm-can-res-boc-2022-158-21
-    - norma_id: norm-can-res-boc-2022-243-81
-    - norma_id: norm-can-res-boc-2023-085-51
-    - norma_id: norm-can-res-boc-2023-133-57
-    - norma_id: norm-can-res-boc-2024-049-109
-    - norma_id: norm-can-res-boc-2024-117-93
-    - norma_id: norm-can-res-boc-2024-125-91
-    - norma_id: norm-can-res-boc-2024-226-44
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-can-res-boc-2025-039-104
-    - norma_id: norm-can-res-boc-2025-044-89
-    - norma_id: norm-can-res-boc-2025-046-47
-    - norma_id: norm-can-res-boc-2025-047-107
-    - norma_id: norm-can-res-boc-2025-047-108
-    - norma_id: norm-can-res-boc-2025-061-106
-    - norma_id: norm-can-res-boc-2025-061-88
-    - norma_id: norm-can-res-boc-2025-094-137
-    - norma_id: norm-can-res-boc-2025-118-46
-    - norma_id: norm-can-res-boc-2026-037-105
-    - norma_id: norm-can-res-boc-2026-039-102
-    - norma_id: norm-can-res-boc-2026-039-103
-    - norma_id: norm-can-res-boc-2026-039-111
-    - norma_id: norm-can-res-boc-2026-046-139
-    - norma_id: norm-can-res-boc-2026-060-61
-    - norma_id: norm-can-res-boc-2026-070-115
-    - norma_id: norm-can-res-boc-2026-070-116
-    - norma_id: norm-can-res-boc-2026-070-41
-    - norma_id: norm-can-res-boc-2026-073-113
-    - norma_id: norm-can-res-boc-2026-075-85
-    - norma_id: norm-can-res-boc-2026-077-49
-    - norma_id: norm-can-res-boc-2026-077-62
-    - norma_id: norm-can-res-boc-2026-109-92
-    - norma_id: norm-can-res-boc-2026-116-87
-    - norma_id: norm-can-res-boc-2026-129-26
-    - norma_id: norm-can-res-boc-2026-132-101
-    - norma_id: norm-can-res-boc-2026-141-29
-    - norma_id: norm-can-res-juriscan-22458-15
-    - norma_id: norm-can-res-juriscan-30668-127
-    - norma_id: norm-can-res-juriscan-41360-129
-    - norma_id: norm-can-res-juriscan-48984-84
-    - norma_id: norm-can-res-juriscan-49002-54
-    - norma_id: norm-can-res-juriscan-55445-83
-    - norma_id: norm-can-res-juriscan-58182-8
-    - norma_id: norm-can-res-juriscan-61148-128
-    - norma_id: norm-can-res-juriscan-63878-20
-    - norma_id: norm-can-res-juriscan-64565-138
-    - norma_id: norm-can-res-juriscan-64838-121
-    - norma_id: norm-can-res-juriscan-64885-10
-    - norma_id: norm-can-res-juriscan-65631-68
-    - norma_id: norm-can-res-juriscan-65632-66
-    - norma_id: norm-can-res-juriscan-66772-94
-    - norma_id: norm-can-res-juriscan-69937-120
-    - norma_id: norm-can-res-juriscan-70096-50
-    - norma_id: norm-can-res-juriscan-71394-16
-    - norma_id: norm-can-res-juriscan-72176-78
-    - norma_id: norm-can-res-juriscan-72788-60
-    - norma_id: norm-can-res-juriscan-72882-123
-    - norma_id: norm-can-res-juriscan-73844-69
-    - norma_id: norm-can-res-juriscan-74499-67
-    - norma_id: norm-can-res-juriscan-75527-17
-    - norma_id: norm-can-res-juriscan-75634-6
-    - norma_id: norm-can-res-juriscan-75818-136
+  - norma_id: norm-can-d-101-2023
+  - norma_id: norm-can-d-102-2023
+  - norma_id: norm-can-d-103-2023
+  - norma_id: norm-can-d-106-2009
+  - norma_id: norm-can-d-196-2022
+  - norma_id: norm-can-d-23-1995
+  - norma_id: norm-can-d-234-1996
+  - norma_id: norm-can-d-25-2018
+  - norma_id: norm-can-d-276-1997
+  - norma_id: norm-can-d-52-2009
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-d-9-2022
+  - norma_id: norm-can-o-2-8-2006
+  - norma_id: norm-can-o-7-6-2007
+  - norma_id: norm-can-res-014
+  - norma_id: norm-can-res-027
+  - norma_id: norm-can-res-028
+  - norma_id: norm-can-res-030
+  - norma_id: norm-can-res-032
+  - norma_id: norm-can-res-033
+  - norma_id: norm-can-res-034
+  - norma_id: norm-can-res-035
+  - norma_id: norm-can-res-036
+  - norma_id: norm-can-res-037
+  - norma_id: norm-can-res-038
+  - norma_id: norm-can-res-039
+  - norma_id: norm-can-res-040
+  - norma_id: norm-can-res-042
+  - norma_id: norm-can-res-043
+  - norma_id: norm-can-res-053
+  - norma_id: norm-can-res-055
+  - norma_id: norm-can-res-059
+  - norma_id: norm-can-res-063
+  - norma_id: norm-can-res-086
+  - norma_id: norm-can-res-090
+  - norma_id: norm-can-res-095
+  - norma_id: norm-can-res-096
+  - norma_id: norm-can-res-097
+  - norma_id: norm-can-res-098
+  - norma_id: norm-can-res-099
+  - norma_id: norm-can-res-110
+  - norma_id: norm-can-res-112
+  - norma_id: norm-can-res-118
+  - norma_id: norm-can-res-119
+  - norma_id: norm-can-res-125
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-135
+  - norma_id: norm-can-res-boc-1992-106-117
+  - norma_id: norm-can-res-boc-1994-083-144
+  - norma_id: norm-can-res-boc-1996-057-140
+  - norma_id: norm-can-res-boc-1998-140-142
+  - norma_id: norm-can-res-boc-2002-147-141
+  - norma_id: norm-can-res-boc-2002-148-77
+  - norma_id: norm-can-res-boc-2004-158-76
+  - norma_id: norm-can-res-boc-2004-189-65
+  - norma_id: norm-can-res-boc-2005-080-146
+  - norma_id: norm-can-res-boc-2007-009-143
+  - norma_id: norm-can-res-boc-2007-036-147
+  - norma_id: norm-can-res-boc-2011-099-72
+  - norma_id: norm-can-res-boc-2012-035-58
+  - norma_id: norm-can-res-boc-2017-020-2
+  - norma_id: norm-can-res-boc-2017-036-71
+  - norma_id: norm-can-res-boc-2017-036-75
+  - norma_id: norm-can-res-boc-2017-061-4
+  - norma_id: norm-can-res-boc-2017-132-1
+  - norma_id: norm-can-res-boc-2017-169-100
+  - norma_id: norm-can-res-boc-2017-220-70
+  - norma_id: norm-can-res-boc-2017-235-5
+  - norma_id: norm-can-res-boc-2018-019-130
+  - norma_id: norm-can-res-boc-2018-048-56
+  - norma_id: norm-can-res-boc-2018-086-122
+  - norma_id: norm-can-res-boc-2018-106-114
+  - norma_id: norm-can-res-boc-2018-124-126
+  - norma_id: norm-can-res-boc-2018-127-9
+  - norma_id: norm-can-res-boc-2018-220-18
+  - norma_id: norm-can-res-boc-2018-220-19
+  - norma_id: norm-can-res-boc-2019-016-12
+  - norma_id: norm-can-res-boc-2019-016-13
+  - norma_id: norm-can-res-boc-2019-024-22
+  - norma_id: norm-can-res-boc-2019-067-11
+  - norma_id: norm-can-res-boc-2019-069-48
+  - norma_id: norm-can-res-boc-2019-143-74
+  - norma_id: norm-can-res-boc-2019-234-52
+  - norma_id: norm-can-res-boc-2020-130-131
+  - norma_id: norm-can-res-boc-2020-236-82
+  - norma_id: norm-can-res-boc-2020-257-24
+  - norma_id: norm-can-res-boc-2021-038-3
+  - norma_id: norm-can-res-boc-2021-109-79
+  - norma_id: norm-can-res-boc-2021-114-80
+  - norma_id: norm-can-res-boc-2022-087-31
+  - norma_id: norm-can-res-boc-2022-138-7
+  - norma_id: norm-can-res-boc-2022-143-23
+  - norma_id: norm-can-res-boc-2022-158-132
+  - norma_id: norm-can-res-boc-2022-158-21
+  - norma_id: norm-can-res-boc-2022-243-81
+  - norma_id: norm-can-res-boc-2023-085-51
+  - norma_id: norm-can-res-boc-2023-133-57
+  - norma_id: norm-can-res-boc-2024-049-109
+  - norma_id: norm-can-res-boc-2024-117-93
+  - norma_id: norm-can-res-boc-2024-125-91
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-boc-2025-039-104
+  - norma_id: norm-can-res-boc-2025-044-89
+  - norma_id: norm-can-res-boc-2025-046-47
+  - norma_id: norm-can-res-boc-2025-047-107
+  - norma_id: norm-can-res-boc-2025-047-108
+  - norma_id: norm-can-res-boc-2025-061-106
+  - norma_id: norm-can-res-boc-2025-061-88
+  - norma_id: norm-can-res-boc-2025-094-137
+  - norma_id: norm-can-res-boc-2025-118-46
+  - norma_id: norm-can-res-boc-2026-037-105
+  - norma_id: norm-can-res-boc-2026-039-102
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-can-res-boc-2026-039-111
+  - norma_id: norm-can-res-boc-2026-046-139
+  - norma_id: norm-can-res-boc-2026-060-61
+  - norma_id: norm-can-res-boc-2026-070-115
+  - norma_id: norm-can-res-boc-2026-070-116
+  - norma_id: norm-can-res-boc-2026-070-41
+  - norma_id: norm-can-res-boc-2026-073-113
+  - norma_id: norm-can-res-boc-2026-075-85
+  - norma_id: norm-can-res-boc-2026-077-49
+  - norma_id: norm-can-res-boc-2026-077-62
+  - norma_id: norm-can-res-boc-2026-109-92
+  - norma_id: norm-can-res-boc-2026-116-87
+  - norma_id: norm-can-res-boc-2026-129-26
+  - norma_id: norm-can-res-boc-2026-132-101
+  - norma_id: norm-can-res-boc-2026-141-29
+  - norma_id: norm-can-res-juriscan-22458-15
+  - norma_id: norm-can-res-juriscan-30668-127
+  - norma_id: norm-can-res-juriscan-41360-129
+  - norma_id: norm-can-res-juriscan-48984-84
+  - norma_id: norm-can-res-juriscan-49002-54
+  - norma_id: norm-can-res-juriscan-55445-83
+  - norma_id: norm-can-res-juriscan-58182-8
+  - norma_id: norm-can-res-juriscan-61148-128
+  - norma_id: norm-can-res-juriscan-63878-20
+  - norma_id: norm-can-res-juriscan-64565-138
+  - norma_id: norm-can-res-juriscan-64838-121
+  - norma_id: norm-can-res-juriscan-64885-10
+  - norma_id: norm-can-res-juriscan-65631-68
+  - norma_id: norm-can-res-juriscan-65632-66
+  - norma_id: norm-can-res-juriscan-66772-94
+  - norma_id: norm-can-res-juriscan-69937-120
+  - norma_id: norm-can-res-juriscan-70096-50
+  - norma_id: norm-can-res-juriscan-71394-16
+  - norma_id: norm-can-res-juriscan-72176-78
+  - norma_id: norm-can-res-juriscan-72788-60
+  - norma_id: norm-can-res-juriscan-72882-123
+  - norma_id: norm-can-res-juriscan-73844-69
+  - norma_id: norm-can-res-juriscan-74499-67
+  - norma_id: norm-can-res-juriscan-75527-17
+  - norma_id: norm-can-res-juriscan-75634-6
+  - norma_id: norm-can-res-juriscan-75818-136
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-can-lo-1-2018
-  articulos:
-    - '136'
-    - norma_id: norm-es-ce-1978
-  articulos:
-    - '27'
+  - '27'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2014-152-3511.pdf
 anexos_extraidos_pdf: true
 ocr_procesado: true
@@ -1971,13 +1965,9 @@ Se autoriza al Gobierno a dictar las disposiciones necesarias para desarrollar y
 
 #### Disposición adicional segunda. Entrada en vigor.
 
-La presente ley entrará en vigor el 1 de septiembre de 2014.
+La presente ley entrará en vigor el 1 de septiembre de 2014. Por tanto, mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
 
-Por tanto, mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
-
-Santa Cruz de Tenerife, 25 de julio de 2014.
-
-El Presidente,
+Santa Cruz de Tenerife, 25 de julio de 2014. El Presidente,
 
 Paulino Rivero Baute.
 

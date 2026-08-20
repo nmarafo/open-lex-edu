@@ -1,7 +1,11 @@
 ---
 id: norm-can-res-030
 codigo_sintetizado: Resolucion BOC 30
-titulo: Resolución de 2 de mayo de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial por la que se dictan instrucciones para la organización de la oferta de dobles titulaciones de formación profesional (Grados D) de ciclos formativos con el primer curso en común en la Comunidad Autónoma de Canarias a partir del curso 2025/2026 (BOC n.º 93, de 12 de mayo).
+titulo: Resolución de 2 de mayo de 2025, de la Dirección General de Formación Profesional
+  y Enseñanzas de Régimen Especial por la que se dictan instrucciones para la organización
+  de la oferta de dobles titulaciones de formación profesional (Grados D) de ciclos
+  formativos con el primer curso en común en la Comunidad Autónoma de Canarias a partir
+  del curso 2025/2026 (BOC n.º 93, de 12 de mayo).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,41 +17,41 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-  - curriculo
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - formacion-profesional
-  - oposiciones
-  - personal-no-docente
+- curriculo
+- ensenanzas-deportivas
+- equipos-directivos
+- formacion-profesional
+- oposiciones
+- personal-no-docente
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-es-2020-17274
-    - norma_id: norm-es-2021-979
-    - norma_id: norm-es-2024-10684
-    - norma_id: norm-es-2024-10685
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-2020-17274
+  - norma_id: norm-es-2021-979
+  - norma_id: norm-es-2024-10684
+  - norma_id: norm-es-2024-10685
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   fundamento_de:
-    - norma_id: norm-can-res-boc-2026-141-29
+  - norma_id: norm-can-res-boc-2026-141-29
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-es-2020-17274
-    - norma_id: norm-es-2021-979
-    - norma_id: norm-es-2024-10684
-    - norma_id: norm-es-2024-10685
-    - norma_id: norm-es-rd-659-2023
+  - '1'
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-2020-17274
+  - norma_id: norm-es-2021-979
+  - norma_id: norm-es-2024-10684
+  - norma_id: norm-es-2024-10685
+  - norma_id: norm-es-rd-659-2023
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-093-1761.pdf
 ---
 # Resolución de 2 de mayo de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial por la que se dictan instrucciones para la organización de la oferta de dobles titulaciones de formación profesional (Grados D) de ciclos formativos con el primer curso en común en la Comunidad Autónoma de Canarias a partir del curso 2025/2026 (BOC n.º 93, de 12 de mayo).
@@ -164,18 +168,15 @@ En aplicación con lo dispuesto en el artículo 126.3 del [Real Decreto 659/2023
 a) Ciclo Formativo Grado Superior de Radioterapia y Dosimetría / Ciclo Formativo Grado Superior de Imagen para el Diagnóstico y Medicina Nuclear.
 • Matrícula en el segundo curso del Ciclo Formativo Grado Superior de Radioterapia y Dosimetría habiendo cursado el primer curso del Ciclo Formativo Grado Superior de Imagen para el Diagnóstico y Medicina Nuclear.
 - Módulo pendiente de primer curso:
-- Código: 1359.
-- Denominación: Simulación del tratamiento (5 horas).
+- Código: 1359. - Denominación: Simulación del tratamiento (5 horas).
 • Matrícula en el segundo curso del Ciclo Formativo Grado Superior de Imagen para el Diagnóstico y Medicina Nuclear habiendo cursado el primer curso del Ciclo Formativo Grado Superior de Radioterapia y Dosimetría.
 - Módulo pendiente de primer curso:
-- Código: 1349.
-- Denominación: Técnicas de radiología simple (5 horas).
+- Código: 1349. - Denominación: Técnicas de radiología simple (5 horas).
 
 b) Ciclo Formativo Grado Superior de Laboratorio de Diagnóstico Clínico / Ciclo Formativo Grado Superior de Anatomía Patológica.
 • Matrícula en el segundo curso del Ciclo Formativo Grado Superior de Laboratorio de Diagnóstico Clínico habiendo cursado el primer curso del Ciclo Formativo Grado Superior de Anatomía Patológica.
 - Módulo pendiente de primer curso:
-- Código: 1374.
-- Denominación: Técnicas de análisis hematológico (8 horas).
+- Código: 1374. - Denominación: Técnicas de análisis hematológico (8 horas).
 • Matrícula en el segundo curso del Ciclo Formativo Grado Superior de Anatomía Patológica habiendo cursado el primer curso del Ciclo Formativo Grado Superior de Laboratorio de Diagnóstico Clínico:
 - Módulo pendiente de primer curso:
 - Código: 1380.

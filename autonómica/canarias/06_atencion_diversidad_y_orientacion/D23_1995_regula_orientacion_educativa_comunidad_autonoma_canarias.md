@@ -1,7 +1,8 @@
 ---
 id: norm-can-d-23-1995
 codigo_sintetizado: D23_1995 Regulacion de la Orientacion Educativa en Canarias
-titulo: Decreto 23/1995, de 24 de febrero, por el que se regula la orientación educativa en la Comunidad Autónoma de Canarias.
+titulo: Decreto 23/1995, de 24 de febrero, por el que se regula la orientación educativa
+  en la Comunidad Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Gobierno de Canarias / Consejería de Educación
@@ -19,26 +20,26 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Equipos de Orientación (EOEP)
 tags:
-  - becas-y-ayudas
-  - eoep
-  - equipos-de-orientacion-eoep
-  - evaluacion-psicopedagogica
-  - gestion-economica
-  - orientacion-educativa
-  - tutoria
+- becas-y-ayudas
+- eoep
+- equipos-de-orientacion-eoep
+- evaluacion-psicopedagogica
+- gestion-economica
+- orientacion-educativa
+- tutoria
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   desarrollado_por:
-    - norma_id: norm-can-o-1-9-2010
+  - norma_id: norm-can-o-1-9-2010
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-1-1996
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '25'
+  - '25'
 ---
 # Decreto 23/1995, de 24 de febrero, por el que se regula la orientación educativa en la Comunidad Autónoma de Canarias.
 
@@ -81,9 +82,7 @@ a) Estará basada en propuestas de actuación que den respuestas globales a las 
 c) Supondrá una actuación colaborativa con todos los agentes educativos que intervienen en el desarrollo de los Proyectos Educativo y Curricular de los centros.
 d) Se desarrollará de forma continua como parte integrante del proceso educativo, interviniendo en todos los niveles y actuando con todos los elementos personales de una forma dinámica que se adapte a la evolución de los procesos.
 
-#### Artículo 4.
-
-1. El centro, como sistema que integra a todos los.
+#### Artículo 4. 1. El centro, como sistema que integra a todos los.
 
 miembros de la comunidad educativa, es la unidad de referencia de la orientación educativa, por lo que ésta se planificará partiendo de las necesidades derivadas de los Proyectos Educativos y Curriculares y de las instrucciones que a tal fin dicte la Consejería de Educación, Cultura y Deportes.
 
@@ -117,18 +116,14 @@ estarán estructurados en dos ámbitos de organización:
 a) Equipos de Orientación Educativa y Psicopedagógicos de Zona.
 b) Equipos de Orientación Educativa y Psicopedagógicos Específicos.
 
-#### Artículo 10.
-
-1. La Consejería de Educación, Cultura y Deportes.
+#### Artículo 10. 1. La Consejería de Educación, Cultura y Deportes.
 
 realizará la zonificación de cada isla, teniendo en cuenta la organización general en áreas educativas y asignará cada zona y sus centros correspondientes a un Equipo de Orientación y Psicopedagógico de Zona que desarrollará en el mismo sus actuaciones. 2. Con el fin de garantizar una intervención eficaz y de calidad, dicha zonificación se realizará atendiendo conjuntamente a los siguientes criterios:
 a) Número de centros, unidades o grupos de los mismos y número de alumnos y profesores a atender.
 b) Dispersión geográfica entre los diferentes centros de la zona.
 c) Características sociales de la zona y necesidades educativas de los centros localizados en la misma. 3. La Consejería de Educación, Cultura y Deportes ampliará progresivamente los recursos humanos y materiales señalados en el presente Decreto hasta garantizar una atención adecuada a todos los centros de enseñanza no universitaria de Canarias.
 
-#### Artículo 11.
-
-1. Los Equipos de Orientación y Psicopedagógicos de.
+#### Artículo 11. 1. Los Equipos de Orientación y Psicopedagógicos de.
 
 Zona serán los responsables, junto con los órganos de los centros, de la intervención psicopedagógica y la orientación educativa en los centros de su zona. Cada miembro del Equipo estará asignado a uno o varios centros.
 
@@ -158,9 +153,7 @@ i) Favorecer la colaboración que posibilite la coordinación de actuaciones ent
 j) Colaborar en la elaboración del mapa de necesidades educativas con el fin de racionalizar los recursos disponibles.
 k) Colaborar con las instituciones que tengan competencias en la resolución del absentismo escolar.
 
-#### Artículo 13.
-
-1. La actuación de los Equipos de Orientación.
+#### Artículo 13. 1. La actuación de los Equipos de Orientación.
 
 Educativa y Psicopedagógicos Específicos tendrá un carácter de complementariedad con los Equipos de Orientación Educativa y Psicopedagógicos de Zona. Dichos Equipos de Orientación Educativa y Psicopedagógicos Específicos tendrán el ámbito geográfico que se determine. 2. Existirá al menos un Equipo de Orientación Educativa y Psicopedagógico Específico provincial para atender a cada una de las necesidades educativas especiales siguientes:
 a) Discapacidades visuales.
@@ -180,9 +173,7 @@ h) Coordinar su actuación con los demás Equipos de Orientación y Psicopedagó
 
 4. Estas funciones se desarrollarán en colaboración con los Equipos de Orientación y Psicopedagógicos de Zona, con otros Equipos de Orientación y Psicopedagógicos Específicos, en su caso, y con aquellas otras instituciones y servicios que actúan en el mismo campo.
 
-#### Artículo 14.
-
-1. Todos los miembros de los Equipos de Orientación.
+#### Artículo 14. 1. Todos los miembros de los Equipos de Orientación.
 
 Educativa y Psicopedagógicos tendrán las funciones generales establecidas en los artículos 12 y 13, en el ámbito de su especialidad. 2. Los Psicólogos y Pedagogos de los Equipos de Orientación y Psicopedagógicos de Zona serán los responsables de la intervención psicopedagógica en los centros que les sean asignados, formando parte de la Comisión de Coordinación Pedagógica y de los Departamentos o Equipos de Orientación. 3. Los maestros especialistas de audición y lenguaje tendrán además las siguientes funciones específicas:
 a) Asesorar a los profesores, padres y alumnos en temas relacionados con su especialidad.
@@ -202,9 +193,7 @@ competencia.
 
 #### Artículo 16. A los componentes de los Equipos de Orientación y Psicopedagógicos de Zona se les asignará un centro sede, de cuyo claustro formarán parte.
 
-#### Artículo 17.
-
-1. Cada Equipo de Orientación Educativa y.
+#### Artículo 17. 1. Cada Equipo de Orientación Educativa y.
 
 Psicopedagógico tendrá un Coordinador, elegido por y entre sus miembros y nombrado por la Consejería de Educación, Cultura y Deportes, debiendo contar como mínimo con tres años de antigüedad en el servicio y uno en la zona.
 

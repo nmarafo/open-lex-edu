@@ -1,10 +1,12 @@
 ---
 id: norm-and-d-266-1988
 codigo_sintetizado: D266_1988 Becas y Ayudas al Estudio Andalucía
-titulo: Decreto 266/1988, de 12 de julio, sobre régimen de subvenciones y ayudas al estudio para el alumnado no universitario.
+titulo: Decreto 266/1988, de 12 de julio, sobre régimen de subvenciones y ayudas al
+  estudio para el alumnado no universitario.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 266/1988
 fecha_disposicion: '1988-07-12'
@@ -18,16 +20,16 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Becas y ayudas
 tags:
-  - becas
-  - ayudas_estudio
-  - andalucia
+- becas
+- ayudas_estudio
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Decreto 266/1988, de 12 de julio, sobre régimen de subvenciones y ayudas al estudio para el alumnado no universitario.
 
@@ -37,9 +39,7 @@ Con la finalidad de agilizar la tramitación de estos expedientes, el Decreto 99
 
 3 de julio.
 
-Con el presente Decreto, junto a otras modificaciones puntuales, se amplia la desconcentración en las Comisiones Provinciales de Precios, atribuyéndoles competencias en municipios de hasta 100.000 habitantes o suministros de agua con menos de 25.000 abonados, modificándose también la composición de estas y de la Comisión de Precios de Andalucía para adaptarlas a la reestructuración de consejerías establecidas por el Decreto del Presidente 50/1988, de 29 de febrero. En su virtud a propuesta del Consejero de Hacienda y Planificación, y previa deliberación del consejo de Gobierno en su reunión del día 2 de agosto de 1988.
-
-DISPONGO:
+Con el presente Decreto, junto a otras modificaciones puntuales, se amplia la desconcentración en las Comisiones Provinciales de Precios, atribuyéndoles competencias en municipios de hasta 100.000 habitantes o suministros de agua con menos de 25.000 abonados, modificándose también la composición de estas y de la Comisión de Precios de Andalucía para adaptarlas a la reestructuración de consejerías establecidas por el Decreto del Presidente 50/1988, de 29 de febrero. En su virtud a propuesta del Consejero de Hacienda y Planificación, y previa deliberación del consejo de Gobierno en su reunión del día 2 de agosto de 1988. DISPONGO:
 
 #### Artículo 2. La Comisión Delegada de Planificación y Asuntos Económicos fijará, en función de la política general de precios y de la ordenación de la actividad económica geenral, directrices que sobre política de revisión de precios autorizados hayan de seguirse en el ámbito territorial de la Comunidad Autónoma, contando para ello con el asesoramiento de la Comisión de Precios de Andalucía.
 
@@ -115,9 +115,7 @@ Las Comisiones Provinciales de Precios elevarán al Consejero de Hacienda y Plan
 
 En materia de abastecimientos de aguas esta función vendrá referida a servicios o entidades que abastezcan en conjunto a una población no superior a 100.000 habitantes 0 que tengan menos de 25.000 abonados.
 
-#### Artículo 7.
-
-El Consejero de Hacienda y Planificacón, a propuesta de la Comisión de Precios de Andalucía o, en su caso, de las comisiones Provinciales, resolverá los expedientes relativos a precios autorizados mediante orden publicada en el
+#### Artículo 7. El Consejero de Hacienda y Planificacón, a propuesta de la Comisión de Precios de Andalucía o, en su caso, de las comisiones Provinciales, resolverá los expedientes relativos a precios autorizados mediante orden publicada en el
 
 Artículo 8º. La convocatoria, el régimen de constitución, la adopción de acuerdos y la celebración de las sesiones de la Comisiones Provinciales de Precios, se efectuarán de acuerdo con lo establecido en el capítulo II, Título I, de la Ley vigente de Procedimiento Administrativo.
 

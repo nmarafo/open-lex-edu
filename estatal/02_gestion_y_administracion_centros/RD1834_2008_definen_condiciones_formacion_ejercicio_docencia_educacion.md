@@ -1,10 +1,14 @@
 ---
 id: norm-es-rd-1834-2008
 codigo_sintetizado: RD1834_2008 Condiciones de Formacion para Docencia en Secundaria
-titulo: Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria.
+titulo: Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones
+  de formación para el ejercicio de la docencia en la educación secundaria obligatoria,
+  el bachillerato, la formación profesional y las enseñanzas de régimen especial y
+  se establecen las especialidades de los cuerpos docentes de enseñanza secundaria.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto
 numero_disposicion: 1834/2008
 fecha_disposicion: '2008-11-08'
@@ -18,58 +22,53 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros públicos
 tags:
-  - bachillerato
-  - centros-p-blicos
-  - cualificacion-docente
-  - curriculo
-  - ebep
-  - ensenanzas-artisticas
-  - ensenanzas-deportivas
-  - eoi
-  - eso
-  - especialidades-secundaria
-  - evaluacion
-  - formacion-profesional
-  - master-profesorado
-  - profesorado
-  - titulacion
+- bachillerato
+- centros-p-blicos
+- cualificacion-docente
+- curriculo
+- ebep
+- ensenanzas-artisticas
+- ensenanzas-deportivas
+- eoi
+- eso
+- especialidades-secundaria
+- evaluacion
+- formacion-profesional
+- master-profesorado
+- profesorado
+- titulacion
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2005-21534
-    - norma_id: norm-es-2007-22017
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2005-21534
+  - norma_id: norm-es-2007-22017
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
   fundamento_de:
-    - norma_id: norm-es-2010-11426
-    - norma_id: norm-es-2011-13117
-    - norma_id: norm-es-2011-15628
-    - norma_id: norm-es-2011-16923
-    - norma_id: norm-es-2013-6281
-    - norma_id: norm-es-2015-8043
-    - norma_id: norm-es-2022-16194
-    - norma_id: norm-es-2023-9553
-    - norma_id: norm-es-2025-16039
-    - norma_id: norm-can-o-2013-10-09
-    - norma_id: norm-can-res-135
+  - norma_id: norm-es-2010-11426
+  - norma_id: norm-es-2011-13117
+  - norma_id: norm-es-2011-15628
+  - norma_id: norm-es-2011-16923
+  - norma_id: norm-es-2013-6281
+  - norma_id: norm-es-2015-8043
+  - norma_id: norm-es-2022-16194
+  - norma_id: norm-es-2023-9553
+  - norma_id: norm-es-2025-16039
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-can-res-135
   desarrollado_por: []
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - '94'
-    - '95'
-    - '100'
-    - norma_id: norm-es-ce-1978
-  articulos:
-    - '27'
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2005-21534
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2007-22017
+  - '27'
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2005-21534
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2007-22017
 ---
 # Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria.
 
@@ -184,13 +183,9 @@ En tanto no se regulen las especialidades y consiguiente atribución de docencia
 
 #### Disposición transitoria tercera. Acreditación de formación pedagógica y didáctica.
 
-1. De acuerdo con lo que establece el Real Decreto 806/2006, de 30 de junio, por el que se establece el calendario de aplicación de la nueva ordenación del sistema educativo, establecida por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en su disposición adicional primera, las Administraciones educativas podrán seguir organizando las enseñanzas conducentes al Certificado de Aptitud Pedagógica hasta el año académico 2008-2009.
+1. De acuerdo con lo que establece el Real Decreto 806/2006, de 30 de junio, por el que se establece el calendario de aplicación de la nueva ordenación del sistema educativo, establecida por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en su disposición adicional primera, las Administraciones educativas podrán seguir organizando las enseñanzas conducentes al Certificado de Aptitud Pedagógica hasta el año académico 2008-2009. 2. Asimismo los títulos profesionales de Especialización Didáctica y el Certificado de Cualificación Pedagógica organizados por las universidades al amparo de lo establecido en la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, obtenidos antes del 1 de octubre de 2009 acreditarán la formación pedagógica y didáctica a la que se refiere el artículo 100 de la citada Ley Orgánica.
 
-2. Asimismo los títulos profesionales de Especialización Didáctica y el Certificado de Cualificación Pedagógica organizados por las universidades al amparo de lo establecido en la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, obtenidos antes del 1 de octubre de 2009 acreditarán la formación pedagógica y didáctica a la que se refiere el artículo 100 de la citada Ley Orgánica.
-
-3. A partir de la citada fecha de 1 de octubre de 2009, los títulos que habilitan para el ejercicio de las profesiones reguladas de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Escuelas Oficiales de Idiomas deberán ajustarse a la Resolución de 17 de diciembre de 2007, de la Secretaría de Estado de Universidades e Investigación, por la que se publica el Acuerdo de Consejo de Ministros de 14 de diciembre de 2007.
-
-#### Disposición transitoria cuarta. Equivalencia de la docencia impartida a la formación.
+3. A partir de la citada fecha de 1 de octubre de 2009, los títulos que habilitan para el ejercicio de las profesiones reguladas de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Escuelas Oficiales de Idiomas deberán ajustarse a la Resolución de 17 de diciembre de 2007, de la Secretaría de Estado de Universidades e Investigación, por la que se publica el Acuerdo de Consejo de Ministros de 14 de diciembre de 2007. #### Disposición transitoria cuarta. Equivalencia de la docencia impartida a la formación.
 
 pedagógica y didáctica. A quienes acrediten que antes del término del curso 2008-2009 han impartido docencia durante dos cursos académicos completos o, en su defecto, 12 meses en períodos continuos o discontinuos, en centros públicos o privados de enseñanza reglada debidamente autorizados, en los niveles y enseñanzas cuyas especialidades docentes se regulan en este real decreto, se les reconocerá dicha docencia como equivalente a la formación pedagógica y didáctica establecida en el artículo 100.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 

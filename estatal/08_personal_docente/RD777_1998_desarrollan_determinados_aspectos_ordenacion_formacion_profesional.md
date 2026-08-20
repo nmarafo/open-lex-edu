@@ -1,10 +1,12 @@
 ---
 id: norm-es-1998-10720
 codigo_sintetizado: BOE-A-1998-10720
-titulo: Real Decreto 777/1998, de 30 de abril, por el que se desarrollan determinados aspectos de la ordenación de la formación profesional en el ámbito del sistema educativo.
+titulo: Real Decreto 777/1998, de 30 de abril, por el que se desarrollan determinados
+  aspectos de la ordenación de la formación profesional en el ámbito del sistema educativo.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1998-05-08'
 boletin: BOE
@@ -15,37 +17,34 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Especialidades y habilitaciones
 tags:
-  - admision-alumnado
-  - curriculo
-  - ensenanzas-artisticas
-  - especialidades-y-habilitaciones
-  - evaluacion
-  - formacion-profesional
-  - oposiciones
-  - profesorado
-  - titulacion
+- admision-alumnado
+- curriculo
+- ensenanzas-artisticas
+- especialidades-y-habilitaciones
+- evaluacion
+- formacion-profesional
+- oposiciones
+- profesorado
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-1993-23257
-    - norma_id: norm-es-1995-22212
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-lo-8-1985
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-1993-23257
+  - norma_id: norm-es-1995-22212
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
   fundamento_de:
-    - norma_id: norm-es-rd-1364-2010
-    - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rd-1364-2010
+  - norma_id: norm-es-rd-276-2007
   fundamentos_derecho:
-    - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rd-276-2007
   articulos:
-    - '1'
-    - norma_id: norm-es-rdl-5-2015
-  articulos:
-    - '1'
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-lo-8-1985
-    - norma_id: norm-es-1993-23257
-    - norma_id: norm-es-1995-22212
+  - '1'
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-1993-23257
+  - norma_id: norm-es-1995-22212
 ---
 # Real Decreto 777/1998, de 30 de abril, por el que se desarrollan determinados aspectos de la ordenación de la formación profesional en el ámbito del sistema educativo.
 
@@ -319,9 +318,7 @@ presente Real Decreto, para el cálculo de la nota media del expediente académi
 
 Las equivalencias de titulaciones académicas establecidas en los anexos II y III del presente Real Decreto se entenderán sin perjuicio del cumplimiento de las disposiciones que habilitan para el ejercicio de las profesiones reguladas.
 
-#### Disposición adicional sexta. Modificación del anexo al Real Decreto 1653/1994.
-
-Se modifican los apartados 3.2, 4.1 y 6.2 del anexo al Real Decreto 1653/1994, de 22 de julio, por el que se establece el título de Técnico superior en Comercio Internacional y las correspondientes enseñanzas mínimas, conforme al anexo VII del presente Real Decreto.
+#### Disposición adicional sexta. Modificación del anexo al Real Decreto 1653/1994. Se modifican los apartados 3.2, 4.1 y 6.2 del anexo al Real Decreto 1653/1994, de 22 de julio, por el que se establece el título de Técnico superior en Comercio Internacional y las correspondientes enseñanzas mínimas, conforme al anexo VII del presente Real Decreto.
 
 #### Disposición adicional séptima. Contribución horaria del Profesor de la especialidad de Construcciones Civiles y Edificación.
 
@@ -391,9 +388,7 @@ Quedan derogados los artículos 31 y 32.1 del Real Decreto 1004/1991, de 14 de j
 
 #### Disposición final primera. Carácter básico y normas de desarrollo.
 
-1. El presente Real Decreto, que se dicta en virtud de la habilitación que confiere al Gobierno la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, en sus disposiciones adicionales novena, apartado 1, y décima, apartado 8, y en uso de la competencia estatal para la ordenación general del sistema educativo recogida expresamente en la disposición adicional primera 2, a), de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, tiene carácter de norma básica, salvo lo establecido en los artículos 4.2, 6, 16.2, 19.2 y 19.5.
-
-2. El Ministerio de Educación y Cultura y los órganos correspondientes de las Comunidades Autónomas podrán dictar, en el ámbito de sus respectivas competencias, las normas que sean precisas para la aplicación y desarrollo de este Real Decreto, salvo lo dispuesto en los artículos 14 y 15 que será desarrollado por los Ministerios de Educación y Cultura y de Trabajo y Asuntos Sociales, según se establece en dichos artículos.
+1. El presente Real Decreto, que se dicta en virtud de la habilitación que confiere al Gobierno la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, en sus disposiciones adicionales novena, apartado 1, y décima, apartado 8, y en uso de la competencia estatal para la ordenación general del sistema educativo recogida expresamente en la disposición adicional primera 2, a), de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, tiene carácter de norma básica, salvo lo establecido en los artículos 4.2, 6, 16.2, 19.2 y 19.5. 2. El Ministerio de Educación y Cultura y los órganos correspondientes de las Comunidades Autónomas podrán dictar, en el ámbito de sus respectivas competencias, las normas que sean precisas para la aplicación y desarrollo de este Real Decreto, salvo lo dispuesto en los artículos 14 y 15 que será desarrollado por los Ministerios de Educación y Cultura y de Trabajo y Asuntos Sociales, según se establece en dichos artículos.
 
 3. El Ministerio de Educación y Cultura queda autorizado para ampliar y adaptar lo establecido en el anexo X del presente Real Decreto en relación con el acceso a estudios universitarios de los Técnicos superiores, previo informe del Consejo de Universidades.
 
@@ -403,9 +398,7 @@ Todas las referencias a las Administraciones educativas contenidas en el present
 
 #### Disposición final tercera. Entrada en vigor.
 
-Dado en Madrid a 30 de abril de 1998.
-
-JUAN CARLOS R.
+Dado en Madrid a 30 de abril de 1998. JUAN CARLOS R.
 
 La Ministra de Educación y Cultura,
 

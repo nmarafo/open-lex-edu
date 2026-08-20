@@ -131,9 +131,7 @@ el Documento de Seguridad y recordatorios de los procedimientos cuya observancia
 
 oportuno reforzar.
 
-#### Artículo 4.
-
-1. Los derechos de oposición, acceso, rectificación y/o cancelación de los
+#### Artículo 4. 1. Los derechos de oposición, acceso, rectificación y/o cancelación de los
 
 datos de carácter personal contenidos en los ficheros creados por la presente Orden podrán
 
@@ -141,9 +139,7 @@ ser ejercidos ante el centro directivo competente en materia de energía, de acu
 
 lo previsto en el Título III de la Ley Orgánica 15/1999 y Título III de su reglamento de
 
-desarrollo, aprobado por el Real Decreto 1720/2007.
-
-Viernes 20 de mayo de 2016
+desarrollo, aprobado por el Real Decreto 1720/2007. Viernes 20 de mayo de 2016
 
 2. Los modelos para ejercer los derechos de oposición, acceso, rectificación y/o
 
@@ -211,9 +207,7 @@ Esta Orden entrará en vigor al día siguiente al de su publicación en el Bolet
 
 Canarias.
 
-Las Palmas de Gran Canaria, a 12 de mayo de 2016.
-
-EL CONSEJERO DE ECONOMÍA, INDUSTRIA,
+Las Palmas de Gran Canaria, a 12 de mayo de 2016. EL CONSEJERO DE ECONOMÍA, INDUSTRIA,
 
 COMERCIO Y CONOCIMIENTO,
 

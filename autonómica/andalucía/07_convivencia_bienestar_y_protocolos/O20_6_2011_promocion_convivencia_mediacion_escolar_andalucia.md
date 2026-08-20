@@ -1,10 +1,12 @@
 ---
 id: norm-and-o-20-6-2011
 codigo_sintetizado: O20_6_2011 Promocion Convivencia y Mediacion Escolar Andalucía
-titulo: Orden de 20 de junio de 2011, por la que se adoptan medidas para la promoción de la convivencia en los centros docentes.
+titulo: Orden de 20 de junio de 2011, por la que se adoptan medidas para la promoción
+  de la convivencia en los centros docentes.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 20/06/2011
 fecha_disposicion: '2011-06-20'
@@ -18,19 +20,19 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Convivencia escolar
 tags:
-  - convivencia
-  - mediacion_escolar
-  - delegados_prevencion
-  - andalucia
+- convivencia
+- mediacion_escolar
+- delegados_prevencion
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-8-2021
-    - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-lo-1-1996
 ---
 # Orden de 20 de junio de 2011, por la que se adoptan medidas para la promoción de la convivencia en los centros docentes.
 
@@ -79,17 +81,13 @@ El plan de convivencia incluirá los siguientes aspectos:
 a) Diagnóstico del estado de la convivencia en el centro y, en su caso, conflictividad detectada en el mismo, de conformidad con lo recogido en el artículo 5, así como los objetivos a conseguir.
 b) Normas de convivencia, tanto generales del centro que favorezcan las relaciones de los distintos sectores de la comunidad educativa, como particulares del aula, y un sistema que detecte el incumplimiento de las normas y las correcciones que, en su caso, se aplicarían, de conformidad con lo establecido en el Capítulo III del Título V del Reglamento Orgánico de los institutos de educación secundaria y del Reglamento Orgánico de las escuelas infantiles de segundo ciclo, de los colegios de educación primaria, de los colegios de educación infantil y primaria y de los centros públicos específicos de educación especial.
 c) Composición, plan de reuniones y plan de actuación de la comisión de convivencia.
-d) Normas específicas para el funcionamiento del aula de convivencia del centro a que se refiere el artículo 8.
-e) Medidas específicas para promover la convivencia en el centro, fomentando el diálogo, la corresponsabilidad y la cultura de paz.
+d) Normas específicas para el funcionamiento del aula de convivencia del centro a que se refiere el artículo 8. e) Medidas específicas para promover la convivencia en el centro, fomentando el diálogo, la corresponsabilidad y la cultura de paz.
 f) Medidas a aplicar en el centro para prevenir, detectar, mediar y resolver los conflictos que pudieran plantearse, entre las que se incluirán los compromisos de convivencia, a que se refiere el artículo 19, las actuaciones preventivas y que contribuyan a la detección de la conflictividad, de conformidad con lo establecido en el artículo 7, y la mediación en la resolución de los conflictos que pudieran plantearse, de conformidad con lo previsto en la sección 2.ª de este capítulo.
 g) Funciones de los delegados y de las delegadas del alumnado en la mediación para la resolución pacífica de los conflictos que pudieran presentarse entre el alumnado, promoviendo su colaboración con el tutor o la tutora del grupo.
 h) Procedimiento de elección y funciones de los delegados o de las delegadas de los padres y madres del alumnado, de acuerdo con lo recogido en los artículos 9 y 10, entre las que se incluirá la de mediación en la resolución pacífica de conflictos entre el propio alumnado o entre éste y cualquier miembro de la comunidad educativa.
-i) La programación de las necesidades de formación de la comunidad educativa en esta materia, según se dispone en el artículo 11.
-j) Las estrategias para realizar la difusión, el seguimiento y la evaluación del plan de convivencia en el marco del proyecto educativo.
+i) La programación de las necesidades de formación de la comunidad educativa en esta materia, según se dispone en el artículo 11. j) Las estrategias para realizar la difusión, el seguimiento y la evaluación del plan de convivencia en el marco del proyecto educativo.
 k) El procedimiento para articular la colaboración con entidades e instituciones del entorno para la construcción de comunidades educadoras.
-l) El procedimiento para la recogida de las incidencias en materia de convivencia en el Sistema de Información Séneca, de conformidad con lo dispuesto en el artículo 12.
-
-Página núm. 8 Sevilla, 7 de julio 2011
+l) El procedimiento para la recogida de las incidencias en materia de convivencia en el Sistema de Información Séneca, de conformidad con lo dispuesto en el artículo 12. Página núm. 8 Sevilla, 7 de julio 2011
 m) Cualesquiera otras que le sean atribuidas por el Consejo Escolar del centro, en el ámbito de la convivencia escolar.
 
 #### Artículo 5. Diagnóstico del estado de la convivencia en el centro.
@@ -171,8 +169,7 @@ b) Asesorar a las familias del alumnado del grupo en el ejercicio de sus derecho
 c) Implicar a las familias en la mejora de la convivencia y de la actividad docente en el grupo y en el centro e impulsar su participación en las actividades que se organicen.
 d) Fomentar y facilitar la comunicación de las madres y los padres del alumnado con el tutor o tutora del grupo y con el resto del profesorado que imparte docencia al mismo.
 e) Facilitar la relación entre las familias del alumnado del grupo y el equipo directivo, la asociación de padres y madres del alumnado y los representantes de este sector en el Consejo Escolar.
-f) Colaborar en el desarrollo de las actividades programadas por el centro para informar a las familias del alumnado del grupo y para estimular su participación en el proceso educativo de sus hijos e hijas, especialmente en las recogidas en los artículos 7 y 18.
-g) Mediar en la resolución pacífica de conflictos entre el propio alumnado del grupo o entre éste y cualquier miembro de la comunidad educativa, de acuerdo con lo que, a tales efectos, disponga el plan de convivencia.
+f) Colaborar en el desarrollo de las actividades programadas por el centro para informar a las familias del alumnado del grupo y para estimular su participación en el proceso educativo de sus hijos e hijas, especialmente en las recogidas en los artículos 7 y 18. g) Mediar en la resolución pacífica de conflictos entre el propio alumnado del grupo o entre éste y cualquier miembro de la comunidad educativa, de acuerdo con lo que, a tales efectos, disponga el plan de convivencia.
 h) Colaborar en el establecimiento y seguimiento de los compromisos educativos y de convivencia que se suscriban con las familias del alumnado del grupo.
 i) Cualesquiera otras que les sean atribuidas en el plan de convivencia del centro.
 
@@ -246,9 +243,7 @@ f) Derechos y obligaciones de las familias, de acuerdo con lo recogido en los ar
 g) Funciones de las personas delegadas de los padres y madres en cada grupo.
 h) Compromisos educativos y de convivencia.
 
-3. En la reunión a que se refiere el apartado anterior se procederá a la elección de los delegados de padres y madres del alumnado, de acuerdo con lo previsto en el artículo 9.
-
-4. Al finalizar el curso escolar, el profesorado que ejerza la tutoría atenderá a los representantes legales del alumnado que deseen conocer con detalle su evolución a lo largo del curso y recibir información que oriente la toma de decisiones personales, académicas y profesionales.
+3. En la reunión a que se refiere el apartado anterior se procederá a la elección de los delegados de padres y madres del alumnado, de acuerdo con lo previsto en el artículo 9. 4. Al finalizar el curso escolar, el profesorado que ejerza la tutoría atenderá a los representantes legales del alumnado que deseen conocer con detalle su evolución a lo largo del curso y recibir información que oriente la toma de decisiones personales, académicas y profesionales.
 
 #### Artículo 16. Tutoría electrónica.
 

@@ -557,9 +557,7 @@ cativa preferente (en adelante, COAEP) en los tér-
 
 minos definidos en el artículo 4 del citado Decreto
 
-104/2010.
-
-5. Las medidas ordinarias, extraordinarias y ex-
+104/2010. 5. Las medidas ordinarias, extraordinarias y ex-
 
 cepcionales no serán excluyentes entre sí. Las me-
 
@@ -1739,9 +1737,7 @@ recogido en el artículo 23 de la mencionada Orden
 
 de 7 de noviembre de 2007, y lo previsto en el artícu-
 
-lo 6.5. del citado Decreto 104/2010.
-
-4. La Administración educativa determinará las me-
+lo 6.5. del citado Decreto 104/2010. 4. La Administración educativa determinará las me-
 
 didas y recursos que procedan para que el alumna-
 
@@ -4745,9 +4741,7 @@ sión de la adaptación.
 
 f) ## Anexo c. on los programas educativos persona-
 
-lizados que desarrollan los apartados c1 y c2.
-
-Miércoles 22 de diciembre de 2010
+lizados que desarrollan los apartados c1 y c2. Miércoles 22 de diciembre de 2010
 
 84
 

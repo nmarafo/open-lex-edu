@@ -1,9 +1,11 @@
 ---
 id: norm-and-d327-2010
-titulo: Decreto 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgánico de los Institutos de Educación Secundaria
+titulo: Decreto 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgánico
+  de los Institutos de Educación Secundaria
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 327/2010
 fecha_disposicion: '2010-07-13'
@@ -18,22 +20,22 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Reglamentos Orgánicos de Centro (ROC)
 tags:
-  - roc
-  - institutos_secundaria
-  - ies
-  - organizacion_escolar
-  - andalucia
+- roc
+- institutos_secundaria
+- ies
+- organizacion_escolar
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-and-l17-2007
 ---
 # Decreto 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgánico de los Institutos de Educación Secundaria
 
@@ -49,9 +51,7 @@ b) Regular el procedimiento para la resolución de las solicitudes de autorizaci
 
 1. Corresponde a la Consejería competente en materia de agricultura la regulación del procedimiento relativo a las comunicaciones y solicitudes de autorización de las actividades para la utilización confinada y liberación voluntaria de los organismos modificados genéticamente y la determinación de los órganos competentes de la Administración de la Junta de Andalucía en las citadas materias, sin perjuicio de las que específicamente corresponden a otras Consejerías por razón de la materia.
 
-2. Al Comité Andaluz de Control de Organismos Modificados Genéticamente se le atribuyen las funciones determinadas en el artículo 4.
-
-3. El ejercicio de la potestad de inspección, control y sancionadora en el marco de la Ley 9/2003, de 25 de abril, y del Real Decreto 178/2004, de 30 de enero, corresponderán en cada caso a la Consejería que resulte competente por razón de la materia, y dentro de cada Consejería, al órgano que corresponda según su estructura orgánica.
+2. Al Comité Andaluz de Control de Organismos Modificados Genéticamente se le atribuyen las funciones determinadas en el artículo 4. 3. El ejercicio de la potestad de inspección, control y sancionadora en el marco de la Ley 9/2003, de 25 de abril, y del Real Decreto 178/2004, de 30 de enero, corresponderán en cada caso a la Consejería que resulte competente por razón de la materia, y dentro de cada Consejería, al órgano que corresponda según su estructura orgánica.
 
 #### Artículo 3. Comité Andaluz de Control de Organismos Modificados Genéticamente.
 

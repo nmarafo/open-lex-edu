@@ -18,50 +18,50 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros privados concertados
 tags:
-  - bienestar-infantil
-  - centros-concertados
-  - centros-privados-concertados
-  - conciertos-educativos
-  - derecho-educacion
-  - fp-basica
-  - ideario-centro
-  - lode
-  - profesorado
+- bienestar-infantil
+- centros-concertados
+- centros-privados-concertados
+- conciertos-educativos
+- derecho-educacion
+- fp-basica
+- ideario-centro
+- lode
+- profesorado
 relaciones:
   desarrollado_por:
-    - norma_id: norm-es-rd-1533-1986
-    - norma_id: norm-es-rd-2377-1985
+  - norma_id: norm-es-rd-1533-1986
+  - norma_id: norm-es-rd-2377-1985
   fundamentado_en:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   fundamento_de:
-    - norma_id: norm-es-1987-15278
-    - norma_id: norm-es-1988-3987
-    - norma_id: norm-es-1993-16128
-    - norma_id: norm-es-1995-22212
-    - norma_id: norm-es-1998-10720
-    - norma_id: norm-es-2000-5990
-    - norma_id: norm-es-2002-12018
-    - norma_id: norm-es-2007-19326
-    - norma_id: norm-es-2013-12632
-    - norma_id: norm-es-2014-2222
-    - norma_id: norm-es-2024-11613
-    - norma_id: norm-es-lo-1-2004
-    - norma_id: norm-es-lo-10-2022
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-132-2010
-    - norma_id: norm-es-rd-157-2022
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-rd-943-2003
-    - norma_id: norm-can-res-boc-2024-117-93
-    - norma_id: norm-can-res-boc-2022-158-21
-    - norma_id: norm-can-res-boc-2026-109-92
-    - norma_id: norm-can-res-boc-2004-189-65
-    - norma_id: norm-can-d-114-2011
+  - norma_id: norm-es-1987-15278
+  - norma_id: norm-es-1988-3987
+  - norma_id: norm-es-1993-16128
+  - norma_id: norm-es-1995-22212
+  - norma_id: norm-es-1998-10720
+  - norma_id: norm-es-2000-5990
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2007-19326
+  - norma_id: norm-es-2013-12632
+  - norma_id: norm-es-2014-2222
+  - norma_id: norm-es-2024-11613
+  - norma_id: norm-es-lo-1-2004
+  - norma_id: norm-es-lo-10-2022
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-rd-157-2022
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-rd-943-2003
+  - norma_id: norm-can-res-boc-2024-117-93
+  - norma_id: norm-can-res-boc-2022-158-21
+  - norma_id: norm-can-res-boc-2026-109-92
+  - norma_id: norm-can-res-boc-2004-189-65
+  - norma_id: norm-can-d-114-2011
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
+  - '27'
 ---
 # Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación.
 
@@ -603,9 +603,7 @@ f) Cualquiera otra que le sea encomendada por los respectivos reglamentos orgán
 
 5. Los salarios del personal docente serán abonados por la Administración al profesorado como pago delegado y en nombre de la entidad titular del centro, con cargo y a cuenta de las cantidades previstas en el apartado anterior. A tal fin, el titular del centro, en su condición de empleador en la relación laboral, facilitará a la Administración las nóminas correspondientes, así como sus eventuales modificaciones.
 
-6. La Administración no podrá asumir alteraciones en los salarios del profesorado, derivadas de convenios colectivos que superen el porcentaje de incremento global de las cantidades correspondientes a salarios a que hace referencia el apartado 3.
-
-#### Artículo cincuenta.
+6. La Administración no podrá asumir alteraciones en los salarios del profesorado, derivadas de convenios colectivos que superen el porcentaje de incremento global de las cantidades correspondientes a salarios a que hace referencia el apartado 3. #### Artículo cincuenta.
 
 Los centros concertados se considerarán asimilados a las fundaciones benéfico-docentes a efectos de la aplicación a los mismos de los beneficios, fiscales y no fiscales, que estén reconocidos a las citadas entidades, con independencia de cuantos otros pudieran corresponderles en consideración a la actividad educativa que desarrollan.
 
@@ -685,9 +683,7 @@ Los profesores, los padres de los alumnos y, en su caso, los alumnos, intervendr
 
 Corresponde al consejo escolar del centro, en el marco de los principios establecidos en esta ley:
 
-a) Intervenir en la designación y cese del director del centro, de acuerdo con lo dispuesto en el artículo 59.
-
-b) Intervenir en la selección y despido del profesorado del centro, conforme con el artículo 60.
+a) Intervenir en la designación y cese del director del centro, de acuerdo con lo dispuesto en el artículo 59. b) Intervenir en la selección y despido del profesorado del centro, conforme con el artículo 60.
 
 c) Garantizar el cumplimiento de las normas generales sobre admisión de alumnos.
 
@@ -801,9 +797,7 @@ d) La alta inspección y demás facultades que, conforme al artículo 149.1.30 d
 
 1. En el marco de los principios constitucionales y de lo establecido por la legislación vigente, las Corporaciones locales cooperarán con las Administraciones educativas correspondientes en la creación, construcción y mantenimiento de centros públicos docentes, así como en la vigilancia del cumplimiento de la escolaridad obligatoria.
 
-2. La creación de centros docentes públicos, cuyos titulares sean las Corporaciones locales, se realizará por convenio entre éstas y la Administración educativa competente, al objeto de su inclusión en la programación de la enseñanza a que se refiere el artículo 27.
-
-Dichos centros se someterán, en todo caso, a lo establecido en el Título tercero de esta ley. Las funciones que en el citado Título competen a la Administración educativa correspondiente, en relación con el nombramiento y cese del director y del equipo directivo, se entenderán referidas al titular público promotor.
+2. La creación de centros docentes públicos, cuyos titulares sean las Corporaciones locales, se realizará por convenio entre éstas y la Administración educativa competente, al objeto de su inclusión en la programación de la enseñanza a que se refiere el artículo 27. Dichos centros se someterán, en todo caso, a lo establecido en el Título tercero de esta ley. Las funciones que en el citado Título competen a la Administración educativa correspondiente, en relación con el nombramiento y cese del director y del equipo directivo, se entenderán referidas al titular público promotor.
 
 #### [precepto]Tercera.
 
@@ -851,9 +845,7 @@ En las materias cuya regulación remite la presente Ley a ulteriores disposicion
 
 a) El Título preliminar, los Capítulos primero y tercero del Título segundo, el Título cuarto y el Capítulo primero del Título quinto.
 
-b) Los artículos 60, 62, 89.2, 3 y 4, 92, 135, 138, 139, 140, 141.2 y 145.
-
-c) Los artículos 59, 61, 89.6, 101, 136.3 y 4 en cuanto se opongan a lo preceptuado en la presente Ley.
+b) Los artículos 60, 62, 89.2, 3 y 4, 92, 135, 138, 139, 140, 141.2 y 145. c) Los artículos 59, 61, 89.6, 101, 136.3 y 4 en cuanto se opongan a lo preceptuado en la presente Ley.
 
 [encabezado]DISPOSICIONES FINALES
 
@@ -871,9 +863,7 @@ Se autoriza al Gobierno para adaptar lo dispuesto en esta Ley a las peculiaridad
 
 Mando a todos los españoles, particulares y autoridades que guaden y hagan guardar esta Ley Orgánica.
 
-Palacio de la Zarzuela, Madrid, a 3 de julio de 1985.
-
-JUAN CARLOS R.
+Palacio de la Zarzuela, Madrid, a 3 de julio de 1985. JUAN CARLOS R.
 
 El Presidente del Gobierno,
 

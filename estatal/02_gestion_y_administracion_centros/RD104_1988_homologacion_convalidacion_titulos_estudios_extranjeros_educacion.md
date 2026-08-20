@@ -1,10 +1,12 @@
 ---
 id: norm-es-1988-3987
 codigo_sintetizado: BOE-A-1988-3987
-titulo: Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
+titulo: Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación
+  de títulos y estudios extranjeros de educación no universitaria.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1988-02-17'
 boletin: BOE
@@ -15,37 +17,34 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros extranjeros
 tags:
-  - centros-extranjeros
-  - consejo-escolar
-  - ensenanzas-universitarias
-  - procedimiento-administrativo
-  - titulacion
+- centros-extranjeros
+- consejo-escolar
+- ensenanzas-universitarias
+- procedimiento-administrativo
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-1988-6938
-    - norma_id: norm-es-2002-25289
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-1988-6938
+  - norma_id: norm-es-2002-25289
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-8-1985
   fundamento_de:
-    - norma_id: norm-es-1988-6938
-    - norma_id: norm-es-1996-10210
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2002-25289
-    - norma_id: norm-es-2018-4480
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-can-res-boc-2025-047-108
-    - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-es-1988-6938
+  - norma_id: norm-es-1996-10210
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2002-25289
+  - norma_id: norm-es-2018-4480
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-can-res-boc-2025-047-108
+  - norma_id: norm-can-res-boc-2026-039-103
   desarrollado_por: []
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-es-lo-8-1985
-  articulos:
-    - '1'
-    - '6'
-    - norma_id: norm-es-1988-6938
-    - norma_id: norm-es-2002-25289
+  - '1'
+  - '6'
+  - norma_id: norm-es-1988-6938
+  - norma_id: norm-es-2002-25289
 ---
 # Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
 

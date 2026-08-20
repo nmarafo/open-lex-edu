@@ -1,7 +1,11 @@
 ---
 id: norm-can-res-boc-2017-220-70
 codigo_sintetizado: Resolucion BOC 70
-titulo: Resolución de 6 de noviembre de 2017, de la Dirección General de Formación Profesional y Educación de Adultos, por la que se dictan instrucciones para la organización y la evaluación de los módulos de obra final y de proyecto integrado de las enseñanzas profesionales de Artes Plásticas y Diseño en la Comunidad Autónoma de Canarias (BOC n.º 220, de 15 de noviembre).
+titulo: Resolución de 6 de noviembre de 2017, de la Dirección General de Formación
+  Profesional y Educación de Adultos, por la que se dictan instrucciones para la organización
+  y la evaluación de los módulos de obra final y de proyecto integrado de las enseñanzas
+  profesionales de Artes Plásticas y Diseño en la Comunidad Autónoma de Canarias (BOC
+  n.º 220, de 15 de noviembre).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,36 +17,36 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Artísticas
 tags:
-  - curriculo
-  - educacion-personas-adultas
-  - ense-anzas-art-sticas
-  - ensenanzas-artisticas
-  - equipos-directivos
-  - evaluacion
-  - formacion-profesional
-  - grado-medio
+- curriculo
+- educacion-personas-adultas
+- ense-anzas-art-sticas
+- ensenanzas-artisticas
+- equipos-directivos
+- evaluacion
+- formacion-profesional
+- grado-medio
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-135-2016
-    - norma_id: norm-can-d-212-1991
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-2007-10487
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2007-10487
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2007-10487
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-d-135-2016
-    - norma_id: norm-can-d-212-1991
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2007-10487
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-220-5354.pdf
 ---
 # Resolución de 6 de noviembre de 2017, de la Dirección General de Formación Profesional y Educación de Adultos, por la que se dictan instrucciones para la organización y la evaluación de los módulos de obra final y de proyecto integrado de las enseñanzas profesionales de Artes Plásticas y Diseño en la Comunidad Autónoma de Canarias (BOC n.º 220, de 15 de noviembre).

@@ -1,10 +1,14 @@
 ---
 id: norm-and-o-30-5-2023-primaria
 codigo_sintetizado: O30_5_2023 Desarrollo Curriculo y Evaluacion Primaria Andalucia
-titulo: Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía, se regulan determinados aspectos de la atención a la diversidad y se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado.
+titulo: Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente
+  a la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía, se regulan
+  determinados aspectos de la atención a la diversidad y se establece la ordenación
+  de la evaluación del proceso de aprendizaje del alumnado.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 30/05/2023
 fecha_disposicion: '2023-05-30'
@@ -18,17 +22,17 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Primaria
 tags:
-  - curriculo_primaria
-  - evaluacion_primaria
-  - atencion_diversidad
-  - andalucia
+- curriculo_primaria
+- evaluacion_primaria
+- atencion_diversidad
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía, se regulan determinados aspectos de la atención a la diversidad y se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado.
 
@@ -80,9 +84,7 @@ Histórico del BOJA Boletín número 104 de 02/06/2023
 
 Acuerdo de 29 de mayo de 2023, del Consejo de Gobierno, por el que se aprueba la formulación de la I Estrategia Cloud de Andalucía 2030.
 
-Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad con CVE 00284641.
-
-Vivimos en un momento en el que la globalización y las tecnologías digitales están transformando radicalmente la vida diaria de las personas y el modo en que la sociedad se organiza a nivel mundial. Los cambios más relevantes y de mayor impacto que se han producido en las últimas décadas en nuestra sociedad son fruto de una revolución tecnológica sin precedentes, que ha cambiado nuestra forma de ver y entender el mundo, modificando las reglas en los ámbitos económico, social y político. Este nuevo escenario no es sólo fruto del proceso de digitalización en el que estamos inmersos, pero son las tecnologías de la información y la comunicación (TIC) las que están habilitando las principales transformaciones.
+Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad con CVE 00284641. Vivimos en un momento en el que la globalización y las tecnologías digitales están transformando radicalmente la vida diaria de las personas y el modo en que la sociedad se organiza a nivel mundial. Los cambios más relevantes y de mayor impacto que se han producido en las últimas décadas en nuestra sociedad son fruto de una revolución tecnológica sin precedentes, que ha cambiado nuestra forma de ver y entender el mundo, modificando las reglas en los ámbitos económico, social y político. Este nuevo escenario no es sólo fruto del proceso de digitalización en el que estamos inmersos, pero son las tecnologías de la información y la comunicación (TIC) las que están habilitando las principales transformaciones.
 
 Ningún agente de los ámbitos económico, social y político escapa a esta metamorfosis tecnológica. En este contexto, la Administración Pública debe abordar el reto de garantizar el bienestar social aprovechando las oportunidades que ofrece el mundo digital, apoyando para ello el despliegue de infraestructuras de telecomunicaciones que proporcionan una conectividad plena, e impulsando la autonomía ciudadana en esta era digital a través del acceso y utilización de las nuevas tecnologías en un entorno caracterizado por la confianza y la seguridad, favoreciendo para ello el desarrollo de las competencias digitales necesarias.
 

@@ -1,10 +1,12 @@
 ---
 id: norm-can-d-84-2024
 codigo_sintetizado: D84_2024 ROC Consejeria de Educacion Canarias
-titulo: Decreto 84/2024, de 10 de junio, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes.
+titulo: Decreto 84/2024, de 10 de junio, por el que se aprueba el Reglamento Orgánico
+  de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes.
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Formación Profesional, Actividad Física y Deportes del Gobierno de Canarias
+organo_emisor: Consejería de Educación, Formación Profesional, Actividad Física y
+  Deportes del Gobierno de Canarias
 tipo_disposicion: Decreto
 numero_disposicion: 84/2024
 fecha_disposicion: '2024-06-10'
@@ -18,19 +20,19 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Estructura de la Consejería
 tags:
-  - estructura_organica
-  - consejeria_educacion
-  - roc_consejeria
-  - canarias
+- estructura_organica
+- consejeria_educacion
+- roc_consejeria
+- canarias
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
 ---
 # Decreto 84/2024, de 10 de junio, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes.
 

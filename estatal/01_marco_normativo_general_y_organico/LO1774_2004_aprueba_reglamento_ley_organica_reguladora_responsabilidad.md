@@ -1,10 +1,13 @@
 ---
 id: norm-es-2004-15601
 codigo_sintetizado: BOE-A-2004-15601
-titulo: Real Decreto 1774/2004, de 30 de julio, por el que se aprueba el Reglamento de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+titulo: Real Decreto 1774/2004, de 30 de julio, por el que se aprueba el Reglamento
+  de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal
+  de los menores.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2004-08-30'
 boletin: BOE
@@ -15,29 +18,29 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Protección jurídica de menores
 tags:
-  - curriculo
-  - permisos-licencias
-  - protecci-n-jur-dica-de-menores
-  - proteccion-menores
+- curriculo
+- permisos-licencias
+- protecci-n-jur-dica-de-menores
+- proteccion-menores
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-1995-25444
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-lo-1-1996
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-5-2000
+  - norma_id: norm-es-1995-25444
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-5-2000
   desarrollado_por: []
   fundamento_de:
-    - norma_id: norm-can-res-juriscan-71394-16
+  - norma_id: norm-can-res-juriscan-71394-16
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - '1'
-    - '2.1'
-    - norma_id: norm-es-1995-25444
-    - norma_id: norm-es-lo-1-1996
-    - norma_id: norm-es-lo-5-2000
-    - norma_id: norm-es-1999-23750
+  - '1'
+  - '2.1'
+  - norma_id: norm-es-1995-25444
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-es-lo-5-2000
+  - norma_id: norm-es-1999-23750
 ---
 # Real Decreto 1774/2004, de 30 de julio, por el que se aprueba el Reglamento de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
@@ -89,9 +92,7 @@ Transcurrido un año desde la entrada en vigor del reglamento de la [Ley Orgáni
 
 #### Disposición final única. Entrada en vigor.
 
-Dado en Palma de Mallorca, a 30 de julio de 2004.
-
-JUAN CARLOS R.
+Dado en Palma de Mallorca, a 30 de julio de 2004. JUAN CARLOS R.
 
 El Ministro de Justicia,
 
@@ -791,9 +792,7 @@ c) Que participe en las actividades previstas en su programa individualizado de 
 
 d) Que se hayan previsto los permisos en el programa individualizado de ejecución de la medida o en sus modificaciones posteriores, aprobados por el juez de menores competente.
 
-e) Que en el momento de decidir la concesión no se den las circunstancias previstas en el artículo 52.2.
-
-f) Que no exista respecto del menor internado un pronóstico desfavorable del centro por la existencia de variables cualitativas que indiquen el probable quebrantamiento de la medida, la comisión de nuevos hechos delictivos o una repercusión negativa de la salida sobre el menor desde la perspectiva de su preparación para la vida en libertad o de su programa individualizado de ejecución de la medida.
+e) Que en el momento de decidir la concesión no se den las circunstancias previstas en el artículo 52.2. f) Que no exista respecto del menor internado un pronóstico desfavorable del centro por la existencia de variables cualitativas que indiquen el probable quebrantamiento de la medida, la comisión de nuevos hechos delictivos o una repercusión negativa de la salida sobre el menor desde la perspectiva de su preparación para la vida en libertad o de su programa individualizado de ejecución de la medida.
 
 La dirección del centro o el órgano que la entidad pública haya establecido en su normativa podrá suspender el derecho a la concesión de los permisos ordinarios de salida a un menor internado, dando cuenta de ello al juez de menores cuando concurran las circunstancias previstas en el apartado anterior.
 
@@ -843,9 +842,7 @@ También podrán programarse en días laborales siempre que sean compatibles con
 
 4. Como regla general, su duración será inferior a 48 horas, sin perjuicio de que se pueda autorizar otra cosa con carácter excepcional.
 
-5. Los requisitos de concesión y el órgano competente para autorizar la salida serán los establecidos en el artículo 45.
-
-6. Los menores internados por sentencia firme en régimen cerrado, una vez cumplido el primer tercio del periodo de internamiento, cuando la buena evolución personal durante la ejecución de la medida lo justifique y ello favorezca el proceso de integración social, podrán disfrutar de salidas programadas de acuerdo con lo establecido en este artículo, cuando el juez de menores competente lo autorice.
+5. Los requisitos de concesión y el órgano competente para autorizar la salida serán los establecidos en el artículo 45. 6. Los menores internados por sentencia firme en régimen cerrado, una vez cumplido el primer tercio del periodo de internamiento, cuando la buena evolución personal durante la ejecución de la medida lo justifique y ello favorezca el proceso de integración social, podrán disfrutar de salidas programadas de acuerdo con lo establecido en este artículo, cuando el juez de menores competente lo autorice.
 
 #### Artículo 49. Salidas y permisos de menores sometidos a medida cautelar de internamiento.
 
@@ -931,9 +928,7 @@ e) Si el resultado del registro con desnudo integral fuese infructuoso y persist
 
 7. Se intervendrán el dinero u objetos de valor no autorizados, así como los objetos no permitidos y los que se entiendan peligrosos para la seguridad o convivencia ordenada o de ilícita procedencia. Cuando se trate de dinero u objetos de valor se aplicará lo dispuesto en el artículo 30.2.d).
 
-8. La entidad pública podrá autorizar, en aquellos centros donde la necesidad de seguridad así lo requiera, el servicio de personal especializado, en funciones de vigilancia y de apoyo a las actuaciones de los trabajadores del centro previstas en los apartados anteriores de este artículo. Este personal dependerá funcionalmente del director del centro y no podrá portar ni utilizar dentro del centro otros medios que los contemplados en el artículo 55.2.
-
-9. Cuando exista riesgo inminente de graves alteraciones del orden con peligro para la vida o la integridad física de las personas o para las instalaciones, la entidad pública o el director del centro podrá solicitar la intervención de las Fuerzas y Cuerpos de Seguridad competentes en cada territorio.
+8. La entidad pública podrá autorizar, en aquellos centros donde la necesidad de seguridad así lo requiera, el servicio de personal especializado, en funciones de vigilancia y de apoyo a las actuaciones de los trabajadores del centro previstas en los apartados anteriores de este artículo. Este personal dependerá funcionalmente del director del centro y no podrá portar ni utilizar dentro del centro otros medios que los contemplados en el artículo 55.2. 9. Cuando exista riesgo inminente de graves alteraciones del orden con peligro para la vida o la integridad física de las personas o para las instalaciones, la entidad pública o el director del centro podrá solicitar la intervención de las Fuerzas y Cuerpos de Seguridad competentes en cada territorio.
 
 #### Artículo 55. Medios de contención.
 
@@ -1171,9 +1166,7 @@ d) Más de 15 días privado de todas las actividades recreativas del centro.
 
 #### Artículo 70. Necesidad de procedimientos sancionadores.
 
-Para la imposición de sanciones por faltas graves y muy graves será preceptiva la observancia del procedimiento regulado en los artículos 71 a 78, y para las sanciones impuestas por faltas leves podrá seguirse el procedimiento abreviado previsto en el artículo 79.
-
-#### Artículo 71. Procedimiento ordinario: inicio.
+Para la imposición de sanciones por faltas graves y muy graves será preceptiva la observancia del procedimiento regulado en los artículos 71 a 78, y para las sanciones impuestas por faltas leves podrá seguirse el procedimiento abreviado previsto en el artículo 79. #### Artículo 71. Procedimiento ordinario: inicio.
 
 1. Cuando el órgano competente para la iniciación del procedimiento disciplinario aprecie en los menores internados indicios de conductas que pueden dar lugar a responsabilidad disciplinaria, acordará la iniciación del procedimiento de alguna de las siguientes formas:
 
@@ -1295,9 +1288,7 @@ la presunta falta cometida.
 
 3. Cuando la sanción que recayera, en su caso, coincida en naturaleza con la medida cautelar impuesta, esta se abonará para el cumplimiento de aquella. Si no coincidiese, se deberá compensar en la parte que se estime razonable, siempre que sea posible.
 
-4. Las medidas cautelares no podrán exceder del tiempo máximo que corresponda a la sanción prevista, en función de la gravedad de la falta, en el artículo 65.
-
-#### Artículo 81. Ejecución y cumplimiento de las sanciones.
+4. Las medidas cautelares no podrán exceder del tiempo máximo que corresponda a la sanción prevista, en función de la gravedad de la falta, en el artículo 65. #### Artículo 81. Ejecución y cumplimiento de las sanciones.
 
 Los acuerdos sancionadores no se harán efectivos en tanto no haya sido resuelto el recurso interpuesto, o en caso de que no se haya interpuesto, hasta que haya transcurrido el plazo para su impugnación, sin perjuicio de las medidas cautelares previstas en el artículo anterior.
 

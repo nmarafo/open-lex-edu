@@ -1,7 +1,10 @@
 ---
 id: norm-can-res-boc-2012-035-58
 codigo_sintetizado: Resolucion BOC 58
-titulo: Resolución de 3 de febrero de 2012, de la Dirección General de Formación Profesional y Educación de Adultos (DGFPEA), por la que se dictan instrucciones para la elaboración de las pruebas comunes de obtención de los certificados enseñanzas de idiomas de régimen especial, en la Comunidad Autónoma de Canarias, a partir del curso 2012-2013.
+titulo: Resolución de 3 de febrero de 2012, de la Dirección General de Formación Profesional
+  y Educación de Adultos (DGFPEA), por la que se dictan instrucciones para la elaboración
+  de las pruebas comunes de obtención de los certificados enseñanzas de idiomas de
+  régimen especial, en la Comunidad Autónoma de Canarias, a partir del curso 2012-2013.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,35 +16,32 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas de Idiomas
 tags:
-  - curriculo
-  - educacion-personas-adultas
-  - ense-anzas-de-idiomas
-  - ensenanzas-deportivas
-  - eoi
-  - equipos-directivos
-  - evaluacion
-  - formacion-profesional
-  - profesorado
+- curriculo
+- educacion-personas-adultas
+- ense-anzas-de-idiomas
+- ensenanzas-deportivas
+- eoi
+- equipos-directivos
+- evaluacion
+- formacion-profesional
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
+  - '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2012-035-870.pdf
 ---
-# Resolución de 3 de febrero de 2012, de la Dirección General de Formación Profesional y Educación de Adultos (DGFPEA), por la que se dictan instrucciones para la elaboración de las pruebas comunes de obtención de los certificados enseñanzas de idiomas de régimen especial, en la Comunidad Autónoma de Canarias, a partir del curso 2012-2013.
-
-## Preámbulo
+# Resolución de 3 de febrero de 2012, de la Dirección General de Formación Profesional y Educación de Adultos (DGFPEA), por la que se dictan instrucciones para la elaboración de las pruebas comunes de obtención de los certificados enseñanzas de idiomas de régimen especial, en la Comunidad Autónoma de Canarias, a partir del curso 2012-2013. ## Preámbulo
 
 Consejería de Educación, Universidades y Sostenibilidad y Educación de Adultos.- Resolución de 3 de febrero de 2012, por la que se dictan instrucciones para la elaboración de las pruebas comunes de obtención de los certificados de enseñanzas de idiomas de régimen especial, en la Comunidad Autónoma de Canarias, a partir del curso 2012-2013. Siendo necesario establecer un procedimiento común para la elaboración de las pruebas de obtención de los certificados de enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Canarias, y teniendo en cuenta los siguientes ANTECEDENTES DE HECHO
-Primero.- Desde el año 2006, las pruebas de obtención de los certificados de enseñanzas de idiomas de régimen especial se vienen desarrollando en esta Comunidad Autónoma de acuerdo con unas normas concretas de elaboración, organización, aplicación y calificación. Estas pruebas han sido confeccionadas por unas comisiones específicas, convocadas al efecto, e integradas por profesorado que, de forma voluntaria, ha confeccionado los exámenes de los idiomas impartidos en Canarias, hasta el año 2010.
-Segundo.- La experiencia adquirida durante estos años en la elaboración, desarrollo y aplicación de las pruebas demuestran la validez del trabajo efectuado, y aconsejó la modificación de alguna de las prácticas realizadas, de manera que las Escuelas Oficiales de Idiomas (EOI), a través de sus Departamentos de coordinación didáctica, participaran activamente en la elaboración de las mismas.
+Primero.- Desde el año 2006, las pruebas de obtención de los certificados de enseñanzas de idiomas de régimen especial se vienen desarrollando en esta Comunidad Autónoma de acuerdo con unas normas concretas de elaboración, organización, aplicación y calificación. Estas pruebas han sido confeccionadas por unas comisiones específicas, convocadas al efecto, e integradas por profesorado que, de forma voluntaria, ha confeccionado los exámenes de los idiomas impartidos en Canarias, hasta el año 2010. Segundo.- La experiencia adquirida durante estos años en la elaboración, desarrollo y aplicación de las pruebas demuestran la validez del trabajo efectuado, y aconsejó la modificación de alguna de las prácticas realizadas, de manera que las Escuelas Oficiales de Idiomas (EOI), a través de sus Departamentos de coordinación didáctica, participaran activamente en la elaboración de las mismas.
 Tercero.- Las pruebas del año 2011 fueron confeccionas por las EOI, a través de los Departamentos de coordinación didáctica de cada idioma, lo que propició la participación y coordinación de todo el profesorado en tareas de elaboración y evaluación de pruebas, lo que repercute positivamente en la práctica docente y, consiguientemente, en las enseñanzas de idiomas. A estos hechos les son de aplicación los siguientes FUNDAMENTOS DE DERECHO
 Primero.- El Decreto 362/2007, de 2 de octubre, por el que se establece la ordenación de las enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Canarias (BOC nº 205, de 15 de octubre), que, en el apartado 3, de su
 
@@ -60,9 +60,7 @@ Cuarto.- Encomendar a la Inspección de Educación la supervisión y asesoramien
 
 ## Anexo
 
-INSTRUCCIONES PARA LA ELABORACIÓN DE LAS PRUEBAS COMUNES DE OBTENCIÓN DE LOS CERTIFICADOS DE LAS ENSEÑANZAS DE IDIOMAS DE RÉGIMEN ESPECIAL QUE SE IMPARTEN POR LAS ESCUELAS OFICIALES DE IDIOMAS DE LA COMUNIDAD AUTÓNOMA DE CANARIAS, A PARTIR DEL CURSO 2012-2013.
-
-1. Objeto.
+INSTRUCCIONES PARA LA ELABORACIÓN DE LAS PRUEBAS COMUNES DE OBTENCIÓN DE LOS CERTIFICADOS DE LAS ENSEÑANZAS DE IDIOMAS DE RÉGIMEN ESPECIAL QUE SE IMPARTEN POR LAS ESCUELAS OFICIALES DE IDIOMAS DE LA COMUNIDAD AUTÓNOMA DE CANARIAS, A PARTIR DEL CURSO 2012-2013. 1. Objeto.
 
 2. Ámbito de aplicación.
 
@@ -212,11 +210,10 @@ Puntuación de la consigna CONSIGNA 10 Cubre ampliamente el objetivo de la comun
 6. Plantillas de respuesta. De los exámenes de comprensión de lectura y de comprensión auditiva se elaborará una plantilla con las respuestas correctas correspondientes a cada una de las tareas, así como la transcripción de las audiciones.
 
 7. Formato de las pruebas. Los exámenes presentarán las siguientes características formales:
-- Tamaño: Folio Din A4.
-- Carátula en la que se recogerán los siguientes dato s: idioma, nivel, convocatoria, parte, instrucciones para el aspirante, duración máxima, datos de identificación personal (nombre y apellidos, DNI, EOI, tipo de aspirante), tareas y puntuaciones asi gnadas, puntuación máxima y espacio para la calificación obtenida.
-- Los enunciados se redactarán en letr a Arial, de tamaño 12 puntos.
-- El interlineado debe ser Exacto a 14 puntos.
-- El espaciado Automático.
+- Tamaño: Folio Din A4. - Carátula en la que se recogerán los siguientes dato s: idioma, nivel, convocatoria, parte, instrucciones para el aspirante, duración máxima, datos de identificación personal (nombre y apellidos, DNI, EOI, tipo de aspirante), tareas y puntuaciones asi gnadas, puntuación máxima y espacio para la calificación obtenida.
+- Los enunciados se redactarán en letr a ÓArial, de tamaño Ó12 puntos.
+- El interlineado debe ser ÓExacto a 14 puntos.
+- El espaciado ÓAutomático.
 - La presentación de textos e imágenes deben ser de un tamaño que permita ver con nitidez los detalles de los aspectos sobre de los que debe hablar el aspirante.
 - Se han de indicar los tiempos de preparación e intervención.
 

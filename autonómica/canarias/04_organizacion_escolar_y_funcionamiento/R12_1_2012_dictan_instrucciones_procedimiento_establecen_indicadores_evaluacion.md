@@ -1,7 +1,11 @@
 ---
 id: norm-can-res-juriscan-66772-94
 codigo_sintetizado: Resolucion BOC 94
-titulo: Resolución de 12 de enero de 2012, por la que se dictan instrucciones de procedimiento y se establecen los indicadores para la evaluación de la función directiva desempeñada por las directoras y directores al finalizar el mandato en los centros públicos de enseñanzas no universitarias de la Comunidad Autónoma de Canarias (BOC n.º 15, de 23 de enero).
+titulo: Resolución de 12 de enero de 2012, por la que se dictan instrucciones de procedimiento
+  y se establecen los indicadores para la evaluación de la función directiva desempeñada
+  por las directoras y directores al finalizar el mandato en los centros públicos
+  de enseñanzas no universitarias de la Comunidad Autónoma de Canarias (BOC n.º 15,
+  de 23 de enero).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Personal y Formación del Profesorado
@@ -13,33 +17,33 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Función directiva y liderazgo
 tags:
-  - consejo-escolar
-  - ensenanzas-deportivas
-  - ensenanzas-universitarias
-  - equipos-directivos
-  - evaluacion
-  - funci-n-directiva-y-liderazgo
-  - interinos
-  - profesorado
+- consejo-escolar
+- ensenanzas-deportivas
+- ensenanzas-universitarias
+- equipos-directivos
+- evaluacion
+- funci-n-directiva-y-liderazgo
+- interinos
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-106-2009
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
+  - norma_id: norm-can-d-106-2009
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-can-d-106-2009
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-106-2009
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2012-015-333.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=66772
 ---

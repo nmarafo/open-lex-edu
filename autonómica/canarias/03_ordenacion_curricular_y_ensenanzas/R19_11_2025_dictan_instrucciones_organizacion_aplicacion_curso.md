@@ -1,7 +1,12 @@
 ---
 id: norm-can-res-053
 codigo_sintetizado: Resolucion BOC 53
-titulo: Resolución de 19 de noviembre de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.por la que se convocan pruebas para la obtención de la certificación de Enseñanzas de Idiomas de Régimen Especial destinadas a la población escolar de centros docentes públicos de la Comunidad Autónoma de Canarias, y se dictan instrucciones para su organización y aplicación en el curso 2025/2026 (BOC nº 238, de 1 de diciembre).
+titulo: Resolución de 19 de noviembre de 2025, de la Dirección General de Formación
+  Profesional y Enseñanzas de Régimen Especial.por la que se convocan pruebas para
+  la obtención de la certificación de Enseñanzas de Idiomas de Régimen Especial destinadas
+  a la población escolar de centros docentes públicos de la Comunidad Autónoma de
+  Canarias, y se dictan instrucciones para su organización y aplicación en el curso
+  2025/2026 (BOC nº 238, de 1 de diciembre).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,37 +18,37 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas de Idiomas
 tags:
-  - curriculo
-  - ense-anzas-de-idiomas
-  - ensenanzas-deportivas
-  - eoi
-  - equipos-directivos
-  - evaluacion
-  - formacion-profesional
-  - profesorado
-  - titulacion
+- curriculo
+- ense-anzas-de-idiomas
+- ensenanzas-deportivas
+- eoi
+- equipos-directivos
+- evaluacion
+- formacion-profesional
+- profesorado
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-212-1991
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2019-317
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2019-317
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-2019-317
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-d-212-1991
+  - '1'
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2019-317
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-238-4105.pdf
 ---
 # Resolución de 19 de noviembre de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.por la que se convocan pruebas para la obtención de la certificación de Enseñanzas de Idiomas de Régimen Especial destinadas a la población escolar de centros docentes públicos de la Comunidad Autónoma de Canarias, y se dictan instrucciones para su organización y aplicación en el curso 2025/2026 (BOC nº 238, de 1 de diciembre).
@@ -155,8 +160,7 @@ Prueba Alumnado al que se dirige Certificado de Nivel básico A2 Alumnado escola
 - 2º Bachillerato del programa Bachibac 4.- Requisitos de participación.
 
 **4.1.** Para participar en las pruebas de certificación, el alumnado habrá de cumplir los siguientes requisitos:
-a. Deberá estar escolarizado en uno de los centros docentes públicos de la Comunidad Autónoma de Canarias recogidos en el Apéndice III de la presente resolución en el curso al que se dirige la prueba de cada uno de los niveles e idiomas, de acuerdo con lo recogido en la anterior instrucción número 3.
-b. El alumnado que se presente a la prueba de certificación de inglés deberá cursar inglés como primera lengua extranjera y haber aprobado esta materia en la primera evaluación.
+a. Deberá estar escolarizado en uno de los centros docentes públicos de la Comunidad Autónoma de Canarias recogidos en el Apéndice III de la presente resolución en el curso al que se dirige la prueba de cada uno de los niveles e idiomas, de acuerdo con lo recogido en la anterior instrucción número 3. b. El alumnado que se presente a la prueba de certificación de inglés deberá cursar inglés como primera lengua extranjera y haber aprobado esta materia en la primera evaluación.
 c. El alumnado de 4º del programa EMILE que se presenta a la prueba de certificación de francés deberá cursar francés como lengua extranjera y haber aprobado esta materia en la primera evaluación.
 d. El alumnado de 2º Bachillerato que se presente a la prueba de certificación de francés deberá cursar francés como primera lengua extranjera y haber aprobado esta materia en la primera evaluación.
 e. El alumnado de 2º Bachibac que se presente a la prueba de certificación de francés deberá cursar la materia de lengua y literatura francesa II y haber aprobado esta materia en la primera evaluación. En cualquier caso, el alumnado solo podrá participar en una única prueba de certificación, esto es, solo se podrá presentar a la prueba de certificación de uno de los niveles e idiomas convocados.
@@ -179,8 +183,7 @@ Prueba Alumnado al que se dirige Certificado de nivel intermedio B1 Alumnado esc
 - 2º Bachillerato del programa Bachibac 4.- Requisitos de participación.
 
 **4.1.** Para participar en las pruebas de certificación, el alumnado habrá de cumplir los siguientes requisitos:
-a. Deberá estar escolarizado en uno de los centros docentes públicos de la Comunidad Autónoma de Canarias recogidos en el Apéndice III de la presente resolución en el curso al que se dirige la prueba de cada uno de los niveles e idiomas, de acuerdo con lo recogido en la anterior instrucción número 3.
-b. El alumnado que se presente a la prueba de certificación de inglés deberá cursar inglés como primera lengua extranjera y haber aprobado esta materia en la primera evaluación.
+a. Deberá estar escolarizado en uno de los centros docentes públicos de la Comunidad Autónoma de Canarias recogidos en el Apéndice III de la presente resolución en el curso al que se dirige la prueba de cada uno de los niveles e idiomas, de acuerdo con lo recogido en la anterior instrucción número 3. b. El alumnado que se presente a la prueba de certificación de inglés deberá cursar inglés como primera lengua extranjera y haber aprobado esta materia en la primera evaluación.
 c. El alumnado de 4º del programa EMILE que se presenta a la prueba de certificación de francés deberá cursar francés como lengua extranjera y haber aprobado esta materia en la primera evaluación.
 d. El alumnado de 2º Bachillerato que se presente a la prueba de certificación de francés deberá cursar francés como primera lengua extranjera y haber aprobado esta materia en la primera evaluación.
 e. El alumnado de 2º Bachibac que se presente a la prueba de certificación de francés deberá cursar la materia de lengua y literatura francesa II y haber aprobado esta materia en la primera evaluación. En cualquier caso, el alumnado solo podrá participar en una única prueba de certificación, esto es, solo se podrá presentar a la prueba de certificación de uno de los niveles e idiomas convocados.
@@ -190,8 +193,7 @@ e. El alumnado de 2º Bachibac que se presente a la prueba de certificación de 
 **4.3.** El alumnado de 2º Bachillerato que curse como primera lengua extranjera una diferente a las que se convocan mediante la presente resolución podrá presentarse al nivel B1 o B2 de inglés siempre y cuando hayan superado inglés como lengua extranjera en 4º ESO. 4.- Requisitos de participación.
 
 **4.1.** Para participar en las pruebas de certificación, el alumnado habrá de cumplir los siguientes requisitos:
-a) Deberá estar escolarizado en uno de los centros docentes públicos de la Comunidad Autónoma de Canarias recogidos en el Apéndice III de la presente Resolución en el curso al que se dirige la prueba de cada uno de los niveles e idiomas, de acuerdo con lo recogido en la anterior Instrucción n.º 3.
-b) El alumnado que se presente a la prueba de certificación de inglés deberá cursar inglés como primera lengua extranjera y haber aprobado esta materia en la primera evaluación.
+a) Deberá estar escolarizado en uno de los centros docentes públicos de la Comunidad Autónoma de Canarias recogidos en el Apéndice III de la presente Resolución en el curso al que se dirige la prueba de cada uno de los niveles e idiomas, de acuerdo con lo recogido en la anterior Instrucción n.º 3. b) El alumnado que se presente a la prueba de certificación de inglés deberá cursar inglés como primera lengua extranjera y haber aprobado esta materia en la primera evaluación.
 c) El alumnado de 4.º del programa EMILE que se presenta a la prueba de certificación de francés deberá cursar francés como lengua extranjera y haber aprobado esta materia en la primera evaluación.
 
 d) El alumnado de 2.º de Bachillerato que se presente a la prueba de certificación de francés deberá cursar francés como primera lengua extranjera y haber aprobado esta materia en la primera evaluación.
@@ -319,9 +321,7 @@ competencias generales, sobre todo el saber declarativo y la competencia existen
 
 **10.7.** La página web de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes albergará documentación informativa relativa a las pruebas de certificación de los niveles convocados. Las personas titulares de la dirección de los centros públicos de la Comunidad Autónoma de Canarias a los que se dirige esta convocatoria velarán para que se facilite esta información al alumnado de su centro, bien a través de los departamentos de coordinación didáctica de los idiomas francés e inglés, o bien a través de cualquier otro medio que la dirección del centro estime oportuno. 11.- Estructura y duración de las pruebas.
 
-**11.1.** La estructura general de la prueba viene recogida en la instrucción 7 de la Resolución de la DGFPEA, de 5 de julio de 2023. Asimismo, la mencionada resolución recoge las características generales y especificas de la prueba, incluyendo los criterios de evaluación, las áreas temáticas, los tipos de tarea y las características de los textos para cada una de las actividades de lengua, en el Apéndice I para el nivel básico A2, el Apéndice II para el nivel intermedio B1 y el Apéndice III para el nivel intermedio B2.
-
-**11.2.** En el nivel básico A2, la prueba consta de cuatro actividades de lengua independientes:
+**11.1.** La estructura general de la prueba viene recogida en la instrucción 7 de la Resolución de la DGFPEA, de 5 de julio de 2023. Asimismo, la mencionada resolución recoge las características generales y especificas de la prueba, incluyendo los criterios de evaluación, las áreas temáticas, los tipos de tarea y las características de los textos para cada una de las actividades de lengua, en el Apéndice I para el nivel básico A2, el Apéndice II para el nivel intermedio B1 y el Apéndice III para el nivel intermedio B2. **11.2.** En el nivel básico A2, la prueba consta de cuatro actividades de lengua independientes:
 • comprensión de textos escritos,
 • comprensión de textos orales,
 • producción y coproducción de textos escritos, y
@@ -334,9 +334,7 @@ competencias generales, sobre todo el saber declarativo y la competencia existen
 
 **11.3.** La prueba de certificación de enseñanzas de idiomas está conformada por una parte escrita y una parte oral. La parte escrita está constituida por las siguientes actividades de lengua: comprensión de textos escritos, comprensión de textos orales, producción y coproducción de textos escritos y, en el caso del nivel intermedio B1 e intermedio B2, la tarea de mediación escrita.
 
-La parte oral está constituida por la producción y coproducción de textos orales y mediación, en el caso del nivel básico A2, y la producción y coproducción de textos orales y la tarea de mediación oral, en el caso del nivel intermedio B1 e intermedio B2.
-
-**11.4.** La parte escrita se desarrollará en una sesión única y con fecha común para todo el alumnado que se presenta a la convocatoria para la población escolar. La fecha para esta sesión es la recogida en los Apéndices I y II de esta Resolución.
+La parte oral está constituida por la producción y coproducción de textos orales y mediación, en el caso del nivel básico A2, y la producción y coproducción de textos orales y la tarea de mediación oral, en el caso del nivel intermedio B1 e intermedio B2. **11.4.** La parte escrita se desarrollará en una sesión única y con fecha común para todo el alumnado que se presenta a la convocatoria para la población escolar. La fecha para esta sesión es la recogida en los Apéndices I y II de esta Resolución.
 
 **11.5.** La parte oral se desarrollará en una o varias sesiones, según sea el caso, con fechas diferentes asignadas para cada centro, dentro del periodo recogido en los Apéndice I y II de esta Resolución. Las personas aspirantes serán convocadas por el tribunal examinador, a través del centro, con especificación del día y la hora en que deben comparecer para su realización.
 
@@ -614,9 +612,7 @@ La producción y coproducción de textos escritos se evaluará los siguientes as
 **15.6.3.** La calificación global final será la de "No Apto" en los casos que se recogen a continuación:
 a) No haber realizado alguna o algunas de las actividades de lengua.
 b) Haber obtenido menos de cinco (5) puntos en alguna de las actividades de lengua.
-c) No haber alcanzado como calificación final una media aritmética de cinco (5) puntos, en el caso de la prueba de certificación de nivel básico A2, o de seis puntos con cinco (6,5), en el caso de la prueba de certificación del nivel intermedio B1 y nivel intermedio B2.
-
-**15.6.4.** En el supuesto de que no se realice ninguna de las actividades de lengua que conforman la prueba de certificación, se otorgará la calificación global final de "No presentado" (NP).
+c) No haber alcanzado como calificación final una media aritmética de cinco (5) puntos, en el caso de la prueba de certificación de nivel básico A2, o de seis puntos con cinco (6,5), en el caso de la prueba de certificación del nivel intermedio B1 y nivel intermedio B2. **15.6.4.** En el supuesto de que no se realice ninguna de las actividades de lengua que conforman la prueba de certificación, se otorgará la calificación global final de "No presentado" (NP).
 
 **15.7.** Los resultados de las pruebas se recogerán en las actas de calificación. En ellas se incluirán la relación nominal del alumnado, así como el número del documento acreditativo de la identidad legalmente reconocido, y se especificarán los resultados obtenidos en cada una de las actividades de lengua que integran la prueba, así como la calificación global final con indicación de quien obtiene la certificación. Estas actas de calificación serán firmadas por el tribunal examinador y visadas por quien ostente la dirección del centro.
 

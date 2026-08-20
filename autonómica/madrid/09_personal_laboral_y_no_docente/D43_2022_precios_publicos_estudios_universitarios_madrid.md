@@ -1,9 +1,11 @@
 ---
 id: norm-mad-d43-2022
-titulo: Decreto 43/2022, de 29 de junio, por el que se establecen los precios públicos por estudios universitarios en la Comunidad de Madrid
+titulo: Decreto 43/2022, de 29 de junio, por el que se establecen los precios públicos
+  por estudios universitarios en la Comunidad de Madrid
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Decreto
 numero_disposicion: 43/2022
 fecha_disposicion: '2022-06-29'
@@ -18,20 +20,20 @@ clasificacion:
   categoria_canonica: 09_personal_laboral_y_no_docente
   subcategoria: Enseñanzas universitarias y de régimen especial
 tags:
-  - tasas_universitarias
-  - precios_publicos
-  - universidades
-  - comunidad_de_madrid
+- tasas_universitarias
+- precios_publicos
+- universidades
+- comunidad_de_madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-rdl-2-2015
-    - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-rdl-2-2015
+  - norma_id: norm-es-rdl-5-2015
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-mad-d-29-2013
 ---
 # Decreto 43/2022, de 29 de junio, por el que se establecen los precios públicos por estudios universitarios en la Comunidad de Madrid
 
@@ -50,9 +52,7 @@ Pág. 11 De acuerdo con el principio de proporcionalidad, contiene la regulació
 
 1. Los precios públicos por crédito de las enseñanzas de grado que establecerán las universidades públicas de la Comunidad de Madrid serán los que figuran en el Anexo I, según se trate de primera, segunda, tercera o cuarta y sucesivas matrículas. 2. Estos precios están diferenciados según el nivel de experimentalidad en el que se incluye cada grado, de acuerdo con el Anexo II. En los estudios conducentes a títulos de carácter oficial y validez en todo el territorio nacional impartidos por las universidades públicas, cuya implantación autorice la Comunidad de Madrid con posterioridad a la entrada en vigor de este decreto, el precio por crédito será el correspondiente a la experimentalidad que determine cada universidad. 3. El importe de la matrícula de estos estudios será el resultante de la suma de los importes de los diferentes créditos matriculados en cada materia, asignatura o disciplina.
 
-#### Artículo 3. Precios públicos de las enseñanzas de máster que habiliten para el ejercicio de actividades profesionales reguladas en España y similares 1.
-
-El importe de los precios públicos por créditos en los estudios universitarios de máster que habiliten para el ejercicio de actividades profesionales reguladas en España y
+#### Artículo 3. Precios públicos de las enseñanzas de máster que habiliten para el ejercicio de actividades profesionales reguladas en España y similares 1. El importe de los precios públicos por créditos en los estudios universitarios de máster que habiliten para el ejercicio de actividades profesionales reguladas en España y
 
 Pág. 12 otras similares será el que figura en el Anexo III, según se trate de primera, segunda, tercera o cuarta matrícula. 2. El importe de la matrícula de estos estudios será el resultante de la suma de los importes de los diferentes créditos matriculados en cada materia, asignatura o disciplina.
 
@@ -66,9 +66,7 @@ Pág. 12 otras similares será el que figura en el Anexo III, según se trate de
 
 #### Artículo 6. Precios públicos de las enseñanzas de especialidades sanitarias En las enseñanzas de especialidades sanitarias los precios serán los señalados en el.
 
-## Anexo V. , apartado 1.
-
-#### Artículo 7. Precios públicos de las programaciones conjuntas de estudios oficiales (PCEO).
+## Anexo V. , apartado 1. #### Artículo 7. Precios públicos de las programaciones conjuntas de estudios oficiales (PCEO).
 
 El precio del crédito en programaciones conjuntas de estudios oficiales en el que intervengan títulos con distintas experimentalidades en el caso de enseñanzas de grado, o con distintos precios en el caso de enseñanzas de máster, será el correspondiente a la media aritmética del precio de los títulos que la componen.
 

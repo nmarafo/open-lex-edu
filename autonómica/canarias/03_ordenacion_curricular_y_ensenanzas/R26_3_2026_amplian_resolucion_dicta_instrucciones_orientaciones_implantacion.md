@@ -1,7 +1,14 @@
 ---
 id: norm-can-res-boc-2026-070-41
 codigo_sintetizado: Resolucion BOC 41
-titulo: Resolución de 26 de marzo de 2026, por la que se amplían la Resolución de 30 de octubre de 2024, que dicta instrucciones y orientaciones para la implantación y desarrollo de los grados de formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los currículos; y la Resolución de 21 de febrero de 2025, que dicta instrucciones para la implantación de los itinerarios formativos de Formación Profesional Adaptada y el desarrollo de los currículos de los módulos de carácter general a partir del curso escolar 2024/2025, en el ámbito de la Comunidad Autónoma de Canarias.
+titulo: Resolución de 26 de marzo de 2026, por la que se amplían la Resolución de
+  30 de octubre de 2024, que dicta instrucciones y orientaciones para la implantación
+  y desarrollo de los grados de formación D y E, a partir del curso escolar 2024/2025,
+  y se establece la distribución horaria y modular de los currículos; y la Resolución
+  de 21 de febrero de 2025, que dicta instrucciones para la implantación de los itinerarios
+  formativos de Formación Profesional Adaptada y el desarrollo de los currículos de
+  los módulos de carácter general a partir del curso escolar 2024/2025, en el ámbito
+  de la Comunidad Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,50 +20,50 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-  - curriculo
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - formacion-profesional
+- curriculo
+- ensenanzas-deportivas
+- equipos-directivos
+- formacion-profesional
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-212-1991
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-can-res-boc-2024-226-44
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-can-res-boc-2026-070-115
-    - norma_id: norm-can-res-boc-2026-070-116
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2024-10684
-    - norma_id: norm-es-2025-2039
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-boc-2026-070-115
+  - norma_id: norm-can-res-boc-2026-070-116
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2024-10684
+  - norma_id: norm-es-2025-2039
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-l-39-2015
   fundamento_de:
-    - norma_id: norm-can-res-028
-    - norma_id: norm-can-res-boc-2026-070-115
-    - norma_id: norm-can-res-boc-2026-070-116
+  - norma_id: norm-can-res-028
+  - norma_id: norm-can-res-boc-2026-070-115
+  - norma_id: norm-can-res-boc-2026-070-116
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2024-10684
-    - norma_id: norm-es-2025-2039
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-res-boc-2024-226-44
-    - norma_id: norm-can-res-boc-2026-070-115
-    - norma_id: norm-can-res-boc-2026-070-116
-    - norma_id: norm-can-d-212-1991
+  - '1'
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2024-10684
+  - norma_id: norm-es-2025-2039
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-can-res-boc-2026-070-115
+  - norma_id: norm-can-res-boc-2026-070-116
+  - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-070-1143.pdf
 ---
 # Resolución de 26 de marzo de 2026, por la que se amplían la Resolución de 30 de octubre de 2024, que dicta instrucciones y orientaciones para la implantación y desarrollo de los grados de formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los currículos; y la Resolución de 21 de febrero de 2025, que dicta instrucciones para la implantación de los itinerarios formativos de Formación Profesional Adaptada y el desarrollo de los currículos de los módulos de carácter general a partir del curso escolar 2024/2025, en el ámbito de la Comunidad Autónoma de Canarias.
@@ -64,8 +71,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-070-1143.
 ## Preámbulo
 
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes [Resolución de 26 de marzo de 2026](../05_alumnado_y_servicios_escolares/R26_3_2026_convocan_premios_extraordinarios_bachillerato_ambito_comunidad.md), por la que se amplían la Resolución de 30 de octubre de 2024, que dicta instrucciones y orientaciones para la implantación y desarrollo de los grados de formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los currículos; y la Resolución de 21 de febrero de 2025, que dicta instrucciones para la implantación de los itinerarios formativos de Formación Profesional Adaptada y el desarrollo de los currículos de los módulos de carácter general a partir del curso escolar 2024/2025, en el ámbito de la Comunidad Autónoma de Canarias. Examinado el expediente tramitado por la Responsable del Servicio de Formación Profesional de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, y de acuerdo con los siguientes ANTECEDENTES DE HECHO
-Primero.- Con fecha 30 de octubre de 2024 se aprobó la Resolución n.º 395/2024, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se dictan instrucciones y orientaciones para la implantación y desarrollo de los grados de formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los currículos, en el ámbito de la Comunidad Autónoma de Canarias. La citada Resolución fue publicada en el Boletín Oficial de Canarias n.º 226, de 13 de noviembre de 2024.
-Segundo.- Con fecha 6 de marzo de 2025 se publicó la Resolución de 21 de febrero de 2025, por la que se dictan instrucciones para la implantación de los itinerarios formativos de Formación Profesional Adaptada y el desarrollo de los currículos de los módulos de carácter general, a partir del curso escolar 2024/2025, en el ámbito de la Comunidad Autónoma de Canarias.
+Primero.- Con fecha 30 de octubre de 2024 se aprobó la Resolución n.º 395/2024, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se dictan instrucciones y orientaciones para la implantación y desarrollo de los grados de formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los currículos, en el ámbito de la Comunidad Autónoma de Canarias. La citada Resolución fue publicada en el Boletín Oficial de Canarias n.º 226, de 13 de noviembre de 2024. Segundo.- Con fecha 6 de marzo de 2025 se publicó la Resolución de 21 de febrero de 2025, por la que se dictan instrucciones para la implantación de los itinerarios formativos de Formación Profesional Adaptada y el desarrollo de los currículos de los módulos de carácter general, a partir del curso escolar 2024/2025, en el ámbito de la Comunidad Autónoma de Canarias.
 Tercero.- El Gobierno de España ha aprobado, al inicio de 2026, nuevos cursos de especialización relacionados con las familias de profesionales Agraria, Hostelería y Turismo, Informática y Comunicaciones, y la nueva familia profesional de Inteligencia Artificial y Data, ampliando el catálogo de formaciones ofertadas por el sistema español de Formación Profesional.
 Cuarto.- En este sentido y en el marco del desarrollo de nuevos Ciclos Formativos de Formación Profesional de Grado Medio y Superior (grados D), Cursos de especialización (grados E) e itinerarios formativos de Formación Profesional Adaptada en el ámbito en la Comunidad Autónoma de Canarias, la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial considera necesario dar continuidad a la elaboración de los cuadros horarios correspondientes. A los antecedentes de hecho expuestos les resultan de aplicación los siguientes
 

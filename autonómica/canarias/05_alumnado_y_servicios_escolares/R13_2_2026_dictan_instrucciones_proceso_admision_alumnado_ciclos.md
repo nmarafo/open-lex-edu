@@ -1,7 +1,13 @@
 ---
 id: norm-can-res-boc-2026-039-103
 codigo_sintetizado: Resolucion BOC 103
-titulo: Resolución de 13 de febrero de 2026, por la que se dictan instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grados D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027.
+titulo: Resolución de 13 de febrero de 2026, por la que se dictan instrucciones sobre
+  el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y
+  Superior (Grado D, niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación
+  Profesional de Grados D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas
+  Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas
+  en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias
+  para el curso escolar 2026-2027.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,81 +19,79 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión y escolarización del alumnado
 tags:
-  - admisi-n-y-escolarizaci-n-del-alumnado
-  - admision-alumnado
-  - ensenanzas-artisticas
-  - ensenanzas-deportivas
-  - eoi
-  - equipos-directivos
-  - formacion-profesional
-  - oposiciones
-  - profesorado
+- admisi-n-y-escolarizaci-n-del-alumnado
+- admision-alumnado
+- ensenanzas-artisticas
+- ensenanzas-deportivas
+- eoi
+- equipos-directivos
+- formacion-profesional
+- oposiciones
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-d-9-2022
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-res-134
-    - norma_id: norm-can-res-boc-2017-132-1
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-can-res-boc-2026-039-102
-    - norma_id: norm-es-1988-3987
-    - norma_id: norm-es-1988-6938
-    - norma_id: norm-es-2000-544
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2002-12018
-    - norma_id: norm-es-2002-25289
-    - norma_id: norm-es-2007-10487
-    - norma_id: norm-es-2007-19326
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2020-17274
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2021-979
-    - norma_id: norm-es-2024-10685
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-d-9-2022
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-boc-2017-132-1
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-boc-2026-039-102
+  - norma_id: norm-es-1988-3987
+  - norma_id: norm-es-1988-6938
+  - norma_id: norm-es-2000-544
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2002-25289
+  - norma_id: norm-es-2007-10487
+  - norma_id: norm-es-2007-19326
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2020-17274
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2021-979
+  - norma_id: norm-es-2024-10685
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-l-39-2015
   fundamento_de:
-    - norma_id: norm-can-res-099
-    - norma_id: norm-can-res-112
-    - norma_id: norm-can-res-boc-2026-039-102
-    - norma_id: norm-can-res-boc-2026-039-111
-    - norma_id: norm-can-res-boc-2026-073-113
-    - norma_id: norm-can-res-boc-2026-132-101
+  - norma_id: norm-can-res-099
+  - norma_id: norm-can-res-112
+  - norma_id: norm-can-res-boc-2026-039-102
+  - norma_id: norm-can-res-boc-2026-039-111
+  - norma_id: norm-can-res-boc-2026-073-113
+  - norma_id: norm-can-res-boc-2026-132-101
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-res-boc-2024-230-25
-    - norma_id: norm-can-d-9-2022
-    - norma_id: norm-can-res-134
-    - norma_id: norm-es-2000-544
-    - norma_id: norm-es-1988-3987
-    - norma_id: norm-es-1988-6938
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2002-25289
-    - norma_id: norm-es-2002-12018
-    - norma_id: norm-es-2007-19326
-    - norma_id: norm-es-2020-17274
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2021-979
-    - norma_id: norm-es-2024-10685
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-2007-10487
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-res-boc-2017-132-1
-    - norma_id: norm-can-res-boc-2026-039-102
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-d-9-2022
+  - norma_id: norm-can-res-134
+  - norma_id: norm-es-2000-544
+  - norma_id: norm-es-1988-3987
+  - norma_id: norm-es-1988-6938
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2002-25289
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2007-19326
+  - norma_id: norm-es-2020-17274
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2021-979
+  - norma_id: norm-es-2024-10685
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-2007-10487
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-res-boc-2017-132-1
+  - norma_id: norm-can-res-boc-2026-039-102
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-039-641.pdf
 ---
-# Resolución de 13 de febrero de 2026, por la que se dictan instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grados D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027.
-
-## Preámbulo
+# Resolución de 13 de febrero de 2026, por la que se dictan instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grados D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027. ## Preámbulo
 
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes [Resolución de 13 de febrero de 2026](./R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md), por la que se dictan instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grados D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027. Vista la necesidad de dictar instrucciones en el proceso de admisión del alumnado para el curso 2026/2027 en las Enseñanzas de Formación Profesional de Grados D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en los centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias, y teniendo en cuenta los siguientes ANTECEDENTES DE HECHO
 Primero.- La presente Resolución tiene como objetivo establecer las directrices relativas a la gestión de la actividad de los centros educativos y aclarar los aspectos del procedimiento de admisión que se consideran necesarios para que los destinatarios, tanto centros educativos como alumnado y familias, comprendan correctamente su tramitación. Esto contribuirá a garantizar el ejercicio efectivo del derecho a la educación, asegurando el acceso en condiciones de igualdad para todos los intervinientes en el procedimiento.
@@ -109,8 +113,7 @@ Noveno.- El Decreto 86/2025, de 11 de febrero, de evaluación y acreditación de
 Décimo.- El Decreto 142/2018, de 8 de octubre, por el que se establece la ordenación y el currículo de las enseñanzas y la certificación de idiomas de régimen especial para la Comunidad Autónoma de Canarias, regula en su Capítulo III el acceso a las enseñanzas y la movilidad del alumnado. Undécimo.- La Orden de 3 de marzo de 2022, por la que se desarrolla el [Decreto 9/2022](./D9_2022_regula_admision_alumnado_centros_docentes_publicos.md), de 20 de enero, que regula la admisión del alumnado en centros docentes que oferten enseñanzas no universitarias sostenidas con fondos públicos en la Comunidad Autónoma de Canarias, en su Capítulo II, Sección 4.ª, señala las instrucciones específicas que debe seguir la admisión de las Enseñanzas de Formación Profesional, Enseñanzas Elementales y Profesionales de Música, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas de Idiomas y Enseñanzas Deportivas. Duodécimo.- La [Resolución de 30 de junio de 2017](../01_marco_normativo_general_y_organico/R30_6_2017_dictan_instrucciones_actuacion_centros_docentes_sostenidos.md), por la que se dictan instrucciones para la actuación de los centros docentes sostenidos con fondos públicos, en los casos de padres, madres, separados, divorciados, que hayan finalizado su convivencia, o representantes legales, respecto a sus descendientes o representados, menores de edad, en el ámbito de las enseñanzas no universitarias de la Comunidad Autónoma de Canarias, regula en las Instrucciones 4.ª y 5.ª de su anexo la escolarización y los cambios de centro. En su virtud, con la intención de unificar todos los procedimientos de admisión posibles, y de acuerdo con la atribución prevista en la disposición adicional tercera de la Orden de 3 de marzo de 2022, y en ejercicio de las competencias atribuidas en el artículo 20.2.d) del Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, aprobado por [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio,
 
 RESUELVO:
-Primero.- Aprobar las instrucciones que se contienen en la presente Resolución del proceso de admisión del alumnado en los centros docentes sostenidos con fondos públicos en las Enseñanzas de Formación Profesional de Grados D conducentes a los Ciclos Formativos de Grado Básico, Grado Medio y Grado Superior (niveles 1, 2 y 3, respectivamente), Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas de Idiomas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas Deportivas en la Comunidad Autónoma de Canarias para el curso escolar 2026/2027.
-Segundo.- La dirección del centro público o, en su caso, el titular de los centros privados concertados, los consejos escolares y los consejos sociales deberán colaborar y velar por la adecuada tramitación del procedimiento de admisión y del procedimiento de matrícula, y serán los responsables de su correcta ejecución.
+Primero.- Aprobar las instrucciones que se contienen en la presente Resolución del proceso de admisión del alumnado en los centros docentes sostenidos con fondos públicos en las Enseñanzas de Formación Profesional de Grados D conducentes a los Ciclos Formativos de Grado Básico, Grado Medio y Grado Superior (niveles 1, 2 y 3, respectivamente), Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas de Idiomas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas Deportivas en la Comunidad Autónoma de Canarias para el curso escolar 2026/2027. Segundo.- La dirección del centro público o, en su caso, el titular de los centros privados concertados, los consejos escolares y los consejos sociales deberán colaborar y velar por la adecuada tramitación del procedimiento de admisión y del procedimiento de matrícula, y serán los responsables de su correcta ejecución.
 Tercero.- Ordenar la publicación de las presentes instrucciones en el Boletín Oficial de Canarias y en la página web de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes para su divulgación. Contra el presente acto, que no pone fin a la vía administrativa, cabe interponer en el plazo de un mes, a contar desde el día siguiente al de su publicación en el Boletín Oficial de Canarias, recurso de alzada ante la Viceconsejería de Formación Profesional y Cualificaciones Profesionales, sin perjuicio de cualquier otro que se estime procedente interponer. Las Palmas de Gran Canaria, a 13 de febrero de 2026.- La Directora General de Formación Profesional y Enseñanzas de Régimen Especial, Carolina León Martínez.
 
 ÍNDICE
@@ -261,10 +264,7 @@ c) Haber sido propuesto por el equipo docente a través del consejo orientador o
 3. Del total de las plazas escolares ofertadas se reservará un 5% para el alumnado con discapacidad igual o superior al 33% y otro 5% para los deportistas que en el momento de presentar la solicitud tengan la condición de deportistas de alto nivel o alto rendimiento.
 
 4. Se distinguirán dos colectivos para el acceso a los Ciclos Formativos de Grado Básico:
-a) Alumnado escolarizado en el curso escolar 2025/2026.
-b) Alumnado no escolarizado en el curso escolar 2025/2026.
-
-5. En el caso de que la demanda supere la oferta de plazas escolares de un grupo, las solicitudes se ordenarán de acuerdo con los siguientes criterios y con el siguiente orden de prelación:
+a) Alumnado escolarizado en el curso escolar 2025/2026. b) Alumnado no escolarizado en el curso escolar 2025/2026. 5. En el caso de que la demanda supere la oferta de plazas escolares de un grupo, las solicitudes se ordenarán de acuerdo con los siguientes criterios y con el siguiente orden de prelación:
 a) Para el alumnado escolarizado en el curso 2025/2026 se ordenará en función de la edad y el nivel de escolarización en el curso anterior al que solicita plaza, adjudicándose las plazas escolares por cada grupo de orden de preferencia, tal y como se refleja en la siguiente tabla:
  Decimoséptima.- Procedimiento para solicitud y adjudicación de plaza escolar.
 
@@ -275,10 +275,7 @@ a) Para el alumnado escolarizado en el curso 2025/2026 se ordenará en función 
 3. Del total de las plazas escolares ofertadas se reservará un 5% para el alumnado con discapacidad igual o superior al 33% y otro 5% para los deportistas que en el momento de presentar la solicitud tengan la condición de deportistas de alto nivel o alto rendimiento.
 
 4. Se distinguirán dos colectivos para el acceso a los ciclos formativos de grado básico:
-a) Alumnado escolarizado en el curso escolar 2025/2026.
-b) Alumnado no escolarizado en el curso escolar 2025/2026.
-
-5. En el caso de que la demanda supere la oferta de plazas escolares de un grupo, las solicitudes se ordenarán de acuerdo con los siguientes criterios y con el siguiente orden de prelación:
+a) Alumnado escolarizado en el curso escolar 2025/2026. b) Alumnado no escolarizado en el curso escolar 2025/2026. 5. En el caso de que la demanda supere la oferta de plazas escolares de un grupo, las solicitudes se ordenarán de acuerdo con los siguientes criterios y con el siguiente orden de prelación:
 a) Para el alumnado escolarizado en el curso 2025/2026 se ordenará en función de la edad y el nivel de escolarización en el curso anterior al que solicita plaza, adjudic ándose las plazas escolares por cada grupo de orden de preferencia, tal y como se refleja en la siguiente tabla:
 
 Orden de preferencia Edad Alumnado escolarizado 2025/2026 1º 15 años 3.º ESO/1º PDC* 2º 15 años 2.º ESO 3º 16 años 3.º ESO/1º PDC* 4º 16 años 2.º ESO 5º 17 años 3.º ESO/ 1.º PDC* 6º 17 años 2.º ESO 7º 15 años 2.º PDC 8º 16 años 2.º PDC 9º 17 años 2.º PDC *PDC: Programa diversificación curricular. El alumnado escolarizado que solicite plaza escolar en el mismo centro en el que se encuentra En la dirección -y030yKll7-sZxAhmpQLNFBHNvp El alumnado escolarizado que solicite plaza escolar en el mismo centro en el que se encuentra matriculado, tendrá prioridad sobre el alumnado procedente de otro centro, siempre que solicite dicho estudio en su primera petición. La solicitud del alumnado escolarizado, en su caso, deberá estar acompañada de la propuesta del Consejo Orientador (Anexo I), junto con el documento de consentimiento de los padres, madres o tutores o tutoras, guardadores o guardadoras (Anexo III) y, en su caso, la petición propia del alumnado (Anexo II). Estos tres documentos deberán presentarse en el plazo previsto para la admisión de esta enseñanza y también en el momento de formalizar la matrícula del alumnado y se incluirán en el expediente del alumno o de la alumna.
@@ -423,8 +420,7 @@ Título de Bachiller o equivalente.(55% de las plazas reservadas) Se priorizará
 Título de Bachiller o equivalente. Se priorizarán los estudiantes que han finalizado estos estudios durante los tres últimos años naturales. (Cursos 2025/2026, 2024/2025 y 2023/2024). 1º Modalidades y materias de Bachillerato cursadas según lo regulado en los reales decretos por los que se establecen los títulos (anexo V). 2º Nota media del expediente académico ordenados por curso descendente.
 Título de Técnico de Formación Profesional. Se priorizarán los estudiantes que han finalizado estos estudios durante los tres últimos años naturales. (Cursos 2025/2026, 2024/2025 y 2023/2024). 1º Misma familia profesional (anexo VI) (1) 2º Nota media del expediente académico. Haber superado una oferta formativa de Grado C incluida en el ciclo. Nota media del expediente (2) Prueba de acceso a los ciclos formativos de grado superior (Grado D, nivel 3) por la opción correspondiente. Curso de formación específico para el acceso a los ciclos de grado superior con la opción correspondiente 1º Opción correspondiente con vía preferente. 2º Nota de la prueba de acceso o del curso de formación específico. (3) 1º. Título de Técnico Superior de Formación Profesional o equivalente a efectos académicos. 2º. Título universitario. 3º. Pruebas de acceso con una opción distinta a la de vía preferente o curso de formación específico para el acceso a los ciclos de grado superior con una opción distinta a la vía preferente. 4 º . P r u e b a d e a c c e s o a l a u n i v e r s i d a d p a r a mayores de 25 años. 5º. Otras vías de acceso contempladas en la legislación vigente. Nota media del expediente académico.
 (1) Tendrá preferencia el alumnado cuyo título de Técnico pertenezca a la misma familia profesional del ciclo formativo de grado superior solicitado (anexo VI).
-(2) Si el Certificado de profesionalidad/Certificado profesional viniera expresado con la calificación de apto, sin figurar la nota media del expediente, se otorgará una puntuación de 5.
-(3) Si la valoración de las pruebas de acceso viniera expresada con la calificación de apto, se otorgará una puntuación de 5. Vigésima tercera.- Otras vías de acceso. Las titulaciones y certificaciones declaradas equivalentes a los efectos de acceso a los Grados D títulos de Técnico y Técnico Superior establecidas por la disposición adicional sexta del Real Decreto 659/2023, de 18 de julio, por la que se desarrolla la ordenación del Sistema de Formación Profesional del sistema educativo, relativa a otras titulaciones equivalentes a efectos de acceso y artículo 21 del Real Decreto 86/2025, de 11 de febrero, de evaluación y acreditación de las competencias básicas En la dirección -y030yKll7-sZxAhmpQLNFBHNvp Vigésima tercera.- Otras vías de acceso. Las titulaciones y certificaciones declaradas equivalentes a los efectos de acceso a los Grados D títulos de Técnico y Técnico Superior establecidas por la disposición adicional
+(2) Si el Certificado de profesionalidad/Certificado profesional viniera expresado con la calificación de apto, sin figurar la nota media del expediente, se otorgará una puntuación de 5. (3) Si la valoración de las pruebas de acceso viniera expresada con la calificación de apto, se otorgará una puntuación de 5. Vigésima tercera.- Otras vías de acceso. Las titulaciones y certificaciones declaradas equivalentes a los efectos de acceso a los Grados D títulos de Técnico y Técnico Superior establecidas por la disposición adicional sexta del Real Decreto 659/2023, de 18 de julio, por la que se desarrolla la ordenación del Sistema de Formación Profesional del sistema educativo, relativa a otras titulaciones equivalentes a efectos de acceso y artículo 21 del Real Decreto 86/2025, de 11 de febrero, de evaluación y acreditación de las competencias básicas En la dirección -y030yKll7-sZxAhmpQLNFBHNvp Vigésima tercera.- Otras vías de acceso. Las titulaciones y certificaciones declaradas equivalentes a los efectos de acceso a los Grados D títulos de Técnico y Técnico Superior establecidas por la disposición adicional
 
 #### Sexta. del [Real Decreto 659/2023](../03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por la que se desarrolla la ordenación del Sistema de Formación Profesional del sistema educativo, relativa a otras titulaciones equivalentes a efectos de acceso, y artículo 21 del Real Decreto 86/2025, de 11 de febrero, de evaluación y acreditación de las competencias básicas adquiridas por experiencia laboral, por vías no formales de formación y aprendizajes informales son las siguientes:
 
@@ -507,9 +503,7 @@ b) Certificación de la empresa donde haya adquirido la experiencia laboral, en 
 
 10. Las listas de reserva generadas en el procedimiento de asignación de plazas tendrán vigencia hasta la fecha límite de certificación de matrícula (modelo 0) indicada en la resolución que establezca el calendario escolar del curso 2026/2027 en la Comunidad Autónoma de Canarias.
 
-11. A partir de esa fecha, los centros educativos con plazas vacantes para la modalidad presencial, en coordinación con la Inspección Educativa, podrán matricular nuevo alumnado hasta completar las plazas disponibles. En estos casos, la fecha límite para la formalización de matrícula será la del día anterior al comienzo del periodo de preinscripción para solicitud de plazas en el curso 2027/2028.
-
-12. En el caso de no cubrirse las vacantes en el procedimiento ordinario de admisión, para poder matricularse mediante prueba de acceso en un Ciclo Formativo de Grado Superior deberá ser requisito indispensable disponer de la vía preferente de la misma (A, B o C) según la familia profesional a la que pertenezca el ciclo. II.c. SINGULARIDAD DE CICLOS FORMATIVOS. Vigésima sexta.- Ciclos Formativos con condiciones singulares.
+11. A partir de esa fecha, los centros educativos con plazas vacantes para la modalidad presencial, en coordinación con la Inspección Educativa, podrán matricular nuevo alumnado hasta completar las plazas disponibles. En estos casos, la fecha límite para la formalización de matrícula será la del día anterior al comienzo del periodo de preinscripción para solicitud de plazas en el curso 2027/2028. 12. En el caso de no cubrirse las vacantes en el procedimiento ordinario de admisión, para poder matricularse mediante prueba de acceso en un Ciclo Formativo de Grado Superior deberá ser requisito indispensable disponer de la vía preferente de la misma (A, B o C) según la familia profesional a la que pertenezca el ciclo. II.c. SINGULARIDAD DE CICLOS FORMATIVOS. Vigésima sexta.- Ciclos Formativos con condiciones singulares.
 
 1. En ciertos Ciclos Formativos, dado el perfil profesional correspondiente, es necesaria la acreditación previa de requisitos para cursar ciertos módulos profesionales o llevar a cabo la formación dual.
 
@@ -602,9 +596,7 @@ a) Para acceder al curso de iniciación de las Enseñanzas Elementales de Músic
 b) Para acceder al curso primero de las Enseñanzas Elementales de Música será necesario superar una prueba de acceso en la que se valorarán únicamente las aptitudes de los aspirantes. La edad mínima para realizar la prueba de acceso al primer curso de estas enseñanzas será de ocho años y la máxima de doce, cumplidos antes de la finalización del año natural del inicio del curso académico. Excepcionalmente, para el acceso al primer curso, la dirección del centro podrá autorizar la realización de la prueba a aspirantes de menor edad que acrediten tener concedida, por la Consejería competente en materia de educación, la flexibilización de la escolarización por su condición de alta capacidad intelectual.
 c) Para acceder directamente a un curso distinto de primero, en una especialidad determinada, será preciso superar una prueba específica de acceso en la que el aspirante deberá demostrar tener los conocimientos necesarios para cursar con aprovechamiento estas enseñanzas. Esta prueba tendrá como referente los objetivos, contenidos y criterios de evaluación de las asignaturas del curso anterior al que se aspira.
 
-En el ingreso a un curso distinto de primero, la edad máxima será correlativa con el curso, es decir, trece años para segundo, catorce para tercero y quince para cuarto. En relación a la valoración y calificación de la prueba de acceso a Enseñanzas Elementales, se estará a lo dispuesto en el artículo 12 de la Orden de 16 de marzo de 2018, por la que se establece la ordenación y el currículo de las Enseñanzas Elementales de Música en el ámbito de la Comunidad Autónoma de Canarias. A la puntuación final obtenida por el aspirante en la prueba de acceso se le aplicará un índice corrector de edad. Dicho índice es el establecido en la Circular de la Dirección General de Formación Profesional y Educación de Adultos de 22 de septiembre de 2004. Los empates que se produzcan en la puntuación total que determina el orden final para la admisión, se resolverán según lo establecido en el artículo 14.5 de la citada Orden de 16 de marzo de 2018.
-
-2. Acceso a las Enseñanzas Profesionales de Música. Para acceder directamente a cualquiera de los cursos de las Enseñanzas Profesionales de Música, en una especialidad determinada, será preciso superar una prueba específica de acceso en la que el aspirante deberá demostrar tener los conocimientos necesarios para cursar con aprovechamiento estas enseñanzas. Dicha prueba tendrá como referente los objetivos, contenidos y criterios de evaluación de las asignaturas del curso anterior al que se aspira. Para las Enseñanzas Profesionales de Música, se estará a lo dispuesto en la Orden de 5 de mayo de 2009, por la que se regula el acceso y la admisión a las Enseñanzas Profesionales de Música en la Comunidad Autónoma de Canarias. No podrán concurrir a estas pruebas, para acceder a las Enseñanzas Profesionales de Música y en la misma especialidad, aspirantes que estén cursando estas enseñanzas y ocupando una plaza académica en cualquiera de los Conservatorios Profesionales de Música. En cualquier caso, el acceso a los centros siempre estará supeditado a la existencia de plazas vacantes y a la implantación efectiva de la especialidad y del curso a los que se pretenda acceder. Cuadragésima segunda.- Procedimiento de admisión.
+En el ingreso a un curso distinto de primero, la edad máxima será correlativa con el curso, es decir, trece años para segundo, catorce para tercero y quince para cuarto. En relación a la valoración y calificación de la prueba de acceso a Enseñanzas Elementales, se estará a lo dispuesto en el artículo 12 de la Orden de 16 de marzo de 2018, por la que se establece la ordenación y el currículo de las Enseñanzas Elementales de Música en el ámbito de la Comunidad Autónoma de Canarias. A la puntuación final obtenida por el aspirante en la prueba de acceso se le aplicará un índice corrector de edad. Dicho índice es el establecido en la Circular de la Dirección General de Formación Profesional y Educación de Adultos de 22 de septiembre de 2004. Los empates que se produzcan en la puntuación total que determina el orden final para la admisión, se resolverán según lo establecido en el artículo 14.5 de la citada Orden de 16 de marzo de 2018. 2. Acceso a las Enseñanzas Profesionales de Música. Para acceder directamente a cualquiera de los cursos de las Enseñanzas Profesionales de Música, en una especialidad determinada, será preciso superar una prueba específica de acceso en la que el aspirante deberá demostrar tener los conocimientos necesarios para cursar con aprovechamiento estas enseñanzas. Dicha prueba tendrá como referente los objetivos, contenidos y criterios de evaluación de las asignaturas del curso anterior al que se aspira. Para las Enseñanzas Profesionales de Música, se estará a lo dispuesto en la Orden de 5 de mayo de 2009, por la que se regula el acceso y la admisión a las Enseñanzas Profesionales de Música en la Comunidad Autónoma de Canarias. No podrán concurrir a estas pruebas, para acceder a las Enseñanzas Profesionales de Música y en la misma especialidad, aspirantes que estén cursando estas enseñanzas y ocupando una plaza académica en cualquiera de los Conservatorios Profesionales de Música. En cualquier caso, el acceso a los centros siempre estará supeditado a la existencia de plazas vacantes y a la implantación efectiva de la especialidad y del curso a los que se pretenda acceder. Cuadragésima segunda.- Procedimiento de admisión.
 
 1. Todas las pruebas de acceso a los centros se realizarán en una convocatoria anual, una vez establecida la oferta de plazas escolares vacantes, sin perjuicio de lo previsto en el artículo 5 3 de la Orden de 5 de mayo de 2009, por la que se regula el acceso y la admisión. a las Enseñanzas Profesionales de Música en la Comunidad Autónoma de Canarias. A efectos de la adecuada organización de estas pruebas, se abrirá un plazo para que los interesados puedan preinscribirse en la secretaría del centro donde pretendan acceder, especificando la enseñanza, curso y especialidad por los que opta.
 
@@ -808,9 +800,7 @@ d) Personas mayores de 14 años que deseen estudiar un idioma distinto del que c
 
 1. Se podrá acceder a las Enseñanzas de Idiomas de Régimen Especial por tres vías diferentes.
 
-2. La vía de acceso 1 corresponde con el acceso al primer curso del nivel básico A2. La vía de acceso 1 no requiere ninguna condición académica, por lo que solo se deberá acreditar el cumplimiento de los requisitos generales de acceso recogidos en la instrucción quincuagésima séptima de esta Resolución. En el caso de árabe y chino, el primer curso del nivel básico A2 corresponde con el curso de A1, y en el caso del resto de los idiomas, con el de A2.1.
-
-3. La vía de acceso 2 permite el acceso a un curso superior al primer curso del nivel básico A2 estando en posesión de las condiciones académicas de acceso al curso en cuestión sin necesidad de realizar prueba de clasificación. Estas condiciones académicas son:
+2. La vía de acceso 1 corresponde con el acceso al primer curso del nivel básico A2. La vía de acceso 1 no requiere ninguna condición académica, por lo que solo se deberá acreditar el cumplimiento de los requisitos generales de acceso recogidos en la instrucción quincuagésima séptima de esta Resolución. En el caso de árabe y chino, el primer curso del nivel básico A2 corresponde con el curso de A1, y en el caso del resto de los idiomas, con el de A2.1. 3. La vía de acceso 2 permite el acceso a un curso superior al primer curso del nivel básico A2 estando en posesión de las condiciones académicas de acceso al curso en cuestión sin necesidad de realizar prueba de clasificación. Estas condiciones académicas son:
 - Haber superado algún curso o nivel de Enseñanzas de Idiomas de Régimen Especial, lo que dará acceso al curso siguiente que corresponda.
 - Tener el título de Bachiller, lo que permitirá el acceso al curso intermedio B1.1 de la
 
@@ -831,9 +821,7 @@ d) Personas mayores de 14 años que deseen estudiar un idioma distinto del que c
 
 1. En el momento de solicitar plaza escolar, la persona que desee acceder a un curso superior al primer curso de nivel básico A2 a través de la prueba de clasificación (vía de acceso 3) deberá consignarlo en su solicitud y señalar el centro en que desea realizar esta prueba de clasificación.
 
-2. En el proceso de admisión, la prueba de clasificación de todos los idiomas se realizará en una fecha y horario común para toda la Comunidad Autónoma de Canarias. Las fechas concretas, horarios y los centros para la realización de la prueba se publicarán en el calendario establecido a tal fin. Quienes soliciten la prueba de calificación y no la realicen, decaerán en su derecho a acceder a cursos superiores al primer curso de nivel básico A2.
-
-3. Una vez realizada la prueba de clasificación, las personas solicitantes serán asignadas, en función del resultado, a un curso concreto en el que luego serán ordenadas según el grupo de prioridad por el que solicitan ser admitidas. Si el número de orden que le corresponde a cada solicitante es igual o inferior al número de vacantes, podrá ser admitido. En caso contrario, permanecerá en la lista de reserva, teniendo en cuenta que la realización de la prueba de clasificación no garantiza la obtención de una plaza escolar. Sexagésima primera.- Adjudicación de plazas escolares, reservas y formalización de matrícula.
+2. En el proceso de admisión, la prueba de clasificación de todos los idiomas se realizará en una fecha y horario común para toda la Comunidad Autónoma de Canarias. Las fechas concretas, horarios y los centros para la realización de la prueba se publicarán en el calendario establecido a tal fin. Quienes soliciten la prueba de calificación y no la realicen, decaerán en su derecho a acceder a cursos superiores al primer curso de nivel básico A2. 3. Una vez realizada la prueba de clasificación, las personas solicitantes serán asignadas, en función del resultado, a un curso concreto en el que luego serán ordenadas según el grupo de prioridad por el que solicitan ser admitidas. Si el número de orden que le corresponde a cada solicitante es igual o inferior al número de vacantes, podrá ser admitido. En caso contrario, permanecerá en la lista de reserva, teniendo en cuenta que la realización de la prueba de clasificación no garantiza la obtención de una plaza escolar. Sexagésima primera.- Adjudicación de plazas escolares, reservas y formalización de matrícula.
 
 1. En la fecha recogida en calendario establecido a tal fin se publicarán las listas definitivas de solicitantes, que incluirán la adjudicación de plazas escolares según vacantes definitivas y solicitantes en reserva ordenados según mejor derecho.
 

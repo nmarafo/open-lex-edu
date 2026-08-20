@@ -1,9 +1,11 @@
 ---
 id: norm-and-dl1-2017
-titulo: Decreto-ley 1/2017, de 28 de marzo, de medidas urgentes para favorecer la escolarización en el primer ciclo de la educación infantil en Andalucía
+titulo: Decreto-ley 1/2017, de 28 de marzo, de medidas urgentes para favorecer la
+  escolarización en el primer ciclo de la educación infantil en Andalucía
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto-ley
 numero_disposicion: 1/2017
 fecha_disposicion: '2017-03-28'
@@ -18,20 +20,20 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión y escolarización del alumnado
 tags:
-  - primer_ciclo_infantil
-  - gratuidad_infantil
-  - escolarizacion
-  - andalucia
+- primer_ciclo_infantil
+- gratuidad_infantil
+- escolarizacion
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
 ---
 # Decreto-ley 1/2017, de 28 de marzo, de medidas urgentes para favorecer la escolarización en el primer ciclo de la educación infantil en Andalucía
 

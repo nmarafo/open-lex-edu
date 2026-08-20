@@ -1,9 +1,12 @@
 ---
 id: norm-mad-d43-2024
-titulo: Decreto 43/2024, de 27 de septiembre, del Consejo de Gobierno, por el que se regulan los procesos de adscripción y admisión de alumnos en centros docentes sostenidos con fondos públicos
+titulo: Decreto 43/2024, de 27 de septiembre, del Consejo de Gobierno, por el que
+  se regulan los procesos de adscripción y admisión de alumnos en centros docentes
+  sostenidos con fondos públicos
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Decreto
 numero_disposicion: 43/2024
 fecha_disposicion: '2024-09-27'
@@ -18,20 +21,20 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión y escolarización del alumnado
 tags:
-  - admision_de_alumnos
-  - libre_eleccion
-  - baremo
-  - comunidad_de_madrid
+- admision_de_alumnos
+- libre_eleccion
+- baremo
+- comunidad_de_madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
 ---
 # Decreto 43/2024, de 27 de septiembre, del Consejo de Gobierno, por el que se regulan los procesos de adscripción y admisión de alumnos en centros docentes sostenidos con fondos públicos
 

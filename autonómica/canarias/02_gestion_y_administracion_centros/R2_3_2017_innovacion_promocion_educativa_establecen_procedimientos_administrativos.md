@@ -1,7 +1,10 @@
 ---
 id: norm-can-res-juriscan-75527-17
 codigo_sintetizado: Resolucion BOC 17
-titulo: Resolución de 2 de marzo de 2017, de la Dirección General de Ordenación, Innovación y Promoción Educativa, por la que se establecen los procedimientos administrativos sujetos al sistema de notificación electrónica mediante comparecencia en sede electrónica (BOC n.º 49, de 10 de marzo).
+titulo: Resolución de 2 de marzo de 2017, de la Dirección General de Ordenación, Innovación
+  y Promoción Educativa, por la que se establecen los procedimientos administrativos
+  sujetos al sistema de notificación electrónica mediante comparecencia en sede electrónica
+  (BOC n.º 49, de 10 de marzo).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Ordenación, Inclusión e Innovación
@@ -13,24 +16,24 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros privados concertados
 tags:
-  - centros-privados-concertados
-  - conciertos-educativos
-  - equipos-directivos
-  - evaluacion
-  - procedimiento-administrativo
+- centros-privados-concertados
+- conciertos-educativos
+- equipos-directivos
+- evaluacion
+- procedimiento-administrativo
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-l-39-2015
+  - '1'
+  - norma_id: norm-es-l-39-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-049-1120.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=75527
 ---

@@ -1,10 +1,15 @@
 ---
 id: norm-can-res-juriscan-63878-20
 codigo_sintetizado: Resolucion BOC 20
-titulo: Resolución de 28 de julio de 2010, de la Dirección General de Promoción Educativa, por la que se modifica el modelo al que ha de ajustarse la certificación del acuerdo del Consejo Escolar de los centros privados concertados, en relación a la justificación de las cantidades recibidas en concepto de «otros gastos» (BOC n.º 158, de 12 de agosto).
+titulo: Resolución de 28 de julio de 2010, de la Dirección General de Promoción Educativa,
+  por la que se modifica el modelo al que ha de ajustarse la certificación del acuerdo
+  del Consejo Escolar de los centros privados concertados, en relación a la justificación
+  de las cantidades recibidas en concepto de «otros gastos» (BOC n.º 158, de 12 de
+  agosto).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios Complementarios
+organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios
+  Complementarios
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: original
@@ -13,27 +18,27 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros privados concertados
 tags:
-  - centros-privados-concertados
-  - conciertos-educativos
-  - consejo-escolar
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - evaluacion
-  - titulacion
+- centros-privados-concertados
+- conciertos-educativos
+- consejo-escolar
+- ensenanzas-deportivas
+- equipos-directivos
+- evaluacion
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-rd-2377-1985
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-rd-2377-1985
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-rd-2377-1985
+  - '1'
+  - norma_id: norm-es-rd-2377-1985
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-158-4691.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=63878
 ---
@@ -56,12 +61,11 @@ Decreto 48/2009, de 28 de abril, por el que se establecen en la Administración 
 #### Disposición adicional de.... la Orden de 31 de diciembre de 1990, por la que se regula el procedimiento.
 
 de justificación de las cantidades que, por el concepto de "otros gastos", perciben los centros concertados de Canarias, R E S U E L V E:
-Primero.- Modificar y simplificar el modelo de certificación, en la forma que se recoge en el anexo I, al que se han de ajustar las certificaciones de los Consejos Escolares de los centros privados concertados, en relación a la cuenta de la justificación de las cantidades recibidas en concepto de "otros gastos", según el modelo del anexo II, a partir del curso 2010-2011.
-Segundo.- Dejar sin efecto la Resolución de 10 de julio de 1995, por la que se aprueba el modelo al que han de ajustarse las certificaciones acreditativas de los acuerdos adoptados por los Consejos Escolares de centros concertados en relación con la justificación de los gastos realizados con cargo a las cantidades recibidas de esta Consejería (BOC nº 106, de 14.8.95). Contra el presente acto, por ser de trámite, no cabe recurso alguno, pudiéndose, no obstante, interponer el que se considere más oportuno a su derecho, si el interesado entendiese que se da alguno de los supuestos excepcionales establecidos en el artículo 107 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, con la redacción dada por la Ley 4/1999, de 13 de enero. Las Palmas de Gran Canaria, a 28 de julio de 2010.- La Directora General de Promoción Educativa, Pilar Teresa Díaz Luis.
+Primero.- Modificar y simplificar el modelo de certificación, en la forma que se recoge en el anexo I, al que se han de ajustar las certificaciones de los Consejos Escolares de los centros privados concertados, en relación a la cuenta de la justificación de las cantidades recibidas en concepto de "otros gastos", según el modelo del anexo II, a partir del curso 2010-2011. Segundo.- Dejar sin efecto la Resolución de 10 de julio de 1995, por la que se aprueba el modelo al que han de ajustarse las certificaciones acreditativas de los acuerdos adoptados por los Consejos Escolares de centros concertados en relación con la justificación de los gastos realizados con cargo a las cantidades recibidas de esta Consejería (BOC nº 106, de 14.8.95). Contra el presente acto, por ser de trámite, no cabe recurso alguno, pudiéndose, no obstante, interponer el que se considere más oportuno a su derecho, si el interesado entendiese que se da alguno de los supuestos excepcionales establecidos en el artículo 107 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, con la redacción dada por la Ley 4/1999, de 13 de enero. Las Palmas de Gran Canaria, a 28 de julio de 2010.- La Directora General de Promoción Educativa, Pilar Teresa Díaz Luis.
 
 ## Anexo I. ## Anexo II
 
-CUENTA JUSTIFICATIVA POR EL CONCEPTO OTROS GASTOS JUSTIFICACIÓN DEL CENTRO PRIVADO CONCERTADO:
+CUENTA JUSTIFICATIVA POR EL CONCEPTO ÓOTROS GASTOS JUSTIFICACIÓN DEL CENTRO PRIVADO CONCERTADO:
 
 CURSO :
 
@@ -79,7 +83,7 @@ Se hace constar que de las cantidades detalladas se ha excluido, en su caso, la 
 
 4. Gastos de reparación de material inventariable: mobiliario escolar y equipo didáctico.
 
-5. Gastos de suministros y servicios diversos: limpieza, calefacción y refrigeración, agua, gas, electricidad, conservación y reparaciones ordinarias, y otros gastos de inmuebles. A N E X O I I CUENTA JUSTIFICATIVA POR EL CONCEPTO OTROS GASTOS
+5. Gastos de suministros y servicios diversos: limpieza, calefacción y refrigeración, agua, gas, electricidad, conservación y reparaciones ordinarias, y otros gastos de inmuebles. A N E X O I I CUENTA JUSTIFICATIVA POR EL CONCEPTO ÓOTROS GASTOS
 
 9 INFANTIL PRIMARIA 1 er C. ESO 2º C. ESO BACHILLERATO CFG MEDIO Y PCPI CFG SUPERIOR EDUCACIÓN ESPECIAL 6. Gastos de administración:
 consumo de material inventariable, comunicaciones telefónicas, postales y telegráficas, conservación y reparación de mobiliario de oficina, reprografía y otros gastos de administración.

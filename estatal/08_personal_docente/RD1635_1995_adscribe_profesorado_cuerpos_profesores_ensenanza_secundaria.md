@@ -1,10 +1,13 @@
 ---
 id: norm-es-1995-22212
 codigo_sintetizado: BOE-A-1995-22212
-titulo: Real Decreto 1635/1995, de 6 de octubre, por el que se adscribe el profesorado de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional a las especialidades propias de la formación profesional específica.
+titulo: Real Decreto 1635/1995, de 6 de octubre, por el que se adscribe el profesorado
+  de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación
+  Profesional a las especialidades propias de la formación profesional específica.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1995-10-10'
 boletin: BOE
@@ -15,33 +18,30 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Especialidades y habilitaciones
 tags:
-  - bachillerato
-  - curriculo
-  - eso
-  - especialidades-y-habilitaciones
-  - formacion-profesional
-  - profesorado
+- bachillerato
+- curriculo
+- eso
+- especialidades-y-habilitaciones
+- formacion-profesional
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-1993-23257
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-lo-8-1985
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-1993-23257
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
   fundamento_de:
-    - norma_id: norm-es-1996-3102
-    - norma_id: norm-es-1998-10720
-    - norma_id: norm-es-rd-1364-2010
+  - norma_id: norm-es-1996-3102
+  - norma_id: norm-es-1998-10720
+  - norma_id: norm-es-rd-1364-2010
   fundamentos_derecho:
-    - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rd-276-2007
   articulos:
-    - '1'
-    - norma_id: norm-es-rdl-5-2015
-  articulos:
-    - '1'
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-lo-8-1985
-    - norma_id: norm-es-1993-23257
+  - '1'
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-1993-23257
 ---
 # Real Decreto 1635/1995, de 6 de octubre, por el que se adscribe el profesorado de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional a las especialidades propias de la formación profesional específica.
 
@@ -63,13 +63,9 @@ En su virtud, a propuesta del Ministro de Educación y Ciencia, previo informe d
 
 **DISPONGO:**
 
-#### Artículo 1.
+#### Artículo 1. Las familias profesionales en que se organiza la formación profesional específica y los ciclos formativos en ellas incluidos son las que se relacionan en el anexo I.
 
-Las familias profesionales en que se organiza la formación profesional específica y los ciclos formativos en ellas incluidos son las que se relacionan en el anexo I.
-
-#### Artículo 2.
-
-1. Las especialidades del Cuerpo de Profesores de Enseñanza Secundaria derivadas de la ordenación de la formación profesional específica son las que se relacionan en el anexo II a).
+#### Artículo 2. 1. Las especialidades del Cuerpo de Profesores de Enseñanza Secundaria derivadas de la ordenación de la formación profesional específica son las que se relacionan en el anexo II a).
 
 2. Los módulos profesionales atribuidos a cada una de las especialidades del Cuerpo de Profesores de Enseñanza Secundaria indicadas en el apartado anterior son los relacionados en el anexo II b).
 
@@ -77,21 +73,15 @@ Asimismo, se atribuye competencia docente a los profesores de estas especialidad
 
 3. Los funcionarios del Cuerpo de Profesores de Enseñanza Secundaria, de acuerdo con la especialidad de la que sean titulares, quedan adscritos a las especialidades que se indican según la correspondencia establecida en el anexo II d) entre antiguas y nuevas especialidades de formación profesional específica.
 
-#### Artículo 3.
+#### Artículo 3. Los funcionarios del Cuerpo de Profesores de Enseñanza Secundaria de las especialidades creadas por el Real Decreto 1701/1991, de 29 de noviembre, por el que se establecen especialidades del Cuerpo de Profesores de Enseñanza Secundaria, tienen competencia docente para impartir los módulos profesionales de los ciclos formativos de grado medio y grado superior que se indican en el anexo III, siempre que reúnan las condiciones que en el mismo se detallan y sin perjuicio de la prioridad y obligación que para impartir estos módulos tienen los profesores de las especialidades relacionadas en el anexo II b) anterior.
 
-Los funcionarios del Cuerpo de Profesores de Enseñanza Secundaria de las especialidades creadas por el Real Decreto 1701/1991, de 29 de noviembre, por el que se establecen especialidades del Cuerpo de Profesores de Enseñanza Secundaria, tienen competencia docente para impartir los módulos profesionales de los ciclos formativos de grado medio y grado superior que se indican en el anexo III, siempre que reúnan las condiciones que en el mismo se detallan y sin perjuicio de la prioridad y obligación que para impartir estos módulos tienen los profesores de las especialidades relacionadas en el anexo II b) anterior.
-
-#### Artículo 4.
-
-1. Las especialidades del Cuerpo de Profesores Técnicos de Formación Profesional derivadas de la ordenación de la formación profesional específica son las que se relacionan en el anexo IV a).
+#### Artículo 4. 1. Las especialidades del Cuerpo de Profesores Técnicos de Formación Profesional derivadas de la ordenación de la formación profesional específica son las que se relacionan en el anexo IV a).
 
 2. Los módulos profesionales atribuidos a cada una de las especialidades del Cuerpo de Profesores Técnicos de Formación Profesional son los relacionados en el anexo IV b).
 
 3. Los funcionarios del Cuerpo de Profesores Técnicos de Formación Profesional, de acuerdo con la especialidad de la que sean titulares, quedan adscritos a las especialidades que se indican según la correspondencia establecida en el anexo IV c) entre antiguas y nuevas especialidades de formación profesional específica.
 
-#### Artículo 5.
-
-Los titulares de las especialidades de formación profesional específica a que se refieren los artículos 2.1 y 4.1 de este Real Decreto para las que no se establece ninguna correspondencia con las antiguas especialidades serán seleccionados a través de los correspondientes procedimientos selectivos que se convoquen al amparo de los Reales Decretos 575/1991, de 22 de abril, por el que se regula la movilidad entre los Cuerpos Docentes, y 850/1993, de 4 de junio, por el que se regula el ingreso y la adquisición de especialidades de los Cuerpos Docentes.
+#### Artículo 5. Los titulares de las especialidades de formación profesional específica a que se refieren los artículos 2.1 y 4.1 de este Real Decreto para las que no se establece ninguna correspondencia con las antiguas especialidades serán seleccionados a través de los correspondientes procedimientos selectivos que se convoquen al amparo de los Reales Decretos 575/1991, de 22 de abril, por el que se regula la movilidad entre los Cuerpos Docentes, y 850/1993, de 4 de junio, por el que se regula el ingreso y la adquisición de especialidades de los Cuerpos Docentes.
 
 #### Disposición adicional primera.
 
@@ -109,9 +99,7 @@ Los profesores de las especialidades «Educadores» del Cuerpo de Profesores de 
 
 Real Decreto 1701/1991, de 29 de noviembre, queda redactado de la manera siguiente:
 
-«Artículo 4.
-
-1. Los funcionarios de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional que hayan adquirido nuevas especialidades, al amparo de lo dispuesto en el [Real Decreto 850/1993](RD850_1993_aprueban_temarios_han_regir_procedimientos_ingreso.md), de 4 de junio, tendrán preferencia, por una sola vez, con ocasión de vacante, para ser adscritos a plazas de la nueva especialidad adquirida en el centro, donde tuvieran destino definitivo.
+«Artículo 4. 1. Los funcionarios de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional que hayan adquirido nuevas especialidades, al amparo de lo dispuesto en el [Real Decreto 850/1993](RD850_1993_aprueban_temarios_han_regir_procedimientos_ingreso.md), de 4 de junio, tendrán preferencia, por una sola vez, con ocasión de vacante, para ser adscritos a plazas de la nueva especialidad adquirida en el centro, donde tuvieran destino definitivo.
 
 2. No obstante lo dispuesto en el apartado anterior, los profesores desplazados del puesto de trabajo en el que tengan destino definitivo por declaración expresa de supresión del mismo o, en las condiciones que se establezcan por cada Administración educativa, por insuficiencia de horario, gozarán mientras se mantenga esta circunstancia de derecho preferente ante cualquier otro aspirante para obtener cualquier otro puesto en el mismo centro siempre que reúnan los requisitos exigidos para su desempeño.
 
@@ -197,9 +185,7 @@ Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo
 
 Todas las referencias a las Administraciones educativas contenidas en el presente Real Decreto se entenderán referidas a aquellas que se encuentren en el pleno ejercicio de sus competencias educativas.
 
-#### Disposición final tercera. Dado en Madrid a 6 de octubre de 1995.
-
-JUAN CARLOS R.
+#### Disposición final tercera. Dado en Madrid a 6 de octubre de 1995. JUAN CARLOS R.
 
 El Ministro de Educación y Ciencia,
 

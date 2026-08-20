@@ -1,6 +1,7 @@
 ---
 id: norm-mad-l1-2022
-titulo: Ley 1/2022, de 10 de febrero, Maestra de Libertad de Elección Educativa de la Comunidad de Madrid
+titulo: Ley 1/2022, de 10 de febrero, Maestra de Libertad de Elección Educativa de
+  la Comunidad de Madrid
 jurisdiccion: Madrid
 ambito: Autonómico
 organo_emisor: Comunidad de Madrid
@@ -18,22 +19,22 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Marco normativo general
 tags:
-  - libertad_eleccion
-  - educacion
-  - madrid
-  - lomloe
+- libertad_eleccion
+- educacion
+- madrid
+- lomloe
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-mad-d-29-2013
 ---
 # Ley 1/2022, de 10 de febrero, Maestra de Libertad de Elección Educativa de la Comunidad de Madrid
 
@@ -208,9 +209,7 @@ Cuando el alumnado con necesidades educativas especiales requiera, en función d
 
 1. La escolarización combinada entre un centro de educación especial y un centro ordinario se determinará mediante el correspondiente dictamen de escolarización, atendiendo a las características y circunstancias del alumnado. Se valorará el nivel de autonomía y de competencia personal y social del alumnado, y se requerirá un nivel mínimo en relación a su edad que, en todo caso, facilite su participación e inclusión en el centro ordinario.
 
-2. El alumnado que curse esta modalidad de escolarización constará matriculado en el centro educativo que se determine, según se indica en el artículo 13.2.
-
-3. La distribución del horario de participación en cada uno de los centros se determinará de manera conjunta entre ambos. Se considerarán las características y necesidades del alumnado, la organización propia de cada centro, las áreas, materias, ámbitos o actividades más pertinentes, las adaptaciones y apoyos necesarios y otras variables relevantes, con el fin de garantizar la respuesta educativa más adecuada en cada caso.
+2. El alumnado que curse esta modalidad de escolarización constará matriculado en el centro educativo que se determine, según se indica en el artículo 13.2. 3. La distribución del horario de participación en cada uno de los centros se determinará de manera conjunta entre ambos. Se considerarán las características y necesidades del alumnado, la organización propia de cada centro, las áreas, materias, ámbitos o actividades más pertinentes, las adaptaciones y apoyos necesarios y otras variables relevantes, con el fin de garantizar la respuesta educativa más adecuada en cada caso.
 
 4. Los centros ordinarios organizarán sus horarios y apoyos y realizarán los ajustes necesarios con el objeto de facilitar la máxima participación del alumnado con necesidades educativas especiales en los diferentes espacios y en todas las actividades que se desarrollen durante el tiempo que permanezcan en cada centro.
 

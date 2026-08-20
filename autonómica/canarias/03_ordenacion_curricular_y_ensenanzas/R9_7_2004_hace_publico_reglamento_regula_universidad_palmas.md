@@ -1,7 +1,9 @@
 ---
 id: norm-can-res-juriscan-48984-84
 codigo_sintetizado: Resolucion BOC 84
-titulo: Resolución de 9 de julio de 2004, por la que se hace público el Reglamento que regula en la Universidad de Las Palmas de Gran Canaria el Acceso para Mayores de 25 años (BOC n.º 157, de 13 de agosto).
+titulo: Resolución de 9 de julio de 2004, por la que se hace público el Reglamento
+  que regula en la Universidad de Las Palmas de Gran Canaria el Acceso para Mayores
+  de 25 años (BOC n.º 157, de 13 de agosto).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General competente de la Consejería de Educación de Canarias
@@ -13,24 +15,24 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación de Personas Adultas
 tags:
-  - educaci-n-de-personas-adultas
-  - educacion-personas-adultas
-  - ensenanzas-deportivas
-  - ensenanzas-universitarias
-  - oposiciones
+- educaci-n-de-personas-adultas
+- educacion-personas-adultas
+- ensenanzas-deportivas
+- ensenanzas-universitarias
+- oposiciones
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-2001-7022
+  - '1'
+  - norma_id: norm-es-2001-7022
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/2004/157/boc-2004-157-011.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=48984
 ---

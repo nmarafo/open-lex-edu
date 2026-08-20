@@ -1,7 +1,9 @@
 ---
 id: norm-can-res-boc-2017-036-75
 codigo_sintetizado: Resolucion BOC 75
-titulo: Resolución de 4 de febrero de 2017, por la que se dictan instrucciones para el proceso de evaluación en las enseñanzas deportivas de régimen especial en el ámbito de la Comunidad Autónoma de Canarias (BOC n.º 36, de 21 de febrero).
+titulo: Resolución de 4 de febrero de 2017, por la que se dictan instrucciones para
+  el proceso de evaluación en las enseñanzas deportivas de régimen especial en el
+  ámbito de la Comunidad Autónoma de Canarias (BOC n.º 36, de 21 de febrero).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,42 +15,42 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Deportivas
 tags:
-  - curriculo
-  - educacion-personas-adultas
-  - ense-anzas-deportivas
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - evaluacion
-  - formacion-profesional
-  - titulacion
+- curriculo
+- educacion-personas-adultas
+- ense-anzas-deportivas
+- ensenanzas-deportivas
+- equipos-directivos
+- evaluacion
+- formacion-profesional
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-135-2016
-    - norma_id: norm-can-d-212-1991
-    - norma_id: norm-can-d-81-2010
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-o-2013-10-09
-    - norma_id: norm-es-2002-4371
-    - norma_id: norm-es-2007-19326
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-es-2002-4371
+  - norma_id: norm-es-2007-19326
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-can-d-81-2010
-    - norma_id: norm-can-o-2013-10-09
-    - norma_id: norm-es-2002-4371
-    - norma_id: norm-es-2007-19326
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-d-135-2016
-    - norma_id: norm-can-d-212-1991
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-es-2002-4371
+  - norma_id: norm-es-2007-19326
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-036-807.pdf
 ---
 # Resolución de 4 de febrero de 2017, por la que se dictan instrucciones para el proceso de evaluación en las enseñanzas deportivas de régimen especial en el ámbito de la Comunidad Autónoma de Canarias (BOC n.º 36, de 21 de febrero).

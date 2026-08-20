@@ -1,10 +1,12 @@
 ---
 id: norm-and-o-26-5-2011
 codigo_sintetizado: O26_5_2011 Organizacion Funcionamiento Conservatorios Andalucía
-titulo: Orden de 26 de mayo de 2011, por la que se regulan la organización y el funcionamiento de los Conservatorios en Andalucía.
+titulo: Orden de 26 de mayo de 2011, por la que se regulan la organización y el funcionamiento
+  de los Conservatorios en Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 26/05/2011
 fecha_disposicion: '2011-05-26'
@@ -18,19 +20,19 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Organización de centros
 tags:
-  - conservatorios
-  - musica
-  - danza
-  - organizacion
-  - andalucia
+- conservatorios
+- musica
+- danza
+- organizacion
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
 ---
 # Orden de 26 de mayo de 2011, por la que se regulan la organización y el funcionamiento de los Conservatorios en Andalucía.
 
@@ -101,9 +103,7 @@ Para el cumplimiento de los objetivos del Instituto Andaluz de la Mujer establec
 
 - Orden de 7 de julio de 2005, por la que se regula el procedimiento de concesión de ayudas económicas por el Instituto Andaluz de la Mujer para mujeres víctimas de violencia de género.
 
-- Orden de 22 de marzo de 2006, por la que se establece el procedimiento y las bases reguladoras de la concesión de subvenciones por el Instituto Andaluz de la Mujer a Ayuntamientos, Mancomunidades de Municipios y Consorcios para el mantenimiento de los centros municipales de información a la mujer, y se efectúa su convocatoria para el año 2006.
-
-- Orden de 5 de septiembre de 2006, por la que se regula el procedimiento de concesión de ayudas económicas por el Instituto Andaluz de la Mujer para mujeres víctimas de violencia de género que acrediten insuficiencia de recursos y especiales dificultades para obtener un empleo.
+- Orden de 22 de marzo de 2006, por la que se establece el procedimiento y las bases reguladoras de la concesión de subvenciones por el Instituto Andaluz de la Mujer a Ayuntamientos, Mancomunidades de Municipios y Consorcios para el mantenimiento de los centros municipales de información a la mujer, y se efectúa su convocatoria para el año 2006. - Orden de 5 de septiembre de 2006, por la que se regula el procedimiento de concesión de ayudas económicas por el Instituto Andaluz de la Mujer para mujeres víctimas de violencia de género que acrediten insuficiencia de recursos y especiales dificultades para obtener un empleo.
 
 De acuerdo con lo dispuesto en la disposición adicional primera de la Orden de 30 de agosto de 2010 y atendiendo a la naturaleza de las subvenciones reguladas por la presente Orden, todas las líneas de subvenciones reguladas en la presente orden están excepcionadas de la obligación de que antes de proponerse el pago de la subvención, las personas o entidades beneficiarias deban acreditar que se hallan al corriente en el cumplimiento de sus obligaciones tributarias y frente a la Seguridad Social, así como que no son deudoras de la Junta de Andalucía por cualquier otro ingreso de derecho público.
 
@@ -133,9 +133,7 @@ Quedan derogadas las siguientes normas:
 
 a) Orden de 7 de julio de 2005, por la que se regula el procedimiento de concesión de ayudas económicas por el Instituto Andaluz de la Mujer para mujeres víctimas de violencia de género.
 
-b) Orden de 22 de marzo de 2006, por la que se establece el procedimiento y las bases reguladoras de la concesión de subvenciones por el Instituto Andaluz de la Mujer a Ayuntamientos, Mancomunidades de Municipios y Consorcios para el mantenimiento de los Centros Municipales de Información a la Mujer, y se efectúa su convocatoria para el año 2006.
-
-c) Orden de 5 de septiembre de 2006, por la que se regula el procedimiento de concesión de ayudas económicas por el Instituto Andaluz de la Mujer para mujeres víctimas de violencia de género que acrediten insuficiencia de recursos y especiales dificultades para obtener un empleo.
+b) Orden de 22 de marzo de 2006, por la que se establece el procedimiento y las bases reguladoras de la concesión de subvenciones por el Instituto Andaluz de la Mujer a Ayuntamientos, Mancomunidades de Municipios y Consorcios para el mantenimiento de los Centros Municipales de Información a la Mujer, y se efectúa su convocatoria para el año 2006. c) Orden de 5 de septiembre de 2006, por la que se regula el procedimiento de concesión de ayudas económicas por el Instituto Andaluz de la Mujer para mujeres víctimas de violencia de género que acrediten insuficiencia de recursos y especiales dificultades para obtener un empleo.
 
 #### Disposición adicional primera. Habilitación para el desarrollo y ejecución.
 
@@ -285,9 +283,7 @@ Texto Refundido de la Ley General de la Hacienda Pública de la Junta de Andaluc
 
 3. Los requisitos señalados en el apartado anterior deberán mantenerse durante el periodo indicado en el apartado 8.c) del Cuadro Resumen.
 
-4. Salvo las excepciones establecidas en el apartado 8.d) del Cuadro resumen, no se podrá obtener la condición de entidad colaboradora cuando concurra alguna de las circunstancias indicadas en el artículo 3.3.
-
-5. Las entidades colaboradoras deberán reunir las condiciones de solvencia y eficacia que, en su caso, se establezcan en el apartado 8.e) del Cuadro Resumen.
+4. Salvo las excepciones establecidas en el apartado 8.d) del Cuadro resumen, no se podrá obtener la condición de entidad colaboradora cuando concurra alguna de las circunstancias indicadas en el artículo 3.3. 5. Las entidades colaboradoras deberán reunir las condiciones de solvencia y eficacia que, en su caso, se establezcan en el apartado 8.e) del Cuadro Resumen.
 
 6. Las particularidades y el contenido del convenio de colaboración o contrato, serán los que, en su caso, se indiquen en el apartado 8.f) del Cuadro Resumen.
 
@@ -343,15 +339,11 @@ a) Los datos identificativos de la persona interesada y, en su caso, de quien la
 
 b) El medio preferente o el lugar a efectos de practicar las notificaciones que proceda efectuar. A tal efecto, en el modelo de solicitud figura un apartado para que puedan indicar como preferente el medio electrónico.
 
-c) Una declaración responsable de no hallarse incursas en las circunstancias previstas en el artículo 3.3.
-
-d) Una declaración responsable de que cumplen los requisitos exigidos en estas bases reguladoras.
+c) Una declaración responsable de no hallarse incursas en las circunstancias previstas en el artículo 3.3. d) Una declaración responsable de que cumplen los requisitos exigidos en estas bases reguladoras.
 
 e) Una declaración responsable relativa a otras subvenciones, ayudas, ingresos o recursos solicitados y, en su caso, concedidos, para la misma finalidad, por cualesquiera Administraciones Públicas o entes públicos o privados, nacionales o internacionales, con indicación de la entidad concedente, fecha e importe.
 
-f) En su caso, el consentimiento expreso al órgano instructor para que recabe de otras Consejerías o de otras Administraciones Públicas toda la información o documentación acreditativa exigida en la normativa de aplicación que estuviera en poder de aquéllas. En caso de no prestar el consentimiento, estarán obligadas a aportar los documentos necesarios para facilitar esa información, en los términos indicados en el apartado 5 de este artículo y en el artículo 17.
-
-g) La declaración responsable de la veracidad de todos los datos reflejados en la solicitud.
+f) En su caso, el consentimiento expreso al órgano instructor para que recabe de otras Consejerías o de otras Administraciones Públicas toda la información o documentación acreditativa exigida en la normativa de aplicación que estuviera en poder de aquéllas. En caso de no prestar el consentimiento, estarán obligadas a aportar los documentos necesarios para facilitar esa información, en los términos indicados en el apartado 5 de este artículo y en el artículo 17. g) La declaración responsable de la veracidad de todos los datos reflejados en la solicitud.
 
 2. Conforme al artículo 23 l.
 
@@ -365,9 +357,7 @@ Reglamento de los Procedimientos de Concesión de Subvenciones de la Administrac
 
 a) Por aportarlos con la solicitud, en los términos previstos en dicho artículo.
 
-b) Por limitarse a cumplimentar en la solicitud una declaración responsable de que cumplen los requisitos exigidos en estas bases reguladoras, con el compromiso de aportarlos en el trámite de audiencia, en los términos del artículo 17.
-
-6. Con carácter general, cuando se trate de información o documentos que obren en poder de la Administración de la Junta de Andalucía o sus agencias, podrá ejercerse el derecho a no presentarlos, autorizando al órgano instructor para que los recabe de otra Consejería o agencia, para lo cual deberá indicarse el órgano al que fueron presentados o por el que fueron emitidos, la fecha de dicha presentación o emisión, y el procedimiento al que corresponden, siempre que no hayan transcurrido más de cinco años desde la finalización de éste.
+b) Por limitarse a cumplimentar en la solicitud una declaración responsable de que cumplen los requisitos exigidos en estas bases reguladoras, con el compromiso de aportarlos en el trámite de audiencia, en los términos del artículo 17. 6. Con carácter general, cuando se trate de información o documentos que obren en poder de la Administración de la Junta de Andalucía o sus agencias, podrá ejercerse el derecho a no presentarlos, autorizando al órgano instructor para que los recabe de otra Consejería o agencia, para lo cual deberá indicarse el órgano al que fueron presentados o por el que fueron emitidos, la fecha de dicha presentación o emisión, y el procedimiento al que corresponden, siempre que no hayan transcurrido más de cinco años desde la finalización de éste.
 
 #### Artículo 11. Lugares y medios de presentación de solicitudes.
 
@@ -509,9 +499,7 @@ Las notificaciones se cursarán personalmente y se practicarán en el lugar o po
 
 1. El procedimiento para modificar la resolución de concesión se iniciará siempre de oficio por acuerdo del órgano que la otorgó, bien por propia iniciativa, como consecuencia de petición razonada de otros órganos o bien a instancia de la persona beneficiaria.
 
-2. Toda alteración de las condiciones tenidas en cuenta para la concesión de la subvención, indicadas en el apartado 20.a) del Cuadro Resumen, podrá dar lugar a la modificación de la resolución de concesión. En el supuesto de que se obtengan de manera concurrente otras aportaciones fuera de los casos permitidos en estas bases reguladoras, se acordará la modificación de la resolución de concesión en los términos previstos en el artículo 28.
-
-3. Salvo previsión expresa en contrario establecida en el apartado 20.b) del Cuadro Resumen, la persona o entidad beneficiaria de la subvención podrá instar del órgano concedente la iniciación de oficio del procedimiento para modificar la resolución de concesión, incluida la ampliación de los plazos de ejecución y justificación, sin que en ningún caso pueda variarse el destino o finalidad de la subvención, ni alterar la actividad, programa, actuación o comportamiento para los que se concedió la subvención ni elevar la cuantía de la subvención obtenida que figura en la resolución de concesión. La variación tampoco podrá afectar a aquellos aspectos propuestos u ofertados por la persona o entidad beneficiaria que fueron razón de su concreto otorgamiento. La ampliación del plazo de justificación no podrá exceder de la mitad del inicialmente establecido y en ningún caso podrá perjudicar derechos de terceras personas.
+2. Toda alteración de las condiciones tenidas en cuenta para la concesión de la subvención, indicadas en el apartado 20.a) del Cuadro Resumen, podrá dar lugar a la modificación de la resolución de concesión. En el supuesto de que se obtengan de manera concurrente otras aportaciones fuera de los casos permitidos en estas bases reguladoras, se acordará la modificación de la resolución de concesión en los términos previstos en el artículo 28. 3. Salvo previsión expresa en contrario establecida en el apartado 20.b) del Cuadro Resumen, la persona o entidad beneficiaria de la subvención podrá instar del órgano concedente la iniciación de oficio del procedimiento para modificar la resolución de concesión, incluida la ampliación de los plazos de ejecución y justificación, sin que en ningún caso pueda variarse el destino o finalidad de la subvención, ni alterar la actividad, programa, actuación o comportamiento para los que se concedió la subvención ni elevar la cuantía de la subvención obtenida que figura en la resolución de concesión. La variación tampoco podrá afectar a aquellos aspectos propuestos u ofertados por la persona o entidad beneficiaria que fueron razón de su concreto otorgamiento. La ampliación del plazo de justificación no podrá exceder de la mitad del inicialmente establecido y en ningún caso podrá perjudicar derechos de terceras personas.
 
 4. El escrito por el que se inste la iniciación de oficio deberá estar suficientemente justificado, presentándose de forma inmediata a la aparición de las circunstancias que lo motiven y con antelación a la finalización del plazo de ejecución y de justificación inicialmente concedido.
 
@@ -539,9 +527,7 @@ g) Conservar los documentos justificativos de la aplicación de los fondos recib
 
 h) Hacer constar en toda información o publicidad que se efectúe de la actividad u objeto de la subvención que la misma está subvencionada por la Administración de la Junta de Andalucía, indicando la Consejería o Agencia que la ha concedido, utilizando un lenguaje no sexista. En los supuestos de subvenciones financiadas con fondos comunitarios, se deberá cumplir con las disposiciones que sobre información y publicidad se dicten por la Unión Europea. En todo caso, se deberán adoptar las medidas específicas de información y publicidad que se indican en el apartado 22.a) del Cuadro Resumen.
 
-i) Proceder al reintegro de los fondos percibidos en los supuestos contemplados en el artículo 28.
-
-j) Comunicar al órgano concedente el cambio de domicilio o de la dirección de correo electrónico durante el período en el que la subvención es susceptible de control.
+i) Proceder al reintegro de los fondos percibidos en los supuestos contemplados en el artículo 28. j) Comunicar al órgano concedente el cambio de domicilio o de la dirección de correo electrónico durante el período en el que la subvención es susceptible de control.
 
 k) Cualquier otra condición u obligación específica que se establezca en el apartado 22.b) del Cuadro Resumen.
 

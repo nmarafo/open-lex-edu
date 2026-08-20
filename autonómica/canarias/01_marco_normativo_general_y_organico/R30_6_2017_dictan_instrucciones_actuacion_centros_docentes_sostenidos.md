@@ -1,10 +1,16 @@
 ---
 id: norm-can-res-boc-2017-132-1
 codigo_sintetizado: Resolucion BOC 1
-titulo: Resolución de 30 de junio de 2017, de la Dirección General de Centros e Infraestructura Educativa, por la que se dictan instrucciones para la actuación de los centros docentes sostenidos con fondos públicos, en los casos de padres, madres, separados, divorciados, que hayan finalizado su convivencia, o representantes legales, respecto a sus descendientes o representados, menores de edad, en el ámbito de las enseñanzas no universitarias de la Comunidad Autónoma de Canarias (BOC n.º 132, de 11 de julio).
+titulo: Resolución de 30 de junio de 2017, de la Dirección General de Centros e Infraestructura
+  Educativa, por la que se dictan instrucciones para la actuación de los centros docentes
+  sostenidos con fondos públicos, en los casos de padres, madres, separados, divorciados,
+  que hayan finalizado su convivencia, o representantes legales, respecto a sus descendientes
+  o representados, menores de edad, en el ámbito de las enseñanzas no universitarias
+  de la Comunidad Autónoma de Canarias (BOC n.º 132, de 11 de julio).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios Complementarios
+organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios
+  Complementarios
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: pdf_oficial_boc
@@ -13,50 +19,50 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Protección jurídica de menores
 tags:
-  - convivencia
-  - convivencia-escolar
-  - ensenanzas-universitarias
-  - equipos-directivos
-  - profesorado
-  - protecci-n-jur-dica-de-menores
-  - proteccion-menores
+- convivencia
+- convivencia-escolar
+- ensenanzas-universitarias
+- equipos-directivos
+- profesorado
+- protecci-n-jur-dica-de-menores
+- proteccion-menores
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-106-2009
-    - norma_id: norm-can-d-114-2011
-    - norma_id: norm-can-d-135-2016
-    - norma_id: norm-can-d-81-2010
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-o-2013-10-09
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2015-8222
-    - norma_id: norm-es-2015-8470
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-106-2009
+  - norma_id: norm-can-d-114-2011
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2015-8222
+  - norma_id: norm-es-2015-8470
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   fundamento_de:
-    - norma_id: norm-can-res-boc-2025-039-104
-    - norma_id: norm-can-res-boc-2025-047-108
-    - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-can-res-boc-2025-039-104
+  - norma_id: norm-can-res-boc-2025-047-108
+  - norma_id: norm-can-res-boc-2026-039-103
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-can-d-106-2009
-    - norma_id: norm-can-d-81-2010
-    - norma_id: norm-can-o-2013-10-09
-    - norma_id: norm-can-d-114-2011
-    - norma_id: norm-es-2015-8222
-    - norma_id: norm-es-2015-8470
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-d-135-2016
+  - '1'
+  - norma_id: norm-can-d-106-2009
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-can-d-114-2011
+  - norma_id: norm-es-2015-8222
+  - norma_id: norm-es-2015-8470
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-132-3376.pdf
 anexos_extraidos_pdf: true
 ocr_procesado: true
@@ -85,9 +91,7 @@ Considerando todo lo expuesto anteriormente, consultadas la Inspección de Educa
 RESUELVO:
 Primero.- Aprobar las instrucciones para su aplicación en los centros docentes sostenidos con fondos públicos de enseñanzas no universitarias de la Comunidad Autónoma de Canarias, sobre la actuación con los padres, las madres, separados, divorciados, personas que hayan finalizado su convivencia, o representantes legales, respecto a la educación de sus hijos e hijas o tutelados, menores de edad, y especialmente ante situaciones de discrepancia o conflicto que inciden en el ámbito escolar; y que se recogen en el anexo de la presente Resolución.
 
-#### Segundo. Esta Resolución tendrá efectos a partir del curso escolar 2017/2018.
-
-Santa Cruz de Tenerife, a 30 de junio de 2017.- La Directora General de Centros e Infraestructura Educativa, Ana Isabel Dorta Alonso.
+#### Segundo. Esta Resolución tendrá efectos a partir del curso escolar 2017/2018. Santa Cruz de Tenerife, a 30 de junio de 2017.- La Directora General de Centros e Infraestructura Educativa, Ana Isabel Dorta Alonso.
 
 ## Anexo. Instrucciones para la actuación de los centros docentes sostenidos con fondos públicos, en los casos de padres, madres, separados, divorciados, que hayan finalizado su convivencia, o representantes legales, respecto a sus descendientes o representados menores de edad, en el ámbito de las enseñanzas no universitarias de la Comunidad Autónoma de Canarias.
 

@@ -1,7 +1,12 @@
 ---
 id: norm-can-res-063
 codigo_sintetizado: Resolucion BOC 63
-titulo: Resolución de 7 de abril de 2025, por la que se dictan instrucciones para la planificación, realización y gestión, en el ámbito de la Comunidad Autónoma de Canarias, de la Prueba para el Acceso a la Universidad, aplicables al alumnado que haya cursado el Bachillerato, así como Ciclos Formativos de Grado Superior de Formación Profesional, de Enseñanzas Profesionales de Artes Plásticas y Diseño, y de Enseñanzas Deportivas (BOC nº 74, de 15 de abril).
+titulo: Resolución de 7 de abril de 2025, por la que se dictan instrucciones para
+  la planificación, realización y gestión, en el ámbito de la Comunidad Autónoma de
+  Canarias, de la Prueba para el Acceso a la Universidad, aplicables al alumnado que
+  haya cursado el Bachillerato, así como Ciclos Formativos de Grado Superior de Formación
+  Profesional, de Enseñanzas Profesionales de Artes Plásticas y Diseño, y de Enseñanzas
+  Deportivas (BOC nº 74, de 15 de abril).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General competente de la Consejería de Educación de Canarias
@@ -13,44 +18,44 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Bachillerato
 tags:
-  - admision-alumnado
-  - bachillerato
-  - consejo-escolar
-  - curriculo
-  - ensenanzas-artisticas
-  - ensenanzas-deportivas
-  - ensenanzas-universitarias
-  - formacion-profesional
-  - grado-superior
-  - oposiciones
+- admision-alumnado
+- bachillerato
+- consejo-escolar
+- curriculo
+- ensenanzas-artisticas
+- ensenanzas-deportivas
+- ensenanzas-universitarias
+- formacion-profesional
+- grado-superior
+- oposiciones
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-212-1991
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2010-4130
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-243-2022
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2010-4130
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-243-2022
+  - norma_id: norm-es-l-39-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2010-4130
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-rd-243-2022
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-d-212-1991
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2010-4130
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-rd-243-2022
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-074-1452.pdf
 ---
 # Resolución de 7 de abril de 2025, por la que se dictan instrucciones para la planificación, realización y gestión, en el ámbito de la Comunidad Autónoma de Canarias, de la Prueba para el Acceso a la Universidad, aplicables al alumnado que haya cursado el Bachillerato, así como Ciclos Formativos de Grado Superior de Formación Profesional, de Enseñanzas Profesionales de Artes Plásticas y Diseño, y de Enseñanzas Deportivas (BOC nº 74, de 15 de abril).
@@ -67,8 +72,7 @@ título de Bachiller con independencia de la modalidad y la vía cursadas. Por s
 Segundo.- La disposición final quinta de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, regula el calendario de implantación de las medidas relativas al acceso y admisión a la universidad, introducidas por dicha ley orgánica en la LOE.
 Tercero.- Resulta de aplicación el Real Decreto 534/2024, de 11 de junio, por el que se regulan los requisitos de acceso a las enseñanzas universitarias oficiales de Grado, las características básicas de la prueba de acceso y la normativa básica de los procedimientos de admisión, que en su disposición final cuarta indica:
 "Disposición final cuarta. Calendario de implantación. Lo dispuesto en este Real Decreto se aplicará:
-a) A las pruebas de acceso a la universidad que se realicen a partir del curso académico 2024-2025.
-b) A los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado para el curso académico 2025-2026 y siguientes". Por su parte, el artículo 17 de dicho Real Decreto, referente a la organización de la prueba de acceso a la universidad, dispone que las administraciones educativas y las universidades públicas organizarán la prueba de acceso, garantizando la adecuación de la misma a las competencias vinculadas al currículo del Bachillerato, así como la coordinación entre las universidades y los centros que impartan la etapa para su organización y realización. Cada administración educativa podrá delimitar el alcance de la colaboración de sus universidades a estos efectos.
+a) A las pruebas de acceso a la universidad que se realicen a partir del curso académico 2024-2025. b) A los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado para el curso académico 2025-2026 y siguientes". Por su parte, el artículo 17 de dicho Real Decreto, referente a la organización de la prueba de acceso a la universidad, dispone que las administraciones educativas y las universidades públicas organizarán la prueba de acceso, garantizando la adecuación de la misma a las competencias vinculadas al currículo del Bachillerato, así como la coordinación entre las universidades y los centros que impartan la etapa para su organización y realización. Cada administración educativa podrá delimitar el alcance de la colaboración de sus universidades a estos efectos.
 Cuarto.- Resulta igualmente de aplicación el [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato, así como el Decreto 30/2023, de 16 de marzo, por el que se establecen la ordenación y el currículo de la Educación Secundaria Obligatoria y del Bachillerato en la Comunidad Autónoma de Canarias.
 
 Quinto.- En lo que no se oponga a la normativa anteriormente citada, la Orden EDU/3242/2010, de 9 de diciembre, por la que se determina el contenido de la fase específica de la prueba de acceso a la universidad, que podrán realizar quienes estén en posesión de un título de técnico superior de formación profesional, de técnico superior de artes plásticas y diseño o de técnico deportivo superior y equivalentes.
@@ -78,9 +82,7 @@ Sexto.- La Resolución n.º 10/2023, de 15 de marzo de 2023, de la extinta Vicec
 RESUELVO:
 Primero.- Aprobar las instrucciones relativas a la realización, en el ámbito de la Comunidad Autónoma de Canarias, de la Prueba para el Acceso a la Universidad (en adelante, PAU) aplicables al alumnado que haya cursado el Bachillerato, así como Ciclos Formativos de Grado Superior de Formación Profesional, de Enseñanzas Profesionales de Artes Plásticas y Diseño, y de Enseñanzas Deportivas.
 
-#### Segundo. Las presentes instrucciones serán de aplicación para el curso 2024/2025.
-
-Tercero.- Ordenar la publicación de la presente Resolución en el Boletín Oficial de Canarias. Las Palmas de Gran de Canaria, a 7 de abril de 2025.- El Viceconsejero de Educación, José Manuel Cabrera Delgado.
+#### Segundo. Las presentes instrucciones serán de aplicación para el curso 2024/2025. Tercero.- Ordenar la publicación de la presente Resolución en el Boletín Oficial de Canarias. Las Palmas de Gran de Canaria, a 7 de abril de 2025.- El Viceconsejero de Educación, José Manuel Cabrera Delgado.
 
 ## Anexo
 

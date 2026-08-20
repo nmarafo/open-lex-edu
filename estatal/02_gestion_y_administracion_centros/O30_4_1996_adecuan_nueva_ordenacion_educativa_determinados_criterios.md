@@ -1,10 +1,14 @@
 ---
 id: norm-es-1996-10210
 codigo_sintetizado: BOE-A-1996-10210
-titulo: Orden de 30 de abril de 1996 por la que se adecuan a la nueva ordenación educativa determinados criterios en materia de homologación y convalidación de títulos y estudios extranjeros de niveles no universitarios y se fija el régimen de equivalencias con los correspondientes españoles.
+titulo: Orden de 30 de abril de 1996 por la que se adecuan a la nueva ordenación educativa
+  determinados criterios en materia de homologación y convalidación de títulos y estudios
+  extranjeros de niveles no universitarios y se fija el régimen de equivalencias con
+  los correspondientes españoles.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1996-05-08'
 boletin: BOE
@@ -15,35 +19,31 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros extranjeros
 tags:
-  - autonomia-centro
-  - bachillerato
-  - centros-extranjeros
-  - consejo-escolar
-  - educacion-primaria
-  - eso
-  - formacion-profesional
-  - fp-basica
-  - orientacion-educativa
-  - titulacion
+- autonomia-centro
+- bachillerato
+- centros-extranjeros
+- consejo-escolar
+- educacion-primaria
+- eso
+- formacion-profesional
+- fp-basica
+- orientacion-educativa
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-1988-3987
-    - norma_id: norm-es-1988-6938
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2002-25289
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-1988-3987
+  - norma_id: norm-es-1988-6938
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2002-25289
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-d-81-2010
   articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-lo-2-2006
-  articulos:
-    - '120'
-    - norma_id: norm-es-1988-3987
-    - norma_id: norm-es-1988-6938
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2002-25289
+  - '120'
+  - norma_id: norm-es-1988-3987
+  - norma_id: norm-es-1988-6938
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2002-25289
 ---
 # Orden de 30 de abril de 1996 por la que se adecuan a la nueva ordenación educativa determinados criterios en materia de homologación y convalidación de títulos y estudios extranjeros de niveles no universitarios y se fija el régimen de equivalencias con los correspondientes españoles.
 
@@ -163,9 +163,7 @@ Disposición derogatoria ....
 
 Se autoriza a la Secretaría General Técnica del Departamento para dictar las instrucciones que resulten precisas para la aplicación de la presente Orden.
 
-#### Disposición final segunda. Madrid, 30 de abril de 1996.
-
-SAAVEDRA ACEVEDO
+#### Disposición final segunda. Madrid, 30 de abril de 1996. SAAVEDRA ACEVEDO
 
 Ilmos. Sres. Subsecretario y Secretario general técnico.
 

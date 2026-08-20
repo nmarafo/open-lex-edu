@@ -1,10 +1,13 @@
 ---
 id: norm-mad-o-1605-2024
 codigo_sintetizado: O1605_2024 Organizacion y Funcionamiento EOEP Madrid
-titulo: Orden 1605/2024, de 22 de abril, de la Consejería de Educación, Ciencia y Universidades, por la que se regula la organización y el funcionamiento de los Equipos de Orientación Educativa y Psicopedagógica de la Comunidad de Madrid.
+titulo: Orden 1605/2024, de 22 de abril, de la Consejería de Educación, Ciencia y
+  Universidades, por la que se regula la organización y el funcionamiento de los Equipos
+  de Orientación Educativa y Psicopedagógica de la Comunidad de Madrid.
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
 numero_disposicion: 1605/2024
 fecha_disposicion: '2024-04-22'
@@ -18,17 +21,17 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Orientación educativa
 tags:
-  - eoep
-  - orientacion_educativa
-  - evaluacion_psicopedagogica
-  - madrid
+- eoep
+- orientacion_educativa
+- evaluacion_psicopedagogica
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-mad-d-29-2013
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-1-1996
 ---
 # Orden 1605/2024, de 22 de abril, de la Consejería de Educación, Ciencia y Universidades, por la que se regula la organización y el funcionamiento de los Equipos de Orientación Educativa y Psicopedagógica de la Comunidad de Madrid.
 

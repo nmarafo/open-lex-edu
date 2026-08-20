@@ -1,9 +1,11 @@
 ---
 id: norm-mad-o6116-2025
-titulo: Orden 6116/2025, de 22 de diciembre, de becas para ciclos formativos de FP de Grado D en centros privados
+titulo: Orden 6116/2025, de 22 de diciembre, de becas para ciclos formativos de FP
+  de Grado D en centros privados
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
 numero_disposicion: 6116/2025
 fecha_disposicion: '2025-12-22'
@@ -18,20 +20,20 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Becas, ayudas y subvenciones
 tags:
-  - becas_fp
-  - centros_privados
-  - ayudas_al_estudio
-  - comunidad_de_madrid
+- becas_fp
+- centros_privados
+- ayudas_al_estudio
+- comunidad_de_madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
 ---
 # Orden 6116/2025, de 22 de diciembre, de becas para ciclos formativos de FP de Grado D en centros privados
 

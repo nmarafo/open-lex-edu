@@ -1,7 +1,11 @@
 ---
 id: norm-can-res-055
 codigo_sintetizado: Resolucion BOC 55
-titulo: Resolución de 26 de junio de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se dictan instrucciones específicas complementarias para el curso 2025/2026 sobre organización, funcionamiento y calendario de las Enseñanzas de Idiomas de Régimen Especial impartidas en las Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Canarias (BOC núm.134, de 8 de julio).
+titulo: Resolución de 26 de junio de 2025, de la Dirección General de Formación Profesional
+  y Enseñanzas de Régimen Especial, por la que se dictan instrucciones específicas
+  complementarias para el curso 2025/2026 sobre organización, funcionamiento y calendario
+  de las Enseñanzas de Idiomas de Régimen Especial impartidas en las Escuelas Oficiales
+  de Idiomas de la Comunidad Autónoma de Canarias (BOC núm.134, de 8 de julio).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
@@ -13,43 +17,43 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas de Idiomas
 tags:
-  - ense-anzas-de-idiomas
-  - ensenanzas-deportivas
-  - eoi
-  - equipos-directivos
-  - formacion-profesional
-  - organizacion-escolar
-  - profesorado
+- ense-anzas-de-idiomas
+- ensenanzas-deportivas
+- eoi
+- equipos-directivos
+- formacion-profesional
+- organizacion-escolar
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-d-81-2010
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-o-2013-10-09
-    - norma_id: norm-can-o-2023-09-28
-    - norma_id: norm-can-res-boc-2023-133-57
-    - norma_id: norm-can-res-boc-2025-061-88
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2019-317
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-can-o-2023-09-28
+  - norma_id: norm-can-res-boc-2023-133-57
+  - norma_id: norm-can-res-boc-2025-061-88
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2019-317
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-d-81-2010
-    - norma_id: norm-can-o-2023-09-28
-    - norma_id: norm-can-o-2013-10-09
-    - norma_id: norm-es-2019-317
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-can-res-boc-2023-133-57
-    - norma_id: norm-can-res-boc-2025-061-88
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-o-2023-09-28
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-es-2019-317
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-res-boc-2023-133-57
+  - norma_id: norm-can-res-boc-2025-061-88
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-134-2514.pdf
 ---
 # Resolución de 26 de junio de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se dictan instrucciones específicas complementarias para el curso 2025/2026 sobre organización, funcionamiento y calendario de las Enseñanzas de Idiomas de Régimen Especial impartidas en las Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Canarias (BOC núm.134, de 8 de julio).
@@ -105,9 +109,7 @@ Contra la presente Resolución, que no pone fin a la vía administrativa, cabe i
 
 **3.5.** Otras actividades que se computan dentro del horario lectivo semanal.
 
-4. CALENDARIO DEL CURSO 2025/2026.
-
-**4.1.** Inicio y finalización del curso escolar.
+4. CALENDARIO DEL CURSO 2025/2026. **4.1.** Inicio y finalización del curso escolar.
 
 **4.2.** Fechas relativas a las actividades de evaluación.
 
@@ -218,9 +220,7 @@ Las comisiones que deban elaborar más de 16 pruebas contarán con un apoyo a la
 **3.5.** Otras actividades que se computan dentro del horario lectivo semanal. En las EOI podrán computarse, además, como horas lectivas las actividades que se detallan en la tabla que se incluye a continuación, siempre que exista disponibilidad horaria. Actividad Características Dedicación horaria Coordinación de prevención de riesgos laborales Con acreditación o responsable. 2 horas 15 minutos (en EOI tipo A+, A y B) En las escuelas tipo C, D y E, el equipo directivo asumirá las funciones de la coordinación de riesgos laborales. Completar horario lectivo en otro centro A estos efectos los grupos que se impartan en las aulas adscritas (AEOI) a una EOI serán considerados del mismo centro. 2 horas 15 minutos Profesorado de 59 años o más Si existe disponibilidad horaria. Estas horas sin docencia directa deberán solicitarse por escrito a la dirección del centro. En cualquier caso, el tiempo concedido se destinará a la realización de otras tareas complementarias previstas en la PGA. 2 horas 15 minutos Coordinación para el bienestar y la protección del alumnado. Coordinación de igualdad Coordinación de las acciones para la mejora de la convivencia y el bienestar y la protección del alumnado y la gestión del protocolo de acoso escolar. Medidas para la promoción de la coeducación, los valores igualitarios y la diversidad afectivo-sexual. 2 horas 15 minutos Coordinación del plan de internacionalización del centro para el sector ADU (EOI) Coordinación proyecto KA121 ADU/ KA122 ADU 1 4 horas 30 minutos Proyectos con dotación económica de hasta 70.000€ 6 horas 45 minutos Proyectos con dotación económica superior a los 70.001€ Coordinación proyecto KA2 ADU 2 horas 15 minutos Proyectos con dotación económica de hasta 60.000€. 4 horas 30 minutos:
 Proyectos con dotación económica superior a los 60.001€
 
-4. CALENDARIO DEL CURSO 2025/2026.
-
-**4.1.** Inicio y finalización del curso escolar. El curso escolar se iniciará el 1 de septiembre de 2025 y finalizará el 31 de agosto de 2026. 1 No se sumarán descuentos lectivos correspondientes a proyectos KA121-ADU y KA122-ADU de distintas convocatorias.
+4. CALENDARIO DEL CURSO 2025/2026. **4.1.** Inicio y finalización del curso escolar. El curso escolar se iniciará el 1 de septiembre de 2025 y finalizará el 31 de agosto de 2026. 1 No se sumarán descuentos lectivos correspondientes a proyectos KA121-ADU y KA122-ADU de distintas convocatorias.
 
 Las actividades ordinarias del curso escolar se iniciarán el 1 de septiembre de 2025 y finalizarán el 30 de junio de 2026. Las actividades propiamente lectivas del curso 2025/2026 tendrán las fechas que se indican a continuación para los diferentes cursos:
 CURSOS ACTIVIDADES LECTIVAS Inicio Finalización Cuatrimestrales Primer cuatrimestre 22 de septiembre 29 de enero
@@ -248,9 +248,7 @@ Los libros de texto y demás materiales curriculares permanecerán vigentes, al 
 
 **5.2.** Traslados entre centros. Los traslados de alumnado entre Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Canarias se realizarán empleando la utilidad de Pincel Ekade para la importación de antecedentes académicos. Los traslados a otras Escuelas Oficiales de Idiomas fuera de la Comunidad Autónoma de Canarias requerirán el traslado del expediente, por lo que estarán sujetos al abono de la tasa correspondiente. En cualquier caso, para el traslado de alumnado entre centros se seguirá el protocolo facilitado por la DGFPERE.
 
-**5.3.** Contratos administrativos y personal de administración y servicios. En lo que respecta al cumplimiento de los contratos administrativos de servicios en los centros educativos y régimen del personal de administración y servicios, se estará a lo dispuesto en la normativa correspondiente establecida con carácter general para todos los centros de enseñanza dependientes de la CEFPAFD y, concretamente, a la Resolución conjunta de la Viceconsejería de Educación y la Viceconsejería de Formación Profesional y Cualificaciones Profesionales, por la que se dictan instrucciones de organización y funcionamiento dirigidas a los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias para el curso 2025-2026.
-
-## Relaciones Normativas y Fundamentos de Derecho
+**5.3.** Contratos administrativos y personal de administración y servicios. En lo que respecta al cumplimiento de los contratos administrativos de servicios en los centros educativos y régimen del personal de administración y servicios, se estará a lo dispuesto en la normativa correspondiente establecida con carácter general para todos los centros de enseñanza dependientes de la CEFPAFD y, concretamente, a la Resolución conjunta de la Viceconsejería de Educación y la Viceconsejería de Formación Profesional y Cualificaciones Profesionales, por la que se dictan instrucciones de organización y funcionamiento dirigidas a los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias para el curso 2025-2026. ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
 

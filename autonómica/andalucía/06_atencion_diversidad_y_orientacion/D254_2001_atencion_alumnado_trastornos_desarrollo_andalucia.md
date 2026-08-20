@@ -1,10 +1,12 @@
 ---
 id: norm-and-d-254-2001
 codigo_sintetizado: D254_2001 Atencion Alumnado Trastornos Desarrollo Andalucia
-titulo: Decreto 254/2001, de 20 de noviembre, por el que se regula la atención educativa al alumnado con trastornos de desarrollo y necesidades educativas especiales asociadas.
+titulo: Decreto 254/2001, de 20 de noviembre, por el que se regula la atención educativa
+  al alumnado con trastornos de desarrollo y necesidades educativas especiales asociadas.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 254/2001
 fecha_disposicion: '2001-11-20'
@@ -18,26 +20,24 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Atención a la diversidad
 tags:
-  - trastornos_desarrollo
-  - nee
-  - atencion_temprana
-  - orientacion
-  - andalucia
+- trastornos_desarrollo
+- nee
+- atencion_temprana
+- orientacion
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-1-1996
 ---
 # Decreto 254/2001, de 20 de noviembre, por el que se regula la atención educativa al alumnado con trastornos de desarrollo y necesidades educativas especiales asociadas.
 
 ## Preámbulo
 
-RESOLUCION de 14 de noviembre de 2001, de la Dirección General de Política Interior, por la que se publica el Plan Anual de Formación de la Escuela de Seguridad Pública de Andalucía (ESPA) para el curso académico 2002.
-
-name="Description"/> name="Keywords"/>
+RESOLUCION de 14 de noviembre de 2001, de la Dirección General de Política Interior, por la que se publica el Plan Anual de Formación de la Escuela de Seguridad Pública de Andalucía (ESPA) para el curso académico 2002. name="Description"/> name="Keywords"/>
 
 title="Boletín completo - BOJA" type="application/atom+xml" rel="alternate"/> <link type="application/atom+xml" rel="alternate" title="1. Disposiciones generales - BOJA" href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
 
@@ -83,9 +83,7 @@ Histórico del BOJA Boletín número 140 de 04/12/2001
 
 ### Consejería de Gobernación
 
-### RESOLUCION de 14 de noviembre de 2001, de la Dirección General de Política Interior, por la que se publica el Plan Anual de Formación de la Escuela de Seguridad Pública de Andalucía (ESPA) para el curso académico 2002.
-
-Atención: La información contenida en estas páginas no tiene validez legal. Ver más
+### RESOLUCION de 14 de noviembre de 2001, de la Dirección General de Política Interior, por la que se publica el Plan Anual de Formación de la Escuela de Seguridad Pública de Andalucía (ESPA) para el curso académico 2002. Atención: La información contenida en estas páginas no tiene validez legal. Ver más
 
 Esta disposición incluye elementos no textuales, que no se muestran en esta página. Para visualizarlos, consulte la versión en <a title="Ir al final de la
 disposición" href="
@@ -132,9 +130,7 @@ Formalizada la selección, la ESPA comunicará a las jefaturas de destino de los
 
 http://andaluciajunta.es/espa, facilitando el número del DNI.
 
-La información general sobre las actividades formativas se atenderá en los teléfonos 95/507.82.04-16.
-
-La admisión a una actividad formativa será provisional y condicionada a la justificación o acreditación documental de estar en posesión de los requisitos exigidos. Un alumno no podrá seguir o continuar en una actividad formativa si se comprueba que no reúne los requisitos exigidos para ésta, todo ello con independencia de las responsabilidades a que haya lugar por no ajustarse su solicitud a la realidad.
+La información general sobre las actividades formativas se atenderá en los teléfonos 95/507.82.04-16. La admisión a una actividad formativa será provisional y condicionada a la justificación o acreditación documental de estar en posesión de los requisitos exigidos. Un alumno no podrá seguir o continuar en una actividad formativa si se comprueba que no reúne los requisitos exigidos para ésta, todo ello con independencia de las responsabilidades a que haya lugar por no ajustarse su solicitud a la realidad.
 
 Las solicitudes no admitidas se desestimarán una vez iniciado el curso; los peticionarios que continúen interesados en dicha actividad formativa habrán de presentar una nueva solicitud, pudiendo hacer constar la falta de selección de su petición en la edición anterior.
 
@@ -150,9 +146,7 @@ solicitante.
 
 Cursos programados: Uno.
 
-Fechas de realización: Del 6 de marzo al 4 de abril de 2002. Fecha límite solicitudes: 6 de febrero de 2002.
-
-**1.5.6.** Relación de servicio de los funcionarios públicos (30 horas).
+Fechas de realización: Del 6 de marzo al 4 de abril de 2002. Fecha límite solicitudes: 6 de febrero de 2002. **1.5.6.** Relación de servicio de los funcionarios públicos (30 horas).
 
 Objetivo: Adquirir información actualizada sobre la Función Pública.
 
@@ -160,11 +154,7 @@ Cursos programados: Uno.
 
 Fechas de realización: Del 6 de noviembre al 4 de diciembre de
 
-2002.
-
-Fecha límite de solicitudes: 4 de octubre de 2002.
-
-#### Sexto. Régimen de asistencia.
+2002. Fecha límite de solicitudes: 4 de octubre de 2002. #### Sexto. Régimen de asistencia.
 
 El alumnado podrá optar por alojarse en la ESPA, sujetándose a lo que en este caso dispone el Reglamento de Régimen Interior, o bien, una vez finalizadas las actividades lectivas diarias, podrá pernoctar por su cuenta fuera del Centro. La opción habrá de reflejarla, necesariamente, en la solicitud y le vinculará durante toda la actividad formativa.
 
@@ -286,9 +276,7 @@ Cursos programados: Uno (XXIII edición).
 
 Fechas de realización: Del 28.10.2002 al
 
-**26.9.2003.** Fecha límite solicitudes: 20 de septiembre de 2002.
-
-**1.1.2.** Capacitación/Actualización para Cabos (210 horas). Objetivo: Complementar la formación inicial de aquellos funcionarios que acceden a la categoría de Cabo o ingresan en un Cuerpo de la Policía Local por esta categoría, una vez superado el concurso de méritos o concurso-oposición, mediante el conocimiento de técnicas de gestión de recursos humanos y otras relacionadas con los cometidos asignados a dicha
+**26.9.2003.** Fecha límite solicitudes: 20 de septiembre de 2002. **1.1.2.** Capacitación/Actualización para Cabos (210 horas). Objetivo: Complementar la formación inicial de aquellos funcionarios que acceden a la categoría de Cabo o ingresan en un Cuerpo de la Policía Local por esta categoría, una vez superado el concurso de méritos o concurso-oposición, mediante el conocimiento de técnicas de gestión de recursos humanos y otras relacionadas con los cometidos asignados a dicha
 
 categoría; en el curso de Actualización, recibir una adecuada puesta al día profesional.
 
@@ -314,25 +302,9 @@ Fechas de realización:
 
 1.ª Edición:
 
-- Fase previa: Del 28 de enero al 1 de febrero de 2002.
+- Fase previa: Del 28 de enero al 1 de febrero de 2002. - Fase I: Del 4 a 15 de febrero de 2002. - Fase III: Del 4 al 15 de marzo de 2002. - Fase V: Del 1 al 5 de abril de 2002. 2.ª Edición:
 
-- Fase I: Del 4 a 15 de febrero de 2002.
-
-- Fase III: Del 4 al 15 de marzo de 2002.
-
-- Fase V: Del 1 al 5 de abril de 2002.
-
-2.ª Edición:
-
-- Fase previa: 30 de septiembre al 4 de octubre de 2002.
-
-- Fase I: Del 14 al 25 de octubre de 2002.
-
-- Fase III: Del 11 al 22 de noviembre de 2002.
-
-- Fase V: Del 10 al 13 de diciembre de 2002.
-
-Fechas límite de solicitudes:
+- Fase previa: 30 de septiembre al 4 de octubre de 2002. - Fase I: Del 14 al 25 de octubre de 2002. - Fase III: Del 11 al 22 de noviembre de 2002. - Fase V: Del 10 al 13 de diciembre de 2002. Fechas límite de solicitudes:
 
 1.ª edición: 11 de enero de 2002 (7 de enero para quienes hayan de seguir la fase previa).
 
@@ -368,13 +340,7 @@ Fechas de realización:
 
 - Fase previa: Del 30 de septiembre al 4 de octubre de 2002 (1.ª subfase previa) y del 7 al 11 de octubre (2.ª subfase previa).
 
-- Fase I: Del 14 al 25 de octubre de 2002.
-
-- Fase III: Del 11 al 22 de noviembre de 2002.
-
-- Fase V: Del 10 al 13 de diciembre de 2002.
-
-Fechas límite de solicitudes: 10 de septiembre de 2001 (26 de agosto para quienes hayan de seguir cualesquiera de las subfases previas).
+- Fase I: Del 14 al 25 de octubre de 2002. - Fase III: Del 11 al 22 de noviembre de 2002. - Fase V: Del 10 al 13 de diciembre de 2002. Fechas límite de solicitudes: 10 de septiembre de 2001 (26 de agosto para quienes hayan de seguir cualesquiera de las subfases previas).
 
 **1.1.4.** Capacitación/Actualización para Suboficiales (210 horas).
 
@@ -406,13 +372,7 @@ Fechas de realización:
 
 - Fase previa: Del 30 de septiembre al 4 de octubre de 2002 (1.ª subfase previa) y del 7 al 11 de octubre (2.ª subfase previa).
 
-- Fase I: Del 14 al 25 de octubre de 2002.
-
-- Fase III: Del 11 al 22 de noviembre de 2002.
-
-- Fase V: Del 10 al 13 de diciembre de 2002.
-
-Fechas límite de solicitudes: 10 de septiembre de 2001 (26 de agosto para quienes hayan de seguir cualesquiera de las subfases previas).
+- Fase I: Del 14 al 25 de octubre de 2002. - Fase III: Del 11 al 22 de noviembre de 2002. - Fase V: Del 10 al 13 de diciembre de 2002. Fechas límite de solicitudes: 10 de septiembre de 2001 (26 de agosto para quienes hayan de seguir cualesquiera de las subfases previas).
 
 **1.1.5.** Capacitación/Actualización para la Escala Técnica (210 horas).
 
@@ -450,13 +410,7 @@ Fechas de realización:
 
 - Fase previa: Del 30 de septiembre al 4 de octubre de 2002 (1.ª subfase previa) y del 7 al 11 de octubre (2.ª subfase previa).
 
-- Fase I: Del 14 al 25 de octubre de 2002.
-
-- Fase III: Del 11 al 22 de noviembre de 2002.
-
-- Fase V: Del 10 al 13 de diciembre de 2002.
-
-Fechas límite de solicitudes: 10 de septiembre de 2001 (26 de agosto para quienes hayan de seguir cualesquiera de las subfases previas).
+- Fase I: Del 14 al 25 de octubre de 2002. - Fase III: Del 11 al 22 de noviembre de 2002. - Fase V: Del 10 al 13 de diciembre de 2002. Fechas límite de solicitudes: 10 de septiembre de 2001 (26 de agosto para quienes hayan de seguir cualesquiera de las subfases previas).
 
 **1.1.6.** Ordenanzas municipales (35 horas).
 
@@ -464,9 +418,7 @@ Objetivo: Profundizar en el conocimiento y la aplicación de las ordenanzas del 
 
 Cursos programados: Uno.
 
-Fechas de realización: Del 18 al 22 de febrero de 2002. Fecha límite de solicitudes: 11 de enero de 2002.
-
-**1.1.7.** Protección de personas y edificios (70 horas).
+Fechas de realización: Del 18 al 22 de febrero de 2002. Fecha límite de solicitudes: 11 de enero de 2002. **1.1.7.** Protección de personas y edificios (70 horas).
 
 Objetivo: Instruir en técnicas y procedimientos para la protección de personas y edificios y de autoprotección
 
@@ -476,11 +428,7 @@ Requisitos: Estar destinado en unidades de protección de autoridades o edificio
 
 Cursos programados: Uno.
 
-Fechas de realización: Del 3 al 14 de junio de 2002.
-
-Fecha límite de solicitudes: 3 de mayo de 2002.
-
-**1.1.8.** Actuaciones urgentes en Policía urbanística (35
+Fechas de realización: Del 3 al 14 de junio de 2002. Fecha límite de solicitudes: 3 de mayo de 2002. **1.1.8.** Actuaciones urgentes en Policía urbanística (35
 
 horas).
 
@@ -488,9 +436,7 @@ Objetivo: Dotar de una formación teórico-práctica que facilite la intervenci�
 
 Cursos programados: Uno.
 
-Fechas de realización: Del 14 al 18 de octubre de 2002. Fecha límite solicitudes: 13 de septiembre de 2002.
-
-**1.1.9.** Violencia contra la mujer (20 horas).
+Fechas de realización: Del 14 al 18 de octubre de 2002. Fecha límite solicitudes: 13 de septiembre de 2002. **1.1.9.** Violencia contra la mujer (20 horas).
 
 Objetivo: Proporcionar formación técnica y pautas de
 
@@ -500,11 +446,7 @@ Particularidades: Esta actividad se programa en colaboración con el Instituto A
 
 Cursos programados: Uno.
 
-Fechas de realización: Del 27 al 29 de mayo de 2002.
-
-Fecha límite de solicitudes: 26 de abril de 2002.
-
-**1.1.10.** Intervención con menores (20 horas).
+Fechas de realización: Del 27 al 29 de mayo de 2002. Fecha límite de solicitudes: 26 de abril de 2002. **1.1.10.** Intervención con menores (20 horas).
 
 Objetivo: Proporcionar formación técnica y pautas de
 
@@ -512,19 +454,13 @@ intervención policial con menores.
 
 Cursos programados: Uno.
 
-Fechas de realización: Del 25 al 27 de febrero de 2002. Fecha límite de solicitudes: 25 de enero de 2002.
-
-**1.1.11.** Informática básica (35 horas).
+Fechas de realización: Del 25 al 27 de febrero de 2002. Fecha límite de solicitudes: 25 de enero de 2002. **1.1.11.** Informática básica (35 horas).
 
 Objetivos: iniciar en el manejo básico de equipos (PC) y herramientas informáticas más usuales en el sistema Windows. Requisitos: Carecer de conocimientos informáticos y disponer de equipos informáticos en la Jefatura.
 
 Cursos programados: Uno.
 
-Fechas de realización: Del 17 al 21 de junio de 2002.
-
-Fecha límite de solicitudes: 17 de mayo de 2002.
-
-**1.1.12.** Atestados en soporte informático (70 horas).
+Fechas de realización: Del 17 al 21 de junio de 2002. Fecha límite de solicitudes: 17 de mayo de 2002. **1.1.12.** Atestados en soporte informático (70 horas).
 
 Objetivo: Desarrollar conocimientos y procedimientos
 
@@ -534,9 +470,7 @@ Requisitos: Poseer elevados conocimientos de informática como usuario de aplica
 
 Cursos programados: Uno.
 
-Fechas de realización: Del 14 al 25 de octubre de 2002. Fecha límite de solicitudes: 13 de septiembre de 2002.
-
-**1.1.13.** Calidad total en el servicio policial (80 horas). Objetivo: Propiciar la implantación de sistemas de calidad total en los servicios prestados por los Cuerpos de la Policía Local para una mejor atención a la ciudadanía.
+Fechas de realización: Del 14 al 25 de octubre de 2002. Fecha límite de solicitudes: 13 de septiembre de 2002. **1.1.13.** Calidad total en el servicio policial (80 horas). Objetivo: Propiciar la implantación de sistemas de calidad total en los servicios prestados por los Cuerpos de la Policía Local para una mejor atención a la ciudadanía.
 
 Requisitos: Pertenecer a los cuadros de mando policiales, preferentemente a la Escala Técnica o a la Ejecutiva.
 
@@ -546,13 +480,7 @@ Cursos programados: Uno.
 
 Fechas de realización:
 
-- Fase I: Del 25 al 29 de noviembre de 2002.
-
-- Fase III: Del 10 al 13 de diciembre de 2002.
-
-Fecha límite de solicitudes: 25 de octubre de 2002.
-
-**1.1.14.** Policía turística (110 horas).
+- Fase I: Del 25 al 29 de noviembre de 2002. - Fase III: Del 10 al 13 de diciembre de 2002. Fecha límite de solicitudes: 25 de octubre de 2002. **1.1.14.** Policía turística (110 horas).
 
 Objetivo: Facilitar contenidos conceptuales, procedimentales y actitudinales para una mejor actuación policial y atención al ciudadano en los municipios con gran afluencia turística. Requisitos: Pertenecer a municipios eminentemente turísticos. Particularidades: Se desarrolla en tres fases presenciales en la Escuela.
 
@@ -560,15 +488,7 @@ Cursos programados: Uno.
 
 Fechas de realización:
 
-- Fase I: Del 8 al 12 de abril de 2002.
-
-- Fase II: Del 22 al 26 de abril de 2002.
-
-- Fase III: del 6 al 10 de mayo de 2002.
-
-Fecha límite de solicitudes: 8 de marzo de 2002.
-
-**1.2.** Cursos para los Cuerpos de Bomberos.
+- Fase I: Del 8 al 12 de abril de 2002. - Fase II: Del 22 al 26 de abril de 2002. - Fase III: del 6 al 10 de mayo de 2002. Fecha límite de solicitudes: 8 de marzo de 2002. **1.2.** Cursos para los Cuerpos de Bomberos.
 
 Requisito general: Pertenecer a los Cuerpos de Bomberos de las Administraciones Locales de Andalucía, preferentemente como funcionario de carrera o laboral fijo.
 
@@ -580,11 +500,7 @@ Objetivo: Profundizar en las técnicas de investigación sobre las causas de los
 
 Jornadas programadas: Una.
 
-Fechas de realización: Días 2 y 3 de mayo de 2002.
-
-Fecha límite de solicitudes: 1 de abril de 2002.
-
-**1.2.2.** Formación básica (70 horas).
+Fechas de realización: Días 2 y 3 de mayo de 2002. Fecha límite de solicitudes: 1 de abril de 2002. **1.2.2.** Formación básica (70 horas).
 
 Objetivo: Dotar de una formación básica al Bombero profesional de reciente ingreso.
 
@@ -592,23 +508,13 @@ Requisitos: Bomberos de reciente ingreso (últimos 18 meses), como funcionario d
 
 Cursos programados: Uno (en dos fases presenciales en la ESPA). Fechas de realización:
 
-- Fase I: Del 18 al 22 de marzo de 2002.
-
-- Fase II: Del 13 al 17 de mayo de 2002.
-
-Fecha límite de solicitudes: 18 de febrero de 2002.
-
-**1.2.3.** Desescombros y salvamentos, nivel I (35 horas).
+- Fase I: Del 18 al 22 de marzo de 2002. - Fase II: Del 13 al 17 de mayo de 2002. Fecha límite de solicitudes: 18 de febrero de 2002. **1.2.3.** Desescombros y salvamentos, nivel I (35 horas).
 
 Objetivo: Adiestrar en técnicas específicas para actuaciones en derrumbamientos de edificios y rescate y salvamento de víctimas sepultadas bajo escombros, principalmente como consecuencia de sismos.
 
 Cursos programados: Uno.
 
-Fechas de realización: Del 7 al 11 de octubre de 2002.
-
-Fecha límite solicitudes: 6 de septiembre de 2002.
-
-**1.2.4.** Rescate en montaña, nivel I (35 horas).
+Fechas de realización: Del 7 al 11 de octubre de 2002. Fecha límite solicitudes: 6 de septiembre de 2002. **1.2.4.** Rescate en montaña, nivel I (35 horas).
 
 Objetivo: Formar en técnicas de intervención en siniestros que supongan operaciones de rescate de víctimas en zonas montañosas o abruptas.
 
@@ -620,9 +526,7 @@ Fechas de realización: Del 7 al 11 de octubre de 2002
 
 (realización en Villaluenga del Rosario, Cádiz).
 
-Fecha límite solicitudes: 6 de septiembre de 2002.
-
-**1.2.5.** Rescate en accidentes de tráfico (35 horas).
+Fecha límite solicitudes: 6 de septiembre de 2002. **1.2.5.** Rescate en accidentes de tráfico (35 horas).
 
 Objetivo: Facilitar conocimientos y técnicas operativas para intervenciones en accidentes de tráfico, principalmente cuando haya víctimas atrapadas.
 
@@ -630,9 +534,7 @@ Requisitos: Tendrán prioridad los solicitantes cuyos Cuerpos de Bomberos aporte
 
 Cursos programados: Uno.
 
-Fechas de realización: Del 23 al 27 de septiembre de 2002. Fecha límite de solicitudes: 23 de agosto de 2002.
-
-**1.3.** Cursos para el Voluntariado de Protección Civil.
+Fechas de realización: Del 23 al 27 de septiembre de 2002. Fecha límite de solicitudes: 23 de agosto de 2002. **1.3.** Cursos para el Voluntariado de Protección Civil.
 
 Requisitos generales:
 
@@ -650,11 +552,7 @@ Cursos programados: Uno.
 
 Fechas de realización: Del 30 de septiembre al 4 de octubre de
 
-2002.
-
-Fecha límite solicitudes: 30 de agosto de 2002.
-
-**1.3.2.** Socorrismo (35 horas).
+2002. Fecha límite solicitudes: 30 de agosto de 2002. **1.3.2.** Socorrismo (35 horas).
 
 Objetivo: Profundizar en técnicas sanitarias en situaciones de urgencia o emergencia.
 
@@ -662,29 +560,19 @@ Cursos programados: Uno.
 
 Fechas de realización: Del 30 de septiembre al 4 de octubre de
 
-2002.
-
-Fecha límite solicitudes: 30 de agosto de 2002.
-
-**1.3.3.** Riesgos naturales (35 horas).
+2002. Fecha límite solicitudes: 30 de agosto de 2002. **1.3.3.** Riesgos naturales (35 horas).
 
 Objetivo: Dotar de formación teórico-práctica sobre los diferentes riesgos naturales más frecuentes en Andalucía (sísmicos, hídricos, meteorológicos, etc.).
 
 Cursos programados: Uno.
 
-Fechas de realización: Del 20 al 24 de mayo de 2002.
-
-Fecha límite solicitudes: 19 de abril de 2002.
-
-**1.3.4.** Acción social (35 horas).
+Fechas de realización: Del 20 al 24 de mayo de 2002. Fecha límite solicitudes: 19 de abril de 2002. **1.3.4.** Acción social (35 horas).
 
 Objetivo: Suministrar técnicas de intervención en crisis, pánico de masas, afrontamiento del estrés, habilidades sociales y dinámica grupal.
 
 Cursos programados: Uno.
 
-Fechas de realización: Del 23 al 27 de septiembre de 2002. Fecha límite solicitudes: 23 de agosto de 2002.
-
-**1.4.** Cursos comarcales y locales.
+Fechas de realización: Del 23 al 27 de septiembre de 2002. Fecha límite solicitudes: 23 de agosto de 2002. **1.4.** Cursos comarcales y locales.
 
 Las Corporaciones Locales o provinciales interesadas en ser sede para la realización de los cursos y jornadas de carácter desconcentrado que aparecen en este apartado lo solicitarán a las Delegaciones del Gobierno de la Junta de Andalucía antes del 15 de febrero, con el objeto de que cada Delegación elabore un plan provincial con todas ellas y que se integren en el global de la ESPA.
 
@@ -822,9 +710,7 @@ Objetivo: Conocer la organización básica de la protección personal y de edifi
 
 Objetivo: Adquirir conocimientos sobre las radiocomunicaciones (manejo, mantenimiento y conservación de equipos
 
-radiotelefónicos) y la operación en un centro del 092.
-
-1.4.1.24. Ley de Espectáculos Públicos y Actividades
+radiotelefónicos) y la operación en un centro del 092. 1.4.1.24. Ley de Espectáculos Públicos y Actividades
 
 Recreativas de Andalucía (9 horas).
 
@@ -956,9 +842,7 @@ Objetivo: Suministrar información genérica sobre los planes de autoprotección
 
 Objetivo: Adiestrar en el manejo, mantenimiento y conservación de auto-bombas y su aplicación en la extinción de incendios. Requisitos:
 
-a) Estar en posesión del permiso de conducción del tipo C-1.
-
-b) Haber superado el curso de Extinción de incendios.
+a) Estar en posesión del permiso de conducción del tipo C-1. b) Haber superado el curso de Extinción de incendios.
 
 - Extinción de incendios.
 
@@ -1010,33 +894,17 @@ Cursos programados: Dos.
 
 Fechas de realización:
 
-- 1.ª edición: Del 10 de abril al 9 de mayo de 2002.
+- 1.ª edición: Del 10 de abril al 9 de mayo de 2002. - 2.ª edición: Del 16 de octubre al 13 de noviembre de 2002. Fecha límite de solicitudes:
 
-- 2.ª edición: Del 16 de octubre al 13 de noviembre de 2002.
-
-Fecha límite de solicitudes:
-
-- 1.ª edición: 11 de marzo de 2002.
-
-- 2.ª edición: 16 de septiembre de 2002.
-
-**1.5.2.** Técnicas de intervención psicológica (30 horas). Objetivo: Adquirir conocimientos y técnicas para afrontar situaciones de ansiedad, conflictivas y de alto riesgo social, haciendo uso de estrategias y habilidades sociales para solucionarlas positivamente.
+- 1.ª edición: 11 de marzo de 2002. - 2.ª edición: 16 de septiembre de 2002. **1.5.2.** Técnicas de intervención psicológica (30 horas). Objetivo: Adquirir conocimientos y técnicas para afrontar situaciones de ansiedad, conflictivas y de alto riesgo social, haciendo uso de estrategias y habilidades sociales para solucionarlas positivamente.
 
 Cursos programados: Dos.
 
 Fechas de realización:
 
-- 1.ª edición: Del 13 de febrero al 13 de marzo de 2002.
+- 1.ª edición: Del 13 de febrero al 13 de marzo de 2002. - 2.ª edición: Del 24 de octubre al 26 de noviembre de 2002. Fecha límite de solicitudes:
 
-- 2.ª edición: Del 24 de octubre al 26 de noviembre de 2002.
-
-Fecha límite de solicitudes:
-
-- 1.ª edición: 14 de enero de 2002.
-
-- 2.ª edición: 24 de septiembre de 2002.
-
-**1.5.3.** Comunicación y atención al ciudadano, nivel medio (30 horas).
+- 1.ª edición: 14 de enero de 2002. - 2.ª edición: 24 de septiembre de 2002. **1.5.3.** Comunicación y atención al ciudadano, nivel medio (30 horas).
 
 Tipo de curso: Nivel medio.
 
@@ -1048,11 +916,7 @@ Cursos programados: Uno.
 
 Fechas de realización: Del 20 de febrero al 20 de marzo de
 
-2002.
-
-Fecha límite de solicitudes: 21 de enero de 2002.
-
-**1.5.4.** Técnicas de organización personal del trabajo (30 horas).
+2002. Fecha límite de solicitudes: 21 de enero de 2002. **1.5.4.** Técnicas de organización personal del trabajo (30 horas).
 
 Objetivo: Adquirir técnicas y procedimientos y actitudes que faciliten una mejor organización del trabajo personal.
 
@@ -1060,9 +924,7 @@ Requisitos: Ejercer funciones directivas o estar destinado en unidades administr
 
 Cursos programados: Uno.
 
-Fechas de realización: Del 24 de abril al 23 de mayo de 2002. Fecha límite de solicitudes: 22 de marzo de 2002.
-
-<a title="Descargar PDF de la
+Fechas de realización: Del 24 de abril al 23 de mayo de 2002. Fecha límite de solicitudes: 22 de marzo de 2002. <a title="Descargar PDF de la
 disposición" class=" item_pdf_disposicion" href="d1.pdf" target="_blank"> Descargar PDF
 
 Disposición siguiente

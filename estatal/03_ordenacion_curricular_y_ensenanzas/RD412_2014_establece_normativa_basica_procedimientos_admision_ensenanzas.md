@@ -1,10 +1,13 @@
 ---
 id: norm-es-2014-6008
 codigo_sintetizado: BOE-A-2014-6008
-titulo: Real Decreto 412/2014, de 6 de junio, por el que se establece la normativa básica de los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado.
+titulo: Real Decreto 412/2014, de 6 de junio, por el que se establece la normativa
+  básica de los procedimientos de admisión a las enseñanzas universitarias oficiales
+  de Grado.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2014-06-07'
 boletin: BOE
@@ -15,37 +18,34 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Bachillerato
 tags:
-  - admision-alumnado
-  - bachillerato
-  - ensenanzas-artisticas
-  - ensenanzas-universitarias
-  - evaluacion
-  - formacion-profesional
-  - fp-basica
-  - oposiciones
-  - titulacion
+- admision-alumnado
+- bachillerato
+- ensenanzas-artisticas
+- ensenanzas-universitarias
+- evaluacion
+- formacion-profesional
+- fp-basica
+- oposiciones
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
-    - norma_id: norm-es-2023-3846
-    - norma_id: norm-can-res-juriscan-72176-78
+  - norma_id: norm-es-2023-3846
+  - norma_id: norm-can-res-juriscan-72176-78
   desarrollado_por: []
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-es-lo-2-2006
-  articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - '2'
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 ---
 # Real Decreto 412/2014, de 6 de junio, por el que se establece la normativa básica de los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado.
 
@@ -65,9 +65,7 @@ Esta nueva regulación exige, de acuerdo con lo dispuesto en el apartado 3 del a
 
 De acuerdo con este mandato, el presente real decreto tiene por objeto establecer la normativa básica de los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado. Asimismo, se establece el calendario de implantación de este procedimiento, se determinan los criterios y condiciones para el mantenimiento de la calificación obtenida en la prueba de acceso a la universidad y se establece un período transitorio hasta llegar a la implantación general de esta nueva normativa.
 
-En cuanto al calendario de implantación, este nuevo sistema de admisión a las enseñanzas universitarias oficiales de Grado será de aplicación a los estudiantes que hayan obtenido el título de Bachiller del Sistema Educativo Español regulado en la [Ley Orgánica 8/2013](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, y que accedan a estas enseñanzas a partir del curso académico 2017-2018. Para los estudiantes en posesión de los títulos de Técnico Superior de Formación Profesional, de Técnico Superior de Artes Plásticas y Diseño o de Técnico Deportivo Superior, así como para los estudiantes procedentes de sistemas educativos extranjeros, los nuevos criterios de acceso y admisión a las enseñanzas universitarias oficiales de Grado serán de aplicación a partir del curso académico 2014-2015.
-
-Para este período transitorio que abarca los cursos académicos 2014-2015 a 2016-2017, este real decreto regula criterios de admisión específicos que las Universidades podrán aplicar para garantizar la admisión en condiciones de igualdad.
+En cuanto al calendario de implantación, este nuevo sistema de admisión a las enseñanzas universitarias oficiales de Grado será de aplicación a los estudiantes que hayan obtenido el título de Bachiller del Sistema Educativo Español regulado en la [Ley Orgánica 8/2013](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, y que accedan a estas enseñanzas a partir del curso académico 2017-2018. Para los estudiantes en posesión de los títulos de Técnico Superior de Formación Profesional, de Técnico Superior de Artes Plásticas y Diseño o de Técnico Deportivo Superior, así como para los estudiantes procedentes de sistemas educativos extranjeros, los nuevos criterios de acceso y admisión a las enseñanzas universitarias oficiales de Grado serán de aplicación a partir del curso académico 2014-2015. Para este período transitorio que abarca los cursos académicos 2014-2015 a 2016-2017, este real decreto regula criterios de admisión específicos que las Universidades podrán aplicar para garantizar la admisión en condiciones de igualdad.
 
 Este real decreto se adecua al régimen de distribución de competencias entre el Estado y las Comunidades Autónomas. El acceso a la universidad se encuadra en la materia de enseñanza superior, de acuerdo con lo afirmado por el Tribunal Constitucional en su Sentencia 207/2012, de 14 de noviembre. En esta materia el Estado tiene atribuida, además de la regulación de las condiciones de obtención, expedición y homologación de títulos académicos, la competencia para dictar normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia, si bien dicha competencia ha de entenderse, conforme al marco constitucional y estatutario, circunscrita al contenido básico de la misma.
 
@@ -103,11 +101,7 @@ b) Estudiantes en posesión del título de Bachillerato Europeo o del diploma de
 
 c) Estudiantes en posesión de títulos, diplomas o estudios de Bachillerato o Bachiller procedentes de sistemas educativos de Estados miembros de la Unión Europea o de otros Estados con los que se hayan suscrito acuerdos internacionales aplicables a este respecto, en régimen de reciprocidad.
 
-d) Estudiantes en posesión de títulos, diplomas o estudios homologados al título de Bachiller del Sistema Educativo Español, obtenidos o realizados en sistemas educativos de Estados que no sean miembros de la Unión Europea con los que no se hayan suscrito acuerdos internacionales para el reconocimiento del título de Bachiller en régimen de reciprocidad, sin perjuicio de lo dispuesto en el artículo 4.
-
-e) Estudiantes en posesión de los títulos oficiales de Técnico Superior de Formación Profesional, de Técnico Superior de Artes Plásticas y Diseño o de Técnico Deportivo Superior perteneciente al Sistema Educativo Español, o de títulos, diplomas o estudios declarados equivalentes u homologados a dichos títulos, sin perjuicio de lo dispuesto en el artículo 4.
-
-f) Estudiantes en posesión de títulos, diplomas o estudios, diferentes de los equivalentes a los títulos de Bachiller, Técnico Superior de Formación Profesional, Técnico Superior de Artes Plásticas y Diseño, o de Técnico Deportivo Superior del Sistema Educativo Español, obtenidos o realizados en un Estado miembro de la Unión Europea o en otros Estados con los que se hayan suscrito acuerdos internacionales aplicables a este respecto, en régimen de reciprocidad, cuando dichos estudiantes cumplan los requisitos académicos exigidos en dicho Estado miembro para acceder a sus Universidades.
+d) Estudiantes en posesión de títulos, diplomas o estudios homologados al título de Bachiller del Sistema Educativo Español, obtenidos o realizados en sistemas educativos de Estados que no sean miembros de la Unión Europea con los que no se hayan suscrito acuerdos internacionales para el reconocimiento del título de Bachiller en régimen de reciprocidad, sin perjuicio de lo dispuesto en el artículo 4. e) Estudiantes en posesión de los títulos oficiales de Técnico Superior de Formación Profesional, de Técnico Superior de Artes Plásticas y Diseño o de Técnico Deportivo Superior perteneciente al Sistema Educativo Español, o de títulos, diplomas o estudios declarados equivalentes u homologados a dichos títulos, sin perjuicio de lo dispuesto en el artículo 4. f) Estudiantes en posesión de títulos, diplomas o estudios, diferentes de los equivalentes a los títulos de Bachiller, Técnico Superior de Formación Profesional, Técnico Superior de Artes Plásticas y Diseño, o de Técnico Deportivo Superior del Sistema Educativo Español, obtenidos o realizados en un Estado miembro de la Unión Europea o en otros Estados con los que se hayan suscrito acuerdos internacionales aplicables a este respecto, en régimen de reciprocidad, cuando dichos estudiantes cumplan los requisitos académicos exigidos en dicho Estado miembro para acceder a sus Universidades.
 
 g) Personas mayores de veinticinco años que superen la prueba de acceso establecida en este real decreto.
 
@@ -179,13 +173,9 @@ b) Estudiantes que se encuentren en posesión del título de Bachillerato Europe
 
 2. En los supuestos que se indican a continuación, las Universidades fijarán en todo caso procedimientos de admisión a las enseñanzas universitarias oficiales de Grado:
 
-a) Estudiantes en posesión de los títulos oficiales de Técnico Superior de Formación Profesional, de Técnico Superior de Artes Plásticas y Diseño, o de Técnico Deportivo Superior del Sistema Educativo Español, o en posesión de títulos, diplomas o estudios homologados o declarados equivalentes a dichos títulos, sin perjuicio de lo dispuesto en el artículo 4.
+a) Estudiantes en posesión de los títulos oficiales de Técnico Superior de Formación Profesional, de Técnico Superior de Artes Plásticas y Diseño, o de Técnico Deportivo Superior del Sistema Educativo Español, o en posesión de títulos, diplomas o estudios homologados o declarados equivalentes a dichos títulos, sin perjuicio de lo dispuesto en el artículo 4. b) Estudiantes en posesión de títulos, diplomas o estudios equivalentes al título de Bachiller del Sistema Educativo Español, procedentes de sistemas educativos de Estados miembros de la Unión Europea o los de otros Estados con los que se hayan suscrito acuerdos internacionales aplicables a este respecto, en régimen de reciprocidad, cuando dichos estudiantes no cumplan los requisitos académicos exigidos en sus sistemas educativos para acceder a sus Universidades.
 
-b) Estudiantes en posesión de títulos, diplomas o estudios equivalentes al título de Bachiller del Sistema Educativo Español, procedentes de sistemas educativos de Estados miembros de la Unión Europea o los de otros Estados con los que se hayan suscrito acuerdos internacionales aplicables a este respecto, en régimen de reciprocidad, cuando dichos estudiantes no cumplan los requisitos académicos exigidos en sus sistemas educativos para acceder a sus Universidades.
-
-c) Estudiantes en posesión de títulos, diplomas o estudios, obtenidos o realizados en sistemas educativos de Estados que no sean miembros de la Unión Europea con los que no se hayan suscrito acuerdos internacionales para el reconocimiento del título de Bachiller en régimen de reciprocidad, homologados o declarados equivalentes al título de Bachiller del Sistema Educativo Español, sin perjuicio de lo dispuesto en el artículo 4.
-
-3. En los supuestos que se indican a continuación, las Universidades podrán fijar procedimientos de admisión a las enseñanzas universitarias oficiales de Grado:
+c) Estudiantes en posesión de títulos, diplomas o estudios, obtenidos o realizados en sistemas educativos de Estados que no sean miembros de la Unión Europea con los que no se hayan suscrito acuerdos internacionales para el reconocimiento del título de Bachiller en régimen de reciprocidad, homologados o declarados equivalentes al título de Bachiller del Sistema Educativo Español, sin perjuicio de lo dispuesto en el artículo 4. 3. En los supuestos que se indican a continuación, las Universidades podrán fijar procedimientos de admisión a las enseñanzas universitarias oficiales de Grado:
 
 a) Estudiantes en posesión de un título universitario oficial de Grado, Máster o título equivalente.
 
@@ -501,17 +491,11 @@ a) A partir del curso académico 2017-2018, a los estudiantes que hayan obtenido
 
 b) A partir del curso académico 2014-2015, al resto de estudiantes.
 
-#### Disposición transitoria única. Cursos académicos 2014-2015 a 2016-2017.
-
-1. Sin perjuicio de lo dispuesto en la disposición adicional cuarta, para la admisión a los estudios universitarios oficiales de Grado en las Universidades españolas en los cursos académicos 2014-2015, 2015-2016 y 2016-2017 las Universidades podrán utilizar como criterio de valoración en los procedimientos de admisión la superación de las materias de la prueba de acceso a la universidad y la calificación obtenida en las mismas.
+#### Disposición transitoria única. Cursos académicos 2014-2015 a 2016-2017. 1. Sin perjuicio de lo dispuesto en la disposición adicional cuarta, para la admisión a los estudios universitarios oficiales de Grado en las Universidades españolas en los cursos académicos 2014-2015, 2015-2016 y 2016-2017 las Universidades podrán utilizar como criterio de valoración en los procedimientos de admisión la superación de las materias de la prueba de acceso a la universidad y la calificación obtenida en las mismas.
 
 Para la realización de la prueba de acceso a la universidad se tendrán en cuenta las disposiciones de los capítulos II, III y IV del Real Decreto 1892/2008, de 14 de noviembre, por el que se regulan las condiciones para el acceso a las enseñanzas universitarias oficiales de grado y los procedimientos de admisión a las Universidades públicas españolas, sobre prueba de acceso a las enseñanzas universitarias oficiales de Grado para quienes se encuentren en posesión del título de Bachiller o equivalente, salvo por lo que respecta a los temarios sobre los que versarán los ejercicios de la prueba específica para la admisión de los estudiantes que estén en posesión de un título de Técnico Superior de la Formación Profesional o de las enseñanzas artísticas, o de Técnico Deportivo Superior, cuyo contenido será el establecido para el currículo de las materias de modalidad de segundo de Bachillerato de acuerdo con la distribución realizada por las Administraciones educativas, según la adscripción a las ramas del conocimiento recogida en el anexo I del Real Decreto 1892/2008, de 14 de noviembre.
 
-2. El plazo establecido en el artículo 7.2 para que la Conferencia General de Política Universitaria haga público el número máximo de plazas que para cada titulación y centro ofrecen cada una de las Universidades públicas para el curso académico 2014-2015 finalizará el 30 de junio de 2014.
-
-3. El plazo establecido en el artículo 7.4 para que las Universidades públicas hagan públicos los procedimientos que vayan a aplicar para la admisión a las distintas enseñanzas universitarias oficiales de Grado y las fechas de realización de los mismos, así como los criterios de valoración, y las reglas para establecer el orden de prelación en la adjudicación de plazas que vayan a aplicar el curso académico 2014-2015, finalizará el 30 de junio de 2014.
-
-4. La regulación de las pruebas para personas mayores de 25 años y de 45 años contenida en los artículos 11 a 15 y 17 a 20 de este real decreto comenzará a aplicarse en el acceso al curso académico 2015-2016; para el acceso al curso académico 2014-2015 se aplicará la regulación contenida en el Real Decreto 1892/2008, de 14 de noviembre.
+2. El plazo establecido en el artículo 7.2 para que la Conferencia General de Política Universitaria haga público el número máximo de plazas que para cada titulación y centro ofrecen cada una de las Universidades públicas para el curso académico 2014-2015 finalizará el 30 de junio de 2014. 3. El plazo establecido en el artículo 7.4 para que las Universidades públicas hagan públicos los procedimientos que vayan a aplicar para la admisión a las distintas enseñanzas universitarias oficiales de Grado y las fechas de realización de los mismos, así como los criterios de valoración, y las reglas para establecer el orden de prelación en la adjudicación de plazas que vayan a aplicar el curso académico 2014-2015, finalizará el 30 de junio de 2014. 4. La regulación de las pruebas para personas mayores de 25 años y de 45 años contenida en los artículos 11 a 15 y 17 a 20 de este real decreto comenzará a aplicarse en el acceso al curso académico 2015-2016; para el acceso al curso académico 2014-2015 se aplicará la regulación contenida en el Real Decreto 1892/2008, de 14 de noviembre.
 
 5. Para la admisión a los estudios universitarios oficiales de Grado en las Universidades españolas en los cursos académicos 2014-2015, 2015-2016 y 2016-2017 las Universidades podrán utilizar como criterio de valoración en los procedimientos de admisión la credencial para el acceso a la universidad española expedida por la Universidad Nacional de Educación a Distancia (UNED), de acuerdo con los requisitos establecidos en la Orden EDU/1161/2010, de 4 de mayo, por la que se establece el procedimiento para el acceso a la Universidad española por parte de los estudiantes procedentes de sistemas educativos a los que es de aplicación el artículo 38.5 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, para los estudiantes indicados en el artículo 9.1.b) de este real decreto.
 
@@ -531,9 +515,7 @@ Este real decreto tiene el carácter de norma básica y se dicta al amparo del a
 
 #### Disposición final tercera. Entrada en vigor.
 
-Dado en Madrid, el 6 de junio de 2014.
-
-JUAN CARLOS R.
+Dado en Madrid, el 6 de junio de 2014. JUAN CARLOS R.
 
 El Ministro de Educación, Cultura y Deporte,
 

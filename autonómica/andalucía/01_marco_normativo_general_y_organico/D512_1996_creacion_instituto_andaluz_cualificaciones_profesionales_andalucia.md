@@ -1,10 +1,12 @@
 ---
 id: norm-and-d-512-1996
 codigo_sintetizado: D512_1996 Instituto Andaluz Cualificaciones Profesionales Andalucía
-titulo: Decreto 512/1996, de 10 de diciembre, por el que se crea el Instituto Andaluz de Cualificaciones Profesionales.
+titulo: Decreto 512/1996, de 10 de diciembre, por el que se crea el Instituto Andaluz
+  de Cualificaciones Profesionales.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 512/1996
 fecha_disposicion: '1996-12-10'
@@ -18,19 +20,19 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Formación Profesional
 tags:
-  - iacp
-  - cualificaciones_profesionales
-  - fp
-  - andalucia
+- iacp
+- cualificaciones_profesionales
+- fp
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
 ---
 # Decreto 512/1996, de 10 de diciembre, por el que se crea el Instituto Andaluz de Cualificaciones Profesionales.
 
@@ -82,17 +84,9 @@ Cuarto. Cualquier modificación de las características técnicas establecidas y
 
 CARACTERISTICAS TECNICAS AUTORIZADAS PARA LA EMISORA DE RADIODIFUSION SONORA EN ONDAS METRICAS CON MODULACION DE FRECUENCIA OTORGADA A LA CORPORACION MUNICIPAL DE PUEBLA DEL RIO (SEVILLA)
 - Coordenadas geográficas de ubicación del transmisor: 37º 16' 13" N. 06º 03' 35" W.
-- Cota (m): 26.
-- Denominación de la emisión: 256KF8EHF(*).
-- Frecuencia de emisión (MHz): 107.5.
-- Potencia radiada aparente máxima (w): 42.
-- Potencia de salida autorizada del equipo transmisor (w): 25.
-- Potencia máxima nominal del equipo transmisor (w): 25.
-- Sistema radiante y características de radiación: 2 Dipolos. Omnidireccional.
-- Altura sobre el suelo del centro eléctrico de la antena (m): 19.
-- Altura del mástil (m): 24.
-- Altura efectiva máxima (m): 41.
-- Polarización de la emisión: Mixta. (*) De acuerdo con el apartado f) del artículo 5.º del R.D. 169/1989, de 10 de febrero, la utilización de estereofonía no está garantizada con calidad satisfactoria. ACUERDO de 3 de diciembre de 1996, del Consejo de Gobierno, por el que se otorga concesión definitiva para el funcionamiento de la emisora de radiodifusión sonora en ondas métricas con modulación de frecuencia a la Corporación Municipal de Paradas (Sevilla). (PD. 4163/96). La Ley 31/1987, de 18 de diciembre, de Ordenación de las Telecomunicaciones, dispone en el artículo 26 que.
+- Cota (m): 26. - Denominación de la emisión: 256KF8EHF(*).
+- Frecuencia de emisión (MHz): 107.5. - Potencia radiada aparente máxima (w): 42. - Potencia de salida autorizada del equipo transmisor (w): 25. - Potencia máxima nominal del equipo transmisor (w): 25. - Sistema radiante y características de radiación: 2 Dipolos. Omnidireccional.
+- Altura sobre el suelo del centro eléctrico de la antena (m): 19. - Altura del mástil (m): 24. - Altura efectiva máxima (m): 41. - Polarización de la emisión: Mixta. (*) De acuerdo con el apartado f) del artículo 5.º del R.D. 169/1989, de 10 de febrero, la utilización de estereofonía no está garantizada con calidad satisfactoria. ACUERDO de 3 de diciembre de 1996, del Consejo de Gobierno, por el que se otorga concesión definitiva para el funcionamiento de la emisora de radiodifusión sonora en ondas métricas con modulación de frecuencia a la Corporación Municipal de Paradas (Sevilla). (PD. 4163/96). La Ley 31/1987, de 18 de diciembre, de Ordenación de las Telecomunicaciones, dispone en el artículo 26 que.
 
 los servicios de radiodifusión sonora en ondas métricas con modulación de frecuencia podrán ser explotados indirectamente, mediante concesión administrativa, por las Corporaciones Locales. El Real Decreto 169/1989, de 10 de febrero, por el que se aprueba el Plan Técnico Nacional de Radiodifusión Sonora en Ondas Métricas con Modulación de Frecuencia, establece, en su artículo 5.º y Disposición Transitoria, los criterios y condiciones a que deberán ajustarse las Emisoras correspondientes a las Corporaciones Locales. La Ley 11/1991, de 8 de abril, de Organización y Control de las Emisoras Municipales de Radiodifusión Sonora configura el marco jurídico básico para hacer efectiva la prestación del servicio de radiodifusión sonora por parte de los Ayuntamientos. La Junta de Andalucía, mediante el Decreto 202/1991, de 5 de noviembre, regula la concesión para la gestión indirecta por las Corporaciones Municipales del Servicio de Radiodifusión Sonora en Ondas Métricas con Modulación de Frecuencia. Por Acuerdo del Consejo de Gobierno de 27 de abril de 1993, se otorgó a la Corporación Municipal de Paradas (Sevilla) concesión provisional de Emisora de radiodifusión sonora en ondas métricas con modulación de frecuencia. Se ha dado cumplimiento a los requisitos y trámites previstos en los arts. 5.º y 6.º del Decreto 202/1991, y extendida Acta de conformidad final a la instalación de la Emisora, de acuerdo con lo dispuesto en el apartado 6 del artículo 6.º del Decreto 202/1991, de 5 de noviembre. En consecuencia, a propuesta del Consejero de la Presidencia y previa deliberación del Consejo de Gobierno, en su sesión del día 3 de diciembre de 1996 A C U E R D O
 Primero. Otorgar a la Corporación Municipal de Paradas (Sevilla) concesión definitiva para el funcionamiento de la Emisora de Radiodifusión Sonora en Ondas Métricas con Modulación de Frecuencia.

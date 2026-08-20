@@ -18,38 +18,38 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Estructura de la Consejería
 tags:
-  - administracion-autonomica
-  - autonomia-centro
-  - estructura-de-la-consejer-a
-  - evaluacion
-  - gobierno-canarias
-  - igualdad-genero
+- administracion-autonomica
+- autonomia-centro
+- estructura-de-la-consejer-a
+- evaluacion
+- gobierno-canarias
+- igualdad-genero
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-es-2010-4518
-    - norma_id: norm-es-2012-9364
-    - norma_id: norm-es-2021-11382
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-es-2010-4518
+  - norma_id: norm-es-2012-9364
+  - norma_id: norm-es-2021-11382
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-can-l-6-2014
   fundamento_de:
-    - norma_id: norm-can-d-123-2023
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-res-125
+  - norma_id: norm-can-d-123-2023
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-res-125
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
   fundamentos_derecho:
-    - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-lo-1-2018
   articulos:
-    - '50'
-    - '51'
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-2010-4518
-    - norma_id: norm-es-2021-11382
-    - norma_id: norm-es-2012-9364
+  - '50'
+  - '51'
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-2010-4518
+  - norma_id: norm-es-2021-11382
+  - norma_id: norm-es-2012-9364
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-060-884.pdf
 ocr_procesado: true
 motor_ocr: rapidocr_onnxruntime
@@ -1510,9 +1510,7 @@ Uno.- El artículo 27 queda.
 
 redactado en la forma siguiente:
 
-"Artículo 27.
-
-1. Bajo la superior dirección del presidente o presidenta del Gobierno de Canarias, la Administración pública de la comunidad autónoma se organiza en consejerías.
+"Artículo 27. 1. Bajo la superior dirección del presidente o presidenta del Gobierno de Canarias, la Administración pública de la comunidad autónoma se organiza en consejerías.
 
 2. Cada una de las consejerías tendrá atribuida la gestión de áreas determinadas de la acción pública competencia de la comunidad autónoma.
 
@@ -1522,9 +1520,7 @@ redactado en la forma siguiente:
 
 5. La creación, organización y funcionamiento de órganos colegiados distintos de los establecidos en el apartado anterior se llevarán a cabo por disposición del departamento al que queden adscritos, atendiendo al sector material de las funciones que se le atribuyan. Del ejercicio de dichas competencias se dará cuenta al Parlamento en forma de comunicación para su debate ante en el Pleno de conformidad con el Reglamento del Parlamento de Canarias."
 
-Dos.- Se suprime el artículo 28.
-
-Tres.- Se añade un nuevo
+Dos.- Se suprime el artículo 28. Tres.- Se añade un nuevo
 
 #### Artículo 33. bis,.
 
@@ -1552,9 +1548,7 @@ La presente ley entrará en vigor al día siguiente de su publicación en el Bol
 
 Por tanto, ordeno a la ciudadanía y a las autoridades que la cumplan y la hagan cumplir.
 
-En Canarias, a 23 de marzo de 2023.
-
-EL PRESIDENTE, Ángel Víctor Torres Pérez.
+En Canarias, a 23 de marzo de 2023. EL PRESIDENTE, Ángel Víctor Torres Pérez.
 
 © Gobierno de Canarias
 

@@ -1,10 +1,14 @@
 ---
 id: norm-es-1996-3102
 codigo_sintetizado: BOE-A-1996-3102
-titulo: Orden de 1 de febrero de 1996 por la que se aprueban los temarios que han de regir en los procedimientos de ingreso, adquisición de nuevas especialidades y movilidad para determinadas especialidades de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional.
+titulo: Orden de 1 de febrero de 1996 por la que se aprueban los temarios que han
+  de regir en los procedimientos de ingreso, adquisición de nuevas especialidades
+  y movilidad para determinadas especialidades de los Cuerpos de Profesores de Enseñanza
+  Secundaria y Profesores Técnicos de Formación Profesional.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1996-02-13'
 boletin: BOE
@@ -15,27 +19,24 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Oposiciones y acceso
 tags:
-  - curriculo
-  - eso
-  - formacion-profesional
-  - oposiciones
-  - oposiciones-y-acceso
-  - profesorado
+- curriculo
+- eso
+- formacion-profesional
+- oposiciones
+- oposiciones-y-acceso
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-1993-23257
-    - norma_id: norm-es-1995-22212
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-1993-23257
+  - norma_id: norm-es-1995-22212
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
   fundamentos_derecho:
-    - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rd-276-2007
   articulos:
-    - '1'
-    - norma_id: norm-es-rdl-5-2015
-  articulos:
-    - '1'
-    - norma_id: norm-es-1993-23257
-    - norma_id: norm-es-1995-22212
+  - '1'
+  - norma_id: norm-es-1993-23257
+  - norma_id: norm-es-1995-22212
 ---
 # Orden de 1 de febrero de 1996 por la que se aprueban los temarios que han de regir en los procedimientos de ingreso, adquisición de nuevas especialidades y movilidad para determinadas especialidades de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional.
 

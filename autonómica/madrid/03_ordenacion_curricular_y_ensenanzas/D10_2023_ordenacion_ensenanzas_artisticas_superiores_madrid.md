@@ -1,10 +1,12 @@
 ---
 id: norm-mad-d-10-2023
 codigo_sintetizado: D10_2023 Ordenacion Enseñanzas Artisticas Superiores Madrid
-titulo: Decreto 10/2023, de 1 de febrero, del Consejo de Gobierno, por el que se establece la ordenación de las Enseñanzas Artísticas Superiores en la Comunidad de Madrid.
+titulo: Decreto 10/2023, de 1 de febrero, del Consejo de Gobierno, por el que se establece
+  la ordenación de las Enseñanzas Artísticas Superiores en la Comunidad de Madrid.
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Decreto
 numero_disposicion: 10/2023
 fecha_disposicion: '2023-02-01'
@@ -18,17 +20,17 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Artísticas
 tags:
-  - artisticas_superiores
-  - conservatorios_superiores
-  - arte_dramatico
-  - madrid
+- artisticas_superiores
+- conservatorios_superiores
+- arte_dramatico
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-mad-d-29-2013
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Decreto 10/2023, de 1 de febrero, del Consejo de Gobierno, por el que se establece la ordenación de las Enseñanzas Artísticas Superiores en la Comunidad de Madrid.
 

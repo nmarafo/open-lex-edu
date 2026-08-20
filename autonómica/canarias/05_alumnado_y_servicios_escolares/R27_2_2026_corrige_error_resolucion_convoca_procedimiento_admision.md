@@ -1,7 +1,13 @@
 ---
 id: norm-can-res-110
 codigo_sintetizado: Resolucion BOC 110
-titulo: Resolución de 27 de febrero de 2026, por la que se corrige error en la Resolución de 5 de febrero de 2026, que convoca el procedimiento de admisión del alumnado en centros docentes que oferten enseñanzas de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato y Educación de Personas Adultas sostenidos con fondos públicos, para el curso escolar 2026-2027, en la Comunidad Autónoma de Canarias, corregida por Resolución de 18 de febrero de 2026 (BOC núm. 37, de 24 de febrero).
+titulo: Resolución de 27 de febrero de 2026, por la que se corrige error en la Resolución
+  de 5 de febrero de 2026, que convoca el procedimiento de admisión del alumnado en
+  centros docentes que oferten enseñanzas de Educación Infantil, Educación Primaria,
+  Educación Secundaria Obligatoria, Bachillerato y Educación de Personas Adultas sostenidos
+  con fondos públicos, para el curso escolar 2026-2027, en la Comunidad Autónoma de
+  Canarias, corregida por Resolución de 18 de febrero de 2026 (BOC núm. 37, de 24
+  de febrero).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General competente de la Consejería de Educación de Canarias
@@ -13,34 +19,34 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión y escolarización del alumnado
 tags:
-  - admisi-n-y-escolarizaci-n-del-alumnado
-  - admision-alumnado
-  - bachillerato
-  - educacion-infantil
-  - educacion-personas-adultas
-  - educacion-primaria
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - eso
-  - formacion-profesional
-  - procedimiento-administrativo
-  - profesorado
+- admisi-n-y-escolarizaci-n-del-alumnado
+- admision-alumnado
+- bachillerato
+- educacion-infantil
+- educacion-personas-adultas
+- educacion-primaria
+- ensenanzas-deportivas
+- equipos-directivos
+- eso
+- formacion-profesional
+- procedimiento-administrativo
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-res-boc-2026-037-105
-    - norma_id: norm-can-res-boc-2026-039-111
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-boc-2026-037-105
+  - norma_id: norm-can-res-boc-2026-039-111
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-can-res-boc-2026-037-105
-    - norma_id: norm-can-res-boc-2026-039-111
+  - '1'
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-res-boc-2026-037-105
+  - norma_id: norm-can-res-boc-2026-039-111
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-046-752.pdf
 ---
 # Resolución de 27 de febrero de 2026, por la que se corrige error en la Resolución de 5 de febrero de 2026, que convoca el procedimiento de admisión del alumnado en centros docentes que oferten enseñanzas de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato y Educación de Personas Adultas sostenidos con fondos públicos, para el curso escolar 2026-2027, en la Comunidad Autónoma de Canarias, corregida por Resolución de 18 de febrero de 2026 (BOC núm. 37, de 24 de febrero).

@@ -1,9 +1,12 @@
 ---
 id: norm-mad-o1493-2015
-titulo: Orden 1493/2015, de 22 de mayo, de la Consejería de Educación, Juventud y Deporte, por la que se regula la evaluación de los alumnos con necesidades específicas de apoyo educativo en la Comunidad de Madrid
+titulo: Orden 1493/2015, de 22 de mayo, de la Consejería de Educación, Juventud y
+  Deporte, por la que se regula la evaluación de los alumnos con necesidades específicas
+  de apoyo educativo en la Comunidad de Madrid
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
 numero_disposicion: 1493/2015
 fecha_disposicion: '2015-05-22'
@@ -16,20 +19,20 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Necesidades específicas de apoyo educativo
 tags:
-  - neae
-  - atencion_diversidad
-  - evaluacion
-  - madrid
+- neae
+- atencion_diversidad
+- evaluacion
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-1-1996
-    - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-mad-d-29-2013
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2015/06/02/BOCM-20150602-1.PDF
 ---
 # Orden 1493/2015, de 22 de mayo, de la Consejería de Educación, Juventud y Deporte, por la que se regula la evaluación de los alumnos con necesidades específicas de apoyo educativo en la Comunidad de Madrid

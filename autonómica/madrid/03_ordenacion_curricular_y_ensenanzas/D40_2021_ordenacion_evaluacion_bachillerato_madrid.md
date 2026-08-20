@@ -1,10 +1,12 @@
 ---
 id: norm-mad-d-40-2021
 codigo_sintetizado: D40_2021 Ordenacion y Evaluacion Bachillerato Madrid
-titulo: Decreto 40/2021, de 19 de mayo, por el que se regula la evaluación y promoción en Bachillerato en la Comunidad de Madrid.
+titulo: Decreto 40/2021, de 19 de mayo, por el que se regula la evaluación y promoción
+  en Bachillerato en la Comunidad de Madrid.
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Decreto
 numero_disposicion: 40/2021
 fecha_disposicion: '2021-05-19'
@@ -18,16 +20,16 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Bachillerato
 tags:
-  - bachillerato_evaluacion
-  - promocion_bachillerato
-  - madrid
+- bachillerato_evaluacion
+- promocion_bachillerato
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-mad-d-29-2013
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Decreto 40/2021, de 19 de mayo, por el que se regula la evaluación y promoción en Bachillerato en la Comunidad de Madrid.
 

@@ -1,10 +1,14 @@
 ---
 id: norm-es-1987-15278
 codigo_sintetizado: BOE-A-1987-15278
-titulo: Ley 12/1987, de 2 de julio, sobre establecimiento de la gratuidad de los estudios de Bachillerato, Formación Profesional y Artes Aplicadas y Oficios Artísticos en los Centros públicos y la autonomía de gestión económica de los Centros docentes públicos no universitarios.
+titulo: Ley 12/1987, de 2 de julio, sobre establecimiento de la gratuidad de los estudios
+  de Bachillerato, Formación Profesional y Artes Aplicadas y Oficios Artísticos en
+  los Centros públicos y la autonomía de gestión económica de los Centros docentes
+  públicos no universitarios.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1987-07-03'
 boletin: BOE
@@ -15,30 +19,27 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Gestión económica de centros
 tags:
-  - admision-alumnado
-  - autonomia-centro
-  - bachillerato
-  - conciertos-educativos
-  - consejo-escolar
-  - formacion-profesional
-  - fp-basica
-  - gesti-n-econ-mica-de-centros
-  - gestion-economica
-  - profesorado
+- admision-alumnado
+- autonomia-centro
+- bachillerato
+- conciertos-educativos
+- consejo-escolar
+- formacion-profesional
+- fp-basica
+- gesti-n-econ-mica-de-centros
+- gestion-economica
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-8-1985
   fundamento_de:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-es-lo-8-1985
-  articulos:
-    - '1'
-    - '6'
+  - '1'
+  - '6'
 ---
 # Ley 12/1987, de 2 de julio, sobre establecimiento de la gratuidad de los estudios de Bachillerato, Formación Profesional y Artes Aplicadas y Oficios Artísticos en los Centros públicos y la autonomía de gestión económica de los Centros docentes públicos no universitarios.
 
@@ -96,7 +97,7 @@ Tres. Las tasas serán objeto de autoliquidación por el sujeto pasivo, determin
 
 La cuantía de las tasas para los distintos conceptos será la siguiente:
 
-Â
+
 
 COU
 
@@ -108,7 +109,7 @@ Conservatoriosy Escuelade Arte Dramático,de Danzay Canto
 
 **Alumnos Oficiales**
 
-Â
+
 
 Inscripción (primera vez)Servicios generales
 
@@ -136,7 +137,7 @@ Matrícula asignaturas sueltas
 
 **Alumnos de Centros homologados**
 
-Â
+
 
 Inscripción (primera vez)
 
@@ -150,7 +151,7 @@ Servicios generales
 
 **Alumnos de Centros habilitados, reconocidos, autorizados o libres, y alumos de Enseñanza libre**
 
-Â
+
 
 Inscripción (primera vez)
 
@@ -172,7 +173,7 @@ Inscripción (primera vez)
 
 **Examen de reválida o aptitud**
 
-Â
+
 
 Alumnos oficiales y libres
 
@@ -186,7 +187,7 @@ Alumnos oficiales y libres
 
 **Cursos monográficos**
 
-Â
+
 
 Por mes
 
@@ -262,9 +263,7 @@ Por tanto,
 
 Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
 
-Palacio de la Zarzuela, Madrid, a 2 de julio de 1987.
-
-JUAN CARLOS R.
+Palacio de la Zarzuela, Madrid, a 2 de julio de 1987. JUAN CARLOS R.
 
 El Presidente del Gobierno
 

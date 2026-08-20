@@ -1,10 +1,15 @@
 ---
 id: norm-es-rd-276-2007
 codigo_sintetizado: RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes
-titulo: Real Decreto 276/2007, de 23 de febrero, por el que se aprueba el Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y se regula el régimen transitorio de ingreso a que se refiere la disposición transitoria decimoséptima de la citada ley.
+titulo: Real Decreto 276/2007, de 23 de febrero, por el que se aprueba el Reglamento
+  de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes
+  a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y se regula
+  el régimen transitorio de ingreso a que se refiere la disposición transitoria decimoséptima
+  de la citada ley.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto
 numero_disposicion: 276/2007
 fecha_disposicion: '2007-02-23'
@@ -18,96 +23,90 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Selección y provisión de puestos
 tags:
-  - adquisicion-especialidades
-  - concurso-oposicion
-  - concurso-traslados
-  - ebep
-  - ensenanzas-artisticas
-  - eoi
-  - equipos-directivos
-  - eso
-  - evaluacion
-  - ingreso-docente
-  - inspeccion-educativa
-  - oposiciones
-  - profesorado
-  - selecci-n-y-provisi-n-de-puestos
+- adquisicion-especialidades
+- concurso-oposicion
+- concurso-traslados
+- ebep
+- ensenanzas-artisticas
+- eoi
+- equipos-directivos
+- eso
+- evaluacion
+- ingreso-docente
+- inspeccion-educativa
+- oposiciones
+- profesorado
+- selecci-n-y-provisi-n-de-puestos
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   desarrollado_por:
-    - norma_id: norm-es-2007-5478
-    - norma_id: norm-es-2009-20550
-    - norma_id: norm-es-2015-9453
-    - norma_id: norm-es-2026-2622
-    - norma_id: norm-can-res-boc-2025-094-137
-    - norma_id: norm-can-res-juriscan-75818-136
-    - norma_id: norm-can-res-135
-    - norma_id: norm-can-res-boc-2020-130-131
-    - norma_id: norm-can-d-82-1994
-    - norma_id: norm-can-res-boc-2018-019-130
-    - norma_id: norm-can-res-juriscan-41360-129
-    - norma_id: norm-can-d-74-2010
-    - norma_id: norm-can-res-134
-    - norma_id: norm-can-res-juriscan-30668-127
-    - norma_id: norm-can-res-juriscan-64565-138
-    - norma_id: norm-can-res-boc-2022-158-132
-    - norma_id: norm-can-res-boc-2026-046-139
-    - norma_id: norm-can-res-juriscan-61148-128
-    - norma_id: norm-mad-r-cdd-2025-2026
-    - norma_id: norm-mad-o-123-2015
-    - norma_id: norm-and-o-18-6-2020
-    - norma_id: norm-mad-d126-2017
-    - norma_id: norm-mad-o2532-2022
-    - norma_id: norm-and-l3-2021
-    - norma_id: norm-and-r-cdd-2025-2026
-    - norma_id: norm-mad-d-11-2019
-    - norma_id: norm-mad-o-2808-2017
-    - norma_id: norm-mad-o-2150-2020
-    - norma_id: norm-and-o-11-12-2012
-    - norma_id: norm-and-o-10-11-2020
-    - norma_id: norm-mad-o-1117-2020
+  - norma_id: norm-es-2007-5478
+  - norma_id: norm-es-2009-20550
+  - norma_id: norm-es-2015-9453
+  - norma_id: norm-es-2026-2622
+  - norma_id: norm-can-res-boc-2025-094-137
+  - norma_id: norm-can-res-juriscan-75818-136
+  - norma_id: norm-can-res-135
+  - norma_id: norm-can-res-boc-2020-130-131
+  - norma_id: norm-can-d-82-1994
+  - norma_id: norm-can-res-boc-2018-019-130
+  - norma_id: norm-can-res-juriscan-41360-129
+  - norma_id: norm-can-d-74-2010
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-juriscan-30668-127
+  - norma_id: norm-can-res-juriscan-64565-138
+  - norma_id: norm-can-res-boc-2022-158-132
+  - norma_id: norm-can-res-boc-2026-046-139
+  - norma_id: norm-can-res-juriscan-61148-128
+  - norma_id: norm-mad-r-cdd-2025-2026
+  - norma_id: norm-mad-o-123-2015
+  - norma_id: norm-and-o-18-6-2020
+  - norma_id: norm-mad-d126-2017
+  - norma_id: norm-mad-o2532-2022
+  - norma_id: norm-and-l3-2021
+  - norma_id: norm-and-r-cdd-2025-2026
+  - norma_id: norm-mad-d-11-2019
+  - norma_id: norm-mad-o-2808-2017
+  - norma_id: norm-mad-o-2150-2020
+  - norma_id: norm-and-o-11-12-2012
+  - norma_id: norm-and-o-10-11-2020
+  - norma_id: norm-mad-o-1117-2020
   fundamentado_en:
-    - norma_id: norm-es-1984-17387
-    - norma_id: norm-es-1998-10720
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2007-5478
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-1998-10720
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2007-5478
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-rdl-5-2015
   fundamento_de:
-    - norma_id: norm-es-1979-29491
-    - norma_id: norm-es-1985-7820
-    - norma_id: norm-es-1993-23257
-    - norma_id: norm-es-1995-22212
-    - norma_id: norm-es-1996-3102
-    - norma_id: norm-es-1998-10720
-    - norma_id: norm-es-2010-11426
-    - norma_id: norm-es-2011-15628
-    - norma_id: norm-es-2014-7684
-    - norma_id: norm-es-2015-6839
-    - norma_id: norm-es-2022-16194
-    - norma_id: norm-es-2024-10683
-    - norma_id: norm-es-2024-10684
-    - norma_id: norm-es-2024-10685
-    - norma_id: norm-es-rd-476-2013
+  - norma_id: norm-es-1979-29491
+  - norma_id: norm-es-1985-7820
+  - norma_id: norm-es-1993-23257
+  - norma_id: norm-es-1995-22212
+  - norma_id: norm-es-1996-3102
+  - norma_id: norm-es-1998-10720
+  - norma_id: norm-es-2010-11426
+  - norma_id: norm-es-2011-15628
+  - norma_id: norm-es-2014-7684
+  - norma_id: norm-es-2015-6839
+  - norma_id: norm-es-2022-16194
+  - norma_id: norm-es-2024-10683
+  - norma_id: norm-es-2024-10684
+  - norma_id: norm-es-2024-10685
+  - norma_id: norm-es-rd-476-2013
   fundamentos_derecho:
-    - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-rdl-5-2015
   articulos:
-    - '61'
-    - norma_id: norm-es-lo-2-2006
-  articulos:
-    - Disposición adicional duodécima
-    - norma_id: norm-es-ce-1978
-  articulos:
-    - '27'
-    - norma_id: norm-es-1984-17387
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-1998-10720
-    - norma_id: norm-es-2007-5478
+  - '27'
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-1998-10720
+  - norma_id: norm-es-2007-5478
 ---
 # Real Decreto 276/2007, de 23 de febrero, por el que se aprueba el Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y se regula el régimen transitorio de ingreso a que se refiere la disposición transitoria decimoséptima de la citada ley.
 
@@ -141,9 +140,7 @@ relaciones:
 
 #### Disposición transitoria segunda. Plazo en el que debe reunirse el requisito de estar en posesión de la.
 
-#### Disposición transitoria tercera. Del procedimiento de ingreso derivado del artículo 19 de la Ley 3/2017, de 27.
-
-#### Disposición transitoria cuarta. De los procedimientos de ingreso que se convoquen en aplicación de la Ley.
+#### Disposición transitoria tercera. Del procedimiento de ingreso derivado del artículo 19 de la Ley 3/2017, de 27. #### Disposición transitoria cuarta. De los procedimientos de ingreso que se convoquen en aplicación de la Ley.
 
 #### Disposición transitoria quinta. De la convocatoria excepcional de estabilización de empleo temporal de larga.
 
@@ -471,9 +468,7 @@ segundo lugar los del turno de acceso desde cuerpos de distinto grupo y, en terc
 
 2. Dentro de cada uno de estos grupos, los aspirantes seleccionados se ordenarán por la puntuación obtenida. Los aspirantes acogidos a la reserva correspondiente a las personas con discapacidad establecida en el artículo 10.1. a) se incluirán en el tercer grupo de acuerdo con su puntuación.
 
-3. En el caso de que al confeccionar estas listas se produjesen empates, éstos se resolverán de acuerdo con lo establecido en el artículo 26.2.
-
-#### Artículo 28. Publicación de las listas de aspirantes seleccionados que han superado las fases de oposición y concurso.
+3. En el caso de que al confeccionar estas listas se produjesen empates, éstos se resolverán de acuerdo con lo establecido en el artículo 26.2. #### Artículo 28. Publicación de las listas de aspirantes seleccionados que han superado las fases de oposición y concurso.
 
 Una vez terminada la selección de los aspirantes, y dado que la fase de oposición no conlleva, por sí sola, derecho alguno al ingreso o acceso a los cuerpos de funcionarios docentes a los que se aspira, los órganos de selección harán pública la relación de aspirantes seleccionados que han superado las fases de oposición y concurso por orden de puntuación y, en su caso, por turno, no pudiendo superar éstos el número de plazas convocadas y elevarán dicha relación al órgano convocante, de acuerdo con lo dispuesto en el artículo 18.5 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública. Las Administraciones educativas incluirán en sus convocatorias la fijación de un plazo para la reclamación de los posibles errores.
 

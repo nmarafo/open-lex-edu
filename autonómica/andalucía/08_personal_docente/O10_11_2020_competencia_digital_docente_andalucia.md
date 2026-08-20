@@ -1,10 +1,12 @@
 ---
 id: norm-and-o-10-11-2020
 codigo_sintetizado: O10_11_2020 Acreditacion Competencia Digital Docente Andalucía
-titulo: Orden de 10 de noviembre de 2020, por la que se establece el marco de competencia digital docente en Andalucía.
+titulo: Orden de 10 de noviembre de 2020, por la que se establece el marco de competencia
+  digital docente en Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 10/11/2020
 fecha_disposicion: '2020-11-10'
@@ -18,19 +20,19 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Personal docente
 tags:
-  - cdd
-  - competencia_digital
-  - formacion_profesorado
-  - andalucia
+- cdd
+- competencia_digital
+- formacion_profesorado
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
 ---
 # Orden de 10 de noviembre de 2020, por la que se establece el marco de competencia digital docente en Andalucía.
 
@@ -71,9 +73,7 @@ g) Títulos oficiales universitarios establecidos en el Anexo II, que podrán co
 1) UC1069_3. Interpretar el patrimonio y bienes de interés cultural del ámbito de actuación a turistas y visitantes.
 2) UC1071_3. Prestar servicios de acompañamiento y asistencia a turistas y visitantes y diseñar itinerarios turísticos.
 
-2. Igualmente se considerará acreditado el requisito de poseer la cualificación profesional cuando, estando en posesión de un título oficial de ciclo formativo de grado superior, diplomatura, licenciatura o grado, no incluidos en el apartado anterior, o de la correspondiente credencial de homologación en el caso de títulos extranjeros, se haya obtenido además la acreditación de las unidades de competencia UC1069_3 y UC1071_3.
-
-3. La competencia lingüística en el idioma castellano se entenderá acreditada cuando se hayan obtenido los títulos oficiales de estudios de bachillerato o superior expedidos por el Estado español. En otro supuesto, se deberá acreditar poseer las competencias lingüísticas en el idioma castellano con nivel B2, en las condiciones previstas en este decreto.
+2. Igualmente se considerará acreditado el requisito de poseer la cualificación profesional cuando, estando en posesión de un título oficial de ciclo formativo de grado superior, diplomatura, licenciatura o grado, no incluidos en el apartado anterior, o de la correspondiente credencial de homologación en el caso de títulos extranjeros, se haya obtenido además la acreditación de las unidades de competencia UC1069_3 y UC1071_3. 3. La competencia lingüística en el idioma castellano se entenderá acreditada cuando se hayan obtenido los títulos oficiales de estudios de bachillerato o superior expedidos por el Estado español. En otro supuesto, se deberá acreditar poseer las competencias lingüísticas en el idioma castellano con nivel B2, en las condiciones previstas en este decreto.
 
 4. El requisito de poseer las competencias lingüísticas en idiomas extranjeros se entenderá acreditado mediante alguna de las siguientes opciones:
 a) Certificado en enseñanzas de idiomas, correspondientes a los niveles B2 y C1 o superior impartidas en las escuelas oficiales de idiomas o, en su caso, títulos o certificados oficiales que acrediten la competencia lingüística en idiomas de los relacionados en el
@@ -125,18 +125,14 @@ queda redactado como sigue:
 
 1. En el procedimiento de reconocimiento de cualificaciones profesionales, los idiomas extranjeros expresamente recogidos en el título de formación o certificado de competencia expedidos por otro Estado miembro en cuyo territorio esté regulada la profesión de guía de turismo se incluirán en la habilitación, así como el idioma oficial del Estado miembro que emite la certificación.
 
-2. Cuando el conocimiento lingüístico de dos idiomas extranjeros no quede acreditado según lo dispuesto en el apartado 1, estos se deberán acreditar mediante títulos o certificaciones oficiales de nivel B2 o C1 conforme a lo previsto en el artículo 6.4.
-
-3. Cuando el conocimiento lingüístico del castellano no quede acreditado según lo dispuesto en el apartado 1, éste se deberá acreditar conforme establece el artículo 72.5 del Real Decreto 581/2017, de 9 de junio.
+2. Cuando el conocimiento lingüístico de dos idiomas extranjeros no quede acreditado según lo dispuesto en el apartado 1, estos se deberán acreditar mediante títulos o certificaciones oficiales de nivel B2 o C1 conforme a lo previsto en el artículo 6.4. 3. Cuando el conocimiento lingüístico del castellano no quede acreditado según lo dispuesto en el apartado 1, éste se deberá acreditar conforme establece el artículo 72.5 del Real Decreto 581/2017, de 9 de junio.
 
 4. Los títulos oficiales de estudios de bachillerato o superior obtenidos conforme a un sistema educativo de otro Estado, acreditarán, a los efectos previstos en este decreto, la competencia lingüística de nivel B2, siempre que las enseñanzas hayan sido impartidas en el idioma del país de expedición.
 
 5. La mera presentación de documentación que acredite una nacionalidad no supondrá la acreditación de la competencia lingüística del idioma oficial de ese Estado.» Ocho. Se modifican los apartados 2 y 3 del artículo 16 que.
 
 quedan redactados como sigue:
-«2. En todo caso las personas participantes en este procedimiento tendrán que acreditar tanto el requisito de nacionalidad del artículo 5.a) como el de estar en posesión de un titulo oficial de ciclo formativo de grado superior, diplomatura, licenciatura o grado, o de la correspondiente credencial de homologación en el caso de títulos extranjeros. Asimismo deberán acreditar las competencias lingüísticas en dos idiomas extranjeros mediante alguna de las opciones previstas en el artículo 6.4.
-
-3. Los temas objeto de las pruebas de habilitación estarán referidos a los contenidos de los módulos formativos asociados a las siguientes unidades de competencia de la Cualificación Profesional de Guía de Turistas y Visitantes (HOT335_3):
+«2. En todo caso las personas participantes en este procedimiento tendrán que acreditar tanto el requisito de nacionalidad del artículo 5.a) como el de estar en posesión de un titulo oficial de ciclo formativo de grado superior, diplomatura, licenciatura o grado, o de la correspondiente credencial de homologación en el caso de títulos extranjeros. Asimismo deberán acreditar las competencias lingüísticas en dos idiomas extranjeros mediante alguna de las opciones previstas en el artículo 6.4. 3. Los temas objeto de las pruebas de habilitación estarán referidos a los contenidos de los módulos formativos asociados a las siguientes unidades de competencia de la Cualificación Profesional de Guía de Turistas y Visitantes (HOT335_3):
 a) **UC1069_3.** Interpretar el patrimonio y bienes de interés cultural del ámbito de actuación a turistas y visitantes.
 b) **UC1071_3.** Prestar servicios de acompañamiento y asistencia a turistas y visitantes y diseñar itinerarios turísticos. Se incorporará un módulo básico de conocimiento de derechos y garantías de las personas consumidoras y usuarias de servicios turísticos, así como vías y procedimientos para canalizar las quejas y reclamaciones, y un módulo que contenga conocimientos de la historia, la cultura, el arte, la geografía y la naturaleza en Andalucía y sus rutas turísticas.» Nueve. Se modifica el artículo 17 que.
 

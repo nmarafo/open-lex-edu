@@ -1,7 +1,8 @@
 ---
 id: norm-es-lo-5-2000
 codigo_sintetizado: LO5_2000 Responsabilidad Penal de los Menores
-titulo: Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+titulo: Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal
+  de los menores.
 jurisdiccion: España
 ambito: Estatal
 organo_emisor: Jefatura del Estado / Cortes Generales
@@ -18,36 +19,32 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Protección jurídica de menores
 tags:
-  - medidas-educativas
-  - menores-infractores
-  - protecci-n-jur-dica-de-menores
-  - proteccion-menores
-  - responsabilidad-penal
+- medidas-educativas
+- menores-infractores
+- protecci-n-jur-dica-de-menores
+- proteccion-menores
+- responsabilidad-penal
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-1995-25444
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-es-1995-25444
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-1-1996
   fundamento_de:
-    - norma_id: norm-es-2004-15601
-    - norma_id: norm-es-lo-10-2022
-    - norma_id: norm-es-lo-8-2021
-    - norma_id: norm-can-res-juriscan-71394-16
-    - norma_id: norm-can-d-114-2011
+  - norma_id: norm-es-2004-15601
+  - norma_id: norm-es-lo-10-2022
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-can-res-juriscan-71394-16
+  - norma_id: norm-can-d-114-2011
   desarrollado_por: []
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '25'
-    - '39'
-    - norma_id: norm-es-l-39-2015
-  articulos:
-    - '1'
-    - norma_id: norm-es-1995-25444
-    - norma_id: norm-es-lo-1-1996
-    - norma_id: norm-es-1999-23750
+  - '1'
+  - norma_id: norm-es-1995-25444
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-es-1999-23750
 ---
 # Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
@@ -67,9 +64,7 @@ Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguient
 
 1. La promulgación de la presente Ley Orgánica reguladora de la responsabilidad penal de los menores era una necesidad impuesta por lo establecido en la Ley Orgánica 4/1992, de 5 de junio, sobre reforma de la Ley reguladora de la competencia y el procedimiento de los Juzgados de Menores; en la moción aprobada por el Congreso de los Diputados el 10 de mayo de 1994, y en el artículo 19 de la vigente [Ley Orgánica 10/1995](LO10_1995_codigo_penal.md), de 23 de noviembre, del Código Penal.
 
-2. La Ley Orgánica 4/1992, promulgada como consecuencia de la sentencia del Tribunal Constitucional 36/1991, de 14 de febrero, que declaró inconstitucional el artículo 15 de la Ley de Tribunales Tutelares de Menores, texto refundido de 11 de junio de 1948, establece un marco flexible para que los Juzgados de Menores puedan determinar las medidas aplicables a éstos en cuanto infractores penales, sobre la base de valorar especialmente el interés del menor, entendiendo por menores a tales efectos a las personas comprendidas entre los doce y los dieciséis años. Simultáneamente, encomienda al Ministerio Fiscal la iniciativa procesal, y le concede amplias facultades para acordar la terminación del proceso con la intención de evitar, dentro de lo posible, los efectos aflictivos que el mismo pudiera llegar a producir. Asimismo, configura al equipo técnico como instrumento imprescindible para alcanzar el objetivo que persiguen las medidas y termina estableciendo un procedimiento de naturaleza sancionadora-educativa, al que otorga todas las garantías derivadas de nuestro ordenamiento constitucional, en sintonía con lo establecido en la aludida sentencia del Tribunal Constitucional y lo dispuesto en el artículo 40 de la Convención de los Derechos del Niño de 20 de noviembre de 1989.
-
-Dado que la expresada Ley Orgánica se reconocía a sí misma expresamente "el carácter de una reforma urgente, que adelanta parte de una renovada legislación sobre reforma de menores, que será objeto de medidas legislativas posteriores", es evidente la oportunidad de la presente Ley Orgánica, que constituye esa necesaria reforma legislativa, partiendo de los principios básicos que ya guiaron la redacción de aquélla (especialmente, el principio del superior interés del menor), de las garantías de nuestro ordenamiento constitucional, y de las normas de Derecho internacional, con particular atención a la citada Convención de los Derechos del Niño de 20 de noviembre de 1989, y esperando responder de este modo a las expectativas creadas en la sociedad española, por razones en parte coyunturales y en parte permanentes, sobre este tema concreto.
+2. La Ley Orgánica 4/1992, promulgada como consecuencia de la sentencia del Tribunal Constitucional 36/1991, de 14 de febrero, que declaró inconstitucional el artículo 15 de la Ley de Tribunales Tutelares de Menores, texto refundido de 11 de junio de 1948, establece un marco flexible para que los Juzgados de Menores puedan determinar las medidas aplicables a éstos en cuanto infractores penales, sobre la base de valorar especialmente el interés del menor, entendiendo por menores a tales efectos a las personas comprendidas entre los doce y los dieciséis años. Simultáneamente, encomienda al Ministerio Fiscal la iniciativa procesal, y le concede amplias facultades para acordar la terminación del proceso con la intención de evitar, dentro de lo posible, los efectos aflictivos que el mismo pudiera llegar a producir. Asimismo, configura al equipo técnico como instrumento imprescindible para alcanzar el objetivo que persiguen las medidas y termina estableciendo un procedimiento de naturaleza sancionadora-educativa, al que otorga todas las garantías derivadas de nuestro ordenamiento constitucional, en sintonía con lo establecido en la aludida sentencia del Tribunal Constitucional y lo dispuesto en el artículo 40 de la Convención de los Derechos del Niño de 20 de noviembre de 1989. Dado que la expresada Ley Orgánica se reconocía a sí misma expresamente "el carácter de una reforma urgente, que adelanta parte de una renovada legislación sobre reforma de menores, que será objeto de medidas legislativas posteriores", es evidente la oportunidad de la presente Ley Orgánica, que constituye esa necesaria reforma legislativa, partiendo de los principios básicos que ya guiaron la redacción de aquélla (especialmente, el principio del superior interés del menor), de las garantías de nuestro ordenamiento constitucional, y de las normas de Derecho internacional, con particular atención a la citada Convención de los Derechos del Niño de 20 de noviembre de 1989, y esperando responder de este modo a las expectativas creadas en la sociedad española, por razones en parte coyunturales y en parte permanentes, sobre este tema concreto.
 
 3. Los principios expuestos en la moción aprobada unánimemente por el Congreso de los Diputados el día 10 de mayo de 1994, sobre medidas para mejorar el marco jurídico vigente de protección del menor, se refieren esencialmente al establecimiento de la mayoría de edad penal en los dieciocho años y a la promulgación de "una ley penal del menor y juvenil que contemple la exigencia de responsabilidad para los jóvenes infractores que no hayan alcanzado la mayoría de edad penal, fundamentada en principios orientados hacia la reeducación de los menores de edad infractores, en base a las circunstancias personales, familiares y sociales, y que tenga especialmente en cuenta las competencias de las Comunidades Autónomas en esta materia...".
 
@@ -369,9 +364,7 @@ sido cometidos conjuntamente por mayores de edad penal y por personas de las eda
 
 4. La detención de un menor por funcionarios de policía no podrá durar más tiempo del estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos, y, en todo caso, dentro del plazo máximo de veinticuatro horas, el menor detenido deberá ser puesto en libertad o a disposición del Ministerio Fiscal. Se aplicará, en su caso, lo dispuesto en el artículo 520 bis de la Ley de Enjuiciamiento Criminal, atribuyendo la competencia para las resoluciones judiciales previstas en dicho precepto al Juez de Menores.
 
-5. Cuando el detenido sea puesto a disposición del Ministerio Fiscal, éste habrá de resolver, dentro de las cuarenta y ocho horas a partir de la detención, sobre la puesta en libertad del menor, sobre el desistimiento al que se refiere el artículo siguiente, o sobre la incoación del expediente, poniendo a aquél a disposición del Juez de Menores competente e instando del mismo las oportunas medidas cautelares, con arreglo a lo establecido en el artículo 28.
-
-6. El Juez competente para el procedimiento de hábeas corpus en relación a un menor será el Juez de Instrucción del lugar en el que se encuentre el menor privado de libertad; si no constare, el del lugar donde se produjo la detención, y, en defecto de los anteriores, el del lugar donde se hayan tenido las últimas noticias sobre el paradero del menor detenido. Cuando el procedimiento de hábeas corpus sea instado por el propio menor, la fuerza pública responsable de la detención lo notificará inmediatamente al Ministerio Fiscal, además de dar curso al procedimiento conforme a la ley orgánica reguladora.
+5. Cuando el detenido sea puesto a disposición del Ministerio Fiscal, éste habrá de resolver, dentro de las cuarenta y ocho horas a partir de la detención, sobre la puesta en libertad del menor, sobre el desistimiento al que se refiere el artículo siguiente, o sobre la incoación del expediente, poniendo a aquél a disposición del Juez de Menores competente e instando del mismo las oportunas medidas cautelares, con arreglo a lo establecido en el artículo 28. 6. El Juez competente para el procedimiento de hábeas corpus en relación a un menor será el Juez de Instrucción del lugar en el que se encuentre el menor privado de libertad; si no constare, el del lugar donde se produjo la detención, y, en defecto de los anteriores, el del lugar donde se hayan tenido las últimas noticias sobre el paradero del menor detenido. Cuando el procedimiento de hábeas corpus sea instado por el propio menor, la fuerza pública responsable de la detención lo notificará inmediatamente al Ministerio Fiscal, además de dar curso al procedimiento conforme a la ley orgánica reguladora.
 
 #### Artículo 18. Desistimiento de la incoación del expediente por corrección en el ámbito educativo y familiar.
 
@@ -459,9 +452,7 @@ Cuando proceda la celebración de la audiencia, el Juez invitará al perjudicado
 
 Contra los autos y providencias de los Jueces de Menores que afecten al ejercicio de las facultades reconocidas en este artículo, se estará a lo dispuesto en el artículo
 
-**41.2.** Contra la sentencia dictada por el Juez de Menores, el perjudicado podrá interponer recurso de apelación de acuerdo con lo establecido en el artículo 41.1, fundamentado en la incompetencia del Juzgado, la inadecuación del procedimiento, el quebrantamiento de las formas esenciales del juicio que haya producido indefensión al perjudicado o la falta de apreciación de algún elemento de prueba esencial para la calificación de los hechos, pudiendo, si fuera necesario, solicitar su práctica, igualmente en los términos prevenidos por el artículo 41.1.
-
-#### Artículo 26. Diligencias propuestas por el letrado del menor.
+**41.2.** Contra la sentencia dictada por el Juez de Menores, el perjudicado podrá interponer recurso de apelación de acuerdo con lo establecido en el artículo 41.1, fundamentado en la incompetencia del Juzgado, la inadecuación del procedimiento, el quebrantamiento de las formas esenciales del juicio que haya producido indefensión al perjudicado o la falta de apreciación de algún elemento de prueba esencial para la calificación de los hechos, pudiendo, si fuera necesario, solicitar su práctica, igualmente en los términos prevenidos por el artículo 41.1. #### Artículo 26. Diligencias propuestas por el letrado del menor.
 
 1. El letrado del menor solicitará del Ministerio Fiscal la práctica de cuantas diligencias considere necesarias. El Ministerio Fiscal decidirá sobre su admisión, mediante resolución motivada que notificará al letrado y pondrá en conocimiento del Juez de Menores. Con relación a las diligencias no practicadas, el letrado podrá reproducir su petición, en cualquier momento, ante el Juzgado de Menores.
 

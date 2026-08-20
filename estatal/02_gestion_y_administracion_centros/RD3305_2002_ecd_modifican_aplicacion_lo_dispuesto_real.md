@@ -1,10 +1,14 @@
 ---
 id: norm-es-2002-25289
 codigo_sintetizado: BOE-A-2002-25289
-titulo: Orden ECD/3305/2002, de 16 de diciembre, por la que se modifican las de 14 de marzo de 1988 y de 30 de abril de 1996, para la aplicación de lo dispuesto en el Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
+titulo: Orden ECD/3305/2002, de 16 de diciembre, por la que se modifican las de 14
+  de marzo de 1988 y de 30 de abril de 1996, para la aplicación de lo dispuesto en
+  el Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de
+  títulos y estudios extranjeros de educación no universitaria.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2002-12-28'
 boletin: BOE
@@ -15,36 +19,36 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros extranjeros
 tags:
-  - admision-alumnado
-  - centros-extranjeros
-  - consejo-escolar
-  - curriculo
-  - ensenanzas-deportivas
-  - ensenanzas-universitarias
-  - eso
-  - formacion-profesional
-  - titulacion
+- admision-alumnado
+- centros-extranjeros
+- consejo-escolar
+- curriculo
+- ensenanzas-deportivas
+- ensenanzas-universitarias
+- eso
+- formacion-profesional
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-1988-3987
-    - norma_id: norm-es-1988-6938
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-1988-3987
+  - norma_id: norm-es-1988-6938
+  - norma_id: norm-es-l-39-2015
   fundamento_de:
-    - norma_id: norm-es-1988-3987
-    - norma_id: norm-es-1988-6938
-    - norma_id: norm-es-1996-10210
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2018-4480
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-can-res-boc-2025-047-108
-    - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-es-1988-3987
+  - norma_id: norm-es-1988-6938
+  - norma_id: norm-es-1996-10210
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2018-4480
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-can-res-boc-2025-047-108
+  - norma_id: norm-can-res-boc-2026-039-103
   desarrollado_por: []
   fundamentos_derecho:
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-39-2015
   articulos:
-    - '1'
-    - norma_id: norm-es-1988-3987
-    - norma_id: norm-es-1988-6938
+  - '1'
+  - norma_id: norm-es-1988-3987
+  - norma_id: norm-es-1988-6938
 ---
 # Orden ECD/3305/2002, de 16 de diciembre, por la que se modifican las de 14 de marzo de 1988 y de 30 de abril de 1996, para la aplicación de lo dispuesto en el Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
 
@@ -140,9 +144,7 @@ Se autoriza a la Secretaría General Técnica del Departamento para dictar las i
 
 #### Disposición final segunda. Entrada en vigor.
 
-Madrid, 16 de diciembre de 2002.
-
-DEL CASTILLO VERA
+Madrid, 16 de diciembre de 2002. DEL CASTILLO VERA
 
 Ilmos. Sres. Subsecretario y Secretario general técnico. Departamento.
 

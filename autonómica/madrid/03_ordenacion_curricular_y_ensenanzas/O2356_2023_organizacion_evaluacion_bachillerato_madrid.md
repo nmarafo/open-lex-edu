@@ -1,9 +1,12 @@
 ---
 id: norm-mad-o2356-2023
-titulo: Orden 2356/2023, de 6 de julio, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se fijan las normas relativas a la evaluación, promoción y titulación en Bachillerato en la Comunidad de Madrid
+titulo: Orden 2356/2023, de 6 de julio, de la Consejería de Educación, Universidades,
+  Ciencia y Portavocía, por la que se fijan las normas relativas a la evaluación,
+  promoción y titulación en Bachillerato en la Comunidad de Madrid
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
 numero_disposicion: 2356/2023
 fecha_disposicion: '2023-07-06'
@@ -16,20 +19,20 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Bachillerato
 tags:
-  - bachillerato
-  - evaluacion
-  - titulacion
-  - madrid
+- bachillerato
+- evaluacion
+- titulacion
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/14/BOCM-20230714-14.PDF
 ---
 # Orden 2356/2023, de 6 de julio, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se fijan las normas relativas a la evaluación, promoción y titulación en Bachillerato en la Comunidad de Madrid
@@ -47,9 +50,7 @@ Pág. 383
 
 #### Disposición final primera.
 
-Recursos Contra el presente acto, que pone fin a la vía administrativa, podrá interponerse recurso potestativo de reposición ante el propio órgano que lo ha dictado en el plazo de un mes desde el día siguiente al de la publicación de esta Orden en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, de acuerdo con lo previsto en el artículo 123 y 124.
-
-de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, o directamente recurso contencioso-administrativo ante el Tribunal Superior de Justicia de la Comunidad de Madrid, en el plazo de dos meses sin perjuicio de cuantos otros recursos estime oportuno deducir.
+Recursos Contra el presente acto, que pone fin a la vía administrativa, podrá interponerse recurso potestativo de reposición ante el propio órgano que lo ha dictado en el plazo de un mes desde el día siguiente al de la publicación de esta Orden en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, de acuerdo con lo previsto en el artículo 123 y 124. de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, o directamente recurso contencioso-administrativo ante el Tribunal Superior de Justicia de la Comunidad de Madrid, en el plazo de dos meses sin perjuicio de cuantos otros recursos estime oportuno deducir.
 
 #### Disposición final segunda. Eficacia.
 

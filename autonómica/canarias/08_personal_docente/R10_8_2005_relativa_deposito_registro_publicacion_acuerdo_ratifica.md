@@ -1,7 +1,11 @@
 ---
 id: norm-can-res-juriscan-64565-138
 codigo_sintetizado: Resolucion BOC 138
-titulo: Resolución de 10 de agosto de 2005, de la Dirección General de Trabajo de la Consejería de Empleo y Asuntos Sociales, relativa a depósito, registro y publicación del Acuerdo por el que se ratifica el Segundo Protocolo para la Gestión del Profesorado Interino y Sustituto del Sistema Educativo Público Canario (Consejería de Educación, Cultura y Deportes) (BOC n.º 167, de 25 de agosto).
+titulo: Resolución de 10 de agosto de 2005, de la Dirección General de Trabajo de
+  la Consejería de Empleo y Asuntos Sociales, relativa a depósito, registro y publicación
+  del Acuerdo por el que se ratifica el Segundo Protocolo para la Gestión del Profesorado
+  Interino y Sustituto del Sistema Educativo Público Canario (Consejería de Educación,
+  Cultura y Deportes) (BOC n.º 167, de 25 de agosto).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Trabajo
@@ -13,34 +17,34 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Permisos, licencias y vacaciones
 tags:
-  - convivencia-escolar
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - interinos
-  - permisos-licencias
-  - permisos-licencias-y-vacaciones
-  - procedimiento-administrativo
-  - profesorado
-  - proteccion-menores
+- convivencia-escolar
+- ensenanzas-deportivas
+- equipos-directivos
+- interinos
+- permisos-licencias
+- permisos-licencias-y-vacaciones
+- procedimiento-administrativo
+- profesorado
+- proteccion-menores
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-l-14-1990
-    - norma_id: norm-can-l-2-1987
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-l-2-1987
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
   desarrolla:
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-can-l-14-1990
-    - norma_id: norm-can-l-2-1987
+  - '1'
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-l-2-1987
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/2005/167/boc-2005-167-019.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=64565
 ---
@@ -88,9 +92,7 @@ Quinto.- 1. La Consejería de Educación, Cultura y Deportes, con el fin de cont
 2. En los períodos de revisión del presente Protocolo se analizarán, entre otras cuestiones relacionadas con el profesorado interino y sustituto, los efectos de las ofertas de empleo convocadas sobre las diferentes listas.
 Sexto.- 1. Para adecuar los criterios de acceso y configuración de las listas de interinos, sustitutos y personal demandante de empleo a los principios constitucionales de igualdad, publicidad, capacidad y mérito, quienes superen la fase de oposición de los procedimientos selectivos convocados por el Gobierno de Canarias para el ingreso en los Cuerpos docentes no universitarios promocionarán o se incluirán, según los casos, en la lista correspondiente, de acuerdo con los sistemas que se determinen.
 
-2. Atal efecto, durante el curso 2004/05 la Comisión de Seguimiento buscará fórmulas de promoción en las listas que contemplen los criterios de antigüedad y actuación en procedimientos selectivos; las citadas fórmulas se aplicarán al finalizar cada uno de los períodos de revisión previstos en el apartado primero de este documento y serán evaluadas por dicha Comisión durante el primer trimestre del curso 2007/08.
-
-3. En el caso de que fuera necesaria una reordenación de estas listas por virtud de instancias ajenas a los firmantes de este Protocolo, la Comisión de Seguimiento elaborará un baremo de méritos a partir de los siguientes parámetros:
+2. Atal efecto, durante el curso 2004/05 la Comisión de Seguimiento buscará fórmulas de promoción en las listas que contemplen los criterios de antigüedad y actuación en procedimientos selectivos; las citadas fórmulas se aplicarán al finalizar cada uno de los períodos de revisión previstos en el apartado primero de este documento y serán evaluadas por dicha Comisión durante el primer trimestre del curso 2007/08. 3. En el caso de que fuera necesaria una reordenación de estas listas por virtud de instancias ajenas a los firmantes de este Protocolo, la Comisión de Seguimiento elaborará un baremo de méritos a partir de los siguientes parámetros:
 a) Experiencia docente, hasta un máximo de 4,00 puntos.
 b) Expediente académico, hasta un máximo de 1,00 punto.
 c) Formación docente, hasta un máximo de 2,50 puntos.
@@ -104,8 +106,7 @@ b) El profesorado interino y sustituto aceptará la oferta laboral correspondien
 c) Una vez tomada posesión de una plaza, el personal interino o sustituto no podrá renunciar a su desempeño.
 d) El profesorado interino y sustituto asume el compromiso de presentarse a los procedimientos selectivos convocados por el Gobierno de Canarias para el ingreso en los Cuerpos y especialidades acordes con su titulación.
 
-2. Por otra parte, el profesorado interino y sustituto acogido al Plan Especial para Claustros Docentes Inestables deberá cumplir además las condiciones establecidas en la Resolución de la Dirección General de Personal de 10 de mayo de 2004.
-Octavo.- 1. Con las limitaciones establecidas en la mencionada Resolución de 10 de mayo de 2004 para el profesorado integrado en el Plan Especial, el personal interino y sustituto, además de los contemplados en la legislación vigente que les sean de aplicación, tendrá los siguientes derechos:
+2. Por otra parte, el profesorado interino y sustituto acogido al Plan Especial para Claustros Docentes Inestables deberá cumplir además las condiciones establecidas en la Resolución de la Dirección General de Personal de 10 de mayo de 2004. Octavo.- 1. Con las limitaciones establecidas en la mencionada Resolución de 10 de mayo de 2004 para el profesorado integrado en el Plan Especial, el personal interino y sustituto, además de los contemplados en la legislación vigente que les sean de aplicación, tendrá los siguientes derechos:
 a) Durante la vigencia del presente Protocolo, los interinos tendrán garantizado su nombramiento en las plazas vacantes de una especialidad para cuya impartición estén acreditados.
 b) Durante el curso 2004/05 se podrá renunciar a la interinidad, en las condiciones que se fijan en el
 
@@ -117,9 +118,7 @@ e) En el proceso de adjudicación de destinos provisionales de comienzos de curs
 f) El personal interino y sustituto podrá reclamar el importe de los gastos ocasionados por trasladarse a una isla distinta a la de su residencia, siempre que el nombramiento se haya anulado por errores de la propia Administración.
 g) El personal interino y sustituto podrá solicitar licencia por estudios, así como permiso por asuntos propios hasta un máximo de 45 días durante cada curso o 90 días cada dos cursos, en las condiciones que se determinen.
 h) A partir del curso 2005/06, el profesorado interino y sustituto con nombramiento de curso completo podrá solicitar anticipos reintegrables en las condiciones que se determinen.
-i) Asimismo, el personal docente integrante de las listas podrá solicitar su no disponibilidad, conforme a lo dispuesto en la Orden de 12 de agosto de 2003.
-
-2. Con el fin de proteger especialmente las situaciones derivadas de maternidad, paternidad, adopción y acogimiento contempladas en la legislación vigente, el personal docente sujeto al presente Protocolo tendrá, además de los ya establecidos, los siguientes derechos:
+i) Asimismo, el personal docente integrante de las listas podrá solicitar su no disponibilidad, conforme a lo dispuesto en la Orden de 12 de agosto de 2003. 2. Con el fin de proteger especialmente las situaciones derivadas de maternidad, paternidad, adopción y acogimiento contempladas en la legislación vigente, el personal docente sujeto al presente Protocolo tendrá, además de los ya establecidos, los siguientes derechos:
 a) El profesorado interino y sustituto podrá obtener destino en una vacante de curso completo durante los procedimientos de adjudicación de comienzos de curso, a pesar de hallarse en licencia por maternidad o similar, siendo cubierta su plaza como una sustitución temporal, mientras permanezca en esa situación.
 b) En este caso, el profesorado sustituto conservará el destino adjudicado durante el período de licencia, que surtirá efectos administrativos y económicos cuando se produzca su toma de posesión.
 c) Tras la licencia de alumbramiento, unos y otros podrán solicitar la suspensión transitoria de su disponibilidad para el servicio, por cuidado de un hijo, durante un período de tiempo igual o inferior al de su nombramiento.
@@ -150,14 +149,12 @@ El presente Protocolo deberá elevarse a Acuerdo del Consejo de Gobierno para su
 2.- Durante el curso 2006/07 y con carácter previo a la aplicación de los procedimientos de promoción e inclusión en las listas para el siguiente período, se incrementarán las interinidades del Cuerpo de Maestros, tal como se desglosa a continuación:
 - 46 interinidades, por el acceso a la función pública de profesorado interino a través de la oferta de empleo público docente de 2003; de ellas, 26 corresponderán a Las Palmas y 20 a Santa Cruz de Tenerife.
 - 156 nuevas interinidades, repartidas por igual entre ambas provincias. 3.- De igual forma se procederá con respecto a los restantes Cuerpos, incrementándose las actuales dotaciones, en la siguiente medida:
-- Las interinidades que correspondan por el acceso a la función pública de profesorado interino a través de la oferta de empleo público docente de 2004.
-- 8 nuevas interinidades en la especialidad de Biología y Geología.
+- Las interinidades que correspondan por el acceso a la función pública de profesorado interino a través de la oferta de empleo público docente de 2004. - 8 nuevas interinidades en la especialidad de Biología y Geología.
 - 14 nuevas interinidades en la especialidad de Tecnología. 4.- Durante el curso 2006/07, en el Cuerpo de Profesores de Música y Artes Escénicas se nombrarán las interinidades que se determinen hasta alcanzar el 8% de la plantilla de funcionamiento de este Cuerpo. 5.- Alo largo del período de vigencia del presente Protocolo se repondrán, en cada uno de los Cuerpos, las interinidades que queden vacantes hasta alcanzar el cupo del 8% de su plantilla, cuando concluya cada uno de los períodos de revisión establecidos.
 
 6.- La condición de interino perdida por ausencia de vacante en una especialidad determinada podrá recuperarse de forma automática cuando se obtenga plaza de nuevo en el siguiente proceso de adjudicación de destinos provisionales. 7.- Durante el curso 2004/05 el profesorado interino podrá renunciar a la interinidad conforme a las siguientes condiciones:
 a) La solicitud deberá presentarse en el plazo que habilite la Resolución que regule la adjudicación de destinos provisionales para dicho curso escolar.
-b) La renuncia será efectiva hasta la finalización del curso 2004/05.
-c) Una vez aceptada la renuncia, el interesado figurará durante todo el curso al principio del colectivo de sustitutos tras aplicarse, en su caso, la promoción en dicha lista.
+b) La renuncia será efectiva hasta la finalización del curso 2004/05. c) Una vez aceptada la renuncia, el interesado figurará durante todo el curso al principio del colectivo de sustitutos tras aplicarse, en su caso, la promoción en dicha lista.
 d) Concluido ese curso, recuperará su orden de derecho en el colectivo de interinos y podrá acogerse a lo dispuesto en el apartado 8 de este anexo, de acuerdo con las condiciones que se determinen para los cursos 2005/06 y 2006/07. 8.- A partir del curso 2007/08, el profesorado interino podrá reducir su ámbito de prestación de servicios a una o varias islas, de acuerdo con las siguientes condiciones:
 a) La reducción de ámbito se solicitará en el plazo previsto por el procedimiento de adjudicación de destinos provisionales para cada curso y se aplicará durante todo el curso siguiente.
 b) Quienes se acojan a esta opción mantendrán durante dicho curso su número de orden en el colectivo de interinos, sin perjuicio de los efectos que se deriven de la promoción en la lista correspondiente. de agosto de 2005, relativo al depósito de documentación sobre la constitución de la Asociación de Archiveros de Canarias-ASARCA. Según lo establecido en el artº. 4 del Real Decreto 873/1977, de 22 de abril, sobre depósito de los estatutos de las organizaciones constituidas al amparo de la Ley 19/1977, reguladora del derecho de asociación sindical (B.O.E. nº 101, de de 28.4.77), y en el artº. 4 de la Ley Orgánica 11/1985 y siendo competente para ello esta Dirección General de Trabajo al haberse transferido estas funciones a la Comunidad Autónoma Canaria mediante Real Decreto 661/1984, de 25 de enero, y el Reglamento Orgánico de la Consejería de Empleo y Asuntos Sociales, modificado por el Decreto 39/2005 (B.O.C. nº 63, de 31.3.05); se hace público que en esta Dirección General se ha depositado documentación sobre la constitución de la asociación empresarial que se detalla:

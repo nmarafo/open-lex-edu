@@ -1,10 +1,12 @@
 ---
 id: norm-es-2013-13756
 codigo_sintetizado: BOE-A-2013-13756
-titulo: Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local.
+titulo: Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la
+  Administración Local.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2013-12-30'
 boletin: BOE
@@ -15,21 +17,21 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Cooperación con entidades locales
 tags:
-  - cooperaci-n-con-entidades-locales
-  - curriculo
-  - fp-basica
+- cooperaci-n-con-entidades-locales
+- curriculo
+- fp-basica
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-1985-5392
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-1985-5392
+  - norma_id: norm-es-ce-1978
   fundamento_de:
-    - norma_id: norm-es-2015-8470
-    - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-2015-8470
+  - norma_id: norm-es-l-40-2015
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-es-1985-5392
+  - '27'
+  - norma_id: norm-es-1985-5392
 ---
 # Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local.
 
@@ -151,9 +153,7 @@ Cinco. Se modifica el artículo 13 que.
 
 queda redactado como sigue:
 
-«Artículo 13.
-
-1. La creación o supresión de municipios, así como la alteración de términos municipales, se regularán por la legislación de las Comunidades Autónomas sobre régimen local, sin que la alteración de términos municipales pueda suponer, en ningún caso, modificación de los límites provinciales. Requerirán en todo caso audiencia de los municipios interesados y dictamen del Consejo de Estado o del órgano consultivo superior de los Consejos de Gobierno de las Comunidades Autónomas, si existiere, así como informe de la Administración que ejerza la tutela financiera. Simultáneamente a la petición de este dictamen se dará conocimiento a la Administración General del Estado.
+«Artículo 13. 1. La creación o supresión de municipios, así como la alteración de términos municipales, se regularán por la legislación de las Comunidades Autónomas sobre régimen local, sin que la alteración de términos municipales pueda suponer, en ningún caso, modificación de los límites provinciales. Requerirán en todo caso audiencia de los municipios interesados y dictamen del Consejo de Estado o del órgano consultivo superior de los Consejos de Gobierno de las Comunidades Autónomas, si existiere, así como informe de la Administración que ejerza la tutela financiera. Simultáneamente a la petición de este dictamen se dará conocimiento a la Administración General del Estado.
 
 2. La creación de nuevos municipios solo podrá realizarse sobre la base de núcleos de población territorialmente diferenciados, de al menos 5.000 habitantes y siempre que los municipios resultantes sean financieramente sostenibles, cuenten con recursos suficientes para el cumplimiento de las competencias municipales y no suponga disminución en la calidad de los servicios que venían siendo prestados.
 
@@ -163,9 +163,7 @@ queda redactado como sigue:
 
 Al municipio resultante de esta fusión le será de aplicación lo siguiente:
 
-a) El coeficiente de ponderación que resulte de aplicación de acuerdo con el artículo 124.1 del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado mediante Real Decreto Legislativo 2/2004, de 5 de marzo se incrementará en 0,10.
-
-b) El esfuerzo fiscal y el inverso de la capacidad tributaria que le corresponda en ningún caso podrá ser inferior al más elevado de los valores previos que tuvieran cada municipio por separado antes de la fusión de acuerdo con el artículo 124.1 del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado mediante Real Decreto Legislativo 2/2004, de 5 de marzo.
+a) El coeficiente de ponderación que resulte de aplicación de acuerdo con el artículo 124.1 del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado mediante Real Decreto Legislativo 2/2004, de 5 de marzo se incrementará en 0,10. b) El esfuerzo fiscal y el inverso de la capacidad tributaria que le corresponda en ningún caso podrá ser inferior al más elevado de los valores previos que tuvieran cada municipio por separado antes de la fusión de acuerdo con el artículo 124.1 del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado mediante Real Decreto Legislativo 2/2004, de 5 de marzo.
 
 c) Su financiación mínima será la suma de las financiaciones mínimas que tuviera cada municipio por separado antes de la fusión de acuerdo con el artículo 124.2 del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado mediante Real Decreto Legislativo 2/2004, de 5 de marzo.
 
@@ -173,9 +171,7 @@ d) De la aplicación de las reglas contenidas en las letras anteriores no podrá
 
 citado texto refundido de la Ley Reguladora de las Haciendas Locales.
 
-e) Se sumarán los importes de las compensaciones que, por separado, corresponden a los municipios que se fusionen y que se derivan de la reforma del Impuesto sobre Actividades Económicas de la disposición adicional décima de la Ley 51/2002, de 27 de diciembre, de Reforma de la Ley 39/1988, de 28 de diciembre, Reguladora de las Haciendas Locales, actualizadas en los mismos términos que los ingresos tributarios del Estado en cada ejercicio respecto a 2004, así como la compensación adicional, regulada en la disposición adicional segunda de la Ley 22/2005, de 18 de noviembre, actualizada en los mismos términos que los ingresos tributarios del Estado en cada ejercicio respecto a 2006.
-
-f) Queda dispensado de prestar nuevos servicios mínimos de los previstos en el artículo 26 que.
+e) Se sumarán los importes de las compensaciones que, por separado, corresponden a los municipios que se fusionen y que se derivan de la reforma del Impuesto sobre Actividades Económicas de la disposición adicional décima de la Ley 51/2002, de 27 de diciembre, de Reforma de la Ley 39/1988, de 28 de diciembre, Reguladora de las Haciendas Locales, actualizadas en los mismos términos que los ingresos tributarios del Estado en cada ejercicio respecto a 2004, así como la compensación adicional, regulada en la disposición adicional segunda de la Ley 22/2005, de 18 de noviembre, actualizada en los mismos términos que los ingresos tributarios del Estado en cada ejercicio respecto a 2006. f) Queda dispensado de prestar nuevos servicios mínimos de los previstos en el artículo 26 que.
 
 le corresponda por razón de su aumento poblacional.
 
@@ -365,9 +361,7 @@ El incumplimiento de las obligaciones financieras por parte de la Administració
 
 8. Las competencias delegadas se ejercen con arreglo a la legislación del Estado o de las Comunidades Autónomas.»
 
-Once. Se suprime el contenido del artículo 28.
-
-Doce. Se introduce un nuevo
+Once. Se suprime el contenido del artículo 28. Doce. Se introduce un nuevo
 
 #### Artículo 32 bis. con.
 
@@ -381,9 +375,7 @@ Trece. Se modifica el artículo 36, que queda redactado de la siguiente forma:
 
 «1. Son competencias propias de la Diputación o entidad equivalente las que le atribuyan en este concepto las leyes del Estado y de las Comunidades Autónomas en los diferentes sectores de la acción pública y, en todo caso, las siguientes:
 
-a) La coordinación de los servicios municipales entre sí para la garantía de la prestación integral y adecuada a que se refiere el apartado a) del número 2 del artículo 31.
-
-b) La asistencia y cooperación jurídica, económica y técnica a los Municipios, especialmente los de menor capacidad económica y de gestión. En todo caso garantizará en los municipios de menos de 1.000 habitantes la prestación de los servicios de secretaría e intervención.
+a) La coordinación de los servicios municipales entre sí para la garantía de la prestación integral y adecuada a que se refiere el apartado a) del número 2 del artículo 31. b) La asistencia y cooperación jurídica, económica y técnica a los Municipios, especialmente los de menor capacidad económica y de gestión. En todo caso garantizará en los municipios de menos de 1.000 habitantes la prestación de los servicios de secretaría e intervención.
 
 c) La prestación de servicios públicos de carácter supramunicipal y, en su caso, supracomarcal y el fomento o, en su caso, coordinación de la prestación unificada de servicios de los municipios de su respectivo ámbito territorial. En particular, asumirá la prestación de los servicios de tratamiento de residuos en los municipios de menos de 5.000 habitantes, y de prevención y extinción de incendios en los de menos de 20.000 habitantes, cuando éstos no procedan a su prestación.
 
@@ -423,9 +415,7 @@ Quince. El artículo 55 queda.
 
 redactado como sigue:
 
-«Artículo 55.
-
-Para la efectiva coordinación y eficacia administrativa, la Administración General del Estado, así como las Administraciones autonómica y local, de acuerdo con el principio de lealtad institucional, deberán en sus relaciones recíprocas:
+«Artículo 55. Para la efectiva coordinación y eficacia administrativa, la Administración General del Estado, así como las Administraciones autonómica y local, de acuerdo con el principio de lealtad institucional, deberán en sus relaciones recíprocas:
 
 a) Respetar el ejercicio legítimo por las otras Administraciones de sus competencias y las consecuencias que del mismo se deriven para las propias.
 
@@ -441,9 +431,7 @@ Dieciséis. El artículo 57 queda.
 
 redactado como sigue:
 
-«Artículo 57.
-
-1. La cooperación económica, técnica y administrativa entre la Administración local y las Administraciones del Estado y de las Comunidades Autónomas, tanto en servicios locales como en asuntos de interés común, se desarrollará con carácter voluntario, bajo las formas y en los términos previstos en las leyes, pudiendo tener lugar, en todo caso, mediante los consorcios o los convenios administrativos que suscriban.
+«Artículo 57. 1. La cooperación económica, técnica y administrativa entre la Administración local y las Administraciones del Estado y de las Comunidades Autónomas, tanto en servicios locales como en asuntos de interés común, se desarrollará con carácter voluntario, bajo las formas y en los términos previstos en las leyes, pudiendo tener lugar, en todo caso, mediante los consorcios o los convenios administrativos que suscriban.
 
 De cada acuerdo de cooperación formalizado por alguna de estas Administraciones se dará comunicación a aquellas otras que, resultando interesadas, no hayan intervenido en el mismo, a los efectos de mantener una recíproca y constante información.
 
@@ -459,9 +447,7 @@ la siguiente redacción:
 
 «Artículo 57 bis. Garantía de pago en el ejercicio de competencias delegadas.
 
-1. Si las Comunidades Autónomas delegan competencias o suscriben convenios de colaboración con las Entidades Locales que impliquen obligaciones financieras o compromisos de pago a cargo de las Comunidades Autónomas, será necesario que éstas incluyan una cláusula de garantía del cumplimiento de estos compromisos consistente en la autorización a la Administración General del Estado a aplicar retenciones en las transferencias que les correspondan por aplicación de su sistema de financiación. La citada cláusula deberá establecer, en todo caso, los plazos para la realización de los pagos comprometidos, para la reclamación por parte de la Entidad Local en caso de incumplimiento por parte de la Comunidad Autónoma de la obligación que hubiere contraído y para la comunicación a la Administración General del Estado de haberse producido dicho incumplimiento, teniendo en cuenta el plazo que, en su caso, se pueda establecer mediante la Orden del Ministerio de Hacienda y Administraciones Públicas a la que se refiere el apartado 3 de este artículo. Para la aplicación de esta cláusula no será precisa la autorización previa a la que hace referencia la disposición adicional septuagésima segunda de la Ley 17/2012, de 27 de diciembre, de Presupuestos Generales del Estado para el año 2013.
-
-2. Los acuerdos de delegación de competencias y convenios de colaboración que, a la entrada en vigor de la presente norma, hayan sido objeto de prórroga, expresa o tácita, por tiempo determinado, sólo podrán volver a prorrogarse en el caso de que se incluyan en los mismos la cláusula de garantía a la que hace referencia el apartado anterior. Esta norma será de aplicación a aquellos acuerdos que se puedan prorrogar, expresa o tácitamente, por vez primera con posterioridad a la citada entrada en vigor.
+1. Si las Comunidades Autónomas delegan competencias o suscriben convenios de colaboración con las Entidades Locales que impliquen obligaciones financieras o compromisos de pago a cargo de las Comunidades Autónomas, será necesario que éstas incluyan una cláusula de garantía del cumplimiento de estos compromisos consistente en la autorización a la Administración General del Estado a aplicar retenciones en las transferencias que les correspondan por aplicación de su sistema de financiación. La citada cláusula deberá establecer, en todo caso, los plazos para la realización de los pagos comprometidos, para la reclamación por parte de la Entidad Local en caso de incumplimiento por parte de la Comunidad Autónoma de la obligación que hubiere contraído y para la comunicación a la Administración General del Estado de haberse producido dicho incumplimiento, teniendo en cuenta el plazo que, en su caso, se pueda establecer mediante la Orden del Ministerio de Hacienda y Administraciones Públicas a la que se refiere el apartado 3 de este artículo. Para la aplicación de esta cláusula no será precisa la autorización previa a la que hace referencia la disposición adicional septuagésima segunda de la Ley 17/2012, de 27 de diciembre, de Presupuestos Generales del Estado para el año 2013. 2. Los acuerdos de delegación de competencias y convenios de colaboración que, a la entrada en vigor de la presente norma, hayan sido objeto de prórroga, expresa o tácita, por tiempo determinado, sólo podrán volver a prorrogarse en el caso de que se incluyan en los mismos la cláusula de garantía a la que hace referencia el apartado anterior. Esta norma será de aplicación a aquellos acuerdos que se puedan prorrogar, expresa o tácitamente, por vez primera con posterioridad a la citada entrada en vigor.
 
 3. El procedimiento para la aplicación de las retenciones mencionadas en el apartado 1 anterior y la correspondiente puesta a disposición a favor de las Entidades Locales de los fondos retenidos a las Comunidades Autónomas se regulará mediante Orden del Ministerio de Hacienda y Administraciones Públicas a la que se refiere la disposición adicional septuagésima segunda de la Ley 17/2012, de 27 de diciembre, de Presupuestos Generales del Estado para el año 2013.»
 
@@ -927,9 +913,7 @@ Las entidades mencionadas en el párrafo anterior durante el tiempo de vigencia 
 
 2. Aquellas entidades que a la entrada en vigor de la presente Ley desarrollen actividades económicas, estén adscritas a efectos del Sistema Europeo de Cuentas a cualesquiera de las Entidades Locales del artículo 3.1 de esta Ley o de sus organismos autónomos, y se encuentren en desequilibrio financiero, dispondrán del plazo de dos meses desde la entrada en vigor de esta Ley para aprobar, previo informe del órgano interventor de la Entidad Local, un plan de corrección de dicho desequilibrio. A estos efectos, y como parte del mencionado plan de corrección, la Entidad Local de la que dependa podrá realizar aportaciones patrimoniales o suscribir ampliaciones de capital de sus entidades solo si, en el ejercicio presupuestario inmediato anterior, esa Entidad Local hubiere cumplido con los objetivos de estabilidad presupuestaria y deuda pública y su período medio de pago a proveedores no supere en más de treinta días el plazo máximo previsto en la normativa de morosidad.
 
-Si esta corrección no se cumpliera a 31 diciembre de 2014, la Entidad Local en el plazo máximo de los seis meses siguientes a contar desde la aprobación de las cuentas anuales o de la liquidación del presupuesto del ejercicio 2014 de la entidad, según proceda, disolverá cada una de las entidades que continúe en situación de desequilibrio. De no hacerlo, dichas entidades quedarán automáticamente disueltas el 1 de diciembre de 2015.
-
-Los plazos citados en el párrafo anterior de este apartado 2 se ampliarán hasta el 31 de diciembre de 2015 y el 1 de diciembre de 2016, respectivamente, cuando las entidades en desequilibrio estén prestando alguno de los siguientes servicios esenciales: abastecimiento domiciliario y depuración de aguas, recogida, tratamiento y aprovechamiento de residuos, y transporte público de viajeros.
+Si esta corrección no se cumpliera a 31 diciembre de 2014, la Entidad Local en el plazo máximo de los seis meses siguientes a contar desde la aprobación de las cuentas anuales o de la liquidación del presupuesto del ejercicio 2014 de la entidad, según proceda, disolverá cada una de las entidades que continúe en situación de desequilibrio. De no hacerlo, dichas entidades quedarán automáticamente disueltas el 1 de diciembre de 2015. Los plazos citados en el párrafo anterior de este apartado 2 se ampliarán hasta el 31 de diciembre de 2015 y el 1 de diciembre de 2016, respectivamente, cuando las entidades en desequilibrio estén prestando alguno de los siguientes servicios esenciales: abastecimiento domiciliario y depuración de aguas, recogida, tratamiento y aprovechamiento de residuos, y transporte público de viajeros.
 
 Esta situación de desequilibrio financiero se referirá, para los entes que tengan la consideración de Administración pública a efectos del Sistema Europeo de Cuentas, a su necesidad de financiación en términos del Sistema Europeo de Cuentas, mientras que para los demás entes se entenderá como la situación de desequilibrio financiero manifestada en la existencia de resultados negativos de explotación en dos ejercicios contables consecutivos.
 
@@ -963,13 +947,7 @@ b) Estructura organizativa, con fijación del número mínimo y máximo de direc
 
 4. El número máximo de miembros del consejo de administración y órganos superiores de gobierno o administración de las citadas entidades no podrá exceder de:
 
-a) 15 miembros en las entidades del grupo 1.
-
-b) 12 miembros en las entidades del grupo 2.
-
-c) 9 miembros en las entidades del grupo 3.
-
-5. Sin perjuicio de la publicidad legal a que estén obligadas, las entidades incluidas en el sector público local difundirán a través de su página web la composición de sus órganos de administración, gestión, dirección y control, incluyendo los datos y experiencia profesional de sus miembros.
+a) 15 miembros en las entidades del grupo 1. b) 12 miembros en las entidades del grupo 2. c) 9 miembros en las entidades del grupo 3. 5. Sin perjuicio de la publicidad legal a que estén obligadas, las entidades incluidas en el sector público local difundirán a través de su página web la composición de sus órganos de administración, gestión, dirección y control, incluyendo los datos y experiencia profesional de sus miembros.
 
 Las retribuciones que perciban los miembros de los citados órganos se recogerán anualmente en la memoria de actividades de la entidad.
 
@@ -1251,15 +1229,11 @@ Lo previsto en el apartado tercero del artículo 130 de la [Ley 7/1985](./L7_198
 
 #### Disposición transitoria décima. Aplicación de las limitaciones referidas al número de personal eventual y cargos públicos con dedicación exclusiva.
 
-1. A las Entidades Locales que cumplan con los objetivos de estabilidad presupuestaria y deuda pública, y además su período medio de pago a los proveedores no supere en más de 30 días el plazo máximo previsto de la normativa de morosidad, no les aplicará, con carácter excepcional, los límites previstos en los artículos 75 bis y ter y 104 bis de la [Ley 7/1985](./L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las Bases del Régimen Local hasta el 30 de junio de 2015.
-
-2. El cumplimiento de los requisitos previstos en el apartado anterior, será verificado por la Secretaría General de Coordinación Autonómica y Local del Ministerio de Hacienda y Administraciones Públicas, que, en virtud de la información comunicada por las Entidades Locales al mencionado Ministerio, publicará una lista de las Entidades Locales que cumplen los requisitos previstos en el apartado anterior.
+1. A las Entidades Locales que cumplan con los objetivos de estabilidad presupuestaria y deuda pública, y además su período medio de pago a los proveedores no supere en más de 30 días el plazo máximo previsto de la normativa de morosidad, no les aplicará, con carácter excepcional, los límites previstos en los artículos 75 bis y ter y 104 bis de la [Ley 7/1985](./L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las Bases del Régimen Local hasta el 30 de junio de 2015. 2. El cumplimiento de los requisitos previstos en el apartado anterior, será verificado por la Secretaría General de Coordinación Autonómica y Local del Ministerio de Hacienda y Administraciones Públicas, que, en virtud de la información comunicada por las Entidades Locales al mencionado Ministerio, publicará una lista de las Entidades Locales que cumplen los requisitos previstos en el apartado anterior.
 
 3. La excepción prevista en esta disposición podrá aplicarse a las Entidades Locales que cumplan con los requisitos mencionados en el apartado primero en el momento de la entrada en vigor de esta Ley y se mantendrá su aplicación hasta el 30 de junio de 2015 en tanto sigan cumpliendo los requisitos mencionados.
 
-4. En ningún caso, las Entidades Locales en las que concurran los requisitos a los que se refiere esta disposición, podrán incrementar el número total de puestos de trabajo de personal eventual o cargos públicos con dedicación exclusiva respecto al que disponían a 31 de diciembre de 2012.
-
-#### Disposición transitoria undécima. Mancomunidades de municipios.
+4. En ningún caso, las Entidades Locales en las que concurran los requisitos a los que se refiere esta disposición, podrán incrementar el número total de puestos de trabajo de personal eventual o cargos públicos con dedicación exclusiva respecto al que disponían a 31 de diciembre de 2012. #### Disposición transitoria undécima. Mancomunidades de municipios.
 
 En el plazo de seis meses desde la entrada en vigor de esta Ley, las mancomunidades de municipios deberán de adaptar sus estatutos a lo previsto en el artículo 44 de la [Ley 7/1985](./L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las Bases de Régimen Local, para no incurrir en causa de disolución.
 
@@ -1361,9 +1335,7 @@ Por tanto,
 
 Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
 
-Madrid, 27 de diciembre de 2013.
-
-JUAN CARLOS R.
+Madrid, 27 de diciembre de 2013. JUAN CARLOS R.
 
 El Presidente del Gobierno,
 

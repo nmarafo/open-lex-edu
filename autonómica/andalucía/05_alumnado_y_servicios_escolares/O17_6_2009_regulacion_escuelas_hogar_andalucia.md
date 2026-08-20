@@ -1,10 +1,12 @@
 ---
 id: norm-and-o-17-6-2009
 codigo_sintetizado: O17_6_2009 Regulacion Escuelas Hogar Andalucía
-titulo: Orden de 17 de junio de 2009, por la que se regula la organización y funcionamiento de las Escuelas Hogar.
+titulo: Orden de 17 de junio de 2009, por la que se regula la organización y funcionamiento
+  de las Escuelas Hogar.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 17/06/2009
 fecha_disposicion: '2009-06-17'
@@ -18,17 +20,17 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Servicios escolares
 tags:
-  - escuelas_hogar
-  - residencia_escolar
-  - alojamiento
-  - andalucia
+- escuelas_hogar
+- residencia_escolar
+- alojamiento
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Orden de 17 de junio de 2009, por la que se regula la organización y funcionamiento de las Escuelas Hogar.
 
@@ -54,9 +56,7 @@ Artículo Único. Se convoca la V Edición de los Premios de la Junta de Andaluc
 
 #### Primera. de esta Orden, siempre que no hayan sido galardonadas en ediciones anteriores en esta misma modalidad. Así mismo será necesario que la organización candidata, tenga aprobada y publicada su Carta de Servicios en el momento de la presentación de la solicitud, donde se informe a la ciudadanía de sus derechos, de los servicios que se ofrecen y de los compromisos de calidad que se asumen en la prestación de los mismos.
 
-3. La base para la concesión de este Premio será el Modelo Europeo de Excelencia, de la Fundación Europea para la Gestión de la Calidad (EFQM) Sector Público, versión 2003.
-
-4. Se concederá un único premio, que consistirá conjuntamente en:
+3. La base para la concesión de este Premio será el Modelo Europeo de Excelencia, de la Fundación Europea para la Gestión de la Calidad (EFQM) Sector Público, versión 2003. 4. Se concederá un único premio, que consistirá conjuntamente en:
 a) Una escultura conmemorativa.
 b) Una placa representativa.
 c) Un diploma acreditativo.
@@ -162,9 +162,7 @@ e) Descripción de la implicación de la sugerencia presentada en cada uno de lo
 
 1. Las solicitudes de participación dirigidas a la Dirección General de Modernización e Innovación de los Servicios Públicos de la Consejería de Justicia y Administración Pública junto con la documentación asociada se presentarán en el Registro Telemático de la Junta de Andalucía, para lo que las personas interesadas deberán disponer de la correspondiente firma electrónica reconocida o de los sistemas de firma electrónica incorporados al Documento Nacional de Identidad, a través del formulario electrónico ubicado dentro del «Portal» electrónico de la Junta de Andalucía, en el sitio web denominado: «Plataforma de Relación con la Ciudadanía Andaluza» (CLARA): http://www.juntadeandalucia.es/justiciayadministracionpublica/clara. Para asegurar la presentación telemática podrán dirigirse a las Oficinas de Calidad de su provincia, cuyas direcciones y teléfonos se encuentran disponibles en el apartado Directorio de CLARA, donde serán asistidas por el personal de la misma.
 
-2. El plazo de presentación de las solicitudes para la V Edición de los Premios de la Junta de Andalucía a la Calidad de los Servicios Públicos y Administración Electrónica comenzará el día siguiente al de la publicación de la presente Orden en el Boletín Oficial de la Junta de Andalucía y finalizará el 19 de enero de 2010.
-
-3. La presentación de las candidaturas es voluntaria y supone la aceptación de las disposiciones contenidas en el Decreto 317/2003 y en la presente Orden. Base octava. Organización.
+2. El plazo de presentación de las solicitudes para la V Edición de los Premios de la Junta de Andalucía a la Calidad de los Servicios Públicos y Administración Electrónica comenzará el día siguiente al de la publicación de la presente Orden en el Boletín Oficial de la Junta de Andalucía y finalizará el 19 de enero de 2010. 3. La presentación de las candidaturas es voluntaria y supone la aceptación de las disposiciones contenidas en el Decreto 317/2003 y en la presente Orden. Base octava. Organización.
 
 1. Corresponde a la Dirección General de Modernización e Innovación de los Servicios Públicos la organización del proceso de concesión y entrega de los Premios previstos en la presente convocatoria. Para ello podrá dictar las instrucciones y resoluciones que procedan para el desarrollo del proceso de acuerdo con la normativa de creación de los Premios y de esta convocatoria.
 

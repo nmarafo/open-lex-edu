@@ -1,10 +1,15 @@
 ---
 id: norm-es-2015-8043
 codigo_sintetizado: BOE-A-2015-8043
-titulo: Real Decreto 665/2015, de 17 de julio, por el que se desarrollan determinadas disposiciones relativas al ejercicio de la docencia en la Educación Secundaria Obligatoria, el Bachillerato, la Formación Profesional y las enseñanzas de régimen especial, a la formación inicial del profesorado y a las especialidades de los cuerpos docentes de Enseñanza Secundaria.
+titulo: Real Decreto 665/2015, de 17 de julio, por el que se desarrollan determinadas
+  disposiciones relativas al ejercicio de la docencia en la Educación Secundaria Obligatoria,
+  el Bachillerato, la Formación Profesional y las enseñanzas de régimen especial,
+  a la formación inicial del profesorado y a las especialidades de los cuerpos docentes
+  de Enseñanza Secundaria.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2015-07-18'
 boletin: BOE
@@ -15,39 +20,36 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros privados
 tags:
-  - bachillerato
-  - centros-privados
-  - conciertos-educativos
-  - curriculo
-  - eso
-  - formacion-profesional
-  - profesorado
+- bachillerato
+- centros-privados
+- conciertos-educativos
+- curriculo
+- eso
+- formacion-profesional
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2010-11426
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-1834-2008
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2010-11426
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-1834-2008
   fundamento_de:
-    - norma_id: norm-es-2023-9553
+  - norma_id: norm-es-2023-9553
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-es-lo-2-2006
-  articulos:
-    - '1'
-    - '2'
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-2010-11426
-    - norma_id: norm-es-rd-1834-2008
-    - norma_id: norm-es-2016-3229
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - '2'
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2010-11426
+  - norma_id: norm-es-rd-1834-2008
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 ---
 # Real Decreto 665/2015, de 17 de julio, por el que se desarrollan determinadas disposiciones relativas al ejercicio de la docencia en la Educación Secundaria Obligatoria, el Bachillerato, la Formación Profesional y las enseñanzas de régimen especial, a la formación inicial del profesorado y a las especialidades de los cuerpos docentes de Enseñanza Secundaria.
 
@@ -1017,9 +1019,7 @@ Se habilita al Ministro de Educación, Cultura y Deporte para dictar, en el ámb
 
 El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de Estado».
 
-Dado en Madrid, el 17 de julio de 2015.
-
-FELIPE R.
+Dado en Madrid, el 17 de julio de 2015. FELIPE R.
 
 El Ministro de Educación, Cultura y Deporte,
 

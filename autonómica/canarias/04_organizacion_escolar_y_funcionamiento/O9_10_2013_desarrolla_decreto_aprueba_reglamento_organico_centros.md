@@ -1,7 +1,10 @@
 ---
 id: norm-can-o-2013-10-09
 codigo_sintetizado: O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)
-titulo: Orden de 9 de octubre de 2013, por la que se desarrolla el Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias, en lo referente a su organización y funcionamiento.
+titulo: Orden de 9 de octubre de 2013, por la que se desarrolla el Decreto 81/2010,
+  de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes
+  públicos no universitarios de la Comunidad Autónoma de Canarias, en lo referente
+  a su organización y funcionamiento.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Ministerio de Educación, Formación Profesional y Deportes
@@ -19,60 +22,60 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Instrucciones de organización y funcionamiento
 tags:
-  - becas-y-ayudas
-  - departamentos
-  - desarrollo-roc
-  - instrucciones-de-organizacion-y-funcionamiento
-  - organizacion-centro
-  - profesorado
-  - roc
+- becas-y-ayudas
+- departamentos
+- desarrollo-roc
+- instrucciones-de-organizacion-y-funcionamiento
+- organizacion-centro
+- profesorado
+- roc
 relaciones:
   desarrolla:
-    - norma_id: norm-can-d-81-2010
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-can-d-106-2009
-    - norma_id: norm-can-d-114-2011
-    - norma_id: norm-can-l-14-1990
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2010-4518
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-1834-2008
-    - norma_id: norm-es-rd-39-1997
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-d-106-2009
+  - norma_id: norm-can-d-114-2011
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2010-4518
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-1834-2008
+  - norma_id: norm-es-rd-39-1997
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-can-l-6-2014
   fundamento_de:
-    - norma_id: norm-can-d-81-2010
-    - norma_id: norm-can-res-027
-    - norma_id: norm-can-res-055
-    - norma_id: norm-can-res-boc-2017-036-75
-    - norma_id: norm-can-res-boc-2017-132-1
-    - norma_id: norm-can-res-boc-2018-124-126
-    - norma_id: norm-can-res-boc-2023-133-57
-    - norma_id: norm-can-res-boc-2024-117-93
-    - norma_id: norm-can-res-boc-2025-044-89
-    - norma_id: norm-can-res-boc-2026-046-139
-    - norma_id: norm-can-res-boc-2026-109-92
-    - norma_id: norm-can-res-boc-2026-116-87
-    - norma_id: norm-can-res-juriscan-64838-121
-    - norma_id: norm-can-res-juriscan-72788-60
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-res-027
+  - norma_id: norm-can-res-055
+  - norma_id: norm-can-res-boc-2017-036-75
+  - norma_id: norm-can-res-boc-2017-132-1
+  - norma_id: norm-can-res-boc-2018-124-126
+  - norma_id: norm-can-res-boc-2023-133-57
+  - norma_id: norm-can-res-boc-2024-117-93
+  - norma_id: norm-can-res-boc-2025-044-89
+  - norma_id: norm-can-res-boc-2026-046-139
+  - norma_id: norm-can-res-boc-2026-109-92
+  - norma_id: norm-can-res-boc-2026-116-87
+  - norma_id: norm-can-res-juriscan-64838-121
+  - norma_id: norm-can-res-juriscan-72788-60
   modificado_por:
-    - norma_id: norm-can-o-2023-09-28
+  - norma_id: norm-can-o-2023-09-28
   fundamentos_derecho:
-    - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-d-81-2010
   articulos:
-    - Disposición Final Primera
-    - norma_id: norm-can-l-14-1990
-    - norma_id: norm-can-d-106-2009
-    - norma_id: norm-can-d-114-2011
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-1834-2008
-    - norma_id: norm-es-rd-39-1997
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2010-4518
+  - Disposición Final Primera
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-d-106-2009
+  - norma_id: norm-can-d-114-2011
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-1834-2008
+  - norma_id: norm-es-rd-39-1997
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2010-4518
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2013-200-5076.pdf
 ---
 # Orden de 9 de octubre de 2013, por la que se desarrolla el Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias, en lo referente a su organización y funcionamiento.
@@ -905,9 +908,7 @@ A los usuarios o las usuarias con permisos de administradores de las webs, blogs
 - La medicación a administrar haya sido prescrita por su médico de familia o pediatra, para lo que se tendrá que aportar el informe correspondiente.
 
 - Exista un protocolo específico de actuación para ese alumnado, firmado por sus progenitores o tutores legales y aprobado por el Consejo Escolar, de acuerdo con las instrucciones que dicte la Administración educativa y con las pautas concretas indicadas en los informes médicos que debe entregar la familia.
-- Haya una predisposición o voluntariedad por parte del personal educativo o cuidador para su suministro, sin perjuicio de que, en casos de urgencia vital, se deba actuar según el protocolo y las indicaciones de los servicios del 112.
-
-4. Además de lo previsto en las presentes instrucciones, serán de aplicación las orientaciones y las pautas fijadas en los protocolos que, previo asesoramiento especializado, se divulgarán a través de la web de la Consejería, para la actuación a seguir en cuestiones como la atención adecuada ante determinadas enfermedades específicas o la administración de algunos medicamentos.
+- Haya una predisposición o voluntariedad por parte del personal educativo o cuidador para su suministro, sin perjuicio de que, en casos de urgencia vital, se deba actuar según el protocolo y las indicaciones de los servicios del 112. 4. Además de lo previsto en las presentes instrucciones, serán de aplicación las orientaciones y las pautas fijadas en los protocolos que, previo asesoramiento especializado, se divulgarán a través de la web de la Consejería, para la actuación a seguir en cuestiones como la atención adecuada ante determinadas enfermedades específicas o la administración de algunos medicamentos.
 
 #### Artículo 65. Coordinación de prevención de riesgos laborales.
 

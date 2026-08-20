@@ -1,10 +1,14 @@
 ---
 id: norm-and-d-21-2020
 codigo_sintetizado: D21_2020 Criterios Admision Alumnado Centros Andalucia
-titulo: Decreto 21/2020, de 17 de febrero, por el que se regulan los criterios y el procedimiento de admisión del alumnado en los centros docentes públicos y privados concertados para impartir las enseñanzas de Educación Infantil, Educación Primaria, Educación Especial, Educación Secundaria Obligatoria y Bachillerato.
+titulo: Decreto 21/2020, de 17 de febrero, por el que se regulan los criterios y el
+  procedimiento de admisión del alumnado en los centros docentes públicos y privados
+  concertados para impartir las enseñanzas de Educación Infantil, Educación Primaria,
+  Educación Especial, Educación Secundaria Obligatoria y Bachillerato.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 21/2020
 fecha_disposicion: '2020-02-17'
@@ -18,18 +22,18 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión de alumnado
 tags:
-  - admision
-  - escolarizacion
-  - zonas_escolares
-  - baremo
-  - andalucia
+- admision
+- escolarizacion
+- zonas_escolares
+- baremo
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Decreto 21/2020, de 17 de febrero, por el que se regulan los criterios y el procedimiento de admisión del alumnado en los centros docentes públicos y privados concertados para impartir las enseñanzas de Educación Infantil, Educación Primaria, Educación Especial, Educación Secundaria Obligatoria y Bachillerato.
 
@@ -81,9 +85,7 @@ Histórico del BOJA Boletín número 34 de 19/02/2020
 
 ### Decreto 21/2020, de 17 de febrero, por el que se regulan los criterios y el procedimiento de admisión del alumnado en los centros docentes públicos y privados concertados para cursar las enseñanzas de segundo ciclo de educación infantil, educación primaria, educación especial, educación secundaria obligatoria y bachillerato.
 
-Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad con CVE 00169991.
-
-El artículo 21.3 del Estatuto de Autonomía para Andalucía proclama el derecho de todas las personas a acceder en condiciones de igualdad a los centros educativos sostenidos con fondos públicos y prevé el establecimiento de criterios de admisión, al objeto de garantizarla en condiciones de igualdad y no discriminación.
+Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad con CVE 00169991. El artículo 21.3 del Estatuto de Autonomía para Andalucía proclama el derecho de todas las personas a acceder en condiciones de igualdad a los centros educativos sostenidos con fondos públicos y prevé el establecimiento de criterios de admisión, al objeto de garantizarla en condiciones de igualdad y no discriminación.
 
 Por otra parte, el artículo 52.2 del Estatuto de Autonomía para Andalucía reconoce la competencia compartida de la Comunidad Autónoma sobre los criterios de admisión del alumnado, sin perjuicio de lo recogido en el artículo 149.1.30.ª de la Constitución, a tenor del cual corresponde al Estado dictar las normas básicas para el desarrollo del artículo 27 l.
 
@@ -231,9 +233,7 @@ Igualmente, informarán de los recursos específicos para la atención del alumn
 
 2. Anualmente, antes del inicio del plazo de presentación de las solicitudes de admisión, oídos el correspondiente Consejo Escolar Provincial y los Consejos Escolares Municipales, las personas titulares de los órganos territoriales provinciales de la Administración de la Junta de Andalucía competentes en materia de educación, de acuerdo con la capacidad autorizada a cada uno de los centros y la población escolar de su entorno, delimitarán las áreas de influencia de los centros docentes públicos y privados concertados, mediante Resolución que se publicará en el
 
-Asimismo, se determinarán como áreas limítrofes a las anteriores aquellas que, ubicadas en el mismo municipio, compartan parte de las líneas de demarcación que las delimitan, a los efectos de lo dispuesto en el artículo 22.
-
-3. La delimitación de las áreas de influencia y limítrofes a las que se refiere el apartado 2 se realizará para cada una de las enseñanzas de segundo ciclo de educación infantil, educación primaria, educación especial, educación secundaria obligatoria y bachillerato. En el caso de la modalidad de artes del bachillerato se podrán delimitar áreas de influencia y limítrofes específicas.
+Asimismo, se determinarán como áreas limítrofes a las anteriores aquellas que, ubicadas en el mismo municipio, compartan parte de las líneas de demarcación que las delimitan, a los efectos de lo dispuesto en el artículo 22. 3. La delimitación de las áreas de influencia y limítrofes a las que se refiere el apartado 2 se realizará para cada una de las enseñanzas de segundo ciclo de educación infantil, educación primaria, educación especial, educación secundaria obligatoria y bachillerato. En el caso de la modalidad de artes del bachillerato se podrán delimitar áreas de influencia y limítrofes específicas.
 
 4. En los municipios, entidades o núcleos poblacionales en los que haya centros docentes públicos y privados concertados, las áreas de influencia para cada enseñanza se configurarán de forma que las personas solicitantes tengan la máxima puntuación por el criterio de proximidad al centro del domicilio familiar o del lugar de trabajo en, al menos, un centro de cada tipo.
 
@@ -269,9 +269,7 @@ i) Que el alumno o la alumna esté matriculado en el primer ciclo de la educaci�
 
 1. Para la consideración de hermanos o hermanas matriculados en el mismo centro docente o en sus centros adscritos, se tendrán en cuenta los que lo estén en una plaza escolar sostenida con fondos públicos a la fecha de finalización del plazo de presentación de las solicitudes.
 
-2. Sin perjuicio de lo establecido en el apartado anterior y con el fin de favorecer la escolarización en un mismo centro docente de los hermanos y hermanas, se tendrá en cuenta que, en el caso de que varios hermanos o hermanas soliciten plaza escolar en el mismo centro docente y para el mismo curso de alguna de las etapas educativas a las que se refiere el presente Decreto sostenidas con fondos públicos, la admisión de uno de ellos supondrá la admisión de los demás. Si las solicitudes son para cursos distintos, cuando uno de ellos resulte admitido se concederá a los demás la puntuación que otorga el artículo 21.
-
-3. Los efectos previstos en los apartados anteriores, así como en el artículo 10.2.g), serán de aplicación a los hijos e hijas de los dos cónyuges o parejas de hecho legalmente inscritas, así como a las personas sometidas a tutela o acogimiento familiar legalmente constituido.
+2. Sin perjuicio de lo establecido en el apartado anterior y con el fin de favorecer la escolarización en un mismo centro docente de los hermanos y hermanas, se tendrá en cuenta que, en el caso de que varios hermanos o hermanas soliciten plaza escolar en el mismo centro docente y para el mismo curso de alguna de las etapas educativas a las que se refiere el presente Decreto sostenidas con fondos públicos, la admisión de uno de ellos supondrá la admisión de los demás. Si las solicitudes son para cursos distintos, cuando uno de ellos resulte admitido se concederá a los demás la puntuación que otorga el artículo 21. 3. Los efectos previstos en los apartados anteriores, así como en el artículo 10.2.g), serán de aplicación a los hijos e hijas de los dos cónyuges o parejas de hecho legalmente inscritas, así como a las personas sometidas a tutela o acogimiento familiar legalmente constituido.
 
 #### Artículo 12. Domicilio familiar o lugar de trabajo.
 
@@ -321,9 +319,7 @@ Mediante Orden de la persona titular de la Consejería competente en materia de 
 
 #### Artículo 20. Prioridad en la admisión del alumnado.
 
-1. El alumnado procedente de los centros adscritos tendrá prioridad en la admisión en el centro que le corresponda, de conformidad con lo establecido en el artículo 6.3.
-
-2. Los hijos e hijas cuyo padre, madre, tutor o guardador tenga su puesto de trabajo habitual en el centro docente solicitado tendrán prioridad en la admisión en dicho centro, en las condiciones que se establezcan mediante Orden de la persona titular de la Consejería competente en materia de educación.
+1. El alumnado procedente de los centros adscritos tendrá prioridad en la admisión en el centro que le corresponda, de conformidad con lo establecido en el artículo 6.3. 2. Los hijos e hijas cuyo padre, madre, tutor o guardador tenga su puesto de trabajo habitual en el centro docente solicitado tendrán prioridad en la admisión en dicho centro, en las condiciones que se establezcan mediante Orden de la persona titular de la Consejería competente en materia de educación.
 
 3. El alumnado que curse simultáneamente enseñanzas regladas de música o danza y educación secundaria tendrá prioridad para ser admitido en los centros que impartan educación secundaria que determine la Consejería competente en materia de educación. El mismo tratamiento se aplicará al alumnado que siga programas deportivos incluidos en los niveles del Deporte de Rendimiento de Andalucía, así como a las personas deportistas de alto nivel o alto rendimiento de otras Comunidades Autónomas, y a quienes dispongan de licencia deportiva en vigor en cualquier Sociedad Anónima Deportiva con domicilio social en Andalucía que compita en la máxima categoría nacional.
 
@@ -381,9 +377,7 @@ e) Rentas per cápita iguales o superiores al resultado de multiplicar por uno y
 
 1. Por pertenecer el alumno o alumna, en los términos establecidos en el artículo 15, a una familia numerosa o monoparental se otorgará la siguiente puntuación:
 
-a) **Familia numerosa especial.** 2,5.
-
-b) **Familia numerosa general o monoparental.** 2 puntos.
+a) **Familia numerosa especial.** 2,5. b) **Familia numerosa general o monoparental.** 2 puntos.
 
 2. En el caso de que en una misma familia coincidan las dos condiciones de numerosa y monoparental se otorgarán 2,5 puntos si la familia numerosa es general y 3 puntos si la familia numerosa es especial.
 
@@ -461,9 +455,7 @@ b) El resultado del sorteo se obtendrá dividiendo entre diez mil el número que
 
 6. A los efectos de lo establecido en el apartado anterior se considerará que el número 1 es el siguiente al número total de solicitudes empatadas.
 
-7. Los centros podrán utilizar el sistema de información Séneca para obtener el resultado de la aplicación del sorteo a la relación a la que se refiere el apartado 3.
-
-8. Las personas que ejercen la dirección de los centros docentes públicos o las personas físicas o jurídicas titulares, en el caso de los centros docentes privados concertados, harán público el resultado del sorteo en el tablón de anuncios de cada centro.
+7. Los centros podrán utilizar el sistema de información Séneca para obtener el resultado de la aplicación del sorteo a la relación a la que se refiere el apartado 3. 8. Las personas que ejercen la dirección de los centros docentes públicos o las personas físicas o jurídicas titulares, en el caso de los centros docentes privados concertados, harán público el resultado del sorteo en el tablón de anuncios de cada centro.
 
 ## Capítulo III. Admisión del alumnado con necesidades específicas de apoyo educativo.
 
@@ -481,9 +473,7 @@ b) El resultado del sorteo se obtendrá dividiendo entre diez mil el número que
 
 2. A los efectos de lo establecido en el apartado anterior, la Administración educativa podrá reservar hasta el final del periodo de matrícula un máximo de tres plazas por unidad en los centros públicos y privados concertados para el alumnado con necesidades específicas de apoyo educativo.
 
-3. La adjudicación de las plazas reservadas al alumnado al que se refiere el apartado anterior se realizará atendiendo a la mayor puntuación obtenida por aplicación de los criterios de admisión y, en su caso, a los criterios de desempate. No obstante, las personas titulares de los órganos territoriales provinciales de la Administración de la Junta de Andalucía competentes en materia de educación podrán reservar en determinados centros, hasta la finalización del período de matrícula, algunas de estas plazas para favorecer la integración del alumnado que precise acciones de carácter compensatorio a que se refiere el artículo 31.3 residente en barriadas de actuación educativa preferente. En este caso, en la adjudicación de plazas no se tendrá en cuenta la puntuación obtenida por aplicación del artículo 22.
-
-4. En los centros de adscripción el alumnado será escolarizado en las plazas que a estos efectos se reserven.
+3. La adjudicación de las plazas reservadas al alumnado al que se refiere el apartado anterior se realizará atendiendo a la mayor puntuación obtenida por aplicación de los criterios de admisión y, en su caso, a los criterios de desempate. No obstante, las personas titulares de los órganos territoriales provinciales de la Administración de la Junta de Andalucía competentes en materia de educación podrán reservar en determinados centros, hasta la finalización del período de matrícula, algunas de estas plazas para favorecer la integración del alumnado que precise acciones de carácter compensatorio a que se refiere el artículo 31.3 residente en barriadas de actuación educativa preferente. En este caso, en la adjudicación de plazas no se tendrá en cuenta la puntuación obtenida por aplicación del artículo 22. 4. En los centros de adscripción el alumnado será escolarizado en las plazas que a estos efectos se reserven.
 
 5. Mediante Orden de la persona titular de la Consejería competente en materia de educación se determinará la documentación complementaria que, en su caso, deberán aportar las personas solicitantes en el procedimiento de admisión del alumnado con necesidades específicas de apoyo educativo, respetando lo dispuesto en los artículos 28 y 53.1 de la Ley 39/2015, de 1 de octubre.
 
@@ -531,9 +521,7 @@ d) Garantizar la distribución equilibrada en la admisión del alumnado con nece
 
 e) Garantizar la admisión del alumnado que no haya obtenido plaza escolar en el centro solicitado prioritariamente o que, por cualquier motivo, no disponga de plaza escolar.
 
-f) Dar traslado a la persona titular del correspondiente órgano territorial provincial de la Administración de la Junta de Andalucía competente en materia de educación de posibles fraudes detectados para su comprobación y adopción de las medidas que correspondan, de conformidad con lo recogido en el artículo 46.4 y 46.5.
-
-g) Proponer a la persona titular del correspondiente órgano territorial provincial de la Administración de la Junta de Andalucía competente en materia de educación las medidas que estimen adecuadas en relación con el procedimiento de admisión del alumnado.
+f) Dar traslado a la persona titular del correspondiente órgano territorial provincial de la Administración de la Junta de Andalucía competente en materia de educación de posibles fraudes detectados para su comprobación y adopción de las medidas que correspondan, de conformidad con lo recogido en el artículo 46.4 y 46.5. g) Proponer a la persona titular del correspondiente órgano territorial provincial de la Administración de la Junta de Andalucía competente en materia de educación las medidas que estimen adecuadas en relación con el procedimiento de admisión del alumnado.
 
 h) Aquellas otras que se determinen mediante Orden de la persona titular de la Consejería competente en materia de educación.
 
@@ -685,9 +673,7 @@ c) Las plazas que se reservan para el alumnado con necesidades específicas de a
 
 2. El procedimiento de admisión del alumnado, regulado por el presente Decreto, deberá realizarse con las garantías que establecen la Ley 39/2015, de 1 de octubre, y la Ley 40/2015, de 1 de octubre, y, en el caso de la tramitación electrónica, las recogidas en la normativa vigente en materia de tramitación electrónica de los procedimientos. Asimismo, se aplicará la normativa de protección de datos de carácter personal a que se refiere la disposición adicional primera.
 
-3. En el caso de que los datos que figuren en la solicitud o en la documentación que la persona interesada adjunte para la acreditación de aquellos criterios que pretende que le sean tenidos en cuenta en el procedimiento de admisión no se ajusten a las circunstancias reales del alumno o alumna, éste perderá todos los derechos de prioridad que puedan corresponderle por los datos referidos, sin perjuicio de la exigencia de las posibles responsabilidades a las que se refiere el apartado 5.
-
-4. El correspondiente órgano territorial provincial de la Administración de la Junta de Andalucía competente en materia de educación adoptará las medidas que sean necesarias para garantizar la adecuada escolarización del alumnado que incurra en las circunstancias a que se refiere el apartado anterior, en un centro sostenido con fondos públicos que disponga de plazas vacantes.
+3. En el caso de que los datos que figuren en la solicitud o en la documentación que la persona interesada adjunte para la acreditación de aquellos criterios que pretende que le sean tenidos en cuenta en el procedimiento de admisión no se ajusten a las circunstancias reales del alumno o alumna, éste perderá todos los derechos de prioridad que puedan corresponderle por los datos referidos, sin perjuicio de la exigencia de las posibles responsabilidades a las que se refiere el apartado 5. 4. El correspondiente órgano territorial provincial de la Administración de la Junta de Andalucía competente en materia de educación adoptará las medidas que sean necesarias para garantizar la adecuada escolarización del alumnado que incurra en las circunstancias a que se refiere el apartado anterior, en un centro sostenido con fondos públicos que disponga de plazas vacantes.
 
 5. Asimismo, la Administración educativa procederá a comunicar al Ministerio Fiscal y al Juzgado de Instrucción competente los hechos a los que se hace referencia en el apartado 3 para que adopte las medidas oportunas en relación con las responsabilidades en las que la persona solicitante hubiera podido incurrir.
 
@@ -719,17 +705,13 @@ Las comisiones de garantías de admisión adjudicarán una plaza escolar a los a
 
 1. Las plazas vacantes que pudieran producirse tras la certificación del número total de alumnos y alumnas que se hayan matriculado para el siguiente curso escolar serán ofertadas al alumnado solicitante que resultó no admitido en el centro solicitado como prioritario, siguiendo el orden de admisión establecido y de acuerdo con lo que a tales efectos se establezca mediante Orden de la persona titular de la Consejería competente en materia de educación.
 
-2. La lista de personas solicitantes no admitidas en un centro sostenido con fondos públicos, ordenada según la puntuación obtenida por cada uno de ellos, seguirá vigente hasta el inicio efectivo de las clases en la etapa educativa correspondiente. Si con posterioridad a dicha fecha se produjeran nuevas vacantes en el centro docente, estas se ofertarán al alumnado participante en el procedimiento extraordinario al que se refiere el artículo 51.
-
-3. En el caso de que esté pendiente de resolución algún recurso de alzada o reclamación a los que se refiere el artículo 48, que afecte al alumnado del propio centro, lo establecido en los apartados anteriores se llevará a cabo una vez se resuelvan los mismos.
+2. La lista de personas solicitantes no admitidas en un centro sostenido con fondos públicos, ordenada según la puntuación obtenida por cada uno de ellos, seguirá vigente hasta el inicio efectivo de las clases en la etapa educativa correspondiente. Si con posterioridad a dicha fecha se produjeran nuevas vacantes en el centro docente, estas se ofertarán al alumnado participante en el procedimiento extraordinario al que se refiere el artículo 51. 3. En el caso de que esté pendiente de resolución algún recurso de alzada o reclamación a los que se refiere el artículo 48, que afecte al alumnado del propio centro, lo establecido en los apartados anteriores se llevará a cabo una vez se resuelvan los mismos.
 
 #### Sección 3. ª Procedimiento extraordinario
 
 #### Artículo 51. Admisión en el procedimiento extraordinario.
 
-1. El procedimiento extraordinario de admisión del alumnado comienza una vez finalizado el plazo de matrícula del alumnado que resultó no admitido en el centro solicitado como prioritario, al que hace referencia el artículo 50.1.
-
-2. Las solicitudes de plaza escolar que pudieran producirse una vez finalizado el procedimiento ordinario de admisión del alumnado para atender necesidades inmediatas de escolarización del alumnado de incorporación tardía, entre otras las que vengan motivadas por el traslado de la unidad familiar o por adopción o por el inicio o modificación de otras formas de protección de menores, se presentarán en el centro docente en el que el alumno o alumna pretende ser admitido o en el correspondiente órgano territorial provincial de la Administración de la Junta de Andalucía competente en materia de educación, sin perjuicio de lo dispuesto en el artículo 16 de la Ley 39/2015, de 1 de octubre.
+1. El procedimiento extraordinario de admisión del alumnado comienza una vez finalizado el plazo de matrícula del alumnado que resultó no admitido en el centro solicitado como prioritario, al que hace referencia el artículo 50.1. 2. Las solicitudes de plaza escolar que pudieran producirse una vez finalizado el procedimiento ordinario de admisión del alumnado para atender necesidades inmediatas de escolarización del alumnado de incorporación tardía, entre otras las que vengan motivadas por el traslado de la unidad familiar o por adopción o por el inicio o modificación de otras formas de protección de menores, se presentarán en el centro docente en el que el alumno o alumna pretende ser admitido o en el correspondiente órgano territorial provincial de la Administración de la Junta de Andalucía competente en materia de educación, sin perjuicio de lo dispuesto en el artículo 16 de la Ley 39/2015, de 1 de octubre.
 
 3. En el supuesto de que existieran plazas escolares vacantes, la persona que ejerce la dirección del centro docente público o la persona representante de la titularidad del centro docente privado concertado estimará la solicitud y procederá a la matriculación del alumno o alumna en el centro utilizando el sistema de información Séneca. En caso contrario, remitirá la solicitud al correspondiente órgano territorial provincial de la Administración de la Junta de Andalucía competente en materia de educación.
 
@@ -751,9 +733,7 @@ Esta actuación también podrá realizarse para el alumnado que figure en la lis
 
 #### Artículo 52. Recursos y reclamaciones en el procedimiento extraordinario.
 
-1. En materia de recursos y reclamaciones a las decisiones adoptadas por las personas que ejercen la dirección de los centros docentes públicos o por las personas representantes de la titularidad de los centros docentes privados concertados en el procedimiento extraordinario de admisión del alumnado se estará a lo dispuesto en el artículo 48.
-
-2. Las decisiones que adopten las personas titulares de los órganos territoriales provinciales de la Administración de la Junta de Andalucía competentes en materia de educación sobre la admisión del alumnado en el procedimiento extraordinario podrán ser objeto de recurso de alzada ante la persona titular de la Consejería competente en materia de educación, cuya resolución pondrá fin a la vía administrativa.
+1. En materia de recursos y reclamaciones a las decisiones adoptadas por las personas que ejercen la dirección de los centros docentes públicos o por las personas representantes de la titularidad de los centros docentes privados concertados en el procedimiento extraordinario de admisión del alumnado se estará a lo dispuesto en el artículo 48. 2. Las decisiones que adopten las personas titulares de los órganos territoriales provinciales de la Administración de la Junta de Andalucía competentes en materia de educación sobre la admisión del alumnado en el procedimiento extraordinario podrán ser objeto de recurso de alzada ante la persona titular de la Consejería competente en materia de educación, cuya resolución pondrá fin a la vía administrativa.
 
 ## Capítulo V. Escolarización en determinados supuestos.
 
@@ -763,9 +743,7 @@ Esta actuación también podrá realizarse para el alumnado que figure en la lis
 
 a) El procedimiento se iniciará a solicitud de los padres, madres, tutores o guardadores legales del alumnado o, en su caso, del alumnado mayor de edad, dirigida a la persona titular del órgano territorial provincial de la Administración de la Junta de Andalucía competente en materia de educación que corresponda, en la que se comunicará la existencia de la enfermedad del alumno o alumna y se solicitará la escolarización en el centro elegido. Esta solicitud irá acompañada de una certificación emitida al efecto por la autoridad sanitaria competente de acuerdo con lo que, a tales efectos, se establezca por Orden de la persona titular de la Consejería competente en materia de educación.
 
-b) La persona titular del correspondiente órgano territorial provincial de la Administración de la Junta de Andalucía competente en materia de educación solicitará el informe de la Inspección educativa, que deberá pronunciarse acerca del cumplimiento de la situación excepcional por razón de enfermedad y de la existencia de plazas vacantes en el centro solicitado. A estos efectos, se podrá considerar el incremento de la ratio por unidad escolar respecto de lo recogido en el artículo 5.1 a que se refiere el artículo 5.2.
-
-c) A la vista del informe de la Inspección educativa, de la certificación médica y de la solicitud presentada, la persona titular del órgano territorial provincial de la Administración de la Junta de Andalucía competente en materia de educación que corresponda autorizará o denegará la escolarización solicitada en el plazo máximo de un mes. En el caso de que no se dictara resolución en el plazo establecido las personas interesadas podrán entender desestimada su solicitud por silencio administrativo.
+b) La persona titular del correspondiente órgano territorial provincial de la Administración de la Junta de Andalucía competente en materia de educación solicitará el informe de la Inspección educativa, que deberá pronunciarse acerca del cumplimiento de la situación excepcional por razón de enfermedad y de la existencia de plazas vacantes en el centro solicitado. A estos efectos, se podrá considerar el incremento de la ratio por unidad escolar respecto de lo recogido en el artículo 5.1 a que se refiere el artículo 5.2. c) A la vista del informe de la Inspección educativa, de la certificación médica y de la solicitud presentada, la persona titular del órgano territorial provincial de la Administración de la Junta de Andalucía competente en materia de educación que corresponda autorizará o denegará la escolarización solicitada en el plazo máximo de un mes. En el caso de que no se dictara resolución en el plazo establecido las personas interesadas podrán entender desestimada su solicitud por silencio administrativo.
 
 2. Las decisiones que adopten las personas titulares de los órganos territoriales provinciales de la Administración de la Junta de Andalucía competentes en materia de educación sobre la escolarización del alumnado podrán ser objeto de recurso de alzada ante la persona titular de la Consejería competente en materia de educación, cuya resolución pondrá fin a la vía administrativa.
 

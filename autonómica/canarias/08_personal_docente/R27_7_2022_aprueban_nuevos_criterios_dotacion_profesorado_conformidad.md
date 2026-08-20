@@ -1,7 +1,9 @@
 ---
 id: norm-can-res-boc-2022-158-132
 codigo_sintetizado: Resolucion BOC 132
-titulo: Resolución de 27 de julio de 2022, por la que se aprueban nuevos criterios para la dotación de profesorado, de conformidad con el Acuerdo para la mejora del sistema público educativo de Canarias entre Administración y sindicatos.
+titulo: Resolución de 27 de julio de 2022, por la que se aprueban nuevos criterios
+  para la dotación de profesorado, de conformidad con el Acuerdo para la mejora del
+  sistema público educativo de Canarias entre Administración y sindicatos.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Personal y Formación del Profesorado
@@ -13,30 +15,30 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Funcionarios de carrera
 tags:
-  - atencion-diversidad
-  - ensenanzas-deportivas
-  - equipos-directivos
-  - funcionarios-de-carrera
-  - inclusiva
-  - neae
-  - plantillas-docentes
-  - prevencion-riesgos-laborales
-  - profesorado
+- atencion-diversidad
+- ensenanzas-deportivas
+- equipos-directivos
+- funcionarios-de-carrera
+- inclusiva
+- neae
+- plantillas-docentes
+- prevencion-riesgos-laborales
+- profesorado
 relaciones:
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
-    - norma_id: norm-can-res-boc-2025-094-137
+  - norma_id: norm-can-res-boc-2025-094-137
   desarrolla:
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '1'
+  - '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-158-2653.pdf
 ---
 # Resolución de 27 de julio de 2022, por la que se aprueban nuevos criterios para la dotación de profesorado, de conformidad con el Acuerdo para la mejora del sistema público educativo de Canarias entre Administración y sindicatos.
@@ -58,10 +60,7 @@ e) Mejorar las ratios de alumnado por grupo en los IES, así como eliminar de lo
 f) Acercar la relación profesorado/alumno de los centros donde se imparte la Educación Infantil y Primaria a la media española.
 Tercero.- A su vez, la implementación de las medidas expuestas requiere la realización de las adaptaciones correspondientes en las plantillas docentes, siempre sujetas a las disponibilidades presupuestarias, tareas que entran dentro del ámbito competencial de este Centro Directivo.
 Cuarto.- En este sentido, previa negociación con las centrales sindicales del sector de la educación pública -ANPE Canarias, Sindicato de Trabajadores de la Enseñanza de Canarias (STEC-IC), Docentes de Canarias-Insucan (DCI), Federación de Enseñanza de Comisiones Obreras Canarias (CCOO Canarias), USPS-SEPCA (Unión Sindical de Profesores de Secundaria-Sindicato de Empleados Públicos de Canarias) y UGT-Servicios Públicos Canarias-, se ha firmado el Acuerdo para la Mejora del Sistema Público Educativo de Canarias el día 18 de julio de 2022, donde se recogen nuevos criterios para la dotación de profesorado en los centros educativos no universitarios de Canarias. Este Acuerdo, firmado por unanimidad, supone un gran avance hacia la equidad y la inclusividad de nuestro sistema educativo, profundizando en la dotación de profesorado para la atención a los sectores de la población menos favorecidos. FUNDAMENTOS DE DERECHO
-Primero.- La Orden de 21 de diciembre de 2021, por la que se aprueba la implantación del Plan Estratégico de la Consejería de Educación, Universidades, Cultura y Deportes, correspondiente a los ejercicios de 2021, 2022 y 2023.
-Segundo.- El Acuerdo para la Mejora del Sistema Público Educativo de Canarias, suscrito el día 18 de julio de 2022.
-
-Por ello de conformidad con lo dispuesto en el artículo 19 l.
+Primero.- La Orden de 21 de diciembre de 2021, por la que se aprueba la implantación del Plan Estratégico de la Consejería de Educación, Universidades, Cultura y Deportes, correspondiente a los ejercicios de 2021, 2022 y 2023. Segundo.- El Acuerdo para la Mejora del Sistema Público Educativo de Canarias, suscrito el día 18 de julio de 2022. Por ello de conformidad con lo dispuesto en el artículo 19 l.
 
 Reglamento Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes aprobado por Decreto 7/2021, de 18 de febrero,
 RESUELVO:

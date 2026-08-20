@@ -1,7 +1,8 @@
 ---
 id: norm-can-d-81-2010
 codigo_sintetizado: D81_2010 Reglamento Organico de Centros (ROC)
-titulo: Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
+titulo: Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico
+  de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Gobierno de Canarias / Consejería de Educación
@@ -19,60 +20,55 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Instrucciones de organización y funcionamiento
 tags:
-  - autonomia-centro
-  - centros-publicos
-  - curriculo
-  - ensenanzas-deportivas
-  - equipo-directivo
-  - equipos-directivos
-  - gestion-economica
-  - instrucciones-de-organizacion-y-funcionamiento
-  - profesorado
-  - reglamento-organico
-  - roc
+- autonomia-centro
+- centros-publicos
+- curriculo
+- ensenanzas-deportivas
+- equipo-directivo
+- equipos-directivos
+- gestion-economica
+- instrucciones-de-organizacion-y-funcionamiento
+- profesorado
+- reglamento-organico
+- roc
 relaciones:
   desarrollado_por:
-    - norma_id: norm-can-o-2013-10-09
-    - norma_id: norm-can-o-2023-09-28
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-can-o-2023-09-28
   fundamentado_en:
-    - norma_id: norm-can-d-106-2009
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-can-o-2013-10-09
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
+  - norma_id: norm-can-d-106-2009
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
   fundamento_de:
-    - norma_id: norm-can-res-027
-    - norma_id: norm-can-res-055
-    - norma_id: norm-can-res-boc-2017-036-75
-    - norma_id: norm-can-res-boc-2017-132-1
-    - norma_id: norm-can-res-boc-2018-124-126
-    - norma_id: norm-can-res-boc-2023-133-57
-    - norma_id: norm-can-res-boc-2024-117-93
-    - norma_id: norm-can-res-boc-2026-046-139
-    - norma_id: norm-can-res-boc-2026-109-92
-    - norma_id: norm-can-res-boc-2026-116-87
-    - norma_id: norm-can-res-juriscan-64838-121
-    - norma_id: norm-can-res-juriscan-72788-60
+  - norma_id: norm-can-res-027
+  - norma_id: norm-can-res-055
+  - norma_id: norm-can-res-boc-2017-036-75
+  - norma_id: norm-can-res-boc-2017-132-1
+  - norma_id: norm-can-res-boc-2018-124-126
+  - norma_id: norm-can-res-boc-2023-133-57
+  - norma_id: norm-can-res-boc-2024-117-93
+  - norma_id: norm-can-res-boc-2026-046-139
+  - norma_id: norm-can-res-boc-2026-109-92
+  - norma_id: norm-can-res-boc-2026-116-87
+  - norma_id: norm-can-res-juriscan-64838-121
+  - norma_id: norm-can-res-juriscan-72788-60
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-rd-132-2010
   fundamentos_derecho:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   articulos:
-    - '118'
-    - '120'
-    - '131'
-    - norma_id: norm-can-l-6-2014
-  articulos:
-    - '60'
-    - norma_id: norm-can-d-106-2009
-    - norma_id: norm-can-o-2013-10-09
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '60'
+  - norma_id: norm-can-d-106-2009
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-143-4245.pdf
 ---
 # Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
@@ -439,8 +435,7 @@ e) Promover la conservación y renovación de las instalaciones y equipamiento e
 f) Conocer las candidaturas a la dirección y los proyectos de dirección presentados por los candidatos y candidatas.
 g) Participar en la selección de la persona que ejerza la dirección del centro en los términos que se establezca en la normativa específica, ser informado del nombramiento y cese de los miembros del equipo directivo, así como participar en la evaluación del desempeño de la función directiva, de acuerdo con lo dispuesto en el apartado 3 del artículo 26 l.
 
-Decreto 106/2009.
-h) Proponer, en su caso, la revocación del nombramiento de la persona titular de la dirección, previo acuerdo motivado de sus miembros adoptado por mayoría de dos tercios del total de miembros que conforman el Consejo Escolar.
+Decreto 106/2009. h) Proponer, en su caso, la revocación del nombramiento de la persona titular de la dirección, previo acuerdo motivado de sus miembros adoptado por mayoría de dos tercios del total de miembros que conforman el Consejo Escolar.
 i) Proponer y aprobar medidas e iniciativas que favorezcan la convivencia en el centro docente, la compensación de desigualdades, la resolución pacífica de conflictos en todos los ámbitos de la vida personal, familiar y social y la igualdad entre hombres y mujeres.
 j) Conocer la resolución de los conflictos de convivencia y velar por que se atengan a la normativa vigente. Cuando las medidas disciplinarias adoptadas por la dirección correspondan a conductas del alumnado que perjudiquen gravemente la convivencia del centro, el Consejo Escolar, a instancia de padres y madres, podrá revisar la decisión adoptada y proponer, en su caso, las medidas oportunas.
 k) Decidir sobre la admisión del alumnado con sujeción a lo establecido en la normativa específica en esta materia.

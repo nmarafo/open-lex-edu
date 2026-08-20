@@ -355,9 +355,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 Oficial de Canarias.
 
-Dado en Santa Cruz de Tenerife, a 3 de julio de 2014.
-
-EL PRESIDENTE
+Dado en Santa Cruz de Tenerife, a 3 de julio de 2014. EL PRESIDENTE
 
 DEL GOBIERNO,
 

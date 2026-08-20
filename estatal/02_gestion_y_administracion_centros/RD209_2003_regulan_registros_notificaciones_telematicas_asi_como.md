@@ -1,10 +1,13 @@
 ---
 id: norm-es-2003-4151
 codigo_sintetizado: BOE-A-2003-4151
-titulo: Real Decreto 209/2003, de 21 de febrero, por el que se regulan los registros y las notificaciones telemáticas, así como la utilización de medios telemáticos para la sustitución de la aportación de certificados por los ciudadanos.
+titulo: Real Decreto 209/2003, de 21 de febrero, por el que se regulan los registros
+  y las notificaciones telemáticas, así como la utilización de medios telemáticos
+  para la sustitución de la aportación de certificados por los ciudadanos.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2003-02-28'
 boletin: BOE
@@ -15,19 +18,19 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Administración electrónica y firmas
 tags:
-  - administraci-n-electr-nica-y-firmas
-  - gestion-economica
-  - procedimiento-administrativo
-  - rgpd
+- administraci-n-electr-nica-y-firmas
+- gestion-economica
+- procedimiento-administrativo
+- rgpd
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-l-39-2015
   fundamentos_derecho:
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-39-2015
   articulos:
-    - '1'
-    - norma_id: norm-es-1999-23750
+  - '1'
+  - norma_id: norm-es-1999-23750
 ---
 # Real Decreto 209/2003, de 21 de febrero, por el que se regulan los registros y las notificaciones telemáticas, así como la utilización de medios telemáticos para la sustitución de la aportación de certificados por los ciudadanos.
 
@@ -285,9 +288,7 @@ Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo
 
 1. La aplicación de lo dispuesto en el presente real decreto no implicará incremento del gasto público. Los gastos necesarios para la implantación de las medidas previstas en él se afrontarán con cargo a los presupuestos ordinarios de gasto de los distintos departamentos y organismos incluidos en el ámbito de aplicación.
 
-Dado en Madrid, a 21 de febrero de 2003.
-
-JUAN CARLOS R.
+Dado en Madrid, a 21 de febrero de 2003. JUAN CARLOS R.
 
 El Vicepresidente Primero del Gobierno y Ministro de la Presidencia,
 

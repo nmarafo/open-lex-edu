@@ -1,10 +1,12 @@
 ---
 id: norm-and-d-54-1989
 codigo_sintetizado: D54_1989 Ordenacion Centros Educacion Especial Andalucía
-titulo: Decreto 54/1989, de 21 de marzo, sobre ordenación de la educación especial en centros específicos de Andalucía.
+titulo: Decreto 54/1989, de 21 de marzo, sobre ordenación de la educación especial
+  en centros específicos de Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 54/1989
 fecha_disposicion: '1989-03-21'
@@ -18,17 +20,17 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Reglamentos Orgánicos de Centro
 tags:
-  - educacion_especial
-  - cee
-  - andalucia
+- educacion_especial
+- cee
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Decreto 54/1989, de 21 de marzo, sobre ordenación de la educación especial en centros específicos de Andalucía.
 
@@ -60,23 +62,15 @@ PREAMBULO
 
 Estas indemnizaciones por razón del servicio han sido reguladora fragmentariamente hasta la fecha, resultando conveniente una regulación propia y completa de dicha materia.
 
-En su virtud, a propuesta de los Consejeros de Gobernación y de Hacienda y Planificación y previa deliberación del Consejo de Gobierno, en su reunión del día 21 de Marzo de 1989.
-
-DISPONGO:
+En su virtud, a propuesta de los Consejeros de Gobernación y de Hacienda y Planificación y previa deliberación del Consejo de Gobierno, en su reunión del día 21 de Marzo de 1989. DISPONGO:
 
 ### Capítulo I. PRINCIPIOS GENERALES Y AMBITO DE APLICACION
 
-#### Artículo 1.
-
-#### Artículo 2.
-
-1.- El presente Decreto será de aplicación a:
+#### Artículo 1. #### Artículo 2. 1.- El presente Decreto será de aplicación a:
 
 a) Los titulares de cargos nombrados por Decreto.
 
-#### Artículo 3.
-
-1.- Los supuestos que dan derecho a indemnización son los siguientes:
+#### Artículo 3. 1.- Los supuestos que dan derecho a indemnización son los siguientes:
 
 - Comisiones de servicio.
 
@@ -100,9 +94,7 @@ a) Los titulares de cargos nombrados por Decreto.
 
 #### Sección 1º. NORMAS GENERALES
 
-#### Artículo 4.
-
-1.- Son comisiones de servicios los cometidos que circunstancialmente se ordenen al pesonal comprendido en los apartados a) y b) del artículo 2º.1 y que deba desempeñar fuera del lugar en el que presta ordinariamente su actividad.
+#### Artículo 4. 1.- Son comisiones de servicios los cometidos que circunstancialmente se ordenen al pesonal comprendido en los apartados a) y b) del artículo 2º.1 y que deba desempeñar fuera del lugar en el que presta ordinariamente su actividad.
 
 2.- Tendrá la consideración de comisión de servicio la asistencia a cursos de capacitación, especialización, perfeccionamiento o ampliación de estudios a los que acuda el personal a que se refiere el punto 1 anterior, cuando la asistencia se produzca fuera del lugar en el que presta ordinariamente su actividad.
 
@@ -110,15 +102,11 @@ a) Los titulares de cargos nombrados por Decreto.
 
 4.- Salvo las comisiones de servicio a que se refiere el punto 2 anterior, no darán lugar a indemnización aquellas comisiones que se realicen a petición y conveniencia de los interesados o se hallen retribuidas o indemnizadas por un importe igual o superior a la cuantía de la indemnización que resultaría por aplicación del presente Decreto, o bien mediante las llamadas "Bolsas de estudio" cuando así se ordene expresamente por el órgano competente.
 
-#### Artículo 5.
-
-1.- La designación de las comisiones de servicio que deban desempeñarse dentro y fuera del territorio de la Comunidad Autónoma de Andalucía compete a los órganos que tengan atribuida dicha competencia en cada Consejería u Organismo.
+#### Artículo 5. 1.- La designación de las comisiones de servicio que deban desempeñarse dentro y fuera del territorio de la Comunidad Autónoma de Andalucía compete a los órganos que tengan atribuida dicha competencia en cada Consejería u Organismo.
 
 2.- No será necesaria orden expresa para la realización de comisiones de servicio con derecho a indemnización por parte de los titulares de cargos que sean nombrados por Decreto.
 
-#### Artículo 6.
-
-Las ordenes de comisión de servicio se comunicarán a los interesados, siempre que sea posible, con cuarenta y ocho horas de antelación, debiéndose hacer constar en las mismas:
+#### Artículo 6. Las ordenes de comisión de servicio se comunicarán a los interesados, siempre que sea posible, con cuarenta y ocho horas de antelación, debiéndose hacer constar en las mismas:
 
 a) Nombre de la persona comisionada.
 
@@ -126,13 +114,9 @@ b) Lugar y motivo de la comisión y duración previsible de la misma.
 
 c) Indicación del medio de trasporte a utilizar y, en su caso, las autorizaciones a que se refieren los artículos 19º y 20º.
 
-#### Artículo 7.
+#### Artículo 7. Ninguna comisión de servicio podrá exceder de un año, salvo que se prorroge por el tiempo indispensable por la autoridad que la ordenó, sin que la prorroga pueda exceder, en ningún caso, de un año.
 
-Ninguna comisión de servicio podrá exceder de un año, salvo que se prorroge por el tiempo indispensable por la autoridad que la ordenó, sin que la prorroga pueda exceder, en ningún caso, de un año.
-
-#### Artículo 8.
-
-En el caso de que inicialmente se prevea que los cometidos especiales a realizar exigieran un tiempo superior a un año, se procederá a tramitar la creación del correspondiente puesto de trabajo en el departamento, organismo o entidad de que se trate, de acuerdo con la nomativa vigente. El mismo trámite deberá seguirse en el caso de que la necesidad de creación del puesto de trabajo surja durante el transcurso de la comisión de servicio.
+#### Artículo 8. En el caso de que inicialmente se prevea que los cometidos especiales a realizar exigieran un tiempo superior a un año, se procederá a tramitar la creación del correspondiente puesto de trabajo en el departamento, organismo o entidad de que se trate, de acuerdo con la nomativa vigente. El mismo trámite deberá seguirse en el caso de que la necesidad de creación del puesto de trabajo surja durante el transcurso de la comisión de servicio.
 
 #### Sección 2º. CLASE Y CUANTIAS
 
@@ -142,9 +126,7 @@ DIETAS
 
 La dieta se halla compuesta de dos factores: gastos de aljamiento y de manutención, pudiendo devengarse la mitad de estos últimos en los casos en que así proceda.
 
-#### Artículo 10.
-
-1.- El devengo de las indemnizaciones a que se refiere la presente Sección se realizará de acuerdo con las reglas que a continuación se señalan:
+#### Artículo 10. 1.- El devengo de las indemnizaciones a que se refiere la presente Sección se realizará de acuerdo con las reglas que a continuación se señalan:
 
 a) Cuando la comisión de servicio no obligue a realizar ninguna de las dos comidas principales fuera de la residencia habitual no se devengará indemnización alguna por este concepto.
 
@@ -160,55 +142,37 @@ a) Se entenderá que la comisión de servicio oliga a realizar una de las comida
 
 b) Se entenderá qué la comisión de servicio obliga a realizar las dos comidas principales cuando comience antes de las catorce horas y termine después de las veintidós horas.
 
-#### Artículo 11.
-
-1.- Las personas incluidas en el Grupo 1º del Anexo I percibirán las dietas a que tengan derecho según las cuantías que se fijan en los anexos II y III, salvo que opten por ser resarcidas por la cuantía exacta de los gastos realizados.
+#### Artículo 11. 1.- Las personas incluidas en el Grupo 1º del Anexo I percibirán las dietas a que tengan derecho según las cuantías que se fijan en los anexos II y III, salvo que opten por ser resarcidas por la cuantía exacta de los gastos realizados.
 
 Dicho régimen será aplicable, aismismo, al personal que forme parte de las delegaciones oficiales presididas por las autoridades citadas en al párrafo anterior, abonándose, en su caso, las dietas del grupo 1º de los anexos II y III.
 
 2.- El personal comprendido en el Grupo 2º del anexo I del presente Decreto percibirá las dietas a que tenga derecho según las cuantías que se fijan en los anexos II y III.
 
-#### Artículo 12.
-
-Las dietas en territorio extranjero se devengarán desde el momento en que se pase la frontera o se salga del último puerto o aeropuerto nacional y durante el recorrido y estancia en el extranjero, dejándose de percibir desde el momento de la llegada a la frontera o primer puerto o aeropueto español.
+#### Artículo 12. Las dietas en territorio extranjero se devengarán desde el momento en que se pase la frontera o se salga del último puerto o aeropuerto nacional y durante el recorrido y estancia en el extranjero, dejándose de percibir desde el momento de la llegada a la frontera o primer puerto o aeropueto español.
 
 Durante los recorridos por territorio nacional se abonarán las dietas a que se refiere el artículo 10º y que se señalan en el anexo II del presente Decreto.
 
-#### Artículo 13.
-
-1.- En las comisiones de servicio cuya duración se prevea, desde que se ordenan, superior a tres meses, el límite máximo de la dieta será igual al ochenta por ciento de las dietas enteras que corresponderían con arreglo a los artículos anteriores, desde el segundo mes de la comisión.
+#### Artículo 13. 1.- En las comisiones de servicio cuya duración se prevea, desde que se ordenan, superior a tres meses, el límite máximo de la dieta será igual al ochenta por ciento de las dietas enteras que corresponderían con arreglo a los artículos anteriores, desde el segundo mes de la comisión.
 
 2.- En los demás casos, el límite a que se refiere el punto anterior será aplicable a partir del cuarto mes de duración de la comisión de servicio.
 
 3.- La asistencia a cursos cuya duración exceda de un mes será indemnizada con el límite establecido en el punto 1 anterior.
 
-#### Artículo 14.
+#### Artículo 14. No obstante lo dispuesto en los puntos 1 y 2 del artículo anterior, el personal que, encontrándose comisionado durante más de uno o tres meses, respectivamente, tuviera que desplazarse del lugar en que preste la comisión, percibirá, durante los días que dure dicho desplazamiento, el cien por cien de las dietas que le correspondan.
 
-No obstante lo dispuesto en los puntos 1 y 2 del artículo anterior, el personal que, encontrándose comisionado durante más de uno o tres meses, respectivamente, tuviera que desplazarse del lugar en que preste la comisión, percibirá, durante los días que dure dicho desplazamiento, el cien por cien de las dietas que le correspondan.
+#### Artículo 15. Las comisiones para la realización de servicios que estén retribuidas o indemnizadas por un importe inferior a la cuantía de la dieta que resultaría por aplicación del presente Decreto, serán resarcidas por la diferencia entre dicha indemnización y el importe de la retribución mencionada.
 
-#### Artículo 15.
+#### Artículo 16. Salvo lo dispuesto en el artículo 11º.1, ningún comisionado podrá percibir dietas de grupo superior al que le corresponda aunque realice el servicio por delgación o en representación de una autoridad.
 
-Las comisiones para la realización de servicios que estén retribuidas o indemnizadas por un importe inferior a la cuantía de la dieta que resultaría por aplicación del presente Decreto, serán resarcidas por la diferencia entre dicha indemnización y el importe de la retribución mencionada.
-
-#### Artículo 16.
-
-Salvo lo dispuesto en el artículo 11º.1, ningún comisionado podrá percibir dietas de grupo superior al que le corresponda aunque realice el servicio por delgación o en representación de una autoridad.
-
-#### Artículo 17.
-
-Sin perjuicio del percibo de las dietas por manutención a que se tenga derecho, los gastos de alojamiento y los de desplazamiento podrán concertarse con carácter general por la Consejería de Hacienda y Planificación con empresas de servicios, así como directamente por las Consejerías y Organismos con dichas empresas, previo informe favorable de la Consejería de Hacienda y Planificación. En ambos supuestos, en el concierto de los gastos de alojamiento se determinará el precio por día y tipo de alojamiento, según grupos, siendo orientativas las cuantías que para tales gastos se establecen en virtud del presente Decreto.
+#### Artículo 17. Sin perjuicio del percibo de las dietas por manutención a que se tenga derecho, los gastos de alojamiento y los de desplazamiento podrán concertarse con carácter general por la Consejería de Hacienda y Planificación con empresas de servicios, así como directamente por las Consejerías y Organismos con dichas empresas, previo informe favorable de la Consejería de Hacienda y Planificación. En ambos supuestos, en el concierto de los gastos de alojamiento se determinará el precio por día y tipo de alojamiento, según grupos, siendo orientativas las cuantías que para tales gastos se establecen en virtud del presente Decreto.
 
 GASTOS DE DESPLAZAMIENTO
 
-#### Artículo 18.
-
-1.- Toda comisión de servicio dará derecho a viajar por cuenta de la Administración en el medio de transporte que se determine al autorizar la misma.
+#### Artículo 18. 1.- Toda comisión de servicio dará derecho a viajar por cuenta de la Administración en el medio de transporte que se determine al autorizar la misma.
 
 2.- Los desplazamientos se realizarán, preferentemente, en líneas regulares de transportes públicos.
 
-#### Artículo 19.
-
-1.- Los titulares de los cargos a que se refiere el Grupo 1º del Anexo I y quienes formen parte de delegaciones oficiales presididas por dichas autoridades, serán resarcidos en la cuantía exacta de los gastos realizados.
+#### Artículo 19. 1.- Los titulares de los cargos a que se refiere el Grupo 1º del Anexo I y quienes formen parte de delegaciones oficiales presididas por dichas autoridades, serán resarcidos en la cuantía exacta de los gastos realizados.
 
 2.- El personal comprendido en el Grupo 2º del Anexo I será indemnizado:
 
@@ -246,11 +210,7 @@ La indemnización, en estos casos, se abonará por el importe exacto del gasto r
 
 ### Capítulo III. DESPLAZAMIENTO DENTRO DEL TERMINO MUNICIPAL POR RAZON DEL SERVICIO.
 
-#### Artículo 21.
-
-#### Artículo 22.
-
-1.- Los desplazamientos dentro del término municipal por razón del servicio se efectuaran en medios de transporte público colectivo, salvo que el titular del Centro en que se preste servicio autorice otro medio de transporte, dentro de las disponibilidades presupuestarias.
+#### Artículo 21. #### Artículo 22. 1.- Los desplazamientos dentro del término municipal por razón del servicio se efectuaran en medios de transporte público colectivo, salvo que el titular del Centro en que se preste servicio autorice otro medio de transporte, dentro de las disponibilidades presupuestarias.
 
 2.- En el caso de autorizarse el uso de vehículos particulares u otros medios especiales de transporte, la cuantía de las indemnizaciones será la establecida para tales supuestos en los puntos 3 y 8 del artículo 20º.
 
@@ -266,9 +226,7 @@ c) El traslado de la sede oficial así como la supresión de unidades, dependenc
 
 d) El fallecimiento de quienes desempeñen los cargos, cuando se realice el traslado de los familiares a que se refiere el artículo 26º, hasta la población que señalen, dentro del territorio nacional, por una sola vez.
 
-#### Artículo 24.
-
-1.- Para el personal incluido en el apartado b) del artículo 2º.1 de este Decreto tendrán la consideración de traslados de residencia, a efectos de indemnización, los supuestos que a continuación se señalan:
+#### Artículo 24. 1.- Para el personal incluido en el apartado b) del artículo 2º.1 de este Decreto tendrán la consideración de traslados de residencia, a efectos de indemnización, los supuestos que a continuación se señalan:
 
 a) El nombramiento o destino para puestos de trabajo conferidos por las autoridades correspondientes sin que preceda petición de los interesados , cuando con dicho motivo hayan de trasladar de población su domicilio familiar.
 
@@ -282,17 +240,13 @@ d0 El fallecimiento encontrándose en activo, cuando se realice el traslado de l
 
 #### Sección 2º. CLASE Y CUANTIAS
 
-#### Artículo 25.
-
-1.- En los supuestos contemplados en los apartados a) y b) del artículo
+#### Artículo 25. 1.- En los supuestos contemplados en los apartados a) y b) del artículo
 
 23º, los titulares de cargos a que dicho precepto se refiere percibirán una indemnización equivalente al diez por ciento de las retribuciones íntegradas anuales que les correspondan por el cargo.
 
 2.- En los supuestos contemplados en los apartados c) y d) del citado artículo, la indemnización por traslado ser percibirá de acuerdo con lo dipuesto en el artículo siguiente.
 
-#### Artículo 26.
-
-En los supuestos contemplados en el artículo 24º, el personal a que el mismo se refiere, en caso de traslado de residencia indemnizable, tendrá derecho:
+#### Artículo 26. En los supuestos contemplados en el artículo 24º, el personal a que el mismo se refiere, en caso de traslado de residencia indemnizable, tendrá derecho:
 
 a) Al abono de los gastos de desplazamiento, los de su cónyuge e hijos que vonvivan con él y a sus expensas. A estos efectos, se estará a los artículos 19º y 20º del presente Decreto.
 
@@ -306,17 +260,11 @@ c) Al transporte de mobiliario y enseres, con los siguientes límites:
 
 - En cuanto a la distancia entre las localidades de origen y destino, la misma será fijada de acuerdo con la que figure en el Mapa Oficial de Carreteras editado por el Ministerio de Obras Públicas y Urbanismo.
 
-#### Artículo 27.
+#### Artículo 27. A los efectos previstos en el artículo anterior se entenderá que viven a expensas de quien devengue las indemnizaciones por traslado, los familiares que no perciban ingresos superiores al salario mínimo interprofesional de los trabajadores adultos.
 
-A los efectos previstos en el artículo anterior se entenderá que viven a expensas de quien devengue las indemnizaciones por traslado, los familiares que no perciban ingresos superiores al salario mínimo interprofesional de los trabajadores adultos.
+#### Artículo 28. En el caso de que dos cónyuges hayan recibido orden de traslado, las indemnizaciones devengadas por dicho motivo sólo podrá percibirlas uno de ellos.
 
-#### Artículo 28.
-
-En el caso de que dos cónyuges hayan recibido orden de traslado, las indemnizaciones devengadas por dicho motivo sólo podrá percibirlas uno de ellos.
-
-#### Artículo 29.
-
-El derecho a las indemnizaciones previstas en los artículos 25º y 26º caducará al transcurrir un año desde la fecha en que se devenguen, pudiendo concederse por las autoridades respectivas, a instancia de los interesados, prórrogas semestrales por un plazo no superior a otros dos años, cuando existieran dificultades para el traslado del hogar.
+#### Artículo 29. El derecho a las indemnizaciones previstas en los artículos 25º y 26º caducará al transcurrir un año desde la fecha en que se devenguen, pudiendo concederse por las autoridades respectivas, a instancia de los interesados, prórrogas semestrales por un plazo no superior a otros dos años, cuando existieran dificultades para el traslado del hogar.
 
 ### Capítulo V. ASISTENCIAS
 
@@ -328,9 +276,7 @@ El derecho a las indemnizaciones previstas en los artículos 25º y 26º caducar
 
 #### Sección 2º. CLASES Y CUANTIAS
 
-#### Artículo 31.
-
-1.- Sólo se abonarán asistencias por la concurrencia a reuniones de órganos colegiados de la Administración cuando así se autorice por la Consejería de Hacienda y Planificación, previo informe de la Consejería de Gobernación, o venga dispuesto en normas de rango superior.
+#### Artículo 31. 1.- Sólo se abonarán asistencias por la concurrencia a reuniones de órganos colegiados de la Administración cuando así se autorice por la Consejería de Hacienda y Planificación, previo informe de la Consejería de Gobernación, o venga dispuesto en normas de rango superior.
 
 2.- A estos efectos, la autorización a que se refiere el punto anterior asignará el órgano colegiado de que se trate a alguno de los grupos que se señalan en el Anexo IV de este Decreto.
 
@@ -338,9 +284,7 @@ El derecho a las indemnizaciones previstas en los artículos 25º y 26º caducar
 
 5.- Sólo se percibirán asistencias cuando se haya producido la concurrencia efectiva del interesado a la sesión del órgano colegiado de que se trate.
 
-#### Artículo 32.
-
-1.- Se abonarán asistencias por la concurrencia a sesiones de tribunales y órganos encargados de la selección de personal o de pruebas cuya superación sea necesaria para el ejercicio de profesiones o para la realización de actividades.
+#### Artículo 32. 1.- Se abonarán asistencias por la concurrencia a sesiones de tribunales y órganos encargados de la selección de personal o de pruebas cuya superación sea necesaria para el ejercicio de profesiones o para la realización de actividades.
 
 2.- La autoridad que haya de realizar la convocatoria solicitará, previamente, de la Consejería de Hacienda y Planificación, autorización para el devengo de asistencias en el órgano de selección de que se trate. En la autorización, que se concederá previo informe de la Consejería de Gobernación en el plazo de diez días, se fijará, asimismo, el grupo en el que quedará clasificado el órgano, de entre los que se establecen en el Anexo V.
 
@@ -350,35 +294,25 @@ Categoria primera: Acceso a Cuerpos o Escalas del Grupo A. Categoría segunda: A
 
 En ningún caso podrá devengarse más de una asistencia diaria.
 
-#### Artículo 33.
-
-2.- Las remuneraciones a percibir se ajustarán a los baremos que, al efecto, aprueben los órganos responsables de tales actividades, previo informe de la Consejería de Hacienda y Planificación.
+#### Artículo 33. 2.- Las remuneraciones a percibir se ajustarán a los baremos que, al efecto, aprueben los órganos responsables de tales actividades, previo informe de la Consejería de Hacienda y Planificación.
 
 3.- En ningún caso se podrá percibir por el conjunto de las asistencias a que se refiere el presnte artículo un importe anual superior al 10 por
 
 100 de las retribuciones íntegras anuales del perceptor por su puesto de trabajo principal.
 
-#### Artículo 34.
-
-La percepción de las asistencias en esta Sección será compatible con las dietas y gastos de desplazamiento que, en su caso, pudieran corresponder.
+#### Artículo 34. La percepción de las asistencias en esta Sección será compatible con las dietas y gastos de desplazamiento que, en su caso, pudieran corresponder.
 
 ### Capítulo VI. ANTICIPOS, JUSTIFICACION Y LIQUIDACION
 
 #### Sección 1º. ANTICIPOS artículo 35 El importe de las indemnizaciones que se devenguen con ocación de las comisiones de servicio y de los traslados de residencia podrá ser anticipado en las condiciones que se señalan en los artículos siguientes.
 
-#### Artículo 36.
-
-La autoridad que ordena la comisión de servicio autorizará, previa solicitud del interesado, el abono de un anticipo de las indemnizaciones que correspondan por la realización de la misma.
+#### Artículo 36. La autoridad que ordena la comisión de servicio autorizará, previa solicitud del interesado, el abono de un anticipo de las indemnizaciones que correspondan por la realización de la misma.
 
 A tal efecto, en la propia orden de comisión se fijará la cuantía del anticipo que, en ningún caso, podrá superar el ochenta por ciento del importe estimado de la indemnización por dietas y gastos de desplazamiento.
 
-#### Artículo 37.
+#### Artículo 37. La indemnización a que se refiere el artículo 13º podrá ser percibida periódicamente, por mensualidades anticipadas, cuando así lo solicite el interesado.
 
-La indemnización a que se refiere el artículo 13º podrá ser percibida periódicamente, por mensualidades anticipadas, cuando así lo solicite el interesado.
-
-#### Artículo 38.
-
-En los supuestos contemplados en el apartado c) del artículo 23º y en los apartados a), b) y c) del artículo 24º.1, el personal con derecho a indemnización percibirá, previa solicitud, un anticipo no superior al ochenta por ciento del importe estimado de la misma.
+#### Artículo 38. En los supuestos contemplados en el apartado c) del artículo 23º y en los apartados a), b) y c) del artículo 24º.1, el personal con derecho a indemnización percibirá, previa solicitud, un anticipo no superior al ochenta por ciento del importe estimado de la misma.
 
 Para la determinación de dicho importe se procederá como sigue:
 
@@ -404,17 +338,13 @@ e) En el caso de asistencia a cursos deberá aportarse, además, certificación 
 
 la justificación de las indemnizaciones previstas en el artículo 13º se efectuará mediante certificación de la autoridad que ordenó la comisión, acreditativa de haberse realizado la misma.
 
-#### Artículo 41.
-
-La justificación de las indemnizaciones por traslado se realizará del modo siguiente:
+#### Artículo 41. La justificación de las indemnizaciones por traslado se realizará del modo siguiente:
 
 a) En los supuestos de los apartados a) y b) del artículo 23º, deberá aportar el interesado justificación suficiente de haber efectuado el traslado efectivo del domicilio familiar. En el supuesto del apartado b) se deberá acreditar, además, mediante certificación del órgano correspondiente, que el interesado no tiene derecho a la percepción de indemnización por traslado en su nuevo destino.
 
 b) En los supuestos previstos en los apartados c) y d) del artículo 23º y en el artículo 24º deberán acompañarse facturas originales de las cantidades invertidas en gastos de desplazamiento y en el traslado de mobiliario y enseres. Asimismo, se justificará, mediante los documentos que en cada caso procedan, el número de familiares que efectivamente se hayan trasladado, a efectos de lo dispuesto en los apartados a) y b) del artículo 26º.
 
-#### Artículo 42.
-
-La justificación de las asistencias se realizará mediante certificación expedida por el órgano competente del consejo, comisión o tribunal de que se trate, acreditativa de la asistencia del interesado a la sesión correspondiente, con indicación de las horas de comienzo y terminación de la misma.
+#### Artículo 42. La justificación de las asistencias se realizará mediante certificación expedida por el órgano competente del consejo, comisión o tribunal de que se trate, acreditativa de la asistencia del interesado a la sesión correspondiente, con indicación de las horas de comienzo y terminación de la misma.
 
 También podrá justificarse esta indemnización con copia del acta de la sesión cuya indemnización por asistencia se solicite.
 

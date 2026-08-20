@@ -1,7 +1,8 @@
 ---
 id: norm-es-l-19-2013
 codigo_sintetizado: L19_2013 Transparencia y Buen Gobierno
-titulo: Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.
+titulo: Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información
+  pública y buen gobierno.
 jurisdiccion: España
 ambito: Estatal
 organo_emisor: Jefatura del Estado / Cortes Generales
@@ -18,43 +19,37 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Empleados públicos
 tags:
-  - acceso-informacion
-  - admision-alumnado
-  - buen-gobierno
-  - empleados-p-blicos
-  - oposiciones
-  - proteccion-menores
-  - rgpd
-  - titulacion
-  - transparencia
+- acceso-informacion
+- admision-alumnado
+- buen-gobierno
+- empleados-p-blicos
+- oposiciones
+- proteccion-menores
+- rgpd
+- titulacion
+- transparencia
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-1985-5392
-    - norma_id: norm-es-1999-23750
-    - norma_id: norm-es-2007-19814
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-1985-5392
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2007-19814
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-3-2018
   fundamento_de:
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-l-9-2017
-    - norma_id: norm-es-lo-3-2018
-    - norma_id: norm-can-o-2023-09-28
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-l-9-2017
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-can-o-2023-09-28
   desarrollado_por: []
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - 105.b
-    - norma_id: norm-es-l-39-2015
-  articulos:
-    - '1'
-    - norma_id: norm-es-lo-3-2018
-  articulos:
-    - '1'
-    - norma_id: norm-es-2007-19814
-    - norma_id: norm-es-1985-5392
-    - norma_id: norm-es-1999-23750
+  - '1'
+  - norma_id: norm-es-2007-19814
+  - norma_id: norm-es-1985-5392
+  - norma_id: norm-es-1999-23750
 ---
 # Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.
 
@@ -532,15 +527,11 @@ e) Que sean manifiestamente repetitivas o tengan un carácter abusivo no justifi
 
 Este plazo podrá ampliarse por otro mes en el caso de que el volumen o la complejidad de la información que se solicita así lo hagan necesario y previa notificación al solicitante.
 
-2. Serán motivadas las resoluciones que denieguen el acceso, las que concedan el acceso parcial o a través de una modalidad distinta a la solicitada y las que permitan el acceso cuando haya habido oposición de un tercero. En este último supuesto, se indicará expresamente al interesado que el acceso sólo tendrá lugar cuando haya transcurrido el plazo del artículo 22.2.
-
-3. Cuando la mera indicación de la existencia o no de la información supusiera la vulneración de alguno de los límites al acceso se indicará esta circunstancia al desestimarse la solicitud.
+2. Serán motivadas las resoluciones que denieguen el acceso, las que concedan el acceso parcial o a través de una modalidad distinta a la solicitada y las que permitan el acceso cuando haya habido oposición de un tercero. En este último supuesto, se indicará expresamente al interesado que el acceso sólo tendrá lugar cuando haya transcurrido el plazo del artículo 22.2. 3. Cuando la mera indicación de la existencia o no de la información supusiera la vulneración de alguno de los límites al acceso se indicará esta circunstancia al desestimarse la solicitud.
 
 4. Transcurrido el plazo máximo para resolver sin que se haya dictado y notificado resolución expresa se entenderá que la solicitud ha sido desestimada.
 
-5. Las resoluciones dictadas en materia de acceso a la información pública son recurribles directamente ante la Jurisdicción Contencioso-administrativa, sin perjuicio de la posibilidad de interposición de la reclamación potestativa prevista en el artículo 24.
-
-6. El incumplimiento reiterado de la obligación de resolver en plazo tendrá la consideración de infracción grave a los efectos de la aplicación a sus responsables del régimen disciplinario previsto en la correspondiente normativa reguladora.
+5. Las resoluciones dictadas en materia de acceso a la información pública son recurribles directamente ante la Jurisdicción Contencioso-administrativa, sin perjuicio de la posibilidad de interposición de la reclamación potestativa prevista en el artículo 24. 6. El incumplimiento reiterado de la obligación de resolver en plazo tendrá la consideración de infracción grave a los efectos de la aplicación a sus responsables del régimen disciplinario previsto en la correspondiente normativa reguladora.
 
 #### Artículo 21. Unidades de información.
 
@@ -1082,9 +1073,7 @@ Ninguna de estas categorías incluirá empleados públicos de niveles intermedio
 
 2. En relación con los clientes o titulares reales que desempeñen o hayan desempeñado funciones públicas importantes por elección, nombramiento o investidura en otros Estados miembros de la Unión Europea o en un país tercero, los sujetos obligados, además de las medidas normales de diligencia debida, deberán en todo caso:
 
-a) Aplicar procedimientos adecuados de gestión del riesgo a fin de determinar si el cliente o el titular real es una persona con responsabilidad pública. Dichos procedimientos se incluirán en la política expresa de admisión de clientes a que se refiere el artículo 26.1.
-
-b) Obtener la autorización del inmediato nivel directivo, como mínimo, para establecer o mantener relaciones de negocios.
+a) Aplicar procedimientos adecuados de gestión del riesgo a fin de determinar si el cliente o el titular real es una persona con responsabilidad pública. Dichos procedimientos se incluirán en la política expresa de admisión de clientes a que se refiere el artículo 26.1. b) Obtener la autorización del inmediato nivel directivo, como mínimo, para establecer o mantener relaciones de negocios.
 
 c) Adoptar medidas adecuadas a fin de determinar el origen del patrimonio y de los fondos.
 
@@ -1112,9 +1101,7 @@ b) Realizar un escrutinio reforzado de la entera relación de negocios con el ti
 
 c) Realizar el examen especial previsto en el artículo 17 a efectos.
 
-de determinar si procede la comunicación por indicio de conformidad con el artículo 18.
-
-6. Sin perjuicio del cumplimiento de lo establecido en los apartados anteriores, cuando, por concurrir las circunstancias previstas en el artículo 17, proceda el examen especial, los sujetos obligados adoptarán las medidas adecuadas para apreciar la eventual participación en el hecho u operación de quien ostente o haya ostentado en España la condición de cargo público representativo o alto cargo de las Administraciones Públicas, o de sus familiares o allegados.
+de determinar si procede la comunicación por indicio de conformidad con el artículo 18. 6. Sin perjuicio del cumplimiento de lo establecido en los apartados anteriores, cuando, por concurrir las circunstancias previstas en el artículo 17, proceda el examen especial, los sujetos obligados adoptarán las medidas adecuadas para apreciar la eventual participación en el hecho u operación de quien ostente o haya ostentado en España la condición de cargo público representativo o alto cargo de las Administraciones Públicas, o de sus familiares o allegados.
 
 7. Sin perjuicio de lo dispuesto en el artículo 11, cuando las personas contempladas en los apartados precedentes hayan dejado de desempeñar sus funciones, los sujetos obligados continuarán aplicando las medidas previstas en este artículo por un periodo de dos años.»
 
@@ -1184,9 +1171,7 @@ Por tanto,
 
 Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
 
-[ignorar]Madrid, 9 de diciembre de 2013.
-
-JUAN CARLOS R.
+[ignorar]Madrid, 9 de diciembre de 2013. JUAN CARLOS R.
 
 El Presidente del Gobierno,
 

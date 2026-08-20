@@ -1,10 +1,12 @@
 ---
 id: norm-es-2002-12018
 codigo_sintetizado: BOE-A-2002-12018
-titulo: Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
+titulo: Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación
+  Profesional.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2002-06-20'
 boletin: BOE
@@ -15,46 +17,43 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-  - convivencia
-  - convivencia-escolar
-  - evaluacion
-  - formacion-profesional
-  - orientacion-educativa
+- convivencia
+- convivencia-escolar
+- evaluacion
+- formacion-profesional
+- orientacion-educativa
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-l-31-1995
-    - norma_id: norm-es-l-53-1984
-    - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-31-1995
+  - norma_id: norm-es-l-53-1984
+  - norma_id: norm-es-lo-8-1985
   fundamento_de:
-    - norma_id: norm-es-2005-21534
-    - norma_id: norm-es-2007-19326
-    - norma_id: norm-es-2010-13564
-    - norma_id: norm-es-2011-12632
-    - norma_id: norm-es-2013-10219
-    - norma_id: norm-es-2014-5591
-    - norma_id: norm-es-2015-9462
-    - norma_id: norm-es-2022-1274
-    - norma_id: norm-es-2025-2039
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-3-2022
-    - norma_id: norm-es-rd-217-2022
-    - norma_id: norm-es-rd-659-2023
-    - norma_id: norm-es-rdl-2-2015
-    - norma_id: norm-can-res-boc-2026-039-103
-    - norma_id: norm-can-res-boc-2019-143-74
+  - norma_id: norm-es-2005-21534
+  - norma_id: norm-es-2007-19326
+  - norma_id: norm-es-2010-13564
+  - norma_id: norm-es-2011-12632
+  - norma_id: norm-es-2013-10219
+  - norma_id: norm-es-2014-5591
+  - norma_id: norm-es-2015-9462
+  - norma_id: norm-es-2022-1274
+  - norma_id: norm-es-2025-2039
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-217-2022
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-rdl-2-2015
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-can-res-boc-2019-143-74
   desarrollado_por: []
   fundamentos_derecho:
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-ce-1978
   articulos:
-    - '27'
-    - norma_id: norm-es-l-31-1995
-  articulos:
-    - '1'
-    - norma_id: norm-es-l-53-1984
-    - norma_id: norm-es-2001-7022
-    - norma_id: norm-es-lo-8-1985
+  - '1'
+  - norma_id: norm-es-l-53-1984
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-lo-8-1985
 ---
 # Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
 
@@ -322,17 +321,13 @@ El Gobierno, previa consulta al Consejo General de la Formación Profesional, fi
 
 El apartado 1 del artículo 1, los artículos 2 a 5, los apartados 3 y 4 del artículo 6, los artículos 7 a 9, el apartado 1 del artículo 10 y el.
 
-apartado 6 del artículo 11.
-
-La disposición adicional tercera.
+apartado 6 del artículo 11. La disposición adicional tercera.
 
 Igualmente, al amparo de lo establecido en el artículo 149.1.1.a y 30.a de la Constitución y en lo que se refiere a la regulación de la formación profesional en el ámbito del Sistema Educativo, son normas básicas de la presente Ley las siguientes:
 
 Los apartados 2 y 3 del artículo 1, los apartados 1 y 2 del artículo 6, los apartados 2 a 7 del artículo 10, los apartados 1 a 5 y 7 del artículo 11 y los.
 
-artículos 12 a 17.
-
-Las disposiciones adicionales primera y segunda.
+artículos 12 a 17. Las disposiciones adicionales primera y segunda.
 
 3. Al amparo de lo establecido en el artículo 149.1.7.a, es competencia exclusiva del Estado el desarrollo de la presente Ley en todo aquello que no se refiera a la regulación de la formación profesional en el ámbito del Sistema Educativo, sin perjuicio de su ejecución por los órganos de las Comunidades Autónomas.
 
@@ -350,9 +345,7 @@ Se habilita al Gobierno a fin de que dicte, previa consulta al Consejo General d
 
 Por tanto, Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley Orgánica.
 
-Madrid, 19 de junio de 2002.
-
-JUAN CARLOS R.
+Madrid, 19 de junio de 2002. JUAN CARLOS R.
 
 El Presidente del Gobierno,
 

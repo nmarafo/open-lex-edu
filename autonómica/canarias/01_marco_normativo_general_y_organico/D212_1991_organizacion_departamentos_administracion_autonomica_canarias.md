@@ -1,7 +1,8 @@
 ---
 id: norm-can-d-212-1991
 codigo_sintetizado: Decreto BOC 212/1991
-titulo: Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias (BOC n.º 122, de 16 de septiembre).
+titulo: Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos
+  de la Administración Autonómica de Canarias (BOC n.º 122, de 16 de septiembre).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Presidencia del Gobierno
@@ -16,61 +17,61 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Marco normativo general
 tags:
-  - funcion-publica
-  - marco-normativo-general
-  - organizacion-administrativa
+- funcion-publica
+- marco-normativo-general
+- organizacion-administrativa
 relaciones:
   fundamento_de:
-    - norma_id: norm-can-d-135-2016
-    - norma_id: norm-can-d-82-1994
-    - norma_id: norm-can-d-84-2024
-    - norma_id: norm-can-res-028
-    - norma_id: norm-can-res-035
-    - norma_id: norm-can-res-037
-    - norma_id: norm-can-res-038
-    - norma_id: norm-can-res-040
-    - norma_id: norm-can-res-053
-    - norma_id: norm-can-res-059
-    - norma_id: norm-can-res-063
-    - norma_id: norm-can-res-095
-    - norma_id: norm-can-res-096
-    - norma_id: norm-can-res-112
-    - norma_id: norm-can-res-119
-    - norma_id: norm-can-res-boc-1996-057-140
-    - norma_id: norm-can-res-boc-2011-099-72
-    - norma_id: norm-can-res-boc-2017-020-2
-    - norma_id: norm-can-res-boc-2017-036-75
-    - norma_id: norm-can-res-boc-2017-061-4
-    - norma_id: norm-can-res-boc-2017-220-70
-    - norma_id: norm-can-res-boc-2018-048-56
-    - norma_id: norm-can-res-boc-2018-124-126
-    - norma_id: norm-can-res-boc-2019-069-48
-    - norma_id: norm-can-res-boc-2019-143-74
-    - norma_id: norm-can-res-boc-2019-234-52
-    - norma_id: norm-can-res-boc-2023-085-51
-    - norma_id: norm-can-res-boc-2023-133-57
-    - norma_id: norm-can-res-boc-2025-061-106
-    - norma_id: norm-can-res-boc-2026-046-139
-    - norma_id: norm-can-res-boc-2026-070-41
-    - norma_id: norm-can-res-boc-2026-073-113
-    - norma_id: norm-can-res-boc-2026-077-49
-    - norma_id: norm-can-res-boc-2026-077-62
-    - norma_id: norm-can-res-boc-2026-132-101
-    - norma_id: norm-can-res-boc-2026-141-29
-    - norma_id: norm-can-res-juriscan-64838-121
-    - norma_id: norm-can-res-juriscan-65631-68
-    - norma_id: norm-can-res-juriscan-65632-66
-    - norma_id: norm-can-res-juriscan-71394-16
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-d-82-1994
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-res-028
+  - norma_id: norm-can-res-035
+  - norma_id: norm-can-res-037
+  - norma_id: norm-can-res-038
+  - norma_id: norm-can-res-040
+  - norma_id: norm-can-res-053
+  - norma_id: norm-can-res-059
+  - norma_id: norm-can-res-063
+  - norma_id: norm-can-res-095
+  - norma_id: norm-can-res-096
+  - norma_id: norm-can-res-112
+  - norma_id: norm-can-res-119
+  - norma_id: norm-can-res-boc-1996-057-140
+  - norma_id: norm-can-res-boc-2011-099-72
+  - norma_id: norm-can-res-boc-2017-020-2
+  - norma_id: norm-can-res-boc-2017-036-75
+  - norma_id: norm-can-res-boc-2017-061-4
+  - norma_id: norm-can-res-boc-2017-220-70
+  - norma_id: norm-can-res-boc-2018-048-56
+  - norma_id: norm-can-res-boc-2018-124-126
+  - norma_id: norm-can-res-boc-2019-069-48
+  - norma_id: norm-can-res-boc-2019-143-74
+  - norma_id: norm-can-res-boc-2019-234-52
+  - norma_id: norm-can-res-boc-2023-085-51
+  - norma_id: norm-can-res-boc-2023-133-57
+  - norma_id: norm-can-res-boc-2025-061-106
+  - norma_id: norm-can-res-boc-2026-046-139
+  - norma_id: norm-can-res-boc-2026-070-41
+  - norma_id: norm-can-res-boc-2026-073-113
+  - norma_id: norm-can-res-boc-2026-077-49
+  - norma_id: norm-can-res-boc-2026-077-62
+  - norma_id: norm-can-res-boc-2026-132-101
+  - norma_id: norm-can-res-boc-2026-141-29
+  - norma_id: norm-can-res-juriscan-64838-121
+  - norma_id: norm-can-res-juriscan-65631-68
+  - norma_id: norm-can-res-juriscan-65632-66
+  - norma_id: norm-can-res-juriscan-71394-16
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-can-l-6-2014
   fundamentos_derecho:
-    - norma_id: norm-can-l-1-1983
+  - norma_id: norm-can-l-1-1983
 ---
 # Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias (BOC n.º 122, de 16 de septiembre).
 
@@ -257,9 +258,7 @@ Los directores generales son nombrados y cesados por Decreto del Gobierno a prop
 
 3. Las direcciones generales son órganos de contratación, con todas las facultades inherentes, hasta un límite de veinte millones de pesetas, en cuanto sea necesario para la consecución de los intereses públicos que tienen confiados.
 
-4. Respecto del personal de las unidades que tengan adscritas directamente, y sin perjuicio del orden competencial establecido en la Ley de la función pública canaria, las direcciones generales ostentan las competencias asignadas a las secretarías generales técnicas por el artículo 15.7.
-
-#### Artículo 20. Recursos administrativos.
+4. Respecto del personal de las unidades que tengan adscritas directamente, y sin perjuicio del orden competencial establecido en la Ley de la función pública canaria, las direcciones generales ostentan las competencias asignadas a las secretarías generales técnicas por el artículo 15.7. #### Artículo 20. Recursos administrativos.
 
 1. Contra los actos administrativos que dicten los directores generales cabe recurso de alzada ante la viceconsejería a que estén adscritos o, en su defecto, ante el Consejero en los términos previstos en el procedimiento administrativo común.
 
@@ -307,9 +306,7 @@ Los directores territoriales son nombrados por el titular del Departamento de en
 
 1. Las jefaturas de servicio, sección y negociado son cubiertas de entre funcionarios de carrera, en los términos que precise la correspondiente relación de puestos de trabajo, mediante los procedimientos de concurso de méritos o libre designación con convocatoria pública regulados por la Ley de la función pública canaria.
 
-2. De acuerdo con las relaciones de puestos de trabajo, podrán establecerse unidades equiparadas a los servicios, secciones y negociados para ser desempeñadas por personal laboral, en los términos del artículo 67 de la Ley de la función pública canaria y con los límites de su apartado 2.
-
-#### Artículo 27. Competencias de los jefes de servicio y unidades asimiladas.
+2. De acuerdo con las relaciones de puestos de trabajo, podrán establecerse unidades equiparadas a los servicios, secciones y negociados para ser desempeñadas por personal laboral, en los términos del artículo 67 de la Ley de la función pública canaria y con los límites de su apartado 2. #### Artículo 27. Competencias de los jefes de servicio y unidades asimiladas.
 
 1. Corresponde a los jefes de servicio:
 a) **Propuestas de resolución.** Instruir y formular la propuesta de resolución en aquellos procedimientos en que deban resolver los órganos departamentales a que estén adscritos.

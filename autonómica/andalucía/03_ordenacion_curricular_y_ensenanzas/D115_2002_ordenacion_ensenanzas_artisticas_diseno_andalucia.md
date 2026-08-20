@@ -1,10 +1,12 @@
 ---
 id: norm-and-d-115-2002
 codigo_sintetizado: D115_2002 Ordenacion Artes Plasticas y Diseño Andalucía
-titulo: Decreto 115/2002, de 19 de marzo, por el que se regulan los estudios de Artes Plásticas y Diseño en Andalucía.
+titulo: Decreto 115/2002, de 19 de marzo, por el que se regulan los estudios de Artes
+  Plásticas y Diseño en Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 115/2002
 fecha_disposicion: '2002-03-19'
@@ -18,17 +20,17 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Artísticas
 tags:
-  - artes_plasticas
-  - diseño
-  - escuelas_arte
-  - andalucia
+- artes_plasticas
+- diseño
+- escuelas_arte
+- andalucia
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-and-l17-2007
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Decreto 115/2002, de 19 de marzo, por el que se regulan los estudios de Artes Plásticas y Diseño en Andalucía.
 
@@ -39,9 +41,7 @@ DISPONGO:
 
 #### Artículo 1. Objeto y financiación.
 
-1. La presente Orden tiene por objeto aprobar las bases reguladoras y la convocatoria de subvenciones en el ámbito de las competencias de la Dirección General de Coordinación de Políticas Migratorias para el año 2002.
-
-2. Se regulará por el Titulo VIII de la Ley General de la Hacienda Pública de la Comunidad Autónoma de Andalucía, por el Decreto 254/2001, de 20 de noviembre, por el que se aprueba el Reglamento por el que se regulan los procedimientos para la concesión de subvenciones y ayudas públicas por la Administración de la Junta de Andalucía y sus Organismos Autónomos y su régimen jurídico y por estas bases reguladoras.
+1. La presente Orden tiene por objeto aprobar las bases reguladoras y la convocatoria de subvenciones en el ámbito de las competencias de la Dirección General de Coordinación de Políticas Migratorias para el año 2002. 2. Se regulará por el Titulo VIII de la Ley General de la Hacienda Pública de la Comunidad Autónoma de Andalucía, por el Decreto 254/2001, de 20 de noviembre, por el que se aprueba el Reglamento por el que se regulan los procedimientos para la concesión de subvenciones y ayudas públicas por la Administración de la Junta de Andalucía y sus Organismos Autónomos y su régimen jurídico y por estas bases reguladoras.
 
 3. El procedimiento de concesión de subvenciones será en régimen de concurrencia competitiva, conforme al artículo 9 l.
 
@@ -163,9 +163,7 @@ Las subvenciones concedidas serán publicadas trimestralmente en el Boletín Ofi
 
 1. El abono de las subvenciones se efectuará mediante transferencia bancaria a la cuenta que al efecto se señale en la solicitud, que deberá obrar a nombre de la Entidad beneficiaria de la subvención.
 
-2. Las subvenciones concedidas se abonarán a los beneficiarios, sin justificación previa y de una sola vez, conforme a lo establecido en el artículo 18.9a de la Ley 14/2001, de 26 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para el año 2002.
-
-3. No podrá proponerse el pago de subvenciones a beneficiarios que no hayan justificado en tiempo y forma subvenciones concedidas con anterioridad, con cargo al mismo programa presupuestario, conforme a lo dispuesto en el artículo 18.2 de la Ley anteriormente citada.
+2. Las subvenciones concedidas se abonarán a los beneficiarios, sin justificación previa y de una sola vez, conforme a lo establecido en el artículo 18.9a de la Ley 14/2001, de 26 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para el año 2002. 3. No podrá proponerse el pago de subvenciones a beneficiarios que no hayan justificado en tiempo y forma subvenciones concedidas con anterioridad, con cargo al mismo programa presupuestario, conforme a lo dispuesto en el artículo 18.2 de la Ley anteriormente citada.
 
 4. Los expedientes de gasto de las subvenciones concedidas al amparo de la presente Orden serán sometidos a fiscalización previa.
 

@@ -1,10 +1,13 @@
 ---
 id: norm-es-1979-29491
 codigo_sintetizado: BOE-A-1979-29491
-titulo: Instrumento de Ratificación del Acuerdo entre el Estado español y la Santa Sede sobre Enseñanza y Asuntos Culturales, firmado en la Ciudad del Vaticano el 3 de enero de 1979.
+titulo: Instrumento de Ratificación del Acuerdo entre el Estado español y la Santa
+  Sede sobre Enseñanza y Asuntos Culturales, firmado en la Ciudad del Vaticano el
+  3 de enero de 1979.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1979-12-15'
 boletin: BOE
@@ -15,24 +18,19 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Profesorado de religión
 tags:
-  - convivencia-escolar
-  - profesorado
-  - profesorado-de-religi-n
+- convivencia-escolar
+- profesorado
+- profesorado-de-religi-n
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
   fundamentos_derecho:
-    - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rd-276-2007
   articulos:
-    - '1'
-    - norma_id: norm-es-rdl-5-2015
-  articulos:
-    - '1'
+  - '1'
 ---
-# Instrumento de Ratificación del Acuerdo entre el Estado español y la Santa Sede sobre Enseñanza y Asuntos Culturales, firmado en la Ciudad del Vaticano el 3 de enero de 1979.
-
-## Preámbulo
+# Instrumento de Ratificación del Acuerdo entre el Estado español y la Santa Sede sobre Enseñanza y Asuntos Culturales, firmado en la Ciudad del Vaticano el 3 de enero de 1979. ## Preámbulo
 
 Por cuanto el día 3 de enero de 1979 el Plenipotenciario de España firmó en la Ciudad del Vaticano, juntamente con el Plenipotenciario de la Santa Sede, ambos nombrados en buena y debida forma al efecto, el Acuerdo entre el Estado español y la Santa Sede sobre Enseñanza y Asuntos Culturales.
 
@@ -128,9 +126,7 @@ ARTÍCULO X
 
 Para el reconocimiento a efectos civiles de los estudios realizados en dichos Centros se estará a lo que disponga la legislación vigente en la materia en cada momento.
 
-2) El Estado reconoce la existencia legal de las Universidades de la Iglesia establecidas en España en el momento de entrada en vigor de este Acuerdo, cuyo régimen jurídico habrá de acomodarse a la legislación vigente, salvo lo previsto en el artículo XVII, 2.
-
-3) Los alumnos de estas Universidades gozarán de los mismos beneficios en materia de sanidad, seguridad escolar, ayudas al estudio y a la investigación y demás modalidades de protección al estudiante que se establezcan para los alumnos de las Universidades del Estado.
+2) El Estado reconoce la existencia legal de las Universidades de la Iglesia establecidas en España en el momento de entrada en vigor de este Acuerdo, cuyo régimen jurídico habrá de acomodarse a la legislación vigente, salvo lo previsto en el artículo XVII, 2. 3) Los alumnos de estas Universidades gozarán de los mismos beneficios en materia de sanidad, seguridad escolar, ayudas al estudio y a la investigación y demás modalidades de protección al estudiante que se establezcan para los alumnos de las Universidades del Estado.
 
 ARTÍCULO XI
 
@@ -182,9 +178,7 @@ El presente Acuerdo, cuyos textos en lengua española e italiana hacen fe por ig
 
 Hecho en doble original.
 
-Ciudad del Vaticano, 3 de enero de 1979.
-
-MARCELINO OREJA AGUIRRE
+Ciudad del Vaticano, 3 de enero de 1979. MARCELINO OREJA AGUIRRE
 
 Ministro de Asuntos Exteriores
 

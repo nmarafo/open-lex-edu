@@ -1,10 +1,14 @@
 ---
 id: norm-es-2022-1274
 codigo_sintetizado: BOE-A-2022-1274
-titulo: Real Decreto 62/2022, de 25 de enero, de flexibilización de los requisitos exigibles para impartir ofertas de formación profesional conducentes a la obtención de certificados de profesionalidad, así como de la oferta de formación profesional en centros del sistema educativo y de formación profesional para el empleo.
+titulo: Real Decreto 62/2022, de 25 de enero, de flexibilización de los requisitos
+  exigibles para impartir ofertas de formación profesional conducentes a la obtención
+  de certificados de profesionalidad, así como de la oferta de formación profesional
+  en centros del sistema educativo y de formación profesional para el empleo.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2022-01-27'
 boletin: BOE
@@ -15,29 +19,29 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-  - curriculo
-  - cursos-especializacion
-  - formacion-profesional
-  - titulacion
+- curriculo
+- cursos-especializacion
+- formacion-profesional
+- titulacion
 relaciones:
   fundamentado_en:
-    - norma_id: norm-es-2002-12018
-    - norma_id: norm-es-2010-12201
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
-    - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-rd-659-2023
   fundamentos_derecho:
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-39-2015
   articulos:
-    - '1'
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-es-2002-12018
-    - norma_id: norm-es-2021-20113
-    - norma_id: norm-es-2010-12201
+  - '1'
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
 ---
 # Real Decreto 62/2022, de 25 de enero, de flexibilización de los requisitos exigibles para impartir ofertas de formación profesional conducentes a la obtención de certificados de profesionalidad, así como de la oferta de formación profesional en centros del sistema educativo y de formación profesional para el empleo.
 
@@ -83,21 +87,21 @@ En su virtud, a propuesta de la Ministra de Educación y Formación Profesional,
 
 #### Artículo 1. Objeto y ámbito de aplicación.
 
-1. Este real decreto tiene por objeto flexibilizar los requisitos para impartir ofertas de formación profesional conducentes a la obtención de títulos de formación profesional, certificados de profesionalidad y otras ofertas formativas vinculadas al Catálogo Nacional de Cualificaciones Profesionales, de acuerdo con lo establecido en la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional. Asimismo, tiene por objeto avanzar en la ampliación y flexibilización de la oferta de formación profesional.
+1. Este real decreto tiene por objeto flexibilizar los requisitos para impartir ofertas de formación profesional conducentes a la obtención de títulos de formación profesional, certificados de profesionalidad y otras ofertas formativas vinculadas al Catálogo Nacional de Cualificaciones Profesionales, de acuerdo con lo establecido en la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional. Asimismo, tiene por objeto avanzar en la ampliación y flexibilización de la oferta de formación profesional.
 
-2. Esta norma será de aplicación a los centros, de naturaleza pública o privada, debidamente autorizados, que ofertan títulos de formación profesional, certificados de profesionalidad, y otras ofertas formativas vinculadas al Catálogo Nacional de cualificaciones Profesionales.
+2. Esta norma será de aplicación a los centros, de naturaleza pública o privada, debidamente autorizados, que ofertan títulos de formación profesional, certificados de profesionalidad, y otras ofertas formativas vinculadas al Catálogo Nacional de cualificaciones Profesionales.
 
 #### Artículo 2. Flexibilización de requisitos de los centros para impartir certificados de profesionalidad y otras acciones formativas vinculadas al Catálogo Nacional de Cualificaciones Profesionales.
 
-1. Además de los requisitos establecidos en el artículo 12 bis l.
+1. Además de los requisitos establecidos en el artículo 12 bis l.
 
 Real Decreto 34/2008, de 18 de enero, por el que se regulan los certificados de profesionalidad, también se considerarán suficientes, de forma alternativa, los requisitos sobre espacios formativos establecidos en el artículo 46 del Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo, para la impartición de los certificados de profesionalidad y otras acciones formativas de formación profesional para el empleo vinculadas al Catálogo Nacional de Cualificaciones Profesionales.
 
-2. Además de los Centros de Referencia Nacional y los Centros Integrados de Formación Profesional de titularidad pública, a efectos de acceso a la oferta y de planificación de la misma por parte de las administraciones competentes, tendrán la consideración de centros propios los demás centros de la administración pública que estén autorizados para impartir formación profesional del sistema educativo o que estén acreditados para impartir ofertas de formación profesional para el empleo.
+2. Además de los Centros de Referencia Nacional y los Centros Integrados de Formación Profesional de titularidad pública, a efectos de acceso a la oferta y de planificación de la misma por parte de las administraciones competentes, tendrán la consideración de centros propios los demás centros de la administración pública que estén autorizados para impartir formación profesional del sistema educativo o que estén acreditados para impartir ofertas de formación profesional para el empleo.
 
-3. Los centros de formación profesional del sistema educativo no tendrán que justificar la implantación de sistemas de gestión de la calidad de la formación para impartir certificados de profesionalidad y otras acciones formativas vinculadas al Catálogo Nacional de Cualificaciones Profesionales. El requisito de certificación del sistema de gestión de calidad para obtener la acreditación del resto de centros podrá diferirse hasta la fecha de inicio de la impartición de las acciones formativas.
+3. Los centros de formación profesional del sistema educativo no tendrán que justificar la implantación de sistemas de gestión de la calidad de la formación para impartir certificados de profesionalidad y otras acciones formativas vinculadas al Catálogo Nacional de Cualificaciones Profesionales. El requisito de certificación del sistema de gestión de calidad para obtener la acreditación del resto de centros podrá diferirse hasta la fecha de inicio de la impartición de las acciones formativas.
 
-4. Las administraciones competentes establecerán los cauces necesarios de coordinación para promover la eficacia y eficiencia en la planificación y desarrollo de la oferta de formación profesional, mediante la utilización de los centros del sistema de formación profesional previstos en el Real Decreto 34/2008, de 18 de enero, por el que se regulan los certificados de profesionalidad, junto a los centros de la administración pública que imparten enseñanzas de formación profesional y, en su caso, centros privados autorizados, debidamente acreditados en el ámbito de la Formación Profesional para el Empleo.
+4. Las administraciones competentes establecerán los cauces necesarios de coordinación para promover la eficacia y eficiencia en la planificación y desarrollo de la oferta de formación profesional, mediante la utilización de los centros del sistema de formación profesional previstos en el Real Decreto 34/2008, de 18 de enero, por el que se regulan los certificados de profesionalidad, junto a los centros de la administración pública que imparten enseñanzas de formación profesional y, en su caso, centros privados autorizados, debidamente acreditados en el ámbito de la Formación Profesional para el Empleo.
 
 #### Artículo 3. Flexibilización de requisitos de los espacios, instalaciones y equipamientos requeridos para la impartición de certificados de profesionalidad.
 
@@ -111,19 +115,19 @@ la disposición adicional primera de la Ley Orgánica 5/2002, de 19 de junio, co
 
 #### Artículo 5. Flexibilización de la oferta formativa de títulos de formación profesional.
 
-1. Atendiendo a lo establecido en el artículo 6.2 del Real Decreto 1147/2011, de 29 de julio, y con el fin dinamizar y flexibilizar la oferta de formación profesional, las administraciones educativas podrán diseñar o autorizar ofertas modulares parciales de menor duración que los títulos y cursos de especialización, bajo la denominación de certificados de formación profesional, certificados de competencia o certificados parciales de competencia, según se correspondan con varios módulos profesionales de los títulos de formación profesional en el primer caso, o con un único módulo profesional en el segundo caso, o con varios resultados de aprendizaje en el tercer caso.
+1. Atendiendo a lo establecido en el artículo 6.2 del Real Decreto 1147/2011, de 29 de julio, y con el fin dinamizar y flexibilizar la oferta de formación profesional, las administraciones educativas podrán diseñar o autorizar ofertas modulares parciales de menor duración que los títulos y cursos de especialización, bajo la denominación de certificados de formación profesional, certificados de competencia o certificados parciales de competencia, según se correspondan con varios módulos profesionales de los títulos de formación profesional en el primer caso, o con un único módulo profesional en el segundo caso, o con varios resultados de aprendizaje en el tercer caso.
 
-2. En todo caso, y además de los certificados de formación profesional y certificados de competencia definidos por el Ministerio de Educación y Formación Profesional, que tendrán carácter básico y podrán ser ofertados directamente por las administraciones educativas, estas podrán definir otros certificados de formación profesional, certificados de competencia y certificados parciales de competencia incluyendo los datos de identificación, resultados de aprendizaje, criterios de evaluación y contenidos, de acuerdo con lo establecido en los reales decretos que fijan los aspectos básicos del currículo del título, títulos o cursos de especialización a que estén asociados.
+2. En todo caso, y además de los certificados de formación profesional y certificados de competencia definidos por el Ministerio de Educación y Formación Profesional, que tendrán carácter básico y podrán ser ofertados directamente por las administraciones educativas, estas podrán definir otros certificados de formación profesional, certificados de competencia y certificados parciales de competencia incluyendo los datos de identificación, resultados de aprendizaje, criterios de evaluación y contenidos, de acuerdo con lo establecido en los reales decretos que fijan los aspectos básicos del currículo del título, títulos o cursos de especialización a que estén asociados.
 
-3. El certificado de formación profesional podrá estar integrado por módulos profesionales del mismo o de distintos títulos de formación profesional.
+3. El certificado de formación profesional podrá estar integrado por módulos profesionales del mismo o de distintos títulos de formación profesional.
 
-4. La estructura y duración de cada certificado de formación profesional y certificado de competencia se establecerá teniendo en cuenta la carga horaria de los módulos profesionales o módulo profesional respectivamente, según el currículo aprobado por la administración educativa competente.
+4. La estructura y duración de cada certificado de formación profesional y certificado de competencia se establecerá teniendo en cuenta la carga horaria de los módulos profesionales o módulo profesional respectivamente, según el currículo aprobado por la administración educativa competente.
 
-5. El certificado parcial de competencia podrá estar asociado a uno o varios de los resultados de aprendizaje contenidos en los módulos profesionales de cada título de formación profesional. La estructura y duración de cada formación se establecerá teniendo en cuenta la carga horaria del módulo profesional al que pertenece, según el currículo aprobado por la administración educativa competente.
+5. El certificado parcial de competencia podrá estar asociado a uno o varios de los resultados de aprendizaje contenidos en los módulos profesionales de cada título de formación profesional. La estructura y duración de cada formación se establecerá teniendo en cuenta la carga horaria del módulo profesional al que pertenece, según el currículo aprobado por la administración educativa competente.
 
-6. Los procedimientos de evaluación deberán garantizar la adquisición de los resultados de aprendizaje en las condiciones de calidad establecidas para la obtención de los títulos de formación profesional.
+6. Los procedimientos de evaluación deberán garantizar la adquisición de los resultados de aprendizaje en las condiciones de calidad establecidas para la obtención de los títulos de formación profesional.
 
-7. Los certificados de formación profesional y certificados de competencia tendrán validez en todo el territorio nacional. Las administraciones competentes comunicarán, a efectos registrales y mediante los procedimientos que se determinen, la estructura y contenidos de estos certificados, así como los datos de las personas que obtengan dichas certificaciones. En el caso de las ofertas de certificados parciales de competencia, serán certificables y tendrán validez en el ámbito de la correspondiente administración educativa. La superación de todos los certificados parciales de competencia que constituyen un módulo profesional dará derecho a la certificación del mismo y a la obtención de un certificado de competencia, y tendrá valor en todo el territorio nacional.
+7. Los certificados de formación profesional y certificados de competencia tendrán validez en todo el territorio nacional. Las administraciones competentes comunicarán, a efectos registrales y mediante los procedimientos que se determinen, la estructura y contenidos de estos certificados, así como los datos de las personas que obtengan dichas certificaciones. En el caso de las ofertas de certificados parciales de competencia, serán certificables y tendrán validez en el ámbito de la correspondiente administración educativa. La superación de todos los certificados parciales de competencia que constituyen un módulo profesional dará derecho a la certificación del mismo y a la obtención de un certificado de competencia, y tendrá valor en todo el territorio nacional.
 
 #### Disposición final primera. Título competencial.
 
@@ -137,9 +141,7 @@ Se autoriza a la titular del Ministerio de Educación y Formación Profesional p
 
 #### Disposición final tercera. Entrada en vigor.
 
-Dado en el Consulado General de España en San Juan de Puerto Rico, el 25 de enero de 2022.
-
-FELIPE R.
+Dado en el Consulado General de España en San Juan de Puerto Rico, el 25 de enero de 2022. FELIPE R.
 
 La Ministra de Educación y Formación Profesional,
 

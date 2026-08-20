@@ -1,7 +1,8 @@
 ---
 id: norm-can-d-82-1994
 codigo_sintetizado: D82_1994 Regulacion de los Centros del Profesorado (CEP)
-titulo: Decreto 82/1994, de 13 de mayo, por el que se regulan la creación, organización y funcionamiento de los Centros del Profesorado en la Comunidad Autónoma de Canarias.
+titulo: Decreto 82/1994, de 13 de mayo, por el que se regulan la creación, organización
+  y funcionamiento de los Centros del Profesorado en la Comunidad Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Gobierno de Canarias / Consejería de Educación
@@ -19,30 +20,30 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Formación del profesorado
 tags:
-  - centros-profesorado
-  - cep
-  - equipos-directivos
-  - formacion-del-profesorado
-  - formacion-permanente
-  - innovacion-educativa
-  - interinos
-  - profesorado
+- centros-profesorado
+- cep
+- equipos-directivos
+- formacion-del-profesorado
+- formacion-permanente
+- innovacion-educativa
+- interinos
+- profesorado
 relaciones:
   desarrolla:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-rd-276-2007
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-can-d-212-1991
-    - norma_id: norm-es-rdl-5-2015
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-l-6-2014
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '61'
-    - norma_id: norm-can-d-212-1991
+  - '61'
+  - norma_id: norm-can-d-212-1991
 ---
 # Decreto 82/1994, de 13 de mayo, por el que se regulan la creación, organización y funcionamiento de los Centros del Profesorado en la Comunidad Autónoma de Canarias.
 

@@ -1,10 +1,12 @@
 ---
 id: norm-mad-d-36-2022
 codigo_sintetizado: D36_2022 Ordenacion y Curriculo Educacion Infantil Madrid
-titulo: Decreto 36/2022, de 8 de junio, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid el currículo de Infantil.
+titulo: Decreto 36/2022, de 8 de junio, del Consejo de Gobierno, por el que se establece
+  para la Comunidad de Madrid el currículo de Infantil.
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Decreto
 numero_disposicion: 36/2022
 fecha_disposicion: '2022-06-08'
@@ -18,17 +20,17 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Infantil
 tags:
-  - infantil
-  - curriculo_infantil
-  - areas_experiencia
-  - madrid
+- infantil
+- curriculo_infantil
+- areas_experiencia
+- madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-    - norma_id: norm-mad-d-29-2013
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 # Decreto 36/2022, de 8 de junio, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid el currículo de Infantil.
 
@@ -181,9 +183,7 @@ Meses:
 
 8. SOLICITUD DE INSCRIPCIÓN EN LA LISTA DE ESPERA SEGÚN BASES DE CONVOCATORIA Se solicita la inscripción en la lista de espera que se constituya en la convocatoria reseñada, en el caso de cumplirse los requisitos establecidos. Inclusión en lista de espera: SI NO
 
-El abajo firmante solicita ser admitido a las pruebas selectivas a que se refiere la presente instancia y DECLARA que son ciertos los datos consignados en ella, y que reúne las condiciones exigidas para el ingreso en la Función Pública y las especialmente señaladas en la convocatoria, comprometiéndose a probar documentalmente todos los datos que figuran en esta solicitud que le sean requeridos. En cumplimiento de la Ley 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, le informamos lo siguiente: sus datos pasarán a formar parte de un fichero automatizado responsabilidad de la Asamblea de Madrid, único destinatario de la información aportada voluntariamente por usted. Sus datos se utilizarán exclusivamente para la admisión a las pruebas selectivas, pudiendo producirse el tratamiento/cesión de los mismos, no pudiéndose llevar a cabo dicha finalidad si no se nos autoriza el tratamiento/cesión. Los derechos de oposición, acceso, rectificación y cancelación que la Ley le otorga puede ejercerlos mediante escrito dirigido a la Asesoría Jurídica de la Asamblea de Madrid a la siguiente dirección: Plaza de la Asamblea de Madrid, nº 1, 28018 de Madrid (MADRID). Enterado y conforme, CONSIENTO EXPRESAMENTE Y AUTORIZO para que traten/cedan mis datos personales, según la Ley 3/2018.
-
-En Madrid, a ........... de .................................... de ……. EL SOLICITANTE
+El abajo firmante solicita ser admitido a las pruebas selectivas a que se refiere la presente instancia y DECLARA que son ciertos los datos consignados en ella, y que reúne las condiciones exigidas para el ingreso en la Función Pública y las especialmente señaladas en la convocatoria, comprometiéndose a probar documentalmente todos los datos que figuran en esta solicitud que le sean requeridos. En cumplimiento de la Ley 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, le informamos lo siguiente: sus datos pasarán a formar parte de un fichero automatizado responsabilidad de la Asamblea de Madrid, único destinatario de la información aportada voluntariamente por usted. Sus datos se utilizarán exclusivamente para la admisión a las pruebas selectivas, pudiendo producirse el tratamiento/cesión de los mismos, no pudiéndose llevar a cabo dicha finalidad si no se nos autoriza el tratamiento/cesión. Los derechos de oposición, acceso, rectificación y cancelación que la Ley le otorga puede ejercerlos mediante escrito dirigido a la Asesoría Jurídica de la Asamblea de Madrid a la siguiente dirección: Plaza de la Asamblea de Madrid, nº 1, 28018 de Madrid (MADRID). Enterado y conforme, CONSIENTO EXPRESAMENTE Y AUTORIZO para que traten/cedan mis datos personales, según la Ley 3/2018. En Madrid, a ........... de .................................... de ……. EL SOLICITANTE
 
 ILMA. SRA. SECRETARIA GENERAL DE LA ASAMBLEA DE MADRID
 
@@ -233,8 +233,6 @@ Otros: (Describir)
 
 A efectos de la documentación que declara aportar el/la interesado/a, la mera presentación formal de la misma no tendrá carácter vinculante hasta que se efectúen las comprobaciones oportunas sobre su contenido.
 
-En cumplimiento de la Ley 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, le informamos lo siguiente: sus datos pasarán a formar parte de un fichero automatizado responsabilidad de la Asamblea de Madrid, único destinatario de la información aportada voluntariamente por usted. Sus datos se utilizarán exclusivamente para la admisión a las pruebas selectivas, pudiendo producirse el tratamiento/cesión de los mismos, no pudiéndose llevar a cabo dicha finalidad si no se nos autoriza el tratamiento/cesión. Los derechos de oposición, acceso, rectificación y cancelación que la Ley le otorga puede ejercerlos mediante escrito dirigido a la Asesoría Jurídica de la Asamblea de Madrid a la siguiente dirección: Plaza de la Asamblea de Madrid, nº 1, 28018 de Madrid (MADRID). Enterado y conforme, CONSIENTO EXPRESAMENTE Y AUTORIZO para que traten/cedan mis datos personales, según la Ley 3/2018.
-
-En Madrid, a ........... de .................................... de ……. EL SOLICITANTE
+En cumplimiento de la Ley 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, le informamos lo siguiente: sus datos pasarán a formar parte de un fichero automatizado responsabilidad de la Asamblea de Madrid, único destinatario de la información aportada voluntariamente por usted. Sus datos se utilizarán exclusivamente para la admisión a las pruebas selectivas, pudiendo producirse el tratamiento/cesión de los mismos, no pudiéndose llevar a cabo dicha finalidad si no se nos autoriza el tratamiento/cesión. Los derechos de oposición, acceso, rectificación y cancelación que la Ley le otorga puede ejercerlos mediante escrito dirigido a la Asesoría Jurídica de la Asamblea de Madrid a la siguiente dirección: Plaza de la Asamblea de Madrid, nº 1, 28018 de Madrid (MADRID). Enterado y conforme, CONSIENTO EXPRESAMENTE Y AUTORIZO para que traten/cedan mis datos personales, según la Ley 3/2018. En Madrid, a ........... de .................................... de ……. EL SOLICITANTE
 
 ILMA. SRA. SECRETARIA GENERAL DE LA ASAMBLEA DE MADRID. (01/11.736/22)

@@ -1,7 +1,9 @@
 ---
 id: norm-can-d-276-1997
 codigo_sintetizado: D276_1997 Gestion Economica de Centros Docentes Publicos
-titulo: Decreto 276/1997, de 27 de noviembre, por el que se regula el procedimiento de gestión económica de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
+titulo: Decreto 276/1997, de 27 de noviembre, por el que se regula el procedimiento
+  de gestión económica de los centros docentes públicos no universitarios de la Comunidad
+  Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Gobierno de Canarias / Consejería de Educación
@@ -19,30 +21,30 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Gestión económica de centros
 tags:
-  - admision-alumnado
-  - autonomia-gestion
-  - gesti-n-econ-mica-de-centros
-  - gestion-economica
-  - oposiciones
-  - pagos-en-firme
-  - presupuestos-centros
-  - profesorado
+- admision-alumnado
+- autonomia-gestion
+- gesti-n-econ-mica-de-centros
+- gestion-economica
+- oposiciones
+- pagos-en-firme
+- presupuestos-centros
+- profesorado
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
   fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   fundamento_de:
-    - norma_id: norm-can-o-25-2-2003
-    - norma_id: norm-can-res-097
-    - norma_id: norm-can-res-099
+  - norma_id: norm-can-o-25-2-2003
+  - norma_id: norm-can-res-097
+  - norma_id: norm-can-res-099
   fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-6-2014
   articulos:
-    - '63'
+  - '63'
 ---
 # Decreto 276/1997, de 27 de noviembre, por el que se regula el procedimiento de gestión económica de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 
@@ -85,9 +87,7 @@ Profesores y Colectivos de Escuelas Rurales, en el ámbito territorial de Canari
 
 ### Disposiciones transitorias
 
-#### Primera. La justificación de la cuenta de gestión del segundo semestre de 1997 se realizará conforme a la Ley 5/1996, de 27 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Canarias para 1997 y al Decreto 21/1987, de 13 de marzo, en lo que no se oponga a la Ley 5/1996.
-
-#### Segunda. En el plazo de un año desde la entrada en vigor del presente Decreto, por la Consejería de Educación, Cultura y Deportes se procederá a establecer los criterios de distribución de los recursos económicos destinados al funcionamiento de los centros docentes incluidos en su ámbito de aplicación.
+#### Primera. La justificación de la cuenta de gestión del segundo semestre de 1997 se realizará conforme a la Ley 5/1996, de 27 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Canarias para 1997 y al Decreto 21/1987, de 13 de marzo, en lo que no se oponga a la Ley 5/1996. #### Segunda. En el plazo de un año desde la entrada en vigor del presente Decreto, por la Consejería de Educación, Cultura y Deportes se procederá a establecer los criterios de distribución de los recursos económicos destinados al funcionamiento de los centros docentes incluidos en su ámbito de aplicación.
 
 #### Disposición derogatoria . Queda derogado el Decreto 21/1987, de 13 de marzo (B.O.C. nº 34,.
 
@@ -95,9 +95,7 @@ de 20.3.87) y disposiciones que lo desarrollan, sin perjuicio de lo señalado en
 
 ### Disposiciones finales
 
-#### Primera. 1.
-
-Se autoriza a la Consejería de Educación, Cultura y Deportes para dictar las normas necesarias para el desarrollo y ejecución del presente Decreto.
+#### Primera. 1. Se autoriza a la Consejería de Educación, Cultura y Deportes para dictar las normas necesarias para el desarrollo y ejecución del presente Decreto.
 
 2. Los órganos de la Administración educativa competentes en materia de contratación podrán delegar en los órganos de gobierno de los centros públicos la adquisición de bienes, contratación de obras, servicios y suministros hasta el límite cuantitativo máximo que resulte de los fondos transferidos a cada centro para dichos fines. Segunda.- El presente Decreto entrará en vigor el día 1 de enero de 1998. Dado en Santa Cruz de Tenerife, a 27 de noviembre de 1997. EL PRESIDENTE DEL GOBIERNO, Manuel Hermoso Rojas. EL CONSEJERO DE ECONOMÍA Y HACIENDA, p.s., EL CONSEJERO DE PRESIDENCIA Y RELACIONES INSTITUCIONALES (Decreto 466/1997, de 26 de noviembre, del Presidente), Lorenzo Alberto Suárez Alonso. EL CONSEJERO DE EDUCACIÓN, CULTURA Y DEPORTES, José Mendoza Cabrera.
 
@@ -109,9 +107,7 @@ NORMAS QUE REGULAN EL PROCEDIMIENTO DE GESTIÓN ECONÓMICA DE LOS CENTROS DOCENT
 
 carácter finalista, en la forma determinada en la Ley de Presupuestos Generales de la Comunidad Autónoma de Canarias.
 
-#### Artículo 2.
-
-1. Una vez aprobados los Presupuestos Generales de la.
+#### Artículo 2. 1. Una vez aprobados los Presupuestos Generales de la.
 
 Comunidad Autónoma de Canarias para cada ejercicio presupuestario, los órganos competentes de la Consejería de Educación, Cultura y Deportes notificarán al centro los recursos ordinarios que se le asignan para el desempeño de las funciones que tenga encomendadas.
 
@@ -124,17 +120,13 @@ desde el 1 de enero al 31 de diciembre de cada año, en correspondencia con el d
 
 #### Artículo 4. Los gastos de funcionamiento son los que afectan a los.
 
-servicios escolares del centro y a los equipos y servicios de apoyo al sistema educativo de conformidad con la clasificación del gasto prevista en el artículo 29.
-
-## Capítulo II. PRESUPUESTO ANUAL DE INGRESOS Y GASTOS artículo 5 El secretario, o en su caso quien tenga asumidas. reglamentariamente sus competencias, elaborará el anteproyecto de presupuesto anual del centro, conforme al modelo dispuesto por la Consejería de Educación, Cultura y Deportes, previo conocimiento de los créditos asignados y otras aportaciones económicas que se prevean recibir.
+servicios escolares del centro y a los equipos y servicios de apoyo al sistema educativo de conformidad con la clasificación del gasto prevista en el artículo 29. ## Capítulo II. PRESUPUESTO ANUAL DE INGRESOS Y GASTOS artículo 5 El secretario, o en su caso quien tenga asumidas. reglamentariamente sus competencias, elaborará el anteproyecto de presupuesto anual del centro, conforme al modelo dispuesto por la Consejería de Educación, Cultura y Deportes, previo conocimiento de los créditos asignados y otras aportaciones económicas que se prevean recibir.
 
 #### Artículo 6. El proyecto de presupuesto anual de cada centro.
 
 comprenderá la previsión detallada de todos sus ingresos y gastos para su total funcionamiento.
 
-#### Artículo 7.
-
-1. El proyecto de presupuesto anual será sometido por.
+#### Artículo 7. 1. El proyecto de presupuesto anual será sometido por.
 
 la Comisión Económica, en aquellos centros en los que esté establecida, al Consejo Escolar del centro, para que proceda a su estudio y aprobación inicial, en su caso.
 
@@ -190,7 +182,7 @@ existentes al final del ejercicio económico, salvo los procedentes de ingresos 
 
 #### Artículo 16. Todos.
 
-los centros tendrán abierta una cuenta corriente. exclusivamente para gestionar el movimiento de fondos para gastos de funcionamiento y las asignaciones con destino a la concesión de ayudas y subvenciones para los alumnos. Las cuentas se abrirán de acuerdo con el procedimiento previsto en el artículo 70.2 de la Ley Territorial 7/1984. En todas las cuentas deberá figurar junto al nombre del centro la denominación �Comunidad Autónoma de Canarias�. Los talones bancarios, siempre nominativos, y órdenes de transferencia que se expidan contra dichas cuentas, se harán con las firmas conjuntas del director y secretario, o administrador cuando exista, del centro. En el caso de centros de hasta dos unidades bastará la sola firma del director. Para prever situaciones de ausencia o enfermedad se establecerá ineludiblemente quienes han de sustituir en las firmas a los titulares.
+los centros tendrán abierta una cuenta corriente. exclusivamente para gestionar el movimiento de fondos para gastos de funcionamiento y las asignaciones con destino a la concesión de ayudas y subvenciones para los alumnos. Las cuentas se abrirán de acuerdo con el procedimiento previsto en el artículo 70.2 de la Ley Territorial 7/1984. En todas las cuentas deberá figurar junto al nombre del centro la denominación �Comunidad Autónoma de Canariasí. Los talones bancarios, siempre nominativos, y órdenes de transferencia que se expidan contra dichas cuentas, se harán con las firmas conjuntas del director y secretario, o administrador cuando exista, del centro. En el caso de centros de hasta dos unidades bastará la sola firma del director. Para prever situaciones de ausencia o enfermedad se establecerá ineludiblemente quienes han de sustituir en las firmas a los titulares.
 
 ## Capítulo VIII. CUENTAS JUSTIFICATIVAS artículo 17 El centro rendirá cuenta de su gestión mediante una. certificación del Consejo Escolar, conforme al modelo dispuesto por la Consejería de Educación, Cultura y Deportes, que incluya, por un.
 
@@ -200,9 +192,7 @@ lado, expresión de los fondos recibidos de los Presupuestos Generales de la Com
 
 sustituirá a los justificantes originales y demás documentos acreditativos de los pagos realizados, que quedarán bajo la custodia y responsabilidad del secretario del centro o persona que tenga asumida sus funciones, a disposición de la Consejería de Educación, Cultura y Deportes, del Tribunal de Cuentas, de la Audiencia de Cuentas de Canarias, de la Intervención General de la Administración de la Comunidad Autónoma de Canarias, y de los órganos de control financieros de la Unión Europea en el caso de acciones cofinanciadas para posibilitar la realización de las comprobaciones oportunas en el ámbito de sus competencias respectivas.
 
-#### Artículo 19.
-
-1. A efectos de justificación de cuentas relativas a.
+#### Artículo 19. 1. A efectos de justificación de cuentas relativas a.
 
 gastos de funcionamiento, el ejercicio económico de cada centro comprenderá dos períodos:
 Desde el 1 de enero hasta el 30 de junio. Desde el 1 de julio al 31 de diciembre.

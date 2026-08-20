@@ -19,37 +19,34 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Protección jurídica de menores
 tags:
-  - atencion-integral
-  - autonomia-centro
-  - bienestar-infantil
-  - curriculo
-  - desamparo-riesgo
-  - gestion-economica
-  - protecci-n-jur-dica-de-menores
-  - proteccion-menores
+- atencion-integral
+- autonomia-centro
+- bienestar-infantil
+- curriculo
+- desamparo-riesgo
+- gestion-economica
+- protecci-n-jur-dica-de-menores
+- proteccion-menores
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-1-1996
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
   fundamentado_en:
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-es-ce-1978
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-l-39-2015
-    - norma_id: norm-es-l-40-2015
-    - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-can-l-6-2014
   fundamento_de:
-    - norma_id: norm-can-d-114-2011
-    - norma_id: norm-can-res-juriscan-49002-54
+  - norma_id: norm-can-d-114-2011
+  - norma_id: norm-can-res-juriscan-49002-54
   fundamentos_derecho:
-    - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-lo-1-2018
   articulos:
-    - '144'
-    - norma_id: norm-es-ce-1978
-  articulos:
-    - '27'
-    - norma_id: norm-es-lo-1-1996
+  - '27'
+  - norma_id: norm-es-lo-1-1996
 ---
 # Ley 1/1997, de 7 de febrero, de Atención Integral a los Menores.
 
@@ -85,9 +82,9 @@ Por último, debe destacarse muy especialmente que la Ley es fruto del esfuerzo 
 
 #### Artículo 1. Finalidad y objeto de la Ley.
 
-1. La Ley tiene como finalidad garantizar la atención integral a los menores en el ámbito de la Comunidad Autónoma de Canarias.
+1. La Ley tiene como finalidad garantizar la atención integral a los menores en el ámbito de la Comunidad Autónoma de Canarias.
 
-2. Es objeto de la presente Ley establecer la distribución de funciones y competencias de atención a los menores de las Administraciones Públicas canarias, la regulación de las medidas y actuaciones administrativas de prevención, en situación de riesgo, de amparo e integración social de los mismos, así como el régimen de colaboración y participación social en estas actividades.
+2. Es objeto de la presente Ley establecer la distribución de funciones y competencias de atención a los menores de las Administraciones Públicas canarias, la regulación de las medidas y actuaciones administrativas de prevención, en situación de riesgo, de amparo e integración social de los mismos, así como el régimen de colaboración y participación social en estas actividades.
 
 #### Artículo 2. Ámbito de aplicación.
 
@@ -95,15 +92,15 @@ La presente Ley es de aplicación a todos los menores de dieciocho años que res
 
 #### Artículo 3. Derechos de los menores.
 
-1. Los menores gozarán de los derechos individuales y colectivos que les reconoce la Constitución, los tratados, convenios y pactos internacionales ratificados por el Estado español, especialmente la Convención sobre los Derechos del Niño de las Naciones Unidas de 20 de noviembre de 1989 y la Carta Europea de los Derechos del Niño, así como en las restantes normas del ordenamiento jurídico.
+1. Los menores gozarán de los derechos individuales y colectivos que les reconoce la Constitución, los tratados, convenios y pactos internacionales ratificados por el Estado español, especialmente la Convención sobre los Derechos del Niño de las Naciones Unidas de 20 de noviembre de 1989 y la Carta Europea de los Derechos del Niño, así como en las restantes normas del ordenamiento jurídico.
 
-2. El contenido, regulación y efectos de los derechos reconocidos a los menores se regirán por su normativa específica, sin perjuicio de las medidas complementarias que se establecen en la presente Ley para contribuir a su efectividad.
+2. El contenido, regulación y efectos de los derechos reconocidos a los menores se regirán por su normativa específica, sin perjuicio de las medidas complementarias que se establecen en la presente Ley para contribuir a su efectividad.
 
 #### Artículo 4. Principios rectores de la actuación administrativa.
 
-1. Las actuaciones de atención a los menores que realicen las Administraciones Públicas de la Comunidad Autónoma de Canarias, en ejercicio de sus competencias y de acuerdo con lo previsto en esta Ley y en el resto del ordenamiento jurídico, se ajustarán, con carácter general, a los criterios y líneas de actuación establecidos en la legislación de servicios sociales.
+1. Las actuaciones de atención a los menores que realicen las Administraciones Públicas de la Comunidad Autónoma de Canarias, en ejercicio de sus competencias y de acuerdo con lo previsto en esta Ley y en el resto del ordenamiento jurídico, se ajustarán, con carácter general, a los criterios y líneas de actuación establecidos en la legislación de servicios sociales.
 
-2. Específicamente, en materia de atención integral a los menores, las actuaciones administrativas responderán a los siguientes principios:
+2. Específicamente, en materia de atención integral a los menores, las actuaciones administrativas responderán a los siguientes principios:
 
 a) Prevalencia del interés de los menores sobre cualquier otro concurrente.
 
@@ -137,13 +134,13 @@ k) Sensibilización de la población en relación con los derechos de los menore
 
 #### Artículo 5. Principios de distribución.
 
-1. Las Administraciones Públicas canarias garantizan en su conjunto el cumplimiento de las funciones de atención integral a los menores en los términos de la presente Ley, ajustando su actuación a los principios de coordinación y colaboración en el ejercicio de las competencias que se les atribuyen y en la planificación, programación y prestación de los distintos servicios.
+1. Las Administraciones Públicas canarias garantizan en su conjunto el cumplimiento de las funciones de atención integral a los menores en los términos de la presente Ley, ajustando su actuación a los principios de coordinación y colaboración en el ejercicio de las competencias que se les atribuyen y en la planificación, programación y prestación de los distintos servicios.
 
-2. La distribución de funciones y competencias entre las distintas Administraciones Públicas canarias responde a los principios de máxima proximidad a los ciudadanos y atención al hecho insular, garantizando la efectiva descentralización de los servicios, prestaciones y medios de atención a los menores.
+2. La distribución de funciones y competencias entre las distintas Administraciones Públicas canarias responde a los principios de máxima proximidad a los ciudadanos y atención al hecho insular, garantizando la efectiva descentralización de los servicios, prestaciones y medios de atención a los menores.
 
 #### Artículo 6. Distribución de funciones.
 
-1. La Comunidad Autónoma de Canarias se reserva las siguientes funciones:
+1. La Comunidad Autónoma de Canarias se reserva las siguientes funciones:
 
 a) La potestad legislativa y reglamentaria en materia de protección y reeducación de menores, en los términos previstos en el Estatuto de Autonomía de Canarias y la legislación básica estatal.
 
@@ -151,15 +148,15 @@ b) La planificación, coordinación, inspección y control de los servicios, cen
 
 c) El amparo y reeducación de los menores, con el contenido y alcance que se establecen en esta Ley.
 
-2. Se atribuye a las islas la prestación de servicios especializados en la prevención y las demás funciones contenidas en esta Ley.
+2. Se atribuye a las islas la prestación de servicios especializados en la prevención y las demás funciones contenidas en esta Ley.
 
-3. Los municipios de Canarias tienen asignadas las funciones de información, promoción, prevención, detección e integración sociofamiliar de los menores, sin perjuicio de las competencias que se reconocen a la Administración Pública de la Comunidad Autónoma de Canarias y a los Cabildos Insulares.
+3. Los municipios de Canarias tienen asignadas las funciones de información, promoción, prevención, detección e integración sociofamiliar de los menores, sin perjuicio de las competencias que se reconocen a la Administración Pública de la Comunidad Autónoma de Canarias y a los Cabildos Insulares.
 
-4. En todo caso, el ejercicio de las competencias que dimanan de las funciones de atención integral a los menores se ajustarán, cuando proceda, a los planes y programas aprobados por el órgano competente de la Administración Pública de la Comunidad Autónoma de Canarias.
+4. En todo caso, el ejercicio de las competencias que dimanan de las funciones de atención integral a los menores se ajustarán, cuando proceda, a los planes y programas aprobados por el órgano competente de la Administración Pública de la Comunidad Autónoma de Canarias.
 
 #### Artículo 7. Coordinación interadministrativa.
 
-1. Las medidas de coordinación entre las Administraciones Públicas canarias en la atención integral a los menores deberán contemplar, como mínimo, los siguientes extremos:
+1. Las medidas de coordinación entre las Administraciones Públicas canarias en la atención integral a los menores deberán contemplar, como mínimo, los siguientes extremos:
 
 a) La determinación general de los criterios básicos y comunes para evaluar las necesidades materiales y personales y los índices objetivos a que debe responder la evaluación.
 
@@ -169,11 +166,11 @@ c) El marco de las actuaciones a desarrollar por las distintas Administraciones,
 
 d) El establecimiento de los criterios generales básicos a que debe responder la evaluación de la eficacia y rendimiento de los servicios, prestaciones y medios de atención a los menores.
 
-2. Para la coordinación entre las Administraciones Públicas canarias que garantice la atención integral a los menores, se crea la Comisión Interadministrativa de Menores, integrada por igual número de representantes de la Administración autonómica y de las Entidades Locales canarias, con la composición, competencias y cometidos que se establezcan en su reglamento de organización y funcionamiento.
+2. Para la coordinación entre las Administraciones Públicas canarias que garantice la atención integral a los menores, se crea la Comisión Interadministrativa de Menores, integrada por igual número de representantes de la Administración autonómica y de las Entidades Locales canarias, con la composición, competencias y cometidos que se establezcan en su reglamento de organización y funcionamiento.
 
 #### Artículo 8. Colaboración interadministrativa.
 
-1. Las Administraciones Públicas canarias colaborarán, en todo momento, en el ejercicio de las competencias de atención integral a los menores que tienen asignadas, a cuyo efecto están obligadas a:
+1. Las Administraciones Públicas canarias colaborarán, en todo momento, en el ejercicio de las competencias de atención integral a los menores que tienen asignadas, a cuyo efecto están obligadas a:
 
 a) Intercambiarse la información y datos disponibles que afecten a los menores, con la debida reserva, siempre que sea necesaria para el ejercicio de las competencias que tienen atribuidas.
 
@@ -181,19 +178,19 @@ b) Facilitar el ejercicio de las competencias propias de las otras Administracio
 
 c) Respetar el ejercicio de las competencias propias de las restantes Administraciones.
 
-2. Para la efectiva colaboración podrán suscribirse Convenios entre las Administraciones Públicas canarias. Estos Convenios habrán de prever: La competencia de cada Administración en que se fundamenta; las actividades, actuaciones o servicios que constituyen su objeto; el importe de la participación de cada una de las partes cuando impliquen obligaciones de contenido económico; el plazo de vigencia y, en su caso, la posibilidad de prórroga por acuerdo expreso; las obligaciones recíprocas, y los restantes extremos que se establezcan en las disposiciones de desarrollo de esta Ley.
+2. Para la efectiva colaboración podrán suscribirse Convenios entre las Administraciones Públicas canarias. Estos Convenios habrán de prever: La competencia de cada Administración en que se fundamenta; las actividades, actuaciones o servicios que constituyen su objeto; el importe de la participación de cada una de las partes cuando impliquen obligaciones de contenido económico; el plazo de vigencia y, en su caso, la posibilidad de prórroga por acuerdo expreso; las obligaciones recíprocas, y los restantes extremos que se establezcan en las disposiciones de desarrollo de esta Ley.
 
-3. Los Convenios de colaboración tendrán el plazo de vigencia plurianual que garantice la estabilidad y conclusión de los programas o servicios de atención al menor, sin perjuicio de los que puedan celebrarse con otra vigencia para actuaciones específicas o singulares.
+3. Los Convenios de colaboración tendrán el plazo de vigencia plurianual que garantice la estabilidad y conclusión de los programas o servicios de atención al menor, sin perjuicio de los que puedan celebrarse con otra vigencia para actuaciones específicas o singulares.
 
-4. En los Convenios de colaboración, para que las Entidades Locales puedan recibir fondos públicos de la Comunidad Autónoma de Canarias será requisito necesario que sus planes, programas, actuaciones o actividades se ajusten a la planificación y programación aprobadas por los órganos competentes de la Administración autonómica.
+4. En los Convenios de colaboración, para que las Entidades Locales puedan recibir fondos públicos de la Comunidad Autónoma de Canarias será requisito necesario que sus planes, programas, actuaciones o actividades se ajusten a la planificación y programación aprobadas por los órganos competentes de la Administración autonómica.
 
 ## Capítulo II. Distribución de competencias.
 
 #### Artículo 9. Competencias del Gobierno.
 
-1. El Gobierno de Canarias dirige las funciones de atención integral a los menores de la Administración Pública de la Comunidad Autónoma y coordina el ejercicio de las competencias que corresponden a la misma con las que se atribuyen a las Entidades Locales canarias.
+1. El Gobierno de Canarias dirige las funciones de atención integral a los menores de la Administración Pública de la Comunidad Autónoma y coordina el ejercicio de las competencias que corresponden a la misma con las que se atribuyen a las Entidades Locales canarias.
 
-2. Específicamente, corresponden al Gobierno de Canarias las siguientes competencias:
+2. Específicamente, corresponden al Gobierno de Canarias las siguientes competencias:
 
 a) La aprobación de las disposiciones generales de desarrollo y ejecución de las normas legales en materia de atención integral a los menores.
 
@@ -205,9 +202,9 @@ d) La aprobación del régimen general de organización, funcionamiento y régim
 
 #### Artículo 10. Competencias de la Consejería.
 
-1. Corresponden a la Consejería que tenga atribuida la materia de atención a los menores las competencias relativas al amparo y reeducación de menores.
+1. Corresponden a la Consejería que tenga atribuida la materia de atención a los menores las competencias relativas al amparo y reeducación de menores.
 
-2. Esta Consejería ejercerá, a través de los órganos y unidades administrativas que determine su reglamento orgánico, las siguientes competencias:
+2. Esta Consejería ejercerá, a través de los órganos y unidades administrativas que determine su reglamento orgánico, las siguientes competencias:
 
 a) La aprobación de los programas autonómicos de desarrollo de los planes de atención integral a los menores.
 
@@ -243,9 +240,9 @@ o) Cualesquiera otras que se contemplen en esta Ley o se le atribuyan por el ord
 
 #### Artículo 11. Competencias de los Cabildos Insulares.
 
-1. Corresponden a los Cabildos Insulares las competencias relativas a la prestación de servicios especializados en materia de prevención; la ejecución de las medidas de amparo que se establecen en esta Ley, y el asesoramiento y cooperación técnica, jurídica y económica a las entidades municipales, de acuerdo con lo establecido en la legislación de régimen local.
+1. Corresponden a los Cabildos Insulares las competencias relativas a la prestación de servicios especializados en materia de prevención; la ejecución de las medidas de amparo que se establecen en esta Ley, y el asesoramiento y cooperación técnica, jurídica y económica a las entidades municipales, de acuerdo con lo establecido en la legislación de régimen local.
 
-2. Específicamente, corresponden a los Cabildos Insulares, a través de los órganos y unidades administrativas que determinen sus normas de organización, las siguientes competencias:
+2. Específicamente, corresponden a los Cabildos Insulares, a través de los órganos y unidades administrativas que determinen sus normas de organización, las siguientes competencias:
 
 a) La participación en la formación y elaboración de los planes y programas autonómicos de atención a los menores.
 
@@ -275,9 +272,9 @@ m) Cualesquiera otras que se le asignan en esta Ley o se le atribuyan por el ord
 
 #### Artículo 12. Competencias de los Ayuntamientos.
 
-1. Las Entidades Municipales de Canarias ejercerán las competencias que integran funciones de información, promoción, detección, prevención e integración sociofamiliar de los menores, en los términos previstos en esta Ley.
+1. Las Entidades Municipales de Canarias ejercerán las competencias que integran funciones de información, promoción, detección, prevención e integración sociofamiliar de los menores, en los términos previstos en esta Ley.
 
-2. En particular, corresponden a los ayuntamientos canarios, a través de los servicios básicos de asistencia social o de los órganos y unidades administrativas que se determinen en sus normas orgánicas, las competencias siguientes:
+2. En particular, corresponden a los ayuntamientos canarios, a través de los servicios básicos de asistencia social o de los órganos y unidades administrativas que se determinen en sus normas orgánicas, las competencias siguientes:
 
 a) El establecimiento y gestión de servicios de atención, información y asesoramiento a los menores y a las familias.
 
@@ -309,11 +306,11 @@ m) Cualesquiera otras que se contemplan en esta Ley o se les atribuyan por el or
 
 #### Artículo 13. Creación de registros administrativos.
 
-1. La Administración Pública de la Comunidad Autónoma de Canarias establecerá los registros administrativos necesarios para el ejercicio de las competencias que tiene atribuidas para la atención integral a los menores.
+1. La Administración Pública de la Comunidad Autónoma de Canarias establecerá los registros administrativos necesarios para el ejercicio de las competencias que tiene atribuidas para la atención integral a los menores.
 
-2. Los registros podrán organizarse como secciones de los creados en ejecución de la legislación de servicios sociales o de forma independiente, en atención a las necesidades de coordinación e interdependencia con aquéllos.
+2. Los registros podrán organizarse como secciones de los creados en ejecución de la legislación de servicios sociales o de forma independiente, en atención a las necesidades de coordinación e interdependencia con aquéllos.
 
-3. El número, denominación, organización y funcionamiento de los registros de este artículo se establecerá reglamentariamente, respetando en todo caso los principios de intimidad, confidencialidad y obligación de reserva de sus inscripciones, así como el libre acceso del Ministerio Fiscal en ejercicio de las funciones que le atribuya la legislación vigente.
+3. El número, denominación, organización y funcionamiento de los registros de este artículo se establecerá reglamentariamente, respetando en todo caso los principios de intimidad, confidencialidad y obligación de reserva de sus inscripciones, así como el libre acceso del Ministerio Fiscal en ejercicio de las funciones que le atribuya la legislación vigente.
 
 ## Título III
 
@@ -325,9 +322,9 @@ m) Cualesquiera otras que se contemplan en esta Ley o se les atribuyan por el or
 
 #### Artículo 14. Preferencia y finalidades.
 
-1. En la atención integral a los menores, tendrán carácter preferente las actuaciones dirigidas a prevenir las posibles situaciones de riesgo o desamparo, así como las graves carencias que menoscaben el desarrollo de los mismos.
+1. En la atención integral a los menores, tendrán carácter preferente las actuaciones dirigidas a prevenir las posibles situaciones de riesgo o desamparo, así como las graves carencias que menoscaben el desarrollo de los mismos.
 
-2. La prevención tendrá las siguientes finalidades:
+2. La prevención tendrá las siguientes finalidades:
 
 a) Velar por el respeto y garantía de los derechos de los menores, mediante actividades de información, divulgación y promoción.
 
@@ -341,37 +338,37 @@ e) Evitar las causas que pueden provocar el deterioro del entorno sociofamiliar.
 
 #### Artículo 15. Prevención y colaboración.
 
-1. Las Administraciones Públicas canarias, en sus respectivos ámbitos territoriales, desarrollarán y fomentarán las actuaciones preventivas que, en el marco de lo establecido en esta Ley, se determinen en los planes y programas de servicios sociales y, específicamente, en aquellos que tengan por objeto la atención integral a los menores.
+1. Las Administraciones Públicas canarias, en sus respectivos ámbitos territoriales, desarrollarán y fomentarán las actuaciones preventivas que, en el marco de lo establecido en esta Ley, se determinen en los planes y programas de servicios sociales y, específicamente, en aquellos que tengan por objeto la atención integral a los menores.
 
-2. En los términos que reglamentariamente se establezcan, podrán colaborar en el desarrollo de las actuaciones preventivas las entidades colaboradoras, así como otras instituciones, asociaciones y fundaciones de carácter no lucrativo.
+2. En los términos que reglamentariamente se establezcan, podrán colaborar en el desarrollo de las actuaciones preventivas las entidades colaboradoras, así como otras instituciones, asociaciones y fundaciones de carácter no lucrativo.
 
-3. Las Administraciones Públicas canarias podrán concertar con las entidades colaboradoras reconocidas conforme a lo previsto en esta Ley los servicios de apoyo y asistencia técnica que sean precisos para el adecuado desarrollo de las actuaciones preventivas.
+3. Las Administraciones Públicas canarias podrán concertar con las entidades colaboradoras reconocidas conforme a lo previsto en esta Ley los servicios de apoyo y asistencia técnica que sean precisos para el adecuado desarrollo de las actuaciones preventivas.
 
 #### Artículo 16. Apoyo a la familia.
 
-1. Como recurso preventivo prioritario se establecerán programas de apoyo a la familia, destinados a cubrir las necesidades básicas de los menores y mejorar su entorno familiar, con el objeto de garantizar su derecho a permanecer en el mismo en condiciones que permitan su desarrollo integral.
+1. Como recurso preventivo prioritario se establecerán programas de apoyo a la familia, destinados a cubrir las necesidades básicas de los menores y mejorar su entorno familiar, con el objeto de garantizar su derecho a permanecer en el mismo en condiciones que permitan su desarrollo integral.
 
-2. El apoyo a la familia podrá consistir en la orientación técnica, la educación y planificación familiar, la ayuda a domicilio, la atención de los menores en escuelas infantiles y cualesquiera otras medidas y actuaciones que contribuyan a la formación de quienes ejerzan funciones parentales y al desarrollo integral de los menores.
+2. El apoyo a la familia podrá consistir en la orientación técnica, la educación y planificación familiar, la ayuda a domicilio, la atención de los menores en escuelas infantiles y cualesquiera otras medidas y actuaciones que contribuyan a la formación de quienes ejerzan funciones parentales y al desarrollo integral de los menores.
 
 #### Artículo 17. Detección de situaciones de riesgo y desamparo.
 
-1. Las Administraciones Públicas canarias, de acuerdo con lo previsto en esta Ley, deberán desarrollar las actuaciones necesarias para la detección de situaciones de riesgo y desamparo de los menores.
+1. Las Administraciones Públicas canarias, de acuerdo con lo previsto en esta Ley, deberán desarrollar las actuaciones necesarias para la detección de situaciones de riesgo y desamparo de los menores.
 
-2. Las mismas deberán mantener un contacto directo con los entornos sociofamiliares, realizar los estudios, recogida de datos e investigaciones que se determinen en los respectivos planes y programas de atención, así como ejecutar o promover las actuaciones precisas para concienciar a la población de la necesidad de comunicar y denunciar la existencia de factores de riesgo o de situaciones de desamparo que afecten a los menores.
+2. Las mismas deberán mantener un contacto directo con los entornos sociofamiliares, realizar los estudios, recogida de datos e investigaciones que se determinen en los respectivos planes y programas de atención, así como ejecutar o promover las actuaciones precisas para concienciar a la población de la necesidad de comunicar y denunciar la existencia de factores de riesgo o de situaciones de desamparo que afecten a los menores.
 
-3. Las autoridades, funcionarios y personas que, por sus responsabilidades públicas o profesionales, tengan conocimiento de situaciones de riesgo o desamparo de los menores tienen la obligación de comunicar su existencia a las Administraciones Públicas canarias, sin perjuicio de prestarle el auxilio inmediato que precisen y del deber de denunciar los hechos al Ministerio Fiscal y a los órganos judiciales competentes.
+3. Las autoridades, funcionarios y personas que, por sus responsabilidades públicas o profesionales, tengan conocimiento de situaciones de riesgo o desamparo de los menores tienen la obligación de comunicar su existencia a las Administraciones Públicas canarias, sin perjuicio de prestarle el auxilio inmediato que precisen y del deber de denunciar los hechos al Ministerio Fiscal y a los órganos judiciales competentes.
 
 #### Artículo 18. Obligaciones de los centros y servicios sanitarios.
 
-1. El personal de los centros y servicios sanitarios deberá comunicar de inmediato a los órganos y servicios municipales y autonómicos competentes los hechos que puedan suponer la existencia de situaciones de riesgo o desamparo de los menores. Específicamente, están obligados a poner en conocimiento de la Administración Pública autonómica los hechos y circunstancias que permitan presumir la existencia de malos tratos, abandono y drogodependencias.
+1. El personal de los centros y servicios sanitarios deberá comunicar de inmediato a los órganos y servicios municipales y autonómicos competentes los hechos que puedan suponer la existencia de situaciones de riesgo o desamparo de los menores. Específicamente, están obligados a poner en conocimiento de la Administración Pública autonómica los hechos y circunstancias que permitan presumir la existencia de malos tratos, abandono y drogodependencias.
 
-2. El incumplimiento de la obligación prevista en el número anterior por el personal sanitario al servicio de las Administraciones Públicas canarias será considerado falta disciplinaria grave, sin perjuicio de la responsabilidad administrativa en que, en su caso, pueda incurrir de acuerdo con lo previsto en la presente Ley.
+2. El incumplimiento de la obligación prevista en el número anterior por el personal sanitario al servicio de las Administraciones Públicas canarias será considerado falta disciplinaria grave, sin perjuicio de la responsabilidad administrativa en que, en su caso, pueda incurrir de acuerdo con lo previsto en la presente Ley.
 
-3. En los conciertos que se suscriban con entidades privadas para la prestación de asistencia sanitaria deberán recogerse expresamente las obligaciones de comunicación y denuncia contenidas en este artículo, así como consignar como causa de resolución de aquéllos el incumplimiento de las mismas.
+3. En los conciertos que se suscriban con entidades privadas para la prestación de asistencia sanitaria deberán recogerse expresamente las obligaciones de comunicación y denuncia contenidas en este artículo, así como consignar como causa de resolución de aquéllos el incumplimiento de las mismas.
 
 #### Artículo 19. Obligaciones de los centros escolares.
 
-1. Los responsables de los centros escolares, los consejos escolares y el personal educativo están obligados a colaborar con los servicios municipales competentes para garantizar la escolarización obligatoria. A estos efectos, deberán:
+1. Los responsables de los centros escolares, los consejos escolares y el personal educativo están obligados a colaborar con los servicios municipales competentes para garantizar la escolarización obligatoria. A estos efectos, deberán:
 
 a) Comunicar las faltas de asistencia injustificadas al centro escolar y los hechos o circunstancias que hagan presumir la existencia de situaciones de riesgo o desamparo de los menores escolarizados, como malos tratos, abandono, malos hábitos higiénicos o de salud y drogodependencias.
 
@@ -379,19 +376,19 @@ b) Establecer de común acuerdo con los órganos municipales competentes las med
 
 c) Colaborar con las entidades municipales para evitar y resolver, en su caso, las situaciones de riesgo de los menores escolarizados.
 
-2. Asimismo están obligados a poner en conocimiento de los servicios competentes de la Administración autonómica los hechos o circunstancias anteriores y colaborar con los mismos para evitar y resolver las situaciones de desamparo.
+2. Asimismo están obligados a poner en conocimiento de los servicios competentes de la Administración autonómica los hechos o circunstancias anteriores y colaborar con los mismos para evitar y resolver las situaciones de desamparo.
 
-3. El incumplimiento de las obligaciones anteriores por el personal educativo de los centros escolares públicos será considerado falta disciplinaria grave, sin perjuicio de la responsabilidad administrativa prevista en la presente Ley.
+3. El incumplimiento de las obligaciones anteriores por el personal educativo de los centros escolares públicos será considerado falta disciplinaria grave, sin perjuicio de la responsabilidad administrativa prevista en la presente Ley.
 
-4. En los conciertos educativos que se suscriban con entidades privadas y particulares deberán recogerse expresamente las obligaciones de comunicación, denuncia y colaboración contenidas en este artículo, así como consignar como causa de resolución de aquéllos el incumplimiento de éstas.
+4. En los conciertos educativos que se suscriban con entidades privadas y particulares deberán recogerse expresamente las obligaciones de comunicación, denuncia y colaboración contenidas en este artículo, así como consignar como causa de resolución de aquéllos el incumplimiento de éstas.
 
 ## Capítulo II. Actuaciones de promoción.
 
 #### Artículo 20. Principios generales.
 
-1. Las Administraciones Públicas canarias desarrollarán y promoverán las acciones de divulgación de los derechos de los menores reconocidos en la Constitución, en los tratados internacionales ratificados por España, especialmente la Convención sobre los Derechos del Niño de las Naciones Unidas, de 20 de noviembre de 1989, y la Carta Europea de Derechos del Niño, así como en el resto del ordenamiento jurídico.
+1. Las Administraciones Públicas canarias desarrollarán y promoverán las acciones de divulgación de los derechos de los menores reconocidos en la Constitución, en los tratados internacionales ratificados por España, especialmente la Convención sobre los Derechos del Niño de las Naciones Unidas, de 20 de noviembre de 1989, y la Carta Europea de Derechos del Niño, así como en el resto del ordenamiento jurídico.
 
-2. Asimismo, ejecutarán las acciones de información y divulgación precisas para el conocimiento y fomento de los medios y recursos destinados a la atención integral a los menores en el ámbito de la Comunidad Autónoma de Canarias, con independencia de la titularidad de los mismos.
+2. Asimismo, ejecutarán las acciones de información y divulgación precisas para el conocimiento y fomento de los medios y recursos destinados a la atención integral a los menores en el ámbito de la Comunidad Autónoma de Canarias, con independencia de la titularidad de los mismos.
 
 #### Artículo 21. Formación e información de los padres.
 
@@ -409,17 +406,17 @@ c) La constitución de asociaciones, fundaciones y otras fórmulas de auto organ
 
 #### Artículo 23. Integración social de los menores.
 
-1. Las Administraciones Públicas canarias velarán por el derecho de los menores con minusvalías a que se les facilite el mayor grado de integración en la sociedad que permitan sus condiciones.
+1. Las Administraciones Públicas canarias velarán por el derecho de los menores con minusvalías a que se les facilite el mayor grado de integración en la sociedad que permitan sus condiciones.
 
-2. Los menores extranjeros que se encuentren en el territorio de la Comunidad Autónoma de Canarias podrán recibir ayudas públicas que faciliten su integración social, especialmente para salvar las dificultades de idioma y el conocimiento de los usos sociales.
+2. Los menores extranjeros que se encuentren en el territorio de la Comunidad Autónoma de Canarias podrán recibir ayudas públicas que faciliten su integración social, especialmente para salvar las dificultades de idioma y el conocimiento de los usos sociales.
 
 #### Artículo 24. Prevención frente a grupos nocivos.
 
-1. Las Administraciones Públicas canarias desarrollarán y fomentarán las acciones de información necesarias en los ámbitos educativo, cultural y social para advertir de los efectos perjudiciales de la actividad de las sectas.
+1. Las Administraciones Públicas canarias desarrollarán y fomentarán las acciones de información necesarias en los ámbitos educativo, cultural y social para advertir de los efectos perjudiciales de la actividad de las sectas.
 
-2. Asimismo, emprenderán y promoverán las actuaciones precisas para informar de los efectos nocivos para los menores de las actividades de grupos que tengan finalidades que puedan alterar el equilibrio psíquico o utilicen medios para alterarlo.
+2. Asimismo, emprenderán y promoverán las actuaciones precisas para informar de los efectos nocivos para los menores de las actividades de grupos que tengan finalidades que puedan alterar el equilibrio psíquico o utilicen medios para alterarlo.
 
-3. Las Administraciones Públicas canarias velarán especialmente para que las entidades y grupos a que se refieren los números anteriores no tengan acceso a los servicios, prestaciones y actividades de cualquier naturaleza que se presten o realicen con financiación pública, total o parcial, ni puedan obtener el reconocimiento como entidades colaboradoras para la ejecución de servicios, prestaciones o actividades que sean de responsabilidad pública.
+3. Las Administraciones Públicas canarias velarán especialmente para que las entidades y grupos a que se refieren los números anteriores no tengan acceso a los servicios, prestaciones y actividades de cualquier naturaleza que se presten o realicen con financiación pública, total o parcial, ni puedan obtener el reconocimiento como entidades colaboradoras para la ejecución de servicios, prestaciones o actividades que sean de responsabilidad pública.
 
 #### Artículo 25. Promoción de la educación de los menores.
 
@@ -495,9 +492,9 @@ e) Cualesquiera otras cuya legislación o reglamentación específica así lo di
 
 #### Artículo 32. Bebidas alcohólicas y tabaco.
 
-1. Queda prohibida la venta, suministro y dispensación por cualquier medio, gratuita o no, de todo tipo de bebidas alcohólicas y tabaco a los menores de 18 años, aun cuando conste el consentimiento de los padres, tutores o guardadores.
+1. Queda prohibida la venta, suministro y dispensación por cualquier medio, gratuita o no, de todo tipo de bebidas alcohólicas y tabaco a los menores de 18 años, aun cuando conste el consentimiento de los padres, tutores o guardadores.
 
-2. Se prohíbe la venta, suministro o dispensación de bebidas alcohólicas en los lugares siguientes:
+2. Se prohíbe la venta, suministro o dispensación de bebidas alcohólicas en los lugares siguientes:
 
 a) Centros de enseñanza a los que asistan menores.
 
@@ -521,9 +518,9 @@ La Comunidad Autónoma de Canarias protegerá al menor de las publicaciones de c
 
 #### Artículo 35. Medios audiovisuales.
 
-1. Queda prohibida la venta y el alquiler al menor de vídeos, videojuegos, o cualesquiera otros medios audiovisuales, que contengan mensajes de carácter violento, de apología de cualquier forma de delincuencia, de exhibición pornográfica, o contrarios a los derechos reconocidos en la Constitución y su proyección en locales o espectáculos a los que esté permitida la asistencia del menor.
+1. Queda prohibida la venta y el alquiler al menor de vídeos, videojuegos, o cualesquiera otros medios audiovisuales, que contengan mensajes de carácter violento, de apología de cualquier forma de delincuencia, de exhibición pornográfica, o contrarios a los derechos reconocidos en la Constitución y su proyección en locales o espectáculos a los que esté permitida la asistencia del menor.
 
-2. La programación, total o parcial, de las emisoras de radio y televisión de las que sea titular la Comunidad Autónoma de Canarias, o corresponda a ésta el otorgamiento del título habilitante, deberá observar las reglas siguientes:
+2. La programación, total o parcial, de las emisoras de radio y televisión de las que sea titular la Comunidad Autónoma de Canarias, o corresponda a ésta el otorgamiento del título habilitante, deberá observar las reglas siguientes:
 
 a) Horario adecuado a los hábitos practicados por los menores para emitir programas infantiles, garantizando una franja horaria de especial protección para los menores, que se determinará reglamentariamente.
 
@@ -533,11 +530,11 @@ c) La emisión de programas susceptibles de perjudicar el desarrollo físico, me
 
 Lo dispuesto en este apartado será también aplicable a los espacios dedicados a la promoción o publicidad sobre la propia programación.
 
-3. La Administración autonómica velará para que los menores no puedan tener acceso, por medio de las telecomunicaciones, a medios o servicios que puedan ser perjudiciales para su correcto desarrollo físico, mental o moral.
+3. La Administración autonómica velará para que los menores no puedan tener acceso, por medio de las telecomunicaciones, a medios o servicios que puedan ser perjudiciales para su correcto desarrollo físico, mental o moral.
 
 #### Artículo 36. Publicidad dirigida a menores.
 
-1. La publicidad dirigida al menor que se divulgue en el territorio de la Comunidad Autónoma de Canarias deberá estar sometida a límites reglamentarios que obliguen a respetar los siguientes principios de actuación:
+1. La publicidad dirigida al menor que se divulgue en el territorio de la Comunidad Autónoma de Canarias deberá estar sometida a límites reglamentarios que obliguen a respetar los siguientes principios de actuación:
 
 a) Adaptar el lenguaje y los mensajes a los niveles de desarrollo de los colectivos infantiles a quienes se dirijan.
 
@@ -553,7 +550,7 @@ f) Suprimir los mensajes publicitarios que atenten contra la dignidad de uno u o
 
 g) Eliminar los mensajes publicitarios que inciten al uso y consumo compulsivo de bienes y servicios.
 
-2. La publicidad difundida por las emisoras de televisión o radio que emitan para el territorio de la Comunidad Autónoma de Canarias no contendrá imágenes o mensajes que puedan perjudicar moral o psíquicamente al menor, y, asimismo, deberá respetar los siguientes principios:
+2. La publicidad difundida por las emisoras de televisión o radio que emitan para el territorio de la Comunidad Autónoma de Canarias no contendrá imágenes o mensajes que puedan perjudicar moral o psíquicamente al menor, y, asimismo, deberá respetar los siguientes principios:
 
 a) No deberá incitar directamente al menor a la compra de un producto o de un servicio explotando su inexperiencia o su credulidad, ni a que persuadan a sus padres o tutores o a los padres o tutores de terceros para que compren los productos o servicios de que se trate.
 
@@ -581,9 +578,9 @@ Reglamentariamente se establecerá el régimen y las cuantías de las ayudas a l
 
 #### Artículo 40. Subvenciones.
 
-1. Se establecerán subvenciones destinadas a la organización y ejecución de las actividades de prevención que se contemplan en el presente título, siempre que se ajusten a la planificación y programación aprobadas por la Administración autonómica.
+1. Se establecerán subvenciones destinadas a la organización y ejecución de las actividades de prevención que se contemplan en el presente título, siempre que se ajusten a la planificación y programación aprobadas por la Administración autonómica.
 
-2. Las subvenciones destinadas a la realización de programas y proyectos cuya duración sea superior al ejercicio presupuestario podrán formalizarse en conciertos de colaboración con financiación plurianual. Estos conciertos deberán prever, al menos, lo siguiente:
+2. Las subvenciones destinadas a la realización de programas y proyectos cuya duración sea superior al ejercicio presupuestario podrán formalizarse en conciertos de colaboración con financiación plurianual. Estos conciertos deberán prever, al menos, lo siguiente:
 
 a) Actividades que comprende el programa o proyecto.
 
@@ -619,25 +616,25 @@ En situaciones de riesgo deberá aplicarse una o varias de las medidas y actuaci
 
 #### Artículo 44. Procedimiento de declaración.
 
-1. Cuando tenga conocimiento de que un menor pueda encontrarse en situación de riesgo, el órgano municipal competente iniciará el oportuno expediente tendente a la comprobación de aquella situación, y comunicará el inicio al órgano competente de la Administración autonómica.
+1. Cuando tenga conocimiento de que un menor pueda encontrarse en situación de riesgo, el órgano municipal competente iniciará el oportuno expediente tendente a la comprobación de aquella situación, y comunicará el inicio al órgano competente de la Administración autonómica.
 
-2. En el procedimiento para la declaración de la situación de riesgo se garantizará la audiencia de quienes estén ejerciendo las funciones parentales, así como del menor, si tuviere juicio suficiente o hubiere cumplido los doce años. Asimismo deberá solicitarse informe del órgano autonómico competente en materia de atención a los menores.
+2. En el procedimiento para la declaración de la situación de riesgo se garantizará la audiencia de quienes estén ejerciendo las funciones parentales, así como del menor, si tuviere juicio suficiente o hubiere cumplido los doce años. Asimismo deberá solicitarse informe del órgano autonómico competente en materia de atención a los menores.
 
-3. La resolución que declare la situación de riesgo determinará las medidas de asistencia tendentes a eliminar los factores de riesgo dentro de la institución familiar, poniendo a disposición de los menores y familia afectados los servicios existentes para estos fines.
+3. La resolución que declare la situación de riesgo determinará las medidas de asistencia tendentes a eliminar los factores de riesgo dentro de la institución familiar, poniendo a disposición de los menores y familia afectados los servicios existentes para estos fines.
 
-4. Dicha resolución deberá notificarle a quienes ejerzan las funciones parentales y comunicarse al órgano competente en materia de atención a los menores de la Administración autonómica.
+4. Dicha resolución deberá notificarle a quienes ejerzan las funciones parentales y comunicarse al órgano competente en materia de atención a los menores de la Administración autonómica.
 
-5. En los supuestos en que el órgano municipal no proceda al inicio y resolución del procedimiento a que se refiere este artículo, el órgano autonómico competente en materia de atención a los menores, previo requerimiento al ayuntamiento correspondiente, podrá declarar la situación de riesgo de un menor y adoptar las medidas de asistencia necesarias. Esta resolución se notificará al ayuntamiento para la ejecución de las medidas de asistencia acordadas.
+5. En los supuestos en que el órgano municipal no proceda al inicio y resolución del procedimiento a que se refiere este artículo, el órgano autonómico competente en materia de atención a los menores, previo requerimiento al ayuntamiento correspondiente, podrá declarar la situación de riesgo de un menor y adoptar las medidas de asistencia necesarias. Esta resolución se notificará al ayuntamiento para la ejecución de las medidas de asistencia acordadas.
 
 #### Artículo 45. Colaboración en la ejecución de las medidas.
 
-1. Declarada la situación de riesgo, los padres, tutores o guardadores vendrán obligados a colaborar activamente en la ejecución de las medidas de asistencia acordadas.
+1. Declarada la situación de riesgo, los padres, tutores o guardadores vendrán obligados a colaborar activamente en la ejecución de las medidas de asistencia acordadas.
 
-2. La negativa a la colaboración podrá dar lugar a la declaración de desamparo si la evolución de la situación de riesgo hace necesaria la intervención para el amparo del menor.
+2. La negativa a la colaboración podrá dar lugar a la declaración de desamparo si la evolución de la situación de riesgo hace necesaria la intervención para el amparo del menor.
 
-3. Los servicios del cabildo insular respectivo coordinarán y apoyarán a los servicios sociales municipales en la ejecución de las medidas a través de las actuaciones que en cada momento resulten procedentes, sin perjuicio de que pueda solicitarse la colaboración del órgano de la Administración autonómica competente, cuando la especificidad de las medidas así lo requiera.
+3. Los servicios del cabildo insular respectivo coordinarán y apoyarán a los servicios sociales municipales en la ejecución de las medidas a través de las actuaciones que en cada momento resulten procedentes, sin perjuicio de que pueda solicitarse la colaboración del órgano de la Administración autonómica competente, cuando la especificidad de las medidas así lo requiera.
 
-4. La ejecución de las medidas de asistencia acordadas podrá realizarse por entidades colaboradoras, de acuerdo con lo que se establezca reglamentariamente.
+4. La ejecución de las medidas de asistencia acordadas podrá realizarse por entidades colaboradoras, de acuerdo con lo que se establezca reglamentariamente.
 
 ## Título V
 
@@ -647,9 +644,9 @@ En situaciones de riesgo deberá aplicarse una o varias de las medidas y actuaci
 
 #### Artículo 46. Concepto de desamparo.
 
-1. De conformidad con el Código Civil, se considera como situación de desamparo la que se produce de hecho a causa del incumplimiento, o del imposible o inadecuado ejercicio de los deberes de protección establecidos por las leyes para la guarda de los menores, cuando éstos queden privados de la necesaria asistencia moral y material.
+1. De conformidad con el Código Civil, se considera como situación de desamparo la que se produce de hecho a causa del incumplimiento, o del imposible o inadecuado ejercicio de los deberes de protección establecidos por las leyes para la guarda de los menores, cuando éstos queden privados de la necesaria asistencia moral y material.
 
-2. Específicamente, se considerará que el menor se encuentra en situación de desamparo:
+2. Específicamente, se considerará que el menor se encuentra en situación de desamparo:
 
 a) Cuando sea objeto de malos tratos físicos o psíquicos, o de abusos sexuales, por parte de familiares o de terceros, producidos en el ambiente familiar del menor.
 
@@ -671,7 +668,7 @@ En situaciones de desamparo de los menores deberán adoptarse las medidas previs
 
 #### Artículo 48. Procedimiento.
 
-1. El procedimiento para la declaración de desamparo se iniciará de oficio por acuerdo del órgano competente de la Administración autonómica.
+1. El procedimiento para la declaración de desamparo se iniciará de oficio por acuerdo del órgano competente de la Administración autonómica.
 
 a) Por propia iniciativa, cuando tenga conocimiento de cualquier menor que se encuentre en situación de desamparo.
 
@@ -681,33 +678,33 @@ c) A instancia del Ministerio Fiscal.
 
 d) Por denuncia de cualquier persona que ponga en conocimiento el posible desamparo de un menor, garantizándose al denunciante la absoluta reserva y confidencialidad.
 
-2. El procedimiento para la declaración de desamparo habrá de ordenarse a la verificación de la situación denunciada o detectada y a la adopción de las medidas necesarias para asegurar la asistencia moral y material del menor, así como para apartarlo de la situación de desprotección en que se encuentre.
+2. El procedimiento para la declaración de desamparo habrá de ordenarse a la verificación de la situación denunciada o detectada y a la adopción de las medidas necesarias para asegurar la asistencia moral y material del menor, así como para apartarlo de la situación de desprotección en que se encuentre.
 
-3. En el procedimiento habrán de ser oídos, en todo caso, el menor que hubiere cumplido doce años o tuviese suficiente juicio, y. siempre que sea posible, sus padres, tutores o guardadores.
+3. En el procedimiento habrán de ser oídos, en todo caso, el menor que hubiere cumplido doce años o tuviese suficiente juicio, y. siempre que sea posible, sus padres, tutores o guardadores.
 
-4. En los casos en que exista un grave riesgo para el menor o cualquier otra causa que exija una intervención inmediata, el órgano competente declarará la situación provisional de desamparo y asumirá su tutela, adoptando cuantas medidas cautelares sean necesarias para asegurar su asistencia. Adoptadas dichas medidas, deberá iniciarse o proseguirse la tramitación del procedimiento.
+4. En los casos en que exista un grave riesgo para el menor o cualquier otra causa que exija una intervención inmediata, el órgano competente declarará la situación provisional de desamparo y asumirá su tutela, adoptando cuantas medidas cautelares sean necesarias para asegurar su asistencia. Adoptadas dichas medidas, deberá iniciarse o proseguirse la tramitación del procedimiento.
 
 #### Artículo 49. Notificación y comunicación de la resolución.
 
-1. La resolución que declare la situación de desamparo del menor será notificada, en el plazo de cuarenta y ocho horas, a los padres, tutores o guardadores de forma presencial, siempre que ello sea posible, o a través de cualquiera de los medios admitidos en Derecho.
+1. La resolución que declare la situación de desamparo del menor será notificada, en el plazo de cuarenta y ocho horas, a los padres, tutores o guardadores de forma presencial, siempre que ello sea posible, o a través de cualquiera de los medios admitidos en Derecho.
 
-2. Asimismo se les informará de un modo claro y comprensible de las causas que dieron lugar a la intervención administrativa de los posibles efectos de la decisión adoptada, de las medidas de amparo acordadas y de los recursos que proceden.
+2. Asimismo se les informará de un modo claro y comprensible de las causas que dieron lugar a la intervención administrativa de los posibles efectos de la decisión adoptada, de las medidas de amparo acordadas y de los recursos que proceden.
 
-3. Dicha resolución será comunicada dentro del mismo plazo al Ministerio Fiscal.
+3. Dicha resolución será comunicada dentro del mismo plazo al Ministerio Fiscal.
 
 #### Artículo 50. Resistencia a la ejecución de las medidas.
 
-1. Declarada la situación de desamparo, si los padres, tutores, guardadores o familiares impidiesen la ejecución de las medidas acordadas, o concurriese alguna otra circunstancia que dificultase gravemente su ejecución, se solicitará de la autoridad judicial la adopción de las medidas precisas para hacerla efectiva, sin perjuicio de las intervenciones inmediatas que fuesen necesarias si está en peligro la vida o integridad del menor o se conculcan sus derechos.
+1. Declarada la situación de desamparo, si los padres, tutores, guardadores o familiares impidiesen la ejecución de las medidas acordadas, o concurriese alguna otra circunstancia que dificultase gravemente su ejecución, se solicitará de la autoridad judicial la adopción de las medidas precisas para hacerla efectiva, sin perjuicio de las intervenciones inmediatas que fuesen necesarias si está en peligro la vida o integridad del menor o se conculcan sus derechos.
 
-2. Asimismo, podrá recabarse la cooperación y asistencia de las fuerzas y cuerpos de seguridad en la ejecución de las medidas acordadas en los términos y con el alcance previsto en la legislación general.
+2. Asimismo, podrá recabarse la cooperación y asistencia de las fuerzas y cuerpos de seguridad en la ejecución de las medidas acordadas en los términos y con el alcance previsto en la legislación general.
 
 #### Artículo 51. Comisión de Atención al Menor.
 
-1. Se crea la Comisión de Atención al Menor como un órgano colegiado integrado por profesionales responsables de las distintas áreas relacionadas con la atención y formación de los menores, cuya composición y funcionamiento deberá ser objeto de desarrollo reglamentario.
+1. Se crea la Comisión de Atención al Menor como un órgano colegiado integrado por profesionales responsables de las distintas áreas relacionadas con la atención y formación de los menores, cuya composición y funcionamiento deberá ser objeto de desarrollo reglamentario.
 
-2. Dicha comisión estará adscrita a la Consejería competente en materia de atención a los menores.
+2. Dicha comisión estará adscrita a la Consejería competente en materia de atención a los menores.
 
-3. La Comisión de Atención al Menor tendrá las competencias siguientes:
+3. La Comisión de Atención al Menor tendrá las competencias siguientes:
 
 a) Emitir los informes, con propuestas concretas, solicitados por el órgano competente, relativos a las medidas de amparo que se consideren más idóneas en interés de un menor.
 
@@ -729,19 +726,19 @@ La declaración de desamparo de un menor conlleva la asunción de la tutela por 
 
 #### Artículo 53. Atención inmediata.
 
-1. Asumida la tutela, los menores recibirán atención inmediata en los centros o unidades de primera acogida habilitados al efecto.
+1. Asumida la tutela, los menores recibirán atención inmediata en los centros o unidades de primera acogida habilitados al efecto.
 
-2. La estancia en estos centros o unidades se limitará al tiempo imprescindible para determinar las medidas de amparo más adecuadas a sus necesidades.
+2. La estancia en estos centros o unidades se limitará al tiempo imprescindible para determinar las medidas de amparo más adecuadas a sus necesidades.
 
 #### Artículo 54. Ejercicio de la tutela.
 
-1. La tutela de los menores se ejercerá, de conformidad con el Código Civil, acordando alguna de las medidas siguientes:
+1. La tutela de los menores se ejercerá, de conformidad con el Código Civil, acordando alguna de las medidas siguientes:
 
 a) Acogimiento familiar.
 
 b) Acogimiento residencial.
 
-2. Cualquier modificación de la medida adoptada se acordará por resolución motivada, previa audiencia del menor que hubiere cumplido los doce años o tuviere suficiente juicio. Dicha resolución deberá notificarse inmediatamente a los padres, tutores o guardadores y comunicarse al Ministerio Fiscal.
+2. Cualquier modificación de la medida adoptada se acordará por resolución motivada, previa audiencia del menor que hubiere cumplido los doce años o tuviere suficiente juicio. Dicha resolución deberá notificarse inmediatamente a los padres, tutores o guardadores y comunicarse al Ministerio Fiscal.
 
 #### Artículo 55. Promoción de la tutela ordinaria.
 
@@ -755,27 +752,27 @@ El órgano competente asumirá la guarda de los menores en los supuestos y con e
 
 #### Artículo 57. Guarda voluntaria.
 
-1. El órgano competente de la Administración autonómica podrá asumir la guarda de un menor, a petición de los padres o tutores, cuando justifiquen no poder cuidar al menor por circunstancias graves.
+1. El órgano competente de la Administración autonómica podrá asumir la guarda de un menor, a petición de los padres o tutores, cuando justifiquen no poder cuidar al menor por circunstancias graves.
 
-2. Dicha guarda tendrá carácter temporal, atendiendo, en todo momento, a la reintegración del menor en su familia de origen.
+2. Dicha guarda tendrá carácter temporal, atendiendo, en todo momento, a la reintegración del menor en su familia de origen.
 
-3. Podrá exigirse a los padres o tutores de los menores cuya guarda sea asumida que contribuyan, de acuerdo con su capacidad económica, al sostenimiento de las cargas que se deriven de su cuidado y atención, en la forma y condiciones que se establezcan reglamentariamente.
+3. Podrá exigirse a los padres o tutores de los menores cuya guarda sea asumida que contribuyan, de acuerdo con su capacidad económica, al sostenimiento de las cargas que se deriven de su cuidado y atención, en la forma y condiciones que se establezcan reglamentariamente.
 
 #### Artículo 58. Extinción de la guarda voluntaria.
 
-1. La guarda cesará, a petición de los padres o tutores, una vez se compruebe por el órgano competente la desaparición de las causas que motivaron su asunción.
+1. La guarda cesará, a petición de los padres o tutores, una vez se compruebe por el órgano competente la desaparición de las causas que motivaron su asunción.
 
-2. Asimismo cesará por la constitución de la tutela por ministerio de la ley cuando se verifique que no han desaparecido las circunstancias que la justificaron y que las mismas están recogidas como alguno de los supuestos en que se considera al menor en situación de desamparo.
+2. Asimismo cesará por la constitución de la tutela por ministerio de la ley cuando se verifique que no han desaparecido las circunstancias que la justificaron y que las mismas están recogidas como alguno de los supuestos en que se considera al menor en situación de desamparo.
 
 #### Artículo 59. Procedimiento para la guarda voluntaria.
 
-1. El procedimiento para la asunción de la guarda habrá de ordenarse a la comprobación de las causas graves impeditivas del cuidado temporal del menor alegadas por los padres o tutores, y en el mismo habrá de ser oído el menor que hubiere cumplido doce años o tuviese suficiente juicio.
+1. El procedimiento para la asunción de la guarda habrá de ordenarse a la comprobación de las causas graves impeditivas del cuidado temporal del menor alegadas por los padres o tutores, y en el mismo habrá de ser oído el menor que hubiere cumplido doce años o tuviese suficiente juicio.
 
-2. En los supuestos en que las circunstancias concurrentes lo exijan, el órgano municipal competente, a petición de los padres o tutores, acordará asumir la guarda con carácter provisional, adoptando las medidas cautelares que resulten necesarias, hasta la resolución del procedimiento por el órgano autonómico competente.
+2. En los supuestos en que las circunstancias concurrentes lo exijan, el órgano municipal competente, a petición de los padres o tutores, acordará asumir la guarda con carácter provisional, adoptando las medidas cautelares que resulten necesarias, hasta la resolución del procedimiento por el órgano autonómico competente.
 
-3. Asumida la guarda del menor, su entrega deberá formalizarse por escrito, dejando constancia de que los padres o tutores han sido informados de las responsabilidades que siguen manteniendo respecto de aquél, así como de la forma de ejercicio de aquélla.
+3. Asumida la guarda del menor, su entrega deberá formalizarse por escrito, dejando constancia de que los padres o tutores han sido informados de las responsabilidades que siguen manteniendo respecto de aquél, así como de la forma de ejercicio de aquélla.
 
-4. Cualquier variación de la forma de ejercicio será motivada y notificada a los padres o tutores y comunicada al Ministerio Fiscal.
+4. Cualquier variación de la forma de ejercicio será motivada y notificada a los padres o tutores y comunicada al Ministerio Fiscal.
 
 ## Capítulo IV. Acogimiento.
 
@@ -783,13 +780,13 @@ El órgano competente asumirá la guarda de los menores en los supuestos y con e
 
 #### Artículo 61. Selección de acogedores.
 
-1. Los acogedores serán seleccionados con arreglo al interés primordial del menor, teniendo en cuenta, entre otros factores, la aptitud educadora, la situación familiar, la relación con el menor, si existiese, y los demás criterios de idoneidad que se establezcan reglamentariamente, en atención tanto a la modalidad como a la finalidad del acogimiento.
+1. Los acogedores serán seleccionados con arreglo al interés primordial del menor, teniendo en cuenta, entre otros factores, la aptitud educadora, la situación familiar, la relación con el menor, si existiese, y los demás criterios de idoneidad que se establezcan reglamentariamente, en atención tanto a la modalidad como a la finalidad del acogimiento.
 
-2. En los acogimientos en familia, con la finalidad de favorecer la reintegración familiar y evitar el desarraigo del menor, tendrán preferencia para ser acogedores los miembros de la familia extensa del mismo, o sus guardadores de hecho cuando estén unidos a éste o a su familia por una especial y cualificada relación y demuestren tener aptitudes para la atención y desarrollo integral del menor.
+2. En los acogimientos en familia, con la finalidad de favorecer la reintegración familiar y evitar el desarraigo del menor, tendrán preferencia para ser acogedores los miembros de la familia extensa del mismo, o sus guardadores de hecho cuando estén unidos a éste o a su familia por una especial y cualificada relación y demuestren tener aptitudes para la atención y desarrollo integral del menor.
 
-3. En los acogimientos en hogar funcional, el responsable o responsables del mismo deberán ser previamente declarados idóneos para el desempeño de sus labores, a solicitud de la entidad colaboradora titular del hogar.
+3. En los acogimientos en hogar funcional, el responsable o responsables del mismo deberán ser previamente declarados idóneos para el desempeño de sus labores, a solicitud de la entidad colaboradora titular del hogar.
 
-4. En los acogimientos con finalidad preadoptiva, los acogedores serán seleccionados con arreglo a los criterios de valoración previstos para la adopción.
+4. En los acogimientos con finalidad preadoptiva, los acogedores serán seleccionados con arreglo a los criterios de valoración previstos para la adopción.
 
 #### Artículo 62. Formalización.
 
@@ -797,37 +794,37 @@ Los acogimientos, cualquiera que sea la modalidad en que se ejerza, deberán for
 
 #### Artículo 63. Seguimiento y colaboración.
 
-1. El órgano competente de la Administración autonómica efectuará el seguimiento de todos los acogimientos formalizados.
+1. El órgano competente de la Administración autonómica efectuará el seguimiento de todos los acogimientos formalizados.
 
-2. Asimismo, prestará a la persona o familia acogedora la colaboración y el apoyo técnico, psicopedagógico, social, económico y jurídico que requieran y sean necesarios para la efectividad de los objetivos del acogimiento.
+2. Asimismo, prestará a la persona o familia acogedora la colaboración y el apoyo técnico, psicopedagógico, social, económico y jurídico que requieran y sean necesarios para la efectividad de los objetivos del acogimiento.
 
 #### Sección 2. ª Acogimiento familiar artículo 64 Clases y régimen. El acogimiento familiar podrá ejercerse por la persona o personas que sustituyan al núcleo familiar del menor o por el responsable del hogar familiar, de conformidad con lo dispuesto en el Código Civil.
 
 #### Artículo 65. Acogimiento en familia.
 
-1. El acogimiento en familia es la medida de amparo por la que se otorga la guarda de un menor a una persona o familia, e impone a ambos los deberes y obligaciones previstos legalmente:
+1. El acogimiento en familia es la medida de amparo por la que se otorga la guarda de un menor a una persona o familia, e impone a ambos los deberes y obligaciones previstos legalmente:
 
-2. El acogimiento en familia tiene como finalidad procurar al menor un núcleo de convivencia familiar adecuado, bien sea de forma temporal, para su reinserción en su familia de origen o para su adaptación a la familia que lo vaya a adoptar, o bien de forma permanente, cuando la edad u otras circunstancias del menor y su familia así lo requieran.
+2. El acogimiento en familia tiene como finalidad procurar al menor un núcleo de convivencia familiar adecuado, bien sea de forma temporal, para su reinserción en su familia de origen o para su adaptación a la familia que lo vaya a adoptar, o bien de forma permanente, cuando la edad u otras circunstancias del menor y su familia así lo requieran.
 
-3. En el acogimiento en familia simple y en el permanente podrán ser compensados económicamente los gastos sanitarios, educativos y de manutención del menor, en los supuestos en que sea imprescindible para su desempeño, a juicio del órgano competente para acordarlo, de conformidad con el régimen y cuantía que se disponga reglamentariamente.
+3. En el acogimiento en familia simple y en el permanente podrán ser compensados económicamente los gastos sanitarios, educativos y de manutención del menor, en los supuestos en que sea imprescindible para su desempeño, a juicio del órgano competente para acordarlo, de conformidad con el régimen y cuantía que se disponga reglamentariamente.
 
 #### Artículo 86. Acogimiento profesionalizado.
 
-1. El acogimiento familiar simple y el permanente podrán constituirse con carácter profesionalizado.
+1. El acogimiento familiar simple y el permanente podrán constituirse con carácter profesionalizado.
 
-2. Se entiende por acogimiento profesionalizado aquel en que la persona o familia que acoge en su núcleo familiar a uno o varios menores recibe una cantidad mensual por su labor y por los gastos de alimentación y educación del menor o menores acogidos.
+2. Se entiende por acogimiento profesionalizado aquel en que la persona o familia que acoge en su núcleo familiar a uno o varios menores recibe una cantidad mensual por su labor y por los gastos de alimentación y educación del menor o menores acogidos.
 
-3. Reglamentariamente se determinará el número máximo de menores que pueden tener en acogimiento y el régimen e importe de las cantidades a percibir por este concepto.
+3. Reglamentariamente se determinará el número máximo de menores que pueden tener en acogimiento y el régimen e importe de las cantidades a percibir por este concepto.
 
 #### Artículo 67. Acogimiento en hogar funcional.
 
-1. Tiene la consideración de hogar funcional el núcleo de convivencia permanente similar al familiar, en el que su responsable o responsables residan de modo habitual en el mismo.
+1. Tiene la consideración de hogar funcional el núcleo de convivencia permanente similar al familiar, en el que su responsable o responsables residan de modo habitual en el mismo.
 
-2. En cada hogar familiar podrá acogerse el número máximo de menores que se establezca reglamentariamente, en atención a la superficie útil, condiciones y medios de que disponga.
+2. En cada hogar familiar podrá acogerse el número máximo de menores que se establezca reglamentariamente, en atención a la superficie útil, condiciones y medios de que disponga.
 
-3. Este acogimiento tendrá carácter remunerado, conforme al régimen y cuantía que se establezca reglamentariamente.
+3. Este acogimiento tendrá carácter remunerado, conforme al régimen y cuantía que se establezca reglamentariamente.
 
-4. El órgano competente de la Administración autonómica ejercerá la inspección y control de los hogares funcionales. A estos efectos, los responsables de los hogares están obligados a informar periódicamente sobre la situación personal de los menores acogidos y, en su caso, remitir propuestas razonadas sobre las medidas de amparo que deban aplicarse a los mismos.
+4. El órgano competente de la Administración autonómica ejercerá la inspección y control de los hogares funcionales. A estos efectos, los responsables de los hogares están obligados a informar periódicamente sobre la situación personal de los menores acogidos y, en su caso, remitir propuestas razonadas sobre las medidas de amparo que deban aplicarse a los mismos.
 
 #### Sección 3. ª Acogimiento residencial artículo 68 Supuestos. El acogimiento residencial sólo podrá acordarse cuando el menor esté en período de observación, durante el tiempo estrictamente necesario, o cuando el resto de las medidas de amparo devengan inviables, insuficientes o inadecuadas.
 
@@ -859,19 +856,19 @@ La acogida residencial de los menores toxicómanos sujetos a amparo tendrá luga
 
 #### Artículo 73. Procedimiento de declaración de idoneidad.
 
-1. Podrán solicitar ser adoptantes las personas y parejas, matrimoniales o de hecho, que, reuniendo los requisitos previstos en el Código Civil y siendo residentes en el territorio de la Comunidad Autónoma de Canarias, acepten someterse al estudio de sus circunstancias sociofamiliares y psicológicas que permita obtener una firme certeza sobre su idoneidad para asegurar la cobertura de las necesidades objetivas y subjetivas del menor, así como el cumplimiento de las obligaciones legalmente establecidas.
+1. Podrán solicitar ser adoptantes las personas y parejas, matrimoniales o de hecho, que, reuniendo los requisitos previstos en el Código Civil y siendo residentes en el territorio de la Comunidad Autónoma de Canarias, acepten someterse al estudio de sus circunstancias sociofamiliares y psicológicas que permita obtener una firme certeza sobre su idoneidad para asegurar la cobertura de las necesidades objetivas y subjetivas del menor, así como el cumplimiento de las obligaciones legalmente establecidas.
 
-2. Reglamentariamente se regulará el procedimiento de valoración de los solicitantes de adopción y se fijarán las condiciones personales, familiares, sociales y económicas que han de concurrir en los interesados para ser declarados idóneos.
+2. Reglamentariamente se regulará el procedimiento de valoración de los solicitantes de adopción y se fijarán las condiciones personales, familiares, sociales y económicas que han de concurrir en los interesados para ser declarados idóneos.
 
-3. La declaración de no idoneidad de los solicitantes habrá de ser motivada, expresando, de un modo claro y comprensible, las razones que dieron lugar a dicha decisión. Sin perjuicio de las reclamaciones que puedan interponer los interesados, podrán volver a instar nueva solicitud cuando las causas en que se fundamentó la resolución hubieran desaparecido.
+3. La declaración de no idoneidad de los solicitantes habrá de ser motivada, expresando, de un modo claro y comprensible, las razones que dieron lugar a dicha decisión. Sin perjuicio de las reclamaciones que puedan interponer los interesados, podrán volver a instar nueva solicitud cuando las causas en que se fundamentó la resolución hubieran desaparecido.
 
-4. Los peticionarios declarados idóneos se inscribirán de oficio en el registro administrativo correspondiente.
+4. Los peticionarios declarados idóneos se inscribirán de oficio en el registro administrativo correspondiente.
 
 #### Artículo 74. Selección de adoptantes.
 
-1. Cuando la situación de un menor permita su adopción, se seleccionará por el órgano competente al solicitante declarado idóneo que se considere más adecuado, atendiendo a las circunstancias concretas del menor.
+1. Cuando la situación de un menor permita su adopción, se seleccionará por el órgano competente al solicitante declarado idóneo que se considere más adecuado, atendiendo a las circunstancias concretas del menor.
 
-2. Los criterios de selección de los adoptantes se determinarán en las disposiciones de desarrollo de esta ley, atendiendo a la edad, peculiaridades y demás circunstancias de los menores.
+2. Los criterios de selección de los adoptantes se determinarán en las disposiciones de desarrollo de esta ley, atendiendo a la edad, peculiaridades y demás circunstancias de los menores.
 
 #### Artículo 75. Período preadoptivo.
 
@@ -883,13 +880,13 @@ El órgano competente de la Administración autonómica elevará a la autoridad 
 
 #### Artículo 77. Adopción internacional.
 
-1. Las personas que deseen adoptar a un menor en el extranjero deberán formular la oportuna solicitud, que será tramitada y valorada por el órgano competente de la Administración autonómica.
+1. Las personas que deseen adoptar a un menor en el extranjero deberán formular la oportuna solicitud, que será tramitada y valorada por el órgano competente de la Administración autonómica.
 
-2. Las entidades colaboradoras de adopción internacional podrán cooperar en este procedimiento en los términos establecidos en la legislación estatal.
+2. Las entidades colaboradoras de adopción internacional podrán cooperar en este procedimiento en los términos establecidos en la legislación estatal.
 
-3. Tendrán la consideración de entidades colaboradoras de adopción internacional aquellas que se acrediten con arreglo al procedimiento previsto en la presente Ley.
+3. Tendrán la consideración de entidades colaboradoras de adopción internacional aquellas que se acrediten con arreglo al procedimiento previsto en la presente Ley.
 
-4. Cuando, con arreglo a lo dispuesto en el Código Civil, se hubiere constituido una adopción en el extranjero por adoptantes españoles residentes en Canarias, y no fuera reconocida en España al no haberse declarado previamente la idoneidad de los adoptantes, para obtener la misma deberán dirigir la oportuna solicitud al órgano competente de la Administración autonómica, quien determinará la idoneidad o no de los adoptantes con arreglo a los criterios de valoración fijados para la adopción y atendiendo a las circunstancias concretas de los menores extranjeros adoptados.
+4. Cuando, con arreglo a lo dispuesto en el Código Civil, se hubiere constituido una adopción en el extranjero por adoptantes españoles residentes en Canarias, y no fuera reconocida en España al no haberse declarado previamente la idoneidad de los adoptantes, para obtener la misma deberán dirigir la oportuna solicitud al órgano competente de la Administración autonómica, quien determinará la idoneidad o no de los adoptantes con arreglo a los criterios de valoración fijados para la adopción y atendiendo a las circunstancias concretas de los menores extranjeros adoptados.
 
 ## Título VI
 
@@ -901,17 +898,17 @@ La ejecución de las medidas acordadas por los juzgados competentes en materia d
 
 #### Artículo 79. Ejercicio.
 
-1. La Administración de la Comunidad Autónoma de Canarias dará la cobertura precisa para la ejecución de las medidas judiciales, a través de la implantación de programas de reinserción social que contemplarán las medidas que puedan acordarse judicialmente.
+1. La Administración de la Comunidad Autónoma de Canarias dará la cobertura precisa para la ejecución de las medidas judiciales, a través de la implantación de programas de reinserción social que contemplarán las medidas que puedan acordarse judicialmente.
 
-2. La ejecución de medidas que supongan el internamiento de los menores podrá llevarse a cabo en centros públicos de atención a los menores o en centros privados si existe concierto a este fin.
+2. La ejecución de medidas que supongan el internamiento de los menores podrá llevarse a cabo en centros públicos de atención a los menores o en centros privados si existe concierto a este fin.
 
-3. El órgano competente de la Administración autonómica deberá informar periódicamente de las incidencias y resultado de la ejecución de las medidas al órgano judicial que las haya acordado.
+3. El órgano competente de la Administración autonómica deberá informar periódicamente de las incidencias y resultado de la ejecución de las medidas al órgano judicial que las haya acordado.
 
 #### Artículo 80. Colaboración con la autoridad judicial.
 
-1. Los equipos, centros y servicios de atención a los menores de las Administraciones Públicas canarias colaborarán con los órganos judiciales competentes para la adopción y ejecución de las medidas que adopten en relación con la reinserción social de los menores.
+1. Los equipos, centros y servicios de atención a los menores de las Administraciones Públicas canarias colaborarán con los órganos judiciales competentes para la adopción y ejecución de las medidas que adopten en relación con la reinserción social de los menores.
 
-2. Específicamente los profesionales que presten servicios en la Administración autonómica realizarán los informes y propuestas que sean solicitados por los órganos judiciales competentes en materia de menores.
+2. Específicamente los profesionales que presten servicios en la Administración autonómica realizarán los informes y propuestas que sean solicitados por los órganos judiciales competentes en materia de menores.
 
 ## Título VII
 
@@ -945,15 +942,15 @@ d) La inspección y control de sus actividades.
 
 #### Artículo 83. Centros de atención a los menores.
 
-1. Los centros de atención a los menores pueden ser públicos, cuando su titular sea una Administración Pública, o privados, cuando su titular sea una entidad colaboradora reconocida conforme a lo dispuesto en esta Ley.
+1. Los centros de atención a los menores pueden ser públicos, cuando su titular sea una Administración Pública, o privados, cuando su titular sea una entidad colaboradora reconocida conforme a lo dispuesto en esta Ley.
 
-2. Reglamentariamente se establecerá la organización y funcionamiento de los centros públicos de atención a los menores y su tipología, determinando los medios materiales y capacidad máxima de cada uno de ellos, los órganos de gobierno y administración, así como los medios personales multidisciplinares de los que deban disponer.
+2. Reglamentariamente se establecerá la organización y funcionamiento de los centros públicos de atención a los menores y su tipología, determinando los medios materiales y capacidad máxima de cada uno de ellos, los órganos de gobierno y administración, así como los medios personales multidisciplinares de los que deban disponer.
 
-3. Los centros privados de atención a los menores deberán reunir los mismos requisitos y condiciones que se establezcan para los centros públicos.
+3. Los centros privados de atención a los menores deberán reunir los mismos requisitos y condiciones que se establezcan para los centros públicos.
 
 #### Artículo 84. Organización y funcionamiento.
 
-1. El reglamento de organización y funcionamiento de los centros públicos de atención a los menores recogerá, como mínimo, las siguientes materias:
+1. El reglamento de organización y funcionamiento de los centros públicos de atención a los menores recogerá, como mínimo, las siguientes materias:
 
 a) Organización de los centros, funciones de cada uno de los profesionales y de los equipos, así como el régimen de horario de trabajo de éstos, en el marco de la legislación aplicable.
 
@@ -973,9 +970,9 @@ h) Régimen de comunicaciones con el Ministerio Fiscal y con los órganos judici
 
 i) Desarrollo del régimen disciplinario previsto en esta Ley.
 
-2. Cada uno de los centros públicos contará con un reglamento de régimen interno, en el marco de lo dispuesto en la presente Ley y en el reglamento a que se refiere el número anterior.
+2. Cada uno de los centros públicos contará con un reglamento de régimen interno, en el marco de lo dispuesto en la presente Ley y en el reglamento a que se refiere el número anterior.
 
-3. En el reglamento de régimen interno de cada centro deberán contemplarse, al menos, los siguientes extremos:
+3. En el reglamento de régimen interno de cada centro deberán contemplarse, al menos, los siguientes extremos:
 
 a) Criterios fundamentales de actuación y objetivos, de acuerdo con los principios recogidos en esta ley.
 
@@ -991,9 +988,9 @@ f) Distribución de horarios y actividades del personal, de forma que quede gara
 
 #### Artículo 85. Régimen económico.
 
-1. Los centros de atención a los menores dependientes de la Administración Pública autonómica contarán con un régimen económico específico dotado de la autonomía necesaria para la prestación del servicio público al que están destinados.
+1. Los centros de atención a los menores dependientes de la Administración Pública autonómica contarán con un régimen económico específico dotado de la autonomía necesaria para la prestación del servicio público al que están destinados.
 
-2. El régimen económico que se establezca por la Ley de Presupuestos de la Comunidad Autónoma y se desarrolle reglamentariamente contemplará en todo caso los siguientes extremos:
+2. El régimen económico que se establezca por la Ley de Presupuestos de la Comunidad Autónoma y se desarrolle reglamentariamente contemplará en todo caso los siguientes extremos:
 
 a) El presupuesto de gastos, en el que se recogerán exclusivamente los gastos derivados del funcionamiento de los centros y de los servicios de apoyo a las actividades que se realicen en los mismos.
 
@@ -1043,69 +1040,69 @@ e) Desarrollar con la debida dedicación y aprovechamiento las actividades educa
 
 #### Artículo 88. Faltas de los menores residentes.
 
-1. Son faltas las conductas de los menores residentes en los centros que se tipifican y sancionan en el presente capítulo.
+1. Son faltas las conductas de los menores residentes en los centros que se tipifican y sancionan en el presente capítulo.
 
-2. Tendrán la consideración de faltas las siguientes conductas de los menores residentes:
+2. Tendrán la consideración de faltas las siguientes conductas de los menores residentes:
 
 A) Son faltas leves:
 
-1. Incumplir levemente las normas de convivencia del centro.
+1. Incumplir levemente las normas de convivencia del centro.
 
-2. Faltar levemente al respeto a cualquier persona dentro o fuera del centro.
+2. Faltar levemente al respeto a cualquier persona dentro o fuera del centro.
 
-3. Hacer uso abusivo y perjudicial de objetos o sustancias no prohibidas por las normas de régimen interno.
+3. Hacer uso abusivo y perjudicial de objetos o sustancias no prohibidas por las normas de régimen interno.
 
-4. Causar daños de escasa cuantía a las dependencias, materiales y efectos del centro y pertenencias de otros por falta de cuidado o de diligencia en su utilización.
+4. Causar daños de escasa cuantía a las dependencias, materiales y efectos del centro y pertenencias de otros por falta de cuidado o de diligencia en su utilización.
 
-5. Las acciones u omisiones previstas en la letra B) de este artículo, siempre que el incumplimiento o los perjuicios no fueran graves, atendiendo a las circunstancias concurrentes.
+5. Las acciones u omisiones previstas en la letra B) de este artículo, siempre que el incumplimiento o los perjuicios no fueran graves, atendiendo a las circunstancias concurrentes.
 
 B) Son faltas graves:
 
-1. Incumplir gravemente las normas de convivencia del centro.
+1. Incumplir gravemente las normas de convivencia del centro.
 
-2. Insultar o faltar gravemente al respeto a cualquier persona dentro o fuera del centro.
+2. Insultar o faltar gravemente al respeto a cualquier persona dentro o fuera del centro.
 
-3. Instigar a otros menores internados a motines, insubordinaciones o desórdenes colectivos, sin conseguir que éstos le secunden.
+3. Instigar a otros menores internados a motines, insubordinaciones o desórdenes colectivos, sin conseguir que éstos le secunden.
 
-4. No volver al centro, sin causa justificada el día y hora establecidos después de una salida temporal autorizada.
+4. No volver al centro, sin causa justificada el día y hora establecidos después de una salida temporal autorizada.
 
-5. Intentar de forma manifiesta la fuga del centro.
+5. Intentar de forma manifiesta la fuga del centro.
 
-6. Desobedecer las órdenes recibidas del personal trabajador del centro en el ejercicio legítimo de sus atribuciones o resistirse pasivamente a cumplirlas.
+6. Desobedecer las órdenes recibidas del personal trabajador del centro en el ejercicio legítimo de sus atribuciones o resistirse pasivamente a cumplirlas.
 
-7. Inutilizar deliberadamente las dependencias, materiales y efectos del centro o las pertenencias de otras personas.
+7. Inutilizar deliberadamente las dependencias, materiales y efectos del centro o las pertenencias de otras personas.
 
-8. Causar daños de cuantía elevada por temeridad en la utilización de las dependencias, materiales y efectos del centro o pertenencias de otras personas.
+8. Causar daños de cuantía elevada por temeridad en la utilización de las dependencias, materiales y efectos del centro o pertenencias de otras personas.
 
-9. Introducir, poseer o consumir en el centro objetos o sustancias que estén prohibidas por las normas de régimen interno.
+9. Introducir, poseer o consumir en el centro objetos o sustancias que estén prohibidas por las normas de régimen interno.
 
-10. Haber sido sancionado por la comisión de cinco faltas leves durante el mismo período de estancia en el centro, si éste es inferior a un año, o durante el último año, si el período de estancia es superior.
+10. Haber sido sancionado por la comisión de cinco faltas leves durante el mismo período de estancia en el centro, si éste es inferior a un año, o durante el último año, si el período de estancia es superior.
 
-11. Las acciones u omisiones previstas en la letra C) de este artículo, siempre que el incumplimiento o los perjuicios no fueran muy graves, atendiendo a las circunstancias concurrentes.
+11. Las acciones u omisiones previstas en la letra C) de este artículo, siempre que el incumplimiento o los perjuicios no fueran muy graves, atendiendo a las circunstancias concurrentes.
 
 C) Son faltas muy graves:
 
-1. Agredir, amenazar o coaccionar a cualquier persona dentro o fuera del centro.
+1. Agredir, amenazar o coaccionar a cualquier persona dentro o fuera del centro.
 
-2. Participar en motines, insubordinaciones o desórdenes colectivos o haber instigado a realizarlos en el caso de que se hayan producido.
+2. Participar en motines, insubordinaciones o desórdenes colectivos o haber instigado a realizarlos en el caso de que se hayan producido.
 
-3. Facilitar o consumar la fuga del centro.
+3. Facilitar o consumar la fuga del centro.
 
-4. Resistirse de manera activa y grave al cumplimiento de las órdenes del personal trabajador del centro en el ejercicio legítimo de sus atribuciones.
+4. Resistirse de manera activa y grave al cumplimiento de las órdenes del personal trabajador del centro en el ejercicio legítimo de sus atribuciones.
 
-6. Inutilizar deliberadamente las dependencias, materiales o efectos del centro o las pertenencias de otras personas y causar en los mismos daños de cuantía elevada.
+6. Inutilizar deliberadamente las dependencias, materiales o efectos del centro o las pertenencias de otras personas y causar en los mismos daños de cuantía elevada.
 
-6. Sustraer materiales o efectos del centro o pertenencias de otras personas.
+6. Sustraer materiales o efectos del centro o pertenencias de otras personas.
 
-7. Introducir, poseer o consumir en el centro drogas tóxicas, sustancias psicotrópicas o estupefacientes.
+7. Introducir, poseer o consumir en el centro drogas tóxicas, sustancias psicotrópicas o estupefacientes.
 
-8. Haber sido sancionado por la comisión de tres faltas graves durante el mismo período de estancia en el centro, si éste es inferior a un año, o durante el último año, si el período de estancia es superior.
+8. Haber sido sancionado por la comisión de tres faltas graves durante el mismo período de estancia en el centro, si éste es inferior a un año, o durante el último año, si el período de estancia es superior.
 
 #### Artículo 89. Medidas correctoras.
 
-1. Las medidas correctoras por las faltas cometidas por los menores deberán tener contenido y función esencialmente educativo, y no podrán implicar, directa o indirectamente, castigos corporales, privación de la alimentación, privación del derecho de visita de los familiares, privación del derecho a la educación obligatoria y de asistencia al centro escolar, ni atentar contra la dignidad del menor.
+1. Las medidas correctoras por las faltas cometidas por los menores deberán tener contenido y función esencialmente educativo, y no podrán implicar, directa o indirectamente, castigos corporales, privación de la alimentación, privación del derecho de visita de los familiares, privación del derecho a la educación obligatoria y de asistencia al centro escolar, ni atentar contra la dignidad del menor.
 
-2. Las medidas correctoras aplicables a los menores podrán ser las siguientes:
+2. Las medidas correctoras aplicables a los menores podrán ser las siguientes:
 
 A) Por faltas leves:
 
@@ -1131,7 +1128,7 @@ b) Realización de actividades de interés para la colectividad, en el propio ce
 
 c) Separación del grupo con privación o limitación de estímulos por tiempo máximo de tres días.
 
-3. Para la graduación de las medidas correctoras se tendrán en cuenta los siguientes criterios:
+3. Para la graduación de las medidas correctoras se tendrán en cuenta los siguientes criterios:
 
 a) Edad y características del menor.
 
@@ -1145,11 +1142,11 @@ e) La perturbación del funcionamiento del centro.
 
 f) Los perjuicios causados a los demás residentes, al personal o a los bienes o instalaciones del centro.
 
-4. La petición de excusas a la persona ofendida, la restitución de los bienes o la reparación de los daños pueden dar lugar a la suspensión de las medidas correctoras siempre que no se reitere la conducta infractora.
+4. La petición de excusas a la persona ofendida, la restitución de los bienes o la reparación de los daños pueden dar lugar a la suspensión de las medidas correctoras siempre que no se reitere la conducta infractora.
 
 #### Artículo 90. Procedimiento.
 
-1. Los expedientes correctivos se desarrollarán preferentemente de forma verbal, sin perjuicio de su constancia escrita. En todo caso, en los mismos se garantizarán los siguientes derechos de los menores:
+1. Los expedientes correctivos se desarrollarán preferentemente de forma verbal, sin perjuicio de su constancia escrita. En todo caso, en los mismos se garantizarán los siguientes derechos de los menores:
 
 a) A ser oído, siempre que hubieren cumplido los doce años, en todo caso, y cuando tuviere suficiente juicio.
 
@@ -1157,29 +1154,29 @@ b) A aportar pruebas.
 
 c) A ser asesorado por la persona del centro que designe.
 
-2. Reglamentariamente se determinarán los órganos competentes de los centros para iniciar, instruir y resolver los expedientes correctivos.
+2. Reglamentariamente se determinarán los órganos competentes de los centros para iniciar, instruir y resolver los expedientes correctivos.
 
-3. Las medidas correctoras que se impongan a los menores residentes serán comunicadas inmediatamente al Ministerio Fiscal y, cuando hayan sido internados por resolución judicial, al juzgado competente. Asimismo, se comunicarán, para constancia en su expediente personal, a la Dirección General competente de la Administración autonómica.
+3. Las medidas correctoras que se impongan a los menores residentes serán comunicadas inmediatamente al Ministerio Fiscal y, cuando hayan sido internados por resolución judicial, al juzgado competente. Asimismo, se comunicarán, para constancia en su expediente personal, a la Dirección General competente de la Administración autonómica.
 
 ## Capítulo III. Estatuto del personal de los centros.
 
 #### Artículo 91. Requisitos y selección.
 
-1. El personal que preste sus servicios en los centros públicos de atención a los menores en el ámbito de la Comunidad Autónoma de Canarias deberá reunir los requisitos profesionales y personales adecuados a las actividades, tareas y cometidos específicos a desarrollar, de acuerdo con lo que se establezca reglamentariamente.
+1. El personal que preste sus servicios en los centros públicos de atención a los menores en el ámbito de la Comunidad Autónoma de Canarias deberá reunir los requisitos profesionales y personales adecuados a las actividades, tareas y cometidos específicos a desarrollar, de acuerdo con lo que se establezca reglamentariamente.
 
-2. Los sistemas de selección del personal y los procedimientos para cubrir los puestos de trabajo existentes en los centros públicos de atención a los menores incluirán las pruebas y medios que sean precisos para garantizar la aptitud y actitud adecuadas para su desempeño en el marco de lo establecido en la legislación reguladora del personal al servicio de las Administraciones Públicas.
+2. Los sistemas de selección del personal y los procedimientos para cubrir los puestos de trabajo existentes en los centros públicos de atención a los menores incluirán las pruebas y medios que sean precisos para garantizar la aptitud y actitud adecuadas para su desempeño en el marco de lo establecido en la legislación reguladora del personal al servicio de las Administraciones Públicas.
 
 #### Artículo 92. Cometidos del personal.
 
-1. En el Reglamento Común de Organización y Funcionamiento de los centros de menores se establecerán las actividades, tareas y cometidos generales que constituyen la responsabilidad de cada uno de los profesionales que presten sus servicios en los mismos.
+1. En el Reglamento Común de Organización y Funcionamiento de los centros de menores se establecerán las actividades, tareas y cometidos generales que constituyen la responsabilidad de cada uno de los profesionales que presten sus servicios en los mismos.
 
-2. El reglamento de régimen interior y funcionamiento de cada centro contendrá las actividades, tareas y cometidos específicos del personal adscrito al mismo, en el marco de lo dispuesto en el apartado anterior.
+2. El reglamento de régimen interior y funcionamiento de cada centro contendrá las actividades, tareas y cometidos específicos del personal adscrito al mismo, en el marco de lo dispuesto en el apartado anterior.
 
-3. El régimen de prestación de servicios en los centros de menores, tanto del personal estatutario como laboral, incluirá las medidas necesarias para garantizar la atención continua y permanente a los menores.
+3. El régimen de prestación de servicios en los centros de menores, tanto del personal estatutario como laboral, incluirá las medidas necesarias para garantizar la atención continua y permanente a los menores.
 
 #### Artículo 93. Faltas y sanciones disciplinarias.
 
-1. Sin perjuicio de las contenidas en las normas aplicables al personal al servicio de las Administraciones Públicas, se consideran faltas disciplinarias del personal que preste sus servicios en los centros de menores las siguientes:
+1. Sin perjuicio de las contenidas en las normas aplicables al personal al servicio de las Administraciones Públicas, se consideran faltas disciplinarias del personal que preste sus servicios en los centros de menores las siguientes:
 
 A) Faltas graves:
 
@@ -1197,7 +1194,7 @@ a) El incumplimiento del deber de confidencialidad y sigilo respecto a los datos
 
 b) Impedir o dificultar el ejercicio de los derechos fundamentales reconocidos a los menores.
 
-2. Las sanciones aplicables a las faltas contempladas en este artículo serán las previstas para el personal funcionario en la Ley de la Función Pública Canaria y para el personal en régimen laboral en su normativa específica.
+2. Las sanciones aplicables a las faltas contempladas en este artículo serán las previstas para el personal funcionario en la Ley de la Función Pública Canaria y para el personal en régimen laboral en su normativa específica.
 
 #### Artículo 94. Procedimiento disciplinario.
 
@@ -1223,15 +1220,15 @@ d) Poseer los medios personales y materiales idóneos y necesarios para la reali
 
 #### Artículo 97. Tareas y actividades a desarrollar.
 
-1. La resolución administrativa de reconocimiento como entidades colaboradoras habilitará a éstas para la realización de las actividades y tareas directamente relacionadas con la atención integral a los menores que se establezcan en las normas de desarrollo de la presente Ley.
+1. La resolución administrativa de reconocimiento como entidades colaboradoras habilitará a éstas para la realización de las actividades y tareas directamente relacionadas con la atención integral a los menores que se establezcan en las normas de desarrollo de la presente Ley.
 
-2. Dicha resolución deberá recoger de modo expreso las tareas o actividades de atención a los menores para las que quedan habilitadas, sin que en ningún caso pueda delegarse en las entidades colaboradoras el ejercicio de competencias administrativas.
+2. Dicha resolución deberá recoger de modo expreso las tareas o actividades de atención a los menores para las que quedan habilitadas, sin que en ningún caso pueda delegarse en las entidades colaboradoras el ejercicio de competencias administrativas.
 
-3. La apertura y funcionamiento de servicios, hogares funcionales y centros de atención a los menores de las entidades colaboradoras deberán obtener la previa autorización administrativa de acuerdo con las condiciones y el procedimiento que se establezca reglamentariamente.
+3. La apertura y funcionamiento de servicios, hogares funcionales y centros de atención a los menores de las entidades colaboradoras deberán obtener la previa autorización administrativa de acuerdo con las condiciones y el procedimiento que se establezca reglamentariamente.
 
 #### Artículo 98. Derechos y obligaciones.
 
-1. Las entidades colaboradoras reconocidas por la Administración Pública de la Comunidad Autónoma de Canarias tendrán los siguientes derechos:
+1. Las entidades colaboradoras reconocidas por la Administración Pública de la Comunidad Autónoma de Canarias tendrán los siguientes derechos:
 
 a) Colaboración y asistencia de los órganos y servicios administrativos de la Administración autonómica en la realización de las actividades y tareas para las que estén habilitadas.
 
@@ -1239,7 +1236,7 @@ b) Preferencia en la obtención de las ayudas y subvenciones que tengan por fina
 
 c) Exención de prestar garantías por el abono anticipado de las cantidades concedidas en concepto de subvención por la Administración autonómica.
 
-2. En el desempeño de las tareas y actividades de atención a los menores para las que estén habilitadas las entidades colaboradoras tienen las siguientes obligaciones:
+2. En el desempeño de las tareas y actividades de atención a los menores para las que estén habilitadas las entidades colaboradoras tienen las siguientes obligaciones:
 
 a) Respetar los derechos reconocidos a los menores por el ordenamiento jurídico.
 
@@ -1255,15 +1252,15 @@ f) Cualesquiera otras que se prevean reglamentariamente o se establezcan expresa
 
 #### Artículo 99. Procedimiento de reconocimiento.
 
-1. El procedimiento de reconocimiento de entidades colaboradoras se ajustará a lo que se disponga reglamentariamente, garantizándose la audiencia de los solicitantes. En el mismo se preverán los medios y medidas que sean precisos para constatar que los interesados reúnen los requisitos personales y materiales idóneos y necesarios para desarrollar las tareas y actividades de atención a los menores para los que solicitan la habilitación.
+1. El procedimiento de reconocimiento de entidades colaboradoras se ajustará a lo que se disponga reglamentariamente, garantizándose la audiencia de los solicitantes. En el mismo se preverán los medios y medidas que sean precisos para constatar que los interesados reúnen los requisitos personales y materiales idóneos y necesarios para desarrollar las tareas y actividades de atención a los menores para los que solicitan la habilitación.
 
-2. Deberán publicarse en el «Boletín Oficial de Canarias» las entidades colaboradoras reconocidas, así como las tareas y actividades para las que sean habilitadas.
+2. Deberán publicarse en el «Boletín Oficial de Canarias» las entidades colaboradoras reconocidas, así como las tareas y actividades para las que sean habilitadas.
 
 #### Artículo 100. Inspección y control.
 
-1. La Administración Pública de la Comunidad Autónoma, por sí misma o a través de los Cabildos Insulares deberá inspeccionar y controlar, con la periodicidad que se determine reglamentariamente, las condiciones en que las entidades colaboradoras desarrollan las actividades o tareas de atención a menores para las que han sido habilitadas y, en su caso, el cumplimiento de los requisitos exigidos para la apertura y funcionamiento de servicios, hogares funcionales y centros de atención a los menores.
+1. La Administración Pública de la Comunidad Autónoma, por sí misma o a través de los Cabildos Insulares deberá inspeccionar y controlar, con la periodicidad que se determine reglamentariamente, las condiciones en que las entidades colaboradoras desarrollan las actividades o tareas de atención a menores para las que han sido habilitadas y, en su caso, el cumplimiento de los requisitos exigidos para la apertura y funcionamiento de servicios, hogares funcionales y centros de atención a los menores.
 
-2. La inspección y control de las entidades colaboradoras abarcarán, en todo caso, los siguientes extremos:
+2. La inspección y control de las entidades colaboradoras abarcarán, en todo caso, los siguientes extremos:
 
 a) Las condiciones e idoneidad de los medios materiales con que desarrollan las tareas y actividades, así como los requisitos profesionales y aptitudes personales de quienes las realizan.
 
@@ -1277,7 +1274,7 @@ e) Los demás que se establezcan reglamentariamente.
 
 #### Artículo 101. Revocación como entidad colaboradora.
 
-1. El reconocimiento como entidad colaboradora podrá revocarse cuando concurra alguno de los siguientes supuestos:
+1. El reconocimiento como entidad colaboradora podrá revocarse cuando concurra alguno de los siguientes supuestos:
 
 a) Dejar de reunir cualesquiera de las condiciones y requisitos exigidos para obtener el reconocimiento.
 
@@ -1287,13 +1284,13 @@ c) Prestar los servicios o mantener en funcionamiento hogares funcionales o cent
 
 d) Incumplir los deberes legales impuestos en sus actuaciones de atención a los menores.
 
-2. Asimismo, cuando concurran los supuestos previstos en la letra b) del número anterior podrán limitarse las tareas y actividades para las que fue habilitada en la resolución de reconocimiento.
+2. Asimismo, cuando concurran los supuestos previstos en la letra b) del número anterior podrán limitarse las tareas y actividades para las que fue habilitada en la resolución de reconocimiento.
 
-3. La resolución de revocación que se dicte, previa audiencia de los interesados, pondrá fin a la vía administrativa.
+3. La resolución de revocación que se dicte, previa audiencia de los interesados, pondrá fin a la vía administrativa.
 
-4. La revocación del reconocimiento como entidad colaboradora se acordará siempre sin perjuicio de las responsabilidades de cualquier orden en que haya podido incurrir la misma.
+4. La revocación del reconocimiento como entidad colaboradora se acordará siempre sin perjuicio de las responsabilidades de cualquier orden en que haya podido incurrir la misma.
 
-5. Deberán publicarse en el «Boletín Oficial de Canarias» las entidades cuyo reconocimiento haya sido revocado, así como aquellas a las que se les hayan limitado las tareas y actividades para las que fueron habilitadas.
+5. Deberán publicarse en el «Boletín Oficial de Canarias» las entidades cuyo reconocimiento haya sido revocado, así como aquellas a las que se les hayan limitado las tareas y actividades para las que fueron habilitadas.
 
 ## Capítulo II. Órganos de participación.
 
@@ -1319,85 +1316,81 @@ Son infracciones administrativas, en el ámbito de la presente Ley, las acciones
 
 Constituyen infracciones leves:
 
-1. Incumplir las normas aplicables para la apertura o funcionamiento de servicios, hogares funcionales o centros de atención a los menores, si de ello no se derivan perjuicios relevantes.
+1. Incumplir las normas aplicables para la apertura o funcionamiento de servicios, hogares funcionales o centros de atención a los menores, si de ello no se derivan perjuicios relevantes.
 
-2. Incumplir el deber de actualizar los datos que constan en el Registro de entidades colaboradoras.
+2. Incumplir el deber de actualizar los datos que constan en el Registro de entidades colaboradoras.
 
-3. No facilitar el tratamiento y la atención que correspondan a las necesidades de los menores, siempre que no se deriven perjuicios sensibles para los mismos.
+3. No facilitar el tratamiento y la atención que correspondan a las necesidades de los menores, siempre que no se deriven perjuicios sensibles para los mismos.
 
-4. Cualquier otra infracción que, estando tipificada como grave, no mereciera esta consideración por razón de su falta de intencionalidad, naturaleza, ocasión o circunstancias.
+4. Cualquier otra infracción que, estando tipificada como grave, no mereciera esta consideración por razón de su falta de intencionalidad, naturaleza, ocasión o circunstancias.
 
 #### Artículo 106. Infracciones graves.
 
 Constituyen infracciones graves:
 
-1. Reincidir en infracciones leves.
+1. Reincidir en infracciones leves.
 
-2. Incurrir en las infracciones tipificadas como leves, siempre que el incumplimiento o los perjuicios sean graves.
+2. Incurrir en las infracciones tipificadas como leves, siempre que el incumplimiento o los perjuicios sean graves.
 
-3. No poner en conocimiento de las autoridades competentes la posible situación de riesgo o desamparo en que pudiera encontrarse un menor.
+3. No poner en conocimiento de las autoridades competentes la posible situación de riesgo o desamparo en que pudiera encontrarse un menor.
 
-4. Intervenir con funciones de mediación en la acogida o adopción de menores sin la previa habilitación administrativa.
+4. Intervenir con funciones de mediación en la acogida o adopción de menores sin la previa habilitación administrativa.
 
-5. Recibir a un menor ajeno a la familia de las personas receptoras con la intención de su futura adopción, sin la intervención del órgano competente de la Administración autonómica.
+5. Recibir a un menor ajeno a la familia de las personas receptoras con la intención de su futura adopción, sin la intervención del órgano competente de la Administración autonómica.
 
-6. Incumplir las resoluciones administrativas que se dicten en materia de atención a los menores.
+6. Incumplir las resoluciones administrativas que se dicten en materia de atención a los menores.
 
-7. Proceder a la apertura o iniciar el funcionamiento del servicio, hogar funcional o centro de atención a los menores sin haber obtenido la preceptiva autorización administrativa.
+7. Proceder a la apertura o iniciar el funcionamiento del servicio, hogar funcional o centro de atención a los menores sin haber obtenido la preceptiva autorización administrativa.
 
-8. Incumplir la normativa específica establecida para cada tipo de servicio, hogar funcional o centro de atención a los menores.
+8. Incumplir la normativa específica establecida para cada tipo de servicio, hogar funcional o centro de atención a los menores.
 
-9. Incumplir el deber de confidencialidad y sigilo respecto a los datos personales de los menores.
+9. Incumplir el deber de confidencialidad y sigilo respecto a los datos personales de los menores.
 
-10. Difundir, a través de medios de comunicación, datos personales de los menores.
+10. Difundir, a través de medios de comunicación, datos personales de los menores.
 
-11. No facilitar el tratamiento o la atención que correspondan a las necesidades de los menores.
+11. No facilitar el tratamiento o la atención que correspondan a las necesidades de los menores.
 
-12. Excederse en las medidas correctoras a los menores.
+12. Excederse en las medidas correctoras a los menores.
 
-13. Limitar los derechos de los menores más allá de lo acordado por decisión judicial.
+13. Limitar los derechos de los menores más allá de lo acordado por decisión judicial.
 
-14. Amparar o ejercer prácticas lucrativas en centros o servicios de atención a los menores definidos sin ánimo de lucro, por parte de los titulares de los mismos o del personal a su servicio.
+14. Amparar o ejercer prácticas lucrativas en centros o servicios de atención a los menores definidos sin ánimo de lucro, por parte de los titulares de los mismos o del personal a su servicio.
 
-15. Impedir, obstruir o dificultar de cualquier modo las funciones de inspección y control de los centros o servicios de atención a los menores, tanto los titulares de los mismos como el personal a su servicio.
+15. Impedir, obstruir o dificultar de cualquier modo las funciones de inspección y control de los centros o servicios de atención a los menores, tanto los titulares de los mismos como el personal a su servicio.
 
-16. Aplicar las ayudas y subvenciones recibidas a situaciones, estados o hechos, o a destinos o finalidades diferentes de los que justificaron su concesión, cuando de ello no se deriven responsabilidades penales.
+16. Aplicar las ayudas y subvenciones recibidas a situaciones, estados o hechos, o a destinos o finalidades diferentes de los que justificaron su concesión, cuando de ello no se deriven responsabilidades penales.
 
-17. Percibir cantidades no autorizadas por prestaciones o servicios de atención a los menores o su familia, cuando las entidades colaboradoras actúen en régimen de concierto con una Administración Pública.
+17. Percibir cantidades no autorizadas por prestaciones o servicios de atención a los menores o su familia, cuando las entidades colaboradoras actúen en régimen de concierto con una Administración Pública.
 
-18. Incumplir la obligación de inscripción en los registros establecidos en relación con la atención integral a los menores.
+18. Incumplir la obligación de inscripción en los registros establecidos en relación con la atención integral a los menores.
 
-19. No gestionar plaza escolar para el menor en período de escolarización obligatoria o impedir la asistencia al centro escolar sin causa justificada, por parte de quienes tengan potestad sobre el mismo.
+19. No gestionar plaza escolar para el menor en período de escolarización obligatoria o impedir la asistencia al centro escolar sin causa justificada, por parte de quienes tengan potestad sobre el mismo.
 
 20. Vender, suministrar o dispensar, de forma gratuita o no, a los menores bebidas alcohólicas o tabaco.
 
-21. Vender, suministrar o dispensar bebidas alcohólicas o tabaco en centros de enseñanza a los que asistan menores y en establecimientos, recintos, locales o espacios dedicados específicamente a menores.
+21. Vender, suministrar o dispensar bebidas alcohólicas o tabaco en centros de enseñanza a los que asistan menores y en establecimientos, recintos, locales o espacios dedicados específicamente a menores.
 
-22. Utilizar menores en actividades o espectáculos prohibidos a los mismos por esta ley.
+22. Utilizar menores en actividades o espectáculos prohibidos a los mismos por esta ley.
 
-23. Permitir la entrada de menores en los establecimientos o locales a que hace referencia el artículo 33 de esta Ley.
+23. Permitir la entrada de menores en los establecimientos o locales a que hace referencia el artículo 33 de esta Ley.
 
-24. Vender o suministrar a menores las publicaciones recogidas en el artículo 34.
+24. Vender o suministrar a menores las publicaciones recogidas en el artículo 34. 25. Vender, alquilar, difundir o proyectar a los menores los medios audiovisuales a que hace referencia el artículo 35. 26. Emitir programación a través de medios audiovisuales sin ajustarse a las reglas contenidas en esta Ley.
 
-25. Vender, alquilar, difundir o proyectar a los menores los medios audiovisuales a que hace referencia el artículo 35.
+27. Emitir o difundir publicidad prohibida o contraria a esta Ley.
 
-26. Emitir programación a través de medios audiovisuales sin ajustarse a las reglas contenidas en esta Ley.
-
-27. Emitir o difundir publicidad prohibida o contraria a esta Ley.
-
-28. Cualquier otra infracción que, estando tipificada como muy grave, no mereciera esta consideración por razón de su falta de intencionalidad, naturaleza, ocasión o circunstancias.
+28. Cualquier otra infracción que, estando tipificada como muy grave, no mereciera esta consideración por razón de su falta de intencionalidad, naturaleza, ocasión o circunstancias.
 
 #### Artículo 107. Infracciones muy graves.
 
 Constituyen infracciones muy graves:
 
-1. Reincidir en infracciones graves.
+1. Reincidir en infracciones graves.
 
-2. Incurrir en las infracciones graves previstas en el artículo anterior si de las mismas se derivara un daño o perjuicio para los derechos de los menores de difícil o imposible reparación.
+2. Incurrir en las infracciones graves previstas en el artículo anterior si de las mismas se derivara un daño o perjuicio para los derechos de los menores de difícil o imposible reparación.
 
-3. Intervenir con funciones de mediación en la acogida o adopción mediante precio o engaño, o con peligro manifiesto para la integridad física o psíquica del menor.
+3. Intervenir con funciones de mediación en la acogida o adopción mediante precio o engaño, o con peligro manifiesto para la integridad física o psíquica del menor.
 
-4. Recibir a un menor ajeno a la familia de las personas receptoras con la intención de su futura adopción sin la intervención del órgano competente de la Administración autonómica, mediante precio o engaño, o con peligro para la integridad física o psíquica del menor.
+4. Recibir a un menor ajeno a la familia de las personas receptoras con la intención de su futura adopción sin la intervención del órgano competente de la Administración autonómica, mediante precio o engaño, o con peligro para la integridad física o psíquica del menor.
 
 #### Artículo 108. Responsables.
 
@@ -1425,9 +1418,9 @@ c) **Infracciones muy graves.** Multa de 20.000.001 a 100.000.000 de pesetas.
 
 #### Artículo 112. Acumulación de sanciones.
 
-1. A las sanciones previstas en el artículo anterior podrá acumularse la sanción de revocación de las ayudas o subvenciones concedidas a las personas físicas o jurídicas responsables y/o la de inhabilitación para recibir cualquier tipo de ayudas o subvención de la Administración autonómica por un plazo de uno a cinco años.
+1. A las sanciones previstas en el artículo anterior podrá acumularse la sanción de revocación de las ayudas o subvenciones concedidas a las personas físicas o jurídicas responsables y/o la de inhabilitación para recibir cualquier tipo de ayudas o subvención de la Administración autonómica por un plazo de uno a cinco años.
 
-2. Cuando los responsables sean los titulares de los servicios, hogares funcionales o centros de atención a los menores, reconocidos como entidades colaboradoras, podrán acumularse a las sanciones previstas en el artículo anterior una o varias de las sanciones siguientes:
+2. Cuando los responsables sean los titulares de los servicios, hogares funcionales o centros de atención a los menores, reconocidos como entidades colaboradoras, podrán acumularse a las sanciones previstas en el artículo anterior una o varias de las sanciones siguientes:
 
 a) Cierre temporal o definitivo, total o parcial, del centro, hogar funcional o servicio en que se cometió la infracción.
 
@@ -1435,13 +1428,13 @@ b) Revocación del reconocimiento como entidad colaboradora.
 
 c) Inhabilitación para obtener ayudas y subvenciones de la Administración Pública por plazo de uno a cinco años.
 
-3. Cuando los responsables sean los titulares de medios de comunicación, por infracciones cometidas a través de los mismos, podrá imponerse como sanción acumulada la difusión pública de la resolución sancionadora por los mismos medios de comunicación.
+3. Cuando los responsables sean los titulares de medios de comunicación, por infracciones cometidas a través de los mismos, podrá imponerse como sanción acumulada la difusión pública de la resolución sancionadora por los mismos medios de comunicación.
 
-4. En las infracciones consistentes en la venta, suministro o dispensación de productos o bienes prohibidos a los menores, así como permitir la entrada de los mismos en establecimientos o locales a que se refiere el artículo 33 de esta ley, podrá imponerse como sanción acumulada el cierre temporal hasta un plazo de cinco años, o definitivo de los establecimientos, locales, instalaciones, recintos o espacios en que se haya cometido la infracción.
+4. En las infracciones consistentes en la venta, suministro o dispensación de productos o bienes prohibidos a los menores, así como permitir la entrada de los mismos en establecimientos o locales a que se refiere el artículo 33 de esta ley, podrá imponerse como sanción acumulada el cierre temporal hasta un plazo de cinco años, o definitivo de los establecimientos, locales, instalaciones, recintos o espacios en que se haya cometido la infracción.
 
 #### Artículo 113. Graduación de las sanciones.
 
-1. Para la concreción de las sanciones y la cuantía de las multas deberá guardarse la debida adecuación de la misma con la gravedad del hecho constitutivo de infracción, considerándose especialmente los criterios siguientes:
+1. Para la concreción de las sanciones y la cuantía de las multas deberá guardarse la debida adecuación de la misma con la gravedad del hecho constitutivo de infracción, considerándose especialmente los criterios siguientes:
 
 a) El grado de intencionalidad o negligencia del infractor.
 
@@ -1451,7 +1444,7 @@ c) La trascendencia económica y social de la infracción.
 
 d) La reincidencia y la reiteración de las infracciones.
 
-2. En los supuestos en que el beneficio económico logrado como consecuencia de la comisión de la infracción supere la cuantía de la sanción establecida en esta Ley, la misma se elevará hasta el importe equivalente al beneficio obtenido.
+2. En los supuestos en que el beneficio económico logrado como consecuencia de la comisión de la infracción supere la cuantía de la sanción establecida en esta Ley, la misma se elevará hasta el importe equivalente al beneficio obtenido.
 
 ## Capítulo III. Procedimiento sancionador.
 
@@ -1469,9 +1462,9 @@ Son órganos competentes para la iniciación, instrucción y resolución de los 
 
 #### Artículo 117. Efectos de las resoluciones.
 
-1. Las resoluciones que pongan fin a la vía administrativa serán inmediatamente ejecutivas.
+1. Las resoluciones que pongan fin a la vía administrativa serán inmediatamente ejecutivas.
 
-2. Las resoluciones que no pongan fin a la vía administrativa no serán ejecutivas en tanto no haya recaído resolución del recurso ordinario que, en su caso, se haya interpuesto, o haya transcurrido el plazo para su interposición sin que ésta se haya producido.
+2. Las resoluciones que no pongan fin a la vía administrativa no serán ejecutivas en tanto no haya recaído resolución del recurso ordinario que, en su caso, se haya interpuesto, o haya transcurrido el plazo para su interposición sin que ésta se haya producido.
 
 #### Artículo 118. Publicidad de las sanciones.
 
@@ -1513,11 +1506,11 @@ Podrán adquirirse compromisos de gastos plurianuales, de acuerdo con los crédi
 
 Se modifica el artículo 25 de la Ley territorial 9/1987, de 28 de abril, de Servicios Sociales, quedando redactado en la forma siguiente:
 
-«1. El Gobierno de Canarias establecerá el régimen de ayudas, subvenciones, transferencias y otras prestaciones económicas destinadas a garantizar el derecho de todos los ciudadanos a los servicios sociales.
+«1. El Gobierno de Canarias establecerá el régimen de ayudas, subvenciones, transferencias y otras prestaciones económicas destinadas a garantizar el derecho de todos los ciudadanos a los servicios sociales.
 
-2. Podrán celebrarse convenios con las entidades locales canarias y con las entidades colaboradoras para la prestación de servicios sociales. Dichos convenios tendrán el plazo de vigencia plurianual que garantice la estabilidad y conclusión de los programas o prestaciones de servicios sociales, sin perjuicio de que puedan celebrarse con otra vigencia para actuaciones específicas o singulares.
+2. Podrán celebrarse convenios con las entidades locales canarias y con las entidades colaboradoras para la prestación de servicios sociales. Dichos convenios tendrán el plazo de vigencia plurianual que garantice la estabilidad y conclusión de los programas o prestaciones de servicios sociales, sin perjuicio de que puedan celebrarse con otra vigencia para actuaciones específicas o singulares.
 
-3. Para la concesión de ayudas, subvenciones, transferencias u otras prestaciones económicas para la ejecución de programas, servicios o actuaciones de servicios sociales, será requisito necesario que los mismos se ajusten a la planificación y programación aprobadas por los órganos competentes de la Administración Pública autonómica.»
+3. Para la concesión de ayudas, subvenciones, transferencias u otras prestaciones económicas para la ejecución de programas, servicios o actuaciones de servicios sociales, será requisito necesario que los mismos se ajusten a la planificación y programación aprobadas por los órganos competentes de la Administración Pública autonómica.»
 
 #### Disposición adicional sexta.
 
@@ -1529,15 +1522,15 @@ Se autoriza al Gobierno, mediante Decreto, a actualizar periódicamente las cuan
 
 #### Disposición transitoria primera.
 
-1. Los procedimientos administrativos iniciados antes de la entrada en vigor de la presente Ley en el ámbito de las actuaciones de amparo previstas en el título V de la misma, continuarán su tramitación conforme a lo establecido en el Decreto 103/1994, de 10 de junio, por el que se regulan los procedimientos y registros de la adopción y de las formas de protección de menores en el ámbito de la Comunidad Autónoma de Canarias, sin perjuicio de las adaptaciones que procedan a las modificaciones introducidas en el Código Civil por la [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero.
+1. Los procedimientos administrativos iniciados antes de la entrada en vigor de la presente Ley en el ámbito de las actuaciones de amparo previstas en el título V de la misma, continuarán su tramitación conforme a lo establecido en el Decreto 103/1994, de 10 de junio, por el que se regulan los procedimientos y registros de la adopción y de las formas de protección de menores en el ámbito de la Comunidad Autónoma de Canarias, sin perjuicio de las adaptaciones que procedan a las modificaciones introducidas en el Código Civil por la [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero.
 
-2. Asimismo, hasta la aprobación de las disposiciones reglamentarias previstas en el citado título V de esta Ley, se aplicará la normativa citada en el apartado anterior a los procedimientos que se inicien a partir de la entrada en vigor de la misma.
+2. Asimismo, hasta la aprobación de las disposiciones reglamentarias previstas en el citado título V de esta Ley, se aplicará la normativa citada en el apartado anterior a los procedimientos que se inicien a partir de la entrada en vigor de la misma.
 
 #### Disposición transitoria segunda.
 
-1. Hasta tanto se apruebe el reglamento de las entidades colaboradoras ajustado a lo dispuesto en esta Ley, podrán continuar desempeñando funciones de atención a los menores las entidades colaboradoras reconocidas conforme a la normativa autonómica de servicios sociales.
+1. Hasta tanto se apruebe el reglamento de las entidades colaboradoras ajustado a lo dispuesto en esta Ley, podrán continuar desempeñando funciones de atención a los menores las entidades colaboradoras reconocidas conforme a la normativa autonómica de servicios sociales.
 
-2. A partir de la entrada en vigor de la presente ley, la Administración autonómica no podrá reconocer ninguna entidad colaboradora en la atención a los menores hasta que se apruebe el reglamento a que se refiere el apartado anterior.
+2. A partir de la entrada en vigor de la presente ley, la Administración autonómica no podrá reconocer ninguna entidad colaboradora en la atención a los menores hasta que se apruebe el reglamento a que se refiere el apartado anterior.
 
 #### Disposición transitoria tercera.
 
@@ -1549,9 +1542,9 @@ Los servicios, hogares funcionales y centros de atención a los menores, de los 
 
 #### Disposición transitoria quinta.
 
-1. Los registros administrativos que se creen conforme a lo dispuesto en esta Ley deberán incorporar los datos, hechos y situaciones inscribibles conforme a la misma en el plazo de tres meses, contados a partir de la aprobación de sus disposiciones reguladoras.
+1. Los registros administrativos que se creen conforme a lo dispuesto en esta Ley deberán incorporar los datos, hechos y situaciones inscribibles conforme a la misma en el plazo de tres meses, contados a partir de la aprobación de sus disposiciones reguladoras.
 
-2. La incorporación se llevará a cabo de oficio respecto de los datos, hechos y situaciones inscribibles que estén a disposición de los órganos competentes a la entrada en vigor de la Ley.
+2. La incorporación se llevará a cabo de oficio respecto de los datos, hechos y situaciones inscribibles que estén a disposición de los órganos competentes a la entrada en vigor de la Ley.
 
 #### Disposición transitoria sexta.
 
@@ -1575,9 +1568,7 @@ La presente Ley entrará en vigor el día siguiente al de su publicación en el 
 
 Por tanto, mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
 
-Santa Cruz de Tenerife, 7 de febrero de 1997.
-
-MANUEL HERMOSO ROJAS, Presidente
+Santa Cruz de Tenerife, 7 de febrero de 1997. MANUEL HERMOSO ROJAS, Presidente
 
 (Publicada en al «Diario Oficial de Canarias» número 23, de 17 de febrero de 1997.)
 

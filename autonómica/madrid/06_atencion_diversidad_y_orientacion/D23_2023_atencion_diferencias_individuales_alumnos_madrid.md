@@ -1,9 +1,11 @@
 ---
 id: norm-mad-d23-2023
-titulo: Decreto 23/2023, de 22 de marzo, por el que se regula la atención a las diferencias individuales de los alumnos en la Comunidad de Madrid
+titulo: Decreto 23/2023, de 22 de marzo, por el que se regula la atención a las diferencias
+  individuales de los alumnos en la Comunidad de Madrid
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Decreto
 numero_disposicion: 23/2023
 fecha_disposicion: '2023-03-22'
@@ -18,20 +20,20 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Medidas de atención a la diversidad
 tags:
-  - atencion_a_la_diversidad
-  - neae
-  - inclusion_educativa
-  - comunidad_de_madrid
+- atencion_a_la_diversidad
+- neae
+- inclusion_educativa
+- comunidad_de_madrid
 relaciones:
   desarrolla:
-    - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-es-lo-1-1996
-    - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-mad-d-29-2013
 ---
 # Decreto 23/2023, de 22 de marzo, por el que se regula la atención a las diferencias individuales de los alumnos en la Comunidad de Madrid
 
@@ -179,9 +181,7 @@ Sin perjuicio de la aplicación de medidas ordinarias, para este alumnado se pod
 
 Atención al alumnado con necesidades educativas asociadas a dificultades específicas de aprendizaje por trastorno del desarrollo del lenguaje y la comunicación, trastorno de atención o trastorno de aprendizaje
 
-#### Artículo 22. Determinación de necesidades educativas asociadas a dificultades específicas de aprendizaje por trastorno del desarrollo del lenguaje y la comunicación, trastorno de atención o trastorno de aprendizaje 1.
-
-Se considerará alumnado que presenta necesidades educativas específicas asociadas a trastorno del desarrollo del lenguaje y la comunicación aquel que afronte barreras que limiten su aprendizaje derivadas de dificultades persistentes en la producción fonológica, fluidez y organización temporal del habla que interfiera la comunicación verbal de los mensajes. 2. Se considerará alumnado que presenta necesidades educativas específicas asociadas a trastorno de atención aquel que afronte barreras que limiten su aprendizaje derivadas de un patrón persistente de falta de atención, con o sin hiperactividad, que no concuerde con el nivel general de desarrollo esperado, y que afecte de manera directa, negativa y significativa al funcionamiento académico y social tanto en el entorno escolar como familiar. 3. Se considerará alumnado que presenta necesidades educativas específicas asociadas a trastorno de aprendizaje aquel que afronte barreras que limiten su aprendizaje derivadas de dificultades significativas y persistentes en el aprendizaje de habilidades académicas que afecten a la lectura, escritura, sentido numérico, cálculo o razonamiento matemático. 4. La determinación de necesidades específicas de apoyo educativo asociadas a estos trastornos podrá resultar de las conclusiones de una evaluación psicopedagógica y su correspondiente informe, conforme a los términos indicados en el presente Decreto, o podrá fundamentarse en informes emitidos por facultativos colegiados competentes.
+#### Artículo 22. Determinación de necesidades educativas asociadas a dificultades específicas de aprendizaje por trastorno del desarrollo del lenguaje y la comunicación, trastorno de atención o trastorno de aprendizaje 1. Se considerará alumnado que presenta necesidades educativas específicas asociadas a trastorno del desarrollo del lenguaje y la comunicación aquel que afronte barreras que limiten su aprendizaje derivadas de dificultades persistentes en la producción fonológica, fluidez y organización temporal del habla que interfiera la comunicación verbal de los mensajes. 2. Se considerará alumnado que presenta necesidades educativas específicas asociadas a trastorno de atención aquel que afronte barreras que limiten su aprendizaje derivadas de un patrón persistente de falta de atención, con o sin hiperactividad, que no concuerde con el nivel general de desarrollo esperado, y que afecte de manera directa, negativa y significativa al funcionamiento académico y social tanto en el entorno escolar como familiar. 3. Se considerará alumnado que presenta necesidades educativas específicas asociadas a trastorno de aprendizaje aquel que afronte barreras que limiten su aprendizaje derivadas de dificultades significativas y persistentes en el aprendizaje de habilidades académicas que afecten a la lectura, escritura, sentido numérico, cálculo o razonamiento matemático. 4. La determinación de necesidades específicas de apoyo educativo asociadas a estos trastornos podrá resultar de las conclusiones de una evaluación psicopedagógica y su correspondiente informe, conforme a los términos indicados en el presente Decreto, o podrá fundamentarse en informes emitidos por facultativos colegiados competentes.
 
 #### Artículo 23. Medidas específicas de atención educativa.
 
@@ -195,13 +195,9 @@ Atención al alumnado con necesidad de compensación educativa o necesidad por c
 
 #### Artículo 24. Atención educativa al alumnado con necesidad de compensación educativa
 
-1.
+1. Se considerará alumnado con necesidad de compensación educativa aquel que afronte barreras que limiten su aprendizaje y participación derivadas, especialmente, de factores sociales, culturales o étnicos. De no atender las necesidades educativas asociadas a esa condición, podrían originarse graves carencias en las competencias o conocimientos básicos del alumnado. 2. Las medidas para atender a este alumnado se centrarán, preferentemente, en la atención educativa en grupos de apoyo o aulas específicas de apoyo en las etapas de Educación Primaria y Educación Secundaria Obligatoria que permitan adecuar la formación a su edad, nivel escolar e historial personal y académico. 3. Corresponde al titular de la consejería competente en materia de educación regular la organización de las medidas de atención educativa de carácter compensatorio para este alumnado. 4. A su vez, el titular de la consejería competente en materia educativa impulsará planes de actuación y programas institucionales adecuados a las necesidades de este alumnado que favorezcan su plena participación.
 
-Se considerará alumnado con necesidad de compensación educativa aquel que afronte barreras que limiten su aprendizaje y participación derivadas, especialmente, de factores sociales, culturales o étnicos. De no atender las necesidades educativas asociadas a esa condición, podrían originarse graves carencias en las competencias o conocimientos básicos del alumnado. 2. Las medidas para atender a este alumnado se centrarán, preferentemente, en la atención educativa en grupos de apoyo o aulas específicas de apoyo en las etapas de Educación Primaria y Educación Secundaria Obligatoria que permitan adecuar la formación a su edad, nivel escolar e historial personal y académico. 3. Corresponde al titular de la consejería competente en materia de educación regular la organización de las medidas de atención educativa de carácter compensatorio para este alumnado. 4. A su vez, el titular de la consejería competente en materia educativa impulsará planes de actuación y programas institucionales adecuados a las necesidades de este alumnado que favorezcan su plena participación.
-
-#### Artículo 25. Atención educativa al alumnado con necesidad educativa específica por condición personal de salud 1.
-
-Se considerará alumnado con necesidad educativa específica por condición personal de salud aquel que afronte barreras que limiten su aprendizaje y participación en el sistema educativo derivadas de circunstancias personales sobrevenidas relacionadas con la salud. 2. A las medidas ordinarias, de aplicación a todo el alumnado, y sin perjuicio de las que se incluyan en la regulación propia de cada enseñanza, se podrán aplicar medidas específicas de acceso a los procesos de evaluación que podrán consistir en la adaptación de tiempos y formatos de las pruebas de evaluación, uso de medios técnicos específicos y la adecuación de espacios. Los ajustes que se realicen en los procedimientos de evaluación se harán sin perder el objeto final de la misma. 3. Además, el alumnado con necesidad de compensación educativa por condiciones personales de salud podrá ser atendido en los hospitales sostenidos con fondos públicos de la Comunidad de Madrid, por lo que se instituirán en los mismos Aulas Hospitalarias y Hospitales de Día-Centros Educativos Terapéuticos, o en su propio domicilio mediante un servicio de apoyo educativo domiciliario. La atención educativa en Aulas Hospitalarias, Hospitales de Día-Centros Educativo Terapéuticos, así como el apoyo educativo domiciliario se determinará por el titular con competencia en materia de educación. 4. En todo caso, la actuación compensatoria con este alumnado se asentará, prioritariamente, en el principio de normalidad, por lo que, en la medida de lo posible, el centro de referencia en el que se encuentre escolarizado el alumno promoverá una atención educativa personalizada, de tal manera que, con los medios y recursos disponibles, en especial los tecnológicos, facilite su participación en el proceso de enseñanza y aprendizaje propio de cada área, materia, ámbito o módulo, según corresponda, sin perjuicio de la coordinación
+#### Artículo 25. Atención educativa al alumnado con necesidad educativa específica por condición personal de salud 1. Se considerará alumnado con necesidad educativa específica por condición personal de salud aquel que afronte barreras que limiten su aprendizaje y participación en el sistema educativo derivadas de circunstancias personales sobrevenidas relacionadas con la salud. 2. A las medidas ordinarias, de aplicación a todo el alumnado, y sin perjuicio de las que se incluyan en la regulación propia de cada enseñanza, se podrán aplicar medidas específicas de acceso a los procesos de evaluación que podrán consistir en la adaptación de tiempos y formatos de las pruebas de evaluación, uso de medios técnicos específicos y la adecuación de espacios. Los ajustes que se realicen en los procedimientos de evaluación se harán sin perder el objeto final de la misma. 3. Además, el alumnado con necesidad de compensación educativa por condiciones personales de salud podrá ser atendido en los hospitales sostenidos con fondos públicos de la Comunidad de Madrid, por lo que se instituirán en los mismos Aulas Hospitalarias y Hospitales de Día-Centros Educativos Terapéuticos, o en su propio domicilio mediante un servicio de apoyo educativo domiciliario. La atención educativa en Aulas Hospitalarias, Hospitales de Día-Centros Educativo Terapéuticos, así como el apoyo educativo domiciliario se determinará por el titular con competencia en materia de educación. 4. En todo caso, la actuación compensatoria con este alumnado se asentará, prioritariamente, en el principio de normalidad, por lo que, en la medida de lo posible, el centro de referencia en el que se encuentre escolarizado el alumno promoverá una atención educativa personalizada, de tal manera que, con los medios y recursos disponibles, en especial los tecnológicos, facilite su participación en el proceso de enseñanza y aprendizaje propio de cada área, materia, ámbito o módulo, según corresponda, sin perjuicio de la coordinación
 
 necesaria con el profesorado asignado a las Aulas Hospitalarias, Hospitales de Día-Centros Educativos Terapéuticos y al servicio de apoyo educativo domiciliario.
 
@@ -217,9 +213,7 @@ Recursos para la atención a las diferencias individuales del alumnado
 
 #### Artículo 27. Recursos generales
 
-1.
-
-Los centros docentes, en el ámbito de su autonomía, organizarán los recursos humanos asignados y los materiales con el fin de asegurar una atención educativa equitativa e inclusiva. Los documentos institucionales y de planificación del centro reflejarán tal organización. 2. El titular de la consejería competente en materia de educación impulsará una oferta variada de programas institucionales, actividades y servicios que minimicen posibles barreras al aprendizaje y propicien la participación de la totalidad del alumnado.
+1. Los centros docentes, en el ámbito de su autonomía, organizarán los recursos humanos asignados y los materiales con el fin de asegurar una atención educativa equitativa e inclusiva. Los documentos institucionales y de planificación del centro reflejarán tal organización. 2. El titular de la consejería competente en materia de educación impulsará una oferta variada de programas institucionales, actividades y servicios que minimicen posibles barreras al aprendizaje y propicien la participación de la totalidad del alumnado.
 
 #### Artículo 28. Recursos personales de atención educativa a las diferencias individuales.
 
@@ -238,9 +232,7 @@ Sus funciones son complementarias respecto a las asignadas al resto de la red de
 
 Participación de la comunidad educativa
 
-#### Artículo 30. Participación de la comunidad educativa en la atención a las diferencias individuales del alumnado 1.
-
-Para asegurar una educación equitativa de calidad, el profesorado participará en las decisiones relacionadas con el ámbito de la atención a las diferencias individuales a través de los órganos de gobierno, participación y coordinación docente del centro educativo, de conformidad con la normativa de aplicación. 2. El personal no docente podrá colaborar a través de su participación en las estructuras de coordinación que, con funciones asignadas de atención a las diferencias individuales, se instauren en los centros para el desarrollo de actuaciones que favorezcan la participación adecuada de todo el alumnado. 3. El alumnado podrá participar en la evaluación de los planes de atención a las diferencias individuales mediante sus representantes en los órganos de gobierno, en los términos y condiciones establecidos en la normativa de aplicación. 4. La participación de las familias o representantes legales se asegurará en los términos establecidos en este decreto. En todo caso, serán informados y escuchados en la toma de decisiones sobre la implantación de medidas educativas específicas de atención a las diferencias individuales de sus hijos o tutelados, y su opinión sobre las decisiones que afecten a cambios en la modalidad de escolarización habrá de constar de forma expresa.
+#### Artículo 30. Participación de la comunidad educativa en la atención a las diferencias individuales del alumnado 1. Para asegurar una educación equitativa de calidad, el profesorado participará en las decisiones relacionadas con el ámbito de la atención a las diferencias individuales a través de los órganos de gobierno, participación y coordinación docente del centro educativo, de conformidad con la normativa de aplicación. 2. El personal no docente podrá colaborar a través de su participación en las estructuras de coordinación que, con funciones asignadas de atención a las diferencias individuales, se instauren en los centros para el desarrollo de actuaciones que favorezcan la participación adecuada de todo el alumnado. 3. El alumnado podrá participar en la evaluación de los planes de atención a las diferencias individuales mediante sus representantes en los órganos de gobierno, en los términos y condiciones establecidos en la normativa de aplicación. 4. La participación de las familias o representantes legales se asegurará en los términos establecidos en este decreto. En todo caso, serán informados y escuchados en la toma de decisiones sobre la implantación de medidas educativas específicas de atención a las diferencias individuales de sus hijos o tutelados, y su opinión sobre las decisiones que afecten a cambios en la modalidad de escolarización habrá de constar de forma expresa.
 
 #### Artículo 31. Colaboración con otras consejerías, asociaciones y organizaciones sin ánimo de lucro.
 
