@@ -24,18 +24,121 @@ tags:
 - procedimiento-administrativo
 - proteccion-menores
 relaciones:
+  desarrolla:
+  - norma_id: norm-es-1984-17387
+  cita:
+  - norma_id: norm-es-1984-17387
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-1984-17387
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 1
+    disposiciones_destino:
+    - D. Adicional decimoquinta
+  - norma_id: norm-es-1984-17387
+    capitulo_origen: Capítulo II. Servicio activo.
+    articulos_origen:
+    - Art. 3
+  - norma_id: norm-es-1984-17387
+    capitulo_origen: Capítulo II. Servicio activo.
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 29
+  - norma_id: norm-es-1985-5392
+    capitulo_origen: Capítulo II. Servicio activo.
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 74
+  - norma_id: norm-es-1984-17387
+    capitulo_origen: Capítulo II. Servicio activo.
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 21
+  - norma_id: norm-es-1984-17387
+    capitulo_origen: Capítulo III. Servicios especiales.
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 29
+  - norma_id: norm-es-1984-17387
+    capitulo_origen: Capítulo III. Servicios especiales.
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 29
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo III. Servicios especiales.
+    articulos_origen:
+    - Art. 9
+  - norma_id: norm-es-1984-17387
+    capitulo_origen: Capítulo V. Expectativa de destino.
+    articulos_origen:
+    - Art. 12
+    articulos_destino:
+    - Art. 20
+  - norma_id: norm-es-1984-17387
+    capitulo_origen: Capítulo VI. Excedencia forzosa.
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 29
+  - norma_id: norm-es-1984-17387
+    capitulo_origen: Capítulo VIII. Excedencia voluntaria.
+    articulos_origen:
+    - Art. 18
+    articulos_destino:
+    - Art. 20
+  - norma_id: norm-es-1985-5392
+    capitulo_origen: Capítulo X. Cambio de situaciones administrativas.
+    articulos_origen:
+    - D. Adicional segunda. Funcionarios de la Administración General del Estado destinados
+      en Corporaciones Locales.
+    articulos_destino:
+    - Art. 92
+  - norma_id: norm-es-1984-17387
+    capitulo_origen: Capítulo X. Cambio de situaciones administrativas.
+    articulos_origen:
+    - D. Transitoria primera. Excedencia voluntaria de la disposición transitoria
+      octava de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md).
+    disposiciones_destino:
+    - D. Transitoria primera
+    - D. Transitoria octava
+  - norma_id: norm-es-1984-17387
+    capitulo_origen: Capítulo X. Cambio de situaciones administrativas.
+    articulos_origen:
+    - D. Transitoria segunda. Cómputo de plazos de la excedencia voluntaria por interés
+      particular.
+  concordancia:
+  - norma_id: norm-es-1984-17387
+    capitulo_origen: Capítulo X. Cambio de situaciones administrativas.
+    articulos_origen:
+    - D. Adicional quinta. Cesación progresiva de actividades.
+    articulos_destino:
+    - Art. 30
   fundamentado_en:
   - norma_id: norm-es-1984-17387
+    capitulo_origen: Capítulo X. Cambio de situaciones administrativas.
+    articulos_origen:
+    - D. Transitoria primera. Excedencia voluntaria de la disposición transitoria
+      octava de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md).
+    disposiciones_destino:
+    - D. Transitoria octava
   - norma_id: norm-es-1985-5392
   - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2.1'
+  - norma_id: '1'
+  - norma_id: '2.1'
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-1985-5392
 ---
+
 # Real Decreto 365/1995, de 10 de marzo, por el que se aprueba el Reglamento de Situaciones Administrativas de los Funcionarios Civiles de la Administración General del Estado.
 
 ## Preámbulo
@@ -427,3 +530,29 @@ b) Desde la fecha del pase a dicha situación, si la excedencia les fue concedid
 - [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md)
 - [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md)
+- **Fundamentado en**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md) (D. Transitoria octava) desde *(Capítulo X. Cambio de situaciones administrativas., D. Transitoria primera. Excedencia voluntaria de la disposición transitoria octava de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md).)*
+- **Fundamentado en**: [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **En concordancia con**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md) (Art. 30) desde *(Capítulo X. Cambio de situaciones administrativas., D. Adicional quinta. Cesación progresiva de actividades.)*
+- **Cita a**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md) desde *(Capítulo I, Art. 1)*
+- **Cita a**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md) (D. Adicional decimoquinta) desde *(Capítulo I, Art. 1)*
+- **Cita a**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md) desde *(Capítulo II. Servicio activo., Art. 3)*
+- **Cita a**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md) (Art. 29) desde *(Capítulo II. Servicio activo., Art. 3)*
+- **Cita a**: [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md) (Art. 74) desde *(Capítulo II. Servicio activo., Art. 3)*
+- **Cita a**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md) (Art. 21) desde *(Capítulo II. Servicio activo., Art. 3)*
+- **Cita a**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md) (Art. 29) desde *(Capítulo III. Servicios especiales., Art. 4)*
+- **Cita a**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md) (Art. 29) desde *(Capítulo III. Servicios especiales., Art. 5)*
+- **Cita a**: `norm-es-c-1978` desde *(Capítulo III. Servicios especiales., Art. 9)*
+- **Cita a**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md) (Art. 20) desde *(Capítulo V. Expectativa de destino., Art. 12)*
+- **Cita a**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md) (Art. 29) desde *(Capítulo VI. Excedencia forzosa., Art. 13)*
+- **Cita a**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md) (Art. 20) desde *(Capítulo VIII. Excedencia voluntaria., Art. 18)*
+- **Cita a**: [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md) (Art. 92) desde *(Capítulo X. Cambio de situaciones administrativas., D. Adicional segunda. Funcionarios de la Administración General del Estado destinados en Corporaciones Locales.)*
+- **Cita a**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md) (D. Transitoria primera, D. Transitoria octava) desde *(Capítulo X. Cambio de situaciones administrativas., D. Transitoria primera. Excedencia voluntaria de la disposición transitoria octava de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md).)*
+- **Cita a**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md) desde *(Capítulo X. Cambio de situaciones administrativas., D. Transitoria segunda. Cómputo de plazos de la excedencia voluntaria por interés particular.)*

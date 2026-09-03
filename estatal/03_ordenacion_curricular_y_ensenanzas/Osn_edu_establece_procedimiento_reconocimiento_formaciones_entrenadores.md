@@ -28,9 +28,72 @@ tags:
 - oposiciones
 - titulacion
 relaciones:
-  fundamentado_en:
+  cita:
   - norma_id: norm-es-2000-5990
   - norma_id: norm-es-2007-19326
+    articulos_origen:
+    - Art. 1
+    disposiciones_destino:
+    - D. Transitoria quinta
+  - norma_id: norm-es-2000-5990
+    articulos_origen:
+    - Art. 6
+  - norma_id: norm-es-2000-5990
+    articulos_origen:
+    - Art. 8
+  - norma_id: norm-es-2000-5990
+    articulos_origen:
+    - Art. 9
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final primera. Título competencial.
+    articulos_destino:
+    - Art. 149
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VIII
+    disposiciones_destino:
+    - D. Transitoria quinta
+  - norma_id: norm-es-2021-20113
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VIII
+    disposiciones_destino:
+    - D. Transitoria quinta
+  - norma_id: norm-es-2007-19326
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VIII
+    disposiciones_destino:
+    - D. Transitoria quinta
+  - norma_id: norm-es-2010-12201
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VIII
+    disposiciones_destino:
+    - D. Transitoria quinta
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 8
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 8
+  - norma_id: norm-es-2007-19326
+    articulos_origen:
+    - Art. 8
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 8
+  fundamentado_en:
+  - norma_id: norm-es-2007-19326
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 22
+  - norma_id: norm-es-2007-19326
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 22
+  - norma_id: norm-es-2000-5990
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-l-39-2015
@@ -38,12 +101,13 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-2000-5990
   - norma_id: norm-es-2007-19326
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
 ---
+
 # Orden EDU/216/2011, de 8 de febrero, por la que se establece el procedimiento de reconocimiento de las formaciones de entrenadores deportivos en las modalidades de fútbol y fútbol sala.
 
 ## Preámbulo
@@ -205,3 +269,30 @@ Modelo de Resolución
 - [**BOE-A-2007-19326**](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md)
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título I, Capítulo VIII, D. Transitoria quinta)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título I, Capítulo VIII, D. Transitoria quinta)
+- **Modifica**: [**BOE-A-2007-19326**](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md) (Título I, Capítulo VIII, D. Transitoria quinta)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título I, Capítulo VIII, D. Transitoria quinta)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Art. 8)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Art. 8)*
+- **Modifica**: [**BOE-A-2007-19326**](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md) desde *(Art. 8)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Art. 8)*
+- **Fundamentado en**: [**BOE-A-2007-19326**](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md) (Art. 22) desde *(Art. 4)*
+- **Fundamentado en**: [**BOE-A-2007-19326**](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md) (Art. 22) desde *(Art. 8)*
+- **Fundamentado en**: [**BOE-A-2000-5990**](./RD320_2000_establecen_titulos_tecnico_deportivo_tecnico_deportivo.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: [**BOE-A-2000-5990**](./RD320_2000_establecen_titulos_tecnico_deportivo_tecnico_deportivo.md)
+- **Cita a**: [**BOE-A-2007-19326**](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md) (D. Transitoria quinta) desde *(Art. 1)*
+- **Cita a**: [**BOE-A-2000-5990**](./RD320_2000_establecen_titulos_tecnico_deportivo_tecnico_deportivo.md) desde *(Art. 6)*
+- **Cita a**: [**BOE-A-2000-5990**](./RD320_2000_establecen_titulos_tecnico_deportivo_tecnico_deportivo.md) desde *(Art. 8)*
+- **Cita a**: [**BOE-A-2000-5990**](./RD320_2000_establecen_titulos_tecnico_deportivo_tecnico_deportivo.md) desde *(Art. 9)*
+- **Cita a**: `norm-es-c-1978` (Art. 149) desde *(D. Final primera. Título competencial.)*

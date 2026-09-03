@@ -27,17 +27,409 @@ tags:
 - ceip
 - andalucia
 relaciones:
-  desarrolla:
+  cita:
+  - norma_id: norm-and-d-328-2010
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-and-d-327-2010
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    articulos_destino:
+    - Art. 52
+  - norma_id: norm-and-d327-2010
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    articulos_destino:
+    - Art. 52
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Transitoria tercera. Consejos Escolares.
+  - norma_id: norm-and-l17-2007
+    articulos_origen:
+    - D. Adicional tercera. y el primer párrafo de la disposición adicional cuarta
+      del presente Decreto reproducen normas.
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. Deberes y derechos.
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-and-l17-2007
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. Deberes y derechos.
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 7
+    - Art. 8
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. Deberes y derechos.
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 7
+    - Art. 8
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. Deberes y derechos.
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 7
+    - Art. 8
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 18
+  - norma_id: norm-and-l17-2007
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo II. Autonomía pedagógica, organizativa y de gestión.
+    articulos_origen:
+    - Art. 21
   - norma_id: norm-es-lo-2-2006
-  modifica_a: []
-  modificado_por: []
-  afecta_a_articulos: []
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo II. Autonomía pedagógica, organizativa y de gestión.
+    articulos_origen:
+    - Art. 21
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo II. Autonomía pedagógica, organizativa y de gestión.
+    articulos_origen:
+    - Art. 21
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo II. Autonomía pedagógica, organizativa y de gestión.
+    articulos_origen:
+    - Art. 21
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Órganos colegiados de gobierno.
+    seccion_origen: Sección 1. ª El Consejo Escolar
+    articulos_origen:
+    - Art. 57
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Órganos colegiados de gobierno.
+    seccion_origen: Sección 1. ª El Consejo Escolar
+    articulos_origen:
+    - Art. 59
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Órganos colegiados de gobierno.
+    seccion_origen: Sección 1. ª El Consejo Escolar
+    articulos_origen:
+    - Art. 60
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Órganos colegiados de gobierno.
+    seccion_origen: Sección 1. ª El Consejo Escolar
+    articulos_origen:
+    - Art. 64
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Órganos colegiados de gobierno.
+    seccion_origen: Sección 1. ª El Consejo Escolar
+    articulos_origen:
+    - Art. 65
+    articulos_destino:
+    - Art. 65
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Órganos colegiados de gobierno.
+    seccion_origen: Sección 1. ª El Consejo Escolar
+    articulos_origen:
+    - Art. 65
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Órganos colegiados de gobierno.
+    seccion_origen: Sección 2. ª El Claustro de Profesorado
+    articulos_origen:
+    - Art. 68
+    articulos_destino:
+    - Art. 22
+    - Art. 28
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Órganos colegiados de gobierno.
+    seccion_origen: Sección 2. ª El Claustro de Profesorado
+    articulos_origen:
+    - Art. 68
+    articulos_destino:
+    - Art. 22
+    - Art. 28
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Órganos colegiados de gobierno.
+    seccion_origen: Sección 2. ª El Claustro de Profesorado
+    articulos_origen:
+    - Art. 68
+    articulos_destino:
+    - Art. 22
+    - Art. 28
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo V. El equipo directivo.
+    articulos_origen:
+    - Art. 74
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo V. El equipo directivo.
+    articulos_origen:
+    - Art. 74
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo V. El equipo directivo.
+    articulos_origen:
+    - Art. 74
+  - norma_id: norm-and-l17-2007
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo VI. Órganos de coordinación docente.
+    articulos_origen:
+    - Art. 92
+    articulos_destino:
+    - Art. 60
+    - Art. 71
+  - norma_id: norm-and-d-328-2010
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo Único
+    articulos_origen:
+    - Art. 97
+    articulos_destino:
+    - Art. 52
+  concordancia:
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    articulos_destino:
+    - Art. 52
+    - Art. 149
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Adicional tercera. Comisión delegada del.
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Adicional tercera. Comisión delegada del.
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Adicional tercera. Comisión delegada del.
+  desarrolla:
+  - norma_id: norm-and-l17-2007
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    titulo_destino: Título I
+    articulos_destino:
+    - Art. 45
+    - Art. 27
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    titulo_destino: Título I
+    articulos_destino:
+    - Art. 45
+    - Art. 27
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    titulo_destino: Título I
+    articulos_destino:
+    - Art. 45
+    - Art. 27
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    titulo_destino: Título I
+    articulos_destino:
+    - Art. 45
+    - Art. 27
+  - norma_id: norm-and-l17-2007
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo II. Autonomía pedagógica, organizativa y de gestión.
+    articulos_origen:
+    - Art. 23
+    articulos_destino:
+    - Art. 24
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo II. Autonomía pedagógica, organizativa y de gestión.
+    articulos_origen:
+    - Art. 23
+    articulos_destino:
+    - Art. 24
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo II. Autonomía pedagógica, organizativa y de gestión.
+    articulos_origen:
+    - Art. 23
+    articulos_destino:
+    - Art. 24
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo II. Autonomía pedagógica, organizativa y de gestión.
+    articulos_origen:
+    - Art. 23
+    articulos_destino:
+    - Art. 24
+  - norma_id: norm-and-l17-2007
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo Único
+    articulos_origen:
+    - Art. 97
+    titulo_destino: Título I
+    articulos_destino:
+    - Art. 52
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo Único
+    articulos_origen:
+    - Art. 97
+    titulo_destino: Título I
+    articulos_destino:
+    - Art. 52
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo Único
+    articulos_origen:
+    - Art. 97
+    titulo_destino: Título I
+    articulos_destino:
+    - Art. 52
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo Único
+    articulos_origen:
+    - Art. 97
+    titulo_destino: Título I
+    articulos_destino:
+    - Art. 52
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo Único
+    articulos_origen:
+    - Art. 97
+    titulo_destino: Título I
+    articulos_destino:
+    - Art. 52
+    - Art. 149
+    - Art. 27
+  deroga:
+  - norma_id: norm-and-d-19-2007
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
+  - norma_id: norm-and-d19-2007
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
+  - norma_id: norm-and-d-85-1999
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
+  - norma_id: norm-and-d327-2010
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
   fundamentado_en:
   - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Final tercera. Reproducción de la normativa.
+    articulos_destino:
+    - Art. 9
+    - Art. 149
+  - norma_id: norm-es-lo-8-1985
+    articulos_origen:
+    - D. Final tercera. Reproducción de la normativa.
+    articulos_destino:
+    - Art. 9
+    - Art. 149
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Final tercera. Reproducción de la normativa.
+    articulos_destino:
+    - Art. 9
+    - Art. 149
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Final tercera. Reproducción de la normativa.
+    articulos_destino:
+    - Art. 9
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final tercera. Reproducción de la normativa.
+    articulos_destino:
+    - Art. 9
+    - Art. 149
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo III. Normas de convivencia.
+    seccion_origen: Sección 4. ª Procedimiento para la imposición
+    articulos_origen:
+    - Art. 41
+    articulos_destino:
+    - Art. 37
+    - Art. 127
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo III. Normas de convivencia.
+    seccion_origen: Sección 4. ª Procedimiento para la imposición
+    articulos_origen:
+    - Art. 41
+    articulos_destino:
+    - Art. 37
+    - Art. 127
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo III. Normas de convivencia.
+    seccion_origen: Sección 4. ª Procedimiento para la imposición
+    articulos_origen:
+    - Art. 41
+    articulos_destino:
+    - Art. 37
+    - Art. 127
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Órganos colegiados de gobierno.
+    seccion_origen: Sección 1. ª El Consejo Escolar
+    articulos_origen:
+    - Art. 51
+    articulos_destino:
+    - Art. 68
+    - Art. 27
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Órganos colegiados de gobierno.
+    seccion_origen: Sección 1. ª El Consejo Escolar
+    articulos_origen:
+    - Art. 51
+    articulos_destino:
+    - Art. 68
+    - Art. 27
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Órganos colegiados de gobierno.
+    seccion_origen: Sección 1. ª El Consejo Escolar
+    articulos_origen:
+    - Art. 51
+    articulos_destino:
+    - Art. 68
+    - Art. 27
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Órganos colegiados de gobierno.
+    seccion_origen: Sección 1. ª El Consejo Escolar
+    articulos_origen:
+    - Art. 56
+    articulos_destino:
+    - Art. 53
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-and-l17-2007
 ---
+
 # Decreto 328/2010, de 13 de julio, por el que se aprueba el Reglamento Orgánico de las escuelas infantiles de segundo ciclo, de los colegios de educación primaria y de los colegios de educación infantil y primaria
 
 ## Preámbulo
@@ -84,15 +476,14 @@ Se faculta al Consejero de Gobernación y Justicia, al Consejero de Economía, I
 
 #### Disposición final segunda. Entrada en vigor.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 29 de junio de 2010 JOSÉ ANTONIO GRIÑÁN MARTÍNEZ Presidente de la Junta de Andalucía MARÍA DEL MAR MORENO RUIZ Consejera de la Presidencia CONSEJERÍA DE EDUCACIÓN DECRETO 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgánico de los Institutos de Educación Secundaria. El artículo 52 l.
-
 Estatuto de Autonomía para Andalucía establece que corresponde a la Comunidad Autónoma en materia de enseñanza no universitaria, en relación con las enseñanzas obligatorias y no obligatorias que conducen a la obtención de un título académico o profesional con validez en todo el Estado, incluidas las enseñanzas de educación infantil, la competencia exclusiva, entre otras, en la programación y creación de centros públicos, su organización, régimen e inspección, así como la evaluación y garantía de calidad del sistema educativo y las actividades complementarias y extraescolares. Asimismo, el artículo 52.2 del Estatuto de Autonomía para Andalucía reconoce la competencia compartida de la Comunidad Autónoma sobre la ordenación del sector y de la actividad docente, así como sobre los requisitos de los centros, sin perjuicio de lo recogido en el artículo 149.1.30.ª de la Constitución, a tenor del cual corresponde al Estado dictar
 
 Sevilla, 16 de julio 2010 Página núm. 9 las normas básicas para el desarrollo del artículo 27 l.
 
 texto constitucional, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia. La organización y el funcionamiento de los institutos de educación secundaria se regularon por el Decreto 200/1997, de 3 de septiembre. A lo largo de los trece años transcurridos se ha venido configurando una nueva realidad, tanto social como legislativa, que ha hecho necesario abordar la elaboración de un nuevo marco regulador que responda de manera más ajustada a los requerimientos que nuestra sociedad, y por consiguiente nuestros centros, tienen hoy. La Ley Orgánica 2/2006, de 3 de mayo, de Educación, ha introducido importantes novedades en la organización, funcionamiento y gobierno de los institutos de educación secundaria, profundizando en los conceptos de participación de la comunidad educativa y de autonomía pedagógica, organizativa y de gestión. Por otra parte, la Ley 17/2007, de 10 de diciembre, de Educación de Andalucía, reconoce dichos principios al dedicar el Título I a la comunidad educativa: alumnado, profesorado, al que concede el papel relevante que representa en el sistema educativo, impulsando con ello el reconocimiento y apoyo social de su actividad, familias, de las que regula su participación en el proceso educativo de sus hijos e hijas y personal de administración y servicios y de atención educativa complementaria. Igualmente, su Título IV trata de los centros educativos y dispone los aspectos esenciales que regirán su organización y funcionamiento y sus órganos de gobierno y de coordinación docente, impulsando la autonomía pedagógica, organizativa y de gestión de los mismos, mediante la articulación de modelos de funcionamiento propios en torno al Plan de Centro. Asimismo, en la ley se refuerza la función directiva, potenciando su liderazgo pedagógico y organizativo. Finalmente, pone énfasis en la coordinación de las actuaciones de los distintos órganos y en el trabajo en equipo del profesorado. Los cambios mencionados, junto con la necesidad de concretar y desarrollar los aspectos regulados en la Ley 17/2007, de 10 de diciembre, requieren de la derogación del reglamento de organización y funcionamiento de los institutos de educación secundaria actualmente en vigor. Aspecto significativo del Reglamento que se aprueba por el presente Decreto es el decidido respaldo a la labor del profesorado, que se concreta, entre otras, en una serie de medidas de protección a los derechos del mismo, la asistencia jurídica y psicológica y la presunción de veracidad ante la Administración educativa en el ejercicio de las funciones propias de sus cargos o con ocasión de ellas. El Reglamento posibilita el ejercicio de la autonomía de los institutos de educación secundaria, autonomía estrechamente ligada a responsabilidad, junto con una mayor flexibilización de las estructuras de organización y funcionamiento. De esta manera, serán los centros los que decidan qué estructuras crean, qué criterios aplicarán para la designación de sus responsables y qué número de horas se dedicarán al desempeño de las tareas asociadas a los órganos de gobierno y de coordinación docente, con objeto de que estas herramientas permitan una mejor adaptación de cada centro docente a su contexto y promuevan estrategias eficaces y eficientes para la mejora del éxito escolar del alumnado y la reducción del abandono educativo prematuro y, en definitiva, para alcanzar la excelencia entendida como calidad desde la equidad. A esta finalidad podrán contribuir las áreas de competencias que existirán en todos los institutos como nuevos órganos de coordinación docente, creados con la finalidad de integrar los contenidos de las diferentes materias, a fin de ofrecer una visión multidisciplinar de los mismos, y favorecer la adquisición de las competencias básicas por el alumnado y el trabajo en equipo del profesorado. El fomento de la cultura de la evaluación, de la calidad e innovación educativa y de la rendición de cuentas, mediante controles sociales e institucionales de sus resultados, constituyen elementos que se encuentran presentes en el Reglamento que se aprueba por el presente Decreto. Asimismo, en el Reglamento se incide en el desarrollo de la sociedad de la información, pues los institutos de educación secundaria deben ser exponente e impulso de las tecnologías de la información y la comunicación, en pro de la solidaridad digital, de manera que el alumnado sea partícipe en la edificación de la sociedad del conocimiento. Por otra parte, la atribución de mayores competencias a los directores y directoras, en desarrollo de lo establecido en la mencionada Ley 17/2007, de 10 de diciembre, junto con la simplificación administrativa constituyen, indudablemente, un novedoso marco regulador de la organización y funcionamiento de los institutos respecto al modelo hoy vigente que, sin duda, va a contribuir a una mayor calidad del servicio educativo que presten, favoreciendo que los esfuerzos se concentren en el proceso de enseñanza-aprendizaje y en las tareas pedagógicas. La norma contempla, asimismo, la prevención de los riesgos y la promoción de la seguridad y la salud como parte del Plan de Centro, integrando estos aspectos en la organización y gestión del instituto y como factor de calidad de la enseñanza. A todo ello habría que añadir en la regulación que contempla este Decreto la actualización de las normas de convivencia, entendida ésta como meta y condición necesaria para el buen desarrollo del trabajo del alumnado y del profesorado, de forma que proporcione un instrumento más ágil que dé respuesta a las necesidades de los centros, sin menoscabar los derechos del alumnado, y el refuerzo del papel de las familias que se plasma en el establecimiento de compromisos educativos y de convivencia, como forma de asunción de responsabilidades compartidas en la tarea de educar a sus hijos e hijas, entre las que cabría señalar la de colaboración en el uso seguro de internet por el alumnado en consonancia con lo regulado en el Decreto 25/2007, de 6 de febrero, por el que se establecen medidas para el fomento, la prevención de riesgos y la seguridad en el uso de internet y las tecnologías de la información y la comunicación (TIC) por parte de las personas menores de edad. En definitiva, se trata de que, a partir de una misma regulación normativa, se puedan poner en marcha en cada instituto dinámicas de funcionamiento diferentes que contextualicen tanto los aspectos relacionados con la organización del gobierno y la administración, como las que se refieren al trabajo académico y a la organización social del centro. En la elaboración de la presente norma se han cumplimentado los trámites de audiencia e información pública, de conformidad en lo establecido en el artículo 45.1.c) de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía. En su virtud, a propuesta del Consejero de Educación, de conformidad con lo establecido en el artículo 27.9 de la Ley 6/2006, de 24 de octubre, de acuerdo con el Consejo Consultivo de Andalucía y previa deliberación del Consejo de Gobierno en su reunión del día 13 de julio de 2010,
 DISPONGO:
-Artículo único. Aprobación del Reglamento Orgánico de los institutos de educación secundaria. Se aprueba el Reglamento Orgánico de los institutos de educación secundaria cuyo texto se inserta a continuación.
+
+#### Artículo . #### Artículo . Artículo único. Aprobación del Reglamento Orgánico de los institutos de educación secundaria. Se aprueba el Reglamento Orgánico de los institutos de educación secundaria cuyo texto se inserta a continuación.
 
 #### Disposición adicional primera. Centros de convenio.
 
@@ -202,7 +593,8 @@ d) La Orden de la Consejería de Educación de 27 de julio de 2006, por la que s
 #### Disposición final primera. Enseñanzas de régimen especial.
 
 En tanto no dispongan de normativa específica, será de aplicación a los centros docentes públicos que impartan enseñanzas de régimen especial lo dispuesto en los Títulos I, II, III y IV, en los artículos 24 y 25 y en los Capítulos III y IV del
-Título V, a excepción del artículo 50, del Reglamento que se aprueba mediante el presente Decreto, así como en la disposición transitoria tercera del presente Decreto.
+
+## Título V. , a excepción del artículo 50, del Reglamento que se aprueba mediante el presente Decreto, así como en la disposición transitoria tercera del presente Decreto.
 
 #### Disposición final segunda. Centros concertados.
 
@@ -232,11 +624,7 @@ Se habilita al Consejero de Educación para dictar cuantas disposiciones sean ne
 
 #### Disposición final séptima. Entrada en vigor.
 
-El presente Decreto entrará en vigor a los veinte días de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 13 de julio de 2010 JOSÉ ANTONIO GRIÑÁN MARTÍNEZ Presidente de la Junta de Andalucía FRANCISCO JOSÉ ÁLVAREZ DE LA CHICA Consejero de Educación REGLAMENTO ORGÁNICO DE LOS INSTITUTOS DE EDUCACIÓN SECUNDARIA
-
-## Título Preliminar
-
-### Capítulo Único
+## Título Preliminar. ### Capítulo Único
 
 Ámbito
 
@@ -244,11 +632,9 @@ El presente Decreto entrará en vigor a los veinte días de su publicación en e
 
 El presente Reglamento será de aplicación a los institutos de educación secundaria dependientes de la Consejería competente en materia de educación.
 
-## Título I
+## Título I. EL ALUMNADO
 
-EL ALUMNADO
-
-## Capítulo I. Deberes y derechos.
+### Capítulo I. Deberes y derechos.
 
 #### Artículo 2. Deberes del alumnado. Son deberes del alumnado:.
 
@@ -289,7 +675,7 @@ n) A conocer la Constitución Española y el Estatuto de Autonomía para Andaluc
 
 3. Asimismo, en las normas de convivencia se establecerá la forma, los espacios y lugares donde se podrán fijar escritos del alumnado en los que ejercite su libertad de expresión.
 
-## Capítulo II. Participación del alumnado.
+### Capítulo II. Participación del alumnado.
 
 #### Artículo 5. Cauces de participación. Constituyen un deber y un derecho del alumnado la participación en:.
 
@@ -330,9 +716,7 @@ d) Realizar actividades culturales, deportivas y de fomento de la acción cooper
 
 4. Las asociaciones del alumnado se inscribirán en el Censo de Entidades Colaboradoras de la Enseñanza, a que se refiere el Decreto 71/2009, de 31 de marzo, por el que se regula el Censo de Entidades Colaboradoras de la Enseñanza.
 
-## Título II
-
-EL PROFESORADO
+## Título II. EL PROFESORADO
 
 ### Capítulo Único
 
@@ -393,9 +777,7 @@ m) A la acreditación de los méritos que se determinen a efectos de su promoci�
 a) La asistencia jurídica consistirá en la representación y defensa en juicio, cualesquiera que sean el órgano y el orden de la jurisdicción ante los que se diriman.
 b) La asistencia jurídica se proporcionará tanto en los procedimientos judiciales iniciados frente al personal docente, como en aquellos otros que éste inicie en defensa de sus derechos frente a actos que atenten contra su integridad física o provoquen daños en sus bienes.
 
-## Título III
-
-LAS FAMILIAS
+## Título III. LAS FAMILIAS
 
 ### Capítulo Único
 
@@ -446,9 +828,7 @@ c) Promover la participación de los padres y madres del alumnado en la gestión
 
 5. Se facilitará la colaboración de las asociaciones de madres y padres del alumnado con los equipos directivos de los centros, y la realización de acciones formativas en las que participen las familias y el profesorado.
 
-## Título IV
-
-EL PERSONAL DE ADMINISTRACIÓN Y SERVICIOS Y DE ATENCIÓN EDUCATIVA COMPLEMENTARIA
+## Título IV. EL PERSONAL DE ADMINISTRACIÓN Y SERVICIOS Y DE ATENCIÓN EDUCATIVA COMPLEMENTARIA
 
 ### Capítulo Único
 
@@ -470,9 +850,7 @@ Derechos, obligaciones y protección de derechos
 
 EL CENTRO DOCENTE
 
-### Capítulo I
-
-### Disposiciones generales
+### Capítulo I. ### Disposiciones generales
 
 #### Artículo 17. Carácter y enseñanzas de los institutos.
 
@@ -507,7 +885,7 @@ Por Orden de la persona titular de la Consejería competente en materia de educa
 
 3. La denominación del instituto figurará en la fachada del edificio, en lugar visible.
 
-## Capítulo II. Autonomía pedagógica, organizativa y de gestión.
+### Capítulo II. Autonomía pedagógica, organizativa y de gestión.
 
 #### Artículo 21. Disposiciones generales.
 
@@ -666,7 +1044,7 @@ Sevilla, 16 de julio 2010 Página núm. 19 incluirán actividades en las que el 
 
 7. El profesorado desarrollará su actividad docente de acuerdo con las programaciones didácticas de las enseñanzas que imparta.
 
-## Capítulo III. Normas de convivencia.
+### Capítulo III. Normas de convivencia.
 
 #### Sección 1. ª Disposiciones generales artículo 30 Cumplimiento de los deberes y ejercicio de. los derechos.
 
@@ -859,7 +1237,7 @@ Contra la resolución a que se refiere el artículo 46 se.
 
 podrá interponer recurso de alzada en el plazo de un mes, ante la persona titular de la Delegación Provincial de la Consejería competente en materia de educación, de conformidad con lo establecido en los artículos 114 y 115 de la Ley 30/1992, de 26 de noviembre. La resolución del mismo, que pondrá fin a la vía administrativa, deberá dictarse y notificarse en el plazo máximo de tres meses. Transcurrido dicho plazo sin que recaiga resolución, se podrá entender desestimado el recurso.
 
-## Capítulo IV. Órganos colegiados de gobierno.
+### Capítulo IV. Órganos colegiados de gobierno.
 
 #### Artículo 48. Órganos colegiados.
 
@@ -1120,7 +1498,7 @@ m) Cualesquiera otras que le sean atribuidas por el reglamento de organización 
 
 2. El Claustro de Profesorado será convocado por acuerdo del director o directora, adoptado por propia iniciativa o a solicitud de, al menos, un tercio de sus miembros. La asistencia a las sesiones del Claustro de Profesorado será obligatoria para todos sus miembros, considerándose la falta injustificada a los mismos como un incumplimiento del horario laboral.
 
-## Capítulo V. El equipo directivo.
+### Capítulo V. El equipo directivo.
 
 #### Artículo 70. Funciones del equipo directivo.
 
@@ -1269,7 +1647,7 @@ e) A propuesta de la dirección, mediante escrito razonado, previa audiencia al 
 
 Las competencias de la jefatura de estudios adjunta serán las que, supervisadas por la dirección, le sean delegadas por la jefatura de estudios. No obstante, la jefatura de estudios adjunta desarrollará sus competencias en la etapa educativa que se le asigne.
 
-## Capítulo VI. Órganos de coordinación docente.
+### Capítulo VI. Órganos de coordinación docente.
 
 #### Artículo 82. Órganos de coordinación docente.
 
@@ -1484,9 +1862,7 @@ c) A propuesta de la dirección, mediante informe razonado, oído el Claustro de
 
 3. Producido el cese de la jefatura del departamento, la dirección del instituto procederá a designar a la nueva jefatura del departamento, de acuerdo con lo establecido en el artículo 95. En cualquier caso, si el cese se ha producido por cualquiera de las circunstancias señaladas en los párrafos b) y c) del apartado 1, el nombramiento no podrá recaer en el mismo profesor o profesora.
 
-## Título VI
-
-EVALUACIÓN DE LOS INSTITUTOS
+## Título VI. EVALUACIÓN DE LOS INSTITUTOS
 
 ### Capítulo Único
 
@@ -1501,3 +1877,74 @@ Evaluación
 3. La Consejería competente en materia de educación publicará periódicamente las conclusiones de interés general de las evaluaciones de los institutos efectuadas por la Agencia Andaluza de Evaluación Educativa. DECRETO 328/2010, de 13 de julio, por el que se aprueba el Reglamento Orgánico de las escuelas infantiles de segundo grado, de los colegios de educación primaria, de los colegios de educación infantil y primaria, y de los centros públicos específicos de educación especial. El artículo 52 l.
 
 Estatuto de Autonomía para Andalucía establece que corresponde a la Comunidad Autónoma en materia de enseñanza no universitaria, en relación con las enseñanzas obligatorias y no obligatorias que conducen a la obtención de un título académico o profesional con validez en todo el Estado, incluidas las enseñanzas de educación infantil, la competencia exclusiva, entre otras, en la programación y creación de centros públicos, su organización, régimen e inspección, así como la evaluación y garantía de calidad del sistema educativo y las actividades complementarias y extraescolares. Asimismo, el artículo 52.2 del Estatuto de Autonomía para Andalucía, reconoce la competencia compartida de la Comunidad Autónoma sobre la ordenación del sector y de la actividad docente, así como sobre los requisitos de los centros, sin perjuicio de lo recogido en el artículo 149.1.30.ª de la Constitución, a tenor del cual corresponde al Estado dictar las normas básicas para el desarrollo del artículo 27 del texto constitucional, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia. La organización y el funcionamiento de los centros que imparten el segundo ciclo de la educación infantil y la educación primaria se regularon por el Decreto 201/1997, de 3 de septiembre. A lo largo de los trece años transcurridos se ha venido configurando una nueva realidad, tanto social como legislativa, que ha hecho necesario abordar la elaboración de un nuevo marco regulador que responda de manera más ajustada a los requerimientos que nuestra sociedad, y por consiguiente nuestros centros, tienen hoy. Idéntica consideración hay que hacer de los centros públicos específicos de educación especial a los que también resulta de aplicación el Reglamento que se aprueba por el presente Decreto. La Ley Orgánica 2/2006, de 3 de mayo, de Educación, ha introducido importantes novedades en la organización, funcionamiento y gobierno de los colegios de educación infantil y primaria, profundizando en los conceptos de participación de la comunidad educativa y de autonomía pedagógica, organizativa y de gestión. Por otra parte, la Ley 17/2007, de 10 de diciembre, de Educación de Andalucía, reconoce dichos principios al dedicar el título I a la comunidad educativa: alumnado, profesorado, al que concede el papel relevante que representa en el sistema educativo, impulsando con ello el reconocimiento y apoyo social de su actividad, familias, de las que regula su participación en el proceso educativo de sus hijos e hijas y personal de administración y servicios y de atención educativa complementaria. Igualmente, su título IV trata de los centros educativos y dispone los aspectos esenciales que regirán su organización y funcionamiento y sus órganos de gobierno y de coordinación docente, impulsando la autonomía pedagógica, organizativa y de gestión de los mismos, mediante la articulación de modelos de funcionamiento propios en torno al Plan de Centro. Asimismo, en la ley se refuerza la función directiva, potenciando su liderazgo pedagógico y organizativo. Finalmente, pone énfasis en la coordinación de las actuaciones de los distintos órganos y en el trabajo en equipo del profesorado. Los cambios mencionados, junto con la necesidad de concretar y desarrollar los aspectos regulados en la Ley 17/2007, de 10 de diciembre, requieren de la derogación del reglamento de organización y funcionamiento de los centros de educación infantil y primaria actualmente en vigor. Aspecto significativo del Reglamento que se aprueba por el presente Decreto es el decidido respaldo a la labor del profesorado, que se concreta, entre otras, en una serie de medidas de protección a los derechos del mismo, la asistencia jurídica y psicológica y la presunción de veracidad ante la Administración educativa en el ejercicio de las funciones propias de sus cargos o con ocasión de ellas. El Reglamento posibilita el ejercicio de la autonomía de los centros en los que se imparten el segundo ciclo de educación infantil, educación primaria o educación especial, autonomía estrechamente ligada a responsabilidad. Serán los centros los que decidan los criterios que aplicarán para la designación de los responsables de las estructuras y las horas que dedicarán al desempeño de las tareas asociadas a los órganos de gobierno y de coordinación docente, junto con una mayor flexibilización de las estructuras de organización y funcionamiento, con objeto de que estas herramientas permitan una mejor adaptación de cada centro docente a su contexto y promuevan estrategias eficaces y eficientes para la mejora del éxito escolar del alumnado y, en definitiva, para alcanzar la excelencia, entendida como calidad desde la equidad. El fomento de la cultura de la evaluación, de la calidad e innovación educativa y de la rendición de cuentas, mediante controles sociales e institucionales de sus resultados, constituyen elementos que se encuentran presentes en el Reglamento que se aprueba por el presente Decreto. Asimismo, en el Reglamento se incide en el desarrollo de la sociedad de la información, pues los centros docentes deben ser exponente e impulso de las tecnologías de la información y la comunicación, en pro de la solidaridad digital, de manera que el alumnado sea partícipe en la edificación de la sociedad del conocimiento. Por otra parte, la atribución de mayores competencias a los directores y directoras, en desarrollo de lo establecido en la mencionada Ley 17/2007, de 10 de diciembre, junto con la simplificación administrativa constituyen, indudablemente, un novedoso marco regulador de la organización y funcionamiento de los centros docentes respecto al modelo hoy vigente que, sin duda, va a contribuir a una mayor calidad del servicio educativo que presten, favoreciendo que los esfuerzos se concentren en el proceso de enseñanza-aprendizaje y en las tareas pedagógicas. La norma contempla, asimismo, la prevención de los riesgos y la promoción de la seguridad y la salud como parte del Plan de Centro, integrando estos aspectos en la organización y gestión del centro y como factor de calidad de la enseñanza. A todo ello habría que añadir en la regulación que contempla este Decreto la actualización de las normas de convivencia, entendida esta como meta y condición necesaria para el buen desarrollo del trabajo del alumnado y del profesorado, de forma que proporcione un instrumento más ágil que dé respuesta a las necesidades de los centros, sin menoscabar los derechos del alumnado, y el refuerzo del papel de las familias que se plasma en el establecimiento de compromisos educativos y de convivencia, como forma de asunción de responsabilidades compartidas en la tarea de educar a sus hijos e hijas, entre las que cabría señalar la de colaboración en el uso seguro de internet por el alumnado en consonancia con lo regulado en el Decreto 25/2007, de 6 de febrero, por el que se establecen medidas para el fomento, la prevención de riesgos y la seguridad en el uso de internet y las tecnologías de la
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) (Título I, Art. 45, Art. 27) desde *(D. Final segunda. Entrada en vigor.)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título I, Art. 45, Art. 27) desde *(D. Final segunda. Entrada en vigor.)*
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título I, Art. 45, Art. 27) desde *(D. Final segunda. Entrada en vigor.)*
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título I, Art. 45, Art. 27) desde *(D. Final segunda. Entrada en vigor.)*
+- **Desarrolla**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) (Art. 24) desde *(Título IV, Capítulo II. Autonomía pedagógica, organizativa y de gestión., Art. 23)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 24) desde *(Título IV, Capítulo II. Autonomía pedagógica, organizativa y de gestión., Art. 23)*
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 24) desde *(Título IV, Capítulo II. Autonomía pedagógica, organizativa y de gestión., Art. 23)*
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 24) desde *(Título IV, Capítulo II. Autonomía pedagógica, organizativa y de gestión., Art. 23)*
+- **Desarrolla**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) (Título I, Art. 52, Art. 149, Art. 27) desde *(Título VI, Capítulo Único, Art. 97)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título I, Art. 52, Art. 149, Art. 27) desde *(Título VI, Capítulo Único, Art. 97)*
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título I, Art. 52, Art. 149, Art. 27) desde *(Título VI, Capítulo Único, Art. 97)*
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título I, Art. 52, Art. 149, Art. 27) desde *(Título VI, Capítulo Único, Art. 97)*
+- **Desarrolla**: `norm-es-c-1978` (Título I, Art. 52, Art. 149, Art. 27) desde *(Título VI, Capítulo Único, Art. 97)*
+- **Deroga**: [**D19_2007 Derechos Deberes Alumnado Convivencia Andalucia**](../07_convivencia_bienestar_y_protocolos/D19_2007_derechos_deberes_alumnado_normas_convivencia_andalucia.md) desde *(D. Derogatoria única. Derogación normativa.)*
+- **Deroga**: [**Decreto 19/2007, de 23 de enero, por el que se adoptan medidas para la prom**](../07_convivencia_bienestar_y_protocolos/D19_2007_promocion_cultura_paz_mejora_convivencia_centros_andalucia.md) desde *(D. Derogatoria única. Derogación normativa.)*
+- **Deroga**: [**D85_1999 Derechos y Deberes Alumnado Andalucía**](../07_convivencia_bienestar_y_protocolos/D85_1999_derechos_deberes_alumnado_andalucia.md) desde *(D. Derogatoria única. Derogación normativa.)*
+- **Deroga**: [**Decreto 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](./D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) desde *(D. Derogatoria única. Derogación normativa.)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 9, Art. 149) desde *(D. Final tercera. Reproducción de la normativa.)*
+- **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 9, Art. 149) desde *(D. Final tercera. Reproducción de la normativa.)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 9, Art. 149) desde *(D. Final tercera. Reproducción de la normativa.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 9, Art. 149) desde *(D. Final tercera. Reproducción de la normativa.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 9, Art. 149) desde *(D. Final tercera. Reproducción de la normativa.)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 37, Art. 127) desde *(Título IV, Capítulo III. Normas de convivencia., Art. 41)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 37, Art. 127) desde *(Título IV, Capítulo III. Normas de convivencia., Art. 41)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 37, Art. 127) desde *(Título IV, Capítulo III. Normas de convivencia., Art. 41)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 68, Art. 27) desde *(Título IV, Capítulo IV. Órganos colegiados de gobierno., Art. 51)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 68, Art. 27) desde *(Título IV, Capítulo IV. Órganos colegiados de gobierno., Art. 51)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 68, Art. 27) desde *(Título IV, Capítulo IV. Órganos colegiados de gobierno., Art. 51)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 53) desde *(Título IV, Capítulo IV. Órganos colegiados de gobierno., Art. 56)*
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **En concordancia con**: `norm-es-c-1978` (Art. 52, Art. 149) desde *(D. Final segunda. Entrada en vigor.)*
+- **En concordancia con**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(D. Adicional tercera. Comisión delegada del.)*
+- **En concordancia con**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(D. Adicional tercera. Comisión delegada del.)*
+- **En concordancia con**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(D. Adicional tercera. Comisión delegada del.)*
+- **Cita a**: [**D328_2010 ROC Escuelas Infantiles y CEIP Andalucia**](../02_gestion_y_administracion_centros/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md)
+- **Cita a**: `norm-es-c-1978`
+- **Cita a**: [**D327_2010 ROC IES Andalucia**](../02_gestion_y_administracion_centros/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Art. 52) desde *(D. Final segunda. Entrada en vigor.)*
+- **Cita a**: [**Decreto 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](./D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Art. 52) desde *(D. Final segunda. Entrada en vigor.)*
+- **Cita a**: `norm-es-c-1978` desde *(D. Transitoria tercera. Consejos Escolares.)*
+- **Cita a**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) desde *(D. Adicional tercera. y el primer párrafo de la disposición adicional cuarta del presente Decreto reproducen normas.)*
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Capítulo I. Deberes y derechos., Art. 2)*
+- **Cita a**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) (Art. 7, Art. 8) desde *(Título I, Capítulo I. Deberes y derechos., Art. 3)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 7, Art. 8) desde *(Título I, Capítulo I. Deberes y derechos., Art. 3)*
+- **Cita a**: `norm-es-c-1978` (Art. 7, Art. 8) desde *(Título I, Capítulo I. Deberes y derechos., Art. 3)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) desde *(Título IV, Capítulo I, Art. 18)*
+- **Cita a**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) desde *(Título IV, Capítulo II. Autonomía pedagógica, organizativa y de gestión., Art. 21)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título IV, Capítulo II. Autonomía pedagógica, organizativa y de gestión., Art. 21)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título IV, Capítulo II. Autonomía pedagógica, organizativa y de gestión., Art. 21)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título IV, Capítulo II. Autonomía pedagógica, organizativa y de gestión., Art. 21)*
+- **Cita a**: `norm-es-c-1978` desde *(Título IV, Capítulo IV. Órganos colegiados de gobierno., Art. 57)*
+- **Cita a**: `norm-es-c-1978` desde *(Título IV, Capítulo IV. Órganos colegiados de gobierno., Art. 59)*
+- **Cita a**: `norm-es-c-1978` desde *(Título IV, Capítulo IV. Órganos colegiados de gobierno., Art. 60)*
+- **Cita a**: `norm-es-c-1978` desde *(Título IV, Capítulo IV. Órganos colegiados de gobierno., Art. 64)*
+- **Cita a**: `norm-es-c-1978` (Art. 65) desde *(Título IV, Capítulo IV. Órganos colegiados de gobierno., Art. 65)*
+- **Cita a**: `norm-es-c-1978` desde *(Título IV, Capítulo IV. Órganos colegiados de gobierno., Art. 65)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 22, Art. 28) desde *(Título IV, Capítulo IV. Órganos colegiados de gobierno., Art. 68)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 22, Art. 28) desde *(Título IV, Capítulo IV. Órganos colegiados de gobierno., Art. 68)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 22, Art. 28) desde *(Título IV, Capítulo IV. Órganos colegiados de gobierno., Art. 68)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título IV, Capítulo V. El equipo directivo., Art. 74)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título IV, Capítulo V. El equipo directivo., Art. 74)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título IV, Capítulo V. El equipo directivo., Art. 74)*
+- **Cita a**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) (Art. 60, Art. 71) desde *(Título IV, Capítulo VI. Órganos de coordinación docente., Art. 92)*
+- **Cita a**: [**D328_2010 ROC Escuelas Infantiles y CEIP Andalucia**](../02_gestion_y_administracion_centros/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md) (Art. 52) desde *(Título VI, Capítulo Único, Art. 97)*

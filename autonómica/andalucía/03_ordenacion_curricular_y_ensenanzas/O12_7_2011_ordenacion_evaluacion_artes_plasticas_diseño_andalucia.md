@@ -25,6 +25,11 @@ tags:
 - evaluacion
 - andalucia
 relaciones:
+  cita:
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-1999-23750
+    articulos_origen:
+    - Art. 47
   desarrolla:
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
@@ -32,6 +37,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Orden de 12 de julio de 2011, sobre ordenación de la evaluación en los ciclos formativos de Artes Plásticas y Diseño.
 
 ## Preámbulo
@@ -77,8 +83,6 @@ Empleo público
 Boletín 147
 
 ##
-
-Histórico del BOJA Boletín número 147 de 28/07/2011
 
 ## 1. Disposiciones generales
 
@@ -149,9 +153,7 @@ maría del Mar Moreno Ruiz
 
 Consejera de la Presidencia
 
-## Anexo
-
-CONVENIO DE COLABORACIÓN ENTRE LA JUNTA DE ANDALUCÍA, LA CONFEDERACIÓN DE EMPRESARIOS DE ANDALUCÍA Y LAS ENTIDADES FINANCIERAS PARA IMPULSAR LA VENTA DEL PARQUE DE VIVIENDAS LIBRES EN ANDALUCÍA
+## Anexo C. ONVENIO DE COLABORACIÓN ENTRE LA JUNTA DE ANDALUCÍA, LA CONFEDERACIÓN DE EMPRESARIOS DE ANDALUCÍA Y LAS ENTIDADES FINANCIERAS PARA IMPULSAR LA VENTA DEL PARQUE DE VIVIENDAS LIBRES EN ANDALUCÍA
 
 De una parte, por la Junta de Andalucía, la Excma. Sra. doña Carmen Martínez Aguayo, Consejera de Hacienda y Administración Pública, y la Excma. Sra. doña Josefina Cruz Villalón, Consejera de Obras Públicas y Vivienda.
 
@@ -491,3 +493,15 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: `norm-es-c-1978`
+- **Cita a**: [**BOE-A-1999-23750**](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) desde *(Art. 47)*

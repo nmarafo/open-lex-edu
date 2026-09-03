@@ -26,21 +26,117 @@ tags:
 - fp-basica
 - titulacion
 relaciones:
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 59
+    - Art. 60
+    - Art. 61
+    - Art. 62
+  - norma_id: norm-es-2016-3229
+    articulos_destino:
+    - Art. 59
+    - Art. 60
+    - Art. 61
+    - Art. 62
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 59
+    - Art. 60
+    - Art. 61
+    - Art. 62
+  - norma_id: norm-es-2019-317
+    articulos_destino:
+    - Art. 59
+    - Art. 60
+    - Art. 61
+    - Art. 62
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 59
+    - Art. 60
+    - Art. 61
+    - Art. 62
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 7
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 7
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 7
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2019-317
+    articulos_origen:
+    - Art. 7
+    capitulo_destino: Capítulo V
+    articulos_destino:
+    - Art. 4
+    - Art. 7
+    - Art. 28
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 7
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 7
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 7
+  cita:
+  - norma_id: norm-can-d-135-2016
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 11
+  - norma_id: norm-can-d-84-2024
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 11
+  - norma_id: norm-es-2019-317
+    articulos_origen:
+    - Art. 7
+  - norma_id: norm-es-2019-317
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 4
+  - norma_id: norm-es-l-39-2015
+    articulos_origen:
+    - Art. 7
   fundamentado_en:
+  - norma_id: norm-es-2019-317
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2019-317
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 5
   - norma_id: norm-can-d-212-1991
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2016-3229
-  - norma_id: norm-es-2019-317
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-lo-2-2006
-  desarrolla:
   - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-2016-3229
@@ -50,6 +146,7 @@ relaciones:
   - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-234-5741.pdf
 ---
+
 # Resolución de 18 de noviembre de 2019, por la que se dictan instrucciones sobre evaluación de las pruebas de certificación de enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Canarias (BOC n.º 234, de 3 de diciembre).
 
 ## Preámbulo
@@ -269,3 +366,38 @@ del plazo de dos días a partir de la notificación de la resolución de calific
 - [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Desarrolla**: [**BOE-A-2019-317**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md) (Capítulo V, Art. 4, Art. 7, Art. 28) desde *(Art. 7)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Art. 7)*
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Art. 7)*
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Art. 7)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 59, Art. 60, Art. 61, Art. 62)
+- **Modifica**: [**BOE-A-2016-3229**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md) (Art. 59, Art. 60, Art. 61, Art. 62)
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 59, Art. 60, Art. 61, Art. 62)
+- **Modifica**: [**BOE-A-2019-317**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md) (Art. 59, Art. 60, Art. 61, Art. 62)
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 59, Art. 60, Art. 61, Art. 62)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional vigesimotercera) desde *(Art. 7)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional vigesimotercera) desde *(Art. 7)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional vigesimotercera) desde *(Art. 7)*
+- **Fundamentado en**: [**BOE-A-2019-317**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md) (Art. 3) desde *(Art. 7)*
+- **Fundamentado en**: [**BOE-A-2019-317**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md) (Art. 5) desde *(Art. 7)*
+- **Fundamentado en**: [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2016-3229**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: [**Decreto BOC 135/2016**](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md) (Art. 11) desde *(Art. 7)*
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 11) desde *(Art. 7)*
+- **Cita a**: [**BOE-A-2019-317**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md) desde *(Art. 7)*
+- **Cita a**: [**BOE-A-2019-317**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md) (Art. 4) desde *(Art. 7)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) desde *(Art. 7)*

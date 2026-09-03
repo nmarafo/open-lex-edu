@@ -27,15 +27,27 @@ tags:
 - profesorado
 - profesorado-de-religi-n
 relaciones:
+  modifica:
+  - norma_id: norm-es-2001-7022
+    articulos_destino:
+    - Art. 93
+    disposiciones_destino:
+    - D. Adicional segunda
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 93
+    disposiciones_destino:
+    - D. Adicional segunda
   fundamentado_en:
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-ce-1978
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
+  - norma_id: '27'
   - norma_id: norm-es-2001-7022
 ---
+
 # Orden de 9 de abril de 1999 por la que se dispone la publicación del Convenio sobre el régimen económico-laboral de las personas que, no perteneciendo a los Cuerpos de Funcionarios Docentes, están encargadas de la enseñanza de la religión católica en los centros públicos de Educación Infantil, de Educación Primaria y de Educación Secundaria.
 
 ## Preámbulo
@@ -115,3 +127,13 @@ El presente Convenio deroga y sustituye al suscrito por las mismas partes con fe
 
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (Art. 93, D. Adicional segunda)
+- **Modifica**: `norm-es-c-1978` (Art. 93, D. Adicional segunda)
+- **Fundamentado en**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)

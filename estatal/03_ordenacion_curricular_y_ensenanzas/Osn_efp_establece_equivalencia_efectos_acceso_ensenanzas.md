@@ -28,6 +28,36 @@ tags:
 - procedimiento-administrativo
 - titulacion
 relaciones:
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 12
+    - Art. 4
+    - Art. 7
+    - Art. 131
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 12
+    - Art. 4
+    - Art. 7
+    - Art. 131
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 12
+    - Art. 4
+    - Art. 7
+    - Art. 131
+  - norma_id: norm-es-lo-3-2020
+    articulos_destino:
+    - Art. 12
+    - Art. 4
+    - Art. 7
+    - Art. 131
+  concordancia:
+  - norma_id: norm-es-l-40-2015
+    articulos_destino:
+    - Art. 17
+    - Art. 9
   fundamentado_en:
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2021-20113
@@ -37,11 +67,12 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
 ---
+
 # Orden EFP/1210/2021, de 2 de noviembre, por la que se establece la equivalencia, a los efectos de acceso a enseñanzas de formación profesional, de determinados estudios y títulos anteriores al actual sistema educativo.
 
 ## Preámbulo
@@ -61,3 +92,19 @@ RESUELVO:
 Primero.- Delegar en las Direcciones Territoriales de Educación la competencia para el nombramiento y cese, así como para la concesión, cese y revocación de las comisiones de servicios para el desempeño del cargo de Jefatura de Estudios Adjunta en los centros educativos en que se determine, que ejercerán, en su ámbito territorial, bajo la dirección y coordinación de esta Dirección General de Personal que dictará cuantas normas e instrucciones considere necesarias.
 Segundo.- La delegación conferida por esta Resolución se entenderá sin perjuicio de la potestad de su revocación y en las Resoluciones que se adopten en el ejercicio de la misma se hará constar esta circunstancia considerándose, a todos los efectos, dictadas por esta Dirección General de Personal.
 Tercero.- La presente Resolución entrará en vigor a partir del día siguiente a su publicación en el Boletín Oficial de Canarias. Las Palmas de Gran Canaria, a 12 de febrero de 2021.- El Director General de Personal, Fidel Benigno Trujillo Santana.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 12, Art. 4, Art. 7, Art. 131)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 12, Art. 4, Art. 7, Art. 131)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 12, Art. 4, Art. 7, Art. 131)
+- **Modifica**: `norm-es-lo-3-2020` (Art. 12, Art. 4, Art. 7, Art. 131)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **En concordancia con**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 17, Art. 9)

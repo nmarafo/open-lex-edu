@@ -39,8 +39,9 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '25'
+  - norma_id: '25'
 ---
+
 # Decreto 23/1995, de 24 de febrero, por el que se regula la orientación educativa en la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -281,3 +282,13 @@ rango que se opongan a lo establecido en el presente Decreto, en especial el Dec
 
 • Aviso Legal
 • Sugerencias y Reclamaciones
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)

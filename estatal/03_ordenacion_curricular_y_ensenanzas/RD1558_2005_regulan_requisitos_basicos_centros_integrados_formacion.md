@@ -22,21 +22,78 @@ tags:
 - titulacion
 - transparencia
 relaciones:
+  cita:
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2002-12018
+    articulos_destino:
+    - Art. 11
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 15
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2002-12018
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 8
+  desarrolla:
+  - norma_id: norm-es-2002-12018
+    articulos_destino:
+    - Art. 11
+    - Art. 10
+  - norma_id: norm-es-2002-12018
+    articulos_origen:
+    - Art. 1
+    articulos_destino:
+    - Art. 11
+  - norma_id: norm-es-2002-12018
+    articulos_origen:
+    - Art. 6
+    articulos_destino:
+    - Art. 8
+  concordancia:
+  - norma_id: norm-es-2002-12018
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 11
   fundamentado_en:
   - norma_id: norm-es-2002-12018
+    articulos_origen:
+    - Art. 12
+    articulos_destino:
+    - Art. 11
+  - norma_id: norm-es-2002-12018
+    articulos_origen:
+    - D. Final primera. Título competencial.
+    articulos_destino:
+    - Art. 149
+    - Art. 11
+    disposiciones_destino:
+    - D. Final primera
+    - D. Final tercera
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final primera. Título competencial.
+    articulos_destino:
+    - Art. 149
+    - Art. 11
+    disposiciones_destino:
+    - D. Final primera
+    - D. Final tercera
   - norma_id: norm-es-l-53-1984
   - norma_id: norm-es-lo-2-2006
   fundamento_de:
   - norma_id: norm-es-rd-1834-2008
-  - norma_id: norm-can-res-043
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '22'
+  - norma_id: '22'
   - norma_id: norm-es-l-53-1984
   - norma_id: norm-es-2002-12018
 ---
+
 # Real Decreto 1558/2005, de 23 de diciembre, por el que se regulan los requisitos básicos de los Centros integrados de formación profesional.
 
 ## Preámbulo
@@ -321,3 +378,23 @@ MARÍA TERESA FERNÁNDEZ DE LA VEGA SANZ
 - [**L6_2014 Ley Canaria de Educacion**](../../autonómica/canarias/01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md)
 - [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md) (Art. 11, Art. 10)
+- **Desarrolla**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md) (Art. 11) desde *(Art. 1)*
+- **Desarrolla**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md) (Art. 8) desde *(Art. 6)*
+- **Fundamentado en**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md) (Art. 11) desde *(Art. 12)*
+- **Fundamentado en**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md) (Art. 149, Art. 11, D. Final primera, D. Final tercera) desde *(D. Final primera. Título competencial.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 11, D. Final primera, D. Final tercera) desde *(D. Final primera. Título competencial.)*
+- **Fundamentado en**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](../02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md)
+- **En concordancia con**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md) (Art. 11) desde *(Art. 2)*
+- **Cita a**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md)
+- **Cita a**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md) (Art. 11)
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (Art. 3) desde *(Art. 15)*
+- **Cita a**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md) (Art. 8) desde *(Art. 17)*

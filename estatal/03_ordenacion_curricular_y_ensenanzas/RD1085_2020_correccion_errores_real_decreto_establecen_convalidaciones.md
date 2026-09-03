@@ -23,6 +23,37 @@ tags:
 - formacion-profesional
 - titulacion
 relaciones:
+  modifica:
+  - norma_id: norm-es-2020-17274
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 12
+    - Art. 4
+    - Art. 7
+    - Art. 131
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 12
+    - Art. 4
+    - Art. 7
+    - Art. 131
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 12
+    - Art. 4
+    - Art. 7
+    - Art. 131
+  - norma_id: norm-es-lo-3-2020
+    articulos_destino:
+    - Art. 12
+    - Art. 4
+    - Art. 7
+    - Art. 131
+  concordancia:
+  - norma_id: norm-es-l-40-2015
+    articulos_destino:
+    - Art. 17
+    - Art. 9
   fundamentado_en:
   - norma_id: norm-es-2020-17274
   - norma_id: norm-es-lo-2-2006
@@ -31,18 +62,13 @@ relaciones:
   - norma_id: norm-es-2024-10684
   - norma_id: norm-es-2024-10685
   - norma_id: norm-es-rd-659-2023
-  - norma_id: norm-can-res-boc-2024-226-44
-  - norma_id: norm-can-res-boc-2026-039-103
-  - norma_id: norm-can-res-032
-  - norma_id: norm-can-res-boc-2025-047-108
-  - norma_id: norm-can-res-030
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '22'
+  - norma_id: '22'
   - norma_id: norm-es-2020-17274
 ---
+
 # Corrección de errores del Real Decreto 1085/2020, de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo.
 
 ## Preámbulo
@@ -62,3 +88,21 @@ RESUELVO:
 Primero.- Delegar en las Direcciones Territoriales de Educación la competencia para el nombramiento y cese, así como para la concesión, cese y revocación de las comisiones de servicios para el desempeño del cargo de Jefatura de Estudios Adjunta en los centros educativos en que se determine, que ejercerán, en su ámbito territorial, bajo la dirección y coordinación de esta Dirección General de Personal que dictará cuantas normas e instrucciones considere necesarias.
 Segundo.- La delegación conferida por esta Resolución se entenderá sin perjuicio de la potestad de su revocación y en las Resoluciones que se adopten en el ejercicio de la misma se hará constar esta circunstancia considerándose, a todos los efectos, dictadas por esta Dirección General de Personal.
 Tercero.- La presente Resolución entrará en vigor a partir del día siguiente a su publicación en el Boletín Oficial de Canarias. Las Palmas de Gran Canaria, a 12 de febrero de 2021.- El Director General de Personal, Fidel Benigno Trujillo Santana.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**BOE-A-2020-17274**](./RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 12, Art. 4, Art. 7, Art. 131)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 12, Art. 4, Art. 7, Art. 131)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 12, Art. 4, Art. 7, Art. 131)
+- **Modifica**: `norm-es-lo-3-2020` (Art. 12, Art. 4, Art. 7, Art. 131)
+- **Fundamentado en**: [**BOE-A-2020-17274**](./RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**BOE-A-2020-17274**](./RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md)
+- **Fundamento de**: [**BOE-A-2024-10684**](./RD499_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**BOE-A-2024-10685**](./RD500_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **En concordancia con**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 17, Art. 9)

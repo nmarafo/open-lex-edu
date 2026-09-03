@@ -25,27 +25,26 @@ tags:
 - baremo
 - andalucia
 relaciones:
+  cita:
+  - norma_id: norm-es-2021-11382
   desarrolla:
   - norma_id: norm-es-lo-2-2006
-  modifica_a: []
-  modificado_por: []
-  afecta_a_articulos: []
   fundamentado_en:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-and-l17-2007
 ---
+
 # Decreto-ley 2/2021, de 2 de febrero, por el que se regulan los procedimientos de admisión del alumnado en los centros docentes públicos y privados concertados
 
 ## Preámbulo
 
 Decreto del Presidente 5/2021, de 1 de febrero, por el que se adscribe a la Consejería de Hacienda y Financiación Europea la entidad Verificaciones Industriales de Andalucía, S.A.
 
-Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de Verificación de autenticidad con CVE 00185700.
-
 En virtud de las facultades que me vienen conferidas por el artículo 117.1 del Estatuto de Autonomía para Andalucía y por el artículo 10.1.h) de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía
 DISPONGO:
-Artículo único. Adscripción de la entidad Verificaciones Industriales de Andalucía, S.A. Se adscribe a la Consejería de Hacienda y Financiación Europea la entidad Verificaciones Industriales de Andalucía, S.A., en la actualidad adscrita a la Consejería de Transformación Económica, Industria, Conocimiento y Universidades.
+
+#### Artículo . #### Artículo . Artículo único. Adscripción de la entidad Verificaciones Industriales de Andalucía, S.A. Se adscribe a la Consejería de Hacienda y Financiación Europea la entidad Verificaciones Industriales de Andalucía, S.A., en la actualidad adscrita a la Consejería de Transformación Económica, Industria, Conocimiento y Universidades.
 
 #### Disposición derogatoria única. Derogación normativa.
 
@@ -57,8 +56,6 @@ Se faculta a la Consejería de Hacienda y Financiación Europea para realizar la
 
 #### Disposición final segunda. Entrada en vigor.
 
-El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 1 de febrero de 2021
-
 JUAN MANUEL MORENO BONILLA
 
 Presidente de la Junta de Andalucía
@@ -66,3 +63,14 @@ Presidente de la Junta de Andalucía
 Descargar PDF
 
 Disposición siguiente
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Cita a**: [**BOE-A-2021-11382**](../../../estatal/07_convivencia_bienestar_y_protocolos/L2_2021_igualdad_social_no_discriminacion_razon_identidad.md)

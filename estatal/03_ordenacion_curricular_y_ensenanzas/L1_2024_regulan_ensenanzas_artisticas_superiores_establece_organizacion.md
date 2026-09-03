@@ -21,29 +21,617 @@ tags:
 - ense-anzas-art-sticas
 - ensenanzas-artisticas
 relaciones:
-  fundamentado_en:
-  - norma_id: norm-es-2000-544
+  cita:
   - norma_id: norm-es-2001-7022
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 7
   - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 7
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 7
+  - norma_id: norm-es-lo-3-2020
+    titulo_destino: Título II
+    disposiciones_destino:
+    - D. Adicional novena
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-lo-3-2020
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-rdleg-5-2015
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. Definición, principios y fines de las enseñanzas
+      artísticas superiores artículo 3 Definición. A los efectos de esta ley, se entienden
+      por enseñanzas artísticas superiores las enseñanzas pertenecientes a los niveles
+      de grado y posgrado de la educación superior del sistema educativo orientadas
+      específicamente a la formación artística en cualquiera de sus disciplinas.
+    articulos_origen:
+    - Art. 4
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Estudios de grado en enseñanzas artísticas superiores.
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 38
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Estudios de grado en enseñanzas artísticas superiores.
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 38
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Estudios de grado en enseñanzas artísticas superiores.
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 38
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Estudios de grado en enseñanzas artísticas superiores.
+    articulos_origen:
+    - Art. 7
+    titulo_destino: Título I
+    capitulo_destino: Capítulo IV
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Estudios de grado en enseñanzas artísticas superiores.
+    articulos_origen:
+    - Art. 7
+    titulo_destino: Título I
+    capitulo_destino: Capítulo IV
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Estudios de grado en enseñanzas artísticas superiores.
+    articulos_origen:
+    - Art. 7
+    titulo_destino: Título I
+    capitulo_destino: Capítulo IV
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I
+    capitulo_origen: Capítulo VII. Centros de enseñanzas artísticas.
+    seccion_origen: Sección 1. ª Disposiciones de carácter general artículo 16 Centros
+      de enseñanzas artísticas superiores. Tendrán la consideración de centros de
+      enseñanzas artísticas superiores los establecidos y gestionados por las administraciones
+      competentes para impartir cualquiera de los estudios previstos en esta ley,
+      así como los autorizados al efecto por dichas administraciones.
+    articulos_origen:
+    - Art. 17
+    titulo_destino: Título IV
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título I
+    capitulo_origen: Capítulo VII. Centros de enseñanzas artísticas.
+    seccion_origen: Sección 1. ª Disposiciones de carácter general artículo 16 Centros
+      de enseñanzas artísticas superiores. Tendrán la consideración de centros de
+      enseñanzas artísticas superiores los establecidos y gestionados por las administraciones
+      competentes para impartir cualquiera de los estudios previstos en esta ley,
+      así como los autorizados al efecto por dichas administraciones.
+    articulos_origen:
+    - Art. 17
+    titulo_destino: Título IV
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I
+    capitulo_origen: Capítulo VII. Centros de enseñanzas artísticas.
+    seccion_origen: Sección 1. ª Disposiciones de carácter general artículo 16 Centros
+      de enseñanzas artísticas superiores. Tendrán la consideración de centros de
+      enseñanzas artísticas superiores los establecidos y gestionados por las administraciones
+      competentes para impartir cualquiera de los estudios previstos en esta ley,
+      así como los autorizados al efecto por dichas administraciones.
+    articulos_origen:
+    - Art. 17
+    titulo_destino: Título IV
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I
+    capitulo_origen: Capítulo VII. Centros de enseñanzas artísticas.
+    seccion_origen: Sección 1. ª Disposiciones de carácter general artículo 16 Centros
+      de enseñanzas artísticas superiores. Tendrán la consideración de centros de
+      enseñanzas artísticas superiores los establecidos y gestionados por las administraciones
+      competentes para impartir cualquiera de los estudios previstos en esta ley,
+      así como los autorizados al efecto por dichas administraciones.
+    articulos_origen:
+    - Art. 17
+    titulo_destino: Título IV
+  - norma_id: norm-es-lo-1-2004
+    titulo_origen: Título I
+    capitulo_origen: Capítulo IX. Profesorado.
+    articulos_origen:
+    - Art. 53
+    articulos_destino:
+    - Art. 7
+  - norma_id: norm-es-2000-544
+    titulo_origen: Título I
+    capitulo_origen: Capítulo XII. Calidad y evaluación.
+    articulos_origen:
+    - Art. 62
+    disposiciones_destino:
+    - D. Final tercera
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II
+    articulos_origen:
+    - Art. 66
+    articulos_destino:
+    - Art. 51
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II
+    articulos_origen:
+    - Art. 66
+    articulos_destino:
+    - Art. 51
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II
+    articulos_origen:
+    - Art. 66
+    articulos_destino:
+    - Art. 51
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título II
+    articulos_origen:
+    - Art. 66
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título II
+    articulos_origen:
+    - Art. 68
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Adicional décima. Regulación de las enseñanzas elementales.
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Adicional décima. Regulación de las enseñanzas elementales.
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Adicional décima. Regulación de las enseñanzas elementales.
+  - norma_id: norm-es-2001-7022
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Adicional undécima. Direcciones de los centros de titularidad pública de
+      enseñanzas artísticas cuyo titular sea una fundación u organismo autónomo del
+      sector público.
+    articulos_destino:
+    - Art. 32
+    - Art. 33
+  - norma_id: norm-es-2001-7022
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Adicional undécima. Direcciones de los centros de titularidad pública de
+      enseñanzas artísticas cuyo titular sea una fundación u organismo autónomo del
+      sector público.
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Transitoria primera. Aplicabilidad de la organización de las enseñanzas artísticas
+      superiores prevista en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Transitoria primera
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Transitoria primera. Aplicabilidad de la organización de las enseñanzas artísticas
+      superiores prevista en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Transitoria primera
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Transitoria primera. Aplicabilidad de la organización de las enseñanzas artísticas
+      superiores prevista en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Transitoria primera
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final primera. Modificación de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades
+      del personal al servicio de las Administraciones Públicas.
+    articulos_destino:
+    - Art. 16
+    - Art. 45
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final primera. Modificación de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades
+      del personal al servicio de las Administraciones Públicas.
+    articulos_destino:
+    - Art. 16
+    - Art. 45
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final primera. Modificación de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades
+      del personal al servicio de las Administraciones Públicas.
+    articulos_destino:
+    - Art. 16
+    - Art. 45
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VI
+  - norma_id: norm-es-2021-20113
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VI
+  - norma_id: norm-es-2010-12201
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VI
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 54
+    - Art. 55
+    - Art. 56
+    - Art. 57
+  - norma_id: norm-es-2016-3229
+    articulos_destino:
+    - Art. 54
+    - Art. 55
+    - Art. 56
+    - Art. 57
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 54
+    - Art. 55
+    - Art. 56
+    - Art. 57
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 54
+    - Art. 55
+    - Art. 56
+    - Art. 57
+  - norma_id: norm-es-lo-2-2006
+    disposiciones_destino:
+    - D. Adicional novena
+  - norma_id: norm-es-2021-20113
+    disposiciones_destino:
+    - D. Adicional novena
+  - norma_id: norm-es-2010-12201
+    disposiciones_destino:
+    - D. Adicional novena
+  - norma_id: norm-es-lo-3-2020
+    disposiciones_destino:
+    - D. Adicional novena
+  - norma_id: norm-es-lo-2-2006
+    titulo_destino: Título PRELIMINAR
+    disposiciones_destino:
+    - D. Adicional novena
+  - norma_id: norm-es-2021-20113
+    titulo_destino: Título PRELIMINAR
+    disposiciones_destino:
+    - D. Adicional novena
+  - norma_id: norm-es-2010-12201
+    titulo_destino: Título PRELIMINAR
+    disposiciones_destino:
+    - D. Adicional novena
+  - norma_id: norm-es-lo-3-2020
+    titulo_destino: Título PRELIMINAR
+    disposiciones_destino:
+    - D. Adicional novena
+  - norma_id: norm-es-l-53-1984
+    disposiciones_destino:
+    - D. Derogatoria única
+  - norma_id: norm-es-lo-2-2006
+    disposiciones_destino:
+    - D. Derogatoria única
+  - norma_id: norm-es-lo-3-2022
+    disposiciones_destino:
+    - D. Derogatoria única
+  - norma_id: norm-es-2021-20113
+    disposiciones_destino:
+    - D. Derogatoria única
+  - norma_id: norm-es-2010-12201
+    disposiciones_destino:
+    - D. Derogatoria única
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título III
+    articulos_origen:
+    - Art. 69
+    disposiciones_destino:
+    - D. Adicional sexta
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título III
+    articulos_origen:
+    - Art. 69
+    disposiciones_destino:
+    - D. Adicional sexta
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título III
+    articulos_origen:
+    - Art. 69
+    disposiciones_destino:
+    - D. Adicional sexta
+  - norma_id: norm-es-l-53-1984
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final primera. Modificación de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades
+      del personal al servicio de las Administraciones Públicas.
+    disposiciones_destino:
+    - D. Final primera
+  - norma_id: norm-es-l-53-1984
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final primera. Modificación de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades
+      del personal al servicio de las Administraciones Públicas.
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final segunda. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final segunda. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final segunda. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final segunda. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final segunda. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final segunda. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final tercera. Modificación de la Ley Orgánica 3/2022, de 31 de marzo, de
+      ordenación e integración de la Formación Profesional.
+    disposiciones_destino:
+    - D. Final tercera
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final tercera. Modificación de la Ley Orgánica 3/2022, de 31 de marzo, de
+      ordenación e integración de la Formación Profesional.
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+    capitulo_destino: Capítulo VII
+  - norma_id: norm-es-2021-20113
+    capitulo_destino: Capítulo VII
+  - norma_id: norm-es-2010-12201
+    capitulo_destino: Capítulo VII
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final sexta. Desarrollo de la presente ley.
+    articulos_destino:
+    - Art. 149
+  fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I
+    capitulo_origen: Capítulo VIII. Estudiantado.
+    seccion_origen: Sección 2. ª Igualdad de trato y de oportunidades
+    articulos_origen:
+    - Art. 49
+    articulos_destino:
+    - Art. 32
+    - Art. 83
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I
+    capitulo_origen: Capítulo VIII. Estudiantado.
+    seccion_origen: Sección 2. ª Igualdad de trato y de oportunidades
+    articulos_origen:
+    - Art. 49
+    articulos_destino:
+    - Art. 32
+    - Art. 83
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I
+    capitulo_origen: Capítulo VIII. Estudiantado.
+    seccion_origen: Sección 2. ª Igualdad de trato y de oportunidades
+    articulos_origen:
+    - Art. 49
+    articulos_destino:
+    - Art. 32
+    - Art. 83
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I
+    capitulo_origen: Capítulo XII. Calidad y evaluación.
+    articulos_origen:
+    - Art. 60
+    articulos_destino:
+    - Art. 154
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I
+    capitulo_origen: Capítulo XII. Calidad y evaluación.
+    articulos_origen:
+    - Art. 60
+    articulos_destino:
+    - Art. 154
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I
+    capitulo_origen: Capítulo XII. Calidad y evaluación.
+    articulos_origen:
+    - Art. 60
+    articulos_destino:
+    - Art. 154
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Adicional octava. Medidas para facilitar la simultaneidad de estudios.
+    articulos_destino:
+    - Art. 47
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Adicional octava. Medidas para facilitar la simultaneidad de estudios.
+    articulos_destino:
+    - Art. 47
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Adicional octava. Medidas para facilitar la simultaneidad de estudios.
+    articulos_destino:
+    - Art. 47
+  - norma_id: norm-es-2001-7022
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Adicional decimotercera. Validez de títulos superiores de enseñanzas artísticas
+      establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación
+      General del Sistema Educativo.
+    disposiciones_destino:
+    - D. Adicional decimotercera
+  - norma_id: norm-es-2001-7022
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Adicional decimotercera. Validez de títulos superiores de enseñanzas artísticas
+      establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación
+      General del Sistema Educativo.
+    articulos_destino:
+    - Art. 10
+    disposiciones_destino:
+    - D. Adicional novena
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Transitoria primera. Aplicabilidad de la organización de las enseñanzas artísticas
+      superiores prevista en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    articulos_destino:
+    - Art. 6
+    - Art. 54
+    - Art. 55
+    - Art. 56
+    - Art. 57
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Transitoria primera. Aplicabilidad de la organización de las enseñanzas artísticas
+      superiores prevista en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    articulos_destino:
+    - Art. 6
+    - Art. 54
+    - Art. 55
+    - Art. 56
+    - Art. 57
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Transitoria primera. Aplicabilidad de la organización de las enseñanzas artísticas
+      superiores prevista en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    articulos_destino:
+    - Art. 6
+    - Art. 54
+    - Art. 55
+    - Art. 56
+    - Art. 57
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final primera. Modificación de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades
+      del personal al servicio de las Administraciones Públicas.
+    articulos_destino:
+    - Art. 95
+    - Art. 16
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final primera. Modificación de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades
+      del personal al servicio de las Administraciones Públicas.
+    articulos_destino:
+    - Art. 95
+    - Art. 16
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final primera. Modificación de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades
+      del personal al servicio de las Administraciones Públicas.
+    articulos_destino:
+    - Art. 95
+    - Art. 16
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final quinta. Título competencial.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final quinta. Título competencial.
+    titulo_destino: Título I
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final quinta. Título competencial.
+    articulos_destino:
+    - Art. 9
+    - Art. 11
+    - Art. 14
+    - Art. 26
+    - Art. 149
+    disposiciones_destino:
+    - D. Adicional octava
+  - norma_id: norm-es-2000-544
+  - norma_id: norm-es-2016-3229
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-53-1984
   - norma_id: norm-es-lo-1-2004
-  - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-3-2022
   - norma_id: norm-es-lo-8-1985
   - norma_id: norm-es-rdl-5-2015
+  concordancia:
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Adicional primera. El Consejo Superior de Enseñanzas Artísticas.
+    articulos_destino:
+    - Art. 45
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Adicional primera. El Consejo Superior de Enseñanzas Artísticas.
+    articulos_destino:
+    - Art. 45
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Adicional primera. El Consejo Superior de Enseñanzas Artísticas.
+    articulos_destino:
+    - Art. 45
   fundamento_de:
   - norma_id: norm-es-2026-12038
-  - norma_id: norm-can-res-boc-2026-039-111
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2'
-  - norma_id: norm-can-res-134
+  - norma_id: '1'
+  - norma_id: '2'
   - norma_id: norm-es-2000-544
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-53-1984
@@ -56,6 +644,7 @@ relaciones:
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-lo-1-2004
 ---
+
 # Ley 1/2024, de 7 de junio, por la que se regulan las enseñanzas artísticas superiores y se establece la organización y equivalencias de las enseñanzas artísticas profesionales.
 
 ## Preámbulo
@@ -1364,3 +1953,123 @@ PEDRO SÁNCHEZ PÉREZ-CASTEJÓN
 - [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Capítulo VII)
+- **Desarrolla**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Capítulo VII)
+- **Desarrolla**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Capítulo VII)
+- **Desarrolla**: `norm-es-c-1978` (Art. 149) desde *(Título III, D. Final sexta. Desarrollo de la presente ley.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título I, Capítulo VI)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título I, Capítulo VI)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título I, Capítulo VI)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 54, Art. 55, Art. 56, Art. 57)
+- **Modifica**: [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md) (Art. 54, Art. 55, Art. 56, Art. 57)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 54, Art. 55, Art. 56, Art. 57)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 54, Art. 55, Art. 56, Art. 57)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional novena)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional novena)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional novena)
+- **Modifica**: `norm-es-lo-3-2020` (D. Adicional novena)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título PRELIMINAR, D. Adicional novena)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título PRELIMINAR, D. Adicional novena)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título PRELIMINAR, D. Adicional novena)
+- **Modifica**: `norm-es-lo-3-2020` (Título PRELIMINAR, D. Adicional novena)
+- **Modifica**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (D. Derogatoria única)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Derogatoria única)
+- **Modifica**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (D. Derogatoria única)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Derogatoria única)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Derogatoria única)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional sexta) desde *(Título III, Art. 69)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional sexta) desde *(Título III, Art. 69)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional sexta) desde *(Título III, Art. 69)*
+- **Modifica**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (D. Final primera) desde *(Título III, D. Final primera. Modificación de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas.)*
+- **Modifica**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) desde *(Título III, D. Final primera. Modificación de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Final segunda) desde *(Título III, D. Final segunda. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Final segunda) desde *(Título III, D. Final segunda. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Final segunda) desde *(Título III, D. Final segunda. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título III, D. Final segunda. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título III, D. Final segunda. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título III, D. Final segunda. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Modifica**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (D. Final tercera) desde *(Título III, D. Final tercera. Modificación de la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional.)*
+- **Modifica**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(Título III, D. Final tercera. Modificación de la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 32, Art. 83) desde *(Título I, Capítulo VIII. Estudiantado., Art. 49)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 32, Art. 83) desde *(Título I, Capítulo VIII. Estudiantado., Art. 49)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 32, Art. 83) desde *(Título I, Capítulo VIII. Estudiantado., Art. 49)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 154) desde *(Título I, Capítulo XII. Calidad y evaluación., Art. 60)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 154) desde *(Título I, Capítulo XII. Calidad y evaluación., Art. 60)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 154) desde *(Título I, Capítulo XII. Calidad y evaluación., Art. 60)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 47) desde *(Título III, D. Adicional octava. Medidas para facilitar la simultaneidad de estudios.)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 47) desde *(Título III, D. Adicional octava. Medidas para facilitar la simultaneidad de estudios.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 47) desde *(Título III, D. Adicional octava. Medidas para facilitar la simultaneidad de estudios.)*
+- **Fundamentado en**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (D. Adicional decimotercera) desde *(Título III, D. Adicional decimotercera. Validez de títulos superiores de enseñanzas artísticas establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.)*
+- **Fundamentado en**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (Art. 10, D. Adicional novena) desde *(Título III, D. Adicional decimotercera. Validez de títulos superiores de enseñanzas artísticas establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 6, Art. 54, Art. 55, Art. 56, Art. 57) desde *(Título III, D. Transitoria primera. Aplicabilidad de la organización de las enseñanzas artísticas superiores prevista en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 6, Art. 54, Art. 55, Art. 56, Art. 57) desde *(Título III, D. Transitoria primera. Aplicabilidad de la organización de las enseñanzas artísticas superiores prevista en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 6, Art. 54, Art. 55, Art. 56, Art. 57) desde *(Título III, D. Transitoria primera. Aplicabilidad de la organización de las enseñanzas artísticas superiores prevista en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 95, Art. 16) desde *(Título III, D. Final primera. Modificación de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas.)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 95, Art. 16) desde *(Título III, D. Final primera. Modificación de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 95, Art. 16) desde *(Título III, D. Final primera. Modificación de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(Título III, D. Final quinta. Título competencial.)*
+- **Fundamentado en**: `norm-es-c-1978` (Título I, Art. 149) desde *(Título III, D. Final quinta. Título competencial.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 9, Art. 11, Art. 14, Art. 26, Art. 149, D. Adicional octava) desde *(Título III, D. Final quinta. Título competencial.)*
+- **Fundamentado en**: [**BOE-A-2000-544**](../01_marco_normativo_general_y_organico/LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md)
+- **Fundamentado en**: [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md)
+- **Fundamentado en**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
+- **Fundamentado en**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
+- **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamento de**: [**BOE-A-2026-12038**](./RD452_2026_establece_ordenacion_ensenanzas_profesionales_artes_plasticas.md)
+- **En concordancia con**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 45) desde *(Título III, D. Adicional primera. El Consejo Superior de Enseñanzas Artísticas.)*
+- **En concordancia con**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 45) desde *(Título III, D. Adicional primera. El Consejo Superior de Enseñanzas Artísticas.)*
+- **En concordancia con**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 45) desde *(Título III, D. Adicional primera. El Consejo Superior de Enseñanzas Artísticas.)*
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 7)
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 7)
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 7)
+- **Cita a**: `norm-es-lo-3-2020` (Título II, D. Adicional novena)
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 129)
+- **Cita a**: `norm-es-lo-3-2020`
+- **Cita a**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Cita a**: `norm-es-rdleg-5-2015`
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título Preliminar, Art. 1)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título Preliminar, Art. 1)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título Preliminar, Art. 1)*
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Capítulo I. Definición, principios y fines de las enseñanzas artísticas superiores artículo 3 Definición. A los efectos de esta ley, se entienden por enseñanzas artísticas superiores las enseñanzas pertenecientes a los niveles de grado y posgrado de la educación superior del sistema educativo orientadas específicamente a la formación artística en cualquiera de sus disciplinas., Art. 4)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 38) desde *(Título I, Capítulo III. Estudios de grado en enseñanzas artísticas superiores., Art. 7)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 38) desde *(Título I, Capítulo III. Estudios de grado en enseñanzas artísticas superiores., Art. 7)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 38) desde *(Título I, Capítulo III. Estudios de grado en enseñanzas artísticas superiores., Art. 7)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título I, Capítulo IV) desde *(Título I, Capítulo III. Estudios de grado en enseñanzas artísticas superiores., Art. 7)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título I, Capítulo IV) desde *(Título I, Capítulo III. Estudios de grado en enseñanzas artísticas superiores., Art. 7)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título I, Capítulo IV) desde *(Título I, Capítulo III. Estudios de grado en enseñanzas artísticas superiores., Art. 7)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título IV) desde *(Título I, Capítulo VII. Centros de enseñanzas artísticas., Art. 17)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Título IV) desde *(Título I, Capítulo VII. Centros de enseñanzas artísticas., Art. 17)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título IV) desde *(Título I, Capítulo VII. Centros de enseñanzas artísticas., Art. 17)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título IV) desde *(Título I, Capítulo VII. Centros de enseñanzas artísticas., Art. 17)*
+- **Cita a**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) (Art. 7) desde *(Título I, Capítulo IX. Profesorado., Art. 53)*
+- **Cita a**: [**BOE-A-2000-544**](../01_marco_normativo_general_y_organico/LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md) (D. Final tercera) desde *(Título I, Capítulo XII. Calidad y evaluación., Art. 62)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 51) desde *(Título II, Art. 66)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 51) desde *(Título II, Art. 66)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 51) desde *(Título II, Art. 66)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(Título II, Art. 66)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(Título II, Art. 68)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título III, D. Adicional décima. Regulación de las enseñanzas elementales.)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título III, D. Adicional décima. Regulación de las enseñanzas elementales.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título III, D. Adicional décima. Regulación de las enseñanzas elementales.)*
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (Art. 32, Art. 33) desde *(Título III, D. Adicional undécima. Direcciones de los centros de titularidad pública de enseñanzas artísticas cuyo titular sea una fundación u organismo autónomo del sector público.)*
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) desde *(Título III, D. Adicional undécima. Direcciones de los centros de titularidad pública de enseñanzas artísticas cuyo titular sea una fundación u organismo autónomo del sector público.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Transitoria primera) desde *(Título III, D. Transitoria primera. Aplicabilidad de la organización de las enseñanzas artísticas superiores prevista en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Transitoria primera) desde *(Título III, D. Transitoria primera. Aplicabilidad de la organización de las enseñanzas artísticas superiores prevista en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Transitoria primera) desde *(Título III, D. Transitoria primera. Aplicabilidad de la organización de las enseñanzas artísticas superiores prevista en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 16, Art. 45) desde *(Título III, D. Final primera. Modificación de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas.)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 16, Art. 45) desde *(Título III, D. Final primera. Modificación de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 16, Art. 45) desde *(Título III, D. Final primera. Modificación de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas.)*

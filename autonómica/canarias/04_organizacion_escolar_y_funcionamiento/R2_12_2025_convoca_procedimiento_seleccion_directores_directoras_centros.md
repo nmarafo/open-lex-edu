@@ -26,23 +26,106 @@ tags:
 - oposiciones
 - profesorado
 relaciones:
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    titulo_destino: Título V
+    capitulo_destino: Capítulo IV
+  - norma_id: norm-es-2021-20113
+    titulo_destino: Título V
+    capitulo_destino: Capítulo IV
+  - norma_id: norm-es-2010-12201
+    titulo_destino: Título V
+    capitulo_destino: Capítulo IV
+  - norma_id: norm-es-lo-3-2020
+    titulo_destino: Título V
+    capitulo_destino: Capítulo IV
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 135
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 135
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 135
+  desarrolla:
+  - norma_id: norm-can-d-106-2009
+    articulos_origen:
+    - Art. 135
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 134
+    - Art. 13
+    - Art. 3
+    - Art. 16
+    disposiciones_destino:
+    - D. Transitoria única
+    - D. Final primera
+  - norma_id: norm-es-l-39-2015
+    articulos_origen:
+    - Art. 135
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 134
+    - Art. 13
+    - Art. 3
+    - Art. 16
+    disposiciones_destino:
+    - D. Transitoria única
+    - D. Final primera
+  - norma_id: norm-es-l-40-2015
+    articulos_origen:
+    - Art. 135
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 134
+    - Art. 13
+    - Art. 3
+    - Art. 16
+    disposiciones_destino:
+    - D. Transitoria única
+    - D. Final primera
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
+  - norma_id: norm-can-d-212-1991
+    articulos_origen:
+    - Art. 135
+    articulos_destino:
+    - Art. 19
+  - norma_id: norm-can-d-84-2024
+    articulos_origen:
+    - Art. 135
+    articulos_destino:
+    - Art. 19
+  - norma_id: norm-es-l-40-2015
+    articulos_origen:
+    - Art. 135
+    articulos_destino:
+    - Art. 23
+    - Art. 24
   - norma_id: norm-can-d-106-2009
   - norma_id: norm-can-d-109-1999
-  - norma_id: norm-can-d-212-1991
-  - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-l-40-2015
   - norma_id: norm-es-lo-2-2006
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
+  cita:
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 135
+  - norma_id: norm-es-lo-8-2021
+    articulos_origen:
+    - Art. 135
+    articulos_destino:
+    - Art. 57
+  - norma_id: norm-can-d-109-1999
+    articulos_origen:
+    - Art. 135
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-d-109-1999
@@ -54,6 +137,7 @@ relaciones:
   - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-246-4231.pdf
 ---
+
 # Resolución de 2 de diciembre de 2025, de la Dirección General de Personal y Formación del Profesorado, por la que se convoca procedimiento para la selección de directores y directoras de los centros públicos de enseñanzas no universitarias de la Comunidad Autónoma de Canarias para el periodo de mandato 2026-2030 (BOC n.º 246, de 12 de diciembre).
 
 ## Preámbulo
@@ -586,3 +670,33 @@ VACANTES DEFINITIVAS DE LA PROVINCIA DE LAS PALMAS Código del Centro Centro Mun
 - [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**D106_2009 Funcion Directiva en Centros Docentes Publicos**](./D106_2009_regula_funcion_directiva_centros_docentes_publicos.md) (Capítulo I, Art. 134, Art. 13, Art. 3, Art. 16, D. Transitoria única, D. Final primera) desde *(Art. 135)*
+- **Desarrolla**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Capítulo I, Art. 134, Art. 13, Art. 3, Art. 16, D. Transitoria única, D. Final primera) desde *(Art. 135)*
+- **Desarrolla**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Capítulo I, Art. 134, Art. 13, Art. 3, Art. 16, D. Transitoria única, D. Final primera) desde *(Art. 135)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título V, Capítulo IV)
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título V, Capítulo IV)
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título V, Capítulo IV)
+- **Modifica**: `norm-es-lo-3-2020` (Título V, Capítulo IV)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Art. 135)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Art. 135)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Art. 135)*
+- **Fundamentado en**: [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) (Art. 19) desde *(Art. 135)*
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 19) desde *(Art. 135)*
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 23, Art. 24) desde *(Art. 135)*
+- **Fundamentado en**: [**D106_2009 Funcion Directiva en Centros Docentes Publicos**](./D106_2009_regula_funcion_directiva_centros_docentes_publicos.md)
+- **Fundamentado en**: [**D109_1999 Colectivos de Escuelas Rurales (CER)**](../02_gestion_y_administracion_centros/D109_1999_regula_regimen_creacion_funcionamiento_colectivos_escuelas.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: `norm-es-c-1978` desde *(Art. 135)*
+- **Cita a**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md) (Art. 57) desde *(Art. 135)*
+- **Cita a**: [**D109_1999 Colectivos de Escuelas Rurales (CER)**](../02_gestion_y_administracion_centros/D109_1999_regula_regimen_creacion_funcionamiento_colectivos_escuelas.md) desde *(Art. 135)*

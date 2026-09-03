@@ -25,20 +25,37 @@ tags:
 - procedimiento-administrativo
 relaciones:
   fundamentado_en:
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 14
+    - Art. 13
   - norma_id: norm-can-d-135-2016
   - norma_id: norm-can-l-6-2014
-  - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-lo-2-2006
+  cita:
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 9
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 16
+  concordancia:
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 121
+    - Art. 122
+  - norma_id: norm-es-l-39-2015
   desarrolla:
   - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-169-4284.pdf
 ---
+
 # Resolución de 28 de agosto de 2017, de la Dirección General de Ordenación, Innovación y Promoción Educativa, por la que se dictan instrucciones para la tramitación electrónica del procedimiento que regula las actividades escolares complementarias, actividades extraescolares y servicios escolares en los centros privados concertados de Canarias (BOC n.º 169, de 1 de septiembre).
 
 ## Preámbulo
@@ -97,3 +114,18 @@ b) **Por canal presencial.** Una vez cumplimentado el formulario, indicado en el
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**Decreto BOC 135/2016**](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 14, Art. 13)
+- **Fundamentado en**: [**Decreto BOC 135/2016**](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **En concordancia con**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 121, Art. 122)
+- **En concordancia con**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 9)
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 16)

@@ -26,6 +26,62 @@ tags:
 - formacion-profesional
 - profesorado
 relaciones:
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+    capitulo_destino: Capítulo V
+    articulos_destino:
+    - Art. 59
+    - Art. 60
+    - Art. 61
+    - Art. 62
+    - Art. 7
+    - Art. 27
+    - Art. 28
+  - norma_id: norm-es-2021-20113
+    capitulo_destino: Capítulo V
+    articulos_destino:
+    - Art. 59
+    - Art. 60
+    - Art. 61
+    - Art. 62
+    - Art. 7
+    - Art. 27
+    - Art. 28
+  - norma_id: norm-es-2019-317
+    capitulo_destino: Capítulo V
+    articulos_destino:
+    - Art. 59
+    - Art. 60
+    - Art. 61
+    - Art. 62
+    - Art. 7
+    - Art. 27
+    - Art. 28
+  - norma_id: norm-es-2010-12201
+    capitulo_destino: Capítulo V
+    articulos_destino:
+    - Art. 59
+    - Art. 60
+    - Art. 61
+    - Art. 62
+    - Art. 7
+    - Art. 27
+    - Art. 28
+  cita:
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 20
+  - norma_id: norm-es-2019-317
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2021-20113
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2010-12201
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
   fundamentado_en:
   - norma_id: norm-can-d-212-1991
   - norma_id: norm-can-d-84-2024
@@ -35,12 +91,10 @@ relaciones:
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-2019-317
@@ -49,6 +103,7 @@ relaciones:
   - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-250-4324.pdf
 ---
+
 # Resolución de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, número 597/2025 de 4 de diciembre, por la que se convocan pruebas para la obtención de certificados de nivel intermedio B2 y nivel avanzado C1 de Inglés de Enseñanzas de Idiomas de Régimen Especial en la Comunidad Autónoma de Canarias y se dictan instrucciones para su organización y aplicación en el curso 2025-2026 (BOC núm 250, de 18 de diciembre).
 
 ## Preámbulo
@@ -561,3 +616,26 @@ RÚBRICA DE EV ALUACIÓN: TAREA DE MEDIACIÓN ORAL – NIVEL C1 Capacidad mediad
 - [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Capítulo V, Art. 59, Art. 60, Art. 61, Art. 62, Art. 7, Art. 27, Art. 28)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Capítulo V, Art. 59, Art. 60, Art. 61, Art. 62, Art. 7, Art. 27, Art. 28)
+- **Desarrolla**: [**BOE-A-2019-317**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md) (Capítulo V, Art. 59, Art. 60, Art. 61, Art. 62, Art. 7, Art. 27, Art. 28)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Capítulo V, Art. 59, Art. 60, Art. 61, Art. 62, Art. 7, Art. 27, Art. 28)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional vigesimotercera)
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional vigesimotercera)
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional vigesimotercera)
+- **Fundamentado en**: [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2019-317**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 20)
+- **Cita a**: [**BOE-A-2019-317**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md)

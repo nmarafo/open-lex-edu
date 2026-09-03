@@ -24,6 +24,51 @@ tags:
 - oposiciones
 - personal-no-docente
 relaciones:
+  modifica:
+  - norma_id: norm-can-l-6-2014
+    articulos_destino:
+    - Art. 133
+    - Art. 33
+    - Art. 3
+  - norma_id: norm-can-lo-1-2018
+    articulos_destino:
+    - Art. 133
+    - Art. 33
+    - Art. 3
+  - norma_id: norm-es-2021-979
+    articulos_destino:
+    - Art. 133
+    - Art. 33
+    - Art. 3
+  - norma_id: norm-es-2020-17274
+    articulos_destino:
+    - Art. 133
+    - Art. 33
+    - Art. 3
+  - norma_id: norm-es-2024-10684
+  - norma_id: norm-es-2024-10685
+  desarrolla:
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_destino:
+    - Art. 8
+    - Art. 126
+    - Art. 20
+  - norma_id: norm-es-rd-659-2023
+    articulos_destino:
+    - Art. 8
+    - Art. 126
+    - Art. 20
+  - norma_id: norm-es-lo-2-2006
+  cita:
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_destino:
+    - Art. 126
+  - norma_id: norm-es-rd-659-2023
+    articulos_destino:
+    - Art. 126
   fundamentado_en:
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-l-6-2014
@@ -38,12 +83,10 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   fundamento_de:
   - norma_id: norm-can-res-boc-2026-141-29
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-lo-1-2018
   - norma_id: norm-can-res-boc-2024-230-25
@@ -54,6 +97,7 @@ relaciones:
   - norma_id: norm-es-rd-659-2023
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-093-1761.pdf
 ---
+
 # Resolución de 2 de mayo de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial por la que se dictan instrucciones para la organización de la oferta de dobles titulaciones de formación profesional (Grados D) de ciclos formativos con el primer curso en común en la Comunidad Autónoma de Canarias a partir del curso 2025/2026 (BOC n.º 93, de 12 de mayo).
 
 ## Preámbulo
@@ -274,3 +318,35 @@ RELACIÓN DE CICLOS FORMATIVOS DE GRADO SUPERIOR CON EL PRIMER CURSO EN COMÚN, 
 - [**BOE-A-2024-10684**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD499_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
 - [**BOE-A-2024-10685**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD500_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
 - [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Art. 8, Art. 126, Art. 20)
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 8, Art. 126, Art. 20)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md) (Art. 133, Art. 33, Art. 3)
+- **Modifica**: [**LO1_2018 Estatuto de Autonomia de Canarias**](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md) (Art. 133, Art. 33, Art. 3)
+- **Modifica**: [**BOE-A-2021-979**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md) (Art. 133, Art. 33, Art. 3)
+- **Modifica**: [**BOE-A-2020-17274**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md) (Art. 133, Art. 33, Art. 3)
+- **Modifica**: [**BOE-A-2024-10684**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD499_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Modifica**: [**BOE-A-2024-10685**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD500_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO1_2018 Estatuto de Autonomia de Canarias**](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md)
+- **Fundamentado en**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
+- **Fundamentado en**: [**BOE-A-2020-17274**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md)
+- **Fundamentado en**: [**BOE-A-2021-979**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md)
+- **Fundamentado en**: [**BOE-A-2024-10684**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD499_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamentado en**: [**BOE-A-2024-10685**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD500_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamentado en**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamento de**: [**Resolucion BOC 29**](./R2_7_2026_modifican_cuadros_horarios_establecidos_resoluciones_dictan.md)
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Cita a**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **Cita a**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Art. 126)
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 126)

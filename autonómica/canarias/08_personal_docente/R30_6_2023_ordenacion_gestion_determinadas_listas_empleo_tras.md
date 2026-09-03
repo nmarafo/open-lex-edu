@@ -25,6 +25,25 @@ tags:
 - interinos
 - profesorado
 relaciones:
+  cita:
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-c-1978
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 85
+  - norma_id: norm-es-lo-3-2022
+    articulos_destino:
+    - Art. 85
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 85
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 85
+  - norma_id: norm-es-lo-3-2020
+    articulos_destino:
+    - Art. 85
   desarrolla:
   - norma_id: norm-es-lo-3-2022
   - norma_id: norm-es-rd-276-2007
@@ -63,13 +82,14 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-lo-3-2022
   - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-133-2237.pdf
 ---
+
 # Resolución de 30 de junio de 2023, de la Dirección General de Personal, sobre la ordenación y gestión de determinadas listas de empleo, tras la entrada en vigor de la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional (BOC nº 133, de 10 de julio).
 
 ## Preámbulo
@@ -134,3 +154,48 @@ Código de la Especialidad Nombre de la especialidad Código Ministerio 349 EQUI
 - [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
+- **Desarrolla**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Desarrolla**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 85)
+- **Modifica**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 85)
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 85)
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 85)
+- **Modifica**: `norm-es-lo-3-2020` (Art. 85)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamento de**: [**Resolucion BOC 27**](../03_ordenacion_curricular_y_ensenanzas/R10_12_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_oferta.md)
+- **Fundamento de**: [**Resolucion BOC 32**](../03_ordenacion_curricular_y_ensenanzas/R25_2_2026_niveles_ciclos_formativos_grado_medio_ciclos.md)
+- **Fundamento de**: [**Resolucion BOC 33**](../03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados.md)
+- **Fundamento de**: [**Resolucion BOC 34**](../03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_2.md)
+- **Fundamento de**: [**Resolucion BOC 35**](../03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_3.md)
+- **Fundamento de**: [**Resolucion BOC 36**](../03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_4.md)
+- **Fundamento de**: [**Resolucion BOC 37**](../03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_5.md)
+- **Fundamento de**: [**Resolucion BOC 38**](../03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_6.md)
+- **Fundamento de**: [**Resolucion BOC 39**](../03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_7.md)
+- **Fundamento de**: [**Resolucion BOC 40**](../03_ordenacion_curricular_y_ensenanzas/R25_6_2026_dictan_instrucciones_organizacion_funcionamiento_cursos_acceso.md)
+- **Fundamento de**: [**Resolucion BOC 42**](../03_ordenacion_curricular_y_ensenanzas/R26_11_2025_dictan_instrucciones_implantacion_desarrollo_oferta_dobles.md)
+- **Fundamento de**: [**Resolucion BOC 43**](../03_ordenacion_curricular_y_ensenanzas/R29_7_2025_comunidad_autonoma_canarias_celebrar_curso_escolar.md)
+- **Fundamento de**: [**Resolucion BOC 31**](../03_ordenacion_curricular_y_ensenanzas/R21_4_2022_dictan_instrucciones_organizacion_funcionamiento_curso_especifico.md)
+- **Fundamento de**: [**Resolucion BOC 44**](../03_ordenacion_curricular_y_ensenanzas/R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md)
+- **Fundamento de**: [**Resolucion BOC 25**](../03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
+- **Fundamento de**: [**Resolucion BOC 47**](../03_ordenacion_curricular_y_ensenanzas/R21_2_2025_dictan_instrucciones_implantacion_itinerarios_formativos_formacion.md)
+- **Fundamento de**: [**Resolucion BOC 107**](../05_alumnado_y_servicios_escolares/R24_2_2025_convoca_procedimiento_admision_alumnado_ciclos_formativos.md)
+- **Fundamento de**: [**Resolucion BOC 108**](../05_alumnado_y_servicios_escolares/R24_2_2025_dictan_instrucciones_proceso_admision_alumnado_ciclos.md)
+- **Fundamento de**: [**Resolucion BOC 46**](../03_ordenacion_curricular_y_ensenanzas/R9_6_2025_dictan_instrucciones_respecto_proceso_evaluacion_ciclos.md)
+- **Fundamento de**: [**Resolucion BOC 102**](../05_alumnado_y_servicios_escolares/R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md)
+- **Fundamento de**: [**Resolucion BOC 103**](../05_alumnado_y_servicios_escolares/R13_2_2026_dictan_instrucciones_proceso_admision_alumnado_ciclos.md)
+- **Fundamento de**: [**Resolucion BOC 26**](../03_ordenacion_curricular_y_ensenanzas/R16_6_2026_ordena_publicacion_protocolo_general_actuacion_entre.md)
+- **Fundamento de**: [**Resolucion BOC 29**](../03_ordenacion_curricular_y_ensenanzas/R2_7_2026_modifican_cuadros_horarios_establecidos_resoluciones_dictan.md)
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
+- **Cita a**: `norm-es-c-1978`

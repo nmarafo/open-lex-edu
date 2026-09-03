@@ -34,20 +34,50 @@ tags:
 - servicios-complementarios
 - transporte-escolar
 relaciones:
-  desarrolla:
-  - norma_id: norm-es-rd-443-2001
+  modifica:
   - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-rd-443-2001
   fundamentado_en:
   - norma_id: norm-can-l-14-1990
+    articulos_destino:
+    - Art. 32
+    - Art. 29
+    - Art. 4
+    - Art. 5
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 32
+    - Art. 29
+    - Art. 4
+    - Art. 5
+  - norma_id: norm-es-rd-443-2001
+    disposiciones_destino:
+    - D. Transitoria Tercera
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+  cita:
+  - norma_id: norm-es-rd-443-2001
+  desarrolla:
+  - norma_id: norm-es-rd-443-2001
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '56'
+  - norma_id: '56'
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-can-l-14-1990
   - norma_id: norm-es-2021-20113
@@ -55,6 +85,7 @@ relaciones:
   - norma_id: norm-es-rd-443-2001
 anexos_extraidos_pdf: true
 ---
+
 # Orden de 2 de agosto de 2006, por la que se aprueban las bases que regulan la prestación del servicio de transporte escolar en la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -302,3 +333,27 @@ Ver anexos - páginas 19249-19266
 - [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**RD443_2001 Condiciones de Seguridad en el Transporte Escolar**](../../../estatal/05_alumnado_y_servicios_escolares/RD443_2001_condiciones_seguridad_transporte_escolar_menores.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**RD443_2001 Condiciones de Seguridad en el Transporte Escolar**](../../../estatal/05_alumnado_y_servicios_escolares/RD443_2001_condiciones_seguridad_transporte_escolar_menores.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 1)
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 1)
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 1)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Modifica**: [**RD443_2001 Condiciones de Seguridad en el Transporte Escolar**](../../../estatal/05_alumnado_y_servicios_escolares/RD443_2001_condiciones_seguridad_transporte_escolar_menores.md)
+- **Fundamentado en**: [**L14_1990 Regimen Juridico Administraciones Canarias**](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md) (Art. 32, Art. 29, Art. 4, Art. 5)
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 32, Art. 29, Art. 4, Art. 5)
+- **Fundamentado en**: [**RD443_2001 Condiciones de Seguridad en el Transporte Escolar**](../../../estatal/05_alumnado_y_servicios_escolares/RD443_2001_condiciones_seguridad_transporte_escolar_menores.md) (D. Transitoria Tercera)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**RD443_2001 Condiciones de Seguridad en el Transporte Escolar**](../../../estatal/05_alumnado_y_servicios_escolares/RD443_2001_condiciones_seguridad_transporte_escolar_menores.md)

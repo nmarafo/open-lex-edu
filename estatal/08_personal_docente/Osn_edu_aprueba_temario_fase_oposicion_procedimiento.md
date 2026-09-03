@@ -24,26 +24,75 @@ tags:
 - oposiciones-y-acceso
 - profesorado
 relaciones:
-  desarrolla:
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 154
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 154
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 154
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 43
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 43
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 43
   - norma_id: norm-es-rd-276-2007
+    articulos_destino:
+    - Art. 43
+  - norma_id: norm-es-2007-5478
+    articulos_destino:
+    - Art. 43
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final primera. Título competencial.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-2007-5478
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-lo-2-2006
+  cita:
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+  desarrolla:
+  - norma_id: norm-es-rd-276-2007
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '1'
-  - '2'
+  - norma_id: '1'
+  - norma_id: '2'
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2007-5478
   - norma_id: norm-es-rd-276-2007
 ---
+
 # Orden EDU/3429/2009, de 11 de diciembre, por la que se aprueba el temario de la fase de oposición del procedimiento selectivo de acceso al Cuerpo de Inspectores de Educación.
 
 ## Preámbulo
@@ -263,3 +312,33 @@ Parte B del temario de la fase de oposición del procedimiento de Acceso al Cuer
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**BOE-A-2007-5478**](./RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
 - [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 154)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 154)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 154)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 43)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 43)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 43)
+- **Modifica**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md) (Art. 43)
+- **Modifica**: [**BOE-A-2007-5478**](./RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md) (Art. 43)
+- **Modifica**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(D. Final segunda. Entrada en vigor.)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(D. Final segunda. Entrada en vigor.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(D. Final segunda. Entrada en vigor.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(D. Final primera. Título competencial.)*
+- **Fundamentado en**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
+- **Fundamentado en**: [**BOE-A-2007-5478**](./RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: `norm-es-c-1978` desde *(D. Final segunda. Entrada en vigor.)*

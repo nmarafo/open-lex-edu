@@ -32,6 +32,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Decreto 208/1997, de 9 de septiembre, por el que se aprueba el Reglamento de autorización de Centros Privados.
 
 ## Preámbulo
@@ -49,8 +50,6 @@ b) Encontrarse inscrita en el Registro de Entidades, Servicios y Centros de Serv
 c) Tener su ámbito efectivo de actuación en el conjunto del territorio de la Comunidad Autónoma de Andalucía.
 d) Estar constituida y desarrollar actividades con anterioridad al 1 de enero de 1993. #### Artículo 3. Propuesta de candidatos.
 
-Las Organizaciones No Gubernamentales en las que concurran las circunstancias establecidas en el artículo anterior podrán proponer un candidato para vocal del Consejo Andaluz de Servicios Sociales y otro para cada uno de los Consejos Provinciales, dentro de los quince días hábiles siguientes al de la publicación de la presente Orden en el Boletín Oficial de la Junta de Andalucía, mediante escrito dirigido al Excmo. Sr. Consejero de Asuntos Sociales y suscrito por el representante legal de las mismas, en el que hará constar igualmente el nombre y apellidos de las personas designadas como candidatos. La propuesta se presentará en el Registro General de la Consejería de Asuntos Sociales, situado en Avda. Héroes de Toledo s/n, de Sevilla, sin perjuicio de lo establecido en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
-
 #### Artículo 4. Documentación complementaria.
 
 Las Organizaciones No Gubernamentales que participen en este procedimiento acompañarán a su propuesta de candidatos documentación justificativa de los extremos en los apartados a), c) y d) del artículo 2. La inscripción a que alude al apartado b), del citado precepto se incorporará, en su caso, de oficio por la Administración.
@@ -65,4 +64,13 @@ La selección de los tres vocales que representarán a las Organizaciones No Gub
 
 #### Disposición final única. Entrada en vigor.
 
-La presente Orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 3 de septiembre de 1997 ISAIAS PEREZ SALDAÑA Consejero de Asuntos Sociales
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

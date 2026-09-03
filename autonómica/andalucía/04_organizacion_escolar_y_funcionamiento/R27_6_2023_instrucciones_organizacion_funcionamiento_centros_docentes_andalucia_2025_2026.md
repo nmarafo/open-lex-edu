@@ -33,6 +33,7 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
 ---
+
 # Resolución de 27 de junio de 2023, de la Dirección General de Ordenación, por la que se dictan instrucciones sobre organización y funcionamiento de centros.
 
 ## Preámbulo
@@ -75,15 +76,11 @@ Boletín 126
 
 ##
 
-Histórico del BOJA Boletín número 126 de 04/07/2023
-
 ## 1. Disposiciones generales
 
 ### Consejería de la Presidencia, Interior, Diálogo Social y Simplificación Administrativa
 
 Corrección de errata del Extracto de la Orden de 30 de mayo de 2023, de la Consejería de la Presidencia, Interior, Diálogo Social y Simplificación Administrativa, por la que se convocan subvenciones a entidades sin ánimo de lucro, en régimen de concurrencia competitiva, destinadas a atender necesidades asistenciales y situaciones de extrema necesidad de personas andaluzas residentes en el extranjero, para el año 2023 (BOJA núm. 122, de 28.6.2023).
-
-Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad con CVE 00286332. Advertida errata en la página 10977/1 del Extracto de la Orden de 30 de mayo de 2023, de la Consejería de la Presidencia, Interior, Diálogo Social y Simplificación Administrativa, por la que se convocan subvenciones a entidades sin ánimo de lucro, en régimen de concurrencia competitiva, destinadas a atender necesidades asistenciales y situaciones de extrema necesidad de personas andaluzas residentes en el extranjero, para el año 2023, publicado en el
 
 BDNS (Identif.): 700265. <a target="_blank" href="BOJA23-126-00001-11310-01_00286332.pdf" class="item_pdf_disposicion item_pdf_grupo" title="Descargar PDF de la disposición"> Descargar PDF
 
@@ -118,3 +115,14 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)

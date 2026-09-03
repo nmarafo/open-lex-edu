@@ -24,6 +24,171 @@ tags:
 - retribuciones
 - titulacion
 relaciones:
+  cita:
+  - norma_id: norm-es-c-1978
+    titulo_destino: Título I
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 31
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 137
+    - Art. 156
+  - norma_id: norm-es-c-1978
+    capitulo_destino: Capítulo III
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-2010-4518
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 6
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 13
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Personal del sector público limitativo.
+    articulos_origen:
+    - Art. 22
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    articulos_origen:
+    - Art. 33
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo VI. Tasas, precios públicos y privados.
+    articulos_origen:
+    - Art. 41
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Impuesto sobre la renta de las personas físicas.
+    articulos_origen:
+    - Art. 45
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Impuesto sobre la renta de las personas físicas.
+    articulos_origen:
+    - Art. 45
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Impuesto sobre la renta de las personas físicas.
+    articulos_origen:
+    - Art. 45
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Impuesto sobre sucesiones y donaciones.
+    seccion_origen: Sección II. Adquisiciones lucrativas inter vivos
+    articulos_origen:
+    - Art. 25
+    articulos_destino:
+    - Art. 26 quater
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Impuesto sobre sucesiones y donaciones.
+    seccion_origen: Sección II. Adquisiciones lucrativas inter vivos
+    articulos_origen:
+    - Art. 26 quater
+    articulos_destino:
+    - Art. 26 quater
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Impuesto sobre sucesiones y donaciones.
+    seccion_origen: Sección II. Adquisiciones lucrativas inter vivos
+    articulos_origen:
+    - Art. 26 quater
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo IV. Impuesto sobre transmisiones patrimoniales y actos
+      jurídicos documentados.
+    articulos_origen:
+    - Art. 48
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo Único
+    seccion_origen: 'Sección I. Exenciones interiores artículo 50 Exenciones en operaciones
+      interiores. Uno. Están exentas del Impuesto General Indirecto Canario las siguientes
+      operaciones:'
+  - norma_id: norm-es-1985-5392
+    titulo_origen: Título III
+    capitulo_origen: Capítulo Único
+    seccion_origen: 'Sección I. Exenciones interiores artículo 50 Exenciones en operaciones
+      interiores. Uno. Están exentas del Impuesto General Indirecto Canario las siguientes
+      operaciones:'
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo Único
+    seccion_origen: 'Sección I. Exenciones interiores artículo 50 Exenciones en operaciones
+      interiores. Uno. Están exentas del Impuesto General Indirecto Canario las siguientes
+      operaciones:'
+    articulos_destino:
+    - Art. 6
+  desarrolla:
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Impuesto sobre sucesiones y donaciones.
+    seccion_origen: Sección I. Adquisiciones por causa de muerte
+    articulos_origen:
+    - Art. 22
+  modifica:
+  - norma_id: norm-es-2010-4518
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 11
+    articulos_destino:
+    - Art. 11
+  - norma_id: norm-es-2010-4518
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 11
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo VI. Tasas, precios públicos y privados.
+    articulos_origen:
+    - Art. 42
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo VI. Tasas, precios públicos y privados.
+    articulos_origen:
+    - Art. 45
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I
+    capitulo_origen: Capítulo VI. Tasas, precios públicos y privados.
+    articulos_origen:
+    - Art. 90
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I
+    capitulo_origen: Capítulo VI. Tasas, precios públicos y privados.
+    articulos_origen:
+    - Art. 90
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I
+    capitulo_origen: Capítulo VI. Tasas, precios públicos y privados.
+    articulos_origen:
+    - Art. 90
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo Único
+    seccion_origen: 'Sección I. Exenciones interiores artículo 50 Exenciones en operaciones
+      interiores. Uno. Están exentas del Impuesto General Indirecto Canario las siguientes
+      operaciones:'
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo Único
+    seccion_origen: 'Sección I. Exenciones interiores artículo 50 Exenciones en operaciones
+      interiores. Uno. Están exentas del Impuesto General Indirecto Canario las siguientes
+      operaciones:'
+    articulos_destino:
+    - Art. 7
   fundamentado_en:
   - norma_id: norm-es-1985-5392
   - norma_id: norm-es-2010-12201
@@ -33,19 +198,17 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   fundamento_de:
   - norma_id: norm-es-2012-8745
-  - norma_id: norm-can-res-juriscan-75634-6
-  - norma_id: norm-can-res-boc-2017-020-2
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-1985-5392
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2010-4518
 ---
+
 # Ley 4/2012, de 25 de junio, de medidas administrativas y fiscales.
 
 ## Preámbulo
@@ -5321,3 +5484,46 @@ Santa Cruz de Tenerife, 25 de junio de 2012.–El Presidente del Gobierno, Pauli
 - [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**BOE-A-2010-4518**](../07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-c-1978`
+- **Desarrolla**: `norm-es-c-1978` desde *(Título II, Capítulo II. Impuesto sobre sucesiones y donaciones., Art. 22)*
+- **Modifica**: [**BOE-A-2010-4518**](../07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md) (Art. 11) desde *(Título I, Art. 11)*
+- **Modifica**: [**BOE-A-2010-4518**](../07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md) desde *(Título I, Art. 11)*
+- **Modifica**: `norm-es-c-1978` desde *(Título I, Capítulo VI. Tasas, precios públicos y privados., Art. 42)*
+- **Modifica**: `norm-es-c-1978` desde *(Título I, Capítulo VI. Tasas, precios públicos y privados., Art. 45)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título I, Capítulo VI. Tasas, precios públicos y privados., Art. 90)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título I, Capítulo VI. Tasas, precios públicos y privados., Art. 90)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título I, Capítulo VI. Tasas, precios públicos y privados., Art. 90)*
+- **Modifica**: `norm-es-c-1978` desde *(Título III, Capítulo Único)*
+- **Modifica**: `norm-es-c-1978` (Art. 7) desde *(Título III, Capítulo Único)*
+- **Fundamentado en**: [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2010-4518**](../07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**BOE-A-2012-8745**](./L2_2012_presupuestos_generales_estado_ano.md)
+- **Cita a**: `norm-es-c-1978` (Título I)
+- **Cita a**: `norm-es-c-1978` (Art. 31)
+- **Cita a**: `norm-es-c-1978` (Art. 137, Art. 156)
+- **Cita a**: `norm-es-c-1978` (Capítulo III, Art. 2)
+- **Cita a**: [**BOE-A-2010-4518**](../07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md) desde *(Título I, Art. 6)*
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Art. 13)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo I. Personal del sector público limitativo., Art. 22)*
+- **Cita a**: `norm-es-c-1978` desde *(Título VI, Art. 33)*
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Capítulo VI. Tasas, precios públicos y privados., Art. 41)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 3) desde *(Título II, Capítulo I. Impuesto sobre la renta de las personas físicas., Art. 45)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 3) desde *(Título II, Capítulo I. Impuesto sobre la renta de las personas físicas., Art. 45)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 3) desde *(Título II, Capítulo I. Impuesto sobre la renta de las personas físicas., Art. 45)*
+- **Cita a**: `norm-es-c-1978` (Art. 26 quater) desde *(Título II, Capítulo II. Impuesto sobre sucesiones y donaciones., Art. 25)*
+- **Cita a**: `norm-es-c-1978` (Art. 26 quater) desde *(Título II, Capítulo II. Impuesto sobre sucesiones y donaciones., Art. 26 quater)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo II. Impuesto sobre sucesiones y donaciones., Art. 26 quater)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo IV. Impuesto sobre transmisiones patrimoniales y actos jurídicos documentados., Art. 48)*
+- **Cita a**: `norm-es-c-1978` desde *(Título III, Capítulo Único)*
+- **Cita a**: [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md) (Art. 6) desde *(Título III, Capítulo Único)*
+- **Cita a**: `norm-es-c-1978` (Art. 6) desde *(Título III, Capítulo Único)*

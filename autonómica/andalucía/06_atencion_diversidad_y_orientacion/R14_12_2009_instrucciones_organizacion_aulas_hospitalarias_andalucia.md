@@ -25,12 +25,31 @@ tags:
 - andalucia
 relaciones:
   desarrolla:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 58
+    - Art. 56
+    - Art. 42
+    - Art. 71
+    - Art. 64
+    - Art. 149
+    - Art. 68
   - norma_id: norm-es-lo-2-2006
+  modifica:
+  - norma_id: norm-es-c-1978
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo I
+    seccion_destino: Sección 2.ª
+    articulos_destino:
+    - Art. 149
+    - Art. 57
+    - Art. 20
   fundamentado_en:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-1-1996
 ---
+
 # Resolución de 14 de diciembre de 2009, sobre atención educativa en aulas hospitalarias y atención domiciliaria.
 
 ## Preámbulo
@@ -78,7 +97,8 @@ Estatuto de Autonomía para Andalucía, por razón de la extraordinaria y urgent
 
 las Comunidades Autónomas comunicarán a la Administración General del Estado, antes de 26 de diciembre de 2009, las disposiciones legales y reglamentarias de su competencia que hubieran modificado para adaptar su contenido a lo establecido en la Directiva y en la Ley 17/2009, de 23 de noviembre, a fin de hacer posible el cumplimiento de la obligación contenida en el artículo 44 de la Directiva 2006/123/CE, del Parlamento Europeo y del Consejo, de 12 de diciembre de 2006. Por todo ello, en ejercicio de la facultad concedida por el artículo 110 del Estatuto de Autonomía para Andalucía, a propuesta conjunta del Consejero de la Presidencia; del Consejero de Turismo, Comercio y Deporte, de la Consejera de Cultura; de la Consejera de Obras Públicas y Transporte; del Consejero de Gobernación, de la Consejera de Economía y Hacienda; de la Consejera de Salud; del Consejero de Innovación, Ciencia y Empresa y de la Consejera de Medio Ambiente y previa deliberación del Consejo de Gobierno en su reunión del día 22 de diciembre de 2009,
 DISPONGO:
-Artículo primero. Modificación de la Ley 1/1996, de 10 de enero, del Comercio Interior de Andalucía. La Ley 1/1996, de 10 de enero, del Comercio Interior de Andalucía, queda modificada como sigue:
+
+#### Artículo . #### Artículo . Artículo primero. Modificación de la Ley 1/1996, de 10 de enero, del Comercio Interior de Andalucía. La Ley 1/1996, de 10 de enero, del Comercio Interior de Andalucía, queda modificada como sigue:
 
 Uno. Se suprime el apartado 2 del artículo 6, quedando un solo apartado sin numerar. Dos. Se modifica el apartado 2 del artículo 7, se introduce un nuevo apartado 3, y los actuales apartados 3, 4 y 5 pasan a ser los apartados 4, 5 y 6, quedando redactados de la siguiente manera:
 «2. Las funciones inspectoras en materia de comercio interior en la Administración de la Junta de Andalucía serán ejercidas por la Consejería competente en materia de Comercio Interior, a la que se adscriben los correspondientes servicios de Inspección, sin perjuicio de las competencias que le puedan corresponder a otros órganos de la Administración de la Junta de Andalucía. La Consejería competente en materia de comercio interior, para el adecuado ejercicio de sus competencias, establecerá reglamentariamente las funciones, el régimen de actuación y la composición de los servicios de la inspección comercial, y elaborará los correspondientes planes de inspección, en coordinación con otros órganos de la Administración Estatal, Autonómica y Local.
@@ -109,9 +129,7 @@ c) Contribuir a la definición de las políticas de ayudas públicas al sector c
 
 7. El Registro de comerciantes y actividades comerciales de Andalucía admitirá y promoverá la presentación por medios electrónicos de las comunicaciones para su posterior inscripción.» Cuatro. Se modifica la denominación del Título II, que queda con la siguiente redacción:
 
-## Título II
-
-«EL CONSEJO ANDALUZ DE COMERCIO» Cinco. Se modifica el artículo 12 que.
+## Título II. «EL CONSEJO ANDALUZ DE COMERCIO» Cinco. Se modifica el artículo 12 que.
 
 queda con la siguiente redacción:
 «Artículo 12. Consejo Andaluz de Comercio.
@@ -155,9 +173,7 @@ j) Un representante de la Consejería competente en materia de comercio interior
 e) Los establecimientos comerciales individuales, que no formen parte de un establecimiento colectivo, y dispongan de una superficie útil para la exposición y venta al público inferior a trescientos metros cuadrados, excluidos los pertenecientes a empresas o grupos de distribución que no tengan la consideración de pequeña y mediana empresa según la legislación vigente o que operen bajo el mismo nombre comercial de dichos grupos o empresas.» Nueve. Se modifica en su integridad el Título IV que queda con la siguiente redacción:
 «TÍTULO IV LOS ESTABLECIMIENTOS COMERCIALES
 
-### Capítulo I
-
-### Disposiciones generales
+### Capítulo I. ### Disposiciones generales
 
 #### Sección 1. ª Conceptos y definiciones.»
 
@@ -242,7 +258,7 @@ Página núm. 14 Se vi lla, 24 de diciembre 2009
 
 4. La planificación, en los supuestos anteriores, deberá contener entre sus determinaciones una estrategia relativa a la implantación de las grandes superficies minoristas, de acuerdo con los criterios previstos en esta Ley.
 
-## Capítulo II. El Plan de Establecimientos Comerciales.
+### Capítulo II. El Plan de Establecimientos Comerciales.
 
 #### Artículo 27. Objeto y naturaleza.
 
@@ -288,7 +304,7 @@ Establecimientos Comerciales.
 
 2. Se considera que la implantación de un establecimiento comercial mayorista tiene incidencia territorial cuando tenga una superficie construida total superior a 5.000 metros cuadrados.
 
-## Capítulo III. El emplazamiento urbanístico de las grandes superficies minoristas.
+### Capítulo III. El emplazamiento urbanístico de las grandes superficies minoristas.
 
 #### Sección 1. ª Criterios para la determinación de los usos
 
@@ -398,7 +414,7 @@ b) Usar el distintivo del Certificado de calidad Municipal del Comercio de Andal
 
 5. La denominación de «Certificado de calidad Municipal del Comercio de Andalucía» sólo podrá ser utilizada de acuerdo con lo que determina la presente ley.
 
-## Capítulo IV. Régimen de las grandes superficies minoristas.
+### Capítulo IV. Régimen de las grandes superficies minoristas.
 
 #### Sección 1. ª Licencia municipal de obras de gran superficie
 
@@ -444,8 +460,6 @@ g) La accesibilidad a las personas con cualquier tipo de discapacidad.
 7. El plazo máximo para resolver y notificar la Resolución será de tres meses, desde la fecha en la que la solicitud haya tenido entrada en el registro del órgano competente para su tramitación, sin contar los períodos en los que haya estado suspendida la tramitación municipal como consecuencia de la subsanación de la solicitud o de la emisión de informes preceptivos.
 
 8. Transcurrido dicho plazo sin que se hubiese notificado la resolución expresa, la solicitud podrá entenderse estimada excepto cuando concurra alguno de los supuestos en que la legislación urbanística establece el carácter negativo del silencio o cuando se trate de un procedimiento en el que el informe auSevilla, 24 de diciembre 2009 Página núm. 17 tonómico tenga la naturaleza de vinculante, por resultar afectadas razones de interés general. En estos casos, la solicitud se entenderá desestimada, sin perjuicio de la obligación del Ayuntamiento de resolver.
-
-9. La Resolución se publicará en el Boletín Oficial de la Junta de Andalucía.
 
 #### Sección 2. ª Informe autonómico para la autorización de
 
@@ -685,8 +699,6 @@ Página núm. 22 Se vi lla, 24 de diciembre 2009 la publicación del calendario 
 1. El otorgamiento de la condición de ferias comerciales oficiales en Andalucía, y su clasificación.
 
 2. La supervisión de las ferias comerciales oficiales y sus entidades organizadoras en los términos previstos en la presente Ley.
-
-3. La elaboración del calendario anual de las ferias comerciales oficiales que se celebren en Andalucía, que será publicado en el Boletín Oficial de la Junta de Andalucía.
 
 4. La revocación, previo requerimiento, de la condición de una Feria Comercial Oficial y, en su caso, su clasificación, cuando se incumpla lo previsto en la presente Ley y disposiciones de desarrollo o en la declaración responsable a que se refiere el artículo 7. 5. La promoción de las ferias comerciales oficiales cuya realización aconsejen los intereses generales de la Comunidad Autónoma.
 
@@ -1055,7 +1067,7 @@ previstos para el silencio administrativo desestimatorio regulado en normas pree
 
 Europea. El órgano administrativo competente comunicará a la Consejería de la Presidencia, antes de su aprobación y en los términos que se establezcan reglamentariamente, cualquier proyecto legal, reglamentario o administrativo que contenga requisitos de los previstos en el apartado 2 del artículo 15 o del.
 
-artículo 16 de la Directiva 2006/123/CE del Parlamento Europeo y del Consejo, de 12 de diciembre de 2006, relativa a los servicios en el mercado interior, motivando su compatibilidad con los criterios de necesidad, proporcionalidad y no discriminación, para su posterior notificación a la Comisión Europea por los conductos correspondientes.
+#### Artículo 16. de la Directiva 2006/123/CE del Parlamento Europeo y del Consejo, de 12 de diciembre de 2006, relativa a los servicios en el mercado interior, motivando su compatibilidad con los criterios de necesidad, proporcionalidad y no discriminación, para su posterior notificación a la Comisión Europea por los conductos correspondientes.
 
 #### Disposición transitoria primera. Previsiones del planeamiento urbanístico sobre grandes superficies minoristas.
 
@@ -1137,6 +1149,16 @@ El desarrollo reglamentario de este Decreto Ley se llevará a efecto de acuerdo 
 
 El presente Decreto Ley entrará en vigor el 27 de diciembre de 2009. Sevilla, 22 de diciembre de 2009 JOSÉ ANTONIO GRIÑÁN MARTÍNEZ Presidente de la Junta de Andalucía ANTONIO ÁVILA CANO Consejero de la Presidencia
 
-## Anexo
+## Anexo. Actividades de servicios para las que será necesaria la cobertura de un seguro Seguro Normativa de referencia Seguro de responsabilidad civil profesional cuya cobertura sea suficiente para garantizar los riesgos que pudieran derivarse de la ejecución de los trabajos que se deriven de la actividad arqueológica autorizada Decreto 168/2003, de 17 de junio, por el que se aprueba el Reglamento de Actividades Arqueológicas Seguro de accidentes para todo el personal participante en la actividad arqueológica Decreto 168/2003, de 17 de junio, por el que se aprueba el Reglamento de Actividades Arqueológicas Seguro para preservar los fondos museísticos que salgan de Andalucía, su conservación y su regreso Decreto 284/1995, de 28 de noviembre, por el que se aprueba el Reglamento de Creación de Museos y de Gestión de Fondos Museísticos de la Comunidad Autónoma de Andalucía Póliza de seguros multirriesgo y de responsabilidad civil para los Servicios y Centros de Servicios Sociales de Andalucía Orden de 28 de julio de 2000, conjunta de las Consejerías de la Presidencia y de Asuntos Sociales, por la que se regulan los requisitos materiales y funcionales de los Servicios y Centros de Servicios Sociales de Andalucía y se aprueba el modelo de solicitud de las autorizaciones administrativas Póliza de responsabilidad civil, que cubra los riesgos de su responsabilidad, respecto a daños materiales y personales a terceros de las Entidades de Formación Autorizadas en el Reglamento de Instalaciones Térmicas en los Edificios Resolución de 9 de abril de 2008, de la Dirección General de Industria, Energía y Minas, por la que se regulan los procedimientos para la obtención/convalidación del carné profesional en Instalaciones Térmicas de Edificios (RITE-07), los requisitos de acreditación de las Entidades de Formación Autorizadas en Instalaciones Térmicas de Edificios, y sobre normas aclaratorias para las tramitaciones a realizar de acuerdo con el Reglamento de Instalaciones Térmicas en los Edificios, aprobado mediante Real Decreto 1027/2007, de 20 de julio (RITE-07) Póliza de seguro de responsabilidad Civil para la autorización de los laboratorios de ensayo y contraste Decreto 155/1996, de 7 de mayo, por el que se regulan los laboratorios de ensayo y contraste de objetos fabricados con metales preciosos
 
-Actividades de servicios para las que será necesaria la cobertura de un seguro Seguro Normativa de referencia Seguro de responsabilidad civil profesional cuya cobertura sea suficiente para garantizar los riesgos que pudieran derivarse de la ejecución de los trabajos que se deriven de la actividad arqueológica autorizada Decreto 168/2003, de 17 de junio, por el que se aprueba el Reglamento de Actividades Arqueológicas Seguro de accidentes para todo el personal participante en la actividad arqueológica Decreto 168/2003, de 17 de junio, por el que se aprueba el Reglamento de Actividades Arqueológicas Seguro para preservar los fondos museísticos que salgan de Andalucía, su conservación y su regreso Decreto 284/1995, de 28 de noviembre, por el que se aprueba el Reglamento de Creación de Museos y de Gestión de Fondos Museísticos de la Comunidad Autónoma de Andalucía Póliza de seguros multirriesgo y de responsabilidad civil para los Servicios y Centros de Servicios Sociales de Andalucía Orden de 28 de julio de 2000, conjunta de las Consejerías de la Presidencia y de Asuntos Sociales, por la que se regulan los requisitos materiales y funcionales de los Servicios y Centros de Servicios Sociales de Andalucía y se aprueba el modelo de solicitud de las autorizaciones administrativas Póliza de responsabilidad civil, que cubra los riesgos de su responsabilidad, respecto a daños materiales y personales a terceros de las Entidades de Formación Autorizadas en el Reglamento de Instalaciones Térmicas en los Edificios Resolución de 9 de abril de 2008, de la Dirección General de Industria, Energía y Minas, por la que se regulan los procedimientos para la obtención/convalidación del carné profesional en Instalaciones Térmicas de Edificios (RITE-07), los requisitos de acreditación de las Entidades de Formación Autorizadas en Instalaciones Térmicas de Edificios, y sobre normas aclaratorias para las tramitaciones a realizar de acuerdo con el Reglamento de Instalaciones Térmicas en los Edificios, aprobado mediante Real Decreto 1027/2007, de 20 de julio (RITE-07) Póliza de seguro de responsabilidad Civil para la autorización de los laboratorios de ensayo y contraste Decreto 155/1996, de 7 de mayo, por el que se regulan los laboratorios de ensayo y contraste de objetos fabricados con metales preciosos
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-c-1978` (Art. 58, Art. 56, Art. 42, Art. 71, Art. 64, Art. 149, Art. 68)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: `norm-es-c-1978` (Título IV, Capítulo I, Sección 2.ª, Art. 149, Art. 57, Art. 20)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)

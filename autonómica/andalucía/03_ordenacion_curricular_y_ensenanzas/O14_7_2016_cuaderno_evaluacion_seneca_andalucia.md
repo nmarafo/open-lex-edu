@@ -25,13 +25,19 @@ tags:
 - gestion_digital
 - andalucia
 relaciones:
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
+  - norma_id: norm-es-2012-9364
+    disposiciones_destino:
+    - D. Transitoria primera
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+  cita:
+  - norma_id: norm-es-2012-9364
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 ---
+
 # Orden de 14 de julio de 2016, por la que se regula la utilización del Cuaderno de Evaluación del Profesorado en Séneca.
 
 ## Preámbulo
@@ -74,14 +80,11 @@ Boletín 143
 
 ##
 
-Histórico del BOJA Boletín número 143 de 27/07/2016
-
 ## 1. Disposiciones generales
 
 ### Consejería de Hacienda y Administración Pública
 
-### Resolución de 21 de julio de 2016, de la Secretaría General para la Administración Pública, por la que se dictan instrucciones para la aplicación de lo dispuesto en el Acuerdo del Consejo de Gobierno, de 21 de junio de 2016, sobre recuperación de la paga extraordinaria del mes de diciembre de 2012. Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad con CVE 00095983. Esta disposición incluye elementos no textuales, que no se muestran en esta página. Para visualizarlos, consulte la versión en <a title="Ir al final de la
-disposición" href="
+### Resolución de 21 de julio de 2016, de la Secretaría General para la Administración Pública, por la que se dictan instrucciones para la aplicación de lo dispuesto en el Acuerdo del Consejo de Gobierno, de 21 de junio de 2016, sobre recuperación de la paga extraordinaria del mes de diciembre de 2012. disposición" href="
 
 Para dar cumplimiento al compromiso adquirido por el Gobierno andaluz, de devolución de los primeros 44 días de la paga extraordinaria, paga adicional del complemento específico, o pagas adicionales del mes de diciembre de 2012, o importes equivalentes, mediante Resolución de esta Secretaría General, de 30 de diciembre de 2015, se dictaron Instrucciones para proceder al abono de las cantidades recuperadas.
 
@@ -232,3 +235,15 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**BOE-A-2012-9364**](../../../estatal/08_personal_docente/RD20_2012_real_decreto_ley_medidas_garantizar_estabilidad.md) (D. Transitoria primera)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**BOE-A-2012-9364**](../../../estatal/08_personal_docente/RD20_2012_real_decreto_ley_medidas_garantizar_estabilidad.md)

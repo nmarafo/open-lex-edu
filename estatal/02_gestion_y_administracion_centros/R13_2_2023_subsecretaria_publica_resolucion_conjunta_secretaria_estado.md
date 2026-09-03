@@ -31,6 +31,79 @@ tags:
 - evaluacion
 - oposiciones
 relaciones:
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 36
+    articulos_destino:
+    - Art. 38
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 36
+    articulos_destino:
+    - Art. 38
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 36
+    articulos_destino:
+    - Art. 38
+  - norma_id: norm-es-lo-3-2020
+    articulos_origen:
+    - Art. 36
+    articulos_destino:
+    - Art. 38
+  - norma_id: norm-es-lo-3-2020
+    articulos_origen:
+    - Art. 36
+    articulos_destino:
+    - Art. 38
+    disposiciones_destino:
+    - D. Final quinta
+  cita:
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 36
+    articulos_destino:
+    - Art. 1
+    - Art. 36 bis
+    disposiciones_destino:
+    - D. Final quinta
+  - norma_id: norm-es-2016-3229
+    articulos_origen:
+    - Art. 36
+    articulos_destino:
+    - Art. 1
+    - Art. 36 bis
+    disposiciones_destino:
+    - D. Final quinta
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 36
+    articulos_destino:
+    - Art. 1
+    - Art. 36 bis
+    disposiciones_destino:
+    - D. Final quinta
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 36
+    articulos_destino:
+    - Art. 1
+    - Art. 36 bis
+    disposiciones_destino:
+    - D. Final quinta
+  - norma_id: norm-es-2010-4130
+    articulos_origen:
+    - Art. 36
+    articulos_destino:
+    - Art. 7
+  - norma_id: norm-es-2014-6008
+    articulos_origen:
+    - Art. 36
   fundamentado_en:
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2010-4130
@@ -38,16 +111,15 @@ relaciones:
   - norma_id: norm-es-2016-3229
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-lo-2-2006
-  fundamentos_derecho:
-  - norma_id: norm-can-d-81-2010
   articulos:
-  - '120'
+  - norma_id: '120'
   - norma_id: norm-es-2010-4130
   - norma_id: norm-es-2014-6008
   - norma_id: norm-es-2016-3229
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
 ---
+
 # Resolución de 13 de febrero de 2023, de la Subsecretaría, por la que se publica la Resolución de 8 de febrero de 2023, conjunta de la Secretaría de Estado de Educación y la Secretaría General de Universidades, por la que se establecen las adaptaciones de la evaluación de Bachillerato para el acceso a la Universidad a las necesidades y situación de los centros españoles situados en el exterior del territorio nacional, los programas educativos en el exterior, los programas internacionales, el alumnado procedente de sistemas educativos extranjeros y las enseñanzas a distancia, en el curso 2022-2023. ## Preámbulo
 
 El Secretario de Estado de Educación y el Secretario General de Universidades han suscrito, con fecha 8 de febrero de 2023, una Resolución conjunta por la que se establecen las adaptaciones de la evaluación de Bachillerato para el acceso a la Universidad a las necesidades y situación de los centros españoles situados en el exterior del territorio nacional, los programas educativos en el exterior, los programas internacionales, el alumnado procedente de sistemas educativos extranjeros y las enseñanzas a distancia, en el curso 2022-2023. Madrid, 13 de febrero de 2023.–El Subsecretario de la Presidencia, Relaciones con las Cortes y Memoria Democrática, Alberto Herrera Rodríguez.
@@ -226,3 +298,30 @@ Humanidades y Ciencias Sociales.
 - [**BOE-A-2016-3229**](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
 - [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**BOE-A-2016-3229**](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 38) desde *(Art. 36)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 38) desde *(Art. 36)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 38) desde *(Art. 36)*
+- **Modifica**: `norm-es-lo-3-2020` (Art. 38) desde *(Art. 36)*
+- **Modifica**: `norm-es-lo-3-2020` (Art. 38, D. Final quinta) desde *(Art. 36)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2010-4130**](../03_ordenacion_curricular_y_ensenanzas/RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md)
+- **Fundamentado en**: [**BOE-A-2014-6008**](../03_ordenacion_curricular_y_ensenanzas/RD412_2014_establece_normativa_basica_procedimientos_admision_ensenanzas.md)
+- **Fundamentado en**: [**BOE-A-2016-3229**](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 1, Art. 36 bis, D. Final quinta) desde *(Art. 36)*
+- **Cita a**: [**BOE-A-2016-3229**](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md) (Art. 1, Art. 36 bis, D. Final quinta) desde *(Art. 36)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 1, Art. 36 bis, D. Final quinta) desde *(Art. 36)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 1, Art. 36 bis, D. Final quinta) desde *(Art. 36)*
+- **Cita a**: [**BOE-A-2010-4130**](../03_ordenacion_curricular_y_ensenanzas/RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md) (Art. 7) desde *(Art. 36)*
+- **Cita a**: [**BOE-A-2014-6008**](../03_ordenacion_curricular_y_ensenanzas/RD412_2014_establece_normativa_basica_procedimientos_admision_ensenanzas.md) desde *(Art. 36)*

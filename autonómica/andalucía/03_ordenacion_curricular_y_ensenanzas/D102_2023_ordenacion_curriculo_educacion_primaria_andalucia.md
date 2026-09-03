@@ -26,15 +26,357 @@ tags:
 - andalucia
 relaciones:
   desarrolla:
+  - norma_id: norm-and-d101-2023
+    articulos_destino:
+    - Art. 52
+    - Art. 149
+    - Art. 27
   - norma_id: norm-es-lo-2-2006
-  modifica_a: []
-  modificado_por: []
-  afecta_a_articulos: []
-  fundamentado_en:
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 52
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 52
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-rd-157-2022
+    articulos_destino:
+    - Art. 52
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 52
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 52
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-lo-3-2020
+    articulos_destino:
+    - Art. 52
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-rd-157-2022
+    capitulo_origen: Capítulo I. Disposiciones de carácter general.
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 9
   - norma_id: norm-and-l17-2007
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - Art. 22
+    articulos_destino:
+    - Art. 19
+  - norma_id: norm-es-rd-157-2022
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - Art. 23
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Final cuarta. Entrada en vigor.
+  modifica:
+  - norma_id: norm-and-l17-2007
+    articulos_destino:
+    - Art. 11
+  cita:
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 129
+    - Art. 133
+    - Art. 7
+    - Art. 21
+  - norma_id: norm-es-rd-157-2022
+    capitulo_origen: Capítulo I. Disposiciones de carácter general.
+    articulos_origen:
+    - Art. 3
+  - norma_id: norm-es-rd-157-2022
+    capitulo_origen: Capítulo II. Currículo.
+    articulos_origen:
+    - Art. 6
+  - norma_id: norm-es-rd-157-2022
+    capitulo_origen: Capítulo III. Ordenación de la etapa.
+    articulos_origen:
+    - Art. 8
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo III. Ordenación de la etapa.
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 120
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo III. Ordenación de la etapa.
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 120
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo III. Ordenación de la etapa.
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 120
+  - norma_id: norm-es-rd-157-2022
+    capitulo_origen: Capítulo III. Ordenación de la etapa.
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 16
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo III. Ordenación de la etapa.
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 84
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo III. Ordenación de la etapa.
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 84
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo III. Ordenación de la etapa.
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 84
+  - norma_id: norm-es-rd-157-2022
+    capitulo_origen: Capítulo IV. Evaluación y promoción.
+    articulos_origen:
+    - Art. 11
+  - norma_id: norm-es-rd-157-2022
+    capitulo_origen: Capítulo IV. Evaluación y promoción.
+    articulos_origen:
+    - Art. 12
+    articulos_destino:
+    - Art. 15
+  - norma_id: norm-es-rd-157-2022
+    capitulo_origen: Capítulo IV. Evaluación y promoción.
+    articulos_origen:
+    - Art. 13
+  - norma_id: norm-es-rd-157-2022
+    capitulo_origen: Capítulo IV. Evaluación y promoción.
+    articulos_origen:
+    - Art. 14
+  - norma_id: norm-es-rd-157-2022
+    capitulo_origen: Capítulo IV. Evaluación y promoción.
+    articulos_origen:
+    - Art. 15
+    articulos_destino:
+    - Art. 15
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo IV. Evaluación y promoción.
+    articulos_origen:
+    - Art. 16
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo IV. Evaluación y promoción.
+    articulos_origen:
+    - Art. 16
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo IV. Evaluación y promoción.
+    articulos_origen:
+    - Art. 16
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo V. Atención a la diversidad y a las diferencias individuales.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 78
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo V. Atención a la diversidad y a las diferencias individuales.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 78
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo V. Atención a la diversidad y a las diferencias individuales.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 78
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo V. Atención a la diversidad y a las diferencias individuales.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 73
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo V. Atención a la diversidad y a las diferencias individuales.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 73
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo V. Atención a la diversidad y a las diferencias individuales.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 73
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo VII. Autonomía de los centros y participación en el
+      proceso educativo.
+    articulos_origen:
+    - Art. 20
+    articulos_destino:
+    - Art. 110
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo VII. Autonomía de los centros y participación en el
+      proceso educativo.
+    articulos_origen:
+    - Art. 20
+    articulos_destino:
+    - Art. 110
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo VII. Autonomía de los centros y participación en el
+      proceso educativo.
+    articulos_origen:
+    - Art. 20
+    articulos_destino:
+    - Art. 110
+  - norma_id: norm-es-rd-157-2022
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Final segunda. Conformidad con la normativa estatal.
+    disposiciones_destino:
+    - D. Adicional primera
+    - D. Adicional segunda
+  fundamentado_en:
+  - norma_id: norm-es-rd-157-2022
+    capitulo_origen: Capítulo IV. Evaluación y promoción.
+    articulos_origen:
+    - Art. 12
+    articulos_destino:
+    - Art. 15
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo VI. Tutoría y orientación.
+    articulos_origen:
+    - Art. 19
+    articulos_destino:
+    - Art. 121
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo VI. Tutoría y orientación.
+    articulos_origen:
+    - Art. 19
+    articulos_destino:
+    - Art. 121
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo VI. Tutoría y orientación.
+    articulos_origen:
+    - Art. 19
+    articulos_destino:
+    - Art. 121
+  - norma_id: norm-and-l17-2007
+    capitulo_origen: Capítulo VII. Autonomía de los centros y participación en el
+      proceso educativo.
+    articulos_origen:
+    - Art. 20
+    articulos_destino:
+    - Art. 125
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo VII. Autonomía de los centros y participación en el
+      proceso educativo.
+    articulos_origen:
+    - Art. 20
+    articulos_destino:
+    - Art. 120
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo VII. Autonomía de los centros y participación en el
+      proceso educativo.
+    articulos_origen:
+    - Art. 20
+    articulos_destino:
+    - Art. 120
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo VII. Autonomía de los centros y participación en el
+      proceso educativo.
+    articulos_origen:
+    - Art. 20
+    articulos_destino:
+    - Art. 120
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Final segunda. Conformidad con la normativa estatal.
+    articulos_destino:
+    - Art. 5
+    - Art. 11
+    - Art. 149
+    - Art. 17
+    - Art. 21
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Final segunda. Conformidad con la normativa estatal.
+    articulos_destino:
+    - Art. 5
+    - Art. 11
+    - Art. 149
+    - Art. 17
+    - Art. 21
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Final segunda. Conformidad con la normativa estatal.
+    articulos_destino:
+    - Art. 5
+    - Art. 11
+    - Art. 149
+    - Art. 17
+    - Art. 21
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Final segunda. Conformidad con la normativa estatal.
+    articulos_destino:
+    - Art. 5
+    - Art. 11
+    - Art. 149
+    - Art. 17
+    - Art. 21
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Final segunda. Conformidad con la normativa estatal.
+    articulos_destino:
+    - Art. 2
+    - Art. 149
+    - Art. 3
+  - norma_id: norm-es-l-39-2015
+  deroga:
+  - norma_id: norm-es-lo-3-2018
+    capitulo_origen: Capítulo VII. Autonomía de los centros y participación en el
+      proceso educativo.
+    articulos_origen:
+    - Art. 20
+  - norma_id: norm-es-rd-157-2022
+    capitulo_origen: Capítulo VII. Autonomía de los centros y participación en el
+      proceso educativo.
+    articulos_origen:
+    - Art. 20
 ---
+
 # Decreto 102/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la Educación Primaria en la Comunidad Autónoma de Andalucía
 
 ## Preámbulo
@@ -51,7 +393,7 @@ puestos de trabajo de los Equipos de Orientación Educativa adscritos al persona
 
 DISPONGO:
 
-## Capítulo I. Disposiciones de carácter general.
+#### Artículo . #### Artículo . ## Capítulo I. Disposiciones de carácter general.
 
 #### Artículo 1. Objeto y ámbito de aplicación.
 
@@ -98,7 +440,7 @@ d) **Equidad e inclusión educativa como garantía de una educación de calidad.
 e) **Aprendizaje significativo.** Se pondrá especial atención en la potenciación del aprendizaje de carácter significativo que contribuya al desarrollo de las competencias clave, promoviendo la autonomía y la reflexión.
 f) **Excelencia educativa.** Se posibilitará la creación de experiencias formativas, que permitan el desarrollo del éxito educativo y la búsqueda de la excelencia para todo el alumnado que ha de ser capaz de desarrollar al completo sus capacidades y potencialidades.
 
-## Capítulo II. Currículo.
+### Capítulo II. Currículo.
 
 #### Artículo 5. Objetivos de la etapa.
 
@@ -148,7 +490,7 @@ cooperativo y el aprendizaje entre iguales mediante la utilización de enfoques 
 
 3. En el planteamiento de las distintas situaciones de aprendizaje, se garantizará el funcionamiento coordinado de los equipos docentes, con objeto de proporcionar un enfoque interdisciplinar, integrador y holístico al proceso educativo.
 
-## Capítulo III. Ordenación de la etapa.
+### Capítulo III. Ordenación de la etapa.
 
 #### Artículo 8. Ordenación general.
 
@@ -209,7 +551,7 @@ Real Decreto 157/2022, de 1 de marzo.
 
 requisitos lingüísticos.
 
-## Capítulo IV. Evaluación y promoción.
+### Capítulo IV. Evaluación y promoción.
 
 #### Artículo 11. Evaluación.
 
@@ -279,7 +621,7 @@ personal y, en todo caso, a lo establecido en la disposición adicional vigesimo
 
 4. Los procedimientos de validación de estos documentos garantizarán su autenticidad, integridad y conservación, así como el cumplimiento de las garantías en materia de protección de datos de carácter personal, todo ello teniendo en cuenta lo dispuesto en el Decreto 622/2019, de 27 de diciembre, de administración electrónica, simplificación de procedimientos y racionalización organizativa de la Junta de Andalucía.
 
-## Capítulo V. Atención a la diversidad y a las diferencias individuales.
+### Capítulo V. Atención a la diversidad y a las diferencias individuales.
 
 #### Artículo 17. Atención a la diversidad y a las diferencias individuales.
 
@@ -312,7 +654,7 @@ e) La equidad y excelencia como garantes de la calidad educativa e igualdad de o
 
 4. Los padres, madres o personas que ejerzan la tutela legal del alumnado, según lo recogido en el Proyecto educativo del centro, recibirán información y asesoramiento respecto a las características y necesidades del alumnado, así como de las medidas a adoptar para su adecuada atención. Asimismo, serán preceptivamente oídos en el proceso de identificación y valoración del alumnado con necesidades educativas especiales según lo recogido en el apartado 3.c).
 
-## Capítulo VI. Tutoría y orientación.
+### Capítulo VI. Tutoría y orientación.
 
 #### Artículo 19. Principios.
 
@@ -320,7 +662,7 @@ e) La equidad y excelencia como garantes de la calidad educativa e igualdad de o
 
 2. En la etapa de Educación Primaria, la tutoría personal del alumnado y la orientación educativa y psicopedagógica constituirán un elemento fundamental en la ordenación de la etapa y orientarán el proceso educativo individual y colectivo del alumnado.
 
-## Capítulo VII. Autonomía de los centros y participación en el proceso educativo.
+### Capítulo VII. Autonomía de los centros y participación en el proceso educativo.
 
 #### Artículo 20. Autonomía de los centros docentes.
 
@@ -338,7 +680,7 @@ De conformidad con el artículo 24 l.
 
 Real Decreto 157/2022, de 1 de marzo, los padres, madres o personas que ejerzan la tutela legal del alumnado deberán participar y apoyar la evolución del proceso educativo del mismo, colaborando en las medidas de atención a la diversidad y a las diferencias individuales que adopten los centros para facilitar su progreso. Tendrán, además, derecho a conocer las decisiones relativas a su evaluación y a su promoción, así como a acceder a las pruebas y documentos de las evaluaciones que se realicen a sus hijos, hijas, tutelados o tuteladas, sin perjuicio del respeto a las garantías establecidas en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, y en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE.
 
-## Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo.
+### Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo.
 
 #### Artículo 22. Formación permanente del profesorado.
 
@@ -397,13 +739,10 @@ Se habilita a la persona titular de la Consejería competente en materia de educ
 
 #### Disposición final cuarta. Entrada en vigor.
 
-El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 9 de mayo de 2023
-
 JUAN MANUEL MORENO BONILLA Presidente de la Junta de Andalucía PATRICIA DEL POZO FERNÁNDEZ Consejera de Desarrollo Educativo y Formación Profesional
 
-## Anexo
+## Anexo. PERFIL COMPETENCIAL DEL ALUMNADO AL TÉRMINO DE CADA CICLO DE LA ETAPA DE EDUCACIÓN PRIMARIA El currículo que desarrolla la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía y la concreción del mismo que los centros docentes realicen en sus Proyectos educativos, tendrán como referente el Perfil competencial al término de cada ciclo y el Perfil de salida al término de la Enseñanza Básica. Con carácter general, debe entenderse que la consecución de las competencias y los objetivos de la etapa está vinculada a la adquisición y al desarrollo de las competencias clave recogidas en este Perfil competencial. Dichas competencias son las siguientes:
 
-PERFIL COMPETENCIAL DEL ALUMNADO AL TÉRMINO DE CADA CICLO DE LA ETAPA DE EDUCACIÓN PRIMARIA El currículo que desarrolla la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía y la concreción del mismo que los centros docentes realicen en sus Proyectos educativos, tendrán como referente el Perfil competencial al término de cada ciclo y el Perfil de salida al término de la Enseñanza Básica. Con carácter general, debe entenderse que la consecución de las competencias y los objetivos de la etapa está vinculada a la adquisición y al desarrollo de las competencias clave recogidas en este Perfil competencial. Dichas competencias son las siguientes:
 - Competencia en comunicación lingüística.
 - Competencia plurilingüe.
 - Competencia matemática y competencia en ciencia, tecnología e ingeniería.
@@ -430,3 +769,67 @@ Descriptores operativos AL COMPLETAR EL PRIMER CICLO DE LA ETAPA DE EDUCACIÓN P
 Descriptores operativos AL COMPLETAR EL PRIMER CICLO DE LA ETAPA DE EDUCACIÓN PRIMARIA, EL ALUMNO O ALUMNA… AL COMPLETAR EL SEGUNDO CICLO DE LA ETAPA DE EDUCACIÓN PRIMARIA, EL ALUMNO O ALUMNA… AL COMPLETAR EL TERCER CICLO DE LA ETAPA DE EDUCACIÓN PRIMARIA, EL ALUMNO O ALUMNA… CE1. Se inicia en la identificación de problemas, retos y desafíos y comienza a elaborar algunas ideas originales, de manera guiada, siendo consciente de la repercusión de estas en el entorno y la necesidad de poder llevar a cabo posibles soluciones. CE1. Identifica, con indicaciones, problemas, necesidades y retos presentes en el mundo que le rodea, proponiendo ideas originales que le ayuden a tomar conciencia de los efectos que estas pueden producir en el entorno y que respondan a las posibles soluciones que se generen. CE1. Reconoce necesidades y retos que afrontar y elabora ideas originales, utilizando destrezas creativas y tomando conciencia de las consecuencias y efectos que las ideas pudieran generar en el entorno, para proponer soluciones valiosas que respondan a las necesidades detectadas. CE2. Se inicia en la identificación de fortalezas y debilidades propias, planteando, de forma guiada, estrategias para la resolución de problemas de la vida diaria y comienza a realizar actividades de cooperación de trabajo en equipo, relacionados con el intercambio financiero y el sistema monetario, empleando los recursos básicos a su alcance para realizar las distintas acciones. CE2. Reconoce y valora fortalezas y debilidades propias, distintos aspectos positivos y negativos para poder llevar a cabo el desarrollo de ideas originales y valiosas, y se inicia en el conocimiento de elementos financieros básicos y adecuados para la resolución de problemas de la vida cotidiana, empleando los recursos a su alcance para realizar acciones de colaboración y trabajo en equipo. CE2. Identifica fortalezas y debilidades propias utilizando estrategias de autoconocimiento y se inicia en el conocimiento de elementos económicos y financieros básicos, aplicándolos a situaciones y problemas de la vida cotidiana, para detectar aquellos recursos que puedan llevar las ideas originales y valiosas a la acción. CE3. Propone, de manera guiada, posibles respuestas y soluciones a las preguntas planteadas, con algunas ideas novedosas, mediante el trabajo cooperativo, y planifica, con indicaciones, tareas sencillas previamente definidas, aplicando los conocimientos adquiridos a sus experiencias, considerándolas como una oportunidad para aprender. CE3. Plantea y formula preguntas y respuestas, con ideas creativas y realiza tareas previamente planificadas a través de un trabajo cooperativo, valorando los pasos seguidos en su desarrollo, así como los resultados obtenidos, que le permita desarrollar iniciativas emprendedoras mediante un espíritu innovador, considerando sus experiencias como oportunidad para aprender. CE3. Crea ideas y soluciones originales, planifica tareas, coopera con otros y en equipo, valorando el proceso realizado y el resultado obtenido, para llevar a cabo una iniciativa emprendedora, considerando la experiencia como una oportunidad para aprender. COMPETENCIA EN CONCIENCIA Y EXPRESIONES CULTURALES La competencia en conciencia y expresión culturales supone comprender y respetar el modo en que las ideas, las opiniones, los sentimientos y las emociones se expresan y se comunican de forma creativa en distintas culturas y por medio de una amplia gama de manifestaciones artísticas y culturales. Implica también un compromiso con la comprensión, el desarrollo y la expresión de las ideas propias y del sentido del lugar que se ocupa o del papel que se desempeña en la sociedad. Asimismo, requiere la comprensión de la propia identidad en evolución y del patrimonio cultural en un mundo caracterizado por la diversidad, así como la toma de conciencia de que el arte y otras manifestaciones culturales pueden suponer una manera de mirar el mundo y de darle forma. Descriptores operativos AL COMPLETAR EL PRIMER CICLO DE EDUCACIÓN PRIMARIA, EL ALUMNO O ALUMNA… AL COMPLETAR EL SEGUNDO CICLO DE EDUCACIÓN PRIMARIA, EL ALUMNO O ALUMNA… AL COMPLETAR EL TERCER CICLO DE EDUCACIÓN PRIMARIA, EL ALUMNO O ALUMNA… CCEC1. Se inicia, con ayuda, en el reconocimiento de elementos característicos de distintas manifestaciones artísticas y culturales que forman parte del patrimonio de su entorno intercultural, tomando conciencia de la necesidad e importancia de respetarlas. CCEC1. Reconoce y muestra interés por los elementos característicos propios del patrimonio cultural y artístico de diversos entornos y se inicia en la comprensión de las diferencias entre distintas culturas y la necesidad de respetarlas en un entorno intercultural. CCEC1. Reconoce y aprecia los aspectos fundamentales del patrimonio cultural y artístico, comprendiendo las diferencias entre distintas culturas y la necesidad de respetarlas.
 
 AL COMPLETAR EL PRIMER CICLO DE EDUCACIÓN PRIMARIA, EL ALUMNO O ALUMNA… AL COMPLETAR EL SEGUNDO CICLO DE EDUCACIÓN PRIMARIA, EL ALUMNO O ALUMNA… AL COMPLETAR EL TERCER CICLO DE EDUCACIÓN PRIMARIA, EL ALUMNO O ALUMNA… CCEC2. Disfruta de la participación en distintas actividades plásticas, musicales y de expresión corporal propias del patrimonio artístico y cultural de su entorno, reconociendo los elementos característicos básicos de diferentes lenguajes artísticos, e identificando soportes empleados. CCEC2. Identifica y muestra interés por algunas de las manifestaciones artísticas y culturales más relevantes del patrimonio, reconociendo distintos soportes, así como elementos básicos característicos de diferentes lenguajes artísticos utilizados en dichas manifestaciones. CCEC2. Reconoce y se interesa por las especificidades e intencionalidades de las manifestaciones artísticas y culturales más destacadas del patrimonio, identificando los medios y soportes, así como los lenguajes y elementos técnicos que las caracterizan. CCEC3. Explora las posibilidades expresivas de su propio cuerpo, comunicando ideas, sensaciones y emociones mediante el uso de diferentes lenguajes en la expresión de manifestaciones culturales y artísticas sencillas, mostrando una actitud de respeto y empatía e interactuando progresivamente con el entorno. CCEC3. Se inicia en el desarrollo de su propia identidad mediante las posibilidades expresivas y de comunicación de su propio cuerpo, a través del empleo de distintos lenguajes en la expresión de manifestaciones artísticos y culturales básicas, mostrando confianza en sus propias capacidades con una actitud abierta y empática y aumentando las posibilidades de interactuar con el entorno. CCEC3. Expresa ideas, opiniones, sentimientos y emociones de forma creativa y con una actitud abierta e inclusiva, empleando distintos lenguajes artísticos y culturales, integrando su propio cuerpo, interactuando con el entorno y desarrollando sus capacidades afectivas. CCEC4. Conoce y se inicia en el uso de elementos básicos de diferentes lenguajes artísticos, a través de técnicas sencillas (plásticas, visuales, audiovisuales, sonoras y corporales), participando colaborativamente y de manera guiada en el proceso de creación de distintas manifestaciones artísticas y culturales, mostrando respeto y disfrute del proceso creativo. CCEC4. Participa en el proceso de creación de producciones artísticas y culturales elementales, iniciándose en la experimentación con distintas técnicas de expresión artística (plásticas, visuales, audiovisuales, sonoras o corporales), mostrando disfrute, empatía y respeto en el proceso creativo. CCEC4. Experimenta de forma creativa con diferentes medios y soportes, y diversas técnicas plásticas, visuales, audiovisuales, sonoras o corporales, para elaborar propuestas artísticas y culturales.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**Decreto 101/2023, de 9 de mayo, por el que se establece la ordenación y el **](./D101_2023_ordenacion_curriculo_educacion_infantil_andalucia.md) (Art. 52, Art. 149, Art. 27)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 52, Art. 149, Art. 27)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 52, Art. 149, Art. 27)
+- **Desarrolla**: [**RD157_2022 Ensenanzas Minimas de Educacion Primaria**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md) (Art. 52, Art. 149, Art. 27)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 52, Art. 149, Art. 27)
+- **Desarrolla**: `norm-es-c-1978` (Art. 52, Art. 149, Art. 27)
+- **Desarrolla**: `norm-es-lo-3-2020` (Art. 52, Art. 149, Art. 27)
+- **Desarrolla**: `norm-es-c-1978`
+- **Desarrolla**: [**RD157_2022 Ensenanzas Minimas de Educacion Primaria**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md) (Art. 9) desde *(Capítulo I. Disposiciones de carácter general., Art. 3)*
+- **Desarrolla**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) (Art. 19) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., Art. 22)*
+- **Desarrolla**: [**RD157_2022 Ensenanzas Minimas de Educacion Primaria**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., Art. 23)*
+- **Desarrolla**: `norm-es-c-1978` desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Final cuarta. Entrada en vigor.)*
+- **Modifica**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) (Art. 11)
+- **Deroga**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) desde *(Capítulo VII. Autonomía de los centros y participación en el proceso educativo., Art. 20)*
+- **Deroga**: [**RD157_2022 Ensenanzas Minimas de Educacion Primaria**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md) desde *(Capítulo VII. Autonomía de los centros y participación en el proceso educativo., Art. 20)*
+- **Fundamentado en**: [**RD157_2022 Ensenanzas Minimas de Educacion Primaria**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md) (Art. 15) desde *(Capítulo IV. Evaluación y promoción., Art. 12)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 121) desde *(Capítulo VI. Tutoría y orientación., Art. 19)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 121) desde *(Capítulo VI. Tutoría y orientación., Art. 19)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 121) desde *(Capítulo VI. Tutoría y orientación., Art. 19)*
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) (Art. 125) desde *(Capítulo VII. Autonomía de los centros y participación en el proceso educativo., Art. 20)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 120) desde *(Capítulo VII. Autonomía de los centros y participación en el proceso educativo., Art. 20)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 120) desde *(Capítulo VII. Autonomía de los centros y participación en el proceso educativo., Art. 20)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 120) desde *(Capítulo VII. Autonomía de los centros y participación en el proceso educativo., Art. 20)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 5, Art. 11, Art. 149, Art. 17, Art. 21) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Final segunda. Conformidad con la normativa estatal.)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 5, Art. 11, Art. 149, Art. 17, Art. 21) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Final segunda. Conformidad con la normativa estatal.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 5, Art. 11, Art. 149, Art. 17, Art. 21) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Final segunda. Conformidad con la normativa estatal.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 5, Art. 11, Art. 149, Art. 17, Art. 21) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Final segunda. Conformidad con la normativa estatal.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 2, Art. 149, Art. 3) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Final segunda. Conformidad con la normativa estatal.)*
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 129, Art. 133, Art. 7, Art. 21)
+- **Cita a**: [**RD157_2022 Ensenanzas Minimas de Educacion Primaria**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md) desde *(Capítulo I. Disposiciones de carácter general., Art. 3)*
+- **Cita a**: [**RD157_2022 Ensenanzas Minimas de Educacion Primaria**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md) desde *(Capítulo II. Currículo., Art. 6)*
+- **Cita a**: [**RD157_2022 Ensenanzas Minimas de Educacion Primaria**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md) desde *(Capítulo III. Ordenación de la etapa., Art. 8)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 120) desde *(Capítulo III. Ordenación de la etapa., Art. 8)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 120) desde *(Capítulo III. Ordenación de la etapa., Art. 8)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 120) desde *(Capítulo III. Ordenación de la etapa., Art. 8)*
+- **Cita a**: [**RD157_2022 Ensenanzas Minimas de Educacion Primaria**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md) (Art. 16) desde *(Capítulo III. Ordenación de la etapa., Art. 8)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 84) desde *(Capítulo III. Ordenación de la etapa., Art. 10)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 84) desde *(Capítulo III. Ordenación de la etapa., Art. 10)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 84) desde *(Capítulo III. Ordenación de la etapa., Art. 10)*
+- **Cita a**: [**RD157_2022 Ensenanzas Minimas de Educacion Primaria**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md) desde *(Capítulo IV. Evaluación y promoción., Art. 11)*
+- **Cita a**: [**RD157_2022 Ensenanzas Minimas de Educacion Primaria**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md) (Art. 15) desde *(Capítulo IV. Evaluación y promoción., Art. 12)*
+- **Cita a**: [**RD157_2022 Ensenanzas Minimas de Educacion Primaria**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md) desde *(Capítulo IV. Evaluación y promoción., Art. 13)*
+- **Cita a**: [**RD157_2022 Ensenanzas Minimas de Educacion Primaria**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md) desde *(Capítulo IV. Evaluación y promoción., Art. 14)*
+- **Cita a**: [**RD157_2022 Ensenanzas Minimas de Educacion Primaria**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md) (Art. 15) desde *(Capítulo IV. Evaluación y promoción., Art. 15)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional vigesimotercera) desde *(Capítulo IV. Evaluación y promoción., Art. 16)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional vigesimotercera) desde *(Capítulo IV. Evaluación y promoción., Art. 16)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional vigesimotercera) desde *(Capítulo IV. Evaluación y promoción., Art. 16)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 78) desde *(Capítulo V. Atención a la diversidad y a las diferencias individuales., Art. 17)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 78) desde *(Capítulo V. Atención a la diversidad y a las diferencias individuales., Art. 17)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 78) desde *(Capítulo V. Atención a la diversidad y a las diferencias individuales., Art. 17)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 73) desde *(Capítulo V. Atención a la diversidad y a las diferencias individuales., Art. 17)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 73) desde *(Capítulo V. Atención a la diversidad y a las diferencias individuales., Art. 17)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 73) desde *(Capítulo V. Atención a la diversidad y a las diferencias individuales., Art. 17)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 110) desde *(Capítulo VII. Autonomía de los centros y participación en el proceso educativo., Art. 20)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 110) desde *(Capítulo VII. Autonomía de los centros y participación en el proceso educativo., Art. 20)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 110) desde *(Capítulo VII. Autonomía de los centros y participación en el proceso educativo., Art. 20)*
+- **Cita a**: [**RD157_2022 Ensenanzas Minimas de Educacion Primaria**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md) (D. Adicional primera, D. Adicional segunda) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Final segunda. Conformidad con la normativa estatal.)*

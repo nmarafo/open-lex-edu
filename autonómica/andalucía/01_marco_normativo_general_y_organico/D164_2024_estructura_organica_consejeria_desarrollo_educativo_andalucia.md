@@ -27,30 +27,62 @@ tags:
 - junta_de_andalucia
 - andalucia
 relaciones:
+  cita:
+  - norma_id: norm-and-d164-2024
   desarrolla:
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 129
+    - Art. 45
+    - Art. 133
+    - Art. 24
+    - Art. 1
+  - norma_id: norm-and-l17-2007
+    articulos_origen:
+    - Art. 12
+    articulos_destino:
+    - Art. 113
+  - norma_id: norm-and-l9-1999
+    articulos_origen:
+    - Art. 12
+    articulos_destino:
+    - Art. 113
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-ce-1978
   fundamentado_en:
   - norma_id: norm-and-l17-2007
+    articulos_origen:
+    - Art. 12
+    articulos_destino:
+    - Art. 180
+    - Art. 60
+    - Art. 39
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
+  modifica:
+  - norma_id: norm-and-d-1-2011
+    articulos_origen:
+    - D. Transitoria cuarta. Política de seguridad TIC.
+  deroga:
+  - norma_id: norm-and-d154-2022
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
 ---
+
 # Decreto 164/2024, de 26 de agosto, por el que se establece la estructura orgánica de la Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía.
 
 ## Preámbulo
-
-Histórico del BOJA Boletín Extraordinario número 15 de 27/08/2024
 
 Consejería de Desarrollo Educativo y Formación Profesional
 
 Decreto 164/2024, de 26 de agosto, por el que se establece la estructura orgánica de la Consejería de Desarrollo Educativo y Formación Profesional.
 
-Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de Verificación de autenticidad con CVE 00306800.
-
 El artículo 4 l.
 
-Decreto del Presidente 10/2022, de 25 de julio, sobre reestructuración de Consejerías estableció las competencias que actualmente tiene atribuidas la Consejería de Desarrollo Educativo y Formación Profesional, que no han sido modificadas por el Decreto del Presidente 6/2024, de 9 de julio, sobre reestructuración de Consejerías. Sin embargo, dentro de la concreción del desarrollo y planificación del programa del Gobierno, se hace necesario adecuar el organigrama de la Consejería para dotar de un mayor impulso a la Formación Profesional, así como para favorecer una coordinación más directa entre los centros directivos, promoviendo la racionalización de la estructura administrativa y una mayor especialización de las direcciones generales en parcelas específicas del desarrollo educativo. Para la aplicación e impulso de las medidas que se deben desarrollar en este marco, se hace preciso modificar y aprobar la estructura orgánica de la Consejería de Desarrollo Educativo y Formación Profesional con el objeto de reducir los órganos intermedios entre los centros de decisión y los centros gestores de las mismas, a la vez que se refuerza la especialización de las direcciones generales para favorecer la cercanía en la gestión administrativa y la participación de la ciudadanía. El presente decreto responde a la conveniencia de seguir introduciendo criterios de eficiencia y racionalización en el ámbito organizativo del sector público andaluz, para lo que se han reordenado las competencias de la Consejería de Desarrollo Educativo y Formación Profesional, dejando una sola Secretaría General, denominada de Formación Profesional de la que depende orgánicamente la Dirección General de Formación Profesional y Educación Permanente con el claro propósito de reforzar el carácter propio de la Formación Profesional y la apuesta del Gobierno de la Junta de Andalucía por estas enseñanzas. Se adscriben a esta dirección general las competencias en materia de educación permanente para concentrar todos los esfuerzos que están relacionados con la cualificación de los andaluces y andaluzas a lo largo de la vida y a las oportunidades de formación permanente. Igualmente, resulta necesario establecer una nueva distribución en las competencias de la Consejería. La Dirección General de Planificación, Centros y Enseñanza Concertada así como la del Profesorado y Gestión de Recursos Humanos mantienen en esencia sus actuales competencias. La actual Dirección General de Ordenación, Inclusión, Participación y Evaluación Educativa se desdobla con el fin de facilitar una mayor especialización de la gestión. Por un lado, se crea la Dirección General de Ordenación y Evaluación Educativa y, por otro, la Dirección General de Participación e Inclusión Educativa que adquiere entidad propia por la relevancia de la participación de la comunidad educativa para el adecuado funcionamiento del sistema, así como de la inclusión educativa por la importancia de la misma. Por último, la actual Dirección General de Tecnologías Avanzadas y Transformación Educativa, mantiene en esencia sus actuales competencias aunque pasa a denominarse de Innovación y Formación del Profesorado. Siendo uno de los objetivos de la Comunidad Autónoma Andaluza el promover una sociedad igualitaria entre mujeres y hombres, se ha tenido en cuenta la integración transversal del principio de igualdad de género en el presente decreto, en cumplimiento de lo establecido en la Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad de género en Andalucía. En la elaboración de la presente norma se han respetado los principios de buena regulación previstos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En relación a la necesidad y la eficacia, la iniciativa normativa está justificada debido a la necesidad de aprobar la estructura orgánica de la Consejería de Desarrollo Educativo y Formación Profesional, se establece una identificación clara de los fines perseguidos y es el instrumento más adecuado para garantizar su consecución. En relación a la proporcionalidad, la norma contiene la regulación imprescindible para atender la necesidad a cubrir, habiéndose constatado que no existen otras medidas menos restrictivas de derechos, o que impongan menos obligaciones a los destinatarios. En cuanto a la seguridad jurídica, se ejerce la iniciativa normativa de manera coherente con el resto del ordenamiento jurídico y de acuerdo a la distribución de competencias establecida en el Decreto del Presidente 6/2024, de 29 de julio, sobre reestructuración de Consejerías. En cuanto a la transparencia, con arreglo a la normativa vigente en la materia, esta disposición y todo el expediente será publicado en el Portal de la Transparencia, en el momento procedimental oportuno. Por último, en cuanto a la eficiencia en la utilización de los recursos económicos disponibles, se ha establecido una dimensión adecuada de la estructura, que conlleva no ampliar el número de altos cargos con respecto al decreto de estructura anterior. Por otra parte, de conformidad con lo previsto en el artículo 45.1 f) de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, y en el artículo 133.4 párrafo primero de la Ley 39/2015, de 1 de octubre, se prescinde de los trámites de consulta pública previa y de audiencia e información pública, por tratarse de norma organizativa de la Administración de la Comunidad Autónoma. De conformidad con lo establecido en el artículo 24.1 de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía, a propuesta de la Consejera de Desarrollo Educativo y Formación Profesional, previo informe de las Consejerías competentes en materia de hacienda y de administración pública y previa deliberación del Consejo de Gobierno en su reunión del día 26 de agosto de 2024, DISPONGO artículo 1 Competencias de la Consejería de Desarrollo Educativo y Formación Profesional. Corresponde a la Consejería de Desarrollo Educativo y Formación Profesional la regulación y administración de la enseñanza no universitaria en toda su extensión, niveles y grados, modalidades y especialidades, en la Comunidad Autónoma de Andalucía.
+Decreto del Presidente 10/2022, de 25 de julio, sobre reestructuración de Consejerías estableció las competencias que actualmente tiene atribuidas la Consejería de Desarrollo Educativo y Formación Profesional, que no han sido modificadas por el Decreto del Presidente 6/2024, de 9 de julio, sobre reestructuración de Consejerías. Sin embargo, dentro de la concreción del desarrollo y planificación del programa del Gobierno, se hace necesario adecuar el organigrama de la Consejería para dotar de un mayor impulso a la Formación Profesional, así como para favorecer una coordinación más directa entre los centros directivos, promoviendo la racionalización de la estructura administrativa y una mayor especialización de las direcciones generales en parcelas específicas del desarrollo educativo. Para la aplicación e impulso de las medidas que se deben desarrollar en este marco, se hace preciso modificar y aprobar la estructura orgánica de la Consejería de Desarrollo Educativo y Formación Profesional con el objeto de reducir los órganos intermedios entre los centros de decisión y los centros gestores de las mismas, a la vez que se refuerza la especialización de las direcciones generales para favorecer la cercanía en la gestión administrativa y la participación de la ciudadanía. El presente decreto responde a la conveniencia de seguir introduciendo criterios de eficiencia y racionalización en el ámbito organizativo del sector público andaluz, para lo que se han reordenado las competencias de la Consejería de Desarrollo Educativo y Formación Profesional, dejando una sola Secretaría General, denominada de Formación Profesional de la que depende orgánicamente la Dirección General de Formación Profesional y Educación Permanente con el claro propósito de reforzar el carácter propio de la Formación Profesional y la apuesta del Gobierno de la Junta de Andalucía por estas enseñanzas. Se adscriben a esta dirección general las competencias en materia de educación permanente para concentrar todos los esfuerzos que están relacionados con la cualificación de los andaluces y andaluzas a lo largo de la vida y a las oportunidades de formación permanente. Igualmente, resulta necesario establecer una nueva distribución en las competencias de la Consejería. La Dirección General de Planificación, Centros y Enseñanza Concertada así como la del Profesorado y Gestión de Recursos Humanos mantienen en esencia sus actuales competencias. La actual Dirección General de Ordenación, Inclusión, Participación y Evaluación Educativa se desdobla con el fin de facilitar una mayor especialización de la gestión. Por un lado, se crea la Dirección General de Ordenación y Evaluación Educativa y, por otro, la Dirección General de Participación e Inclusión Educativa que adquiere entidad propia por la relevancia de la participación de la comunidad educativa para el adecuado funcionamiento del sistema, así como de la inclusión educativa por la importancia de la misma. Por último, la actual Dirección General de Tecnologías Avanzadas y Transformación Educativa, mantiene en esencia sus actuales competencias aunque pasa a denominarse de Innovación y Formación del Profesorado. Siendo uno de los objetivos de la Comunidad Autónoma Andaluza el promover una sociedad igualitaria entre mujeres y hombres, se ha tenido en cuenta la integración transversal del principio de igualdad de género en el presente decreto, en cumplimiento de lo establecido en la Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad de género en Andalucía. En la elaboración de la presente norma se han respetado los principios de buena regulación previstos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En relación a la necesidad y la eficacia, la iniciativa normativa está justificada debido a la necesidad de aprobar la estructura orgánica de la Consejería de Desarrollo Educativo y Formación Profesional, se establece una identificación clara de los fines perseguidos y es el instrumento más adecuado para garantizar su consecución. En relación a la proporcionalidad, la norma contiene la regulación imprescindible para atender la necesidad a cubrir, habiéndose constatado que no existen otras medidas menos restrictivas de derechos, o que impongan menos obligaciones a los destinatarios. En cuanto a la seguridad jurídica, se ejerce la iniciativa normativa de manera coherente con el resto del ordenamiento jurídico y de acuerdo a la distribución de competencias establecida en el Decreto del Presidente 6/2024, de 29 de julio, sobre reestructuración de Consejerías. En cuanto a la transparencia, con arreglo a la normativa vigente en la materia, esta disposición y todo el expediente será publicado en el Portal de la Transparencia, en el momento procedimental oportuno. Por último, en cuanto a la eficiencia en la utilización de los recursos económicos disponibles, se ha establecido una dimensión adecuada de la estructura, que conlleva no ampliar el número de altos cargos con respecto al decreto de estructura anterior. Por otra parte, de conformidad con lo previsto en el artículo 45.1 f) de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, y en el artículo 133.4 párrafo primero de la Ley 39/2015, de 1 de octubre, se prescinde de los trámites de consulta pública previa y de audiencia e información pública, por tratarse de norma organizativa de la Administración de la Comunidad Autónoma. De conformidad con lo establecido en el artículo 24.1 de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía, a propuesta de la Consejera de Desarrollo Educativo y Formación Profesional, previo informe de las Consejerías competentes en materia de hacienda y de administración pública y previa deliberación del Consejo de Gobierno en su reunión del día 26 de agosto de 2024, DISPONGO:
+
+#### Artículo . #### Artículo 1. Competencias de la Consejería de Desarrollo Educativo y Formación Profesional. Corresponde a la Consejería de Desarrollo Educativo y Formación Profesional la regulación y administración de la enseñanza no universitaria en toda su extensión, niveles y grados, modalidades y especialidades, en la Comunidad Autónoma de Andalucía.
 
 #### Artículo 2. Organización general de la Consejería.
 
@@ -495,3 +527,21 @@ Descargar PDF
 Disposición anterior
 
 Disposición siguiente
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 129, Art. 45, Art. 133, Art. 24, Art. 1)
+- **Desarrolla**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](./L17_2007_educacion_andalucia_lea.md) (Art. 113) desde *(Art. 12)*
+- **Desarrolla**: [**Ley 9/1999, de 18 de noviembre, de Solidaridad en la Educación**](../06_atencion_diversidad_y_orientacion/L9_1999_solidaridad_en_la_educacion_andalucia.md) (Art. 113) desde *(Art. 12)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Modifica**: [**D1_2011 Reglamento Disciplina Academica Alumnado Andalucía**](../07_convivencia_bienestar_y_protocolos/D1_2011_reglamento_disciplina_academica_alumnado_andalucia.md) desde *(D. Transitoria cuarta. Política de seguridad TIC.)*
+- **Deroga**: [**Decreto 154/2022, de 9 de agosto, por el que se establece la estructura org**](./D154_2022_estructura_organica_consejeria_desarrollo_educativo_andalucia.md) desde *(D. Derogatoria única. Derogación normativa.)*
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](./L17_2007_educacion_andalucia_lea.md) (Art. 180, Art. 60, Art. 39) desde *(Art. 12)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Cita a**: [**Decreto 164/2024, de 26 de agosto, por el que se establece la ordenación de**](../03_ordenacion_curricular_y_ensenanzas/D164_2024_ordenacion_formacion_profesional_andalucia.md)

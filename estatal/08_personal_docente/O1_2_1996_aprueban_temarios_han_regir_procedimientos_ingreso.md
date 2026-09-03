@@ -26,6 +26,36 @@ tags:
 - oposiciones-y-acceso
 - profesorado
 relaciones:
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 12
+    - Art. 4
+    - Art. 7
+    - Art. 131
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 12
+    - Art. 4
+    - Art. 7
+    - Art. 131
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 12
+    - Art. 4
+    - Art. 7
+    - Art. 131
+  - norma_id: norm-es-lo-3-2020
+    articulos_destino:
+    - Art. 12
+    - Art. 4
+    - Art. 7
+    - Art. 131
+  concordancia:
+  - norma_id: norm-es-l-40-2015
+    articulos_destino:
+    - Art. 17
+    - Art. 9
   fundamentado_en:
   - norma_id: norm-es-1993-23257
   - norma_id: norm-es-1995-22212
@@ -34,10 +64,11 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-es-rd-276-2007
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-1993-23257
   - norma_id: norm-es-1995-22212
 ---
+
 # Orden de 1 de febrero de 1996 por la que se aprueban los temarios que han de regir en los procedimientos de ingreso, adquisición de nuevas especialidades y movilidad para determinadas especialidades de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional.
 
 ## Preámbulo
@@ -57,3 +88,18 @@ RESUELVO:
 Primero.- Delegar en las Direcciones Territoriales de Educación la competencia para el nombramiento y cese, así como para la concesión, cese y revocación de las comisiones de servicios para el desempeño del cargo de Jefatura de Estudios Adjunta en los centros educativos en que se determine, que ejercerán, en su ámbito territorial, bajo la dirección y coordinación de esta Dirección General de Personal que dictará cuantas normas e instrucciones considere necesarias.
 Segundo.- La delegación conferida por esta Resolución se entenderá sin perjuicio de la potestad de su revocación y en las Resoluciones que se adopten en el ejercicio de la misma se hará constar esta circunstancia considerándose, a todos los efectos, dictadas por esta Dirección General de Personal.
 Tercero.- La presente Resolución entrará en vigor a partir del día siguiente a su publicación en el Boletín Oficial de Canarias. Las Palmas de Gran Canaria, a 12 de febrero de 2021.- El Director General de Personal, Fidel Benigno Trujillo Santana.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 12, Art. 4, Art. 7, Art. 131)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 12, Art. 4, Art. 7, Art. 131)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 12, Art. 4, Art. 7, Art. 131)
+- **Modifica**: `norm-es-lo-3-2020` (Art. 12, Art. 4, Art. 7, Art. 131)
+- **Fundamentado en**: [**BOE-A-1993-23257**](./RD850_1993_aprueban_temarios_han_regir_procedimientos_ingreso.md)
+- **Fundamentado en**: [**BOE-A-1995-22212**](./RD1635_1995_adscribe_profesorado_cuerpos_profesores_ensenanza_secundaria.md)
+- **Fundamentado en**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **En concordancia con**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 17, Art. 9)

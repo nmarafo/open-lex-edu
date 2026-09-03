@@ -25,13 +25,55 @@ tags:
 - ciclos_formativos
 - andalucia
 relaciones:
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    capitulo_destino: Capítulo II
+    seccion_destino: Sección 2.ª
+    articulos_destino:
+    - Art. 56
+    - Art. 3
+    - Art. 9
+    - Art. 25
+    - Art. 47
+    - Art. 46
+    - Art. 26
+    - Art. 107
+  - norma_id: norm-and-d-254-2001
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 13
+  - norma_id: norm-es-1999-23750
+    capitulo_origen: Capítulo IV. De las ayudas para la financiación de actuaciones
+      relacionadas con la gestión y ejecución del planeamiento urbanístico municipal.
+    seccion_origen: Sección 2. ª Oficinas Técnicas Municipales para actividades de
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor y vigencia.
+    articulos_destino:
+    - Art. 31
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+  cita:
+  - norma_id: norm-and-d-254-2001
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 2
+  desarrolla:
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo IV. De las ayudas para la financiación de actuaciones
+      relacionadas con la gestión y ejecución del planeamiento urbanístico municipal.
+    seccion_origen: Sección 1. ª Actuaciones de gestión y ejecución del
+    articulos_origen:
+    - Art. 33
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo IV
+    seccion_origen: Sección 1. Actuaciones de gestión y ejecución del Planeamiento
+      Urbanístico Municipal.
+  - norma_id: norm-es-lo-2-2006
 ---
+
 # Orden de 15 de julio de 2008, por la que se regula el procedimiento de admisión de alumnado en ciclos de FP.
 
 ## Preámbulo
@@ -39,7 +81,7 @@ relaciones:
 Página núm. 6 Sevilla, 31 de julio 2008 CONSEJERÍA DE VIVIENDA Y ORDENACIÓN DEL TERRITORIO ORDEN de 8 de julio de 2008, por la que se regula la concesión de ayudas a los Ayuntamientos para la financiación de actuaciones en materia de urbanismo. El Estatuto de Autonomía para Andalucía, aprobado por Ley Orgánica 2/2007, de 19 de marzo, en su artículo 56, atribuye a la Comunidad Autónoma competencia exclusiva en materia, entre otras, de vivienda, urbanismo y ordenación del territorio, contemplando el mismo texto legal como principio rector de las políticas públicas el uso racional del suelo, así como la obligación de los poderes públicos a la promoción pública de la vivienda a fin de favorecer el derecho constitucional a una vivienda digna y adecuada. Dentro de este contexto la Ley 7/2002, de 17 de diciembre, de Ordenación Urbanística de Andalucía, apuesta por el Plan General de Ordenación Urbanística de cada municipio como el instrumento que, en cada caso, planifica su territorio a partir del diagnóstico de sus características, la detección de sus demandas y el modelo de ciudad elegido, y su repercusión, por tanto, en la calidad de vida de los ciudadanos, en las ciudades y en el desarrollo sostenible de estas. El Decreto 239/2008, de 13 de mayo, por el que se establece la estructura orgánica de la Consejería de Vivienda y Ordenación del Territorio, en relación con el Decreto del Presidente 10/2008, de 19 de abril, sobre reestructuración de Consejerías, atribuye a dicha Consejería las competencias atribuidas a la Comunidad Autónoma en materia de vivienda y arquitectura, urbanismo, ordenación del territorio y cartografía. En ejercicio de sus competencias, la Consejería de Vivienda y Ordenación del Territorio considera esencial el fomento de la mejora de los instrumentos de planificación y gestión urbanística, a fin de que éstos sean elementos que contribuyan al uso racional del suelo, en los términos expresados en la legislación urbanística, que especialmente se concretan en los artículos 3 y 9 de la Ley 7/2002, de 17 de diciembre, apostando por un modelo sostenible e integrado en la planificación territorial, con especial atención a aspectos como la clasificación del suelo, la mejora de la ciudad histórica y en general de la existente, la funcionalidad de las infraestructuras y de la movilidad, la protección y potenciación de las zonas con valores sensibles y la potenciación y localización equilibrada de los equipamientos y de la vivienda protegida. Por otro lado, no hay que olvidar que el mandato legal que contempla el artículo 25 de nuestro Estatuto de Autonomía en relación con al artículo 47 de la Constitución impone adoptar una serie de medidas que coadyuven al cumplimiento de este mandato, entre las que se encuentran la presente Orden como instrumento dinamizador e incentivador de la actividad a que la misma se refiere, motivo por el cual se han introducido una serie de importantes novedades a la que se dedica la Sección 2.ª del Capítulo II, como es el fomento de todos aquellos procedimientos que la Ley de Ordenación Urbanística de Andalucía, Ley 7/2002, de 17 de diciembre, habilita para poner suelo urbanizado en el mercado con destino preferente a la construcción de viviendas protegidas. La experiencia hasta ahora acumulada a lo largo de distintas órdenes que han venido regulando la concesión de ayudas a los Ayuntamientos para la financiación de actuaciones en materia de urbanismo, la última de las cuales es la Orden de 21 de marzo de 2006, ha puesto de manifiesto que esta línea de ayudas es vital al menos para todos aquellos municipios de menos de 20.000 habitantes en los que la financiación alcanza la totalidad del coste de la actividad. Por otro lado esta financiación se ha convertido en un instrumento de impulso de la colaboración y asistencia con los Ayuntamientos en ejercicio de la actividad urbanística que éstos desarrollen con pleno respeto al modelo territorial más acorde con las características naturales, paisajísticas y ambientales de su entorno. Por ello se propone la renovación de la convocatoria de ayudas mediante la presente Orden, que mantiene la estructura general de las órdenes anteriores, con la especial significación de las contenidas en la Sección 2.ª del Capítulo II que potencia la Adaptación de los planes a la actual legislación urbanística. En cuanto a la utilización de las tecnologías de la información y la gestión electrónica en los procedimientos administrativos, la presente Orden facilita la posibilidad de que los Ayuntamientos interesados presenten sus solicitudes de modo telemático, incorporando también la tramitación telemática en los términos establecidos en el Decreto 183/2003, de 24 de junio, por el que se regula la información y atención al ciudadano y la tramitación de procedimientos administrativos por medios electrónicos (internet). En el procedimiento de concesión, esta Orden da cumplimiento a los criterios de publicidad, transparencia, libre concurrencia y objetividad. Asimismo, establece que las ayudas, dada la condición de los perceptores a que van destinadas, se otorguen sin que sea necesario establecer la comparación de las solicitudes ni la prelación entre las mismas. Por ello, y de conformidad con las previsiones presupuestarias contenidas en la Ley 24/2007, de 26 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para el año 2008, esta Consejería de Vivienda y Ordenación del Territorio, mediante la presente Orden, cuyo ámbito temporal es de tres años, aprueba las normas por las que se ha de regir la concesión de ayudas a los Ayuntamientos para la financiación de actuaciones en materia de urbanismo. En su virtud, y en uso de las facultades y competencias conferidas por el artículo 46.4 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, el artículo 26.2.a) de la Ley 9/2007, de la Administración de la Junta de Andalucía, el artículo 107 de la Ley 5/1983, de 19 de julio, General de la Hacienda Pública de la Comunidad Autónoma de Andalucía, todo ello en relación con el Decreto 239/2008, de 13 de mayo, por el que se establece la estructura orgánica de la Consejería de Vivienda y Ordenación del Territorio,
 DISPONGO:
 
-### Capítulo I
+#### Artículo . #### Artículo . ### Capítulo I
 
 ### Disposiciones generales
 
@@ -131,8 +173,6 @@ Decreto 183/2003, de 24 de junio. Si hubiese elegido la notificación electróni
 4. Transcurrido el plazo para resolver sin que se hubiese dictado y notificado resolución expresa, las solicitudes se entenderán desestimadas por silencio administrativo, conforme a lo establecido en el artículo 31.4 de la Ley 3/2004, de 28 de diciembre.
 
 5. La resolución concediendo la ayuda deberá especificar el Ayuntamiento beneficiario, la actividad o proyecto objeto de la misma, el presupuesto total aceptado, la subvención y el porcentaje subvencionado, la aplicación presupuestaria y distribución plurianual, el plazo máximo para realizar la actividad o proyecto subvencionado con expresión del inicio del cómputo del mismo, forma y secuencia del pago, condiciones que se impongan al beneficiario, plazo y forma de justificación del cumplimiento de la finalidad, así como otras que procedan de acuerdo con lo previsto en el artículo 13.2 del Decreto 254/2001, de 20 de noviembre. En el supuesto de que la concesión de la ayuda se instrumentalice mediante Convenio de Colaboración, además de lo señalado en el párrafo anterior, éste deberá prever la composición del órgano de seguimiento, y cuantos extremos sean necesarios para la ejecución y su gestión posterior.
-
-6. La resolución será notificada por la Dirección General de Urbanismo al Ayuntamiento beneficiario, sin perjuicio de la publicación en el Boletín Oficial de la Junta de Andalucía a que se refiere el artículo 109 de la Ley 5/1983, de 19 de julio.
 
 7. Las resoluciones ponen fin a la vía administrativa, pudiendo interponer contra ellas recurso contencioso administrativo, en la forma y los plazos establecidos en la Ley 29/1998, de 13 de julio, reguladora de la jurisdicción Contencioso-Administrativa, sin perjuicio de lo establecido en el artículo 44 de dicha Ley.
 
@@ -227,7 +267,7 @@ d) Relación certificada de documentos justificantes de los gastos y del cumplim
 
 Sevilla, 31 de julio 2008 Página núm. 11 del importe de la ayuda concedida aplicando el porcentaje de financiación sobre la cuantía correspondiente a los justificantes no presentados o no aceptados.
 
-## Capítulo II. De las ayudas para la financiación de Planes Generales de Ordenación Urbanística.
+### Capítulo II. De las ayudas para la financiación de Planes Generales de Ordenación Urbanística.
 
 #### Sección 1. ª Redacción de Plan General de Ordenación
 
@@ -253,9 +293,7 @@ Las solicitudes se cumplimentarán conforme se indica en el artículo 8, e irán
 
 1. A los efectos del cálculo de la ayuda, el presupuesto de redacción del planeamiento general, IVA incluido, estará limitado por el importe que, para cada municipio, figura en el
 
-## Anexo I
-
-2. La ayuda a conceder será la correspondiente al porcentaje expresado en la Tabla 1, respecto del presupuesto de redacción del planeamiento general limitado, en su caso, por el importe fijado en el apartado anterior. Tabla 1 Municipios % Subvención Menos de 20.000 habitantes 100% De 20.000 a 50.000 habitantes 70% Más de 50.000 habitantes 10% urbanística, según el desglose y plazos de ejecución que se señalan en la siguiente Tabla 2. Tabla 2 Fase % Sobre total subvención Plazo ejecución fase Avance 40% 25 meses desde la concesión de la ayuda. Aprobación Inicial 10% 8 meses desde finalización de la información pública del Avance. Aprobación Provisional 25% 8 meses desde finalización información pública de la Aprobación Inicial Aprobación Definitiva 25 % 8 meses desde la Aprobación Provisional
+## Anexo I. 2. La ayuda a conceder será la correspondiente al porcentaje expresado en la Tabla 1, respecto del presupuesto de redacción del planeamiento general limitado, en su caso, por el importe fijado en el apartado anterior. Tabla 1 Municipios % Subvención Menos de 20.000 habitantes 100% De 20.000 a 50.000 habitantes 70% Más de 50.000 habitantes 10% urbanística, según el desglose y plazos de ejecución que se señalan en la siguiente Tabla 2. Tabla 2 Fase % Sobre total subvención Plazo ejecución fase Avance 40% 25 meses desde la concesión de la ayuda. Aprobación Inicial 10% 8 meses desde finalización de la información pública del Avance. Aprobación Provisional 25% 8 meses desde finalización información pública de la Aprobación Inicial Aprobación Definitiva 25 % 8 meses desde la Aprobación Provisional
 
 2. Se podrá autorizar un primer pago, con justificación diferida, del 75% de la ayuda concedida, y que se hará efectivo a la concesión de la misma. Una vez justificado el 50% de la ayuda concedida, podrá librarse el 25% restante con justificación diferida.
 
@@ -275,7 +313,7 @@ Ordenación Urbanística y Normas Subsidiarias de Planeamiento
 
 2. Las ayudas reguladas en esta Sección son compatibles con las ayudas que se regulan en la Sección 1ª de este mismo
 
-## Capítulo II. 3. La Consejería de Vivienda y Ordenación del Territorio aportará al Ayuntamiento la cartografía, urbana y territorial más actualizada que disponga la Dirección General del Instituto de Cartografía de Andalucía.
+### Capítulo II. 3. La Consejería de Vivienda y Ordenación del Territorio aportará al Ayuntamiento la cartografía, urbana y territorial más actualizada que disponga la Dirección General del Instituto de Cartografía de Andalucía.
 
 #### Artículo 23. Documentación.
 
@@ -311,7 +349,7 @@ b) El 30% para el caso de municipios que no hayan iniciado la redacción o revis
 
 previa valoración de la Consejería de Vivienda y Ordenación del Territorio en el proceso de coordinación del mismo Plan.
 
-## Capítulo III. De las ayudas para la financiación de actuaciones de participación pública y difusión del planeamiento.
+### Capítulo III. De las ayudas para la financiación de actuaciones de participación pública y difusión del planeamiento.
 
 #### Sección 1. ª Actuaciones de participación pública
 
@@ -387,7 +425,7 @@ a) En los casos de edición de planes:
 2. 50% restante, a la entrega de los ejemplares de la edición fijados en la resolución de concesión o Convenio de Colaboración.
 b) En los casos de incorporación a la página web municipal, la totalidad de la ayuda se aportará después de la comunicación de haberse pro ducido adecuadamente tal incorporación.
 
-## Capítulo IV. De las ayudas para la financiación de actuaciones relacionadas con la gestión y ejecución del planeamiento urbanístico municipal.
+### Capítulo IV. De las ayudas para la financiación de actuaciones relacionadas con la gestión y ejecución del planeamiento urbanístico municipal.
 
 #### Artículo 32. Objeto y ámbito.
 
@@ -421,9 +459,7 @@ Las solicitudes se cumplimentarán conforme se indica en el artículo 8, acompa�
 
 1. A los efectos del cálculo de la subvención, el presupuesto de la actuación propuesta de gestión y ejecución del Planeamiento Urbanístico, IVA incluido, estará limitado por el 50% del importe que, para cada municipio, figura en el
 
-## Anexo I
-
-2. El presupuesto de la actuación propuesta se justificará, siempre que sea posible, de acuerdo con los baremos de honorarios publicados por los distintos colegios oficiales profesionales competentes.
+## Anexo I. 2. El presupuesto de la actuación propuesta se justificará, siempre que sea posible, de acuerdo con los baremos de honorarios publicados por los distintos colegios oficiales profesionales competentes.
 
 Página núm. 14 Sevilla, 31 de julio 2008
 
@@ -505,11 +541,8 @@ Se faculta a la Directora General de Urbanismo para que dicte las instrucciones 
 
 #### Disposición final segunda. Entrada en vigor y vigencia.
 
-1. La presente Orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. No obstante, no se podrán presentar solicitudes mediante tramitación electrónica, a que se refiere el artículo 9, hasta el 1 de enero de 2009. 2. El plazo de vigencia de esta Orden será de tres años desde su entrada en vigor. Sevilla, 8 de julio de 2008 JUAN ESPADAS CEJAS Consejero de Vivienda y Ordenación del Territorio
+## Anexo I. LÍMITE DEL PRESUPUESTO A EFECTOS DEL CÁLCULO DE LA SUBVENCIÓN (IVA INCLUIDO) Presupuesto = H x la x C x R x S x N Siendo, H: Miles de habitantes del municipio, según última revisión del Padrón Municipal a fecha de 1 de enero del año correspondiente a la fecha de solicitud. En cualquier caso «H» no será inferior a 3,000. la: Índice de actualización actualizado según IPC a 1 de enero del año correspondiente a la fecha de la solicitud (para el 2008 la = 1,42). C: Coeficiente dependiente de los habitantes según la siguiente tabla:
 
-## Anexo I
-
-LÍMITE DEL PRESUPUESTO A EFECTOS DEL CÁLCULO DE LA SUBVENCIÓN (IVA INCLUIDO) Presupuesto = H x la x C x R x S x N Siendo, H: Miles de habitantes del municipio, según última revisión del Padrón Municipal a fecha de 1 de enero del año correspondiente a la fecha de solicitud. En cualquier caso «H» no será inferior a 3,000. la: Índice de actualización actualizado según IPC a 1 de enero del año correspondiente a la fecha de la solicitud (para el 2008 la = 1,42). C: Coeficiente dependiente de los habitantes según la siguiente tabla:
 Hasta 5.000
 
 **21.040** Más de 5.000 y hasta 10.000
@@ -530,9 +563,8 @@ Página núm. 16 Sevilla, 31 de julio 2008
 
 SOLICITUD (001393) AYUDAS A LOS AYUNTAMIENTOS PARA LA FINANCIACIÓN DE ACTUACIONES EN MATERIA DE URBANISMO Certificación. (Anexo VIII) Memoria justificativa. (Anexo .....) DOCUMENTACIÓN ADJUNTA Formulación o Revisión del Plan General de Ordenación Urbanística. (Capítulo II. Sección 1ª) Actuaciones de Participación Pública y Difusión del Planeamiento. (Capítulo III) TIPO DE ACTUACIÓN SUBVENCIONABLE PARA LA QUE SE SOLICITA LA SUBVENCIÓN Adaptación del Plan General de Ordenación Urbanística a la Ley 7/2002, de 17 de noviembre de Ordenación Urbanística de Andalucía. (Capitulo II. Sección 2ª) Actuaciones de gestión y ejecución del Planeamiento Urbanístico. (Capítulo IV. Sección 1ª) Oficinas técnicas municipales para actividades de gestión y ejecución del Planeamiento Urbanístico. (Capítulo IV. Sección 2ª) DATOS DEL AYUNTAMIENTO SOLICITANTE Y DEL/DE LA REPRESENTANTE LEGAL AYUNTAMIENTO CIF APELLIDOS Y NOMBRE DEL/DE LA ALCALDE/SA-PRESIDENTE/A 1º APELLIDO 2º APELLIDO NOMBRE T.VÍA VÍA Nº PISO PUERTA ESCALERA DNI/NIE DIRECCIÓN APELLIDOS Y NOMBRE DEL/DE LA PERSONA DE CONTACTO DNI/NIE PROVINCIA C.POSTAL FAX TELÉFONO CORREO ELECTRÓNICO LOCALIDAD PROVINCIA C.POSTAL FAX TELÉFONO CORREO ELECTRÓNICO LOCALIDAD 1º APELLIDO 2º APELLIDO NOMBRE T.VÍA VÍA Nº PISO PUERTA ESCALERA DOMICILIO A EFECTOS DE NOTIFICACIÓN CONSEJERÍA DE VIVIENDA Y ORDENACIÓN DEL TERRITORIO
 
-## Anexo II
+## Anexo II. ANVERSO EJERCICIO Orden de de de (BOJA nº de fecha CONSENTIMIENTO EXPRESO DNI/NIE La persona abajo firmante presta su CONSENTIMIENTO para la consulta de sus datos de identidad a través del Sistema de Verificación de Identidad. NO CONSIENTE y aporta fotocopia autenticada del DNI/NIE. La persona abajo firmante AUTORIZA, como medio de notificación preferente, la notificación telemática en la dirección de correo electrónico segura facilitada por la plataforma Notific@ de la Junta de Andalucía. (Para ello deberán disponer de certificado de usuario de firma electrónica reconocida). AUTORIZA a la Administración de la comunidad Autónoma de Andalucía a que pueda recabar cualquier documentación o información de otras Administraciones Públicas o Entidades, cuando sea necesario para la concesión de la subvención, que pudieran estar en su poder AUTORIZACIÓN EXPRESA Entidad:
 
-ANVERSO EJERCICIO Orden de de de (BOJA nº de fecha CONSENTIMIENTO EXPRESO DNI/NIE La persona abajo firmante presta su CONSENTIMIENTO para la consulta de sus datos de identidad a través del Sistema de Verificación de Identidad. NO CONSIENTE y aporta fotocopia autenticada del DNI/NIE. La persona abajo firmante AUTORIZA, como medio de notificación preferente, la notificación telemática en la dirección de correo electrónico segura facilitada por la plataforma Notific@ de la Junta de Andalucía. (Para ello deberán disponer de certificado de usuario de firma electrónica reconocida). AUTORIZA a la Administración de la comunidad Autónoma de Andalucía a que pueda recabar cualquier documentación o información de otras Administraciones Públicas o Entidades, cuando sea necesario para la concesión de la subvención, que pudieran estar en su poder AUTORIZACIÓN EXPRESA Entidad:
 Domicilio:
 DATOS BANCARIOS Código Entidad Código Sucursal Dígito Control Nº Cuenta Localidad:
 Provincia:
@@ -540,9 +572,8 @@ C. Postal:
 
 Sevilla, 31 de julio 2008 Página núm. 17
 
-## Anexo II
+## Anexo II. REVERSO En cumplimiento de lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Vivienda y Ordenación del Territorio le informa que los datos personales obtenidos mediante la cumplimentación de este documento/impreso/formulario y demás que se adjuntan van a ser incorporados, para su tratamiento, en un fichero automatizado. Asimismo, se le informa que la recogida y tratamiento de dichos datos tienen como finalidad permitir el estudio y la valoración de las solicitudes efectuadas para asignar las correspondientes ayudas. De acuerdo con lo previsto en la citada Ley Orgánica, puede ejercitar los derechos de acceso, rectificación, cancelación y oposición dirigiendo un escrito a la Dirección General de Urbanismo. Consejería de Vivienda y Ordenación del Territorio. Avda. Diego Martínez Barrios, nº 10. 41013 - SEVILLA. PROTECCIÓN DE DATOS La presentación de esta solicitud conllevará la autorización al órgano gestor para recabar las certificaciones a emitir por la Agencia Estatal de Administración Tributaria, por la Tesorería General de la Seguridad Social y por la Consejería de Economía y Hacienda de la Junta de Andalucía, que sean requeridas por la Orden de convocatoria, de acuerdo con el artículo 31.2 de la Ley 3/2004, de 28 de diciembre de Medidas Tributarias, Administrativas y Financieras. La persona abajo firmante DECLARA, bajo su expresa responsabilidad, que son ciertos cuantos datos figuran en la presente solicitud, así como en la documentación adjunta, y que:
 
-REVERSO En cumplimiento de lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Vivienda y Ordenación del Territorio le informa que los datos personales obtenidos mediante la cumplimentación de este documento/impreso/formulario y demás que se adjuntan van a ser incorporados, para su tratamiento, en un fichero automatizado. Asimismo, se le informa que la recogida y tratamiento de dichos datos tienen como finalidad permitir el estudio y la valoración de las solicitudes efectuadas para asignar las correspondientes ayudas. De acuerdo con lo previsto en la citada Ley Orgánica, puede ejercitar los derechos de acceso, rectificación, cancelación y oposición dirigiendo un escrito a la Dirección General de Urbanismo. Consejería de Vivienda y Ordenación del Territorio. Avda. Diego Martínez Barrios, nº 10. 41013 - SEVILLA. PROTECCIÓN DE DATOS La presentación de esta solicitud conllevará la autorización al órgano gestor para recabar las certificaciones a emitir por la Agencia Estatal de Administración Tributaria, por la Tesorería General de la Seguridad Social y por la Consejería de Economía y Hacienda de la Junta de Andalucía, que sean requeridas por la Orden de convocatoria, de acuerdo con el artículo 31.2 de la Ley 3/2004, de 28 de diciembre de Medidas Tributarias, Administrativas y Financieras. La persona abajo firmante DECLARA, bajo su expresa responsabilidad, que son ciertos cuantos datos figuran en la presente solicitud, así como en la documentación adjunta, y que:
 El Ayuntamiento no ha solicitado ni obtenido subvenciones o ayudas para la misma finalidad relacionada con esta solicitud. SOLICITUD, DECLARACIÓN, LUGAR, FECHA Y FIRMA Las actuaciones o fases para las que solicita la subvención no están realizadas en el momento de la solicitud. El Órgano competente para acordar la solicitud de la subvención, según la legislación vigente se compromete a financiar el resto del presupuesto no subvencionado, en su caso, teniendo en cuenta la aportación máxima de la Consejería de Vivienda y Ordenación del Territorio derivada de los criterios establecidos en la Orden de ayudas. El Ayuntamiento ha solicitado y/u obtenido otras subvenciones o ayudas para la misma finalidad relacionada con esta solicitud, procedentes de cualesquiera Administraciones o entes públicos o privados, nacionales o internacionales. Solicitadas Otras Administraciones / Entes públicos o privados, nacionales o internacionales Fecha / Año Importe € € € Concedidas Otras Administraciones / Entes públicos o privados, nacionales o internacionales Fecha / Año Importe € € € € EL/LA ALCALDE/SA - PRESIDENTE/A O PERSONA EN QUIEN DELEGUE Fdo.:
 En a de de ILMO/A. SR/A. DIRECTOR/A GENERAL DE URBANISMO DE LA CONSEJERÍA DE VIVIENDA Y ORDENACIÓN DEL TERRITORIO Se COMPROMETE a cumplir las obligaciones y requisitos exigidos por las normas de aplicación y SOLICITA la concesión de la subvención por importe de
 
@@ -550,81 +581,65 @@ Página núm. 18 Sevilla, 31 de julio 2008
 
 ANVERSO
 
-## Anexo III
-
-CONSEJERÍA DE VIVIENDA Y ORDENACIÓN DEL TERRITORIO AYUDAS A AYUNTAMIENTOS PARA LA FINANCIACION DE PLANES GENERALES DE ORDENACIÓN URBANISTICA AYUDAS PARA FORMULACION O REVISION DE PLANES GENERALES DE ORDENACION URBANISTICA. MEMORIA JUSTIFICATIVA Orden de …..….. de ………………………………….……. de …………….…. (BOJA nº …………… de fecha ……….……………………) EJERCICIO: ……………………….. DATOS DEL SOLICITANTE AYUNTAMIENTO DE CIF PLANEAMIENTO VIGENTE EN EL MUNICIPIO OBJETO DE LA SUBVENCIÓN   REVISIÓN   NUEVO PGOU PRESUPUESTO TOTAL Y DESGLOSADO DE LA ACTIVIDAD SUBVENCIONADA POR CONCEPTO O FASES FORMA DE ADJUDICACIÓN DE LOS TRABAJOS
+## Anexo III. CONSEJERÍA DE VIVIENDA Y ORDENACIÓN DEL TERRITORIO AYUDAS A AYUNTAMIENTOS PARA LA FINANCIACION DE PLANES GENERALES DE ORDENACIÓN URBANISTICA AYUDAS PARA FORMULACION O REVISION DE PLANES GENERALES DE ORDENACION URBANISTICA. MEMORIA JUSTIFICATIVA Orden de …..….. de ………………………………….……. de …………….…. (BOJA nº …………… de fecha ……….……………………) EJERCICIO: ……………………….. DATOS DEL SOLICITANTE AYUNTAMIENTO DE CIF PLANEAMIENTO VIGENTE EN EL MUNICIPIO OBJETO DE LA SUBVENCIÓN   REVISIÓN   NUEVO PGOU PRESUPUESTO TOTAL Y DESGLOSADO DE LA ACTIVIDAD SUBVENCIONADA POR CONCEPTO O FASES FORMA DE ADJUDICACIÓN DE LOS TRABAJOS
 
 Sevilla, 31 de julio 2008 Página núm. 19
 
 REVERSO
 
-## Anexo III
+## Anexo III. PLAZO PREVISTO PARA EL DESARROLLO Y LA EJECUCIÓN DE LOS TRABAJOS DECLARACION, LUGAR FECHA Y FIRMA:
 
-PLAZO PREVISTO PARA EL DESARROLLO Y LA EJECUCIÓN DE LOS TRABAJOS DECLARACION, LUGAR FECHA Y FIRMA:
 El/la abajo firmante DECLARA, bajo su responsabilidad, que son ciertos los datos que figuran en el presente Anexo, al amparo de la Orden arriba reseñada. En ………………………………………………..…………………….., a …………..… de ………………………………….………………………….. de ……………………… EL/LA ALCALDE/SA - PRESIDENTE/A EL TECNICO MUNICIPAL Fdo.: ………………………………………………………….……………… Fdo.: ………………………………………………………………………
 
 Página núm. 20 Sevilla, 31 de julio 2008
 
 ANVERSO
 
-## Anexo IV
-
-CONSEJERÍA DE VIVIENDA Y ORDENACIÓN DEL TERRITORIO AYUDAS A AYUNTAMIENTOS PARA LA FINANCIACION DE PLANES GENERALES DE ORDENACIÓN URBANISTICA AYUDAS PARA LA ADAPTACION PARCIAL DE PLANES GENERALES DE ORDENACION URBANISTICA. MEMORIA JUSTIFICATIVA Orden de …..….. de ………………………………….……. de …………….…. (BOJA nº …………… de fecha ……….……………………) EJERCICIO: ……………………….. DATOS DEL SOLICITANTE AYUNTAMIENTO DE CIF PLANEAMIENTO GENERAL VIGENTE EN EL MUNICIPIO Especificar si existe planeamiento general en tramitación. JUSTIFICACION DE LA ADAPTACION PRESUPUESTO TOTAL Y DESGLOSADO DE LA ACTIVIDAD SUBVENCIONADA POR CONCEPTO O FASES FORMA DE ADJUDICACIÓN DE LOS TRABAJOS
+## Anexo IV. CONSEJERÍA DE VIVIENDA Y ORDENACIÓN DEL TERRITORIO AYUDAS A AYUNTAMIENTOS PARA LA FINANCIACION DE PLANES GENERALES DE ORDENACIÓN URBANISTICA AYUDAS PARA LA ADAPTACION PARCIAL DE PLANES GENERALES DE ORDENACION URBANISTICA. MEMORIA JUSTIFICATIVA Orden de …..….. de ………………………………….……. de …………….…. (BOJA nº …………… de fecha ……….……………………) EJERCICIO: ……………………….. DATOS DEL SOLICITANTE AYUNTAMIENTO DE CIF PLANEAMIENTO GENERAL VIGENTE EN EL MUNICIPIO Especificar si existe planeamiento general en tramitación. JUSTIFICACION DE LA ADAPTACION PRESUPUESTO TOTAL Y DESGLOSADO DE LA ACTIVIDAD SUBVENCIONADA POR CONCEPTO O FASES FORMA DE ADJUDICACIÓN DE LOS TRABAJOS
 
 Sevilla, 31 de julio 2008 Página núm. 21
 
 REVERSO
 
-## Anexo IV
+## Anexo IV. PLAZO PREVISTO PARA EL DESARROLLO Y LA EJECUCIÓN DE LOS TRABAJOS DECLARACION, LUGAR FECHA Y FIRMA:
 
-PLAZO PREVISTO PARA EL DESARROLLO Y LA EJECUCIÓN DE LOS TRABAJOS DECLARACION, LUGAR FECHA Y FIRMA:
 El/la abajo firmante DECLARA, bajo su responsabilidad, que son ciertos los datos que figuran en el presente Anexo, al amparo de la Orden arriba reseñada. En ………………………………………………..…………………….., a …………..… de ………………………………….………………………….. de ……………………… EL/LA ALCALDE/SA - PRESIDENTE/A EL TECNICO MUNICIPAL Fdo.: ………………………………………………………….……………… Fdo.: ………………………………………………………………………
 
 Página núm. 22 Sevilla, 31 de julio 2008
 
 ANVERSO
 
-## Anexo V
-
-CONSEJERÍA DE VIVIENDA Y ORDENACIÓN DEL TERRITORIO AYUDAS A AYUNTAMIENTOS PARA LA FINANCIACION DE PLANES GENERALES DE ORDENACIÓN URBANISTICA AYUDAS PARA ACTUACIONES DE PARTICIPACION PÚBLICA. MEMORIA JUSTIFICATIVA Orden de …..….. de ………………………………….……. de …………….…. (BOJA nº …………… de fecha ……….……………………) EJERCICIO: ……………………….. DATOS DEL SOLICITANTE AYUNTAMIENTO DE CIF PLANEAMIENTO VIGENTE EN EL MUNICIPIO OBJETO DE LA SUBVENCIÓN   EXPOSICION DEL PLAN   EDICION DE FOLLETO DE SINTESIS DE LOS OBJETIVOS Y PROPUESTAS DEL PLAN   CONFERENCIAS, MESAS REDONDAS, SEMINARIOS O JORNADAS   DIVULGACION ENTRE LAS ASOCIACIONES VECINALES   PUBLICIDAD DEL PROCESO   OTROS: …………………………………………………………………………………………………………………………………………………………. DESCRIPCION DEL OBJETO DE LA SUBVENCION (Art. 27) PRESUPUESTO TOTAL Y DESGLOSADO DE LA ACTIVIDAD SUBVENCIONADA POR CONCEPTO O FASES
+## Anexo V. CONSEJERÍA DE VIVIENDA Y ORDENACIÓN DEL TERRITORIO AYUDAS A AYUNTAMIENTOS PARA LA FINANCIACION DE PLANES GENERALES DE ORDENACIÓN URBANISTICA AYUDAS PARA ACTUACIONES DE PARTICIPACION PÚBLICA. MEMORIA JUSTIFICATIVA Orden de …..….. de ………………………………….……. de …………….…. (BOJA nº …………… de fecha ……….……………………) EJERCICIO: ……………………….. DATOS DEL SOLICITANTE AYUNTAMIENTO DE CIF PLANEAMIENTO VIGENTE EN EL MUNICIPIO OBJETO DE LA SUBVENCIÓN   EXPOSICION DEL PLAN   EDICION DE FOLLETO DE SINTESIS DE LOS OBJETIVOS Y PROPUESTAS DEL PLAN   CONFERENCIAS, MESAS REDONDAS, SEMINARIOS O JORNADAS   DIVULGACION ENTRE LAS ASOCIACIONES VECINALES   PUBLICIDAD DEL PROCESO   OTROS: …………………………………………………………………………………………………………………………………………………………. DESCRIPCION DEL OBJETO DE LA SUBVENCION (Art. 27) PRESUPUESTO TOTAL Y DESGLOSADO DE LA ACTIVIDAD SUBVENCIONADA POR CONCEPTO O FASES
 
 Sevilla, 31 de julio 2008 Página núm. 23
 
 REVERSO
 
-## Anexo V
+## Anexo V. DECLARACION, LUGAR FECHA Y FIRMA:
 
-DECLARACION, LUGAR FECHA Y FIRMA:
 El/la abajo firmante DECLARA, bajo su responsabilidad, que son ciertos los datos que figuran en el presente Anexo, al amparo de la Orden arriba reseñada. En ………………………………………………..…………………….., a …………..… de ………………………………….………………………….. de ……………………… EL/LA ALCALDE/SA - PRESIDENTE/A EL TECNICO MUNICIPAL Fdo.: ………………………………………………………….……………… Fdo.: ………………………………………………………………………
 
 Página núm. 24 Sevilla, 31 de julio 2008
 
 ANVERSO
 
-## Anexo VI
-
-CONSEJERÍA DE VIVIENDA Y ORDENACIÓN DEL TERRITORIO AYUDAS A AYUNTAMIENTOS PARA LA FINANCIACION DE PLANES GENERALES DE ORDENACIÓN URBANISTICA AYUDAS PARA LA DIFUSION DEL PLANEAMIENTO. MEMORIA JUSTIFICATIVA Orden de …..….. de ………………………………….……. de …………….…. (BOJA nº …………… de fecha ……….……………………) EJERCICIO: ……………………….. DATOS DEL SOLICITANTE AYUNTAMIENTO DE CIF PLANEAMIENTO VIGENTE EN EL MUNICIPIO OBJETO DE LA SUBVENCIÓN   EDICION DE DOCUMENTOS DE SINTESIS DEL PLANEAMIENTO URBANISTICO GENERAL VIGENTE   INCORPORACION A LA PAGINA WEB MUNICIPAL DEL CONTENIDO COMPLETO DEL PLANEAMIENTO URBANISTICO GENERAL DESCRIPCION DEL OBJETO DE LA SUBVENCION (Art. 30) PRESUPUESTO TOTAL Y DESGLOSADO DE LA ACTIVIDAD SUBVENCIONADA POR CONCEPTO O FASES
+## Anexo VI. CONSEJERÍA DE VIVIENDA Y ORDENACIÓN DEL TERRITORIO AYUDAS A AYUNTAMIENTOS PARA LA FINANCIACION DE PLANES GENERALES DE ORDENACIÓN URBANISTICA AYUDAS PARA LA DIFUSION DEL PLANEAMIENTO. MEMORIA JUSTIFICATIVA Orden de …..….. de ………………………………….……. de …………….…. (BOJA nº …………… de fecha ……….……………………) EJERCICIO: ……………………….. DATOS DEL SOLICITANTE AYUNTAMIENTO DE CIF PLANEAMIENTO VIGENTE EN EL MUNICIPIO OBJETO DE LA SUBVENCIÓN   EDICION DE DOCUMENTOS DE SINTESIS DEL PLANEAMIENTO URBANISTICO GENERAL VIGENTE   INCORPORACION A LA PAGINA WEB MUNICIPAL DEL CONTENIDO COMPLETO DEL PLANEAMIENTO URBANISTICO GENERAL DESCRIPCION DEL OBJETO DE LA SUBVENCION (Art. 30) PRESUPUESTO TOTAL Y DESGLOSADO DE LA ACTIVIDAD SUBVENCIONADA POR CONCEPTO O FASES
 
 Sevilla, 31 de julio 2008 Página núm. 25
 
 REVERSO
 
-## Anexo VI
+## Anexo VI. PLAZO PREVISTO PARA EL DESARROLLO Y LA EJECUCIÓN DE LOS TRABAJOS DECLARACION, LUGAR FECHA Y FIRMA:
 
-PLAZO PREVISTO PARA EL DESARROLLO Y LA EJECUCIÓN DE LOS TRABAJOS DECLARACION, LUGAR FECHA Y FIRMA:
 El/la abajo firmante DECLARA, bajo su responsabilidad, que son ciertos los datos que figuran en el presente Anexo, al amparo de la Orden arriba reseñada. En ………………………………………………..…………………….., a …………..… de ………………………………….………………………….. de ……………………… EL/LA ALCALDE/SA - PRESIDENTE/A EL TECNICO MUNICIPAL Fdo.: ………………………………………………………….……………… Fdo.: ………………………………………………………………………
 
 Página núm. 26 Sevilla, 31 de julio 2008
 
 ANVERSO
 
-## Anexo VII
+## Anexo VII. CONSEJERÍA DE VIVIENDA Y ORDENACIÓN DEL TERRITORIO AYUDAS A LOS AYUNTAMIENTOS PARA LA FINANCIACIÓN DE ACTUACIONES RELACIONADAS CON LA GESTIÓN Y EJECUCIÓN DEL PLANEAMIENTO URBANÍSTICO MUNICIPAL. MEMORIA JUSTIFICATIVA Orden de …..….. de ………………………………….……. de …………….…. (BOJA nº …………… de fecha ……….……………………) EJERCICIO: ……………………….. DATOS DE LA ENTIDAD SOLICITANTE NOMBRE CIF PLANEAMIENTO GENERAL VIGENTE EN EL MUNICIPIO DESCRIPCIÓN DE LAS ACTUACIONES, ALCANCE, OBJETIVOS, JUSTIFICACIÓN DE LAS ACTUACIONES CON RELACIÓN AL PLANEAMIENTO GENERAL VIGENTE EN EL MUNICIPIO Y PROGRAMA TEMPORAL DE DESARROLLO DE LAS ACTUACIONES, PARA LAS AYUDAS CONTENIDAS EN LA SECCIÓN 2ª DEL
 
-CONSEJERÍA DE VIVIENDA Y ORDENACIÓN DEL TERRITORIO AYUDAS A LOS AYUNTAMIENTOS PARA LA FINANCIACIÓN DE ACTUACIONES RELACIONADAS CON LA GESTIÓN Y EJECUCIÓN DEL PLANEAMIENTO URBANÍSTICO MUNICIPAL. MEMORIA JUSTIFICATIVA Orden de …..….. de ………………………………….……. de …………….…. (BOJA nº …………… de fecha ……….……………………) EJERCICIO: ……………………….. DATOS DE LA ENTIDAD SOLICITANTE NOMBRE CIF PLANEAMIENTO GENERAL VIGENTE EN EL MUNICIPIO DESCRIPCIÓN DE LAS ACTUACIONES, ALCANCE, OBJETIVOS, JUSTIFICACIÓN DE LAS ACTUACIONES CON RELACIÓN AL PLANEAMIENTO GENERAL VIGENTE EN EL MUNICIPIO Y PROGRAMA TEMPORAL DE DESARROLLO DE LAS ACTUACIONES, PARA LAS AYUDAS CONTENIDAS EN LA SECCIÓN 2ª DEL
-
-### Capítulo IV
-
-#### Sección 1. Actuaciones de gestión y ejecución del Planeamiento Urbanístico Municipal.
+### Capítulo IV. #### Sección 1. Actuaciones de gestión y ejecución del Planeamiento Urbanístico Municipal.
 
  Redacción de los Planes Especiales necesarios para la ordenación de los sistemas generales, áreas con características o problemáticas singulares del municipio y Centros Históricos.  Actuaciones para la puesta en marcha de sistemas de gestión pública del planeamiento y de instrumentos de intervención en el mercado del suelo previsto en la Ley 7/2002, de 17 de diciembre, relacionados con la obtención de suelo para Sistemas Generales o para el Patrimonio Municipal de Suelo, salvo las actuaciones subvencionadas en el Plan Andaluz de Vivienda y Suelo vigente.  Actividades de gestión y ejecución que se realicen en desarrollo del Planeamiento de Protección de Centros Históricos.  Actuaciones para el asesoramiento y asistencia técnica para la constitución expresa y/o gestión de los registros públicos del Patrimonio Municipal de Suelo o Municipal de Solares.
 
@@ -636,9 +651,8 @@ Sevilla, 31 de julio 2008 Página núm. 27
 
 REVERSO
 
-## Anexo VII
+## Anexo VII. FORMA DE EJECUCIÓN DE LOS TRABAJOS, PERSONAL EXTERNO A LA ESTRUCTURA MUNICIPAL QUE SE PREVEA NECESARIO CONTRATAR PARA LA REALIZACIÓN DE LOS TRABAJOS, ASÍ COMO LA FORMA DE CONTRATACIÓN DE LOS MISMOS. DECLARACION, LUGAR FECHA Y FIRMA:
 
-FORMA DE EJECUCIÓN DE LOS TRABAJOS, PERSONAL EXTERNO A LA ESTRUCTURA MUNICIPAL QUE SE PREVEA NECESARIO CONTRATAR PARA LA REALIZACIÓN DE LOS TRABAJOS, ASÍ COMO LA FORMA DE CONTRATACIÓN DE LOS MISMOS. DECLARACION, LUGAR FECHA Y FIRMA:
 El/la abajo firmante DECLARA, bajo su responsabilidad, que son ciertos los datos que figuran en el presente Anexo, al amparo de la Orden arriba reseñada. En ………………………………………………..…………………….., a …………..… de ………………………………….………………………….. de ……………………… EL/LA ALCALDE/SA - PRESIDENTE/A EL TECNICO MUNICIPAL Fdo.: ………………………………………………………….……………… Fdo.: ………………………………………………………………………
 
 Página núm. 28 Sevilla, 31 de julio 2008
@@ -648,18 +662,15 @@ en calidad de Secretario/a de en cumplimiento de lo establecido en la Orden de l
 C E R T I F I C A 1º.- Que en sesión extraordinaria celebrada por (1) de la misma, tomó posesión del cargo de Alcalde(sa)-Presidente(a)/Presidente(a) de este Ayuntamiento/Entidad Local D/Dña. cargo que ostenta en la actualidad. el día 2º.- Que por (1) el día con DNI nº de de , según consta en el acta de En de , se aprobó solicitar la subvención objeto de la solicitud.
 (1) Órgano competente para acordar la solicitud de la subvención según la legislación vigente.
 
-## Anexo VIII
-
-CERTIFICACIÓN ACREDITATIVA DE LA CONDICIÓN DE ALCALDE/SA O PRESIDENTE/A DE LA ENTIDAD LOCAL AYUDAS A LOS AYUNTAMIENTOS PARA LA FINANCIACIÓN DE ACTUACIONES EN MATERIA DE URBANISMO
+## Anexo VIII. CERTIFICACIÓN ACREDITATIVA DE LA CONDICIÓN DE ALCALDE/SA O PRESIDENTE/A DE LA ENTIDAD LOCAL AYUDAS A LOS AYUNTAMIENTOS PARA LA FINANCIACIÓN DE ACTUACIONES EN MATERIA DE URBANISMO
 
 Sevilla, 31 de julio 2008 Página núm. 29
 
 (001393/A09) DATOS DEL AYUNTAMIENTO BENEFICIARIO AYUNTAMIENTO CIF APELLIDOS Y NOMBRE DEL/DE LA ALCALDE/SA-PRESIDENTE/A DNI/NIE DIRECCIÓN PROVINCIA C. POSTAL FAX TELÉFONO CORREO ELECTRÓNICO LOCALIDAD DATOS DE LA SUBVENCIÓN Nº EXPEDIENTE:
 CONSEJERÍA DE VIVIENDA Y ORDENACIÓN DEL TERRITORIO
 
-## Anexo IX
+## Anexo IX. EJERCICIO Orden de de de (BOJA nº de fecha JUSTIFICACIÓN DE LA SUBVENCIÓN OBJETO:
 
-EJERCICIO Orden de de de (BOJA nº de fecha JUSTIFICACIÓN DE LA SUBVENCIÓN OBJETO:
 FECHA RESOLUCIÓN:
 CUANTÍA:
 La persona abajo firmante CERTIFICA:
@@ -668,3 +679,19 @@ EL/LA SECRETARIO/A Fdo.:
 En a de de ILMO/A. SR/A. DIRECTOR/A GENERAL DE URBANISMO DE LA CONSEJERÍA DE VIVIENDA Y ORDENACIÓN DEL TERRITORIO Que con fecha de de , ha sido ingresada la cantidad de €, correspondiente a la subvención concedida por la Consejería de Vivienda y Ordenación del Territorio, con destino a quedando registrada en la contabilidad de esta entidad con el número de asiento Que con fecha de de , se acordó la exposición pública del Documento de habiendo sido publicado mediante anuncio Que con fecha de de , se ha constituido la oficina técnica municipal para la realización de actividades de gestión y ejecución que se realicen en áreas con características o problemáticas singulares del municipio, o en desarrollo del Planeamiento de Protección de Centros Históricos y/o se han contratado a los/as técnicos/as correspondientes. Que todos los documentos justificantes de los gastos efectuados, relacionados en el apartado anterior, han sido convenientemente estampillados para que conste su exclusiva aplicación a la presente subvención y que quedan custodiados y a disposición de la Consejería de Vivienda y Ordenación del Territorio y demás órganos de control y fiscalización. Que dicha subvención ha sido aplicada a la finalidad para la que se concedió, habiendose realizado con cargo a la misma los gastos que a continuación se indican:
 Acreditación del procedimiento de contratación seguido y copia del contrato suscrito para la elaboración del documento aprobado. Facturas y/o documentos de valor probatorio equivalente con validez en el tráfico jurídico mercantil o con eficacia administrativa. Documento técnico en soporte digital y papel. Memoria de participación con las actuaciones habidas y su análisis para el caso de ayudas contenidas en el Capitulo III. Sección 1ª. Documento de síntesis del Planeamiento para el caso de las ayudas contenidas en el Capitulo III. Sección 2ª. Copia de los contratos suscritos por los/as técnicos/as contratados para la puesta en marcha de una oficina técnica municipal para la realización de actividades de gestión y ejecución que se realicen en áreas con características o problemáticas singulares del municipio, o en desarrollo del Planeamiento de Protección de Centros Históricos. Que en sesión extraordinaria celebrada por (1) el día de de , según consta en el acta de la misma, se aprobó (2) habiendo sido publicado mediante anuncio en PERCEPTOR/A DNI/NIE/CIF Nº O IDENTIFICACIÓN DEL JUSTIFICANTE IMPORTE Documentación que se acompaña:
 (1) Indicar el órgano competente según la legislación vigente. (2) Indicar la fase de planeamiento aprobada. € € € AYUDAS A LOS AYUNTAMIENTOS PARA LA FINANCIACIÓN DE ACTUACIONES EN MATERIA DE URBANISMO 1º APELLIDO 2º APELLIDO NOMBRE T.VÍA VÍA Nº PISO PUERTA ESCALERA T.VÍA VÍA Nº PISO PUERTA ESCALERA
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-c-1978` desde *(Capítulo IV. De las ayudas para la financiación de actuaciones relacionadas con la gestión y ejecución del planeamiento urbanístico municipal., Art. 33)*
+- **Desarrolla**: `norm-es-c-1978` desde *(Capítulo IV)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: `norm-es-c-1978` (Capítulo II, Sección 2.ª, Art. 56, Art. 3, Art. 9, Art. 25, Art. 47, Art. 46, Art. 26, Art. 107)
+- **Fundamentado en**: [**D254_2001 Atencion Alumnado Trastornos Desarrollo Andalucia**](../06_atencion_diversidad_y_orientacion/D254_2001_atencion_alumnado_trastornos_desarrollo_andalucia.md) (Art. 13) desde *(Capítulo I, Art. 10)*
+- **Fundamentado en**: [**BOE-A-1999-23750**](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) (Art. 31) desde *(Capítulo IV. De las ayudas para la financiación de actuaciones relacionadas con la gestión y ejecución del planeamiento urbanístico municipal., D. Final segunda. Entrada en vigor y vigencia.)*
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**D254_2001 Atencion Alumnado Trastornos Desarrollo Andalucia**](../06_atencion_diversidad_y_orientacion/D254_2001_atencion_alumnado_trastornos_desarrollo_andalucia.md) desde *(Capítulo I, Art. 2)*

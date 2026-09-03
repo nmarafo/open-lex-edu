@@ -38,15 +38,182 @@ tags:
 - profesorado
 - titulacion
 relaciones:
-  desarrolla:
+  cita:
   - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 7
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 7
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 7
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 94
+    - Art. 95
+    - Art. 97
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 94
+    - Art. 95
+    - Art. 97
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 94
+    - Art. 95
+    - Art. 97
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Adicional primera. Formación pedagógica y didáctica del profesorado que no.
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Adicional primera. Formación pedagógica y didáctica del profesorado que no.
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Adicional primera. Formación pedagógica y didáctica del profesorado que no.
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-2001-7022
+    articulos_origen:
+    - D. Adicional segunda. Profesorado de cuerpos declarados a extinguir.
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Transitoria tercera. Acreditación de formación pedagógica y didáctica.
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Transitoria tercera. Acreditación de formación pedagógica y didáctica.
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Transitoria tercera. Acreditación de formación pedagógica y didáctica.
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-lo-3-2020
+    articulos_origen:
+    - D. Adicional undécima. de la Ley Orgánica 3/2020, de 29 de diciembre, por la
+      que se.
   fundamentado_en:
   - norma_id: norm-es-2001-7022
+    articulos_origen:
+    - D. Adicional sexta. del Real Decreto 1147/2011, de 29 de julio, por el que se.
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Transitoria tercera. Acreditación de formación pedagógica y didáctica.
+    articulos_destino:
+    - Art. 100
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-2001-7022
+    articulos_origen:
+    - D. Transitoria tercera. Acreditación de formación pedagógica y didáctica.
+    articulos_destino:
+    - Art. 100
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Transitoria tercera. Acreditación de formación pedagógica y didáctica.
+    articulos_destino:
+    - Art. 100
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Transitoria tercera. Acreditación de formación pedagógica y didáctica.
+    articulos_destino:
+    - Art. 100
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final primera. Título competencial.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
   - norma_id: norm-es-2005-21534
   - norma_id: norm-es-2007-22017
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2021-20113
   - norma_id: norm-es-ce-1978
+  concordancia:
+  - norma_id: norm-es-2005-21534
+    articulos_origen:
+    - D. Adicional sexta. del Real Decreto 1147/2011, de 29 de julio, por el que se.
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Adicional séptima. Formación pedagógica y didáctica para ejercer la docencia.
+    articulos_destino:
+    - Art. 9
+    - Art. 96
+    - Art. 98
+    - Art. 100
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Adicional séptima. Formación pedagógica y didáctica para ejercer la docencia.
+    articulos_destino:
+    - Art. 9
+    - Art. 96
+    - Art. 98
+    - Art. 100
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Adicional séptima. Formación pedagógica y didáctica para ejercer la docencia.
+    articulos_destino:
+    - Art. 9
+    - Art. 96
+    - Art. 98
+    - Art. 100
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Adicional undécima. de la Ley Orgánica 3/2020, de 29 de diciembre, por la
+      que se.
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Adicional undécima. de la Ley Orgánica 3/2020, de 29 de diciembre, por la
+      que se.
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Adicional undécima. de la Ley Orgánica 3/2020, de 29 de diciembre, por la
+      que se.
+  - norma_id: norm-es-2023-9553
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+  - norma_id: norm-es-2015-8043
+    articulos_origen:
+    - D. Transitoria única.1.... y en el calendario de implantación regulado en la
+      disposición.
+    disposiciones_destino:
+    - D. Final 5
+  - norma_id: norm-es-2016-3229
+    articulos_origen:
+    - D. Transitoria única.1.... y en el calendario de implantación regulado en la
+      disposición.
+    disposiciones_destino:
+    - D. Final 5
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
   - norma_id: norm-es-2010-11426
   - norma_id: norm-es-2011-13117
@@ -57,19 +224,17 @@ relaciones:
   - norma_id: norm-es-2022-16194
   - norma_id: norm-es-2023-9553
   - norma_id: norm-es-2025-16039
-  - norma_id: norm-can-o-2013-10-09
-  - norma_id: norm-can-res-135
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '27'
+  - norma_id: '27'
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-2005-21534
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2007-22017
 ---
+
 # Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria.
 
 ## Preámbulo
@@ -244,3 +409,55 @@ final 9 del citado Real Decreto.
 #### Disposición final 1.... del citado Real Decreto.
 
 Este documento es de carácter informativo y no tiene valor jurídico.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(D. Adicional undécima. de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se.)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(D. Adicional undécima. de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(D. Adicional undécima. de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se.)*
+- **Modifica**: [**BOE-A-2023-9553**](../08_personal_docente/RD286_2023_regula_asignacion_materias_educacion_secundaria_obligatoria.md) desde *(D. Final tercera. Entrada en vigor.)*
+- **Modifica**: [**BOE-A-2015-8043**](./RD665_2015_desarrollan_determinadas_disposiciones_relativas_ejercicio_docencia.md) (D. Final 5) desde *(D. Transitoria única.1.... y en el calendario de implantación regulado en la disposición.)*
+- **Modifica**: [**BOE-A-2016-3229**](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md) (D. Final 5) desde *(D. Transitoria única.1.... y en el calendario de implantación regulado en la disposición.)*
+- **Fundamentado en**: [**BOE-A-2001-7022**](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) desde *(D. Adicional sexta. del Real Decreto 1147/2011, de 29 de julio, por el que se.)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 100, D. Adicional primera) desde *(D. Transitoria tercera. Acreditación de formación pedagógica y didáctica.)*
+- **Fundamentado en**: [**BOE-A-2001-7022**](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (Art. 100, D. Adicional primera) desde *(D. Transitoria tercera. Acreditación de formación pedagógica y didáctica.)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 100, D. Adicional primera) desde *(D. Transitoria tercera. Acreditación de formación pedagógica y didáctica.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 100, D. Adicional primera) desde *(D. Transitoria tercera. Acreditación de formación pedagógica y didáctica.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(D. Final primera. Título competencial.)*
+- **Fundamentado en**: [**BOE-A-2005-21534**](../03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md)
+- **Fundamentado en**: [**BOE-A-2007-22017**](../08_personal_docente/R17_12_2007_secretaria_estado_universidades_e_investigacion_publica.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamento de**: [**BOE-A-2010-11426**](./RD860_2010_regulan_condiciones_formacion_inicial_profesorado_centros.md)
+- **Fundamento de**: [**BOE-A-2011-13117**](./RD1146_2011_modifica_real_decreto_esteblecen_ensenanzas_minimas.md)
+- **Fundamento de**: [**BOE-A-2011-15628**](../08_personal_docente/Osn_edu_establece_formacion_equivalente_formacion_pedagogica.md)
+- **Fundamento de**: [**BOE-A-2011-16923**](../08_personal_docente/Osn_edu_regula_convocatoria_reconocimiento_certificacion_registro.md)
+- **Fundamento de**: [**BOE-A-2013-6281**](../08_personal_docente/Osn_ecd_modifica_orden_edu_establece_formacion.md)
+- **Fundamento de**: [**BOE-A-2015-8043**](./RD665_2015_desarrollan_determinadas_disposiciones_relativas_ejercicio_docencia.md)
+- **Fundamento de**: [**BOE-A-2022-16194**](../08_personal_docente/RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md)
+- **Fundamento de**: [**BOE-A-2023-9553**](../08_personal_docente/RD286_2023_regula_asignacion_materias_educacion_secundaria_obligatoria.md)
+- **Fundamento de**: [**BOE-A-2025-16039**](../03_ordenacion_curricular_y_ensenanzas/R24_7_2025_secretaria_estado_educacion_dictan_instrucciones_relativas.md)
+- **En concordancia con**: [**BOE-A-2005-21534**](../03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md) desde *(D. Adicional sexta. del Real Decreto 1147/2011, de 29 de julio, por el que se.)*
+- **En concordancia con**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 9, Art. 96, Art. 98, Art. 100) desde *(D. Adicional séptima. Formación pedagógica y didáctica para ejercer la docencia.)*
+- **En concordancia con**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 9, Art. 96, Art. 98, Art. 100) desde *(D. Adicional séptima. Formación pedagógica y didáctica para ejercer la docencia.)*
+- **En concordancia con**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 9, Art. 96, Art. 98, Art. 100) desde *(D. Adicional séptima. Formación pedagógica y didáctica para ejercer la docencia.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Art. 1)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Art. 1)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Art. 1)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Art. 7)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Art. 7)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Art. 7)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 94, Art. 95, Art. 97) desde *(Art. 9)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 94, Art. 95, Art. 97) desde *(Art. 9)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 94, Art. 95, Art. 97) desde *(Art. 9)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 100) desde *(D. Adicional primera. Formación pedagógica y didáctica del profesorado que no.)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 100) desde *(D. Adicional primera. Formación pedagógica y didáctica del profesorado que no.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 100) desde *(D. Adicional primera. Formación pedagógica y didáctica del profesorado que no.)*
+- **Cita a**: [**BOE-A-2001-7022**](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) desde *(D. Adicional segunda. Profesorado de cuerpos declarados a extinguir.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 100) desde *(D. Transitoria tercera. Acreditación de formación pedagógica y didáctica.)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 100) desde *(D. Transitoria tercera. Acreditación de formación pedagógica y didáctica.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 100) desde *(D. Transitoria tercera. Acreditación de formación pedagógica y didáctica.)*
+- **Cita a**: `norm-es-lo-3-2020` desde *(D. Adicional undécima. de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se.)*

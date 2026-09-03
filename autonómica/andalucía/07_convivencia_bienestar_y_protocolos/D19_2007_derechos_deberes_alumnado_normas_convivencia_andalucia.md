@@ -27,6 +27,8 @@ tags:
 - comision_convivencia
 - andalucia
 relaciones:
+  cita:
+  - norma_id: norm-and-d19-2007
   desarrolla:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-8-2021
@@ -36,6 +38,7 @@ relaciones:
   - norma_id: norm-es-lo-8-2021
   - norma_id: norm-es-lo-1-1996
 ---
+
 # Decreto 19/2007, de 23 de enero, por el que se adoptan medidas para la promoción de la convivencia en los centros docentes sostenidos con fondos públicos y se regula el derecho a las familias a participar en el proceso educativo de sus hijos e hijas.
 
 ## Preámbulo
@@ -82,8 +85,6 @@ Boletín 25
 
 ##
 
-Histórico del BOJA Boletín número 25 de 02/02/2007
-
 ## 1. Disposiciones generales
 
 ### Consejería de Innovación, Ciencia y Empresa
@@ -103,7 +104,9 @@ Esta segunda convocatoria, como la anterior, de los Premios Sociedad de la Infor
 
 En su virtud, en uso de las facultades conferidas por el artículo 46.4 de la ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, y a propuesta de la Secretaría General de Telecomunicaciones y Sociedad de la Información,
 
-DISPONGO artículo 1 Objeto. El objeto de la presente Orden es regular la convocatoria de los "II Premios Sociedad de la Información Andaluza" que tendrá las siguientes modalidades:
+DISPONGO:
+
+#### Artículo . #### Artículo 1. Objeto. El objeto de la presente Orden es regular la convocatoria de los "II Premios Sociedad de la Información Andaluza" que tendrá las siguientes modalidades:
 
 **1.1.** Empresa TIC del año. Destinado al reconocimiento de la trayectoria empresarial de la compañía andaluza que más haya destacado en el sector TIC.
 
@@ -237,3 +240,16 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- **Cita a**: [**Decreto 19/2007, de 23 de enero, por el que se adoptan medidas para la prom**](./D19_2007_promocion_cultura_paz_mejora_convivencia_centros_andalucia.md)

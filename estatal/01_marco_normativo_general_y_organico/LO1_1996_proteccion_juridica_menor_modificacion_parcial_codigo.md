@@ -25,7 +25,117 @@ tags:
 - titulacion
 - tutela-guarda
 relaciones:
+  desarrolla:
+  - norma_id: norm-es-lo-1-1982
+    titulo_origen: Título II. Actuaciones en situación de desprotección social del
+      menor e instituciones de protección de menores
+    articulos_origen:
+    - D. Final decimoquinta. Disposición final decimosexta.
+    titulo_destino: Título I
+    capitulo_destino: Capítulo III
+    articulos_destino:
+    - Art. 158
+    - Art. 173
+    - Art. 9
+    - Art. 211
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II. Actuaciones en situación de desprotección social del
+      menor e instituciones de protección de menores
+    articulos_origen:
+    - D. Final decimoquinta. Disposición final decimosexta.
+    titulo_destino: Título I
+    capitulo_destino: Capítulo III
+    articulos_destino:
+    - Art. 158
+    - Art. 173
+    - Art. 9
+    - Art. 211
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II. Actuaciones en situación de desprotección social del
+      menor e instituciones de protección de menores
+    capitulo_origen: Capítulo II. Derechos del menor.
+    articulos_origen:
+    - Art. 7
+  cita:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II. Actuaciones en situación de desprotección social del
+      menor e instituciones de protección de menores
+    capitulo_origen: Capítulo II. Derechos del menor.
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2000-544
+    titulo_origen: Título II. Actuaciones en situación de desprotección social del
+      menor e instituciones de protección de menores
+    capitulo_origen: Capítulo IV. Medidas y principios rectores de la acción administrativa.
+    articulos_origen:
+    - Art. 10
+  - norma_id: norm-es-lo-1-2004
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Actuaciones en situaciones de desprotección social
+      del menor.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-lo-5-2000
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Actuaciones en situaciones de desprotección social
+      del menor.
+    articulos_origen:
+    - Art. 17 bis
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Actuaciones en situaciones de desprotección social
+      del menor.
+    articulos_origen:
+    - Art. 22
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo IV. Centros de protección específicos de menores con
+      problemas de conducta.
+    articulos_origen:
+    - Art. 31
+    titulo_destino: Título IX
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo IV. Centros de protección específicos de menores con
+      problemas de conducta.
+    articulos_origen:
+    - D. Final segunda.
+    articulos_destino:
+    - Art. 9
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo IV. Centros de protección específicos de menores con
+      problemas de conducta.
+    articulos_origen:
+    - D. Final octava. El artículo 174.2 del Código Civil queda redactado como sigue:.
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo IV. Centros de protección específicos de menores con
+      problemas de conducta.
+    articulos_origen:
+    - D. Final vigésima.... primera.
+    articulos_destino:
+    - Art. 10
+    - Art. 21
+    - Art. 23
+    - Art. 149
+    disposiciones_destino:
+    - D. Transitoria única
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo IV. Centros de protección específicos de menores con
+      problemas de conducta.
+    articulos_origen:
+    - D. Final vigésima.... primera.
+    articulos_destino:
+    - Art. 149
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-lo-1-1982
   fundamento_de:
@@ -36,64 +146,17 @@ relaciones:
   - norma_id: norm-es-lo-3-2018
   - norma_id: norm-es-lo-5-2000
   - norma_id: norm-es-lo-8-2021
-  - norma_id: norm-can-res-juriscan-69937-120
-  - norma_id: norm-can-res-125
-  - norma_id: norm-can-o-7-6-2007
-  - norma_id: norm-can-d-25-2018
-  - norma_id: norm-can-o-1-9-2010
-  - norma_id: norm-can-res-juriscan-64838-121
-  - norma_id: norm-can-d-23-1995
-  - norma_id: norm-can-res-juriscan-72882-123
-  - norma_id: norm-can-l-16-2003
-  - norma_id: norm-can-res-boc-2018-086-122
-  - norma_id: norm-can-res-boc-2018-124-126
-  - norma_id: norm-can-res-boc-2024-230-25
-  - norma_id: norm-can-r-inclusión-neae-2025-2026
-  - norma_id: norm-can-d-114-2011
-  - norma_id: norm-and-d19-2007
   - norma_id: norm-mad-d-23-2023
-  - norma_id: norm-and-o-15-1-2021
-  - norma_id: norm-mad-o1149-2018
   - norma_id: norm-and-d147-2002
-  - norma_id: norm-mad-d32-2019
-  - norma_id: norm-mad-o1493-2015
-  - norma_id: norm-and-d-19-2007
-  - norma_id: norm-mad-d64-2025
-  - norma_id: norm-mad-o2742-2022
   - norma_id: norm-mad-d-32-2019
-  - norma_id: norm-and-l9-1999
-  - norma_id: norm-mad-d23-2023
-  - norma_id: norm-and-d-147-2002
-  - norma_id: norm-mad-o-1605-2024
-  - norma_id: norm-and-d-254-2001
-  - norma_id: norm-mad-o-276-2019
-  - norma_id: norm-and-o-18-6-2001
-  - norma_id: norm-and-d-1-2011
-  - norma_id: norm-and-d-276-1987
-  - norma_id: norm-mad-o-1050-2020
-  - norma_id: norm-and-o-20-6-2011
-  - norma_id: norm-and-o-25-7-2008
-  - norma_id: norm-mad-r-acoso-2022
-  - norma_id: norm-and-d-167-2003
-  - norma_id: norm-and-o-3-1-2000
-  - norma_id: norm-and-r-28-8-2002
-  - norma_id: norm-and-o-31-5-1994
-  - norma_id: norm-mad-o-3210-2021
-  - norma_id: norm-and-d-85-1999
   - norma_id: norm-mad-o-1240-2013
-  - norma_id: norm-and-r-14-12-2009
-  - norma_id: norm-and-o-24-7-2006
-  - norma_id: norm-and-o-19-9-2002
-  - norma_id: norm-mad-o-3622-2014
-  - norma_id: norm-and-d-166-2003
-  desarrollado_por:
-  - norma_id: norm-can-l-1-1997
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '39'
+  - norma_id: '39'
   - norma_id: norm-es-lo-1-1982
 ---
+
 # Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil.
 
 ## Preámbulo
@@ -1025,3 +1088,35 @@ vigésima segunda y vigésima cuarta. Los preceptos relacionados en el párrafo 
 #### Disposición final vigésima.... cuarta.
 
 La presente Ley entrará en vigor a los treinta días de su publicación en el «Boletín Oficial del Estado». Por tanto, Mando a todos los españoles, particulares y autoridades que guarden y hagan guardar esta Ley Orgánica. Madrid, 15 de enero de 1996. JUAN CARLOS R. El Presidente del Gobierno, FELIPE GONZÁLEZ MÁRQUEZ Este texto consolidado no tiene valor jurídico.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO1_1982 Proteccion Civil del Derecho al Honor e Intimidad**](./LO1_1982_proteccion_civil_derecho_honor_intimidad_personal.md) (Título I, Capítulo III, Art. 158, Art. 173, Art. 9, Art. 211) desde *(Título II. Actuaciones en situación de desprotección social del menor e instituciones de protección de menores, D. Final decimoquinta. Disposición final decimosexta.)*
+- **Desarrolla**: `norm-es-c-1978` (Título I, Capítulo III, Art. 158, Art. 173, Art. 9, Art. 211) desde *(Título II. Actuaciones en situación de desprotección social del menor e instituciones de protección de menores, D. Final decimoquinta. Disposición final decimosexta.)*
+- **Desarrolla**: `norm-es-c-1978` desde *(Título II. Actuaciones en situación de desprotección social del menor e instituciones de protección de menores, Capítulo II. Derechos del menor., Art. 7)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 10, Art. 21, Art. 23, Art. 149, D. Transitoria única) desde *(Título II, Capítulo IV. Centros de protección específicos de menores con problemas de conducta., D. Final vigésima.... primera.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Título II, Capítulo IV. Centros de protección específicos de menores con problemas de conducta., D. Final vigésima.... primera.)*
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**LO1_1982 Proteccion Civil del Derecho al Honor e Intimidad**](./LO1_1982_proteccion_civil_derecho_honor_intimidad_personal.md)
+- **Fundamento de**: [**BOE-A-2004-15601**](./LO1774_2004_aprueba_reglamento_ley_organica_reguladora_responsabilidad.md)
+- **Fundamento de**: [**BOE-A-2015-8222**](./LO8_2015_modificacion_sistema_proteccion_infancia_adolescencia.md)
+- **Fundamento de**: [**BOE-A-2015-8470**](./L26_2015_modificacion_sistema_proteccion_infancia_adolescencia.md)
+- **Fundamento de**: [**BOE-A-2021-11382**](../07_convivencia_bienestar_y_protocolos/L2_2021_igualdad_social_no_discriminacion_razon_identidad.md)
+- **Fundamento de**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
+- **Fundamento de**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md)
+- **Fundamento de**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Fundamento de**: `norm-mad-d-23-2023`
+- **Fundamento de**: `norm-and-d147-2002`
+- **Fundamento de**: `norm-mad-d-32-2019`
+- **Fundamento de**: `norm-mad-o-1240-2013`
+- **Cita a**: `norm-es-c-1978` (Art. 3) desde *(Título II. Actuaciones en situación de desprotección social del menor e instituciones de protección de menores, Capítulo II. Derechos del menor., Art. 3)*
+- **Cita a**: [**BOE-A-2000-544**](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md) desde *(Título II. Actuaciones en situación de desprotección social del menor e instituciones de protección de menores, Capítulo IV. Medidas y principios rectores de la acción administrativa., Art. 10)*
+- **Cita a**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) (Art. 1) desde *(Título II, Capítulo I. Actuaciones en situaciones de desprotección social del menor., Art. 17)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 3) desde *(Título II, Capítulo I. Actuaciones en situaciones de desprotección social del menor., Art. 17 bis)*
+- **Cita a**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título II, Capítulo I. Actuaciones en situaciones de desprotección social del menor., Art. 22)*
+- **Cita a**: `norm-es-c-1978` (Título IX) desde *(Título II, Capítulo IV. Centros de protección específicos de menores con problemas de conducta., Art. 31)*
+- **Cita a**: `norm-es-c-1978` (Art. 9) desde *(Título II, Capítulo IV. Centros de protección específicos de menores con problemas de conducta., D. Final segunda.)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo IV. Centros de protección específicos de menores con problemas de conducta., D. Final octava. El artículo 174.2 del Código Civil queda redactado como sigue:.)*

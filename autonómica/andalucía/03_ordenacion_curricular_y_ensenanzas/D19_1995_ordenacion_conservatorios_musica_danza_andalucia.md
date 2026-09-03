@@ -25,6 +25,10 @@ tags:
 - danza
 - andalucia
 relaciones:
+  modifica:
+  - norma_id: norm-and-d-266-1988
+    articulos_origen:
+    - Art. 9
   desarrolla:
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
@@ -32,6 +36,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Decreto 19/1995, de 7 de febrero, por el que se establece la ordenación de las Enseñanzas de Música y Danza en Andalucía.
 
 ## Preámbulo
@@ -39,7 +44,7 @@ relaciones:
 En el presente Decreto se organiza la Consejería, bajo la superior dirección de su titular, en diversos Organos Directivos, entre los que se distribuyen las competencias de aquélla, para lograr una mayor racionalización y coordinación administrativa. En su virtud, a propuesta de la Consejera de Economía y Hacienda, con la aprobación de la Consejería de Gobernación, y previa deliberación del Consejo de Gobierno, en su reunión del día 17 de enero de 1995,
 DISPONGO:
 
-#### Artículo 1. Competencias de la Consejería de Economía y Hacienda.
+#### Artículo . #### Artículo . #### Artículo 1. Competencias de la Consejería de Economía y Hacienda.
 
 1. Corresponde a la Consejería de Economía y Hacienda la competencia para la elaboración de las directrices de política económica de la Comunidad Autónoma de Andalucía así como para la coordinación de su ejecución y cumplimiento. En consecuencia, le corresponde la coordinación y gestión de las actuaciones de contenido económico y financiero que, en el marco de las competencias de la Comunidad Autónoma, se derivan de las intervenciones del Fondo Europeo de Desarrollo Regional, el Fondo de Cohesión y el Banco Europeo de Inversiones respectivamente en Andalucía, actuando como órgano técnico en las relaciones que, para el ejercicio de dicha coordinación y gestión, se hayan de establecer entre los órganos de la Administración autonómica y la Administración General del Estado, exceptuando las relaciones que se deriven necesariamente, en virtud de las competencias que ostentan, entre otros órganos de la Administración Autonómica y los correspondientes de la Administración General del Estado.
 
@@ -138,24 +143,27 @@ La Dirección General de Presupuestos es el Organo Directivo a cuyo cargo están
 
 En cada provincia existirá una Delegación Provincial de la Consejería de Economía y Hacienda, correspondiendo a su titular la representación política y administrativa de la misma en su ámbito territorial de competencias, la superior dirección de los servicios dependientes de la Consejería, y la programación, coordinación y ejecución de toda la actividad administrativa de la misma.
 
-#### Disposición adicional ....
+#### Disposición adicional . ... Las Delegaciones Provinciales de la Consejería de Economía y Hacienda tendrán facultades en materia de gestión del gasto, contratación, tasas y «otros ingresos«, previstas en el Decreto 260/1987, de 28 de octubre, por el que se desconcentran determinadas funciones en las Delegaciones Provinciales de la Consejería de Hacienda, Decreto que continuará en vigor en cuanto no haya sido modificado por disposición posterior.
 
-Las Delegaciones Provinciales de la Consejería de Economía y Hacienda tendrán facultades en materia de gestión del gasto, contratación, tasas y «otros ingresos«, previstas en el Decreto 260/1987, de 28 de octubre, por el que se desconcentran determinadas funciones en las Delegaciones Provinciales de la Consejería de Hacienda, Decreto que continuará en vigor en cuanto no haya sido modificado por disposición posterior.
+#### Disposición transitoria . ... La prestación efectiva por la Dirección General de Tributos e Inspección Tributaria de las actividades relativas a la dirección de la gestión recaudatoria en vía de apremio, y por la Dirección General de Tesorería y Política Financiera de las actividades relativas a la tutela y cooperación financiera de los Entes Locales, se iniciará en la fecha que al efecto se determine por Orden de la Consejera de Economía y Hacienda.
 
-#### Disposición transitoria ....
-
-La prestación efectiva por la Dirección General de Tributos e Inspección Tributaria de las actividades relativas a la dirección de la gestión recaudatoria en vía de apremio, y por la Dirección General de Tesorería y Política Financiera de las actividades relativas a la tutela y cooperación financiera de los Entes Locales, se iniciará en la fecha que al efecto se determine por Orden de la Consejera de Economía y Hacienda.
-
-#### Disposición derogatoria ....
-
-Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en este Decreto y, expresamente, el Decreto 411/1990, de 11 de diciembre.
+#### Disposición derogatoria . ... Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en este Decreto y, expresamente, el Decreto 411/1990, de 11 de diciembre.
 
 ### Disposiciones finales
 
 #### Primera. Se autoriza a la Consejería de Economía y Hacienda para dictar las disposiciones necesarias en ejecución y desarrollo de lo establecido en este Decreto.
 
-#### Segunda. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. MANUEL CHAVES GONZALEZ Presidente de la Junta de Andalucía MAGDALENA ALVAREZ ARZA Consejera de Economía y Hacienda
-
 Descargar PDF
 
 Disposición siguiente
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**D266_1988 Becas y Ayudas al Estudio Andalucía**](../05_alumnado_y_servicios_escolares/D266_1988_reglamento_subvenciones_becas_estudio_andalucia.md) desde *(Art. 9)*
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

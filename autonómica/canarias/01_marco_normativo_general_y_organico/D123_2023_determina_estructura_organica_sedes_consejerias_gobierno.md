@@ -26,8 +26,13 @@ tags:
 - gobierno-canarias
 - roc
 relaciones:
-  desarrollado_por:
+  cita:
+  - norma_id: norm-can-l-4-2023
+    articulos_destino:
+    - Art. 31
   - norma_id: norm-can-d-84-2024
+    articulos_origen:
+    - D. Adicional segunda. Atribución de competencias.
   fundamentado_en:
   - norma_id: norm-can-l-4-2023
   - norma_id: norm-can-lo-1-2018
@@ -35,6 +40,16 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-can-l-6-2014
+  modifica:
+  - norma_id: norm-can-d-84-2024
+    articulos_origen:
+    - D. Adicional segunda. Atribución de competencias.
+  concordancia:
+  - norma_id: norm-can-d-84-2024
+    articulos_origen:
+    - D. Adicional segunda. Atribución de competencias.
+  desarrollado_por:
+  - norma_id: norm-can-d-84-2024
   fundamento_de:
   - norma_id: norm-can-res-119
   - norma_id: norm-can-res-boc-2024-049-109
@@ -46,12 +61,13 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-lo-1-2018
   articulos:
-  - '2'
-  - '5'
+  - norma_id: '2'
+  - norma_id: '5'
   - norma_id: norm-can-l-4-2023
 anexos_extraidos_pdf: true
 ocr_procesado: true
 ---
+
 # Decreto 123/2023, de 17 de julio, por el que se determina la estructura orgánica y las sedes de las Consejerías del Gobierno de Canarias.
 
 ## Preámbulo
@@ -403,3 +419,25 @@ En el plazo de tres meses desde la entrada en vigor de este Decreto, los departa
 #### Disposición final tercera. Entrada en vigor.
 
 El presente Decreto entrará en vigor el mismo día de su publicación en el Boletín Oficial de Canarias. Dado en Canarias, a 17 de julio de 2023. EL PRESIDENTE DEL GOBIERNO, Fernando Clavijo Batlle
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Modifica**: [**D84_2024 ROC Consejeria de Educacion Canarias**](./D84_2024_reglamento_organico_consejeria_educacion_canarias.md) desde *(D. Adicional segunda. Atribución de competencias.)*
+- **Fundamentado en**: [**L4_2023 Ley del Gobierno de Canarias**](./L4_2023_presidencia_gobierno_canarias.md)
+- **Fundamentado en**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](./L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamento de**: [**Resolucion BOC 119**](../05_alumnado_y_servicios_escolares/R8_8_2025_escolarizacion_servicios_complementarios_aprueban_instrucciones_organizacion.md)
+- **Fundamento de**: [**Resolucion BOC 109**](../05_alumnado_y_servicios_escolares/R27_2_2024_dgacesc_dictan_instrucciones_proceso_admision_alumnado.md)
+- **Fundamento de**: [**Resolucion BOC 93**](../04_organizacion_escolar_y_funcionamiento/R3_6_2024_resoluci_n_junio.md)
+- **Fundamento de**: [**Resolucion BOC 89**](../04_organizacion_escolar_y_funcionamiento/R20_2_2025_escolarizacion_servicios_complementarios_establece_calendario_escolar.md)
+- **En concordancia con**: [**D84_2024 ROC Consejeria de Educacion Canarias**](./D84_2024_reglamento_organico_consejeria_educacion_canarias.md) desde *(D. Adicional segunda. Atribución de competencias.)*
+- **Cita a**: [**L4_2023 Ley del Gobierno de Canarias**](./L4_2023_presidencia_gobierno_canarias.md) (Art. 31)
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](./D84_2024_reglamento_organico_consejeria_educacion_canarias.md) desde *(D. Adicional segunda. Atribución de competencias.)*

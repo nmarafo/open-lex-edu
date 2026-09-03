@@ -27,6 +27,11 @@ tags:
 - canarias
 relaciones:
   desarrolla:
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 45
+    - Art. 48
+    - Art. 49
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
@@ -40,3 +45,15 @@ relaciones:
 V. Anuncios Otros anuncios Consejería de Presidencia, Administraciones Públicas, Justicia y Seguridad Resolución de 4 de julio de 2025, que remite el expediente y emplaza a cuantos aparezcan como interesados en el recurso que se tramita como procedimiento abreviado PAB n.º 1983/2024 ante el Juzgado de lo Contencioso-administrativo n.º 4, de Santa Cruz de Tenerife, interpuesto por el Sindicato de Empleados Públicos de Canarias contra la Resolución de 4 de septiembre de 2024, por la que se dictan instrucciones y se fijan los criterios determinantes para resolver las solicitudes de reingreso al servicio activo del personal funcionario de carrera sin derecho a reserva del puesto de trabajo publicada en esa misma fecha, por la que se modifica la Resolución de 21 de febrero de 2014. En cumplimiento de lo dispuesto por el Juzgado de lo Contencioso-administrativo, n.º 4, de Santa Cruz de Tenerife, en el recurso que se tramita como procedimiento abreviado PAB n.º 1983/2024, interpuesto por el Sindicato de Empleados Públicos de Canarias, contra la Resolución de la Dirección General de la Función Pública n.º 3109/2024, de 4 de septiembre, por la que se dictan instrucciones y se fijan los criterios determinantes para resolver las solicitudes de reingreso al servicio activo del personal funcionario de carrera sin derecho a reserva del puesto de trabajo publicada en esa misma fecha, por la que se modifica la Resolución de la Dirección General de la Función Pública n.º 99/2014, de 21 de febrero, supuesto subsumible en lo dispuesto en el artículo 45.1.a) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, esta Dirección General, conforme a lo dispuesto en los artículos 48 y 49 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, R E S U E LV E:
 Primero.- Ordenar la remisión del expediente administrativo judicializado que corresponde al recurso contencioso-administrativo que se tramita como procedimiento abreviado PAB n.º 1983/2024, interpuesto por el Sindicato de Empleados Públicos de Canarias.
 Segundo.- Emplazar a cuantos aparezcan como interesados en el recurso contenciosoadministrativo que se tramita como procedimiento abreviado PAB n.º 1983/2024 ante el Juzgado de lo Contencioso-administrativo n.º 4, de Santa Cruz de Tenerife, para que puedan comparecer y personarse como demandados ante el mencionado Juzgado en el plazo de nueve días a partir del día siguiente al de la publicación de la presente Resolución. Santa Cruz de Tenerife, a 4 de julio de 2025.- El Director General de la Función Pública, Francisco Javier Rodríguez del Castillo.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 45, Art. 48, Art. 49)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)

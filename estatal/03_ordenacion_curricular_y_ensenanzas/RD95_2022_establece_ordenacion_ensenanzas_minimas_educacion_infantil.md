@@ -33,23 +33,132 @@ tags:
 - proteccion-menores
 - titulacion
 relaciones:
-  desarrolla:
+  modifica:
   - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-lo-3-2020
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-lo-3-2020
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 5
+    disposiciones_destino:
+    - D. Adicional tercera
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 5
+    disposiciones_destino:
+    - D. Adicional tercera
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 5
+    disposiciones_destino:
+    - D. Adicional tercera
+  - norma_id: norm-es-lo-3-2020
+    articulos_origen:
+    - Art. 5
+    disposiciones_destino:
+    - D. Adicional tercera
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Adicional segunda. Enseñanzas del sistema educativo español impartidas en
+      lenguas extranjeras.
+    articulos_destino:
+    - Art. 86
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Adicional segunda. Enseñanzas del sistema educativo español impartidas en
+      lenguas extranjeras.
+    articulos_destino:
+    - Art. 86
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Adicional segunda. Enseñanzas del sistema educativo español impartidas en
+      lenguas extranjeras.
+    articulos_destino:
+    - Art. 86
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Final tercera. Calendario de implantación.
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Final tercera. Calendario de implantación.
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Final tercera. Calendario de implantación.
+  - norma_id: norm-es-lo-3-2020
+    articulos_origen:
+    - D. Final tercera. Calendario de implantación.
+  cita:
+  - norma_id: norm-es-lo-2-2006
+    titulo_destino: Título PRELIMINAR
+  - norma_id: norm-es-2021-20113
+    titulo_destino: Título PRELIMINAR
+  - norma_id: norm-es-2010-12201
+    titulo_destino: Título PRELIMINAR
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Adicional primera. Enseñanzas de religión.
+    disposiciones_destino:
+    - D. Adicional segunda
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Adicional primera. Enseñanzas de religión.
+    disposiciones_destino:
+    - D. Adicional segunda
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Adicional primera. Enseñanzas de religión.
+    disposiciones_destino:
+    - D. Adicional segunda
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Final tercera. Calendario de implantación.
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Final tercera. Calendario de implantación.
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Final tercera. Calendario de implantación.
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final primera. Título competencial.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-l-39-2015
-  desarrollado_por:
-  - norma_id: norm-can-d-196-2022
-  fundamento_de: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
 ---
+
 # Real Decreto 95/2022, de 1 de febrero, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Infantil.
 
 ## Preámbulo
@@ -1130,3 +1239,45 @@ Estas situaciones favorecerán la transferencia de los aprendizajes adquiridos a
 - [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Modifica**: `norm-es-lo-3-2020`
+- **Modifica**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 129)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 129)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 129)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 129)
+- **Modifica**: `norm-es-lo-3-2020` (Art. 129)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional tercera) desde *(Art. 5)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional tercera) desde *(Art. 5)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional tercera) desde *(Art. 5)*
+- **Modifica**: `norm-es-lo-3-2020` (D. Adicional tercera) desde *(Art. 5)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 86) desde *(D. Adicional segunda. Enseñanzas del sistema educativo español impartidas en lenguas extranjeras.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 86) desde *(D. Adicional segunda. Enseñanzas del sistema educativo español impartidas en lenguas extranjeras.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 86) desde *(D. Adicional segunda. Enseñanzas del sistema educativo español impartidas en lenguas extranjeras.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(D. Final tercera. Calendario de implantación.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(D. Final tercera. Calendario de implantación.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(D. Final tercera. Calendario de implantación.)*
+- **Modifica**: `norm-es-lo-3-2020` desde *(D. Final tercera. Calendario de implantación.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27)
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(D. Final primera. Título competencial.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título PRELIMINAR)
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título PRELIMINAR)
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título PRELIMINAR)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional segunda) desde *(D. Adicional primera. Enseñanzas de religión.)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional segunda) desde *(D. Adicional primera. Enseñanzas de religión.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional segunda) desde *(D. Adicional primera. Enseñanzas de religión.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(D. Final tercera. Calendario de implantación.)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(D. Final tercera. Calendario de implantación.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(D. Final tercera. Calendario de implantación.)*

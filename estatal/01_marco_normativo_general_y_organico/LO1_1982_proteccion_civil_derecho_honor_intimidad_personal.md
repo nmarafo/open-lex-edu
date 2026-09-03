@@ -27,8 +27,31 @@ tags:
 - proteccion-menores
 - titulacion
 relaciones:
+  cita:
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-c-1978
+    disposiciones_destino:
+    - D. Transitoria segunda
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo PRIMERO
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo II. De la protección civil del honor, de la intimidad
+      y de la propia imagen.
+    articulos_origen:
+    - D. Derogatoria ....
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo II. De la protección civil del honor, de la intimidad
+      y de la propia imagen.
   - norma_id: norm-es-ce-1978
+  desarrolla:
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo II. De la protección civil del honor, de la intimidad
+      y de la propia imagen.
+    articulos_origen:
+    - D. Derogatoria ....
+    titulo_destino: Título III
+    capitulo_destino: Capítulo I
   fundamento_de:
   - norma_id: norm-es-1995-25444
   - norma_id: norm-es-lo-1-1996
@@ -36,8 +59,9 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '18'
+  - norma_id: '18'
 ---
+
 # Ley Orgánica 1/1982, de 5 de mayo, de protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen.
 
 ## Preámbulo
@@ -198,3 +222,19 @@ LEOPOLDO CALVO-SOTELO Y BUSTELO
 ### Fundamentos de Derecho
 
 - [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-c-1978` (Título III, Capítulo I) desde *(Capítulo II. De la protección civil del honor, de la intimidad y de la propia imagen., D. Derogatoria ....)*
+- **Fundamentado en**: `norm-es-c-1978` desde *(Capítulo II. De la protección civil del honor, de la intimidad y de la propia imagen.)*
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
+- **Fundamento de**: [**BOE-A-1995-25444**](./LO10_1995_codigo_penal.md)
+- **Fundamento de**: [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- **Fundamento de**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
+- **Cita a**: `norm-es-c-1978`
+- **Cita a**: `norm-es-c-1978` (D. Transitoria segunda)
+- **Cita a**: `norm-es-c-1978` desde *(Capítulo PRIMERO)*
+- **Cita a**: `norm-es-c-1978` desde *(Capítulo II. De la protección civil del honor, de la intimidad y de la propia imagen., D. Derogatoria ....)*

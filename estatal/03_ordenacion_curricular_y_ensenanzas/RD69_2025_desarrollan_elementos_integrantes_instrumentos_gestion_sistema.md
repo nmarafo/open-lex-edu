@@ -25,10 +25,207 @@ tags:
 - orientacion-educativa
 - personal-no-docente
 relaciones:
-  desarrolla:
+  cita:
   - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-lo-3-2022
+    articulos_destino:
+    - Art. 5
+  - norma_id: norm-es-lo-3-2022
+    titulo_destino: Título I
+    capitulo_destino: Capítulo II
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-rd-659-2023
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Catálogo Nacional de Ofertas de Formación Profesional.
+    articulos_origen:
+    - Art. 14
+    articulos_destino:
+    - Art. 7
+  - norma_id: norm-es-rd-659-2023
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Catálogo Nacional de Ofertas de Formación Profesional.
+    articulos_origen:
+    - Art. 14
+    articulos_destino:
+    - Art. 22
+  - norma_id: norm-es-rd-659-2023
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Catálogo Nacional de Ofertas de Formación Profesional.
+    articulos_origen:
+    - Art. 14
+  - norma_id: norm-es-rd-659-2023
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Registro Estatal de Formación Profesional.
+    articulos_origen:
+    - Art. 17
+  - norma_id: norm-es-rd-659-2023
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Registro Estatal de Acreditaciones de Competencias
+      Profesionales Adquiridas por Experiencia Laboral o Vías No Formales e Informales.
+    articulos_origen:
+    - Art. 20
+    titulo_destino: Título VI
+  - norma_id: norm-es-rd-659-2023
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Registro Estatal de Acreditaciones de Competencias
+      Profesionales Adquiridas por Experiencia Laboral o Vías No Formales e Informales.
+    articulos_origen:
+    - Art. 21
+    articulos_destino:
+    - Art. 177
+  - norma_id: norm-es-rd-659-2023
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Registro Estatal de Acreditaciones de Competencias
+      Profesionales Adquiridas por Experiencia Laboral o Vías No Formales e Informales.
+    articulos_origen:
+    - Art. 21
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. Registro General de Centros de Formación Profesional.
+    articulos_origen:
+    - Art. 22
+    articulos_destino:
+    - Art. 19
+    - Art. 20
+    - Art. 21
+  - norma_id: norm-es-rd-659-2023
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. Registro General de Centros de Formación Profesional.
+    articulos_origen:
+    - Art. 22
+  - norma_id: norm-es-rd-659-2023
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. Registro General de Centros de Formación Profesional.
+    articulos_origen:
+    - Art. 24
+    articulos_destino:
+    - Art. 198
+  - norma_id: norm-es-lo-3-2018
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. Registro General de Centros de Formación Profesional.
+    articulos_origen:
+    - Art. 24
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. Registro General de Centros de Formación Profesional.
+    articulos_origen:
+    - D. Adicional tercera. Catálogo Modular de Formación Profesional.
+    articulos_destino:
+    - Art. 11
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. Registro General de Centros de Formación Profesional.
+    articulos_origen:
+    - D. Adicional tercera. Catálogo Modular de Formación Profesional.
+    articulos_destino:
+    - Art. 11
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. Registro General de Centros de Formación Profesional.
+    articulos_origen:
+    - D. Adicional tercera. Catálogo Modular de Formación Profesional.
+    articulos_destino:
+    - Art. 11
+  - norma_id: norm-es-rd-659-2023
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. Registro General de Centros de Formación Profesional.
+    articulos_origen:
+    - D. Adicional tercera. Catálogo Modular de Formación Profesional.
+    disposiciones_destino:
+    - D. Transitoria primera
+  - norma_id: norm-es-rd-659-2023
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. Registro General de Centros de Formación Profesional.
+    articulos_origen:
+    - D. Adicional quinta. Registro de Certificados de Profesionalidad al amparo del
+      Real Decreto 34/2008, de 18 de enero, por el que se regulan los certificados
+      de profesionalidad.
+  - norma_id: norm-es-rd-659-2023
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. Registro General de Centros de Formación Profesional.
+    articulos_origen:
+    - D. Adicional sexta. Protección de datos de carácter personal.
+  desarrolla:
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 1
+    articulos_destino:
+    - Art. 7
+  - norma_id: norm-es-rd-659-2023
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. Catálogo Nacional de Estándares de Competencias Profesionales.
+    articulos_origen:
+    - Art. 11
+    articulos_destino:
+    - Art. 7
   fundamentado_en:
+  - norma_id: norm-es-lo-3-2022
+    articulos_destino:
+    - Art. 113
+    disposiciones_destino:
+    - D. Final octava
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-rd-659-2023
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Catálogo Nacional de Ofertas de Formación Profesional.
+    articulos_origen:
+    - Art. 14
+    articulos_destino:
+    - Art. 7
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título I
+    capitulo_origen: Capítulo IV. Elementos básicos del currículo.
+    articulos_origen:
+    - Art. 15
+    articulos_destino:
+    - Art. 12
+    - Art. 13
+  - norma_id: norm-es-rd-659-2023
+    titulo_origen: Título I
+    capitulo_origen: Capítulo IV. Elementos básicos del currículo.
+    articulos_origen:
+    - Art. 15
+    articulos_destino:
+    - Art. 12
+    - Art. 13
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. Registro General de Centros de Formación Profesional.
+    articulos_origen:
+    - D. Adicional primera. Unidades de competencia.
+    articulos_destino:
+    - Art. 5
+    - Art. 6
+    disposiciones_destino:
+    - D. Adicional segunda
+  - norma_id: norm-es-rd-659-2023
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. Registro General de Centros de Formación Profesional.
+    articulos_origen:
+    - D. Adicional quinta. Registro de Certificados de Profesionalidad al amparo del
+      Real Decreto 34/2008, de 18 de enero, por el que se regulan los certificados
+      de profesionalidad.
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. Registro General de Centros de Formación Profesional.
+    articulos_origen:
+    - D. Adicional sexta. Protección de datos de carácter personal.
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. Registro General de Centros de Formación Profesional.
+    articulos_origen:
+    - D. Final segunda. Títulos competenciales.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
   - norma_id: norm-es-2002-12018
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2021-20113
@@ -36,22 +233,44 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-3-2018
-  desarrollado_por: []
-  fundamento_de:
-  - norma_id: norm-can-res-boc-2026-070-41
-  - norma_id: norm-can-res-036
-  - norma_id: norm-can-res-034
-  - norma_id: norm-can-res-039
-  - norma_id: norm-can-res-038
-  - norma_id: norm-can-res-035
-  - norma_id: norm-can-res-037
-  - norma_id: norm-can-res-033
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Registro Estatal de Formación Profesional.
+    articulos_origen:
+    - Art. 16
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Registro Estatal de Formación Profesional.
+    articulos_origen:
+    - Art. 16
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Registro Estatal de Formación Profesional.
+    articulos_origen:
+    - Art. 16
+  - norma_id: norm-es-2002-12018
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. Registro General de Centros de Formación Profesional.
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
+    articulos_destino:
+    - Art. 7
+  deroga:
+  - norma_id: norm-es-lo-3-2018
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. Registro General de Centros de Formación Profesional.
+    articulos_origen:
+    - D. Adicional sexta. Protección de datos de carácter personal.
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. Registro General de Centros de Formación Profesional.
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '1'
-  - norma_id: norm-can-res-boc-2024-230-25
-  - norma_id: norm-can-res-134
+  - norma_id: '1'
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-3-2018
   - norma_id: norm-es-2002-12018
@@ -60,6 +279,7 @@ relaciones:
   - norma_id: norm-es-rd-659-2023
   - norma_id: norm-es-2010-12201
 ---
+
 # Real Decreto 69/2025, de 4 de febrero, por el que se desarrollan los elementos integrantes y los instrumentos de gestión del Sistema Nacional de Formación Profesional, y se modifica el Real Decreto 375/1999, de 5 de marzo, por el que se crea el Instituto Nacional de las Cualificaciones.
 
 ## Preámbulo
@@ -813,3 +1033,56 @@ Relación entre ofertas formativas
 - [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
 - [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **Desarrolla**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 7) desde *(Título Preliminar, Art. 1)*
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 7) desde *(Título I, Capítulo I. Catálogo Nacional de Estándares de Competencias Profesionales., Art. 11)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título II, Capítulo I. Registro Estatal de Formación Profesional., Art. 16)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título II, Capítulo I. Registro Estatal de Formación Profesional., Art. 16)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título II, Capítulo I. Registro Estatal de Formación Profesional., Art. 16)*
+- **Modifica**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md) (Art. 7) desde *(Título II, Capítulo III. Registro General de Centros de Formación Profesional., D. Derogatoria única. Derogación normativa.)*
+- **Deroga**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) desde *(Título II, Capítulo III. Registro General de Centros de Formación Profesional., D. Adicional sexta. Protección de datos de carácter personal.)*
+- **Deroga**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(Título II, Capítulo III. Registro General de Centros de Formación Profesional., D. Derogatoria única. Derogación normativa.)*
+- **Fundamentado en**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 113, D. Final octava)
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27)
+- **Fundamentado en**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 7) desde *(Título I, Capítulo III. Catálogo Nacional de Ofertas de Formación Profesional., Art. 14)*
+- **Fundamentado en**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 12, Art. 13) desde *(Título I, Capítulo IV. Elementos básicos del currículo., Art. 15)*
+- **Fundamentado en**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 12, Art. 13) desde *(Título I, Capítulo IV. Elementos básicos del currículo., Art. 15)*
+- **Fundamentado en**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 5, Art. 6, D. Adicional segunda) desde *(Título II, Capítulo III. Registro General de Centros de Formación Profesional., D. Adicional primera. Unidades de competencia.)*
+- **Fundamentado en**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) desde *(Título II, Capítulo III. Registro General de Centros de Formación Profesional., D. Adicional quinta. Registro de Certificados de Profesionalidad al amparo del Real Decreto 34/2008, de 18 de enero, por el que se regulan los certificados de profesionalidad.)*
+- **Fundamentado en**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(Título II, Capítulo III. Registro General de Centros de Formación Profesional., D. Adicional sexta. Protección de datos de carácter personal.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(Título II, Capítulo III. Registro General de Centros de Formación Profesional., D. Final segunda. Títulos competenciales.)*
+- **Fundamentado en**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 5)
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Título I, Capítulo II)
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 129)
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 7) desde *(Título I, Capítulo III. Catálogo Nacional de Ofertas de Formación Profesional., Art. 14)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 22) desde *(Título I, Capítulo III. Catálogo Nacional de Ofertas de Formación Profesional., Art. 14)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) desde *(Título I, Capítulo III. Catálogo Nacional de Ofertas de Formación Profesional., Art. 14)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) desde *(Título II, Capítulo I. Registro Estatal de Formación Profesional., Art. 17)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Título VI) desde *(Título II, Capítulo II. Registro Estatal de Acreditaciones de Competencias Profesionales Adquiridas por Experiencia Laboral o Vías No Formales e Informales., Art. 20)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 177) desde *(Título II, Capítulo II. Registro Estatal de Acreditaciones de Competencias Profesionales Adquiridas por Experiencia Laboral o Vías No Formales e Informales., Art. 21)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) desde *(Título II, Capítulo II. Registro Estatal de Acreditaciones de Competencias Profesionales Adquiridas por Experiencia Laboral o Vías No Formales e Informales., Art. 21)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 19, Art. 20, Art. 21) desde *(Título II, Capítulo III. Registro General de Centros de Formación Profesional., Art. 22)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) desde *(Título II, Capítulo III. Registro General de Centros de Formación Profesional., Art. 22)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 198) desde *(Título II, Capítulo III. Registro General de Centros de Formación Profesional., Art. 24)*
+- **Cita a**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) desde *(Título II, Capítulo III. Registro General de Centros de Formación Profesional., Art. 24)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 11) desde *(Título II, Capítulo III. Registro General de Centros de Formación Profesional., D. Adicional tercera. Catálogo Modular de Formación Profesional.)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 11) desde *(Título II, Capítulo III. Registro General de Centros de Formación Profesional., D. Adicional tercera. Catálogo Modular de Formación Profesional.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 11) desde *(Título II, Capítulo III. Registro General de Centros de Formación Profesional., D. Adicional tercera. Catálogo Modular de Formación Profesional.)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (D. Transitoria primera) desde *(Título II, Capítulo III. Registro General de Centros de Formación Profesional., D. Adicional tercera. Catálogo Modular de Formación Profesional.)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) desde *(Título II, Capítulo III. Registro General de Centros de Formación Profesional., D. Adicional quinta. Registro de Certificados de Profesionalidad al amparo del Real Decreto 34/2008, de 18 de enero, por el que se regulan los certificados de profesionalidad.)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) desde *(Título II, Capítulo III. Registro General de Centros de Formación Profesional., D. Adicional sexta. Protección de datos de carácter personal.)*

@@ -25,15 +25,253 @@ tags:
 - roc_consejeria
 - canarias
 relaciones:
+  modifica:
+  - norma_id: norm-can-d-123-2023
+    articulos_destino:
+    - Art. 7
+    - Art. 5
+    - Art. 13
+    disposiciones_destino:
+    - D. Adicional primera
+    - D. Adicional segunda
+    - D. Final primera
+  - norma_id: norm-can-l-4-2023
+    articulos_destino:
+    - Art. 7
+    - Art. 5
+    - Art. 13
+    disposiciones_destino:
+    - D. Adicional primera
+    - D. Adicional segunda
+    - D. Final primera
+  - norma_id: norm-can-d-123-2023
+    articulos_destino:
+    - Art. 27
+    - Art. 129
+    - Art. 66
+    disposiciones_destino:
+    - D. Final cuarta
+    - D. Adicional primera
+  - norma_id: norm-can-l-14-1990
+    articulos_destino:
+    - Art. 27
+    - Art. 129
+    - Art. 66
+    disposiciones_destino:
+    - D. Final cuarta
+    - D. Adicional primera
+  - norma_id: norm-can-l-4-2023
+    articulos_destino:
+    - Art. 27
+    - Art. 129
+    - Art. 66
+    disposiciones_destino:
+    - D. Final cuarta
+    - D. Adicional primera
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 27
+    - Art. 129
+    - Art. 66
+    disposiciones_destino:
+    - D. Final cuarta
+    - D. Adicional primera
+  - norma_id: norm-can-d-123-2023
+    articulos_origen:
+    - D. Final cuarta. Modificación del Decreto 123/2023, de 17 de julio, por el.
+    disposiciones_destino:
+    - D. Final cuarta
+  - norma_id: norm-can-d-123-2023
+    articulos_origen:
+    - D. Final cuarta. Modificación del Decreto 123/2023, de 17 de julio, por el.
+    disposiciones_destino:
+    - D. Adicional primera
+  cita:
+  - norma_id: norm-can-d-123-2023
+    articulos_origen:
+    - D. Final segunda. del citado Decreto 123/2023, de 17 de julio.
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-es-2010-4518
+    articulos_origen:
+    - D. Final segunda. del citado Decreto 123/2023, de 17 de julio.
+  - norma_id: norm-can-d-123-2023
+    articulos_origen:
+    - D. Final segunda. del citado Decreto 123/2023, de 17 de julio.
+    articulos_destino:
+    - Art. 31
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-can-l-4-2023
+    articulos_origen:
+    - D. Final segunda. del citado Decreto 123/2023, de 17 de julio.
+    articulos_destino:
+    - Art. 31
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-es-2021-11382
+    articulos_origen:
+    - D. Final segunda. del citado Decreto 123/2023, de 17 de julio.
+    articulos_destino:
+    - Art. 31
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-can-d-212-1991
+    articulos_origen:
+    - D. Final primera. Modificación del Decreto 43/2003, de 7 de abril, por el.
+    articulos_destino:
+    - Art. 27
+  - norma_id: norm-es-l-9-2017
+    capitulo_origen: Capítulo II. Consejera O consejero.
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 32
+    - Art. 69
+    - Art. 3
+  - norma_id: norm-es-lo-3-2018
+    capitulo_origen: Capítulo II. Consejera O consejero.
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 32
+    - Art. 69
+    - Art. 3
+  - norma_id: norm-can-d-212-1991
+    capitulo_origen: Capítulo III. Órganos superiores de la consejería.
+    seccion_origen: Sección 1. ª
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 11
+    - Art. 20
+  - norma_id: norm-can-d-212-1991
+    capitulo_origen: Capítulo III. Órganos superiores de la consejería.
+    seccion_origen: Sección 2. ª
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 11
+    - Art. 20
+  - norma_id: norm-can-d-212-1991
+    capitulo_origen: Capítulo III. Órganos superiores de la consejería.
+    seccion_origen: Sección 3. ª
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 11
+    - Art. 20
+  - norma_id: norm-can-d-212-1991
+    capitulo_origen: Capítulo III. Órganos superiores de la consejería.
+    seccion_origen: Sección 4. ª
+    articulos_origen:
+    - Art. 11
+  - norma_id: norm-can-d-212-1991
+    capitulo_origen: Capítulo III. Órganos superiores de la consejería.
+    seccion_origen: Sección 5. ª
+    articulos_origen:
+    - Art. 16
+  - norma_id: norm-can-d-212-1991
+    capitulo_origen: Capítulo III. Órganos superiores de la consejería.
+    seccion_origen: Sección 6. ª
+    articulos_origen:
+    - Art. 17
+  - norma_id: norm-can-d-212-1991
+    capitulo_origen: Capítulo III. Órganos superiores de la consejería.
+    seccion_origen: Sección 7. ª
+    articulos_origen:
+    - Art. 18
+  - norma_id: norm-can-d-212-1991
+    capitulo_origen: Capítulo III. Órganos superiores de la consejería.
+    seccion_origen: Sección 8. ª
+    articulos_origen:
+    - Art. 19
+  - norma_id: norm-can-d-212-1991
+    capitulo_origen: Capítulo III. Órganos superiores de la consejería.
+    seccion_origen: Sección 9. ª
+    articulos_origen:
+    - Art. 20
+  - norma_id: norm-can-d-212-1991
+    capitulo_origen: Capítulo III. Órganos superiores de la consejería.
+    seccion_origen: Sección 10. ª
+    articulos_origen:
+    - Art. 21
+  - norma_id: norm-can-d-212-1991
+    capitulo_origen: Capítulo III. Órganos superiores de la consejería.
+    seccion_origen: Sección 11. ª
+    articulos_origen:
+    - Art. 22
+  - norma_id: norm-can-d-212-1991
+    capitulo_origen: Capítulo III. Órganos superiores de la consejería.
+    seccion_origen: Sección 12. ª
+    articulos_origen:
+    - Art. 23
+  - norma_id: norm-can-d-212-1991
+    capitulo_origen: Capítulo IV. Direcciones territoriales de educación.
+    articulos_origen:
+    - Art. 26
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VII. Órganos colegiados.
+    seccion_origen: Sección 1. ª
+    articulos_origen:
+    - Art. 30
+  - norma_id: norm-es-l-40-2015
+    capitulo_origen: Capítulo VII. Órganos colegiados.
+    seccion_origen: Sección 1. ª
+    articulos_origen:
+    - Art. 30
+    articulos_destino:
+    - Art. 17
+    - Art. 18
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VII. Órganos colegiados.
+    seccion_origen: Sección 1. ª
+    articulos_origen:
+    - Art. 30
+    articulos_destino:
+    - Art. 17
+    - Art. 18
+  - norma_id: norm-es-2010-4518
+    capitulo_origen: Capítulo VII. Órganos colegiados.
+    seccion_origen: Sección 1. ª
+    articulos_origen:
+    - Art. 30
   desarrolla:
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_origen:
+    - D. Final primera. Modificación del Decreto 43/2003, de 7 de abril, por el.
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - D. Final primera. Modificación del Decreto 43/2003, de 7 de abril, por el.
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-ce-1978
+  concordancia:
+  - norma_id: norm-can-l-14-1990
+    capitulo_origen: Capítulo II. Consejera O consejero.
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 29
+    - Art. 58
+  - norma_id: norm-can-l-4-2023
+    capitulo_origen: Capítulo II. Consejera O consejero.
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 29
+    - Art. 58
+  - norma_id: norm-can-l-4-2023
+    capitulo_origen: Capítulo III. Órganos superiores de la consejería.
+    seccion_origen: Sección 3. ª
+    articulos_origen:
+    - Art. 10
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
 ---
+
 # Decreto 84/2024, de 10 de junio, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes.
 
 ## Preámbulo
@@ -919,3 +1157,53 @@ La Comisión Antidopaje de Canarias es el órgano colegiado de la Administració
 #### Artículo 39. El Tribunal Arbitral del Deporte Canario.
 
 El Tribunal Arbitral del Deporte Canario es el órgano dedicado a la mediación y arbitraje deportivo, se adscribe orgánicamente a la Viceconsejería de la Actividad Física y Deportes y tiene la composición, organización y funciones establecidas reglamentariamente.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**Resolucion BOC 25**](../03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) desde *(D. Final primera. Modificación del Decreto 43/2003, de 7 de abril, por el.)*
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) desde *(D. Final primera. Modificación del Decreto 43/2003, de 7 de abril, por el.)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Modifica**: [**D123/2023 Estructura Organica del Gobierno de Canarias**](./D123_2023_determina_estructura_organica_sedes_consejerias_gobierno.md) (Art. 7, Art. 5, Art. 13, D. Adicional primera, D. Adicional segunda, D. Final primera)
+- **Modifica**: [**L4_2023 Ley del Gobierno de Canarias**](./L4_2023_presidencia_gobierno_canarias.md) (Art. 7, Art. 5, Art. 13, D. Adicional primera, D. Adicional segunda, D. Final primera)
+- **Modifica**: [**D123/2023 Estructura Organica del Gobierno de Canarias**](./D123_2023_determina_estructura_organica_sedes_consejerias_gobierno.md) (Art. 27, Art. 129, Art. 66, D. Final cuarta, D. Adicional primera)
+- **Modifica**: [**L14_1990 Regimen Juridico Administraciones Canarias**](./L14_1990_regimen_juridico_administraciones_publicas_canarias.md) (Art. 27, Art. 129, Art. 66, D. Final cuarta, D. Adicional primera)
+- **Modifica**: [**L4_2023 Ley del Gobierno de Canarias**](./L4_2023_presidencia_gobierno_canarias.md) (Art. 27, Art. 129, Art. 66, D. Final cuarta, D. Adicional primera)
+- **Modifica**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 27, Art. 129, Art. 66, D. Final cuarta, D. Adicional primera)
+- **Modifica**: [**D123/2023 Estructura Organica del Gobierno de Canarias**](./D123_2023_determina_estructura_organica_sedes_consejerias_gobierno.md) (D. Final cuarta) desde *(D. Final cuarta. Modificación del Decreto 123/2023, de 17 de julio, por el.)*
+- **Modifica**: [**D123/2023 Estructura Organica del Gobierno de Canarias**](./D123_2023_determina_estructura_organica_sedes_consejerias_gobierno.md) (D. Adicional primera) desde *(D. Final cuarta. Modificación del Decreto 123/2023, de 17 de julio, por el.)*
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](./L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **En concordancia con**: [**L14_1990 Regimen Juridico Administraciones Canarias**](./L14_1990_regimen_juridico_administraciones_publicas_canarias.md) (Art. 29, Art. 58) desde *(Capítulo II. Consejera O consejero., Art. 5)*
+- **En concordancia con**: [**L4_2023 Ley del Gobierno de Canarias**](./L4_2023_presidencia_gobierno_canarias.md) (Art. 29, Art. 58) desde *(Capítulo II. Consejera O consejero., Art. 5)*
+- **En concordancia con**: [**L4_2023 Ley del Gobierno de Canarias**](./L4_2023_presidencia_gobierno_canarias.md) desde *(Capítulo III. Órganos superiores de la consejería., Art. 10)*
+- **Cita a**: [**D123/2023 Estructura Organica del Gobierno de Canarias**](./D123_2023_determina_estructura_organica_sedes_consejerias_gobierno.md) (D. Final segunda) desde *(D. Final segunda. del citado Decreto 123/2023, de 17 de julio.)*
+- **Cita a**: [**BOE-A-2010-4518**](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md) desde *(D. Final segunda. del citado Decreto 123/2023, de 17 de julio.)*
+- **Cita a**: [**D123/2023 Estructura Organica del Gobierno de Canarias**](./D123_2023_determina_estructura_organica_sedes_consejerias_gobierno.md) (Art. 31, D. Final segunda) desde *(D. Final segunda. del citado Decreto 123/2023, de 17 de julio.)*
+- **Cita a**: [**L4_2023 Ley del Gobierno de Canarias**](./L4_2023_presidencia_gobierno_canarias.md) (Art. 31, D. Final segunda) desde *(D. Final segunda. del citado Decreto 123/2023, de 17 de julio.)*
+- **Cita a**: [**BOE-A-2021-11382**](../../../estatal/07_convivencia_bienestar_y_protocolos/L2_2021_igualdad_social_no_discriminacion_razon_identidad.md) (Art. 31, D. Final segunda) desde *(D. Final segunda. del citado Decreto 123/2023, de 17 de julio.)*
+- **Cita a**: [**Decreto BOC 212/1991**](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) (Art. 27) desde *(D. Final primera. Modificación del Decreto 43/2003, de 7 de abril, por el.)*
+- **Cita a**: [**L9_2017 Contratos del Sector Publico (LCSP)**](../../../estatal/02_gestion_y_administracion_centros/L9_2017_contratos_sector_publico_transponen_ordenamiento_juridico.md) (Art. 32, Art. 69, Art. 3) desde *(Capítulo II. Consejera O consejero., Art. 5)*
+- **Cita a**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) (Art. 32, Art. 69, Art. 3) desde *(Capítulo II. Consejera O consejero., Art. 5)*
+- **Cita a**: [**Decreto BOC 212/1991**](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) (Art. 11, Art. 20) desde *(Capítulo III. Órganos superiores de la consejería., Art. 8)*
+- **Cita a**: [**Decreto BOC 212/1991**](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) (Art. 11, Art. 20) desde *(Capítulo III. Órganos superiores de la consejería., Art. 9)*
+- **Cita a**: [**Decreto BOC 212/1991**](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) (Art. 11, Art. 20) desde *(Capítulo III. Órganos superiores de la consejería., Art. 10)*
+- **Cita a**: [**Decreto BOC 212/1991**](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) desde *(Capítulo III. Órganos superiores de la consejería., Art. 11)*
+- **Cita a**: [**Decreto BOC 212/1991**](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) desde *(Capítulo III. Órganos superiores de la consejería., Art. 16)*
+- **Cita a**: [**Decreto BOC 212/1991**](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) desde *(Capítulo III. Órganos superiores de la consejería., Art. 17)*
+- **Cita a**: [**Decreto BOC 212/1991**](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) desde *(Capítulo III. Órganos superiores de la consejería., Art. 18)*
+- **Cita a**: [**Decreto BOC 212/1991**](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) desde *(Capítulo III. Órganos superiores de la consejería., Art. 19)*
+- **Cita a**: [**Decreto BOC 212/1991**](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) desde *(Capítulo III. Órganos superiores de la consejería., Art. 20)*
+- **Cita a**: [**Decreto BOC 212/1991**](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) desde *(Capítulo III. Órganos superiores de la consejería., Art. 21)*
+- **Cita a**: [**Decreto BOC 212/1991**](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) desde *(Capítulo III. Órganos superiores de la consejería., Art. 22)*
+- **Cita a**: [**Decreto BOC 212/1991**](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) desde *(Capítulo III. Órganos superiores de la consejería., Art. 23)*
+- **Cita a**: [**Decreto BOC 212/1991**](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) desde *(Capítulo IV. Direcciones territoriales de educación., Art. 26)*
+- **Cita a**: `norm-es-c-1978` desde *(Capítulo VII. Órganos colegiados., Art. 30)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 17, Art. 18) desde *(Capítulo VII. Órganos colegiados., Art. 30)*
+- **Cita a**: `norm-es-c-1978` (Art. 17, Art. 18) desde *(Capítulo VII. Órganos colegiados., Art. 30)*
+- **Cita a**: [**BOE-A-2010-4518**](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md) desde *(Capítulo VII. Órganos colegiados., Art. 30)*

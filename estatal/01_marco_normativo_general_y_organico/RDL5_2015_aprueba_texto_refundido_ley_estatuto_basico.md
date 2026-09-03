@@ -29,15 +29,179 @@ tags:
 - procedimiento-administrativo
 - trebep
 relaciones:
-  fundamentado_en:
-  - norma_id: norm-es-1984-17387
+  cita:
+  - norma_id: norm-es-rdleg-5-2015
+  - norma_id: norm-es-2012-9364
+    capitulo_origen: Capítulo IV. Derecho a la negociación colectiva, representación
+      y participación institucional. Derecho de
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
+    articulos_destino:
+    - Art. 13
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo IV. Derecho a la negociación colectiva, representación
+      y participación institucional. Derecho de reunión.
+    articulos_origen:
+    - Art. 33
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo IV. Derecho a la negociación colectiva, representación
+      y participación institucional. Derecho de reunión.
+    articulos_origen:
+    - Art. 35
+    articulos_destino:
+    - Art. 35
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo V. Derecho a la jornada de trabajo, permisos y vacaciones.
+    articulos_origen:
+    - Art. 48
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo VI. Deberes de los empleados públicos. Código de Conducta.
+    articulos_origen:
+    - Art. 52
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo VI. Deberes de los empleados públicos. Código de Conducta.
+    articulos_origen:
+    - Art. 53
+  - norma_id: norm-es-2013-12632
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I. Acceso al empleo público y adquisición de la relación
+      de servicio.
+    articulos_origen:
+    - Art. 59
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I. Acceso al empleo público y adquisición de la relación
+      de servicio.
+    articulos_origen:
+    - Art. 62
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VII
+    articulos_origen:
+    - Art. 95
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Adicional segunda. Aplicación de las disposiciones de este Estatuto a las.
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-l-40-2015
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Adicional cuarta. Aplicación de este Estatuto a las autoridades administrativas.
+    articulos_destino:
+    - Art. 109
+    - Art. 110
+  - norma_id: norm-es-l-40-2015
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Transitoria séptima. Referencia a los Organismos Reguladores.
   - norma_id: norm-es-1985-5392
+    titulo_origen: Título VIII
+    articulos_origen:
+    - Art. 7
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    capitulo_origen: Capítulo III. del título VII.
+    articulos_origen:
+    - D. Final segunda.
+  modifica:
+  - norma_id: norm-es-l-53-1984
+    capitulo_origen: Capítulo IV. Derecho a la negociación colectiva, representación
+      y participación institucional. Derecho de
+    articulos_origen:
+    - D. Final tercera. Modificación de la Ley 53/1984, de 26 de diciembre, de incompatibilidades
+      del.
+    disposiciones_destino:
+    - D. Final tercera
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo IV. Derecho a la negociación colectiva, representación
+      y participación institucional. Derecho de
+    articulos_origen:
+    - D. Final tercera. Modificación de la Ley 53/1984, de 26 de diciembre, de incompatibilidades
+      del.
+    disposiciones_destino:
+    - D. Derogatoria única
+  - norma_id: norm-es-2015-8470
+    capitulo_origen: Capítulo IV. Derecho a la negociación colectiva, representación
+      y participación institucional. Derecho de
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
+    disposiciones_destino:
+    - D. Final cuarta
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo IV. Derecho a la negociación colectiva, representación
+      y participación institucional. Derecho de reunión.
+    articulos_origen:
+    - Art. 35
+  - norma_id: norm-es-l-53-1984
+    titulo_origen: Título VIII
+    capitulo_origen: Capítulo III. del título VII.
+    articulos_origen:
+    - D. Final tercera. Modificación de la Ley 53/1984, de 26 de diciembre, de.
+    disposiciones_destino:
+    - D. Final tercera
+  fundamentado_en:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    articulos_origen:
+    - Art. 87
+    articulos_destino:
+    - Art. 93
+  - norma_id: norm-es-1985-5392
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Adicional segunda. Aplicación de las disposiciones de este Estatuto a las.
+    articulos_destino:
+    - Art. 149
+    - Art. 92 bis
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Adicional segunda. Aplicación de las disposiciones de este Estatuto a las.
+    articulos_destino:
+    - Art. 149
+    - Art. 92 bis
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    capitulo_origen: Capítulo III. del título VII.
+    articulos_origen:
+    - D. Final primera. Habilitación competencial.
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-1984-17387
   - norma_id: norm-es-2012-9364
   - norma_id: norm-es-2013-12632
   - norma_id: norm-es-2015-8470
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-es-l-53-1984
+  deroga:
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Derogatoria única.
+    articulos_destino:
+    - Art. 1
+    - Art. 2
+    - Art. 3
+    - Art. 4
+    - Art. 5
+    disposiciones_destino:
+    - D. Final cuarta
   fundamento_de:
   - norma_id: norm-es-1979-29491
   - norma_id: norm-es-1985-7820
@@ -59,87 +223,31 @@ relaciones:
   - norma_id: norm-es-lo-3-2018
   - norma_id: norm-es-rd-1364-2010
   - norma_id: norm-es-rd-276-2007
-  - norma_id: norm-can-o-2023-09-28
-  - norma_id: norm-can-res-boc-2020-130-131
-  - norma_id: norm-can-d-82-1994
   - norma_id: norm-can-res-boc-1994-083-144
-  - norma_id: norm-can-res-juriscan-64565-138
-  - norma_id: norm-can-res-boc-2022-158-132
   - norma_id: norm-can-convenio-3-laboral
-  - norma_id: norm-can-res-135
   - norma_id: norm-can-res-boc-2007-036-147
-  - norma_id: norm-can-res-juriscan-41360-129
-  - norma_id: norm-can-d-74-2010
-  - norma_id: norm-can-res-juriscan-30668-127
   - norma_id: norm-can-res-boc-1998-140-142
   - norma_id: norm-can-res-boc-2002-147-141
   - norma_id: norm-can-res-boc-2005-080-146
-  - norma_id: norm-can-res-boc-2025-094-137
-  - norma_id: norm-can-res-125
-  - norma_id: norm-can-res-boc-2018-019-130
   - norma_id: norm-can-res-boc-2007-009-143
-  - norma_id: norm-can-res-boc-2018-127-9
-  - norma_id: norm-can-res-134
-  - norma_id: norm-can-res-juriscan-75818-136
   - norma_id: norm-can-res-boc-1996-057-140
-  - norma_id: norm-can-res-boc-2026-046-139
-  - norma_id: norm-can-res-juriscan-61148-128
-  - norma_id: norm-mad-r-cdd-2025-2026
   - norma_id: norm-mad-o-123-2015
   - norma_id: norm-and-o-18-6-2020
-  - norma_id: norm-mad-d126-2017
-  - norma_id: norm-mad-o2532-2022
-  - norma_id: norm-and-l3-2021
-  - norma_id: norm-mad-d43-2022
-  - norma_id: norm-and-r-cdd-2025-2026
-  - norma_id: norm-mad-d-11-2019
-  - norma_id: norm-mad-o-2808-2017
-  - norma_id: norm-mad-o-2150-2020
-  - norma_id: norm-and-o-11-12-2012
-  - norma_id: norm-and-o-10-11-2020
-  - norma_id: norm-mad-o-1117-2020
   desarrollado_por:
-  - norma_id: norm-can-res-boc-2020-130-131
-  - norma_id: norm-can-d-82-1994
   - norma_id: norm-can-res-boc-1994-083-144
-  - norma_id: norm-can-res-juriscan-64565-138
-  - norma_id: norm-can-res-boc-2022-158-132
   - norma_id: norm-can-convenio-3-laboral
-  - norma_id: norm-can-res-135
   - norma_id: norm-can-res-boc-2007-036-147
-  - norma_id: norm-can-res-juriscan-41360-129
-  - norma_id: norm-can-d-74-2010
-  - norma_id: norm-can-res-juriscan-30668-127
   - norma_id: norm-can-res-boc-1998-140-142
   - norma_id: norm-can-res-boc-2002-147-141
   - norma_id: norm-can-res-boc-2005-080-146
-  - norma_id: norm-can-res-boc-2025-094-137
-  - norma_id: norm-can-res-boc-2018-019-130
   - norma_id: norm-can-res-boc-2007-009-143
-  - norma_id: norm-can-res-134
-  - norma_id: norm-can-l-2-1987
-  - norma_id: norm-can-res-juriscan-75818-136
   - norma_id: norm-can-res-boc-1996-057-140
-  - norma_id: norm-can-res-boc-2026-046-139
-  - norma_id: norm-can-res-juriscan-61148-128
-  - norma_id: norm-mad-r-cdd-2025-2026
   - norma_id: norm-mad-o-123-2015
   - norma_id: norm-and-o-18-6-2020
-  - norma_id: norm-mad-d126-2017
-  - norma_id: norm-mad-o2532-2022
-  - norma_id: norm-and-l3-2021
-  - norma_id: norm-mad-d43-2022
-  - norma_id: norm-and-r-cdd-2025-2026
-  - norma_id: norm-mad-d-11-2019
-  - norma_id: norm-mad-o-2808-2017
-  - norma_id: norm-mad-o-2150-2020
-  - norma_id: norm-and-o-11-12-2012
-  - norma_id: norm-and-o-10-11-2020
-  - norma_id: norm-mad-o-1117-2020
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '103'
+  - norma_id: '103'
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-2015-8470
   - norma_id: norm-es-l-40-2015
@@ -148,6 +256,7 @@ relaciones:
   - norma_id: norm-es-2013-12632
   - norma_id: norm-es-2012-9364
 ---
+
 # Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.
 
 ## Preámbulo
@@ -1556,3 +1665,71 @@ presente Estatuto incluyan el factor de incompatibilidad al retribuido por aranc
 Función Pública que se dicten en desarrollo de este Estatuto. La disposición final tercera del presente Estatuto producirá efectos en cada Administración Pública a partir de la entrada en vigor del capítulo III del título III con la aprobación de las leyes de Función Pública de las Administraciones Públicas que se dicten en desarrollo de este Estatuto. Hasta que se hagan efectivos esos supuestos la autorización o denegación de compatibilidades continuará rigiéndose por la actual normativa.
 
 2. Hasta que se dicten las leyes de Función Pública y las normas reglamentarias de desarrollo se mantendrán en vigor en cada Administración Pública las normas vigentes sobre ordenación, planificación y gestión de recursos humanos en tanto no se opongan a lo establecido en este Estatuto. Este documento es de carácter informativo y no tiene valor jurídico.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**L53_1984 Incompatibilidades del Personal Publico**](./L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (D. Final tercera) desde *(Capítulo IV. Derecho a la negociación colectiva, representación y participación institucional. Derecho de, D. Final tercera. Modificación de la Ley 53/1984, de 26 de diciembre, de incompatibilidades del.)*
+- **Modifica**: `norm-es-c-1978` (D. Derogatoria única) desde *(Capítulo IV. Derecho a la negociación colectiva, representación y participación institucional. Derecho de, D. Final tercera. Modificación de la Ley 53/1984, de 26 de diciembre, de incompatibilidades del.)*
+- **Modifica**: [**BOE-A-2015-8470**](./L26_2015_modificacion_sistema_proteccion_infancia_adolescencia.md) (D. Final cuarta) desde *(Capítulo IV. Derecho a la negociación colectiva, representación y participación institucional. Derecho de, D. Derogatoria única. Derogación normativa.)*
+- **Modifica**: `norm-es-c-1978` desde *(Título III, Capítulo IV. Derecho a la negociación colectiva, representación y participación institucional. Derecho de reunión., Art. 35)*
+- **Modifica**: [**L53_1984 Incompatibilidades del Personal Publico**](./L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (D. Final tercera) desde *(Título VIII, Capítulo III. del título VII., D. Final tercera. Modificación de la Ley 53/1984, de 26 de diciembre, de.)*
+- **Deroga**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md) (Art. 1, Art. 2, Art. 3, Art. 4, Art. 5, D. Final cuarta) desde *(Título VIII, D. Derogatoria única.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 93) desde *(Título VI, Art. 87)*
+- **Fundamentado en**: [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md) (Art. 149, Art. 92 bis, D. Adicional primera) desde *(Título VIII, D. Adicional segunda. Aplicación de las disposiciones de este Estatuto a las.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 92 bis, D. Adicional primera) desde *(Título VIII, D. Adicional segunda. Aplicación de las disposiciones de este Estatuto a las.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Título VIII, Capítulo III. del título VII., D. Final primera. Habilitación competencial.)*
+- **Fundamentado en**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md)
+- **Fundamentado en**: [**BOE-A-2012-9364**](../08_personal_docente/RD20_2012_real_decreto_ley_medidas_garantizar_estabilidad.md)
+- **Fundamentado en**: [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md)
+- **Fundamentado en**: [**BOE-A-2015-8470**](./L26_2015_modificacion_sistema_proteccion_infancia_adolescencia.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](./L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamentado en**: [**L53_1984 Incompatibilidades del Personal Publico**](./L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md)
+- **Fundamento de**: [**BOE-A-1979-29491**](../08_personal_docente/DOC1_instrumento_ratificacion_acuerdo_entre_estado_espanol.md)
+- **Fundamento de**: [**BOE-A-1985-7820**](../08_personal_docente/RD598_1985_incompatibilidades_personal_servicio_administracion_estado_seguridad.md)
+- **Fundamento de**: [**BOE-A-1993-23257**](../08_personal_docente/RD850_1993_aprueban_temarios_han_regir_procedimientos_ingreso.md)
+- **Fundamento de**: [**BOE-A-1995-22212**](../08_personal_docente/RD1635_1995_adscribe_profesorado_cuerpos_profesores_ensenanza_secundaria.md)
+- **Fundamento de**: [**BOE-A-1996-3102**](../08_personal_docente/O1_2_1996_aprueban_temarios_han_regir_procedimientos_ingreso.md)
+- **Fundamento de**: [**BOE-A-1998-10720**](../08_personal_docente/RD777_1998_desarrollan_determinados_aspectos_ordenacion_formacion_profesional.md)
+- **Fundamento de**: [**BOE-A-2010-10424**](../08_personal_docente/Osn_pre_regula_procedimiento_reconocimiento_control_seguimiento.md)
+- **Fundamento de**: [**BOE-A-2012-9364**](../08_personal_docente/RD20_2012_real_decreto_ley_medidas_garantizar_estabilidad.md)
+- **Fundamento de**: [**BOE-A-2014-7684**](../08_personal_docente/RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md)
+- **Fundamento de**: [**BOE-A-2015-6839**](../08_personal_docente/RD1187_2015_ess_desarrolla_real_decreto_regulan_determinados.md)
+- **Fundamento de**: [**BOE-A-2015-8470**](./L26_2015_modificacion_sistema_proteccion_infancia_adolescencia.md)
+- **Fundamento de**: [**BOE-A-2015-9453**](../08_personal_docente/Osn_ecd_aprueban_temarios_han_regir_procedimientos_2.md)
+- **Fundamento de**: [**BOE-A-2022-16194**](../08_personal_docente/RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md)
+- **Fundamento de**: [**BOE-A-2024-11613**](../03_ordenacion_curricular_y_ensenanzas/L1_2024_regulan_ensenanzas_artisticas_superiores_establece_organizacion.md)
+- **Fundamento de**: [**BOE-A-2026-2622**](../04_organizacion_escolar_y_funcionamiento/RD68_2026_regula_inspeccion_educativa.md)
+- **Fundamento de**: [**L9_2017 Contratos del Sector Publico (LCSP)**](../02_gestion_y_administracion_centros/L9_2017_contratos_sector_publico_transponen_ordenamiento_juridico.md)
+- **Fundamento de**: [**LO10_2022 Garantia Integral de la Libertad Sexual**](../07_convivencia_bienestar_y_protocolos/LO10_2022_garantia_integral_libertad_sexual.md)
+- **Fundamento de**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
+- **Fundamento de**: [**RD1364_2010 Regulacion del Concurso de Traslados Docente**](../08_personal_docente/RD1364_2010_regula_concurso_traslados_ambito_estatal_entre.md)
+- **Fundamento de**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Fundamento de**: `norm-can-res-boc-1994-083-144`
+- **Fundamento de**: `norm-can-convenio-3-laboral`
+- **Fundamento de**: `norm-can-res-boc-2007-036-147`
+- **Fundamento de**: `norm-can-res-boc-1998-140-142`
+- **Fundamento de**: `norm-can-res-boc-2002-147-141`
+- **Fundamento de**: `norm-can-res-boc-2005-080-146`
+- **Fundamento de**: `norm-can-res-boc-2007-009-143`
+- **Fundamento de**: `norm-can-res-boc-1996-057-140`
+- **Fundamento de**: `norm-mad-o-123-2015`
+- **Fundamento de**: `norm-and-o-18-6-2020`
+- **Cita a**: `norm-es-rdleg-5-2015`
+- **Cita a**: [**BOE-A-2012-9364**](../08_personal_docente/RD20_2012_real_decreto_ley_medidas_garantizar_estabilidad.md) (Art. 13) desde *(Capítulo IV. Derecho a la negociación colectiva, representación y participación institucional. Derecho de, D. Derogatoria única. Derogación normativa.)*
+- **Cita a**: `norm-es-c-1978` (Art. 6) desde *(Título III, Capítulo IV. Derecho a la negociación colectiva, representación y participación institucional. Derecho de reunión., Art. 33)*
+- **Cita a**: `norm-es-c-1978` (Art. 35) desde *(Título III, Capítulo IV. Derecho a la negociación colectiva, representación y participación institucional. Derecho de reunión., Art. 35)*
+- **Cita a**: `norm-es-c-1978` desde *(Título III, Capítulo V. Derecho a la jornada de trabajo, permisos y vacaciones., Art. 48)*
+- **Cita a**: `norm-es-c-1978` desde *(Título III, Capítulo VI. Deberes de los empleados públicos. Código de Conducta., Art. 52)*
+- **Cita a**: `norm-es-c-1978` desde *(Título III, Capítulo VI. Deberes de los empleados públicos. Código de Conducta., Art. 53)*
+- **Cita a**: [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md) desde *(Título IV, Capítulo I. Acceso al empleo público y adquisición de la relación de servicio., Art. 59)*
+- **Cita a**: `norm-es-c-1978` desde *(Título IV, Capítulo I. Acceso al empleo público y adquisición de la relación de servicio., Art. 62)*
+- **Cita a**: `norm-es-c-1978` desde *(Título VII, Art. 95)*
+- **Cita a**: `norm-es-c-1978` (Art. 149, D. Adicional primera) desde *(Título VIII, D. Adicional segunda. Aplicación de las disposiciones de este Estatuto a las.)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](./L40_2015_regimen_juridico_sector_publico.md) (Art. 109, Art. 110) desde *(Título VIII, D. Adicional cuarta. Aplicación de este Estatuto a las autoridades administrativas.)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](./L40_2015_regimen_juridico_sector_publico.md) desde *(Título VIII, D. Transitoria séptima. Referencia a los Organismos Reguladores.)*
+- **Cita a**: [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md) desde *(Título VIII, Art. 7)*
+- **Cita a**: `norm-es-c-1978` desde *(Título VIII, Capítulo III. del título VII., D. Final segunda.)*

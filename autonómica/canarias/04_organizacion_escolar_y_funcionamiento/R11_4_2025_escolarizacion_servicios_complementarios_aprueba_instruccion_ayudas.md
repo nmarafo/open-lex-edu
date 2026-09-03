@@ -28,22 +28,117 @@ tags:
 - instrucciones-de-organizacion-y-funcionamiento
 - oposiciones
 relaciones:
-  fundamentado_en:
+  desarrolla:
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-lo-3-2020
+  - norma_id: norm-can-l-6-2014
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-lo-3-2020
+    articulos_destino:
+    - Art. 1
+  cita:
   - norma_id: norm-can-d-276-1997
+    capitulo_destino: Capítulo VIII
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 118
+  - norma_id: norm-can-d-276-1997
+    capitulo_destino: Capítulo VIII
+  fundamentado_en:
   - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 18
+    - Art. 15
+    - Art. 16
+    - Art. 17
+    - Art. 2
+    - Art. 3
+    - Art. 4
+    disposiciones_destino:
+    - D. Transitoria única
+    - D. Adicional única
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 18
+    - Art. 15
+    - Art. 16
+    - Art. 17
+    - Art. 2
+    - Art. 3
+    - Art. 4
+    disposiciones_destino:
+    - D. Transitoria única
+    - D. Adicional única
+  - norma_id: norm-es-l-40-2015
+    articulos_destino:
+    - Art. 18
+    - Art. 15
+    - Art. 16
+    - Art. 17
+    - Art. 2
+    - Art. 3
+    - Art. 4
+    disposiciones_destino:
+    - D. Transitoria única
+    - D. Adicional única
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 94
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 68
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 124
+    - Art. 25
+  - norma_id: norm-es-lo-3-2018
+    articulos_destino:
+    - Art. 30
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 28
+  - norma_id: norm-can-d-276-1997
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  concordancia:
   - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 29
+    - Art. 30
+    - Art. 31
+    - Art. 32
+    - Art. 28
   - norma_id: norm-es-l-40-2015
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-lo-3-2018
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 15
+    - Art. 16
+    - Art. 17
+    - Art. 18
+    - Art. 9
+  - norma_id: norm-can-d-276-1997
+    capitulo_destino: Capítulo VIII
+  - norma_id: norm-es-l-39-2015
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-d-276-1997
@@ -54,6 +149,7 @@ relaciones:
   - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-087-1645.pdf
 ---
+
 # Resolución de 11 de abril de 2025, de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios por la que se aprueba la instrucción de las ayudas de préstamo de libros de texto y materiales didácticos para el curso escolar 2025/2026 (BOC n.º 87, de 2 de mayo).
 
 ## Preámbulo
@@ -353,3 +449,39 @@ a. - Una parte de la cuantía de la pensión exenta de tributación, no sujeta a
 - [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
 - [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Desarrolla**: `norm-es-lo-3-2020`
+- **Desarrolla**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md) (Art. 1)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 1)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 1)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 1)
+- **Desarrolla**: `norm-es-lo-3-2020` (Art. 1)
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 18, Art. 15, Art. 16, Art. 17, Art. 2, Art. 3, Art. 4, D. Transitoria única, D. Adicional única)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 18, Art. 15, Art. 16, Art. 17, Art. 2, Art. 3, Art. 4, D. Transitoria única, D. Adicional única)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 18, Art. 15, Art. 16, Art. 17, Art. 2, Art. 3, Art. 4, D. Transitoria única, D. Adicional única)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 94)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 68)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 124, Art. 25)
+- **Fundamentado en**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) (Art. 30)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 28)
+- **Fundamentado en**: [**D276_1997 Gestion Economica de Centros Docentes Publicos**](../02_gestion_y_administracion_centros/D276_1997_regula_procedimiento_gestion_economica_centros_docentes.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **En concordancia con**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 29, Art. 30, Art. 31, Art. 32, Art. 28)
+- **En concordancia con**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 15, Art. 16, Art. 17, Art. 18, Art. 9)
+- **En concordancia con**: [**D276_1997 Gestion Economica de Centros Docentes Publicos**](../02_gestion_y_administracion_centros/D276_1997_regula_procedimiento_gestion_economica_centros_docentes.md) (Capítulo VIII)
+- **En concordancia con**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**D276_1997 Gestion Economica de Centros Docentes Publicos**](../02_gestion_y_administracion_centros/D276_1997_regula_procedimiento_gestion_economica_centros_docentes.md) (Capítulo VIII, Art. 2)
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 118)
+- **Cita a**: [**D276_1997 Gestion Economica de Centros Docentes Publicos**](../02_gestion_y_administracion_centros/D276_1997_regula_procedimiento_gestion_economica_centros_docentes.md) (Capítulo VIII)

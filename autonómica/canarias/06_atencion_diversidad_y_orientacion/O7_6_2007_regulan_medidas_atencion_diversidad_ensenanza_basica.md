@@ -36,6 +36,27 @@ tags:
 - refuerzo-educativo
 - titulacion
 relaciones:
+  cita:
+  - norma_id: norm-can-l-14-1990
+    articulos_destino:
+    - Art. 29
+    - Art. 4
+    - Art. 5
+    disposiciones_destino:
+    - D. Final Primera
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 29
+    - Art. 4
+    - Art. 5
+    disposiciones_destino:
+    - D. Final Primera
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo II. Incorporación de las medidas AL plan de atención
+      a la diversidad.
+    articulos_origen:
+    - D. Derogatoria . A medida que se aplique el calendario de implantación de la
+      Ley.
   desarrolla:
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
@@ -48,7 +69,7 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '22'
+  - norma_id: '22'
   - norma_id: norm-can-l-14-1990
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-2021-20113
@@ -56,6 +77,7 @@ relaciones:
 fuente_pdf_oficial: https://www.gobiernodecanarias.org/boc/2007/124/boc-2007-124-001.pdf
 anexos_extraidos_pdf: true
 ---
+
 # Orden de 7 de junio de 2007, por la que se regulan las medidas de atención a la diversidad en la enseñanza básica en la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -357,3 +379,19 @@ Primera.- Se autoriza a los centros directivos de esta Consejería y, en especia
 © Gobierno de Canarias
 • Aviso Legal
 • Sugerencias y Reclamaciones
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L14_1990 Regimen Juridico Administraciones Canarias**](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- **Cita a**: [**L14_1990 Regimen Juridico Administraciones Canarias**](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md) (Art. 29, Art. 4, Art. 5, D. Final Primera)
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 29, Art. 4, Art. 5, D. Final Primera)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo II. Incorporación de las medidas AL plan de atención a la diversidad., D. Derogatoria . A medida que se aplique el calendario de implantación de la Ley.)*

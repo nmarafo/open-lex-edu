@@ -27,6 +27,14 @@ tags:
 - participacion-familias
 - personal-no-docente
 relaciones:
+  cita:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 27
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I. De las AMPAS
+    articulos_origen:
+    - Art. 1
   desarrolla:
   - norma_id: norm-es-rd-1533-1986
   - norma_id: norm-es-lo-2-2006
@@ -39,8 +47,9 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '27'
+  - norma_id: '27'
 ---
+
 # Decreto 234/1996, de 12 de septiembre, por el que se regulan las Asociaciones de Madres y Padres de Alumnos y sus Federaciones y Confederaciones en la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -85,3 +94,18 @@ La Constitución Española en su artículo 27 garantiza la participación de la 
 
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**RD1533_1986 Regulacion de Asociaciones de Padres de Alumnos (AMPAS)**](../../../estatal/04_organizacion_escolar_y_funcionamiento/RD1533_1986_regulan_asociaciones_padres_alumnos.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Cita a**: `norm-es-c-1978` (Art. 27)
+- **Cita a**: `norm-es-c-1978` desde *(Título I. De las AMPAS, Art. 1)*

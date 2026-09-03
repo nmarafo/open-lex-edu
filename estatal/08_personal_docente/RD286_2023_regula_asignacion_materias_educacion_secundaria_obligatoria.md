@@ -30,20 +30,292 @@ tags:
 - profesorado
 - titulacion
 relaciones:
-  desarrolla:
-  - norma_id: norm-es-rd-217-2022
-  - norma_id: norm-es-rd-243-2022
-  fundamentado_en:
-  - norma_id: norm-es-1993-23257
-  - norma_id: norm-es-2001-7022
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 91
+    - Art. 92
+    - Art. 93
+    - Art. 94
+    - Art. 95
+    - Art. 96
+    - Art. 97
+    - Art. 98
+    - Art. 99
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 91
+    - Art. 92
+    - Art. 93
+    - Art. 94
+    - Art. 95
+    - Art. 96
+    - Art. 97
+    - Art. 98
+    - Art. 99
   - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 91
+    - Art. 92
+    - Art. 93
+    - Art. 94
+    - Art. 95
+    - Art. 96
+    - Art. 97
+    - Art. 98
+    - Art. 99
+  - norma_id: norm-es-lo-2-2006
+    disposiciones_destino:
+    - D. Final quinta
+  - norma_id: norm-es-lo-3-2022
+    disposiciones_destino:
+    - D. Final quinta
+  - norma_id: norm-es-2021-20113
+    disposiciones_destino:
+    - D. Final quinta
+  - norma_id: norm-es-2010-12201
+    disposiciones_destino:
+    - D. Final quinta
+  - norma_id: norm-es-2022-16194
+    disposiciones_destino:
+    - D. Final quinta
+  - norma_id: norm-es-lo-3-2020
+    disposiciones_destino:
+    - D. Final quinta
+  - norma_id: norm-es-rd-1834-2008
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-lo-3-2020
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-rd-1834-2008
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1834/2008, de 8 de noviembre,
+      por el que se definen las condiciones de formación para el ejercicio de la docencia
+      en la educación secundaria obligatoria, el bachillerato, la formación profesional
+      y las enseñanzas de régimen especial y se establecen las especialidades de los
+      cuerpos docentes de enseñanza secundaria.
+    disposiciones_destino:
+    - D. Final tercera
+  - norma_id: norm-es-rd-1834-2008
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1834/2008, de 8 de noviembre,
+      por el que se definen las condiciones de formación para el ejercicio de la docencia
+      en la educación secundaria obligatoria, el bachillerato, la formación profesional
+      y las enseñanzas de régimen especial y se establecen las especialidades de los
+      cuerpos docentes de enseñanza secundaria.
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Final cuarta. Modificación de la Orden ECD/191/2012, de 6 de febrero, por
+      la que se regulan los temarios que han de regir en los procedimientos de ingreso,
+      accesos y adquisición de nuevas especialidades en los cuerpos docentes establecidos
+      en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Final cuarta
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Final cuarta. Modificación de la Orden ECD/191/2012, de 6 de febrero, por
+      la que se regulan los temarios que han de regir en los procedimientos de ingreso,
+      accesos y adquisición de nuevas especialidades en los cuerpos docentes establecidos
+      en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Final cuarta
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Final cuarta. Modificación de la Orden ECD/191/2012, de 6 de febrero, por
+      la que se regulan los temarios que han de regir en los procedimientos de ingreso,
+      accesos y adquisición de nuevas especialidades en los cuerpos docentes establecidos
+      en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Final cuarta
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Final cuarta. Modificación de la Orden ECD/191/2012, de 6 de febrero, por
+      la que se regulan los temarios que han de regir en los procedimientos de ingreso,
+      accesos y adquisición de nuevas especialidades en los cuerpos docentes establecidos
+      en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Final cuarta. Modificación de la Orden ECD/191/2012, de 6 de febrero, por
+      la que se regulan los temarios que han de regir en los procedimientos de ingreso,
+      accesos y adquisición de nuevas especialidades en los cuerpos docentes establecidos
+      en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Final cuarta. Modificación de la Orden ECD/191/2012, de 6 de febrero, por
+      la que se regulan los temarios que han de regir en los procedimientos de ingreso,
+      accesos y adquisición de nuevas especialidades en los cuerpos docentes establecidos
+      en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    articulos_destino:
+    - Art. 1
+  cita:
+  - norma_id: norm-es-rd-1834-2008
+  - norma_id: norm-es-lo-3-2020
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 30
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 30
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 30
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 26
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 26
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 26
+  - norma_id: norm-es-rd-1834-2008
+    articulos_origen:
+    - D. Transitoria única. Normas aplicables durante el curso 2022-2023. 1. Durante
+      el curso 2022-2023, la asignación de materias a las distintas especialidades
+      en los cursos segundo y cuarto de Educación Secundaria Obligatoria, en los ámbitos
+      específicos de los programas de mejora del aprendizaje y el rendimiento, en
+      los módulos de los ciclos de Formación Profesional Básica asociados a los bloques
+      comunes y en el segundo curso de Bachillerato, seguirá siendo la que, hasta
+      la entrada en vigor de este real decreto, se establecía en los artículos 3,
+      5, 6 y 8, las disposiciones adicionales tercera, sexta y novena, y los anexos
+      III, IV, V y VI del Real Decreto 1834/2008, de 8 de noviembre, por el que se
+      definen las condiciones de formación para el ejercicio de la docencia en la
+      educación secundaria obligatoria, el bachillerato, la formación profesional
+      y las enseñanzas de régimen especial y se establecen las especialidades de los
+      cuerpos docentes de enseñanza secundaria.
+    articulos_destino:
+    - Art. 3
+    - Art. 5
+    - Art. 6
+    - Art. 8
+    disposiciones_destino:
+    - D. Transitoria única
+  - norma_id: norm-es-rd-1834-2008
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
+    articulos_destino:
+    - Art. 3
+    - Art. 5
+    - Art. 6
+    - Art. 8
+  - norma_id: norm-es-1993-23257
+    articulos_origen:
+    - D. Final cuarta. Modificación de la Orden ECD/191/2012, de 6 de febrero, por
+      la que se regulan los temarios que han de regir en los procedimientos de ingreso,
+      accesos y adquisición de nuevas especialidades en los cuerpos docentes establecidos
+      en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Final quinta. Modificación del Real Decreto 428/2013, de 14 de junio, por
+      el que se establecen las especialidades docentes del Cuerpo de Profesores de
+      Música y Artes Escénicas vinculadas a las enseñanzas de Música y de Danza.
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Final quinta. Modificación del Real Decreto 428/2013, de 14 de junio, por
+      el que se establecen las especialidades docentes del Cuerpo de Profesores de
+      Música y Artes Escénicas vinculadas a las enseñanzas de Música y de Danza.
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Final quinta. Modificación del Real Decreto 428/2013, de 14 de junio, por
+      el que se establecen las especialidades docentes del Cuerpo de Profesores de
+      Música y Artes Escénicas vinculadas a las enseñanzas de Música y de Danza.
+  desarrolla:
+  - norma_id: norm-es-rd-1834-2008
   - norma_id: norm-es-2015-8043
   - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-rd-217-2022
+  - norma_id: norm-es-rd-243-2022
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-lo-3-2020
+  fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 27
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Final segunda. Modificación del Real Decreto 363/2004, de 5 de marzo, por
+      el que se declara la equivalencia de determinadas titulaciones, a efectos de
+      docencia, a las exigidas con carácter general para el ingreso y adquisición
+      de especialidades de los Cuerpos de Profesores y Maestros de Taller de Artes
+      Plásticas y Diseño.
+  - norma_id: norm-es-2001-7022
+    articulos_origen:
+    - D. Final segunda. Modificación del Real Decreto 363/2004, de 5 de marzo, por
+      el que se declara la equivalencia de determinadas titulaciones, a efectos de
+      docencia, a las exigidas con carácter general para el ingreso y adquisición
+      de especialidades de los Cuerpos de Profesores y Maestros de Taller de Artes
+      Plásticas y Diseño.
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Final segunda. Modificación del Real Decreto 363/2004, de 5 de marzo, por
+      el que se declara la equivalencia de determinadas titulaciones, a efectos de
+      docencia, a las exigidas con carácter general para el ingreso y adquisición
+      de especialidades de los Cuerpos de Profesores y Maestros de Taller de Artes
+      Plásticas y Diseño.
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Final segunda. Modificación del Real Decreto 363/2004, de 5 de marzo, por
+      el que se declara la equivalencia de determinadas titulaciones, a efectos de
+      docencia, a las exigidas con carácter general para el ingreso y adquisición
+      de especialidades de los Cuerpos de Profesores y Maestros de Taller de Artes
+      Plásticas y Diseño.
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final séptima. Título competencial.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-1993-23257
+  - norma_id: norm-es-2015-8043
+  - norma_id: norm-es-2016-3229
   - norma_id: norm-es-2022-16194
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-3-2022
   - norma_id: norm-es-rd-1834-2008
   fundamento_de:
@@ -51,9 +323,8 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
+  - norma_id: '27'
   - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-can-res-134
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-2015-8043
@@ -67,6 +338,7 @@ relaciones:
   - norma_id: norm-es-1993-23257
   - norma_id: norm-es-2022-16194
 ---
+
 # Real Decreto 286/2023, de 18 de abril, por el que se regula la asignación de materias en Educación Secundaria Obligatoria y en Bachillerato a las especialidades de distintos cuerpos de funcionarios docentes, y se modifican diversas normas relativas al profesorado de enseñanzas no universitarias.
 
 ## Preámbulo
@@ -598,3 +870,77 @@ Cultura Audiovisual.
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**BOE-A-1993-23257**](./RD850_1993_aprueban_temarios_han_regir_procedimientos_ingreso.md)
 - [**BOE-A-2022-16194**](./RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](../02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md)
+- **Desarrolla**: [**BOE-A-2015-8043**](../02_gestion_y_administracion_centros/RD665_2015_desarrollan_determinadas_disposiciones_relativas_ejercicio_docencia.md)
+- **Desarrolla**: [**BOE-A-2016-3229**](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Desarrolla**: [**RD217_2022 Ordenacion y Ensenanzas Minimas de la ESO**](../03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md)
+- **Desarrolla**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md)
+- **Desarrolla**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Desarrolla**: `norm-es-lo-3-2020`
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 91, Art. 92, Art. 93, Art. 94, Art. 95, Art. 96, Art. 97, Art. 98, Art. 99)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 91, Art. 92, Art. 93, Art. 94, Art. 95, Art. 96, Art. 97, Art. 98, Art. 99)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 91, Art. 92, Art. 93, Art. 94, Art. 95, Art. 96, Art. 97, Art. 98, Art. 99)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Final quinta)
+- **Modifica**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (D. Final quinta)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Final quinta)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Final quinta)
+- **Modifica**: [**BOE-A-2022-16194**](./RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md) (D. Final quinta)
+- **Modifica**: `norm-es-lo-3-2020` (D. Final quinta)
+- **Modifica**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](../02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Modifica**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 129)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 129)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 129)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 129)
+- **Modifica**: `norm-es-lo-3-2020` (Art. 129)
+- **Modifica**: `norm-es-c-1978` (Art. 149, Art. 27)
+- **Modifica**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](../02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md) (D. Final tercera) desde *(D. Final tercera. Modificación del Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria.)*
+- **Modifica**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](../02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md) desde *(D. Final tercera. Modificación del Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Final cuarta) desde *(D. Final cuarta. Modificación de la Orden ECD/191/2012, de 6 de febrero, por la que se regulan los temarios que han de regir en los procedimientos de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Final cuarta) desde *(D. Final cuarta. Modificación de la Orden ECD/191/2012, de 6 de febrero, por la que se regulan los temarios que han de regir en los procedimientos de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Final cuarta) desde *(D. Final cuarta. Modificación de la Orden ECD/191/2012, de 6 de febrero, por la que se regulan los temarios que han de regir en los procedimientos de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 1) desde *(D. Final cuarta. Modificación de la Orden ECD/191/2012, de 6 de febrero, por la que se regulan los temarios que han de regir en los procedimientos de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 1) desde *(D. Final cuarta. Modificación de la Orden ECD/191/2012, de 6 de febrero, por la que se regulan los temarios que han de regir en los procedimientos de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 1) desde *(D. Final cuarta. Modificación de la Orden ECD/191/2012, de 6 de febrero, por la que se regulan los temarios que han de regir en los procedimientos de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 27)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Art. 2)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Art. 2)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Art. 2)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(D. Final segunda. Modificación del Real Decreto 363/2004, de 5 de marzo, por el que se declara la equivalencia de determinadas titulaciones, a efectos de docencia, a las exigidas con carácter general para el ingreso y adquisición de especialidades de los Cuerpos de Profesores y Maestros de Taller de Artes Plásticas y Diseño.)*
+- **Fundamentado en**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) desde *(D. Final segunda. Modificación del Real Decreto 363/2004, de 5 de marzo, por el que se declara la equivalencia de determinadas titulaciones, a efectos de docencia, a las exigidas con carácter general para el ingreso y adquisición de especialidades de los Cuerpos de Profesores y Maestros de Taller de Artes Plásticas y Diseño.)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(D. Final segunda. Modificación del Real Decreto 363/2004, de 5 de marzo, por el que se declara la equivalencia de determinadas titulaciones, a efectos de docencia, a las exigidas con carácter general para el ingreso y adquisición de especialidades de los Cuerpos de Profesores y Maestros de Taller de Artes Plásticas y Diseño.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(D. Final segunda. Modificación del Real Decreto 363/2004, de 5 de marzo, por el que se declara la equivalencia de determinadas titulaciones, a efectos de docencia, a las exigidas con carácter general para el ingreso y adquisición de especialidades de los Cuerpos de Profesores y Maestros de Taller de Artes Plásticas y Diseño.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(D. Final séptima. Título competencial.)*
+- **Fundamentado en**: [**BOE-A-1993-23257**](./RD850_1993_aprueban_temarios_han_regir_procedimientos_ingreso.md)
+- **Fundamentado en**: [**BOE-A-2015-8043**](../02_gestion_y_administracion_centros/RD665_2015_desarrollan_determinadas_disposiciones_relativas_ejercicio_docencia.md)
+- **Fundamentado en**: [**BOE-A-2016-3229**](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
+- **Fundamentado en**: [**BOE-A-2022-16194**](./RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
+- **Fundamentado en**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](../02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md)
+- **Fundamento de**: [**BOE-A-2024-10683**](../03_ordenacion_curricular_y_ensenanzas/RD498_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Cita a**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](../02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md)
+- **Cita a**: `norm-es-lo-3-2020`
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 30) desde *(Art. 3)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 30) desde *(Art. 3)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 30) desde *(Art. 3)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 26) desde *(Art. 4)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 26) desde *(Art. 4)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 26) desde *(Art. 4)*
+- **Cita a**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](../02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md) (Art. 3, Art. 5, Art. 6, Art. 8, D. Transitoria única) desde *(D. Transitoria única. Normas aplicables durante el curso 2022-2023. 1. Durante el curso 2022-2023, la asignación de materias a las distintas especialidades en los cursos segundo y cuarto de Educación Secundaria Obligatoria, en los ámbitos específicos de los programas de mejora del aprendizaje y el rendimiento, en los módulos de los ciclos de Formación Profesional Básica asociados a los bloques comunes y en el segundo curso de Bachillerato, seguirá siendo la que, hasta la entrada en vigor de este real decreto, se establecía en los artículos 3, 5, 6 y 8, las disposiciones adicionales tercera, sexta y novena, y los anexos III, IV, V y VI del Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria.)*
+- **Cita a**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](../02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md) (Art. 3, Art. 5, Art. 6, Art. 8) desde *(D. Derogatoria única. Derogación normativa.)*
+- **Cita a**: [**BOE-A-1993-23257**](./RD850_1993_aprueban_temarios_han_regir_procedimientos_ingreso.md) desde *(D. Final cuarta. Modificación de la Orden ECD/191/2012, de 6 de febrero, por la que se regulan los temarios que han de regir en los procedimientos de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(D. Final quinta. Modificación del Real Decreto 428/2013, de 14 de junio, por el que se establecen las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Música y de Danza.)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(D. Final quinta. Modificación del Real Decreto 428/2013, de 14 de junio, por el que se establecen las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Música y de Danza.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(D. Final quinta. Modificación del Real Decreto 428/2013, de 14 de junio, por el que se establecen las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Música y de Danza.)*

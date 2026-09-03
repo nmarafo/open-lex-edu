@@ -32,6 +32,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Decreto 149/1988, de 5 de abril, por el que se establece la ordenación de las enseñanzas de Música y Danza en Andalucía.
 
 ## Preámbulo
@@ -84,8 +85,16 @@ Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo
 
 #### Primera. Se faculta a la Consejería de Hacienda y Planificación para dictar las disposiciones necesarias en orden a la aplicación y desarrollo de lo establecido en este Decreto.
 
-#### Segunda. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 16 de marzo de 1988 JOSE RODRIGUEZ DE LA BORBOLLA Y CAMOYAN Presidente de la Junta de Andalucía ANGEL OJEDA AVILES Consejero de Hacienda y Planificación
-
 Descargar PDF
 
 Disposición siguiente
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

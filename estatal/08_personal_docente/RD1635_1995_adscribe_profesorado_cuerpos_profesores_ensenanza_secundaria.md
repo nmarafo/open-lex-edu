@@ -25,10 +25,42 @@ tags:
 - formacion-profesional
 - profesorado
 relaciones:
+  cita:
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2001-7022
+    articulos_origen:
+    - D. Transitoria segunda.
+    disposiciones_destino:
+    - D. Adicional cuarta
+  - norma_id: norm-es-2001-7022
+    articulos_origen:
+    - D. Transitoria tercera.
+    disposiciones_destino:
+    - D. Adicional cuarta
+  - norma_id: norm-es-2001-7022
+    articulos_origen:
+    - D. Transitoria cuarta.
+    disposiciones_destino:
+    - D. Adicional quinta
+  - norma_id: norm-es-2001-7022
+    articulos_origen:
+    - D. Transitoria sexta.
   fundamentado_en:
   - norma_id: norm-es-1993-23257
+    articulos_origen:
+    - D. Adicional cuarta. El artículo 4 l.
+    articulos_destino:
+    - Art. 4
   - norma_id: norm-es-2001-7022
+    articulos_origen:
+    - D. Final primera.
+    disposiciones_destino:
+    - D. Adicional primera
   - norma_id: norm-es-lo-8-1985
+    articulos_origen:
+    - D. Final primera.
+    disposiciones_destino:
+    - D. Adicional primera
   - norma_id: norm-es-rd-276-2007
   - norma_id: norm-es-rdl-5-2015
   fundamento_de:
@@ -38,11 +70,12 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-es-rd-276-2007
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-lo-8-1985
   - norma_id: norm-es-1993-23257
 ---
+
 # Real Decreto 1635/1995, de 6 de octubre, por el que se adscribe el profesorado de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional a las especialidades propias de la formación profesional específica.
 
 ## Preámbulo
@@ -5367,3 +5400,22 @@ Ingeniero Técnico Agrícola.
 - [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 - [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
 - [**BOE-A-1993-23257**](./RD850_1993_aprueban_temarios_han_regir_procedimientos_ingreso.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Fundamentado en**: [**BOE-A-1993-23257**](./RD850_1993_aprueban_temarios_han_regir_procedimientos_ingreso.md) (Art. 4) desde *(D. Adicional cuarta. El artículo 4 l.)*
+- **Fundamentado en**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (D. Adicional primera) desde *(D. Final primera.)*
+- **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (D. Adicional primera) desde *(D. Final primera.)*
+- **Fundamentado en**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamento de**: [**BOE-A-1996-3102**](./O1_2_1996_aprueban_temarios_han_regir_procedimientos_ingreso.md)
+- **Fundamento de**: [**BOE-A-1998-10720**](./RD777_1998_desarrollan_determinados_aspectos_ordenacion_formacion_profesional.md)
+- **Fundamento de**: [**RD1364_2010 Regulacion del Concurso de Traslados Docente**](./RD1364_2010_regula_concurso_traslados_ambito_estatal_entre.md)
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (D. Adicional cuarta) desde *(D. Transitoria segunda.)*
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (D. Adicional cuarta) desde *(D. Transitoria tercera.)*
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (D. Adicional quinta) desde *(D. Transitoria cuarta.)*
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) desde *(D. Transitoria sexta.)*

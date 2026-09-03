@@ -24,6 +24,68 @@ tags:
 - neae
 - oposiciones
 relaciones:
+  cita:
+  - norma_id: norm-es-l-31-1995
+    articulos_origen:
+    - D. Adicional vigésima.... primera.
+    articulos_destino:
+    - Art. 26
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final primera. Fundamento constitucional.
+    titulo_destino: Título PRELIMINAR
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 28
+    - Art. 29
+    - Art. 30
+    - Art. 31
+    - Art. 149
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final primera. Fundamento constitucional.
+    articulos_destino:
+    - Art. 23
+    - Art. 24
+    - Art. 25
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final primera. Fundamento constitucional.
+    articulos_destino:
+    - Art. 149
+    - Art. 36
+    - Art. 39
+    - Art. 40
+    - Art. 33
+    - Art. 35
+    - Art. 51
+    disposiciones_destino:
+    - D. Adicional decimonovena
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final primera. Fundamento constitucional.
+    titulo_destino: Título IV
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final primera. Fundamento constitucional.
+    articulos_destino:
+    - Art. 41
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final primera. Fundamento constitucional.
+    articulos_destino:
+    - Art. 149
+  modifica:
+  - norma_id: norm-es-1984-17387
+    articulos_origen:
+    - D. Transitoria sexta. Retroactividad de efectos para medidas de conciliación.
   fundamentado_en:
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-ce-1978
@@ -39,18 +101,14 @@ relaciones:
   - norma_id: norm-es-l-9-2017
   - norma_id: norm-es-lo-10-2022
   - norma_id: norm-es-rdl-2-2015
-  - norma_id: norm-can-o-2023-09-28
-  - norma_id: norm-can-res-boc-2018-124-126
-  - norma_id: norm-can-res-125
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-  - norma_id: norm-can-l-16-2003
+  - norma_id: '27'
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-l-31-1995
 ---
+
 # Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
 
 ## Preámbulo
@@ -362,3 +420,30 @@ JOSÉ LUIS RODRÍGUEZ ZAPATERO
 - [**L16_2003 Prevencion y Proteccion de Mujeres contra la Violencia de Genero**](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/L16_2003_prevencion_proteccion_integral_mujeres_contra_violencia.md)
 - [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
 - [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) desde *(D. Transitoria sexta. Retroactividad de efectos para medidas de conciliación.)*
+- **Fundamentado en**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md)
+- **Fundamento de**: [**BOE-A-2010-13564**](../03_ordenacion_curricular_y_ensenanzas/RD935_2010_establecen_titulos_tecnico_deportivo_vela_aparejo.md)
+- **Fundamento de**: [**BOE-A-2010-4518**](./L1_2010_canaria_igualdad_entre_mujeres_hombres.md)
+- **Fundamento de**: [**BOE-A-2011-12632**](../03_ordenacion_curricular_y_ensenanzas/RD878_2011_establece_titulo_tecnico_deportivo_salvamento_socorrismo.md)
+- **Fundamento de**: [**BOE-A-2011-17560**](../01_marco_normativo_general_y_organico/RD1495_2011_desarrolla_ley_reutilizacion_informacion_sector_publico.md)
+- **Fundamento de**: [**BOE-A-2013-10219**](../03_ordenacion_curricular_y_ensenanzas/RD669_2013_establece_titulo_tecnico_deportivo_atletismo_fijan.md)
+- **Fundamento de**: [**BOE-A-2022-11589**](./L15_2022_integral_igualdad_trato_no_discriminacion.md)
+- **Fundamento de**: [**BOE-A-2026-2622**](../04_organizacion_escolar_y_funcionamiento/RD68_2026_regula_inspeccion_educativa.md)
+- **Fundamento de**: [**L9_2017 Contratos del Sector Publico (LCSP)**](../02_gestion_y_administracion_centros/L9_2017_contratos_sector_publico_transponen_ordenamiento_juridico.md)
+- **Fundamento de**: [**LO10_2022 Garantia Integral de la Libertad Sexual**](./LO10_2022_garantia_integral_libertad_sexual.md)
+- **Fundamento de**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
+- **Cita a**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md) (Art. 26) desde *(D. Adicional vigésima.... primera.)*
+- **Cita a**: `norm-es-c-1978` (Título PRELIMINAR, Capítulo I, Art. 28, Art. 29, Art. 30, Art. 31, Art. 149, D. Adicional primera) desde *(D. Final primera. Fundamento constitucional.)*
+- **Cita a**: `norm-es-c-1978` (Art. 23, Art. 24, Art. 25, Art. 149, Art. 27) desde *(D. Final primera. Fundamento constitucional.)*
+- **Cita a**: `norm-es-c-1978` (Art. 149, Art. 36, Art. 39, Art. 40, Art. 33, Art. 35, Art. 51, D. Adicional decimonovena) desde *(D. Final primera. Fundamento constitucional.)*
+- **Cita a**: `norm-es-c-1978` (Título IV, Art. 149) desde *(D. Final primera. Fundamento constitucional.)*
+- **Cita a**: `norm-es-c-1978` (Art. 41, Art. 149) desde *(D. Final primera. Fundamento constitucional.)*
+- **Cita a**: `norm-es-c-1978` (Art. 149) desde *(D. Final primera. Fundamento constitucional.)*

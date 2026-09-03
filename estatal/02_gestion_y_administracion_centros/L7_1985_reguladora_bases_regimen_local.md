@@ -21,7 +21,113 @@ tags:
 - convivencia-escolar
 - cooperaci-n-con-entidades-locales
 relaciones:
+  cita:
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título PRIMERO
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título PRIMERO
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 132
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo PRIMERO
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 17
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo IV. Regímenes Especiales.
+    articulos_origen:
+    - Art. 29
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo III. Impugnación de actos y acuerdos y ejercicio de
+      acciones.
+    articulos_origen:
+    - Art. 63
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo IV. Información y participación ciudadanas.
+    articulos_origen:
+    - Art. 70
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo IV. Información y participación ciudadanas.
+    articulos_origen:
+    - Art. 70
+    articulos_destino:
+    - Art. 105
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título V
+    capitulo_origen: Capítulo V. Estatuto de los miembros de las Corporaciones locales.
+    articulos_origen:
+    - Art. 75
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo II. Actividades y servicios.
+    articulos_origen:
+    - Art. 86
+    articulos_destino:
+    - Art. 86
+    - Art. 128
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VII
+    capitulo_origen: Capítulo II. Disposiciones comunes a los funcionarios de carrera.
+    articulos_origen:
+    - Art. 92
+    articulos_destino:
+    - Art. 92
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IX
+    articulos_origen:
+    - Art. 120
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IX
+    articulos_origen:
+    - Art. 120
+    articulos_destino:
+    - Art. 3
+    - Art. 24
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IX
+    articulos_origen:
+    - Art. 120
+    articulos_destino:
+    - Art. 42
+  desarrolla:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 148
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo PRIMERO
+    articulos_origen:
+    - Art. 18
+    articulos_destino:
+    - Art. 105
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IX
+    articulos_origen:
+    - Art. 120
+    articulos_destino:
+    - Art. 10
+    - Art. 99
+    disposiciones_destino:
+    - D. Adicional primera
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-ce-1978
   fundamento_de:
@@ -34,15 +140,13 @@ relaciones:
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-es-l-9-2017
   - norma_id: norm-es-rdl-5-2015
-  - norma_id: norm-can-l-14-1990
-  - norma_id: norm-can-res-boc-2026-129-26
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
+  - norma_id: '27'
   - norma_id: norm-es-1984-17387
 ---
+
 # Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local
 
 ## Preámbulo
@@ -1449,3 +1553,37 @@ FELIPE GONZALEZ MARQUEZ
 
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-c-1978` (Art. 148)
+- **Fundamentado en**: `norm-es-c-1978` (Art. 105) desde *(Título II, Capítulo PRIMERO, Art. 18)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 10, Art. 99, D. Adicional primera) desde *(Título IX, Art. 120)*
+- **Fundamentado en**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamento de**: [**BOE-A-1995-8730**](../01_marco_normativo_general_y_organico/RD365_1995_aprueba_reglamento_situaciones_administrativas_funcionarios_civiles.md)
+- **Fundamento de**: [**BOE-A-2012-8745**](../08_personal_docente/L2_2012_presupuestos_generales_estado_ano.md)
+- **Fundamento de**: [**BOE-A-2012-9282**](../08_personal_docente/L4_2012_medidas_administrativas_fiscales.md)
+- **Fundamento de**: [**BOE-A-2013-13756**](./L27_2013_racionalizacion_sostenibilidad_administracion_local.md)
+- **Fundamento de**: [**L19_2013 Transparencia y Buen Gobierno**](../01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md)
+- **Fundamento de**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamento de**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamento de**: [**L9_2017 Contratos del Sector Publico (LCSP)**](./L9_2017_contratos_sector_publico_transponen_ordenamiento_juridico.md)
+- **Fundamento de**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Cita a**: `norm-es-c-1978`
+- **Cita a**: `norm-es-c-1978` (Art. 149) desde *(Título PRIMERO, Art. 5)*
+- **Cita a**: `norm-es-c-1978` (Art. 132) desde *(Título PRIMERO, Art. 5)*
+- **Cita a**: `norm-es-c-1978` (Art. 17) desde *(Título II, Capítulo PRIMERO, Art. 17)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo IV. Regímenes Especiales., Art. 29)*
+- **Cita a**: `norm-es-c-1978` desde *(Título V, Capítulo III. Impugnación de actos y acuerdos y ejercicio de acciones., Art. 63)*
+- **Cita a**: `norm-es-c-1978` (Art. 18) desde *(Título V, Capítulo IV. Información y participación ciudadanas., Art. 70)*
+- **Cita a**: `norm-es-c-1978` (Art. 105) desde *(Título V, Capítulo IV. Información y participación ciudadanas., Art. 70)*
+- **Cita a**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) desde *(Título V, Capítulo V. Estatuto de los miembros de las Corporaciones locales., Art. 75)*
+- **Cita a**: `norm-es-c-1978` (Art. 86, Art. 128) desde *(Título VI, Capítulo II. Actividades y servicios., Art. 86)*
+- **Cita a**: `norm-es-c-1978` (Art. 92, Art. 149) desde *(Título VII, Capítulo II. Disposiciones comunes a los funcionarios de carrera., Art. 92)*
+- **Cita a**: `norm-es-c-1978` desde *(Título IX, Art. 120)*
+- **Cita a**: `norm-es-c-1978` (Art. 3, Art. 24, D. Adicional primera) desde *(Título IX, Art. 120)*
+- **Cita a**: `norm-es-c-1978` (Art. 42) desde *(Título IX, Art. 120)*

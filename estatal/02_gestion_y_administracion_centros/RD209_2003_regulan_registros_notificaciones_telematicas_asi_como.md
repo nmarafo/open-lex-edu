@@ -23,15 +23,23 @@ tags:
 - procedimiento-administrativo
 - rgpd
 relaciones:
+  cita:
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-1999-23750
+    articulos_origen:
+    - Art. 2
   fundamentado_en:
   - norma_id: norm-es-1999-23750
+    articulos_origen:
+    - Art. 1
   - norma_id: norm-es-l-39-2015
   fundamentos_derecho:
   - norma_id: norm-es-l-39-2015
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-1999-23750
 ---
+
 # Real Decreto 209/2003, de 21 de febrero, por el que se regulan los registros y las notificaciones telemáticas, así como la utilización de medios telemáticos para la sustitución de la aportación de certificados por los ciudadanos.
 
 ## Preámbulo
@@ -305,3 +313,13 @@ MARIANO RAJOY BREY
 
 - [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Fundamentado en**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Art. 1)*
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md)
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Art. 2)*

@@ -22,6 +22,132 @@ tags:
 - formacion-profesional
 - profesorado
 relaciones:
+  desarrolla:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 23
+    - Art. 27
+  - norma_id: norm-can-d-84-2024
+    titulo_destino: Título V
+    articulos_destino:
+    - Art. 21
+    - Art. 3
+    - Art. 16
+    - Art. 15
+    - Art. 27
+    - Art. 29
+    - Art. 18
+  - norma_id: norm-can-l-14-1990
+    titulo_destino: Título V
+    articulos_destino:
+    - Art. 21
+    - Art. 3
+    - Art. 16
+    - Art. 15
+    - Art. 27
+    - Art. 29
+    - Art. 18
+  - norma_id: norm-can-l-6-2014
+    titulo_destino: Título V
+    articulos_destino:
+    - Art. 21
+    - Art. 3
+    - Art. 16
+    - Art. 15
+    - Art. 27
+    - Art. 29
+    - Art. 18
+  - norma_id: norm-can-lo-1-2018
+    titulo_destino: Título V
+    articulos_destino:
+    - Art. 21
+    - Art. 3
+    - Art. 16
+    - Art. 15
+    - Art. 27
+    - Art. 29
+    - Art. 18
+  - norma_id: norm-can-d-81-2010
+    titulo_destino: Título V
+    articulos_destino:
+    - Art. 21
+    - Art. 3
+    - Art. 16
+    - Art. 15
+    - Art. 27
+    - Art. 29
+    - Art. 18
+  - norma_id: norm-can-o-2013-10-09
+    titulo_destino: Título V
+    articulos_destino:
+    - Art. 21
+    - Art. 3
+    - Art. 16
+    - Art. 15
+    - Art. 27
+    - Art. 29
+    - Art. 18
+  - norma_id: norm-es-lo-2-2006
+    titulo_destino: Título V
+    articulos_destino:
+    - Art. 21
+    - Art. 3
+    - Art. 16
+    - Art. 15
+    - Art. 27
+    - Art. 29
+    - Art. 18
+  - norma_id: norm-es-lo-8-1985
+    titulo_destino: Título V
+    articulos_destino:
+    - Art. 21
+    - Art. 3
+    - Art. 16
+    - Art. 15
+    - Art. 27
+    - Art. 29
+    - Art. 18
+  - norma_id: norm-es-2021-20113
+    titulo_destino: Título V
+    articulos_destino:
+    - Art. 21
+    - Art. 3
+    - Art. 16
+    - Art. 15
+    - Art. 27
+    - Art. 29
+    - Art. 18
+  - norma_id: norm-es-2010-12201
+    titulo_destino: Título V
+    articulos_destino:
+    - Art. 21
+    - Art. 3
+    - Art. 16
+    - Art. 15
+    - Art. 27
+    - Art. 29
+    - Art. 18
+  - norma_id: norm-es-c-1978
+    titulo_destino: Título V
+    articulos_destino:
+    - Art. 21
+    - Art. 3
+    - Art. 16
+    - Art. 15
+    - Art. 27
+    - Art. 29
+    - Art. 18
+  cita:
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 14
+    - Art. 18
+  - norma_id: norm-es-c-1978
+    disposiciones_destino:
+    - D. Adicional primera
+  concordancia:
+  - norma_id: norm-es-c-1978
   fundamentado_en:
   - norma_id: norm-can-d-81-2010
   - norma_id: norm-can-d-84-2024
@@ -37,12 +163,10 @@ relaciones:
   - norma_id: norm-es-l-40-2015
   fundamento_de:
   - norma_id: norm-can-res-090
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-l-14-1990
   - norma_id: norm-can-lo-1-2018
@@ -54,6 +178,7 @@ relaciones:
   - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-109-1901.pdf
 ---
+
 # Resolución de 26 de mayo de 2026
 
 ## Preámbulo
@@ -315,3 +440,38 @@ ción de representantes del profesorado. En los centros concertados serán perso
 - [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
 - [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-c-1978` (Art. 23, Art. 27)
+- **Desarrolla**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Título V, Art. 21, Art. 3, Art. 16, Art. 15, Art. 27, Art. 29, Art. 18)
+- **Desarrolla**: [**L14_1990 Regimen Juridico Administraciones Canarias**](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md) (Título V, Art. 21, Art. 3, Art. 16, Art. 15, Art. 27, Art. 29, Art. 18)
+- **Desarrolla**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md) (Título V, Art. 21, Art. 3, Art. 16, Art. 15, Art. 27, Art. 29, Art. 18)
+- **Desarrolla**: [**LO1_2018 Estatuto de Autonomia de Canarias**](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md) (Título V, Art. 21, Art. 3, Art. 16, Art. 15, Art. 27, Art. 29, Art. 18)
+- **Desarrolla**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) (Título V, Art. 21, Art. 3, Art. 16, Art. 15, Art. 27, Art. 29, Art. 18)
+- **Desarrolla**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](./O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md) (Título V, Art. 21, Art. 3, Art. 16, Art. 15, Art. 27, Art. 29, Art. 18)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título V, Art. 21, Art. 3, Art. 16, Art. 15, Art. 27, Art. 29, Art. 18)
+- **Desarrolla**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Título V, Art. 21, Art. 3, Art. 16, Art. 15, Art. 27, Art. 29, Art. 18)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título V, Art. 21, Art. 3, Art. 16, Art. 15, Art. 27, Art. 29, Art. 18)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título V, Art. 21, Art. 3, Art. 16, Art. 15, Art. 27, Art. 29, Art. 18)
+- **Desarrolla**: `norm-es-c-1978` (Título V, Art. 21, Art. 3, Art. 16, Art. 15, Art. 27, Art. 29, Art. 18)
+- **Fundamentado en**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Fundamentado en**: [**L14_1990 Regimen Juridico Administraciones Canarias**](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO1_2018 Estatuto de Autonomia de Canarias**](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md)
+- **Fundamentado en**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](./O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamento de**: [**Resolucion BOC 90**](./R15_6_2026_convoca_proceso_aprueba_calendario_renovacion_parcial.md)
+- **En concordancia con**: `norm-es-c-1978`
+- **Cita a**: `norm-es-c-1978`
+- **Cita a**: `norm-es-c-1978` (Art. 14, Art. 18)
+- **Cita a**: `norm-es-c-1978` (D. Adicional primera)

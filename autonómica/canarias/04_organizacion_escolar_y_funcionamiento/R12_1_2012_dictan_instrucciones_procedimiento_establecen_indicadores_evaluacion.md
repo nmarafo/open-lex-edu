@@ -26,7 +26,85 @@ tags:
 - interinos
 - profesorado
 relaciones:
+  desarrolla:
+  - norma_id: norm-can-d-106-2009
+    titulo_destino: Título V
+    capitulo_destino: Capítulo II
+    articulos_destino:
+    - Art. 18
+    - Art. 19
+    - Art. 139
+    - Art. 26
+    - Art. 21
+    disposiciones_destino:
+    - D. Final Primera
+  - norma_id: norm-es-lo-2-2006
+    titulo_destino: Título V
+    capitulo_destino: Capítulo II
+    articulos_destino:
+    - Art. 18
+    - Art. 19
+    - Art. 139
+    - Art. 26
+    - Art. 21
+    disposiciones_destino:
+    - D. Final Primera
+  - norma_id: norm-es-2021-20113
+    titulo_destino: Título V
+    capitulo_destino: Capítulo II
+    articulos_destino:
+    - Art. 18
+    - Art. 19
+    - Art. 139
+    - Art. 26
+    - Art. 21
+    disposiciones_destino:
+    - D. Final Primera
+  - norma_id: norm-es-2010-12201
+    titulo_destino: Título V
+    capitulo_destino: Capítulo II
+    articulos_destino:
+    - Art. 18
+    - Art. 19
+    - Art. 139
+    - Art. 26
+    - Art. 21
+    disposiciones_destino:
+    - D. Final Primera
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final única. La presente Resolución entrará en vigor al día siguiente de
+      su publicación en el Boletín Oficial de Canarias.
+    titulo_destino: Título II
+    capitulo_destino: Capítulo II
+    articulos_destino:
+    - Art. 28
+    - Art. 29
   fundamentado_en:
+  - norma_id: norm-can-d-212-1991
+    articulos_destino:
+    - Art. 60
+    - Art. 1
+    - Art. 13
+    - Art. 19
+    disposiciones_destino:
+    - D. Transitoria Primera
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 60
+    - Art. 1
+    - Art. 13
+    - Art. 19
+    disposiciones_destino:
+    - D. Transitoria Primera
+  - norma_id: norm-can-d-212-1991
+    articulos_origen:
+    - D. Final única. La presente Resolución entrará en vigor al día siguiente de
+      su publicación en el Boletín Oficial de Canarias.
+    articulos_destino:
+    - Art. 24
+    - Art. 114
+    - Art. 115
   - norma_id: norm-can-d-106-2009
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-2010-12201
@@ -34,12 +112,40 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
-  desarrolla:
+  cita:
+  - norma_id: norm-can-d-106-2009
+    articulos_origen:
+    - D. Final única. La presente Resolución entrará en vigor al día siguiente de
+      su publicación en el Boletín Oficial de Canarias.
+  modifica:
+  - norma_id: norm-can-d-106-2009
+    articulos_origen:
+    - D. Final única. La presente Resolución entrará en vigor al día siguiente de
+      su publicación en el Boletín Oficial de Canarias.
+    disposiciones_destino:
+    - D. Adicional Primera
   - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Final única. La presente Resolución entrará en vigor al día siguiente de
+      su publicación en el Boletín Oficial de Canarias.
+    disposiciones_destino:
+    - D. Adicional Primera
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Final única. La presente Resolución entrará en vigor al día siguiente de
+      su publicación en el Boletín Oficial de Canarias.
+    disposiciones_destino:
+    - D. Adicional Primera
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Final única. La presente Resolución entrará en vigor al día siguiente de
+      su publicación en el Boletín Oficial de Canarias.
+    disposiciones_destino:
+    - D. Adicional Primera
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-can-d-106-2009
   - norma_id: norm-es-2021-20113
@@ -47,6 +153,7 @@ relaciones:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2012-015-333.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=66772
 ---
+
 # Resolución de 12 de enero de 2012, por la que se dictan instrucciones de procedimiento y se establecen los indicadores para la evaluación de la función directiva desempeñada por las directoras y directores al finalizar el mandato en los centros públicos de enseñanzas no universitarias de la Comunidad Autónoma de Canarias (BOC n.º 15, de 23 de enero).
 
 ## Preámbulo
@@ -313,3 +420,29 @@ MEMORIA DEL DESEMPEÑO DEL CARGO DE DIRECCIÓN I. DATOS PERSONALES.
 - [**D106_2009 Funcion Directiva en Centros Docentes Publicos**](./D106_2009_regula_funcion_directiva_centros_docentes_publicos.md)
 - [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**D106_2009 Funcion Directiva en Centros Docentes Publicos**](./D106_2009_regula_funcion_directiva_centros_docentes_publicos.md) (Título V, Capítulo II, Art. 18, Art. 19, Art. 139, Art. 26, Art. 21, D. Final Primera)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título V, Capítulo II, Art. 18, Art. 19, Art. 139, Art. 26, Art. 21, D. Final Primera)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título V, Capítulo II, Art. 18, Art. 19, Art. 139, Art. 26, Art. 21, D. Final Primera)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título V, Capítulo II, Art. 18, Art. 19, Art. 139, Art. 26, Art. 21, D. Final Primera)
+- **Desarrolla**: `norm-es-c-1978` (Título II, Capítulo II, Art. 28, Art. 29) desde *(D. Final única. La presente Resolución entrará en vigor al día siguiente de su publicación en el Boletín Oficial de Canarias.)*
+- **Modifica**: [**D106_2009 Funcion Directiva en Centros Docentes Publicos**](./D106_2009_regula_funcion_directiva_centros_docentes_publicos.md) (D. Adicional Primera) desde *(D. Final única. La presente Resolución entrará en vigor al día siguiente de su publicación en el Boletín Oficial de Canarias.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional Primera) desde *(D. Final única. La presente Resolución entrará en vigor al día siguiente de su publicación en el Boletín Oficial de Canarias.)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional Primera) desde *(D. Final única. La presente Resolución entrará en vigor al día siguiente de su publicación en el Boletín Oficial de Canarias.)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional Primera) desde *(D. Final única. La presente Resolución entrará en vigor al día siguiente de su publicación en el Boletín Oficial de Canarias.)*
+- **Fundamentado en**: [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) (Art. 60, Art. 1, Art. 13, Art. 19, D. Transitoria Primera)
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 60, Art. 1, Art. 13, Art. 19, D. Transitoria Primera)
+- **Fundamentado en**: [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) (Art. 24, Art. 114, Art. 115) desde *(D. Final única. La presente Resolución entrará en vigor al día siguiente de su publicación en el Boletín Oficial de Canarias.)*
+- **Fundamentado en**: [**D106_2009 Funcion Directiva en Centros Docentes Publicos**](./D106_2009_regula_funcion_directiva_centros_docentes_publicos.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Cita a**: [**D106_2009 Funcion Directiva en Centros Docentes Publicos**](./D106_2009_regula_funcion_directiva_centros_docentes_publicos.md) desde *(D. Final única. La presente Resolución entrará en vigor al día siguiente de su publicación en el Boletín Oficial de Canarias.)*

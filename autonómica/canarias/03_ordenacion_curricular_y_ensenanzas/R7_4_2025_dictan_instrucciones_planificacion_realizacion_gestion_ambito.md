@@ -29,24 +29,91 @@ tags:
 - grado-superior
 - oposiciones
 relaciones:
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+    disposiciones_destino:
+    - D. Final cuarta
+  - norma_id: norm-es-2021-20113
+    disposiciones_destino:
+    - D. Final cuarta
+  - norma_id: norm-es-2010-12201
+    disposiciones_destino:
+    - D. Final cuarta
+  - norma_id: norm-es-c-1978
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 38
+    - Art. 17
+    disposiciones_destino:
+    - D. Final quinta
+    - D. Final cuarta
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 38
+    - Art. 17
+    disposiciones_destino:
+    - D. Final quinta
+    - D. Final cuarta
+  - norma_id: norm-es-rd-243-2022
+    articulos_destino:
+    - Art. 38
+    - Art. 17
+    disposiciones_destino:
+    - D. Final quinta
+    - D. Final cuarta
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 38
+    - Art. 17
+    disposiciones_destino:
+    - D. Final quinta
+    - D. Final cuarta
+  - norma_id: norm-es-lo-3-2020
+    articulos_destino:
+    - Art. 38
+    - Art. 17
+    disposiciones_destino:
+    - D. Final quinta
+    - D. Final cuarta
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 37
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 37
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 37
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2001-7022
+  cita:
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 8
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-2010-4130
+  concordancia:
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-rd-243-2022
   fundamentado_en:
+  - norma_id: norm-es-2016-3229
   - norma_id: norm-can-d-212-1991
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2010-4130
-  - norma_id: norm-es-2016-3229
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-rd-243-2022
   - norma_id: norm-es-l-39-2015
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-es-2001-7022
@@ -58,6 +125,7 @@ relaciones:
   - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-074-1452.pdf
 ---
+
 # Resolución de 7 de abril de 2025, por la que se dictan instrucciones para la planificación, realización y gestión, en el ámbito de la Comunidad Autónoma de Canarias, de la Prueba para el Acceso a la Universidad, aplicables al alumnado que haya cursado el Bachillerato, así como Ciclos Formativos de Grado Superior de Formación Profesional, de Enseñanzas Profesionales de Artes Plásticas y Diseño, y de Enseñanzas Deportivas (BOC nº 74, de 15 de abril).
 
 ## Preámbulo
@@ -436,3 +504,41 @@ primero del apartado decimoséptimo):
 - [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md)
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Final cuarta)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Final cuarta)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Final cuarta)
+- **Desarrolla**: `norm-es-c-1978`
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 38, Art. 17, D. Final quinta, D. Final cuarta)
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 38, Art. 17, D. Final quinta, D. Final cuarta)
+- **Modifica**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) (Art. 38, Art. 17, D. Final quinta, D. Final cuarta)
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 38, Art. 17, D. Final quinta, D. Final cuarta)
+- **Modifica**: `norm-es-lo-3-2020` (Art. 38, Art. 17, D. Final quinta, D. Final cuarta)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 37)
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 37)
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 37)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Modifica**: [**BOE-A-2001-7022**](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Fundamentado en**: [**BOE-A-2016-3229**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
+- **Fundamentado en**: [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**BOE-A-2001-7022**](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2010-4130**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **En concordancia con**: `norm-es-c-1978`
+- **En concordancia con**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md)
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 8)
+- **Cita a**: `norm-es-c-1978`
+- **Cita a**: [**BOE-A-2010-4130**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md)

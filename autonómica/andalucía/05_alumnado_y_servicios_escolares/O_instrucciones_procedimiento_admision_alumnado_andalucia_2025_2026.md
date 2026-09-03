@@ -33,7 +33,10 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
-# Orden por la que se desarrollan los procedimientos de admisión del alumnado en los centros docentes públicos y privados concertados para el curso escolar 2025-2026. ## Preámbulo
+
+# Orden por la que se desarrollan los procedimientos de admisión del alumnado en los centros docentes públicos y privados concertados para el curso escolar 2025-2026.
+
+## Preámbulo
 
 Home - Escolarización 2026/2027 - Educación
 
@@ -336,3 +339,13 @@ Instagram
 DatosAbiertos
 
 Ir al inicio de la página
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

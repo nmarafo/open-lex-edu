@@ -34,6 +34,7 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
 ---
+
 # Decreto 204/1995, de 29 de agosto, por el que se aprueba el Reglamento de Régimen Disciplinario del Personal al Servicio de la Administración de la Junta de Andalucía.
 
 ## Preámbulo
@@ -44,7 +45,7 @@ En su virtud, a propuesta del Consejero de Gobernación, de acuerdo con el Conse
 
 DISPONGO:
 
-### Capítulo I. Disposiciones Generales artículo 1 Ámbito de aplicación. El presente Reglamento es de aplicación al personal funcionario y laboral al servicio de la Administración de la Junta de Andalucía y de sus agencias administrativas y entidades de derecho público.
+#### Artículo . #### Artículo . ### Capítulo I. Disposiciones Generales artículo 1 Ámbito de aplicación. El presente Reglamento es de aplicación al personal funcionario y laboral al servicio de la Administración de la Junta de Andalucía y de sus agencias administrativas y entidades de derecho público.
 
 #### Artículo 2. Principios del procedimiento disciplinario.
 
@@ -78,4 +79,14 @@ Se faculta a la Consejería de la Presidencia para dictar las normas necesarias 
 
 #### Disposición final segunda. Entrada en vigor.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía.
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](./L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)

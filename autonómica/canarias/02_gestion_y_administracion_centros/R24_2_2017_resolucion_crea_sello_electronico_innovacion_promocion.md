@@ -25,23 +25,40 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-es-l-40-2015
+    articulos_destino:
+    - Art. 40
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-rd-132-2010
+  modifica:
+  - norma_id: norm-es-2012-9282
+    articulos_destino:
+    - Art. 24
+    - Art. 11
+    disposiciones_destino:
+    - D. Adicional cuarta
   fundamentado_en:
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 27
+    - Art. 41
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 121
+    - Art. 122
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-2012-9282
-  - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-es-2012-9282
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-066-1585.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=75634
 ---
+
 # Secretaría General Técnica.- Resolución de 24 de febrero de 2017, por la que se crea el sello electrónico de la Dirección General de Ordenación, Innovación y Promoción Educativa de la Consejería de Educación y Universidades (BOC n.º 44, de 3 de marzo).
 
 ## Preámbulo
@@ -101,3 +118,18 @@ La presente Resolución se publicará en la sede electrónica de la Consejería 
 - [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
 - [**BOE-A-2012-9282**](../../../estatal/08_personal_docente/L4_2012_medidas_administrativas_fiscales.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 40)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
+- **Modifica**: [**BOE-A-2012-9282**](../../../estatal/08_personal_docente/L4_2012_medidas_administrativas_fiscales.md) (Art. 24, Art. 11, D. Adicional cuarta)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 27, Art. 41)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 121, Art. 122)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**BOE-A-2012-9282**](../../../estatal/08_personal_docente/L4_2012_medidas_administrativas_fiscales.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)

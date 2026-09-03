@@ -26,28 +26,111 @@ tags:
 - profesorado
 - titulacion
 relaciones:
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 59
+    - Art. 60
+    - Art. 61
+    - Art. 62
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 59
+    - Art. 60
+    - Art. 61
+    - Art. 62
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 59
+    - Art. 60
+    - Art. 61
+    - Art. 62
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 3
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 3
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 3
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 8
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 8
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 8
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 7
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 7
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 7
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final primera. Título competencial.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-lo-2-2006
-  desarrollado_por: []
-  fundamento_de:
-  - norma_id: norm-can-res-053
-  - norma_id: norm-can-res-boc-2019-234-52
-  - norma_id: norm-can-res-059
-  - norma_id: norm-can-res-boc-2026-116-87
-  - norma_id: norm-can-res-boc-2020-236-82
-  - norma_id: norm-can-res-boc-2026-077-49
-  - norma_id: norm-can-res-055
+  cita:
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 129
+  concordancia:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 149
+    - Art. 27
+    - Art. 61
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
 ---
+
 # Real Decreto 1/2019, de 11 de enero, por el que se establecen los principios básicos comunes de evaluación aplicables a las pruebas de certificación oficial de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2 de las enseñanzas de idiomas de régimen especial.
 
 ## Preámbulo
@@ -288,3 +371,36 @@ MARÍA ISABEL CELAÁ DIÉGUEZ
 - [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 7)
+- **Desarrolla**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 7)
+- **Desarrolla**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 7)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 59, Art. 60, Art. 61, Art. 62)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 59, Art. 60, Art. 61, Art. 62)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 59, Art. 60, Art. 61, Art. 62)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Art. 1)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Art. 1)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Art. 1)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional vigesimotercera) desde *(Art. 3)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional vigesimotercera) desde *(Art. 3)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional vigesimotercera) desde *(Art. 3)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional vigesimotercera) desde *(Art. 8)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional vigesimotercera) desde *(Art. 8)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional vigesimotercera) desde *(Art. 8)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27)
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(D. Final primera. Título competencial.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **En concordancia con**: `norm-es-c-1978` (Art. 149, Art. 27, Art. 61)
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 129)

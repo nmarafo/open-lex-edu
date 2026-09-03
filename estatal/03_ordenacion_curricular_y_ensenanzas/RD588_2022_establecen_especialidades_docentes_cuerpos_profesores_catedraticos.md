@@ -27,20 +27,148 @@ tags:
 - profesorado
 - titulacion
 relaciones:
-  fundamentado_en:
-  - norma_id: norm-es-2010-12201
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 58
   - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 58
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 58
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 149
+    - Art. 27
+    - Art. 55
+    disposiciones_destino:
+    - D. Final quinta
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 149
+    - Art. 27
+    - Art. 55
+    disposiciones_destino:
+    - D. Final quinta
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 149
+    - Art. 27
+    - Art. 55
+    disposiciones_destino:
+    - D. Final quinta
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 149
+    - Art. 27
+    - Art. 55
+    disposiciones_destino:
+    - D. Final quinta
+  - norma_id: norm-es-lo-3-2020
+    articulos_destino:
+    - Art. 149
+    - Art. 27
+    - Art. 55
+    disposiciones_destino:
+    - D. Final quinta
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-lo-3-2020
+    articulos_origen:
+    - D. Transitoria segunda. Docencia en las materias de Bachillerato de la modalidad
+      de Artes establecida en el Real Decreto 1105/2014, de 26 de diciembre, por el
+      que se establece el currículo básico de la Educación Secundaria Obligatoria
+      y del Bachillerato.
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final primera. Título competencial.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-l-39-2015
+  cita:
   - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-lo-3-2020
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 4
+    - Art. 55
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 4
+    - Art. 55
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 4
+    - Art. 55
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 55
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 55
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 55
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 7
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 7
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 7
+  - norma_id: norm-es-lo-3-2020
+    articulos_origen:
+    - Art. 7
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    articulos_destino:
+    - Art. 55
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    articulos_destino:
+    - Art. 55
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    articulos_destino:
+    - Art. 55
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
 ---
+
 # Real Decreto 588/2022, de 19 de julio, por el que se establecen las especialidades docentes de los Cuerpos de Profesores y de Catedráticos de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático.
 
 ## Preámbulo
@@ -492,3 +620,42 @@ Asignación de materias de la modalidad de Artes del Bachillerato establecida en
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 58)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 58)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 58)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 149, Art. 27, Art. 55, D. Final quinta)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 149, Art. 27, Art. 55, D. Final quinta)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 149, Art. 27, Art. 55, D. Final quinta)
+- **Modifica**: `norm-es-c-1978` (Art. 149, Art. 27, Art. 55, D. Final quinta)
+- **Modifica**: `norm-es-lo-3-2020` (Art. 149, Art. 27, Art. 55, D. Final quinta)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: `norm-es-lo-3-2020` desde *(D. Transitoria segunda. Docencia en las materias de Bachillerato de la modalidad de Artes establecida en el Real Decreto 1105/2014, de 26 de diciembre, por el que se establece el currículo básico de la Educación Secundaria Obligatoria y del Bachillerato.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(D. Final primera. Título competencial.)*
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 129)
+- **Cita a**: `norm-es-lo-3-2020` desde *(Art. 1)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 4, Art. 55) desde *(Art. 4)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 4, Art. 55) desde *(Art. 4)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 4, Art. 55) desde *(Art. 4)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 55) desde *(Art. 4)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 55) desde *(Art. 4)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 55) desde *(Art. 4)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Art. 7)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Art. 7)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Art. 7)*
+- **Cita a**: `norm-es-lo-3-2020` desde *(Art. 7)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 55) desde *(D. Final segunda. Entrada en vigor.)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 55) desde *(D. Final segunda. Entrada en vigor.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 55) desde *(D. Final segunda. Entrada en vigor.)*

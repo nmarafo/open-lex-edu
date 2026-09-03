@@ -22,7 +22,20 @@ tags:
 - equipos-directivos
 - evaluacion
 relaciones:
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    titulo_destino: Título V
+    capitulo_destino: Capítulo II
+  - norma_id: norm-es-2021-20113
+    titulo_destino: Título V
+    capitulo_destino: Capítulo II
+  - norma_id: norm-es-2010-12201
+    titulo_destino: Título V
+    capitulo_destino: Capítulo II
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 10
   - norma_id: norm-can-d-109-1999
   - norma_id: norm-can-d-135-2016
   - norma_id: norm-can-l-6-2014
@@ -30,13 +43,25 @@ relaciones:
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+  cita:
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-d-109-1999
+    articulos_destino:
+    - Art. 22
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 22
+    - Art. 20
+  - norma_id: norm-es-c-1978
+  concordancia:
+  - norma_id: norm-can-d-109-1999
   desarrolla:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-rd-132-2010
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-can-d-109-1999
   - norma_id: norm-es-2021-20113
@@ -44,6 +69,7 @@ relaciones:
   - norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2020-257-4915.pdf
 ---
+
 # Resolución de la Viceconsejería de Educación y Universidades, por la que se dictan instrucciones para la oferta educativa y recursos en las escuelas unitarias y los colectivos de escuelas rurales en canarias (13 de marzo de 2015).
 
 ## Preámbulo
@@ -302,3 +328,27 @@ El/la coordinador/a del CER Fdo.: __________________ *Este documento solo se tra
 - [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**Decreto BOC 135/2016**](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título V, Capítulo II)
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título V, Capítulo II)
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título V, Capítulo II)
+- **Fundamentado en**: `norm-es-c-1978` (Art. 10)
+- **Fundamentado en**: [**D109_1999 Colectivos de Escuelas Rurales (CER)**](./D109_1999_regula_regimen_creacion_funcionamiento_colectivos_escuelas.md)
+- **Fundamentado en**: [**Decreto BOC 135/2016**](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **En concordancia con**: [**D109_1999 Colectivos de Escuelas Rurales (CER)**](./D109_1999_regula_regimen_creacion_funcionamiento_colectivos_escuelas.md)
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Cita a**: [**D109_1999 Colectivos de Escuelas Rurales (CER)**](./D109_1999_regula_regimen_creacion_funcionamiento_colectivos_escuelas.md) (Art. 22)
+- **Cita a**: `norm-es-c-1978` (Art. 22, Art. 20)
+- **Cita a**: `norm-es-c-1978`

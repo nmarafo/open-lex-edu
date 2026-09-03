@@ -34,6 +34,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la etapa de Bachillerato en la Comunidad Autónoma de Andalucía, se regulan determinados aspectos de la atención a la diversidad y se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado.
 
 ## Preámbulo
@@ -76,15 +77,11 @@ Boletín 104
 
 ##
 
-Histórico del BOJA Boletín número 104 de 02/06/2023
-
 ## 1. Disposiciones generales
 
 ### Consejería de Agricultura, Pesca, Agua y Desarrollo Rural
 
 Orden de 26 de mayo de 2023, por la que se modifica la Orden de 27 de septiembre de 2022, por la que se convocan para el año 2022, las ayudas previstas en la Orden de 2 de septiembre de 2022, por la que se establecen las bases reguladoras para la concesión de ayudas en régimen de concurrencia no competitiva, por la paralización temporal de la actividad pesquera de la flota pesquera y marisquera con puerto base en Andalucía, en el marco del Programa Operativo del Fondo Europeo Marítimo y de la Pesca (2014-2020), en relación con la parada temporal de la flota marisquera autorizada al uso de draga hidráulica y rastro remolcado, dedicada a la captura de la chirla en el caladero Golfo de Cádiz, que ha tenido lugar del 2 de marzo al 30 de junio de 2022, y su Extracto.
-
-Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="3-verificacion"> Verificación de autenticidad con CVE 00284635. Mediante la Orden de 27 de septiembre de 2022, de la Consejería de Agricultura, Pesca, Agua y Desarrollo Rural, publicada en el
 
 El apartado 4 del resuelvo primero de la referida orden recoge que aquellos armadores y tripulantes que no puedan cobrar todos días subvencionables de la parada realizada con cargo al Fondo Europeo Marítimo y de Pesca (FEMP) por sobrepasar con ello el máximo de días subvencionables con este fondo, se les subvencionará la parada con cargo al Fondo Europeo Marítimo de Pesca y de Acuicultura (FEMPA).
 
@@ -173,3 +170,13 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

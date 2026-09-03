@@ -23,7 +23,11 @@ tags:
 - categorias-laborales
 fuente_pdf_oficial: https://www.gobiernodecanarias.org/boc/2007/036/boc-2007-036-025.pdf
 fecha_disposicion: '2007-01-30'
+relaciones:
+  fundamentado_en:
+  - norma_id: norm-can-d-84-2024
 ---
+
 # Resolución de 30 de enero de 2007, de la Dirección General de Trabajo, relativa al registro, depósito y publicación del Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias, sobre encuadramiento de diferentes categorías profesionales del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -109,3 +113,10 @@ CATEGORÍAS
 - Grabador
 
 La Administración.- El Viceconsejero de Administración Pública; El Director General de la Función Pública.- El Comité Intercentros.- El Presidente; El Secretario.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md)

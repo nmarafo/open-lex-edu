@@ -24,7 +24,45 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2016-097-1458.
 anexos_extraidos_pdf: true
 ocr_procesado: true
 fecha_disposicion: '2016-05-12'
+relaciones:
+  cita:
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-2008-979
+    articulos_destino:
+    - Art. 53
+  - norma_id: norm-es-1999-23750
+    articulos_destino:
+    - Art. 54
+  - norma_id: norm-es-2008-979
+  - norma_id: norm-es-1999-23750
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-1999-23750
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-2008-979
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-1999-23750
+    articulos_origen:
+    - Art. 4
+    titulo_destino: Título III
+  - norma_id: norm-es-2008-979
+    articulos_origen:
+    - Art. 4
+  - norma_id: norm-es-2008-979
+    articulos_origen:
+    - Art. 5
+  - norma_id: norm-es-1999-23750
+    articulos_origen:
+    - Art. 5
+  - norma_id: norm-es-1999-23750
+    articulos_origen:
+    - Art. 6
 ---
+
 # Orden de 12 de mayo de 2016, por la que se regulan la composición y el procedimiento para la constitución y la renovación de los Consejos Escolares de los centros educativos sostenidos con fondos públicos del ámbito de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -1242,3 +1280,21 @@ energía
 Transferencias internacionales:
 
 No se realizan
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Cita a**: `norm-es-c-1978`
+- **Cita a**: [**BOE-A-2008-979**](../../../estatal/02_gestion_y_administracion_centros/LO1720_2007_aprueba_reglamento_desarrollo_ley_organica_proteccion.md) (Art. 53)
+- **Cita a**: [**BOE-A-1999-23750**](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) (Art. 54)
+- **Cita a**: [**BOE-A-2008-979**](../../../estatal/02_gestion_y_administracion_centros/LO1720_2007_aprueba_reglamento_desarrollo_ley_organica_proteccion.md)
+- **Cita a**: [**BOE-A-1999-23750**](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) (Art. 2)
+- **Cita a**: [**BOE-A-1999-23750**](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) (Art. 2) desde *(Art. 2)*
+- **Cita a**: [**BOE-A-2008-979**](../../../estatal/02_gestion_y_administracion_centros/LO1720_2007_aprueba_reglamento_desarrollo_ley_organica_proteccion.md) desde *(Art. 2)*
+- **Cita a**: [**BOE-A-1999-23750**](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) (Título III) desde *(Art. 4)*
+- **Cita a**: [**BOE-A-2008-979**](../../../estatal/02_gestion_y_administracion_centros/LO1720_2007_aprueba_reglamento_desarrollo_ley_organica_proteccion.md) desde *(Art. 4)*
+- **Cita a**: [**BOE-A-2008-979**](../../../estatal/02_gestion_y_administracion_centros/LO1720_2007_aprueba_reglamento_desarrollo_ley_organica_proteccion.md) desde *(Art. 5)*
+- **Cita a**: [**BOE-A-1999-23750**](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) desde *(Art. 5)*
+- **Cita a**: [**BOE-A-1999-23750**](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) desde *(Art. 6)*

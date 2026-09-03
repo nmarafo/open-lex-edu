@@ -30,6 +30,200 @@ tags:
 - pruebas-de-acceso
 - titulacion
 relaciones:
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    capitulo_destino: Capítulo VI
+  - norma_id: norm-es-2021-20113
+    capitulo_destino: Capítulo VI
+  - norma_id: norm-es-2010-12201
+    capitulo_destino: Capítulo VI
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: 'Capítulo II. Ordenación de las enseñanzas profesionales de artes
+      plásticas y diseño: Títulos y ciclos formativos.'
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 53
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: 'Capítulo II. Ordenación de las enseñanzas profesionales de artes
+      plásticas y diseño: Títulos y ciclos formativos.'
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 53
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: 'Capítulo II. Ordenación de las enseñanzas profesionales de artes
+      plásticas y diseño: Títulos y ciclos formativos.'
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 53
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo IV. Currículo de los ciclos formativos.
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo IV. Currículo de los ciclos formativos.
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo IV. Currículo de los ciclos formativos.
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo V. Acceso y admisión.
+    articulos_origen:
+    - Art. 14
+    articulos_destino:
+    - Art. 52
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo V. Acceso y admisión.
+    articulos_origen:
+    - Art. 14
+    articulos_destino:
+    - Art. 52
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo V. Acceso y admisión.
+    articulos_origen:
+    - Art. 14
+    articulos_destino:
+    - Art. 52
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo V. Acceso y admisión.
+    articulos_origen:
+    - Art. 15
+    articulos_destino:
+    - Art. 52
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo V. Acceso y admisión.
+    articulos_origen:
+    - Art. 15
+    articulos_destino:
+    - Art. 52
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo V. Acceso y admisión.
+    articulos_origen:
+    - Art. 15
+    articulos_destino:
+    - Art. 52
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo V. Acceso y admisión.
+    articulos_origen:
+    - Art. 16
+    articulos_destino:
+    - Art. 52
+    - Art. 14
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo V. Acceso y admisión.
+    articulos_origen:
+    - Art. 16
+    articulos_destino:
+    - Art. 52
+    - Art. 14
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo V. Acceso y admisión.
+    articulos_origen:
+    - Art. 16
+    articulos_destino:
+    - Art. 52
+    - Art. 14
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo V. Acceso y admisión.
+    articulos_origen:
+    - Art. 16
+    articulos_destino:
+    - Art. 52
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo V. Acceso y admisión.
+    articulos_origen:
+    - Art. 16
+    articulos_destino:
+    - Art. 52
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo V. Acceso y admisión.
+    articulos_origen:
+    - Art. 16
+    articulos_destino:
+    - Art. 52
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo VIII. Convalidaciones y exenciones.
+    articulos_origen:
+    - D. Adicional cuarta. Otras titulaciones equivalentes a efectos de acceso.
+    articulos_destino:
+    - Art. 52
+    - Art. 14
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo VIII. Convalidaciones y exenciones.
+    articulos_origen:
+    - D. Adicional cuarta. Otras titulaciones equivalentes a efectos de acceso.
+    articulos_destino:
+    - Art. 52
+    - Art. 14
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo VIII. Convalidaciones y exenciones.
+    articulos_origen:
+    - D. Adicional cuarta. Otras titulaciones equivalentes a efectos de acceso.
+    articulos_destino:
+    - Art. 52
+    - Art. 14
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo VIII. Convalidaciones y exenciones.
+    articulos_origen:
+    - D. Final primera. Equivalencia entre los actuales títulos de Técnico y Técnico
+      superior de Artes Plásticas y Diseño y las nuevas titulaciones.
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo VIII. Convalidaciones y exenciones.
+    articulos_origen:
+    - D. Final primera. Equivalencia entre los actuales títulos de Técnico y Técnico
+      superior de Artes Plásticas y Diseño y las nuevas titulaciones.
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo VIII. Convalidaciones y exenciones.
+    articulos_origen:
+    - D. Final primera. Equivalencia entre los actuales títulos de Técnico y Técnico
+      superior de Artes Plásticas y Diseño y las nuevas titulaciones.
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo VIII. Convalidaciones y exenciones.
+    articulos_origen:
+    - D. Final segunda. Título competencial.
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Final sexta
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo VIII. Convalidaciones y exenciones.
+    articulos_origen:
+    - D. Final segunda. Título competencial.
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Final sexta
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo VIII. Convalidaciones y exenciones.
+    articulos_origen:
+    - D. Final segunda. Título competencial.
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Final sexta
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VIII. Convalidaciones y exenciones.
+    articulos_origen:
+    - D. Final segunda. Título competencial.
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Final sexta
+  deroga:
+  - norma_id: norm-es-2001-7022
+    capitulo_origen: Capítulo VIII. Convalidaciones y exenciones.
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
   fundamentado_en:
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-2010-12201
@@ -38,18 +232,15 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   fundamento_de:
   - norma_id: norm-es-2026-12038
-  - norma_id: norm-can-res-boc-2018-106-114
-  - norma_id: norm-can-res-boc-2026-039-103
-  - norma_id: norm-can-res-boc-2017-220-70
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
 ---
+
 # Real Decreto 596/2007, de 4 de mayo, por el que se establece la ordenación general de las enseñanzas profesionales de artes plásticas y diseño.
 
 ## Preámbulo
@@ -445,3 +636,47 @@ MERCEDES CABRERA CALVO-SOTELO
 - [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 - [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](./LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Capítulo VI)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Capítulo VI)
+- **Modifica**: [**BOE-A-2010-12201**](./LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Capítulo VI)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 53) desde *(Capítulo II. Ordenación de las enseñanzas profesionales de artes plásticas y diseño: Títulos y ciclos formativos., Art. 4)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 53) desde *(Capítulo II. Ordenación de las enseñanzas profesionales de artes plásticas y diseño: Títulos y ciclos formativos., Art. 4)*
+- **Modifica**: [**BOE-A-2010-12201**](./LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 53) desde *(Capítulo II. Ordenación de las enseñanzas profesionales de artes plásticas y diseño: Títulos y ciclos formativos., Art. 4)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 6) desde *(Capítulo IV. Currículo de los ciclos formativos., Art. 13)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 6) desde *(Capítulo IV. Currículo de los ciclos formativos., Art. 13)*
+- **Modifica**: [**BOE-A-2010-12201**](./LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 6) desde *(Capítulo IV. Currículo de los ciclos formativos., Art. 13)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 52) desde *(Capítulo V. Acceso y admisión., Art. 14)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 52) desde *(Capítulo V. Acceso y admisión., Art. 14)*
+- **Modifica**: [**BOE-A-2010-12201**](./LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 52) desde *(Capítulo V. Acceso y admisión., Art. 14)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 52) desde *(Capítulo V. Acceso y admisión., Art. 15)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 52) desde *(Capítulo V. Acceso y admisión., Art. 15)*
+- **Modifica**: [**BOE-A-2010-12201**](./LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 52) desde *(Capítulo V. Acceso y admisión., Art. 15)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 52, Art. 14) desde *(Capítulo V. Acceso y admisión., Art. 16)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 52, Art. 14) desde *(Capítulo V. Acceso y admisión., Art. 16)*
+- **Modifica**: [**BOE-A-2010-12201**](./LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 52, Art. 14) desde *(Capítulo V. Acceso y admisión., Art. 16)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 52) desde *(Capítulo V. Acceso y admisión., Art. 16)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 52) desde *(Capítulo V. Acceso y admisión., Art. 16)*
+- **Modifica**: [**BOE-A-2010-12201**](./LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 52) desde *(Capítulo V. Acceso y admisión., Art. 16)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 52, Art. 14) desde *(Capítulo VIII. Convalidaciones y exenciones., D. Adicional cuarta. Otras titulaciones equivalentes a efectos de acceso.)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 52, Art. 14) desde *(Capítulo VIII. Convalidaciones y exenciones., D. Adicional cuarta. Otras titulaciones equivalentes a efectos de acceso.)*
+- **Modifica**: [**BOE-A-2010-12201**](./LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 52, Art. 14) desde *(Capítulo VIII. Convalidaciones y exenciones., D. Adicional cuarta. Otras titulaciones equivalentes a efectos de acceso.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo VIII. Convalidaciones y exenciones., D. Final primera. Equivalencia entre los actuales títulos de Técnico y Técnico superior de Artes Plásticas y Diseño y las nuevas titulaciones.)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo VIII. Convalidaciones y exenciones., D. Final primera. Equivalencia entre los actuales títulos de Técnico y Técnico superior de Artes Plásticas y Diseño y las nuevas titulaciones.)*
+- **Modifica**: [**BOE-A-2010-12201**](./LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo VIII. Convalidaciones y exenciones., D. Final primera. Equivalencia entre los actuales títulos de Técnico y Técnico superior de Artes Plásticas y Diseño y las nuevas titulaciones.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 149, D. Final sexta) desde *(Capítulo VIII. Convalidaciones y exenciones., D. Final segunda. Título competencial.)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 149, D. Final sexta) desde *(Capítulo VIII. Convalidaciones y exenciones., D. Final segunda. Título competencial.)*
+- **Modifica**: [**BOE-A-2010-12201**](./LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 149, D. Final sexta) desde *(Capítulo VIII. Convalidaciones y exenciones., D. Final segunda. Título competencial.)*
+- **Modifica**: `norm-es-c-1978` (Art. 149, D. Final sexta) desde *(Capítulo VIII. Convalidaciones y exenciones., D. Final segunda. Título competencial.)*
+- **Deroga**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) desde *(Capítulo VIII. Convalidaciones y exenciones., D. Derogatoria única. Derogación normativa.)*
+- **Fundamentado en**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](./LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**BOE-A-2026-12038**](../03_ordenacion_curricular_y_ensenanzas/RD452_2026_establece_ordenacion_ensenanzas_profesionales_artes_plasticas.md)

@@ -24,6 +24,10 @@ tags:
 - fp
 - andalucia
 relaciones:
+  cita:
+  - norma_id: norm-and-d-208-1997
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
   desarrolla:
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
@@ -31,6 +35,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Orden de 10 de febrero de 2004, por la que se regulan las pruebas de acceso a los ciclos formativos de FP.
 
 ## Preámbulo
@@ -39,7 +44,7 @@ Página núm.
 
 **4.820** Sevilla, 25 de febrero 2004 CONSEJERIA DE MEDIO AMBIENTE DECRETO 4/2004, de 13 de enero, por el que se aprueban el Plan de Ordenación de los Recursos Naturales y el Plan Rector de Uso y Gestión del Parque Natural Sierras Subbéticas. El Parque Natural Sierras Subbéticas fue declarado por el Decreto 232/1988, de 31 de mayo, que estableció un régimen jurídico especial para este espacio con la finalidad de atender a la conservación de sus ecosistemas naturales y valores paisajísticos. Posteriormente, la Ley 2/1989, de 18 de julio, por la que se aprueba el Inventario de Espacios Naturales Protegidos de Andalucía y se establecen medidas adicionales para su protección, lo incluyó en el Inventario de Espacios Naturales Protegidos de Andalucía. Situado al sur de la provincia de Córdoba, en las cordilleras béticas, se observan formaciones típicas del modelo cárstico, lo que constituye uno de sus mayores atractivos. El paisaje cárstico de este Parque Natural se caracteriza por la presencia de prácticamente todas las formas asociadas a los procesos de disolución de las rocas carbonatadas, tanto superficiales como subterráneas. Entre las primeras destacan las Dolinas de los Hoyones, el Lapiaz de los Lanchares y el Poljé de la Nava, de gran valor paisajístico, mientras que entre las formas subterráneas destaca la Cueva de los Murciélagos, declarada Monumento Natural por el Decreto 226/2001, de 2 de octubre, por el que se declaran determinados Monumentos Naturales de Andalucía. Las rocas del Parque Natural albergan una extraordinaria riqueza paleontológica, especialmente de un grupo de fósiles de gran interés, los ammonites, grupo de moluscos marinos ya extinguidos, parientes de los actuales cefalópodos. En cuanto a la flora, goza de una gran riqueza, con más de 1.200 taxones catalogados, 29 de los cuales son endemismos andaluces, entre los que destacan por tener una distribución exclusiva del Parque, Narcissus bugei, Lithodora nitida, Thimelaea granatensis subsp. glauca o Hipochaeris rutea, éste último endémico de la Sierra de Rute. En lo que a fauna se refiere, hay que destacar la presencia de numerosas aves rapaces, como el buitre leonado y el halcón peregrino, que aprovechan los cortados para nidificar. Actualmente, el citado Parque Natural, designado como Zona de Especial Protección para las Aves (ZEPA) en el año 2003, conforme a la Directiva 79/409/CEE, del Consejo, de 2 de abril de 1979, relativa a la conservación de las aves silvestres, forma parte de la red ecológica europea «Natura 2000» instaurada por la Directiva 92/43/CEE, del Consejo, de 21 de mayo de 1992, relativa a la conservación de los hábitats naturales y de la fauna y flora silvestres. Además, se encuentra incluido en la propuesta de la Comunidad Autónoma de Andalucía de Lugares de Importancia Comunitaria (LIC), conforme a la Directiva 92/43/CEE, de 21 de mayo de 1992. Mediante el Decreto 79/1994, de 5 de abril, se aprobaron el Plan de Ordenación de los Recursos Naturales, con una vigencia de ocho años, y el Plan Rector de Uso y Gestión, con una vigencia de cuatro años, que fue prorrogada por un plazo de cuatro años a través del Decreto 73/2000, de 21 de febrero. En cumplimiento de lo dispuesto en los artículos 13 y 18 de la Ley 2/1989, de 18 de julio, se procede a través de este Decreto a aprobar el Plan de Ordenación de los Recursos Naturales y el Plan Rector de Uso y Gestión del Parque Natural Sierras Subbéticas, documentos que se adaptan a las nuevas circunstancias ambientales y socioeconómicas que caracterizan el Parque Natural, así como al nuevo marco normativo y directrices políticas que, en materia de medio ambiente, se vienen desarrollando en el ámbito internacional y en el de la Unión Europea. En cuanto al procedimiento seguido para la elaboración del Plan de Ordenación de los Recursos Naturales y del Plan Rector de Uso y Gestión del Parque Natural Sierras Subbéticas, los citados Planes han sido elaborados por la Consejería de Medio Ambiente, informados por el Comité de Acciones para el Desarrollo Sostenible, la Junta Rectora del citado Parque Natural y el órgano competente en materia urbanística, sometidos a los trámites de audiencia a los interesados, información pública y consulta de los intereses sociales e institucionales implicados, incluidas las Corporaciones Locales, y de las asociaciones que persiguen el logro de los principios establecidos en el artículo 2 de la Ley 4/1989, de 27 de marzo. Cumplidos los demás trámites previstos en la Ley, han sido elevados al Consejo de Gobierno para su aprobación. Por otra parte, los avances tecnológicos permiten disponer actualmente de nuevos productos cartográficos que ofrecen una visión más actualizada y detallada de la realidad territorial y de los diferentes elementos que la constituyen. Por ello, y con la pretensión de contribuir a la seguridad jurídica en cuanto a la delimitación territorial del Parque Natural Sierras Subbéticas, mediante el presente Decreto se precisan literaria y gráficamente los límites del citado Parque Natural establecidos en el Decreto 232/1988, de 31 de mayo. En su virtud, de conformidad con la legislación vigente, a propuesta de la Consejera de Medio Ambiente de acuerdo con lo dispuesto en el artículo 39.2 de la Ley 6/1983, de 21 de julio, del Gobierno y Administración de la Comunidad Autónoma, y previa deliberación del Consejo de Gobierno en su reunión de 13 de enero de 2004. DISPONGO:
 
-#### Artículo 1. Plan de Ordenación de los Recursos Naturales.
+#### Artículo . #### Artículo . #### Artículo 1. Plan de Ordenación de los Recursos Naturales.
 
 1. Se aprueba el Plan de Ordenación de los Recursos Naturales del Parque Natural Sierras Subbéticas, que figura como Anexo I del presente Decreto.
 
@@ -67,9 +72,7 @@ Sevilla, 25 de febrero 2004 Página núm. 4.821
 
 3. La representación gráfica de dichos límites a escala 1:10.000, sobre la Ortofoto del SIG Oleícola del Ministerio de Agricultura, Pesca y Alimentación obtenida en el año 1998, queda recogida en el apartado 8 del Anexo I del presente Decreto.
 
-#### Disposición derogatoria única.
-
-Quedan derogadas cuantas normas de igual o inferior rango se opongan o contradigan lo dispuesto en este Decreto.
+#### Disposición derogatoria única. Quedan derogadas cuantas normas de igual o inferior rango se opongan o contradigan lo dispuesto en este Decreto.
 
 #### Disposición final primera. Desarrollo del Decreto.
 
@@ -77,11 +80,7 @@ Se autoriza al titular de la Consejería de Medio Ambiente para dictar cuantas d
 
 #### Disposición final segunda. Entrada en vigor.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 13 de enero de 2004 MANUEL CHAVES GONZALEZ Presidente de la Junta de Andalucía FUENSANTA COVES BOTELLA Consejera de Medio Ambiente
-
-## Anexo I
-
-PLAN DE ORDENACION DE LOS RECURSOS NATURALES DEL PARQUE NATURAL SIERRAS SUBBETICAS I N D I C E
+## Anexo I. PLAN DE ORDENACION DE LOS RECURSOS NATURALES DEL PARQUE NATURAL SIERRAS SUBBETICAS I N D I C E
 
 1. INTRODUCCION
 
@@ -1060,9 +1059,7 @@ Sevilla, 25 de febrero 2004 Página núm.
 
 Sevilla, 25 de febrero 2004 Página núm. 4.869
 
-## Anexo II
-
-PLAN RECTOR DE USO Y GESTION DEL PARQUE NATURAL SIERRAS SUBBETICAS I N D I C E
+## Anexo II. PLAN RECTOR DE USO Y GESTION DEL PARQUE NATURAL SIERRAS SUBBETICAS I N D I C E
 
 1. INTRODUCCION
 
@@ -1861,9 +1858,7 @@ b) Dotación de Sistema de Información Geográfica.
 c) Formalización de Convenios de Investigación con entidades.
 d) Apoyo al personal que desarrolle labores de investigación del Parque Natural.
 
-## Anexo III
-
-LIMITES DEL PARQUE NATURAL SIERRAS SUBBETICAS Los límites del espacio quedan referidos a la ortofotografía digital del SIG Oleícola Español, realizado por el Ministerio de Agricultura, Pesca y Alimentación, en blanco y negro, con tamaño de píxel de 1 metro y de fecha 1998. Los puntos citados en la delimitación del espacio vienen dados por coordenadas UTM, en metros, referidas al huso 30. Norte. Se inicia en la Estación de Ferrocarril del Municipio de Cabra, continuando por la vía férrea Puente Genil-Linares en dirección a Doña Mencía hasta el punto kilométrico 103,5 de la carretera comarcal 327, en que se halla un paso a nivel. Toma la carretera comarcal, recorriéndola hasta el punto kilométrico 36 de la vía férrea y 100,4 de la citada carretera, desde donde continúa por la vía férrea y en la estación de Doña Mencía sigue por la carretera local 241 hasta Zuheros, bordea a este núcleo por el límite sur del suelo urbano, continúa por el camino vecinal 178. Confluye de nuevo en la carretera local 241 hasta el municipio de Luque, bordea los límites oeste y sur del suelo urbano y continúa por el camino vecinal 72, hasta su confluencia con el camino vecinal 14. Este. Desde el punto anterior, el límite discurre por camino vecinal 14, continuando por el camino vecinal 30, hasta el núcleo de Zagrilla Alta, bordeando el límite noroeste de su suelo urbano, hasta su intersección con el río Palancaraguas, cuya margen derecha recorre aguas, hasta su cruce con el camino vecinal 131, extendiéndose por este último y la carretera comarcal 336 en dirección a Carcabuey. Se dirige por ésta, en dirección sur, hasta Carcabuey, excluyendo su suelo urbano en el límite sur y por la misma carretera continúa hacia Priego de Córdoba. En el punto kilométrico 38,5 toma el río Genilla aguas arriba, hasta su intersección con el arroyo Gamiz, continuando por éste hasta el camino de Gamiz, que recorre hasta su confluencia con el camino vecinal 9. Sur. Desde el punto anterior, continúa por el camino vecinal 9 en dirección a Las Lagunillas, bordeando el límite norte de su suelo urbano, continúa por los caminos vecinales 61 y 276 «Camino de los Prados» y «Vereda de la Hoz», bordeando ambos las caras sureste y sur del Cerro Camorrilla, hasta donde es atravesado por el río de la Hoz, punto desde donde continúa por la carreteras comarcal 334, hasta su intersección con el arroyo Hondo, por el que discurre aguas arriba y continúa por el límite de las repoblaciones forestales bajando hacia la carretera local 220 por el Arroyo de la Confitera en el punto kilométrico 3. Oeste. Comienza en el punto kilométrico 3 de la carretera local 220 en dirección hacia Carcabuey, continúa por los caminos vecinales 70, 20, 96, 36 y camino del Borrallo a Los Pelaos. Cruza la carretera comarcal 336 y sigue por los caminos vecinales 115 y 89 hasta confluir con la vía férrea Puente Genil-Linares hasta la estación de Cabra, cerrándose así el perímetro del espacio. Superficie 32.056 ha, medidas a partir de la delimitación del ámbito territorial del Parque Natural sobre la ortofoto digital mencionada en el primer párrafo del presente Anexo. Términos municipales: Cabra, Carcabuey, Doña Mencía, Iznájar, Luque, Priego de Córdoba, Rute y Zuheros. Provincia: Córdoba.
+## Anexo III. LIMITES DEL PARQUE NATURAL SIERRAS SUBBETICAS Los límites del espacio quedan referidos a la ortofotografía digital del SIG Oleícola Español, realizado por el Ministerio de Agricultura, Pesca y Alimentación, en blanco y negro, con tamaño de píxel de 1 metro y de fecha 1998. Los puntos citados en la delimitación del espacio vienen dados por coordenadas UTM, en metros, referidas al huso 30. Norte. Se inicia en la Estación de Ferrocarril del Municipio de Cabra, continuando por la vía férrea Puente Genil-Linares en dirección a Doña Mencía hasta el punto kilométrico 103,5 de la carretera comarcal 327, en que se halla un paso a nivel. Toma la carretera comarcal, recorriéndola hasta el punto kilométrico 36 de la vía férrea y 100,4 de la citada carretera, desde donde continúa por la vía férrea y en la estación de Doña Mencía sigue por la carretera local 241 hasta Zuheros, bordea a este núcleo por el límite sur del suelo urbano, continúa por el camino vecinal 178. Confluye de nuevo en la carretera local 241 hasta el municipio de Luque, bordea los límites oeste y sur del suelo urbano y continúa por el camino vecinal 72, hasta su confluencia con el camino vecinal 14. Este. Desde el punto anterior, el límite discurre por camino vecinal 14, continuando por el camino vecinal 30, hasta el núcleo de Zagrilla Alta, bordeando el límite noroeste de su suelo urbano, hasta su intersección con el río Palancaraguas, cuya margen derecha recorre aguas, hasta su cruce con el camino vecinal 131, extendiéndose por este último y la carretera comarcal 336 en dirección a Carcabuey. Se dirige por ésta, en dirección sur, hasta Carcabuey, excluyendo su suelo urbano en el límite sur y por la misma carretera continúa hacia Priego de Córdoba. En el punto kilométrico 38,5 toma el río Genilla aguas arriba, hasta su intersección con el arroyo Gamiz, continuando por éste hasta el camino de Gamiz, que recorre hasta su confluencia con el camino vecinal 9. Sur. Desde el punto anterior, continúa por el camino vecinal 9 en dirección a Las Lagunillas, bordeando el límite norte de su suelo urbano, continúa por los caminos vecinales 61 y 276 «Camino de los Prados» y «Vereda de la Hoz», bordeando ambos las caras sureste y sur del Cerro Camorrilla, hasta donde es atravesado por el río de la Hoz, punto desde donde continúa por la carreteras comarcal 334, hasta su intersección con el arroyo Hondo, por el que discurre aguas arriba y continúa por el límite de las repoblaciones forestales bajando hacia la carretera local 220 por el Arroyo de la Confitera en el punto kilométrico 3. Oeste. Comienza en el punto kilométrico 3 de la carretera local 220 en dirección hacia Carcabuey, continúa por los caminos vecinales 70, 20, 96, 36 y camino del Borrallo a Los Pelaos. Cruza la carretera comarcal 336 y sigue por los caminos vecinales 115 y 89 hasta confluir con la vía férrea Puente Genil-Linares hasta la estación de Cabra, cerrándose así el perímetro del espacio. Superficie 32.056 ha, medidas a partir de la delimitación del ámbito territorial del Parque Natural sobre la ortofoto digital mencionada en el primer párrafo del presente Anexo. Términos municipales: Cabra, Carcabuey, Doña Mencía, Iznájar, Luque, Priego de Córdoba, Rute y Zuheros. Provincia: Córdoba.
 
 Sevilla, 25 de febrero 2004 Página núm. 4.881
 
@@ -1881,3 +1876,14 @@ Sevilla, 25 de febrero 2004 Página núm. 4.881
 3. Otras disposiciones CONSEJERIA DE ECONOMIA Y HACIENDA ORDEN de 2 de febrero de 2004, por la que se dispone la publicación de los Presupuestos de Explotación y de Capital y del Programa de Actuación, Inversión y Financiación de la Fundación Andaluza para la Integración Social del Enfermo Mental. En cumplimiento de lo dispuesto en el artículo 4 l.
 
 Decreto 9/1999, de 19 de enero, sobre régimen presupuestario, financiero, de control y contable de las empresas de la Junta de Andalucía, de acuerdo con lo previsto en el artículo 59.3 de la Ley General de la Hacienda Pública de la Comunidad Autónoma de Andalucía, se procede a la publicación de los Presupuestos de Explotación y de Capital y del Programa de Actuación, Inversión y Financiación de la Fundación Andaluza para la Integración Social del Enfermo Mental, que figuran en el Anexo de la presente Orden. Sevilla, 2 de febrero de 2004 MAGDALENA ALVAREZ ARZA Consejera de Economía y Hacienda
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**D208_1997 Regulacion Centros Docentes Privados Andalucía**](../02_gestion_y_administracion_centros/D208_1997_regulacion_centros_docentes_privados_andalucia.md) desde *(D. Final segunda. Entrada en vigor.)*

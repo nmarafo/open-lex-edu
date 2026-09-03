@@ -23,20 +23,28 @@ tags:
 - formacion-del-profesorado
 - profesorado
 relaciones:
+  cita:
+  - norma_id: norm-can-l-6-2014
+    articulos_destino:
+    - Art. 65
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
+    disposiciones_destino:
+    - D. Adicional decimocuarta
   - norma_id: norm-es-rdl-5-2015
   - norma_id: norm-es-lo-2-2006
   desarrolla:
+  - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-rd-276-2007
   - norma_id: norm-es-rdl-5-2015
   - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-019-376.pdf
 ---
+
 # Resolución de 10 de enero de 2018, de la Dirección General de Personal, por la que se dispone la publicación en el Boletín Oficial de Canarias del Acuerdo entre la Consejería de Educación y Universidades y las centrales sindicales representativas del profesorado sobre la mejora del marco retributivo del personal docente no universitario del ámbito de la Consejería de Educación y Universidades (BOC n.º 19, de 26 de enero).
 
 ## Preámbulo
@@ -116,3 +124,17 @@ Noveno.- La mejora del sistema retributivo del personal docente no universitario
 ### Fundamentos de Derecho
 
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Desarrolla**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Desarrolla**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md) (D. Adicional decimocuarta)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md) (Art. 65)

@@ -25,6 +25,17 @@ tags:
 - orientador
 - andalucia
 relaciones:
+  cita:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 28
+    - Art. 10
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 43
+    - Art. 28
+    - Art. 10
+    - Art. 17
   desarrolla:
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
@@ -32,6 +43,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-1-1996
 ---
+
 # Orden de 31 de mayo de 1994, por la que se regula la organización y funcionamiento de los Departamentos de Orientación en IES.
 
 ## Preámbulo
@@ -50,14 +62,22 @@ Real Decreto 17/1977, de 4 de marzo, de Relaciones de Trabajo, faculta a la Admi
 
 #### Artículo 3. Los artículos anteriores no supondrán limitación alguna de los derechos que la normativa reguladora de la huelga reconoce al personal en dicha situación, ni tampoco respecto de la tramitación y efectos de las peticiones que la motiven.
 
-#### Artículo 4. La presente Orden entrará en vigor el mismo día de su publicación en el Boletín Oficial de la Junta de Andalucía.
-
 Sevilla, 10 de junio de 1994 FRANCISCO OLIVA GARCIA Consejero de Trabajo ANGEL MARTIN-LAGOS CONTRERAS Consejero de Gobernación Iltmo. Sr. Director General de Trabajo y Seguridad Social. Iltmo. Sr. Director General de Administración Local y Justicia. Iltmos. Sres. Delegados Provinciales de las Consejerías de Trabajo y de Gobernación de Almería.
 
-## Anexo
-
-Treinta y tres por ciento de los medios materiales y humanos, quedando a criterio de la empresa la distribución funcional y temporal, dándose prioridad a los servicios de recogida de residuos en los mercados públicos.
+## Anexo. Treinta y tres por ciento de los medios materiales y humanos, quedando a criterio de la empresa la distribución funcional y temporal, dándose prioridad a los servicios de recogida de residuos en los mercados públicos.
 
 Descargar PDF
 
 Disposición siguiente
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- **Cita a**: `norm-es-c-1978` (Art. 28, Art. 10)
+- **Cita a**: `norm-es-c-1978` (Art. 43, Art. 28, Art. 10, Art. 17)

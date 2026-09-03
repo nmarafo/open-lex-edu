@@ -32,6 +32,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Decreto 390/1986, de 10 de diciembre, por el que se aprueba el Reglamento General de Conciertos Educativos en Andalucía.
 
 ## Preámbulo
@@ -40,9 +41,8 @@ Atención: La información contenida en estas páginas no tiene validez legal. V
 
 La Ley 6/1985, de noviembre, de su artº 11, configura la relación de puestos de trabajo como instrumento de ordenación de la política de personal en la Administración de la Junta de Andalucía, estableciendo en su artº 4.2.g) que corresponde al Consejo de Gobierno su aprobación. En el Decreto 390/1986, de 10 de diciembre, se determinan las normas de elaboración y aplicación de la relación de puestos de trabajo. El cumplimiento de tales preceptos y en virtud de lo establecido en el artº 12.4 de dicha Ley, y en el artº 3 del Decreto del Presidente 130/1986, de 30 de julio, a propuesta del Consejero de Gobernación y previa deliberación del Consejo de Gobierno en su reunión del día 17 de diciembre de 1986,
 DISPONGO:
-Artículo único. Se aprueba la relación de puestos de trabajo correspondiente a funcionarios y personal laboral fijo de la Junta de Andalucía, que se publica como anexo al presente Decreto. La relación de puestos de trabajo entrará en vigor el mismo día de su publicación en el Boletín Oficial de la Junta de Andalucía, salvo los efectos derivados del cambio de sistema retributivo que se producirán a partir del 1 de enero de 1987, sin perjuicio del incremento que se establezca en la Ley de Presupuestos de 1987. #### Disposición derogatoria ....
 
-Quedan derogadas cuantas normas de igual o inferior rango opongan a lo previsto en el presente Decreto.
+#### Artículo . #### Artículo . Quedan derogadas cuantas normas de igual o inferior rango opongan a lo previsto en el presente Decreto.
 
 Sevilla, 17 de diciembre de 1986 JOSE RODRIGUEZ DE LA BORBOLLA Y CAMOYAN Presidente de la Junta de Andalucía ENRIQUE LINDE CIRUJANO Consejero de Gobernación CLAVES UTILIZADAS
 a) "NUM": Número de puestos iguales.
@@ -51,8 +51,17 @@ e) "NIV.-C.D.": Nivel de complemento de destino. f) "C.Específico": Complemento
 h) "EXP": Experiencia en años.
 i) "M1"; "M2"; "M3"; "M4"; "M5": Cursos de formación normalizados u homologados. La letra que antecede al tipo de curso, corresponde a uno de los grupos de clasificación, siendo requisito necesario para el personal perteneciente a dicho grupo, haber seguido con aprovechamiento el curso indicado.
 
-## Anexo
-
-VER FASCICULO DE ESTE NUMERO, (3 DE 10), (4 DE 10), (5 DE 10), (6 DE 10), (7 DE 10), (8 DE 10), (9 DE 10) Y (10 DE 10).
+## Anexo V. ER FASCICULO DE ESTE NUMERO, (3 DE 10), (4 DE 10), (5 DE 10), (6 DE 10), (7 DE 10), (8 DE 10), (9 DE 10) Y (10 DE 10).
 
 Disposición siguiente
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

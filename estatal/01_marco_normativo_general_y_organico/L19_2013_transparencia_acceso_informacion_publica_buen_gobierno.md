@@ -29,9 +29,98 @@ tags:
 - titulacion
 - transparencia
 relaciones:
-  fundamentado_en:
+  cita:
+  - norma_id: norm-es-2007-19814
+    titulo_origen: Título III. Consejo de Transparencia y Buen Gobierno.
+    articulos_origen:
+    - D. Final novena. Entrada en vigor.
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III. Consejo de Transparencia y Buen Gobierno.
+    articulos_origen:
+    - D. Final novena. Entrada en vigor.
+    capitulo_destino: Capítulo III
   - norma_id: norm-es-1985-5392
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Publicidad activa.
+    articulos_origen:
+    - Art. 8
+  - norma_id: norm-es-2007-19814
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Publicidad activa.
+    articulos_origen:
+    - Art. 11
   - norma_id: norm-es-1999-23750
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Derecho de acceso a la información pública.
+    seccion_origen: Sección 1. ª Régimen general artículo 12 Derecho de acceso a la
+      información pública. Todas las personas tienen derecho a acceder a la información
+      pública, en los términos previstos en el artículo 105.b) de la Constitución
+      Española, desarrollados por esta Ley.
+    articulos_origen:
+    - Art. 15
+    articulos_destino:
+    - Art. 7
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    articulos_origen:
+    - Art. 26
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    articulos_origen:
+    - Art. 28
+    articulos_destino:
+    - Art. 25
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    articulos_origen:
+    - Art. 29
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final primera. Modificación de la Ley 30/1992, de 26 de noviembre, de Régimen
+      Jurídico de las Administraciones Públicas y del Procedimiento Administrativo
+      Común.
+  desarrolla:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Derecho de acceso a la información pública.
+    seccion_origen: Sección 1. ª Régimen general artículo 12 Derecho de acceso a la
+      información pública. Todas las personas tienen derecho a acceder a la información
+      pública, en los términos previstos en el artículo 105.b) de la Constitución
+      Española, desarrollados por esta Ley.
+    seccion_destino: Sección 1
+    articulos_destino:
+    - Art. 12
+    - Art. 105
+  fundamentado_en:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    articulos_origen:
+    - Art. 28
+    articulos_destino:
+    - Art. 26
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Adicional quinta. Colaboración con la Agencia Española de Protección de Datos.
+    articulos_destino:
+    - Art. 15
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final octava. Título competencial.
+    titulo_destino: Título III
+    articulos_destino:
+    - Art. 149
+    - Art. 6
+    - Art. 9
+    - Art. 10
+    - Art. 11
+    - Art. 21
+    - Art. 25
+    disposiciones_destino:
+    - D. Adicional segunda
+  - norma_id: norm-es-1985-5392
   - norma_id: norm-es-2007-19814
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-l-39-2015
@@ -41,16 +130,15 @@ relaciones:
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-es-l-9-2017
   - norma_id: norm-es-lo-3-2018
-  - norma_id: norm-can-o-2023-09-28
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-2007-19814
   - norma_id: norm-es-1985-5392
   - norma_id: norm-es-1999-23750
 ---
+
 # Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.
 
 ## Preámbulo
@@ -1201,3 +1289,31 @@ MARIANO RAJOY BREY
 - [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md)
 - [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md)
 - [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-c-1978` (Sección 1, Art. 12, Art. 105) desde *(Título I, Capítulo III. Derecho de acceso a la información pública.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 26) desde *(Título II, Art. 28)*
+- **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) (Art. 15) desde *(Título III, D. Adicional quinta. Colaboración con la Agencia Española de Protección de Datos.)*
+- **Fundamentado en**: `norm-es-c-1978` (Título III, Art. 149, Art. 6, Art. 9, Art. 10, Art. 11, Art. 21, Art. 25, D. Adicional segunda) desde *(Título III, D. Final octava. Título competencial.)*
+- **Fundamentado en**: [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md)
+- **Fundamentado en**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](./L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
+- **Fundamento de**: [**L39_2015 Procedimiento Administrativo Comun**](./L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamento de**: [**L40_2015 Regimen Juridico del Sector Publico**](./L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamento de**: [**L9_2017 Contratos del Sector Publico (LCSP)**](../02_gestion_y_administracion_centros/L9_2017_contratos_sector_publico_transponen_ordenamiento_juridico.md)
+- **Fundamento de**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
+- **Cita a**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md) desde *(Título III. Consejo de Transparencia y Buen Gobierno., D. Final novena. Entrada en vigor.)*
+- **Cita a**: `norm-es-c-1978` (Capítulo III) desde *(Título III. Consejo de Transparencia y Buen Gobierno., D. Final novena. Entrada en vigor.)*
+- **Cita a**: [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md) desde *(Título I, Capítulo II. Publicidad activa., Art. 8)*
+- **Cita a**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md) desde *(Título I, Capítulo II. Publicidad activa., Art. 11)*
+- **Cita a**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) (Art. 7) desde *(Título I, Capítulo III. Derecho de acceso a la información pública., Art. 15)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Art. 26)*
+- **Cita a**: `norm-es-c-1978` (Art. 25) desde *(Título II, Art. 28)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Art. 29)*
+- **Cita a**: `norm-es-c-1978` desde *(Título III, D. Final primera. Modificación de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.)*

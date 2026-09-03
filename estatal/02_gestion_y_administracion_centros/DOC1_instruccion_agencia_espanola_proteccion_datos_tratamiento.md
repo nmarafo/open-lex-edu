@@ -24,13 +24,60 @@ tags:
 relaciones:
   fundamentado_en:
   - norma_id: norm-es-1999-23750
+    articulos_destino:
+    - Art. 37
+    - Art. 3
+    - Art. 1
+    - Art. 2
+    - Art. 29
+    - Art. 6
+    - Art. 11
+    - Art. 5
+    - Art. 15
+  - norma_id: norm-es-1999-23750
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 5
+  - norma_id: norm-es-1999-23750
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 4
+  - norma_id: norm-es-1999-23750
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 15
+  - norma_id: norm-es-1999-23750
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 20
   - norma_id: norm-es-lo-2-2006
-  fundamentos_derecho:
-  - norma_id: norm-can-d-81-2010
+  cita:
+  - norma_id: norm-es-1999-23750
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 6
+    - Art. 11
+  - norma_id: norm-es-1999-23750
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 5
+  - norma_id: norm-es-1999-23750
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 3
+    - Art. 15
   articulos:
-  - '120'
+  - norma_id: '120'
   - norma_id: norm-es-1999-23750
 ---
+
 # Instrucción 1/2006, de 8 de noviembre, de la Agencia Española de Protección de Datos, sobre el tratamiento de datos personales con fines de vigilancia a través de sistemas de cámaras o videocámaras.
 
 ## Preámbulo
@@ -122,3 +169,18 @@ Madrid, 8 de noviembre de 2006.-El Director de la Agencia Española de Protecci�
 - [**D81_2010 Reglamento Organico de Centros (ROC)**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Fundamentado en**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 37, Art. 3, Art. 1, Art. 2, Art. 29, Art. 6, Art. 11, Art. 5, Art. 15)
+- **Fundamentado en**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 5) desde *(Art. 3)*
+- **Fundamentado en**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 4) desde *(Art. 4)*
+- **Fundamentado en**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 15) desde *(Art. 5)*
+- **Fundamentado en**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 20) desde *(Art. 7)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 6, Art. 11) desde *(Art. 2)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 5) desde *(Art. 3)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 3, Art. 15) desde *(Art. 9)*

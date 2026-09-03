@@ -23,25 +23,604 @@ tags:
 - protecci-n-jur-dica-de-menores
 - proteccion-menores
 relaciones:
+  cita:
+  - norma_id: norm-es-lo-5-2000
+  - norma_id: norm-es-lo-5-2000
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-1999-23750
+    articulos_destino:
+    - Art. 6
+    - Art. 7
+    - Art. 8
+    - Art. 9
+    - Art. 10
+    - Art. 11
+    - Art. 12
+    - Art. 13
+  - norma_id: norm-es-lo-5-2000
+    articulos_origen:
+    - D. Adicional única. Evaluación de resultados.
+  - norma_id: norm-es-lo-5-2000
+    articulos_origen:
+    - D. Final única. Entrada en vigor.
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 1
+    articulos_destino:
+    - Art. 4
+    - Art. 15
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo II. De la actuación de la Policía Judicial y del equipo
+      técnico.
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-1999-23750
+    capitulo_origen: Capítulo II. De la actuación de la Policía Judicial y del equipo
+      técnico.
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo II. De la actuación de la Policía Judicial y del equipo
+      técnico.
+    articulos_origen:
+    - Art. 3
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo II. De la actuación de la Policía Judicial y del equipo
+      técnico.
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 17
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo II. De la actuación de la Policía Judicial y del equipo
+      técnico.
+    articulos_origen:
+    - Art. 4
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo II. De la actuación de la Policía Judicial y del equipo
+      técnico.
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 19
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo II. De la actuación de la Policía Judicial y del equipo
+      técnico.
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 27
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: 'Sección 1. ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS
+      artículo 6 Principios inspiradores de la ejecución de las medidas. Los profesionales,
+      organismos e instituciones que intervengan en la ejecución de las medidas ajustarán
+      su actuación con los menores a los principios siguientes:'
+    articulos_origen:
+    - Art. 7
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: 'Sección 1. ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS
+      artículo 6 Principios inspiradores de la ejecución de las medidas. Los profesionales,
+      organismos e instituciones que intervengan en la ejecución de las medidas ajustarán
+      su actuación con los menores a los principios siguientes:'
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 7
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: 'Sección 1. ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS
+      artículo 6 Principios inspiradores de la ejecución de las medidas. Los profesionales,
+      organismos e instituciones que intervengan en la ejecución de las medidas ajustarán
+      su actuación con los menores a los principios siguientes:'
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 40
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: 'Sección 1. ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS
+      artículo 6 Principios inspiradores de la ejecución de las medidas. Los profesionales,
+      organismos e instituciones que intervengan en la ejecución de las medidas ajustarán
+      su actuación con los menores a los principios siguientes:'
+    articulos_origen:
+    - Art. 8
+    disposiciones_destino:
+    - D. Adicional cuarta
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: 'Sección 1. ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS
+      artículo 6 Principios inspiradores de la ejecución de las medidas. Los profesionales,
+      organismos e instituciones que intervengan en la ejecución de las medidas ajustarán
+      su actuación con los menores a los principios siguientes:'
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 19
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: 'Sección 1. ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS
+      artículo 6 Principios inspiradores de la ejecución de las medidas. Los profesionales,
+      organismos e instituciones que intervengan en la ejecución de las medidas ajustarán
+      su actuación con los menores a los principios siguientes:'
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 46
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: 'Sección 1. ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS
+      artículo 6 Principios inspiradores de la ejecución de las medidas. Los profesionales,
+      organismos e instituciones que intervengan en la ejecución de las medidas ajustarán
+      su actuación con los menores a los principios siguientes:'
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 7
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: 'Sección 1. ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS
+      artículo 6 Principios inspiradores de la ejecución de las medidas. Los profesionales,
+      organismos e instituciones que intervengan en la ejecución de las medidas ajustarán
+      su actuación con los menores a los principios siguientes:'
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 28
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: 'Sección 1. ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS
+      artículo 6 Principios inspiradores de la ejecución de las medidas. Los profesionales,
+      organismos e instituciones que intervengan en la ejecución de las medidas ajustarán
+      su actuación con los menores a los principios siguientes:'
+    articulos_origen:
+    - Art. 11
+    articulos_destino:
+    - Art. 13
+    - Art. 47
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: 'Sección 1. ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS
+      artículo 6 Principios inspiradores de la ejecución de las medidas. Los profesionales,
+      organismos e instituciones que intervengan en la ejecución de las medidas ajustarán
+      su actuación con los menores a los principios siguientes:'
+    articulos_origen:
+    - Art. 11
+    articulos_destino:
+    - Art. 7
+    - Art. 47
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: 'Sección 1. ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS
+      artículo 6 Principios inspiradores de la ejecución de las medidas. Los profesionales,
+      organismos e instituciones que intervengan en la ejecución de las medidas ajustarán
+      su actuación con los menores a los principios siguientes:'
+    articulos_origen:
+    - Art. 11
+    disposiciones_destino:
+    - D. Adicional cuarta
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: 'Sección 1. ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS
+      artículo 6 Principios inspiradores de la ejecución de las medidas. Los profesionales,
+      organismos e instituciones que intervengan en la ejecución de las medidas ajustarán
+      su actuación con los menores a los principios siguientes:'
+    articulos_origen:
+    - Art. 11
+    articulos_destino:
+    - Art. 47
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: 'Sección 1. ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS
+      artículo 6 Principios inspiradores de la ejecución de las medidas. Los profesionales,
+      organismos e instituciones que intervengan en la ejecución de las medidas ajustarán
+      su actuación con los menores a los principios siguientes:'
+    articulos_origen:
+    - Art. 12
+    articulos_destino:
+    - Art. 48
+  - norma_id: norm-es-1999-23750
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: 'Sección 1. ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS
+      artículo 6 Principios inspiradores de la ejecución de las medidas. Los profesionales,
+      organismos e instituciones que intervengan en la ejecución de las medidas ajustarán
+      su actuación con los menores a los principios siguientes:'
+    articulos_origen:
+    - Art. 12
+    articulos_destino:
+    - Art. 48
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: 'Sección 1. ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS
+      artículo 6 Principios inspiradores de la ejecución de las medidas. Los profesionales,
+      organismos e instituciones que intervengan en la ejecución de las medidas ajustarán
+      su actuación con los menores a los principios siguientes:'
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 14
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: 'Sección 1. ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS
+      artículo 6 Principios inspiradores de la ejecución de las medidas. Los profesionales,
+      organismos e instituciones que intervengan en la ejecución de las medidas ajustarán
+      su actuación con los menores a los principios siguientes:'
+    articulos_origen:
+    - Art. 14
+    articulos_destino:
+    - Art. 50
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: 'Sección 1. ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS
+      artículo 6 Principios inspiradores de la ejecución de las medidas. Los profesionales,
+      organismos e instituciones que intervengan en la ejecución de las medidas ajustarán
+      su actuación con los menores a los principios siguientes:'
+    articulos_origen:
+    - Art. 14
+    articulos_destino:
+    - Art. 7
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: 'Sección 1. ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS
+      artículo 6 Principios inspiradores de la ejecución de las medidas. Los profesionales,
+      organismos e instituciones que intervengan en la ejecución de las medidas ajustarán
+      su actuación con los menores a los principios siguientes:'
+    articulos_origen:
+    - Art. 15
+    articulos_destino:
+    - Art. 51
+    - Art. 19
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: Sección 2. ª REGLAS ESPECÍFICAS PARA LA EJECUCIÓN DE DETERMINADAS
+      MEDIDAS NO PRIVATIVAS DE LIBERTAD
+    articulos_origen:
+    - Art. 18
+    articulos_destino:
+    - Art. 7
+    disposiciones_destino:
+    - D. Adicional cuarta
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: Sección 2. ª REGLAS ESPECÍFICAS PARA LA EJECUCIÓN DE DETERMINADAS
+      MEDIDAS NO PRIVATIVAS DE LIBERTAD
+    articulos_origen:
+    - Art. 21
+    articulos_destino:
+    - Art. 40
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: Sección 2. ª REGLAS ESPECÍFICAS PARA LA EJECUCIÓN DE DETERMINADAS
+      MEDIDAS NO PRIVATIVAS DE LIBERTAD
+    articulos_origen:
+    - Art. 22
+    articulos_destino:
+    - Art. 28
+    - Art. 18
+    - Art. 19
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: Sección 3. ª REGLAS ESPECÍFICAS PARA LA EJECUCIÓN DE LAS MEDIDAS
+      PRIVATIVAS DE LIBERTAD artículo 23 Regímenes de internamiento. Los menores cumplirán
+      la medida de internamiento en el régimen acordado en resolución motivada por
+      el juez de menores, de acuerdo con lo establecido en los párrafos a), b) y c)
+      del artículo 7.1 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md),
+      de 12 de enero, reguladora de la responsabilidad penal de los menores.
+    seccion_destino: Sección 3
+    articulos_destino:
+    - Art. 23
+    - Art. 7
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: Sección 3. ª REGLAS ESPECÍFICAS PARA LA EJECUCIÓN DE LAS MEDIDAS
+      PRIVATIVAS DE LIBERTAD artículo 23 Regímenes de internamiento. Los menores cumplirán
+      la medida de internamiento en el régimen acordado en resolución motivada por
+      el juez de menores, de acuerdo con lo establecido en los párrafos a), b) y c)
+      del artículo 7.1 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md),
+      de 12 de enero, reguladora de la responsabilidad penal de los menores.
+    articulos_origen:
+    - Art. 29
+    articulos_destino:
+    - Art. 28
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: Sección 3. ª REGLAS ESPECÍFICAS PARA LA EJECUCIÓN DE LAS MEDIDAS
+      PRIVATIVAS DE LIBERTAD artículo 23 Regímenes de internamiento. Los menores cumplirán
+      la medida de internamiento en el régimen acordado en resolución motivada por
+      el juez de menores, de acuerdo con lo establecido en los párrafos a), b) y c)
+      del artículo 7.1 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md),
+      de 12 de enero, reguladora de la responsabilidad penal de los menores.
+    articulos_origen:
+    - Art. 43
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: Sección 3. ª REGLAS ESPECÍFICAS PARA LA EJECUCIÓN DE LAS MEDIDAS
+      PRIVATIVAS DE LIBERTAD artículo 23 Regímenes de internamiento. Los menores cumplirán
+      la medida de internamiento en el régimen acordado en resolución motivada por
+      el juez de menores, de acuerdo con lo establecido en los párrafos a), b) y c)
+      del artículo 7.1 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md),
+      de 12 de enero, reguladora de la responsabilidad penal de los menores.
+    articulos_origen:
+    - Art. 45
+    articulos_destino:
+    - Art. 52
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: Sección 3. ª REGLAS ESPECÍFICAS PARA LA EJECUCIÓN DE LAS MEDIDAS
+      PRIVATIVAS DE LIBERTAD artículo 23 Regímenes de internamiento. Los menores cumplirán
+      la medida de internamiento en el régimen acordado en resolución motivada por
+      el juez de menores, de acuerdo con lo establecido en los párrafos a), b) y c)
+      del artículo 7.1 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md),
+      de 12 de enero, reguladora de la responsabilidad penal de los menores.
+    articulos_origen:
+    - Art. 50
+    articulos_destino:
+    - Art. 44
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: Sección 3. ª REGLAS ESPECÍFICAS PARA LA EJECUCIÓN DE LAS MEDIDAS
+      PRIVATIVAS DE LIBERTAD artículo 23 Regímenes de internamiento. Los menores cumplirán
+      la medida de internamiento en el régimen acordado en resolución motivada por
+      el juez de menores, de acuerdo con lo establecido en los párrafos a), b) y c)
+      del artículo 7.1 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md),
+      de 12 de enero, reguladora de la responsabilidad penal de los menores.
+    articulos_origen:
+    - Art. 51
+    articulos_destino:
+    - Art. 44
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: Sección 3. ª REGLAS ESPECÍFICAS PARA LA EJECUCIÓN DE LAS MEDIDAS
+      PRIVATIVAS DE LIBERTAD artículo 23 Regímenes de internamiento. Los menores cumplirán
+      la medida de internamiento en el régimen acordado en resolución motivada por
+      el juez de menores, de acuerdo con lo establecido en los párrafos a), b) y c)
+      del artículo 7.1 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md),
+      de 12 de enero, reguladora de la responsabilidad penal de los menores.
+    articulos_origen:
+    - Art. 56
+    articulos_destino:
+    - Art. 56
+    - Art. 57
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo IV. Del régimen disciplinario de los centros.
+    articulos_origen:
+    - Art. 60
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo IV. Del régimen disciplinario de los centros.
+    articulos_origen:
+    - Art. 72
+  desarrolla:
+  - norma_id: norm-es-lo-5-2000
+    capitulo_destino: Capítulo III
+    seccion_destino: Sección 2.ª
+    articulos_destino:
+    - Art. 7
   fundamentado_en:
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 1
+    articulos_destino:
+    - Art. 45
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo II. De la actuación de la Policía Judicial y del equipo
+      técnico.
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 17
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo II. De la actuación de la Policía Judicial y del equipo
+      técnico.
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 19
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo II. De la actuación de la Policía Judicial y del equipo
+      técnico.
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 27
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo II. De la actuación de la Policía Judicial y del equipo
+      técnico.
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 51
+    - Art. 15
+    - Art. 8
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: 'Sección 1. ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS
+      artículo 6 Principios inspiradores de la ejecución de las medidas. Los profesionales,
+      organismos e instituciones que intervengan en la ejecución de las medidas ajustarán
+      su actuación con los menores a los principios siguientes:'
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 28
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: 'Sección 1. ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS
+      artículo 6 Principios inspiradores de la ejecución de las medidas. Los profesionales,
+      organismos e instituciones que intervengan en la ejecución de las medidas ajustarán
+      su actuación con los menores a los principios siguientes:'
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 45
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: 'Sección 1. ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS
+      artículo 6 Principios inspiradores de la ejecución de las medidas. Los profesionales,
+      organismos e instituciones que intervengan en la ejecución de las medidas ajustarán
+      su actuación con los menores a los principios siguientes:'
+    articulos_origen:
+    - Art. 8
+    disposiciones_destino:
+    - D. Adicional cuarta
   - norma_id: norm-es-1995-25444
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: 'Sección 1. ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS
+      artículo 6 Principios inspiradores de la ejecución de las medidas. Los profesionales,
+      organismos e instituciones que intervengan en la ejecución de las medidas ajustarán
+      su actuación con los menores a los principios siguientes:'
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 105
+    - Art. 9
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: 'Sección 1. ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS
+      artículo 6 Principios inspiradores de la ejecución de las medidas. Los profesionales,
+      organismos e instituciones que intervengan en la ejecución de las medidas ajustarán
+      su actuación con los menores a los principios siguientes:'
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 15
+    - Art. 7
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: 'Sección 1. ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS
+      artículo 6 Principios inspiradores de la ejecución de las medidas. Los profesionales,
+      organismos e instituciones que intervengan en la ejecución de las medidas ajustarán
+      su actuación con los menores a los principios siguientes:'
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 46
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: 'Sección 1. ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS
+      artículo 6 Principios inspiradores de la ejecución de las medidas. Los profesionales,
+      organismos e instituciones que intervengan en la ejecución de las medidas ajustarán
+      su actuación con los menores a los principios siguientes:'
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 54
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: 'Sección 1. ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS
+      artículo 6 Principios inspiradores de la ejecución de las medidas. Los profesionales,
+      organismos e instituciones que intervengan en la ejecución de las medidas ajustarán
+      su actuación con los menores a los principios siguientes:'
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 50
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: 'Sección 1. ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS
+      artículo 6 Principios inspiradores de la ejecución de las medidas. Los profesionales,
+      organismos e instituciones que intervengan en la ejecución de las medidas ajustarán
+      su actuación con los menores a los principios siguientes:'
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 28
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: Sección 3. ª REGLAS ESPECÍFICAS PARA LA EJECUCIÓN DE LAS MEDIDAS
+      PRIVATIVAS DE LIBERTAD artículo 23 Regímenes de internamiento. Los menores cumplirán
+      la medida de internamiento en el régimen acordado en resolución motivada por
+      el juez de menores, de acuerdo con lo establecido en los párrafos a), b) y c)
+      del artículo 7.1 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md),
+      de 12 de enero, reguladora de la responsabilidad penal de los menores.
+    articulos_origen:
+    - Art. 29
+    articulos_destino:
+    - Art. 44
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: Sección 3. ª REGLAS ESPECÍFICAS PARA LA EJECUCIÓN DE LAS MEDIDAS
+      PRIVATIVAS DE LIBERTAD artículo 23 Regímenes de internamiento. Los menores cumplirán
+      la medida de internamiento en el régimen acordado en resolución motivada por
+      el juez de menores, de acuerdo con lo establecido en los párrafos a), b) y c)
+      del artículo 7.1 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md),
+      de 12 de enero, reguladora de la responsabilidad penal de los menores.
+    articulos_origen:
+    - Art. 35
+    articulos_destino:
+    - Art. 46
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: Sección 3. ª REGLAS ESPECÍFICAS PARA LA EJECUCIÓN DE LAS MEDIDAS
+      PRIVATIVAS DE LIBERTAD artículo 23 Regímenes de internamiento. Los menores cumplirán
+      la medida de internamiento en el régimen acordado en resolución motivada por
+      el juez de menores, de acuerdo con lo establecido en los párrafos a), b) y c)
+      del artículo 7.1 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md),
+      de 12 de enero, reguladora de la responsabilidad penal de los menores.
+    articulos_origen:
+    - Art. 57
+    articulos_destino:
+    - Art. 52
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo IV. Del régimen disciplinario de los centros.
+    articulos_origen:
+    - Art. 78
+    articulos_destino:
+    - Art. 60
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo IV. Del régimen disciplinario de los centros.
+    articulos_origen:
+    - Art. 80
+    articulos_destino:
+    - Art. 60
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo IV. Del régimen disciplinario de los centros.
+    articulos_origen:
+    - D. Adicional única. Actuaciones policiales de vigilancia, custodia y traslado.
+    articulos_destino:
+    - Art. 45
   - norma_id: norm-es-1999-23750
   - norma_id: norm-es-lo-1-1996
   - norma_id: norm-es-lo-2-2006
+  modifica:
+  - norma_id: norm-es-lo-1-1996
+    capitulo_origen: Capítulo II. De la actuación de la Policía Judicial y del equipo
+      técnico.
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-lo-1-1996
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: 'Sección 1. ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS
+      artículo 6 Principios inspiradores de la ejecución de las medidas. Los profesionales,
+      organismos e instituciones que intervengan en la ejecución de las medidas ajustarán
+      su actuación con los menores a los principios siguientes:'
+    articulos_origen:
+    - Art. 8
   - norma_id: norm-es-lo-5-2000
-  desarrollado_por: []
-  fundamento_de:
-  - norma_id: norm-can-res-juriscan-71394-16
+    capitulo_origen: Capítulo III. De las reglas para la ejecución de las medidas.
+    seccion_origen: 'Sección 1. ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS
+      artículo 6 Principios inspiradores de la ejecución de las medidas. Los profesionales,
+      organismos e instituciones que intervengan en la ejecución de las medidas ajustarán
+      su actuación con los menores a los principios siguientes:'
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 44
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2.1'
+  - norma_id: '1'
+  - norma_id: '2.1'
   - norma_id: norm-es-1995-25444
   - norma_id: norm-es-lo-1-1996
   - norma_id: norm-es-lo-5-2000
   - norma_id: norm-es-1999-23750
 ---
+
 # Real Decreto 1774/2004, de 30 de julio, por el que se aprueba el Reglamento de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
 ## Preámbulo
@@ -1346,3 +1925,79 @@ En situaciones de urgencia, cuando no sea posible actuar conforme a lo previsto 
 - [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
 - [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md)
 - [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Capítulo III, Sección 2.ª, Art. 7)
+- **Modifica**: [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md) (Art. 2) desde *(Capítulo II. De la actuación de la Policía Judicial y del equipo técnico., Art. 2)*
+- **Modifica**: [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 8)*
+- **Modifica**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 44) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 10)*
+- **Fundamentado en**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 45) desde *(Capítulo I, Art. 1)*
+- **Fundamentado en**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 17) desde *(Capítulo II. De la actuación de la Policía Judicial y del equipo técnico., Art. 2)*
+- **Fundamentado en**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 19) desde *(Capítulo II. De la actuación de la Policía Judicial y del equipo técnico., Art. 5)*
+- **Fundamentado en**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 27) desde *(Capítulo II. De la actuación de la Policía Judicial y del equipo técnico., Art. 5)*
+- **Fundamentado en**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 51, Art. 15, Art. 8) desde *(Capítulo II. De la actuación de la Policía Judicial y del equipo técnico., Art. 5)*
+- **Fundamentado en**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 28) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 8)*
+- **Fundamentado en**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 45) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 8)*
+- **Fundamentado en**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (D. Adicional cuarta) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 8)*
+- **Fundamentado en**: [**BOE-A-1995-25444**](./LO10_1995_codigo_penal.md) (Art. 105, Art. 9) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 8)*
+- **Fundamentado en**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 15, Art. 7) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 8)*
+- **Fundamentado en**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 46) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 10)*
+- **Fundamentado en**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 54) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 10)*
+- **Fundamentado en**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 50) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 10)*
+- **Fundamentado en**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 28) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 10)*
+- **Fundamentado en**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 44) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 29)*
+- **Fundamentado en**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 46) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 35)*
+- **Fundamentado en**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 52) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 57)*
+- **Fundamentado en**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 60) desde *(Capítulo IV. Del régimen disciplinario de los centros., Art. 78)*
+- **Fundamentado en**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 60) desde *(Capítulo IV. Del régimen disciplinario de los centros., Art. 80)*
+- **Fundamentado en**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 45) desde *(Capítulo IV. Del régimen disciplinario de los centros., D. Adicional única. Actuaciones policiales de vigilancia, custodia y traslado.)*
+- **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md)
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 1)
+- **Cita a**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) (Art. 6, Art. 7, Art. 8, Art. 9, Art. 10, Art. 11, Art. 12, Art. 13)
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) desde *(D. Adicional única. Evaluación de resultados.)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) desde *(D. Final única. Entrada en vigor.)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 4, Art. 15) desde *(Capítulo I, Art. 1)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) desde *(Capítulo II. De la actuación de la Policía Judicial y del equipo técnico., Art. 2)*
+- **Cita a**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) desde *(Capítulo II. De la actuación de la Policía Judicial y del equipo técnico., Art. 2)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) desde *(Capítulo II. De la actuación de la Policía Judicial y del equipo técnico., Art. 3)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 17) desde *(Capítulo II. De la actuación de la Policía Judicial y del equipo técnico., Art. 3)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) desde *(Capítulo II. De la actuación de la Policía Judicial y del equipo técnico., Art. 4)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 19) desde *(Capítulo II. De la actuación de la Policía Judicial y del equipo técnico., Art. 5)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 27) desde *(Capítulo II. De la actuación de la Policía Judicial y del equipo técnico., Art. 5)*
+- **Cita a**: `norm-es-c-1978` desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 7)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 7) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 8)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 40) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 8)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (D. Adicional cuarta) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 8)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 19) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 8)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 46) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 9)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 7) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 10)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 28) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 10)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 13, Art. 47) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 11)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 7, Art. 47) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 11)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (D. Adicional cuarta) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 11)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 47) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 11)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 48) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 12)*
+- **Cita a**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) (Art. 48) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 12)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 14) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 13)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 50) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 14)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 7) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 14)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 51, Art. 19) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 15)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 7, D. Adicional cuarta) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 18)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 40) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 21)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 28, Art. 18, Art. 19) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 22)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Sección 3, Art. 23, Art. 7) desde *(Capítulo III. De las reglas para la ejecución de las medidas.)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 28) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 29)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 43)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 52) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 45)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 44) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 50)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 44) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 51)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 56, Art. 57) desde *(Capítulo III. De las reglas para la ejecución de las medidas., Art. 56)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) desde *(Capítulo IV. Del régimen disciplinario de los centros., Art. 60)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md) desde *(Capítulo IV. Del régimen disciplinario de los centros., Art. 72)*

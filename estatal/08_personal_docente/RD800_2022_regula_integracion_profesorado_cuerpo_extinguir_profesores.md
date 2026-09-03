@@ -28,18 +28,411 @@ tags:
 - oposiciones
 - profesorado
 relaciones:
+  cita:
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2001-7022
+    articulos_destino:
+    - Art. 24
+  - norma_id: norm-es-lo-3-2022
+    articulos_destino:
+    - Art. 85
+    disposiciones_destino:
+    - D. Adicional quinta
+  - norma_id: norm-es-lo-2-2006
+    disposiciones_destino:
+    - D. Adicional sexta
+  - norma_id: norm-es-2021-20113
+    disposiciones_destino:
+    - D. Adicional sexta
+  - norma_id: norm-es-2010-12201
+    disposiciones_destino:
+    - D. Adicional sexta
+  - norma_id: norm-es-lo-3-2020
+    disposiciones_destino:
+    - D. Adicional sexta
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-rdleg-5-2015
+  - norma_id: norm-es-rdl-5-2015
+    articulos_origen:
+    - Art. 12
+    articulos_destino:
+    - Art. 4
+    - Art. 8
+    - Art. 87
+    - Art. 89
+  - norma_id: norm-es-rdleg-5-2015
+    articulos_origen:
+    - Art. 12
+    articulos_destino:
+    - Art. 4
+    - Art. 8
+    - Art. 87
+    - Art. 89
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Final segunda. Modificación del Reglamento de ingreso, accesos y adquisición
+      de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica
+      2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de
+      23 de febrero.
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Final segunda. Modificación del Reglamento de ingreso, accesos y adquisición
+      de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica
+      2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de
+      23 de febrero.
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Final segunda. Modificación del Reglamento de ingreso, accesos y adquisición
+      de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica
+      2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de
+      23 de febrero.
+    articulos_destino:
+    - Art. 100
   fundamentado_en:
   - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-l-39-2015
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 14
+  - norma_id: norm-es-l-39-2015
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 28
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final cuarta. Título competencial.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
   - norma_id: norm-es-2007-5478
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-3-2022
   - norma_id: norm-es-rd-1364-2010
   - norma_id: norm-es-rd-1834-2008
   - norma_id: norm-es-rd-276-2007
   - norma_id: norm-es-rdl-5-2015
+  desarrolla:
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-lo-3-2020
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    disposiciones_destino:
+    - D. Final primera
+    - D. Final segunda
+    - D. Final tercera
+  - norma_id: norm-es-rd-1834-2008
+    disposiciones_destino:
+    - D. Final primera
+    - D. Final segunda
+    - D. Final tercera
+  - norma_id: norm-es-2021-20113
+    disposiciones_destino:
+    - D. Final primera
+    - D. Final segunda
+    - D. Final tercera
+  - norma_id: norm-es-2010-12201
+    disposiciones_destino:
+    - D. Final primera
+    - D. Final segunda
+    - D. Final tercera
+  - norma_id: norm-es-rd-1364-2010
+    disposiciones_destino:
+    - D. Final primera
+    - D. Final segunda
+    - D. Final tercera
+  - norma_id: norm-es-rd-276-2007
+    disposiciones_destino:
+    - D. Final primera
+    - D. Final segunda
+    - D. Final tercera
+  - norma_id: norm-es-2007-5478
+    disposiciones_destino:
+    - D. Final primera
+    - D. Final segunda
+    - D. Final tercera
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Adicional quinta
+  - norma_id: norm-es-lo-3-2022
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Adicional quinta
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Adicional quinta
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Adicional quinta
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Adicional quinta
+  - norma_id: norm-es-lo-3-2020
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Adicional quinta
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-lo-3-2020
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 3
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 3
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 3
+  - norma_id: norm-es-lo-3-2020
+    articulos_origen:
+    - Art. 3
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 4
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 4
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 4
+  - norma_id: norm-es-lo-3-2020
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 4
+  - norma_id: norm-es-rd-1834-2008
+    articulos_origen:
+    - D. Final primera. Modificación del Real Decreto 1834/2008, de 8 de noviembre,
+      por el que se definen las condiciones de formación para el ejercicio de la docencia
+      en la educación secundaria obligatoria, el bachillerato, la formación profesional
+      y las enseñanzas de régimen especial y se establecen las especialidades de los
+      cuerpos docentes de enseñanza secundaria.
+    disposiciones_destino:
+    - D. Final primera
+  - norma_id: norm-es-rd-1834-2008
+    articulos_origen:
+    - D. Final primera. Modificación del Real Decreto 1834/2008, de 8 de noviembre,
+      por el que se definen las condiciones de formación para el ejercicio de la docencia
+      en la educación secundaria obligatoria, el bachillerato, la formación profesional
+      y las enseñanzas de régimen especial y se establecen las especialidades de los
+      cuerpos docentes de enseñanza secundaria.
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 4
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 4
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 4
+  - norma_id: norm-es-lo-3-2020
+    articulos_origen:
+    - Art. 4
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Final segunda. Modificación del Reglamento de ingreso, accesos y adquisición
+      de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica
+      2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de
+      23 de febrero.
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Final segunda. Modificación del Reglamento de ingreso, accesos y adquisición
+      de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica
+      2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de
+      23 de febrero.
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Final segunda. Modificación del Reglamento de ingreso, accesos y adquisición
+      de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica
+      2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de
+      23 de febrero.
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-es-rd-276-2007
+    articulos_origen:
+    - D. Final segunda. Modificación del Reglamento de ingreso, accesos y adquisición
+      de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica
+      2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de
+      23 de febrero.
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-es-2007-5478
+    articulos_origen:
+    - D. Final segunda. Modificación del Reglamento de ingreso, accesos y adquisición
+      de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica
+      2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de
+      23 de febrero.
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Final segunda. Modificación del Reglamento de ingreso, accesos y adquisición
+      de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica
+      2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de
+      23 de febrero.
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Final segunda. Modificación del Reglamento de ingreso, accesos y adquisición
+      de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica
+      2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de
+      23 de febrero.
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Final segunda. Modificación del Reglamento de ingreso, accesos y adquisición
+      de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica
+      2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de
+      23 de febrero.
+  - norma_id: norm-es-rd-276-2007
+    articulos_origen:
+    - D. Final segunda. Modificación del Reglamento de ingreso, accesos y adquisición
+      de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica
+      2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de
+      23 de febrero.
+  - norma_id: norm-es-2007-5478
+    articulos_origen:
+    - D. Final segunda. Modificación del Reglamento de ingreso, accesos y adquisición
+      de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica
+      2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de
+      23 de febrero.
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Adicional única. Titulaciones declaradas equivalentes a efectos de docencia
+      para el ingreso en determinados cuerpos.
+    disposiciones_destino:
+    - D. Adicional única
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Adicional única. Titulaciones declaradas equivalentes a efectos de docencia
+      para el ingreso en determinados cuerpos.
+    disposiciones_destino:
+    - D. Adicional única
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Adicional única. Titulaciones declaradas equivalentes a efectos de docencia
+      para el ingreso en determinados cuerpos.
+    disposiciones_destino:
+    - D. Adicional única
+  - norma_id: norm-es-lo-3-2020
+    articulos_origen:
+    - D. Adicional única. Titulaciones declaradas equivalentes a efectos de docencia
+      para el ingreso en determinados cuerpos.
+    disposiciones_destino:
+    - D. Adicional única
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1364/2010, de 29 de octubre,
+      por el que se regula el concurso de traslados de ámbito estatal entre personal
+      funcionario de los cuerpos docentes contemplados en la Ley Orgánica 2/2006,
+      de 3 de mayo, de Educación y otros procedimientos de provisión de plazas a cubrir
+      por los mismos.
+    disposiciones_destino:
+    - D. Final tercera
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1364/2010, de 29 de octubre,
+      por el que se regula el concurso de traslados de ámbito estatal entre personal
+      funcionario de los cuerpos docentes contemplados en la Ley Orgánica 2/2006,
+      de 3 de mayo, de Educación y otros procedimientos de provisión de plazas a cubrir
+      por los mismos.
+    disposiciones_destino:
+    - D. Final tercera
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1364/2010, de 29 de octubre,
+      por el que se regula el concurso de traslados de ámbito estatal entre personal
+      funcionario de los cuerpos docentes contemplados en la Ley Orgánica 2/2006,
+      de 3 de mayo, de Educación y otros procedimientos de provisión de plazas a cubrir
+      por los mismos.
+    disposiciones_destino:
+    - D. Final tercera
+  - norma_id: norm-es-rd-1364-2010
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1364/2010, de 29 de octubre,
+      por el que se regula el concurso de traslados de ámbito estatal entre personal
+      funcionario de los cuerpos docentes contemplados en la Ley Orgánica 2/2006,
+      de 3 de mayo, de Educación y otros procedimientos de provisión de plazas a cubrir
+      por los mismos.
+    disposiciones_destino:
+    - D. Final tercera
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1364/2010, de 29 de octubre,
+      por el que se regula el concurso de traslados de ámbito estatal entre personal
+      funcionario de los cuerpos docentes contemplados en la Ley Orgánica 2/2006,
+      de 3 de mayo, de Educación y otros procedimientos de provisión de plazas a cubrir
+      por los mismos.
+    articulos_destino:
+    - Art. 16
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1364/2010, de 29 de octubre,
+      por el que se regula el concurso de traslados de ámbito estatal entre personal
+      funcionario de los cuerpos docentes contemplados en la Ley Orgánica 2/2006,
+      de 3 de mayo, de Educación y otros procedimientos de provisión de plazas a cubrir
+      por los mismos.
+    articulos_destino:
+    - Art. 16
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1364/2010, de 29 de octubre,
+      por el que se regula el concurso de traslados de ámbito estatal entre personal
+      funcionario de los cuerpos docentes contemplados en la Ley Orgánica 2/2006,
+      de 3 de mayo, de Educación y otros procedimientos de provisión de plazas a cubrir
+      por los mismos.
+    articulos_destino:
+    - Art. 16
+  - norma_id: norm-es-rd-1364-2010
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1364/2010, de 29 de octubre,
+      por el que se regula el concurso de traslados de ámbito estatal entre personal
+      funcionario de los cuerpos docentes contemplados en la Ley Orgánica 2/2006,
+      de 3 de mayo, de Educación y otros procedimientos de provisión de plazas a cubrir
+      por los mismos.
+    articulos_destino:
+    - Art. 16
   fundamento_de:
   - norma_id: norm-es-2023-9553
   - norma_id: norm-es-2024-10683
@@ -48,9 +441,8 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-es-l-39-2015
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-can-res-134
   - norma_id: norm-es-rdl-5-2015
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-rd-1834-2008
@@ -61,6 +453,7 @@ relaciones:
   - norma_id: norm-es-rd-1364-2010
   - norma_id: norm-es-rd-276-2007
 ---
+
 # Real Decreto 800/2022, de 4 de octubre, por el que se regula la integración del profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional en el Cuerpo de Profesores de Enseñanza Secundaria, y se modifican diversos reales decretos relativos al profesorado de enseñanzas no universitarias.
 
 ## Preámbulo
@@ -621,3 +1014,100 @@ MARÍA DEL PILAR ALEGRÍA CONTINENTE
 - [**BOE-A-2007-5478**](./RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
 - [**RD1364_2010 Regulacion del Concurso de Traslados Docente**](./RD1364_2010_regula_concurso_traslados_ambito_estatal_entre.md)
 - [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
+- **Desarrolla**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Desarrolla**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Desarrolla**: `norm-es-lo-3-2020`
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Final primera, D. Final segunda, D. Final tercera)
+- **Modifica**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](../02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md) (D. Final primera, D. Final segunda, D. Final tercera)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Final primera, D. Final segunda, D. Final tercera)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Final primera, D. Final segunda, D. Final tercera)
+- **Modifica**: [**RD1364_2010 Regulacion del Concurso de Traslados Docente**](./RD1364_2010_regula_concurso_traslados_ambito_estatal_entre.md) (D. Final primera, D. Final segunda, D. Final tercera)
+- **Modifica**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md) (D. Final primera, D. Final segunda, D. Final tercera)
+- **Modifica**: [**BOE-A-2007-5478**](./RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md) (D. Final primera, D. Final segunda, D. Final tercera)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 149, D. Adicional quinta)
+- **Modifica**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 149, D. Adicional quinta)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 149, D. Adicional quinta)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 149, D. Adicional quinta)
+- **Modifica**: `norm-es-c-1978` (Art. 149, D. Adicional quinta)
+- **Modifica**: `norm-es-lo-3-2020` (Art. 149, D. Adicional quinta)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Art. 1)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Art. 1)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Art. 1)*
+- **Modifica**: `norm-es-lo-3-2020` desde *(Art. 1)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Art. 3)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Art. 3)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Art. 3)*
+- **Modifica**: `norm-es-lo-3-2020` desde *(Art. 3)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 4) desde *(Art. 8)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 4) desde *(Art. 8)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 4) desde *(Art. 8)*
+- **Modifica**: `norm-es-lo-3-2020` (Art. 4) desde *(Art. 8)*
+- **Modifica**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](../02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md) (D. Final primera) desde *(D. Final primera. Modificación del Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria.)*
+- **Modifica**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](../02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md) desde *(D. Final primera. Modificación del Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Art. 4)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Art. 4)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Art. 4)*
+- **Modifica**: `norm-es-lo-3-2020` desde *(Art. 4)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Final segunda) desde *(D. Final segunda. Modificación del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de 23 de febrero.)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Final segunda) desde *(D. Final segunda. Modificación del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de 23 de febrero.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Final segunda) desde *(D. Final segunda. Modificación del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de 23 de febrero.)*
+- **Modifica**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md) (D. Final segunda) desde *(D. Final segunda. Modificación del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de 23 de febrero.)*
+- **Modifica**: [**BOE-A-2007-5478**](./RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md) (D. Final segunda) desde *(D. Final segunda. Modificación del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de 23 de febrero.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(D. Final segunda. Modificación del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de 23 de febrero.)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(D. Final segunda. Modificación del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de 23 de febrero.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(D. Final segunda. Modificación del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de 23 de febrero.)*
+- **Modifica**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md) desde *(D. Final segunda. Modificación del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de 23 de febrero.)*
+- **Modifica**: [**BOE-A-2007-5478**](./RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md) desde *(D. Final segunda. Modificación del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de 23 de febrero.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional única) desde *(D. Adicional única. Titulaciones declaradas equivalentes a efectos de docencia para el ingreso en determinados cuerpos.)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional única) desde *(D. Adicional única. Titulaciones declaradas equivalentes a efectos de docencia para el ingreso en determinados cuerpos.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional única) desde *(D. Adicional única. Titulaciones declaradas equivalentes a efectos de docencia para el ingreso en determinados cuerpos.)*
+- **Modifica**: `norm-es-lo-3-2020` (D. Adicional única) desde *(D. Adicional única. Titulaciones declaradas equivalentes a efectos de docencia para el ingreso en determinados cuerpos.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Final tercera) desde *(D. Final tercera. Modificación del Real Decreto 1364/2010, de 29 de octubre, por el que se regula el concurso de traslados de ámbito estatal entre personal funcionario de los cuerpos docentes contemplados en la Ley Orgánica 2/2006, de 3 de mayo, de Educación y otros procedimientos de provisión de plazas a cubrir por los mismos.)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Final tercera) desde *(D. Final tercera. Modificación del Real Decreto 1364/2010, de 29 de octubre, por el que se regula el concurso de traslados de ámbito estatal entre personal funcionario de los cuerpos docentes contemplados en la Ley Orgánica 2/2006, de 3 de mayo, de Educación y otros procedimientos de provisión de plazas a cubrir por los mismos.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Final tercera) desde *(D. Final tercera. Modificación del Real Decreto 1364/2010, de 29 de octubre, por el que se regula el concurso de traslados de ámbito estatal entre personal funcionario de los cuerpos docentes contemplados en la Ley Orgánica 2/2006, de 3 de mayo, de Educación y otros procedimientos de provisión de plazas a cubrir por los mismos.)*
+- **Modifica**: [**RD1364_2010 Regulacion del Concurso de Traslados Docente**](./RD1364_2010_regula_concurso_traslados_ambito_estatal_entre.md) (D. Final tercera) desde *(D. Final tercera. Modificación del Real Decreto 1364/2010, de 29 de octubre, por el que se regula el concurso de traslados de ámbito estatal entre personal funcionario de los cuerpos docentes contemplados en la Ley Orgánica 2/2006, de 3 de mayo, de Educación y otros procedimientos de provisión de plazas a cubrir por los mismos.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 16) desde *(D. Final tercera. Modificación del Real Decreto 1364/2010, de 29 de octubre, por el que se regula el concurso de traslados de ámbito estatal entre personal funcionario de los cuerpos docentes contemplados en la Ley Orgánica 2/2006, de 3 de mayo, de Educación y otros procedimientos de provisión de plazas a cubrir por los mismos.)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 16) desde *(D. Final tercera. Modificación del Real Decreto 1364/2010, de 29 de octubre, por el que se regula el concurso de traslados de ámbito estatal entre personal funcionario de los cuerpos docentes contemplados en la Ley Orgánica 2/2006, de 3 de mayo, de Educación y otros procedimientos de provisión de plazas a cubrir por los mismos.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 16) desde *(D. Final tercera. Modificación del Real Decreto 1364/2010, de 29 de octubre, por el que se regula el concurso de traslados de ámbito estatal entre personal funcionario de los cuerpos docentes contemplados en la Ley Orgánica 2/2006, de 3 de mayo, de Educación y otros procedimientos de provisión de plazas a cubrir por los mismos.)*
+- **Modifica**: [**RD1364_2010 Regulacion del Concurso de Traslados Docente**](./RD1364_2010_regula_concurso_traslados_ambito_estatal_entre.md) (Art. 16) desde *(D. Final tercera. Modificación del Real Decreto 1364/2010, de 29 de octubre, por el que se regula el concurso de traslados de ámbito estatal entre personal funcionario de los cuerpos docentes contemplados en la Ley Orgánica 2/2006, de 3 de mayo, de Educación y otros procedimientos de provisión de plazas a cubrir por los mismos.)*
+- **Fundamentado en**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 129)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 14) desde *(Art. 5)*
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 28) desde *(Art. 5)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(D. Final cuarta. Título competencial.)*
+- **Fundamentado en**: [**BOE-A-2007-5478**](./RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
+- **Fundamentado en**: [**RD1364_2010 Regulacion del Concurso de Traslados Docente**](./RD1364_2010_regula_concurso_traslados_ambito_estatal_entre.md)
+- **Fundamentado en**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](../02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md)
+- **Fundamentado en**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamento de**: [**BOE-A-2023-9553**](./RD286_2023_regula_asignacion_materias_educacion_secundaria_obligatoria.md)
+- **Fundamento de**: [**BOE-A-2024-10683**](../03_ordenacion_curricular_y_ensenanzas/RD498_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**BOE-A-2024-10684**](../03_ordenacion_curricular_y_ensenanzas/RD499_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**BOE-A-2024-10685**](../03_ordenacion_curricular_y_ensenanzas/RD500_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (Art. 24)
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 85, D. Adicional quinta)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional sexta)
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional sexta)
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional sexta)
+- **Cita a**: `norm-es-lo-3-2020` (D. Adicional sexta)
+- **Cita a**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Cita a**: `norm-es-rdleg-5-2015`
+- **Cita a**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md) (Art. 4, Art. 8, Art. 87, Art. 89) desde *(Art. 12)*
+- **Cita a**: `norm-es-rdleg-5-2015` (Art. 4, Art. 8, Art. 87, Art. 89) desde *(Art. 12)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 100) desde *(D. Final segunda. Modificación del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de 23 de febrero.)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 100) desde *(D. Final segunda. Modificación del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de 23 de febrero.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 100) desde *(D. Final segunda. Modificación del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de 23 de febrero.)*

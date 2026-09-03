@@ -22,9 +22,73 @@ tags:
 - formacion-profesional
 - profesorado
 relaciones:
+  desarrolla:
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-lo-2-2006
+    titulo_destino: Título V
+    articulos_destino:
+    - Art. 23
+    - Art. 27
+  - norma_id: norm-es-2021-20113
+    titulo_destino: Título V
+    articulos_destino:
+    - Art. 23
+    - Art. 27
+  - norma_id: norm-es-2010-12201
+    titulo_destino: Título V
+    articulos_destino:
+    - Art. 23
+    - Art. 27
+  - norma_id: norm-es-c-1978
+    titulo_destino: Título V
+    articulos_destino:
+    - Art. 23
+    - Art. 27
+  - norma_id: norm-can-l-6-2014
+    articulos_destino:
+    - Art. 3
+    - Art. 14
+  - norma_id: norm-can-lo-1-2018
+    articulos_destino:
+    - Art. 3
+    - Art. 14
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_destino:
+    - Art. 3
+    - Art. 14
+  - norma_id: norm-can-res-134
+    articulos_destino:
+    - Art. 3
+    - Art. 14
+  - norma_id: norm-es-lo-3-2022
+    articulos_destino:
+    - Art. 3
+    - Art. 14
+  - norma_id: norm-es-2005-21534
+    articulos_destino:
+    - Art. 3
+    - Art. 14
+  - norma_id: norm-es-rd-659-2023
+    articulos_destino:
+    - Art. 3
+    - Art. 14
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_origen:
+    - Art. 203
+  - norma_id: norm-es-2005-21534
+    articulos_origen:
+    - Art. 203
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - Art. 203
   fundamentado_en:
-  - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-l-14-1990
+    articulos_origen:
+    - Art. 203
+    articulos_destino:
+    - Art. 29
+    - Art. 20
+  - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-can-lo-1-2018
   - norma_id: norm-can-res-134
@@ -36,12 +100,30 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-3-2022
   - norma_id: norm-es-rd-659-2023
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
+  cita:
+  - norma_id: norm-can-d-84-2024
+    articulos_origen:
+    - Art. 203
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 203
+  - norma_id: norm-es-2005-21534
+    articulos_origen:
+    - Art. 203
+    articulos_destino:
+    - Art. 10
+  concordancia:
+  - norma_id: norm-es-l-39-2015
+    articulos_origen:
+    - Art. 203
+    articulos_destino:
+    - Art. 121
+    - Art. 122
+    - Art. 30
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-l-14-1990
   - norma_id: norm-can-lo-1-2018
@@ -56,6 +138,7 @@ relaciones:
   - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-158-2923.pdf
 ---
+
 # Resolución de 29 de julio de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial por la que se dictan instrucciones y se establece el calendario para la renovación parcial o la nueva constitución de los Consejos Sociales en los centros integrados de formación profesional, de la Comunidad Autónoma de Canarias, a celebrar en el curso escolar 2025/2026 (BOC núm. 158, de 11 de agosto).
 
 ## Preámbulo
@@ -376,3 +459,41 @@ Hasta el 12 de diciembre
 - [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
 - [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-c-1978`
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título V, Art. 23, Art. 27)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título V, Art. 23, Art. 27)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título V, Art. 23, Art. 27)
+- **Desarrolla**: `norm-es-c-1978` (Título V, Art. 23, Art. 27)
+- **Desarrolla**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md) (Art. 3, Art. 14)
+- **Desarrolla**: [**LO1_2018 Estatuto de Autonomia de Canarias**](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md) (Art. 3, Art. 14)
+- **Desarrolla**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Art. 3, Art. 14)
+- **Desarrolla**: [**Resolucion BOC 134**](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md) (Art. 3, Art. 14)
+- **Desarrolla**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 3, Art. 14)
+- **Desarrolla**: [**BOE-A-2005-21534**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md) (Art. 3, Art. 14)
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 3, Art. 14)
+- **Desarrolla**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) desde *(Art. 203)*
+- **Desarrolla**: [**BOE-A-2005-21534**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md) desde *(Art. 203)*
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) desde *(Art. 203)*
+- **Fundamentado en**: [**L14_1990 Regimen Juridico Administraciones Canarias**](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md) (Art. 29, Art. 20) desde *(Art. 203)*
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO1_2018 Estatuto de Autonomia de Canarias**](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md)
+- **Fundamentado en**: [**Resolucion BOC 134**](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md)
+- **Fundamentado en**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
+- **Fundamentado en**: [**BOE-A-2005-21534**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
+- **Fundamentado en**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **En concordancia con**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 121, Art. 122, Art. 30) desde *(Art. 203)*
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) desde *(Art. 203)*
+- **Cita a**: `norm-es-c-1978` desde *(Art. 203)*
+- **Cita a**: [**BOE-A-2005-21534**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md) (Art. 10) desde *(Art. 203)*

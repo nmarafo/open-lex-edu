@@ -23,21 +23,186 @@ tags:
 - oposiciones
 - procedimiento-administrativo
 relaciones:
-  fundamentado_en:
-  - norma_id: norm-es-1999-23750
+  desarrolla:
   - norma_id: norm-es-2007-19814
+  - norma_id: norm-es-2007-19814
+    capitulo_destino: Capítulo III
+  - norma_id: norm-es-2007-19814
+    articulos_destino:
+    - Art. 8
+    - Art. 10
+  - norma_id: norm-es-2007-19814
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-2007-19814
+    capitulo_origen: Capítulo III. Modalidades de reutilización de los documentos
+      reutilizables.
+    articulos_origen:
+    - D. Final cuarta. Entrada en vigor.
+    articulos_destino:
+    - Art. 1
+  cita:
+  - norma_id: norm-es-2007-19814
+  - norma_id: norm-es-2007-19814
+    articulos_destino:
+    - Art. 4
+  - norma_id: norm-es-2007-19814
+    articulos_destino:
+    - Art. 8
   - norma_id: norm-es-2007-6115
+    articulos_destino:
+    - Art. 14
+  - norma_id: norm-es-2007-19814
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 1
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-2007-19814
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 1
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2007-19814
+    capitulo_origen: Capítulo II. Régimen jurídico y organizativo de la reutilización
+      de la información en el sector público estatal.
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 10
+    - Art. 4
+  - norma_id: norm-es-2007-19814
+    capitulo_origen: Capítulo II. Régimen jurídico y organizativo de la reutilización
+      de la información en el sector público estatal.
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 7
+  - norma_id: norm-es-2007-19814
+    capitulo_origen: Capítulo III. Modalidades de reutilización de los documentos
+      reutilizables.
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 4
+    - Art. 7
+    - Art. 1
+  - norma_id: norm-es-2007-19814
+    capitulo_origen: Capítulo III. Modalidades de reutilización de los documentos
+      reutilizables.
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 4
+    - Art. 9
+  - norma_id: norm-es-2007-19814
+    capitulo_origen: Capítulo III. Modalidades de reutilización de los documentos
+      reutilizables.
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 4
+    - Art. 1
+  - norma_id: norm-es-2007-19814
+    capitulo_origen: Capítulo III. Modalidades de reutilización de los documentos
+      reutilizables.
+    articulos_origen:
+    - Art. 8
+    capitulo_destino: Capítulo IV
+    articulos_destino:
+    - Art. 4
+    - Art. 10
+  - norma_id: norm-es-2007-19814
+    capitulo_origen: Capítulo III. Modalidades de reutilización de los documentos
+      reutilizables.
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 4
+    - Art. 6
+    - Art. 11
+  - norma_id: norm-es-2007-19814
+    capitulo_origen: Capítulo III. Modalidades de reutilización de los documentos
+      reutilizables.
+    articulos_origen:
+    - D. Final cuarta. Entrada en vigor.
+    articulos_destino:
+    - Art. 3
+  modifica:
+  - norma_id: norm-es-2007-19814
+  fundamentado_en:
+  - norma_id: norm-es-2007-19814
+    articulos_destino:
+    - Art. 3
+    - Art. 9
+  - norma_id: norm-es-2007-19814
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2007-19814
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-es-2007-19814
+    capitulo_origen: Capítulo II. Régimen jurídico y organizativo de la reutilización
+      de la información en el sector público estatal.
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 1
+    - Art. 37
+    - Art. 3
+  - norma_id: norm-es-2007-19814
+    capitulo_origen: Capítulo II. Régimen jurídico y organizativo de la reutilización
+      de la información en el sector público estatal.
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 11
+    - Art. 1
+  - norma_id: norm-es-2007-19814
+    capitulo_origen: Capítulo III. Modalidades de reutilización de los documentos
+      reutilizables.
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 3
+    - Art. 1
+  - norma_id: norm-es-1999-23750
+    capitulo_origen: Capítulo III. Modalidades de reutilización de los documentos
+      reutilizables.
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 3
+    - Art. 5
   - norma_id: norm-es-2008-979
+    capitulo_origen: Capítulo III. Modalidades de reutilización de los documentos
+      reutilizables.
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 3
+    - Art. 5
+  - norma_id: norm-es-2007-19814
+    capitulo_origen: Capítulo III. Modalidades de reutilización de los documentos
+      reutilizables.
+    articulos_origen:
+    - D. Final cuarta. Entrada en vigor.
+    articulos_destino:
+    - Art. 11
+  - norma_id: norm-es-2007-6115
   - norma_id: norm-es-l-39-2015
   fundamentos_derecho:
   - norma_id: norm-es-l-39-2015
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-2007-19814
   - norma_id: norm-es-1999-23750
   - norma_id: norm-es-2008-979
   - norma_id: norm-es-2007-6115
 ---
+
 # Real Decreto 1495/2011, de 24 de octubre, por el que se desarrolla la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público, para el ámbito del sector público estatal.
 
 ## Preámbulo
@@ -343,3 +508,40 @@ o bien el comando
 - [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
 - [**BOE-A-2008-979**](../02_gestion_y_administracion_centros/LO1720_2007_aprueba_reglamento_desarrollo_ley_organica_proteccion.md)
 - [**BOE-A-2007-6115**](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md)
+- **Desarrolla**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md) (Capítulo III)
+- **Desarrolla**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md) (Art. 8, Art. 10)
+- **Desarrolla**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md) desde *(Capítulo I, Art. 1)*
+- **Desarrolla**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md) (Art. 1) desde *(Capítulo III. Modalidades de reutilización de los documentos reutilizables., D. Final cuarta. Entrada en vigor.)*
+- **Modifica**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md)
+- **Fundamentado en**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md) (Art. 3, Art. 9)
+- **Fundamentado en**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md) (Art. 3)
+- **Fundamentado en**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md) (D. Final segunda)
+- **Fundamentado en**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md) (Art. 1, Art. 37, Art. 3) desde *(Capítulo II. Régimen jurídico y organizativo de la reutilización de la información en el sector público estatal., Art. 2)*
+- **Fundamentado en**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md) (Art. 11, Art. 1) desde *(Capítulo II. Régimen jurídico y organizativo de la reutilización de la información en el sector público estatal., Art. 2)*
+- **Fundamentado en**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md) (Art. 3, Art. 1) desde *(Capítulo III. Modalidades de reutilización de los documentos reutilizables., Art. 10)*
+- **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) (Art. 3, Art. 5) desde *(Capítulo III. Modalidades de reutilización de los documentos reutilizables., Art. 10)*
+- **Fundamentado en**: [**BOE-A-2008-979**](../02_gestion_y_administracion_centros/LO1720_2007_aprueba_reglamento_desarrollo_ley_organica_proteccion.md) (Art. 3, Art. 5) desde *(Capítulo III. Modalidades de reutilización de los documentos reutilizables., Art. 10)*
+- **Fundamentado en**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md) (Art. 11) desde *(Capítulo III. Modalidades de reutilización de los documentos reutilizables., D. Final cuarta. Entrada en vigor.)*
+- **Fundamentado en**: [**BOE-A-2007-6115**](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](./L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md)
+- **Cita a**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md) (Art. 4)
+- **Cita a**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md) (Art. 8)
+- **Cita a**: [**BOE-A-2007-6115**](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md) (Art. 14)
+- **Cita a**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md) (Art. 2) desde *(Capítulo I, Art. 1)*
+- **Cita a**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md) (Art. 3) desde *(Capítulo I, Art. 1)*
+- **Cita a**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md) (Art. 10, Art. 4) desde *(Capítulo II. Régimen jurídico y organizativo de la reutilización de la información en el sector público estatal., Art. 2)*
+- **Cita a**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md) (Art. 7) desde *(Capítulo II. Régimen jurídico y organizativo de la reutilización de la información en el sector público estatal., Art. 4)*
+- **Cita a**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md) (Art. 4, Art. 7, Art. 1) desde *(Capítulo III. Modalidades de reutilización de los documentos reutilizables., Art. 8)*
+- **Cita a**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md) (Art. 4, Art. 9) desde *(Capítulo III. Modalidades de reutilización de los documentos reutilizables., Art. 8)*
+- **Cita a**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md) (Art. 4, Art. 1) desde *(Capítulo III. Modalidades de reutilización de los documentos reutilizables., Art. 8)*
+- **Cita a**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md) (Capítulo IV, Art. 4, Art. 10) desde *(Capítulo III. Modalidades de reutilización de los documentos reutilizables., Art. 8)*
+- **Cita a**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md) (Art. 4, Art. 6, Art. 11) desde *(Capítulo III. Modalidades de reutilización de los documentos reutilizables., Art. 10)*
+- **Cita a**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md) (Art. 3) desde *(Capítulo III. Modalidades de reutilización de los documentos reutilizables., D. Final cuarta. Entrada en vigor.)*

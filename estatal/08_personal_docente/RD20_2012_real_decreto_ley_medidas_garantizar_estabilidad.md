@@ -22,26 +22,245 @@ tags:
 - prevencion-riesgos-laborales
 - salud-laboral-y-vigilancia
 relaciones:
-  fundamentado_en:
-  - norma_id: norm-es-1985-7820
+  cita:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 86
   - norma_id: norm-es-2012-8745
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 1
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-2012-8745
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 22
+  - norma_id: norm-es-2012-8745
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 2
+    - Art. 26
+    - Art. 28
+    - Art. 29
+    - Art. 30
+    - Art. 31
+  - norma_id: norm-es-2012-8745
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 27
+    - Art. 2
+  - norma_id: norm-es-2012-8745
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 31
+    - Art. 2
+  - norma_id: norm-es-2012-8745
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 24
+  - norma_id: norm-es-2012-8745
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 120
+    - Art. 6
+    - Art. 31
+  - norma_id: norm-es-2012-8745
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 16
+    articulos_destino:
+    - Art. 22
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    articulos_origen:
+    - Art. 13 bis
+    titulo_destino: Título XI
+  - norma_id: norm-es-l-53-1984
+    titulo_origen: Título VII
+    articulos_origen:
+    - D. Adicional quinta. Posibilidad de que los funcionarios de la Administración
+      General del Estado pertenecientes a los Subgrupos A1 y A2 soliciten la reducción,
+      a petición propia, del complemento específico.
+    articulos_destino:
+    - Art. 16
+  - norma_id: norm-es-1985-7820
+    titulo_origen: Título VII
+    articulos_origen:
+    - D. Adicional quinta. Posibilidad de que los funcionarios de la Administración
+      General del Estado pertenecientes a los Subgrupos A1 y A2 soliciten la reducción,
+      a petición propia, del complemento específico.
+    articulos_destino:
+    - Art. 16
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VII
+    articulos_origen:
+    - D. Adicional novena. Constitución del Consejo Territorial de Servicios Sociales
+      y del Sistema para la Autonomía y Atención a la Dependencia.
+    disposiciones_destino:
+    - D. Adicional novena
+  - norma_id: norm-es-2012-8745
+    titulo_origen: Título VII
+    articulos_origen:
+    - D. Adicional decimoquinta. Suplementos territoriales de aplicación a peajes
+      de acceso y tarifa de último recurso.
+    articulos_destino:
+    - Art. 93
+    - Art. 94
+    - Art. 95
+    - Art. 101
+    - Art. 102
+    - Art. 103
+    disposiciones_destino:
+    - D. Adicional decimosexta
+    - D. Adicional sexta
+  - norma_id: norm-es-lo-1-2004
+    titulo_origen: Título VII
+    articulos_origen:
+    - D. Transitoria sexta. Supresión del derecho a la aplicación de bonificaciones.
+    articulos_destino:
+    - Art. 21
+  - norma_id: norm-es-2012-8745
+    titulo_origen: Título VII
+    articulos_origen:
+    - 'D. Final décima. Modificación de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md),
+      de 29 de junio, de Presupuestos Generales del Estado para el año 2012. Uno.
+      Se modifica el apartado seis del artículo 17 de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md),
+      de 29 de junio, de Presupuestos Generales del Estado para el año 2012, que queda
+      redactado en los siguientes términos:'
+  fundamentado_en:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-2012-8745
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 31
+    - Art. 2
+  - norma_id: norm-es-2012-8745
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 24
+    - Art. 2
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VII
+    articulos_origen:
+    - D. Adicional tercera. Obligaciones de remisión de información en materia de
+      personal.
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Adicional tiene
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VII
+    articulos_origen:
+    - D. Final cuarta. Títulos competenciales.
+    titulo_destino: Título I
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VII
+    articulos_origen:
+    - D. Final cuarta. Títulos competenciales.
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VII
+    articulos_origen:
+    - D. Final cuarta. Títulos competenciales.
+    articulos_destino:
+    - Art. 33
+    - Art. 34
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VII
+    articulos_origen:
+    - D. Final cuarta. Títulos competenciales.
+    articulos_destino:
+    - Art. 35
+    - Art. 36
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VII
+    articulos_origen:
+    - D. Final cuarta. Títulos competenciales.
+    titulo_destino: Título VII
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-1985-7820
   - norma_id: norm-es-l-53-1984
   - norma_id: norm-es-lo-1-2004
   - norma_id: norm-es-rdl-5-2015
+  modifica:
+  - norma_id: norm-es-2012-8745
+    titulo_origen: Título VII
+    articulos_origen:
+    - 'D. Final novena. Modificación de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md),
+      de 29 de abril, de Presupuestos Generales del Estado para 2012. Se da nueva
+      redacción al artículo 18 de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md),
+      de 29 de abril, de Presupuestos Generales del Estado para 2012 que queda redactado
+      en los siguientes términos:'
+    articulos_destino:
+    - Art. 18
+    disposiciones_destino:
+    - D. Final novena
+  - norma_id: norm-es-2012-8745
+    titulo_origen: Título VII
+    articulos_origen:
+    - 'D. Final décima. Modificación de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md),
+      de 29 de junio, de Presupuestos Generales del Estado para el año 2012. Uno.
+      Se modifica el apartado seis del artículo 17 de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md),
+      de 29 de junio, de Presupuestos Generales del Estado para el año 2012, que queda
+      redactado en los siguientes términos:'
+    articulos_destino:
+    - Art. 17
+  - norma_id: norm-es-2012-8745
+    titulo_origen: Título VII
+    articulos_origen:
+    - D. Final undécima. Modificación de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md),
+      de 29 de junio, de Presupuestos Generales del Estado para el año 2012
+  - norma_id: norm-es-2012-8745
+    titulo_origen: Título VII
+    articulos_origen:
+    - D. Final undécima. Modificación de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md),
+      de 29 de junio, de Presupuestos Generales del Estado para el año 2012
+    articulos_destino:
+    - Art. 17
   fundamento_de:
   - norma_id: norm-es-rdl-2-2015
   - norma_id: norm-es-rdl-5-2015
-  - norma_id: norm-can-l-4-2023
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-rdl-5-2015
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-l-53-1984
   - norma_id: norm-es-lo-1-2004
   - norma_id: norm-es-1985-7820
   - norma_id: norm-es-2012-8745
 ---
+
 # Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad.
 
 ## Preámbulo
@@ -3762,3 +3981,45 @@ Las Palmas GC
 - [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
 - [**BOE-A-1985-7820**](./RD598_1985_incompatibilidades_personal_servicio_administracion_estado_seguridad.md)
 - [**BOE-A-2012-8745**](./L2_2012_presupuestos_generales_estado_ano.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**BOE-A-2012-8745**](./L2_2012_presupuestos_generales_estado_ano.md) (Art. 18, D. Final novena) desde *(Título VII, D. Final novena. Modificación de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de abril, de Presupuestos Generales del Estado para 2012. Se da nueva redacción al artículo 18 de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de abril, de Presupuestos Generales del Estado para 2012 que queda redactado en los siguientes términos:)*
+- **Modifica**: [**BOE-A-2012-8745**](./L2_2012_presupuestos_generales_estado_ano.md) (Art. 17) desde *(Título VII, D. Final décima. Modificación de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012. Uno. Se modifica el apartado seis del artículo 17 de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012, que queda redactado en los siguientes términos:)*
+- **Modifica**: [**BOE-A-2012-8745**](./L2_2012_presupuestos_generales_estado_ano.md) desde *(Título VII, D. Final undécima. Modificación de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012)*
+- **Modifica**: [**BOE-A-2012-8745**](./L2_2012_presupuestos_generales_estado_ano.md) (Art. 17) desde *(Título VII, D. Final undécima. Modificación de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Título I, Art. 2)*
+- **Fundamentado en**: [**BOE-A-2012-8745**](./L2_2012_presupuestos_generales_estado_ano.md) (Art. 31, Art. 2) desde *(Título I, Art. 3)*
+- **Fundamentado en**: [**BOE-A-2012-8745**](./L2_2012_presupuestos_generales_estado_ano.md) (Art. 24, Art. 2) desde *(Título I, Art. 4)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, D. Adicional tiene) desde *(Título VII, D. Adicional tercera. Obligaciones de remisión de información en materia de personal.)*
+- **Fundamentado en**: `norm-es-c-1978` (Título I, Art. 149) desde *(Título VII, D. Final cuarta. Títulos competenciales.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Título VII, D. Final cuarta. Títulos competenciales.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 33, Art. 34, Art. 149) desde *(Título VII, D. Final cuarta. Títulos competenciales.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 35, Art. 36, Art. 149) desde *(Título VII, D. Final cuarta. Títulos competenciales.)*
+- **Fundamentado en**: `norm-es-c-1978` (Título VII, Art. 149) desde *(Título VII, D. Final cuarta. Títulos competenciales.)*
+- **Fundamentado en**: [**BOE-A-1985-7820**](./RD598_1985_incompatibilidades_personal_servicio_administracion_estado_seguridad.md)
+- **Fundamentado en**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md)
+- **Fundamentado en**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamento de**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
+- **Fundamento de**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Cita a**: `norm-es-c-1978` (Art. 86)
+- **Cita a**: [**BOE-A-2012-8745**](./L2_2012_presupuestos_generales_estado_ano.md) (D. Adicional primera)
+- **Cita a**: `norm-es-c-1978` (Art. 149) desde *(Título I, Art. 1)*
+- **Cita a**: [**BOE-A-2012-8745**](./L2_2012_presupuestos_generales_estado_ano.md) (Art. 22) desde *(Título I, Art. 2)*
+- **Cita a**: [**BOE-A-2012-8745**](./L2_2012_presupuestos_generales_estado_ano.md) (Art. 2, Art. 26, Art. 28, Art. 29, Art. 30, Art. 31) desde *(Título I, Art. 3)*
+- **Cita a**: [**BOE-A-2012-8745**](./L2_2012_presupuestos_generales_estado_ano.md) (Art. 27, Art. 2) desde *(Título I, Art. 3)*
+- **Cita a**: [**BOE-A-2012-8745**](./L2_2012_presupuestos_generales_estado_ano.md) (Art. 31, Art. 2) desde *(Título I, Art. 3)*
+- **Cita a**: [**BOE-A-2012-8745**](./L2_2012_presupuestos_generales_estado_ano.md) (Art. 24) desde *(Título I, Art. 4)*
+- **Cita a**: [**BOE-A-2012-8745**](./L2_2012_presupuestos_generales_estado_ano.md) (Art. 120, Art. 6, Art. 31) desde *(Título I, Art. 5)*
+- **Cita a**: [**BOE-A-2012-8745**](./L2_2012_presupuestos_generales_estado_ano.md) (Art. 22) desde *(Título I, Art. 16)*
+- **Cita a**: `norm-es-c-1978` (Título XI) desde *(Título V, Art. 13 bis)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (Art. 16) desde *(Título VII, D. Adicional quinta. Posibilidad de que los funcionarios de la Administración General del Estado pertenecientes a los Subgrupos A1 y A2 soliciten la reducción, a petición propia, del complemento específico.)*
+- **Cita a**: [**BOE-A-1985-7820**](./RD598_1985_incompatibilidades_personal_servicio_administracion_estado_seguridad.md) (Art. 16) desde *(Título VII, D. Adicional quinta. Posibilidad de que los funcionarios de la Administración General del Estado pertenecientes a los Subgrupos A1 y A2 soliciten la reducción, a petición propia, del complemento específico.)*
+- **Cita a**: `norm-es-c-1978` (D. Adicional novena) desde *(Título VII, D. Adicional novena. Constitución del Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia.)*
+- **Cita a**: [**BOE-A-2012-8745**](./L2_2012_presupuestos_generales_estado_ano.md) (Art. 93, Art. 94, Art. 95, Art. 101, Art. 102, Art. 103, D. Adicional decimosexta, D. Adicional sexta) desde *(Título VII, D. Adicional decimoquinta. Suplementos territoriales de aplicación a peajes de acceso y tarifa de último recurso.)*
+- **Cita a**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) (Art. 21) desde *(Título VII, D. Transitoria sexta. Supresión del derecho a la aplicación de bonificaciones.)*
+- **Cita a**: [**BOE-A-2012-8745**](./L2_2012_presupuestos_generales_estado_ano.md) desde *(Título VII, D. Final décima. Modificación de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012. Uno. Se modifica el apartado seis del artículo 17 de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012, que queda redactado en los siguientes términos:)*

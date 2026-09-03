@@ -25,6 +25,16 @@ tags:
 - oposiciones
 - personal-no-docente
 relaciones:
+  modifica:
+  - norma_id: norm-can-l-6-2014
+    articulos_destino:
+    - Art. 3
+  cita:
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 121
+    - Art. 122
   fundamentado_en:
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-l-6-2014
@@ -39,12 +49,13 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-can-res-boc-2022-158-132
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-094-1775.pdf
 ---
+
 # Resolución de 29 de abril de 2025, de la Viceconsejería de Educación, por la que se adoptan las medidas necesarias para la aplicación del Acuerdo de 8 de abril de 2025, que modifica el Acuerdo de mejora del Sistema Público Educativo de Canarias, de 18 de julio de 2022, entre Administración y Sindicatos (BOC nº 94, de 13 de mayo).
 
 ## Preámbulo
@@ -128,3 +139,21 @@ Quinto.- Ordenar la publicación de la presente Resolución en el Boletín Ofici
 - [**D84_2024 Reglamento Organico de la Consejeria de Educacion**](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md)
 - [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**Resolucion BOC 132**](./R27_7_2022_aprueban_nuevos_criterios_dotacion_profesorado_conformidad.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Desarrolla**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md) (Art. 3)
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**Resolucion BOC 132**](./R27_7_2022_aprueban_nuevos_criterios_dotacion_profesorado_conformidad.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 121, Art. 122)

@@ -31,6 +31,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Decreto 206/2006, de 28 de noviembre, por el que se establece la ordenación del Bachillerato en Andalucía.
 
 ## Preámbulo
@@ -76,8 +77,6 @@ Empleo público
 Boletín 239
 
 ##
-
-Histórico del BOJA Boletín número 239 de 13/12/2006
 
 ## 1. Disposiciones generales
 
@@ -146,9 +145,7 @@ El CEMCI podrá disponer de los sistemas de control que estime oportunos para co
 
 Sevilla, 29 de noviembre de 2006.- El Director, Joaquín Castillo Sempere.
 
-## Anexo I
-
-"VI CURSO DE ESPECIALIZACION EN GESTION PUBLICA LOCAL"
+## Anexo I. "VI CURSO DE ESPECIALIZACION EN GESTION PUBLICA LOCAL"
 
 I. Contenido:
 
@@ -224,3 +221,13 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

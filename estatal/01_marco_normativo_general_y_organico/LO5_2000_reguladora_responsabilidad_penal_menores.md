@@ -25,8 +25,82 @@ tags:
 - proteccion-menores
 - responsabilidad-penal
 relaciones:
+  cita:
+  - norma_id: norm-es-1995-25444
+    articulos_destino:
+    - Art. 19
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo II. De las medidas cautelares.
+    articulos_origen:
+    - Art. 29
+    articulos_destino:
+    - Art. 5
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título VII
+    capitulo_origen: Capítulo II. Reglas para la ejecución de las medidas.
+    articulos_origen:
+    - Art. 48
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VII
+    capitulo_origen: Capítulo III. Reglas especiales para la ejecución de las medidas
+      privativas de libertad.
+    articulos_origen:
+    - Art. 60
+    titulo_destino: Título IX
+  concordancia:
+  - norma_id: norm-es-1995-25444
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 25
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Adicional tercera. Registro de sentencias firmes dictadas en aplicación de
+      lo dispuesto en la presente Ley.
+    articulos_destino:
+    - Art. 6
+    - Art. 30
+    - Art. 47
+  modifica:
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-lo-1-1996
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-lo-1-1996
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 3
+  - norma_id: norm-es-lo-1-1996
+    titulo_origen: Título VII
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 45
+  - norma_id: norm-es-1995-25444
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final quinta. Cláusula derogatoria.
+    articulos_destino:
+    - Art. 8
+    - Art. 20
+    - Art. 22
+  - norma_id: norm-es-lo-8-2021
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final séptima. Entrada en vigor y desarrollo reglamentario.
   fundamentado_en:
   - norma_id: norm-es-1995-25444
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 69
+    - Art. 27
   - norma_id: norm-es-1999-23750
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-l-39-2015
@@ -35,17 +109,15 @@ relaciones:
   - norma_id: norm-es-2004-15601
   - norma_id: norm-es-lo-10-2022
   - norma_id: norm-es-lo-8-2021
-  - norma_id: norm-can-res-juriscan-71394-16
-  - norma_id: norm-can-d-114-2011
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-1995-25444
   - norma_id: norm-es-lo-1-1996
   - norma_id: norm-es-1999-23750
 ---
+
 # Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
 ## Preámbulo
@@ -1010,3 +1082,31 @@ JOSÉ MARÍA AZNAR LÓPEZ
 - [**BOE-A-1995-25444**](./LO10_1995_codigo_penal.md)
 - [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
 - [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: `norm-es-c-1978`
+- **Modifica**: [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md) desde *(Título Preliminar, Art. 1)*
+- **Modifica**: `norm-es-c-1978` desde *(Título Preliminar, Art. 1)*
+- **Modifica**: [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md) desde *(Título I, Art. 3)*
+- **Modifica**: [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md) desde *(Título VII, Capítulo I, Art. 45)*
+- **Modifica**: [**BOE-A-1995-25444**](./LO10_1995_codigo_penal.md) (Art. 8, Art. 20, Art. 22) desde *(Título VIII, D. Final quinta. Cláusula derogatoria.)*
+- **Modifica**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md) desde *(Título VIII, D. Final séptima. Entrada en vigor y desarrollo reglamentario.)*
+- **Fundamentado en**: [**BOE-A-1995-25444**](./LO10_1995_codigo_penal.md) (Art. 69, Art. 27) desde *(Título I, Art. 4)*
+- **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](./L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- **Fundamento de**: [**BOE-A-2004-15601**](./LO1774_2004_aprueba_reglamento_ley_organica_reguladora_responsabilidad.md)
+- **Fundamento de**: [**LO10_2022 Garantia Integral de la Libertad Sexual**](../07_convivencia_bienestar_y_protocolos/LO10_2022_garantia_integral_libertad_sexual.md)
+- **Fundamento de**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **En concordancia con**: [**BOE-A-1995-25444**](./LO10_1995_codigo_penal.md)
+- **En concordancia con**: `norm-es-c-1978` (Art. 25)
+- **En concordancia con**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) (Art. 6, Art. 30, Art. 47) desde *(Título VIII, D. Adicional tercera. Registro de sentencias firmes dictadas en aplicación de lo dispuesto en la presente Ley.)*
+- **Cita a**: [**BOE-A-1995-25444**](./LO10_1995_codigo_penal.md) (Art. 19)
+- **Cita a**: `norm-es-c-1978` (Art. 5) desde *(Título III, Capítulo II. De las medidas cautelares., Art. 29)*
+- **Cita a**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título VII, Capítulo II. Reglas para la ejecución de las medidas., Art. 48)*
+- **Cita a**: `norm-es-c-1978` (Título IX) desde *(Título VII, Capítulo III. Reglas especiales para la ejecución de las medidas privativas de libertad., Art. 60)*

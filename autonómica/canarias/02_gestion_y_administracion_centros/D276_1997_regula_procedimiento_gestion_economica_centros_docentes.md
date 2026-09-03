@@ -31,6 +31,7 @@ tags:
 - profesorado
 relaciones:
   desarrolla:
+  - norma_id: norm-es-lo-8-1985
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-rd-132-2010
   fundamentado_en:
@@ -44,8 +45,9 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '63'
+  - norma_id: '63'
 ---
+
 # Decreto 276/1997, de 27 de noviembre, por el que se regula el procedimiento de gestión económica de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -282,3 +284,18 @@ operaciones de gestión de la cuenta del centro con su entidad bancaria, elabora
 11. Reuniones y conferencias. Gastos de organización y celebración de reuniones, conferencias, grupos de trabajo, seminarios y reuniones análogas. © Gobierno de Canarias
 • Aviso Legal
 • Sugerencias y Reclamaciones
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamento de**: [**O25_2_2003 Regulacion de Comedores Escolares**](../05_alumnado_y_servicios_escolares/O25_2_2003_regula_organizacion_funcionamiento_comedores_escolares_centros.md)
+- **Fundamento de**: [**Resolucion BOC 97**](../04_organizacion_escolar_y_funcionamiento/R11_4_2025_escolarizacion_servicios_complementarios_aprueba_instruccion_ayudas.md)
+- **Fundamento de**: [**Resolucion BOC 99**](../04_organizacion_escolar_y_funcionamiento/R25_3_2026_aprueba_instruccion_ayudas_prestamo_libros_texto.md)

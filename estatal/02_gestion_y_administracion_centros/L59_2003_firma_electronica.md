@@ -19,8 +19,68 @@ tags:
 - administraci-n-electr-nica-y-firmas
 - equipos-directivos
 relaciones:
+  modifica:
+  - norma_id: norm-es-c-1978
+  cita:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Certificados reconocidos.
+    articulos_origen:
+    - Art. 13
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. El documento nacional de identidad electrónico.
+    articulos_origen:
+    - Art. 16
+    articulos_destino:
+    - Art. 20
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título III
+    capitulo_origen: Capítulo I. Obligaciones.
+    articulos_origen:
+    - Art. 17
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título III
+    capitulo_origen: Capítulo I. Obligaciones.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 7
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    articulos_origen:
+    - Art. 31
+    articulos_destino:
+    - Art. 20
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    articulos_origen:
+    - Art. 31
+    articulos_destino:
+    - Art. 18
+    - Art. 20
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título VI
+    articulos_origen:
+    - Art. 36
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    articulos_origen:
+    - D. Adicional quinta. Modificación del artículo 81 de la Ley 66/1997, de 30 de
+      diciembre, de medidas fiscales, administrativas y del orden social.
+    articulos_destino:
+    - Art. 20
   fundamentado_en:
   - norma_id: norm-es-1999-23750
+    titulo_origen: Título VI
+    articulos_origen:
+    - Art. 31
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    articulos_origen:
+    - D. Final primera. Fundamento constitucional.
+    articulos_destino:
+    - Art. 149
   - norma_id: norm-es-ce-1978
   fundamento_de:
   - norma_id: norm-es-2012-8745
@@ -28,9 +88,10 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
+  - norma_id: '27'
   - norma_id: norm-es-1999-23750
 ---
+
 # Ley 59/2003, de 19 de diciembre, de firma electrónica.
 
 ## Preámbulo
@@ -886,3 +947,23 @@ JOSÉ MARÍA AZNAR LÓPEZ
 
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: `norm-es-c-1978`
+- **Fundamentado en**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título VI, Art. 31)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Título VI, D. Final primera. Fundamento constitucional.)*
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamento de**: [**BOE-A-2012-8745**](../08_personal_docente/L2_2012_presupuestos_generales_estado_ano.md)
+- **Fundamento de**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo II. Certificados reconocidos., Art. 13)*
+- **Cita a**: `norm-es-c-1978` (Art. 20) desde *(Título II, Capítulo III. El documento nacional de identidad electrónico., Art. 16)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título III, Capítulo I. Obligaciones., Art. 17)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 7) desde *(Título III, Capítulo I. Obligaciones., Art. 17)*
+- **Cita a**: `norm-es-c-1978` (Art. 20) desde *(Título VI, Art. 31)*
+- **Cita a**: `norm-es-c-1978` (Art. 18, Art. 20) desde *(Título VI, Art. 31)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título VI, Art. 36)*
+- **Cita a**: `norm-es-c-1978` (Art. 20) desde *(Título VI, D. Adicional quinta. Modificación del artículo 81 de la Ley 66/1997, de 30 de diciembre, de medidas fiscales, administrativas y del orden social.)*

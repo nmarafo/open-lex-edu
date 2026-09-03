@@ -26,17 +26,47 @@ tags:
 - organizacion_escolar
 - andalucia
 relaciones:
+  cita:
+  - norma_id: norm-and-d-327-2010
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 5
+  - norma_id: norm-and-d-327-2010
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    articulos_destino:
+    - Art. 52
+  modifica:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 47
+    - Art. 48
+    - Art. 38
+    - Art. 131
+    - Art. 54
+    - Art. 55
+    - Art. 57
+    - Art. 58
+    - Art. 4
+    - Art. 5
+    - Art. 20
+    - Art. 27
+  concordancia:
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    articulos_destino:
+    - Art. 52
+    - Art. 149
   desarrolla:
   - norma_id: norm-es-lo-2-2006
-  modifica_a: []
-  modificado_por: []
-  afecta_a_articulos: []
   fundamentado_en:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-and-l17-2007
 ---
+
 # Decreto 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgánico de los Institutos de Educación Secundaria
 
 ## Preámbulo
@@ -84,7 +114,8 @@ c) La planificación y coordinación de las actuaciones de vigilancia y control 
 #### Artículo 5. Régimen de funcionamiento del Comité.
 
 1. El funcionamiento del Comité se ajustará al régimen establecido para los órganos colegiados en el Capítulo II del Título II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, así como en la Sección 1.ª del Capítulo II del
-Título IV de la Ley 9/2007, de 22 de octubre.
+
+## Título IV. de la Ley 9/2007, de 22 de octubre.
 
 2. Se celebrarán, al menos, dos reuniones ordinarias al año, sin perjuicio de las extraordinarias que se celebren por decisión de la persona que ejerce la Presidencia, a iniciativa propia o a instancia de cualquiera de las personas que componen el Comité. En este caso, la petición habrá de acompañarse de la correspondiente propuesta del orden del día.
 
@@ -130,6 +161,20 @@ Se faculta al Consejero de Gobernación y Justicia, al Consejero de Economía, I
 
 #### Disposición final segunda. Entrada en vigor.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 29 de junio de 2010 JOSÉ ANTONIO GRIÑÁN MARTÍNEZ Presidente de la Junta de Andalucía MARÍA DEL MAR MORENO RUIZ Consejera de la Presidencia CONSEJERÍA DE EDUCACIÓN DECRETO 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgánico de los Institutos de Educación Secundaria. El artículo 52 l.
-
 Estatuto de Autonomía para Andalucía establece que corresponde a la Comunidad Autónoma en materia de enseñanza no universitaria, en relación con las enseñanzas obligatorias y no obligatorias que conducen a la obtención de un título académico o profesional con validez en todo el Estado, incluidas las enseñanzas de educación infantil, la competencia exclusiva, entre otras, en la programación y creación de centros públicos, su organización, régimen e inspección, así como la evaluación y garantía de calidad del sistema educativo y las actividades complementarias y extraescolares. Asimismo, el artículo 52.2 del Estatuto de Autonomía para Andalucía reconoce la competencia compartida de la Comunidad Autónoma sobre la ordenación del sector y de la actividad docente, así como sobre los requisitos de los centros, sin perjuicio de lo recogido en el artículo 149.1.30.ª de la Constitución, a tenor del cual corresponde al Estado dictar
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: `norm-es-c-1978` (Art. 47, Art. 48, Art. 38, Art. 131, Art. 54, Art. 55, Art. 57, Art. 58, Art. 4, Art. 5, Art. 20, Art. 27)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **En concordancia con**: `norm-es-c-1978` (Art. 52, Art. 149) desde *(D. Final segunda. Entrada en vigor.)*
+- **Cita a**: [**D327_2010 ROC IES Andalucia**](../02_gestion_y_administracion_centros/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md)
+- **Cita a**: `norm-es-c-1978` desde *(Art. 5)*
+- **Cita a**: [**D327_2010 ROC IES Andalucia**](../02_gestion_y_administracion_centros/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Art. 52) desde *(D. Final segunda. Entrada en vigor.)*

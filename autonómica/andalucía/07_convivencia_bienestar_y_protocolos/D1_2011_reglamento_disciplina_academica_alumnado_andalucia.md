@@ -33,6 +33,7 @@ relaciones:
   - norma_id: norm-es-lo-8-2021
   - norma_id: norm-es-lo-1-1996
 ---
+
 # Decreto 1/2011, de 11 de enero, por el que se establece el procedimiento corrector en materia de disciplina académica.
 
 ## Preámbulo
@@ -53,6 +54,16 @@ Sevilla, 18 de enero 2011 Página núm. 5 CONSEJERÍA DE HACIENDA Y ADMINISTRACI
 
 **2.6.** El resto de las condiciones aplicables a la presente convocatoria de subastas serán las establecidas en la Orden de la Consejería de Economía y Hacienda de 2 de agosto de 2001. Sevilla, 5 de enero de 2011.- El Director General, Luis Atienza Soldado.
 
-## Anexo
+## Anexo C. ALENDARIO DE SUBASTAS ORDINARIAS DE PAGARÉS DE LA JUNTA DE ANDALUCÍA QUE SE CELEBRARÁN DURANTE EL AÑO 2011 Fecha de presentación de ofertas y resolución Fecha de emisión y desembolso Fecha de amortización 3 meses Fecha de amortización 6 meses Fecha de amortización 9 meses Fecha de amortización 12 meses Fecha de amortización 18 meses 25.1.2011 28.1.2011 29.4.2011 29.7.2011 28.10.2011 27.1.2012 27.7.2012 22.2.2011 25.2.2011 27.5.2011 26.8.2011 25.11.2011 24.2.2012 31.8.2012 22.3.2011 25.3.2011 24.6.2011 30.9.2011 30.12.2011 30.3.2012 28.9.2012 26.4.2011 29.4.2011 29.7.2011 28.10.2011 27.1.2012 27.4.2012 26.10.2012 24.5.2011 27.5.2011 26.8.2011 25.11.2011 24.2.2012 25.5.2012 30.11.2012 28.6.2011 01.7.2011 30.9.2011 30.12.2011 30.3.2012 29.6.2012 28.12.2012 26.7.2011 29.7.2011 28.10.2011 27.1.2012 27.4.2012 27.7.2012 25.1.2013 23.8.2011 26.8.2011 25.11.2011 24.2.2012 25.5.2012 31.8.2012 22.2.2013 27.9.2011 30.9.2011 30.12.2011 30.3.2012 29.6.2012 28.9.2012 29.3.2013 25.10.2011 28.10.2011 27.1.2012 27.4.2012 27.7.2012 26.10.2012 26.4.2013 22.11.2011 25.11.2011 24.2.2012 25.5.2012 31.8.2012 30.11.2012 31.5.2013 27.12.2011 30.12.2011 30.3.2012 29.6.2012 28.9.2012 28.12.2012 28.6.2013
 
-CALENDARIO DE SUBASTAS ORDINARIAS DE PAGARÉS DE LA JUNTA DE ANDALUCÍA QUE SE CELEBRARÁN DURANTE EL AÑO 2011 Fecha de presentación de ofertas y resolución Fecha de emisión y desembolso Fecha de amortización 3 meses Fecha de amortización 6 meses Fecha de amortización 9 meses Fecha de amortización 12 meses Fecha de amortización 18 meses 25.1.2011 28.1.2011 29.4.2011 29.7.2011 28.10.2011 27.1.2012 27.7.2012 22.2.2011 25.2.2011 27.5.2011 26.8.2011 25.11.2011 24.2.2012 31.8.2012 22.3.2011 25.3.2011 24.6.2011 30.9.2011 30.12.2011 30.3.2012 28.9.2012 26.4.2011 29.4.2011 29.7.2011 28.10.2011 27.1.2012 27.4.2012 26.10.2012 24.5.2011 27.5.2011 26.8.2011 25.11.2011 24.2.2012 25.5.2012 30.11.2012 28.6.2011 01.7.2011 30.9.2011 30.12.2011 30.3.2012 29.6.2012 28.12.2012 26.7.2011 29.7.2011 28.10.2011 27.1.2012 27.4.2012 27.7.2012 25.1.2013 23.8.2011 26.8.2011 25.11.2011 24.2.2012 25.5.2012 31.8.2012 22.2.2013 27.9.2011 30.9.2011 30.12.2011 30.3.2012 29.6.2012 28.9.2012 29.3.2013 25.10.2011 28.10.2011 27.1.2012 27.4.2012 27.7.2012 26.10.2012 26.4.2013 22.11.2011 25.11.2011 24.2.2012 25.5.2012 31.8.2012 30.11.2012 31.5.2013 27.12.2011 30.12.2011 30.3.2012 29.6.2012 28.9.2012 28.12.2012 28.6.2013
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)

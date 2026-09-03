@@ -30,6 +30,16 @@ tags:
 - procedimiento-administrativo
 - profesorado
 relaciones:
+  desarrolla:
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 109
+    - Art. 19
+  - norma_id: norm-es-lo-2-2006
+  cita:
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 20
   fundamentado_en:
   - norma_id: norm-can-d-212-1991
   - norma_id: norm-can-d-84-2024
@@ -38,12 +48,10 @@ relaciones:
   - norma_id: norm-can-res-boc-2025-047-108
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-lo-2-2006
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-res-boc-2025-047-107
@@ -51,6 +59,7 @@ relaciones:
   - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-061-1212.pdf
 ---
+
 # Resolución de 18 de marzo de 2025, por la que se corrigen errores en las instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grado D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2025-2026, aprobadas por Resolución de 24 de febrero de 2025 (BOC n.º 47, de 7.3.2025).
 
 ## Preámbulo
@@ -140,3 +149,19 @@ Segundo.- Ordenar la publicación de la presente Resolución en el Boletín Ofic
 - [**Resolucion BOC 107**](./R24_2_2025_convoca_procedimiento_admision_alumnado_ciclos_formativos.md)
 - [**Resolucion BOC 108**](./R24_2_2025_dictan_instrucciones_proceso_admision_alumnado_ciclos.md)
 - [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 109, Art. 19)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**Resolucion BOC 107**](./R24_2_2025_convoca_procedimiento_admision_alumnado_ciclos_formativos.md)
+- **Fundamentado en**: [**Resolucion BOC 108**](./R24_2_2025_dictan_instrucciones_proceso_admision_alumnado_ciclos.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 20)

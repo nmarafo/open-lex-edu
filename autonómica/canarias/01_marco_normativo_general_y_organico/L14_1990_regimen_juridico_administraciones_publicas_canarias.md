@@ -28,9 +28,297 @@ tags:
 - fp-basica
 - procedimiento-administrativo
 relaciones:
+  cita:
+  - norma_id: norm-can-lo-1-2018
+    articulos_destino:
+    - Art. 21
+  - norma_id: norm-es-1985-5392
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. Las administraciones publicas canarias.
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 4
+  - norma_id: norm-can-lo-1-2018
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Sistema de competencias.
+    articulos_origen:
+    - Art. 8
+  - norma_id: norm-es-1985-5392
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Sistema de competencias.
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 27
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III
+    seccion_origen: Sección II. Convenios de colaboracion y sociedades mixtas.
+    articulos_origen:
+    - Art. 17
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III
+    seccion_origen: Sección III. Coordinacion administrativa.
+    articulos_origen:
+    - Art. 20
+  - norma_id: norm-es-1985-5392
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III
+    seccion_origen: Sección III. Coordinacion administrativa.
+    articulos_origen:
+    - Art. 24
+    articulos_destino:
+    - Art. 24
+    - Art. 60
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    articulos_origen:
+    - Art. 33
+    articulos_destino:
+    - Art. 33
+    - Art. 106
+  - norma_id: norm-es-1985-5392
+    titulo_origen: Título III
+    articulos_origen:
+    - Art. 35
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I. Naturaleza y funciones.
+    articulos_origen:
+    - Art. 36
+  - norma_id: norm-can-lo-1-2018
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo II. Iniciativa legislativa.
+    articulos_origen:
+    - Art. 37
+    articulos_destino:
+    - Art. 37
+    - Art. 11
+    - Art. 12
+  - norma_id: norm-es-1985-5392
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Competencias y funciones.
+    seccion_origen: Sección I. COMPETENCIAS PROPIAS artículo 41 Los Cabildos Insulares,
+      como Corporaciones Locales Territoriales, tienen atribuido el gobierno, la administración
+      y representación de cada isla y gozan de plena autonomía para el ejercicio de
+      sus competencias propias. Artículo 42.- Son competencias propias de los Cabildos,
+      además de las reconocidas en el artículo 5 de la Ley 11 de julio de 1912, de
+      Régimen del Archipiélago Canario, las que se les atribuyan con tal carácter,
+      de acuerdo con lo dispuesto en la Ley 7/1985, reguladora de las Bases del Régimen
+      Local, y en las leyes reguladoras de los distintos sectores de la actuación
+      pública. Idéntico carácter tendrán las competencias transferidas a los Cabildos
+      por Leyes del Parlamento de Canarias.
+    seccion_destino: Sección I
+    articulos_destino:
+    - Art. 41
+    - Art. 42
+    - Art. 5
+  - norma_id: norm-es-1985-5392
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Competencias y funciones.
+    seccion_origen: Sección I. COMPETENCIAS PROPIAS artículo 41 Los Cabildos Insulares,
+      como Corporaciones Locales Territoriales, tienen atribuido el gobierno, la administración
+      y representación de cada isla y gozan de plena autonomía para el ejercicio de
+      sus competencias propias. Artículo 42.- Son competencias propias de los Cabildos,
+      además de las reconocidas en el artículo 5 de la Ley 11 de julio de 1912, de
+      Régimen del Archipiélago Canario, las que se les atribuyan con tal carácter,
+      de acuerdo con lo dispuesto en la Ley 7/1985, reguladora de las Bases del Régimen
+      Local, y en las leyes reguladoras de los distintos sectores de la actuación
+      pública. Idéntico carácter tendrán las competencias transferidas a los Cabildos
+      por Leyes del Parlamento de Canarias.
+    articulos_origen:
+    - Art. 47
+    articulos_destino:
+    - Art. 60
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Competencias y funciones.
+    seccion_origen: Sección I. COMPETENCIAS PROPIAS artículo 41 Los Cabildos Insulares,
+      como Corporaciones Locales Territoriales, tienen atribuido el gobierno, la administración
+      y representación de cada isla y gozan de plena autonomía para el ejercicio de
+      sus competencias propias. Artículo 42.- Son competencias propias de los Cabildos,
+      además de las reconocidas en el artículo 5 de la Ley 11 de julio de 1912, de
+      Régimen del Archipiélago Canario, las que se les atribuyan con tal carácter,
+      de acuerdo con lo dispuesto en la Ley 7/1985, reguladora de las Bases del Régimen
+      Local, y en las leyes reguladoras de los distintos sectores de la actuación
+      pública. Idéntico carácter tendrán las competencias transferidas a los Cabildos
+      por Leyes del Parlamento de Canarias.
+    articulos_origen:
+    - Art. 48
+    articulos_destino:
+    - Art. 48
+    - Art. 142
+  - norma_id: norm-can-lo-1-2018
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Competencias y funciones.
+    seccion_origen: Sección I. COMPETENCIAS PROPIAS artículo 41 Los Cabildos Insulares,
+      como Corporaciones Locales Territoriales, tienen atribuido el gobierno, la administración
+      y representación de cada isla y gozan de plena autonomía para el ejercicio de
+      sus competencias propias. Artículo 42.- Son competencias propias de los Cabildos,
+      además de las reconocidas en el artículo 5 de la Ley 11 de julio de 1912, de
+      Régimen del Archipiélago Canario, las que se les atribuyan con tal carácter,
+      de acuerdo con lo dispuesto en la Ley 7/1985, reguladora de las Bases del Régimen
+      Local, y en las leyes reguladoras de los distintos sectores de la actuación
+      pública. Idéntico carácter tendrán las competencias transferidas a los Cabildos
+      por Leyes del Parlamento de Canarias.
+    articulos_origen:
+    - Art. 48
+    articulos_destino:
+    - Art. 48
+    - Art. 142
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. De la organizacion de los municipios.
+    seccion_origen: Sección II. Del alcalde.
+    articulos_origen:
+    - Art. 64
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. De la organizacion de los municipios.
+    seccion_origen: Sección IV. Del pleno.
+    articulos_origen:
+    - Art. 73
+    articulos_destino:
+    - Art. 73
+  - norma_id: norm-es-1985-5392
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. De la organizacion de los municipios.
+    seccion_origen: Sección X. DE LAS ENTIDADES TERRITORIALES INFRAMUNICIPALES artículo
+      91- Sin perjuicio de las competencias del municipio reconocidas en el artículo
+      25 de la Ley 7/1985, reguladora de las Bases del Régimen Local, se podrán constituir
+      entidades inframunicipales para la administración descentralizada de los núcleos
+      de población separados o con características peculiares. Para la constitución
+      de estos entes descentralizados se atenderá a las condiciones que permitan un
+      satisfactorio funcionamiento de los mismos y a la voluntad mayoritaria de los
+      habitantes de los núcleos urbanos afectados. Artículo 92.- El Ayuntamiento se
+      ajustará para la constitución de estas entidades a las previsiones del artículo
+      45 de la Ley reguladora de las Bases del Régimen Local y a la legislación en
+      materia de elecciones locales, en cuanto a la elección de Alcalde Pedáneo y
+      de los Vocales de la Junta Vecinal u órgano colegiado.
+    seccion_destino: Sección X
+    articulos_destino:
+    - Art. 91
+    - Art. 25
+    - Art. 92
+    - Art. 45
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. De la organizacion de los municipios.
+    seccion_origen: Sección X. DE LAS ENTIDADES TERRITORIALES INFRAMUNICIPALES artículo
+      91- Sin perjuicio de las competencias del municipio reconocidas en el artículo
+      25 de la Ley 7/1985, reguladora de las Bases del Régimen Local, se podrán constituir
+      entidades inframunicipales para la administración descentralizada de los núcleos
+      de población separados o con características peculiares. Para la constitución
+      de estos entes descentralizados se atenderá a las condiciones que permitan un
+      satisfactorio funcionamiento de los mismos y a la voluntad mayoritaria de los
+      habitantes de los núcleos urbanos afectados. Artículo 92.- El Ayuntamiento se
+      ajustará para la constitución de estas entidades a las previsiones del artículo
+      45 de la Ley reguladora de las Bases del Régimen Local y a la legislación en
+      materia de elecciones locales, en cuanto a la elección de Alcalde Pedáneo y
+      de los Vocales de la Junta Vecinal u órgano colegiado.
+    seccion_destino: Sección X
+    articulos_destino:
+    - Art. 91
+    - Art. 25
+    - Art. 92
+    - Art. 45
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo III. De las sesiones de los organos municipales.
+    seccion_origen: Sección I. De la sesion constitutiva del ayuntamiento.
+    articulos_origen:
+    - Art. 110
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo III. De las sesiones de los organos municipales.
+    seccion_origen: Sección I. De la sesion constitutiva del ayuntamiento.
+    articulos_origen:
+    - Art. 111
+    articulos_destino:
+    - Art. 111
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo III. De las sesiones de los organos municipales.
+    seccion_origen: Sección I. De la sesion constitutiva del ayuntamiento.
+    articulos_origen:
+    - Art. 114
+    articulos_destino:
+    - Art. 114
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo III. De las sesiones de los organos municipales.
+    seccion_origen: Sección III. Requisitos de la celebracion y desarrollo de las
+      sesiones.
+    articulos_origen:
+    - Art. 126
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo III. De las sesiones de los organos municipales.
+    seccion_origen: Sección VI. Publicidad de los actos y acuerdos.
+    articulos_origen:
+    - Art. 143
+    articulos_destino:
+    - Art. 143
+    - Art. 105
+  desarrolla:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. Las administraciones publicas canarias.
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. Las administraciones publicas canarias.
+    articulos_origen:
+    - Art. 5
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
   fundamentado_en:
   - norma_id: norm-can-lo-1-2018
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Sistema de competencias.
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 8
   - norma_id: norm-es-1985-5392
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Sistema de competencias.
+    articulos_origen:
+    - Art. 11
+    articulos_destino:
+    - Art. 11
+    - Art. 22
+  - norma_id: norm-can-lo-1-2018
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Sistema de competencias.
+    articulos_origen:
+    - Art. 11
+    articulos_destino:
+    - Art. 11
+    - Art. 22
+  - norma_id: norm-es-1985-5392
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Sistema de competencias.
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 13
+    - Art. 27
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. De la organizacion de los municipios.
+    seccion_origen: Sección VII. De los concejales.
+    articulos_origen:
+    - Art. 82
+    articulos_destino:
+    - Art. 105
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
@@ -56,15 +344,13 @@ relaciones:
   - norma_id: norm-can-res-boc-2026-129-26
   - norma_id: norm-can-res-juriscan-64565-138
   - norma_id: norm-can-res-juriscan-72882-123
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-ce-1978
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '136'
+  - norma_id: '136'
   - norma_id: norm-es-1985-5392
 ---
+
 # Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias.
 
 ## Preámbulo
@@ -1089,3 +1375,66 @@ EL PRESIDENTE DEL GOBIERNO, Lorenzo Olarte Cullen.
 © Gobierno de Canarias
 
 Aviso Legal Sugerencias y Reclamaciones
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-c-1978` (Art. 2) desde *(Título I, Capítulo I. Las administraciones publicas canarias., Art. 2)*
+- **Desarrolla**: `norm-es-c-1978` desde *(Título I, Capítulo I. Las administraciones publicas canarias., Art. 5)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md) (Art. 8) desde *(Título I, Capítulo II. Sistema de competencias., Art. 8)*
+- **Fundamentado en**: [**BOE-A-1985-5392**](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md) (Art. 11, Art. 22) desde *(Título I, Capítulo II. Sistema de competencias., Art. 11)*
+- **Fundamentado en**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md) (Art. 11, Art. 22) desde *(Título I, Capítulo II. Sistema de competencias., Art. 11)*
+- **Fundamentado en**: [**BOE-A-1985-5392**](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md) (Art. 13, Art. 27) desde *(Título I, Capítulo II. Sistema de competencias., Art. 13)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 105) desde *(Título V, Capítulo II. De la organizacion de los municipios., Art. 82)*
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](./L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamento de**: [**Decreto BOC 135/2016**](./D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md)
+- **Fundamento de**: [**D84_2024 ROC Consejeria de Educacion Canarias**](./D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Fundamento de**: [**O2_8_2006 Regulacion del Transporte Escolar en Canarias**](../05_alumnado_y_servicios_escolares/O2_8_2006_aprueban_bases_regulan_prestacion_servicio_transporte.md)
+- **Fundamento de**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
+- **Fundamento de**: [**O7_6_2007 Medidas de Atencion a la Diversidad en la Ensenanza Basica**](../06_atencion_diversidad_y_orientacion/O7_6_2007_regulan_medidas_atencion_diversidad_ensenanza_basica.md)
+- **Fundamento de**: [**Resolucion BOC 14**](../02_gestion_y_administracion_centros/R27_10_2021_ordena_publicacion_convenio_marco_cooperacion_entre.md)
+- **Fundamento de**: [**Resolucion BOC 43**](../03_ordenacion_curricular_y_ensenanzas/R29_7_2025_comunidad_autonoma_canarias_celebrar_curso_escolar.md)
+- **Fundamento de**: [**Resolucion BOC 90**](../04_organizacion_escolar_y_funcionamiento/R15_6_2026_convoca_proceso_aprueba_calendario_renovacion_parcial.md)
+- **Fundamento de**: [**Resolucion BOC 119**](../05_alumnado_y_servicios_escolares/R8_8_2025_escolarizacion_servicios_complementarios_aprueban_instrucciones_organizacion.md)
+- **Fundamento de**: [**Resolucion BOC 2**](./R20_1_2017_innovacion_promocion_educativa_delega_directora_agencia.md)
+- **Fundamento de**: [**Resolucion BOC 4**](./R16_3_2017_delega_competencia_materia_contratos_menores_material.md)
+- **Fundamento de**: [**Resolucion BOC 23**](../02_gestion_y_administracion_centros/R10_6_2021_universidades_deportes_establece_composicion_comision_seguimiento.md)
+- **Fundamento de**: [**Resolucion BOC 93**](../04_organizacion_escolar_y_funcionamiento/R3_6_2024_resoluci_n_junio.md)
+- **Fundamento de**: [**Resolucion BOC 91**](../04_organizacion_escolar_y_funcionamiento/R20_6_2024_resoluci_n_junio.md)
+- **Fundamento de**: [**Resolucion BOC 139**](../08_personal_docente/R24_2_2026_dictan_instrucciones_regulacion_periodo_vacacional_regimen.md)
+- **Fundamento de**: [**Resolucion BOC 92**](../04_organizacion_escolar_y_funcionamiento/R26_5_2026_resoluci_n_mayo.md)
+- **Fundamento de**: [**Resolucion BOC 26**](../03_ordenacion_curricular_y_ensenanzas/R16_6_2026_ordena_publicacion_protocolo_general_actuacion_entre.md)
+- **Fundamento de**: [**Resolucion BOC 138**](../08_personal_docente/R10_8_2005_relativa_deposito_registro_publicacion_acuerdo_ratifica.md)
+- **Fundamento de**: [**Resolucion BOC 123**](../06_atencion_diversidad_y_orientacion/R28_5_2015_ordena_publicacion_convenio_colaboracion_entre_universidades.md)
+- **Cita a**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md) (Art. 21)
+- **Cita a**: [**BOE-A-1985-5392**](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md) (Art. 4) desde *(Título I, Capítulo I. Las administraciones publicas canarias., Art. 7)*
+- **Cita a**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md) desde *(Título I, Capítulo II. Sistema de competencias., Art. 8)*
+- **Cita a**: [**BOE-A-1985-5392**](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md) (Art. 27) desde *(Título I, Capítulo II. Sistema de competencias., Art. 10)*
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Capítulo III, Art. 17)*
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Capítulo III, Art. 20)*
+- **Cita a**: [**BOE-A-1985-5392**](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md) (Art. 24, Art. 60) desde *(Título I, Capítulo III, Art. 24)*
+- **Cita a**: `norm-es-c-1978` (Art. 33, Art. 106) desde *(Título II, Art. 33)*
+- **Cita a**: [**BOE-A-1985-5392**](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md) desde *(Título III, Art. 35)*
+- **Cita a**: `norm-es-c-1978` desde *(Título IV, Capítulo I. Naturaleza y funciones., Art. 36)*
+- **Cita a**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md) (Art. 37, Art. 11, Art. 12) desde *(Título IV, Capítulo II. Iniciativa legislativa., Art. 37)*
+- **Cita a**: [**BOE-A-1985-5392**](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md) (Sección I, Art. 41, Art. 42, Art. 5) desde *(Título IV, Capítulo IV. Competencias y funciones.)*
+- **Cita a**: [**BOE-A-1985-5392**](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md) (Art. 60) desde *(Título IV, Capítulo IV. Competencias y funciones., Art. 47)*
+- **Cita a**: `norm-es-c-1978` (Art. 48, Art. 142) desde *(Título IV, Capítulo IV. Competencias y funciones., Art. 48)*
+- **Cita a**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md) (Art. 48, Art. 142) desde *(Título IV, Capítulo IV. Competencias y funciones., Art. 48)*
+- **Cita a**: `norm-es-c-1978` desde *(Título V, Capítulo II. De la organizacion de los municipios., Art. 64)*
+- **Cita a**: `norm-es-c-1978` (Art. 73) desde *(Título V, Capítulo II. De la organizacion de los municipios., Art. 73)*
+- **Cita a**: [**BOE-A-1985-5392**](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md) (Sección X, Art. 91, Art. 25, Art. 92, Art. 45) desde *(Título V, Capítulo II. De la organizacion de los municipios.)*
+- **Cita a**: `norm-es-c-1978` (Sección X, Art. 91, Art. 25, Art. 92, Art. 45) desde *(Título V, Capítulo II. De la organizacion de los municipios.)*
+- **Cita a**: `norm-es-c-1978` desde *(Título V, Capítulo III. De las sesiones de los organos municipales., Art. 110)*
+- **Cita a**: `norm-es-c-1978` (Art. 111) desde *(Título V, Capítulo III. De las sesiones de los organos municipales., Art. 111)*
+- **Cita a**: `norm-es-c-1978` (Art. 114) desde *(Título V, Capítulo III. De las sesiones de los organos municipales., Art. 114)*
+- **Cita a**: `norm-es-c-1978` (Art. 18) desde *(Título V, Capítulo III. De las sesiones de los organos municipales., Art. 126)*
+- **Cita a**: `norm-es-c-1978` (Art. 143, Art. 105) desde *(Título V, Capítulo III. De las sesiones de los organos municipales., Art. 143)*

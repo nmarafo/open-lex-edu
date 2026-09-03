@@ -21,21 +21,236 @@ tags:
 - neae
 relaciones:
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 14
+    - Art. 9
+    - Art. 10
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 26
+    articulos_destino:
+    - Art. 10
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Garantías del derecho a la igualdad de trato y no
+      discriminación.
+    articulos_origen:
+    - Art. 31
+    articulos_destino:
+    - Art. 4
+    - Art. 29
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título III
+    articulos_origen:
+    - Art. 44
+    articulos_destino:
+    - Art. 40
+    - Art. 18
   - norma_id: norm-es-2000-544
   - norma_id: norm-es-2007-6115
   - norma_id: norm-es-2013-12632
   - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-es-l-9-2017
   - norma_id: norm-es-lo-1-2004
-  desarrollado_por: []
-  fundamento_de:
-  - norma_id: norm-can-res-125
+  desarrolla:
+  - norma_id: norm-es-2007-6115
+    articulos_origen:
+    - Art. 26
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 26
+    articulos_destino:
+    - Art. 14
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 1
+    articulos_destino:
+    - Art. 9
+  cita:
+  - norma_id: norm-es-lo-1-2004
+    articulos_origen:
+    - Art. 26
+  - norma_id: norm-es-2007-6115
+    articulos_origen:
+    - Art. 26
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 26
+    titulo_destino: Título PRELIMINAR
+    articulos_destino:
+    - Art. 14
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-l-40-2015
+    titulo_origen: Título III
+    articulos_origen:
+    - Art. 41
+    articulos_destino:
+    - Art. 109
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título III
+    articulos_origen:
+    - Art. 41
+  - norma_id: norm-es-l-40-2015
+    titulo_origen: Título III
+    articulos_origen:
+    - Art. 41
+  - norma_id: norm-es-l-9-2017
+    titulo_origen: Título III
+    articulos_origen:
+    - Art. 41
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título IV
+    articulos_origen:
+    - Art. 46
+  - norma_id: norm-es-l-40-2015
+    titulo_origen: Título IV
+    articulos_origen:
+    - Art. 46
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título IV
+    articulos_origen:
+    - Art. 52
+  - norma_id: norm-es-l-40-2015
+    titulo_origen: Título IV
+    articulos_origen:
+    - Art. 52
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    articulos_origen:
+    - D. Adicional primera. Constitución de la Autoridad Independiente para la Igualdad
+      de Trato y la No Discriminación.
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    articulos_origen:
+    - D. Adicional primera. Constitución de la Autoridad Independiente para la Igualdad
+      de Trato y la No Discriminación.
+  - norma_id: norm-es-2000-544
+    titulo_origen: Título V
+    articulos_origen:
+    - D. Adicional cuarta. No afectación de la legislación en materia de extranjería.
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título V
+    articulos_origen:
+    - D. Final cuarta. Modificación de la Ley 39/2015, de 1 de octubre, del Procedimiento
+      Administrativo Común de las Administraciones Públicas.
+    articulos_destino:
+    - Art. 77
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    articulos_origen:
+    - D. Final octava. Título competencial.
+    titulo_destino: Título PRELIMINAR
+    articulos_destino:
+    - Art. 9
+    - Art. 10
+    - Art. 11
+    - Art. 25
+    - Art. 33
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    articulos_origen:
+    - D. Final octava. Título competencial.
+    articulos_destino:
+    - Art. 9
+    - Art. 10
+    - Art. 11
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    articulos_origen:
+    - D. Final octava. Título competencial.
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    articulos_origen:
+    - D. Final octava. Título competencial.
+    articulos_destino:
+    - Art. 17
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    articulos_origen:
+    - D. Final octava. Título competencial.
+    articulos_destino:
+    - Art. 20
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    articulos_origen:
+    - D. Final octava. Título competencial.
+    articulos_destino:
+    - Art. 28
+    - Art. 29
+    - Art. 30
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    articulos_origen:
+    - D. Final octava. Título competencial.
+    articulos_destino:
+    - Art. 31
+    - Art. 37
+    - Art. 38
+    - Art. 149
+    disposiciones_destino:
+    - D. Final cuarta
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    articulos_origen:
+    - D. Final octava. Título competencial.
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Adicional cuarta
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    articulos_origen:
+    - D. Final octava. Título competencial.
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Final primera
+  modifica:
+  - norma_id: norm-es-2013-12632
+    articulos_origen:
+    - Art. 26
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 26
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título V
+    articulos_origen:
+    - D. Final cuarta. Modificación de la Ley 39/2015, de 1 de octubre, del Procedimiento
+      Administrativo Común de las Administraciones Públicas.
+    disposiciones_destino:
+    - D. Final cuarta
+  concordancia:
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título III
+    articulos_origen:
+    - Art. 40
+    articulos_destino:
+    - Art. 112
+  - norma_id: norm-es-2013-12632
+    titulo_origen: Título IV
+    articulos_origen:
+    - Art. 46
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
+  - norma_id: '27'
   - norma_id: norm-es-2000-544
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
@@ -44,6 +259,7 @@ relaciones:
   - norma_id: norm-es-2013-12632
   - norma_id: norm-es-lo-1-2004
 ---
+
 # Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación.
 
 ## Preámbulo
@@ -1070,3 +1286,53 @@ PEDRO SÁNCHEZ PÉREZ-CASTEJÓN
 - [**BOE-A-2007-6115**](./LO3_2007_igualdad_efectiva_mujeres_hombres.md)
 - [**BOE-A-2013-12632**](./RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md)
 - [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**BOE-A-2007-6115**](./LO3_2007_igualdad_efectiva_mujeres_hombres.md) desde *(Art. 26)*
+- **Desarrolla**: `norm-es-c-1978` (Art. 14) desde *(Art. 26)*
+- **Desarrolla**: `norm-es-c-1978` (Art. 9) desde *(Título Preliminar, Art. 1)*
+- **Modifica**: [**BOE-A-2013-12632**](./RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md) desde *(Art. 26)*
+- **Modifica**: `norm-es-c-1978` desde *(Art. 26)*
+- **Modifica**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (D. Final cuarta) desde *(Título V, D. Final cuarta. Modificación de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 14, Art. 9, Art. 10)
+- **Fundamentado en**: `norm-es-c-1978` (Art. 10) desde *(Art. 26)*
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 4, Art. 29) desde *(Título II, Capítulo I. Garantías del derecho a la igualdad de trato y no discriminación., Art. 31)*
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 40, Art. 18) desde *(Título III, Art. 44)*
+- **Fundamentado en**: [**BOE-A-2000-544**](../01_marco_normativo_general_y_organico/LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md)
+- **Fundamentado en**: [**BOE-A-2007-6115**](./LO3_2007_igualdad_efectiva_mujeres_hombres.md)
+- **Fundamentado en**: [**BOE-A-2013-12632**](./RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamentado en**: [**L9_2017 Contratos del Sector Publico (LCSP)**](../02_gestion_y_administracion_centros/L9_2017_contratos_sector_publico_transponen_ordenamiento_juridico.md)
+- **Fundamentado en**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
+- **En concordancia con**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 112) desde *(Título III, Art. 40)*
+- **En concordancia con**: [**BOE-A-2013-12632**](./RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md) desde *(Título IV, Art. 46)*
+- **Cita a**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) desde *(Art. 26)*
+- **Cita a**: [**BOE-A-2007-6115**](./LO3_2007_igualdad_efectiva_mujeres_hombres.md) desde *(Art. 26)*
+- **Cita a**: `norm-es-c-1978` (Título PRELIMINAR, Art. 14) desde *(Art. 26)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 2) desde *(Título Preliminar, Art. 2)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 109) desde *(Título III, Art. 41)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) desde *(Título III, Art. 41)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) desde *(Título III, Art. 41)*
+- **Cita a**: [**L9_2017 Contratos del Sector Publico (LCSP)**](../02_gestion_y_administracion_centros/L9_2017_contratos_sector_publico_transponen_ordenamiento_juridico.md) desde *(Título III, Art. 41)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) desde *(Título IV, Art. 46)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) desde *(Título IV, Art. 46)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) desde *(Título IV, Art. 52)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) desde *(Título IV, Art. 52)*
+- **Cita a**: `norm-es-c-1978` (D. Adicional primera) desde *(Título V, D. Adicional primera. Constitución de la Autoridad Independiente para la Igualdad de Trato y la No Discriminación.)*
+- **Cita a**: `norm-es-c-1978` desde *(Título V, D. Adicional primera. Constitución de la Autoridad Independiente para la Igualdad de Trato y la No Discriminación.)*
+- **Cita a**: [**BOE-A-2000-544**](../01_marco_normativo_general_y_organico/LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md) desde *(Título V, D. Adicional cuarta. No afectación de la legislación en materia de extranjería.)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 77) desde *(Título V, D. Final cuarta. Modificación de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.)*
+- **Cita a**: `norm-es-c-1978` (Título PRELIMINAR, Art. 9, Art. 10, Art. 11, Art. 25, Art. 33, Art. 149) desde *(Título V, D. Final octava. Título competencial.)*
+- **Cita a**: `norm-es-c-1978` (Art. 9, Art. 10, Art. 11, Art. 149) desde *(Título V, D. Final octava. Título competencial.)*
+- **Cita a**: `norm-es-c-1978` (Art. 149) desde *(Título V, D. Final octava. Título competencial.)*
+- **Cita a**: `norm-es-c-1978` (Art. 17, Art. 149) desde *(Título V, D. Final octava. Título competencial.)*
+- **Cita a**: `norm-es-c-1978` (Art. 20, Art. 149) desde *(Título V, D. Final octava. Título competencial.)*
+- **Cita a**: `norm-es-c-1978` (Art. 28, Art. 29, Art. 30, Art. 149) desde *(Título V, D. Final octava. Título competencial.)*
+- **Cita a**: `norm-es-c-1978` (Art. 31, Art. 37, Art. 38, Art. 149, D. Final cuarta) desde *(Título V, D. Final octava. Título competencial.)*
+- **Cita a**: `norm-es-c-1978` (Art. 149, D. Adicional cuarta) desde *(Título V, D. Final octava. Título competencial.)*
+- **Cita a**: `norm-es-c-1978` (Art. 149, D. Final primera) desde *(Título V, D. Final octava. Título competencial.)*

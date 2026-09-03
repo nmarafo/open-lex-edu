@@ -27,20 +27,23 @@ tags:
 - curso_2025_2026
 - madrid
 relaciones:
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 53
+    - Art. 109
+    - Art. 17
+    - Art. 6
   - norma_id: norm-mad-d-29-2013
   - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 ---
+
 # Orden 1238/2023, de 27 de abril, de la Consejería de Educación, Ciencia y Universidades, por la que se regula el desarrollo del sistema de Formación Profesional Dual en la Comunidad de Madrid.
 
 ## Preámbulo
-
-I. COMUNIDAD DE MADRID
-A) Disposiciones Generales Consejería de Administración Local y Digitalización 2 ACUERDO de 10 de mayo de 2023, del Consejo de Gobierno, por el que se procede a la rectificación de error material del acuerdo del Consejo de Gobierno, de 20 de octubre de 2021, por el que se aprueba el Plan de Actuación del Programa de Inversión Regional de la Comunidad de Madrid para el período 2022-2026. ANTECEDENTES DE HECHO Por el Decreto 118/2020, de 23 de diciembre, de Consejo de Gobierno, se aprueba el "Programa de Inversión Regional de la Comunidad de Madrid para el período 2021-2025", con una dotación de 1.000.000.000 de euros (PIR 2021-2025). En virtud del Decreto 211/2021, de 15 de septiembre, se amplía la vigencia del citado programa que pasa a ser 2022-2026. Mediante Acuerdo de la Junta de Gobierno Local, de fecha 20 de enero de 2021, el Ayuntamiento de Colmenarejo aprueba solicitar la gestión municipal de las actuaciones de inversión en aplicación del citado PIR. Por Acuerdo del Consejo de Gobierno de 20 de octubre de 2021, se aprueba el Plan de Actuación del Programa de Inversión Regional de la Comunidad de Madrid para el período 2022-2026. La Dirección General Inversiones y Desarrollo Local detecta error material en el
 
 ## Anexo I. del Acuerdo de aprobación del Plan de Actuación del Programa de Inversión Regional de la Comunidad de Madrid para el período 2022-2026, en virtud del cual se establece que las actuaciones de inversión correspondientes al municipio de Colmenarejo sean
 
@@ -57,4 +60,13 @@ AYUNTAMIENTO TOTAL CM+AYTO MUNICIPIO ASIGNACIÓN INICIAL C.M. GASTOS CORRIENTES 
 Debe decir:
 IMPORTE % MÁXIMO IMPORTE % MÍNIMO COLMENAREJO 3.081.954 25% 770.489 2.311.465 95% 121.656,05 5% 2.433.121,05 AYTO AYUNTAMIENTO TOTAL CM+AYTO MUNICIPIO ASIGNACIÓN INICIAL C.M. GASTOS CORRIENTES (s/asig. Inicial CM - 100% CM) INVERSIONES FINANCIACIÓN ENTE GESTOR % IMPORTE C. MADRID
 
-Segundo Eficacia Publicar el presente Acuerdo en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, produciendo efectos desde el mismo día en que dio comienzo la eficacia del Acuerdo del Consejo de Gobierno, de 20 de octubre de 2021, por el que se aprueba el Plan de Actuación del Programa de Inversión Regional de la Comunidad de Madrid para el período 2022-2026. Contra el presente Acuerdo podrá interponerse recurso contencioso-administrativo ante el Tribunal Superior de Justicia de Madrid, en el plazo de dos meses contados desde el día siguiente a su publicación, sin perjuicio de cuantos otros recursos se estime oportuno deducir. Madrid, a 10 de mayo de 2023. El Consejero de Administración Local y Digitalización, CARLOS IZQUIERDO TORRES La Presidenta, ISABEL DÍAZ AYUSO (03/8.094/23)
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 53, Art. 109, Art. 17, Art. 6)
+- **Fundamentado en**: [**D29_2013 Libertad Eleccion Centro Escolar Madrid**](../05_alumnado_y_servicios_escolares/D29_2013_libertad_eleccion_centro_escolar_madrid.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)

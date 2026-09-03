@@ -24,6 +24,8 @@ tags:
 - primer_ciclo_infantil
 - andalucia
 relaciones:
+  cita:
+  - norma_id: norm-es-2001-7022
   desarrolla:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-rd-132-2010
@@ -32,6 +34,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Decreto 155/1997, de 10 de junio, por el que se regulan los centros que imparten el primer ciclo de Educación Infantil.
 
 ## Preámbulo
@@ -42,7 +45,7 @@ En su virtud, a propuesta de la Consejera de Educación y Ciencia, de acuerdo co
 
 DISPONGO:
 
-### Capítulo I. Disposiciones Generales
+#### Artículo . #### Artículo . ### Capítulo I. Disposiciones Generales
 
 #### Artículo 1. Objeto y ámbito de aplicación.
 
@@ -72,4 +75,14 @@ Los centros docentes que vinieran impartiendo el primer ciclo de educación infa
 
 #### Disposición final segunda. Entrada en vigor.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía.
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**BOE-A-2001-7022**](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)

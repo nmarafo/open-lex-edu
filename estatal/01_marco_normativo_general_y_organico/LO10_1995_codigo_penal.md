@@ -22,6 +22,36 @@ tags:
 - equipos-directivos
 - gestion-economica
 relaciones:
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 12
+    - Art. 4
+    - Art. 7
+    - Art. 131
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 12
+    - Art. 4
+    - Art. 7
+    - Art. 131
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 12
+    - Art. 4
+    - Art. 7
+    - Art. 131
+  - norma_id: norm-es-lo-3-2020
+    articulos_destino:
+    - Art. 12
+    - Art. 4
+    - Art. 7
+    - Art. 131
+  concordancia:
+  - norma_id: norm-es-l-40-2015
+    articulos_destino:
+    - Art. 17
+    - Art. 9
   fundamentado_en:
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-lo-1-1982
@@ -31,14 +61,13 @@ relaciones:
   - norma_id: norm-es-lo-10-2022
   - norma_id: norm-es-lo-5-2000
   - norma_id: norm-es-lo-8-2021
-  - norma_id: norm-can-res-boc-2026-129-26
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
+  - norma_id: '27'
   - norma_id: norm-es-lo-1-1982
 ---
+
 # Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.
 
 ## Preámbulo
@@ -58,3 +87,21 @@ RESUELVO:
 Primero.- Delegar en las Direcciones Territoriales de Educación la competencia para el nombramiento y cese, así como para la concesión, cese y revocación de las comisiones de servicios para el desempeño del cargo de Jefatura de Estudios Adjunta en los centros educativos en que se determine, que ejercerán, en su ámbito territorial, bajo la dirección y coordinación de esta Dirección General de Personal que dictará cuantas normas e instrucciones considere necesarias.
 Segundo.- La delegación conferida por esta Resolución se entenderá sin perjuicio de la potestad de su revocación y en las Resoluciones que se adopten en el ejercicio de la misma se hará constar esta circunstancia considerándose, a todos los efectos, dictadas por esta Dirección General de Personal.
 Tercero.- La presente Resolución entrará en vigor a partir del día siguiente a su publicación en el Boletín Oficial de Canarias. Las Palmas de Gran Canaria, a 12 de febrero de 2021.- El Director General de Personal, Fidel Benigno Trujillo Santana.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 12, Art. 4, Art. 7, Art. 131)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 12, Art. 4, Art. 7, Art. 131)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 12, Art. 4, Art. 7, Art. 131)
+- **Modifica**: `norm-es-lo-3-2020` (Art. 12, Art. 4, Art. 7, Art. 131)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**LO1_1982 Proteccion Civil del Derecho al Honor e Intimidad**](./LO1_1982_proteccion_civil_derecho_honor_intimidad_personal.md)
+- **Fundamento de**: [**BOE-A-2004-15601**](./LO1774_2004_aprueba_reglamento_ley_organica_reguladora_responsabilidad.md)
+- **Fundamento de**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
+- **Fundamento de**: [**LO10_2022 Garantia Integral de la Libertad Sexual**](../07_convivencia_bienestar_y_protocolos/LO10_2022_garantia_integral_libertad_sexual.md)
+- **Fundamento de**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md)
+- **Fundamento de**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **En concordancia con**: [**L40_2015 Regimen Juridico del Sector Publico**](./L40_2015_regimen_juridico_sector_publico.md) (Art. 17, Art. 9)

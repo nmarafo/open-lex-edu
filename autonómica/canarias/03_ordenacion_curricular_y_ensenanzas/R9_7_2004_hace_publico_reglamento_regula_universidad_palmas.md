@@ -21,6 +21,10 @@ tags:
 - ensenanzas-universitarias
 - oposiciones
 relaciones:
+  cita:
+  - norma_id: norm-es-2001-7022
+    articulos_origen:
+    - Art. 13
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-2001-7022
@@ -31,11 +35,12 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-2001-7022
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/2004/157/boc-2004-157-011.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=48984
 ---
+
 # Resolución de 9 de julio de 2004, por la que se hace público el Reglamento que regula en la Universidad de Las Palmas de Gran Canaria el Acceso para Mayores de 25 años (BOC n.º 157, de 13 de agosto).
 
 ## Preámbulo
@@ -193,3 +198,15 @@ La presente norma entrará en vigor a partir del día 1 de septiembre de 2004 y 
 
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - [**BOE-A-2001-7022**](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**BOE-A-2001-7022**](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**BOE-A-2001-7022**](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) desde *(Art. 13)*

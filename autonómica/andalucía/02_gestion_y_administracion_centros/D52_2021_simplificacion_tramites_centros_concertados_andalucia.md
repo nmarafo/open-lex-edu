@@ -33,6 +33,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Decreto 52/2021, de 19 de enero, por el que se regulan la simplificación de trámites administrativos en conciertos educativos.
 
 ## Preámbulo
@@ -77,15 +78,11 @@ Boletín 17
 
 ##
 
-Histórico del BOJA Boletín número 17 de 27/01/2021
-
 ## 1. Disposiciones generales
 
 ### Consejería de Empleo, Formación y Trabajo Autónomo
 
 ### Corrección de errores de la Resolución de 19 de enero de 2021, del Instituto Andaluz de la Juventud, por la que se regula la convocatoria para la aprobación de los proyectos correspondientes al Programa de Campos de Voluntariado Juvenil 2021 (BOJA núm. 14, de 22.1.2021).
-
-Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad con CVE 00184951. Advertido error en la Resolución de 19 de enero de 2021, del Instituto Andaluz de la Juventud, por la que se regula la convocatoria para la aprobación de los proyectos correspondientes al Programa de Campos de Voluntariado Juvenil 2021 (BOJA núm. 14, de 22 de enero de 2021), procede efectuar la rectificación en los siguientes términos:
 
 1. En el apartado «Tercero. Solicitudes, proyectos y plazo de presentación», dentro del subapartado 3. Donde dice:
 
@@ -132,3 +129,14 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

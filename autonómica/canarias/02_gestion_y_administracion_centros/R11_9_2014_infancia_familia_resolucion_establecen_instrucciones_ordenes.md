@@ -26,9 +26,35 @@ tags:
 relaciones:
   fundamentado_en:
   - norma_id: norm-can-d-212-1991
-  - norma_id: norm-can-l-6-2014
-  - norma_id: norm-es-2004-15601
+    articulos_destino:
+    - Art. 45
+    - Art. 3
   - norma_id: norm-es-lo-5-2000
+    articulos_destino:
+    - Art. 45
+    - Art. 3
+  - norma_id: norm-es-2004-15601
+    articulos_destino:
+    - Art. 21
+    - Art. 9
+    - Art. 54
+    disposiciones_destino:
+    - D. Final primera
+  - norma_id: norm-es-lo-5-2000
+    articulos_destino:
+    - Art. 21
+    - Art. 9
+    - Art. 54
+    disposiciones_destino:
+    - D. Final primera
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 21
+    - Art. 9
+    - Art. 54
+    disposiciones_destino:
+    - D. Final primera
+  - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   desarrolla:
@@ -37,13 +63,14 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-2004-15601
   - norma_id: norm-es-lo-5-2000
   - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2014-188-4160.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=71394
 ---
+
 # Dirección General de Dependencia, Infancia y Familia.- Resolución de 11 de septiembre de 2014, por la que se establecen las instrucciones y órdenes de servicio del Documento 1 \"Protocolo de Registros a Personas y Dependencias en los Centros de Internamiento Educativo para Menores Infractores (CIEMI) de la Comunidad Autónoma de Canarias», relativo al protocolo de actuación en materia de vigilancia y seguridad interior (BOC n.º 188, de 29 de septiembre).
 
 ## Preámbulo
@@ -179,3 +206,19 @@ DE SUSTANCIAS PROHIBIDAS
 - [**BOE-A-2004-15601**](../../../estatal/01_marco_normativo_general_y_organico/LO1774_2004_aprueba_reglamento_ley_organica_reguladora_responsabilidad.md)
 - [**LO5_2000 Responsabilidad Penal de los Menores**](../../../estatal/01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md)
 - [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
+- **Fundamentado en**: [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) (Art. 45, Art. 3)
+- **Fundamentado en**: [**LO5_2000 Responsabilidad Penal de los Menores**](../../../estatal/01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 45, Art. 3)
+- **Fundamentado en**: [**BOE-A-2004-15601**](../../../estatal/01_marco_normativo_general_y_organico/LO1774_2004_aprueba_reglamento_ley_organica_reguladora_responsabilidad.md) (Art. 21, Art. 9, Art. 54, D. Final primera)
+- **Fundamentado en**: [**LO5_2000 Responsabilidad Penal de los Menores**](../../../estatal/01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 21, Art. 9, Art. 54, D. Final primera)
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 21, Art. 9, Art. 54, D. Final primera)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

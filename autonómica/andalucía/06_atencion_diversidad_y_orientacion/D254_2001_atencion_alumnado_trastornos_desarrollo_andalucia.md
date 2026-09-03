@@ -33,6 +33,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-1-1996
 ---
+
 # Decreto 254/2001, de 20 de noviembre, por el que se regula la atención educativa al alumnado con trastornos de desarrollo y necesidades educativas especiales asociadas.
 
 ## Preámbulo
@@ -76,8 +77,6 @@ Empleo público
 Boletín 140
 
 ##
-
-Histórico del BOJA Boletín número 140 de 04/12/2001
 
 ## 1. Disposiciones generales
 
@@ -256,9 +255,7 @@ Noveno. Se faculta al Director de la ESPA para clarificar cuantas dudas pudieran
 
 Sevilla, 14 de noviembre de 2001.- El Director General, Juan María Cornejo López.
 
-## Anexo I
-
-PLAN ANUAL DE FORMACION DE LA ESPA PARA EL EJERCICIO ACADEMICO
+## Anexo I. PLAN ANUAL DE FORMACION DE LA ESPA PARA EL EJERCICIO ACADEMICO
 
 **1.1.** Cursos para los Cuerpos de la Policía Local.
 
@@ -968,3 +965,13 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)

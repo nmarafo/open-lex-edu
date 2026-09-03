@@ -35,12 +35,27 @@ tags:
 - personal-no-docente
 - profesorado
 relaciones:
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 117
+    - Art. 118
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 68
+    disposiciones_destino:
+    - D. Adicional cuarta
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+  concordancia:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 17
+    - Art. 118
+    - Art. 103
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
   - norma_id: norm-can-res-boc-2024-049-109
   - norma_id: norm-can-res-boc-2025-039-104
@@ -52,9 +67,10 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '84'
+  - norma_id: '84'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-018-273.pdf
 ---
+
 # Decreto 9/2022, de 20 de enero, por el que se regula la admisión del alumnado en los centros docentes públicos y privados concertados que imparten enseñanzas no universitarias en la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -124,3 +140,23 @@ Quinto.- Quedará sin efecto el nombramiento y anuladas las actuaciones, salvo c
 
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: `norm-es-c-1978` (Art. 117, Art. 118)
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 68, D. Adicional cuarta)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamento de**: [**Resolucion BOC 109**](./R27_2_2024_dgacesc_dictan_instrucciones_proceso_admision_alumnado.md)
+- **Fundamento de**: [**Resolucion BOC 104**](./R17_2_2025_escolarizacion_servicios_complementarios_dictan_instrucciones_especificas.md)
+- **Fundamento de**: [**Resolucion BOC 107**](./R24_2_2025_convoca_procedimiento_admision_alumnado_ciclos_formativos.md)
+- **Fundamento de**: [**Resolucion BOC 108**](./R24_2_2025_dictan_instrucciones_proceso_admision_alumnado_ciclos.md)
+- **Fundamento de**: [**Resolucion BOC 102**](./R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md)
+- **Fundamento de**: [**Resolucion BOC 103**](./R13_2_2026_dictan_instrucciones_proceso_admision_alumnado_ciclos.md)
+- **Fundamento de**: [**Resolucion BOC 111**](./R5_2_2026_dgacesc_convoca_procedimiento_admision_alumnado_centros.md)
+- **En concordancia con**: `norm-es-c-1978` (Art. 17, Art. 118, Art. 103)

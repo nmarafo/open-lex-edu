@@ -25,6 +25,38 @@ tags:
 - deporte
 - andalucia
 relaciones:
+  deroga:
+  - norma_id: norm-es-1985-5392
+    titulo_destino: Título V
+    articulos_destino:
+    - Art. 60
+    - Art. 149
+    - Art. 56
+    - Art. 64
+    - Art. 65
+    - Art. 66
+    - Art. 37
+    - Art. 27
+    - Art. 1
+  - norma_id: norm-es-c-1978
+    titulo_destino: Título V
+    articulos_destino:
+    - Art. 60
+    - Art. 149
+    - Art. 56
+    - Art. 64
+    - Art. 65
+    - Art. 66
+    - Art. 37
+    - Art. 27
+    - Art. 1
+  cita:
+  - norma_id: norm-es-1985-5392
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 65
+    - Art. 66
   desarrolla:
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
@@ -32,6 +64,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Decreto 68/2008, de 26 de febrero, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial en Andalucía.
 
 ## Preámbulo
@@ -118,4 +151,15 @@ Se habilita a la Consejera de Gobernación para dictar las disposiciones y actos
 
 #### Disposición final segunda. Entrada en vigor.
 
-El presente Decreto entrará en vigor a los dos meses de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 12 de febrero de 2008 MANUEL CHAVES GONZÁLEZ Presidente de la Junta de Andalucía GASPAR ZARRÍAS ARÉVALO Consejero de la Presidencia
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Deroga**: [**BOE-A-1985-5392**](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md) (Título V, Art. 60, Art. 149, Art. 56, Art. 64, Art. 65, Art. 66, Art. 37, Art. 27, Art. 1)
+- **Deroga**: `norm-es-c-1978` (Título V, Art. 60, Art. 149, Art. 56, Art. 64, Art. 65, Art. 66, Art. 37, Art. 27, Art. 1)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**BOE-A-1985-5392**](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md) (Art. 65, Art. 66) desde *(Art. 8)*

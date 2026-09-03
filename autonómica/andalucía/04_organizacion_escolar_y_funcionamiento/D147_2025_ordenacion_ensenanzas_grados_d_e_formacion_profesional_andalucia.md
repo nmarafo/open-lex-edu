@@ -8,9 +8,11 @@ jurisdiccion: Andalucía
 ambito: Autonómico
 organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional
 tipo_disposicion: Decreto
+fecha_disposicion: '2025-09-17'
 estado: Vigente
 redaccion: boja_oficial
 fuente_oficial: https://www.juntadeandalucia.es/eboja/2025/217901/BOJA25-217901-00033-12402-01_00326000.pdf
+fuente_pdf_oficial: https://www.juntadeandalucia.es/eboja/2025/217901/BOJA25-217901-00033-12402-01_00326000.pdf
 clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Formación Profesional
@@ -20,9 +22,404 @@ tags:
 - grados_d_e
 - curriculo
 - andalucia
-fuente_pdf_oficial: https://www.juntadeandalucia.es/eboja/2025/217901/BOJA25-217901-00033-12402-01_00326000.pdf
-fecha_disposicion: '2025-09-17'
+relaciones:
+  cita:
+  - norma_id: norm-es-rd-659-2023
+    capitulo_origen: Capítulo IX. Personal experto.
+    articulos_origen:
+    - D. Transitoria primera. Criterios de admisión del alumnado en segundo
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo IX. Personal experto.
+    articulos_origen:
+    - D. Final cuarta. Entrada en vigor.
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo IX. Personal experto.
+    articulos_origen:
+    - D. Final cuarta. Entrada en vigor.
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo IX. Personal experto.
+    articulos_origen:
+    - D. Final cuarta. Entrada en vigor.
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo IX. Personal experto.
+    articulos_origen:
+    - D. Final cuarta. Entrada en vigor.
+  - norma_id: norm-es-lo-3-2022
+    capitulo_origen: Capítulo V. La Ley Orgánica 3/2022, de 31 de marzo, de ordenación
+      e integración de la Formación
+    capitulo_destino: Capítulo V
+  - norma_id: norm-and-l17-2007
+    capitulo_origen: Capítulo V. La Ley Orgánica 3/2022, de 31 de marzo, de ordenación
+      e integración de la Formación
+  - norma_id: norm-es-l-39-2015
+    capitulo_origen: Capítulo V. del Título II. En ella se fundamentan las normas
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-l-39-2015
+    capitulo_origen: Capítulo V. del Título II. En ella se fundamentan las normas
+    articulos_destino:
+    - Art. 133
+  - norma_id: norm-es-lo-3-2022
+    capitulo_origen: Capítulo I. Disposiciones de carácter general
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-rd-659-2023
+    capitulo_origen: Capítulo I. Disposiciones de carácter general
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-rd-659-2023
+    capitulo_origen: Capítulo I. Disposiciones de carácter general
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo I. Disposiciones de carácter general
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 39
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo I. Disposiciones de carácter general
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 39
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo I. Disposiciones de carácter general
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 39
+  - norma_id: norm-es-lo-3-2022
+    capitulo_origen: Capítulo I. Disposiciones de carácter general
+    articulos_origen:
+    - D. Final tercera de la Ley Orgánica 3/2022, de 31 de. marzo, dispone que será
+      esta ley la que ordene las enseñanzas de formación profesional
+    disposiciones_destino:
+    - D. Final tercera
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo I. Disposiciones de carácter general
+    articulos_origen:
+    - D. Final tercera de la Ley Orgánica 3/2022, de 31 de. marzo, dispone que será
+      esta ley la que ordene las enseñanzas de formación profesional
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo I. Disposiciones de carácter general
+    articulos_origen:
+    - D. Final tercera de la Ley Orgánica 3/2022, de 31 de. marzo, dispone que será
+      esta ley la que ordene las enseñanzas de formación profesional
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo I. Disposiciones de carácter general
+    articulos_origen:
+    - D. Final tercera de la Ley Orgánica 3/2022, de 31 de. marzo, dispone que será
+      esta ley la que ordene las enseñanzas de formación profesional
+  - norma_id: norm-and-d102-2023
+    capitulo_origen: Capítulo I. Disposiciones de carácter general
+    articulos_origen:
+    - Art. 5
+  - norma_id: norm-and-d102-2023
+    capitulo_origen: Capítulo I. Disposiciones de carácter general
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 24
+  - norma_id: norm-es-rd-217-2022
+    capitulo_origen: Capítulo I. Disposiciones de carácter general
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 25
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo I. Disposiciones de carácter general
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 30
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo I. Disposiciones de carácter general
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 30
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo I. Disposiciones de carácter general
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 30
+  - norma_id: norm-es-rd-659-2023
+    capitulo_origen: Capítulo I. Disposiciones de carácter general
+    articulos_origen:
+    - Art. 7
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo I. Disposiciones de carácter general
+    articulos_origen:
+    - Art. 7
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo I. Disposiciones de carácter general
+    articulos_origen:
+    - Art. 7
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo I. Disposiciones de carácter general
+    articulos_origen:
+    - Art. 7
+  - norma_id: norm-es-rd-659-2023
+    capitulo_origen: Capítulo II. Currículos de los Grados D y E
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 7
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo II. Currículos de los Grados D y E
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 120
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo II. Currículos de los Grados D y E
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 120
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo II. Currículos de los Grados D y E
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 120
+  - norma_id: norm-es-rd-659-2023
+    capitulo_origen: Capítulo II. Currículos de los Grados D y E
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 9
+  - norma_id: norm-es-lo-3-2022
+    capitulo_origen: Capítulo II. Currículos de los Grados D y E
+    articulos_origen:
+    - Art. 11
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-lo-3-2022
+    capitulo_origen: Capítulo II. Currículos de los Grados D y E
+    articulos_origen:
+    - Art. 12
+    articulos_destino:
+    - Art. 66
+    - Art. 67
+  - norma_id: norm-es-rd-659-2023
+    capitulo_origen: Capítulo II. Currículos de los Grados D y E
+    articulos_origen:
+    - Art. 12
+    articulos_destino:
+    - Art. 159
+  - norma_id: norm-es-rd-659-2023
+    capitulo_origen: Capítulo II. Currículos de los Grados D y E
+    articulos_origen:
+    - Art. 14
+    articulos_destino:
+    - Art. 97
+  - norma_id: norm-es-rd-659-2023
+    capitulo_origen: Capítulo II. Currículos de los Grados D y E
+    articulos_origen:
+    - Art. 15
+    articulos_destino:
+    - Art. 7
+  - norma_id: norm-es-rd-659-2023
+    capitulo_origen: Capítulo III. Modalidades y planificación de la oferta
+    articulos_origen:
+    - Art. 19
+    articulos_destino:
+    - Art. 33
+  - norma_id: norm-es-rd-659-2023
+    capitulo_origen: Capítulo III. Modalidades y planificación de la oferta
+    articulos_origen:
+    - Art. 20
+  - norma_id: norm-es-rd-659-2023
+    capitulo_origen: Capítulo IV. Acceso, admisión y escolarización
+    articulos_origen:
+    - Art. 24
+  - norma_id: norm-es-rd-659-2023
+    capitulo_origen: Capítulo IV. Acceso, admisión y escolarización
+    articulos_origen:
+    - Art. 24
+    articulos_destino:
+    - Art. 109
+    - Art. 113
+  - norma_id: norm-es-rd-659-2023
+    capitulo_origen: Capítulo V. Evaluación, calificación y titulación
+    articulos_origen:
+    - Art. 27
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VI. Centros
+    articulos_origen:
+    - Art. 33
+  - norma_id: norm-es-2005-21534
+    capitulo_origen: Capítulo VI. Centros
+    articulos_origen:
+    - Art. 34
+  - norma_id: norm-es-lo-3-2022
+    capitulo_origen: Capítulo VI. Centros
+    articulos_origen:
+    - Art. 37
+  - norma_id: norm-es-rd-659-2023
+    capitulo_origen: Capítulo VI. Centros
+    articulos_origen:
+    - Art. 38
+    articulos_destino:
+    - Art. 205
+  - norma_id: norm-es-rd-659-2023
+    capitulo_origen: Capítulo VI. Centros
+    articulos_origen:
+    - Art. 38
+    articulos_destino:
+    - Art. 199
+  - norma_id: norm-es-rd-659-2023
+    capitulo_origen: Capítulo IX. Personal experto
+    articulos_origen:
+    - Art. 41
+    articulos_destino:
+    - Art. 170
+  - norma_id: norm-es-rd-659-2023
+    capitulo_origen: Capítulo III. el procedimiento de provisión de puestos de profesorado
+      especialista con
+    articulos_origen:
+    - D. Transitoria primera. Criterios de admisión del alumnado en segundo
+  - norma_id: norm-and-d-436-2008
+    capitulo_origen: Capítulo III. el procedimiento de provisión de puestos de profesorado
+      especialista con
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo III. el procedimiento de provisión de puestos de profesorado
+      especialista con
+    articulos_origen:
+    - D. Final primera. Reproducción de normativa estatal.
+  - norma_id: norm-es-lo-3-2022
+    capitulo_origen: Capítulo III. el procedimiento de provisión de puestos de profesorado
+      especialista con
+    articulos_origen:
+    - D. Final primera. Reproducción de normativa estatal.
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo III. el procedimiento de provisión de puestos de profesorado
+      especialista con
+    articulos_origen:
+    - D. Final primera. Reproducción de normativa estatal.
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo III. el procedimiento de provisión de puestos de profesorado
+      especialista con
+    articulos_origen:
+    - D. Final primera. Reproducción de normativa estatal.
+  - norma_id: norm-and-l17-2007
+    capitulo_origen: Capítulo III. el procedimiento de provisión de puestos de profesorado
+      especialista con
+    articulos_origen:
+    - D. Final segunda. Reproducción de normativa autonómica.
+  desarrolla:
+  - norma_id: norm-es-lo-3-2022
+    capitulo_origen: Capítulo V. La Ley Orgánica 3/2022, de 31 de marzo, de ordenación
+      e integración de la Formación
+  fundamentado_en:
+  - norma_id: norm-es-rd-659-2023
+    capitulo_origen: Capítulo I. Disposiciones de carácter general
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-rd-659-2023
+    capitulo_origen: Capítulo I. Disposiciones de carácter general
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 85
+  - norma_id: norm-es-rd-659-2023
+    capitulo_origen: Capítulo I. Disposiciones de carácter general
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 89
+  - norma_id: norm-es-rd-659-2023
+    capitulo_origen: Capítulo I. Disposiciones de carácter general
+    articulos_origen:
+    - Art. 6
+    articulos_destino:
+    - Art. 96
+  - norma_id: norm-es-lo-3-2022
+    capitulo_origen: Capítulo I. Disposiciones de carácter general
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 13
+  - norma_id: norm-es-rd-659-2023
+    capitulo_origen: Capítulo II. Currículos de los Grados D y E
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 10
+  - norma_id: norm-es-rd-659-2023
+    capitulo_origen: Capítulo II. Currículos de los Grados D y E
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 164
+  - norma_id: norm-and-l17-2007
+    capitulo_origen: Capítulo II. Currículos de los Grados D y E
+    articulos_origen:
+    - Art. 14
+    articulos_destino:
+    - Art. 125
+  - norma_id: norm-es-lo-3-2022
+    capitulo_origen: Capítulo III. Modalidades y planificación de la oferta
+    articulos_origen:
+    - Art. 18
+    articulos_destino:
+    - Art. 78
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo IV. Acceso, admisión y escolarización
+    articulos_origen:
+    - Art. 25
+    articulos_destino:
+    - Art. 75
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo IV. Acceso, admisión y escolarización
+    articulos_origen:
+    - Art. 25
+    articulos_destino:
+    - Art. 75
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo IV. Acceso, admisión y escolarización
+    articulos_origen:
+    - Art. 25
+    articulos_destino:
+    - Art. 75
+  - norma_id: norm-and-l17-2007
+    capitulo_origen: Capítulo IV. Acceso, admisión y escolarización
+    articulos_origen:
+    - Art. 25
+    articulos_destino:
+    - Art. 70
+  - norma_id: norm-es-rd-659-2023
+    capitulo_origen: Capítulo IV. Acceso, admisión y escolarización
+    articulos_origen:
+    - Art. 26
+    articulos_destino:
+    - Art. 24
+  - norma_id: norm-es-lo-3-2022
+    capitulo_origen: Capítulo VI. Centros
+    articulos_origen:
+    - Art. 33
+    articulos_destino:
+    - Art. 77
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo III. el procedimiento de provisión de puestos de profesorado
+      especialista con
+    articulos_origen:
+    - D. Final primera. Reproducción de normativa estatal.
+    articulos_destino:
+    - Art. 149
 ---
+
 # Decreto 147/2025, de 17 de septiembre, por el que se establece la ordenación de las enseñanzas de los Grados D y E del Sistema de Formación Profesional en la Comunidad Autónoma de Andalucía.
 
 ## Preámbulo
@@ -33,7 +430,7 @@ ordenación de las enseñanzas de los Grados D y E del Sistema de Formación
 
 Profesional en la Comunidad Autónoma de Andalucía.
 
-## CAPÍTULO I. Disposiciones de carácter general.
+### Capítulo I. Disposiciones de carácter general.
 
 #### Artículo 1. Objeto y ámbito de aplicación.
 
@@ -55,7 +452,7 @@ medio y superior.
 
 #### Artículo 8. Atención a las diferencias individuales.
 
-## CAPÍTULO II. Currículos de los Grados D y E.
+### Capítulo II. Currículos de los Grados D y E.
 
 #### Artículo 9. Currículo.
 
@@ -71,7 +468,7 @@ Artículo 14. Autonomía pedagógica, organizativa y de gestión de los centros
 
 #### Artículo 15. Catálogo Modular Andaluz de Formación Profesional.
 
-## CAPÍTULO III. Modalidades y planificación de la oferta.
+### Capítulo III. Modalidades y planificación de la oferta.
 
 #### Artículo 16. Modalidades de la oferta.
 
@@ -93,7 +490,7 @@ formativos.
 
 #### Artículo 23. Ofertas formativas de carácter comarcal.
 
-## CAPÍTULO IV. Acceso, admisión y escolarización.
+### Capítulo IV. Acceso, admisión y escolarización.
 
 #### Artículo 24. Acceso.
 
@@ -101,7 +498,7 @@ formativos.
 
 #### Artículo 26. Matrícula, convalidación y exención.
 
-## CAPÍTULO V. Evaluación, calificación y titulación.
+### Capítulo V. Evaluación, calificación y titulación.
 
 #### Artículo 27. Aspectos comunes sobre evaluación y la calificación en los Grados D y E.
 
@@ -111,7 +508,7 @@ formativos.
 
 #### Artículo 30. Vías de obtención de títulos, certificados y acreditaciones.
 
-## CAPÍTULO VI. Centros.
+### Capítulo VI. Centros.
 
 #### Artículo 31. Centros docentes que pueden impartir ofertas de Grado D y E.
 
@@ -120,8 +517,6 @@ formativos.
 00326000
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
-
-Boletín Oficial de la Junta de Andalucía
 
 BOJA
 
@@ -139,15 +534,15 @@ BOJA
 
 #### Artículo 38. Requisitos para centros privados no sostenidos con fondos públicos.
 
-## CAPÍTULO VII. Orientación profesional y tutoría.
+### Capítulo VII. Orientación profesional y tutoría.
 
 #### Artículo 39. Orientación profesional.
 
-## CAPÍTULO VIII. Garantía de calidad y mejora continua.
+### Capítulo VIII. Garantía de calidad y mejora continua.
 
 #### Artículo 40. Calidad y mejora continua.
 
-## CAPÍTULO IX. Personal experto.
+### Capítulo IX. Personal experto.
 
 #### Artículo 41. Personal experto del sector productivo.
 
@@ -219,11 +614,11 @@ profesiones, el acceso al empleo y la participación activa en la vida social, c
 
 económica y establece en el 
 
-## Capítulo I. del Título I la ordenación de las enseñanzas y sus
+### Capítulo I. del Título I la ordenación de las enseñanzas y sus
 
 etapas, regulando la Formación Profesional en el 
 
-## Capítulo V. La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación
+### Capítulo V. La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación
 
 Profesional determina que el Sistema de Formación Profesional está compuesto por un
 
@@ -232,8 +627,6 @@ conjunto articulado de actuaciones dirigidas a identificar las competencias prof
 00326000
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
-
-Boletín Oficial de la Junta de Andalucía
 
 BOJA
 
@@ -307,7 +700,7 @@ todas las enseñanzas del Sistema Educativo de Andalucía y, entre ellas, la for
 
 profesional, a la que dedica el 
 
-## Capítulo V. del Título II. En ella se fundamentan las normas
+### Capítulo V. del Título II. En ella se fundamentan las normas
 
 que han de regir el desarrollo de estas enseñanzas en la Comunidad Autónoma de
 
@@ -352,8 +745,6 @@ de los centros docentes que los conformen.
 00326000
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
-
-Boletín Oficial de la Junta de Andalucía
 
 BOJA
 
@@ -445,7 +836,7 @@ día 17 de septiembre de 2025,
 
 D I S P O N G O
 
-## CAPÍTULO I. Disposiciones de carácter general
+### Capítulo I. Disposiciones de carácter general
 
 #### Artículo 1. Objeto y ámbito de aplicación.
 
@@ -458,8 +849,6 @@ Formación Profesional en la Comunidad Autónoma de Andalucía, de acuerdo con l
 00326000
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
-
-Boletín Oficial de la Junta de Andalucía
 
 BOJA
 
@@ -570,8 +959,6 @@ los perfiles profesionales necesarios en cada momento, teniendo en cuenta el car
 00326000
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
-
-Boletín Oficial de la Junta de Andalucía
 
 BOJA
 
@@ -687,8 +1074,6 @@ instalaciones y recursos.
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
 
-Boletín Oficial de la Junta de Andalucía
-
 BOJA
 
 BOJA
@@ -757,7 +1142,7 @@ variable, que integrará los contenidos teórico-prácticos adecuados a los dive
 
 profesionales. Por su parte, la 
 
-#### disposición final tercera de la Ley Orgánica 3/2022, de 31 de. marzo, dispone que será esta ley la que ordene las enseñanzas de formación profesional
+#### Disposición final tercera. de la Ley Orgánica 3/2022, de 31 de. marzo, dispone que será esta ley la que ordene las enseñanzas de formación profesional
 
 de la Ley Orgánica 2/2006, de 3 de mayo.
 
@@ -796,8 +1181,6 @@ Andalucía, garantiza el desarrollo de las competencias clave previsto en el per
 00326000
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
-
-Boletín Oficial de la Junta de Andalucía
 
 BOJA
 
@@ -913,8 +1296,6 @@ grado básico dirigidos a colectivos específicos para:
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
 
-Boletín Oficial de la Junta de Andalucía
-
 BOJA
 
 BOJA
@@ -1022,8 +1403,6 @@ titulaciones de acceso.
 00326000
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
-
-Boletín Oficial de la Junta de Andalucía
 
 BOJA
 
@@ -1141,13 +1520,11 @@ posible la consecución de los resultados de aprendizaje.
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
 
-Boletín Oficial de la Junta de Andalucía
-
 BOJA
 
 BOJA
 
-## CAPÍTULO II. Currículos de los Grados D y E
+### Capítulo II. Currículos de los Grados D y E
 
 #### Artículo 9. Currículo.
 
@@ -1252,8 +1629,6 @@ Catálogo Modular Andaluz de Formación Profesional.
 00326000
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
-
-Boletín Oficial de la Junta de Andalucía
 
 BOJA
 
@@ -1365,8 +1740,6 @@ centros docentes. Se exceptúan de esta autorización a aquellos Grados E que, s
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
 
-Boletín Oficial de la Junta de Andalucía
-
 BOJA
 
 BOJA
@@ -1477,8 +1850,6 @@ se regirá por lo establecido en los artículos 66 y 67 de la Ley Orgánica 3/20
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
 
-Boletín Oficial de la Junta de Andalucía
-
 BOJA
 
 BOJA
@@ -1587,8 +1958,6 @@ las personas en formación, con especial atención a aquellas personas que prese
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
 
-Boletín Oficial de la Junta de Andalucía
-
 BOJA
 
 BOJA
@@ -1695,13 +2064,11 @@ cursar con carácter presencial en cada uno de ellos.
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
 
-Boletín Oficial de la Junta de Andalucía
-
 BOJA
 
 BOJA
 
-## CAPÍTULO III. Modalidades y planificación de la oferta
+### Capítulo III. Modalidades y planificación de la oferta
 
 #### Artículo 16. Modalidades de la oferta.
 
@@ -1802,8 +2169,6 @@ conformidad con lo establecido en el artículo 78.2 de la Ley Orgánica 3/2022, 
 00326000
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
-
-Boletín Oficial de la Junta de Andalucía
 
 BOJA
 
@@ -1917,8 +2282,6 @@ cuando se trate de una oferta de Grado D de ciclo formativo de grado básico.
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
 
-Boletín Oficial de la Junta de Andalucía
-
 BOJA
 
 BOJA
@@ -2031,8 +2394,6 @@ Profesional» y podrán tener una duración de tres cursos académicos.
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
 
-Boletín Oficial de la Junta de Andalucía
-
 BOJA
 
 BOJA
@@ -2081,7 +2442,7 @@ pudiendo, en este marco, adoptar medidas específicas destinadas a garantizar el
 
 equitativo a la Formación Profesional en zonas rurales.
 
-## CAPÍTULO IV. Acceso, admisión y escolarización
+### Capítulo IV. Acceso, admisión y escolarización
 
 #### Artículo 24. Acceso.
 
@@ -2136,8 +2497,6 @@ acceso a los ciclos formativos de grado medio y superior, conforme a lo establec
 00326000
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
-
-Boletín Oficial de la Junta de Andalucía
 
 BOJA
 
@@ -2249,8 +2608,6 @@ realice el centro y podrá ser consultado en la Secretaria Virtual de los centro
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
 
-Boletín Oficial de la Junta de Andalucía
-
 BOJA
 
 BOJA
@@ -2359,13 +2716,11 @@ exención y los efectos académicos de la misma.
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
 
-Boletín Oficial de la Junta de Andalucía
-
 BOJA
 
 BOJA
 
-## CAPÍTULO V. Evaluación, calificación y titulación
+### Capítulo V. Evaluación, calificación y titulación
 
 #### Artículo 27. Aspectos comunes sobre evaluación y calificación en los Grados D y E.
 
@@ -2466,8 +2821,6 @@ proyecto, a partir de la fecha en la que el alumnado se haya matriculado.
 00326000
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
-
-Boletín Oficial de la Junta de Andalucía
 
 BOJA
 
@@ -2577,8 +2930,6 @@ centros docentes puedan recoger en sus proyectos educativos.
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
 
-Boletín Oficial de la Junta de Andalucía
-
 BOJA
 
 BOJA
@@ -2647,7 +2998,7 @@ c) La superación de las pruebas libres para la superación de módulos incluido
 
 títulos de Técnico y Técnico Superior.
 
-## CAPÍTULO VI. Centros
+### Capítulo VI. Centros
 
 #### Artículo 31. Centros docentes que pueden impartir ofertas de Grados D y E.
 
@@ -2678,8 +3029,6 @@ c) Centros integrados de Formación Profesional.
 00326000
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
-
-Boletín Oficial de la Junta de Andalucía
 
 BOJA
 
@@ -2790,8 +3139,6 @@ cualquiera de los grados de las familias profesionales que tengan autorizadas.
 00326000
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
-
-Boletín Oficial de la Junta de Andalucía
 
 BOJA
 
@@ -2905,8 +3252,6 @@ educación, con excepción de las pruebas presenciales.
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
 
-Boletín Oficial de la Junta de Andalucía
-
 BOJA
 
 BOJA
@@ -3017,8 +3362,6 @@ profesional de los Grados D o E se regirá por el principio de autorización adm
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
 
-Boletín Oficial de la Junta de Andalucía
-
 BOJA
 
 BOJA
@@ -3117,9 +3460,7 @@ su alumnado para el total de puestos escolares solicitados, asumiendo la condici
 
 de empresario y, por tanto, las obligaciones establecidas en la 
 
-#### Disposición adicional
-
-quincuagésima segunda del texto refundido de la Ley General de la Seguridad Social,. aprobado mediante Real Decreto Legislativo 8/2015, de 30 de octubre.
+#### Disposición adicional quincuagésima. segunda del texto refundido de la Ley General de la Seguridad Social,. aprobado mediante Real Decreto Legislativo 8/2015, de 30 de octubre.
 
 g) Una declaración responsable firmada por la persona titular del centro y por
 
@@ -3130,8 +3471,6 @@ técnico competente, visado por el colegio profesional correspondiente, que mues
 00326000
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
-
-Boletín Oficial de la Junta de Andalucía
 
 BOJA
 
@@ -3161,7 +3500,7 @@ regula el Sistema de Información Séneca y se establece su utilización para la
 
 sistema educativo andaluz.
 
-## CAPÍTULO VII. Orientación profesional y tutoría
+### Capítulo VII. Orientación profesional y tutoría
 
 #### Artículo 39. Orientación profesional.
 
@@ -3219,7 +3558,7 @@ alumnado de los Grados D y E sostenidos con fondos públicos, impulsando la form
 
 y la capacitación del profesorado de la especialidad de Formación y Orientación Laboral.
 
-## CAPÍTULO VIII. Garantía de calidad y mejora continua
+### Capítulo VIII. Garantía de calidad y mejora continua
 
 #### Artículo 40. Calidad y mejora continua.
 
@@ -3232,8 +3571,6 @@ correspondientes a los Grados D y E y, en especial, a la cualificación y formac
 00326000
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
-
-Boletín Oficial de la Junta de Andalucía
 
 BOJA
 
@@ -3269,7 +3606,7 @@ participación en innovación e investigación aplicadas y el emprendimiento y l
 
 ajustada a las necesidades del entorno.
 
-## CAPÍTULO IX. Personal experto
+### Capítulo IX. Personal experto
 
 #### Artículo 41. Personal experto del sector productivo.
 
@@ -3331,7 +3668,7 @@ docente, así como las bases aplicables al personal integrante de la misma, que 
 
 en el 
 
-## capítulo III. el procedimiento de provisión de puestos de profesorado especialista con
+### Capítulo III. el procedimiento de provisión de puestos de profesorado especialista con
 
 carácter provisional, concretando en su artículo 26 el régimen de contratación de dicho
 
@@ -3344,8 +3681,6 @@ en los términos establecidos por la normativa vigente.
 00326000
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
-
-Boletín Oficial de la Junta de Andalucía
 
 BOJA
 
@@ -3455,8 +3790,6 @@ de Sostenibilidad aplicada a los sectores productivos y Digitalización aplicada
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
 
-Boletín Oficial de la Junta de Andalucía
-
 BOJA
 
 BOJA
@@ -3561,8 +3894,6 @@ Decreto 659/2023, de 18 de julio.
 
 Número 179 C1 - Miércoles, 17 de septiembre de 2025
 
-Boletín Oficial de la Junta de Andalucía
-
 BOJA
 
 BOJA
@@ -3598,3 +3929,83 @@ MARÍA DEL CARMEN CASTILLO MENA
 Consejera de Desarrollo Educativo
 
 y Formación Profesional
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(Capítulo V. La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación)*
+- **Fundamentado en**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 2) desde *(Capítulo I. Disposiciones de carácter general, Art. 2)*
+- **Fundamentado en**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 85) desde *(Capítulo I. Disposiciones de carácter general, Art. 5)*
+- **Fundamentado en**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 89) desde *(Capítulo I. Disposiciones de carácter general, Art. 5)*
+- **Fundamentado en**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 96) desde *(Capítulo I. Disposiciones de carácter general, Art. 6)*
+- **Fundamentado en**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 13) desde *(Capítulo I. Disposiciones de carácter general, Art. 7)*
+- **Fundamentado en**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 10) desde *(Capítulo II. Currículos de los Grados D y E, Art. 9)*
+- **Fundamentado en**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 164) desde *(Capítulo II. Currículos de los Grados D y E, Art. 10)*
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) (Art. 125) desde *(Capítulo II. Currículos de los Grados D y E, Art. 14)*
+- **Fundamentado en**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 78) desde *(Capítulo III. Modalidades y planificación de la oferta, Art. 18)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 75) desde *(Capítulo IV. Acceso, admisión y escolarización, Art. 25)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 75) desde *(Capítulo IV. Acceso, admisión y escolarización, Art. 25)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 75) desde *(Capítulo IV. Acceso, admisión y escolarización, Art. 25)*
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) (Art. 70) desde *(Capítulo IV. Acceso, admisión y escolarización, Art. 25)*
+- **Fundamentado en**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 24) desde *(Capítulo IV. Acceso, admisión y escolarización, Art. 26)*
+- **Fundamentado en**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 77) desde *(Capítulo VI. Centros, Art. 33)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Capítulo III. el procedimiento de provisión de puestos de profesorado especialista con, D. Final primera. Reproducción de normativa estatal.)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) desde *(Capítulo IX. Personal experto., D. Transitoria primera. Criterios de admisión del alumnado en segundo)*
+- **Cita a**: `norm-es-c-1978` desde *(Capítulo IX. Personal experto., D. Final cuarta. Entrada en vigor.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo IX. Personal experto., D. Final cuarta. Entrada en vigor.)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo IX. Personal experto., D. Final cuarta. Entrada en vigor.)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo IX. Personal experto., D. Final cuarta. Entrada en vigor.)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Capítulo V) desde *(Capítulo V. La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación)*
+- **Cita a**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) desde *(Capítulo V. La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 129) desde *(Capítulo V. del Título II. En ella se fundamentan las normas)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 133) desde *(Capítulo V. del Título II. En ella se fundamentan las normas)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(Capítulo I. Disposiciones de carácter general, Art. 1)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) desde *(Capítulo I. Disposiciones de carácter general, Art. 1)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 3) desde *(Capítulo I. Disposiciones de carácter general, Art. 3)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 39) desde *(Capítulo I. Disposiciones de carácter general, Art. 4)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 39) desde *(Capítulo I. Disposiciones de carácter general, Art. 4)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 39) desde *(Capítulo I. Disposiciones de carácter general, Art. 4)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (D. Final tercera) desde *(Capítulo I. Disposiciones de carácter general, D. Final tercera de la Ley Orgánica 3/2022, de 31 de. marzo, dispone que será esta ley la que ordene las enseñanzas de formación profesional)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo I. Disposiciones de carácter general, D. Final tercera de la Ley Orgánica 3/2022, de 31 de. marzo, dispone que será esta ley la que ordene las enseñanzas de formación profesional)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo I. Disposiciones de carácter general, D. Final tercera de la Ley Orgánica 3/2022, de 31 de. marzo, dispone que será esta ley la que ordene las enseñanzas de formación profesional)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo I. Disposiciones de carácter general, D. Final tercera de la Ley Orgánica 3/2022, de 31 de. marzo, dispone que será esta ley la que ordene las enseñanzas de formación profesional)*
+- **Cita a**: [**Decreto 102/2023, de 9 de mayo, por el que se establece la ordenación y el **](../03_ordenacion_curricular_y_ensenanzas/D102_2023_ordenacion_curriculo_educacion_primaria_andalucia.md) desde *(Capítulo I. Disposiciones de carácter general, Art. 5)*
+- **Cita a**: [**Decreto 102/2023, de 9 de mayo, por el que se establece la ordenación y el **](../03_ordenacion_curricular_y_ensenanzas/D102_2023_ordenacion_curriculo_educacion_primaria_andalucia.md) (Art. 24) desde *(Capítulo I. Disposiciones de carácter general, Art. 5)*
+- **Cita a**: [**RD217_2022 Ordenacion y Ensenanzas Minimas de la ESO**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md) (Art. 25) desde *(Capítulo I. Disposiciones de carácter general, Art. 5)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 30) desde *(Capítulo I. Disposiciones de carácter general, Art. 5)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 30) desde *(Capítulo I. Disposiciones de carácter general, Art. 5)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 30) desde *(Capítulo I. Disposiciones de carácter general, Art. 5)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) desde *(Capítulo I. Disposiciones de carácter general, Art. 7)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo I. Disposiciones de carácter general, Art. 7)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo I. Disposiciones de carácter general, Art. 7)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo I. Disposiciones de carácter general, Art. 7)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 7) desde *(Capítulo II. Currículos de los Grados D y E, Art. 9)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 120) desde *(Capítulo II. Currículos de los Grados D y E, Art. 9)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 120) desde *(Capítulo II. Currículos de los Grados D y E, Art. 9)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 120) desde *(Capítulo II. Currículos de los Grados D y E, Art. 9)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 9) desde *(Capítulo II. Currículos de los Grados D y E, Art. 10)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 2) desde *(Capítulo II. Currículos de los Grados D y E, Art. 11)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 66, Art. 67) desde *(Capítulo II. Currículos de los Grados D y E, Art. 12)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 159) desde *(Capítulo II. Currículos de los Grados D y E, Art. 12)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 97) desde *(Capítulo II. Currículos de los Grados D y E, Art. 14)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 7) desde *(Capítulo II. Currículos de los Grados D y E, Art. 15)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 33) desde *(Capítulo III. Modalidades y planificación de la oferta, Art. 19)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) desde *(Capítulo III. Modalidades y planificación de la oferta, Art. 20)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) desde *(Capítulo IV. Acceso, admisión y escolarización, Art. 24)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 109, Art. 113) desde *(Capítulo IV. Acceso, admisión y escolarización, Art. 24)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 18) desde *(Capítulo V. Evaluación, calificación y titulación, Art. 27)*
+- **Cita a**: `norm-es-c-1978` desde *(Capítulo VI. Centros, Art. 33)*
+- **Cita a**: [**BOE-A-2005-21534**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md) desde *(Capítulo VI. Centros, Art. 34)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(Capítulo VI. Centros, Art. 37)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 205) desde *(Capítulo VI. Centros, Art. 38)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 199) desde *(Capítulo VI. Centros, Art. 38)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 170) desde *(Capítulo IX. Personal experto, Art. 41)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) desde *(Capítulo III. el procedimiento de provisión de puestos de profesorado especialista con, D. Transitoria primera. Criterios de admisión del alumnado en segundo)*
+- **Cita a**: [**D436_2008 Ordenacion Educacion Personas Adultas Andalucia**](../03_ordenacion_curricular_y_ensenanzas/D436_2008_ordenacion_educacion_personas_adultas_andalucia.md) desde *(Capítulo III. el procedimiento de provisión de puestos de profesorado especialista con, D. Derogatoria única. Derogación normativa.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo III. el procedimiento de provisión de puestos de profesorado especialista con, D. Final primera. Reproducción de normativa estatal.)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(Capítulo III. el procedimiento de provisión de puestos de profesorado especialista con, D. Final primera. Reproducción de normativa estatal.)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo III. el procedimiento de provisión de puestos de profesorado especialista con, D. Final primera. Reproducción de normativa estatal.)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo III. el procedimiento de provisión de puestos de profesorado especialista con, D. Final primera. Reproducción de normativa estatal.)*
+- **Cita a**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) desde *(Capítulo III. el procedimiento de provisión de puestos de profesorado especialista con, D. Final segunda. Reproducción de normativa autonómica.)*

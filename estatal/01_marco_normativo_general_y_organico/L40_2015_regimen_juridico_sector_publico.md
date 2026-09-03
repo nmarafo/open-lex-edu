@@ -27,25 +27,316 @@ tags:
 - responsabilidad-patrimonial
 - sector-publico
 relaciones:
-  desarrollado_por:
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-can-res-boc-2022-138-7
-  - norma_id: norm-can-res-boc-2019-067-11
-  - norma_id: norm-can-res-boc-2017-235-5
-  - norma_id: norm-can-res-098
-  - norma_id: norm-can-res-juriscan-75634-6
-  - norma_id: norm-can-res-boc-2019-016-12
-  - norma_id: norm-can-res-boc-2019-016-13
+  desarrolla:
+  - norma_id: norm-es-l-19-2013
+    titulo_destino: Título PRELIMINAR
+    capitulo_destino: Capítulo III
+    articulos_destino:
+    - Art. 31
+    - Art. 135
+    - Art. 7
+    - Art. 2
+    - Art. 14
+    - Art. 138
+    disposiciones_destino:
+    - D. Adicional quinta
+    - D. Derogatoria única
+  - norma_id: norm-es-c-1978
+    titulo_destino: Título PRELIMINAR
+    capitulo_destino: Capítulo III
+    articulos_destino:
+    - Art. 31
+    - Art. 135
+    - Art. 7
+    - Art. 2
+    - Art. 14
+    - Art. 138
+    disposiciones_destino:
+    - D. Adicional quinta
+    - D. Derogatoria única
+  cita:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-l-19-2013
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. De los órganos de las Administraciones Públicas.
+    seccion_origen: Sección 1. ª De los órganos administrativos
+    articulos_origen:
+    - Art. 6
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. De los órganos de las Administraciones Públicas.
+    seccion_origen: Sección 3. ª Órganos colegiados de las distintas administraciones
+      públicas
+    articulos_origen:
+    - Art. 16
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. De los órganos de las Administraciones Públicas.
+    seccion_origen: Sección 3. ª Órganos colegiados de las distintas administraciones
+      públicas
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 15
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. De los órganos de las Administraciones Públicas.
+    seccion_origen: Sección 3. ª Órganos colegiados de las distintas administraciones
+      públicas
+    articulos_origen:
+    - Art. 20
+  - norma_id: norm-es-1985-5392
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo III. Principios de la potestad sancionadora.
+    articulos_origen:
+    - Art. 27
+    titulo_destino: Título XI
+  - norma_id: norm-es-1985-5392
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo VI. De los convenios.
+    articulos_origen:
+    - Art. 48
+  - norma_id: norm-es-rdl-5-2015
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Los Ministerios y su estructura interna.
+    articulos_origen:
+    - Art. 63
+  - norma_id: norm-es-rdleg-5-2015
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Los Ministerios y su estructura interna.
+    articulos_origen:
+    - Art. 63
+  - norma_id: norm-es-rdl-5-2015
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Los Ministerios y su estructura interna.
+    articulos_origen:
+    - Art. 66
+  - norma_id: norm-es-rdleg-5-2015
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Los Ministerios y su estructura interna.
+    articulos_origen:
+    - Art. 66
+  - norma_id: norm-es-l-9-2017
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Organización y funcionamiento del sector público
+      institucional estatal.
+    articulos_origen:
+    - Art. 86
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. De los organismos públicos estatales.
+    seccion_origen: Sección 4. ª Agencias estatales
+    articulos_origen:
+    - Art. 108 ter
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. De los organismos públicos estatales.
+    seccion_origen: Sección 4. ª Agencias estatales
+    articulos_origen:
+    - Art. 108 quater
+  - norma_id: norm-es-rdl-2-2015
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. De los organismos públicos estatales.
+    seccion_origen: Sección 4. ª Agencias estatales
+    articulos_origen:
+    - Art. 108 quater
+  - norma_id: norm-es-2013-13756
+    titulo_origen: Título II
+    capitulo_origen: Capítulo VI. De los consorcios.
+    articulos_origen:
+    - Art. 119
+  - norma_id: norm-es-1985-5392
+    titulo_origen: Título II
+    capitulo_origen: Capítulo VI. De los consorcios.
+    articulos_origen:
+    - Art. 119
+  - norma_id: norm-es-1985-5392
+    titulo_origen: Título II
+    capitulo_origen: Capítulo VI. De los consorcios.
+    articulos_origen:
+    - Art. 125
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo VII. De las fundaciones del sector público estatal.
+    articulos_origen:
+    - Art. 128
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. Relaciones de cooperación.
+    seccion_origen: Sección 2. ª Técnicas orgánicas de cooperación
+    articulos_origen:
+    - Art. 147
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo IV. Relaciones electrónicas entre las Administraciones.
+    articulos_origen:
+    - D. Final tercera. Modificación de la Ley 50/1997, de 27 de noviembre, del.
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo IV. Relaciones electrónicas entre las Administraciones.
+    articulos_origen:
+    - Art. 23
+    articulos_destino:
+    - Art. 82
+    - Art. 86
+  - norma_id: norm-es-l-19-2013
+    titulo_origen: Título III
+    capitulo_origen: Capítulo IV. Relaciones electrónicas entre las Administraciones.
+    articulos_origen:
+    - Art. 26
+    articulos_destino:
+    - Art. 7
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo IV. Relaciones electrónicas entre las Administraciones.
+    articulos_origen:
+    - Art. 29
   fundamentado_en:
   - norma_id: norm-es-1985-5392
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo III. Principios de la potestad sancionadora.
+    articulos_origen:
+    - Art. 25
+    titulo_destino: Título XI
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo V. De las sociedades mercantiles estatales.
+    articulos_origen:
+    - Art. 116
+    articulos_destino:
+    - Art. 166
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo I. Principios generales de las relaciones interadministrativas.
+    articulos_origen:
+    - Art. 140
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. Relaciones de cooperación.
+    seccion_origen: Sección 2. ª Técnicas orgánicas de cooperación
+    articulos_origen:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. del Título II de la Ley de Régimen Jurídico del
+      Sector Público.
+    articulos_origen:
+    - D. Final novena. Modificación del Texto Refundido de la Ley de Contratos del.
+    articulos_destino:
+    - Art. 3
+    - Art. 61 bis
+    - Art. 22
+    - Art. 42
+  - norma_id: norm-es-l-53-1984
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. del Título II de la Ley de Régimen Jurídico del
+      Sector Público.
+    articulos_origen:
+    - D. Final novena. Modificación del Texto Refundido de la Ley de Contratos del.
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-es-2013-12632
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. del Título II de la Ley de Régimen Jurídico del
+      Sector Público.
+    articulos_origen:
+    - Art. 271 ter
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. del Título II de la Ley de Régimen Jurídico del
+      Sector Público.
+    articulos_origen:
+    - D. Final decimocuarta. Título competencial.
+    articulos_destino:
+    - Art. 149
   - norma_id: norm-es-1999-23750
   - norma_id: norm-es-2000-544
-  - norma_id: norm-es-2013-12632
   - norma_id: norm-es-2013-13756
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-l-19-2013
   - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-l-53-1984
+  modifica:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo VI. De los consorcios.
+    articulos_origen:
+    - Art. 122
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo IV. Relaciones electrónicas entre las Administraciones.
+    articulos_origen:
+    - D. Final tercera. Modificación de la Ley 50/1997, de 27 de noviembre, del.
+    articulos_destino:
+    - Art. 94
+    - Art. 96
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título III
+    capitulo_origen: Capítulo IV. Relaciones electrónicas entre las Administraciones.
+    articulos_origen:
+    - D. Final tercera. Modificación de la Ley 50/1997, de 27 de noviembre, del.
+    titulo_destino: Título V
+    articulos_destino:
+    - Art. 22
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. del Título II de la Ley de Régimen Jurídico del
+      Sector Público.
+    articulos_origen:
+    - D. Final octava. Modificación de la Ley 47/2003, de 26 de noviembre, General.
+    articulos_destino:
+    - Art. 72
+    - Art. 3
+  - norma_id: norm-es-2000-544
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. del Título II de la Ley de Régimen Jurídico del
+      Sector Público.
+    articulos_origen:
+    - D. Final décima. Modificación de la Ley 17/2012, de 27 de diciembre, de.
+    articulos_destino:
+    - Art. 68
+    - Art. 11
+    - Art. 39
+    - Art. 37
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. del Título II de la Ley de Régimen Jurídico del
+      Sector Público.
+    articulos_origen:
+    - D. Final décima. Modificación de la Ley 17/2012, de 27 de diciembre, de.
+    articulos_destino:
+    - Art. 68
+    - Art. 11
+    - Art. 39
+    - Art. 37
+  deroga:
+  - norma_id: norm-es-lo-3-2018
+    titulo_origen: Título III
+    capitulo_origen: Capítulo IV. Relaciones electrónicas entre las Administraciones.
+    articulos_origen:
+    - Art. 155
+  - norma_id: norm-es-1985-5392
+    titulo_origen: Título III
+    capitulo_origen: Capítulo IV. Relaciones electrónicas entre las Administraciones.
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
+    articulos_destino:
+    - Art. 87
+    - Art. 110
+  concordancia:
+  - norma_id: norm-es-2013-12632
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. del Título II de la Ley de Régimen Jurídico del
+      Sector Público.
+    articulos_origen:
+    - D. Final novena. Modificación del Texto Refundido de la Ley de Contratos del.
+    articulos_destino:
+    - Art. 146
+  desarrollado_por:
+  - norma_id: norm-es-l-39-2015
   fundamento_de:
   - norma_id: norm-es-2018-6348
   - norma_id: norm-es-2021-11382
@@ -58,102 +349,18 @@ relaciones:
   - norma_id: norm-es-lo-8-2021
   - norma_id: norm-es-rd-659-2023
   - norma_id: norm-es-rdl-5-2015
-  - norma_id: norm-can-o-2023-09-28
-  - norma_id: norm-can-res-098
-  - norma_id: norm-can-res-boc-2017-061-4
-  - norma_id: norm-can-d-135-2016
-  - norma_id: norm-can-d-106-2009
-  - norma_id: norm-can-res-juriscan-66772-94
-  - norma_id: norm-can-d-234-1996
-  - norma_id: norm-can-res-boc-2026-060-61
-  - norma_id: norm-can-res-boc-2025-118-46
-  - norma_id: norm-can-res-014
-  - norma_id: norm-can-res-boc-2021-038-3
-  - norma_id: norm-can-res-boc-2025-044-89
-  - norma_id: norm-can-res-086
-  - norma_id: norm-can-lo-1-2018
-  - norma_id: norm-can-l-1-1997
-  - norma_id: norm-can-res-096
-  - norma_id: norm-can-d-123-2023
-  - norma_id: norm-can-res-boc-2026-075-85
-  - norma_id: norm-can-res-boc-2024-125-91
-  - norma_id: norm-can-res-boc-2018-086-122
-  - norma_id: norm-can-res-boc-2018-124-126
-  - norma_id: norm-can-res-028
-  - norma_id: norm-can-l-14-1990
-  - norma_id: norm-can-res-097
-  - norma_id: norm-can-res-095
-  - norma_id: norm-can-res-boc-2026-129-26
-  - norma_id: norm-can-res-125
-  - norma_id: norm-can-res-090
-  - norma_id: norm-can-res-boc-2018-127-9
-  - norma_id: norm-can-res-boc-2025-061-88
-  - norma_id: norm-can-o-2013-10-09
-  - norma_id: norm-can-l-2-1987
-  - norma_id: norm-can-res-boc-2024-117-93
-  - norma_id: norm-can-d-84-2024
-  - norma_id: norm-can-res-boc-2017-020-2
-  - norma_id: norm-can-l-4-2023
-  - norma_id: norm-can-res-099
-  - norma_id: norm-can-res-boc-2026-109-92
-  - norma_id: norm-can-res-boc-2017-132-1
-  - norma_id: norm-can-d-52-2009
-  - norma_id: norm-can-d-212-1991
-  - norma_id: norm-can-res-boc-2026-116-87
-  - norma_id: norm-can-res-boc-2026-046-139
-  - norma_id: norm-can-r-fp-dual-curso-2025-2026
   - norma_id: norm-can-r-calendario-escolar-2025-2026
-  - norma_id: norm-can-r-instrucciones-curso-2025-2026
-  - norma_id: norm-mad-r-instrucciones-curso-2025-2026
-  - norma_id: norm-and-l4-1984
   - norma_id: norm-mad-d29-2013
-  - norma_id: norm-mad-l2-2010
-  - norma_id: norm-mad-o3536-2025
-  - norma_id: norm-and-d-164-2024
-  - norma_id: norm-can-l-6-2014
-  - norma_id: norm-and-d162-2009
-  - norma_id: norm-and-l17-2007
-  - norma_id: norm-mad-o3413-2022
-  - norma_id: norm-mad-r-calendario-escolar-2025-2026
-  - norma_id: norm-mad-o893-2022
-  - norma_id: norm-mad-d21-2025
   - norma_id: norm-and-d-285-2023
-  - norma_id: norm-mad-o-1238-2023
-  - norma_id: norm-and-d154-2022
-  - norma_id: norm-and-d328-2010
-  - norma_id: norm-and-r-instrucciones-curso-2025-2026
-  - norma_id: norm-mad-d-230-2023
-  - norma_id: norm-and-d327-2010
-  - norma_id: norm-mad-l1-2022
-  - norma_id: norm-mad-o3537-2025
-  - norma_id: norm-can-d-81-2010
-  - norma_id: norm-mad-r23-6-2025
-  - norma_id: norm-and-r-calendario-escolar-2025-2026
   - norma_id: norm-mad-d-149-2000
-  - norma_id: norm-and-o-20-8-2010
   - norma_id: norm-mad-o-190-2023
-  - norma_id: norm-and-d-4-1993
-  - norma_id: norm-and-d-156-1983
   - norma_id: norm-mad-o-1312-2021
-  - norma_id: norm-and-d-204-1995
   - norma_id: norm-mad-l-2-2010
-  - norma_id: norm-and-o-16-4-2008
-  - norma_id: norm-mad-l-4-2023
-  - norma_id: norm-and-o-28-6-2011
-  - norma_id: norm-and-r-1-9-2025
   - norma_id: norm-mad-o-6116-2025
-  - norma_id: norm-and-o-26-5-2011-arte
-  - norma_id: norm-and-d-80-1999
-  - norma_id: norm-and-o-26-5-2011-eoi
-  - norma_id: norm-and-o-26-5-2011
-  - norma_id: norm-mad-r-inicio-2025
-  - norma_id: norm-and-r-27-6-2023
-  - norma_id: norm-and-d-512-1996
-  - norma_id: norm-and-d-276-1998
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-2000-544
   - norma_id: norm-es-l-19-2013
   - norma_id: norm-es-l-53-1984
@@ -162,6 +369,7 @@ relaciones:
   - norma_id: norm-es-2013-13756
   - norma_id: norm-es-2013-12632
 ---
+
 # Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
 
 ## Preámbulo
@@ -2750,3 +2958,77 @@ Disposición final decimoctava.... Entrada en vigor.
 supervisión y solvencia de las entidades aseguradoras y reaseguradoras.
 
 3. La disposición final décima de modificación de la disposición adicional décima tercera de la Ley 17/2012, de 27 de diciembre, de Presupuestos Generales del Estado para el año 2013, entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado», sin perjuicio de que los apartados Uno, primer y segundo párrafo; Dos; Tres, párrafos primero y segundo; Cuatro; Cinco, párrafos primero a cuarto y, Seis, surtirán efectos a partir del 1 de enero de 2013, y de lo dispuesto en el apartado Siete. Por tanto, Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley. Madrid, 1 de octubre de 2015. FELIPE R. El Presidente del Gobierno, MARIANO RAJOY BREY Este documento es de carácter informativo y no tiene valor jurídico.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**L19_2013 Transparencia y Buen Gobierno**](./L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md) (Título PRELIMINAR, Capítulo III, Art. 31, Art. 135, Art. 7, Art. 2, Art. 14, Art. 138, D. Adicional quinta, D. Derogatoria única)
+- **Desarrolla**: `norm-es-c-1978` (Título PRELIMINAR, Capítulo III, Art. 31, Art. 135, Art. 7, Art. 2, Art. 14, Art. 138, D. Adicional quinta, D. Derogatoria única)
+- **Modifica**: `norm-es-c-1978` desde *(Título II, Capítulo VI. De los consorcios., Art. 122)*
+- **Modifica**: `norm-es-c-1978` (Art. 94, Art. 96) desde *(Título III, Capítulo IV. Relaciones electrónicas entre las Administraciones., D. Final tercera. Modificación de la Ley 50/1997, de 27 de noviembre, del.)*
+- **Modifica**: [**L39_2015 Procedimiento Administrativo Comun**](./L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Título V, Art. 22) desde *(Título III, Capítulo IV. Relaciones electrónicas entre las Administraciones., D. Final tercera. Modificación de la Ley 50/1997, de 27 de noviembre, del.)*
+- **Modifica**: `norm-es-c-1978` (Art. 72, Art. 3) desde *(Título III, Capítulo III. del Título II de la Ley de Régimen Jurídico del Sector Público., D. Final octava. Modificación de la Ley 47/2003, de 26 de noviembre, General.)*
+- **Modifica**: [**BOE-A-2000-544**](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md) (Art. 68, Art. 11, Art. 39, Art. 37) desde *(Título III, Capítulo III. del Título II de la Ley de Régimen Jurídico del Sector Público., D. Final décima. Modificación de la Ley 17/2012, de 27 de diciembre, de.)*
+- **Modifica**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) (Art. 68, Art. 11, Art. 39, Art. 37) desde *(Título III, Capítulo III. del Título II de la Ley de Régimen Jurídico del Sector Público., D. Final décima. Modificación de la Ley 17/2012, de 27 de diciembre, de.)*
+- **Deroga**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) desde *(Título III, Capítulo IV. Relaciones electrónicas entre las Administraciones., Art. 155)*
+- **Deroga**: [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md) (Art. 87, Art. 110) desde *(Título III, Capítulo IV. Relaciones electrónicas entre las Administraciones., D. Derogatoria única. Derogación normativa.)*
+- **Fundamentado en**: [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md) (Título XI) desde *(Título Preliminar, Capítulo III. Principios de la potestad sancionadora., Art. 25)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 166) desde *(Título II, Capítulo V. De las sociedades mercantiles estatales., Art. 116)*
+- **Fundamentado en**: `norm-es-c-1978` desde *(Título III, Capítulo I. Principios generales de las relaciones interadministrativas., Art. 140)*
+- **Fundamentado en**: `norm-es-c-1978` desde *(Título III, Capítulo III. Relaciones de cooperación., Art. 149)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 3, Art. 61 bis, Art. 22, Art. 42) desde *(Título III, Capítulo III. del Título II de la Ley de Régimen Jurídico del Sector Público., D. Final novena. Modificación del Texto Refundido de la Ley de Contratos del.)*
+- **Fundamentado en**: [**L53_1984 Incompatibilidades del Personal Publico**](./L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (Art. 18) desde *(Título III, Capítulo III. del Título II de la Ley de Régimen Jurídico del Sector Público., D. Final novena. Modificación del Texto Refundido de la Ley de Contratos del.)*
+- **Fundamentado en**: [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md) desde *(Título III, Capítulo III. del Título II de la Ley de Régimen Jurídico del Sector Público., Art. 271 ter)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Título III, Capítulo III. del Título II de la Ley de Régimen Jurídico del Sector Público., D. Final decimocuarta. Título competencial.)*
+- **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+- **Fundamentado en**: [**BOE-A-2000-544**](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md)
+- **Fundamentado en**: [**BOE-A-2013-13756**](../02_gestion_y_administracion_centros/L27_2013_racionalizacion_sostenibilidad_administracion_local.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L19_2013 Transparencia y Buen Gobierno**](./L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](./L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamento de**: [**BOE-A-2018-6348**](../05_alumnado_y_servicios_escolares/Osn_ecd_regulan_premios_nacionales_bachillerato.md)
+- **Fundamento de**: [**BOE-A-2021-11382**](../07_convivencia_bienestar_y_protocolos/L2_2021_igualdad_social_no_discriminacion_razon_identidad.md)
+- **Fundamento de**: [**BOE-A-2022-11589**](../07_convivencia_bienestar_y_protocolos/L15_2022_integral_igualdad_trato_no_discriminacion.md)
+- **Fundamento de**: [**BOE-A-2022-1274**](../03_ordenacion_curricular_y_ensenanzas/RD62_2022_flexibilizacion_requisitos_exigibles_impartir_ofertas_formacion.md)
+- **Fundamento de**: [**BOE-A-2026-2622**](../04_organizacion_escolar_y_funcionamiento/RD68_2026_regula_inspeccion_educativa.md)
+- **Fundamento de**: [**L9_2017 Contratos del Sector Publico (LCSP)**](../02_gestion_y_administracion_centros/L9_2017_contratos_sector_publico_transponen_ordenamiento_juridico.md)
+- **Fundamento de**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
+- **Fundamento de**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
+- **Fundamento de**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Fundamento de**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **Fundamento de**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](./RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamento de**: `norm-can-r-calendario-escolar-2025-2026`
+- **Fundamento de**: `norm-mad-d29-2013`
+- **Fundamento de**: `norm-and-d-285-2023`
+- **Fundamento de**: `norm-mad-d-149-2000`
+- **Fundamento de**: `norm-mad-o-190-2023`
+- **Fundamento de**: `norm-mad-o-1312-2021`
+- **Fundamento de**: `norm-mad-l-2-2010`
+- **Fundamento de**: `norm-mad-o-6116-2025`
+- **En concordancia con**: [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md) (Art. 146) desde *(Título III, Capítulo III. del Título II de la Ley de Régimen Jurídico del Sector Público., D. Final novena. Modificación del Texto Refundido de la Ley de Contratos del.)*
+- **Cita a**: `norm-es-c-1978` desde *(Título Preliminar, Capítulo I, Art. 2)*
+- **Cita a**: [**L19_2013 Transparencia y Buen Gobierno**](./L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md) desde *(Título Preliminar, Capítulo II. De los órganos de las Administraciones Públicas., Art. 6)*
+- **Cita a**: `norm-es-c-1978` desde *(Título Preliminar, Capítulo II. De los órganos de las Administraciones Públicas., Art. 16)*
+- **Cita a**: `norm-es-c-1978` (Art. 15) desde *(Título Preliminar, Capítulo II. De los órganos de las Administraciones Públicas., Art. 17)*
+- **Cita a**: `norm-es-c-1978` desde *(Título Preliminar, Capítulo II. De los órganos de las Administraciones Públicas., Art. 20)*
+- **Cita a**: [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md) (Título XI) desde *(Título Preliminar, Capítulo III. Principios de la potestad sancionadora., Art. 27)*
+- **Cita a**: [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md) desde *(Título Preliminar, Capítulo VI. De los convenios., Art. 48)*
+- **Cita a**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](./RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md) desde *(Título I, Capítulo II. Los Ministerios y su estructura interna., Art. 63)*
+- **Cita a**: `norm-es-rdleg-5-2015` desde *(Título I, Capítulo II. Los Ministerios y su estructura interna., Art. 63)*
+- **Cita a**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](./RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md) desde *(Título I, Capítulo II. Los Ministerios y su estructura interna., Art. 66)*
+- **Cita a**: `norm-es-rdleg-5-2015` desde *(Título I, Capítulo II. Los Ministerios y su estructura interna., Art. 66)*
+- **Cita a**: [**L9_2017 Contratos del Sector Publico (LCSP)**](../02_gestion_y_administracion_centros/L9_2017_contratos_sector_publico_transponen_ordenamiento_juridico.md) desde *(Título II, Capítulo II. Organización y funcionamiento del sector público institucional estatal., Art. 86)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo III. De los organismos públicos estatales., Art. 108 ter)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo III. De los organismos públicos estatales., Art. 108 quater)*
+- **Cita a**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md) desde *(Título II, Capítulo III. De los organismos públicos estatales., Art. 108 quater)*
+- **Cita a**: [**BOE-A-2013-13756**](../02_gestion_y_administracion_centros/L27_2013_racionalizacion_sostenibilidad_administracion_local.md) desde *(Título II, Capítulo VI. De los consorcios., Art. 119)*
+- **Cita a**: [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md) desde *(Título II, Capítulo VI. De los consorcios., Art. 119)*
+- **Cita a**: [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md) desde *(Título II, Capítulo VI. De los consorcios., Art. 125)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo VII. De las fundaciones del sector público estatal., Art. 128)*
+- **Cita a**: `norm-es-c-1978` desde *(Título III, Capítulo III. Relaciones de cooperación., Art. 147)*
+- **Cita a**: `norm-es-c-1978` desde *(Título III, Capítulo IV. Relaciones electrónicas entre las Administraciones., D. Final tercera. Modificación de la Ley 50/1997, de 27 de noviembre, del.)*
+- **Cita a**: `norm-es-c-1978` (Art. 82, Art. 86) desde *(Título III, Capítulo IV. Relaciones electrónicas entre las Administraciones., Art. 23)*
+- **Cita a**: [**L19_2013 Transparencia y Buen Gobierno**](./L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md) (Art. 7) desde *(Título III, Capítulo IV. Relaciones electrónicas entre las Administraciones., Art. 26)*
+- **Cita a**: `norm-es-c-1978` desde *(Título III, Capítulo IV. Relaciones electrónicas entre las Administraciones., Art. 29)*

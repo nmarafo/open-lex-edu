@@ -23,6 +23,45 @@ tags:
 - proteccion-menores
 relaciones:
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 39
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final decimoquinta. Títulos competenciales.
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Transitoria primera
+    - D. Final primera
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final decimoquinta. Títulos competenciales.
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final decimoquinta. Títulos competenciales.
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Final tercera
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final decimoquinta. Títulos competenciales.
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Final cuarta
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final decimoquinta. Títulos competenciales.
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Final quinta
   - norma_id: norm-es-1999-23750
   - norma_id: norm-es-2000-544
   - norma_id: norm-es-2010-12201
@@ -34,16 +73,236 @@ relaciones:
   - norma_id: norm-es-lo-1-2004
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-rdl-5-2015
+  modifica:
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-es-lo-2-2006
+    disposiciones_destino:
+    - D. Final primera
+    - D. Final segunda
+    - D. Final tercera
+    - D. Final cuarta
+    - D. Final quinta
+    - D. Final octava
+    - D. Final novena
+  - norma_id: norm-es-2016-3229
+    disposiciones_destino:
+    - D. Final primera
+    - D. Final segunda
+    - D. Final tercera
+    - D. Final cuarta
+    - D. Final quinta
+    - D. Final octava
+    - D. Final novena
+  - norma_id: norm-es-2021-20113
+    disposiciones_destino:
+    - D. Final primera
+    - D. Final segunda
+    - D. Final tercera
+    - D. Final cuarta
+    - D. Final quinta
+    - D. Final octava
+    - D. Final novena
+  - norma_id: norm-es-2010-12201
+    disposiciones_destino:
+    - D. Final primera
+    - D. Final segunda
+    - D. Final tercera
+    - D. Final cuarta
+    - D. Final quinta
+    - D. Final octava
+    - D. Final novena
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 176 bis
+  - norma_id: norm-es-2016-3229
+    articulos_origen:
+    - Art. 176 bis
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 176 bis
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 176 bis
+  - norma_id: norm-es-lo-1-1996
+    articulos_origen:
+    - Art. 176 bis
+  - norma_id: norm-es-lo-1-1996
+    articulos_origen:
+    - Art. 21
+    articulos_destino:
+    - Art. 9
+  - norma_id: norm-es-lo-1-1996
+    articulos_origen:
+    - D. Transitoria cuarta. Certificación de antecedentes penales.
+    articulos_destino:
+    - Art. 13
+  - norma_id: norm-es-lo-1-1996
+    articulos_origen:
+    - D. Final segunda. Modificación de la Ley 41/2002, de 14 de noviembre, básica
+      reguladora de la autonomía del paciente y de derechos y obligaciones en materia
+      de información y documentación clínica.
+    articulos_destino:
+    - Art. 9
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Final sexta. Modificación de la [Ley Orgánica 2/2006](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Final sexta
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Final sexta. Modificación de la [Ley Orgánica 2/2006](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Final sexta
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Final sexta. Modificación de la [Ley Orgánica 2/2006](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Final sexta
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Final sexta. Modificación de la [Ley Orgánica 2/2006](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación.
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Final sexta. Modificación de la [Ley Orgánica 2/2006](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación.
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Final sexta. Modificación de la [Ley Orgánica 2/2006](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación.
+  - norma_id: norm-es-2016-3229
+    articulos_origen:
+    - D. Final séptima. Modificación de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md),
+      de 9 de diciembre, para la Mejora de la Calidad Educativa.
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Final séptima. Modificación de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md),
+      de 9 de diciembre, para la Mejora de la Calidad Educativa.
+    articulos_destino:
+    - Art. 84
+  - norma_id: norm-es-2016-3229
+    articulos_origen:
+    - D. Final séptima. Modificación de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md),
+      de 9 de diciembre, para la Mejora de la Calidad Educativa.
+    articulos_destino:
+    - Art. 84
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Final séptima. Modificación de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md),
+      de 9 de diciembre, para la Mejora de la Calidad Educativa.
+    articulos_destino:
+    - Art. 84
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Final séptima. Modificación de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md),
+      de 9 de diciembre, para la Mejora de la Calidad Educativa.
+    articulos_destino:
+    - Art. 84
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Final séptima. Modificación de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md),
+      de 9 de diciembre, para la Mejora de la Calidad Educativa.
+    articulos_destino:
+    - Art. 87
+  - norma_id: norm-es-2016-3229
+    articulos_origen:
+    - D. Final séptima. Modificación de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md),
+      de 9 de diciembre, para la Mejora de la Calidad Educativa.
+    articulos_destino:
+    - Art. 87
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Final séptima. Modificación de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md),
+      de 9 de diciembre, para la Mejora de la Calidad Educativa.
+    articulos_destino:
+    - Art. 87
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Final séptima. Modificación de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md),
+      de 9 de diciembre, para la Mejora de la Calidad Educativa.
+    articulos_destino:
+    - Art. 87
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final decimoquinta. Títulos competenciales.
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-lo-8-2021
+    articulos_origen:
+    - D. Final decimoquinta. Títulos competenciales.
+  cita:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 39
+  - norma_id: norm-es-2000-544
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 19 bis
+    articulos_destino:
+    - Art. 20
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 176 bis
+  - norma_id: norm-es-2000-544
+    articulos_origen:
+    - Art. 9
+  - norma_id: norm-es-1999-23750
+    articulos_origen:
+    - Art. 21
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 21
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 21
+    articulos_destino:
+    - Art. 17
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 21
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 23
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 23
+    articulos_destino:
+    - Art. 32
+  - norma_id: norm-es-2000-544
+    articulos_origen:
+    - D. Final octava. Modificación de la Ley 43/2006, de 29 de diciembre, para la
+      mejora del crecimiento y del empleo.
+    articulos_destino:
+    - Art. 59 bis
+  - norma_id: norm-es-lo-1-2004
+    articulos_origen:
+    - Art. 179 ter
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-lo-1-2004
+    articulos_origen:
+    - D. Final undécima. Modificación del texto refundido de la Ley de Clases Pasivas
+      del Estado, aprobado por el Real Decreto Legislativo 670/1987, de 30 de abril.
+    disposiciones_destino:
+    - D. Adicional primera
+  desarrolla:
+  - norma_id: norm-es-2013-13756
+    articulos_origen:
+    - D. Final decimoquinta. Títulos competenciales.
+    disposiciones_destino:
+    - D. Adicional cuarta
   fundamento_de:
   - norma_id: norm-es-lo-8-2021
   - norma_id: norm-es-rdl-5-2015
-  - norma_id: norm-can-res-boc-2017-132-1
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '1'
-  - norma_id: norm-can-l-16-2003
+  - norma_id: '1'
   - norma_id: norm-es-2000-544
   - norma_id: norm-es-lo-1-1996
   - norma_id: norm-es-1999-23750
@@ -53,6 +312,7 @@ relaciones:
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-lo-1-2004
 ---
+
 # Ley 26/2015, de 28 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
 
 ## Preámbulo
@@ -2118,3 +2378,73 @@ MARIANO RAJOY BREY
 - [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**BOE-A-2013-13756**](../02_gestion_y_administracion_centros/L27_2013_racionalizacion_sostenibilidad_administracion_local.md) (D. Adicional cuarta) desde *(D. Final decimoquinta. Títulos competenciales.)*
+- **Modifica**: [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Final primera, D. Final segunda, D. Final tercera, D. Final cuarta, D. Final quinta, D. Final octava, D. Final novena)
+- **Modifica**: [**BOE-A-2016-3229**](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md) (D. Final primera, D. Final segunda, D. Final tercera, D. Final cuarta, D. Final quinta, D. Final octava, D. Final novena)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Final primera, D. Final segunda, D. Final tercera, D. Final cuarta, D. Final quinta, D. Final octava, D. Final novena)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Final primera, D. Final segunda, D. Final tercera, D. Final cuarta, D. Final quinta, D. Final octava, D. Final novena)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Art. 176 bis)*
+- **Modifica**: [**BOE-A-2016-3229**](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md) desde *(Art. 176 bis)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Art. 176 bis)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Art. 176 bis)*
+- **Modifica**: [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md) desde *(Art. 176 bis)*
+- **Modifica**: [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md) (Art. 9) desde *(Art. 21)*
+- **Modifica**: [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md) (Art. 13) desde *(D. Transitoria cuarta. Certificación de antecedentes penales.)*
+- **Modifica**: [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md) (Art. 9) desde *(D. Final segunda. Modificación de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Final sexta) desde *(D. Final sexta. Modificación de la [Ley Orgánica 2/2006](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Final sexta) desde *(D. Final sexta. Modificación de la [Ley Orgánica 2/2006](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Final sexta) desde *(D. Final sexta. Modificación de la [Ley Orgánica 2/2006](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(D. Final sexta. Modificación de la [Ley Orgánica 2/2006](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(D. Final sexta. Modificación de la [Ley Orgánica 2/2006](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(D. Final sexta. Modificación de la [Ley Orgánica 2/2006](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2016-3229**](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md) desde *(D. Final séptima. Modificación de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 84) desde *(D. Final séptima. Modificación de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa.)*
+- **Modifica**: [**BOE-A-2016-3229**](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md) (Art. 84) desde *(D. Final séptima. Modificación de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa.)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 84) desde *(D. Final séptima. Modificación de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 84) desde *(D. Final séptima. Modificación de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 87) desde *(D. Final séptima. Modificación de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa.)*
+- **Modifica**: [**BOE-A-2016-3229**](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md) (Art. 87) desde *(D. Final séptima. Modificación de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa.)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 87) desde *(D. Final séptima. Modificación de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 87) desde *(D. Final séptima. Modificación de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa.)*
+- **Modifica**: `norm-es-c-1978` (Art. 149) desde *(D. Final decimoquinta. Títulos competenciales.)*
+- **Modifica**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md) desde *(D. Final decimoquinta. Títulos competenciales.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 39)
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, D. Transitoria primera, D. Final primera) desde *(D. Final decimoquinta. Títulos competenciales.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, D. Final segunda) desde *(D. Final decimoquinta. Títulos competenciales.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, D. Final tercera) desde *(D. Final decimoquinta. Títulos competenciales.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, D. Final cuarta) desde *(D. Final decimoquinta. Títulos competenciales.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, D. Final quinta) desde *(D. Final decimoquinta. Títulos competenciales.)*
+- **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+- **Fundamentado en**: [**BOE-A-2000-544**](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2013-13756**](../02_gestion_y_administracion_centros/L27_2013_racionalizacion_sostenibilidad_administracion_local.md)
+- **Fundamentado en**: [**BOE-A-2016-3229**](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- **Fundamentado en**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](./RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamento de**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Fundamento de**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](./RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Cita a**: `norm-es-c-1978` (Art. 39)
+- **Cita a**: [**BOE-A-2000-544**](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md)
+- **Cita a**: `norm-es-c-1978` (Art. 20) desde *(Art. 19 bis)*
+- **Cita a**: `norm-es-c-1978` desde *(Art. 176 bis)*
+- **Cita a**: [**BOE-A-2000-544**](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md) desde *(Art. 9)*
+- **Cita a**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) desde *(Art. 21)*
+- **Cita a**: `norm-es-c-1978` desde *(Art. 21)*
+- **Cita a**: `norm-es-c-1978` (Art. 17) desde *(Art. 21)*
+- **Cita a**: `norm-es-c-1978` (Art. 18) desde *(Art. 21)*
+- **Cita a**: `norm-es-c-1978` desde *(Art. 23)*
+- **Cita a**: `norm-es-c-1978` (Art. 32) desde *(Art. 23)*
+- **Cita a**: [**BOE-A-2000-544**](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md) (Art. 59 bis) desde *(D. Final octava. Modificación de la Ley 43/2006, de 29 de diciembre, para la mejora del crecimiento y del empleo.)*
+- **Cita a**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) (D. Adicional primera) desde *(Art. 179 ter)*
+- **Cita a**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) (D. Adicional primera) desde *(D. Final undécima. Modificación del texto refundido de la Ley de Clases Pasivas del Estado, aprobado por el Real Decreto Legislativo 670/1987, de 30 de abril.)*

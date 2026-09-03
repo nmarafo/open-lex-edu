@@ -27,31 +27,241 @@ tags:
 - proteccion-menores
 - protocolos-de-actuaci-n-y-protecci-n
 relaciones:
-  fundamentado_en:
-  - norma_id: norm-can-d-168-2009
-  - norma_id: norm-can-d-84-2024
-  - norma_id: norm-can-l-2-1987
-  - norma_id: norm-can-l-4-2023
-  - norma_id: norm-can-l-6-2014
-  - norma_id: norm-es-2007-6115
-  - norma_id: norm-es-2022-11589
-  - norma_id: norm-es-l-31-1995
+  cita:
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-c-1978
+    seccion_origen: Sección III. CV AL.
+    articulos_origen:
+    - Art. 11
+    articulos_destino:
+    - Art. 11
   - norma_id: norm-es-l-39-2015
+    seccion_origen: Sección II. Aspectos generales.
+    articulos_origen:
+    - Art. 5
   - norma_id: norm-es-l-40-2015
-  - norma_id: norm-es-lo-10-2022
-  - norma_id: norm-es-lo-3-2018
-  - norma_id: norm-es-rdl-2-2015
+    seccion_origen: Sección III. CV AL artículo 9 Naturaleza, finalidad y régimen
+      jurídico.
+    capitulo_destino: Capítulo II
+    seccion_destino: Sección 3
+  - norma_id: norm-es-l-40-2015
+    seccion_origen: Sección III. CV AL artículo 9 Naturaleza, finalidad y régimen
+      jurídico.
+    articulos_origen:
+    - Art. 12
+  - norma_id: norm-es-c-1978
+    seccion_origen: Sección III. CV AL artículo 9 Naturaleza, finalidad y régimen
+      jurídico.
+    articulos_origen:
+    - Art. 12
+  - norma_id: norm-es-l-39-2015
+    seccion_origen: 'Sección IV. Actuaciones Subsección 1.ª Inicio: comunicación del
+      presunto acoso en el entorno laboral.'
+    articulos_origen:
+    - Art. 15
+  - norma_id: norm-es-l-39-2015
+    seccion_origen: 'Sección IV. Actuaciones Subsección 1.ª Inicio: comunicación del
+      presunto acoso en el entorno laboral.'
+    articulos_origen:
+    - Art. 19
+    articulos_destino:
+    - Art. 55
+  - norma_id: norm-es-2007-6115
+    seccion_origen: 'Sección IV. Actuaciones Subsección 1.ª Inicio: comunicación del
+      presunto acoso en el entorno laboral.'
+    articulos_origen:
+    - Art. 29
+    articulos_destino:
+    - Art. 7
+    - Art. 8
+    - Art. 13
   - norma_id: norm-es-rdl-5-2015
+    seccion_origen: 'Sección IV. Actuaciones Subsección 1.ª Inicio: comunicación del
+      presunto acoso en el entorno laboral.'
+    articulos_origen:
+    - Art. 29
+    articulos_destino:
+    - Art. 95
+  - norma_id: norm-es-rdleg-5-2015
+    seccion_origen: 'Sección IV. Actuaciones Subsección 1.ª Inicio: comunicación del
+      presunto acoso en el entorno laboral.'
+    articulos_origen:
+    - Art. 29
+    articulos_destino:
+    - Art. 95
+  - norma_id: norm-es-l-39-2015
+    seccion_origen: 'Sección IV. Actuaciones Subsección 1.ª Inicio: comunicación del
+      presunto acoso en el entorno laboral.'
+    articulos_origen:
+    - Art. 29
+    articulos_destino:
+    - Art. 69
+  - norma_id: norm-es-lo-3-2018
+    seccion_origen: 'Sección IV. Actuaciones Subsección 1.ª Inicio: comunicación del
+      presunto acoso en el entorno laboral.'
+    articulos_origen:
+    - Art. 29
+  fundamentado_en:
+  - norma_id: norm-can-l-2-1987
+    articulos_destino:
+    - Art. 3
+    - Art. 10
+    - Art. 14
+    - Art. 15
+    - Art. 2
+    - Art. 95
+    - Art. 4
+    - Art. 54
+  - norma_id: norm-can-l-4-2023
+    articulos_destino:
+    - Art. 3
+    - Art. 10
+    - Art. 14
+    - Art. 15
+    - Art. 2
+    - Art. 95
+    - Art. 4
+    - Art. 54
+  - norma_id: norm-can-d-168-2009
+    articulos_destino:
+    - Art. 3
+    - Art. 10
+    - Art. 14
+    - Art. 15
+    - Art. 2
+    - Art. 95
+    - Art. 4
+    - Art. 54
+  - norma_id: norm-es-rdl-5-2015
+    articulos_destino:
+    - Art. 3
+    - Art. 10
+    - Art. 14
+    - Art. 15
+    - Art. 2
+    - Art. 95
+    - Art. 4
+    - Art. 54
+  - norma_id: norm-es-l-31-1995
+    articulos_destino:
+    - Art. 3
+    - Art. 10
+    - Art. 14
+    - Art. 15
+    - Art. 2
+    - Art. 95
+    - Art. 4
+    - Art. 54
+  - norma_id: norm-es-2022-11589
+    articulos_destino:
+    - Art. 3
+    - Art. 10
+    - Art. 14
+    - Art. 15
+    - Art. 2
+    - Art. 95
+    - Art. 4
+    - Art. 54
+  - norma_id: norm-es-lo-10-2022
+    articulos_destino:
+    - Art. 3
+    - Art. 10
+    - Art. 14
+    - Art. 15
+    - Art. 2
+    - Art. 95
+    - Art. 4
+    - Art. 54
+  - norma_id: norm-es-2007-6115
+    articulos_destino:
+    - Art. 3
+    - Art. 10
+    - Art. 14
+    - Art. 15
+    - Art. 2
+    - Art. 95
+    - Art. 4
+    - Art. 54
+  - norma_id: norm-es-rdl-2-2015
+    articulos_destino:
+    - Art. 3
+    - Art. 10
+    - Art. 14
+    - Art. 15
+    - Art. 2
+    - Art. 95
+    - Art. 4
+    - Art. 54
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 3
+    - Art. 10
+    - Art. 14
+    - Art. 15
+    - Art. 2
+    - Art. 95
+    - Art. 4
+    - Art. 54
+  - norma_id: norm-es-rdleg-5-2015
+    articulos_destino:
+    - Art. 3
+    - Art. 10
+    - Art. 14
+    - Art. 15
+    - Art. 2
+    - Art. 95
+    - Art. 4
+    - Art. 54
+  - norma_id: norm-es-lo-3-2018
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-lo-3-2018
+    seccion_origen: Sección II. Aspectos generales.
+    articulos_origen:
+    - Art. 6
+  - norma_id: norm-es-l-40-2015
+    seccion_origen: Sección III. CV AL artículo 9 Naturaleza, finalidad y régimen
+      jurídico.
+    articulos_origen:
+    - Art. 12
+    articulos_destino:
+    - Art. 17
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-8-2021
   - norma_id: norm-es-lo-1-1996
+  concordancia:
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 10
+    - Art. 11
+    - Art. 16
+    - Art. 12
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 10
+    - Art. 11
+    - Art. 16
+    - Art. 12
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-31-1995
+    seccion_origen: Sección II. Aspectos generales.
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 24
   - norma_id: norm-es-lo-8-2021
+    seccion_origen: 'Sección IV. Actuaciones Subsección 1.ª Inicio: comunicación del
+      presunto acoso en el entorno laboral.'
+    articulos_origen:
+    - Art. 29
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-l-2-1987
   - norma_id: norm-can-l-4-2023
@@ -67,6 +277,7 @@ relaciones:
   - norma_id: norm-es-rdl-2-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-045-900.pdf
 ---
+
 # Resolución de 19 de febrero de 2025, de la Dirección General de Personal y Formación del Profesorado, por la que se establece el Protocolo de actuación ante situaciones de acoso en el entorno laboral en los centros públicos dependientes de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes (BOC nº 45 de 5 de marzo).
 
 ## Preámbulo
@@ -801,3 +1012,47 @@ Señale con una "X" la opción que proceda. Soy la persona que sufre el presunto
 - [**BOE-A-2022-11589**](../../../estatal/07_convivencia_bienestar_y_protocolos/L15_2022_integral_igualdad_trato_no_discriminacion.md)
 - [**LO10_2022 Garantia Integral de la Libertad Sexual**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO10_2022_garantia_integral_libertad_sexual.md)
 - [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](../../../estatal/02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md) (Art. 24) desde *(Art. 8)*
+- **Desarrolla**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md) desde *(Art. 29)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L2_1987 Ley de la Funcion Publica Canaria**](../01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md) (Art. 3, Art. 10, Art. 14, Art. 15, Art. 2, Art. 95, Art. 4, Art. 54)
+- **Fundamentado en**: [**L4_2023 Ley del Gobierno de Canarias**](../01_marco_normativo_general_y_organico/L4_2023_presidencia_gobierno_canarias.md) (Art. 3, Art. 10, Art. 14, Art. 15, Art. 2, Art. 95, Art. 4, Art. 54)
+- **Fundamentado en**: [**D168_2009 Prevencion de Riesgos Laborales en la Administracion Canaria**](../02_gestion_y_administracion_centros/D168_2009_adapta_normativa_prevencion_riesgos_laborales_ambito.md) (Art. 3, Art. 10, Art. 14, Art. 15, Art. 2, Art. 95, Art. 4, Art. 54)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md) (Art. 3, Art. 10, Art. 14, Art. 15, Art. 2, Art. 95, Art. 4, Art. 54)
+- **Fundamentado en**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](../../../estatal/02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md) (Art. 3, Art. 10, Art. 14, Art. 15, Art. 2, Art. 95, Art. 4, Art. 54)
+- **Fundamentado en**: [**BOE-A-2022-11589**](../../../estatal/07_convivencia_bienestar_y_protocolos/L15_2022_integral_igualdad_trato_no_discriminacion.md) (Art. 3, Art. 10, Art. 14, Art. 15, Art. 2, Art. 95, Art. 4, Art. 54)
+- **Fundamentado en**: [**LO10_2022 Garantia Integral de la Libertad Sexual**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO10_2022_garantia_integral_libertad_sexual.md) (Art. 3, Art. 10, Art. 14, Art. 15, Art. 2, Art. 95, Art. 4, Art. 54)
+- **Fundamentado en**: [**BOE-A-2007-6115**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md) (Art. 3, Art. 10, Art. 14, Art. 15, Art. 2, Art. 95, Art. 4, Art. 54)
+- **Fundamentado en**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md) (Art. 3, Art. 10, Art. 14, Art. 15, Art. 2, Art. 95, Art. 4, Art. 54)
+- **Fundamentado en**: `norm-es-c-1978` (Art. 3, Art. 10, Art. 14, Art. 15, Art. 2, Art. 95, Art. 4, Art. 54)
+- **Fundamentado en**: `norm-es-rdleg-5-2015` (Art. 3, Art. 10, Art. 14, Art. 15, Art. 2, Art. 95, Art. 4, Art. 54)
+- **Fundamentado en**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) (Art. 3)
+- **Fundamentado en**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) desde *(Art. 6)*
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 17) desde *(Art. 12)*
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- **En concordancia con**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 10, Art. 11, Art. 16, Art. 12)
+- **En concordancia con**: `norm-es-c-1978` (Art. 10, Art. 11, Art. 16, Art. 12)
+- **Cita a**: `norm-es-c-1978`
+- **Cita a**: `norm-es-c-1978` (Art. 11) desde *(Art. 11)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) desde *(Art. 5)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Capítulo II, Sección 3)
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) desde *(Art. 12)*
+- **Cita a**: `norm-es-c-1978` desde *(Art. 12)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) desde *(Art. 15)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 55) desde *(Art. 19)*
+- **Cita a**: [**BOE-A-2007-6115**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md) (Art. 7, Art. 8, Art. 13) desde *(Art. 29)*
+- **Cita a**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md) (Art. 95) desde *(Art. 29)*
+- **Cita a**: `norm-es-rdleg-5-2015` (Art. 95) desde *(Art. 29)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 69) desde *(Art. 29)*
+- **Cita a**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) desde *(Art. 29)*

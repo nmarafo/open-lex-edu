@@ -24,6 +24,32 @@ tags:
 - prevencion-riesgos-laborales
 - salud-laboral-y-vigilancia
 relaciones:
+  cita:
+  - norma_id: norm-es-1999-23750
+    capitulo_origen: Capítulo II. Situación de IT.
+    articulos_origen:
+    - Art. 9
+  - norma_id: norm-es-rd-39-1997
+    capitulo_origen: Capítulo IV. Situaciones de riesgo durante el embarazo y de riesgo
+      durante la lactancia natural.
+    articulos_origen:
+    - Art. 15
+    articulos_destino:
+    - Art. 37
+  - norma_id: norm-es-1999-23750
+    capitulo_origen: Capítulo IV. Situaciones de riesgo durante el embarazo y de riesgo
+      durante la lactancia natural.
+    articulos_origen:
+    - D. Transitoria primera. Situaciones de IT iniciadas con anterioridad a la entrada
+      en vigor de la presente orden.
+    articulos_destino:
+    - Art. 10
+  desarrolla:
+  - norma_id: norm-es-rd-39-1997
+    capitulo_origen: Capítulo IV. Situaciones de riesgo durante el embarazo y de riesgo
+      durante la lactancia natural.
+    articulos_origen:
+    - Art. 15
   fundamentado_en:
   - norma_id: norm-es-1999-23750
   - norma_id: norm-es-rd-39-1997
@@ -31,10 +57,11 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-es-rdl-5-2015
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-1999-23750
   - norma_id: norm-es-rd-39-1997
 ---
+
 # Orden PRE/1744/2010, de 30 de junio, por la que se regula el procedimiento de reconocimiento, control y seguimiento de las situaciones de incapacidad temporal, riesgo durante el embarazo y riesgo durante la lactancia natural en el Régimen Especial de la Seguridad Social de los Funcionarios Civiles del Estado.
 
 ## Preámbulo
@@ -330,3 +357,16 @@ Solicitud de reconocimiento médico
 - [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
 - [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
 - [**RD39_1997 Reglamento de los Servicios de Prevencion**](../02_gestion_y_administracion_centros/RD39_1997_aprueba_reglamento_servicios_prevencion.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**RD39_1997 Reglamento de los Servicios de Prevencion**](../02_gestion_y_administracion_centros/RD39_1997_aprueba_reglamento_servicios_prevencion.md) desde *(Capítulo IV. Situaciones de riesgo durante el embarazo y de riesgo durante la lactancia natural., Art. 15)*
+- **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+- **Fundamentado en**: [**RD39_1997 Reglamento de los Servicios de Prevencion**](../02_gestion_y_administracion_centros/RD39_1997_aprueba_reglamento_servicios_prevencion.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Cita a**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) desde *(Capítulo II. Situación de IT., Art. 9)*
+- **Cita a**: [**RD39_1997 Reglamento de los Servicios de Prevencion**](../02_gestion_y_administracion_centros/RD39_1997_aprueba_reglamento_servicios_prevencion.md) (Art. 37) desde *(Capítulo IV. Situaciones de riesgo durante el embarazo y de riesgo durante la lactancia natural., Art. 15)*
+- **Cita a**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) (Art. 10) desde *(Capítulo IV. Situaciones de riesgo durante el embarazo y de riesgo durante la lactancia natural., D. Transitoria primera. Situaciones de IT iniciadas con anterioridad a la entrada en vigor de la presente orden.)*

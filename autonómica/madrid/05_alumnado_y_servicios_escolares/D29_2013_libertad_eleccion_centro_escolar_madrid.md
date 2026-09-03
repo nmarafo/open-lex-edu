@@ -25,23 +25,109 @@ tags:
 - admision
 - madrid
 relaciones:
+  cita:
+  - norma_id: norm-mad-d29-2013
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo I
+    articulos_destino:
+    - Art. 27
+  - norma_id: norm-mad-d29-2013
+    capitulo_origen: Capítulo I
+    articulos_destino:
+    - Art. 27
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo II. Ejercicio de la libertad de elección de centro.
+    articulos_origen:
+    - Art. 4
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo II. Ejercicio de la libertad de elección de centro.
+    articulos_origen:
+    - Art. 4
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo II. Ejercicio de la libertad de elección de centro.
+    articulos_origen:
+    - Art. 4
   desarrolla:
   - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 84
+    - Art. 85
+    - Art. 86
+    - Art. 87
+    - Art. 88
+    - Art. 2
+    - Art. 29
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 84
+    - Art. 85
+    - Art. 86
+    - Art. 87
+    - Art. 88
+    - Art. 2
+    - Art. 29
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 84
+    - Art. 85
+    - Art. 86
+    - Art. 87
+    - Art. 88
+    - Art. 2
+    - Art. 29
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 84
+    - Art. 85
+    - Art. 86
+    - Art. 87
+    - Art. 88
+    - Art. 2
+    - Art. 29
+  - norma_id: norm-mad-d29-2013
+    articulos_destino:
+    - Art. 84
+    - Art. 85
+    - Art. 86
+    - Art. 87
+    - Art. 88
+    - Art. 2
+    - Art. 29
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo V. Garantías de la libertad de elección de centro.
+    articulos_origen:
+    - D. Transitoria única.
   fundamentado_en:
-  - norma_id: norm-mad-d-29-2013
   - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo IV. Participación de los centros.
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 86
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo IV. Participación de los centros.
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 86
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo IV. Participación de los centros.
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 86
   - norma_id: norm-es-l-39-2015
 ---
+
 # Decreto 29/2013, de 11 de abril, del Consejo de Gobierno, de libertad de elección de centro escolar en la Comunidad de Madrid.
 
 ## Preámbulo
 
-I. COMUNIDAD DE MADRID
-A) Disposiciones Generales Consejería de Educación, Juventud y Deporte 1 DECRETO 29/2013, de 11 de abril, del Consejo de Gobierno, de libertad de elección de centro escolar en la Comunidad de Madrid. La Constitución española establece, entre los principios básicos que desarrollan el derecho a la educación, el derecho de los padres, según sus convicciones, para educar a sus hijos menores. La libertad de las familias para elegir el centro escolar de sus hijos debe, en consecuencia, erigirse en postulado básico del que se deriven cuantas disposiciones normativas regulen la admisión de los alumnos en los centros sostenidos con fondos públicos. Las diversas Leyes de educación vigentes a lo largo de los últimos años han reconocido de manera genérica esa libertad de las familias, instando a las Administraciones educativas a hacerla efectiva. No obstante, la zonificación territorial de los procesos de escolarización y su gran complejidad administrativa, así como la falta de información objetiva y comprensible acerca de los distintos centros educativos, se han convertido, de hecho, en obstáculos que limitan o incluso imposibilitan en la práctica el ejercicio de esa libertad, disminuyendo con ello la calidad de nuestro sistema educativo, íntimamente relacionada con el derecho de las familias a elegir para sus hijos un centro escolar acorde con sus propios valores y sus expectativas de formación humana y académica. La Comunidad de Madrid, consciente de esa vinculación y de la demanda creciente de la sociedad madrileña de una mayor y más efectiva libertad de elección en la educación, establece el marco regulador necesario para su ejercicio por parte de las familias. El presente Decreto introduce, con dicho fin, una nueva normativa reguladora de los procesos de admisión de alumnos en centros sostenidos con fondos públicos que asegura de forma efectiva la libertad de elección mediante la eliminación de las zonas de escolarización, incrementa la participación de las familias y sus garantías de acceso a una información precisa sobre las características de los centros y de los proyectos educativos, otorga mayor protagonismo a los centros, simplifica el procedimiento de admisión, y, en definitiva, eleva la libertad de elección, junto con la calidad de la educación y la excelencia académica, a la categoría de fundamentos básicos y objetivos últimos del sistema educativo de la Comunidad de Madrid. La regulación contenida en este Decreto parte de los criterios recogidos en la legislación básica sobre escolarización en centros públicos y privados concertados, en especial en los artículos 84 a 88 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. El presente Decreto ha sido dictaminado por el Consejo Escolar de la Comunidad de Madrid, de acuerdo con el artículo 2.1.b) de la Ley 12/1999, de 29 de abril, de Creación del Consejo Escolar de la Comunidad de Madrid, modificada por el artículo 29 de la Ley 9/2010, de 23 de diciembre. En virtud de lo anterior, de conformidad con lo dispuesto en los artículos 29.1 del Estatuto de Autonomía de la Comunidad de Madrid, y 21 de la Ley 1/1983, de 13 de diciembre, de Gobierno y Administración de la Comunidad de Madrid, a propuesta de la Consejera de Educación, Juventud y Deporte, de acuerdo con el Consejo Consultivo de la Comunidad de Madrid y previa deliberación del Consejo de Gobierno, en su reunión del día 11 de abril de 2013, DISPONE
-
-### Capítulo I
-
-### Disposiciones generales artículo 1 Objeto y ámbito de aplicación
+### Capítulo I. ### Disposiciones generales artículo 1 Objeto y ámbito de aplicación
 
 1. Este Decreto tiene por objeto establecer el régimen para el ejercicio de la libertad de elección de centro escolar sostenido con fondos públicos por parte de las familias, de forma que se garantice, en el ámbito de la Comunidad de Madrid, el derecho recogido en el artículo 27 de la Constitución española.
 
@@ -52,7 +138,7 @@ A) Disposiciones Generales Consejería de Educación, Juventud y Deporte 1 DECRE
 La libertad de elección de centros docentes sostenidos con fondos públicos, que se ejercerá a través del proceso de admisión de alumnos, se fundamenta en los siguientes principios:
 a) **Derecho a la educación de calidad sostenida con fondos públicos.** Todos los alumnos incluidos en las edades de enseñanza obligatoria tienen derecho a una plaza escolar sostenida con fondos públicos que les garantice una educación de calidad. b) Igualdad de oportunidades. La escolarización en las enseñanzas a las que se refiere este Decreto tendrá como objetivo la igualdad de oportunidades de los alumnos madrileños, con independencia de su lugar de residencia. En ningún caso habrá discriminación por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social. c) Pluralidad de la oferta educativa. La autonomía de los centros escolares para definir proyectos educativos específicos que responden de forma efectiva a las demandas expresadas por las familias es un factor determinante de la calidad de la enseñanza. d) Excelencia académica. El reconocimiento del esfuerzo y la excelencia académica de los alumnos, con atención a las especiales características de cada edad y etapa educativa, serán tenidos en cuenta en el proceso de escolarización de los mismos. e) Compromiso de las familias. La matriculación de un alumno en un centro sostenido con fondos públicos supondrá el conocimiento y el respeto de su proyecto educativo y, en su caso, de su carácter propio y sus normas de funcionamiento, que deberán respetar a su vez los derechos de los alumnos y sus familias reconocidos en la Constitución y en las Leyes. f) Transparencia informativa. La Administración educativa y los centros educativos deberán facilitar la información necesaria para permitir una elección libre y responsable por parte de las familias.
 
-## Capítulo II. Ejercicio de la libertad de elección de centro.
+### Capítulo II. Ejercicio de la libertad de elección de centro.
 
 #### Artículo 3. Zona.
 
@@ -82,7 +168,7 @@ modificación de dicho número de alumnos deberá ser autorizada por la Administ
 
 1. Las solicitudes de plaza escolar se presentarán según el modelo oficial que establezca la Consejería competente en materia de Educación. 2. La solicitud de admisión será firmada por los padres o representantes legales del alumno si es menor de edad. En ella se indicará el centro solicitado en primer lugar y también podrán incluirse otros centros alternativos, por orden de preferencia. 3. La solicitud de admisión será presentada en el centro que se elija como primera opción dentro del plazo que fije la Consejería competente en materia de Educación.
 
-## Capítulo III. Criterios de admisión.
+### Capítulo III. Criterios de admisión.
 
 #### Artículo 9. Criterios de admisión.
 
@@ -96,7 +182,7 @@ unidades de Educación Especial en centros ordinarios o centros específicos de 
 
 Educación Especial requerirá resolución de la Consejería competente en materia de Educación, que tendrá en cuenta las preferencias de las familias, los dictámenes de los equipos de orientación educativa y psicopedagógica o departamentos de orientación y los informes especializados, así como las necesidades de los alumnos y las condiciones y posibilidades de atención de los centros.
 
-## Capítulo IV. Participación de los centros.
+### Capítulo IV. Participación de los centros.
 
 #### Artículo 11. Funciones de los centros en el proceso de admisión de alumnos.
 
@@ -111,7 +197,7 @@ Educación Especial requerirá resolución de la Consejería competente en mater
 1. La Consejería competente en materia de Educación determinará el número y la composición de los Servicios de Apoyo a la Escolarización, que estarán organizados de conformidad con lo establecido en el artículo 86.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. 2. Los Servicios de Apoyo a la Escolarización tendrán las siguientes funciones:
 a) Informar a las familias y a los alumnos sobre los centros públicos y concertados, los servicios y enseñanzas que ofrecen y las plazas disponibles en los mismos. b) Garantizar la escolarización de los alumnos que no hayan obtenido plaza en ninguno de los centros solicitados. A tal efecto, informarán a los padres, los tutores o, en su caso, los alumnos acerca de los centros docentes con plazas vacantes, para que opten por alguna de ellas, salvaguardando, en todo caso, el ejercicio efectivo del derecho a la libre elección de centro por parte de las familias. c) Supervisión del proceso de admisión de alumnos, el cumplimiento de las normas que lo regulan y propuesta a la Administración educativa de las medidas que estimen adecuadas. d) Cualesquiera otras que determine la Consejería competente en materia de Educación.
 
-## Capítulo V. Garantías de la libertad de elección de centro.
+### Capítulo V. Garantías de la libertad de elección de centro.
 
 #### Artículo 14. Recursos y reclamaciones.
 
@@ -121,9 +207,7 @@ a) Informar a las familias y a los alumnos sobre los centros públicos y concert
 
 La regulación en la Comunidad de Madrid de la admisión de alumnos en centros públicos o sostenidos con fondos públicos en enseñanzas o etapas educativas distintas de las incluidas en el ámbito de aplicación establecido en el artículo 1.2 del presente Decreto, se realizará por la Consejería competente en materia de Educación.
 
-#### Disposición transitoria única.
-
-Actuaciones previas a la constitución de los Servicios de Apoyo a la Escolarización Con el fin de garantizar el derecho a la escolarización de los alumnos, a partir de la entrada en vigor del presente Decreto, las Comisiones de Escolarización existentes durante el curso 2012-2013 desarrollarán transitoriamente las funciones encomendadas a los Servicios de Apoyo a la Escolarización. Dicha actuación finalizará una vez que se constituyan los Servicios de Apoyo a la Escolarización.
+#### Disposición transitoria única. Actuaciones previas a la constitución de los Servicios de Apoyo a la Escolarización Con el fin de garantizar el derecho a la escolarización de los alumnos, a partir de la entrada en vigor del presente Decreto, las Comisiones de Escolarización existentes durante el curso 2012-2013 desarrollarán transitoriamente las funciones encomendadas a los Servicios de Apoyo a la Escolarización. Dicha actuación finalizará una vez que se constituyan los Servicios de Apoyo a la Escolarización.
 
 #### Disposición derogatoria única. Disposiciones derogadas.
 
@@ -135,19 +219,38 @@ Se habilita al titular de la Consejería competente en materia de Educación par
 
 #### Disposición final segunda. Entrada en vigor.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID. Madrid, a 11 de abril de 2013. La Consejera de Educación, Juventud y Deporte, LUCÍA FIGAR DE LACALLE El Presidente, IGNACIO GONZÁLEZ GONZÁLEZ
+## Anexo I. BAREMO DE ADMISIÓN DE ALUMNOS EN CENTROS SOSTENIDOS CON FONDOS PÚBLICOS QUE IMPARTEN SEGUNDO CICLO DE EDUCACIÓN INFANTIL, EDUCACIÓN PRIMARIA, EDUCACIÓN SECUNDARIA OBLIGATORIA Y EDUCACIÓN ESPECIAL Criterios prioritarios 1. Hermanos matriculados en el centro o padres o representantes legales de los alumnos que trabajen en el mismo. — Uno o varios hermanos matriculados en el centro solicitado o padre, madre o representante legal del alumno que trabajen en el mismo: 10 puntos. 2. Domicilio familiar o lugar de trabajo de padres o representantes legales del alumno. a) Domicilio familiar o del lugar de trabajo de uno de los padres o representantes legales del alumno ubicado en el municipio en el que está situado el centro solicitado: 4 puntos. b) En el caso del municipio de Madrid, además de la puntuación obtenida por el apartado a) anterior, si el domicilio familiar o lugar de trabajo de uno de los padres o representantes legales del alumno está ubicado en el mismo distrito municipal que el centro solicitado: 0,5 puntos. c) Domicilio familiar o del lugar de trabajo de uno cualquiera de los padres o representante legal del alumno situado en un municipio de la Comunidad de Madrid distinto al del centro solicitado: 2 puntos. 3. Renta. — Padre, madre o representante legal beneficiario de la ayuda de la Renta Mínima de Inserción: 2 puntos. 4. Existencia de discapacidad física, psíquica y/o sensorial legalmente acreditada del alumno solicitante, de los padres, hermanos o, en su caso, del representante legal del alumno: 1,5 puntos. Criterios complementarios 5. Condición de antiguo alumno del padre, madre o representante legal del alumno, o alguno de los hermanos del solicitante del centro para el que se solicita plaza: 1,5 puntos. 6. Situación de familia numerosa:
 
-## Anexo I
-
-BAREMO DE ADMISIÓN DE ALUMNOS EN CENTROS SOSTENIDOS CON FONDOS PÚBLICOS QUE IMPARTEN SEGUNDO CICLO DE EDUCACIÓN INFANTIL, EDUCACIÓN PRIMARIA, EDUCACIÓN SECUNDARIA OBLIGATORIA Y EDUCACIÓN ESPECIAL Criterios prioritarios 1. Hermanos matriculados en el centro o padres o representantes legales de los alumnos que trabajen en el mismo. — Uno o varios hermanos matriculados en el centro solicitado o padre, madre o representante legal del alumno que trabajen en el mismo: 10 puntos. 2. Domicilio familiar o lugar de trabajo de padres o representantes legales del alumno. a) Domicilio familiar o del lugar de trabajo de uno de los padres o representantes legales del alumno ubicado en el municipio en el que está situado el centro solicitado: 4 puntos. b) En el caso del municipio de Madrid, además de la puntuación obtenida por el apartado a) anterior, si el domicilio familiar o lugar de trabajo de uno de los padres o representantes legales del alumno está ubicado en el mismo distrito municipal que el centro solicitado: 0,5 puntos. c) Domicilio familiar o del lugar de trabajo de uno cualquiera de los padres o representante legal del alumno situado en un municipio de la Comunidad de Madrid distinto al del centro solicitado: 2 puntos. 3. Renta. — Padre, madre o representante legal beneficiario de la ayuda de la Renta Mínima de Inserción: 2 puntos. 4. Existencia de discapacidad física, psíquica y/o sensorial legalmente acreditada del alumno solicitante, de los padres, hermanos o, en su caso, del representante legal del alumno: 1,5 puntos. Criterios complementarios 5. Condición de antiguo alumno del padre, madre o representante legal del alumno, o alguno de los hermanos del solicitante del centro para el que se solicita plaza: 1,5 puntos. 6. Situación de familia numerosa:
 — Familia numerosa general: 1,5 puntos. — Familia numerosa especial: 2,5 puntos. 7. Otra circunstancia, que podrá ser coincidente con algunos de los restantes criterios de admisión, acordada por el centro según criterios públicos y objetivos: 1 punto. Criterios de desempate Los empates que, en su caso, se produzcan se dirimirán aplicando los criterios en el orden que a continuación se exponen. 1. Mayor puntuación obtenida en el apartado de hermanos matriculados en el centro solicitado o padres o representantes legales de los alumnos que trabajen en el mismo. 2. Mayor puntuación obtenida en el apartado de domicilio familiar o lugar de trabajo. 3. Mayor puntuación obtenida en el apartado de discapacidad del alumno solicitante, de los padres, hermanos o, en su caso, del representante legal del alumno. 4. Mayor puntuación obtenida en el apartado de hijo o hermano de antiguo alumno del centro solicitado. 5. Mayor puntuación obtenida en el apartado de familia numerosa. 6. Mayor puntuación obtenida en el apartado de renta de la unidad familiar. 7. Mayor puntuación en el apartado de otra circunstancia acordada por el centro según criterios públicos y objetivos. 8. Sorteo público ante el Consejo Escolar del centro.
 
-## Anexo II
+## Anexo II. BAREMO DE ADMISIÓN DE ALUMNOS PARA CURSAR EL BACHILLERATO SOSTENIDO CON FONDOS PÚBLICOS Criterios prioritarios 1. Hermanos matriculados en el centro o padres o representantes legales de los alumnos que trabajen en el mismo. — Uno o varios hermanos matriculados en el centro solicitado o padre, madre o representante legal del alumno que trabajen en el mismo: 10 puntos. 2. Domicilio familiar o lugar de trabajo de los padres o representantes legales de los alumnos. a) Domicilio familiar o del lugar de trabajo de uno de los padres o representantes legales del alumno ubicado en el municipio en el que está situado el centro solicitado: 4 puntos. b) En el caso del municipio de Madrid, además de la puntuación obtenida por el apartado a) anterior, si el domicilio familiar o lugar de trabajo de uno de los padres o representantes legales del alumno está ubicado en el mismo distrito municipal que el centro solicitado: 0,5 puntos. c) Domicilio familiar o del lugar de trabajo de uno cualquiera de los padres o representante legal del alumno situado en un municipio de la Comunidad de Madrid distinto al del centro solicitado: 2 puntos. 3. Renta. — Padre, madre o representante legal del alumno beneficiario de la ayuda de la Renta Mínima de Inserción: 2 puntos. 4. Existencia de discapacidad física, psíquica y/o sensorial legalmente acreditada del alumno solicitante, de los padres, hermanos o, en su caso, del representante legal del alumno: 1,5 puntos. 5. Expediente académico (referido al último curso finalizado):
 
-BAREMO DE ADMISIÓN DE ALUMNOS PARA CURSAR EL BACHILLERATO SOSTENIDO CON FONDOS PÚBLICOS Criterios prioritarios 1. Hermanos matriculados en el centro o padres o representantes legales de los alumnos que trabajen en el mismo. — Uno o varios hermanos matriculados en el centro solicitado o padre, madre o representante legal del alumno que trabajen en el mismo: 10 puntos. 2. Domicilio familiar o lugar de trabajo de los padres o representantes legales de los alumnos. a) Domicilio familiar o del lugar de trabajo de uno de los padres o representantes legales del alumno ubicado en el municipio en el que está situado el centro solicitado: 4 puntos. b) En el caso del municipio de Madrid, además de la puntuación obtenida por el apartado a) anterior, si el domicilio familiar o lugar de trabajo de uno de los padres o representantes legales del alumno está ubicado en el mismo distrito municipal que el centro solicitado: 0,5 puntos. c) Domicilio familiar o del lugar de trabajo de uno cualquiera de los padres o representante legal del alumno situado en un municipio de la Comunidad de Madrid distinto al del centro solicitado: 2 puntos. 3. Renta. — Padre, madre o representante legal del alumno beneficiario de la ayuda de la Renta Mínima de Inserción: 2 puntos. 4. Existencia de discapacidad física, psíquica y/o sensorial legalmente acreditada del alumno solicitante, de los padres, hermanos o, en su caso, del representante legal del alumno: 1,5 puntos. 5. Expediente académico (referido al último curso finalizado):
 — Nota media mayor o igual a 9: 10 puntos. — Nota media mayor o igual a 8 y menor a 9: 8 puntos. — Nota media mayor o igual a 7 y menor a 8: 6 puntos. — Nota media mayor o igual a 6 y menor a 7: 4 puntos. Criterios complementarios 6. Condición de antiguo alumno del padre, madre o representante legal del alumno, o alguno de los hermanos del solicitante del centro para el que se solicita plaza: 1 punto. 7. Situación de familia numerosa:
 — Familia numerosa general: 1,5 puntos. — Familia numerosa especial: 2,5 puntos. 8. Otra circunstancia, que podrá ser coincidente con algunos de los restantes criterios de admisión, acordada por el centro según criterios públicos y objetivos: 1 punto. Criterios de desempate Los empates que, en su caso, se produzcan se dirimirán aplicando los criterios en el orden que a continuación se exponen:
 
 1. Mayor puntuación obtenida en el apartado de hermanos matriculados en el centro solicitado o padres o representantes legales de los alumnos que trabajen en el mismo. 2. Mayor puntuación obtenida en el apartado de valoración del expediente académico. 3. Mayor puntuación obtenida en el apartado de proximidad del domicilio familiar o del lugar de trabajo. 4. Mayor puntuación obtenida en el apartado de discapacidad del alumno solicitante, de los padres, hermanos o, en su caso, del representante legal del alumno. 5. Mayor puntuación obtenida en el apartado de hijo o hermano de antiguo alumno del centro solicitado. 6. Mayor puntuación obtenida en el apartado de familia numerosa.
 
 http://www.bocm.es D. L.: M. 19.462-1983 ISSN 1989-4791 7. Mayor puntuación obtenida en el apartado de renta de la unidad familiar. 8. Mayor puntuación en el apartado de otra circunstancia acordada por el centro según criterios públicos y objetivos. 9. Sorteo público ante el Consejo Escolar del centro. (03/11.999/13)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 84, Art. 85, Art. 86, Art. 87, Art. 88, Art. 2, Art. 29)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 84, Art. 85, Art. 86, Art. 87, Art. 88, Art. 2, Art. 29)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 84, Art. 85, Art. 86, Art. 87, Art. 88, Art. 2, Art. 29)
+- **Desarrolla**: `norm-es-c-1978` (Art. 84, Art. 85, Art. 86, Art. 87, Art. 88, Art. 2, Art. 29)
+- **Desarrolla**: `norm-mad-d29-2013` (Art. 84, Art. 85, Art. 86, Art. 87, Art. 88, Art. 2, Art. 29)
+- **Desarrolla**: `norm-es-c-1978` desde *(Capítulo V. Garantías de la libertad de elección de centro., D. Transitoria única.)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 86) desde *(Capítulo IV. Participación de los centros., Art. 13)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 86) desde *(Capítulo IV. Participación de los centros., Art. 13)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 86) desde *(Capítulo IV. Participación de los centros., Art. 13)*
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: `norm-mad-d29-2013`
+- **Cita a**: `norm-es-c-1978` (Art. 27) desde *(Capítulo I)*
+- **Cita a**: `norm-mad-d29-2013` (Art. 27) desde *(Capítulo I)*
+- **Cita a**: `norm-es-c-1978` desde *(Capítulo I, Art. 2)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo II. Ejercicio de la libertad de elección de centro., Art. 4)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo II. Ejercicio de la libertad de elección de centro., Art. 4)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo II. Ejercicio de la libertad de elección de centro., Art. 4)*

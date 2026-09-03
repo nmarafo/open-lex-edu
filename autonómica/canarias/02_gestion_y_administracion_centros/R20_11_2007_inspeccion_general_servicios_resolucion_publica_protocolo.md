@@ -25,6 +25,37 @@ tags:
 - oposiciones
 - personal-no-docente
 relaciones:
+  concordancia:
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 61 bis
+    - Art. 18
+    disposiciones_destino:
+    - D. Adicional Segunda
+  - norma_id: norm-can-d-84-2024
+    articulos_origen:
+    - Art. 61 bis
+    articulos_destino:
+    - Art. 18
+  cita:
+  - norma_id: norm-can-d-84-2024
+    articulos_origen:
+    - Art. 61 bis
+    disposiciones_destino:
+    - D. Adicional Segunda
+  - norma_id: norm-can-d-84-2024
+    articulos_origen:
+    - Art. 61
+    disposiciones_destino:
+    - D. Adicional Segunda
+    - D. Adicional Tercera
+  - norma_id: norm-can-d-84-2024
+    articulos_origen:
+    - Art. 61
+  modifica:
+  - norma_id: norm-can-d-84-2024
+    articulos_origen:
+    - Art. 61
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-lo-2-2006
@@ -35,10 +66,11 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/2007/238/boc-2007-238-005.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=58182
 ---
+
 # Inspección General de Servicios.- Resolución de 20 de noviembre de 2007, por la que se publica el Protocolo para la coordinación del procedimiento de identificación, valoración, expurgo y eliminación de series documentales específicas (BOC n.º 238, de 28 de noviembre).
 
 ## Preámbulo
@@ -266,3 +298,20 @@ Consejería de Empleo, Industria y Comercio 1946 Servicio Canario de Empleo.- Re
 ### Fundamentos de Derecho
 
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
+- **Modifica**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) desde *(Art. 61)*
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **En concordancia con**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 61 bis, Art. 18, D. Adicional Segunda)
+- **En concordancia con**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 18) desde *(Art. 61 bis)*
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (D. Adicional Segunda) desde *(Art. 61 bis)*
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (D. Adicional Segunda, D. Adicional Tercera) desde *(Art. 61)*
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) desde *(Art. 61)*

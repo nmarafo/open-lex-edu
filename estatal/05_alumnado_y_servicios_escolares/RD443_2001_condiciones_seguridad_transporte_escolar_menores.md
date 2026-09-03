@@ -32,15 +32,13 @@ tags:
 relaciones:
   fundamentado_en:
   - norma_id: norm-es-lo-2-2006
-  desarrollado_por:
-  - norma_id: norm-can-o-2-8-2006
-  fundamento_de: []
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '80'
-  - '82'
+  - norma_id: '80'
+  - norma_id: '82'
 ---
+
 # Real Decreto 443/2001, de 27 de abril, sobre condiciones de seguridad en el transporte escolar y de menores.
 
 ## Preámbulo
@@ -273,3 +271,10 @@ Este Real Decreto entrará en vigor el día 1 de septiembre de 2001. Dado en Mad
 DISTINTIVO DE TRANSPORTE ESCOLAR
 
 Este texto consolidado no tiene valor jurídico.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)

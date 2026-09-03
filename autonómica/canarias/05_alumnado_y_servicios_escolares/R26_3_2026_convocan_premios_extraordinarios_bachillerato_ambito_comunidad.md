@@ -27,15 +27,68 @@ tags:
 - neae
 relaciones:
   fundamentado_en:
-  - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-l-6-2014
+    articulos_destino:
+    - Art. 2
+    - Art. 133
+    - Art. 3
   - norma_id: norm-can-lo-1-2018
+    articulos_destino:
+    - Art. 2
+    - Art. 133
+    - Art. 3
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 68
+  - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-res-boc-2026-070-116
   - norma_id: norm-can-res-boc-2026-070-41
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-lo-2-2006
+  modifica:
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 3
+    - Art. 17
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 3
+    - Art. 17
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 3
+    - Art. 17
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 3
+    - Art. 17
+  - norma_id: norm-es-lo-2-2006
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2021-20113
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2010-12201
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 2
+  cita:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 121
+    - Art. 122
   fundamento_de:
   - norma_id: norm-can-res-028
   - norma_id: norm-can-res-boc-2026-070-116
@@ -45,7 +98,7 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-can-lo-1-2018
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-es-l-39-2015
@@ -56,6 +109,7 @@ relaciones:
   - norma_id: norm-can-res-boc-2026-070-116
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-070-1145.pdf
 ---
+
 # Resolución de 26 de marzo de 2026, por la que se convocan los Premios Extraordinarios de Bachillerato en el ámbito de la Comunidad Autónoma de Canarias, correspondientes al curso escolar 2025/2026. Plazo para realizar la inscripción: desde el 15 de mayo de 2026, día de la entrega de las calificaciones finales de segundo curso de Bachillerato, al 15 de junio de 2026. ## Preámbulo
 
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes [Resolución de 26 de marzo de 2026](../03_ordenacion_curricular_y_ensenanzas/R26_3_2026_amplian_resolucion_dicta_instrucciones_orientaciones_implantacion.md), por la que se convocan los Premios Extraordinarios de Bachillerato en el ámbito de la Comunidad Autónoma de Canarias, correspondientes al curso escolar 2025/2026. Al objeto de mejorar la calidad educativa, y de reconocer el esfuerzo y la dedicación del alumnado que termina la etapa educativa de Bachillerato en la Comunidad Autónoma de Canarias en el curso 2025/2026 con un excelente rendimiento académico, y en atención a los siguientes ANTECEDENTES DE HECHO
@@ -255,3 +309,36 @@ PROVINCIA DE LAS PALMAS GRAN CANARIA IES PÉREZ GALDÓS Dirección: Paseo de Tom
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**Resolucion BOC 41**](../03_ordenacion_curricular_y_ensenanzas/R26_3_2026_amplian_resolucion_dicta_instrucciones_orientaciones_implantacion.md)
 - [**Resolucion BOC 116**](./R26_3_2026_convocan_premios_extraordinarios_educacion_secundaria_obligatoria.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 3, Art. 17)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 3, Art. 17)
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 3, Art. 17)
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 3, Art. 17)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional vigesimotercera)
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional vigesimotercera)
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional vigesimotercera)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 2)
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 2)
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 2)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md) (Art. 2, Art. 133, Art. 3)
+- **Fundamentado en**: [**LO1_2018 Estatuto de Autonomia de Canarias**](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md) (Art. 2, Art. 133, Art. 3)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 68)
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Fundamentado en**: [**Resolucion BOC 116**](./R26_3_2026_convocan_premios_extraordinarios_educacion_secundaria_obligatoria.md)
+- **Fundamentado en**: [**Resolucion BOC 41**](../03_ordenacion_curricular_y_ensenanzas/R26_3_2026_amplian_resolucion_dicta_instrucciones_orientaciones_implantacion.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**Resolucion BOC 28**](../03_ordenacion_curricular_y_ensenanzas/R17_4_2026_corrige_error_resolucion_amplian_resolucion_dicta.md)
+- **Fundamento de**: [**Resolucion BOC 116**](./R26_3_2026_convocan_premios_extraordinarios_educacion_secundaria_obligatoria.md)
+- **Fundamento de**: [**Resolucion BOC 41**](../03_ordenacion_curricular_y_ensenanzas/R26_3_2026_amplian_resolucion_dicta_instrucciones_orientaciones_implantacion.md)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 121, Art. 122)

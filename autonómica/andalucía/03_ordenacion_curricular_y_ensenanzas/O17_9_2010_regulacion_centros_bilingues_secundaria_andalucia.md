@@ -24,6 +24,15 @@ tags:
 - auxiliares_conversacion
 - andalucia
 relaciones:
+  cita:
+  - norma_id: norm-and-d-204-1995
+    capitulo_origen: Capítulo IV. Procedimiento de calificación.
+    articulos_origen:
+    - Art. 16
+  - norma_id: norm-and-l17-2007
+    capitulo_origen: Capítulo V. Revisión, suspensión y revocación.
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
   desarrolla:
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
@@ -31,6 +40,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Orden de 17 de septiembre de 2010, por la que se regula la enseñanza bilingüe en Educación Secundaria y Bachillerato.
 
 ## Preámbulo
@@ -39,7 +49,7 @@ Sevilla, 1 de octubre 2010 Página núm. 5 CONSEJERÍA DE LA PRESIDENCIA ORDEN d
 proyectos y programas. Por un lado, los proyectos que se subvencionarán mediante convocatorias anuales de subvenciones regladas y de otro lado, los programas que tendrán una duración plurianual y se incardinarán en los Programas Operativos Geográficos, y en los Programas Operativos de Acción Humanitaria, de Educación para el Desarrollo y de Formación e Investigación. En este sentido, ya en el PACODE se prevé que el acceso de las ONGD a los programas se arbitrará mediante un procedimiento, consensuado con estas entidades, destinado a determinar aquellas que, acreditando su interés, experiencia, estructura y capacidad institucional, puedan acceder al reconocimiento por parte de la Agencia Andaluza de Cooperación Internacional para el Desarrollo (AACID en adelante) como Entidades Calificadas; así como que el apoyo a dichos programas, se concretará mediante la firma de convenios, previa convocatoria pública. Se trata de un procedimiento de calificación basado en un formato de autoevaluación por la propia ONGD con posterior revisión por parte de la AACID; cuestión ésta que merece ser destacada por cuanto persigue, con independencia de la estimación o desestimación de su calificación, que la entidad disponga de un elenco de cuestiones en las que avanzar, en el continuo proceso de mejora que toda organización, con independencia de su naturaleza y finalidad, debe alinear con la visión de su estrategia a medio y largo plazo. La ejecución del PACODE, en consonancia con el Plan Director de la Cooperación Española, está regida por los principios de colaboración, de complementariedad y de calidad de las ayudas. Y es precisamente en ese ámbito de colaboración, como garantía de la unidad y coherencia del proceso, donde tiene lugar el proceso de calificación de las ONGD para acceder a la financiación de los programas. En su virtud, de conformidad con lo dispuesto en el artículo 44.2 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, en el artículo 26.2.a) de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía, y en uso de las atribuciones que me han sido conferidas,
 DISPONGO:
 
-## Capítulo I. Objeto, finalidad y régimen jurídico.
+#### Artículo . #### Artículo . ## Capítulo I. Objeto, finalidad y régimen jurídico.
 
 #### Artículo 1. Objeto y finalidad.
 
@@ -65,7 +75,7 @@ Página núm. 6 Sevilla, 1 de octubre 2010
 - El Decreto 172/2005, de 19 de julio, por el que se regula el Consejo Andaluz de Cooperación Internacional para el Desarrollo, la Comisión de Cooperación para el Desarrollo y el Registro de Agentes de la Cooperación Internacional para el Desarrollo.
 - Cualquier otra normativa que pueda resultar de aplicación.
 
-## Capítulo II. Normas especiales sobre los ámbitos objetivo, subjetivo y temporal.
+### Capítulo II. Normas especiales sobre los ámbitos objetivo, subjetivo y temporal.
 
 #### Artículo 3. Modalidades de la calificación.
 
@@ -83,7 +93,7 @@ Las ONGD con calificación vigente en la Agencia Española de Cooperación Inter
 
 3. La «ONGD calificada» está obligada a auditar anualmente sus cuentas, remitiendo a la AACID en el primer semestre de cada año un informe de la auditoría de cuentas del ejercicio económico inmediatamente anterior.
 
-## Capítulo III. Requisitos, sectores y calificaciones.
+### Capítulo III. Requisitos, sectores y calificaciones.
 
 #### Artículo 6. Requisitos y criterios de valoración para la. acreditación como «ONGD calificada».
 
@@ -168,7 +178,7 @@ Los criterios de valoración se estructuran en tres apartados, desarrollados en 
 
 Página núm. 8 Sevilla, 1 de octubre 2010
 
-## Capítulo IV. Procedimiento de calificación.
+### Capítulo IV. Procedimiento de calificación.
 
 #### Artículo 14. Procedimiento de calificación.
 
@@ -222,9 +232,7 @@ vigente en la AECID, solicitará la correspondiente certificación de la misma.
 
 #### Artículo 19. Resolución del procedimiento.
 
-La Comisión de Valoración, a la vista de lo actuado, elevará a la persona titular de la Dirección de la AACID la correspondiente propuesta de Resolución definitiva, que será motivada y, en su caso, deberá contener las calificaciones otorgadas con expresión de las valoraciones obtenidas. El plazo máximo para dictar y notificar la Resolución definitiva será de tres meses, computándose dicho plazo desde el día de la recepción de la solicitud en el Registro de la AACID. Transcurrido dicho plazo, sin que se hubiese dictado y notificado Resolución expresa podrán entenderse desestimadas por silencio administrativo conforme a lo establecido en el artículo 120.4 del Texto Refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía. El plazo máximo para dictar y notificar la resolución del procedimiento de calificación podrá suspenderse en los casos previstos en el artículo 42.5 de la Ley 30/1992, de 26 de noviembre. La AACID publicará en el Boletín Oficial de la Junta de Andalucía un extracto de las Resoluciones que contendrá al menos el número de registro, la denominación de las ONGD y los motivos de estimación o desestimación de las solicitudes y, en su caso, la modalidad o modalidades de calificación obtenidas.
-
-## Capítulo V. Revisión, suspensión y revocación.
+### Capítulo V. Revisión, suspensión y revocación.
 
 #### Artículo 20. Revisión y revocación de la calificación: Efectos.
 
@@ -276,17 +284,12 @@ ejecución y aplicación de la Orden. Se habilita al Director de la AACID para r
 
 #### Disposición final tercera. Entrada en vigor.
 
-La presente Orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía.
-
 Sevilla, 1 de octubre 2010 Página núm. 11
 
-## Anexo I
+## Anexo I. Página núm. 12 Sevilla, 1 de octubre 2010
 
-Página núm. 12 Sevilla, 1 de octubre 2010
+## Anexo II. SISTEMA DE CALIFICACIÓN DE ONGD. REQUISITOS PREVIOS CUESTIONARIO DE AUTOEVALUACIÓN Y DETALLE DE LA DOCUMENTACIÓN A APORTAR POR LA ENTIDAD SOLICITANTE Los requisitos previos de calificación son de obligado cumplimiento para las ONGD que pretendan ser calificadas. Así, de la respuesta positiva o negativa a las cuestiones planteadas en los ítems 1 a 10, depende su continuación en el procedimiento. En lo referido al ítem 8, y en base a las cuentas anuales de la ONGD y el informe de auditoría se dictaminará el cumplimiento del principio de «entidad en funcionamiento» a través del correspondiente procedimiento de verificación y evaluación aplicable al caso. Como quiera que el sistema de calificación persigue un razonable grado de especialización en alguna(s) de las diversas áreas de intervención en la materia, se hace necesario establecer unos «mínimos» conforme a las prioridades marcadas por el Plan Andaluz de Cooperación al Desarrollo 2008-11. A ello responden los ítems 11, 12, 13 y 14. NOTA: conforme a lo establecido en el apartado 7 del artículo 16 de la Orden este Anexo será íntegramente cumplimentado para su acompañamiento al primero de los procedimientos de calificación a los que su ONGD opte. Para el segundo, y en su caso sucesivos procedimientos, solo deberá cumplimentar los ítems 11 ó 12 ó 13 ó 14. Si este fuera el caso hágalo constar a continuación:
 
-## Anexo II
-
-SISTEMA DE CALIFICACIÓN DE ONGD. REQUISITOS PREVIOS CUESTIONARIO DE AUTOEVALUACIÓN Y DETALLE DE LA DOCUMENTACIÓN A APORTAR POR LA ENTIDAD SOLICITANTE Los requisitos previos de calificación son de obligado cumplimiento para las ONGD que pretendan ser calificadas. Así, de la respuesta positiva o negativa a las cuestiones planteadas en los ítems 1 a 10, depende su continuación en el procedimiento. En lo referido al ítem 8, y en base a las cuentas anuales de la ONGD y el informe de auditoría se dictaminará el cumplimiento del principio de «entidad en funcionamiento» a través del correspondiente procedimiento de verificación y evaluación aplicable al caso. Como quiera que el sistema de calificación persigue un razonable grado de especialización en alguna(s) de las diversas áreas de intervención en la materia, se hace necesario establecer unos «mínimos» conforme a las prioridades marcadas por el Plan Andaluz de Cooperación al Desarrollo 2008-11. A ello responden los ítems 11, 12, 13 y 14. NOTA: conforme a lo establecido en el apartado 7 del artículo 16 de la Orden este Anexo será íntegramente cumplimentado para su acompañamiento al primero de los procedimientos de calificación a los que su ONGD opte. Para el segundo, y en su caso sucesivos procedimientos, solo deberá cumplimentar los ítems 11 ó 12 ó 13 ó 14. Si este fuera el caso hágalo constar a continuación:
 Espacio reservado para hacer constar que la ONGD que suscribe ya acreditó los requisitos y condiciones de los ítems 1 a 10 en anterior procedimiento de calificación. Para su identificación consigne la fecha de aquella solicitud y modalidad a la que optó:
 1. ¿Está inscrita la ONGD en el Registro de Agentes de la Cooperación Internacional para el Desarrollo en Andalucía, creado por el artículo 19 de la Ley 14/2003, de 22 de diciembre, y –en su caso- ha cumplido con las obligaciones de actualización de datos que establece el Decreto 172/2005, de 19 de julio? Márquese lo que proceda SI NO
 
@@ -373,9 +376,7 @@ CUADRO 5
 
 Sevilla, 1 de octubre 2010 Página núm. 23
 
-## Anexo III
-
-SISTEMA DE CALIFICACIÓN DE ONGD. REQUISITOS PARA LA VALORACIÓN OBJETIVA. CUESTIONARIO DE AUTOEVALUACIÓN Y DETALLE DE LA DOCUMENTACIÓN A APORTAR POR LA ENTIDAD SOLICITANTE
+## Anexo III. SISTEMA DE CALIFICACIÓN DE ONGD. REQUISITOS PARA LA VALORACIÓN OBJETIVA. CUESTIONARIO DE AUTOEVALUACIÓN Y DETALLE DE LA DOCUMENTACIÓN A APORTAR POR LA ENTIDAD SOLICITANTE
 
 Página núm. 24 Sevilla, 1 de octubre 2010
 
@@ -392,3 +393,15 @@ Sevilla, 1 de octubre 2010 Página núm. 29
 Página núm. 30 Sevilla, 1 de octubre 2010
 
 Sevilla, 17 de septiembre de 2010 MARÍA DEL MAR MORENO RUIZ Consejera de la Presidencia
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**D204_1995 Régimen Disciplinario Empleados Públicos Andalucía**](../01_marco_normativo_general_y_organico/D204_1995_reglamento_disciplinario_empleados_publicos_andalucia.md) desde *(Capítulo IV. Procedimiento de calificación., Art. 16)*
+- **Cita a**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) desde *(Capítulo V. Revisión, suspensión y revocación., D. Final tercera. Entrada en vigor.)*

@@ -32,6 +32,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Decreto 135/2014, de 7 de octubre, por el que se establece la ordenación de las Enseñanzas de Idiomas en Andalucía.
 
 ## Preámbulo
@@ -74,15 +75,11 @@ Boletín 201
 
 ##
 
-Histórico del BOJA Boletín número 201 de 15/10/2014
-
 ## 1. Disposiciones generales
 
 ### Consejería de Turismo y Comercio
 
-### Orden de 30 de septiembre de 2014, por la que se amplía el plazo para resolver la convocatoria de subvenciones en materia de artesanía (Modalidad ARA/ARE), correspondiente al ejercicio 2014. Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad con CVE 00056376. Conforme a lo dispuesto en el artículo 19.3 de las bases reguladoras de la Orden de 9 de julio de 2014, por la que se aprueban las bases reguladoras para la concesión de subvenciones en régimen de concurrencia competitiva en materia de artesanía y se convocan, para el ejercicio 2014, las subvenciones a conceder en favor de asociaciones, federaciones y confederaciones de artesanos y artesanas y en favor de empresas, personas físicas o jurídicas, artesanas (Modalidad ARA/E) (BOJA núm. 140, de fecha 21 de julio), el plazo máximo para resolver y publicar la resolución del procedimiento será el establecido en el apartado 16 del Cuadro Resumen, y se computará a partir del día siguiente al de finalización del plazo para la presentación de solicitudes. El vencimiento del plazo máximo sin que se hubiese dictado y publicado la resolución expresa, legitima a las personas interesadas para entender desestimada por silencio administrativo la solicitud de concesión de la subvención.
-
-Asimismo, el Cuadro Resumen de las bases reguladoras establece en su apartado 16 que el plazo máximo para resolver y publicar la resolución del procedimiento será de 3 meses desde el día siguiente al de la finalización del plazo de presentación de solicitudes.
+### Orden de 30 de septiembre de 2014, por la que se amplía el plazo para resolver la convocatoria de subvenciones en materia de artesanía (Modalidad ARA/ARE), correspondiente al ejercicio 2014. Asimismo, el Cuadro Resumen de las bases reguladoras establece en su apartado 16 que el plazo máximo para resolver y publicar la resolución del procedimiento será de 3 meses desde el día siguiente al de la finalización del plazo de presentación de solicitudes.
 
 Dicho plazo se entiende computado a partir del día siguiente al de finalización del plazo de presentación de solicitudes, que concluyó el 7 de agosto de 2014. Como consecuencia del número de solicitudes formuladas, de la necesidad de solicitar aclaraciones e información complementaria a las mismas, a la vista de la fase en la que se encuentra el procedimiento de concesión, así como de la proximidad del vencimiento del plazo máximo de resolución y notificación, y pese a haberse habilitado todos los medios materiales y personales disponibles al efecto, se prevé que este plazo no va a poder ser cumplido.
 
@@ -90,7 +87,7 @@ Visto el artículo 42.6 de la Ley 30/92, de 26 de noviembre, de Régimen Jurídi
 
 DISPONGO:
 
-Primero. Ampliar hasta el 22 de diciembre de 2014 el plazo máximo para resolver y notificar la convocatoria de subvenciones en materia de artesanía (Modalidad ARA/ARE), correspondiente al ejercicio 2014, en relación con lo dispuesto en el artículo 19.3 de las bases reguladoras de la Orden de 9 de julio de 2014. Contra la presente Orden de ampliación de plazo máximo para resolver no cabe recurso alguno.
+#### Artículo . #### Artículo . Primero. Ampliar hasta el 22 de diciembre de 2014 el plazo máximo para resolver y notificar la convocatoria de subvenciones en materia de artesanía (Modalidad ARA/ARE), correspondiente al ejercicio 2014, en relación con lo dispuesto en el artículo 19.3 de las bases reguladoras de la Orden de 9 de julio de 2014. Contra la presente Orden de ampliación de plazo máximo para resolver no cabe recurso alguno.
 
 Sevilla, 30 de septiembre de 2014
 
@@ -131,3 +128,13 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

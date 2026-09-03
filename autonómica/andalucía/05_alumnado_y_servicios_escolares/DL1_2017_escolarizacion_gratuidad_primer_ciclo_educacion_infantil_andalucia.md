@@ -25,16 +25,20 @@ tags:
 - escolarizacion
 - andalucia
 relaciones:
+  modifica:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 2
+    - Art. 1
+    - Art. 106
   desarrolla:
   - norma_id: norm-es-lo-2-2006
-  modifica_a: []
-  modificado_por: []
-  afecta_a_articulos: []
   fundamentado_en:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-and-l17-2007
 ---
+
 # Decreto-ley 1/2017, de 28 de marzo, de medidas urgentes para favorecer la escolarización en el primer ciclo de la educación infantil en Andalucía
 
 ## Preámbulo
@@ -71,11 +75,18 @@ b) Los entrenamientos y concentraciones de las selecciones andaluzas organizadas
 c) Clubes participantes en competiciones oficiales, así como las entidades deportivas y clubes que desarrollen actividades con deportistas con discapacidad tendrán una reducción del 50% del importe fijado en los precios públicos tanto en los entrenamientos como en las competiciones.
 d) Miembros de los cuerpos y fuerzas de seguridad del estado tendrán una reducción del 50% del importe fijado en los precios públicos para aquellos servicios de carácter individual.
 e) Los deportistas de alto nivel y de alto rendimiento, incluidos en las relaciones oficiales a nivel nacional y andaluz, se beneficiarán de un 90% de reducción del precio público para aquellos servicios de carácter individual.
-Quinto. Las cuantías de los precios públicos previstas en el Anexo del presente Acuerdo sólo se revisarán cuando varíen los costes específicos del servicio o actividad, y de acuerdo con el incremento de dichos costes, mediante la correspondiente norma publicada en el Boletín Oficial de la Junta de Andalucía.
-Sexto. El presente Acuerdo surtirá efectos desde el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 21 de marzo de 2017 SUSANA DÍAZ PACHECO Presidenta de la Junta de Andalucía MANUEL JIMÉNEZ BARRIOS Vicepresidente de la Junta de Andalucía y Consejero de la Presidencia y Administración Local
 
-## Anexo
-
-PRECIOS PÚBLICOS
+## Anexo. PRECIOS PÚBLICOS
 
 1.- Precios Públicos para el acceso a las Instalaciones Deportivas. 2.- Precios Públicos para el uso de las Instalaciones Deportivas. 2.1.- Golf. Instalaciones, Tee de Practicas y Putting grenn. 2.2.- Zona de Raquetas. Pistas de Pádel. 3.- Precios Públicos para Escuela de Golf y Escuela de Pádel. Precio UD. 20,00 € 12,00 € 10,00 € 6,00 € 40,00 € 30,00 € 3,00 € 5,00 € Precio UD. 3,5 €/Día 2 €/Día 5 €/Día 160,00 € ACCESO A LA INSTALACIÓN DEPORTIVA Instalacion General. SOCIOS Acceso instalación (Anual) Acceso instalación menores 16 años (Anual) Acceso instalación familiar (Anual) Duplicado de carnet, por unidad Gestion de recibos devueltos Acceso instalación familiar (Semestre) Acceso instalación (Semestre) Acceso instalación menores 16 años Acceso instalación familiar Acceso instalación menores 16 años (Semestre) Acceso instalación ACCESO A LA INSTALACIÓN DEPORTIVA Ocupacion de uso especial por unidades y dia Instalación General. NO SOCIOS TRIMESTRAL SEMESTRAL Precio UD. 3,00 € 10,00 € 60,00 € 100,00 € 5,00 € 5,00 € 20,00 € 80,00 € 120,00 € 7,00 € 7,00 € 25,00 € 90,00 € 140,00 € 10,00 € 1,00 € 4,00 € 20,00 € 30,00 € 2,00 € 1,00 € 4,00 € 30,00 € 50,00 € 2,00 € SOCIO NO SOCIO TARIFA PLANA Precio UD. bono 5 usos Golf ALQUILERES Acceso zona de prácticas + 2 cubos de bolas Acceso zona de prácticas + 4 cubos de bolas Acceso zona de prácticas + cubos de bolas ilimitados Alquiler de palo de golf por dia Alquiler de cesta de bolas de golf TRIMESTRAL SEMESTRAL Precio UD. 8,00 € 10,00 € 4,00 € 6,00 € 25,00 € 60,00 € 90,00 € 15,00 € 35,00 € 50,00 € Pistas de Padel. ALQUILERES Alquiler pista de padel por 90 minutos Alquiler pista de padel por 90 minutos antes de las 18 h Tarifa plana mensual horario completo alquiler pista Tarifa plana mensual horario (de 08´00 a 18´00 hrs,) alquiler pista SOCIO NO SOCIO Precio UD. TARIFA PLANA TRIMESTRAL SEMESTRAL Precio UD. 25,00 € 35,00 € 20,00 € 30,00 € 12,00 € 12,00 € 25,00 € 65,00 € 115,00 € 30,00 € 75,00 € 140,00 € 40,00 € 110,00 € 200,00 € 55,00 € 150,00 € 280,00 € 65,00 € 80,00 € 20,00 € Cursos intensivos Curso de Escuela Infantil 1 día/semana Curso de Escuela Adulto 1 día/semana Curso de Escuela Infantil 2 día/semana Curso de Escuela Adulto 2 día/semana CONCEPTO Clases particulares Individuales 1h Clases particulares Individuales por persona y 30 minutos Clinic de Golf por persona y 60 minutos TARIFA PLANA SOCIO Precio UD. NO SOCIO Escuelas Golf y Pádel Obtencion de Handicap (examen teorico y practico)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: `norm-es-c-1978` (Art. 2, Art. 1, Art. 106)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)

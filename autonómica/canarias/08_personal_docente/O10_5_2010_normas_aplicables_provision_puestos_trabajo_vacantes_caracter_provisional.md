@@ -26,7 +26,9 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-099-2889.
 anexos_extraidos_pdf: true
 ocr_procesado: true
 fecha_disposicion: '2010-05-10'
+relaciones: {}
 ---
+
 # Orden de 10 de mayo de 2010, por la que se establecen las normas aplicables para la provisión de puestos de trabajo vacantes con carácter provisional, por parte del personal funcionario de carrera, funcionario en prácticas y laboral fijo docente no universitario, en el ámbito de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo

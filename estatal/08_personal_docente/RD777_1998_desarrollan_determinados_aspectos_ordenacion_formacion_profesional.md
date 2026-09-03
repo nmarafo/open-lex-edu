@@ -27,25 +27,99 @@ tags:
 - profesorado
 - titulacion
 relaciones:
+  cita:
+  - norma_id: norm-es-2001-7022
+    titulo_destino: Título I
+    capitulo_destino: Capítulo IV
+  - norma_id: norm-es-lo-8-1985
+    capitulo_origen: Capítulo I. Sistemas de acceso, admisión y matriculación en ciclos
+      formativos.
+    articulos_origen:
+    - Art. 4
+    disposiciones_destino:
+    - D. Adicional tercera
+  - norma_id: norm-es-2001-7022
+    capitulo_origen: Capítulo I. Sistemas de acceso, admisión y matriculación en ciclos
+      formativos.
+    articulos_origen:
+    - Art. 6
+    articulos_destino:
+    - Art. 32
+  - norma_id: norm-es-1993-23257
+    capitulo_origen: Capítulo V. Profesorado.
+    articulos_origen:
+    - D. Transitoria segunda. Aplicación de las equivalencias a efectos de docencia
+      en los procedimientos selectivos para el ingreso en el Cuerpo de Profesores
+      Técnicos de Formación Profesional.
+  - norma_id: norm-es-2001-7022
+    capitulo_origen: Capítulo V. Profesorado.
+    articulos_origen:
+    - D. Transitoria tercera. Oferta de plazas de especialidades a profesores funcionarios
+      según titulación.
+  modifica:
+  - norma_id: norm-es-1995-22212
+  - norma_id: norm-es-1995-22212
+    capitulo_origen: Capítulo V. Profesorado.
+    articulos_origen:
+    - D. Adicional octava. Modificación y ampliación del [Real Decreto 1635/1995](./RD1635_1995_adscribe_profesorado_cuerpos_profesores_ensenanza_secundaria.md).
+    disposiciones_destino:
+    - D. Adicional octava
+  - norma_id: norm-es-1995-22212
+    capitulo_origen: Capítulo V. Profesorado.
+    articulos_origen:
+    - D. Adicional octava. Modificación y ampliación del [Real Decreto 1635/1995](./RD1635_1995_adscribe_profesorado_cuerpos_profesores_ensenanza_secundaria.md).
+  - norma_id: norm-es-1995-22212
+    capitulo_origen: Capítulo V. Profesorado.
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
   fundamentado_en:
+  - norma_id: norm-es-2001-7022
+    capitulo_origen: Capítulo II. Efectos académicos y profesionales de los títulos
+      de Formación Profesional.
+    articulos_origen:
+    - Art. 11
+    articulos_destino:
+    - Art. 35
+    - Art. 32
   - norma_id: norm-es-1993-23257
   - norma_id: norm-es-1995-22212
-  - norma_id: norm-es-2001-7022
   - norma_id: norm-es-lo-8-1985
   - norma_id: norm-es-rd-276-2007
   - norma_id: norm-es-rdl-5-2015
+  desarrolla:
+  - norma_id: norm-es-2001-7022
+    capitulo_origen: Capítulo V. Profesorado.
+    articulos_origen:
+    - D. Final primera. Carácter básico y normas de desarrollo.
+    articulos_destino:
+    - Art. 4
+    - Art. 14
+    - Art. 15
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-lo-8-1985
+    capitulo_origen: Capítulo V. Profesorado.
+    articulos_origen:
+    - D. Final primera. Carácter básico y normas de desarrollo.
+    articulos_destino:
+    - Art. 4
+    - Art. 14
+    - Art. 15
+    disposiciones_destino:
+    - D. Adicional primera
   fundamento_de:
   - norma_id: norm-es-rd-1364-2010
   - norma_id: norm-es-rd-276-2007
   fundamentos_derecho:
   - norma_id: norm-es-rd-276-2007
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-lo-8-1985
   - norma_id: norm-es-1993-23257
   - norma_id: norm-es-1995-22212
 ---
+
 # Real Decreto 777/1998, de 30 de abril, por el que se desarrollan determinados aspectos de la ordenación de la formación profesional en el ámbito del sistema educativo.
 
 ## Preámbulo
@@ -7397,3 +7471,28 @@ Ingeniero: Químico; Industrial; de Materiales; en Automática y Electrónica In
 - [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
 - [**BOE-A-1993-23257**](./RD850_1993_aprueban_temarios_han_regir_procedimientos_ingreso.md)
 - [**BOE-A-1995-22212**](./RD1635_1995_adscribe_profesorado_cuerpos_profesores_ensenanza_secundaria.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (Art. 4, Art. 14, Art. 15, D. Adicional primera) desde *(Capítulo V. Profesorado., D. Final primera. Carácter básico y normas de desarrollo.)*
+- **Desarrolla**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 4, Art. 14, Art. 15, D. Adicional primera) desde *(Capítulo V. Profesorado., D. Final primera. Carácter básico y normas de desarrollo.)*
+- **Modifica**: [**BOE-A-1995-22212**](./RD1635_1995_adscribe_profesorado_cuerpos_profesores_ensenanza_secundaria.md)
+- **Modifica**: [**BOE-A-1995-22212**](./RD1635_1995_adscribe_profesorado_cuerpos_profesores_ensenanza_secundaria.md) (D. Adicional octava) desde *(Capítulo V. Profesorado., D. Adicional octava. Modificación y ampliación del [Real Decreto 1635/1995](./RD1635_1995_adscribe_profesorado_cuerpos_profesores_ensenanza_secundaria.md).)*
+- **Modifica**: [**BOE-A-1995-22212**](./RD1635_1995_adscribe_profesorado_cuerpos_profesores_ensenanza_secundaria.md) desde *(Capítulo V. Profesorado., D. Adicional octava. Modificación y ampliación del [Real Decreto 1635/1995](./RD1635_1995_adscribe_profesorado_cuerpos_profesores_ensenanza_secundaria.md).)*
+- **Modifica**: [**BOE-A-1995-22212**](./RD1635_1995_adscribe_profesorado_cuerpos_profesores_ensenanza_secundaria.md) desde *(Capítulo V. Profesorado., D. Final tercera. Entrada en vigor.)*
+- **Fundamentado en**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (Art. 35, Art. 32) desde *(Capítulo II. Efectos académicos y profesionales de los títulos de Formación Profesional., Art. 11)*
+- **Fundamentado en**: [**BOE-A-1993-23257**](./RD850_1993_aprueban_temarios_han_regir_procedimientos_ingreso.md)
+- **Fundamentado en**: [**BOE-A-1995-22212**](./RD1635_1995_adscribe_profesorado_cuerpos_profesores_ensenanza_secundaria.md)
+- **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
+- **Fundamentado en**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamento de**: [**RD1364_2010 Regulacion del Concurso de Traslados Docente**](./RD1364_2010_regula_concurso_traslados_ambito_estatal_entre.md)
+- **Fundamento de**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (Título I, Capítulo IV)
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (D. Adicional tercera) desde *(Capítulo I. Sistemas de acceso, admisión y matriculación en ciclos formativos., Art. 4)*
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (Art. 32) desde *(Capítulo I. Sistemas de acceso, admisión y matriculación en ciclos formativos., Art. 6)*
+- **Cita a**: [**BOE-A-1993-23257**](./RD850_1993_aprueban_temarios_han_regir_procedimientos_ingreso.md) desde *(Capítulo V. Profesorado., D. Transitoria segunda. Aplicación de las equivalencias a efectos de docencia en los procedimientos selectivos para el ingreso en el Cuerpo de Profesores Técnicos de Formación Profesional.)*
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) desde *(Capítulo V. Profesorado., D. Transitoria tercera. Oferta de plazas de especialidades a profesores funcionarios según titulación.)*

@@ -31,20 +31,120 @@ tags:
 - grado-medio
 - profesorado
 relaciones:
+  desarrolla:
+  - norma_id: norm-can-l-6-2014
+    articulos_destino:
+    - Art. 84
+    - Art. 51
+    - Art. 133
+  - norma_id: norm-can-lo-1-2018
+    articulos_destino:
+    - Art. 84
+    - Art. 51
+    - Art. 133
+  - norma_id: norm-can-d-9-2022
+    articulos_destino:
+    - Art. 84
+    - Art. 51
+    - Art. 133
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 84
+    - Art. 51
+    - Art. 133
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 84
+    - Art. 51
+    - Art. 133
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 84
+    - Art. 51
+    - Art. 133
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_destino:
+    - Art. 7
+    - Art. 4
+    - Art. 111
+    - Art. 115
+    - Art. 120
+    - Art. 122
+  - norma_id: norm-can-res-134
+    articulos_destino:
+    - Art. 7
+    - Art. 4
+    - Art. 111
+    - Art. 115
+    - Art. 120
+    - Art. 122
+  - norma_id: norm-es-lo-3-2022
+    articulos_destino:
+    - Art. 7
+    - Art. 4
+    - Art. 111
+    - Art. 115
+    - Art. 120
+    - Art. 122
+  - norma_id: norm-es-rd-659-2023
+    articulos_destino:
+    - Art. 7
+    - Art. 4
+    - Art. 111
+    - Art. 115
+    - Art. 120
+    - Art. 122
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_origen:
+    - D. Adicional tercera. de la Orden de 3 de marzo de 2022, por la que se desarrolla
+      el.
+    articulos_destino:
+    - Art. 111
+    - Art. 115
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - D. Adicional tercera. de la Orden de 3 de marzo de 2022, por la que se desarrolla
+      el.
+    articulos_destino:
+    - Art. 111
+    - Art. 115
+  cita:
+  - norma_id: norm-can-d-84-2024
+    articulos_origen:
+    - D. Adicional tercera. de la Orden de 3 de marzo de 2022, por la que se desarrolla
+      el.
+    articulos_destino:
+    - Art. 20
+  - norma_id: norm-can-d-9-2022
+    articulos_origen:
+    - D. Adicional tercera. de la Orden de 3 de marzo de 2022, por la que se desarrolla
+      el.
+    articulos_destino:
+    - Art. 20
   fundamentado_en:
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_origen:
+    - D. Adicional tercera. de la Orden de 3 de marzo de 2022, por la que se desarrolla
+      el.
+    articulos_destino:
+    - Art. 111
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - D. Adicional tercera. de la Orden de 3 de marzo de 2022, por la que se desarrolla
+      el.
+    articulos_destino:
+    - Art. 111
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-d-9-2022
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-can-lo-1-2018
   - norma_id: norm-can-res-134
-  - norma_id: norm-can-res-boc-2024-230-25
   - norma_id: norm-can-res-boc-2025-061-88
   - norma_id: norm-can-res-boc-2026-039-103
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-3-2022
-  - norma_id: norm-es-rd-659-2023
   - norma_id: norm-es-l-39-2015
   fundamento_de:
   - norma_id: norm-can-res-099
@@ -53,12 +153,10 @@ relaciones:
   - norma_id: norm-can-res-boc-2026-039-111
   - norma_id: norm-can-res-boc-2026-073-113
   - norma_id: norm-can-res-boc-2026-132-101
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-lo-1-2018
   - norma_id: norm-can-res-boc-2024-230-25
@@ -73,6 +171,7 @@ relaciones:
   - norma_id: norm-can-res-boc-2026-039-103
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-039-642.pdf
 ---
+
 # Resolución de 13 de febrero de 2026, por la que se convoca el procedimiento de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) y de los cursos de especialización de Grado Medio y Superior (Grados E, niveles 2 y 3, respectivamente) de todas las Enseñanzas de Formación Profesional autorizadas, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Deportivas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas de Idiomas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027. ## Preámbulo
 
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes [Resolución de 13 de febrero de 2026](./R13_2_2026_dictan_instrucciones_proceso_admision_alumnado_ciclos.md), por la que se convoca el procedimiento de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) y de los cursos de especialización de Grado Medio y Superior (Grados E, niveles 2 y 3, respectivamente) de todas las Enseñanzas de Formación Profesional autorizadas, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Deportivas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas de Idiomas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027. Vista la necesidad de convocar el procedimiento de admisión del alumnado y publicar el calendario del mismo para cursar, en centros docentes sostenidos con fondos públicos, las enseñanzas de Formación Profesional tales como los ciclos formativos de Grado Básico, Medio y Superior (niveles 1, 2 y 3, respectivamente), las dobles titulaciones de formación profesional de los Grados D (niveles 2 y 3), los cursos de especialización denominados Grados E, en sus niveles 2 y 3, los cambios de centro o de modalidad en los segundos (2.º) o terceros (3.º) cursos de cada una de las enseñanzas, la modalidad bilingüe en los Grados D, niveles 2 y 3, Itinerarios Formativos de Formación Profesional Adaptada (IF+16/IF+21), Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Deportivas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas de Idiomas en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027, y teniendo en cuenta el siguiente ANTECEDENTE DE HECHO Único.- La Administración educativa debe convocar, para el curso 2026-2027, el procedimiento de admisión de aquel alumnado que se encuentre en los siguientes supuestos:
@@ -299,3 +398,43 @@ Folio 22 de 22 PRUEBA DE CLASIFICACIÓN DE ENSEÑANZAS DE IDIOMAS DE RÉGIMEN ES
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**Resolucion BOC 88**](../04_organizacion_escolar_y_funcionamiento/R19_3_2025_escolarizacion_servicios_complementarios_corrige_error_resolucion.md)
 - [**Resolucion BOC 103**](./R13_2_2026_dictan_instrucciones_proceso_admision_alumnado_ciclos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md) (Art. 84, Art. 51, Art. 133)
+- **Desarrolla**: [**LO1_2018 Estatuto de Autonomia de Canarias**](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md) (Art. 84, Art. 51, Art. 133)
+- **Desarrolla**: [**D9_2022 Admision del Alumnado en Canarias**](./D9_2022_regula_admision_alumnado_centros_docentes_publicos.md) (Art. 84, Art. 51, Art. 133)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 84, Art. 51, Art. 133)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 84, Art. 51, Art. 133)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 84, Art. 51, Art. 133)
+- **Desarrolla**: [**Resolucion BOC 25**](../03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Art. 7, Art. 4, Art. 111, Art. 115, Art. 120, Art. 122)
+- **Desarrolla**: [**Resolucion BOC 134**](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md) (Art. 7, Art. 4, Art. 111, Art. 115, Art. 120, Art. 122)
+- **Desarrolla**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 7, Art. 4, Art. 111, Art. 115, Art. 120, Art. 122)
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 7, Art. 4, Art. 111, Art. 115, Art. 120, Art. 122)
+- **Desarrolla**: [**Resolucion BOC 25**](../03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Art. 111, Art. 115) desde *(D. Adicional tercera. de la Orden de 3 de marzo de 2022, por la que se desarrolla el.)*
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 111, Art. 115) desde *(D. Adicional tercera. de la Orden de 3 de marzo de 2022, por la que se desarrolla el.)*
+- **Fundamentado en**: [**Resolucion BOC 25**](../03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Art. 111) desde *(D. Adicional tercera. de la Orden de 3 de marzo de 2022, por la que se desarrolla el.)*
+- **Fundamentado en**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 111) desde *(D. Adicional tercera. de la Orden de 3 de marzo de 2022, por la que se desarrolla el.)*
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Fundamentado en**: [**D9_2022 Admision del Alumnado en Canarias**](./D9_2022_regula_admision_alumnado_centros_docentes_publicos.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO1_2018 Estatuto de Autonomia de Canarias**](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md)
+- **Fundamentado en**: [**Resolucion BOC 134**](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md)
+- **Fundamentado en**: [**Resolucion BOC 88**](../04_organizacion_escolar_y_funcionamiento/R19_3_2025_escolarizacion_servicios_complementarios_corrige_error_resolucion.md)
+- **Fundamentado en**: [**Resolucion BOC 103**](./R13_2_2026_dictan_instrucciones_proceso_admision_alumnado_ciclos.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamento de**: [**Resolucion BOC 99**](../04_organizacion_escolar_y_funcionamiento/R25_3_2026_aprueba_instruccion_ayudas_prestamo_libros_texto.md)
+- **Fundamento de**: [**Resolucion BOC 112**](./R6_3_2026_corrige_error_resolucion_convoca_procedimiento_admision.md)
+- **Fundamento de**: [**Resolucion BOC 103**](./R13_2_2026_dictan_instrucciones_proceso_admision_alumnado_ciclos.md)
+- **Fundamento de**: [**Resolucion BOC 111**](./R5_2_2026_dgacesc_convoca_procedimiento_admision_alumnado_centros.md)
+- **Fundamento de**: [**Resolucion BOC 113**](./R8_4_2026_corrige_resolucion_dicta_instrucciones_proceso_admision.md)
+- **Fundamento de**: [**Resolucion BOC 101**](./R24_6_2026_corrige_resolucion_dicta_instrucciones_proceso_admision.md)
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 20) desde *(D. Adicional tercera. de la Orden de 3 de marzo de 2022, por la que se desarrolla el.)*
+- **Cita a**: [**D9_2022 Admision del Alumnado en Canarias**](./D9_2022_regula_admision_alumnado_centros_docentes_publicos.md) (Art. 20) desde *(D. Adicional tercera. de la Orden de 3 de marzo de 2022, por la que se desarrolla el.)*

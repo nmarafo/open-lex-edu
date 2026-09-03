@@ -28,6 +28,52 @@ tags:
 - formacion-profesional
 - titulacion
 relaciones:
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 59
+    - Art. 60
+    - Art. 61
+    - Art. 62
+  - norma_id: norm-es-2016-3229
+    articulos_destino:
+    - Art. 59
+    - Art. 60
+    - Art. 61
+    - Art. 62
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 59
+    - Art. 60
+    - Art. 61
+    - Art. 62
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 59
+    - Art. 60
+    - Art. 61
+    - Art. 62
+  - norma_id: norm-es-2019-317
+    capitulo_destino: Capítulo V
+    articulos_destino:
+    - Art. 7
+    - Art. 28
+    - Art. 19
+  cita:
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 20
+  - norma_id: norm-es-2019-317
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2021-20113
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2010-12201
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
   fundamentado_en:
   - norma_id: norm-can-d-212-1991
   - norma_id: norm-can-d-84-2024
@@ -41,12 +87,10 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   fundamento_de:
   - norma_id: norm-can-res-boc-2026-075-85
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-es-2016-3229
@@ -57,6 +101,7 @@ relaciones:
   - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-077-1287.pdf
 ---
+
 # Resolución de 10 de abril de 2026, por la que se convocan pruebas de certificación de Enseñanzas de Idiomas de Régimen Especial para aspirantes libres y alumnado escolarizado en las Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Canarias, y se dictan instrucciones para su organización y aplicación en el curso 2025-2026. Fechas de inscripción: Aspirantes libres de todos los niveles y aspirantes escolarizados/as de los niveles B1, B2, C1 y C2: del 29 de abril al 13 de mayo de 2026. Aspirantes escolarizados del nivel A2: del 27 de mayo al 1 de junio de 2026. ## Preámbulo
 
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes [Resolución de 10 de abril de 2026](../04_organizacion_escolar_y_funcionamiento/R10_4_2026_corrige_error_resolucion_mazo_establece_calendario.md), por la que se convocan pruebas de certificación de Enseñanzas de Idiomas de Régimen Especial para aspirantes libres y alumnado escolarizado en las Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Canarias, y se dictan instrucciones para su organización y aplicación en el curso 2025-2026. Examinado el procedimiento tramitado en el Servicio de Enseñanzas de Régimen Especial relativo a la necesidad de convocar pruebas para la obtención de la Certificación de Enseñanzas de Idiomas de Régimen Especial, y teniendo en cuenta los siguientes ANTECEDENTES DE HECHO
@@ -817,3 +862,30 @@ RÚBRICAS DE EVALUACIÓN: TAREA DE MEDIACIÓN ORAL– NIVEL B2 Capacidad mediado
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**Resolucion BOC 85**](../04_organizacion_escolar_y_funcionamiento/R10_4_2026_corrige_error_resolucion_mazo_establece_calendario.md)
 - [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 59, Art. 60, Art. 61, Art. 62)
+- **Desarrolla**: [**BOE-A-2016-3229**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md) (Art. 59, Art. 60, Art. 61, Art. 62)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 59, Art. 60, Art. 61, Art. 62)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 59, Art. 60, Art. 61, Art. 62)
+- **Desarrolla**: [**BOE-A-2019-317**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md) (Capítulo V, Art. 7, Art. 28, Art. 19)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional vigesimotercera)
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional vigesimotercera)
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional vigesimotercera)
+- **Fundamentado en**: [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**Resolucion BOC 85**](../04_organizacion_escolar_y_funcionamiento/R10_4_2026_corrige_error_resolucion_mazo_establece_calendario.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2016-3229**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
+- **Fundamentado en**: [**BOE-A-2019-317**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamento de**: [**Resolucion BOC 85**](../04_organizacion_escolar_y_funcionamiento/R10_4_2026_corrige_error_resolucion_mazo_establece_calendario.md)
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 20)
+- **Cita a**: [**BOE-A-2019-317**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md)

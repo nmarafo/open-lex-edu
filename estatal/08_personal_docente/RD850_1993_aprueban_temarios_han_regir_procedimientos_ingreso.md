@@ -39,8 +39,9 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-es-rd-276-2007
   articulos:
-  - '1'
+  - norma_id: '1'
 ---
+
 # Orden de 9 de septiembre de 1993 por la que se aprueban los temarios que han de regir en los procedimientos de ingreso, adquisición de nuevas especialidades y movilidad para determinadas especialidades de los Cuerpos de Maestros, Profesores de Enseñanza Secundaria y Profesores de Escuelas Oficiales de Idiomas, regulados por el Real Decreto 850/1993, de 4 de junio.
 
 ## Preámbulo
@@ -160,3 +161,15 @@ Avda. de Manoteras, 54 - 28050 Madrid
 
 - [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
 - [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Fundamentado en**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamento de**: [**BOE-A-1995-22212**](./RD1635_1995_adscribe_profesorado_cuerpos_profesores_ensenanza_secundaria.md)
+- **Fundamento de**: [**BOE-A-1996-3102**](./O1_2_1996_aprueban_temarios_han_regir_procedimientos_ingreso.md)
+- **Fundamento de**: [**BOE-A-1998-10720**](./RD777_1998_desarrollan_determinados_aspectos_ordenacion_formacion_profesional.md)
+- **Fundamento de**: [**BOE-A-2023-9553**](./RD286_2023_regula_asignacion_materias_educacion_secundaria_obligatoria.md)

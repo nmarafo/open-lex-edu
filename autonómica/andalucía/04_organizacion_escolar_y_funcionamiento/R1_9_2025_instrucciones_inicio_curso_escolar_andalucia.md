@@ -32,7 +32,10 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
 ---
-# Resolución de 1 de septiembre de 2025, de la Dirección General de Ordenación, por la que se dictan instrucciones para el curso 2025/2026. ## Preámbulo
+
+# Resolución de 1 de septiembre de 2025, de la Dirección General de Ordenación, por la que se dictan instrucciones para el curso 2025/2026.
+
+## Preámbulo
 
 El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.
 
@@ -40,7 +43,7 @@ En su virtud, de conformidad con lo establecido en la normativa de régimen jur�
 
 DISPONGO:
 
-### Capítulo I. Disposiciones Generales
+#### Artículo . #### Artículo . ### Capítulo I. Disposiciones Generales
 
 #### Artículo 1. Objeto y ámbito de aplicación.
 
@@ -67,3 +70,14 @@ Las Administraciones educativas proveerán los recursos materiales, organizativo
 Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Resolución 01/09/2025. #### Disposición final segunda. Entrada en vigor.
 
 La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)

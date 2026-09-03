@@ -22,14 +22,19 @@ tags:
 - profesorado
 - profesorado-de-religi-n
 relaciones:
+  cita:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 46
   fundamentado_en:
   - norma_id: norm-es-rd-276-2007
   - norma_id: norm-es-rdl-5-2015
   fundamentos_derecho:
   - norma_id: norm-es-rd-276-2007
   articulos:
-  - '1'
+  - norma_id: '1'
 ---
+
 # Instrumento de Ratificación del Acuerdo entre el Estado español y la Santa Sede sobre Enseñanza y Asuntos Culturales, firmado en la Ciudad del Vaticano el 3 de enero de 1979. ## Preámbulo
 
 Por cuanto el día 3 de enero de 1979 el Plenipotenciario de España firmó en la Ciudad del Vaticano, juntamente con el Plenipotenciario de la Santa Sede, ambos nombrados en buena y debida forma al efecto, el Acuerdo entre el Estado español y la Santa Sede sobre Enseñanza y Asuntos Culturales.
@@ -203,3 +208,12 @@ Lo que se hace público para conocimiento general.
 
 - [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
 - [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Fundamentado en**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Cita a**: `norm-es-c-1978` (Art. 46)

@@ -29,6 +29,33 @@ tags:
 - formacion-profesional
 - titulacion
 relaciones:
+  modifica:
+  - norma_id: norm-es-1988-6938
+  - norma_id: norm-es-1988-3987
+  cita:
+  - norma_id: norm-es-1988-6938
+    articulos_destino:
+    - Art. 7
+    disposiciones_destino:
+    - D. Final única
+  - norma_id: norm-es-1988-3987
+    articulos_destino:
+    - Art. 7
+    disposiciones_destino:
+    - D. Final única
+  - norma_id: norm-es-1988-6938
+    articulos_destino:
+    - Art. 7
+    disposiciones_destino:
+    - D. Final primera
+  - norma_id: norm-es-1988-3987
+    articulos_destino:
+    - Art. 7
+    disposiciones_destino:
+    - D. Final primera
+  desarrolla:
+  - norma_id: norm-es-1988-6938
+  - norma_id: norm-es-1988-3987
   fundamentado_en:
   - norma_id: norm-es-1988-3987
   - norma_id: norm-es-1988-6938
@@ -40,16 +67,14 @@ relaciones:
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-2018-4480
   - norma_id: norm-es-rd-659-2023
-  - norma_id: norm-can-res-boc-2025-047-108
-  - norma_id: norm-can-res-boc-2026-039-103
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-l-39-2015
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-1988-3987
   - norma_id: norm-es-1988-6938
 ---
+
 # Orden ECD/3305/2002, de 16 de diciembre, por la que se modifican las de 14 de marzo de 1988 y de 30 de abril de 1996, para la aplicación de lo dispuesto en el Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
 
 ## Preámbulo
@@ -173,3 +198,26 @@ Ilmos. Sres. Subsecretario y Secretario general técnico. Departamento.
 - [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**BOE-A-1988-3987**](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md)
 - [**BOE-A-1988-6938**](./RD104_1988_aplicacion_lo_dispuesto_real_decreto_homologacion.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**BOE-A-1988-6938**](./RD104_1988_aplicacion_lo_dispuesto_real_decreto_homologacion.md)
+- **Desarrolla**: [**BOE-A-1988-3987**](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md)
+- **Modifica**: [**BOE-A-1988-6938**](./RD104_1988_aplicacion_lo_dispuesto_real_decreto_homologacion.md)
+- **Modifica**: [**BOE-A-1988-3987**](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md)
+- **Fundamentado en**: [**BOE-A-1988-3987**](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md)
+- **Fundamentado en**: [**BOE-A-1988-6938**](./RD104_1988_aplicacion_lo_dispuesto_real_decreto_homologacion.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamento de**: [**BOE-A-1988-3987**](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md)
+- **Fundamento de**: [**BOE-A-1988-6938**](./RD104_1988_aplicacion_lo_dispuesto_real_decreto_homologacion.md)
+- **Fundamento de**: [**BOE-A-1996-10210**](./O30_4_1996_adecuan_nueva_ordenacion_educativa_determinados_criterios.md)
+- **Fundamento de**: [**BOE-A-2001-7022**](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Fundamento de**: [**BOE-A-2018-4480**](./R23_3_2018_secretaria_estado_educacion_formacion_profesional_universidades.md)
+- **Fundamento de**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **Cita a**: [**BOE-A-1988-6938**](./RD104_1988_aplicacion_lo_dispuesto_real_decreto_homologacion.md) (Art. 7, D. Final única)
+- **Cita a**: [**BOE-A-1988-3987**](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md) (Art. 7, D. Final única)
+- **Cita a**: [**BOE-A-1988-6938**](./RD104_1988_aplicacion_lo_dispuesto_real_decreto_homologacion.md) (Art. 7, D. Final primera)
+- **Cita a**: [**BOE-A-1988-3987**](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md) (Art. 7, D. Final primera)

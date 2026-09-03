@@ -25,13 +25,38 @@ tags:
 - informe_desarrollo
 - andalucia
 relaciones:
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
+  cita:
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo IV. Servicios extraordinarios.
+    articulos_origen:
+    - D. Adicional segunda. Constitución de las Comisiones Provinciales de Valoración
+      de la Productividad.
+    disposiciones_destino:
+    - D. Adicional segunda
   fundamentado_en:
+  - norma_id: norm-and-d-266-1988
+    capitulo_origen: Capítulo IV. Servicios extraordinarios.
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    articulos_destino:
+    - Art. 114
+    - Art. 115
+    - Art. 7
+  - norma_id: norm-and-d-266-1988
+    capitulo_origen: Capítulo IV. Servicios extraordinarios.
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    articulos_destino:
+    - Art. 114
+    - Art. 115
+    - Art. 48
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 ---
+
 # Orden de 27 de julio de 2006, por la que se regula la evaluación del alumnado de Educación Infantil.
 
 ## Preámbulo
@@ -41,7 +66,7 @@ b) Las gratificaciones por servicios extraordinarios, destinadas a retribuir los
 artículo atribuye a los mismos órganos competentes la asignación individual de las cuantías de las gratificaciones y la determinación de los criterios para su percepción. De conformidad con el artículo 13.4 del Estatuto de Autonomía para Andalucía, la Comunidad Autónoma tiene competencia exclusiva sobre el procedimiento administrativo derivado de las especialidades de la organización propia de la Comunidad Autónoma, lo que supone, en el presente supuesto en relación con el complemento de productividad, regular el procedimiento y los criterios para la determinación y asignación individualizada del citado complemento al personal funcionario al servicio de la Administración de Justicia adscrito a su ámbito territorial, que incluirá la definición de los criterios de valoración de cada uno de los factores de valoración contemplados, especialmente los de valoración individual, de forma objetiva y aplicando el principio de igualdad de oportunidades de mujeres y hombres; y respecto de las gratificaciones por servicios extraordinarios, el establecimiento de los criterios para su percepción, que se formularán teniendo en cuenta la realidad de mujeres y hombres de forma que no se produzcan desigualdades de género, y la determinación de la asignación individual de sus cuantías. El presente Decreto, con la regulación de los citados complementos retributivos, pretende hacer confluir los intereses organizativos de la Administración de la Junta de Andalucía con los particulares del personal afectado, por lo que se eliminará cualquier obstáculo que imposibilite la igualdad entre mujeres y hombres, al objeto de establecer un sistema en el que sea posible la mejora permanente y constante de la prestación del servicio público. Con esa intención, y en relación con el complemento de productividad, se conjugan la determinación de indicadores que detecten actitudes del personal que manifiesten un especial rendimiento o iniciativa, con el establecimiento de procedimientos asentados en criterios de repartos objetivos y que garanticen la aplicación del principio de igualdad entre mujeres y hombres, mientras que para las gratificaciones se establecen las circunstancias en las que podrá ser autorizada la realización de los servicios fuera de la jornada normal que deben ser retribuidos, tal y como se recoge en el Acuerdo Marco entre la Administración de la Junta de Andalucía y las organizaciones sindicales CCOO y UGT, sobre condiciones de trabajo del personal funcionario al servicio de la Administración de Justicia en Andalucía, de fecha 29 de julio de 2005, con respeto siempre al cumplimiento de los servicios extraordinarios en condiciones de igualdad. En su virtud, y en uso de las facultades atribuidas por la Ley Orgánica del Poder Judicial y por la Ley 6/1983, de 21 de julio, del Gobierno y la Administración de la Comunidad Autónoma de Andalucía, oído el Consejo General del Poder Judicial, efectuados los trámites oportunos con las Organizaciones Sindicales presentes en la Mesa Sectorial de Negociación de Justicia, previo informe de la Consejería de Economía y Hacienda, a propuesta de la Consejera de Justicia y Administración Pública y previa deliberación del Consejo de Gobierno en su reunión del día 25 de julio de 2006,
 DISPONGO:
 
-## Capítulo I. OBJETO Y AMBITO DE APLICACION artículo 1 Objeto. Es objeto de regulación por el presente Decreto:.
+#### Artículo . #### Artículo . ## Capítulo I. OBJETO Y AMBITO DE APLICACION artículo 1 Objeto. Es objeto de regulación por el presente Decreto:.
 
 a) Los factores de valoración y el procedimiento para la determinación y asignación del complemento de productividad del personal funcionario comprendido en el ámbito de aplicación del presente Decreto, para la retribución del especial rendimiento, actividad extraordinaria o el interés o iniciativas adoptadas en el desempeño de su trabajo, así como la participación en los programas concretos de actuación y en la consecución de objetivos que se determinen por la Administración de la Junta de Andalucía.
 b) La autorización para la realización de servicios extraordinarios, supuestos y procedimiento, así como la determinación de los criterios para la percepción de las gratificaciones que puedan corresponder por la realización de los mismos y para la asignación individual de la cuantía de estas.
@@ -52,7 +77,7 @@ El presente Decreto será de aplicación al personal funcionario perteneciente a
 
 Sevilla, 24 de agosto 2006 Página núm. 7 Procesal y Administrativa y de Auxilio Judicial al servicio de la Administración de Justicia en el ámbito territorial de la Comunidad Autónoma de Andalucía y, de conformidad con lo establecido en los artículos 474.2 y 489.2 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, así como al personal funcionario interino de los citados Cuerpos que presten sus servicios en los centros de destino que se determinan en el artículo 521 3 de la citada Ley.
 
-## Capítulo II. Factores de valoracion.
+### Capítulo II. Factores de valoracion.
 
 #### Artículo 3. Definición.
 
@@ -96,7 +121,7 @@ b) **El interés e iniciativa en el desempeño del trabajo.** 15%.
 c) **La actividad extraordinaria.** 15%.
 d) La consecución de objetivos establecidos por la Consejería de Justicia y Administración Pública: 55%.
 
-## Capítulo III. Retribucion y procedimiento de valoracion.
+### Capítulo III. Retribucion y procedimiento de valoracion.
 
 #### Artículo 10. Cuantía del complemento.
 
@@ -135,7 +160,7 @@ presente Decreto, siendo posible que el funcionario o funcionaria perciba dicho 
 
 4. Las Comisiones Provinciales de Valoración de la Productividad elevarán propuesta a la persona titular de la Delegación Provincial correspondiente en la que figurarán las cuantías del complemento de productividad de cada uno de los funcionarios o funcionarias que durante el trimestre haya prestado servicios en la provincia.
 
-## Capítulo IV. Servicios extraordinarios.
+### Capítulo IV. Servicios extraordinarios.
 
 #### Artículo 13. Definición y cuantía de los créditos.
 
@@ -191,18 +216,27 @@ Se autoriza a la Consejera de Justicia y Administración Pública para dictar la
 
 #### Disposición final segunda. Entrada en vigor.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía, produciendo sus efectos económicos a partir del 1 de enero de 2006. Sevilla, 25 de julio de 2006 MANUEL CHAVES GONZALEZ Presidente de la Junta de Andalucía MARIA JOSE LOPEZ GONZALEZ Consejera de Justicia y Administración Pública
-
 Página núm. 10 Sevilla, 24 de agosto 2006
 
 3. Otras disposiciones Tarifas autorizadas Concepto IVA incluido CONSEJERIA DE ECONOMIA Y HACIENDA RESOLUCION de 16 de mayo de 2006, de la Viceconsejería, por la que se autorizan tarifas de transporte urbano colectivo de Cabra (Córdoba). (PP. 2039/2006). Vista la propuesta de revisión de tarifas formulada por la Comisión Provincial de Precios de Córdoba, y en uso de las facultades que tengo atribuidas por el artículo 7 l.
 
 Decreto 266/1988, de 2 de agosto, por el que se regula el ejercicio de las competencias de la Comunidad Autónoma de Andalucía en materia de precios autorizados.
 RESUELVO:
-Autorizar las tarifas de Transporte Urbano Colectivo que a continuación se relacionan, ordenando su publicación en el Boletín Oficial de la Junta de Andalucía. Tarifas autorizadas Concepto IVA incluido Billete de ida 0,70 euros Billete vuelta 0,70 euros Bonobús (10 billetes) 6,00 euros Esta Resolución surtirá efecto el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. Contra la presente Resolución, que no pone fin a la vía administrativa, podrá interponerse recurso de alzada ante el titular de esta Consejería en el plazo de un mes contado desde el día siguiente al de su notificación o, en su caso, publicación, de conformidad con lo establecido en los artículos 114 y 115, en relación con el 48, de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. Sevilla, 16 de mayo de 2006.- La Viceconsejera, Carmen Martínez Aguayo. RESOLUCION de 18 de julio de 2006, de la Viceconsejería, por la que se autorizan tarifas de Transporte Urbano Colectivo de Lucena (Córdoba). (PP. 3280/2006). Vista la propuesta de revisión de tarifas formulada por la Comisión Provincial de Precios de Córdoba, y en uso de las facultades que tengo atribuidas por el artículo 7 l.
 
 Decreto 266/1988, de 2 de agosto, por el que se regula el ejercicio de las competencias de la Comunidad Autónoma de Andalucía en materia de precios autorizados.
 RESUELVO:
-Autorizar las tarifas de Transporte Urbano Colectivo que a continuación se relacionan, ordenando su publicación en el Boletín Oficial de la Junta de Andalucía. Tarifas autorizadas Concepto IVA incluido Billete ordinario 0,90 euros Bonobús ordinario (12 viajes) 8,50 euros Bonobús pensionistas (12 viajes) 7,50 euros Bonobús colegiales (12 viajes) 7,50 euros Esta Resolución surtirá efecto el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. Contra la presente Resolución, que no pone fin a la vía administrativa, podrá interponerse recurso de alzada ante el titular de esta Consejería en el plazo de un mes contado desde el día siguiente al de su notificación o, en su caso, publicación, de conformidad con lo establecido en los artículos 114 y 115, en relación con el 48, de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. Sevilla, 18 de julio de 2006.- La Viceconsejera, Carmen Martínez Aguayo. CONSEJERIA DE SALUD RESOLUCION de 7 de agosto de 2006, de la Dirección General de Personal y Desarrollo Profesional del Servicio Andaluz de Salud, por la que se acuerda la remisión del expediente administrativo requerido por la Sala de lo Contencioso-Administrativo del TSJA en Granada, en el recurso núm. 1220/06 interpuesto por doña Purificación Castillo Roldán, y se emplaza a terceros interesados. En fecha 7 de agosto de 2006 se ha dictado la siguiente Resolución de la Dirección General de Personal y Desarrollo Profesional del Servicio Andaluz de Salud:
 «RESOLUCION DE 7 DE AGOSTO DE 2006 DE LA DIRECCION GENERAL DE PERSONAL Y DESARROLLO PROFESIONAL DEL SERVICIO ANDALUZ DE SALUD POR LA QUE SE ACUERDA LA REMISION DEL EXPEDIENTE ADMINISTRATIVO REQUERIDO POR LA SALA DE LO CONTENCIOSO-ADMINISTRATIVO DEL TSJA EN GRANADA, EN EL RECURSO NUM. 1220/06 INTERPUESTO POR DOÑA PURIFICACION CASTILLO ROLDAN, Y SE EMPLAZA A TERCEROS INTERESADOS Por la Sala de lo Contencioso-Administrativo del TSJA en Granada, se ha efectuado requerimiento para que se aporte el expediente administrativo correspondiente al Recurso núm. 1220/06 interpuesto por doña Purificación Castillo Roldán contra la Resolución de 8 de mayo de 2006, de la Dirección General de Personal y Desarrollo Profesional del SAS, por la que se resuelve definitivamente el Proceso Extraordinario de Consolidación y Provisión de plazas de la categoría de DUE/ATS. De conformidad con lo previsto en el art. 48.4 de la Ley 29/1998, de 13 de julio reguladora de la Jurisdicción Contencioso-Administrativa, remítase a la Sala copia precedida de un índice de los documentos que lo integran. Emplácese a cuantos aparecen como interesados en dicho expediente, para que puedan personarse ante el Organo Jurisdiccional como demandados. Sevilla, a 7 de agosto de 2006. El Director General de Personal y Desarrollo Profesional. Fdo.:
 Rafael Burgos Rodríguez.»
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**D266_1988 Becas y Ayudas al Estudio Andalucía**](../05_alumnado_y_servicios_escolares/D266_1988_reglamento_subvenciones_becas_estudio_andalucia.md) (Art. 114, Art. 115, Art. 7) desde *(Capítulo IV. Servicios extraordinarios., D. Final segunda. Entrada en vigor.)*
+- **Fundamentado en**: [**D266_1988 Becas y Ayudas al Estudio Andalucía**](../05_alumnado_y_servicios_escolares/D266_1988_reglamento_subvenciones_becas_estudio_andalucia.md) (Art. 114, Art. 115, Art. 48) desde *(Capítulo IV. Servicios extraordinarios., D. Final segunda. Entrada en vigor.)*
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: `norm-es-c-1978` (D. Adicional segunda) desde *(Capítulo IV. Servicios extraordinarios., D. Adicional segunda. Constitución de las Comisiones Provinciales de Valoración de la Productividad.)*

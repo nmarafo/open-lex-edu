@@ -25,6 +25,10 @@ tags:
 - profesorado
 relaciones:
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 6
+    - Art. 19
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2021-20113
@@ -32,14 +36,39 @@ relaciones:
   - norma_id: norm-es-lo-8-2021
   - norma_id: norm-es-rd-1834-2008
   - norma_id: norm-es-rdl-5-2015
+  concordancia:
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 6
+  cita:
+  - norma_id: norm-es-lo-8-2021
+    articulos_destino:
+    - Art. 57
+    - Art. 3
+  - norma_id: norm-es-rd-1834-2008
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 100
+    - Art. 9
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 100
+    - Art. 9
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 100
+    - Art. 9
+  - norma_id: norm-es-lo-8-2021
   desarrolla:
+  - norma_id: norm-es-lo-8-2021
   - norma_id: norm-es-rd-276-2007
   - norma_id: norm-es-rdl-5-2015
   - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-rd-1834-2008
   - norma_id: norm-es-2021-20113
@@ -47,6 +76,7 @@ relaciones:
   - norma_id: norm-es-lo-8-2021
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-048-880.pdf
 ---
+
 # Resolución de 15 de febrero de 2024, de la Dirección General de Personal y Formación del Profesorado, por la que se determina el procedimiento para el acceso a listas de empleo abiertas, para el nombramiento de personal docente interino en el ámbito educativo no universitario (BOC nº 48, de 6 de marzo).
 
 ## Preámbulo
@@ -193,3 +223,28 @@ CUERPOS Y ESPECIALIDADES CUERPO DE MAESTROS:
 - [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Desarrolla**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Desarrolla**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 100, Art. 9)
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 100, Art. 9)
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 100, Art. 9)
+- **Modifica**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Fundamentado en**: `norm-es-c-1978` (Art. 6, Art. 19)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Fundamentado en**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](../../../estatal/02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **En concordancia con**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 6)
+- **Cita a**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md) (Art. 57, Art. 3)
+- **Cita a**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](../../../estatal/02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md)

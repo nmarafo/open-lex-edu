@@ -25,9 +25,276 @@ tags:
 - oposiciones
 - personal-no-docente
 relaciones:
-  fundamentado_en:
+  cita:
+  - norma_id: norm-es-c-1978
   - norma_id: norm-es-1984-17387
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. De los gastos del personal al servicio del sector
+      público.
+    articulos_origen:
+    - Art. 22
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. De los gastos del personal al servicio del sector
+      público.
+    articulos_origen:
+    - Art. 22
+    articulos_destino:
+    - Art. 25
+    - Art. 76
+    disposiciones_destino:
+    - D. Transitoria tercera
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. De los regímenes retributivos.
+    articulos_origen:
+    - Art. 26
+    articulos_destino:
+    - Art. 26
+    disposiciones_destino:
+    - D. Final Cuarta
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. De los regímenes retributivos.
+    articulos_origen:
+    - Art. 27
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. De los regímenes retributivos.
+    articulos_origen:
+    - Art. 29
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. De los regímenes retributivos.
+    articulos_origen:
+    - Art. 30
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. De los regímenes retributivos.
+    articulos_origen:
+    - Art. 31
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I. Determinación inicial de las pensiones del Régimen
+      de Clases Pasivas del Estado y de las especiales de guerra.
+    articulos_origen:
+    - Art. 39
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. Avales Públicos y Otras Garantías.
+    articulos_origen:
+    - Art. 53
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título VIII
+    articulos_origen:
+    - Art. 121
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    articulos_origen:
+    - Art. 121
+  - norma_id: norm-es-2000-544
+    titulo_origen: Título VIII
+    articulos_origen:
+    - Art. 121
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título VIII
+    articulos_origen:
+    - Art. 121
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    articulos_origen:
+    - Art. 121
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-2012-9282
+    titulo_origen: Título VIII
+    articulos_origen:
+    - Art. 121
+  modifica:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 134
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. De la gestión de los presupuestos docentes.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 117
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. De la gestión de los presupuestos docentes.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 117
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. De la gestión de los presupuestos docentes.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 117
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. De la gestión de los presupuestos docentes.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 116
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. De la gestión de los presupuestos docentes.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 116
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. De la gestión de los presupuestos docentes.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 116
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. De la gestión de los presupuestos docentes.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 22
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. De la gestión de los presupuestos docentes.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 22
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. De la gestión de los presupuestos docentes.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 22
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. De la gestión de los presupuestos docentes.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 117
+    - Art. 22
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. De la gestión de los presupuestos docentes.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 117
+    - Art. 22
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. De la gestión de los presupuestos docentes.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 117
+    - Art. 22
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. De los gastos del personal al servicio del sector
+      público.
+    articulos_origen:
+    - Art. 23
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. De los gastos del personal al servicio del sector
+      público.
+    articulos_origen:
+    - Art. 23
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. De los gastos del personal al servicio del sector
+      público.
+    articulos_origen:
+    - Art. 23
+  desarrolla:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 135
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. De los gastos del personal al servicio del sector
+      público.
+    articulos_origen:
+    - Art. 22
+    disposiciones_destino:
+    - D. Final cuarta
+  fundamentado_en:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. De los gastos del personal al servicio del sector
+      público.
+    articulos_origen:
+    - Art. 22
+    articulos_destino:
+    - Art. 72
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. De los gastos del personal al servicio del sector
+      público.
+    articulos_origen:
+    - Art. 22
+    articulos_destino:
+    - Art. 149
+    - Art. 29
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. De los gastos del personal al servicio del sector
+      público.
+    articulos_origen:
+    - Art. 23
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-l-31-1995
+    titulo_origen: Título VIII
+    articulos_origen:
+    - Art. 121
+    articulos_destino:
+    - Art. 26
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    articulos_origen:
+    - Art. 121
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Adicional tiene
   - norma_id: norm-es-1985-5392
+    titulo_origen: Título VIII
+    articulos_origen:
+    - Art. 121
+    articulos_destino:
+    - Art. 84
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    articulos_origen:
+    - Art. 121
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título VIII
+    articulos_origen:
+    - Art. 121
+    articulos_destino:
+    - Art. 13
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    articulos_origen:
+    - Art. 121
+    articulos_destino:
+    - Art. 38
   - norma_id: norm-es-1999-23750
   - norma_id: norm-es-2000-544
   - norma_id: norm-es-2003-23399
@@ -35,15 +302,54 @@ relaciones:
   - norma_id: norm-es-2012-9282
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-l-31-1995
   - norma_id: norm-es-lo-2-2006
+  concordancia:
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. De los regímenes retributivos.
+    articulos_origen:
+    - Art. 27
+    disposiciones_destino:
+    - D. Final cuarta
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. De los regímenes retributivos.
+    articulos_origen:
+    - Art. 31
+    titulo_destino: Título I
+    capitulo_destino: Capítulo III
+    disposiciones_destino:
+    - D. Final cuarta
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. De los regímenes retributivos.
+    articulos_origen:
+    - Art. 31
+    disposiciones_destino:
+    - D. Final cuarta
+  - norma_id: norm-es-2003-23399
+    titulo_origen: Título VII
+    capitulo_origen: Capítulo I. Entidades Locales.
+    seccion_origen: Sección 9. ª Normas instrumentales en relación con las disposiciones
+      incluidas en este capítulo artículo 109 Normas de gestión presupuestaria de
+      determinados créditos a favor de las Entidades locales. Uno. Se autoriza al
+      Ministerio de Hacienda y Administraciones Públicas a comprometer gastos con
+      cargo al ejercicio de 2013, hasta un importe máximo equivalente a la doceava
+      parte de los créditos consignados en el Presupuesto para 2012, destinados a
+      satisfacer las entregas a cuenta de la participación en tributos del Estado
+      a favor de los Ayuntamientos y Diputaciones Provinciales o entes asimilados,
+      del mes de enero de 2013. Las diferencias que pudieran surgir en relación con
+      la determinación de las entregas a cuenta definitivas imputables al mencionado
+      ejercicio serán objeto de ajuste en las entregas a cuenta del mes de febrero
+      del ejercicio citado.
+    articulos_origen:
+    - Art. 110
   fundamento_de:
   - norma_id: norm-es-2012-9364
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-  - norma_id: norm-can-l-16-2003
+  - norma_id: '27'
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-2000-544
   - norma_id: norm-es-lo-2-2006
@@ -55,6 +361,7 @@ relaciones:
   - norma_id: norm-es-2003-23399
   - norma_id: norm-es-2012-9282
 ---
+
 # Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el año 2012. ## Preámbulo
 
 **JUAN CARLOS I**
@@ -13282,3 +13589,65 @@ Fundación Víctimas del Terrorismo.
 - [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
 - [**BOE-A-2003-23399**](../02_gestion_y_administracion_centros/L59_2003_firma_electronica.md)
 - [**BOE-A-2012-9282**](./L4_2012_medidas_administrativas_fiscales.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-c-1978` (Art. 135)
+- **Desarrolla**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) (D. Final cuarta) desde *(Título II, Capítulo I. De los gastos del personal al servicio del sector público., Art. 22)*
+- **Modifica**: `norm-es-c-1978` (Art. 134)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 117) desde *(Título II, Capítulo I. De la gestión de los presupuestos docentes., Art. 17)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 117) desde *(Título II, Capítulo I. De la gestión de los presupuestos docentes., Art. 17)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 117) desde *(Título II, Capítulo I. De la gestión de los presupuestos docentes., Art. 17)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 116) desde *(Título II, Capítulo I. De la gestión de los presupuestos docentes., Art. 17)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 116) desde *(Título II, Capítulo I. De la gestión de los presupuestos docentes., Art. 17)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 116) desde *(Título II, Capítulo I. De la gestión de los presupuestos docentes., Art. 17)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 22) desde *(Título II, Capítulo I. De la gestión de los presupuestos docentes., Art. 17)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 22) desde *(Título II, Capítulo I. De la gestión de los presupuestos docentes., Art. 17)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 22) desde *(Título II, Capítulo I. De la gestión de los presupuestos docentes., Art. 17)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 117, Art. 22) desde *(Título II, Capítulo I. De la gestión de los presupuestos docentes., Art. 17)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 117, Art. 22) desde *(Título II, Capítulo I. De la gestión de los presupuestos docentes., Art. 17)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 117, Art. 22) desde *(Título II, Capítulo I. De la gestión de los presupuestos docentes., Art. 17)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título II, Capítulo I. De los gastos del personal al servicio del sector público., Art. 23)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título II, Capítulo I. De los gastos del personal al servicio del sector público., Art. 23)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título II, Capítulo I. De los gastos del personal al servicio del sector público., Art. 23)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 72) desde *(Título II, Capítulo I. De los gastos del personal al servicio del sector público., Art. 22)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 29) desde *(Título II, Capítulo I. De los gastos del personal al servicio del sector público., Art. 22)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Título II, Capítulo I. De los gastos del personal al servicio del sector público., Art. 23)*
+- **Fundamentado en**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md) (Art. 26) desde *(Título VIII, Art. 121)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, D. Adicional tiene) desde *(Título VIII, Art. 121)*
+- **Fundamentado en**: [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md) (Art. 84) desde *(Título VIII, Art. 121)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Título VIII, Art. 121)*
+- **Fundamentado en**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) (Art. 13) desde *(Título VIII, Art. 121)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 38) desde *(Título VIII, Art. 121)*
+- **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+- **Fundamentado en**: [**BOE-A-2000-544**](../01_marco_normativo_general_y_organico/LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md)
+- **Fundamentado en**: [**BOE-A-2003-23399**](../02_gestion_y_administracion_centros/L59_2003_firma_electronica.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2012-9282**](./L4_2012_medidas_administrativas_fiscales.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**BOE-A-2012-9364**](./RD20_2012_real_decreto_ley_medidas_garantizar_estabilidad.md)
+- **En concordancia con**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) (D. Final cuarta) desde *(Título II, Capítulo II. De los regímenes retributivos., Art. 27)*
+- **En concordancia con**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) (Título I, Capítulo III, D. Final cuarta) desde *(Título II, Capítulo II. De los regímenes retributivos., Art. 31)*
+- **En concordancia con**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) (D. Final cuarta) desde *(Título II, Capítulo II. De los regímenes retributivos., Art. 31)*
+- **En concordancia con**: [**BOE-A-2003-23399**](../02_gestion_y_administracion_centros/L59_2003_firma_electronica.md) desde *(Título VII, Capítulo I. Entidades Locales., Art. 110)*
+- **Cita a**: `norm-es-c-1978`
+- **Cita a**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) desde *(Título II, Capítulo I. De los gastos del personal al servicio del sector público., Art. 22)*
+- **Cita a**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) (Art. 25, Art. 76, D. Transitoria tercera) desde *(Título II, Capítulo I. De los gastos del personal al servicio del sector público., Art. 22)*
+- **Cita a**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) (Art. 26, D. Final Cuarta) desde *(Título II, Capítulo II. De los regímenes retributivos., Art. 26)*
+- **Cita a**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) desde *(Título II, Capítulo II. De los regímenes retributivos., Art. 27)*
+- **Cita a**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) desde *(Título II, Capítulo II. De los regímenes retributivos., Art. 29)*
+- **Cita a**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) desde *(Título II, Capítulo II. De los regímenes retributivos., Art. 30)*
+- **Cita a**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) desde *(Título II, Capítulo II. De los regímenes retributivos., Art. 31)*
+- **Cita a**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) desde *(Título IV, Capítulo I. Determinación inicial de las pensiones del Régimen de Clases Pasivas del Estado y de las especiales de guerra., Art. 39)*
+- **Cita a**: `norm-es-c-1978` desde *(Título V, Capítulo II. Avales Públicos y Otras Garantías., Art. 53)*
+- **Cita a**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) desde *(Título VIII, Art. 121)*
+- **Cita a**: `norm-es-c-1978` desde *(Título VIII, Art. 121)*
+- **Cita a**: [**BOE-A-2000-544**](../01_marco_normativo_general_y_organico/LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md) desde *(Título VIII, Art. 121)*
+- **Cita a**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título VIII, Art. 121)*
+- **Cita a**: `norm-es-c-1978` (Art. 2) desde *(Título VIII, Art. 121)*
+- **Cita a**: [**BOE-A-2012-9282**](./L4_2012_medidas_administrativas_fiscales.md) desde *(Título VIII, Art. 121)*

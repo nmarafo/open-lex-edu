@@ -33,9 +33,136 @@ tags:
 - perfil-salida
 - proteccion-menores
 relaciones:
-  desarrolla:
+  modifica:
   - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-lo-3-2020
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-lo-3-2020
+    articulos_destino:
+    - Art. 129
+  cita:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 11
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 11
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 11
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-lo-8-1985
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 4
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 22
+    articulos_destino:
+    - Art. 144
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 22
+    articulos_destino:
+    - Art. 144
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 22
+    articulos_destino:
+    - Art. 144
+  - norma_id: norm-es-lo-3-2018
+    articulos_origen:
+    - Art. 24
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 30
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 30
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 30
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 30
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 30
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 30
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Adicional primera. Enseñanzas de religión.
+    disposiciones_destino:
+    - D. Adicional segunda
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Adicional primera. Enseñanzas de religión.
+    disposiciones_destino:
+    - D. Adicional segunda
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Adicional primera. Enseñanzas de religión.
+    disposiciones_destino:
+    - D. Adicional segunda
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Adicional segunda. Enseñanzas del sistema educativo español impartidas en
+      lenguas extranjeras.
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Adicional segunda. Enseñanzas del sistema educativo español impartidas en
+      lenguas extranjeras.
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Adicional segunda. Enseñanzas del sistema educativo español impartidas en
+      lenguas extranjeras.
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Final tercera. Calendario de implantación.
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final tercera. Calendario de implantación.
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final primera. Título competencial.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2014-2222
   - norma_id: norm-es-2021-18812
@@ -44,13 +171,76 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-lo-3-2018
   - norma_id: norm-es-lo-8-1985
-  desarrollado_por:
-  - norma_id: norm-can-d-101-2023
-  fundamento_de: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 21
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 21
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 21
+  - norma_id: norm-es-l-39-2015
+    articulos_origen:
+    - Art. 25
+    articulos_destino:
+    - Art. 15
+  - norma_id: norm-es-l-39-2015
+    articulos_origen:
+    - Art. 30
+  - norma_id: norm-es-lo-3-2018
+    articulos_origen:
+    - Art. 30
+  - norma_id: norm-es-2014-2222
+    articulos_origen:
+    - D. Transitoria primera. Aplicabilidad del [Real Decreto 126/2014](RD126_2014_establece_curriculo_basico_educacion_primaria.md),
+      de 28 de febrero, por el que se establece el currículo básico de la Educación
+      Primaria.
+    disposiciones_destino:
+    - D. Transitoria primera
+  - norma_id: norm-es-2014-2222
+    articulos_origen:
+    - D. Transitoria primera. Aplicabilidad del [Real Decreto 126/2014](RD126_2014_establece_curriculo_basico_educacion_primaria.md),
+      de 28 de febrero, por el que se establece el currículo básico de la Educación
+      Primaria.
+    disposiciones_destino:
+    - D. Transitoria segunda
+  - norma_id: norm-es-2021-18812
+    articulos_origen:
+    - D. Transitoria primera. Aplicabilidad del [Real Decreto 126/2014](RD126_2014_establece_curriculo_basico_educacion_primaria.md),
+      de 28 de febrero, por el que se establece el currículo básico de la Educación
+      Primaria.
+    disposiciones_destino:
+    - D. Transitoria segunda
+  - norma_id: norm-es-2014-2222
+    articulos_origen:
+    - D. Transitoria primera. Aplicabilidad del [Real Decreto 126/2014](RD126_2014_establece_curriculo_basico_educacion_primaria.md),
+      de 28 de febrero, por el que se establece el currículo básico de la Educación
+      Primaria.
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Final tercera. Calendario de implantación.
+    articulos_destino:
+    - Art. 4
+  deroga:
+  - norma_id: norm-es-2021-18812
+    articulos_origen:
+    - D. Transitoria primera. Aplicabilidad del [Real Decreto 126/2014](RD126_2014_establece_curriculo_basico_educacion_primaria.md),
+      de 28 de febrero, por el que se establece el currículo básico de la Educación
+      Primaria.
+    disposiciones_destino:
+    - D. Derogatoria única
+  - norma_id: norm-es-2021-18812
+    articulos_origen:
+    - D. Transitoria primera. Aplicabilidad del [Real Decreto 126/2014](RD126_2014_establece_curriculo_basico_educacion_primaria.md),
+      de 28 de febrero, por el que se establece el currículo básico de la Educación
+      Primaria.
+    capitulo_destino: Capítulo II
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-lo-3-2018
   - norma_id: norm-es-lo-8-1985
   - norma_id: norm-es-2014-2222
@@ -58,6 +248,7 @@ relaciones:
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
 ---
+
 # Real Decreto 157/2022, de 1 de marzo, por el que se establecen la ordenación y las enseñanzas mínimas de la Educación Primaria.
 
 ## Preámbulo
@@ -3406,3 +3597,66 @@ De acuerdo con lo establecido en el artículo 6.4 de la Ley Orgánica de Educaci
 - [**BOE-A-2021-18812**](./RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md)
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Art. 21)*
+- **Desarrolla**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Art. 21)*
+- **Desarrolla**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Art. 21)*
+- **Desarrolla**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 15) desde *(Art. 25)*
+- **Desarrolla**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) desde *(Art. 30)*
+- **Desarrolla**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) desde *(Art. 30)*
+- **Desarrolla**: [**BOE-A-2014-2222**](./RD126_2014_establece_curriculo_basico_educacion_primaria.md) (D. Transitoria primera) desde *(D. Transitoria primera. Aplicabilidad del [Real Decreto 126/2014](RD126_2014_establece_curriculo_basico_educacion_primaria.md), de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria.)*
+- **Desarrolla**: [**BOE-A-2014-2222**](./RD126_2014_establece_curriculo_basico_educacion_primaria.md) (D. Transitoria segunda) desde *(D. Transitoria primera. Aplicabilidad del [Real Decreto 126/2014](RD126_2014_establece_curriculo_basico_educacion_primaria.md), de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria.)*
+- **Desarrolla**: [**BOE-A-2021-18812**](./RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md) (D. Transitoria segunda) desde *(D. Transitoria primera. Aplicabilidad del [Real Decreto 126/2014](RD126_2014_establece_curriculo_basico_educacion_primaria.md), de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria.)*
+- **Desarrolla**: [**BOE-A-2014-2222**](./RD126_2014_establece_curriculo_basico_educacion_primaria.md) desde *(D. Transitoria primera. Aplicabilidad del [Real Decreto 126/2014](RD126_2014_establece_curriculo_basico_educacion_primaria.md), de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria.)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 4) desde *(D. Final tercera. Calendario de implantación.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Modifica**: `norm-es-lo-3-2020`
+- **Modifica**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 129)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 129)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 129)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 129)
+- **Modifica**: `norm-es-lo-3-2020` (Art. 129)
+- **Deroga**: [**BOE-A-2021-18812**](./RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md) (D. Derogatoria única) desde *(D. Transitoria primera. Aplicabilidad del [Real Decreto 126/2014](RD126_2014_establece_curriculo_basico_educacion_primaria.md), de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria.)*
+- **Deroga**: [**BOE-A-2021-18812**](./RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md) (Capítulo II) desde *(D. Transitoria primera. Aplicabilidad del [Real Decreto 126/2014](RD126_2014_establece_curriculo_basico_educacion_primaria.md), de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27)
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(D. Final primera. Título competencial.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2014-2222**](./RD126_2014_establece_curriculo_basico_educacion_primaria.md)
+- **Fundamentado en**: [**BOE-A-2021-18812**](./RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
+- **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 6) desde *(Art. 11)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 6) desde *(Art. 11)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 6) desde *(Art. 11)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 4) desde *(Art. 13)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 144) desde *(Art. 22)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 144) desde *(Art. 22)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 144) desde *(Art. 22)*
+- **Cita a**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) desde *(Art. 24)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Art. 30)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Art. 30)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Art. 30)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional vigesimotercera) desde *(Art. 30)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional vigesimotercera) desde *(Art. 30)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional vigesimotercera) desde *(Art. 30)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional segunda) desde *(D. Adicional primera. Enseñanzas de religión.)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional segunda) desde *(D. Adicional primera. Enseñanzas de religión.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional segunda) desde *(D. Adicional primera. Enseñanzas de religión.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(D. Adicional segunda. Enseñanzas del sistema educativo español impartidas en lenguas extranjeras.)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(D. Adicional segunda. Enseñanzas del sistema educativo español impartidas en lenguas extranjeras.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(D. Adicional segunda. Enseñanzas del sistema educativo español impartidas en lenguas extranjeras.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(D. Final tercera. Calendario de implantación.)*
+- **Cita a**: `norm-es-c-1978` desde *(D. Final tercera. Calendario de implantación.)*

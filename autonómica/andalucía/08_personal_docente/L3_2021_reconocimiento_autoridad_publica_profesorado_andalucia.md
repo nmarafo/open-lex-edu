@@ -26,17 +26,227 @@ tags:
 - andalucia
 relaciones:
   desarrolla:
-  - norma_id: norm-es-rd-276-2007
-  - norma_id: norm-es-rdl-5-2015
-  - norma_id: norm-es-lo-2-2006
-  modifica_a: []
-  modificado_por: []
-  afecta_a_articulos: []
-  fundamentado_en:
-  - norma_id: norm-es-rdl-5-2015
-  - norma_id: norm-es-lo-2-2006
   - norma_id: norm-and-l17-2007
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 27
+    - Art. 4
+    - Art. 10
+    - Art. 21
+    - Art. 52
+    - Art. 47
+    - Art. 104
+    - Art. 105
+    - Art. 124
+    - Art. 23
+    - Art. 14
+    - Art. 127
+  - norma_id: norm-es-lo-2-2006
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 27
+    - Art. 4
+    - Art. 10
+    - Art. 21
+    - Art. 52
+    - Art. 47
+    - Art. 104
+    - Art. 105
+    - Art. 124
+    - Art. 23
+    - Art. 14
+    - Art. 127
+  - norma_id: norm-es-rdl-5-2015
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 27
+    - Art. 4
+    - Art. 10
+    - Art. 21
+    - Art. 52
+    - Art. 47
+    - Art. 104
+    - Art. 105
+    - Art. 124
+    - Art. 23
+    - Art. 14
+    - Art. 127
+  - norma_id: norm-es-lo-8-1985
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 27
+    - Art. 4
+    - Art. 10
+    - Art. 21
+    - Art. 52
+    - Art. 47
+    - Art. 104
+    - Art. 105
+    - Art. 124
+    - Art. 23
+    - Art. 14
+    - Art. 127
+  - norma_id: norm-es-2021-20113
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 27
+    - Art. 4
+    - Art. 10
+    - Art. 21
+    - Art. 52
+    - Art. 47
+    - Art. 104
+    - Art. 105
+    - Art. 124
+    - Art. 23
+    - Art. 14
+    - Art. 127
+  - norma_id: norm-es-2010-12201
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 27
+    - Art. 4
+    - Art. 10
+    - Art. 21
+    - Art. 52
+    - Art. 47
+    - Art. 104
+    - Art. 105
+    - Art. 124
+    - Art. 23
+    - Art. 14
+    - Art. 127
+  - norma_id: norm-es-c-1978
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 27
+    - Art. 4
+    - Art. 10
+    - Art. 21
+    - Art. 52
+    - Art. 47
+    - Art. 104
+    - Art. 105
+    - Art. 124
+    - Art. 23
+    - Art. 14
+    - Art. 127
+  - norma_id: norm-es-rdleg-5-2015
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 27
+    - Art. 4
+    - Art. 10
+    - Art. 21
+    - Art. 52
+    - Art. 47
+    - Art. 104
+    - Art. 105
+    - Art. 124
+    - Art. 23
+    - Art. 14
+    - Art. 127
+  - norma_id: norm-es-rd-276-2007
+  cita:
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo I
+    articulos_destino:
+    - Art. 124
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo I
+    articulos_destino:
+    - Art. 124
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo I
+    articulos_destino:
+    - Art. 124
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 5
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 5
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 5
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 27
+    - Art. 21
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo II. Protección jurídica y psicológica del personal docente.
+    articulos_origen:
+    - Art. 6
+    articulos_destino:
+    - Art. 124
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo II. Protección jurídica y psicológica del personal docente.
+    articulos_origen:
+    - Art. 6
+    articulos_destino:
+    - Art. 124
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo II. Protección jurídica y psicológica del personal docente.
+    articulos_origen:
+    - Art. 6
+    articulos_destino:
+    - Art. 124
+  - norma_id: norm-es-lo-8-1985
+    capitulo_origen: Capítulo III. Medidas de apoyo al profesorado.
+    articulos_origen:
+    - D. Adicional primera. Centros docentes de titularidad privada.
+    articulos_destino:
+    - Art. 25
+  fundamentado_en:
+  - norma_id: norm-and-l17-2007
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-and-l17-2007
+    capitulo_origen: Capítulo II. Protección jurídica y psicológica del personal docente.
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 105
+    - Art. 23
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo II. Protección jurídica y psicológica del personal docente.
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 105
+    - Art. 23
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo II. Protección jurídica y psicológica del personal docente.
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 105
+    - Art. 23
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo II. Protección jurídica y psicológica del personal docente.
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 105
+    - Art. 23
+  - norma_id: norm-es-rdl-5-2015
 ---
+
 # Ley 3/2021, de 26 de julio, de Reconocimiento de la autoridad pública del profesorado en la Comunidad Autónoma de Andalucía
 
 ## Preámbulo
@@ -50,9 +260,7 @@ La sociedad actual vive en constante cambio, no solo en términos materiales, de
 **III**
 La presente Ley, solicitada reiteradamente por los principales representantes del profesorado, tiene como objeto reconocer la autoridad docente y destacar su figura como pilar fundamental del sistema educativo, con la finalidad de procurar un adecuado clima de convivencia en los centros docentes que contribuya a garantizar el pleno ejercicio del derecho a la educación de todo el alumnado. La Ley se estructura en tres capítulos, dos disposiciones adicionales y dos disposiciones finales. En el capítulo I se definen el objeto y el ámbito de aplicación de la norma, los principios, derechos, deberes y objetivos generales, los derechos que asisten al profesorado que presta servicios en el Sistema Educativo Público de Andalucía en el ejercicio de la función docente, así como la responsabilidad del resto de la comunidad educativa en relación con el profesorado y el buen uso de las instalaciones docentes, medios físicos y tecnológicos. El capítulo II reconoce la condición de autoridad pública del profesorado, la presunción de veracidad de los hechos constatados por este en los procedimientos de adopción de medidas correctoras y el derecho a la asistencia jurídica y psicológica por hechos que se deriven de su ejercicio profesional. El capítulo III está dedicado a regular las medidas de apoyo al profesorado. La Ley concluye con dos disposiciones adicionales, referidas al alcance de la norma en los centros privados no concertados y a la aplicación al personal de administración y servicios dependiente de la Consejería competente en materia de Educación de ciertas medidas contempladas en la presente Ley, y dos disposiciones finales que regulan la habilitación normativa y la entrada en vigor de la norma, respectivamente.
 
-### Capítulo I
-
-### Disposiciones generales artículo 1 Objeto y finalidad. La presente Ley tiene por objeto reconocer la autoridad pública del profesorado de la
+### Capítulo I. ### Disposiciones generales artículo 1 Objeto y finalidad. La presente Ley tiene por objeto reconocer la autoridad pública del profesorado de la
 
 Comunidad Autónoma de Andalucía en los términos reconocidos en el artículo 124.3 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y consecuentemente fomentar la consideración y el respeto que le son debidos por el ejercicio de sus funciones y competencias, con el fin de procurar un clima de convivencia y de respeto en la comunidad educativa.
 
@@ -101,7 +309,7 @@ f) A ser apoyado por la Administración educativa, que velará por que el profes
 
 La dirección de los centros docentes y la Consejería competente en materia de Educación garantizarán el uso adecuado y conforme con el ordenamiento jurídico de las instalaciones docentes en su ámbito de competencia, así como de los tablones de anuncios o de cualquier otro medio físico o tecnológico, con el fin principal de evitar que sirvan de soporte a conductas injuriosas u ofensivas para el profesorado, el alumnado u otros miembros de la comunidad educativa. A tal fin, la Consejería competente en materia de Educación velará por que los centros docentes, en el ejercicio de su autonomía, determinen en sus normas de convivencia las medidas correctoras y las actuaciones preventivas adecuadas.
 
-## Capítulo II. Protección jurídica y psicológica del personal docente.
+### Capítulo II. Protección jurídica y psicológica del personal docente.
 
 #### Artículo 6. Reconocimiento de la condición de autoridad pública.
 
@@ -111,7 +319,7 @@ La dirección de los centros docentes y la Consejería competente en materia de 
 
 Conforme a lo establecido en el artículo 105.1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, corresponde a la Administración educativa, respecto del profesorado y de las direcciones de los centros públicos, adoptar las medidas oportunas para garantizar la debida protección y asistencia jurídica, así como la cobertura de la responsabilidad civil, en relación con los hechos que se deriven de su ejercicio profesional. Por su parte, conforme establece el artículo 23.6 de la Ley 17/2007, de 10 de diciembre, de Educación de Andalucía, la Administración educativa proporcionará asistencia psicológica y jurídica gratuita al personal docente de todos los niveles educativos, a que se refiere la citada Ley, que preste servicios en los centros docentes públicos por hechos que se deriven de su ejercicio profesional. La asistencia jurídica consistirá en la representación y defensa en juicio, cualesquiera que sean el órgano y el orden de la jurisdicción ante los que se diriman, en la forma y condiciones que se determinan reglamentariamente. En el caso de las direcciones de los centros, incluirá las denuncias interpuestas a las mismas por parte de los miembros del claustro y/o personal de administración y servicios. Del mismo modo, se potenciará la coordinación entre los centros educativos, a través de las direcciones de los mismos, y las delegaciones territoriales de Educación, a través de sus servicios jurídicos y de inspección. La citada asistencia jurídica será de aplicación al personal docente que preste servicios en centros públicos, mientras que la citada asistencia psicológica será de aplicación al personal docente que preste servicios en centros sostenidos con fondos públicos.
 
-## Capítulo III. Medidas de apoyo al profesorado.
+### Capítulo III. Medidas de apoyo al profesorado.
 
 #### Artículo 8. Protección y reconocimiento.
 
@@ -148,4 +356,34 @@ El desarrollo reglamentario de esta Ley se llevará a efecto por el Consejo de G
 
 #### Disposición final segunda. Entrada en vigor.
 
-La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de la Junta de Andalucía». Sevilla, 26 de julio de 2021.–El Presidente de la Junta de Andalucía, Juan Manuel Moreno Bonilla. Este texto consolidado no tiene valor jurídico.
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) (Capítulo I, Art. 27, Art. 4, Art. 10, Art. 21, Art. 52, Art. 47, Art. 104, Art. 105, Art. 124, Art. 23, Art. 14, Art. 127)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Capítulo I, Art. 27, Art. 4, Art. 10, Art. 21, Art. 52, Art. 47, Art. 104, Art. 105, Art. 124, Art. 23, Art. 14, Art. 127)
+- **Desarrolla**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md) (Capítulo I, Art. 27, Art. 4, Art. 10, Art. 21, Art. 52, Art. 47, Art. 104, Art. 105, Art. 124, Art. 23, Art. 14, Art. 127)
+- **Desarrolla**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Capítulo I, Art. 27, Art. 4, Art. 10, Art. 21, Art. 52, Art. 47, Art. 104, Art. 105, Art. 124, Art. 23, Art. 14, Art. 127)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Capítulo I, Art. 27, Art. 4, Art. 10, Art. 21, Art. 52, Art. 47, Art. 104, Art. 105, Art. 124, Art. 23, Art. 14, Art. 127)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Capítulo I, Art. 27, Art. 4, Art. 10, Art. 21, Art. 52, Art. 47, Art. 104, Art. 105, Art. 124, Art. 23, Art. 14, Art. 127)
+- **Desarrolla**: `norm-es-c-1978` (Capítulo I, Art. 27, Art. 4, Art. 10, Art. 21, Art. 52, Art. 47, Art. 104, Art. 105, Art. 124, Art. 23, Art. 14, Art. 127)
+- **Desarrolla**: `norm-es-rdleg-5-2015` (Capítulo I, Art. 27, Art. 4, Art. 10, Art. 21, Art. 52, Art. 47, Art. 104, Art. 105, Art. 124, Art. 23, Art. 14, Art. 127)
+- **Desarrolla**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) (Art. 2) desde *(Capítulo I, Art. 2)*
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) (Art. 105, Art. 23) desde *(Capítulo II. Protección jurídica y psicológica del personal docente., Art. 7)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 105, Art. 23) desde *(Capítulo II. Protección jurídica y psicológica del personal docente., Art. 7)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 105, Art. 23) desde *(Capítulo II. Protección jurídica y psicológica del personal docente., Art. 7)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 105, Art. 23) desde *(Capítulo II. Protección jurídica y psicológica del personal docente., Art. 7)*
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 124) desde *(Capítulo I)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 124) desde *(Capítulo I)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 124) desde *(Capítulo I)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 5) desde *(Capítulo I, Art. 2)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 5) desde *(Capítulo I, Art. 2)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 5) desde *(Capítulo I, Art. 2)*
+- **Cita a**: `norm-es-c-1978` (Art. 27, Art. 21) desde *(Capítulo I, Art. 3)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 124) desde *(Capítulo II. Protección jurídica y psicológica del personal docente., Art. 6)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 124) desde *(Capítulo II. Protección jurídica y psicológica del personal docente., Art. 6)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 124) desde *(Capítulo II. Protección jurídica y psicológica del personal docente., Art. 6)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 25) desde *(Capítulo III. Medidas de apoyo al profesorado., D. Adicional primera. Centros docentes de titularidad privada.)*

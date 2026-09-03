@@ -22,7 +22,16 @@ tags:
 - clasificacion-profesional
 fuente_pdf_oficial: https://www.gobiernodecanarias.org/boc/1992/018/boc-1992-018-001.pdf
 fecha_disposicion: '1992-01-28'
+relaciones:
+  fundamentado_en:
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VII. DERECHOS SINDICALES
+    articulos_origen:
+    - Art. 49
+    articulos_destino:
+    - Art. 63
 ---
+
 # Resolución de 28 de enero de 1992, de la Dirección General de Trabajo, por la que se hace público el III Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -2296,3 +2305,10 @@ Programador*. Sudirector.
 NOTA: todas las cuantías son anuales.
 
                                                                                                                           
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Fundamentado en**: `norm-es-c-1978` (Art. 63) desde *(Capítulo VII. DERECHOS SINDICALES, Art. 49)*

@@ -21,7 +21,45 @@ tags:
 - empleados-p-blicos
 - ensenanzas-artisticas
 relaciones:
+  desarrolla:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 149
+  cita:
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo III. Registros de personal, programación y oferta de
+      empleo público.
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VII. Modificación en las situaciones, régimen disciplinario
+      y de Seguridad Social de los funcionarios.
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VII. Modificación en las situaciones, régimen disciplinario
+      y de Seguridad Social de los funcionarios.
+    articulos_origen:
+    - D. Adicional tercera.
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VII. Modificación en las situaciones, régimen disciplinario
+      y de Seguridad Social de los funcionarios.
+    articulos_origen:
+    - D. Adicional decimocuarta.
+    articulos_destino:
+    - Art. 149
+    - Art. 1
+    - Art. 18
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VII. Modificación en las situaciones, régimen disciplinario
+      y de Seguridad Social de los funcionarios.
+    articulos_origen:
+    - D. Transitoria decimocuarta.
+    articulos_destino:
+    - Art. 104
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 149
   - norma_id: norm-es-ce-1978
   fundamento_de:
   - norma_id: norm-es-1985-5392
@@ -39,15 +77,12 @@ relaciones:
   - norma_id: norm-es-rd-276-2007
   - norma_id: norm-es-rdl-5-2015
   - norma_id: norm-can-res-boc-1996-057-140
-  - norma_id: norm-can-l-2-1987
-  - norma_id: norm-can-res-juriscan-49002-54
-  - norma_id: norm-can-d-109-1999
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
+  - norma_id: '27'
 ---
+
 # Ley 30/1984, de 2 de agosto, de medidas para la reforma de la Función Pública.
 
 ## Preámbulo
@@ -2941,3 +2976,33 @@ FELIPE GONZÁLEZ MÁRQUEZ
 ### Fundamentos de Derecho
 
 - [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-c-1978` (Art. 149)
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
+- **Fundamento de**: [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md)
+- **Fundamento de**: [**BOE-A-1985-7820**](../08_personal_docente/RD598_1985_incompatibilidades_personal_servicio_administracion_estado_seguridad.md)
+- **Fundamento de**: [**BOE-A-1986-1216**](./RD33_1986_aprueba_reglamento_regimen_disciplinario_funcionarios_administracion.md)
+- **Fundamento de**: [**BOE-A-1995-8730**](./RD365_1995_aprueba_reglamento_situaciones_administrativas_funcionarios_civiles.md)
+- **Fundamento de**: [**BOE-A-2007-5478**](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
+- **Fundamento de**: [**BOE-A-2007-6115**](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md)
+- **Fundamento de**: [**BOE-A-2009-20550**](../08_personal_docente/Osn_edu_aprueba_temario_fase_oposicion_procedimiento.md)
+- **Fundamento de**: [**BOE-A-2012-8745**](../08_personal_docente/L2_2012_presupuestos_generales_estado_ano.md)
+- **Fundamento de**: [**BOE-A-2015-9453**](../08_personal_docente/Osn_ecd_aprueban_temarios_han_regir_procedimientos_2.md)
+- **Fundamento de**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
+- **Fundamento de**: [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**RD1364_2010 Regulacion del Concurso de Traslados Docente**](../08_personal_docente/RD1364_2010_regula_concurso_traslados_ambito_estatal_entre.md)
+- **Fundamento de**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Fundamento de**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](./RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamento de**: `norm-can-res-boc-1996-057-140`
+- **Cita a**: `norm-es-c-1978`
+- **Cita a**: `norm-es-c-1978` desde *(Capítulo III. Registros de personal, programación y oferta de empleo público.)*
+- **Cita a**: `norm-es-c-1978` desde *(Capítulo VII. Modificación en las situaciones, régimen disciplinario y de Seguridad Social de los funcionarios.)*
+- **Cita a**: `norm-es-c-1978` desde *(Capítulo VII. Modificación en las situaciones, régimen disciplinario y de Seguridad Social de los funcionarios., D. Adicional tercera.)*
+- **Cita a**: `norm-es-c-1978` (Art. 149, Art. 1, Art. 18, D. Adicional primera) desde *(Capítulo VII. Modificación en las situaciones, régimen disciplinario y de Seguridad Social de los funcionarios., D. Adicional decimocuarta.)*
+- **Cita a**: `norm-es-c-1978` (Art. 104) desde *(Capítulo VII. Modificación en las situaciones, régimen disciplinario y de Seguridad Social de los funcionarios., D. Transitoria decimocuarta.)*

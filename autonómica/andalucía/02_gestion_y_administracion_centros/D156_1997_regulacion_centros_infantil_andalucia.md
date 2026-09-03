@@ -32,6 +32,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Decreto 156/1997, de 10 de junio, por el que se regulan los centros de Educación Infantil en Andalucía.
 
 ## Preámbulo
@@ -42,7 +43,7 @@ En su virtud, a propuesta de la Consejera de Educación y Ciencia, oído el Cons
 
 DISPONGO:
 
-### Capítulo I. Carácter y Estructura de las Enseñanzas artículo 1 Definición de la etapa. La Educación Infantil comprende de los cero a los seis años de edad, teniendo carácter voluntario y finalidad esencialmente educativa y compensadora de las desigualdades de origen social o económico.
+#### Artículo . #### Artículo . ### Capítulo I. Carácter y Estructura de las Enseñanzas artículo 1 Definición de la etapa. La Educación Infantil comprende de los cero a los seis años de edad, teniendo carácter voluntario y finalidad esencialmente educativa y compensadora de las desigualdades de origen social o económico.
 
 #### Artículo 2. Tipología de centros.
 
@@ -65,3 +66,14 @@ Se faculta a la Consejería de Educación y Ciencia para dictar cuantas órdenes
 #### Disposición final segunda. Entrada en vigor.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el BOJA.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

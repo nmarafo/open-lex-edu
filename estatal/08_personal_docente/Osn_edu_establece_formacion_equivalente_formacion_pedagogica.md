@@ -30,7 +30,166 @@ tags:
 - profesorado
 - titulacion
 relaciones:
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 95
+    - Art. 100
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 95
+    - Art. 100
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 95
+    - Art. 100
+  - norma_id: norm-es-lo-2-2006
+    disposiciones_destino:
+    - D. Adicional única
+  - norma_id: norm-es-2021-20113
+    disposiciones_destino:
+    - D. Adicional única
+  - norma_id: norm-es-2010-12201
+    disposiciones_destino:
+    - D. Adicional única
+  - norma_id: norm-es-rd-276-2007
+    disposiciones_destino:
+    - D. Adicional única
+  - norma_id: norm-es-2007-5478
+    disposiciones_destino:
+    - D. Adicional única
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 94
+    - Art. 95
+    - Art. 97
+    - Art. 100
+    - Art. 9
+    - Art. 98
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 94
+    - Art. 95
+    - Art. 97
+    - Art. 100
+    - Art. 9
+    - Art. 98
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 94
+    - Art. 95
+    - Art. 97
+    - Art. 100
+    - Art. 9
+    - Art. 98
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 1
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 1
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 1
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Transitoria única. Equivalencia de la docencia impartida a la formación pedagógica
+      y didáctica.
+    articulos_destino:
+    - Art. 100
+    disposiciones_destino:
+    - D. Transitoria primera
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Transitoria única. Equivalencia de la docencia impartida a la formación pedagógica
+      y didáctica.
+    articulos_destino:
+    - Art. 100
+    disposiciones_destino:
+    - D. Transitoria primera
+  - norma_id: norm-es-2007-19326
+    articulos_origen:
+    - D. Transitoria única. Equivalencia de la docencia impartida a la formación pedagógica
+      y didáctica.
+    articulos_destino:
+    - Art. 100
+    disposiciones_destino:
+    - D. Transitoria primera
+  - norma_id: norm-es-2002-4371
+    articulos_origen:
+    - D. Transitoria única. Equivalencia de la docencia impartida a la formación pedagógica
+      y didáctica.
+    articulos_destino:
+    - Art. 100
+    disposiciones_destino:
+    - D. Transitoria primera
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Transitoria única. Equivalencia de la docencia impartida a la formación pedagógica
+      y didáctica.
+    articulos_destino:
+    - Art. 100
+    disposiciones_destino:
+    - D. Transitoria primera
+  cita:
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 100
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final primera. Título competencial.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
   - norma_id: norm-es-2002-4371
   - norma_id: norm-es-2007-19326
   - norma_id: norm-es-2007-5478
@@ -42,8 +201,8 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2'
+  - norma_id: '1'
+  - norma_id: '2'
   - norma_id: norm-es-rd-1834-2008
   - norma_id: norm-es-2002-4371
   - norma_id: norm-es-2007-19326
@@ -52,6 +211,7 @@ relaciones:
   - norma_id: norm-es-2007-5478
   - norma_id: norm-es-rd-276-2007
 ---
+
 # Orden EDU/2645/2011, de 23 de septiembre, por la que se establece la formación equivalente a la formación pedagógica y didáctica exigida para aquellas personas que estando en posesión de una titulación declarada equivalente a efectos de docencia no pueden realizar los estudios de máster.
 
 ## Preámbulo
@@ -371,3 +531,46 @@ Estas competencias, junto con las propias del resto de materias, quedarán refle
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**BOE-A-2007-5478**](./RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
 - [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 95, Art. 100)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 95, Art. 100)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 95, Art. 100)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional única)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional única)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional única)
+- **Modifica**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md) (D. Adicional única)
+- **Modifica**: [**BOE-A-2007-5478**](./RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md) (D. Adicional única)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 94, Art. 95, Art. 97, Art. 100, Art. 9, Art. 98, D. Adicional primera)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 94, Art. 95, Art. 97, Art. 100, Art. 9, Art. 98, D. Adicional primera)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 94, Art. 95, Art. 97, Art. 100, Art. 9, Art. 98, D. Adicional primera)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 100)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 100)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 100)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 100) desde *(Art. 1)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 100) desde *(Art. 1)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 100) desde *(Art. 1)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 100) desde *(Art. 2)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 100) desde *(Art. 2)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 100) desde *(Art. 2)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 100, D. Transitoria primera) desde *(D. Transitoria única. Equivalencia de la docencia impartida a la formación pedagógica y didáctica.)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 100, D. Transitoria primera) desde *(D. Transitoria única. Equivalencia de la docencia impartida a la formación pedagógica y didáctica.)*
+- **Modifica**: [**BOE-A-2007-19326**](../03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md) (Art. 100, D. Transitoria primera) desde *(D. Transitoria única. Equivalencia de la docencia impartida a la formación pedagógica y didáctica.)*
+- **Modifica**: [**BOE-A-2002-4371**](../03_ordenacion_curricular_y_ensenanzas/RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) (Art. 100, D. Transitoria primera) desde *(D. Transitoria única. Equivalencia de la docencia impartida a la formación pedagógica y didáctica.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 100, D. Transitoria primera) desde *(D. Transitoria única. Equivalencia de la docencia impartida a la formación pedagógica y didáctica.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(D. Final primera. Título competencial.)*
+- **Fundamentado en**: [**BOE-A-2002-4371**](../03_ordenacion_curricular_y_ensenanzas/RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md)
+- **Fundamentado en**: [**BOE-A-2007-19326**](../03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md)
+- **Fundamentado en**: [**BOE-A-2007-5478**](./RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](../02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md)
+- **Fundamentado en**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 100) desde *(Art. 2)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 100) desde *(Art. 2)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 100) desde *(Art. 2)*

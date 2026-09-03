@@ -34,9 +34,12 @@ tags:
 - violencia-genero
 relaciones:
   desarrolla:
+  - norma_id: norm-es-lo-8-2021
+    titulo_origen: Título VI
+    articulos_origen:
+    - D. Final segunda.
   - norma_id: norm-es-lo-1-2004
   - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-lo-8-2021
   fundamentado_en:
   - norma_id: norm-can-lo-1-2018
   - norma_id: norm-es-lo-2-2006
@@ -46,8 +49,9 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-lo-1-2018
   articulos:
-  - '16'
+  - norma_id: '16'
 ---
+
 # Ley 16/2003, de 8 de abril, de Prevención y Protección Integral de las Mujeres contra la Violencia de Género.
 
 ## Preámbulo
@@ -773,3 +777,17 @@ Presidente
 ### Fundamentos de Derecho
 
 - [**LO1_2018 Estatuto de Autonomia de Canarias**](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md) desde *(Título VI, D. Final segunda.)*
+- **Desarrolla**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO1_2018 Estatuto de Autonomia de Canarias**](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)

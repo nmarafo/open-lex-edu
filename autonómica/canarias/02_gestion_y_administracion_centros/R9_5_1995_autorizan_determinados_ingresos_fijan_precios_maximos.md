@@ -28,6 +28,7 @@ tags:
 - roc
 relaciones:
   fundamentado_en:
+  - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
@@ -37,10 +38,11 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/1995/067/boc-1995-067-013.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=22458
 ---
+
 # Resolución de 9 de mayo de 1995, de la Dirección General de Centros, por la que se autorizan determinados ingresos, se fijan precios máximos con carácter general y otros precios que puedan fijar los Centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias (BOC n.º 67, de 29 de mayo).
 
 ## Preámbulo
@@ -147,3 +149,15 @@ Sugerencias y Reclamaciones
 ### Fundamentos de Derecho
 
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

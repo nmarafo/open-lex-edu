@@ -24,6 +24,19 @@ tags:
 - evaluacion_logse
 - andalucia
 relaciones:
+  modifica:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 9
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final única.
+    articulos_destino:
+    - Art. 20
+  cita:
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final única.
   desarrolla:
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
@@ -31,6 +44,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Orden de 8 de julio de 1996, por la que se regula la evaluación del alumnado en Bachillerato.
 
 ## Preámbulo
@@ -79,16 +93,11 @@ f) Incompatibilidad.
 
 2. El Consejo de Gobierno de la Junta de Andalucía puede también cesar al Director General de la Empresa Pública de la Radio y Televisión de Andalucía a propuesta del Consejo de Administración, adoptada por mayoría de dos tercios y fundada en alguna de las causas mencionadas en los puntos b) al f) del apartado anterior.»
 
-#### Disposición adicional única.
-
-La propuesta a que se refiere el artículo 9.1 de la Ley 8/1987, deberá formularse por el Consejo de Administración en un plazo máximo de 30 días desde su solicitud. Transcurrido dicho plazo sin haberse formulado propuesta alguna, el Consejo de Gobierno podrá proceder directamente al nombramiento del Director General.
+#### Disposición adicional única. La propuesta a que se refiere el artículo 9.1 de la Ley 8/1987, deberá formularse por el Consejo de Administración en un plazo máximo de 30 días desde su solicitud. Transcurrido dicho plazo sin haberse formulado propuesta alguna, el Consejo de Gobierno podrá proceder directamente al nombramiento del Director General.
 
 #### Disposición derogatoria única. Queda derogada la Ley 3/1995, de 2 de octubre.
 
-#### Disposición final única.
-
-La presente Ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía.» Sevilla, 18 de julio de 1996 MANUEL CHAVES GONZALEZ Presidente de la Junta de Andalucía LEY 6/1996, de 18 de julio, relativa a la modificación del artículo 20 de la Ley 2/1989, de 18 de julio, por la que se aprueba el inventario de espacios naturales protegidos de Andalucía. El Presidente de la Junta de Andalucía a todos los que la presente vieren, sabed:
-Que el Parlamento de Andalucía ha aprobado y yo, en nombre del Rey y por la autoridad que me confieren la Constitución y el Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente «LEY RELATIVA A LA MODIFICACION DEL artículo 20 de LA LEY 2/1989, DE 18 DE JULIO, POR LA QUE SE APRUEBA EL INVENTARIO DE ESPACIOS NATURALES PROTEGIDOS DE ANDALUCIA
+#### Disposición final única. Que el Parlamento de Andalucía ha aprobado y yo, en nombre del Rey y por la autoridad que me confieren la Constitución y el Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente «LEY RELATIVA A LA MODIFICACION DEL artículo 20 de LA LEY 2/1989, DE 18 DE JULIO, POR LA QUE SE APRUEBA EL INVENTARIO DE ESPACIOS NATURALES PROTEGIDOS DE ANDALUCIA
 
 ## Exposición de motivos
 
@@ -99,3 +108,16 @@ Artículo Unico. Se modifican los apartados 1, 2 y 3 del art. 20 de la Ley 2/198
 2. Los Presidentes de las Juntas Rectoras de los Parques Naturales de Andalucía serán nombrados por el Consejo de Gobierno a propuesta del Consejero de Medio Ambiente. A tal efecto la Junta Rectora propondrá a tres personas. La presidencia se ejercerá durante un período de cuatro años, pudiendo prorrogarse por igual plazo a propuesta de la propia Junta Rectora.
 
 3. La constitución, composición y funciones específicas de las Juntas Rectoras, se determinarán reglamentariamente, oída la Comisión de Medio Ambiente del Parlamento de Andalucía. En todo caso, cada Junta Rectora contará con la presencia de representantes de las administraciones públicas, organizaciones socioeconómicas y ciudadanas, así como de un representante por cada Grupo parlamentario del Parlamento de Andalucía.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: `norm-es-c-1978` (Art. 9)
+- **Modifica**: `norm-es-c-1978` (Art. 20) desde *(D. Final única.)*
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: `norm-es-c-1978` desde *(D. Final única.)*

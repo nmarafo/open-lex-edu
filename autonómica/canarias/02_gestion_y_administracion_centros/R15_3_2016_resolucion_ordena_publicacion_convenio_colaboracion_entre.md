@@ -27,22 +27,43 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-es-l-40-2015
+    articulos_destino:
+    - Art. 40
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-rd-132-2010
   fundamentado_en:
   - norma_id: norm-can-d-135-2016
-  - norma_id: norm-can-l-6-2014
+    articulos_destino:
+    - Art. 24
+    - Art. 11
+    disposiciones_destino:
+    - D. Adicional cuarta
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 24
+    - Art. 11
+    disposiciones_destino:
+    - D. Adicional cuarta
   - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 27
+    - Art. 41
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 121
+    - Art. 122
+  - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-235-5824.pdf
 ---
+
 # Secretaría General Técnica.- Resolución de 15 de marzo de 2016, por la que se ordena la publicación del Convenio de Colaboración entre la Consejería de Educación y Universidades y la Agencia Canaria de Calidad Universitaria y Evaluación Educativa (ACCUEE), para la incorporación de este organismo a la sede electrónica de la Consejería de Educación y Universidades, para la utilización de su registro electrónico (BOC n.º 57, de 23 de marzo).
 
 ## Preámbulo
@@ -105,3 +126,18 @@ La presente Resolución se publicará en la sede electrónica de la Consejería 
 - [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
 - [**Decreto BOC 135/2016**](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 40)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
+- **Fundamentado en**: [**Decreto BOC 135/2016**](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md) (Art. 24, Art. 11, D. Adicional cuarta)
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 24, Art. 11, D. Adicional cuarta)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 27, Art. 41)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 121, Art. 122)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)

@@ -23,22 +23,33 @@ tags:
 - oposiciones
 - procedimiento-administrativo
 relaciones:
+  fundamentado_en:
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 4
+    - Art. 27
+    - Art. 41
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 123
+    - Art. 124
+    - Art. 8
+    - Art. 14
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
   desarrolla:
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-rd-132-2010
-  fundamentado_en:
-  - norma_id: norm-can-l-6-2014
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-138-2350.pdf
 ---
+
 # Agencia Canaria de Calidad Universitaria y Evaluación Educativa (ACCUEE).- Resolución de 30 de junio de 2022, del Director, por la que se crea el sello electrónico cualificado de la Agencia Canaria de Calidad Universitaria y Evaluación Educativa.
 
 ## Preámbulo
@@ -98,3 +109,16 @@ La presente Resolución se publicará en la sede electrónica del Gobierno de Ca
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 4, Art. 27, Art. 41)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 123, Art. 124, Art. 8, Art. 14)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)

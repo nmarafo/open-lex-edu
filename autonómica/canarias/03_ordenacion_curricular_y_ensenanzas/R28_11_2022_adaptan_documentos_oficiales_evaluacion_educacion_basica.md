@@ -28,6 +28,9 @@ tags:
 - roc
 - titulacion
 relaciones:
+  cita:
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-es-rd-217-2022
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-rd-217-2022
@@ -38,10 +41,11 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-rd-217-2022
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-243-3774.pdf
 ---
+
 # Resolución de 28 de noviembre de 2022, por la que se adaptan los documentos oficiales de evaluación a la Educación Básica de Personas Adultas en la Comunidad Autónoma de Canarias (BOC n.º 243, de 13 de diciembre).
 
 ## Preámbulo
@@ -308,3 +312,16 @@ APÉNDICE VI.6 CERTIFICADO DE SUPERACIÓN DE LA ESPA Y DE OBTENCIÓN DEL TÍTULO
 
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - [**RD217_2022 Ordenacion y Ensenanzas Minimas de la ESO**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**RD217_2022 Ordenacion y Ensenanzas Minimas de la ESO**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Cita a**: [**RD217_2022 Ordenacion y Ensenanzas Minimas de la ESO**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md)

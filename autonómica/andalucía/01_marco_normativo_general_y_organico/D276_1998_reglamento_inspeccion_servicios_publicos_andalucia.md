@@ -33,6 +33,7 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
 ---
+
 # Decreto 276/1998, de 22 de diciembre, por el que se regula el Reglamento de Inspección de los Servicios en la Administración de la Junta de Andalucía.
 
 ## Preámbulo
@@ -43,7 +44,7 @@ En su virtud, a propuesta del Consejero de Gobernación y Justicia, previa delib
 
 DISPONGO:
 
-### Capítulo I. Naturaleza y Ámbito de la Inspección General de Servicios artículo 1 Naturaleza jurídica y adscripción. La Inspección General de Servicios es el órgano superior de inspección, control de calidad, evaluación y auditoría organizativa de la Administración de la Junta de Andalucía, adscrito a la Consejería competente en materia de función pública.
+#### Artículo . #### Artículo . ### Capítulo I. Naturaleza y Ámbito de la Inspección General de Servicios artículo 1 Naturaleza jurídica y adscripción. La Inspección General de Servicios es el órgano superior de inspección, control de calidad, evaluación y auditoría organizativa de la Administración de la Junta de Andalucía, adscrito a la Consejería competente en materia de función pública.
 
 #### Artículo 2. Ámbito de actuación Su ámbito de actuación comprende la totalidad de las Consejerías, Delegaciones Territoriales, organismos autónomos y entidades instrumentales de la Junta de Andalucía.
 
@@ -60,4 +61,14 @@ d) El asesoramiento técnico en materia de simplificación administrativa y simp
 
 #### Disposición final única. Entrada en vigor.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía.
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](./L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)

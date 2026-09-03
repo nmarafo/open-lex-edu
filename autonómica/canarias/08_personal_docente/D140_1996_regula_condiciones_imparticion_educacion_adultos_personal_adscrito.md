@@ -25,7 +25,11 @@ anexos_extraidos_pdf: true
 ocr_procesado: true
 numero_disposicion: 140/1996
 fecha_disposicion: '1996-06-20'
+relaciones:
+  fundamentado_en:
+  - norma_id: norm-can-lo-1-2018
 ---
+
 # Decreto 140/1996, de 20 de junio, por el que se regulan las condiciones de impartición de la Educación de Adultos por parte del personal adscrito a la Consejería de Educación, Cultura y Deportes.
 
 ## Preámbulo
@@ -69,3 +73,10 @@ EL CONSEJERO DE EDUCACIÃÓN,
 CULTURA Y DEPORTES,
 
 José Mendoza Cabrera.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Fundamentado en**: [**LO1_2018 Estatuto de Autonomia de Canarias**](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md)

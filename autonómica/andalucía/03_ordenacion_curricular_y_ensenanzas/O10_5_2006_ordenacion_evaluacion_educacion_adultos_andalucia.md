@@ -25,22 +25,25 @@ tags:
 - andalucia
 relaciones:
   desarrolla:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 44
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Orden de 10 de mayo de 2006, por la que se establece la ordenación de la evaluación en la Educación de Adultos.
 
 ## Preámbulo
 
-Página núm. 8 Sevilla, 26 de mayo 2006 CONSEJERIA DE INNOVACION, CIENCIA Y EMPRESA CORRECCION de errores del Acuerdo de 22 de marzo de 2006, de la Comisión de Distrito Unico Universitario de Andalucía, por el que se establece el procedimiento para el ingreso en los primeros ciclos de las Enseñanzas Universitarias (BOJA núm. 89, de 12.5.2006). Advertida omisión en el Acuerdo de 22 de marzo de 2006, de la Comisión de Distrito Unico Universitario de Andalucía, por el que se establece el procedimiento para el ingreso en los primeros ciclos de las Enseñanzas Universitarias, publicado en el Boletín Oficial de la Junta de Andalucía número 89, de 12 de mayo de 2006, se procede a subsanarlo mediante la siguiente inserción:
 En la página núm. 27 en el Anexo II, falta el último epígrafe de la Primera fase, con el siguiente texto:
 - 2.º plazo de matrícula (y único de Titulados): Del 4 al 14 de septiembre. Sevilla, 12 de mayo de 2006 CONSEJERIA DE AGRICULTURA Y PESCA ORDEN de 17 de mayo de 2006, por la que se regulan determinados aspectos relativos al potencial de producción vitícola así como la Reserva Regional de derechos de plantación de viñedo en el ámbito territorial de la Comunidad Autónoma de Andalucía. La normativa vitícola comunitaria ha sufrido diversas modificaciones, a raíz del Reglamento (CE) 1493/1999 del Consejo, de 17 de mayo, por el que se establece la Organización Común del Mercado vitivinícola. En particular, se modifica el sector relativo al potencial de producción vitícola, desarollado por el Reglamento (CE) 1227/2000, de la Comisión, de 31 de mayo de 2000. Por su parte, el Real Decreto 1472/2000, de 4 de agosto, modificado parcialmente por el Real Decreto 373/2003 y el Real Decreto 336/2004, que regula el potencial de producción vitícola, desarrolla a nivel nacional la norma reguladora que deriva de las disposiciones comunitarias relativas al potencial productivo del sector vitícola, atribuyendo a las Comunidades Autónomas la competencia para el desarrollo de los procedimientos recogidos en el citado Real Decreto. Ante el marco jurídico descrito, la Consejería de Agricultura y Pesca consideró necesario desarrollar la norma que regula el potencial de producción vitícola en Andalucía, por lo que procedió a redactar la Orden de 7 de noviembre de 2002, por la que se regulan determinados aspectos relativos al potencial de producción vitícola en Andalucía. Por otro lado, el Real Decreto 196/2002, de 15 de febrero, por el que se regula el establecimiento de reservas de derechos de plantación de viñedos, establece la normativa básica sobre estas reservas y permite la constitución de Reservas Regionales de derechos de plantación de viñedo en aquellas Comunidades Autónomas que dispongan del inventario vitícola de su territorio. En su virtud, la Comunidad Autónoma de Andalucía, mediante la Orden de 12 de abril de 2002, creó la Reserva de Derechos de Plantación de Viñedo de la Comunidad Autónoma de Andalucía. En este instante se hace necesario refundir en un único texto normativo todos los puntos que regulan el sector vitícola en Andalucía, fusionando aspectos que ya se recogían en la Orden de 7 de noviembre de 2002 (procedimientos de autorización de plantaciones, arranques, adquisición y transferencia de derechos de replantación de viñedo...) con el procedimiento a seguir para el establecimiento de una Reserva Regional de derechos de plantación de viñedos para la Comunidad Autónoma de Andalucía. Asimismo, con objeto de permitir una producción estable a los viticultores que deseen renovar sus viñedos, la presente orden articula la posibilidad de plantar viñedos con derechos de replantación anticipada. Por todo ello, a propuesta del Director General de la Producción Agraria, y en virtud de las atribuciones que me confiere el artículo 44.4 de la Ley 6/1983, de 21 de julio, de Gobierno y Administración de la Comunidad Autónoma de Andalucía, y el Decreto 204/2004, de 11 de mayo, por el que se establece la estructura orgánica de la Consejería de Agricultura y Pesca, en el cual se establecen las competencias de la misma.
 DISPONGO:
 
-#### Artículo 1. Objeto y ámbito de aplicación.
+#### Artículo . #### Artículo . #### Artículo 1. Objeto y ámbito de aplicación.
 
 1. La presente Orden tiene por objeto regular determinados aspectos relativos al potencial de producción vitícola en Andalucía, así como la Reserva Regional de derechos de plantación de viñedo en el ámbito territorial de la Comunidad Autónoma de Andalucía.
 
@@ -190,17 +193,13 @@ c) No transferir derechos de replantación hasta que transcurran, al menos, cinc
 
 el Registro Vitícola de viñedo anterior a 1976. Los titulares propietarios de parcelas de viñedo plantadas antes de 1 de enero de 1976 podrán solicitar la inscripción de las mismas en el Registro Vitícola cumplimentando el impreso normalizado RV «Solicitud de inscripción en el Registro Vitícola de viñedo anterior al 1 de enero de 1976» adjuntando la documentación especificada en el Anexo VIII. Dicha solicitud se presentará en la Delegación Provincial de Agricultura y Pesca correspondiente, sin perjuicio de lo dispuesto en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y en el artículo 51.2 de la Ley 6/1983, de 21 de julio, de Gobierno y Administración de la Comunidad Autónoma de Andalucía. La inscripción de dichas parcelas en el Registro Vitícola se realizará una vez se haya resuelto positivamente la solicitud.
 
-#### Disposición derogatoria única.
-
-Queda derogada la Orden de la Consejería de Agricultura y Pesca de 7 de noviembre de 2002, por la que se regulan determinados aspectos relativos al potencial de producción vitícola en Andalucía.
+#### Disposición derogatoria única. Queda derogada la Orden de la Consejería de Agricultura y Pesca de 7 de noviembre de 2002, por la que se regulan determinados aspectos relativos al potencial de producción vitícola en Andalucía.
 
 #### Disposición final primera. Desarrollo normativo y ejecución.
 
 Se faculta al titular de la Dirección General de la Producción Agraria para dictar cuantas disposiciones sean necesarias para el desarrollo y ejecución de la presente Orden.
 
 #### Disposición final segunda. Entrada en vigor.
-
-La presente Orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 17 de mayo de 2006 ISAIAS PEREZ SALDAÑA Consejero de Agricultura y Pesca
 
 Página núm. 12 Sevilla, 26 de mayo 2006
 
@@ -238,20 +237,23 @@ Página núm. 28 Sevilla, 26 de mayo 2006
 
 Sevilla, 26 de mayo 2006 Página núm. 29
 
-Página núm. 30 Sevilla, 26 de mayo 2006 CORRECCION de errores de la Orden de 21 de marzo de 2006, por la que se regula la ordenación zootécnica y sanitaria de las explotaciones equinas y su inscripción en el Registro de Explotaciones Ganaderas de Andalucía (BOJA núm. 62, de 31.3.2006). Publicada en el Boletín Oficial de la Junta de Andalucía núm. 62, de 31 de marzo de 2006, la Orden de 21 de marzo de 2006, de la Consejería de Agricultura y Pesca, por la que se regula la ordenación zootécnica y sanitaria de las explotaciones equinas y su inscripción en el Registro de Explotaciones Ganaderas de Andalucía, y advertido errores en la misma, se procede a su subsanación mediante la presente corrección de errores.
-- En la página 18, en el artículo 6, apartado 1, segundo párrafo, Donde dice: «... deberá mantener idéntica distancia de 100 metros ...» Debe decir: «... deberá mantener idéntica distancia de 500 metros ...»
-- En la página 18, en el artículo 7, apartado 1, Donde dice: «Todos los animales regulados en la presente Orden, nacidos a partir de ...» Debe decir: «Todos los animales regulados en la presente Orden, y los nacidos a partir de ...»
-- En la página 19, en la Disposición transitoria primera:
 Donde dice: «...y deberán presentar para su aprobación por la autoridad competente el programa sanitario básico...» Debe decir: «...y deberán presentar para su aprobación por la autoridad competente sólo el programa sanitario básico...»
-- En la página 19, en la Disposición transitoria tercera, párrafo 1.º, Donde dice: «Se establece un plazo de 12 meses para adaptarse a lo dispuesto en el artículo 7 de esta Orden ...» Debe decir: «Se establece un plazo de 12 meses para adaptarse a lo dispuesto en el artículo 7.1 de esta Orden ...»
-- En la página 31, en el Anexo IV, apartado B) 1.a), Donde dice: «...contempladas en el presente artículo ...» Debe decir: «... contempladas en el presente anexo ...»
-- En la página 31, en el Anexo IV, apartado B) 2.b), primer párrafo, Donde dice: «... no incluidas en el apartado a) del presente
 artículo.» Debe decir: «... no incluidas en el apartado a) del presente
 
 ## Anexo. »
 
 Sevilla, 17 de mayo de 2006 CONSEJERIA PARA LA IGUALDAD Y BIENESTAR SOCIAL CORRECCION de errata a la Orden de 8 de mayo de 2006, por la que se establece el procedimiento y las bases reguladoras de la concesión de subvenciones por el Instituto Andaluz de la Mujer a Asociaciones de Mujeres y Federaciones de las mismas para financiación de los gastos de mantenimiento y funcionamiento, así como de actividades generales (BOJA núm. 96, de 22.5.2006). Advertida errata en la disposición de referencia, a continuación se transcribe la oportuna rectificación:
-En la página 33, columna de la derecha, línea 58, donde dice:
 «e) La resolución se motivará con sucinta referencia de hechos y fundamentos de derecho y...» debe decir:
 «c) La resolución se motivará con sucinta referencia de hechos y fundamentos de derecho y...». Sevilla, 22 de mayo de 2006 CONSEJERIA DE MEDIO AMBIENTE CORRECCION de errores de la Orden de 10 de enero de 2006, por la que se regula el tránsito a motor en las veredas «Camino de Sevilla y Rocío» (Raya Real) y «De la Rociana» (Camino de Moguer) en el Parque Nacional y Natural de Doñana (BOJA núm. 16, de 25.1.2006). Advertido error material en el artículo 5.3.b) de la Orden de 10 de enero de 2006, por repetirse lo establecido en el punto 2 del mismo artículo, resultando de este modo contradictorio, se suprime el siguiente párrafo:
 «Se incluye el personal adscrito a las Administraciones Públicas gestoras de estos espacios que realicen sus labores en esta zona, así como de cualquier otra administración, siempre que se den motivos de seguridad, gestión o investigación.» Sevilla, 29 de marzo de 2006
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-c-1978` (Art. 44)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

@@ -26,6 +26,105 @@ tags:
 - profesorado
 - titulacion
 relaciones:
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    titulo_destino: Título PRELIMINAR
+  - norma_id: norm-es-2021-20113
+    titulo_destino: Título PRELIMINAR
+  - norma_id: norm-es-2010-12201
+    titulo_destino: Título PRELIMINAR
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 102
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 102
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 102
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 4
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 4
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 4
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo III. Diseño, evaluación y reconocimiento de las actividades
+      de formación.
+    articulos_origen:
+    - Art. 11
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo III. Diseño, evaluación y reconocimiento de las actividades
+      de formación.
+    articulos_origen:
+    - Art. 11
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo III. Diseño, evaluación y reconocimiento de las actividades
+      de formación.
+    articulos_origen:
+    - Art. 11
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo VI. Certificación y registro de actividades a solicitud
+      del interesado.
+    articulos_origen:
+    - Art. 21
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo VI. Certificación y registro de actividades a solicitud
+      del interesado.
+    articulos_origen:
+    - Art. 21
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo VI. Certificación y registro de actividades a solicitud
+      del interesado.
+    articulos_origen:
+    - Art. 21
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo VI. Certificación y registro de actividades a solicitud
+      del interesado.
+    articulos_origen:
+    - Art. 24
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo VI. Certificación y registro de actividades a solicitud
+      del interesado.
+    articulos_origen:
+    - Art. 24
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo VI. Certificación y registro de actividades a solicitud
+      del interesado.
+    articulos_origen:
+    - Art. 24
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 2
+  cita:
+  - norma_id: norm-es-rd-1834-2008
+    capitulo_origen: Capítulo III. Diseño, evaluación y reconocimiento de las actividades
+      de formación.
+    articulos_origen:
+    - Art. 8
+  - norma_id: norm-es-1999-23750
+    capitulo_origen: Capítulo VI. Certificación y registro de actividades a solicitud
+      del interesado.
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    articulos_destino:
+    - Art. 6
   fundamentado_en:
   - norma_id: norm-es-1999-23750
   - norma_id: norm-es-2010-12201
@@ -35,13 +134,14 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2'
+  - norma_id: '1'
+  - norma_id: '2'
   - norma_id: norm-es-1999-23750
   - norma_id: norm-es-rd-1834-2008
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
 ---
+
 # Orden EDU/2886/2011, de 20 de octubre, por la que se regula la convocatoria, reconocimiento, certificación y registro de las actividades de formación permanente del profesorado.
 
 ## Preámbulo
@@ -799,3 +899,37 @@ Nombre y apellidos, sello y firma
 - [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](../02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md)
 - [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo I, Art. 2)*
+- **Desarrolla**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo I, Art. 2)*
+- **Desarrolla**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo I, Art. 2)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título PRELIMINAR)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título PRELIMINAR)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título PRELIMINAR)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 102)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 102)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 102)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo I, Art. 4)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo I, Art. 4)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo I, Art. 4)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo III. Diseño, evaluación y reconocimiento de las actividades de formación., Art. 11)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo III. Diseño, evaluación y reconocimiento de las actividades de formación., Art. 11)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo III. Diseño, evaluación y reconocimiento de las actividades de formación., Art. 11)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo VI. Certificación y registro de actividades a solicitud del interesado., Art. 21)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo VI. Certificación y registro de actividades a solicitud del interesado., Art. 21)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo VI. Certificación y registro de actividades a solicitud del interesado., Art. 21)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo VI. Certificación y registro de actividades a solicitud del interesado., Art. 24)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo VI. Certificación y registro de actividades a solicitud del interesado., Art. 24)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo VI. Certificación y registro de actividades a solicitud del interesado., Art. 24)*
+- **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](../02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md)
+- **Cita a**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](../02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md) desde *(Capítulo III. Diseño, evaluación y reconocimiento de las actividades de formación., Art. 8)*
+- **Cita a**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) (Art. 6) desde *(Capítulo VI. Certificación y registro de actividades a solicitud del interesado., D. Final segunda. Entrada en vigor.)*

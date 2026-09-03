@@ -32,23 +32,168 @@ tags:
 - prevencion-riesgos-laborales
 - profesorado
 relaciones:
-  desarrolla:
-  - norma_id: norm-can-l-6-2014
+  modifica:
   - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-lo-8-2021
+    articulos_destino:
+    - Art. 27
+    - Art. 1
+    - Art. 2
+    - Art. 120
+    - Art. 124
+    - Art. 32
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 27
+    - Art. 1
+    - Art. 2
+    - Art. 120
+    - Art. 124
+    - Art. 32
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 27
+    - Art. 1
+    - Art. 2
+    - Art. 120
+    - Art. 124
+    - Art. 32
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 27
+    - Art. 1
+    - Art. 2
+    - Art. 120
+    - Art. 124
+    - Art. 32
+  - norma_id: norm-can-lo-1-2018
+    articulos_destino:
+    - Art. 27
+    - Art. 1
+    - Art. 2
+    - Art. 120
+    - Art. 124
+    - Art. 32
+  cita:
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 1
+    - Art. 2
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 1
+    - Art. 2
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 1
+    - Art. 2
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Derechos y deberes del alumnado.
+    seccion_origen: Sección 1.ª. Derechos del alumnado.
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 8
+  - norma_id: norm-can-l-1-1997
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Derechos y deberes del alumnado.
+    seccion_origen: Sección 1.ª. Derechos del alumnado.
+    articulos_origen:
+    - Art. 11
+    articulos_destino:
+    - Art. 17
+    - Art. 19
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. Derechos y deberes del profesorado.
+    seccion_origen: Sección 1.ª. Derechos del profesorado.
+    articulos_origen:
+    - Art. 27
+    articulos_destino:
+    - Art. 102
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. Derechos y deberes del profesorado.
+    seccion_origen: Sección 1.ª. Derechos del profesorado.
+    articulos_origen:
+    - Art. 27
+    articulos_destino:
+    - Art. 102
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. Derechos y deberes del profesorado.
+    seccion_origen: Sección 1.ª. Derechos del profesorado.
+    articulos_origen:
+    - Art. 27
+    articulos_destino:
+    - Art. 102
+  - norma_id: norm-es-lo-5-2000
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I. Conductas contrarias a la convivencia.
+    seccion_origen: Sección 1ª
+    articulos_origen:
+    - Art. 56
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título V
+    articulos_origen:
+    - D. Adicional quinta. Custodia y protección de la documentación de los procedimientos
+      regulados en este Decreto y consentimiento en el tratamiento de datos.
+  - norma_id: norm-es-2008-979
+    titulo_origen: Título V
+    articulos_origen:
+    - D. Adicional quinta. Custodia y protección de la documentación de los procedimientos
+      regulados en este Decreto y consentimiento en el tratamiento de datos.
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título V
+    articulos_origen:
+    - D. Transitoria primera. Reglamentos.
   fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título III
+    capitulo_origen: Capítulo II. Instrumentos para favorecer la convivencia en el
+      centro.
+    articulos_origen:
+    - Art. 42
+    articulos_destino:
+    - Art. 121
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título III
+    capitulo_origen: Capítulo II. Instrumentos para favorecer la convivencia en el
+      centro.
+    articulos_origen:
+    - Art. 42
+    articulos_destino:
+    - Art. 121
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título III
+    capitulo_origen: Capítulo II. Instrumentos para favorecer la convivencia en el
+      centro.
+    articulos_origen:
+    - Art. 42
+    articulos_destino:
+    - Art. 121
   - norma_id: norm-can-l-1-1997
   - norma_id: norm-can-lo-1-2018
   - norma_id: norm-es-1999-23750
   - norma_id: norm-es-2008-979
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-5-2000
   - norma_id: norm-es-lo-8-1985
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-lo-8-2021
   - norma_id: norm-es-lo-1-1996
+  desarrolla:
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
   fundamento_de:
   - norma_id: norm-can-o-2013-10-09
   - norma_id: norm-can-res-119
@@ -56,7 +201,7 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '136'
+  - norma_id: '136'
   - norma_id: norm-can-l-1-1997
   - norma_id: norm-es-lo-5-2000
   - norma_id: norm-es-1999-23750
@@ -66,6 +211,7 @@ relaciones:
   - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2011-108-3000.pdf
 ---
+
 # Decreto 114/2011, de 11 de mayo, por el que se regula la convivencia en el ámbito educativo de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -858,3 +1004,44 @@ Se autoriza al titular de la consejería competente en materia de educación par
 #### Disposición final tercera. Entrada en vigor.
 
 Este Decreto entrará en vigor a los veinte días siguientes al de su publicación en el Boletín Oficial de Canarias. Dado en Las Palmas de Gran Canaria, a 11 de mayo de 2011. EL PRESIDENTE DEL GOBIERNO, Paulino Rivero Baute. LA CONSEJERA DE EDUCACIÓN, UNIVERSIDADES, CULTURA Y DEPORTES, Milagros Luis Brito.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 27, Art. 1, Art. 2, Art. 120, Art. 124, Art. 32)
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 27, Art. 1, Art. 2, Art. 120, Art. 124, Art. 32)
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 27, Art. 1, Art. 2, Art. 120, Art. 124, Art. 32)
+- **Modifica**: `norm-es-c-1978` (Art. 27, Art. 1, Art. 2, Art. 120, Art. 124, Art. 32)
+- **Modifica**: [**LO1_2018 Estatuto de Autonomia de Canarias**](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md) (Art. 27, Art. 1, Art. 2, Art. 120, Art. 124, Art. 32)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 121) desde *(Título III, Capítulo II. Instrumentos para favorecer la convivencia en el centro., Art. 42)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 121) desde *(Título III, Capítulo II. Instrumentos para favorecer la convivencia en el centro., Art. 42)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 121) desde *(Título III, Capítulo II. Instrumentos para favorecer la convivencia en el centro., Art. 42)*
+- **Fundamentado en**: [**L1_1997 Ley de Atencion Integral a los Menores de Canarias**](../01_marco_normativo_general_y_organico/L1_1997_atencion_integral_menores.md)
+- **Fundamentado en**: [**LO1_2018 Estatuto de Autonomia de Canarias**](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md)
+- **Fundamentado en**: [**BOE-A-1999-23750**](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+- **Fundamentado en**: [**BOE-A-2008-979**](../../../estatal/02_gestion_y_administracion_centros/LO1720_2007_aprueba_reglamento_desarrollo_ley_organica_proteccion.md)
+- **Fundamentado en**: [**LO5_2000 Responsabilidad Penal de los Menores**](../../../estatal/01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md)
+- **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- **Fundamento de**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
+- **Fundamento de**: [**Resolucion BOC 119**](../05_alumnado_y_servicios_escolares/R8_8_2025_escolarizacion_servicios_complementarios_aprueban_instrucciones_organizacion.md)
+- **Fundamento de**: [**Resolucion BOC 1**](../01_marco_normativo_general_y_organico/R30_6_2017_dictan_instrucciones_actuacion_centros_docentes_sostenidos.md)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 1, Art. 2) desde *(Título I, Art. 3)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 1, Art. 2) desde *(Título I, Art. 3)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 1, Art. 2) desde *(Título I, Art. 3)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 8) desde *(Título II, Capítulo I. Derechos y deberes del alumnado., Art. 9)*
+- **Cita a**: [**L1_1997 Ley de Atencion Integral a los Menores de Canarias**](../01_marco_normativo_general_y_organico/L1_1997_atencion_integral_menores.md) (Art. 17, Art. 19) desde *(Título II, Capítulo I. Derechos y deberes del alumnado., Art. 11)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 102) desde *(Título II, Capítulo III. Derechos y deberes del profesorado., Art. 27)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 102) desde *(Título II, Capítulo III. Derechos y deberes del profesorado., Art. 27)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 102) desde *(Título II, Capítulo III. Derechos y deberes del profesorado., Art. 27)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](../../../estatal/01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md) desde *(Título IV, Capítulo I. Conductas contrarias a la convivencia., Art. 56)*
+- **Cita a**: [**BOE-A-1999-23750**](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título V, D. Adicional quinta. Custodia y protección de la documentación de los procedimientos regulados en este Decreto y consentimiento en el tratamiento de datos.)*
+- **Cita a**: [**BOE-A-2008-979**](../../../estatal/02_gestion_y_administracion_centros/LO1720_2007_aprueba_reglamento_desarrollo_ley_organica_proteccion.md) desde *(Título V, D. Adicional quinta. Custodia y protección de la documentación de los procedimientos regulados en este Decreto y consentimiento en el tratamiento de datos.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título V, D. Transitoria primera. Reglamentos.)*

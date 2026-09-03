@@ -26,11 +26,26 @@ tags:
 - roc
 relaciones:
   fundamentado_en:
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 14
+    - Art. 13
   - norma_id: norm-can-d-135-2016
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-can-res-boc-2018-220-18
-  - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-lo-2-2006
+  cita:
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 9
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 121
+    - Art. 122
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 16
   fundamento_de:
   - norma_id: norm-can-res-boc-2018-220-18
   desarrolla:
@@ -39,12 +54,13 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-can-res-boc-2018-220-18
   - norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-220-5209.pdf
 ---
+
 # Resolución de 2 de noviembre de 2018, de la Dirección General de Ordenación, Innovación y Promoción Educativa, por la que se dictan instrucciones para la tramitación electrónica del procedimiento por el que se regula la justificación correspondiente a la financiación de otros gastos, en los centros privados concertados de Canarias (BOC n.º 220, de 14 de noviembre).
 
 ## Preámbulo
@@ -96,3 +112,21 @@ b) **Por canal presencial.** Una vez cumplimentado el formulario, indicado en el
 - [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**Resolucion BOC 18**](./R2_11_2018_innovacion_promocion_educativa_dictan_instrucciones_tramitacion.md)
 - [**Decreto BOC 135/2016**](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 14, Art. 13)
+- **Fundamentado en**: [**Decreto BOC 135/2016**](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**Resolucion BOC 18**](./R2_11_2018_innovacion_promocion_educativa_dictan_instrucciones_tramitacion.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**Resolucion BOC 18**](./R2_11_2018_innovacion_promocion_educativa_dictan_instrucciones_tramitacion.md)
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 9)
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 121, Art. 122)
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 16)

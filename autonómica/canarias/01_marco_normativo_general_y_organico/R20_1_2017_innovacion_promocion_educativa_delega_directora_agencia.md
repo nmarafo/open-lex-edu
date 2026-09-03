@@ -25,11 +25,35 @@ tags:
 relaciones:
   fundamentado_en:
   - norma_id: norm-can-d-135-2016
-  - norma_id: norm-can-d-212-1991
-  - norma_id: norm-can-l-14-1990
-  - norma_id: norm-can-l-6-2014
+    articulos_destino:
+    - Art. 13
+    - Art. 12
   - norma_id: norm-es-2012-9282
+    articulos_destino:
+    - Art. 13
+    - Art. 12
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 13
+    - Art. 12
   - norma_id: norm-es-l-40-2015
+    articulos_destino:
+    - Art. 9
+  - norma_id: norm-can-l-14-1990
+    articulos_destino:
+    - Art. 9
+    - Art. 31
+    - Art. 14
+  - norma_id: norm-can-d-135-2016
+    articulos_destino:
+    - Art. 13
+    - Art. 19
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 13
+    - Art. 19
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   desarrolla:
@@ -38,7 +62,7 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-can-l-14-1990
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-es-2012-9282
@@ -48,6 +72,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-020-416.p
 anexos_extraidos_pdf: true
 ocr_procesado: true
 ---
+
 # Resolución de 20 de enero de 2017, de la Dirección General de Ordenación, Innovación y Promoción Educativa, por la que se delega en la Directora de la Agencia Canaria de Calidad Universitaria y Evaluación Educativa determinadas competencias en materia de innovación y promoción educativa (BOC n.º 20, de 30 de enero).
 
 ## Preámbulo
@@ -193,3 +218,22 @@ B) CRÉDITOS AFECTOS A LA COMPETENCIA 321B
 - [**BOE-A-2012-9282**](../../../estatal/08_personal_docente/L4_2012_medidas_administrativas_fiscales.md)
 - [**Decreto BOC 135/2016**](./D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md)
 - [**Decreto BOC 212/1991**](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**Decreto BOC 135/2016**](./D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md) (Art. 13, Art. 12)
+- **Fundamentado en**: [**BOE-A-2012-9282**](../../../estatal/08_personal_docente/L4_2012_medidas_administrativas_fiscales.md) (Art. 13, Art. 12)
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](./D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 13, Art. 12)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 9)
+- **Fundamentado en**: [**L14_1990 Regimen Juridico Administraciones Canarias**](./L14_1990_regimen_juridico_administraciones_publicas_canarias.md) (Art. 9, Art. 31, Art. 14)
+- **Fundamentado en**: [**Decreto BOC 135/2016**](./D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md) (Art. 13, Art. 19)
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](./D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 13, Art. 19)
+- **Fundamentado en**: [**Decreto BOC 212/1991**](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](./L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

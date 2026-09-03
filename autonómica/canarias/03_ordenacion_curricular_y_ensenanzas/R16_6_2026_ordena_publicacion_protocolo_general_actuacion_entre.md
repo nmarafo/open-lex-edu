@@ -26,32 +26,437 @@ tags:
 relaciones:
   fundamentado_en:
   - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 29
+    - Art. 31
+    - Art. 8
+    - Art. 133
   - norma_id: norm-can-l-14-1990
+    articulos_destino:
+    - Art. 29
+    - Art. 31
+    - Art. 8
+    - Art. 133
+  - norma_id: norm-es-1985-5392
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+  - norma_id: norm-can-d-84-2024
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 5
+    - Art. 29
+    - Art. 156
+  - norma_id: norm-can-l-14-1990
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 5
+    - Art. 29
+    - Art. 156
+  - norma_id: norm-es-lo-8-2021
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 57
+  - norma_id: norm-es-l-40-2015
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 51
+    - Art. 52
+  - norma_id: norm-es-lo-3-2018
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 5
+    - Art. 57
+  - norma_id: norm-es-lo-8-2021
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 5
+    - Art. 57
+  - norma_id: norm-es-l-40-2015
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    titulo_destino: Título VIII
+    capitulo_destino: Capítulo VI
+    articulos_destino:
+    - Art. 57
+    - Art. 6
+    - Art. 4
+  - norma_id: norm-es-1995-25444
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    titulo_destino: Título VIII
+    capitulo_destino: Capítulo VI
+    articulos_destino:
+    - Art. 57
+    - Art. 6
+    - Art. 4
+  - norma_id: norm-es-l-9-2017
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    titulo_destino: Título VIII
+    capitulo_destino: Capítulo VI
+    articulos_destino:
+    - Art. 57
+    - Art. 6
+    - Art. 4
+  - norma_id: norm-es-lo-8-2021
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    titulo_destino: Título VIII
+    capitulo_destino: Capítulo VI
+    articulos_destino:
+    - Art. 57
+    - Art. 6
+    - Art. 4
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-can-lo-1-2018
   - norma_id: norm-can-res-134
   - norma_id: norm-can-res-boc-2024-230-25
   - norma_id: norm-es-1971-1198
-  - norma_id: norm-es-1985-5392
-  - norma_id: norm-es-1995-25444
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-l-40-2015
-  - norma_id: norm-es-l-9-2017
   - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-lo-3-2018
   - norma_id: norm-es-lo-3-2022
-  - norma_id: norm-es-lo-8-2021
   - norma_id: norm-es-rd-659-2023
   - norma_id: norm-es-rdl-2-2015
-  desarrolla:
+  modifica:
+  - norma_id: norm-can-lo-1-2018
+    articulos_destino:
+    - Art. 42 bis
   - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 42 bis
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 42 bis
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 42 bis
+  cita:
+  - norma_id: norm-can-res-134
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-lo-3-2022
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-1985-5392
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-lo-3-2018
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+  - norma_id: norm-es-l-40-2015
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 16
+  - norma_id: norm-es-l-39-2015
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+  - norma_id: norm-es-l-40-2015
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+  - norma_id: norm-es-l-9-2017
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 156
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 156
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+  - norma_id: norm-es-rdl-2-2015
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+  - norma_id: norm-es-1971-1198
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+  - norma_id: norm-es-l-40-2015
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 51
+  - norma_id: norm-es-l-40-2015
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    titulo_destino: Título PRELIMINAR
+    capitulo_destino: Capítulo LL
+    seccion_destino: Sección 3ª
+  desarrolla:
+  - norma_id: norm-can-d-84-2024
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo II
+    articulos_destino:
+    - Art. 6
+    - Art. 11
+    - Art. 331
+    - Art. 3
+    - Art. 20
+  - norma_id: norm-can-l-6-2014
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo II
+    articulos_destino:
+    - Art. 6
+    - Art. 11
+    - Art. 331
+    - Art. 3
+    - Art. 20
+  - norma_id: norm-can-res-boc-2024-230-25
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo II
+    articulos_destino:
+    - Art. 6
+    - Art. 11
+    - Art. 331
+    - Art. 3
+    - Art. 20
+  - norma_id: norm-can-res-134
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo II
+    articulos_destino:
+    - Art. 6
+    - Art. 11
+    - Art. 331
+    - Art. 3
+    - Art. 20
+  - norma_id: norm-es-2001-7022
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo II
+    articulos_destino:
+    - Art. 6
+    - Art. 11
+    - Art. 331
+    - Art. 3
+    - Art. 20
+  - norma_id: norm-es-lo-3-2022
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo II
+    articulos_destino:
+    - Art. 6
+    - Art. 11
+    - Art. 331
+    - Art. 3
+    - Art. 20
+  - norma_id: norm-es-rd-659-2023
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo II
+    articulos_destino:
+    - Art. 6
+    - Art. 11
+    - Art. 331
+    - Art. 3
+    - Art. 20
+  - norma_id: norm-can-l-6-2014
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 55
+    - Art. 52
+    - Art. 156
+    - Art. 33
+    - Art. 12
+    - Art. 9
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 55
+    - Art. 52
+    - Art. 156
+    - Art. 33
+    - Art. 12
+    - Art. 9
+  - norma_id: norm-can-res-134
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 55
+    - Art. 52
+    - Art. 156
+    - Art. 33
+    - Art. 12
+    - Art. 9
+  - norma_id: norm-es-l-40-2015
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 55
+    - Art. 52
+    - Art. 156
+    - Art. 33
+    - Art. 12
+    - Art. 9
+  - norma_id: norm-es-lo-3-2022
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 55
+    - Art. 52
+    - Art. 156
+    - Art. 33
+    - Art. 12
+    - Art. 9
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 55
+    - Art. 52
+    - Art. 156
+    - Art. 33
+    - Art. 12
+    - Art. 9
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 55
+    - Art. 52
+    - Art. 156
+    - Art. 33
+    - Art. 12
+    - Art. 9
+  - norma_id: norm-es-l-40-2015
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 49
+  - norma_id: norm-can-res-134
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 42
+    - Art. 2
+    - Art. 55
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 42
+    - Art. 2
+    - Art. 55
+  - norma_id: norm-es-lo-3-2022
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 42
+    - Art. 2
+    - Art. 55
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 42
+    - Art. 2
+    - Art. 55
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 42
+    - Art. 2
+    - Art. 55
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 11
+    - Art. 55
+    - Art. 156
+  - norma_id: norm-can-res-134
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 11
+    - Art. 55
+    - Art. 156
+  - norma_id: norm-es-2001-7022
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 11
+    - Art. 55
+    - Art. 156
+  - norma_id: norm-es-lo-3-2022
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 11
+    - Art. 55
+    - Art. 156
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 11
+    - Art. 55
+    - Art. 156
+  - norma_id: norm-es-rdl-2-2015
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 11
+    - Art. 29
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 153
+    - Art. 162
+    disposiciones_destino:
+    - D. Adicional 52º
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 153
+    - Art. 162
+    disposiciones_destino:
+    - D. Adicional 52º
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 155
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+    articulos_destino:
+    - Art. 155
+  - norma_id: norm-es-lo-8-2021
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
+  deroga:
+  - norma_id: norm-es-lo-3-2018
+    articulos_origen:
+    - D. Adicional tercera. , reconoce a la.
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-l-14-1990
   - norma_id: norm-can-lo-1-2018
@@ -74,6 +479,7 @@ relaciones:
   - norma_id: norm-es-rdl-2-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-129-2245.pdf
 ---
+
 # Resolución de 16 de junio de 2026, por la que se ordena la publicación del Protocolo General de Actuación entre la Consejería de Educación, Formación Profesional, Actividad Física y Deportes y la Federación Canaria de Municipios, como organismo intermedio, para el desarrollo de la formación en empresa u organismo equiparado por el alumnado de formación profesional matriculado en centros docentes de titularidad pública de la Comunidad Autónoma de Canarias.(BOC n.º 129, de 29.06.2026).
 
 ## Preámbulo
@@ -603,3 +1009,89 @@ sobre protección de datos. Garantiza y tutela el derecho fundamental a la prote
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
 - [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Título IV, Capítulo II, Art. 6, Art. 11, Art. 331, Art. 3, Art. 20)
+- **Desarrolla**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md) (Título IV, Capítulo II, Art. 6, Art. 11, Art. 331, Art. 3, Art. 20)
+- **Desarrolla**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Título IV, Capítulo II, Art. 6, Art. 11, Art. 331, Art. 3, Art. 20)
+- **Desarrolla**: [**Resolucion BOC 134**](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md) (Título IV, Capítulo II, Art. 6, Art. 11, Art. 331, Art. 3, Art. 20)
+- **Desarrolla**: [**BOE-A-2001-7022**](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (Título IV, Capítulo II, Art. 6, Art. 11, Art. 331, Art. 3, Art. 20)
+- **Desarrolla**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Título IV, Capítulo II, Art. 6, Art. 11, Art. 331, Art. 3, Art. 20)
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Título IV, Capítulo II, Art. 6, Art. 11, Art. 331, Art. 3, Art. 20)
+- **Desarrolla**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md) (Art. 55, Art. 52, Art. 156, Art. 33, Art. 12, Art. 9) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Desarrolla**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Art. 55, Art. 52, Art. 156, Art. 33, Art. 12, Art. 9) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Desarrolla**: [**Resolucion BOC 134**](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md) (Art. 55, Art. 52, Art. 156, Art. 33, Art. 12, Art. 9) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Desarrolla**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 55, Art. 52, Art. 156, Art. 33, Art. 12, Art. 9) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Desarrolla**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 55, Art. 52, Art. 156, Art. 33, Art. 12, Art. 9) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 55, Art. 52, Art. 156, Art. 33, Art. 12, Art. 9) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Desarrolla**: `norm-es-c-1978` (Art. 55, Art. 52, Art. 156, Art. 33, Art. 12, Art. 9) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Desarrolla**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 49) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Desarrolla**: [**Resolucion BOC 134**](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md) (Art. 42, Art. 2, Art. 55) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 42, Art. 2, Art. 55) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Desarrolla**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 42, Art. 2, Art. 55) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 42, Art. 2, Art. 55) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 42, Art. 2, Art. 55) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Desarrolla**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Art. 11, Art. 55, Art. 156) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Desarrolla**: [**Resolucion BOC 134**](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md) (Art. 11, Art. 55, Art. 156) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Desarrolla**: [**BOE-A-2001-7022**](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (Art. 11, Art. 55, Art. 156) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Desarrolla**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 11, Art. 55, Art. 156) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 11, Art. 55, Art. 156) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Desarrolla**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md) (Art. 11, Art. 29) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Desarrolla**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Desarrolla**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Art. 153, Art. 162, D. Adicional 52º) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 153, Art. 162, D. Adicional 52º) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Desarrolla**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Art. 155) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 155) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Desarrolla**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Modifica**: [**LO1_2018 Estatuto de Autonomia de Canarias**](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md) (Art. 42 bis)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 42 bis)
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 42 bis)
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 42 bis)
+- **Deroga**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 29, Art. 31, Art. 8, Art. 133)
+- **Fundamentado en**: [**L14_1990 Regimen Juridico Administraciones Canarias**](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md) (Art. 29, Art. 31, Art. 8, Art. 133)
+- **Fundamentado en**: [**BOE-A-1985-5392**](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 5, Art. 29, Art. 156) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Fundamentado en**: [**L14_1990 Regimen Juridico Administraciones Canarias**](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md) (Art. 5, Art. 29, Art. 156) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Fundamentado en**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md) (Art. 57) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 51, Art. 52) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Fundamentado en**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) (Art. 5, Art. 57) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Fundamentado en**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md) (Art. 5, Art. 57) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Título VIII, Capítulo VI, Art. 57, Art. 6, Art. 4) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Fundamentado en**: [**BOE-A-1995-25444**](../../../estatal/01_marco_normativo_general_y_organico/LO10_1995_codigo_penal.md) (Título VIII, Capítulo VI, Art. 57, Art. 6, Art. 4) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Fundamentado en**: [**L9_2017 Contratos del Sector Publico (LCSP)**](../../../estatal/02_gestion_y_administracion_centros/L9_2017_contratos_sector_publico_transponen_ordenamiento_juridico.md) (Título VIII, Capítulo VI, Art. 57, Art. 6, Art. 4) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Fundamentado en**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md) (Título VIII, Capítulo VI, Art. 57, Art. 6, Art. 4) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO1_2018 Estatuto de Autonomia de Canarias**](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md)
+- **Fundamentado en**: [**Resolucion BOC 134**](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md)
+- **Fundamentado en**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
+- **Fundamentado en**: [**BOE-A-1971-1198**](../../../estatal/05_alumnado_y_servicios_escolares/D2078_1971_extiende_campo_aplicacion_seguro_escolar_alumnos.md)
+- **Fundamentado en**: [**BOE-A-2001-7022**](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
+- **Fundamentado en**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **Fundamentado en**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
+- **Cita a**: [**Resolucion BOC 134**](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md) (Art. 3)
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 3)
+- **Cita a**: [**BOE-A-1985-5392**](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md) (Art. 2)
+- **Cita a**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 16) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Cita a**: [**L9_2017 Contratos del Sector Publico (LCSP)**](../../../estatal/02_gestion_y_administracion_centros/L9_2017_contratos_sector_publico_transponen_ordenamiento_juridico.md) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Cita a**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Art. 156) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 156) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Cita a**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Cita a**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Cita a**: [**BOE-A-1971-1198**](../../../estatal/05_alumnado_y_servicios_escolares/D2078_1971_extiende_campo_aplicacion_seguro_escolar_alumnos.md) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 51) desde *(D. Adicional tercera. , reconoce a la.)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Título PRELIMINAR, Capítulo LL, Sección 3ª) desde *(D. Adicional tercera. , reconoce a la.)*

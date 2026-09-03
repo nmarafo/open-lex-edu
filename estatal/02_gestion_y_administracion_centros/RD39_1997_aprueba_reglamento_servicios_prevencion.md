@@ -29,21 +29,220 @@ tags:
 - prevencion-riesgos-laborales
 - servicios-prevencion
 relaciones:
+  cita:
+  - norma_id: norm-es-l-31-1995
+    capitulo_origen: Capítulo V. de la Ley 31/1995, de 8 de noviembre, de Prevención
+      de Riesgos Laborales.
+    capitulo_destino: Capítulo V
+  - norma_id: norm-es-l-31-1995
+    capitulo_origen: Capítulo V. de la Ley 31/1995, de 8 de noviembre, de Prevención
+      de Riesgos Laborales.
+    articulos_destino:
+    - Art. 33
+    - Art. 36
+  - norma_id: norm-es-l-31-1995
+    capitulo_origen: Capítulo II. Evaluación de los riesgos y planificación de la
+      actividad preventiva.
+    seccion_origen: Sección 1. ª Evaluación de los riesgos
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 4
+    - Art. 26
+  - norma_id: norm-es-l-31-1995
+    capitulo_origen: Capítulo III. Organización de recursos para las actividades preventivas.
+    articulos_origen:
+    - Art. 10
+    capitulo_destino: Capítulo IV
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo III. Organización de recursos para las actividades preventivas.
+    articulos_origen:
+    - Art. 16
+    articulos_destino:
+    - Art. 11
+  - norma_id: norm-es-l-31-1995
+    capitulo_origen: Capítulo III. Organización de recursos para las actividades preventivas.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 22
+    - Art. 31
+  - norma_id: norm-es-l-31-1995
+    capitulo_origen: Capítulo III. Organización de recursos para las actividades preventivas.
+    articulos_origen:
+    - Art. 19
+    articulos_destino:
+    - Art. 31
+    - Art. 18
+    - Art. 20
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo III. Organización de recursos para las actividades preventivas.
+    articulos_origen:
+    - Art. 21
+    articulos_destino:
+    - Art. 15
+    - Art. 83
+  - norma_id: norm-es-l-31-1995
+    capitulo_origen: Capítulo III. Organización de recursos para las actividades preventivas.
+    articulos_origen:
+    - Art. 22 bis
+    articulos_destino:
+    - Art. 32 bis
+  - norma_id: norm-es-l-31-1995
+    capitulo_origen: Capítulo III. Organización de recursos para las actividades preventivas.
+    articulos_origen:
+    - Art. 22 bis
+    articulos_destino:
+    - Art. 14
+  - norma_id: norm-es-l-31-1995
+    capitulo_origen: Capítulo IV. Acreditación de entidades especializadas como servicios
+      de prevención ajenos a las empresas.
+    articulos_origen:
+    - Art. 25
+    articulos_destino:
+    - Art. 23
+    - Art. 31
+  - norma_id: norm-es-1999-23750
+    capitulo_origen: Capítulo IV. Acreditación de entidades especializadas como servicios
+      de prevención ajenos a las empresas.
+    articulos_origen:
+    - Art. 28
+  - norma_id: norm-es-l-31-1995
+    capitulo_origen: Capítulo V. Auditorías.
+    articulos_origen:
+    - Art. 33 bis
+    articulos_destino:
+    - Art. 30
+    - Art. 5
+  - norma_id: norm-es-l-31-1995
+    capitulo_origen: Capítulo V. y al artículo 36, en cuanto al Comité de Seguridad
+      y Salud, de la Ley 31/1995, de
+    capitulo_destino: Capítulo V
+    articulos_destino:
+    - Art. 36
+  - norma_id: norm-es-l-31-1995
+    capitulo_origen: Capítulo V. y al artículo 36, en cuanto al Comité de Seguridad
+      y Salud, de la Ley 31/1995, de
+    articulos_origen:
+    - D. Adicional décima. Presencia de recursos preventivos en las obras de.
+    disposiciones_destino:
+    - D. Adicional decimocuarta
+    - D. Adicional única
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo V. y al artículo 36, en cuanto al Comité de Seguridad
+      y Salud, de la Ley 31/1995, de
+    articulos_origen:
+    - D. Transitoria primera. Constitución de servicio de prevención propio.
+    disposiciones_destino:
+    - D. Transitoria primera
+  concordancia:
+  - norma_id: norm-es-l-31-1995
+    capitulo_origen: Capítulo V. de la Ley 31/1995, de 8 de noviembre, de Prevención
+      de Riesgos Laborales.
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 16
+  - norma_id: norm-es-l-31-1995
+    capitulo_origen: Capítulo VI. Funciones y niveles de cualificación.
+    articulos_origen:
+    - Art. 37
+    articulos_destino:
+    - Art. 22
+  fundamentado_en:
+  - norma_id: norm-es-l-31-1995
+    capitulo_origen: Capítulo II. Evaluación de los riesgos y planificación de la
+      actividad preventiva.
+    seccion_origen: Sección 1. ª Evaluación de los riesgos
+    articulos_origen:
+    - Art. 7
+    seccion_destino: Sección 2
+    articulos_destino:
+    - Art. 23
+    - Art. 3
+    - Art. 5
+    - Art. 8
+  - norma_id: norm-es-l-31-1995
+    capitulo_origen: Capítulo III. Organización de recursos para las actividades preventivas.
+    articulos_origen:
+    - Art. 16
+    articulos_destino:
+    - Art. 33
+    - Art. 39
+  - norma_id: norm-es-l-31-1995
+    capitulo_origen: Capítulo IV. Acreditación de entidades especializadas como servicios
+      de prevención ajenos a las empresas.
+    articulos_origen:
+    - Art. 25
+    articulos_destino:
+    - Art. 31
+  - norma_id: norm-es-l-31-1995
+    capitulo_origen: Capítulo V. Auditorías.
+    articulos_origen:
+    - Art. 29
+    capitulo_destino: Capítulo V
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VII. Colaboración de los servicios de prevención con
+      el Sistema Nacional de Salud.
+    articulos_origen:
+    - D. Adicional primera. Carácter básico.
+    articulos_destino:
+    - Art. 149
   desarrolla:
   - norma_id: norm-es-l-31-1995
+    capitulo_origen: Capítulo III. Organización de recursos para las actividades preventivas.
+    articulos_origen:
+    - Art. 19
+    articulos_destino:
+    - Art. 31
+  - norma_id: norm-es-l-31-1995
+    capitulo_origen: Capítulo III. Organización de recursos para las actividades preventivas.
+    articulos_origen:
+    - Art. 21
+    articulos_destino:
+    - Art. 33
+    - Art. 39
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo III. Organización de recursos para las actividades preventivas.
+    articulos_origen:
+    - Art. 21
+    articulos_destino:
+    - Art. 33
+    - Art. 39
+  - norma_id: norm-es-l-31-1995
+    capitulo_origen: Capítulo III. Organización de recursos para las actividades preventivas.
+    articulos_origen:
+    - Art. 22 bis
+    articulos_destino:
+    - Art. 32 bis
+  - norma_id: norm-es-l-31-1995
+    capitulo_origen: Capítulo VII. Colaboración de los servicios de prevención con
+      el Sistema Nacional de Salud.
+    articulos_origen:
+    - Art. 38
+    articulos_destino:
+    - Art. 10
+    - Art. 21
+  - norma_id: norm-es-l-31-1995
+    capitulo_origen: Capítulo V. y al artículo 36, en cuanto al Comité de Seguridad
+      y Salud, de la Ley 31/1995, de
+    articulos_origen:
+    - D. Adicional décima. Presencia de recursos preventivos en las obras de.
+    articulos_destino:
+    - Art. 13
+    - Art. 24
   fundamento_de:
   - norma_id: norm-es-2010-10424
   - norma_id: norm-es-2014-5591
   - norma_id: norm-es-2020-17274
-  - norma_id: norm-can-o-2013-10-09
-  - norma_id: norm-can-res-boc-2024-226-44
-  - norma_id: norm-can-res-036
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-l-31-1995
   articulos:
-  - '6'
+  - norma_id: '6'
 ---
+
 # Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención.
 
 ## Preámbulo
@@ -976,3 +1175,41 @@ Las sustancias etiquetadas como H360, H360D, H360F, H360FD, H360Fd, H360Df y H37
 Las sustancias etiquetadas como H362 por el Reglamento (CE) n.º 1272/2008 del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008, sobre clasificación, etiquetado y envasado de sustancias y mezclas. Las sustancias cancerígenas y mutágenas, de categoría 1A y 1B incluidas en la parte 3 del Anexo VI del Reglamento (CE) n.º 1272/2008, de 16 de diciembre de 2008, sobre clasificación, etiquetado y envasado de sustancias y mezclas. Plomo y derivados, en la medida en que estos agentes sean susceptibles de ser absorbidos por el organismo humano.
 
 2. Condiciones de trabajo.–Trabajos de minería subterráneos. Este documento es de carácter informativo y no tiene valor jurídico.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](./L31_1995_prevencion_riesgos_laborales.md) (Art. 31) desde *(Capítulo III. Organización de recursos para las actividades preventivas., Art. 19)*
+- **Desarrolla**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](./L31_1995_prevencion_riesgos_laborales.md) (Art. 33, Art. 39) desde *(Capítulo III. Organización de recursos para las actividades preventivas., Art. 21)*
+- **Desarrolla**: `norm-es-c-1978` (Art. 33, Art. 39) desde *(Capítulo III. Organización de recursos para las actividades preventivas., Art. 21)*
+- **Desarrolla**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](./L31_1995_prevencion_riesgos_laborales.md) (Art. 32 bis) desde *(Capítulo III. Organización de recursos para las actividades preventivas., Art. 22 bis)*
+- **Desarrolla**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](./L31_1995_prevencion_riesgos_laborales.md) (Art. 10, Art. 21) desde *(Capítulo VII. Colaboración de los servicios de prevención con el Sistema Nacional de Salud., Art. 38)*
+- **Desarrolla**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](./L31_1995_prevencion_riesgos_laborales.md) (Art. 13, Art. 24) desde *(Capítulo V. y al artículo 36, en cuanto al Comité de Seguridad y Salud, de la Ley 31/1995, de, D. Adicional décima. Presencia de recursos preventivos en las obras de.)*
+- **Fundamentado en**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](./L31_1995_prevencion_riesgos_laborales.md) (Sección 2, Art. 23, Art. 3, Art. 5, Art. 8) desde *(Capítulo II. Evaluación de los riesgos y planificación de la actividad preventiva., Art. 7)*
+- **Fundamentado en**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](./L31_1995_prevencion_riesgos_laborales.md) (Art. 33, Art. 39) desde *(Capítulo III. Organización de recursos para las actividades preventivas., Art. 16)*
+- **Fundamentado en**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](./L31_1995_prevencion_riesgos_laborales.md) (Art. 31) desde *(Capítulo IV. Acreditación de entidades especializadas como servicios de prevención ajenos a las empresas., Art. 25)*
+- **Fundamentado en**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](./L31_1995_prevencion_riesgos_laborales.md) (Capítulo V, Art. 18) desde *(Capítulo V. Auditorías., Art. 29)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Capítulo VII. Colaboración de los servicios de prevención con el Sistema Nacional de Salud., D. Adicional primera. Carácter básico.)*
+- **Fundamento de**: [**BOE-A-2010-10424**](../08_personal_docente/Osn_pre_regula_procedimiento_reconocimiento_control_seguimiento.md)
+- **Fundamento de**: [**BOE-A-2014-5591**](../03_ordenacion_curricular_y_ensenanzas/RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md)
+- **Fundamento de**: [**BOE-A-2020-17274**](../03_ordenacion_curricular_y_ensenanzas/RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md)
+- **En concordancia con**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](./L31_1995_prevencion_riesgos_laborales.md) (Art. 16) desde *(Capítulo V. de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales., Art. 2)*
+- **En concordancia con**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](./L31_1995_prevencion_riesgos_laborales.md) (Art. 22) desde *(Capítulo VI. Funciones y niveles de cualificación., Art. 37)*
+- **Cita a**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](./L31_1995_prevencion_riesgos_laborales.md) (Capítulo V) desde *(Capítulo V. de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.)*
+- **Cita a**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](./L31_1995_prevencion_riesgos_laborales.md) (Art. 33, Art. 36) desde *(Capítulo V. de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.)*
+- **Cita a**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](./L31_1995_prevencion_riesgos_laborales.md) (Art. 4, Art. 26) desde *(Capítulo II. Evaluación de los riesgos y planificación de la actividad preventiva., Art. 4)*
+- **Cita a**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](./L31_1995_prevencion_riesgos_laborales.md) (Capítulo IV) desde *(Capítulo III. Organización de recursos para las actividades preventivas., Art. 10)*
+- **Cita a**: `norm-es-c-1978` (Art. 11) desde *(Capítulo III. Organización de recursos para las actividades preventivas., Art. 16)*
+- **Cita a**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](./L31_1995_prevencion_riesgos_laborales.md) (Art. 22, Art. 31) desde *(Capítulo III. Organización de recursos para las actividades preventivas., Art. 17)*
+- **Cita a**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](./L31_1995_prevencion_riesgos_laborales.md) (Art. 31, Art. 18, Art. 20) desde *(Capítulo III. Organización de recursos para las actividades preventivas., Art. 19)*
+- **Cita a**: `norm-es-c-1978` (Art. 15, Art. 83) desde *(Capítulo III. Organización de recursos para las actividades preventivas., Art. 21)*
+- **Cita a**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](./L31_1995_prevencion_riesgos_laborales.md) (Art. 32 bis) desde *(Capítulo III. Organización de recursos para las actividades preventivas., Art. 22 bis)*
+- **Cita a**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](./L31_1995_prevencion_riesgos_laborales.md) (Art. 14) desde *(Capítulo III. Organización de recursos para las actividades preventivas., Art. 22 bis)*
+- **Cita a**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](./L31_1995_prevencion_riesgos_laborales.md) (Art. 23, Art. 31) desde *(Capítulo IV. Acreditación de entidades especializadas como servicios de prevención ajenos a las empresas., Art. 25)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Capítulo IV. Acreditación de entidades especializadas como servicios de prevención ajenos a las empresas., Art. 28)*
+- **Cita a**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](./L31_1995_prevencion_riesgos_laborales.md) (Art. 30, Art. 5) desde *(Capítulo V. Auditorías., Art. 33 bis)*
+- **Cita a**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](./L31_1995_prevencion_riesgos_laborales.md) (Capítulo V, Art. 36) desde *(Capítulo V. y al artículo 36, en cuanto al Comité de Seguridad y Salud, de la Ley 31/1995, de)*
+- **Cita a**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](./L31_1995_prevencion_riesgos_laborales.md) (D. Adicional decimocuarta, D. Adicional única) desde *(Capítulo V. y al artículo 36, en cuanto al Comité de Seguridad y Salud, de la Ley 31/1995, de, D. Adicional décima. Presencia de recursos preventivos en las obras de.)*
+- **Cita a**: `norm-es-c-1978` (D. Transitoria primera) desde *(Capítulo V. y al artículo 36, en cuanto al Comité de Seguridad y Salud, de la Ley 31/1995, de, D. Transitoria primera. Constitución de servicio de prevención propio.)*

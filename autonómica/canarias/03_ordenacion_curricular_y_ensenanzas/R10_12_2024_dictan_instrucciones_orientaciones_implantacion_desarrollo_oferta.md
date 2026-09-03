@@ -24,27 +24,155 @@ tags:
 - formacion-profesional
 relaciones:
   desarrolla:
+  - norma_id: norm-can-res-134
+    articulos_destino:
+    - Art. 11
   - norma_id: norm-es-lo-3-2022
+    articulos_destino:
+    - Art. 11
+  - norma_id: norm-can-l-6-2014
+    articulos_destino:
+    - Art. 3
+    - Art. 85
+    - Art. 5
+    - Art. 42
+    - Art. 40
   - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 3
+    - Art. 85
+    - Art. 5
+    - Art. 42
+    - Art. 40
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 3
+    - Art. 85
+    - Art. 5
+    - Art. 42
+    - Art. 40
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 3
+    - Art. 85
+    - Art. 5
+    - Art. 42
+    - Art. 40
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_destino:
+    - Art. 25
+    - Art. 26
+    - Art. 18
+  - norma_id: norm-es-rd-132-2010
+    articulos_destino:
+    - Art. 25
+    - Art. 26
+    - Art. 18
+  - norma_id: norm-es-rd-659-2023
+    articulos_destino:
+    - Art. 25
+    - Art. 26
+    - Art. 18
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 20
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_destino:
+    - Art. 20
+  - norma_id: norm-es-2024-10683
+    articulos_destino:
+    - Art. 20
+  - norma_id: norm-es-2024-10684
+    articulos_destino:
+    - Art. 20
+  - norma_id: norm-es-2024-10685
+    articulos_destino:
+    - Art. 20
+  - norma_id: norm-es-rd-659-2023
+    articulos_destino:
+    - Art. 20
+  - norma_id: norm-can-d-81-2010
+    articulos_destino:
+    - Art. 49
+  - norma_id: norm-can-o-2013-10-09
+    articulos_destino:
+    - Art. 49
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-rd-659-2023
   fundamentado_en:
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_destino:
+    - Art. 32
+    - Art. 33
+  - norma_id: norm-es-rd-659-2023
+    articulos_destino:
+    - Art. 32
+    - Art. 33
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_destino:
+    - Art. 24
+  - norma_id: norm-es-rd-659-2023
+    articulos_destino:
+    - Art. 24
   - norma_id: norm-can-d-81-2010
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-can-o-2013-10-09
   - norma_id: norm-can-res-134
-  - norma_id: norm-can-res-boc-2024-230-25
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2024-10683
   - norma_id: norm-es-2024-10684
   - norma_id: norm-es-2024-10685
   - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-rd-659-2023
   - norma_id: norm-es-l-39-2015
+  cita:
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-can-res-boc-2024-230-25
+    titulo_destino: Título IV
+  - norma_id: norm-es-rd-659-2023
+    titulo_destino: Título IV
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_destino:
+    - Art. 9
+  - norma_id: norm-es-rd-659-2023
+    articulos_destino:
+    - Art. 9
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_destino:
+    - Art. 131
+    - Art. 161
+  - norma_id: norm-es-rd-659-2023
+    articulos_destino:
+    - Art. 131
+    - Art. 161
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_destino:
+    - Art. 18
+    - Art. 27
+    - Art. 107
+  - norma_id: norm-es-rd-659-2023
+    articulos_destino:
+    - Art. 18
+    - Art. 27
+    - Art. 107
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-es-rd-659-2023
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_destino:
+    - Art. 15
+  - norma_id: norm-es-rd-659-2023
+    articulos_destino:
+    - Art. 15
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-res-boc-2024-230-25
   - norma_id: norm-can-d-81-2010
@@ -60,6 +188,7 @@ relaciones:
   - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-251-4224.pdf
 ---
+
 # Resolución de 10 de diciembre de 2024, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial,-por la que se dictan instrucciones y orientaciones para la implantación y desarrollo de la oferta en las modalidades semipresencial y virtual de certificados profesionales de Grado C, ciclos formativos de Grado D y cursos especialización de Grado E a partir del curso 2024/2025 en el ámbito de la Comunidad Autónoma de Canarias (BOC nº 251, de 18 de diciembre).
 
 ## Preámbulo
@@ -428,3 +557,58 @@ Centros de Trabajo para poder titular. A partir del 1 de septiembre de 2027, par
 - [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
 - [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**Resolucion BOC 134**](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md) (Art. 11)
+- **Desarrolla**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 11)
+- **Desarrolla**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md) (Art. 3, Art. 85, Art. 5, Art. 42, Art. 40)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 3, Art. 85, Art. 5, Art. 42, Art. 40)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 3, Art. 85, Art. 5, Art. 42, Art. 40)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 3, Art. 85, Art. 5, Art. 42, Art. 40)
+- **Desarrolla**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Art. 25, Art. 26, Art. 18)
+- **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md) (Art. 25, Art. 26, Art. 18)
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 25, Art. 26, Art. 18)
+- **Desarrolla**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 20)
+- **Desarrolla**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Art. 20)
+- **Desarrolla**: [**BOE-A-2024-10683**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD498_2024_modifican_determinados_reales_decretos_establecen_titulos.md) (Art. 20)
+- **Desarrolla**: [**BOE-A-2024-10684**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD499_2024_modifican_determinados_reales_decretos_establecen_titulos.md) (Art. 20)
+- **Desarrolla**: [**BOE-A-2024-10685**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD500_2024_modifican_determinados_reales_decretos_establecen_titulos.md) (Art. 20)
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 20)
+- **Desarrolla**: [**D81_2010 Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) (Art. 49)
+- **Desarrolla**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md) (Art. 49)
+- **Desarrolla**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **Fundamentado en**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Art. 32, Art. 33)
+- **Fundamentado en**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 32, Art. 33)
+- **Fundamentado en**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Art. 24)
+- **Fundamentado en**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 24)
+- **Fundamentado en**: [**D81_2010 Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
+- **Fundamentado en**: [**Resolucion BOC 134**](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**BOE-A-2024-10683**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD498_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamentado en**: [**BOE-A-2024-10684**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD499_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamentado en**: [**BOE-A-2024-10685**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD500_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **Cita a**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Título IV)
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Título IV)
+- **Cita a**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Art. 9)
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 9)
+- **Cita a**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Art. 131, Art. 161)
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 131, Art. 161)
+- **Cita a**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Art. 18, Art. 27, Art. 107)
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 18, Art. 27, Art. 107)
+- **Cita a**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Art. 18)
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 18)
+- **Cita a**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Art. 15)
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 15)

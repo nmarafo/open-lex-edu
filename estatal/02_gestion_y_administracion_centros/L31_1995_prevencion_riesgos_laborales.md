@@ -26,11 +26,63 @@ tags:
 - salud-laboral
 - seguridad-trabajo
 relaciones:
+  cita:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 40
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 118
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 118
+    capitulo_destino: Capítulo IV
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VII. Responsabilidades y sanciones.
+    articulos_origen:
+    - D. Adicional sexta. Constitución de la Comisión Nacional de Seguridad y Salud
+      en el Trabajo.
+    disposiciones_destino:
+    - D. Adicional sexta
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VII. Responsabilidades y sanciones.
+    articulos_origen:
+    - D. Derogatoria única. Alcance de la derogación.
+    articulos_destino:
+    - Art. 27
+  desarrolla:
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 118
+    articulos_destino:
+    - Art. 149
+  fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 118
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo III. Derechos y obligaciones.
+    articulos_origen:
+    - Art. 14
+    capitulo_destino: Capítulo IV
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VII. Responsabilidades y sanciones.
+    articulos_origen:
+    - D. Adicional tercera. Carácter básico.
+    articulos_destino:
+    - Art. 6
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VII. Responsabilidades y sanciones.
+    articulos_origen:
+    - D. Adicional tercera. Carácter básico.
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-ce-1978
   desarrollado_por:
   - norma_id: norm-es-rd-39-1997
-  - norma_id: norm-can-d-168-2009
-  fundamentado_en:
-  - norma_id: norm-es-ce-1978
   fundamento_de:
   - norma_id: norm-es-2002-12018
   - norma_id: norm-es-2007-10487
@@ -41,12 +93,12 @@ relaciones:
   - norma_id: norm-es-2026-12038
   - norma_id: norm-es-lo-3-2018
   - norma_id: norm-es-rdl-2-2015
-  - norma_id: norm-can-res-125
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '40.2'
+  - norma_id: '40.2'
 ---
+
 # Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.
 
 ## Preámbulo
@@ -1256,3 +1308,29 @@ FELIPE GONZALEZ MARQUEZ
 ### Fundamentos de Derecho
 
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-c-1978` (Art. 149) desde *(Art. 118)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Art. 118)*
+- **Fundamentado en**: `norm-es-c-1978` (Capítulo IV) desde *(Capítulo III. Derechos y obligaciones., Art. 14)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 6, Art. 149) desde *(Capítulo VII. Responsabilidades y sanciones., D. Adicional tercera. Carácter básico.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Capítulo VII. Responsabilidades y sanciones., D. Adicional tercera. Carácter básico.)*
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamento de**: [**BOE-A-2002-12018**](../03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md)
+- **Fundamento de**: [**BOE-A-2007-10487**](../05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md)
+- **Fundamento de**: [**BOE-A-2007-6115**](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md)
+- **Fundamento de**: [**BOE-A-2012-8745**](../08_personal_docente/L2_2012_presupuestos_generales_estado_ano.md)
+- **Fundamento de**: [**BOE-A-2014-5591**](../03_ordenacion_curricular_y_ensenanzas/RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md)
+- **Fundamento de**: [**BOE-A-2015-9462**](../03_ordenacion_curricular_y_ensenanzas/RD774_2015_establecen_seis_titulos_formacion_profesional_basica.md)
+- **Fundamento de**: [**BOE-A-2026-12038**](../03_ordenacion_curricular_y_ensenanzas/RD452_2026_establece_ordenacion_ensenanzas_profesionales_artes_plasticas.md)
+- **Fundamento de**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](./LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
+- **Fundamento de**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
+- **Cita a**: `norm-es-c-1978` (Art. 40)
+- **Cita a**: `norm-es-c-1978` desde *(Art. 118)*
+- **Cita a**: `norm-es-c-1978` (Capítulo IV) desde *(Art. 118)*
+- **Cita a**: `norm-es-c-1978` (D. Adicional sexta) desde *(Capítulo VII. Responsabilidades y sanciones., D. Adicional sexta. Constitución de la Comisión Nacional de Seguridad y Salud en el Trabajo.)*
+- **Cita a**: `norm-es-c-1978` (Art. 27) desde *(Capítulo VII. Responsabilidades y sanciones., D. Derogatoria única. Alcance de la derogación.)*

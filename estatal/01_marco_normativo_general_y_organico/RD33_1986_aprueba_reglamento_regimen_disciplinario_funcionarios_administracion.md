@@ -20,15 +20,54 @@ tags:
 - ebep
 - empleados-p-blicos
 relaciones:
+  modifica:
+  - norma_id: norm-es-1984-17387
+    articulos_destino:
+    - Art. 31
+  cita:
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-1984-17387
+    capitulo_origen: Capítulo PRIMERO
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo II. Faltas disciplinarias artículo 5 Las faltas cometidas
+      por los funcionarios en el ejercicio de sus cargos podrán ser muy graves, graves
+      y leves.
+    articulos_origen:
+    - Art. 6
+  - norma_id: norm-es-1984-17387
+    capitulo_origen: Capítulo III. Iniciación artículo 27 El procedimiento se iniciará
+      siempre de oficio, por acuerdo del órgano competente, bien por propia iniciativa
+      o como consecuencia de orden superior, moción razonada de los subordinados o
+      denuncia.
+    articulos_origen:
+    - Art. 30
+    articulos_destino:
+    - Art. 25
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo V. Terminación.
+    articulos_origen:
+    - Art. 51
+    articulos_destino:
+    - Art. 104
   fundamentado_en:
   - norma_id: norm-es-1984-17387
+    capitulo_origen: Capítulo V. Terminación.
+    articulos_origen:
+    - Art. 51
+    articulos_destino:
+    - Art. 6
+    disposiciones_destino:
+    - D. Adicional cuarta
   - norma_id: norm-es-ce-1978
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
+  - norma_id: '27'
   - norma_id: norm-es-1984-17387
 ---
+
 # Real Decreto 33/1986, de 10 de enero, por el que se aprueba el Reglamento de Régimen Disciplinario de los Funcionarios de la Administración del Estado.
 
 ## Preámbulo
@@ -372,3 +411,17 @@ Quedan derogados los Decretos de 23 de diciembre de 1957 sobre situación de los
 
 - [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
 - [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md) (Art. 31)
+- **Fundamentado en**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md) (Art. 6, D. Adicional cuarta) desde *(Capítulo V. Terminación., Art. 51)*
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
+- **Cita a**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md)
+- **Cita a**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md) (Art. 1) desde *(Capítulo PRIMERO)*
+- **Cita a**: `norm-es-c-1978` desde *(Capítulo II. Faltas disciplinarias artículo 5 Las faltas cometidas por los funcionarios en el ejercicio de sus cargos podrán ser muy graves, graves y leves., Art. 6)*
+- **Cita a**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md) (Art. 25) desde *(Capítulo III. Iniciación artículo 27 El procedimiento se iniciará siempre de oficio, por acuerdo del órgano competente, bien por propia iniciativa o como consecuencia de orden superior, moción razonada de los subordinados o denuncia., Art. 30)*
+- **Cita a**: `norm-es-c-1978` (Art. 104) desde *(Capítulo V. Terminación., Art. 51)*

@@ -32,6 +32,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Orden de 18 de abril de 2001, por la que se regula la admisión de alumnado en centros docentes sostenidos con fondos públicos.
 
 ## Preámbulo
@@ -71,3 +72,13 @@ CERTIFICADO DE CONFORMIDAD CON EL ESQUEMA NACIONAL DE SEGURIDAD
 Certificado emitido con firma digital de Fábrica Nacional de Moneda y Timbre, propiedad de AUDERTIS y sujeto a condiciones del contrato. La acreditación de la entidad y los certificados emitidos pueden verificarse en: https://ens.ccn.cni.es/es/certificacion www.audertis.es Tel. - 91 838 78 82 Pº de la Castellana 95, (Edificio Torre Europa, Planta 29) 28046 – MADRID NIF: B-87635470 Ubicaciones principales para el sistema de información:
 • Sede Central: Edificio: Torre Sevilla - C/ Gonzalo Jiménez de Quesada, 2, 3ª, 41002, Sevilla • Sede donde presta servicios algún personal desplazado de la Agencia Digital de Andalucía:
 o Edificio Torre Triana - C/ Juan Antonio de Vizarrón, s/n, 41092, Sevilla o Edificio CICA - Campus Universitario Reina Mercedes; C/ Tarfia, s/n, 41012, Sevilla • (#2) Centros asociados (NDA)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

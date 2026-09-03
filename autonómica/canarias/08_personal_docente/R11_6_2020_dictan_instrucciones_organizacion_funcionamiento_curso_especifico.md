@@ -24,6 +24,75 @@ tags:
 - grado-medio
 - oposiciones
 relaciones:
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 41
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 41
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 41
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
+  modifica:
+  - norma_id: norm-can-d-135-2016
+    articulos_destino:
+    - Art. 41
+    - Art. 28
+    - Art. 15
+    - Art. 16
+    - Art. 5
+    - Art. 1
+    - Art. 11
+  - norma_id: norm-can-l-6-2014
+    articulos_destino:
+    - Art. 41
+    - Art. 28
+    - Art. 15
+    - Art. 16
+    - Art. 5
+    - Art. 1
+    - Art. 11
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 41
+    - Art. 28
+    - Art. 15
+    - Art. 16
+    - Art. 5
+    - Art. 1
+    - Art. 11
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 41
+    - Art. 28
+    - Art. 15
+    - Art. 16
+    - Art. 5
+    - Art. 1
+    - Art. 11
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 41
+    - Art. 28
+    - Art. 15
+    - Art. 16
+    - Art. 5
+    - Art. 1
+    - Art. 11
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 41
+    - Art. 28
+    - Art. 15
+    - Art. 16
+    - Art. 5
+    - Art. 1
+    - Art. 11
+  cita:
+  - norma_id: norm-es-c-1978
   fundamentado_en:
   - norma_id: norm-can-d-135-2016
   - norma_id: norm-can-l-6-2014
@@ -31,20 +100,17 @@ relaciones:
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-rdl-5-2015
-  desarrolla:
-  - norma_id: norm-es-rd-276-2007
-  - norma_id: norm-es-rdl-5-2015
-  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
   - norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2020-130-2054.pdf
 ---
+
 # Resolución de 11 de junio de 2020, por la que se dictan instrucciones para la organización y el funcionamiento del Curso Específico de Acceso a Ciclos Formativos de Formación Profesional de Grado Medio a impartir en centros de educación de personas adultas dependientes de esta Consejería (BOC n.º 130, de 30 de junio).
 
 ## Preámbulo
@@ -307,3 +373,27 @@ Declaro bajo mi responsabilidad que no me encuentro simultaneando, en régimen o
 - [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**Decreto BOC 135/2016**](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 41)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 41)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 41)
+- **Desarrolla**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Desarrolla**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Modifica**: [**Decreto BOC 135/2016**](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md) (Art. 41, Art. 28, Art. 15, Art. 16, Art. 5, Art. 1, Art. 11)
+- **Modifica**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md) (Art. 41, Art. 28, Art. 15, Art. 16, Art. 5, Art. 1, Art. 11)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 41, Art. 28, Art. 15, Art. 16, Art. 5, Art. 1, Art. 11)
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 41, Art. 28, Art. 15, Art. 16, Art. 5, Art. 1, Art. 11)
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 41, Art. 28, Art. 15, Art. 16, Art. 5, Art. 1, Art. 11)
+- **Modifica**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 41, Art. 28, Art. 15, Art. 16, Art. 5, Art. 1, Art. 11)
+- **Fundamentado en**: [**Decreto BOC 135/2016**](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Cita a**: `norm-es-c-1978`

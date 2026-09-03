@@ -33,19 +33,106 @@ tags:
 - situacion-administrativa
 - titulacion
 relaciones:
+  cita:
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo IV. Registro de Personal.
+    articulos_origen:
+    - Art. 20
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Régimen estatutario.
+    seccion_origen: 'Sección 1. ª Adquisición de la condición de funcionario artículo
+      33 La condición de funcionario de carrera de la Administración de la Comunidad
+      Autónoma de Canarias definida por el artículo 11 de esta Ley se adquiere por
+      el cumplimiento sucesivo de los requisitos siguientes:'
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Régimen estatutario.
+    seccion_origen: 'Sección 3. ª Situaciones artículo 37 Los funcionarios de carrera
+      de la Administración de la Comunidad Autónoma de Canarias podrán encontrarse
+      en alguna de las siguientes situaciones:'
+    articulos_origen:
+    - Art. 41
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Régimen estatutario.
+    seccion_origen: Sección 5. ª Derechos de los funcionarios
+    articulos_origen:
+    - Art. 45
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Régimen estatutario.
+    seccion_origen: Sección 7. ª Deberes y responsabilidades
+    articulos_origen:
+    - Art. 50
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Régimen estatutario.
+    seccion_origen: Sección 7. ª Deberes y responsabilidades
+    articulos_origen:
+    - Art. 52
+    articulos_destino:
+    - Art. 52
+    - Art. 106
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Régimen estatutario.
+    seccion_origen: Sección 8. ª Régimen disciplinario artículo 56 El incumplimiento
+      de las obligaciones y deberes propios del personal podrá dar lugar, previa resolución
+      del correspondiente expediente disciplinario, a las sanciones previstas en esta
+      Ley, con independencia de las responsabilidades civiles y criminales a que puedan
+      dar lugar.
+    articulos_origen:
+    - Art. 58
+  - norma_id: norm-can-lo-1-2018
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Régimen estatutario.
+    seccion_origen: Sección 8. ª Régimen disciplinario artículo 56 El incumplimiento
+      de las obligaciones y deberes propios del personal podrá dar lugar, previa resolución
+      del correspondiente expediente disciplinario, a las sanciones previstas en esta
+      Ley, con independencia de las responsabilidades civiles y criminales a que puedan
+      dar lugar.
+    articulos_origen:
+    - Art. 58
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo III. Personal laboral.
+    articulos_origen:
+    - Art. 67
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título IX
+    articulos_origen:
+    - Art. 97
+    disposiciones_destino:
+    - D. Adicional 16
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título IX
+    articulos_origen:
+    - Art. 97
+  fundamentado_en:
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título IX
+    articulos_origen:
+    - Art. 97
+    disposiciones_destino:
+    - D. Adicional cuarta
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-can-l-6-2014
   desarrolla:
   - norma_id: norm-es-rdl-5-2015
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-ce-1978
   desarrollado_por:
   - norma_id: norm-can-d-74-2010
-  fundamentado_en:
-  - norma_id: norm-can-lo-1-2018
-  - norma_id: norm-es-1984-17387
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-l-40-2015
-  - norma_id: norm-can-l-6-2014
   fundamento_de:
   - norma_id: norm-can-d-168-2009
   - norma_id: norm-can-res-125
@@ -56,9 +143,10 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-lo-1-2018
   articulos:
-  - '136'
+  - norma_id: '136'
   - norma_id: norm-es-1984-17387
 ---
+
 # Ley 2/1987, de 30 de marzo, de la Función Pública Canaria.
 
 ## Preámbulo
@@ -1359,3 +1447,36 @@ Presidente del Gobierno
 
 - [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md)
 - [**BOE-A-1984-17387**](../../../estatal/01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**BOE-A-1984-17387**](../../../estatal/01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) (D. Adicional cuarta) desde *(Título IX, Art. 97)*
+- **Fundamentado en**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](./L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamento de**: [**D168_2009 Prevencion de Riesgos Laborales en la Administracion Canaria**](../02_gestion_y_administracion_centros/D168_2009_adapta_normativa_prevencion_riesgos_laborales_ambito.md)
+- **Fundamento de**: [**Resolucion BOC 125**](../07_convivencia_bienestar_y_protocolos/R19_2_2025_establece_protocolo_actuacion_ante_situaciones_acoso.md)
+- **Fundamento de**: `norm-can-res-boc-1996-057-140`
+- **Fundamento de**: [**Resolucion BOC 139**](../08_personal_docente/R24_2_2026_dictan_instrucciones_regulacion_periodo_vacacional_regimen.md)
+- **Fundamento de**: [**Resolucion BOC 54**](../03_ordenacion_curricular_y_ensenanzas/R23_7_2004_dictan_instrucciones_organizacion_funcionamiento_escuelas_oficiales.md)
+- **Fundamento de**: [**Resolucion BOC 138**](../08_personal_docente/R10_8_2005_relativa_deposito_registro_publicacion_acuerdo_ratifica.md)
+- **Cita a**: [**BOE-A-1984-17387**](../../../estatal/01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
+- **Cita a**: `norm-es-c-1978` (Art. 18) desde *(Título III, Capítulo IV. Registro de Personal., Art. 20)*
+- **Cita a**: `norm-es-c-1978` desde *(Título IV, Capítulo IV. Régimen estatutario.)*
+- **Cita a**: `norm-es-c-1978` desde *(Título IV, Capítulo IV. Régimen estatutario., Art. 41)*
+- **Cita a**: `norm-es-c-1978` desde *(Título IV, Capítulo IV. Régimen estatutario., Art. 45)*
+- **Cita a**: `norm-es-c-1978` (Art. 3) desde *(Título IV, Capítulo IV. Régimen estatutario., Art. 50)*
+- **Cita a**: `norm-es-c-1978` (Art. 52, Art. 106) desde *(Título IV, Capítulo IV. Régimen estatutario., Art. 52)*
+- **Cita a**: `norm-es-c-1978` desde *(Título IV, Capítulo IV. Régimen estatutario., Art. 58)*
+- **Cita a**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md) desde *(Título IV, Capítulo IV. Régimen estatutario., Art. 58)*
+- **Cita a**: `norm-es-c-1978` desde *(Título V, Capítulo III. Personal laboral., Art. 67)*
+- **Cita a**: [**BOE-A-1984-17387**](../../../estatal/01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) (D. Adicional 16) desde *(Título IX, Art. 97)*
+- **Cita a**: [**BOE-A-1984-17387**](../../../estatal/01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) desde *(Título IX, Art. 97)*

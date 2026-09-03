@@ -21,7 +21,26 @@ tags:
 - equipos-directivos
 - transparencia
 relaciones:
+  modifica:
+  - norma_id: norm-es-c-1978
+  cita:
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título II
+    articulos_origen:
+    - Art. 4
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 149
+    - Art. 11
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Transitoria única. Régimen transitorio aplicable a los acuerdos exclusivos.
+    articulos_destino:
+    - Art. 149
+    - Art. 11
   - norma_id: norm-es-1999-23750
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-l-39-2015
@@ -33,9 +52,10 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-1999-23750
 ---
+
 # Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público.
 
 ## Preámbulo
@@ -340,3 +360,21 @@ JOSÉ LUIS RODRÍGUEZ ZAPATERO
 - [**L39_2015 Procedimiento Administrativo Comun**](./L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
 - [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: `norm-es-c-1978`
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 11)
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 11) desde *(Título III, D. Transitoria única. Régimen transitorio aplicable a los acuerdos exclusivos.)*
+- **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](./L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
+- **Fundamento de**: [**BOE-A-2011-17560**](./RD1495_2011_desarrolla_ley_reutilizacion_informacion_sector_publico.md)
+- **Fundamento de**: [**L19_2013 Transparencia y Buen Gobierno**](./L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md)
+- **Fundamento de**: [**L9_2017 Contratos del Sector Publico (LCSP)**](../02_gestion_y_administracion_centros/L9_2017_contratos_sector_publico_transponen_ordenamiento_juridico.md)
+- **Cita a**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+- **Cita a**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título II, Art. 4)*

@@ -20,14 +20,149 @@ tags:
 - proteccion-menores
 - titulacion
 relaciones:
+  cita:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título PRIMERO
+    articulos_origen:
+    - Art. 24
+    articulos_destino:
+    - Art. 24
+    - Art. 19
+    - Art. 25
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título PRIMERO
+    articulos_origen:
+    - Art. 27
+    articulos_destino:
+    - Art. 27
+    - Art. 2
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. De las personas jurídicas.
+    articulos_origen:
+    - Art. 38
+    articulos_destino:
+    - Art. 38
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IX
+    capitulo_origen: Capítulo V. Del protutor artículo 233 Al consejo de familia corresponde
+      nombrar protutor, cuando no lo hayan nombrado los que tienen derecho a elegir
+      tutor para los menores.
+    articulos_origen:
+    - Art. 236
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título X
+    seccion_origen: Sección primera. De la formación del consejo de familia artículo
+      293 Si el Ministerio Público o el Juez municipal tuvieren conocimiento de que
+      existe en el territorio de su jurisdicción alguna de las personas a que se refiere
+      el art. 200, pedirá el primero y ordenará el segundo, de oficio o a excitación
+      fiscal, según los casos, la constitución del consejo de familia.
+    articulos_destino:
+    - Art. 293
+    - Art. 200
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo PRIMERO
+    seccion_origen: Sección primera. Del usufructo en general artículo 467 El usufructo
+      da derecho a disfrutar los bienes ajenos con la obligación de conservar su forma
+      y sustancia, a no ser que el título de su constitución o la ley autoricen otra
+      cosa.
+    articulos_destino:
+    - Art. 467
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo PRIMERO
+    seccion_origen: 'Sección cuarta. De los modos de extinguirse el usufructo artículo
+      513 El usufructo se extingue:'
+    articulos_origen:
+    - Art. 521
+    articulos_destino:
+    - Art. 521
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título PRIMERO
+    capitulo_origen: Capítulo III. De las diversas especies de obligaciones.
+    seccion_origen: Sección primera. De las obligaciones puras y de las condicionales
+      artículo 1113 Será exigible desde luego toda obligación cuyo cumplimiento no
+      dependa de un suceso futuro o incierto, o de un suceso pasado, que los interesados
+      ignoren.
+    articulos_origen:
+    - Art. 1120
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. De la eficacia de los contratos artículo 1278 Los
+      contratos serán obligatorios, cualquiera que sea la forma en que se hayan celebrado,
+      siempre que en ellos concurran las condiciones esenciales para su validez.
+    articulos_origen:
+    - Art. 1280
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. De la dote.
+    seccion_origen: Sección primera. De la constitución y garantía de la dote artículo
+      1336 La dote se compone de los bienes y derechos que en este concepto la mujer
+      aporta al matrimonio al tiempo de contraerlo y de los que durante él adquiera
+      por donación, herencia o legado con el carácter dotal.
+    articulos_destino:
+    - Art. 1336
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. De la dote.
+    seccion_origen: Sección primera. De la constitución y garantía de la dote artículo
+      1336 La dote se compone de los bienes y derechos que en este concepto la mujer
+      aporta al matrimonio al tiempo de contraerlo y de los que durante él adquiera
+      por donación, herencia o legado con el carácter dotal.
+    articulos_origen:
+    - Art. 1346
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. De la dote.
+    seccion_origen: Sección primera. De la constitución y garantía de la dote artículo
+      1336 La dote se compone de los bienes y derechos que en este concepto la mujer
+      aporta al matrimonio al tiempo de contraerlo y de los que durante él adquiera
+      por donación, herencia o legado con el carácter dotal.
+    articulos_origen:
+    - Art. 1352
+    articulos_destino:
+    - Art. 1352
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. De la dote.
+    seccion_origen: Sección primera. De la constitución y garantía de la dote artículo
+      1336 La dote se compone de los bienes y derechos que en este concepto la mujer
+      aporta al matrimonio al tiempo de contraerlo y de los que durante él adquiera
+      por donación, herencia o legado con el carácter dotal.
+    articulos_origen:
+    - Art. 1353
+    articulos_destino:
+    - Art. 1353
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo IV. De los bienes parafernales.
+    articulos_origen:
+    - Art. 1390
+    articulos_destino:
+    - Art. 1
+    - Art. 1391
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título XVIII
+    capitulo_origen: Capítulo III. De la prescripción de las acciones artículo 1961
+      Las acciones prescriben por el mero lapso del tiempo fijado por la ley.
+    articulos_origen:
+    - Art. 1976
+  modifica:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título XV
+    capitulo_origen: Capítulo TERCERO
+    articulos_origen:
+    - Art. 1880
   fundamentado_en:
   - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2.1'
+  - norma_id: '1'
+  - norma_id: '2.1'
 ---
+
 # Real Decreto de 24 de julio de 1889 por el que se publica el Código Civil.
 
 ## Preámbulo
@@ -7621,3 +7756,26 @@ En vista de estos datos, de los progresos realizados en otros países que sean u
 ### Fundamentos de Derecho
 
 - [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: `norm-es-c-1978` desde *(Título XV, Capítulo TERCERO, Art. 1880)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: `norm-es-c-1978` (Art. 24, Art. 19, Art. 25) desde *(Título PRIMERO, Art. 24)*
+- **Cita a**: `norm-es-c-1978` (Art. 27, Art. 2) desde *(Título PRIMERO, Art. 27)*
+- **Cita a**: `norm-es-c-1978` (Art. 38) desde *(Título II, Capítulo II. De las personas jurídicas., Art. 38)*
+- **Cita a**: `norm-es-c-1978` desde *(Título IX, Capítulo V. Del protutor artículo 233 Al consejo de familia corresponde nombrar protutor, cuando no lo hayan nombrado los que tienen derecho a elegir tutor para los menores., Art. 236)*
+- **Cita a**: `norm-es-c-1978` (Art. 293, Art. 200) desde *(Título X)*
+- **Cita a**: `norm-es-c-1978` (Art. 467) desde *(Título VI, Capítulo PRIMERO)*
+- **Cita a**: `norm-es-c-1978` (Art. 521) desde *(Título VI, Capítulo PRIMERO, Art. 521)*
+- **Cita a**: `norm-es-c-1978` desde *(Título PRIMERO, Capítulo III. De las diversas especies de obligaciones., Art. 1120)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo III. De la eficacia de los contratos artículo 1278 Los contratos serán obligatorios, cualquiera que sea la forma en que se hayan celebrado, siempre que en ellos concurran las condiciones esenciales para su validez., Art. 1280)*
+- **Cita a**: `norm-es-c-1978` (Art. 1336) desde *(Título III, Capítulo III. De la dote.)*
+- **Cita a**: `norm-es-c-1978` desde *(Título III, Capítulo III. De la dote., Art. 1346)*
+- **Cita a**: `norm-es-c-1978` (Art. 1352) desde *(Título III, Capítulo III. De la dote., Art. 1352)*
+- **Cita a**: `norm-es-c-1978` (Art. 1353) desde *(Título III, Capítulo III. De la dote., Art. 1353)*
+- **Cita a**: `norm-es-c-1978` (Art. 1, Art. 1391) desde *(Título III, Capítulo IV. De los bienes parafernales., Art. 1390)*
+- **Cita a**: `norm-es-c-1978` desde *(Título XVIII, Capítulo III. De la prescripción de las acciones artículo 1961 Las acciones prescriben por el mero lapso del tiempo fijado por la ley., Art. 1976)*

@@ -27,6 +27,17 @@ tags:
 - proteccion-menores
 - seguro-escolar
 relaciones:
+  cita:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 43
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final única. Entrada en vigor.
+    articulos_destino:
+    - Art. 43
+    - Art. 149
   fundamentado_en:
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-lo-2-2006
@@ -36,8 +47,9 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '136'
+  - norma_id: '136'
 ---
+
 # Real Decreto 828/2010, de 25 de junio, de traspaso a la Comunidad Autónoma de Canarias de los medios adscritos a la gestión de las prestaciones sanitarias del Seguro Escolar.
 
 ## Preámbulo
@@ -145,3 +157,15 @@ Aplicación presupuestaria: 18.04.324M.487.02. Total coste efectivo: 201.236,58 
 
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**LO1_2018 Estatuto de Autonomia de Canarias**](../../autonómica/canarias/01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: `norm-es-c-1978` (Art. 43, Art. 149)
+- **Cita a**: `norm-es-c-1978` (Art. 43, Art. 149) desde *(D. Final única. Entrada en vigor.)*

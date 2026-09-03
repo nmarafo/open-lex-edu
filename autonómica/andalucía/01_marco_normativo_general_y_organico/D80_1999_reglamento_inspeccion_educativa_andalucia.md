@@ -34,6 +34,7 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
 ---
+
 # Decreto 80/1999, de 30 de marzo, por el que se aprueba el Reglamento de la Inspección Educativa de Andalucía.
 
 ## Preámbulo
@@ -44,7 +45,7 @@ En su virtud, a propuesta del Consejero de Educación y Ciencia, oído el Consej
 
 DISPONGO:
 
-### Capítulo I. Naturaleza, Ámbito y Atribuciones artículo 1 Objeto del Reglamento. El presente Reglamento regula las funciones, atribuciones, organización y funcionamiento de la Inspección Educativa de Andalucía.
+#### Artículo . #### Artículo . ### Capítulo I. Naturaleza, Ámbito y Atribuciones artículo 1 Objeto del Reglamento. El presente Reglamento regula las funciones, atribuciones, organización y funcionamiento de la Inspección Educativa de Andalucía.
 
 #### Artículo 2. Atribuciones inspectoras En el ejercicio de sus funciones, los inspectores de educación tendrán las siguientes atribuciones:.
 
@@ -65,3 +66,15 @@ c) Requerir la colaboración del profesorado y equipos directivos.
 #### Disposición final única. Entrada en vigor.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el BOJA.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](./L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)

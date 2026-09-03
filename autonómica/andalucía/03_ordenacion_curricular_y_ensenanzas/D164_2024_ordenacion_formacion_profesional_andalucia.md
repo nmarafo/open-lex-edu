@@ -25,16 +25,53 @@ tags:
 - ordenacion_academica
 - andalucia
 relaciones:
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
-  modifica_a: []
-  modificado_por: []
-  afecta_a_articulos: []
-  fundamentado_en:
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
+  cita:
+  - norma_id: norm-and-d-164-2024
+  - norma_id: norm-and-d-164-2024
+    articulos_destino:
+    - Art. 4
   - norma_id: norm-and-l17-2007
+    articulos_origen:
+    - Art. 12
+    articulos_destino:
+    - Art. 39
+  fundamentado_en:
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 129
+    - Art. 45
+    - Art. 133
+    - Art. 24
+    - Art. 1
+  - norma_id: norm-and-l17-2007
+    articulos_origen:
+    - Art. 12
+    articulos_destino:
+    - Art. 180
+    - Art. 60
+  - norma_id: norm-es-lo-2-2006
+  desarrolla:
+  - norma_id: norm-and-l17-2007
+    articulos_origen:
+    - Art. 12
+    articulos_destino:
+    - Art. 113
+  - norma_id: norm-and-l9-1999
+    articulos_origen:
+    - Art. 12
+    articulos_destino:
+    - Art. 113
+  - norma_id: norm-es-lo-2-2006
+  modifica:
+  - norma_id: norm-and-d-1-2011
+    articulos_origen:
+    - D. Transitoria cuarta. Política de seguridad TIC.
+  deroga:
+  - norma_id: norm-and-d154-2022
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
 ---
+
 # Decreto 164/2024, de 26 de agosto, por el que se establece la ordenación de la Formación Profesional en la Comunidad Autónoma de Andalucía
 
 ## Preámbulo
@@ -493,4 +530,19 @@ Se faculta a la persona titular de la Consejería de Desarrollo Educativo y Form
 
 #### Disposición final segunda. Entrada en vigor.
 
-El presente decreto entrará en vigor el mismo día de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 26 de agosto de 2024 JUAN MANUEL MORENO BONILLA Presidente de la Junta de Andalucía MARÍA DEL CARMEN CASTILLO MENA Consejera de Desarrollo Educativo y Formación Profesional
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) (Art. 113) desde *(Art. 12)*
+- **Desarrolla**: [**Ley 9/1999, de 18 de noviembre, de Solidaridad en la Educación**](../06_atencion_diversidad_y_orientacion/L9_1999_solidaridad_en_la_educacion_andalucia.md) (Art. 113) desde *(Art. 12)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**D1_2011 Reglamento Disciplina Academica Alumnado Andalucía**](../07_convivencia_bienestar_y_protocolos/D1_2011_reglamento_disciplina_academica_alumnado_andalucia.md) desde *(D. Transitoria cuarta. Política de seguridad TIC.)*
+- **Deroga**: [**Decreto 154/2022, de 9 de agosto, por el que se establece la estructura org**](../01_marco_normativo_general_y_organico/D154_2022_estructura_organica_consejeria_desarrollo_educativo_andalucia.md) desde *(D. Derogatoria única. Derogación normativa.)*
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 129, Art. 45, Art. 133, Art. 24, Art. 1)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) (Art. 180, Art. 60) desde *(Art. 12)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: [**D164_2024 Estructura Organica Consejeria Desarrollo Educativo Andalucia**](../01_marco_normativo_general_y_organico/D164_2024_estructura_organica_consejeria_desarrollo_educativo_andalucia.md)
+- **Cita a**: [**D164_2024 Estructura Organica Consejeria Desarrollo Educativo Andalucia**](../01_marco_normativo_general_y_organico/D164_2024_estructura_organica_consejeria_desarrollo_educativo_andalucia.md) (Art. 4)
+- **Cita a**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) (Art. 39) desde *(Art. 12)*

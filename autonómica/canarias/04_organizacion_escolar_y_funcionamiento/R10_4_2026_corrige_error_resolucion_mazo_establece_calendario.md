@@ -28,6 +28,11 @@ tags:
 - permisos-licencias
 - procedimiento-administrativo
 relaciones:
+  desarrolla:
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 109
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-can-res-boc-2026-077-49
@@ -36,16 +41,15 @@ relaciones:
   - norma_id: norm-es-l-40-2015
   fundamento_de:
   - norma_id: norm-can-res-boc-2026-077-49
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-can-res-boc-2026-077-49
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-075-1240.pdf
 ---
+
 # Resolución de 10 de abril de 2026, por la que se corrige error en la Resolución de 17 de mazo de 2026, que establece el calendario escolar y dicta instrucciones para la organización y desarrollo de las actividades de comienzo y finalización del curso 2026-2027, para los centros de enseñanzas no universitarias de la Comunidad Autónoma de Canaria.(BOC n.º 61, de 30.3.2026).
 
 ## Preámbulo
@@ -73,3 +77,17 @@ Donde dice:
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**Resolucion BOC 49**](../03_ordenacion_curricular_y_ensenanzas/R10_4_2026_convocan_pruebas_certificacion_ensenanzas_idiomas_regimen.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 109)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**Resolucion BOC 49**](../03_ordenacion_curricular_y_ensenanzas/R10_4_2026_convocan_pruebas_certificacion_ensenanzas_idiomas_regimen.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamento de**: [**Resolucion BOC 49**](../03_ordenacion_curricular_y_ensenanzas/R10_4_2026_convocan_pruebas_certificacion_ensenanzas_idiomas_regimen.md)

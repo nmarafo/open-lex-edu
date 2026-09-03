@@ -25,16 +25,1521 @@ tags:
 - equidad
 relaciones:
   desarrolla:
+  - norma_id: norm-and-l9-1999
+    seccion_origen: Sección 3. ª Cooperación en la prestación del servicio educativo
+      y en la realización de actividades o servicios
+    titulo_destino: Título PRELIMINAR
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 27
+    - Art. 52
+    - Art. 10
+    - Art. 21
+    disposiciones_destino:
+    - D. Derogatoria y
+  - norma_id: norm-and-l4-1984
+    seccion_origen: Sección 3. ª Cooperación en la prestación del servicio educativo
+      y en la realización de actividades o servicios
+    titulo_destino: Título PRELIMINAR
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 27
+    - Art. 52
+    - Art. 10
+    - Art. 21
+    disposiciones_destino:
+    - D. Derogatoria y
   - norma_id: norm-es-lo-2-2006
+    seccion_origen: Sección 3. ª Cooperación en la prestación del servicio educativo
+      y en la realización de actividades o servicios
+    titulo_destino: Título PRELIMINAR
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 27
+    - Art. 52
+    - Art. 10
+    - Art. 21
+    disposiciones_destino:
+    - D. Derogatoria y
+  - norma_id: norm-es-2021-20113
+    seccion_origen: Sección 3. ª Cooperación en la prestación del servicio educativo
+      y en la realización de actividades o servicios
+    titulo_destino: Título PRELIMINAR
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 27
+    - Art. 52
+    - Art. 10
+    - Art. 21
+    disposiciones_destino:
+    - D. Derogatoria y
+  - norma_id: norm-es-2010-12201
+    seccion_origen: Sección 3. ª Cooperación en la prestación del servicio educativo
+      y en la realización de actividades o servicios
+    titulo_destino: Título PRELIMINAR
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 27
+    - Art. 52
+    - Art. 10
+    - Art. 21
+    disposiciones_destino:
+    - D. Derogatoria y
+  - norma_id: norm-es-c-1978
+    seccion_origen: Sección 3. ª Cooperación en la prestación del servicio educativo
+      y en la realización de actividades o servicios
+    titulo_destino: Título PRELIMINAR
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 27
+    - Art. 52
+    - Art. 10
+    - Art. 21
+    disposiciones_destino:
+    - D. Derogatoria y
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 1. ª La función pública docente
+    articulos_origen:
+    - Art. 13
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 1. ª La función pública docente
+    articulos_origen:
+    - Art. 13
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 1. ª La función pública docente
+    articulos_origen:
+    - Art. 13
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 1. ª La función pública docente
+    articulos_origen:
+    - Art. 13
+    disposiciones_destino:
+    - D. Adicional tercera
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 1. ª La función pública docente
+    articulos_origen:
+    - Art. 13
+    disposiciones_destino:
+    - D. Adicional tercera
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 1. ª La función pública docente
+    articulos_origen:
+    - Art. 13
+    disposiciones_destino:
+    - D. Adicional tercera
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 1. ª La función pública docente
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 96
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 1. ª La función pública docente
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 96
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 1. ª La función pública docente
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 96
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 2. ª Selección y provisión
+    articulos_origen:
+    - Art. 15
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 2. ª Selección y provisión
+    articulos_origen:
+    - Art. 15
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 2. ª Selección y provisión
+    articulos_origen:
+    - Art. 15
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. El currículo.
+    articulos_origen:
+    - Art. 38
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-and-d-19-2007
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
+  - norma_id: norm-and-d19-2007
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
   - norma_id: norm-es-ce-1978
-  modifica_a: []
-  modificado_por: []
-  afecta_a_articulos: []
+  cita:
+  - norma_id: norm-and-l9-1999
+    capitulo_origen: Capítulo IX. está dedicado a la educación permanente de personas
+      adultas, concebida como
+    titulo_destino: Título III
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo I. El alumnado.
+    seccion_origen: Sección 1. ª Derechos y deberes
+    articulos_origen:
+    - Art. 6
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo I. El alumnado.
+    seccion_origen: Sección 1. ª Derechos y deberes
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 8
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 4. ª Promoción profesional, reconocimiento, apoyo y valoración
+      de la
+    articulos_origen:
+    - Art. 22
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 4. ª Promoción profesional, reconocimiento, apoyo y valoración
+      de la
+    articulos_origen:
+    - Art. 22
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 4. ª Promoción profesional, reconocimiento, apoyo y valoración
+      de la
+    articulos_origen:
+    - Art. 22
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo IV. Las familias.
+    seccion_origen: Sección 2. ª Asociaciones de padres y madres del alumnado
+    articulos_origen:
+    - Art. 34
+    articulos_destino:
+    - Art. 5
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. El currículo.
+    articulos_origen:
+    - Art. 39
+  - norma_id: norm-es-2002-12018
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo V. Formación profesional.
+    articulos_origen:
+    - Art. 73
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo VI. Enseñanzas artísticas artículo 78 Definición. De
+      acuerdo con lo recogido en el artículo 45.2 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, son enseñanzas artísticas las siguientes:.
+    seccion_origen: Sección 2. ª Enseñanzas artísticas profesionales
+    articulos_origen:
+    - Art. 86
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VI
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo VI. Enseñanzas artísticas artículo 78 Definición. De
+      acuerdo con lo recogido en el artículo 45.2 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, son enseñanzas artísticas las siguientes:.
+    seccion_origen: Sección 2. ª Enseñanzas artísticas profesionales
+    articulos_origen:
+    - Art. 86
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VI
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo VI. Enseñanzas artísticas artículo 78 Definición. De
+      acuerdo con lo recogido en el artículo 45.2 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, son enseñanzas artísticas las siguientes:.
+    seccion_origen: Sección 2. ª Enseñanzas artísticas profesionales
+    articulos_origen:
+    - Art. 86
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VI
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título correspondiente se realizarán de acuerdo con lo recogido
+      en la sección tercera del
+    capitulo_origen: Capítulo VI. del Título I de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    seccion_origen: Sección 4. ª El Instituto Andaluz de Enseñanzas Artísticas Superiores
+    articulos_origen:
+    - Art. 100
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título correspondiente se realizarán de acuerdo con lo recogido
+      en la sección tercera del
+    capitulo_origen: Capítulo VI. del Título I de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    seccion_origen: Sección 4. ª El Instituto Andaluz de Enseñanzas Artísticas Superiores
+    articulos_origen:
+    - Art. 100
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título correspondiente se realizarán de acuerdo con lo recogido
+      en la sección tercera del
+    capitulo_origen: Capítulo VIII. Enseñanzas deportivas.
+    articulos_origen:
+    - Art. 104
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VIII
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título correspondiente se realizarán de acuerdo con lo recogido
+      en la sección tercera del
+    capitulo_origen: Capítulo VIII. Enseñanzas deportivas.
+    articulos_origen:
+    - Art. 104
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VIII
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título correspondiente se realizarán de acuerdo con lo recogido
+      en la sección tercera del
+    capitulo_origen: Capítulo VIII. Enseñanzas deportivas.
+    articulos_origen:
+    - Art. 104
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VIII
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo III. La Agencia Andaluza de Evaluación Educativa.
+    articulos_origen:
+    - Art. 168
+    articulos_destino:
+    - Art. 168
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo III. La Agencia Andaluza de Evaluación Educativa.
+    articulos_origen:
+    - Art. 168
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título VII
+    capitulo_origen: Capítulo II. Cooperación entre la Administración educativa y
+      las universidades.
+    articulos_origen:
+    - Art. 175
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título VII
+    capitulo_origen: Capítulo II. Cooperación entre la Administración educativa y
+      las universidades.
+    articulos_origen:
+    - Art. 175
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título VII
+    capitulo_origen: Capítulo II. Cooperación entre la Administración educativa y
+      las universidades.
+    articulos_origen:
+    - Art. 175
+  - norma_id: norm-and-l4-1984
+    titulo_origen: Título VII
+    capitulo_origen: Capítulo IV. Colaboración de otras entidades.
+    seccion_origen: Sección 3. ª Organizaciones empresariales y sindicales artículo
+      182 Participación de las organizaciones empresariales y sindicales en los. Consejos
+      Escolares.
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Transitoria quinta. Personal laboral fijo de centros dependientes de.
+    disposiciones_destino:
+    - D. Transitoria quinta
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Transitoria quinta. Personal laboral fijo de centros dependientes de.
+    disposiciones_destino:
+    - D. Transitoria quinta
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Transitoria quinta. Personal laboral fijo de centros dependientes de.
+    disposiciones_destino:
+    - D. Transitoria quinta
+  - norma_id: norm-and-l4-1984
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final primera. Modificación de la [Ley 4/1984](../04_organizacion_escolar_y_funcionamiento/L4_1984_consejos_escolares_andalucia.md),
+      de 9 de enero, de Consejos
+    articulos_destino:
+    - Art. 6
+    - Art. 10
+  - norma_id: norm-and-l4-1984
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final primera. Modificación de la [Ley 4/1984](../04_organizacion_escolar_y_funcionamiento/L4_1984_consejos_escolares_andalucia.md),
+      de 9 de enero, de Consejos
+    articulos_destino:
+    - Art. 10
+  - norma_id: norm-and-l4-1984
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final primera. Modificación de la [Ley 4/1984](../04_organizacion_escolar_y_funcionamiento/L4_1984_consejos_escolares_andalucia.md),
+      de 9 de enero, de Consejos
+    articulos_destino:
+    - Art. 17
+    - Art. 6
+  - norma_id: norm-and-l4-1984
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final primera. Modificación de la [Ley 4/1984](../04_organizacion_escolar_y_funcionamiento/L4_1984_consejos_escolares_andalucia.md),
+      de 9 de enero, de Consejos
+    articulos_destino:
+    - Art. 17
+  modifica:
+  - norma_id: norm-and-l4-1984
+    capitulo_origen: Capítulo III. crea la Agencia Andaluza de Evaluación Educativa
+      como una agencia
+    titulo_destino: Título VII
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 52
+    disposiciones_destino:
+    - D. Derogatoria única
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo III. crea la Agencia Andaluza de Evaluación Educativa
+      como una agencia
+    titulo_destino: Título VII
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 52
+    disposiciones_destino:
+    - D. Derogatoria única
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo III. crea la Agencia Andaluza de Evaluación Educativa
+      como una agencia
+    titulo_destino: Título VII
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 52
+    disposiciones_destino:
+    - D. Derogatoria única
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo III. crea la Agencia Andaluza de Evaluación Educativa
+      como una agencia
+    titulo_destino: Título VII
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 52
+    disposiciones_destino:
+    - D. Derogatoria única
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 3
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo IV
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 3
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo IV
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 3
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo IV
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 1. ª La función pública docente
+    articulos_origen:
+    - Art. 13
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 1. ª La función pública docente
+    articulos_origen:
+    - Art. 13
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 1. ª La función pública docente
+    articulos_origen:
+    - Art. 13
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 1. ª La función pública docente
+    articulos_origen:
+    - Art. 13
+    disposiciones_destino:
+    - D. Transitoria quinta
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 1. ª La función pública docente
+    articulos_origen:
+    - Art. 13
+    disposiciones_destino:
+    - D. Transitoria quinta
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 1. ª La función pública docente
+    articulos_origen:
+    - Art. 13
+    disposiciones_destino:
+    - D. Transitoria quinta
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 1. ª La función pública docente
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 96
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 1. ª La función pública docente
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 96
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 1. ª La función pública docente
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 96
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 1. ª La función pública docente
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 96
+    - Art. 97
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 1. ª La función pública docente
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 96
+    - Art. 97
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 1. ª La función pública docente
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 96
+    - Art. 97
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 2. ª Selección y provisión
+    articulos_origen:
+    - Art. 15
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 2. ª Selección y provisión
+    articulos_origen:
+    - Art. 15
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 2. ª Selección y provisión
+    articulos_origen:
+    - Art. 15
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 2. ª Selección y provisión
+    articulos_origen:
+    - Art. 15
+    disposiciones_destino:
+    - D. Adicional octava
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 2. ª Selección y provisión
+    articulos_origen:
+    - Art. 15
+    disposiciones_destino:
+    - D. Adicional octava
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 2. ª Selección y provisión
+    articulos_origen:
+    - Art. 15
+    disposiciones_destino:
+    - D. Adicional octava
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 3. ª Formación
+    articulos_origen:
+    - Art. 18
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 3. ª Formación
+    articulos_origen:
+    - Art. 18
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 3. ª Formación
+    articulos_origen:
+    - Art. 18
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 4. ª Promoción profesional, reconocimiento, apoyo y valoración
+      de la
+    articulos_origen:
+    - Art. 23
+    articulos_destino:
+    - Art. 104
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 4. ª Promoción profesional, reconocimiento, apoyo y valoración
+      de la
+    articulos_origen:
+    - Art. 23
+    articulos_destino:
+    - Art. 104
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. El profesorado.
+    seccion_origen: Sección 4. ª Promoción profesional, reconocimiento, apoyo y valoración
+      de la
+    articulos_origen:
+    - Art. 23
+    articulos_destino:
+    - Art. 104
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    titulo_destino: Título I
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    titulo_destino: Título I
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    titulo_destino: Título I
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    articulos_origen:
+    - Art. 45
+    articulos_destino:
+    - Art. 14
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    articulos_origen:
+    - Art. 45
+    articulos_destino:
+    - Art. 14
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    articulos_origen:
+    - Art. 45
+    articulos_destino:
+    - Art. 14
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo III. Educación básica.
+    seccion_origen: Sección 1. ª Aspectos generales
+    articulos_origen:
+    - Art. 46
+    articulos_destino:
+    - Art. 28
+    - Art. 140
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo III. Educación básica.
+    seccion_origen: Sección 1. ª Aspectos generales
+    articulos_origen:
+    - Art. 46
+    articulos_destino:
+    - Art. 28
+    - Art. 140
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo III. Educación básica.
+    seccion_origen: Sección 1. ª Aspectos generales
+    articulos_origen:
+    - Art. 46
+    articulos_destino:
+    - Art. 28
+    - Art. 140
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo III. Educación básica.
+    seccion_origen: Sección 2. ª Educación primaria
+    articulos_origen:
+    - Art. 52
+    titulo_destino: Título I
+    capitulo_destino: Capítulo II
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo III. Educación básica.
+    seccion_origen: Sección 2. ª Educación primaria
+    articulos_origen:
+    - Art. 52
+    titulo_destino: Título I
+    capitulo_destino: Capítulo II
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo III. Educación básica.
+    seccion_origen: Sección 2. ª Educación primaria
+    articulos_origen:
+    - Art. 52
+    titulo_destino: Título I
+    capitulo_destino: Capítulo II
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo III. Educación básica.
+    seccion_origen: Sección 3. ª Educación secundaria obligatoria
+    articulos_origen:
+    - Art. 55
+    titulo_destino: Título I
+    capitulo_destino: Capítulo III
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo III. Educación básica.
+    seccion_origen: Sección 3. ª Educación secundaria obligatoria
+    articulos_origen:
+    - Art. 55
+    titulo_destino: Título I
+    capitulo_destino: Capítulo III
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo III. Educación básica.
+    seccion_origen: Sección 3. ª Educación secundaria obligatoria
+    articulos_origen:
+    - Art. 55
+    titulo_destino: Título I
+    capitulo_destino: Capítulo III
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo III. Educación básica.
+    seccion_origen: Sección 3. ª Educación secundaria obligatoria
+    articulos_origen:
+    - Art. 56
+    articulos_destino:
+    - Art. 27
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo III. Educación básica.
+    seccion_origen: Sección 3. ª Educación secundaria obligatoria
+    articulos_origen:
+    - Art. 56
+    articulos_destino:
+    - Art. 27
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo III. Educación básica.
+    seccion_origen: Sección 3. ª Educación secundaria obligatoria
+    articulos_origen:
+    - Art. 56
+    articulos_destino:
+    - Art. 27
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo III. Educación básica.
+    seccion_origen: Sección 3. ª Educación secundaria obligatoria
+    articulos_origen:
+    - Art. 59
+    articulos_destino:
+    - Art. 30
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo III. Educación básica.
+    seccion_origen: Sección 3. ª Educación secundaria obligatoria
+    articulos_origen:
+    - Art. 59
+    articulos_destino:
+    - Art. 30
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo III. Educación básica.
+    seccion_origen: Sección 3. ª Educación secundaria obligatoria
+    articulos_origen:
+    - Art. 59
+    articulos_destino:
+    - Art. 30
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo IV
+    articulos_origen:
+    - Art. 62
+    titulo_destino: Título I
+    capitulo_destino: Capítulo IV
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo IV
+    articulos_origen:
+    - Art. 62
+    titulo_destino: Título I
+    capitulo_destino: Capítulo IV
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo IV
+    articulos_origen:
+    - Art. 62
+    titulo_destino: Título I
+    capitulo_destino: Capítulo IV
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo V. Formación profesional.
+    articulos_origen:
+    - Art. 68
+    titulo_destino: Título I
+    capitulo_destino: Capítulo V
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo V. Formación profesional.
+    articulos_origen:
+    - Art. 68
+    titulo_destino: Título I
+    capitulo_destino: Capítulo V
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo V. Formación profesional.
+    articulos_origen:
+    - Art. 68
+    titulo_destino: Título I
+    capitulo_destino: Capítulo V
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo V. Formación profesional.
+    articulos_origen:
+    - Art. 77
+    articulos_destino:
+    - Art. 44
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo V. Formación profesional.
+    articulos_origen:
+    - Art. 77
+    articulos_destino:
+    - Art. 44
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo V. Formación profesional.
+    articulos_origen:
+    - Art. 77
+    articulos_destino:
+    - Art. 44
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo VI. Enseñanzas artísticas artículo 78 Definición. De
+      acuerdo con lo recogido en el artículo 45.2 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, son enseñanzas artísticas las siguientes:.
+    capitulo_destino: Capítulo VI
+    articulos_destino:
+    - Art. 78
+    - Art. 45
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo VI. Enseñanzas artísticas artículo 78 Definición. De
+      acuerdo con lo recogido en el artículo 45.2 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, son enseñanzas artísticas las siguientes:.
+    capitulo_destino: Capítulo VI
+    articulos_destino:
+    - Art. 78
+    - Art. 45
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo VI. Enseñanzas artísticas artículo 78 Definición. De
+      acuerdo con lo recogido en el artículo 45.2 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, son enseñanzas artísticas las siguientes:.
+    capitulo_destino: Capítulo VI
+    articulos_destino:
+    - Art. 78
+    - Art. 45
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo VI. Enseñanzas artísticas artículo 78 Definición. De
+      acuerdo con lo recogido en el artículo 45.2 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, son enseñanzas artísticas las siguientes:.
+    seccion_origen: Sección 2. ª Enseñanzas artísticas profesionales
+    articulos_origen:
+    - Art. 84
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VI
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo VI. Enseñanzas artísticas artículo 78 Definición. De
+      acuerdo con lo recogido en el artículo 45.2 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, son enseñanzas artísticas las siguientes:.
+    seccion_origen: Sección 2. ª Enseñanzas artísticas profesionales
+    articulos_origen:
+    - Art. 84
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VI
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    capitulo_origen: Capítulo VI. Enseñanzas artísticas artículo 78 Definición. De
+      acuerdo con lo recogido en el artículo 45.2 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, son enseñanzas artísticas las siguientes:.
+    seccion_origen: Sección 2. ª Enseñanzas artísticas profesionales
+    articulos_origen:
+    - Art. 84
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VI
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título correspondiente se realizarán de acuerdo con lo recogido
+      en la sección tercera del
+    capitulo_origen: Capítulo VI. del Título I de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VI
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título correspondiente se realizarán de acuerdo con lo recogido
+      en la sección tercera del
+    capitulo_origen: Capítulo VI. del Título I de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VI
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título correspondiente se realizarán de acuerdo con lo recogido
+      en la sección tercera del
+    capitulo_origen: Capítulo VI. del Título I de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo.
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VI
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título correspondiente se realizarán de acuerdo con lo recogido
+      en la sección tercera del
+    capitulo_origen: Capítulo VII. Enseñanzas especializadas de idiomas.
+    articulos_origen:
+    - Art. 101
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VII
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título correspondiente se realizarán de acuerdo con lo recogido
+      en la sección tercera del
+    capitulo_origen: Capítulo VII. Enseñanzas especializadas de idiomas.
+    articulos_origen:
+    - Art. 101
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VII
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título correspondiente se realizarán de acuerdo con lo recogido
+      en la sección tercera del
+    capitulo_origen: Capítulo VII. Enseñanzas especializadas de idiomas.
+    articulos_origen:
+    - Art. 101
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VII
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título correspondiente se realizarán de acuerdo con lo recogido
+      en la sección tercera del
+    capitulo_origen: Capítulo VII. Enseñanzas especializadas de idiomas.
+    articulos_origen:
+    - Art. 103
+    articulos_destino:
+    - Art. 103
+    - Art. 60
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título correspondiente se realizarán de acuerdo con lo recogido
+      en la sección tercera del
+    capitulo_origen: Capítulo VII. Enseñanzas especializadas de idiomas.
+    articulos_origen:
+    - Art. 103
+    articulos_destino:
+    - Art. 103
+    - Art. 60
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título correspondiente se realizarán de acuerdo con lo recogido
+      en la sección tercera del
+    capitulo_origen: Capítulo VII. Enseñanzas especializadas de idiomas.
+    articulos_origen:
+    - Art. 103
+    articulos_destino:
+    - Art. 103
+    - Art. 60
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título correspondiente se realizarán de acuerdo con lo recogido
+      en la sección tercera del
+    capitulo_origen: Capítulo VIII. Enseñanzas deportivas.
+    articulos_origen:
+    - Art. 104
+    articulos_destino:
+    - Art. 64
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título correspondiente se realizarán de acuerdo con lo recogido
+      en la sección tercera del
+    capitulo_origen: Capítulo VIII. Enseñanzas deportivas.
+    articulos_origen:
+    - Art. 104
+    articulos_destino:
+    - Art. 64
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título correspondiente se realizarán de acuerdo con lo recogido
+      en la sección tercera del
+    capitulo_origen: Capítulo VIII. Enseñanzas deportivas.
+    articulos_origen:
+    - Art. 104
+    articulos_destino:
+    - Art. 64
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título III
+    capitulo_origen: Capítulo I. Alumnado con necesidades específicas de apoyo educativo.
+    seccion_origen: Sección 1. ª Aspectos generales
+    articulos_origen:
+    - Art. 113
+    articulos_destino:
+    - Art. 71
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título III
+    capitulo_origen: Capítulo I. Alumnado con necesidades específicas de apoyo educativo.
+    seccion_origen: Sección 1. ª Aspectos generales
+    articulos_origen:
+    - Art. 113
+    articulos_destino:
+    - Art. 71
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título III
+    capitulo_origen: Capítulo I. Alumnado con necesidades específicas de apoyo educativo.
+    seccion_origen: Sección 1. ª Aspectos generales
+    articulos_origen:
+    - Art. 113
+    articulos_destino:
+    - Art. 71
+  - norma_id: norm-and-l9-1999
+    titulo_origen: Título III
+    capitulo_origen: Capítulo I. Alumnado con necesidades específicas de apoyo educativo.
+    seccion_origen: Sección 1. ª Aspectos generales
+    articulos_origen:
+    - Art. 113
+    titulo_destino: Título II
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título III
+    capitulo_origen: Capítulo I. Alumnado con necesidades específicas de apoyo educativo.
+    seccion_origen: Sección 1. ª Aspectos generales
+    articulos_origen:
+    - Art. 113
+    titulo_destino: Título II
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título III
+    capitulo_origen: Capítulo I. Alumnado con necesidades específicas de apoyo educativo.
+    seccion_origen: Sección 1. ª Aspectos generales
+    articulos_origen:
+    - Art. 113
+    titulo_destino: Título II
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título III
+    capitulo_origen: Capítulo I. Alumnado con necesidades específicas de apoyo educativo.
+    seccion_origen: Sección 1. ª Aspectos generales
+    articulos_origen:
+    - Art. 113
+    titulo_destino: Título II
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo II. La función directiva.
+    articulos_origen:
+    - Art. 131
+    titulo_destino: Título V
+    capitulo_destino: Capítulo IV
+    articulos_destino:
+    - Art. 140
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo II. La función directiva.
+    articulos_origen:
+    - Art. 131
+    titulo_destino: Título V
+    capitulo_destino: Capítulo IV
+    articulos_destino:
+    - Art. 140
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo II. La función directiva.
+    articulos_origen:
+    - Art. 131
+    titulo_destino: Título V
+    capitulo_destino: Capítulo IV
+    articulos_destino:
+    - Art. 140
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo II. La función directiva.
+    articulos_origen:
+    - Art. 134
+    articulos_destino:
+    - Art. 139
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo II. La función directiva.
+    articulos_origen:
+    - Art. 134
+    articulos_destino:
+    - Art. 139
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo II. La función directiva.
+    articulos_origen:
+    - Art. 134
+    articulos_destino:
+    - Art. 139
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo III. Órganos colegiados de gobierno y de coordinación
+      docente.
+    seccion_origen: Sección 1. ª Consejo escolar
+    articulos_origen:
+    - Art. 135
+    articulos_destino:
+    - Art. 126
+    - Art. 127
+    - Art. 140
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo III. Órganos colegiados de gobierno y de coordinación
+      docente.
+    seccion_origen: Sección 1. ª Consejo escolar
+    articulos_origen:
+    - Art. 135
+    articulos_destino:
+    - Art. 126
+    - Art. 127
+    - Art. 140
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo III. Órganos colegiados de gobierno y de coordinación
+      docente.
+    seccion_origen: Sección 1. ª Consejo escolar
+    articulos_origen:
+    - Art. 135
+    articulos_destino:
+    - Art. 126
+    - Art. 127
+    - Art. 140
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo III. Órganos colegiados de gobierno y de coordinación
+      docente.
+    seccion_origen: Sección 1. ª Consejo escolar
+    articulos_origen:
+    - Art. 135
+    articulos_destino:
+    - Art. 126
+    - Art. 127
+    - Art. 140
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo III. Órganos colegiados de gobierno y de coordinación
+      docente.
+    seccion_origen: Sección 2. ª Claustro de profesorado
+    articulos_origen:
+    - Art. 136
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo III. Órganos colegiados de gobierno y de coordinación
+      docente.
+    seccion_origen: Sección 2. ª Claustro de profesorado
+    articulos_origen:
+    - Art. 136
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo III. Órganos colegiados de gobierno y de coordinación
+      docente.
+    seccion_origen: Sección 2. ª Claustro de profesorado
+    articulos_origen:
+    - Art. 136
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. Descentralización educativa.
+    seccion_origen: Sección 3. ª La inspección educativa
+    articulos_origen:
+    - Art. 145
+    articulos_destino:
+    - Art. 151
+    - Art. 153
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. Descentralización educativa.
+    seccion_origen: Sección 3. ª La inspección educativa
+    articulos_origen:
+    - Art. 145
+    articulos_destino:
+    - Art. 151
+    - Art. 153
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. Descentralización educativa.
+    seccion_origen: Sección 3. ª La inspección educativa
+    articulos_origen:
+    - Art. 145
+    articulos_destino:
+    - Art. 151
+    - Art. 153
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. Descentralización educativa.
+    seccion_origen: Sección 3. ª La inspección educativa
+    articulos_origen:
+    - Art. 145
+    articulos_destino:
+    - Art. 151
+    - Art. 153
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo II. Evaluación del sistema educativo y de los centros
+      docentes.
+    articulos_origen:
+    - Art. 156
+    articulos_destino:
+    - Art. 144
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo II. Evaluación del sistema educativo y de los centros
+      docentes.
+    articulos_origen:
+    - Art. 156
+    articulos_destino:
+    - Art. 144
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo II. Evaluación del sistema educativo y de los centros
+      docentes.
+    articulos_origen:
+    - Art. 156
+    articulos_destino:
+    - Art. 144
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo II. Evaluación del sistema educativo y de los centros
+      docentes.
+    articulos_origen:
+    - Art. 156
+    articulos_destino:
+    - Art. 21
+    - Art. 29
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo II. Evaluación del sistema educativo y de los centros
+      docentes.
+    articulos_origen:
+    - Art. 156
+    articulos_destino:
+    - Art. 21
+    - Art. 29
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo II. Evaluación del sistema educativo y de los centros
+      docentes.
+    articulos_origen:
+    - Art. 156
+    articulos_destino:
+    - Art. 21
+    - Art. 29
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo III. La Agencia Andaluza de Evaluación Educativa.
+    articulos_origen:
+    - Art. 160
+    titulo_destino: Título VI
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo III. La Agencia Andaluza de Evaluación Educativa.
+    articulos_origen:
+    - Art. 160
+    titulo_destino: Título VI
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo III. La Agencia Andaluza de Evaluación Educativa.
+    articulos_origen:
+    - Art. 160
+    titulo_destino: Título VI
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título VII
+    capitulo_origen: Capítulo I. Cooperación entre la Administración educativa y las
+      Corporaciones locales.
+    seccion_origen: Sección 2. ª Cooperación en la creación, conservación, mantenimiento
+      y
+    articulos_origen:
+    - Art. 171
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título VII
+    capitulo_origen: Capítulo I. Cooperación entre la Administración educativa y las
+      Corporaciones locales.
+    seccion_origen: Sección 2. ª Cooperación en la creación, conservación, mantenimiento
+      y
+    articulos_origen:
+    - Art. 171
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título VII
+    capitulo_origen: Capítulo I. Cooperación entre la Administración educativa y las
+      Corporaciones locales.
+    seccion_origen: Sección 2. ª Cooperación en la creación, conservación, mantenimiento
+      y
+    articulos_origen:
+    - Art. 171
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título VII
+    capitulo_origen: Capítulo I. Cooperación entre la Administración educativa y las
+      Corporaciones locales.
+    seccion_origen: Sección 2. ª Cooperación en la creación, conservación, mantenimiento
+      y
+    articulos_origen:
+    - Art. 171
+    disposiciones_destino:
+    - D. Adicional decimoquinta
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título VII
+    capitulo_origen: Capítulo I. Cooperación entre la Administración educativa y las
+      Corporaciones locales.
+    seccion_origen: Sección 2. ª Cooperación en la creación, conservación, mantenimiento
+      y
+    articulos_origen:
+    - Art. 171
+    disposiciones_destino:
+    - D. Adicional decimoquinta
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título VII
+    capitulo_origen: Capítulo I. Cooperación entre la Administración educativa y las
+      Corporaciones locales.
+    seccion_origen: Sección 2. ª Cooperación en la creación, conservación, mantenimiento
+      y
+    articulos_origen:
+    - Art. 171
+    disposiciones_destino:
+    - D. Adicional decimoquinta
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título VII
+    capitulo_origen: Capítulo III. Cooperación entre administraciones educativas.
+    articulos_origen:
+    - Art. 176
+    articulos_destino:
+    - Art. 9
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título VII
+    capitulo_origen: Capítulo III. Cooperación entre administraciones educativas.
+    articulos_origen:
+    - Art. 176
+    articulos_destino:
+    - Art. 9
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título VII
+    capitulo_origen: Capítulo III. Cooperación entre administraciones educativas.
+    articulos_origen:
+    - Art. 176
+    articulos_destino:
+    - Art. 9
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Adicional segunda. Datos personales del alumnado.
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Adicional segunda. Datos personales del alumnado.
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Adicional segunda. Datos personales del alumnado.
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Adicional cuarta. Profesorado de religión.
+    disposiciones_destino:
+    - D. Adicional tercera
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Adicional cuarta. Profesorado de religión.
+    disposiciones_destino:
+    - D. Adicional tercera
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Adicional cuarta. Profesorado de religión.
+    disposiciones_destino:
+    - D. Adicional tercera
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Transitoria primera. Acceso a la función pública docente.
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Transitoria primera. Acceso a la función pública docente.
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Transitoria primera. Acceso a la función pública docente.
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Transitoria segunda. Personal interino mayor de cincuenta y cinco años.
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Transitoria segunda. Personal interino mayor de cincuenta y cinco años.
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Transitoria segunda. Personal interino mayor de cincuenta y cinco años.
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Transitoria quinta. Personal laboral fijo de centros dependientes de.
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Transitoria quinta. Personal laboral fijo de centros dependientes de.
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Transitoria quinta. Personal laboral fijo de centros dependientes de.
+  - norma_id: norm-and-l4-1984
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final primera. Modificación de la [Ley 4/1984](../04_organizacion_escolar_y_funcionamiento/L4_1984_consejos_escolares_andalucia.md),
+      de 9 de enero, de Consejos
+    disposiciones_destino:
+    - D. Final primera
+  - norma_id: norm-and-l4-1984
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final primera. Modificación de la [Ley 4/1984](../04_organizacion_escolar_y_funcionamiento/L4_1984_consejos_escolares_andalucia.md),
+      de 9 de enero, de Consejos
+    articulos_destino:
+    - Art. 16
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final primera. Modificación de la [Ley 4/1984](../04_organizacion_escolar_y_funcionamiento/L4_1984_consejos_escolares_andalucia.md),
+      de 9 de enero, de Consejos
+    articulos_destino:
+    - Art. 16
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo III. crea la Agencia Andaluza de Evaluación Educativa
+      como una agencia
+    articulos_destino:
+    - Art. 27
+    - Art. 149
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo I. El alumnado.
+    seccion_origen: Sección 2. ª Asociaciones del alumnado
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 7
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
 ---
+
 # Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)
 
 ## Preámbulo
@@ -81,9 +1586,7 @@ La presente Ley se aprueba en el ejercicio de las competencias que posee la Comu
 
 Estatuto de Autonomía para Andalucía, para la regulación y administración de la enseñanza no universitaria, sin perjuicio de lo establecido en el artículo 27 de la Constitución, de las facultades que atribuye al Estado el número 30 del apartado 1 del artículo 149 de la norma fundamental y de lo dispuesto en las Leyes Orgánicas 8/1985, de 3 de julio, reguladora del Derecho a la Educación, y 2/2006, de 3 de mayo.
 
-## Título Preliminar
-
-### Disposiciones generales
+## Título Preliminar. ### Disposiciones generales
 
 #### Artículo 1. Objeto y ámbito de aplicación de la Ley.
 
@@ -161,7 +1664,7 @@ s) Promover la relación por medios electrónicos de la Administración educativ
 
 La comunidad educativa
 
-## Capítulo I. El alumnado.
+### Capítulo I. El alumnado.
 
 #### Sección 1. ª Derechos y deberes
 
@@ -231,7 +1734,7 @@ d) Realizar actividades culturales, deportivas y de fomento de la acción cooper
 
 Las asociaciones del alumnado se inscribirán en el Censo de Entidades Colaboradoras de la Enseñanza, a que se refiere el artículo 180 de la presente Ley, de acuerdo con el procedimiento que a tales efectos reglamentariamente se determine artículo 12 Medidas de fomento del asociacionismo. La Administración educativa fomentará la creación y desarrollo de asociaciones, federaciones y confederaciones de asociaciones del alumnado.
 
-## Capítulo II. El profesorado.
+### Capítulo II. El profesorado.
 
 #### Sección 1. ª La función pública docente
 
@@ -388,7 +1891,7 @@ Sin perjuicio de la representatividad sindical reconocida en la Ley Orgánica 11
 
 Los movimientos de renovación pedagógica y las asociaciones profesionales del profesorado se inscribirán en el Censo de Entidades Colaboradoras de la Enseñanza a que se refiere el artículo 180 de la presente Ley, de acuerdo con el procedimiento que, a tales efectos, reglamentariamente se determine.
 
-## Capítulo III. Personal de administración y servicios y de atención educativa complementaria.
+### Capítulo III. Personal de administración y servicios y de atención educativa complementaria.
 
 #### Artículo 27. Personal.
 
@@ -410,7 +1913,7 @@ de administración y servicios y de atención educativa complementaria. de los c
 
 Se establecerán jornadas especiales para que el horario laboral del personal de administración y servicios y de atención educativa complementaria de los centros docentes públicos y de los servicios educativos se adecue a las necesidades de dichos centros y servicios.
 
-## Capítulo IV. Las familias.
+### Capítulo IV. Las familias.
 
 #### Sección 1. ª Participación en el proceso educativo
 
@@ -472,11 +1975,9 @@ Las asociaciones de padres y madres del alumnado se inscribirán en el Censo de 
 
 La Administración educativa fomentará la creación y desarrollo de asociaciones, federaciones y confederaciones de asociaciones de padres y madres del alumnado.
 
-## Título II
+## Título II. Las enseñanzas
 
-Las enseñanzas
-
-## Capítulo I. El currículo.
+### Capítulo I. El currículo.
 
 #### Artículo 37. Principios que orientan el currículo.
 
@@ -516,7 +2017,7 @@ h) Competencia para la autonomía e iniciativa personal, que incluye la posibili
 
 El currículo deberá contemplar la presencia de contenidos y de actividades relacionadas con el medio natural, la historia, la cultura y otros hechos diferenciadores de Andalucía, como el flamenco, para que sean conocidos, valorados y respetados como patrimonio propio y en el marco de la cultura española y universal
 
-## Capítulo II. Educación infantil.
+### Capítulo II. Educación infantil.
 
 #### Artículo 41. Principios generales de la educación infantil.
 
@@ -555,7 +2056,7 @@ artículo.
 
 2. Asimismo, corresponde a la Administración educativa la determinación de los contenidos educativos de este ciclo y la inspección de los centros.
 
-## Capítulo III. Educación básica.
+### Capítulo III. Educación básica.
 
 #### Sección 1. ª Aspectos generales
 
@@ -683,9 +2184,7 @@ La Administración educativa facilitará la impartición de determinadas materia
 
 2. Reglamentariamente, se establecerán las obligaciones de los centros y de sus órganos de gobierno y de coordinación docente al respecto.
 
-### Capítulo IV
-
-#### Artículo 62. Principios generales del bachillerato.
+### Capítulo IV. #### Artículo 62. Principios generales del bachillerato.
 
 1. El bachillerato constituye una etapa educativa que comprende dos cursos académicos. Podrá acceder al mismo el alumnado que esté en posesión del título de Graduado en Educación Secundaria Obligatoria.
 
@@ -721,7 +2220,7 @@ En esta etapa educativa, se reforzará la orientación académica y profesional 
 
 2. La contribución de las familias a la financiación de esta medida se establecerá reglamentariamente.
 
-## Capítulo V. Formación profesional.
+### Capítulo V. Formación profesional.
 
 #### Artículo 68. Principios generales de la formación profesional.
 
@@ -795,7 +2294,7 @@ La planificación educativa anual contemplará una oferta de enseñanzas de form
 
 4. La Consejería competente en materia de educación promoverá la colaboración entre los centros que imparten la formación profesional inicial y el sector empresarial andaluz para apoyar la investigación e innovación.
 
-## Capítulo VI. Enseñanzas artísticas artículo 78 Definición. De acuerdo con lo recogido en el artículo 45.2 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, son enseñanzas artísticas las siguientes:.
+### Capítulo VI. Enseñanzas artísticas artículo 78 Definición. De acuerdo con lo recogido en el artículo 45.2 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, son enseñanzas artísticas las siguientes:.
 
 a) Las enseñanzas elementales de música y de danza.
 b) **Las enseñanzas artísticas profesionales.** Tienen esta condición las enseñanzas profesionales de música y de danza, así como los grados medio y superior de artes plásticas y diseño.
@@ -888,7 +2387,7 @@ Las enseñanzas profesionales de música y de danza se impartirán en los respec
 
 1. La organización de las enseñanzas artísticas superiores, el acceso y la obtención del
 
-# título correspondiente se realizarán de acuerdo con lo recogido en la sección tercera del
+## Título c. orrespondiente se realizarán de acuerdo con lo recogido en la sección tercera del
 
 ### Capítulo VI. del Título I de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo.
 
@@ -981,7 +2480,7 @@ f) Cualesquiera otros ingresos o recursos que pudiera recibir de acuerdo con la 
 
 2. La constitución efectiva del Instituto tendrá lugar en el momento de la entrada en vigor de sus estatutos, que serán aprobados por decreto del Consejo de Gobierno, a propuesta de la Consejería competente en materia de educación, previo informe del Consejo Andaluz de Enseñanzas Artísticas Superiores.
 
-## Capítulo VII. Enseñanzas especializadas de idiomas.
+### Capítulo VII. Enseñanzas especializadas de idiomas.
 
 #### Artículo 101. Principios generales de las enseñanzas de idiomas.
 
@@ -1001,9 +2500,9 @@ f) Cualesquiera otros ingresos o recursos que pudiera recibir de acuerdo con la 
 
 4. Las enseñanzas de idiomas se podrán impartir en las modalidades presencial, semipresencial y a distancia. Las modalidades semipresencial y a distancia se realizarán utilizando, preferentemente, las tecnologías de la información y la comunicación.
 
-#### Artículo 103. Requisitos de las escuelas oficiales de idiomas De acuerdo con lo recogido en el artículo 60.1 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, la Administración educativa regulará los requisitos que habrán de reunir las escuelas oficiales de idiomas relativos, en todo caso, a la relación numérica alumnado-profesorado, a las instalaciones y al número de puestos escolares.
+#### Artículo 103. Requisitos de las escuelas oficiales de idiomas De acuerdo con lo recogido en el artículo 60.1 de la [Ley Orgánica 2/2006](. /. /../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, la Administración educativa regulará los requisitos que habrán de reunir las escuelas oficiales de idiomas relativos, en todo caso, a la relación numérica alumnado-profesorado, a las instalaciones y al número de puestos escolares.
 
-## Capítulo VIII. Enseñanzas deportivas.
+### Capítulo VIII. Enseñanzas deportivas.
 
 #### Artículo 104. Principios generales de las enseñanzas deportivas.
 
@@ -1015,7 +2514,7 @@ f) Cualesquiera otros ingresos o recursos que pudiera recibir de acuerdo con la 
 
 4. Los centros que impartan las enseñanzas deportivas deberán reunir los requisitos que a tales efectos se establezcan, de conformidad con lo dispuesto en el apartado 6 del artículo 64 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo.
 
-## Capítulo IX. Educación permanente de personas adultas.
+### Capítulo IX. Educación permanente de personas adultas.
 
 #### Artículo 105. Principios generales de la educación permanente de personas adultas.
 
@@ -1088,11 +2587,9 @@ f) Otras actividades que contribuyan a la formación a lo largo de la vida, de a
 
 La Administración de la Junta de Andalucía estimulará la realización de investigaciones y la difusión de prácticas innovadoras en el campo de la educación y formación permanente de personas adultas.
 
-## Título III
+## Título III. Equidad en la educación
 
-Equidad en la educación
-
-## Capítulo I. Alumnado con necesidades específicas de apoyo educativo.
+### Capítulo I. Alumnado con necesidades específicas de apoyo educativo.
 
 #### Sección 1. ª Aspectos generales
 
@@ -1156,7 +2653,7 @@ La Administración educativa financiará la atención educativa del alumnado con
 
 La Administración educativa adaptará al alumnado con necesidades educativas especiales las diferentes pruebas de acceso a enseñanzas o para la obtención de titulaciones que se recogen en la presente Ley.
 
-## Capítulo II. Residencias escolares.
+### Capítulo II. Residencias escolares.
 
 #### Artículo 120. Residencias escolares.
 
@@ -1166,7 +2663,7 @@ La Administración educativa adaptará al alumnado con necesidades educativas es
 
 #### Artículo 121. Escuelas-hogar Las escuelas-hogar existentes son centros de titularidad privada que realizan funciones análogas a las de las residencias escolares en el ámbito del alumnado de enseñanzas obligatorias.
 
-## Capítulo III. Gratuidad, becas y ayudas.
+### Capítulo III. Gratuidad, becas y ayudas.
 
 #### Artículo 122. Sistema público de becas y ayudas al estudio.
 
@@ -1192,11 +2689,9 @@ Estatuto de Autonomía para Andalucía, corresponde a la Administración de la J
 
 3. Asimismo, las familias mencionadas en el apartado anterior no contribuirán al coste de las estancias del alumnado en países de la Unión Europea a que se refieren los artículos 67, 74, 76 y 86.4 de la presente Ley.
 
-## Título IV
+## Título IV. Centros docentes
 
-Centros docentes
-
-## Capítulo I. Autonomía pedagógica, organizativa y de gestión.
+### Capítulo I. Autonomía pedagógica, organizativa y de gestión.
 
 #### Artículo 125. Disposiciones generales.
 
@@ -1267,7 +2762,7 @@ artículo, así como la justificación de la cuenta de gestión a la que se refi
 
 3. A tales efectos, en cada centro se creará un equipo de evaluación, que estará integrado, al menos, por el equipo directivo y representantes de los distintos sectores de la comunidad educativa, elegidos por el Consejo Escolar de entre sus miembros, de acuerdo con lo que se establezca.
 
-## Capítulo II. La función directiva.
+### Capítulo II. La función directiva.
 
 #### Artículo 131. El equipo directivo de los centros públicos.
 
@@ -1314,7 +2809,7 @@ El proyecto de dirección de un centro público deberá contemplar un conjunto d
 
 6. Los directores y directoras de los centros públicos podrán optar por cambiar de centro al final de su mandato, de acuerdo con lo que a tales efectos se establezca.
 
-## Capítulo III. Órganos colegiados de gobierno y de coordinación docente.
+### Capítulo III. Órganos colegiados de gobierno y de coordinación docente.
 
 #### Sección 1. ª Consejo escolar
 
@@ -1382,11 +2877,9 @@ públicos
 
 3. Se reconocerá económica y profesionalmente la función tutorial del profesorado, de acuerdo con lo que reglamentariamente se establezca.
 
-## Título V
+## Título V. Redes y zonas educativas. Descentralización y modernización administrativa
 
-Redes y zonas educativas. Descentralización y modernización administrativa
-
-## Capítulo I. Redes educativas.
+### Capítulo I. Redes educativas.
 
 #### Artículo 142. Redes educativas.
 
@@ -1394,7 +2887,7 @@ Redes y zonas educativas. Descentralización y modernización administrativa
 
 2. Asimismo, se favorecerá la creación de redes educativas de profesorado y de centros que promuevan programas, planes y proyectos educativos para la mejora permanente de las enseñanzas. 3. Con objeto de facilitar la regulación pacífica de los conflictos de convivencia que se puedan producir en los centros docentes y favorecer el intercambio de información y el apoyo mutuo, la Administración educativa impulsará la creación de redes de mediación en las zonas educativas a que se refiere el artículo siguiente, integradas por miembros de la comunidad educativa y personas expertas en la regulación de conflictos. A tales efectos, se desarrollarán actuaciones de formación en este ámbito en los propios centros docentes.
 
-## Capítulo II. Descentralización educativa.
+### Capítulo II. Descentralización educativa.
 
 #### Sección 1. ª Las zonas educativas
 
@@ -1452,7 +2945,7 @@ En el desempeño de sus funciones, los inspectores e inspectoras de educación t
 
 2. Asimismo, la Administración educativa desarrollará procesos de evaluación interna y externa de la inspección educativa, a fin de contribuir a la mejora de su funcionamiento y del sistema educativo.
 
-## Capítulo III. Administración educativa electrónica.
+### Capítulo III. Administración educativa electrónica.
 
 #### Artículo 151. Realización de trámites administrativos a través de medios electrónicos.
 
@@ -1462,11 +2955,9 @@ La Administración educativa facilitará e impulsará la realización de trámit
 
 En el marco de la normativa vigente, la Administración educativa favorecerá la realización de Cartas de Servicios y el desarrollo de sistemas de evaluación de la calidad de los órganos y unidades administrativas que la conforman. En las Cartas de Servicios se plasmará el compromiso de calidad del órgano correspondiente y se recogerán las prestaciones y los derechos de la ciudadanía en relación con los servicios que se ofrecen.
 
-## Título VI
+## Título VI. Evaluación del sistema educativo
 
-Evaluación del sistema educativo
-
-## Capítulo I. Requisitos, finalidades y ámbitos.
+### Capítulo I. Requisitos, finalidades y ámbitos.
 
 #### Artículo 153. Finalidades y ámbitos de la evaluación.
 
@@ -1478,7 +2969,7 @@ Evaluación del sistema educativo
 
 La evaluación educativa deberá cumplir con los requisitos de confidencialidad en el tratamiento de la información, de participación de todos los sectores implicados, de respeto a la intimidad de las personas en todo el proceso de indagación y recogida de datos, de objetividad y de publicidad de los resultados obtenidos.
 
-## Capítulo II. Evaluación del sistema educativo y de los centros docentes.
+### Capítulo II. Evaluación del sistema educativo y de los centros docentes.
 
 #### Artículo 155. Evaluación general del sistema educativo.
 
@@ -1510,7 +3001,7 @@ La Agencia Andaluza de Evaluación Educativa elaborará y desarrollará planes d
 
 La Consejería competente en materia de educación publicará periódicamente las conclusiones de interés general de las evaluaciones efectuadas por la Agencia Andaluza de Evaluación Educativa.
 
-## Capítulo III. La Agencia Andaluza de Evaluación Educativa.
+### Capítulo III. La Agencia Andaluza de Evaluación Educativa.
 
 #### Artículo 160. Creación de la Agencia.
 
@@ -1563,11 +3054,9 @@ Para garantizar la confidencialidad de las personas, unidades e instituciones ev
 
 2. La constitución efectiva de la Agencia tendrá lugar en el momento de la entrada en vigor de sus estatutos, que serán aprobados por decreto del Consejo de Gobierno, a propuesta de la Consejería competente en materia de educación.
 
-## Título VII
+## Título VII. Cooperación de otras administraciones y entidades
 
-Cooperación de otras administraciones y entidades
-
-## Capítulo I. Cooperación entre la Administración educativa y las Corporaciones locales.
+### Capítulo I. Cooperación entre la Administración educativa y las Corporaciones locales.
 
 #### Sección 1. ª Aspectos generales
 
@@ -1626,7 +3115,7 @@ m) Cualquier otra actuación que pueda inscribirse en la concepción del municip
 
 2. Para hacer efectiva la colaboración a que se refiere el apartado anterior, se podrán suscribir los correspondientes convenios, en los que se establecerán las condiciones generales que articulen dicha cooperación.
 
-## Capítulo II. Cooperación entre la Administración educativa y las universidades.
+### Capítulo II. Cooperación entre la Administración educativa y las universidades.
 
 #### Artículo 175. Cooperación con las universidades andaluzas.
 
@@ -1641,19 +3130,19 @@ g) Potenciación de la actividad académica bilingüe.
 h) Elaboración, producción y difusión de materiales pedagógicos y de apoyo al currículo.
 i) Incorporación del profesorado de los cuerpos docentes regulados en la Ley Orgánica 2/2006, de 3 de mayo, a los departamentos universitarios, en los términos establecidos en la
 
-#### Disposición adicional vigesimoséptima.... de la Ley Orgánica 6/2001, de 21 de diciembre, de.
+#### Disposición adicional vigesimoséptima. ... de la Ley Orgánica 6/2001, de 21 de diciembre, de.
 
 Universidades.
 
 2. Para hacer efectiva la colaboración a que se refiere el apartado anterior, se podrán suscribir los correspondientes convenios, en los que se establecerán las condiciones generales que articulen dicha cooperación.
 
-## Capítulo III. Cooperación entre administraciones educativas.
+### Capítulo III. Cooperación entre administraciones educativas.
 
 #### Artículo 176. Concertación.
 
 de políticas educativas y de programas de cooperación. territorial. La Administración educativa andaluza podrá concertar con otras administraciones educativas el establecimiento de criterios y objetivos comunes con el fin de mejorar la calidad del sistema educativo y garantizar la equidad, así como participar en los programas de cooperación territorial que promueva la Administración General del Estado para alcanzar los objetivos educativos a los que se refiere el artículo 9 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo.
 
-## Capítulo IV. Colaboración de otras entidades.
+### Capítulo IV. Colaboración de otras entidades.
 
 #### Sección 1. ª El voluntariado
 
@@ -1718,9 +3207,7 @@ Las organizaciones empresariales y sindicales tendrán representación en los Co
 
 2. La Consejería competente en materia de educación impulsará la colaboración con la Radiotelevisión Pública de Andalucía para la emisión de programas de interés educativo.
 
-## Título VIII
-
-Gasto público en Educación
+## Título VIII. Gasto público en Educación
 
 #### Artículo 186. Informe anual sobre el gasto público en educación.
 
@@ -1750,7 +3237,7 @@ infantil.
 
 3. El ejercicio de la docencia por parte del profesorado a que se refiere la presente
 
-#### Disposición adicional respetará.... los principios recogidos en esta Ley.
+#### Disposición adicional respetará. ... los principios recogidos en esta Ley.
 
 #### Disposición adicional quinta. Acceso a la enseñanza posobligatoria de la población.
 
@@ -1874,4 +3361,208 @@ El desarrollo reglamentario de esta Ley se llevará a efecto de acuerdo con lo d
 
 #### Disposición final cuarta. Entrada en vigor.
 
-La presente Ley entrará en vigor a los treinta días de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 10 de diciembre de 2007.-El Presidente de la Junta de Andalucía, Manuel Chaves González. Este documento es de carácter informativo y no tiene valor jurídico.
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**Ley 9/1999, de 18 de noviembre, de Solidaridad en la Educación**](../06_atencion_diversidad_y_orientacion/L9_1999_solidaridad_en_la_educacion_andalucia.md) (Título PRELIMINAR, Capítulo I, Art. 27, Art. 52, Art. 10, Art. 21, D. Derogatoria y)
+- **Desarrolla**: [**Ley 4/1984, de 9 de enero, de Consejos Escolares de Andalucía**](../04_organizacion_escolar_y_funcionamiento/L4_1984_consejos_escolares_andalucia.md) (Título PRELIMINAR, Capítulo I, Art. 27, Art. 52, Art. 10, Art. 21, D. Derogatoria y)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título PRELIMINAR, Capítulo I, Art. 27, Art. 52, Art. 10, Art. 21, D. Derogatoria y)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título PRELIMINAR, Capítulo I, Art. 27, Art. 52, Art. 10, Art. 21, D. Derogatoria y)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título PRELIMINAR, Capítulo I, Art. 27, Art. 52, Art. 10, Art. 21, D. Derogatoria y)
+- **Desarrolla**: `norm-es-c-1978` (Título PRELIMINAR, Capítulo I, Art. 27, Art. 52, Art. 10, Art. 21, D. Derogatoria y)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 1) desde *(Título Preliminar, Art. 4)*
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 1) desde *(Título Preliminar, Art. 4)*
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 1) desde *(Título Preliminar, Art. 4)*
+- **Desarrolla**: `norm-es-c-1978` (Art. 1) desde *(Título Preliminar, Art. 4)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 13)*
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 13)*
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 13)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional tercera) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 13)*
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional tercera) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 13)*
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional tercera) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 13)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 96) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 13)*
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 96) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 13)*
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 96) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 13)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 15)*
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 15)*
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 15)*
+- **Desarrolla**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (D. Adicional primera) desde *(Título II, Capítulo I. El currículo., Art. 38)*
+- **Desarrolla**: [**D19_2007 Derechos Deberes Alumnado Convivencia Andalucia**](../07_convivencia_bienestar_y_protocolos/D19_2007_derechos_deberes_alumnado_normas_convivencia_andalucia.md) desde *(Título VIII, D. Derogatoria única. Derogación normativa.)*
+- **Desarrolla**: [**Decreto 19/2007, de 23 de enero, por el que se adoptan medidas para la prom**](../07_convivencia_bienestar_y_protocolos/D19_2007_promocion_cultura_paz_mejora_convivencia_centros_andalucia.md) desde *(Título VIII, D. Derogatoria única. Derogación normativa.)*
+- **Desarrolla**: [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Modifica**: [**Ley 4/1984, de 9 de enero, de Consejos Escolares de Andalucía**](../04_organizacion_escolar_y_funcionamiento/L4_1984_consejos_escolares_andalucia.md) (Título VII, Capítulo I, Art. 52, D. Derogatoria única) desde *(Capítulo III. crea la Agencia Andaluza de Evaluación Educativa como una agencia)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título VII, Capítulo I, Art. 52, D. Derogatoria única) desde *(Capítulo III. crea la Agencia Andaluza de Evaluación Educativa como una agencia)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título VII, Capítulo I, Art. 52, D. Derogatoria única) desde *(Capítulo III. crea la Agencia Andaluza de Evaluación Educativa como una agencia)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título VII, Capítulo I, Art. 52, D. Derogatoria única) desde *(Capítulo III. crea la Agencia Andaluza de Evaluación Educativa como una agencia)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título IV, Capítulo IV) desde *(Título Preliminar, Art. 3)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título IV, Capítulo IV) desde *(Título Preliminar, Art. 3)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título IV, Capítulo IV) desde *(Título Preliminar, Art. 3)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 13)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 13)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 13)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Transitoria quinta) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 13)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Transitoria quinta) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 13)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Transitoria quinta) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 13)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 96) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 13)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 96) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 13)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 96) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 13)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 96, Art. 97) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 13)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 96, Art. 97) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 13)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 96, Art. 97) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 13)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 15)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 15)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 15)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional octava) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 15)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional octava) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 15)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional octava) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 15)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 100) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 18)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 100) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 18)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 100) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 18)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 104) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 23)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 104) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 23)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 104) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 23)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título I) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo.)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título I) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo.)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título I) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 14) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Art. 45)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 14) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Art. 45)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 14) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Art. 45)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 28, Art. 140) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo III. Educación básica., Art. 46)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 28, Art. 140) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo III. Educación básica., Art. 46)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 28, Art. 140) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo III. Educación básica., Art. 46)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título I, Capítulo II) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo III. Educación básica., Art. 52)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título I, Capítulo II) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo III. Educación básica., Art. 52)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título I, Capítulo II) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo III. Educación básica., Art. 52)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título I, Capítulo III) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo III. Educación básica., Art. 55)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título I, Capítulo III) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo III. Educación básica., Art. 55)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título I, Capítulo III) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo III. Educación básica., Art. 55)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 27) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo III. Educación básica., Art. 56)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 27) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo III. Educación básica., Art. 56)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 27) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo III. Educación básica., Art. 56)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 30) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo III. Educación básica., Art. 59)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 30) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo III. Educación básica., Art. 59)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 30) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo III. Educación básica., Art. 59)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título I, Capítulo IV) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo IV, Art. 62)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título I, Capítulo IV) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo IV, Art. 62)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título I, Capítulo IV) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo IV, Art. 62)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título I, Capítulo V) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo V. Formación profesional., Art. 68)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título I, Capítulo V) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo V. Formación profesional., Art. 68)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título I, Capítulo V) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo V. Formación profesional., Art. 68)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 44) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo V. Formación profesional., Art. 77)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 44) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo V. Formación profesional., Art. 77)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 44) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo V. Formación profesional., Art. 77)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Capítulo VI, Art. 78, Art. 45) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo VI. Enseñanzas artísticas artículo 78 Definición. De acuerdo con lo recogido en el artículo 45.2 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, son enseñanzas artísticas las siguientes:.)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Capítulo VI, Art. 78, Art. 45) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo VI. Enseñanzas artísticas artículo 78 Definición. De acuerdo con lo recogido en el artículo 45.2 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, son enseñanzas artísticas las siguientes:.)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Capítulo VI, Art. 78, Art. 45) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo VI. Enseñanzas artísticas artículo 78 Definición. De acuerdo con lo recogido en el artículo 45.2 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, son enseñanzas artísticas las siguientes:.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título I, Capítulo VI) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo VI. Enseñanzas artísticas artículo 78 Definición. De acuerdo con lo recogido en el artículo 45.2 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, son enseñanzas artísticas las siguientes:., Art. 84)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título I, Capítulo VI) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo VI. Enseñanzas artísticas artículo 78 Definición. De acuerdo con lo recogido en el artículo 45.2 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, son enseñanzas artísticas las siguientes:., Art. 84)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título I, Capítulo VI) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo VI. Enseñanzas artísticas artículo 78 Definición. De acuerdo con lo recogido en el artículo 45.2 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, son enseñanzas artísticas las siguientes:., Art. 84)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título I, Capítulo VI) desde *(Título correspondiente se realizarán de acuerdo con lo recogido en la sección tercera del, Capítulo VI. del Título I de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo.)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título I, Capítulo VI) desde *(Título correspondiente se realizarán de acuerdo con lo recogido en la sección tercera del, Capítulo VI. del Título I de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo.)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título I, Capítulo VI) desde *(Título correspondiente se realizarán de acuerdo con lo recogido en la sección tercera del, Capítulo VI. del Título I de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título I, Capítulo VII) desde *(Título correspondiente se realizarán de acuerdo con lo recogido en la sección tercera del, Capítulo VII. Enseñanzas especializadas de idiomas., Art. 101)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título I, Capítulo VII) desde *(Título correspondiente se realizarán de acuerdo con lo recogido en la sección tercera del, Capítulo VII. Enseñanzas especializadas de idiomas., Art. 101)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título I, Capítulo VII) desde *(Título correspondiente se realizarán de acuerdo con lo recogido en la sección tercera del, Capítulo VII. Enseñanzas especializadas de idiomas., Art. 101)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 103, Art. 60) desde *(Título correspondiente se realizarán de acuerdo con lo recogido en la sección tercera del, Capítulo VII. Enseñanzas especializadas de idiomas., Art. 103)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 103, Art. 60) desde *(Título correspondiente se realizarán de acuerdo con lo recogido en la sección tercera del, Capítulo VII. Enseñanzas especializadas de idiomas., Art. 103)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 103, Art. 60) desde *(Título correspondiente se realizarán de acuerdo con lo recogido en la sección tercera del, Capítulo VII. Enseñanzas especializadas de idiomas., Art. 103)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 64) desde *(Título correspondiente se realizarán de acuerdo con lo recogido en la sección tercera del, Capítulo VIII. Enseñanzas deportivas., Art. 104)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 64) desde *(Título correspondiente se realizarán de acuerdo con lo recogido en la sección tercera del, Capítulo VIII. Enseñanzas deportivas., Art. 104)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 64) desde *(Título correspondiente se realizarán de acuerdo con lo recogido en la sección tercera del, Capítulo VIII. Enseñanzas deportivas., Art. 104)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 71) desde *(Título III, Capítulo I. Alumnado con necesidades específicas de apoyo educativo., Art. 113)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 71) desde *(Título III, Capítulo I. Alumnado con necesidades específicas de apoyo educativo., Art. 113)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 71) desde *(Título III, Capítulo I. Alumnado con necesidades específicas de apoyo educativo., Art. 113)*
+- **Modifica**: [**Ley 9/1999, de 18 de noviembre, de Solidaridad en la Educación**](../06_atencion_diversidad_y_orientacion/L9_1999_solidaridad_en_la_educacion_andalucia.md) (Título II) desde *(Título III, Capítulo I. Alumnado con necesidades específicas de apoyo educativo., Art. 113)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título II) desde *(Título III, Capítulo I. Alumnado con necesidades específicas de apoyo educativo., Art. 113)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título II) desde *(Título III, Capítulo I. Alumnado con necesidades específicas de apoyo educativo., Art. 113)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título II) desde *(Título III, Capítulo I. Alumnado con necesidades específicas de apoyo educativo., Art. 113)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título V, Capítulo IV, Art. 140) desde *(Título IV, Capítulo II. La función directiva., Art. 131)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título V, Capítulo IV, Art. 140) desde *(Título IV, Capítulo II. La función directiva., Art. 131)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título V, Capítulo IV, Art. 140) desde *(Título IV, Capítulo II. La función directiva., Art. 131)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 139) desde *(Título IV, Capítulo II. La función directiva., Art. 134)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 139) desde *(Título IV, Capítulo II. La función directiva., Art. 134)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 139) desde *(Título IV, Capítulo II. La función directiva., Art. 134)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 126, Art. 127, Art. 140) desde *(Título IV, Capítulo III. Órganos colegiados de gobierno y de coordinación docente., Art. 135)*
+- **Modifica**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 126, Art. 127, Art. 140) desde *(Título IV, Capítulo III. Órganos colegiados de gobierno y de coordinación docente., Art. 135)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 126, Art. 127, Art. 140) desde *(Título IV, Capítulo III. Órganos colegiados de gobierno y de coordinación docente., Art. 135)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 126, Art. 127, Art. 140) desde *(Título IV, Capítulo III. Órganos colegiados de gobierno y de coordinación docente., Art. 135)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título IV, Capítulo III. Órganos colegiados de gobierno y de coordinación docente., Art. 136)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título IV, Capítulo III. Órganos colegiados de gobierno y de coordinación docente., Art. 136)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título IV, Capítulo III. Órganos colegiados de gobierno y de coordinación docente., Art. 136)*
+- **Modifica**: [**BOE-A-1984-17387**](../../../estatal/01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) (Art. 151, Art. 153) desde *(Título V, Capítulo II. Descentralización educativa., Art. 145)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 151, Art. 153) desde *(Título V, Capítulo II. Descentralización educativa., Art. 145)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 151, Art. 153) desde *(Título V, Capítulo II. Descentralización educativa., Art. 145)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 151, Art. 153) desde *(Título V, Capítulo II. Descentralización educativa., Art. 145)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 144) desde *(Título VI, Capítulo II. Evaluación del sistema educativo y de los centros docentes., Art. 156)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 144) desde *(Título VI, Capítulo II. Evaluación del sistema educativo y de los centros docentes., Art. 156)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 144) desde *(Título VI, Capítulo II. Evaluación del sistema educativo y de los centros docentes., Art. 156)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 21, Art. 29) desde *(Título VI, Capítulo II. Evaluación del sistema educativo y de los centros docentes., Art. 156)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 21, Art. 29) desde *(Título VI, Capítulo II. Evaluación del sistema educativo y de los centros docentes., Art. 156)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 21, Art. 29) desde *(Título VI, Capítulo II. Evaluación del sistema educativo y de los centros docentes., Art. 156)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título VI) desde *(Título VI, Capítulo III. La Agencia Andaluza de Evaluación Educativa., Art. 160)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título VI) desde *(Título VI, Capítulo III. La Agencia Andaluza de Evaluación Educativa., Art. 160)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título VI) desde *(Título VI, Capítulo III. La Agencia Andaluza de Evaluación Educativa., Art. 160)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título VII, Capítulo I. Cooperación entre la Administración educativa y las Corporaciones locales., Art. 171)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título VII, Capítulo I. Cooperación entre la Administración educativa y las Corporaciones locales., Art. 171)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título VII, Capítulo I. Cooperación entre la Administración educativa y las Corporaciones locales., Art. 171)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional decimoquinta) desde *(Título VII, Capítulo I. Cooperación entre la Administración educativa y las Corporaciones locales., Art. 171)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional decimoquinta) desde *(Título VII, Capítulo I. Cooperación entre la Administración educativa y las Corporaciones locales., Art. 171)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional decimoquinta) desde *(Título VII, Capítulo I. Cooperación entre la Administración educativa y las Corporaciones locales., Art. 171)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 9) desde *(Título VII, Capítulo III. Cooperación entre administraciones educativas., Art. 176)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 9) desde *(Título VII, Capítulo III. Cooperación entre administraciones educativas., Art. 176)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 9) desde *(Título VII, Capítulo III. Cooperación entre administraciones educativas., Art. 176)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional vigesimotercera) desde *(Título VIII, D. Adicional segunda. Datos personales del alumnado.)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional vigesimotercera) desde *(Título VIII, D. Adicional segunda. Datos personales del alumnado.)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional vigesimotercera) desde *(Título VIII, D. Adicional segunda. Datos personales del alumnado.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional tercera) desde *(Título VIII, D. Adicional cuarta. Profesorado de religión.)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional tercera) desde *(Título VIII, D. Adicional cuarta. Profesorado de religión.)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional tercera) desde *(Título VIII, D. Adicional cuarta. Profesorado de religión.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título VIII, D. Transitoria primera. Acceso a la función pública docente.)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título VIII, D. Transitoria primera. Acceso a la función pública docente.)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título VIII, D. Transitoria primera. Acceso a la función pública docente.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título VIII, D. Transitoria segunda. Personal interino mayor de cincuenta y cinco años.)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título VIII, D. Transitoria segunda. Personal interino mayor de cincuenta y cinco años.)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título VIII, D. Transitoria segunda. Personal interino mayor de cincuenta y cinco años.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título VIII, D. Transitoria quinta. Personal laboral fijo de centros dependientes de.)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título VIII, D. Transitoria quinta. Personal laboral fijo de centros dependientes de.)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título VIII, D. Transitoria quinta. Personal laboral fijo de centros dependientes de.)*
+- **Modifica**: [**Ley 4/1984, de 9 de enero, de Consejos Escolares de Andalucía**](../04_organizacion_escolar_y_funcionamiento/L4_1984_consejos_escolares_andalucia.md) (D. Final primera) desde *(Título VIII, D. Final primera. Modificación de la [Ley 4/1984](../04_organizacion_escolar_y_funcionamiento/L4_1984_consejos_escolares_andalucia.md), de 9 de enero, de Consejos)*
+- **Modifica**: [**Ley 4/1984, de 9 de enero, de Consejos Escolares de Andalucía**](../04_organizacion_escolar_y_funcionamiento/L4_1984_consejos_escolares_andalucia.md) (Art. 16) desde *(Título VIII, D. Final primera. Modificación de la [Ley 4/1984](../04_organizacion_escolar_y_funcionamiento/L4_1984_consejos_escolares_andalucia.md), de 9 de enero, de Consejos)*
+- **Modifica**: `norm-es-c-1978` (Art. 16) desde *(Título VIII, D. Final primera. Modificación de la [Ley 4/1984](../04_organizacion_escolar_y_funcionamiento/L4_1984_consejos_escolares_andalucia.md), de 9 de enero, de Consejos)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 27, Art. 149) desde *(Capítulo III. crea la Agencia Andaluza de Evaluación Educativa como una agencia)*
+- **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 7) desde *(Título Preliminar, Capítulo I. El alumnado., Art. 10)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Cita a**: [**Ley 9/1999, de 18 de noviembre, de Solidaridad en la Educación**](../06_atencion_diversidad_y_orientacion/L9_1999_solidaridad_en_la_educacion_andalucia.md) (Título III) desde *(Capítulo IX. está dedicado a la educación permanente de personas adultas, concebida como)*
+- **Cita a**: `norm-es-c-1978` desde *(Título Preliminar, Capítulo I. El alumnado., Art. 6)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 8) desde *(Título Preliminar, Capítulo I. El alumnado., Art. 7)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 22)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 22)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título Preliminar, Capítulo II. El profesorado., Art. 22)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 5) desde *(Título Preliminar, Capítulo IV. Las familias., Art. 34)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo I. El currículo., Art. 39)*
+- **Cita a**: [**BOE-A-2002-12018**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo V. Formación profesional., Art. 73)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título I, Capítulo VI) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo VI. Enseñanzas artísticas artículo 78 Definición. De acuerdo con lo recogido en el artículo 45.2 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, son enseñanzas artísticas las siguientes:., Art. 86)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título I, Capítulo VI) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo VI. Enseñanzas artísticas artículo 78 Definición. De acuerdo con lo recogido en el artículo 45.2 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, son enseñanzas artísticas las siguientes:., Art. 86)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título I, Capítulo VI) desde *(Título I. de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Capítulo VI. Enseñanzas artísticas artículo 78 Definición. De acuerdo con lo recogido en el artículo 45.2 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, son enseñanzas artísticas las siguientes:., Art. 86)*
+- **Cita a**: `norm-es-c-1978` (Art. 100) desde *(Título correspondiente se realizarán de acuerdo con lo recogido en la sección tercera del, Capítulo VI. del Título I de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Art. 100)*
+- **Cita a**: `norm-es-c-1978` desde *(Título correspondiente se realizarán de acuerdo con lo recogido en la sección tercera del, Capítulo VI. del Título I de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo., Art. 100)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título I, Capítulo VIII) desde *(Título correspondiente se realizarán de acuerdo con lo recogido en la sección tercera del, Capítulo VIII. Enseñanzas deportivas., Art. 104)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título I, Capítulo VIII) desde *(Título correspondiente se realizarán de acuerdo con lo recogido en la sección tercera del, Capítulo VIII. Enseñanzas deportivas., Art. 104)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título I, Capítulo VIII) desde *(Título correspondiente se realizarán de acuerdo con lo recogido en la sección tercera del, Capítulo VIII. Enseñanzas deportivas., Art. 104)*
+- **Cita a**: `norm-es-c-1978` (Art. 168) desde *(Título VI, Capítulo III. La Agencia Andaluza de Evaluación Educativa., Art. 168)*
+- **Cita a**: `norm-es-c-1978` desde *(Título VI, Capítulo III. La Agencia Andaluza de Evaluación Educativa., Art. 168)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título VII, Capítulo II. Cooperación entre la Administración educativa y las universidades., Art. 175)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título VII, Capítulo II. Cooperación entre la Administración educativa y las universidades., Art. 175)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título VII, Capítulo II. Cooperación entre la Administración educativa y las universidades., Art. 175)*
+- **Cita a**: [**Ley 4/1984, de 9 de enero, de Consejos Escolares de Andalucía**](../04_organizacion_escolar_y_funcionamiento/L4_1984_consejos_escolares_andalucia.md) desde *(Título VII, Capítulo IV. Colaboración de otras entidades.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Transitoria quinta) desde *(Título VIII, D. Transitoria quinta. Personal laboral fijo de centros dependientes de.)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Transitoria quinta) desde *(Título VIII, D. Transitoria quinta. Personal laboral fijo de centros dependientes de.)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Transitoria quinta) desde *(Título VIII, D. Transitoria quinta. Personal laboral fijo de centros dependientes de.)*
+- **Cita a**: [**Ley 4/1984, de 9 de enero, de Consejos Escolares de Andalucía**](../04_organizacion_escolar_y_funcionamiento/L4_1984_consejos_escolares_andalucia.md) (Art. 6, Art. 10) desde *(Título VIII, D. Final primera. Modificación de la [Ley 4/1984](../04_organizacion_escolar_y_funcionamiento/L4_1984_consejos_escolares_andalucia.md), de 9 de enero, de Consejos)*
+- **Cita a**: [**Ley 4/1984, de 9 de enero, de Consejos Escolares de Andalucía**](../04_organizacion_escolar_y_funcionamiento/L4_1984_consejos_escolares_andalucia.md) (Art. 10) desde *(Título VIII, D. Final primera. Modificación de la [Ley 4/1984](../04_organizacion_escolar_y_funcionamiento/L4_1984_consejos_escolares_andalucia.md), de 9 de enero, de Consejos)*
+- **Cita a**: [**Ley 4/1984, de 9 de enero, de Consejos Escolares de Andalucía**](../04_organizacion_escolar_y_funcionamiento/L4_1984_consejos_escolares_andalucia.md) (Art. 17, Art. 6) desde *(Título VIII, D. Final primera. Modificación de la [Ley 4/1984](../04_organizacion_escolar_y_funcionamiento/L4_1984_consejos_escolares_andalucia.md), de 9 de enero, de Consejos)*
+- **Cita a**: [**Ley 4/1984, de 9 de enero, de Consejos Escolares de Andalucía**](../04_organizacion_escolar_y_funcionamiento/L4_1984_consejos_escolares_andalucia.md) (Art. 17) desde *(Título VIII, D. Final primera. Modificación de la [Ley 4/1984](../04_organizacion_escolar_y_funcionamiento/L4_1984_consejos_escolares_andalucia.md), de 9 de enero, de Consejos)*

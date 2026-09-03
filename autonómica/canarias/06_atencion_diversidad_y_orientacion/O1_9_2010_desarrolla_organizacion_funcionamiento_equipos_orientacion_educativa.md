@@ -36,7 +36,45 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-can-d-23-1995
+    articulos_destino:
+    - Art. 71
+    - Art. 74
+    - Art. 157
   - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 71
+    - Art. 74
+    - Art. 157
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 71
+    - Art. 74
+    - Art. 157
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 71
+    - Art. 74
+    - Art. 157
+  cita:
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 32
+    - Art. 5
+  - norma_id: norm-es-rd-1834-2008
+    capitulo_origen: Capítulo IV. Funcionamiento de los eoep de zona y específicos.
+    articulos_origen:
+    - Art. 19
+    articulos_destino:
+    - Art. 5
+    - Art. 6
+  - norma_id: norm-es-1999-23750
+    capitulo_origen: Capítulo V. Evaluación e informe psicopedagógico.
+    articulos_origen:
+    - Art. 35
+  - norma_id: norm-es-2008-979
+    capitulo_origen: Capítulo V. Evaluación e informe psicopedagógico.
+    articulos_origen:
+    - Art. 35
   fundamentado_en:
   - norma_id: norm-es-1999-23750
   - norma_id: norm-es-l-39-2015
@@ -49,12 +87,13 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-d-23-1995
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-53-1984
   - norma_id: norm-es-1999-23750
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-181-5209.pdf
 ---
+
 # Orden de 1 de septiembre de 2010, por la que se desarrolla la organización y funcionamiento de los equipos de orientación educativa y psicopedagógica de zona y específicos de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -976,3 +1015,24 @@ Maestro/a de audición y lenguaje DÍA DE LA SEMANA Centro HORAS DE ATENCIÓN Ex
 4. Datos sobre número de informes psicopedagógicos y otros realizados por cada miembro del Equipo, según el modelo de recogida que se establezca.
 
 5. Otros aspectos que se consideren.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**D23_1995 Regulacion de la Orientacion Educativa en Canarias**](./D23_1995_regula_orientacion_educativa_comunidad_autonoma_canarias.md) (Art. 71, Art. 74, Art. 157)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 71, Art. 74, Art. 157)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 71, Art. 74, Art. 157)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 71, Art. 74, Art. 157)
+- **Fundamentado en**: [**BOE-A-1999-23750**](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L53_1984 Incompatibilidades del Personal Publico**](../../../estatal/01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamento de**: [**Resolucion BOC 121**](./R9_2_2011_dictan_instrucciones_procedimientos_plazos_atencion_educativa.md)
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 32, Art. 5)
+- **Cita a**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](../../../estatal/02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md) (Art. 5, Art. 6) desde *(Capítulo IV. Funcionamiento de los eoep de zona y específicos., Art. 19)*
+- **Cita a**: [**BOE-A-1999-23750**](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) desde *(Capítulo V. Evaluación e informe psicopedagógico., Art. 35)*
+- **Cita a**: [**BOE-A-2008-979**](../../../estatal/02_gestion_y_administracion_centros/LO1720_2007_aprueba_reglamento_desarrollo_ley_organica_proteccion.md) desde *(Capítulo V. Evaluación e informe psicopedagógico., Art. 35)*

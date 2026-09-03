@@ -27,6 +27,11 @@ tags:
 - formacion-profesional
 - titulacion
 relaciones:
+  desarrolla:
+  - norma_id: norm-es-2001-7022
+    articulos_destino:
+    - Art. 3
+    - Art. 55
   fundamentado_en:
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-lo-2-2006
@@ -37,15 +42,13 @@ relaciones:
   - norma_id: norm-es-2011-12632
   - norma_id: norm-es-2011-15628
   - norma_id: norm-es-2013-10219
-  - norma_id: norm-can-res-boc-2017-036-75
-  - norma_id: norm-can-res-boc-2019-143-74
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '22'
+  - norma_id: '22'
   - norma_id: norm-es-2001-7022
 ---
+
 # Orden ECD/454/2002, de 22 de febrero, por la que se establecen los elementos básicos de los informes de evaluación de las enseñanzas que conducentes a la obtención de titulaciones de técnicos deportivos reguladas por el Real Decreto 1913/1997, de 19 de diciembre, así como los requisitos formales derivados del proceso de evaluación que son necesarios para garantizar la movilidad de los alumnos.
 
 ## Preámbulo
@@ -564,3 +567,18 @@ MOBA
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**L6_2014 Ley Canaria de Educacion**](../../autonómica/canarias/01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (Art. 3, Art. 55)
+- **Fundamentado en**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**BOE-A-2000-5990**](./RD320_2000_establecen_titulos_tecnico_deportivo_tecnico_deportivo.md)
+- **Fundamento de**: [**BOE-A-2007-19326**](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md)
+- **Fundamento de**: [**BOE-A-2010-13564**](./RD935_2010_establecen_titulos_tecnico_deportivo_vela_aparejo.md)
+- **Fundamento de**: [**BOE-A-2011-12632**](./RD878_2011_establece_titulo_tecnico_deportivo_salvamento_socorrismo.md)
+- **Fundamento de**: [**BOE-A-2011-15628**](../08_personal_docente/Osn_edu_establece_formacion_equivalente_formacion_pedagogica.md)
+- **Fundamento de**: [**BOE-A-2013-10219**](./RD669_2013_establece_titulo_tecnico_deportivo_atletismo_fijan.md)

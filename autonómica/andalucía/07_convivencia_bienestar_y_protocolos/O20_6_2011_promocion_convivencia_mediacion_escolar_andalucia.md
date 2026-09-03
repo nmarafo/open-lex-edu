@@ -26,14 +26,548 @@ tags:
 - andalucia
 relaciones:
   desarrolla:
+  - norma_id: norm-and-l17-2007
+    articulos_destino:
+    - Art. 5
+    - Art. 127
+    - Art. 29
+    - Art. 30
+    - Art. 31
+    - Art. 32
+    - Art. 33
+    - Art. 34
+    - Art. 14
+    - Art. 44
+    disposiciones_destino:
+    - D. Derogatoria única
+    - D. Final sexta
+    - D. Final quinta
+  - norma_id: norm-and-d-327-2010
+    articulos_destino:
+    - Art. 5
+    - Art. 127
+    - Art. 29
+    - Art. 30
+    - Art. 31
+    - Art. 32
+    - Art. 33
+    - Art. 34
+    - Art. 14
+    - Art. 44
+    disposiciones_destino:
+    - D. Derogatoria única
+    - D. Final sexta
+    - D. Final quinta
+  - norma_id: norm-and-d-328-2010
+    articulos_destino:
+    - Art. 5
+    - Art. 127
+    - Art. 29
+    - Art. 30
+    - Art. 31
+    - Art. 32
+    - Art. 33
+    - Art. 34
+    - Art. 14
+    - Art. 44
+    disposiciones_destino:
+    - D. Derogatoria única
+    - D. Final sexta
+    - D. Final quinta
+  - norma_id: norm-and-d327-2010
+    articulos_destino:
+    - Art. 5
+    - Art. 127
+    - Art. 29
+    - Art. 30
+    - Art. 31
+    - Art. 32
+    - Art. 33
+    - Art. 34
+    - Art. 14
+    - Art. 44
+    disposiciones_destino:
+    - D. Derogatoria única
+    - D. Final sexta
+    - D. Final quinta
+  - norma_id: norm-and-d328-2010
+    articulos_destino:
+    - Art. 5
+    - Art. 127
+    - Art. 29
+    - Art. 30
+    - Art. 31
+    - Art. 32
+    - Art. 33
+    - Art. 34
+    - Art. 14
+    - Art. 44
+    disposiciones_destino:
+    - D. Derogatoria única
+    - D. Final sexta
+    - D. Final quinta
+  - norma_id: norm-and-d-19-2007
+    articulos_destino:
+    - Art. 5
+    - Art. 127
+    - Art. 29
+    - Art. 30
+    - Art. 31
+    - Art. 32
+    - Art. 33
+    - Art. 34
+    - Art. 14
+    - Art. 44
+    disposiciones_destino:
+    - D. Derogatoria única
+    - D. Final sexta
+    - D. Final quinta
+  - norma_id: norm-and-d19-2007
+    articulos_destino:
+    - Art. 5
+    - Art. 127
+    - Art. 29
+    - Art. 30
+    - Art. 31
+    - Art. 32
+    - Art. 33
+    - Art. 34
+    - Art. 14
+    - Art. 44
+    disposiciones_destino:
+    - D. Derogatoria única
+    - D. Final sexta
+    - D. Final quinta
   - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 5
+    - Art. 127
+    - Art. 29
+    - Art. 30
+    - Art. 31
+    - Art. 32
+    - Art. 33
+    - Art. 34
+    - Art. 14
+    - Art. 44
+    disposiciones_destino:
+    - D. Derogatoria única
+    - D. Final sexta
+    - D. Final quinta
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 5
+    - Art. 127
+    - Art. 29
+    - Art. 30
+    - Art. 31
+    - Art. 32
+    - Art. 33
+    - Art. 34
+    - Art. 14
+    - Art. 44
+    disposiciones_destino:
+    - D. Derogatoria única
+    - D. Final sexta
+    - D. Final quinta
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 5
+    - Art. 127
+    - Art. 29
+    - Art. 30
+    - Art. 31
+    - Art. 32
+    - Art. 33
+    - Art. 34
+    - Art. 14
+    - Art. 44
+    disposiciones_destino:
+    - D. Derogatoria única
+    - D. Final sexta
+    - D. Final quinta
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 5
+    - Art. 127
+    - Art. 29
+    - Art. 30
+    - Art. 31
+    - Art. 32
+    - Art. 33
+    - Art. 34
+    - Art. 14
+    - Art. 44
+    disposiciones_destino:
+    - D. Derogatoria única
+    - D. Final sexta
+    - D. Final quinta
+  - norma_id: norm-and-d-327-2010
+    capitulo_origen: Capítulo II. Promoción de la convivencia en los centros docentes.
+    seccion_origen: Sección 1. ª El plan de convivencia artículo 3 Definición, objetivos
+      y coordinación del plan de. convivencia.
+    articulos_origen:
+    - Art. 6
+    articulos_destino:
+    - Art. 66
+    - Art. 64
+  - norma_id: norm-and-d-328-2010
+    capitulo_origen: Capítulo II. Promoción de la convivencia en los centros docentes.
+    seccion_origen: Sección 1. ª El plan de convivencia artículo 3 Definición, objetivos
+      y coordinación del plan de. convivencia.
+    articulos_origen:
+    - Art. 6
+    articulos_destino:
+    - Art. 66
+    - Art. 64
+  - norma_id: norm-and-d327-2010
+    capitulo_origen: Capítulo II. Promoción de la convivencia en los centros docentes.
+    seccion_origen: Sección 1. ª El plan de convivencia artículo 3 Definición, objetivos
+      y coordinación del plan de. convivencia.
+    articulos_origen:
+    - Art. 6
+    articulos_destino:
+    - Art. 66
+    - Art. 64
+  - norma_id: norm-and-d328-2010
+    capitulo_origen: Capítulo II. Promoción de la convivencia en los centros docentes.
+    seccion_origen: Sección 1. ª El plan de convivencia artículo 3 Definición, objetivos
+      y coordinación del plan de. convivencia.
+    articulos_origen:
+    - Art. 6
+    articulos_destino:
+    - Art. 66
+    - Art. 64
   - norma_id: norm-es-lo-8-2021
+  cita:
+  - norma_id: norm-and-d-327-2010
+    capitulo_origen: Capítulo II. Promoción de la convivencia en los centros docentes.
+    seccion_origen: Sección 1. ª El plan de convivencia artículo 3 Definición, objetivos
+      y coordinación del plan de. convivencia.
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 23
+  - norma_id: norm-and-d-328-2010
+    capitulo_origen: Capítulo II. Promoción de la convivencia en los centros docentes.
+    seccion_origen: Sección 1. ª El plan de convivencia artículo 3 Definición, objetivos
+      y coordinación del plan de. convivencia.
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 23
+  - norma_id: norm-and-d327-2010
+    capitulo_origen: Capítulo II. Promoción de la convivencia en los centros docentes.
+    seccion_origen: Sección 1. ª El plan de convivencia artículo 3 Definición, objetivos
+      y coordinación del plan de. convivencia.
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 23
+  - norma_id: norm-and-d328-2010
+    capitulo_origen: Capítulo II. Promoción de la convivencia en los centros docentes.
+    seccion_origen: Sección 1. ª El plan de convivencia artículo 3 Definición, objetivos
+      y coordinación del plan de. convivencia.
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 23
+  - norma_id: norm-and-d-327-2010
+    capitulo_origen: Capítulo II. Promoción de la convivencia en los centros docentes.
+    seccion_origen: Sección 1. ª El plan de convivencia artículo 3 Definición, objetivos
+      y coordinación del plan de. convivencia.
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 34
+    - Art. 37
+    - Art. 33
+    - Art. 36
+  - norma_id: norm-and-d-328-2010
+    capitulo_origen: Capítulo II. Promoción de la convivencia en los centros docentes.
+    seccion_origen: Sección 1. ª El plan de convivencia artículo 3 Definición, objetivos
+      y coordinación del plan de. convivencia.
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 34
+    - Art. 37
+    - Art. 33
+    - Art. 36
+  - norma_id: norm-and-d327-2010
+    capitulo_origen: Capítulo II. Promoción de la convivencia en los centros docentes.
+    seccion_origen: Sección 1. ª El plan de convivencia artículo 3 Definición, objetivos
+      y coordinación del plan de. convivencia.
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 34
+    - Art. 37
+    - Art. 33
+    - Art. 36
+  - norma_id: norm-and-d328-2010
+    capitulo_origen: Capítulo II. Promoción de la convivencia en los centros docentes.
+    seccion_origen: Sección 1. ª El plan de convivencia artículo 3 Definición, objetivos
+      y coordinación del plan de. convivencia.
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 34
+    - Art. 37
+    - Art. 33
+    - Art. 36
+  - norma_id: norm-and-d-327-2010
+    capitulo_origen: Capítulo III. Participación de las familias en el proceso educativo.
+    articulos_origen:
+    - Art. 15
+    articulos_destino:
+    - Art. 12
+    - Art. 13
+    - Art. 10
+    - Art. 11
+  - norma_id: norm-and-d-328-2010
+    capitulo_origen: Capítulo III. Participación de las familias en el proceso educativo.
+    articulos_origen:
+    - Art. 15
+    articulos_destino:
+    - Art. 12
+    - Art. 13
+    - Art. 10
+    - Art. 11
+  - norma_id: norm-and-d327-2010
+    capitulo_origen: Capítulo III. Participación de las familias en el proceso educativo.
+    articulos_origen:
+    - Art. 15
+    articulos_destino:
+    - Art. 12
+    - Art. 13
+    - Art. 10
+    - Art. 11
+  - norma_id: norm-and-d328-2010
+    capitulo_origen: Capítulo III. Participación de las familias en el proceso educativo.
+    articulos_origen:
+    - Art. 15
+    articulos_destino:
+    - Art. 12
+    - Art. 13
+    - Art. 10
+    - Art. 11
+  - norma_id: norm-es-lo-5-2000
+    capitulo_origen: Capítulo III. Participación de las familias en el proceso educativo.
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    articulos_destino:
+    - Art. 14
   fundamentado_en:
+  - norma_id: norm-and-d-327-2010
+    capitulo_origen: Capítulo II. Promoción de la convivencia en los centros docentes.
+    seccion_origen: Sección 1. ª El plan de convivencia artículo 3 Definición, objetivos
+      y coordinación del plan de. convivencia.
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 24
+    - Art. 22
+  - norma_id: norm-and-d-328-2010
+    capitulo_origen: Capítulo II. Promoción de la convivencia en los centros docentes.
+    seccion_origen: Sección 1. ª El plan de convivencia artículo 3 Definición, objetivos
+      y coordinación del plan de. convivencia.
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 24
+    - Art. 22
+  - norma_id: norm-and-d327-2010
+    capitulo_origen: Capítulo II. Promoción de la convivencia en los centros docentes.
+    seccion_origen: Sección 1. ª El plan de convivencia artículo 3 Definición, objetivos
+      y coordinación del plan de. convivencia.
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 24
+    - Art. 22
+  - norma_id: norm-and-d328-2010
+    capitulo_origen: Capítulo II. Promoción de la convivencia en los centros docentes.
+    seccion_origen: Sección 1. ª El plan de convivencia artículo 3 Definición, objetivos
+      y coordinación del plan de. convivencia.
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 24
+    - Art. 22
+  - norma_id: norm-and-d-327-2010
+    capitulo_origen: Capítulo II. Promoción de la convivencia en los centros docentes.
+    seccion_origen: Sección 2. ª Mediación en la resolución de conflictos
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 72
+    - Art. 70
+  - norma_id: norm-and-d-328-2010
+    capitulo_origen: Capítulo II. Promoción de la convivencia en los centros docentes.
+    seccion_origen: Sección 2. ª Mediación en la resolución de conflictos
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 72
+    - Art. 70
+  - norma_id: norm-and-d327-2010
+    capitulo_origen: Capítulo II. Promoción de la convivencia en los centros docentes.
+    seccion_origen: Sección 2. ª Mediación en la resolución de conflictos
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 72
+    - Art. 70
+  - norma_id: norm-and-d328-2010
+    capitulo_origen: Capítulo II. Promoción de la convivencia en los centros docentes.
+    seccion_origen: Sección 2. ª Mediación en la resolución de conflictos
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 72
+    - Art. 70
+  - norma_id: norm-and-d-327-2010
+    capitulo_origen: Capítulo III. Participación de las familias en el proceso educativo.
+    articulos_origen:
+    - Art. 18
+    articulos_destino:
+    - Art. 12
+    - Art. 10
+  - norma_id: norm-and-d-328-2010
+    capitulo_origen: Capítulo III. Participación de las familias en el proceso educativo.
+    articulos_origen:
+    - Art. 18
+    articulos_destino:
+    - Art. 12
+    - Art. 10
+  - norma_id: norm-and-d327-2010
+    capitulo_origen: Capítulo III. Participación de las familias en el proceso educativo.
+    articulos_origen:
+    - Art. 18
+    articulos_destino:
+    - Art. 12
+    - Art. 10
+  - norma_id: norm-and-d328-2010
+    capitulo_origen: Capítulo III. Participación de las familias en el proceso educativo.
+    articulos_origen:
+    - Art. 18
+    articulos_destino:
+    - Art. 12
+    - Art. 10
+  - norma_id: norm-and-d-327-2010
+    capitulo_origen: Capítulo III. Participación de las familias en el proceso educativo.
+    articulos_origen:
+    - Art. 19
+    articulos_destino:
+    - Art. 12
+    - Art. 10
+  - norma_id: norm-and-d-328-2010
+    capitulo_origen: Capítulo III. Participación de las familias en el proceso educativo.
+    articulos_origen:
+    - Art. 19
+    articulos_destino:
+    - Art. 12
+    - Art. 10
+  - norma_id: norm-and-d327-2010
+    capitulo_origen: Capítulo III. Participación de las familias en el proceso educativo.
+    articulos_origen:
+    - Art. 19
+    articulos_destino:
+    - Art. 12
+    - Art. 10
+  - norma_id: norm-and-d328-2010
+    capitulo_origen: Capítulo III. Participación de las familias en el proceso educativo.
+    articulos_origen:
+    - Art. 19
+    articulos_destino:
+    - Art. 12
+    - Art. 10
+  - norma_id: norm-and-d-327-2010
+    capitulo_origen: Capítulo III. Participación de las familias en el proceso educativo.
+    articulos_origen:
+    - Art. 20
+    articulos_destino:
+    - Art. 23
+    - Art. 21
+  - norma_id: norm-and-d-328-2010
+    capitulo_origen: Capítulo III. Participación de las familias en el proceso educativo.
+    articulos_origen:
+    - Art. 20
+    articulos_destino:
+    - Art. 23
+    - Art. 21
+  - norma_id: norm-and-d327-2010
+    capitulo_origen: Capítulo III. Participación de las familias en el proceso educativo.
+    articulos_origen:
+    - Art. 20
+    articulos_destino:
+    - Art. 23
+    - Art. 21
+  - norma_id: norm-and-d328-2010
+    capitulo_origen: Capítulo III. Participación de las familias en el proceso educativo.
+    articulos_origen:
+    - Art. 20
+    articulos_destino:
+    - Art. 23
+    - Art. 21
+  - norma_id: norm-and-d-327-2010
+    capitulo_origen: Capítulo III. Participación de las familias en el proceso educativo.
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    articulos_destino:
+    - Art. 11
+    - Art. 9
+    disposiciones_destino:
+    - D. Adicional Segunda
+    - D. Adicional segunda
+  - norma_id: norm-and-d-328-2010
+    capitulo_origen: Capítulo III. Participación de las familias en el proceso educativo.
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    articulos_destino:
+    - Art. 11
+    - Art. 9
+    disposiciones_destino:
+    - D. Adicional Segunda
+    - D. Adicional segunda
+  - norma_id: norm-and-d327-2010
+    capitulo_origen: Capítulo III. Participación de las familias en el proceso educativo.
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    articulos_destino:
+    - Art. 11
+    - Art. 9
+    disposiciones_destino:
+    - D. Adicional Segunda
+    - D. Adicional segunda
+  - norma_id: norm-and-d328-2010
+    capitulo_origen: Capítulo III. Participación de las familias en el proceso educativo.
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    articulos_destino:
+    - Art. 11
+    - Art. 9
+    disposiciones_destino:
+    - D. Adicional Segunda
+    - D. Adicional segunda
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-8-2021
   - norma_id: norm-es-lo-1-1996
+  concordancia:
+  - norma_id: norm-and-d-19-2007
+    capitulo_origen: Capítulo II. Promoción de la convivencia en los centros docentes.
+    seccion_origen: Sección 3. ª Protocolos de actuación artículo 14 Actuación e intervención
+      ante conductas de. acoso escolar, maltrato infantil, violencia de género en
+      el ámbito educativo, o agresión.
+  - norma_id: norm-and-d19-2007
+    capitulo_origen: Capítulo II. Promoción de la convivencia en los centros docentes.
+    seccion_origen: Sección 3. ª Protocolos de actuación artículo 14 Actuación e intervención
+      ante conductas de. acoso escolar, maltrato infantil, violencia de género en
+      el ámbito educativo, o agresión.
 ---
+
 # Orden de 20 de junio de 2011, por la que se adoptan medidas para la promoción de la convivencia en los centros docentes.
 
 ## Preámbulo
@@ -41,7 +575,7 @@ relaciones:
 Página núm. 6 Sevilla, 7 de julio 2011 CONSEJERÍA DE EDUCACIÓN ORDEN de 20 de junio de 2011, por la que se adoptan medidas para la promoción de la convivencia en los centros docentes sostenidos con fondos públicos y se regula el derecho de las familias a participar en el proceso educativo de sus hijos e hijas. La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece como un fin del sistema educativo la educación en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia, así como en la prevención de conflictos y la resolución pacífica de los mismos y señala como un principio del mismo la participación de la comunidad educativa en la organización, gobierno y funcionamiento de los centros docentes. La Ley 17/2007, de 10 de diciembre, de Educación de Andalucía, establece, entre los principios del sistema educativo andaluz, la convivencia como meta y condición necesaria para el buen desarrollo del trabajo del alumnado y del profesorado. El artículo 5 de esta Ley establece como objetivos de la misma, entre otros, favorecer la democracia, sus valores y procedimientos, de manera que orienten e inspiren las prácticas educativas y el funcionamiento de los centros docentes, así como las relaciones interpersonales y el clima de convivencia entre todos los miembros de la comunidad educativa, promover la adquisición por el alumnado de los valores en los que se sustentan la convivencia democrática, la participación, la no violencia y la igualdad entre hombres y mujeres, promover la cultura de paz en todos los órdenes de la vida y favorecer la búsqueda de fórmulas para prevenir los conflictos y resolver pacíficamente los que se produzcan en los centros docentes. Asimismo, el artículo 127 de la citada Ley dispone que el proyecto educativo de cada centro incluirá un plan de convivencia para prevenir la aparición de conductas contrarias a las normas de convivencia y facilitar un adecuado clima escolar, y en los artículos 29 al 33 se regula el derecho de las familias a participar en el proceso educativo de sus hijos e hijas incluyendo, entre otras medidas, la posibilidad de que las familias suscriban compromisos educativos y compromisos de convivencia con los centros docentes, con objeto de procurar un adecuado seguimiento del proceso de aprendizaje de sus hijos e hijas y establecer mecanismos de coordinación con el profesorado. En esta misma línea y desde la consideración de la labor educativa como responsabilidad social compartida, debe facilitarse la participación, comunicación y cooperación de las familias en la vida de los centros, de tal manera que se garantice el ejercicio de su derecho a intervenir activamente y colaborar para el cumplimiento de los objetivos educativos y la mejora de la convivencia. En desarrollo de las citadas Leyes, el Reglamento Orgánico de las escuelas infantiles de segundo ciclo, de los colegios de educación primaria, de los colegios de educación infantil y primaria y de los centros públicos específicos de educación especial, así como el de los institutos de educación secundaria, aprobados respectivamente por el Decreto 328/2010, de 13 de julio, y por el Decreto 327/2010, de 13 de julio, regulan los derechos y deberes del alumnado y la colaboración y participación de las familias. Asimismo, se establece la posibilidad de crear aulas de convivencia para el tratamiento individualizado del alumnado, se regula la constitución y el funcionamiento de la comisión de convivencia del Consejo Escolar, a fin de promover la cultura de paz y la resolución pacífica de los conflictos, y se reconoce la figura de los delegados o delegadas de los padres y madres del alumnado. El Decreto 19/2007, de 23 de enero, por el que se adoptan medidas para la promoción de la cultura de paz y la mejora de la convivencia en los centros educativos sostenidos con fondos públicos, establece como principios de actuación la intervención preventiva a través de la puesta en marcha de medidas y actuaciones que favorezcan la mejora del ambiente socioeducativo de los centros, las prácticas educativas y la resolución pacífica de los conflictos. El artículo 34 del citado Decreto dispone que la Administración educativa establecerá, mediante protocolos específicos, los procedimientos de actuación e intervención de los centros docentes para los supuestos de maltrato, discriminación o agresiones que el alumnado pudiera sufrir, garantizando su seguridad y protección, así como la continuidad de su aprendizaje en las mejores condiciones. Asimismo, se dispone que la Administración educativa establecerá un protocolo de actuación para los supuestos de agresiones que los trabajadores y trabajadoras de los centros educativos pudieran sufrir en el desarrollo de sus funciones, adoptando las medidas oportunas para garantizar la debida protección y asistencia jurídica en estos supuestos. Por otra parte, el artículo 14 de la Ley 13/2007, de 26 de noviembre, de medidas de prevención y protección integral contra la violencia de género, dispone que las personas que ejerzan la dirección de los centros educativos y los consejos escolares adoptarán los protocolos de actuación y las medidas necesarias para la detección y atención a los actos de violencia de género dentro del ámbito escolar. En su disposición derogatoria única, el Decreto 327/2010, de 13 de julio, deroga los Títulos II y III del Decreto 19/2007, de 23 de enero, y la Orden de la Consejería de Educación de 18 de julio de 2007, por la que se regula el procedimiento para la elaboración y aprobación del plan de convivencia de los centros educativos sostenidos con fondos públicos. Todo ello requiere un nuevo desarrollo normativo en el que se concrete el marco específico para la elaboración del plan de convivencia de los centros y la actualización de los protocolos de actuación que deben utilizarse ante supuestos de acoso escolar, agresión hacia el profesorado o el personal de administración y servicios, o maltrato infantil. En su virtud, a propuesta de la Dirección General de Participación e Innovación Educativa, y de acuerdo con las facultades que me confiere el artículo 44.2 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, así como la disposición final sexta del Decreto 327/2010, de 13 de julio, y la disposición final quinta del Decreto 328/2010, de 13 de julio,
 DISPONGO:
 
-## Capítulo I. Objeto y ámbito de aplicación artículo 1 Objeto. La presente Orden tiene por objeto la regulación de los siguientes aspectos:.
+#### Artículo . #### Artículo . ## Capítulo I. Objeto y ámbito de aplicación artículo 1 Objeto. La presente Orden tiene por objeto la regulación de los siguientes aspectos:.
 
 a) La promoción de la convivencia en los centros docentes, a través de la elaboración, desarrollo y evaluación de sus planes de convivencia, de la mediación en la resolución de conflictos y del establecimiento de protocolos de actuación e intervención ante situaciones de acoso escolar, maltrato infantil, situaciones de violencia de género en el ámbito educativo,
 
@@ -52,7 +586,7 @@ b) El derecho de las familias a participar en el proceso educativo de sus hijos 
 
 La presente Orden será de aplicación en los centros docentes sostenidos con fondos públicos de Andalucía que imparten las enseñanzas de segundo ciclo de educación infantil, educación primaria, educación secundaria obligatoria, bachillerato y formación profesional inicial.
 
-## Capítulo II. Promoción de la convivencia en los centros docentes.
+### Capítulo II. Promoción de la convivencia en los centros docentes.
 
 #### Sección 1. ª El plan de convivencia artículo 3 Definición, objetivos y coordinación del plan de. convivencia.
 
@@ -227,7 +761,7 @@ De conformidad con lo establecido en el artículo 34 l.
 
 Decreto 19/2007, de 23 de enero, se establecen los protocolos de actuación que se recogen como Anexos I, II, III y IV, en los supuestos de acoso escolar, maltrato infantil, violencia de género en el ámbito educativo, y agresión al profesorado o el personal de administración y servicios y de atención educativa complementaria, respectivamente.
 
-## Capítulo III. Participación de las familias en el proceso educativo.
+### Capítulo III. Participación de las familias en el proceso educativo.
 
 #### Artículo 15. Comunicación y cooperación educativa entre. familias y profesorado.
 
@@ -321,11 +855,8 @@ En tanto no dispongan de normativa específica, la presente orden será de aplic
 
 #### Disposición final segunda. Entrada en vigor.
 
-La presente Orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 20 de junio de 2011 FRANCISCO JOSÉ ÁLVAREZ DE LA CHICA Consejero de Educación
+## Anexo I. PROTOCOLO DE ACTUACIÓN EN SUPUESTOS DE ACOSO ESCOLAR Características del acoso escolar. El acoso escolar es entendido como el maltrato psicológico, verbal o físico hacia un alumno o alumna producido por uno o más compañeros y compañeras de forma reiterada a lo largo de un tiempo determinado. Es importante no confundir este fenómeno con agresiones esporádicas entre el alumnado y otras manifestaciones violentas que no suponen inferioridad de uno de los participantes en el suceso y que serán atendidas aplicando las medidas educativas que el centro tenga establecidas en su plan de convivencia y, en todo caso, de acuerdo con lo especificado en los Decretos 327/2010 y 328/2010, ambos de 13 de julio, por los que se aprueban los Reglamentos Orgánicos de los institutos de educación secundaria, y de las escuelas infantiles de
 
-## Anexo I
-
-PROTOCOLO DE ACTUACIÓN EN SUPUESTOS DE ACOSO ESCOLAR Características del acoso escolar. El acoso escolar es entendido como el maltrato psicológico, verbal o físico hacia un alumno o alumna producido por uno o más compañeros y compañeras de forma reiterada a lo largo de un tiempo determinado. Es importante no confundir este fenómeno con agresiones esporádicas entre el alumnado y otras manifestaciones violentas que no suponen inferioridad de uno de los participantes en el suceso y que serán atendidas aplicando las medidas educativas que el centro tenga establecidas en su plan de convivencia y, en todo caso, de acuerdo con lo especificado en los Decretos 327/2010 y 328/2010, ambos de 13 de julio, por los que se aprueban los Reglamentos Orgánicos de los institutos de educación secundaria, y de las escuelas infantiles de
 segundo ciclo, los colegios de educación primaria, los colegios de educación infantil y primaria y los centros públicos específicos de educación especial. El acoso escolar presenta las siguientes características:
 - Intencionalidad. La agresión producida no constituye un hecho aislado y se dirige a una persona concreta con la intención de convertirla en víctima.
 - Repetición. Se expresa en una acción agresiva que se repite en el tiempo y la víctima la sufre de forma continuada, generando en ella la expectativa de ser blanco de futuros ataques.
@@ -367,9 +898,7 @@ en espacios comunes del centro, en clase, o en actividades complementarias y ext
 - Actuaciones con las familias: orientaciones sobre cómo ayudar a sus hijos o hijas, sean víctimas o agresores, actuaciones para una mejor coordinación y comunicación sobre el proceso socioeducativo de sus hijos o hijas, información sobre posibles apoyos externos y seguimiento de los mismos, así como establecimiento de compromisos de convivencia.
 - Actuaciones con el profesorado y el personal de administración y servicios: orientaciones sobre cómo intervenir positivamente en la situación y cómo hacer el seguimiento, orientaciones sobre indicadores de detección, así como actividades de formación específica. La dirección del centro se responsabilizará de que se lleven a cabo las medidas y actuaciones previstas, informando periódicamente a la comisión de convivencia, a las familias o responsables legales del alumnado y al inspector o inspectora de referencia del grado del cumplimiento de las mismas y de la situación escolar del alumnado implicado. Paso 11. Comunicación a las familias o responsables legales del alumnado. Se informará a las familias del alumnado implicado de las medidas y actuaciones de carácter individual, así como las mePágina núm. 14 Sevilla, 7 de julio 2011 didas de carácter organizativo y preventivo propuestas para el grupo, nivel y centro educativo, observando en todo momento confidencialidad absoluta en el tratamiento del caso. Paso 12. Seguimiento del caso por parte de la inspección educativa. El inspector o inspectora de referencia realizará un seguimiento de las medidas y actuaciones definidas y aplicadas, así como de la situación escolar del alumnado implicado.
 
-## Anexo II
-
-PROTOCOLO DE ACTUACIÓN EN CASO DE MALTRATO INFANTIL Características del maltrato infantil. De acuerdo con el artículo 3 l.
+## Anexo II. PROTOCOLO DE ACTUACIÓN EN CASO DE MALTRATO INFANTIL Características del maltrato infantil. De acuerdo con el artículo 3 l.
 
 Decreto 3/2004, de 7 de enero, por el que se establece el sistema de información sobre maltrato infantil en Andalucía, se entenderá por maltrato infantil cualquier acción, omisión o trato negligente, no accidental, por parte de los padres o madres, cuidadores o cuidadoras o instituciones, que comprometa la satisfacción de las necesidades básicas del menor o la menor, e impida o interfiera en su desarrollo físico, psíquico y/o social. Tipología del maltrato.
 - Maltrato físico: cualquier acto, no accidental, ocasionado a un menor o una menor por su progenitor o progenitora o sustituto o sustituta que le provoque daño físico o enfermedad, o le coloque en situación de riesgo grave de padecerla.
@@ -408,9 +937,8 @@ Página núm. 16 Sevilla, 7 de julio 2011 Local mediante el envío de la Hoja de
 - Casos de maltrato grave: la dirección lo notificará al Servicio Provincial de Inspección de Educación, al Servicio de Protección de Menores de la Delegación Provincial de la Consejería para la Igualdad y Bienestar Social, y en su caso, al Juzgado de Guardia del partido judicial correspondiente adjuntando los informes técnicos pertinentes, conservando en su poder su propio ejemplar.
 - Casos urgentes: se efectuará una notificación inmediata a la Delegación Provincial de la Consejería para la Igualdad y Bienestar Social, Autoridad Judicial o Ministerio Fiscal, además de a todas las instituciones anteriores. Asimismo se tomarán las medidas oportunas para garantizar la atención que el menor o la menor requiera, tales como su acompañamiento a centros sanitarios, o la petición de protección policial. Evaluación y seguimiento. En todos los casos de maltrato, haya sido necesaria o no la intervención de agentes externos al centro educativo, el equipo directivo realizará un seguimiento de la situación y de las condiciones en que se encuentre el alumno o alumna afectado. Para ello, periódicamente realizará un análisis de la situación basándose en los indicadores que detectaron la situación, recabando la información que fuera necesaria. De volver a detectarse una situación de maltrato, volvería a iniciarse el proceso, siempre en este siempre en este caso notificándolo a las autoridades competentes.
 
-## Anexo III
+## Anexo III. PROTOCOLO DE ACTUACIÓN ANTE CASOS DE VIOLENCIA DE GÉNERO EN EL ÁMBITO EDUCATIVO Características de la violencia de género. Se entiende por violencia de género aquella que, como manifestación de la discriminación, la situación de desigualdad y las relaciones de poder de los hombres sobre las mujeres, se ejerce sobre estas por el hecho de serlo. Esta violencia comprende cualquier acto de violencia basada en género que tenga como consecuencia, o que tenga posibilidades de tener como consecuencia, perjuicio o sufrimiento en la salud física, sexual o psicológica de la mujer, incluyendo amenazas de dichos actos, coerción o privaciones arbitrarias de su libertad, tanto si se producen en la vida pública como privada. En relación con el ámbito escolar, el artículo 14 de la Ley 13/2007, de 26 de noviembre, de medidas de prevención y protección integral contra la violencia de género, dispone que las personas que ejerzan la dirección de los centros educativos y los consejos escolares adoptarán los protocolos de actuación y las medidas necesarias para la detección y atención a los actos de violencia de género dentro del ámbito escolar. Tipos de violencia de género.
 
-PROTOCOLO DE ACTUACIÓN ANTE CASOS DE VIOLENCIA DE GÉNERO EN EL ÁMBITO EDUCATIVO Características de la violencia de género. Se entiende por violencia de género aquella que, como manifestación de la discriminación, la situación de desigualdad y las relaciones de poder de los hombres sobre las mujeres, se ejerce sobre estas por el hecho de serlo. Esta violencia comprende cualquier acto de violencia basada en género que tenga como consecuencia, o que tenga posibilidades de tener como consecuencia, perjuicio o sufrimiento en la salud física, sexual o psicológica de la mujer, incluyendo amenazas de dichos actos, coerción o privaciones arbitrarias de su libertad, tanto si se producen en la vida pública como privada. En relación con el ámbito escolar, el artículo 14 de la Ley 13/2007, de 26 de noviembre, de medidas de prevención y protección integral contra la violencia de género, dispone que las personas que ejerzan la dirección de los centros educativos y los consejos escolares adoptarán los protocolos de actuación y las medidas necesarias para la detección y atención a los actos de violencia de género dentro del ámbito escolar. Tipos de violencia de género.
 - Violencia física: cualquier acto de fuerza contra el cuerpo de la mujer, con resultado o riesgo de producir lesión física o daño, ejercida por quien sea o haya sido su cónyuge o por quien esté o haya estado ligado a ella por análoga relación de afectividad, aun sin convivencia. Asimismo, se consideran actos de violencia física contra la mujer los ejercidos por hombres en su entorno familiar o en su entorno social y/o laboral.
 - Violencia psicológica: toda conducta, verbal o no verbal, que produzca en la mujer desvalorización o sufrimiento, a través de amenazas, humillaciones o vejaciones, exigencia de obediencia o sumisión, coerción, insultos, aislamiento, culpabilización o limitaciones de su ámbito de libertad, ejercida por quien sea o haya sido su cónyuge o por quien esté o haya estado ligado a ella por análoga relación de afectividad, aun sin convivencia. Asimismo, tendrán la consideración de actos de violencia psicológica contra la mujer los ejercidos por hombres en su entorno familiar o en su entorno social y/o laboral.
 - Violencia económica: la privación intencionada, y no justificada legalmente, de recursos para el bienestar físico o psicológico de la mujer y de sus hijas e hijos o la discriminación en la disposición de los recursos compartidos en el ámbito de la convivencia de pareja.
@@ -436,9 +964,8 @@ en espacios comunes del centro, en clase, o en actividades complementarias y ext
 - Actuaciones con las familias: orientaciones sobre cómo ayudar a sus hijos o hijas. En el caso de la víctima, orientaciones sobre cómo abordar el hecho en el ámbito familiar e información sobre posibles apoyos externos y recursos institucionales disponibles para recibir ayuda psicológica y asesoramiento jurídico. En el caso del alumnado agresor, orientaciones sobre cómo educar para prevenir, evitar y rechazar todo tipo de violencia y, en especial, la violencia de género, e información sobre programas y actuaciones para la modificación de conductas y actitudes relacionadas con la violencia de género.
 - Actuaciones con el profesorado y el personal de administración y servicios: orientaciones sobre cómo intervenir ante una situación de violencia de género y cómo desarrollar acciones de sensibilización, prevención y rechazo de la violencia, así como actividades de formación específica. La dirección del centro se responsabilizará de que se lleven a cabo las actuaciones y las medidas previstas, inforPágina núm. 18 Sevilla, 7 de julio 2011 mando periódicamente a la comisión de convivencia, a las familias o responsables legales del alumnado, y al inspector o inspectora de referencia, del grado del cumplimiento de las mismas y de la situación escolar del alumnado implicado. Paso 11. Comunicación a las familias o responsables legales del alumnado. Se informará a las familias del alumnado implicado de las medidas y actuaciones de carácter individual, así como las medidas de carácter organizativo y preventivo propuestas para el grupo, nivel y centro educativo, observando en todo momento confidencialidad absoluta en el tratamiento del caso. Paso 12. Seguimiento del caso por parte de la inspección educativa. El inspector o inspectora de referencia realizará un seguimiento de las medidas y actuaciones definidas y aplicadas, así como de la situación escolar del alumnado implicado.
 
-## Anexo IV
+## Anexo IV. PROTOCOLO DE ACTUACIÓN EN CASO DE AGRESIÓN HACIA EL PROFESORADO O EL PERSONAL NO DOCENTE Caracterización. Este protocolo pretende articular los mecanismos de protección, asistencia y apoyo al profesorado o al personal que ejerce sus funciones en el ámbito de la enseñanza. En Andalucía, con fecha 3 de septiembre de 2010, se formalizó un protocolo marco de colaboración entre la Consejería de Educación de la Junta de Andalucía y el Ministerio Fiscal en la Comunidad Autónoma de Andalucía, para la coordinación de actuaciones ante determinados supuestos en el ámbito escolar, donde se incluía las agresiones al profesorado. Para la aplicación y desarrollo de lo establecido en el mencionado protocolo marco de colaboración se tendrá en cuenta lo que sigue:
 
-PROTOCOLO DE ACTUACIÓN EN CASO DE AGRESIÓN HACIA EL PROFESORADO O EL PERSONAL NO DOCENTE Caracterización. Este protocolo pretende articular los mecanismos de protección, asistencia y apoyo al profesorado o al personal que ejerce sus funciones en el ámbito de la enseñanza. En Andalucía, con fecha 3 de septiembre de 2010, se formalizó un protocolo marco de colaboración entre la Consejería de Educación de la Junta de Andalucía y el Ministerio Fiscal en la Comunidad Autónoma de Andalucía, para la coordinación de actuaciones ante determinados supuestos en el ámbito escolar, donde se incluía las agresiones al profesorado. Para la aplicación y desarrollo de lo establecido en el mencionado protocolo marco de colaboración se tendrá en cuenta lo que sigue:
 a) Conductas protegidas:
 - Agresiones.
 - Intimidaciones graves.
@@ -512,9 +1039,8 @@ Segundo. Tales hechos fueron presenciados por:
 
 Página núm. 22 Sevilla, 7 de julio 2011
 
-## Anexo V
+## Anexo V. MODELO DE COMPROMISO EDUCATIVO Anverso DATOS DEL CENTRO CÓDIGO CENTRO:
 
-MODELO DE COMPROMISO EDUCATIVO Anverso DATOS DEL CENTRO CÓDIGO CENTRO:
 DENOMINACIÓN:
 DOMICILIO:
 LOCALIDAD:
@@ -650,9 +1176,8 @@ Vº Bº: El director/a del centro Fdo.: ___________________
 
 Página núm. 24 Sevilla, 7 de julio 2011
 
-## Anexo VI
+## Anexo VI. MODELO DE COMPROMISO DE CONVIVENCIA Anverso DATOS DEL CENTRO CÓDIGO CENTRO:
 
-MODELO DE COMPROMISO DE CONVIVENCIA Anverso DATOS DEL CENTRO CÓDIGO CENTRO:
 DENOMINACIÓN:
 DOMICILIO:
 LOCALIDAD:
@@ -796,9 +1321,8 @@ Vº Bº: El director/a del centro Fdo.: ___________________
 
 Página núm. 26 Sevilla, 7 de julio 2011
 
-## Anexo VII
+## Anexo VII. MODELO DE ACUERDO PARA ATENCIÓN DE ALUMNADO AFECTADO POR MEDIDAS DISCIPLINARIAS DE SUSPENSIÓN DEL DERECHO DE ASISTENCIA AL CENTRO Anverso DATOS DEL CENTRO CÓDIGO CENTRO:
 
-MODELO DE ACUERDO PARA ATENCIÓN DE ALUMNADO AFECTADO POR MEDIDAS DISCIPLINARIAS DE SUSPENSIÓN DEL DERECHO DE ASISTENCIA AL CENTRO Anverso DATOS DEL CENTRO CÓDIGO CENTRO:
 DENOMINACIÓN:
 DOMICILIO:
 LOCALIDAD:
@@ -869,3 +1393,68 @@ PERSONAL PARA LA ATENCIÓN AL ALUMNADO Nombre: _________________________________
 Fdo.:
 FIRMA: el director/a del centro:
 Fdo.:
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) (Art. 5, Art. 127, Art. 29, Art. 30, Art. 31, Art. 32, Art. 33, Art. 34, Art. 14, Art. 44, D. Derogatoria única, D. Final sexta, D. Final quinta)
+- **Desarrolla**: [**D327_2010 ROC IES Andalucia**](../02_gestion_y_administracion_centros/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Art. 5, Art. 127, Art. 29, Art. 30, Art. 31, Art. 32, Art. 33, Art. 34, Art. 14, Art. 44, D. Derogatoria única, D. Final sexta, D. Final quinta)
+- **Desarrolla**: [**D328_2010 ROC Escuelas Infantiles y CEIP Andalucia**](../02_gestion_y_administracion_centros/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md) (Art. 5, Art. 127, Art. 29, Art. 30, Art. 31, Art. 32, Art. 33, Art. 34, Art. 14, Art. 44, D. Derogatoria única, D. Final sexta, D. Final quinta)
+- **Desarrolla**: [**Decreto 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Art. 5, Art. 127, Art. 29, Art. 30, Art. 31, Art. 32, Art. 33, Art. 34, Art. 14, Art. 44, D. Derogatoria única, D. Final sexta, D. Final quinta)
+- **Desarrolla**: [**Decreto 328/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md) (Art. 5, Art. 127, Art. 29, Art. 30, Art. 31, Art. 32, Art. 33, Art. 34, Art. 14, Art. 44, D. Derogatoria única, D. Final sexta, D. Final quinta)
+- **Desarrolla**: [**D19_2007 Derechos Deberes Alumnado Convivencia Andalucia**](./D19_2007_derechos_deberes_alumnado_normas_convivencia_andalucia.md) (Art. 5, Art. 127, Art. 29, Art. 30, Art. 31, Art. 32, Art. 33, Art. 34, Art. 14, Art. 44, D. Derogatoria única, D. Final sexta, D. Final quinta)
+- **Desarrolla**: [**Decreto 19/2007, de 23 de enero, por el que se adoptan medidas para la prom**](./D19_2007_promocion_cultura_paz_mejora_convivencia_centros_andalucia.md) (Art. 5, Art. 127, Art. 29, Art. 30, Art. 31, Art. 32, Art. 33, Art. 34, Art. 14, Art. 44, D. Derogatoria única, D. Final sexta, D. Final quinta)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 5, Art. 127, Art. 29, Art. 30, Art. 31, Art. 32, Art. 33, Art. 34, Art. 14, Art. 44, D. Derogatoria única, D. Final sexta, D. Final quinta)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 5, Art. 127, Art. 29, Art. 30, Art. 31, Art. 32, Art. 33, Art. 34, Art. 14, Art. 44, D. Derogatoria única, D. Final sexta, D. Final quinta)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 5, Art. 127, Art. 29, Art. 30, Art. 31, Art. 32, Art. 33, Art. 34, Art. 14, Art. 44, D. Derogatoria única, D. Final sexta, D. Final quinta)
+- **Desarrolla**: `norm-es-c-1978` (Art. 5, Art. 127, Art. 29, Art. 30, Art. 31, Art. 32, Art. 33, Art. 34, Art. 14, Art. 44, D. Derogatoria única, D. Final sexta, D. Final quinta)
+- **Desarrolla**: [**D327_2010 ROC IES Andalucia**](../02_gestion_y_administracion_centros/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Art. 66, Art. 64) desde *(Capítulo II. Promoción de la convivencia en los centros docentes., Art. 6)*
+- **Desarrolla**: [**D328_2010 ROC Escuelas Infantiles y CEIP Andalucia**](../02_gestion_y_administracion_centros/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md) (Art. 66, Art. 64) desde *(Capítulo II. Promoción de la convivencia en los centros docentes., Art. 6)*
+- **Desarrolla**: [**Decreto 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Art. 66, Art. 64) desde *(Capítulo II. Promoción de la convivencia en los centros docentes., Art. 6)*
+- **Desarrolla**: [**Decreto 328/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md) (Art. 66, Art. 64) desde *(Capítulo II. Promoción de la convivencia en los centros docentes., Art. 6)*
+- **Desarrolla**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Fundamentado en**: [**D327_2010 ROC IES Andalucia**](../02_gestion_y_administracion_centros/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Art. 24, Art. 22) desde *(Capítulo II. Promoción de la convivencia en los centros docentes., Art. 9)*
+- **Fundamentado en**: [**D328_2010 ROC Escuelas Infantiles y CEIP Andalucia**](../02_gestion_y_administracion_centros/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md) (Art. 24, Art. 22) desde *(Capítulo II. Promoción de la convivencia en los centros docentes., Art. 9)*
+- **Fundamentado en**: [**Decreto 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Art. 24, Art. 22) desde *(Capítulo II. Promoción de la convivencia en los centros docentes., Art. 9)*
+- **Fundamentado en**: [**Decreto 328/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md) (Art. 24, Art. 22) desde *(Capítulo II. Promoción de la convivencia en los centros docentes., Art. 9)*
+- **Fundamentado en**: [**D327_2010 ROC IES Andalucia**](../02_gestion_y_administracion_centros/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Art. 72, Art. 70) desde *(Capítulo II. Promoción de la convivencia en los centros docentes., Art. 13)*
+- **Fundamentado en**: [**D328_2010 ROC Escuelas Infantiles y CEIP Andalucia**](../02_gestion_y_administracion_centros/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md) (Art. 72, Art. 70) desde *(Capítulo II. Promoción de la convivencia en los centros docentes., Art. 13)*
+- **Fundamentado en**: [**Decreto 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Art. 72, Art. 70) desde *(Capítulo II. Promoción de la convivencia en los centros docentes., Art. 13)*
+- **Fundamentado en**: [**Decreto 328/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md) (Art. 72, Art. 70) desde *(Capítulo II. Promoción de la convivencia en los centros docentes., Art. 13)*
+- **Fundamentado en**: [**D327_2010 ROC IES Andalucia**](../02_gestion_y_administracion_centros/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Art. 12, Art. 10) desde *(Capítulo III. Participación de las familias en el proceso educativo., Art. 18)*
+- **Fundamentado en**: [**D328_2010 ROC Escuelas Infantiles y CEIP Andalucia**](../02_gestion_y_administracion_centros/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md) (Art. 12, Art. 10) desde *(Capítulo III. Participación de las familias en el proceso educativo., Art. 18)*
+- **Fundamentado en**: [**Decreto 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Art. 12, Art. 10) desde *(Capítulo III. Participación de las familias en el proceso educativo., Art. 18)*
+- **Fundamentado en**: [**Decreto 328/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md) (Art. 12, Art. 10) desde *(Capítulo III. Participación de las familias en el proceso educativo., Art. 18)*
+- **Fundamentado en**: [**D327_2010 ROC IES Andalucia**](../02_gestion_y_administracion_centros/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Art. 12, Art. 10) desde *(Capítulo III. Participación de las familias en el proceso educativo., Art. 19)*
+- **Fundamentado en**: [**D328_2010 ROC Escuelas Infantiles y CEIP Andalucia**](../02_gestion_y_administracion_centros/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md) (Art. 12, Art. 10) desde *(Capítulo III. Participación de las familias en el proceso educativo., Art. 19)*
+- **Fundamentado en**: [**Decreto 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Art. 12, Art. 10) desde *(Capítulo III. Participación de las familias en el proceso educativo., Art. 19)*
+- **Fundamentado en**: [**Decreto 328/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md) (Art. 12, Art. 10) desde *(Capítulo III. Participación de las familias en el proceso educativo., Art. 19)*
+- **Fundamentado en**: [**D327_2010 ROC IES Andalucia**](../02_gestion_y_administracion_centros/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Art. 23, Art. 21) desde *(Capítulo III. Participación de las familias en el proceso educativo., Art. 20)*
+- **Fundamentado en**: [**D328_2010 ROC Escuelas Infantiles y CEIP Andalucia**](../02_gestion_y_administracion_centros/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md) (Art. 23, Art. 21) desde *(Capítulo III. Participación de las familias en el proceso educativo., Art. 20)*
+- **Fundamentado en**: [**Decreto 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Art. 23, Art. 21) desde *(Capítulo III. Participación de las familias en el proceso educativo., Art. 20)*
+- **Fundamentado en**: [**Decreto 328/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md) (Art. 23, Art. 21) desde *(Capítulo III. Participación de las familias en el proceso educativo., Art. 20)*
+- **Fundamentado en**: [**D327_2010 ROC IES Andalucia**](../02_gestion_y_administracion_centros/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Art. 11, Art. 9, D. Adicional Segunda, D. Adicional segunda) desde *(Capítulo III. Participación de las familias en el proceso educativo., D. Final segunda. Entrada en vigor.)*
+- **Fundamentado en**: [**D328_2010 ROC Escuelas Infantiles y CEIP Andalucia**](../02_gestion_y_administracion_centros/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md) (Art. 11, Art. 9, D. Adicional Segunda, D. Adicional segunda) desde *(Capítulo III. Participación de las familias en el proceso educativo., D. Final segunda. Entrada en vigor.)*
+- **Fundamentado en**: [**Decreto 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Art. 11, Art. 9, D. Adicional Segunda, D. Adicional segunda) desde *(Capítulo III. Participación de las familias en el proceso educativo., D. Final segunda. Entrada en vigor.)*
+- **Fundamentado en**: [**Decreto 328/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md) (Art. 11, Art. 9, D. Adicional Segunda, D. Adicional segunda) desde *(Capítulo III. Participación de las familias en el proceso educativo., D. Final segunda. Entrada en vigor.)*
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- **En concordancia con**: [**D19_2007 Derechos Deberes Alumnado Convivencia Andalucia**](./D19_2007_derechos_deberes_alumnado_normas_convivencia_andalucia.md) desde *(Capítulo II. Promoción de la convivencia en los centros docentes.)*
+- **En concordancia con**: [**Decreto 19/2007, de 23 de enero, por el que se adoptan medidas para la prom**](./D19_2007_promocion_cultura_paz_mejora_convivencia_centros_andalucia.md) desde *(Capítulo II. Promoción de la convivencia en los centros docentes.)*
+- **Cita a**: [**D327_2010 ROC IES Andalucia**](../02_gestion_y_administracion_centros/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Art. 23) desde *(Capítulo II. Promoción de la convivencia en los centros docentes., Art. 8)*
+- **Cita a**: [**D328_2010 ROC Escuelas Infantiles y CEIP Andalucia**](../02_gestion_y_administracion_centros/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md) (Art. 23) desde *(Capítulo II. Promoción de la convivencia en los centros docentes., Art. 8)*
+- **Cita a**: [**Decreto 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Art. 23) desde *(Capítulo II. Promoción de la convivencia en los centros docentes., Art. 8)*
+- **Cita a**: [**Decreto 328/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md) (Art. 23) desde *(Capítulo II. Promoción de la convivencia en los centros docentes., Art. 8)*
+- **Cita a**: [**D327_2010 ROC IES Andalucia**](../02_gestion_y_administracion_centros/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Art. 34, Art. 37, Art. 33, Art. 36) desde *(Capítulo II. Promoción de la convivencia en los centros docentes., Art. 8)*
+- **Cita a**: [**D328_2010 ROC Escuelas Infantiles y CEIP Andalucia**](../02_gestion_y_administracion_centros/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md) (Art. 34, Art. 37, Art. 33, Art. 36) desde *(Capítulo II. Promoción de la convivencia en los centros docentes., Art. 8)*
+- **Cita a**: [**Decreto 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Art. 34, Art. 37, Art. 33, Art. 36) desde *(Capítulo II. Promoción de la convivencia en los centros docentes., Art. 8)*
+- **Cita a**: [**Decreto 328/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md) (Art. 34, Art. 37, Art. 33, Art. 36) desde *(Capítulo II. Promoción de la convivencia en los centros docentes., Art. 8)*
+- **Cita a**: [**D327_2010 ROC IES Andalucia**](../02_gestion_y_administracion_centros/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Art. 12, Art. 13, Art. 10, Art. 11) desde *(Capítulo III. Participación de las familias en el proceso educativo., Art. 15)*
+- **Cita a**: [**D328_2010 ROC Escuelas Infantiles y CEIP Andalucia**](../02_gestion_y_administracion_centros/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md) (Art. 12, Art. 13, Art. 10, Art. 11) desde *(Capítulo III. Participación de las familias en el proceso educativo., Art. 15)*
+- **Cita a**: [**Decreto 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Art. 12, Art. 13, Art. 10, Art. 11) desde *(Capítulo III. Participación de las familias en el proceso educativo., Art. 15)*
+- **Cita a**: [**Decreto 328/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md) (Art. 12, Art. 13, Art. 10, Art. 11) desde *(Capítulo III. Participación de las familias en el proceso educativo., Art. 15)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](../../../estatal/01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 14) desde *(Capítulo III. Participación de las familias en el proceso educativo., D. Final segunda. Entrada en vigor.)*

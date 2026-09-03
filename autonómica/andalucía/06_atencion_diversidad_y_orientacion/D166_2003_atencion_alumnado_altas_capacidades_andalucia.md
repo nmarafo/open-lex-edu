@@ -26,12 +26,32 @@ tags:
 - andalucia
 relaciones:
   desarrolla:
+  - norma_id: norm-and-d-254-2001
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    titulo_destino: Título VIII
+    articulos_destino:
+    - Art. 17
+    - Art. 7
+  - norma_id: norm-es-l-31-1995
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    titulo_destino: Título VIII
+    articulos_destino:
+    - Art. 17
+    - Art. 7
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
+  - norma_id: norm-and-d-254-2001
+    articulos_origen:
+    - Art. 1
+    articulos_destino:
+    - Art. 9
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-1-1996
 ---
+
 # Decreto 166/2003, de 17 de junio, sobre atención educativa al alumnado con altas capacidades intelectuales.
 
 ## Preámbulo
@@ -58,10 +78,9 @@ Se faculta al titular de la Consejería de Economía y Hacienda para dictar las 
 
 #### Disposición final segunda. Entrada en vigor.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 24 de junio de 2003 MANUEL CHAVES GONZALEZ Presidente de la Junta de Andalucía MAGDALENA ALVAREZ ARZA Consejera de Economía y Hacienda Ver Anexo en fascículo 2 de 2 de este mismo número CONSEJERIA DE EMPLEO Y DESARROLLO TECNOLOGICO ORDEN de 10 de junio de 2003, por la que se regula y convoca la concesión de subvenciones a empresas que realicen Proyectos e Inversiones y/o Actividades de buenas prácticas preventivas dirigidas al control de los Riesgos Laborales. P R E A M B U L O El artículo 17.2 del Estatuto de Autonomía para Andalucía, establece que corresponde a la Comunidad Autónoma de Andalucía la ejecución de la legislación laboral, siendo una de las materias propias integradas en la mencionada función ejecutiva la correspondiente a la prevención de los riesgos laborales. La Consejería de Empleo y Desarrollo Tecnológico, como órgano competente de la Administración Andaluza en estas materias, y de acuerdo con el artículo 7 de la Ley 31/1995 de 8 de noviembre, de Prevención de Riesgos Laborales (LPRL), referente a las actuaciones de las Administraciones Públicas competentes en materia laboral, ha venido desarrollando una política propia de prevención de los riesgos asociados al trabajo en el ámbito de la Comunidad Autónoma de Andalucía. En la ejecución de esta política, ha tenido un papel primordial la realización de actividades de fomento tendentes a la mejora de las condiciones de trabajo, la reducción de los riesgos laborales y la promoción de estructuras eficaces de prevención en las pequeñas y medianas empresas. Estas actuaciones, que han contado con el apoyo y colaboración de las organizaciones empresariales y sindicales, han sido refrendadas por éstas a raíz de la firma del V Acuerdo de Concertación Social. Asimismo, el Parlamento de Andalucía en el último Dictamen de la Comisión de Empleo y Desarrollo Tecnológico relativo a la siniestralidad laboral, insta a la Consejería de Empleo y Desarrollo Tecnológico para que diseñe y desarrolle un Programa Integral de Prevención de Riesgos Laborales en Andalucía que incluya, entre otras acciones o actividades, una línea específica de subvenciones a empresas ligada a objetivos concretos de reducción de la siniestralidad. En cumplimiento de este mandato, y en consonancia con la nueva normativa estatal en la materia, que contempla la posibilidad de instrumentar la concesión de incentivos y ayudas económicas para programas específicos dirigidos a promover la mejora del ambiente de trabajo y el perfeccionamiento de los niveles de prevención, especialmente en las micro, pequeñas y medianas empresas, se ha considerado conveniente establecer un programa de ayudas específico con esta finalidad. Este programa pretende motivar al empresariado para que mejoren los niveles de seguridad y salud de los trabajadores mediante el apoyo a proyectos e inversiones para la incorporación de medidas contempladas en la planificación de la actividad preventiva, así como para actividades de desarrollo y difusión de buenas prácticas efectivas de prevención que cumplan con los requisitos legales establecidos en la normativa en esta materia. En la presente Orden se regulan las normas y procedimiento a seguir para la concesión de estas ayudas, de conformidad con lo establecido en el Título VIII de la Ley 5/1983, de 19 de julio, General de la Hacienda Pública de la Comunidad Autónoma de Andalucía (LGHPCAA) y el Decreto 254/2001, de 20 de noviembre, por el que se aprueba el Reglamento por el que se regulan los procedimientos para la concesión de subvenciones y ayudas públicas por la Administración de la Junta de Andalucía y sus Organismos Autónomos y su régimen jurídico. En su virtud, en uso de las facultades que me están conferidas, y a propuesta de la Dirección General de Trabajo y Seguridad Social.
 DISPONGO:
 
-#### Artículo 1. Objeto.
+#### Artículo . #### Artículo . #### Artículo 1. Objeto.
 
 1. La presente Orden regula y convoca para el año 2003 la concesión de ayudas económicas a las empresas que realicen actividades o proyectos relacionados con la Prevención de Riesgos Laborales (PRL) en el ámbito de los centros de trabajo de la Comunidad Autónoma de Andalucía.
 
@@ -76,3 +95,16 @@ DISPONGO:
 #### Artículo 2. Beneficiarios.
 
 Podrán ser beneficiarios de las ayudas reguladas en la presente Orden las empresas que lleven a cabo actividades o proyectos encuadrados en las modalidades que se definen
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**D254_2001 Atencion Alumnado Trastornos Desarrollo Andalucia**](./D254_2001_atencion_alumnado_trastornos_desarrollo_andalucia.md) (Título VIII, Art. 17, Art. 7) desde *(D. Final segunda. Entrada en vigor.)*
+- **Desarrolla**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](../../../estatal/02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md) (Título VIII, Art. 17, Art. 7) desde *(D. Final segunda. Entrada en vigor.)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**D254_2001 Atencion Alumnado Trastornos Desarrollo Andalucia**](./D254_2001_atencion_alumnado_trastornos_desarrollo_andalucia.md) (Art. 9) desde *(Art. 1)*
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)

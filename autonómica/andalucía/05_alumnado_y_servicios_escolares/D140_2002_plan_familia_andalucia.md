@@ -27,12 +27,18 @@ tags:
 - andalucia
 relaciones:
   desarrolla:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 39
+    - Art. 12
+    - Art. 149
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Decreto 140/2002, de 30 de abril, por el que se aprueba el Plan de Apoyo a las Familias Andaluzas.
 
 ## Preámbulo
@@ -46,7 +52,7 @@ Página núm.
 **7.128** Sevilla, 4 de mayo 2002 Las Instituciones Públicas deben asumir muchos de los servicios que actualmente prestan las familias, deben mostrar mayores cuotas de solidaridad con las mismas, en correspondencia con la solidaridad que la familia muestra para con el conjunto de la sociedad. Desde esta perspectiva, es necesario establecer medidas, servicios y ayudas al objeto de facilitar que las mujeres y hombres andaluces puedan optar libremente, sin condicionantes económicos o personales, a formar el tipo de familia que deseen, y a contribuir a reducir la sobrecarga familiar que recae aún hoy sobre las mujeres andaluzas, de forma que mujeres y hombres puedan afrontar de forma igualitaria su proyecto de desarrollo personal y profesional. Para la consecución de estos objetivos, el presente Decreto configura un marco general que permita el desarrollo de las medidas concretas. En su virtud, a propuesta del Consejero de Presidencia, previa deliberación del Consejo de Gobierno en su reunión del día 30 de abril de 2002,
 DISPONGO:
 
-## Capítulo I. OBJETO Y AMBITO artículo 1 Objeto. El presente Decreto tiene por objeto establecer un conjunto de medidas en favor de las familias andaluzas, para facilitar la vida familiar, así como la integración de la mujer y el hombre en la vida laboral en condiciones de igualdad.
+#### Artículo . #### Artículo . ## Capítulo I. OBJETO Y AMBITO artículo 1 Objeto. El presente Decreto tiene por objeto establecer un conjunto de medidas en favor de las familias andaluzas, para facilitar la vida familiar, así como la integración de la mujer y el hombre en la vida laboral en condiciones de igualdad.
 
 #### Artículo 2. Fines.
 
@@ -71,7 +77,7 @@ c) **Por situación derivada de acogimiento familiar permanente o preadoptivo.**
 
 3. A los efectos del presente Decreto, tendrán la consideración de familias andaluzas aquellas unidades familiares en las que todos sus miembros estén empadronados en un Municipio de la Comunidad Autónoma de Andalucía.
 
-## Capítulo II. Ayudas economicas por menores y partos multiples.
+### Capítulo II. Ayudas economicas por menores y partos multiples.
 
 #### Artículo 4. Ayudas.
 
@@ -108,7 +114,7 @@ Las ayudas económicas establecidas en el presente Capítulo serán compatibles 
 
 Sevilla, 4 de mayo 2002 Página núm. 7.129
 
-## Capítulo III. Reinsercion laboral.
+### Capítulo III. Reinsercion laboral.
 
 #### Artículo 7. Reincorporación a la actividad laboral por atención a hijos/as menores.
 
@@ -116,7 +122,7 @@ Sevilla, 4 de mayo 2002 Página núm. 7.129
 
 2. Las normas que se dicten en desarrollo del presente Decreto establecerán los requisitos necesarios para la aplicación a las empresas de dicho incentivo, que consistirá en una ayuda económica de hasta seis mil euros.
 
-## Capítulo IV. Centros de atencion socio-educativa (guarderias infantiles).
+### Capítulo IV. Centros de atencion socio-educativa (guarderias infantiles).
 
 #### Artículo 8. Plazas de centros de atención socio-educativa.
 
@@ -237,7 +243,7 @@ Otras medidas
 
 3. Las normas que se dicten en desarrollo del presente Decreto establecerán los requisitos para la firma de los Convenios con aquellas Organizaciones No Gubernamentales que fueran consideradas para la prestación de estas ayudas.
 
-## Capítulo VI. Incorporacion de las familias AL USO de las nuevas tecnologias.
+### Capítulo VI. Incorporacion de las familias AL USO de las nuevas tecnologias.
 
 #### Artículo 22. Acceso a las nuevas tecnologías.
 
@@ -259,7 +265,7 @@ Sevilla, 4 de mayo 2002 Página núm. 7.131
 
 Se impartirán cursos de formación para el manejo y utilización de equipos informáticos, la navegación por Internet, la utilización de correo electrónico y otras materias similares destinados a todas aquellas personas que puedan ser usuarias de los equipos informáticos facilitados o instalados por la aplicación de alguna de las medidas previstas en el presente Decreto.
 
-## Capítulo VII. Medidas a favor de los/as mayores y personas con discapacidad.
+### Capítulo VII. Medidas a favor de los/as mayores y personas con discapacidad.
 
 #### Sección 1. ª
 
@@ -382,7 +388,7 @@ c) En el supuesto de estar a cargo de familiares o convivientes, que éstos trab
 
 2. En aquellos Centros donde exista una demanda suficiente, se instalarán módulos de Informática, de al menos cinco ordenadores, al objeto de facilitar el acceso a todos/as aquellos/as usuarios/as que lo soliciten.
 
-## Capítulo VIII. Medidas instrumentales.
+### Capítulo VIII. Medidas instrumentales.
 
 #### Artículo 36. Horario de Centros de Salud.
 
@@ -464,8 +470,6 @@ Quedan derogadas todas aquellas disposiciones de igual o inferior rango, en cuan
 
 #### Disposición final segunda. Entrada en vigor.
 
-1. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía.
-
 2. La exigibilidad de las medidas previstas en los artículos a los que se refiere el párrafo primero de la Disposición anterior quedará supeditada a la efectividad que dispongan las medidas de adecuación o desarrollo a las que la misma se refiere. Entre tanto, seguirán vigentes las normas que pudieran entenderse derogadas por la Disposición derogatoria única.
 
 3. La medida prevista en el artículo 8 será.
@@ -482,3 +486,14 @@ Carácter del contrato: Los contratos se realizarán bajo la modalidad de «cont
 - Expediente académico.
 - Experiencia profesional relacionada con los requisitos de la convocatoria específica.
 - Otros méritos acreditados documentalmente. Los solicitantes que no obtengan contrato ni aparezcan relacionados como suplentes en el acta de Resolución podrán
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-c-1978` (Art. 39, Art. 12, Art. 149)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

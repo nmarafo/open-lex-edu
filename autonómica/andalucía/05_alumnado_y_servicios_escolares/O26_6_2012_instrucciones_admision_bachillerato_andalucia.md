@@ -31,11 +31,10 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Orden de 26 de junio de 2012, por la que se desarrolla la admisión de alumnado en Bachillerato y Formación Profesional.
 
 ## Preámbulo
-
-Núm. 133 página 6 9  de  julio  2012 Consejería de Hacienda y Administración Pública Orden de 21 de junio de 2012, por la que se establece la distribución de los créditos derivada del Decreto del Presidente 3/2012, de 5 de mayo, de la Vicepresidencia y sobre reestructuración de Consejerías. La reestructuración de Consejerías, realizada por el Decreto del Presidente 3/2012, de 5 de mayo, de la Vicepresidencia y sobre reestructuración de las Consejerías, reclama una adecuación entre las secciones presupuestarias que figuran en los estados de ingresos y gastos del Presupuesto de la Comunidad Autónoma de Andalucía para el año 2012, con objeto de proceder a una correcta gestión de los créditos, de acuerdo con la habilitación conferida a la Consejería de Hacienda y Administración Pública por la disposición final cuarta del citado Decreto, así como por la disposición adicional segunda de la Ley 18/2011, de 23 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para el año 2012. Por otro lado, es conveniente arbitrar procedimientos y mecanismos presupuestarios y contables específicos respecto a los programas presupuestarios afectados por la reestructuración de las Consejerías. Asimismo, todas estas medidas económico-presupuestarias inciden de forma inmediata en el ámbito de actuación tanto de los distintos centros gestores, como de los órganos de intervención, precisando ser armonizados a fin de minimizar tales efectos. En su virtud, y en uso de las atribuciones que me han sido conferidas, D I S P O N G O artículo 1 Codificación. A los efectos de la gestión y contabilización del Presupuesto, los créditos mantendrán la codificación con que figuran en los estados de ingresos y de gastos del Presupuesto de la Comunidad Autónoma de Andalucía para el ejercicio 2012, sin perjuicio de las competencias que, en virtud del Decreto del Presidente 3/2012, de 5 de mayo, de la Vicepresidencia y sobre reestructuración de las Consejerías, corresponden a las personas titulares de las mismas.
 
 #### Artículo 2. Créditos no afectados por la reestructuración.
 
@@ -51,8 +50,6 @@ Los créditos de las secciones presupuestarias que no se encuentren afectados po
 
 1. Las Consejerías que, conforme a lo dispuesto en el artículo 3.2 compartan programas presupuestarios, acordarán la distribución de las dotaciones de personal y de la Relación de Puestos de Trabajo, detallándose,
 
-9  de  julio  2012 Núm. 133 página 7 por centro de trabajo y código de puesto, en documento adjunto a la propuesta que se elabore conforme a lo establecido en dicho artículo.
-
 2. Hasta tanto se efectúen las modificaciones en las relaciones de puestos de trabajo, el personal continuará percibiendo la totalidad de sus retribuciones con cargo a los créditos a los que éstas venían imputándose.
 
 #### Artículo 5. Transferencias a las agencias, sociedades mercantiles y otros entes asimilados.
@@ -65,19 +62,13 @@ Los expedientes que se deriven de los créditos afectados por la reestructuraci�
 
 #### Disposición final única. Entrada en vigor.
 
-La presente Orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 21 de junio de 2012 carmen martínez aguayo Consejera de Hacienda y Administración Pública
-
-## Anexo I
-
-Relación de programas afectados por la distribución de competencias establecida en el Decreto del Presidente 3/2012, de 5 de mayo, de la Vicepresidencia y sobre reestructuración de Consejerías, cuya gestión afecta a una sola Consejería o Agencia Administrativa Consejerías
+## Anexo I. Relación de programas afectados por la distribución de competencias establecida en el Decreto del Presidente 3/2012, de 5 de mayo, de la Vicepresidencia y sobre reestructuración de Consejerías, cuya gestión afecta a una sola Consejería o Agencia Administrativa Consejerías
 
 #### Sección
 
 Código
 
 Programa Denominación Consejería Anterior Nueva Consejería 01.00 11A D.S.G. de Presidencia C. Presidencia C. de la Presidencia e Igualdad 01.00 12D Cobertura Informativa C. Presidencia C. de la Presidencia e Igualdad 01.00 12E C. Presidencia C. de la Presidencia e Igualdad 01.00 52C Comunicación Social C. Presidencia C. de la Presidencia e Igualdad 01.00 82A Acción Exterior C. Presidencia C. de la Presidencia e Igualdad 09.00 14B Administración de Justicia C. Gobernación y Justicia C. Justicia e Interior 09.00 22B Inter.,Emer.y Protección Civil C. Gobernación y Justicia C. Justicia e Interior 09.00 31N Just Juve y Serv. Judiciales C. Gobernación y Justicia C. Justicia e Interior 09.00 81A Coop.Económica y Coord. con CC.LL C. Gobernación y Justicia C.Administración Local y Relaciones Institucionales 12.00 42J Universidades Economía, Innovación y Ciencia C.Economía, Innovación, Ciencia y Empleo 12.00 54A Inves.Cientif.Innovación Economía, Innovación y Ciencia C.Economía, Innovación, Ciencia y Empleo 12.00 54H D.S.G.Economía, Innov.y Ciencia Economía, Innovación y Ciencia C.Economía, Innovación, Ciencia y Empleo 12.00 54I Serv.Tecnol. a la Ciudadanía Economía, Innovación y Ciencia C.Economía, Innovación, Ciencia y Empleo
-
-Núm. 133 página 8 9  de  julio  2012
 
 #### Sección
 
@@ -93,9 +84,7 @@ Código
 
 Programa Denominación Consejería Anterior Nueva Consejería 17.00 46A Infr., Centr. Y Orden Deportiva C.de Turismo, Comercio y Deporte C. Cultura y Deporte 17.00 46B Planificación y Prom. Deporte C.de Turismo, Comercio y Deporte C. Cultura y Deporte 17.00 75B Plani., Orden. y Fomento Turismo C.de Turismo, Comercio y Deporte C. Turismo y Comercio 17.00 75D Promoc. Calidad e Innov.Turis. C.de Turismo, Comercio y Deporte C. Turismo y Comercio 17.00 76A Ordenación y Promoción Comercial C.de Turismo, Comercio y Deporte C. Turismo y Comercio 18.00 31A D.S.G. Igualdad y Bienestar Social C. para la Igualdad y Bienestar Social C. Salud y Bienestar Social 18.00 31B Plan Sobre Drogodependencias C. para la Igualdad y Bienestar Social C. Salud y Bienestar Social 18.00 31E Atención a la Infancia C. para la Igualdad y Bienestar Social C. Salud y Bienestar Social 18.00 31G Bienestar Social C. para la Igualdad y Bienestar Social C. Salud y Bienestar Social 18.00 31P Servicio de Apoyo a Familias C. para la Igualdad y Bienestar Social C. Salud y Bienestar Social 18.00 31R Atención Dependencia, ENVEJ. Activo y Discapacidad C. para la Igualdad y Bienestar Social C. Salud y Bienestar Social 18.00 32E Inclusión Social C. para la Igualdad y Bienestar Social C. Salud y Bienestar Social 19.00 45A D.S.G.Cultura C. de Cultura C. Cultura y Deporte 19.00 45B Bienes Culturales C. de Cultura C. Cultura y Deporte 19.00 45C Innov.e Infraest. Culturales C. de Cultura C. Cultura y Deporte 19.00 45D Museos y Promoción del Arte C. de Cultura C. Cultura y Deporte 19.00 45H Libro, Archivos y Bibliotecas C. de Cultura C. Cultura y Deporte 19.00 45K Inst.e Indust.Culturales C. de Cultura C. Cultura y Deporte 20.00 44A D.S.G. Medio Ambiente C. Medio Ambiente C. Agricultura, Pesca y Medio Ambiente 20.00 44B Cambio Climático, Prevención y Calidad Ambiental C. Medio Ambiente C. Agricultura, Pesca y Medio Ambiente 20.00 44D Espacio Natural y Participación Ciudadana C. Medio Ambiente C. Agricultura, Pesca y Medio Ambiente 20.00 44E Gestión del Medio Natural C. Medio Ambiente C. Agricultura, Pesca y Medio Ambiente 20.00 44F Desarrollo Sostenible e Información C. Medio Ambiente C. Agricultura, Pesca y Medio Ambiente 20.00 51D Actuaciones en materia de agua C. Medio Ambiente C. Agricultura, Pesca y Medio Ambiente
 
-## Anexo II
-
-Relación de programas afectados por la distribución de competencias establecida en el Decreto del Presidente 3/2012, de 5 de mayo, de la Vicepresidencia y sobre reestructuración de Consejerías, cuya gestión afecta a más de una Consejería o Agencia Administrativa Consejerías y Agencias Administrativas
+## Anexo II. Relación de programas afectados por la distribución de competencias establecida en el Decreto del Presidente 3/2012, de 5 de mayo, de la Vicepresidencia y sobre reestructuración de Consejerías, cuya gestión afecta a más de una Consejería o Agencia Administrativa Consejerías y Agencias Administrativas
 
 #### Sección
 
@@ -103,10 +92,18 @@ Código
 
 Programa Denominación Consejería Anterior Comparten Nuevas Consejerías 01.00 82B Cooperación Internacional C. Presidencia C. Presidencia e Igualdad y C.Administración Local y Relaciones Institucionales
 
-Núm. 133 página 10 9  de  julio  2012
-
 #### Sección
 
 Código
 
 Programa Denominación Consejería Anterior Comparten Nuevas Consejerías 09.00 22A D.S.G. de Gobernación y Justicia C.Gobernación y Justicia C.Administración Local y Relaciones Institucionales, C.de la Presidencia e Igualdad y C. Justicia e Interior 09.00 31H Andaluces en el Mundo y Voluntariado C.Gobernación y Justicia C.Administración Local y Relaciones Institucionales Y C.de la Presidencia e Igualdad 09.00 22C Espectáculos Públicos y Juego C.Gobernación y Justicia C.Justicia e Interior Y C.Hacienda y Adm. Pública 14.00 32L. Empleab., Interm y Fom. Empleo C.Empleo C.Educación Y C.Economía, Innovación, Ciencia y Empleo 17.00 75A D.S.G.Turismo Comercio y Deporte C.de Turismo, Comercio y Deporte C. Turismo y Comercio Y C. Cultura y Deporte 18.00 31T Prev. y Protec. Violencia Género C. para la Igualdad y Bienestar Social C. Justicia e Interior e Instituto Andaluz de la Mujer
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

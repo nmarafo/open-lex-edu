@@ -32,6 +32,105 @@ tags:
 - reglamento-organico
 - roc
 relaciones:
+  cita:
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 123
+    - Art. 32
+    disposiciones_destino:
+    - D. Final sexta
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 123
+    - Art. 32
+    disposiciones_destino:
+    - D. Final sexta
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 123
+    - Art. 32
+    disposiciones_destino:
+    - D. Final sexta
+  - norma_id: norm-can-d-106-2009
+    articulos_origen:
+    - D. Adicional cuarta. Administrador o.
+    disposiciones_destino:
+    - D. Adicional segunda
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 5
+  - norma_id: norm-can-d-106-2009
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. ÓRGANOS DE GOBIERNO artículo 10 El equipo directivo
+      y los órganos. colegiados. Los centros docentes tendrán los siguientes órganos
+      de gobierno:.
+  - norma_id: norm-can-d-106-2009
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. ÓRGANOS DE GOBIERNO artículo 10 El equipo directivo
+      y los órganos. colegiados. Los centros docentes tendrán los siguientes órganos
+      de gobierno:.
+    articulos_origen:
+    - Art. 12
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. ÓRGANOS DE GOBIERNO artículo 10 El equipo directivo
+      y los órganos. colegiados. Los centros docentes tendrán los siguientes órganos
+      de gobierno:.
+    articulos_origen:
+    - Art. 12
+  - norma_id: norm-can-d-106-2009
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. ÓRGANOS DE GOBIERNO artículo 10 El equipo directivo
+      y los órganos. colegiados. Los centros docentes tendrán los siguientes órganos
+      de gobierno:.
+    articulos_origen:
+    - Art. 15
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. ÓRGANOS DE GOBIERNO artículo 10 El equipo directivo
+      y los órganos. colegiados. Los centros docentes tendrán los siguientes órganos
+      de gobierno:.
+    articulos_origen:
+    - Art. 17
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. ÓRGANOS DE GOBIERNO artículo 10 El equipo directivo
+      y los órganos. colegiados. Los centros docentes tendrán los siguientes órganos
+      de gobierno:.
+    articulos_origen:
+    - Art. 22
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Órganos de coordinación y orientación docente.
+    articulos_origen:
+    - Art. 30
+  desarrolla:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. ÓRGANOS DE GOBIERNO artículo 10 El equipo directivo
+      y los órganos. colegiados. Los centros docentes tendrán los siguientes órganos
+      de gobierno:.
+    articulos_origen:
+    - Art. 16
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título III
+    capitulo_origen: Capítulo II. Evaluación institucional.
+    articulos_origen:
+    - Art. 45
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título III
+    capitulo_origen: Capítulo II. Evaluación institucional.
+    articulos_origen:
+    - Art. 45
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título III
+    capitulo_origen: Capítulo II. Evaluación institucional.
+    articulos_origen:
+    - Art. 45
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-rd-132-2010
   desarrollado_por:
   - norma_id: norm-can-o-2013-10-09
   - norma_id: norm-can-o-2023-09-28
@@ -57,20 +156,17 @@ relaciones:
   - norma_id: norm-can-res-boc-2026-116-87
   - norma_id: norm-can-res-juriscan-64838-121
   - norma_id: norm-can-res-juriscan-72788-60
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-can-l-6-2014
-  - norma_id: norm-es-rd-132-2010
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '60'
+  - norma_id: '60'
   - norma_id: norm-can-d-106-2009
   - norma_id: norm-can-o-2013-10-09
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-143-4245.pdf
 ---
+
 # Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -1084,3 +1180,48 @@ a) Reuniones de aula del alumnado, cuyo objetivo es crear hábitos de participac
 b) Reuniones de centro de padres y madres cuyo objetivo es fomentar la relación escuela-familia. Dichas reuniones serán convocadas por la dirección del centro y se desarrollarán en colaboración con el Claustro del profesorado, con los representantes de los padres y madres en el Consejo Escolar y las asociaciones de padres y madres del alumnado.
 c) Reuniones del profesorado, cuyo objetivo es mejorar la implicación del profesorado en la vida del centro.
 d) Reuniones mixtas formadas por miembros de la comunidad educativa.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-c-1978` desde *(Título II, Capítulo I. ÓRGANOS DE GOBIERNO artículo 10 El equipo directivo y los órganos. colegiados. Los centros docentes tendrán los siguientes órganos de gobierno:., Art. 16)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título III, Capítulo II. Evaluación institucional., Art. 45)*
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título III, Capítulo II. Evaluación institucional., Art. 45)*
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título III, Capítulo II. Evaluación institucional., Art. 45)*
+- **Desarrolla**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
+- **Fundamentado en**: [**D106_2009 Funcion Directiva en Centros Docentes Publicos**](./D106_2009_regula_funcion_directiva_centros_docentes_publicos.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](./O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamento de**: [**Resolucion BOC 27**](../03_ordenacion_curricular_y_ensenanzas/R10_12_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_oferta.md)
+- **Fundamento de**: [**Resolucion BOC 55**](../03_ordenacion_curricular_y_ensenanzas/R26_6_2025_dictan_instrucciones_especificas_complementarias_curso_organizacion.md)
+- **Fundamento de**: [**Resolucion BOC 75**](../03_ordenacion_curricular_y_ensenanzas/R4_2_2017_dictan_instrucciones_proceso_evaluacion_ensenanzas_deportivas.md)
+- **Fundamento de**: [**Resolucion BOC 1**](../01_marco_normativo_general_y_organico/R30_6_2017_dictan_instrucciones_actuacion_centros_docentes_sostenidos.md)
+- **Fundamento de**: [**Resolucion BOC 126**](../07_convivencia_bienestar_y_protocolos/R21_6_2018_dictan_instrucciones_organizacion_funcionamiento_dirigidas_centros.md)
+- **Fundamento de**: [**Resolucion BOC 57**](../03_ordenacion_curricular_y_ensenanzas/R27_6_2023_resoluci_n_junio_direcci_n_general.md)
+- **Fundamento de**: [**Resolucion BOC 93**](./R3_6_2024_resoluci_n_junio.md)
+- **Fundamento de**: [**Resolucion BOC 139**](../08_personal_docente/R24_2_2026_dictan_instrucciones_regulacion_periodo_vacacional_regimen.md)
+- **Fundamento de**: [**Resolucion BOC 92**](./R26_5_2026_resoluci_n_mayo.md)
+- **Fundamento de**: [**Resolucion BOC 87**](./R29_5_2026_dictan_instrucciones_especificas_complementarias_curso_organizacion.md)
+- **Fundamento de**: [**Resolucion BOC 121**](../06_atencion_diversidad_y_orientacion/R9_2_2011_dictan_instrucciones_procedimientos_plazos_atencion_educativa.md)
+- **Fundamento de**: [**Resolucion BOC 60**](../03_ordenacion_curricular_y_ensenanzas/R13_5_2015_innovacion_promocion_educativa_universidades_sostenibilidad_establecen.md)
+- **Cita a**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](./O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 123, Art. 32, D. Final sexta)
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 123, Art. 32, D. Final sexta)
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 123, Art. 32, D. Final sexta)
+- **Cita a**: [**D106_2009 Funcion Directiva en Centros Docentes Publicos**](./D106_2009_regula_funcion_directiva_centros_docentes_publicos.md) (D. Adicional segunda) desde *(D. Adicional cuarta. Administrador o.)*
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Art. 5)*
+- **Cita a**: [**D106_2009 Funcion Directiva en Centros Docentes Publicos**](./D106_2009_regula_funcion_directiva_centros_docentes_publicos.md) desde *(Título II, Capítulo I. ÓRGANOS DE GOBIERNO artículo 10 El equipo directivo y los órganos. colegiados. Los centros docentes tendrán los siguientes órganos de gobierno:.)*
+- **Cita a**: [**D106_2009 Funcion Directiva en Centros Docentes Publicos**](./D106_2009_regula_funcion_directiva_centros_docentes_publicos.md) desde *(Título II, Capítulo I. ÓRGANOS DE GOBIERNO artículo 10 El equipo directivo y los órganos. colegiados. Los centros docentes tendrán los siguientes órganos de gobierno:., Art. 12)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo I. ÓRGANOS DE GOBIERNO artículo 10 El equipo directivo y los órganos. colegiados. Los centros docentes tendrán los siguientes órganos de gobierno:., Art. 12)*
+- **Cita a**: [**D106_2009 Funcion Directiva en Centros Docentes Publicos**](./D106_2009_regula_funcion_directiva_centros_docentes_publicos.md) desde *(Título II, Capítulo I. ÓRGANOS DE GOBIERNO artículo 10 El equipo directivo y los órganos. colegiados. Los centros docentes tendrán los siguientes órganos de gobierno:., Art. 15)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo I. ÓRGANOS DE GOBIERNO artículo 10 El equipo directivo y los órganos. colegiados. Los centros docentes tendrán los siguientes órganos de gobierno:., Art. 17)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo I. ÓRGANOS DE GOBIERNO artículo 10 El equipo directivo y los órganos. colegiados. Los centros docentes tendrán los siguientes órganos de gobierno:., Art. 22)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo II. Órganos de coordinación y orientación docente., Art. 30)*

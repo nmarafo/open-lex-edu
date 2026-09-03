@@ -28,19 +28,164 @@ tags:
 - regimen-economico
 - titulacion
 relaciones:
+  cita:
+  - norma_id: norm-es-lo-8-1985
+    titulo_destino: Título IV
+    articulos_destino:
+    - Art. 20
+    - Art. 27
+    - Art. 47
+  - norma_id: norm-es-lo-8-1985
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 9
+  - norma_id: norm-es-lo-8-1985
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 10
+    - Art. 48
+  - norma_id: norm-es-lo-8-1985
+    articulos_origen:
+    - Art. 14
+    titulo_destino: Título IV
+  - norma_id: norm-es-lo-8-1985
+    capitulo_origen: Capítulo PRIMERO
+    articulos_origen:
+    - Art. 20
+    articulos_destino:
+    - Art. 48
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo PRIMERO
+    articulos_origen:
+    - Art. 26
+    articulos_destino:
+    - Art. 26
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo II. Centros de nueva creación artículo 28 Los centros
+      privados de nueva creación que vayan a impartir enseñanzas comprendidas en la
+      educación básica y deseen acogerse al régimen de conciertos lo solicitarán al
+      iniciarse el procedimiento de autorización administrativa. De no solicitarlo
+      en tal momento, no podrán acogerse a dicho régimen hasta que hayan transcurrido
+      cinco años desde la fecha de su autorización, tal y como establece la disposición
+      adicional quinta de la ley orgánica reguladora del Derecho a la Educación.
+    articulos_origen:
+    - Art. 29
+    articulos_destino:
+    - Art. 29
+  - norma_id: norm-es-lo-8-1985
+    capitulo_origen: Capítulo II. Centros de nueva creación artículo 28 Los centros
+      privados de nueva creación que vayan a impartir enseñanzas comprendidas en la
+      educación básica y deseen acogerse al régimen de conciertos lo solicitarán al
+      iniciarse el procedimiento de autorización administrativa. De no solicitarlo
+      en tal momento, no podrán acogerse a dicho régimen hasta que hayan transcurrido
+      cinco años desde la fecha de su autorización, tal y como establece la disposición
+      adicional quinta de la ley orgánica reguladora del Derecho a la Educación.
+    articulos_origen:
+    - Art. 51
+    articulos_destino:
+    - Art. 51
+    - Art. 62
+  - norma_id: norm-es-lo-8-1985
+    capitulo_origen: Capítulo II. Centros de nueva creación artículo 28 Los centros
+      privados de nueva creación que vayan a impartir enseñanzas comprendidas en la
+      educación básica y deseen acogerse al régimen de conciertos lo solicitarán al
+      iniciarse el procedimiento de autorización administrativa. De no solicitarlo
+      en tal momento, no podrán acogerse a dicho régimen hasta que hayan transcurrido
+      cinco años desde la fecha de su autorización, tal y como establece la disposición
+      adicional quinta de la ley orgánica reguladora del Derecho a la Educación.
+    articulos_origen:
+    - Art. 54
+    articulos_destino:
+    - Art. 54
+    - Art. 63
+  - norma_id: norm-es-lo-8-1985
+    capitulo_origen: Capítulo II. Centros de nueva creación artículo 28 Los centros
+      privados de nueva creación que vayan a impartir enseñanzas comprendidas en la
+      educación básica y deseen acogerse al régimen de conciertos lo solicitarán al
+      iniciarse el procedimiento de autorización administrativa. De no solicitarlo
+      en tal momento, no podrán acogerse a dicho régimen hasta que hayan transcurrido
+      cinco años desde la fecha de su autorización, tal y como establece la disposición
+      adicional quinta de la ley orgánica reguladora del Derecho a la Educación.
+    articulos_origen:
+    - Art. 60
+    articulos_destino:
+    - Art. 14
+  - norma_id: norm-es-lo-8-1985
+    capitulo_origen: Capítulo II. Centros de nueva creación artículo 28 Los centros
+      privados de nueva creación que vayan a impartir enseñanzas comprendidas en la
+      educación básica y deseen acogerse al régimen de conciertos lo solicitarán al
+      iniciarse el procedimiento de autorización administrativa. De no solicitarlo
+      en tal momento, no podrán acogerse a dicho régimen hasta que hayan transcurrido
+      cinco años desde la fecha de su autorización, tal y como establece la disposición
+      adicional quinta de la ley orgánica reguladora del Derecho a la Educación.
+    articulos_origen:
+    - Art. 60
+    articulos_destino:
+    - Art. 25
+  - norma_id: norm-es-lo-8-1985
+    capitulo_origen: Capítulo II. Centros de nueva creación artículo 28 Los centros
+      privados de nueva creación que vayan a impartir enseñanzas comprendidas en la
+      educación básica y deseen acogerse al régimen de conciertos lo solicitarán al
+      iniciarse el procedimiento de autorización administrativa. De no solicitarlo
+      en tal momento, no podrán acogerse a dicho régimen hasta que hayan transcurrido
+      cinco años desde la fecha de su autorización, tal y como establece la disposición
+      adicional quinta de la ley orgánica reguladora del Derecho a la Educación.
+    articulos_origen:
+    - Art. 60
+  fundamentado_en:
+  - norma_id: norm-es-lo-8-1985
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 8
+    - Art. 61
+  - norma_id: norm-es-lo-8-1985
+    capitulo_origen: Capítulo PRIMERO
+    articulos_origen:
+    - Art. 26
+    articulos_destino:
+    - Art. 60
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo PRIMERO
+    articulos_origen:
+    - Art. 26
+    articulos_destino:
+    - Art. 60
+  - norma_id: norm-es-lo-8-1985
+    capitulo_origen: Capítulo II. Centros de nueva creación artículo 28 Los centros
+      privados de nueva creación que vayan a impartir enseñanzas comprendidas en la
+      educación básica y deseen acogerse al régimen de conciertos lo solicitarán al
+      iniciarse el procedimiento de autorización administrativa. De no solicitarlo
+      en tal momento, no podrán acogerse a dicho régimen hasta que hayan transcurrido
+      cinco años desde la fecha de su autorización, tal y como establece la disposición
+      adicional quinta de la ley orgánica reguladora del Derecho a la Educación.
+    articulos_origen:
+    - Art. 60
+    articulos_destino:
+    - Art. 60
+  - norma_id: norm-es-lo-8-1985
+    capitulo_origen: Capítulo II. Centros de nueva creación artículo 28 Los centros
+      privados de nueva creación que vayan a impartir enseñanzas comprendidas en la
+      educación básica y deseen acogerse al régimen de conciertos lo solicitarán al
+      iniciarse el procedimiento de autorización administrativa. De no solicitarlo
+      en tal momento, no podrán acogerse a dicho régimen hasta que hayan transcurrido
+      cinco años desde la fecha de su autorización, tal y como establece la disposición
+      adicional quinta de la ley orgánica reguladora del Derecho a la Educación.
+    articulos_origen:
+    - Art. 60
+    articulos_destino:
+    - Art. 10
+  - norma_id: norm-es-ce-1978
   desarrolla:
   - norma_id: norm-es-lo-8-1985
-  fundamentado_en:
-  - norma_id: norm-es-ce-1978
-  desarrollado_por: []
-  fundamento_de:
-  - norma_id: norm-can-res-juriscan-63878-20
-  - norma_id: norm-can-res-boc-2022-158-21
   fundamentos_derecho:
   - norma_id: norm-es-lo-8-1985
   articulos:
-  - '27'
+  - norma_id: '27'
 ---
+
 # Real Decreto 2377/1985, de 18 de diciembre, por el que se aprueba el Reglamento de Normas Básicas sobre Conciertos Educativos.
 
 ## Preámbulo
@@ -428,3 +573,28 @@ JOSE MARIA MARAVALL HERRERO
 
 - [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md)
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md)
+- **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md) (Art. 8, Art. 61) desde *(Art. 8)*
+- **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md) (Art. 60) desde *(Capítulo PRIMERO, Art. 26)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 60) desde *(Capítulo PRIMERO, Art. 26)*
+- **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md) (Art. 60) desde *(Capítulo II. Centros de nueva creación artículo 28 Los centros privados de nueva creación que vayan a impartir enseñanzas comprendidas en la educación básica y deseen acogerse al régimen de conciertos lo solicitarán al iniciarse el procedimiento de autorización administrativa. De no solicitarlo en tal momento, no podrán acogerse a dicho régimen hasta que hayan transcurrido cinco años desde la fecha de su autorización, tal y como establece la disposición adicional quinta de la ley orgánica reguladora del Derecho a la Educación., Art. 60)*
+- **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md) (Art. 10) desde *(Capítulo II. Centros de nueva creación artículo 28 Los centros privados de nueva creación que vayan a impartir enseñanzas comprendidas en la educación básica y deseen acogerse al régimen de conciertos lo solicitarán al iniciarse el procedimiento de autorización administrativa. De no solicitarlo en tal momento, no podrán acogerse a dicho régimen hasta que hayan transcurrido cinco años desde la fecha de su autorización, tal y como establece la disposición adicional quinta de la ley orgánica reguladora del Derecho a la Educación., Art. 60)*
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md) (Título IV, Art. 20, Art. 27, Art. 47)
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md) (Art. 9) desde *(Art. 9)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md) (Art. 10, Art. 48) desde *(Art. 10)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md) (Título IV) desde *(Art. 14)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md) (Art. 48) desde *(Capítulo PRIMERO, Art. 20)*
+- **Cita a**: `norm-es-c-1978` (Art. 26) desde *(Capítulo PRIMERO, Art. 26)*
+- **Cita a**: `norm-es-c-1978` (Art. 29) desde *(Capítulo II. Centros de nueva creación artículo 28 Los centros privados de nueva creación que vayan a impartir enseñanzas comprendidas en la educación básica y deseen acogerse al régimen de conciertos lo solicitarán al iniciarse el procedimiento de autorización administrativa. De no solicitarlo en tal momento, no podrán acogerse a dicho régimen hasta que hayan transcurrido cinco años desde la fecha de su autorización, tal y como establece la disposición adicional quinta de la ley orgánica reguladora del Derecho a la Educación., Art. 29)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md) (Art. 51, Art. 62) desde *(Capítulo II. Centros de nueva creación artículo 28 Los centros privados de nueva creación que vayan a impartir enseñanzas comprendidas en la educación básica y deseen acogerse al régimen de conciertos lo solicitarán al iniciarse el procedimiento de autorización administrativa. De no solicitarlo en tal momento, no podrán acogerse a dicho régimen hasta que hayan transcurrido cinco años desde la fecha de su autorización, tal y como establece la disposición adicional quinta de la ley orgánica reguladora del Derecho a la Educación., Art. 51)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md) (Art. 54, Art. 63) desde *(Capítulo II. Centros de nueva creación artículo 28 Los centros privados de nueva creación que vayan a impartir enseñanzas comprendidas en la educación básica y deseen acogerse al régimen de conciertos lo solicitarán al iniciarse el procedimiento de autorización administrativa. De no solicitarlo en tal momento, no podrán acogerse a dicho régimen hasta que hayan transcurrido cinco años desde la fecha de su autorización, tal y como establece la disposición adicional quinta de la ley orgánica reguladora del Derecho a la Educación., Art. 54)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md) (Art. 14) desde *(Capítulo II. Centros de nueva creación artículo 28 Los centros privados de nueva creación que vayan a impartir enseñanzas comprendidas en la educación básica y deseen acogerse al régimen de conciertos lo solicitarán al iniciarse el procedimiento de autorización administrativa. De no solicitarlo en tal momento, no podrán acogerse a dicho régimen hasta que hayan transcurrido cinco años desde la fecha de su autorización, tal y como establece la disposición adicional quinta de la ley orgánica reguladora del Derecho a la Educación., Art. 60)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md) (Art. 25) desde *(Capítulo II. Centros de nueva creación artículo 28 Los centros privados de nueva creación que vayan a impartir enseñanzas comprendidas en la educación básica y deseen acogerse al régimen de conciertos lo solicitarán al iniciarse el procedimiento de autorización administrativa. De no solicitarlo en tal momento, no podrán acogerse a dicho régimen hasta que hayan transcurrido cinco años desde la fecha de su autorización, tal y como establece la disposición adicional quinta de la ley orgánica reguladora del Derecho a la Educación., Art. 60)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md) desde *(Capítulo II. Centros de nueva creación artículo 28 Los centros privados de nueva creación que vayan a impartir enseñanzas comprendidas en la educación básica y deseen acogerse al régimen de conciertos lo solicitarán al iniciarse el procedimiento de autorización administrativa. De no solicitarlo en tal momento, no podrán acogerse a dicho régimen hasta que hayan transcurrido cinco años desde la fecha de su autorización, tal y como establece la disposición adicional quinta de la ley orgánica reguladora del Derecho a la Educación., Art. 60)*

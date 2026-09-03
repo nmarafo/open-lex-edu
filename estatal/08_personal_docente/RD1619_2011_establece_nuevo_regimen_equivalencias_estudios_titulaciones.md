@@ -24,14 +24,24 @@ tags:
 - profesorado-de-religi-n
 - titulacion
 relaciones:
+  cita:
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 3
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final tercera. Título competencial.
+    articulos_destino:
+    - Art. 149
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-l-39-2015
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '1'
+  - norma_id: '1'
 ---
+
 # Real Decreto 1619/2011, de 14 de noviembre, por el que se establece el nuevo régimen de equivalencias de los estudios y titulaciones de Ciencias Eclesiásticas de nivel universitario respecto de los títulos universitarios oficiales españoles, en cumplimiento de lo dispuesto en el Acuerdo entre el Estado español y la Santa Sede de 3 de enero de 1979 sobre Enseñanza y Asuntos Culturales.
 
 ## Preámbulo
@@ -289,3 +299,13 @@ Facultad de Literatura Cristiana y Clásica «San Justino» de la Universidad Ec
 
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(D. Final tercera. Título competencial.)*
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: `norm-es-c-1978` desde *(Art. 3)*

@@ -24,14 +24,131 @@ tags:
 - neae
 - oposiciones
 relaciones:
-  fundamentado_en:
+  cita:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo I. Objeto, definiciones y principios.
+    articulos_origen:
+    - Art. 1
+    articulos_destino:
+    - Art. 9
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo IX. Obligaciones de los poderes públicos.
+    seccion_origen: Sección 2. ª Del personal de los distintos servicios de atención
+      a las personas con discapacidad
+    articulos_origen:
+    - Art. 62
   - norma_id: norm-es-1999-23750
+    titulo_origen: Título III
+    capitulo_origen: Capítulo I. Régimen común de infracciones y sanciones artículo
+      78 Ámbito. El régimen de infracciones y sanciones que se establece en este título
+      será común en todo el territorio del Estado y será objeto de tipificación por
+      el legislador autonómico, sin perjuicio de aquellas otras infracciones y sanciones
+      que pueda establecer en el ejercicio de sus competencias.
+    seccion_origen: Sección 3. ª Garantías del régimen sancionador
+    articulos_origen:
+    - Art. 92
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título III
+    capitulo_origen: Capítulo II. Normas específicas de aplicación por la Administración
+      General del Estado.
+    seccion_origen: Sección 3. ª Órganos competentes
+    articulos_origen:
+    - D. Adicional segunda. Tratamiento de la información.
+  fundamentado_en:
   - norma_id: norm-es-2000-544
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo II. Ámbito de aplicación.
+    articulos_origen:
+    - Art. 4
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título III
+    capitulo_origen: Capítulo II. Normas específicas de aplicación por la Administración
+      General del Estado.
+    seccion_origen: Sección 2. ª Procedimiento sancionador artículo 99 Normativa de
+      aplicación. Las infracciones y sanciones en el ámbito de las competencias de
+      la Administración General del Estado, se regirán por el procedimiento sancionador
+      previsto en el Título IX de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico
+      de las Administraciones Públicas y del Procedimiento Administrativo Común, y
+      en su normativa de desarrollo.
+    articulos_origen:
+    - Art. 104
+    articulos_destino:
+    - Art. 4
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo II. Normas específicas de aplicación por la Administración
+      General del Estado.
+    seccion_origen: Sección 3. ª Órganos competentes
+    articulos_origen:
+    - D. Final primera. Título competencial.
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo II. Normas específicas de aplicación por la Administración
+      General del Estado.
+    seccion_origen: Sección 3. ª Órganos competentes
+    articulos_origen:
+    - D. Final primera. Título competencial.
+    titulo_destino: Título II
+    capitulo_destino: Capítulo II
+    seccion_destino: Sección 2.ª
+    articulos_destino:
+    - Art. 149
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-8-1985
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. De la atención integral.
+    articulos_origen:
+    - Art. 16
+    capitulo_destino: Capítulo IV
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. De la atención integral.
+    articulos_origen:
+    - Art. 16
+    capitulo_destino: Capítulo IV
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. De la atención integral.
+    articulos_origen:
+    - Art. 16
+    capitulo_destino: Capítulo IV
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I
+    capitulo_origen: Capítulo IV. Derecho a la educación.
+    articulos_origen:
+    - Art. 21
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título I
+    capitulo_origen: Capítulo IV. Derecho a la educación.
+    articulos_origen:
+    - Art. 21
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I
+    capitulo_origen: Capítulo IV. Derecho a la educación.
+    articulos_origen:
+    - Art. 21
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I
+    capitulo_origen: Capítulo IV. Derecho a la educación.
+    articulos_origen:
+    - Art. 21
+  desarrolla:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo IV. Derecho a la educación.
+    articulos_origen:
+    - Art. 19
   fundamento_de:
   - norma_id: norm-es-2022-11589
   - norma_id: norm-es-2026-12038
@@ -39,12 +156,10 @@ relaciones:
   - norma_id: norm-es-l-9-2017
   - norma_id: norm-es-lo-3-2018
   - norma_id: norm-es-rdl-5-2015
-  - norma_id: norm-can-d-25-2018
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
+  - norma_id: '27'
   - norma_id: norm-es-2000-544
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-1999-23750
@@ -52,6 +167,7 @@ relaciones:
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
 ---
+
 # Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social.
 
 ## Preámbulo
@@ -1222,3 +1338,36 @@ Asimismo, en el caso de las enseñanzas universitarias, el Gobierno fomentará q
 - [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
 - [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-c-1978` desde *(Título I, Capítulo IV. Derecho a la educación., Art. 19)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Capítulo IV) desde *(Título I, Capítulo III. De la atención integral., Art. 16)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Capítulo IV) desde *(Título I, Capítulo III. De la atención integral., Art. 16)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Capítulo IV) desde *(Título I, Capítulo III. De la atención integral., Art. 16)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título I, Capítulo IV. Derecho a la educación., Art. 21)*
+- **Modifica**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) desde *(Título I, Capítulo IV. Derecho a la educación., Art. 21)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título I, Capítulo IV. Derecho a la educación., Art. 21)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título I, Capítulo IV. Derecho a la educación., Art. 21)*
+- **Fundamentado en**: [**BOE-A-2000-544**](../01_marco_normativo_general_y_organico/LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md) desde *(Título Preliminar, Capítulo II. Ámbito de aplicación., Art. 4)*
+- **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) (Art. 4) desde *(Título III, Capítulo II. Normas específicas de aplicación por la Administración General del Estado., Art. 104)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Título III, Capítulo II. Normas específicas de aplicación por la Administración General del Estado., D. Final primera. Título competencial.)*
+- **Fundamentado en**: `norm-es-c-1978` (Título II, Capítulo II, Sección 2.ª, Art. 149) desde *(Título III, Capítulo II. Normas específicas de aplicación por la Administración General del Estado., D. Final primera. Título competencial.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
+- **Fundamento de**: [**BOE-A-2022-11589**](./L15_2022_integral_igualdad_trato_no_discriminacion.md)
+- **Fundamento de**: [**BOE-A-2026-12038**](../03_ordenacion_curricular_y_ensenanzas/RD452_2026_establece_ordenacion_ensenanzas_profesionales_artes_plasticas.md)
+- **Fundamento de**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamento de**: [**L9_2017 Contratos del Sector Publico (LCSP)**](../02_gestion_y_administracion_centros/L9_2017_contratos_sector_publico_transponen_ordenamiento_juridico.md)
+- **Fundamento de**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
+- **Fundamento de**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Cita a**: `norm-es-c-1978` (Art. 9) desde *(Título Preliminar, Capítulo I. Objeto, definiciones y principios., Art. 1)*
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Capítulo IX. Obligaciones de los poderes públicos., Art. 62)*
+- **Cita a**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) (Art. 3) desde *(Título III, Capítulo I. Régimen común de infracciones y sanciones artículo 78 Ámbito. El régimen de infracciones y sanciones que se establece en este título será común en todo el territorio del Estado y será objeto de tipificación por el legislador autonómico, sin perjuicio de aquellas otras infracciones y sanciones que pueda establecer en el ejercicio de sus competencias., Art. 92)*
+- **Cita a**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título III, Capítulo II. Normas específicas de aplicación por la Administración General del Estado., D. Adicional segunda. Tratamiento de la información.)*

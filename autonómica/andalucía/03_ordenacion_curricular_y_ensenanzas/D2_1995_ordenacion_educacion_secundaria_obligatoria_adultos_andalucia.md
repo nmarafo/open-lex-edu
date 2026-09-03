@@ -24,6 +24,18 @@ tags:
 - eso_adultos
 - andalucia
 relaciones:
+  cita:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título SEGUNDO
+    capitulo_origen: Capítulo III. DEL CLAUSTRO PROVISIONAL
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 13
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título SEXTO
+    articulos_origen:
+    - D. Adicional ....
   desarrolla:
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
@@ -31,6 +43,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Decreto 2/1995, de 10 de enero, por el que se establece la ordenación de la Educación Secundaria Obligatoria para personas adultas.
 
 ## Preámbulo
@@ -321,7 +334,7 @@ Provisional.
 
 ### Capítulo V. DE LAS JUNTAS DE CENTRO
 
-## Capítulo 18. Las Juntas de Centro son los órganos Colegiados de gobierno ordinario de las correspondientes titulaciones.
+### Capítulo 18. Las Juntas de Centro son los órganos Colegiados de gobierno ordinario de las correspondientes titulaciones.
 
 Son funciones de la Junta de Centro:
 
@@ -355,9 +368,7 @@ a) Todos los profesores permanentes que impartan docencia en el Centro y una rep
 
 categorías docentes que figuren en los planes de ordenación docente de las titulaciones impartidas en el Centro y que supondrá en total el 60% de la Junta; b) el 30% de Alumnos elegidos entre los que se hayan matriculado en ese Centro, de forma que estén representadas todas la titulaciones del Centro; c) el 10% de P.A.S.
 
-#### Artículo 20.
-
-La Junta de Centro se reunirá, al menos, una vez al trimestre a iniciativa del Decano/Director o cuando lo solicite un tercio de sus miembros. Se dotará de un Reglamento de Régimen Interno.
+#### Artículo 20. La Junta de Centro se reunirá, al menos, una vez al trimestre a iniciativa del Decano/Director o cuando lo solicite un tercio de sus miembros. Se dotará de un Reglamento de Régimen Interno.
 
 ### Capítulo VI. DE LOS CONSEJOS DE DEPARTAMENTO artículo 21 El Consejo de Departamento es el órgano colegiado de gobierno del mismo. Corresponde al Consejo:
 
@@ -531,9 +542,7 @@ pertenecientes a los cuerpos docentes universitarios. En último término, si no
 
 3. El Director del Departamento cesará a petición propia, por revocación del Consejo o por haber transcurrido el período para el que fue elegido.
 
-#### Artículo 30.
-
-l. El Consejo de Departamento propondrá, para su nombramiento por el Rector, un Secretario de entre los Profesores del
+#### Artículo 30. l. El Consejo de Departamento propondrá, para su nombramiento por el Rector, un Secretario de entre los Profesores del
 
 Departamento .
 
@@ -595,9 +604,7 @@ periódicamente evaluado en condiciones de efectividad y claridad.
 
 #### Artículo 39. La Universidad de Almería podrá conceder el título de Doctor Honoris Causa a aquellas personas que, en atención A sus méritos, sean acreedoras de tal consideración. La concesión se hará a iniciativa del Consejo de Departamento y será aprobada por la Junta de Centro correspondiente que la trasladará A la Comisión Gestora para que formule la propuesta razonada, que deberá ser aprobada por el Claustro Provisional.
 
-#### Artículo 40.
-
-La Universidad de Almería apoyará la realización de investigación mediante las siguientes acciones:
+#### Artículo 40. La Universidad de Almería apoyará la realización de investigación mediante las siguientes acciones:
 
 a) La dedicación de una parte de su presupuesto a gastos y dotación de recursos materiales y humanos relacionados con la misma.
 
@@ -625,7 +632,7 @@ personal de la Universidad que participe en los mismos.
 
 f) Establecer cauces para que los profesores no doctores adquieran plena capacidad investigadora, propiciando la realización de la tesis doctoral.
 
-## Título CUARTO. DE LA COMUNIDAD UNIVERSITARIA
+## Título C. UARTO. DE LA COMUNIDAD UNIVERSITARIA
 
 #### Artículo 41. 1. La Comunidad Universitaria está formada por el Personal Docente e Investigador, los Estudiantes y el Personal de Administración y Servicios.
 
@@ -665,9 +672,7 @@ Institución.
 
 ### Capítulo II. DE LOS ESTUDIANTES
 
-#### Artículo 50.
-
-1. Son estudiantes de la Universidad de Almería quienes se hallen matriculados en esta Universidad.
+#### Artículo 50. 1. Son estudiantes de la Universidad de Almería quienes se hallen matriculados en esta Universidad.
 
 2. La Universidad de Almería procurará una enseñanza cualificada y en condiciones materiales dignas a sus estudiantes, fomentando su desarrollo integral, acrecentando sus conocimientos
 
@@ -747,9 +752,7 @@ actualizados los censos electorales correspondientes.
 
 #### Artículo 59. 1.- La Junta Electoral de la Universidad, las Juntas Electorales de los Centros y las de los Departamentos constituyen la organización electoral de la Universidad.
 
-#### Artículo 60.
-
-1.- La Junta Electoral de la Universidad estará formada por la Comisión Gestora.
+#### Artículo 60. 1.- La Junta Electoral de la Universidad estará formada por la Comisión Gestora.
 
 2.- Compete a la Junta Electoral de la Universidad:
 
@@ -811,9 +814,7 @@ circunscriba al Centro y Departamento respectivos.
 
 3. En todo caso, para que la elección a órganos unipersonales sea válida, el número de votos emitidos tiene que ser igual o superior a la tercera parte del número de electores.
 
-#### Disposición adicional ....
-
-A los efectos del número mínimo de profesores necesarios para constituir Departamentos, previa solicitud motivada a la Comisión Gestora y documentada fehacientemente se podrá de forma excepcional, constituir un Departamento durante el período transitorio hasta la elaboración de los Estatutos con un mínimo de nueve profesores a tiempo completo incluyéndose en ellos un mínimo de 5 Profesores Funcionarios a tiempo completo.
+#### Disposición adicional . ... A los efectos del número mínimo de profesores necesarios para constituir Departamentos, previa solicitud motivada a la Comisión Gestora y documentada fehacientemente se podrá de forma excepcional, constituir un Departamento durante el período transitorio hasta la elaboración de los Estatutos con un mínimo de nueve profesores a tiempo completo incluyéndose en ellos un mínimo de 5 Profesores Funcionarios a tiempo completo.
 
 ### Disposiciones transitorias
 
@@ -843,9 +844,7 @@ La duración de los mandatos establecida en los artículos 22.2
 
 29 2 y 32.2 se adecuará a lo que establezcan los Estatutos de la Universidad.
 
-#### Disposición final ....
-
-La presente Normativa Provisional entrará en vigor al día siguiente de su publicación en el
+#### Disposición final . ... La presente Normativa Provisional entrará en vigor al día siguiente de su publicación en el
 
 Descargar PDF
 
@@ -998,3 +997,15 @@ Canal de denuncias interno
 Política de cookies
 
 Protección de datos
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: `norm-es-c-1978` (Art. 13) desde *(Título SEGUNDO, Capítulo III. DEL CLAUSTRO PROVISIONAL, Art. 13)*
+- **Cita a**: `norm-es-c-1978` desde *(Título SEXTO, D. Adicional ....)*

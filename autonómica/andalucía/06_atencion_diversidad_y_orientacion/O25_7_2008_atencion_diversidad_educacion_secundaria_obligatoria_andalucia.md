@@ -34,6 +34,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-1-1996
 ---
+
 # Orden de 25 de julio de 2008, por la que se regula la atención a la diversidad del alumnado que cursa la Educación Secundaria Obligatoria.
 
 ## Preámbulo
@@ -78,8 +79,6 @@ Boletín 167
 
 ##
 
-Histórico del BOJA Boletín número 167 de 22/08/2008
-
 ## 1. Disposiciones generales
 
 ### Consejería de Educación
@@ -115,9 +114,7 @@ Teresa Jiménez Vílchez
 
 Consejera de Educación
 
-## Anexo I
-
-RELACIÓN DE ESCUELAS HOGAR CON LAS QUE SE FORMALIZARÁ ÚNICAMENTE CONVENIO PARA LA ATENCIÓN DEL ALUMNADO EN RÉGIMEN DE INTERNADO
+## Anexo I. RELACIÓN DE ESCUELAS HOGAR CON LAS QUE SE FORMALIZARÁ ÚNICAMENTE CONVENIO PARA LA ATENCIÓN DEL ALUMNADO EN RÉGIMEN DE INTERNADO
 
 Provincia: Cádiz.
 
@@ -257,9 +254,7 @@ Importe Total Anualidad 2008 Anualidad 2009 Plazas
 
 473.171,10 € 189.268,44 € 283.902,66 € 120
 
-## Anexo II
-
-ESCUELA HOGAR CON LA QUE SE FORMALIZARÁ CONVENIO PARA LA REALIZACIÓN DE SERVICIOS Y ACTIVIDADES COMPLEMENTARIAS
+## Anexo II. ESCUELA HOGAR CON LA QUE SE FORMALIZARÁ CONVENIO PARA LA REALIZACIÓN DE SERVICIOS Y ACTIVIDADES COMPLEMENTARIAS
 
 ESTE CONVENIO NO CONLLEVA DOTACIÓN DE PERSONAL DEPENDIENTE DE LA JUNTA DE ANDALUCÍA
 
@@ -271,9 +266,7 @@ Importe Total Anualidad 2008 Anualidad 2009 Plazas
 
 91.087,50 € 36.435,00 € 54.652,50 € 50
 
-## Anexo III
-
-RELACIÓN DE ENTIDADES CON LAS QUE SE FORMALIZARÁ CONVENIO PARA LA PRESTACIÓN DEL SERVICIO DE RESIDENCIA A ALUMNADO CON NECESIDADES EDUCATIVAS
+## Anexo III. RELACIÓN DE ENTIDADES CON LAS QUE SE FORMALIZARÁ CONVENIO PARA LA PRESTACIÓN DEL SERVICIO DE RESIDENCIA A ALUMNADO CON NECESIDADES EDUCATIVAS
 
 ESPECIALES
 
@@ -319,9 +312,7 @@ Importe Total Anualidad 2008 Anualidad 2009 Plazas
 
 234.598,00 € 93.839,20 € 140.758,80 € 26
 
-## Anexo IV
-
-ENTIDAD CON LA QUE NO SE FORMALIZARÁ CONVENIO
+## Anexo IV. ENTIDAD CON LA QUE NO SE FORMALIZARÁ CONVENIO
 
 Provincia: Jaén.
 
@@ -363,3 +354,13 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)

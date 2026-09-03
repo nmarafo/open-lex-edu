@@ -24,13 +24,42 @@ tags:
 - primaria
 - andalucia
 relaciones:
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
+  cita:
+  - norma_id: norm-and-d-254-2001
+    articulos_origen:
+    - Art. 1
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 3
+  - norma_id: norm-and-d-204-1995
+    articulos_origen:
+    - Art. 12
   fundamentado_en:
+  - norma_id: norm-es-1999-23750
+    articulos_origen:
+    - Art. 12
+    articulos_destino:
+    - Art. 13
+  - norma_id: norm-es-1999-23750
+    seccion_origen: Sección 8. ª, sobre ayudas para la transformación y comercialización
+      de los productos agroalimentarios, del Decreto
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+  desarrolla:
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 12
+    articulos_destino:
+    - Art. 13
+    - Art. 29
+  - norma_id: norm-es-lo-2-2006
 ---
+
 # Orden de 23 de abril de 2007, por la que se regula la evaluación del alumnado en la Educación Primaria en Andalucía.
 
 ## Preámbulo
@@ -38,7 +67,7 @@ relaciones:
 Sevilla, 8 de mayo 2007 Página núm. 5 CONSEJERÍA DE AGRICULTURA Y PESCA ORDEN de 25 de abril de 2007, por la que se establecen las bases reguladoras para la concesión de subvenciones para la transformación y comercialización de productos agrícolas, y se efectúa su convocatoria para 2007. El Programa Operativo Integrado de la Comunidad Autónoma de Andalucía para el período 2000-2006 establecía como uno de sus ejes destinado a la agricultura y desarrollo rural el objetivo de mejorar y racionalizar los procedimientos de manipulación y transformación de los productos agrarios y alimentarios y los canales de comercialización, la mejora de la presentación de los productos y mejor uso o eliminación de los subproductos o residuos generados, la aplicación de nuevas tecnologías, la mejora del control de calidad, condiciones sanitarias y la adaptación ambiental, así como el apoyo a la integración de la agroindustria mediante servicios comunes de cooperación. Como plasmación normativa de ese Programa, mediante Decreto 280/2001, de 26 de diciembre, se establecen las ayudas de la Junta de Andalucía a los sectores agrícolas, ganadero y forestal incluidas en el Programa Operativo Integrado Regional de Andalucía para el desarrollo del Marco Comunitario de Apoyo 2000-2006. En la sección 8.ª del citado Decreto se contemplaban las ayudas para la transformación y comercialización de los productos agroalimentarios. A su vez, fueron objeto de desarrollo normativo mediante la Orden de 10 de julio de 2002. Por otra parte, el Reglamento (CE) núm. 1698/2005 del Consejo, de 20 de septiembre de 2005, relativo a la ayuda al desarrollo rural a través del Fondo Europeo Agrícola de Desarrollo Rural, establece las normas generales de la ayuda comunitaria al desarrollo rural y la participación de ese Fondo en la financiación de una serie de medidas. Dicha participación se instrumenta a través de los programas de desarrollo rural que los Estados miembros deben presentar a ese efecto. En su Título I, dedicado a los objetivos y normas generales, el artículo 4.1 incluye como objetivo el de aumentar la competitividad de la agricultura y la silvicultura mediante la ayuda a la reestructuración, el desarrollo y la innovación. Asimismo, en su Título IV establece que la ayuda a favor de la competitividad del sector agrícola y forestal consistirá en medidas de reestructuración y desarrollo del potencial físico y de fomento de la innovación a través del aumento del valor añadido de los productos agrícolas y forestales. Es por ello que las subvenciones antes referidas, contempladas entre las medidas definidas en el citado Reglamento, han sido incluidas en el Programa de Desarrollo Rural de Andalucía para el período 2007-2013, si bien estarán condicionadas a la aprobación del Programa de Desarrollo Rural correspondiente, conforme al Reglamento (CE) núm. 1698/2005 anteriormente referido, y en ese caso, las subvenciones serán objeto de cofinanciación de la Unión Europea con fondos del Fondo Europeo Agrícola de Desarrollo Rural (FEADER). Por lo tanto, procede abordar mediante la presente Orden la normativa reguladora de la concesión de las subvenciones para la transformación y comercialización de los productos agrícolas, que deberán contribuir a mejorar la situación del sector de la producción agraria básica correspondiente, garantizando a los productores de los productos básicos una participación adecuada en las ventajas económicas obtenidas. En otro orden de cosas, la Orden incorpora de forma expresa la posibilidad de presentar las solicitudes de ayudas de forma telemática, ajustándose a las previsiones que al respecto se contienen en el Decreto 183/2003, de 24 de junio, por el que se establece la regulación y tramitación de los procedimientos administrativos por medios electrónicos. Por otra parte, el Decreto 204/2004, de 11 de mayo, por el que se regula la estructura orgánica de la Consejería de Agricultura y Pesca, establece en su artículo 1 que corresponde a la Consejería las competencias atribuidas a la Comunidad Autónoma de Andalucía en materia de la política agraria, pesquera, agroalimentaria y de desarrollo rural. En su virtud, a propuesta del Director General de Industrias y Calidad Agroalimentaria y del Director General de Agricultura Ecológica, y en uso de las facultades que me confiere el artículo 107 de la Ley 5/1983, de 19 de julio, de la Hacienda Pública de la Comunidad Autónoma de Andalucía,
 DISPONGO:
 
-#### Artículo 1. Objeto.
+#### Artículo . #### Artículo . #### Artículo 1. Objeto.
 
 1. La presente Orden tiene por objeto establecer las bases reguladoras para la concesión de subvenciones para la transformación y comercialización de productos agrícolas, entendiéndose como tales los definidos en el apartado 6 de las Directrices Comunitarias sobre ayudas estatales al sector agrario y forestal 2007-2013 (DO C 319 de 27.12.2006).
 
@@ -125,7 +154,6 @@ i) **En el sector de tabaco.** Todas las inversiones.
 #### Artículo 6. Gastos subvencionables.
 
 1. Serán subvencionables:
-a) **Los gastos de la construcción y adquisición de bienes inmuebles.** No obstante, la adquisición de terrenos sólo se subvencionará hasta el 10% de la inversión subvencionable, y siempre cuando estén ubicados en Parques Agroalimentarios y Tecnoalimentarios de Andalucía contemplados en el Anexo 4 de la presente Orden, habilitándose a la persona titular de la Dirección General de Industrias y Calidad Agroalimentaria para que pueda actualizar y ampliar la relación de los mismos mediante Resolución, que se publicará en el Boletín Oficial de la Junta de Andalucía.
 b) Los gastos de la adquisición e instalación de equipos y maquinaria nuevos, incluidos los informáticos que formen parte de la automatización de procesos.
 c) Los gastos generales, tales como honorarios de arquitecto, ingeniero y consultores, estudios de viabilidad, asistencias técnicas, adquisición de patentes y licencias, podrán ser subvencionados hasta un límite del 12 por ciento de la inversión subvencionada.
 
@@ -388,8 +416,6 @@ Las infracciones administrativas cometidas en relación con las subvenciones reg
 
 #### Disposición adicional primera. Convocatoria para 2007 y.
 
-plazo de presentación de solicitudes. Se convoca para el año 2007 la concesión de las subvenciones reguladas en la presente Orden, estableciéndose un plazo para la presentación de solicitudes de dos meses, contados desde el día siguiente al de la publicación de la presente Orden en el Boletín Oficial de la Junta de Andalucía.
-
 #### Disposición adicional segunda. Programa de Desarrollo.
 
 Rural y cofinanciación de la Unión Europea. Las subvenciones previstas en la presente Orden estarán condicionadas a la aprobación del Programa de Desarrollo Rural correspondiente, conforme al Reglamento (CE) núm. 1698/2005 anteriormente referido, en el que se incluyen las previstas en la presente Orden. En su caso, las subvenciones podrán ser objeto de cofinanciación de la Unión Europea con fondos del Fondo Europeo Agrícola de Desarrollo Rural (FEADER).
@@ -409,8 +435,6 @@ Se faculta al Director General de Industrias y Calidad Agroalimentaria y al Dire
 
 #### Disposición final segunda. Entrada en vigor.
 
-La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía, a excepción de los artículos 11.4.a) y 12.2, que entrarán en vigor una vez se publique en el citado Boletín una Resolución de la persona titular de la Dirección General de Industrias y Calidad Agroalimentaria en la que se indicará que se disponen de los medios técnicos adecuados para poder realizar la presentación telemática de las solicitudes. Sevilla, 25 de abril de 2007 ISAÍAS PÉREZ SALDAÑA Consejero de Agricultura y Pesca
-
 Página núm. 14 Sevilla, 8 de mayo 2007
 
 PROTECCIÓN DE DATOS En cumplimiento de lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Agricultura y Pesca le informa que los datos personales obtenidos mediante la cumplimentación de este documento/impreso/formulario y demás que se adjuntan van a ser incorporados, para su tratamiento, en un fichero automatizado. Asimismo, se le informa que la recogida y tratamiento de dichos datos tienen como finalidad la tramitación de su solicitud. De acuerdo con lo previsto en la citada Ley Orgánica, puede ejercitar los derechos de acceso, rectificación, cancelación y oposición dirigiendo por escrito a la D.G. de Industrias y Calidad Agroalimentaria. Consejería de Agricultura y Pesca. C/ Tabladilla, s/n. 41071. SEVILLA. SOLICITUD AYUDAS PARA LA TRANSFORMACIÓN Y COMERCIALIZACIÓN DE LOS PRODUCTOS AGRÍCOLAS Programa de Desarrollo Rural de Andalucía 2007-2013 Orden de.......de.....................de 200.... (Boja nº.....de fecha ..... de....................de 200....)
@@ -418,7 +442,9 @@ PROTECCIÓN DE DATOS En cumplimiento de lo dispuesto en la Ley Orgánica 15/1999
 EJERCICIO:............ EXPTE. Nº:................................... DATOS DEL/DE LA SOLICITANTE APELLIDOS Y NOMBRE O DENOMINACIÓN SOCIAL N.I.F./C.I.F. DOMICILIO SOCIAL LOCALIDAD PROVINCIA CÓDIGO POSTAL TELÉFONO FAX CORREO ELECTRÓNICO DATOS DEL/DE LA REPRESENTANTE LEGAL APELLIDOS Y NOMBRE DEL/DE LA REPRESENTANTE D.N.I. CARGO QUE OSTENTA DOMICILIO A EFECTOS DE NOTIFICACIÓN LOCALIDAD PROVINCIA C. POSTAL TELÉFONO FAX CORREO ELECTRÓNICO DATOS BANCARIOS CÓDIGO DEL BANCO CÓDIGO DE SUCURSAL D. C. NÚMERO DE CUENTA
 
 4 INVERSIÓN SUBVENCIONABLE
-TÍTULO DE LA INVERSIÓN SECTOR DE ACTIVIDAD LOCALIDAD DE LA INVERSIÓN PROVINCIA DE LA INVERSIÓN Nº RIA DE LA INSTALACIÓN DE LA INVERSIÓN IMPORTE PARA EL QUE SOLICITA AYUDA % AYUDA SOLICITADA 5 SOLICITUD, DECLARACIÓN, LUGAR, FECHA Y FIRMA DECLARO bajo mi responsabilidad; Que son ciertos cuantos datos figuran en la presente solicitud, anexos y documentación que acompaña. Que no se encuentra incursa en ninguna de las prohibiciones para ser persona beneficiaria contempladas en el art. 13 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones. Que no tiene deudas en periodo ejecutivo de cualquier otro ingreso de Derecho Público de la Comunidad Autónoma de Andalucía, de conformidad con lo establecido en art. 29.1 de la Ley 3/2004, de 28 de diciembre, de Medidas Tributarias, Administrativas y Financieras. Que las inversiones contempladas en la solicitud de ayuda no se han iniciado antes de la fecha de presentación de la misma. Que las inversiones cumplen con las normas mínimas sobre higiene y bienestar animal si procede. Que no ha solicitado ni obtenido subvenciones o ayudas para la misma finalidad relacionada con esta solicitud. Que ha solicitado y/u obtenido otras subvenciones o ayudas para la misma finalidad relacionada con esta solicitud, procedentes de cualesquiera Administraciones o entes públicos o privados, nacionales o internacionales:
+
+## Título D. E LA INVERSIÓN SECTOR DE ACTIVIDAD LOCALIDAD DE LA INVERSIÓN PROVINCIA DE LA INVERSIÓN Nº RIA DE LA INSTALACIÓN DE LA INVERSIÓN IMPORTE PARA EL QUE SOLICITA AYUDA % AYUDA SOLICITADA 5 SOLICITUD, DECLARACIÓN, LUGAR, FECHA Y FIRMA DECLARO bajo mi responsabilidad; Que son ciertos cuantos datos figuran en la presente solicitud, anexos y documentación que acompaña. Que no se encuentra incursa en ninguna de las prohibiciones para ser persona beneficiaria contempladas en el art. 13 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones. Que no tiene deudas en periodo ejecutivo de cualquier otro ingreso de Derecho Público de la Comunidad Autónoma de Andalucía, de conformidad con lo establecido en art. 29.1 de la Ley 3/2004, de 28 de diciembre, de Medidas Tributarias, Administrativas y Financieras. Que las inversiones contempladas en la solicitud de ayuda no se han iniciado antes de la fecha de presentación de la misma. Que las inversiones cumplen con las normas mínimas sobre higiene y bienestar animal si procede. Que no ha solicitado ni obtenido subvenciones o ayudas para la misma finalidad relacionada con esta solicitud. Que ha solicitado y/u obtenido otras subvenciones o ayudas para la misma finalidad relacionada con esta solicitud, procedentes de cualesquiera Administraciones o entes públicos o privados, nacionales o internacionales:
+
 Solicitadas/Aprobadas Fecha/año Otras Administraciones/Entes públicos o privados Importe
 
 Que la industria donde se proyectan las inversiones esta inscrita en el Registro de Industrias Agroalimentarias de Andalucía (en el caso de instalaciones existentes) y, en su caso, compromiso de que obtendrá dicha inscripción una vez realizadas las inversiones. Que la industria donde se proyectan las inversiones tiene certificado de producción ecológica, emitido por organismo de control autorizado, actualizado a la fecha de solicitud de la ayuda (en el caso de instalaciones existentes) y, en su caso, compromiso de que obtendrá dicho certificado una vez realizadas las inversiones. Que autorizo expresamente al órgano gestor para recabar de otros órganos y Administraciones Públicas la información y los documentos exigidos en las bases reguladoras que estuviesen en su poder.
@@ -877,9 +903,7 @@ SOLICITO el cobro de las ayudas que, de acuerdo con los porcentajes y límites p
 
 Sevilla, 8 de mayo 2007 Página núm. 35
 
-## Anexo 3
-
-FINANCIACION DE LOS GASTOS EFECTUADOS PROYECTO Nº: Pago Parcial ---- Pago Total ---- 1.- Participación financiera del beneficiario.
+## Anexo 3. FINANCIACION DE LOS GASTOS EFECTUADOS PROYECTO Nº: Pago Parcial ---- Pago Total ---- 1.- Participación financiera del beneficiario.
 
 1.1.- Fondos propios.
 
@@ -967,9 +991,7 @@ Firma del beneficiario
 
 Página núm. 40 Sevilla, 8 de mayo 2007
 
-## Anexo 4
-
-PARQUES AGROLIMENTARIOS Y TECNOALIMENTARIOS DE ANDALUCIA
+## Anexo 4. PARQUES AGROLIMENTARIOS Y TECNOALIMENTARIOS DE ANDALUCIA
 
 ### 1. Almeria parque de innovación y tecnología de almeria
 
@@ -988,3 +1010,19 @@ PARQUES AGROLIMENTARIOS Y TECNOALIMENTARIOS DE ANDALUCIA
 ### 8. Sevilla parque empresarial de la aceituna de mesa
 
 ARAHAL.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-c-1978` (Art. 13, Art. 29) desde *(Art. 12)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**BOE-A-1999-23750**](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) (Art. 13) desde *(Art. 12)*
+- **Fundamentado en**: [**BOE-A-1999-23750**](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) desde *(D. Final segunda. Entrada en vigor.)*
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**D254_2001 Atencion Alumnado Trastornos Desarrollo Andalucia**](../06_atencion_diversidad_y_orientacion/D254_2001_atencion_alumnado_trastornos_desarrollo_andalucia.md) (D. Adicional primera) desde *(Art. 1)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../../../estatal/01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) desde *(Art. 3)*
+- **Cita a**: [**D204_1995 Régimen Disciplinario Empleados Públicos Andalucía**](../01_marco_normativo_general_y_organico/D204_1995_reglamento_disciplinario_empleados_publicos_andalucia.md) desde *(Art. 12)*

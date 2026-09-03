@@ -25,10 +25,61 @@ tags:
 - personal-no-docente
 relaciones:
   desarrolla:
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_destino:
+    - Art. 5
+    - Art. 4
+    - Art. 29
+  - norma_id: norm-can-res-134
+    articulos_destino:
+    - Art. 5
+    - Art. 4
+    - Art. 29
   - norma_id: norm-es-lo-3-2022
+    articulos_destino:
+    - Art. 5
+    - Art. 4
+    - Art. 29
   - norma_id: norm-es-rd-659-2023
+    articulos_destino:
+    - Art. 5
+    - Art. 4
+    - Art. 29
+  - norma_id: norm-can-l-6-2014
+    articulos_destino:
+    - Art. 29
+    - Art. 133
+    - Art. 33
+    - Art. 12
+  - norma_id: norm-can-lo-1-2018
+    articulos_destino:
+    - Art. 29
+    - Art. 133
+    - Art. 33
+    - Art. 12
+  - norma_id: norm-es-2025-2039
+    articulos_destino:
+    - Art. 29
+    - Art. 133
+    - Art. 33
+    - Art. 12
   - norma_id: norm-es-lo-2-2006
+  cita:
+  - norma_id: norm-can-d-212-1991
+    articulos_destino:
+    - Art. 9
+    - Art. 11
+    - Art. 20
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 9
+    - Art. 11
+    - Art. 20
   fundamentado_en:
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 121
+    - Art. 122
   - norma_id: norm-can-d-212-1991
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-l-6-2014
@@ -44,7 +95,6 @@ relaciones:
   - norma_id: norm-can-res-boc-2024-226-44
   - norma_id: norm-can-res-boc-2024-230-25
   - norma_id: norm-es-2025-2039
-  - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-lo-2-2006
   fundamento_de:
   - norma_id: norm-can-res-032
@@ -57,7 +107,7 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-lo-1-2018
   - norma_id: norm-can-res-boc-2024-230-25
@@ -77,6 +127,7 @@ relaciones:
   - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-045-734.pdf
 ---
+
 # Resolución de 25 de febrero de 2026, por la que se establece la distribución horaria y estructura modular de los Grados C (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y 3, de las familias profesionales de Administración y Gestión; Agraria; Informática y Comunicaciones; y Madera, Mueble y Corcho, en el ámbito de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -353,3 +404,43 @@ Certificado profesional: Diseño y desarrollo de productos en carpintería y mue
 - [**Resolucion BOC 32**](./R25_2_2026_niveles_ciclos_formativos_grado_medio_ciclos.md)
 - [**Resolucion BOC 44**](./R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md)
 - [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Art. 5, Art. 4, Art. 29)
+- **Desarrolla**: [**Resolucion BOC 134**](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md) (Art. 5, Art. 4, Art. 29)
+- **Desarrolla**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 5, Art. 4, Art. 29)
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 5, Art. 4, Art. 29)
+- **Desarrolla**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md) (Art. 29, Art. 133, Art. 33, Art. 12)
+- **Desarrolla**: [**LO1_2018 Estatuto de Autonomia de Canarias**](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md) (Art. 29, Art. 133, Art. 33, Art. 12)
+- **Desarrolla**: [**BOE-A-2025-2039**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD69_2025_desarrollan_elementos_integrantes_instrumentos_gestion_sistema.md) (Art. 29, Art. 133, Art. 33, Art. 12)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 121, Art. 122)
+- **Fundamentado en**: [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO1_2018 Estatuto de Autonomia de Canarias**](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md)
+- **Fundamentado en**: [**Resolucion BOC 32**](./R25_2_2026_niveles_ciclos_formativos_grado_medio_ciclos.md)
+- **Fundamentado en**: [**Resolucion BOC 33**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados.md)
+- **Fundamentado en**: [**Resolucion BOC 34**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_2.md)
+- **Fundamentado en**: [**Resolucion BOC 36**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_4.md)
+- **Fundamentado en**: [**Resolucion BOC 37**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_5.md)
+- **Fundamentado en**: [**Resolucion BOC 38**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_6.md)
+- **Fundamentado en**: [**Resolucion BOC 39**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_7.md)
+- **Fundamentado en**: [**Resolucion BOC 134**](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md)
+- **Fundamentado en**: [**Resolucion BOC 44**](./R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md)
+- **Fundamentado en**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
+- **Fundamentado en**: [**BOE-A-2025-2039**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD69_2025_desarrollan_elementos_integrantes_instrumentos_gestion_sistema.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**Resolucion BOC 32**](./R25_2_2026_niveles_ciclos_formativos_grado_medio_ciclos.md)
+- **Fundamento de**: [**Resolucion BOC 33**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados.md)
+- **Fundamento de**: [**Resolucion BOC 34**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_2.md)
+- **Fundamento de**: [**Resolucion BOC 36**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_4.md)
+- **Fundamento de**: [**Resolucion BOC 37**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_5.md)
+- **Fundamento de**: [**Resolucion BOC 38**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_6.md)
+- **Fundamento de**: [**Resolucion BOC 39**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_7.md)
+- **Cita a**: [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) (Art. 9, Art. 11, Art. 20)
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 9, Art. 11, Art. 20)

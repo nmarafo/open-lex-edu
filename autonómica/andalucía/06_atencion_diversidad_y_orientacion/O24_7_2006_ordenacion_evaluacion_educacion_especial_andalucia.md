@@ -24,6 +24,12 @@ tags:
 - evaluacion_cee
 - andalucia
 relaciones:
+  modifica:
+  - norma_id: norm-and-d-54-1989
+    articulos_origen:
+    - D. Final única. Entrada en vigor.
+    articulos_destino:
+    - Art. 2
   desarrolla:
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
@@ -31,6 +37,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-1-1996
 ---
+
 # Orden de 24 de julio de 2006, sobre evaluación del alumnado en los Centros Específicos de Educación Especial.
 
 ## Preámbulo
@@ -39,7 +46,8 @@ Página núm. 8 Sevilla, 11 de agosto 2006 CONSEJERIA DE ECONOMIA Y HACIENDA DEC
 
 Reglamento de la Ley de Cajas de Ahorros de Andalucía, aprobado por Decreto 138/2002, de 30 de abril, regula el período transitorio que se abre en los supuestos de fusión de cajas de ahorros, estableciendo que serán de aplicación en dicho período las previsiones de los artículos 46 y 47 de la Ley de Cajas de Ahorros de Andalucía, que regulan las causas de cese, el mandato y la reelección de las personas miembro de los órganos de gobierno. La aplicación de este precepto reglamentario puede dar lugar a que la entidad resultante de una fusión se vea abocada a efectuar la renovación parcial de sus órganos de gobierno durante un período relativamente breve, como es el transitorio, cuya duración máxima es de dos años, período que está destinado, justamente, a lograr la consolidación del funcionamiento de la nueva entidad que ha resultado de la fusión y la estabilidad de la misma. A su vez, parece conveniente precisar el momento en que debe iniciarse el proceso electoral que conducirá a la renovación total de los órganos de la caja resultante de la fusión. Teniendo en cuenta que la fusión de cajas de ahorros es el resultado de un proceso cuya duración se dilata en el tiempo, así como de sucesivos acuerdos que corresponde adoptar a los órganos de las cajas implicadas en dicho proceso, resulta necesario garantizar la estabilidad y permanencia de tales órganos en tanto no haya culminado la fusión proyectada. Por último, el artículo 4 de la Ley de Cajas de Ahorros de Andalucía atribuye a la Consejería de Economía y Hacienda el ejercicio del protectorado y control público de las cajas de ahorros, de acuerdo, entre otros, con los principios de cooperación entre las cajas domiciliadas en Andalucía y la protección de la independencia, solvencia, estabilidad y prestigio de dichas entidades. Las anteriores consideraciones determinan la necesidad de modificar el artículo 20 del Reglamento de la Ley de Cajas de Ahorros de Andalucía, lo que se efectúa mediante el presente Decreto. En su virtud, a propuesta del Consejero de Economía y Hacienda, de acuerdo con el Consejo Consultivo, y previa deliberación del Consejo de Gobierno, en su reunión del día 25 de julio de 2006,
 DISPONGO:
-Artículo único. Modificación del artículo 20 l.
+
+#### Artículo . #### Artículo . Artículo único. Modificación del artículo 20 l.
 
 Reglamento de la Ley 15/1999, de 16 de diciembre, de Cajas de Ahorros de Andalucía, aprobado por Decreto 138/2002, de 30 de abril. El artículo 20 del Reglamento de la Ley 15/1999, de 16 de diciembre, de Cajas de Ahorros de Andalucía, aprobado por Decreto 138/2002, de 30 de abril, queda redactado como sigue:
 «Artículo 20. Período transitorio de los órganos de gobierno. Suspensión de los procesos de renovación de los órganos de gobierno.
@@ -54,20 +62,27 @@ Reglamento de la Ley 15/1999, de 16 de diciembre, de Cajas de Ahorros de Andaluc
 
 #### Disposición final única. Entrada en vigor.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 25 de julio de 2006 MANUEL CHAVES GONZALEZ Presidente de la Junta de Andalucía JOSE ANTONIO GRIÑAN MARTINEZ Consejero de Economía y Hacienda CONSEJERIA DE AGRICULTURA Y PESCA RESOLUCION de 18 de julio de 2006, de la Dirección General de Industrias y Promoción Agroalimentaria, por la que se convocan para el año 2007 las ayudas para la promoción de productos agroalimentarios, previstas en la Orden que se cita. La Orden de 7 de diciembre de 2005 (BOJA núm. 246, de 20 de diciembre) establece las bases reguladoras de las ayudas para la promoción de los productos agroalimentarios. De conformidad con lo previsto en el artículo 6.5 de la referida Orden, anualmente y mediante Resolución del titular de la Dirección General de Industrias y Promoción Agroalimentaria, se realizará la convocatoria pública para acogerse a las subvenciones reguladas en esta Orden. Asimismo, la Disposición Final Primera de dicha Orden faculta al titular de la Dirección General de Industrias y Promoción Agroalimentaria para dictar cuantas disposiciones y actos sean necesarios para el desarrollo y ejecución de lo previsto en ella. En su virtud, y haciendo uso de las facultades conferidas,
 RESUELVO:
 Primero. Convocar para el año 2007 las ayudas reguladas en la Orden de 7 de diciembre de 2005, por la que se establecen las bases reguladoras de las ayudas para la promoción de los productos agroalimentarios. De acuerdo con lo establecido en el artículo 1.2 de la Orden de 7 de diciembre de 2005 antes referida, la concesión de estas ayudas estará limitada, en todo caso, por las disponibilidades presupuestarias existentes en el presupuesto de gasto de la Consejería de Agricultura y Pesca para esta línea de ayudas.
-Segundo. El plazo de presentación de solicitudes se establece desde el día siguiente al de la publicación de la presente Resolución en el Boletín Oficial de la Junta de Andalucía y hasta el 31 de octubre de 2006, ambos inclusive.
 Tercero. Las solicitudes se ajustarán al modelo que figura en el Anexo de la Orden de referencia.
 Cuarto. A efectos de lo previsto en el artículo 2 de la referida Orden de 7 de diciembre de 2005, se considerarán incluidos en los conceptos de su apartado 3 los gastos que se indican en el Anexo a la presente Resolución.
 Quinto. De conformidad con lo previsto en el artículo 10 de la Orden de referencia, el plazo de ejecución de las acciones subvencionadas se establece desde el día 1 de noviembre de 2006 hasta el 31 de octubre de 2007, ambos inclusive.
-Sexto. La presente Resolución surtirá efectos a partir del día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 18 de julio de 2006.- El Director General, Ricardo Domínguez García-Baquero.
 
-## Anexo
+## Anexo 1. A los efectos de lo dispuesto en el artículo 2.3 de la Orden de 7 de diciembre de 2005:
 
-1. A los efectos de lo dispuesto en el artículo 2.3 de la Orden de 7 de diciembre de 2005:
 - Los gastos máximos por desplazamientos a considerar serán los ocasionados desde la localidad donde tenga su sede la entidad beneficiaria. No obstante, podrán considerarse los causados desde otra localidad donde haya tenido lugar la celebración de otras ferias agroalimentarias o actos de promoción y siempre que se justifique adecuadamente.
 - Los gastos máximos por desplazamientos realizados a través de autobús, tren o avión se considerarán por el importe del billete. En caso de utilización de vehículo particular, el gasto máximo lo será por kilómetro recorrido en las cuantías establecidas para el personal funcionario en el Decreto 54/1989, de 21 de marzo, sobre indemnizaciones por razón del servicio de la Junta de Andalucía, modificado por el Decreto 404/2000, de 5 de octubre, así como en la Orden de 20 de septiembre de 2002, de la Consejería de Economía y Hacienda, por la que se actualizan dichas cuantías, o norma que lo regule.
 - Los gastos máximos por alojamiento y manutención serán considerados en las cuantías establecidas para el personal funcionario, Anexo I, Grupo II, del Decreto antes citado.
 - En relación con los gastos originados por degustaciones, catas y actos similares se consideran aquellos cuya finalidad guarde relación directa con la promoción de los productos y en función de los destinatarios o asistentes.
 - Se considerarán los gastos derivados de la contratación de azafatas para eventos de promoción en centros comerciales, actividades deportivas, ferias populares, o similares.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**D54_1989 Ordenacion Centros Educacion Especial Andalucía**](../02_gestion_y_administracion_centros/D54_1989_ordenacion_centros_especificos_educacion_especial_andalucia.md) (Art. 2) desde *(D. Final única. Entrada en vigor.)*
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)

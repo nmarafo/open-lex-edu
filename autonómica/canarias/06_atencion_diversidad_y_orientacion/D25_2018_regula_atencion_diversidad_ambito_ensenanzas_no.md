@@ -30,10 +30,77 @@ tags:
 - neae
 - titulacion
 relaciones:
-  desarrolla:
+  modifica:
+  - norma_id: norm-can-l-6-2014
+    titulo_destino: Título PRELIMINAR
+    articulos_destino:
+    - Art. 71
+    - Art. 3
+    - Art. 4
   - norma_id: norm-es-lo-2-2006
+    titulo_destino: Título PRELIMINAR
+    articulos_destino:
+    - Art. 71
+    - Art. 3
+    - Art. 4
+  - norma_id: norm-es-2016-3229
+    titulo_destino: Título PRELIMINAR
+    articulos_destino:
+    - Art. 71
+    - Art. 3
+    - Art. 4
+  - norma_id: norm-es-2021-20113
+    titulo_destino: Título PRELIMINAR
+    articulos_destino:
+    - Art. 71
+    - Art. 3
+    - Art. 4
+  - norma_id: norm-es-2010-12201
+    titulo_destino: Título PRELIMINAR
+    articulos_destino:
+    - Art. 71
+    - Art. 3
+    - Art. 4
+  desarrolla:
+  - norma_id: norm-can-l-6-2014
+    articulos_destino:
+    - Art. 28
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-lo-2-2006
+  cita:
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 1
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 1
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 1
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2013-12632
+    capitulo_origen: Capítulo III. Alumnado con necesidades específicas de apoyo educativo.
+    articulos_origen:
+    - Art. 17
+  - norma_id: norm-es-2016-3229
+    capitulo_origen: Capítulo III. Alumnado con necesidades específicas de apoyo educativo.
+    articulos_origen:
+    - D. Transitoria primera. Del acceso a las universidades.
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
+    capitulo_origen: Capítulo III. Alumnado con necesidades específicas de apoyo educativo.
+    articulos_origen:
+    - D. Final segunda. Plan Estratégico de Atención a la Diversidad.
   - norma_id: norm-can-res-juriscan-64838-121
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2013-12632
@@ -48,7 +115,7 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '71'
+  - norma_id: '71'
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-2016-3229
   - norma_id: norm-es-2021-20113
@@ -57,6 +124,7 @@ relaciones:
   - norma_id: norm-can-res-juriscan-64838-121
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-046-1008.pdf
 ---
+
 # Decreto 25/2018, de 26 de febrero, por el que se regula la atención a la diversidad en el ámbito de las enseñanzas no universitarias de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -328,3 +396,33 @@ Corresponde a la Consejería competente en materia de educación aprobar, de con
 #### Disposición final tercera. Entrada en vigor.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de Canarias. Dado en Las Palmas de Gran Canaria, a 26 de febrero de 2018. EL PRESIDENTE DEL GOBIERNO, Fernando Clavijo Batlle. LA CONSEJERA DE EDUCACIÓN Y UNIVERSIDADES, Soledad Monzón Cabrera.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md) (Art. 28)
+- **Desarrolla**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 129)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md) (Título PRELIMINAR, Art. 71, Art. 3, Art. 4)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título PRELIMINAR, Art. 71, Art. 3, Art. 4)
+- **Modifica**: [**BOE-A-2016-3229**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md) (Título PRELIMINAR, Art. 71, Art. 3, Art. 4)
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título PRELIMINAR, Art. 71, Art. 3, Art. 4)
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título PRELIMINAR, Art. 71, Art. 3, Art. 4)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md) desde *(Capítulo III. Alumnado con necesidades específicas de apoyo educativo., D. Final segunda. Plan Estratégico de Atención a la Diversidad.)*
+- **Fundamentado en**: [**Resolucion BOC 121**](./R9_2_2011_dictan_instrucciones_procedimientos_plazos_atencion_educativa.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2013-12632**](../../../estatal/07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md)
+- **Fundamentado en**: [**BOE-A-2016-3229**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- **Fundamento de**: [**Resolucion BOC 126**](../07_convivencia_bienestar_y_protocolos/R21_6_2018_dictan_instrucciones_organizacion_funcionamiento_dirigidas_centros.md)
+- **Fundamento de**: [**Resolucion BOC 61**](../03_ordenacion_curricular_y_ensenanzas/R_e_innovacion_dictan_instrucciones_regular.md)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 3) desde *(Capítulo I, Art. 1)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 3) desde *(Capítulo I, Art. 1)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 3) desde *(Capítulo I, Art. 1)*
+- **Cita a**: [**BOE-A-2013-12632**](../../../estatal/07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md) desde *(Capítulo III. Alumnado con necesidades específicas de apoyo educativo., Art. 17)*
+- **Cita a**: [**BOE-A-2016-3229**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md) desde *(Capítulo III. Alumnado con necesidades específicas de apoyo educativo., D. Transitoria primera. Del acceso a las universidades.)*

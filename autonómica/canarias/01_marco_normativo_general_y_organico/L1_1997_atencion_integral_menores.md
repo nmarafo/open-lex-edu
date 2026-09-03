@@ -28,26 +28,106 @@ tags:
 - protecci-n-jur-dica-de-menores
 - proteccion-menores
 relaciones:
-  desarrolla:
-  - norma_id: norm-es-lo-1-1996
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-ce-1978
+  cita:
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 39
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 3
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 4
+  - norma_id: norm-can-lo-1-2018
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 6
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Distribución de competencias.
+    articulos_origen:
+    - Art. 10
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Distribución de competencias.
+    articulos_origen:
+    - Art. 12
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo II. Actuaciones de promoción.
+    articulos_origen:
+    - Art. 22
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. Actuaciones sobre determinadas actividades, medios
+      y productos artículo 30 Finalidad. Las medidas que se establecen en el presente
+      capítulo se orientan a evitar los efectos perjudiciales que para el desarrollo
+      integral de los menores tienen las actividades, medios y productos que se contemplan
+      en los artículos siguientes.
+    articulos_origen:
+    - Art. 34
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. Actuaciones sobre determinadas actividades, medios
+      y productos artículo 30 Finalidad. Las medidas que se establecen en el presente
+      capítulo se orientan a evitar los efectos perjudiciales que para el desarrollo
+      integral de los menores tienen las actividades, medios y productos que se contemplan
+      en los artículos siguientes.
+    articulos_origen:
+    - Art. 35
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. Tutela.
+    articulos_origen:
+    - Art. 55
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo III. Guarda.
+    articulos_origen:
+    - Art. 58
   fundamentado_en:
   - norma_id: norm-can-lo-1-2018
+    articulos_destino:
+    - Art. 30
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-can-l-6-2014
+  desarrolla:
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo II. Actuaciones de promoción.
+    articulos_origen:
+    - Art. 20
+  - norma_id: norm-can-d-114-2011
+    titulo_origen: Título X
+    articulos_origen:
+    - D. Final tercera.
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
+  modifica:
+  - norma_id: norm-es-lo-1-1996
+    titulo_origen: Título X
+    articulos_origen:
+    - D. Transitoria primera.
+    titulo_destino: Título V
   fundamento_de:
   - norma_id: norm-can-d-114-2011
   - norma_id: norm-can-res-juriscan-49002-54
   fundamentos_derecho:
   - norma_id: norm-can-lo-1-2018
   articulos:
-  - '27'
+  - norma_id: '27'
   - norma_id: norm-es-lo-1-1996
 ---
+
 # Ley 1/1997, de 7 de febrero, de Atención Integral a los Menores.
 
 ## Preámbulo
@@ -1592,3 +1672,36 @@ Santa Cruz de Tenerife, 7 de febrero de 1997. MANUEL HERMOSO ROJAS, Presidente
 - [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md)
 - [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**LO1_1996 Proteccion Juridica del Menor**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-c-1978`
+- **Desarrolla**: `norm-es-c-1978` desde *(Título III, Capítulo II. Actuaciones de promoción., Art. 20)*
+- **Desarrolla**: [**D114_2011 Decreto de Convivencia Escolar**](../07_convivencia_bienestar_y_protocolos/D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md) desde *(Título X, D. Final tercera.)*
+- **Desarrolla**: [**LO1_1996 Proteccion Juridica del Menor**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Modifica**: [**LO1_1996 Proteccion Juridica del Menor**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md) (Título V) desde *(Título X, D. Transitoria primera.)*
+- **Fundamentado en**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md) (Art. 30)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](./L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamento de**: [**D114_2011 Decreto de Convivencia Escolar**](../07_convivencia_bienestar_y_protocolos/D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md)
+- **Fundamento de**: [**Resolucion BOC 54**](../03_ordenacion_curricular_y_ensenanzas/R23_7_2004_dictan_instrucciones_organizacion_funcionamiento_escuelas_oficiales.md)
+- **Cita a**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md)
+- **Cita a**: `norm-es-c-1978` (Art. 39)
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Art. 3)*
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Art. 4)*
+- **Cita a**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md) desde *(Título II, Capítulo I, Art. 6)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo II. Distribución de competencias., Art. 10)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo II. Distribución de competencias., Art. 12)*
+- **Cita a**: `norm-es-c-1978` desde *(Título III, Capítulo II. Actuaciones de promoción., Art. 22)*
+- **Cita a**: `norm-es-c-1978` desde *(Título III, Capítulo III. Actuaciones sobre determinadas actividades, medios y productos artículo 30 Finalidad. Las medidas que se establecen en el presente capítulo se orientan a evitar los efectos perjudiciales que para el desarrollo integral de los menores tienen las actividades, medios y productos que se contemplan en los artículos siguientes., Art. 34)*
+- **Cita a**: `norm-es-c-1978` desde *(Título III, Capítulo III. Actuaciones sobre determinadas actividades, medios y productos artículo 30 Finalidad. Las medidas que se establecen en el presente capítulo se orientan a evitar los efectos perjudiciales que para el desarrollo integral de los menores tienen las actividades, medios y productos que se contemplan en los artículos siguientes., Art. 35)*
+- **Cita a**: `norm-es-c-1978` desde *(Título V, Capítulo II. Tutela., Art. 55)*
+- **Cita a**: `norm-es-c-1978` desde *(Título V, Capítulo III. Guarda., Art. 58)*

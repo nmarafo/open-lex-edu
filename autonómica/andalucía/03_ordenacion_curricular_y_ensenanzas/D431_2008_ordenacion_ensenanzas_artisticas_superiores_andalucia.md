@@ -31,6 +31,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Decreto 431/2008, de 29 de julio, por el que se establece la ordenación de las Enseñanzas Artísticas Superiores en Andalucía.
 
 ## Preámbulo
@@ -49,8 +50,6 @@ A S E
 **D**
 AÍ R E J E S N O
 **C**
-CORRECCIÓN de errores del Decreto 232/2002, de 17 de septiembre, por el que se regulan los órganos de Ética e Investigación Sanitarias y los de Ensayos Clínicos de Andalucía (BOJA núm. 122, de 19.10.2002). Advertidos errores en el Decreto 232/2002, de 17 de septiembre, por el que se regulan los órganos de Ética e Investigación Sanitarias y los de Ensayos Clínicos en Andalucía, publicado en el Boletín Oficial de la Junta de Andalucía número 122, de 19 de octubre de 2002, se procede a su corrección en los siguientes términos:
-En la página 20.341, artículo
 
 **3.2.** Donde dice: «El Secretario, cuyas funciones serán asumidas por un funcionario con la categoría de Jefe de Servicio de la Consejería de Salud, …». Debe decir: «El Secretario, cuyas funciones serán asumidas por un funcionario con la categoría mínima de Jefe de Servicio de la Consejería de Salud…». Sevilla, 23 de junio de 2008 N Ó
 **I**
@@ -65,4 +64,15 @@ AÍ R E J E S N O
 **C**
 ORDEN de 15 de julio de 2008, por la que se convocan los Premios Extraordinarios en las enseñanzas de Artes Plásticas y Diseño correspondientes al curso académico 2007/2008. Mediante Orden de 15 de octubre de 2007 se regulan los Premios Extraordinarios en las enseñanzas de Artes Plásticas y Diseño, y se establece su convocatoria para el año 2008. En su artículo 1.2 dispone que la convocatoria de dichos Premios Extraordinarios se efectuará, preferentemente con periodicidad anual, mediante Orden de la Consejería de Educación. En su virtud, a propuesta de la Dirección General de Ordenación y Evaluación Educativa, y de acuerdo con las facultades que me confiere el artículo 1.2 de la Orden de 15 de octubre de 2007, por la que se regulan los Premios Extraordinarios en las enseñanzas de Artes Plásticas y Diseño y se establece su convocatoria para el año 2008,
 DISPONGO:
-Único. Convocatoria. Se convocan los Premios Extraordinarios en las enseñanzas de Artes Plásticas y Diseño, para el curso 2007/2008, de acuerdo con la regulación establecida en la Orden de 15 de octubre de 2007, por la que se regulan los Premios Extraordinarios en las enseñanzas de Artes Plásticas y Diseño y se establece su convocatoria para el año 2008. Sevilla, 15 de julio de 2008 TERESA JIMÉNEZ VÍLCHEZ Consejera de Educación
+
+#### Artículo . #### Artículo . Único. Convocatoria. Se convocan los Premios Extraordinarios en las enseñanzas de Artes Plásticas y Diseño, para el curso 2007/2008, de acuerdo con la regulación establecida en la Orden de 15 de octubre de 2007, por la que se regulan los Premios Extraordinarios en las enseñanzas de Artes Plásticas y Diseño y se establece su convocatoria para el año 2008. Sevilla, 15 de julio de 2008 TERESA JIMÉNEZ VÍLCHEZ Consejera de Educación
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

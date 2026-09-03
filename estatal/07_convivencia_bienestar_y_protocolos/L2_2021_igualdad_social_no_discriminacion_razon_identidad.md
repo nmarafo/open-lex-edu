@@ -28,23 +28,83 @@ tags:
 - protocolos-de-actuaci-n-y-protecci-n
 - titulacion
 relaciones:
+  cita:
+  - norma_id: norm-es-2010-4518
+  - norma_id: norm-es-lo-3-2018
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. Tratamiento administrativo de la identidad y expresión
+      de género, así como de las características sexuales.
+    articulos_origen:
+    - Art. 9
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Medidas generales relativas a la identidad y expresión
+      de género, así como las características sexuales.
+    articulos_origen:
+    - Art. 16
+  - norma_id: norm-es-lo-3-2018
+    titulo_origen: Título II
+    capitulo_origen: Capítulo V. Actuación institucional en materia sanitaria.
+    articulos_origen:
+    - Art. 31
+  modifica:
+  - norma_id: norm-es-lo-3-2018
+    articulos_origen:
+    - Art. 18
+  - norma_id: norm-es-lo-1-1996
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 6
+  - norma_id: norm-es-lo-1-1996
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. Asistencia sanitaria a personas trans.
+    articulos_origen:
+    - Art. 26
+    articulos_destino:
+    - Art. 9
+  - norma_id: norm-es-lo-1-1996
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. Asistencia sanitaria a personas trans.
+    articulos_origen:
+    - Art. 26
+    articulos_destino:
+    - Art. 2
+    - Art. 11
+  - norma_id: norm-es-2015-8222
+    titulo_origen: Título II
+    capitulo_origen: Capítulo V. Actuación institucional en materia sanitaria.
+    articulos_origen:
+    - Art. 28
+  - norma_id: norm-es-lo-1-1996
+    titulo_origen: Título III
+    capitulo_origen: Capítulo II. Protocolos y planes de actuación.
+    articulos_origen:
+    - Art. 34
+    articulos_destino:
+    - Art. 2
+    - Art. 11
   fundamentado_en:
   - norma_id: norm-es-2010-4518
-  - norma_id: norm-es-2015-8222
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Medidas generales relativas a la identidad y expresión
+      de género, así como las características sexuales.
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 6
   - norma_id: norm-es-l-39-2015
+    titulo_origen: Título XII
+    articulos_origen:
+    - Art. 65
   - norma_id: norm-es-l-40-2015
+    titulo_origen: Título XII
+    articulos_origen:
+    - Art. 65
+  - norma_id: norm-es-2015-8222
   - norma_id: norm-es-lo-1-1996
   - norma_id: norm-es-lo-3-2018
-  desarrollado_por: []
-  fundamento_de:
-  - norma_id: norm-can-l-4-2023
-  - norma_id: norm-can-d-84-2024
-  fundamentos_derecho:
-  - norma_id: norm-can-lo-1-2018
   articulos:
-  - '136'
-  - norma_id: norm-can-l-1-1997
-  - norma_id: norm-can-l-16-2003
+  - norma_id: '136'
   - norma_id: norm-es-2015-8222
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
@@ -52,6 +112,7 @@ relaciones:
   - norma_id: norm-es-lo-3-2018
   - norma_id: norm-es-2010-4518
 ---
+
 # Ley 2/2021, de 7 de junio, de igualdad social y no discriminación por razón de identidad de género, expresión de género y características sexuales.
 
 ## Preámbulo
@@ -1360,3 +1421,25 @@ Canarias, 7 de junio de 2021.–El Presidente, Ángel Víctor Torres Pérez.
 - [**LO1_1996 Proteccion Juridica del Menor**](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
 - [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
 - [**BOE-A-2010-4518**](./L1_2010_canaria_igualdad_entre_mujeres_hombres.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) desde *(Art. 18)*
+- **Modifica**: [**LO1_1996 Proteccion Juridica del Menor**](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md) desde *(Título Preliminar, Art. 6)*
+- **Modifica**: [**LO1_1996 Proteccion Juridica del Menor**](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md) (Art. 9) desde *(Título II, Capítulo III. Asistencia sanitaria a personas trans., Art. 26)*
+- **Modifica**: [**LO1_1996 Proteccion Juridica del Menor**](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md) (Art. 2, Art. 11) desde *(Título II, Capítulo III. Asistencia sanitaria a personas trans., Art. 26)*
+- **Modifica**: [**BOE-A-2015-8222**](../01_marco_normativo_general_y_organico/LO8_2015_modificacion_sistema_proteccion_infancia_adolescencia.md) desde *(Título II, Capítulo V. Actuación institucional en materia sanitaria., Art. 28)*
+- **Modifica**: [**LO1_1996 Proteccion Juridica del Menor**](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md) (Art. 2, Art. 11) desde *(Título III, Capítulo II. Protocolos y planes de actuación., Art. 34)*
+- **Fundamentado en**: [**BOE-A-2010-4518**](./L1_2010_canaria_igualdad_entre_mujeres_hombres.md) (Art. 6) desde *(Título I, Capítulo II. Medidas generales relativas a la identidad y expresión de género, así como las características sexuales., Art. 13)*
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) desde *(Título XII, Art. 65)*
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) desde *(Título XII, Art. 65)*
+- **Fundamentado en**: [**BOE-A-2015-8222**](../01_marco_normativo_general_y_organico/LO8_2015_modificacion_sistema_proteccion_infancia_adolescencia.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- **Fundamentado en**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
+- **Cita a**: [**BOE-A-2010-4518**](./L1_2010_canaria_igualdad_entre_mujeres_hombres.md)
+- **Cita a**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) desde *(Título I, Capítulo I. Tratamiento administrativo de la identidad y expresión de género, así como de las características sexuales., Art. 9)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) desde *(Título I, Capítulo II. Medidas generales relativas a la identidad y expresión de género, así como las características sexuales., Art. 16)*
+- **Cita a**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) desde *(Título II, Capítulo V. Actuación institucional en materia sanitaria., Art. 31)*

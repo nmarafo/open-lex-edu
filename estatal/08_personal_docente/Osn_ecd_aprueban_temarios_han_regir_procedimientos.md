@@ -25,15 +25,33 @@ tags:
 - oposiciones-y-acceso
 - profesorado
 relaciones:
+  cita:
+  - norma_id: norm-es-2001-7022
+    disposiciones_destino:
+    - D. Adicional decimocuarta
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    titulo_destino: Título I
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final primera. Ámbito de aplicación.
+    articulos_destino:
+    - Art. 149
+    - Art. 19
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-ce-1978
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
+  - norma_id: '27'
   - norma_id: norm-es-2001-7022
 ---
+
 # Orden ECD/826/2004, de 22 de marzo, por la que se aprueban los temarios que han de regir en los procedimientos selectivos para el ingreso, acceso y adquisición de nuevas especialidades en los Cuerpos de Profesores de Artes Plásticas y Diseño y Maestros de Taller de Artes Plásticas y Diseño.
 
 ## Preámbulo
@@ -6195,3 +6213,15 @@ Especialidad: Técnicas Textiles
 
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 19) desde *(D. Final primera. Ámbito de aplicación.)*
+- **Fundamentado en**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (D. Adicional decimocuarta)
+- **Cita a**: `norm-es-c-1978` desde *(D. Final segunda. Entrada en vigor.)*
+- **Cita a**: `norm-es-c-1978` (Título I) desde *(D. Final segunda. Entrada en vigor.)*

@@ -32,6 +32,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Orden de 16 de noviembre de 2007, por la que se regula la evaluación en las Escuelas Oficiales de Idiomas.
 
 ## Preámbulo
@@ -43,7 +44,7 @@ Decreto se encuentran las de desarrollo, coordinación y promoción de las polí
 En su virtud, a propuesta de la Dirección General de Personas Mayores, en uso de las facultades conferidas por el artículo 44.2 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma,
 DISPONGO:
 
-### Capítulo I
+#### Artículo . #### Artículo . ### Capítulo I
 
 ### Disposiciones generales
 
@@ -103,7 +104,7 @@ d) Transporte de ida y vuelta desde el punto establecido como lugar de salida ha
 e) Participación en las actividades incluidas en la programación del turno.
 f) Póliza colectiva de Seguros.
 
-## Capítulo II. Procedimiento.
+### Capítulo II. Procedimiento.
 
 #### Artículo 7. Solicitudes y lugar de presentación.
 
@@ -137,8 +138,6 @@ Sevilla, 5 de diciembre 2007 Página núm. 7
 4. De conformidad con lo establecido en el artículo 71 de la Ley 30/1992 de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, una vez recibidas las solicitudes, si estas presentaran defectos o resultaran incompletas, la Delegación Provincial requerirá al solicitante para que, en un plazo de diez días, subsane la falta o acompañe los documentos preceptivos, con indicación de que, si así no lo hiciera, se le tendrá por desistido de su petición, previa resolución dictada en los términos del artículo 42 de la mencionada Ley.
 
 #### Artículo 9. Convocatoria.
-
-La Dirección General de Personas Mayores de la Consejería para la Igualdad y Bienestar Social, mediante convocatoria anual, dará publicidad a través del Boletín Oficial de la Junta de Andalucía, de la página web institucional y de sus Tablones de anuncios de la oferta de plazas por cada modalidad de Programa, indicando asimismo el plazo para presentar la solicitud, los turnos establecidos y la distribución de plazas.
 
 #### Artículo 10. Instrucción.
 
@@ -212,13 +211,9 @@ Se faculta a la persona titular de la Dirección General de Personas Mayores de 
 
 #### Disposición final segunda. Entrada en vigor.
 
-La presente Orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 23 de noviembre de 2007
-
 MICAELA NAVARRO GARZÓN Consejera para la Igualdad y Bienestar Social
 
-## Anexo
-
-BAREMO DEL PROGRAMA DE TURISMO SOCIAL DE PERSONAS MAYORES La puntuación máxima a obtener es de 75 puntos, con la distribución según los criterios valorables que a continuación se indican:
+## Anexo. BAREMO DEL PROGRAMA DE TURISMO SOCIAL DE PERSONAS MAYORES La puntuación máxima a obtener es de 75 puntos, con la distribución según los criterios valorables que a continuación se indican:
 
 1. Ingresos económicos en concepto de pensión: 40 puntos.
 
@@ -242,3 +237,13 @@ b) Solicitantes que no hayan disfrutado de un turno del Programa durante los dos
 c) **Solicitantes que han disfrutado plaza los dos últimos años.** 0 puntos.
 
 Si dos personas solicitantes desean que sus expedientes se vinculen entre sí, de tal forma que en el proceso de adjudicación de plazas se adjudique a las dos o a ninguna de ellas, se baremarán los expedientes de forma individual y la valoración final para ambos será igual a la media aritmética de sus puntuaciones.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

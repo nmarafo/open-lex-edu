@@ -32,21 +32,35 @@ tags:
 - selecci-n-y-provisi-n-de-puestos
 - sustituciones-docentes
 relaciones:
+  cita:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 10
+    - Art. 9
+    disposiciones_destino:
+    - D. Transitoria que
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Adicional segunda. Convocatorias.
+  fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-l-6-2014
   desarrolla:
   - norma_id: norm-can-l-2-1987
   - norma_id: norm-es-rd-276-2007
   - norma_id: norm-es-rdl-5-2015
   - norma_id: norm-es-lo-2-2006
-  fundamentado_en:
-  - norma_id: norm-es-rdl-5-2015
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-can-l-6-2014
   fundamentos_derecho:
   - norma_id: norm-can-l-2-1987
   articulos:
-  - '10'
+  - norma_id: '10'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-136-4028.pdf
 ---
+
 # Decreto 74/2010, de 1 de julio, por el que se establece el procedimiento de selección del personal funcionario interino docente en el ámbito de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -133,3 +147,19 @@ Se faculta a los titulares de la Consejerías competentes en materia de función
 #### Disposición final segunda. Entrada en vigor.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de Canarias. Dado en Las Palmas de Gran Canaria, a 1 de julio de 2010. EL PRESIDENTE DEL GOBIERNO, Paulino Rivero Baute.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**L2_1987 Ley de la Funcion Publica Canaria**](../01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md)
+- **Desarrolla**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Desarrolla**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: `norm-es-c-1978` desde *(Art. 1)*
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Cita a**: `norm-es-c-1978` (Art. 10, Art. 9, D. Transitoria que)
+- **Cita a**: `norm-es-c-1978` desde *(D. Adicional segunda. Convocatorias.)*

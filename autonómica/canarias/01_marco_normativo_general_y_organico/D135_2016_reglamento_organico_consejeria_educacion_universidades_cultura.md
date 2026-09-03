@@ -28,6 +28,91 @@ tags:
 - organizacion-escolar
 - roc
 relaciones:
+  cita:
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 9
+    disposiciones_destino:
+    - D. Adicional segunda
+    - D. Final segunda
+  - norma_id: norm-can-d-84-2024
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+  - norma_id: norm-can-l-14-1990
+    capitulo_origen: Capítulo II. Consejero O consejera.
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 29
+    - Art. 32
+  - norma_id: norm-can-d-212-1991
+    capitulo_origen: Capítulo III. Órganos superiores de la consejería.
+    seccion_origen: Sección 1.ª. Viceconsejería de Educación y Universidades.
+    articulos_origen:
+    - Art. 8
+  - norma_id: norm-can-d-212-1991
+    capitulo_origen: Capítulo III. Órganos superiores de la consejería.
+    seccion_origen: Sección 2.ª. Secretaría General Técnica.
+    articulos_origen:
+    - Art. 9
+  - norma_id: norm-can-d-212-1991
+    capitulo_origen: Capítulo III. Órganos superiores de la consejería.
+    seccion_origen: Sección 3.ª. Dirección General de Centros e Infraestructura Educativa.
+    articulos_origen:
+    - Art. 10
+  - norma_id: norm-can-d-212-1991
+    capitulo_origen: Capítulo III. Órganos superiores de la consejería.
+    seccion_origen: Sección 4.ª. Dirección General de Formación Profesional y Educación
+      de Adultos.
+    articulos_origen:
+    - Art. 11
+  - norma_id: norm-can-d-212-1991
+    capitulo_origen: Capítulo III. Órganos superiores de la consejería.
+    seccion_origen: Sección 5.ª. Dirección General de Personal.
+    articulos_origen:
+    - Art. 12
+  - norma_id: norm-can-d-212-1991
+    capitulo_origen: Capítulo III. Órganos superiores de la consejería.
+    seccion_origen: Sección 6.ª. Dirección General de Ordenación, Innovación y Promoción
+      Educativa.
+    articulos_origen:
+    - Art. 13
+  - norma_id: norm-can-d-212-1991
+    capitulo_origen: Capítulo III. Órganos superiores de la consejería.
+    seccion_origen: Sección 7.ª. Dirección General de Universidades.
+    articulos_origen:
+    - Art. 14
+  - norma_id: norm-can-d-212-1991
+    capitulo_origen: Capítulo IV. DIRECCIONES TERRITORIALES DE EDUCACIÓN artículo
+      15 Carácter. Las Direcciones Territoriales dependen orgánicamente de la Secretaría
+      General Técnica y, funcionalmente, de la propia Secretaría General Técnica y
+      de las Direcciones Generales del Departamento en el ámbito de sus respectivas
+      competencias.
+    articulos_origen:
+    - Art. 17
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VII. Órganos colegiados.
+    articulos_origen:
+    - Art. 20
+  - norma_id: norm-es-l-40-2015
+    capitulo_origen: Capítulo VII. Órganos colegiados.
+    articulos_origen:
+    - Art. 20
+    articulos_destino:
+    - Art. 17
+    - Art. 18
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VII. Órganos colegiados.
+    articulos_origen:
+    - Art. 20
+    articulos_destino:
+    - Art. 17
+    - Art. 18
+  deroga:
+  - norma_id: norm-can-d-84-2024
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
   desarrolla:
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-lo-2-2006
@@ -68,6 +153,7 @@ relaciones:
   - norma_id: norm-can-l-1-1983
   - norma_id: norm-can-d-212-1991
 ---
+
 # Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes (BOC n.º 203, de 19 de octubre).
 
 ## Preámbulo
@@ -512,3 +598,57 @@ La Comisión de Coordinación de la Formación Profesional depende de la Direcci
 #### Artículo 26. La Comisión Canaria de Formación del Profesorado no universitario.
 
 La Comisión Canaria de Formación del Profesorado no universitario es un órgano de asesoramiento y coordinación para la planificación de la formación del profesorado no universitario en el ámbito de la Comunidad Autónoma de Canarias, y tiene la composición, atribuciones y régimen de funcionamiento que se establecen en su normativa específica.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**L6_2014 Ley Canaria de Educacion**](./L6_2014_canaria_educacion_no_universitaria.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Deroga**: [**D84_2024 ROC Consejeria de Educacion Canarias**](./D84_2024_reglamento_organico_consejeria_educacion_canarias.md) desde *(D. Derogatoria única. Derogación normativa.)*
+- **Fundamentado en**: [**Decreto BOC 212/1991**](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+- **Fundamentado en**: [**L14_1990 Regimen Juridico Administraciones Canarias**](./L14_1990_regimen_juridico_administraciones_publicas_canarias.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](./L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamento de**: [**Resolucion BOC 2**](./R20_1_2017_innovacion_promocion_educativa_delega_directora_agencia.md)
+- **Fundamento de**: [**Resolucion BOC 71**](../03_ordenacion_curricular_y_ensenanzas/R8_2_2017_dictan_instrucciones_proceso_evaluacion_ensenanzas_artisticas.md)
+- **Fundamento de**: [**Resolucion BOC 75**](../03_ordenacion_curricular_y_ensenanzas/R4_2_2017_dictan_instrucciones_proceso_evaluacion_ensenanzas_deportivas.md)
+- **Fundamento de**: [**Resolucion BOC 4**](./R16_3_2017_delega_competencia_materia_contratos_menores_material.md)
+- **Fundamento de**: [**Resolucion BOC 1**](./R30_6_2017_dictan_instrucciones_actuacion_centros_docentes_sostenidos.md)
+- **Fundamento de**: [**Resolucion BOC 100**](../05_alumnado_y_servicios_escolares/R28_8_2017_innovacion_promocion_educativa_dictan_instrucciones_tramitacion.md)
+- **Fundamento de**: [**Resolucion BOC 70**](../03_ordenacion_curricular_y_ensenanzas/R6_11_2017_dictan_instrucciones_organizacion_evaluacion_modulos_obra.md)
+- **Fundamento de**: [**Resolucion BOC 5**](../02_gestion_y_administracion_centros/R15_3_2016_resolucion_ordena_publicacion_convenio_colaboracion_entre.md)
+- **Fundamento de**: [**Resolucion BOC 56**](../03_ordenacion_curricular_y_ensenanzas/R27_2_2018_determinan_caracteristicas_pruebas_obtencion_certificado_nivel.md)
+- **Fundamento de**: [**Resolucion BOC 114**](../05_alumnado_y_servicios_escolares/R22_5_2018_dictan_instrucciones_concesion_premios_extraordinarios_ensenanzas.md)
+- **Fundamento de**: [**Resolucion BOC 18**](../02_gestion_y_administracion_centros/R2_11_2018_innovacion_promocion_educativa_dictan_instrucciones_tramitacion.md)
+- **Fundamento de**: [**Resolucion BOC 19**](../02_gestion_y_administracion_centros/R2_11_2018_innovacion_promocion_educativa_dictan_instrucciones_tramitacion_2.md)
+- **Fundamento de**: [**Resolucion BOC 12**](../02_gestion_y_administracion_centros/R9_1_2019_resolucion_crea_sello_electronico.md)
+- **Fundamento de**: [**Resolucion BOC 13**](../02_gestion_y_administracion_centros/R9_1_2019_resolucion_crea_sello_electronico_2.md)
+- **Fundamento de**: [**Resolucion BOC 22**](../02_gestion_y_administracion_centros/R29_1_2019_aprueba_convocatoria_reconocimiento_trayectoria_proyeccion_internacional.md)
+- **Fundamento de**: [**Resolucion BOC 11**](../02_gestion_y_administracion_centros/R21_3_2019_resolucion_crea_sello_electronico.md)
+- **Fundamento de**: [**Resolucion BOC 48**](../03_ordenacion_curricular_y_ensenanzas/R26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md)
+- **Fundamento de**: [**Resolucion BOC 74**](../03_ordenacion_curricular_y_ensenanzas/R10_7_2019_dictan_instrucciones_relativas_procedimiento_reconocimiento_correspondencias.md)
+- **Fundamento de**: [**Resolucion BOC 131**](../08_personal_docente/R11_6_2020_dictan_instrucciones_organizacion_funcionamiento_curso_especifico.md)
+- **Fundamento de**: [**Resolucion BOC 82**](../03_ordenacion_curricular_y_ensenanzas/R5_11_2020_dictan_instrucciones_organizacion_funcionamiento_niveles_basico.md)
+- **Fundamento de**: [**Resolucion BOC 24**](../02_gestion_y_administracion_centros/R13_3_2015_dictan_instrucciones_oferta_educativa_recursos_escuelas.md)
+- **Fundamento de**: [**Resolucion BOC 3**](./R12_2_2021_delega_direcciones_territoriales_educacion_determinada_competencia.md)
+- **Fundamento de**: [**Resolucion BOC 136**](../08_personal_docente/R25_5_2017_regula_programa_mejora_estabilidad_claustros_docentes.md)
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](./D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](./D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 9, D. Adicional segunda, D. Final segunda)
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](./D84_2024_reglamento_organico_consejeria_educacion_canarias.md) desde *(D. Final segunda. Entrada en vigor.)*
+- **Cita a**: [**L14_1990 Regimen Juridico Administraciones Canarias**](./L14_1990_regimen_juridico_administraciones_publicas_canarias.md) (Art. 29, Art. 32) desde *(Capítulo II. Consejero O consejera., Art. 5)*
+- **Cita a**: [**Decreto BOC 212/1991**](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) desde *(Capítulo III. Órganos superiores de la consejería., Art. 8)*
+- **Cita a**: [**Decreto BOC 212/1991**](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) desde *(Capítulo III. Órganos superiores de la consejería., Art. 9)*
+- **Cita a**: [**Decreto BOC 212/1991**](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) desde *(Capítulo III. Órganos superiores de la consejería., Art. 10)*
+- **Cita a**: [**Decreto BOC 212/1991**](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) desde *(Capítulo III. Órganos superiores de la consejería., Art. 11)*
+- **Cita a**: [**Decreto BOC 212/1991**](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) desde *(Capítulo III. Órganos superiores de la consejería., Art. 12)*
+- **Cita a**: [**Decreto BOC 212/1991**](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) desde *(Capítulo III. Órganos superiores de la consejería., Art. 13)*
+- **Cita a**: [**Decreto BOC 212/1991**](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) desde *(Capítulo III. Órganos superiores de la consejería., Art. 14)*
+- **Cita a**: [**Decreto BOC 212/1991**](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) desde *(Capítulo IV. DIRECCIONES TERRITORIALES DE EDUCACIÓN artículo 15 Carácter. Las Direcciones Territoriales dependen orgánicamente de la Secretaría General Técnica y, funcionalmente, de la propia Secretaría General Técnica y de las Direcciones Generales del Departamento en el ámbito de sus respectivas competencias., Art. 17)*
+- **Cita a**: `norm-es-c-1978` desde *(Capítulo VII. Órganos colegiados., Art. 20)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 17, Art. 18) desde *(Capítulo VII. Órganos colegiados., Art. 20)*
+- **Cita a**: `norm-es-c-1978` (Art. 17, Art. 18) desde *(Capítulo VII. Órganos colegiados., Art. 20)*

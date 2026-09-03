@@ -22,6 +22,56 @@ tags:
 - evaluacion
 - procedimiento-administrativo
 relaciones:
+  modifica:
+  - norma_id: norm-can-d-135-2016
+    articulos_destino:
+    - Art. 12
+    - Art. 4
+    - Art. 7
+    - Art. 131
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 12
+    - Art. 4
+    - Art. 7
+    - Art. 131
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 12
+    - Art. 4
+    - Art. 7
+    - Art. 131
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 12
+    - Art. 4
+    - Art. 7
+    - Art. 131
+  - norma_id: norm-es-lo-3-2020
+    articulos_destino:
+    - Art. 12
+    - Art. 4
+    - Art. 7
+    - Art. 131
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 12
+    - Art. 4
+    - Art. 7
+    - Art. 131
+  concordancia:
+  - norma_id: norm-can-d-135-2016
+    articulos_destino:
+    - Art. 17
+    - Art. 9
+  - norma_id: norm-es-l-40-2015
+    articulos_destino:
+    - Art. 17
+    - Art. 9
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 17
+    - Art. 9
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-l-39-2015
@@ -32,11 +82,12 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-l-39-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-049-1120.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=75527
 ---
+
 # Resolución de 2 de marzo de 2017, de la Dirección General de Ordenación, Innovación y Promoción Educativa, por la que se establecen los procedimientos administrativos sujetos al sistema de notificación electrónica mediante comparecencia en sede electrónica (BOC n.º 49, de 10 de marzo).
 
 ## Preámbulo
@@ -56,3 +107,23 @@ RESUELVO:
 Primero.- Delegar en las Direcciones Territoriales de Educación la competencia para el nombramiento y cese, así como para la concesión, cese y revocación de las comisiones de servicios para el desempeño del cargo de Jefatura de Estudios Adjunta en los centros educativos en que se determine, que ejercerán, en su ámbito territorial, bajo la dirección y coordinación de esta Dirección General de Personal que dictará cuantas normas e instrucciones considere necesarias.
 Segundo.- La delegación conferida por esta Resolución se entenderá sin perjuicio de la potestad de su revocación y en las Resoluciones que se adopten en el ejercicio de la misma se hará constar esta circunstancia considerándose, a todos los efectos, dictadas por esta Dirección General de Personal.
 Tercero.- La presente Resolución entrará en vigor a partir del día siguiente a su publicación en el Boletín Oficial de Canarias. Las Palmas de Gran Canaria, a 12 de febrero de 2021.- El Director General de Personal, Fidel Benigno Trujillo Santana.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
+- **Modifica**: [**Decreto BOC 135/2016**](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md) (Art. 12, Art. 4, Art. 7, Art. 131)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 12, Art. 4, Art. 7, Art. 131)
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 12, Art. 4, Art. 7, Art. 131)
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 12, Art. 4, Art. 7, Art. 131)
+- **Modifica**: `norm-es-lo-3-2020` (Art. 12, Art. 4, Art. 7, Art. 131)
+- **Modifica**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 12, Art. 4, Art. 7, Art. 131)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **En concordancia con**: [**Decreto BOC 135/2016**](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md) (Art. 17, Art. 9)
+- **En concordancia con**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 17, Art. 9)
+- **En concordancia con**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 17, Art. 9)

@@ -35,27 +35,148 @@ tags:
 - provision-plazas
 - selecci-n-y-provisi-n-de-puestos
 relaciones:
+  cita:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo I. Objeto y ámbito de aplicación.
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo I. Objeto y ámbito de aplicación.
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo I. Objeto y ámbito de aplicación.
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo III. Concurso de traslados de ámbito estatal.
+    seccion_origen: Sección 4. ª Resolución del concurso de traslados de ámbito estatal
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
   desarrolla:
   - norma_id: norm-es-lo-2-2006
-  fundamentado_en:
-  - norma_id: norm-es-1984-17387
-  - norma_id: norm-es-1995-22212
-  - norma_id: norm-es-1998-10720
-  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo II. Procedimientos de provisión de plazas y puestos
+      docentes.
+    articulos_origen:
+    - Art. 2
+    disposiciones_destino:
+    - D. Adicional sexta
   - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo II. Procedimientos de provisión de plazas y puestos
+      docentes.
+    articulos_origen:
+    - Art. 2
+    disposiciones_destino:
+    - D. Adicional sexta
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo II. Procedimientos de provisión de plazas y puestos
+      docentes.
+    articulos_origen:
+    - Art. 2
+    disposiciones_destino:
+    - D. Adicional sexta
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo III. Concurso de traslados de ámbito estatal.
+    seccion_origen: Sección 2. ª Requisitos y condiciones de participación
+    articulos_origen:
+    - Art. 10
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo III. Concurso de traslados de ámbito estatal.
+    seccion_origen: Sección 2. ª Requisitos y condiciones de participación
+    articulos_origen:
+    - Art. 10
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo III. Concurso de traslados de ámbito estatal.
+    seccion_origen: Sección 2. ª Requisitos y condiciones de participación
+    articulos_origen:
+    - Art. 10
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo III. Concurso de traslados de ámbito estatal.
+    seccion_origen: Sección 4. ª Resolución del concurso de traslados de ámbito estatal
+    articulos_origen:
+    - D. Transitoria segunda. Profesores Técnicos de Formación Profesional.
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo III. Concurso de traslados de ámbito estatal.
+    seccion_origen: Sección 4. ª Resolución del concurso de traslados de ámbito estatal
+    articulos_origen:
+    - D. Transitoria segunda. Profesores Técnicos de Formación Profesional.
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo III. Concurso de traslados de ámbito estatal.
+    seccion_origen: Sección 4. ª Resolución del concurso de traslados de ámbito estatal
+    articulos_origen:
+    - D. Transitoria segunda. Profesores Técnicos de Formación Profesional.
+  - norma_id: norm-es-1995-22212
+    capitulo_origen: Capítulo III. Concurso de traslados de ámbito estatal.
+    seccion_origen: Sección 4. ª Resolución del concurso de traslados de ámbito estatal
+    articulos_origen:
+    - D. Transitoria segunda. Profesores Técnicos de Formación Profesional.
+  - norma_id: norm-es-1998-10720
+    capitulo_origen: Capítulo III. Concurso de traslados de ámbito estatal.
+    seccion_origen: Sección 4. ª Resolución del concurso de traslados de ámbito estatal
+    articulos_origen:
+    - D. Transitoria segunda. Profesores Técnicos de Formación Profesional.
+  - norma_id: norm-es-lo-3-2022
+    capitulo_origen: Capítulo III. Concurso de traslados de ámbito estatal.
+    seccion_origen: Sección 4. ª Resolución del concurso de traslados de ámbito estatal
+    articulos_origen:
+    - D. Transitoria cuarta. Personal funcionario de carrera del Cuerpo de Profesores.
+    articulos_destino:
+    - Art. 2
+    - Art. 18
+    disposiciones_destino:
+    - D. Adicional quinta
+    - D. Adicional segunda
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo III. Concurso de traslados de ámbito estatal.
+    seccion_origen: Sección 4. ª Resolución del concurso de traslados de ámbito estatal
+    articulos_origen:
+    - D. Final segunda. Título competencial.
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-1984-17387
+    capitulo_origen: Capítulo III. Concurso de traslados de ámbito estatal.
+    seccion_origen: Sección 4. ª Resolución del concurso de traslados de ámbito estatal
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    disposiciones_destino:
+    - D. Adicional decimoquinta
   - norma_id: norm-es-rdl-5-2015
+  concordancia:
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo III. Concurso de traslados de ámbito estatal.
+    seccion_origen: Sección 4. ª Resolución del concurso de traslados de ámbito estatal
+    articulos_origen:
+    - D. Transitoria primera. Personal funcionario del Cuerpo de Maestros adscritos
+      a.
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo III. Concurso de traslados de ámbito estatal.
+    seccion_origen: Sección 4. ª Resolución del concurso de traslados de ámbito estatal
+    articulos_origen:
+    - D. Transitoria primera. Personal funcionario del Cuerpo de Maestros adscritos
+      a.
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo III. Concurso de traslados de ámbito estatal.
+    seccion_origen: Sección 4. ª Resolución del concurso de traslados de ámbito estatal
+    articulos_origen:
+    - D. Transitoria primera. Personal funcionario del Cuerpo de Maestros adscritos
+      a.
   fundamento_de:
   - norma_id: norm-es-2022-16194
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-1995-22212
   - norma_id: norm-es-1998-10720
 ---
+
 # Real Decreto 1364/2010, de 29 de octubre, por el que se regula el concurso de traslados de ámbito estatal entre personal funcionario de los cuerpos docentes contemplados en la Ley Orgánica 2/2006, de 3 de mayo, de Educación y otros procedimientos de provisión de plazas a cubrir por los mismos.
 
 ## Preámbulo
@@ -454,3 +575,35 @@ En el caso de que se produjesen empates en el total de las puntuaciones, éstos 
 ## Anexo III
 
 Especialidades docentes del cuerpo de Maestros (Derogado) Este documento es de carácter informativo y no tiene valor jurídico.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional sexta) desde *(Capítulo II. Procedimientos de provisión de plazas y puestos docentes., Art. 2)*
+- **Desarrolla**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional sexta) desde *(Capítulo II. Procedimientos de provisión de plazas y puestos docentes., Art. 2)*
+- **Desarrolla**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional sexta) desde *(Capítulo II. Procedimientos de provisión de plazas y puestos docentes., Art. 2)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo III. Concurso de traslados de ámbito estatal., Art. 10)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo III. Concurso de traslados de ámbito estatal., Art. 10)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo III. Concurso de traslados de ámbito estatal., Art. 10)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo III. Concurso de traslados de ámbito estatal., D. Transitoria segunda. Profesores Técnicos de Formación Profesional.)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo III. Concurso de traslados de ámbito estatal., D. Transitoria segunda. Profesores Técnicos de Formación Profesional.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo III. Concurso de traslados de ámbito estatal., D. Transitoria segunda. Profesores Técnicos de Formación Profesional.)*
+- **Fundamentado en**: [**BOE-A-1995-22212**](./RD1635_1995_adscribe_profesorado_cuerpos_profesores_ensenanza_secundaria.md) desde *(Capítulo III. Concurso de traslados de ámbito estatal., D. Transitoria segunda. Profesores Técnicos de Formación Profesional.)*
+- **Fundamentado en**: [**BOE-A-1998-10720**](./RD777_1998_desarrollan_determinados_aspectos_ordenacion_formacion_profesional.md) desde *(Capítulo III. Concurso de traslados de ámbito estatal., D. Transitoria segunda. Profesores Técnicos de Formación Profesional.)*
+- **Fundamentado en**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 2, Art. 18, D. Adicional quinta, D. Adicional segunda) desde *(Capítulo III. Concurso de traslados de ámbito estatal., D. Transitoria cuarta. Personal funcionario de carrera del Cuerpo de Profesores.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Capítulo III. Concurso de traslados de ámbito estatal., D. Final segunda. Título competencial.)*
+- **Fundamentado en**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) (D. Adicional decimoquinta) desde *(Capítulo III. Concurso de traslados de ámbito estatal., D. Final tercera. Entrada en vigor.)*
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamento de**: [**BOE-A-2022-16194**](./RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md)
+- **En concordancia con**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo III. Concurso de traslados de ámbito estatal., D. Transitoria primera. Personal funcionario del Cuerpo de Maestros adscritos a.)*
+- **En concordancia con**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo III. Concurso de traslados de ámbito estatal., D. Transitoria primera. Personal funcionario del Cuerpo de Maestros adscritos a.)*
+- **En concordancia con**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo III. Concurso de traslados de ámbito estatal., D. Transitoria primera. Personal funcionario del Cuerpo de Maestros adscritos a.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo I. Objeto y ámbito de aplicación., Art. 1)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo I. Objeto y ámbito de aplicación., Art. 1)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo I. Objeto y ámbito de aplicación., Art. 1)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo III. Concurso de traslados de ámbito estatal., D. Final tercera. Entrada en vigor.)*

@@ -27,6 +27,15 @@ tags:
 - procedimiento-administrativo
 - titulacion
 relaciones:
+  cita:
+  - norma_id: norm-es-1988-3987
+  - norma_id: norm-es-2002-25289
+  - norma_id: norm-es-1988-3987
+    disposiciones_destino:
+    - D. Final primera
+  - norma_id: norm-es-2002-25289
+    disposiciones_destino:
+    - D. Final primera
   fundamentado_en:
   - norma_id: norm-es-1988-3987
   - norma_id: norm-es-2002-25289
@@ -38,16 +47,12 @@ relaciones:
   - norma_id: norm-es-2002-25289
   - norma_id: norm-es-2018-4480
   - norma_id: norm-es-rd-659-2023
-  - norma_id: norm-can-res-boc-2025-047-108
-  - norma_id: norm-can-res-boc-2026-039-103
-  desarrollado_por: []
-  fundamentos_derecho:
-  - norma_id: norm-can-d-81-2010
   articulos:
-  - '120'
+  - norma_id: '120'
   - norma_id: norm-es-1988-3987
   - norma_id: norm-es-2002-25289
 ---
+
 # Orden de 14 de marzo de 1988 para la aplicación de lo dispuesto en el Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
 
 ## Preámbulo
@@ -262,3 +267,22 @@ Volante para inscripción condicional en Centros docentes o en exámenes oficial
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-1988-3987**](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md)
 - [**BOE-A-2002-25289**](./RD3305_2002_ecd_modifican_aplicacion_lo_dispuesto_real.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Fundamentado en**: [**BOE-A-1988-3987**](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md)
+- **Fundamentado en**: [**BOE-A-2002-25289**](./RD3305_2002_ecd_modifican_aplicacion_lo_dispuesto_real.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**BOE-A-1988-3987**](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md)
+- **Fundamento de**: [**BOE-A-1996-10210**](./O30_4_1996_adecuan_nueva_ordenacion_educativa_determinados_criterios.md)
+- **Fundamento de**: [**BOE-A-2001-7022**](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Fundamento de**: [**BOE-A-2002-25289**](./RD3305_2002_ecd_modifican_aplicacion_lo_dispuesto_real.md)
+- **Fundamento de**: [**BOE-A-2018-4480**](./R23_3_2018_secretaria_estado_educacion_formacion_profesional_universidades.md)
+- **Fundamento de**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **Cita a**: [**BOE-A-1988-3987**](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md)
+- **Cita a**: [**BOE-A-2002-25289**](./RD3305_2002_ecd_modifican_aplicacion_lo_dispuesto_real.md)
+- **Cita a**: [**BOE-A-1988-3987**](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md) (D. Final primera)
+- **Cita a**: [**BOE-A-2002-25289**](./RD3305_2002_ecd_modifican_aplicacion_lo_dispuesto_real.md) (D. Final primera)

@@ -23,14 +23,60 @@ tags:
 - procedimiento-administrativo
 - profesorado
 relaciones:
+  cita:
+  - norma_id: norm-es-lo-8-1985
+    articulos_destino:
+    - Art. 12
+  - norma_id: norm-es-lo-8-1985
+    capitulo_origen: Capítulo I. Disposiciones comunes a todos los centros docentes
+      extranjeros en España.
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 4
+    - Art. 21
+  desarrolla:
+  - norma_id: norm-es-lo-8-1985
+    capitulo_origen: Capítulo I. Disposiciones comunes a todos los centros docentes
+      extranjeros en España.
+    articulos_origen:
+    - Art. 2
+    titulo_destino: Título PRELIMINAR
+    articulos_destino:
+    - Art. 10
+    - Art. 12
   fundamentado_en:
   - norma_id: norm-es-lo-8-1985
+    capitulo_origen: Capítulo III. Centros extranjeros que impartan enseñanzas regladas
+      equivalentes a niveles no obligatorios del sistema educativo español artículo
+      21 Los centros extranjeros que impartan en España enseñanzas regladas equivalentes
+      a niveles no obligatorios del sistema educativo español podrán acoger tanto
+      a alumnos extranjeros como a alumnos españoles.
+    articulos_origen:
+    - D. Final primera.
+    articulos_destino:
+    - Art. 149
+    - Art. 12
+    - Art. 7
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo III. Centros extranjeros que impartan enseñanzas regladas
+      equivalentes a niveles no obligatorios del sistema educativo español artículo
+      21 Los centros extranjeros que impartan en España enseñanzas regladas equivalentes
+      a niveles no obligatorios del sistema educativo español podrán acoger tanto
+      a alumnos extranjeros como a alumnos españoles.
+    articulos_origen:
+    - D. Final primera.
+    articulos_destino:
+    - Art. 149
+    - Art. 12
+    - Art. 7
   fundamentos_derecho:
   - norma_id: norm-es-lo-8-1985
   articulos:
-  - '1'
-  - '6'
+  - norma_id: '1'
+  - norma_id: '6'
 ---
+
 # Real Decreto 806/1993, de 28 de mayo, sobre régimen de Centros docentes extranjeros en España.
 
 ## Preámbulo
@@ -248,3 +294,14 @@ ALFREDO PÉREZ RUBALCABA
 ### Fundamentos de Derecho
 
 - [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md) (Título PRELIMINAR, Art. 10, Art. 12) desde *(Capítulo I. Disposiciones comunes a todos los centros docentes extranjeros en España., Art. 2)*
+- **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md) (Art. 149, Art. 12, Art. 7) desde *(Capítulo III. Centros extranjeros que impartan enseñanzas regladas equivalentes a niveles no obligatorios del sistema educativo español artículo 21 Los centros extranjeros que impartan en España enseñanzas regladas equivalentes a niveles no obligatorios del sistema educativo español podrán acoger tanto a alumnos extranjeros como a alumnos españoles., D. Final primera.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 12, Art. 7) desde *(Capítulo III. Centros extranjeros que impartan enseñanzas regladas equivalentes a niveles no obligatorios del sistema educativo español artículo 21 Los centros extranjeros que impartan en España enseñanzas regladas equivalentes a niveles no obligatorios del sistema educativo español podrán acoger tanto a alumnos extranjeros como a alumnos españoles., D. Final primera.)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md) (Art. 12)
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md) (Art. 4, Art. 21) desde *(Capítulo I. Disposiciones comunes a todos los centros docentes extranjeros en España., Art. 4)*

@@ -26,10 +26,45 @@ tags:
 - andalucia
 relaciones:
   desarrolla:
+  - norma_id: norm-es-c-1978
+    titulo_destino: Título VII
+    articulos_destino:
+    - Art. 246
   - norma_id: norm-es-lo-2-2006
+  modifica:
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 5
+    - Art. 13
+    - Art. 116
+    - Art. 14
+  - norma_id: norm-es-l-19-2013
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    articulos_destino:
+    - Art. 22
+    - Art. 23
+    disposiciones_destino:
+    - D. Final octava
   fundamentado_en:
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 129
+    - Art. 8
+    - Art. 133
+    - Art. 118
+    - Art. 44
   - norma_id: norm-and-l17-2007
+  cita:
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    articulos_destino:
+    - Art. 16
+    - Art. 10
+    - Art. 17
 ---
+
 # Ley 1/2020, de 13 de julio, para el reconocimiento de la autoridad del profesorado en la Comunidad Autónoma de Andalucía.
 
 ## Preámbulo
@@ -42,7 +77,8 @@ Debido al alto número de solicitudes que se prevé tramitar, y de conformidad c
 
 Decreto Legislativo 1/2010, de 2 de marzo, las subvenciones a que se refiere la presente Orden se otorgarán y se gestionarán con arreglo a los principios de publicidad, transparencia, concurrencia, objetividad, igualdad y no discriminación; eficacia en el cumplimiento de los objetivos fijados por la Administración otorgante y eficiencia en la asignación y utilización de los fondos públicos. En la elaboración de esta orden se han tenido en cuenta los principios de buena regulación previstos en el artículo 129 de la Ley 39/2015, de 1 de octubre, identificando los fines que persigue y constituyendo la citada orden el instrumento más adecuado para garantizar el cumplimiento de los mismos. La orden, atendiendo a los principios de necesidad y eficacia, se justifica por una razón de interés general, basándose en una identificación clara de los fines perseguidos, que es el fomento de la cooperación transfronteriza entre las regiones de Alentejo, Algarve y Andalucía, siendo el instrumento más adecuado para garantizar su consecución. Asimismo, en virtud del principio de proporcionalidad, y tras constatar que no existen otras medidas menos restrictivas de derechos, o que impongan menos obligaciones a las entidades destinatarias, la orden contiene la regulación imprescindible. Igualmente, se garantiza el principio de seguridad jurídica ya que la orden es coherente con el resto del ordenamiento jurídico, generando un marco normativo estable, predecible, integrado, claro y de certidumbre que permita un mejor conocimiento del mismo, evitando cargas administrativas innecesarias o accesorias y racionalizando, en su aplicación, la gestión de los recursos públicos. Las bases reguladoras aprobadas por esta orden se insertan en el Plan Estratégico de Subvenciones de la Consejería, de conformidad con lo previsto en el artículo 8.1 de la Ley 38/2003, de 17 de noviembre. Conforme a lo establecido en el artículo 133 de la Ley 39/2015, de 1 de octubre, se ha procedido a la realización de una consulta pública previa, a través del portal web de la Junta de Andalucía, con objeto de recabar la opinión de las personas, entidades y organizaciones más representativas potencialmente afectadas por la futura norma acerca de los problemas que se pretenden solucionar con la iniciativa, la necesidad y oportunidad de su aprobación, los objetivos de la norma y las posibles soluciones alternativas regulatorias y no regulatorias. Por todo ello, en uso de las competencias conferidas por el artículo 118.1 del Decreto Legislativo 1/2010, de 2 de marzo, y el artículo 44.2 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía,
 DISPONGO:
-Artículo único. Aprobación de las bases reguladoras.
+
+#### Artículo . #### Artículo . Artículo único. Aprobación de las bases reguladoras.
 
 1. Se aprueban las bases reguladoras para la concesión de subvenciones, en régimen de concurrencia no competitiva, dirigidas al fomento de la cooperación transfronteriza en la Eurorregión Alentejo-Algarve-Andalucía.
 
@@ -75,8 +111,6 @@ Quedan derogadas todas aquellas disposiciones de igual o inferior rango, en lo q
 Se faculta a la persona titular de la Secretaría General de Acción Exterior para cuantas actuaciones sean necesarias para la ejecución y aplicación de la presente orden.
 
 #### Disposición final segunda. Entrada en vigor.
-
-La presente orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 13 de julio de 2020 ELÍAS BENDODO BENASAYAG Consejero de la Presidencia, Administración Pública e Interior
 
 () () CUADRO RESUMEN DE LAS BASES REGULADORAS DE SUBVENCIONES A CONCEDER POR EL PROCEDIMIENTO DE CONCURRENCIA NO COMPETITIVA. 0.- Identificación de la línea de subvención:
 Subvenciones para el fomento de la cooperación transfronteriza en la Eurorregión Alentejo-AlgarveAndalucía. 1.- Objeto (Artículo 1):
@@ -232,7 +266,6 @@ No. Sí. 17.b) Particularidades que, en su caso, se establecen para formalizar e
 18. Resoluciones que afecten a la convocatoria (artículos 5 y 12). Las resoluciones previstas en los artículos 5.5. y 12.2 del Texto Articulado serán publicadas en:
 en los mismos lugares que la convocatoria.
 
-19. Medidas de publicidad y transparencia pública sobre las subvenciones concedidas (artículo 22). 19.a) Las subvenciones concedidas serán objeto de la publicación establecida en la Ley 38/2003, de 17 de noviembre, General de Subvenciones, así como de la publicación en el Boletín Oficial de la Junta de Andalucía que el Texto Refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía pueda determinar:
 Sí. Sí; no obstante, al concurrir las circunstancias que se indican a continuación, esta publicación está sujeta a las limitaciones siguientes:
 - Circunstancias que determinan que la publicación esté sujeta a limitaciones:
 - Limitaciones a las que está sujeta la publicación:
@@ -340,3 +373,16 @@ Cuando no se consigan íntegramente los objetivos previstos, pero el cumplimient
 - Iniciar el procedimiento de sancionador: Persona titular de la Secretaría General de Acción Exterior por delegación de la persona titular de la Consejería competente en materia de acción exterior.
 - Instruir el procedimiento de sancionador: Persona titular de la Secretaría General de Acción Exterior por delegación de la persona titular de la Consejería competente en materia de acción exterior.
 - Resolver el procedimiento de sancionador: Persona titular de la Secretaría General de Acción Exterior por delegación de la persona titular de la Consejería competente en materia de acción exterior.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-c-1978` (Título VII, Art. 246)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 5, Art. 13, Art. 116, Art. 14)
+- **Modifica**: [**L19_2013 Transparencia y Buen Gobierno**](../../../estatal/01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md) (Art. 22, Art. 23, D. Final octava) desde *(D. Final segunda. Entrada en vigor.)*
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 129, Art. 8, Art. 133, Art. 118, Art. 44)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](./L17_2007_educacion_andalucia_lea.md)
+- **Cita a**: `norm-es-c-1978` (Art. 16, Art. 10, Art. 17) desde *(D. Final segunda. Entrada en vigor.)*

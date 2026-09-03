@@ -10,11 +10,13 @@ organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunida
 tipo_disposicion: Orden
 numero_disposicion: 3537/2025
 fecha_disposicion: '2025-08-12'
-fecha_publicacion: '2025-08-20'
+fecha_publicacion: '2025-08-27'
 boletin: BOCM
+numero_boletin: '204'
 estado: Vigente
 redaccion: original
-fuente_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/20/BOCM-20250820-2.PDF
+fuente_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/27/BOCM-20250827-6.PDF
+fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/20/BOCM-20250820-2.PDF
 clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Formación Profesional
@@ -23,46 +25,1585 @@ tags:
 - modulos_transversales
 - madrid
 relaciones:
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
-  modifica_a: []
-  modificado_por: []
-  afecta_a_articulos: []
   fundamentado_en:
-  - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 49
+    - Art. 123
+    - Art. 124
+  - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-mad-d-29-2013
-fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/20/BOCM-20250820-2.PDF
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 ---
+
 # Orden 3537/2025, de 12 de agosto, de la Consejería de Educación, Ciencia y Universidades, por la que se regulan los currículos de los módulos profesionales transversales en Formación Profesional en la Comunidad de Madrid
 
 ## Preámbulo
 
-Pág. 9 I. COMUNIDAD DE MADRID
-B) Autoridades y Personal Consejería de Economía, Hacienda y Empleo 2 ORDEN de 7 de agosto de 2025, de la Consejera de Economía, Hacienda y Empleo, por la que se resuelve la convocatoria aprobada por Orden de 9 de mayo de 2025 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 22 de mayo), para la provisión de puestos de trabajo vacantes en la citada Consejería por el procedimiento de Libre Designación. Por Orden de la Consejería de Economía, Hacienda y Empleo de 9 de mayo de 2025 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 22 de mayo), se aprobó convocatoria pública para la provisión de puestos de trabajo vacantes en la citada Consejería por el procedimiento de Libre Designación. En el procedimiento de provisión se han cumplido las normas de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 24 de abril); la Orden 923/1989, de 20 de abril, de la Consejería de Hacienda, por la que se aprueban las bases generales que han de regir en las convocatorias para provisión de puestos por los sistemas de Concurso de Méritos y Libre Designación (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 27 de abril) y, en lo no previsto por las anteriores, el Real Decreto 364/1995, de 10 de marzo, por el que se aprueba el Reglamento General de Ingreso del Personal al Servicio de la Administración General del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la Administración General del Estado ("Boletín Oficial del Estado" de 10 de abril), así como las demás prescripciones contenidas en las bases de convocatoria correspondientes. De acuerdo con la propuesta formulada por la unidad responsable y el informe favorable emitido por la Consejería de Economía, Hacienda y Empleo, verificado que las candidatas propuestas cumplen los requisitos y especificaciones exigidos en la convocatoria, en virtud de la competencia atribuida en el artículo 49.2 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid,
-RESUELVO:
-Primero Objeto Se adjudican los puestos de trabajo a los funcionarios que figuran en el Anexo.
-Segundo Plazo de toma de posesión 1. El plazo para tomar posesión del nuevo destino obtenido será de tres días. Dicho plazo empezará a contarse a partir del día siguiente al del cese, que deberá efectuarse dentro de los tres días siguientes al de la publicación de la presente resolución, salvo que el cese haya sido formalmente diferido o aplazado por el órgano competente. El cómputo del plazo posesorio se iniciará cuando finalicen los permisos o licencias que, en su caso, hayan sido concedidas a los interesados, salvo que, por causas justificadas, el órgano que los concedió acuerde suspender el disfrute de los mismos. 2. Si la resolución comporta el reingreso al servicio activo, el plazo de toma de posesión será el que establezca la orden de reingreso, conforme a lo previsto en la normativa aplicable.
-Tercero Recursos La presente Orden pone fin a la vía administrativa y contra la misma podrá interponerse, con carácter potestativo, recurso de reposición en el plazo de un mes ante el mismo órgaMIÉRCOLES 20 DE AGOSTO DE 2025 Pág. 10 no que la ha dictado, o bien recurso contencioso-administrativo, en el plazo de dos meses, ante los Juzgados de lo Contencioso-Administrativo de Madrid, ambos plazos contados a partir del día siguiente a su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, sin perjuicio de cualquier otro recurso que se estime procedente en derecho, todo ello de conformidad con lo dispuesto en los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y 46 de la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa. Dado en Madrid, a 7 de agosto de 2025.—La Consejera de Economía, Hacienda y Empleo, por delegación, la Secretaria General Técnica (Orden de 17 de abril de 2024, BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 7 de mayo de 2024), P. S. (Orden de la Consejería de Economía, Hacienda y Empleo de 31 de julio de 2025), la Subdirectora General de Régimen Jurídico y Desarrollo Normativo, Marina Serrano Álvarez.
+BOCM
+Consejería de Educación, Ciencia y Universidades
+6
+ORDEN 3537/2025, de 12 de agosto, de la Consejería de Educación, Ciencia y
+Universidades, por la que se desarrolla el currículo de los módulos profesiona-
+les de carácter transversal incluidos en los planes de estudios de los ciclos for-
+mativos de formación profesional en la Comunidad de Madrid.
+La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación
+Profesional, tiene por objeto la constitución y ordenación de un sistema único e integrado
+de formación profesional. A tal fin, redefine las ofertas de formación profesional, entre las
+que se encuentran las enseñanzas de formación profesional del sistema educativo y crea una
+tipología de grados, desde el grado A hasta el E, en la que los ciclos formativos se identifi-
+can como ofertas de grado D. En su artículo 40 establece la organización modular que in-
+cluye módulos profesionales no asociados a estándares de competencia profesional, sino a
+la orientación laboral, al emprendimiento, y a competencias transversales y para la madu-
+rez socioprofesional.
+El Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del
+Sistema de Formación Profesional, dispone en su artículo 7.2 que serán las administracio-
+nes educativas las que, respetando lo previsto en dicha norma y en el resto de desarrollos
+normativos del Sistema de Formación Profesional, así como las atribuciones competencia-
+les establecidas en el artículo 6 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y
+de acuerdo con lo prescrito por la Ley Orgánica 3/2022, de 31 de marzo, establezcan los cu-
+rrículos correspondientes a los grados D.
+El Decreto 27/2025, de 21 de mayo, del Consejo de Gobierno, por el que se regula la
+ordenación y organización del Sistema de Formación Profesional de la Comunidad de
+Madrid, establece en su artículo 9 la organización de los ciclos formativos de grado básico,
+que incluye el módulo de Itinerario personal para la empleabilidad en el ámbito profesio-
+nal, y en su artículo 11 recoge la nueva organización modular de los ciclos formativos de
+grado medio y grado superior con una parte troncal obligatoria que incluye módulos aso-
+ciados a las habilidades y capacidades transversales, y a la orientación laboral y el empren-
+dimiento pertinentes para el conocimiento de los sectores productivos y para la madurez
+profesional.
+En cumplimiento de lo establecido en el artículo 5.4 del citado decreto, el currículo de
+los módulos profesionales de carácter transversal incluidos en los planes de estudios se de-
+sarrollará por orden del titular de la consejería con competencias en materia de Educación
+e incluirá, al menos, los referentes de la formación, los resultados de aprendizaje, los crite-
+rios de evaluación y los contenidos necesarios para la adquisición de los resultados de
+aprendizaje.
+En el marco de lo dispuesto en el artículo 129 de la Ley 39/2015, de 1 de octubre, del
+Procedimiento Administrativo Común de las Administraciones Públicas, y de conformidad
+con el artículo 2 del Decreto 52/2021, de 24 de marzo, del Consejo de Gobierno, por el que
+se regula y simplifica el procedimiento de elaboración de las disposiciones normativas de
+carácter general en la Comunidad de Madrid, esta disposición normativa se ajusta a las exi-
+gencias de los principios de buena regulación.
+Esta norma cumple con los principios de necesidad y eficacia, puesto que persigue un
+interés general, como es el desarrollo del currículo de los módulos profesionales transver-
+sales de los ciclos formativos de formación profesional para que puedan ser impartidos en
+el ámbito de la Comunidad de Madrid, en el marco de la regulación establecida para ello,
+con el fin de mejorar la cualificación y formación de los ciudadanos y así ofrecer mayores
+oportunidades de inserción laboral.
+Asimismo, se dicta conforme al principio de proporcionalidad, puesto que recoge to-
+dos los aspectos imprescindibles para el adecuado desarrollo de las enseñanzas de forma-
+ción profesional que componen la oferta formativa, y no se extralimita en sus disposiciones
+respecto a lo establecido en la normativa básica de aplicación y en el artículo 5.4 del De-
+creto 27/ 2025, de 21 de mayo.
 
-Pág. 11 http://www.bocm.es D. L.: M. 19.462-1983 ISSN 1989-4791 RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE LIBRE DESIGNACIÓN CONSEJERIA ECONOMÍA, HACIENDA Y EMPLEO VICECONSEJERIA HACIENDA Y FUNCIÓN PÚBLICA DIRECCION GENERAL PRESUPUESTOS SUBDIRECCION GENERAL MECANISMO DE RECUPERACIÓN Y RESILIENCIA AREA EVALUACION Y CONTROL DEL MECANISMO DE RECUPERACION Y RESILIENCIA CONSEJERIA ECONOMÍA, HACIENDA Y EMPLEO VICECONSEJERIA HACIENDA Y FUNCIÓN PÚBLICA DIRECCION GENERAL PRESUPUESTOS SUBDIRECCION GENERAL MECANISMO DE RECUPERACIÓN Y RESILIENCIA AREA EVALUACION Y CONTROL DEL MECANISMO DE RECUPERACION Y RESILIENCIA SERVICIO EVALUACION Y CONTROL DEL MECANISMO DE RECUPERACION Y RESILIENCIA Puesto de Trabajo:
-Puesto de Trabajo:
-JEFE DE AREA EVALUACION Y CONTROL MECANISMO DE RE SERV. EVALUACION Y CONTROL MECANISMO DE RECUPERACI Denominación :
-Denominación :
-29 26 A A / B Grupo :
-Grupo :
-N.C.D. :
-N.C.D. :
-41.058,24 28.167,36 C. Específico :
-C. Específico :
-***0444** ***4864** CASANOVA GARCIA,ANA TIRADOS GARCIA,MIGUEL ANGEL Cód. identificación:
-Cód. identificación:
-Apellidos y Nombre:
-Apellidos y Nombre:
-CONSEJERIA MEDIO AMBIENTE, AGRICULTURA E INTERIOR SECRETARIA GENERAL TÉCNICA SUBDIRECCION GENERAL GESTIÓN ECONÓMICO-ADMINISTRATIVA AREA APOYO A LA GESTIÓN DE FONDOS EUROPEOS Puesto de Trabajo:
-JEFE DE AREA DE APOYO A LA GESTION DE FONDOS EUROP Denominación :
-29 Grupo :
-N.C.D. :
-41.058,24 C. Específico :
-PUESTO ADJUDICADO ADJUDICATARIO PUESTO LIBERADO A (03/13.116/25)
+BOCM
+También cumple con el principio de transparencia, conforme a lo establecido en el ar-
+tículo 60.2 de la Ley 10/2019, de 10 de abril, de Transparencia y de Participación de la Co-
+munidad de Madrid, y de acuerdo a lo dispuesto en los artículos 4.2.d) y 9 del Decre-
+to 52/2021, de 24 de marzo. Los trámites de audiencia e información pública, así como la
+publicación de la norma, se han realizado a través del Portal de Transparencia de la Comu-
+nidad de Madrid.
+De igual modo, cumple con el principio de eficiencia evitando cargas administrativas
+innecesarias o accesorias y facilitando la racionalización de los recursos públicos.
+El cumplimiento de estos principios contribuye, además, a lograr un ordenamiento au-
+tonómico sólido y coherente en materia curricular que garantiza el principio de seguridad
+jurídica.
+En la tramitación de la norma se han emitido los informes preceptivos de coordinación
+y calidad normativa, de análisis de los impactos de carácter social y de la Secretaría Gene-
+ral Técnica de la Consejería de Educación, Ciencia y Universidades. Asimismo, se ha emi-
+tido dictamen por el Consejo Escolar de la Comunidad de Madrid e informe por la Aboga-
+cía General de la Comunidad de Madrid.
+El titular de la Consejería de Educación, Ciencia y Universidades es competente para dic-
+tar esta Orden, de acuerdo con lo establecido en el artículo 41.d) de la Ley 1/1983, de 13 de di-
+ciembre, de Gobierno y Administración de la Comunidad de Madrid y en el artículo 5.4 del
+Decreto 27/2025, de 21 de mayo, en relación con el Decreto 248/2023, de 11 de octubre,
+del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de
+Educación, Ciencia y Universidades.
+En su virtud, a propuesta de la Dirección General de Educación Secundaria, Forma-
+ción Profesional y Régimen Especial,
+DISPONGO:
+
+#### Artículo . #### Artículo . #### Artículo 1
+
+Objeto y ámbito de aplicación
+1.
+El objeto de esta Orden es desarrollar el currículo de los módulos profesionales de
+carácter transversal incluidos en los planes de estudios de la oferta formativa de formación
+profesional de grado D en la Comunidad de Madrid.
+2.
+Esta norma es de aplicación en los centros públicos y privados de la Comunidad
+de Madrid que, debidamente autorizados, impartan estas enseñanzas.
+
+#### Artículo 2. Identificación de los módulos profesionales transversales
+
+Los módulos asociados a las habilidades y capacidades transversales, y a la orienta-
+ción laboral y el emprendimiento pertinentes para el conocimiento de los sectores produc-
+tivos y para la madurez profesional, son los siguientes:
+a)
+Para los ciclos formativos de grado básico:
+— 3159. Itinerario personal para la empleabilidad.
+b)
+Para los ciclos formativos de grado medio y superior:
+— 0156. Inglés profesional (GM).
+— 0179. Inglés profesional (GS).
+— 1664. Digitalización aplicada a los sectores productivos (GM).
+— 1665. Digitalización aplicada a los sectores productivos (GS).
+— 1708. Sostenibilidad aplicada al sistema productivo.
+— 1709. Itinerario personal para la empleabilidad I.
+— 1710. Itinerario personal para la empleabilidad II.
+
+#### Artículo 3. Referentes de la formación
+
+Los aspectos relativos a la finalidad y al currículo básico de los módulos profesiona-
+les de carácter transversal son los que se definen en los artículos 98 al 101 y en los
+
+BOCM
+anexos III al X del Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la orde-
+nación del Sistema de Formación Profesional.
+
+#### Artículo 4. Currículo
+
+El currículo de los módulos profesionales de carácter transversal, con indicación de
+sus resultados de aprendizaje, criterios de evaluación y contenidos, queda establecido en los
+anexos I al VIII de esta Orden. La duración y, en su caso, los créditos European Credit
+Transfer System (ECTS) de los módulos profesionales será la establecida en el anexo de
+distribución horaria de la norma que regule el plan de estudios de cada título.
+
+#### Disposición FINAL PRIMERA. Habilitación para su aplicación
+
+Se habilita al titular de la dirección general con competencias en materia de formación
+profesional a adoptar cuantas medidas se consideren necesarias para la aplicación de lo dis-
+puesto en esta Orden.
+
+#### Disposición FINAL SEGUNDA. Entrada en vigor
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el BOLETÍN
+OFICIAL DE LA COMUNIDAD DE MADRID.
+Madrid, a 12 de agosto de 2025.
+El Consejero de Educación, Ciencia y Universidades,
+EMILIO VICIANA DURO
+
+BOCM
+
+Módulo profesional 3159. Itinerario personal para la empleabilidad
+Elementos curriculares
+Resultados de aprendizaje y criterios de evaluación:
+    !" !# $%#&& ' %&   #!(
+& )& &#$!#'#&*&#+&&
+% #!#
+,-+#&.# &#+/&#$ &".! 
+' +&&&.#
+!,  - & )&  # #$ #&  %  #
+#)
+,-&'#&) #&#$ +&&'
+&*&#+&&..#)#& & #!(
+')#.&&#)#)#)& 0 %
+1  .&& & #+/ ' # / &%&   .#
+ ## */&$%#&&' 2!"&#.#
+%3
+,-&)&'&)#&.&&&#+/'.&&&
+# /4%&!##+ #&*%#$'..#%
+%&4%+ !
+!,  - &. #&  && # #  .&& & #+/ '
+# /&%& %# 
+,- ## &$)&'&&   &*/
+&$%#&& ##)& 0 %&)#. +
+&,-& )& 2!". #&#.#%3'
+./'%&! 4%0
+5##  +&& & % .  4%  #.  # # 
+. #) . +&#   4% %& &$# & %
+&&
+,-+%&# #. +-!&&'& #
+.#&%#&% . 
+!,-& #.&. #'+##
+.
+,  - +#&    & %  .   # & !64%& &
+.
+
+BOCM
+&,  - & )&  )#  &!&& . ' # %&&
+###/#)0. # $##
+.'##+-. 
+,  - & )& 3  + & )% %# #  #/ #)
+&.  #'& ##
+7## -!&&  #  4%  - &. #& .
+)%&. -#& ##%.'. #
+,-+#&.# &. #'
+.!&&
+!,-& # $##.&.## +
+# ##&)#"&&&% $#+
++
+,-% #"  2&# /#'# #%
+.%/) +') ++#&%.# .#%##
+#.!&&
+&,-& )&!)& #!(4%0.&)# 
+)#.&+#!
+,-#&&)#.)3!' + ) ' %
+%+#+-&# %&&'$ &&)% &-&
+%& # $#& $.
+8&)#./&! ##&2.#)
+4%   %   #+2 &  + $/ '  #)3/ !# &
+# +
+,-& #.&#&&& #!# %
+!,  - & )&   ## &2. ' #) )  %
+ # '  - +#&   4% .(#  (%   % #)
+#)'%#)#
+,-+#&.# &)#./#. .) #+
+#.'& /.!
+9:  .#- %  ## # &  &   
+&% +'#)+#&+ (+ &&%
+&  ' 3.& 4% 4% .(#  (%   % !&& '
+#)#
+,-+#&+ (+ &&%&
+!
+
+BOCM
+!,-&'&4%."(% %#)
+#)
+,-#&%#& .&&& )& ##
+&2. ' #) #  # # & % #)# #)
+ #'. .#&%#' #)
+; # $&.#&& #!(#% ('
+% -##. ###&#/!#
+,-&!64%&&..%#
+!,-& )&&)# )% &)#./&.
+,-&&   2% &#!64%&&.
+#% (
+&,  - %   #"   &)#  -##.  4% #.  %
+!64%&&./ .
+,-&&#-'!$&#+&&#/!#
+),-& )&&)# # &% # & #!(0.
+ &.0.&..
+
+Contenidos:
+ !"!#$%#&&'%& #!(& )/&
+#$#)
+, #!('%&< !"
+!,"&&& #!('%. %&& #!(&#
+* &#+& & #!(< &  & #!( ' )#.&&
+#) =# #. + !" #- ' &!# !" &
+#!(&#'.##
+, $ !# $# ' % #+/< " &  #$
+#&&& #!(
+&, $ !# 0) ' % #+/< " & % !
+%#$%#&&'%&& #!(&# #
+4%%! 0 %
+1/ &.&& & #+/ ' # /   .# >2
+!"#.#%3
+,=&&&#+/'# / +&+&%&#$!#
+? */ & $%#&& ? 4% & # / &+&% : &
+% # /<&.#$'+%/
+
+BOCM
+!,#$.6!#&$%#&&'%& #!(
+,:#.#%3<# 2!"'# & %/
+! 4%0&#.#%3
+5% . .-##. &# /.#)
+. +&#
+, % .  '  & && #< #$ &  #&&
+ # . + +# -"!  = +/ '  / # 
+&## &   # ' #) :# / & & 
+#& &&&$ 
+!,?%  ..-##. +#%. &&&#. 
+# '  .(# &  .!&&  # $ # .(## 
+% )
+,? .  # '  ." &.&&   .#&
+!#% "'&&% #0 <& )/&)# 
+&!&&.'# %&&#.
+&, # $##/!#'#$#/#)
+7? -!&&  )%&.    # & !64%& '
+. . &.
+, # $ #  #&( ' &## & -!&&  ' &
+.%/
+!,>2&.%/@###' 2&.%/# +?
+.%/+#!'+#!
+, #!(  4%  # $ "$ & #!(  4% ? #
+$#%A /'#%/&) %4%& #!(
+8 ##&2.'#)
+," &  # !# &  # #) & 0 % & 
+)#. +>&&.#&!#
+!, ##&2.#& 0 %&)#. +
+,#&(#$&+&B#./#. '#)
+9*'&##& ##&2.'#)#
+, ##&2.'#)#
+!,"&&% +&2.
+,"&#)$6 ##
+&,:#' #)!( +)#./>.&&
+
+BOCM
+; # $&.#&& #!(#% (
+, # & !64%& & . B%  & )#./ >2<
+C##. '#%#&$ 
+!,"'/&)# $6#)#)#
+,#/'&)%/&.## &&   $&%
+.%
+&,%##%%.+ C##. &$ #%!#/?# &
+. +/
+,>#!(#% ( &#/!#:# ' &
+.0.&% # & #!(?&#-'&!#!"&#+&
+&#/!#
+
+
+Módulo profesional 0156. Inglés profesional (Grado Medio)
+Elementos curriculares
+Resultados de aprendizaje y criterios de evaluación:
+.#& )#./ & 0& #) '  &  & 
+&%##. &$% "&#&)#& &
+$! & .(
+'
+#"&
+
+
+#%#
+$D0 
+##& 
+,  -  %&  .(  %  3  # .& & " & %
+# #0  3 %' 3 %
+!,-& )&-#$%. &.(#'-& #.&
+#4%#..
+,-#&)&&&.(' # &%.(&# 
+)/%4%# #.&%& +
+&,  - 3 #0& )#./ 0)  &  &%# # 
+$% "&##&+&#)&2.
+,-%&.   %' &.(
+),-& )&'#%.&#&&&#&%&%#
+!# .& #. &#.&&.%/'. &
+$% "&#
+
+BOCM
+$,-#& #%#'-$%&&
+&&%##&%#% +#!&%+#!
+-,- .&&.# &.#&#$!. %
+.(  && &  &# & ' & % &  .  &
+..
+,-#+&&"& /'&. +%#
+& )#&+#$)& .% +&.#
+1.#& )#./ #)  &  3  #  
+&&)#..#+% &
+,-&. #&% '&# 2#
+.#/& 3 
+!,-0&&)#..#+ 3 #$% "&#
+,-#& 3 ".! & #4%#)#
+&,-#&&#&% 3 # & )&
+)#./ #+   && &  &# & ' & % & 
+. &&- 3 
+,  - & )&  #.$0 % & 0 .   #% %#
+$#. '&.". # #0 && $0&%#+
+),-#& #&%& 3 $% "&#% &. #
+&'#
+$,- ## &.(#!& #+2&#  ." 
+%4%# # &# 
+-,-#&)&&&&   3 # %4%## 
+$% "&#'#& +&&#)
+,  - 3 #0& )#./ 0) & 3  & &)#   %#
+# +%#)/' &&  # 
+5:#&%.(##' #% %#&# &.
+$  ++##)
+,-& #.&#$ #."&%&#./&.(
+!,  - .%& % & )/#.% 3 & %/ .#&#
+&%#+' # $& #/#& %/&.%/
+,-&# --!#+.#+ #&%#)/
+&,-% &## .  #.$0&#)/
+,-3#& . &%
+
+BOCM
+),-%.#& +&&#& ##)
+$,-&# '%&%#& #!(&%. 
+-,-(% )& /&#% #&-&%
+&#.&# 0'&.&#&
+,- #.!&# +)%&)#./0)'& &
+% &)#& #% %#'&)# #  ." 
+(,-#&&.### !#+'##&!#
+% .& #&%&&-&%&# &%&
+E,  - .%&  ".  & & % + & )#.&&
+&%&#% 
+,-#&&#$% # +%+&F#)%&
+#&% #+ & #!(
+.,- &#)#.%/&&%##/&# &
+..%&-&#&##%.(#.#/
+7 &  3    $%  "&# #&  #$
+$#. )&&&..
+,-& # $ #% %#+!%#'+
+."&%&# & 3 4%+##G)3 # ##
+ #/ # #,
+!,  - #& & 3  !#+ #&     & 
+#)
+,-#$&)#./&.#-# '-&
+&,  - #& #6. & 3  #&  %  #
+#)& )&&#&..
+,-%.. &&%. /0)&%.#)
+&)/#.% !&'+!%#0)
+),-%.. &% 3 &&'+%'+$D0 
+# &
+$,-% &)/#.%&# 0#&&%. 4%+
+!##
+-,  - #  ##& )#. !"  )#.  )0  &$ 
+& &#. &#)#./ #%#++#!
+%#./% #$ /.# &&+
+& $0 3 %
+
+BOCM
+,- .& '.()#./!# 
+#&%!##)
+(,  -  & & )#. #  )#./ #)#    
+#&%.#)G"$H!'## #/ #
+ #,
+8   %& ' .# .  #)   % &
+.%/&#!&# 0# #0 &0&
+$%3 #(#
+,-&)&#$."$) +& %.!#'%&
+.%&&&&-!$%3 #(#
+!,-&# # '#.&#/#&0
+,-& )&+#'##&.%&&&&
+-!$%3 #(#
+&,-& )& F#)#& #
+%4%# & 3 
+,-&# '#.&#/#&0&
+$%3 #(#
+Contenidos:
+.#/& 3 #
+,=(  "&# ' #) &  # . &   %/ &
+ #/$#!&
+!, .  & &)#  #$ # & )#.&& ' % % 
+.!/ /
+,3#&#)#'$% 
+&, # $')/#.%# ##)/# /')#./
+)&.#&#.(
+, # $ # . # % +#/ <  #&%/ &
+(.')#.%/&#$% #)#.#.#/
+), B/#.%-! %#3### 0%&$&'&&&
+$,># .  ' )/#.% # .#&# #". # & %!/
+&#&#$#%$#
+-, %&&)#./0)'$#
+,  #%!##' ##& #!(
+
+BOCM
+1:#&%/& 3 #
+,=(  "&# ' #) &  # . &   %/ &
+ #/$#!&
+!,)# #$ #&)#.&&3#&#)#'$% 
+,B/#.%-! %#3### 0%&$&'&&&
+&,B/#.% -! % # # . # ' )# +# 
+&)# 
+ #
+#)<
++#
+)/
+# #% #+ !# 
+,B/#.%#3###". #&%!/&#&
+#$#%$#
+),  # $ # . # % +#/ <  #&%/ &
+(.)#.%/&#$% #)#.#.#/
+$, # $')/#.%& /&#)/# /')#./
+#.#/&%.(
+-,>#.$00)!"#&#)#)
+, =(  # &#  #!# )#./ !#  #%
+# ##& #!(
+5.#/& 3 # 
+,.#/$!& 3 &
+!,># . &&)# #$ #&)#.&&
+,=( "&#'#)& #
+&,.#/ & 3# & #)# ' $%  ' & )/#.% &
+.%/-! %
+,.#/ # + & .( & ##  #/  )#.
+.% + 
+), .#/)& %&&)#./0)'$#
+$,.#/ & & & 3  !" #) &  # 4%
+. #.$00))%&. < #%&#/&
+#.% % # 
+-,.#/& &&)# & #!( ##)
+, /  % & &# #&% # & 3  ' -##.  &
+% #)#
+7:#&%/& 3 # 
+,:#&%/& 3 #  &'&".! #)
+
+BOCM
+!, /&)# #$ #&)#.&&'# 0# 
+,3#/&#)#'$% 
+&, %&&)#./0)'$#
+,%.. /&#  "&#."-! %& #<)#.&
+ %# '#% .# # #
+), &/& #%!##' ##&
+#!(%&)/#.%-! %
+$, &/ & #  #&   # & #/ !#<
+%##0%%. +  #  & # / #% %)# & #!(
+ # #
+-, &/&.(&## #/'& !#+
+8. % %#
+,=( & -!&& < %& !+& . .  &
++#'#.&# 0
+!,
+ & )/#.% # ## +  ' %$#  % #/
+.#&% /## 
+,.  &  %.!# -## ' -"!  #) 4% &)#
+ #&  % %#
+&,. &#.% %#'# ##
+ #
+,
+&#$ #&%&$6 3 &.%/ /
+& #% #
+), .  &  $% 3 #(# . .& # #)%&# 
+.  4% #%  &  #2   #$ &  +& # '
+#)
+$,& )/ ## /&. % %#."$) +
+&0&$%$
+9 &23F$#. 
+,A#%&+#!<3#/&# I3#/&&.<+#!
+#$%#  ##$%#I ' 3#/ & )% %#< J$$ K JHK J.
+# K'J#  %%K
+!,  &  ##&& .% && '  ##&&< # '
+&+#!& .
+,&+#!&)#%
+
+BOCM
+&,#!.&
+,:#&%$#
+),#&# +
+$,3#/&-/ <#.#'$%&&
+-,3#/&/%)&&'#% &
+,?++
+(, ? .#/ & &( + ' &+#! .# + ' %# +
+##$%#
+E,&( +#&#!##)0'#$&#&&
+,:#.!# ##$ +
+.,A% '#)#
+, %# $D0  4% #.  % -# 3 %  #+2 & 
+&%/& 3  3 .% +0. ')#. &
+3 
+*,/23& #% %# " '& &#+ #
+ /.% +
+,B/#.%## #&%# .
+,?23' #% %# " 4%#. &####%.#%&
+4,!#+ %#."%%  # .&%. .#
+#,#)-)/#.%#.#' #.## 
+, #)0&% & #!(%!/'+!%#0)#
+&#&#
+,?23&0&&' %.!#-##
+%,?230)& ##)
+
+
+
+Módulo profesional 0179. Inglés profesional (Grado Superior)
+Elementos curriculares
+Resultados de aprendizaje y criterios de evaluación
+.#& )#./ & 0& #) &2. '  &
+ &  &  & &%# # . & # %4%# .& &
+
+BOCM
+.%/$% "&# ## &#/ &&
+.(
+, - & )&  & # & .(  $%  "&#
+#&+&#)&2.
+!,-#&)&&&.(&# . &%4%#
+# $% "&#
+,-3 #0&)#./0) &&  &%##
+$% "&##&+&#)&2.
+&,-& )&% &+ '  %&&-! 
+,-& )&-#$%. &.(#'& #.&
+#4%#&-.(
+),  - .#&& &%&.  .(  $%  "&# 
+.!  ./6 
+$,-3 #0&&#&)#-#)#.'
+ # )#. & # / &2. ' #) $D0 . 
+.(
+-,- .&&.# &.#&#$!. %
+.( &# &'&%&. &..
+1.#& .( #  &  %# #) &2. '
+ &&# +&)% &&&)#..#+% &
+,-& )&&#& 3 0)&%".! 
+#)&2.
+!,-#&)&&&&   3 # %4%## 
+$% "&#'#& +&&#)
+, - 3 #0& )#./ 0) & 3  & &)#   %#
+# +%#)/' &&  # 
+&,- .&&.# &.#&#$!. %
+3  &# &'&%&. &..
+,-0&'.#&&&.#% /. 3 #&
+ #+&&' & %##&+. 
+), - ## &##&# +%&& &
+)". $)&
+$,- ## & 3 3 '&# .(&&#&
+%&&%&&##+# %#&..
+
+BOCM
+-, - & )&  #&   & '  .#  &  
+# 0%)#.!#%.#& .#)
+,  -  ## &  #%  &   + & &)% & '
+.( 2#!& #+2&# &$ 
+(, - #&%& 3 &# .(&&% &. #&'
+#
+5:#&%.(##'! #% %#&& &
+& %/'& "&#$ #$D0 & #% #
+,-. &.($##& #'&+& &
+% &3' # $& #/
+!,- #.!&)%&)#./0)'& &% &
+#% %#&%.(&&#&+. 
+,-&'&#$ #&%&#./&
+.(0.# '#.&#/#&0
+&, - #& #  !  #% %#& !# . & %
+".! #)-&%&#  !&
+,-% &## .  #.$0&#)/
+),  - &#  ' %& #.  % # & #!( & %
+. 
+$,- &#)#.%/&&%## &..%&-
+&#&#
+-, -  #& ".  & &% +& )#.&&
+&%&#% 
+, -3#&)%&#/')!#%.#&
+.$#&2.#)&.#&#&&
+#/ #&
+(, -3#&'&)&&% &+ #&&##&
+3'#$%. &%&
+E,-#&&#$% # +%+&F#)%&
+#&% #+ & #!(
+7 & &%. )#.#& #&+&&2.'
+ &#&#%#$D0 #/ &..
+, - #  3  # ' & & !# % +#&& & .
+#&  % #)/   & ' +%& )#./ '
+#$%. #& &+#)% 
+
+BOCM
+!, - %.. & &%. / 0) & % . #)
+% & +!%# 0) ' #  ' #. & #/ 
+#&0
+,-#$&)#./##/#/-/'
+-# &) &)#./& $#& &
+&,-%.. & 3 .& '+%'+$D0 
+, - !#& )#. & &    $) + '
+)#&& #+ 4%#+&'
+),  - #  #  )#.  )#. .&  )/#.% &
+# 0 !&'+!%#0)#!#/&
+..
+$, - #%.& &)#   & &%.  #  % & %
+##%#$D0 
+-,-% &)/#.%&# 0#&&%. 4%+
+!##
+8   %& ' .# .  #)   % &
+.%/&#!&# 0# #0 &0&
+$%3 #(#
+,-&)&#$."$) +& %.!#'%&
+.%&&&&-!$%3 #(#
+!,-&# # '#.&#/#&0
+,-& )&+#'##&.%&&&&
+-!$%3 #(#
+&, - & )&    F#) # &  # 
+%4%# & 3 
+,-&# '#.&#/#&0
+&$%3 #(#
+), -#&.#&#$D0 &#&#$
+Contenidos:
+.#/& 3 #
+,.#/ &  #%# $D0  -! % '  !# +
+% &.%/#&#" #$#0)&".! 
+#)
+
+BOCM
+!, # $#.#&#&#'%&## 
+'&!  %/&#!.&.#/ %&
+ #.!#
+,& )/&3#&/#)#$% '#.
+&,B/#.% -! % #  &# . # ' )# +# 
+&)#  #'# .%/6 
+1:#&%/& 3 #
+,B/#.%&# 0')#.&&&%& 3 ' #% #
+!,B/#.%-! %##. #')#+#
+ ##)#$ #'$#&&)#.&&&%&
+,3#. &/$% '#)#
+&, # $ # . #  )%&   +#/<  #&%/ &
+(.)#.%/&#$% #)#.#.#/
+, # $&#)/
+), 3#/&&#'%&## '&! 
+$, % &%&&4%('#.
+-,:#&%/&.(#&#%/&#!. 
+.)%. &!( .4%#)#." 
+.%/& #% '
+,  #%!##' ##&% & #!('&
+ ##)
+5.#/& 3 # 
+,>2 & / ' / &  )#./ #+ <  %#
+#"&#& )/& .#' %## & ##
+%)#./0)
+!,#$/ &  )#./   3  2< 0& 0 %
+!.  !4%.'$#")
+,# #0  &   & &%.  # &  # #)<
+)#. # 2$#.&$%#&& 
+&, #/)%&# &)/#.%&# 0')#.&&
+,.#/& &&#%#$D0 -! %'!#
++% &.%/$#'0)
+),  ## /& #.$00)& ##)
+
+BOCM
+$,.#/& &&)#./ & 3 # #
+& ##)<)#.)#.%#) #&
+)# & #!( #%##& 
+-,
+ & &# #&% # & 3  ' -##.  & % 
+#)#'"&)#./
+7:#&%/& 3 # 
+,# #0 &.%/# #)<) #' # $
+4% #!%'#&&%&&-#-/'#/&
+# 
+!,>2 #  !#/ & #6. ' 4%. &  0& 
+%-&
+,.#/&#%#$D0 -! %'!#+% &
+.%/$#'0)
+&,:#&%/& 3  &'#)& #%&#$ #
+')/#.%&# 0&%& 3 &.%/
+,%.. / ' )#./ & &%.   & ' & 
+&%.  &   # / &  #+ # & #)
+#)
+), :#&%/ & .( 4% .4%   %& & )#./ # 
+#&#%/&#!. .)%. &
+!(  .4%#   )#."    .%/ &
+ #%& #!( '
+$, &/&# '.( #/#&#
+&#/!#<%##0%%.+0 # &# /#% %
+)# & #!( 
+-,
+ /& #.$00)& ##)
+, ># . &4%('#.
+8. % %#
+,
+ /&%&')%&&)/#.%&-!&&
+<
+%&
+# 
+#
+!+&
+#/
+.# . .  & +#   
+ &   / '
+#%/&%&&&-)/#.%.%/#
+!,.  &  %.!# -## ' -"!  #) 4% &)#
+ #&  % %#'#$
+,. &#.% %#'# ##
+ #
+
+BOCM
+&,=#&# $D0  & #  #. & # 0 '
+&)#&#$ #
+,
+&#$ #&%&$6 3 &.%/ /
+& #% #
+), .  &  $% 3 #(# . .& # #)%&# 
+.  4% #%  &  #2   #$ &  +& # '
+#)
+$,
+&#%#)#.')% %4%#4%#%
+.# . F#))&#' #%!%.$
+&.#
+9 &23F$#. 
+, A#% & +#!< 3#/ & # I 3#/ & & . '
+#) I3#/&)% %#
+!, & ##&&.% &&' ##&&
+,&+#!&)#% .%$#'.&
+&,#!.&
+,?++
+),#&# +
+$,3#/&-/ <#&
+-,3#/&/%)&&'#% &
+, ? .#/ & &( + ' &+#! .# + ' %# +
+##$%#
+(,:#.!# ##$ +
+E, %# $D0  4% #.  % -# 3 %  #+2 & 
+&%/& 3  3 .% +0. ')#. &
+3 
+,/& #% %# " .('& &#+ #
+ /.% +
+.,?23' #% %# " 4%#. &####%.#%&
+ #/< .#&# & / ' .#&# # &### 
+)#./
+, #&% & #!(%!/'+!%#0)#&#
+&#
+
+BOCM
+*,B#./&!##&#+/./'%&#)('%)(
+."-! %I$'!#+ %#%%.%/.#
+,?230)& ##)
+
+
+
+Módulo profesional 1664. Digitalización aplicada a los sectores
+productivos (GM)
+Elementos curriculares
+Resultados de aprendizaje y criterios de evaluación:
+ !&)# #.0?G?,'.0#%#
+G, & )&  + ( &    #/   .&.!  ' 
+&## !
+,-& )& L 0M&.&!&?'.&
+!&
+!,  - & &   &  .& ? '  ' % ##%/  
+.&.! 
+,-+#&.# &#(.&/.
+&,-& )&##!&?
+,-& )&##!&
+),  - .#&  .&  ##  #/  % . 
+.&.! 'G!( +&## !,
+1# ## &7N +%/&% #&&
+.!'+ (4%#&%  &&% &+ & 
+.&.#
+,-#& .!#)0+%/&% #
+!,-&.!#&%& .% . &
+,-&# .!/&# )0&&% #software
+>G # &,.% # #
+&,-&#  ##/ #.%&)0'+# %
+,-#&.$#/ #7O.(#&#% &&
+.#
+),-& )&+ (# '.#
+
+BOCM
+5& ) #% %#& .!&cloud %!&#!&%
+$0'.&/
+,-& )&&)# +&cloud%!
+!,-& )&#)%&cloud%!G#. 
+&&  #.!&)#./(%/& # #,
+,-&#  &edge computing'%#/cloud%!
+&,  - &)&    & )$ ' .  ' %  & /  
+(% 
+,-& )&+ (4%##% /&cloud%!
+ . &
+7.# .&#&%/'# /&#+&$ &
+ ."& )&.(# #&%&
+,-& )& $0-! &#G>C, %4%&)%
+ .&$ &
+!,-&# # #0 '&>G $# ),
+Big Data $0 8A  #!/  !# + Blockchain !#$%#&&
+)!#/& +#&&+# %$.&$  # #
+,-&#  #!%/&>C.(#&#&% +&&'
+)& .#&% +&# /&#+
+&,-#&/ #%&&)%&.#
+4%)#. .'!( +&..
+,  - #&  . / &  $0 -! &# G/#
+# . && % . /'.% # #,#&%/
+& '.(#&.  +&&
+),-#& $0&#% +# 
+##&% +
+$,-&)& .&.. && +'
+..&&&%&&
+-,-&# .(##&%& .'&%&% 
+8!#%& #)#./&%.#"& #4%
+.# 0 %!&%? 7O& #.&.!
+ #&%#   # ) &  .  && . ) #0  
+#%#-%.
+,-&)&+&!4%&$#.&)%. &.#
+"
+
+BOCM
+!,-& )& % !&#&$ &
+,-&)& $0.&&%& 
+&,- !&3/& &$ &# & .
+,-!#&%&$#.&!4%& .&$ &
+),-!#&%)#.&+!&&'&.(# #&%&
+$,-&.(##&%/'$ /&#&% # #
+-,-!#&%&%. %&& #)#./'
+#%#.&
+Contenidos:
+?.0G?,'.0#%#G,
+, &?'
+!,##&% +.&&.#&!&?
+
+,=&&.# !&&. .&.! .#
+ %
+&,)#% /'#(&. #'#+
+1%# #+%/&% #
+, .!#)0 /+%/&&% #
+!, .% . &. # #0 
+, ##/ #.%&+# %'.%&)0
+&,.!'+ ( #7O
+5A /%!Gcloud,' . &
+, .!&%!G%&,)/'+
+!,&$.% $'%#/%!
+,B$'=  /%!
+&, %#&%!  !&&.##
+7# #0 & .&#&%/
+,>$0-! &#G>C,# #0 '& # &
+G>, $# )G,@$ ' # . && 
+ # #
+!, / #>C'#&% +&&.  +&&
+
+BOCM
+, . &$ & #  . & ..  & &  
++
+8:& #)#./&$ 
+,"&&&&$  &# %&&' # +
+!,:&)#./&$ !( +'#% &
+,>C .&   &$ / &    /  #  
+)$%#/&.#&$ &
+&, %# .& / &  #%# &$  ' -%.
+#
+
+
+
+Módulo profesional 1665. Digitalización aplicada a los sectores
+productivos (GS)
+Elementos curriculares
+Resultados de aprendizaje y criterios de evaluación:
+    & &$ / ' % ##%/    #
+#&% + &  %    +&& &  .#  & )&
+ # > GInformation Technology< $0 &  )#./, ' >
+GOperation Technology< $0&#/,# #0 
+,-&# 4%2  &&$ /
+!,-#&. /& $0&$ #$/
+&.#
+,- !&&)#'. %& # #>'>
+&,-& )&&# .  0&.#4%%&
+  %# #>
+,-& $0 0&&$ / '
+$
+), -&.# &3/ # #>'>
+$,-&+ (&&$ #%.#&% #&3 #.
+3 #.
+1# #  $0 -! &# &$  # # 
+&%/ #)#./&.# #&$ &#!&
+%# #0 '
+
+BOCM
+,-& )&# $0-! &#&$ 
+!,-#&>C&##&#&% '#+
+,-#&.# &>C.0 !'
+) 
+&,-& )&%+.#&$#&#>C
+,-&./&>C  # &$.
+# & 
+), -& )&.(##&%&&!&. /&
+$0-! &##/ #>'>
+$, - !#& % )#. 4% #  $0  %
+# #0 '"#&/
+5& ) .!&cloud%!'%)%&##&
+ .&$ 
+,-& )&&)# +&cloud%!
+!, - & )&  # )% &  cloud  %!
+G#.  & &   #.! & )#./ (%/ &
+ # #,
+,-&#  &edge computing'%#/cloud
+%!
+&,-&)& &fog'mist'%&/
+(% 
+,-& )&+ (4%##% /&cloud
+%! . &
+7& )  &   G $ # ),   # &  #
+&&  " .#&  0 % &#!&  .(# .0   %
+.. /
+,-& )&.# &% . /&#'
+% ./
+!, - #&     #$& .+ & &  GBig Data, ' %
+# . G",# !&&&.#
+,-+#&.# # ')% %#&
+&,-& )& #. /."#+ &
+,-& )&$%(&#$#./
+), -&# .)%' #& 0 %
+
+BOCM
+8+6.# && 0.%# /%.0
+&$ $!&&)& .&$%#&&'!#$%#&&  
++&4% ..$!
+,- !&&)# #& )#./
+!,-&# &+&&& 
+,-& )&#/ #Big Data"&& machine
+deep learning $# )
+&,-&# # #0 4%&)Big Data
+,-&#   0&&& '%#/
+#
+),  - &#  #&. & .( &&    cloud 
+%!
+$,-&# .# &cloud computing
+-, - & )&  # !( + &   & &   
+&)# .#
+, -+#&.# &$%#&&'%#$%/#/
+& 
+9##%#' & #)#./&$ &%.#&% #
+#& 0 % &% .!4%&!#&%#
+)%/&!( +&.#
+,-& )&!( + # 2$&.#
+!, - & )& ' &  "# & #&%/  $ ' &
+.%
+,-& )&"#% !&#&$ &
+&,-&(&G"#&$ &, #0'4%
+ "
+,- &% &&# ')% %#&.#
+),  - #& & % &  "#   . / & 
+$0
+$,-&!!#-&$%#&&&%&"#
+-,-&)& # . && '%"
+, - &%  $#/ #&  )#.
+4%#  # #
+(, -&%. &.!#&)%/& # $
+
+BOCM
+E,- &% &&&&#%#-%.
+
+Contenidos:
+$ / ##&% +
+,#$0&#+%&% #%# #+%/
+!,$ /. 4%&)
+, #& $0&)#./G>,' $0&#/G>,
+&, #% %#&$ &.#
+1>$0-! &#&$ G>C,
+,>$0-! &#G>C,# #0 '& # &
+G>, $# )G,@$ ' # . && 
+ # #
+!,!#$%#&&?-%&$ 
+,#-'&!#&.#'%&&0#/%&
+&>C
+&,=(#. /&>C
+, .&$ &'& 
+5 .!&%!GCloud)' . &
+,%&)/'+& #!( . &
+!,&$.% $'%#/%!
+,B$'=  /%!
+&, %#&%!'# !&&.##
+7/& $# )G,
+, $# )>'(.&/
+!,?'& ># . && '%# /
+, /& ##&% +"#&/&
+)#. +
+&,:#2 & +&&#)% %#'
+8+%/&& 
+, versus)#./&+&&& .. 
+!,"&& @$& 
+
+BOCM
+,/.#& # . && $%#&&
+9##&%#' & #)#./&$ 
+,!( +&.#P#&.#' # $&&$ /
+!,. /& $0 $#/(% 
+,%. &$%. =&&
+&, %#-%.
+
+
+
+Módulo profesional 1708. Sostenibilidad aplicada al sistema productivo
+Elementos curriculares
+Resultados de aprendizaje y criterios de evaluación:
+& ) .! '&$!#GA,# +
+ !&& &%  &&## !'
+.# #4% #!%'%%/
+, - &#     &  !&&  !&  .#
+ #&&## !
+!,-& )&% .! '&$!#4%
+)%'&## !&#$.##
+, - #&  !( + & ##  ! G,  %
+.# #%/&$&1O5O
+&,-&.# && )# A."#+ 
+#  $#% &  #2 &  #$ #"&  
+#$'# %&&4%%###$/
+,-& )&# "&#&.2 ##+%/
+&&.* !&&'%#&/&% 4%
+.#$/+$ ')% %##$%&##
+), -&# +#/. #!'& 
++## $  0& &  !&&   ).  & 
+ !&&
+1# ## .! '4%)# &&
+&#!&  .  !#  # '   # #&% + '
+#&#..#
+,-& )&## .! '
+
+BOCM
+!,-#&# .! '&##&
+ +&&/.
+,-&) &. .! '!#
+#' ##&% +
+&, - & )&  .&& '  .&  ..# 
+. .! '
+,-&.# & !#' #!(#&.#
+#+# ' #&& # !#&#  23   #  .!  '
+
+5 !  / & # # &  !&&   &.*
+#)'#& )&. #
+,-& )&."#+ # +&&#)4%
+#
+!,-&#$'# %&&4%## 
+,-& )&## &#$%&# 
+.! '&& +&&#)' ##
+7:##&% '#+#! &% #
+&.0#%#
+,-# #&.&&#&%/'%. %
+!,-& )&#&.0+#&'#%#
+,- # &!)&.0+#&'#%#)# 
+.&"&#&%/
+&,-&#&&*
+,-&&+&&#&% 
+), -& )&#&#&%/'# #& !&&
+&
+8  +&& !..&. &..
+.&.! 
+,-# #&.&&#&%/'%. %
+!,-& )&#&.0+#&'#%#
+,- # &!)&.0+#&'#%#)# 
+.&"&#&%/
+&,-+%&. & +&&#'#)
+,-&#&&*
+
+BOCM
+), -& # $ !
+$,-&&+&&#&% 
+-,-& )&#&#&%/'# #& !&&
+&
+, -&#. +.! 
+9%& !&&&%.#& #& )&%
+$#%& #2 A. #'(% )&#%
+$ /'.&/-& )&#$#%& #2&
+.#
+,-& )&#$#%& #2&.#
+!,-& A. #3  +&$#%
+& #2'.# & A#/!( +
+.##
+,-&)&.&..#. $ +'
+#+-#  # %&& 4%    #   A
+& )&
+&,-& #.&.2 #&+%/&&.*&.#
+&%#& "&#& !&&.".. % &
+,-!#&%)#.& !&&'&&#
+#% 
+Contenidos:
+? !&& # %
+,? !&&<&)/.# .0$!&
+!,!( + #  &## &   !&& '   
+.&.!  #.##
+,=# #%#&  %
+1:## .! '&## !
+,  .! '&##& +&&/.
+!,
+4%
+)+#
+
+#+/
+&
+.&
+.! 
+&#!/'# /& .?#/
+5# #& !&&
+,#/ &  !( + &  !&& #&    #
+#&% +
+
+BOCM
+!,"&#$'!)&/& !&&
+,&#!&&## +G ,
+7? #)#./%.0#%#
+,:#&. /&.0#%#!( +
+!,?.0+#&?-%/$%.#!
+8 # $ !
+,*& +&&#.(###+/&.&.! 
+!, # $ # .(##  &* & #&%  ' #+  #
+#&% +' !&&
+,#. +.&.! 
+9:& !&&.##
+,#/&!( +& !&& +&&&.#
+ # $& !&&
+!,!#/&)#.& !&& #./&&&#
+&$#
+,:&)#./&.& # $& !&&
+&,?+%/'.&&& #
+
+
+Módulo profesional 1709. Itinerario personal para la empleabilidad I
+Elementos curriculares
+Resultados de aprendizaje y criterios de evaluación:
+&4%#. ##&.*&)%
+&+!":#+/& $?!#
+,-+#&.# &% %##+ + &".! '
+ +&& &  .# % #$. 4%#& #& 
+&!#%&&# #!(&#& )&'
+)&) #&#$ +&&0.&*&#+&
+&...  %&#$."-! %
+ #& #!(& ##)#& 0 %
+
+BOCM
+!,-)&'&#  &&*#)
+#)#& & #!(')#.&&#)#&
+#)#)& 0 %
+,  - & #.&  +%/ & #$   .# % #$.
+4%#& ' &)&  2 & #+/ ' & # / 4% &!
+##+ #&*%#$'..#%%
+&,-&# & %/&.#$
+,  - & #.&  # &#- ' &!#  . # &
+#+/&#$!#
+),  - )&  &   )#. & $ / &  #+/  
+.# % #$. 4%#&  )%/ &  &   # #
+!&   #. + !# #+/ & #$ !# '
+& #.&)#.&## /&# #!(&#
+.#%#$.4%#&. #&#+/&#$
+$,-+#&.# &3 &%#+ +
+.#%#$.4%#&4%%'%/& %
+##&.#$'#)3&!# &&..
+-,-& #.&#4% '&#+$&%&
+&# #!(&#'%.# ..&&&#+/
+,-& )& 2!"&#.#%34%-&#
+&%$#&&  &   &&*'./
+'%&! 4%0
+1%&!#.# #!(&##% (
+& )"&# &.!'+ %&#+ 4%
+ %& # #   #/ !#   #. + !# '
+. + +& #
+,-&&#-'!$&#+&&#/!#
+0.&& #!( &%+ +!
+ ##)#& 0 %
+!,-.#&#.&&&& # /&
+&)# .&)% )
+,-& )&# #0 &) #&%+ #&
+#$/& #!('&#-4%+
+&,-&# %') &.&)/%/'3 /
+&#/!#
+,  - & )&  #%# !# 3      &)# 
++ %&4%%&&##/!#
+
+BOCM
+),-& )&&)# . &#!&#
+$,-& &  ! &  / '  %  ##&  
+#!(&#'.##%% 
+-,-+#&&$%#&&.##
+.(#&&&&+&&%&&'-#&&)# 
+ $4%%!# .
+,-&## &#+&&%/'
+3 /&#/!#
+(,-& &&&#-)%&. !# &&'
+&  .&&&&## /& #!(&#.#
+E,  - &  &)#  .&& & )   + ' 
+#&. &%/&) 
+5  $%  # #0  &  # #&% + ' &)  %  &
+#!(#"&.  #)3#&
+0 %
+,  - &  # # %&& & . ' & #/
+!#    # #) & )&  !&& & . '
+&%#4%#.  %##)#)
+!,  - .#&  &)#  #4%#.  3$& #  .#&
+!#3$# #!()%/6!#&
+ ##+&
+,-#)3&!#  %&'  %&#4%#& %. #
+ +&&#)#& 0 %0.. 
+#'."#+ # #& )&% #
+&&###/3.
+7'+6% #)'% ##$%#
+# & % # / ' !# % -( & #%  #  #/
+#)  !  " &  .   # ' & #
+#
+,-+%&# #. +-!&&'& #
+.#&%#&% . 
+!,  - &  %&& ' .  # )  
+ +&&#)#&#)& 0 %
+,-& #.&. #'+##
+.
+
+BOCM
+&,-*&#)##) #'. .#
+&%#' #)
+,-+#& &%  .#&!64%&&
+.
+),  - & )&  )#  &!&& . ' # %&&
+###/#)
+$,  - & )& 3  + & )% %# # #/ #)
+&.  #'& ##
+-,  - +#& -  .#     #' # +   +#
+#)&#
+,-& )& ##)#. +#)#&
+#)#)
+(,  - )#.%& !( + #) '  - & #.& . 
+#'#)#.(#&.!&&'&
+&#/!#
+E,  - #& %  & / # &###  "# & .(# '
+ #)# #+##.
+8 # $##&(% /.#&%+#
+#)&# &*& '  .& % #  # & #&(
+-& % &  $0 &$  . -##.  & #&(
+% /. & -#   % & && &$  ' % # !( +
+#) &%&&##&+&%
+,  - .&  &  #!&& &+&%   &##
+#)+#&  %&&#&(#. #&##&
+#'%+. 
+!,-& )&.!&&.&&&& / #
+!#
+,-&'% &-##. )% &)#./3
+' +&&#)$%#/&% ##&#&(#
+.!&&
+&,-% #" . &$ #)$%##% #
+#&#&(#.!&&
+,  - &    & & && &$  ' % .   
+.!&&
+),-(% )&&*&% #&#&(!&/. 
+.(#.!&&
+
+BOCM
+$,-!#&%&&##&+&%.-##. #
+.(#&.!&&
+-,-&-##. &#&(% /.#%&##
+#'#)
+,-&*& #&#&(4%#. #&
+&##&+&%
+Contenidos:
+B%&+!":#+/& $?!#
+, #!('%&"&&& #!('%. 
+%&& #!(&#
+!, & )/ ' )/ &  ) # & #$  $# ' 
+#  ##)& 0 %&)#. +
+, * &#+& & #!(< &  & #!( )#.&&
+#) # $0&#+&& +&&!#
+&, =# #. + !" #- ' &!# !" & #!(&# '
+.##
+, $!#$##&&&$%#&&
+ & .&.!   & #$/. ' 
+&
+), $!#0)'%!%#$%#&&
+'%&& #!(&# #4%%! 0 %
+$, =&& & #+/ ' # / & #$ !# =&& &
+#+/ :# ' 2 & #+/ =&& & # /
+ +?*/&$%#&&=&&&# /&+&%?
+4%&# /&+&%# / +0)
+-,/&.&&&#+/'# / ##)
+4%%! 0 %
+,#$.6!#&$%#&&'%& #!(
+(,:&#+/&#$!#+%/&#$#$/
+')/&#+/:&% # /<&.#$
+'&+%/
+E,:#.#%3< '#$#'# & %/
+  %&.#$>2!"&#.#%3&
+
+BOCM
+%$#&&  %/)%/&! 4%0&
+#.#%3<./'%
+1?#/!#/#  #& .&$%#&&
+,&#-& #!(=#(%#0&#-'&!#&#+&&
+#!#
+!,   #  & #!( =&&& &  #   #& & #%!
+B3!&&   #$/ & #!( / >. & #!(<
+"+! ##)& 0 %&)#. +
+,#!&#&/. !&+
+ +! ##)& 0 %&)#. +
+&,=&)/%/'3 /& # & #!(:#&. &
+#./(%&
+, ? $%#&&   #% %# &  . :# !$ &
+.##' #!(&#. #&$%#&&/#  #<
+ $'## /.&& .#?
+# /#&.< %/$&&.# /%!&'
+ #'%&
+), ? ## / &  #!(&# =&& & )   +
+:#&. &#%/&) 
+5 ##&% +'%#/#)#)& 0 %
+,"& ##)& 0 %&)#. +'% %#!#
+!,>&&.#&!#'# %&&.#$ 
+, ? .  # '  ." &.&&  .#&
+!# %& )/&."#+  ##)&
+0 %&)#. +  %&'  %&#)
+&,& )/'&#/&% & #!(#&
+#)#)& 0 %
+,"&. #)'#4% #$#
+&. #/6!
+7 #)<% # /##/#)
+,"& #). #'#)
+? #'. +/? /'%  ..+#
+.(# &  .!&&  # .(## ' #4%# % #
+. 
+
+BOCM
+!,% "&)# &!&&.'# %&&#
+.
+,& )/& ##)#. +#)#& 0 %
+&)#. +# %&&&)#./'&%/%#
+&,  %##%%. +     > =& C##. 
+&$ #%!#/?# &. +/%##%%.%#
+# %&&&.%#
+8#&(% /.
+, #/ & %  # # & #&( & )/ &
+&& & #&( B%  & )#./ C##.  &$ 
+###'#$#)#./' &&#&( &#&
+#&(<#&#)'&.%/
+!,&&###G::,.-##. #.3.#
+  '  &## # ' #) +%/ #/& &
+#$#
+,? & &&&$    ' # #0  $&#+& &%
+$ / &%& :# / & &  #  & && &$ 
++#.
+
+
+Módulo profesional 1710. Itinerario personal para la empleabilidad II
+Elementos curriculares
+Resultados de aprendizaje y criterios de evaluación:
+:)'.#- # $&)# # +
+&.4%#. .(##%!&&&#/!#
+,-& #.& 2% & %.  ##
+#&/&#
+!,-&##& # $#!64%&&.#&
+ 2 %."% & 3 %& #
+,  - +#&    %& '   %& 4% #.  %## #
+ + ##+&' #6!
+&,  -  #%& % .# # & )&  && &
+.#& %%-!&&& #'%# &+#
+
+BOCM
+1 # $#&. #'
+.#.!64%&&.(#&%.!&&
+,-+#&.# &. #'
+.!&& #&#)#
+!,  - # &  +.     !.  &  !( + &
+4%' .&&&..'%.&#!&&&
+'&&$#%# & +. $#&%
+!( + .# & #&   # # ' .# & 
+&#$
+,-##&##&#&( 2'#%#
+&# /'.%/  #.# &%&#
+% .%/ ) + ' ) + &  & & #  &
+ %/'#% +#&# %&&'&)% &4%)#
+&%&
+&,-& 2' # $#$ /& .&!
+##!( +  &+&%.&4%'#$#.&
+ +&&#
+,  - &  # $ # #  . . #& %
+  %&)3!# ##
+),  - &##&  # $ #  #$#./ &  +&&
+ &&  # # & #$/ )  ' #+&  !
+&)% &
+$,-#&&)#.)3!' + ) ' %
+%+#+-&# %&&'$ &&)% &-&
+%& # $#& $.
+5:#" -!&&.#&&###&##
+& # & +/  + $/ & 4% #.%+ 
+.&#/& ##&% +-%.& !
+,-& )& &+/'%#/ #%/
+&%&&." !4%.(#! #&&+&%
+!,-&&  . &$0#.#&#'%.# 
+#)+##+/'.)% &#/&.'! #
+
+,-&-!&&.#&&####.+#
+.#&. ' #.#&. 
+&,  - %   #"   #!( !# + . #4%  # 
+&##&#&+/
+
+BOCM
+, -&##&  .  &$ ##  .(#& 
+# & +/  + $/ & 4% #.%+ 
+.&#/& ##&% +
+),-##&!( +&0  +#&
+ !&&'.&.!  # $.##)&
+&##&%.&/.' !
+7& )&)'+&&&.#&. $#&#&%+
+# %&&# #& # $&"& ##&% +
+% &. &$0"$#.#&. 
+,-& )&#!.&#&  # 
+&#' .#&&#.#+#% &%4%
++# # %&&
+!,-% #" ## +)&$%#%&
+.#&&#4%# +#/.'Q% %#
+,  - &*& % .& & $ 'Q $ / &#+& &  &
+.#&&#
+&,  - ##& +# 2  '    & .#&&#
+&.&&!
+,-& #!%/&.0#%#'.0&
+@ .6  &## & % .& /. '  !&  
+4%&&(% ' !&&
+),  - &  # .  &  # $# '
+0)'%. &.#&&#
+$,-#& #+ &#!.#+&##)'#!.
+&#&  #&&.#&&#
+-,-+&&%/.& #/&#  !%&
+(#!.'%/
+,-3#. &% #" & # $&.#E $
+#&###& # 2&.%/'+ 
+8 ## % #'  .#&&# & +/  'Q /$
+&!#/ #
+,-& !"&.#&. '+/
+
+!,-#)3&!#&&&&#$2 ' !
+#$
+
+BOCM
+,-#)3&!# $0.!#.!&.&
+#&% +
+&,-% .#- # $#&. &&*
+#&  #&&'.&.! 
+,  - &  .  & &* & .& & $
+'Q&! /$
+),-&. &&## !&*&.&&
+$&! /$
+$,  - &   # $ # # #  +!&&
+/.F)# & .& & $ #%  & #' 
+.#&&#
+-,-+ $&)#. #!
+,  - &)&  $  .&   #'  0 . %
+# /..
+(,-&)#.(%#0&."&%&.&&$
+E, - &#   #".  &. # + #  %  .#- &
+$
+,  - & )& &)#  !$ ) #&  
+.&&$
+.,-&!'%&'%!+##/'
+&##&$
+,  - %.. &  &%. / !" & #" # .# '
+ !
+*,  - & )&  +0 & #.  ' $ / &. # +
+3 #3  -#&#.#-%.#
+Contenidos:
+?# +&.< # $##/!#
+, # $&!64%&&. %#B% 
+!, " ' / & )#  $6  #) #) # =#
+#'#&&  :# /&& 
+, %/&%##%%.+ '&# &. +/
+
+BOCM
+&,?.##% "+#&)#!( +' # $&
+&)%/#&?# /&& #'$# 0&
+&#-&$ 
+,>2&#% . '/&#4%.# &
+ # $#%#/&%# +? #+ & #!(
+B'##/
+),# %&&&.%#:# %#&. 
+%#
+1 .  # '   # $ #  .(# & 
+.!&&
+,& )/&. #'."&.&&
+ ##)& 0 %&)#. +
+!,  # $ #  #&( ' &## & -!&&  ' &
+.%/
+, >2 & .%/ 3#/ #   % #
+0)>2&.%/# +?.%/+#!'
++#!
+&, #%/'&##&%4%& #!(C##. & #!(
+!# + +%/ &  # /   4% & #!(
+%/&) 
+, :#  # $ #  $ / ) & . ' .(# & 
+#&% +&& =2 & #   ./ & .   $ / &
+#' 
+5 ? -!&& .#&&#< .&#/ '  !&& &  #
+#&% +
+,# +&&+/ # #0 '  /
+.#&. ' #.#&. 
+!,#&+/.#  #& 0 %&)#. +
+,"&&)# . &$0#). &# +&&
+.#&.  '  +/ ? .  #&  
+.#&. . &$ 
+&, & )/ % " ' &## &  # .  '
+-!&&.#&&#
+, #!(!# +. # $#&##&+/
+7&&.#&. $#&#&%+# %&&
+
+http://www.bocm.es
+D. L.: M. 19.462-1983 ISSN 1989-4791
+BOCM
+, " &  .(# 4% )+#  %/ &  !( + &
+ !&&#& ##) #+2&. &$0
+"$/&# 
+!,+ $/'! /&%
+,)/'/&# #+#
+&, 
+ / & &)#  2 #  ).  & & # + 
++&#
+, #/ ' &## & % .& & $ !&   &
+&% %#.##.$'#!&&## +
+" &  #  %&  + $/ & .#& :#  &<
+#/'+&/?#&&  %&% #
+),.#E $.-##. .#'&+&/.#E $&$ 
+ %.  + #
+8#' .#&&#
+,=&&$!&%#' .#&&#
+!,!( +B%&. !&+#2  !&&. 
+.&.! '#%#&$ 
+,##&#' .#&&# .&.#)#.&&
+$
+&,>#". #  %/&.##+6!'#+&&
+#. $ /'% .#-&%.#/&
+)#.(%#0&
+, " &  +!&& /. ' )# & .& & $
+ +''%&#.#&&#'% /.B&&
+),A /&. # +' !&.# ##)&
+0 %&)#. +
+(03/13.366/25)

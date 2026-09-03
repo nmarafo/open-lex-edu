@@ -23,7 +23,137 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-190-2948.
 anexos_extraidos_pdf: true
 ocr_procesado: true
 fecha_disposicion: '2022-09-15'
+relaciones:
+  cita:
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 27
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo III. , en el que establece que los objetivos de estas
+      enseñanzas,
+    articulos_destino:
+    - Art. 61
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo III. , en el que establece que los objetivos de estas
+      enseñanzas,
+    articulos_destino:
+    - Art. 61
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo III. , en el que establece que los objetivos de estas
+      enseñanzas,
+    articulos_destino:
+    - Art. 61
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo III. , en el que establece que los objetivos de estas
+      enseñanzas,
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo III. , en el que establece que los objetivos de estas
+      enseñanzas,
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo III. , en el que establece que los objetivos de estas
+      enseñanzas,
+  - norma_id: norm-es-l-39-2015
+    capitulo_origen: Capítulo V. la certificación
+    articulos_origen:
+    - D. Transitoria primera se dispone que hasta que no se produzca. el nuevo desarrollo
+      normativo en materia de evaluación y certificación se mantendrán en
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-can-d-84-2024
+    capitulo_origen: Capítulo V. la certificación
+    articulos_origen:
+    - D. Transitoria primera se dispone que hasta que no se produzca. el nuevo desarrollo
+      normativo en materia de evaluación y certificación se mantendrán en
+  - norma_id: norm-can-d-81-2010
+    capitulo_origen: Capítulo II. EVALUACIÓN DEL ALUMNADO DE ENSEÑANZAS DE IDIOMAS
+    articulos_origen:
+    - Art. 3
+  - norma_id: norm-can-o-2013-10-09
+    capitulo_origen: Capítulo II. EVALUACIÓN DEL ALUMNADO DE ENSEÑANZAS DE IDIOMAS
+    articulos_origen:
+    - Art. 3
+  - norma_id: norm-es-2019-317
+    capitulo_origen: Capítulo II. EVALUACIÓN DEL ALUMNADO DE ENSEÑANZAS DE IDIOMAS
+    articulos_origen:
+    - Art. 8
+  - norma_id: norm-es-2019-317
+    capitulo_origen: Capítulo III. EVALUACIÓN DE LAS PRUEBAS DE CERTIFICACIÓN
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 4
+  - norma_id: norm-es-2019-317
+    capitulo_origen: Capítulo III. EVALUACIÓN DE LAS PRUEBAS DE CERTIFICACIÓN
+    articulos_origen:
+    - Art. 16
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo V. GARANTÍAS EN LOS PROCESOS DE EVALUACIÓN
+    articulos_origen:
+    - D. Adicional vigesimotercera de la. Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo V. GARANTÍAS EN LOS PROCESOS DE EVALUACIÓN
+    articulos_origen:
+    - D. Adicional vigesimotercera de la. Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo V. GARANTÍAS EN LOS PROCESOS DE EVALUACIÓN
+    articulos_origen:
+    - D. Adicional vigesimotercera de la. Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-can-l-6-2014
+    capitulo_origen: Capítulo VII. OTRAS DISPOSICIONES
+    articulos_origen:
+    - Art. 29
+    articulos_destino:
+    - Art. 35
+  deroga:
+  - norma_id: norm-es-2016-3229
+    capitulo_origen: Capítulo III. , en el que establece que los objetivos de estas
+      enseñanzas,
+  desarrolla:
+  - norma_id: norm-es-2019-317
+    capitulo_origen: Capítulo V. la certificación
+    articulos_origen:
+    - D. Transitoria primera se dispone que hasta que no se produzca. el nuevo desarrollo
+      normativo en materia de evaluación y certificación se mantendrán en
+    articulos_destino:
+    - Art. 7
+  fundamentado_en:
+  - norma_id: norm-es-2019-317
+    capitulo_origen: Capítulo III. EVALUACIÓN DE LAS PRUEBAS DE CERTIFICACIÓN
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo VII. OTRAS DISPOSICIONES
+    articulos_origen:
+    - Art. 29
+    articulos_destino:
+    - Art. 60
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo VII. OTRAS DISPOSICIONES
+    articulos_origen:
+    - Art. 29
+    articulos_destino:
+    - Art. 60
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo VII. OTRAS DISPOSICIONES
+    articulos_origen:
+    - Art. 29
+    articulos_destino:
+    - Art. 60
 ---
+
 # Orden de 15 de septiembre de 2022, por la que se regula la evaluación del alumnado de enseñanzas de idiomas y de las pruebas de certificación de idiomas de régimen especial en la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -1797,3 +1927,38 @@ Oficial de Canarias y tendrá efectos a partir del año académico 2022-2023. Sa
 UNIVERSIDADES, CULTURA Y DEPORTES,
 
 Manuela de Armas Rodríguez.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**BOE-A-2019-317**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md) (Art. 7) desde *(Capítulo V. la certificación, D. Transitoria primera se dispone que hasta que no se produzca. el nuevo desarrollo normativo en materia de evaluación y certificación se mantendrán en)*
+- **Deroga**: [**BOE-A-2016-3229**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md) desde *(Capítulo III. , en el que establece que los objetivos de estas enseñanzas,)*
+- **Fundamentado en**: [**BOE-A-2019-317**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md) (Art. 3) desde *(Capítulo III. EVALUACIÓN DE LAS PRUEBAS DE CERTIFICACIÓN, Art. 9)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 60) desde *(Capítulo VII. OTRAS DISPOSICIONES, Art. 29)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 60) desde *(Capítulo VII. OTRAS DISPOSICIONES, Art. 29)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 60) desde *(Capítulo VII. OTRAS DISPOSICIONES, Art. 29)*
+- **Cita a**: [**LO1_2018 Estatuto de Autonomia de Canarias**](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md)
+- **Cita a**: `norm-es-c-1978` (Art. 27)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Cita a**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 61) desde *(Capítulo III. , en el que establece que los objetivos de estas enseñanzas,)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 61) desde *(Capítulo III. , en el que establece que los objetivos de estas enseñanzas,)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 61) desde *(Capítulo III. , en el que establece que los objetivos de estas enseñanzas,)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo III. , en el que establece que los objetivos de estas enseñanzas,)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo III. , en el que establece que los objetivos de estas enseñanzas,)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo III. , en el que establece que los objetivos de estas enseñanzas,)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 129) desde *(Capítulo V. la certificación, D. Transitoria primera se dispone que hasta que no se produzca. el nuevo desarrollo normativo en materia de evaluación y certificación se mantendrán en)*
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) desde *(Capítulo V. la certificación, D. Transitoria primera se dispone que hasta que no se produzca. el nuevo desarrollo normativo en materia de evaluación y certificación se mantendrán en)*
+- **Cita a**: [**D81_2010 Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) desde *(Capítulo II. EVALUACIÓN DEL ALUMNADO DE ENSEÑANZAS DE IDIOMAS, Art. 3)*
+- **Cita a**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md) desde *(Capítulo II. EVALUACIÓN DEL ALUMNADO DE ENSEÑANZAS DE IDIOMAS, Art. 3)*
+- **Cita a**: [**BOE-A-2019-317**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md) desde *(Capítulo II. EVALUACIÓN DEL ALUMNADO DE ENSEÑANZAS DE IDIOMAS, Art. 8)*
+- **Cita a**: [**BOE-A-2019-317**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md) (Art. 4) desde *(Capítulo III. EVALUACIÓN DE LAS PRUEBAS DE CERTIFICACIÓN, Art. 13)*
+- **Cita a**: [**BOE-A-2019-317**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md) desde *(Capítulo III. EVALUACIÓN DE LAS PRUEBAS DE CERTIFICACIÓN, Art. 16)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional vigesimotercera) desde *(Capítulo V. GARANTÍAS EN LOS PROCESOS DE EVALUACIÓN, D. Adicional vigesimotercera de la. Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional vigesimotercera) desde *(Capítulo V. GARANTÍAS EN LOS PROCESOS DE EVALUACIÓN, D. Adicional vigesimotercera de la. Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional vigesimotercera) desde *(Capítulo V. GARANTÍAS EN LOS PROCESOS DE EVALUACIÓN, D. Adicional vigesimotercera de la. Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Cita a**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md) (Art. 35) desde *(Capítulo VII. OTRAS DISPOSICIONES, Art. 29)*

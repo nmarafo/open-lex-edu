@@ -25,8 +25,60 @@ tags:
 - oposiciones-y-acceso
 - profesorado
 relaciones:
-  desarrolla:
+  cita:
   - norma_id: norm-es-rd-276-2007
+  desarrolla:
+  - norma_id: norm-es-1984-17387
+    articulos_destino:
+    - Art. 19
+    disposiciones_destino:
+    - D. Adicional sexta
+    - D. Transitoria segunda
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 19
+    disposiciones_destino:
+    - D. Adicional sexta
+    - D. Transitoria segunda
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 19
+    disposiciones_destino:
+    - D. Adicional sexta
+    - D. Transitoria segunda
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 19
+    disposiciones_destino:
+    - D. Adicional sexta
+    - D. Transitoria segunda
+  - norma_id: norm-es-rd-276-2007
+    articulos_destino:
+    - Art. 19
+    disposiciones_destino:
+    - D. Adicional sexta
+    - D. Transitoria segunda
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 19
+    disposiciones_destino:
+    - D. Transitoria primera
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 19
+    disposiciones_destino:
+    - D. Transitoria primera
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 19
+    disposiciones_destino:
+    - D. Transitoria primera
+  - norma_id: norm-es-rd-276-2007
+    articulos_destino:
+    - Art. 19
+    disposiciones_destino:
+    - D. Transitoria primera
   fundamentado_en:
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-2010-12201
@@ -47,13 +99,14 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2'
+  - norma_id: '1'
+  - norma_id: '2'
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-rd-276-2007
 ---
+
 # Orden ECI/592/2007, de 12 de marzo, por la que se aprueba el temario que ha de regir en el procedimiento de ingreso, accesos y adquisición de nuevas especialidades, para la especialidad de Primaria en el Cuerpo de Maestros, regulada por el Real Decreto 276/2007, de 23 de febrero.
 
 ## Preámbulo
@@ -156,3 +209,34 @@ Especialidad: Primaria
 - [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) (Art. 19, D. Adicional sexta, D. Transitoria segunda)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 19, D. Adicional sexta, D. Transitoria segunda)
+- **Desarrolla**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 19, D. Adicional sexta, D. Transitoria segunda)
+- **Desarrolla**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 19, D. Adicional sexta, D. Transitoria segunda)
+- **Desarrolla**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md) (Art. 19, D. Adicional sexta, D. Transitoria segunda)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 19, D. Transitoria primera)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 19, D. Transitoria primera)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 19, D. Transitoria primera)
+- **Modifica**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md) (Art. 19, D. Transitoria primera)
+- **Fundamentado en**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**BOE-A-2009-20550**](./Osn_edu_aprueba_temario_fase_oposicion_procedimiento.md)
+- **Fundamento de**: [**BOE-A-2010-11426**](../02_gestion_y_administracion_centros/RD860_2010_regulan_condiciones_formacion_inicial_profesorado_centros.md)
+- **Fundamento de**: [**BOE-A-2011-15628**](./Osn_edu_establece_formacion_equivalente_formacion_pedagogica.md)
+- **Fundamento de**: [**BOE-A-2015-9453**](./Osn_ecd_aprueban_temarios_han_regir_procedimientos_2.md)
+- **Fundamento de**: [**BOE-A-2022-16194**](./RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md)
+- **Fundamento de**: [**BOE-A-2024-10683**](../03_ordenacion_curricular_y_ensenanzas/RD498_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**BOE-A-2024-10684**](../03_ordenacion_curricular_y_ensenanzas/RD499_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**BOE-A-2024-10685**](../03_ordenacion_curricular_y_ensenanzas/RD500_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**BOE-A-2026-2622**](../04_organizacion_escolar_y_funcionamiento/RD68_2026_regula_inspeccion_educativa.md)
+- **Fundamento de**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Fundamento de**: [**RD476_2013 Cualificacion del Profesorado en Centros Privados**](../02_gestion_y_administracion_centros/RD476_2013_regulan_condiciones_cualificacion_formacion_profesorado_centros.md)
+- **Cita a**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)

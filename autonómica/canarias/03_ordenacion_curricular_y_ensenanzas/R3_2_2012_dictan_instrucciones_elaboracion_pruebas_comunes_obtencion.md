@@ -26,6 +26,13 @@ tags:
 - formacion-profesional
 - profesorado
 relaciones:
+  modifica:
+  - norma_id: norm-can-d-84-2024
+    articulos_origen:
+    - Art. 14
+    articulos_destino:
+    - Art. 114
+    - Art. 115
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-lo-2-2006
@@ -35,9 +42,10 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2012-035-870.pdf
 ---
+
 # Resolución de 3 de febrero de 2012, de la Dirección General de Formación Profesional y Educación de Adultos (DGFPEA), por la que se dictan instrucciones para la elaboración de las pruebas comunes de obtención de los certificados enseñanzas de idiomas de régimen especial, en la Comunidad Autónoma de Canarias, a partir del curso 2012-2013. ## Preámbulo
 
 Consejería de Educación, Universidades y Sostenibilidad y Educación de Adultos.- Resolución de 3 de febrero de 2012, por la que se dictan instrucciones para la elaboración de las pruebas comunes de obtención de los certificados de enseñanzas de idiomas de régimen especial, en la Comunidad Autónoma de Canarias, a partir del curso 2012-2013. Siendo necesario establecer un procedimiento común para la elaboración de las pruebas de obtención de los certificados de enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Canarias, y teniendo en cuenta los siguientes ANTECEDENTES DE HECHO
@@ -253,3 +261,14 @@ b) Prueba de incidencias, destinada a las person as que, por causa de fuerza may
 ### Fundamentos de Derecho
 
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 114, Art. 115) desde *(Art. 14)*
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

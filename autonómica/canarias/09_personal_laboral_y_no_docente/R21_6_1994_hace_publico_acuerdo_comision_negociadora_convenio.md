@@ -21,7 +21,11 @@ tags:
 - comision-negociadora
 fuente_pdf_oficial: https://www.gobiernodecanarias.org/boc/1994/083/boc-1994-083-013.pdf
 fecha_disposicion: '1994-06-21'
+relaciones:
+  fundamentado_en:
+  - norma_id: norm-can-d-84-2024
 ---
+
 # Resolución de 21 de junio de 1994, de la Dirección General de Trabajo, por la que se hace público Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias sobre jubilación voluntaria.
 
 ## Preámbulo
@@ -1467,3 +1471,10 @@ Instructor*. Maestro. Maestro*.
 Profesor Titular*. Profesoras*.
 
 Programador*. Subdirector.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md)

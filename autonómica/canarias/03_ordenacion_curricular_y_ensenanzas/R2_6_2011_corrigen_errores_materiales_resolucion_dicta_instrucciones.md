@@ -28,24 +28,35 @@ tags:
 - procedimiento-administrativo
 - roc
 relaciones:
+  desarrolla:
+  - norma_id: norm-can-d-212-1991
+    articulos_destino:
+    - Art. 105
+    - Art. 12
+    - Art. 19
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 105
+    - Art. 12
+    - Art. 19
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-can-d-212-1991
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-can-res-juriscan-65631-68
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-lo-2-2006
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-can-res-juriscan-65631-68
   - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2011-124-3519.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=65632
 ---
+
 # Resolución de 2 de junio de 2011, por la que se corrigen errores materiales en la Resolución de 25 de mayo de 2011, que dicta instrucciones sobre organización y desarrollo de las pruebas de acceso a las enseñanzas artísticas superiores de Grado en Música, , Arte Dramático y Diseño en la Comunidad Autónoma de Canarias, y convoca las correspondientes al curso académico 2011-2012 (BOC n.º 124, de 24 de junio).
 
 ## Preámbulo
@@ -129,3 +140,17 @@ Contra el presente acto, por ser de trámite, no cabe recurso alguno, pudiéndos
 - [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**Resolucion BOC 68**](./R25_5_2011_dictan_instrucciones_organizacion_desarrollo_pruebas_acceso.md)
 - [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) (Art. 105, Art. 12, Art. 19)
+- **Desarrolla**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 105, Art. 12, Art. 19)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**Resolucion BOC 68**](./R25_5_2011_dictan_instrucciones_organizacion_desarrollo_pruebas_acceso.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)

@@ -26,13 +26,70 @@ tags:
 - orientacion_accion_tutorial
 - andalucia
 relaciones:
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
+  - norma_id: norm-and-d-467-1994
+    articulos_origen:
+    - D. Final segunda. La presente Orden entrará en.
+    articulos_destino:
+    - Art. 11
+    - Art. 116
+    - Art. 117
+    - Art. 46
+    - Art. 92
+    - Art. 31
+    disposiciones_destino:
+    - D. Adicional Novena
+  - norma_id: norm-es-1985-5392
+    articulos_origen:
+    - D. Final segunda. La presente Orden entrará en.
+    articulos_destino:
+    - Art. 11
+    - Art. 116
+    - Art. 117
+    - Art. 46
+    - Art. 92
+    - Art. 31
+    disposiciones_destino:
+    - D. Adicional Novena
+  - norma_id: norm-and-d-467-1994
+    articulos_origen:
+    - D. Final segunda. La presente Orden entrará en.
+    articulos_destino:
+    - Art. 11
+    - Art. 116
+    - Art. 117
+    disposiciones_destino:
+    - D. Adicional Novena
+  - norma_id: norm-and-d-467-1994
+    articulos_origen:
+    - Art. 46
+    articulos_destino:
+    - Art. 31
+    - Art. 37
+    - Art. 11
+    - Art. 116
+    - Art. 117
+    - Art. 46
+    - Art. 30
+    disposiciones_destino:
+    - D. Adicional Novena
+  - norma_id: norm-and-d-467-1994
+    articulos_origen:
+    - Art. 46
+    articulos_destino:
+    - Art. 11
+    - Art. 116
+    - Art. 117
+    - Art. 46
+    disposiciones_destino:
+    - D. Adicional Novena
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-1-1996
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 ---
+
 # Resolución de 28 de agosto de 2002, sobre criterios para la elaboración del Plan de Orientación y Acción Tutorial.
 
 ## Preámbulo
@@ -40,10 +97,11 @@ relaciones:
 Sevilla, 12 de septiembre 2002 Página núm.
 
 **18.205** CONSEJERIA DE JUSTICIA Y ADMINISTRACION PUBLICA CORRECCION de errores de la Resolución de 30 de julio de 2002, del Instituto Andaluz de Administración Pública, por la que se convoca curso de preparación para el acceso, por promoción interna, a Cuerpos del Grupo C, desde Cuerpos del Grupo D de la Administración General de la Junta de Andalucía (BOJA núm. 103, de 3.9.2002). Advertido error en la inserción de la disposición de referencia, se transcribe, a continuación, la oportuna rectificación:
-En la página 17.345, en el encabezamiento del Anexo I:
 Donde dice: «PROGRAMA DEL CURSO DE HABILITACION PARA EL GRUPO C». Debe decir: «PROGRAMA DEL CURSO DE PREPARACION PARA EL ACCESO, POR PROMOCION INTERNA, A CUERPOS DEL GRUPO C DESDE CUERPOS DEL GRUPO D». Sevilla, 5 de septiembre de 2002 CONSEJERIA DE EDUCACION Y CIENCIA ORDEN de 30 de agosto de 2002, por la que se establece el horario lectivo, las materias propias de modalidad, las materias optativas y los itinerarios educativos correspondientes al primer curso de Bachillerato. La Orden de la Consejería de Educación y Ciencia de 29 de julio de 1994 (BOJA del 10 de agosto), que establece orientaciones y criterios para la elaboración de Proyectos Curriculares de centros y horarios lectivos, los itinerarios educativos y las materias optativas del Bachillerato, fijaba la distribución del horario lectivo entre las distintas materias de Bachillerato, así como la organización de las materias propias de modalidad de cada curso en itinerarios educativos, en desarrollo del Decreto 126/1994, de 7 de junio, que establece las enseñanzas correspondientes al Bachillerato en Andalucía. Toda vez que el anterior Decreto 126/1994 ha sido modificado por el Decreto 208/2002, de 23 de julio, introduciendo cambios que afectan a la relación de materias propias de modalidad del Bachillerato, a la elección de materias optativas y a la organización de los itinerarios educativos, se requiere la modificación de la Orden de 29 de julio de 1994, adecuándola a la normativa vigente. La Disposición Transitoria Primera del mencionado Decreto 208/2002, referida a su calendario de implantación, establece que durante el año académico 2002-2003 serán de aplicación las modificaciones que afectan al primer curso de Bachillerato, dejando para el siguiente año académico las relativas al curso segundo. Procede, por tanto, la publicación de una norma que adecue la organización de este primer curso de Bachillerato a las modificaciones previstas en el citado Decreto. En su virtud, de acuerdo con la Disposición Final Primera del precitado Decreto 208/2002, por la que se autoriza a la titular de la Consejería de Educación y Ciencia para dictar las disposiciones que sean precisas para la aplicación y ejecución de lo dispuesto en el mismo, y a propuesta de la titular de la Dirección General de Evaluación Educativa y Formación del Profesorado,
 DISPONGO:
-Artículo primero. Objeto. La presente Orden tiene por objeto establecer la organización del primer curso de Bachillerato, en lo que se refiere a la determinación del horario lectivo, la relación de materias propias de modalidad y materias optativas, así como los itinerarios educativos.
+
+#### Artículo . #### Artículo . Artículo primero. Objeto. La presente Orden tiene por objeto establecer la organización del primer curso de Bachillerato, en lo que se refiere a la determinación del horario lectivo, la relación de materias propias de modalidad y materias optativas, así como los itinerarios educativos.
+
 Artículo segundo. Ambito de aplicación. La presente Orden será de aplicación en los centros docentes, públicos y privados, de la Comunidad Autónoma de Andalucía, que imparten las enseñanzas correspondientes al Bachillerato.
 Artículo tercero. Horario lectivo. El horario lectivo del primer curso de Bachillerato será de 30 horas semanales. La distribución de este horario lectivo entre las distintas materias del curso es la que se recoge en el Anexo I de la presente Orden.
 Artículo cuarto. Materias propias de modalidad.
@@ -70,9 +128,8 @@ b) **Con carácter opcional.** Materias propias de otras modalidades no impartid
 
 5. Para la impartición de las materias optativas que los centros ofrecen con carácter opcional será requisito necesario
 
-## Anexo II
+## Anexo II. RELACION DE MATERIAS OPTATIVAS CORRESPONDIENTES AL PRIMER CURSO DE BACHILLERATO
 
-RELACION DE MATERIAS OPTATIVAS CORRESPONDIENTES AL PRIMER CURSO DE BACHILLERATO
 - Ciencia, Técnica y Sociedad.
 - Ecología.
 - Estética.
@@ -84,9 +141,8 @@ RELACION DE MATERIAS OPTATIVAS CORRESPONDIENTES AL PRIMER CURSO DE BACHILLERATO
 - Psicología.
 - Talleres Artísticos y de Orientación Profesional.
 
-## Anexo III
+## Anexo III. ESTRUCTURA DE LOS ITINERARIOS EDUCATIVOS CORRESPONDIENTES AL CURSO PRIMERO DE BACHILLERATO, POR MODALIDADES Modalidad de Arte:
 
-ESTRUCTURA DE LOS ITINERARIOS EDUCATIVOS CORRESPONDIENTES AL CURSO PRIMERO DE BACHILLERATO, POR MODALIDADES Modalidad de Arte:
 - Dibujo Artístico I.
 - Dibujo Técnico I.
 - Volumen.
@@ -132,11 +188,7 @@ interpretar y aplicar el contenido de la presente Orden en el ámbito de sus com
 
 #### Disposición final segunda. La presente Orden entrará en.
 
-vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 30 de agosto de 2002 CANDIDA MARTINEZ LOPEZ Consejera de Educación y Ciencia
-
-## Anexo I
-
-HORARIO SEMANAL DE PRIMER CURSO DE BACHILLERATO
+## Anexo I. HORARIO SEMANAL DE PRIMER CURSO DE BACHILLERATO
 
 Sevilla, 12 de septiembre 2002 Página núm. 18.207
 
@@ -168,10 +220,8 @@ Segundo. Contra la presente Resolución, que pone fin a la vía administrativa, 
 
 Sevilla, 12 de septiembre 2002 Página núm. 18.209
 
-**2.2.** Oposiciones y concursos CONSEJERIA DE SALUD RESOLUCION de 14 de agosto de 2002, del Servicio Andaluz de Salud, de corrección de errores de la de 23 de mayo de 2002, por la que se convoca proceso extraordinario de consolidación de empleo para la selección y provisión de plazas de determinadas categorías de personal no sanitario de Grupo D, dependientes del Servicio Andaluz de Salud. Publicada en el Boletín Oficial de la Junta de Andalucía, núm. 74, de 25 de junio, Resolución de 23 de mayo, del Servicio Andaluz de Salud, por la que se convoca proceso extraordinario de consolidación de empleo para la selección y provisión de plazas de determinadas categorías de Grupo D, dependientes del Organismo, se han advertido errores en el texto de la misma, transcribiéndose a continuación la oportuna rectificación:
 Página núm.
 
-**11.325.** Donde dice: «Categoría: Monitor (...) Tema 3: Funciones propias de su categoría. Desarrollo de programas de animación ocupacional en los diferentes ámbitos (hospitalario, comunitario, laboral y social); desarrollo de programas específicos de rehabilitación psicosocial y ocupacional; (...)». Debe decir: «Categoría: Monitor (...) Tema 3: Desarrollo y ejecución de programas específicos de rehabilitación psicosocial y ocupacional; desarrollo y ejecución de programas de ocio y tiempo libre, entrenamiento en habilidades sociales y desarrollo de la autonomía personal. (...)». Sevilla, 14 de agosto de 2002.- El Director General de Personal y Servicios, Rafael Burgos Rodríguez. UNIVERSIDADES RESOLUCION de 10 de junio de 2002, de la Universidad de Córdoba, por la que se anuncia convocatoria de concurso-oposición para cubrir plazas de personal laboral (grupo III), categoría de Técnico Especialista de Biblioteca, Archivo y Museo, por el sistema de promoción interna. En aplicación del art. 21 del III Convenio Colectivo del Personal Laboral de las Universidades Públicas de Andalucía y en cumplimiento de las previsiones de la Relación de Puestos de Trabajo aprobada por sendos acuerdos de Junta de Gobierno de 21 de diciembre de 2001 y del Consejo Social de 5 de febrero de 2002 y publicada en el Boletín Oficial de la Junta de Andalucía de fecha 27 de febrero de 2002 y en desarrollo del Acuerdo de Gerencia y Comité de Empresa de fecha 18 de marzo de 2002, se convoca concurso-oposición, por el sistema de promoción interna, para la cobertura de las plazas que se especifican en el Anexo II y de acuerdo con las siguientes:
 B A S E S
 
 1. Solicitantes. Podrán optar a las plazas objeto de la presente convocatoria los trabajadores fijos de la plantilla laboral de la Universidad de Córdoba que reúnan los requisitos establecidos en el art. 15 del Convenio Colectivo, en el apartado b) del artículo 16 l.
@@ -208,13 +258,9 @@ Sevilla, 12 de septiembre 2002 Página núm.
 
 **18.212** Sevilla, 12 de septiembre 2002
 
-## Anexo II
+## Anexo II. RELACION DE PLAZAS OBJETO DE LA PRESENTE CONVOCATORIA Area de Biblioteca. Plaza número TEB-011B19 a TEB-011B26. Categoría: Técnico Especialista de Biblioteca, Archivo y Museo. Departamento/Servicio: Servicio de Biblioteca. Observaciones: 8 plazas.
 
-RELACION DE PLAZAS OBJETO DE LA PRESENTE CONVOCATORIA Area de Biblioteca. Plaza número TEB-011B19 a TEB-011B26. Categoría: Técnico Especialista de Biblioteca, Archivo y Museo. Departamento/Servicio: Servicio de Biblioteca. Observaciones: 8 plazas.
-
-## Anexo III
-
-BAREMO DE PROMOCION INTERNA
+## Anexo III. BAREMO DE PROMOCION INTERNA
 
 1. Antigüedad. Antigüedad reconocida por la Universidad de Córdoba:
 0,4 puntos por año o fracción, hasta un máximo de 4 puntos.
@@ -226,9 +272,7 @@ BAREMO DE PROMOCION INTERNA
 
 4. Titulación académica. Por tener titulación oficial requerida para el grupo: 2 puntos. Por tener titulación oficial superior a la requerida para el grupo al que se aspira: 0,5 puntos por cada una hasta un máximo de 1,5 puntos.
 
-## Anexo IV
-
-TEMARIO Para Técnico Especialista de Bibliotecas, Archivos y Museos.
+## Anexo IV. TEMARIO Para Técnico Especialista de Bibliotecas, Archivos y Museos.
 
 1. Las herramientas informáticas para el acceso y uso de la documentación electrónica de la Biblioteca Universitaria.
 
@@ -251,3 +295,18 @@ Tercero. Los proyectos subvencionados deberán estar ejecutados en su totalidad 
 ## Anexo. a la presente Resolución.
 
 Los beneficiarios deberán presentar la documentación justificativa del empleo de los fondos públicos recibidos, de la realización de la actividad o adopción del comportamiento y la inversión subvencionada y su coste total, así como el cumplimiento de los requisitos y condiciones que determinen la concesión o disfrute de la subvención, en el plazo de tres meses a partir del término establecido para la realización de la misma. El abono de las subvenciones se realizará previa justificación por parte de los beneficiarios de las inversiones previstas, y demás requisitos establecidos en las Ordenes de convocatoria o en la presente Resolución, realizadas conforme a lo previsto en los artículos 11, 12 y 13 de las mismas.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**D467_1994 Ordenacion Bachillerato Personas Adultas Andalucía**](../03_ordenacion_curricular_y_ensenanzas/D467_1994_ordenacion_bachillerato_personas_adultas_andalucia.md) (Art. 11, Art. 116, Art. 117, Art. 46, Art. 92, Art. 31, D. Adicional Novena) desde *(D. Final segunda. La presente Orden entrará en.)*
+- **Fundamentado en**: [**BOE-A-1985-5392**](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md) (Art. 11, Art. 116, Art. 117, Art. 46, Art. 92, Art. 31, D. Adicional Novena) desde *(D. Final segunda. La presente Orden entrará en.)*
+- **Fundamentado en**: [**D467_1994 Ordenacion Bachillerato Personas Adultas Andalucía**](../03_ordenacion_curricular_y_ensenanzas/D467_1994_ordenacion_bachillerato_personas_adultas_andalucia.md) (Art. 11, Art. 116, Art. 117, D. Adicional Novena) desde *(D. Final segunda. La presente Orden entrará en.)*
+- **Fundamentado en**: [**D467_1994 Ordenacion Bachillerato Personas Adultas Andalucía**](../03_ordenacion_curricular_y_ensenanzas/D467_1994_ordenacion_bachillerato_personas_adultas_andalucia.md) (Art. 31, Art. 37, Art. 11, Art. 116, Art. 117, Art. 46, Art. 30, D. Adicional Novena) desde *(Art. 46)*
+- **Fundamentado en**: [**D467_1994 Ordenacion Bachillerato Personas Adultas Andalucía**](../03_ordenacion_curricular_y_ensenanzas/D467_1994_ordenacion_bachillerato_personas_adultas_andalucia.md) (Art. 11, Art. 116, Art. 117, Art. 46, D. Adicional Novena) desde *(Art. 46)*
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)

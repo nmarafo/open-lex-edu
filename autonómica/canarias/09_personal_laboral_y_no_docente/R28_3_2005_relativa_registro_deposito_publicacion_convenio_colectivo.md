@@ -21,7 +21,11 @@ tags:
 - complementos-salariales
 fuente_pdf_oficial: https://www.gobiernodecanarias.org/boc/2005/080/boc-2005-080-023.pdf
 fecha_disposicion: '2005-03-28'
+relaciones:
+  modifica:
+  - norma_id: norm-can-d-84-2024
 ---
+
 # Resolución de 28 de marzo de 2005, de la Dirección General de Trabajo, relativa a registro, depósito y publicación del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -69,3 +73,10 @@ La asignación del complemento se efectuará por la citada Comisión, dentro de 
 Complemento de atención al público: 37,29 euros/mes.
 
 La Administración.- Ilma. Sra. Viceconsejera de Administración Pública.- Ilmo. Sr. Director General de la Función Pública.- El Comité Intercentros.- El Presidente.- El Secretario.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md)

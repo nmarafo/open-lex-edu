@@ -25,27 +25,25 @@ tags:
 - arte_dramatico
 - madrid
 relaciones:
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 123
+    - Art. 124
   - norma_id: norm-mad-d-29-2013
   - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 ---
+
 # Decreto 10/2023, de 1 de febrero, del Consejo de Gobierno, por el que se establece la ordenación de las Enseñanzas Artísticas Superiores en la Comunidad de Madrid.
 
 ## Preámbulo
 
-I. COMUNIDAD DE MADRID
-B) Autoridades y Personal Vicepresidencia, Consejería de Educación y Universidades 1 ORDEN 86/2023, de 31 de enero, del Vicepresidente, Consejero de Educación y Universidades, por la que se resuelve la convocatoria aprobada mediante Orden 2822/2022, de 26 de septiembre (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 5 de octubre de 2022), de la Vicepresidencia, Consejería de Educación y Universidades, para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos. Por Orden del Vicepresidente, Consejero de Educación y Universidades, 2822/2022, de 26 de septiembre (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 5 de octubre de 2022), se aprobó convocatoria pública para la provisión de puestos de trabajo vacantes en dicha Consejería por el procedimiento de Concurso de Méritos. En el procedimiento de provisión se han cumplido las normas de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 24 de abril); la Ley 4/1989, de 6 de abril, de Provisión de Puestos de Trabajo reservados a Funcionarios de la Comunidad de Madrid (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 4 de mayo de 1989); la Orden 923/1989, de 20 de abril, de la Consejería de Hacienda, por la que se aprueban las bases generales que han de regir en las convocatorias para provisión de puestos por los sistemas de Concurso de Méritos y Libre Designación (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 27 de abril); la Orden 2094/1990, de 31 de agosto, de la Consejería de Hacienda, por la que se regula el sistema general que ha de regir en las diferentes convocatorias que se publiquen para los concursos de provisión de puestos de trabajo (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 7 de septiembre);el Real Decreto 364/1995, de 10 de marzo, por el que se aprueba el Reglamento General de Ingreso del Personal al Servicio de la Administración General del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la Administración General del Estado ("Boletín Oficial del Estado" de 10 de abril), así como las demás prescripciones contenidas en las bases de convocatoria correspondientes. De acuerdo con la propuesta efectuada por la Junta de Méritos y el informe favorable emitido por la Consejería de Economía, Hacienda y Empleo y en virtud de la competencia atribuida en el artículo 49.2 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid,
 RESUELVO:
 Primero Objeto Se adjudican los puestos de trabajo convocados a los funcionarios que figuran en el
 
-## Anexo
-
-Segundo Plazo de toma de posesión 1. El plazo para tomar posesión del nuevo destino obtenido será de tres días. Dicho plazo empezará a contarse a partir del día siguiente al del cese, que deberá efectuarse dentro de los tres días siguientes al de la publicación de la presente Resolución. El cómputo de los citados plazos posesorios se iniciará cuando finalicen los permisos o licencias que, en su caso, hayan sido concedidos a los interesados, salvo que, por causas justificadas, el órgano que los concedió acuerde suspender el disfrute de los mismos. 2. Si la resolución comporta el reingreso al servicio activo, el plazo de toma de posesión será el que establezca la orden de reingreso, conforme a lo previsto en la normativa aplicable.
-
-Tercero Recursos La presente Orden pone fin a la vía administrativa y contra la misma podrá interponerse, con carácter potestativo, recurso de reposición en el plazo de un mes ante el mismo órgano que la ha dictado, o bien recurso contencioso-administrativo, en el plazo de dos meses, ante los Juzgados de lo Contencioso-Administrativo de Madrid, ambos plazos contados a partir del día siguiente a su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, sin perjuicio de cualquier otro recurso que se estime procedente en derecho, todo ello, de conformidad con lo dispuesto en los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y 46 de la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa. Madrid, a 31 de enero de 2023.—El Vicepresidente, Consejero de Educación y Universidades, P. D. (Orden 11634/2012, de 27 de noviembre), la Secretaria General Técnica, Mar Pérez Merino.
+## Anexo. Segundo Plazo de toma de posesión 1. El plazo para tomar posesión del nuevo destino obtenido será de tres días. Dicho plazo empezará a contarse a partir del día siguiente al del cese, que deberá efectuarse dentro de los tres días siguientes al de la publicación de la presente Resolución. El cómputo de los citados plazos posesorios se iniciará cuando finalicen los permisos o licencias que, en su caso, hayan sido concedidos a los interesados, salvo que, por causas justificadas, el órgano que los concedió acuerde suspender el disfrute de los mismos. 2. Si la resolución comporta el reingreso al servicio activo, el plazo de toma de posesión será el que establezca la orden de reingreso, conforme a lo previsto en la normativa aplicable.
 
 RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE CONCURSO DE MÉRITOS CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA DE EDUCACIÓN Y UNIVERSIDADES VICECONSEJERIA POLÍTICA EDUCATIVA DIRECCION GENERAL EDUCACION SECUNDARIA, FORMACIÓN PROFESIONAL Y RÉGIMEN ESPECIAL SUBDIRECCION GENERAL ORDENACIÓN ACADÉMICA DE EDUCACIÓN SECUNDARIA, FORMACIÓN PROFESIONAL Y ENSEÑANZAS DE RÉGIMEN ESPECIAL UNIDAD TECNICA ORDENACIÓN ACADÉMICA NEGOCIADO ENSEÑANZAS DE RÉGIMEN ESPECIAL II CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA DE EDUCACIÓN Y UNIVERSIDADES VICECONSEJERIA ORGANIZACION EDUCATIVA DIRECCION DEL AREA TERRITORIAL DE MADRID-CAPITAL DIVISIÓN SECRETARÍA GENERAL SERVICIO PLANIFICACIÓN Y ORGANIZACIÓN EDUCATIVA DE CENTROS PÚBLICOS SUBSECCION PLANIFICACIÓN Y ORGANIZACIÓN EDUCATIVA CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA DE EDUCACIÓN Y UNIVERSIDADES VICECONSEJERIA ORGANIZACION EDUCATIVA DIRECCION DEL AREA TERRITORIAL DE MADRID-NORTE DIVISIÓN SECRETARÍA GENERAL NEGOCIADO ASUNTOS GENERALES Y RÉGIMEN INTERIOR Puesto de Trabajo:
 Puesto de Trabajo:
@@ -281,3 +279,13 @@ AUXILIAR INFORMADOR Denominación :
 N.C.D. :
 7.798,56 C. Específico :
 PUESTO ADJUDICADO ADJUDICATARIO PUESTO LIBERADO C / D (03/1.715/23)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 123, Art. 124)
+- **Fundamentado en**: [**D29_2013 Libertad Eleccion Centro Escolar Madrid**](../05_alumnado_y_servicios_escolares/D29_2013_libertad_eleccion_centro_escolar_madrid.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)

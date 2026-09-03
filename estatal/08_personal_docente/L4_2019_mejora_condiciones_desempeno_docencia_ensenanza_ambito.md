@@ -28,7 +28,70 @@ tags:
 - personal-no-docente
 - profesorado
 relaciones:
+  cita:
+  - norma_id: norm-es-2012-5337
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 129
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 2
+    - Art. 157
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 2
+    - Art. 157
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 2
+    - Art. 157
+  - norma_id: norm-es-2012-5337
+    articulos_destino:
+    - Art. 2
+    - Art. 157
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2012-5337
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2012-5337
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 157
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 157
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 157
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  deroga:
+  - norma_id: norm-es-2012-5337
+    articulos_destino:
+    - Art. 4
+  - norma_id: norm-es-2012-5337
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
+    articulos_destino:
+    - Art. 2
+    - Art. 3
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final segunda. Título competencial.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2012-5337
   - norma_id: norm-es-2021-20113
@@ -38,11 +101,12 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2012-5337
 ---
+
 # Ley 4/2019, de 7 de marzo, de mejora de las condiciones para el desempeño de la docencia y la enseñanza en el ámbito de la educación no universitaria.
 
 ## Preámbulo
@@ -132,3 +196,35 @@ PEDRO SÁNCHEZ PÉREZ-CASTEJÓN
 - [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**BOE-A-2012-5337**](./RD14_2012_real_decreto_ley_medidas_urgentes_racionalizacion.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 2, Art. 157)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 2, Art. 157)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 2, Art. 157)
+- **Modifica**: [**BOE-A-2012-5337**](./RD14_2012_real_decreto_ley_medidas_urgentes_racionalizacion.md) (Art. 2, Art. 157)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 3)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 3)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 3)
+- **Modifica**: [**BOE-A-2012-5337**](./RD14_2012_real_decreto_ley_medidas_urgentes_racionalizacion.md) (Art. 3)
+- **Modifica**: [**BOE-A-2012-5337**](./RD14_2012_real_decreto_ley_medidas_urgentes_racionalizacion.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 157)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 157)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 157)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Deroga**: [**BOE-A-2012-5337**](./RD14_2012_real_decreto_ley_medidas_urgentes_racionalizacion.md) (Art. 4)
+- **Deroga**: [**BOE-A-2012-5337**](./RD14_2012_real_decreto_ley_medidas_urgentes_racionalizacion.md) (Art. 2, Art. 3) desde *(D. Derogatoria única. Derogación normativa.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(D. Final segunda. Título competencial.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2012-5337**](./RD14_2012_real_decreto_ley_medidas_urgentes_racionalizacion.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: [**BOE-A-2012-5337**](./RD14_2012_real_decreto_ley_medidas_urgentes_racionalizacion.md)
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 129)

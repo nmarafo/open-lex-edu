@@ -28,6 +28,361 @@ tags:
 - marco-general
 - marco-normativo-general
 relaciones:
+  modifica:
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-c-1978
+    disposiciones_destino:
+    - D. Derogatoria única
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título VII
+    capitulo_origen: Capítulo II. Inspección educativa.
+    articulos_origen:
+    - Art. 152
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Adicional decimotercera. Desempeño de la función inspectora por funcionarios
+      no pertenecientes al cuerpo de inspectores de educación.
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Transitoria segunda. Jubilación voluntaria anticipada.
+    articulos_destino:
+    - Art. 29
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Transitoria segunda. Jubilación voluntaria anticipada.
+    disposiciones_destino:
+    - D. Adicional decimoquinta
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final primera. Modificación de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md),
+      de 3 de julio, reguladora del Derecho a la Educación.
+    disposiciones_destino:
+    - D. Final primera
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final primera. Modificación de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md),
+      de 3 de julio, reguladora del Derecho a la Educación.
+    articulos_destino:
+    - Art. 4
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final primera. Modificación de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md),
+      de 3 de julio, reguladora del Derecho a la Educación.
+    articulos_destino:
+    - Art. 5
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final primera. Modificación de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md),
+      de 3 de julio, reguladora del Derecho a la Educación.
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final segunda. Modificación de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md),
+      de 2 de agosto, de Medidas para la Reforma de la Función Pública.
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-es-1987-15278
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final cuarta. Autonomía de gestión económica de los centros docentes públicos
+      no universitarios.
+  desarrolla:
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título V
+    capitulo_origen: Capítulo I. Participación en el funcionamiento y el gobierno
+      de los centros.
+    articulos_origen:
+    - Art. 118
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VII
+    capitulo_origen: Capítulo I. Alta Inspección artículo 149 Ámbito. Corresponde
+      al Estado la alta inspección educativa, para garantizar el cumplimento de las
+      facultades que le están atribuidas en materia de enseñanza y la observancia
+      de los principios y normas constitucionales aplicables y demás normas básicas
+      que desarrollan el artículo 27 de la Constitución.
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Adicional sexta. Bases del régimen estatutario de la función pública docente.
+  - norma_id: norm-es-2000-544
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Adicional decimoquinta. Municipios, corporaciones o entidades locales.
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final sexta. Desarrollo de la presente Ley.
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-lo-8-2021
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final octava. Entrada en vigor.
+  cita:
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-lo-1-2004
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo I. Principios y fines de la educación artículo 1 Principios.
+      El sistema educativo español, configurado de acuerdo con los valores de la Constitución
+      y asentado en el respeto a los derechos y libertades reconocidos en ella, se
+      inspira en los siguientes principios:.
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo IV
+    articulos_origen:
+    - Art. 33
+  - norma_id: norm-es-2002-12018
+    titulo_origen: Título I
+    capitulo_origen: Capítulo V. Formación profesional.
+    articulos_origen:
+    - Art. 39
+    articulos_destino:
+    - Art. 11
+  - norma_id: norm-es-2000-544
+    titulo_origen: Título III
+    capitulo_origen: Capítulo II. Profesorado de las distintas enseñanzas.
+    articulos_origen:
+    - Art. 96
+    articulos_destino:
+    - Art. 9
+  - norma_id: norm-es-2000-544
+    titulo_origen: Título III
+    capitulo_origen: Capítulo II. Profesorado de las distintas enseñanzas.
+    articulos_origen:
+    - Art. 97
+    articulos_destino:
+    - Art. 9
+  - norma_id: norm-es-lo-1-2004
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. Formación del profesorado.
+    articulos_origen:
+    - Art. 102
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I. Principios generales.
+    articulos_origen:
+    - Art. 107
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo III. Centros privados artículo 114 Denominación. Los
+      centros privados podrán adoptar cualquier denominación, excepto la que corresponde
+      a centros públicos o pueda inducir a confusión con ellos.
+    articulos_origen:
+    - Art. 115
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Centros privados concertados.
+    articulos_origen:
+    - Art. 116
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Centros privados concertados.
+    articulos_origen:
+    - Art. 116
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo I. Participación en el funcionamiento y el gobierno
+      de los centros.
+    articulos_origen:
+    - Art. 118
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. Autonomía de los centros.
+    articulos_origen:
+    - Art. 121
+  - norma_id: norm-es-lo-1-2004
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Adicional cuarta. Libros de texto y demás materiales curriculares.
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Adicional cuarta. Libros de texto y demás materiales curriculares.
+  - norma_id: norm-es-2001-7022
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Adicional séptima. Ordenación de la función pública docente y funciones de
+      los cuerpos docentes.
+  - norma_id: norm-es-2002-12018
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Adicional octava. Cuerpos de catedráticos.
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Adicional decimoquinta. Municipios, corporaciones o entidades locales.
+  - norma_id: norm-es-2001-7022
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Adicional decimoquinta. Municipios, corporaciones o entidades locales.
+  - norma_id: norm-es-2001-7022
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Transitoria primera. Maestros adscritos a los cursos primero y segundo de
+      la educación secundaria obligatoria.
+    disposiciones_destino:
+    - D. Transitoria octava
+  - norma_id: norm-es-2001-7022
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Transitoria decimoquinta. Maestros con plaza en los servicios de orientación
+      o de asesoramiento psicopedagógico.
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final primera. Modificación de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md),
+      de 3 de julio, reguladora del Derecho a la Educación.
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final primera. Modificación de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md),
+      de 3 de julio, reguladora del Derecho a la Educación.
+    articulos_destino:
+    - Art. 7
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final primera. Modificación de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md),
+      de 3 de julio, reguladora del Derecho a la Educación.
+    articulos_destino:
+    - Art. 8
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final primera. Modificación de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md),
+      de 3 de julio, reguladora del Derecho a la Educación.
+    articulos_destino:
+    - Art. 25
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final primera. Modificación de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md),
+      de 3 de julio, reguladora del Derecho a la Educación.
+    articulos_destino:
+    - Art. 31
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final primera. Modificación de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md),
+      de 3 de julio, reguladora del Derecho a la Educación.
+    articulos_destino:
+    - Art. 56
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final primera. Modificación de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md),
+      de 3 de julio, reguladora del Derecho a la Educación.
+    articulos_destino:
+    - Art. 57
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final primera. Modificación de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md),
+      de 3 de julio, reguladora del Derecho a la Educación.
+    articulos_destino:
+    - Art. 62
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final primera. Modificación de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md),
+      de 3 de julio, reguladora del Derecho a la Educación.
+    articulos_destino:
+    - Art. 16
+    - Art. 20
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final segunda. Modificación de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md),
+      de 2 de agosto, de Medidas para la Reforma de la Función Pública.
+    articulos_destino:
+    - Art. 29
+  concordancia:
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo III. Currículo.
+    articulos_origen:
+    - Art. 6
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. Escolarización en centros públicos y privados concertados.
+    articulos_origen:
+    - Art. 88
+    articulos_destino:
+    - Art. 51
+  - norma_id: norm-es-2002-12018
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I. Principios generales.
+    articulos_origen:
+    - Art. 107
+  - norma_id: norm-es-2002-12018
+    titulo_origen: Título V
+    capitulo_origen: Capítulo I. Participación en el funcionamiento y el gobierno
+      de los centros.
+    articulos_origen:
+    - Art. 118
+  - norma_id: norm-es-2001-7022
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Transitoria primera. Maestros adscritos a los cursos primero y segundo de
+      la educación secundaria obligatoria.
+    disposiciones_destino:
+    - D. Transitoria cuarta
+  fundamentado_en:
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I. Principios generales.
+    articulos_origen:
+    - Art. 108
+    articulos_destino:
+    - Art. 4
+  - norma_id: norm-es-2001-7022
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Transitoria octava. Formación pedagógica y didáctica.
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final quinta. Título competencial.
+    articulos_destino:
+    - Art. 149
+    - Art. 5
+    disposiciones_destino:
+    - D. Adicional decimoquinta
+    - D. Final cuarta
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-1987-15278
+  - norma_id: norm-es-2000-544
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-1-2004
   desarrollado_por:
   - norma_id: norm-es-rd-132-2010
   - norma_id: norm-es-rd-1364-2010
@@ -39,422 +394,32 @@ relaciones:
   - norma_id: norm-es-rd-476-2013
   - norma_id: norm-es-rd-943-2003
   - norma_id: norm-es-rd-95-2022
-  - norma_id: norm-can-res-juriscan-65632-66
   - norma_id: norm-es-2010-10321
-  - norma_id: norm-can-res-juriscan-66772-94
-  - norma_id: norm-can-res-juriscan-22458-15
-  - norma_id: norm-can-res-boc-2002-148-77
-  - norma_id: norm-can-res-juriscan-64565-138
-  - norma_id: norm-can-res-112
-  - norma_id: norm-can-d-9-2022
-  - norma_id: norm-can-res-boc-2024-226-44
-  - norma_id: norm-can-lo-1-2018
-  - norma_id: norm-can-res-juriscan-63878-20
-  - norma_id: norm-can-res-boc-2011-099-72
-  - norma_id: norm-can-res-boc-2026-070-41
-  - norma_id: norm-can-res-boc-2026-075-85
-  - norma_id: norm-can-res-096
-  - norma_id: norm-can-res-juriscan-74499-67
-  - norma_id: norm-can-d-81-2010
-  - norma_id: norm-can-res-juriscan-69937-120
-  - norma_id: norm-can-res-135
-  - norma_id: norm-can-d-74-2010
-  - norma_id: norm-can-d-40-2005
-  - norma_id: norm-can-res-028
-  - norma_id: norm-can-l-14-1990
-  - norma_id: norm-can-res-055
-  - norma_id: norm-can-res-juriscan-73844-69
-  - norma_id: norm-can-res-118
-  - norma_id: norm-can-res-boc-2019-234-52
-  - norma_id: norm-can-res-juriscan-64885-10
-  - norma_id: norm-can-d-23-1995
-  - norma_id: norm-can-d-102-2023
-  - norma_id: norm-can-res-033
-  - norma_id: norm-can-res-juriscan-72788-60
-  - norma_id: norm-can-res-juriscan-65631-68
-  - norma_id: norm-can-res-boc-2025-046-47
-  - norma_id: norm-can-res-boc-2026-039-102
-  - norma_id: norm-can-res-boc-2026-141-29
-  - norma_id: norm-can-res-boc-2020-130-131
-  - norma_id: norm-can-res-098
-  - norma_id: norm-can-res-boc-2022-158-21
-  - norma_id: norm-can-res-032
-  - norma_id: norm-can-res-027
-  - norma_id: norm-can-o-7-6-2007
-  - norma_id: norm-can-d-82-1994
-  - norma_id: norm-can-res-038
-  - norma_id: norm-can-res-014
-  - norma_id: norm-can-res-042
-  - norma_id: norm-can-res-boc-2025-044-89
-  - norma_id: norm-can-res-boc-2024-230-25
-  - norma_id: norm-can-res-063
-  - norma_id: norm-can-res-boc-2018-220-18
-  - norma_id: norm-can-res-086
-  - norma_id: norm-can-l-1-1997
-  - norma_id: norm-can-res-boc-2012-035-58
-  - norma_id: norm-can-res-juriscan-71394-16
-  - norma_id: norm-can-res-boc-2024-125-91
-  - norma_id: norm-can-res-juriscan-41360-129
-  - norma_id: norm-can-res-boc-2019-069-48
-  - norma_id: norm-can-res-boc-2025-047-107
-  - norma_id: norm-can-res-boc-2026-070-116
-  - norma_id: norm-can-res-097
-  - norma_id: norm-can-res-095
-  - norma_id: norm-can-res-boc-2022-138-7
-  - norma_id: norm-can-l-6-2014
-  - norma_id: norm-can-o-25-2-2003
-  - norma_id: norm-can-res-boc-2018-019-130
-  - norma_id: norm-can-res-juriscan-48984-84
-  - norma_id: norm-can-res-juriscan-58182-8
-  - norma_id: norm-can-res-boc-2026-132-101
-  - norma_id: norm-can-res-boc-2019-016-13
-  - norma_id: norm-can-res-boc-2017-036-71
-  - norma_id: norm-can-res-boc-2018-048-56
-  - norma_id: norm-can-res-boc-2026-039-103
-  - norma_id: norm-can-d-84-2024
-  - norma_id: norm-can-res-059
-  - norma_id: norm-can-d-52-2009
-  - norma_id: norm-can-res-juriscan-72882-123
-  - norma_id: norm-can-res-boc-2022-087-31
-  - norma_id: norm-can-l-16-2003
-  - norma_id: norm-can-res-boc-2021-109-79
-  - norma_id: norm-can-d-212-1991
-  - norma_id: norm-can-res-boc-2023-133-57
-  - norma_id: norm-can-res-110
-  - norma_id: norm-can-res-boc-2026-046-139
-  - norma_id: norm-can-res-030
-  - norma_id: norm-can-d-114-2011
-  - norma_id: norm-can-res-boc-2017-061-4
-  - norma_id: norm-can-d-106-2009
-  - norma_id: norm-can-res-juriscan-64838-121
-  - norma_id: norm-can-d-234-1996
-  - norma_id: norm-can-d-276-1997
-  - norma_id: norm-can-res-boc-2026-060-61
-  - norma_id: norm-can-res-boc-2022-158-132
-  - norma_id: norm-can-res-boc-2018-106-114
-  - norma_id: norm-can-res-034
-  - norma_id: norm-can-d-123-2023
-  - norma_id: norm-can-res-boc-2026-077-62
-  - norma_id: norm-can-res-boc-2017-036-75
-  - norma_id: norm-can-res-boc-2025-039-104
-  - norma_id: norm-can-res-juriscan-49002-54
-  - norma_id: norm-can-d-109-1999
-  - norma_id: norm-can-res-125
-  - norma_id: norm-can-res-boc-2025-061-88
-  - norma_id: norm-can-o-2013-10-09
-  - norma_id: norm-can-res-boc-2026-077-49
-  - norma_id: norm-can-res-boc-2025-047-108
-  - norma_id: norm-can-res-juriscan-75818-136
-  - norma_id: norm-can-res-040
-  - norma_id: norm-can-res-boc-2024-117-93
-  - norma_id: norm-can-res-053
-  - norma_id: norm-can-res-boc-2017-020-2
-  - norma_id: norm-can-res-119
-  - norma_id: norm-can-l-4-2023
-  - norma_id: norm-can-res-039
-  - norma_id: norm-can-res-boc-2004-158-76
-  - norma_id: norm-can-d-101-2023
-  - norma_id: norm-can-res-boc-2019-024-22
-  - norma_id: norm-can-res-099
-  - norma_id: norm-can-res-juriscan-75527-17
-  - norma_id: norm-can-res-boc-2026-116-87
-  - norma_id: norm-can-res-boc-2024-049-109
-  - norma_id: norm-can-res-boc-2026-073-113
-  - norma_id: norm-can-res-juriscan-61148-128
-  - norma_id: norm-can-o-2023-09-28
-  - norma_id: norm-can-res-boc-2023-085-51
-  - norma_id: norm-can-res-juriscan-55445-83
-  - norma_id: norm-can-d-135-2016
-  - norma_id: norm-can-res-juriscan-75634-6
-  - norma_id: norm-can-res-juriscan-72176-78
-  - norma_id: norm-can-res-boc-2025-118-46
-  - norma_id: norm-can-res-boc-1992-106-117
-  - norma_id: norm-can-res-boc-2021-038-3
-  - norma_id: norm-can-res-boc-2017-220-70
-  - norma_id: norm-can-res-boc-2026-039-111
-  - norma_id: norm-can-d-25-2018
-  - norma_id: norm-can-d-168-2009
-  - norma_id: norm-can-res-boc-2022-143-23
-  - norma_id: norm-can-res-boc-2017-169-100
-  - norma_id: norm-can-res-boc-2018-086-122
-  - norma_id: norm-can-res-boc-2018-124-126
-  - norma_id: norm-can-res-juriscan-30668-127
-  - norma_id: norm-can-res-boc-2020-257-24
-  - norma_id: norm-can-res-boc-2022-243-81
-  - norma_id: norm-can-res-043
-  - norma_id: norm-can-res-boc-2025-094-137
-  - norma_id: norm-can-res-boc-2026-129-26
-  - norma_id: norm-can-res-boc-2017-235-5
-  - norma_id: norm-can-res-boc-2026-070-115
-  - norma_id: norm-can-res-090
-  - norma_id: norm-can-res-boc-2018-127-9
-  - norma_id: norm-can-l-2-1987
-  - norma_id: norm-can-res-134
-  - norma_id: norm-can-res-boc-2019-016-12
-  - norma_id: norm-can-d-196-2022
-  - norma_id: norm-can-res-boc-2004-189-65
-  - norma_id: norm-can-res-037
-  - norma_id: norm-can-res-boc-2021-114-80
-  - norma_id: norm-can-res-boc-2018-220-19
-  - norma_id: norm-can-res-boc-2019-067-11
-  - norma_id: norm-can-res-juriscan-70096-50
-  - norma_id: norm-can-res-036
-  - norma_id: norm-can-res-boc-2026-037-105
-  - norma_id: norm-can-res-boc-2026-109-92
-  - norma_id: norm-can-o-1-9-2010
-  - norma_id: norm-can-res-boc-2017-132-1
-  - norma_id: norm-can-res-boc-2025-061-106
-  - norma_id: norm-can-o-2-8-2006
-  - norma_id: norm-can-res-boc-2020-236-82
-  - norma_id: norm-can-res-035
-  - norma_id: norm-can-res-boc-2019-143-74
-  - norma_id: norm-can-d-103-2023
   - norma_id: norm-can-r-calendario-escolar-2025-2026
-  - norma_id: norm-can-r-inclusión-neae-2025-2026
-  - norma_id: norm-can-r-instrucciones-curso-2025-2026
-  - norma_id: norm-can-r-fp-dual-curso-2025-2026
-  - norma_id: norm-can-r-admision-alumnado-2025-2026
-  - norma_id: norm-mad-d43-2024
-  - norma_id: norm-mad-o1712-2023
-  - norma_id: norm-mad-o-3814-2023
-  - norma_id: norm-mad-r-instrucciones-curso-2025-2026
-  - norma_id: norm-and-d-100-2023
-  - norma_id: norm-and-d-21-2020
   - norma_id: norm-mad-d29-2013
-  - norma_id: norm-mad-o1240-2013
-  - norma_id: norm-mad-o6116-2025
-  - norma_id: norm-mad-o3536-2025
-  - norma_id: norm-and-d-164-2024
-  - norma_id: norm-mad-o1149-2018
-  - norma_id: norm-mad-d32-2019
-  - norma_id: norm-mad-o893-2022
-  - norma_id: norm-mad-o460-2023
-  - norma_id: norm-mad-d21-2025
-  - norma_id: norm-mad-o1493-2015
-  - norma_id: norm-and-d154-2022
-  - norma_id: norm-and-d-19-2007
   - norma_id: norm-and-o-18-6-2020
-  - norma_id: norm-and-d328-2010
-  - norma_id: norm-mad-d-230-2023
-  - norma_id: norm-and-r-cdd-2025-2026
-  - norma_id: norm-mad-l1-2022
   - norma_id: norm-mad-d-32-2019
-  - norma_id: norm-mad-r2-12-2025
-  - norma_id: norm-mad-o123-2015
-  - norma_id: norm-mad-d149-2000
-  - norma_id: norm-and-d101-2023
-  - norma_id: norm-mad-r-cdd-2025-2026
-  - norma_id: norm-and-o-admision-alumnado-2025-2026
-  - norma_id: norm-and-d164-2024
-  - norma_id: norm-mad-o3413-2022
-  - norma_id: norm-mad-r-calendario-escolar-2025-2026
-  - norma_id: norm-mad-o1312-2021
-  - norma_id: norm-mad-o-1238-2023
-  - norma_id: norm-and-dl2-2021
-  - norma_id: norm-mad-o2742-2022
-  - norma_id: norm-mad-d126-2017
-  - norma_id: norm-and-o-30-5-2023-primaria
-  - norma_id: norm-and-r-instrucciones-curso-2025-2026
-  - norma_id: norm-mad-o2532-2022
-  - norma_id: norm-mad-d-36-2022
-  - norma_id: norm-mad-o-admision-alumnado-2025-2026
-  - norma_id: norm-mad-d65-2022
-  - norma_id: norm-mad-d-164-2024
   - norma_id: norm-mad-d-23-2023
-  - norma_id: norm-and-o-15-1-2021
-  - norma_id: norm-mad-o1736-2023
-  - norma_id: norm-and-d162-2009
-  - norma_id: norm-and-o-30-5-2023-eso
-  - norma_id: norm-and-d100-2023
-  - norma_id: norm-and-d103-2023
-  - norma_id: norm-and-l1-2020
-  - norma_id: norm-mad-o592-2022
-  - norma_id: norm-and-d-328-2010
-  - norma_id: norm-mad-o2356-2023
-  - norma_id: norm-and-l3-2021
-  - norma_id: norm-mad-o3537-2025
-  - norma_id: norm-mad-o2067-2023
-  - norma_id: norm-mad-r23-6-2025
-  - norma_id: norm-and-r-calendario-escolar-2025-2026
   - norma_id: norm-mad-d-64-2022
-  - norma_id: norm-mad-d64-2022
-  - norma_id: norm-mad-o457-2023
-  - norma_id: norm-and-l4-1984
-  - norma_id: norm-and-d19-2007
-  - norma_id: norm-mad-l2-2010
-  - norma_id: norm-mad-o190-2023
-  - norma_id: norm-and-d102-2023
-  - norma_id: norm-mad-d15-2016
   - norma_id: norm-and-d147-2002
-  - norma_id: norm-and-l17-2007
-  - norma_id: norm-mad-d-61-2022
   - norma_id: norm-mad-o-123-2015
-  - norma_id: norm-mad-o1338-2023
   - norma_id: norm-and-d-285-2023
-  - norma_id: norm-and-dl1-2017
-  - norma_id: norm-mad-o2808-2023
-  - norma_id: norm-mad-d64-2025
-  - norma_id: norm-mad-o266-2023
-  - norma_id: norm-and-d327-2010
-  - norma_id: norm-and-d-327-2010
-  - norma_id: norm-and-l9-1999
-  - norma_id: norm-mad-d23-2023
-  - norma_id: norm-mad-o130-2023
-  - norma_id: norm-mad-d-29-2013
   - norma_id: norm-mad-d-149-2000
-  - norma_id: norm-and-d-363-2011
-  - norma_id: norm-and-o-20-8-2010
   - norma_id: norm-mad-d-65-2022
-  - norma_id: norm-and-d-6-2017
-  - norma_id: norm-and-d-362-2011
-  - norma_id: norm-mad-o-1605-2024
-  - norma_id: norm-and-d-329-2010
-  - norma_id: norm-and-d-147-2002
   - norma_id: norm-mad-d-43-2024
-  - norma_id: norm-and-o-30-5-2023-bach
-  - norma_id: norm-and-d-436-2008
   - norma_id: norm-mad-o-190-2023
-  - norma_id: norm-and-d-365-2011
-  - norma_id: norm-and-d-68-2008
-  - norma_id: norm-and-d-117-1985
-  - norma_id: norm-mad-d-10-2023
-  - norma_id: norm-mad-d-11-2019
-  - norma_id: norm-and-d-56-1994
   - norma_id: norm-mad-d-126-2017
-  - norma_id: norm-and-d-254-2001
-  - norma_id: norm-mad-d-35-2019
-  - norma_id: norm-and-d-4-1993
-  - norma_id: norm-mad-d-12-2022
   - norma_id: norm-mad-o-893-2022
-  - norma_id: norm-and-o-19-4-2005
-  - norma_id: norm-and-d-156-1983
-  - norma_id: norm-and-d-266-1988
-  - norma_id: norm-and-d-95-2003
-  - norma_id: norm-and-d-208-1997
-  - norma_id: norm-and-d-2-1995
   - norma_id: norm-mad-o-1312-2021
-  - norma_id: norm-and-d-19-1995
-  - norma_id: norm-and-o-18-6-2001
-  - norma_id: norm-and-d-77-1994
-  - norma_id: norm-and-d-204-1995
   - norma_id: norm-mad-d-43-2022
-  - norma_id: norm-and-o-23-4-2007
   - norma_id: norm-mad-o-2808-2023
-  - norma_id: norm-mad-o-1050-2020
-  - norma_id: norm-and-d-1-2011
-  - norma_id: norm-mad-d-56-2023
-  - norma_id: norm-and-d-467-1994
-  - norma_id: norm-and-d-54-1989
-  - norma_id: norm-and-d-276-1987
-  - norma_id: norm-and-o-10-5-2006
-  - norma_id: norm-mad-o-2882-2019
-  - norma_id: norm-and-d-206-2006
-  - norma_id: norm-and-o-10-2-2004
   - norma_id: norm-mad-d-21-2025
-  - norma_id: norm-mad-o-276-2019
-  - norma_id: norm-mad-o-2808-2017
-  - norma_id: norm-and-d-390-1986
-  - norma_id: norm-mad-d-51-2023
-  - norma_id: norm-and-d-21-1985
-  - norma_id: norm-and-o-20-7-2006
-  - norma_id: norm-and-d-14-1995
   - norma_id: norm-mad-o-1338-2023
-  - norma_id: norm-and-o-15-12-2008
-  - norma_id: norm-and-d-167-2003
-  - norma_id: norm-mad-o-2150-2020
-  - norma_id: norm-and-d-52-2021
-  - norma_id: norm-mad-d-112-2002
-  - norma_id: norm-and-o-17-6-2009
-  - norma_id: norm-and-o-26-5-2011-arte
-  - norma_id: norm-and-o-10-8-2007
-  - norma_id: norm-and-o-12-7-2011
   - norma_id: norm-mad-l-2-2010
-  - norma_id: norm-mad-l-4-2023
-  - norma_id: norm-and-d-431-2008
-  - norma_id: norm-and-o-29-9-2008
-  - norma_id: norm-mad-r-acoso-2022
-  - norma_id: norm-and-o-20-6-2011
-  - norma_id: norm-and-d-140-2002
   - norma_id: norm-mad-o-6116-2025
-  - norma_id: norm-and-o-10-11-2020
-  - norma_id: norm-and-o-15-7-2008
-  - norma_id: norm-and-r-12-2-2021
-  - norma_id: norm-and-d-80-1999
-  - norma_id: norm-and-o-25-7-2008
-  - norma_id: norm-and-d-213-1995
-  - norma_id: norm-and-d-155-1997
-  - norma_id: norm-and-o-16-11-2007
-  - norma_id: norm-and-o-16-4-2008
-  - norma_id: norm-and-o-11-12-2012
-  - norma_id: norm-mad-d-126-2014
-  - norma_id: norm-and-o-3-8-2010
-  - norma_id: norm-and-o-24-6-2008
-  - norma_id: norm-and-o-26-5-2011-eoi
-  - norma_id: norm-and-o-27-7-2006
-  - norma_id: norm-mad-d-31-2011
-  - norma_id: norm-and-o-28-6-2011
-  - norma_id: norm-and-r-1-9-2025
-  - norma_id: norm-and-o-14-7-2016
   - norma_id: norm-mad-d-15-2016
-  - norma_id: norm-and-d-40-2011
-  - norma_id: norm-and-o-26-5-2011
-  - norma_id: norm-and-o-14-3-1995
-  - norma_id: norm-and-o-3-1-2000
-  - norma_id: norm-and-r-27-6-2023
-  - norma_id: norm-and-o-12-5-2017
-  - norma_id: norm-and-d-149-1988
-  - norma_id: norm-and-d-276-1998
-  - norma_id: norm-and-o-31-5-1994
-  - norma_id: norm-and-o-9-9-1993
-  - norma_id: norm-mad-d-18-2024
-  - norma_id: norm-and-o-12-7-2004
-  - norma_id: norm-mad-o-1568-2022
-  - norma_id: norm-and-o-18-4-2001
-  - norma_id: norm-mad-o-2460-2023
-  - norma_id: norm-mad-d-45-2023
-  - norma_id: norm-and-o-29-12-2000
-  - norma_id: norm-mad-o-3210-2021
-  - norma_id: norm-and-r-28-8-2002
-  - norma_id: norm-mad-r-inicio-2025
-  - norma_id: norm-and-d-512-1996
-  - norma_id: norm-and-o-8-7-1996
-  - norma_id: norm-mad-d-88-2021
   - norma_id: norm-mad-o-1493-2015
-  - norma_id: norm-and-o-22-7-2013
-  - norma_id: norm-and-d-156-1997
-  - norma_id: norm-mad-o-1117-2020
-  - norma_id: norm-and-d-85-1999
-  - norma_id: norm-and-o-28-3-2008
-  - norma_id: norm-and-d-135-2014
-  - norma_id: norm-mad-o-3622-2014
-  - norma_id: norm-mad-o-1190-2021
   - norma_id: norm-mad-o-1240-2013
-  - norma_id: norm-mad-o-2694-2009
-  - norma_id: norm-and-o-17-9-2010
-  - norma_id: norm-and-o-16-12-2008
-  - norma_id: norm-and-r-14-12-2009
-  - norma_id: norm-and-o-12-6-2008
-  - norma_id: norm-and-d-166-2003
-  - norma_id: norm-and-o-19-9-2002
-  - norma_id: norm-mad-o-2300-2022
-  - norma_id: norm-mad-d-15-2023
-  - norma_id: norm-and-d-115-2002
-  - norma_id: norm-and-d-301-2009
-  - norma_id: norm-mad-d-40-2021
-  - norma_id: norm-mad-d-29-2019
-  - norma_id: norm-and-o-24-7-2006
-  - norma_id: norm-and-o-26-6-2012
-  fundamentado_en:
-  - norma_id: norm-es-1984-17387
-  - norma_id: norm-es-1987-15278
-  - norma_id: norm-es-2000-544
-  - norma_id: norm-es-2001-7022
-  - norma_id: norm-es-2002-12018
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-lo-1-2004
-  - norma_id: norm-es-lo-8-1985
   fundamento_de:
   - norma_id: norm-es-1889-4763
   - norma_id: norm-es-1971-1198
@@ -536,416 +501,37 @@ relaciones:
   - norma_id: norm-es-lo-8-2021
   - norma_id: norm-es-rd-443-2001
   - norma_id: norm-es-rd-659-2023
-  - norma_id: norm-can-res-juriscan-65632-66
   - norma_id: norm-es-2010-10321
-  - norma_id: norm-can-res-juriscan-66772-94
-  - norma_id: norm-can-res-juriscan-22458-15
-  - norma_id: norm-can-res-boc-2002-148-77
-  - norma_id: norm-can-res-juriscan-64565-138
-  - norma_id: norm-can-res-112
-  - norma_id: norm-can-d-9-2022
-  - norma_id: norm-can-res-boc-2024-226-44
-  - norma_id: norm-can-lo-1-2018
-  - norma_id: norm-can-res-juriscan-63878-20
-  - norma_id: norm-can-res-boc-2011-099-72
-  - norma_id: norm-can-res-boc-2026-070-41
-  - norma_id: norm-can-res-boc-2026-075-85
-  - norma_id: norm-can-res-096
-  - norma_id: norm-can-res-juriscan-74499-67
-  - norma_id: norm-can-d-81-2010
-  - norma_id: norm-can-res-juriscan-69937-120
-  - norma_id: norm-can-res-135
-  - norma_id: norm-can-d-74-2010
-  - norma_id: norm-can-d-40-2005
-  - norma_id: norm-can-res-028
-  - norma_id: norm-can-l-14-1990
-  - norma_id: norm-can-res-055
-  - norma_id: norm-can-res-juriscan-73844-69
-  - norma_id: norm-can-res-118
-  - norma_id: norm-can-res-boc-2019-234-52
-  - norma_id: norm-can-res-juriscan-64885-10
-  - norma_id: norm-can-d-23-1995
-  - norma_id: norm-can-d-102-2023
-  - norma_id: norm-can-res-033
-  - norma_id: norm-can-res-juriscan-72788-60
-  - norma_id: norm-can-res-juriscan-65631-68
-  - norma_id: norm-can-res-boc-2025-046-47
-  - norma_id: norm-can-res-boc-2026-039-102
-  - norma_id: norm-can-res-boc-2026-141-29
-  - norma_id: norm-can-res-boc-2020-130-131
-  - norma_id: norm-can-res-098
-  - norma_id: norm-can-res-boc-2022-158-21
-  - norma_id: norm-can-res-032
-  - norma_id: norm-can-res-027
-  - norma_id: norm-can-o-7-6-2007
-  - norma_id: norm-can-d-82-1994
-  - norma_id: norm-can-res-038
-  - norma_id: norm-can-res-014
-  - norma_id: norm-can-res-042
-  - norma_id: norm-can-res-boc-2025-044-89
-  - norma_id: norm-can-res-boc-2024-230-25
-  - norma_id: norm-can-res-063
-  - norma_id: norm-can-res-boc-2018-220-18
-  - norma_id: norm-can-res-086
-  - norma_id: norm-can-l-1-1997
-  - norma_id: norm-can-res-boc-2012-035-58
-  - norma_id: norm-can-res-juriscan-71394-16
-  - norma_id: norm-can-res-boc-2024-125-91
-  - norma_id: norm-can-res-juriscan-41360-129
-  - norma_id: norm-can-res-boc-2019-069-48
-  - norma_id: norm-can-res-boc-2025-047-107
-  - norma_id: norm-can-res-boc-2026-070-116
-  - norma_id: norm-can-res-097
-  - norma_id: norm-can-res-095
-  - norma_id: norm-can-res-boc-2022-138-7
-  - norma_id: norm-can-l-6-2014
-  - norma_id: norm-can-o-25-2-2003
-  - norma_id: norm-can-res-boc-2018-019-130
-  - norma_id: norm-can-res-juriscan-48984-84
-  - norma_id: norm-can-res-juriscan-58182-8
-  - norma_id: norm-can-res-boc-2026-132-101
-  - norma_id: norm-can-res-boc-2019-016-13
-  - norma_id: norm-can-res-boc-2017-036-71
-  - norma_id: norm-can-res-boc-2018-048-56
-  - norma_id: norm-can-res-boc-2026-039-103
-  - norma_id: norm-can-d-84-2024
-  - norma_id: norm-can-res-059
-  - norma_id: norm-can-d-52-2009
-  - norma_id: norm-can-res-juriscan-72882-123
-  - norma_id: norm-can-res-boc-2022-087-31
-  - norma_id: norm-can-l-16-2003
-  - norma_id: norm-can-res-boc-2021-109-79
-  - norma_id: norm-can-d-212-1991
-  - norma_id: norm-can-res-boc-2023-133-57
-  - norma_id: norm-can-res-110
-  - norma_id: norm-can-res-boc-2026-046-139
-  - norma_id: norm-can-res-030
-  - norma_id: norm-can-d-114-2011
-  - norma_id: norm-can-res-boc-2017-061-4
-  - norma_id: norm-can-d-106-2009
-  - norma_id: norm-can-res-juriscan-64838-121
-  - norma_id: norm-can-d-234-1996
-  - norma_id: norm-can-d-276-1997
-  - norma_id: norm-can-res-boc-2026-060-61
-  - norma_id: norm-can-res-boc-2022-158-132
-  - norma_id: norm-can-res-boc-2018-106-114
-  - norma_id: norm-can-res-034
-  - norma_id: norm-can-d-123-2023
-  - norma_id: norm-can-res-boc-2026-077-62
-  - norma_id: norm-can-res-boc-2017-036-75
-  - norma_id: norm-can-res-boc-2025-039-104
-  - norma_id: norm-can-res-juriscan-49002-54
-  - norma_id: norm-can-d-109-1999
-  - norma_id: norm-can-res-125
-  - norma_id: norm-can-res-boc-2025-061-88
-  - norma_id: norm-can-o-2013-10-09
-  - norma_id: norm-can-res-boc-2026-077-49
-  - norma_id: norm-can-res-boc-2025-047-108
-  - norma_id: norm-can-res-juriscan-75818-136
-  - norma_id: norm-can-res-040
-  - norma_id: norm-can-res-boc-2024-117-93
-  - norma_id: norm-can-res-053
-  - norma_id: norm-can-res-boc-2017-020-2
-  - norma_id: norm-can-res-119
-  - norma_id: norm-can-l-4-2023
-  - norma_id: norm-can-res-039
-  - norma_id: norm-can-res-boc-2004-158-76
-  - norma_id: norm-can-d-101-2023
-  - norma_id: norm-can-res-boc-2019-024-22
-  - norma_id: norm-can-res-099
-  - norma_id: norm-can-res-juriscan-75527-17
-  - norma_id: norm-can-res-boc-2026-116-87
-  - norma_id: norm-can-res-boc-2024-049-109
-  - norma_id: norm-can-res-boc-2026-073-113
-  - norma_id: norm-can-res-juriscan-61148-128
-  - norma_id: norm-can-o-2023-09-28
-  - norma_id: norm-can-res-boc-2023-085-51
-  - norma_id: norm-can-res-juriscan-55445-83
-  - norma_id: norm-can-d-135-2016
-  - norma_id: norm-can-res-juriscan-75634-6
-  - norma_id: norm-can-res-juriscan-72176-78
-  - norma_id: norm-can-res-boc-2025-118-46
-  - norma_id: norm-can-res-boc-1992-106-117
-  - norma_id: norm-can-res-boc-2021-038-3
-  - norma_id: norm-can-res-boc-2017-220-70
-  - norma_id: norm-can-res-boc-2026-039-111
-  - norma_id: norm-can-d-25-2018
-  - norma_id: norm-can-d-168-2009
-  - norma_id: norm-can-res-boc-2022-143-23
-  - norma_id: norm-can-res-boc-2017-169-100
-  - norma_id: norm-can-res-boc-2018-086-122
-  - norma_id: norm-can-res-boc-2018-124-126
-  - norma_id: norm-can-res-juriscan-30668-127
-  - norma_id: norm-can-res-boc-2020-257-24
-  - norma_id: norm-can-res-boc-2022-243-81
-  - norma_id: norm-can-res-043
-  - norma_id: norm-can-res-boc-2025-094-137
-  - norma_id: norm-can-res-boc-2026-129-26
-  - norma_id: norm-can-res-boc-2017-235-5
-  - norma_id: norm-can-res-boc-2026-070-115
-  - norma_id: norm-can-res-090
-  - norma_id: norm-can-res-boc-2018-127-9
-  - norma_id: norm-can-l-2-1987
-  - norma_id: norm-can-res-134
-  - norma_id: norm-can-res-boc-2019-016-12
-  - norma_id: norm-can-d-196-2022
-  - norma_id: norm-can-res-boc-2004-189-65
-  - norma_id: norm-can-res-037
-  - norma_id: norm-can-res-boc-2021-114-80
-  - norma_id: norm-can-res-boc-2018-220-19
-  - norma_id: norm-can-res-boc-2019-067-11
-  - norma_id: norm-can-res-juriscan-70096-50
-  - norma_id: norm-can-res-036
-  - norma_id: norm-can-res-boc-2026-037-105
-  - norma_id: norm-can-res-boc-2026-109-92
-  - norma_id: norm-can-o-1-9-2010
-  - norma_id: norm-can-res-boc-2017-132-1
-  - norma_id: norm-can-res-boc-2025-061-106
-  - norma_id: norm-can-o-2-8-2006
-  - norma_id: norm-can-res-boc-2020-236-82
-  - norma_id: norm-can-res-035
-  - norma_id: norm-can-res-boc-2019-143-74
-  - norma_id: norm-can-d-103-2023
   - norma_id: norm-can-r-calendario-escolar-2025-2026
-  - norma_id: norm-can-r-inclusión-neae-2025-2026
-  - norma_id: norm-can-r-instrucciones-curso-2025-2026
-  - norma_id: norm-can-r-fp-dual-curso-2025-2026
-  - norma_id: norm-can-r-admision-alumnado-2025-2026
-  - norma_id: norm-mad-d43-2024
-  - norma_id: norm-mad-o1712-2023
-  - norma_id: norm-mad-o-3814-2023
-  - norma_id: norm-mad-r-instrucciones-curso-2025-2026
-  - norma_id: norm-and-d-100-2023
-  - norma_id: norm-and-d-21-2020
   - norma_id: norm-mad-d29-2013
-  - norma_id: norm-mad-o1240-2013
-  - norma_id: norm-mad-o6116-2025
-  - norma_id: norm-mad-o3536-2025
-  - norma_id: norm-and-d-164-2024
-  - norma_id: norm-mad-o1149-2018
-  - norma_id: norm-mad-d32-2019
-  - norma_id: norm-mad-o893-2022
-  - norma_id: norm-mad-o460-2023
-  - norma_id: norm-mad-d21-2025
-  - norma_id: norm-mad-o1493-2015
-  - norma_id: norm-and-d154-2022
-  - norma_id: norm-and-d-19-2007
   - norma_id: norm-and-o-18-6-2020
-  - norma_id: norm-and-d328-2010
-  - norma_id: norm-mad-d-230-2023
-  - norma_id: norm-and-r-cdd-2025-2026
-  - norma_id: norm-mad-l1-2022
   - norma_id: norm-mad-d-32-2019
-  - norma_id: norm-mad-r2-12-2025
-  - norma_id: norm-mad-o123-2015
-  - norma_id: norm-mad-d149-2000
-  - norma_id: norm-and-d101-2023
-  - norma_id: norm-mad-r-cdd-2025-2026
-  - norma_id: norm-and-o-admision-alumnado-2025-2026
-  - norma_id: norm-and-d164-2024
-  - norma_id: norm-mad-o3413-2022
-  - norma_id: norm-mad-r-calendario-escolar-2025-2026
-  - norma_id: norm-mad-o1312-2021
-  - norma_id: norm-mad-o-1238-2023
-  - norma_id: norm-and-dl2-2021
-  - norma_id: norm-mad-o2742-2022
-  - norma_id: norm-mad-d126-2017
-  - norma_id: norm-and-o-30-5-2023-primaria
-  - norma_id: norm-and-r-instrucciones-curso-2025-2026
-  - norma_id: norm-mad-o2532-2022
-  - norma_id: norm-mad-d-36-2022
-  - norma_id: norm-mad-o-admision-alumnado-2025-2026
-  - norma_id: norm-mad-d65-2022
-  - norma_id: norm-mad-d-164-2024
   - norma_id: norm-mad-d-23-2023
-  - norma_id: norm-and-o-15-1-2021
-  - norma_id: norm-mad-o1736-2023
-  - norma_id: norm-and-d162-2009
-  - norma_id: norm-and-o-30-5-2023-eso
-  - norma_id: norm-and-d100-2023
-  - norma_id: norm-and-d103-2023
-  - norma_id: norm-and-l1-2020
-  - norma_id: norm-mad-o592-2022
-  - norma_id: norm-and-d-328-2010
-  - norma_id: norm-mad-o2356-2023
-  - norma_id: norm-and-l3-2021
-  - norma_id: norm-mad-o3537-2025
-  - norma_id: norm-mad-o2067-2023
-  - norma_id: norm-mad-r23-6-2025
-  - norma_id: norm-and-r-calendario-escolar-2025-2026
   - norma_id: norm-mad-d-64-2022
-  - norma_id: norm-mad-d64-2022
-  - norma_id: norm-mad-o457-2023
-  - norma_id: norm-and-l4-1984
-  - norma_id: norm-and-d19-2007
-  - norma_id: norm-mad-l2-2010
-  - norma_id: norm-mad-o190-2023
-  - norma_id: norm-and-d102-2023
-  - norma_id: norm-mad-d15-2016
   - norma_id: norm-and-d147-2002
-  - norma_id: norm-and-l17-2007
-  - norma_id: norm-mad-d-61-2022
   - norma_id: norm-mad-o-123-2015
-  - norma_id: norm-mad-o1338-2023
   - norma_id: norm-and-d-285-2023
-  - norma_id: norm-and-dl1-2017
-  - norma_id: norm-mad-o2808-2023
-  - norma_id: norm-mad-d64-2025
-  - norma_id: norm-mad-o266-2023
-  - norma_id: norm-and-d327-2010
-  - norma_id: norm-and-d-327-2010
-  - norma_id: norm-and-l9-1999
-  - norma_id: norm-mad-d23-2023
-  - norma_id: norm-mad-o130-2023
-  - norma_id: norm-mad-d-29-2013
   - norma_id: norm-mad-d-149-2000
-  - norma_id: norm-and-d-363-2011
-  - norma_id: norm-and-o-20-8-2010
   - norma_id: norm-mad-d-65-2022
-  - norma_id: norm-and-d-6-2017
-  - norma_id: norm-and-d-362-2011
-  - norma_id: norm-mad-o-1605-2024
-  - norma_id: norm-and-d-329-2010
-  - norma_id: norm-and-d-147-2002
   - norma_id: norm-mad-d-43-2024
-  - norma_id: norm-and-o-30-5-2023-bach
-  - norma_id: norm-and-d-436-2008
   - norma_id: norm-mad-o-190-2023
-  - norma_id: norm-and-d-365-2011
-  - norma_id: norm-and-d-68-2008
-  - norma_id: norm-and-d-117-1985
-  - norma_id: norm-mad-d-10-2023
-  - norma_id: norm-mad-d-11-2019
-  - norma_id: norm-and-d-56-1994
   - norma_id: norm-mad-d-126-2017
-  - norma_id: norm-and-d-254-2001
-  - norma_id: norm-mad-d-35-2019
-  - norma_id: norm-and-d-4-1993
-  - norma_id: norm-mad-d-12-2022
   - norma_id: norm-mad-o-893-2022
-  - norma_id: norm-and-o-19-4-2005
-  - norma_id: norm-and-d-156-1983
-  - norma_id: norm-and-d-266-1988
-  - norma_id: norm-and-d-95-2003
-  - norma_id: norm-and-d-208-1997
-  - norma_id: norm-and-d-2-1995
   - norma_id: norm-mad-o-1312-2021
-  - norma_id: norm-and-d-19-1995
-  - norma_id: norm-and-o-18-6-2001
-  - norma_id: norm-and-d-77-1994
-  - norma_id: norm-and-d-204-1995
   - norma_id: norm-mad-d-43-2022
-  - norma_id: norm-and-o-23-4-2007
   - norma_id: norm-mad-o-2808-2023
-  - norma_id: norm-mad-o-1050-2020
-  - norma_id: norm-and-d-1-2011
-  - norma_id: norm-mad-d-56-2023
-  - norma_id: norm-and-d-467-1994
-  - norma_id: norm-and-d-54-1989
-  - norma_id: norm-and-d-276-1987
-  - norma_id: norm-and-o-10-5-2006
-  - norma_id: norm-mad-o-2882-2019
-  - norma_id: norm-and-d-206-2006
-  - norma_id: norm-and-o-10-2-2004
   - norma_id: norm-mad-d-21-2025
-  - norma_id: norm-mad-o-276-2019
-  - norma_id: norm-mad-o-2808-2017
-  - norma_id: norm-and-d-390-1986
-  - norma_id: norm-mad-d-51-2023
-  - norma_id: norm-and-d-21-1985
-  - norma_id: norm-and-o-20-7-2006
-  - norma_id: norm-and-d-14-1995
   - norma_id: norm-mad-o-1338-2023
-  - norma_id: norm-and-o-15-12-2008
-  - norma_id: norm-and-d-167-2003
-  - norma_id: norm-mad-o-2150-2020
-  - norma_id: norm-and-d-52-2021
-  - norma_id: norm-mad-d-112-2002
-  - norma_id: norm-and-o-17-6-2009
-  - norma_id: norm-and-o-26-5-2011-arte
-  - norma_id: norm-and-o-10-8-2007
-  - norma_id: norm-and-o-12-7-2011
   - norma_id: norm-mad-l-2-2010
-  - norma_id: norm-mad-l-4-2023
-  - norma_id: norm-and-d-431-2008
-  - norma_id: norm-and-o-29-9-2008
-  - norma_id: norm-mad-r-acoso-2022
-  - norma_id: norm-and-o-20-6-2011
-  - norma_id: norm-and-d-140-2002
   - norma_id: norm-mad-o-6116-2025
-  - norma_id: norm-and-o-10-11-2020
-  - norma_id: norm-and-o-15-7-2008
-  - norma_id: norm-and-r-12-2-2021
-  - norma_id: norm-and-d-80-1999
-  - norma_id: norm-and-o-25-7-2008
-  - norma_id: norm-and-d-213-1995
-  - norma_id: norm-and-d-155-1997
-  - norma_id: norm-and-o-16-11-2007
-  - norma_id: norm-and-o-16-4-2008
-  - norma_id: norm-and-o-11-12-2012
-  - norma_id: norm-mad-d-126-2014
-  - norma_id: norm-and-o-3-8-2010
-  - norma_id: norm-and-o-24-6-2008
-  - norma_id: norm-and-o-26-5-2011-eoi
-  - norma_id: norm-and-o-27-7-2006
-  - norma_id: norm-mad-d-31-2011
-  - norma_id: norm-and-o-28-6-2011
-  - norma_id: norm-and-r-1-9-2025
-  - norma_id: norm-and-o-14-7-2016
   - norma_id: norm-mad-d-15-2016
-  - norma_id: norm-and-d-40-2011
-  - norma_id: norm-and-o-26-5-2011
-  - norma_id: norm-and-o-14-3-1995
-  - norma_id: norm-and-o-3-1-2000
-  - norma_id: norm-and-r-27-6-2023
-  - norma_id: norm-and-o-12-5-2017
-  - norma_id: norm-and-d-149-1988
-  - norma_id: norm-and-d-276-1998
-  - norma_id: norm-and-o-31-5-1994
-  - norma_id: norm-and-o-9-9-1993
-  - norma_id: norm-mad-d-18-2024
-  - norma_id: norm-and-o-12-7-2004
-  - norma_id: norm-mad-o-1568-2022
-  - norma_id: norm-and-o-18-4-2001
-  - norma_id: norm-mad-o-2460-2023
-  - norma_id: norm-mad-d-45-2023
-  - norma_id: norm-and-o-29-12-2000
-  - norma_id: norm-mad-o-3210-2021
-  - norma_id: norm-and-r-28-8-2002
-  - norma_id: norm-mad-r-inicio-2025
-  - norma_id: norm-and-d-512-1996
-  - norma_id: norm-and-o-8-7-1996
-  - norma_id: norm-mad-d-88-2021
   - norma_id: norm-mad-o-1493-2015
-  - norma_id: norm-and-o-22-7-2013
-  - norma_id: norm-and-d-156-1997
-  - norma_id: norm-mad-o-1117-2020
-  - norma_id: norm-and-d-85-1999
-  - norma_id: norm-and-o-28-3-2008
-  - norma_id: norm-and-d-135-2014
-  - norma_id: norm-mad-o-3622-2014
-  - norma_id: norm-mad-o-1190-2021
   - norma_id: norm-mad-o-1240-2013
-  - norma_id: norm-mad-o-2694-2009
-  - norma_id: norm-and-o-17-9-2010
-  - norma_id: norm-and-o-16-12-2008
-  - norma_id: norm-and-r-14-12-2009
-  - norma_id: norm-and-o-12-6-2008
-  - norma_id: norm-and-d-166-2003
-  - norma_id: norm-and-o-19-9-2002
-  - norma_id: norm-mad-o-2300-2022
-  - norma_id: norm-mad-d-15-2023
-  - norma_id: norm-and-d-115-2002
-  - norma_id: norm-and-d-301-2009
-  - norma_id: norm-mad-d-40-2021
-  - norma_id: norm-mad-d-29-2019
-  - norma_id: norm-and-o-24-7-2006
-  - norma_id: norm-and-o-26-6-2012
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '1'
-  - '6'
+  - norma_id: '1'
+  - norma_id: '6'
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-2000-544
   - norma_id: norm-es-1987-15278
@@ -955,6 +541,7 @@ relaciones:
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-lo-1-2004
 ---
+
 # Ley Orgánica 2/2006, de 3 de mayo, de Educación (Texto Consolidado con modificaciones de la LOMLOE 3/2020).
 
 ## Preámbulo
@@ -4163,3 +3750,184 @@ JOSÉ LUIS RODRÍGUEZ ZAPATERO
 - [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-c-1978`
+- **Desarrolla**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) desde *(Título V, Capítulo I. Participación en el funcionamiento y el gobierno de los centros., Art. 118)*
+- **Desarrolla**: `norm-es-c-1978` (Capítulo I, Art. 149, Art. 27) desde *(Título VII, Capítulo I. Alta Inspección artículo 149 Ámbito. Corresponde al Estado la alta inspección educativa, para garantizar el cumplimento de las facultades que le están atribuidas en materia de enseñanza y la observancia de los principios y normas constitucionales aplicables y demás normas básicas que desarrollan el artículo 27 de la Constitución.)*
+- **Desarrolla**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md) desde *(Título VIII, D. Adicional sexta. Bases del régimen estatutario de la función pública docente.)*
+- **Desarrolla**: [**BOE-A-2000-544**](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md) desde *(Título VIII, D. Adicional decimoquinta. Municipios, corporaciones o entidades locales.)*
+- **Desarrolla**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (D. Adicional primera) desde *(Título VIII, D. Final sexta. Desarrollo de la presente Ley.)*
+- **Desarrolla**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md) desde *(Título VIII, D. Final octava. Entrada en vigor.)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Modifica**: `norm-es-c-1978` (D. Derogatoria única)
+- **Modifica**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md) desde *(Título VII, Capítulo II. Inspección educativa., Art. 152)*
+- **Modifica**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md) desde *(Título VIII, D. Adicional decimotercera. Desempeño de la función inspectora por funcionarios no pertenecientes al cuerpo de inspectores de educación.)*
+- **Modifica**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md) (Art. 29) desde *(Título VIII, D. Transitoria segunda. Jubilación voluntaria anticipada.)*
+- **Modifica**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md) (D. Adicional decimoquinta) desde *(Título VIII, D. Transitoria segunda. Jubilación voluntaria anticipada.)*
+- **Modifica**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (D. Final primera) desde *(Título VIII, D. Final primera. Modificación de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación.)*
+- **Modifica**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 4) desde *(Título VIII, D. Final primera. Modificación de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación.)*
+- **Modifica**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 5) desde *(Título VIII, D. Final primera. Modificación de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación.)*
+- **Modifica**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 6) desde *(Título VIII, D. Final primera. Modificación de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación.)*
+- **Modifica**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md) (D. Final segunda) desde *(Título VIII, D. Final segunda. Modificación de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública.)*
+- **Modifica**: [**BOE-A-1987-15278**](../02_gestion_y_administracion_centros/L12_1987_establecimiento_gratuidad_estudios_bachillerato_formacion_profesional.md) desde *(Título VIII, D. Final cuarta. Autonomía de gestión económica de los centros docentes públicos no universitarios.)*
+- **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 4) desde *(Título IV, Capítulo I. Principios generales., Art. 108)*
+- **Fundamentado en**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (Art. 100) desde *(Título VIII, D. Transitoria octava. Formación pedagógica y didáctica.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 5, D. Adicional decimoquinta, D. Final cuarta) desde *(Título VIII, D. Final quinta. Título competencial.)*
+- **Fundamentado en**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md)
+- **Fundamentado en**: [**BOE-A-1987-15278**](../02_gestion_y_administracion_centros/L12_1987_establecimiento_gratuidad_estudios_bachillerato_formacion_profesional.md)
+- **Fundamentado en**: [**BOE-A-2000-544**](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md)
+- **Fundamentado en**: [**BOE-A-2002-12018**](../03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
+- **Fundamento de**: [**BOE-A-1889-4763**](./RDsn_publica_codigo_civil.md)
+- **Fundamento de**: [**BOE-A-1971-1198**](../05_alumnado_y_servicios_escolares/D2078_1971_extiende_campo_aplicacion_seguro_escolar_alumnos.md)
+- **Fundamento de**: [**BOE-A-1985-19457**](../05_alumnado_y_servicios_escolares/RD1633_1985_fija_cuantia_cuota_seguro_escolar.md)
+- **Fundamento de**: [**BOE-A-1987-11341**](../02_gestion_y_administracion_centros/RD605_1987_regula_procedimiento_autorizacion_previa_desafectacion_edificios.md)
+- **Fundamento de**: [**BOE-A-1987-13494**](../02_gestion_y_administracion_centros/RD605_1987_desarrollo_real_decreto_regula_procedimiento_autorizacion.md)
+- **Fundamento de**: [**BOE-A-1988-6938**](../02_gestion_y_administracion_centros/RD104_1988_aplicacion_lo_dispuesto_real_decreto_homologacion.md)
+- **Fundamento de**: [**BOE-A-1991-342**](./L1_1991_modificacion_codigos_civil_penal_materia_responsabilidad.md)
+- **Fundamento de**: [**BOE-A-1995-8730**](./RD365_1995_aprueba_reglamento_situaciones_administrativas_funcionarios_civiles.md)
+- **Fundamento de**: [**BOE-A-1996-10210**](../02_gestion_y_administracion_centros/O30_4_1996_adecuan_nueva_ordenacion_educativa_determinados_criterios.md)
+- **Fundamento de**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+- **Fundamento de**: [**BOE-A-2000-5990**](../03_ordenacion_curricular_y_ensenanzas/RD320_2000_establecen_titulos_tecnico_deportivo_tecnico_deportivo.md)
+- **Fundamento de**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Fundamento de**: [**BOE-A-2002-4371**](../03_ordenacion_curricular_y_ensenanzas/RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md)
+- **Fundamento de**: [**BOE-A-2004-15601**](./LO1774_2004_aprueba_reglamento_ley_organica_reguladora_responsabilidad.md)
+- **Fundamento de**: [**BOE-A-2005-21534**](../03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md)
+- **Fundamento de**: [**BOE-A-2006-21648**](../02_gestion_y_administracion_centros/DOC1_instruccion_agencia_espanola_proteccion_datos_tratamiento.md)
+- **Fundamento de**: [**BOE-A-2007-10487**](../05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md)
+- **Fundamento de**: [**BOE-A-2007-19326**](../03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md)
+- **Fundamento de**: [**BOE-A-2007-22017**](../08_personal_docente/R17_12_2007_secretaria_estado_universidades_e_investigacion_publica.md)
+- **Fundamento de**: [**BOE-A-2007-22450**](../08_personal_docente/Osn_eci_establecen_requisitos_verificacion_titulos_universitarios.md)
+- **Fundamento de**: [**BOE-A-2007-5478**](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
+- **Fundamento de**: [**BOE-A-2009-20550**](../08_personal_docente/Osn_edu_aprueba_temario_fase_oposicion_procedimiento.md)
+- **Fundamento de**: [**BOE-A-2009-3424**](../03_ordenacion_curricular_y_ensenanzas/RD242_2009_establecen_convalidaciones_entre_ensenanzas_profesionales_musica.md)
+- **Fundamento de**: [**BOE-A-2010-11426**](../02_gestion_y_administracion_centros/RD860_2010_regulan_condiciones_formacion_inicial_profesorado_centros.md)
+- **Fundamento de**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamento de**: [**BOE-A-2010-12706**](../03_ordenacion_curricular_y_ensenanzas/Osn_edu_regula_curriculo_mixto_ensenanzas_acogidas.md)
+- **Fundamento de**: [**BOE-A-2010-13564**](../03_ordenacion_curricular_y_ensenanzas/RD935_2010_establecen_titulos_tecnico_deportivo_vela_aparejo.md)
+- **Fundamento de**: [**BOE-A-2010-4130**](../03_ordenacion_curricular_y_ensenanzas/RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md)
+- **Fundamento de**: [**BOE-A-2011-12632**](../03_ordenacion_curricular_y_ensenanzas/RD878_2011_establece_titulo_tecnico_deportivo_salvamento_socorrismo.md)
+- **Fundamento de**: [**BOE-A-2011-13117**](../02_gestion_y_administracion_centros/RD1146_2011_modifica_real_decreto_esteblecen_ensenanzas_minimas.md)
+- **Fundamento de**: [**BOE-A-2011-15628**](../08_personal_docente/Osn_edu_establece_formacion_equivalente_formacion_pedagogica.md)
+- **Fundamento de**: [**BOE-A-2011-16923**](../08_personal_docente/Osn_edu_regula_convocatoria_reconocimiento_certificacion_registro.md)
+- **Fundamento de**: [**BOE-A-2011-2615**](../03_ordenacion_curricular_y_ensenanzas/Osn_edu_establece_procedimiento_reconocimiento_formaciones_entrenadores.md)
+- **Fundamento de**: [**BOE-A-2012-5337**](../08_personal_docente/RD14_2012_real_decreto_ley_medidas_urgentes_racionalizacion.md)
+- **Fundamento de**: [**BOE-A-2012-8745**](../08_personal_docente/L2_2012_presupuestos_generales_estado_ano.md)
+- **Fundamento de**: [**BOE-A-2012-9282**](../08_personal_docente/L4_2012_medidas_administrativas_fiscales.md)
+- **Fundamento de**: [**BOE-A-2013-10219**](../03_ordenacion_curricular_y_ensenanzas/RD669_2013_establece_titulo_tecnico_deportivo_atletismo_fijan.md)
+- **Fundamento de**: [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md)
+- **Fundamento de**: [**BOE-A-2013-6281**](../08_personal_docente/Osn_ecd_modifica_orden_edu_establece_formacion.md)
+- **Fundamento de**: [**BOE-A-2014-2222**](../03_ordenacion_curricular_y_ensenanzas/RD126_2014_establece_curriculo_basico_educacion_primaria.md)
+- **Fundamento de**: [**BOE-A-2014-5591**](../03_ordenacion_curricular_y_ensenanzas/RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md)
+- **Fundamento de**: [**BOE-A-2014-6008**](../03_ordenacion_curricular_y_ensenanzas/RD412_2014_establece_normativa_basica_procedimientos_admision_ensenanzas.md)
+- **Fundamento de**: [**BOE-A-2015-738**](../03_ordenacion_curricular_y_ensenanzas/Osn_ecd_describen_relaciones_entre_competencias_contenidos.md)
+- **Fundamento de**: [**BOE-A-2015-8043**](../02_gestion_y_administracion_centros/RD665_2015_desarrollan_determinadas_disposiciones_relativas_ejercicio_docencia.md)
+- **Fundamento de**: [**BOE-A-2015-8470**](./L26_2015_modificacion_sistema_proteccion_infancia_adolescencia.md)
+- **Fundamento de**: [**BOE-A-2015-8702**](../05_alumnado_y_servicios_escolares/Osn_ecd_crean_regulan_premios_nacionales_rendimiento.md)
+- **Fundamento de**: [**BOE-A-2015-9453**](../08_personal_docente/Osn_ecd_aprueban_temarios_han_regir_procedimientos_2.md)
+- **Fundamento de**: [**BOE-A-2015-9462**](../03_ordenacion_curricular_y_ensenanzas/RD774_2015_establecen_seis_titulos_formacion_profesional_basica.md)
+- **Fundamento de**: [**BOE-A-2016-3229**](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
+- **Fundamento de**: [**BOE-A-2018-16287**](./R7_11_2018_ayuntamiento_zaragoza_referente_convocatoria_proveer_varias.md)
+- **Fundamento de**: [**BOE-A-2018-5111**](../02_gestion_y_administracion_centros/R9_4_2018_secretaria_estado_educacion_formacion_profesional_universidades.md)
+- **Fundamento de**: [**BOE-A-2018-6348**](../05_alumnado_y_servicios_escolares/Osn_ecd_regulan_premios_nacionales_bachillerato.md)
+- **Fundamento de**: [**BOE-A-2019-317**](../03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md)
+- **Fundamento de**: [**BOE-A-2019-3307**](../08_personal_docente/L4_2019_mejora_condiciones_desempeno_docencia_ensenanza_ambito.md)
+- **Fundamento de**: [**BOE-A-2020-17274**](../03_ordenacion_curricular_y_ensenanzas/RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md)
+- **Fundamento de**: [**BOE-A-2021-18189**](../03_ordenacion_curricular_y_ensenanzas/Osn_efp_establece_equivalencia_efectos_acceso_ensenanzas.md)
+- **Fundamento de**: [**BOE-A-2021-18812**](../03_ordenacion_curricular_y_ensenanzas/RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md)
+- **Fundamento de**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamento de**: [**BOE-A-2021-979**](../03_ordenacion_curricular_y_ensenanzas/RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md)
+- **Fundamento de**: [**BOE-A-2022-12014**](../03_ordenacion_curricular_y_ensenanzas/RD588_2022_establecen_especialidades_docentes_cuerpos_profesores_catedraticos.md)
+- **Fundamento de**: [**BOE-A-2022-1274**](../03_ordenacion_curricular_y_ensenanzas/RD62_2022_flexibilizacion_requisitos_exigibles_impartir_ofertas_formacion.md)
+- **Fundamento de**: [**BOE-A-2022-15953**](../03_ordenacion_curricular_y_ensenanzas/Osn_efp_modifica_orden_edu_regula_curriculo.md)
+- **Fundamento de**: [**BOE-A-2022-16194**](../08_personal_docente/RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md)
+- **Fundamento de**: [**BOE-A-2023-3846**](../02_gestion_y_administracion_centros/R13_2_2023_subsecretaria_publica_resolucion_conjunta_secretaria_estado.md)
+- **Fundamento de**: [**BOE-A-2023-9553**](../08_personal_docente/RD286_2023_regula_asignacion_materias_educacion_secundaria_obligatoria.md)
+- **Fundamento de**: [**BOE-A-2024-10683**](../03_ordenacion_curricular_y_ensenanzas/RD498_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**BOE-A-2024-10684**](../03_ordenacion_curricular_y_ensenanzas/RD499_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**BOE-A-2024-10685**](../03_ordenacion_curricular_y_ensenanzas/RD500_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**BOE-A-2024-11613**](../03_ordenacion_curricular_y_ensenanzas/L1_2024_regulan_ensenanzas_artisticas_superiores_establece_organizacion.md)
+- **Fundamento de**: [**BOE-A-2025-16039**](../03_ordenacion_curricular_y_ensenanzas/R24_7_2025_secretaria_estado_educacion_dictan_instrucciones_relativas.md)
+- **Fundamento de**: [**BOE-A-2025-2039**](../03_ordenacion_curricular_y_ensenanzas/RD69_2025_desarrollan_elementos_integrantes_instrumentos_gestion_sistema.md)
+- **Fundamento de**: [**BOE-A-2026-12038**](../03_ordenacion_curricular_y_ensenanzas/RD452_2026_establece_ordenacion_ensenanzas_profesionales_artes_plasticas.md)
+- **Fundamento de**: [**BOE-A-2026-15301**](../03_ordenacion_curricular_y_ensenanzas/RD452_2026_correccion_errores_real_decreto_establece_ordenacion.md)
+- **Fundamento de**: [**BOE-A-2026-2622**](../04_organizacion_escolar_y_funcionamiento/RD68_2026_regula_inspeccion_educativa.md)
+- **Fundamento de**: [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
+- **Fundamento de**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
+- **Fundamento de**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
+- **Fundamento de**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Fundamento de**: [**RD443_2001 Condiciones de Seguridad en el Transporte Escolar**](../05_alumnado_y_servicios_escolares/RD443_2001_condiciones_seguridad_transporte_escolar_menores.md)
+- **Fundamento de**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **Fundamento de**: [**BOE-A-2010-10321**](../05_alumnado_y_servicios_escolares/RD828_2010_traspaso_comunidad_autonoma_canarias_medios_adscritos.md)
+- **Fundamento de**: `norm-can-r-calendario-escolar-2025-2026`
+- **Fundamento de**: `norm-mad-d29-2013`
+- **Fundamento de**: `norm-and-o-18-6-2020`
+- **Fundamento de**: `norm-mad-d-32-2019`
+- **Fundamento de**: `norm-mad-d-23-2023`
+- **Fundamento de**: `norm-mad-d-64-2022`
+- **Fundamento de**: `norm-and-d147-2002`
+- **Fundamento de**: `norm-mad-o-123-2015`
+- **Fundamento de**: `norm-and-d-285-2023`
+- **Fundamento de**: `norm-mad-d-149-2000`
+- **Fundamento de**: `norm-mad-d-65-2022`
+- **Fundamento de**: `norm-mad-d-43-2024`
+- **Fundamento de**: `norm-mad-o-190-2023`
+- **Fundamento de**: `norm-mad-d-126-2017`
+- **Fundamento de**: `norm-mad-o-893-2022`
+- **Fundamento de**: `norm-mad-o-1312-2021`
+- **Fundamento de**: `norm-mad-d-43-2022`
+- **Fundamento de**: `norm-mad-o-2808-2023`
+- **Fundamento de**: `norm-mad-d-21-2025`
+- **Fundamento de**: `norm-mad-o-1338-2023`
+- **Fundamento de**: `norm-mad-l-2-2010`
+- **Fundamento de**: `norm-mad-o-6116-2025`
+- **Fundamento de**: `norm-mad-d-15-2016`
+- **Fundamento de**: `norm-mad-o-1493-2015`
+- **Fundamento de**: `norm-mad-o-1240-2013`
+- **En concordancia con**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (D. Adicional primera) desde *(Título Preliminar, Capítulo III. Currículo., Art. 6)*
+- **En concordancia con**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 51) desde *(Título II, Capítulo III. Escolarización en centros públicos y privados concertados., Art. 88)*
+- **En concordancia con**: [**BOE-A-2002-12018**](../03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md) desde *(Título IV, Capítulo I. Principios generales., Art. 107)*
+- **En concordancia con**: [**BOE-A-2002-12018**](../03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md) desde *(Título V, Capítulo I. Participación en el funcionamiento y el gobierno de los centros., Art. 118)*
+- **En concordancia con**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (D. Transitoria cuarta) desde *(Título VIII, D. Transitoria primera. Maestros adscritos a los cursos primero y segundo de la educación secundaria obligatoria.)*
+- **Cita a**: `norm-es-c-1978`
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
+- **Cita a**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
+- **Cita a**: `norm-es-c-1978` (Capítulo I, Art. 1) desde *(Título Preliminar, Capítulo I. Principios y fines de la educación artículo 1 Principios. El sistema educativo español, configurado de acuerdo con los valores de la Constitución y asentado en el respeto a los derechos y libertades reconocidos en ella, se inspira en los siguientes principios:.)*
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Capítulo IV, Art. 33)*
+- **Cita a**: [**BOE-A-2002-12018**](../03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md) (Art. 11) desde *(Título I, Capítulo V. Formación profesional., Art. 39)*
+- **Cita a**: [**BOE-A-2000-544**](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md) (Art. 9) desde *(Título III, Capítulo II. Profesorado de las distintas enseñanzas., Art. 96)*
+- **Cita a**: [**BOE-A-2000-544**](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md) (Art. 9) desde *(Título III, Capítulo II. Profesorado de las distintas enseñanzas., Art. 97)*
+- **Cita a**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) desde *(Título III, Capítulo III. Formación del profesorado., Art. 102)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) desde *(Título IV, Capítulo I. Principios generales., Art. 107)*
+- **Cita a**: `norm-es-c-1978` desde *(Título IV, Capítulo III. Centros privados artículo 114 Denominación. Los centros privados podrán adoptar cualquier denominación, excepto la que corresponde a centros públicos o pueda inducir a confusión con ellos., Art. 115)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) desde *(Título IV, Capítulo IV. Centros privados concertados., Art. 116)*
+- **Cita a**: `norm-es-c-1978` desde *(Título IV, Capítulo IV. Centros privados concertados., Art. 116)*
+- **Cita a**: `norm-es-c-1978` desde *(Título V, Capítulo I. Participación en el funcionamiento y el gobierno de los centros., Art. 118)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) desde *(Título V, Capítulo II. Autonomía de los centros., Art. 121)*
+- **Cita a**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) desde *(Título VIII, D. Adicional cuarta. Libros de texto y demás materiales curriculares.)*
+- **Cita a**: `norm-es-c-1978` desde *(Título VIII, D. Adicional cuarta. Libros de texto y demás materiales curriculares.)*
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) desde *(Título VIII, D. Adicional séptima. Ordenación de la función pública docente y funciones de los cuerpos docentes.)*
+- **Cita a**: [**BOE-A-2002-12018**](../03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md) (D. Adicional primera) desde *(Título VIII, D. Adicional octava. Cuerpos de catedráticos.)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) desde *(Título VIII, D. Adicional decimoquinta. Municipios, corporaciones o entidades locales.)*
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) desde *(Título VIII, D. Adicional decimoquinta. Municipios, corporaciones o entidades locales.)*
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (D. Transitoria octava) desde *(Título VIII, D. Transitoria primera. Maestros adscritos a los cursos primero y segundo de la educación secundaria obligatoria.)*
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) desde *(Título VIII, D. Transitoria decimoquinta. Maestros con plaza en los servicios de orientación o de asesoramiento psicopedagógico.)*
+- **Cita a**: `norm-es-c-1978` desde *(Título VIII, D. Final primera. Modificación de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación.)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 7) desde *(Título VIII, D. Final primera. Modificación de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación.)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 8) desde *(Título VIII, D. Final primera. Modificación de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación.)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 25) desde *(Título VIII, D. Final primera. Modificación de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación.)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 31) desde *(Título VIII, D. Final primera. Modificación de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación.)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 56) desde *(Título VIII, D. Final primera. Modificación de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación.)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 57) desde *(Título VIII, D. Final primera. Modificación de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación.)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 62) desde *(Título VIII, D. Final primera. Modificación de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación.)*
+- **Cita a**: `norm-es-c-1978` (Art. 16, Art. 20) desde *(Título VIII, D. Final primera. Modificación de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación.)*
+- **Cita a**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md) (Art. 29) desde *(Título VIII, D. Final segunda. Modificación de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública.)*

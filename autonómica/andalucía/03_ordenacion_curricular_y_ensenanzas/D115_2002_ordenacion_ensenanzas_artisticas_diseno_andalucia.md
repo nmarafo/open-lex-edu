@@ -25,13 +25,34 @@ tags:
 - escuelas_arte
 - andalucia
 relaciones:
+  cita:
+  - norma_id: norm-and-d-254-2001
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-and-d-254-2001
+    articulos_origen:
+    - Art. 10
+  - norma_id: norm-and-d-254-2001
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 114
+    - Art. 22
+    - Art. 8
   desarrolla:
+  - norma_id: norm-and-d-149-1988
+    articulos_origen:
+    - Art. 16
+    articulos_destino:
+    - Art. 38
+    - Art. 40
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Decreto 115/2002, de 19 de marzo, por el que se regulan los estudios de Artes Plásticas y Diseño en Andalucía.
 
 ## Preámbulo
@@ -39,7 +60,7 @@ relaciones:
 CONSEJERIA DE GOBERNACION ORDEN de 26 de febrero de 2002, por la que se aprueban las Bases Reguladoras en el ámbito de las competencias de la Dirección General de Coordinación de Políticas Migratorias y se efectúa su convocatoria para el año 2002. El Decreto del Presidente 6/2000, de 28 de abril, sobre reestructuración de Consejerías, atribuye a la Consejería de Gobernación la coordinación de las políticas migratorias. A la Dirección General de Coordinación de Políticas Migratorias le corresponde, según establece el Decreto 138/2000, de 16 de mayo, las funciones de impulso y coordinación de las políticas públicas de las distintas Consejerías en atención a las consecuencias sociales de los fenómenos migratorios de cualquier origen, en concreto, la coordinación de las actuaciones que al respecto se aborden en lo sanitario, social, cultural, educativo, laboral y cualquier otro ámbito de intervención en la materia. Así mismo, le corresponde el estudio de la evolución de la migración como fenómeno social, la planificación de la actuación de la Junta de Andalucía al respecto y la evaluación permanente de los resultados de la misma. También, de modo especial, coordinar la relación con otras Administraciones para la adopción conjunta de medidas que favorezcan el arraigo, la inserción y la promoción social de emigrantes e inmigrantes. El Plan Integral para la Inmigración en Andalucía aprobado por Decreto 1/2002, de 9 de enero, tiene como finalidad principal crear las condiciones necesarias para que se produzca una verdadera integración de los inmigrantes en nuestro territorio, de manera que sean ejercitados, en igualdad de condiciones con los nacionales, los derechos y libertades reconocidos actualmente o que puedan estarlo en el futuro. Entre los objetivos y medidas específicas que el Plan contiene para el periodo 2001-2004, que inciden más directamente en la responsabilidad de la Consejería de Gobernación a través de la Dirección General de Coordinación de Políticas Migratorias, se encuentran: conocer la realidad de la inmigración en Andalucía y los factores que la determinan y su repercusión y evolución en el ámbito autonómico, provincial y local; favorecer el intercambio y enriquecimiento entre personas que intervienen y, en su caso, investigan en el ámbito de la inmigración; mejorar la formación de los profesionales que trabajan con inmigrantes; propiciar en la sociedad andaluza actitudes favorables a la acogida e integración social del inmigrante y contribuir a mejorar el conocimiento del fenómeno de la inmigración. A fin de cumplir con estos objetivos, la Consejería de Gobernación desarrolla distintas actividades de cooperación con las Entidades Locales, las Universidades y las Entidades sin ánimo de lucro, siendo una de ellas la concesión de subvenciones dirigidas tanto a la sociedad de acogida como a la población inmigrante y tendentes a dar respuesta a sus necesidades y demandas. Las subvenciones que se regulan en la presente Orden, se otorgarán con arreglo a los principios de publicidad, libre concurrencia y objetividad. En su virtud, y en uso de las facultades y competencias que tengo conferidas por el artículo 107 de la Ley 5/1983, de 19 de julio, General de la Hacienda Pública de la Comunidad Autónoma de Andalucía y por el Decreto 138/2000, de 16 de mayo, por el que se aprueba la Estructura Orgánica de la Consejería de Gobernación,
 DISPONGO:
 
-#### Artículo 1. Objeto y financiación.
+#### Artículo . #### Artículo . #### Artículo 1. Objeto y financiación.
 
 1. La presente Orden tiene por objeto aprobar las bases reguladoras y la convocatoria de subvenciones en el ámbito de las competencias de la Dirección General de Coordinación de Políticas Migratorias para el año 2002. 2. Se regulará por el Titulo VIII de la Ley General de la Hacienda Pública de la Comunidad Autónoma de Andalucía, por el Decreto 254/2001, de 20 de noviembre, por el que se aprueba el Reglamento por el que se regulan los procedimientos para la concesión de subvenciones y ayudas públicas por la Administración de la Junta de Andalucía y sus Organismos Autónomos y su régimen jurídico y por estas bases reguladoras.
 
@@ -91,8 +112,6 @@ i) DNI/NIF del/de la representante.
 #### Artículo 5. Lugar y plazo de presentación de solicitudes.
 
 1. Sin perjuicio de lo establecido en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, las solicitudes se presentarán con carácter preferente, en el Registro General de la Consejería de Gobernación o en los de las Delegaciones del Gobierno de la Junta de Andalucía en la provincia donde tenga su sede la entidad solicitante.
-
-2. Las solicitudes deberán ser presentadas en el plazo de un mes, a partir del día siguiente a la fecha de publicación de la presente Orden en el Boletín Oficial de la Junta de Andalucía, salvo si se trata de solicitudes de subvenciones a las que se refiere la disposición adicional única, cuyo plazo será establecido por la misma.
 
 #### Artículo 6. Subsanación de errores.
 
@@ -156,8 +175,6 @@ El importe de la subvención en ningún caso podrá ser de tal cuantía que, ais
 3. El plazo para resolver y notificar será de dos meses a partir de la fecha de presentación de la solicitud de modificación por el interesado pudiendo entenderse desestimada por silencio administrativo si, vencido dicho plazo, no ha recaído y notificado resolución expresa, sin perjuicio del cumplimiento de la obligación legal de resolver, según lo dispuesto en el art. 2.2 de la Ley 9/2001, de 12 de julio.
 
 #### Artículo 13. Publicidad.
-
-Las subvenciones concedidas serán publicadas trimestralmente en el Boletín Oficial de la Junta de Andalucía, conforme a lo dispuesto en el art. 109 de la Ley General de la Hacienda Pública de la Comunidad Autónoma de Andalucía.
 
 #### Artículo 14. Abono de las subvenciones.
 
@@ -235,8 +252,6 @@ Primera. Instrucciones y medidas de ejecución. Se faculta al Director General d
 
 #### Segunda. Entrada en vigor.
 
-La presente Orden entrará en vigor el día siguiente al de su publicación el Boletín Oficial de la Junta de Andalucía. Sevilla, 26 de febrero de 2002 ALFONSO PERALES PIZARRO Consejero de Gobernación Página núm.
-
 **4.834** Sevilla, 2 de abril 2002
 
 Sevilla, 2 de abril 2002 Página núm.
@@ -257,9 +272,7 @@ Sevilla, 2 de abril 2002 Página núm.
 
 **4.840** Sevilla, 2 de abril 2002
 
-CONSEJERIA DE EMPLEO Y DESARROLLO TECNOLOGICO RESOLUCION de 21 de febrero de 2002, de la Dirección General de Industria, Energía y Minas, relativa al período de presentación de solicitudes para acogerse a la concesión de ayudas del Programa Andaluz de Promoción de Instalaciones de Energías Renovables (PROSOL). La Orden de 5 de abril de 2000 (BOJA de 11.05.00), modificada por Orden de 12 de septiembre de 2000 (BOJA de 19.10.00), que regula la concesión de ayudas del Programa Andaluz de Promoción de Instalaciones de Energías Renovables (PROSOL) para el período 2000-2006, autoriza al Director General de Industria, Energía y Minas, mediante Resolución publicada en el BOJA, a determinar los sucesivos períodos de presentación de solicitudes, terminando el último de ellos, como máximo, el 15 de octubre del año 2006. Por Resolución de 21 de diciembre de 2000, el Director General de Industria, Energía y Minas abrió el período de presentación de solicitudes, indicando que para las solicitudes de instalaciones fotovoltaicas conectadas a red el plazo de presentación terminaba el día 2 de abril de 2001, y para las restantes la fecha de cierre sería publicada, al menos con 15 días de antelación, en el Boletín Oficial de la Junta de Andalucía. En consecuencia, el plazo anterior ha permanecido abierto desde el 21 de diciembre de 2000, y el número de solicitudes presentadas y no atendidas desde entonces ya supera el presupuesto asignado este año 2002, lo cual aconseja abrir el plazo de presentación de solicitudes de instalaciones fotovoltaicas conectadas a red y cerrar un mes después el plazo de presentación de todo tipo de solicitudes, excepto para el caso de solicitudes presentadas al amparo de Acuerdos Específicos que se firmen entre la Consejería y otras Consejerías, otras Administraciones o Entes públicos o privados. La gran aceptación social, materializada en el elevado número de solicitudes promovidas por el modelo actual de programa PROSOL, está desbordando su capacidad de respuesta desde el punto de vista presupuestario y de gestión administrativa, por lo que se impone cambiar en el futuro el modelo de programa para continuar hacia el objetivo de consolidar económica, técnica y socialmente el uso de las energías renovables. Se está terminando actualmente la elaboración de una nueva Orden PROSOL en la cual los destinatarios de las ayudas serían las empresas instaladoras, y en cualquier caso se seguirán impulsando acciones de formación, información y desarrollo tecnológico. Por todo ello, y en relación a la concesión de ayudas del Programa Andaluz de Promoción de Instalaciones de Energías Renovables (PROSOL) para el período 2000-2006, esta Dirección General de Industria, Energía y Minas R E S U E L V E
 Primero. Abrir el próximo período de presentación de solicitudes de instalaciones fotovoltaicas conectadas a red el día de la entrada en vigor de la presente Resolución. La selección de solicitudes de instalaciones fotovoltaicas conectadas a red se realizará atendiendo a los criterios de difusión, telemonitorización y años de garantía, que el solicitante deberá acreditar junto con la solicitud. Las solicitudes de instalaciones conectadas a red actualmente en trámite, que aún no dispongan de la autorización de enganche por parte de la empresa distribuidora, tendrán como plazo máximo para acreditar dicha autorización la fecha de cierre del plazo de presentación de solicitudes que se indica en la presente Resolución.
-Segundo. Cerrar el período de presentación de todo tipo de solicitudes treinta días naturales después de la entrada en vigor de la presente Resolución, excepto para el caso de solicitudes presentadas al amparo de Acuerdos Específicos que se firmen entre la Consejería y otras Consejerías, otras Administraciones o Entes públicos o privados, para las cuales el período quedará abierto hasta el 31 de julio próximo. La presente Resolución entrará en vigor al día siguiente de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 21 de febrero de 2002.- El Director General, Jesús Nieto González. CONSEJERIA DE AGRICULTURA Y PESCA RESOLUCION de 8 de febrero de 2002, de la Viceconsejería, por la que se convocan, para el año 2002, ayudas a las Organizaciones Profesionales Agrarias, Federaciones de Cooperativas y Entidades representativas de Asociaciones de Desarrollo Rural previstas en la Orden de 28 de junio de 2001, para facilitar su funcionamiento y gestión, así como para el desarrollo de actividades de divulgación y transferencia de tecnología. La Orden de 28 de junio de 2001, de la Consejería de Agricultura y Pesca, regula la concesión de ayudas a las Organizaciones Profesionales Agrarias, Federaciones de Cooperativas Agrarias y entidades representativas de Asociaciones de Desarrollo Rural, con ámbito de actuación en Andalucía, para facilitar su funcionamiento y gestión, así como para el desarrollo de actividades de divulgación y transferencia de tecnología. En su artículo 7 establece que el Viceconsejero de Agricultura y Pesca procederá, anualmente, a la convocatoria de estas ayudas mediante la correspondiente Resolución, que será publicada en el Boletín Oficial de la Junta de Andalucía. Considerando oportuno proceder a la convocatoria de las ayudas a conceder con cargo al presupuesto de 2002 y, en virtud de las facultades que tengo conferidas,
 RESUELVO:
 
 #### Primero. Convocatoria.
@@ -271,3 +284,17 @@ Se convoca, para el año 2002, la concesión de ayudas a las Organizaciones Prof
 Se convocan dos tipos de ayudas, que tendrán por finalidad:
 a) Fomentar la realización de actividades de divulgación, transferencia de tecnología y formación a sus asociados o al sector agrario en general, mediante la organización de cursos, jornadas técnicas y seminarios, la elaboración de estudios, publicaciones o material de divulgación, sobre temas relativos a aspectos de la modernización del sector agrario andaluz, así como la colaboración con la Consejería de Agricultura y Pesca en el desarrollo de las líneas de información tanto provenientes del sector agrario como dirigidas hacia éste.
 b) Contribuir a la financiación de los gastos de funcionamiento y gestión, entre los que se podrán incluir los de adquiSevilla, 2 de abril 2002 Página núm. 4.841
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**D149_1988 Ordenacion Enseñanzas Musica y Danza Andalucía**](./D149_1988_ordenacion_ensenanzas_musica_danza_andalucia.md) (Art. 38, Art. 40) desde *(Art. 16)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**D254_2001 Atencion Alumnado Trastornos Desarrollo Andalucia**](../06_atencion_diversidad_y_orientacion/D254_2001_atencion_alumnado_trastornos_desarrollo_andalucia.md) desde *(Art. 1)*
+- **Cita a**: [**D254_2001 Atencion Alumnado Trastornos Desarrollo Andalucia**](../06_atencion_diversidad_y_orientacion/D254_2001_atencion_alumnado_trastornos_desarrollo_andalucia.md) desde *(Art. 10)*
+- **Cita a**: [**D254_2001 Atencion Alumnado Trastornos Desarrollo Andalucia**](../06_atencion_diversidad_y_orientacion/D254_2001_atencion_alumnado_trastornos_desarrollo_andalucia.md) (Art. 114, Art. 22, Art. 8) desde *(Art. 17)*

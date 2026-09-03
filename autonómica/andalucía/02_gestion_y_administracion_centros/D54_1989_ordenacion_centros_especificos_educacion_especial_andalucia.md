@@ -32,11 +32,10 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Decreto 54/1989, de 21 de marzo, sobre ordenación de la educación especial en centros específicos de Andalucía.
 
 ## Preámbulo
-
-Histórico del BOJA
 
 Boletín número
 
@@ -64,7 +63,7 @@ Estas indemnizaciones por razón del servicio han sido reguladora fragmentariame
 
 En su virtud, a propuesta de los Consejeros de Gobernación y de Hacienda y Planificación y previa deliberación del Consejo de Gobierno, en su reunión del día 21 de Marzo de 1989. DISPONGO:
 
-### Capítulo I. PRINCIPIOS GENERALES Y AMBITO DE APLICACION
+#### Artículo . #### Artículo . ### Capítulo I. PRINCIPIOS GENERALES Y AMBITO DE APLICACION
 
 #### Artículo 1. #### Artículo 2. 1.- El presente Decreto será de aplicación a:
 
@@ -182,9 +181,7 @@ b) Cuando el medio de locomación sea el avión, por el importe del billete en c
 
 3.- En los casos en que se utilicen para el desplazamiento medios gratuitos del Estado o vehículos oficiales no se tendrá derecho a ser indemnizado por este concepto.
 
-#### Artículo 20.
-
-1.- Sin perjuicio de lo dipuesto en el punto 2 del artículo 18º, si las necesidades del servicio lo exigieran podrán utilizarse otros medios de transporte, los cuales serán autorizados por la autoridad que ordene la comisión de servicio.
+#### Artículo 20. 1.- Sin perjuicio de lo dipuesto en el punto 2 del artículo 18º, si las necesidades del servicio lo exigieran podrán utilizarse otros medios de transporte, los cuales serán autorizados por la autoridad que ordene la comisión de servicio.
 
 2.- La utilización de vehículos particular podrá autorizarse en los siguientes casos:
 
@@ -270,9 +267,7 @@ c) Al transporte de mobiliario y enseres, con los siguientes límites:
 
 #### Sección 1º. NORMAS GENERALES
 
-#### Artículo 30.
-
-1.- Las personas comprendidas en el artículo 2º podrán ser indemnizadas, en los términos y cuantías reguladas en el presente Decreto, por su participación en tribunales de oposiciones y concursos encargados de la selección de personal o de pruebas cuya superación sea necesaria para el ejercicio de profesiones o para la realización de actividades.
+#### Artículo 30. 1.- Las personas comprendidas en el artículo 2º podrán ser indemnizadas, en los términos y cuantías reguladas en el presente Decreto, por su participación en tribunales de oposiciones y concursos encargados de la selección de personal o de pruebas cuya superación sea necesaria para el ejercicio de profesiones o para la realización de actividades.
 
 #### Sección 2º. CLASES Y CUANTIAS
 
@@ -334,9 +329,7 @@ d) Facturas originales de las cantidades invertidas en gastos de desplazamiento.
 
 e) En el caso de asistencia a cursos deberá aportarse, además, certificación acreditativa de la asistencia al curso de que se trate.
 
-#### Artículo 40.
-
-la justificación de las indemnizaciones previstas en el artículo 13º se efectuará mediante certificación de la autoridad que ordenó la comisión, acreditativa de haberse realizado la misma.
+#### Artículo 40. la justificación de las indemnizaciones previstas en el artículo 13º se efectuará mediante certificación de la autoridad que ordenó la comisión, acreditativa de haberse realizado la misma.
 
 #### Artículo 41. La justificación de las indemnizaciones por traslado se realizará del modo siguiente:
 
@@ -392,9 +385,7 @@ El resarcimiento de los gastos ocasionados con anterioridad a la entrada en vigo
 
 La concurrencia a sesiones de tribunales y órganos encargados de la selección de personal u otros tipos de pruebas, convocadas con anteriodad a la fecha de la entrada en vigor de la presente disposición, dará lugar al percibo de las asistencias establecidas en el anexo I en relación con el artículo 32º.2 de este Decreto.
 
-#### Disposición derogatoria ....
-
-Quedan derogadas cuantas disposiciones de igual o inferior rango, relacionadas con las materias reguladas en este Decreto, se han dictado hasta la fecha, en tanto se opongan a su contenido y, expresamente, las siguientes:
+#### Disposición derogatoria . ... Quedan derogadas cuantas disposiciones de igual o inferior rango, relacionadas con las materias reguladas en este Decreto, se han dictado hasta la fecha, en tanto se opongan a su contenido y, expresamente, las siguientes:
 
 Decreto 298/1984, de 27 de noviembre, de aplicación del Real Decreto
 
@@ -414,33 +405,23 @@ GASPAR ZARRIAS AREVALO
 
 Consejero de la Presidencia
 
-## Anexo I
-
-CLASIFICACION DEL PERSONAL
+## Anexo I. CLASIFICACION DEL PERSONAL
 
 [VEASE ANEXO(S) EN EDICION IMPRESA DEL BOJA]
 
-## Anexo II
-
-DIETAS EN TERRITORIO NACIONAL
+## Anexo II. DIETAS EN TERRITORIO NACIONAL
 
 [VEASE ANEXO(S) EN EDICION IMPRESA DEL BOJA]
 
-## Anexo III
-
-DIETAS EN EL EXTRANJERO
+## Anexo III. DIETAS EN EL EXTRANJERO
 
 [VEASE ANEXO(S) EN EDICION IMPRESA DEL BOJA]
 
-## Anexo IV
-
-ASISTENCIAS POR PARTICIPACION EN ORGANOS COLEGIADOS
+## Anexo IV. ASISTENCIAS POR PARTICIPACION EN ORGANOS COLEGIADOS
 
 [VEASE ANEXO(S) EN EDICION IMPRESA DEL BOJA]
 
-## Anexo V
-
-[VEASE ANEXO(S) EN EDICION IMPRESA DEL BOJA]
+## Anexo V. [VEASE ANEXO(S) EN EDICION IMPRESA DEL BOJA]
 
 Descargar PDF
 
@@ -467,3 +448,14 @@ de
 Descargar boletín nº
 
 31 completo
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

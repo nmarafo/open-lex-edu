@@ -29,13 +29,224 @@ tags:
 - oposiciones
 - profesorado
 relaciones:
+  desarrolla:
+  - norma_id: norm-can-res-134
+    articulos_destino:
+    - Art. 84
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 84
+  - norma_id: norm-es-lo-3-2022
+    articulos_destino:
+    - Art. 84
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 84
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 84
+  - norma_id: norm-can-l-6-2014
+    capitulo_destino: Capítulo III
+    articulos_destino:
+    - Art. 51
+    - Art. 4
+    - Art. 111
+    - Art. 115
+    - Art. 108
+    - Art. 112
+    - Art. 3
+  - norma_id: norm-can-res-boc-2024-230-25
+    capitulo_destino: Capítulo III
+    articulos_destino:
+    - Art. 51
+    - Art. 4
+    - Art. 111
+    - Art. 115
+    - Art. 108
+    - Art. 112
+    - Art. 3
+  - norma_id: norm-can-res-134
+    capitulo_destino: Capítulo III
+    articulos_destino:
+    - Art. 51
+    - Art. 4
+    - Art. 111
+    - Art. 115
+    - Art. 108
+    - Art. 112
+    - Art. 3
+  - norma_id: norm-es-lo-2-2006
+    capitulo_destino: Capítulo III
+    articulos_destino:
+    - Art. 51
+    - Art. 4
+    - Art. 111
+    - Art. 115
+    - Art. 108
+    - Art. 112
+    - Art. 3
+  - norma_id: norm-es-lo-3-2022
+    capitulo_destino: Capítulo III
+    articulos_destino:
+    - Art. 51
+    - Art. 4
+    - Art. 111
+    - Art. 115
+    - Art. 108
+    - Art. 112
+    - Art. 3
+  - norma_id: norm-es-2021-20113
+    capitulo_destino: Capítulo III
+    articulos_destino:
+    - Art. 51
+    - Art. 4
+    - Art. 111
+    - Art. 115
+    - Art. 108
+    - Art. 112
+    - Art. 3
+  - norma_id: norm-es-2021-979
+    capitulo_destino: Capítulo III
+    articulos_destino:
+    - Art. 51
+    - Art. 4
+    - Art. 111
+    - Art. 115
+    - Art. 108
+    - Art. 112
+    - Art. 3
+  - norma_id: norm-es-2020-17274
+    capitulo_destino: Capítulo III
+    articulos_destino:
+    - Art. 51
+    - Art. 4
+    - Art. 111
+    - Art. 115
+    - Art. 108
+    - Art. 112
+    - Art. 3
+  - norma_id: norm-es-rd-659-2023
+    capitulo_destino: Capítulo III
+    articulos_destino:
+    - Art. 51
+    - Art. 4
+    - Art. 111
+    - Art. 115
+    - Art. 108
+    - Art. 112
+    - Art. 3
+  - norma_id: norm-es-2010-12201
+    capitulo_destino: Capítulo III
+    articulos_destino:
+    - Art. 51
+    - Art. 4
+    - Art. 111
+    - Art. 115
+    - Art. 108
+    - Art. 112
+    - Art. 3
+  - norma_id: norm-es-2007-10487
+    capitulo_destino: Capítulo III
+    articulos_destino:
+    - Art. 51
+    - Art. 4
+    - Art. 111
+    - Art. 115
+    - Art. 108
+    - Art. 112
+    - Art. 3
+  - norma_id: norm-can-d-84-2024
+    capitulo_destino: Capítulo VIII
+    seccion_destino: Sección 4.ª
+    articulos_destino:
+    - Art. 17
+    - Art. 21
+    - Art. 20
+    disposiciones_destino:
+    - D. Adicional tercera
+  - norma_id: norm-can-d-9-2022
+    capitulo_destino: Capítulo VIII
+    seccion_destino: Sección 4.ª
+    articulos_destino:
+    - Art. 17
+    - Art. 21
+    - Art. 20
+    disposiciones_destino:
+    - D. Adicional tercera
+  - norma_id: norm-es-2007-19326
+    capitulo_destino: Capítulo VIII
+    seccion_destino: Sección 4.ª
+    articulos_destino:
+    - Art. 17
+    - Art. 21
+    - Art. 20
+    disposiciones_destino:
+    - D. Adicional tercera
+  - norma_id: norm-can-res-boc-2024-230-25
+    disposiciones_destino:
+    - D. Adicional sexta
+  - norma_id: norm-es-rd-659-2023
+    disposiciones_destino:
+    - D. Adicional sexta
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_destino:
+    - Art. 21
+    disposiciones_destino:
+    - D. Adicional sexta
+  - norma_id: norm-es-rd-659-2023
+    articulos_destino:
+    - Art. 21
+    disposiciones_destino:
+    - D. Adicional sexta
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_destino:
+    - Art. 21
+  - norma_id: norm-es-rd-659-2023
+    articulos_destino:
+    - Art. 21
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-2007-19326
+  - norma_id: norm-can-d-9-2022
+  cita:
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_destino:
+    - Art. 111
+  - norma_id: norm-es-rd-659-2023
+    articulos_destino:
+    - Art. 111
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 111
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_destino:
+    - Art. 115
+  - norma_id: norm-es-rd-659-2023
+    articulos_destino:
+    - Art. 115
+  - norma_id: norm-es-2000-544
+  - norma_id: norm-es-1988-6938
+  - norma_id: norm-es-1988-3987
+  - norma_id: norm-es-2002-25289
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-2007-19326
   fundamentado_en:
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_destino:
+    - Art. 111
+  - norma_id: norm-es-rd-659-2023
+    articulos_destino:
+    - Art. 111
+  - norma_id: norm-es-2007-19326
+    articulos_destino:
+    - Art. 29
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-d-9-2022
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-can-res-134
   - norma_id: norm-can-res-boc-2017-132-1
-  - norma_id: norm-can-res-boc-2024-230-25
   - norma_id: norm-can-res-boc-2026-039-102
   - norma_id: norm-es-1988-3987
   - norma_id: norm-es-1988-6938
@@ -44,7 +255,6 @@ relaciones:
   - norma_id: norm-es-2002-12018
   - norma_id: norm-es-2002-25289
   - norma_id: norm-es-2007-10487
-  - norma_id: norm-es-2007-19326
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2020-17274
   - norma_id: norm-es-2021-20113
@@ -52,8 +262,27 @@ relaciones:
   - norma_id: norm-es-2024-10685
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-3-2022
-  - norma_id: norm-es-rd-659-2023
   - norma_id: norm-es-l-39-2015
+  modifica:
+  - norma_id: norm-es-2024-10685
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 41
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 41
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 41
+  - norma_id: norm-es-lo-3-2020
+    articulos_destino:
+    - Art. 41
   fundamento_de:
   - norma_id: norm-can-res-099
   - norma_id: norm-can-res-112
@@ -61,12 +290,10 @@ relaciones:
   - norma_id: norm-can-res-boc-2026-039-111
   - norma_id: norm-can-res-boc-2026-073-113
   - norma_id: norm-can-res-boc-2026-132-101
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-res-boc-2024-230-25
@@ -91,6 +318,7 @@ relaciones:
   - norma_id: norm-can-res-boc-2026-039-102
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-039-641.pdf
 ---
+
 # Resolución de 13 de febrero de 2026, por la que se dictan instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grados D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027. ## Preámbulo
 
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes [Resolución de 13 de febrero de 2026](./R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md), por la que se dictan instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grados D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027. Vista la necesidad de dictar instrucciones en el proceso de admisión del alumnado para el curso 2026/2027 en las Enseñanzas de Formación Profesional de Grados D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en los centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias, y teniendo en cuenta los siguientes ANTECEDENTES DE HECHO
@@ -1243,3 +1471,92 @@ SOLICITUD DE PLAZA PARA GRADOS D CON V ACANTES SIN LISTA DE RESERV A. CURSO 2026
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**Resolucion BOC 1**](../01_marco_normativo_general_y_organico/R30_6_2017_dictan_instrucciones_actuacion_centros_docentes_sostenidos.md)
 - [**Resolucion BOC 102**](./R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**Resolucion BOC 134**](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md) (Art. 84)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 84)
+- **Desarrolla**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 84)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 84)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 84)
+- **Desarrolla**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md) (Capítulo III, Art. 51, Art. 4, Art. 111, Art. 115, Art. 108, Art. 112, Art. 3)
+- **Desarrolla**: [**Resolucion BOC 25**](../03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Capítulo III, Art. 51, Art. 4, Art. 111, Art. 115, Art. 108, Art. 112, Art. 3)
+- **Desarrolla**: [**Resolucion BOC 134**](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md) (Capítulo III, Art. 51, Art. 4, Art. 111, Art. 115, Art. 108, Art. 112, Art. 3)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Capítulo III, Art. 51, Art. 4, Art. 111, Art. 115, Art. 108, Art. 112, Art. 3)
+- **Desarrolla**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Capítulo III, Art. 51, Art. 4, Art. 111, Art. 115, Art. 108, Art. 112, Art. 3)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Capítulo III, Art. 51, Art. 4, Art. 111, Art. 115, Art. 108, Art. 112, Art. 3)
+- **Desarrolla**: [**BOE-A-2021-979**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md) (Capítulo III, Art. 51, Art. 4, Art. 111, Art. 115, Art. 108, Art. 112, Art. 3)
+- **Desarrolla**: [**BOE-A-2020-17274**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md) (Capítulo III, Art. 51, Art. 4, Art. 111, Art. 115, Art. 108, Art. 112, Art. 3)
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Capítulo III, Art. 51, Art. 4, Art. 111, Art. 115, Art. 108, Art. 112, Art. 3)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Capítulo III, Art. 51, Art. 4, Art. 111, Art. 115, Art. 108, Art. 112, Art. 3)
+- **Desarrolla**: [**BOE-A-2007-10487**](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md) (Capítulo III, Art. 51, Art. 4, Art. 111, Art. 115, Art. 108, Art. 112, Art. 3)
+- **Desarrolla**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Capítulo VIII, Sección 4.ª, Art. 17, Art. 21, Art. 20, D. Adicional tercera)
+- **Desarrolla**: [**D9_2022 Admision del Alumnado en Canarias**](./D9_2022_regula_admision_alumnado_centros_docentes_publicos.md) (Capítulo VIII, Sección 4.ª, Art. 17, Art. 21, Art. 20, D. Adicional tercera)
+- **Desarrolla**: [**BOE-A-2007-19326**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md) (Capítulo VIII, Sección 4.ª, Art. 17, Art. 21, Art. 20, D. Adicional tercera)
+- **Desarrolla**: [**Resolucion BOC 25**](../03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (D. Adicional sexta)
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (D. Adicional sexta)
+- **Desarrolla**: [**Resolucion BOC 25**](../03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Art. 21, D. Adicional sexta)
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 21, D. Adicional sexta)
+- **Desarrolla**: [**Resolucion BOC 25**](../03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Art. 21)
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 21)
+- **Desarrolla**: [**Resolucion BOC 25**](../03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **Desarrolla**: [**BOE-A-2007-19326**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md)
+- **Desarrolla**: [**D9_2022 Admision del Alumnado en Canarias**](./D9_2022_regula_admision_alumnado_centros_docentes_publicos.md)
+- **Modifica**: [**BOE-A-2024-10685**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD500_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Modifica**: [**Resolucion BOC 25**](../03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**BOE-A-2001-7022**](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Modifica**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 41)
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 41)
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 41)
+- **Modifica**: `norm-es-lo-3-2020` (Art. 41)
+- **Fundamentado en**: [**Resolucion BOC 25**](../03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Art. 111)
+- **Fundamentado en**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 111)
+- **Fundamentado en**: [**BOE-A-2007-19326**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md) (Art. 29)
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Fundamentado en**: [**D9_2022 Admision del Alumnado en Canarias**](./D9_2022_regula_admision_alumnado_centros_docentes_publicos.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**Resolucion BOC 134**](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md)
+- **Fundamentado en**: [**Resolucion BOC 1**](../01_marco_normativo_general_y_organico/R30_6_2017_dictan_instrucciones_actuacion_centros_docentes_sostenidos.md)
+- **Fundamentado en**: [**Resolucion BOC 102**](./R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md)
+- **Fundamentado en**: [**BOE-A-1988-3987**](../../../estatal/02_gestion_y_administracion_centros/RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md)
+- **Fundamentado en**: [**BOE-A-1988-6938**](../../../estatal/02_gestion_y_administracion_centros/RD104_1988_aplicacion_lo_dispuesto_real_decreto_homologacion.md)
+- **Fundamentado en**: [**BOE-A-2000-544**](../../../estatal/01_marco_normativo_general_y_organico/LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md)
+- **Fundamentado en**: [**BOE-A-2001-7022**](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Fundamentado en**: [**BOE-A-2002-12018**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md)
+- **Fundamentado en**: [**BOE-A-2002-25289**](../../../estatal/02_gestion_y_administracion_centros/RD3305_2002_ecd_modifican_aplicacion_lo_dispuesto_real.md)
+- **Fundamentado en**: [**BOE-A-2007-10487**](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2020-17274**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**BOE-A-2021-979**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md)
+- **Fundamentado en**: [**BOE-A-2024-10685**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD500_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamento de**: [**Resolucion BOC 99**](../04_organizacion_escolar_y_funcionamiento/R25_3_2026_aprueba_instruccion_ayudas_prestamo_libros_texto.md)
+- **Fundamento de**: [**Resolucion BOC 112**](./R6_3_2026_corrige_error_resolucion_convoca_procedimiento_admision.md)
+- **Fundamento de**: [**Resolucion BOC 102**](./R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md)
+- **Fundamento de**: [**Resolucion BOC 111**](./R5_2_2026_dgacesc_convoca_procedimiento_admision_alumnado_centros.md)
+- **Fundamento de**: [**Resolucion BOC 113**](./R8_4_2026_corrige_resolucion_dicta_instrucciones_proceso_admision.md)
+- **Fundamento de**: [**Resolucion BOC 101**](./R24_6_2026_corrige_resolucion_dicta_instrucciones_proceso_admision.md)
+- **Cita a**: [**Resolucion BOC 25**](../03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Art. 111)
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 111)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 111)
+- **Cita a**: [**Resolucion BOC 25**](../03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Art. 115)
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 115)
+- **Cita a**: [**BOE-A-2000-544**](../../../estatal/01_marco_normativo_general_y_organico/LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md)
+- **Cita a**: [**BOE-A-1988-6938**](../../../estatal/02_gestion_y_administracion_centros/RD104_1988_aplicacion_lo_dispuesto_real_decreto_homologacion.md)
+- **Cita a**: [**BOE-A-1988-3987**](../../../estatal/02_gestion_y_administracion_centros/RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md)
+- **Cita a**: [**BOE-A-2002-25289**](../../../estatal/02_gestion_y_administracion_centros/RD3305_2002_ecd_modifican_aplicacion_lo_dispuesto_real.md)
+- **Cita a**: [**BOE-A-2002-12018**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: `norm-es-c-1978`
+- **Cita a**: [**BOE-A-2007-19326**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md)

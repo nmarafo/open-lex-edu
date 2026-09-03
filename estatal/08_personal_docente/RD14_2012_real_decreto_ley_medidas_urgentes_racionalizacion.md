@@ -29,7 +29,89 @@ tags:
 - personal-no-docente
 - profesorado
 relaciones:
+  cita:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 86
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 86
+    - Art. 27
+    disposiciones_destino:
+    - D. Final cuarta
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 86
+    - Art. 27
+    disposiciones_destino:
+    - D. Final cuarta
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 86
+    - Art. 27
+    disposiciones_destino:
+    - D. Final cuarta
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 86
+    - Art. 27
+    disposiciones_destino:
+    - D. Final cuarta
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 157
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 157
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 157
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 3
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 3
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 3
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    articulos_origen:
+    - D. Final primera. Fundamento competencial.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-ce-1978
@@ -40,12 +122,13 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '1'
-  - '2'
+  - norma_id: '1'
+  - norma_id: '2'
   - norma_id: norm-es-rd-132-2010
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
 ---
+
 # Real Decreto-ley 14/2012, de 20 de abril, de medidas urgentes de racionalización del gasto público en el ámbito educativo.
 
 ## Preámbulo
@@ -260,3 +343,31 @@ MARIANO RAJOY BREY
 - [**RD132_2010 Requisitos Minimos de Centros Docentes**](../02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
 - [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 86, Art. 27, D. Final cuarta)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 86, Art. 27, D. Final cuarta)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 86, Art. 27, D. Final cuarta)
+- **Modifica**: `norm-es-c-1978` (Art. 86, Art. 27, D. Final cuarta)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 157) desde *(Título I, Art. 2)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 157) desde *(Título I, Art. 2)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 157) desde *(Título I, Art. 2)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título I, Art. 2)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título I, Art. 2)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título I, Art. 2)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título I, Art. 3)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título I, Art. 3)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título I, Art. 3)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(Título II, D. Final primera. Fundamento competencial.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
+- **Fundamento de**: [**BOE-A-2019-3307**](./L4_2019_mejora_condiciones_desempeno_docencia_ensenanza_ambito.md)
+- **Cita a**: `norm-es-c-1978` (Art. 149, Art. 27)
+- **Cita a**: `norm-es-c-1978` (Art. 86)

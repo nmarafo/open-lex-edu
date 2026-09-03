@@ -23,6 +23,11 @@ tags:
 - bachillerato
 - titulacion
 relaciones:
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2010-12201
+  desarrolla:
+  - norma_id: norm-es-lo-8-2021
   fundamentado_en:
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-lo-2-2006
@@ -92,88 +97,14 @@ relaciones:
   - norma_id: norm-es-rd-476-2013
   - norma_id: norm-es-rd-659-2023
   - norma_id: norm-es-rd-95-2022
-  - norma_id: norm-can-res-boc-2026-141-29
-  - norma_id: norm-can-res-boc-2023-085-51
-  - norma_id: norm-can-res-boc-2020-130-131
-  - norma_id: norm-can-res-boc-2022-158-21
-  - norma_id: norm-can-res-027
-  - norma_id: norm-can-res-boc-2024-049-109
-  - norma_id: norm-can-o-7-6-2007
-  - norma_id: norm-can-res-juriscan-72176-78
-  - norma_id: norm-can-res-juriscan-66772-94
-  - norma_id: norm-can-res-juriscan-64838-121
-  - norma_id: norm-can-res-boc-2026-060-61
-  - norma_id: norm-can-res-boc-2025-118-46
-  - norma_id: norm-can-res-014
-  - norma_id: norm-can-res-boc-2025-044-89
-  - norma_id: norm-can-res-boc-2018-106-114
-  - norma_id: norm-can-res-boc-2017-220-70
-  - norma_id: norm-can-res-boc-2024-230-25
-  - norma_id: norm-can-res-063
-  - norma_id: norm-can-res-boc-2024-226-44
-  - norma_id: norm-can-res-boc-2026-070-41
-  - norma_id: norm-can-res-135
-  - norma_id: norm-can-res-boc-2011-099-72
-  - norma_id: norm-can-res-096
-  - norma_id: norm-can-res-boc-2026-039-111
-  - norma_id: norm-can-res-juriscan-74499-67
-  - norma_id: norm-can-d-81-2010
-  - norma_id: norm-can-d-25-2018
-  - norma_id: norm-can-res-boc-2024-125-91
-  - norma_id: norm-can-res-boc-2019-069-48
-  - norma_id: norm-can-res-boc-2022-143-23
-  - norma_id: norm-can-res-boc-2025-047-107
-  - norma_id: norm-can-res-boc-2026-077-62
-  - norma_id: norm-can-res-boc-2018-086-122
-  - norma_id: norm-can-res-boc-2018-124-126
-  - norma_id: norm-can-res-boc-2026-070-116
-  - norma_id: norm-can-res-boc-2020-257-24
-  - norma_id: norm-can-res-055
-  - norma_id: norm-can-res-boc-2017-036-75
-  - norma_id: norm-can-res-097
-  - norma_id: norm-can-res-095
-  - norma_id: norm-can-res-juriscan-73844-69
-  - norma_id: norm-can-res-043
-  - norma_id: norm-can-res-boc-2025-039-104
-  - norma_id: norm-can-res-boc-2026-129-26
-  - norma_id: norm-can-res-boc-2026-070-115
-  - norma_id: norm-can-res-boc-2019-234-52
-  - norma_id: norm-can-res-090
-  - norma_id: norm-can-o-2013-10-09
-  - norma_id: norm-can-res-134
-  - norma_id: norm-can-res-boc-2026-077-49
-  - norma_id: norm-can-res-boc-2025-047-108
-  - norma_id: norm-can-res-boc-2017-036-71
-  - norma_id: norm-can-res-boc-2021-114-80
-  - norma_id: norm-can-res-040
-  - norma_id: norm-can-res-juriscan-65631-68
-  - norma_id: norm-can-res-boc-2024-117-93
-  - norma_id: norm-can-res-juriscan-70096-50
-  - norma_id: norm-can-res-053
-  - norma_id: norm-can-res-boc-2018-048-56
-  - norma_id: norm-can-res-boc-2026-039-103
-  - norma_id: norm-can-res-099
-  - norma_id: norm-can-res-059
-  - norma_id: norm-can-res-boc-2026-109-92
-  - norma_id: norm-can-res-boc-2025-046-47
-  - norma_id: norm-can-res-boc-2026-039-102
-  - norma_id: norm-can-res-boc-2017-132-1
-  - norma_id: norm-can-res-juriscan-72882-123
-  - norma_id: norm-can-o-2-8-2006
-  - norma_id: norm-can-res-boc-2020-236-82
-  - norma_id: norm-can-res-boc-2019-024-22
-  - norma_id: norm-can-res-boc-2023-133-57
-  - norma_id: norm-can-res-boc-2026-116-87
-  - norma_id: norm-can-d-114-2011
-  - norma_id: norm-can-res-boc-2019-143-74
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2'
+  - norma_id: '1'
+  - norma_id: '2'
   - norma_id: norm-es-2010-12201
 ---
+
 # Corrección de errores de la Orden EFP/721/2021, de 2 de julio, por la que se modifica la Orden ECD/1767/2012, de 3 de agosto, por la que se regula la expedición del título de Bachiller correspondiente a las enseñanzas reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, para el alumnado inscrito en los programas de secciones internacionales españolas y «Bachibac» en liceos franceses.
 
 ## Preámbulo
@@ -336,3 +267,79 @@ En la tabla «B. Liceos franceses con secciones «Bachibac» de la página 81760
 
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**BOE-A-2007-10487**](../05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md)
+- **Fundamento de**: [**BOE-A-2007-19326**](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md)
+- **Fundamento de**: [**BOE-A-2007-22017**](../08_personal_docente/R17_12_2007_secretaria_estado_universidades_e_investigacion_publica.md)
+- **Fundamento de**: [**BOE-A-2007-5478**](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
+- **Fundamento de**: [**BOE-A-2009-20550**](../08_personal_docente/Osn_edu_aprueba_temario_fase_oposicion_procedimiento.md)
+- **Fundamento de**: [**BOE-A-2009-3424**](./RD242_2009_establecen_convalidaciones_entre_ensenanzas_profesionales_musica.md)
+- **Fundamento de**: [**BOE-A-2010-11426**](../02_gestion_y_administracion_centros/RD860_2010_regulan_condiciones_formacion_inicial_profesorado_centros.md)
+- **Fundamento de**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamento de**: [**BOE-A-2010-12706**](./Osn_edu_regula_curriculo_mixto_ensenanzas_acogidas.md)
+- **Fundamento de**: [**BOE-A-2010-13564**](./RD935_2010_establecen_titulos_tecnico_deportivo_vela_aparejo.md)
+- **Fundamento de**: [**BOE-A-2010-4130**](./RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md)
+- **Fundamento de**: [**BOE-A-2011-12632**](./RD878_2011_establece_titulo_tecnico_deportivo_salvamento_socorrismo.md)
+- **Fundamento de**: [**BOE-A-2011-13117**](../02_gestion_y_administracion_centros/RD1146_2011_modifica_real_decreto_esteblecen_ensenanzas_minimas.md)
+- **Fundamento de**: [**BOE-A-2011-15628**](../08_personal_docente/Osn_edu_establece_formacion_equivalente_formacion_pedagogica.md)
+- **Fundamento de**: [**BOE-A-2011-16923**](../08_personal_docente/Osn_edu_regula_convocatoria_reconocimiento_certificacion_registro.md)
+- **Fundamento de**: [**BOE-A-2011-2615**](./Osn_edu_establece_procedimiento_reconocimiento_formaciones_entrenadores.md)
+- **Fundamento de**: [**BOE-A-2012-5337**](../08_personal_docente/RD14_2012_real_decreto_ley_medidas_urgentes_racionalizacion.md)
+- **Fundamento de**: [**BOE-A-2012-8745**](../08_personal_docente/L2_2012_presupuestos_generales_estado_ano.md)
+- **Fundamento de**: [**BOE-A-2012-9282**](../08_personal_docente/L4_2012_medidas_administrativas_fiscales.md)
+- **Fundamento de**: [**BOE-A-2013-10219**](./RD669_2013_establece_titulo_tecnico_deportivo_atletismo_fijan.md)
+- **Fundamento de**: [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md)
+- **Fundamento de**: [**BOE-A-2013-6281**](../08_personal_docente/Osn_ecd_modifica_orden_edu_establece_formacion.md)
+- **Fundamento de**: [**BOE-A-2014-2222**](./RD126_2014_establece_curriculo_basico_educacion_primaria.md)
+- **Fundamento de**: [**BOE-A-2014-5591**](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md)
+- **Fundamento de**: [**BOE-A-2014-6008**](./RD412_2014_establece_normativa_basica_procedimientos_admision_ensenanzas.md)
+- **Fundamento de**: [**BOE-A-2015-738**](./Osn_ecd_describen_relaciones_entre_competencias_contenidos.md)
+- **Fundamento de**: [**BOE-A-2015-8043**](../02_gestion_y_administracion_centros/RD665_2015_desarrollan_determinadas_disposiciones_relativas_ejercicio_docencia.md)
+- **Fundamento de**: [**BOE-A-2015-8470**](../01_marco_normativo_general_y_organico/L26_2015_modificacion_sistema_proteccion_infancia_adolescencia.md)
+- **Fundamento de**: [**BOE-A-2015-8702**](../05_alumnado_y_servicios_escolares/Osn_ecd_crean_regulan_premios_nacionales_rendimiento.md)
+- **Fundamento de**: [**BOE-A-2015-9453**](../08_personal_docente/Osn_ecd_aprueban_temarios_han_regir_procedimientos_2.md)
+- **Fundamento de**: [**BOE-A-2015-9462**](./RD774_2015_establecen_seis_titulos_formacion_profesional_basica.md)
+- **Fundamento de**: [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
+- **Fundamento de**: [**BOE-A-2018-6348**](../05_alumnado_y_servicios_escolares/Osn_ecd_regulan_premios_nacionales_bachillerato.md)
+- **Fundamento de**: [**BOE-A-2019-317**](./RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md)
+- **Fundamento de**: [**BOE-A-2019-3307**](../08_personal_docente/L4_2019_mejora_condiciones_desempeno_docencia_ensenanza_ambito.md)
+- **Fundamento de**: [**BOE-A-2020-17274**](./RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md)
+- **Fundamento de**: [**BOE-A-2021-18189**](./Osn_efp_establece_equivalencia_efectos_acceso_ensenanzas.md)
+- **Fundamento de**: [**BOE-A-2021-18812**](./RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md)
+- **Fundamento de**: [**BOE-A-2022-12014**](./RD588_2022_establecen_especialidades_docentes_cuerpos_profesores_catedraticos.md)
+- **Fundamento de**: [**BOE-A-2022-1274**](./RD62_2022_flexibilizacion_requisitos_exigibles_impartir_ofertas_formacion.md)
+- **Fundamento de**: [**BOE-A-2022-15953**](./Osn_efp_modifica_orden_edu_regula_curriculo.md)
+- **Fundamento de**: [**BOE-A-2022-16194**](../08_personal_docente/RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md)
+- **Fundamento de**: [**BOE-A-2023-3846**](../02_gestion_y_administracion_centros/R13_2_2023_subsecretaria_publica_resolucion_conjunta_secretaria_estado.md)
+- **Fundamento de**: [**BOE-A-2023-9553**](../08_personal_docente/RD286_2023_regula_asignacion_materias_educacion_secundaria_obligatoria.md)
+- **Fundamento de**: [**BOE-A-2024-10683**](./RD498_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**BOE-A-2024-10684**](./RD499_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**BOE-A-2024-10685**](./RD500_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**BOE-A-2024-11613**](./L1_2024_regulan_ensenanzas_artisticas_superiores_establece_organizacion.md)
+- **Fundamento de**: [**BOE-A-2025-2039**](./RD69_2025_desarrollan_elementos_integrantes_instrumentos_gestion_sistema.md)
+- **Fundamento de**: [**BOE-A-2026-12038**](./RD452_2026_establece_ordenacion_ensenanzas_profesionales_artes_plasticas.md)
+- **Fundamento de**: [**BOE-A-2026-2622**](../04_organizacion_escolar_y_funcionamiento/RD68_2026_regula_inspeccion_educativa.md)
+- **Fundamento de**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
+- **Fundamento de**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
+- **Fundamento de**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Fundamento de**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
+- **Fundamento de**: [**RD1364_2010 Regulacion del Concurso de Traslados Docente**](../08_personal_docente/RD1364_2010_regula_concurso_traslados_ambito_estatal_entre.md)
+- **Fundamento de**: [**RD157_2022 Ensenanzas Minimas de Educacion Primaria**](./RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md)
+- **Fundamento de**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](../02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md)
+- **Fundamento de**: [**RD217_2022 Ordenacion y Ensenanzas Minimas de la ESO**](./RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md)
+- **Fundamento de**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](./RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md)
+- **Fundamento de**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Fundamento de**: [**RD476_2013 Cualificacion del Profesorado en Centros Privados**](../02_gestion_y_administracion_centros/RD476_2013_regulan_condiciones_cualificacion_formacion_profesorado_centros.md)
+- **Fundamento de**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **Fundamento de**: [**RD95_2022 Ensenanzas Minimas de Educacion Infantil**](./RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md)

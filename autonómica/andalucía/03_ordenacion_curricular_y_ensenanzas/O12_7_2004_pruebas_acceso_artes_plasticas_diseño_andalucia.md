@@ -25,6 +25,14 @@ tags:
 - pruebas_acceso
 - andalucia
 relaciones:
+  modifica:
+  - norma_id: norm-and-d-149-1988
+  - norma_id: norm-es-1995-25444
+  - norma_id: norm-es-lo-5-2000
+  - norma_id: norm-and-d-54-1989
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-1995-8730
+  - norma_id: norm-es-l-31-1995
   desarrolla:
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
@@ -32,6 +40,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Orden de 12 de julio de 2004, por la que se regulan las pruebas de acceso a los ciclos de Artes Plásticas y Diseño.
 
 ## Preámbulo
@@ -45,9 +54,6 @@ RESUELVO:
 
 1. Aprobar la Carta de Servicios de la Delegación Provincial de Justicia y Administración Pública de Málaga, que se incorpora como Anexo a esta Resolución.
 
-2. Ordenar la publicación de la presente Resolución y la Carta de Servicios de la Delegación Provincial de Justicia y Administración Pública de Málaga en el Boletín Oficial de la Junta de Andalucía.
-
-3. La presente Carta de Servicios tendrá efectos a partir del día siguiente de su publicación en el Boletín Oficial de la Junta de Andalucía. Málaga, 1 de julio de 2004.– La Delegada Provincial, Aurora Santos García de León. CARTA DE SERVICIOS DE LA DELEGACION PROVINCIAL DE JUSTICIA Y ADMINISTRACION PUBLICA DE MALAGA P R O L O G O La Carta de Servicios de la Delegación Provincial de Málaga de la Consejería de Justicia y Administración Pública de la Junta de Andalucía (en adelante, la Delegación Provincial de Málaga) tiene como objetivo facilitar a los usuarios y usuarias, la obtención de información, los mecanismos de colaboración y la posibilidad de participar activamente en la mejora de los servicios proporcionados por la Delegación. La Delegación adoptará las medidas necesarias para garantizar que el contenido de la presente Carta se aplique por todo el personal, consiguiendo una mejora en los servicios prestados.
 A) Datos de carácter general. I. DATOS IDENTIFICATIVOS I.I. Datos identificativos de la Delegación Provincial de Justicia y Administración Pública de Málaga. La Delegación Provincial de Málaga forma parte de la Estructura Orgánica de la Consejería de Justicia y Administración Pública, tal y como se establece en el Decreto del Presidente 11/2004 de 24 de abril, y consta de las siguientes unidades:
 
 1. Secretaría General.
@@ -623,12 +629,16 @@ C) Datos de carácter complentario. I.I. Horarios de atención al público. Ofic
 - El Servicio Telefónico de Información de la Junta de Andalucía a través del 902 505 505 funcionará las 24 horas del día, 7 días a la semana, 365 días al año. Servicio de Asistencia a Víctimas de delitos de Andalucía (SAVA):
 - De 8:30 de la mañana a 20:00 horas, de lunes a viernes, y los fines de semana y festivos, servicio de guardia de 24 horas. Málaga, 1 de julio de 2004.- La Delegada, Aurora Santos García de León. CORRECCION de errores de la orden de 9 de junio de 2004, por la que se modifica el Reglamento de Ayudas de Acción Social para el personal al servicio de la Administración de la Junta de Andalucía (BOJA núm. 123, 24.6.2004). Advertido error en la Orden de 9 de junio de 2004, por la que se modifica el Reglamento de Ayudas de Acción Social para el personal al servicio de la Administración de la Junta de Andalucía, aprobado por Orden de 18 de abril de 2001 (BOJA núm. 53, de 10 de mayo),
 DISPONGO:
-Proceder a la subsanación de la misma, mediante la siguiente corrección de errores:
+
+#### Artículo . #### Artículo . Proceder a la subsanación de la misma, mediante la siguiente corrección de errores:
+
 En la Disposición Transitoria Unica, donde dice:
 «Lo previsto en el apartado cuarto del artículo segundo de esta Orden, será de aplicación a las solicitudes de préstamos para necesidades urgentes, presentadas a partir del 1 de enero del presente año». Debe decir:
 «Lo previsto en el apartado tres del artículo segundo de esta Orden, será de aplicación a las solicitudes de préstamos para necesidades urgentes, presentadas a partir del 1 de enero del presente año». Sevilla, 7 de julio de 2004 CONSEJERIA DE INNOVACION, CIENCIA Y EMPRESA CONSEJERIA DE INNOVACION, CIENCIA Y EMPRESA CONSEJERIA DE INNOVACION, CIENCIA Y EMPRESA CONSEJERIA DE INNOVACION, CIENCIA Y EMPRESA CONSEJERIA DE INNOVACION, CIENCIA Y EMPRESA ORDEN de 29 de junio de 2004, por la que se convoca el IV Premio Andalucía de Jóvenes Investigadores/ as Tercer Milenio. La investigación es un elemento inprescindible para la mejora de la educación y la renovación del sistema educativo y es un recurso esencial para que las sociedades modernas puedan lograr mayor desarrollo económico y más bienestar social. Al mismo tiempo, es imprescindible que la Administraciones Públicas propicien las condiciones económicas y sociales que favorezcan el desarrollo científico y tecnológico y, entre otras actuaciones, el necesario que alienten a los agentes sociales que en mayor medida protagonizan la actividad científica e innovadora. En concreto, resulta conveniente que la sociedad reconozca y valore el esfuerzo y la excelencia de aquellas personas jóvenes cuya trayectoria personal y profesional sea un ejemplo singular de dedicación a la actividad científica. Por ello, y para dar públio testimonio de admiración y reconocimiento a los/as jóvenes investigadores/as que se hayan destacado especialmente en el desempeño de la actividad científica la Consejería de Innovación, Ciencia y Empresa ha decidido convocar un premio para los mismos. En virtud, en uso de las facultades conferidas por el artículo 39 de la ley 6/1983, de 21 de julio, del Gobierno y la Administración de la Comunidad Autónoma de Andalucía.
 DISPONGO:
-Artículo primero. Convocar el IV Premio Andalucía de Investigación para Jóvenes Investigadores/as «Tercer Milenio» que hayan realizado una labor investigadora con repercusión en Andalucía.
+
+#### Artículo . #### Artículo . Artículo primero. Convocar el IV Premio Andalucía de Investigación para Jóvenes Investigadores/as «Tercer Milenio» que hayan realizado una labor investigadora con repercusión en Andalucía.
+
 Artículo segundo. Dotar el Premio Andalucía de Investigación para Jóvenes Investigadores/as «Tercer Milenio», con 4.508 euros y una placa acreditativa. Los gastos derivados de esta convocatoria serán financiados con cargo a la aplicación presupuestaria 0.1.18.00.01.00.226.08.54 A.0
 Artículo tercero. Al premio Andalucía de Investigación para Jóvenes Investigadores/as «Tercer Milenio», podrán optar todos los/as Jóvenes Investigadores/as menores de 35 años, al cierre de la convocatoria.
 
@@ -640,3 +650,20 @@ Artículo cuarto.
 **4.1.** La presentación de los/as candidatos/as deberá realizarse ante la Consejería de Innovación, Ciencia y Empresa.
 
 **4.2.** En dicha presentación se especificará el nombre del/a candidato/a propuesto/a para el Premio, y la misma se acompañará un informe detallado de las razones de la propuesta, los méritos que en su defensa se pudieran alegar y memoria de las actuaciones o actividades que el/a candidato/a haya podido realizar para ser merecedor/a del premio.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**D149_1988 Ordenacion Enseñanzas Musica y Danza Andalucía**](./D149_1988_ordenacion_ensenanzas_musica_danza_andalucia.md)
+- **Modifica**: [**BOE-A-1995-25444**](../../../estatal/01_marco_normativo_general_y_organico/LO10_1995_codigo_penal.md)
+- **Modifica**: [**LO5_2000 Responsabilidad Penal de los Menores**](../../../estatal/01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md)
+- **Modifica**: [**D54_1989 Ordenacion Centros Educacion Especial Andalucía**](../02_gestion_y_administracion_centros/D54_1989_ordenacion_centros_especificos_educacion_especial_andalucia.md)
+- **Modifica**: [**BOE-A-1984-17387**](../../../estatal/01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
+- **Modifica**: [**BOE-A-1995-8730**](../../../estatal/01_marco_normativo_general_y_organico/RD365_1995_aprueba_reglamento_situaciones_administrativas_funcionarios_civiles.md)
+- **Modifica**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](../../../estatal/02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

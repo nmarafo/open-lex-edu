@@ -24,6 +24,14 @@ tags:
 - tecnico_deportivo
 - andalucia
 relaciones:
+  modifica:
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 5
+  cita:
+  - norma_id: norm-and-d-204-1995
+    articulos_origen:
+    - Art. 8
   desarrolla:
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
@@ -31,6 +39,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Orden de 29 de diciembre de 2000, por la que se regulan los currículos de las Enseñanzas Deportivas de Régimen Especial.
 
 ## Preámbulo
@@ -38,7 +47,7 @@ relaciones:
 Página núm. 742 Sevilla, 16 de enero 2001 CONSEJERIA DE ECONOMIA Y HACIENDA ORDEN de 29 de diciembre de 2000, por la que se establecen las normas reguladoras de la concesión de ayudas a asociaciones y organizaciones empresariales en desarrollo del Programa de Cooperación Empresarial del Plan Integral de Fomento del Comercio Interior de Andalucía. De acuerdo con la Ley 1/1996, de 10 de enero, del Comercio Interior de Andalucía, se aprobó, mediante Orden de 26 de enero de 1998, el Plan Integral de Fomento del Comercio Interior de Andalucía, con la finalidad de promover y modernizar el sector comercial, previendo una serie de programas generales de actuación, entre ellos, el de Cooperación Empresarial que la presente Orden desarrolla y con el que se pretenden fomentar fusiones y acuerdos de cooperación empresarial que mejoren el poder de negociación y el acceso a la financiación e información de las empresas comerciales andaluzas, teniendo como destinatarios a entidades sin ánimo de lucro y a agrupaciones de interés económico. La escasez de sistemas de cooperación de las empresas comerciales andaluzas impide un mejor aprovechamiento de las economías de escala. La dimensión, en este caso, aparece como uno de los factores que condicionan y hacen rentable determinadas inversiones, convirtiéndose en uno de los requisitos clave de la modernización del sector que es necesario afrontar, sobre todo, porque el comercio no escapa a las reglas competitivas de una economía abierta y globalizada en la que nuestra región se halla inmersa y, cuya manifestación más inmediata es el empequeñecimiento relativo que han conocido las empresas por el aumento del tamaño del mercado y la aparición de grandes grupos internacionales de distribución. Por todo ello debe desarrollarse un sistema de implantación de fórmulas novedosas de asociacionismo comercial, fortaleciendo las asociaciones existentes, o fomentando que éstas se lleven a cabo. El Programa de Cooperación Empresarial, que la presente Orden viene a desarrollar, comprende cuatro líneas de actuación dirigidas a diferentes finalidades: El apoyo a la labor de las organizaciones empresariales de comerciantes, la colaboración para la promoción de las actividades desarrolladas por las organizaciones empresariales de comerciantes, las acciones de fomento de la cooperación empresarial de tipo funcional, y las acciones de fomento del asociacionismo de zona. La reestructuración de Consejerías realizada por el Decreto del Presidente 6/2000, de 28 de abril, asignó a la Consejería de Economía y Hacienda las competencias que tenía atribuidas, así como las correspondientes al comercio y la artesanía, resultando necesario adecuar la normativa específica de estas ayudas en lo que se refiere a los órganos competentes que intervienen en el procedimiento de concesión de las ayudas, que deben residenciarse actualmente dentro de la estructura de la Consejería de Economía y Hacienda. De otro lado, la experiencia adquirida en la aplicación de la normativa específica de estas ayudas aconseja revisar alguno de sus contenidos, en aras a una mayor eficacia de las ayudas, así como de su tramitación administrativa. En este aspecto debe destacarse que la presente Orden, al igual que la normativa anteriormente vigente reguladora de estas ayudas contenida en la Orden de la Consejería de Trabajo e Industria de 22 de noviembre de 1999, tiene vigencia indefinida estableciéndose que las solicitudes se presentarán y resolverán anualmente siendo el plazo de presentación de solicitudes el comprendido entre el 1 y el 30 de enero de cada año. De esta manera se evitan demoras innecesarias en la presentación anual de las solicitudes al no requerirse una previa disposición anual que efectúe la convocatoria de las ayudas. De otro lado, al objeto de facilitar el conocimiento por los beneficiarios de otras determinaciones normativas no contempladas en la presente Orden, se establece que la Resolución de concesión indicará las determinaciones que sean exigibles en cumplimiento de lo que establezca la Ley del Presupuesto de la Comunidad Autónoma de Andalucía del ejercicio u otra disposición de aplicación. Las ayudas contempladas en la presente Orden se otorgarán dentro de los límites de los créditos consignados en el Presupuesto de la Comunidad Autónoma de Andalucía del ejercicio respectivo en el Programa 6.5.A, o en el que, en su caso, corresponda. En su virtud, y en uso de las atribuciones que me han sido conferidas por el artículo 107 de la Ley General de la Hacienda Pública de la Comunidad Autónoma de Andalucía,
 DISPONGO:
 
-#### Artículo 1. Objeto y finalidad.
+#### Artículo . #### Artículo . #### Artículo 1. Objeto y finalidad.
 
 1. La presente Orden tiene por objeto establecer las normas reguladoras específicas de la concesión de ayudas por la Consejería de Economía y Hacienda, de acuerdo con el Plan Integral de Fomento del Comercio Interior de Andalucía, dentro del programa de Cooperación Empresarial, para financiar proyectos tendentes a fomentar la cooperación desde las organizaciones empresariales andaluzas e incrementar el grado de cooperación empresarial entre las pequeñas y medianas empresas del sector.
 
@@ -132,8 +141,6 @@ l) La especial calidad y rigor en la elaboración del proyecto.
 
 4. De conformidad con el artículo 59.5.b) de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, las resoluciones de concesión o denegación se notificarán a los interesados mediante su publicación en los términos del artículo 60.2 de la citada Ley. A tal efecto se efectuarán en el tablón de anuncios de la Consejería de Economía y Hacienda, sito en C/ Juan Antonio de Vizarrón, s/n, Edificio Torretriana, planta baja, de Sevilla, así como en el de la correspondiente Delegación Provincial de dicha Consejería.
 
-5. Las ayudas concedidas serán publicadas en el Boletín Oficial de la Junta de Andalucía, con expresión del programa y crédito presupuestario a que se imputen, beneficiario, cantidad concedida y finalidad de la ayuda, conforme a lo dispuesto en el artículo 109 de la Ley General de la Hacienda Pública de la Comunidad Autónoma de Andalucía.
-
 #### Artículo 9. Aceptación.
 
 1. La resolución estimatoria habrá de ser aceptada expresamente por el beneficiario, mediante escrito dirigido a la Dirección General de Comercio que deberá presentarse en el plazo máximo de quince días, contados desde el día siguiente a aquél en que tenga lugar la notificación de la concesión de la ayuda conforme se señala en el artículo 8.4 de esta Orden.
@@ -191,11 +198,7 @@ e) La negativa u obstrucción a las actuaciones de control establecidas en el ar
 
 #### Disposición transitoria única. Plazo de presentación de.
 
-las solicitudes de ayudas en el año 2001. El plazo de presentación de las solicitudes de ayudas en el año 2001 será de 30 días naturales, contados a partir del día siguiente al de la publicación de la presente Orden en el Boletín Oficial de la Junta de Andalucía.
-
 #### Disposición final única. Entrada en vigor.
-
-La presente Orden entrará en vigor el mismo día de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 29 de diciembre de 2000 MAGDALENA ALVAREZ ARZA Consejera de Economía y Hacienda
 
 Página núm. 746 Sevilla, 16 de enero 2001
 
@@ -239,3 +242,15 @@ Decreto 204/1995, de 29 de agosto, que establece las medidas organizativas para 
 #### Disposición final primera. Exclusiones.
 
 No será de aplicación lo dispuesto anteriormente para el personal docente dependiente de la Consejería de Educación y Ciencia y para el personal estatutario de la Seguridad Social (Estatutos Jurídicos del Personal Médico, del Personal Sanitario no facultativo y del Personal no sanitario al servicio de las
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: `norm-es-c-1978` desde *(Art. 5)*
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**D204_1995 Régimen Disciplinario Empleados Públicos Andalucía**](../01_marco_normativo_general_y_organico/D204_1995_reglamento_disciplinario_empleados_publicos_andalucia.md) desde *(Art. 8)*

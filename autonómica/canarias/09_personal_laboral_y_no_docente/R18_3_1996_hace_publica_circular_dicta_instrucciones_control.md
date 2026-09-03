@@ -23,7 +23,50 @@ tags:
 - centros-docentes
 fuente_pdf_oficial: https://www.gobiernodecanarias.org/boc/1996/057/boc-1996-057-009.pdf
 fecha_disposicion: '1996-03-18'
+relaciones:
+  fundamentado_en:
+  - norma_id: norm-can-d-212-1991
+    articulos_destino:
+    - Art. 15
+  modifica:
+  - norma_id: norm-can-l-2-1987
+    capitulo_origen: Capítulo IV. , Sección 6ª, artículos 47, 48 y 49 de la Ley 2/1987,
+      de 30 de marzo, de la Función Pública Canaria (B.O.C. de 3 de abril), y en los
+      artículos 20 y 21 del III Convenio Único del Personal Laboral al Servicio de
+      la Administración de la Comunidad Autónoma de Canarias de 28 de enero de 1992,
+      modificado por Acuerdo de 26 de mayo de 1994 (B.O.C. de 8 de julio). Los permisos
+      serán concedidos por la Dirección del Centro y las licencias y autrorizaciones
+      se solicitarán a través de la misma, que las remitirá a la Dirección Territorial
+      de Educación correspondiente, dentro de las 24 horas siguientes para su concesión
+      o no, por la autoridad competente. Éstas habrán de ser solicitadas (exceptuando
+      las licencias por enfermedad) con antelación de diez días como mínimo, salvo
+      casos imprevistos debidamente justificados, siendo necesaria la remisión a la
+      Dirección Territorial de Educación de un Certificado de Incorporación al Centro
+      una vez finalizado el periodo de licencia.
+    capitulo_destino: Capítulo IV
+    seccion_destino: Sección 6ª
+    articulos_destino:
+    - Art. 47
+    - Art. 48
+    - Art. 49
+    - Art. 20
+    - Art. 21
+  - norma_id: norm-es-1984-17387
+    capitulo_origen: Capítulo IV. , Sección 6ª, artículos 47, 48 y 49 de la Ley 2/1987,
+      de 30 de marzo, de la Función Pública Canaria (B.O.C. de 3 de abril), y en los
+      artículos 20 y 21 del III Convenio Único del Personal Laboral al Servicio de
+      la Administración de la Comunidad Autónoma de Canarias de 28 de enero de 1992,
+      modificado por Acuerdo de 26 de mayo de 1994 (B.O.C. de 8 de julio). Los permisos
+      serán concedidos por la Dirección del Centro y las licencias y autrorizaciones
+      se solicitarán a través de la misma, que las remitirá a la Dirección Territorial
+      de Educación correspondiente, dentro de las 24 horas siguientes para su concesión
+      o no, por la autoridad competente. Éstas habrán de ser solicitadas (exceptuando
+      las licencias por enfermedad) con antelación de diez días como mínimo, salvo
+      casos imprevistos debidamente justificados, siendo necesaria la remisión a la
+      Dirección Territorial de Educación de un Certificado de Incorporación al Centro
+      una vez finalizado el periodo de licencia.
 ---
+
 # Resolución de 18 de marzo de 1996, de la Secretaría General Técnica, por la que se hace pública la Circular 1/1996, que dicta instrucciones sobre control de horarios y absentismo del personal no docente de Centros escolares dependientes de la Consejería de Educación, Cultura y Deportes.
 
 ## Preámbulo
@@ -99,3 +142,12 @@ o Jornada especial: de lunes a viernes de 7 horas y 45 minutos a 15 horas y 15 m
 **2.14.** Las Direcciones Territoriales de Santa Cruz de Tenerife y de Las Palmas enviarán a la Secretaría General Técnica (Servicio de Régimen Interior) antes del día 10 del mes siguiente un informe mensual y general de incidencias indicando las asistencias del personal funcionario y laboral en los Centros educativos dependientes de la Consejería, así como los días de falta a su puesto de trabajo.
 
 Ver anexos - páginas 3860-3863
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**L2_1987 Ley de la Funcion Publica Canaria**](../01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md) (Capítulo IV, Sección 6ª, Art. 47, Art. 48, Art. 49, Art. 20, Art. 21) desde *(Capítulo IV. , Sección 6ª, artículos 47, 48 y 49 de la Ley 2/1987, de 30 de marzo, de la Función Pública Canaria (B.O.C. de 3 de abril), y en los artículos 20 y 21 del III Convenio Único del Personal Laboral al Servicio de la Administración de la Comunidad Autónoma de Canarias de 28 de enero de 1992, modificado por Acuerdo de 26 de mayo de 1994 (B.O.C. de 8 de julio). Los permisos serán concedidos por la Dirección del Centro y las licencias y autrorizaciones se solicitarán a través de la misma, que las remitirá a la Dirección Territorial de Educación correspondiente, dentro de las 24 horas siguientes para su concesión o no, por la autoridad competente. Éstas habrán de ser solicitadas (exceptuando las licencias por enfermedad) con antelación de diez días como mínimo, salvo casos imprevistos debidamente justificados, siendo necesaria la remisión a la Dirección Territorial de Educación de un Certificado de Incorporación al Centro una vez finalizado el periodo de licencia.)*
+- **Modifica**: [**BOE-A-1984-17387**](../../../estatal/01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) desde *(Capítulo IV. , Sección 6ª, artículos 47, 48 y 49 de la Ley 2/1987, de 30 de marzo, de la Función Pública Canaria (B.O.C. de 3 de abril), y en los artículos 20 y 21 del III Convenio Único del Personal Laboral al Servicio de la Administración de la Comunidad Autónoma de Canarias de 28 de enero de 1992, modificado por Acuerdo de 26 de mayo de 1994 (B.O.C. de 8 de julio). Los permisos serán concedidos por la Dirección del Centro y las licencias y autrorizaciones se solicitarán a través de la misma, que las remitirá a la Dirección Territorial de Educación correspondiente, dentro de las 24 horas siguientes para su concesión o no, por la autoridad competente. Éstas habrán de ser solicitadas (exceptuando las licencias por enfermedad) con antelación de diez días como mínimo, salvo casos imprevistos debidamente justificados, siendo necesaria la remisión a la Dirección Territorial de Educación de un Certificado de Incorporación al Centro una vez finalizado el periodo de licencia.)*
+- **Fundamentado en**: [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) (Art. 15)

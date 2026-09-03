@@ -30,30 +30,554 @@ tags:
 - oposiciones
 - titulacion
 relaciones:
+  cita:
+  - norma_id: norm-es-2026-15301
+  - norma_id: norm-es-lo-2-2006
+    capitulo_destino: Capítulo VI
+    articulos_destino:
+    - Art. 52
+    - Art. 53
+  - norma_id: norm-es-2021-20113
+    capitulo_destino: Capítulo VI
+    articulos_destino:
+    - Art. 52
+    - Art. 53
+  - norma_id: norm-es-2010-12201
+    capitulo_destino: Capítulo VI
+    articulos_destino:
+    - Art. 52
+    - Art. 53
+  - norma_id: norm-es-2024-11613
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-2024-11613
+    articulos_destino:
+    - Art. 67
+    - Art. 68
+  - norma_id: norm-es-2024-11613
+    capitulo_origen: Capítulo I
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo II. Organización y estructura de las Enseñanzas Profesionales
+      de Artes Plásticas y Diseño.
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo II. Organización y estructura de las Enseñanzas Profesionales
+      de Artes Plásticas y Diseño.
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo II. Organización y estructura de las Enseñanzas Profesionales
+      de Artes Plásticas y Diseño.
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-l-31-1995
+    capitulo_origen: Capítulo III. Enseñanzas mínimas y establecimiento del currículo.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 19
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo III. Enseñanzas mínimas y establecimiento del currículo.
+    articulos_origen:
+    - Art. 18
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo III. Enseñanzas mínimas y establecimiento del currículo.
+    articulos_origen:
+    - Art. 18
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo III. Enseñanzas mínimas y establecimiento del currículo.
+    articulos_origen:
+    - Art. 18
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo IV. Acceso y admisión.
+    articulos_origen:
+    - Art. 19
+    articulos_destino:
+    - Art. 52
+    - Art. 21
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo IV. Acceso y admisión.
+    articulos_origen:
+    - Art. 19
+    articulos_destino:
+    - Art. 52
+    - Art. 21
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo IV. Acceso y admisión.
+    articulos_origen:
+    - Art. 19
+    articulos_destino:
+    - Art. 52
+    - Art. 21
+  - norma_id: norm-es-lo-3-2018
+    capitulo_origen: Capítulo V. Evaluación, calificación, promoción y permanencia.
+    articulos_origen:
+    - Art. 27
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo VII. Documentos básicos de evaluación y movilidad.
+    articulos_origen:
+    - Art. 33
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo VII. Documentos básicos de evaluación y movilidad.
+    articulos_origen:
+    - Art. 33
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo VII. Documentos básicos de evaluación y movilidad.
+    articulos_origen:
+    - Art. 33
+  - norma_id: norm-es-2024-11613
+    capitulo_origen: Capítulo IX. Orientación personal, académica y profesional.
+    articulos_origen:
+    - Art. 40
+  - norma_id: norm-es-2013-12632
+    capitulo_origen: Capítulo IX. Orientación personal, académica y profesional.
+    articulos_origen:
+    - D. Adicional primera. Medidas en materia de igualdad de oportunidades, no discriminación
+      y accesibilidad universal.
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo IX. Orientación personal, académica y profesional.
+    articulos_origen:
+    - D. Adicional quinta. Profesorado especialista.
+    articulos_destino:
+    - Art. 96
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo IX. Orientación personal, académica y profesional.
+    articulos_origen:
+    - D. Adicional quinta. Profesorado especialista.
+    articulos_destino:
+    - Art. 96
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo IX. Orientación personal, académica y profesional.
+    articulos_origen:
+    - D. Adicional quinta. Profesorado especialista.
+    articulos_destino:
+    - Art. 96
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo IX. Orientación personal, académica y profesional.
+    articulos_origen:
+    - D. Adicional novena. Centros que imparten Enseñanzas Profesionales de Artes
+      Plásticas y Diseño.
+    articulos_destino:
+    - Art. 111
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo IX. Orientación personal, académica y profesional.
+    articulos_origen:
+    - D. Adicional novena. Centros que imparten Enseñanzas Profesionales de Artes
+      Plásticas y Diseño.
+    articulos_destino:
+    - Art. 111
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo IX. Orientación personal, académica y profesional.
+    articulos_origen:
+    - D. Adicional novena. Centros que imparten Enseñanzas Profesionales de Artes
+      Plásticas y Diseño.
+    articulos_destino:
+    - Art. 111
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo IX. Orientación personal, académica y profesional.
+    articulos_origen:
+    - D. Transitoria primera. Aplicabilidad de la normativa vigente a la entrada en
+      vigor de este real decreto.
+  - norma_id: norm-es-2001-7022
+    capitulo_origen: Capítulo IX. Orientación personal, académica y profesional.
+    articulos_origen:
+    - D. Transitoria primera. Aplicabilidad de la normativa vigente a la entrada en
+      vigor de este real decreto.
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo IX. Orientación personal, académica y profesional.
+    articulos_origen:
+    - D. Transitoria primera. Aplicabilidad de la normativa vigente a la entrada en
+      vigor de este real decreto.
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo IX. Orientación personal, académica y profesional.
+    articulos_origen:
+    - D. Transitoria primera. Aplicabilidad de la normativa vigente a la entrada en
+      vigor de este real decreto.
+  - norma_id: norm-es-2001-7022
+    capitulo_origen: Capítulo IX. Orientación personal, académica y profesional.
+    articulos_origen:
+    - D. Transitoria segunda. Calendario de aplicación del régimen de acceso y admisión
+      recogido en esta norma.
+    capitulo_destino: Capítulo IV
+    disposiciones_destino:
+    - D. Transitoria tercera
+  - norma_id: norm-es-2001-7022
+    capitulo_origen: Capítulo IX. Orientación personal, académica y profesional.
+    articulos_origen:
+    - D. Transitoria segunda. Calendario de aplicación del régimen de acceso y admisión
+      recogido en esta norma.
+    articulos_destino:
+    - Art. 31
+  - norma_id: norm-es-2001-7022
+    capitulo_origen: Capítulo IX. Orientación personal, académica y profesional.
+    articulos_origen:
+    - D. Transitoria segunda. Calendario de aplicación del régimen de acceso y admisión
+      recogido en esta norma.
+    articulos_destino:
+    - Art. 30
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo IX. Orientación personal, académica y profesional.
+    articulos_origen:
+    - D. Final quinta. Entrada en vigor.
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VI
+  - norma_id: norm-es-2021-20113
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VI
+  - norma_id: norm-es-2010-12201
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VI
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-lo-3-2020
+  - norma_id: norm-es-2007-10487
+  - norma_id: norm-es-l-39-2015
+    capitulo_origen: Capítulo VI. , que establece las condiciones para la titulación,
+      así como los efectos que dichos títulos producen.
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo VI. , que establece las condiciones para la titulación,
+      así como los efectos que dichos títulos producen.
+  - norma_id: norm-es-2024-11613
+    capitulo_origen: Capítulo VI. , que establece las condiciones para la titulación,
+      así como los efectos que dichos títulos producen.
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo VI. , que establece las condiciones para la titulación,
+      así como los efectos que dichos títulos producen.
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo VI. , que establece las condiciones para la titulación,
+      así como los efectos que dichos títulos producen.
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo IX. Orientación personal, académica y profesional.
+    articulos_origen:
+    - D. Final segunda. Equivalencia entre los actuales títulos de Técnico y Técnico
+      superior de Artes Plásticas y Diseño y las nuevas titulaciones.
+  - norma_id: norm-es-2024-11613
+    capitulo_origen: Capítulo IX. Orientación personal, académica y profesional.
+    articulos_origen:
+    - D. Final segunda. Equivalencia entre los actuales títulos de Técnico y Técnico
+      superior de Artes Plásticas y Diseño y las nuevas titulaciones.
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo IX. Orientación personal, académica y profesional.
+    articulos_origen:
+    - D. Final segunda. Equivalencia entre los actuales títulos de Técnico y Técnico
+      superior de Artes Plásticas y Diseño y las nuevas titulaciones.
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo IX. Orientación personal, académica y profesional.
+    articulos_origen:
+    - D. Final segunda. Equivalencia entre los actuales títulos de Técnico y Técnico
+      superior de Artes Plásticas y Diseño y las nuevas titulaciones.
+  - norma_id: norm-es-lo-3-2020
+    capitulo_origen: Capítulo IX. Orientación personal, académica y profesional.
+    articulos_origen:
+    - D. Final segunda. Equivalencia entre los actuales títulos de Técnico y Técnico
+      superior de Artes Plásticas y Diseño y las nuevas titulaciones.
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2007-10487
+  - norma_id: norm-es-2024-11613
+    disposiciones_destino:
+    - D. Adicional decimocuarta
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo II. Organización y estructura de las Enseñanzas Profesionales
+      de Artes Plásticas y Diseño.
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 14
+    - Art. 3
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo II. Organización y estructura de las Enseñanzas Profesionales
+      de Artes Plásticas y Diseño.
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 14
+    - Art. 3
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo II. Organización y estructura de las Enseñanzas Profesionales
+      de Artes Plásticas y Diseño.
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 14
+    - Art. 3
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo III. Enseñanzas mínimas y establecimiento del currículo.
+    articulos_origen:
+    - Art. 18
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo III. Enseñanzas mínimas y establecimiento del currículo.
+    articulos_origen:
+    - Art. 18
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo III. Enseñanzas mínimas y establecimiento del currículo.
+    articulos_origen:
+    - Art. 18
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2024-11613
+    capitulo_origen: Capítulo IV. Acceso y admisión.
+    articulos_origen:
+    - Art. 21
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo IV. Acceso y admisión.
+    articulos_origen:
+    - Art. 21
+    articulos_destino:
+    - Art. 52
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo IV. Acceso y admisión.
+    articulos_origen:
+    - Art. 21
+    articulos_destino:
+    - Art. 52
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo IV. Acceso y admisión.
+    articulos_origen:
+    - Art. 21
+    articulos_destino:
+    - Art. 52
+  - norma_id: norm-es-2024-11613
+    capitulo_origen: Capítulo VI. Titulación y efectos de los títulos.
+    articulos_origen:
+    - Art. 29
+    articulos_destino:
+    - Art. 7
+    - Art. 6
+  - norma_id: norm-es-l-39-2015
+    capitulo_origen: Capítulo VII. Documentos básicos de evaluación y movilidad.
+    articulos_origen:
+    - Art. 30
+    articulos_destino:
+    - Art. 15
+  - norma_id: norm-es-l-39-2015
+    capitulo_origen: Capítulo VII. Documentos básicos de evaluación y movilidad.
+    articulos_origen:
+    - Art. 33
+  - norma_id: norm-es-lo-3-2018
+    capitulo_origen: Capítulo VII. Documentos básicos de evaluación y movilidad.
+    articulos_origen:
+    - Art. 33
+  - norma_id: norm-es-rd-659-2023
+    capitulo_origen: Capítulo VIII. Convalidaciones y exenciones.
+    articulos_origen:
+    - Art. 38
+  concordancia:
+  - norma_id: norm-es-2024-11613
+    titulo_destino: Título II
+  - norma_id: norm-es-lo-3-2022
+    titulo_destino: Título II
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo IV. Acceso y admisión.
+    articulos_origen:
+    - Art. 22
+    articulos_destino:
+    - Art. 52
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo IV. Acceso y admisión.
+    articulos_origen:
+    - Art. 22
+    articulos_destino:
+    - Art. 52
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo IV. Acceso y admisión.
+    articulos_origen:
+    - Art. 22
+    articulos_destino:
+    - Art. 52
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo VI. Titulación y efectos de los títulos.
+    articulos_origen:
+    - Art. 29
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VI. , que establece las condiciones para la titulación,
+      así como los efectos que dichos títulos producen.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-2024-11613
+    capitulo_origen: Capítulo II. Organización y estructura de las Enseñanzas Profesionales
+      de Artes Plásticas y Diseño.
+    articulos_origen:
+    - Art. 7
+    disposiciones_destino:
+    - D. Adicional cuarta
+  - norma_id: norm-es-2024-11613
+    capitulo_origen: Capítulo II. Organización y estructura de las Enseñanzas Profesionales
+      de Artes Plásticas y Diseño.
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 66
+  - norma_id: norm-es-lo-3-2022
+    capitulo_origen: Capítulo II. Organización y estructura de las Enseñanzas Profesionales
+      de Artes Plásticas y Diseño.
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 66
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo II. Organización y estructura de las Enseñanzas Profesionales
+      de Artes Plásticas y Diseño.
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo II. Organización y estructura de las Enseñanzas Profesionales
+      de Artes Plásticas y Diseño.
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo II. Organización y estructura de las Enseñanzas Profesionales
+      de Artes Plásticas y Diseño.
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo IV. Acceso y admisión.
+    articulos_origen:
+    - Art. 19
+    articulos_destino:
+    - Art. 52
+    - Art. 21
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo IV. Acceso y admisión.
+    articulos_origen:
+    - Art. 19
+    articulos_destino:
+    - Art. 52
+    - Art. 21
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo IV. Acceso y admisión.
+    articulos_origen:
+    - Art. 19
+    articulos_destino:
+    - Art. 52
+    - Art. 21
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo IV. Acceso y admisión.
+    articulos_origen:
+    - Art. 22
+    articulos_destino:
+    - Art. 52
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo IV. Acceso y admisión.
+    articulos_origen:
+    - Art. 22
+    articulos_destino:
+    - Art. 52
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo IV. Acceso y admisión.
+    articulos_origen:
+    - Art. 22
+    articulos_destino:
+    - Art. 52
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo IV. Acceso y admisión.
+    articulos_origen:
+    - Art. 22
+    articulos_destino:
+    - Art. 75
+    - Art. 24
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo IV. Acceso y admisión.
+    articulos_origen:
+    - Art. 22
+    articulos_destino:
+    - Art. 75
+    - Art. 24
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo IV. Acceso y admisión.
+    articulos_origen:
+    - Art. 22
+    articulos_destino:
+    - Art. 75
+    - Art. 24
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo VI. Titulación y efectos de los títulos.
+    articulos_origen:
+    - Art. 28
+    articulos_destino:
+    - Art. 53
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo VI. Titulación y efectos de los títulos.
+    articulos_origen:
+    - Art. 28
+    articulos_destino:
+    - Art. 53
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo VI. Titulación y efectos de los títulos.
+    articulos_origen:
+    - Art. 28
+    articulos_destino:
+    - Art. 53
+  - norma_id: norm-es-2024-11613
+    capitulo_origen: Capítulo IX. Orientación personal, académica y profesional.
+    articulos_origen:
+    - D. Adicional novena. Centros que imparten Enseñanzas Profesionales de Artes
+      Plásticas y Diseño.
+    disposiciones_destino:
+    - D. Adicional sexta
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo IX. Orientación personal, académica y profesional.
+    articulos_origen:
+    - D. Final tercera. Título competencial.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-2007-10487
-  - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2013-12632
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-2024-11613
   - norma_id: norm-es-2026-15301
   - norma_id: norm-es-l-31-1995
   - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-3-2018
-  - norma_id: norm-es-lo-3-2022
   - norma_id: norm-es-rd-243-2022
   - norma_id: norm-es-rd-659-2023
+  deroga:
+  - norma_id: norm-es-2007-10487
+    capitulo_origen: Capítulo IX. Orientación personal, académica y profesional.
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
+    disposiciones_destino:
+    - D. Transitoria primera
   fundamento_de:
   - norma_id: norm-es-2026-15301
   fundamentos_derecho:
   - norma_id: norm-es-l-39-2015
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-can-res-boc-2024-230-25
-  - norma_id: norm-can-res-134
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-l-31-1995
   - norma_id: norm-es-lo-3-2018
@@ -67,6 +591,7 @@ relaciones:
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2013-12632
 ---
+
 # Real Decreto 452/2026, de 3 de junio, por el que se establece la ordenación de las Enseñanzas Profesionales de Artes Plásticas y Diseño.
 
 ## Preámbulo
@@ -1301,3 +1826,123 @@ CE9.5. Se ha integrado la transformación digital como un elemento natural de su
 - [**BOE-A-2007-10487**](../05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Desarrolla**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Desarrolla**: [**BOE-A-2007-10487**](../05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md)
+- **Desarrolla**: [**BOE-A-2024-11613**](./L1_2024_regulan_ensenanzas_artisticas_superiores_establece_organizacion.md) (D. Adicional decimocuarta)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 14, Art. 3) desde *(Capítulo II. Organización y estructura de las Enseñanzas Profesionales de Artes Plásticas y Diseño., Art. 5)*
+- **Desarrolla**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 14, Art. 3) desde *(Capítulo II. Organización y estructura de las Enseñanzas Profesionales de Artes Plásticas y Diseño., Art. 5)*
+- **Desarrolla**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 14, Art. 3) desde *(Capítulo II. Organización y estructura de las Enseñanzas Profesionales de Artes Plásticas y Diseño., Art. 5)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 6) desde *(Capítulo III. Enseñanzas mínimas y establecimiento del currículo., Art. 18)*
+- **Desarrolla**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 6) desde *(Capítulo III. Enseñanzas mínimas y establecimiento del currículo., Art. 18)*
+- **Desarrolla**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 6) desde *(Capítulo III. Enseñanzas mínimas y establecimiento del currículo., Art. 18)*
+- **Desarrolla**: [**BOE-A-2024-11613**](./L1_2024_regulan_ensenanzas_artisticas_superiores_establece_organizacion.md) (Art. 6) desde *(Capítulo IV. Acceso y admisión., Art. 21)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 52) desde *(Capítulo IV. Acceso y admisión., Art. 21)*
+- **Desarrolla**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 52) desde *(Capítulo IV. Acceso y admisión., Art. 21)*
+- **Desarrolla**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 52) desde *(Capítulo IV. Acceso y admisión., Art. 21)*
+- **Desarrolla**: [**BOE-A-2024-11613**](./L1_2024_regulan_ensenanzas_artisticas_superiores_establece_organizacion.md) (Art. 7, Art. 6) desde *(Capítulo VI. Titulación y efectos de los títulos., Art. 29)*
+- **Desarrolla**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 15) desde *(Capítulo VII. Documentos básicos de evaluación y movilidad., Art. 30)*
+- **Desarrolla**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) desde *(Capítulo VII. Documentos básicos de evaluación y movilidad., Art. 33)*
+- **Desarrolla**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) desde *(Capítulo VII. Documentos básicos de evaluación y movilidad., Art. 33)*
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) desde *(Capítulo VIII. Convalidaciones y exenciones., Art. 38)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título I, Capítulo VI)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título I, Capítulo VI)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título I, Capítulo VI)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Modifica**: `norm-es-lo-3-2020`
+- **Modifica**: [**BOE-A-2007-10487**](../05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md)
+- **Modifica**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) desde *(Capítulo VI. , que establece las condiciones para la titulación, así como los efectos que dichos títulos producen.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo VI. , que establece las condiciones para la titulación, así como los efectos que dichos títulos producen.)*
+- **Modifica**: [**BOE-A-2024-11613**](./L1_2024_regulan_ensenanzas_artisticas_superiores_establece_organizacion.md) desde *(Capítulo VI. , que establece las condiciones para la titulación, así como los efectos que dichos títulos producen.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo VI. , que establece las condiciones para la titulación, así como los efectos que dichos títulos producen.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo VI. , que establece las condiciones para la titulación, así como los efectos que dichos títulos producen.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo IX. Orientación personal, académica y profesional., D. Final segunda. Equivalencia entre los actuales títulos de Técnico y Técnico superior de Artes Plásticas y Diseño y las nuevas titulaciones.)*
+- **Modifica**: [**BOE-A-2024-11613**](./L1_2024_regulan_ensenanzas_artisticas_superiores_establece_organizacion.md) desde *(Capítulo IX. Orientación personal, académica y profesional., D. Final segunda. Equivalencia entre los actuales títulos de Técnico y Técnico superior de Artes Plásticas y Diseño y las nuevas titulaciones.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo IX. Orientación personal, académica y profesional., D. Final segunda. Equivalencia entre los actuales títulos de Técnico y Técnico superior de Artes Plásticas y Diseño y las nuevas titulaciones.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo IX. Orientación personal, académica y profesional., D. Final segunda. Equivalencia entre los actuales títulos de Técnico y Técnico superior de Artes Plásticas y Diseño y las nuevas titulaciones.)*
+- **Modifica**: `norm-es-lo-3-2020` desde *(Capítulo IX. Orientación personal, académica y profesional., D. Final segunda. Equivalencia entre los actuales títulos de Técnico y Técnico superior de Artes Plásticas y Diseño y las nuevas titulaciones.)*
+- **Deroga**: [**BOE-A-2007-10487**](../05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md) (D. Transitoria primera) desde *(Capítulo IX. Orientación personal, académica y profesional., D. Derogatoria única. Derogación normativa.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(Capítulo VI. , que establece las condiciones para la titulación, así como los efectos que dichos títulos producen.)*
+- **Fundamentado en**: [**BOE-A-2024-11613**](./L1_2024_regulan_ensenanzas_artisticas_superiores_establece_organizacion.md) (D. Adicional cuarta) desde *(Capítulo II. Organización y estructura de las Enseñanzas Profesionales de Artes Plásticas y Diseño., Art. 7)*
+- **Fundamentado en**: [**BOE-A-2024-11613**](./L1_2024_regulan_ensenanzas_artisticas_superiores_establece_organizacion.md) (Art. 66) desde *(Capítulo II. Organización y estructura de las Enseñanzas Profesionales de Artes Plásticas y Diseño., Art. 7)*
+- **Fundamentado en**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 66) desde *(Capítulo II. Organización y estructura de las Enseñanzas Profesionales de Artes Plásticas y Diseño., Art. 7)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 6) desde *(Capítulo II. Organización y estructura de las Enseñanzas Profesionales de Artes Plásticas y Diseño., Art. 8)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 6) desde *(Capítulo II. Organización y estructura de las Enseñanzas Profesionales de Artes Plásticas y Diseño., Art. 8)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 6) desde *(Capítulo II. Organización y estructura de las Enseñanzas Profesionales de Artes Plásticas y Diseño., Art. 8)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 52, Art. 21) desde *(Capítulo IV. Acceso y admisión., Art. 19)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 52, Art. 21) desde *(Capítulo IV. Acceso y admisión., Art. 19)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 52, Art. 21) desde *(Capítulo IV. Acceso y admisión., Art. 19)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 52) desde *(Capítulo IV. Acceso y admisión., Art. 22)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 52) desde *(Capítulo IV. Acceso y admisión., Art. 22)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 52) desde *(Capítulo IV. Acceso y admisión., Art. 22)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 75, Art. 24) desde *(Capítulo IV. Acceso y admisión., Art. 22)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 75, Art. 24) desde *(Capítulo IV. Acceso y admisión., Art. 22)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 75, Art. 24) desde *(Capítulo IV. Acceso y admisión., Art. 22)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 53) desde *(Capítulo VI. Titulación y efectos de los títulos., Art. 28)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 53) desde *(Capítulo VI. Titulación y efectos de los títulos., Art. 28)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 53) desde *(Capítulo VI. Titulación y efectos de los títulos., Art. 28)*
+- **Fundamentado en**: [**BOE-A-2024-11613**](./L1_2024_regulan_ensenanzas_artisticas_superiores_establece_organizacion.md) (D. Adicional sexta) desde *(Capítulo IX. Orientación personal, académica y profesional., D. Adicional novena. Centros que imparten Enseñanzas Profesionales de Artes Plásticas y Diseño.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(Capítulo IX. Orientación personal, académica y profesional., D. Final tercera. Título competencial.)*
+- **Fundamentado en**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Fundamentado en**: [**BOE-A-2007-10487**](../05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md)
+- **Fundamentado en**: [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md)
+- **Fundamentado en**: [**BOE-A-2026-15301**](./RD452_2026_correccion_errores_real_decreto_establece_ordenacion.md)
+- **Fundamentado en**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
+- **Fundamentado en**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](./RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md)
+- **Fundamentado en**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **Fundamento de**: [**BOE-A-2026-15301**](./RD452_2026_correccion_errores_real_decreto_establece_ordenacion.md)
+- **En concordancia con**: [**BOE-A-2024-11613**](./L1_2024_regulan_ensenanzas_artisticas_superiores_establece_organizacion.md) (Título II)
+- **En concordancia con**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Título II)
+- **En concordancia con**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 52) desde *(Capítulo IV. Acceso y admisión., Art. 22)*
+- **En concordancia con**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 52) desde *(Capítulo IV. Acceso y admisión., Art. 22)*
+- **En concordancia con**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 52) desde *(Capítulo IV. Acceso y admisión., Art. 22)*
+- **En concordancia con**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](./RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) desde *(Capítulo VI. Titulación y efectos de los títulos., Art. 29)*
+- **Cita a**: [**BOE-A-2026-15301**](./RD452_2026_correccion_errores_real_decreto_establece_ordenacion.md)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Capítulo VI, Art. 52, Art. 53)
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Capítulo VI, Art. 52, Art. 53)
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Capítulo VI, Art. 52, Art. 53)
+- **Cita a**: [**BOE-A-2024-11613**](./L1_2024_regulan_ensenanzas_artisticas_superiores_establece_organizacion.md)
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
+- **Cita a**: [**BOE-A-2024-11613**](./L1_2024_regulan_ensenanzas_artisticas_superiores_establece_organizacion.md) (Art. 67, Art. 68)
+- **Cita a**: [**BOE-A-2024-11613**](./L1_2024_regulan_ensenanzas_artisticas_superiores_establece_organizacion.md) (Art. 1) desde *(Capítulo I)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 3) desde *(Capítulo II. Organización y estructura de las Enseñanzas Profesionales de Artes Plásticas y Diseño., Art. 5)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 3) desde *(Capítulo II. Organización y estructura de las Enseñanzas Profesionales de Artes Plásticas y Diseño., Art. 5)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 3) desde *(Capítulo II. Organización y estructura de las Enseñanzas Profesionales de Artes Plásticas y Diseño., Art. 5)*
+- **Cita a**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md) (Art. 19) desde *(Capítulo III. Enseñanzas mínimas y establecimiento del currículo., Art. 17)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 6) desde *(Capítulo III. Enseñanzas mínimas y establecimiento del currículo., Art. 18)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 6) desde *(Capítulo III. Enseñanzas mínimas y establecimiento del currículo., Art. 18)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 6) desde *(Capítulo III. Enseñanzas mínimas y establecimiento del currículo., Art. 18)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 52, Art. 21) desde *(Capítulo IV. Acceso y admisión., Art. 19)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 52, Art. 21) desde *(Capítulo IV. Acceso y admisión., Art. 19)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 52, Art. 21) desde *(Capítulo IV. Acceso y admisión., Art. 19)*
+- **Cita a**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) desde *(Capítulo V. Evaluación, calificación, promoción y permanencia., Art. 27)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo VII. Documentos básicos de evaluación y movilidad., Art. 33)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo VII. Documentos básicos de evaluación y movilidad., Art. 33)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo VII. Documentos básicos de evaluación y movilidad., Art. 33)*
+- **Cita a**: [**BOE-A-2024-11613**](./L1_2024_regulan_ensenanzas_artisticas_superiores_establece_organizacion.md) desde *(Capítulo IX. Orientación personal, académica y profesional., Art. 40)*
+- **Cita a**: [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md) desde *(Capítulo IX. Orientación personal, académica y profesional., D. Adicional primera. Medidas en materia de igualdad de oportunidades, no discriminación y accesibilidad universal.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 96) desde *(Capítulo IX. Orientación personal, académica y profesional., D. Adicional quinta. Profesorado especialista.)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 96) desde *(Capítulo IX. Orientación personal, académica y profesional., D. Adicional quinta. Profesorado especialista.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 96) desde *(Capítulo IX. Orientación personal, académica y profesional., D. Adicional quinta. Profesorado especialista.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 111) desde *(Capítulo IX. Orientación personal, académica y profesional., D. Adicional novena. Centros que imparten Enseñanzas Profesionales de Artes Plásticas y Diseño.)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 111) desde *(Capítulo IX. Orientación personal, académica y profesional., D. Adicional novena. Centros que imparten Enseñanzas Profesionales de Artes Plásticas y Diseño.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 111) desde *(Capítulo IX. Orientación personal, académica y profesional., D. Adicional novena. Centros que imparten Enseñanzas Profesionales de Artes Plásticas y Diseño.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo IX. Orientación personal, académica y profesional., D. Transitoria primera. Aplicabilidad de la normativa vigente a la entrada en vigor de este real decreto.)*
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) desde *(Capítulo IX. Orientación personal, académica y profesional., D. Transitoria primera. Aplicabilidad de la normativa vigente a la entrada en vigor de este real decreto.)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo IX. Orientación personal, académica y profesional., D. Transitoria primera. Aplicabilidad de la normativa vigente a la entrada en vigor de este real decreto.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo IX. Orientación personal, académica y profesional., D. Transitoria primera. Aplicabilidad de la normativa vigente a la entrada en vigor de este real decreto.)*
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (Capítulo IV, D. Transitoria tercera) desde *(Capítulo IX. Orientación personal, académica y profesional., D. Transitoria segunda. Calendario de aplicación del régimen de acceso y admisión recogido en esta norma.)*
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (Art. 31) desde *(Capítulo IX. Orientación personal, académica y profesional., D. Transitoria segunda. Calendario de aplicación del régimen de acceso y admisión recogido en esta norma.)*
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (Art. 30) desde *(Capítulo IX. Orientación personal, académica y profesional., D. Transitoria segunda. Calendario de aplicación del régimen de acceso y admisión recogido en esta norma.)*
+- **Cita a**: `norm-es-c-1978` desde *(Capítulo IX. Orientación personal, académica y profesional., D. Final quinta. Entrada en vigor.)*

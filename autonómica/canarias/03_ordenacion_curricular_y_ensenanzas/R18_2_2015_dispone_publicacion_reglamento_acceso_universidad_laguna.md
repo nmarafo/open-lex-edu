@@ -25,6 +25,55 @@ tags:
 - procedimiento-administrativo
 - titulacion
 relaciones:
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 69
+  - norma_id: norm-es-2016-3229
+    articulos_destino:
+    - Art. 69
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 69
+  - norma_id: norm-es-2014-6008
+    articulos_destino:
+    - Art. 69
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 69
+  cita:
+  - norma_id: norm-es-2001-7022
+    capitulo_origen: Capítulo II. Acceso para mayores de 25 años.
+    articulos_origen:
+    - Art. 11
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo IV. ACCESO PARA MAYORES DE 40 AÑOS CON EXPERIENCIA LABORAL
+      O PROFESIONAL artículo 30 Requisitos. Las personas mayores de 40 años de edad
+      podrán solicitar el acceso a enseñanzas universitarias oficiales de Grado cuando
+      acrediten el cumplimiento de los siguientes requisitos:.
+    articulos_origen:
+    - Art. 33
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo IV. ACCESO PARA MAYORES DE 40 AÑOS CON EXPERIENCIA LABORAL
+      O PROFESIONAL artículo 30 Requisitos. Las personas mayores de 40 años de edad
+      podrán solicitar el acceso a enseñanzas universitarias oficiales de Grado cuando
+      acrediten el cumplimiento de los siguientes requisitos:.
+    articulos_origen:
+    - Art. 33
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo IV. ACCESO PARA MAYORES DE 40 AÑOS CON EXPERIENCIA LABORAL
+      O PROFESIONAL artículo 30 Requisitos. Las personas mayores de 40 años de edad
+      podrán solicitar el acceso a enseñanzas universitarias oficiales de Grado cuando
+      acrediten el cumplimiento de los siguientes requisitos:.
+    articulos_origen:
+    - Art. 33
+  - norma_id: norm-es-2014-6008
+    capitulo_origen: Capítulo IV. ACCESO PARA MAYORES DE 40 AÑOS CON EXPERIENCIA LABORAL
+      O PROFESIONAL artículo 30 Requisitos. Las personas mayores de 40 años de edad
+      podrán solicitar el acceso a enseñanzas universitarias oficiales de Grado cuando
+      acrediten el cumplimiento de los siguientes requisitos:.
+    articulos_origen:
+    - D. Transitoria ....
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-2010-12201
@@ -33,12 +82,10 @@ relaciones:
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-lo-2-2006
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-2014-6008
@@ -48,6 +95,7 @@ relaciones:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2015-040-837.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=72176
 ---
+
 # Resolución de 18 de febrero de 2015, por la que se dispone la publicación del Reglamento de acceso a la Universidad de La Laguna para mayores de 25, 40 y 45 años.
 
 ## Preámbulo
@@ -348,3 +396,26 @@ Quedan derogadas cualesquiera disposiciones de igual o inferior rango que se opo
 - [**BOE-A-2016-3229**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
 - [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 69)
+- **Desarrolla**: [**BOE-A-2016-3229**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md) (Art. 69)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 69)
+- **Desarrolla**: [**BOE-A-2014-6008**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD412_2014_establece_normativa_basica_procedimientos_admision_ensenanzas.md) (Art. 69)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 69)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2014-6008**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD412_2014_establece_normativa_basica_procedimientos_admision_ensenanzas.md)
+- **Fundamentado en**: [**BOE-A-2016-3229**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: [**BOE-A-2001-7022**](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) desde *(Capítulo II. Acceso para mayores de 25 años., Art. 11)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo IV. ACCESO PARA MAYORES DE 40 AÑOS CON EXPERIENCIA LABORAL O PROFESIONAL artículo 30 Requisitos. Las personas mayores de 40 años de edad podrán solicitar el acceso a enseñanzas universitarias oficiales de Grado cuando acrediten el cumplimiento de los siguientes requisitos:., Art. 33)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo IV. ACCESO PARA MAYORES DE 40 AÑOS CON EXPERIENCIA LABORAL O PROFESIONAL artículo 30 Requisitos. Las personas mayores de 40 años de edad podrán solicitar el acceso a enseñanzas universitarias oficiales de Grado cuando acrediten el cumplimiento de los siguientes requisitos:., Art. 33)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo IV. ACCESO PARA MAYORES DE 40 AÑOS CON EXPERIENCIA LABORAL O PROFESIONAL artículo 30 Requisitos. Las personas mayores de 40 años de edad podrán solicitar el acceso a enseñanzas universitarias oficiales de Grado cuando acrediten el cumplimiento de los siguientes requisitos:., Art. 33)*
+- **Cita a**: [**BOE-A-2014-6008**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD412_2014_establece_normativa_basica_procedimientos_admision_ensenanzas.md) desde *(Capítulo IV. ACCESO PARA MAYORES DE 40 AÑOS CON EXPERIENCIA LABORAL O PROFESIONAL artículo 30 Requisitos. Las personas mayores de 40 años de edad podrán solicitar el acceso a enseñanzas universitarias oficiales de Grado cuando acrediten el cumplimiento de los siguientes requisitos:., D. Transitoria ....)*

@@ -23,9 +23,60 @@ tags:
 - prevencion-riesgos-laborales
 - salud-laboral-y-vigilancia
 relaciones:
-  fundamentado_en:
-  - norma_id: norm-es-1999-23750
+  desarrolla:
   - norma_id: norm-es-2014-7684
+  cita:
+  - norma_id: norm-es-2014-7684
+  - norma_id: norm-es-1999-23750
+    capitulo_origen: Capítulo IV. Normas comunes sobre tramitación de los partes médicos
+      de baja/alta y confirmación.
+    articulos_origen:
+    - Art. 11
+  modifica:
+  - norma_id: norm-es-2014-7684
+  - norma_id: norm-es-2014-7684
+    capitulo_origen: Capítulo I. Normas generales.
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 2
+  fundamentado_en:
+  - norma_id: norm-es-2014-7684
+    articulos_destino:
+    - Art. 5
+  - norma_id: norm-es-2014-7684
+    capitulo_origen: Capítulo I. Normas generales.
+    articulos_origen:
+    - Art. 1
+    articulos_destino:
+    - Art. 2
+    - Art. 5
+  - norma_id: norm-es-2014-7684
+    capitulo_origen: Capítulo I. Normas generales.
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-2014-7684
+    capitulo_origen: Capítulo II. Expedición de los partes médicos de baja y confirmación.
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 4
+  - norma_id: norm-es-2014-7684
+    capitulo_origen: Capítulo III. Declaración de alta médica en los procesos de incapacidad
+      temporal.
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo V. Control de la situación de incapacidad temporal.
+    articulos_origen:
+    - D. Final primera. Título competencial.
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-1999-23750
   - norma_id: norm-es-rd-276-2007
   - norma_id: norm-es-rdl-5-2015
   fundamento_de:
@@ -33,10 +84,11 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-es-rd-276-2007
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-1999-23750
   - norma_id: norm-es-2014-7684
 ---
+
 # Orden ESS/1187/2015, de 15 de junio, por la que se desarrolla el Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración.
 
 ## Preámbulo
@@ -279,3 +331,24 @@ Madrid, 15 de junio de 2015.–La Ministra de Empleo y Seguridad Social, Fátima
 - [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
 - [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
 - [**BOE-A-2014-7684**](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**BOE-A-2014-7684**](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md)
+- **Modifica**: [**BOE-A-2014-7684**](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md)
+- **Modifica**: [**BOE-A-2014-7684**](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md) (Art. 2) desde *(Capítulo I. Normas generales., Art. 2)*
+- **Fundamentado en**: [**BOE-A-2014-7684**](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md) (Art. 5)
+- **Fundamentado en**: [**BOE-A-2014-7684**](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md) (Art. 2, Art. 5) desde *(Capítulo I. Normas generales., Art. 1)*
+- **Fundamentado en**: [**BOE-A-2014-7684**](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md) (Art. 2) desde *(Capítulo I. Normas generales., Art. 2)*
+- **Fundamentado en**: [**BOE-A-2014-7684**](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md) (Art. 4) desde *(Capítulo II. Expedición de los partes médicos de baja y confirmación., Art. 5)*
+- **Fundamentado en**: [**BOE-A-2014-7684**](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md) (Art. 6) desde *(Capítulo III. Declaración de alta médica en los procesos de incapacidad temporal., Art. 8)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Capítulo V. Control de la situación de incapacidad temporal., D. Final primera. Título competencial.)*
+- **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+- **Fundamentado en**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamento de**: [**BOE-A-2014-7684**](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md)
+- **Cita a**: [**BOE-A-2014-7684**](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md)
+- **Cita a**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) desde *(Capítulo IV. Normas comunes sobre tramitación de los partes médicos de baja/alta y confirmación., Art. 11)*

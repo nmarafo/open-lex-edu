@@ -21,11 +21,10 @@ tags:
 relaciones:
   fundamentado_en:
   - norma_id: norm-es-lo-2-2006
-  fundamentos_derecho:
-  - norma_id: norm-can-d-9-2022
   articulos:
-  - '84'
+  - norma_id: '84'
 ---
+
 # Real Decreto 1633/1985, de 28 de agosto, por el que se fija la cuantía de la cuota del Seguro Escolar.
 
 ## Preámbulo
@@ -60,3 +59,10 @@ DADO EN PALMA DE MALLORCA A 28 DE AGOSTO DE 1985.-JUAN CARLOS R.-EL MINISTRO DE 
 
 - [**D9_2022 Admision del Alumnado en Canarias**](../../autonómica/canarias/05_alumnado_y_servicios_escolares/D9_2022_regula_admision_alumnado_centros_docentes_publicos.md)
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)

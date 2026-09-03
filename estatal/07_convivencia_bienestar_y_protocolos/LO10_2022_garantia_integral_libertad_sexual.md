@@ -29,25 +29,332 @@ tags:
 - titulacion
 relaciones:
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 1
+    - Art. 9
+    - Art. 10
+    - Art. 14
+    - Art. 15
+    - Art. 17
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-lo-8-2021
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I. Alcance y garantía del derecho.
+    articulos_origen:
+    - Art. 34
+    articulos_destino:
+    - Art. 16
+    - Art. 17
+  - norma_id: norm-es-lo-3-2018
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo II. Protección, acompañamiento y seguridad de las víctimas.
+    articulos_origen:
+    - Art. 50
+    articulos_destino:
+    - Art. 47
+  - norma_id: norm-es-lo-1-2004
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final tercera. Modificación de la Ley 34/1988, de 11 de noviembre, General
+      de Publicidad.
+    articulos_destino:
+    - Art. 14
+    - Art. 18
+    - Art. 20
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final tercera. Modificación de la Ley 34/1988, de 11 de noviembre, General
+      de Publicidad.
+    articulos_destino:
+    - Art. 14
+    - Art. 18
+    - Art. 20
+  - norma_id: norm-es-lo-1-2004
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final quinta. Modificación de la Ley 35/1995, de 11 de diciembre, de ayudas
+      y asistencia a las víctimas de delitos violentos y contra la libertad sexual.
+    articulos_destino:
+    - Art. 23
+    - Art. 37
+    - Art. 10
+  - norma_id: norm-es-lo-1-2004
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final decimoquinta. Modificación del texto refundido de la Ley del Estatuto
+      Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de
+      30 de octubre.
+    articulos_destino:
+    - Art. 331
+    - Art. 21
+    - Art. 38
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final decimoquinta. Modificación del texto refundido de la Ley del Estatuto
+      Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de
+      30 de octubre.
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-lo-8-2021
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final decimoquinta. Modificación del texto refundido de la Ley del Estatuto
+      Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de
+      30 de octubre.
   - norma_id: norm-es-1995-25444
   - norma_id: norm-es-2000-544
   - norma_id: norm-es-2007-6115
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-lo-1-2004
-  - norma_id: norm-es-lo-3-2018
   - norma_id: norm-es-lo-5-2000
   - norma_id: norm-es-lo-8-1985
-  - norma_id: norm-es-lo-8-2021
   - norma_id: norm-es-rdl-2-2015
   - norma_id: norm-es-rdl-5-2015
-  desarrollado_por: []
-  fundamento_de:
-  - norma_id: norm-can-res-125
+  cita:
+  - norma_id: norm-es-1995-25444
+    titulo_destino: Título VIII
+  - norma_id: norm-es-2007-6115
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-1995-25444
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 3
+    titulo_destino: Título VIII
+  - norma_id: norm-es-lo-8-2021
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 3
+  - norma_id: norm-es-lo-1-2004
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 4
+  - norma_id: norm-es-2007-6115
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Medidas de prevención y sensibilización.
+    articulos_origen:
+    - Art. 12
+    articulos_destino:
+    - Art. 48
+  - norma_id: norm-es-2007-6115
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Medidas de prevención y sensibilización.
+    articulos_origen:
+    - Art. 13
+  - norma_id: norm-es-lo-8-2021
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Detección de las violencias sexuales.
+    articulos_origen:
+    - Art. 18
+    titulo_destino: Título II
+    articulos_destino:
+    - Art. 262
+    - Art. 264
+  - norma_id: norm-es-rdl-2-2015
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo II. Autonomía económica, derechos laborales y vivienda.
+    articulos_origen:
+    - Art. 38
+  - norma_id: norm-es-2000-544
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo II. Autonomía económica, derechos laborales y vivienda.
+    articulos_origen:
+    - Art. 38
+  - norma_id: norm-es-lo-8-2021
+    titulo_origen: Título V
+    articulos_origen:
+    - Art. 43
+    articulos_destino:
+    - Art. 50
+  - norma_id: norm-es-lo-1-2004
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final quinta. Modificación de la Ley 35/1995, de 11 de diciembre, de ayudas
+      y asistencia a las víctimas de delitos violentos y contra la libertad sexual.
+  - norma_id: norm-es-lo-1-2004
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final quinta. Modificación de la Ley 35/1995, de 11 de diciembre, de ayudas
+      y asistencia a las víctimas de delitos violentos y contra la libertad sexual.
+    articulos_destino:
+    - Art. 23
+    - Art. 36
+  - norma_id: norm-es-lo-1-2004
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final quinta. Modificación de la Ley 35/1995, de 11 de diciembre, de ayudas
+      y asistencia a las víctimas de delitos violentos y contra la libertad sexual.
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final quinta. Modificación de la Ley 35/1995, de 11 de diciembre, de ayudas
+      y asistencia a las víctimas de delitos violentos y contra la libertad sexual.
+    articulos_destino:
+    - Art. 66
+  - norma_id: norm-es-lo-1-2004
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final sexta. Modificación de la Ley Orgánica 4/2000, de 11 de enero, sobre
+      derechos y libertades de los extranjeros en España y su integración social.
+  - norma_id: norm-es-2000-544
+    titulo_origen: Título VIII
+    articulos_origen:
+    - Art. 19 bis
+  - norma_id: norm-es-lo-1-2004
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final decimoquinta. Modificación del texto refundido de la Ley del Estatuto
+      Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de
+      30 de octubre.
+    articulos_destino:
+    - Art. 49
+    - Art. 23
+    - Art. 37
+  - norma_id: norm-es-lo-1-2004
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final decimoquinta. Modificación del texto refundido de la Ley del Estatuto
+      Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de
+      30 de octubre.
+    articulos_destino:
+    - Art. 23
+    - Art. 37
+  - norma_id: norm-es-lo-8-2021
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final decimoquinta. Modificación del texto refundido de la Ley del Estatuto
+      Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de
+      30 de octubre.
+  desarrolla:
+  - norma_id: norm-es-lo-1-2004
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 9
+  - norma_id: norm-es-2000-544
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I. Alcance y garantía del derecho.
+    articulos_origen:
+    - Art. 36
+  modifica:
+  - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-1995-25444
+    disposiciones_destino:
+    - D. Final cuarta
+  - norma_id: norm-es-2000-544
+    articulos_destino:
+    - Art. 31 bis
+    disposiciones_destino:
+    - D. Final sexta
+  - norma_id: norm-es-lo-5-2000
+  - norma_id: norm-es-lo-1-2004
+    disposiciones_destino:
+    - D. Final novena
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-rdl-2-2015
+  - norma_id: norm-es-rdleg-5-2015
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final segunda. Modificación de la Ley Orgánica 8/1985, de 3 de julio, reguladora
+      del Derecho a la Educación.
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-es-1995-25444
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final cuarta. Modificación de la Ley Orgánica 10/1995, de 23 de noviembre,
+      del Código Penal.
+    disposiciones_destino:
+    - D. Final cuarta
+  - norma_id: norm-es-1995-25444
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final cuarta. Modificación de la Ley Orgánica 10/1995, de 23 de noviembre,
+      del Código Penal.
+  - norma_id: norm-es-2000-544
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final sexta. Modificación de la Ley Orgánica 4/2000, de 11 de enero, sobre
+      derechos y libertades de los extranjeros en España y su integración social.
+    disposiciones_destino:
+    - D. Final sexta
+  - norma_id: norm-es-lo-5-2000
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final séptima. Modificación de la Ley Orgánica 5/2000, de 12 de enero, reguladora
+      de la responsabilidad penal de los menores.
+  - norma_id: norm-es-lo-1-2004
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final novena. Modificación de la Ley Orgánica 1/2004, de 28 de diciembre,
+      de Medidas de Protección Integral contra la Violencia de Género.
+    disposiciones_destino:
+    - D. Final novena
+  - norma_id: norm-es-lo-1-2004
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final novena. Modificación de la Ley Orgánica 1/2004, de 28 de diciembre,
+      de Medidas de Protección Integral contra la Violencia de Género.
+  - norma_id: norm-es-2007-6115
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final décima. Modificación de la Ley Orgánica 3/2007, de 22 de marzo, para
+      la igualdad efectiva de mujeres y hombres.
+  - norma_id: norm-es-rdl-2-2015
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final decimocuarta. Modificación del texto refundido de la Ley del Estatuto
+      de los Trabajadores, aprobado por Real Decreto Legislativo 2/2015, de 23 de
+      octubre.
+    disposiciones_destino:
+    - D. Final decimocuarta
+  - norma_id: norm-es-rdl-2-2015
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final decimocuarta. Modificación del texto refundido de la Ley del Estatuto
+      de los Trabajadores, aprobado por Real Decreto Legislativo 2/2015, de 23 de
+      octubre.
+  - norma_id: norm-es-rdl-5-2015
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final decimoquinta. Modificación del texto refundido de la Ley del Estatuto
+      Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de
+      30 de octubre.
+    disposiciones_destino:
+    - D. Final decimoquinta
+  - norma_id: norm-es-rdleg-5-2015
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final decimoquinta. Modificación del texto refundido de la Ley del Estatuto
+      Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de
+      30 de octubre.
+    disposiciones_destino:
+    - D. Final decimoquinta
+  - norma_id: norm-es-rdl-5-2015
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final decimoquinta. Modificación del texto refundido de la Ley del Estatuto
+      Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de
+      30 de octubre.
+  - norma_id: norm-es-rdleg-5-2015
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Final decimoquinta. Modificación del texto refundido de la Ley del Estatuto
+      Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de
+      30 de octubre.
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-1995-25444
   - norma_id: norm-es-2000-544
   - norma_id: norm-es-l-39-2015
@@ -59,6 +366,7 @@ relaciones:
   - norma_id: norm-es-lo-8-2021
   - norma_id: norm-es-rdl-2-2015
 ---
+
 # Ley Orgánica 10/2022, de 6 de septiembre, de garantía integral de la libertad sexual.
 
 ## Preámbulo
@@ -1849,3 +2157,75 @@ PEDRO SÁNCHEZ PÉREZ-CASTEJÓN
 - [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
 - [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](./LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
 - [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
+- **Desarrolla**: `norm-es-c-1978`
+- **Desarrolla**: `norm-es-c-1978` (Art. 9)
+- **Desarrolla**: [**BOE-A-2000-544**](../01_marco_normativo_general_y_organico/LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md) desde *(Título IV, Capítulo I. Alcance y garantía del derecho., Art. 36)*
+- **Modifica**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
+- **Modifica**: [**BOE-A-1995-25444**](../01_marco_normativo_general_y_organico/LO10_1995_codigo_penal.md) (D. Final cuarta)
+- **Modifica**: [**BOE-A-2000-544**](../01_marco_normativo_general_y_organico/LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md) (Art. 31 bis, D. Final sexta)
+- **Modifica**: [**LO5_2000 Responsabilidad Penal de los Menores**](../01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md)
+- **Modifica**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) (D. Final novena)
+- **Modifica**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Modifica**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
+- **Modifica**: `norm-es-rdleg-5-2015`
+- **Modifica**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (D. Final segunda) desde *(Título VIII, D. Final segunda. Modificación de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación.)*
+- **Modifica**: [**BOE-A-1995-25444**](../01_marco_normativo_general_y_organico/LO10_1995_codigo_penal.md) (D. Final cuarta) desde *(Título VIII, D. Final cuarta. Modificación de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.)*
+- **Modifica**: [**BOE-A-1995-25444**](../01_marco_normativo_general_y_organico/LO10_1995_codigo_penal.md) desde *(Título VIII, D. Final cuarta. Modificación de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.)*
+- **Modifica**: [**BOE-A-2000-544**](../01_marco_normativo_general_y_organico/LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md) (D. Final sexta) desde *(Título VIII, D. Final sexta. Modificación de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.)*
+- **Modifica**: [**LO5_2000 Responsabilidad Penal de los Menores**](../01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md) desde *(Título VIII, D. Final séptima. Modificación de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.)*
+- **Modifica**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) (D. Final novena) desde *(Título VIII, D. Final novena. Modificación de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.)*
+- **Modifica**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) desde *(Título VIII, D. Final novena. Modificación de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.)*
+- **Modifica**: [**BOE-A-2007-6115**](./LO3_2007_igualdad_efectiva_mujeres_hombres.md) desde *(Título VIII, D. Final décima. Modificación de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.)*
+- **Modifica**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md) (D. Final decimocuarta) desde *(Título VIII, D. Final decimocuarta. Modificación del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 2/2015, de 23 de octubre.)*
+- **Modifica**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md) desde *(Título VIII, D. Final decimocuarta. Modificación del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 2/2015, de 23 de octubre.)*
+- **Modifica**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md) (D. Final decimoquinta) desde *(Título VIII, D. Final decimoquinta. Modificación del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre.)*
+- **Modifica**: `norm-es-rdleg-5-2015` (D. Final decimoquinta) desde *(Título VIII, D. Final decimoquinta. Modificación del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre.)*
+- **Modifica**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md) desde *(Título VIII, D. Final decimoquinta. Modificación del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre.)*
+- **Modifica**: `norm-es-rdleg-5-2015` desde *(Título VIII, D. Final decimoquinta. Modificación del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 1, Art. 9, Art. 10, Art. 14, Art. 15, Art. 17)
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149)
+- **Fundamentado en**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](./LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md) (Art. 16, Art. 17) desde *(Título IV, Capítulo I. Alcance y garantía del derecho., Art. 34)*
+- **Fundamentado en**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) (Art. 47) desde *(Título VI, Capítulo II. Protección, acompañamiento y seguridad de las víctimas., Art. 50)*
+- **Fundamentado en**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) (Art. 14, Art. 18, Art. 20) desde *(Título VIII, D. Final tercera. Modificación de la Ley 34/1988, de 11 de noviembre, General de Publicidad.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 14, Art. 18, Art. 20) desde *(Título VIII, D. Final tercera. Modificación de la Ley 34/1988, de 11 de noviembre, General de Publicidad.)*
+- **Fundamentado en**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) (Art. 23, Art. 37, Art. 10) desde *(Título VIII, D. Final quinta. Modificación de la Ley 35/1995, de 11 de diciembre, de ayudas y asistencia a las víctimas de delitos violentos y contra la libertad sexual.)*
+- **Fundamentado en**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) (Art. 331, Art. 21, Art. 38) desde *(Título VIII, D. Final decimoquinta. Modificación del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Título VIII, D. Final decimoquinta. Modificación del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre.)*
+- **Fundamentado en**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](./LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md) desde *(Título VIII, D. Final decimoquinta. Modificación del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre.)*
+- **Fundamentado en**: [**BOE-A-1995-25444**](../01_marco_normativo_general_y_organico/LO10_1995_codigo_penal.md)
+- **Fundamentado en**: [**BOE-A-2000-544**](../01_marco_normativo_general_y_organico/LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md)
+- **Fundamentado en**: [**BOE-A-2007-6115**](./LO3_2007_igualdad_efectiva_mujeres_hombres.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO5_2000 Responsabilidad Penal de los Menores**](../01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md)
+- **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
+- **Fundamentado en**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Cita a**: [**BOE-A-1995-25444**](../01_marco_normativo_general_y_organico/LO10_1995_codigo_penal.md) (Título VIII)
+- **Cita a**: [**BOE-A-2007-6115**](./LO3_2007_igualdad_efectiva_mujeres_hombres.md)
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 129)
+- **Cita a**: [**BOE-A-1995-25444**](../01_marco_normativo_general_y_organico/LO10_1995_codigo_penal.md) (Título VIII) desde *(Título Preliminar, Art. 3)*
+- **Cita a**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](./LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md) desde *(Título Preliminar, Art. 3)*
+- **Cita a**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) desde *(Título I, Art. 4)*
+- **Cita a**: [**BOE-A-2007-6115**](./LO3_2007_igualdad_efectiva_mujeres_hombres.md) (Art. 48) desde *(Título II, Capítulo I. Medidas de prevención y sensibilización., Art. 12)*
+- **Cita a**: [**BOE-A-2007-6115**](./LO3_2007_igualdad_efectiva_mujeres_hombres.md) desde *(Título II, Capítulo I. Medidas de prevención y sensibilización., Art. 13)*
+- **Cita a**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](./LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md) (Título II, Art. 262, Art. 264) desde *(Título II, Capítulo II. Detección de las violencias sexuales., Art. 18)*
+- **Cita a**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md) desde *(Título IV, Capítulo II. Autonomía económica, derechos laborales y vivienda., Art. 38)*
+- **Cita a**: [**BOE-A-2000-544**](../01_marco_normativo_general_y_organico/LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md) desde *(Título IV, Capítulo II. Autonomía económica, derechos laborales y vivienda., Art. 38)*
+- **Cita a**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](./LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md) (Art. 50) desde *(Título V, Art. 43)*
+- **Cita a**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) desde *(Título VIII, D. Final quinta. Modificación de la Ley 35/1995, de 11 de diciembre, de ayudas y asistencia a las víctimas de delitos violentos y contra la libertad sexual.)*
+- **Cita a**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) (Art. 23, Art. 36) desde *(Título VIII, D. Final quinta. Modificación de la Ley 35/1995, de 11 de diciembre, de ayudas y asistencia a las víctimas de delitos violentos y contra la libertad sexual.)*
+- **Cita a**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) (Art. 1) desde *(Título VIII, D. Final quinta. Modificación de la Ley 35/1995, de 11 de diciembre, de ayudas y asistencia a las víctimas de delitos violentos y contra la libertad sexual.)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 66) desde *(Título VIII, D. Final quinta. Modificación de la Ley 35/1995, de 11 de diciembre, de ayudas y asistencia a las víctimas de delitos violentos y contra la libertad sexual.)*
+- **Cita a**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) desde *(Título VIII, D. Final sexta. Modificación de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.)*
+- **Cita a**: [**BOE-A-2000-544**](../01_marco_normativo_general_y_organico/LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md) desde *(Título VIII, Art. 19 bis)*
+- **Cita a**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) (Art. 49, Art. 23, Art. 37) desde *(Título VIII, D. Final decimoquinta. Modificación del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre.)*
+- **Cita a**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) (Art. 23, Art. 37) desde *(Título VIII, D. Final decimoquinta. Modificación del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre.)*
+- **Cita a**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](./LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md) desde *(Título VIII, D. Final decimoquinta. Modificación del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre.)*

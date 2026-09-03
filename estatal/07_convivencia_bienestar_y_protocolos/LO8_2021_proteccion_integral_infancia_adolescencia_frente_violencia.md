@@ -27,63 +27,309 @@ tags:
 - proteccion-menores
 - protocolos-de-actuaci-n-y-protecci-n
 relaciones:
+  cita:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 39
+  - norma_id: norm-es-l-40-2015
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 6
+    articulos_destino:
+    - Art. 141
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo VI. Del ámbito sanitario.
+    articulos_origen:
+    - Art. 39
+  - norma_id: norm-es-lo-3-2018
+    titulo_origen: Título III
+    capitulo_origen: Capítulo VIII. De las nuevas tecnologías.
+    articulos_origen:
+    - Art. 45
+    articulos_destino:
+    - Art. 84
+  - norma_id: norm-es-1995-25444
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. De la certificación negativa del Registro Central
+      de Delincuentes Sexuales y de Trata de Seres Humanos.
+    articulos_origen:
+    - Art. 57
+    titulo_destino: Título VIII
+  - norma_id: norm-es-lo-1-2004
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. De la certificación negativa del Registro Central
+      de Delincuentes Sexuales y de Trata de Seres Humanos.
+    articulos_origen:
+    - Art. 14 bis
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-lo-5-2000
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. De la certificación negativa del Registro Central
+      de Delincuentes Sexuales y de Trata de Seres Humanos.
+    articulos_origen:
+    - Art. 17 bis
+    articulos_destino:
+    - Art. 3
+  desarrolla:
+  - norma_id: norm-es-2015-8470
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-es-2015-8222
+  - norma_id: norm-es-lo-2-2006
+    capitulo_destino: Capítulo IV
+    articulos_destino:
+    - Art. 124
+  - norma_id: norm-es-2021-20113
+    capitulo_destino: Capítulo IV
+    articulos_destino:
+    - Art. 124
+  - norma_id: norm-es-2010-12201
+    capitulo_destino: Capítulo IV
+    articulos_destino:
+    - Art. 124
+  modifica:
+  - norma_id: norm-es-1995-25444
+    disposiciones_destino:
+    - D. Final sexta
+  - norma_id: norm-es-lo-1-1996
+    disposiciones_destino:
+    - D. Final octava
+  - norma_id: norm-es-lo-1-1996
+    articulos_origen:
+    - Art. 14 bis
+    articulos_destino:
+    - Art. 20 ter
+    - Art. 779
+    - Art. 780
+    disposiciones_destino:
+    - D. Final novena
+  - norma_id: norm-es-lo-1-2004
+    articulos_origen:
+    - Art. 14 bis
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-lo-5-2000
+    articulos_origen:
+    - Art. 14 bis
+    articulos_destino:
+    - Art. 4
+    - Art. 7
+  - norma_id: norm-es-lo-1-1996
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título III
+    capitulo_origen: Capítulo IV. Del ámbito educativo artículo 30 Principios. El
+      sistema educativo debe regirse por el respeto mutuo de todos los miembros de
+      la comunidad educativa y debe fomentar una educación accesible, igualitaria,
+      inclusiva y de calidad que permita el desarrollo pleno de los niños, niñas y
+      adolescentes y su participación en una escuela segura y libre de violencia,
+      en la que se garantice el respeto, la igualdad y la promoción de todos sus derechos
+      fundamentales y libertades públicas, empleando métodos pacíficos de comunicación,
+      negociación y resolución de conflictos.
+    articulos_destino:
+    - Art. 124
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título III
+    capitulo_origen: Capítulo IV. Del ámbito educativo artículo 30 Principios. El
+      sistema educativo debe regirse por el respeto mutuo de todos los miembros de
+      la comunidad educativa y debe fomentar una educación accesible, igualitaria,
+      inclusiva y de calidad que permita el desarrollo pleno de los niños, niñas y
+      adolescentes y su participación en una escuela segura y libre de violencia,
+      en la que se garantice el respeto, la igualdad y la promoción de todos sus derechos
+      fundamentales y libertades públicas, empleando métodos pacíficos de comunicación,
+      negociación y resolución de conflictos.
+    articulos_destino:
+    - Art. 124
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título III
+    capitulo_origen: Capítulo IV. Del ámbito educativo artículo 30 Principios. El
+      sistema educativo debe regirse por el respeto mutuo de todos los miembros de
+      la comunidad educativa y debe fomentar una educación accesible, igualitaria,
+      inclusiva y de calidad que permita el desarrollo pleno de los niños, niñas y
+      adolescentes y su participación en una escuela segura y libre de violencia,
+      en la que se garantice el respeto, la igualdad y la promoción de todos sus derechos
+      fundamentales y libertades públicas, empleando métodos pacíficos de comunicación,
+      negociación y resolución de conflictos.
+    articulos_destino:
+    - Art. 124
+  - norma_id: norm-es-lo-1-1996
+    titulo_origen: Título III
+    capitulo_origen: Capítulo VII. Del ámbito de los servicios sociales.
+    articulos_origen:
+    - Art. 44
+    articulos_destino:
+    - Art. 22 ter
+  - norma_id: norm-es-lo-1-1996
+    titulo_origen: Título IV
+    articulos_origen:
+    - Art. 53
+    titulo_destino: Título II
+    capitulo_destino: Capítulo IV
+    articulos_destino:
+    - Art. 778 bis
+  - norma_id: norm-es-lo-1-1996
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. De la certificación negativa del Registro Central
+      de Delincuentes Sexuales y de Trata de Seres Humanos.
+    articulos_origen:
+    - D. Adicional novena. Seguridad Social de las personas acogedoras especializadas
+      de dedicación exclusiva.
+    articulos_destino:
+    - Art. 20
+  - norma_id: norm-es-1995-25444
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. De la certificación negativa del Registro Central
+      de Delincuentes Sexuales y de Trata de Seres Humanos.
+    articulos_origen:
+    - D. Final sexta. Modificación de la [Ley Orgánica 10/1995](../01_marco_normativo_general_y_organico/LO10_1995_codigo_penal.md),
+      de 23 de noviembre, del Código Penal.
+    disposiciones_destino:
+    - D. Final sexta
+  - norma_id: norm-es-1995-25444
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. De la certificación negativa del Registro Central
+      de Delincuentes Sexuales y de Trata de Seres Humanos.
+    articulos_origen:
+    - D. Final sexta. Modificación de la [Ley Orgánica 10/1995](../01_marco_normativo_general_y_organico/LO10_1995_codigo_penal.md),
+      de 23 de noviembre, del Código Penal.
+  - norma_id: norm-es-lo-1-1996
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. De la certificación negativa del Registro Central
+      de Delincuentes Sexuales y de Trata de Seres Humanos.
+    articulos_origen:
+    - D. Final octava. Modificación de la [Ley Orgánica 1/1996](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md),
+      de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del
+      Código Civil y de la Ley de Enjuiciamiento Civil.
+    disposiciones_destino:
+    - D. Final octava
+  - norma_id: norm-es-lo-1-1996
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. De la certificación negativa del Registro Central
+      de Delincuentes Sexuales y de Trata de Seres Humanos.
+    articulos_origen:
+    - D. Final octava. Modificación de la [Ley Orgánica 1/1996](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md),
+      de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del
+      Código Civil y de la Ley de Enjuiciamiento Civil.
+  - norma_id: norm-es-lo-1-2004
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. De la certificación negativa del Registro Central
+      de Delincuentes Sexuales y de Trata de Seres Humanos.
+    articulos_origen:
+    - D. Final décima. Modificación de la [Ley Orgánica 1/2004](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md),
+      de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de
+      Género.
+  - norma_id: norm-es-lo-5-2000
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. De la certificación negativa del Registro Central
+      de Delincuentes Sexuales y de Trata de Seres Humanos.
+    articulos_origen:
+    - D. Final undécima. Modificación de la [Ley Orgánica 5/2000](../01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md),
+      de 12 de enero, reguladora de la responsabilidad penal de los menores.
+  - norma_id: norm-es-lo-1-1996
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. De la certificación negativa del Registro Central
+      de Delincuentes Sexuales y de Trata de Seres Humanos.
+    articulos_origen:
+    - D. Final decimoquinta. Modificación de la Ley 15/2015, de 2 de julio, de la
+      Jurisdicción Voluntaria.
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 14 bis
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Final decimoctava
+  - norma_id: norm-es-l-39-2015
+    articulos_origen:
+    - Art. 14 bis
+    articulos_destino:
+    - Art. 129
+    - Art. 19
+    - Art. 26
+  - norma_id: norm-es-l-40-2015
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 147
+  - norma_id: norm-es-lo-3-2018
+    titulo_origen: Título III
+    capitulo_origen: Capítulo IV. Del ámbito educativo artículo 30 Principios. El
+      sistema educativo debe regirse por el respeto mutuo de todos los miembros de
+      la comunidad educativa y debe fomentar una educación accesible, igualitaria,
+      inclusiva y de calidad que permita el desarrollo pleno de los niños, niñas y
+      adolescentes y su participación en una escuela segura y libre de violencia,
+      en la que se garantice el respeto, la igualdad y la promoción de todos sus derechos
+      fundamentales y libertades públicas, empleando métodos pacíficos de comunicación,
+      negociación y resolución de conflictos.
+    articulos_origen:
+    - Art. 33
+    articulos_destino:
+    - Art. 83
+  - norma_id: norm-es-lo-3-2018
+    titulo_origen: Título III
+    capitulo_origen: Capítulo XII. De la Agencia Española de Protección de Datos artículo
+      52 de la Agencia Española de Protección de Datos.
+    articulos_destino:
+    - Art. 47
+  - norma_id: norm-es-lo-1-2004
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. De la certificación negativa del Registro Central
+      de Delincuentes Sexuales y de Trata de Seres Humanos.
+    articulos_origen:
+    - D. Final quinta. Modificación de la Ley 34/1988, de 11 de noviembre, General
+      de Publicidad.
+    articulos_destino:
+    - Art. 14
+    - Art. 18
+    - Art. 20
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. De la certificación negativa del Registro Central
+      de Delincuentes Sexuales y de Trata de Seres Humanos.
+    articulos_origen:
+    - D. Final quinta. Modificación de la Ley 34/1988, de 11 de noviembre, General
+      de Publicidad.
+    articulos_destino:
+    - Art. 14
+    - Art. 18
+    - Art. 20
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. De la certificación negativa del Registro Central
+      de Delincuentes Sexuales y de Trata de Seres Humanos.
+    articulos_origen:
+    - D. Final decimoquinta. Modificación de la Ley 15/2015, de 2 de julio, de la
+      Jurisdicción Voluntaria.
+    titulo_destino: Título III
+    articulos_destino:
+    - Art. 149
   - norma_id: norm-es-1995-25444
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2015-8222
   - norma_id: norm-es-2015-8470
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-l-40-2015
   - norma_id: norm-es-lo-1-1996
-  - norma_id: norm-es-lo-1-2004
   - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-lo-3-2018
   - norma_id: norm-es-lo-5-2000
   fundamento_de:
   - norma_id: norm-es-2026-2622
   - norma_id: norm-es-lo-10-2022
-  - norma_id: norm-can-res-boc-2026-129-26
-  - norma_id: norm-can-res-135
-  - norma_id: norm-can-res-125
-  - norma_id: norm-can-l-16-2003
-  - norma_id: norm-can-res-boc-2018-124-126
-  - norma_id: norm-can-d-114-2011
-  - norma_id: norm-mad-d32-2019
-  - norma_id: norm-and-d-19-2007
-  - norma_id: norm-mad-d64-2025
-  - norma_id: norm-mad-o2742-2022
-  - norma_id: norm-and-d19-2007
   - norma_id: norm-mad-d-32-2019
-  - norma_id: norm-mad-o-276-2019
-  - norma_id: norm-and-d-1-2011
-  - norma_id: norm-and-o-20-6-2011
-  - norma_id: norm-mad-r-acoso-2022
-  - norma_id: norm-and-d-85-1999
   desarrollado_por:
-  - norma_id: norm-can-res-125
-  - norma_id: norm-can-res-096
-  - norma_id: norm-can-l-16-2003
-  - norma_id: norm-can-res-boc-2018-124-126
-  - norma_id: norm-can-d-114-2011
-  - norma_id: norm-mad-d32-2019
-  - norma_id: norm-and-d-19-2007
-  - norma_id: norm-mad-d64-2025
-  - norma_id: norm-mad-o2742-2022
-  - norma_id: norm-and-d19-2007
   - norma_id: norm-mad-d-32-2019
-  - norma_id: norm-mad-o-276-2019
-  - norma_id: norm-and-d-1-2011
-  - norma_id: norm-and-o-20-6-2011
-  - norma_id: norm-mad-r-acoso-2022
-  - norma_id: norm-and-d-85-1999
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '15'
-  - '39'
-  - norma_id: norm-can-l-16-2003
+  - norma_id: '15'
+  - norma_id: '39'
   - norma_id: norm-es-1995-25444
   - norma_id: norm-es-2015-8222
   - norma_id: norm-es-2015-8470
@@ -97,6 +343,7 @@ relaciones:
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-lo-1-2004
 ---
+
 # Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia.
 
 ## Preámbulo
@@ -2212,3 +2459,61 @@ PEDRO SÁNCHEZ PÉREZ-CASTEJÓN
 - [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**BOE-A-2015-8470**](../01_marco_normativo_general_y_organico/L26_2015_modificacion_sistema_proteccion_infancia_adolescencia.md)
+- **Desarrolla**: [**LO1_1996 Proteccion Juridica del Menor**](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- **Desarrolla**: [**BOE-A-2015-8222**](../01_marco_normativo_general_y_organico/LO8_2015_modificacion_sistema_proteccion_infancia_adolescencia.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Capítulo IV, Art. 124)
+- **Desarrolla**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Capítulo IV, Art. 124)
+- **Desarrolla**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Capítulo IV, Art. 124)
+- **Modifica**: [**BOE-A-1995-25444**](../01_marco_normativo_general_y_organico/LO10_1995_codigo_penal.md) (D. Final sexta)
+- **Modifica**: [**LO1_1996 Proteccion Juridica del Menor**](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md) (D. Final octava)
+- **Modifica**: [**LO1_1996 Proteccion Juridica del Menor**](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md) (Art. 20 ter, Art. 779, Art. 780, D. Final novena) desde *(Art. 14 bis)*
+- **Modifica**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) (Art. 1) desde *(Art. 14 bis)*
+- **Modifica**: [**LO5_2000 Responsabilidad Penal de los Menores**](../01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 4, Art. 7) desde *(Art. 14 bis)*
+- **Modifica**: [**LO1_1996 Proteccion Juridica del Menor**](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md) (Art. 2) desde *(Título Preliminar, Art. 4)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 124) desde *(Título III, Capítulo IV. Del ámbito educativo artículo 30 Principios. El sistema educativo debe regirse por el respeto mutuo de todos los miembros de la comunidad educativa y debe fomentar una educación accesible, igualitaria, inclusiva y de calidad que permita el desarrollo pleno de los niños, niñas y adolescentes y su participación en una escuela segura y libre de violencia, en la que se garantice el respeto, la igualdad y la promoción de todos sus derechos fundamentales y libertades públicas, empleando métodos pacíficos de comunicación, negociación y resolución de conflictos.)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 124) desde *(Título III, Capítulo IV. Del ámbito educativo artículo 30 Principios. El sistema educativo debe regirse por el respeto mutuo de todos los miembros de la comunidad educativa y debe fomentar una educación accesible, igualitaria, inclusiva y de calidad que permita el desarrollo pleno de los niños, niñas y adolescentes y su participación en una escuela segura y libre de violencia, en la que se garantice el respeto, la igualdad y la promoción de todos sus derechos fundamentales y libertades públicas, empleando métodos pacíficos de comunicación, negociación y resolución de conflictos.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 124) desde *(Título III, Capítulo IV. Del ámbito educativo artículo 30 Principios. El sistema educativo debe regirse por el respeto mutuo de todos los miembros de la comunidad educativa y debe fomentar una educación accesible, igualitaria, inclusiva y de calidad que permita el desarrollo pleno de los niños, niñas y adolescentes y su participación en una escuela segura y libre de violencia, en la que se garantice el respeto, la igualdad y la promoción de todos sus derechos fundamentales y libertades públicas, empleando métodos pacíficos de comunicación, negociación y resolución de conflictos.)*
+- **Modifica**: [**LO1_1996 Proteccion Juridica del Menor**](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md) (Art. 22 ter) desde *(Título III, Capítulo VII. Del ámbito de los servicios sociales., Art. 44)*
+- **Modifica**: [**LO1_1996 Proteccion Juridica del Menor**](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md) (Título II, Capítulo IV, Art. 778 bis) desde *(Título IV, Art. 53)*
+- **Modifica**: [**LO1_1996 Proteccion Juridica del Menor**](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md) (Art. 20) desde *(Título V, Capítulo II. De la certificación negativa del Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos., D. Adicional novena. Seguridad Social de las personas acogedoras especializadas de dedicación exclusiva.)*
+- **Modifica**: [**BOE-A-1995-25444**](../01_marco_normativo_general_y_organico/LO10_1995_codigo_penal.md) (D. Final sexta) desde *(Título V, Capítulo II. De la certificación negativa del Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos., D. Final sexta. Modificación de la [Ley Orgánica 10/1995](../01_marco_normativo_general_y_organico/LO10_1995_codigo_penal.md), de 23 de noviembre, del Código Penal.)*
+- **Modifica**: [**BOE-A-1995-25444**](../01_marco_normativo_general_y_organico/LO10_1995_codigo_penal.md) desde *(Título V, Capítulo II. De la certificación negativa del Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos., D. Final sexta. Modificación de la [Ley Orgánica 10/1995](../01_marco_normativo_general_y_organico/LO10_1995_codigo_penal.md), de 23 de noviembre, del Código Penal.)*
+- **Modifica**: [**LO1_1996 Proteccion Juridica del Menor**](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md) (D. Final octava) desde *(Título V, Capítulo II. De la certificación negativa del Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos., D. Final octava. Modificación de la [Ley Orgánica 1/1996](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil.)*
+- **Modifica**: [**LO1_1996 Proteccion Juridica del Menor**](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md) desde *(Título V, Capítulo II. De la certificación negativa del Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos., D. Final octava. Modificación de la [Ley Orgánica 1/1996](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil.)*
+- **Modifica**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) desde *(Título V, Capítulo II. De la certificación negativa del Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos., D. Final décima. Modificación de la [Ley Orgánica 1/2004](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md), de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.)*
+- **Modifica**: [**LO5_2000 Responsabilidad Penal de los Menores**](../01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md) desde *(Título V, Capítulo II. De la certificación negativa del Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos., D. Final undécima. Modificación de la [Ley Orgánica 5/2000](../01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.)*
+- **Modifica**: [**LO1_1996 Proteccion Juridica del Menor**](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md) desde *(Título V, Capítulo II. De la certificación negativa del Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos., D. Final decimoquinta. Modificación de la Ley 15/2015, de 2 de julio, de la Jurisdicción Voluntaria.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, D. Final decimoctava) desde *(Art. 14 bis)*
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 129, Art. 19, Art. 26) desde *(Art. 14 bis)*
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 147) desde *(Título Preliminar, Art. 7)*
+- **Fundamentado en**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) (Art. 83) desde *(Título III, Capítulo IV. Del ámbito educativo artículo 30 Principios. El sistema educativo debe regirse por el respeto mutuo de todos los miembros de la comunidad educativa y debe fomentar una educación accesible, igualitaria, inclusiva y de calidad que permita el desarrollo pleno de los niños, niñas y adolescentes y su participación en una escuela segura y libre de violencia, en la que se garantice el respeto, la igualdad y la promoción de todos sus derechos fundamentales y libertades públicas, empleando métodos pacíficos de comunicación, negociación y resolución de conflictos., Art. 33)*
+- **Fundamentado en**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) (Art. 47) desde *(Título III, Capítulo XII. De la Agencia Española de Protección de Datos artículo 52 de la Agencia Española de Protección de Datos.)*
+- **Fundamentado en**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) (Art. 14, Art. 18, Art. 20) desde *(Título V, Capítulo II. De la certificación negativa del Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos., D. Final quinta. Modificación de la Ley 34/1988, de 11 de noviembre, General de Publicidad.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 14, Art. 18, Art. 20) desde *(Título V, Capítulo II. De la certificación negativa del Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos., D. Final quinta. Modificación de la Ley 34/1988, de 11 de noviembre, General de Publicidad.)*
+- **Fundamentado en**: `norm-es-c-1978` (Título III, Art. 149) desde *(Título V, Capítulo II. De la certificación negativa del Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos., D. Final decimoquinta. Modificación de la Ley 15/2015, de 2 de julio, de la Jurisdicción Voluntaria.)*
+- **Fundamentado en**: [**BOE-A-1995-25444**](../01_marco_normativo_general_y_organico/LO10_1995_codigo_penal.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2015-8222**](../01_marco_normativo_general_y_organico/LO8_2015_modificacion_sistema_proteccion_infancia_adolescencia.md)
+- **Fundamentado en**: [**BOE-A-2015-8470**](../01_marco_normativo_general_y_organico/L26_2015_modificacion_sistema_proteccion_infancia_adolescencia.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO5_2000 Responsabilidad Penal de los Menores**](../01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md)
+- **Fundamento de**: [**BOE-A-2026-2622**](../04_organizacion_escolar_y_funcionamiento/RD68_2026_regula_inspeccion_educativa.md)
+- **Fundamento de**: [**LO10_2022 Garantia Integral de la Libertad Sexual**](./LO10_2022_garantia_integral_libertad_sexual.md)
+- **Fundamento de**: `norm-mad-d-32-2019`
+- **Cita a**: `norm-es-c-1978` (Art. 39)
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 141) desde *(Título Preliminar, Art. 6)*
+- **Cita a**: `norm-es-c-1978` desde *(Título III, Capítulo VI. Del ámbito sanitario., Art. 39)*
+- **Cita a**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) (Art. 84) desde *(Título III, Capítulo VIII. De las nuevas tecnologías., Art. 45)*
+- **Cita a**: [**BOE-A-1995-25444**](../01_marco_normativo_general_y_organico/LO10_1995_codigo_penal.md) (Título VIII) desde *(Título V, Capítulo II. De la certificación negativa del Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos., Art. 57)*
+- **Cita a**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) (Art. 1) desde *(Título V, Capítulo II. De la certificación negativa del Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos., Art. 14 bis)*
+- **Cita a**: [**LO5_2000 Responsabilidad Penal de los Menores**](../01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md) (Art. 3) desde *(Título V, Capítulo II. De la certificación negativa del Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos., Art. 17 bis)*

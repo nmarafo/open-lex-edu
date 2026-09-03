@@ -32,17 +32,43 @@ tags:
 - profesorado
 - superdotacion
 relaciones:
+  concordancia:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 3
+  fundamentado_en:
+  - norma_id: norm-es-lo-8-1985
+    capitulo_origen: Capítulo III. Enseñanzas de régimen especial.
+    articulos_origen:
+    - D. Final primera. Título competencial.
+    articulos_destino:
+    - Art. 149
+    - Art. 43
+    - Art. 3
+    - Art. 4
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo III. Enseñanzas de régimen especial.
+    articulos_origen:
+    - D. Final primera. Título competencial.
+    articulos_destino:
+    - Art. 149
+    - Art. 43
+    - Art. 3
+    - Art. 4
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-ce-1978
   desarrolla:
   - norma_id: norm-es-lo-2-2006
-  fundamentado_en:
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-lo-8-1985
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '27'
+  - norma_id: '27'
   - norma_id: norm-es-lo-8-1985
 ---
+
 # Real Decreto 943/2003, de 18 de julio, por el que se regulan las condiciones para flexibilizar la duración de los diversos niveles y etapas del sistema educativo para los alumnos superdotados intelectualmente.
 
 ## Preámbulo
@@ -150,3 +176,14 @@ PILAR DEL CASTILLO VERA
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 149, Art. 43, Art. 3, Art. 4, D. Adicional primera) desde *(Capítulo III. Enseñanzas de régimen especial., D. Final primera. Título competencial.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 43, Art. 3, Art. 4, D. Adicional primera) desde *(Capítulo III. Enseñanzas de régimen especial., D. Final primera. Título competencial.)*
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **En concordancia con**: `norm-es-c-1978` (Art. 3)

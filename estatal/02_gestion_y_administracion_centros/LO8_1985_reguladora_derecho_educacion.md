@@ -28,11 +28,71 @@ tags:
 - lode
 - profesorado
 relaciones:
+  cita:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 27
+    - Art. 20
+    - Art. 14
+    - Art. 16
+    - Art. 23
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 27
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-c-1978
+    titulo_destino: Título I
+    capitulo_destino: Capítulo III
+    articulos_destino:
+    - Art. 4
+  - norma_id: norm-es-c-1978
+    titulo_destino: Título III
+    articulos_destino:
+    - Art. 27
+  - norma_id: norm-es-c-1978
+    titulo_destino: Título IV
+    articulos_destino:
+    - Art. 27
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título PRIMERO
+    capitulo_origen: Capítulo III. De los centros privados.
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título PRIMERO
+    capitulo_origen: Capítulo III. De los centros privados.
+    titulo_destino: Título PRELIMINAR
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título SEGUNDO
+    articulos_destino:
+    - Art. 27
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título CUARTO
+    articulos_destino:
+    - Art. 16
+    - Art. 20
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título CUARTO
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título CUARTO
+  desarrolla:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 27
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título PRIMERO
+    capitulo_origen: Capítulo II. De los centros públicos.
+    articulos_destino:
+    - Art. 27
+  fundamentado_en:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+  - norma_id: norm-es-ce-1978
   desarrollado_por:
   - norma_id: norm-es-rd-1533-1986
   - norma_id: norm-es-rd-2377-1985
-  fundamentado_en:
-  - norma_id: norm-es-ce-1978
   fundamento_de:
   - norma_id: norm-es-1987-15278
   - norma_id: norm-es-1988-3987
@@ -53,16 +113,12 @@ relaciones:
   - norma_id: norm-es-rd-157-2022
   - norma_id: norm-es-rd-659-2023
   - norma_id: norm-es-rd-943-2003
-  - norma_id: norm-can-res-boc-2024-117-93
-  - norma_id: norm-can-res-boc-2022-158-21
-  - norma_id: norm-can-res-boc-2026-109-92
-  - norma_id: norm-can-res-boc-2004-189-65
-  - norma_id: norm-can-d-114-2011
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
+  - norma_id: '27'
 ---
+
 # Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación.
 
 ## Preámbulo
@@ -904,3 +960,45 @@ FELIPE GONZÁLEZ MÁRQUEZ
 ### Fundamentos de Derecho
 
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-c-1978` (Art. 27)
+- **Desarrolla**: `norm-es-c-1978` (Art. 27) desde *(Título PRIMERO, Capítulo II. De los centros públicos.)*
+- **Fundamentado en**: `norm-es-c-1978` desde *(Título Preliminar)*
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamento de**: [**BOE-A-1987-15278**](./L12_1987_establecimiento_gratuidad_estudios_bachillerato_formacion_profesional.md)
+- **Fundamento de**: [**BOE-A-1988-3987**](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md)
+- **Fundamento de**: [**BOE-A-1993-16128**](./RD806_1993_regimen_centros_docentes_extranjeros_espana.md)
+- **Fundamento de**: [**BOE-A-1995-22212**](../08_personal_docente/RD1635_1995_adscribe_profesorado_cuerpos_profesores_ensenanza_secundaria.md)
+- **Fundamento de**: [**BOE-A-1998-10720**](../08_personal_docente/RD777_1998_desarrollan_determinados_aspectos_ordenacion_formacion_profesional.md)
+- **Fundamento de**: [**BOE-A-2000-5990**](../03_ordenacion_curricular_y_ensenanzas/RD320_2000_establecen_titulos_tecnico_deportivo_tecnico_deportivo.md)
+- **Fundamento de**: [**BOE-A-2002-12018**](../03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md)
+- **Fundamento de**: [**BOE-A-2007-19326**](../03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md)
+- **Fundamento de**: [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md)
+- **Fundamento de**: [**BOE-A-2014-2222**](../03_ordenacion_curricular_y_ensenanzas/RD126_2014_establece_curriculo_basico_educacion_primaria.md)
+- **Fundamento de**: [**BOE-A-2024-11613**](../03_ordenacion_curricular_y_ensenanzas/L1_2024_regulan_ensenanzas_artisticas_superiores_establece_organizacion.md)
+- **Fundamento de**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
+- **Fundamento de**: [**LO10_2022 Garantia Integral de la Libertad Sexual**](../07_convivencia_bienestar_y_protocolos/LO10_2022_garantia_integral_libertad_sexual.md)
+- **Fundamento de**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
+- **Fundamento de**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](./RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
+- **Fundamento de**: [**RD157_2022 Ensenanzas Minimas de Educacion Primaria**](../03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md)
+- **Fundamento de**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **Fundamento de**: [**RD943_2003 Flexibilizacion para Alumnado con Altas Capacidades**](../06_atencion_diversidad_y_orientacion/RD943_2003_regulan_condiciones_flexibilizar_duracion_diversos_niveles.md)
+- **Cita a**: `norm-es-c-1978` (Art. 27, Art. 20, Art. 14, Art. 16, Art. 23)
+- **Cita a**: `norm-es-c-1978` (Art. 27)
+- **Cita a**: `norm-es-c-1978`
+- **Cita a**: `norm-es-c-1978` (Título I, Capítulo III, Art. 4)
+- **Cita a**: `norm-es-c-1978` (Título III, Art. 27)
+- **Cita a**: `norm-es-c-1978` (Título IV, Art. 27)
+- **Cita a**: `norm-es-c-1978` desde *(Título Preliminar)*
+- **Cita a**: `norm-es-c-1978` desde *(Título PRIMERO, Capítulo III. De los centros privados.)*
+- **Cita a**: `norm-es-c-1978` (Título PRELIMINAR) desde *(Título PRIMERO, Capítulo III. De los centros privados.)*
+- **Cita a**: `norm-es-c-1978` (Art. 27) desde *(Título SEGUNDO)*
+- **Cita a**: `norm-es-c-1978` (Art. 16, Art. 20) desde *(Título CUARTO)*
+- **Cita a**: `norm-es-c-1978` (Art. 149) desde *(Título CUARTO)*
+- **Cita a**: `norm-es-c-1978` desde *(Título CUARTO)*

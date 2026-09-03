@@ -28,7 +28,246 @@ tags:
 - oposiciones
 - titulacion
 relaciones:
+  modifica:
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 38
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 38
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 38
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 42
+    - Art. 38
+  - norma_id: norm-es-2016-3229
+    articulos_destino:
+    - Art. 42
+    - Art. 38
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 42
+    - Art. 38
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 42
+    - Art. 38
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo I
+    articulos_destino:
+    - Art. 1
+    - Art. 38
+    - Art. 69
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo I
+    articulos_destino:
+    - Art. 1
+    - Art. 38
+    - Art. 69
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo I
+    articulos_destino:
+    - Art. 1
+    - Art. 38
+    - Art. 69
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo V. Criterios específicos para la adjudicación de plazas
+      por las Universidades públicas.
+    articulos_origen:
+    - D. Adicional tercera. Estudiantes en posesión de títulos, estudios y diplomas
+      obtenidos con anterioridad a la entrada en vigor de la [Ley Orgánica 8/2013](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md),
+      de 9 de diciembre, para la Mejora de la Calidad Educativa.
+    articulos_destino:
+    - Art. 38
+  - norma_id: norm-es-2016-3229
+    capitulo_origen: Capítulo V. Criterios específicos para la adjudicación de plazas
+      por las Universidades públicas.
+    articulos_origen:
+    - D. Adicional tercera. Estudiantes en posesión de títulos, estudios y diplomas
+      obtenidos con anterioridad a la entrada en vigor de la [Ley Orgánica 8/2013](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md),
+      de 9 de diciembre, para la Mejora de la Calidad Educativa.
+    articulos_destino:
+    - Art. 38
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo V. Criterios específicos para la adjudicación de plazas
+      por las Universidades públicas.
+    articulos_origen:
+    - D. Adicional tercera. Estudiantes en posesión de títulos, estudios y diplomas
+      obtenidos con anterioridad a la entrada en vigor de la [Ley Orgánica 8/2013](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md),
+      de 9 de diciembre, para la Mejora de la Calidad Educativa.
+    articulos_destino:
+    - Art. 38
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo V. Criterios específicos para la adjudicación de plazas
+      por las Universidades públicas.
+    articulos_origen:
+    - D. Adicional tercera. Estudiantes en posesión de títulos, estudios y diplomas
+      obtenidos con anterioridad a la entrada en vigor de la [Ley Orgánica 8/2013](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md),
+      de 9 de diciembre, para la Mejora de la Calidad Educativa.
+    articulos_destino:
+    - Art. 38
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo V. Criterios específicos para la adjudicación de plazas
+      por las Universidades públicas.
+    articulos_origen:
+    - D. Adicional tercera. Estudiantes en posesión de títulos, estudios y diplomas
+      obtenidos con anterioridad a la entrada en vigor de la [Ley Orgánica 8/2013](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md),
+      de 9 de diciembre, para la Mejora de la Calidad Educativa.
+    articulos_destino:
+    - Art. 37
+  - norma_id: norm-es-2016-3229
+    capitulo_origen: Capítulo V. Criterios específicos para la adjudicación de plazas
+      por las Universidades públicas.
+    articulos_origen:
+    - D. Adicional tercera. Estudiantes en posesión de títulos, estudios y diplomas
+      obtenidos con anterioridad a la entrada en vigor de la [Ley Orgánica 8/2013](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md),
+      de 9 de diciembre, para la Mejora de la Calidad Educativa.
+    articulos_destino:
+    - Art. 37
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo V. Criterios específicos para la adjudicación de plazas
+      por las Universidades públicas.
+    articulos_origen:
+    - D. Adicional tercera. Estudiantes en posesión de títulos, estudios y diplomas
+      obtenidos con anterioridad a la entrada en vigor de la [Ley Orgánica 8/2013](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md),
+      de 9 de diciembre, para la Mejora de la Calidad Educativa.
+    articulos_destino:
+    - Art. 37
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo V. Criterios específicos para la adjudicación de plazas
+      por las Universidades públicas.
+    articulos_origen:
+    - D. Adicional tercera. Estudiantes en posesión de títulos, estudios y diplomas
+      obtenidos con anterioridad a la entrada en vigor de la [Ley Orgánica 8/2013](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md),
+      de 9 de diciembre, para la Mejora de la Calidad Educativa.
+    articulos_destino:
+    - Art. 37
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo V. Criterios específicos para la adjudicación de plazas
+      por las Universidades públicas.
+    articulos_origen:
+    - D. Adicional cuarta. Calendario de implantación.
+    articulos_destino:
+    - Art. 37
+  - norma_id: norm-es-2016-3229
+    capitulo_origen: Capítulo V. Criterios específicos para la adjudicación de plazas
+      por las Universidades públicas.
+    articulos_origen:
+    - D. Adicional cuarta. Calendario de implantación.
+    articulos_destino:
+    - Art. 37
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo V. Criterios específicos para la adjudicación de plazas
+      por las Universidades públicas.
+    articulos_origen:
+    - D. Adicional cuarta. Calendario de implantación.
+    articulos_destino:
+    - Art. 37
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo V. Criterios específicos para la adjudicación de plazas
+      por las Universidades públicas.
+    articulos_origen:
+    - D. Adicional cuarta. Calendario de implantación.
+    articulos_destino:
+    - Art. 37
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo V. Criterios específicos para la adjudicación de plazas
+      por las Universidades públicas.
+    articulos_origen:
+    - D. Transitoria única. Cursos académicos 2014-2015 a 2016-2017. 1. Sin perjuicio
+      de lo dispuesto en la disposición adicional cuarta, para la admisión a los estudios
+      universitarios oficiales de Grado en las Universidades españolas en los cursos
+      académicos 2014-2015, 2015-2016 y 2016-2017 las Universidades podrán utilizar
+      como criterio de valoración en los procedimientos de admisión la superación
+      de las materias de la prueba de acceso a la universidad y la calificación obtenida
+      en las mismas.
+    articulos_destino:
+    - Art. 38
+    - Art. 9
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo V. Criterios específicos para la adjudicación de plazas
+      por las Universidades públicas.
+    articulos_origen:
+    - D. Transitoria única. Cursos académicos 2014-2015 a 2016-2017. 1. Sin perjuicio
+      de lo dispuesto en la disposición adicional cuarta, para la admisión a los estudios
+      universitarios oficiales de Grado en las Universidades españolas en los cursos
+      académicos 2014-2015, 2015-2016 y 2016-2017 las Universidades podrán utilizar
+      como criterio de valoración en los procedimientos de admisión la superación
+      de las materias de la prueba de acceso a la universidad y la calificación obtenida
+      en las mismas.
+    articulos_destino:
+    - Art. 38
+    - Art. 9
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo V. Criterios específicos para la adjudicación de plazas
+      por las Universidades públicas.
+    articulos_origen:
+    - D. Transitoria única. Cursos académicos 2014-2015 a 2016-2017. 1. Sin perjuicio
+      de lo dispuesto en la disposición adicional cuarta, para la admisión a los estudios
+      universitarios oficiales de Grado en las Universidades españolas en los cursos
+      académicos 2014-2015, 2015-2016 y 2016-2017 las Universidades podrán utilizar
+      como criterio de valoración en los procedimientos de admisión la superación
+      de las materias de la prueba de acceso a la universidad y la calificación obtenida
+      en las mismas.
+    articulos_destino:
+    - Art. 38
+    - Art. 9
+  cita:
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 27
+  - norma_id: norm-es-2016-3229
+    capitulo_origen: Capítulo II. Acceso a los estudios universitarios oficiales de
+      Grado.
+    articulos_origen:
+    - Art. 3
+  - norma_id: norm-es-2016-3229
+    capitulo_origen: Capítulo III. Admisión a las enseñanzas universitarias oficiales
+      de Grado.
+    articulos_origen:
+    - Art. 9
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo IV. Procedimientos específicos de acceso y admisión.
+    seccion_origen: Sección 1. ª Personas mayores de 25 años artículo 11 Acceso a
+      las enseñanzas universitarias oficiales de Grado para mayores de 25 años. Las
+      personas mayores de 25 años de edad que no posean ninguna titulación académica
+      que de acceso a la universidad por otras vías, podrán acceder a las enseñanzas
+      universitarias oficiales de Grado mediante la superación de una prueba de acceso.
+      Sólo podrán concurrir a dicha prueba de acceso quienes cumplan o hayan cumplido
+      los 25 años de edad en el año natural en que se celebre dicha prueba.
+    articulos_origen:
+    - Art. 15
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo IV. Procedimientos específicos de acceso y admisión.
+    seccion_origen: Sección 3. ª Personas mayores de 45 años
+    articulos_origen:
+    - Art. 20
+  - norma_id: norm-es-2016-3229
+    capitulo_origen: Capítulo V. Criterios específicos para la adjudicación de plazas
+      por las Universidades públicas.
+    articulos_origen:
+    - D. Adicional tercera. Estudiantes en posesión de títulos, estudios y diplomas
+      obtenidos con anterioridad a la entrada en vigor de la [Ley Orgánica 8/2013](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md),
+      de 9 de diciembre, para la Mejora de la Calidad Educativa.
+    disposiciones_destino:
+    - D. Adicional tercera
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo V. Criterios específicos para la adjudicación de plazas
+      por las Universidades públicas.
+    articulos_origen:
+    - D. Final primera. Título competencial y carácter básico.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2016-3229
   - norma_id: norm-es-2021-20113
@@ -36,17 +275,16 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   fundamento_de:
   - norma_id: norm-es-2023-3846
-  - norma_id: norm-can-res-juriscan-72176-78
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '1'
-  - '2'
+  - norma_id: '1'
+  - norma_id: '2'
   - norma_id: norm-es-2016-3229
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
 ---
+
 # Real Decreto 412/2014, de 6 de junio, por el que se establece la normativa básica de los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado.
 
 ## Preámbulo
@@ -540,3 +778,50 @@ JOSÉ IGNACIO WERT ORTEGA
 - [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 38)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 38)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 38)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 42, Art. 38)
+- **Modifica**: [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md) (Art. 42, Art. 38)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 42, Art. 38)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 42, Art. 38)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 1, Art. 38, Art. 69) desde *(Capítulo I)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 1, Art. 38, Art. 69) desde *(Capítulo I)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 1, Art. 38, Art. 69) desde *(Capítulo I)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 38) desde *(Capítulo V. Criterios específicos para la adjudicación de plazas por las Universidades públicas., D. Adicional tercera. Estudiantes en posesión de títulos, estudios y diplomas obtenidos con anterioridad a la entrada en vigor de la [Ley Orgánica 8/2013](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa.)*
+- **Modifica**: [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md) (Art. 38) desde *(Capítulo V. Criterios específicos para la adjudicación de plazas por las Universidades públicas., D. Adicional tercera. Estudiantes en posesión de títulos, estudios y diplomas obtenidos con anterioridad a la entrada en vigor de la [Ley Orgánica 8/2013](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 38) desde *(Capítulo V. Criterios específicos para la adjudicación de plazas por las Universidades públicas., D. Adicional tercera. Estudiantes en posesión de títulos, estudios y diplomas obtenidos con anterioridad a la entrada en vigor de la [Ley Orgánica 8/2013](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 38) desde *(Capítulo V. Criterios específicos para la adjudicación de plazas por las Universidades públicas., D. Adicional tercera. Estudiantes en posesión de títulos, estudios y diplomas obtenidos con anterioridad a la entrada en vigor de la [Ley Orgánica 8/2013](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 37) desde *(Capítulo V. Criterios específicos para la adjudicación de plazas por las Universidades públicas., D. Adicional tercera. Estudiantes en posesión de títulos, estudios y diplomas obtenidos con anterioridad a la entrada en vigor de la [Ley Orgánica 8/2013](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa.)*
+- **Modifica**: [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md) (Art. 37) desde *(Capítulo V. Criterios específicos para la adjudicación de plazas por las Universidades públicas., D. Adicional tercera. Estudiantes en posesión de títulos, estudios y diplomas obtenidos con anterioridad a la entrada en vigor de la [Ley Orgánica 8/2013](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 37) desde *(Capítulo V. Criterios específicos para la adjudicación de plazas por las Universidades públicas., D. Adicional tercera. Estudiantes en posesión de títulos, estudios y diplomas obtenidos con anterioridad a la entrada en vigor de la [Ley Orgánica 8/2013](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 37) desde *(Capítulo V. Criterios específicos para la adjudicación de plazas por las Universidades públicas., D. Adicional tercera. Estudiantes en posesión de títulos, estudios y diplomas obtenidos con anterioridad a la entrada en vigor de la [Ley Orgánica 8/2013](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 37) desde *(Capítulo V. Criterios específicos para la adjudicación de plazas por las Universidades públicas., D. Adicional cuarta. Calendario de implantación.)*
+- **Modifica**: [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md) (Art. 37) desde *(Capítulo V. Criterios específicos para la adjudicación de plazas por las Universidades públicas., D. Adicional cuarta. Calendario de implantación.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 37) desde *(Capítulo V. Criterios específicos para la adjudicación de plazas por las Universidades públicas., D. Adicional cuarta. Calendario de implantación.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 37) desde *(Capítulo V. Criterios específicos para la adjudicación de plazas por las Universidades públicas., D. Adicional cuarta. Calendario de implantación.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 38, Art. 9) desde *(Capítulo V. Criterios específicos para la adjudicación de plazas por las Universidades públicas., D. Transitoria única. Cursos académicos 2014-2015 a 2016-2017. 1. Sin perjuicio de lo dispuesto en la disposición adicional cuarta, para la admisión a los estudios universitarios oficiales de Grado en las Universidades españolas en los cursos académicos 2014-2015, 2015-2016 y 2016-2017 las Universidades podrán utilizar como criterio de valoración en los procedimientos de admisión la superación de las materias de la prueba de acceso a la universidad y la calificación obtenida en las mismas.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 38, Art. 9) desde *(Capítulo V. Criterios específicos para la adjudicación de plazas por las Universidades públicas., D. Transitoria única. Cursos académicos 2014-2015 a 2016-2017. 1. Sin perjuicio de lo dispuesto en la disposición adicional cuarta, para la admisión a los estudios universitarios oficiales de Grado en las Universidades españolas en los cursos académicos 2014-2015, 2015-2016 y 2016-2017 las Universidades podrán utilizar como criterio de valoración en los procedimientos de admisión la superación de las materias de la prueba de acceso a la universidad y la calificación obtenida en las mismas.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 38, Art. 9) desde *(Capítulo V. Criterios específicos para la adjudicación de plazas por las Universidades públicas., D. Transitoria única. Cursos académicos 2014-2015 a 2016-2017. 1. Sin perjuicio de lo dispuesto en la disposición adicional cuarta, para la admisión a los estudios universitarios oficiales de Grado en las Universidades españolas en los cursos académicos 2014-2015, 2015-2016 y 2016-2017 las Universidades podrán utilizar como criterio de valoración en los procedimientos de admisión la superación de las materias de la prueba de acceso a la universidad y la calificación obtenida en las mismas.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27)
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(Capítulo V. Criterios específicos para la adjudicación de plazas por las Universidades públicas., D. Final primera. Título competencial y carácter básico.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**BOE-A-2023-3846**](../02_gestion_y_administracion_centros/R13_2_2023_subsecretaria_publica_resolucion_conjunta_secretaria_estado.md)
+- **Cita a**: [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
+- **Cita a**: `norm-es-c-1978` (Art. 27)
+- **Cita a**: [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md) desde *(Capítulo II. Acceso a los estudios universitarios oficiales de Grado., Art. 3)*
+- **Cita a**: [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md) desde *(Capítulo III. Admisión a las enseñanzas universitarias oficiales de Grado., Art. 9)*
+- **Cita a**: `norm-es-c-1978` desde *(Capítulo IV. Procedimientos específicos de acceso y admisión., Art. 15)*
+- **Cita a**: `norm-es-c-1978` desde *(Capítulo IV. Procedimientos específicos de acceso y admisión., Art. 20)*
+- **Cita a**: [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md) (D. Adicional tercera) desde *(Capítulo V. Criterios específicos para la adjudicación de plazas por las Universidades públicas., D. Adicional tercera. Estudiantes en posesión de títulos, estudios y diplomas obtenidos con anterioridad a la entrada en vigor de la [Ley Orgánica 8/2013](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa.)*

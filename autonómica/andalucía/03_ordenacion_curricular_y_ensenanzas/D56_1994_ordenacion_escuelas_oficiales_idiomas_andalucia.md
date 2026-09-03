@@ -32,6 +32,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Decreto 56/1994, de 1 de marzo, por el que se establece la ordenación de las Enseñanzas de Idiomas de Régimen Especial en la Comunidad Autónoma de Andalucía.
 
 ## Preámbulo
@@ -80,8 +81,6 @@ Boletín 31
 
 ##
 
-Histórico del BOJA Boletín número 31 de 15/3/1994
-
 ## 2. Autoridades y personal2.2 Oposiciones y concursos
 
 ### Consejería de Gobernación
@@ -126,9 +125,7 @@ Una vez subsanados los errores y reclamaciones, por Resolución del Director del
 
 Sevilla, 9 de marzo de 1994.- El Director, Antonio Roig López.
 
-## Anexo
-
-01 Sistema de acceso en blanco
+## Anexo 01. Sistema de acceso en blanco
 
 02. Convocatoria en blanco o no existente
 
@@ -200,3 +197,13 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

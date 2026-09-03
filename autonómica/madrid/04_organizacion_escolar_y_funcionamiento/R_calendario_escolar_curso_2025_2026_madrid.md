@@ -26,24 +26,52 @@ tags:
 - vacaciones
 - madrid
 relaciones:
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-  - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-mad-d-36-2022
+    articulos_destino:
+    - Art. 2
+    disposiciones_destino:
+    - D. Adicional quinta
+  - norma_id: norm-mad-d-61-2022
+    articulos_destino:
+    - Art. 2
+    disposiciones_destino:
+    - D. Adicional quinta
+  - norma_id: norm-mad-d65-2022
+    articulos_destino:
+    - Art. 2
+    disposiciones_destino:
+    - D. Adicional quinta
   - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 2
+    disposiciones_destino:
+    - D. Adicional quinta
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 2
+    disposiciones_destino:
+    - D. Adicional quinta
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 2
+    disposiciones_destino:
+    - D. Adicional quinta
+  - norma_id: norm-mad-d-29-2013
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 ---
+
 # Resolución por la que se establece el calendario escolar para el curso 2025-2026 en los centros docentes no universitarios de la Comunidad de Madrid.
 
 ## Preámbulo
 
-Pág. 155 I. COMUNIDAD DE MADRID
-C) Otras Disposiciones Consejería de Educación, Ciencia y Universidades ORDEN 2034/2026, de 25 de mayo, de la Consejera de Educación, Ciencia y Universidades, por la que se establece el calendario escolar para el curso 2026/2027 en los centros educativos no universitarios sostenidos con fondos públicos de la Comunidad de Madrid. De acuerdo con lo establecido en la disposición adicional quinta de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, el calendario escolar se fijará anualmente por las Administraciones educativas, y comprenderá un mínimo de 175 días lectivos para las enseñanzas obligatorias. El Decreto 36/2022, de 8 de junio, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid la ordenación y el currículo de la etapa de Educación Infantil, el Decreto 61/2022, de 13 de julio, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid la ordenación y el currículo de la etapa de Educación Primaria y el Decreto 65/2022, de 20 de julio, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid la ordenación y el currículo de la Educación Secundaria Obligatoria, establecen que el calendario escolar se fijará anualmente por la consejería con competencias en materia de Educación. Por su parte, el Decreto 32/2011, de 2 de junio, del Consejo de Gobierno, por el que se establece el Plan de Estudios para la Comunidad de Madrid de las enseñanzas artísticas superiores de Grado en Arte Dramático, el Decreto 33/2011, de 2 de junio, del Consejo de Gobierno, por el que se establece el Plan de Estudios para la Comunidad de Madrid de las enseñanzas artísticas superiores de Grado en Conservación y Restauración de Bienes Culturales, el Decreto 34/2011, de 2 de junio, del Consejo de Gobierno, por el que se establece el Plan de Estudios para la Comunidad de Madrid de las enseñanzas artísticas superiores de Grado en Diseño, el Decreto 35/2011, de 2 de junio, del Consejo de Gobierno, por el que se establece el Plan de Estudios para la Comunidad de Madrid de las enseñanzas artísticas superiores de Grado en Danza y el Decreto 36/2011, de 2 de junio, del Consejo de Gobierno, por el que se establece el Plan de Estudios para la Comunidad de Madrid de las enseñanzas artísticas superiores de Grado en Música, indican que la duración del curso de las enseñanzas artísticas superiores será de 36 semanas, incluyendo los períodos lectivos y los dedicados a otras actividades presenciales, indicando igualmente que el calendario académico se publicará anualmente por la consejería con competencias en materia de Educación. En el proceso de elaboración de esta orden, se ha oído a las organizaciones representativas de los profesores y ha emitido dictamen el Consejo Escolar de la Comunidad de Madrid, de acuerdo con el artículo 2.1 de la Ley 12/1999, de 29 de abril, de creación del Consejo Escolar de la Comunidad de Madrid. De conformidad con la normativa citada anteriormente y en uso de las competencias atribuidas por el Decreto 248/2023, de 11 de octubre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Educación, Ciencia y Universidades,
 DISPONGO:
-Primero Objeto y ámbito de aplicación La presente orden tiene por objeto establecer el calendario escolar para el curso 2026/2027. Su contenido será de aplicación en los centros sostenidos con fondos públicos que impartan enseñanzas de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato, Formación Profesional, Enseñanzas de Idiomas, Enseñanzas Artísticas, Educación de Personas Adultas y etapas de Educación Especial en la Comunidad de Madrid.
 
-Pág. 156
+#### Artículo . #### Artículo . Primero Objeto y ámbito de aplicación La presente orden tiene por objeto establecer el calendario escolar para el curso 2026/2027. Su contenido será de aplicación en los centros sostenidos con fondos públicos que impartan enseñanzas de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato, Formación Profesional, Enseñanzas de Idiomas, Enseñanzas Artísticas, Educación de Personas Adultas y etapas de Educación Especial en la Comunidad de Madrid.
+
 Segundo Educación Infantil, Educación Primaria y Educación Especial Actividades escolares. Las actividades escolares se realizarán entre los días 1 de septiembre de 2026 y 30 de junio de 2027, salvo en las Escuelas Infantiles, Casas de Niños, unidades de primer ciclo de Educación Infantil autorizadas en colegios públicos y Escuelas Infantiles privadas sostenidas con fondos públicos, que realizarán su actividad escolar entre los días 1 de septiembre de 2026 y 30 de julio de 2027, con excepción, en todos los casos, de las correspondientes vacaciones y días festivos. Actividades lectivas.
 
 **2.2.1.** En las Escuelas Infantiles, Casas de Niños, unidades de primer ciclo de Educación Infantil autorizadas en colegios públicos y Escuelas Infantiles privadas sostenidas con fondos públicos, las actividades lectivas comenzarán el día 7 de septiembre de 2026 y finalizarán el día 30 de julio de 2027. Los alumnos escolarizados en unidades de segundo ciclo de Educación Infantil, en Escuelas Infantiles de la red pública de la Comunidad de Madrid y en Escuelas Infantiles privadas sostenidas con fondos públicos podrán acogerse al calendario del primer ciclo de Educación Infantil en las condiciones que oportunamente establezca la Consejería de Educación, Ciencia y Universidades.
@@ -52,8 +80,6 @@ Segundo Educación Infantil, Educación Primaria y Educación Especial Actividad
 
 **3.2.1.** En los centros que imparten Educación Secundaria Obligatoria, Bachillerato y Formación Profesional, las actividades lectivas comenzarán el día 8 de septiembre de 2026 y terminarán el día 18 de junio de 2027, excepto para los alumnos de segundo curso de Bachillerato, que finalizarán sus actividades lectivas en función de las necesidades derivadas de la realización de la prueba de acceso a la Universidad y sus procedimientos de admisión. La evaluación final en la Educación Secundaria Obligatoria, con carácter general, se realizará hasta el 18 de junio de 2027. En Bachillerato y Formación Profesional, con carácter general, la evaluación final ordinaria se realizará hasta el 10 de junio de 2027. El período comprendido hasta el 18 de junio de 2027 se destinará, según corresponda en cada caso, a:
 a) Actividades de apoyo, refuerzo, tutorización y realización de las pruebas extraordinarias de evaluación para alumnos con materias o módulos pendientes. b) Actividades formativas para alumnos sin materias o módulos pendientes. No obstante, en el marco de la autonomía de los centros, la evaluación final en la Educación Secundaria Obligatoria y las pruebas extraordinarias de evaluación para alumnos con materias o módulos pendientes en Bachillerato y Formación Profesional podrán realizarse hasta el día 23 de junio de 2027. **3.2.2.** En los centros de Educación de Personas Adultas las actividades lectivas comenzarán el día 21 de septiembre de 2026 y terminarán el día 18 de junio de 2027. **3.2.3.** En los Conservatorios Profesionales de Música y en los Conservatorios Profesionales de Danza, las actividades lectivas comenzarán el día 8 de septiembre de 2026 y finalizarán el día 18 de junio de 2027. La sesión de evaluación final ordinaria se realizará del 24 al 28 de mayo de 2027. En el período comprendido desde la finalización de dicha evaluación hasta el 18 de junio de 2027, se realizarán actividades de repaso y profundización, las pruebas extraordinarias y la evaluación final extraordinaria. Los alumnos de sexto curso
-
-Pág. 157 de enseñanzas profesionales finalizarán sus actividades lectivas en función de las necesidades derivadas de la prueba de acceso a la Universidad y sus procedimientos de admisión.
 
 **3.2.4.** En las Escuelas de Arte, las actividades lectivas comenzarán el día 9 de septiembre de 2026 para el segundo curso de los ciclos formativos de Artes Plásticas y Diseño, y el día 21 de septiembre de 2026 para el primer curso, y finalizarán el día 18 de junio de 2027. La evaluación final ordinaria se realizará hasta el 10 de junio de 2027. Hasta el 18 de junio de 2027, se realizarán actividades de refuerzo y profundización, las pruebas extraordinarias y la evaluación final extraordinaria.
 
@@ -72,7 +98,6 @@ Las actividades académicas se realizarán entre los días 1 de septiembre de 20
 
 **4.3.4.** Cada máster en enseñanzas artísticas determinará, de acuerdo con su memoria de verificación, las fechas concretas de comienzo y fin de las clases, las fechas de realización de las pruebas de evaluación, y la entrega y defensa de los trabajos fin de máster en convocatoria ordinaria y extraordinaria.
 
-Pág. 158
 Quinto Vacaciones escolares y otros días no lectivos para los centros educativos Vacaciones escolares:
 
 **5.1.1.** Navidad. Comprenderán desde el día 23 de diciembre de 2026 hasta el día 6 de enero de 2027, ambos inclusive.
@@ -84,17 +109,30 @@ Las festividades y los otros días no lectivos tendrán los mismos efectos para 
 
 **5.2.1.** Festividades:
 a) Año 2026:
-— 12 de octubre. — 2 de noviembre. — 7 y 8 de diciembre. — Las festividades de ámbito local que haya determinado cada municipio para el año 2026 publicadas en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID. b) Año 2027:
 Las festividades establecidas tras la firma y publicación de la presente orden tendrán vigencia en el curso 2026/2027 e incluirán:
-— Las festividades de ámbito nacional no trasladables que se establezcan para el año 2027. — Las establecidas por la Comunidad de Madrid para el año 2027, en el ejercicio de sus competencias. — Las fijadas por cada municipio para el año 2027 publicadas en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID.
 
 **5.2.2.** Otros días no lectivos:
 Los siguientes días serán no lectivos para los centros educativos:
 — 7 y 8 de enero de 2027. — 12 y 15 de febrero de 2027. — 19 y 29 de marzo de 2027. En el caso de las Escuelas Infantiles de la red pública de la Comunidad de Madrid, de las privadas financiadas con fondos públicos y de las unidades de primer ciclo de Educación Infantil autorizadas en colegios públicos de Educación Infantil y Primaria, únicamente serán no lectivos el 7 y 8 de enero de 2027. Los centros privados sostenidos con fondos públicos podrán cambiar, previo acuerdo del Consejo Escolar y notificación a la correspondiente Dirección de Área Territorial, uno de los citados días no lectivos al objeto de facilitar la celebración del patrono del centro. Dichos traslados de fecha deberán ser notificados con antelación suficiente tanto a las familias como a las Direcciones de Área Territorial.
 Sexto Especificaciones para la aplicación del calendario escolar en los centros educativos de titularidad pública Inicio de la actividad en los centros: los profesores comenzarán las actividades escolares en sus centros el día 1 de septiembre de 2026 (para realizar tareas de preparación, programación, coordinación, organización del curso), de conformidad con las horas semanales reglamentariamente establecidas.
 
-Pág. 159 D. L.: M. 19.462-1983 ISSN 1989-4791 Comedor escolar en colegios de Educación Infantil y Primaria y centros de Educación Especial: conforme a lo dispuesto en la normativa por la que se regulan los comedores escolares en los centros públicos no universitarios de la Comunidad de Madrid, el servicio de comedor escolar se prestará, con carácter general, durante todos los días lectivos del curso. Colegios públicos de Educación Infantil, Primaria y Educación Especial: en los períodos comprendidos entre el 7 y 30 de septiembre de 2026 y entre el 1 y 18 de junio de 2027, las actividades lectivas podrán realizarse durante la mañana, en jornada de cuatro horas, a excepción de las enseñanzas de primer ciclo de Educación Infantil autorizadas en colegios públicos de Educación Infantil y Primaria. Asimismo, previo acuerdo del Consejo Escolar, el día 22 de diciembre de 2026 podrán realizarse las actividades lectivas durante la mañana, en jornada de cuatro horas. En todos los casos, el servicio de comedor deberá permanecer abierto. Evaluaciones y trabajos relacionados con la finalización del curso escolar: a partir de la fecha establecida para la finalización de las actividades lectivas, los días hábiles hasta el 30 de junio de 2027 se dedicarán a completar la evaluación de alumnos, a la celebración de reuniones del claustro de profesores y del Consejo Escolar, así como a las demás actividades establecidas en las disposiciones normativas, en el marco de la autonomía organizativa de los centros. Asimismo, en los centros donde se impartan Enseñanzas de Idiomas y Enseñanzas Artísticas, a partir de la fecha de finalización de las actividades lectivas, los días hábiles hasta el 30 de junio de 2027 se dedicarán a las actividades académicas establecidas en la normativa vigente que regula dichas enseñanzas.
 Séptimo Especificaciones para la aplicación del calendario escolar en centros privados de Educación Infantil y Primaria sostenidos con fondos públicos En el período comprendido entre el 7 y el 30 de septiembre de 2026, el 22 de diciembre de 2026 y en el período entre el 1 y el 18 de junio de 2027, las actividades lectivas de estos centros podrán realizarse en jornada intensiva, de forma análoga a lo que se establezca para los centros públicos si así lo acuerda el titular del centro.
 Octavo Cumplimiento y publicidad En los centros sostenidos con fondos públicos, las fechas de inicio y final de curso para cada etapa o enseñanza tienen carácter de mínimos obligatorios. El curso no podrá iniciarse después, ni finalizar antes, de las fechas señaladas en cada caso, salvo las especificaciones indicadas para los centros de Enseñanzas Artísticas Superiores contenidas en los apartados 4.3.1 y
 
 **4.3.4.** El calendario escolar se expondrá en cada centro docente de forma visible para todos los interesados y se entregará copia del mismo a los miembros del Consejo Escolar y a las asociaciones constituidas de madres, padres y familias de alumnos para conocimiento de toda la comunidad educativa. Se expondrá, asimismo, en la web del centro. Los directores de los centros educativos son los responsables del cumplimiento del presente calendario escolar. El calendario escolar dispuesto en esta orden no podrá ser modificado salvo en casos excepcionales, que deberán ser justificados y comunicados con la debida antelación. En todo caso, toda modificación deberá ser previamente autorizada por la Viceconsejería de Política y Organización Educativa a propuesta de la Dirección de Área Territorial o de la Dirección General correspondiente. Madrid, a 25 de mayo de 2026. La Consejera de Educación, Ciencia y Universidades, MERCEDES ZARZALEJO CARBAJO (03/8.624/26)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**D36_2022 Ordenacion y Curriculo Educacion Infantil Madrid**](../03_ordenacion_curricular_y_ensenanzas/D36_2022_ordenacion_curriculo_educacion_infantil_madrid.md) (Art. 2, D. Adicional quinta)
+- **Fundamentado en**: [**D61_2022 Ordenacion y Curriculo Educacion Primaria Madrid**](../03_ordenacion_curricular_y_ensenanzas/D61_2022_ordenacion_curriculo_educacion_primaria_madrid.md) (Art. 2, D. Adicional quinta)
+- **Fundamentado en**: [**Decreto 65/2022, de 20 de julio, por el que se establece la ordenación y el**](../03_ordenacion_curricular_y_ensenanzas/D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md) (Art. 2, D. Adicional quinta)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 2, D. Adicional quinta)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 2, D. Adicional quinta)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 2, D. Adicional quinta)
+- **Fundamentado en**: [**D29_2013 Libertad Eleccion Centro Escolar Madrid**](../05_alumnado_y_servicios_escolares/D29_2013_libertad_eleccion_centro_escolar_madrid.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)

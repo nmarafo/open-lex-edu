@@ -34,6 +34,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-1-1996
 ---
+
 # Orden de 15 de enero de 2021, por la que se desarrolla el currículo de la Educación Especial y se regulan la atención a la diversidad y la orientación educativa en la Comunidad Autónoma de Andalucía.
 
 ## Preámbulo
@@ -78,23 +79,17 @@ Boletín 13
 
 ##
 
-Histórico del BOJA Boletín número 13 de 21/01/2021
-
 ## 1. Disposiciones generales
 
 ### Consejería de Salud y Familias
 
 ### Corrección de errores de la Resolución de 15 de enero de 2021, de la Delegación Territorial de Salud y Familias en Huelva, por la que se adoptan y modulan los niveles de alerta sanitaria y la aplicación de las medidas que corresponden por razón de la salud pública para la contención de la COVID-19, en los municipios que se detallan (BOJA extraordinario núm. 6, de 16.1.2021).
 
-Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad con CVE 00184634. Advertidos errores en la Resolución de 15 de enero de 2021, de la Delegación Territorial de Salud y Familias en Huelva, por la que se adoptan y modulan los niveles de alerta sanitaria y la aplicación de las medidas que corresponden por razón de la salud pública para la contención de la COVID-19, en los municipios que se detallan, que ha sido publicada en el BOJA extraordinario núm. 6, de 16.1.2021, procede su subsanación en los siguientes términos:
-
 Página núm. 43: Anexo I
 
 Donde dice:
 
-## Anexo I
-
-DISTRITO SANITARIO HUELVA-COSTA
+## Anexo I. DISTRITO SANITARIO HUELVA-COSTA
 
 MUNICIPIOS QUE SE DECLARAN EN NIVEL ALERTA SANITARIA 4 GRADO 1
 
@@ -152,9 +147,7 @@ VILLANUEVA DE LAS CRUCES
 
 Debe decir:
 
-## Anexo I
-
-DISTRITO SANITARIO HUELVA-COSTA
+## Anexo I. DISTRITO SANITARIO HUELVA-COSTA
 
 MUNICIPIOS QUE SE DECLARAN EN NIVEL ALERTA SANITARIA 4 GRADO 1
 
@@ -202,9 +195,7 @@ Páginas núm. 43 y 44: Anexo II
 
 Donde dice:
 
-## Anexo II
-
-DISTRITO SANITARIO CONDADO-CAMPIÑA (HUELVA)
+## Anexo II. DISTRITO SANITARIO CONDADO-CAMPIÑA (HUELVA)
 
 MUNICIPIOS QUE SE DECLARAN EN NIVEL SANITARIO 4 GRADO 1
 
@@ -256,9 +247,7 @@ VILLALBA DEL ALCOR
 
 Debe decir:
 
-## Anexo II
-
-DISTRITO SANITARIO CONDADO-CAMPIÑA (HUELVA)
+## Anexo II. DISTRITO SANITARIO CONDADO-CAMPIÑA (HUELVA)
 
 MUNICIPIOS QUE SE DECLARAN EN NIVEL SANITARIO 4 GRADO 1
 
@@ -306,9 +295,7 @@ Páginas núm. 44 y 45: Anexo III
 
 Donde dice:
 
-## Anexo III
-
-ÁREA DE GESTIÓN SANITARIA NORTE DE HUELVA
+## Anexo III. ÁREA DE GESTIÓN SANITARIA NORTE DE HUELVA
 
 MUNICIPIOS QUE SE DECLARAN EN NIVEL ALERTA SANITARIA 4 GRADO 1
 
@@ -410,9 +397,7 @@ CASTAÑO DEL ROBLEDO
 
 Debe decir:
 
-## Anexo III
-
-ÁREA DE GESTIÓN SANITARIA NORTE DE HUELVA
+## Anexo III. ÁREA DE GESTIÓN SANITARIA NORTE DE HUELVA
 
 MUNICIPIOS QUE SE DECLARAN EN NIVEL ALERTA SANITARIA 4 GRADO 1
 
@@ -523,3 +508,13 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)

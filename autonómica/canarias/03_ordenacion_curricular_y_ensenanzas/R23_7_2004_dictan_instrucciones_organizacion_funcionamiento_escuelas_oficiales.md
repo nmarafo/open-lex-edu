@@ -27,6 +27,31 @@ tags:
 - formacion-profesional
 - fp-basica
 relaciones:
+  desarrolla:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 4
+  - norma_id: norm-es-lo-2-2006
+  modifica:
+  - norma_id: norm-can-l-2-1987
+    articulos_destino:
+    - Art. 47
+    - Art. 48
+    - Art. 49
+    - Art. 36
+  - norma_id: norm-es-1984-17387
+    articulos_destino:
+    - Art. 47
+    - Art. 48
+    - Art. 49
+    - Art. 36
+  - norma_id: norm-can-l-2-1987
+    articulos_destino:
+    - Art. 47
+    - Art. 48
+  cita:
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-can-l-1-1997
   fundamentado_en:
   - norma_id: norm-can-l-1-1997
   - norma_id: norm-can-l-2-1987
@@ -35,12 +60,10 @@ relaciones:
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-can-l-1-1997
   - norma_id: norm-can-l-2-1987
   - norma_id: norm-es-1984-17387
@@ -48,6 +71,7 @@ relaciones:
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/2004/160/boc-2004-160-003.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=49002
 ---
+
 # Resolución de 23 de julio de 2004, de la Dirección General de Formación Profesional y Educación de Adultos, por la que se dictan instrucciones para la organización y funcionamiento de las Escuelas Oficiales de Idiomas dependientes de la Consejería de Educación, Cultura y Deportes del Gobierno de Canarias (BOC n.º 160, de 19 de agosto).
 
 ## Preámbulo
@@ -471,3 +495,23 @@ Las Secretarías de las Escuelas, a través de los tablones de anuncios, así co
 - [**L2_1987 Ley de la Funcion Publica Canaria**](../01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md)
 - [**BOE-A-1984-17387**](../../../estatal/01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
 - [**BOE-A-2001-7022**](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-c-1978` (Art. 4)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**L2_1987 Ley de la Funcion Publica Canaria**](../01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md) (Art. 47, Art. 48, Art. 49, Art. 36)
+- **Modifica**: [**BOE-A-1984-17387**](../../../estatal/01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) (Art. 47, Art. 48, Art. 49, Art. 36)
+- **Modifica**: [**L2_1987 Ley de la Funcion Publica Canaria**](../01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md) (Art. 47, Art. 48)
+- **Fundamentado en**: [**L1_1997 Ley de Atencion Integral a los Menores de Canarias**](../01_marco_normativo_general_y_organico/L1_1997_atencion_integral_menores.md)
+- **Fundamentado en**: [**L2_1987 Ley de la Funcion Publica Canaria**](../01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**BOE-A-1984-17387**](../../../estatal/01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
+- **Fundamentado en**: [**BOE-A-2001-7022**](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**BOE-A-2001-7022**](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Cita a**: [**L1_1997 Ley de Atencion Integral a los Menores de Canarias**](../01_marco_normativo_general_y_organico/L1_1997_atencion_integral_menores.md)

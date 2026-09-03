@@ -25,13 +25,191 @@ tags:
 - etapa_infantil
 - andalucia
 relaciones:
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
-  fundamentado_en:
+  cita:
+  - norma_id: norm-and-d100-2023
+  - norma_id: norm-es-rd-95-2022
+  - norma_id: norm-es-lo-3-2020
   - norma_id: norm-and-l17-2007
-  - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 129
+    - Art. 133
+    - Art. 7
+  - norma_id: norm-es-rd-95-2022
+    capitulo_origen: Capítulo I. Disposiciones de carácter general.
+    articulos_origen:
+    - Art. 3
+  - norma_id: norm-es-rd-95-2022
+    capitulo_origen: Capítulo II. Ordenación de la etapa.
+    articulos_origen:
+    - Art. 6
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo II. Ordenación de la etapa.
+    articulos_origen:
+    - Art. 10
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo II. Ordenación de la etapa.
+    articulos_origen:
+    - Art. 10
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo II. Ordenación de la etapa.
+    articulos_origen:
+    - Art. 10
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo III. Evaluación.
+    articulos_origen:
+    - Art. 13
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo III. Evaluación.
+    articulos_origen:
+    - Art. 13
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo III. Evaluación.
+    articulos_origen:
+    - Art. 13
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo V. Tutoría y orientación.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 92
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo V. Tutoría y orientación.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 92
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo V. Tutoría y orientación.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 92
+  - norma_id: norm-and-d-328-2010
+    capitulo_origen: Capítulo V. Tutoría y orientación.
+    articulos_origen:
+    - Art. 17
+  - norma_id: norm-and-d328-2010
+    capitulo_origen: Capítulo V. Tutoría y orientación.
+    articulos_origen:
+    - Art. 17
+  fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 52
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-and-l17-2007
+    capitulo_origen: Capítulo I. Disposiciones de carácter general.
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-rd-95-2022
+    capitulo_origen: Capítulo III. Evaluación.
+    articulos_origen:
+    - Art. 11
+    articulos_destino:
+    - Art. 12
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo VI. Medidas de apoyo al profesorado y personal educador
+      para el desarrollo del currículo.
+    articulos_origen:
+    - D. Transitoria única. Calendario de aplicación.
+    articulos_destino:
+    - Art. 2
+    - Art. 4
+    - Art. 149
+    - Art. 12
+    disposiciones_destino:
+    - D. Adicional segunda
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo VI. Medidas de apoyo al profesorado y personal educador
+      para el desarrollo del currículo.
+    articulos_origen:
+    - D. Transitoria única. Calendario de aplicación.
+    articulos_destino:
+    - Art. 2
+    - Art. 4
+    - Art. 149
+    - Art. 12
+    disposiciones_destino:
+    - D. Adicional segunda
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo VI. Medidas de apoyo al profesorado y personal educador
+      para el desarrollo del currículo.
+    articulos_origen:
+    - D. Transitoria única. Calendario de aplicación.
+    articulos_destino:
+    - Art. 2
+    - Art. 4
+    - Art. 149
+    - Art. 12
+    disposiciones_destino:
+    - D. Adicional segunda
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VI. Medidas de apoyo al profesorado y personal educador
+      para el desarrollo del currículo.
+    articulos_origen:
+    - D. Transitoria única. Calendario de aplicación.
+    articulos_destino:
+    - Art. 2
+    - Art. 4
+    - Art. 149
+    - Art. 12
+    disposiciones_destino:
+    - D. Adicional segunda
+  - norma_id: norm-es-rd-95-2022
+    capitulo_origen: Capítulo VI. Medidas de apoyo al profesorado y personal educador
+      para el desarrollo del currículo.
+    articulos_origen:
+    - D. Transitoria única. Calendario de aplicación.
+    articulos_destino:
+    - Art. 2
+    - Art. 4
+    - Art. 149
+    - Art. 3
+    disposiciones_destino:
+    - D. Adicional primera
+    - D. Adicional segunda
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VI. Medidas de apoyo al profesorado y personal educador
+      para el desarrollo del currículo.
+    articulos_origen:
+    - D. Transitoria única. Calendario de aplicación.
+    articulos_destino:
+    - Art. 2
+    - Art. 4
+    - Art. 149
+    - Art. 3
+    disposiciones_destino:
+    - D. Adicional primera
+    - D. Adicional segunda
+  - norma_id: norm-es-l-39-2015
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-lo-3-2020
+  - norma_id: norm-es-c-1978
+  desarrolla:
+  - norma_id: norm-es-lo-3-2020
+  - norma_id: norm-and-l17-2007
+    capitulo_origen: Capítulo VI. Medidas de apoyo al profesorado y personal educador
+      para el desarrollo del currículo.
+    articulos_origen:
+    - Art. 18
+    articulos_destino:
+    - Art. 19
+  - norma_id: norm-es-lo-2-2006
 ---
+
 # Decreto 100/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la Educación Infantil en la Comunidad Autónoma de Andalucía.
 
 ## Preámbulo
@@ -70,15 +248,11 @@ Boletín 90
 
 ##
 
-Histórico del BOJA Boletín número 90 de 15/05/2023
-
 ## 1. Disposiciones generales
 
 ### Consejería de Desarrollo Educativo y Formación Profesional
 
 Decreto 100/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la etapa de Educación Infantil en la Comunidad Autónoma de Andalucía.
-
-Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad con CVE 00283496. La Comunidad Autónoma de Andalucía ostenta la competencia compartida para el establecimiento de los planes de estudio, incluida la ordenación curricular, de conformidad con lo dispuesto en el artículo 52.2 del Estatuto de Autonomía para Andalucía, sin perjuicio de lo recogido en el artículo 149.1.30.ª de la Constitución Española, a tenor del cual corresponde al Estado dictar las normas básicas para el desarrollo de su artículo 27, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
 La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, introduce importantes cambios en esta última, muchos de ellos derivados, tal y como indica la propia Ley Orgánica en su Exposición de Motivos, de la conveniencia de revisar las medidas previstas en el texto original con objeto de adaptar el Sistema Educativo a los retos y desafíos del siglo XXI de acuerdo con los objetivos fijados por la Unión Europea y la UNESCO para la década 2020/2030.
 
@@ -108,7 +282,7 @@ En su virtud, a propuesta de la Consejera de Desarrollo Educativo y Formación P
 
 DISPONGO:
 
-## Capítulo I. Disposiciones de carácter general.
+#### Artículo . #### Artículo . ## Capítulo I. Disposiciones de carácter general.
 
 #### Artículo 1. Objeto y ámbito de aplicación.
 
@@ -162,7 +336,7 @@ f) **Conciliación familiar y colaboración.** La etapa facilitará la conciliac
 
 g) **Cooperación.** Para su implementación y desarrollo, se fomentará la cooperación de las Corporaciones locales y otras entidades con la Administración educativa.
 
-## Capítulo II. Ordenación de la etapa.
+### Capítulo II. Ordenación de la etapa.
 
 #### Artículo 5. Objetivos de la etapa.
 
@@ -242,7 +416,7 @@ g) Atendiendo a lo recogido en el Capítulo I del Título II de la Ley 12/2007, 
 
 3. Los centros docentes que impartan una parte de las áreas del currículo en lenguas extranjeras aplicarán, en todo caso, los criterios para la admisión del alumnado establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación y en la normativa específica de aplicación en Andalucía. Entre tales criterios no se incluirán requisitos lingüísticos.
 
-## Capítulo III. Evaluación.
+### Capítulo III. Evaluación.
 
 #### Artículo 11. Evaluación.
 
@@ -274,7 +448,7 @@ Los documentos de evaluación son el informe anual de evaluación individualizad
 
 4. Los procedimientos de validación de estos documentos garantizarán su autenticidad, integridad y conservación, así como el cumplimiento de las garantías en materia de protección de datos de carácter personal, todo ello teniendo en cuenta lo dispuesto en el Decreto 622/2019, de 27 de diciembre, de administración electrónica, simplificación de procedimientos y racionalización organizativa de la Junta de Andalucía.
 
-## Capítulo IV. Atención a la diversidad y a las diferencias individuales.
+### Capítulo IV. Atención a la diversidad y a las diferencias individuales.
 
 #### Artículo 14. Atención a la diversidad y a las diferencias individuales.
 
@@ -308,7 +482,7 @@ e) La equidad y excelencia como garantes de la calidad educativa e igualdad de o
 
 6. Los padres, madres o personas que ejerzan la tutela legal del alumnado, según lo recogido en el Proyecto educativo del centro, recibirán información y asesoramiento respecto a las características y necesidades del alumnado, así como de las medidas a adoptar para su adecuada atención. Asimismo, serán preceptivamente oídos en el proceso de identificación y valoración del alumnado con necesidades educativas especiales según lo recogido en el apartado 3.c).
 
-## Capítulo V. Tutoría y orientación.
+### Capítulo V. Tutoría y orientación.
 
 #### Artículo 16. Principios de la acción tutorial.
 
@@ -348,7 +522,7 @@ Reglamento Orgánico de las escuelas infantiles de segundo grado, de los colegio
 
 4. Se procurará la continuidad durante el ciclo del mismo tutor o tutora.
 
-## Capítulo VI. Medidas de apoyo al profesorado y personal educador para el desarrollo del currículo.
+### Capítulo VI. Medidas de apoyo al profesorado y personal educador para el desarrollo del currículo.
 
 #### Artículo 18. Formación permanente del personal docente y personal educador.
 
@@ -400,9 +574,7 @@ PATRICIA DEL POZO FERNÁNDEZ
 
 Consejera de Desarrollo Educativo y Formación Profesional
 
-## Anexo
-
-Competencias clave de la etapa de Educación Infantil y Perfil Competencial
+## Anexo C. ompetencias clave de la etapa de Educación Infantil y Perfil Competencial
 
 La etapa de Educación Infantil supone el inicio del proceso de adquisición de las competencias clave para el aprendizaje permanente que aparecen recogidas en la Recomendación del Consejo de la Unión Europea de 22 de mayo de 2018. Dichas competencias son las siguientes:
 
@@ -605,3 +777,45 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-lo-3-2020`
+- **Desarrolla**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) (Art. 19) desde *(Capítulo VI. Medidas de apoyo al profesorado y personal educador para el desarrollo del currículo., Art. 18)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Modifica**: `norm-es-lo-3-2020`
+- **Modifica**: `norm-es-c-1978`
+- **Fundamentado en**: `norm-es-c-1978` (Art. 52, Art. 149, Art. 27)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) (Art. 3) desde *(Capítulo I. Disposiciones de carácter general., Art. 4)*
+- **Fundamentado en**: [**RD95_2022 Ensenanzas Minimas de Educacion Infantil**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md) (Art. 12) desde *(Capítulo III. Evaluación., Art. 11)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 2, Art. 4, Art. 149, Art. 12, D. Adicional segunda) desde *(Capítulo VI. Medidas de apoyo al profesorado y personal educador para el desarrollo del currículo., D. Transitoria única. Calendario de aplicación.)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 2, Art. 4, Art. 149, Art. 12, D. Adicional segunda) desde *(Capítulo VI. Medidas de apoyo al profesorado y personal educador para el desarrollo del currículo., D. Transitoria única. Calendario de aplicación.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 2, Art. 4, Art. 149, Art. 12, D. Adicional segunda) desde *(Capítulo VI. Medidas de apoyo al profesorado y personal educador para el desarrollo del currículo., D. Transitoria única. Calendario de aplicación.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 2, Art. 4, Art. 149, Art. 12, D. Adicional segunda) desde *(Capítulo VI. Medidas de apoyo al profesorado y personal educador para el desarrollo del currículo., D. Transitoria única. Calendario de aplicación.)*
+- **Fundamentado en**: [**RD95_2022 Ensenanzas Minimas de Educacion Infantil**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md) (Art. 2, Art. 4, Art. 149, Art. 3, D. Adicional primera, D. Adicional segunda) desde *(Capítulo VI. Medidas de apoyo al profesorado y personal educador para el desarrollo del currículo., D. Transitoria única. Calendario de aplicación.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 2, Art. 4, Art. 149, Art. 3, D. Adicional primera, D. Adicional segunda) desde *(Capítulo VI. Medidas de apoyo al profesorado y personal educador para el desarrollo del currículo., D. Transitoria única. Calendario de aplicación.)*
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**Decreto 100/2023, de 9 de mayo, por el que se establece la ordenación y el **](./D100_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md)
+- **Cita a**: [**RD95_2022 Ensenanzas Minimas de Educacion Infantil**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md)
+- **Cita a**: `norm-es-lo-3-2020`
+- **Cita a**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 129, Art. 133, Art. 7)
+- **Cita a**: [**RD95_2022 Ensenanzas Minimas de Educacion Infantil**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md) desde *(Capítulo I. Disposiciones de carácter general., Art. 3)*
+- **Cita a**: [**RD95_2022 Ensenanzas Minimas de Educacion Infantil**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md) desde *(Capítulo II. Ordenación de la etapa., Art. 6)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo II. Ordenación de la etapa., Art. 10)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo II. Ordenación de la etapa., Art. 10)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo II. Ordenación de la etapa., Art. 10)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional vigesimotercera) desde *(Capítulo III. Evaluación., Art. 13)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional vigesimotercera) desde *(Capítulo III. Evaluación., Art. 13)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional vigesimotercera) desde *(Capítulo III. Evaluación., Art. 13)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 92) desde *(Capítulo V. Tutoría y orientación., Art. 17)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 92) desde *(Capítulo V. Tutoría y orientación., Art. 17)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 92) desde *(Capítulo V. Tutoría y orientación., Art. 17)*
+- **Cita a**: [**D328_2010 ROC Escuelas Infantiles y CEIP Andalucia**](../02_gestion_y_administracion_centros/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md) desde *(Capítulo V. Tutoría y orientación., Art. 17)*
+- **Cita a**: [**Decreto 328/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md) desde *(Capítulo V. Tutoría y orientación., Art. 17)*

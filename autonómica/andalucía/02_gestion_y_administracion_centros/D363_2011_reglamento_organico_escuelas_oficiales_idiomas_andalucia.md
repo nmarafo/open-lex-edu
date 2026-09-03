@@ -26,6 +26,31 @@ tags:
 - ensenanzas_especializadas
 - andalucia
 relaciones:
+  modifica:
+  - norma_id: norm-es-c-1978
+    disposiciones_destino:
+    - D. Final primera
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 6
+    - Art. 46
+    - Art. 2
+    - Art. 5
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 148
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 79
+    - Art. 149
+    - Art. 36
+    - Art. 139
+    - Art. 6
+    - Art. 3
+    disposiciones_destino:
+    - D. Derogatoria y
+    - D. Adicional segunda
   desarrolla:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-rd-132-2010
@@ -34,6 +59,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Decreto 363/2011, de 7 de diciembre, por el que se aprueba el Reglamento Orgánico de las Escuelas Oficiales de Idiomas en la Comunidad Autónoma de Andalucía.
 
 ## Preámbulo
@@ -114,7 +140,6 @@ Artículo tercero. Modificación del artículo 6.7 de la Ley 1/1986, de 2 de ene
 a) Cualesquiera actividades que se ejercieran y que puedan constituir causa de incompatibilidad conforme a lo establecido en esta Ley.
 b) Las que, con arreglo a la Ley, puedan ser de ejercicio compatible.
 c) En general, cualesquiera actividades que proporcionen o puedan proporcionar ingresos económicos.
-d) Las relativas a materia de contratación con todas las Administraciones públicas y entes participados de los miembros de la unidad familiar, entendida de acuerdo con lo establecido en la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio. El Registro de Actividades, Bienes, Intereses y Retribuciones tendrá carácter público. El contenido de las declaraciones inscritas en este Registro se publicará en el Boletín Oficial del Parlamento de Andalucía y en el Boletín Oficial de la Junta de Andalucía, y estará disponible en Internet. La instrucción y la resolución de todos los procedimientos relativos al mencionado Registro y a las actividades de los Diputados corresponderán a los órganos parlamentarios que determine el Reglamento de la Cámara. La resolución sobre supuestos de posible incompatibilidad de los Diputados corresponde al Pleno, siguiendo el procedimiento y con los efectos establecidos en el Reglamento de la Cámara. Declarada por el Pleno la reiteración o continuidad en las actividades a que se refiere el apartado a) o en la prestación de servicios a que alude el apartado c) del número 5 de este
 artículo, la realización ulterior de las actividades o servicios indicados llevará consigo la renuncia al escaño, a lo que se dará efectividad en la forma que determine el Reglamento de la Cámara».
 Artículo cuarto. Modificación de la Ley 1/1986, de 2 de enero, Electoral de Andalucía, para la actualización de las referencias al articulado del Estatuto de Autonomía. Se actualiza la Ley 1/1986, de 2 de enero, Electoral de Andalucía, adaptando las referencias estatutarias al articulado del nuevo Estatuto de Autonomía y modificando la redacción del siguiente modo:
 «Exposición de Motivos. I. Párrafo primero:
@@ -127,7 +152,6 @@ Artículo sexto. Modificación del título de la Ley 3/2005, de 8 de abril, de I
 «El artículo 121 l.
 
 Estatuto de Autonomía para Andalucía, de conformidad con el artículo 148.1.1.ª de la Constitución Española prescribe: El régimen jurídico y administrativo del Consejo de Gobierno y el estatuto de sus miembros serán regulados por Ley del Parlamento de Andalucía, que determinará las causas de incompatibilidad de aquellos. El Presidente y los Consejeros no podrán ejercer actividad laboral, profesional o empresarial alguna». Se modifican asimismo los párrafos octavo y noveno de la Exposición de Motivos, que quedan redactados del siguiente modo:
-«Por otra parte, se establece un nuevo régimen de declaraciones sobre actividades, bienes, intereses y retribuciones, no solo para los altos cargos, sino también para otros cargos públicos. El contenido de dichas declaraciones será objeto de una publicación en el Boletín Oficial de la Junta de Andalucía y, además, estará disponible en Internet para todos los ciudadanos. Con ello se persigue alcanzar la máxima transparencia en esta materia.
 
 e r b m eicid e d
 
@@ -201,3 +225,19 @@ redactados como sigue:
 «3. Los acuerdos, decisiones y recomendaciones de los colegios observarán los límites de la Ley 15/2007, de 3 de julio, de Defensa de la Competencia, de conformidad con lo establecido en el apartado 4 del artículo 2 de la Ley 2/1974, de 13 de febrero, de Colegios Profesionales.
 
 4. En todo caso, de acuerdo con lo dispuesto en el apartado 5 del artículo 2 de la Ley 2/1974, de 13 de febrero, los requisitos que obliguen a ejercer de forma exclusiva una profesión o que limiten el ejercicio conjunto de dos o más profesiones serán sólo los que se establezcan por ley.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
+- **Modifica**: `norm-es-c-1978` (D. Final primera)
+- **Modifica**: `norm-es-c-1978`
+- **Modifica**: `norm-es-c-1978` (Art. 6, Art. 46, Art. 2, Art. 5)
+- **Modifica**: `norm-es-c-1978` (Art. 148)
+- **Modifica**: `norm-es-c-1978` (Art. 79, Art. 149, Art. 36, Art. 139, Art. 6, Art. 3, D. Derogatoria y, D. Adicional segunda)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

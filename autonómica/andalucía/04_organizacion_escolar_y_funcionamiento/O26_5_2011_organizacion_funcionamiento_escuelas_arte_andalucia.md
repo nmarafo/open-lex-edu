@@ -32,6 +32,7 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
 ---
+
 # Orden de 26 de mayo de 2011, por la que se regulan la organización y funcionamiento de las Escuelas de Arte.
 
 ## Preámbulo
@@ -61,11 +62,7 @@ AÍ R E J E S N O
 **C**
 Y CIENCIA RESOLUCIÓN de 2 de junio de 2011, de la Viceconsejería, por la que se adjudica puesto de trabajo por el sistema de libre designación convocado por Resolución que se cita. De conformidad con lo previsto en el artículo 25.1 de la Ley 6/1985, de 28 de noviembre, de Ordenación de la Función Pública de la Junta de Andalucía, vistos los informes a que se refiere el artículo 63 l.
 
-Reglamento General de Ingreso, Promoción Interna, Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios de la Administración General de la Junta de Andalucía, aprobado por el Decreto 2/2002, de 9 de enero, y teniendo en cuenta la competencia que se delega en la Orden de 24 de junio de 2010 (Boletín Oficial de la Junta de Andalucía núm. 139, de 16 de julio), se adjudica el puesto de libre designación convocado por Resolución de esta Viceconsejería de fecha 23 de marzo de 2011 (BOJA núm. 75, de 15.4.2011), y para el que se nombra al funcionario que figura en el Anexo. La toma de posesión se efectuará en los plazos establecidos en el artículo 65 del Reglamento General anteriormente citado, remitiéndose la documentación correspondiente para su inscripción al Registro General de Personal. Contra la presente Resolución, que pone fin a la vía administrativa, cabe interponer recurso contencioso-administrativo, en el plazo de dos meses contados desde el día siguiente a la notificación-publicación de esta Resolución, ante el Juzgado de lo Contencioso-Administrativo donde tenga su domicilio el/la demandante o se halle la sede del órgano autor del acto impugnado, a elección de éste/a de acuerdo con lo previsto en los arts. 8.14 y 46 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa. Sin perjuicio de la interposición del recurso potestativo de reposición en el plazo de un mes (art. 116 de la Ley 30/1992, de 26 de noviembre). Sevilla, 2 de junio de 2011.- El Viceconsejero, Luis Nieto Ballesteros.
-
-## Anexo
-
-DNI: 27322806-W. Primer apellido: Rubio.
+## Anexo D. NI: 27322806-W. Primer apellido: Rubio.
 
 #### Segundo. apellido: Pineda.
 
@@ -85,3 +82,14 @@ Primero. Modificar las listas definitivas de aspirantes que han superado el conc
 Segundo. Modificar las listas definitivas de aspirantes que no han superado el concurso-oposición de la categoría de Celadores aprobadas por la citada Resolución de 20 de enero de 2011, como consecuencia de la estimación de los citados recursos potestativos de reposición.
 Tercero. Modificar las listas definitivas de aspirantes excluidos del concurso-oposición de la categoría de Celadores aprobadas por la citada Resolución de 20 de enero de 2011, en orden a incluir en las mismas a doña Zaloa Rosa Beltrán de Heredia López con DNI: 72722005, doña Rosa M.ª González León con DNI: 25584911, don Juan Carlos Martín Pérez con DNI: 27235016, doña Ana Martínez Flores con DNI:
 23677699, doña Rosario Salcedo Cruz con DNI: 75665038 y doña Lidia Terrón Sánchez con DNI: 24095667, participantes por el turno libre, al no acreditar en plazo reunir los requisitos de participación.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)

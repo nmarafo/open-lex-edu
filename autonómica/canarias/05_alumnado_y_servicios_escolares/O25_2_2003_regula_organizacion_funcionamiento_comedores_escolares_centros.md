@@ -45,13 +45,14 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '57'
+  - norma_id: '57'
   - norma_id: norm-can-d-276-1997
 anexos_extraidos_pdf: true
 fuente_pdf_oficial: https://www.gobiernodecanarias.org/boc/2003/047/boc-2003-047-002.pdf
 ocr_procesado: true
 motor_ocr: rapidocr_onnxruntime
 ---
+
 # Orden de 25 de febrero de 2003, por la que se regula la organización y funcionamiento de los comedores escolares en los centros docentes públicos no universitarios dependientes de la Consejería de Educación, Cultura y Deportes.
 
 ## Preámbulo
@@ -79,3 +80,16 @@ Tercero.- El primer ejercicio de la oposición se celebrará en el lugar, fecha 
 
 • Aviso Legal
 • Sugerencias y Reclamaciones
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**D276_1997 Gestion Economica de Centros Docentes Publicos**](../02_gestion_y_administracion_centros/D276_1997_regula_procedimiento_gestion_economica_centros_docentes.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamento de**: [**Resolucion BOC 119**](./R8_8_2025_escolarizacion_servicios_complementarios_aprueban_instrucciones_organizacion.md)

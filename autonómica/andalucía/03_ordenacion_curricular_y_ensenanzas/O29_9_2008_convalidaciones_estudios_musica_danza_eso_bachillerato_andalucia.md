@@ -27,6 +27,10 @@ tags:
 - bachillerato
 - andalucia
 relaciones:
+  modifica:
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 4
   desarrolla:
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
@@ -34,6 +38,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Orden de 29 de septiembre de 2008, por la que se regulan las convalidaciones entre estudios de Música y Danza con ESO y Bachillerato.
 
 ## Preámbulo
@@ -78,8 +83,6 @@ Boletín 206
 
 ##
 
-Histórico del BOJA Boletín número 206 de 16/10/2008
-
 ## 1. Disposiciones generales
 
 ### Consejería de Economía y Hacienda
@@ -103,7 +106,7 @@ En su virtud, y en uso de las atribuciones que me han sido conferidas,
 
 DISPONGO:
 
-#### Artículo 1. Tramitación de las nóminas en el mes de diciembre de 2008. 1. En las nóminas tramitadas a través del subsistema de Gestión de Nóminas del Sistema de Información de Recursos Humanos «SIRhUS» la fecha final de captura de incidencias de la nómina de diciembre de 2008 será el día 5 de dicho mes, debiendo finalizar su fiscalización por las Intervenciones Centrales, Delegadas o Provinciales correspondientes el día 10 del mismo mes y año.
+#### Artículo . #### Artículo . #### Artículo 1. Tramitación de las nóminas en el mes de diciembre de 2008. 1. En las nóminas tramitadas a través del subsistema de Gestión de Nóminas del Sistema de Información de Recursos Humanos «SIRhUS» la fecha final de captura de incidencias de la nómina de diciembre de 2008 será el día 5 de dicho mes, debiendo finalizar su fiscalización por las Intervenciones Centrales, Delegadas o Provinciales correspondientes el día 10 del mismo mes y año.
 
 Dichas nóminas deberán aprobarse por los órganos gestores y ser presentadas en las correspondientes Intervenciones el día 15 de diciembre de 2008, debiendo quedar fiscalizadas y contabilizadas el día 17 de diciembre de dicho año.
 
@@ -327,3 +330,14 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: `norm-es-c-1978` desde *(Art. 4)*
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

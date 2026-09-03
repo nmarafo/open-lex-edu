@@ -26,13 +26,22 @@ tags:
 - andalucia
 relaciones:
   desarrolla:
+  - norma_id: norm-es-1998-10720
+    articulos_destino:
+    - Art. 42
   - norma_id: norm-es-lo-2-2006
+  cita:
+  - norma_id: norm-es-1998-10720
+    articulos_destino:
+    - Art. 42
+  - norma_id: norm-es-c-1978
   fundamentado_en:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
 ---
+
 # Orden de 16 de abril de 2008, por la que se regulan las medidas de autoprotección y prevención de riesgos en centros docentes.
 
 ## Preámbulo
@@ -209,12 +218,19 @@ CI/A (RITE-98). CI/B (RITE-98). CM/A (RITE-98). CM/B (RITE-98), respectivamente.
 - CM/A (RITE-98). Mantenedor de Calefacción y A.C.S.
 - CM/B (RITE-98). Mantenedor de Climatización.
 - CITE (RITE-07). Carné profesional de Instalaciones Térmicas de Edificios. Úndecimo. Instalaciones de la Disposición transitoria primera del Real Decreto 1027/2007, de 20 de julio, por el que se aprueba el RITE-07. Los titulares de aquellas instalaciones térmicas que se acojan a la Disposición transitoria primera del Real Decreto 1027/2007, para dar cumplimiento a la obligatoriedad de comunicación a la Administración que establece el Decreto 59/2005, deberán presentar en la Delegación Provincial donde radique la instalación, tal como establecen los artículos 3 y 4 de la Orden de 27 de mayo de 2005, los siguientes documentos debidamente cumplimentados:
-a) Solicitud de puesta en funcionamiento de actividades e instalaciones industriales (formulario 000580/2) (BOJA núm. 51, de 20 de junio de 2005, página 51). En el bloque libre del apartado 4, se indicará la siguiente leyenda «Disp.T.1ª- RITE-98».
-b) Ficha Técnica Descriptiva –Instalaciones de Calefacción, Climatización y Agua Caliente Sanitaria (formulario 000590/2) (BOJA núm. 51, de 20 de junio de 2005, página 57). Será responsabilidad exclusiva del titular que la instalación que se presenta a la Administración realmente se encuentra en el ámbito de aplicación de la Disposición transitoria
 
 #### Primera. del Real Decreto 1027/2007. Sin perjuicio de lo anterior, la Administración podrá realizar las actividades de control, inspección y régimen sancionador, que regula el Capítulo III de la Orden de 27 de mayo de 2005. #### Duodécimo. Supuestos excepcionales.
 
-Cualquier situación excepcional derivada de la aplicación de esta Resolución será resuelta por la Dirección General de Industria, Energía y Minas, presentándose solicitud a través de las Delegaciones Provinciales de la Consejería de Innovación, Ciencia y Empresa, que emitirán informe previo a la resolución, que adoptará la Dirección General de Industria, Energía y Minas sobre el asunto planteado. Decimotercero. Entrada en vigor. La presente Resolución deberá ser publicada en el Boletín Oficial de la Junta de Andalucía. Su entrada en vigor se producirá el día siguiente al de su publicación. Contra la presente Resolución, que no pone fin a la vía administrativa, se podrá interponer recurso de alzada, ante el Excmo. Sr. Consejero de Innovación, Ciencia y Empresa, en el plazo de un mes contado a partir del día de su notificación
+---
 
-Sevilla, 6 de mayo 2008 Página núm. 15 de conformidad con lo establecido en el art. 114.2 de la Ley 4/1999, de 13 de enero, de modificación de la Ley 30/92, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. Sevilla, 9 de abril de 2008.- El Director General, Jesús Nieto González. CORRECCIÓN de errores de la Orden de 29 de febrero de 2008, por la que se regula el procedimiento para la priorización en la tramitación del acceso y conexión a la Red Eléctrica en Andalucía para la evacuación de la energía de las instalaciones de generación que utilicen como energía primaria la energía eólica, contempladas en el Real Decreto 661/2007, de 25 de mayo, por el que se regula la actividad de producción de energía en régimen especial (BOJA núm. 55, de 19.5.2008). Advertidos errores en la Orden de 29 de febrero de 2008, por la que se regula el procedimiento para la priorización en la tramitación del acceso y conexión a la Red Eléctrica en Andalucía para la evacuación de la energía de las instalaciones de generación que utilicen como energía primaria la energía eólica, contempladas en el Real Decreto 661/2007, de 25 de mayo, por el que se regula la actividad de producción de energía en régimen especial, publicada en el Boletín Oficial de la Junta de Andalucía número 55, de 19 de mayo de 2008, se procede a la rectificación de los mismos en los siguientes términos:
-En la página 15, primera columna, apartado c) Datos económico-administrativos de la instalación, punto 4.º, donde dice: «Opcionalmente nuevos planes industriales en el que se incluyan proyectos empresariales...»; debe decir: «Opcionalmente nuevos planes industriales en los que se incluyan proyectos empresariales...». En la página 20, segunda columna, apartado 11.º, segundo párrafo, donde dice: «... proyectos eólicos presentados...»; debe decir: «... proyectos presentados...». Sevilla, 18 de abril de 2008
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**BOE-A-1998-10720**](../../../estatal/08_personal_docente/RD777_1998_desarrollan_determinados_aspectos_ordenacion_formacion_profesional.md) (Art. 42)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Cita a**: [**BOE-A-1998-10720**](../../../estatal/08_personal_docente/RD777_1998_desarrollan_determinados_aspectos_ordenacion_formacion_profesional.md) (Art. 42)
+- **Cita a**: `norm-es-c-1978`

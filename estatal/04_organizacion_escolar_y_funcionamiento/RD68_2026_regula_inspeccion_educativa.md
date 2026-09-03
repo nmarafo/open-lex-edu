@@ -24,23 +24,433 @@ tags:
 - profesorado
 - titulacion
 relaciones:
-  desarrolla:
+  cita:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 27
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-rdl-5-2015
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 4
+  - norma_id: norm-es-rdleg-5-2015
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 4
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 6
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 6
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 6
+  - norma_id: norm-es-rdl-5-2015
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 14
+  - norma_id: norm-es-rdleg-5-2015
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 14
+  - norma_id: norm-es-rdl-5-2015
+    capitulo_origen: Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión
+      de puestos de forma temporal.
+    seccion_origen: Sección 1. ª Disposiciones generales
+    articulos_origen:
+    - Art. 12
+  - norma_id: norm-es-rdleg-5-2015
+    capitulo_origen: Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión
+      de puestos de forma temporal.
+    seccion_origen: Sección 1. ª Disposiciones generales
+    articulos_origen:
+    - Art. 12
+  - norma_id: norm-es-lo-8-2021
+    capitulo_origen: Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión
+      de puestos de forma temporal.
+    seccion_origen: Sección 1. ª Disposiciones generales
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 32
+    - Art. 57
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión
+      de puestos de forma temporal.
+    seccion_origen: Sección 1. ª Disposiciones generales
+    articulos_origen:
+    - Art. 14
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión
+      de puestos de forma temporal.
+    seccion_origen: Sección 1. ª Disposiciones generales
+    articulos_origen:
+    - Art. 14
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión
+      de puestos de forma temporal.
+    seccion_origen: Sección 1. ª Disposiciones generales
+    articulos_origen:
+    - Art. 14
+  - norma_id: norm-es-2007-6115
+    capitulo_origen: Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión
+      de puestos de forma temporal.
+    seccion_origen: Sección 2. ª De los órganos de selección
+    articulos_origen:
+    - Art. 19
+    articulos_destino:
+    - Art. 53
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-l-40-2015
+    capitulo_origen: Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión
+      de puestos de forma temporal.
+    seccion_origen: Sección 2. ª De los órganos de selección
+    articulos_origen:
+    - Art. 19
+    articulos_destino:
+    - Art. 23
+  - norma_id: norm-es-l-40-2015
+    capitulo_origen: Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión
+      de puestos de forma temporal.
+    seccion_origen: Sección 2. ª De los órganos de selección
+    articulos_origen:
+    - Art. 19
+    articulos_destino:
+    - Art. 24
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión
+      de puestos de forma temporal.
+    seccion_origen: Sección 3. ª Fase de oposición, fase de concurso y fase de prácticas
+    articulos_origen:
+    - Art. 22
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión
+      de puestos de forma temporal.
+    seccion_origen: Sección 3. ª Fase de oposición, fase de concurso y fase de prácticas
+    articulos_origen:
+    - Art. 22
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión
+      de puestos de forma temporal.
+    seccion_origen: Sección 3. ª Fase de oposición, fase de concurso y fase de prácticas
+    articulos_origen:
+    - Art. 22
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo III. Formación y cualificación profesional.
+    articulos_origen:
+    - Art. 26
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo III. Formación y cualificación profesional.
+    articulos_origen:
+    - Art. 26
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo III. Formación y cualificación profesional.
+    articulos_origen:
+    - Art. 26
+  - norma_id: norm-es-lo-8-2021
+    capitulo_origen: Capítulo III. Formación y cualificación profesional.
+    articulos_origen:
+    - Art. 27
+  - norma_id: norm-es-rdl-5-2015
+    capitulo_origen: Capítulo IV. Desarrollo profesional.
+    articulos_origen:
+    - Art. 35
+  - norma_id: norm-es-rdleg-5-2015
+    capitulo_origen: Capítulo IV. Desarrollo profesional.
+    articulos_origen:
+    - Art. 35
+  - norma_id: norm-es-rdl-5-2015
+    capitulo_origen: Capítulo IV. Desarrollo profesional.
+    articulos_origen:
+    - Art. 37
+  - norma_id: norm-es-rdleg-5-2015
+    capitulo_origen: Capítulo IV. Desarrollo profesional.
+    articulos_origen:
+    - Art. 37
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo V. Evaluación.
+    articulos_origen:
+    - Art. 39
+    titulo_destino: Título VI
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo V. Evaluación.
+    articulos_origen:
+    - Art. 39
+    titulo_destino: Título VI
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo V. Evaluación.
+    articulos_origen:
+    - Art. 39
+    titulo_destino: Título VI
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo V. Evaluación.
+    articulos_origen:
+    - D. Adicional única. Aplicación en la Comunidad Foral de Navarra y en el País
+      Vasco.
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Adicional primera
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    titulo_destino: Título VII
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-2021-20113
+    titulo_destino: Título VII
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-2010-12201
+    titulo_destino: Título VII
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 153 bis
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 153 bis
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 153 bis
+  - norma_id: norm-es-lo-3-2020
+    articulos_destino:
+    - Art. 153 bis
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
   - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-2007-5478
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-lo-3-2020
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-l-39-2015
+    capitulo_origen: Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión
+      de puestos de forma temporal.
+    seccion_origen: Sección 1. ª Disposiciones generales
+    articulos_origen:
+    - Art. 16
+  - norma_id: norm-es-lo-8-2021
+    capitulo_origen: Capítulo V. Evaluación.
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
   fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Adicional sexta
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Adicional sexta
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Adicional sexta
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Adicional sexta
+  - norma_id: norm-es-l-39-2015
+    capitulo_origen: Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión
+      de puestos de forma temporal.
+    seccion_origen: Sección 1. ª Disposiciones generales
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 45
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión
+      de puestos de forma temporal.
+    seccion_origen: Sección 2. ª De los órganos de selección
+    articulos_origen:
+    - Art. 18
+    articulos_destino:
+    - Art. 20
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo V. Evaluación.
+    articulos_origen:
+    - D. Adicional única. Aplicación en la Comunidad Foral de Navarra y en el País
+      Vasco.
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo V. Evaluación.
+    articulos_origen:
+    - D. Final primera. Títulos competenciales.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
   - norma_id: norm-es-2007-5478
   - norma_id: norm-es-2007-6115
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2021-20113
   - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
-  - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-8-2021
   - norma_id: norm-es-rdl-5-2015
+  concordancia:
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 3
+    titulo_destino: Título VII
+    capitulo_destino: Capítulo II
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 3
+    titulo_destino: Título VII
+    capitulo_destino: Capítulo II
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 3
+    titulo_destino: Título VII
+    capitulo_destino: Capítulo II
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión
+      de puestos de forma temporal.
+    seccion_origen: Sección 1. ª Disposiciones generales
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 91
+    - Art. 25
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión
+      de puestos de forma temporal.
+    seccion_origen: Sección 1. ª Disposiciones generales
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 91
+    - Art. 25
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión
+      de puestos de forma temporal.
+    seccion_origen: Sección 1. ª Disposiciones generales
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 91
+    - Art. 25
+  - norma_id: norm-es-lo-8-2021
+    capitulo_origen: Capítulo V. Evaluación.
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+  - norma_id: norm-es-rd-276-2007
+  deroga:
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo V. Evaluación.
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo III
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo V. Evaluación.
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo III
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo V. Evaluación.
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo III
+  - norma_id: norm-es-rd-276-2007
+    capitulo_origen: Capítulo V. Evaluación.
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo III
+  - norma_id: norm-es-2007-5478
+    capitulo_origen: Capítulo V. Evaluación.
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo III
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-es-2021-20113
@@ -50,6 +460,7 @@ relaciones:
   - norma_id: norm-es-2007-5478
   - norma_id: norm-es-rd-276-2007
 ---
+
 # Real Decreto 68/2026, de 4 de febrero, por el que se regula la inspección educativa.
 
 ## Preámbulo
@@ -711,3 +1122,96 @@ c) Competencias personales dirigidas a establecer relaciones constructivas con l
 - [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
 - [**BOE-A-2007-5478**](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
 - [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 91, Art. 25) desde *(Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión de puestos de forma temporal., Art. 13)*
+- **Desarrolla**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 91, Art. 25) desde *(Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión de puestos de forma temporal., Art. 13)*
+- **Desarrolla**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 91, Art. 25) desde *(Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión de puestos de forma temporal., Art. 13)*
+- **Desarrolla**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md) desde *(Capítulo V. Evaluación., D. Final tercera. Entrada en vigor.)*
+- **Desarrolla**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título VII, Capítulo I, Art. 2)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título VII, Capítulo I, Art. 2)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título VII, Capítulo I, Art. 2)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 153 bis)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 153 bis)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 153 bis)
+- **Modifica**: `norm-es-lo-3-2020` (Art. 153 bis)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Modifica**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Modifica**: [**BOE-A-2007-5478**](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
+- **Modifica**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 129)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 129)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 129)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 129)
+- **Modifica**: `norm-es-lo-3-2020` (Art. 129)
+- **Modifica**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) desde *(Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión de puestos de forma temporal., Art. 16)*
+- **Modifica**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md) desde *(Capítulo V. Evaluación., D. Final tercera. Entrada en vigor.)*
+- **Deroga**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título IV, Capítulo III) desde *(Capítulo V. Evaluación., D. Derogatoria única. Derogación normativa.)*
+- **Deroga**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título IV, Capítulo III) desde *(Capítulo V. Evaluación., D. Derogatoria única. Derogación normativa.)*
+- **Deroga**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título IV, Capítulo III) desde *(Capítulo V. Evaluación., D. Derogatoria única. Derogación normativa.)*
+- **Deroga**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md) (Título IV, Capítulo III) desde *(Capítulo V. Evaluación., D. Derogatoria única. Derogación normativa.)*
+- **Deroga**: [**BOE-A-2007-5478**](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md) (Título IV, Capítulo III) desde *(Capítulo V. Evaluación., D. Derogatoria única. Derogación normativa.)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 149, D. Adicional sexta)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 149, D. Adicional sexta)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 149, D. Adicional sexta)
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, D. Adicional sexta)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 45) desde *(Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión de puestos de forma temporal., Art. 17)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 20) desde *(Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión de puestos de forma temporal., Art. 18)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, D. Adicional primera) desde *(Capítulo V. Evaluación., D. Adicional única. Aplicación en la Comunidad Foral de Navarra y en el País Vasco.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(Capítulo V. Evaluación., D. Final primera. Títulos competenciales.)*
+- **Fundamentado en**: [**BOE-A-2007-5478**](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
+- **Fundamentado en**: [**BOE-A-2007-6115**](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamentado en**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **En concordancia con**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título VII, Capítulo II) desde *(Capítulo I, Art. 3)*
+- **En concordancia con**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título VII, Capítulo II) desde *(Capítulo I, Art. 3)*
+- **En concordancia con**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título VII, Capítulo II) desde *(Capítulo I, Art. 3)*
+- **Cita a**: `norm-es-c-1978` (Art. 27)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo I, Art. 2)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo I, Art. 2)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo I, Art. 2)*
+- **Cita a**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md) desde *(Capítulo I, Art. 4)*
+- **Cita a**: `norm-es-rdleg-5-2015` desde *(Capítulo I, Art. 4)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 1) desde *(Capítulo I, Art. 4)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 1) desde *(Capítulo I, Art. 4)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 1) desde *(Capítulo I, Art. 4)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 2) desde *(Capítulo I, Art. 5)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 2) desde *(Capítulo I, Art. 5)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 2) desde *(Capítulo I, Art. 5)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo I, Art. 6)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo I, Art. 6)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo I, Art. 6)*
+- **Cita a**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md) (Art. 14) desde *(Capítulo I, Art. 8)*
+- **Cita a**: `norm-es-rdleg-5-2015` (Art. 14) desde *(Capítulo I, Art. 8)*
+- **Cita a**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md) desde *(Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión de puestos de forma temporal., Art. 12)*
+- **Cita a**: `norm-es-rdleg-5-2015` desde *(Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión de puestos de forma temporal., Art. 12)*
+- **Cita a**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md) (Art. 32, Art. 57) desde *(Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión de puestos de forma temporal., Art. 13)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión de puestos de forma temporal., Art. 14)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión de puestos de forma temporal., Art. 14)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión de puestos de forma temporal., Art. 14)*
+- **Cita a**: [**BOE-A-2007-6115**](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md) (Art. 53, D. Adicional primera) desde *(Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión de puestos de forma temporal., Art. 19)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 23) desde *(Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión de puestos de forma temporal., Art. 19)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 24) desde *(Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión de puestos de forma temporal., Art. 19)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión de puestos de forma temporal., Art. 22)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión de puestos de forma temporal., Art. 22)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo II. Acceso al Cuerpo de Inspectores de Educación y provisión de puestos de forma temporal., Art. 22)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo III. Formación y cualificación profesional., Art. 26)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo III. Formación y cualificación profesional., Art. 26)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo III. Formación y cualificación profesional., Art. 26)*
+- **Cita a**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md) desde *(Capítulo III. Formación y cualificación profesional., Art. 27)*
+- **Cita a**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md) desde *(Capítulo IV. Desarrollo profesional., Art. 35)*
+- **Cita a**: `norm-es-rdleg-5-2015` desde *(Capítulo IV. Desarrollo profesional., Art. 35)*
+- **Cita a**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md) desde *(Capítulo IV. Desarrollo profesional., Art. 37)*
+- **Cita a**: `norm-es-rdleg-5-2015` desde *(Capítulo IV. Desarrollo profesional., Art. 37)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título VI) desde *(Capítulo V. Evaluación., Art. 39)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título VI) desde *(Capítulo V. Evaluación., Art. 39)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título VI) desde *(Capítulo V. Evaluación., Art. 39)*
+- **Cita a**: `norm-es-c-1978` (Art. 149, D. Adicional primera) desde *(Capítulo V. Evaluación., D. Adicional única. Aplicación en la Comunidad Foral de Navarra y en el País Vasco.)*

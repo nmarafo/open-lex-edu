@@ -23,24 +23,146 @@ tags:
 - proteccion-menores
 relaciones:
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 39
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 778
+    articulos_destino:
+    - Art. 763
+    - Art. 778 bis
+    - Art. 81
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 778
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final cuarta. Carácter orgánico y títulos competenciales.
+    articulos_destino:
+    - Art. 81
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final cuarta. Carácter orgánico y títulos competenciales.
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Transitoria única
+    - D. Final primera
+    - D. Final tercera
   - norma_id: norm-es-2000-544
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-lo-1-1996
   - norma_id: norm-es-lo-1-2004
+  modifica:
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 14
+    - Art. 15
+    - Art. 16
+    - Art. 17
+  - norma_id: norm-es-2000-544
+    disposiciones_destino:
+    - D. Final primera
+    - D. Final segunda
+    - D. Final tercera
+  - norma_id: norm-es-lo-1-2004
+    disposiciones_destino:
+    - D. Final primera
+    - D. Final segunda
+    - D. Final tercera
+  - norma_id: norm-es-2000-544
+    articulos_origen:
+    - Art. 778 bis
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-es-lo-1-2004
+    articulos_origen:
+    - Art. 778 bis
+    disposiciones_destino:
+    - D. Final tercera
+  - norma_id: norm-es-lo-1-1996
+    articulos_origen:
+    - Art. 778 bis
+  - norma_id: norm-es-lo-1-1996
+    articulos_origen:
+    - Art. 778
+    articulos_destino:
+    - Art. 25
+  - norma_id: norm-es-2000-544
+    articulos_origen:
+    - D. Final segunda. Modificación del apartado 2 del artículo 59 bis de la Ley
+      Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros
+      en España y su integración social.
+    articulos_destino:
+    - Art. 59 bis
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-es-2000-544
+    articulos_origen:
+    - D. Final segunda. Modificación del apartado 2 del artículo 59 bis de la Ley
+      Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros
+      en España y su integración social.
+    articulos_destino:
+    - Art. 59 bis
+  - norma_id: norm-es-lo-1-2004
+    articulos_origen:
+    - D. Final tercera. Modificación de la Ley Orgánica 1/2004, de 28 de diciembre,
+      de Medidas de Protección Integral contra la Violencia de Género.
+    disposiciones_destino:
+    - D. Final tercera
+  - norma_id: norm-es-lo-1-2004
+    articulos_origen:
+    - D. Final tercera. Modificación de la Ley Orgánica 1/2004, de 28 de diciembre,
+      de Medidas de Protección Integral contra la Violencia de Género.
+  - norma_id: norm-es-2000-544
+    articulos_origen:
+    - D. Final cuarta. Carácter orgánico y títulos competenciales.
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final cuarta. Carácter orgánico y títulos competenciales.
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-es-lo-8-2021
+    articulos_origen:
+    - D. Final séptima. Entrada en vigor.
+  cita:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 39
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 778 bis
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 778 bis
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 31
+    titulo_destino: Título IX
   fundamento_de:
   - norma_id: norm-es-2021-11382
   - norma_id: norm-es-lo-8-2021
-  - norma_id: norm-can-res-boc-2018-086-122
-  - norma_id: norm-can-res-boc-2017-132-1
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
+  - norma_id: '27'
   - norma_id: norm-es-2000-544
   - norma_id: norm-es-lo-1-1996
   - norma_id: norm-es-lo-1-2004
 ---
+
 # Ley Orgánica 8/2015, de 22 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
 
 ## Preámbulo
@@ -544,3 +666,39 @@ MARIANO RAJOY BREY
 - [**BOE-A-2000-544**](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md)
 - [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
 - [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- **Modifica**: `norm-es-c-1978` (Art. 14, Art. 15, Art. 16, Art. 17)
+- **Modifica**: [**BOE-A-2000-544**](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md) (D. Final primera, D. Final segunda, D. Final tercera)
+- **Modifica**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) (D. Final primera, D. Final segunda, D. Final tercera)
+- **Modifica**: [**BOE-A-2000-544**](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md) (D. Final segunda) desde *(Art. 778 bis)*
+- **Modifica**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) (D. Final tercera) desde *(Art. 778 bis)*
+- **Modifica**: [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md) desde *(Art. 778 bis)*
+- **Modifica**: [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md) (Art. 25) desde *(Art. 778)*
+- **Modifica**: [**BOE-A-2000-544**](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md) (Art. 59 bis, D. Final segunda) desde *(D. Final segunda. Modificación del apartado 2 del artículo 59 bis de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.)*
+- **Modifica**: [**BOE-A-2000-544**](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md) (Art. 59 bis) desde *(D. Final segunda. Modificación del apartado 2 del artículo 59 bis de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.)*
+- **Modifica**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) (D. Final tercera) desde *(D. Final tercera. Modificación de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.)*
+- **Modifica**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) desde *(D. Final tercera. Modificación de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.)*
+- **Modifica**: [**BOE-A-2000-544**](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md) (Art. 149, D. Final segunda) desde *(D. Final cuarta. Carácter orgánico y títulos competenciales.)*
+- **Modifica**: `norm-es-c-1978` (Art. 149, D. Final segunda) desde *(D. Final cuarta. Carácter orgánico y títulos competenciales.)*
+- **Modifica**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md) desde *(D. Final séptima. Entrada en vigor.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 39)
+- **Fundamentado en**: `norm-es-c-1978` (Art. 763, Art. 778 bis, Art. 81) desde *(Art. 778)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Art. 778)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 81) desde *(D. Final cuarta. Carácter orgánico y títulos competenciales.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, D. Transitoria única, D. Final primera, D. Final tercera) desde *(D. Final cuarta. Carácter orgánico y títulos competenciales.)*
+- **Fundamentado en**: [**BOE-A-2000-544**](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- **Fundamentado en**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
+- **Fundamento de**: [**BOE-A-2021-11382**](../07_convivencia_bienestar_y_protocolos/L2_2021_igualdad_social_no_discriminacion_razon_identidad.md)
+- **Fundamento de**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Cita a**: `norm-es-c-1978` (Art. 39)
+- **Cita a**: `norm-es-c-1978` (Art. 18) desde *(Art. 778 bis)*
+- **Cita a**: `norm-es-c-1978` desde *(Art. 778 bis)*
+- **Cita a**: `norm-es-c-1978` (Título IX) desde *(Art. 31)*

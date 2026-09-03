@@ -26,15 +26,13 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
-  modifica_a: []
-  modificado_por: []
-  afecta_a_articulos: []
   fundamentado_en:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-and-l17-2007
 ---
+
 # Ley 4/1984, de 9 de enero, de Consejos Escolares de Andalucía
 
 ## Preámbulo
@@ -54,3 +52,14 @@ T17AG03A000005. Madrid, 24 de' febrero de 1984.—El Director, Rafael García Fa
 Primero.—Nombrar para el desempeño de la cátedra de «Cons trucción naval y Teoría del buque», de la Escuela Superior de la Marina Civil de Barcelona, a don Gaspar Azpiazu Mañas (A05C023), Profesor numerario de la misma asignatura en la Escuela Superior de la Marina Civil de Cádiz, quien deberá tomar posesión de la misma con arreglo a lo prevenido en el Decreto 1106/1966, de 28 de abril («Boletín Oficial del Estado» nú mero 102).
 Segundo.—Nombrar para el desempeño de la cátedra de «Geo metría y Trigonometría», de la Escuela Superior de la Marina Civil de La Coruña, a don Francisco Blanco Filgueira (A05C090), Profesor numerario de la Escuela Superior de la Marina Civil de Santander, quien deberá tomar posesión de la misma al fi nalizar el presente curso escolar.
 Tercero.—Declarar desiertas las demás vacantes anunciadas en el citado concurso de traslados por falta de peticionarios. Lo que digo a VV. II. Madrid, 17 de febrero de 1984.—P. D. (Orden de 27 de di ciembre de 1983), el Director general de Servicios, José Antonio Sánchez Velayos. limos. Sres. Director general de la Marina Mercante e Inspec tor general de Enseñanzas Superiores Náuticas.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)

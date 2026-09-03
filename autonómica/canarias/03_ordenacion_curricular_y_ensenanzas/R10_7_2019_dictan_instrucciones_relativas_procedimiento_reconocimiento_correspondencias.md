@@ -24,24 +24,146 @@ tags:
 - formacion-profesional
 - titulacion
 relaciones:
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2016-3229
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo VIII. del Título I desarrolla los aspectos fundamentales
+      de este tipo de enseñanzas,
+    titulo_destino: Título I
+    capitulo_destino: Capítulo IX
+    articulos_destino:
+    - Art. 44
+    - Art. 3
+    disposiciones_destino:
+    - D. Transitoria segunda
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo VIII. del Título I desarrolla los aspectos fundamentales
+      de este tipo de enseñanzas,
+    titulo_destino: Título I
+    capitulo_destino: Capítulo IX
+    articulos_destino:
+    - Art. 44
+    - Art. 3
+    disposiciones_destino:
+    - D. Transitoria segunda
+  - norma_id: norm-es-2007-19326
+    capitulo_origen: Capítulo VIII. del Título I desarrolla los aspectos fundamentales
+      de este tipo de enseñanzas,
+    titulo_destino: Título I
+    capitulo_destino: Capítulo IX
+    articulos_destino:
+    - Art. 44
+    - Art. 3
+    disposiciones_destino:
+    - D. Transitoria segunda
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: Capítulo VIII. del Título I desarrolla los aspectos fundamentales
+      de este tipo de enseñanzas,
+    titulo_destino: Título I
+    capitulo_destino: Capítulo IX
+    articulos_destino:
+    - Art. 44
+    - Art. 3
+    disposiciones_destino:
+    - D. Transitoria segunda
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo VIII. del Título I desarrolla los aspectos fundamentales
+      de este tipo de enseñanzas,
+    titulo_destino: Título I
+    capitulo_destino: Capítulo IX
+    articulos_destino:
+    - Art. 44
+    - Art. 3
+    disposiciones_destino:
+    - D. Transitoria segunda
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo VIII. del Título I desarrolla los aspectos fundamentales
+      de este tipo de enseñanzas,
+  - norma_id: norm-es-2001-7022
+    capitulo_origen: Capítulo VIII. del Título I desarrolla los aspectos fundamentales
+      de este tipo de enseñanzas,
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo VIII. del Título I desarrolla los aspectos fundamentales
+      de este tipo de enseñanzas,
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo VIII. del Título I desarrolla los aspectos fundamentales
+      de este tipo de enseñanzas,
   fundamentado_en:
+  - norma_id: norm-es-2007-19326
+    capitulo_origen: Capítulo VIII. del Título I desarrolla los aspectos fundamentales
+      de este tipo de enseñanzas,
+    capitulo_destino: Capítulo IX
+    articulos_destino:
+    - Art. 11
   - norma_id: norm-can-d-135-2016
   - norma_id: norm-can-d-212-1991
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-2002-12018
   - norma_id: norm-es-2002-4371
-  - norma_id: norm-es-2007-19326
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-lo-2-2006
+  cita:
+  - norma_id: norm-can-d-212-1991
+    capitulo_origen: Capítulo VIII. del Título I desarrolla los aspectos fundamentales
+      de este tipo de enseñanzas,
+    articulos_destino:
+    - Art. 19
+    - Art. 121
+    - Art. 122
+  - norma_id: norm-es-l-39-2015
+    capitulo_origen: Capítulo VIII. del Título I desarrolla los aspectos fundamentales
+      de este tipo de enseñanzas,
+    articulos_destino:
+    - Art. 19
+    - Art. 121
+    - Art. 122
+  - norma_id: norm-can-d-84-2024
+    capitulo_origen: Capítulo VIII. del Título I desarrolla los aspectos fundamentales
+      de este tipo de enseñanzas,
+    articulos_destino:
+    - Art. 19
+    - Art. 121
+    - Art. 122
+  - norma_id: norm-es-2007-19326
+    capitulo_origen: Capítulo VIII. del Título I desarrolla los aspectos fundamentales
+      de este tipo de enseñanzas,
+    articulos_destino:
+    - Art. 44
+  - norma_id: norm-es-2007-19326
+    capitulo_origen: Capítulo VIII. del Título I desarrolla los aspectos fundamentales
+      de este tipo de enseñanzas,
+    disposiciones_destino:
+    - D. Adicional decimoquinta
   desarrolla:
+  - norma_id: norm-es-2001-7022
+    capitulo_origen: Capítulo VIII. del Título I desarrolla los aspectos fundamentales
+      de este tipo de enseñanzas,
+    articulos_destino:
+    - Art. 8
+  - norma_id: norm-es-2002-12018
+    capitulo_origen: Capítulo VIII. del Título I desarrolla los aspectos fundamentales
+      de este tipo de enseñanzas,
+    articulos_destino:
+    - Art. 8
   - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-2001-7022
@@ -54,6 +176,7 @@ relaciones:
   - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-143-3820.pdf
 ---
+
 # Resolución de 10 de julio de 2019, por la que se dictan instrucciones relativas al procedimiento para el reconocimiento de correspondencias, convalidaciones y exenciones en las enseñanzas deportivas de régimen especial en la Comunidad Autónoma de Canarias (BOC n.º 143, de 26 de julio).
 
 ## Preámbulo
@@ -217,3 +340,41 @@ b) Aquellas personas que solo se matriculan del módulo de formación práctica,
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**Decreto BOC 135/2016**](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md)
 - [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**BOE-A-2001-7022**](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (Art. 8) desde *(Capítulo VIII. del Título I desarrolla los aspectos fundamentales de este tipo de enseñanzas,)*
+- **Desarrolla**: [**BOE-A-2002-12018**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md) (Art. 8) desde *(Capítulo VIII. del Título I desarrolla los aspectos fundamentales de este tipo de enseñanzas,)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 3)
+- **Modifica**: [**BOE-A-2016-3229**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md) (Art. 3)
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 3)
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 3)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título I, Capítulo IX, Art. 44, Art. 3, D. Transitoria segunda) desde *(Capítulo VIII. del Título I desarrolla los aspectos fundamentales de este tipo de enseñanzas,)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título I, Capítulo IX, Art. 44, Art. 3, D. Transitoria segunda) desde *(Capítulo VIII. del Título I desarrolla los aspectos fundamentales de este tipo de enseñanzas,)*
+- **Modifica**: [**BOE-A-2007-19326**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md) (Título I, Capítulo IX, Art. 44, Art. 3, D. Transitoria segunda) desde *(Capítulo VIII. del Título I desarrolla los aspectos fundamentales de este tipo de enseñanzas,)*
+- **Modifica**: [**BOE-A-2002-4371**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) (Título I, Capítulo IX, Art. 44, Art. 3, D. Transitoria segunda) desde *(Capítulo VIII. del Título I desarrolla los aspectos fundamentales de este tipo de enseñanzas,)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título I, Capítulo IX, Art. 44, Art. 3, D. Transitoria segunda) desde *(Capítulo VIII. del Título I desarrolla los aspectos fundamentales de este tipo de enseñanzas,)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo VIII. del Título I desarrolla los aspectos fundamentales de este tipo de enseñanzas,)*
+- **Modifica**: [**BOE-A-2001-7022**](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) desde *(Capítulo VIII. del Título I desarrolla los aspectos fundamentales de este tipo de enseñanzas,)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo VIII. del Título I desarrolla los aspectos fundamentales de este tipo de enseñanzas,)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo VIII. del Título I desarrolla los aspectos fundamentales de este tipo de enseñanzas,)*
+- **Fundamentado en**: [**BOE-A-2007-19326**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md) (Capítulo IX, Art. 11) desde *(Capítulo VIII. del Título I desarrolla los aspectos fundamentales de este tipo de enseñanzas,)*
+- **Fundamentado en**: [**Decreto BOC 135/2016**](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md)
+- **Fundamentado en**: [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**BOE-A-2001-7022**](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Fundamentado en**: [**BOE-A-2002-12018**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md)
+- **Fundamentado en**: [**BOE-A-2002-4371**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) (Art. 19, Art. 121, Art. 122) desde *(Capítulo VIII. del Título I desarrolla los aspectos fundamentales de este tipo de enseñanzas,)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 19, Art. 121, Art. 122) desde *(Capítulo VIII. del Título I desarrolla los aspectos fundamentales de este tipo de enseñanzas,)*
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 19, Art. 121, Art. 122) desde *(Capítulo VIII. del Título I desarrolla los aspectos fundamentales de este tipo de enseñanzas,)*
+- **Cita a**: [**BOE-A-2007-19326**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md) (Art. 44) desde *(Capítulo VIII. del Título I desarrolla los aspectos fundamentales de este tipo de enseñanzas,)*
+- **Cita a**: [**BOE-A-2007-19326**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md) (D. Adicional decimoquinta) desde *(Capítulo VIII. del Título I desarrolla los aspectos fundamentales de este tipo de enseñanzas,)*

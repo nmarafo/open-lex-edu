@@ -24,6 +24,14 @@ tags:
 - ayudas_estudio
 - andalucia
 relaciones:
+  cita:
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 7
+    titulo_destino: Título I
+    capitulo_destino: Capítulo II
+    articulos_destino:
+    - Art. 8
   desarrolla:
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
@@ -31,6 +39,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Decreto 266/1988, de 12 de julio, sobre régimen de subvenciones y ayudas al estudio para el alumnado no universitario.
 
 ## Preámbulo
@@ -41,7 +50,7 @@ Con la finalidad de agilizar la tramitación de estos expedientes, el Decreto 99
 
 Con el presente Decreto, junto a otras modificaciones puntuales, se amplia la desconcentración en las Comisiones Provinciales de Precios, atribuyéndoles competencias en municipios de hasta 100.000 habitantes o suministros de agua con menos de 25.000 abonados, modificándose también la composición de estas y de la Comisión de Precios de Andalucía para adaptarlas a la reestructuración de consejerías establecidas por el Decreto del Presidente 50/1988, de 29 de febrero. En su virtud a propuesta del Consejero de Hacienda y Planificación, y previa deliberación del consejo de Gobierno en su reunión del día 2 de agosto de 1988. DISPONGO:
 
-#### Artículo 2. La Comisión Delegada de Planificación y Asuntos Económicos fijará, en función de la política general de precios y de la ordenación de la actividad económica geenral, directrices que sobre política de revisión de precios autorizados hayan de seguirse en el ámbito territorial de la Comunidad Autónoma, contando para ello con el asesoramiento de la Comisión de Precios de Andalucía.
+#### Artículo . #### Artículo . #### Artículo 2. La Comisión Delegada de Planificación y Asuntos Económicos fijará, en función de la política general de precios y de la ordenación de la actividad económica geenral, directrices que sobre política de revisión de precios autorizados hayan de seguirse en el ámbito territorial de la Comunidad Autónoma, contando para ello con el asesoramiento de la Comisión de Precios de Andalucía.
 
 A tales efectos, el Consejero de Hacienda y Planificación presentará un informe anual a la Comisión Delegada de Planificación y Asuntos Económicos sobre las actividades relacionadas con esta materia.
 
@@ -117,15 +126,11 @@ En materia de abastecimientos de aguas esta función vendrá referida a servicio
 
 #### Artículo 7. El Consejero de Hacienda y Planificacón, a propuesta de la Comisión de Precios de Andalucía o, en su caso, de las comisiones Provinciales, resolverá los expedientes relativos a precios autorizados mediante orden publicada en el
 
-Artículo 8º. La convocatoria, el régimen de constitución, la adopción de acuerdos y la celebración de las sesiones de la Comisiones Provinciales de Precios, se efectuarán de acuerdo con lo establecido en el capítulo II, Título I, de la Ley vigente de Procedimiento Administrativo.
+#### Artículo 8. º. La convocatoria, el régimen de constitución, la adopción de acuerdos y la celebración de las sesiones de la Comisiones Provinciales de Precios, se efectuarán de acuerdo con lo establecido en el capítulo II, Título I, de la Ley vigente de Procedimiento Administrativo.
 
-#### Disposición adicional ....
+#### Disposición adicional . ... Las solicitudes de revisión de tarifas relativas a los servicios de transportes de viajeros en automóviles ligeros dentro del casco urbano, que se ajusten en su estructura y límites a lo establecido en el Acuerdo del Consejo de Gobierno de 22 de enero de 1986, modificado en cuanto a las tarifas máximas por el Acuerdo de 5 de julio de 1988, se tramitaran t resolverán conforme a lo establecido en el citado Acuerdo. En el supuesto de no observarse la estructura y límites de precios establecidos en dichos Acuerdosa, se seguirá la tramitación general prevista en el Decreto.
 
-Las solicitudes de revisión de tarifas relativas a los servicios de transportes de viajeros en automóviles ligeros dentro del casco urbano, que se ajusten en su estructura y límites a lo establecido en el Acuerdo del Consejo de Gobierno de 22 de enero de 1986, modificado en cuanto a las tarifas máximas por el Acuerdo de 5 de julio de 1988, se tramitaran t resolverán conforme a lo establecido en el citado Acuerdo. En el supuesto de no observarse la estructura y límites de precios establecidos en dichos Acuerdosa, se seguirá la tramitación general prevista en el Decreto.
-
-#### Disposición transitoria ....
-
-Los expedientes ya iniciados a la entrada en vigor de este Decreto, continuarán su tramitación y se resolveran de acuerdo con las disposiciones anteriores.
+#### Disposición transitoria . ... Los expedientes ya iniciados a la entrada en vigor de este Decreto, continuarán su tramitación y se resolveran de acuerdo con las disposiciones anteriores.
 
 ### Disposiciones finales
 
@@ -294,3 +299,14 @@ Canal de denuncias interno
 Política de cookies
 
 Protección de datos
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: `norm-es-c-1978` (Título I, Capítulo II, Art. 8) desde *(Art. 7)*

@@ -37,20 +37,91 @@ tags:
 - titulacion
 - titulaciones-requeridas
 relaciones:
-  desarrolla:
+  cita:
   - norma_id: norm-es-lo-2-2006
-  fundamentado_en:
-  - norma_id: norm-es-2001-7022
-  - norma_id: norm-es-2007-5478
-  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 1
   - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-es-rd-276-2007
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-es-2007-5478
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Adicional cuarta. Enseñanza de Lengua Extranjera en Educación Primaria por.
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Adicional cuarta. Enseñanza de Lengua Extranjera en Educación Primaria por.
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Adicional cuarta. Enseñanza de Lengua Extranjera en Educación Primaria por.
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 54
+    - Art. 7
+  - norma_id: norm-es-2001-7022
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 54
+    - Art. 7
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 54
+    - Art. 7
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 54
+    - Art. 7
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final primera. Título competencial y carácter básico.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-2007-5478
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-rd-132-2010
   - norma_id: norm-es-rd-276-2007
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '27'
+  - norma_id: '27'
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-rd-132-2010
   - norma_id: norm-es-2021-20113
@@ -58,6 +129,7 @@ relaciones:
   - norma_id: norm-es-2007-5478
   - norma_id: norm-es-rd-276-2007
 ---
+
 # Real Decreto 476/2013, de 21 de junio, por el que se regulan las condiciones de cualificación y formación del profesorado de los centros privados de educación secundaria obligatoria y de bachillerato.
 
 ## Preámbulo
@@ -176,3 +248,30 @@ Se faculta al titular del Ministerio de Educación, Cultura y Deporte para dicta
 #### Disposición final tercera. Entrada en vigor.
 
 El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado». Dado en Madrid, el 21 de junio de 2013. JUAN CARLOS R. El Ministro de Educación, Cultura y Deporte, JOSÉ IGNACIO WERT ORTEGA Este documento es de carácter informativo y no tiene valor jurídico.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 54, Art. 7) desde *(Art. 5)*
+- **Fundamentado en**: [**BOE-A-2001-7022**](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (Art. 54, Art. 7) desde *(Art. 5)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 54, Art. 7) desde *(Art. 5)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 54, Art. 7) desde *(Art. 5)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(D. Final primera. Título competencial y carácter básico.)*
+- **Fundamentado en**: [**BOE-A-2007-5478**](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](./RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
+- **Fundamentado en**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Art. 1)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Art. 1)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Art. 1)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 18) desde *(Art. 8)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 18) desde *(Art. 8)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 18) desde *(Art. 8)*
+- **Cita a**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md) (Art. 18) desde *(Art. 8)*
+- **Cita a**: [**BOE-A-2007-5478**](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md) (Art. 18) desde *(Art. 8)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(D. Adicional cuarta. Enseñanza de Lengua Extranjera en Educación Primaria por.)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(D. Adicional cuarta. Enseñanza de Lengua Extranjera en Educación Primaria por.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(D. Adicional cuarta. Enseñanza de Lengua Extranjera en Educación Primaria por.)*

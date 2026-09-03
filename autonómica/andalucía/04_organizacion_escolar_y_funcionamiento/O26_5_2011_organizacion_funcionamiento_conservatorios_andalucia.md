@@ -26,14 +26,22 @@ tags:
 - organizacion
 - andalucia
 relaciones:
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
+  cita:
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 3
   fundamentado_en:
+  - norma_id: norm-es-lo-1-1982
+    articulos_origen:
+    - Art. 22
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 ---
+
 # Orden de 26 de mayo de 2011, por la que se regulan la organización y el funcionamiento de los Conservatorios en Andalucía.
 
 ## Preámbulo
@@ -80,8 +88,6 @@ Boletín 116
 
 ##
 
-Histórico del BOJA Boletín número 116 de 15/06/2011
-
 ## 1. Disposiciones generales
 
 ### Consejería para la Igualdad
@@ -113,7 +119,7 @@ En su virtud, a propuesta de la Directora del Instituto Andaluz de la Mujer de c
 
 DISPONGO:
 
-Artículo único. Aprobación de las bases reguladoras tipo y de los formularios tipo para la concesión de subvenciones en régimen de concurrencia no competitiva.
+#### Artículo . #### Artículo . Artículo único. Aprobación de las bases reguladoras tipo y de los formularios tipo para la concesión de subvenciones en régimen de concurrencia no competitiva.
 
 1. Se aprueban las bases reguladoras del Instituto Andaluz de la Mujer para la concesión de subvenciones en régimen de concurrencia no competitiva, cuyo texto se inserta a continuación.
 
@@ -763,3 +769,16 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO1_1982 Proteccion Civil del Derecho al Honor e Intimidad**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1982_proteccion_civil_derecho_honor_intimidad_personal.md) desde *(Art. 22)*
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../../../estatal/01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) desde *(Art. 3)*

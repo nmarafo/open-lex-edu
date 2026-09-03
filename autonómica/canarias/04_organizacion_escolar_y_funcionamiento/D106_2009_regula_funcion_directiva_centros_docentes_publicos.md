@@ -28,13 +28,26 @@ tags:
 - profesorado
 - seleccion-directores
 relaciones:
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 9
+    - Art. 1
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 3
+    - Art. 1
+    - Art. 13
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
+  cita:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 31
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
   - norma_id: norm-can-d-81-2010
   - norma_id: norm-can-o-2013-10-09
@@ -47,10 +60,11 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '131'
-  - '132'
+  - norma_id: '131'
+  - norma_id: '132'
 anexos_extraidos_pdf: true
 ---
+
 # Decreto 106/2009, de 28 de julio, por el que se regula la función directiva en los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -419,3 +433,25 @@ Asimismo se estará a lo dispuesto en los preceptos básicos de la Ley 38/2003, 
 
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 9, Art. 1)
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 3, Art. 1, Art. 13)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamento de**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
+- **Fundamento de**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](./O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
+- **Fundamento de**: [**Resolucion BOC 95**](./R2_12_2025_convoca_procedimiento_seleccion_directores_directoras_centros.md)
+- **Fundamento de**: [**Resolucion BOC 1**](../01_marco_normativo_general_y_organico/R30_6_2017_dictan_instrucciones_actuacion_centros_docentes_sostenidos.md)
+- **Fundamento de**: [**Resolucion BOC 126**](../07_convivencia_bienestar_y_protocolos/R21_6_2018_dictan_instrucciones_organizacion_funcionamiento_dirigidas_centros.md)
+- **Fundamento de**: [**Resolucion BOC 57**](../03_ordenacion_curricular_y_ensenanzas/R27_6_2023_resoluci_n_junio_direcci_n_general.md)
+- **Fundamento de**: [**Resolucion BOC 139**](../08_personal_docente/R24_2_2026_dictan_instrucciones_regulacion_periodo_vacacional_regimen.md)
+- **Fundamento de**: [**Resolucion BOC 94**](./R12_1_2012_dictan_instrucciones_procedimiento_establecen_indicadores_evaluacion.md)
+- **Cita a**: `norm-es-c-1978` (Art. 31)

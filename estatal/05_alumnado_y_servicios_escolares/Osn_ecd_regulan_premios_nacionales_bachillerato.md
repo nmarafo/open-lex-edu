@@ -23,7 +23,86 @@ tags:
 - ensenanzas-deportivas
 - profesorado
 relaciones:
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 89
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 89
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 89
+  - norma_id: norm-es-2016-3229
+    disposiciones_destino:
+    - D. Final quinta
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 17
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 17
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 17
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 5
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 5
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 5
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
+  cita:
+  - norma_id: norm-es-l-39-2015
+    articulos_origen:
+    - Art. 6
+    articulos_destino:
+    - Art. 16
+  - norma_id: norm-es-l-39-2015
+    articulos_origen:
+    - Art. 6
+    articulos_destino:
+    - Art. 68
+  - norma_id: norm-es-l-40-2015
+    articulos_origen:
+    - Art. 8
+    titulo_destino: Título PRELIMINAR
+    capitulo_destino: Capítulo II
+    seccion_destino: Sección 3
+    articulos_destino:
+    - Art. 22
+  - norma_id: norm-es-l-39-2015
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 3
+    - Art. 8
+    - Art. 123
+    - Art. 124
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final primera. Título competencial.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2016-3229
   - norma_id: norm-es-2021-20113
@@ -33,12 +112,13 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-es-2016-3229
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
 ---
+
 # Orden ECD/482/2018, de 4 de mayo, por la que se regulan los Premios Nacionales de Bachillerato.
 
 ## Preámbulo
@@ -198,3 +278,33 @@ Madrid, 4 de mayo de 2018.–El Ministro de Educación, Cultura y Deporte, Íñi
 - [**BOE-A-2016-3229**](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
 - [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](./LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 89)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 89)
+- **Modifica**: [**BOE-A-2010-12201**](./LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 89)
+- **Modifica**: [**BOE-A-2016-3229**](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md) (D. Final quinta)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 17) desde *(Art. 3)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 17) desde *(Art. 3)*
+- **Modifica**: [**BOE-A-2010-12201**](./LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 17) desde *(Art. 3)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Art. 5)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Art. 5)*
+- **Modifica**: [**BOE-A-2010-12201**](./LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Art. 5)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(D. Derogatoria única. Derogación normativa.)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(D. Derogatoria única. Derogación normativa.)*
+- **Modifica**: [**BOE-A-2010-12201**](./LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(D. Derogatoria única. Derogación normativa.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(D. Final primera. Título competencial.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](./LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2016-3229**](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 16) desde *(Art. 6)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 68) desde *(Art. 6)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Título PRELIMINAR, Capítulo II, Sección 3, Art. 22) desde *(Art. 8)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 3, Art. 8, Art. 123, Art. 124) desde *(Art. 13)*

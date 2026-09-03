@@ -29,18 +29,37 @@ tags:
 - participacion-familias
 - profesorado
 relaciones:
+  cita:
+  - norma_id: norm-es-lo-8-1985
+    articulos_destino:
+    - Art. 5
+    disposiciones_destino:
+    - D. Final primera
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 6
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 11
+    articulos_destino:
+    - Art. 8
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 15
+    articulos_destino:
+    - Art. 15
   desarrolla:
   - norma_id: norm-es-lo-8-1985
   fundamentado_en:
   - norma_id: norm-es-ce-1978
-  desarrollado_por:
-  - norma_id: norm-can-d-234-1996
-  fundamento_de: []
   fundamentos_derecho:
   - norma_id: norm-es-lo-8-1985
   articulos:
-  - '27'
+  - norma_id: '27'
 ---
+
 # Real Decreto 1533/1986, de 11 de julio, por el que se regulan las asociaciones de padres de alumnos.
 
 ## Preámbulo
@@ -169,3 +188,15 @@ JOSÉ MARÍA MARAVALL HERRERO
 
 - [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 5, D. Final primera)
+- **Cita a**: `norm-es-c-1978` (Art. 6) desde *(Art. 6)*
+- **Cita a**: `norm-es-c-1978` (Art. 8) desde *(Art. 11)*
+- **Cita a**: `norm-es-c-1978` (Art. 15) desde *(Art. 15)*

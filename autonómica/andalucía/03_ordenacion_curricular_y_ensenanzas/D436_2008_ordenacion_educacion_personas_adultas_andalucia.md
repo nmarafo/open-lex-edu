@@ -27,13 +27,166 @@ tags:
 - esperanza
 - andalucia
 relaciones:
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 52
+    - Art. 149
+    - Art. 27
   - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo II. Acceso a los ciclos formativos.
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 41
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo II. Acceso a los ciclos formativos.
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 41
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo II. Acceso a los ciclos formativos.
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 41
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo VII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Final primera. Reproducción de normativa estatal.
+    articulos_destino:
+    - Art. 2
+    - Art. 3
+    - Art. 149
+  - norma_id: norm-es-2002-12018
+    capitulo_origen: Capítulo VII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Final primera. Reproducción de normativa estatal.
+    articulos_destino:
+    - Art. 2
+    - Art. 3
+    - Art. 149
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo VII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Final primera. Reproducción de normativa estatal.
+    articulos_destino:
+    - Art. 2
+    - Art. 3
+    - Art. 149
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo VII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Final primera. Reproducción de normativa estatal.
+    articulos_destino:
+    - Art. 2
+    - Art. 3
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Final primera. Reproducción de normativa estatal.
+    articulos_destino:
+    - Art. 2
+    - Art. 3
+    - Art. 149
+  - norma_id: norm-and-l17-2007
   - norma_id: norm-es-l-39-2015
+  desarrolla:
+  - norma_id: norm-and-l17-2007
+    titulo_destino: Título II
+    capitulo_destino: Capítulo V
+    articulos_destino:
+    - Art. 39
+    - Art. 9
+    - Art. 10
+    - Art. 68
+    - Art. 72
+    - Art. 21
+  - norma_id: norm-es-lo-2-2006
+    titulo_destino: Título II
+    capitulo_destino: Capítulo V
+    articulos_destino:
+    - Art. 39
+    - Art. 9
+    - Art. 10
+    - Art. 68
+    - Art. 72
+    - Art. 21
+  - norma_id: norm-es-2002-12018
+    titulo_destino: Título II
+    capitulo_destino: Capítulo V
+    articulos_destino:
+    - Art. 39
+    - Art. 9
+    - Art. 10
+    - Art. 68
+    - Art. 72
+    - Art. 21
+  - norma_id: norm-es-2021-20113
+    titulo_destino: Título II
+    capitulo_destino: Capítulo V
+    articulos_destino:
+    - Art. 39
+    - Art. 9
+    - Art. 10
+    - Art. 68
+    - Art. 72
+    - Art. 21
+  - norma_id: norm-es-2010-12201
+    titulo_destino: Título II
+    capitulo_destino: Capítulo V
+    articulos_destino:
+    - Art. 39
+    - Art. 9
+    - Art. 10
+    - Art. 68
+    - Art. 72
+    - Art. 21
+  - norma_id: norm-es-2002-12018
+    capitulo_origen: Capítulo I. Disposiciones de carácter general.
+    articulos_origen:
+    - Art. 3
+  cita:
+  - norma_id: norm-es-2002-12018
+    capitulo_origen: Capítulo I. Disposiciones de carácter general.
+    articulos_origen:
+    - Art. 6
+    articulos_destino:
+    - Art. 8
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo II. Acceso a los ciclos formativos.
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 41
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo II. Acceso a los ciclos formativos.
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 41
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo II. Acceso a los ciclos formativos.
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 41
+  - norma_id: norm-and-l17-2007
+    capitulo_origen: Capítulo VII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Final segunda. Reproducción de normativa autonómica.
+    articulos_destino:
+    - Art. 3
 ---
+
 # Decreto 436/2008, de 2 de septiembre, por el que se establece la ordenación y las enseñanzas de la Educación de Personas Adultas en la Comunidad Autónoma de Andalucía.
 
 ## Preámbulo
@@ -43,7 +196,7 @@ Página núm. 6 Sevilla, 12 de septiembre 2008 CONSEJERÍA DE EDUCACIÓN DECRETO
 texto constitucional, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia. El artículo 39 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece los principios generales de la formación profesional del sistema educativo, disponiendo, en su apartado 6, que el Gobierno, previa consulta a las Comunidades Autónomas, establecerá las titulaciones correspondientes a los estudios de formación profesional, así como los aspectos básicos de currículo de cada una de ellas. En desarrollo de este precepto, el Real Decreto 1538/2006, de 15 de diciembre, por el que se establece la ordenación general de la formación profesional del sistema educativo, fija la finalidad y la estructura de los títulos de formación profesional, definiendo los elementos que deben especificar las normas que el Gobierno dicte para regular dichos títulos y establecer sus contenidos mínimos. Asimismo, regula la oferta, el acceso, la admisión y la matrícula, con el fin de que las enseñanzas conducentes a los títulos de Técnico y Técnico Superior permitan la configuración de vías formativas adaptadas a las necesidades e intereses personales y el tránsito de la formación al trabajo y viceversa. Por otro lado, la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, establece los principios y fines del Sistema Nacional de Cualificaciones y Formación Profesional y, en su artículo 9, define la formación profesional como el conjunto de acciones formativas que capacitan para el desempeño cualificado de las diversas profesiones, el acceso al empleo y la participación activa en la vida social, cultural y económica. Asimismo, en su artículo 10.1 dispone que las ofertas de formación profesional referidas al Catálogo Nacional de Cualificaciones Profesionales son los títulos y los certificados de profesionalidad. La Ley 17/2007, de 10 de diciembre, de Educación de Andalucía, constituye el nuevo marco normativo autonómico en el que se insertan todas las enseñanzas del sistema educativo de Andalucía, y entre ellas, la formación profesional, a la que dedica el capítulo V del título II. En ella se sientan las normas fundamentales que han de regir el desarrollo de estas enseñanzas en la Comunidad Autónoma, estableciendo en su artículo 68.4 que la Consejería competente en materia de educación promoverá las medidas oportunas para adecuar la oferta pública de formación profesional a las necesidades del tejido productivo andaluz. Además, en su artículo 72.2 dispone que la formación profesional se organizará de forma flexible, ofreciendo un catálogo modular asociado a las competencias profesionales incluidas en el Sistema Andaluz de Cualificaciones Profesionales. Por todo lo anteriormente expuesto, se hace necesaria una ordenación de la formación profesional del sistema educativo en la Comunidad Autónoma de Andalucía que permita poner en marcha las nuevas titulaciones, adaptándolas a las peculiaridades de nuestro sistema productivo y flexibilizando las vías para cursar estos estudios, de manera que se haga posible el aprendizaje a lo largo de la vida. Esta flexibilidad debe aplicarse tanto en la organización de las enseñanzas, adaptando el funcionamiento de los centros docentes a las necesidades de la población, como en los desarrollos curriculares, posibilitando una rápida adaptación de estos a los cambios tecnológicos y a los modos de producción. El presente Decreto regula la organización de las enseñanzas de formación profesional inicial que forman parte del sistema educativo en la Comunidad Autónoma de Andalucía, establece modalidades en la oferta de las mismas y determina las características fundamentales que habrá de tener el currículo de las enseñanzas correspondientes a cada uno de los títulos de formación profesional, remitiendo la regulación específica de los mismos a una norma posterior que permita una mayor agilidad en la adaptación de cada título a las necesidades de la población y del sistema productivo. Además, establece las medidas para garantizar la calidad de estas enseñanzas y determina las condiciones del acceso, la evaluación y la formación en centros de trabajo, así como los aspectos específicos de la oferta de estos estudios para personas adultas. En su virtud, a propuesta de la Consejera de Educación en el ejercicio de las competencias que le atribuye el artículo 21.3 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, de acuerdo con el Consejo Consultivo de Andalucía y previa deliberación del Consejo de Gobierno, en su reunión del día 2 de septiembre de 2008,
 DISPONGO:
 
-## Capítulo I. Disposiciones de carácter general.
+#### Artículo . #### Artículo . ## Capítulo I. Disposiciones de carácter general.
 
 #### Artículo 1. Objeto y ámbito de aplicación.
 
@@ -85,7 +238,7 @@ Las enseñanzas de formación profesional inicial se ordenan en ciclos formativo
 
 Los títulos de formación profesional inicial pueden obtenerse cursando las enseñanzas de formación profesional a través de las modalidades establecidas en el presente Decreto o mediante la superación de las pruebas organizadas para su obtención directa. Asimismo, para la obtención de los títulos se podrán reconocer las competencias profesionales adquiridas a través de la experiencia laboral o de vías no formales de formación, de acuerdo con lo recogido en el artículo 8 de la Ley Orgánica 5/2002, de 19 de junio.
 
-## Capítulo II. Acceso a los ciclos formativos.
+### Capítulo II. Acceso a los ciclos formativos.
 
 #### Artículo 7. Acceso a la formación profesional inicial.
 
@@ -125,7 +278,7 @@ Las normas que regulen las enseñanzas de formación profesional inicial, conduc
 
 Página núm. 8 Sevilla, 12 de septiembre 2008 por su perfil profesional requieran determinadas condiciones psicofísicas, ligadas a situaciones de seguridad o salud, establecerán qué documentación acreditativa o, en su caso, qué pruebas serán necesarias para la admisión en el ciclo formativo correspondiente.
 
-## Capítulo III. Enseñanzas y currículo.
+### Capítulo III. Enseñanzas y currículo.
 
 #### Artículo 12. Enseñanzas.
 
@@ -183,7 +336,7 @@ f) Necesidades y propuestas de formación del profesorado.
 
 A fin de promover los principios de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad, la Consejería competente en materia de educación dispondrá recursos humanos y materiales que promuevan el acceso de estas personas al currículo de las enseñanzas de formación profesional inicial.
 
-## Capítulo IV. Personas adultas.
+### Capítulo IV. Personas adultas.
 
 #### Artículo 18. Oferta para personas adultas.
 
@@ -214,7 +367,7 @@ c) Encontrarse en situación personal extraordinaria de enfermedad, discapacidad
 
 Las Consejerías competentes en las materias de empleo y de educación, en el ámbito de sus respectivas competencias, establecerán un dispositivo de reconocimiento y acreditación de competencias profesionales adquiridas a través de la experiencia laboral y de aprendizajes no formales, para lo que se contará con la colaboración de las organizaciones empresariales y sindicales.
 
-## Capítulo V. Calidad.
+### Capítulo V. Calidad.
 
 #### Artículo 23. Medidas de calidad.
 
@@ -224,7 +377,7 @@ La Consejería competente en materia de educación adoptará medidas para la mej
 
 Al objeto de garantizar la calidad en las enseñanzas de formación profesional inicial, la Consejería competente en materia de educación promoverá las acciones necesarias para la implantación de sistemas de gestión de calidad y de mejora continua.
 
-## Capítulo VI. Evaluación y titulación.
+### Capítulo VI. Evaluación y titulación.
 
 #### Artículo 25. Evaluación.
 
@@ -262,7 +415,7 @@ La Consejería competente en materia de educación establecerá las condiciones 
 
 2. Las competencias profesionales asociadas a los módulos profesionales superados se reflejarán en los documentos del proceso de evaluación de los alumnos y las alumnas.
 
-## Capítulo VII. Medidas de apoyo al profesorado para el desarrollo del currículo.
+### Capítulo VII. Medidas de apoyo al profesorado para el desarrollo del currículo.
 
 #### Artículo 31. Formación permanente del profesorado.
 
@@ -308,4 +461,30 @@ Se habilita a la Consejera de Educación para dictar cuantas disposiciones resul
 
 #### Disposición final cuarta. Entrada en vigor.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 2 de septiembre de 2008 MANUEL CHAVES GONZÁLEZ Presidente de la Junta de Andalucía TERESA JIMÉNEZ VÍLCHEZ Consejera de Educación
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) (Título II, Capítulo V, Art. 39, Art. 9, Art. 10, Art. 68, Art. 72, Art. 21)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título II, Capítulo V, Art. 39, Art. 9, Art. 10, Art. 68, Art. 72, Art. 21)
+- **Desarrolla**: [**BOE-A-2002-12018**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md) (Título II, Capítulo V, Art. 39, Art. 9, Art. 10, Art. 68, Art. 72, Art. 21)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título II, Capítulo V, Art. 39, Art. 9, Art. 10, Art. 68, Art. 72, Art. 21)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título II, Capítulo V, Art. 39, Art. 9, Art. 10, Art. 68, Art. 72, Art. 21)
+- **Desarrolla**: [**BOE-A-2002-12018**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md) desde *(Capítulo I. Disposiciones de carácter general., Art. 3)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 52, Art. 149, Art. 27)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 41) desde *(Capítulo II. Acceso a los ciclos formativos., Art. 7)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 41) desde *(Capítulo II. Acceso a los ciclos formativos., Art. 7)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 41) desde *(Capítulo II. Acceso a los ciclos formativos., Art. 7)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 2, Art. 3, Art. 149) desde *(Capítulo VII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Final primera. Reproducción de normativa estatal.)*
+- **Fundamentado en**: [**BOE-A-2002-12018**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md) (Art. 2, Art. 3, Art. 149) desde *(Capítulo VII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Final primera. Reproducción de normativa estatal.)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 2, Art. 3, Art. 149) desde *(Capítulo VII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Final primera. Reproducción de normativa estatal.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 2, Art. 3, Art. 149) desde *(Capítulo VII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Final primera. Reproducción de normativa estatal.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 2, Art. 3, Art. 149) desde *(Capítulo VII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Final primera. Reproducción de normativa estatal.)*
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**BOE-A-2002-12018**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md) (Art. 8) desde *(Capítulo I. Disposiciones de carácter general., Art. 6)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 41) desde *(Capítulo II. Acceso a los ciclos formativos., Art. 7)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 41) desde *(Capítulo II. Acceso a los ciclos formativos., Art. 7)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 41) desde *(Capítulo II. Acceso a los ciclos formativos., Art. 7)*
+- **Cita a**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) (Art. 3) desde *(Capítulo VII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Final segunda. Reproducción de normativa autonómica.)*

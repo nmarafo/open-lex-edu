@@ -25,18 +25,156 @@ tags:
 - derechos_y_deberes
 - andalucia
 relaciones:
-  desarrolla:
+  cita:
+  - norma_id: norm-and-d-19-2007
+  - norma_id: norm-and-d-19-2007
+    articulos_destino:
+    - Art. 19
+  - norma_id: norm-and-d-54-1989
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo II. Organización.
+    articulos_origen:
+    - D. Adicional sexta. Dietas y gastos de desplaza-.
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo II. Organización.
+    articulos_origen:
+    - D. Adicional octava. Constitución del Observato-.
+    disposiciones_destino:
+    - D. Adicional octava
+  modifica:
   - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-lo-8-2021
-  modifica_a: []
-  modificado_por: []
-  afecta_a_articulos: []
+    articulos_destino:
+    - Art. 27
+    - Art. 81
+    - Art. 149
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 27
+    - Art. 81
+    - Art. 149
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 27
+    - Art. 81
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 27
+    - Art. 81
+    - Art. 149
+  - norma_id: norm-and-d-85-1999
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo II. Organización.
+    articulos_origen:
+    - D. Final primera. Modificación del Decreto.
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo II. Organización.
+    articulos_origen:
+    - D. Final primera. Modificación del Decreto.
+    articulos_destino:
+    - Art. 1
+    - Art. 2
+    - Art. 6
+    - Art. 8
+    - Art. 13
+    - Art. 18
+    - Art. 21
+    - Art. 26
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo II. Organización.
+    articulos_origen:
+    - D. Final primera. Modificación del Decreto.
+    articulos_destino:
+    - Art. 1
+    - Art. 2
+    - Art. 6
+    - Art. 8
+    - Art. 13
+    - Art. 18
+    - Art. 21
+    - Art. 26
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo II. Organización.
+    articulos_origen:
+    - D. Final primera. Modificación del Decreto.
+    articulos_destino:
+    - Art. 1
+    - Art. 2
+    - Art. 6
+    - Art. 8
+    - Art. 13
+    - Art. 18
+    - Art. 21
+    - Art. 26
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo II. Organización.
+    articulos_origen:
+    - D. Final primera. Modificación del Decreto.
+    articulos_destino:
+    - Art. 1
+    - Art. 2
+    - Art. 6
+    - Art. 8
+    - Art. 13
+    - Art. 18
+    - Art. 21
+    - Art. 26
   fundamentado_en:
+  - norma_id: norm-and-l9-1999
+    articulos_origen:
+    - Art. 1
+    articulos_destino:
+    - Art. 21
   - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título III
+    capitulo_origen: Capítulo IV. Procedimiento para la imposición de las correcciones
+      y de las medidas disciplinarias.
+    articulos_origen:
+    - Art. 27
+    articulos_destino:
+    - Art. 127
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título III
+    capitulo_origen: Capítulo IV. Procedimiento para la imposición de las correcciones
+      y de las medidas disciplinarias.
+    articulos_origen:
+    - Art. 27
+    articulos_destino:
+    - Art. 127
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título III
+    capitulo_origen: Capítulo IV. Procedimiento para la imposición de las correcciones
+      y de las medidas disciplinarias.
+    articulos_origen:
+    - Art. 27
+    articulos_destino:
+    - Art. 127
   - norma_id: norm-es-lo-8-2021
   - norma_id: norm-es-lo-1-1996
   - norma_id: norm-and-l17-2007
+  deroga:
+  - norma_id: norm-and-d-85-1999
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo II. Organización.
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
+    capitulo_destino: Capítulo II
+    articulos_destino:
+    - Art. 1
+    - Art. 2
+    - Art. 3
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
 ---
+
 # Decreto 19/2007, de 23 de enero, por el que se adoptan medidas para la promoción de la cultura de paz y la mejora de la convivencia en los centros educativos
 
 ## Preámbulo
@@ -51,7 +189,7 @@ un conjunto de reglas que la regulen y que sean conocidas por todos, un sistema 
 como principios del sistema educativo la transmisión y puesta en práctica de valores que favorezcan la libertad personal, la responsabilidad, la ciudadanía democrática, la solidaridad, la tolerancia, la igualdad, el respeto y la justicia, así como que ayuden a superar cualquier tipo de discriminación, la educación para la prevención de los conflictos y para la resolución pacífica de los mismos, así como la no violencia en todos los ámbitos de la vida personal, familiar y social y el desarrollo de la igualdad de derechos y oportunidades y el fomento de la igualdad efectiva entre hombres y mujeres. En Andalucía, la [Ley 9/1999](../06_atencion_diversidad_y_orientacion/L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre, de Solidaridad en la Educación, establece como uno de sus objetivos el desarrollo de actitudes de comunicación y respeto entre todos los miembros de la comunidad educativa, independientemente de sus capacidades personales y de su situación social o cultural. Finalmente, el Pleno del Parlamento de Andalucía, en sesión celebrada los días 29 y 30 de junio 2005, aprobó la Resolución número 43 en el marco del debate sobre el estado de la Comunidad Autónoma, instando al Consejo de Gobierno a promover un amplio debate entre todos los sectores de la comunidad educativa en el seno del Consejo Escolar de Andalucía. Como fruto de este debate, el Consejo Escolar de Andalucía elaboró un informe sobre la convivencia en los centros educativos en Andalucía el 20 de diciembre de 2005. En su virtud, a propuesta de la Consejera de Educación, de conformidad con lo establecido en el apartado 3 del artículo 21 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, de acuerdo con el Consejo Consultivo de Andalucía y previa deliberación del Consejo de Gobierno en su reunión del día 23 de enero de 2007,
 DISPONGO:
 
-## Título I
+#### Artículo . #### Artículo . ## Título I
 
 PRINCIPIOS Y DISPOSICIONES GENERALES
 
@@ -90,11 +228,9 @@ e) Potenciar en los centros educativos el desarrollo de programas de innovación
 f) Promover la colaboración de los miembros de la comunidad educativa con las instituciones y agentes sociales de su entorno para mejorar el ambiente socioeducativo de los centros docentes.
 g) Impulsar la coordinación y colaboración de las distintas Administraciones y entidades públicas, asociaciones, medios de comunicación y otras entidades en la búsqueda de mecanismos que conduzcan a la promoción de la cultura de paz y a la mejora de la convivencia escolar, mediante la creación de un Observatorio sobre la Convivencia Escolar en Andalucía.
 
-## Título II
+## Título II. ACTUACIONES EN LOS CENTROS EDUCATIVOS
 
-ACTUACIONES EN LOS CENTROS EDUCATIVOS
-
-## Capítulo I. Promoción de la convivencia en los centros educativos.
+### Capítulo I. Promoción de la convivencia en los centros educativos.
 
 #### Artículo 4. Plan de convivencia.
 
@@ -181,7 +317,7 @@ h) Cualesquiera otras que puedan serle atribuidas por el Consejo Escolar, relati
 
 4. En el plan de convivencia se determinará el profesorado que atenderá el aula de convivencia, implicando en ella al tutor o tutora del grupo al que pertenece cada alumno o alumna que sea atendido en la misma y al correspondiente departamento de orientación o equipo de orientación educativa, y se concretarán las actuaciones que se realizarán en la misma, de acuerdo con los criterios pedagógicos que, a tales efectos, sean establecidos por el Equipo Técnico de Coordinación Pedagógica.
 
-## Capítulo II. Tutoría y orientación.
+### Capítulo II. Tutoría y orientación.
 
 #### Artículo 10. Tutoría.
 
@@ -203,7 +339,7 @@ presente Decreto, con la finalidad de analizar su evolución e integración esco
 
 4. Los departamentos de orientación planificarán y propondrán anualmente al Claustro de Profesores y al Consejo Escolar del centro un conjunto mínimo de actuaciones, teniendo en cuenta las acciones propuestas por el Equipo Técnico Provincial para la Orientación Educativa y Profesional.
 
-## Capítulo III. Seguimiento y medidas de seguridad en los centros educativos.
+### Capítulo III. Seguimiento y medidas de seguridad en los centros educativos.
 
 #### Artículo 12. Seguimiento,.
 
@@ -221,13 +357,9 @@ apoyo y asesoramiento a los. centros educativos.
 
 La Administración educativa promoverá la colaboración con las Administraciones con competencias en materia de seguridad pública o ciudadana para favorecer la adecuada protección de los centros docentes e impulsar la adopción de medidas preventivas de seguridad del entorno escolar en determinadas zonas o centros.
 
-## Título III
+## Título III. NORMAS DE CONVIVENCIA
 
-NORMAS DE CONVIVENCIA
-
-### Capítulo I
-
-### Disposiciones generales
+### Capítulo I. ### Disposiciones generales
 
 #### Artículo 14. Elaboración de las normas de convivencia.
 
@@ -280,7 +412,7 @@ f) La naturaleza y entidad de los perjuicios causados al centro o a cualquiera d
 
 2. Asimismo, podrán corregirse las actuaciones del alumnado que, aunque realizadas por cualquier medio e incluso fuera del recinto y del horario escolar, estén motivadas o directamente relacionadas con el ejercicio de sus derechos y el cumplimiento de sus deberes como tal.
 
-## Capítulo II. Conductas contrarias a las normas de convivencia y su corrección.
+### Capítulo II. Conductas contrarias a las normas de convivencia y su corrección.
 
 #### Artículo 20. Conductas.
 
@@ -328,7 +460,7 @@ b) Para la prevista en la letra b), el tutor o tutora del alumno.
 c) Para las previstas en las letras c) y d), el jefe o jefa de estudios.
 d) Para la prevista en la letra e), el director o directora, que dará cuenta a la Comisión de Convivencia.
 
-## Capítulo III. Conductas gravemente perjudiciales para la convivencia y su corrección.
+### Capítulo III. Conductas gravemente perjudiciales para la convivencia y su corrección.
 
 #### Artículo 23. Conductas.
 
@@ -368,7 +500,7 @@ f) Cambio de centro docente.
 
 #### Artículo 25. Órgano competente para imponer las medi das disciplinarias de las conductas gravemente perjudiciales para las normas de convivencia Será competencia del director o directora del centro la imposición de las medidas disciplinarias previstas en el artículo 24 del presente Decreto, de lo que dará traslado a la Comisión de Convivencia.
 
-## Capítulo IV. Procedimiento para la imposición de las correcciones y de las medidas disciplinarias.
+### Capítulo IV. Procedimiento para la imposición de las correcciones y de las medidas disciplinarias.
 
 #### Artículo 26. Procedimiento general.
 
@@ -384,7 +516,7 @@ f) Cambio de centro docente.
 
 presente Decreto podrán ser revisadas por el Consejo Escolar a instancia de los padres, madres o representantes legales del alumnado, de acuerdo con lo establecido en el artículo 127 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. A tales efectos, el director o directora convocará una sesión extraordinaria del Consejo Escolar en el plazo máximo de dos días lectivos, contados desde que se presentó la instancia, para que este órgano proceda a confirmar o revisar la decisión y proponga, si corresponde, las medidas oportunas.
 
-## Capítulo V. Procedimiento para la imposición de la medida disciplinaria de cambio de centro.
+### Capítulo V. Procedimiento para la imposición de la medida disciplinaria de cambio de centro.
 
 #### Artículo 28. Inicio del expediente.
 
@@ -422,11 +554,9 @@ d) Fecha de efectos de la medida disciplinaria.
 
 2. Contra la resolución que haya sido dictada por el director o directora de un centro docente privado concertado se podrá presentar, en el plazo de un mes, reclamación ante el Delegado o Delegada Provincial de la Consejería competente en materia de educación, cuya resolución, que se dictará en el plazo máximo de tres meses, pondrá fin a la vía administrativa. Transcurrido dicho plazo sin que se haya dictado resolución, la reclamación podrá entenderse desestimada.
 
-## Título IV
+## Título IV. RECURSOS Y APOYOS PARA LA MEJORA DE LA CONVIVENCIA
 
-RECURSOS Y APOYOS PARA LA MEJORA DE LA CONVIVENCIA
-
-## Capítulo I. Protocolos de actuación.
+### Capítulo I. Protocolos de actuación.
 
 #### Artículo 34. Actuación.
 
@@ -436,7 +566,7 @@ e intervención ante conductas de. maltrato, discriminación o agresión.
 
 2. La Administración educativa establecerá un protocolo de actuación para los supuestos de agresiones que los y las trabajadoras de los centros educativos pudieran sufrir en el desarrollo de sus funciones. Además, adoptará las medidas oportunas para garantizar la debida protección y asistencia jurídica en estos supuestos.
 
-## Capítulo II. Recursos humanos.
+### Capítulo II. Recursos humanos.
 
 #### Artículo 35. Profesorado.
 
@@ -450,7 +580,7 @@ de apoyo y disminución de la ra-. tio del alumnado. Los centros educativos que 
 
 3. En los institutos de educación secundaria en que se escolarice alumnado con una especial problemática de convivencia escolar se podrá, asimismo, adscribir a sus puestos de trabajo a personal funcionario con la titulación de educador social. Este personal, que se integrará en el departamento de orientación, desarrollará las tareas que se recogen en el apartado anterior.
 
-## Capítulo III. Formación.
+### Capítulo III. Formación.
 
 #### Artículo 37. Formación de la comunidad educativa.
 
@@ -464,7 +594,7 @@ de apoyo y disminución de la ra-. tio del alumnado. Los centros educativos que 
 
 5. La Administración educativa potenciará la celebración de actividades formativas conjuntas en las que participen padres y madres del alumnado, profesorado y equipos directivos, encaminadas al fomento de la cultura de paz y a la participación de la comunidad educativa en los centros docentes.
 
-## Capítulo IV. Proyectos integrales «Escuela: Espacio de Paz».
+### Capítulo IV. Proyectos integrales «Escuela: Espacio de Paz».
 
 #### Artículo 38. Bases reguladoras.
 
@@ -495,7 +625,7 @@ en su labor de impulso y seguimiento de la Red Andaluza «Escuela: Espacio de Pa
 d) Colaborar con las Comisiones Provinciales de Seguimiento de la Convivencia Escolar y con el Observatorio para la Convivencia Escolar de Andalucía en aquellas tareas que le sean atribuidas.
 e) Cualquier otra función que le atribuya la Administración educativa en el ámbito de sus competencias.
 
-## Capítulo V. Campañas y materiales.
+### Capítulo V. Campañas y materiales.
 
 #### Artículo 42. Realización de campañas de sensibilización. e información.
 
@@ -511,11 +641,9 @@ e) Cualquier otra función que le atribuya la Administración educativa en el á
 
 3. La Consejería competente en materia de educación potenciará la realización de proyectos de innovación e investigación sobre las materias que constituyen el objeto del presente Decreto, tanto por parte de los centros educativos como por parte del profesorado, a través de las correspondientes convocatorias de ayudas.
 
-## Título V
+## Título V. COORDINACIÓN, SEGUIMIENTO Y EVALUACIÓN
 
-COORDINACIÓN, SEGUIMIENTO Y EVALUACIÓN
-
-## Capítulo I. Gabinetes provinciales de asesoramiento sobre la convivencia escolar.
+### Capítulo I. Gabinetes provinciales de asesoramiento sobre la convivencia escolar.
 
 #### Artículo 44. Creación, organización y funcionamiento.
 
@@ -541,7 +669,7 @@ g) Asesorar a las Federaciones Provinciales de las Asociaciones de Madres y Padr
 h) Colaborar con el Observatorio para la Convivencia Escolar de Andalucía en aquellas funciones que le sean encomendadas.
 i) Cualquier otra función que les atribuya la Administración educativa en el ámbito de sus competencias.
 
-## Capítulo II. Comisiones Provinciales de Seguimiento de la Convivencia Escolar.
+### Capítulo II. Comisiones Provinciales de Seguimiento de la Convivencia Escolar.
 
 #### Artículo 46. Composición y competencias.
 
@@ -590,17 +718,15 @@ c) Valoración de los resultados, conclusiones y propuestas de mejora.
 
 2. La persona titular de la Delegación Provincial dará traslado del informe anual a la persona titular del centro directivo de la Consejería de Educación competente en la materia.
 
-## Capítulo III. Evaluación.
+### Capítulo III. Evaluación.
 
 #### Artículo 49. Inspección educativa.
 
 La inspección educativa realizará el seguimiento y evaluación en los centros educativos de las medidas y actuaciones contenidas en el presente Decreto, de acuerdo con lo que, a tales efectos, se establezca en los planes de actuación de la inspección educativa, sin perjuicio de las que, en este ámbito, puedan corresponder a otros órganos.
 
-## Título VI
+## Título VI. OBSERVATORIO PARA LA CONVIVENCIA ESCOLAR EN ANDALUCÍA
 
-OBSERVATORIO PARA LA CONVIVENCIA ESCOLAR EN ANDALUCÍA
-
-## Capítulo I. Naturaleza, finalidad y atribuciones.
+### Capítulo I. Naturaleza, finalidad y atribuciones.
 
 #### Artículo 50. Naturaleza y adscripción.
 
@@ -627,7 +753,7 @@ h) Publicar y difundir estudios, materiales y experiencias de educación para la
 i) Elaborar un informe anual sobre el estado de la convivencia y la conflictividad en los centros educativos, para lo que requerirá el apoyo informativo, documental y técnico de otras Administraciones Públicas con competencia en la materia y de los propios órganos y entidades de la Consejería competente en materia de educación, así como de entidades e instituciones privadas.
 j) Cualquier otra función de apoyo y asesoramiento vinculada a la recogida, análisis, difusión de la información y la investigación y la promoción de actuaciones en todas las materias relacionadas con la mejora de la convivencia en el ámbito de los centros educativos.
 
-## Capítulo II. Organización.
+### Capítulo II. Organización.
 
 #### Artículo 53. Estructura organizativa.
 
@@ -782,3 +908,32 @@ b) La propuesta, razonada, deberá presentarse por escrito ante la dirección de
 #### Disposición final segunda. Habilitación para el desarrollo.
 
 normativo. Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas disposiciones y actos sean necesarios para el desarrollo y ejecución del presente Decreto. Sevilla, 23 de enero de 2007 MANUEL CHAVES GONZÁLEZ Presidente de la Junta de Andalucía CÁNDIDA MARTÍNEZ LÓPEZ Consejera de Educación CONSEJERÍA PARA LA IGUALDAD Y BIENESTAR SOCIAL ORDEN de 19 de enero de 2007, por la que se modifica el Anexo relativo al modelo de impreso de solicitud de reserva de plazas en centros de atención socioeducativa para niños y niñas menores de tres años. El Decreto 137/2002, de 30 de abril, de Apoyo a las Familias Andaluzas, ha previsto un conjunto de medidas, servicios y ayudas a la institución familiar desde una perspectiva global, incidiendo entre otras cuestiones en la protección social, la educación y la inserción laboral. En este sentido, se dispone que la Administración de la Junta de Andalucía establecerá las medidas necesarias para facilitar a las familias que reúnan los requisitos previstos en el mismo una plaza en centros de atención socioeducativa (Guarderías Infantiles). De este modo, se publicó con fecha 24 de abril de 2006, la Orden de 12 de abril de 2006, por la que se regula el procedimiento de admisión en centros de atención socioeducativa para niños y niñas menores de tres años. En dicha Orden se reconoce, a favor de los niños y niñas que ingresen en los citados centros el derecho a la reserva de plaza para cursos posteriores, mediante la presentación de la solicitud conforme al modelo establecido en el Anexo 1 de
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 27, Art. 81, Art. 149)
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 27, Art. 81, Art. 149)
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 27, Art. 81, Art. 149)
+- **Modifica**: `norm-es-c-1978` (Art. 27, Art. 81, Art. 149)
+- **Modifica**: [**D85_1999 Derechos y Deberes Alumnado Andalucía**](./D85_1999_derechos_deberes_alumnado_andalucia.md) (Art. 1) desde *(Título VI, Capítulo II. Organización., D. Final primera. Modificación del Decreto.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 1, Art. 2, Art. 6, Art. 8, Art. 13, Art. 18, Art. 21, Art. 26) desde *(Título VI, Capítulo II. Organización., D. Final primera. Modificación del Decreto.)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 1, Art. 2, Art. 6, Art. 8, Art. 13, Art. 18, Art. 21, Art. 26) desde *(Título VI, Capítulo II. Organización., D. Final primera. Modificación del Decreto.)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 1, Art. 2, Art. 6, Art. 8, Art. 13, Art. 18, Art. 21, Art. 26) desde *(Título VI, Capítulo II. Organización., D. Final primera. Modificación del Decreto.)*
+- **Modifica**: `norm-es-c-1978` (Art. 1, Art. 2, Art. 6, Art. 8, Art. 13, Art. 18, Art. 21, Art. 26) desde *(Título VI, Capítulo II. Organización., D. Final primera. Modificación del Decreto.)*
+- **Deroga**: [**D85_1999 Derechos y Deberes Alumnado Andalucía**](./D85_1999_derechos_deberes_alumnado_andalucia.md) (Capítulo II, Art. 1, Art. 2, Art. 3) desde *(Título VI, Capítulo II. Organización., D. Derogatoria única. Derogación normativa.)*
+- **Fundamentado en**: [**Ley 9/1999, de 18 de noviembre, de Solidaridad en la Educación**](../06_atencion_diversidad_y_orientacion/L9_1999_solidaridad_en_la_educacion_andalucia.md) (Art. 21) desde *(Art. 1)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 127) desde *(Título III, Capítulo IV. Procedimiento para la imposición de las correcciones y de las medidas disciplinarias., Art. 27)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 127) desde *(Título III, Capítulo IV. Procedimiento para la imposición de las correcciones y de las medidas disciplinarias., Art. 27)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 127) desde *(Título III, Capítulo IV. Procedimiento para la imposición de las correcciones y de las medidas disciplinarias., Art. 27)*
+- **Fundamentado en**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Cita a**: [**D19_2007 Derechos Deberes Alumnado Convivencia Andalucia**](./D19_2007_derechos_deberes_alumnado_normas_convivencia_andalucia.md)
+- **Cita a**: [**D19_2007 Derechos Deberes Alumnado Convivencia Andalucia**](./D19_2007_derechos_deberes_alumnado_normas_convivencia_andalucia.md) (Art. 19)
+- **Cita a**: [**D54_1989 Ordenacion Centros Educacion Especial Andalucía**](../02_gestion_y_administracion_centros/D54_1989_ordenacion_centros_especificos_educacion_especial_andalucia.md) desde *(Título VI, Capítulo II. Organización., D. Adicional sexta. Dietas y gastos de desplaza-.)*
+- **Cita a**: `norm-es-c-1978` (D. Adicional octava) desde *(Título VI, Capítulo II. Organización., D. Adicional octava. Constitución del Observato-.)*

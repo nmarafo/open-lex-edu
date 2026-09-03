@@ -37,9 +37,10 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-100-1759.pdf
 ---
+
 # Extracto de la Resolución de 30 de abril de 2026, por la que se establece el calendario, las instrucciones complementarias del procedimiento de admisión del alumnado comensal y los criterios de concesión de las subvenciones, y por la que se autoriza la oferta de plazas de comensales en los centros docentes públicos no universitarios para el curso escolar 2026-2027. ## Preámbulo
 
 V . Anuncios Otros anuncios Consejería de Educación, Formación Profesional, Actividad Física y Deportes Complementarios.- Extracto de la Resolución de 30 de abril de 2026, por la que se establece el calendario, las instrucciones complementarias del procedimiento de admisión del alumnado comensal y los criterios de concesión de las subvenciones, y por la que se autoriza la oferta de plazas de comensales en los centros docentes públicos no universitarios para el curso escolar 2026-2027. BDNS (Identif.): 904251. De conformidad con lo previsto en los artículos 17.3.b) y 20.8.a) de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, se publica el extracto de la convocatoria cuyo texto completo puede consultarse en la Base de Datos Nacional de Subvenciones (https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/904251).
@@ -81,3 +82,13 @@ CALENDARIO DEL PROCEDIMIENTO DE ADMISIÓN DEL ALUMNADO EN LOS COMEDORES DE LOS C
 ### Fundamentos de Derecho
 
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

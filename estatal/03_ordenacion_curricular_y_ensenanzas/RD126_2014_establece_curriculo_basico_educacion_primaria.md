@@ -27,30 +27,196 @@ tags:
 - organizacion-escolar
 - profesorado
 relaciones:
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2016-3229
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 6 bis
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 6 bis
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 6 bis
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 13
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 13
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 13
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 14
+    articulos_destino:
+    - Art. 71
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 14
+    articulos_destino:
+    - Art. 71
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 14
+    articulos_destino:
+    - Art. 71
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 14
+    articulos_destino:
+    - Art. 20
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 14
+    articulos_destino:
+    - Art. 20
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 14
+    articulos_destino:
+    - Art. 20
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 14
+    articulos_destino:
+    - Art. 78
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 14
+    articulos_destino:
+    - Art. 78
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 14
+    articulos_destino:
+    - Art. 78
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Adicional cuarta. Documentos oficiales de evaluación.
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Adicional cuarta. Documentos oficiales de evaluación.
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Adicional cuarta. Documentos oficiales de evaluación.
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Adicional cuarta. Documentos oficiales de evaluación.
+    articulos_destino:
+    - Art. 111
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Adicional cuarta. Documentos oficiales de evaluación.
+    articulos_destino:
+    - Art. 111
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Adicional cuarta. Documentos oficiales de evaluación.
+    articulos_destino:
+    - Art. 111
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  cita:
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-lo-8-1985
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 4
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final cuarta. Entrada en vigor.
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 16
+    - Art. 17
+    - Art. 18
+    - Art. 19
+    - Art. 20
+    - Art. 21
+  - norma_id: norm-es-2016-3229
+    articulos_destino:
+    - Art. 16
+    - Art. 17
+    - Art. 18
+    - Art. 19
+    - Art. 20
+    - Art. 21
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 16
+    - Art. 17
+    - Art. 18
+    - Art. 19
+    - Art. 20
+    - Art. 21
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 16
+    - Art. 17
+    - Art. 18
+    - Art. 19
+    - Art. 20
+    - Art. 21
+  - norma_id: norm-es-1999-23750
+    articulos_origen:
+    - D. Adicional cuarta. Documentos oficiales de evaluación.
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-lo-8-1985
+    articulos_origen:
+    - Art. 16
+    articulos_destino:
+    - Art. 4
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final primera. Calendario de implantación.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
   - norma_id: norm-es-1999-23750
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2016-3229
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-lo-8-1985
   fundamento_de:
   - norma_id: norm-es-2021-18812
   - norma_id: norm-es-rd-157-2022
-  - norma_id: norm-can-res-juriscan-72788-60
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '1'
-  - '2'
+  - norma_id: '1'
+  - norma_id: '2'
   - norma_id: norm-es-1999-23750
   - norma_id: norm-es-lo-8-1985
   - norma_id: norm-es-2016-3229
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
 ---
+
 # Real Decreto 126/2014, de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria.
 
 ## Preámbulo
@@ -3737,3 +3903,54 @@ Bloque 3. La convivencia y los valores sociales
 - [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 16, Art. 17, Art. 18, Art. 19, Art. 20, Art. 21)
+- **Desarrolla**: [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md) (Art. 16, Art. 17, Art. 18, Art. 19, Art. 20, Art. 21)
+- **Desarrolla**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 16, Art. 17, Art. 18, Art. 19, Art. 20, Art. 21)
+- **Desarrolla**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 16, Art. 17, Art. 18, Art. 19, Art. 20, Art. 21)
+- **Desarrolla**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) desde *(D. Adicional cuarta. Documentos oficiales de evaluación.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 6)
+- **Modifica**: [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md) (Art. 6)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 6)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 6)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 6 bis)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 6 bis)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 6 bis)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Art. 13)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Art. 13)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Art. 13)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 71) desde *(Art. 14)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 71) desde *(Art. 14)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 71) desde *(Art. 14)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 20) desde *(Art. 14)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 20) desde *(Art. 14)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 20) desde *(Art. 14)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 78) desde *(Art. 14)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 78) desde *(Art. 14)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 78) desde *(Art. 14)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(D. Adicional cuarta. Documentos oficiales de evaluación.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(D. Adicional cuarta. Documentos oficiales de evaluación.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(D. Adicional cuarta. Documentos oficiales de evaluación.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 111, D. Adicional vigesimotercera) desde *(D. Adicional cuarta. Documentos oficiales de evaluación.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 111, D. Adicional vigesimotercera) desde *(D. Adicional cuarta. Documentos oficiales de evaluación.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 111, D. Adicional vigesimotercera) desde *(D. Adicional cuarta. Documentos oficiales de evaluación.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27)
+- **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 4) desde *(Art. 16)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(D. Final primera. Calendario de implantación.)*
+- **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**BOE-A-2021-18812**](./RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md)
+- **Fundamento de**: [**RD157_2022 Ensenanzas Minimas de Educacion Primaria**](./RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md)
+- **Cita a**: [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
+- **Cita a**: `norm-es-c-1978`
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 4) desde *(Art. 9)*
+- **Cita a**: `norm-es-c-1978` desde *(D. Final cuarta. Entrada en vigor.)*

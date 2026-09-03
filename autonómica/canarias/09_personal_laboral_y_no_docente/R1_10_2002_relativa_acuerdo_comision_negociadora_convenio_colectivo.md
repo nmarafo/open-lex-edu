@@ -22,7 +22,24 @@ tags:
 - disposicion-adicional
 fuente_pdf_oficial: https://www.gobiernodecanarias.org/boc/2002/147/boc-2002-147-031.pdf
 fecha_disposicion: '2002-10-01'
+relaciones:
+  modifica:
+  - norma_id: norm-can-d-84-2024
+    articulos_origen:
+    - D. Adicional Novena, y de conformidad con lo dispuesto en el artº. 90 del Real
+      Decreto Legislativo 1/1995, de 24 de marzo, por el que se aprueba el Texto Refundido
+      de la Ley del Estatuto de los Trabajadores, así como los Reales Decretos 661/1984,
+      de 25 de enero y 1.033/1984, de 1 de abril, sobre traspaso de funciones y servicios
+      del Estado a la Comunidad Autónoma de Canarias en materia de mediación, arbitraje
+      y conciliación; el Real Decreto 1.040/1981, de 22 de mayo, sobre depósito y
+      registro de Convenios Colectivos y el Decreto 329/1995, de 24 de noviembre,
+      por el que se aprueba el Reglamento Orgánico de la Consejería de Empleo y Asuntos
+      Sociales (B.O.C. nº 159, de 15.12.95), modificado por el Decreto 138/2000, de
+      10 de julio (B.O.C. nº 108, de 7.8.00), esta Dirección General
+    disposiciones_destino:
+    - D. Adicional Novena
 ---
+
 # Resolución de 1 de octubre de 2002, de la Dirección General de Trabajo, relativa al Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias para la introducción en el Convenio de una Disposición Adicional Novena.
 
 ## Preámbulo
@@ -70,3 +87,10 @@ Cualquier modificación legal que pudiera afectar a los trabajadores fijos-disco
 #### Disposición Adicional por la Comisión Negociadora del Convenio Colectivo. "
 
 En Las Palmas de Gran Canaria, a 31 de julio de 2002.- La Administración: Viceconsejero de Administración Pública, Directora General de la Función Pública. Comité Intercentros.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (D. Adicional Novena) desde *(D. Adicional Novena, y de conformidad con lo dispuesto en el artº. 90 del Real Decreto Legislativo 1/1995, de 24 de marzo, por el que se aprueba el Texto Refundido de la Ley del Estatuto de los Trabajadores, así como los Reales Decretos 661/1984, de 25 de enero y 1.033/1984, de 1 de abril, sobre traspaso de funciones y servicios del Estado a la Comunidad Autónoma de Canarias en materia de mediación, arbitraje y conciliación; el Real Decreto 1.040/1981, de 22 de mayo, sobre depósito y registro de Convenios Colectivos y el Decreto 329/1995, de 24 de noviembre, por el que se aprueba el Reglamento Orgánico de la Consejería de Empleo y Asuntos Sociales (B.O.C. nº 159, de 15.12.95), modificado por el Decreto 138/2000, de 10 de julio (B.O.C. nº 108, de 7.8.00), esta Dirección General)*

@@ -25,20 +25,27 @@ tags:
 - alojamiento
 - andalucia
 relaciones:
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
+  - norma_id: norm-es-1999-23750
+    articulos_origen:
+    - D. Final primera. Entrada en vigor.
+    articulos_destino:
+    - Art. 6
+    - Art. 11
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 ---
+
 # Orden de 17 de junio de 2009, por la que se regula la organización y funcionamiento de las Escuelas Hogar.
 
 ## Preámbulo
 
-Sevilla, 2 de julio 2009 Página núm. 7 CONSEJERÍA DE JUSTICIA Y ADMINISTRACIÓN PÚBLICA ORDEN de 23 de junio de 2009, por la que se convocan los Premios de la Junta de Andalucía a la Calidad de los Servicios Públicos y Administración Electrónica para el año 2010. P R E Á M B U L O La presente convocatoria, siendo la V Edición desde la creación por Decreto de los Premios a la Calidad de los Servicios Públicos y Administración Electrónica, pone de relieve la concepción que tiene la Junta de Andalucía de la gestión de la calidad, no sólo por su bondad en sí misma, sino como medio para hacer realidad los principios propios de la Administración recogidos en la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía referentes a una Buena Administración y Calidad de los Servicios Públicos. De igual forma la Ley 11/2007, de 22 de junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos, establece como una de sus finalidades: «Contribuir a la mejora del funcionamiento interno de las Administraciones Públicas, incrementando la eficacia y eficiencia de las mismas» (artículo 3.4). Dicha Ley, de carácter básico en su mayor parte, ha venido a consolidar la relación con las Administraciones Públicas por medios electrónicos como un derecho de los ciudadanos y como una obligación correlativa para tales Administraciones. Así mismo, la Estrategia de Modernización de los Servicios Públicos de la Junta de Andalucía, aprobada por Acuerdo de Consejo de Gobierno de 20 de junio de 2006, reconoce los Premios a la Calidad de los Servicios Públicos como instrumento para promover la cultura de Orientación a Resultados y Mejora Continua. El Decreto 317/2003, de 18 de noviembre, por el que se regulan las Cartas de Servicios, el Sistema de Evaluación de la Calidad de los Servicios y se establecen los Premios a la Calidad de los Servicios Públicos, crea específicamente estos Premios (Capítulo IV) con el fin de distinguir a los órganos, organismos y unidades que mediante su actividad de mejora hayan incrementado de forma directa o indirecta la calidad de los servicios que prestan a los ciudadanos y ciudadanas, y contribuir así a la divulgación de los trabajos de calidad y a unificar la metodología evaluadora; publicándose mediante Orden de la persona titular de la Consejería de Justicia y Administración Pública en el Boletín Oficial de la Junta de Andalucía, concretando las bases que habrán de regir su concesión. El Decreto 177/2005, de 19 de julio, por el que se modifica el Decreto 317/2003, de 18 de noviembre, amplía el ámbito de aplicación de las materias que regula, no sólo a los órganos y unidades de la Administración General de la Junta de Andalucía y sus Organismos Autónomos, sino a todas las organizaciones, organismos, órganos, agencias administrativas, unidades y entidades dependientes de la Junta de Andalucía; así como a las Entidades Locales de Andalucía y las organizaciones y entidades que dependan de ellas, y a las Universidades de Andalucía y demás instituciones públicas que hayan suscrito un convenio de colaboración con la Consejería de Justicia y Administración Pública para tal fin. En cumplimiento de lo anterior y de conformidad con lo previsto en el artículo 21.2 y en la disposición final primera del Decreto 317/2003, de 18 de noviembre,
 DISPONGO:
-Artículo Único. Se convoca la V Edición de los Premios de la Junta de Andalucía a la Calidad de los Servicios Públicos y Administración Electrónica, según establecen los artículos 20 y 21 del Decreto 317/2003, de 18 de noviembre, correspondiente al año 2010 de acuerdo con las siguientes B A S E S Base primera. Objeto de los Premios. La V Edición de los Premios de la Junta de Andalucía a la Calidad de los Servicios Públicos y Administración Electrónica está destinada a distinguir a los órganos administrativos y entidades instrumentales de la Junta de Andalucía, así como a las Entidades Locales de Andalucía y las entidades y organizaciones que dependan de ellas; también las universidades públicas de Andalucía y demás instituciones públicas que hayan suscrito convenio de colaboración con la Consejería de Justicia y Administración Pública y se destaquen por la adopción de actividades de mejora que hayan incrementado, de forma directa o indirecta, la calidad de los servicios que prestan a la ciudadanía, por la adopción de prácticas de calidad, por el desarrollo de la administración electrónica, o por la propuesta o sugerencia de las personas empleadas de la Administración Pública para la mejora de los servicios. Base segunda. Modalidades convocadas. Las modalidades convocadas en la V Edición de los Premios de la Junta de Andalucía a la Calidad de los Servicios Públicos y Administración Electrónica, correspondientes al año 2010, son:
+
+#### Artículo . #### Artículo . Artículo Único. Se convoca la V Edición de los Premios de la Junta de Andalucía a la Calidad de los Servicios Públicos y Administración Electrónica, según establecen los artículos 20 y 21 del Decreto 317/2003, de 18 de noviembre, correspondiente al año 2010 de acuerdo con las siguientes B A S E S Base primera. Objeto de los Premios. La V Edición de los Premios de la Junta de Andalucía a la Calidad de los Servicios Públicos y Administración Electrónica está destinada a distinguir a los órganos administrativos y entidades instrumentales de la Junta de Andalucía, así como a las Entidades Locales de Andalucía y las entidades y organizaciones que dependan de ellas; también las universidades públicas de Andalucía y demás instituciones públicas que hayan suscrito convenio de colaboración con la Consejería de Justicia y Administración Pública y se destaquen por la adopción de actividades de mejora que hayan incrementado, de forma directa o indirecta, la calidad de los servicios que prestan a la ciudadanía, por la adopción de prácticas de calidad, por el desarrollo de la administración electrónica, o por la propuesta o sugerencia de las personas empleadas de la Administración Pública para la mejora de los servicios. Base segunda. Modalidades convocadas. Las modalidades convocadas en la V Edición de los Premios de la Junta de Andalucía a la Calidad de los Servicios Públicos y Administración Electrónica, correspondientes al año 2010, son:
 
 1. Premio a la Excelencia de los Servicios Públicos.
 
@@ -162,8 +169,6 @@ e) Descripción de la implicación de la sugerencia presentada en cada uno de lo
 
 1. Las solicitudes de participación dirigidas a la Dirección General de Modernización e Innovación de los Servicios Públicos de la Consejería de Justicia y Administración Pública junto con la documentación asociada se presentarán en el Registro Telemático de la Junta de Andalucía, para lo que las personas interesadas deberán disponer de la correspondiente firma electrónica reconocida o de los sistemas de firma electrónica incorporados al Documento Nacional de Identidad, a través del formulario electrónico ubicado dentro del «Portal» electrónico de la Junta de Andalucía, en el sitio web denominado: «Plataforma de Relación con la Ciudadanía Andaluza» (CLARA): http://www.juntadeandalucia.es/justiciayadministracionpublica/clara. Para asegurar la presentación telemática podrán dirigirse a las Oficinas de Calidad de su provincia, cuyas direcciones y teléfonos se encuentran disponibles en el apartado Directorio de CLARA, donde serán asistidas por el personal de la misma.
 
-2. El plazo de presentación de las solicitudes para la V Edición de los Premios de la Junta de Andalucía a la Calidad de los Servicios Públicos y Administración Electrónica comenzará el día siguiente al de la publicación de la presente Orden en el Boletín Oficial de la Junta de Andalucía y finalizará el 19 de enero de 2010. 3. La presentación de las candidaturas es voluntaria y supone la aceptación de las disposiciones contenidas en el Decreto 317/2003 y en la presente Orden. Base octava. Organización.
-
 1. Corresponde a la Dirección General de Modernización e Innovación de los Servicios Públicos la organización del proceso de concesión y entrega de los Premios previstos en la presente convocatoria. Para ello podrá dictar las instrucciones y resoluciones que procedan para el desarrollo del proceso de acuerdo con la normativa de creación de los Premios y de esta convocatoria.
 
 2. Se crea el «Comité Organizador de la V Edición de los Premios de la Junta de Andalucía a la Calidad de los Servicios Públicos y Administración Electrónica», como órgano colegiado de coordinación del proceso de evaluación de candidaturas y de concesión y entrega de los premios, que contará con el apoyo técnico del Centro Andaluz para la Excelencia en la Gestión radicado en el Instituto Andaluz de Tecnología.
@@ -217,8 +222,6 @@ c) Otorgar el reconocimiento que estimen oportuno al personal que haya participa
 
 #### Disposición final primera. Entrada en vigor.
 
-La presente Orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 23 de junio de 2009 BEGOÑA ÁLVAREZ CIVANTOS Consejera de Justicia y Administración Pública
-
 Página núm. 12 Sevilla, 2 de julio 2009
 
 (001028/3D) PARTICIPACIÓN EN LA CONVOCATORIA DE LOS PREMIOS DE LA JUNTA DE ANDALUCÍA A LA CALIDAD DE LOS SERVICIOS PÚBLICOS Y ADMINISTRACIÓN ELECTRÓNICA PREMIO A LA EXCELENCIA DE LOS SERVICIOS PÚBLICOS EDICIÓN:
@@ -226,9 +229,8 @@ SOLICITUD EXCMO/A. SR/A. CONSEJERO/A DE JUSTICIA Y ADMINISTRACIÓN PÚBLICA. SOL
 DOCUMENTACIÓN ADJUNTA Memoria-resumen de un máximo de setenta y cinco páginas en soporte electrónico (archivo ".pdf"). AÑO:
 Orden de de de de fecha (BOJA nº
 
-## Anexo I
+## Anexo I. EL/LA RESPONSABLE DE LA ORGANIZACIÓN Nº REGISTRO, FECHA Y HORA CÓDIGO IDENTIFICATIVO CONSEJERÍA DE JUSTICIA Y ADMINISTRACIÓN PÚBLICA JUNTA DE ANDALUCIA CONSENTIMIENTO EXPRESO Doy mi CONSENTIMIENTO para que los datos y documentos aportados en el presente procedimiento, sean almacenados y codificados con la finalidad de su posterior utilización en otros procedimientos administrativos en los que fueran requeridos, de conformidad con lo establecido en el artículo 6.2.b) de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos y en los artículos 11.1 y 41.2 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal. DATOS DE LA ORGANIZACIÓN SOLICITANTE Y DEL/DE LA RESPONSABLE DENOMINACIÓN DEL ÓRGANO, ENTIDAD INSTRUMENTAL O ENTE SOLICITANTE CONSEJERÍA O ENTIDAD A LA QUE SE ENCUENTRA ADSCRITO O ENTIDAD DE LA QUE DEPENDE FUNCIONES Y ACTIVIDADES APELLIDOS Y NOMBRE DEL/DE LA RESPONSABLE CARGO PRINCIPALES SERVICIOS PRESTADOS Nº DE EMPLEADOS:
 
-EL/LA RESPONSABLE DE LA ORGANIZACIÓN Nº REGISTRO, FECHA Y HORA CÓDIGO IDENTIFICATIVO CONSEJERÍA DE JUSTICIA Y ADMINISTRACIÓN PÚBLICA JUNTA DE ANDALUCIA CONSENTIMIENTO EXPRESO Doy mi CONSENTIMIENTO para que los datos y documentos aportados en el presente procedimiento, sean almacenados y codificados con la finalidad de su posterior utilización en otros procedimientos administrativos en los que fueran requeridos, de conformidad con lo establecido en el artículo 6.2.b) de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos y en los artículos 11.1 y 41.2 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal. DATOS DE LA ORGANIZACIÓN SOLICITANTE Y DEL/DE LA RESPONSABLE DENOMINACIÓN DEL ÓRGANO, ENTIDAD INSTRUMENTAL O ENTE SOLICITANTE CONSEJERÍA O ENTIDAD A LA QUE SE ENCUENTRA ADSCRITO O ENTIDAD DE LA QUE DEPENDE FUNCIONES Y ACTIVIDADES APELLIDOS Y NOMBRE DEL/DE LA RESPONSABLE CARGO PRINCIPALES SERVICIOS PRESTADOS Nº DE EMPLEADOS:
 DATOS DE LA PERSONA DE CONTACTO:
 DOMICILIO A EFECTOS DE NOTIFICACIÓN APELLIDOS Y NOMBRE DE LA PERSONA DE CONTACTO* CARGO TELÉFONO FAX CORREO ELECTRÓNICO PROVINCIA C. POSTAL LOCALIDAD
 * Persona que asume la responsabilidad de recibir todas las comunicaciones por parte del Comité Organizador en nombre del candidato.
@@ -241,20 +243,19 @@ SOLICITUD DENOMINACIÓN DEL ÓRGANO, ENTIDAD INSTRUMENTAL O ENTE SOLICITANTE CON
 DOCUMENTACIÓN ADJUNTA AÑO:
 Orden de de de de fecha (BOJA nº
 
-## Anexo II
+## Anexo II. DE CALIDAD DE LOS SERVICIOS DE ADMINISTRACIÓN ELECTRÓNICA CARGO PRINCIPALES SERVICIOS PRESTADOS Nº DE EMPLEADOS:
 
-DE CALIDAD DE LOS SERVICIOS DE ADMINISTRACIÓN ELECTRÓNICA CARGO PRINCIPALES SERVICIOS PRESTADOS Nº DE EMPLEADOS:
 DATOS DE LA PERSONA DE CONTACTO:
 DOMICILIO A EFECTOS DE NOTIFICACIÓN APELLIDOS Y NOMBRE DE LA PERSONA DE CONTACTO* CARGO Nº REGISTRO, FECHA Y HORA CÓDIGO IDENTIFICATIVO CONSEJERÍA DE JUSTICIA Y ADMINISTRACIÓN PÚBLICA JUNTA DE ANDALUCIA CONSENTIMIENTO EXPRESO Doy mi CONSENTIMIENTO para que los datos y documentos aportados en el presente procedimiento, sean almacenados y codificados con la finalidad de su posterior utilización en otros procedimientos administrativos en los que fueran requeridos, de conformidad con lo establecido en el artículo 6.2.b) de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos y en los artículos 11.1 y 41.2 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal. Memoria-resumen de un máximo de treinta páginas en soporte electrónico (archivo ".pdf"). ANVERSO TELÉFONO FAX CORREO ELECTRÓNICO DATOS DE LA CANDIDATURA:
-TÍTULO DE LA PRÁCTICA RESUMEN BREVE DE LA PRÁCTICA PROVINCIA C. POSTAL LOCALIDAD PARTICIPACIÓN EN LA CONVOCATORIA DE LOS PREMIOS DE LA JUNTA DE ANDALUCÍA A LA CALIDAD DE LOS SERVICIOS PÚBLICOS Y ADMINISTRACIÓN ELECTRÓNICA DATOS DE LA ORGANIZACIÓN SOLICITANTE Y DEL/DE LA RESPONSABLE
+
+## Título D. E LA PRÁCTICA RESUMEN BREVE DE LA PRÁCTICA PROVINCIA C. POSTAL LOCALIDAD PARTICIPACIÓN EN LA CONVOCATORIA DE LOS PREMIOS DE LA JUNTA DE ANDALUCÍA A LA CALIDAD DE LOS SERVICIOS PÚBLICOS Y ADMINISTRACIÓN ELECTRÓNICA DATOS DE LA ORGANIZACIÓN SOLICITANTE Y DEL/DE LA RESPONSABLE
 
 Página núm. 14 Sevilla, 2 de julio 2009
 
 001029/4D
 
-## Anexo II
+## Anexo II. REVERSO Innovación:
 
-REVERSO Innovación:
 ......................................................................................................................................................................................................................................... ......................................................................................................................................................................................................................................... ......................................................................................................................................................................................................................................... Indique en cual o cuales de los siguientes campos tiene implicación la práctica y haga una breve descripción:
 Aplicación de las Tecnologías de la Información y Comunicaciones:
 ......................................................................................................................................................................................................................................... ......................................................................................................................................................................................................................................... ......................................................................................................................................................................................................................................... Simplificación administrativa:
@@ -274,18 +275,16 @@ SOLICITUD DATOS DE LA PERSONA SOLICITANTE APELLIDOS Y NOMBRE PUESTO DE TRABAJO Q
 DOCUMENTACIÓN ADJUNTA Memoria-resumen de un máximo de diez páginas en soporte electrónico (archivo ".pdf"). AÑO:
 Orden de de de de fecha (BOJA nº
 
-## Anexo III
+## Anexo III. EL/LA SOLICITANTE NIF CUERPO AL QUE PERTENECE DATOS DE LA CANDIDATURA CONSEJERÍA/DELEGACIÓN/ORGANISMO AUTÓNOMO
 
-EL/LA SOLICITANTE NIF CUERPO AL QUE PERTENECE DATOS DE LA CANDIDATURA CONSEJERÍA/DELEGACIÓN/ORGANISMO AUTÓNOMO
-TÍTULO DE LA SUGERENCIA O INICIATIVA RESUMEN BREVE DE LA SUGERENCIA O INICIATIVA Nº REGISTRO, FECHA Y HORA CÓDIGO IDENTIFICATIVO CONSEJERÍA DE JUSTICIA Y ADMINISTRACIÓN PÚBLICA JUNTA DE ANDALUCIA CONSENTIMIENTO EXPRESO Doy mi CONSENTIMIENTO para que los datos y documentos aportados en el presente procedimiento, sean almacenados y codificados con la finalidad de su posterior utilización en otros procedimientos administrativos en los que fueran requeridos, de conformidad con lo establecido en el artículo 6.2.b) de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos y en los artículos 11.1 y 41.2 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal. ANVERSO ANVERSO DOMICILIO A EFECTOS DE NOTIFICACIÓN PROVINCIA C. POSTAL LOCALIDAD PARTICIPACIÓN EN LA CONVOCATORIA DE LOS PREMIOS DE LA JUNTA DE ANDALUCÍA A LA CALIDAD DE LOS SERVICIOS PÚBLICOS Y ADMINISTRACIÓN ELECTRÓNICA
+## Título D. E LA SUGERENCIA O INICIATIVA RESUMEN BREVE DE LA SUGERENCIA O INICIATIVA Nº REGISTRO, FECHA Y HORA CÓDIGO IDENTIFICATIVO CONSEJERÍA DE JUSTICIA Y ADMINISTRACIÓN PÚBLICA JUNTA DE ANDALUCIA CONSENTIMIENTO EXPRESO Doy mi CONSENTIMIENTO para que los datos y documentos aportados en el presente procedimiento, sean almacenados y codificados con la finalidad de su posterior utilización en otros procedimientos administrativos en los que fueran requeridos, de conformidad con lo establecido en el artículo 6.2.b) de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos y en los artículos 11.1 y 41.2 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal. ANVERSO ANVERSO DOMICILIO A EFECTOS DE NOTIFICACIÓN PROVINCIA C. POSTAL LOCALIDAD PARTICIPACIÓN EN LA CONVOCATORIA DE LOS PREMIOS DE LA JUNTA DE ANDALUCÍA A LA CALIDAD DE LOS SERVICIOS PÚBLICOS Y ADMINISTRACIÓN ELECTRÓNICA
 
 Página núm. 16 Sevilla, 2 de julio 2009
 
 001030/3D
 
-## Anexo III
+## Anexo III. REVERSO Innovación:
 
-REVERSO Innovación:
 ......................................................................................................................................................................................................................................... ......................................................................................................................................................................................................................................... ......................................................................................................................................................................................................................................... Indique en cual o cuales de los siguientes campos tiene implicación la práctica y haga una breve descripción:
 Aplicación de las Tecnologías de la Información y Comunicaciones:
 ......................................................................................................................................................................................................................................... ......................................................................................................................................................................................................................................... ......................................................................................................................................................................................................................................... Simplificación administrativa:
@@ -294,3 +293,14 @@ Aplicación de las Tecnologías de la Información y Comunicaciones:
 ......................................................................................................................................................................................................................................... ......................................................................................................................................................................................................................................... ......................................................................................................................................................................................................................................... Cooperación a establecer con otras entidades:
 ......................................................................................................................................................................................................................................... ......................................................................................................................................................................................................................................... ......................................................................................................................................................................................................................................... Consideración de la Igualdad de oportunidades:
 ......................................................................................................................................................................................................................................... ......................................................................................................................................................................................................................................... ......................................................................................................................................................................................................................................... MEJORES SUGERENCIAS DE LAS PERSONAS EMPLEADAS DE LA ADMINISTRACIÓN PÚBLICA
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**BOE-A-1999-23750**](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) (Art. 6, Art. 11) desde *(D. Final primera. Entrada en vigor.)*
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

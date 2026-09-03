@@ -27,21 +27,81 @@ tags:
 - profesorado
 - titulacion
 relaciones:
-  fundamentado_en:
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2010-4130
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Adicional única. Acceso a la universidad española.
+    articulos_destino:
+    - Art. 38
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Adicional única. Acceso a la universidad española.
+    articulos_destino:
+    - Art. 38
+  - norma_id: norm-es-2010-4130
+    articulos_origen:
+    - D. Adicional única. Acceso a la universidad española.
+    articulos_destino:
+    - Art. 38
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Adicional única. Acceso a la universidad española.
+    articulos_destino:
+    - Art. 38
+  cita:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 7
+  - norma_id: norm-es-2010-4130
+  - norma_id: norm-es-2010-4130
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-2010-4130
+    articulos_origen:
+    - Art. 10
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+  - norma_id: norm-es-2010-4130
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+  desarrolla:
+  - norma_id: norm-es-2010-4130
+    articulos_origen:
+    - Art. 1
+  fundamentado_en:
+  - norma_id: norm-es-2010-4130
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 4
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final primera. Título competencial.
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '1'
-  - '2'
+  - norma_id: '1'
+  - norma_id: '2'
   - norma_id: norm-es-2010-4130
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
 ---
+
 # Orden EDU/2157/2010, de 30 de julio, por la que se regula el currículo mixto de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, así como los requisitos para su obtención.
 
 ## Preámbulo
@@ -829,3 +889,30 @@ y (Sello del centro)
 - [**BOE-A-2010-4130**](./RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md)
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**BOE-A-2010-4130**](./RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md) desde *(Art. 1)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Modifica**: [**BOE-A-2010-4130**](./RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md) (Art. 2) desde *(Art. 2)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 38) desde *(D. Adicional única. Acceso a la universidad española.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 38) desde *(D. Adicional única. Acceso a la universidad española.)*
+- **Modifica**: [**BOE-A-2010-4130**](./RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md) (Art. 38) desde *(D. Adicional única. Acceso a la universidad española.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 38) desde *(D. Adicional única. Acceso a la universidad española.)*
+- **Fundamentado en**: [**BOE-A-2010-4130**](./RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md) (Art. 4) desde *(Art. 2)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(D. Final primera. Título competencial.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: `norm-es-c-1978` (Art. 7)
+- **Cita a**: [**BOE-A-2010-4130**](./RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md)
+- **Cita a**: [**BOE-A-2010-4130**](./RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md) desde *(Art. 2)*
+- **Cita a**: [**BOE-A-2010-4130**](./RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md) desde *(Art. 10)*
+- **Cita a**: `norm-es-c-1978` desde *(D. Final segunda. Entrada en vigor.)*
+- **Cita a**: [**BOE-A-2010-4130**](./RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md) desde *(D. Final segunda. Entrada en vigor.)*

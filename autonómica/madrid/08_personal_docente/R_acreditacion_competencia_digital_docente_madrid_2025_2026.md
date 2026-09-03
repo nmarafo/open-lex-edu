@@ -36,8 +36,9 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
 ---
 
+# Resolución por la que se dictan instrucciones sobre el procedimiento de acreditación de la competencia digital docente en la Comunidad de Madrid para el curso 2025-2026.
 
-# Resolución por la que se dictan instrucciones sobre el procedimiento de acreditación de la competencia digital docente en la Comunidad de Madrid para el curso 2025-2026. ## Preámbulo
+## Preámbulo
 
 El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.
 
@@ -45,7 +46,7 @@ En su virtud, de conformidad con lo establecido en la normativa de régimen jur�
 
 DISPONGO:
 
-### Capítulo I. Disposiciones Generales
+#### Artículo . #### Artículo . ### Capítulo I. Disposiciones Generales
 
 #### Artículo 1. Objeto y ámbito de aplicación.
 
@@ -72,3 +73,15 @@ Las Administraciones educativas proveerán los recursos materiales, organizativo
 Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Resolución CDD 2025-2026. #### Disposición final segunda. Entrada en vigor.
 
 La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Desarrolla**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamentado en**: [**D29_2013 Libertad Eleccion Centro Escolar Madrid**](../05_alumnado_y_servicios_escolares/D29_2013_libertad_eleccion_centro_escolar_madrid.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)

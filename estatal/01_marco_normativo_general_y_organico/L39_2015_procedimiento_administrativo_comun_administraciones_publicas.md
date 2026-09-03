@@ -24,13 +24,156 @@ tags:
 - procedimiento-administrativo
 - recursos
 relaciones:
-  desarrolla:
-  - norma_id: norm-es-l-40-2015
-  fundamentado_en:
+  cita:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 103
+  - norma_id: norm-es-c-1978
+    titulo_destino: Título IV
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 106
+  - norma_id: norm-es-l-19-2013
+  - norma_id: norm-es-l-19-2013
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Normas generales de actuación.
+    articulos_origen:
+    - Art. 13
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Normas generales de actuación.
+    articulos_origen:
+    - Art. 13
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Normas generales de actuación.
+    articulos_origen:
+    - Art. 24
+    articulos_destino:
+    - Art. 29
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Normas generales de actuación.
+    articulos_origen:
+    - Art. 25
+  - norma_id: norm-es-l-19-2013
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Normas generales de actuación.
+    articulos_origen:
+    - Art. 27
   - norma_id: norm-es-1985-5392
+    titulo_origen: Título III
+    capitulo_origen: Capítulo II. Eficacia de los actos.
+    articulos_origen:
+    - Art. 41
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. Nulidad y anulabilidad.
+    articulos_origen:
+    - Art. 47
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I. Garantías del procedimiento.
+    articulos_origen:
+    - Art. 53
+    articulos_destino:
+    - Art. 98
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo II. Iniciación del procedimiento.
+    seccion_origen: Sección 1. ª Disposiciones generales artículo 54 Clases de iniciación.
+      Los procedimientos podrán iniciarse de oficio o a solicitud del interesado.
+    articulos_origen:
+    - Art. 56
+  - norma_id: norm-es-l-19-2013
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Instrucción del procedimiento.
+    seccion_origen: Sección 4. ª Participación de los interesados
+    articulos_origen:
+    - Art. 82
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo VII. Ejecución.
+    articulos_origen:
+    - Art. 99
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo VII. Ejecución.
+    articulos_origen:
+    - Art. 104
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    articulos_origen:
+    - Art. 127
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    articulos_origen:
+    - Art. 128
+  - norma_id: norm-es-l-19-2013
+    titulo_origen: Título VI
+    articulos_origen:
+    - Art. 129
+    articulos_destino:
+    - Art. 7
+  - norma_id: norm-es-2003-23399
+    titulo_origen: Título VI
+    articulos_origen:
+    - D. Final segunda. Modificación de la [Ley 59/2003](../02_gestion_y_administracion_centros/L59_2003_firma_electronica.md),
+      de 19 de diciembre, de firma electrónica.
+    articulos_destino:
+    - Art. 3
+  fundamentado_en:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo V. Finalización del procedimiento.
+    seccion_origen: Sección 2. ª Resolución artículo 87 Actuaciones complementarias.
+      Antes de dictar resolución, el órgano competente para resolver podrá decidir,
+      mediante acuerdo motivado, la realización de las actuaciones complementarias
+      indispensables para resolver el procedimiento. No tendrán la consideración de
+      actuaciones complementarias los informes que preceden inmediatamente a la resolución
+      final del procedimiento.
+    articulos_origen:
+    - Art. 88
+    articulos_destino:
+    - Art. 29
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    articulos_origen:
+    - Art. 127
+  - norma_id: norm-es-1985-5392
+    titulo_origen: Título VI
+    articulos_origen:
+    - Art. 128
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    articulos_origen:
+    - Art. 128
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    articulos_origen:
+    - D. Final primera. Título competencial.
+    articulos_destino:
+    - Art. 149
   - norma_id: norm-es-2003-23399
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-l-19-2013
+  modifica:
+  - norma_id: norm-es-2003-23399
+    titulo_origen: Título VI
+    articulos_origen:
+    - D. Final segunda. Modificación de la [Ley 59/2003](../02_gestion_y_administracion_centros/L59_2003_firma_electronica.md),
+      de 19 de diciembre, de firma electrónica.
+    disposiciones_destino:
+    - D. Final segunda
+  desarrolla:
+  - norma_id: norm-es-lo-8-2021
+    titulo_origen: Título VI
+    articulos_origen:
+    - D. Final séptima. Entrada en vigor.
+  - norma_id: norm-es-l-40-2015
   fundamento_de:
   - norma_id: norm-es-2002-25289
   - norma_id: norm-es-2003-4151
@@ -74,351 +217,35 @@ relaciones:
   - norma_id: norm-es-rd-243-2022
   - norma_id: norm-es-rd-659-2023
   - norma_id: norm-es-rd-95-2022
-  - norma_id: norm-can-res-juriscan-65632-66
   - norma_id: norm-es-2010-10321
-  - norma_id: norm-can-res-juriscan-66772-94
-  - norma_id: norm-can-res-juriscan-22458-15
-  - norma_id: norm-can-res-boc-2002-148-77
-  - norma_id: norm-can-res-juriscan-64565-138
-  - norma_id: norm-can-res-112
-  - norma_id: norm-can-res-boc-2024-226-44
-  - norma_id: norm-can-lo-1-2018
-  - norma_id: norm-can-res-juriscan-63878-20
-  - norma_id: norm-can-res-boc-2011-099-72
-  - norma_id: norm-can-res-boc-2026-070-41
-  - norma_id: norm-can-res-boc-2026-075-85
-  - norma_id: norm-can-res-096
-  - norma_id: norm-can-res-juriscan-74499-67
-  - norma_id: norm-can-d-40-2005
-  - norma_id: norm-can-res-028
-  - norma_id: norm-can-l-14-1990
-  - norma_id: norm-can-res-055
-  - norma_id: norm-can-res-juriscan-73844-69
-  - norma_id: norm-can-res-118
-  - norma_id: norm-can-res-boc-2019-234-52
-  - norma_id: norm-can-res-juriscan-64885-10
-  - norma_id: norm-can-d-102-2023
-  - norma_id: norm-can-res-033
-  - norma_id: norm-can-res-juriscan-72788-60
-  - norma_id: norm-can-res-juriscan-65631-68
-  - norma_id: norm-can-res-boc-2025-046-47
-  - norma_id: norm-can-res-boc-2026-039-102
-  - norma_id: norm-can-res-boc-2026-141-29
-  - norma_id: norm-can-res-098
-  - norma_id: norm-can-res-boc-2022-158-21
-  - norma_id: norm-can-res-032
-  - norma_id: norm-can-res-027
-  - norma_id: norm-can-res-038
-  - norma_id: norm-can-res-014
-  - norma_id: norm-can-res-042
-  - norma_id: norm-can-res-boc-2025-044-89
-  - norma_id: norm-can-res-boc-2024-230-25
-  - norma_id: norm-can-res-063
-  - norma_id: norm-can-res-boc-2018-220-18
-  - norma_id: norm-can-res-086
-  - norma_id: norm-can-l-1-1997
-  - norma_id: norm-can-res-boc-2012-035-58
-  - norma_id: norm-can-res-juriscan-71394-16
-  - norma_id: norm-can-res-boc-2024-125-91
-  - norma_id: norm-can-res-boc-2019-069-48
-  - norma_id: norm-can-res-boc-2025-047-107
-  - norma_id: norm-can-res-boc-2026-070-116
-  - norma_id: norm-can-res-097
-  - norma_id: norm-can-res-095
-  - norma_id: norm-can-res-boc-2022-138-7
-  - norma_id: norm-can-o-25-2-2003
-  - norma_id: norm-can-res-juriscan-48984-84
-  - norma_id: norm-can-res-juriscan-58182-8
-  - norma_id: norm-can-res-boc-2026-132-101
-  - norma_id: norm-can-res-boc-2019-016-13
-  - norma_id: norm-can-res-boc-2017-036-71
-  - norma_id: norm-can-res-boc-2018-048-56
-  - norma_id: norm-can-res-boc-2026-039-103
-  - norma_id: norm-can-d-84-2024
-  - norma_id: norm-can-res-059
-  - norma_id: norm-can-d-52-2009
-  - norma_id: norm-can-res-boc-2022-087-31
-  - norma_id: norm-can-res-boc-2021-109-79
-  - norma_id: norm-can-d-212-1991
-  - norma_id: norm-can-res-boc-2023-133-57
-  - norma_id: norm-can-res-110
-  - norma_id: norm-can-res-boc-2026-046-139
-  - norma_id: norm-can-res-030
-  - norma_id: norm-can-res-boc-2017-061-4
-  - norma_id: norm-can-d-106-2009
-  - norma_id: norm-can-d-234-1996
-  - norma_id: norm-can-d-276-1997
-  - norma_id: norm-can-res-boc-2026-060-61
-  - norma_id: norm-can-res-boc-2018-106-114
-  - norma_id: norm-can-res-034
-  - norma_id: norm-can-d-123-2023
-  - norma_id: norm-can-res-boc-2026-077-62
-  - norma_id: norm-can-res-boc-2017-036-75
-  - norma_id: norm-can-res-boc-2025-039-104
-  - norma_id: norm-can-res-juriscan-49002-54
-  - norma_id: norm-can-d-109-1999
-  - norma_id: norm-can-res-125
-  - norma_id: norm-can-res-boc-2025-061-88
-  - norma_id: norm-can-o-2013-10-09
-  - norma_id: norm-can-res-boc-2026-077-49
-  - norma_id: norm-can-res-boc-2025-047-108
-  - norma_id: norm-can-res-040
-  - norma_id: norm-can-res-boc-2024-117-93
-  - norma_id: norm-can-res-053
-  - norma_id: norm-can-res-boc-2017-020-2
-  - norma_id: norm-can-res-119
-  - norma_id: norm-can-l-4-2023
-  - norma_id: norm-can-res-039
-  - norma_id: norm-can-res-boc-2004-158-76
-  - norma_id: norm-can-d-101-2023
-  - norma_id: norm-can-res-boc-2019-024-22
-  - norma_id: norm-can-res-099
-  - norma_id: norm-can-res-juriscan-75527-17
-  - norma_id: norm-can-res-boc-2026-116-87
-  - norma_id: norm-can-res-boc-2024-049-109
-  - norma_id: norm-can-res-boc-2026-073-113
-  - norma_id: norm-can-o-2023-09-28
-  - norma_id: norm-can-res-boc-2023-085-51
-  - norma_id: norm-can-res-juriscan-55445-83
-  - norma_id: norm-can-d-135-2016
-  - norma_id: norm-can-res-juriscan-75634-6
-  - norma_id: norm-can-res-juriscan-72176-78
-  - norma_id: norm-can-res-boc-2025-118-46
-  - norma_id: norm-can-res-boc-1992-106-117
-  - norma_id: norm-can-res-boc-2021-038-3
-  - norma_id: norm-can-res-boc-2017-220-70
-  - norma_id: norm-can-res-boc-2026-039-111
-  - norma_id: norm-can-d-25-2018
-  - norma_id: norm-can-d-168-2009
-  - norma_id: norm-can-res-boc-2022-143-23
-  - norma_id: norm-can-res-boc-2017-169-100
-  - norma_id: norm-can-res-boc-2018-086-122
-  - norma_id: norm-can-res-boc-2020-257-24
-  - norma_id: norm-can-res-boc-2022-243-81
-  - norma_id: norm-can-res-043
-  - norma_id: norm-can-res-boc-2025-094-137
-  - norma_id: norm-can-res-boc-2026-129-26
-  - norma_id: norm-can-res-boc-2017-235-5
-  - norma_id: norm-can-res-boc-2026-070-115
-  - norma_id: norm-can-res-090
-  - norma_id: norm-can-res-boc-2018-127-9
-  - norma_id: norm-can-l-2-1987
-  - norma_id: norm-can-res-boc-2019-016-12
-  - norma_id: norm-can-d-196-2022
-  - norma_id: norm-can-res-boc-2004-189-65
-  - norma_id: norm-can-res-037
-  - norma_id: norm-can-res-boc-2021-114-80
-  - norma_id: norm-can-res-boc-2018-220-19
-  - norma_id: norm-can-res-boc-2019-067-11
-  - norma_id: norm-can-res-juriscan-70096-50
-  - norma_id: norm-can-res-036
-  - norma_id: norm-can-res-boc-2026-037-105
-  - norma_id: norm-can-res-boc-2026-109-92
-  - norma_id: norm-can-o-1-9-2010
-  - norma_id: norm-can-res-boc-2017-132-1
-  - norma_id: norm-can-res-boc-2025-061-106
-  - norma_id: norm-can-o-2-8-2006
-  - norma_id: norm-can-res-boc-2020-236-82
-  - norma_id: norm-can-res-035
-  - norma_id: norm-can-res-boc-2019-143-74
   - norma_id: norm-can-r-calendario-escolar-2025-2026
-  - norma_id: norm-can-r-instrucciones-curso-2025-2026
-  - norma_id: norm-can-r-fp-dual-curso-2025-2026
-  - norma_id: norm-can-r-admision-alumnado-2025-2026
-  - norma_id: norm-mad-d43-2024
-  - norma_id: norm-mad-o1712-2023
-  - norma_id: norm-mad-o-3814-2023
-  - norma_id: norm-mad-r-instrucciones-curso-2025-2026
-  - norma_id: norm-and-d-100-2023
-  - norma_id: norm-and-d-21-2020
-  - norma_id: norm-mad-o6116-2025
-  - norma_id: norm-mad-o1240-2013
   - norma_id: norm-mad-d29-2013
-  - norma_id: norm-mad-o3536-2025
-  - norma_id: norm-and-d-164-2024
-  - norma_id: norm-mad-o893-2022
-  - norma_id: norm-mad-o460-2023
-  - norma_id: norm-mad-d21-2025
-  - norma_id: norm-and-d154-2022
-  - norma_id: norm-and-d328-2010
-  - norma_id: norm-mad-d-230-2023
-  - norma_id: norm-mad-l1-2022
-  - norma_id: norm-mad-r2-12-2025
-  - norma_id: norm-mad-o123-2015
-  - norma_id: norm-mad-d149-2000
-  - norma_id: norm-and-d101-2023
-  - norma_id: norm-and-o-admision-alumnado-2025-2026
-  - norma_id: norm-and-d164-2024
-  - norma_id: norm-mad-o3413-2022
-  - norma_id: norm-mad-r-calendario-escolar-2025-2026
-  - norma_id: norm-mad-o1312-2021
-  - norma_id: norm-mad-o-1238-2023
-  - norma_id: norm-and-dl2-2021
-  - norma_id: norm-and-o-30-5-2023-primaria
-  - norma_id: norm-and-r-instrucciones-curso-2025-2026
-  - norma_id: norm-mad-d-36-2022
-  - norma_id: norm-mad-o-admision-alumnado-2025-2026
-  - norma_id: norm-can-d-103-2023
-  - norma_id: norm-mad-d65-2022
-  - norma_id: norm-mad-d-164-2024
-  - norma_id: norm-mad-o1736-2023
-  - norma_id: norm-can-l-6-2014
-  - norma_id: norm-and-d162-2009
-  - norma_id: norm-and-o-30-5-2023-eso
-  - norma_id: norm-and-d100-2023
-  - norma_id: norm-and-d103-2023
-  - norma_id: norm-and-l1-2020
-  - norma_id: norm-mad-o592-2022
-  - norma_id: norm-and-d-328-2010
-  - norma_id: norm-mad-o2356-2023
-  - norma_id: norm-mad-o3537-2025
-  - norma_id: norm-mad-o2067-2023
-  - norma_id: norm-mad-r23-6-2025
-  - norma_id: norm-and-r-calendario-escolar-2025-2026
   - norma_id: norm-mad-d-64-2022
-  - norma_id: norm-mad-d64-2022
-  - norma_id: norm-mad-o457-2023
-  - norma_id: norm-and-l4-1984
-  - norma_id: norm-mad-l2-2010
-  - norma_id: norm-mad-o190-2023
-  - norma_id: norm-and-d102-2023
-  - norma_id: norm-mad-d15-2016
-  - norma_id: norm-and-l17-2007
-  - norma_id: norm-mad-d-61-2022
-  - norma_id: norm-mad-o1338-2023
   - norma_id: norm-and-d-285-2023
-  - norma_id: norm-can-d-9-2022
-  - norma_id: norm-and-dl1-2017
-  - norma_id: norm-mad-o2808-2023
-  - norma_id: norm-mad-o266-2023
-  - norma_id: norm-and-d327-2010
-  - norma_id: norm-and-d-327-2010
-  - norma_id: norm-can-d-81-2010
-  - norma_id: norm-mad-o130-2023
-  - norma_id: norm-mad-d-29-2013
   - norma_id: norm-mad-d-149-2000
-  - norma_id: norm-and-d-363-2011
-  - norma_id: norm-and-o-20-8-2010
   - norma_id: norm-mad-d-65-2022
-  - norma_id: norm-and-d-6-2017
-  - norma_id: norm-and-d-362-2011
-  - norma_id: norm-and-d-329-2010
   - norma_id: norm-mad-d-43-2024
-  - norma_id: norm-and-o-30-5-2023-bach
-  - norma_id: norm-and-d-436-2008
   - norma_id: norm-mad-o-190-2023
-  - norma_id: norm-and-d-365-2011
-  - norma_id: norm-and-d-68-2008
-  - norma_id: norm-and-d-117-1985
-  - norma_id: norm-mad-d-10-2023
-  - norma_id: norm-and-d-56-1994
   - norma_id: norm-mad-d-126-2017
-  - norma_id: norm-mad-d-35-2019
-  - norma_id: norm-and-d-4-1993
-  - norma_id: norm-mad-d-12-2022
   - norma_id: norm-mad-o-893-2022
-  - norma_id: norm-and-d-390-1986
-  - norma_id: norm-and-o-19-4-2005
-  - norma_id: norm-mad-d-51-2023
   - norma_id: norm-mad-o-2808-2023
-  - norma_id: norm-and-o-10-5-2006
-  - norma_id: norm-and-d-156-1983
-  - norma_id: norm-mad-o-2882-2019
-  - norma_id: norm-and-d-206-2006
-  - norma_id: norm-and-d-266-1988
-  - norma_id: norm-and-d-21-1985
-  - norma_id: norm-and-o-10-2-2004
-  - norma_id: norm-and-d-95-2003
-  - norma_id: norm-and-d-208-1997
-  - norma_id: norm-and-o-20-7-2006
-  - norma_id: norm-and-d-14-1995
-  - norma_id: norm-mad-d-56-2023
   - norma_id: norm-mad-d-21-2025
-  - norma_id: norm-and-d-467-1994
-  - norma_id: norm-and-d-2-1995
   - norma_id: norm-mad-o-1312-2021
-  - norma_id: norm-and-d-54-1989
-  - norma_id: norm-and-d-19-1995
   - norma_id: norm-mad-o-1338-2023
-  - norma_id: norm-and-d-77-1994
-  - norma_id: norm-and-d-204-1995
   - norma_id: norm-mad-d-43-2022
-  - norma_id: norm-and-o-23-4-2007
   - norma_id: norm-mad-l-2-2010
-  - norma_id: norm-and-o-16-11-2007
-  - norma_id: norm-and-o-16-4-2008
-  - norma_id: norm-mad-d-126-2014
-  - norma_id: norm-and-o-27-7-2006
-  - norma_id: norm-and-o-15-12-2008
-  - norma_id: norm-and-o-3-8-2010
-  - norma_id: norm-mad-d-31-2011
-  - norma_id: norm-mad-l-4-2023
-  - norma_id: norm-and-d-431-2008
-  - norma_id: norm-and-o-29-9-2008
-  - norma_id: norm-and-o-28-6-2011
-  - norma_id: norm-and-r-1-9-2025
-  - norma_id: norm-and-d-140-2002
-  - norma_id: norm-and-d-52-2021
-  - norma_id: norm-and-o-14-7-2016
   - norma_id: norm-mad-o-6116-2025
-  - norma_id: norm-and-o-24-6-2008
-  - norma_id: norm-mad-d-112-2002
-  - norma_id: norm-and-o-17-6-2009
-  - norma_id: norm-and-o-26-5-2011-arte
-  - norma_id: norm-and-o-15-7-2008
-  - norma_id: norm-and-r-12-2-2021
   - norma_id: norm-mad-d-15-2016
-  - norma_id: norm-and-d-80-1999
-  - norma_id: norm-and-o-26-5-2011-eoi
-  - norma_id: norm-and-o-10-8-2007
-  - norma_id: norm-and-o-12-7-2011
-  - norma_id: norm-and-d-40-2011
-  - norma_id: norm-and-o-26-5-2011
-  - norma_id: norm-and-d-213-1995
-  - norma_id: norm-and-d-155-1997
-  - norma_id: norm-and-o-14-3-1995
-  - norma_id: norm-and-r-27-6-2023
-  - norma_id: norm-and-o-12-5-2017
-  - norma_id: norm-and-d-149-1988
-  - norma_id: norm-and-d-276-1998
-  - norma_id: norm-and-o-9-9-1993
-  - norma_id: norm-mad-d-18-2024
-  - norma_id: norm-and-o-12-7-2004
-  - norma_id: norm-mad-o-1568-2022
-  - norma_id: norm-and-o-18-4-2001
-  - norma_id: norm-mad-o-2460-2023
-  - norma_id: norm-mad-d-45-2023
-  - norma_id: norm-and-o-29-12-2000
-  - norma_id: norm-mad-r-inicio-2025
-  - norma_id: norm-and-d-512-1996
-  - norma_id: norm-and-o-8-7-1996
-  - norma_id: norm-mad-d-88-2021
   - norma_id: norm-mad-o-1493-2015
-  - norma_id: norm-and-o-22-7-2013
-  - norma_id: norm-and-d-156-1997
-  - norma_id: norm-and-o-28-3-2008
-  - norma_id: norm-and-d-135-2014
-  - norma_id: norm-mad-o-1190-2021
-  - norma_id: norm-mad-o-2694-2009
-  - norma_id: norm-and-o-17-9-2010
-  - norma_id: norm-and-o-16-12-2008
-  - norma_id: norm-and-o-12-6-2008
-  - norma_id: norm-mad-o-2300-2022
-  - norma_id: norm-mad-d-15-2023
-  - norma_id: norm-and-d-115-2002
-  - norma_id: norm-and-d-301-2009
-  - norma_id: norm-mad-d-40-2021
-  - norma_id: norm-mad-d-29-2019
-  - norma_id: norm-and-o-26-6-2012
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - 149.1.18
+  - norma_id: 149.1.18
   - norma_id: norm-es-l-19-2013
   - norma_id: norm-es-1985-5392
   - norma_id: norm-es-2003-23399
 ---
+
 # Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
 
 ## Preámbulo
@@ -2732,3 +2559,103 @@ MARIANO RAJOY BREY
 - [**L19_2013 Transparencia y Buen Gobierno**](./L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md)
 - [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md)
 - [**BOE-A-2003-23399**](../02_gestion_y_administracion_centros/L59_2003_firma_electronica.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md) desde *(Título VI, D. Final séptima. Entrada en vigor.)*
+- **Desarrolla**: [**L40_2015 Regimen Juridico del Sector Publico**](./L40_2015_regimen_juridico_sector_publico.md)
+- **Modifica**: [**BOE-A-2003-23399**](../02_gestion_y_administracion_centros/L59_2003_firma_electronica.md) (D. Final segunda) desde *(Título VI, D. Final segunda. Modificación de la [Ley 59/2003](../02_gestion_y_administracion_centros/L59_2003_firma_electronica.md), de 19 de diciembre, de firma electrónica.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 29) desde *(Título IV, Capítulo V. Finalización del procedimiento., Art. 88)*
+- **Fundamentado en**: `norm-es-c-1978` desde *(Título VI, Art. 127)*
+- **Fundamentado en**: [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md) desde *(Título VI, Art. 128)*
+- **Fundamentado en**: `norm-es-c-1978` desde *(Título VI, Art. 128)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Título VI, D. Final primera. Título competencial.)*
+- **Fundamentado en**: [**BOE-A-2003-23399**](../02_gestion_y_administracion_centros/L59_2003_firma_electronica.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L19_2013 Transparencia y Buen Gobierno**](./L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md)
+- **Fundamento de**: [**BOE-A-2002-25289**](../02_gestion_y_administracion_centros/RD3305_2002_ecd_modifican_aplicacion_lo_dispuesto_real.md)
+- **Fundamento de**: [**BOE-A-2003-4151**](../02_gestion_y_administracion_centros/RD209_2003_regulan_registros_notificaciones_telematicas_asi_como.md)
+- **Fundamento de**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md)
+- **Fundamento de**: [**BOE-A-2008-979**](../02_gestion_y_administracion_centros/LO1720_2007_aprueba_reglamento_desarrollo_ley_organica_proteccion.md)
+- **Fundamento de**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamento de**: [**BOE-A-2011-17560**](./RD1495_2011_desarrolla_ley_reutilizacion_informacion_sector_publico.md)
+- **Fundamento de**: [**BOE-A-2011-17890**](../08_personal_docente/RD1619_2011_establece_nuevo_regimen_equivalencias_estudios_titulaciones.md)
+- **Fundamento de**: [**BOE-A-2011-2615**](../03_ordenacion_curricular_y_ensenanzas/Osn_edu_establece_procedimiento_reconocimiento_formaciones_entrenadores.md)
+- **Fundamento de**: [**BOE-A-2015-8702**](../05_alumnado_y_servicios_escolares/Osn_ecd_crean_regulan_premios_nacionales_rendimiento.md)
+- **Fundamento de**: [**BOE-A-2018-6348**](../05_alumnado_y_servicios_escolares/Osn_ecd_regulan_premios_nacionales_bachillerato.md)
+- **Fundamento de**: [**BOE-A-2019-317**](../03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md)
+- **Fundamento de**: [**BOE-A-2019-3307**](../08_personal_docente/L4_2019_mejora_condiciones_desempeno_docencia_ensenanza_ambito.md)
+- **Fundamento de**: [**BOE-A-2020-17274**](../03_ordenacion_curricular_y_ensenanzas/RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md)
+- **Fundamento de**: [**BOE-A-2021-11382**](../07_convivencia_bienestar_y_protocolos/L2_2021_igualdad_social_no_discriminacion_razon_identidad.md)
+- **Fundamento de**: [**BOE-A-2021-18189**](../03_ordenacion_curricular_y_ensenanzas/Osn_efp_establece_equivalencia_efectos_acceso_ensenanzas.md)
+- **Fundamento de**: [**BOE-A-2021-18812**](../03_ordenacion_curricular_y_ensenanzas/RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md)
+- **Fundamento de**: [**BOE-A-2022-11589**](../07_convivencia_bienestar_y_protocolos/L15_2022_integral_igualdad_trato_no_discriminacion.md)
+- **Fundamento de**: [**BOE-A-2022-12014**](../03_ordenacion_curricular_y_ensenanzas/RD588_2022_establecen_especialidades_docentes_cuerpos_profesores_catedraticos.md)
+- **Fundamento de**: [**BOE-A-2022-1274**](../03_ordenacion_curricular_y_ensenanzas/RD62_2022_flexibilizacion_requisitos_exigibles_impartir_ofertas_formacion.md)
+- **Fundamento de**: [**BOE-A-2022-15953**](../03_ordenacion_curricular_y_ensenanzas/Osn_efp_modifica_orden_edu_regula_curriculo.md)
+- **Fundamento de**: [**BOE-A-2022-16194**](../08_personal_docente/RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md)
+- **Fundamento de**: [**BOE-A-2023-9553**](../08_personal_docente/RD286_2023_regula_asignacion_materias_educacion_secundaria_obligatoria.md)
+- **Fundamento de**: [**BOE-A-2024-10683**](../03_ordenacion_curricular_y_ensenanzas/RD498_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**BOE-A-2024-10684**](../03_ordenacion_curricular_y_ensenanzas/RD499_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**BOE-A-2024-10685**](../03_ordenacion_curricular_y_ensenanzas/RD500_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**BOE-A-2024-11613**](../03_ordenacion_curricular_y_ensenanzas/L1_2024_regulan_ensenanzas_artisticas_superiores_establece_organizacion.md)
+- **Fundamento de**: [**BOE-A-2025-2039**](../03_ordenacion_curricular_y_ensenanzas/RD69_2025_desarrollan_elementos_integrantes_instrumentos_gestion_sistema.md)
+- **Fundamento de**: [**BOE-A-2026-12038**](../03_ordenacion_curricular_y_ensenanzas/RD452_2026_establece_ordenacion_ensenanzas_profesionales_artes_plasticas.md)
+- **Fundamento de**: [**BOE-A-2026-2622**](../04_organizacion_escolar_y_funcionamiento/RD68_2026_regula_inspeccion_educativa.md)
+- **Fundamento de**: [**L19_2013 Transparencia y Buen Gobierno**](./L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md)
+- **Fundamento de**: [**L40_2015 Regimen Juridico del Sector Publico**](./L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamento de**: [**L9_2017 Contratos del Sector Publico (LCSP)**](../02_gestion_y_administracion_centros/L9_2017_contratos_sector_publico_transponen_ordenamiento_juridico.md)
+- **Fundamento de**: [**LO10_2022 Garantia Integral de la Libertad Sexual**](../07_convivencia_bienestar_y_protocolos/LO10_2022_garantia_integral_libertad_sexual.md)
+- **Fundamento de**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
+- **Fundamento de**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
+- **Fundamento de**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md)
+- **Fundamento de**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Fundamento de**: [**RD157_2022 Ensenanzas Minimas de Educacion Primaria**](../03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md)
+- **Fundamento de**: [**RD217_2022 Ordenacion y Ensenanzas Minimas de la ESO**](../03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md)
+- **Fundamento de**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md)
+- **Fundamento de**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **Fundamento de**: [**RD95_2022 Ensenanzas Minimas de Educacion Infantil**](../03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md)
+- **Fundamento de**: [**BOE-A-2010-10321**](../05_alumnado_y_servicios_escolares/RD828_2010_traspaso_comunidad_autonoma_canarias_medios_adscritos.md)
+- **Fundamento de**: `norm-can-r-calendario-escolar-2025-2026`
+- **Fundamento de**: `norm-mad-d29-2013`
+- **Fundamento de**: `norm-mad-d-64-2022`
+- **Fundamento de**: `norm-and-d-285-2023`
+- **Fundamento de**: `norm-mad-d-149-2000`
+- **Fundamento de**: `norm-mad-d-65-2022`
+- **Fundamento de**: `norm-mad-d-43-2024`
+- **Fundamento de**: `norm-mad-o-190-2023`
+- **Fundamento de**: `norm-mad-d-126-2017`
+- **Fundamento de**: `norm-mad-o-893-2022`
+- **Fundamento de**: `norm-mad-o-2808-2023`
+- **Fundamento de**: `norm-mad-d-21-2025`
+- **Fundamento de**: `norm-mad-o-1312-2021`
+- **Fundamento de**: `norm-mad-o-1338-2023`
+- **Fundamento de**: `norm-mad-d-43-2022`
+- **Fundamento de**: `norm-mad-l-2-2010`
+- **Fundamento de**: `norm-mad-o-6116-2025`
+- **Fundamento de**: `norm-mad-d-15-2016`
+- **Fundamento de**: `norm-mad-o-1493-2015`
+- **Cita a**: `norm-es-c-1978` (Art. 103)
+- **Cita a**: `norm-es-c-1978` (Título IV)
+- **Cita a**: `norm-es-c-1978` (Art. 149)
+- **Cita a**: `norm-es-c-1978` (Art. 106)
+- **Cita a**: [**L19_2013 Transparencia y Buen Gobierno**](./L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md)
+- **Cita a**: [**L19_2013 Transparencia y Buen Gobierno**](./L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md) desde *(Título II, Capítulo I. Normas generales de actuación., Art. 13)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo I. Normas generales de actuación., Art. 13)*
+- **Cita a**: `norm-es-c-1978` (Art. 29) desde *(Título II, Capítulo I. Normas generales de actuación., Art. 24)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo I. Normas generales de actuación., Art. 25)*
+- **Cita a**: [**L19_2013 Transparencia y Buen Gobierno**](./L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md) desde *(Título II, Capítulo I. Normas generales de actuación., Art. 27)*
+- **Cita a**: [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md) desde *(Título III, Capítulo II. Eficacia de los actos., Art. 41)*
+- **Cita a**: `norm-es-c-1978` desde *(Título III, Capítulo III. Nulidad y anulabilidad., Art. 47)*
+- **Cita a**: `norm-es-c-1978` (Art. 98) desde *(Título IV, Capítulo I. Garantías del procedimiento., Art. 53)*
+- **Cita a**: `norm-es-c-1978` desde *(Título IV, Capítulo II. Iniciación del procedimiento., Art. 56)*
+- **Cita a**: [**L19_2013 Transparencia y Buen Gobierno**](./L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md) desde *(Título IV, Capítulo IV. Instrucción del procedimiento., Art. 82)*
+- **Cita a**: `norm-es-c-1978` desde *(Título IV, Capítulo VII. Ejecución., Art. 99)*
+- **Cita a**: `norm-es-c-1978` desde *(Título IV, Capítulo VII. Ejecución., Art. 104)*
+- **Cita a**: `norm-es-c-1978` desde *(Título VI, Art. 127)*
+- **Cita a**: `norm-es-c-1978` desde *(Título VI, Art. 128)*
+- **Cita a**: [**L19_2013 Transparencia y Buen Gobierno**](./L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md) (Art. 7) desde *(Título VI, Art. 129)*
+- **Cita a**: [**BOE-A-2003-23399**](../02_gestion_y_administracion_centros/L59_2003_firma_electronica.md) (Art. 3) desde *(Título VI, D. Final segunda. Modificación de la [Ley 59/2003](../02_gestion_y_administracion_centros/L59_2003_firma_electronica.md), de 19 de diciembre, de firma electrónica.)*

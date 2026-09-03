@@ -25,13 +25,21 @@ tags:
 - plurilinguismo
 - andalucia
 relaciones:
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 1
+    - Art. 65
+    - Art. 115
+    - Art. 123
+    - Art. 124
+    - Art. 46
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 ---
+
 # Orden de 12 de mayo de 2017, por la que se regula la enseñanza bilingüe en centros privados concertados de Andalucía.
 
 ## Preámbulo
@@ -42,10 +50,18 @@ relaciones:
 
 Reglamento General de ingreso, promoción interna, provisión de puestos de trabajo y promoción profesional de los funcionarios de la Administración General de la Junta de Andalucía, aprobado por el Decreto 2/2002, de 9 de enero, y en uso de la competencia conferida por el artículo 1.2.f) de la Orden de 11 de noviembre de 2015, por la que delegan competencias en órganos directivos de la Consejería de Economía y Conocimiento, se adjudica el puesto de libre designación convocado por Resolución de 3 de marzo de 2017, de esta Viceconsejería de Economía y Conocimiento, y se nombra para el mismo al funcionario que figura en el Anexo. La toma de posesión se efectuará en los plazos establecidos en el artículo 65 del Reglamento General anteriormente citado, remitiéndose la documentación correspondiente para su inscripción al Registro General de Personal. Contra la presente Resolución, que pone fin a la vía administrativa, se podrá interponer recurso potestativo de reposición ante este órgano, en el plazo de un mes contado a partir del día siguiente a aquel en que tenga lugar la notificación o publicación del presente acto, o interponer directamente el recurso contencioso-administrativo ante los correspondientes órganos judiciales de este Orden, en el plazo de dos meses contados desde el día siguiente al de la publicación o, en su caso, notificación de este acto, todo ello de conformidad con lo establecido en el artículo 115 de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía, en los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y en el artículo 46.1 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa. Sevilla, 12 de mayo de 2017.- El Viceconsejero, Antonio José Valverde Asencio.
 
-## Anexo
-
-DNI: 01825294-Z. Primer apellido: Andrés.
+## Anexo D. NI: 01825294-Z. Primer apellido: Andrés.
 
 #### Segundo. apellido: Moreno.
 
 Nombre: Ángel. Código P.T.: 513710. Puesto de Trabajo: Sv. Industria, Energía y Minas. Consejería/Org. Autónomo: Consejería de Economía y Conocimiento. Centro directivo: Delegación Territorial de Economía, Innovación, Ciencia y Empleo. Centro destino: Delegación Territorial de Economía, Innovación, Ciencia y Empleo. Provincia: Sevilla. Localidad: Sevilla.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 1, Art. 65, Art. 115, Art. 123, Art. 124, Art. 46)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)

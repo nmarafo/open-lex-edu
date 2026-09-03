@@ -24,14 +24,58 @@ tags:
 - centros_deportivos
 - andalucia
 relaciones:
-  desarrolla:
+  modifica:
   - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-rd-132-2010
+    articulos_destino:
+    - Art. 39
+    - Art. 40
+    - Art. 41
+    - Art. 42
+    - Art. 43
+    - Art. 44
+    - Art. 42 ter
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 39
+    - Art. 40
+    - Art. 41
+    - Art. 42
+    - Art. 43
+    - Art. 44
+    - Art. 42 ter
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 39
+    - Art. 40
+    - Art. 41
+    - Art. 42
+    - Art. 43
+    - Art. 44
+    - Art. 42 ter
+  - norma_id: norm-and-l17-2007
+    articulos_destino:
+    - Art. 69
+    - Art. 16
+    - Art. 2
+    - Art. 44
+  - norma_id: norm-and-d-436-2008
+    articulos_destino:
+    - Art. 69
+    - Art. 16
+    - Art. 2
+    - Art. 44
   fundamentado_en:
+  - norma_id: norm-es-1999-23750
+    articulos_origen:
+    - D. Transitoria única. Aplicabilidad de la norma.
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
 ---
+
 # Decreto 301/2009, de 14 de julio, por el que se aprueba el Reglamento de Centros de Enseñanzas Deportivas.
 
 ## Preámbulo
@@ -40,7 +84,9 @@ Página núm. 6 Sevilla, 28 de julio 2009 CONSEJERÍA DE EDUCACIÓN ORDEN de 29 
 
 que el currículo de las enseñanzas de formación profesional incluirá una fase de formación práctica en los centros de trabajo. La Ley 17/2007, de 10 de diciembre, de Educación de Andalucía, en su artículo 69.2 recoge que todos los ciclos formativos de formación profesional inicial incluirán un módulo de formación en centros de trabajo, con la finalidad de completar las competencias profesionales en situaciones laborales reales. El Decreto 436/2008, de 2 de septiembre, (BOJA núm. 182, de 12 de septiembre) por el que se establece la ordenación y las enseñanzas de la Formación Profesional inicial que forma parte del sistema educativo, regula en su artículo 16 el módulo de formación en centros de trabajo que se cursará en todos los ciclos formativos. La Orden 24 de junio de 2008, de la Consejería de Educación (BOJA núm. 157, de 7 de agosto) por la que se regulan los programas de cualificación profesional inicial, contempla la realización del módulo profesional de Formación en Centros de Trabajo para los alumnos y alumnas que hayan superado los demás módulos obligatorios. La Orden de 9 de febrero de 2004, por la que se regula la concesión de ayudas por desplazamiento para alumnos y alumnas que realizan prácticas formativas correspondientes a la fase de Formación en Centros de Trabajo, recoge en su artículo 2 que la financiación de las ayudas se efectuaba con. cargo al servicio 16, concepto 485 del programa presupuestario 42D por considerarse susceptible de cofinanciación con el Fondo Social Europeo. Desde el año 2007 esta cofinanciación no es posible al no ser eje prioritario en la aplicación de tales fondos. Por otro lado, la Orden de 9 de febrero de 2004 no contemplaba entre sus disposiciones normativas la Ley 38/2003, de 17 de noviembre, General de Subvenciones, y de su Reglamento, aprobado por Real Decreto 887/2006, de 21 de julio, de obligada aplicación al tener las ayudas por ella reguladas el carácter de subvención, así como la Ley 3/2004, de 28 de diciembre, de Medidas Tributarias, Administrativas y Financieras. Por todo ello, a propuesta de la Dirección General de Formación Profesional y Educación Permanente, y en virtud de lo dispuesto en el artículo 44.2 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía,
 DISPONGO:
-Artículo único. Modificación de la Orden de 9 de febrero de 2004 que queda redactada en los siguientes términos:
+
+#### Artículo . #### Artículo . Artículo único. Modificación de la Orden de 9 de febrero de 2004 que queda redactada en los siguientes términos:
+
 Uno. El artículo 2.1 queda redactado de la siguiente forma:
 «Artículo 2. Financiación de las ayudas.
 
@@ -108,9 +154,7 @@ Consejería de Educación, que en virtud del Decreto 11/2004, de 24 de abril (BO
 
 La presente Orden se aplicará con carácter retroactivo al alumnado que realiza el módulo profesional de formación en centros de trabajo durante el curso 2008-2009 y que haya solicitado, cumpliendo los requisitos establecidos en la Orden de 9 de febrero de 2004, la concesión de ayuda por desplazamiento.
 
-Disposición final .... Entrada en vigor.
-
-La presente Orden entrará en vigor al día siguiente de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 29 de junio de 2009 MARÍA DEL MAR MORENO RUIZ Consejera de Educación
+#### Disposición final . ... Entrada en vigor.
 
 Sevilla, 28 de julio 2009 Página núm. 9
 
@@ -123,3 +167,20 @@ DATOS DEL CENTRO DOCENTE CENTRO DOCENTE DONDE ESTÁ MATRICULADO TIPO DE CENTRO C
 MUNICIPIO/PROVINCIA DISTANCIA (*) .................................. Km LOCALIDAD EL/LA ALUMNO/A O PADRE/MADRE O TUTOR/A LEGAL Fdo.:
 VºBº DIRECTOR/A DEL CENTRO DOCENTE Fdo.:
 En a de de En a de de La modalidad de ayuda ha de ser determinada por el centro docente una vez establecido el programa formativo de la FCT para el alumnado y conocido por estos. CódigoEntidad Código Sucursal Dígito Control Nº Cuenta En cumplimiento de lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Educación le informa que los datos personales obtenidos mediante la cumplimentación de este documento/impreso/formulario y demás que se adjuntan van a ser incorporados, para su tratamiento, en un fichero automatizado. Asimismo, se le informa que la recogida y tratamiento de dichos datos tienen como finalidad la gestión de las ayudas convocadas en la Orden que la regula. De acuerdo con lo previsto en la citada Ley Orgánica, puede ejercitar los derechos de acceso, rectificación, cancelación y oposición dirigiendo un escrito a la Dirección General de Formación Profesional y Educación Permanente. Consejería de Educación. C/ Juan Antonio de Vizarrón s/n. Edificio Torretriana, 41071-Sevilla. PROTECCIÓN DE DATOS (*) Distancia en Km. entre residencia habitual y el centro de trabajo (sólo ida).
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 39, Art. 40, Art. 41, Art. 42, Art. 43, Art. 44, Art. 42 ter)
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 39, Art. 40, Art. 41, Art. 42, Art. 43, Art. 44, Art. 42 ter)
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 39, Art. 40, Art. 41, Art. 42, Art. 43, Art. 44, Art. 42 ter)
+- **Modifica**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) (Art. 69, Art. 16, Art. 2, Art. 44)
+- **Modifica**: [**D436_2008 Ordenacion Educacion Personas Adultas Andalucia**](../03_ordenacion_curricular_y_ensenanzas/D436_2008_ordenacion_educacion_personas_adultas_andalucia.md) (Art. 69, Art. 16, Art. 2, Art. 44)
+- **Fundamentado en**: [**BOE-A-1999-23750**](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) desde *(D. Transitoria única. Aplicabilidad de la norma.)*
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

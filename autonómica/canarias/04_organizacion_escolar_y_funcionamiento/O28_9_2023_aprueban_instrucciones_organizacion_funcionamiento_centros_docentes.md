@@ -29,31 +29,62 @@ tags:
 - personal-no-docente
 - profesorado
 relaciones:
-  desarrolla:
-  - norma_id: norm-can-d-81-2010
-  - norma_id: norm-es-lo-2-2006
+  modifica:
+  - norma_id: norm-es-rdl-2-2015
+    articulos_destino:
+    - Art. 16
+  - norma_id: norm-can-o-2013-10-09
+  cita:
+  - norma_id: norm-es-rdl-2-2015
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 68
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-l-40-2015
+    articulos_destino:
+    - Art. 23
+    - Art. 24
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-2010-4518
+  - norma_id: norm-es-2007-6115
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-rdleg-5-2015
+  - norma_id: norm-es-l-19-2013
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-1-2004
   fundamentado_en:
+  - norma_id: norm-es-rdl-5-2015
+    articulos_destino:
+    - Art. 57
+  - norma_id: norm-es-rdleg-5-2015
+    articulos_destino:
+    - Art. 57
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 66
+  - norma_id: norm-es-l-39-2015
   - norma_id: norm-can-res-boc-2019-069-48
   - norma_id: norm-es-2007-6115
   - norma_id: norm-es-2010-4518
   - norma_id: norm-es-l-19-2013
-  - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-es-lo-1-2004
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-3-2018
   - norma_id: norm-es-rdl-2-2015
-  - norma_id: norm-es-rdl-5-2015
   - norma_id: norm-can-l-6-2014
+  desarrolla:
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
   - norma_id: norm-can-res-055
   - norma_id: norm-can-res-boc-2026-116-87
-  modifica:
-  - norma_id: norm-can-o-2013-10-09
   fundamentos_derecho:
   - norma_id: norm-can-d-81-2010
   articulos:
-  - '120'
+  - norma_id: '120'
   - norma_id: norm-can-res-boc-2019-069-48
   - norma_id: norm-es-l-19-2013
   - norma_id: norm-es-l-39-2015
@@ -65,6 +96,7 @@ relaciones:
   - norma_id: norm-es-lo-1-2004
   - norma_id: norm-es-rdl-2-2015
 ---
+
 # Orden de 28 de septiembre de 2023, por la que se aprueban las instrucciones de organización y funcionamiento de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -790,3 +822,43 @@ Tema 110.- La red Internet: arquitectura de red. Principios de funcionamiento. S
 - [**BOE-A-2010-4518**](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md)
 - [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
 - [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md) (Art. 16)
+- **Modifica**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](./O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md) (Art. 57)
+- **Fundamentado en**: `norm-es-rdleg-5-2015` (Art. 57)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 66)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**Resolucion BOC 48**](../03_ordenacion_curricular_y_ensenanzas/R26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md)
+- **Fundamentado en**: [**BOE-A-2007-6115**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md)
+- **Fundamentado en**: [**BOE-A-2010-4518**](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md)
+- **Fundamentado en**: [**L19_2013 Transparencia y Buen Gobierno**](../../../estatal/01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamentado en**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
+- **Fundamentado en**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamento de**: [**Resolucion BOC 55**](../03_ordenacion_curricular_y_ensenanzas/R26_6_2025_dictan_instrucciones_especificas_complementarias_curso_organizacion.md)
+- **Fundamento de**: [**Resolucion BOC 87**](./R29_5_2026_dictan_instrucciones_especificas_complementarias_curso_organizacion.md)
+- **Cita a**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
+- **Cita a**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 68)
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 23, Art. 24)
+- **Cita a**: `norm-es-c-1978`
+- **Cita a**: [**BOE-A-2010-4518**](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md)
+- **Cita a**: [**BOE-A-2007-6115**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md)
+- **Cita a**: [**LO1_2018 Estatuto de Autonomia de Canarias**](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md)
+- **Cita a**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Cita a**: `norm-es-rdleg-5-2015`
+- **Cita a**: [**L19_2013 Transparencia y Buen Gobierno**](../../../estatal/01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md)
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)

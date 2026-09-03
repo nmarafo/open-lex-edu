@@ -23,6 +23,58 @@ tags:
 - formacion-profesional
 - titulacion
 relaciones:
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VI
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2016-3229
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VI
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2021-20113
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VI
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2010-12201
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VI
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-lo-2-2006
+    seccion_origen: Sección Tercera. , estableciendo los principios generales, los
+      aspectos fundamentales sobre
+    articulos_origen:
+    - D. Final primera. , apartado uno, autoriza a las Direcciones Generales competentes.
+  - norma_id: norm-es-2021-20113
+    seccion_origen: Sección Tercera. , estableciendo los principios generales, los
+      aspectos fundamentales sobre
+    articulos_origen:
+    - D. Final primera. , apartado uno, autoriza a las Direcciones Generales competentes.
+  - norma_id: norm-es-2010-12201
+    seccion_origen: Sección Tercera. , estableciendo los principios generales, los
+      aspectos fundamentales sobre
+    articulos_origen:
+    - D. Final primera. , apartado uno, autoriza a las Direcciones Generales competentes.
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+    seccion_origen: Sección Tercera. , estableciendo los principios generales, los
+      aspectos fundamentales sobre
+  - norma_id: norm-es-2021-20113
+    seccion_origen: Sección Tercera. , estableciendo los principios generales, los
+      aspectos fundamentales sobre
+  - norma_id: norm-es-2010-12201
+    seccion_origen: Sección Tercera. , estableciendo los principios generales, los
+      aspectos fundamentales sobre
+  cita:
+  - norma_id: norm-can-d-84-2024
+    seccion_origen: Sección Tercera. , estableciendo los principios generales, los
+      aspectos fundamentales sobre
+    articulos_origen:
+    - D. Final primera. , apartado uno, autoriza a las Direcciones Generales competentes.
   fundamentado_en:
   - norma_id: norm-can-d-135-2016
   - norma_id: norm-can-l-6-2014
@@ -31,12 +83,10 @@ relaciones:
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
@@ -44,6 +94,7 @@ relaciones:
   - norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-036-808.pdf
 ---
+
 # Resolución de 8 de febrero de 2017, por la que se dictan instrucciones para el proceso de evaluación en las Enseñanzas Artísticas Superiores en la Comunidad Autónoma de Canarias (BOC n.º 36, de 21 de febrero).
 
 ## Preámbulo
@@ -297,3 +348,27 @@ Título Superior de Música.
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**Resolucion BOC 67**](./R20_4_2016_dictan_instrucciones_realizacion_practicas_externas_estudiantes.md)
 - [**Decreto BOC 135/2016**](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título I, Capítulo VI, Art. 3)
+- **Modifica**: [**BOE-A-2016-3229**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md) (Título I, Capítulo VI, Art. 3)
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título I, Capítulo VI, Art. 3)
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título I, Capítulo VI, Art. 3)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(D. Final primera. , apartado uno, autoriza a las Direcciones Generales competentes.)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(D. Final primera. , apartado uno, autoriza a las Direcciones Generales competentes.)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(D. Final primera. , apartado uno, autoriza a las Direcciones Generales competentes.)*
+- **Fundamentado en**: [**Decreto BOC 135/2016**](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**Resolucion BOC 67**](./R20_4_2016_dictan_instrucciones_realizacion_practicas_externas_estudiantes.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) desde *(D. Final primera. , apartado uno, autoriza a las Direcciones Generales competentes.)*

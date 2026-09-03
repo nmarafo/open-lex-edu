@@ -24,31 +24,564 @@ tags:
 - formacion-profesional
 - titulacion
 relaciones:
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2001-7022
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2002-4371
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-lo-2-2006
+    capitulo_destino: Capítulo VIII
+  - norma_id: norm-es-2021-20113
+    capitulo_destino: Capítulo VIII
+  - norma_id: norm-es-2002-4371
+    capitulo_destino: Capítulo VIII
+  - norma_id: norm-es-2010-12201
+    capitulo_destino: Capítulo VIII
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo I. Finalidad, objetivos y principios de las enseñanzas
+      deportivas artículo 1 Finalidad. Conforme a lo previsto en el artículo 63.1
+      de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación, las enseñanzas deportivas tienen como finalidad
+      preparar a los alumnos para la actividad profesional en el sistema deportivo
+      en relación con una modalidad o especialidad deportiva, y facilitar la adaptación
+      de los técnicos formados a la evolución del mundo laboral y deportivo y a la
+      ciudadanía activa.
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 1
+    - Art. 63
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo I. Finalidad, objetivos y principios de las enseñanzas
+      deportivas artículo 1 Finalidad. Conforme a lo previsto en el artículo 63.1
+      de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación, las enseñanzas deportivas tienen como finalidad
+      preparar a los alumnos para la actividad profesional en el sistema deportivo
+      en relación con una modalidad o especialidad deportiva, y facilitar la adaptación
+      de los técnicos formados a la evolución del mundo laboral y deportivo y a la
+      ciudadanía activa.
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 1
+    - Art. 63
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo I. Finalidad, objetivos y principios de las enseñanzas
+      deportivas artículo 1 Finalidad. Conforme a lo previsto en el artículo 63.1
+      de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación, las enseñanzas deportivas tienen como finalidad
+      preparar a los alumnos para la actividad profesional en el sistema deportivo
+      en relación con una modalidad o especialidad deportiva, y facilitar la adaptación
+      de los técnicos formados a la evolución del mundo laboral y deportivo y a la
+      ciudadanía activa.
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 1
+    - Art. 63
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo I. Finalidad, objetivos y principios de las enseñanzas
+      deportivas artículo 1 Finalidad. Conforme a lo previsto en el artículo 63.1
+      de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación, las enseñanzas deportivas tienen como finalidad
+      preparar a los alumnos para la actividad profesional en el sistema deportivo
+      en relación con una modalidad o especialidad deportiva, y facilitar la adaptación
+      de los técnicos formados a la evolución del mundo laboral y deportivo y a la
+      ciudadanía activa.
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 63
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo I. Finalidad, objetivos y principios de las enseñanzas
+      deportivas artículo 1 Finalidad. Conforme a lo previsto en el artículo 63.1
+      de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación, las enseñanzas deportivas tienen como finalidad
+      preparar a los alumnos para la actividad profesional en el sistema deportivo
+      en relación con una modalidad o especialidad deportiva, y facilitar la adaptación
+      de los técnicos formados a la evolución del mundo laboral y deportivo y a la
+      ciudadanía activa.
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 63
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo I. Finalidad, objetivos y principios de las enseñanzas
+      deportivas artículo 1 Finalidad. Conforme a lo previsto en el artículo 63.1
+      de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación, las enseñanzas deportivas tienen como finalidad
+      preparar a los alumnos para la actividad profesional en el sistema deportivo
+      en relación con una modalidad o especialidad deportiva, y facilitar la adaptación
+      de los técnicos formados a la evolución del mundo laboral y deportivo y a la
+      ciudadanía activa.
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 63
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo I. Finalidad, objetivos y principios de las enseñanzas
+      deportivas artículo 1 Finalidad. Conforme a lo previsto en el artículo 63.1
+      de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación, las enseñanzas deportivas tienen como finalidad
+      preparar a los alumnos para la actividad profesional en el sistema deportivo
+      en relación con una modalidad o especialidad deportiva, y facilitar la adaptación
+      de los técnicos formados a la evolución del mundo laboral y deportivo y a la
+      ciudadanía activa.
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo I. Finalidad, objetivos y principios de las enseñanzas
+      deportivas artículo 1 Finalidad. Conforme a lo previsto en el artículo 63.1
+      de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación, las enseñanzas deportivas tienen como finalidad
+      preparar a los alumnos para la actividad profesional en el sistema deportivo
+      en relación con una modalidad o especialidad deportiva, y facilitar la adaptación
+      de los técnicos formados a la evolución del mundo laboral y deportivo y a la
+      ciudadanía activa.
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo I. Finalidad, objetivos y principios de las enseñanzas
+      deportivas artículo 1 Finalidad. Conforme a lo previsto en el artículo 63.1
+      de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación, las enseñanzas deportivas tienen como finalidad
+      preparar a los alumnos para la actividad profesional en el sistema deportivo
+      en relación con una modalidad o especialidad deportiva, y facilitar la adaptación
+      de los técnicos formados a la evolución del mundo laboral y deportivo y a la
+      ciudadanía activa.
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo I. Finalidad, objetivos y principios de las enseñanzas
+      deportivas artículo 1 Finalidad. Conforme a lo previsto en el artículo 63.1
+      de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación, las enseñanzas deportivas tienen como finalidad
+      preparar a los alumnos para la actividad profesional en el sistema deportivo
+      en relación con una modalidad o especialidad deportiva, y facilitar la adaptación
+      de los técnicos formados a la evolución del mundo laboral y deportivo y a la
+      ciudadanía activa.
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 64
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo I. Finalidad, objetivos y principios de las enseñanzas
+      deportivas artículo 1 Finalidad. Conforme a lo previsto en el artículo 63.1
+      de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación, las enseñanzas deportivas tienen como finalidad
+      preparar a los alumnos para la actividad profesional en el sistema deportivo
+      en relación con una modalidad o especialidad deportiva, y facilitar la adaptación
+      de los técnicos formados a la evolución del mundo laboral y deportivo y a la
+      ciudadanía activa.
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 64
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo I. Finalidad, objetivos y principios de las enseñanzas
+      deportivas artículo 1 Finalidad. Conforme a lo previsto en el artículo 63.1
+      de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación, las enseñanzas deportivas tienen como finalidad
+      preparar a los alumnos para la actividad profesional en el sistema deportivo
+      en relación con una modalidad o especialidad deportiva, y facilitar la adaptación
+      de los técnicos formados a la evolución del mundo laboral y deportivo y a la
+      ciudadanía activa.
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 64
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo II. Ordenación de las enseñanzas deportivas.
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 64
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo II. Ordenación de las enseñanzas deportivas.
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 64
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo II. Ordenación de las enseñanzas deportivas.
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 64
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo II. Ordenación de las enseñanzas deportivas.
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo II. Ordenación de las enseñanzas deportivas.
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo II. Ordenación de las enseñanzas deportivas.
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo II. Ordenación de las enseñanzas deportivas.
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 63
+    - Art. 8
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo II. Ordenación de las enseñanzas deportivas.
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 63
+    - Art. 8
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo II. Ordenación de las enseñanzas deportivas.
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 63
+    - Art. 8
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo V. El currículo.
+    articulos_origen:
+    - Art. 16
+    articulos_destino:
+    - Art. 63
+    - Art. 6
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo V. El currículo.
+    articulos_origen:
+    - Art. 16
+    articulos_destino:
+    - Art. 63
+    - Art. 6
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo V. El currículo.
+    articulos_origen:
+    - Art. 16
+    articulos_destino:
+    - Art. 63
+    - Art. 6
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo V. El currículo.
+    articulos_origen:
+    - Art. 16
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo V. El currículo.
+    articulos_origen:
+    - Art. 16
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo V. El currículo.
+    articulos_origen:
+    - Art. 16
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo VII. Oferta de las enseñanzas deportivas.
+    articulos_origen:
+    - Art. 28
+    disposiciones_destino:
+    - D. Adicional cuarta
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo VII. Oferta de las enseñanzas deportivas.
+    articulos_origen:
+    - Art. 28
+    disposiciones_destino:
+    - D. Adicional cuarta
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo VII. Oferta de las enseñanzas deportivas.
+    articulos_origen:
+    - Art. 28
+    disposiciones_destino:
+    - D. Adicional cuarta
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo VIII. Acceso, promoción y admisión.
+    articulos_origen:
+    - Art. 33
+    articulos_destino:
+    - Art. 67
+    - Art. 85
+    - Art. 53
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo VIII. Acceso, promoción y admisión.
+    articulos_origen:
+    - Art. 33
+    articulos_destino:
+    - Art. 67
+    - Art. 85
+    - Art. 53
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo VIII. Acceso, promoción y admisión.
+    articulos_origen:
+    - Art. 33
+    articulos_destino:
+    - Art. 67
+    - Art. 85
+    - Art. 53
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo IX. Correspondencias, convalidaciones y exenciones.
+    articulos_origen:
+    - Art. 38
+    articulos_destino:
+    - Art. 65
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo IX. Correspondencias, convalidaciones y exenciones.
+    articulos_origen:
+    - Art. 38
+    articulos_destino:
+    - Art. 65
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo IX. Correspondencias, convalidaciones y exenciones.
+    articulos_origen:
+    - Art. 38
+    articulos_destino:
+    - Art. 65
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo X. De los centros y del profesorado.
+    articulos_origen:
+    - Art. 49
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo X. De los centros y del profesorado.
+    articulos_origen:
+    - Art. 49
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo X. De los centros y del profesorado.
+    articulos_origen:
+    - Art. 49
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo X. De los centros y del profesorado.
+    articulos_origen:
+    - Art. 49
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo X. De los centros y del profesorado.
+    articulos_origen:
+    - Art. 49
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo X. De los centros y del profesorado.
+    articulos_origen:
+    - Art. 49
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo X. De los centros y del profesorado.
+    articulos_origen:
+    - D. Adicional cuarta. Equivalencia de los títulos establecidos con anterioridad
+      a la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Adicional cuarta
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo X. De los centros y del profesorado.
+    articulos_origen:
+    - D. Adicional cuarta. Equivalencia de los títulos establecidos con anterioridad
+      a la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Adicional cuarta
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo X. De los centros y del profesorado.
+    articulos_origen:
+    - D. Adicional cuarta. Equivalencia de los títulos establecidos con anterioridad
+      a la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Adicional cuarta
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo X. De los centros y del profesorado.
+    articulos_origen:
+    - D. Adicional cuarta. Equivalencia de los títulos establecidos con anterioridad
+      a la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación.
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo X. De los centros y del profesorado.
+    articulos_origen:
+    - D. Adicional cuarta. Equivalencia de los títulos establecidos con anterioridad
+      a la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación.
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo X. De los centros y del profesorado.
+    articulos_origen:
+    - D. Adicional cuarta. Equivalencia de los títulos establecidos con anterioridad
+      a la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación.
+  - norma_id: norm-es-2000-5990
+    capitulo_origen: Capítulo X. De los centros y del profesorado.
+    articulos_origen:
+    - D. Final segunda. Modificación de determinados aspectos que se regulan en el
+      [Real Decreto 320/2000](RD320_2000_establecen_titulos_tecnico_deportivo_tecnico_deportivo.md),
+      de 3 de marzo.
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-es-2000-5990
+    capitulo_origen: Capítulo X. De los centros y del profesorado.
+    articulos_origen:
+    - D. Final segunda. Modificación de determinados aspectos que se regulan en el
+      [Real Decreto 320/2000](RD320_2000_establecen_titulos_tecnico_deportivo_tecnico_deportivo.md),
+      de 3 de marzo.
   fundamentado_en:
+  - norma_id: norm-es-2002-4371
+  - norma_id: norm-es-2002-12018
+    capitulo_origen: Capítulo IX. Correspondencias, convalidaciones y exenciones.
+    articulos_origen:
+    - Art. 40
+    articulos_destino:
+    - Art. 8
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: Capítulo X. De los centros y del profesorado.
+    articulos_origen:
+    - D. Adicional sexta. Efectos de las formaciones anteriores convocadas por los
+      órganos competentes de las Comunidades Autónomas.
+    disposiciones_destino:
+    - D. Transitoria primera
+  - norma_id: norm-es-2002-12018
+    capitulo_origen: Capítulo X. De los centros y del profesorado.
+    articulos_origen:
+    - D. Adicional decimotercera. Procedimiento de evaluación y acreditación de unidades
+      de competencia adquiridas por la experiencia laboral y aprendizajes no formales.
+    articulos_destino:
+    - Art. 8
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: Capítulo X. De los centros y del profesorado.
+    articulos_origen:
+    - D. Transitoria segunda. Vigencia de las enseñanzas establecidas al amparo del
+      [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md),
+      de 19 de diciembre.
+    disposiciones_destino:
+    - D. Transitoria segunda
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: Capítulo X. De los centros y del profesorado.
+    articulos_origen:
+    - D. Transitoria segunda. Vigencia de las enseñanzas establecidas al amparo del
+      [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md),
+      de 19 de diciembre.
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: Capítulo X. De los centros y del profesorado.
+    articulos_origen:
+    - D. Transitoria tercera. Vigencia de las normas de desarrollo de las enseñanzas
+      deportivas establecidas al amparo del [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md),
+      de 19 de diciembre.
+    disposiciones_destino:
+    - D. Transitoria tercera
+  - norma_id: norm-es-lo-8-1985
+    capitulo_origen: Capítulo X. De los centros y del profesorado.
+    articulos_origen:
+    - D. Final tercera. Modificación de determinados aspectos que se regulan en el
+      Real Decreto 318/2000, de 3 de marzo.
+    articulos_destino:
+    - Art. 24
+    - Art. 35
+    - Art. 45
+    - Art. 149
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo X. De los centros y del profesorado.
+    articulos_origen:
+    - D. Final tercera. Modificación de determinados aspectos que se regulan en el
+      Real Decreto 318/2000, de 3 de marzo.
+    articulos_destino:
+    - Art. 24
+    - Art. 35
+    - Art. 45
+    - Art. 149
+    disposiciones_destino:
+    - D. Adicional primera
   - norma_id: norm-es-2000-5990
   - norma_id: norm-es-2001-7022
-  - norma_id: norm-es-2002-12018
-  - norma_id: norm-es-2002-4371
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-lo-8-1985
+  desarrolla:
+  - norma_id: norm-es-2002-12018
+    capitulo_origen: Capítulo I. Finalidad, objetivos y principios de las enseñanzas
+      deportivas artículo 1 Finalidad. Conforme a lo previsto en el artículo 63.1
+      de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación, las enseñanzas deportivas tienen como finalidad
+      preparar a los alumnos para la actividad profesional en el sistema deportivo
+      en relación con una modalidad o especialidad deportiva, y facilitar la adaptación
+      de los técnicos formados a la evolución del mundo laboral y deportivo y a la
+      ciudadanía activa.
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 8
+  - norma_id: norm-es-2002-12018
+    capitulo_origen: Capítulo X. De los centros y del profesorado.
+    articulos_origen:
+    - Art. 45
+    articulos_destino:
+    - Art. 11
+  cita:
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: Capítulo X. De los centros y del profesorado.
+    articulos_origen:
+    - D. Adicional quinta. Efectos de las formaciones de entrenadores deportivos.
+    disposiciones_destino:
+    - D. Transitoria primera
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: Capítulo X. De los centros y del profesorado.
+    articulos_origen:
+    - D. Adicional séptima. Efectos de las enseñanzas anteriores, cursadas en centros
+      docentes militares y de la guardia civil.
+    disposiciones_destino:
+    - D. Transitoria primera
+  - norma_id: norm-es-2001-7022
+    capitulo_origen: Capítulo X. De los centros y del profesorado.
+    articulos_origen:
+    - D. Adicional octava. Formaciones deportivas que no conducen a títulos oficiales.
+  - norma_id: norm-es-2001-7022
+    capitulo_origen: Capítulo X. De los centros y del profesorado.
+    articulos_origen:
+    - D. Adicional duodécima. Otras titulaciones equivalentes a efectos de acceso
+      y tramitación de expedientes de equiparación de formaciones y enseñanzas.
+  deroga:
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: Capítulo X. De los centros y del profesorado.
+    articulos_origen:
+    - D. Derogatoria primera.
   fundamento_de:
   - norma_id: norm-es-2010-13564
   - norma_id: norm-es-2011-12632
   - norma_id: norm-es-2011-15628
   - norma_id: norm-es-2011-2615
   - norma_id: norm-es-2013-10219
-  - norma_id: norm-can-res-boc-2025-047-108
-  - norma_id: norm-can-res-boc-2017-036-75
-  - norma_id: norm-can-res-boc-2026-039-103
-  - norma_id: norm-can-res-boc-2019-143-74
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2'
+  - norma_id: '1'
+  - norma_id: '2'
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-lo-8-1985
   - norma_id: norm-es-2000-5990
@@ -57,6 +590,7 @@ relaciones:
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
 ---
+
 # Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.
 
 ## Preámbulo
@@ -971,3 +1505,98 @@ MERCEDES CABRERA CALVO-SOTELO
 - [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md)
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md) (Art. 8) desde *(Capítulo I. Finalidad, objetivos y principios de las enseñanzas deportivas artículo 1 Finalidad. Conforme a lo previsto en el artículo 63.1 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, las enseñanzas deportivas tienen como finalidad preparar a los alumnos para la actividad profesional en el sistema deportivo en relación con una modalidad o especialidad deportiva, y facilitar la adaptación de los técnicos formados a la evolución del mundo laboral y deportivo y a la ciudadanía activa., Art. 3)*
+- **Desarrolla**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md) (Art. 11) desde *(Capítulo X. De los centros y del profesorado., Art. 45)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 3)
+- **Modifica**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (Art. 3)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 3)
+- **Modifica**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) (Art. 3)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 3)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Capítulo VIII)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Capítulo VIII)
+- **Modifica**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) (Capítulo VIII)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Capítulo VIII)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Capítulo I, Art. 1, Art. 63) desde *(Capítulo I. Finalidad, objetivos y principios de las enseñanzas deportivas artículo 1 Finalidad. Conforme a lo previsto en el artículo 63.1 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, las enseñanzas deportivas tienen como finalidad preparar a los alumnos para la actividad profesional en el sistema deportivo en relación con una modalidad o especialidad deportiva, y facilitar la adaptación de los técnicos formados a la evolución del mundo laboral y deportivo y a la ciudadanía activa.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Capítulo I, Art. 1, Art. 63) desde *(Capítulo I. Finalidad, objetivos y principios de las enseñanzas deportivas artículo 1 Finalidad. Conforme a lo previsto en el artículo 63.1 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, las enseñanzas deportivas tienen como finalidad preparar a los alumnos para la actividad profesional en el sistema deportivo en relación con una modalidad o especialidad deportiva, y facilitar la adaptación de los técnicos formados a la evolución del mundo laboral y deportivo y a la ciudadanía activa.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Capítulo I, Art. 1, Art. 63) desde *(Capítulo I. Finalidad, objetivos y principios de las enseñanzas deportivas artículo 1 Finalidad. Conforme a lo previsto en el artículo 63.1 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, las enseñanzas deportivas tienen como finalidad preparar a los alumnos para la actividad profesional en el sistema deportivo en relación con una modalidad o especialidad deportiva, y facilitar la adaptación de los técnicos formados a la evolución del mundo laboral y deportivo y a la ciudadanía activa.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 63) desde *(Capítulo I. Finalidad, objetivos y principios de las enseñanzas deportivas artículo 1 Finalidad. Conforme a lo previsto en el artículo 63.1 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, las enseñanzas deportivas tienen como finalidad preparar a los alumnos para la actividad profesional en el sistema deportivo en relación con una modalidad o especialidad deportiva, y facilitar la adaptación de los técnicos formados a la evolución del mundo laboral y deportivo y a la ciudadanía activa., Art. 2)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 63) desde *(Capítulo I. Finalidad, objetivos y principios de las enseñanzas deportivas artículo 1 Finalidad. Conforme a lo previsto en el artículo 63.1 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, las enseñanzas deportivas tienen como finalidad preparar a los alumnos para la actividad profesional en el sistema deportivo en relación con una modalidad o especialidad deportiva, y facilitar la adaptación de los técnicos formados a la evolución del mundo laboral y deportivo y a la ciudadanía activa., Art. 2)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 63) desde *(Capítulo I. Finalidad, objetivos y principios de las enseñanzas deportivas artículo 1 Finalidad. Conforme a lo previsto en el artículo 63.1 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, las enseñanzas deportivas tienen como finalidad preparar a los alumnos para la actividad profesional en el sistema deportivo en relación con una modalidad o especialidad deportiva, y facilitar la adaptación de los técnicos formados a la evolución del mundo laboral y deportivo y a la ciudadanía activa., Art. 2)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 3) desde *(Capítulo I. Finalidad, objetivos y principios de las enseñanzas deportivas artículo 1 Finalidad. Conforme a lo previsto en el artículo 63.1 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, las enseñanzas deportivas tienen como finalidad preparar a los alumnos para la actividad profesional en el sistema deportivo en relación con una modalidad o especialidad deportiva, y facilitar la adaptación de los técnicos formados a la evolución del mundo laboral y deportivo y a la ciudadanía activa., Art. 3)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 3) desde *(Capítulo I. Finalidad, objetivos y principios de las enseñanzas deportivas artículo 1 Finalidad. Conforme a lo previsto en el artículo 63.1 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, las enseñanzas deportivas tienen como finalidad preparar a los alumnos para la actividad profesional en el sistema deportivo en relación con una modalidad o especialidad deportiva, y facilitar la adaptación de los técnicos formados a la evolución del mundo laboral y deportivo y a la ciudadanía activa., Art. 3)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 3) desde *(Capítulo I. Finalidad, objetivos y principios de las enseñanzas deportivas artículo 1 Finalidad. Conforme a lo previsto en el artículo 63.1 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, las enseñanzas deportivas tienen como finalidad preparar a los alumnos para la actividad profesional en el sistema deportivo en relación con una modalidad o especialidad deportiva, y facilitar la adaptación de los técnicos formados a la evolución del mundo laboral y deportivo y a la ciudadanía activa., Art. 3)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 64) desde *(Capítulo I. Finalidad, objetivos y principios de las enseñanzas deportivas artículo 1 Finalidad. Conforme a lo previsto en el artículo 63.1 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, las enseñanzas deportivas tienen como finalidad preparar a los alumnos para la actividad profesional en el sistema deportivo en relación con una modalidad o especialidad deportiva, y facilitar la adaptación de los técnicos formados a la evolución del mundo laboral y deportivo y a la ciudadanía activa., Art. 3)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 64) desde *(Capítulo I. Finalidad, objetivos y principios de las enseñanzas deportivas artículo 1 Finalidad. Conforme a lo previsto en el artículo 63.1 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, las enseñanzas deportivas tienen como finalidad preparar a los alumnos para la actividad profesional en el sistema deportivo en relación con una modalidad o especialidad deportiva, y facilitar la adaptación de los técnicos formados a la evolución del mundo laboral y deportivo y a la ciudadanía activa., Art. 3)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 64) desde *(Capítulo I. Finalidad, objetivos y principios de las enseñanzas deportivas artículo 1 Finalidad. Conforme a lo previsto en el artículo 63.1 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, las enseñanzas deportivas tienen como finalidad preparar a los alumnos para la actividad profesional en el sistema deportivo en relación con una modalidad o especialidad deportiva, y facilitar la adaptación de los técnicos formados a la evolución del mundo laboral y deportivo y a la ciudadanía activa., Art. 3)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 64) desde *(Capítulo II. Ordenación de las enseñanzas deportivas., Art. 4)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 64) desde *(Capítulo II. Ordenación de las enseñanzas deportivas., Art. 4)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 64) desde *(Capítulo II. Ordenación de las enseñanzas deportivas., Art. 4)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 3) desde *(Capítulo II. Ordenación de las enseñanzas deportivas., Art. 4)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 3) desde *(Capítulo II. Ordenación de las enseñanzas deportivas., Art. 4)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 3) desde *(Capítulo II. Ordenación de las enseñanzas deportivas., Art. 4)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 63, Art. 8) desde *(Capítulo II. Ordenación de las enseñanzas deportivas., Art. 5)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 63, Art. 8) desde *(Capítulo II. Ordenación de las enseñanzas deportivas., Art. 5)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 63, Art. 8) desde *(Capítulo II. Ordenación de las enseñanzas deportivas., Art. 5)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 63, Art. 6) desde *(Capítulo V. El currículo., Art. 16)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 63, Art. 6) desde *(Capítulo V. El currículo., Art. 16)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 63, Art. 6) desde *(Capítulo V. El currículo., Art. 16)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 6) desde *(Capítulo V. El currículo., Art. 16)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 6) desde *(Capítulo V. El currículo., Art. 16)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 6) desde *(Capítulo V. El currículo., Art. 16)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional cuarta) desde *(Capítulo VII. Oferta de las enseñanzas deportivas., Art. 28)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional cuarta) desde *(Capítulo VII. Oferta de las enseñanzas deportivas., Art. 28)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional cuarta) desde *(Capítulo VII. Oferta de las enseñanzas deportivas., Art. 28)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 67, Art. 85, Art. 53) desde *(Capítulo VIII. Acceso, promoción y admisión., Art. 33)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 67, Art. 85, Art. 53) desde *(Capítulo VIII. Acceso, promoción y admisión., Art. 33)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 67, Art. 85, Art. 53) desde *(Capítulo VIII. Acceso, promoción y admisión., Art. 33)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 65) desde *(Capítulo IX. Correspondencias, convalidaciones y exenciones., Art. 38)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 65) desde *(Capítulo IX. Correspondencias, convalidaciones y exenciones., Art. 38)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 65) desde *(Capítulo IX. Correspondencias, convalidaciones y exenciones., Art. 38)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo X. De los centros y del profesorado., Art. 49)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo X. De los centros y del profesorado., Art. 49)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo X. De los centros y del profesorado., Art. 49)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 100) desde *(Capítulo X. De los centros y del profesorado., Art. 49)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 100) desde *(Capítulo X. De los centros y del profesorado., Art. 49)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 100) desde *(Capítulo X. De los centros y del profesorado., Art. 49)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional cuarta) desde *(Capítulo X. De los centros y del profesorado., D. Adicional cuarta. Equivalencia de los títulos establecidos con anterioridad a la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional cuarta) desde *(Capítulo X. De los centros y del profesorado., D. Adicional cuarta. Equivalencia de los títulos establecidos con anterioridad a la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional cuarta) desde *(Capítulo X. De los centros y del profesorado., D. Adicional cuarta. Equivalencia de los títulos establecidos con anterioridad a la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo X. De los centros y del profesorado., D. Adicional cuarta. Equivalencia de los títulos establecidos con anterioridad a la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo X. De los centros y del profesorado., D. Adicional cuarta. Equivalencia de los títulos establecidos con anterioridad a la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo X. De los centros y del profesorado., D. Adicional cuarta. Equivalencia de los títulos establecidos con anterioridad a la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2000-5990**](./RD320_2000_establecen_titulos_tecnico_deportivo_tecnico_deportivo.md) (D. Final segunda) desde *(Capítulo X. De los centros y del profesorado., D. Final segunda. Modificación de determinados aspectos que se regulan en el [Real Decreto 320/2000](RD320_2000_establecen_titulos_tecnico_deportivo_tecnico_deportivo.md), de 3 de marzo.)*
+- **Modifica**: [**BOE-A-2000-5990**](./RD320_2000_establecen_titulos_tecnico_deportivo_tecnico_deportivo.md) desde *(Capítulo X. De los centros y del profesorado., D. Final segunda. Modificación de determinados aspectos que se regulan en el [Real Decreto 320/2000](RD320_2000_establecen_titulos_tecnico_deportivo_tecnico_deportivo.md), de 3 de marzo.)*
+- **Deroga**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) desde *(Capítulo X. De los centros y del profesorado., D. Derogatoria primera.)*
+- **Fundamentado en**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md)
+- **Fundamentado en**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md) (Art. 8) desde *(Capítulo IX. Correspondencias, convalidaciones y exenciones., Art. 40)*
+- **Fundamentado en**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) (D. Transitoria primera) desde *(Capítulo X. De los centros y del profesorado., D. Adicional sexta. Efectos de las formaciones anteriores convocadas por los órganos competentes de las Comunidades Autónomas.)*
+- **Fundamentado en**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md) (Art. 8) desde *(Capítulo X. De los centros y del profesorado., D. Adicional decimotercera. Procedimiento de evaluación y acreditación de unidades de competencia adquiridas por la experiencia laboral y aprendizajes no formales.)*
+- **Fundamentado en**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) (D. Transitoria segunda) desde *(Capítulo X. De los centros y del profesorado., D. Transitoria segunda. Vigencia de las enseñanzas establecidas al amparo del [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre.)*
+- **Fundamentado en**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) desde *(Capítulo X. De los centros y del profesorado., D. Transitoria segunda. Vigencia de las enseñanzas establecidas al amparo del [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre.)*
+- **Fundamentado en**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) (D. Transitoria tercera) desde *(Capítulo X. De los centros y del profesorado., D. Transitoria tercera. Vigencia de las normas de desarrollo de las enseñanzas deportivas establecidas al amparo del [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre.)*
+- **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 24, Art. 35, Art. 45, Art. 149, D. Adicional primera) desde *(Capítulo X. De los centros y del profesorado., D. Final tercera. Modificación de determinados aspectos que se regulan en el Real Decreto 318/2000, de 3 de marzo.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 24, Art. 35, Art. 45, Art. 149, D. Adicional primera) desde *(Capítulo X. De los centros y del profesorado., D. Final tercera. Modificación de determinados aspectos que se regulan en el Real Decreto 318/2000, de 3 de marzo.)*
+- **Fundamentado en**: [**BOE-A-2000-5990**](./RD320_2000_establecen_titulos_tecnico_deportivo_tecnico_deportivo.md)
+- **Fundamentado en**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**BOE-A-2010-13564**](./RD935_2010_establecen_titulos_tecnico_deportivo_vela_aparejo.md)
+- **Fundamento de**: [**BOE-A-2011-12632**](./RD878_2011_establece_titulo_tecnico_deportivo_salvamento_socorrismo.md)
+- **Fundamento de**: [**BOE-A-2011-15628**](../08_personal_docente/Osn_edu_establece_formacion_equivalente_formacion_pedagogica.md)
+- **Fundamento de**: [**BOE-A-2011-2615**](./Osn_edu_establece_procedimiento_reconocimiento_formaciones_entrenadores.md)
+- **Fundamento de**: [**BOE-A-2013-10219**](./RD669_2013_establece_titulo_tecnico_deportivo_atletismo_fijan.md)
+- **Cita a**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) (D. Transitoria primera) desde *(Capítulo X. De los centros y del profesorado., D. Adicional quinta. Efectos de las formaciones de entrenadores deportivos.)*
+- **Cita a**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) (D. Transitoria primera) desde *(Capítulo X. De los centros y del profesorado., D. Adicional séptima. Efectos de las enseñanzas anteriores, cursadas en centros docentes militares y de la guardia civil.)*
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) desde *(Capítulo X. De los centros y del profesorado., D. Adicional octava. Formaciones deportivas que no conducen a títulos oficiales.)*
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) desde *(Capítulo X. De los centros y del profesorado., D. Adicional duodécima. Otras titulaciones equivalentes a efectos de acceso y tramitación de expedientes de equiparación de formaciones y enseñanzas.)*

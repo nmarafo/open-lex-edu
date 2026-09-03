@@ -27,6 +27,34 @@ tags:
 - protecci-n-jur-dica-de-menores
 - proteccion-menores
 relaciones:
+  modifica:
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2015-8470
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2015-8222
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  desarrolla:
+  - norma_id: norm-can-d-106-2009
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-can-d-81-2010
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-can-o-2013-10-09
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-can-d-114-2011
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-l-40-2015
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-can-d-114-2011
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
+  cita:
+  - norma_id: norm-can-d-84-2024
   fundamentado_en:
   - norma_id: norm-can-d-106-2009
   - norma_id: norm-can-d-114-2011
@@ -45,13 +73,10 @@ relaciones:
   - norma_id: norm-can-res-boc-2025-039-104
   - norma_id: norm-can-res-boc-2025-047-108
   - norma_id: norm-can-res-boc-2026-039-103
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-ce-1978
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-can-d-106-2009
   - norma_id: norm-can-d-81-2010
   - norma_id: norm-can-o-2013-10-09
@@ -67,6 +92,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-132-3376.
 anexos_extraidos_pdf: true
 ocr_procesado: true
 ---
+
 # Resolución de 30 de junio de 2017, de la Dirección General de Centros e Infraestructura Educativa, por la que se dictan instrucciones para la actuación de los centros docentes sostenidos con fondos públicos, en los casos de padres, madres, separados, divorciados, que hayan finalizado su convivencia, o representantes legales, respecto a sus descendientes o representados, menores de edad, en el ámbito de las enseñanzas no universitarias de la Comunidad Autónoma de Canarias (BOC n.º 132, de 11 de julio).
 
 ## Preámbulo
@@ -431,3 +457,40 @@ SEGUNDO.- Que NO HA SIDO POSIBLE lograr una solución ante la discrepancia surgi
 - [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**Decreto BOC 135/2016**](./D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**D106_2009 Funcion Directiva en Centros Docentes Publicos**](../04_organizacion_escolar_y_funcionamiento/D106_2009_regula_funcion_directiva_centros_docentes_publicos.md) (Art. 6)
+- **Desarrolla**: [**D81_2010 Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) (Art. 6)
+- **Desarrolla**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md) (Art. 6)
+- **Desarrolla**: [**D114_2011 Decreto de Convivencia Escolar**](../07_convivencia_bienestar_y_protocolos/D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md) (Art. 6)
+- **Desarrolla**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 6)
+- **Desarrolla**: [**D114_2011 Decreto de Convivencia Escolar**](../07_convivencia_bienestar_y_protocolos/D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Modifica**: [**L6_2014 Ley Canaria de Educacion**](./L6_2014_canaria_educacion_no_universitaria.md)
+- **Modifica**: [**BOE-A-2015-8470**](../../../estatal/01_marco_normativo_general_y_organico/L26_2015_modificacion_sistema_proteccion_infancia_adolescencia.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**BOE-A-2015-8222**](../../../estatal/01_marco_normativo_general_y_organico/LO8_2015_modificacion_sistema_proteccion_infancia_adolescencia.md)
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**D106_2009 Funcion Directiva en Centros Docentes Publicos**](../04_organizacion_escolar_y_funcionamiento/D106_2009_regula_funcion_directiva_centros_docentes_publicos.md)
+- **Fundamentado en**: [**D114_2011 Decreto de Convivencia Escolar**](../07_convivencia_bienestar_y_protocolos/D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md)
+- **Fundamentado en**: [**Decreto BOC 135/2016**](./D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md)
+- **Fundamentado en**: [**D81_2010 Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](./L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2015-8222**](../../../estatal/01_marco_normativo_general_y_organico/LO8_2015_modificacion_sistema_proteccion_infancia_adolescencia.md)
+- **Fundamentado en**: [**BOE-A-2015-8470**](../../../estatal/01_marco_normativo_general_y_organico/L26_2015_modificacion_sistema_proteccion_infancia_adolescencia.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamento de**: [**Resolucion BOC 104**](../05_alumnado_y_servicios_escolares/R17_2_2025_escolarizacion_servicios_complementarios_dictan_instrucciones_especificas.md)
+- **Fundamento de**: [**Resolucion BOC 108**](../05_alumnado_y_servicios_escolares/R24_2_2025_dictan_instrucciones_proceso_admision_alumnado_ciclos.md)
+- **Fundamento de**: [**Resolucion BOC 103**](../05_alumnado_y_servicios_escolares/R13_2_2026_dictan_instrucciones_proceso_admision_alumnado_ciclos.md)
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](./D84_2024_reglamento_organico_consejeria_educacion_canarias.md)

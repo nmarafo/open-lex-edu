@@ -23,7 +23,23 @@ tags:
 - procedimientos-selectivos
 fuente_pdf_oficial: https://www.gobiernodecanarias.org/boc/2007/009/boc-2007-009-010.pdf
 fecha_disposicion: '2006-12-21'
+relaciones:
+  modifica:
+  - norma_id: norm-can-d-84-2024
+    articulos_origen:
+    - D. Transitoria Primera, y de conformidad con lo dispuesto en el artº. 90 del
+      Real Decreto Legislativo 1/1995, de 24 de marzo, por el que se aprueba el Texto
+      Refundido de la Ley del Estatuto de los Trabajadores y los Reales Decretos 661/1984,
+      de 25 de enero, y 1.033/1984, de 1 de abril, sobre traspaso de funciones y servicios
+      del Estado a la Comunidad Autónoma de Canarias en materia de mediación, arbitraje
+      y conciliación; el Real Decreto 1.040/1981, de 22 de mayo, sobre depósito y
+      registro de Convenios Colectivos, y el Reglamento Orgánico de la Consejería
+      de Empleo y Asuntos Sociales, modificado por el Decreto 39/2005, de 16 de marzo
+      (B.O.C. nº 63, de 31.3.05), esta Dirección General de Trabajo
+    disposiciones_destino:
+    - D. Transitoria Primera
 ---
+
 # Resolución de 21 de diciembre de 2006, de la Dirección General de Trabajo, relativa al registro, depósito y publicación del Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias, para la modificación del artículo 11 del vigente convenio colectivo, así como de la Disposición Transitoria Primera.
 
 ## Preámbulo
@@ -91,3 +107,10 @@ La convocatoria podrá efectuarse con inclusión de todos los grupos retributivo
 ## Capítulo II. del Convenio."
 
 Por la Administración: el Viceconsejero de Administración Pública; el Director General de la Función Pública.- Por el Comité Intercentros: el Presidente; el Secretario.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (D. Transitoria Primera) desde *(D. Transitoria Primera, y de conformidad con lo dispuesto en el artº. 90 del Real Decreto Legislativo 1/1995, de 24 de marzo, por el que se aprueba el Texto Refundido de la Ley del Estatuto de los Trabajadores y los Reales Decretos 661/1984, de 25 de enero, y 1.033/1984, de 1 de abril, sobre traspaso de funciones y servicios del Estado a la Comunidad Autónoma de Canarias en materia de mediación, arbitraje y conciliación; el Real Decreto 1.040/1981, de 22 de mayo, sobre depósito y registro de Convenios Colectivos, y el Reglamento Orgánico de la Consejería de Empleo y Asuntos Sociales, modificado por el Decreto 39/2005, de 16 de marzo (B.O.C. nº 63, de 31.3.05), esta Dirección General de Trabajo)*

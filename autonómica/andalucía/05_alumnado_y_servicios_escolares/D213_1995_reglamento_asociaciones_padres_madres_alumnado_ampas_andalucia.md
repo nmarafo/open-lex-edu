@@ -25,6 +25,18 @@ tags:
 - participacion_educativa
 - andalucia
 relaciones:
+  cita:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 28
+    - Art. 10
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 15
+    - Art. 43
+    - Art. 28
+    - Art. 10
+    - Art. 17
   desarrolla:
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
@@ -32,6 +44,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Decreto 213/1995, de 12 de septiembre, por el que se regulan las Asociaciones de Padres y Madres del Alumnado.
 
 ## Preámbulo
@@ -50,16 +63,24 @@ Real Decreto 17/1977, de 4 de marzo, de Relaciones de Trabajo, faculta a la Admi
 
 #### Artículo 3. Los artículos anteriores no supondrán limitación alguna de los derechos que la normativa reguladora de la huelga reconoce al personal en dicha situación, ni tampoco respecto de la tramitación y efectos de las peticiones que la motiven.
 
-#### Artículo 4. La presente Orden entrará en vigor el mismo día de su publicación en el Boletín Oficial de la Junta de Andalucía.
-
 Sevilla, 22 de septiembre de 1995 CARMEN HERMOSIN BONO Consejera de Gobernación RAMON MARRERO GOMEZ Consejero de Trabajo y Asuntos Sociales Ilmo. Sr. Director General de Trabajo y Seguridad Social. Ilmo. Sr. Director General de Administración Local y Justicia. Ilmos. Sres. Delegados Provinciales de las Consejerías de Trabajo y Asuntos Sociales y de Gobernación de Cádiz.
 
-## Anexo
-
-Personal afecto en Planta
+## Anexo. Personal afecto en Planta
 
 1 persona por turno incluido domingos y festivos. 1 persona de mantenimiento en el horario habitual de lunes a viernes. Personal afecto en Alcantarillado 1 camión con la dotación de un conductor y 1 peón, además de 1 oficial de bombeo.
 
 Descargar PDF
 
 Disposición siguiente
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: `norm-es-c-1978` (Art. 28, Art. 10)
+- **Cita a**: `norm-es-c-1978` (Art. 15, Art. 43, Art. 28, Art. 10, Art. 17)

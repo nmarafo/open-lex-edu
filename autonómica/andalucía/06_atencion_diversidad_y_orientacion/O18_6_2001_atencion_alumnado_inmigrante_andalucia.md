@@ -32,6 +32,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-1-1996
 ---
+
 # Orden de 18 de junio de 2001, por la que se regulan las aulas de adaptación lingüística (ATAL) para alumnado inmigrante.
 
 ## Preámbulo
@@ -77,8 +78,6 @@ Empleo público
 Boletín 76
 
 ##
-
-Histórico del BOJA Boletín número 76 de 05/07/2001
 
 ## 1. Disposiciones generales
 
@@ -154,9 +153,7 @@ El CEMCI podrá disponer de los sistemas de control que estime oportunos para co
 
 Sevilla, 13 de junio de 2001.- El Director, Joaquín Castillo Sempere.
 
-## Anexo I
-
-I. Contenido:
+## Anexo I. I. Contenido:
 
 - Curso de Perfeccionamiento de Actos y Procedimiento
 
@@ -322,3 +319,13 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)

@@ -27,6 +27,14 @@ tags:
 - formacion-profesional
 relaciones:
   fundamentado_en:
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 109
+    - Art. 6
+  - norma_id: norm-es-l-40-2015
+    articulos_destino:
+    - Art. 109
+    - Art. 6
   - norma_id: norm-can-d-212-1991
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-l-6-2014
@@ -34,15 +42,17 @@ relaciones:
   - norma_id: norm-can-res-boc-2026-070-115
   - norma_id: norm-can-res-boc-2026-070-116
   - norma_id: norm-can-res-boc-2026-070-41
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-l-40-2015
   - norma_id: norm-es-lo-2-2006
+  cita:
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 20
   desarrolla:
   - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
@@ -53,6 +63,7 @@ relaciones:
   - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-080-1342.pdf
 ---
+
 # Resolución de 17 de abril de 2026, que corrige error en la Resolución de 26 de marzo de 2026, por la que se amplían la Resolución de 30 de octubre de 2024, que dicta instrucciones y orientaciones par la implantación y desarrollo de los grados de formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los currículos; y la Resolución de 21 de febrero de 2025, que dicta instrucciones para la implantación de los itinerarios formativos de Formación Profesional Adaptada y el desarrollo de los currículos de los módulos de carácter general a partir del curso escolar 2024/2025, en el ámbito de la Comunidad Autónoma de Canarias (BOC n.º 70, de 13.4.2026).
 
 ## Preámbulo
@@ -108,3 +119,21 @@ FAMILIA PROFESIONAL: AGRARIA ITINERARIO FORMATIVO DE FORMACIÓN PROFESIONAL ADAP
 - [**Resolucion BOC 115**](../05_alumnado_y_servicios_escolares/R26_3_2026_convocan_premios_extraordinarios_bachillerato_ambito_comunidad.md)
 - [**Resolucion BOC 116**](../05_alumnado_y_servicios_escolares/R26_3_2026_convocan_premios_extraordinarios_educacion_secundaria_obligatoria.md)
 - [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 109, Art. 6)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 109, Art. 6)
+- **Fundamentado en**: [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**Resolucion BOC 44**](./R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md)
+- **Fundamentado en**: [**Resolucion BOC 115**](../05_alumnado_y_servicios_escolares/R26_3_2026_convocan_premios_extraordinarios_bachillerato_ambito_comunidad.md)
+- **Fundamentado en**: [**Resolucion BOC 116**](../05_alumnado_y_servicios_escolares/R26_3_2026_convocan_premios_extraordinarios_educacion_secundaria_obligatoria.md)
+- **Fundamentado en**: [**Resolucion BOC 41**](./R26_3_2026_amplian_resolucion_dicta_instrucciones_orientaciones_implantacion.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 20)

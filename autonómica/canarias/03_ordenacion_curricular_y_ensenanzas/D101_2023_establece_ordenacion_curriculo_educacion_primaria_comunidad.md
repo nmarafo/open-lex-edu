@@ -34,20 +34,193 @@ tags:
 - roc
 relaciones:
   desarrolla:
-  - norma_id: norm-es-rd-157-2022
   - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 52
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 52
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-rd-95-2022
+    articulos_destino:
+    - Art. 52
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 52
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 52
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-lo-3-2020
+    articulos_destino:
+    - Art. 52
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo V. Tutoría y orientación.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 92
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo V. Tutoría y orientación.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 92
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo V. Tutoría y orientación.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 92
+  - norma_id: norm-es-rd-157-2022
+  cita:
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 129
+    - Art. 133
+    - Art. 7
+    - Art. 21
+  - norma_id: norm-es-rd-95-2022
+    capitulo_origen: Capítulo I. Disposiciones de carácter general.
+    articulos_origen:
+    - Art. 3
+  - norma_id: norm-es-rd-95-2022
+    capitulo_origen: Capítulo II. Ordenación de la etapa.
+    articulos_origen:
+    - Art. 6
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo II. Ordenación de la etapa.
+    articulos_origen:
+    - Art. 10
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo II. Ordenación de la etapa.
+    articulos_origen:
+    - Art. 10
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo II. Ordenación de la etapa.
+    articulos_origen:
+    - Art. 10
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo III. Evaluación.
+    articulos_origen:
+    - Art. 13
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo III. Evaluación.
+    articulos_origen:
+    - Art. 13
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo III. Evaluación.
+    articulos_origen:
+    - Art. 13
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
   fundamentado_en:
+  - norma_id: norm-es-rd-95-2022
+    capitulo_origen: Capítulo III. Evaluación.
+    articulos_origen:
+    - Art. 11
+    articulos_destino:
+    - Art. 12
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo VI. Medidas de apoyo al profesorado y personal educador
+      para el desarrollo del currículo.
+    articulos_origen:
+    - D. Transitoria única. Calendario de aplicación.
+    articulos_destino:
+    - Art. 2
+    - Art. 4
+    - Art. 149
+    - Art. 12
+    disposiciones_destino:
+    - D. Adicional segunda
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo VI. Medidas de apoyo al profesorado y personal educador
+      para el desarrollo del currículo.
+    articulos_origen:
+    - D. Transitoria única. Calendario de aplicación.
+    articulos_destino:
+    - Art. 2
+    - Art. 4
+    - Art. 149
+    - Art. 12
+    disposiciones_destino:
+    - D. Adicional segunda
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo VI. Medidas de apoyo al profesorado y personal educador
+      para el desarrollo del currículo.
+    articulos_origen:
+    - D. Transitoria única. Calendario de aplicación.
+    articulos_destino:
+    - Art. 2
+    - Art. 4
+    - Art. 149
+    - Art. 12
+    disposiciones_destino:
+    - D. Adicional segunda
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VI. Medidas de apoyo al profesorado y personal educador
+      para el desarrollo del currículo.
+    articulos_origen:
+    - D. Transitoria única. Calendario de aplicación.
+    articulos_destino:
+    - Art. 2
+    - Art. 4
+    - Art. 149
+    - Art. 12
+    disposiciones_destino:
+    - D. Adicional segunda
+  - norma_id: norm-es-rd-95-2022
+    capitulo_origen: Capítulo VI. Medidas de apoyo al profesorado y personal educador
+      para el desarrollo del currículo.
+    articulos_origen:
+    - D. Transitoria única. Calendario de aplicación.
+    articulos_destino:
+    - Art. 2
+    - Art. 4
+    - Art. 149
+    - Art. 3
+    disposiciones_destino:
+    - D. Adicional primera
+    - D. Adicional segunda
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VI. Medidas de apoyo al profesorado y personal educador
+      para el desarrollo del currículo.
+    articulos_origen:
+    - D. Transitoria única. Calendario de aplicación.
+    articulos_destino:
+    - Art. 2
+    - Art. 4
+    - Art. 149
+    - Art. 3
+    disposiciones_destino:
+    - D. Adicional primera
+    - D. Adicional segunda
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '6.5'
-  - '18'
+  - norma_id: '6.5'
+  - norma_id: '18'
   - norma_id: norm-es-l-39-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-096-1553.pdf
 ---
+
 # Decreto 101/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la Educación Primaria en la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -338,3 +511,38 @@ AL COMPLETAR EL PRIMER CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA 
 como de la resolución de problemas, y se fomenta el análisis crítico y constructivo desde las primeras edades. Descriptores operativos:
 AL COMPLETAR EL PRIMER CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA... AL COMPLETAR EL SEGUNDO CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA... CE1. Explora los objetos de su entorno y se inicia en la aplicación de procesos manipulativos que le proporcionan información sobre sus cualidades y posibles usos, así como la necesidad de su cuidado y conservación. CE1. Explora, investiga y propone, de manera guiada, soluciones creativas a problemas sencillos de su entorno inmediato, empezando a despertar la conciencia de la necesidad de uso sostenible, cuidado y conservación de los recursos naturales. CE2. Empieza a investigar su entorno con curiosidad e imita los comportamientos que observa en las personas cercanas, sintiéndose atraído por las actividades lúdicas en grupo. CE2. Expresa inquietudes, necesidades, gustos y preferencias, propone soluciones creativas a problemas sencillos de su vida cotidiana y muestra interés por realizar actividades en equipo, empleando los cuantificadores básicos más relevantes en un contexto lúdico y de interacción con los demás. CE3. Formula y emite mensajes para satisfacer sus necesidades de afecto, alimentación o ayuda, a la vez que comprende mensajes sencillos que recibe a través de diferentes lenguajes (verbal, gestual, musical...). CE3. Formula ideas o preguntas para acompañar sus acciones, utilizando el lenguaje para compartir sus emociones ante los hallazgos o descubrimientos, así como para interactuar en diferentes situaciones y contextos con otras personas a través del trabajo en equipo. Competencia en conciencia y expresiones culturales. Para que el alumnado construya y enriquezca su identidad, se fomenta en esta etapa la expresión creativa de ideas, sentimientos y emociones a través de diversos lenguajes y distintas formas artísticas. Asimismo, se ayuda al desarrollo de la conciencia cultural y del sentido de pertenencia a la sociedad a través de un primer acercamiento a las manifestaciones culturales y artísticas. Descriptores operativos:
 AL COMPLETAR EL PRIMER CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA... AL COMPLETAR EL SEGUNDO CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA... CCEC1. Disfruta con las interpretaciones musicales y las representaciones teatrales y expresa sus emociones libremente, iniciándose en el respeto a las mismas y a los demás. CCEC1. Identifica espacios relacionados con la cultura, expresa sensaciones, emociones y sentimientos ante distintas representaciones artísticas y culturales y respeta las normas básicas de uso y disfrute de las mismas. CCEC2. Manifiesta interés y disfrute por distintas actividades lúdicas, musicales y plásticas relacionadas con su patrimonio que le permiten expresar con libertad sus vivencias y emociones. CCEC2. Disfruta de las situaciones en las que se le da la oportunidad de expresarse de forma creativa a través de la participación en actividades musicales, literarias y plásticas y de expresión corporal relacionadas con su patrimonio. CCEC3. Expresa mediante gestos o palabras sencillas su agrado o desagrado por las expresiones artísticas de distinto tipo y empieza a desarrollar su gusto por determinadas expresiones y obras. CCEC3. Expresa emociones, sentimientos y pensamientos utilizando su propio cuerpo como medio de comunicación y da su opinión libremente ante manifestaciones artísticas sonoras, visuales y culturales, empezando a desarrollar una actitud abierta, inclusiva y empática. CCEC4. Se inicia en la expresión plástica a través de pinturas, estampaciones, etc. y en la expresión sonora mediante sonidos que realiza con su propio cuerpo y con objetos o instrumentos de percusión de manera lúdica. Disfruta expresándose libremente. CCEC4. Se expresa libremente mediante distintas creaciones artísticas elementales, a través de instrumentos y técnicas básicas y sencillas (plásticas, musicales y expresión corporal), disfrutando del proceso creativo y respetando las creaciones propias y ajenas.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 52, Art. 149, Art. 27)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 52, Art. 149, Art. 27)
+- **Desarrolla**: [**RD95_2022 Ensenanzas Minimas de Educacion Infantil**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md) (Art. 52, Art. 149, Art. 27)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 52, Art. 149, Art. 27)
+- **Desarrolla**: `norm-es-c-1978` (Art. 52, Art. 149, Art. 27)
+- **Desarrolla**: `norm-es-lo-3-2020` (Art. 52, Art. 149, Art. 27)
+- **Desarrolla**: `norm-es-c-1978`
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 92) desde *(Capítulo V. Tutoría y orientación., Art. 17)*
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 92) desde *(Capítulo V. Tutoría y orientación., Art. 17)*
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 92) desde *(Capítulo V. Tutoría y orientación., Art. 17)*
+- **Desarrolla**: [**RD157_2022 Ensenanzas Minimas de Educacion Primaria**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md)
+- **Fundamentado en**: [**RD95_2022 Ensenanzas Minimas de Educacion Infantil**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md) (Art. 12) desde *(Capítulo III. Evaluación., Art. 11)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 2, Art. 4, Art. 149, Art. 12, D. Adicional segunda) desde *(Capítulo VI. Medidas de apoyo al profesorado y personal educador para el desarrollo del currículo., D. Transitoria única. Calendario de aplicación.)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 2, Art. 4, Art. 149, Art. 12, D. Adicional segunda) desde *(Capítulo VI. Medidas de apoyo al profesorado y personal educador para el desarrollo del currículo., D. Transitoria única. Calendario de aplicación.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 2, Art. 4, Art. 149, Art. 12, D. Adicional segunda) desde *(Capítulo VI. Medidas de apoyo al profesorado y personal educador para el desarrollo del currículo., D. Transitoria única. Calendario de aplicación.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 2, Art. 4, Art. 149, Art. 12, D. Adicional segunda) desde *(Capítulo VI. Medidas de apoyo al profesorado y personal educador para el desarrollo del currículo., D. Transitoria única. Calendario de aplicación.)*
+- **Fundamentado en**: [**RD95_2022 Ensenanzas Minimas de Educacion Infantil**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md) (Art. 2, Art. 4, Art. 149, Art. 3, D. Adicional primera, D. Adicional segunda) desde *(Capítulo VI. Medidas de apoyo al profesorado y personal educador para el desarrollo del currículo., D. Transitoria única. Calendario de aplicación.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 2, Art. 4, Art. 149, Art. 3, D. Adicional primera, D. Adicional segunda) desde *(Capítulo VI. Medidas de apoyo al profesorado y personal educador para el desarrollo del currículo., D. Transitoria única. Calendario de aplicación.)*
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 129, Art. 133, Art. 7, Art. 21)
+- **Cita a**: [**RD95_2022 Ensenanzas Minimas de Educacion Infantil**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md) desde *(Capítulo I. Disposiciones de carácter general., Art. 3)*
+- **Cita a**: [**RD95_2022 Ensenanzas Minimas de Educacion Infantil**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md) desde *(Capítulo II. Ordenación de la etapa., Art. 6)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo II. Ordenación de la etapa., Art. 10)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo II. Ordenación de la etapa., Art. 10)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo II. Ordenación de la etapa., Art. 10)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional vigesimotercera) desde *(Capítulo III. Evaluación., Art. 13)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional vigesimotercera) desde *(Capítulo III. Evaluación., Art. 13)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional vigesimotercera) desde *(Capítulo III. Evaluación., Art. 13)*

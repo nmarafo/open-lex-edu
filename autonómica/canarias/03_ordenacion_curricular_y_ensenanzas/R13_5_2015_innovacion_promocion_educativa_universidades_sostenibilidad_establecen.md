@@ -29,25 +29,51 @@ tags:
 - neae
 - profesorado
 relaciones:
+  desarrolla:
+  - norma_id: norm-es-2014-2222
+  - norma_id: norm-can-d-81-2010
+    articulos_destino:
+    - Art. 44
+    - Art. 15
+    - Art. 3
+    - Art. 6
+  - norma_id: norm-can-o-2013-10-09
+    articulos_destino:
+    - Art. 44
+    - Art. 15
+    - Art. 3
+    - Art. 6
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 44
+    - Art. 15
+    - Art. 3
+    - Art. 6
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
+  - norma_id: norm-es-2014-2222
+    articulos_destino:
+    - Art. 7
+    - Art. 12
   - norma_id: norm-can-d-81-2010
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-can-o-2013-10-09
-  - norma_id: norm-es-2014-2222
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
+  cita:
+  - norma_id: norm-es-c-1978
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-can-d-81-2010
   - norma_id: norm-can-o-2013-10-09
   - norma_id: norm-es-2014-2222
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2015-100-2486.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=72788
 ---
+
 # Resolución de 13 de mayo de 2015, de la Dirección General de Ordenación, Innovación y Promoción Educativa de la Consejería de Educación, Universidades y Sostenibilidad, por la que se establecen las rúbricas de los criterios de evaluación del segundo ciclo de la Educación Infantil y de la Educación Primaria para orientar y facilitar la evaluación objetiva del alumnado en la Comunidad Autónoma de Canarias (BOC n.º 100, de 27 de mayo).
 
 ## Preámbulo
@@ -18708,3 +18734,22 @@ redefinición, determinación, capacidad de adaptación y tolerancia frente a lo
 - [**D81_2010 Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
 - [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
 - [**BOE-A-2014-2222**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD126_2014_establece_curriculo_basico_educacion_primaria.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**BOE-A-2014-2222**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD126_2014_establece_curriculo_basico_educacion_primaria.md)
+- **Desarrolla**: [**D81_2010 Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) (Art. 44, Art. 15, Art. 3, Art. 6)
+- **Desarrolla**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md) (Art. 44, Art. 15, Art. 3, Art. 6)
+- **Desarrolla**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 44, Art. 15, Art. 3, Art. 6)
+- **Desarrolla**: `norm-es-c-1978`
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**BOE-A-2014-2222**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD126_2014_establece_curriculo_basico_educacion_primaria.md) (Art. 7, Art. 12)
+- **Fundamentado en**: [**D81_2010 Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: `norm-es-c-1978`

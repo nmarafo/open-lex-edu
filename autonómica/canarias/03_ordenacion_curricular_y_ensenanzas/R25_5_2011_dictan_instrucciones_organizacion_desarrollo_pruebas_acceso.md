@@ -27,6 +27,128 @@ tags:
 - oposiciones
 - titulacion
 relaciones:
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 54
+    - Art. 55
+    - Art. 56
+    - Art. 57
+    - Art. 69
+    - Art. 12
+    - Art. 5
+    - Art. 21
+    disposiciones_destino:
+    - D. Final primera
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 54
+    - Art. 55
+    - Art. 56
+    - Art. 57
+    - Art. 69
+    - Art. 12
+    - Art. 5
+    - Art. 21
+    disposiciones_destino:
+    - D. Final primera
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 54
+    - Art. 55
+    - Art. 56
+    - Art. 57
+    - Art. 69
+    - Art. 12
+    - Art. 5
+    - Art. 21
+    disposiciones_destino:
+    - D. Final primera
+  modifica:
+  - norma_id: norm-can-d-212-1991
+    articulos_destino:
+    - Art. 4
+    - Art. 12
+    - Art. 19
+    - Art. 114
+    - Art. 115
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 4
+    - Art. 12
+    - Art. 19
+    - Art. 114
+    - Art. 115
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo I
+    articulos_destino:
+    - Art. 54
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo I
+    articulos_destino:
+    - Art. 54
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo I
+    articulos_destino:
+    - Art. 54
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo I
+    articulos_destino:
+    - Art. 69
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo I
+    articulos_destino:
+    - Art. 69
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo I
+    articulos_destino:
+    - Art. 69
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo I
+    articulos_destino:
+    - Art. 5
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo I
+    articulos_destino:
+    - Art. 5
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo I
+    articulos_destino:
+    - Art. 5
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo II. Prueba de acceso para las personas aspirantes SIN
+      requisitos académicos.
+    articulos_destino:
+    - Art. 5
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo II. Prueba de acceso para las personas aspirantes SIN
+      requisitos académicos.
+    articulos_destino:
+    - Art. 5
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo II. Prueba de acceso para las personas aspirantes SIN
+      requisitos académicos.
+    articulos_destino:
+    - Art. 5
+  cita:
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo III. PRUEBA ESPECÍFICA DE ACCESO A LAS ENSEÑANZAS ARTÍSTICAS
+      SUPERIORES DE GRADO Decimonovena.- Perfil de las personas aspirantes.
+    articulos_destino:
+    - Art. 5
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo III. PRUEBA ESPECÍFICA DE ACCESO A LAS ENSEÑANZAS ARTÍSTICAS
+      SUPERIORES DE GRADO Decimonovena.- Perfil de las personas aspirantes.
+    articulos_destino:
+    - Art. 5
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo III. PRUEBA ESPECÍFICA DE ACCESO A LAS ENSEÑANZAS ARTÍSTICAS
+      SUPERIORES DE GRADO Decimonovena.- Perfil de las personas aspirantes.
+    articulos_destino:
+    - Art. 5
+  - norma_id: norm-es-1999-23750
+    capitulo_origen: Capítulo V. PROTECCIÓN DE DATOS PERSONALES Trigésimo segunda.-
+      Protección de datos personales.
   fundamentado_en:
   - norma_id: norm-can-d-212-1991
   - norma_id: norm-can-l-6-2014
@@ -38,12 +160,10 @@ relaciones:
   fundamento_de:
   - norma_id: norm-can-res-boc-2026-039-111
   - norma_id: norm-can-res-juriscan-65632-66
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-1999-23750
   - norma_id: norm-es-2021-20113
@@ -52,6 +172,7 @@ relaciones:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2011-106-2943.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=65631
 ---
+
 # Resolución de 25 de mayo de 2011, por la que se dictan instrucciones sobre organización y desarrollo de las pruebas de acceso a las enseñanzas artísticas superiores de Grado en Música, Arte Dramático y Diseño en la Comunidad Autónoma de Canarias, y se convocan las correspondientes al curso académico 2011 (BOC n.º 106, de 31 de mayo).
 
 ## Preámbulo
@@ -653,3 +774,39 @@ A las 08.30 horas, presentación para la realización del 1º ejercicio de la pr
 - [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 54, Art. 55, Art. 56, Art. 57, Art. 69, Art. 12, Art. 5, Art. 21, D. Final primera)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 54, Art. 55, Art. 56, Art. 57, Art. 69, Art. 12, Art. 5, Art. 21, D. Final primera)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 54, Art. 55, Art. 56, Art. 57, Art. 69, Art. 12, Art. 5, Art. 21, D. Final primera)
+- **Modifica**: [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) (Art. 4, Art. 12, Art. 19, Art. 114, Art. 115)
+- **Modifica**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 4, Art. 12, Art. 19, Art. 114, Art. 115)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 54) desde *(Capítulo I)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 54) desde *(Capítulo I)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 54) desde *(Capítulo I)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 69) desde *(Capítulo I)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 69) desde *(Capítulo I)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 69) desde *(Capítulo I)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 5) desde *(Capítulo I)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 5) desde *(Capítulo I)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 5) desde *(Capítulo I)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 5) desde *(Capítulo II. Prueba de acceso para las personas aspirantes SIN requisitos académicos.)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 5) desde *(Capítulo II. Prueba de acceso para las personas aspirantes SIN requisitos académicos.)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 5) desde *(Capítulo II. Prueba de acceso para las personas aspirantes SIN requisitos académicos.)*
+- **Fundamentado en**: [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**BOE-A-1999-23750**](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamento de**: [**Resolucion BOC 111**](../05_alumnado_y_servicios_escolares/R5_2_2026_dgacesc_convoca_procedimiento_admision_alumnado_centros.md)
+- **Fundamento de**: [**Resolucion BOC 66**](./R2_6_2011_corrigen_errores_materiales_resolucion_dicta_instrucciones.md)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 5) desde *(Capítulo III. PRUEBA ESPECÍFICA DE ACCESO A LAS ENSEÑANZAS ARTÍSTICAS SUPERIORES DE GRADO Decimonovena.- Perfil de las personas aspirantes.)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 5) desde *(Capítulo III. PRUEBA ESPECÍFICA DE ACCESO A LAS ENSEÑANZAS ARTÍSTICAS SUPERIORES DE GRADO Decimonovena.- Perfil de las personas aspirantes.)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 5) desde *(Capítulo III. PRUEBA ESPECÍFICA DE ACCESO A LAS ENSEÑANZAS ARTÍSTICAS SUPERIORES DE GRADO Decimonovena.- Perfil de las personas aspirantes.)*
+- **Cita a**: [**BOE-A-1999-23750**](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) desde *(Capítulo V. PROTECCIÓN DE DATOS PERSONALES Trigésimo segunda.- Protección de datos personales.)*

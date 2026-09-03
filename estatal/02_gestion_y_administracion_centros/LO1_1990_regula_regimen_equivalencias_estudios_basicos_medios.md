@@ -26,6 +26,16 @@ tags:
 - eso
 - titulacion
 relaciones:
+  cita:
+  - norma_id: norm-es-1988-6938
+    disposiciones_destino:
+    - D. Final del
+  - norma_id: norm-es-1988-3987
+    disposiciones_destino:
+    - D. Final del
+  - norma_id: norm-es-2002-25289
+    disposiciones_destino:
+    - D. Final del
   fundamentado_en:
   - norma_id: norm-es-1988-3987
   - norma_id: norm-es-1988-6938
@@ -59,27 +69,13 @@ relaciones:
   - norma_id: norm-es-rd-276-2007
   - norma_id: norm-es-rd-476-2013
   - norma_id: norm-es-rd-659-2023
-  - norma_id: norm-can-res-063
-  - norma_id: norm-can-res-boc-2026-129-26
-  - norma_id: norm-can-res-boc-2011-099-72
-  - norma_id: norm-can-res-098
-  - norma_id: norm-can-res-boc-2026-039-103
-  - norma_id: norm-can-res-juriscan-48984-84
-  - norma_id: norm-can-res-juriscan-30668-127
-  - norma_id: norm-can-res-boc-2026-077-62
-  - norma_id: norm-can-res-boc-2004-189-65
-  - norma_id: norm-can-res-boc-2024-230-25
-  - norma_id: norm-can-res-juriscan-49002-54
-  - norma_id: norm-can-res-boc-2019-143-74
-  desarrollado_por: []
-  fundamentos_derecho:
-  - norma_id: norm-can-d-81-2010
   articulos:
-  - '120'
+  - norma_id: '120'
   - norma_id: norm-es-1988-3987
   - norma_id: norm-es-1988-6938
   - norma_id: norm-es-2002-25289
 ---
+
 # Orden de 20 de marzo de 2001 por la que se regula el régimen de equivalencias de los estudios básicos y medios cursados en los países signatarios del Convenio "Andrés Bello", con los correspondientes españoles de Educación Secundaria Obligatoria y Bachillerato establecidos por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
 
 ## Preámbulo
@@ -181,3 +177,43 @@ Tabla de equivalencias entre los estudios que para cada país se especifican
 - [**BOE-A-1988-3987**](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md)
 - [**BOE-A-1988-6938**](./RD104_1988_aplicacion_lo_dispuesto_real_decreto_homologacion.md)
 - [**BOE-A-2002-25289**](./RD3305_2002_ecd_modifican_aplicacion_lo_dispuesto_real.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Fundamentado en**: [**BOE-A-1988-3987**](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md)
+- **Fundamentado en**: [**BOE-A-1988-6938**](./RD104_1988_aplicacion_lo_dispuesto_real_decreto_homologacion.md)
+- **Fundamentado en**: [**BOE-A-2002-25289**](./RD3305_2002_ecd_modifican_aplicacion_lo_dispuesto_real.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**BOE-A-1995-22212**](../08_personal_docente/RD1635_1995_adscribe_profesorado_cuerpos_profesores_ensenanza_secundaria.md)
+- **Fundamento de**: [**BOE-A-1996-10210**](./O30_4_1996_adecuan_nueva_ordenacion_educativa_determinados_criterios.md)
+- **Fundamento de**: [**BOE-A-1998-10720**](../08_personal_docente/RD777_1998_desarrollan_determinados_aspectos_ordenacion_formacion_profesional.md)
+- **Fundamento de**: [**BOE-A-1999-8849**](../08_personal_docente/O9_4_1999_dispone_publicacion_convenio_regimen_economico_laboral.md)
+- **Fundamento de**: [**BOE-A-2000-5990**](../03_ordenacion_curricular_y_ensenanzas/RD320_2000_establecen_titulos_tecnico_deportivo_tecnico_deportivo.md)
+- **Fundamento de**: [**BOE-A-2002-12018**](../03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md)
+- **Fundamento de**: [**BOE-A-2002-4371**](../03_ordenacion_curricular_y_ensenanzas/RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md)
+- **Fundamento de**: [**BOE-A-2004-5771**](../08_personal_docente/Osn_ecd_aprueban_temarios_han_regir_procedimientos.md)
+- **Fundamento de**: [**BOE-A-2007-10487**](../05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md)
+- **Fundamento de**: [**BOE-A-2007-19326**](../03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md)
+- **Fundamento de**: [**BOE-A-2010-11426**](./RD860_2010_regulan_condiciones_formacion_inicial_profesorado_centros.md)
+- **Fundamento de**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamento de**: [**BOE-A-2010-13564**](../03_ordenacion_curricular_y_ensenanzas/RD935_2010_establecen_titulos_tecnico_deportivo_vela_aparejo.md)
+- **Fundamento de**: [**BOE-A-2011-12632**](../03_ordenacion_curricular_y_ensenanzas/RD878_2011_establece_titulo_tecnico_deportivo_salvamento_socorrismo.md)
+- **Fundamento de**: [**BOE-A-2013-10219**](../03_ordenacion_curricular_y_ensenanzas/RD669_2013_establece_titulo_tecnico_deportivo_atletismo_fijan.md)
+- **Fundamento de**: [**BOE-A-2015-8043**](./RD665_2015_desarrollan_determinadas_disposiciones_relativas_ejercicio_docencia.md)
+- **Fundamento de**: [**BOE-A-2020-17274**](../03_ordenacion_curricular_y_ensenanzas/RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md)
+- **Fundamento de**: [**BOE-A-2022-16194**](../08_personal_docente/RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md)
+- **Fundamento de**: [**BOE-A-2023-9553**](../08_personal_docente/RD286_2023_regula_asignacion_materias_educacion_secundaria_obligatoria.md)
+- **Fundamento de**: [**BOE-A-2024-11613**](../03_ordenacion_curricular_y_ensenanzas/L1_2024_regulan_ensenanzas_artisticas_superiores_establece_organizacion.md)
+- **Fundamento de**: [**BOE-A-2026-12038**](../03_ordenacion_curricular_y_ensenanzas/RD452_2026_establece_ordenacion_ensenanzas_profesionales_artes_plasticas.md)
+- **Fundamento de**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
+- **Fundamento de**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](./RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md)
+- **Fundamento de**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Fundamento de**: [**RD476_2013 Cualificacion del Profesorado en Centros Privados**](./RD476_2013_regulan_condiciones_cualificacion_formacion_profesorado_centros.md)
+- **Fundamento de**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **Cita a**: [**BOE-A-1988-6938**](./RD104_1988_aplicacion_lo_dispuesto_real_decreto_homologacion.md) (D. Final del)
+- **Cita a**: [**BOE-A-1988-3987**](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md) (D. Final del)
+- **Cita a**: [**BOE-A-2002-25289**](./RD3305_2002_ecd_modifican_aplicacion_lo_dispuesto_real.md) (D. Final del)

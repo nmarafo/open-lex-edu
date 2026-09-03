@@ -27,29 +27,639 @@ tags:
 - lcsp
 - titulacion
 relaciones:
-  fundamentado_en:
+  cita:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV. Garantías exigibles en la contratación del sector público.
+    capitulo_origen: Capítulo I. Garantías exigibles en los contratos celebrados con
+      las Administraciones Públicas.
+    seccion_origen: Sección 2. ª Garantía definitiva.
+    articulos_origen:
+    - Art. 109
+    articulos_destino:
+    - Art. 109
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III. Gestión de la publicidad contractual por medios electrónicos,
+      informáticos y telemáticos.
+    articulos_origen:
+    - D. Final decimoquinta. Modificación de la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md),
+      de 1 de octubre, de Régimen Jurídico del Sector Público.
+  - norma_id: norm-es-l-40-2015
+    titulo_origen: Título III. Gestión de la publicidad contractual por medios electrónicos,
+      informáticos y telemáticos.
+    articulos_origen:
+    - D. Final decimoquinta. Modificación de la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md),
+      de 1 de octubre, de Régimen Jurídico del Sector Público.
+  - norma_id: norm-es-l-40-2015
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo I. Objeto y ámbito de aplicación de la Ley.
+    seccion_origen: Sección 1. ª Objeto y ámbito de aplicación
+    articulos_origen:
+    - Art. 3
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+    capitulo_origen: Capítulo I. Objeto y ámbito de aplicación de la Ley.
+    seccion_origen: Sección 1. ª Objeto y ámbito de aplicación
+    articulos_origen:
+    - Art. 3
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Perfección y forma del contrato.
+    articulos_origen:
+    - Art. 39
+    articulos_destino:
+    - Art. 47
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Perfección y forma del contrato.
+    articulos_origen:
+    - Art. 41
+  - norma_id: norm-es-rdl-5-2015
+    titulo_origen: Título I
+    capitulo_origen: Capítulo V. Del recurso especial.
+    articulos_origen:
+    - Art. 45
+    articulos_destino:
+    - Art. 76
+  - norma_id: norm-es-rdleg-5-2015
+    titulo_origen: Título I
+    capitulo_origen: Capítulo V. Del recurso especial.
+    articulos_origen:
+    - Art. 45
+    articulos_destino:
+    - Art. 76
+  - norma_id: norm-es-l-40-2015
+    titulo_origen: Título I
+    capitulo_origen: Capítulo V. Del recurso especial.
+    articulos_origen:
+    - Art. 45
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo V. Del recurso especial.
+    articulos_origen:
+    - Art. 45
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo V. Del recurso especial.
+    articulos_origen:
+    - Art. 49
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título I
+    capitulo_origen: Capítulo V. Del recurso especial.
+    articulos_origen:
+    - Art. 51
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título I
+    capitulo_origen: Capítulo V. Del recurso especial.
+    articulos_origen:
+    - Art. 51
+    articulos_destino:
+    - Art. 16
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título I
+    capitulo_origen: Capítulo V. Del recurso especial.
+    articulos_origen:
+    - Art. 56
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo V. Del recurso especial.
+    articulos_origen:
+    - Art. 57
+  - norma_id: norm-es-l-40-2015
+    titulo_origen: Título I
+    capitulo_origen: Capítulo V. Del recurso especial.
+    articulos_origen:
+    - Art. 58
+    titulo_destino: Título PRELIMINAR
+    capitulo_destino: Capítulo IV
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Capacidad y solvencia del empresario.
+    seccion_origen: Sección 1. ª Aptitud para contratar con el sector público
+    articulos_origen:
+    - Art. 65
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Capacidad y solvencia del empresario.
+    seccion_origen: Sección 1. ª Aptitud para contratar con el sector público
+    articulos_origen:
+    - Art. 71
+  - norma_id: norm-es-2007-6115
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Capacidad y solvencia del empresario.
+    seccion_origen: Sección 1. ª Aptitud para contratar con el sector público
+    articulos_origen:
+    - Art. 71
+    articulos_destino:
+    - Art. 45
+  - norma_id: norm-es-l-53-1984
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Capacidad y solvencia del empresario.
+    seccion_origen: Sección 1. ª Aptitud para contratar con el sector público
+    articulos_origen:
+    - Art. 71
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Capacidad y solvencia del empresario.
+    seccion_origen: Sección 2. ª Acreditación de la aptitud para contratar
+    articulos_origen:
+    - Art. 84
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I. Garantías exigibles en los contratos celebrados con
+      las Administraciones Públicas.
+    seccion_origen: Sección 1. ª Garantía provisional
+    articulos_origen:
+    - Art. 106
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I. Garantías exigibles en los contratos celebrados con
+      las Administraciones Públicas.
+    seccion_origen: Sección 2. ª Garantía definitiva
+    articulos_origen:
+    - Art. 107
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I. Garantías exigibles en los contratos celebrados con
+      las Administraciones Públicas.
+    seccion_origen: Sección 2. ª Garantía definitiva
+    articulos_origen:
+    - Art. 108
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I. Garantías exigibles en los contratos celebrados con
+      las Administraciones Públicas.
+    seccion_origen: Sección 2. ª Garantía definitiva
+    articulos_origen:
+    - Art. 109
+    articulos_destino:
+    - Art. 109
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I. Garantías exigibles en los contratos celebrados con
+      las Administraciones Públicas.
+    seccion_origen: Sección 2. ª Garantía definitiva
+    articulos_origen:
+    - Art. 109
+    articulos_destino:
+    - Art. 150
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I. Garantías exigibles en los contratos celebrados con
+      las Administraciones Públicas.
+    seccion_origen: Sección 3. ª Garantías prestadas por terceros y preferencia en
+      la ejecución de garantías
+    articulos_origen:
+    - Art. 114
+    articulos_destino:
+    - Art. 108
+    - Art. 106
+  - norma_id: norm-es-2013-12632
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. De las actuaciones relativas a la contratación de
+      las Administraciones Públicas.
+    seccion_origen: Sección 1. ª De la preparación de los contratos de las Administraciones
+      Públicas
+    articulos_origen:
+    - Art. 126
+  - norma_id: norm-es-rdl-2-2015
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. De las actuaciones relativas a la contratación de
+      las Administraciones Públicas.
+    seccion_origen: Sección 1. ª De la preparación de los contratos de las Administraciones
+      Públicas
+    articulos_origen:
+    - Art. 130
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. De las actuaciones relativas a la contratación de
+      las Administraciones Públicas.
+    seccion_origen: Sección 2. ª De la adjudicación de los contratos de las Administraciones
+      Públicas
+    articulos_origen:
+    - Art. 140
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. De las actuaciones relativas a la contratación de
+      las Administraciones Públicas.
+    seccion_origen: Sección 2. ª De la adjudicación de los contratos de las Administraciones
+      Públicas
+    articulos_origen:
+    - Art. 159
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. De las actuaciones relativas a la contratación de
+      las Administraciones Públicas.
+    seccion_origen: Sección 2. ª De la adjudicación de los contratos de las Administraciones
+      Públicas
+    articulos_origen:
+    - Art. 161
+    articulos_destino:
+    - Art. 140
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. De las actuaciones relativas a la contratación de
+      las Administraciones Públicas.
+    seccion_origen: Sección 3. ª De los efectos, cumplimiento y extinción de los contratos
+      administrativos
+    articulos_origen:
+    - Art. 193
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Del contrato de concesión de obras.
+    seccion_origen: Sección 1. ª Actuaciones preparatorias del contrato de concesión
+      de obras
+    articulos_origen:
+    - Art. 250
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Del contrato de concesión de obras.
+    seccion_origen: Sección 6. ª Financiación privada
+    articulos_origen:
+    - Art. 274
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo V. Del contrato de servicios.
+    seccion_origen: Sección 1. ª Disposiciones generales
+    articulos_origen:
+    - Art. 310
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. Órganos de contratación.
+    articulos_origen:
+    - Art. 323
+    articulos_destino:
+    - Art. 159
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Órganos de asistencia.
+    articulos_origen:
+    - Art. 326
+    articulos_destino:
+    - Art. 168
+    - Art. 159
+  - norma_id: norm-es-l-40-2015
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Órganos consultivos.
+    articulos_origen:
+    - Art. 328
+  - norma_id: norm-es-l-40-2015
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Órganos consultivos.
+    articulos_origen:
+    - Art. 329
+    articulos_destino:
+    - Art. 140
+  - norma_id: norm-es-l-40-2015
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Órganos consultivos.
+    articulos_origen:
+    - Art. 331
+    articulos_destino:
+    - Art. 3
+    - Art. 328
+    - Art. 329
+  - norma_id: norm-es-rdl-5-2015
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Órganos consultivos.
+    articulos_origen:
+    - Art. 332
+    articulos_destino:
+    - Art. 76
+  - norma_id: norm-es-rdleg-5-2015
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Órganos consultivos.
+    articulos_origen:
+    - Art. 332
+    articulos_destino:
+    - Art. 76
+  - norma_id: norm-es-l-40-2015
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Órganos consultivos.
+    articulos_origen:
+    - Art. 332
+    articulos_destino:
+    - Art. 6
   - norma_id: norm-es-1985-5392
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Adicional segunda. Competencias en materia de contratación en las Entidades
+      Locales.
+    articulos_destino:
+    - Art. 121
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Adicional segunda. Competencias en materia de contratación en las Entidades
+      Locales.
+  - norma_id: norm-es-1985-5392
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Adicional tercera. Normas específicas de contratación pública en las Entidades
+      Locales.
+    articulos_destino:
+    - Art. 86
+  - norma_id: norm-es-1985-5392
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Adicional tercera. Normas específicas de contratación pública en las Entidades
+      Locales.
+    titulo_destino: Título X
+    disposiciones_destino:
+    - D. Adicional octava
+  - norma_id: norm-es-1985-5392
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Adicional tercera. Normas específicas de contratación pública en las Entidades
+      Locales.
+    articulos_destino:
+    - Art. 228
+    disposiciones_destino:
+    - D. Adicional quinta
+  - norma_id: norm-es-2013-12632
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Adicional cuarta. Contratos reservados.
+  - norma_id: norm-es-2013-12632
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Adicional decimoquinta. Normas relativas a los medios de comunicación utilizables
+      en los procedimientos regulados en esta Ley.
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Adicional vigésima.... cuarta.
   - norma_id: norm-es-1999-23750
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Adicional vigésima.... quinta.
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Adicional vigésima.... quinta.
+    articulos_destino:
+    - Art. 12
+  - norma_id: norm-es-l-40-2015
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Adicional vigésima.... octava.
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final décima. Modificación de la Ley 37/1992, de 28 de diciembre, del Impuesto
+      sobre el Valor Añadido.
+    articulos_destino:
+    - Art. 31
+  - norma_id: norm-es-2013-12632
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final decimocuarta. Modificación del texto refundido de la Ley General de
+      derechos de las personas con discapacidad y de su inclusión social, aprobado
+      mediante Real Decreto Legislativo 1/2013, de 29 de noviembre.
+  modifica:
+  - norma_id: norm-es-2007-19814
+    titulo_origen: Título III. Gestión de la publicidad contractual por medios electrónicos,
+      informáticos y telemáticos.
+    articulos_origen:
+    - D. Final decimotercera. Modificación de la [Ley 37/2007](../01_marco_normativo_general_y_organico/L37_2007_reutilizacion_informacion_sector_publico.md),
+      de 16 de noviembre, sobre reutilización de la información del sector público.
+    disposiciones_destino:
+    - D. Final decimotercera
+  - norma_id: norm-es-2013-12632
+    titulo_origen: Título III. Gestión de la publicidad contractual por medios electrónicos,
+      informáticos y telemáticos.
+    articulos_origen:
+    - D. Final decimocuarta. Modificación del texto refundido de la Ley General de
+      derechos de las personas con discapacidad y de su inclusión social, aprobado
+      mediante [Real Decreto Legislativo 1/2013](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md),
+      de 29 de noviembre.
+    disposiciones_destino:
+    - D. Final decimocuarta
+  - norma_id: norm-es-l-40-2015
+    titulo_origen: Título III. Gestión de la publicidad contractual por medios electrónicos,
+      informáticos y telemáticos.
+    articulos_origen:
+    - D. Final decimoquinta. Modificación de la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md),
+      de 1 de octubre, de Régimen Jurídico del Sector Público.
+    disposiciones_destino:
+    - D. Final decimoquinta
+  - norma_id: norm-es-l-40-2015
+    titulo_origen: Título III. Gestión de la publicidad contractual por medios electrónicos,
+      informáticos y telemáticos.
+    articulos_origen:
+    - D. Final decimoquinta. Modificación de la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md),
+      de 1 de octubre, de Régimen Jurídico del Sector Público.
+    articulos_destino:
+    - Art. 202
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. De las actuaciones relativas a la contratación de
+      las Administraciones Públicas.
+    seccion_origen: Sección 2. ª De la adjudicación de los contratos de las Administraciones
+      Públicas
+    articulos_origen:
+    - Art. 133
+  - norma_id: norm-es-l-19-2013
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Adicional tercera. Normas específicas de contratación pública en las Entidades
+      Locales.
+    articulos_destino:
+    - Art. 99
+    - Art. 101
+  - norma_id: norm-es-2007-19814
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final decimotercera. Modificación de la [Ley 37/2007](../01_marco_normativo_general_y_organico/L37_2007_reutilizacion_informacion_sector_publico.md),
+      de 16 de noviembre, sobre reutilización de la información del sector público.
+    disposiciones_destino:
+    - D. Final decimotercera
+  - norma_id: norm-es-2007-19814
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final decimotercera. Modificación de la [Ley 37/2007](../01_marco_normativo_general_y_organico/L37_2007_reutilizacion_informacion_sector_publico.md),
+      de 16 de noviembre, sobre reutilización de la información del sector público.
+  - norma_id: norm-es-2013-12632
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final decimocuarta. Modificación del texto refundido de la Ley General de
+      derechos de las personas con discapacidad y de su inclusión social, aprobado
+      mediante Real Decreto Legislativo 1/2013, de 29 de noviembre.
+    disposiciones_destino:
+    - D. Final decimocuarta
+  - norma_id: norm-es-l-40-2015
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final decimoquinta. Modificación de la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md),
+      de 1 de octubre, de Régimen Jurídico del Sector Público.
+    disposiciones_destino:
+    - D. Final decimoquinta
+  - norma_id: norm-es-l-40-2015
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final decimoquinta. Modificación de la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md),
+      de 1 de octubre, de Régimen Jurídico del Sector Público.
+  fundamentado_en:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III. Gestión de la publicidad contractual por medios electrónicos,
+      informáticos y telemáticos.
+    articulos_origen:
+    - D. Final decimoquinta. Modificación de la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md),
+      de 1 de octubre, de Régimen Jurídico del Sector Público.
+    articulos_destino:
+    - Art. 128
+  - norma_id: norm-es-l-40-2015
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. Racionalidad y consistencia de la contratación del
+      sector público.
+    articulos_origen:
+    - Art. 32
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Perfección y forma del contrato.
+    articulos_origen:
+    - Art. 40
+    articulos_destino:
+    - Art. 48
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Perfección y forma del contrato.
+    articulos_origen:
+    - Art. 41
+    titulo_destino: Título V
+    capitulo_destino: Capítulo I
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título I
+    capitulo_origen: Capítulo V. Del recurso especial.
+    articulos_origen:
+    - Art. 44
+  - norma_id: norm-es-1985-5392
+    titulo_origen: Título I
+    capitulo_origen: Capítulo V. Del recurso especial.
+    articulos_origen:
+    - Art. 46
+    articulos_destino:
+    - Art. 121
+    - Art. 45
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo V. Del recurso especial.
+    articulos_origen:
+    - Art. 46
+    articulos_destino:
+    - Art. 121
+    - Art. 45
+  - norma_id: norm-es-l-19-2013
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. De las actuaciones relativas a la contratación de
+      las Administraciones Públicas.
+    seccion_origen: Sección 2. ª De la adjudicación de los contratos de las Administraciones
+      Públicas
+    articulos_origen:
+    - Art. 154
+    articulos_destino:
+    - Art. 19
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 321
+  - norma_id: norm-es-1985-5392
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Órganos consultivos.
+    articulos_origen:
+    - Art. 333
+    titulo_destino: Título X
+  - norma_id: norm-es-l-19-2013
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Registro de Contratos del Sector Público.
+    articulos_origen:
+    - Art. 346
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Adicional vigésima.... quinta.
+    articulos_destino:
+    - Art. 12
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Adicional cuadragésima.... tercera.
+    articulos_destino:
+    - Art. 31
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final primera. Títulos competenciales.
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final primera. Títulos competenciales.
+    articulos_destino:
+    - Art. 149
+    - Art. 271
+    - Art. 272
+    - Art. 273
+    - Art. 274
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    articulos_origen:
+    - Art. 275
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    articulos_origen:
+    - Art. 123
+    articulos_destino:
+    - Art. 210
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final duodécima. Modificación del texto refundido de la Ley Reguladora de
+      las Haciendas Locales, aprobado mediante Real Decreto Legislativo 2/2004, de
+      5 de marzo.
+    articulos_destino:
+    - Art. 31
   - norma_id: norm-es-2007-19814
   - norma_id: norm-es-2007-6115
   - norma_id: norm-es-2013-12632
   - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-l-19-2013
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-l-40-2015
   - norma_id: norm-es-l-53-1984
   - norma_id: norm-es-rdl-2-2015
   - norma_id: norm-es-rdl-5-2015
+  concordancia:
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Perfección y forma del contrato.
+    articulos_origen:
+    - Art. 41
+    articulos_destino:
+    - Art. 108
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Capacidad y solvencia del empresario.
+    seccion_origen: Sección 2. ª Acreditación de la aptitud para contratar
+    articulos_origen:
+    - Art. 87
+    articulos_destino:
+    - Art. 336
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final cuarta. Normas aplicables a los procedimientos regulados en esta Ley
+      y a los medios propios personificados.
+  - norma_id: norm-es-l-40-2015
+    titulo_origen: Título III
+    articulos_origen:
+    - D. Final cuarta. Normas aplicables a los procedimientos regulados en esta Ley
+      y a los medios propios personificados.
   fundamento_de:
   - norma_id: norm-es-2022-11589
-  - norma_id: norm-can-res-014
-  - norma_id: norm-can-res-boc-2026-129-26
-  - norma_id: norm-can-d-84-2024
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - 149.1.18
+  - norma_id: 149.1.18
   - norma_id: norm-es-2007-19814
   - norma_id: norm-es-l-19-2013
   - norma_id: norm-es-l-39-2015
@@ -62,6 +672,7 @@ relaciones:
   - norma_id: norm-es-2013-12632
   - norma_id: norm-es-rdl-2-2015
 ---
+
 # Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014. ## Preámbulo
 
 **FELIPE VI**
@@ -9591,3 +10202,108 @@ Servicio de recogida y reciclaje:
 - [**BOE-A-2007-6115**](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md)
 - [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md)
 - [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**BOE-A-2007-19814**](../01_marco_normativo_general_y_organico/L37_2007_reutilizacion_informacion_sector_publico.md) (D. Final decimotercera) desde *(Título III. Gestión de la publicidad contractual por medios electrónicos, informáticos y telemáticos., D. Final decimotercera. Modificación de la [Ley 37/2007](../01_marco_normativo_general_y_organico/L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, sobre reutilización de la información del sector público.)*
+- **Modifica**: [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md) (D. Final decimocuarta) desde *(Título III. Gestión de la publicidad contractual por medios electrónicos, informáticos y telemáticos., D. Final decimocuarta. Modificación del texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado mediante [Real Decreto Legislativo 1/2013](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md), de 29 de noviembre.)*
+- **Modifica**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (D. Final decimoquinta) desde *(Título III. Gestión de la publicidad contractual por medios electrónicos, informáticos y telemáticos., D. Final decimoquinta. Modificación de la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.)*
+- **Modifica**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 202) desde *(Título III. Gestión de la publicidad contractual por medios electrónicos, informáticos y telemáticos., D. Final decimoquinta. Modificación de la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.)*
+- **Modifica**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título I, Capítulo I. De las actuaciones relativas a la contratación de las Administraciones Públicas., Art. 133)*
+- **Modifica**: [**L19_2013 Transparencia y Buen Gobierno**](../01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md) (Art. 99, Art. 101) desde *(Título III, D. Adicional tercera. Normas específicas de contratación pública en las Entidades Locales.)*
+- **Modifica**: [**BOE-A-2007-19814**](../01_marco_normativo_general_y_organico/L37_2007_reutilizacion_informacion_sector_publico.md) (D. Final decimotercera) desde *(Título III, D. Final decimotercera. Modificación de la [Ley 37/2007](../01_marco_normativo_general_y_organico/L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, sobre reutilización de la información del sector público.)*
+- **Modifica**: [**BOE-A-2007-19814**](../01_marco_normativo_general_y_organico/L37_2007_reutilizacion_informacion_sector_publico.md) desde *(Título III, D. Final decimotercera. Modificación de la [Ley 37/2007](../01_marco_normativo_general_y_organico/L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, sobre reutilización de la información del sector público.)*
+- **Modifica**: [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md) (D. Final decimocuarta) desde *(Título III, D. Final decimocuarta. Modificación del texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado mediante Real Decreto Legislativo 1/2013, de 29 de noviembre.)*
+- **Modifica**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (D. Final decimoquinta) desde *(Título III, D. Final decimoquinta. Modificación de la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.)*
+- **Modifica**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) desde *(Título III, D. Final decimoquinta. Modificación de la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 128) desde *(Título III. Gestión de la publicidad contractual por medios electrónicos, informáticos y telemáticos., D. Final decimoquinta. Modificación de la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.)*
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) desde *(Título I, Capítulo I. Racionalidad y consistencia de la contratación del sector público., Art. 32)*
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 48) desde *(Título I, Capítulo III. Perfección y forma del contrato., Art. 40)*
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Título V, Capítulo I) desde *(Título I, Capítulo III. Perfección y forma del contrato., Art. 41)*
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) desde *(Título I, Capítulo V. Del recurso especial., Art. 44)*
+- **Fundamentado en**: [**BOE-A-1985-5392**](./L7_1985_reguladora_bases_regimen_local.md) (Art. 121, Art. 45) desde *(Título I, Capítulo V. Del recurso especial., Art. 46)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 121, Art. 45) desde *(Título I, Capítulo V. Del recurso especial., Art. 46)*
+- **Fundamentado en**: [**L19_2013 Transparencia y Buen Gobierno**](../01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md) (Art. 19) desde *(Título I, Capítulo I. De las actuaciones relativas a la contratación de las Administraciones Públicas., Art. 154)*
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) desde *(Título I, Art. 321)*
+- **Fundamentado en**: [**BOE-A-1985-5392**](./L7_1985_reguladora_bases_regimen_local.md) (Título X) desde *(Título I, Capítulo III. Órganos consultivos., Art. 333)*
+- **Fundamentado en**: [**L19_2013 Transparencia y Buen Gobierno**](../01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md) desde *(Título II, Capítulo II. Registro de Contratos del Sector Público., Art. 346)*
+- **Fundamentado en**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 12) desde *(Título III, D. Adicional vigésima.... quinta.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 31) desde *(Título III, D. Adicional cuadragésima.... tercera.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Título III, D. Final primera. Títulos competenciales.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 271, Art. 272, Art. 273, Art. 274) desde *(Título III, D. Final primera. Títulos competenciales.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Título III, Art. 275)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 210) desde *(Título III, Art. 123)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 31) desde *(Título III, D. Final duodécima. Modificación del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado mediante Real Decreto Legislativo 2/2004, de 5 de marzo.)*
+- **Fundamentado en**: [**BOE-A-2007-19814**](../01_marco_normativo_general_y_organico/L37_2007_reutilizacion_informacion_sector_publico.md)
+- **Fundamentado en**: [**BOE-A-2007-6115**](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md)
+- **Fundamentado en**: [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md)
+- **Fundamentado en**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamento de**: [**BOE-A-2022-11589**](../07_convivencia_bienestar_y_protocolos/L15_2022_integral_igualdad_trato_no_discriminacion.md)
+- **En concordancia con**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 108) desde *(Título I, Capítulo III. Perfección y forma del contrato., Art. 41)*
+- **En concordancia con**: `norm-es-c-1978` (Art. 336) desde *(Título II, Capítulo II. Capacidad y solvencia del empresario., Art. 87)*
+- **En concordancia con**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) desde *(Título III, D. Final cuarta. Normas aplicables a los procedimientos regulados en esta Ley y a los medios propios personificados.)*
+- **En concordancia con**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) desde *(Título III, D. Final cuarta. Normas aplicables a los procedimientos regulados en esta Ley y a los medios propios personificados.)*
+- **Cita a**: `norm-es-c-1978` (Art. 109) desde *(Título IV. Garantías exigibles en la contratación del sector público., Capítulo I. Garantías exigibles en los contratos celebrados con las Administraciones Públicas., Art. 109)*
+- **Cita a**: `norm-es-c-1978` desde *(Título III. Gestión de la publicidad contractual por medios electrónicos, informáticos y telemáticos., D. Final decimoquinta. Modificación de la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) desde *(Título III. Gestión de la publicidad contractual por medios electrónicos, informáticos y telemáticos., D. Final decimoquinta. Modificación de la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) desde *(Título Preliminar, Capítulo I. Objeto y ámbito de aplicación de la Ley., Art. 3)*
+- **Cita a**: `norm-es-c-1978` desde *(Título Preliminar, Capítulo I. Objeto y ámbito de aplicación de la Ley., Art. 3)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 47) desde *(Título I, Capítulo III. Perfección y forma del contrato., Art. 39)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) desde *(Título I, Capítulo III. Perfección y forma del contrato., Art. 41)*
+- **Cita a**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md) (Art. 76) desde *(Título I, Capítulo V. Del recurso especial., Art. 45)*
+- **Cita a**: `norm-es-rdleg-5-2015` (Art. 76) desde *(Título I, Capítulo V. Del recurso especial., Art. 45)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) desde *(Título I, Capítulo V. Del recurso especial., Art. 45)*
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Capítulo V. Del recurso especial., Art. 45)*
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Capítulo V. Del recurso especial., Art. 49)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) desde *(Título I, Capítulo V. Del recurso especial., Art. 51)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 16) desde *(Título I, Capítulo V. Del recurso especial., Art. 51)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) desde *(Título I, Capítulo V. Del recurso especial., Art. 56)*
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Capítulo V. Del recurso especial., Art. 57)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Título PRELIMINAR, Capítulo IV) desde *(Título I, Capítulo V. Del recurso especial., Art. 58)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo II. Capacidad y solvencia del empresario., Art. 65)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo II. Capacidad y solvencia del empresario., Art. 71)*
+- **Cita a**: [**BOE-A-2007-6115**](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md) (Art. 45) desde *(Título II, Capítulo II. Capacidad y solvencia del empresario., Art. 71)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) desde *(Título II, Capítulo II. Capacidad y solvencia del empresario., Art. 71)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo II. Capacidad y solvencia del empresario., Art. 84)*
+- **Cita a**: `norm-es-c-1978` desde *(Título IV, Capítulo I. Garantías exigibles en los contratos celebrados con las Administraciones Públicas., Art. 106)*
+- **Cita a**: `norm-es-c-1978` desde *(Título IV, Capítulo I. Garantías exigibles en los contratos celebrados con las Administraciones Públicas., Art. 107)*
+- **Cita a**: `norm-es-c-1978` desde *(Título IV, Capítulo I. Garantías exigibles en los contratos celebrados con las Administraciones Públicas., Art. 108)*
+- **Cita a**: `norm-es-c-1978` (Art. 109) desde *(Título IV, Capítulo I. Garantías exigibles en los contratos celebrados con las Administraciones Públicas., Art. 109)*
+- **Cita a**: `norm-es-c-1978` (Art. 150) desde *(Título IV, Capítulo I. Garantías exigibles en los contratos celebrados con las Administraciones Públicas., Art. 109)*
+- **Cita a**: `norm-es-c-1978` (Art. 108, Art. 106) desde *(Título IV, Capítulo I. Garantías exigibles en los contratos celebrados con las Administraciones Públicas., Art. 114)*
+- **Cita a**: [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md) desde *(Título I, Capítulo I. De las actuaciones relativas a la contratación de las Administraciones Públicas., Art. 126)*
+- **Cita a**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md) desde *(Título I, Capítulo I. De las actuaciones relativas a la contratación de las Administraciones Públicas., Art. 130)*
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Capítulo I. De las actuaciones relativas a la contratación de las Administraciones Públicas., Art. 140)*
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Capítulo I. De las actuaciones relativas a la contratación de las Administraciones Públicas., Art. 159)*
+- **Cita a**: `norm-es-c-1978` (Art. 140) desde *(Título I, Capítulo I. De las actuaciones relativas a la contratación de las Administraciones Públicas., Art. 161)*
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Capítulo I. De las actuaciones relativas a la contratación de las Administraciones Públicas., Art. 193)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo II. Del contrato de concesión de obras., Art. 250)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo II. Del contrato de concesión de obras., Art. 274)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo V. Del contrato de servicios., Art. 310)*
+- **Cita a**: `norm-es-c-1978` (Art. 159) desde *(Título I, Capítulo I. Órganos de contratación., Art. 323)*
+- **Cita a**: `norm-es-c-1978` (Art. 168, Art. 159) desde *(Título I, Capítulo II. Órganos de asistencia., Art. 326)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) desde *(Título I, Capítulo III. Órganos consultivos., Art. 328)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 140) desde *(Título I, Capítulo III. Órganos consultivos., Art. 329)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 3, Art. 328, Art. 329) desde *(Título I, Capítulo III. Órganos consultivos., Art. 331)*
+- **Cita a**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md) (Art. 76) desde *(Título I, Capítulo III. Órganos consultivos., Art. 332)*
+- **Cita a**: `norm-es-rdleg-5-2015` (Art. 76) desde *(Título I, Capítulo III. Órganos consultivos., Art. 332)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 6) desde *(Título I, Capítulo III. Órganos consultivos., Art. 332)*
+- **Cita a**: [**BOE-A-1985-5392**](./L7_1985_reguladora_bases_regimen_local.md) (Art. 121) desde *(Título III, D. Adicional segunda. Competencias en materia de contratación en las Entidades Locales.)*
+- **Cita a**: `norm-es-c-1978` desde *(Título III, D. Adicional segunda. Competencias en materia de contratación en las Entidades Locales.)*
+- **Cita a**: [**BOE-A-1985-5392**](./L7_1985_reguladora_bases_regimen_local.md) (Art. 86) desde *(Título III, D. Adicional tercera. Normas específicas de contratación pública en las Entidades Locales.)*
+- **Cita a**: [**BOE-A-1985-5392**](./L7_1985_reguladora_bases_regimen_local.md) (Título X, D. Adicional octava) desde *(Título III, D. Adicional tercera. Normas específicas de contratación pública en las Entidades Locales.)*
+- **Cita a**: [**BOE-A-1985-5392**](./L7_1985_reguladora_bases_regimen_local.md) (Art. 228, D. Adicional quinta) desde *(Título III, D. Adicional tercera. Normas específicas de contratación pública en las Entidades Locales.)*
+- **Cita a**: [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md) desde *(Título III, D. Adicional cuarta. Contratos reservados.)*
+- **Cita a**: [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md) desde *(Título III, D. Adicional decimoquinta. Normas relativas a los medios de comunicación utilizables en los procedimientos regulados en esta Ley.)*
+- **Cita a**: `norm-es-c-1978` desde *(Título III, D. Adicional vigésima.... cuarta.)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título III, D. Adicional vigésima.... quinta.)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 12) desde *(Título III, D. Adicional vigésima.... quinta.)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) desde *(Título III, D. Adicional vigésima.... octava.)*
+- **Cita a**: `norm-es-c-1978` (Art. 31) desde *(Título III, D. Final décima. Modificación de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido.)*
+- **Cita a**: [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md) desde *(Título III, D. Final decimocuarta. Modificación del texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado mediante Real Decreto Legislativo 1/2013, de 29 de noviembre.)*

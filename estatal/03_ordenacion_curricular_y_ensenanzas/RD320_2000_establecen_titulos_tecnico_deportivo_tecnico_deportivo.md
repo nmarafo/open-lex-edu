@@ -27,22 +27,214 @@ tags:
 - profesorado
 - titulacion
 relaciones:
-  fundamentado_en:
-  - norma_id: norm-es-2001-7022
+  cita:
   - norma_id: norm-es-2002-4371
-  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 55
+  - norma_id: norm-es-2002-4371
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: 'Capítulo I. Las enseñanzas: Finalidad, organización y requisitos
+      de acceso.'
+    articulos_origen:
+    - Art. 4
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: 'Capítulo I. Las enseñanzas: Finalidad, organización y requisitos
+      de acceso.'
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 5
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: 'Capítulo I. Las enseñanzas: Finalidad, organización y requisitos
+      de acceso.'
+    articulos_origen:
+    - Art. 5
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: 'Capítulo I. Las enseñanzas: Finalidad, organización y requisitos
+      de acceso.'
+    articulos_origen:
+    - Art. 6
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: 'Capítulo I. Las enseñanzas: Finalidad, organización y requisitos
+      de acceso.'
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 8
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: 'Capítulo I. Las enseñanzas: Finalidad, organización y requisitos
+      de acceso.'
+    articulos_origen:
+    - Art. 8
+    articulos_destino:
+    - Art. 9
+    - Art. 10
+    - Art. 11
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: 'Capítulo I. Las enseñanzas: Finalidad, organización y requisitos
+      de acceso.'
+    articulos_origen:
+    - Art. 8
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: 'Capítulo I. Las enseñanzas: Finalidad, organización y requisitos
+      de acceso.'
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 9
+    - Art. 11
+  - norma_id: norm-es-2001-7022
+    capitulo_origen: Capítulo IV. Efectos académicos y profesionales de los títulos
+      de grado medio y grado superior de las especialidades de Fútbol y Fútbol Sala.
+    articulos_origen:
+    - Art. 15
+    articulos_destino:
+    - Art. 35
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: Capítulo IV. Efectos académicos y profesionales de los títulos
+      de grado medio y grado superior de las especialidades de Fútbol y Fútbol Sala.
+    articulos_origen:
+    - Art. 16
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: Capítulo V. Disposiciones relativas a los centros y al profesorado
+      que imparta estas enseñanzas.
+    articulos_origen:
+    - Art. 25
+    articulos_destino:
+    - Art. 36
+    - Art. 26
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: Capítulo V. Disposiciones relativas a los centros y al profesorado
+      que imparta estas enseñanzas.
+    articulos_origen:
+    - Art. 25
+    articulos_destino:
+    - Art. 37
+    - Art. 27
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: Capítulo V. Disposiciones relativas a los centros y al profesorado
+      que imparta estas enseñanzas.
+    articulos_origen:
+    - Art. 25
+    disposiciones_destino:
+    - D. Adicional sexta
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: Capítulo V. Disposiciones relativas a los centros y al profesorado
+      que imparta estas enseñanzas.
+    articulos_origen:
+    - Art. 25
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: Capítulo V. Disposiciones relativas a los centros y al profesorado
+      que imparta estas enseñanzas.
+    articulos_origen:
+    - D. Adicional tercera. Extinción del período transitorio.
+    disposiciones_destino:
+    - D. Transitoria primera
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: Capítulo V. Disposiciones relativas a los centros y al profesorado
+      que imparta estas enseñanzas.
+    articulos_origen:
+    - D. Transitoria primera. Plazo para las solicitudes de homologación, convalidación
+      y equivalencias.
+    articulos_destino:
+    - Art. 42
+    disposiciones_destino:
+    - D. Transitoria primera
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: Capítulo V. Disposiciones relativas a los centros y al profesorado
+      que imparta estas enseñanzas.
+    articulos_origen:
+    - D. Transitoria primera. Plazo para las solicitudes de homologación, convalidación
+      y equivalencias.
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: Capítulo V. Disposiciones relativas a los centros y al profesorado
+      que imparta estas enseñanzas.
+    articulos_origen:
+    - D. Transitoria segunda. Habilitación del profesorado hasta que se realicen los
+      cursos de capacitación pedagógica.
+  fundamentado_en:
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: 'Capítulo I. Las enseñanzas: Finalidad, organización y requisitos
+      de acceso.'
+    articulos_origen:
+    - Art. 1
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: 'Capítulo I. Las enseñanzas: Finalidad, organización y requisitos
+      de acceso.'
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 55
+  - norma_id: norm-es-2001-7022
+    capitulo_origen: Capítulo V. Disposiciones relativas a los centros y al profesorado
+      que imparta estas enseñanzas.
+    articulos_origen:
+    - D. Final primera. Carácter de la norma.
+    articulos_destino:
+    - Art. 149
+    - Art. 4
+    - Art. 14
+    disposiciones_destino:
+    - D. Adicional primera
   - norma_id: norm-es-lo-8-1985
+    capitulo_origen: Capítulo V. Disposiciones relativas a los centros y al profesorado
+      que imparta estas enseñanzas.
+    articulos_origen:
+    - D. Final primera. Carácter de la norma.
+    articulos_destino:
+    - Art. 149
+    - Art. 4
+    - Art. 14
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: Capítulo V. Disposiciones relativas a los centros y al profesorado
+      que imparta estas enseñanzas.
+    articulos_origen:
+    - D. Final primera. Carácter de la norma.
+    articulos_destino:
+    - Art. 149
+    - Art. 4
+    - Art. 14
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo V. Disposiciones relativas a los centros y al profesorado
+      que imparta estas enseñanzas.
+    articulos_origen:
+    - D. Final primera. Carácter de la norma.
+    articulos_destino:
+    - Art. 149
+    - Art. 4
+    - Art. 14
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: Capítulo V. Disposiciones relativas a los centros y al profesorado
+      que imparta estas enseñanzas.
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor del Real Decreto.
+    articulos_destino:
+    - Art. 42
+    disposiciones_destino:
+    - D. Transitoria segunda
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
   - norma_id: norm-es-2007-19326
   - norma_id: norm-es-2011-2615
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '22'
+  - norma_id: '22'
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-lo-8-1985
   - norma_id: norm-es-2002-4371
 ---
+
 # Real Decreto 320/2000, de 3 de marzo, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo superior en las especialidades de Fútbol y Fútbol Sala, se aprueban las correspondientes enseñanzas mínimas y se regulan las pruebas y los requisitos de acceso a estas enseñanzas.
 
 ## Preámbulo
@@ -5009,3 +5201,39 @@ Educación física.
 - [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 - [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
 - [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Fundamentado en**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) (Art. 1) desde *(Capítulo I. Las enseñanzas: Finalidad, organización y requisitos de acceso., Art. 1)*
+- **Fundamentado en**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) (Art. 55) desde *(Capítulo I. Las enseñanzas: Finalidad, organización y requisitos de acceso., Art. 2)*
+- **Fundamentado en**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (Art. 149, Art. 4, Art. 14, D. Adicional primera) desde *(Capítulo V. Disposiciones relativas a los centros y al profesorado que imparta estas enseñanzas., D. Final primera. Carácter de la norma.)*
+- **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 149, Art. 4, Art. 14, D. Adicional primera) desde *(Capítulo V. Disposiciones relativas a los centros y al profesorado que imparta estas enseñanzas., D. Final primera. Carácter de la norma.)*
+- **Fundamentado en**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) (Art. 149, Art. 4, Art. 14, D. Adicional primera) desde *(Capítulo V. Disposiciones relativas a los centros y al profesorado que imparta estas enseñanzas., D. Final primera. Carácter de la norma.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 4, Art. 14, D. Adicional primera) desde *(Capítulo V. Disposiciones relativas a los centros y al profesorado que imparta estas enseñanzas., D. Final primera. Carácter de la norma.)*
+- **Fundamentado en**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) (Art. 42, D. Transitoria segunda) desde *(Capítulo V. Disposiciones relativas a los centros y al profesorado que imparta estas enseñanzas., D. Final tercera. Entrada en vigor del Real Decreto.)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**BOE-A-2007-19326**](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md)
+- **Fundamento de**: [**BOE-A-2011-2615**](./Osn_edu_establece_procedimiento_reconocimiento_formaciones_entrenadores.md)
+- **Cita a**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) (Art. 55)
+- **Cita a**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md)
+- **Cita a**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) desde *(Capítulo I. Las enseñanzas: Finalidad, organización y requisitos de acceso., Art. 4)*
+- **Cita a**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) (Art. 5) desde *(Capítulo I. Las enseñanzas: Finalidad, organización y requisitos de acceso., Art. 5)*
+- **Cita a**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) desde *(Capítulo I. Las enseñanzas: Finalidad, organización y requisitos de acceso., Art. 5)*
+- **Cita a**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) (Art. 2) desde *(Capítulo I. Las enseñanzas: Finalidad, organización y requisitos de acceso., Art. 6)*
+- **Cita a**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) (Art. 8) desde *(Capítulo I. Las enseñanzas: Finalidad, organización y requisitos de acceso., Art. 7)*
+- **Cita a**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) (Art. 9, Art. 10, Art. 11) desde *(Capítulo I. Las enseñanzas: Finalidad, organización y requisitos de acceso., Art. 8)*
+- **Cita a**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) desde *(Capítulo I. Las enseñanzas: Finalidad, organización y requisitos de acceso., Art. 8)*
+- **Cita a**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) (Art. 9, Art. 11) desde *(Capítulo I. Las enseñanzas: Finalidad, organización y requisitos de acceso., Art. 10)*
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (Art. 35) desde *(Capítulo IV. Efectos académicos y profesionales de los títulos de grado medio y grado superior de las especialidades de Fútbol y Fútbol Sala., Art. 15)*
+- **Cita a**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) desde *(Capítulo IV. Efectos académicos y profesionales de los títulos de grado medio y grado superior de las especialidades de Fútbol y Fútbol Sala., Art. 16)*
+- **Cita a**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) (Art. 36, Art. 26) desde *(Capítulo V. Disposiciones relativas a los centros y al profesorado que imparta estas enseñanzas., Art. 25)*
+- **Cita a**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) (Art. 37, Art. 27) desde *(Capítulo V. Disposiciones relativas a los centros y al profesorado que imparta estas enseñanzas., Art. 25)*
+- **Cita a**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) (D. Adicional sexta) desde *(Capítulo V. Disposiciones relativas a los centros y al profesorado que imparta estas enseñanzas., Art. 25)*
+- **Cita a**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) desde *(Capítulo V. Disposiciones relativas a los centros y al profesorado que imparta estas enseñanzas., Art. 25)*
+- **Cita a**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) (D. Transitoria primera) desde *(Capítulo V. Disposiciones relativas a los centros y al profesorado que imparta estas enseñanzas., D. Adicional tercera. Extinción del período transitorio.)*
+- **Cita a**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) (Art. 42, D. Transitoria primera) desde *(Capítulo V. Disposiciones relativas a los centros y al profesorado que imparta estas enseñanzas., D. Transitoria primera. Plazo para las solicitudes de homologación, convalidación y equivalencias.)*
+- **Cita a**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) desde *(Capítulo V. Disposiciones relativas a los centros y al profesorado que imparta estas enseñanzas., D. Transitoria primera. Plazo para las solicitudes de homologación, convalidación y equivalencias.)*
+- **Cita a**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) desde *(Capítulo V. Disposiciones relativas a los centros y al profesorado que imparta estas enseñanzas., D. Transitoria segunda. Habilitación del profesorado hasta que se realicen los cursos de capacitación pedagógica.)*

@@ -25,6 +25,14 @@ tags:
 - formacion_profesorado
 - andalucia
 relaciones:
+  modifica:
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 5
+    - Art. 129
+    - Art. 54
+    - Art. 133
+    - Art. 21
   desarrolla:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-rd-276-2007
@@ -34,6 +42,7 @@ relaciones:
   - norma_id: norm-es-rdl-5-2015
   - norma_id: norm-es-lo-2-2006
 ---
+
 # Orden de 10 de noviembre de 2020, por la que se establece el marco de competencia digital docente en Andalucía.
 
 ## Preámbulo
@@ -46,7 +55,8 @@ Por otro lado, se ha considerado conveniente flexibilizar los requisitos de acce
 
 Con la modificación indicada se permite que los menores de catorce años puedan ocupar camas supletorias en los establecimientos hoteleros, sin incremento adicional de superficie, en los mismos términos previstos en la normativa anterior, lo que supone una herramienta adecuada para conseguir acomodar a los grupos familiares. El decreto se adecua a lo dispuesto en el artículo 5 de la Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad de género en Andalucía, según el cual los poderes públicos potenciarán que la perspectiva de la igualdad de género esté presente en la elaboración, ejecución y seguimiento de las disposiciones normativas. Por ello, las previsiones del decreto no establecen ningún tipo de alusión, preferencia, prioridad, prelación o diferencia alguna por razón de género. En la elaboración del decreto se han respetado los principios de buena regulación previstos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, a los que se ha de ajustar la potestad reglamentaria, actuando de acuerdo con los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia, y eficiencia, en tanto que la misma persigue un interés general al contribuir a mejorar la regulación normativa ya existente, teniendo en cuenta la evolución que ha experimentado este servicio turístico durante los últimos años. Además, se progresa en la eliminación de los obstáculos al ejercicio de los derechos de la ciudadanía de la Unión Europea, y es proporcionada para garantizar sus objetivos, no imponiendo más cargas administrativas para la ciudadanía y las empresas, a las ya existentes en la regulación vigente. No existiendo ninguna alternativa regulatoria menos restrictiva de derechos, resulta coherente con el ordenamiento jurídico. Las personas habilitadas en Andalucía al amparo de la normativa vigente permanecerán inscritas, sin ningún trámite adicional, en el Registro de Turismo de Andalucía. La norma es coherente con el resto del ordenamiento jurídico, nacional y de la Unión Europea, ya que la modificación obedece en parte, a la revisión normativa efectuada en la reglamentación estatal sobre la materia al transponer una directiva comunitaria, y se fija un marco normativo estable, predictible, integrado, claro y de certeza, que posibilita su conocimiento y comprensión, siendo además fruto de la habilitación legal llevada a cabo en la Ley 13/2011, de 23 de diciembre, a través de su artículo 54. En aplicación del artículo 133 de la Ley 39/2015, de 1 de octubre, con carácter previo a la elaboración del presente decreto se sometieron a consulta pública los aspectos relativos a la iniciativa (problemas a solucionar, necesidad y oportunidad, objetivos y posibles soluciones), habiendo sido tenidos en cuenta los criterios y propuestas formuladas en esta fase de consulta pública. Se ha sometido el proyecto a información pública y se ha seguido el trámite de audiencia a las distintas entidades representativas del sector, a las personas consumidoras y usuarias y a los agentes económicos y sociales, favoreciendo una participación activa y se ha facilitado el acceso a la información pública mediante la publicación de los trámites seguidos en la elaboración de la norma. Por todo ello, a propuesta del Vicepresidente de la Junta de Andalucía y Consejero de Turismo, Regeneración, Justicia y Administración Local, de conformidad con lo dispuesto en los artículos 21.3 y 27.9 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, de acuerdo con el Consejo Consultivo de Andalucía y previa deliberación del Consejo de Gobierno en su reunión del día 17 de noviembre de 2020.
 DISPONGO:
-Artículo único. Modificación del Decreto 8/2015, de 20 de enero, regulador de guías de turismo de Andalucía. El Decreto 8/2015, de 20 de enero, regulador de guías de turismo de Andalucía, se modifica en los siguientes términos:
+
+#### Artículo . #### Artículo . Artículo único. Modificación del Decreto 8/2015, de 20 de enero, regulador de guías de turismo de Andalucía. El Decreto 8/2015, de 20 de enero, regulador de guías de turismo de Andalucía, se modifica en los siguientes términos:
 
 Uno. Se modifica el apartado 2 del artículo 2 que.
 
@@ -105,7 +115,8 @@ queda redactado como sigue:
 «Artículo 8 Reconocimiento de cualificaciones profesionales de guía de turismo obtenida en otro Estado miembro donde esté regulada.
 
 1. Para el reconocimiento de cualificaciones profesionales de guía de turismo, las personas nacionales de Estados miembros de la Unión Europea, en cuyo territorio esté regulada la profesión de guía de turismo, deberán acreditar hallarse en posesión de un
-título de formación o certificado de competencia contemplado en el artículo 19 l.
+
+## Título d. e formación o certificado de competencia contemplado en el artículo 19 l.
 
 Real Decreto 581/2017, de 9 de junio, exigido por otro Estado miembro para acceder a la actividad de guía de turismo en su territorio. Dicho título de formación o certificado de competencia deberá haber sido expedido por una autoridad competente de un Estado miembro, designada con arreglo a sus disposiciones legales, reglamentarias o administrativas.
 
@@ -205,4 +216,15 @@ Se modifica el apartado denominado Camas supletorias de los Aspectos generales d
 
 #### Disposición final segunda. Entrada en vigor.
 
-Este decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 17 de noviembre de 2020 JUAN MANUEL MORENO BONILLA Presidente de la Junta de Andalucía JUAN ANTONIO MARÍN LOZANO Vicepresidente de la Junta de Andalucía y Consejero de Turismo, Regeneración, Justicia y Administración Local
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Desarrolla**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Modifica**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 5, Art. 129, Art. 54, Art. 133, Art. 21)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)

@@ -27,6 +27,23 @@ tags:
 - profesorado
 - proteccion-menores
 relaciones:
+  modifica:
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 107
+    - Art. 59
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final ....
+  - norma_id: norm-can-d-84-2024
+    articulos_origen:
+    - D. Final ....
+  cita:
+  - norma_id: norm-can-l-14-1990
+    articulos_destino:
+    - Art. 36
+    - Art. 29
+  - norma_id: norm-can-l-2-1987
   fundamentado_en:
   - norma_id: norm-can-l-14-1990
   - norma_id: norm-can-l-2-1987
@@ -41,13 +58,14 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-can-l-14-1990
   - norma_id: norm-can-l-2-1987
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/2005/167/boc-2005-167-019.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=64565
 ---
+
 # Resolución de 10 de agosto de 2005, de la Dirección General de Trabajo de la Consejería de Empleo y Asuntos Sociales, relativa a depósito, registro y publicación del Acuerdo por el que se ratifica el Segundo Protocolo para la Gestión del Profesorado Interino y Sustituto del Sistema Educativo Público Canario (Consejería de Educación, Cultura y Deportes) (BOC n.º 167, de 25 de agosto).
 
 ## Preámbulo
@@ -180,3 +198,23 @@ DENOMINACIÓN: Asociación de Archiveros de CanariasASARCA. ÁMBITO TERRITORIAL:
 - [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**L14_1990 Regimen Juridico Administraciones Canarias**](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md)
 - [**L2_1987 Ley de la Funcion Publica Canaria**](../01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Desarrolla**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 107, Art. 59)
+- **Modifica**: `norm-es-c-1978` desde *(D. Final ....)*
+- **Modifica**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) desde *(D. Final ....)*
+- **Fundamentado en**: [**L14_1990 Regimen Juridico Administraciones Canarias**](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md)
+- **Fundamentado en**: [**L2_1987 Ley de la Funcion Publica Canaria**](../01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: [**L14_1990 Regimen Juridico Administraciones Canarias**](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md) (Art. 36, Art. 29)
+- **Cita a**: [**L2_1987 Ley de la Funcion Publica Canaria**](../01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md)

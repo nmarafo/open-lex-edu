@@ -26,12 +26,58 @@ tags:
 - curso_2025_2026
 - canarias
 relaciones:
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
+  modifica:
+  - norma_id: norm-can-l-2-1987
+    capitulo_destino: Capítulo III
+    articulos_destino:
+    - Art. 53
+    - Art. 77
+    - Art. 17
+    - Art. 18
+    - Art. 19
+    - Art. 20
+    - Art. 21
+    - Art. 22
+    - Art. 23
+    - Art. 81
+  - norma_id: norm-can-d-84-2024
+    capitulo_destino: Capítulo III
+    articulos_destino:
+    - Art. 53
+    - Art. 77
+    - Art. 17
+    - Art. 18
+    - Art. 19
+    - Art. 20
+    - Art. 21
+    - Art. 22
+    - Art. 23
+    - Art. 81
+  concordancia:
+  - norma_id: norm-can-l-2-1987
+    articulos_destino:
+    - Art. 31
+    - Art. 16
+    - Art. 52
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 31
+    - Art. 16
+    - Art. 52
   fundamentado_en:
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 8
+    - Art. 123
+    - Art. 124
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 69
+    - Art. 52
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 ---
 
 # Resolución por la que se aprueban las instrucciones relativas al procedimiento de admisión y matriculación del alumnado para el curso escolar 2025-2026. ## Preámbulo
@@ -71,3 +117,18 @@ Nombre y apellidos DNI Puesto convocado Número y fecha de publicación en BOC L
 ## Anexo III
 
 DECLARACIÓN RESPONSABLE DEBER DE PERMANENCIA - PROVISIÓN DE PUESTOS LIBRE DESIGNACIÓN (X) Opción Contenido de la declaración A Que la fecha de mi toma de posesión es anterior al 13 de agosto de 2024 por lo que no concurre en mi participación en la convocatoria un deber de permanencia en mi primer destino. B Que la fecha de toma de posesión en mi primer destino, adquiriendo con ello la condición de personal funcionario de carrera, mediante turno libre o mediante promoción interna, se produjo en una fecha posterior al día 13 de agosto de 2024, si bien que dicha permanencia al tiempo de presentar mi solicitud de participación ya ha concluido o bien concluye dentro del plazo de presentación de solicitudes por lo que no existe impedimento legal para mi participación, al haber transcurrido en el momento de finalización de dicho plazo, el período de permanencia de dieciocho meses desde la toma de posesión. 3.º- Efectos de la declaración responsable. Lo que declara a los efectos de mi participación en la convocatoria de provisión definitiva de puesto de trabajo, mediante libre designación, antes indicada, asumiendo la responsabilidad legal de la veracidad de lo declarado, sin perjuicio de las comprobaciones que en cualquier momento realice la Administración. Fecha y firma,
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**L2_1987 Ley de la Funcion Publica Canaria**](../01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md) (Capítulo III, Art. 53, Art. 77, Art. 17, Art. 18, Art. 19, Art. 20, Art. 21, Art. 22, Art. 23, Art. 81)
+- **Modifica**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Capítulo III, Art. 53, Art. 77, Art. 17, Art. 18, Art. 19, Art. 20, Art. 21, Art. 22, Art. 23, Art. 81)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 8, Art. 123, Art. 124)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 69, Art. 52)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **En concordancia con**: [**L2_1987 Ley de la Funcion Publica Canaria**](../01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md) (Art. 31, Art. 16, Art. 52)
+- **En concordancia con**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 31, Art. 16, Art. 52)

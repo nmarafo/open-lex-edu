@@ -24,7 +24,23 @@ fuente_pdf_oficial: https://www.gobiernodecanarias.org/boc/2007/070/boc-2007-070
 anexos_extraidos_pdf: true
 ocr_procesado: true
 fecha_disposicion: '2007-03-27'
+relaciones:
+  cita:
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo III. PROCEDIMIENTO DE MATRICULACIÓN
+    articulos_origen:
+    - Art. 16
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo III. PROCEDIMIENTO DE MATRICULACIÓN
+    articulos_origen:
+    - Art. 16
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo III. PROCEDIMIENTO DE MATRICULACIÓN
+    articulos_origen:
+    - Art. 16
 ---
+
 # Orden de 27 de marzo de 2007, por la que se desarrolla el procedimiento de admisión del alumnado en las enseñanzas no universitarias en los centros docentes públicos y privados concertados de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -1810,3 +1826,13 @@ CULTURA Y DEPORTES,
 Isaac Cristóbal Godoy Delgado.
 
 A N E X O
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Cita a**: `norm-es-c-1978`
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo III. PROCEDIMIENTO DE MATRICULACIÓN, Art. 16)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo III. PROCEDIMIENTO DE MATRICULACIÓN, Art. 16)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo III. PROCEDIMIENTO DE MATRICULACIÓN, Art. 16)*

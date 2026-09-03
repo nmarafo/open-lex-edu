@@ -33,9 +33,11 @@ tags:
 - profesorado
 relaciones:
   fundamentado_en:
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 109
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-can-res-boc-2026-039-111
-  - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-lo-2-2006
   fundamento_de:
   - norma_id: norm-can-res-110
@@ -44,11 +46,12 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-can-res-boc-2026-039-111
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-037-610.pdf
 ---
+
 # Resolución de 18 de febrero de 2026, de la DGACESC, por la que se corrige error en la Resolución de 5 de febrero de 2026, que convoca el procedimiento de admisión del alumnado en centros docentes que oferten enseñanzas de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato y Educación de Personas Adultas sostenidos con fondos públicos, para el curso escolar 20262027, en la Comunidad Autónoma de Canarias (BOC núm. 37, de 24 de febrero).
 
 ## Preámbulo
@@ -79,3 +82,15 @@ Del 25 al 30 de junio Adjudicación de plazas por las COMISIONES DE ADMISIÓN: a
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**Resolucion BOC 111**](./R5_2_2026_dgacesc_convoca_procedimiento_admision_alumnado_centros.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 109)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**Resolucion BOC 111**](./R5_2_2026_dgacesc_convoca_procedimiento_admision_alumnado_centros.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**Resolucion BOC 110**](./R27_2_2026_corrige_error_resolucion_convoca_procedimiento_admision.md)

@@ -26,8 +26,43 @@ tags:
 - orientacion-educativa
 - profesorado
 relaciones:
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 71
+    disposiciones_destino:
+    - D. Adicional Cuarta
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 71
+    disposiciones_destino:
+    - D. Adicional Cuarta
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 71
+    disposiciones_destino:
+    - D. Adicional Cuarta
+  - norma_id: norm-can-d-81-2010
+    articulos_destino:
+    - Art. 26
+  - norma_id: norm-can-o-2013-10-09
+    articulos_destino:
+    - Art. 26
   fundamentado_en:
   - norma_id: norm-can-d-212-1991
+    articulos_destino:
+    - Art. 21
+    - Art. 4
+    - Art. 15
+    disposiciones_destino:
+    - D. Final primera
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 21
+    - Art. 4
+    - Art. 15
+    disposiciones_destino:
+    - D. Final primera
   - norma_id: norm-can-d-81-2010
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-can-o-1-9-2010
@@ -38,14 +73,37 @@ relaciones:
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-1-1996
+  cita:
+  - norma_id: norm-can-d-81-2010
+    titulo_destino: Título III
+    capitulo_destino: Capítulo I
+  - norma_id: norm-can-o-2013-10-09
+    titulo_destino: Título III
+    capitulo_destino: Capítulo I
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2008-979
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Adicional 23ª.... de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+    disposiciones_destino:
+    - D. Adicional 23ª
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Adicional 23ª.... de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+    disposiciones_destino:
+    - D. Adicional 23ª
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Adicional 23ª.... de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+    disposiciones_destino:
+    - D. Adicional 23ª
   fundamento_de:
   - norma_id: norm-can-d-25-2018
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-can-d-81-2010
   - norma_id: norm-can-o-2013-10-09
   - norma_id: norm-can-o-1-9-2010
@@ -58,6 +116,7 @@ relaciones:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2011-040-910.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=64838
 ---
+
 # Resolución de 9 de febrero de 2011, por la que se dictan instrucciones sobre los procedimientos y los plazos para la atención educativa del alumnado con necesidades específicas de apoyo educativo en los centros escolares de la Comunidad Autónoma de Canarias (BOC n.º 40, de 24 de febrero).
 
 ## Preámbulo
@@ -560,3 +619,34 @@ Nombre y Apellidos_______________________, DNI ______________ 1 La adaptación c
 - [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 71, D. Adicional Cuarta)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 71, D. Adicional Cuarta)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 71, D. Adicional Cuarta)
+- **Desarrolla**: [**D81_2010 Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) (Art. 26)
+- **Desarrolla**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md) (Art. 26)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional 23ª) desde *(D. Adicional 23ª.... de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),)*
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional 23ª) desde *(D. Adicional 23ª.... de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),)*
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional 23ª) desde *(D. Adicional 23ª.... de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),)*
+- **Fundamentado en**: [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) (Art. 21, Art. 4, Art. 15, D. Final primera)
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 21, Art. 4, Art. 15, D. Final primera)
+- **Fundamentado en**: [**D81_2010 Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**O1_9_2010 Organizacion y Funcionamiento de los EOEP en Canarias**](./O1_9_2010_desarrolla_organizacion_funcionamiento_equipos_orientacion_educativa.md)
+- **Fundamentado en**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
+- **Fundamentado en**: [**BOE-A-1999-23750**](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+- **Fundamentado en**: [**BOE-A-2008-979**](../../../estatal/02_gestion_y_administracion_centros/LO1720_2007_aprueba_reglamento_desarrollo_ley_organica_proteccion.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- **Fundamento de**: [**D25_2018 Regulacion de la Atencion a la Diversidad en Canarias**](./D25_2018_regula_atencion_diversidad_ambito_ensenanzas_no.md)
+- **Cita a**: [**D81_2010 Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) (Título III, Capítulo I)
+- **Cita a**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md) (Título III, Capítulo I)
+- **Cita a**: [**BOE-A-1999-23750**](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+- **Cita a**: [**BOE-A-2008-979**](../../../estatal/02_gestion_y_administracion_centros/LO1720_2007_aprueba_reglamento_desarrollo_ley_organica_proteccion.md)

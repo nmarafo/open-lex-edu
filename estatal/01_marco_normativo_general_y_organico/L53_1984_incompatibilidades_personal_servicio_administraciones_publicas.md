@@ -25,7 +25,22 @@ tags:
 - gestion-economica
 - incompatibilidades
 relaciones:
+  cita:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 103
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo V. Disposiciones comunes.
+    articulos_destino:
+    - Art. 72
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo V. Disposiciones comunes.
+    articulos_destino:
+    - Art. 149
+    - Art. 17
+    disposiciones_destino:
+    - D. Adicional quinta
   - norma_id: norm-es-ce-1978
   fundamento_de:
   - norma_id: norm-es-1985-7820
@@ -37,13 +52,12 @@ relaciones:
   - norma_id: norm-es-l-9-2017
   - norma_id: norm-es-rd-659-2023
   - norma_id: norm-es-rdl-5-2015
-  - norma_id: norm-can-o-1-9-2010
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '103.3'
+  - norma_id: '103.3'
 ---
+
 # Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas.
 
 ## Preámbulo
@@ -439,3 +453,22 @@ FELIPE GONZÁLEZ MÁRQUEZ
 ### Fundamentos de Derecho
 
 - [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 17, D. Adicional quinta) desde *(Capítulo V. Disposiciones comunes.)*
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
+- **Fundamento de**: [**BOE-A-1985-7820**](../08_personal_docente/RD598_1985_incompatibilidades_personal_servicio_administracion_estado_seguridad.md)
+- **Fundamento de**: [**BOE-A-2002-12018**](../03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md)
+- **Fundamento de**: [**BOE-A-2005-21534**](../03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md)
+- **Fundamento de**: [**BOE-A-2012-9364**](../08_personal_docente/RD20_2012_real_decreto_ley_medidas_garantizar_estabilidad.md)
+- **Fundamento de**: [**BOE-A-2024-11613**](../03_ordenacion_curricular_y_ensenanzas/L1_2024_regulan_ensenanzas_artisticas_superiores_establece_organizacion.md)
+- **Fundamento de**: [**L40_2015 Regimen Juridico del Sector Publico**](./L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamento de**: [**L9_2017 Contratos del Sector Publico (LCSP)**](../02_gestion_y_administracion_centros/L9_2017_contratos_sector_publico_transponen_ordenamiento_juridico.md)
+- **Fundamento de**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **Fundamento de**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](./RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Cita a**: `norm-es-c-1978` (Art. 103)
+- **Cita a**: `norm-es-c-1978` (Art. 72) desde *(Capítulo V. Disposiciones comunes.)*

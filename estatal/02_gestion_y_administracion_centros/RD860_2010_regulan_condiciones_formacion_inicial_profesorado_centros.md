@@ -27,7 +27,248 @@ tags:
 - profesorado
 - titulacion
 relaciones:
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 94
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 94
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 94
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 21
+  - norma_id: norm-es-rd-1834-2008
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 21
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 21
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 21
+  - norma_id: norm-es-rd-276-2007
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 21
+  - norma_id: norm-es-2007-5478
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 21
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 2
+    - Art. 3
+    - Art. 100
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 2
+    - Art. 3
+    - Art. 100
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 2
+    - Art. 3
+    - Art. 100
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 30
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 30
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 30
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Adicional segunda. Docencia de maestros en la Educación Secundaria Obligatoria.
+    disposiciones_destino:
+    - D. Transitoria primera
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Adicional segunda. Docencia de maestros en la Educación Secundaria Obligatoria.
+    disposiciones_destino:
+    - D. Transitoria primera
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Adicional segunda. Docencia de maestros en la Educación Secundaria Obligatoria.
+    disposiciones_destino:
+    - D. Transitoria primera
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Adicional tercera. Enseñanza de lengua extranjera en educación primaria.
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Adicional tercera. Enseñanza de lengua extranjera en educación primaria.
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Adicional tercera. Enseñanza de lengua extranjera en educación primaria.
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Transitoria primera. Acreditación mediante actividades de formación.
+    articulos_destino:
+    - Art. 100
+    disposiciones_destino:
+    - D. Transitoria octava
+    - D. Transitoria tercera
+  - norma_id: norm-es-rd-1834-2008
+    articulos_origen:
+    - D. Transitoria primera. Acreditación mediante actividades de formación.
+    articulos_destino:
+    - Art. 100
+    disposiciones_destino:
+    - D. Transitoria octava
+    - D. Transitoria tercera
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Transitoria primera. Acreditación mediante actividades de formación.
+    articulos_destino:
+    - Art. 100
+    disposiciones_destino:
+    - D. Transitoria octava
+    - D. Transitoria tercera
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Transitoria primera. Acreditación mediante actividades de formación.
+    articulos_destino:
+    - Art. 100
+    disposiciones_destino:
+    - D. Transitoria octava
+    - D. Transitoria tercera
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Transitoria primera. Acreditación mediante actividades de formación.
+    articulos_destino:
+    - Art. 100
+    disposiciones_destino:
+    - D. Transitoria cuarta
+  - norma_id: norm-es-rd-1834-2008
+    articulos_origen:
+    - D. Transitoria primera. Acreditación mediante actividades de formación.
+    articulos_destino:
+    - Art. 100
+    disposiciones_destino:
+    - D. Transitoria cuarta
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Transitoria primera. Acreditación mediante actividades de formación.
+    articulos_destino:
+    - Art. 100
+    disposiciones_destino:
+    - D. Transitoria cuarta
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Transitoria primera. Acreditación mediante actividades de formación.
+    articulos_destino:
+    - Art. 100
+    disposiciones_destino:
+    - D. Transitoria cuarta
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    articulos_destino:
+    - Art. 42
+    - Art. 50
+  - norma_id: norm-es-2001-7022
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    articulos_destino:
+    - Art. 42
+    - Art. 50
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    articulos_destino:
+    - Art. 42
+    - Art. 50
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    articulos_destino:
+    - Art. 42
+    - Art. 50
+  concordancia:
+  - norma_id: norm-es-rd-1834-2008
+    disposiciones_destino:
+    - D. Transitoria primera
+  cita:
+  - norma_id: norm-es-2001-7022
+    articulos_origen:
+    - D. Adicional cuarta. Referencia a títulos de Licenciado, Ingeniero o Arquitecto
+      y adscripción de titulaciones a ramas o áreas de conocimientos.
+    articulos_destino:
+    - Art. 42
+  - norma_id: norm-es-2001-7022
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    articulos_destino:
+    - Art. 42
+  - norma_id: norm-es-2001-7022
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    articulos_destino:
+    - Art. 45
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final primera. Carácter básico y título competencial.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-2007-5478
   - norma_id: norm-es-2010-12201
@@ -41,8 +282,8 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2'
+  - norma_id: '1'
+  - norma_id: '2'
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-rd-1834-2008
   - norma_id: norm-es-2021-20113
@@ -50,6 +291,7 @@ relaciones:
   - norma_id: norm-es-2007-5478
   - norma_id: norm-es-rd-276-2007
 ---
+
 # Real Decreto 860/2010, de 2 de julio, por el que se regulan las condiciones de formación inicial del profesorado de los centros privados para ejercer la docencia en las enseñanzas de educación secundaria obligatoria o de bachillerato.
 
 ## Preámbulo
@@ -465,3 +707,62 @@ c) Cualquier certificado que acredite el dominio de las competencias correspondi
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**BOE-A-2007-5478**](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
 - [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 94)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 94)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 94)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 100) desde *(Art. 2)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 100) desde *(Art. 2)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 100) desde *(Art. 2)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 21) desde *(Art. 3)*
+- **Modifica**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](./RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md) (Art. 21) desde *(Art. 3)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 21) desde *(Art. 3)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 21) desde *(Art. 3)*
+- **Modifica**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md) (Art. 21) desde *(Art. 3)*
+- **Modifica**: [**BOE-A-2007-5478**](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md) (Art. 21) desde *(Art. 3)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 100) desde *(Art. 4)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 100) desde *(Art. 4)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 100) desde *(Art. 4)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 2, Art. 3, Art. 100) desde *(Art. 5)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 2, Art. 3, Art. 100) desde *(Art. 5)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 2, Art. 3, Art. 100) desde *(Art. 5)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 30) desde *(Art. 7)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 30) desde *(Art. 7)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 30) desde *(Art. 7)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Transitoria primera) desde *(D. Adicional segunda. Docencia de maestros en la Educación Secundaria Obligatoria.)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Transitoria primera) desde *(D. Adicional segunda. Docencia de maestros en la Educación Secundaria Obligatoria.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Transitoria primera) desde *(D. Adicional segunda. Docencia de maestros en la Educación Secundaria Obligatoria.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(D. Adicional tercera. Enseñanza de lengua extranjera en educación primaria.)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(D. Adicional tercera. Enseñanza de lengua extranjera en educación primaria.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(D. Adicional tercera. Enseñanza de lengua extranjera en educación primaria.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 100, D. Transitoria octava, D. Transitoria tercera) desde *(D. Transitoria primera. Acreditación mediante actividades de formación.)*
+- **Modifica**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](./RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md) (Art. 100, D. Transitoria octava, D. Transitoria tercera) desde *(D. Transitoria primera. Acreditación mediante actividades de formación.)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 100, D. Transitoria octava, D. Transitoria tercera) desde *(D. Transitoria primera. Acreditación mediante actividades de formación.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 100, D. Transitoria octava, D. Transitoria tercera) desde *(D. Transitoria primera. Acreditación mediante actividades de formación.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 100, D. Transitoria cuarta) desde *(D. Transitoria primera. Acreditación mediante actividades de formación.)*
+- **Modifica**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](./RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md) (Art. 100, D. Transitoria cuarta) desde *(D. Transitoria primera. Acreditación mediante actividades de formación.)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 100, D. Transitoria cuarta) desde *(D. Transitoria primera. Acreditación mediante actividades de formación.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 100, D. Transitoria cuarta) desde *(D. Transitoria primera. Acreditación mediante actividades de formación.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 42, Art. 50) desde *(D. Final tercera. Entrada en vigor.)*
+- **Modifica**: [**BOE-A-2001-7022**](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (Art. 42, Art. 50) desde *(D. Final tercera. Entrada en vigor.)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 42, Art. 50) desde *(D. Final tercera. Entrada en vigor.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 42, Art. 50) desde *(D. Final tercera. Entrada en vigor.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(D. Final primera. Carácter básico y título competencial.)*
+- **Fundamentado en**: [**BOE-A-2001-7022**](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Fundamentado en**: [**BOE-A-2007-5478**](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](./RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md)
+- **Fundamentado en**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Fundamento de**: [**BOE-A-2011-13117**](./RD1146_2011_modifica_real_decreto_esteblecen_ensenanzas_minimas.md)
+- **Fundamento de**: [**BOE-A-2015-8043**](./RD665_2015_desarrollan_determinadas_disposiciones_relativas_ejercicio_docencia.md)
+- **En concordancia con**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](./RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md) (D. Transitoria primera)
+- **Cita a**: [**BOE-A-2001-7022**](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (Art. 42) desde *(D. Adicional cuarta. Referencia a títulos de Licenciado, Ingeniero o Arquitecto y adscripción de titulaciones a ramas o áreas de conocimientos.)*
+- **Cita a**: [**BOE-A-2001-7022**](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (Art. 42) desde *(D. Final tercera. Entrada en vigor.)*
+- **Cita a**: [**BOE-A-2001-7022**](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (Art. 45) desde *(D. Final tercera. Entrada en vigor.)*

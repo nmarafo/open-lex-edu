@@ -25,36 +25,332 @@ tags:
 - procedimiento-administrativo
 - titulacion
 relaciones:
-  fundamentado_en:
-  - norma_id: norm-es-2001-7022
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2021-20113
+  modifica:
   - norma_id: norm-es-2021-979
-  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 44
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 44
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 44
+  - norma_id: norm-es-2001-7022
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-2001-7022
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 3
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 3
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 3
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 4
+  - norma_id: norm-es-2001-7022
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 4
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 4
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 4
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - Art. 9
+  - norma_id: norm-es-2001-7022
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - Art. 9
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - Art. 9
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - Art. 9
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - D. Adicional segunda. Convalidación del módulo profesional de Formación y orientación
+      laboral aportando el título de Técnico Superior en Prevención de Riesgos Profesionales,
+      derivado de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md),
+      de 3 de octubre, de Ordenación General del Sistema Educativo.
+  - norma_id: norm-es-2001-7022
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - D. Adicional segunda. Convalidación del módulo profesional de Formación y orientación
+      laboral aportando el título de Técnico Superior en Prevención de Riesgos Profesionales,
+      derivado de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md),
+      de 3 de octubre, de Ordenación General del Sistema Educativo.
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - D. Adicional segunda. Convalidación del módulo profesional de Formación y orientación
+      laboral aportando el título de Técnico Superior en Prevención de Riesgos Profesionales,
+      derivado de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md),
+      de 3 de octubre, de Ordenación General del Sistema Educativo.
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - D. Adicional segunda. Convalidación del módulo profesional de Formación y orientación
+      laboral aportando el título de Técnico Superior en Prevención de Riesgos Profesionales,
+      derivado de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md),
+      de 3 de octubre, de Ordenación General del Sistema Educativo.
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - D. Adicional tercera. Convalidación del módulo profesional de Formación y Orientación
+      Laboral.
+  - norma_id: norm-es-rd-39-1997
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - D. Adicional tercera. Convalidación del módulo profesional de Formación y Orientación
+      Laboral.
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - D. Adicional tercera. Convalidación del módulo profesional de Formación y Orientación
+      Laboral.
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - D. Adicional tercera. Convalidación del módulo profesional de Formación y Orientación
+      Laboral.
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - D. Transitoria segunda. Convalidación de módulos de Formación y orientación
+      laboral de títulos amparados en la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md),
+      de 3 de octubre, de Ordenación General del Sistema Educativo.
+  - norma_id: norm-es-2001-7022
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - D. Transitoria segunda. Convalidación de módulos de Formación y orientación
+      laboral de títulos amparados en la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md),
+      de 3 de octubre, de Ordenación General del Sistema Educativo.
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - D. Transitoria segunda. Convalidación de módulos de Formación y orientación
+      laboral de títulos amparados en la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md),
+      de 3 de octubre, de Ordenación General del Sistema Educativo.
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - D. Transitoria segunda. Convalidación de módulos de Formación y orientación
+      laboral de títulos amparados en la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md),
+      de 3 de octubre, de Ordenación General del Sistema Educativo.
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - D. Derogatoria única. Derogación de normas.
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - D. Derogatoria única. Derogación de normas.
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - D. Derogatoria única. Derogación de normas.
+  - norma_id: norm-es-2001-7022
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - D. Derogatoria única. Derogación de normas.
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - D. Final cuarta. Entrada en vigor.
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - D. Final cuarta. Entrada en vigor.
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - D. Final cuarta. Entrada en vigor.
+  cita:
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2001-7022
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-l-39-2015
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 21
+    - Art. 24
+  - norma_id: norm-es-l-39-2015
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - Art. 11
+    articulos_destino:
+    - Art. 121
+    - Art. 122
+  - norma_id: norm-es-l-39-2015
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - Art. 11
+    articulos_destino:
+    - Art. 125
+  - norma_id: norm-es-2001-7022
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - D. Adicional segunda. Convalidación del módulo profesional de Formación y orientación
+      laboral aportando el título de Técnico Superior en Prevención de Riesgos Profesionales,
+      derivado de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md),
+      de 3 de octubre, de Ordenación General del Sistema Educativo.
+    disposiciones_destino:
+    - D. Adicional segunda
+  - norma_id: norm-es-2001-7022
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - D. Transitoria segunda. Convalidación de módulos de Formación y orientación
+      laboral de títulos amparados en la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md),
+      de 3 de octubre, de Ordenación General del Sistema Educativo.
+    disposiciones_destino:
+    - D. Transitoria segunda
+  - norma_id: norm-es-2001-7022
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - D. Final cuarta. Entrada en vigor.
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - D. Final cuarta. Entrada en vigor.
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - D. Final cuarta. Entrada en vigor.
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - D. Final cuarta. Entrada en vigor.
+  fundamentado_en:
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - D. Final segunda. Título competencial.
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - D. Final cuarta. Entrada en vigor.
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - D. Final cuarta. Entrada en vigor.
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo II. Procedimiento para las convalidaciones.
+    seccion_origen: Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
+    articulos_origen:
+    - D. Final cuarta. Entrada en vigor.
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2021-979
+  - norma_id: norm-es-ce-1978
   - norma_id: norm-es-rd-39-1997
   fundamento_de:
   - norma_id: norm-es-2021-979
   - norma_id: norm-es-2024-10684
   - norma_id: norm-es-2024-10685
   - norma_id: norm-es-rd-659-2023
-  - norma_id: norm-can-res-boc-2024-226-44
-  - norma_id: norm-can-res-boc-2026-039-103
-  - norma_id: norm-can-res-032
-  - norma_id: norm-can-res-boc-2025-047-108
-  - norma_id: norm-can-res-030
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-rd-39-1997
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2021-979
   - norma_id: norm-es-2010-12201
 ---
+
 # Real Decreto 1085/2020, de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo.
 
 ## Preámbulo
@@ -18545,3 +18841,77 @@ Solicitud de convalidación de módulos de formación profesional
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2021-979**](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**BOE-A-2021-979**](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 44)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 44)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 44)
+- **Modifica**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Modifica**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo I, Art. 2)*
+- **Modifica**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) desde *(Capítulo I, Art. 2)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo I, Art. 2)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo I, Art. 2)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo I, Art. 3)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo I, Art. 3)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo I, Art. 3)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 4) desde *(Capítulo II. Procedimiento para las convalidaciones., Art. 9)*
+- **Modifica**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (Art. 4) desde *(Capítulo II. Procedimiento para las convalidaciones., Art. 9)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 4) desde *(Capítulo II. Procedimiento para las convalidaciones., Art. 9)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 4) desde *(Capítulo II. Procedimiento para las convalidaciones., Art. 9)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo II. Procedimiento para las convalidaciones., Art. 9)*
+- **Modifica**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) desde *(Capítulo II. Procedimiento para las convalidaciones., Art. 9)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo II. Procedimiento para las convalidaciones., Art. 9)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo II. Procedimiento para las convalidaciones., Art. 9)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo II. Procedimiento para las convalidaciones., D. Adicional segunda. Convalidación del módulo profesional de Formación y orientación laboral aportando el título de Técnico Superior en Prevención de Riesgos Profesionales, derivado de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo.)*
+- **Modifica**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) desde *(Capítulo II. Procedimiento para las convalidaciones., D. Adicional segunda. Convalidación del módulo profesional de Formación y orientación laboral aportando el título de Técnico Superior en Prevención de Riesgos Profesionales, derivado de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo II. Procedimiento para las convalidaciones., D. Adicional segunda. Convalidación del módulo profesional de Formación y orientación laboral aportando el título de Técnico Superior en Prevención de Riesgos Profesionales, derivado de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo II. Procedimiento para las convalidaciones., D. Adicional segunda. Convalidación del módulo profesional de Formación y orientación laboral aportando el título de Técnico Superior en Prevención de Riesgos Profesionales, derivado de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo II. Procedimiento para las convalidaciones., D. Adicional tercera. Convalidación del módulo profesional de Formación y Orientación Laboral.)*
+- **Modifica**: [**RD39_1997 Reglamento de los Servicios de Prevencion**](../02_gestion_y_administracion_centros/RD39_1997_aprueba_reglamento_servicios_prevencion.md) desde *(Capítulo II. Procedimiento para las convalidaciones., D. Adicional tercera. Convalidación del módulo profesional de Formación y Orientación Laboral.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo II. Procedimiento para las convalidaciones., D. Adicional tercera. Convalidación del módulo profesional de Formación y Orientación Laboral.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo II. Procedimiento para las convalidaciones., D. Adicional tercera. Convalidación del módulo profesional de Formación y Orientación Laboral.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo II. Procedimiento para las convalidaciones., D. Transitoria segunda. Convalidación de módulos de Formación y orientación laboral de títulos amparados en la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo.)*
+- **Modifica**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) desde *(Capítulo II. Procedimiento para las convalidaciones., D. Transitoria segunda. Convalidación de módulos de Formación y orientación laboral de títulos amparados en la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo II. Procedimiento para las convalidaciones., D. Transitoria segunda. Convalidación de módulos de Formación y orientación laboral de títulos amparados en la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo II. Procedimiento para las convalidaciones., D. Transitoria segunda. Convalidación de módulos de Formación y orientación laboral de títulos amparados en la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo II. Procedimiento para las convalidaciones., D. Derogatoria única. Derogación de normas.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo II. Procedimiento para las convalidaciones., D. Derogatoria única. Derogación de normas.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo II. Procedimiento para las convalidaciones., D. Derogatoria única. Derogación de normas.)*
+- **Modifica**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) desde *(Capítulo II. Procedimiento para las convalidaciones., D. Derogatoria única. Derogación de normas.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo II. Procedimiento para las convalidaciones., D. Final cuarta. Entrada en vigor.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo II. Procedimiento para las convalidaciones., D. Final cuarta. Entrada en vigor.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo II. Procedimiento para las convalidaciones., D. Final cuarta. Entrada en vigor.)*
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149)
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Capítulo II. Procedimiento para las convalidaciones., D. Final segunda. Título competencial.)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo II. Procedimiento para las convalidaciones., D. Final cuarta. Entrada en vigor.)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo II. Procedimiento para las convalidaciones., D. Final cuarta. Entrada en vigor.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo II. Procedimiento para las convalidaciones., D. Final cuarta. Entrada en vigor.)*
+- **Fundamentado en**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Fundamentado en**: [**BOE-A-2021-979**](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**RD39_1997 Reglamento de los Servicios de Prevencion**](../02_gestion_y_administracion_centros/RD39_1997_aprueba_reglamento_servicios_prevencion.md)
+- **Fundamento de**: [**BOE-A-2021-979**](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md)
+- **Fundamento de**: [**BOE-A-2024-10684**](./RD499_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**BOE-A-2024-10685**](./RD500_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) desde *(Capítulo I, Art. 2)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 21, Art. 24) desde *(Capítulo II. Procedimiento para las convalidaciones., Art. 10)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 121, Art. 122) desde *(Capítulo II. Procedimiento para las convalidaciones., Art. 11)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 125) desde *(Capítulo II. Procedimiento para las convalidaciones., Art. 11)*
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (D. Adicional segunda) desde *(Capítulo II. Procedimiento para las convalidaciones., D. Adicional segunda. Convalidación del módulo profesional de Formación y orientación laboral aportando el título de Técnico Superior en Prevención de Riesgos Profesionales, derivado de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo.)*
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (D. Transitoria segunda) desde *(Capítulo II. Procedimiento para las convalidaciones., D. Transitoria segunda. Convalidación de módulos de Formación y orientación laboral de títulos amparados en la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo.)*
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) desde *(Capítulo II. Procedimiento para las convalidaciones., D. Final cuarta. Entrada en vigor.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo II. Procedimiento para las convalidaciones., D. Final cuarta. Entrada en vigor.)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo II. Procedimiento para las convalidaciones., D. Final cuarta. Entrada en vigor.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo II. Procedimiento para las convalidaciones., D. Final cuarta. Entrada en vigor.)*

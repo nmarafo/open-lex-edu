@@ -24,7 +24,13 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2014-133-3038.
 anexos_extraidos_pdf: true
 ocr_procesado: true
 fecha_disposicion: '2014-06-27'
+relaciones:
+  cita:
+  - norma_id: norm-es-1999-23750
+    articulos_origen:
+    - D. Adicional Primera. Fichero de datos de carácter personal.
 ---
+
 # Orden de 27 de junio de 2014, por la que se regula la gestión del conflicto de convivencia por el procedimiento de mediación para gestionar conflictos surgidos en los centros educativos de Canarias.
 
 ## Preámbulo
@@ -514,3 +520,10 @@ observaciones.
 CONTENIDO DE LA INSCRIPCIÓN EN EL REGISTRO DE LA POLICÍA CANARIA
 
 ## Anexo.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Cita a**: [**BOE-A-1999-23750**](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) desde *(D. Adicional Primera. Fichero de datos de carácter personal.)*

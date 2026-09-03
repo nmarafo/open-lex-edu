@@ -33,9 +33,24 @@ tags:
 - plantillas-docentes
 relaciones:
   desarrolla:
+  - norma_id: norm-es-c-1978
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-rd-132-2010
+  modifica:
+  - norma_id: norm-can-lo-1-2018
+    articulos_destino:
+    - Art. 32
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 32
+  cita:
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo II. De los órganos de gobierno de los colectivos de
+      escuelas rurales.
+    seccion_origen: Sección 2.ª. Del Equipo Pedagógico.
+    articulos_origen:
+    - Art. 18
   fundamentado_en:
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-lo-2-2006
@@ -51,12 +66,13 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '82'
+  - norma_id: '82'
   - norma_id: norm-es-1984-17387
 fuente_pdf_oficial: https://www.gobiernodecanarias.org/boc/1999/079/boc-1999-079-007.pdf
 anexos_extraidos_pdf: true
 ocr_procesado: true
 ---
+
 # Decreto 109/1999, de 25 de mayo, por el que se regula el régimen de creación y funcionamiento de los Colectivos de Escuelas Rurales.
 
 ## Preámbulo
@@ -296,3 +312,26 @@ Deportes para dictar cuantas disposiciones sean necesarias para el desarrollo de
 
 • Aviso Legal
 • Sugerencias y Reclamaciones
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-c-1978`
+- **Desarrolla**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
+- **Modifica**: [**LO1_2018 Estatuto de Autonomia de Canarias**](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md) (Art. 32)
+- **Modifica**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 32)
+- **Fundamentado en**: [**BOE-A-1984-17387**](../../../estatal/01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamento de**: [**Resolucion BOC 90**](../04_organizacion_escolar_y_funcionamiento/R15_6_2026_convoca_proceso_aprueba_calendario_renovacion_parcial.md)
+- **Fundamento de**: [**Resolucion BOC 95**](../04_organizacion_escolar_y_funcionamiento/R2_12_2025_convoca_procedimiento_seleccion_directores_directoras_centros.md)
+- **Fundamento de**: [**Resolucion BOC 24**](./R13_3_2015_dictan_instrucciones_oferta_educativa_recursos_escuelas.md)
+- **Fundamento de**: [**Resolucion BOC 23**](./R10_6_2021_universidades_deportes_establece_composicion_comision_seguimiento.md)
+- **Fundamento de**: [**Resolucion BOC 91**](../04_organizacion_escolar_y_funcionamiento/R20_6_2024_resoluci_n_junio.md)
+- **Fundamento de**: [**Resolucion BOC 139**](../08_personal_docente/R24_2_2026_dictan_instrucciones_regulacion_periodo_vacacional_regimen.md)
+- **Cita a**: `norm-es-c-1978` desde *(Capítulo II. De los órganos de gobierno de los colectivos de escuelas rurales., Art. 18)*

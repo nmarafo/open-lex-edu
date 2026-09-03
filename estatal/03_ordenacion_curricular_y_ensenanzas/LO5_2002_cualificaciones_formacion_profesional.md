@@ -23,8 +23,60 @@ tags:
 - formacion-profesional
 - orientacion-educativa
 relaciones:
-  fundamentado_en:
+  cita:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 27
+    - Art. 40
   - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 3
+  - norma_id: norm-es-l-53-1984
+    titulo_origen: Título IV
+    articulos_origen:
+    - D. Adicional primera. Habilitación del profesorado de formación profesional.
+    articulos_destino:
+    - Art. 3
+  deroga:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 36
+  - norma_id: norm-es-2001-7022
+  modifica:
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 30
+    - Art. 32
+  fundamentado_en:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-2001-7022
+    titulo_origen: Título IV
+    articulos_origen:
+    - D. Adicional primera. Habilitación del profesorado de formación profesional.
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    articulos_origen:
+    - D. Final primera. Título competencial.
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    articulos_origen:
+    - D. Final primera. Título competencial.
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Adicional cuarta
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-l-31-1995
   - norma_id: norm-es-l-53-1984
@@ -44,17 +96,15 @@ relaciones:
   - norma_id: norm-es-rd-217-2022
   - norma_id: norm-es-rd-659-2023
   - norma_id: norm-es-rdl-2-2015
-  - norma_id: norm-can-res-boc-2026-039-103
-  - norma_id: norm-can-res-boc-2019-143-74
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-l-53-1984
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-lo-8-1985
 ---
+
 # Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
 
 ## Preámbulo
@@ -384,3 +434,38 @@ JOSÉ MARÍA AZNAR LÓPEZ
 - [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md)
 - [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 - [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 30, Art. 32) desde *(Título Preliminar, Art. 5)*
+- **Deroga**: `norm-es-c-1978` (Art. 36)
+- **Deroga**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Título II, Art. 10)*
+- **Fundamentado en**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) desde *(Título IV, D. Adicional primera. Habilitación del profesorado de formación profesional.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Título IV, D. Final primera. Título competencial.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, D. Adicional cuarta) desde *(Título IV, D. Final primera. Título competencial.)*
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md)
+- **Fundamentado en**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md)
+- **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
+- **Fundamento de**: [**BOE-A-2005-21534**](./RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md)
+- **Fundamento de**: [**BOE-A-2007-19326**](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md)
+- **Fundamento de**: [**BOE-A-2010-13564**](./RD935_2010_establecen_titulos_tecnico_deportivo_vela_aparejo.md)
+- **Fundamento de**: [**BOE-A-2011-12632**](./RD878_2011_establece_titulo_tecnico_deportivo_salvamento_socorrismo.md)
+- **Fundamento de**: [**BOE-A-2013-10219**](./RD669_2013_establece_titulo_tecnico_deportivo_atletismo_fijan.md)
+- **Fundamento de**: [**BOE-A-2014-5591**](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md)
+- **Fundamento de**: [**BOE-A-2015-9462**](./RD774_2015_establecen_seis_titulos_formacion_profesional_basica.md)
+- **Fundamento de**: [**BOE-A-2022-1274**](./RD62_2022_flexibilizacion_requisitos_exigibles_impartir_ofertas_formacion.md)
+- **Fundamento de**: [**BOE-A-2025-2039**](./RD69_2025_desarrollan_elementos_integrantes_instrumentos_gestion_sistema.md)
+- **Fundamento de**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
+- **Fundamento de**: [**RD217_2022 Ordenacion y Ensenanzas Minimas de la ESO**](./RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md)
+- **Fundamento de**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **Fundamento de**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
+- **Cita a**: `norm-es-c-1978` (Art. 27, Art. 40)
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Cita a**: `norm-es-c-1978` desde *(Título Preliminar, Art. 3)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (Art. 3) desde *(Título IV, D. Adicional primera. Habilitación del profesorado de formación profesional.)*

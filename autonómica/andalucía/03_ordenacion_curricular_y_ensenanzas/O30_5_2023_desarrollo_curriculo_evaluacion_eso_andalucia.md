@@ -27,18 +27,38 @@ tags:
 - titulacion_eso
 - andalucia
 relaciones:
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 16
+    - Art. 35
+  - norma_id: norm-es-l-40-2015
+    articulos_destino:
+    - Art. 19
+    - Art. 15
+    - Art. 88
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 123
+    - Art. 124
+    - Art. 10
+    - Art. 46
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 16
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
+  cita:
+  - norma_id: norm-es-l-40-2015
+    articulos_destino:
+    - Art. 23
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 ---
+
 # Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la etapa de Educación Secundaria Obligatoria en la Comunidad Autónoma de Andalucía, se regulan determinados aspectos de la atención a la diversidad y se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado.
 
 ## Preámbulo
-
-CONSEJERÍA DE DESARROLLO EDUCATIVO Y FORMACIÓN PROFESIONAL Resolución de 25 de mayo de 2023, de la Dirección General de Tecnologías Avanzadas y Transformación Educativa, por la que se convocan los IX Premios Flamenco en el Aula a la elaboración de materiales curriculares y recursos didácticos, y al reconocimiento de experiencias y buenas prácticas docentes, correspondientes al curso académico 2022/2023. Con el fin de dar público testimonio de admiración y reconocimiento a aquellas personas, docentes, alumnado o cualquier colectivo que, formando parte de la comunidad educativa, hayan destacado en su compromiso con el fomento del Flamenco en el sistema educativo andaluz, la Consejería de Desarrollo Educativo y Formación Profesional ha decidido convocar los Premios «Flamenco en el Aula» en consonancia con los objetivos de la Ley 4/2023, de 18 de abril, Andaluza del Flamenco y la Orden de 7 de mayo de 2014, por la que se establecen medidas para la inclusión del Flamenco en el sistema educativo andaluz. Tal como se recoge en el Título IV artículo 23 de la Ley 4/2023, de 18 de abril, Andaluza del Flamenco sobre la presencia del flamenco en el sistema educativo andaluz, la administración educativa incluirá el aprendizaje y el conocimiento del flamenco en las distintas etapas de la enseñanza no universitaria, mediante la inclusión de saberes básicos y el desarrollo de situaciones de aprendizaje relacionadas con el flamenco ya sea dentro del horario lectivo o bien como actividades complementarias y extraescolares, contando para estas últimas con artistas y profesionales del sector del flamenco. Del mismo modo la presencia del flamenco desarrollada en este artículo se realizará como parte de asignaturas, actividades e investigaciones sobre la identidad cultural e histórica de Andalucía. En el Capítulo V de la Orden de 7 de mayo de 2014, por la que se establecen medidas para la inclusión del Flamenco en el sistema educativo andaluz, se establecen las disposiciones comunes a los Premios «Flamenco en el Aula», artículos 25 a 31. En la Sección 2.ª, artículos 32 a 37, se establecen las bases específicas reguladoras de un certamen para el fomento de la elaboración de materiales y recursos didácticos que impulsen el conocimiento y la inclusión del Flamenco en el sistema educativo de Andalucía, correspondientes al Premio «Flamenco en el Aula» a la elaboración de materiales curriculares y recursos didácticos. Asimismo, en la Sección 3.ª, artículos 38 a 42, se establecen las bases específicas reguladoras de un certamen para reconocer aquellos proyectos educativos basados en experiencias y buenas prácticas docentes que hayan tenido un desarrollo de al menos durante un curso escolar y hayan contribuido a acercar el Flamenco al alumnado a la vez que desarrollan competencias básicas en las diferentes áreas curriculares, correspondientes al Premio «Flamenco en el Aula» al reconocimiento de experiencias y buenas prácticas docentes. En el artículo 27 se dispone que por resolución de la Dirección General competente en materia de innovación educativa se procederá a las convocatorias anuales de los Premios «Flamenco en el Aula», en cada una de sus modalidades, que serán publicadas en el Boletín Oficial de la Junta de Andalucía, así como en la sede electrónica de la Consejería competente en materia de educación y en el Portal Educativo del Flamenco. Al objeto de llevar a cabo la convocatoria de los Premios «Flamenco en el Aula» a la elaboración de materiales curriculares y recursos didácticos y al reconocimiento de experiencias y buenas prácticas docentes, correspondiente al curso 2022/2023, y de conformidad con el artículo 27 de la Orden de 7 de mayo de 2014, por la que se
 
 establecen medidas para la inclusión del flamenco en el sistema educativo andaluz, esta Dirección General de Tecnologías Avanzadas y Transformación Educativa. R E S U E L V E
 
@@ -88,9 +108,6 @@ c) **Un funcionario o funcionaria, que actuará como secretario o secretaria.** 
 
 1. La persona titular de la Dirección General competente en materia de innovación educativa, a la vista de las propuestas del jurado, dictará las correspondientes resoluciones, elevando a definitivo y haciendo público el contenido de los fallos del jurado para cada modalidad del Premio.
 
-2. Las resoluciones se publicarán en el Boletín Oficial de la Junta de Andalucía y, a efectos meramente informativos, en la página web de la Consejería competente en materia de educación y en el Portal Educativo del Flamenco.
-
-3. Las resoluciones agotarán la vía administrativa, pudiendo interponerse contra las mismas, potestativamente, recurso de reposición ante el mismo órgano directivo que las hubiese dictado, en el plazo de un mes, desde el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía, de conformidad con los artículos 123 y 124 de la Ley 39/2015 de 1 de octubre, o recurso contencioso-administrativo, en el plazo de dos meses, ante la Sala de lo Contencioso-Administrativo competente del Tribunal Superior de Justicia de Andalucía, conforme a lo establecido en los artículos 10 y 46.1 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa.
 Octavo. Bases específicas del certamen para el fomento de la elaboración de materiales y recursos didácticos que impulsen el conocimiento y la inclusión del Flamenco en el sistema educativo de Andalucía.
 
 1. Participantes.
@@ -178,8 +195,6 @@ d) Los criterios j), k), l) y m) supondrán en conjunto el 15% de la valoración
 
 #### Décimo. Efectos de la presente resolución.
 
-La presente resolución surtirá efecto el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. Contra la presente resolución, que pone fin a la vía administrativa, cabe interponer, recurso de reposición ante el mismo órgano directivo que las hubiese dictado, en el plazo de un mes, desde el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía, de conformidad con los artículos 123 y 124 de la Ley 39/2015 de 1 de octubre, o recurso contencioso-administrativo, en el plazo de dos meses, ante la Sala de lo Contencioso-Administrativo competente del Tribunal Superior de Justicia de Andalucía, conforme a lo establecido en los artículos 10 y 46.1 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa. Sevilla, 25 de mayo de 2023.- El Director General, Antonio Segura Marrero.
-
 Consejería de Desarrollo Educativo y Formación Profesional Dirección General de Tecnologías Avanzadas y Transformación Educativa SOLICITUD (Página de PREMIO "FLAMENCO EN EL AULA" A LA ELABORACIÓN DE MATERIALES CURRICULARES Y RECURSOS DIDACTICOS. (Código procedimiento: 6451) Resolución de de de (BOJA nº de fecha
 
 1. DATOS DEL MATERIAL CURRICULAR O RECURSO DIDÁCTICO Y DE LA PERSONA REPRESENTANTE
@@ -211,9 +226,7 @@ CORREO ELECTRÓNICO:
 ILMO./A. SR./A. DIRECTOR/A GENERAL DE TECNOLOGÍAS AVANZADAS Y TRANSFORMACIÓN EDUCATIVA Código Directorio Común de Unidades Orgánicas y Oficinas:
 002235/6
 
-## Anexo I
-
-A 0 1 0 2 5 7 9 4
+## Anexo I. A 0 1 0 2 5 7 9 4
 
 (Página de INFORMACIÓN BÁSICA SOBRE PROTECCIÓN DE DATOS En cumplimiento de lo dispuesto en el Reglamento General de Protección de Datos, le informamos que:
 a) El Responsable del tratamiento de sus datos personales es la Dirección General de Tecnologías Avanzadas y Transformación Educativa cuya dirección es c/ Juan Antonio de Vizarrón, s/n. Edificio Torretriana. Isla de la Cartuja. 41092 Sevilla y correo electrónico: dgtec.cdefp@juntadeandalucia.es
@@ -223,9 +236,7 @@ d) Puede usted ejercer sus derechos de acceso, rectificación, supresión, porta
 e) No están previstas cesiones de datos, salvo a posibles encargados de tratamiento por cuenta del responsable del mismo, o de las derivadas de obligación legal. La información adicional detallada se encuentra disponible en la siguiente dirección electrónica:
 002235/6
 
-## Anexo I
-
-Consejería de Desarrollo Educativo y Formación Profesional Dirección General de Tecnologías Avanzadas y Transformación Educativa SOLICITUD (Página de PREMIO "FLAMENCO EN EL AULA" AL RECONOCIMIENTO DE EXPERIENCIAS Y BUENAS PRÁCTICAS DOCENTES. (Código procedimiento: 6451) Resolución de de de (BOJA nº de fecha
+## Anexo I. Consejería de Desarrollo Educativo y Formación Profesional Dirección General de Tecnologías Avanzadas y Transformación Educativa SOLICITUD (Página de PREMIO "FLAMENCO EN EL AULA" AL RECONOCIMIENTO DE EXPERIENCIAS Y BUENAS PRÁCTICAS DOCENTES. (Código procedimiento: 6451) Resolución de de de (BOJA nº de fecha
 
 1. DATOS DE LA CANDIDATURA PROPUESTA Y DE LA PERSONA QUE PRESENTA LA SOLICITUD Candidatura al Premio "Flamenco en el aula" al reconocimiento de experiencias y buenas prácticas docentes:
 CENTRO DOCENTE CÓDIGO:
@@ -262,9 +273,7 @@ FAX:
 CORREO ELECTRÓNICO:
 002238/6
 
-## Anexo II
-
-(Página de
+## Anexo II. (Página de
 
 2. DOCUMENTACIÓN Ficha descriptiva con las características más relevantes del trabajo. Memoria justificativa y desarrollo de la actividad Documentos de apoyo a la candidatura por parte de otras entidades en el caso de existir
 
@@ -279,6 +288,18 @@ d) Puede usted ejercer sus derechos de acceso, rectificación, supresión, porta
 e) No están previstas cesiones de datos, salvo a posibles encargados de tratamiento por cuenta del responsable del mismo, o de las derivadas de obligación legal. La información adicional detallada se encuentra disponible en la siguiente dirección electrónica:
 002238/6
 
-## Anexo II
+## Anexo II. A 0 1 0 2 5 7 9 4
 
-A 0 1 0 2 5 7 9 4
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 16, Art. 35)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 19, Art. 15, Art. 88)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 123, Art. 124, Art. 10, Art. 46)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 16)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 23)

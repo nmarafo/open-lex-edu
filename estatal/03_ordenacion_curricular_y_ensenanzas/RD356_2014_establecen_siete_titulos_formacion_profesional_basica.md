@@ -23,8 +23,62 @@ tags:
 - fp-basica
 - titulacion
 relaciones:
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 39
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 39
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 39
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2016-3229
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 39
+    disposiciones_destino:
+    - D. Final cuarta
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 39
+    disposiciones_destino:
+    - D. Final cuarta
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 39
+    disposiciones_destino:
+    - D. Final cuarta
   fundamentado_en:
   - norma_id: norm-es-2002-12018
+    articulos_destino:
+    - Art. 10
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 10
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final primera. Título competencial.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2016-3229
   - norma_id: norm-es-2021-20113
@@ -32,18 +86,26 @@ relaciones:
   - norma_id: norm-es-l-31-1995
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-rd-39-1997
+  cita:
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+  - norma_id: norm-es-rd-39-1997
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
   fundamento_de:
   - norma_id: norm-es-2024-10683
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-rd-39-1997
   - norma_id: norm-es-2002-12018
   - norma_id: norm-es-2016-3229
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
 ---
+
 # Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional.
 
 ## Preámbulo
@@ -23154,3 +23216,33 @@ Este título tendrá preferencia para la admisión a todos los títulos de grado
 - [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 39)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 39)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 39)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 3)
+- **Modifica**: [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md) (Art. 3)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 3)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 3)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 39, D. Final cuarta)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 39, D. Final cuarta)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 39, D. Final cuarta)
+- **Fundamentado en**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md) (Art. 10, Art. 149)
+- **Fundamentado en**: `norm-es-c-1978` (Art. 10, Art. 149)
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27)
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(D. Final primera. Título competencial.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**RD39_1997 Reglamento de los Servicios de Prevencion**](../02_gestion_y_administracion_centros/RD39_1997_aprueba_reglamento_servicios_prevencion.md)
+- **Fundamento de**: [**BOE-A-2024-10683**](./RD498_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Cita a**: `norm-es-c-1978` desde *(D. Final segunda. Entrada en vigor.)*
+- **Cita a**: [**RD39_1997 Reglamento de los Servicios de Prevencion**](../02_gestion_y_administracion_centros/RD39_1997_aprueba_reglamento_servicios_prevencion.md) desde *(D. Final segunda. Entrada en vigor.)*

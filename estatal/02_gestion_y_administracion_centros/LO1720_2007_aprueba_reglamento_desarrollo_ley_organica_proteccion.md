@@ -24,25 +24,521 @@ tags:
 - proteccion-menores
 - rgpd
 relaciones:
-  fundamentado_en:
+  cita:
   - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-1999-23750
+    articulos_origen:
+    - Art. 1
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-1999-23750
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-1999-23750
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título VI. Transferencias internacionales de datos.
+    capitulo_origen: Capítulo I. Disposiciones generales.
+    articulos_origen:
+    - Art. 65
+    articulos_destino:
+    - Art. 65
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título IX. Procedimientos tramitados por la Agencia Española de
+      Protección de Datos.
+    capitulo_origen: Capítulo III. Procedimientos relativos al ejercicio de la potestad
+      sancionadora.
+    seccion_origen: Sección Tercera. Procedimiento Sancionador.
+    articulos_origen:
+    - Art. 128
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título IX. Procedimientos tramitados por la Agencia Española de
+      Protección de Datos.
+    capitulo_origen: Capítulo VII. Otros procedimientos tramitados por la Agencia
+      Española de Protección de Datos.
+    seccion_origen: Sección Primera. Procedimiento de exención del deber de información
+      al interesado
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título IX. Procedimientos tramitados por la Agencia Española de
+      Protección de Datos.
+    capitulo_origen: Capítulo VII. Otros procedimientos tramitados por la Agencia
+      Española de Protección de Datos.
+    seccion_origen: Sección Primera. Procedimiento de exención del deber de información
+      al interesado
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título IX. Procedimientos tramitados por la Agencia Española de
+      Protección de Datos.
+    capitulo_origen: Capítulo VII. Otros procedimientos tramitados por la Agencia
+      Española de Protección de Datos.
+    seccion_origen: Sección Primera. Procedimiento de exención del deber de información
+      al interesado
+    articulos_origen:
+    - Art. 7
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Calidad de los datos.
+    articulos_origen:
+    - Art. 8
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Calidad de los datos.
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Calidad de los datos.
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 7
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Calidad de los datos.
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 7
+    - Art. 8
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Consentimiento para el tratamiento de los datos
+      y deber de información.
+    seccion_origen: Sección 1. ª Obtención del consentimiento del afectado
+    articulos_origen:
+    - Art. 14
+    articulos_destino:
+    - Art. 5
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Consentimiento para el tratamiento de los datos
+      y deber de información.
+    seccion_origen: Sección 1. ª Obtención del consentimiento del afectado
+    articulos_origen:
+    - Art. 17
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Consentimiento para el tratamiento de los datos
+      y deber de información.
+    seccion_origen: Sección 1. ª Obtención del consentimiento del afectado
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 16
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Consentimiento para el tratamiento de los datos
+      y deber de información.
+    seccion_origen: Sección 2. ª Deber de información al interesado
+    articulos_origen:
+    - Art. 18
+    articulos_destino:
+    - Art. 5
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. Encargado del tratamiento.
+    articulos_origen:
+    - Art. 20
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. Encargado del tratamiento.
+    articulos_origen:
+    - Art. 20
+    articulos_destino:
+    - Art. 12
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título III
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 24
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título III
+    capitulo_origen: Capítulo II. Derecho de acceso.
+    articulos_origen:
+    - Art. 29
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título III
+    capitulo_origen: Capítulo II. Derecho de acceso.
+    articulos_origen:
+    - Art. 30
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. Derechos de rectificación y cancelación.
+    articulos_origen:
+    - Art. 31
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. Derechos de rectificación y cancelación.
+    articulos_origen:
+    - Art. 32
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. Derechos de rectificación y cancelación.
+    articulos_origen:
+    - Art. 32
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. Derechos de rectificación y cancelación.
+    articulos_origen:
+    - Art. 33
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título III
+    capitulo_origen: Capítulo IV. Derecho de oposición.
+    articulos_origen:
+    - Art. 35
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I. Ficheros de información sobre solvencia patrimonial
+      y crédito.
+    seccion_origen: Sección 1. ª Disposiciones generales
+    articulos_origen:
+    - Art. 37
+    articulos_destino:
+    - Art. 29
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I. Ficheros de información sobre solvencia patrimonial
+      y crédito.
+    seccion_origen: Sección 1. ª Disposiciones generales
+    articulos_origen:
+    - Art. 40
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I. Ficheros de información sobre solvencia patrimonial
+      y crédito.
+    seccion_origen: Sección 1. ª Disposiciones generales
+    articulos_origen:
+    - Art. 43
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo II. Tratamientos para actividades de publicidad y prospección
+      comercial.
+    articulos_origen:
+    - Art. 45
+    articulos_destino:
+    - Art. 3
+    - Art. 7
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo II. Tratamientos para actividades de publicidad y prospección
+      comercial.
+    articulos_origen:
+    - Art. 46
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo II. Tratamientos para actividades de publicidad y prospección
+      comercial.
+    articulos_origen:
+    - Art. 46
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo II. Tratamientos para actividades de publicidad y prospección
+      comercial.
+    articulos_origen:
+    - Art. 49
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo II. Tratamientos para actividades de publicidad y prospección
+      comercial.
+    articulos_origen:
+    - Art. 50
+    articulos_destino:
+    - Art. 5
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo II. Tratamientos para actividades de publicidad y prospección
+      comercial.
+    articulos_origen:
+    - Art. 51
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo II. Tratamientos para actividades de publicidad y prospección
+      comercial.
+    articulos_origen:
+    - Art. 51
+    articulos_destino:
+    - Art. 5
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. Notificación e inscripción de los ficheros de titularidad
+      pública o privada.
+    articulos_origen:
+    - Art. 60
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. Notificación e inscripción de los ficheros de titularidad
+      pública o privada.
+    articulos_origen:
+    - Art. 63
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo I
+    articulos_destino:
+    - Art. 65
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 66
+    articulos_destino:
+    - Art. 70
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 66
+    articulos_destino:
+    - Art. 34
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo II. Transferencias a estados que proporcionen un nivel
+      adecuado de protección.
+    articulos_origen:
+    - Art. 69
+    articulos_destino:
+    - Art. 37
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo III. Transferencias a Estados que no proporcionen un
+      nivel adecuado de protección.
+    articulos_origen:
+    - Art. 70
+    articulos_destino:
+    - Art. 37
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo III. Transferencias a Estados que no proporcionen un
+      nivel adecuado de protección.
+    articulos_origen:
+    - Art. 70
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título VII
+    articulos_origen:
+    - Art. 71
+    articulos_destino:
+    - Art. 32
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título VII
+    articulos_origen:
+    - Art. 71
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título VII
+    articulos_origen:
+    - Art. 73
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título VII
+    articulos_origen:
+    - Art. 74
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título VII
+    articulos_origen:
+    - Art. 75
+    articulos_destino:
+    - Art. 19
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título VII
+    articulos_origen:
+    - Art. 77
+    articulos_destino:
+    - Art. 32
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título VIII
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 81
+    articulos_destino:
+    - Art. 29
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título IX
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 116
+    articulos_destino:
+    - Art. 37
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título IX
+    capitulo_origen: Capítulo II. Procedimiento de tutela de los derechos de acceso,
+      rectificación, cancelación y oposición.
+    articulos_origen:
+    - Art. 117
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título IX
+    capitulo_origen: Capítulo III. Procedimientos relativos al ejercicio de la potestad
+      sancionadora.
+    seccion_origen: Sección 1. ª Disposiciones generales
+    articulos_origen:
+    - Art. 120
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título IX
+    capitulo_origen: Capítulo III. Procedimientos relativos al ejercicio de la potestad
+      sancionadora.
+    seccion_origen: Sección 1. ª Disposiciones generales
+    articulos_origen:
+    - Art. 121
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IX
+    capitulo_origen: Capítulo III. Procedimientos relativos al ejercicio de la potestad
+      sancionadora.
+    seccion_origen: Sección 1. ª Disposiciones generales
+    articulos_origen:
+    - Art. 121
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título IX
+    capitulo_origen: Capítulo III. Procedimientos relativos al ejercicio de la potestad
+      sancionadora.
+    seccion_origen: 'Sección 3. ª Procedimiento sancionador artículo 127 Iniciación
+      del procedimiento. Con carácter específico el acuerdo de inicio del procedimiento
+      sancionador deberá contener:'
+    articulos_origen:
+    - Art. 128
+    seccion_destino: Sección 4.ª
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título IX
+    capitulo_origen: Capítulo III. Procedimientos relativos al ejercicio de la potestad
+      sancionadora.
+    seccion_origen: 'Sección 3. ª Procedimiento sancionador artículo 127 Iniciación
+      del procedimiento. Con carácter específico el acuerdo de inicio del procedimiento
+      sancionador deberá contener:'
+    articulos_origen:
+    - Art. 129
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título IX
+    capitulo_origen: Capítulo V. Procedimientos relacionados con las transferencias
+      internacionales de datos.
+    seccion_origen: Sección 1. ª Procedimiento de autorización de transferencias internacionales
+      de datos
+    articulos_origen:
+    - Art. 137
+    articulos_destino:
+    - Art. 33
+    - Art. 70
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título IX
+    capitulo_origen: Capítulo VII. Otros procedimientos tramitados por la agencia
+      española de protección de datos.
+    seccion_origen: Sección 1. ª Procedimiento de exención del deber de información
+      al interesado
+    articulos_origen:
+    - Art. 153
+    articulos_destino:
+    - Art. 5
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título IX
+    capitulo_origen: Capítulo VII. Otros procedimientos tramitados por la agencia
+      española de protección de datos.
+    seccion_origen: Sección 1. ª Procedimiento de exención del deber de información
+      al interesado
+    articulos_origen:
+    - Art. 157
+  deroga:
+  - norma_id: norm-es-1999-23750
+  desarrolla:
+  - norma_id: norm-es-1999-23750
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-1999-23750
+    articulos_origen:
+    - Art. 1
+    titulo_destino: Título I
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título IX. Procedimientos tramitados por la Agencia Española de
+      Protección de Datos.
+    capitulo_origen: Capítulo VII. Otros procedimientos tramitados por la Agencia
+      Española de Protección de Datos.
+    seccion_origen: Sección Primera. Procedimiento de exención del deber de información
+      al interesado
+    articulos_origen:
+    - Art. 1
+    titulo_destino: Título IX
+    capitulo_destino: Capítulo III
+  fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final primera. Título competencial.
+    titulo_destino: Título I
+    articulos_destino:
+    - Art. 4
+    - Art. 52
+    - Art. 53
+    - Art. 149
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I. Ficheros de información sobre solvencia patrimonial
+      y crédito.
+    seccion_origen: Sección 1. ª Disposiciones generales
+    articulos_origen:
+    - Art. 37
+    articulos_destino:
+    - Art. 29
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título VIII
+    capitulo_origen: Capítulo II. Del documento de seguridad.
+    articulos_origen:
+    - Art. 88
+    articulos_destino:
+    - Art. 12
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-lo-3-2018
+  modifica:
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Consentimiento para el tratamiento de los datos
+      y deber de información.
+    seccion_origen: Sección 2. ª Deber de información al interesado
+    articulos_origen:
+    - Art. 19
+    articulos_destino:
+    - Art. 5
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título IX
+    capitulo_origen: Capítulo IV. Procedimientos relacionados con la inscripción o
+      cancelación de ficheros.
+    seccion_origen: Sección 1. ª Procedimiento de inscripción de la creación, modificación
+      o supresión de ficheros
+    articulos_origen:
+    - Art. 133
+  concordancia:
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I. Ficheros de información sobre solvencia patrimonial
+      y crédito.
+    seccion_origen: Sección 1. ª Disposiciones generales
+    articulos_origen:
+    - Art. 44
+    articulos_destino:
+    - Art. 29
   fundamento_de:
   - norma_id: norm-es-2011-17560
   - norma_id: norm-es-lo-3-2018
-  - norma_id: norm-can-res-boc-2018-086-122
-  - norma_id: norm-can-res-juriscan-72882-123
-  - norma_id: norm-can-d-114-2011
-  - norma_id: norm-can-res-juriscan-64838-121
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-l-39-2015
   articulos:
-  - '1'
-  - norma_id: norm-can-l-16-2003
+  - norma_id: '1'
   - norma_id: norm-es-1999-23750
 ---
+
 # Real Decreto 1720/2007, de 21 de diciembre, por el que se aprueba el Reglamento de desarrollo de la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal.
 
 ## Preámbulo
@@ -2401,3 +2897,85 @@ En lo no establecido en el capítulo III del título IX serán de aplicación a 
 - [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](./LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
 - [**L16_2003 Prevencion y Proteccion de Mujeres contra la Violencia de Genero**](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/L16_2003_prevencion_proteccion_integral_mujeres_contra_violencia.md)
 - [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Art. 1)*
+- **Desarrolla**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Título I, Art. 2) desde *(Art. 1)*
+- **Desarrolla**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Título IX, Capítulo III) desde *(Título IX. Procedimientos tramitados por la Agencia Española de Protección de Datos., Capítulo VII. Otros procedimientos tramitados por la Agencia Española de Protección de Datos., Art. 1)*
+- **Modifica**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 5) desde *(Título II, Capítulo II. Consentimiento para el tratamiento de los datos y deber de información., Art. 19)*
+- **Modifica**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título IX, Capítulo IV. Procedimientos relacionados con la inscripción o cancelación de ficheros., Art. 133)*
+- **Deroga**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md)
+- **Fundamentado en**: `norm-es-c-1978` (Título I, Art. 4, Art. 52, Art. 53, Art. 149) desde *(D. Final primera. Título competencial.)*
+- **Fundamentado en**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 29) desde *(Título IV, Capítulo I. Ficheros de información sobre solvencia patrimonial y crédito., Art. 37)*
+- **Fundamentado en**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 12) desde *(Título VIII, Capítulo II. Del documento de seguridad., Art. 88)*
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](./LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
+- **Fundamento de**: [**BOE-A-2011-17560**](../01_marco_normativo_general_y_organico/RD1495_2011_desarrolla_ley_reutilizacion_informacion_sector_publico.md)
+- **Fundamento de**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](./LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
+- **En concordancia con**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 29) desde *(Título IV, Capítulo I. Ficheros de información sobre solvencia patrimonial y crédito., Art. 44)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md)
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 2) desde *(Art. 1)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Art. 1)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(D. Final segunda. Entrada en vigor.)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 65) desde *(Título VI. Transferencias internacionales de datos., Capítulo I. Disposiciones generales., Art. 65)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título IX. Procedimientos tramitados por la Agencia Española de Protección de Datos., Capítulo III. Procedimientos relativos al ejercicio de la potestad sancionadora., Art. 128)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título IX. Procedimientos tramitados por la Agencia Española de Protección de Datos., Capítulo VII. Otros procedimientos tramitados por la Agencia Española de Protección de Datos., Art. 1)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 3) desde *(Título IX. Procedimientos tramitados por la Agencia Española de Protección de Datos., Capítulo VII. Otros procedimientos tramitados por la Agencia Española de Protección de Datos., Art. 7)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título IX. Procedimientos tramitados por la Agencia Española de Protección de Datos., Capítulo VII. Otros procedimientos tramitados por la Agencia Española de Protección de Datos., Art. 7)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título II, Capítulo I. Calidad de los datos., Art. 8)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 1) desde *(Título II, Capítulo I. Calidad de los datos., Art. 10)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 7) desde *(Título II, Capítulo I. Calidad de los datos., Art. 10)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 7, Art. 8) desde *(Título II, Capítulo I. Calidad de los datos., Art. 10)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 5) desde *(Título II, Capítulo II. Consentimiento para el tratamiento de los datos y deber de información., Art. 14)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título II, Capítulo II. Consentimiento para el tratamiento de los datos y deber de información., Art. 17)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 16) desde *(Título II, Capítulo II. Consentimiento para el tratamiento de los datos y deber de información., Art. 17)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 5) desde *(Título II, Capítulo II. Consentimiento para el tratamiento de los datos y deber de información., Art. 18)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título II, Capítulo III. Encargado del tratamiento., Art. 20)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 12) desde *(Título II, Capítulo III. Encargado del tratamiento., Art. 20)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título III, Capítulo I, Art. 24)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 18) desde *(Título III, Capítulo II. Derecho de acceso., Art. 29)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 18) desde *(Título III, Capítulo II. Derecho de acceso., Art. 30)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título III, Capítulo III. Derechos de rectificación y cancelación., Art. 31)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 18) desde *(Título III, Capítulo III. Derechos de rectificación y cancelación., Art. 32)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título III, Capítulo III. Derechos de rectificación y cancelación., Art. 32)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 18) desde *(Título III, Capítulo III. Derechos de rectificación y cancelación., Art. 33)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 18) desde *(Título III, Capítulo IV. Derecho de oposición., Art. 35)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 29) desde *(Título IV, Capítulo I. Ficheros de información sobre solvencia patrimonial y crédito., Art. 37)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título IV, Capítulo I. Ficheros de información sobre solvencia patrimonial y crédito., Art. 40)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título IV, Capítulo I. Ficheros de información sobre solvencia patrimonial y crédito., Art. 43)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 3, Art. 7) desde *(Título IV, Capítulo II. Tratamientos para actividades de publicidad y prospección comercial., Art. 45)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 6) desde *(Título IV, Capítulo II. Tratamientos para actividades de publicidad y prospección comercial., Art. 46)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título IV, Capítulo II. Tratamientos para actividades de publicidad y prospección comercial., Art. 46)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título IV, Capítulo II. Tratamientos para actividades de publicidad y prospección comercial., Art. 49)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 5) desde *(Título IV, Capítulo II. Tratamientos para actividades de publicidad y prospección comercial., Art. 50)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título IV, Capítulo II. Tratamientos para actividades de publicidad y prospección comercial., Art. 51)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 5) desde *(Título IV, Capítulo II. Tratamientos para actividades de publicidad y prospección comercial., Art. 51)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título V, Capítulo II. Notificación e inscripción de los ficheros de titularidad pública o privada., Art. 60)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título V, Capítulo II. Notificación e inscripción de los ficheros de titularidad pública o privada., Art. 63)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 65) desde *(Título VI, Capítulo I)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 70) desde *(Título VI, Capítulo I, Art. 66)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 34) desde *(Título VI, Capítulo I, Art. 66)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 37) desde *(Título VI, Capítulo II. Transferencias a estados que proporcionen un nivel adecuado de protección., Art. 69)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 37) desde *(Título VI, Capítulo III. Transferencias a Estados que no proporcionen un nivel adecuado de protección., Art. 70)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título VI, Capítulo III. Transferencias a Estados que no proporcionen un nivel adecuado de protección., Art. 70)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 32) desde *(Título VII, Art. 71)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título VII, Art. 71)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título VII, Art. 73)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título VII, Art. 74)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 19) desde *(Título VII, Art. 75)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 32) desde *(Título VII, Art. 77)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 29) desde *(Título VIII, Capítulo I, Art. 81)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 37) desde *(Título IX, Capítulo I, Art. 116)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título IX, Capítulo II. Procedimiento de tutela de los derechos de acceso, rectificación, cancelación y oposición., Art. 117)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título IX, Capítulo III. Procedimientos relativos al ejercicio de la potestad sancionadora., Art. 120)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título IX, Capítulo III. Procedimientos relativos al ejercicio de la potestad sancionadora., Art. 121)*
+- **Cita a**: `norm-es-c-1978` desde *(Título IX, Capítulo III. Procedimientos relativos al ejercicio de la potestad sancionadora., Art. 121)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Sección 4.ª) desde *(Título IX, Capítulo III. Procedimientos relativos al ejercicio de la potestad sancionadora., Art. 128)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título IX, Capítulo III. Procedimientos relativos al ejercicio de la potestad sancionadora., Art. 129)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 33, Art. 70) desde *(Título IX, Capítulo V. Procedimientos relacionados con las transferencias internacionales de datos., Art. 137)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 5) desde *(Título IX, Capítulo VII. Otros procedimientos tramitados por la agencia española de protección de datos., Art. 153)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) desde *(Título IX, Capítulo VII. Otros procedimientos tramitados por la agencia española de protección de datos., Art. 157)*

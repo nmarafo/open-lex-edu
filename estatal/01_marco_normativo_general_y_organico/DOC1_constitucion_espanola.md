@@ -28,8 +28,312 @@ tags:
 - marco-normativo-general
 - titulacion
 relaciones:
+  cita:
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 6
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 7
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 8
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 9
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 9
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo QUINTO
+    articulos_origen:
+    - Art. 55
+    articulos_destino:
+    - Art. 55
+    - Art. 17
+    - Art. 18
+    - Art. 19
+    - Art. 20
+    - Art. 21
+    - Art. 28
+    - Art. 37
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    articulos_origen:
+    - Art. 56
+    articulos_destino:
+    - Art. 56
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    articulos_origen:
+    - Art. 59
+    articulos_destino:
+    - Art. 59
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    articulos_origen:
+    - Art. 61
+    articulos_destino:
+    - Art. 61
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    articulos_origen:
+    - Art. 62
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo PRIMERO
+    articulos_origen:
+    - Art. 66
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo PRIMERO
+    articulos_origen:
+    - Art. 78
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo PRIMERO
+    articulos_origen:
+    - Art. 79
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo SEGUNDO
+    articulos_origen:
+    - Art. 81
+    articulos_destino:
+    - Art. 81
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo SEGUNDO
+    articulos_origen:
+    - Art. 87
+    articulos_destino:
+    - Art. 87
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo SEGUNDO
+    articulos_origen:
+    - Art. 92
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo TERCERO
+    articulos_origen:
+    - Art. 93
+    articulos_destino:
+    - Art. 93
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo TERCERO
+    articulos_origen:
+    - Art. 95
+    articulos_destino:
+    - Art. 95
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo TERCERO
+    articulos_origen:
+    - Art. 97
+    articulos_destino:
+    - Art. 97
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo TERCERO
+    articulos_origen:
+    - Art. 101
+    articulos_destino:
+    - Art. 101
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    articulos_origen:
+    - Art. 117
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    articulos_origen:
+    - Art. 122
+    articulos_destino:
+    - Art. 122
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VII
+    articulos_origen:
+    - Art. 133
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    capitulo_origen: Capítulo PRIMERO
+    articulos_origen:
+    - Art. 138
+    articulos_destino:
+    - Art. 138
+    - Art. 2
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    capitulo_origen: Capítulo SEGUNDO
+    articulos_destino:
+    - Art. 140
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    capitulo_origen: Capítulo TERCERO
+    articulos_origen:
+    - Art. 143
+    articulos_destino:
+    - Art. 143
+    - Art. 2
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    capitulo_origen: Capítulo TERCERO
+    articulos_origen:
+    - Art. 144
+    articulos_destino:
+    - Art. 143
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    capitulo_origen: Capítulo TERCERO
+    articulos_origen:
+    - Art. 147
+    articulos_destino:
+    - Art. 147
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    capitulo_origen: Capítulo TERCERO
+    articulos_origen:
+    - Art. 147
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    capitulo_origen: Capítulo TERCERO
+    articulos_origen:
+    - Art. 148
+    articulos_destino:
+    - Art. 27
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    capitulo_origen: Capítulo TERCERO
+    articulos_origen:
+    - Art. 151
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    capitulo_origen: Capítulo TERCERO
+    articulos_origen:
+    - Art. 155
+    articulos_destino:
+    - Art. 155
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IX
+    articulos_origen:
+    - Art. 161
+    articulos_destino:
+    - Art. 53
+    - Art. 2
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IX
+    articulos_origen:
+    - Art. 161
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IX
+    articulos_origen:
+    - Art. 163
+    articulos_destino:
+    - Art. 163
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título X
+    articulos_origen:
+    - Art. 168
+    titulo_destino: Título PRELIMINAR
+    articulos_destino:
+    - Art. 168
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título X
+    articulos_origen:
+    - Art. 169
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título X
+    articulos_origen:
+    - Art. 169
+    articulos_destino:
+    - Art. 12
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título X
+    articulos_origen:
+    - Art. 169
+    articulos_destino:
+    - Art. 143
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título X
+    articulos_origen:
+    - Art. 169
+    articulos_destino:
+    - Art. 115
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 10
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    articulos_origen:
+    - Art. 63
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    capitulo_origen: Capítulo TERCERO
+    articulos_origen:
+    - Art. 148
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título X
+    articulos_origen:
+    - Art. 169
+    articulos_destino:
+    - Art. 148
+    - Art. 151
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título X
+    articulos_origen:
+    - Art. 169
+    articulos_destino:
+    - Art. 99
   - norma_id: norm-es-lo-2-2006
+  modifica:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    articulos_origen:
+    - Art. 115
+  desarrolla:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título X
+    articulos_origen:
+    - Art. 169
+    articulos_destino:
+    - Art. 99
+    - Art. 101
+    - Art. 115
+    - Art. 68
+    - Art. 69
+    - Art. 70
+    - Art. 3
+  - norma_id: norm-es-lo-8-2021
+    titulo_origen: Título X
+    articulos_origen:
+    - Art. 169
+  deroga:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título X
+    articulos_origen:
+    - Art. 169
   fundamento_de:
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-1985-5392
@@ -104,48 +408,17 @@ relaciones:
   - norma_id: norm-es-rd-95-2022
   - norma_id: norm-es-rdl-2-2015
   - norma_id: norm-es-rdl-5-2015
-  - norma_id: norm-can-lo-1-2018
-  - norma_id: norm-can-l-6-2014
-  - norma_id: norm-can-l-1-1997
-  - norma_id: norm-can-d-234-1996
-  - norma_id: norm-can-l-14-1990
   desarrollado_por:
-  - norma_id: norm-can-lo-1-2018
-  - norma_id: norm-can-l-1-1997
-  - norma_id: norm-can-d-84-2024
-  - norma_id: norm-can-d-135-2016
-  - norma_id: norm-can-d-123-2023
-  - norma_id: norm-can-l-4-2023
-  - norma_id: norm-can-res-boc-2017-020-2
-  - norma_id: norm-can-res-boc-2017-061-4
-  - norma_id: norm-can-res-boc-2017-132-1
-  - norma_id: norm-can-l-2-1987
-  - norma_id: norm-can-d-212-1991
-  - norma_id: norm-can-res-boc-2021-038-3
-  - norma_id: norm-can-l-14-1990
   - norma_id: norm-mad-d29-2013
-  - norma_id: norm-mad-l2-2010
-  - norma_id: norm-and-d-164-2024
-  - norma_id: norm-can-l-6-2014
-  - norma_id: norm-and-l17-2007
-  - norma_id: norm-and-d154-2022
-  - norma_id: norm-mad-d-230-2023
-  - norma_id: norm-mad-l1-2022
   - norma_id: norm-mad-d-149-2000
-  - norma_id: norm-and-d-4-1993
-  - norma_id: norm-and-d-156-1983
-  - norma_id: norm-and-d-204-1995
   - norma_id: norm-mad-l-2-2010
-  - norma_id: norm-and-d-80-1999
-  - norma_id: norm-mad-l-4-2023
-  - norma_id: norm-and-d-276-1998
-  - norma_id: norm-and-d-512-1996
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2.1'
+  - norma_id: '1'
+  - norma_id: '2.1'
 ---
+
 # Constitución Española de 1978. ## Preámbulo
 
 La Nación española, deseando establecer la justicia, la libertad y la seguridad y promover el bien de cuantos la integran, en uso de su soberanía, proclama su voluntad de:
@@ -1498,3 +1771,134 @@ Antonio Fontán Pérez
 ### Fundamentos de Derecho
 
 - [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-c-1978` (Art. 99, Art. 101, Art. 115, Art. 68, Art. 69, Art. 70, Art. 3) desde *(Título X, Art. 169)*
+- **Desarrolla**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md) desde *(Título X, Art. 169)*
+- **Modifica**: `norm-es-c-1978` desde *(Título V, Art. 115)*
+- **Deroga**: `norm-es-c-1978` desde *(Título X, Art. 169)*
+- **Fundamentado en**: `norm-es-c-1978` desde *(Título I, Art. 10)*
+- **Fundamentado en**: `norm-es-c-1978` desde *(Título II, Art. 63)*
+- **Fundamentado en**: `norm-es-c-1978` desde *(Título VIII, Capítulo TERCERO, Art. 148)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 148, Art. 151) desde *(Título X, Art. 169)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 99) desde *(Título X, Art. 169)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md)
+- **Fundamento de**: [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md)
+- **Fundamento de**: [**BOE-A-1986-1216**](./RD33_1986_aprueba_reglamento_regimen_disciplinario_funcionarios_administracion.md)
+- **Fundamento de**: [**BOE-A-1987-15278**](../02_gestion_y_administracion_centros/L12_1987_establecimiento_gratuidad_estudios_bachillerato_formacion_profesional.md)
+- **Fundamento de**: [**BOE-A-1988-3987**](../02_gestion_y_administracion_centros/RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md)
+- **Fundamento de**: [**BOE-A-1995-25444**](./LO10_1995_codigo_penal.md)
+- **Fundamento de**: [**BOE-A-1999-8849**](../08_personal_docente/O9_4_1999_dispone_publicacion_convenio_regimen_economico_laboral.md)
+- **Fundamento de**: [**BOE-A-2000-544**](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md)
+- **Fundamento de**: [**BOE-A-2002-12018**](../03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md)
+- **Fundamento de**: [**BOE-A-2003-23399**](../02_gestion_y_administracion_centros/L59_2003_firma_electronica.md)
+- **Fundamento de**: [**BOE-A-2004-5771**](../08_personal_docente/Osn_ecd_aprueban_temarios_han_regir_procedimientos.md)
+- **Fundamento de**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md)
+- **Fundamento de**: [**BOE-A-2007-6115**](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md)
+- **Fundamento de**: [**BOE-A-2009-20550**](../08_personal_docente/Osn_edu_aprueba_temario_fase_oposicion_procedimiento.md)
+- **Fundamento de**: [**BOE-A-2009-3424**](../03_ordenacion_curricular_y_ensenanzas/RD242_2009_establecen_convalidaciones_entre_ensenanzas_profesionales_musica.md)
+- **Fundamento de**: [**BOE-A-2010-10321**](../05_alumnado_y_servicios_escolares/RD828_2010_traspaso_comunidad_autonoma_canarias_medios_adscritos.md)
+- **Fundamento de**: [**BOE-A-2010-12706**](../03_ordenacion_curricular_y_ensenanzas/Osn_edu_regula_curriculo_mixto_ensenanzas_acogidas.md)
+- **Fundamento de**: [**BOE-A-2010-4130**](../03_ordenacion_curricular_y_ensenanzas/RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md)
+- **Fundamento de**: [**BOE-A-2010-4518**](../07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md)
+- **Fundamento de**: [**BOE-A-2011-17890**](../08_personal_docente/RD1619_2011_establece_nuevo_regimen_equivalencias_estudios_titulaciones.md)
+- **Fundamento de**: [**BOE-A-2012-5337**](../08_personal_docente/RD14_2012_real_decreto_ley_medidas_urgentes_racionalizacion.md)
+- **Fundamento de**: [**BOE-A-2012-8745**](../08_personal_docente/L2_2012_presupuestos_generales_estado_ano.md)
+- **Fundamento de**: [**BOE-A-2012-9282**](../08_personal_docente/L4_2012_medidas_administrativas_fiscales.md)
+- **Fundamento de**: [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md)
+- **Fundamento de**: [**BOE-A-2013-13756**](../02_gestion_y_administracion_centros/L27_2013_racionalizacion_sostenibilidad_administracion_local.md)
+- **Fundamento de**: [**BOE-A-2014-2222**](../03_ordenacion_curricular_y_ensenanzas/RD126_2014_establece_curriculo_basico_educacion_primaria.md)
+- **Fundamento de**: [**BOE-A-2014-5591**](../03_ordenacion_curricular_y_ensenanzas/RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md)
+- **Fundamento de**: [**BOE-A-2014-6008**](../03_ordenacion_curricular_y_ensenanzas/RD412_2014_establece_normativa_basica_procedimientos_admision_ensenanzas.md)
+- **Fundamento de**: [**BOE-A-2015-8043**](../02_gestion_y_administracion_centros/RD665_2015_desarrollan_determinadas_disposiciones_relativas_ejercicio_docencia.md)
+- **Fundamento de**: [**BOE-A-2015-8222**](./LO8_2015_modificacion_sistema_proteccion_infancia_adolescencia.md)
+- **Fundamento de**: [**BOE-A-2015-8470**](./L26_2015_modificacion_sistema_proteccion_infancia_adolescencia.md)
+- **Fundamento de**: [**BOE-A-2015-9453**](../08_personal_docente/Osn_ecd_aprueban_temarios_han_regir_procedimientos_2.md)
+- **Fundamento de**: [**BOE-A-2015-9462**](../03_ordenacion_curricular_y_ensenanzas/RD774_2015_establecen_seis_titulos_formacion_profesional_basica.md)
+- **Fundamento de**: [**BOE-A-2016-3229**](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
+- **Fundamento de**: [**BOE-A-2018-4480**](../02_gestion_y_administracion_centros/R23_3_2018_secretaria_estado_educacion_formacion_profesional_universidades.md)
+- **Fundamento de**: [**BOE-A-2019-317**](../03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md)
+- **Fundamento de**: [**BOE-A-2019-3307**](../08_personal_docente/L4_2019_mejora_condiciones_desempeno_docencia_ensenanza_ambito.md)
+- **Fundamento de**: [**BOE-A-2020-17274**](../03_ordenacion_curricular_y_ensenanzas/RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md)
+- **Fundamento de**: [**BOE-A-2021-18189**](../03_ordenacion_curricular_y_ensenanzas/Osn_efp_establece_equivalencia_efectos_acceso_ensenanzas.md)
+- **Fundamento de**: [**BOE-A-2021-18812**](../03_ordenacion_curricular_y_ensenanzas/RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md)
+- **Fundamento de**: [**BOE-A-2022-11589**](../07_convivencia_bienestar_y_protocolos/L15_2022_integral_igualdad_trato_no_discriminacion.md)
+- **Fundamento de**: [**BOE-A-2022-12014**](../03_ordenacion_curricular_y_ensenanzas/RD588_2022_establecen_especialidades_docentes_cuerpos_profesores_catedraticos.md)
+- **Fundamento de**: [**BOE-A-2023-9553**](../08_personal_docente/RD286_2023_regula_asignacion_materias_educacion_secundaria_obligatoria.md)
+- **Fundamento de**: [**BOE-A-2024-10683**](../03_ordenacion_curricular_y_ensenanzas/RD498_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**BOE-A-2025-2039**](../03_ordenacion_curricular_y_ensenanzas/RD69_2025_desarrollan_elementos_integrantes_instrumentos_gestion_sistema.md)
+- **Fundamento de**: [**BOE-A-2026-2622**](../04_organizacion_escolar_y_funcionamiento/RD68_2026_regula_inspeccion_educativa.md)
+- **Fundamento de**: [**L19_2013 Transparencia y Buen Gobierno**](./L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md)
+- **Fundamento de**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md)
+- **Fundamento de**: [**L39_2015 Procedimiento Administrativo Comun**](./L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamento de**: [**L40_2015 Regimen Juridico del Sector Publico**](./L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamento de**: [**L53_1984 Incompatibilidades del Personal Publico**](./L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md)
+- **Fundamento de**: [**L9_2017 Contratos del Sector Publico (LCSP)**](../02_gestion_y_administracion_centros/L9_2017_contratos_sector_publico_transponen_ordenamiento_juridico.md)
+- **Fundamento de**: [**LO1_1982 Proteccion Civil del Derecho al Honor e Intimidad**](./LO1_1982_proteccion_civil_derecho_honor_intimidad_personal.md)
+- **Fundamento de**: [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- **Fundamento de**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
+- **Fundamento de**: [**LO10_2022 Garantia Integral de la Libertad Sexual**](../07_convivencia_bienestar_y_protocolos/LO10_2022_garantia_integral_libertad_sexual.md)
+- **Fundamento de**: [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
+- **Fundamento de**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
+- **Fundamento de**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md)
+- **Fundamento de**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
+- **Fundamento de**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Fundamento de**: [**RD1533_1986 Regulacion de Asociaciones de Padres de Alumnos (AMPAS)**](../04_organizacion_escolar_y_funcionamiento/RD1533_1986_regulan_asociaciones_padres_alumnos.md)
+- **Fundamento de**: [**RD157_2022 Ensenanzas Minimas de Educacion Primaria**](../03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md)
+- **Fundamento de**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](../02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md)
+- **Fundamento de**: [**RD2377_1985 Reglamento de Conciertos Educativos**](../02_gestion_y_administracion_centros/RD2377_1985_aprueba_reglamento_normas_basicas_conciertos_educativos.md)
+- **Fundamento de**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md)
+- **Fundamento de**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Fundamento de**: [**RD476_2013 Cualificacion del Profesorado en Centros Privados**](../02_gestion_y_administracion_centros/RD476_2013_regulan_condiciones_cualificacion_formacion_profesorado_centros.md)
+- **Fundamento de**: [**RD943_2003 Flexibilizacion para Alumnado con Altas Capacidades**](../06_atencion_diversidad_y_orientacion/RD943_2003_regulan_condiciones_flexibilizar_duracion_diversos_niveles.md)
+- **Fundamento de**: [**RD95_2022 Ensenanzas Minimas de Educacion Infantil**](../03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md)
+- **Fundamento de**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
+- **Fundamento de**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](./RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Cita a**: `norm-es-c-1978`
+- **Cita a**: `norm-es-c-1978` (Art. 2) desde *(Título Preliminar, Art. 2)*
+- **Cita a**: `norm-es-c-1978` (Art. 6) desde *(Título Preliminar, Art. 6)*
+- **Cita a**: `norm-es-c-1978` (Art. 7) desde *(Título Preliminar, Art. 7)*
+- **Cita a**: `norm-es-c-1978` desde *(Título Preliminar, Art. 8)*
+- **Cita a**: `norm-es-c-1978` (Art. 9) desde *(Título Preliminar, Art. 9)*
+- **Cita a**: `norm-es-c-1978` desde *(Título Preliminar, Art. 9)*
+- **Cita a**: `norm-es-c-1978` (Art. 55, Art. 17, Art. 18, Art. 19, Art. 20, Art. 21, Art. 28, Art. 37) desde *(Título I, Capítulo QUINTO, Art. 55)*
+- **Cita a**: `norm-es-c-1978` (Art. 56) desde *(Título II, Art. 56)*
+- **Cita a**: `norm-es-c-1978` (Art. 59) desde *(Título II, Art. 59)*
+- **Cita a**: `norm-es-c-1978` (Art. 61) desde *(Título II, Art. 61)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Art. 62)*
+- **Cita a**: `norm-es-c-1978` desde *(Título III, Capítulo PRIMERO, Art. 66)*
+- **Cita a**: `norm-es-c-1978` desde *(Título III, Capítulo PRIMERO, Art. 78)*
+- **Cita a**: `norm-es-c-1978` desde *(Título III, Capítulo PRIMERO, Art. 79)*
+- **Cita a**: `norm-es-c-1978` (Art. 81) desde *(Título III, Capítulo SEGUNDO, Art. 81)*
+- **Cita a**: `norm-es-c-1978` (Art. 87) desde *(Título III, Capítulo SEGUNDO, Art. 87)*
+- **Cita a**: `norm-es-c-1978` desde *(Título III, Capítulo SEGUNDO, Art. 92)*
+- **Cita a**: `norm-es-c-1978` (Art. 93) desde *(Título III, Capítulo TERCERO, Art. 93)*
+- **Cita a**: `norm-es-c-1978` (Art. 95) desde *(Título III, Capítulo TERCERO, Art. 95)*
+- **Cita a**: `norm-es-c-1978` (Art. 97) desde *(Título III, Capítulo TERCERO, Art. 97)*
+- **Cita a**: `norm-es-c-1978` (Art. 101) desde *(Título III, Capítulo TERCERO, Art. 101)*
+- **Cita a**: `norm-es-c-1978` desde *(Título VI, Art. 117)*
+- **Cita a**: `norm-es-c-1978` (Art. 122) desde *(Título VI, Art. 122)*
+- **Cita a**: `norm-es-c-1978` desde *(Título VII, Art. 133)*
+- **Cita a**: `norm-es-c-1978` (Art. 138, Art. 2) desde *(Título VIII, Capítulo PRIMERO, Art. 138)*
+- **Cita a**: `norm-es-c-1978` (Art. 140) desde *(Título VIII, Capítulo SEGUNDO)*
+- **Cita a**: `norm-es-c-1978` (Art. 143, Art. 2) desde *(Título VIII, Capítulo TERCERO, Art. 143)*
+- **Cita a**: `norm-es-c-1978` (Art. 143) desde *(Título VIII, Capítulo TERCERO, Art. 144)*
+- **Cita a**: `norm-es-c-1978` (Art. 147) desde *(Título VIII, Capítulo TERCERO, Art. 147)*
+- **Cita a**: `norm-es-c-1978` desde *(Título VIII, Capítulo TERCERO, Art. 147)*
+- **Cita a**: `norm-es-c-1978` (Art. 27) desde *(Título VIII, Capítulo TERCERO, Art. 148)*
+- **Cita a**: `norm-es-c-1978` desde *(Título VIII, Capítulo TERCERO, Art. 151)*
+- **Cita a**: `norm-es-c-1978` (Art. 155) desde *(Título VIII, Capítulo TERCERO, Art. 155)*
+- **Cita a**: `norm-es-c-1978` (Art. 53, Art. 2) desde *(Título IX, Art. 161)*
+- **Cita a**: `norm-es-c-1978` desde *(Título IX, Art. 161)*
+- **Cita a**: `norm-es-c-1978` (Art. 163) desde *(Título IX, Art. 163)*
+- **Cita a**: `norm-es-c-1978` (Título PRELIMINAR, Art. 168) desde *(Título X, Art. 168)*
+- **Cita a**: `norm-es-c-1978` desde *(Título X, Art. 169)*
+- **Cita a**: `norm-es-c-1978` (Art. 12) desde *(Título X, Art. 169)*
+- **Cita a**: `norm-es-c-1978` (Art. 143) desde *(Título X, Art. 169)*
+- **Cita a**: `norm-es-c-1978` (Art. 115) desde *(Título X, Art. 169)*

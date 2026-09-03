@@ -25,11 +25,185 @@ tags:
 - oposiciones
 - titulacion
 relaciones:
-  fundamentado_en:
-  - norma_id: norm-es-2001-7022
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 64
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 64
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 64
+  - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-2002-12018
-  - norma_id: norm-es-2002-4371
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 6
+  cita:
   - norma_id: norm-es-2007-19326
+    articulos_destino:
+    - Art. 4
+  - norma_id: norm-es-2007-19326
+    capitulo_origen: Capítulo V. Acceso a cada uno de los ciclos.
+    articulos_origen:
+    - Art. 20
+    articulos_destino:
+    - Art. 31
+  - norma_id: norm-es-2007-19326
+    capitulo_origen: Capítulo V. Acceso a cada uno de los ciclos.
+    articulos_origen:
+    - Art. 24
+    disposiciones_destino:
+    - D. Adicional tercera
+  - norma_id: norm-es-2007-19326
+    capitulo_origen: Capítulo V. Acceso a cada uno de los ciclos.
+    articulos_origen:
+    - Art. 26
+    disposiciones_destino:
+    - D. Adicional tercera
+  - norma_id: norm-es-2007-19326
+    capitulo_origen: Capítulo VII. Vinculación a otros estudios.
+    articulos_origen:
+    - Art. 32
+    disposiciones_destino:
+    - D. Transitoria primera
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: Capítulo VII. Vinculación a otros estudios.
+    articulos_origen:
+    - Art. 32
+    disposiciones_destino:
+    - D. Transitoria primera
+  - norma_id: norm-es-2007-19326
+    capitulo_origen: Capítulo VII. Vinculación a otros estudios.
+    articulos_origen:
+    - D. Adicional tercera. Clave identificativa de los certificados de superación
+      del ciclo inicial.
+    articulos_destino:
+    - Art. 15
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: Capítulo VII. Vinculación a otros estudios.
+    articulos_origen:
+    - D. Adicional tercera. Clave identificativa de los certificados de superación
+      del ciclo inicial.
+  - norma_id: norm-es-2007-19326
+    capitulo_origen: Capítulo VII. Vinculación a otros estudios.
+    articulos_origen:
+    - D. Transitoria primera. Extinción de la formación del período transitorio en
+      Salvamento y Socorrismo en las modalidades o especialidades reguladas en el
+      presente real decreto.
+    disposiciones_destino:
+    - D. Transitoria primera
+    - D. Final segunda
+  - norma_id: norm-es-2007-19326
+    capitulo_origen: Capítulo VII. Vinculación a otros estudios.
+    articulos_origen:
+    - D. Transitoria segunda. Reconocimiento de las formaciones deportivas y plazo
+      para solicitar la homologación, convalidación y equivalencia de las formaciones
+      a las que se refieren la disposición adicional quinta y la disposición transitoria
+      primera del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md),
+      de 24 de octubre, y la disposición transitoria primera del [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md),
+      de 19 de diciembre, en la modalidad de salvamento y socorrismo.
+    disposiciones_destino:
+    - D. Transitoria segunda
+    - D. Adicional quinta
+    - D. Transitoria primera
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: Capítulo VII. Vinculación a otros estudios.
+    articulos_origen:
+    - D. Transitoria segunda. Reconocimiento de las formaciones deportivas y plazo
+      para solicitar la homologación, convalidación y equivalencia de las formaciones
+      a las que se refieren la disposición adicional quinta y la disposición transitoria
+      primera del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md),
+      de 24 de octubre, y la disposición transitoria primera del [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md),
+      de 19 de diciembre, en la modalidad de salvamento y socorrismo.
+    disposiciones_destino:
+    - D. Transitoria segunda
+    - D. Adicional quinta
+    - D. Transitoria primera
+  - norma_id: norm-es-2007-19326
+    capitulo_origen: Capítulo VII. Vinculación a otros estudios.
+    articulos_origen:
+    - D. Transitoria segunda. Reconocimiento de las formaciones deportivas y plazo
+      para solicitar la homologación, convalidación y equivalencia de las formaciones
+      a las que se refieren la disposición adicional quinta y la disposición transitoria
+      primera del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md),
+      de 24 de octubre, y la disposición transitoria primera del [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md),
+      de 19 de diciembre, en la modalidad de salvamento y socorrismo.
+    disposiciones_destino:
+    - D. Adicional quinta
+  - norma_id: norm-es-2007-19326
+    capitulo_origen: Capítulo VII. Vinculación a otros estudios.
+    articulos_origen:
+    - D. Transitoria segunda. Reconocimiento de las formaciones deportivas y plazo
+      para solicitar la homologación, convalidación y equivalencia de las formaciones
+      a las que se refieren la disposición adicional quinta y la disposición transitoria
+      primera del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md),
+      de 24 de octubre, y la disposición transitoria primera del [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md),
+      de 19 de diciembre, en la modalidad de salvamento y socorrismo.
+    disposiciones_destino:
+    - D. Transitoria primera
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: Capítulo VII. Vinculación a otros estudios.
+    articulos_origen:
+    - D. Transitoria segunda. Reconocimiento de las formaciones deportivas y plazo
+      para solicitar la homologación, convalidación y equivalencia de las formaciones
+      a las que se refieren la disposición adicional quinta y la disposición transitoria
+      primera del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md),
+      de 24 de octubre, y la disposición transitoria primera del [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md),
+      de 19 de diciembre, en la modalidad de salvamento y socorrismo.
+    disposiciones_destino:
+    - D. Transitoria primera
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VII. Vinculación a otros estudios.
+    articulos_origen:
+    - D. Final cuarta. Entrada en vigor.
+  - norma_id: norm-es-2007-19326
+    capitulo_origen: Capítulo VII. Vinculación a otros estudios.
+    articulos_origen:
+    - D. Final cuarta. Entrada en vigor.
+    disposiciones_destino:
+    - D. Adicional quinta
+    - D. Transitoria primera
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: Capítulo VII. Vinculación a otros estudios.
+    articulos_origen:
+    - D. Final cuarta. Entrada en vigor.
+    disposiciones_destino:
+    - D. Adicional quinta
+    - D. Transitoria primera
+  desarrolla:
+  - norma_id: norm-es-2007-19326
+  - norma_id: norm-es-2007-6115
+  fundamentado_en:
+  - norma_id: norm-es-2007-19326
+    capitulo_origen: Capítulo I. Objeto.
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-2002-4371
+    capitulo_origen: Capítulo VII. Vinculación a otros estudios.
+    articulos_origen:
+    - Art. 30
+  - norma_id: norm-es-2001-7022
+    capitulo_origen: Capítulo VII. Vinculación a otros estudios.
+    articulos_origen:
+    - Art. 30
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VII. Vinculación a otros estudios.
+    articulos_origen:
+    - D. Final primera. Título competencial.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-2002-12018
   - norma_id: norm-es-2007-6115
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2021-20113
@@ -37,8 +211,8 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2'
+  - norma_id: '1'
+  - norma_id: '2'
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-2002-12018
   - norma_id: norm-es-2002-4371
@@ -47,6 +221,7 @@ relaciones:
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2007-6115
 ---
+
 # Real Decreto 878/2011, de 24 de junio, por el que se establece el título de Técnico Deportivo en Salvamento y Socorrismo y se fijan sus enseñanzas mínimas y los requisitos de acceso.
 
 ## Preámbulo
@@ -5582,3 +5757,47 @@ MED-SSSS-205: Espacios acuáticos y materiales.
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**BOE-A-2007-6115**](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**BOE-A-2007-19326**](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md)
+- **Desarrolla**: [**BOE-A-2007-6115**](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 64)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 64)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 64)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 6)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 6)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 6)
+- **Fundamentado en**: [**BOE-A-2007-19326**](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md) desde *(Capítulo I. Objeto., Art. 1)*
+- **Fundamentado en**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) desde *(Capítulo VII. Vinculación a otros estudios., Art. 30)*
+- **Fundamentado en**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) desde *(Capítulo VII. Vinculación a otros estudios., Art. 30)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(Capítulo VII. Vinculación a otros estudios., D. Final primera. Título competencial.)*
+- **Fundamentado en**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md)
+- **Fundamentado en**: [**BOE-A-2007-6115**](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: [**BOE-A-2007-19326**](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md) (Art. 4)
+- **Cita a**: [**BOE-A-2007-19326**](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md) (Art. 31) desde *(Capítulo V. Acceso a cada uno de los ciclos., Art. 20)*
+- **Cita a**: [**BOE-A-2007-19326**](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md) (D. Adicional tercera) desde *(Capítulo V. Acceso a cada uno de los ciclos., Art. 24)*
+- **Cita a**: [**BOE-A-2007-19326**](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md) (D. Adicional tercera) desde *(Capítulo V. Acceso a cada uno de los ciclos., Art. 26)*
+- **Cita a**: [**BOE-A-2007-19326**](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md) (D. Transitoria primera) desde *(Capítulo VII. Vinculación a otros estudios., Art. 32)*
+- **Cita a**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) (D. Transitoria primera) desde *(Capítulo VII. Vinculación a otros estudios., Art. 32)*
+- **Cita a**: [**BOE-A-2007-19326**](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md) (Art. 15) desde *(Capítulo VII. Vinculación a otros estudios., D. Adicional tercera. Clave identificativa de los certificados de superación del ciclo inicial.)*
+- **Cita a**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) desde *(Capítulo VII. Vinculación a otros estudios., D. Adicional tercera. Clave identificativa de los certificados de superación del ciclo inicial.)*
+- **Cita a**: [**BOE-A-2007-19326**](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md) (D. Transitoria primera, D. Final segunda) desde *(Capítulo VII. Vinculación a otros estudios., D. Transitoria primera. Extinción de la formación del período transitorio en Salvamento y Socorrismo en las modalidades o especialidades reguladas en el presente real decreto.)*
+- **Cita a**: [**BOE-A-2007-19326**](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md) (D. Transitoria segunda, D. Adicional quinta, D. Transitoria primera) desde *(Capítulo VII. Vinculación a otros estudios., D. Transitoria segunda. Reconocimiento de las formaciones deportivas y plazo para solicitar la homologación, convalidación y equivalencia de las formaciones a las que se refieren la disposición adicional quinta y la disposición transitoria primera del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, y la disposición transitoria primera del [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre, en la modalidad de salvamento y socorrismo.)*
+- **Cita a**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) (D. Transitoria segunda, D. Adicional quinta, D. Transitoria primera) desde *(Capítulo VII. Vinculación a otros estudios., D. Transitoria segunda. Reconocimiento de las formaciones deportivas y plazo para solicitar la homologación, convalidación y equivalencia de las formaciones a las que se refieren la disposición adicional quinta y la disposición transitoria primera del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, y la disposición transitoria primera del [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre, en la modalidad de salvamento y socorrismo.)*
+- **Cita a**: [**BOE-A-2007-19326**](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md) (D. Adicional quinta) desde *(Capítulo VII. Vinculación a otros estudios., D. Transitoria segunda. Reconocimiento de las formaciones deportivas y plazo para solicitar la homologación, convalidación y equivalencia de las formaciones a las que se refieren la disposición adicional quinta y la disposición transitoria primera del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, y la disposición transitoria primera del [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre, en la modalidad de salvamento y socorrismo.)*
+- **Cita a**: [**BOE-A-2007-19326**](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md) (D. Transitoria primera) desde *(Capítulo VII. Vinculación a otros estudios., D. Transitoria segunda. Reconocimiento de las formaciones deportivas y plazo para solicitar la homologación, convalidación y equivalencia de las formaciones a las que se refieren la disposición adicional quinta y la disposición transitoria primera del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, y la disposición transitoria primera del [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre, en la modalidad de salvamento y socorrismo.)*
+- **Cita a**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) (D. Transitoria primera) desde *(Capítulo VII. Vinculación a otros estudios., D. Transitoria segunda. Reconocimiento de las formaciones deportivas y plazo para solicitar la homologación, convalidación y equivalencia de las formaciones a las que se refieren la disposición adicional quinta y la disposición transitoria primera del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, y la disposición transitoria primera del [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre, en la modalidad de salvamento y socorrismo.)*
+- **Cita a**: `norm-es-c-1978` desde *(Capítulo VII. Vinculación a otros estudios., D. Final cuarta. Entrada en vigor.)*
+- **Cita a**: [**BOE-A-2007-19326**](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md) (D. Adicional quinta, D. Transitoria primera) desde *(Capítulo VII. Vinculación a otros estudios., D. Final cuarta. Entrada en vigor.)*
+- **Cita a**: [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md) (D. Adicional quinta, D. Transitoria primera) desde *(Capítulo VII. Vinculación a otros estudios., D. Final cuarta. Entrada en vigor.)*

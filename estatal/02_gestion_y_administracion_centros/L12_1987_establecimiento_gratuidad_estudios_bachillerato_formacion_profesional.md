@@ -30,6 +30,15 @@ tags:
 - gestion-economica
 - profesorado
 relaciones:
+  cita:
+  - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-lo-8-1985
+    articulos_destino:
+    - Art. 27
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 27
   fundamentado_en:
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-lo-8-1985
@@ -38,9 +47,10 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '1'
-  - '6'
+  - norma_id: '1'
+  - norma_id: '6'
 ---
+
 # Ley 12/1987, de 2 de julio, sobre establecimiento de la gratuidad de los estudios de Bachillerato, Formación Profesional y Artes Aplicadas y Oficios Artísticos en los Centros públicos y la autonomía de gestión económica de los Centros docentes públicos no universitarios.
 
 ## Preámbulo
@@ -281,3 +291,16 @@ FELIPE GONZÁLEZ MÁRQUEZ
 
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md)
+- **Fundamento de**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md)
+- **Cita a**: `norm-es-c-1978`
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md) (Art. 27)
+- **Cita a**: `norm-es-c-1978` (Art. 27)

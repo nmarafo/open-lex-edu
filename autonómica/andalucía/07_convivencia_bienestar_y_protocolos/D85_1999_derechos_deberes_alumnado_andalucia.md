@@ -34,6 +34,7 @@ relaciones:
   - norma_id: norm-es-lo-8-2021
   - norma_id: norm-es-lo-1-1996
 ---
+
 # Decreto 85/1999, de 6 de abril, por el que se regulan los derechos y deberes del alumnado y las normas de convivencia.
 
 ## Preámbulo
@@ -73,3 +74,15 @@ CERTIFICADO DE CONFORMIDAD CON EL ESQUEMA NACIONAL DE SEGURIDAD
 Certificado emitido con firma digital de Fábrica Nacional de Moneda y Timbre, propiedad de AUDERTIS y sujeto a condiciones del contrato. La acreditación de la entidad y los certificados emitidos pueden verificarse en: https://ens.ccn.cni.es/es/certificacion www.audertis.es Tel. - 91 838 78 82 Pº de la Castellana 95, (Edificio Torre Europa, Planta 29) 28046 – MADRID NIF: B-87635470 Ubicaciones principales para el sistema de información:
 • Sede Central: Edificio: Torre Sevilla - C/ Gonzalo Jiménez de Quesada, 2, 3ª, 41002, Sevilla • Sede donde presta servicios algún personal desplazado de la Agencia Digital de Andalucía:
 o Edificio Torre Triana - C/ Juan Antonio de Vizarrón, s/n, 41092, Sevilla o Edificio CICA - Campus Universitario Reina Mercedes; C/ Tarfia, s/n, 41012, Sevilla • (#2) Centros asociados (NDA)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)

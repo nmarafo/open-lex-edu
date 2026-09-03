@@ -23,27 +23,93 @@ tags:
 - oposiciones
 - personal-no-docente
 relaciones:
+  cita:
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 30
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 1
+    articulos_destino:
+    - Art. 9
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    articulos_origen:
+    - Art. 70
+  - norma_id: norm-es-2007-6115
+    titulo_origen: Título IV
+    articulos_origen:
+    - Art. 73
+    articulos_destino:
+    - Art. 69
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    articulos_destino:
+    - Art. 14
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    articulos_destino:
+    - Art. 9
+  desarrolla:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 1
+    - Art. 14
+    - Art. 9
+    - Art. 10
+    - Art. 96
+    - Art. 93
+  modifica:
+  - norma_id: norm-es-2007-6115
   fundamentado_en:
   - norma_id: norm-es-2007-6115
-  - norma_id: norm-es-ce-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. De la igualdad en el empleo.
+    seccion_origen: Sección 1. ª De la igualdad laboral en el sector privado y en
+      la Función Pública canaria
+    articulos_origen:
+    - Art. 30
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo VII. Imagen y medios de comunicación.
+    articulos_origen:
+    - Art. 65
+    articulos_destino:
+    - Art. 18
   - norma_id: norm-es-lo-1-2004
+    titulo_origen: Título II
+    capitulo_origen: Capítulo VII. Imagen y medios de comunicación.
+    articulos_origen:
+    - Art. 65
+  - norma_id: norm-es-lo-1-2004
+    titulo_origen: Título IV
+    articulos_origen:
+    - Art. 74
+    articulos_destino:
+    - Art. 12
+  - norma_id: norm-es-ce-1978
+  concordancia:
+  - norma_id: norm-es-2007-6115
+    titulo_origen: Título IV
+    articulos_origen:
+    - D. Adicional segunda. Modificaciones en la legislación autonómica de Canarias.
   fundamento_de:
   - norma_id: norm-es-2012-9282
   - norma_id: norm-es-2021-11382
-  - norma_id: norm-can-o-2023-09-28
-  - norma_id: norm-can-d-84-2024
-  - norma_id: norm-can-l-4-2023
-  - norma_id: norm-can-o-2013-10-09
-  - norma_id: norm-can-res-boc-2018-124-126
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-  - norma_id: norm-can-l-16-2003
+  - norma_id: '27'
   - norma_id: norm-es-2007-6115
   - norma_id: norm-es-lo-1-2004
 ---
+
 # Ley 1/2010, de 26 de febrero, canaria de igualdad entre mujeres y hombres.
 
 ## Preámbulo
@@ -1075,3 +1141,26 @@ Santa Cruz de Tenerife, 26 de febrero de 2010.–El Presidente, Paulino Rivero B
 - [**L16_2003 Prevencion y Proteccion de Mujeres contra la Violencia de Genero**](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/L16_2003_prevencion_proteccion_integral_mujeres_contra_violencia.md)
 - [**BOE-A-2007-6115**](./LO3_2007_igualdad_efectiva_mujeres_hombres.md)
 - [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-c-1978` (Art. 1, Art. 14, Art. 9, Art. 10, Art. 96, Art. 93)
+- **Modifica**: [**BOE-A-2007-6115**](./LO3_2007_igualdad_efectiva_mujeres_hombres.md)
+- **Fundamentado en**: [**BOE-A-2007-6115**](./LO3_2007_igualdad_efectiva_mujeres_hombres.md) desde *(Título II, Capítulo II. De la igualdad en el empleo., Art. 30)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 18) desde *(Título II, Capítulo VII. Imagen y medios de comunicación., Art. 65)*
+- **Fundamentado en**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) desde *(Título II, Capítulo VII. Imagen y medios de comunicación., Art. 65)*
+- **Fundamentado en**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) (Art. 12) desde *(Título IV, Art. 74)*
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamento de**: [**BOE-A-2012-9282**](../08_personal_docente/L4_2012_medidas_administrativas_fiscales.md)
+- **Fundamento de**: [**BOE-A-2021-11382**](./L2_2021_igualdad_social_no_discriminacion_razon_identidad.md)
+- **En concordancia con**: [**BOE-A-2007-6115**](./LO3_2007_igualdad_efectiva_mujeres_hombres.md) desde *(Título IV, D. Adicional segunda. Modificaciones en la legislación autonómica de Canarias.)*
+- **Cita a**: `norm-es-c-1978`
+- **Cita a**: `norm-es-c-1978` (Art. 30)
+- **Cita a**: `norm-es-c-1978` (Art. 9) desde *(Título Preliminar, Art. 1)*
+- **Cita a**: `norm-es-c-1978` desde *(Título III, Art. 70)*
+- **Cita a**: [**BOE-A-2007-6115**](./LO3_2007_igualdad_efectiva_mujeres_hombres.md) (Art. 69) desde *(Título IV, Art. 73)*
+- **Cita a**: `norm-es-c-1978` (Art. 14) desde *(Título IV, D. Final segunda. Entrada en vigor.)*
+- **Cita a**: `norm-es-c-1978` (Art. 9) desde *(Título IV, D. Final segunda. Entrada en vigor.)*

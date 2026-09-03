@@ -24,16 +24,34 @@ tags:
 - compensacion_educativa
 - andalucia
 relaciones:
+  cita:
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo VI. Influencia del tiempo en las infracciones, sanciones
+      y obligaciones de restauración del daño ambiental.
+    articulos_origen:
+    - Art. 56
+  concordancia:
+  - norma_id: norm-es-c-1978
+    titulo_destino: Título I
+    articulos_destino:
+    - Art. 13
+  modifica:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo VI. Influencia del tiempo en las infracciones, sanciones
+      y obligaciones de restauración del daño ambiental.
+    articulos_origen:
+    - 'D. Derogatoria . Quedan derogados: El Anexo 10 del Decreto 239/1997,.'
   desarrolla:
   - norma_id: norm-es-lo-2-2006
-  modifica_a: []
-  modificado_por: []
-  afecta_a_articulos: []
   fundamentado_en:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-1-1996
   - norma_id: norm-and-l17-2007
 ---
+
 # Ley 9/1999, de 18 de noviembre, de Solidaridad en la Educación
 
 ## Preámbulo
@@ -47,9 +65,7 @@ Que el Parlamento de Andalucía ha aprobado y yo, en nombre del Rey y por la aut
 
 Doñana, como emblemático conjunto de sistemas naturales de Andalucía, España, Europa y el resto del Mundo, es mucho más que un Parque Nacional; su historia lo acredita como reserva ecológica conocida y valorada a raíz de las cenizas de un viejo coto de caza. En Doñana se encuentran juntos muchos elementos valiosos en interacción: El océano, playas, dunas, marismas, bosques, matorrales, lagunas, ríos y una variadísima fauna y flora, formando un ecosistema único de inconmensurable riqueza. Su gran extensión de marismas acoge durante todo el invierno a numerosas especies de aves acuáticas y su sistema de dunas móviles es singular en Europa. No obstante, los recientes estudios científicos realizados en Doñana apuntan que la pérdida de biodiversidad desde la creación del Parque Nacional es de tal magnitud que pone al espacio en una situación sin precedentes en su historia y hace temer que entre en un proceso delicado o incluso irreversible. Ante esto el desarrollo socioeconómico de la zona se ha de ordenar de forma que, paralelamente a que se acreciente el nivel de riqueza de los andaluces del entorno, no se afecten de forma irrecuperable los ciclos naturales de evolución de Doñana. De esta forma, el objetivo del incremento neto de la calidad de vida se producirá dentro del deseado desarrollo integral de la persona y el disfrute de este patrimonio natural estará garantizado para las futuras generaciones de andaluces. Con este fin, la presente intervención pública para la protección de este Espacio Natural ha buscado sus precedentes en tres hitos destacados: La constitución en 1964 de la Estación Biológica de Doñana, la declaración cinco años más tarde del Parque Nacional de Doñana como figura de protección de la reserva biológica y la declaración en 1989, mediante Ley, del Parque Natural "Entorno de Doñana", hoy denominado Parque Natural de Doñana, con el sentido de proteger el entorno del Parque Nacional. Ante este marco, necesariamente se ha de valorar la situación propiciada a raíz de la Sentencia del Tribunal Constitucional número 102/1995, en lo referente a los Parques Nacionales, especialmente lo que afecta a su gestión. En esta coyuntura es voluntad de la Junta de Andalucía establecer los instrumentos normativos necesarios para hacer realidad una gestión de este Espacio Natural acorde con la importancia intrínseca que Doñana tiene para los andaluces, así como hacer que dicha gestión sea consecuente con el reconocimiento que, de esta parte de Andalucía, se ha realizado desde variadas instancias internacionales, calificándola como Reserva de la Biosfera, Zona Húmeda de importancia internacional, Zona de Especial Protección de las Aves y Zona de Especial Conservación de la Unión Europea, y futura integrante del Patrimonio de la Humanidad de la Unesco. Todos estos antecedentes han dejado sus huellas a lo largo del articulado de la presente Ley, resaltándose la importancia de la investigación científica del Espacio Natural que se conecta con las necesidades de la gestión integral de Doñana. Se ha realzado también la participación de los municipios del entorno en la definición de la gestión ambiental del Espacio, facilitando cauces idóneos de participación en la toma de las decisiones sobre el desarrollo socioeconómico sostenible de la zona, con el fin de articularse jurídicamente, en sintonía con los pronunciamientos de la Conferencia Mundial sobre Medio Ambiente y Desarrollo celebrada en 1992 en Río de Janeiro. Se pretende generar un modelo de desarrollo que sea emblema y motor de la realización de los principios constitucionales, esto es, un medio ambiente adecuado para el desarrollo de la persona con la participación y colaboración de todas las Administraciones Públicas implicadas en la utilización racional de los recursos naturales y que atienda al binomio "calidad de vida-protección del medio ambiente", en un marco territorial que resulte ser especialmente apropiado para que se haga patente la indispensable solidaridad colectiva. Del mismo modo, se ha potenciado la formulación de programas específicos de investigación medioambiental, educación ambiental y el uso público de las instalaciones que permiten el contacto, acercamiento y comprensión de los elementos que conforman este conjunto singular de sistemas naturales, patrimonio de todos en cuya gestión la Junta de Andalucía, por mandato del Estatuto de Autonomía, tiene una especial y directa responsabilidad. La presente Ley se estructura en seis Títulos, incluido el preliminar. En éste se destacan los ya apuntados principios inspiradores de la norma. El Título I conceptúa un nuevo modelo de protección ambiental de un territorio. La figura Espacio Natural Doñana es nueva y única. Se trata de un Espacio Natural que aglutina a otros dos con diferente categoría jurídica incrementando, desde el punto de vista de la gestión, la protección ambiental integral a la vez que la promoción de la llamada Area de Influencia Socioeconómica. En el Título II, se articula orgánicamente la gestión del Espacio Natural Doñana. Se introduce con esta Ley un innovador sistema de colaboración en la gestión autonómica de Doñana que unifica los órganos consultivos y de participación existentes en el Parque Nacional y el Parque Natural. Se crea un Equipo de Gestión dependiente de la Consejería de Medio Ambiente de la Junta de Andalucía, mediante la que ésta instrumentaliza la ejecución de sus competencias de gestión del Espacio Natural Doñana y se determina la composición del Consejo de Participación. El Título III, dedicado a los instrumentos de planificación, parte de los estrictamente ambientales, previendo suplir la carencia existente respecto al instrumento de ordenación de los recursos naturales del territorio que ocupa el Parque Nacional. Tras ello se regula la integración en un único plan de las actuales medidas de uso y gestión del parque natural y del nacional, para culminar con el establecimiento de un marco jurídico que permita la elaboración de un Plan de Desarrollo Sostenible, regulación pionera de esta figura en el ámbito nacional. También se detalla la programación educativa y científica. Se concluye el Título con la necesaria coordinación de todos los tipos de planificación presentes en la zona. En el Título IV, se hace una apuesta por posibilitar la gestión económica autónoma del Espacio Natural Doñana, tanto desde la perspectiva de los ingresos como la de los gastos. El Título V materializa medidas adicionales de protección al establecer un régimen sancionador acorde con la singuSevilla, 25 de noviembre 1999 Página núm. 15.111 laridad y fragilidad de los valores ambientales que se protegen. Para ello se conceptúan las responsabilidades ambientales, se fijan las infracciones y sanciones y se regula la restauración de los daños ambientales. Se completa la Ley con las disposiciones transitorias y finales y un Anexo. En las primeras, el texto legal establece diversos preceptos en relación con su articulado y a la efectividad de la norma. En el Anexo se describen los límites territoriales del Espacio Natural. Finalmente, la presente disposición legislativa está justificada en las competencias exclusivas de la Comunidad Autónoma en materia de espacios naturales protegidos y de estructura de sus instituciones de autogobierno y en las de desarrollo de las bases estatales en materia de medio ambiente que, respectivamente, se establecen en los artículos 13.7 y 15.1.7, ambos en relación con el artículo 13.1, todos del Estatuto de Autonomía para Andalucía.
 
-## Título Preliminar
-
-PRINCIPIOS INSPIRADORES
+## Título Preliminar. PRINCIPIOS INSPIRADORES
 
 #### Artículo 1. Propósito y principios inspiradores.
 
@@ -72,11 +88,9 @@ Doñana.
 
 El ámbito de aplicación de la presente Ley es el territorio que constituye el Espacio Natural Doñana, así como su área de influencia socioeconómica.
 
-## Título I
+## Título I. DEL ESPACIO NATURAL DOÑANA Y SU AREA DE INFLUENCIA SOCIOECONOMICA
 
-DEL ESPACIO NATURAL DOÑANA Y SU AREA DE INFLUENCIA SOCIOECONOMICA
-
-## Capítulo I. Espacio Natural Doñana.
+### Capítulo I. Espacio Natural Doñana.
 
 #### Artículo 5. Definición y delimitación del Espacio Natural. Doñana.
 
@@ -86,7 +100,7 @@ DEL ESPACIO NATURAL DOÑANA Y SU AREA DE INFLUENCIA SOCIOECONOMICA
 
 3. Se incorporarán, igualmente, al Espacio Natural Doñana las ampliaciones que se produzcan del Parque Nacional de Doñana.
 
-## Capítulo II. Area de Influencia Socioeconómica.
+### Capítulo II. Area de Influencia Socioeconómica.
 
 #### Artículo 6. Delimitación del Area de Influencia Socioeconómica.
 
@@ -110,11 +124,9 @@ Los municipios cuyos términos municipales estén incluidos en el Area de Influe
 
 **15.112** Sevilla, 25 de noviembre 1999 venios con las Entidades Locales, en los que se justifiquen la utilidad del proyecto que se presente a los fines del deseado desarrollo local compatible con la conservación del Espacio Natural Doñana.
 
-## Título II
+## Título II. ORGANOS DE GESTION Y PARTICIPACION
 
-ORGANOS DE GESTION Y PARTICIPACION
-
-## Capítulo I. Del Equipo de Gestión artículo 10 Concepto. La administración y gestión del Espacio Natural Doñana la realizará la Consejería de Medio Ambiente de la Junta de Andalucía a través del Equipo de Gestión.
+### Capítulo I. Del Equipo de Gestión artículo 10 Concepto. La administración y gestión del Espacio Natural Doñana la realizará la Consejería de Medio Ambiente de la Junta de Andalucía a través del Equipo de Gestión.
 
 #### Artículo 11. Composición.
 
@@ -156,7 +168,7 @@ relación con el 16, ambos de la Ley 2/1989, por la que se aprueba el Inventario
 
 13. Realizar todas aquellas actuaciones que se consideren necesarias para el mejor cumplimiento de los objetivos del Espacio Natural Doñana.
 
-## Capítulo II. El Consejo de Participación artículo 14 Creación. Se crea el Consejo de Participación como órgano de colaboración y coparticipación entre las Administraciones implicadas, donde se ha de hacer efectiva la coordinación interadministrativa exigida constitucionalmente y además servir a la necesaria intervención de los ciudadanos en la gestión del Espacio Natural Doñana. Este Consejo está adscrito, a efectos administrativos, a la Consejería de Medio Ambiente.
+### Capítulo II. El Consejo de Participación artículo 14 Creación. Se crea el Consejo de Participación como órgano de colaboración y coparticipación entre las Administraciones implicadas, donde se ha de hacer efectiva la coordinación interadministrativa exigida constitucionalmente y además servir a la necesaria intervención de los ciudadanos en la gestión del Espacio Natural Doñana. Este Consejo está adscrito, a efectos administrativos, a la Consejería de Medio Ambiente.
 
 #### Artículo 15. Composición y funcionamiento.
 
@@ -202,23 +214,21 @@ Sevilla, 25 de noviembre 1999 Página núm. 15.113
 
 17. Acordar la creación de comisiones o grupos de trabajo.
 
-## Capítulo III. Medios necesarios para la gestión.
+### Capítulo III. Medios necesarios para la gestión.
 
 #### Artículo 17. Medios para la gestión del Espacio Natural.
 
 Doñana. Los medios precisos para la gestión y administración del Espacio Natural Doñana serán aportados por las Administraciones públicas implicadas, en el marco de sus respectivas competencias.
 
-## Título III
+## Título III. INSTRUMENTOS DE PLANIFICACION DEL ESPACIO NATURAL DOÑANA
 
-INSTRUMENTOS DE PLANIFICACION DEL ESPACIO NATURAL DOÑANA
-
-## Capítulo I. Normas generales.
+### Capítulo I. Normas generales.
 
 #### Artículo 18. Disposiciones comunes.
 
 En el procedimiento de elaboración del Plan de Ordenación de los Recursos Naturales, Plan Rector de Uso y Gestión y Plan de Desarrollo Sostenible será preceptivo un previo acuerdo del Consejo de Gobierno de la Junta de Andalucía en el que se disponga la formulación del correspondiente Plan, el informe del Consejo de Participación y un período de información pública, sin perjuicio de cuantos otros requisitos les sean legalmente exigibles.
 
-## Capítulo II. Plan de Ordenación de Recursos Naturales.
+### Capítulo II. Plan de Ordenación de Recursos Naturales.
 
 #### Sección 1. ª Disposiciones generales
 
@@ -307,7 +317,7 @@ d) La extracción o recolección no autorizada de plantas y animales muertos, hu
 e) El maltrato, muerte, destrucción, captura de especies de fauna silvestres no catalogadas y la recolección, arranque y corta de plantas, para aquellos casos en que sea precisa la previa autorización administrativa y ésta no se haya otorgado.
 f) La introducción en el medio natural de cualquier especie biótica no autóctona.
 
-## Capítulo III. Plan Rector de Uso y Gestión artículo 30 Competencias. Corresponde al Consejo de Gobierno de la Junta de Andalucía, a propuesta de la Consejería de Medio Ambiente, la aprobación del Plan Rector de Uso y Gestión, así como la de sus modificaciones y revisiones.
+### Capítulo III. Plan Rector de Uso y Gestión artículo 30 Competencias. Corresponde al Consejo de Gobierno de la Junta de Andalucía, a propuesta de la Consejería de Medio Ambiente, la aprobación del Plan Rector de Uso y Gestión, así como la de sus modificaciones y revisiones.
 
 #### Artículo 31. Objetivos y contenidos.
 
@@ -330,7 +340,7 @@ i) Las bases de los distintos planes sectoriales que desarrollen el Plan Rector 
 
 Rector de Uso y Gestión. La vigencia temporal del Plan Rector de Uso y Gestión del Espacio Natural Doñana será de un mínimo de cuatro años, prorrogables por el Consejero de Medio Ambiente hasta un máximo de seis años, debiendo revisarse al final del período, tras la evaluación del Plan Rector de Uso y Gestión o antes si fuera necesario.
 
-## Capítulo IV. Plan de Desarrollo Sostenible.
+### Capítulo IV. Plan de Desarrollo Sostenible.
 
 #### Artículo 33. Concepto y finalidad del Plan de Desarrollo.
 
@@ -352,21 +362,19 @@ El Plan de Desarrollo Sostenible, con el fin de favorecer la articulación de lo
 
 2. El establecimiento de las líneas de fomento necesarias para promover y canalizar las actuaciones privadas y públicas hacia los objetivos establecidos.
 
-## Capítulo V. Programas educativos y científicos.
+### Capítulo V. Programas educativos y científicos.
 
 #### Artículo 36. Educación e investigación ambiental.
 
 El Consejo de Participación solicitará de las distintas Administraciones con competencias en educación y ciencia, trabajo, cultura y medio ambiente el desarrollo de programas de educación e investigación ambiental en los que se incluyan temas específicos para la sensibilización, divulgación y formación e investigación científica aplicada al Espacio Natural Doñana.
 
-## Capítulo VI. Coordinación de la planificación ambiental, territorial y sectorial.
+### Capítulo VI. Coordinación de la planificación ambiental, territorial y sectorial.
 
 #### Artículo 37. Relaciones entre planes.
 
 Los objetivos de los planes recogidos en los Capítulos II y III de este Título constituirán una limitación, en las materias que les son propias, para las planificaciones territoriales y físicas y tendrán carácter indicativo respecto de otras actuaciones, planes o programas de carácter sectorial.
 
-## Título IV
-
-REGIMEN ECONOMICO
+## Título IV. REGIMEN ECONOMICO
 
 #### Artículo 38. Régimen de autonomía económica del Espacio Natural Doñana.
 
@@ -378,11 +386,9 @@ REGIMEN ECONOMICO
 
 Los ingresos derivados del servicio o actividad que preste el Espacio Natural, aprovechamientos o cualesquier otros derivados de la gestión de dicho Espacio, así como las subvenciones o aportaciones de carácter público o privado, se afectarán íntegramente a la cobertura de sus propios gastos.
 
-## Título V
+## Título V. REGIMEN SANCIONADOR
 
-REGIMEN SANCIONADOR
-
-## Capítulo I. De las medidas precautorias e infracciones ambientales en el Espacio Natural Doñana.
+### Capítulo I. De las medidas precautorias e infracciones ambientales en el Espacio Natural Doñana.
 
 #### Sección 1. ª Medidas provisionales y cautelares
 
@@ -454,7 +460,7 @@ i) Y j).
 
 3. Son infracciones leves las descritas en los artículos siguientes: Artículo 42, letras g) e i); artículo 44, letras c), e), f) y h).
 
-## Capítulo II. Circunstancias modificativas de la responsabilidad.
+### Capítulo II. Circunstancias modificativas de la responsabilidad.
 
 #### Artículo 46. Circunstancias agravantes.
 
@@ -506,7 +512,7 @@ Se consideran circunstancias atenuantes de la responsabilidad administrativa:
 
 7. La inexistencia o escasa importancia de las actuaciones reparadoras del daño ambiental debido a la capacidad autorregenerativa del medio agredido.
 
-## Capítulo III. De las sanciones administrativas.
+### Capítulo III. De las sanciones administrativas.
 
 #### Sección 1. ª Cuantificación de las sanciones
 
@@ -534,7 +540,7 @@ de la concurrencia de las circunstancias agravantes y atenuantes previstas en lo
 
 La sanción establecida se incrementará con la adición del importe total del beneficio reportado por la actuación ilícita.
 
-## Capítulo IV. Competencias.
+### Capítulo IV. Competencias.
 
 #### Artículo 52. Organos.
 
@@ -543,7 +549,7 @@ a) El Director del Equipo de Gestión del Espacio Natural Doñana, los correspon
 b) El Director General de Participación y Servicios Ambientales de la Consejería de Medio Ambiente, o, en su defecto, el centro directivo competente en materia de gestión de espacios naturales protegidos, los correspondientes a infracciones graves.
 c) El Consejero de Medio Ambiente, los correspondientes a infracciones muy graves.
 
-## Capítulo V. De la restauración del daño ambiental.
+### Capítulo V. De la restauración del daño ambiental.
 
 #### Artículo 53. Restauración del daño causado.
 
@@ -555,7 +561,7 @@ Página núm.
 
 #### Artículo 54. Multas coercitivas y ejecución subsidiaria De conformidad con lo establecido en el Capítulo V del.
 
-Título VI de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, la Administración ambiental podrá imponer, sin perjuicio de las facultades de ejecución subsidiaria, multas coercitivas al responsable con la finalidad de que éste proceda a la reparación del daño. A tal efecto, se establecen las siguientes multas coercitivas, todas ellas con la limitación establecida respecto a la cuantía máxima de 500.000 pesetas, según lo dispuesto en el artículo 39.4 de la Ley 4/1989, de 27 de marzo, de Conservación de los Espacios Naturales y de la Flora y Fauna Silvestres:
+## Título VI. de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, la Administración ambiental podrá imponer, sin perjuicio de las facultades de ejecución subsidiaria, multas coercitivas al responsable con la finalidad de que éste proceda a la reparación del daño. A tal efecto, se establecen las siguientes multas coercitivas, todas ellas con la limitación establecida respecto a la cuantía máxima de 500.000 pesetas, según lo dispuesto en el artículo 39.4 de la Ley 4/1989, de 27 de marzo, de Conservación de los Espacios Naturales y de la Flora y Fauna Silvestres:
 
 1. Para el incumplimiento durante tres meses del inicio de las actuaciones ordenadas, la cuantía será una vez el salario mínimo interprofesional.
 
@@ -567,7 +573,7 @@ Título VI de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las A
 
 5. Por no atender los requerimientos posteriores que se realicen por incumplimiento de plazos concedidos para finalizar las actuaciones ordenadas, la cuantía será un múltiplo de tres veces el salario mínimo interprofesional por cada mes transcurrido.
 
-## Capítulo VI. Influencia del tiempo en las infracciones, sanciones y obligaciones de restauración del daño ambiental.
+### Capítulo VI. Influencia del tiempo en las infracciones, sanciones y obligaciones de restauración del daño ambiental.
 
 #### Artículo 55. Plazo de resolución.
 
@@ -604,17 +610,13 @@ Hasta el momento de la constitución y efectivo funcionamiento del Equipo de Ges
 
 de 15 de octubre, por el que se regula la constitución, composición y funciones de las Juntas Rectoras; el Anexo II y el Anexo III del Decreto 2/1997, de 7 de enero, por los que se modifican la denominación y límites del Parque Natural del Entorno de Doñana, que pasa a denominarse Parque Natural de Doñana, y aprueban el Plan de Ordenación de los Recursos y el Plan Rector de Uso y Gestión, y el Decreto 478/1996, de 22 de octubre, de coordinación, seguimiento y evaluación del Plan de Desarrollo Sostenible del Entorno de Doñana, así como cuantas disposiciones de igual o inferior rango se opongan o contradigan lo establecido en la presente Ley. La vigencia de la presente disposición queda condicionada a la efectiva constitución y funcionamiento del órgano de participación y a la aprobación de los instrumentos de planificación que se establecen en la presente Ley para el Espacio Natural Doñana.
 
-#### Disposición final ....
-
-Se autoriza al Consejo de Gobierno para dictar las disposiciones que resulten necesarias para la ejecución y desarrollo de esta Ley.
+#### Disposición final . ... Se autoriza al Consejo de Gobierno para dictar las disposiciones que resulten necesarias para la ejecución y desarrollo de esta Ley.
 
 Sevilla, 27 de octubre de 1999 MANUEL CHAVES GONZALEZ Presidente de la Junta de Andalucía
 
 Sevilla, 25 de noviembre 1999 Página núm. 15.119
 
-## Anexo
-
-Límites del Espacio Natural Doñana Sector 1.º Tomando como punto de partida el punto kilométrico 34,400 de la carretera Almonte-Torre de la Higuera, continúa en línea recta hasta la laguna del Arrecife, y desde la misma, en línea recta, en dirección norte, hasta su encuentro con el puente de la Canariega, en la margen derecha del arroyo de la Rocina, continúa 460 metros en dirección sur por la carretera Almonte-Torre de la Higuera para, a partir de aquí, remontar aguas arriba el arroyo de la Rocina, en paralelo a su cauce y a 500 metros del mismo, hasta la casa del Rincón, desde la que inicia el descenso del mencionado arroyo, en paralelo a su cauce y a 500 metros del mismo, hasta intersectar de nuevo con la carretera Almonte-Torre de la Higuera, para seguir en dirección este por la margen izquierda hasta la confluencia con el caño de los Garzos-arroyo del Partido, siguiendo por la margen derecha de este último, en dirección norte, hasta el puente del Ajonjolí. Continúa en dirección norte por el límite municipal entre Almonte e Hinojos hasta su enlace con el regajo de Vallehondo. Desde el punto anterior sigue en dirección este por la senda que conduce a las casas de la Calera y desde aquí con rumbo norte a la carretera de Hinojos, la cual abandona al enlazar con el arroyo de La Mayor. Sigue dicho arroyo aguas abajo hasta el pozo de Melo, para continuar posteriormente por la senda en dirección este hacia el límite provincial entre Sevilla y Huelva, por el cual avanza hasta intersectar con la carretera Hinojos-Villamanrique de la Condesa, por la cual continúa en dirección sur hasta 100 metros antes de su intersección con el arroyo de Pilas, sube aguas arriba paralelo al cauce de dicho arroyo hasta llegar al límite del término municipal de Chucena, en este punto cruza perpendicularmente el cauce del arroyo de Pilas hasta 100 metros de la margen derecha. Desde aquí continúa aguas abajo paralelo al cauce hasta intersectar de nuevo con la carretera Hinojos-Villamanrique de la Condesa. Continúa por dicha carretera hacia el último municipio mencionado, para seguir posteriormente por la misma en dirección suroeste hasta el límite provincial entre Sevilla y Huelva, por el que continúa en dirección sur hasta intersectar con el límite norte del monte público La Juncosilla. Continúa en dirección este bordeando dicho monte público, hasta encontrar de nuevo el límite provincial. Sigue en dirección sur hasta intersectar con el límite municipal entre Villamanrique de la Condesa y Aznalcázar. Desde aquí toma dirección noreste hasta intersectar con el camino del Bujeo, por el cual continúa en dirección sureste hasta su cruce con el camino de la Cigüeña y por éste, en dirección noreste, hasta enlazar con el camino más oriental de la finca Hato Ratón. Continúa por este camino en dirección sureste hasta su intersección con el encauzamiento del caño Guadiamar, siguiendo por la margen izquierda del mismo hasta llegar al muro de la Confederación. Continúa por dicho muro en dirección este hasta llegar al predio propiedad de ADENA, continuando por la linde del mismo hasta intersectar con el muro derecho de Entremuros, por el cual continúa en dirección norte hasta intersectar con el camino que conduce a la casa del Cerrado, continuando por la margen izquierda del caño de Juncal en dirección sureste, hasta el muro de la margen izquierda del nuevo encauzamiento del Brazo de la Torre. Sigue en dirección sur por el muro izquierdo hasta la salida del Brazo de la Torre de su encauzamiento de Entremuros. Continúa por la margen izquierda del cauce del Brazo de la Torre hasta encontrar el colector de la Veta de la Palma (Bomba del Italiano). Desde este colector, en línea recta, va hasta el cortijo de Veta de la Palma y desde aquí, en línea recta, hasta la caseta de bombeo situada en el camino sur de la finca Reina Victoria, a partir de la cual sigue por la margen derecha del río Guadalquivir hasta la Punta de Malandar, a la altura de la casa cuartel de la Guardia Civil. Desde la casa cuartel continúa en dirección sur hasta alcanzar el límite interprovincial de Cádiz y Huelva, por el que avanza hasta situarse a una distancia de una milla marina de la línea de costa, extendiéndose, a partir de aquí, en paralelo a la misma, hasta intersectar con la línea imaginaria que, perpendicular a la línea de costa, pasa por el punto situado a 4.100 metros de la torre vigía, en ruinas, denominada Torre de la Higuera. Continúa por la mencionada línea imaginaria hacia la costa hasta la cerca de la Estación Biológica de Doñana, por la que sigue en dirección noroeste hasta confluir con la carretera Almonte-Torre la Higuera, frente al punto kilométrico 39,000. A partir del punto anterior continúa por la carretera Torre la Higuera-Mazagón hasta el punto kilométrico 45,100 de la misma, desde el que continúa en dirección sur por el límite occidental del Parque Dunar de Matalascañas hasta la línea de costa. Desde este punto en dirección oeste continúa hasta encontrar el límite municipal entre Lucena y Almonte. Desde aquí pasa a la margen derecha del arroyo del Loro y desde este punto asciende por el cauce hasta la carretera Torre la Higuera-Mazagón en el punto kilométrico 29,000, dirigiéndose por la margen izquierda de la misma hasta el punto kilométrico 22,055. Desde el punto anterior asciende por la pista de la Linde hasta el caserío de Pino Galés. Desde el mencionado caserío continúa en dirección noreste por el camino de la Portuguesa, hasta encontrar el carril del Sevillano. Continúa por dicho carril en dirección sur hasta la casa forestal del Coto Tres Rayas, desde donde sigue en dirección este y línea recta hasta el poblado de La Mediana en su extremo sur. Desde este punto continúa en línea recta hasta el cortijo San Vicente y desde aquí hasta la línea del Alamillo. Por último, en paralelo a la carretera Almonte-Torre la Higuera, continúa hasta el punto distante 1.000 m en perpendicular del punto kilométrico 34,400 de aquélla, desde el que continúa en línea recta hasta alcanzar el mencionado punto kilométrico 34,400, punto de partida. Sector 2.º Partiendo desde la Punta de los Cepillos, en la margen izquierda del río Guadalquivir, continúa hasta la desembocadura del caño de Martín Ruiz. Desde el punto anterior sigue en dirección sureste por el citado caño hasta la ermita de Nuestra Señora del Carmen, y desde aquí en dirección sur por el camino de separación del Pinar de la Algaida y las marismas transformadas hasta el límite de la finca denominada de los Prados. Continúa bordeando el Pinar de la Algaida por el límite sur, dirección oeste, hasta llegar a la laguna del Tarelo, la bordea por su orilla sur, incluyéndola, y continúa hasta encontrar el borde del Pinar de la Algaida, hasta su contacto con el camino vecinal que transcurre al este de la Marisma de Henares y Salinas de Nuestra Señora del Rocío y Marismas de la Dehesilla, siguiendo este camino en dirección sur hasta su cruce por la carretera que desde el Faro va a la colonia de la Algaida, y desde aquí en línea recta en dirección oeste hasta la margen izquierda del río Guadalquivir. Continúa por dicha margen hasta el punto inicial».
+## Anexo L. ímites del Espacio Natural Doñana Sector 1.º Tomando como punto de partida el punto kilométrico 34,400 de la carretera Almonte-Torre de la Higuera, continúa en línea recta hasta la laguna del Arrecife, y desde la misma, en línea recta, en dirección norte, hasta su encuentro con el puente de la Canariega, en la margen derecha del arroyo de la Rocina, continúa 460 metros en dirección sur por la carretera Almonte-Torre de la Higuera para, a partir de aquí, remontar aguas arriba el arroyo de la Rocina, en paralelo a su cauce y a 500 metros del mismo, hasta la casa del Rincón, desde la que inicia el descenso del mencionado arroyo, en paralelo a su cauce y a 500 metros del mismo, hasta intersectar de nuevo con la carretera Almonte-Torre de la Higuera, para seguir en dirección este por la margen izquierda hasta la confluencia con el caño de los Garzos-arroyo del Partido, siguiendo por la margen derecha de este último, en dirección norte, hasta el puente del Ajonjolí. Continúa en dirección norte por el límite municipal entre Almonte e Hinojos hasta su enlace con el regajo de Vallehondo. Desde el punto anterior sigue en dirección este por la senda que conduce a las casas de la Calera y desde aquí con rumbo norte a la carretera de Hinojos, la cual abandona al enlazar con el arroyo de La Mayor. Sigue dicho arroyo aguas abajo hasta el pozo de Melo, para continuar posteriormente por la senda en dirección este hacia el límite provincial entre Sevilla y Huelva, por el cual avanza hasta intersectar con la carretera Hinojos-Villamanrique de la Condesa, por la cual continúa en dirección sur hasta 100 metros antes de su intersección con el arroyo de Pilas, sube aguas arriba paralelo al cauce de dicho arroyo hasta llegar al límite del término municipal de Chucena, en este punto cruza perpendicularmente el cauce del arroyo de Pilas hasta 100 metros de la margen derecha. Desde aquí continúa aguas abajo paralelo al cauce hasta intersectar de nuevo con la carretera Hinojos-Villamanrique de la Condesa. Continúa por dicha carretera hacia el último municipio mencionado, para seguir posteriormente por la misma en dirección suroeste hasta el límite provincial entre Sevilla y Huelva, por el que continúa en dirección sur hasta intersectar con el límite norte del monte público La Juncosilla. Continúa en dirección este bordeando dicho monte público, hasta encontrar de nuevo el límite provincial. Sigue en dirección sur hasta intersectar con el límite municipal entre Villamanrique de la Condesa y Aznalcázar. Desde aquí toma dirección noreste hasta intersectar con el camino del Bujeo, por el cual continúa en dirección sureste hasta su cruce con el camino de la Cigüeña y por éste, en dirección noreste, hasta enlazar con el camino más oriental de la finca Hato Ratón. Continúa por este camino en dirección sureste hasta su intersección con el encauzamiento del caño Guadiamar, siguiendo por la margen izquierda del mismo hasta llegar al muro de la Confederación. Continúa por dicho muro en dirección este hasta llegar al predio propiedad de ADENA, continuando por la linde del mismo hasta intersectar con el muro derecho de Entremuros, por el cual continúa en dirección norte hasta intersectar con el camino que conduce a la casa del Cerrado, continuando por la margen izquierda del caño de Juncal en dirección sureste, hasta el muro de la margen izquierda del nuevo encauzamiento del Brazo de la Torre. Sigue en dirección sur por el muro izquierdo hasta la salida del Brazo de la Torre de su encauzamiento de Entremuros. Continúa por la margen izquierda del cauce del Brazo de la Torre hasta encontrar el colector de la Veta de la Palma (Bomba del Italiano). Desde este colector, en línea recta, va hasta el cortijo de Veta de la Palma y desde aquí, en línea recta, hasta la caseta de bombeo situada en el camino sur de la finca Reina Victoria, a partir de la cual sigue por la margen derecha del río Guadalquivir hasta la Punta de Malandar, a la altura de la casa cuartel de la Guardia Civil. Desde la casa cuartel continúa en dirección sur hasta alcanzar el límite interprovincial de Cádiz y Huelva, por el que avanza hasta situarse a una distancia de una milla marina de la línea de costa, extendiéndose, a partir de aquí, en paralelo a la misma, hasta intersectar con la línea imaginaria que, perpendicular a la línea de costa, pasa por el punto situado a 4.100 metros de la torre vigía, en ruinas, denominada Torre de la Higuera. Continúa por la mencionada línea imaginaria hacia la costa hasta la cerca de la Estación Biológica de Doñana, por la que sigue en dirección noroeste hasta confluir con la carretera Almonte-Torre la Higuera, frente al punto kilométrico 39,000. A partir del punto anterior continúa por la carretera Torre la Higuera-Mazagón hasta el punto kilométrico 45,100 de la misma, desde el que continúa en dirección sur por el límite occidental del Parque Dunar de Matalascañas hasta la línea de costa. Desde este punto en dirección oeste continúa hasta encontrar el límite municipal entre Lucena y Almonte. Desde aquí pasa a la margen derecha del arroyo del Loro y desde este punto asciende por el cauce hasta la carretera Torre la Higuera-Mazagón en el punto kilométrico 29,000, dirigiéndose por la margen izquierda de la misma hasta el punto kilométrico 22,055. Desde el punto anterior asciende por la pista de la Linde hasta el caserío de Pino Galés. Desde el mencionado caserío continúa en dirección noreste por el camino de la Portuguesa, hasta encontrar el carril del Sevillano. Continúa por dicho carril en dirección sur hasta la casa forestal del Coto Tres Rayas, desde donde sigue en dirección este y línea recta hasta el poblado de La Mediana en su extremo sur. Desde este punto continúa en línea recta hasta el cortijo San Vicente y desde aquí hasta la línea del Alamillo. Por último, en paralelo a la carretera Almonte-Torre la Higuera, continúa hasta el punto distante 1.000 m en perpendicular del punto kilométrico 34,400 de aquélla, desde el que continúa en línea recta hasta alcanzar el mencionado punto kilométrico 34,400, punto de partida. Sector 2.º Partiendo desde la Punta de los Cepillos, en la margen izquierda del río Guadalquivir, continúa hasta la desembocadura del caño de Martín Ruiz. Desde el punto anterior sigue en dirección sureste por el citado caño hasta la ermita de Nuestra Señora del Carmen, y desde aquí en dirección sur por el camino de separación del Pinar de la Algaida y las marismas transformadas hasta el límite de la finca denominada de los Prados. Continúa bordeando el Pinar de la Algaida por el límite sur, dirección oeste, hasta llegar a la laguna del Tarelo, la bordea por su orilla sur, incluyéndola, y continúa hasta encontrar el borde del Pinar de la Algaida, hasta su contacto con el camino vecinal que transcurre al este de la Marisma de Henares y Salinas de Nuestra Señora del Rocío y Marismas de la Dehesilla, siguiendo este camino en dirección sur hasta su cruce por la carretera que desde el Faro va a la colonia de la Algaida, y desde aquí en línea recta en dirección oeste hasta la margen izquierda del río Guadalquivir. Continúa por dicha margen hasta el punto inicial».
 
 Página núm.
 
@@ -638,4 +640,16 @@ Se delega en el Delegado del Gobierno de la Junta de Andalucía en Sevilla la fa
 
 #### Disposición final única. Eficacia.
 
-A tenor de lo dispuesto en el artículo 57 de la Ley 30/1992, de 26 de noviembre, del Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, la presente Orden produce efectos desde el momento en que ha sido dictada, sin perjuicio de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 4 de noviembre de 1999 CARMEN HERMOSIN BONO Consejera de Gobernación y Justicia
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: `norm-es-c-1978` desde *(Título V, Capítulo VI. Influencia del tiempo en las infracciones, sanciones y obligaciones de restauración del daño ambiental., D. Derogatoria . Quedan derogados: El Anexo 10 del Decreto 239/1997,.)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **En concordancia con**: `norm-es-c-1978` (Título I, Art. 13)
+- **Cita a**: `norm-es-c-1978`
+- **Cita a**: `norm-es-c-1978` desde *(Título V, Capítulo VI. Influencia del tiempo en las infracciones, sanciones y obligaciones de restauración del daño ambiental., Art. 56)*

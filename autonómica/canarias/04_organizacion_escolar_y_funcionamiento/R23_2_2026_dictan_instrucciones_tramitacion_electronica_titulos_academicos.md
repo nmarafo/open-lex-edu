@@ -28,8 +28,27 @@ tags:
 - titulacion
 relaciones:
   desarrolla:
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 18
   - norma_id: norm-es-l-40-2015
+    articulos_destino:
+    - Art. 18
   - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-es-2001-7022
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 18
   fundamentado_en:
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-l-6-2014
@@ -40,7 +59,7 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-can-d-84-2024
@@ -48,6 +67,7 @@ relaciones:
   - norma_id: norm-es-2001-7022
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-045-737.pdf
 ---
+
 # Resolución de 23 de febrero de 2026, por la que se dictan instrucciones para la tramitación electrónica de los títulos académicos y profesionales de las enseñanzas no universitarias en el ámbito de la Comunidad Autónoma de Canarias (BOC n.º 45, de 6 de marzo).
 
 ## Preámbulo
@@ -333,3 +353,22 @@ V . CENTROS PRIV ADOS
 - [**D84_2024 Reglamento Organico de la Consejeria de Educacion**](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md)
 - [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
 - [**BOE-A-2001-7022**](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 18)
+- **Desarrolla**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 18)
+- **Desarrolla**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 18)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 18)
+- **Desarrolla**: [**BOE-A-2001-7022**](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (Art. 18)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 18)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 18)
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**BOE-A-2001-7022**](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)

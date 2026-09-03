@@ -38,49 +38,623 @@ tags:
 - profesorado
 - selecci-n-y-provisi-n-de-puestos
 relaciones:
+  cita:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2007-5478
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento
+    articulos_origen:
+    - D. Transitoria séptima. Sobre temarios que han de regir la fase de oposición
+      de los procedimientos.
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento
+    articulos_origen:
+    - D. Transitoria séptima. Sobre temarios que han de regir la fase de oposición
+      de los procedimientos.
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento
+    articulos_origen:
+    - D. Transitoria séptima. Sobre temarios que han de regir la fase de oposición
+      de los procedimientos.
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento
+    articulos_origen:
+    - D. Final primera. Título competencial.
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento
+    articulos_origen:
+    - D. Final primera. Título competencial.
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento
+    articulos_origen:
+    - D. Final primera. Título competencial.
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. Objeto y ámbito de aplicación.
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. Objeto y ámbito de aplicación.
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. Objeto y ámbito de aplicación.
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. De los órganos de selección artículo 4 Clases. La
+      selección de los participantes en los distintos procedimientos a que se refiere
+      este Reglamento será realizada por tribunales y, en su caso, por comisiones
+      de selección u órganos equivalentes nombrados al efecto por la correspondiente
+      Administración educativa. LEGISLACIÓN CONSOLIDADA.
+    articulos_origen:
+    - Art. 5
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. De los órganos de selección artículo 4 Clases. La
+      selección de los participantes en los distintos procedimientos a que se refiere
+      este Reglamento será realizada por tribunales y, en su caso, por comisiones
+      de selección u órganos equivalentes nombrados al efecto por la correspondiente
+      Administración educativa. LEGISLACIÓN CONSOLIDADA.
+    articulos_origen:
+    - Art. 6
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. De los órganos de selección artículo 4 Clases. La
+      selección de los participantes en los distintos procedimientos a que se refiere
+      este Reglamento será realizada por tribunales y, en su caso, por comisiones
+      de selección u órganos equivalentes nombrados al efecto por la correspondiente
+      Administración educativa. LEGISLACIÓN CONSOLIDADA.
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 19
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II
+    capitulo_origen: Capítulo V. De los requisitos que han de reunir los participantes.
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II
+    capitulo_origen: Capítulo V. De los requisitos que han de reunir los participantes.
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II
+    capitulo_origen: Capítulo V. De los requisitos que han de reunir los participantes.
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título III
+    capitulo_origen: Capítulo IV. De la calificación de las distintas fases y selección
+      de los aspirantes para la realización de la fase de prácticas.
+    articulos_origen:
+    - Art. 27
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I. Del acceso de los funcionarios de los cuerpos docentes
+      a otros cuerpos docentes incluidos en un grupo de clasificación superior.
+    articulos_origen:
+    - Art. 33
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I. Del acceso de los funcionarios de los cuerpos docentes
+      a otros cuerpos docentes incluidos en un grupo de clasificación superior.
+    articulos_origen:
+    - Art. 33
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I. Del acceso de los funcionarios de los cuerpos docentes
+      a otros cuerpos docentes incluidos en un grupo de clasificación superior.
+    articulos_origen:
+    - Art. 33
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Del acceso de funcionarios docentes a otros cuerpos
+      del mismo grupo y nivel de complemento de destino.
+    articulos_origen:
+    - Art. 49
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Del acceso de funcionarios docentes a otros cuerpos
+      del mismo grupo y nivel de complemento de destino.
+    articulos_origen:
+    - Art. 49
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Del acceso de funcionarios docentes a otros cuerpos
+      del mismo grupo y nivel de complemento de destino.
+    articulos_origen:
+    - Art. 49
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Del acceso de funcionarios docentes a otros cuerpos
+      del mismo grupo y nivel de complemento de destino.
+    articulos_origen:
+    - Art. 50
+    articulos_destino:
+    - Art. 13
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Del acceso de funcionarios docentes a otros cuerpos
+      del mismo grupo y nivel de complemento de destino.
+    articulos_origen:
+    - Art. 50
+    articulos_destino:
+    - Art. 13
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo IV. Del acceso de funcionarios docentes a otros cuerpos
+      del mismo grupo y nivel de complemento de destino.
+    articulos_origen:
+    - Art. 50
+    articulos_destino:
+    - Art. 13
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título V
+    articulos_origen:
+    - Art. 55
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título V
+    articulos_origen:
+    - Art. 55
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título V
+    articulos_origen:
+    - Art. 55
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título V
+    capitulo_origen: Capítulo I. Normas generales.
+    articulos_origen:
+    - Art. 56
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título V
+    capitulo_origen: Capítulo I. Normas generales.
+    articulos_origen:
+    - Art. 56
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título V
+    capitulo_origen: Capítulo I. Normas generales.
+    articulos_origen:
+    - Art. 56
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II. de este Reglamento.
+    articulos_origen:
+    - Art. 58
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II. de este Reglamento.
+    articulos_origen:
+    - Art. 58
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II. de este Reglamento.
+    articulos_origen:
+    - Art. 58
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-1998-10720
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Transitoria segunda. del Real Decreto 777/1998, de 30 de abril, en su nueva.
+    disposiciones_destino:
+    - D. Transitoria segunda
+  - norma_id: norm-es-1998-10720
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Transitoria segunda. del Real Decreto 777/1998, de 30 de abril, en su nueva.
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Transitoria primera. Exigencia de la formación pedagógica y didáctica a que.
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Transitoria primera. Exigencia de la formación pedagógica y didáctica a que.
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Transitoria primera. Exigencia de la formación pedagógica y didáctica a que.
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Transitoria tercera. Del procedimiento de ingreso derivado del artículo 19
+      de.
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo II
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Transitoria tercera. Del procedimiento de ingreso derivado del artículo 19
+      de.
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo II
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Transitoria tercera. Del procedimiento de ingreso derivado del artículo 19
+      de.
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo II
+  - norma_id: norm-es-2007-5478
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Transitoria cuarta. De los procedimientos de ingreso que se convoquen en.
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-lo-3-2020
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Adicional undécima. de la Ley Orgánica 3/2020, de 29 de diciembre, por la
+      que se.
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Transitoria séptima. Sobre temarios que han de regir la fase de oposición
+      de.
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo II
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Transitoria séptima. Sobre temarios que han de regir la fase de oposición
+      de.
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo II
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Transitoria séptima. Sobre temarios que han de regir la fase de oposición
+      de.
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo II
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título IV. de este Reglamento sólo se valorarán por este subapartado
+      los años como
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo II
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título IV. de este Reglamento sólo se valorarán por este subapartado
+      los años como
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo II
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título IV. de este Reglamento sólo se valorarán por este subapartado
+      los años como
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo II
+  fundamentado_en:
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento
+    articulos_origen:
+    - D. Final primera. Título competencial.
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título III
+    capitulo_origen: Capítulo I. Normas generales.
+    articulos_origen:
+    - Art. 17
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título III
+    capitulo_origen: Capítulo I. Normas generales.
+    articulos_origen:
+    - Art. 17
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título III
+    capitulo_origen: Capítulo I. Normas generales.
+    articulos_origen:
+    - Art. 17
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo II. Del acceso a los Cuerpos de Catedráticos de Enseñanza
+      Secundaria, de Música y Artes Escénicas, de Artes Plásticas y Diseño y de Escuelas
+      Oficiales de Idiomas.
+    articulos_origen:
+    - Art. 37
+    articulos_destino:
+    - Art. 38
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo II. Del acceso a los Cuerpos de Catedráticos de Enseñanza
+      Secundaria, de Música y Artes Escénicas, de Artes Plásticas y Diseño y de Escuelas
+      Oficiales de Idiomas.
+    articulos_origen:
+    - Art. 37
+    articulos_destino:
+    - Art. 38
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo II. Del acceso a los Cuerpos de Catedráticos de Enseñanza
+      Secundaria, de Música y Artes Escénicas, de Artes Plásticas y Diseño y de Escuelas
+      Oficiales de Idiomas.
+    articulos_origen:
+    - Art. 37
+    articulos_destino:
+    - Art. 38
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Transitoria primera. Exigencia de la formación pedagógica y didáctica a que.
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-2001-7022
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Transitoria primera. Exigencia de la formación pedagógica y didáctica a que.
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Transitoria primera. Exigencia de la formación pedagógica y didáctica a que.
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Transitoria primera. Exigencia de la formación pedagógica y didáctica a que.
+    articulos_destino:
+    - Art. 100
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Transitoria quinta. De la convocatoria excepcional de estabilización de.
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo II
+    articulos_destino:
+    - Art. 61
+  - norma_id: norm-es-rdl-5-2015
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Transitoria quinta. De la convocatoria excepcional de estabilización de.
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo II
+    articulos_destino:
+    - Art. 61
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Transitoria quinta. De la convocatoria excepcional de estabilización de.
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo II
+    articulos_destino:
+    - Art. 61
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Transitoria quinta. De la convocatoria excepcional de estabilización de.
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo II
+    articulos_destino:
+    - Art. 61
+  - norma_id: norm-es-rdleg-5-2015
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Transitoria quinta. De la convocatoria excepcional de estabilización de.
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo II
+    articulos_destino:
+    - Art. 61
+  - norma_id: norm-es-rdl-5-2015
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Transitoria quinta. De la convocatoria excepcional de estabilización de.
+    articulos_destino:
+    - Art. 61
+  - norma_id: norm-es-rdleg-5-2015
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Transitoria quinta. De la convocatoria excepcional de estabilización de.
+    articulos_destino:
+    - Art. 61
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-1998-10720
+  - norma_id: norm-es-2007-5478
+  - norma_id: norm-es-ce-1978
+  concordancia:
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título III
+    capitulo_origen: Capítulo I. Normas generales.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 58
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título III
+    capitulo_origen: Capítulo I. Normas generales.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 58
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título III
+    capitulo_origen: Capítulo I. Normas generales.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 58
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Transitoria segunda. Plazo en el que debe reunirse el requisito de estar
+      en.
+    articulos_destino:
+    - Art. 100
+    - Art. 28
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Transitoria segunda. Plazo en el que debe reunirse el requisito de estar
+      en.
+    articulos_destino:
+    - Art. 100
+    - Art. 28
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Transitoria segunda. Plazo en el que debe reunirse el requisito de estar
+      en.
+    articulos_destino:
+    - Art. 100
+    - Art. 28
   desarrolla:
   - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Transitoria .... , se desarrollarán de acuerdo con lo estipulado en las mismas.
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo II
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Transitoria .... , se desarrollarán de acuerdo con lo estipulado en las mismas.
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo II
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Transitoria .... , se desarrollarán de acuerdo con lo estipulado en las mismas.
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo II
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Adicional undécima. de la Ley Orgánica 3/2020, de 29 de diciembre, por la
+      que se.
+    disposiciones_destino:
+    - D. Adicional única
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Adicional undécima. de la Ley Orgánica 3/2020, de 29 de diciembre, por la
+      que se.
+    disposiciones_destino:
+    - D. Adicional única
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II. de este Reglamento.
+    capitulo_origen: Capítulo V. De la fase de prácticas, de los expedientes de los
+      procedimientos selectivos y nombramiento de funcionarios de carrera.
+    articulos_origen:
+    - D. Adicional undécima. de la Ley Orgánica 3/2020, de 29 de diciembre, por la
+      que se.
+    disposiciones_destino:
+    - D. Adicional única
   desarrollado_por:
   - norma_id: norm-es-2007-5478
   - norma_id: norm-es-2009-20550
   - norma_id: norm-es-2015-9453
   - norma_id: norm-es-2026-2622
-  - norma_id: norm-can-res-boc-2025-094-137
-  - norma_id: norm-can-res-juriscan-75818-136
-  - norma_id: norm-can-res-135
-  - norma_id: norm-can-res-boc-2020-130-131
-  - norma_id: norm-can-d-82-1994
-  - norma_id: norm-can-res-boc-2018-019-130
-  - norma_id: norm-can-res-juriscan-41360-129
-  - norma_id: norm-can-d-74-2010
-  - norma_id: norm-can-res-134
-  - norma_id: norm-can-res-juriscan-30668-127
-  - norma_id: norm-can-res-juriscan-64565-138
-  - norma_id: norm-can-res-boc-2022-158-132
-  - norma_id: norm-can-res-boc-2026-046-139
-  - norma_id: norm-can-res-juriscan-61148-128
-  - norma_id: norm-mad-r-cdd-2025-2026
   - norma_id: norm-mad-o-123-2015
   - norma_id: norm-and-o-18-6-2020
-  - norma_id: norm-mad-d126-2017
-  - norma_id: norm-mad-o2532-2022
-  - norma_id: norm-and-l3-2021
-  - norma_id: norm-and-r-cdd-2025-2026
-  - norma_id: norm-mad-d-11-2019
-  - norma_id: norm-mad-o-2808-2017
-  - norma_id: norm-mad-o-2150-2020
-  - norma_id: norm-and-o-11-12-2012
-  - norma_id: norm-and-o-10-11-2020
-  - norma_id: norm-mad-o-1117-2020
-  fundamentado_en:
-  - norma_id: norm-es-1984-17387
-  - norma_id: norm-es-1998-10720
-  - norma_id: norm-es-2001-7022
-  - norma_id: norm-es-2007-5478
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-rdl-5-2015
   fundamento_de:
   - norma_id: norm-es-1979-29491
   - norma_id: norm-es-1985-7820
@@ -100,7 +674,7 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-es-rdl-5-2015
   articulos:
-  - '27'
+  - norma_id: '27'
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-2021-20113
@@ -108,6 +682,7 @@ relaciones:
   - norma_id: norm-es-1998-10720
   - norma_id: norm-es-2007-5478
 ---
+
 # Real Decreto 276/2007, de 23 de febrero, por el que se aprueba el Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y se regula el régimen transitorio de ingreso a que se refiere la disposición transitoria decimoséptima de la citada ley.
 
 ## Preámbulo
@@ -997,3 +1572,115 @@ Título Superior del Vidrio.
 Cuerpo de Maestros de Taller de Artes Plásticas y Diseño Especialidades
 Título de Técnico Superior de Artes Plásticas y de Diseño y Título declarado equivalente conforme al Real Decreto 440/1994, de 11 de marzo y a la Orden de 14 de mayo de 1999. Artesanía y ornamentación con elementos vegetales. Arte Floral. Arte Textil. Bordados y encajes. Encajes artísticos. Bordados y reposteros . Complementos y accesorios. Artes Aplicadas de la madera. Estilismo e indumentaria. Dorado y Policromía. Artes aplicadas de la madera. Ebanistería Artística. Artes aplicadas de la madera. Mobiliario. Encuadernación Artística. Encuadernación artística. Esmaltes. Esmalte artístico al fuego sobre metales. Especialidades
 Título de Técnico Superior de Artes Plásticas y de Diseño y Título declarado equivalente conforme al Real Decreto 440/1994, de 11 de marzo y a la Orden de 14 de mayo de 1999. Fotografía y Procesos de reproducción. Grafica publicitaria. Ilustración. Fotografía artística. Modelismo y Maquetismo. Amueblamiento. Arquitectura efímera. Escaparatismo. Elementos de jardín. Proyectos y dirección de obras de decoración. Mobiliario. Modelismo industrial. Modelismo y Maquetismo. Moldes y reproducciones. Artes aplicadas a la escultura. Artes aplicadas del metal. Modelismo y matricería cerámica. Musivaria. Mosaicos. Talla en piedra y madera. Artes aplicadas de la escultura. Artes aplicadas de la madera. Artes aplicadas de la piedra. Técnicas cerámicas. Cerámica artística. Pavimentos y revestimientos cerámicos. Modelismo y matricería cerámica. Técnicas de grabado y estampación. Edición de arte. Grabado y técnicas de estampación. Ilustración. Técnicas de joyería y bisutería. Bisutería artística. Joyería artística. Técnicas de orfebrería y platería. Orfebrería y platería artísticas. Técnicas de patronaje y confección. Estilismo de indumentaria. Modelismo de indumentaria. Técnicas del metal. Artes aplicadas de la escultura. Artes aplicadas del metal. Técnicas murales. Artes aplicadas al muro. Técnicas textiles. Arte textil. Colorido de colecciones. Estampaciones y tintados artísticos. Estilismo de tejidos de calada. Tejidos en bajo lizo. Técnicas vidrieras. Artes del vidrio. Artes aplicadas al muro. Vidrieras artísticas. Este documento es de carácter informativo y no tiene valor jurídico.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título IV, Capítulo II) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Transitoria .... , se desarrollarán de acuerdo con lo estipulado en las mismas.)*
+- **Desarrolla**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título IV, Capítulo II) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Transitoria .... , se desarrollarán de acuerdo con lo estipulado en las mismas.)*
+- **Desarrolla**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título IV, Capítulo II) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Transitoria .... , se desarrollarán de acuerdo con lo estipulado en las mismas.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional única) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Adicional undécima. de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se.)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional única) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Adicional undécima. de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional única) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Adicional undécima. de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento, D. Final primera. Título competencial.)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título III, Capítulo I. Normas generales., Art. 17)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título III, Capítulo I. Normas generales., Art. 17)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título III, Capítulo I. Normas generales., Art. 17)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 38) desde *(Título IV, Capítulo II. Del acceso a los Cuerpos de Catedráticos de Enseñanza Secundaria, de Música y Artes Escénicas, de Artes Plásticas y Diseño y de Escuelas Oficiales de Idiomas., Art. 37)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 38) desde *(Título IV, Capítulo II. Del acceso a los Cuerpos de Catedráticos de Enseñanza Secundaria, de Música y Artes Escénicas, de Artes Plásticas y Diseño y de Escuelas Oficiales de Idiomas., Art. 37)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 38) desde *(Título IV, Capítulo II. Del acceso a los Cuerpos de Catedráticos de Enseñanza Secundaria, de Música y Artes Escénicas, de Artes Plásticas y Diseño y de Escuelas Oficiales de Idiomas., Art. 37)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 100) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Transitoria primera. Exigencia de la formación pedagógica y didáctica a que.)*
+- **Fundamentado en**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (Art. 100) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Transitoria primera. Exigencia de la formación pedagógica y didáctica a que.)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 100) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Transitoria primera. Exigencia de la formación pedagógica y didáctica a que.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 100) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Transitoria primera. Exigencia de la formación pedagógica y didáctica a que.)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título IV, Capítulo II, Art. 61) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Transitoria quinta. De la convocatoria excepcional de estabilización de.)*
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md) (Título IV, Capítulo II, Art. 61) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Transitoria quinta. De la convocatoria excepcional de estabilización de.)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título IV, Capítulo II, Art. 61) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Transitoria quinta. De la convocatoria excepcional de estabilización de.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título IV, Capítulo II, Art. 61) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Transitoria quinta. De la convocatoria excepcional de estabilización de.)*
+- **Fundamentado en**: `norm-es-rdleg-5-2015` (Título IV, Capítulo II, Art. 61) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Transitoria quinta. De la convocatoria excepcional de estabilización de.)*
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md) (Art. 61) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Transitoria quinta. De la convocatoria excepcional de estabilización de.)*
+- **Fundamentado en**: `norm-es-rdleg-5-2015` (Art. 61) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Transitoria quinta. De la convocatoria excepcional de estabilización de.)*
+- **Fundamentado en**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
+- **Fundamentado en**: [**BOE-A-1998-10720**](./RD777_1998_desarrollan_determinados_aspectos_ordenacion_formacion_profesional.md)
+- **Fundamentado en**: [**BOE-A-2007-5478**](./RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamento de**: [**BOE-A-1979-29491**](./DOC1_instrumento_ratificacion_acuerdo_entre_estado_espanol.md)
+- **Fundamento de**: [**BOE-A-1985-7820**](./RD598_1985_incompatibilidades_personal_servicio_administracion_estado_seguridad.md)
+- **Fundamento de**: [**BOE-A-1993-23257**](./RD850_1993_aprueban_temarios_han_regir_procedimientos_ingreso.md)
+- **Fundamento de**: [**BOE-A-1995-22212**](./RD1635_1995_adscribe_profesorado_cuerpos_profesores_ensenanza_secundaria.md)
+- **Fundamento de**: [**BOE-A-1996-3102**](./O1_2_1996_aprueban_temarios_han_regir_procedimientos_ingreso.md)
+- **Fundamento de**: [**BOE-A-1998-10720**](./RD777_1998_desarrollan_determinados_aspectos_ordenacion_formacion_profesional.md)
+- **Fundamento de**: [**BOE-A-2010-11426**](../02_gestion_y_administracion_centros/RD860_2010_regulan_condiciones_formacion_inicial_profesorado_centros.md)
+- **Fundamento de**: [**BOE-A-2011-15628**](./Osn_edu_establece_formacion_equivalente_formacion_pedagogica.md)
+- **Fundamento de**: [**BOE-A-2014-7684**](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md)
+- **Fundamento de**: [**BOE-A-2015-6839**](./RD1187_2015_ess_desarrolla_real_decreto_regulan_determinados.md)
+- **Fundamento de**: [**BOE-A-2022-16194**](./RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md)
+- **Fundamento de**: [**BOE-A-2024-10683**](../03_ordenacion_curricular_y_ensenanzas/RD498_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**BOE-A-2024-10684**](../03_ordenacion_curricular_y_ensenanzas/RD499_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**BOE-A-2024-10685**](../03_ordenacion_curricular_y_ensenanzas/RD500_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**RD476_2013 Cualificacion del Profesorado en Centros Privados**](../02_gestion_y_administracion_centros/RD476_2013_regulan_condiciones_cualificacion_formacion_profesorado_centros.md)
+- **En concordancia con**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 58) desde *(Título III, Capítulo I. Normas generales., Art. 17)*
+- **En concordancia con**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 58) desde *(Título III, Capítulo I. Normas generales., Art. 17)*
+- **En concordancia con**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 58) desde *(Título III, Capítulo I. Normas generales., Art. 17)*
+- **En concordancia con**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 100, Art. 28) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Transitoria segunda. Plazo en el que debe reunirse el requisito de estar en.)*
+- **En concordancia con**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 100, Art. 28) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Transitoria segunda. Plazo en el que debe reunirse el requisito de estar en.)*
+- **En concordancia con**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 100, Art. 28) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Transitoria segunda. Plazo en el que debe reunirse el requisito de estar en.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Cita a**: [**BOE-A-2007-5478**](./RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento, D. Transitoria séptima. Sobre temarios que han de regir la fase de oposición de los procedimientos.)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento, D. Transitoria séptima. Sobre temarios que han de regir la fase de oposición de los procedimientos.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento, D. Transitoria séptima. Sobre temarios que han de regir la fase de oposición de los procedimientos.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento, D. Final primera. Título competencial.)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento, D. Final primera. Título competencial.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento, D. Final primera. Título competencial.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento, D. Final segunda. Entrada en vigor.)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento, D. Final segunda. Entrada en vigor.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento, D. Final segunda. Entrada en vigor.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título I, Capítulo I. Objeto y ámbito de aplicación., Art. 1)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título I, Capítulo I. Objeto y ámbito de aplicación., Art. 1)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título I, Capítulo I. Objeto y ámbito de aplicación., Art. 1)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo II. De los órganos de selección artículo 4 Clases. La selección de los participantes en los distintos procedimientos a que se refiere este Reglamento será realizada por tribunales y, en su caso, por comisiones de selección u órganos equivalentes nombrados al efecto por la correspondiente Administración educativa. LEGISLACIÓN CONSOLIDADA., Art. 5)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo II. De los órganos de selección artículo 4 Clases. La selección de los participantes en los distintos procedimientos a que se refiere este Reglamento será realizada por tribunales y, en su caso, por comisiones de selección u órganos equivalentes nombrados al efecto por la correspondiente Administración educativa. LEGISLACIÓN CONSOLIDADA., Art. 6)*
+- **Cita a**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) (Art. 19) desde *(Título II, Capítulo II. De los órganos de selección artículo 4 Clases. La selección de los participantes en los distintos procedimientos a que se refiere este Reglamento será realizada por tribunales y, en su caso, por comisiones de selección u órganos equivalentes nombrados al efecto por la correspondiente Administración educativa. LEGISLACIÓN CONSOLIDADA., Art. 7)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 100) desde *(Título II, Capítulo V. De los requisitos que han de reunir los participantes., Art. 13)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 100) desde *(Título II, Capítulo V. De los requisitos que han de reunir los participantes., Art. 13)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 100) desde *(Título II, Capítulo V. De los requisitos que han de reunir los participantes., Art. 13)*
+- **Cita a**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) (Art. 18) desde *(Título III, Capítulo IV. De la calificación de las distintas fases y selección de los aspirantes para la realización de la fase de prácticas., Art. 27)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título IV, Capítulo I. Del acceso de los funcionarios de los cuerpos docentes a otros cuerpos docentes incluidos en un grupo de clasificación superior., Art. 33)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título IV, Capítulo I. Del acceso de los funcionarios de los cuerpos docentes a otros cuerpos docentes incluidos en un grupo de clasificación superior., Art. 33)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título IV, Capítulo I. Del acceso de los funcionarios de los cuerpos docentes a otros cuerpos docentes incluidos en un grupo de clasificación superior., Art. 33)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título IV, Capítulo IV. Del acceso de funcionarios docentes a otros cuerpos del mismo grupo y nivel de complemento de destino., Art. 49)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título IV, Capítulo IV. Del acceso de funcionarios docentes a otros cuerpos del mismo grupo y nivel de complemento de destino., Art. 49)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título IV, Capítulo IV. Del acceso de funcionarios docentes a otros cuerpos del mismo grupo y nivel de complemento de destino., Art. 49)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 13) desde *(Título IV, Capítulo IV. Del acceso de funcionarios docentes a otros cuerpos del mismo grupo y nivel de complemento de destino., Art. 50)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 13) desde *(Título IV, Capítulo IV. Del acceso de funcionarios docentes a otros cuerpos del mismo grupo y nivel de complemento de destino., Art. 50)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 13) desde *(Título IV, Capítulo IV. Del acceso de funcionarios docentes a otros cuerpos del mismo grupo y nivel de complemento de destino., Art. 50)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título V, Art. 55)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título V, Art. 55)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título V, Art. 55)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título V, Capítulo I. Normas generales., Art. 56)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título V, Capítulo I. Normas generales., Art. 56)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título V, Capítulo I. Normas generales., Art. 56)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional primera) desde *(Título II. de este Reglamento., Art. 58)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional primera) desde *(Título II. de este Reglamento., Art. 58)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional primera) desde *(Título II. de este Reglamento., Art. 58)*
+- **Cita a**: [**BOE-A-1998-10720**](./RD777_1998_desarrollan_determinados_aspectos_ordenacion_formacion_profesional.md) (D. Transitoria segunda) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Transitoria segunda. del Real Decreto 777/1998, de 30 de abril, en su nueva.)*
+- **Cita a**: [**BOE-A-1998-10720**](./RD777_1998_desarrollan_determinados_aspectos_ordenacion_formacion_profesional.md) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Transitoria segunda. del Real Decreto 777/1998, de 30 de abril, en su nueva.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 100) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Transitoria primera. Exigencia de la formación pedagógica y didáctica a que.)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 100) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Transitoria primera. Exigencia de la formación pedagógica y didáctica a que.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 100) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Transitoria primera. Exigencia de la formación pedagógica y didáctica a que.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título IV, Capítulo II) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Transitoria tercera. Del procedimiento de ingreso derivado del artículo 19 de.)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título IV, Capítulo II) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Transitoria tercera. Del procedimiento de ingreso derivado del artículo 19 de.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título IV, Capítulo II) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Transitoria tercera. Del procedimiento de ingreso derivado del artículo 19 de.)*
+- **Cita a**: [**BOE-A-2007-5478**](./RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md) (Art. 2) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Transitoria cuarta. De los procedimientos de ingreso que se convoquen en.)*
+- **Cita a**: `norm-es-lo-3-2020` desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Adicional undécima. de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título IV, Capítulo II) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Transitoria séptima. Sobre temarios que han de regir la fase de oposición de.)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título IV, Capítulo II) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Transitoria séptima. Sobre temarios que han de regir la fase de oposición de.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título IV, Capítulo II) desde *(Título II. de este Reglamento., Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera., D. Transitoria séptima. Sobre temarios que han de regir la fase de oposición de.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título IV, Capítulo II) desde *(Título IV. de este Reglamento sólo se valorarán por este subapartado los años como)*
+- **Cita a**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título IV, Capítulo II) desde *(Título IV. de este Reglamento sólo se valorarán por este subapartado los años como)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título IV, Capítulo II) desde *(Título IV. de este Reglamento sólo se valorarán por este subapartado los años como)*

@@ -29,12 +29,329 @@ tags:
 - marco-normativo-general
 - titulacion
 relaciones:
+  cita:
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo III. Competencias de la Comunidad Autónoma de Canarias
+      sobre la Administración de Justicia . . .
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 3
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 6
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 9
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Derechos y deberes.
+    articulos_origen:
+    - Art. 32
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Derechos y deberes.
+    articulos_origen:
+    - Art. 35
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Principios rectores.
+    articulos_origen:
+    - Art. 37
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Principios rectores.
+    articulos_origen:
+    - Art. 37
+    articulos_destino:
+    - Art. 138
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Del Parlamento.
+    articulos_origen:
+    - Art. 42
+    articulos_destino:
+    - Art. 43
+    - Art. 87
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo VI. Órganos de relevancia estatutaria.
+    articulos_origen:
+    - Art. 58
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo VI. Órganos de relevancia estatutaria.
+    articulos_origen:
+    - Art. 59
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    articulos_origen:
+    - Art. 64
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo I. De las islas y los cabildos insulares.
+    articulos_origen:
+    - Art. 65
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo I. De las islas y los cabildos insulares.
+    articulos_origen:
+    - Art. 67
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 94
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. Materias institucionales y administrativas.
+    articulos_origen:
+    - Art. 106
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. Materias institucionales y administrativas.
+    articulos_origen:
+    - Art. 109
+    articulos_destino:
+    - Art. 36
+    - Art. 52
+    - Art. 139
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. Materias institucionales y administrativas.
+    articulos_origen:
+    - Art. 110
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. Materias institucionales y administrativas.
+    articulos_origen:
+    - Art. 113
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo III. Económico-financieras.
+    articulos_origen:
+    - Art. 114
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo III. Económico-financieras.
+    articulos_origen:
+    - Art. 116
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo III. Económico-financieras.
+    articulos_origen:
+    - Art. 118
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo V. Sector primario.
+    articulos_origen:
+    - Art. 132
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo VI. Educación, investigación, cultura y deporte.
+    articulos_origen:
+    - Art. 137
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo VII. Empleo, sanidad y políticas sociales.
+    articulos_origen:
+    - Art. 145
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo VIII. Seguridad.
+    articulos_origen:
+    - Art. 148
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo II. Del régimen financiero y tributario artículo 169
+      Los recursos de la hacienda autonómica canaria. Los recursos de la hacienda
+      autonómica canaria están constituidos por:.
+    articulos_origen:
+    - Art. 171
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo II. Del régimen financiero y tributario artículo 169
+      Los recursos de la hacienda autonómica canaria. Los recursos de la hacienda
+      autonómica canaria están constituidos por:.
+    articulos_origen:
+    - Art. 177
+    articulos_destino:
+    - Art. 158
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo II. Del régimen financiero y tributario artículo 169
+      Los recursos de la hacienda autonómica canaria. Los recursos de la hacienda
+      autonómica canaria están constituidos por:.
+    articulos_origen:
+    - Art. 180
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VII
+    capitulo_origen: Capítulo I. Relaciones interadministrativas.
+    articulos_origen:
+    - Art. 193
+    articulos_destino:
+    - Art. 145
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VII
+    capitulo_origen: Capítulo II. Acción exterior de Canarias.
+    articulos_origen:
+    - Art. 196
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    capitulo_origen: 'Capítulo II. del título I del Estatuto, se podrá proceder de
+      la siguiente manera:'
+    articulos_origen:
+    - D. Adicional primera. Tributos cedidos.
+    articulos_destino:
+    - Art. 157
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    capitulo_origen: 'Capítulo II. del título I del Estatuto, se podrá proceder de
+      la siguiente manera:'
+    articulos_origen:
+    - D. Adicional segunda. La Agencia Tributaria de Canarias.
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    capitulo_origen: 'Capítulo II. del título I del Estatuto, se podrá proceder de
+      la siguiente manera:'
+    articulos_origen:
+    - D. Adicional tercera. Compensación por modificaciones tributarias.
+    articulos_destino:
+    - Art. 157
+  modifica:
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo III. Competencias de la Comunidad Autónoma de Canarias
+      sobre la Administración de Justicia . . .
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. Materias institucionales y administrativas.
+    articulos_origen:
+    - Art. 103
+    titulo_destino: Título III
+    articulos_destino:
+    - Art. 140
+    - Art. 141
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. Materias institucionales y administrativas.
+    articulos_origen:
+    - Art. 104
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. Materias institucionales y administrativas.
+    articulos_origen:
+    - Art. 110
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo V. Sector primario.
+    articulos_origen:
+    - Art. 130
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo I. Del Régimen Económico y Fiscal de Canarias.
+    articulos_origen:
+    - Art. 167
+    disposiciones_destino:
+    - D. Adicional tercera
+  desarrolla:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 10
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo IV. Actividades industriales, comerciales y turísticas.
+    articulos_origen:
+    - Art. 127
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo VII. De la Administración de la Comunidad Autónoma de
+      Canarias.
+    articulos_origen:
+    - Art. 63
+    articulos_destino:
+    - Art. 153
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo X. Infraestructuras y redes.
+    articulos_origen:
+    - Art. 163
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo II. Del régimen financiero y tributario artículo 169
+      Los recursos de la hacienda autonómica canaria. Los recursos de la hacienda
+      autonómica canaria están constituidos por:.
+    articulos_origen:
+    - Art. 177
+    articulos_destino:
+    - Art. 157
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-can-l-6-2014
+  concordancia:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo VI. Educación, investigación, cultura y deporte.
+    articulos_origen:
+    - Art. 133
+    articulos_destino:
+    - Art. 27
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo II. Del régimen financiero y tributario artículo 169
+      Los recursos de la hacienda autonómica canaria. Los recursos de la hacienda
+      autonómica canaria están constituidos por:.
+    articulos_origen:
+    - Art. 177
+    articulos_destino:
+    - Art. 31
+    - Art. 138
+    - Art. 3
   fundamento_de:
   - norma_id: norm-can-d-114-2011
   - norma_id: norm-can-d-123-2023
@@ -66,16 +383,14 @@ relaciones:
   - norma_id: norm-can-res-boc-2026-109-92
   - norma_id: norm-can-res-boc-2026-129-26
   - norma_id: norm-can-res-boc-2026-141-29
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-ce-1978
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '147'
+  - norma_id: '147'
 ocr_procesado: true
 motor_ocr: rapidocr_onnxruntime
 ---
+
 # Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias.
 
 ## Preámbulo
@@ -2112,3 +2427,95 @@ Latitud N Longitud W
 GC: Gran Canaria. TF: Tenerife. EH: El Hierro. LP: La Palma. LZ: Lanzarote. Las coordenadas geográficas han sido tomadas de la carta náutica española 209, edición-denominación: Islas Canarias; fecha de edición: Cádiz 1958, actualización: julio 1992. ## Anexo II
 
 Mapa del Archipiélago Canario según indica el anexo I Este texto consolidado no tiene valor jurídico.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-c-1978` desde *(Título I, Capítulo I, Art. 10)*
+- **Desarrolla**: `norm-es-c-1978` desde *(Título V, Capítulo IV. Actividades industriales, comerciales y turísticas., Art. 127)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Modifica**: `norm-es-c-1978` desde *(Capítulo III. Competencias de la Comunidad Autónoma de Canarias sobre la Administración de Justicia . . .)*
+- **Modifica**: `norm-es-c-1978` (Título III, Art. 140, Art. 141) desde *(Título V, Capítulo II. Materias institucionales y administrativas., Art. 103)*
+- **Modifica**: `norm-es-c-1978` (Art. 149) desde *(Título V, Capítulo II. Materias institucionales y administrativas., Art. 104)*
+- **Modifica**: `norm-es-c-1978` desde *(Título V, Capítulo II. Materias institucionales y administrativas., Art. 110)*
+- **Modifica**: `norm-es-c-1978` (Art. 149) desde *(Título V, Capítulo V. Sector primario., Art. 130)*
+- **Modifica**: `norm-es-c-1978` (D. Adicional tercera) desde *(Título VI, Capítulo I. Del Régimen Económico y Fiscal de Canarias., Art. 167)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 153) desde *(Título II, Capítulo VII. De la Administración de la Comunidad Autónoma de Canarias., Art. 63)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Título V, Capítulo X. Infraestructuras y redes., Art. 163)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 157) desde *(Título VI, Capítulo II. Del régimen financiero y tributario artículo 169 Los recursos de la hacienda autonómica canaria. Los recursos de la hacienda autonómica canaria están constituidos por:., Art. 177)*
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](./L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamento de**: [**D114_2011 Decreto de Convivencia Escolar**](../07_convivencia_bienestar_y_protocolos/D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md)
+- **Fundamento de**: [**D123/2023 Estructura Organica del Gobierno de Canarias**](./D123_2023_determina_estructura_organica_sedes_consejerias_gobierno.md)
+- **Fundamento de**: [**L1_1997 Ley de Atencion Integral a los Menores de Canarias**](./L1_1997_atencion_integral_menores.md)
+- **Fundamento de**: [**L14_1990 Regimen Juridico Administraciones Canarias**](./L14_1990_regimen_juridico_administraciones_publicas_canarias.md)
+- **Fundamento de**: [**L16_2003 Prevencion y Proteccion de Mujeres contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/L16_2003_prevencion_proteccion_integral_mujeres_contra_violencia.md)
+- **Fundamento de**: [**L2_1987 Ley de la Funcion Publica Canaria**](./L2_1987_funcion_publica_canaria.md)
+- **Fundamento de**: [**L4_2023 Ley del Gobierno de Canarias**](./L4_2023_presidencia_gobierno_canarias.md)
+- **Fundamento de**: [**L6_2014 Ley Canaria de Educacion**](./L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamento de**: [**Resolucion BOC 30**](../03_ordenacion_curricular_y_ensenanzas/R2_5_2025_resoluci_n_mayo_direcci_n_general.md)
+- **Fundamento de**: [**Resolucion BOC 32**](../03_ordenacion_curricular_y_ensenanzas/R25_2_2026_niveles_ciclos_formativos_grado_medio_ciclos.md)
+- **Fundamento de**: [**Resolucion BOC 33**](../03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados.md)
+- **Fundamento de**: [**Resolucion BOC 34**](../03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_2.md)
+- **Fundamento de**: [**Resolucion BOC 35**](../03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_3.md)
+- **Fundamento de**: [**Resolucion BOC 36**](../03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_4.md)
+- **Fundamento de**: [**Resolucion BOC 37**](../03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_5.md)
+- **Fundamento de**: [**Resolucion BOC 38**](../03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_6.md)
+- **Fundamento de**: [**Resolucion BOC 39**](../03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_7.md)
+- **Fundamento de**: [**Resolucion BOC 42**](../03_ordenacion_curricular_y_ensenanzas/R26_11_2025_dictan_instrucciones_implantacion_desarrollo_oferta_dobles.md)
+- **Fundamento de**: [**Resolucion BOC 43**](../03_ordenacion_curricular_y_ensenanzas/R29_7_2025_comunidad_autonoma_canarias_celebrar_curso_escolar.md)
+- **Fundamento de**: [**Resolucion BOC 93**](../04_organizacion_escolar_y_funcionamiento/R3_6_2024_resoluci_n_junio.md)
+- **Fundamento de**: [**Resolucion BOC 44**](../03_ordenacion_curricular_y_ensenanzas/R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md)
+- **Fundamento de**: [**Resolucion BOC 25**](../03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
+- **Fundamento de**: [**Resolucion BOC 47**](../03_ordenacion_curricular_y_ensenanzas/R21_2_2025_dictan_instrucciones_implantacion_itinerarios_formativos_formacion.md)
+- **Fundamento de**: [**Resolucion BOC 102**](../05_alumnado_y_servicios_escolares/R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md)
+- **Fundamento de**: [**Resolucion BOC 115**](../05_alumnado_y_servicios_escolares/R26_3_2026_convocan_premios_extraordinarios_bachillerato_ambito_comunidad.md)
+- **Fundamento de**: [**Resolucion BOC 116**](../05_alumnado_y_servicios_escolares/R26_3_2026_convocan_premios_extraordinarios_educacion_secundaria_obligatoria.md)
+- **Fundamento de**: [**Resolucion BOC 41**](../03_ordenacion_curricular_y_ensenanzas/R26_3_2026_amplian_resolucion_dicta_instrucciones_orientaciones_implantacion.md)
+- **Fundamento de**: [**Resolucion BOC 92**](../04_organizacion_escolar_y_funcionamiento/R26_5_2026_resoluci_n_mayo.md)
+- **Fundamento de**: [**Resolucion BOC 26**](../03_ordenacion_curricular_y_ensenanzas/R16_6_2026_ordena_publicacion_protocolo_general_actuacion_entre.md)
+- **Fundamento de**: [**Resolucion BOC 29**](../03_ordenacion_curricular_y_ensenanzas/R2_7_2026_modifican_cuadros_horarios_establecidos_resoluciones_dictan.md)
+- **En concordancia con**: `norm-es-c-1978` (Art. 27, Art. 149) desde *(Título V, Capítulo VI. Educación, investigación, cultura y deporte., Art. 133)*
+- **En concordancia con**: `norm-es-c-1978` (Art. 31, Art. 138, Art. 3) desde *(Título VI, Capítulo II. Del régimen financiero y tributario artículo 169 Los recursos de la hacienda autonómica canaria. Los recursos de la hacienda autonómica canaria están constituidos por:., Art. 177)*
+- **Cita a**: `norm-es-c-1978` desde *(Capítulo III. Competencias de la Comunidad Autónoma de Canarias sobre la Administración de Justicia . . .)*
+- **Cita a**: `norm-es-c-1978` desde *(Título Preliminar, Art. 1)*
+- **Cita a**: `norm-es-c-1978` desde *(Título Preliminar, Art. 2)*
+- **Cita a**: `norm-es-c-1978` desde *(Título Preliminar, Art. 3)*
+- **Cita a**: `norm-es-c-1978` desde *(Título Preliminar, Art. 6)*
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Capítulo I, Art. 9)*
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Capítulo II. Derechos y deberes., Art. 32)*
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Capítulo II. Derechos y deberes., Art. 35)*
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Capítulo III. Principios rectores., Art. 37)*
+- **Cita a**: `norm-es-c-1978` (Art. 138) desde *(Título I, Capítulo III. Principios rectores., Art. 37)*
+- **Cita a**: `norm-es-c-1978` (Art. 43, Art. 87) desde *(Título II, Capítulo I. Del Parlamento., Art. 42)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo VI. Órganos de relevancia estatutaria., Art. 58)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo VI. Órganos de relevancia estatutaria., Art. 59)*
+- **Cita a**: `norm-es-c-1978` desde *(Título III, Art. 64)*
+- **Cita a**: `norm-es-c-1978` desde *(Título III, Capítulo I. De las islas y los cabildos insulares., Art. 65)*
+- **Cita a**: `norm-es-c-1978` desde *(Título III, Capítulo I. De las islas y los cabildos insulares., Art. 67)*
+- **Cita a**: `norm-es-c-1978` desde *(Título V, Capítulo I, Art. 94)*
+- **Cita a**: `norm-es-c-1978` (Art. 149) desde *(Título V, Capítulo II. Materias institucionales y administrativas., Art. 106)*
+- **Cita a**: `norm-es-c-1978` (Art. 36, Art. 52, Art. 139, Art. 149) desde *(Título V, Capítulo II. Materias institucionales y administrativas., Art. 109)*
+- **Cita a**: `norm-es-c-1978` (Art. 149) desde *(Título V, Capítulo II. Materias institucionales y administrativas., Art. 110)*
+- **Cita a**: `norm-es-c-1978` (Art. 149) desde *(Título V, Capítulo II. Materias institucionales y administrativas., Art. 113)*
+- **Cita a**: `norm-es-c-1978` (Art. 149) desde *(Título V, Capítulo III. Económico-financieras., Art. 114)*
+- **Cita a**: `norm-es-c-1978` (Art. 149) desde *(Título V, Capítulo III. Económico-financieras., Art. 116)*
+- **Cita a**: `norm-es-c-1978` (Art. 149) desde *(Título V, Capítulo III. Económico-financieras., Art. 118)*
+- **Cita a**: `norm-es-c-1978` (Art. 149) desde *(Título V, Capítulo V. Sector primario., Art. 132)*
+- **Cita a**: `norm-es-c-1978` (Art. 149) desde *(Título V, Capítulo VI. Educación, investigación, cultura y deporte., Art. 137)*
+- **Cita a**: `norm-es-c-1978` (Art. 149) desde *(Título V, Capítulo VII. Empleo, sanidad y políticas sociales., Art. 145)*
+- **Cita a**: `norm-es-c-1978` (Art. 149) desde *(Título V, Capítulo VIII. Seguridad., Art. 148)*
+- **Cita a**: `norm-es-c-1978` desde *(Título VI, Capítulo II. Del régimen financiero y tributario artículo 169 Los recursos de la hacienda autonómica canaria. Los recursos de la hacienda autonómica canaria están constituidos por:., Art. 171)*
+- **Cita a**: `norm-es-c-1978` (Art. 158) desde *(Título VI, Capítulo II. Del régimen financiero y tributario artículo 169 Los recursos de la hacienda autonómica canaria. Los recursos de la hacienda autonómica canaria están constituidos por:., Art. 177)*
+- **Cita a**: `norm-es-c-1978` desde *(Título VI, Capítulo II. Del régimen financiero y tributario artículo 169 Los recursos de la hacienda autonómica canaria. Los recursos de la hacienda autonómica canaria están constituidos por:., Art. 180)*
+- **Cita a**: `norm-es-c-1978` (Art. 145) desde *(Título VII, Capítulo I. Relaciones interadministrativas., Art. 193)*
+- **Cita a**: `norm-es-c-1978` desde *(Título VII, Capítulo II. Acción exterior de Canarias., Art. 196)*
+- **Cita a**: `norm-es-c-1978` (Art. 157) desde *(Título VIII, Capítulo II. del título I del Estatuto, se podrá proceder de la siguiente manera:, D. Adicional primera. Tributos cedidos.)*
+- **Cita a**: `norm-es-c-1978` desde *(Título VIII, Capítulo II. del título I del Estatuto, se podrá proceder de la siguiente manera:, D. Adicional segunda. La Agencia Tributaria de Canarias.)*
+- **Cita a**: `norm-es-c-1978` (Art. 157) desde *(Título VIII, Capítulo II. del título I del Estatuto, se podrá proceder de la siguiente manera:, D. Adicional tercera. Compensación por modificaciones tributarias.)*

@@ -26,6 +26,106 @@ tags:
 - oposiciones
 - profesorado
 relaciones:
+  modifica:
+  - norma_id: norm-can-l-6-2014
+    titulo_destino: Título V
+    articulos_destino:
+    - Art. 60
+  - norma_id: norm-es-lo-2-2006
+    titulo_destino: Título V
+    articulos_destino:
+    - Art. 60
+  - norma_id: norm-es-2021-20113
+    titulo_destino: Título V
+    articulos_destino:
+    - Art. 60
+  - norma_id: norm-es-2010-12201
+    titulo_destino: Título V
+    articulos_destino:
+    - Art. 60
+  desarrolla:
+  - norma_id: norm-can-d-81-2010
+    capitulo_origen: Capítulo III. , en el que establece que los objetivos de estas
+      enseñanzas, su organización y
+    articulos_destino:
+    - Art. 35
+    - Art. 1
+    - Art. 19
+    disposiciones_destino:
+    - D. Adicional tercera
+  - norma_id: norm-can-o-2013-10-09
+    capitulo_origen: Capítulo III. , en el que establece que los objetivos de estas
+      enseñanzas, su organización y
+    articulos_destino:
+    - Art. 35
+    - Art. 1
+    - Art. 19
+    disposiciones_destino:
+    - D. Adicional tercera
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo III. , en el que establece que los objetivos de estas
+      enseñanzas, su organización y
+    articulos_destino:
+    - Art. 35
+    - Art. 1
+    - Art. 19
+    disposiciones_destino:
+    - D. Adicional tercera
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo III. , en el que establece que los objetivos de estas
+      enseñanzas, su organización y
+    articulos_destino:
+    - Art. 35
+    - Art. 1
+    - Art. 19
+    disposiciones_destino:
+    - D. Adicional tercera
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo III. , en el que establece que los objetivos de estas
+      enseñanzas, su organización y
+    articulos_destino:
+    - Art. 35
+    - Art. 1
+    - Art. 19
+    disposiciones_destino:
+    - D. Adicional tercera
+  - norma_id: norm-can-d-81-2010
+    capitulo_origen: Capítulo III. , en el que establece que los objetivos de estas
+      enseñanzas, su organización y
+  - norma_id: norm-can-o-2013-10-09
+    capitulo_origen: Capítulo III. , en el que establece que los objetivos de estas
+      enseñanzas, su organización y
+  cita:
+  - norma_id: norm-can-d-84-2024
+    capitulo_origen: Capítulo III. , en el que establece que los objetivos de estas
+      enseñanzas, su organización y
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-can-d-106-2009
+    capitulo_origen: Capítulo III. , en el que establece que los objetivos de estas
+      enseñanzas, su organización y
+    articulos_destino:
+    - Art. 6
+    - Art. 7
+    - Art. 8
+  - norma_id: norm-can-d-81-2010
+    capitulo_origen: Capítulo III. , en el que establece que los objetivos de estas
+      enseñanzas, su organización y
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo III. , en el que establece que los objetivos de estas
+      enseñanzas, su organización y
+    articulos_destino:
+    - Art. 91
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo III. , en el que establece que los objetivos de estas
+      enseñanzas, su organización y
+    articulos_destino:
+    - Art. 91
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo III. , en el que establece que los objetivos de estas
+      enseñanzas, su organización y
+    articulos_destino:
+    - Art. 91
   fundamentado_en:
   - norma_id: norm-can-d-106-2009
   - norma_id: norm-can-d-212-1991
@@ -39,12 +139,10 @@ relaciones:
   fundamento_de:
   - norma_id: norm-can-res-055
   - norma_id: norm-can-res-boc-2026-116-87
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-can-d-106-2009
   - norma_id: norm-can-d-81-2010
@@ -54,6 +152,7 @@ relaciones:
   - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-133-2236.pdf
 ---
+
 # Resolución de 27 de junio de 2023, de la Dirección General de Formación Profesional y Educación de Adultos por la que se dictan instrucciones específicas sobre organización y funcionamiento de la Escuela Oficial de Idiomas a Distancia de Canarias. (BOC n.º 133, de 10 de julio).
 
 ## Preámbulo
@@ -280,3 +379,37 @@ metodológicas indispensables para impartir docencia en entornos virtuales de ap
 - [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**D81_2010 Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) (Art. 35, Art. 1, Art. 19, D. Adicional tercera) desde *(Capítulo III. , en el que establece que los objetivos de estas enseñanzas, su organización y)*
+- **Desarrolla**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md) (Art. 35, Art. 1, Art. 19, D. Adicional tercera) desde *(Capítulo III. , en el que establece que los objetivos de estas enseñanzas, su organización y)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 35, Art. 1, Art. 19, D. Adicional tercera) desde *(Capítulo III. , en el que establece que los objetivos de estas enseñanzas, su organización y)*
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 35, Art. 1, Art. 19, D. Adicional tercera) desde *(Capítulo III. , en el que establece que los objetivos de estas enseñanzas, su organización y)*
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 35, Art. 1, Art. 19, D. Adicional tercera) desde *(Capítulo III. , en el que establece que los objetivos de estas enseñanzas, su organización y)*
+- **Desarrolla**: [**D81_2010 Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) desde *(Capítulo III. , en el que establece que los objetivos de estas enseñanzas, su organización y)*
+- **Desarrolla**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md) desde *(Capítulo III. , en el que establece que los objetivos de estas enseñanzas, su organización y)*
+- **Modifica**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md) (Título V, Art. 60)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título V, Art. 60)
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título V, Art. 60)
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título V, Art. 60)
+- **Fundamentado en**: [**D106_2009 Funcion Directiva en Centros Docentes Publicos**](../04_organizacion_escolar_y_funcionamiento/D106_2009_regula_funcion_directiva_centros_docentes_publicos.md)
+- **Fundamentado en**: [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+- **Fundamentado en**: [**D81_2010 Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamento de**: [**Resolucion BOC 55**](./R26_6_2025_dictan_instrucciones_especificas_complementarias_curso_organizacion.md)
+- **Fundamento de**: [**Resolucion BOC 87**](../04_organizacion_escolar_y_funcionamiento/R29_5_2026_dictan_instrucciones_especificas_complementarias_curso_organizacion.md)
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 18) desde *(Capítulo III. , en el que establece que los objetivos de estas enseñanzas, su organización y)*
+- **Cita a**: [**D106_2009 Funcion Directiva en Centros Docentes Publicos**](../04_organizacion_escolar_y_funcionamiento/D106_2009_regula_funcion_directiva_centros_docentes_publicos.md) (Art. 6, Art. 7, Art. 8) desde *(Capítulo III. , en el que establece que los objetivos de estas enseñanzas, su organización y)*
+- **Cita a**: [**D81_2010 Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) desde *(Capítulo III. , en el que establece que los objetivos de estas enseñanzas, su organización y)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 91) desde *(Capítulo III. , en el que establece que los objetivos de estas enseñanzas, su organización y)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 91) desde *(Capítulo III. , en el que establece que los objetivos de estas enseñanzas, su organización y)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 91) desde *(Capítulo III. , en el que establece que los objetivos de estas enseñanzas, su organización y)*

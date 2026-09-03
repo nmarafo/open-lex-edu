@@ -26,33 +26,265 @@ tags:
 - profesorado
 - titulacion
 relaciones:
-  desarrolla:
+  cita:
   - norma_id: norm-es-lo-3-2022
-  fundamentado_en:
-  - norma_id: norm-es-2007-5478
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+  - norma_id: norm-es-l-39-2015
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-l-39-2015
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+  - norma_id: norm-es-2014-5591
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+  - norma_id: norm-es-2015-9462
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+  - norma_id: norm-es-2014-5591
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-2015-9462
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - Art. 2
+    titulo_destino: Título IV
+  - norma_id: norm-es-rd-217-2022
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-rd-217-2022
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 25
+  - norma_id: norm-es-2023-9553
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-2014-5591
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 2
+    disposiciones_destino:
+    - D. Transitoria sexta
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 2
+    disposiciones_destino:
+    - D. Transitoria sexta
   - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 2
+    disposiciones_destino:
+    - D. Transitoria sexta
+  - norma_id: norm-es-rd-276-2007
+    articulos_origen:
+    - Art. 2
+    disposiciones_destino:
+    - D. Transitoria sexta
+  - norma_id: norm-es-2007-5478
+    articulos_origen:
+    - Art. 2
+    disposiciones_destino:
+    - D. Transitoria sexta
+  - norma_id: norm-es-rd-276-2007
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-2007-5478
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - Art. 2
+    titulo_destino: Título V
+    capitulo_destino: Capítulo IV
+  - norma_id: norm-es-2015-9462
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-2014-5591
+    articulos_origen:
+    - Art. 2
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - D. Adicional quinta. Convalidación a través de estándares de competencias profesionales.
+  - norma_id: norm-es-rd-217-2022
+    articulos_origen:
+    - D. Adicional séptima. Expresión de la calificación.
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - D. Adicional séptima. Expresión de la calificación.
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-es-lo-3-2022
+    articulos_origen:
+    - D. Transitoria única. Aplicación de los reales decretos por los que se establecen
+      títulos de formación profesional básica de acuerdo con el calendario establecido
+      en el Real Decreto 278/2023, de 11 de abril.
+  desarrolla:
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-lo-3-2022
+  modifica:
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+  - norma_id: norm-es-2022-16194
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-2014-5591
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-2015-9462
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 12
+    - Art. 6
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 12
+    - Art. 6
+  - norma_id: norm-es-2014-5591
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 12
+    - Art. 6
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 12
+    - Art. 6
+  - norma_id: norm-es-2015-9462
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 12
+    - Art. 6
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 12
+    - Art. 6
+  fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 87
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - D. Adicional segunda. Nivel básico de la actividad preventiva.
+    articulos_destino:
+    - Art. 88
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Adicional tercera. Convalidación de ámbitos no profesionales.
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Adicional tercera. Convalidación de ámbitos no profesionales.
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Adicional tercera. Convalidación de ámbitos no profesionales.
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final primera. Título competencial.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-2007-5478
   - norma_id: norm-es-2014-5591
   - norma_id: norm-es-2015-9462
-  - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2022-16194
   - norma_id: norm-es-2023-9553
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-rd-217-2022
   - norma_id: norm-es-rd-276-2007
-  - norma_id: norm-es-rd-659-2023
-  desarrollado_por: []
-  fundamento_de:
-  - norma_id: norm-can-res-027
-  - norma_id: norm-can-res-boc-2024-230-25
-  - norma_id: norm-can-res-boc-2024-226-44
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '1'
-  - norma_id: norm-can-res-boc-2024-230-25
-  - norma_id: norm-can-res-134
+  - norma_id: '1'
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-2014-5591
   - norma_id: norm-es-2015-9462
@@ -66,6 +298,7 @@ relaciones:
   - norma_id: norm-es-2023-9553
   - norma_id: norm-es-rd-276-2007
 ---
+
 # Real Decreto 498/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado básico y se fijan sus enseñanzas mínimas.
 
 ## Preámbulo
@@ -2348,3 +2581,77 @@ Carga horaria del currículo básico
 - [**BOE-A-2022-16194**](../08_personal_docente/RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md)
 - [**BOE-A-2023-9553**](../08_personal_docente/RD286_2023_regula_asignacion_materias_educacion_secundaria_obligatoria.md)
 - [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) desde *(D. Final segunda. Entrada en vigor.)*
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) desde *(Art. 2)*
+- **Desarrolla**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
+- **Modifica**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) desde *(D. Final segunda. Entrada en vigor.)*
+- **Modifica**: [**BOE-A-2022-16194**](../08_personal_docente/RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md) desde *(D. Final segunda. Entrada en vigor.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(D. Final segunda. Entrada en vigor.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(D. Final segunda. Entrada en vigor.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(D. Final segunda. Entrada en vigor.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 1) desde *(D. Final segunda. Entrada en vigor.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 1) desde *(D. Final segunda. Entrada en vigor.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 1) desde *(D. Final segunda. Entrada en vigor.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Art. 2)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Art. 2)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Art. 2)*
+- **Modifica**: [**BOE-A-2014-5591**](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md) desde *(Art. 2)*
+- **Modifica**: [**BOE-A-2015-9462**](./RD774_2015_establecen_seis_titulos_formacion_profesional_basica.md) desde *(Art. 2)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 12, Art. 6) desde *(Art. 2)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 12, Art. 6) desde *(Art. 2)*
+- **Modifica**: [**BOE-A-2014-5591**](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md) (Art. 12, Art. 6) desde *(Art. 2)*
+- **Modifica**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 12, Art. 6) desde *(Art. 2)*
+- **Modifica**: [**BOE-A-2015-9462**](./RD774_2015_establecen_seis_titulos_formacion_profesional_basica.md) (Art. 12, Art. 6) desde *(Art. 2)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 12, Art. 6) desde *(Art. 2)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(D. Final segunda. Entrada en vigor.)*
+- **Fundamentado en**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 87) desde *(Art. 2)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 6) desde *(Art. 2)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 6) desde *(Art. 2)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 6) desde *(Art. 2)*
+- **Fundamentado en**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 88) desde *(D. Adicional segunda. Nivel básico de la actividad preventiva.)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(D. Adicional tercera. Convalidación de ámbitos no profesionales.)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(D. Adicional tercera. Convalidación de ámbitos no profesionales.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(D. Adicional tercera. Convalidación de ámbitos no profesionales.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(D. Final primera. Título competencial.)*
+- **Fundamentado en**: [**BOE-A-2007-5478**](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
+- **Fundamentado en**: [**BOE-A-2014-5591**](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md)
+- **Fundamentado en**: [**BOE-A-2015-9462**](./RD774_2015_establecen_seis_titulos_formacion_profesional_basica.md)
+- **Fundamentado en**: [**BOE-A-2022-16194**](../08_personal_docente/RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md)
+- **Fundamentado en**: [**BOE-A-2023-9553**](../08_personal_docente/RD286_2023_regula_asignacion_materias_educacion_secundaria_obligatoria.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**RD217_2022 Ordenacion y Ensenanzas Minimas de la ESO**](./RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md)
+- **Fundamentado en**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(D. Final segunda. Entrada en vigor.)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 129) desde *(D. Final segunda. Entrada en vigor.)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) desde *(D. Final segunda. Entrada en vigor.)*
+- **Cita a**: [**BOE-A-2014-5591**](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md) desde *(D. Final segunda. Entrada en vigor.)*
+- **Cita a**: [**BOE-A-2015-9462**](./RD774_2015_establecen_seis_titulos_formacion_profesional_basica.md) desde *(D. Final segunda. Entrada en vigor.)*
+- **Cita a**: [**BOE-A-2014-5591**](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md) (Art. 1) desde *(D. Final segunda. Entrada en vigor.)*
+- **Cita a**: [**BOE-A-2015-9462**](./RD774_2015_establecen_seis_titulos_formacion_profesional_basica.md) (Art. 1) desde *(Art. 2)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) desde *(Art. 2)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Título IV) desde *(Art. 2)*
+- **Cita a**: [**RD217_2022 Ordenacion y Ensenanzas Minimas de la ESO**](./RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md) desde *(Art. 2)*
+- **Cita a**: [**RD217_2022 Ordenacion y Ensenanzas Minimas de la ESO**](./RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md) (Art. 25) desde *(Art. 2)*
+- **Cita a**: [**BOE-A-2023-9553**](../08_personal_docente/RD286_2023_regula_asignacion_materias_educacion_secundaria_obligatoria.md) desde *(Art. 2)*
+- **Cita a**: [**BOE-A-2014-5591**](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md) desde *(Art. 2)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Transitoria sexta) desde *(Art. 2)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Transitoria sexta) desde *(Art. 2)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Transitoria sexta) desde *(Art. 2)*
+- **Cita a**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md) (D. Transitoria sexta) desde *(Art. 2)*
+- **Cita a**: [**BOE-A-2007-5478**](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md) (D. Transitoria sexta) desde *(Art. 2)*
+- **Cita a**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md) desde *(Art. 2)*
+- **Cita a**: [**BOE-A-2007-5478**](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md) desde *(Art. 2)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Título V, Capítulo IV) desde *(Art. 2)*
+- **Cita a**: [**BOE-A-2015-9462**](./RD774_2015_establecen_seis_titulos_formacion_profesional_basica.md) desde *(Art. 2)*
+- **Cita a**: [**BOE-A-2014-5591**](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md) (D. Adicional primera) desde *(Art. 2)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) desde *(D. Adicional quinta. Convalidación a través de estándares de competencias profesionales.)*
+- **Cita a**: [**RD217_2022 Ordenacion y Ensenanzas Minimas de la ESO**](./RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md) desde *(D. Adicional séptima. Expresión de la calificación.)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 18) desde *(D. Adicional séptima. Expresión de la calificación.)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(D. Transitoria única. Aplicación de los reales decretos por los que se establecen títulos de formación profesional básica de acuerdo con el calendario establecido en el Real Decreto 278/2023, de 11 de abril.)*

@@ -27,18 +27,62 @@ tags:
 - profesorado
 - titulacion
 relaciones:
-  fundamentado_en:
-  - norma_id: norm-es-2010-12201
+  cita:
   - norma_id: norm-es-2010-4130
+    articulos_destino:
+    - Art. 2
+    - Art. 7
+  - norma_id: norm-es-rd-243-2022
+  - norma_id: norm-es-c-1978
+  desarrolla:
   - norma_id: norm-es-2016-3229
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-rd-243-2022
+  - norma_id: norm-es-c-1978
+  modifica:
   - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 6
+    - Art. 6 bis
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 6
+    - Art. 6 bis
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 6
+    - Art. 6 bis
+  - norma_id: norm-es-lo-3-2020
+    articulos_destino:
+    - Art. 6
+    - Art. 6 bis
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-lo-3-2020
+    articulos_destino:
+    - Art. 129
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-4130
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-rd-243-2022
   fundamentos_derecho:
   - norma_id: norm-es-l-39-2015
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-2010-4130
   - norma_id: norm-es-2016-3229
@@ -46,6 +90,7 @@ relaciones:
   - norma_id: norm-es-rd-243-2022
   - norma_id: norm-es-2010-12201
 ---
+
 # Orden EFP/935/2022, de 27 de septiembre, por la que se modifica la Orden EDU/2157/2010, de 30 de julio, por la que se regula el currículo mixto de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, así como los requisitos para su obtención.
 
 ## Preámbulo
@@ -967,3 +1012,32 @@ Madrid, 27 de septiembre de 2022.–La Ministra de Educación y Formación Profe
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](./RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
+- **Desarrolla**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](./RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md)
+- **Desarrolla**: `norm-es-c-1978`
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 6, Art. 6 bis)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 6, Art. 6 bis)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 6, Art. 6 bis)
+- **Modifica**: `norm-es-lo-3-2020` (Art. 6, Art. 6 bis)
+- **Modifica**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 129)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 129)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 129)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 129)
+- **Modifica**: `norm-es-lo-3-2020` (Art. 129)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**BOE-A-2010-4130**](./RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: `norm-es-c-1978`
+- **Fundamentado en**: [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](./RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md)
+- **Cita a**: [**BOE-A-2010-4130**](./RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md) (Art. 2, Art. 7)
+- **Cita a**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](./RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md)
+- **Cita a**: `norm-es-c-1978`

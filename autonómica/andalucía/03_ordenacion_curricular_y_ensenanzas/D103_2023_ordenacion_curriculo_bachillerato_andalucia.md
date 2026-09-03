@@ -27,14 +27,705 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
-  modifica_a: []
-  modificado_por: []
-  afecta_a_articulos: []
+    articulos_destino:
+    - Art. 52
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 52
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-rd-243-2022
+    articulos_destino:
+    - Art. 52
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 52
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 52
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-lo-3-2020
+    articulos_destino:
+    - Art. 52
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo II. Currículo.
+    articulos_origen:
+    - Art. 5
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo II. Currículo.
+    articulos_origen:
+    - Art. 6
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso.
+      Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de
+      3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril,
+      podrán acceder a los estudios de la etapa quienes estén en posesión del título
+      de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos
+      de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas
+      y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-and-l17-2007
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - Art. 27
+    articulos_destino:
+    - Art. 19
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - Art. 28
+  - norma_id: norm-and-l17-2007
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Adicional primera. Educación de personas adultas.
+    articulos_destino:
+    - Art. 67
+    - Art. 110
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Adicional primera. Educación de personas adultas.
+    articulos_destino:
+    - Art. 67
+    - Art. 110
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Adicional primera. Educación de personas adultas.
+    articulos_destino:
+    - Art. 67
+    - Art. 110
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Adicional primera. Educación de personas adultas.
+    articulos_destino:
+    - Art. 67
+    - Art. 110
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    articulos_destino:
+    - Art. 5
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    articulos_destino:
+    - Art. 5
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    articulos_destino:
+    - Art. 5
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    articulos_destino:
+    - Art. 5
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+  cita:
+  - norma_id: norm-and-l17-2007
+    articulos_destino:
+    - Art. 129
+    - Art. 133
+    - Art. 7
+    - Art. 21
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 129
+    - Art. 133
+    - Art. 7
+    - Art. 21
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo I. Disposiciones de carácter general.
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo I. Disposiciones de carácter general.
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo I. Disposiciones de carácter general.
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo I. Disposiciones de carácter general.
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo I. Disposiciones de carácter general.
+    articulos_origen:
+    - Art. 3
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso.
+      Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de
+      3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril,
+      podrán acceder a los estudios de la etapa quienes estén en posesión del título
+      de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos
+      de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas
+      y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
+    articulos_origen:
+    - Art. 9
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso.
+      Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de
+      3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril,
+      podrán acceder a los estudios de la etapa quienes estén en posesión del título
+      de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos
+      de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas
+      y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 9
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso.
+      Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de
+      3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril,
+      podrán acceder a los estudios de la etapa quienes estén en posesión del título
+      de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos
+      de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas
+      y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 12
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso.
+      Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de
+      3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril,
+      podrán acceder a los estudios de la etapa quienes estén en posesión del título
+      de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos
+      de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas
+      y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 13
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso.
+      Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de
+      3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril,
+      podrán acceder a los estudios de la etapa quienes estén en posesión del título
+      de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos
+      de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas
+      y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
+    articulos_origen:
+    - Art. 10
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso.
+      Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de
+      3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril,
+      podrán acceder a los estudios de la etapa quienes estén en posesión del título
+      de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos
+      de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas
+      y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
+    articulos_origen:
+    - Art. 11
+    articulos_destino:
+    - Art. 9
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso.
+      Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de
+      3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril,
+      podrán acceder a los estudios de la etapa quienes estén en posesión del título
+      de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos
+      de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas
+      y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
+    articulos_origen:
+    - Art. 11
+    articulos_destino:
+    - Art. 12
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso.
+      Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de
+      3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril,
+      podrán acceder a los estudios de la etapa quienes estén en posesión del título
+      de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos
+      de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas
+      y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
+    articulos_origen:
+    - Art. 11
+    articulos_destino:
+    - Art. 13
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso.
+      Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de
+      3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril,
+      podrán acceder a los estudios de la etapa quienes estén en posesión del título
+      de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos
+      de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas
+      y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
+    articulos_origen:
+    - Art. 11
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso.
+      Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de
+      3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril,
+      podrán acceder a los estudios de la etapa quienes estén en posesión del título
+      de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos
+      de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas
+      y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 86
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso.
+      Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de
+      3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril,
+      podrán acceder a los estudios de la etapa quienes estén en posesión del título
+      de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos
+      de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas
+      y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 86
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso.
+      Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de
+      3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril,
+      podrán acceder a los estudios de la etapa quienes estén en posesión del título
+      de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos
+      de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas
+      y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 86
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo IV. Evaluación, promoción y titulación.
+    articulos_origen:
+    - Art. 14
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo IV. Evaluación, promoción y titulación.
+    articulos_origen:
+    - Art. 15
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo IV. Evaluación, promoción y titulación.
+    articulos_origen:
+    - Art. 16
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo IV. Evaluación, promoción y titulación.
+    articulos_origen:
+    - Art. 17
+  - norma_id: norm-es-l-40-2015
+    capitulo_origen: Capítulo IV. Evaluación, promoción y titulación.
+    articulos_origen:
+    - Art. 18
+    titulo_destino: Título PRELIMINAR
+    capitulo_destino: Capítulo II
+    seccion_destino: Sección 3.ª
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo IV. Evaluación, promoción y titulación.
+    articulos_origen:
+    - Art. 19
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo IV. Evaluación, promoción y titulación.
+    articulos_origen:
+    - Art. 21
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo IV. Evaluación, promoción y titulación.
+    articulos_origen:
+    - Art. 21
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo IV. Evaluación, promoción y titulación.
+    articulos_origen:
+    - Art. 21
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo VI. Tutoría y orientación.
+    articulos_origen:
+    - Art. 24
+  - norma_id: norm-and-l17-2007
+    capitulo_origen: Capítulo VII. Autonomía de los centros y participación en el
+      proceso educativo.
+    articulos_origen:
+    - Art. 25
+    articulos_destino:
+    - Art. 125
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo VII. Autonomía de los centros y participación en el
+      proceso educativo.
+    articulos_origen:
+    - Art. 25
+    articulos_destino:
+    - Art. 110
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo VII. Autonomía de los centros y participación en el
+      proceso educativo.
+    articulos_origen:
+    - Art. 25
+    articulos_destino:
+    - Art. 110
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo VII. Autonomía de los centros y participación en el
+      proceso educativo.
+    articulos_origen:
+    - Art. 25
+    articulos_destino:
+    - Art. 110
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Adicional primera. Educación de personas adultas.
+    disposiciones_destino:
+    - D. Adicional tercera
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Adicional primera. Educación de personas adultas.
+    articulos_destino:
+    - Art. 69
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Adicional primera. Educación de personas adultas.
+    articulos_destino:
+    - Art. 69
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Adicional primera. Educación de personas adultas.
+    articulos_destino:
+    - Art. 69
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Adicional segunda. Obtención de nuevas modalidades de Bachillerato.
+    disposiciones_destino:
+    - D. Adicional cuarta
+  - norma_id: norm-es-rd-1834-2008
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Adicional cuarta. Asignación de materias optativas propias de la Comunidad.
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Final primera. Conformidad con la normativa estatal.
+    disposiciones_destino:
+    - D. Adicional segunda
+    - D. Adicional tercera
+    - D. Adicional cuarta
   fundamentado_en:
   - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
+    capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso.
+      Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de
+      3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril,
+      podrán acceder a los estudios de la etapa quienes estén en posesión del título
+      de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos
+      de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas
+      y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
+    capitulo_destino: Capítulo III
+    articulos_destino:
+    - Art. 8
+    - Art. 32
+    - Art. 5
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso.
+      Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de
+      3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril,
+      podrán acceder a los estudios de la etapa quienes estén en posesión del título
+      de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos
+      de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas
+      y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
+    capitulo_destino: Capítulo III
+    articulos_destino:
+    - Art. 8
+    - Art. 32
+    - Art. 5
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso.
+      Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de
+      3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril,
+      podrán acceder a los estudios de la etapa quienes estén en posesión del título
+      de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos
+      de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas
+      y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
+    capitulo_destino: Capítulo III
+    articulos_destino:
+    - Art. 8
+    - Art. 32
+    - Art. 5
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso.
+      Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de
+      3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril,
+      podrán acceder a los estudios de la etapa quienes estén en posesión del título
+      de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos
+      de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas
+      y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
+    capitulo_destino: Capítulo III
+    articulos_destino:
+    - Art. 8
+    - Art. 32
+    - Art. 5
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso.
+      Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de
+      3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril,
+      podrán acceder a los estudios de la etapa quienes estén en posesión del título
+      de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos
+      de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas
+      y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 34
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso.
+      Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de
+      3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril,
+      podrán acceder a los estudios de la etapa quienes estén en posesión del título
+      de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos
+      de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas
+      y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 34
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso.
+      Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de
+      3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril,
+      podrán acceder a los estudios de la etapa quienes estén en posesión del título
+      de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos
+      de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas
+      y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 34
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso.
+      Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de
+      3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril,
+      podrán acceder a los estudios de la etapa quienes estén en posesión del título
+      de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos
+      de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas
+      y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 10
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso.
+      Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de
+      3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril,
+      podrán acceder a los estudios de la etapa quienes estén en posesión del título
+      de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos
+      de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas
+      y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 11
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso.
+      Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de
+      3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril,
+      podrán acceder a los estudios de la etapa quienes estén en posesión del título
+      de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos
+      de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas
+      y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
+    articulos_origen:
+    - Art. 11
+    articulos_destino:
+    - Art. 10
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso.
+      Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de
+      3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril,
+      podrán acceder a los estudios de la etapa quienes estén en posesión del título
+      de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos
+      de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas
+      y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
+    articulos_origen:
+    - Art. 11
+    articulos_destino:
+    - Art. 11
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo VI. Tutoría y orientación.
+    articulos_origen:
+    - Art. 24
+    articulos_destino:
+    - Art. 121
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo VI. Tutoría y orientación.
+    articulos_origen:
+    - Art. 24
+    articulos_destino:
+    - Art. 121
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo VI. Tutoría y orientación.
+    articulos_origen:
+    - Art. 24
+    articulos_destino:
+    - Art. 121
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo VII. Autonomía de los centros y participación en el
+      proceso educativo.
+    articulos_origen:
+    - Art. 25
+    articulos_destino:
+    - Art. 120
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo VII. Autonomía de los centros y participación en el
+      proceso educativo.
+    articulos_origen:
+    - Art. 25
+    articulos_destino:
+    - Art. 120
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo VII. Autonomía de los centros y participación en el
+      proceso educativo.
+    articulos_origen:
+    - Art. 25
+    articulos_destino:
+    - Art. 120
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Adicional primera. Educación de personas adultas.
+    disposiciones_destino:
+    - D. Adicional tercera
   - norma_id: norm-and-l17-2007
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Adicional primera. Educación de personas adultas.
+    articulos_destino:
+    - Art. 105
+    disposiciones_destino:
+    - D. Adicional las
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Final primera. Conformidad con la normativa estatal.
+    articulos_destino:
+    - Art. 2
+    - Art. 149
+    - Art. 3
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Final primera. Conformidad con la normativa estatal.
+    articulos_destino:
+    - Art. 2
+    - Art. 149
+    - Art. 3
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Final primera. Conformidad con la normativa estatal.
+    articulos_destino:
+    - Art. 2
+    - Art. 149
+    - Art. 3
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Final primera. Conformidad con la normativa estatal.
+    articulos_destino:
+    - Art. 2
+    - Art. 149
+    - Art. 3
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
+      del currículo.
+    articulos_origen:
+    - D. Final primera. Conformidad con la normativa estatal.
+    articulos_destino:
+    - Art. 2
+    - Art. 4
+    - Art. 5
+    - Art. 6
+    - Art. 149
+    - Art. 3
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-l-39-2015
+  modifica:
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo IV. Evaluación, promoción y titulación.
+    articulos_origen:
+    - Art. 15
+  deroga:
+  - norma_id: norm-es-lo-3-2018
+    capitulo_origen: Capítulo VII. Autonomía de los centros y participación en el
+      proceso educativo.
+    articulos_origen:
+    - Art. 26
+  - norma_id: norm-es-rd-243-2022
+    capitulo_origen: Capítulo VII. Autonomía de los centros y participación en el
+      proceso educativo.
+    articulos_origen:
+    - Art. 26
 ---
+
 # Decreto 103/2023, de 9 de mayo, por el que se establece la ordenación y el currículo del Bachillerato en la Comunidad Autónoma de Andalucía
 
 ## Preámbulo
@@ -46,7 +737,7 @@ diferencias individuales, posibilitando la creación de itinerarios formativos d
 El currículo andaluz de la etapa ha de tomar como eje estratégico y vertebrador del proceso de enseñanza y aprendizaje el desarrollo de las capacidades del alumnado y la integración de las competencias clave en el currículo educativo y en las prácticas docentes. La Ley 17/2007, de 10 de diciembre, de Educación de Andalucía y las orientaciones de la Unión Europea, inciden en la necesidad de la adquisición de las competencias clave por parte de la ciudadanía como condición indispensable para lograr que las personas puedan alcanzar su pleno desarrollo individual, social y profesional. El aprendizaje basado en competencias incluye, además del «saber», el «saber hacer» y el «saber ser y estar». Se trata de formar una ciudadanía competente a través de una educación que tenga en cuenta las competencias clave que demanda la construcción de una sociedad igualitaria, plural, dinámica y emprendedora, democrática y solidaria. Asimismo, atendiendo a los principios de igualdad de derechos y oportunidades del alumnado, se establecen las características de la atención a través de Proyectos transversales de educación en valores que se debe ofertar en aquellos casos en los que los padres, madres o personas que ejercen la tutela legal del alumnado, o, en su caso, el alumnado mayor de edad, opten por no cursar enseñanzas de Religión. Así, se establece la misma carga horaria dentro del horario lectivo reglado y con las mismas características en cuanto a la evaluación y calificación de las enseñanzas de Religión. El presente decreto se ha elaborado atendiendo a los principios de buena regulación contenidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia, en tanto que persigue un interés general al proporcionar a la ciudadanía un marco normativo de las enseñanzas básicas adecuado al nuevo ordenamiento educativo vigente y dotar así de seguridad jurídica en este ámbito a los centros docentes que imparten las mismas. Asimismo, el presente decreto cumple estrictamente el mandato establecido en dicha ley, no existiendo ninguna alternativa regulatoria menos restrictiva de derechos o que imponga menos obligaciones a las personas destinatarias, resultando coherente con el ordenamiento jurídico y permitiendo una gestión más eficiente de los recursos públicos, por lo que quedan justificados los objetivos que persigue la citada Ley. Además, en el procedimiento de elaboración de este decreto se ha permitido y facilitado la participación y las aportaciones de las personas potenciales destinatarias a través de los procedimientos de audiencia e información pública regulados en el artículo 133 de la citada ley 39/2015, de 1 de octubre. Asimismo, se ha tenido en cuenta en la elaboración de esta norma lo dispuesto en el artículo 7.2 del Decreto 622/2019, de 27 de diciembre, de administración electrónica, simplificación de procedimientos y racionalización organizativa de la Junta de Andalucía. Por ello, contiene la regulación imprescindible para atender la necesidad a cubrir con la norma y se dicta en coherencia con el ordenamiento jurídico autonómico. En su virtud, a propuesta de la Consejera de Desarrollo Educativo y Formación Profesional, conforme a los artículos 21.3 y 27.8 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, de acuerdo con el Consejo Consultivo de Andalucía y previa deliberación del Consejo de Gobierno, en su reunión del día 9 de mayo de 2023,
 DISPONGO:
 
-## Capítulo I. Disposiciones de carácter general.
+#### Artículo . #### Artículo . ## Capítulo I. Disposiciones de carácter general.
 
 #### Artículo 1. Objeto y ámbito de aplicación.
 
@@ -99,7 +790,7 @@ d) **Flexibilización.** Los estudios de Bachillerato se organizan para favorece
 e) **Equidad e inclusión educativa como garantía de una educación de calidad.** La programación, la gestión y el desarrollo de la etapa atenderán a la compensación de los efectos que las desigualdades de origen cultural, social y económico tienen en el aprendizaje. Con este mismo objetivo, las medidas organizativas, metodológicas y curriculares que se adopten se regirán por los principios del Diseño Universal para el Aprendizaje (DUA).
 f) **Excelencia educativa.** Se posibilitará la creación de itinerarios formativos, que permitan el desarrollo del éxito educativo y la búsqueda de la excelencia para todo el alumnado que ha de ser capaz de desarrollar al completo sus capacidades y potencialidades.
 
-## Capítulo II. Currículo.
+### Capítulo II. Currículo.
 
 #### Artículo 5. Objetivos de la etapa.
 
@@ -145,7 +836,7 @@ i) Se desarrollarán actividades para profundizar en las habilidades y métodos 
 
 3. En el planteamiento de las distintas situaciones de aprendizaje se garantizará el funcionamiento coordinado de los equipos docentes, con objeto de proporcionar un enfoque interdisciplinar, integrador y holístico al proceso educativo.
 
-## Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en posesión del título de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
+### Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en posesión del título de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
 
 #### Artículo 9. Ordenación general.
 
@@ -284,7 +975,7 @@ materias se imparta en lengua extranjera, sin que ello conlleve modificación de
 
 3. Los centros docentes que impartan una parte de las materias del currículo en lenguas extranjeras aplicarán, en todo caso, los criterios para la admisión del alumnado establecidos en el artículo 86 de la Ley Orgánica 2/2006, de 3 de mayo, y en la normativa específica de aplicación en Andalucía. Entre tales criterios no se incluirán requisitos lingüísticos.
 
-## Capítulo IV. Evaluación, promoción y titulación.
+### Capítulo IV. Evaluación, promoción y titulación.
 
 #### Artículo 14. Evaluación.
 
@@ -347,7 +1038,8 @@ Real Decreto 243/2022, de 5 de abril, el alumnado que tenga el título de Técni
 El alumnado que tenga el título de Técnico o Técnica de Artes Plásticas y Diseño podrá obtener el título de Bachiller en la modalidad de Artes mediante la superación de las materias comunes. También podrán obtener el título de Bachiller en la modalidad de Artes quienes hayan superado las Enseñanzas Profesionales de Música o de Danza, y superen además las materias comunes.
 
 2. En caso del alumnado que curse de manera simultánea Bachillerato y las Enseñanzas Profesionales de Música o de Danza, y haya superado dichas Enseñanzas Profesionales, podrá obtener el título de Bachiller por la modalidad que elija, además del
-título de Bachiller por la modalidad de Artes, superando las materias específicas de la modalidad elegida distinta a la de Artes y las materias comunes.
+
+## Título d. e Bachiller por la modalidad de Artes, superando las materias específicas de la modalidad elegida distinta a la de Artes y las materias comunes.
 
 3. La nota que figurará en el título de Bachiller de este alumnado se deducirá de la siguiente ponderación:
 a) El 60% de la media de las calificaciones obtenidas en las materias comunes de Bachillerato.
@@ -362,7 +1054,8 @@ b) El 40 % de la nota media obtenida en las enseñanzas mediante las que se acce
 1. En cada Delegación Territorial competente en materia de educación, se constituirán, para cada curso escolar, Comisiones Técnicas Provinciales de Reclamaciones. Cada una de las comisiones constituidas, estará formada por un inspector o inspectora de educación, que ejercerá la presidencia de la misma, y por el profesorado especialista funcionario, perteneciente al Cuerpo de Profesores de Enseñanza Secundaria, en un número no inferior a dos ni superior a cinco, de los cuales la persona de menor edad ejercerá las funciones de secretaría. Las personas que integren las Comisiones Técnicas Provinciales de Reclamaciones, así como aquellas que ejerzan su suplencia, serán designadas por la persona titular de la correspondiente Delegación Territorial.
 
 2. En los casos de vacante, ausencia o enfermedad, o por causa de abstención o recusación, los miembros de las comisiones serán sustituidos por las personas suplentes que, al tiempo de su nombramiento, se hayan designado. Adecuarán sus procedimientos a lo regulado en la Subsección 1.ª de la Sección 3.ª del Capítulo II del Título Preliminar de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y en el Capítulo II del
-Título IV de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía.
+
+## Título IV. de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía.
 
 3. A fin de garantizar la representación equilibrada de mujeres y hombres en la composición de las Comisiones Técnicas Provinciales de Reclamaciones, se actuará de acuerdo con lo previsto en el artículo 11.2 de la Ley 12/2007, de 26 de noviembre.
 
@@ -398,7 +1091,7 @@ Se considerarán informes de evaluación los boletines de calificaciones y las a
 
 4. Los procedimientos de validación de estos documentos garantizarán su autenticidad, integridad y conservación, así como el cumplimiento de las garantías en materia de protección de datos de carácter personal, todo ello teniendo en cuenta lo dispuesto en el Decreto 622/2019, de 27 de diciembre, de administración electrónica, simplificación de procedimientos y racionalización organizativa de la Junta de Andalucía.
 
-## Capítulo V. Atención a la diversidad y a las diferencias individuales.
+### Capítulo V. Atención a la diversidad y a las diferencias individuales.
 
 #### Artículo 22. Atención a la diversidad y a las diferencias individuales.
 
@@ -423,7 +1116,7 @@ e) La equidad y excelencia como garantes de la calidad educativa e igualdad de o
 
 4. Los padres, madres o personas que ejerzan la tutela legal del alumnado, según lo recogido en el Proyecto educativo del centro, recibirán información y asesoramiento respecto a las características y necesidades del alumnado, así como de las medidas a adoptar para su adecuada atención.
 
-## Capítulo VI. Tutoría y orientación.
+### Capítulo VI. Tutoría y orientación.
 
 #### Artículo 24. Principios.
 
@@ -435,7 +1128,7 @@ Real Decreto 243/2022, de 5 de abril, en la etapa de Bachillerato, la orientaci�
 
 3. Los centros deberán informar y orientar al alumnado con el fin de que la elección de las modalidades, vías y materias a las que se refieren los artículos 9, 10 y 11 sea la más adecuada para sus intereses y su orientación formativa posterior.
 
-## Capítulo VII. Autonomía de los centros y participación en el proceso educativo.
+### Capítulo VII. Autonomía de los centros y participación en el proceso educativo.
 
 #### Artículo 25. Autonomía de los centros docentes.
 
@@ -459,7 +1152,7 @@ Real Decreto 243/2022, de 5 de abril, cuando el alumnado sea menor de edad, los 
 
 2. Los derechos referidos en el apartado 1 se hacen también extensivos al alumnado mayor de edad.
 
-## Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo.
+### Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo.
 
 #### Artículo 27. Formación permanente del profesorado.
 
@@ -490,7 +1183,8 @@ c) Que el alumno o alumna se haya presentado a todas las pruebas y realizado tod
 d) Que la media aritmética de las calificaciones obtenidas en todas las materias de la etapa sea igual o superior a cinco. En este caso, a efectos del cálculo de la calificación final de la etapa, se considerará la nota numérica obtenida en la materia no superada.
 
 5. Además, el alumnado que curse estas enseñanzas y se encuentre en posesión de alguno de los títulos a los que se refiere el artículo 17 de este decreto, podrá obtener el
-título de Bachiller mediante el procedimiento previsto en el citado artículo.
+
+## Título d. e Bachiller mediante el procedimiento previsto en el citado artículo.
 
 6. Podrán incorporarse a las enseñanzas a las que se refiere la presente disposición adicional las personas mayores de dieciocho años o que cumplan esa edad dentro del año natural en que comience el curso, de conformidad con el artículo 105.1 de la Ley 17/2007, de 10 de diciembre.
 
@@ -531,7 +1225,8 @@ El presente decreto será de aplicación a partir del curso escolar 2023/2024. #
 1. El contenido de los artículos 2.3, 2.4, 2.6, 5, 8, 9.4, 9.5, 9.8, 14.1, 15.1, 16.2, 16.3, 17.1, 17.2, 25.2, así como de la disposición adicional primera.2 y 9 reproduce, total o parcialmente, normas dictadas por el Estado al amparo del artículo 149.1.1.ª y 30.ª de la Constitución Española, recogidas en los artículos 3.4 de «Las Enseñanzas», 32.1, 32.2, 32.3 y 32.4 de los «Principios generales», 33 de los «Objetivos», 34.1, 34.2, 34.4 y 34.5 de la «Organización general del bachillerato», 35 de los «Principios pegagógicos», 36.1 y 36.2 de la «Evaluación y promoción», 37.1, 37.2, 37.3, 37.4 del «Título de Bachiller», 67.2 de la «Organización», 69.4 de las «Enseñanzas postobligatorias» y 121 del «Proyecto educativo», de la Ley Orgánica 2/2006, de 3 de mayo.
 
 2. El contenido de los artículos 2, 4, 5, 6.d), 6.e), 6.h), 8, 9.2, 9.3, 9.4, 9.5, 9.6, 12.1, 12.2, 12.4, 12.5, 13.1, 15.3, 15.4, 16.2, 16.3, 16.4, 17.2, 17.3, 19, 21.1, 21.2, 22.3, así como de la disposición adicional primera y segunda reproduce, total o parcialmente, normas dictadas por el Estado al amparo del artículo 149.1.1.ª y 30.ª de la Constitución Española, recogidas en los artículos 3 de «La etapa de Bachillerato en el marco del sistema educativo», 4 de los «Fines», 5.1 y 5.2 de los «Principios generales», 6.1, 6.2 y 6.3 de los «Principios pedagógicos», 7 de los «Objetivos», 8.2, 8.3 y 8.4 de la «Organización general», 15 de la «Organización del Bachillerato en tres años académicos», 20 de la «Evaluación», 21 de la «Promoción», 22 del «Título de Bachiller», 23 de la «Obtención del
-título de Bachiller desde otras enseñanzas», 24.2 de la «Tutoría u orientación», 25.5 de la «Atención a las diferencias individuales», 26.1 y 26.4 de la «Autonomía de los centros», 27 del «Derecho del alumnado a una evaluación objetiva», 28 de la «Participación y derecho a la información de padres, madres, tutores o tutoras legales y alumnado mayor de edad», 29,1 y 29.2 de los «Documentos oficiales de evaluación», 34.1 y 34.2 de la «Autenticidad, seguridad y confidencialidad», así como de la disposición adicional
+
+## Título d. e Bachiller desde otras enseñanzas», 24.2 de la «Tutoría u orientación», 25.5 de la «Atención a las diferencias individuales», 26.1 y 26.4 de la «Autonomía de los centros», 27 del «Derecho del alumnado a una evaluación objetiva», 28 de la «Participación y derecho a la información de padres, madres, tutores o tutoras legales y alumnado mayor de edad», 29,1 y 29.2 de los «Documentos oficiales de evaluación», 34.1 y 34.2 de la «Autenticidad, seguridad y confidencialidad», así como de la disposición adicional
 
 #### Primera. «Enseñanzas de religión», de la disposición adicional segunda. «Enseñanzas del sistema educativo español impartidas en lenguas extranjeras», de la disposición adicional tercera. «Educación de personas adultas» y de la disposición adicional cuarta. «Obtención de nuevas modalidades de Bachillerato», del Real Decreto 243/2022, de 5 de abril.
 
@@ -541,11 +1236,8 @@ Se habilita a la persona titular de la Consejería competente en materia de educ
 
 #### Disposición final tercera. Entrada en vigor.
 
-El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 9 de mayo de 2023 JUAN MANUEL MORENO BONILLA Presidente de la Junta de Andalucía PATRICIA DEL POZO FERNÁNDEZ Consejera de Desarrollo Educativo y Formación Profesional
+## Anexo C. OMPETENCIAS CLAVE Y PERFIL COMPETENCIAL AL TÉRMINO DE LA ETAPA DE BACHILLERATO Con carácter general, debe entenderse que la consecución de las competencias y objetivos previstos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación para las distintas etapas educativas está vinculada a la adquisición y desarrollo de las competencias clave recogidas tanto en el Perfil de salida al término de la enseñanza básica como en el Perfil competencial al término de Bachillerato, y que son las siguientes:
 
-## Anexo
-
-COMPETENCIAS CLAVE Y PERFIL COMPETENCIAL AL TÉRMINO DE LA ETAPA DE BACHILLERATO Con carácter general, debe entenderse que la consecución de las competencias y objetivos previstos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación para las distintas etapas educativas está vinculada a la adquisición y desarrollo de las competencias clave recogidas tanto en el Perfil de salida al término de la enseñanza básica como en el Perfil competencial al término de Bachillerato, y que son las siguientes:
 - Competencia en comunicación lingüística.
 - Competencia plurilingüe.
 - Competencia matemática y competencia en ciencia, tecnología e ingeniería.
@@ -570,3 +1262,98 @@ en la comprensión de los conceptos y las estructuras sociales, económicas, jur
 Descriptores operativos AL COMPLETAR LA ENSEÑANZA BÁSICA, EL ALUMNO O LA ALUMNA ... AL COMPLETAR LA ETAPA DE BACHILLERATO, EL ALUMNO O LA ALUMNA… CE1. Analiza necesidades y oportunidades y afronta retos con sentido crítico, haciendo balance de su sostenibilidad, valorando el impacto que puedan suponer en el entorno, para presentar ideas y soluciones innovadoras, éticas y sostenibles, dirigidas a crear valor en el ámbito personal, social, educativo y profesional. CE1. Evalúa necesidades y oportunidades y afronta retos, con sentido crítico y ético, evaluando su sostenibilidad y comprobando, a partir de conocimientos técnicos específicos, el impacto que puedan suponer en el entorno, para presentar y ejecutar ideas y soluciones innovadoras dirigidas a distintos contextos, tanto locales como globales, en el ámbito personal, social y académico con proyección profesional emprendedora. CE2. Evalúa las fortalezas y debilidades propias, haciendo uso de estrategias de autoconocimiento y autoeficacia, y comprende los elementos fundamentales de la economía y las finanzas, aplicando conocimientos económicos y financieros a actividades y situaciones concretas, utilizando destrezas que favorezcan el trabajo colaborativo y en equipo, para reunir y optimizar los recursos necesarios que lleven a la acción una experiencia emprendedora que genere valor. CE2. Evalúa y reflexiona sobre las fortalezas y debilidades propias y las de los demás, haciendo uso de estrategias de autoconocimiento y autoeficacia, interioriza los conocimientos económicos y financieros específicos y los transfiere a contextos locales y globales, aplicando estrategias y destrezas que agilicen el trabajo colaborativo y en equipo, para reunir y optimizar los recursos necesarios, que lleven a la acción una experiencia o iniciativa emprendedora de valor. CE3. Desarrolla el proceso de creación de ideas y soluciones valiosas y toma decisiones, de manera razonada, utilizando estrategias ágiles de planificación y gestión, y reflexiona sobre el proceso realizado y el resultado obtenido, para llevar a término el proceso de creación de prototipos innovadores y de valor, considerando la experiencia como una oportunidad para aprender. CE3. Lleva a cabo el proceso de creación de ideas y soluciones innovadoras y toma decisiones, con sentido crítico y ético, aplicando conocimientos técnicos específicos y estrategias ágiles de planificación y gestión de proyectos, y reflexiona sobre el proceso realizado y el resultado obtenido, para elaborar un prototipo final de valor para los demás, considerando tanto la experiencia de éxito como de fracaso, una oportunidad para aprender. COMPETENCIA EN CONCIENCIA Y EXPRESIONES CULTURALES La competencia en conciencia y expresión culturales supone comprender y respetar el modo en que las ideas, las opiniones, los sentimientos y las emociones se expresan y se comunican de forma creativa en distintas culturas y por medio de una amplia gama de manifestaciones artísticas y culturales. Implica también un compromiso con la comprensión, el desarrollo y la expresión de las ideas propias y del sentido del lugar que se ocupa o del papel que se desempeña en la sociedad. Asimismo, requiere la comprensión de la propia identidad en evolución y del patrimonio cultural en un mundo caracterizado por la diversidad, así como la toma de conciencia de que el arte y otras manifestaciones culturales pueden suponer una manera de mirar el mundo y de darle forma. Descriptores operativos AL COMPLETAR LA ENSEÑANZA BÁSICA, EL ALUMNO O LA ALUMNA ... AL COMPLETAR LA ETAPA DE BACHILLERATO, EL ALUMNO O LA ALUMNA… CCEC1. Conoce, aprecia críticamente y respeta el patrimonio cultural y artístico, implicándose en su conservación y valorando el enriquecimiento inherente a la diversidad cultural y artística. CCEC1. Reflexiona, promueve y valora críticamente el patrimonio cultural y artístico de cualquier época, contrastando sus singularidades y partiendo de su propia identidad, para defender la libertad de expresión, la igualdad y el enriquecimiento inherente a la diversidad. CCEC2. Disfruta, reconoce y analiza con autonomía las especificidades e intencionalidades de las manifestaciones artísticas y culturales más destacadas del patrimonio, distinguiendo los medios y soportes, así como los lenguajes y elementos técnicos que las caracterizan. CCEC2. Investiga las especificidades e intencionalidades de diversas manifestaciones artísticas y culturales del patrimonio, mediante una postura de recepción activa y deleite, diferenciando y analizando los distintos contextos, medios y soportes en que se materializan, así como los lenguajes y elementos técnicos y estéticos que las caracterizan.
 
 AL COMPLETAR LA ENSEÑANZA BÁSICA, EL ALUMNO O LA ALUMNA ... AL COMPLETAR LA ETAPA DE BACHILLERATO, EL ALUMNO O LA ALUMNA… CCEC4. Conoce, selecciona y utiliza con creatividad diversos medios y soportes, así como técnicas plásticas, visuales, audiovisuales, sonoras o corporales, para la creación de productos artísticos y culturales, tanto de forma individual como colaborativa, identificando oportunidades de desarrollo personal, social y laboral, así como de emprendimiento. CCEC4.1  Selecciona e integra con creatividad diversos medios y soportes, así como técnicas plásticas, visuales, audiovisuales, sonoras o corporales, para diseñar y producir proyectos artísticos y culturales sostenibles, analizando las oportunidades de desarrollo personal, social y laboral que ofrecen sirviéndose de la interpretación, la ejecución, la improvisación o la composición. CCEC4.2  Planifica, adapta y organiza sus conocimientos, destrezas y actitudes para responder con creatividad y eficacia a los desempeños derivados de una producción cultural o artística, individual o colectiva, utilizando diversos lenguajes, códigos, técnicas, herramientas y recursos plásticos, visuales, audiovisuales, musicales, corporales o escénicos, valorando tanto el proceso como el producto final y comprendiendo las oportunidades personales, sociales, inclusivas y económicas que ofrecen.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 52, Art. 149, Art. 27)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 52, Art. 149, Art. 27)
+- **Desarrolla**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) (Art. 52, Art. 149, Art. 27)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 52, Art. 149, Art. 27)
+- **Desarrolla**: `norm-es-c-1978` (Art. 52, Art. 149, Art. 27)
+- **Desarrolla**: `norm-es-lo-3-2020` (Art. 52, Art. 149, Art. 27)
+- **Desarrolla**: `norm-es-c-1978`
+- **Desarrolla**: `norm-es-c-1978` desde *(Capítulo II. Currículo., Art. 5)*
+- **Desarrolla**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) desde *(Capítulo II. Currículo., Art. 6)*
+- **Desarrolla**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) (Art. 3) desde *(Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en posesión del título de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior., Art. 9)*
+- **Desarrolla**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) (Art. 19) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., Art. 27)*
+- **Desarrolla**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., Art. 28)*
+- **Desarrolla**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) (Art. 67, Art. 110) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Adicional primera. Educación de personas adultas.)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 67, Art. 110) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Adicional primera. Educación de personas adultas.)*
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 67, Art. 110) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Adicional primera. Educación de personas adultas.)*
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 67, Art. 110) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Adicional primera. Educación de personas adultas.)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 5) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Final tercera. Entrada en vigor.)*
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 5) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Final tercera. Entrada en vigor.)*
+- **Desarrolla**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) (Art. 5) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Final tercera. Entrada en vigor.)*
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 5) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Final tercera. Entrada en vigor.)*
+- **Desarrolla**: `norm-es-c-1978` desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Final tercera. Entrada en vigor.)*
+- **Modifica**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) desde *(Capítulo IV. Evaluación, promoción y titulación., Art. 15)*
+- **Deroga**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) desde *(Capítulo VII. Autonomía de los centros y participación en el proceso educativo., Art. 26)*
+- **Deroga**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) desde *(Capítulo VII. Autonomía de los centros y participación en el proceso educativo., Art. 26)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Capítulo III, Art. 8, Art. 32, Art. 5) desde *(Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en posesión del título de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Capítulo III, Art. 8, Art. 32, Art. 5) desde *(Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en posesión del título de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.)*
+- **Fundamentado en**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) (Capítulo III, Art. 8, Art. 32, Art. 5) desde *(Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en posesión del título de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Capítulo III, Art. 8, Art. 32, Art. 5) desde *(Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en posesión del título de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 34) desde *(Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en posesión del título de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior., Art. 9)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 34) desde *(Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en posesión del título de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior., Art. 9)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 34) desde *(Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en posesión del título de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior., Art. 9)*
+- **Fundamentado en**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) (Art. 10) desde *(Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en posesión del título de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior., Art. 10)*
+- **Fundamentado en**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) (Art. 11) desde *(Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en posesión del título de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior., Art. 10)*
+- **Fundamentado en**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) (Art. 10) desde *(Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en posesión del título de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior., Art. 11)*
+- **Fundamentado en**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) (Art. 11) desde *(Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en posesión del título de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior., Art. 11)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 121) desde *(Capítulo VI. Tutoría y orientación., Art. 24)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 121) desde *(Capítulo VI. Tutoría y orientación., Art. 24)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 121) desde *(Capítulo VI. Tutoría y orientación., Art. 24)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 120) desde *(Capítulo VII. Autonomía de los centros y participación en el proceso educativo., Art. 25)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 120) desde *(Capítulo VII. Autonomía de los centros y participación en el proceso educativo., Art. 25)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 120) desde *(Capítulo VII. Autonomía de los centros y participación en el proceso educativo., Art. 25)*
+- **Fundamentado en**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) (D. Adicional tercera) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Adicional primera. Educación de personas adultas.)*
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) (Art. 105, D. Adicional las) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Adicional primera. Educación de personas adultas.)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 2, Art. 149, Art. 3, D. Adicional primera) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Final primera. Conformidad con la normativa estatal.)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 2, Art. 149, Art. 3, D. Adicional primera) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Final primera. Conformidad con la normativa estatal.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 2, Art. 149, Art. 3, D. Adicional primera) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Final primera. Conformidad con la normativa estatal.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 2, Art. 149, Art. 3, D. Adicional primera) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Final primera. Conformidad con la normativa estatal.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 2, Art. 4, Art. 5, Art. 6, Art. 149, Art. 3, D. Adicional primera) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Final primera. Conformidad con la normativa estatal.)*
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) (Art. 129, Art. 133, Art. 7, Art. 21)
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 129, Art. 133, Art. 7, Art. 21)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 3) desde *(Capítulo I. Disposiciones de carácter general., Art. 2)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 3) desde *(Capítulo I. Disposiciones de carácter general., Art. 2)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 3) desde *(Capítulo I. Disposiciones de carácter general., Art. 2)*
+- **Cita a**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) desde *(Capítulo I. Disposiciones de carácter general., Art. 2)*
+- **Cita a**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) desde *(Capítulo I. Disposiciones de carácter general., Art. 3)*
+- **Cita a**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) desde *(Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en posesión del título de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior., Art. 9)*
+- **Cita a**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) (Art. 9) desde *(Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en posesión del título de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior., Art. 10)*
+- **Cita a**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) (Art. 12) desde *(Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en posesión del título de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior., Art. 10)*
+- **Cita a**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) (Art. 13) desde *(Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en posesión del título de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior., Art. 10)*
+- **Cita a**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) desde *(Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en posesión del título de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior., Art. 10)*
+- **Cita a**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) (Art. 9) desde *(Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en posesión del título de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior., Art. 11)*
+- **Cita a**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) (Art. 12) desde *(Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en posesión del título de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior., Art. 11)*
+- **Cita a**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) (Art. 13) desde *(Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en posesión del título de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior., Art. 11)*
+- **Cita a**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) desde *(Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en posesión del título de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior., Art. 11)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 86) desde *(Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en posesión del título de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior., Art. 13)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 86) desde *(Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en posesión del título de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior., Art. 13)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 86) desde *(Capítulo III. Acceso y ordenación de la etapa artículo 8 Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en posesión del título de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior., Art. 13)*
+- **Cita a**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) desde *(Capítulo IV. Evaluación, promoción y titulación., Art. 14)*
+- **Cita a**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) desde *(Capítulo IV. Evaluación, promoción y titulación., Art. 15)*
+- **Cita a**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) desde *(Capítulo IV. Evaluación, promoción y titulación., Art. 16)*
+- **Cita a**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) desde *(Capítulo IV. Evaluación, promoción y titulación., Art. 17)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Título PRELIMINAR, Capítulo II, Sección 3.ª) desde *(Capítulo IV. Evaluación, promoción y titulación., Art. 18)*
+- **Cita a**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) desde *(Capítulo IV. Evaluación, promoción y titulación., Art. 19)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional vigesimotercera) desde *(Capítulo IV. Evaluación, promoción y titulación., Art. 21)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional vigesimotercera) desde *(Capítulo IV. Evaluación, promoción y titulación., Art. 21)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional vigesimotercera) desde *(Capítulo IV. Evaluación, promoción y titulación., Art. 21)*
+- **Cita a**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) desde *(Capítulo VI. Tutoría y orientación., Art. 24)*
+- **Cita a**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) (Art. 125) desde *(Capítulo VII. Autonomía de los centros y participación en el proceso educativo., Art. 25)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 110) desde *(Capítulo VII. Autonomía de los centros y participación en el proceso educativo., Art. 25)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 110) desde *(Capítulo VII. Autonomía de los centros y participación en el proceso educativo., Art. 25)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 110) desde *(Capítulo VII. Autonomía de los centros y participación en el proceso educativo., Art. 25)*
+- **Cita a**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) (D. Adicional tercera) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Adicional primera. Educación de personas adultas.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 69) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Adicional primera. Educación de personas adultas.)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 69) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Adicional primera. Educación de personas adultas.)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 69) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Adicional primera. Educación de personas adultas.)*
+- **Cita a**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) (D. Adicional cuarta) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Adicional segunda. Obtención de nuevas modalidades de Bachillerato.)*
+- **Cita a**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](../../../estatal/02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Adicional cuarta. Asignación de materias optativas propias de la Comunidad.)*
+- **Cita a**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) (D. Adicional segunda, D. Adicional tercera, D. Adicional cuarta) desde *(Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo del currículo., D. Final primera. Conformidad con la normativa estatal.)*

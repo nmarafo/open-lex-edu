@@ -103,25 +103,55 @@
     },
     "relaciones": {
       "type": "object",
-      "properties": {
-        "desarrolla": {
-          "type": "array"
-        },
-        "modifica_a": {
-          "type": "array"
-        },
-        "modificado_por": {
-          "type": "array"
-        },
-        "afecta_a_articulos": {
-          "type": "array"
+      "additionalProperties": {
+        "type": "array",
+        "items": {
+          "type": ["object", "string"],
+          "properties": {
+            "norma_id": { "type": "string" },
+            "titulo_origen": { "type": "string" },
+            "capitulo_origen": { "type": "string" },
+            "seccion_origen": { "type": "string" },
+            "articulos_origen": {
+              "type": "array",
+              "items": { "type": "string" }
+            },
+            "titulo_destino": { "type": "string" },
+            "capitulo_destino": { "type": "string" },
+            "seccion_destino": { "type": "string" },
+            "articulos_destino": {
+              "type": "array",
+              "items": { "type": "string" }
+            },
+            "disposiciones_destino": {
+              "type": "array",
+              "items": { "type": "string" }
+            },
+            "tipo": { "type": "string" },
+            "descripcion": { "type": "string" }
+          }
         }
       }
     },
     "fundamentos_derecho": {
       "type": "array",
       "items": {
-        "type": "object"
+        "type": ["object", "string"],
+        "properties": {
+          "norma_id": { "type": "string" },
+          "titulo_destino": { "type": "string" },
+          "capitulo_destino": { "type": "string" },
+          "seccion_destino": { "type": "string" },
+          "articulos_destino": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "disposiciones_destino": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "descripcion": { "type": "string" }
+        }
       }
     }
   }

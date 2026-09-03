@@ -28,6 +28,45 @@ tags:
 - personal-no-docente
 - profesorado
 relaciones:
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 32
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 32
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 32
+  - norma_id: norm-es-lo-3-2020
+    articulos_destino:
+    - Art. 32
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 17
+  - norma_id: norm-can-d-25-2018
+    articulos_destino:
+    - Art. 17
+  - norma_id: norm-es-l-40-2015
+    articulos_destino:
+    - Art. 17
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 17
+    - Art. 121
+    - Art. 122
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 17
+    - Art. 121
+    - Art. 122
+  cita:
+  - norma_id: norm-can-l-6-2014
+    articulos_destino:
+    - Art. 1
+    - Art. 3
+    - Art. 5
+    - Art. 37
   fundamentado_en:
   - norma_id: norm-can-d-25-2018
   - norma_id: norm-can-d-84-2024
@@ -38,12 +77,10 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-es-lo-2-2006
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-res-boc-2019-069-48
   - norma_id: norm-can-d-25-2018
@@ -54,6 +91,7 @@ relaciones:
   - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-060-1011.pdf
 ---
+
 # Resolución de la Dirección General de Ordenación de las Enseñanzas, Inclusión e Innovación, por la que se dictan instrucciones para regular la implantación, con carácter de experiencia piloto, del Programa del Diploma del Bachillerato Internacional en centros educativos públicos de la Comunidad Autónoma de Canarias, durante el curso 2026-2027. Presentación de solicitudes de participación del alumnado por vía telemática: del 20 de abril al 11 de mayo (BOC nº 60, de 27 de marzo).
 
 ## Preámbulo
@@ -336,3 +374,28 @@ SOLICITUD DE PARTICIPACIÓN EN EL PROGRAMA DEL DIPLOMA DEL BACHILLERATO INTERNAC
 - [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 32)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 32)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 32)
+- **Desarrolla**: `norm-es-lo-3-2020` (Art. 32)
+- **Desarrolla**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 17)
+- **Desarrolla**: [**D25_2018 Regulacion de la Atencion a la Diversidad en Canarias**](../06_atencion_diversidad_y_orientacion/D25_2018_regula_atencion_diversidad_ambito_ensenanzas_no.md) (Art. 17)
+- **Desarrolla**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 17)
+- **Desarrolla**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 17, Art. 121, Art. 122)
+- **Desarrolla**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 17, Art. 121, Art. 122)
+- **Fundamentado en**: [**D25_2018 Regulacion de la Atencion a la Diversidad en Canarias**](../06_atencion_diversidad_y_orientacion/D25_2018_regula_atencion_diversidad_ambito_ensenanzas_no.md)
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**Resolucion BOC 48**](./R26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md) (Art. 1, Art. 3, Art. 5, Art. 37)

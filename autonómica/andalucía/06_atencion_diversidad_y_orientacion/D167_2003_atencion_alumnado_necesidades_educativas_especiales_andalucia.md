@@ -26,13 +26,28 @@ tags:
 - adaptaciones
 - andalucia
 relaciones:
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
+  modifica:
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo III. Procedimiento de inscripción.
+    articulos_origen:
+    - Art. 35
   fundamentado_en:
+  - norma_id: norm-es-1985-5392
+    capitulo_origen: Capítulo V. Inspección y régimen sancionador artículo 44 Inspección.
+      Los servicios de inspección de la Consejería de Turismo y Deporte ejercerán
+      las funciones de comprobación y control del cumplimiento de lo establecido en
+      el presente Decreto.
+    articulos_origen:
+    - Art. 45
+    articulos_destino:
+    - Art. 4
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-1-1996
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 ---
+
 # Decreto 167/2003, de 17 de junio, por el que se establece la ordenación de la atención educativa al alumnado con necesidades educativas especiales.
 
 ## Preámbulo
@@ -42,7 +57,7 @@ Página núm.
 **14.238** Sevilla, 27 de junio 2003 CONSEJERIA DE TURISMO Y DEPORTE DECRETO 164/2003, de 17 de junio, de ordenación de los campamentos de turismo. La Comunidad Autónoma de Andalucía tiene competencia exclusiva en materia de ordenación y promoción del turismo, según establece el artículo 13.17 del Estatuto de Autonomía para Andalucía. En ejercicio de dicha competencia se aprueba este Decreto, debido a la necesidad tanto de actualizar los contenidos del Decreto 154/1987, de 3 de junio, de ordenación y clasificación de campamentos de turismo y a diversas normas legales, especialmente a la Ley 12/1999, de 15 de diciembre, del Turismo, como de adaptarlos a la nueva realidad que ofrece el turismo en Andalucía. El Decreto, estructurado en cinco capítulos, incorpora numerosas previsiones en orden a garantizar que el servicio turístico de alojamiento en campamentos de turismo se preste con una mayor calidad y seguridad para los usuarios turísticos, dentro de un marco de desarrollo sostenible. El capítulo I contiene las «Disposiciones generales», destacando la prohibición de la práctica de la acampada libre con la finalidad de proteger los espacios naturales y la profundización en las medidas de seguridad, especialmente necesarias para este tipo de establecimientos turísticos, velando para que la ubicación y el uso de los campamentos de turismo reúnan las condiciones adecuadas para el disfrute de la práctica de la acampada sin riesgo para el usuario turístico. El texto reglamentario prevé la ordenación de los campamentos de turismo en las categorías tradicionales, identificadas mediante estrellas y, como novedad, en una de las modalidades que establece el Decreto, pudiendo clasificarse potestativamente en distintas especialidades en función de sus características y calidad de los servicios prestados o de la tipología de su oferta. El Decreto determina que las especialidades se aprobarán mediante Orden de la Consejería de Turismo y Deporte, si bien la disposición adicional segunda reconoce como una especialidad la del campamento-cortijo, estableciendo el régimen jurídico que le es de aplicación. Se regulan, por último, en este capítulo I, los derechos y obligaciones tanto de las empresas titulares de los campamentos turísticos, como de los usuarios turísticos conforme a lo previsto en la Ley 12/1999, de 15 de diciembre, del Turismo. El capítulo II, bajo la rúbrica «Requisitos de los campamentos de turismo», contiene de una parte, los requisitos estructurales y de otra, los requisitos de seguridad, de suministros y de tratamiento de los residuos generados. Entre los primeros destaca la adopción de medidas específicas relativas a facilitar el disfrute de estos establecimientos turísticos por personas con algún tipo de discapacidad, bien mediante la supresión de barreras arquitectónicas, reserva de espacios para discapacitados o mediante la regulación de los derechos previstos en la Ley 5/1998, de 23 de noviembre, de uso de perros-guía por personas con disfunción visual. En el capítulo III, «Procedimiento de inscripción», se incorpora, entre otras, la previsión de que los campamentos que pretendan ubicarse en suelo no urbanizable hayan obtenido previamente el informe ambiental con carácter favorable, conforme a lo dispuesto en Ley 7/1994, de 18 de mayo, de Protección Ambiental de Andalucía. Por otra parte, se establece que los titulares de las Delegaciones Provinciales de Turismo y Deporte son los competentes para resolver las solicitudes de inscripción provisional y definitiva de los campamentos en el Registro de Turismo de Andalucía. Asimismo, el texto del Decreto incorpora la adecuación a la normativa en materia del procedimiento administrativo común en lo referente a los plazos de resolución y notificación. El capítulo IV «Régimen de funcionamiento de los campamentos de turismo», además de configurar las condiciones de acceso y permanencia en estos establecimientos turísticos, así como las normas generales de organización y funcionamiento, consagra una serie de limitaciones como la prohibición de vender parcelas, de ocupar las mismas por período superior a ocho meses en un año o de colocar instalaciones fijas, cierres, pavimento y cualesquiera otros elementos de naturaleza análoga distintos de los regulados en el presente Decreto. El Decreto contiene, en su capítulo V, una referencia al seguimiento y control del cumplimiento de lo establecido en el mismo mediante el ejercicio de la competencia de inspección por la Consejería de Turismo y Deporte y, en su caso, con la iniciación de los procedimientos sancionadores que procedan por infracción a la normativa turística de aplicación. Por su parte, la disposición adicional tercera, de acuerdo con el artículo 27.2 de la Ley 12/1999, de 15 de diciembre, del Turismo, reconoce como nuevo servicio turístico al ecoturismo o turismo ecológico, cuyo objeto está constituido por la organización de actividades que, comercializadas con carácter profesional y prestadas bajo criterios de responsabilidad ambiental, se basan en el aprecio, disfrute, sensibilización, estudio e interpretación de los recursos naturales. El régimen aplicable a los campamentos de turismo de uso privado se encuentra en la disposición adicional quinta, siendo su principal finalidad la de asegurar que la prestación del servicio de alojamiento turístico tenga lugar con un aceptable nivel de calidad y seguridad, de modo que les serán aplicables determinadas previsiones reglamentarias, tales como las referentes a su ubicación, superficies y capacidad del campamento, instalaciones higiénicas, viales y aparcamientos, requisitos de seguridad, suministros y tratamiento de residuos. Finalmente, se establece un régimen transitorio con la finalidad esencial de regularizar la situación de las áreas de acampada existentes y la de proceder a la necesaria adaptación a las exigencias de la nueva normativa por parte de los campamentos de turismo inscritos en el Registro de Turismo de Andalucía, lo que tendrá lugar en diferentes plazos, dependiendo de la trascendencia de los cambios introducidos y de la viabilidad de los mismos. Por todo ello, oídas las organizaciones representativas de los empresarios, trabajadores, consumidores, municipios y provincias y de acuerdo con la disposición final segunda de la Ley 12/1999, de 15 de diciembre, del Turismo y el artículo 39.2 de la Ley 6/1983, de 21 de julio, de Gobierno y Administración de la Comunidad Autónoma de Andalucía, a propuesta del Consejero de Turismo y Deporte, de acuerdo con el Consejo Consultivo de Andalucía, previa deliberación del Consejo de Gobierno en su reunión de 17 de junio de
 DISPONGO:
 
-### Capítulo I
+#### Artículo . #### Artículo . ### Capítulo I
 
 ### Disposiciones generales
 
@@ -197,7 +212,7 @@ c) Abonar en las condiciones pactadas el importe de los servicios turísticos co
 
 de turismo se tendrá siempre en cuenta la necesaria preservación de los valores naturales, históricos, culturales, urbanos, artísticos, paisajísticos, agrícolas, faunísticos y forestales del territorio de que se trate. Asimismo, se adoptarán actuaciones relativas a la información, sensibilización y educación ambiental.
 
-## Capítulo II. Requisitos de los campamentos de turismo.
+### Capítulo II. Requisitos de los campamentos de turismo.
 
 #### Sección 1. ª Requisitos estructurales
 
@@ -398,7 +413,7 @@ Página núm.
 
 Sin perjuicio de lo establecido en el artículo anterior, mediante resolución de la Dirección General de Planificación Turística de la Consejería de Turismo y Deporte, se podrán determinar aquellos requisitos objeto de dispensa de entre los exigidos en la Sección 1.ª de este capítulo, cuando así lo aconseje el reconocimiento de una determinada especialidad en función de su naturaleza y peculiaridades específicas.
 
-## Capítulo III. Procedimiento de inscripción.
+### Capítulo III. Procedimiento de inscripción.
 
 #### Artículo 34. Inscripción provisional.
 
@@ -454,7 +469,7 @@ d) Licencia de primera utilización concedida por el Ayuntamiento en la que cons
 
 2. El cambio de titularidad de la explotación, para el que se exigirá la aportación por el nuevo titular de la documentación exigida en el artículo 35.3, letras a) y b), y de la temporada de funcionamiento deberán ser comunicados por la empresa a la Delegación Provincial correspondiente en el plazo de diez días desde que tenga lugar. El cierre definitivo se notificará con carácter previo al cese de la actividad.
 
-## Capítulo IV. Régimen de funcionamiento de los campamentos de turismo.
+### Capítulo IV. Régimen de funcionamiento de los campamentos de turismo.
 
 #### Artículo 39. Acceso y permanencia en los campamentos. de turismo.
 
@@ -521,7 +536,7 @@ g) Cuantas otras instrucciones se consideren oportunas para un uso racional y ap
 
 5. El establecimiento entregará a los usuarios un justificante de todos los servicios cobrados, recogiendo expresamente en el mismo los días de estancia, el número de personas, vehículos y elementos de acampada, y cualquier otro servicio objeto de cobro.
 
-## Capítulo V. Inspección y régimen sancionador artículo 44 Inspección. Los servicios de inspección de la Consejería de Turismo y Deporte ejercerán las funciones de comprobación y control del cumplimiento de lo establecido en el presente Decreto.
+### Capítulo V. Inspección y régimen sancionador artículo 44 Inspección. Los servicios de inspección de la Consejería de Turismo y Deporte ejercerán las funciones de comprobación y control del cumplimiento de lo establecido en el presente Decreto.
 
 #### Artículo 45. Régimen sancionador.
 
@@ -647,7 +662,7 @@ l) Las exigencias en la dotación de servicios higiénicos para el ahorro de agu
 
 Hasta la entrada en vigor de la Orden prevista en el artículo 11.2.a), la cobertura mínima obligatoria de los contratos de seguro de responsabilidad civil a suscribir por las empresas turísticas que exploten campamentos de turismo, será de seiscientos mil euros por siniestro, pudiendo pactar el tomador de seguro con la compañía aseguradora una franquicia máxima de seiscientos euros.
 
-Disposición derogatoria .... Derogación de normas.
+#### Disposición derogatoria . ... Derogación de normas.
 
 Sin perjuicio de lo establecido en la disposición transitoria
 
@@ -661,15 +676,9 @@ Se habilita al titular de la Consejería de Turismo y Deporte para aprobar cuant
 
 de la Consejería de Medio Ambiente la Orden prevista en la
 
-#### Disposición adicional tercera.
+#### Disposición adicional tercera. #### Disposición final segunda. Entrada en vigor.
 
-#### Disposición final segunda. Entrada en vigor.
-
-El presente Decreto entrará en vigor a los tres meses desde el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía, sin perjuicio de lo establecido en la
-
-#### Disposición adicional sexta.
-
-Sevilla, 17 de junio de 2003 MANUEL CHAVES GONZALEZ Presidente de la Junta de Andalucía ANTONIO ORTEGA GARCIA Consejero de Turismo y Deporte
+#### Disposición adicional sexta. Sevilla, 17 de junio de 2003 MANUEL CHAVES GONZALEZ Presidente de la Junta de Andalucía ANTONIO ORTEGA GARCIA Consejero de Turismo y Deporte
 
 Sevilla, 27 de junio 2003 Página núm.
 
@@ -696,3 +705,15 @@ a) La evaluación de la oferta comercial en Andalucía por zonas comerciales y s
 b) La identificación de los desajustes entre oferta y demanda en las diferentes zonas comerciales analizadas.
 c) Las medidas que posibiliten la integración de los establecimientos comerciales sometidos a licencia en la estructura comercial de la zona donde pretendan implantarse.
 d) La caracterización de las diferentes tipologías de equipamientos comerciales. Culminada la elaboración del Plan se han solicitado los informes procedentes y, en particular, el del Consejo Económico y Social de Andalucía y ha sido oída la Comisión Asesora de Comercio Interior de Andalucía, por lo que procede que, mediante el presente Decreto, se apruebe el Plan Andaluz de Orientación Comercial. En su virtud, a propuesta de la Consejera de Economía y Hacienda, una vez examinado por la Comisión Delegada de Planificación y Asuntos Económicos, y previa deliberación del Consejo de Gobierno, en su reunión del día 24 de junio de 2003, D I S P O N G O artículo 1 Aprobación. Se aprueba el Plan Andaluz de Orientación Comercial que figura como Anexo al presente Decreto.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: `norm-es-c-1978` desde *(Capítulo III. Procedimiento de inscripción., Art. 35)*
+- **Fundamentado en**: [**BOE-A-1985-5392**](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md) (Art. 4) desde *(Capítulo V. Inspección y régimen sancionador artículo 44 Inspección. Los servicios de inspección de la Consejería de Turismo y Deporte ejercerán las funciones de comprobación y control del cumplimiento de lo establecido en el presente Decreto., Art. 45)*
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)

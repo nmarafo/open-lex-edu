@@ -27,29 +27,102 @@ tags:
 - permisos-licencias-y-vacaciones
 - profesorado
 relaciones:
+  desarrolla:
+  - norma_id: norm-es-rdl-5-2015
+    articulos_destino:
+    - Art. 48
+    - Art. 49
+    - Art. 50
+    - Art. 51
+  - norma_id: norm-es-rdleg-5-2015
+    articulos_destino:
+    - Art. 48
+    - Art. 49
+    - Art. 50
+    - Art. 51
+  - norma_id: norm-can-d-81-2010
+    seccion_origen: Sección III. PERMISOS RELACIONADOS CON LA GESTACIÓN, NACIMIENTO
+      Y CUIDADOS DE LA PERSONA MENOR
+  - norma_id: norm-can-o-2013-10-09
+    seccion_origen: Sección III. PERMISOS RELACIONADOS CON LA GESTACIÓN, NACIMIENTO
+      Y CUIDADOS DE LA PERSONA MENOR
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 47
+    - Art. 48
+    - Art. 49
+    - Art. 2
+    - Art. 16
+    - Art. 26
+  - norma_id: norm-can-l-2-1987
+    articulos_destino:
+    - Art. 47
+    - Art. 48
+    - Art. 49
+    - Art. 2
+    - Art. 16
+    - Art. 26
+  - norma_id: norm-es-l-39-2015
+    seccion_origen: Sección IX. Disposiciones comunes.
+    articulos_destino:
+    - Art. 14
   - norma_id: norm-can-d-106-2009
   - norma_id: norm-can-d-109-1999
   - norma_id: norm-can-d-212-1991
   - norma_id: norm-can-d-81-2010
-  - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-l-14-1990
-  - norma_id: norm-can-l-2-1987
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-can-o-2013-10-09
-  - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-es-rdl-2-2015
   - norma_id: norm-es-rdl-5-2015
   - norma_id: norm-es-lo-2-2006
-  desarrolla:
-  - norma_id: norm-es-rd-276-2007
+  cita:
+  - norma_id: norm-can-d-212-1991
+    articulos_destino:
+    - Art. 23
+    - Art. 6
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 31
+    - Art. 16
+    - Art. 19
+  - norma_id: norm-can-l-14-1990
+    articulos_destino:
+    - Art. 31
+    - Art. 16
+    - Art. 19
+  - norma_id: norm-es-l-39-2015
+    seccion_origen: Sección VI. PERMISOS PARA EL CUMPLIMIENTO DE DEBERES PÚBLICOS,
+      PERSONALES O DE FUNCIONES PÚBLICAS
+    articulos_destino:
+    - Art. 19
+  - norma_id: norm-es-c-1978
+    seccion_origen: Sección VIII. PERMISOS PARA ATENDER A OTRAS SITUACIONES PERSONALES
+      DEL PROFESORADO
+  modifica:
+  - norma_id: norm-can-d-109-1999
+    articulos_destino:
+    - Art. 9
+  - norma_id: norm-es-l-40-2015
+    articulos_destino:
+    - Art. 9
   - norma_id: norm-es-rdl-5-2015
-  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 9
+  - norma_id: norm-es-rdl-2-2015
+    articulos_destino:
+    - Art. 9
+  - norma_id: norm-es-rdleg-5-2015
+    articulos_destino:
+    - Art. 9
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-l-14-1990
   - norma_id: norm-can-l-2-1987
@@ -64,6 +137,7 @@ relaciones:
   - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-046-751.pdf
 ---
+
 # Resolución de 24 de febrero de 2026, por la que se dictan instrucciones sobre la regulación del periodo vacacional, régimen de permisos y licencias del personal docente no universitario al servicio de la Administración Educativa Canaria y se delegan competencias en las Direcciones Territoriales y direcciones de los centros educativos. (BOC N.º 046. Lunes 9 de marzo de 2026).
 
 ## Preámbulo
@@ -423,3 +497,39 @@ DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE CONCESIÓN DE V ACACIONES, PERMISOS 
 - [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
 - [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
 - [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md) (Art. 48, Art. 49, Art. 50, Art. 51)
+- **Desarrolla**: `norm-es-rdleg-5-2015` (Art. 48, Art. 49, Art. 50, Art. 51)
+- **Desarrolla**: [**D81_2010 Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
+- **Desarrolla**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
+- **Desarrolla**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**D109_1999 Colectivos de Escuelas Rurales (CER)**](../02_gestion_y_administracion_centros/D109_1999_regula_regimen_creacion_funcionamiento_colectivos_escuelas.md) (Art. 9)
+- **Modifica**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 9)
+- **Modifica**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md) (Art. 9)
+- **Modifica**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md) (Art. 9)
+- **Modifica**: `norm-es-rdleg-5-2015` (Art. 9)
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 47, Art. 48, Art. 49, Art. 2, Art. 16, Art. 26)
+- **Fundamentado en**: [**L2_1987 Ley de la Funcion Publica Canaria**](../01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md) (Art. 47, Art. 48, Art. 49, Art. 2, Art. 16, Art. 26)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 14)
+- **Fundamentado en**: [**D106_2009 Funcion Directiva en Centros Docentes Publicos**](../04_organizacion_escolar_y_funcionamiento/D106_2009_regula_funcion_directiva_centros_docentes_publicos.md)
+- **Fundamentado en**: [**D109_1999 Colectivos de Escuelas Rurales (CER)**](../02_gestion_y_administracion_centros/D109_1999_regula_regimen_creacion_funcionamiento_colectivos_escuelas.md)
+- **Fundamentado en**: [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+- **Fundamentado en**: [**D81_2010 Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
+- **Fundamentado en**: [**L14_1990 Regimen Juridico Administraciones Canarias**](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamentado en**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) (Art. 23, Art. 6)
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 31, Art. 16, Art. 19)
+- **Cita a**: [**L14_1990 Regimen Juridico Administraciones Canarias**](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md) (Art. 31, Art. 16, Art. 19)
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 19)
+- **Cita a**: `norm-es-c-1978`

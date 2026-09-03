@@ -31,7 +31,74 @@ tags:
 - profesorado
 - transparencia
 relaciones:
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 2 bis
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 2 bis
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 2 bis
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 89
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 89
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 89
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo I
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo I
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo I
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo II. Premios Nacionales al rendimiento académico del
+      alumnado de Educación Secundaria Obligatoria.
+    articulos_origen:
+    - Art. 6
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo II. Premios Nacionales al rendimiento académico del
+      alumnado de Educación Secundaria Obligatoria.
+    articulos_origen:
+    - Art. 6
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo II. Premios Nacionales al rendimiento académico del
+      alumnado de Educación Secundaria Obligatoria.
+    articulos_origen:
+    - Art. 6
+  - norma_id: norm-es-2016-3229
+    capitulo_origen: Capítulo III. Premios nacionales de Enseñanzas Artísticas Profesionales
+      en los ámbitos de Música, de Danza y de Artes Plásticas y Diseño.
+    articulos_origen:
+    - D. Transitoria única. Periodo transitorio.
+    articulos_destino:
+    - Art. 3
+    - Art. 6
+    disposiciones_destino:
+    - D. Final quinta
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo III. Premios nacionales de Enseñanzas Artísticas Profesionales
+      en los ámbitos de Música, de Danza y de Artes Plásticas y Diseño.
+    articulos_origen:
+    - D. Final primera. Título competencial.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2016-3229
   - norma_id: norm-es-2021-20113
@@ -40,11 +107,12 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-2016-3229
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
 ---
+
 # Orden ECD/1611/2015, de 29 de julio, por la que se crean y regulan los Premios Nacionales al rendimiento académico del alumnado de Educación Secundaria Obligatoria y de Enseñanzas Artísticas Profesionales en los ámbitos de Música, Danza y Artes Plásticas y Diseño.
 
 ## Preámbulo
@@ -236,3 +304,31 @@ Madrid, 29 de julio de 2015.–El Ministro de Educación, Cultura y Deporte, Í�
 - [**BOE-A-2016-3229**](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
 - [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](./LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 2 bis)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 2 bis)
+- **Modifica**: [**BOE-A-2010-12201**](./LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 2 bis)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 89)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 89)
+- **Modifica**: [**BOE-A-2010-12201**](./LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 89)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Modifica**: [**BOE-A-2010-12201**](./LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 1) desde *(Capítulo I)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 1) desde *(Capítulo I)*
+- **Modifica**: [**BOE-A-2010-12201**](./LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 1) desde *(Capítulo I)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo II. Premios Nacionales al rendimiento académico del alumnado de Educación Secundaria Obligatoria., Art. 6)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo II. Premios Nacionales al rendimiento académico del alumnado de Educación Secundaria Obligatoria., Art. 6)*
+- **Modifica**: [**BOE-A-2010-12201**](./LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo II. Premios Nacionales al rendimiento académico del alumnado de Educación Secundaria Obligatoria., Art. 6)*
+- **Modifica**: [**BOE-A-2016-3229**](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md) (Art. 3, Art. 6, D. Final quinta) desde *(Capítulo III. Premios nacionales de Enseñanzas Artísticas Profesionales en los ámbitos de Música, de Danza y de Artes Plásticas y Diseño., D. Transitoria única. Periodo transitorio.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(Capítulo III. Premios nacionales de Enseñanzas Artísticas Profesionales en los ámbitos de Música, de Danza y de Artes Plásticas y Diseño., D. Final primera. Título competencial.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](./LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2016-3229**](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)

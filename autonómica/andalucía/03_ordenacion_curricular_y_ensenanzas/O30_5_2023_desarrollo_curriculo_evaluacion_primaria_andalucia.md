@@ -34,6 +34,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía, se regulan determinados aspectos de la atención a la diversidad y se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado.
 
 ## Preámbulo
@@ -76,15 +77,11 @@ Boletín 104
 
 ##
 
-Histórico del BOJA Boletín número 104 de 02/06/2023
-
 ## 1. Disposiciones generales
 
 ### Consejería de la Presidencia, Interior, Diálogo Social y Simplificación Administrativa
 
 Acuerdo de 29 de mayo de 2023, del Consejo de Gobierno, por el que se aprueba la formulación de la I Estrategia Cloud de Andalucía 2030.
-
-Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad con CVE 00284641. Vivimos en un momento en el que la globalización y las tecnologías digitales están transformando radicalmente la vida diaria de las personas y el modo en que la sociedad se organiza a nivel mundial. Los cambios más relevantes y de mayor impacto que se han producido en las últimas décadas en nuestra sociedad son fruto de una revolución tecnológica sin precedentes, que ha cambiado nuestra forma de ver y entender el mundo, modificando las reglas en los ámbitos económico, social y político. Este nuevo escenario no es sólo fruto del proceso de digitalización en el que estamos inmersos, pero son las tecnologías de la información y la comunicación (TIC) las que están habilitando las principales transformaciones.
 
 Ningún agente de los ámbitos económico, social y político escapa a esta metamorfosis tecnológica. En este contexto, la Administración Pública debe abordar el reto de garantizar el bienestar social aprovechando las oportunidades que ofrece el mundo digital, apoyando para ello el despliegue de infraestructuras de telecomunicaciones que proporcionan una conectividad plena, e impulsando la autonomía ciudadana en esta era digital a través del acceso y utilización de las nuevas tecnologías en un entorno caracterizado por la confianza y la seguridad, favoreciendo para ello el desarrollo de las competencias digitales necesarias.
 
@@ -225,3 +222,13 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

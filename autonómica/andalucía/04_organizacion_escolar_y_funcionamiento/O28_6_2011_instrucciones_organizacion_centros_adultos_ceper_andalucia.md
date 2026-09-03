@@ -33,6 +33,7 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
 ---
+
 # Orden de 28 de junio de 2011, por la que se regulan la organización y funcionamiento de los Centros de Educación Permanente.
 
 ## Preámbulo
@@ -175,7 +176,6 @@ El contenido del proyecto será el siguiente:
 c) Propuesta del equipo técnico que procederá a la exhumación, con identificación de los responsables y en particular, del Coordinador y de los Directores de fase.
 d) Memoria económica con la previsión de costes de la actuación a desarrollar y presupuesto detallado y desglosado en el que conste la relación de gastos e ingresos previstos en la relación de la actividad.
 e) Memoria descriptiva de la actividad con indicación de los objetivos, actuaciones o acciones a desarrollar y método de trabajo, así como el calendario, programa y fecha de realización de las actividades para la que se solicita subvención.
-f) Declaración por escrito de los descendientes directos de los fallecidos a favor de la exhumación o de sus representantes legales. En caso de no tener conocimiento de familiares, se deberá aportar copia de la publicación realizada en boletín oficial de la Junta de Andalucía, en el de la Provincia o en diarios de mayor difusión, en las que se anuncie la actividad a desarrollar, para conocimiento general de los interesados. Dicha publicación deberá estar realizada con anterioridad a la fecha de finalización de la convocatoria.
 g) Autorización de la ocupación temporal de los terrenos:
 1) En el supuesto de terrenos de titularidad pública, por las Administraciones Públicas.
 2) En el supuesto de terrenos de titularidad privada, el consentimiento de los titulares de derechos afectados.
@@ -308,17 +308,23 @@ Página núm. 12 Sevilla, 13 de julio 2011
 - Iniciar el procedimiento sancionador: Persona titular del Comisariado para la Recuperación de la Memoria Histórica, que actuará por delegación.
 - Instruir el procedimiento sancionador: Persona titular del Comisariado para la Recuperación de la Memoria Histórica, que actuará por delegación.
 - Resolver el procedimiento sancionador: Persona titular de la Consejería de Gobernación y Justicia.» Sevilla, 5 de julio de 2011 CONSEJERÍA DE AGRICULTURA Y PESCA CORRECCIÓN de errores de la Resolución de 24 de junio de 2011, de la Dirección General de Fondos Agrarios, por la que se efectúa convocatoria para las ayudas previstas en el Reglamento de Ejecución (UE) núm. 585/2011 de la Comisión, de 17 de junio de 2011, relativo a las medidas excepcionales de apoyo al sector de las frutas y hortalizas (BOJA núm. 126, de 29.6.2011). Advertidos errores en el texto de la Resolución de la Dirección General de Fondos Agrarios, por la que se efectúa convocatoria para las ayudas previstas en el Reglamento de Ejecución (UE) núm. 585/2011 de la Comisión, de 17 de junio de 2011, relativo a las medidas excepcionales de apoyo al sector de las frutas y hortalizas, publicado en el BOJA núm. 126, de 29 de junio de 2011, se procede a su subsanación mediante las siguientes correcciones:
-- En la página 7, en el artículo 5, apartado 3.ii.a, donde dice:
 «a. Factura o albarán que acredite la cantidad de planta adquirida, así como la fecha de adquisición de la superficie afectada o cuya producción ha sido afectada por alguna de las medidas de gestión de crisis. En el caso de que la factura o albarán de adquisición de la planta sea de una agrupación de productores que posteriormente ha distribuido la planta entre los productores, será necesario aportar el libro de movimientos vegetales que acredite la fecha de entrega al productor.» Debe decir:
 «a. Factura o albarán que acredite la cantidad y la fecha de adquisición de la planta utilizada en la superficie cuya producción ha sido afectada por alguna de las medidas de gestión de crisis. En el caso de que la factura o albarán de adquisición de la planta sea de una agrupación de productores que posteriormente ha distribuido la planta entre los productores, será necesario aportar el libro de movimientos vegetales que acredite la fecha de entrega al productor.»
-- En la página 8:
 • En el artículo 11, el apartado 3 debe ser apartado 2, el apartado 4 debe ser apartado 3 y el apartado 5 debe ser apartado 4. • En el artículo 11 en.
 
 el apartado 4, tras la corrección apartado 3, donde dice:
 «4. La incoación, instrucción y la resolución del procedimiento de reintegro corresponde a las personas titulares de los órganos directivos centrales que concedieron la ayuda.» Debe decir:
 «3. La incoación, instrucción y la resolución del procedimiento de reintegro corresponde a la persona titular de la Dirección General de Fondos Agrarios.»
-- En la página 11, el Anexo III (Producción de Cosecha), se sustituye por el que se adjunta a continuación. Sevilla, 7 de julio de 2011
 
-## Anexo III
+## Anexo III. PRODUCCIÓN COSECHA S E M A N A S D E S P U É S D E L A P L A N T A C I Ó N Tomate Ciclo Corto Primavera Tomate Ciclo Largo Pepino Calabacín Pimiento Lechuga 1.º 2º 3º 4.º 5.º 6.º 7.º 8.º 9.º 10.º 11.º 16,25 12.º 13.º 14.º 15.º 16.º 17.º 18.º 19.º 20.º 21.º 88,75 22.º 23.º 96,25 24.º 25.º 47,75 26.º 27.º 53,25 28.º 29.º 58,75 30.º 31.º 64,25 32.º 33.º 69,75 34.º 35.º 75,25 36.º 37.º 80,75 38.º 39.º 86,25 40.º 41.º 91,75 42.º 43.º 97,25 44.º
 
-PRODUCCIÓN COSECHA S E M A N A S D E S P U É S D E L A P L A N T A C I Ó N Tomate Ciclo Corto Primavera Tomate Ciclo Largo Pepino Calabacín Pimiento Lechuga 1.º 2º 3º 4.º 5.º 6.º 7.º 8.º 9.º 10.º 11.º 16,25 12.º 13.º 14.º 15.º 16.º 17.º 18.º 19.º 20.º 21.º 88,75 22.º 23.º 96,25 24.º 25.º 47,75 26.º 27.º 53,25 28.º 29.º 58,75 30.º 31.º 64,25 32.º 33.º 69,75 34.º 35.º 75,25 36.º 37.º 80,75 38.º 39.º 86,25 40.º 41.º 91,75 42.º 43.º 97,25 44.º
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)

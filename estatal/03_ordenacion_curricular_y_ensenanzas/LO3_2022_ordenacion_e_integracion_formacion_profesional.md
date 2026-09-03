@@ -29,36 +29,488 @@ tags:
 - personal-no-docente
 - titulacion
 relaciones:
+  cita:
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-lo-2-2006
+    titulo_destino: Título VII
+  - norma_id: norm-es-lo-8-1985
+    titulo_destino: Título VII
+  - norma_id: norm-es-2021-20113
+    titulo_destino: Título VII
+  - norma_id: norm-es-2010-12201
+    titulo_destino: Título VII
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 27
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 35
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Elementos integrantes del Sistema de Formación Profesional.
+    seccion_origen: Sección 4. ª Elementos básicos del currículo
+    articulos_origen:
+    - Art. 13
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Elementos integrantes del Sistema de Formación Profesional.
+    seccion_origen: Sección 4. ª Elementos básicos del currículo
+    articulos_origen:
+    - Art. 13
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Elementos integrantes del Sistema de Formación Profesional.
+    seccion_origen: Sección 4. ª Elementos básicos del currículo
+    articulos_origen:
+    - Art. 13
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Aspectos generales, programación y ejecución de la
+      oferta.
+    articulos_origen:
+    - Art. 23
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Aspectos generales, programación y ejecución de la
+      oferta.
+    articulos_origen:
+    - Art. 23
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Aspectos generales, programación y ejecución de la
+      oferta.
+    articulos_origen:
+    - Art. 23
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Tipología de ofertas y grados de formación.
+    seccion_origen: Sección 4. ª Grado D. Ciclos formativos de formación profesional
+    articulos_origen:
+    - Art. 39
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Tipología de ofertas y grados de formación.
+    seccion_origen: Sección 4. ª Grado D. Ciclos formativos de formación profesional
+    articulos_origen:
+    - Art. 39
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Tipología de ofertas y grados de formación.
+    seccion_origen: Sección 4. ª Grado D. Ciclos formativos de formación profesional
+    articulos_origen:
+    - Art. 39
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Tipología de ofertas y grados de formación.
+    seccion_origen: Sección 4. ª Grado D. Ciclos formativos de formación profesional
+    articulos_origen:
+    - Art. 44
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Tipología de ofertas y grados de formación.
+    seccion_origen: Sección 4. ª Grado D. Ciclos formativos de formación profesional
+    articulos_origen:
+    - Art. 44
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Tipología de ofertas y grados de formación.
+    seccion_origen: Sección 4. ª Grado D. Ciclos formativos de formación profesional
+    articulos_origen:
+    - Art. 44
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Tipología de ofertas y grados de formación.
+    seccion_origen: Sección 4. ª Grado D. Ciclos formativos de formación profesional
+    articulos_origen:
+    - Art. 44
+    articulos_destino:
+    - Art. 41
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Tipología de ofertas y grados de formación.
+    seccion_origen: Sección 4. ª Grado D. Ciclos formativos de formación profesional
+    articulos_origen:
+    - Art. 44
+    articulos_destino:
+    - Art. 41
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Tipología de ofertas y grados de formación.
+    seccion_origen: Sección 4. ª Grado D. Ciclos formativos de formación profesional
+    articulos_origen:
+    - Art. 44
+    articulos_destino:
+    - Art. 41
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Tipología de ofertas y grados de formación.
+    seccion_origen: Sección 4. ª Grado D. Ciclos formativos de formación profesional
+    articulos_origen:
+    - Art. 46
+    articulos_destino:
+    - Art. 41
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Tipología de ofertas y grados de formación.
+    seccion_origen: Sección 4. ª Grado D. Ciclos formativos de formación profesional
+    articulos_origen:
+    - Art. 46
+    articulos_destino:
+    - Art. 41
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Tipología de ofertas y grados de formación.
+    seccion_origen: Sección 4. ª Grado D. Ciclos formativos de formación profesional
+    articulos_origen:
+    - Art. 46
+    articulos_destino:
+    - Art. 41
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Tipología de ofertas y grados de formación.
+    seccion_origen: Sección 4. ª Grado D. Ciclos formativos de formación profesional
+    articulos_origen:
+    - Art. 47
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Tipología de ofertas y grados de formación.
+    seccion_origen: Sección 4. ª Grado D. Ciclos formativos de formación profesional
+    articulos_origen:
+    - Art. 47
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Tipología de ofertas y grados de formación.
+    seccion_origen: Sección 4. ª Grado D. Ciclos formativos de formación profesional
+    articulos_origen:
+    - Art. 47
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. Modalidades de la oferta de la formación profesional.
+    seccion_origen: Sección 1. ª Formación presencial, semipresencial y virtual
+    articulos_origen:
+    - Art. 68
+    articulos_destino:
+    - Art. 42
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. Modalidades de la oferta de la formación profesional.
+    seccion_origen: Sección 1. ª Formación presencial, semipresencial y virtual
+    articulos_origen:
+    - Art. 68
+    articulos_destino:
+    - Art. 42
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. Modalidades de la oferta de la formación profesional.
+    seccion_origen: Sección 1. ª Formación presencial, semipresencial y virtual
+    articulos_origen:
+    - Art. 68
+    articulos_destino:
+    - Art. 42
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I. Centros.
+    articulos_origen:
+    - Art. 79
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I. Centros.
+    articulos_origen:
+    - Art. 79
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I. Centros.
+    articulos_origen:
+    - Art. 79
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I. Centros.
+    articulos_origen:
+    - Art. 79
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título V
+    capitulo_origen: Capítulo I. Profesorado y personal formador.
+    articulos_origen:
+    - Art. 85
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título V
+    capitulo_origen: Capítulo I. Profesorado y personal formador.
+    articulos_origen:
+    - Art. 85
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título V
+    capitulo_origen: Capítulo I. Profesorado y personal formador.
+    articulos_origen:
+    - Art. 85
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    articulos_origen:
+    - Art. 104
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título X
+    articulos_origen:
+    - Art. 110
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título X
+    articulos_origen:
+    - Art. 110
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título X
+    articulos_origen:
+    - Art. 110
+  - norma_id: norm-es-l-40-2015
+    titulo_origen: Título XI
+    articulos_origen:
+    - Art. 114
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título XI
+    articulos_origen:
+    - D. Adicional tercera. Participación del Consejo Escolar del Estado en el Sistema
+      de Formación Profesional.
+    articulos_destino:
+    - Art. 32
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título XI
+    articulos_origen:
+    - D. Transitoria cuarta. Profesorado de formación profesional del sistema educativo.
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título XI
+    articulos_origen:
+    - D. Transitoria cuarta. Profesorado de formación profesional del sistema educativo.
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título XI
+    articulos_origen:
+    - D. Transitoria cuarta. Profesorado de formación profesional del sistema educativo.
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título XI
+    articulos_origen:
+    - D. Final tercera. Ordenación de las enseñanzas de formación profesional de la
+      Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Final tercera
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título XI
+    articulos_origen:
+    - D. Final tercera. Ordenación de las enseñanzas de formación profesional de la
+      Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Final tercera
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título XI
+    articulos_origen:
+    - D. Final tercera. Ordenación de las enseñanzas de formación profesional de la
+      Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Final tercera
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título XI
+    articulos_origen:
+    - D. Final tercera. Ordenación de las enseñanzas de formación profesional de la
+      Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    titulo_destino: Título I
+    capitulo_destino: Capítulo V
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título XI
+    articulos_origen:
+    - D. Final tercera. Ordenación de las enseñanzas de formación profesional de la
+      Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    titulo_destino: Título I
+    capitulo_destino: Capítulo V
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título XI
+    articulos_origen:
+    - D. Final tercera. Ordenación de las enseñanzas de formación profesional de la
+      Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    titulo_destino: Título I
+    capitulo_destino: Capítulo V
+  deroga:
+  - norma_id: norm-es-2002-12018
+    disposiciones_destino:
+    - D. Derogatoria única
+  - norma_id: norm-es-2002-12018
+    titulo_origen: Título XI
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    disposiciones_destino:
+    - D. Adicional quinta
+  - norma_id: norm-es-2021-20113
+    disposiciones_destino:
+    - D. Adicional quinta
+  - norma_id: norm-es-2010-12201
+    disposiciones_destino:
+    - D. Adicional quinta
+  - norma_id: norm-es-lo-3-2020
+    disposiciones_destino:
+    - D. Adicional quinta
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título XI
+    articulos_origen:
+    - D. Final primera. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Final primera
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título XI
+    articulos_origen:
+    - D. Final primera. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Final primera
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título XI
+    articulos_origen:
+    - D. Final primera. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Final primera
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título XI
+    articulos_origen:
+    - D. Final primera. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título XI
+    articulos_origen:
+    - D. Final primera. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título XI
+    articulos_origen:
+    - D. Final primera. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título XI
+    articulos_origen:
+    - D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre,
+      por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título XI
+    articulos_origen:
+    - D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre,
+      por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título XI
+    articulos_origen:
+    - D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre,
+      por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-es-lo-3-2020
+    titulo_origen: Título XI
+    articulos_origen:
+    - D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre,
+      por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título XI
+    articulos_origen:
+    - D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre,
+      por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título XI
+    articulos_origen:
+    - D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre,
+      por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título XI
+    articulos_origen:
+    - D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre,
+      por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+  - norma_id: norm-es-lo-3-2020
+    titulo_origen: Título XI
+    articulos_origen:
+    - D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre,
+      por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Tipología de ofertas y grados de formación.
+    seccion_origen: Sección 5. ª Grado E. Cursos de especialización
+    articulos_origen:
+    - Art. 52
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Tipología de ofertas y grados de formación.
+    seccion_origen: Sección 5. ª Grado E. Cursos de especialización
+    articulos_origen:
+    - Art. 52
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Tipología de ofertas y grados de formación.
+    seccion_origen: Sección 5. ª Grado E. Cursos de especialización
+    articulos_origen:
+    - Art. 52
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título XI
+    articulos_origen:
+    - D. Adicional octava.
+    articulos_destino:
+    - Art. 95
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título XI
+    articulos_origen:
+    - D. Adicional octava.
+    articulos_destino:
+    - Art. 95
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título XI
+    articulos_origen:
+    - D. Adicional octava.
+    articulos_destino:
+    - Art. 95
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título XI
+    articulos_origen:
+    - D. Final sexta. Título competencial.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título XI
+    articulos_origen:
+    - D. Final sexta. Título competencial.
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título XI
+    articulos_origen:
+    - D. Final octava. Desarrollo de la presente ley.
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-8-1985
   desarrollado_por:
   - norma_id: norm-es-2024-10683
   - norma_id: norm-es-2025-2039
   - norma_id: norm-es-rd-659-2023
-  - norma_id: norm-can-res-boc-2024-226-44
-  - norma_id: norm-can-res-034
-  - norma_id: norm-can-res-036
-  - norma_id: norm-can-res-032
-  - norma_id: norm-can-res-027
-  - norma_id: norm-can-res-039
-  - norma_id: norm-can-res-038
-  - norma_id: norm-can-res-boc-2025-046-47
-  - norma_id: norm-can-res-boc-2025-047-108
-  - norma_id: norm-can-res-boc-2022-087-31
-  - norma_id: norm-can-res-boc-2025-118-46
-  - norma_id: norm-can-res-134
-  - norma_id: norm-can-res-042
-  - norma_id: norm-can-res-035
-  - norma_id: norm-can-res-037
-  - norma_id: norm-can-res-033
-  - norma_id: norm-can-res-boc-2024-230-25
-  fundamentado_en:
-  - norma_id: norm-es-2002-12018
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-l-40-2015
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-lo-8-1985
   fundamento_de:
   - norma_id: norm-es-2022-16194
   - norma_id: norm-es-2023-9553
@@ -66,19 +518,11 @@ relaciones:
   - norma_id: norm-es-2024-10685
   - norma_id: norm-es-2024-11613
   - norma_id: norm-es-2026-12038
-  - norma_id: norm-can-res-040
-  - norma_id: norm-can-res-043
-  - norma_id: norm-can-res-boc-2026-129-26
-  - norma_id: norm-can-res-boc-2026-039-103
-  - norma_id: norm-can-res-boc-2026-039-102
-  - norma_id: norm-can-res-boc-2025-047-107
-  - norma_id: norm-can-res-boc-2026-141-29
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-  - 149.1.30
-  - norma_id: norm-can-res-134
+  - norma_id: '27'
+  - norma_id: 149.1.30
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-es-lo-2-2006
@@ -87,6 +531,7 @@ relaciones:
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
 ---
+
 # Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional.
 
 ## Preámbulo
@@ -2470,3 +2915,109 @@ PEDRO SÁNCHEZ PÉREZ-CASTEJÓN
 - [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md)
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional quinta)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional quinta)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional quinta)
+- **Modifica**: `norm-es-lo-3-2020` (D. Adicional quinta)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Final primera) desde *(Título XI, D. Final primera. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Final primera) desde *(Título XI, D. Final primera. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Final primera) desde *(Título XI, D. Final primera. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título XI, D. Final primera. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título XI, D. Final primera. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título XI, D. Final primera. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Final segunda) desde *(Título XI, D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Final segunda) desde *(Título XI, D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Final segunda) desde *(Título XI, D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Modifica**: `norm-es-lo-3-2020` (D. Final segunda) desde *(Título XI, D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título XI, D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título XI, D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título XI, D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Modifica**: `norm-es-lo-3-2020` desde *(Título XI, D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Deroga**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md) (D. Derogatoria única)
+- **Deroga**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md) desde *(Título XI, D. Derogatoria única. Derogación normativa.)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 6) desde *(Título II, Capítulo II. Tipología de ofertas y grados de formación., Art. 52)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 6) desde *(Título II, Capítulo II. Tipología de ofertas y grados de formación., Art. 52)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 6) desde *(Título II, Capítulo II. Tipología de ofertas y grados de formación., Art. 52)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 95) desde *(Título XI, D. Adicional octava.)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 95) desde *(Título XI, D. Adicional octava.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 95) desde *(Título XI, D. Adicional octava.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(Título XI, D. Final sexta. Título competencial.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Título XI, D. Final sexta. Título competencial.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Título XI, D. Final octava. Desarrollo de la presente ley.)*
+- **Fundamentado en**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
+- **Fundamento de**: [**BOE-A-2022-16194**](../08_personal_docente/RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md)
+- **Fundamento de**: [**BOE-A-2023-9553**](../08_personal_docente/RD286_2023_regula_asignacion_materias_educacion_secundaria_obligatoria.md)
+- **Fundamento de**: [**BOE-A-2024-10684**](./RD499_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**BOE-A-2024-10685**](./RD500_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**BOE-A-2024-11613**](./L1_2024_regulan_ensenanzas_artisticas_superiores_establece_organizacion.md)
+- **Fundamento de**: [**BOE-A-2026-12038**](./RD452_2026_establece_ordenacion_ensenanzas_profesionales_artes_plasticas.md)
+- **Cita a**: `norm-es-c-1978`
+- **Cita a**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título VII)
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Título VII)
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título VII)
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título VII)
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 129)
+- **Cita a**: `norm-es-c-1978` desde *(Título Preliminar, Art. 1)*
+- **Cita a**: `norm-es-c-1978` (Art. 27) desde *(Título Preliminar, Art. 4)*
+- **Cita a**: `norm-es-c-1978` (Art. 35) desde *(Título Preliminar, Art. 4)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título I, Capítulo II. Elementos integrantes del Sistema de Formación Profesional., Art. 13)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título I, Capítulo II. Elementos integrantes del Sistema de Formación Profesional., Art. 13)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título I, Capítulo II. Elementos integrantes del Sistema de Formación Profesional., Art. 13)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título II, Capítulo I. Aspectos generales, programación y ejecución de la oferta., Art. 23)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título II, Capítulo I. Aspectos generales, programación y ejecución de la oferta., Art. 23)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título II, Capítulo I. Aspectos generales, programación y ejecución de la oferta., Art. 23)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título II, Capítulo II. Tipología de ofertas y grados de formación., Art. 39)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título II, Capítulo II. Tipología de ofertas y grados de formación., Art. 39)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título II, Capítulo II. Tipología de ofertas y grados de formación., Art. 39)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título II, Capítulo II. Tipología de ofertas y grados de formación., Art. 44)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título II, Capítulo II. Tipología de ofertas y grados de formación., Art. 44)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título II, Capítulo II. Tipología de ofertas y grados de formación., Art. 44)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 41) desde *(Título II, Capítulo II. Tipología de ofertas y grados de formación., Art. 44)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 41) desde *(Título II, Capítulo II. Tipología de ofertas y grados de formación., Art. 44)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 41) desde *(Título II, Capítulo II. Tipología de ofertas y grados de formación., Art. 44)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 41) desde *(Título II, Capítulo II. Tipología de ofertas y grados de formación., Art. 46)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 41) desde *(Título II, Capítulo II. Tipología de ofertas y grados de formación., Art. 46)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 41) desde *(Título II, Capítulo II. Tipología de ofertas y grados de formación., Art. 46)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título II, Capítulo II. Tipología de ofertas y grados de formación., Art. 47)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título II, Capítulo II. Tipología de ofertas y grados de formación., Art. 47)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título II, Capítulo II. Tipología de ofertas y grados de formación., Art. 47)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 42) desde *(Título III, Capítulo III. Modalidades de la oferta de la formación profesional., Art. 68)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 42) desde *(Título III, Capítulo III. Modalidades de la oferta de la formación profesional., Art. 68)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 42) desde *(Título III, Capítulo III. Modalidades de la oferta de la formación profesional., Art. 68)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título IV, Capítulo I. Centros., Art. 79)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título IV, Capítulo I. Centros., Art. 79)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título IV, Capítulo I. Centros., Art. 79)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) desde *(Título IV, Capítulo I. Centros., Art. 79)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título V, Capítulo I. Profesorado y personal formador., Art. 85)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título V, Capítulo I. Profesorado y personal formador., Art. 85)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título V, Capítulo I. Profesorado y personal formador., Art. 85)*
+- **Cita a**: `norm-es-c-1978` desde *(Título VIII, Art. 104)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título X, Art. 110)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título X, Art. 110)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título X, Art. 110)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) desde *(Título XI, Art. 114)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 32) desde *(Título XI, D. Adicional tercera. Participación del Consejo Escolar del Estado en el Sistema de Formación Profesional.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título XI, D. Transitoria cuarta. Profesorado de formación profesional del sistema educativo.)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título XI, D. Transitoria cuarta. Profesorado de formación profesional del sistema educativo.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título XI, D. Transitoria cuarta. Profesorado de formación profesional del sistema educativo.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Final tercera) desde *(Título XI, D. Final tercera. Ordenación de las enseñanzas de formación profesional de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Final tercera) desde *(Título XI, D. Final tercera. Ordenación de las enseñanzas de formación profesional de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Final tercera) desde *(Título XI, D. Final tercera. Ordenación de las enseñanzas de formación profesional de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título I, Capítulo V) desde *(Título XI, D. Final tercera. Ordenación de las enseñanzas de formación profesional de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título I, Capítulo V) desde *(Título XI, D. Final tercera. Ordenación de las enseñanzas de formación profesional de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título I, Capítulo V) desde *(Título XI, D. Final tercera. Ordenación de las enseñanzas de formación profesional de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*

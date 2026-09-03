@@ -29,7 +29,83 @@ tags:
 - evaluacion
 - igualdad-genero
 relaciones:
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    disposiciones_destino:
+    - D. Final quinta
+  - norma_id: norm-es-2021-20113
+    disposiciones_destino:
+    - D. Final quinta
+  - norma_id: norm-es-2010-12201
+    disposiciones_destino:
+    - D. Final quinta
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 68
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 68
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 68
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 69
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 69
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 69
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    disposiciones_destino:
+    - D. Final quinta
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    disposiciones_destino:
+    - D. Final quinta
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    disposiciones_destino:
+    - D. Final quinta
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    articulos_destino:
+    - Art. 24
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    articulos_destino:
+    - Art. 24
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    articulos_destino:
+    - Art. 24
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final primera. Título competencial.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-ce-1978
@@ -50,28 +126,15 @@ relaciones:
   - norma_id: norm-es-2023-9553
   - norma_id: norm-es-2024-11613
   - norma_id: norm-es-rd-243-2022
-  - norma_id: norm-can-res-063
-  - norma_id: norm-can-res-boc-2018-048-56
-  - norma_id: norm-can-d-25-2018
-  - norma_id: norm-can-res-boc-2019-234-52
-  - norma_id: norm-can-res-juriscan-72176-78
-  - norma_id: norm-can-res-boc-2018-124-126
-  - norma_id: norm-can-res-boc-2019-069-48
-  - norma_id: norm-can-res-juriscan-72882-123
-  - norma_id: norm-can-res-boc-2020-236-82
-  - norma_id: norm-can-res-boc-2026-077-62
-  - norma_id: norm-can-res-boc-2018-086-122
-  - norma_id: norm-can-res-014
-  - norma_id: norm-can-res-boc-2026-077-49
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '1'
-  - '2'
+  - norma_id: '1'
+  - norma_id: '2'
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
 ---
+
 # Orden ECD/462/2016, de 31 de marzo, por la que se regula el procedimiento de incorporación del alumnado a un curso de Educación Secundaria Obligatoria o de Bachillerato del sistema educativo definido por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, con materias no superadas del currículo anterior a su implantación.
 
 ## Preámbulo
@@ -281,3 +344,44 @@ Tecnologías de la Información y la Comunicación I.
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Final quinta)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Final quinta)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Final quinta)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 68) desde *(Art. 2)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 68) desde *(Art. 2)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 68) desde *(Art. 2)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 69) desde *(Art. 3)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 69) desde *(Art. 3)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 69) desde *(Art. 3)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Final quinta) desde *(D. Final segunda. Entrada en vigor.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Final quinta) desde *(D. Final segunda. Entrada en vigor.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Final quinta) desde *(D. Final segunda. Entrada en vigor.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 24) desde *(D. Final segunda. Entrada en vigor.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 24) desde *(D. Final segunda. Entrada en vigor.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 24) desde *(D. Final segunda. Entrada en vigor.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(D. Final primera. Título competencial.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**BOE-A-2014-2222**](./RD126_2014_establece_curriculo_basico_educacion_primaria.md)
+- **Fundamento de**: [**BOE-A-2014-5591**](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md)
+- **Fundamento de**: [**BOE-A-2014-6008**](./RD412_2014_establece_normativa_basica_procedimientos_admision_ensenanzas.md)
+- **Fundamento de**: [**BOE-A-2015-738**](./Osn_ecd_describen_relaciones_entre_competencias_contenidos.md)
+- **Fundamento de**: [**BOE-A-2015-8043**](../02_gestion_y_administracion_centros/RD665_2015_desarrollan_determinadas_disposiciones_relativas_ejercicio_docencia.md)
+- **Fundamento de**: [**BOE-A-2015-8470**](../01_marco_normativo_general_y_organico/L26_2015_modificacion_sistema_proteccion_infancia_adolescencia.md)
+- **Fundamento de**: [**BOE-A-2015-8702**](../05_alumnado_y_servicios_escolares/Osn_ecd_crean_regulan_premios_nacionales_rendimiento.md)
+- **Fundamento de**: [**BOE-A-2015-9462**](./RD774_2015_establecen_seis_titulos_formacion_profesional_basica.md)
+- **Fundamento de**: [**BOE-A-2018-4480**](../02_gestion_y_administracion_centros/R23_3_2018_secretaria_estado_educacion_formacion_profesional_universidades.md)
+- **Fundamento de**: [**BOE-A-2018-6348**](../05_alumnado_y_servicios_escolares/Osn_ecd_regulan_premios_nacionales_bachillerato.md)
+- **Fundamento de**: [**BOE-A-2022-15953**](./Osn_efp_modifica_orden_edu_regula_curriculo.md)
+- **Fundamento de**: [**BOE-A-2023-3846**](../02_gestion_y_administracion_centros/R13_2_2023_subsecretaria_publica_resolucion_conjunta_secretaria_estado.md)
+- **Fundamento de**: [**BOE-A-2023-9553**](../08_personal_docente/RD286_2023_regula_asignacion_materias_educacion_secundaria_obligatoria.md)
+- **Fundamento de**: [**BOE-A-2024-11613**](./L1_2024_regulan_ensenanzas_artisticas_superiores_establece_organizacion.md)
+- **Fundamento de**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](./RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md)

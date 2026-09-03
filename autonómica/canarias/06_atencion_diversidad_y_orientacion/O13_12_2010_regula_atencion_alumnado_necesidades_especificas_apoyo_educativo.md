@@ -24,7 +24,32 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-250-7036.
 anexos_extraidos_pdf: true
 ocr_procesado: true
 fecha_disposicion: '2010-12-13'
+relaciones:
+  cita:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 71
+  - norma_id: norm-can-d-81-2010
+    capitulo_origen: Capítulo III. ESCOLARIZACIÓN DEL ALUMNADO CON NEAE
+    articulos_origen:
+    - Art. 18
+  - norma_id: norm-can-o-2013-10-09
+    capitulo_origen: Capítulo III. ESCOLARIZACIÓN DEL ALUMNADO CON NEAE
+    articulos_origen:
+    - Art. 18
+  - norma_id: norm-can-d-81-2010
+    capitulo_origen: Capítulo V. ESCOLARIZACIÓN Y RECURSOS EN AULAS ENCLAVE
+    articulos_origen:
+    - Art. 24
+  - norma_id: norm-can-o-2013-10-09
+    capitulo_origen: Capítulo V. ESCOLARIZACIÓN Y RECURSOS EN AULAS ENCLAVE
+    articulos_origen:
+    - Art. 24
 ---
+
 # Orden de 13 de diciembre de 2010, por la que se regula la atención al alumnado con necesidades específicas de apoyo educativo en la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -4974,3 +4999,17 @@ E) Estrategias de generalización a otros aprendizajes o contenidos curriculares
 F) Indicaciones, estrategias y materiales para el asesoramiento y apoyo al profeso-
 
 rado o la familia del alumno o alumna.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 71)
+- **Cita a**: [**D81_2010 Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) desde *(Capítulo III. ESCOLARIZACIÓN DEL ALUMNADO CON NEAE, Art. 18)*
+- **Cita a**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md) desde *(Capítulo III. ESCOLARIZACIÓN DEL ALUMNADO CON NEAE, Art. 18)*
+- **Cita a**: [**D81_2010 Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) desde *(Capítulo V. ESCOLARIZACIÓN Y RECURSOS EN AULAS ENCLAVE, Art. 24)*
+- **Cita a**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md) desde *(Capítulo V. ESCOLARIZACIÓN Y RECURSOS EN AULAS ENCLAVE, Art. 24)*

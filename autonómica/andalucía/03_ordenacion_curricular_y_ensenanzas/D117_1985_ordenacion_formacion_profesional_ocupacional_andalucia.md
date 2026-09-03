@@ -32,6 +32,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Decreto 117/1985, de 5 de junio, por el que se regula la ordenación y coordinación de la Formación Profesional Ocupacional en Andalucía.
 
 ## Preámbulo
@@ -42,7 +43,7 @@ Atención: La información contenida en estas páginas no tiene validez legal. V
 
 " La Gran Enciclopedia de Andalucía", editada por la iniciativa privada ha supuesto una contribución importante a la cultura andaluza como elemento de identificación de nuestro pueblo, cuando se iniciaba el proceso Autonómico de nuestra Comunidad. Pese a su significación, un esfuerzo de esta naturaleza, realizado al margen de todo apoyo institucional u oficial abocado a obtener escaso éxito, pese a la difusión conseguida inicialmente, dado que obras de esta índole tiene una virtualidad de desarrollo y actualización que que exigen un esfuerzo continuo de financiación y sostenimiento de equipos técnicos, que exceden de la potencialidad del grupo editorial que realizó la publicación. Por la Consejería de Cultura se considera de máximo interés la adquisición por la Junta de Andalucía de los derechos de autor de esta obra científica para evitar que se extinga una iniciativa que tanto ha supuesto para la cultura andaluza Por todo lo expuesto, a iniciativa del Consejero de Cultura y a propuesta del de Hacienda y previa deliberación del Consejo de Gobierno en su reunión del día 17 de abril de 1985. DISPONGO:
 
-#### Artículo 1. De conformidad con lo dispuesto en el artículo 97 de la Ley de Patrimonio, se resuelve la adquisición por la Junta de Andalucía de los derechos de autor de la obra " La Gran Enciclopedia de Andalucía" Artículo 2. La administración y explotación de esta propiedad incorporal se encomienda específicamente a la Consejería de Cultura.
+#### Artículo . #### Artículo . #### Artículo 1. De conformidad con lo dispuesto en el artículo 97 de la Ley de Patrimonio, se resuelve la adquisición por la Junta de Andalucía de los derechos de autor de la obra " La Gran Enciclopedia de Andalucía" Artículo 2. La administración y explotación de esta propiedad incorporal se encomienda específicamente a la Consejería de Cultura.
 
 #### Artículo 3. Por la Dirección General de Patrimonio se tramitará el oportuno expediente, para llevar a cabo la efectividad de cuanto se dispone en el presente Decreto.
 
@@ -51,3 +52,13 @@ Sevilla, 17 de abril de 1985. JOSE RODRIGUEZ DE LA BORBOLLA Y CAMOYAN Presidente
 Descargar PDF
 
 Disposición siguiente
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

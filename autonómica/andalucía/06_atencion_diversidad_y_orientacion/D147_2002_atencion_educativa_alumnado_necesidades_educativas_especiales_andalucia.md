@@ -26,6 +26,19 @@ tags:
 - adaptaciones_curriculares
 - andalucia
 relaciones:
+  cita:
+  - norma_id: norm-and-d-254-2001
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-and-d-254-2001
+    articulos_origen:
+    - Art. 11
+    articulos_destino:
+    - Art. 13
+  concordancia:
+  - norma_id: norm-and-d-254-2001
+    articulos_origen:
+    - Art. 12
   desarrolla:
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
@@ -33,6 +46,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-1-1996
 ---
+
 # Decreto 147/2002, de 14 de mayo, por el que se establece la ordenación de la atención educativa al alumnado con necesidades educativas especiales asociadas a capacidades personales distintas.
 
 ## Preámbulo
@@ -46,7 +60,7 @@ Página núm.
 De acuerdo con dicha autorización, se procede a concretar determinadas condiciones de la Emisión asegurada de Deuda Pública de la Comunidad Autónoma de Andalucía, acordada mediante el mencionado Decreto. En su virtud, en uso de la autorización conferida,
 DISPONGO:
 
-1. Importe: 190.000.000 euros.
+#### Artículo . #### Artículo . 1. Importe: 190.000.000 euros.
 
 2. Plazo: 10 años.
 
@@ -70,8 +84,6 @@ DISPONGO:
 
 #### Disposición final única. La presente Orden entrará en.
 
-vigor el mismo día de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 23 de mayo de 2002 MAGDALENA ALVAREZ ARZA Consejera de Economía y Hacienda CONSEJERIA DE EMPLEO Y DESARROLLO TECNOLOGICO CORRECCION de errores de la Orden de 13 de mayo de 2002, por la que se establecen las bases reguladoras para la concesión de ayudas para la incorporación de las familias andaluzas al uso de las nuevas tecnologías, en desarrollo del Decreto 137/2002, de 30 de abril, de apoyo a las familias, y se efectúa su convocatoria para el año 2002 (BOJA núm. 57, de 16.5.2002). Advertidos errores en el texto de la Orden antes citada, se transcriben a continuación las oportunas correcciones:
-
 1. En la página núm. 7862, en el apartado 1, del artículo 4, donde dice:
 «CPU con procesador a 2 GHz», debe decir:
 «CPU con procesador a 1,6 GHz.»
@@ -80,14 +92,13 @@ vigor el mismo día de su publicación en el Boletín Oficial de la Junta de And
 «y otras materias similares destinadas un miembro de la unidad familiar del beneficiario de la ayuda, que en el momento de la concesión tenga la condición de población activa.», debe decir:
 «y otras materias similares, destinados a un miembro de la unidad familiar del beneficiario de la ayuda, que en el momento de la concesión tenga la condición de población activa.»
 
-3. En la página 7.868, en el punto 2 del Anexo 2, donde dice:
 «CPU 2 GHz», debe decir:
 «CPU 1,6 GHz.» Sevilla, 16 de mayo de 2002 CONSEJERIA DE AGRICULTURA Y PESCA ORDEN de 7 de mayo de 2002, por la que se regula el procedimiento de concesión de subvenciones para la incorporación de la perspectiva de género en las actuaciones de desarrollo rural y se convocan las mismas para el año 2002. El Estatuto de Autonomía de Andalucía, en su art. 18.1.4.ª, determina que la Comunidad Autónoma tiene competencias exclusivas en materia de agricultura y ganadería, reforma y desarrollo del sector agrario, mejora y ordenación de las explotaciones agrícolas y ganaderas. A su vez, el Decreto 178/2000, de 23 de mayo de 2000 (BOJA 62, de 27 de mayo), por el que se regula la estructura orgánica de la Consejería de Agricultura y Pesca, en su art. 1, establece que corresponden a la Consejería de Agricultura y Pesca las competencias atribuidas a la Comunidad Autónoma de Andalucía en materia de política agraria, pesquera y de
 
 Sevilla, 28 de mayo 2002 Página núm. 8.801 desarrollo rural. En el art. 8 establece, además, que corresponde a la Dirección General de Desarrollo Rural la programación, coordinación y seguimiento de las actuaciones en materia de desarrollo rural, prestando especial atención a las que faciliten la incorporación de la perspectiva de género y la juventud en el ámbito de las competencias de esta Consejería, así como la promoción y apoyo de las entidades y organizaciones dinamizadoras del desarrollo rural. El Estatuto de Autonomía de Andalucía establece, además, en el artículo 12, que la Comunidad Autónoma promoverá las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas, removiendo los obstáculos que impidan y dificulten su plenitud y facilitando la participación de todos los andaluces y andaluzas en la vida política, económica, cultural y social. Por su parte, el II Plan Andaluz de Igualdad de Oportunidades proporciona una referencia adecuada para este compromiso, a la vez que anima a la búsqueda de nuevos modelos de acción que beneficien la igualdad de oportunidades entre mujeres y hombres, respetando las peculiaridades de unas y de otros. En aras de esta clara voluntad todas las Consejerías de la Junta de Andalucía se comprometían a dictar cuantas normas sean necesarias para su efectiva aplicación. En este marco, la Consejería de Agricultura y Pesca, a través del Plan de Modernización de la Agricultura, ha apostado por una política de desarrollo rural que tiene como objetivo el crecimiento económico sostenido, el desarrollo social, la protección del medio ambiente y la justicia social, basada en la implicación activa de la población rural en su diseño y ejecución a través de las Asociaciones de Desarrollo Rural. El logro de este objetivo sólo será posible con la participación activa de las mujeres y los hombres en los procesos de desarrollo a través de la igualdad de oportunidades y con una participación más equitativa de los mismos como agentes y como beneficiarios del desarrollo. Sin embargo, el Plan de Modernización de la Agricultura pone de manifiesto que las mujeres rurales en Andalucía se enfrentan con multitud de problemas: alto desempleo, bajos niveles de cualificación y formación, escasa representación en órganos de decisión y valoración social de su esfuerzo, elevada dependencia económica familiar, dificultad de acceso a los recursos, etc. Por ello y al objeto de incorporar plenamente a las mujeres a la vida económica y social del medio rural, el Plan de Modernización de la Agricultura incorpora una serie de actuaciones para dar respuesta a esta problemática, entre las que se encuentran: obtener información de las diferentes situaciones y necesidades de las mujeres rurales, hacer visibles y valorar sus aportaciones a la economía rural, diseñar una formación específica dirigida principalmente a la inserción socio-laboral, apoyar las iniciativas de empleo y de diversificación de la economía, fomentar el asociacionismo e incrementar la presencia de las mujeres en los órganos decisorios de las actuaciones en materia de desarrollo rural a llevar a cabo en el territorio. Es evidente que para que el desarrollo rural sea eficaz todas las intervenciones y estrategias deberían incluir sistemáticamente el análisis socioeconómico y de género en las fases de proyecto, ejecución y evaluación (transversalidad). Ello implica un fomento de la participación equitativa de mujeres y hombres y un reconocimiento del papel activo de las mujeres como participantes efectivas en todas las intervenciones. Para ello, se ha de promover la plena incorporación de las mujeres y de la perspectiva de género en las actuaciones de desarrollo rural y facilitar la integración, como protagonistas de pleno derecho, de las mujeres a la vida económica, política, social y cultural del medio rural. Para alcanzar este objetivo, la Consejería de Agricultura y Pesca inició actuaciones, convocando en años anteriores subvenciones públicas para incorporar la perspectiva de género en las actuaciones de desarrollo rural. La experiencia obtenida en nuestra Comunidad Autónoma con los Grupos de Desarrollo Rural, que colaboran actualmente en la gestión y ejecución de programas similares de desarrollo rural, justifica que en el diseño de esta línea de subvenciones se pretenda consolidar a estas entidades ya presentes en el territorio. Es necesario continuar en esta línea, teniendo en cuenta la política de desarrollo rural y las competencias atribuidas a la Dirección General de Desarrollo Rural en el Decreto 178/2000, de 23 de mayo. Entre estas competencias se encuentran la programación, coordinación y seguimiento de las actuaciones de desarrollo rural, prestando especial atención a las que faciliten la incorporación de la perspectiva de género y juventud. Por todo ello, a propuesta de la Dirección General de Desarrollo Rural, y en ejercicio de las competencias que me confiere el artículo 107 de la Ley 5/1983, de 19 de julio, General de la Hacienda Pública de la Comunidad de Andalucía,
 DISPONGO:
 
-#### Artículo 1. Objeto.
+#### Artículo . #### Artículo . #### Artículo 1. Objeto.
 
 1. El objeto de la presente Orden es regular el procedimiento de concesión de subvenciones para propiciar la integración de la perspectiva de género en las actuaciones de desarrollo rural, garantizando que las intervenciones de desarrollo contemplen las necesidades de las mujeres y de los hombres, permitan su plena participación con equidad en los procesos de desarrollo rural y contribuyan a una igualdad real de oportunidades entre mujeres y hombres.
 
@@ -154,8 +165,6 @@ k) Otras actuaciones destinadas a propiciar la integración de la perspectiva de
 3. Para la presente convocatoria, el plazo de presentación de solicitudes y de la documentación exigida en el artículo 8 será.
 
 de 30 días naturales a contar desde el día de entrada en vigor de la presente Orden.
-
-4. Para las próximas convocatorias, el plazo de presentación de solicitudes será el que se establezca en las correspondientes resoluciones de convocatorias, que se publicarán en el Boletín Oficial de la Junta de Andalucía.
 
 #### Artículo 8. Solicitudes y documentación.
 
@@ -282,10 +291,9 @@ Sevilla, 28 de mayo 2002 Página núm. 8.805
 
 #### Disposición final tercera. Entrada en vigor.
 
-La presente Orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 7 de mayo de 2002 PAULINO PLATA CANOVAS Consejero de Agricultura y Pesca ORDEN de 7 de mayo de 2002, por la que se regula el régimen de ayudas para la mejora de la producción y de la calidad de las plántulas y plantas de vivero. El Reglamento (CE) 1257/1999 del Consejo, de 17 de mayo, sobre la ayuda al Desarrollo Rural a cargo del Fondo Europeo de Orientación y Garantía Agrícola (FEOGA), viene a establecer el marco de las ayudas comunitarias a favor del desarrollo rural. Por su parte, el Decreto 280/2001, de 26 de diciembre, establece las ayudas de la Junta de Andalucía a los sectores agrícola, ganadero y forestal incluidas en el Programa Operativo Integrado Regional de Andalucía para el Desarrollo del Marco Comunitario de Apoyo 2000-2006. Con estas ayudas se pretende fomentar en la Comunidad Autónoma de Andalucía la mejora y la producción de plántulas y plantas de vivero de calidad, dada la importancia y repercusión de esta actividad económica en la sanidad, productividad y renovación de las plantaciones. La producción y fomento de las plántulas y plantas de vivero de calidad en la Comunidad Autónoma de Andalucía exigen al sector productor realizar una serie de medidas estructurales y técnicas específicas. Así mismo, la normativa comunitaria impone a los productores de plántulas y plantas de vivero la responsabilidad de controles sanitarios y de calidad en su producción. En consecuencia, es necesario acometer las inversiones y medidas necesarias para la adaptación de los productores de plántulas y plantas de vivero a la normativa europea, nacional y autonómica, siendo recomendable efectuarla con el mejor nivel tecnológico y de organización. Hay que tener en cuenta que con la mejora de las estructuras productivas se consigue reducir los tratamientos fitosanitarios debido al mayor control climático, mejor ventilación, mayor hermetismo a vectores externos y mejora de las operaciones culturales. Ello, posibilita la introducción de métodos de lucha biológica, agricultura ecológica, producción integrada y otras actuaciones, contribuyendo a mejorar los actuales sistemas de producción y a la conservación del medio ambiente. Por todo ello, y en virtud de las competencias que confiere el artículo 107 de la Ley 5/1983, de 19 de julio, de la Hacienda Pública de la Comunidad Autónoma de Andalucía, consultado el sector de productores de plántulas y plantas de vivero y a propuesta del Director General de la Producción Agraria,
 DISPONGO:
 
-#### Artículo 1. Objeto y ámbito de aplicación.
+#### Artículo . #### Artículo . #### Artículo 1. Objeto y ámbito de aplicación.
 
 1. La presente Orden tiene por objeto regular, en el territorio de la Comunidad Autónoma de Andalucía, el régimen de ayudas para la mejora de la producción y de la calidad de plántulas y plantas de vivero.
 
@@ -331,3 +339,16 @@ i. Inversiones encaminadas a la eliminación y/o aprovechamiento de residuos con
 j. Implantación y certificación de los programas de aseguramiento de calidad según normas ISO 9.000 y de las de medio ambiente según normas ISO 14.000.
 k. Convenios, proyectos y trabajos tendentes a la mejora de la calidad de las plántulas.
 l. Ampliación de las estructuras productivas existentes.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- **En concordancia con**: [**D254_2001 Atencion Alumnado Trastornos Desarrollo Andalucia**](./D254_2001_atencion_alumnado_trastornos_desarrollo_andalucia.md) desde *(Art. 12)*
+- **Cita a**: [**D254_2001 Atencion Alumnado Trastornos Desarrollo Andalucia**](./D254_2001_atencion_alumnado_trastornos_desarrollo_andalucia.md) desde *(Art. 1)*
+- **Cita a**: [**D254_2001 Atencion Alumnado Trastornos Desarrollo Andalucia**](./D254_2001_atencion_alumnado_trastornos_desarrollo_andalucia.md) (Art. 13) desde *(Art. 11)*

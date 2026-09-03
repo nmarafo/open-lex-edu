@@ -26,9 +26,72 @@ tags:
 - grado-superior
 relaciones:
   desarrolla:
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-134
   - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-can-l-6-2014
+    articulos_destino:
+    - Art. 133
+    - Art. 33
+    - Art. 40
+    - Art. 102
+  - norma_id: norm-can-lo-1-2018
+    articulos_destino:
+    - Art. 133
+    - Art. 33
+    - Art. 40
+    - Art. 102
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_destino:
+    - Art. 133
+    - Art. 33
+    - Art. 40
+    - Art. 102
+  - norma_id: norm-can-res-134
+    articulos_destino:
+    - Art. 133
+    - Art. 33
+    - Art. 40
+    - Art. 102
+  - norma_id: norm-es-lo-3-2022
+    articulos_destino:
+    - Art. 133
+    - Art. 33
+    - Art. 40
+    - Art. 102
+  - norma_id: norm-es-rd-659-2023
+    articulos_destino:
+    - Art. 133
+    - Art. 33
+    - Art. 40
+    - Art. 102
   - norma_id: norm-es-lo-2-2006
+  cita:
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_destino:
+    - Art. 102
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 102
+  - norma_id: norm-es-rd-659-2023
+    articulos_destino:
+    - Art. 102
+  - norma_id: norm-can-res-boc-2024-230-25
+    capitulo_origen: Capítulo IV. del título V del
+  - norma_id: norm-es-rd-659-2023
+    capitulo_origen: Capítulo IV. del título V del
+  - norma_id: norm-es-2024-10685
+    capitulo_origen: Capítulo IV. del título V del
   fundamentado_en:
+  - norma_id: norm-es-2021-979
+    articulos_destino:
+    - Art. 102
+  - norma_id: norm-es-2020-17274
+    articulos_destino:
+    - Art. 102
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-can-lo-1-2018
@@ -42,8 +105,6 @@ relaciones:
   - norma_id: norm-can-res-134
   - norma_id: norm-can-res-boc-2024-226-44
   - norma_id: norm-can-res-boc-2024-230-25
-  - norma_id: norm-es-2020-17274
-  - norma_id: norm-es-2021-979
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-rd-659-2023
   - norma_id: norm-es-lo-2-2006
@@ -58,7 +119,7 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-lo-1-2018
   - norma_id: norm-can-res-boc-2024-230-25
@@ -78,6 +139,7 @@ relaciones:
   - norma_id: norm-can-res-boc-2024-226-44
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-043-703.pdf
 ---
+
 # Resolución de 25 de febrero de 2026, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial por la que se dictan instrucciones para la implantación y desarrollo del módulo profesional optativo en las ofertas formativas de Grados D, niveles 2 (ciclos formativos de grado medio) y 3 (ciclos formativos de grado superior), a partir del curso escolar 2026/2027, en la Comunidad Autónoma de Canarias (BOC n.º 43, de 4 de marzo).
 
 ## Preámbulo
@@ -935,3 +997,53 @@ Peleas de Gallos, Carneros, Machos Cabríos, Vacas, Camellos, Perros.
 - [**Resolucion BOC 38**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_6.md)
 - [**Resolucion BOC 39**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_7.md)
 - [**Resolucion BOC 44**](./R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
+- **Desarrolla**: [**Resolucion BOC 134**](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md)
+- **Desarrolla**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **Desarrolla**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md) (Art. 133, Art. 33, Art. 40, Art. 102)
+- **Desarrolla**: [**LO1_2018 Estatuto de Autonomia de Canarias**](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md) (Art. 133, Art. 33, Art. 40, Art. 102)
+- **Desarrolla**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Art. 133, Art. 33, Art. 40, Art. 102)
+- **Desarrolla**: [**Resolucion BOC 134**](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md) (Art. 133, Art. 33, Art. 40, Art. 102)
+- **Desarrolla**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 133, Art. 33, Art. 40, Art. 102)
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 133, Art. 33, Art. 40, Art. 102)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**BOE-A-2021-979**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md) (Art. 102)
+- **Fundamentado en**: [**BOE-A-2020-17274**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md) (Art. 102)
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO1_2018 Estatuto de Autonomia de Canarias**](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md)
+- **Fundamentado en**: [**Resolucion BOC 33**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados.md)
+- **Fundamentado en**: [**Resolucion BOC 34**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_2.md)
+- **Fundamentado en**: [**Resolucion BOC 35**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_3.md)
+- **Fundamentado en**: [**Resolucion BOC 36**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_4.md)
+- **Fundamentado en**: [**Resolucion BOC 37**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_5.md)
+- **Fundamentado en**: [**Resolucion BOC 38**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_6.md)
+- **Fundamentado en**: [**Resolucion BOC 39**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_7.md)
+- **Fundamentado en**: [**Resolucion BOC 134**](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md)
+- **Fundamentado en**: [**Resolucion BOC 44**](./R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md)
+- **Fundamentado en**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**Resolucion BOC 33**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados.md)
+- **Fundamento de**: [**Resolucion BOC 34**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_2.md)
+- **Fundamento de**: [**Resolucion BOC 35**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_3.md)
+- **Fundamento de**: [**Resolucion BOC 36**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_4.md)
+- **Fundamento de**: [**Resolucion BOC 37**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_5.md)
+- **Fundamento de**: [**Resolucion BOC 38**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_6.md)
+- **Fundamento de**: [**Resolucion BOC 39**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_7.md)
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Art. 102)
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 102)
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 102)
+- **Cita a**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) desde *(Capítulo IV. del título V del)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) desde *(Capítulo IV. del título V del)*
+- **Cita a**: [**BOE-A-2024-10685**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD500_2024_modifican_determinados_reales_decretos_establecen_titulos.md) desde *(Capítulo IV. del título V del)*

@@ -21,6 +21,10 @@ tags:
 - marco-normativo-general
 - organizacion-administrativa
 relaciones:
+  cita:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 103
   fundamento_de:
   - norma_id: norm-can-d-135-2016
   - norma_id: norm-can-d-82-1994
@@ -73,6 +77,7 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-l-1-1983
 ---
+
 # Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias (BOC n.º 122, de 16 de septiembre).
 
 ## Preámbulo
@@ -441,3 +446,56 @@ Se faculta a la Presidencia del Gobierno para el desarrollo de este Decreto y pa
 #### Disposición final séptima. Entrada en vigor.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial de Canarias. Dado en Las Palmas de Gran Canaria, a 11 de septiembre de 1991. EL PRESIDENTE DEL GOBIERNO, Jerónimo Saavedra Acevedo.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](./L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamento de**: [**Decreto BOC 135/2016**](./D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md)
+- **Fundamento de**: [**D82_1994 Regulacion de los Centros del Profesorado (CEP)**](../08_personal_docente/D82_1994_regulan_creacion_organizacion_funcionamiento_centros_profesorado.md)
+- **Fundamento de**: [**D84_2024 ROC Consejeria de Educacion Canarias**](./D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Fundamento de**: [**Resolucion BOC 28**](../03_ordenacion_curricular_y_ensenanzas/R17_4_2026_corrige_error_resolucion_amplian_resolucion_dicta.md)
+- **Fundamento de**: [**Resolucion BOC 35**](../03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_3.md)
+- **Fundamento de**: [**Resolucion BOC 37**](../03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_5.md)
+- **Fundamento de**: [**Resolucion BOC 38**](../03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_6.md)
+- **Fundamento de**: [**Resolucion BOC 40**](../03_ordenacion_curricular_y_ensenanzas/R25_6_2026_dictan_instrucciones_organizacion_funcionamiento_cursos_acceso.md)
+- **Fundamento de**: [**Resolucion BOC 53**](../03_ordenacion_curricular_y_ensenanzas/R19_11_2025_dictan_instrucciones_organizacion_aplicacion_curso.md)
+- **Fundamento de**: [**Resolucion BOC 59**](../03_ordenacion_curricular_y_ensenanzas/Rsn_numero_convocan_pruebas_obtencion_certificados_nivel.md)
+- **Fundamento de**: [**Resolucion BOC 63**](../03_ordenacion_curricular_y_ensenanzas/R7_4_2025_dictan_instrucciones_planificacion_realizacion_gestion_ambito.md)
+- **Fundamento de**: [**Resolucion BOC 95**](../04_organizacion_escolar_y_funcionamiento/R2_12_2025_convoca_procedimiento_seleccion_directores_directoras_centros.md)
+- **Fundamento de**: [**Resolucion BOC 96**](../04_organizacion_escolar_y_funcionamiento/Rsn_de2026_convoca_sistema_libre_designacion_provision.md)
+- **Fundamento de**: [**Resolucion BOC 112**](../05_alumnado_y_servicios_escolares/R6_3_2026_corrige_error_resolucion_convoca_procedimiento_admision.md)
+- **Fundamento de**: [**Resolucion BOC 119**](../05_alumnado_y_servicios_escolares/R8_8_2025_escolarizacion_servicios_complementarios_aprueban_instrucciones_organizacion.md)
+- **Fundamento de**: `norm-can-res-boc-1996-057-140`
+- **Fundamento de**: [**Resolucion BOC 72**](../03_ordenacion_curricular_y_ensenanzas/R12_5_2011_ver_resolucion_correccion_errores.md)
+- **Fundamento de**: [**Resolucion BOC 2**](./R20_1_2017_innovacion_promocion_educativa_delega_directora_agencia.md)
+- **Fundamento de**: [**Resolucion BOC 75**](../03_ordenacion_curricular_y_ensenanzas/R4_2_2017_dictan_instrucciones_proceso_evaluacion_ensenanzas_deportivas.md)
+- **Fundamento de**: [**Resolucion BOC 4**](./R16_3_2017_delega_competencia_materia_contratos_menores_material.md)
+- **Fundamento de**: [**Resolucion BOC 70**](../03_ordenacion_curricular_y_ensenanzas/R6_11_2017_dictan_instrucciones_organizacion_evaluacion_modulos_obra.md)
+- **Fundamento de**: [**Resolucion BOC 56**](../03_ordenacion_curricular_y_ensenanzas/R27_2_2018_determinan_caracteristicas_pruebas_obtencion_certificado_nivel.md)
+- **Fundamento de**: [**Resolucion BOC 126**](../07_convivencia_bienestar_y_protocolos/R21_6_2018_dictan_instrucciones_organizacion_funcionamiento_dirigidas_centros.md)
+- **Fundamento de**: [**Resolucion BOC 48**](../03_ordenacion_curricular_y_ensenanzas/R26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md)
+- **Fundamento de**: [**Resolucion BOC 74**](../03_ordenacion_curricular_y_ensenanzas/R10_7_2019_dictan_instrucciones_relativas_procedimiento_reconocimiento_correspondencias.md)
+- **Fundamento de**: [**Resolucion BOC 52**](../03_ordenacion_curricular_y_ensenanzas/R18_11_2019_dictan_instrucciones_evaluacion_pruebas_certificacion_ensenanzas.md)
+- **Fundamento de**: [**Resolucion BOC 51**](../03_ordenacion_curricular_y_ensenanzas/R18_4_2023_dictan_instrucciones_organizacion_cursos_especializacion_idiomas.md)
+- **Fundamento de**: [**Resolucion BOC 57**](../03_ordenacion_curricular_y_ensenanzas/R27_6_2023_resoluci_n_junio_direcci_n_general.md)
+- **Fundamento de**: [**Resolucion BOC 106**](../05_alumnado_y_servicios_escolares/R18_3_2025_corrigen_errores_instrucciones_proceso_admision_alumnado.md)
+- **Fundamento de**: [**Resolucion BOC 139**](../08_personal_docente/R24_2_2026_dictan_instrucciones_regulacion_periodo_vacacional_regimen.md)
+- **Fundamento de**: [**Resolucion BOC 41**](../03_ordenacion_curricular_y_ensenanzas/R26_3_2026_amplian_resolucion_dicta_instrucciones_orientaciones_implantacion.md)
+- **Fundamento de**: [**Resolucion BOC 113**](../05_alumnado_y_servicios_escolares/R8_4_2026_corrige_resolucion_dicta_instrucciones_proceso_admision.md)
+- **Fundamento de**: [**Resolucion BOC 49**](../03_ordenacion_curricular_y_ensenanzas/R10_4_2026_convocan_pruebas_certificacion_ensenanzas_idiomas_regimen.md)
+- **Fundamento de**: [**Resolucion BOC 62**](../03_ordenacion_curricular_y_ensenanzas/R14_4_2026_dictan_instrucciones_planificacion_realizacion_gestion_ambito.md)
+- **Fundamento de**: [**Resolucion BOC 101**](../05_alumnado_y_servicios_escolares/R24_6_2026_corrige_resolucion_dicta_instrucciones_proceso_admision.md)
+- **Fundamento de**: [**Resolucion BOC 29**](../03_ordenacion_curricular_y_ensenanzas/R2_7_2026_modifican_cuadros_horarios_establecidos_resoluciones_dictan.md)
+- **Fundamento de**: [**Resolucion BOC 121**](../06_atencion_diversidad_y_orientacion/R9_2_2011_dictan_instrucciones_procedimientos_plazos_atencion_educativa.md)
+- **Fundamento de**: [**Resolucion BOC 68**](../03_ordenacion_curricular_y_ensenanzas/R25_5_2011_dictan_instrucciones_organizacion_desarrollo_pruebas_acceso.md)
+- **Fundamento de**: [**Resolucion BOC 66**](../03_ordenacion_curricular_y_ensenanzas/R2_6_2011_corrigen_errores_materiales_resolucion_dicta_instrucciones.md)
+- **Fundamento de**: [**Resolucion BOC 16**](../02_gestion_y_administracion_centros/R11_9_2014_infancia_familia_resolucion_establecen_instrucciones_ordenes.md)
+- **Cita a**: `norm-es-c-1978` (Art. 103)

@@ -25,8 +25,195 @@ tags:
 - gobierno-canarias
 - igualdad-genero
 relaciones:
+  cita:
+  - norma_id: norm-can-lo-1-2018
+    articulos_destino:
+    - Art. 47
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI. CONTROL DE LA ACTUACIÓN DEL GOBIERNO
+    articulos_origen:
+    - D. Derogatoria . Única. Disposiciones que se derogan.
+    articulos_destino:
+    - Art. 148
+    - Art. 50
+    - Art. 51
+    - Art. 52
+  - norma_id: norm-can-lo-1-2018
+    titulo_origen: Título VI. CONTROL DE LA ACTUACIÓN DEL GOBIERNO
+    articulos_origen:
+    - D. Derogatoria . Única. Disposiciones que se derogan.
+    articulos_destino:
+    - Art. 148
+    - Art. 50
+    - Art. 51
+    - Art. 52
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI. CONTROL DE LA ACTUACIÓN DEL GOBIERNO
+    articulos_origen:
+    - D. Derogatoria . Única. Disposiciones que se derogan.
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-can-lo-1-2018
+    titulo_origen: Título VI. CONTROL DE LA ACTUACIÓN DEL GOBIERNO
+    articulos_origen:
+    - D. Derogatoria . Única. Disposiciones que se derogan.
+    titulo_destino: Título I
+  - norma_id: norm-can-lo-1-2018
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. CARACTERIZACIÓN, ELECCIÓN Y NOMBRAMIENTO artículo
+      2 El presidente o presidenta de Canarias. El presidente o presidenta de Canarias
+      ostenta la más alta representación de la comunidad autónoma y la ordinaria del
+      Estado en Canarias, designa y separa libremente al vicepresidente o vicepresidenta
+      y a los restantes miembros del Gobierno, y dirige, coordina e impulsa la acción
+      del Gobierno.
+    articulos_origen:
+    - Art. 4
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. CARACTERIZACIÓN, ELECCIÓN Y NOMBRAMIENTO artículo
+      2 El presidente o presidenta de Canarias. El presidente o presidenta de Canarias
+      ostenta la más alta representación de la comunidad autónoma y la ordinaria del
+      Estado en Canarias, designa y separa libremente al vicepresidente o vicepresidenta
+      y a los restantes miembros del Gobierno, y dirige, coordina e impulsa la acción
+      del Gobierno.
+    articulos_origen:
+    - Art. 5
+  - norma_id: norm-can-lo-1-2018
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. CARACTERIZACIÓN, ELECCIÓN Y NOMBRAMIENTO artículo
+      2 El presidente o presidenta de Canarias. El presidente o presidenta de Canarias
+      ostenta la más alta representación de la comunidad autónoma y la ordinaria del
+      Estado en Canarias, designa y separa libremente al vicepresidente o vicepresidenta
+      y a los restantes miembros del Gobierno, y dirige, coordina e impulsa la acción
+      del Gobierno.
+    articulos_origen:
+    - Art. 5
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. ESTATUTO DEL PRESIDENTE O PRESIDENTA DE CANARIAS
+      artículo 6 Deberes. El presidente o presidenta de Canarias en el ejercicio de
+      su cargo tiene los siguientes deberes:.
+  - norma_id: norm-can-lo-1-2018
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. ESTATUTO DEL PRESIDENTE O PRESIDENTA DE CANARIAS
+      artículo 6 Deberes. El presidente o presidenta de Canarias en el ejercicio de
+      su cargo tiene los siguientes deberes:.
+    articulos_origen:
+    - Art. 9
+  - norma_id: norm-can-lo-1-2018
+    titulo_origen: Título I
+    capitulo_origen: Capítulo IV. Cese, sustitución y suplencia del presidente O presidenta.
+    articulos_origen:
+    - Art. 15
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo IV. Cese, sustitución y suplencia del presidente O presidenta.
+    articulos_origen:
+    - Art. 16
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo IV. Cese, sustitución y suplencia del presidente O presidenta.
+    articulos_origen:
+    - Art. 17
+  - norma_id: norm-can-lo-1-2018
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 21
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Composición del gobierno.
+    articulos_origen:
+    - Art. 25
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo IV. Funcionamiento del consejo de gobierno.
+    articulos_origen:
+    - Art. 34
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo I. Vicepresidente O vicepresidenta.
+    articulos_origen:
+    - Art. 50
+  - norma_id: norm-can-lo-1-2018
+    titulo_origen: Título III
+    capitulo_origen: Capítulo I. Vicepresidente O vicepresidenta.
+    articulos_origen:
+    - Art. 50
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo II. Consejeros O consejeras.
+    articulos_origen:
+    - Art. 56
+  - norma_id: norm-can-lo-1-2018
+    titulo_origen: Título III
+    capitulo_origen: Capítulo II. Consejeros O consejeras.
+    articulos_origen:
+    - Art. 56
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título V
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 66
+  - norma_id: norm-can-lo-1-2018
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II. Iniciativa legislativa y potestad legislativa del
+      gobierno.
+    seccion_origen: Sección 3. ª
+    articulos_origen:
+    - Art. 75
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo III. Potestad reglamentaria del gobierno.
+    seccion_origen: Sección 1. ª
+    articulos_origen:
+    - Art. 76
+  - norma_id: norm-can-l-14-1990
+    titulo_origen: Título V
+    capitulo_origen: Capítulo III. Potestad reglamentaria del gobierno.
+    seccion_origen: Sección 2. ª
+    articulos_origen:
+    - Art. 82
+    articulos_destino:
+    - Art. 27
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    articulos_origen:
+    - Art. 86
+  modifica:
+  - norma_id: norm-can-l-14-1990
+    titulo_origen: Título VI. CONTROL DE LA ACTUACIÓN DEL GOBIERNO
+    articulos_origen:
+    - D. Derogatoria . Única. Disposiciones que se derogan.
+  - norma_id: norm-can-lo-1-2018
+    titulo_origen: Título VI. CONTROL DE LA ACTUACIÓN DEL GOBIERNO
+    articulos_origen:
+    - D. Derogatoria . Única. Disposiciones que se derogan.
+    articulos_destino:
+    - Art. 51
+    - Art. 52
+  - norma_id: norm-can-l-14-1990
+    titulo_origen: Título VI
+    articulos_origen:
+    - D. Derogatoria . Única. Disposiciones que se derogan.
+  deroga:
+  - norma_id: norm-can-l-14-1990
+    titulo_origen: Título VI. CONTROL DE LA ACTUACIÓN DEL GOBIERNO
+    articulos_origen:
+    - D. Derogatoria . Única. Disposiciones que se derogan.
+    titulo_destino: Título II
   fundamentado_en:
   - norma_id: norm-can-lo-1-2018
+    titulo_origen: Título VI. CONTROL DE LA ACTUACIÓN DEL GOBIERNO
+    articulos_origen:
+    - D. Derogatoria . Única. Disposiciones que se derogan.
+    articulos_destino:
+    - Art. 16
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I
+    articulos_destino:
+    - Art. 20
   - norma_id: norm-es-2010-4518
   - norma_id: norm-es-2012-9364
   - norma_id: norm-es-2021-11382
@@ -34,6 +221,12 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-can-l-6-2014
+  concordancia:
+  - norma_id: norm-can-lo-1-2018
+    titulo_origen: Título VI. CONTROL DE LA ACTUACIÓN DEL GOBIERNO
+    articulos_origen:
+    - D. Derogatoria . Única. Disposiciones que se derogan.
+    titulo_destino: Título IV
   fundamento_de:
   - norma_id: norm-can-d-123-2023
   - norma_id: norm-can-d-84-2024
@@ -44,8 +237,8 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-lo-1-2018
   articulos:
-  - '50'
-  - '51'
+  - norma_id: '50'
+  - norma_id: '51'
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-2010-4518
   - norma_id: norm-es-2021-11382
@@ -55,6 +248,7 @@ ocr_procesado: true
 motor_ocr: rapidocr_onnxruntime
 anexos_extraidos_pdf: true
 ---
+
 # Ley 4/2023, de 23 de marzo, de la Presidencia y del Gobierno de Canarias.
 
 ## Preámbulo
@@ -1553,3 +1747,53 @@ En Canarias, a 23 de marzo de 2023. EL PRESIDENTE, Ángel Víctor Torres Pérez.
 © Gobierno de Canarias
 
 Aviso Legal Sugerencias y Reclamaciones
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Modifica**: [**L14_1990 Regimen Juridico Administraciones Canarias**](./L14_1990_regimen_juridico_administraciones_publicas_canarias.md) desde *(Título VI. CONTROL DE LA ACTUACIÓN DEL GOBIERNO, D. Derogatoria . Única. Disposiciones que se derogan.)*
+- **Modifica**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md) (Art. 51, Art. 52) desde *(Título VI. CONTROL DE LA ACTUACIÓN DEL GOBIERNO, D. Derogatoria . Única. Disposiciones que se derogan.)*
+- **Modifica**: [**L14_1990 Regimen Juridico Administraciones Canarias**](./L14_1990_regimen_juridico_administraciones_publicas_canarias.md) desde *(Título VI, D. Derogatoria . Única. Disposiciones que se derogan.)*
+- **Deroga**: [**L14_1990 Regimen Juridico Administraciones Canarias**](./L14_1990_regimen_juridico_administraciones_publicas_canarias.md) (Título II) desde *(Título VI. CONTROL DE LA ACTUACIÓN DEL GOBIERNO, D. Derogatoria . Única. Disposiciones que se derogan.)*
+- **Fundamentado en**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md) (Art. 16) desde *(Título VI. CONTROL DE LA ACTUACIÓN DEL GOBIERNO, D. Derogatoria . Única. Disposiciones que se derogan.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 20) desde *(Título II, Capítulo I)*
+- **Fundamentado en**: [**BOE-A-2010-4518**](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md)
+- **Fundamentado en**: [**BOE-A-2012-9364**](../../../estatal/08_personal_docente/RD20_2012_real_decreto_ley_medidas_garantizar_estabilidad.md)
+- **Fundamentado en**: [**BOE-A-2021-11382**](../../../estatal/07_convivencia_bienestar_y_protocolos/L2_2021_igualdad_social_no_discriminacion_razon_identidad.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](./L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamento de**: [**D123/2023 Estructura Organica del Gobierno de Canarias**](./D123_2023_determina_estructura_organica_sedes_consejerias_gobierno.md)
+- **Fundamento de**: [**D84_2024 ROC Consejeria de Educacion Canarias**](./D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Fundamento de**: [**Resolucion BOC 125**](../07_convivencia_bienestar_y_protocolos/R19_2_2025_establece_protocolo_actuacion_ante_situaciones_acoso.md)
+- **En concordancia con**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md) (Título IV) desde *(Título VI. CONTROL DE LA ACTUACIÓN DEL GOBIERNO, D. Derogatoria . Única. Disposiciones que se derogan.)*
+- **Cita a**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md) (Art. 47)
+- **Cita a**: `norm-es-c-1978` (Art. 148, Art. 50, Art. 51, Art. 52) desde *(Título VI. CONTROL DE LA ACTUACIÓN DEL GOBIERNO, D. Derogatoria . Única. Disposiciones que se derogan.)*
+- **Cita a**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md) (Art. 148, Art. 50, Art. 51, Art. 52) desde *(Título VI. CONTROL DE LA ACTUACIÓN DEL GOBIERNO, D. Derogatoria . Única. Disposiciones que se derogan.)*
+- **Cita a**: `norm-es-c-1978` (Art. 149) desde *(Título VI. CONTROL DE LA ACTUACIÓN DEL GOBIERNO, D. Derogatoria . Única. Disposiciones que se derogan.)*
+- **Cita a**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md) (Título I) desde *(Título VI. CONTROL DE LA ACTUACIÓN DEL GOBIERNO, D. Derogatoria . Única. Disposiciones que se derogan.)*
+- **Cita a**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md) desde *(Título I, Capítulo I. CARACTERIZACIÓN, ELECCIÓN Y NOMBRAMIENTO artículo 2 El presidente o presidenta de Canarias. El presidente o presidenta de Canarias ostenta la más alta representación de la comunidad autónoma y la ordinaria del Estado en Canarias, designa y separa libremente al vicepresidente o vicepresidenta y a los restantes miembros del Gobierno, y dirige, coordina e impulsa la acción del Gobierno., Art. 4)*
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Capítulo I. CARACTERIZACIÓN, ELECCIÓN Y NOMBRAMIENTO artículo 2 El presidente o presidenta de Canarias. El presidente o presidenta de Canarias ostenta la más alta representación de la comunidad autónoma y la ordinaria del Estado en Canarias, designa y separa libremente al vicepresidente o vicepresidenta y a los restantes miembros del Gobierno, y dirige, coordina e impulsa la acción del Gobierno., Art. 5)*
+- **Cita a**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md) desde *(Título I, Capítulo I. CARACTERIZACIÓN, ELECCIÓN Y NOMBRAMIENTO artículo 2 El presidente o presidenta de Canarias. El presidente o presidenta de Canarias ostenta la más alta representación de la comunidad autónoma y la ordinaria del Estado en Canarias, designa y separa libremente al vicepresidente o vicepresidenta y a los restantes miembros del Gobierno, y dirige, coordina e impulsa la acción del Gobierno., Art. 5)*
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Capítulo II. ESTATUTO DEL PRESIDENTE O PRESIDENTA DE CANARIAS artículo 6 Deberes. El presidente o presidenta de Canarias en el ejercicio de su cargo tiene los siguientes deberes:.)*
+- **Cita a**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md) desde *(Título I, Capítulo II. ESTATUTO DEL PRESIDENTE O PRESIDENTA DE CANARIAS artículo 6 Deberes. El presidente o presidenta de Canarias en el ejercicio de su cargo tiene los siguientes deberes:., Art. 9)*
+- **Cita a**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md) desde *(Título I, Capítulo IV. Cese, sustitución y suplencia del presidente O presidenta., Art. 15)*
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Capítulo IV. Cese, sustitución y suplencia del presidente O presidenta., Art. 16)*
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Capítulo IV. Cese, sustitución y suplencia del presidente O presidenta., Art. 17)*
+- **Cita a**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md) desde *(Título II, Capítulo I, Art. 21)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo II. Composición del gobierno., Art. 25)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo IV. Funcionamiento del consejo de gobierno., Art. 34)*
+- **Cita a**: `norm-es-c-1978` desde *(Título III, Capítulo I. Vicepresidente O vicepresidenta., Art. 50)*
+- **Cita a**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md) desde *(Título III, Capítulo I. Vicepresidente O vicepresidenta., Art. 50)*
+- **Cita a**: `norm-es-c-1978` desde *(Título III, Capítulo II. Consejeros O consejeras., Art. 56)*
+- **Cita a**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md) desde *(Título III, Capítulo II. Consejeros O consejeras., Art. 56)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) desde *(Título V, Capítulo I, Art. 66)*
+- **Cita a**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md) desde *(Título V, Capítulo II. Iniciativa legislativa y potestad legislativa del gobierno., Art. 75)*
+- **Cita a**: `norm-es-c-1978` desde *(Título V, Capítulo III. Potestad reglamentaria del gobierno., Art. 76)*
+- **Cita a**: [**L14_1990 Regimen Juridico Administraciones Canarias**](./L14_1990_regimen_juridico_administraciones_publicas_canarias.md) (Art. 27) desde *(Título V, Capítulo III. Potestad reglamentaria del gobierno., Art. 82)*
+- **Cita a**: `norm-es-c-1978` desde *(Título VI, Art. 86)*

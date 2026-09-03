@@ -32,21 +32,26 @@ tags:
 - roc
 - segundo-ciclo
 relaciones:
+  fundamentado_en:
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 45
+    - Art. 48
+    - Art. 49
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
   desarrolla:
   - norma_id: norm-es-rd-95-2022
-  - norma_id: norm-es-lo-2-2006
-  fundamentado_en:
-  - norma_id: norm-can-l-6-2014
-  - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '6.5'
-  - '14'
+  - norma_id: '6.5'
+  - norma_id: '14'
   - norma_id: norm-es-l-39-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-208-3159.pdf
 ---
+
 # Decreto 196/2022, de 13 de octubre, por el que se establece la ordenación y el currículo de la Educación Infantil en la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -58,3 +63,14 @@ V. Anuncios Otros anuncios Consejería de Administraciones Públicas, Justicia y
 Comunidad Autónoma de Canarias, del Cuerpo A122. En cumplimiento de lo dispuesto por el Tribunal Superior de Justicia de Canarias, Sala de lo Contencioso-Administrativo, Sección Segunda, de Santa Cruz de Tenerife, en el recurso que se tramita como procedimiento ordinario nº 249/2022, interpuesto por D. Gustavo Winter Cabrera, contra el Decreto 115/2022, de 20 de mayo, por el que se aprueba la Oferta Extraordinaria de Empleo Público para la estabilización de empleo temporal de larga duración en el ámbito de la Administración General de la Comunidad Autónoma de Canarias, publicado en el BOC nº 105, de fecha 31 de mayo de 2022, exclusivamente en lo concerniente a su Anexo I, y en lo relativo a las plazas pertenecientes a la Escala de Letrados de la Comunidad Autónoma de Canarias, del Cuerpo A122; dado que el acto objeto de la impugnación podría afectar a una pluralidad de personas por determinar, supuesto subsumible en lo dispuesto en el artículo 45.1.a) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, esta Dirección General, conforme a lo dispuesto en los artículos 48 y 49 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, R E S U E LV E:
 Primero.- Ordenar la remisión del expediente administrativo judicializado que corresponde al recurso contencioso-administrativo que se tramita como procedimiento ordinario nº 249/2022, seguido a instancia de D. Gustavo Winter Cabrera.
 Segundo.- Emplazar a cuantos aparezcan como interesados en el recurso contenciosoadministrativo que se tramita como procedimiento ordinario nº 249/2022 en el Tribunal Superior de Justicia de Canarias, Sala de lo Contencioso-Administrativo, Sección Segunda, de Santa Cruz de Tenerife, para que puedan comparecer y personarse como demandados ante el mencionado Tribunal en el plazo de nueve días, a partir del día siguiente al de la publicación de la presente Resolución. Santa Cruz de Tenerife, a 5 de octubre de 2022.- La Directora General de la Función Pública, Montserrat García Santana.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**RD95_2022 Ensenanzas Minimas de Educacion Infantil**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 45, Art. 48, Art. 49)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)

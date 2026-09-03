@@ -28,12 +28,178 @@ tags:
 - protocolos-de-actuaci-n-y-protecci-n
 - violencia-genero
 relaciones:
+  cita:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 15
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 9
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo I. De los Juzgados de Violencia sobre la Mujer.
+    articulos_origen:
+    - Art. 52
+    articulos_destino:
+    - Art. 52
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo I. De los Juzgados de Violencia sobre la Mujer.
+    articulos_origen:
+    - Art. 46 ter
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo III. Normas procesales penales.
+    articulos_origen:
+    - Art. 58
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título V
+    capitulo_origen: Capítulo V. Del Fiscal contra la Violencia sobre la Mujer.
+    articulos_origen:
+    - D. Adicional tercera. Modificación de la Ley Orgánica reguladora del Derecho
+      a la Educación.
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título V
+    capitulo_origen: Capítulo V. Del Fiscal contra la Violencia sobre la Mujer.
+    articulos_origen:
+    - D. Adicional tercera. Modificación de la Ley Orgánica reguladora del Derecho
+      a la Educación.
+    articulos_destino:
+    - Art. 31
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título V
+    capitulo_origen: Capítulo V. Del Fiscal contra la Violencia sobre la Mujer.
+    articulos_origen:
+    - D. Adicional tercera. Modificación de la Ley Orgánica reguladora del Derecho
+      a la Educación.
+    articulos_destino:
+    - Art. 32
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título V
+    capitulo_origen: Capítulo V. Del Fiscal contra la Violencia sobre la Mujer.
+    articulos_origen:
+    - D. Adicional tercera. Modificación de la Ley Orgánica reguladora del Derecho
+      a la Educación.
+    articulos_destino:
+    - Art. 33
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título V
+    capitulo_origen: Capítulo V. Del Fiscal contra la Violencia sobre la Mujer.
+    articulos_origen:
+    - D. Adicional tercera. Modificación de la Ley Orgánica reguladora del Derecho
+      a la Educación.
+    articulos_destino:
+    - Art. 56
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título V
+    capitulo_origen: Capítulo V. Del Fiscal contra la Violencia sobre la Mujer.
+    articulos_origen:
+    - D. Adicional tercera. Modificación de la Ley Orgánica reguladora del Derecho
+      a la Educación.
+    articulos_destino:
+    - Art. 57
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título V
+    capitulo_origen: Capítulo V. Del Fiscal contra la Violencia sobre la Mujer.
+    articulos_origen:
+    - D. Adicional novena. Modificación de la Ley de Medidas para la Reforma de la
+      Función Pública.
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título V
+    capitulo_origen: Capítulo V. Del Fiscal contra la Violencia sobre la Mujer.
+    articulos_origen:
+    - D. Adicional novena. Modificación de la Ley de Medidas para la Reforma de la
+      Función Pública.
+    articulos_destino:
+    - Art. 17
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título V
+    capitulo_origen: Capítulo V. Del Fiscal contra la Violencia sobre la Mujer.
+    articulos_origen:
+    - D. Adicional novena. Modificación de la Ley de Medidas para la Reforma de la
+      Función Pública.
+    articulos_destino:
+    - Art. 20
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título V
+    capitulo_origen: Capítulo V. Del Fiscal contra la Violencia sobre la Mujer.
+    articulos_origen:
+    - D. Adicional novena. Modificación de la Ley de Medidas para la Reforma de la
+      Función Pública.
+    articulos_destino:
+    - Art. 29
+  - norma_id: norm-es-1984-17387
+    titulo_origen: Título V
+    capitulo_origen: Capítulo V. Del Fiscal contra la Violencia sobre la Mujer.
+    articulos_origen:
+    - D. Adicional novena. Modificación de la Ley de Medidas para la Reforma de la
+      Función Pública.
+    articulos_destino:
+    - Art. 30
+  modifica:
+  - norma_id: norm-es-1995-25444
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-2001-7022
+    titulo_origen: Título V
+    capitulo_origen: Capítulo V. Del Fiscal contra la Violencia sobre la Mujer.
+    articulos_origen:
+    - D. Adicional cuarta. Modificación de la Ley Orgánica de Ordenación General del
+      Sistema Educativo.
+  - norma_id: norm-es-2001-7022
+    titulo_origen: Título V
+    capitulo_origen: Capítulo V. Del Fiscal contra la Violencia sobre la Mujer.
+    articulos_origen:
+    - D. Adicional cuarta. Modificación de la Ley Orgánica de Ordenación General del
+      Sistema Educativo.
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-2001-7022
+    titulo_origen: Título V
+    capitulo_origen: Capítulo V. Del Fiscal contra la Violencia sobre la Mujer.
+    articulos_origen:
+    - D. Adicional cuarta. Modificación de la Ley Orgánica de Ordenación General del
+      Sistema Educativo.
+    articulos_destino:
+    - Art. 34
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo V. Del Fiscal contra la Violencia sobre la Mujer.
+    articulos_origen:
+    - D. Adicional sexta. Modificación de la Ley General de Publicidad.
+    articulos_destino:
+    - Art. 18
+    - Art. 20
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo V. Del Fiscal contra la Violencia sobre la Mujer.
+    articulos_origen:
+    - D. Adicional novena. Modificación de la Ley de Medidas para la Reforma de la
+      Función Pública.
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo V. Del Fiscal contra la Violencia sobre la Mujer.
+    articulos_origen:
+    - D. Final segunda. Habilitación competencial.
+    articulos_destino:
+    - Art. 149
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-1995-25444
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-lo-8-1985
+  desarrolla:
+  - norma_id: norm-es-lo-8-2021
+    titulo_origen: Título V
+    capitulo_origen: Capítulo V. Del Fiscal contra la Violencia sobre la Mujer.
+    articulos_origen:
+    - D. Final séptima. Entrada en vigor.
   fundamento_de:
   - norma_id: norm-es-2010-4518
   - norma_id: norm-es-2012-9364
@@ -44,18 +210,16 @@ relaciones:
   - norma_id: norm-es-lo-10-2022
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-8-2021
-  - norma_id: norm-can-o-2023-09-28
-  desarrollado_por:
-  - norma_id: norm-can-l-16-2003
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '14'
+  - norma_id: '14'
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-1995-25444
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-lo-8-1985
 ---
+
 # Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
 
 ## Preámbulo
@@ -4274,3 +4438,48 @@ Total nacional
 - [**BOE-A-1995-25444**](../01_marco_normativo_general_y_organico/LO10_1995_codigo_penal.md)
 - [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 - [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](./LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md) desde *(Título V, Capítulo V. Del Fiscal contra la Violencia sobre la Mujer., D. Final séptima. Entrada en vigor.)*
+- **Modifica**: [**BOE-A-1995-25444**](../01_marco_normativo_general_y_organico/LO10_1995_codigo_penal.md)
+- **Modifica**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
+- **Modifica**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) desde *(Título V, Capítulo V. Del Fiscal contra la Violencia sobre la Mujer., D. Adicional cuarta. Modificación de la Ley Orgánica de Ordenación General del Sistema Educativo.)*
+- **Modifica**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (Art. 2) desde *(Título V, Capítulo V. Del Fiscal contra la Violencia sobre la Mujer., D. Adicional cuarta. Modificación de la Ley Orgánica de Ordenación General del Sistema Educativo.)*
+- **Modifica**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) (Art. 34) desde *(Título V, Capítulo V. Del Fiscal contra la Violencia sobre la Mujer., D. Adicional cuarta. Modificación de la Ley Orgánica de Ordenación General del Sistema Educativo.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 18, Art. 20) desde *(Título V, Capítulo V. Del Fiscal contra la Violencia sobre la Mujer., D. Adicional sexta. Modificación de la Ley General de Publicidad.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Título V, Capítulo V. Del Fiscal contra la Violencia sobre la Mujer., D. Adicional novena. Modificación de la Ley de Medidas para la Reforma de la Función Pública.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Título V, Capítulo V. Del Fiscal contra la Violencia sobre la Mujer., D. Final segunda. Habilitación competencial.)*
+- **Fundamentado en**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
+- **Fundamentado en**: [**BOE-A-1995-25444**](../01_marco_normativo_general_y_organico/LO10_1995_codigo_penal.md)
+- **Fundamentado en**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
+- **Fundamento de**: [**BOE-A-2010-4518**](./L1_2010_canaria_igualdad_entre_mujeres_hombres.md)
+- **Fundamento de**: [**BOE-A-2012-9364**](../08_personal_docente/RD20_2012_real_decreto_ley_medidas_garantizar_estabilidad.md)
+- **Fundamento de**: [**BOE-A-2015-8222**](../01_marco_normativo_general_y_organico/LO8_2015_modificacion_sistema_proteccion_infancia_adolescencia.md)
+- **Fundamento de**: [**BOE-A-2015-8470**](../01_marco_normativo_general_y_organico/L26_2015_modificacion_sistema_proteccion_infancia_adolescencia.md)
+- **Fundamento de**: [**BOE-A-2022-11589**](./L15_2022_integral_igualdad_trato_no_discriminacion.md)
+- **Fundamento de**: [**BOE-A-2024-11613**](../03_ordenacion_curricular_y_ensenanzas/L1_2024_regulan_ensenanzas_artisticas_superiores_establece_organizacion.md)
+- **Fundamento de**: [**LO10_2022 Garantia Integral de la Libertad Sexual**](./LO10_2022_garantia_integral_libertad_sexual.md)
+- **Fundamento de**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](./LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Cita a**: `norm-es-c-1978` (Art. 15)
+- **Cita a**: `norm-es-c-1978` (Art. 9)
+- **Cita a**: `norm-es-c-1978` (Art. 52) desde *(Título V, Capítulo I. De los Juzgados de Violencia sobre la Mujer., Art. 52)*
+- **Cita a**: `norm-es-c-1978` desde *(Título V, Capítulo I. De los Juzgados de Violencia sobre la Mujer., Art. 46 ter)*
+- **Cita a**: `norm-es-c-1978` desde *(Título V, Capítulo III. Normas procesales penales., Art. 58)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 2) desde *(Título V, Capítulo V. Del Fiscal contra la Violencia sobre la Mujer., D. Adicional tercera. Modificación de la Ley Orgánica reguladora del Derecho a la Educación.)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 31) desde *(Título V, Capítulo V. Del Fiscal contra la Violencia sobre la Mujer., D. Adicional tercera. Modificación de la Ley Orgánica reguladora del Derecho a la Educación.)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 32) desde *(Título V, Capítulo V. Del Fiscal contra la Violencia sobre la Mujer., D. Adicional tercera. Modificación de la Ley Orgánica reguladora del Derecho a la Educación.)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 33) desde *(Título V, Capítulo V. Del Fiscal contra la Violencia sobre la Mujer., D. Adicional tercera. Modificación de la Ley Orgánica reguladora del Derecho a la Educación.)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 56) desde *(Título V, Capítulo V. Del Fiscal contra la Violencia sobre la Mujer., D. Adicional tercera. Modificación de la Ley Orgánica reguladora del Derecho a la Educación.)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 57) desde *(Título V, Capítulo V. Del Fiscal contra la Violencia sobre la Mujer., D. Adicional tercera. Modificación de la Ley Orgánica reguladora del Derecho a la Educación.)*
+- **Cita a**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) (Art. 1) desde *(Título V, Capítulo V. Del Fiscal contra la Violencia sobre la Mujer., D. Adicional novena. Modificación de la Ley de Medidas para la Reforma de la Función Pública.)*
+- **Cita a**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) (Art. 17) desde *(Título V, Capítulo V. Del Fiscal contra la Violencia sobre la Mujer., D. Adicional novena. Modificación de la Ley de Medidas para la Reforma de la Función Pública.)*
+- **Cita a**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) (Art. 20) desde *(Título V, Capítulo V. Del Fiscal contra la Violencia sobre la Mujer., D. Adicional novena. Modificación de la Ley de Medidas para la Reforma de la Función Pública.)*
+- **Cita a**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) (Art. 29) desde *(Título V, Capítulo V. Del Fiscal contra la Violencia sobre la Mujer., D. Adicional novena. Modificación de la Ley de Medidas para la Reforma de la Función Pública.)*
+- **Cita a**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) (Art. 30) desde *(Título V, Capítulo V. Del Fiscal contra la Violencia sobre la Mujer., D. Adicional novena. Modificación de la Ley de Medidas para la Reforma de la Función Pública.)*

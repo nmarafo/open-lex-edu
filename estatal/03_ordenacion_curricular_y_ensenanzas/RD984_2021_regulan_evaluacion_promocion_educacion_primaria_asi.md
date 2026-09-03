@@ -30,13 +30,164 @@ tags:
 - profesorado
 - titulacion
 relaciones:
-  fundamentado_en:
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2014-2222
+  modifica:
+  - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-lo-3-2020
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-lo-3-2020
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-lo-3-2020
+    capitulo_origen: Capítulo VII. Educación de personas adultas.
+    articulos_origen:
+    - D. Transitoria primera. Obtención del título de Bachiller en las modalidades
+      de Ciencias o de Humanidades y Ciencias Sociales desde las Enseñanzas Profesionales
+      de Música o de Danza.
+    articulos_destino:
+    - Art. 22
+  - norma_id: norm-es-lo-3-2020
+    capitulo_origen: Capítulo VII. Educación de personas adultas.
+    articulos_origen:
+    - D. Transitoria segunda. Obtención del título de Bachiller con el título de Técnico
+      Superior de Formación Profesional.
+    articulos_destino:
+    - Art. 22
+  - norma_id: norm-es-2014-2222
+    capitulo_origen: Capítulo VII. Educación de personas adultas.
+    articulos_origen:
+    - D. Transitoria cuarta. Documentos de evaluación.
+    disposiciones_destino:
+    - D. Adicional cuarta
+    - D. Adicional sexta
+  - norma_id: norm-es-lo-3-2020
+    capitulo_origen: Capítulo VII. Educación de personas adultas.
+    articulos_origen:
+    - D. Transitoria cuarta. Documentos de evaluación.
+    disposiciones_destino:
+    - D. Adicional cuarta
+    - D. Adicional sexta
+  fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo II. Educación Primaria.
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 20
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo II. Educación Primaria.
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 20
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo II. Educación Primaria.
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 20
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VII. Educación de personas adultas.
+    articulos_origen:
+    - D. Final primera. Título competencial.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-2014-2222
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-l-39-2015
+  desarrolla:
+  - norma_id: norm-es-2014-2222
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 3
+  cita:
   - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo III. Educación Secundaria Obligatoria.
+    articulos_origen:
+    - Art. 11
+    articulos_destino:
+    - Art. 4
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo III. Educación Secundaria Obligatoria.
+    articulos_origen:
+    - Art. 11
+    articulos_destino:
+    - Art. 4
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo III. Educación Secundaria Obligatoria.
+    articulos_origen:
+    - Art. 11
+    articulos_destino:
+    - Art. 4
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo III. Educación Secundaria Obligatoria.
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 4
+    - Art. 28
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo III. Educación Secundaria Obligatoria.
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 4
+    - Art. 28
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo III. Educación Secundaria Obligatoria.
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 4
+    - Art. 28
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo III. Educación Secundaria Obligatoria.
+    articulos_origen:
+    - Art. 16
+    articulos_destino:
+    - Art. 4
+    - Art. 28
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo III. Educación Secundaria Obligatoria.
+    articulos_origen:
+    - Art. 16
+    articulos_destino:
+    - Art. 4
+    - Art. 28
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo III. Educación Secundaria Obligatoria.
+    articulos_origen:
+    - Art. 16
+    articulos_destino:
+    - Art. 4
+    - Art. 28
+  deroga:
+  - norma_id: norm-es-2014-2222
+    capitulo_origen: Capítulo VII. Educación de personas adultas.
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
+    articulos_destino:
+    - Art. 11
+    - Art. 12
+    - Art. 20
+    - Art. 21
+    - Art. 22
+    - Art. 23
+    - Art. 30
+    - Art. 31
+    - Art. 32
+    - Art. 33
+    - Art. 34
+    disposiciones_destino:
+    - D. Adicional cuarta
   fundamento_de:
   - norma_id: norm-es-rd-157-2022
   - norma_id: norm-es-rd-217-2022
@@ -44,12 +195,13 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-2014-2222
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
 ---
+
 # Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
 
 ## Preámbulo
@@ -418,3 +570,41 @@ MARÍA DEL PILAR ALEGRÍA CONTINENTE
 - [**BOE-A-2014-2222**](./RD126_2014_establece_curriculo_basico_educacion_primaria.md)
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**BOE-A-2014-2222**](./RD126_2014_establece_curriculo_basico_educacion_primaria.md) desde *(Capítulo I, Art. 3)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Modifica**: `norm-es-lo-3-2020`
+- **Modifica**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 129)
+- **Modifica**: `norm-es-lo-3-2020` (Art. 129)
+- **Modifica**: `norm-es-lo-3-2020` (Art. 22) desde *(Capítulo VII. Educación de personas adultas., D. Transitoria primera. Obtención del título de Bachiller en las modalidades de Ciencias o de Humanidades y Ciencias Sociales desde las Enseñanzas Profesionales de Música o de Danza.)*
+- **Modifica**: `norm-es-lo-3-2020` (Art. 22) desde *(Capítulo VII. Educación de personas adultas., D. Transitoria segunda. Obtención del título de Bachiller con el título de Técnico Superior de Formación Profesional.)*
+- **Modifica**: [**BOE-A-2014-2222**](./RD126_2014_establece_curriculo_basico_educacion_primaria.md) (D. Adicional cuarta, D. Adicional sexta) desde *(Capítulo VII. Educación de personas adultas., D. Transitoria cuarta. Documentos de evaluación.)*
+- **Modifica**: `norm-es-lo-3-2020` (D. Adicional cuarta, D. Adicional sexta) desde *(Capítulo VII. Educación de personas adultas., D. Transitoria cuarta. Documentos de evaluación.)*
+- **Deroga**: [**BOE-A-2014-2222**](./RD126_2014_establece_curriculo_basico_educacion_primaria.md) (Art. 11, Art. 12, Art. 20, Art. 21, Art. 22, Art. 23, Art. 30, Art. 31, Art. 32, Art. 33, Art. 34, D. Adicional cuarta) desde *(Capítulo VII. Educación de personas adultas., D. Derogatoria única. Derogación normativa.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 20) desde *(Capítulo II. Educación Primaria., Art. 9)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 20) desde *(Capítulo II. Educación Primaria., Art. 9)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 20) desde *(Capítulo II. Educación Primaria., Art. 9)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(Capítulo VII. Educación de personas adultas., D. Final primera. Título competencial.)*
+- **Fundamentado en**: [**BOE-A-2014-2222**](./RD126_2014_establece_curriculo_basico_educacion_primaria.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamento de**: [**RD157_2022 Ensenanzas Minimas de Educacion Primaria**](./RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md)
+- **Fundamento de**: [**RD217_2022 Ordenacion y Ensenanzas Minimas de la ESO**](./RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md)
+- **Fundamento de**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](./RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 4) desde *(Capítulo III. Educación Secundaria Obligatoria., Art. 11)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 4) desde *(Capítulo III. Educación Secundaria Obligatoria., Art. 11)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 4) desde *(Capítulo III. Educación Secundaria Obligatoria., Art. 11)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 4, Art. 28) desde *(Capítulo III. Educación Secundaria Obligatoria., Art. 13)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 4, Art. 28) desde *(Capítulo III. Educación Secundaria Obligatoria., Art. 13)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 4, Art. 28) desde *(Capítulo III. Educación Secundaria Obligatoria., Art. 13)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 4, Art. 28) desde *(Capítulo III. Educación Secundaria Obligatoria., Art. 16)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 4, Art. 28) desde *(Capítulo III. Educación Secundaria Obligatoria., Art. 16)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 4, Art. 28) desde *(Capítulo III. Educación Secundaria Obligatoria., Art. 16)*

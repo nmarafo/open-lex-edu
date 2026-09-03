@@ -30,6 +30,31 @@ tags:
 - profesorado
 - roc
 relaciones:
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 18
+    disposiciones_destino:
+    - D. Adicional quinta
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 18
+    disposiciones_destino:
+    - D. Adicional quinta
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 18
+    disposiciones_destino:
+    - D. Adicional quinta
+  concordancia:
+  - norma_id: norm-can-d-123-2023
+    disposiciones_destino:
+    - D. Transitoria única
+  - norma_id: norm-can-d-84-2024
+    disposiciones_destino:
+    - D. Transitoria única
+  cita:
+  - norma_id: norm-es-c-1978
   fundamentado_en:
   - norma_id: norm-can-d-123-2023
   - norma_id: norm-can-d-84-2024
@@ -41,12 +66,10 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-can-d-123-2023
   - norma_id: norm-can-d-84-2024
@@ -56,6 +79,7 @@ relaciones:
   - norma_id: norm-can-res-boc-2025-061-88
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-044-886.pdf
 ---
+
 # Resolución de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios, de 20 de febrero de 2025, por la que se establece el calendario escolar y se dictan instrucciones para la organización y desarrollo de las actividades de comienzo y finalización del curso 2025-2026, para los centros de enseñanzas no universitarias de la Comunidad Autónoma de Canarias (BOC n.º 44, de 4 de marzo).
 
 ## Preámbulo
@@ -247,3 +271,25 @@ segundo semestre Del 22 de junio al 3 de julio Del 6 al 10 de julio Registro y s
 - [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**Resolucion BOC 88**](./R19_3_2025_escolarizacion_servicios_complementarios_corrige_error_resolucion.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 18, D. Adicional quinta)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 18, D. Adicional quinta)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 18, D. Adicional quinta)
+- **Fundamentado en**: [**D123/2023 Estructura Organica del Gobierno de Canarias**](../01_marco_normativo_general_y_organico/D123_2023_determina_estructura_organica_sedes_consejerias_gobierno.md)
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](./O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
+- **Fundamentado en**: [**Resolucion BOC 88**](./R19_3_2025_escolarizacion_servicios_complementarios_corrige_error_resolucion.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **En concordancia con**: [**D123/2023 Estructura Organica del Gobierno de Canarias**](../01_marco_normativo_general_y_organico/D123_2023_determina_estructura_organica_sedes_consejerias_gobierno.md) (D. Transitoria única)
+- **En concordancia con**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (D. Transitoria única)
+- **Cita a**: `norm-es-c-1978`

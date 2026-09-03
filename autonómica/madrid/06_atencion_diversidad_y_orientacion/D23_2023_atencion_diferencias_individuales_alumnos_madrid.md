@@ -26,27 +26,362 @@ tags:
 - comunidad_de_madrid
 relaciones:
   desarrolla:
+  - norma_id: norm-mad-l1-2022
+    titulo_destino: Título II
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 27
+    - Art. 71
+    - Art. 24
+    - Art. 121
+    - Art. 129
+    - Art. 2
+    - Art. 29
+    - Art. 81
+    - Art. 149
+    - Art. 21
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-es-l-39-2015
+    titulo_destino: Título II
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 27
+    - Art. 71
+    - Art. 24
+    - Art. 121
+    - Art. 129
+    - Art. 2
+    - Art. 29
+    - Art. 81
+    - Art. 149
+    - Art. 21
+    disposiciones_destino:
+    - D. Final segunda
   - norma_id: norm-es-lo-2-2006
-  modifica_a: []
-  modificado_por: []
-  afecta_a_articulos: []
+    titulo_destino: Título II
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 27
+    - Art. 71
+    - Art. 24
+    - Art. 121
+    - Art. 129
+    - Art. 2
+    - Art. 29
+    - Art. 81
+    - Art. 149
+    - Art. 21
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-es-lo-8-1985
+    titulo_destino: Título II
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 27
+    - Art. 71
+    - Art. 24
+    - Art. 121
+    - Art. 129
+    - Art. 2
+    - Art. 29
+    - Art. 81
+    - Art. 149
+    - Art. 21
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-es-2021-20113
+    titulo_destino: Título II
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 27
+    - Art. 71
+    - Art. 24
+    - Art. 121
+    - Art. 129
+    - Art. 2
+    - Art. 29
+    - Art. 81
+    - Art. 149
+    - Art. 21
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-es-2010-12201
+    titulo_destino: Título II
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 27
+    - Art. 71
+    - Art. 24
+    - Art. 121
+    - Art. 129
+    - Art. 2
+    - Art. 29
+    - Art. 81
+    - Art. 149
+    - Art. 21
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-es-2013-12632
+    titulo_destino: Título II
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 27
+    - Art. 71
+    - Art. 24
+    - Art. 121
+    - Art. 129
+    - Art. 2
+    - Art. 29
+    - Art. 81
+    - Art. 149
+    - Art. 21
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-es-c-1978
+    titulo_destino: Título II
+    capitulo_destino: Capítulo I
+    articulos_destino:
+    - Art. 27
+    - Art. 71
+    - Art. 24
+    - Art. 121
+    - Art. 129
+    - Art. 2
+    - Art. 29
+    - Art. 81
+    - Art. 149
+    - Art. 21
+    disposiciones_destino:
+    - D. Final segunda
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título Preliminar. Disposiciones de carácter general
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título Preliminar. Disposiciones de carácter general
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título Preliminar. Disposiciones de carácter general
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Atención educativa al alumnado.
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 71
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Atención educativa al alumnado.
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 71
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Atención educativa al alumnado.
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 71
+  - norma_id: norm-mad-l1-2022
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Atención educativa al alumnado.
+    seccion_origen: Sección 1. a
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 16
+    - Art. 18
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título IV
+    articulos_origen:
+    - Art. 32
+    articulos_destino:
+    - Art. 121
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título IV
+    articulos_origen:
+    - Art. 32
+    articulos_destino:
+    - Art. 121
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título IV
+    articulos_origen:
+    - Art. 32
+    articulos_destino:
+    - Art. 121
+  cita:
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título Preliminar. Disposiciones de carácter general
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 6
+    - Art. 91
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título Preliminar. Disposiciones de carácter general
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 6
+    - Art. 91
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título Preliminar. Disposiciones de carácter general
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 6
+    - Art. 91
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título Preliminar. Disposiciones de carácter general
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 6
+    - Art. 91
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Atención educativa al alumnado.
+    seccion_origen: Sección 3. a
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 78
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Atención educativa al alumnado.
+    seccion_origen: Sección 3. a
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 78
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Atención educativa al alumnado.
+    seccion_origen: Sección 3. a
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 78
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título V
+    articulos_origen:
+    - D. Adicional primera. Centros privados.
+    titulo_destino: Título I
+    capitulo_destino: Capítulo III
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título V
+    articulos_origen:
+    - D. Adicional primera. Centros privados.
+    titulo_destino: Título I
+    capitulo_destino: Capítulo III
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título V
+    articulos_origen:
+    - D. Adicional primera. Centros privados.
+    titulo_destino: Título I
+    capitulo_destino: Capítulo III
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título V
+    articulos_origen:
+    - D. Adicional primera. Centros privados.
+    titulo_destino: Título I
+    capitulo_destino: Capítulo III
+  - norma_id: norm-es-1995-25444
+    titulo_origen: Título V
+    articulos_origen:
+    - D. Adicional tercera.
+    titulo_destino: Título VIII
+    articulos_destino:
+    - Art. 57
+  - norma_id: norm-es-lo-8-2021
+    titulo_origen: Título V
+    articulos_origen:
+    - D. Adicional tercera.
+    titulo_destino: Título VIII
+    articulos_destino:
+    - Art. 57
   fundamentado_en:
+  - norma_id: norm-mad-l1-2022
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. Identificación de barreras para el aprendizaje y
+      la participación y determinación de necesidades educativas.
+    articulos_origen:
+    - Art. 6
+    capitulo_destino: Capítulo II
+    articulos_destino:
+    - Art. 21
+  - norma_id: norm-mad-l1-2022
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. Identificación de barreras para el aprendizaje y
+      la participación y determinación de necesidades educativas.
+    articulos_origen:
+    - Art. 6
+    capitulo_destino: Capítulo II
+    articulos_destino:
+    - Art. 22
+  - norma_id: norm-mad-l1-2022
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Atención educativa al alumnado.
+    seccion_origen: Sección 1. a
+    articulos_origen:
+    - Art. 11
+    articulos_destino:
+    - Art. 23
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-1-1996
   - norma_id: norm-mad-d-29-2013
+  modifica:
+  - norma_id: norm-mad-l1-2022
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Atención educativa al alumnado.
+    seccion_origen: Sección 1. a
+    articulos_origen:
+    - Art. 12
+    articulos_destino:
+    - Art. 15
+  deroga:
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título V
+    articulos_origen:
+    - D. Adicional segunda.
+  - norma_id: norm-es-lo-3-2018
+    titulo_origen: Título V
+    articulos_origen:
+    - D. Adicional segunda.
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título V
+    articulos_origen:
+    - D. Adicional segunda.
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título V
+    articulos_origen:
+    - D. Adicional segunda.
+  - norma_id: norm-mad-o1493-2015
+    titulo_origen: Título V
+    articulos_origen:
+    - D. Derogatoria única.
 ---
+
 # Decreto 23/2023, de 22 de marzo, por el que se regula la atención a las diferencias individuales de los alumnos en la Comunidad de Madrid
 
 ## Preámbulo
 
-I. COMUNIDAD DE MADRID
-A) Disposiciones Generales Vicepresidencia, Consejería de Educación y Universidades 1 DECRETO 23/2023, de 22 de marzo, del Consejo de Gobierno, por el que se regula la atención educativa a las diferencias individuales del alumnado en la Comunidad de Madrid.
 **I**
 El reconocimiento a las diferencias individuales del alumnado caracteriza a una sociedad plural y constituye un valor positivo en términos educativos. Las capacidades, habilidades, fortalezas, ritmos, intereses de aprendizaje, cultura, edad y competencia curricular, así como otras circunstancias sociales o personales de los alumnos, constituyen una realidad educativa única que debe ser analizada y atendida desde el respeto y la comprensión de las diferencias. Una respuesta equitativa y ajustada a las diferencias individuales del alumnado requiere contemplar distintos escenarios de aprendizaje, tales como adaptaciones del currículo, la aplicación de metodologías didácticas abiertas y participativas que incorporen el diseño y la utilización de materiales diversos, una organización de espacios que permita diferentes agrupamientos del alumnado, modalidades de escolarización más ajustadas a las necesidades individuales y a la condición del alumno y flexibilización de tiempos escolares o de duración de las enseñanzas, en el marco de actuaciones coordinadas entre los distintos profesionales que desempeñen su labor en un centro educativo. Con el objeto de proporcionar una educación adecuada a todo el alumnado, la atención a las diferencias individuales deberá constituir el marco de referencia en todos los procesos de enseñanza y aprendizaje, pues todo alumno es susceptible de manifestar, en algún momento de su escolaridad, diferentes necesidades educativas. Se deben generar por parte de los centros propuestas organizativas, curriculares y metodológicas con la finalidad de que cada alumno pueda recibir a lo largo de su trayectoria formativa las medidas de atención educativa ordinarias y, en su caso, específicas, que le permitan alcanzar el máximo desarrollo de sus competencias. Las proposiciones anteriores se fundamentan en el artículo 27 de la Constitución española. En él se dispone que la educación tendrá por objeto el pleno desarrollo de la personalidad humana en el respeto a los principios democráticos de convivencia y a los derechos y libertades, y que serán los poderes públicos los que garantizarán ese derecho. En desarrollo de ese artículo, la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, insiste en que todos los españoles tienen derecho a una educación básica que les permita el desarrollo de su propia personalidad y la realización de una actividad útil a la sociedad. Asimismo, indica que todos tienen derecho a acceder a niveles superiores de educación, en función de sus aptitudes y vocación, sin que en ningún caso el ejercicio de ese derecho esté sujeto a discriminaciones debidas a la capacidad económica, nivel social o lugar de residencia del alumno. La actividad educativa, orientada por los principios y declaraciones de la Constitución, tendrá como uno de sus fines el pleno desarrollo de la personalidad del alumno, afirma esta ley. Por su parte, la Ley Orgánica 2/2006, de 3 de mayo, dedica el título II a la equidad educativa. A fin de garantizar la atención a las diferencias individuales, refiere en el artículo 71.2 grupos de alumnos que requieren una atención educativa diferente a la ordinaria por presentar alguna necesidad específica de apoyo educativo, y establece los recursos precisos para acometer esta tarea con el objetivo de lograr su plena participación en el sistema educativo. La atención a la diversidad es una necesidad que abarca a todas las etapas educativas y a todos los alumnos. Se debe contemplar la diversidad del alumnado como principio y no como una medida que corresponde a las necesidades de unos pocos. También es necesario recordar que el Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, dispone que corresponde a las administraciones educativas asegurar un sistema educativo inclusivo en todos los niveles educatiBOCM vos, así como la enseñanza a lo largo de la vida y garantizar un puesto escolar a los alumnos con discapacidad en la educación básica, prestando atención a la diversidad de necesidades educativas del alumnado con discapacidad mediante la regulación de apoyos y ajustes razonables para la atención de quienes precisen una atención especial de aprendizaje o de inclusión. La Convención sobre los derechos de las personas con discapacidad, celebrada en Nueva York el 13 de diciembre de 2006 y ratificada por España el 23 de noviembre de 2007, insiste en ese mismo planteamiento. Así, el artículo 24 de la Convención, en su apartado 2, letra e), al referirse a la educación de las personas con discapacidad, establece que los Estados Partes asegurarán que se faciliten medidas de apoyo personalizadas y efectivas en entornos que fomenten al máximo el desarrollo académico y social. En la Comunidad de Madrid, la Ley 1/2022, de 10 de febrero, Maestra de Libertad de Elección Educativa de la Comunidad de Madrid, garantiza la libre elección de centro educativo recogida en el artículo 27 de la Constitución española, de manera específica, por parte del alumnado que presenta necesidades educativas especiales. Cada escolar es único y precisa una u otra respuesta educativa que depende de una alta variedad de factores. La inclusión de los alumnos con necesidades educativas especiales debe tener una consideración específica en cada una de las enseñanzas, capaz de proporcionarles la educación más ajustada a su condición personal y necesidades en cualquier modalidad educativa, principios que enmarca esta norma con rango de ley. La disposición final segunda de la citada Ley 1/2022, de 10 de febrero, determina que la educación inclusiva en los centros docentes de la Comunidad de Madrid se desarrollará reglamentariamente por el Consejo de Gobierno. Hasta la fecha, el plan de atención a la diversidad, incluido en el proyecto educativo conforme a lo dispuesto en el artículo 121 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, enmarcaba la atención a las diferencias individuales del alumnado en los centros educativos de la Comunidad de Madrid, y contextualizaba lo dispuesto en numerosas normas, de diferente rango, dictadas al efecto. A partir de la aprobación de este decreto, el Plan Incluyo lo sustituirá, y pasará a enmarcar dichas actuaciones que respetarán, en todo caso, lo establecido en este decreto y en la normativa de inferior rango que no se oponga al anterior hasta nueva reglamentación. Este decreto atiende, por tanto, a los requerimientos constitucionales y los derivados de la normativa básica, y pretende recoger en una única norma el régimen autonómico de la atención educativa a las diferencias individuales que hasta ahora se encuentra disperso en la normativa de ordenación académica de las diferentes enseñanzas y en otras disposiciones que abordan la cuestión.
 **II**
 De acuerdo con los supuestos anteriores, el decreto se estructura en un título preliminar y cinco títulos. El título preliminar se dedica a las disposiciones generales y contiene el objeto y ámbito de aplicación, los principios generales de atención a las diferencias individuales del alumnado, la orientación en el sistema educativo y las referencias al centro docente como unidad organizativa básica para atender a esas diferencias. El título I consta de dos capítulos. En el capítulo I se determinan las necesidades educativas del alumnado y se aborda la identificación de barreras para el aprendizaje y la participación, eje vertebrador de este decreto, pues contribuye al análisis de los factores que favorecen y dificultan la atención educativa de calidad en los centros docentes. Las medidas educativas ordinarias y específicas de atención a las diferencias individuales del alumnado se recogen en el capítulo II, que se presenta organizado en seis secciones en las que se definen las necesidades educativas especiales, las necesidades educativas asociadas a altas capacidades intelectuales, a integración tardía en el sistema educativo español, a retraso madurativo, a las dificultades de aprendizaje por trastorno del desarrollo del lenguaje y la comunicación, trastorno de atención o trastorno de aprendizaje, necesidades de compensación educativa, o por condiciones personales de salud o prematuridad. Asimismo, se abordan en este capítulo los programas institucionales, según corresponda. El título II se organiza en dos capítulos, en el primero de ellos se detallan los recursos que favorecen una educación de calidad y en el segundo se concreta la estructura de los servicios y profesionales especializados en orientación educativa. Por su parte, el título III hace referencia a la necesaria participación y colaboración entre todas las personas, entidaBOCM des, consejerías, asociaciones y organizaciones sin ánimo de lucro que participan en la atención educativa a las diferencias individuales del alumnado y, en conjunto, a la diversidad característica del sistema educativo. El título IV se dedica al Plan Incluyo, contiene su objeto y finalidad, su estructura, y los criterios para su elaboración, revisión y actualización. A su vez, establece a quién corresponde su aplicación y supervisión. Finalmente, el título V se centra en los aspectos de formación, investigación e innovación en el marco de una educación de calidad y de atención efectiva a las necesidades de todos.
 **III**
-El presente Decreto se adecúa a los principios de buena regulación: necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia previstos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y a lo dispuesto en el artículo 2 del Decreto 52/2021, de 24 de marzo, del Consejo de Gobierno, por el que se regula y simplifica el procedimiento de elaboración de las disposiciones normativas de carácter general de la Comunidad de Madrid. Conforme a los principios de necesidad y eficacia, la norma responde al interés general de establecer un marco propio que regule la atención educativa del alumnado en el marco de un sistema de calidad y recoja, precise y actualice en una misma norma elementos que, en la actualidad, están acopiados en disposiciones de diferente rango. En cuanto al principio de proporcionalidad, contiene la regulación adecuada e imprescindible y establece las obligaciones necesarias con el fin de atender el objetivo que se persigue. Y, de acuerdo con el principio de seguridad jurídica, genera un marco normativo estable, predecible, integrado, claro y de certidumbre, incardinándose, de manera coherente, en el ordenamiento jurídico. Asimismo, cumple con el principio de transparencia conforme a lo establecido en la Ley 10/2019, de 10 de abril, de Transparencia y de Participación de la Comunidad de Madrid, puesto que se ha realizado el trámite de audiencia e información públicas con la publicación en el Portal de Transparencia de la Comunidad de Madrid. Una vez aprobado, es objeto de publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID. Por último, cumple con el principio de eficiencia, puesto que su aprobación no supone cargas administrativas innecesarias a los ciudadanos en general ni a las familias y alumnos en particular. Para la elaboración de este decreto, se han solicitado los informes preceptivos de Coordinación y Calidad Normativa de la Secretaría General Técnica de la Consejería de Presidencia, Justicia e Interior, el dictamen del Consejo Escolar de la Comunidad de Madrid, y el informe de los Servicios Jurídicos de la Comunidad de Madrid. La Comunidad de Madrid es competente, en virtud del artículo 29 de su Estatuto de Autonomía, en el desarrollo legislativo y ejecución de la enseñanza en toda su extensión, niveles y grados, modalidades y especialidades, de acuerdo con lo dispuesto en el artículo 27 de la Constitución española y leyes orgánicas que, conforme a su artículo 81.1, lo desarrolle, y sin perjuicio de las facultades que atribuye al Estado el artículo 149. El Consejo de Gobierno de la Comunidad de Madrid es competente para dictar el presente Decreto, de acuerdo con lo establecido en el artículo 21.g) de la Ley 1/1981, de 13 de diciembre, del Gobierno y Administración de la Comunidad de Madrid. En virtud de cuanto antecede, a propuesta del Vicepresidente, Consejero de Educación y Universidades, de acuerdo con la Comisión Jurídica Asesora de la Comunidad de Madrid y previa deliberación, el Consejo de Gobierno, en su reunión del día 22 de marzo de 2023, DISPONE
 
 ## Título Preliminar. Disposiciones de carácter general
 
@@ -72,11 +407,9 @@ n) **Colaboración entre administraciones públicas.** Los titulares de las cons
 
 1. El centro docente arbitrará para el análisis, planificación y desarrollo de las actuaciones relacionadas con la atención a las diferencias individuales, medidas organizativas, curriculares y metodológicas, diseñará estrategias que garanticen una respuesta que incluya a todo el alumnado y precisará los indicadores que faciliten el seguimiento y la evaluación de esas prácticas. A tales efectos, elaborará un plan específico en los términos reseñados en el título IV en el que estarán implicados, con distintos niveles de responsabilidad, todos los estamentos que conforman la comunidad educativa. 2. Los centros docentes, en el ámbito de su autonomía, promoverán una organización flexible de los espacios y de los tiempos, dentro de los límites establecidos en la normativa vigente, y acordarán los métodos pedagógicos más adecuados para responder a la diversidad del alumnado. 3. La coordinación del profesorado será la práctica habitual en la atención educativa a las diferencias individuales por lo que las decisiones relacionadas con la aplicación de medidas educativas específicas estarán consensuadas y se adoptarán por el órgano de coordinación o estructura con competencias asignadas. 4. Los centros docentes podrán coordinarse para compartir experiencias y proyectos de innovación educativa relacionados con la atención a las diferencias individuales del alumnado.
 
-## Título I
+## Título I. Atención Educativa
 
-Atención Educativa
-
-## Capítulo I. Identificación de barreras para el aprendizaje y la participación y determinación de necesidades educativas.
+### Capítulo I. Identificación de barreras para el aprendizaje y la participación y determinación de necesidades educativas.
 
 #### Artículo 5. Identificación de barreras para el aprendizaje y la participación.
 
@@ -89,7 +422,7 @@ a) La cultura y tradición escolar (valores, creencias y actitudes negativas). b
 
 6. Conforme a lo establecido en el artículo 22 de la Ley 1/2022, de 10 de febrero, las conclusiones de la evaluación psicopedagógica se recogerán en un informe psicopedagógico, que se elaborará conforme al modelo incluido en el anexo I y será rubricado por el responsable de la realización de dicha evaluación. Se adjuntará al expediente académico del alumno y en él se incluirán aspectos relacionados con la identificación de barreras para el aprendizaje y la participación (evolución personal y académica del alumno, valoración del nivel de desarrollo en los distintos ámbitos de funcionamiento actual, nivel de competencia curricular y análisis del contexto de aprendizaje), con la determinación de las necesidades educativas, la propuesta de medidas educativas, ordinarias y específicas que se requieran para atender adecuadamente esas necesidades y cualquier otra orientación u observación que se considere imprescindible, así como el momento apropiado, en su caso, para realizar una nueva evaluación psicopedagógica. Una copia del informe psicopedagógico se facilitará a los padres o representantes legales del alumno. 7. Cuando las necesidades educativas no se determinen tras la realización de una evaluación psicopedagógica sino que resulten de otros procesos en los términos recogidos en el capítulo II de este título, los centros informarán igualmente a los padres o representantes legales del alumnado sobre las medidas más adecuadas para atender las diferencias individuales de sus hijos o tutelados.
 
-## Capítulo II. Atención educativa al alumnado.
+### Capítulo II. Atención educativa al alumnado.
 
 #### Artículo 7. Medidas de atención a las diferencias individuales del alumnado.
 
@@ -205,11 +538,9 @@ necesaria con el profesorado asignado a las Aulas Hospitalarias, Hospitales de D
 
 Las medidas educativas específicas se podrán aplicar únicamente en la etapa de Educación Infantil, y consistirán en la posibilidad de incorporarse al primer ciclo de la etapa en un curso inferior al que le correspondería por edad, sin perjuicio de su incorporación obligada a la etapa de Educación Primaria en el año natural en el cumpla los seis años.
 
-## Título II
+## Título II. Recursos para la atención a las diferencias individuales del alumnado
 
-Recursos para la atención a las diferencias individuales del alumnado
-
-## Capítulo I. Recursos para una educación de calidad.
+### Capítulo I. Recursos para una educación de calidad.
 
 #### Artículo 27. Recursos generales
 
@@ -219,7 +550,7 @@ Recursos para la atención a las diferencias individuales del alumnado
 
 1. En un centro educativo los recursos personales de atención a las diferencias individuales del alumnado lo conformarán tanto el personal docente como el no docente a él asignado. El personal docente será el responsable de la intervención educativa para un adecuado proceso de aprendizaje y el personal no docente colaborará en aspectos relacionados con la integración y participación del alumnado, según las directrices marcadas en el proyecto educativo de centro y en sus normas de organización y funcionamiento. 2. Son recursos personales especializados el profesorado especialista que, de manera específica, tiene asignadas funciones relacionadas con la atención al alumnado con necesidad específica de apoyo educativo, así como otros profesionales cualificados que determine el titular de la consejería competente en materia de educación para atender a la diversidad del alumnado.
 
-## Capítulo II. Servicios y profesionales especializados en orientación educativa.
+### Capítulo II. Servicios y profesionales especializados en orientación educativa.
 
 #### Artículo 29. Estructura de la red de orientación especializada.
 
@@ -228,9 +559,7 @@ a) **Discapacidad motora.** b) Discapacidad visual. c) Discapacidad auditiva. d)
 
 Sus funciones son complementarias respecto a las asignadas al resto de la red de orientación, de asesoramiento y diseño y desarrollo de medidas y prácticas educativas destinadas a la atención de este alumnado en los centros educativos. 8. Los profesionales de la orientación educativa en los centros de Educación Especial contribuirán a la mejora de las estructuras organizativas de los centros y colaborarán en la planificación y desarrollo del conjunto de medidas educativas que en ellos se apliquen. En el caso de centros privados concertados que no cuenten con servicio de orientación educativa financiado con fondos públicos, esta tarea se llevará a cabo por el profesional de orientación educativa del EOEP de sector correspondiente. 9. Los departamentos de orientación constituyen la estructura organizativa y el referente básico para la planificación y desarrollo de las medidas de atención a la diversidad en los centros públicos que imparten enseñanzas de Educación Secundaria, Formación Profesional y Educación de Personas Adultas, o quien asuma sus funciones en estos últimos. 10. El profesorado de orientación educativa en los centros privados deberá estar en posesión de la titulación requerida en la normativa vigente para desempeñar funciones de orientación educativa, psicopedagógica y profesional. Las funciones de este profesorado serán análogas a las establecidas para los orientadores de los centros públicos. 11. El titular de la consejería competente en materia de educación determinará la composición y los aspectos de organización y funcionamiento relacionados con la red de orientación para garantizar el buen desempeño y ajuste de la misma a las necesidades cambiantes de la comunidad educativa. Corresponde al titular de la consejería competente en materia de educación facilitar la coordinación entre los distintos elementos que conforman esta red.
 
-## Título III
-
-Participación de la comunidad educativa
+## Título III. Participación de la comunidad educativa
 
 #### Artículo 30. Participación de la comunidad educativa en la atención a las diferencias individuales del alumnado 1. Para asegurar una educación equitativa de calidad, el profesorado participará en las decisiones relacionadas con el ámbito de la atención a las diferencias individuales a través de los órganos de gobierno, participación y coordinación docente del centro educativo, de conformidad con la normativa de aplicación. 2. El personal no docente podrá colaborar a través de su participación en las estructuras de coordinación que, con funciones asignadas de atención a las diferencias individuales, se instauren en los centros para el desarrollo de actuaciones que favorezcan la participación adecuada de todo el alumnado. 3. El alumnado podrá participar en la evaluación de los planes de atención a las diferencias individuales mediante sus representantes en los órganos de gobierno, en los términos y condiciones establecidos en la normativa de aplicación. 4. La participación de las familias o representantes legales se asegurará en los términos establecidos en este decreto. En todo caso, serán informados y escuchados en la toma de decisiones sobre la implantación de medidas educativas específicas de atención a las diferencias individuales de sus hijos o tutelados, y su opinión sobre las decisiones que afecten a cambios en la modalidad de escolarización habrá de constar de forma expresa.
 
@@ -240,9 +569,7 @@ Participación de la comunidad educativa
 
 se establezcan con diferentes entidades e instituciones sin ánimo de lucro relacionadas con la atención a las diferencias individuales del alumnado, según corresponda.
 
-## Título IV
-
-Plan de atención a las diferencias individuales del alumnado
+## Título IV. Plan de atención a las diferencias individuales del alumnado
 
 #### Artículo 32. Objeto y finalidad del plan de atención a las diferencias individuales del alumnado.
 
@@ -260,9 +587,7 @@ a) Análisis de la diversidad del alumnado que, con carácter general, se escola
 
 1. El profesorado, en el ejercicio de sus funciones, aplicará, concretará e incorporará a su planificación y práctica docente las medidas del Plan Incluyo, asegurando, con ello, la atención a las diferencias individuales de todo su alumnado. 2. El servicio territorial de inspección educativa supervisará la implantación efectiva de este plan, y asesorará a la dirección de los centros en su elaboración, revisión y actualización, y al profesorado en su aplicación efectiva, desde indicadores y criterios de calidad de buenas prácticas educativas.
 
-## Título V
-
-Formación, investigación e innovación
+## Título V. Formación, investigación e innovación
 
 #### Artículo 36. Formación.
 
@@ -278,13 +603,9 @@ transferencia de sus conocimientos específicos (metodología, elaboración de m
 
 El contenido de esta ley será de aplicación a los centros privados no sostenidos con fondos públicos, siempre que no contravenga lo dispuesto en el articulado del título I de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, y las exigencias del capítulo III del título IV y del capítulo II del título V de la Ley Orgánica 2/2006, de 3 de mayo.
 
-#### Disposición adicional segunda.
+#### Disposición adicional segunda. Datos de carácter personal 1. La obtención y el tratamiento de los datos de carácter personal del alumnado y sus familias se someterá a lo dispuesto en la disposición adicional vigésimo tercera de la Ley Orgánica 2/2006, de 3 de mayo. 2. A su vez, en todo caso se dará cumplimiento a las previsiones contenidas en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, así como al Reglamento (UE) del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento General de Protección de Datos), así como la normativa posterior que la desarrolle o modifique.
 
-Datos de carácter personal 1. La obtención y el tratamiento de los datos de carácter personal del alumnado y sus familias se someterá a lo dispuesto en la disposición adicional vigésimo tercera de la Ley Orgánica 2/2006, de 3 de mayo. 2. A su vez, en todo caso se dará cumplimiento a las previsiones contenidas en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, así como al Reglamento (UE) del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento General de Protección de Datos), así como la normativa posterior que la desarrolle o modifique.
-
-#### Disposición adicional tercera.
-
-Protección del menor De acuerdo con el artículo 57.1 de la Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia, será requisito para el acceso y ejercicio de cualesquiera profesiones, oficios y actividades que impliquen contacto habitual con personas menores de edad, el no haber sido condenado por sentencia firme por cualquier delito contra la libertad e indemnidad sexuales tipificados en el título VIII de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, así como por cualquier delito de trata de seres humanos tipificado en el título VII bis del Código Penal. A tal efecto, quien pretenda el acceso a tales profesiones, oficios o actividades deberá acreditar esta circunstancia mediante la aportación de una certificación negativa del Registro Central de delincuentes sexuales.
+#### Disposición adicional tercera. Protección del menor De acuerdo con el artículo 57.1 de la Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia, será requisito para el acceso y ejercicio de cualesquiera profesiones, oficios y actividades que impliquen contacto habitual con personas menores de edad, el no haber sido condenado por sentencia firme por cualquier delito contra la libertad e indemnidad sexuales tipificados en el título VIII de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, así como por cualquier delito de trata de seres humanos tipificado en el título VII bis del Código Penal. A tal efecto, quien pretenda el acceso a tales profesiones, oficios o actividades deberá acreditar esta circunstancia mediante la aportación de una certificación negativa del Registro Central de delincuentes sexuales.
 
 #### Disposición adicional cuarta. Atención educativa para la reeducación y reinserción de los menores y jóvenes infractores.
 
@@ -296,9 +617,7 @@ abierto que por circunstancias personales o sociales no puedan o deban asistir a
 
 En materias para cuya regulación se remite a posteriores disposiciones, y en tanto estas no sean dictadas, serán de aplicación, en cada caso, las normas de ese rango vigentes a la fecha de entrada en vigor de este decreto, siempre que no se opongan a lo dispuesto en él. Entre ellas, continúa en vigor la Orden 1250/2000, de 25 de abril, de la Consejería de Educación, por la que se establece la sectorización de los equipos de orientación educativa y psicopedagógica.
 
-#### Disposición derogatoria única.
-
-Derogación normativa De manera expresa queda derogada en su totalidad la Orden 1493/2015, de 22 de mayo, de la Consejería de Educación, Juventud y Deporte, por la que se regula la evaluación y la promoción de los alumnos con necesidad específica de apoyo educativo, que cursen segundo ciclo de Educación Infantil, Educación Primaria y Enseñanza Básica Obligatoria, así como la flexibilización de la duración de las enseñanzas de los alumnos con altas capacidades intelectuales en la Comunidad de Madrid.
+#### Disposición derogatoria única. Derogación normativa De manera expresa queda derogada en su totalidad la Orden 1493/2015, de 22 de mayo, de la Consejería de Educación, Juventud y Deporte, por la que se regula la evaluación y la promoción de los alumnos con necesidad específica de apoyo educativo, que cursen segundo ciclo de Educación Infantil, Educación Primaria y Enseñanza Básica Obligatoria, así como la flexibilización de la duración de las enseñanzas de los alumnos con altas capacidades intelectuales en la Comunidad de Madrid.
 
 #### Disposición final primera. Habilitación para el desarrollo normativo.
 
@@ -306,11 +625,8 @@ Se habilita al titular de la consejería con competencia en materia de educació
 
 #### Disposición final segunda. Entrada en vigor.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID. En Madrid, a 22 de marzo de 2023. El Vicepresidente, Consejero de Educación y Universidades, ENRIQUE OSSORIO CRESPO La Presidenta, ISABEL DÍAZ AYUSO
+## Anexo I. Informe Psicopedagógico Datos personales del alumno/a Apellidos:
 
-## Anexo I
-
-Informe Psicopedagógico Datos personales del alumno/a Apellidos:
 Nombre:
 DNI/NIE/Pasaporte:
 NIA:
@@ -361,9 +677,8 @@ Curso________ del ciclo (en su caso)____ de la etapa___________________ Año aca
 7. Propuesta de revisión de la evaluación psicopedagógica Tras el seguimiento de la evolución del alumno se considera como momento más apropiado para revisar las conclusiones derivadas de la evaluación psicopedagógica:
 Curso________ del ciclo (en su caso)____ de la etapa___________________ Año académico:______/______ ____ de ___________________ de 20 ____ El/La Orientador/a Vº Bº Director/a EOEP-Jefe/a de departamento-Directora/a del centro
 
-## Anexo II
+## Anexo II. Dictamen de escolarización Datos personales del alumno/a Apellidos:
 
-Dictamen de escolarización Datos personales del alumno/a Apellidos:
 Nombre:
 DNI/NIE/Pasaporte:
 NIA:
@@ -396,15 +711,12 @@ Motivo por el que se realiza el dictamen  Necesidad de recursos extraordinarios
 
 3. Propuesta de modalidad de escolarización Tras la evaluación psicopedagógica realizada, una vez determinadas las necesidades educativas recogidas en el punto 1 y las medidas educativas indicadas en el punto 2, se propone  Escolarización en la modalidad ordinaria.  Escolarización en la modalidad de Educación Especial (centro o unidad de Educación Especial)  Escolarización combinada Curso______________ del ciclo (en su caso)_______________ de la etapa_________________ Año académico: ______ / ______ ____ de ___________________ de 20 ____ El/La Orientador/a Vº Bº Director/a EOEP-Jefe/a de departamento-Directora/a del centro
 
-## Anexo III
-
-Informe del Servicio Territorial de Inspección Educativa D./Dña. ____________________________________________________________________________ ______, inspector/a de educación de la Dirección de Área Territorial de Madrid ______________________________, de acuerdo a la información recogida en el dictamen de escolarización y una vez conocida la conformidad expresa de los padres o representantes legales del alumno/a ________________________________________ en relación con la propuesta de modalidad de escolarización incluida en el citado dictamen, Se informa de manera FAVORABLE  / DESFAVORABLE  la modalidad de escolarización propuesta, al objeto de resolver, para el año académico 20_____ / 20______ ܆ Escolarización en la modalidad ordinaria. ܆ Escolarización en la modalidad de Educación Especial (centro o unidad de Educación Especial). ܆ Escolarización combinada. En el curso _______del ciclo______ de la etapa de _____________. ܆ Se adjunta informe complementario tras observar que el interés superior del menor puede haber sido vulnerado. Madrid, ____ de___________________ de 20 ____ VºBº El/La Jefe/a del Servicio Territorial de Inspección/Distrito El/La Inspector/a de educación DESTINATARIO Director de Área Territorial de Madrid _________________________
+## Anexo III. Informe del Servicio Territorial de Inspección Educativa D./Dña. ____________________________________________________________________________ ______, inspector/a de educación de la Dirección de Área Territorial de Madrid ______________________________, de acuerdo a la información recogida en el dictamen de escolarización y una vez conocida la conformidad expresa de los padres o representantes legales del alumno/a ________________________________________ en relación con la propuesta de modalidad de escolarización incluida en el citado dictamen, Se informa de manera FAVORABLE  / DESFAVORABLE  la modalidad de escolarización propuesta, al objeto de resolver, para el año académico 20_____ / 20______ ܆ Escolarización en la modalidad ordinaria. ܆ Escolarización en la modalidad de Educación Especial (centro o unidad de Educación Especial). ܆ Escolarización combinada. En el curso _______del ciclo______ de la etapa de _____________. ܆ Se adjunta informe complementario tras observar que el interés superior del menor puede haber sido vulnerado. Madrid, ____ de___________________ de 20 ____ VºBº El/La Jefe/a del Servicio Territorial de Inspección/Distrito El/La Inspector/a de educación DESTINATARIO Director de Área Territorial de Madrid _________________________
 
 http://www.bocm.es D. L.: M. 19.462-1983 ISSN 1989-4791
 
-## Anexo IV
+## Anexo IV. Conformidad de los padres o representantes legales Datos personales del alumno/a NIA:
 
-Conformidad de los padres o representantes legales Datos personales del alumno/a NIA:
 Apellidos:
 DNI/NIE/Pasaporte:
 Nombre:
@@ -417,3 +729,52 @@ D/Dª. ____________________________________________, con DNI/NIE/pasaporte _____
  CONFORMES  DISCONFORMES En __________________________, a _______ de __________________ de 202____ PADRE/MADRE/REPRESENTANTE LEGAL PADRE/MADRE/REPRESENTANTE LEGAL Fdo.:
 ______________________________ Fdo.:
 ______________________________ Nota: Este documento se firmará por ambos padres o representantes legales del alumno, salvo si acredita la imposibilidad de hacerlo o alguno de ellos no ostenta la patria potestad. Los representantes legales del alumno deberán acreditar dicha condición documentalmente. (03/4.904/23)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**Ley 1/2022, de 10 de febrero, Maestra de Libertad de Elección Educativa de **](../01_marco_normativo_general_y_organico/L1_2022_maestra_libertad_eleccion_educativa_madrid.md) (Título II, Capítulo I, Art. 27, Art. 71, Art. 24, Art. 121, Art. 129, Art. 2, Art. 29, Art. 81, Art. 149, Art. 21, D. Final segunda)
+- **Desarrolla**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Título II, Capítulo I, Art. 27, Art. 71, Art. 24, Art. 121, Art. 129, Art. 2, Art. 29, Art. 81, Art. 149, Art. 21, D. Final segunda)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título II, Capítulo I, Art. 27, Art. 71, Art. 24, Art. 121, Art. 129, Art. 2, Art. 29, Art. 81, Art. 149, Art. 21, D. Final segunda)
+- **Desarrolla**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Título II, Capítulo I, Art. 27, Art. 71, Art. 24, Art. 121, Art. 129, Art. 2, Art. 29, Art. 81, Art. 149, Art. 21, D. Final segunda)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título II, Capítulo I, Art. 27, Art. 71, Art. 24, Art. 121, Art. 129, Art. 2, Art. 29, Art. 81, Art. 149, Art. 21, D. Final segunda)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título II, Capítulo I, Art. 27, Art. 71, Art. 24, Art. 121, Art. 129, Art. 2, Art. 29, Art. 81, Art. 149, Art. 21, D. Final segunda)
+- **Desarrolla**: [**BOE-A-2013-12632**](../../../estatal/07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md) (Título II, Capítulo I, Art. 27, Art. 71, Art. 24, Art. 121, Art. 129, Art. 2, Art. 29, Art. 81, Art. 149, Art. 21, D. Final segunda)
+- **Desarrolla**: `norm-es-c-1978` (Título II, Capítulo I, Art. 27, Art. 71, Art. 24, Art. 121, Art. 129, Art. 2, Art. 29, Art. 81, Art. 149, Art. 21, D. Final segunda)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 3) desde *(Título Preliminar. Disposiciones de carácter general, Art. 2)*
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 3) desde *(Título Preliminar. Disposiciones de carácter general, Art. 2)*
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 3) desde *(Título Preliminar. Disposiciones de carácter general, Art. 2)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 71) desde *(Título I, Capítulo II. Atención educativa al alumnado., Art. 9)*
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 71) desde *(Título I, Capítulo II. Atención educativa al alumnado., Art. 9)*
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 71) desde *(Título I, Capítulo II. Atención educativa al alumnado., Art. 9)*
+- **Desarrolla**: [**Ley 1/2022, de 10 de febrero, Maestra de Libertad de Elección Educativa de **](../01_marco_normativo_general_y_organico/L1_2022_maestra_libertad_eleccion_educativa_madrid.md) (Art. 16, Art. 18) desde *(Título I, Capítulo II. Atención educativa al alumnado., Art. 13)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 121) desde *(Título IV, Art. 32)*
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 121) desde *(Título IV, Art. 32)*
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 121) desde *(Título IV, Art. 32)*
+- **Modifica**: [**Ley 1/2022, de 10 de febrero, Maestra de Libertad de Elección Educativa de **](../01_marco_normativo_general_y_organico/L1_2022_maestra_libertad_eleccion_educativa_madrid.md) (Art. 15) desde *(Título I, Capítulo II. Atención educativa al alumnado., Art. 12)*
+- **Deroga**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título V, D. Adicional segunda.)*
+- **Deroga**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) desde *(Título V, D. Adicional segunda.)*
+- **Deroga**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título V, D. Adicional segunda.)*
+- **Deroga**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título V, D. Adicional segunda.)*
+- **Deroga**: [**Orden 1493/2015, de 22 de mayo, de la Consejería de Educación, Juventud y D**](./O1493_2015_evaluacion_alumnado_necesidades_especificas_apoyo_educativo_madrid.md) desde *(Título V, D. Derogatoria única.)*
+- **Fundamentado en**: [**Ley 1/2022, de 10 de febrero, Maestra de Libertad de Elección Educativa de **](../01_marco_normativo_general_y_organico/L1_2022_maestra_libertad_eleccion_educativa_madrid.md) (Capítulo II, Art. 21) desde *(Título I, Capítulo I. Identificación de barreras para el aprendizaje y la participación y determinación de necesidades educativas., Art. 6)*
+- **Fundamentado en**: [**Ley 1/2022, de 10 de febrero, Maestra de Libertad de Elección Educativa de **](../01_marco_normativo_general_y_organico/L1_2022_maestra_libertad_eleccion_educativa_madrid.md) (Capítulo II, Art. 22) desde *(Título I, Capítulo I. Identificación de barreras para el aprendizaje y la participación y determinación de necesidades educativas., Art. 6)*
+- **Fundamentado en**: [**Ley 1/2022, de 10 de febrero, Maestra de Libertad de Elección Educativa de **](../01_marco_normativo_general_y_organico/L1_2022_maestra_libertad_eleccion_educativa_madrid.md) (Art. 23) desde *(Título I, Capítulo II. Atención educativa al alumnado., Art. 11)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- **Fundamentado en**: [**D29_2013 Libertad Eleccion Centro Escolar Madrid**](../05_alumnado_y_servicios_escolares/D29_2013_libertad_eleccion_centro_escolar_madrid.md)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 6, Art. 91) desde *(Título Preliminar. Disposiciones de carácter general, Art. 3)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 6, Art. 91) desde *(Título Preliminar. Disposiciones de carácter general, Art. 3)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 6, Art. 91) desde *(Título Preliminar. Disposiciones de carácter general, Art. 3)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 6, Art. 91) desde *(Título Preliminar. Disposiciones de carácter general, Art. 3)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 78) desde *(Título I, Capítulo II. Atención educativa al alumnado., Art. 17)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 78) desde *(Título I, Capítulo II. Atención educativa al alumnado., Art. 17)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 78) desde *(Título I, Capítulo II. Atención educativa al alumnado., Art. 17)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título I, Capítulo III) desde *(Título V, D. Adicional primera. Centros privados.)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Título I, Capítulo III) desde *(Título V, D. Adicional primera. Centros privados.)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título I, Capítulo III) desde *(Título V, D. Adicional primera. Centros privados.)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título I, Capítulo III) desde *(Título V, D. Adicional primera. Centros privados.)*
+- **Cita a**: [**BOE-A-1995-25444**](../../../estatal/01_marco_normativo_general_y_organico/LO10_1995_codigo_penal.md) (Título VIII, Art. 57) desde *(Título V, D. Adicional tercera.)*
+- **Cita a**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md) (Título VIII, Art. 57) desde *(Título V, D. Adicional tercera.)*

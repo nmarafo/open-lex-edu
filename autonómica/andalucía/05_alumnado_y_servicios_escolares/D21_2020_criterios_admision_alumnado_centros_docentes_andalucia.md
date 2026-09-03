@@ -28,13 +28,385 @@ tags:
 - baremo
 - andalucia
 relaciones:
-  desarrolla:
+  cita:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 52
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 47
+    - Art. 149
   - norma_id: norm-es-lo-2-2006
-  fundamentado_en:
+    articulos_destino:
+    - Art. 84
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 84
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 84
   - norma_id: norm-and-l17-2007
+    articulos_destino:
+    - Art. 3
+    - Art. 2
   - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 84
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 84
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 84
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 74
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 74
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 74
+  - norma_id: norm-and-l17-2007
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 6
+    articulos_destino:
+    - Art. 44
   - norma_id: norm-es-l-39-2015
+    capitulo_origen: Capítulo II. Áreas de influencia, criterios de admisión, acreditación
+      y prioridad.
+    seccion_origen: Sección 3. ª Prioridad en la admisión
+    articulos_origen:
+    - Art. 20
+    articulos_destino:
+    - Art. 28
+    - Art. 53
+  - norma_id: norm-and-l17-2007
+    capitulo_origen: Capítulo III. Admisión del alumnado con necesidades específicas
+      de apoyo educativo.
+    articulos_origen:
+    - Art. 33
+    articulos_destino:
+    - Art. 113
+  - norma_id: norm-es-lo-8-1985
+    capitulo_origen: Capítulo IV. Procedimiento.
+    seccion_origen: Sección 1. ª Órganos de admisión
+    articulos_origen:
+    - Art. 34
+    articulos_destino:
+    - Art. 57
+  - norma_id: norm-es-l-39-2015
+    capitulo_origen: Capítulo IV. Procedimiento.
+    seccion_origen: Sección 2. ª Procedimiento ordinario
+    articulos_origen:
+    - Art. 45
+    articulos_destino:
+    - Art. 10
+  - norma_id: norm-es-l-39-2015
+    capitulo_origen: Capítulo IV. Procedimiento.
+    seccion_origen: Sección 2. ª Procedimiento ordinario
+    articulos_origen:
+    - Art. 45
+    articulos_destino:
+    - Art. 66
+  - norma_id: norm-es-l-39-2015
+    capitulo_origen: Capítulo IV. Procedimiento.
+    seccion_origen: Sección 2. ª Procedimiento ordinario
+    articulos_origen:
+    - Art. 45
+    articulos_destino:
+    - Art. 13
+  - norma_id: norm-es-l-39-2015
+    capitulo_origen: Capítulo IV. Procedimiento.
+    seccion_origen: Sección 2. ª Procedimiento ordinario
+    articulos_origen:
+    - Art. 46
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-l-40-2015
+    capitulo_origen: Capítulo IV. Procedimiento.
+    seccion_origen: Sección 2. ª Procedimiento ordinario
+    articulos_origen:
+    - Art. 46
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-lo-8-1985
+    capitulo_origen: Capítulo VI. Sanciones.
+    articulos_origen:
+    - Art. 55
+    articulos_destino:
+    - Art. 62
+  - norma_id: norm-es-lo-3-2018
+    capitulo_origen: Capítulo VI. Sanciones.
+    articulos_origen:
+    - D. Adicional primera. Protección de datos de carácter personal.
+  - norma_id: norm-es-lo-8-1985
+    capitulo_origen: Capítulo VI. Sanciones.
+    articulos_origen:
+    - D. Adicional novena. Admisión del alumnado en centros docentes privados no concertados.
+    articulos_destino:
+    - Art. 25
+  - norma_id: norm-and-l17-2007
+    capitulo_origen: Capítulo VI. Sanciones.
+    articulos_origen:
+    - D. Final segunda. Reproducción de normativa autonómica.
+    articulos_destino:
+    - Art. 2
+    - Art. 3
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 84
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 84
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 84
+  - norma_id: norm-and-d-40-2011
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-l-39-2015
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo IV. Procedimiento.
+    seccion_origen: Sección 1. ª Órganos de admisión
+    articulos_origen:
+    - Art. 40
+    articulos_destino:
+    - Art. 15
+  - norma_id: norm-es-l-39-2015
+    capitulo_origen: Capítulo IV. Procedimiento.
+    seccion_origen: Sección 3. ª Procedimiento extraordinario
+    articulos_origen:
+    - Art. 51
+    articulos_destino:
+    - Art. 50
+    - Art. 16
+  concordancia:
+  - norma_id: norm-es-lo-8-1985
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 2
+    articulos_destino:
+    - Art. 51
+  - norma_id: norm-es-l-39-2015
+    capitulo_origen: Capítulo III. Admisión del alumnado con necesidades específicas
+      de apoyo educativo.
+    articulos_origen:
+    - Art. 32
+    articulos_destino:
+    - Art. 28
+    - Art. 53
+  fundamentado_en:
+  - norma_id: norm-es-l-39-2015
+    capitulo_origen: Capítulo II. Áreas de influencia, criterios de admisión, acreditación
+      y prioridad.
+    seccion_origen: Sección 2. ª Criterios de admisión
+    articulos_origen:
+    - Art. 19
+    articulos_destino:
+    - Art. 10
+    - Art. 28
+    - Art. 53
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo III. Admisión del alumnado con necesidades específicas
+      de apoyo educativo.
+    articulos_origen:
+    - Art. 31
+    articulos_destino:
+    - Art. 71
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo III. Admisión del alumnado con necesidades específicas
+      de apoyo educativo.
+    articulos_origen:
+    - Art. 31
+    articulos_destino:
+    - Art. 71
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo III. Admisión del alumnado con necesidades específicas
+      de apoyo educativo.
+    articulos_origen:
+    - Art. 31
+    articulos_destino:
+    - Art. 71
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo IV. Procedimiento.
+    seccion_origen: Sección 1. ª Órganos de admisión
+    articulos_origen:
+    - Art. 34
+    articulos_destino:
+    - Art. 127
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo IV. Procedimiento.
+    seccion_origen: Sección 1. ª Órganos de admisión
+    articulos_origen:
+    - Art. 34
+    articulos_destino:
+    - Art. 127
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo IV. Procedimiento.
+    seccion_origen: Sección 1. ª Órganos de admisión
+    articulos_origen:
+    - Art. 34
+    articulos_destino:
+    - Art. 127
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo IV. Procedimiento.
+    seccion_origen: Sección 1. ª Órganos de admisión
+    articulos_origen:
+    - Art. 35
+    articulos_destino:
+    - Art. 132
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo IV. Procedimiento.
+    seccion_origen: Sección 1. ª Órganos de admisión
+    articulos_origen:
+    - Art. 35
+    articulos_destino:
+    - Art. 132
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo IV. Procedimiento.
+    seccion_origen: Sección 1. ª Órganos de admisión
+    articulos_origen:
+    - Art. 35
+    articulos_destino:
+    - Art. 132
+  - norma_id: norm-es-l-39-2015
+    capitulo_origen: Capítulo IV. Procedimiento.
+    seccion_origen: Sección 2. ª Procedimiento ordinario
+    articulos_origen:
+    - Art. 43
+    articulos_destino:
+    - Art. 16
+  - norma_id: norm-es-l-39-2015
+    capitulo_origen: Capítulo IV. Procedimiento.
+    seccion_origen: Sección 2. ª Procedimiento ordinario
+    articulos_origen:
+    - Art. 44
+    articulos_destino:
+    - Art. 68
+    - Art. 21
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo VI. Sanciones.
+    articulos_origen:
+    - D. Final primera. Reproducción de normativa estatal.
+    articulos_destino:
+    - Art. 2
+    - Art. 149
+    - Art. 84
+    disposiciones_destino:
+    - D. Adicional quinta
+    - D. Adicional vigesimoprimera
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo VI. Sanciones.
+    articulos_origen:
+    - D. Final primera. Reproducción de normativa estatal.
+    articulos_destino:
+    - Art. 2
+    - Art. 149
+    - Art. 84
+    disposiciones_destino:
+    - D. Adicional quinta
+    - D. Adicional vigesimoprimera
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo VI. Sanciones.
+    articulos_origen:
+    - D. Final primera. Reproducción de normativa estatal.
+    articulos_destino:
+    - Art. 2
+    - Art. 149
+    - Art. 84
+    disposiciones_destino:
+    - D. Adicional quinta
+    - D. Adicional vigesimoprimera
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo VI. Sanciones.
+    articulos_origen:
+    - D. Final primera. Reproducción de normativa estatal.
+    articulos_destino:
+    - Art. 2
+    - Art. 149
+    - Art. 84
+    disposiciones_destino:
+    - D. Adicional quinta
+    - D. Adicional vigesimoprimera
+  - norma_id: norm-and-l17-2007
+  desarrolla:
+  - norma_id: norm-es-l-40-2015
+    capitulo_origen: Capítulo IV. Procedimiento.
+    seccion_origen: Sección 1. ª Órganos de admisión
+    articulos_origen:
+    - Art. 40
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo II
+    seccion_destino: Sección 3.ª
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo IV. Procedimiento.
+    seccion_origen: Sección 1. ª Órganos de admisión
+    articulos_origen:
+    - Art. 40
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo II
+    seccion_destino: Sección 3.ª
+  - norma_id: norm-es-lo-2-2006
+  deroga:
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo VI. Sanciones.
+    articulos_origen:
+    - D. Adicional primera. Protección de datos de carácter personal.
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-lo-3-2018
+    capitulo_origen: Capítulo VI. Sanciones.
+    articulos_origen:
+    - D. Adicional primera. Protección de datos de carácter personal.
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo VI. Sanciones.
+    articulos_origen:
+    - D. Adicional primera. Protección de datos de carácter personal.
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo VI. Sanciones.
+    articulos_origen:
+    - D. Adicional primera. Protección de datos de carácter personal.
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-and-d-40-2011
+    capitulo_origen: Capítulo VI. Sanciones.
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
 ---
+
 # Decreto 21/2020, de 17 de febrero, por el que se regulan los criterios y el procedimiento de admisión del alumnado en los centros docentes públicos y privados concertados para impartir las enseñanzas de Educación Infantil, Educación Primaria, Educación Especial, Educación Secundaria Obligatoria y Bachillerato.
 
 ## Preámbulo
@@ -77,15 +449,11 @@ Boletín 34
 
 ##
 
-Histórico del BOJA Boletín número 34 de 19/02/2020
-
 ## 1. Disposiciones generales
 
 ### Consejería de Educación y Deporte
 
 ### Decreto 21/2020, de 17 de febrero, por el que se regulan los criterios y el procedimiento de admisión del alumnado en los centros docentes públicos y privados concertados para cursar las enseñanzas de segundo ciclo de educación infantil, educación primaria, educación especial, educación secundaria obligatoria y bachillerato.
-
-Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad con CVE 00169991. El artículo 21.3 del Estatuto de Autonomía para Andalucía proclama el derecho de todas las personas a acceder en condiciones de igualdad a los centros educativos sostenidos con fondos públicos y prevé el establecimiento de criterios de admisión, al objeto de garantizarla en condiciones de igualdad y no discriminación.
 
 Por otra parte, el artículo 52.2 del Estatuto de Autonomía para Andalucía reconoce la competencia compartida de la Comunidad Autónoma sobre los criterios de admisión del alumnado, sin perjuicio de lo recogido en el artículo 149.1.30.ª de la Constitución, a tenor del cual corresponde al Estado dictar las normas básicas para el desarrollo del artículo 27 l.
 
@@ -115,7 +483,7 @@ En su virtud, a propuesta del Consejero de Educación y Deporte, de conformidad 
 
 DISPONGO:
 
-### Capítulo I
+#### Artículo . #### Artículo . ### Capítulo I
 
 ### Disposiciones generales
 
@@ -223,7 +591,7 @@ Igualmente, informarán de los recursos específicos para la atención del alumn
 
 3. Para favorecer la igualdad de oportunidades y promover la adecuada elección de centro, la Consejería competente en materia de educación pondrá a disposición de las familias, de forma fácilmente accesible, a través de su sede electrónica o, en su caso, página web, la información relevante correspondiente a todos los centros sostenidos con fondos públicos en la que se incluirá, entre otros aspectos, las adscripciones, la oferta educativa, los servicios complementarios y, en su caso, el carácter bilingüe o plurilingüe de los mismos.
 
-## Capítulo II. Áreas de influencia, criterios de admisión, acreditación y prioridad.
+### Capítulo II. Áreas de influencia, criterios de admisión, acreditación y prioridad.
 
 #### Sección 1. ª Áreas de influencia
 
@@ -457,7 +825,7 @@ b) El resultado del sorteo se obtendrá dividiendo entre diez mil el número que
 
 7. Los centros podrán utilizar el sistema de información Séneca para obtener el resultado de la aplicación del sorteo a la relación a la que se refiere el apartado 3. 8. Las personas que ejercen la dirección de los centros docentes públicos o las personas físicas o jurídicas titulares, en el caso de los centros docentes privados concertados, harán público el resultado del sorteo en el tablón de anuncios de cada centro.
 
-## Capítulo III. Admisión del alumnado con necesidades específicas de apoyo educativo.
+### Capítulo III. Admisión del alumnado con necesidades específicas de apoyo educativo.
 
 #### Artículo 31. Alumnado con necesidades específicas de apoyo educativo.
 
@@ -487,7 +855,7 @@ b) El resultado del sorteo se obtendrá dividiendo entre diez mil el número que
 
 4. Para favorecer el agrupamiento de hermanos y hermanas, las personas titulares de los órganos territoriales provinciales de la Administración de la Junta de Andalucía competentes en materia de educación, a solicitud de los tutores o guardadores legales y una vez finalizado el procedimiento ordinario a que se refiere la Sección 2.ª del Capítulo IV, podrán autorizar la matriculación de los hermanos o hermanas en el centro en el que se encuentre matriculado el alumnado al que se refiere el apartado anterior.
 
-## Capítulo IV. Procedimiento.
+### Capítulo IV. Procedimiento.
 
 #### Sección 1. ª Órganos de admisión
 
@@ -735,7 +1103,7 @@ Esta actuación también podrá realizarse para el alumnado que figure en la lis
 
 1. En materia de recursos y reclamaciones a las decisiones adoptadas por las personas que ejercen la dirección de los centros docentes públicos o por las personas representantes de la titularidad de los centros docentes privados concertados en el procedimiento extraordinario de admisión del alumnado se estará a lo dispuesto en el artículo 48. 2. Las decisiones que adopten las personas titulares de los órganos territoriales provinciales de la Administración de la Junta de Andalucía competentes en materia de educación sobre la admisión del alumnado en el procedimiento extraordinario podrán ser objeto de recurso de alzada ante la persona titular de la Consejería competente en materia de educación, cuya resolución pondrá fin a la vía administrativa.
 
-## Capítulo V. Escolarización en determinados supuestos.
+### Capítulo V. Escolarización en determinados supuestos.
 
 #### Artículo 53. Escolarización del alumnado en supuestos excepcionales de enfermedad.
 
@@ -765,7 +1133,7 @@ b) La persona titular del correspondiente órgano territorial provincial de la A
 
 8. Las decisiones que adopten las personas titulares de los órganos territoriales provinciales de la Administración de la Junta de Andalucía competentes en materia de educación sobre la escolarización del alumnado podrán ser objeto de recurso de alzada ante la persona titular de la Consejería competente en materia de educación, cuya resolución pondrá fin a la vía administrativa.
 
-## Capítulo VI. Sanciones.
+### Capítulo VI. Sanciones.
 
 #### Artículo 55. Responsabilidades disciplinarias y sanciones.
 
@@ -878,3 +1246,69 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Título IV, Capítulo II, Sección 3.ª) desde *(Capítulo IV. Procedimiento., Art. 40)*
+- **Desarrolla**: `norm-es-c-1978` (Título IV, Capítulo II, Sección 3.ª) desde *(Capítulo IV. Procedimiento., Art. 40)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 84)
+- **Modifica**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 84)
+- **Modifica**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 84)
+- **Modifica**: [**D40_2011 Asociaciones de Alumnado Andalucía**](./D40_2011_regulacion_asociaciones_alumnado_andalucia.md) (Art. 129)
+- **Modifica**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 129)
+- **Modifica**: `norm-es-c-1978` (Art. 15) desde *(Capítulo IV. Procedimiento., Art. 40)*
+- **Modifica**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 50, Art. 16) desde *(Capítulo IV. Procedimiento., Art. 51)*
+- **Deroga**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional vigesimotercera) desde *(Capítulo VI. Sanciones., D. Adicional primera. Protección de datos de carácter personal.)*
+- **Deroga**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) (D. Adicional vigesimotercera) desde *(Capítulo VI. Sanciones., D. Adicional primera. Protección de datos de carácter personal.)*
+- **Deroga**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional vigesimotercera) desde *(Capítulo VI. Sanciones., D. Adicional primera. Protección de datos de carácter personal.)*
+- **Deroga**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional vigesimotercera) desde *(Capítulo VI. Sanciones., D. Adicional primera. Protección de datos de carácter personal.)*
+- **Deroga**: [**D40_2011 Asociaciones de Alumnado Andalucía**](./D40_2011_regulacion_asociaciones_alumnado_andalucia.md) desde *(Capítulo VI. Sanciones., D. Derogatoria única. Derogación normativa.)*
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 10, Art. 28, Art. 53) desde *(Capítulo II. Áreas de influencia, criterios de admisión, acreditación y prioridad., Art. 19)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 71) desde *(Capítulo III. Admisión del alumnado con necesidades específicas de apoyo educativo., Art. 31)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 71) desde *(Capítulo III. Admisión del alumnado con necesidades específicas de apoyo educativo., Art. 31)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 71) desde *(Capítulo III. Admisión del alumnado con necesidades específicas de apoyo educativo., Art. 31)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 127) desde *(Capítulo IV. Procedimiento., Art. 34)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 127) desde *(Capítulo IV. Procedimiento., Art. 34)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 127) desde *(Capítulo IV. Procedimiento., Art. 34)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 132) desde *(Capítulo IV. Procedimiento., Art. 35)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 132) desde *(Capítulo IV. Procedimiento., Art. 35)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 132) desde *(Capítulo IV. Procedimiento., Art. 35)*
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 16) desde *(Capítulo IV. Procedimiento., Art. 43)*
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 68, Art. 21) desde *(Capítulo IV. Procedimiento., Art. 44)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 2, Art. 149, Art. 84, D. Adicional quinta, D. Adicional vigesimoprimera) desde *(Capítulo VI. Sanciones., D. Final primera. Reproducción de normativa estatal.)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 2, Art. 149, Art. 84, D. Adicional quinta, D. Adicional vigesimoprimera) desde *(Capítulo VI. Sanciones., D. Final primera. Reproducción de normativa estatal.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 2, Art. 149, Art. 84, D. Adicional quinta, D. Adicional vigesimoprimera) desde *(Capítulo VI. Sanciones., D. Final primera. Reproducción de normativa estatal.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 2, Art. 149, Art. 84, D. Adicional quinta, D. Adicional vigesimoprimera) desde *(Capítulo VI. Sanciones., D. Final primera. Reproducción de normativa estatal.)*
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **En concordancia con**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 51) desde *(Capítulo I, Art. 2)*
+- **En concordancia con**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 28, Art. 53) desde *(Capítulo III. Admisión del alumnado con necesidades específicas de apoyo educativo., Art. 32)*
+- **Cita a**: `norm-es-c-1978` (Art. 52, Art. 149, Art. 27)
+- **Cita a**: `norm-es-c-1978` (Art. 47, Art. 149)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 84)
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 84)
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 84)
+- **Cita a**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) (Art. 3, Art. 2)
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 84) desde *(Capítulo I, Art. 2)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 84) desde *(Capítulo I, Art. 2)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 84) desde *(Capítulo I, Art. 2)*
+- **Cita a**: `norm-es-c-1978` desde *(Capítulo I, Art. 2)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 74) desde *(Capítulo I, Art. 2)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 74) desde *(Capítulo I, Art. 2)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 74) desde *(Capítulo I, Art. 2)*
+- **Cita a**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) (Art. 44) desde *(Capítulo I, Art. 6)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 28, Art. 53) desde *(Capítulo II. Áreas de influencia, criterios de admisión, acreditación y prioridad., Art. 20)*
+- **Cita a**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) (Art. 113) desde *(Capítulo III. Admisión del alumnado con necesidades específicas de apoyo educativo., Art. 33)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 57) desde *(Capítulo IV. Procedimiento., Art. 34)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 10) desde *(Capítulo IV. Procedimiento., Art. 45)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 66) desde *(Capítulo IV. Procedimiento., Art. 45)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 13) desde *(Capítulo IV. Procedimiento., Art. 45)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (D. Adicional primera) desde *(Capítulo IV. Procedimiento., Art. 46)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (D. Adicional primera) desde *(Capítulo IV. Procedimiento., Art. 46)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 62) desde *(Capítulo VI. Sanciones., Art. 55)*
+- **Cita a**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) desde *(Capítulo VI. Sanciones., D. Adicional primera. Protección de datos de carácter personal.)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) (Art. 25) desde *(Capítulo VI. Sanciones., D. Adicional novena. Admisión del alumnado en centros docentes privados no concertados.)*
+- **Cita a**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) (Art. 2, Art. 3) desde *(Capítulo VI. Sanciones., D. Final segunda. Reproducción de normativa autonómica.)*

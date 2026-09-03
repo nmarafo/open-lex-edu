@@ -31,68 +31,1346 @@ tags:
 - sistema-fp
 - titulacion
 relaciones:
-  desarrolla:
+  cita:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título X. Gobernanza.
+    capitulo_origen: Capítulo II. Comisión Estatal Estratégica de la Formación Profesional.
+    articulos_origen:
+    - Art. 229
+    articulos_destino:
+    - Art. 229
+  - norma_id: norm-es-2022-1274
+    titulo_origen: Título X. Gobernanza.
+    capitulo_origen: Capítulo III. Concertación de políticas de Formación Profesional.
+    articulos_origen:
+    - D. Adicional decimoquinta. Personas expertas del Sector Productivo.
+    disposiciones_destino:
+    - D. Adicional decimosexta
   - norma_id: norm-es-lo-3-2022
-  desarrollado_por:
-  - norma_id: norm-es-2025-2039
-  - norma_id: norm-can-res-boc-2024-226-44
-  - norma_id: norm-can-res-036
-  - norma_id: norm-can-res-034
-  - norma_id: norm-can-res-039
-  - norma_id: norm-can-res-038
-  - norma_id: norm-can-res-boc-2025-046-47
-  - norma_id: norm-can-res-042
-  - norma_id: norm-can-res-035
-  - norma_id: norm-can-res-037
-  - norma_id: norm-can-res-033
-  - norma_id: norm-can-res-boc-2024-230-25
+    titulo_origen: Título X. Gobernanza.
+    capitulo_origen: Capítulo III. Concertación de políticas de Formación Profesional.
+    articulos_origen:
+    - D. Final octava. Entrada en vigor.
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título X. Gobernanza.
+    capitulo_origen: Capítulo III. Concertación de políticas de Formación Profesional.
+    articulos_origen:
+    - D. Final octava. Entrada en vigor.
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título IV. En el que se contemplan los aspectos correspondientes
+      a la formación en empresa u organismo equiparado.
+    titulo_destino: Título X
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título IV. En el que se contemplan los aspectos correspondientes
+      a la formación en empresa u organismo equiparado.
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título IV. En el que se contemplan los aspectos correspondientes
+      a la formación en empresa u organismo equiparado.
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título IV. En el que se contemplan los aspectos correspondientes
+      a la formación en empresa u organismo equiparado.
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 5
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. Organización de ofertas formativas de Formación Profesional.
+    seccion_origen: Sección 1. ª Grados y su organización
+    articulos_origen:
+    - Art. 5
+    articulos_destino:
+    - Art. 113
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. Organización de ofertas formativas de Formación Profesional.
+    seccion_origen: Sección 2. ª Currículos
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. Organización de ofertas formativas de Formación Profesional.
+    seccion_origen: Sección 2. ª Currículos
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. Organización de ofertas formativas de Formación Profesional.
+    seccion_origen: Sección 2. ª Currículos
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. Organización de ofertas formativas de Formación Profesional.
+    seccion_origen: Sección 2. ª Currículos
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. Organización de ofertas formativas de Formación Profesional.
+    seccion_origen: Sección 2. ª Currículos
+    articulos_origen:
+    - Art. 10
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. Organización de ofertas formativas de Formación Profesional.
+    seccion_origen: Sección 2. ª Currículos
+    articulos_origen:
+    - Art. 10
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. Organización de ofertas formativas de Formación Profesional.
+    seccion_origen: Sección 2. ª Currículos
+    articulos_origen:
+    - Art. 10
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. Organización de ofertas formativas de Formación Profesional.
+    seccion_origen: Sección 2. ª Currículos
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 120
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. Organización de ofertas formativas de Formación Profesional.
+    seccion_origen: Sección 2. ª Currículos
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 120
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. Organización de ofertas formativas de Formación Profesional.
+    seccion_origen: Sección 2. ª Currículos
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 120
+  - norma_id: norm-es-lo-3-2018
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Aspectos comunes de las ofertas formativas.
+    articulos_origen:
+    - Art. 17
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Aspectos comunes de las ofertas formativas.
+    articulos_origen:
+    - Art. 20
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Aspectos comunes de las ofertas formativas.
+    articulos_origen:
+    - Art. 20
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Aspectos comunes de las ofertas formativas.
+    articulos_origen:
+    - Art. 20
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título I
+    capitulo_origen: Capítulo IV. Modalidades de la oferta de formación profesional.
+    seccion_origen: Sección 1. ª Formación presencial, semipresencial y virtual
+    articulos_origen:
+    - Art. 24
+    articulos_destino:
+    - Art. 77
+    - Art. 198
+  - norma_id: norm-es-2000-544
+    titulo_origen: Título I
+    capitulo_origen: Capítulo IV. Modalidades de la oferta de formación profesional.
+    seccion_origen: 'Sección 4. ª Modalidad dirigida a personas con especiales dificultades
+      formativas o de inserción laboral artículo 37 Ofertas. Las administraciones
+      competentes podrán efectuar ofertas específicas de formación profesional en
+      esta modalidad, dirigidas, con fines de cualificación profesional e integración
+      social, a los siguientes destinatarios:'
+    articulos_origen:
+    - Art. 39
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título I
+    capitulo_origen: Capítulo IV. Modalidades de la oferta de formación profesional.
+    seccion_origen: Sección 6. ª Modalidad destinada a personas en situación de privación
+      de libertad artículo 43 Objetivo. Esta modalidad, que ha de desarrollarse en
+      el marco del Sistema de Formación Profesional y el Real Decreto 190/1996, de
+      9 de febrero, por el que se aprueba el Reglamento penitenciario, tiene por objetivo
+      garantizar el acceso exclusivamente a las personas en situación de privación
+      de libertad a ofertas de formación profesional que faciliten una mejora de su
+      cualificación profesional y, consecuentemente, su inserción profesional y social.
+    articulos_origen:
+    - Art. 44
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Grado A. Acreditación parcial de competencia o microacreditaciones.
+    articulos_origen:
+    - Art. 53
+  - norma_id: norm-es-2022-1274
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. Grado C. Certificado profesional.
+    articulos_origen:
+    - Art. 77
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II
+    capitulo_origen: Capítulo IV. Grado D. Ciclos formativos.
+    seccion_origen: Sección 1. ª Aspectos comunes
+    articulos_origen:
+    - Art. 82
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II
+    capitulo_origen: Capítulo IV. Grado D. Ciclos formativos.
+    seccion_origen: Sección 1. ª Aspectos comunes
+    articulos_origen:
+    - Art. 82
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II
+    capitulo_origen: Capítulo IV. Grado D. Ciclos formativos.
+    seccion_origen: Sección 1. ª Aspectos comunes
+    articulos_origen:
+    - Art. 82
+  - norma_id: norm-es-rd-217-2022
+    titulo_origen: Título II
+    capitulo_origen: Capítulo IV. Grado D. Ciclos formativos.
+    seccion_origen: Sección 2. ª Ciclos formativos de Grado Básico
+    articulos_origen:
+    - Art. 87
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II
+    capitulo_origen: Capítulo IV. Grado D. Ciclos formativos.
+    seccion_origen: Sección 2. ª Ciclos formativos de Grado Básico
+    articulos_origen:
+    - Art. 90
+    articulos_destino:
+    - Art. 41
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II
+    capitulo_origen: Capítulo IV. Grado D. Ciclos formativos.
+    seccion_origen: Sección 2. ª Ciclos formativos de Grado Básico
+    articulos_origen:
+    - Art. 90
+    articulos_destino:
+    - Art. 41
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II
+    capitulo_origen: Capítulo IV. Grado D. Ciclos formativos.
+    seccion_origen: Sección 2. ª Ciclos formativos de Grado Básico
+    articulos_origen:
+    - Art. 90
+    articulos_destino:
+    - Art. 41
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II
+    capitulo_origen: Capítulo IV. Grado D. Ciclos formativos.
+    seccion_origen: Sección 3. ª Ciclos formativos de grado medio y superior
+    articulos_origen:
+    - Art. 97
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II
+    capitulo_origen: Capítulo IV. Grado D. Ciclos formativos.
+    seccion_origen: Sección 3. ª Ciclos formativos de grado medio y superior
+    articulos_origen:
+    - Art. 97
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II
+    capitulo_origen: Capítulo IV. Grado D. Ciclos formativos.
+    seccion_origen: Sección 3. ª Ciclos formativos de grado medio y superior
+    articulos_origen:
+    - Art. 97
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II
+    capitulo_origen: Capítulo IV. Grado D. Ciclos formativos.
+    seccion_origen: Sección 3. ª Ciclos formativos de grado medio y superior
+    articulos_origen:
+    - Art. 111
+    articulos_destino:
+    - Art. 75
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II
+    capitulo_origen: Capítulo IV. Grado D. Ciclos formativos.
+    seccion_origen: Sección 3. ª Ciclos formativos de grado medio y superior
+    articulos_origen:
+    - Art. 111
+    articulos_destino:
+    - Art. 75
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II
+    capitulo_origen: Capítulo IV. Grado D. Ciclos formativos.
+    seccion_origen: Sección 3. ª Ciclos formativos de grado medio y superior
+    articulos_origen:
+    - Art. 111
+    articulos_destino:
+    - Art. 75
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II
+    capitulo_origen: Capítulo IV. Grado D. Ciclos formativos.
+    seccion_origen: Sección 3. ª Ciclos formativos de grado medio y superior
+    articulos_origen:
+    - Art. 115
+    articulos_destino:
+    - Art. 75
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II
+    capitulo_origen: Capítulo IV. Grado D. Ciclos formativos.
+    seccion_origen: Sección 3. ª Ciclos formativos de grado medio y superior
+    articulos_origen:
+    - Art. 115
+    articulos_destino:
+    - Art. 75
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II
+    capitulo_origen: Capítulo IV. Grado D. Ciclos formativos.
+    seccion_origen: Sección 3. ª Ciclos formativos de grado medio y superior
+    articulos_origen:
+    - Art. 115
+    articulos_destino:
+    - Art. 75
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II
+    capitulo_origen: Capítulo V. Grado E. Cursos de especialización.
+    articulos_origen:
+    - Art. 120
+    articulos_destino:
+    - Art. 75
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II
+    capitulo_origen: Capítulo V. Grado E. Cursos de especialización.
+    articulos_origen:
+    - Art. 120
+    articulos_destino:
+    - Art. 75
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II
+    capitulo_origen: Capítulo V. Grado E. Cursos de especialización.
+    articulos_origen:
+    - Art. 120
+    articulos_destino:
+    - Art. 75
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II
+    capitulo_origen: Capítulo VI. Convalidaciones, exenciones, equivalencias y homologaciones.
+    seccion_origen: Sección 3. ª Equivalencias
+    articulos_origen:
+    - Art. 133
+  - norma_id: norm-es-2001-7022
+    titulo_origen: Título II
+    capitulo_origen: Capítulo VI. Convalidaciones, exenciones, equivalencias y homologaciones.
+    seccion_origen: Sección 3. ª Equivalencias
+    articulos_origen:
+    - Art. 133
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II
+    capitulo_origen: Capítulo VI. Convalidaciones, exenciones, equivalencias y homologaciones.
+    seccion_origen: Sección 3. ª Equivalencias
+    articulos_origen:
+    - Art. 133
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II
+    capitulo_origen: Capítulo VI. Convalidaciones, exenciones, equivalencias y homologaciones.
+    seccion_origen: Sección 3. ª Equivalencias
+    articulos_origen:
+    - Art. 133
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título II
+    capitulo_origen: Capítulo VI. Convalidaciones, exenciones, equivalencias y homologaciones.
+    seccion_origen: Sección 4. ª Homologaciones artículo 135 Supuestos de homologación.
+      Las homologaciones se producen entre certificados o titulaciones profesionales
+      extranjeras, y certificados o títulos del Sistema de Formación Profesional español.
+    articulos_origen:
+    - Art. 136
+    articulos_destino:
+    - Art. 16
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título III
+    capitulo_origen: Capítulo I. Aspectos generales.
+    articulos_origen:
+    - Art. 137
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título III
+    capitulo_origen: Capítulo I. Aspectos generales.
+    articulos_origen:
+    - Art. 137
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título III
+    capitulo_origen: Capítulo I. Aspectos generales.
+    articulos_origen:
+    - Art. 137
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título III
+    capitulo_origen: Capítulo I. Aspectos generales.
+    articulos_origen:
+    - Art. 137
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título III
+    capitulo_origen: Capítulo II. Vías de obtención.
+    articulos_origen:
+    - Art. 141
+    articulos_destino:
+    - Art. 69
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título III
+    capitulo_origen: Capítulo II. Vías de obtención.
+    articulos_origen:
+    - Art. 141
+    articulos_destino:
+    - Art. 69
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título III
+    capitulo_origen: Capítulo II. Vías de obtención.
+    articulos_origen:
+    - Art. 141
+    articulos_destino:
+    - Art. 69
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. Validez y efectos.
+    articulos_origen:
+    - Art. 147
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. Validez y efectos.
+    articulos_origen:
+    - Art. 147
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. Validez y efectos.
+    articulos_origen:
+    - Art. 147
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. Validez y efectos.
+    articulos_origen:
+    - Art. 148
+    articulos_destino:
+    - Art. 44
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. Validez y efectos.
+    articulos_origen:
+    - Art. 148
+    articulos_destino:
+    - Art. 44
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. Validez y efectos.
+    articulos_origen:
+    - Art. 148
+    articulos_destino:
+    - Art. 44
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. Validez y efectos.
+    articulos_origen:
+    - Art. 148
+    articulos_destino:
+    - Art. 44
+    - Art. 53
+    - Art. 65
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. Validez y efectos.
+    articulos_origen:
+    - Art. 148
+    articulos_destino:
+    - Art. 44
+    - Art. 53
+    - Art. 65
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título III
+    capitulo_origen: Capítulo III. Validez y efectos.
+    articulos_origen:
+    - Art. 148
+    articulos_destino:
+    - Art. 44
+    - Art. 53
+    - Art. 65
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título III
+    capitulo_origen: Capítulo IV. Registro y expedición.
+    articulos_origen:
+    - Art. 149
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título III
+    capitulo_origen: Capítulo IV. Registro y expedición.
+    articulos_origen:
+    - Art. 149
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título III
+    capitulo_origen: Capítulo IV. Registro y expedición.
+    articulos_origen:
+    - Art. 149
+  - norma_id: norm-es-lo-3-2018
+    titulo_origen: Título III
+    capitulo_origen: Capítulo IV. Registro y expedición.
+    articulos_origen:
+    - Art. 149
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título IV
+    articulos_origen:
+    - Art. 156
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título V
+    capitulo_origen: Capítulo I. Profesorado de formación profesional perteneciente
+      a los cuerpos docentes del sistema educativo.
+    articulos_origen:
+    - Art. 165
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título V
+    capitulo_origen: Capítulo I. Profesorado de formación profesional perteneciente
+      a los cuerpos docentes del sistema educativo.
+    articulos_origen:
+    - Art. 165
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título V
+    capitulo_origen: Capítulo I. Profesorado de formación profesional perteneciente
+      a los cuerpos docentes del sistema educativo.
+    articulos_origen:
+    - Art. 165
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título V
+    capitulo_origen: Capítulo I. Profesorado de formación profesional perteneciente
+      a los cuerpos docentes del sistema educativo.
+    articulos_origen:
+    - Art. 165
+    articulos_destino:
+    - Art. 95
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título V
+    capitulo_origen: Capítulo I. Profesorado de formación profesional perteneciente
+      a los cuerpos docentes del sistema educativo.
+    articulos_origen:
+    - Art. 165
+    articulos_destino:
+    - Art. 95
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título V
+    capitulo_origen: Capítulo I. Profesorado de formación profesional perteneciente
+      a los cuerpos docentes del sistema educativo.
+    articulos_origen:
+    - Art. 165
+    articulos_destino:
+    - Art. 95
+  - norma_id: norm-es-l-53-1984
+    titulo_origen: Título V
+    capitulo_origen: Capítulo I. Profesorado de formación profesional perteneciente
+      a los cuerpos docentes del sistema educativo.
+    articulos_origen:
+    - Art. 165
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título V
+    capitulo_origen: Capítulo I. Profesorado de formación profesional perteneciente
+      a los cuerpos docentes del sistema educativo.
+    articulos_origen:
+    - Art. 165
+    articulos_destino:
+    - Art. 85
+    - Art. 95
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título V
+    capitulo_origen: Capítulo I. Profesorado de formación profesional perteneciente
+      a los cuerpos docentes del sistema educativo.
+    articulos_origen:
+    - Art. 165
+    articulos_destino:
+    - Art. 85
+    - Art. 95
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título V
+    capitulo_origen: Capítulo I. Profesorado de formación profesional perteneciente
+      a los cuerpos docentes del sistema educativo.
+    articulos_origen:
+    - Art. 165
+    articulos_destino:
+    - Art. 85
+    - Art. 95
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título V
+    capitulo_origen: Capítulo I. Profesorado de formación profesional perteneciente
+      a los cuerpos docentes del sistema educativo.
+    articulos_origen:
+    - Art. 165
+    articulos_destino:
+    - Art. 85
+    - Art. 95
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo II. Organización y gestión del procedimiento.
+    articulos_origen:
+    - Art. 180
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título VII
+    articulos_origen:
+    - Art. 192
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título VIII
+    articulos_origen:
+    - Art. 196
+    articulos_destino:
+    - Art. 77
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título VIII
+    capitulo_origen: Capítulo I. Centros del Sistema de Formación Profesional y autorización
+      administrativa.
+    seccion_origen: Sección 1. ª Centros que imparten ofertas de Sistema de Formación
+      Profesional español en el territorio español
+    articulos_origen:
+    - Art. 197
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título VIII
+    capitulo_origen: Capítulo I. Centros del Sistema de Formación Profesional y autorización
+      administrativa.
+    seccion_origen: Sección 1. ª Centros que imparten ofertas de Sistema de Formación
+      Profesional español en el territorio español
+    articulos_origen:
+    - Art. 198
+    articulos_destino:
+    - Art. 25
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título VIII
+    capitulo_origen: Capítulo I. Centros del Sistema de Formación Profesional y autorización
+      administrativa.
+    seccion_origen: Sección 1. ª Centros que imparten ofertas de Sistema de Formación
+      Profesional español en el territorio español
+    articulos_origen:
+    - Art. 199
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título VIII
+    capitulo_origen: Capítulo I. Centros del Sistema de Formación Profesional y autorización
+      administrativa.
+    seccion_origen: Sección 1. ª Centros que imparten ofertas de Sistema de Formación
+      Profesional español en el territorio español
+    articulos_origen:
+    - Art. 199
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título VIII
+    capitulo_origen: Capítulo I. Centros del Sistema de Formación Profesional y autorización
+      administrativa.
+    seccion_origen: Sección 1. ª Centros que imparten ofertas de Sistema de Formación
+      Profesional español en el territorio español
+    articulos_origen:
+    - Art. 199
+  - norma_id: norm-es-lo-8-1985
+    titulo_origen: Título VIII
+    capitulo_origen: Capítulo II. Aspectos básicos del régimen de funcionamiento de
+      los centros.
+    articulos_origen:
+    - Art. 205
+  - norma_id: norm-es-2022-1274
+    titulo_origen: Título VIII
+    capitulo_origen: Capítulo III. Desarrollo de ofertas formativas en los centros.
+    articulos_origen:
+    - Art. 209
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título IX
+    capitulo_origen: Capítulo I. Calidad y evaluación del sistema a nivel estatal.
+    articulos_origen:
+    - Art. 216
+  - norma_id: norm-es-rdl-2-2015
+    titulo_origen: Título X
+    capitulo_origen: Capítulo I. Consejo General de la Formación Profesional.
+    articulos_origen:
+    - Art. 227
+    disposiciones_destino:
+    - D. Adicional sexta
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título X
+    capitulo_origen: Capítulo II. Comisión Estatal Estratégica de la Formación Profesional.
+    articulos_origen:
+    - Art. 229
+    articulos_destino:
+    - Art. 229
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Adicional sexta. Titulaciones y certificaciones declaradas equivalentes a
+      los efectos de acceso a los grados D títulos de Técnico y Técnico Superior,
+      y grados E (títulos de Especialista y Máster en Formación Profesional).
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Adicional sexta. Titulaciones y certificaciones declaradas equivalentes a
+      los efectos de acceso a los grados D títulos de Técnico y Técnico Superior,
+      y grados E (títulos de Especialista y Máster en Formación Profesional).
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Adicional sexta. Titulaciones y certificaciones declaradas equivalentes a
+      los efectos de acceso a los grados D títulos de Técnico y Técnico Superior,
+      y grados E (títulos de Especialista y Máster en Formación Profesional).
+  - norma_id: norm-es-2001-7022
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Adicional sexta. Titulaciones y certificaciones declaradas equivalentes a
+      los efectos de acceso a los grados D títulos de Técnico y Técnico Superior,
+      y grados E (títulos de Especialista y Máster en Formación Profesional).
+  - norma_id: norm-es-l-53-1984
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Adicional octava. Habilitación del profesorado de Formación Profesional.
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Adicional decimocuarta. Centros de referencia nacional en el ámbito de la
+      formación profesional.
+  - norma_id: norm-es-2002-12018
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Adicional decimocuarta. Centros de referencia nacional en el ámbito de la
+      formación profesional.
+  - norma_id: norm-es-2022-1274
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Adicional decimoquinta. Personas expertas del sector productivo.
+    disposiciones_destino:
+    - D. Adicional decimosexta
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Adicional decimoquinta. Personas expertas del sector productivo.
+  - norma_id: norm-es-2002-12018
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Adicional decimoquinta. Personas expertas del sector productivo.
+  - norma_id: norm-es-rdl-2-2015
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Transitoria quinta. Transición del sistema de beca a contrato de formación
+      en el régimen de formación profesional intensiva.
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Transitoria sexta. Adaptación del periodo de formación en empresa.
+  - norma_id: norm-es-1988-6938
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Transitoria octava. Homologación de estudios extranjeros no universitarios
+      de Formación Profesional.
+  - norma_id: norm-es-1988-3987
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Transitoria octava. Homologación de estudios extranjeros no universitarios
+      de Formación Profesional.
+  - norma_id: norm-es-2002-25289
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Transitoria octava. Homologación de estudios extranjeros no universitarios
+      de Formación Profesional.
+  - norma_id: norm-es-rdl-2-2015
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Final primera. Modificación del Real Decreto 1684/1997, de 7 de noviembre,
+      por el que se aprueba el Reglamento de Funcionamiento del Consejo General de
+      Formación Profesional.
+    disposiciones_destino:
+    - D. Adicional sexta
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - Art. 17
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre,
+      sobre expedición de títulos académicos y profesionales correspondientes a las
+      enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre,
+      sobre expedición de títulos académicos y profesionales correspondientes a las
+      enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre,
+      sobre expedición de títulos académicos y profesionales correspondientes a las
+      enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre,
+      sobre expedición de títulos académicos y profesionales correspondientes a las
+      enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    articulos_destino:
+    - Art. 44
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre,
+      sobre expedición de títulos académicos y profesionales correspondientes a las
+      enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    articulos_destino:
+    - Art. 44
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre,
+      sobre expedición de títulos académicos y profesionales correspondientes a las
+      enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    articulos_destino:
+    - Art. 44
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre,
+      sobre expedición de títulos académicos y profesionales correspondientes a las
+      enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    articulos_destino:
+    - Art. 44
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre,
+      sobre expedición de títulos académicos y profesionales correspondientes a las
+      enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre,
+      sobre expedición de títulos académicos y profesionales correspondientes a las
+      enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre,
+      sobre expedición de títulos académicos y profesionales correspondientes a las
+      enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    articulos_destino:
+    - Art. 13
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre,
+      sobre expedición de títulos académicos y profesionales correspondientes a las
+      enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    articulos_destino:
+    - Art. 13
+  - norma_id: norm-es-lo-3-2018
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre,
+      sobre expedición de títulos académicos y profesionales correspondientes a las
+      enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    articulos_destino:
+    - Art. 13
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre,
+      sobre expedición de títulos académicos y profesionales correspondientes a las
+      enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    articulos_destino:
+    - Art. 13
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Final octava. Entrada en vigor.
+  - norma_id: norm-es-lo-3-2018
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Final octava. Entrada en vigor.
+    articulos_destino:
+    - Art. 12
+    - Art. 13
+    - Art. 14
+    - Art. 15
+    - Art. 16
+    - Art. 17
+    - Art. 18
+  - norma_id: norm-es-l-40-2015
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Final octava. Entrada en vigor.
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título X. Gobernanza.
+    capitulo_origen: Capítulo III. Concertación de políticas de Formación Profesional.
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre,
+      sobre expedición de títulos académicos y profesionales correspondientes a las
+      enseñanzas establecidas por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Final tercera
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título X. Gobernanza.
+    capitulo_origen: Capítulo III. Concertación de políticas de Formación Profesional.
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre,
+      sobre expedición de títulos académicos y profesionales correspondientes a las
+      enseñanzas establecidas por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Final tercera
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título X. Gobernanza.
+    capitulo_origen: Capítulo III. Concertación de políticas de Formación Profesional.
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre,
+      sobre expedición de títulos académicos y profesionales correspondientes a las
+      enseñanzas establecidas por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Final tercera
+  - norma_id: norm-es-2021-979
+    titulo_origen: Título X. Gobernanza.
+    capitulo_origen: Capítulo III. Concertación de políticas de Formación Profesional.
+    articulos_origen:
+    - D. Final cuarta. Modificación del [Real Decreto 1085/2020](RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md),
+      de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales
+      de los títulos de Formación Profesional del sistema educativo español y las
+      medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de
+      julio, por el que se establece la ordenación general de la Formación Profesional
+      del sistema educativo.
+    disposiciones_destino:
+    - D. Final cuarta
+  - norma_id: norm-es-2020-17274
+    titulo_origen: Título X. Gobernanza.
+    capitulo_origen: Capítulo III. Concertación de políticas de Formación Profesional.
+    articulos_origen:
+    - D. Final cuarta. Modificación del [Real Decreto 1085/2020](RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md),
+      de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales
+      de los títulos de Formación Profesional del sistema educativo español y las
+      medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de
+      julio, por el que se establece la ordenación general de la Formación Profesional
+      del sistema educativo.
+    disposiciones_destino:
+    - D. Final cuarta
+  - norma_id: norm-es-2021-979
+    titulo_origen: Título IV. En el que se contemplan los aspectos correspondientes
+      a la formación en empresa u organismo equiparado.
+  - norma_id: norm-es-2020-17274
+    titulo_origen: Título IV. En el que se contemplan los aspectos correspondientes
+      a la formación en empresa u organismo equiparado.
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV. En el que se contemplan los aspectos correspondientes
+      a la formación en empresa u organismo equiparado.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
+    disposiciones_destino:
+    - D. Final primera
+    - D. Final tercera
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II
+    capitulo_origen: Capítulo V. Grado E. Cursos de especialización.
+    articulos_origen:
+    - Art. 117
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II
+    capitulo_origen: Capítulo V. Grado E. Cursos de especialización.
+    articulos_origen:
+    - Art. 117
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II
+    capitulo_origen: Capítulo V. Grado E. Cursos de especialización.
+    articulos_origen:
+    - Art. 117
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2001-7022
+    titulo_origen: Título II
+    capitulo_origen: Capítulo VI. Convalidaciones, exenciones, equivalencias y homologaciones.
+    seccion_origen: Sección 1. ª Convalidaciones
+    articulos_origen:
+    - Art. 127
+  - norma_id: norm-es-2021-979
+    titulo_origen: Título II
+    capitulo_origen: Capítulo VI. Convalidaciones, exenciones, equivalencias y homologaciones.
+    seccion_origen: Sección 1. ª Convalidaciones
+    articulos_origen:
+    - Art. 127
+  - norma_id: norm-es-2020-17274
+    titulo_origen: Título II
+    capitulo_origen: Capítulo VI. Convalidaciones, exenciones, equivalencias y homologaciones.
+    seccion_origen: Sección 1. ª Convalidaciones
+    articulos_origen:
+    - Art. 127
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Adicional décima. Equivalencia de los certificados de profesionalidad.
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Adicional décima. Equivalencia de los certificados de profesionalidad.
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Adicional décima. Equivalencia de los certificados de profesionalidad.
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre,
+      sobre expedición de títulos académicos y profesionales correspondientes a las
+      enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Final tercera
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre,
+      sobre expedición de títulos académicos y profesionales correspondientes a las
+      enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Final tercera
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre,
+      sobre expedición de títulos académicos y profesionales correspondientes a las
+      enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    disposiciones_destino:
+    - D. Final tercera
+  - norma_id: norm-es-2021-979
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Final cuarta. Modificación del Real Decreto 1085/2020, de 9 de diciembre,
+      por el que se establecen convalidaciones de módulos profesionales de los títulos
+      de Formación Profesional del sistema educativo español y las medidas para su
+      aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el
+      que se establece la ordenación general de la Formación Profesional del sistema
+      educativo.
+    disposiciones_destino:
+    - D. Final cuarta
+  - norma_id: norm-es-2020-17274
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Final cuarta. Modificación del Real Decreto 1085/2020, de 9 de diciembre,
+      por el que se establecen convalidaciones de módulos profesionales de los títulos
+      de Formación Profesional del sistema educativo español y las medidas para su
+      aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el
+      que se establece la ordenación general de la Formación Profesional del sistema
+      educativo.
+    disposiciones_destino:
+    - D. Final cuarta
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Final sexta. Título competencial.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
+    disposiciones_destino:
+    - D. Final primera
+    - D. Final tercera
   fundamentado_en:
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título IV. En el que se contemplan los aspectos correspondientes
+      a la formación en empresa u organismo equiparado.
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. Grado C. Certificado profesional.
+    articulos_origen:
+    - Art. 71
+    articulos_destino:
+    - Art. 66
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título II
+    capitulo_origen: Capítulo III. Grado C. Certificado profesional.
+    articulos_origen:
+    - Art. 72
+    articulos_destino:
+    - Art. 67
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título II
+    capitulo_origen: Capítulo IV. Grado D. Ciclos formativos.
+    seccion_origen: Sección 3. ª Ciclos formativos de grado medio y superior
+    articulos_origen:
+    - Art. 106
+    articulos_destino:
+    - Art. 66
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título II
+    capitulo_origen: Capítulo IV. Grado D. Ciclos formativos.
+    seccion_origen: Sección 3. ª Ciclos formativos de grado medio y superior
+    articulos_origen:
+    - Art. 106
+    articulos_destino:
+    - Art. 67
+  - norma_id: norm-es-2001-7022
+    titulo_origen: Título II
+    capitulo_origen: Capítulo VI. Convalidaciones, exenciones, equivalencias y homologaciones.
+    seccion_origen: Sección 1. ª Convalidaciones
+    articulos_origen:
+    - Art. 127
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II
+    capitulo_origen: Capítulo VI. Convalidaciones, exenciones, equivalencias y homologaciones.
+    seccion_origen: Sección 1. ª Convalidaciones
+    articulos_origen:
+    - Art. 127
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II
+    capitulo_origen: Capítulo VI. Convalidaciones, exenciones, equivalencias y homologaciones.
+    seccion_origen: Sección 1. ª Convalidaciones
+    articulos_origen:
+    - Art. 127
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II
+    capitulo_origen: Capítulo VI. Convalidaciones, exenciones, equivalencias y homologaciones.
+    seccion_origen: Sección 1. ª Convalidaciones
+    articulos_origen:
+    - Art. 127
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título V
+    capitulo_origen: Capítulo I. Profesorado de formación profesional perteneciente
+      a los cuerpos docentes del sistema educativo.
+    articulos_origen:
+    - Art. 165
+    articulos_destino:
+    - Art. 95
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título V
+    capitulo_origen: Capítulo I. Profesorado de formación profesional perteneciente
+      a los cuerpos docentes del sistema educativo.
+    articulos_origen:
+    - Art. 165
+    articulos_destino:
+    - Art. 95
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título V
+    capitulo_origen: Capítulo I. Profesorado de formación profesional perteneciente
+      a los cuerpos docentes del sistema educativo.
+    articulos_origen:
+    - Art. 165
+    articulos_destino:
+    - Art. 95
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo II. Organización y gestión del procedimiento.
+    articulos_origen:
+    - Art. 179
+    articulos_destino:
+    - Art. 92
+    - Art. 21
+    - Art. 149
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo II. Organización y gestión del procedimiento.
+    articulos_origen:
+    - Art. 179
+    articulos_destino:
+    - Art. 92
+    - Art. 21
+    - Art. 149
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título IX
+    capitulo_origen: Capítulo I. Calidad y evaluación del sistema a nivel estatal.
+    articulos_origen:
+    - Art. 216
+    articulos_destino:
+    - Art. 110
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Adicional octava. Habilitación del profesorado de Formación Profesional.
+    articulos_destino:
+    - Art. 95
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Adicional octava. Habilitación del profesorado de Formación Profesional.
+    articulos_destino:
+    - Art. 95
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Adicional octava. Habilitación del profesorado de Formación Profesional.
+    articulos_destino:
+    - Art. 95
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre,
+      sobre expedición de títulos académicos y profesionales correspondientes a las
+      enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    articulos_destino:
+    - Art. 6 bis
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre,
+      sobre expedición de títulos académicos y profesionales correspondientes a las
+      enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    articulos_destino:
+    - Art. 6 bis
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre,
+      sobre expedición de títulos académicos y profesionales correspondientes a las
+      enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+    articulos_destino:
+    - Art. 6 bis
   - norma_id: norm-es-1988-3987
   - norma_id: norm-es-1988-6938
   - norma_id: norm-es-1999-23750
   - norma_id: norm-es-2000-544
-  - norma_id: norm-es-2001-7022
   - norma_id: norm-es-2002-12018
   - norma_id: norm-es-2002-25289
-  - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2020-17274
-  - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2021-979
   - norma_id: norm-es-2022-1274
-  - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-es-l-53-1984
-  - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-3-2018
   - norma_id: norm-es-lo-8-1985
   - norma_id: norm-es-rd-217-2022
   - norma_id: norm-es-rdl-2-2015
+  desarrolla:
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Aspectos comunes de las ofertas formativas.
+    articulos_origen:
+    - Art. 20
+  - norma_id: norm-es-lo-3-2018
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Aspectos comunes de las ofertas formativas.
+    articulos_origen:
+    - Art. 20
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Transitoria quinta. Transición del sistema de beca a contrato de formación
+      en el régimen de formación profesional intensiva.
+    articulos_destino:
+    - Art. 11
+  concordancia:
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título II
+    capitulo_origen: Capítulo V. Grado E. Cursos de especialización.
+    articulos_origen:
+    - Art. 117
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título II
+    capitulo_origen: Capítulo V. Grado E. Cursos de especialización.
+    articulos_origen:
+    - Art. 117
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título II
+    capitulo_origen: Capítulo V. Grado E. Cursos de especialización.
+    articulos_origen:
+    - Art. 117
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-lo-3-2022
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Transitoria cuarta. Catálogo Nacional de Cualificaciones Profesionales.
+  deroga:
+  - norma_id: norm-es-2022-1274
+    titulo_origen: Título X
+    capitulo_origen: Capítulo III. Concertación de políticas de formación profesional.
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
+  desarrollado_por:
+  - norma_id: norm-es-2025-2039
   fundamento_de:
   - norma_id: norm-es-2024-10683
   - norma_id: norm-es-2024-10684
   - norma_id: norm-es-2024-10685
   - norma_id: norm-es-2026-12038
-  - norma_id: norm-can-res-040
-  - norma_id: norm-can-res-043
-  - norma_id: norm-can-res-boc-2026-129-26
-  - norma_id: norm-can-res-boc-2026-070-41
-  - norma_id: norm-can-res-boc-2026-039-103
-  - norma_id: norm-can-res-032
-  - norma_id: norm-can-d-84-2024
-  - norma_id: norm-can-res-027
-  - norma_id: norm-can-res-boc-2026-039-102
-  - norma_id: norm-can-res-boc-2025-118-46
-  - norma_id: norm-can-res-boc-2025-047-107
-  - norma_id: norm-can-res-boc-2026-141-29
-  - norma_id: norm-can-res-boc-2025-047-108
-  - norma_id: norm-can-res-030
-  - norma_id: norm-can-res-boc-2026-073-113
   fundamentos_derecho:
   - norma_id: norm-es-lo-3-2022
   articulos:
-  - '1'
-  - norma_id: norm-can-res-boc-2024-230-25
-  - norma_id: norm-can-res-134
+  - norma_id: '1'
   - norma_id: norm-es-2000-544
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
@@ -114,6 +1392,7 @@ relaciones:
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-rdl-2-2015
 ---
+
 # Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.
 
 ## Preámbulo
@@ -6526,3 +7805,215 @@ Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación d
 - [**RD217_2022 Ordenacion y Ensenanzas Minimas de la ESO**](./RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) desde *(Título I, Capítulo II. Aspectos comunes de las ofertas formativas., Art. 20)*
+- **Desarrolla**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) desde *(Título I, Capítulo II. Aspectos comunes de las ofertas formativas., Art. 20)*
+- **Desarrolla**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 11) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Transitoria quinta. Transición del sistema de beca a contrato de formación en el régimen de formación profesional intensiva.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Final tercera) desde *(Título X. Gobernanza., Capítulo III. Concertación de políticas de Formación Profesional., D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Final tercera) desde *(Título X. Gobernanza., Capítulo III. Concertación de políticas de Formación Profesional., D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Final tercera) desde *(Título X. Gobernanza., Capítulo III. Concertación de políticas de Formación Profesional., D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2021-979**](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md) (D. Final cuarta) desde *(Título X. Gobernanza., Capítulo III. Concertación de políticas de Formación Profesional., D. Final cuarta. Modificación del [Real Decreto 1085/2020](RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md), de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la Formación Profesional del sistema educativo.)*
+- **Modifica**: [**BOE-A-2020-17274**](./RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md) (D. Final cuarta) desde *(Título X. Gobernanza., Capítulo III. Concertación de políticas de Formación Profesional., D. Final cuarta. Modificación del [Real Decreto 1085/2020](RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md), de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la Formación Profesional del sistema educativo.)*
+- **Modifica**: [**BOE-A-2021-979**](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md) desde *(Título IV. En el que se contemplan los aspectos correspondientes a la formación en empresa u organismo equiparado.)*
+- **Modifica**: [**BOE-A-2020-17274**](./RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md) desde *(Título IV. En el que se contemplan los aspectos correspondientes a la formación en empresa u organismo equiparado.)*
+- **Modifica**: `norm-es-c-1978` (Art. 149, Art. 27, D. Final primera, D. Final tercera) desde *(Título IV. En el que se contemplan los aspectos correspondientes a la formación en empresa u organismo equiparado.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 6) desde *(Título II, Capítulo V. Grado E. Cursos de especialización., Art. 117)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 6) desde *(Título II, Capítulo V. Grado E. Cursos de especialización., Art. 117)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 6) desde *(Título II, Capítulo V. Grado E. Cursos de especialización., Art. 117)*
+- **Modifica**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) desde *(Título II, Capítulo VI. Convalidaciones, exenciones, equivalencias y homologaciones., Art. 127)*
+- **Modifica**: [**BOE-A-2021-979**](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md) desde *(Título II, Capítulo VI. Convalidaciones, exenciones, equivalencias y homologaciones., Art. 127)*
+- **Modifica**: [**BOE-A-2020-17274**](./RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md) desde *(Título II, Capítulo VI. Convalidaciones, exenciones, equivalencias y homologaciones., Art. 127)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Adicional décima. Equivalencia de los certificados de profesionalidad.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Adicional décima. Equivalencia de los certificados de profesionalidad.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Adicional décima. Equivalencia de los certificados de profesionalidad.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Derogatoria única. Derogación normativa.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Derogatoria única. Derogación normativa.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Derogatoria única. Derogación normativa.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Final tercera) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Final tercera) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Final tercera) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2021-979**](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md) (D. Final cuarta) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Final cuarta. Modificación del Real Decreto 1085/2020, de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la Formación Profesional del sistema educativo.)*
+- **Modifica**: [**BOE-A-2020-17274**](./RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md) (D. Final cuarta) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Final cuarta. Modificación del Real Decreto 1085/2020, de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la Formación Profesional del sistema educativo.)*
+- **Modifica**: `norm-es-c-1978` (Art. 149, Art. 27, D. Final primera, D. Final tercera) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Final sexta. Título competencial.)*
+- **Deroga**: [**BOE-A-2022-1274**](./RD62_2022_flexibilizacion_requisitos_exigibles_impartir_ofertas_formacion.md) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Derogatoria única. Derogación normativa.)*
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 129) desde *(Título IV. En el que se contemplan los aspectos correspondientes a la formación en empresa u organismo equiparado.)*
+- **Fundamentado en**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 66) desde *(Título II, Capítulo III. Grado C. Certificado profesional., Art. 71)*
+- **Fundamentado en**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 67) desde *(Título II, Capítulo III. Grado C. Certificado profesional., Art. 72)*
+- **Fundamentado en**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 66) desde *(Título II, Capítulo IV. Grado D. Ciclos formativos., Art. 106)*
+- **Fundamentado en**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 67) desde *(Título II, Capítulo IV. Grado D. Ciclos formativos., Art. 106)*
+- **Fundamentado en**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) desde *(Título II, Capítulo VI. Convalidaciones, exenciones, equivalencias y homologaciones., Art. 127)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título II, Capítulo VI. Convalidaciones, exenciones, equivalencias y homologaciones., Art. 127)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título II, Capítulo VI. Convalidaciones, exenciones, equivalencias y homologaciones., Art. 127)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título II, Capítulo VI. Convalidaciones, exenciones, equivalencias y homologaciones., Art. 127)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 95) desde *(Título V, Capítulo I. Profesorado de formación profesional perteneciente a los cuerpos docentes del sistema educativo., Art. 165)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 95) desde *(Título V, Capítulo I. Profesorado de formación profesional perteneciente a los cuerpos docentes del sistema educativo., Art. 165)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 95) desde *(Título V, Capítulo I. Profesorado de formación profesional perteneciente a los cuerpos docentes del sistema educativo., Art. 165)*
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 92, Art. 21, Art. 149) desde *(Título VI, Capítulo II. Organización y gestión del procedimiento., Art. 179)*
+- **Fundamentado en**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 92, Art. 21, Art. 149) desde *(Título VI, Capítulo II. Organización y gestión del procedimiento., Art. 179)*
+- **Fundamentado en**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 110) desde *(Título IX, Capítulo I. Calidad y evaluación del sistema a nivel estatal., Art. 216)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 95) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Adicional octava. Habilitación del profesorado de Formación Profesional.)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 95) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Adicional octava. Habilitación del profesorado de Formación Profesional.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 95) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Adicional octava. Habilitación del profesorado de Formación Profesional.)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 6 bis) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 6 bis) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 6 bis) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Fundamentado en**: [**BOE-A-1988-3987**](../02_gestion_y_administracion_centros/RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md)
+- **Fundamentado en**: [**BOE-A-1988-6938**](../02_gestion_y_administracion_centros/RD104_1988_aplicacion_lo_dispuesto_real_decreto_homologacion.md)
+- **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+- **Fundamentado en**: [**BOE-A-2000-544**](../01_marco_normativo_general_y_organico/LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md)
+- **Fundamentado en**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md)
+- **Fundamentado en**: [**BOE-A-2002-25289**](../02_gestion_y_administracion_centros/RD3305_2002_ecd_modifican_aplicacion_lo_dispuesto_real.md)
+- **Fundamentado en**: [**BOE-A-2020-17274**](./RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md)
+- **Fundamentado en**: [**BOE-A-2021-979**](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md)
+- **Fundamentado en**: [**BOE-A-2022-1274**](./RD62_2022_flexibilizacion_requisitos_exigibles_impartir_ofertas_formacion.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamentado en**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md)
+- **Fundamentado en**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
+- **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
+- **Fundamentado en**: [**RD217_2022 Ordenacion y Ensenanzas Minimas de la ESO**](./RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md)
+- **Fundamentado en**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
+- **Fundamento de**: [**BOE-A-2024-10683**](./RD498_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**BOE-A-2024-10684**](./RD499_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**BOE-A-2024-10685**](./RD500_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**BOE-A-2026-12038**](./RD452_2026_establece_ordenacion_ensenanzas_profesionales_artes_plasticas.md)
+- **En concordancia con**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 6) desde *(Título II, Capítulo V. Grado E. Cursos de especialización., Art. 117)*
+- **En concordancia con**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 6) desde *(Título II, Capítulo V. Grado E. Cursos de especialización., Art. 117)*
+- **En concordancia con**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 6) desde *(Título II, Capítulo V. Grado E. Cursos de especialización., Art. 117)*
+- **En concordancia con**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Transitoria cuarta. Catálogo Nacional de Cualificaciones Profesionales.)*
+- **Cita a**: `norm-es-c-1978` (Art. 229) desde *(Título X. Gobernanza., Capítulo II. Comisión Estatal Estratégica de la Formación Profesional., Art. 229)*
+- **Cita a**: [**BOE-A-2022-1274**](./RD62_2022_flexibilizacion_requisitos_exigibles_impartir_ofertas_formacion.md) (D. Adicional decimosexta) desde *(Título X. Gobernanza., Capítulo III. Concertación de políticas de Formación Profesional., D. Adicional decimoquinta. Personas expertas del Sector Productivo.)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(Título X. Gobernanza., Capítulo III. Concertación de políticas de Formación Profesional., D. Final octava. Entrada en vigor.)*
+- **Cita a**: `norm-es-c-1978` desde *(Título X. Gobernanza., Capítulo III. Concertación de políticas de Formación Profesional., D. Final octava. Entrada en vigor.)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Título X) desde *(Título IV. En el que se contemplan los aspectos correspondientes a la formación en empresa u organismo equiparado.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título IV. En el que se contemplan los aspectos correspondientes a la formación en empresa u organismo equiparado.)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título IV. En el que se contemplan los aspectos correspondientes a la formación en empresa u organismo equiparado.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título IV. En el que se contemplan los aspectos correspondientes a la formación en empresa u organismo equiparado.)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(Título Preliminar, Art. 1)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 5) desde *(Título Preliminar, Art. 3)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 113) desde *(Título I, Capítulo I. Organización de ofertas formativas de Formación Profesional., Art. 5)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 6) desde *(Título I, Capítulo I. Organización de ofertas formativas de Formación Profesional., Art. 7)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 6) desde *(Título I, Capítulo I. Organización de ofertas formativas de Formación Profesional., Art. 7)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 6) desde *(Título I, Capítulo I. Organización de ofertas formativas de Formación Profesional., Art. 7)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 6) desde *(Título I, Capítulo I. Organización de ofertas formativas de Formación Profesional., Art. 7)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título I, Capítulo I. Organización de ofertas formativas de Formación Profesional., Art. 10)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título I, Capítulo I. Organización de ofertas formativas de Formación Profesional., Art. 10)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título I, Capítulo I. Organización de ofertas formativas de Formación Profesional., Art. 10)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 120) desde *(Título I, Capítulo I. Organización de ofertas formativas de Formación Profesional., Art. 10)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 120) desde *(Título I, Capítulo I. Organización de ofertas formativas de Formación Profesional., Art. 10)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 120) desde *(Título I, Capítulo I. Organización de ofertas formativas de Formación Profesional., Art. 10)*
+- **Cita a**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) desde *(Título I, Capítulo II. Aspectos comunes de las ofertas formativas., Art. 17)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional vigesimotercera) desde *(Título I, Capítulo II. Aspectos comunes de las ofertas formativas., Art. 20)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional vigesimotercera) desde *(Título I, Capítulo II. Aspectos comunes de las ofertas formativas., Art. 20)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional vigesimotercera) desde *(Título I, Capítulo II. Aspectos comunes de las ofertas formativas., Art. 20)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 77, Art. 198) desde *(Título I, Capítulo IV. Modalidades de la oferta de formación profesional., Art. 24)*
+- **Cita a**: [**BOE-A-2000-544**](../01_marco_normativo_general_y_organico/LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md) desde *(Título I, Capítulo IV. Modalidades de la oferta de formación profesional., Art. 39)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(Título I, Capítulo IV. Modalidades de la oferta de formación profesional., Art. 44)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(Título II, Capítulo I. Grado A. Acreditación parcial de competencia o microacreditaciones., Art. 53)*
+- **Cita a**: [**BOE-A-2022-1274**](./RD62_2022_flexibilizacion_requisitos_exigibles_impartir_ofertas_formacion.md) desde *(Título II, Capítulo III. Grado C. Certificado profesional., Art. 77)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título II, Capítulo IV. Grado D. Ciclos formativos., Art. 82)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título II, Capítulo IV. Grado D. Ciclos formativos., Art. 82)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título II, Capítulo IV. Grado D. Ciclos formativos., Art. 82)*
+- **Cita a**: [**RD217_2022 Ordenacion y Ensenanzas Minimas de la ESO**](./RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md) desde *(Título II, Capítulo IV. Grado D. Ciclos formativos., Art. 87)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 41) desde *(Título II, Capítulo IV. Grado D. Ciclos formativos., Art. 90)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 41) desde *(Título II, Capítulo IV. Grado D. Ciclos formativos., Art. 90)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 41) desde *(Título II, Capítulo IV. Grado D. Ciclos formativos., Art. 90)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título II, Capítulo IV. Grado D. Ciclos formativos., Art. 97)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título II, Capítulo IV. Grado D. Ciclos formativos., Art. 97)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título II, Capítulo IV. Grado D. Ciclos formativos., Art. 97)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 75) desde *(Título II, Capítulo IV. Grado D. Ciclos formativos., Art. 111)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 75) desde *(Título II, Capítulo IV. Grado D. Ciclos formativos., Art. 111)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 75) desde *(Título II, Capítulo IV. Grado D. Ciclos formativos., Art. 111)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 75) desde *(Título II, Capítulo IV. Grado D. Ciclos formativos., Art. 115)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 75) desde *(Título II, Capítulo IV. Grado D. Ciclos formativos., Art. 115)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 75) desde *(Título II, Capítulo IV. Grado D. Ciclos formativos., Art. 115)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 75) desde *(Título II, Capítulo V. Grado E. Cursos de especialización., Art. 120)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 75) desde *(Título II, Capítulo V. Grado E. Cursos de especialización., Art. 120)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 75) desde *(Título II, Capítulo V. Grado E. Cursos de especialización., Art. 120)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título II, Capítulo VI. Convalidaciones, exenciones, equivalencias y homologaciones., Art. 133)*
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) desde *(Título II, Capítulo VI. Convalidaciones, exenciones, equivalencias y homologaciones., Art. 133)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título II, Capítulo VI. Convalidaciones, exenciones, equivalencias y homologaciones., Art. 133)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título II, Capítulo VI. Convalidaciones, exenciones, equivalencias y homologaciones., Art. 133)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 16) desde *(Título II, Capítulo VI. Convalidaciones, exenciones, equivalencias y homologaciones., Art. 136)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(Título III, Capítulo I. Aspectos generales., Art. 137)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título III, Capítulo I. Aspectos generales., Art. 137)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título III, Capítulo I. Aspectos generales., Art. 137)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título III, Capítulo I. Aspectos generales., Art. 137)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 69) desde *(Título III, Capítulo II. Vías de obtención., Art. 141)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 69) desde *(Título III, Capítulo II. Vías de obtención., Art. 141)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 69) desde *(Título III, Capítulo II. Vías de obtención., Art. 141)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título III, Capítulo III. Validez y efectos., Art. 147)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título III, Capítulo III. Validez y efectos., Art. 147)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título III, Capítulo III. Validez y efectos., Art. 147)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 44) desde *(Título III, Capítulo III. Validez y efectos., Art. 148)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 44) desde *(Título III, Capítulo III. Validez y efectos., Art. 148)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 44) desde *(Título III, Capítulo III. Validez y efectos., Art. 148)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 44, Art. 53, Art. 65) desde *(Título III, Capítulo III. Validez y efectos., Art. 148)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 44, Art. 53, Art. 65) desde *(Título III, Capítulo III. Validez y efectos., Art. 148)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 44, Art. 53, Art. 65) desde *(Título III, Capítulo III. Validez y efectos., Art. 148)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título III, Capítulo IV. Registro y expedición., Art. 149)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título III, Capítulo IV. Registro y expedición., Art. 149)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título III, Capítulo IV. Registro y expedición., Art. 149)*
+- **Cita a**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) desde *(Título III, Capítulo IV. Registro y expedición., Art. 149)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(Título IV, Art. 156)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título V, Capítulo I. Profesorado de formación profesional perteneciente a los cuerpos docentes del sistema educativo., Art. 165)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título V, Capítulo I. Profesorado de formación profesional perteneciente a los cuerpos docentes del sistema educativo., Art. 165)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título V, Capítulo I. Profesorado de formación profesional perteneciente a los cuerpos docentes del sistema educativo., Art. 165)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 95) desde *(Título V, Capítulo I. Profesorado de formación profesional perteneciente a los cuerpos docentes del sistema educativo., Art. 165)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 95) desde *(Título V, Capítulo I. Profesorado de formación profesional perteneciente a los cuerpos docentes del sistema educativo., Art. 165)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 95) desde *(Título V, Capítulo I. Profesorado de formación profesional perteneciente a los cuerpos docentes del sistema educativo., Art. 165)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (Art. 3) desde *(Título V, Capítulo I. Profesorado de formación profesional perteneciente a los cuerpos docentes del sistema educativo., Art. 165)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 85, Art. 95) desde *(Título V, Capítulo I. Profesorado de formación profesional perteneciente a los cuerpos docentes del sistema educativo., Art. 165)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 85, Art. 95) desde *(Título V, Capítulo I. Profesorado de formación profesional perteneciente a los cuerpos docentes del sistema educativo., Art. 165)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 85, Art. 95) desde *(Título V, Capítulo I. Profesorado de formación profesional perteneciente a los cuerpos docentes del sistema educativo., Art. 165)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 85, Art. 95) desde *(Título V, Capítulo I. Profesorado de formación profesional perteneciente a los cuerpos docentes del sistema educativo., Art. 165)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(Título VI, Capítulo II. Organización y gestión del procedimiento., Art. 180)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(Título VII, Art. 192)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 77) desde *(Título VIII, Art. 196)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(Título VIII, Capítulo I. Centros del Sistema de Formación Profesional y autorización administrativa., Art. 197)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 25) desde *(Título VIII, Capítulo I. Centros del Sistema de Formación Profesional y autorización administrativa., Art. 198)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título VIII, Capítulo I. Centros del Sistema de Formación Profesional y autorización administrativa., Art. 199)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título VIII, Capítulo I. Centros del Sistema de Formación Profesional y autorización administrativa., Art. 199)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título VIII, Capítulo I. Centros del Sistema de Formación Profesional y autorización administrativa., Art. 199)*
+- **Cita a**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md) desde *(Título VIII, Capítulo II. Aspectos básicos del régimen de funcionamiento de los centros., Art. 205)*
+- **Cita a**: [**BOE-A-2022-1274**](./RD62_2022_flexibilizacion_requisitos_exigibles_impartir_ofertas_formacion.md) desde *(Título VIII, Capítulo III. Desarrollo de ofertas formativas en los centros., Art. 209)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(Título IX, Capítulo I. Calidad y evaluación del sistema a nivel estatal., Art. 216)*
+- **Cita a**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md) (D. Adicional sexta) desde *(Título X, Capítulo I. Consejo General de la Formación Profesional., Art. 227)*
+- **Cita a**: `norm-es-c-1978` (Art. 229) desde *(Título X, Capítulo II. Comisión Estatal Estratégica de la Formación Profesional., Art. 229)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Adicional sexta. Titulaciones y certificaciones declaradas equivalentes a los efectos de acceso a los grados D títulos de Técnico y Técnico Superior, y grados E (títulos de Especialista y Máster en Formación Profesional).)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Adicional sexta. Titulaciones y certificaciones declaradas equivalentes a los efectos de acceso a los grados D títulos de Técnico y Técnico Superior, y grados E (títulos de Especialista y Máster en Formación Profesional).)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Adicional sexta. Titulaciones y certificaciones declaradas equivalentes a los efectos de acceso a los grados D títulos de Técnico y Técnico Superior, y grados E (títulos de Especialista y Máster en Formación Profesional).)*
+- **Cita a**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Adicional sexta. Titulaciones y certificaciones declaradas equivalentes a los efectos de acceso a los grados D títulos de Técnico y Técnico Superior, y grados E (títulos de Especialista y Máster en Formación Profesional).)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (Art. 3) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Adicional octava. Habilitación del profesorado de Formación Profesional.)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Adicional decimocuarta. Centros de referencia nacional en el ámbito de la formación profesional.)*
+- **Cita a**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Adicional decimocuarta. Centros de referencia nacional en el ámbito de la formación profesional.)*
+- **Cita a**: [**BOE-A-2022-1274**](./RD62_2022_flexibilizacion_requisitos_exigibles_impartir_ofertas_formacion.md) (D. Adicional decimosexta) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Adicional decimoquinta. Personas expertas del sector productivo.)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Adicional decimoquinta. Personas expertas del sector productivo.)*
+- **Cita a**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Adicional decimoquinta. Personas expertas del sector productivo.)*
+- **Cita a**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Transitoria quinta. Transición del sistema de beca a contrato de formación en el régimen de formación profesional intensiva.)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Transitoria sexta. Adaptación del periodo de formación en empresa.)*
+- **Cita a**: [**BOE-A-1988-6938**](../02_gestion_y_administracion_centros/RD104_1988_aplicacion_lo_dispuesto_real_decreto_homologacion.md) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Transitoria octava. Homologación de estudios extranjeros no universitarios de Formación Profesional.)*
+- **Cita a**: [**BOE-A-1988-3987**](../02_gestion_y_administracion_centros/RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Transitoria octava. Homologación de estudios extranjeros no universitarios de Formación Profesional.)*
+- **Cita a**: [**BOE-A-2002-25289**](../02_gestion_y_administracion_centros/RD3305_2002_ecd_modifican_aplicacion_lo_dispuesto_real.md) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Transitoria octava. Homologación de estudios extranjeros no universitarios de Formación Profesional.)*
+- **Cita a**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md) (D. Adicional sexta) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Final primera. Modificación del Real Decreto 1684/1997, de 7 de noviembre, por el que se aprueba el Reglamento de Funcionamiento del Consejo General de Formación Profesional.)*
+- **Cita a**: `norm-es-c-1978` desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., Art. 17)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 44) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 44) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 44) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 44) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 13) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Cita a**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) (Art. 13) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Cita a**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) (Art. 13) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Cita a**: `norm-es-c-1978` (Art. 13) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Final octava. Entrada en vigor.)*
+- **Cita a**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) (Art. 12, Art. 13, Art. 14, Art. 15, Art. 16, Art. 17, Art. 18) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Final octava. Entrada en vigor.)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) desde *(Título X, Capítulo III. Concertación de políticas de formación profesional., D. Final octava. Entrada en vigor.)*

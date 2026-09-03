@@ -27,8 +27,61 @@ tags:
 - titulacion
 relaciones:
   desarrolla:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 32
+    - Art. 27
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VII
+    articulos_origen:
+    - D. Adicional décima. Ampliación de la educación obligatoria.
+  - norma_id: norm-can-d-114-2011
+    titulo_origen: Título VII
+    articulos_origen:
+    - D. Adicional segunda. Entrada en vigor.
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-ce-1978
+  concordancia:
+  - norma_id: norm-can-lo-1-2018
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 1
+  cita:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: 'Capítulo I. Agentes y comunidades educativas: derechos y deberes.'
+    articulos_origen:
+    - Art. 7
+  - norma_id: norm-can-lo-1-2018
+    titulo_origen: Título I
+    capitulo_origen: 'Capítulo I. Agentes y comunidades educativas: derechos y deberes.'
+    articulos_origen:
+    - Art. 7
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Educación permanente.
+    articulos_origen:
+    - Art. 27
+  - norma_id: norm-can-lo-1-2018
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Educación permanente.
+    articulos_origen:
+    - Art. 27
+  - norma_id: norm-es-2002-12018
+    titulo_origen: Título II
+    capitulo_origen: Capítulo II. Las enseñanzas de régimen general.
+    articulos_origen:
+    - Art. 33
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I. Organización y participación social.
+    articulos_origen:
+    - Art. 58
+  - norma_id: norm-can-lo-1-2018
+    titulo_origen: Título IV
+    capitulo_origen: Capítulo I. Organización y participación social.
+    articulos_origen:
+    - Art. 58
   desarrollado_por:
   - norma_id: norm-can-d-109-1999
   - norma_id: norm-can-d-114-2011
@@ -202,11 +255,12 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
+  - norma_id: '27'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2014-152-3511.pdf
 anexos_extraidos_pdf: true
 ocr_procesado: true
 ---
+
 # Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria.
 
 ## Preámbulo
@@ -2147,3 +2201,183 @@ Paulino Rivero Baute.
 - [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md)
 - [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-c-1978` (Art. 32, Art. 27)
+- **Desarrolla**: `norm-es-c-1978` desde *(Título VII, D. Adicional décima. Ampliación de la educación obligatoria.)*
+- **Desarrolla**: [**D114_2011 Decreto de Convivencia Escolar**](../07_convivencia_bienestar_y_protocolos/D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md) desde *(Título VII, D. Adicional segunda. Entrada en vigor.)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamento de**: [**D101_2023 Ordenacion y Curriculo de Educacion Primaria en Canarias**](../03_ordenacion_curricular_y_ensenanzas/D101_2023_establece_ordenacion_curriculo_educacion_primaria_comunidad.md)
+- **Fundamento de**: [**D102_2023 Ordenacion y Curriculo de la ESO en Canarias**](../03_ordenacion_curricular_y_ensenanzas/D102_2023_establece_ordenacion_curriculo_educacion_secundaria_obligatoria.md)
+- **Fundamento de**: [**D103_2023 Ordenacion y Curriculo del Bachillerato en Canarias**](../03_ordenacion_curricular_y_ensenanzas/D103_2023_establece_ordenacion_curriculo_bachillerato_comunidad_autonoma.md)
+- **Fundamento de**: [**D106_2009 Funcion Directiva en Centros Docentes Publicos**](../04_organizacion_escolar_y_funcionamiento/D106_2009_regula_funcion_directiva_centros_docentes_publicos.md)
+- **Fundamento de**: [**D196_2022 Ordenacion y Curriculo de Educacion Infantil en Canarias**](../03_ordenacion_curricular_y_ensenanzas/D196_2022_establece_ordenacion_curriculo_educacion_infantil_comunidad.md)
+- **Fundamento de**: [**D23_1995 Regulacion de la Orientacion Educativa en Canarias**](../06_atencion_diversidad_y_orientacion/D23_1995_regula_orientacion_educativa_comunidad_autonoma_canarias.md)
+- **Fundamento de**: [**D234_1996 Regulacion de AMPAS y Federaciones en Canarias**](../04_organizacion_escolar_y_funcionamiento/D234_1996_regulan_asociaciones_madres_padres_alumnos_federaciones.md)
+- **Fundamento de**: [**D25_2018 Regulacion de la Atencion a la Diversidad en Canarias**](../06_atencion_diversidad_y_orientacion/D25_2018_regula_atencion_diversidad_ambito_ensenanzas_no.md)
+- **Fundamento de**: [**D276_1997 Gestion Economica de Centros Docentes Publicos**](../02_gestion_y_administracion_centros/D276_1997_regula_procedimiento_gestion_economica_centros_docentes.md)
+- **Fundamento de**: [**D52_2009 Reglamento de Ordenacion de la Inspeccion de Educacion**](../04_organizacion_escolar_y_funcionamiento/D52_2009_aprueba_reglamento_ordenacion_inspeccion_educacion_comunidad.md)
+- **Fundamento de**: [**D81_2010 Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
+- **Fundamento de**: [**D84_2024 ROC Consejeria de Educacion Canarias**](./D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Fundamento de**: [**D9_2022 Admision del Alumnado en Canarias**](../05_alumnado_y_servicios_escolares/D9_2022_regula_admision_alumnado_centros_docentes_publicos.md)
+- **Fundamento de**: [**O2_8_2006 Regulacion del Transporte Escolar en Canarias**](../05_alumnado_y_servicios_escolares/O2_8_2006_aprueban_bases_regulan_prestacion_servicio_transporte.md)
+- **Fundamento de**: [**O7_6_2007 Medidas de Atencion a la Diversidad en la Ensenanza Basica**](../06_atencion_diversidad_y_orientacion/O7_6_2007_regulan_medidas_atencion_diversidad_ensenanza_basica.md)
+- **Fundamento de**: [**Resolucion BOC 14**](../02_gestion_y_administracion_centros/R27_10_2021_ordena_publicacion_convenio_marco_cooperacion_entre.md)
+- **Fundamento de**: [**Resolucion BOC 27**](../03_ordenacion_curricular_y_ensenanzas/R10_12_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_oferta.md)
+- **Fundamento de**: [**Resolucion BOC 28**](../03_ordenacion_curricular_y_ensenanzas/R17_4_2026_corrige_error_resolucion_amplian_resolucion_dicta.md)
+- **Fundamento de**: [**Resolucion BOC 30**](../03_ordenacion_curricular_y_ensenanzas/R2_5_2025_resoluci_n_mayo_direcci_n_general.md)
+- **Fundamento de**: [**Resolucion BOC 32**](../03_ordenacion_curricular_y_ensenanzas/R25_2_2026_niveles_ciclos_formativos_grado_medio_ciclos.md)
+- **Fundamento de**: [**Resolucion BOC 33**](../03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados.md)
+- **Fundamento de**: [**Resolucion BOC 34**](../03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_2.md)
+- **Fundamento de**: [**Resolucion BOC 35**](../03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_3.md)
+- **Fundamento de**: [**Resolucion BOC 36**](../03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_4.md)
+- **Fundamento de**: [**Resolucion BOC 37**](../03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_5.md)
+- **Fundamento de**: [**Resolucion BOC 38**](../03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_6.md)
+- **Fundamento de**: [**Resolucion BOC 39**](../03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_7.md)
+- **Fundamento de**: [**Resolucion BOC 40**](../03_ordenacion_curricular_y_ensenanzas/R25_6_2026_dictan_instrucciones_organizacion_funcionamiento_cursos_acceso.md)
+- **Fundamento de**: [**Resolucion BOC 42**](../03_ordenacion_curricular_y_ensenanzas/R26_11_2025_dictan_instrucciones_implantacion_desarrollo_oferta_dobles.md)
+- **Fundamento de**: [**Resolucion BOC 43**](../03_ordenacion_curricular_y_ensenanzas/R29_7_2025_comunidad_autonoma_canarias_celebrar_curso_escolar.md)
+- **Fundamento de**: [**Resolucion BOC 53**](../03_ordenacion_curricular_y_ensenanzas/R19_11_2025_dictan_instrucciones_organizacion_aplicacion_curso.md)
+- **Fundamento de**: [**Resolucion BOC 55**](../03_ordenacion_curricular_y_ensenanzas/R26_6_2025_dictan_instrucciones_especificas_complementarias_curso_organizacion.md)
+- **Fundamento de**: [**Resolucion BOC 59**](../03_ordenacion_curricular_y_ensenanzas/Rsn_numero_convocan_pruebas_obtencion_certificados_nivel.md)
+- **Fundamento de**: [**Resolucion BOC 63**](../03_ordenacion_curricular_y_ensenanzas/R7_4_2025_dictan_instrucciones_planificacion_realizacion_gestion_ambito.md)
+- **Fundamento de**: [**Resolucion BOC 86**](../04_organizacion_escolar_y_funcionamiento/R26_1_2026_modifica_resolucion_establece_calendario_escolar_dicta.md)
+- **Fundamento de**: [**Resolucion BOC 90**](../04_organizacion_escolar_y_funcionamiento/R15_6_2026_convoca_proceso_aprueba_calendario_renovacion_parcial.md)
+- **Fundamento de**: [**Resolucion BOC 95**](../04_organizacion_escolar_y_funcionamiento/R2_12_2025_convoca_procedimiento_seleccion_directores_directoras_centros.md)
+- **Fundamento de**: [**Resolucion BOC 96**](../04_organizacion_escolar_y_funcionamiento/Rsn_de2026_convoca_sistema_libre_designacion_provision.md)
+- **Fundamento de**: [**Resolucion BOC 97**](../04_organizacion_escolar_y_funcionamiento/R11_4_2025_escolarizacion_servicios_complementarios_aprueba_instruccion_ayudas.md)
+- **Fundamento de**: [**Resolucion BOC 98**](../04_organizacion_escolar_y_funcionamiento/R23_2_2026_dictan_instrucciones_tramitacion_electronica_titulos_academicos.md)
+- **Fundamento de**: [**Resolucion BOC 99**](../04_organizacion_escolar_y_funcionamiento/R25_3_2026_aprueba_instruccion_ayudas_prestamo_libros_texto.md)
+- **Fundamento de**: [**Resolucion BOC 110**](../05_alumnado_y_servicios_escolares/R27_2_2026_corrige_error_resolucion_convoca_procedimiento_admision.md)
+- **Fundamento de**: [**Resolucion BOC 112**](../05_alumnado_y_servicios_escolares/R6_3_2026_corrige_error_resolucion_convoca_procedimiento_admision.md)
+- **Fundamento de**: [**Resolucion BOC 118**](../05_alumnado_y_servicios_escolares/R30_4_2026_extracto_resolucion_establece_calendario_instrucciones_complementarias.md)
+- **Fundamento de**: [**Resolucion BOC 119**](../05_alumnado_y_servicios_escolares/R8_8_2025_escolarizacion_servicios_complementarios_aprueban_instrucciones_organizacion.md)
+- **Fundamento de**: [**Resolucion BOC 125**](../07_convivencia_bienestar_y_protocolos/R19_2_2025_establece_protocolo_actuacion_ante_situaciones_acoso.md)
+- **Fundamento de**: [**Resolucion BOC 134**](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md)
+- **Fundamento de**: [**Resolucion BOC 135**](../08_personal_docente/R15_2_2024_determina_procedimiento_acceso_listas_empleo_abiertas.md)
+- **Fundamento de**: [**Resolucion BOC 117**](../05_alumnado_y_servicios_escolares/R15_7_1992_dictan_instrucciones_organizacion_funcionamiento_residencias_escolares.md)
+- **Fundamento de**: `norm-can-res-boc-1994-083-144`
+- **Fundamento de**: `norm-can-res-boc-1996-057-140`
+- **Fundamento de**: `norm-can-res-boc-1998-140-142`
+- **Fundamento de**: `norm-can-res-boc-2002-147-141`
+- **Fundamento de**: [**Resolucion BOC 77**](../03_ordenacion_curricular_y_ensenanzas/R14_10_2002_dictan_instrucciones_realizacion_horas_lectivas_extraordinarias.md)
+- **Fundamento de**: [**Resolucion BOC 76**](../03_ordenacion_curricular_y_ensenanzas/R14_7_2004_dictan_instrucciones_funcionamiento_aulas_mentor.md)
+- **Fundamento de**: [**Resolucion BOC 65**](../03_ordenacion_curricular_y_ensenanzas/R27_7_2004_resolucion_hacen_publicas_instrucciones_dictadas_organizacion.md)
+- **Fundamento de**: `norm-can-res-boc-2005-080-146`
+- **Fundamento de**: `norm-can-res-boc-2007-009-143`
+- **Fundamento de**: `norm-can-res-boc-2007-036-147`
+- **Fundamento de**: [**Resolucion BOC 72**](../03_ordenacion_curricular_y_ensenanzas/R12_5_2011_ver_resolucion_correccion_errores.md)
+- **Fundamento de**: [**Resolucion BOC 58**](../03_ordenacion_curricular_y_ensenanzas/R3_2_2012_dictan_instrucciones_elaboracion_pruebas_comunes_obtencion.md)
+- **Fundamento de**: [**Resolucion BOC 2**](./R20_1_2017_innovacion_promocion_educativa_delega_directora_agencia.md)
+- **Fundamento de**: [**Resolucion BOC 71**](../03_ordenacion_curricular_y_ensenanzas/R8_2_2017_dictan_instrucciones_proceso_evaluacion_ensenanzas_artisticas.md)
+- **Fundamento de**: [**Resolucion BOC 75**](../03_ordenacion_curricular_y_ensenanzas/R4_2_2017_dictan_instrucciones_proceso_evaluacion_ensenanzas_deportivas.md)
+- **Fundamento de**: [**Resolucion BOC 4**](./R16_3_2017_delega_competencia_materia_contratos_menores_material.md)
+- **Fundamento de**: [**Resolucion BOC 1**](./R30_6_2017_dictan_instrucciones_actuacion_centros_docentes_sostenidos.md)
+- **Fundamento de**: [**Resolucion BOC 100**](../05_alumnado_y_servicios_escolares/R28_8_2017_innovacion_promocion_educativa_dictan_instrucciones_tramitacion.md)
+- **Fundamento de**: [**Resolucion BOC 70**](../03_ordenacion_curricular_y_ensenanzas/R6_11_2017_dictan_instrucciones_organizacion_evaluacion_modulos_obra.md)
+- **Fundamento de**: [**Resolucion BOC 5**](../02_gestion_y_administracion_centros/R15_3_2016_resolucion_ordena_publicacion_convenio_colaboracion_entre.md)
+- **Fundamento de**: [**Resolucion BOC 130**](../08_personal_docente/R10_1_2018_dispone_publicacion_boletin_oficial_canarias_acuerdo.md)
+- **Fundamento de**: [**Resolucion BOC 56**](../03_ordenacion_curricular_y_ensenanzas/R27_2_2018_determinan_caracteristicas_pruebas_obtencion_certificado_nivel.md)
+- **Fundamento de**: [**Resolucion BOC 122**](../06_atencion_diversidad_y_orientacion/R8_2_2018_ordena_publicacion_convenio_colaboracion_entre.md)
+- **Fundamento de**: [**Resolucion BOC 114**](../05_alumnado_y_servicios_escolares/R22_5_2018_dictan_instrucciones_concesion_premios_extraordinarios_ensenanzas.md)
+- **Fundamento de**: [**Resolucion BOC 126**](../07_convivencia_bienestar_y_protocolos/R21_6_2018_dictan_instrucciones_organizacion_funcionamiento_dirigidas_centros.md)
+- **Fundamento de**: [**Resolucion BOC 9**](../02_gestion_y_administracion_centros/R25_6_2018_dispone_publicacion_acuerdo_aprueba_instrucciones_conforman.md)
+- **Fundamento de**: [**Resolucion BOC 18**](../02_gestion_y_administracion_centros/R2_11_2018_innovacion_promocion_educativa_dictan_instrucciones_tramitacion.md)
+- **Fundamento de**: [**Resolucion BOC 19**](../02_gestion_y_administracion_centros/R2_11_2018_innovacion_promocion_educativa_dictan_instrucciones_tramitacion_2.md)
+- **Fundamento de**: [**Resolucion BOC 12**](../02_gestion_y_administracion_centros/R9_1_2019_resolucion_crea_sello_electronico.md)
+- **Fundamento de**: [**Resolucion BOC 13**](../02_gestion_y_administracion_centros/R9_1_2019_resolucion_crea_sello_electronico_2.md)
+- **Fundamento de**: [**Resolucion BOC 22**](../02_gestion_y_administracion_centros/R29_1_2019_aprueba_convocatoria_reconocimiento_trayectoria_proyeccion_internacional.md)
+- **Fundamento de**: [**Resolucion BOC 11**](../02_gestion_y_administracion_centros/R21_3_2019_resolucion_crea_sello_electronico.md)
+- **Fundamento de**: [**Resolucion BOC 48**](../03_ordenacion_curricular_y_ensenanzas/R26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md)
+- **Fundamento de**: [**Resolucion BOC 74**](../03_ordenacion_curricular_y_ensenanzas/R10_7_2019_dictan_instrucciones_relativas_procedimiento_reconocimiento_correspondencias.md)
+- **Fundamento de**: [**Resolucion BOC 52**](../03_ordenacion_curricular_y_ensenanzas/R18_11_2019_dictan_instrucciones_evaluacion_pruebas_certificacion_ensenanzas.md)
+- **Fundamento de**: [**Resolucion BOC 131**](../08_personal_docente/R11_6_2020_dictan_instrucciones_organizacion_funcionamiento_curso_especifico.md)
+- **Fundamento de**: [**Resolucion BOC 82**](../03_ordenacion_curricular_y_ensenanzas/R5_11_2020_dictan_instrucciones_organizacion_funcionamiento_niveles_basico.md)
+- **Fundamento de**: [**Resolucion BOC 24**](../02_gestion_y_administracion_centros/R13_3_2015_dictan_instrucciones_oferta_educativa_recursos_escuelas.md)
+- **Fundamento de**: [**Resolucion BOC 3**](./R12_2_2021_delega_direcciones_territoriales_educacion_determinada_competencia.md)
+- **Fundamento de**: [**Resolucion BOC 79**](../03_ordenacion_curricular_y_ensenanzas/R19_5_2021_dictan_instrucciones_organizacion_funcionamiento_curso_especifico.md)
+- **Fundamento de**: [**Resolucion BOC 80**](../03_ordenacion_curricular_y_ensenanzas/R24_5_2021_actualizan_instrucciones_imparticion_cursos_preparacion_pruebas.md)
+- **Fundamento de**: [**Resolucion BOC 31**](../03_ordenacion_curricular_y_ensenanzas/R21_4_2022_dictan_instrucciones_organizacion_funcionamiento_curso_especifico.md)
+- **Fundamento de**: [**Resolucion BOC 7**](../02_gestion_y_administracion_centros/R30_6_2022_agencia_canaria_calidad_universitaria_evaluacion_educativa.md)
+- **Fundamento de**: [**Resolucion BOC 23**](../02_gestion_y_administracion_centros/R10_6_2021_universidades_deportes_establece_composicion_comision_seguimiento.md)
+- **Fundamento de**: [**Resolucion BOC 132**](../08_personal_docente/R27_7_2022_aprueban_nuevos_criterios_dotacion_profesorado_conformidad.md)
+- **Fundamento de**: [**Resolucion BOC 21**](../02_gestion_y_administracion_centros/R28_7_2022_modifica_parcialmente_resolucion_aprueba_publica_normas.md)
+- **Fundamento de**: [**Resolucion BOC 81**](../03_ordenacion_curricular_y_ensenanzas/R28_11_2022_adaptan_documentos_oficiales_evaluacion_educacion_basica.md)
+- **Fundamento de**: [**Resolucion BOC 51**](../03_ordenacion_curricular_y_ensenanzas/R18_4_2023_dictan_instrucciones_organizacion_cursos_especializacion_idiomas.md)
+- **Fundamento de**: [**Resolucion BOC 57**](../03_ordenacion_curricular_y_ensenanzas/R27_6_2023_resoluci_n_junio_direcci_n_general.md)
+- **Fundamento de**: [**Resolucion BOC 109**](../05_alumnado_y_servicios_escolares/R27_2_2024_dgacesc_dictan_instrucciones_proceso_admision_alumnado.md)
+- **Fundamento de**: [**Resolucion BOC 93**](../04_organizacion_escolar_y_funcionamiento/R3_6_2024_resoluci_n_junio.md)
+- **Fundamento de**: [**Resolucion BOC 91**](../04_organizacion_escolar_y_funcionamiento/R20_6_2024_resoluci_n_junio.md)
+- **Fundamento de**: [**Resolucion BOC 44**](../03_ordenacion_curricular_y_ensenanzas/R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md)
+- **Fundamento de**: [**Resolucion BOC 25**](../03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
+- **Fundamento de**: [**Resolucion BOC 104**](../05_alumnado_y_servicios_escolares/R17_2_2025_escolarizacion_servicios_complementarios_dictan_instrucciones_especificas.md)
+- **Fundamento de**: [**Resolucion BOC 89**](../04_organizacion_escolar_y_funcionamiento/R20_2_2025_escolarizacion_servicios_complementarios_establece_calendario_escolar.md)
+- **Fundamento de**: [**Resolucion BOC 47**](../03_ordenacion_curricular_y_ensenanzas/R21_2_2025_dictan_instrucciones_implantacion_itinerarios_formativos_formacion.md)
+- **Fundamento de**: [**Resolucion BOC 107**](../05_alumnado_y_servicios_escolares/R24_2_2025_convoca_procedimiento_admision_alumnado_ciclos_formativos.md)
+- **Fundamento de**: [**Resolucion BOC 108**](../05_alumnado_y_servicios_escolares/R24_2_2025_dictan_instrucciones_proceso_admision_alumnado_ciclos.md)
+- **Fundamento de**: [**Resolucion BOC 106**](../05_alumnado_y_servicios_escolares/R18_3_2025_corrigen_errores_instrucciones_proceso_admision_alumnado.md)
+- **Fundamento de**: [**Resolucion BOC 88**](../04_organizacion_escolar_y_funcionamiento/R19_3_2025_escolarizacion_servicios_complementarios_corrige_error_resolucion.md)
+- **Fundamento de**: [**Resolucion BOC 137**](../08_personal_docente/R29_4_2025_adoptan_medidas_necesarias_aplicacion_acuerdo_modifica.md)
+- **Fundamento de**: [**Resolucion BOC 46**](../03_ordenacion_curricular_y_ensenanzas/R9_6_2025_dictan_instrucciones_respecto_proceso_evaluacion_ciclos.md)
+- **Fundamento de**: [**Resolucion BOC 105**](../05_alumnado_y_servicios_escolares/R18_2_2026_dgacesc_corrige_error_resolucion_convoca_procedimiento.md)
+- **Fundamento de**: [**Resolucion BOC 102**](../05_alumnado_y_servicios_escolares/R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md)
+- **Fundamento de**: [**Resolucion BOC 103**](../05_alumnado_y_servicios_escolares/R13_2_2026_dictan_instrucciones_proceso_admision_alumnado_ciclos.md)
+- **Fundamento de**: [**Resolucion BOC 111**](../05_alumnado_y_servicios_escolares/R5_2_2026_dgacesc_convoca_procedimiento_admision_alumnado_centros.md)
+- **Fundamento de**: [**Resolucion BOC 139**](../08_personal_docente/R24_2_2026_dictan_instrucciones_regulacion_periodo_vacacional_regimen.md)
+- **Fundamento de**: [**Resolucion BOC 61**](../03_ordenacion_curricular_y_ensenanzas/R_e_innovacion_dictan_instrucciones_regular.md)
+- **Fundamento de**: [**Resolucion BOC 115**](../05_alumnado_y_servicios_escolares/R26_3_2026_convocan_premios_extraordinarios_bachillerato_ambito_comunidad.md)
+- **Fundamento de**: [**Resolucion BOC 116**](../05_alumnado_y_servicios_escolares/R26_3_2026_convocan_premios_extraordinarios_educacion_secundaria_obligatoria.md)
+- **Fundamento de**: [**Resolucion BOC 41**](../03_ordenacion_curricular_y_ensenanzas/R26_3_2026_amplian_resolucion_dicta_instrucciones_orientaciones_implantacion.md)
+- **Fundamento de**: [**Resolucion BOC 113**](../05_alumnado_y_servicios_escolares/R8_4_2026_corrige_resolucion_dicta_instrucciones_proceso_admision.md)
+- **Fundamento de**: [**Resolucion BOC 85**](../04_organizacion_escolar_y_funcionamiento/R10_4_2026_corrige_error_resolucion_mazo_establece_calendario.md)
+- **Fundamento de**: [**Resolucion BOC 49**](../03_ordenacion_curricular_y_ensenanzas/R10_4_2026_convocan_pruebas_certificacion_ensenanzas_idiomas_regimen.md)
+- **Fundamento de**: [**Resolucion BOC 62**](../03_ordenacion_curricular_y_ensenanzas/R14_4_2026_dictan_instrucciones_planificacion_realizacion_gestion_ambito.md)
+- **Fundamento de**: [**Resolucion BOC 92**](../04_organizacion_escolar_y_funcionamiento/R26_5_2026_resoluci_n_mayo.md)
+- **Fundamento de**: [**Resolucion BOC 87**](../04_organizacion_escolar_y_funcionamiento/R29_5_2026_dictan_instrucciones_especificas_complementarias_curso_organizacion.md)
+- **Fundamento de**: [**Resolucion BOC 26**](../03_ordenacion_curricular_y_ensenanzas/R16_6_2026_ordena_publicacion_protocolo_general_actuacion_entre.md)
+- **Fundamento de**: [**Resolucion BOC 101**](../05_alumnado_y_servicios_escolares/R24_6_2026_corrige_resolucion_dicta_instrucciones_proceso_admision.md)
+- **Fundamento de**: [**Resolucion BOC 29**](../03_ordenacion_curricular_y_ensenanzas/R2_7_2026_modifican_cuadros_horarios_establecidos_resoluciones_dictan.md)
+- **Fundamento de**: [**Resolucion BOC 15**](../02_gestion_y_administracion_centros/R9_5_1995_autorizan_determinados_ingresos_fijan_precios_maximos.md)
+- **Fundamento de**: [**Resolucion BOC 127**](../08_personal_docente/R15_5_1998_establecen_criterios_reconocimiento_certificacion_actividades_formacion.md)
+- **Fundamento de**: [**Resolucion BOC 129**](../08_personal_docente/R14_10_2002_dictan_instrucciones_realizacion_horas_lectivas_extraordinarias.md)
+- **Fundamento de**: [**Resolucion BOC 84**](../03_ordenacion_curricular_y_ensenanzas/R9_7_2004_hace_publico_reglamento_regula_universidad_palmas.md)
+- **Fundamento de**: [**Resolucion BOC 54**](../03_ordenacion_curricular_y_ensenanzas/R23_7_2004_dictan_instrucciones_organizacion_funcionamiento_escuelas_oficiales.md)
+- **Fundamento de**: [**Resolucion BOC 83**](../03_ordenacion_curricular_y_ensenanzas/R7_11_2006_hacen_publicas_modificaciones_reglamento_regula_universidad.md)
+- **Fundamento de**: [**Resolucion BOC 8**](../02_gestion_y_administracion_centros/R20_11_2007_inspeccion_general_servicios_resolucion_publica_protocolo.md)
+- **Fundamento de**: [**Resolucion BOC 128**](../08_personal_docente/R23_3_2009_determinan_zonas_actuacion_red_publica_centros.md)
+- **Fundamento de**: [**Resolucion BOC 20**](../02_gestion_y_administracion_centros/R28_7_2010_modifica_modelo_ha_ajustarse_certificacion_acuerdo.md)
+- **Fundamento de**: [**Resolucion BOC 138**](../08_personal_docente/R10_8_2005_relativa_deposito_registro_publicacion_acuerdo_ratifica.md)
+- **Fundamento de**: [**Resolucion BOC 121**](../06_atencion_diversidad_y_orientacion/R9_2_2011_dictan_instrucciones_procedimientos_plazos_atencion_educativa.md)
+- **Fundamento de**: [**Resolucion BOC 10**](../02_gestion_y_administracion_centros/R28_2_2011_justicia_seguridad_actualiza_direccion_electronica_acceso.md)
+- **Fundamento de**: [**Resolucion BOC 68**](../03_ordenacion_curricular_y_ensenanzas/R25_5_2011_dictan_instrucciones_organizacion_desarrollo_pruebas_acceso.md)
+- **Fundamento de**: [**Resolucion BOC 66**](../03_ordenacion_curricular_y_ensenanzas/R2_6_2011_corrigen_errores_materiales_resolucion_dicta_instrucciones.md)
+- **Fundamento de**: [**Resolucion BOC 94**](../04_organizacion_escolar_y_funcionamiento/R12_1_2012_dictan_instrucciones_procedimiento_establecen_indicadores_evaluacion.md)
+- **Fundamento de**: [**Resolucion BOC 120**](../06_atencion_diversidad_y_orientacion/R19_12_2013_resolucion_dic_innovacion_promocion_educativa_universidades.md)
+- **Fundamento de**: [**Resolucion BOC 50**](../03_ordenacion_curricular_y_ensenanzas/R14_1_2014_determinan_caracteristicas_pruebas_comunes_obtencion_certificado.md)
+- **Fundamento de**: [**Resolucion BOC 16**](../02_gestion_y_administracion_centros/R11_9_2014_infancia_familia_resolucion_establecen_instrucciones_ordenes.md)
+- **Fundamento de**: [**Resolucion BOC 78**](../03_ordenacion_curricular_y_ensenanzas/R18_2_2015_dispone_publicacion_reglamento_acceso_universidad_laguna.md)
+- **Fundamento de**: [**Resolucion BOC 60**](../03_ordenacion_curricular_y_ensenanzas/R13_5_2015_innovacion_promocion_educativa_universidades_sostenibilidad_establecen.md)
+- **Fundamento de**: [**Resolucion BOC 123**](../06_atencion_diversidad_y_orientacion/R28_5_2015_ordena_publicacion_convenio_colaboracion_entre_universidades.md)
+- **Fundamento de**: [**Resolucion BOC 69**](../03_ordenacion_curricular_y_ensenanzas/R27_11_2015_dictan_instrucciones_realizacion_trabajo_fin_estudios.md)
+- **Fundamento de**: [**Resolucion BOC 67**](../03_ordenacion_curricular_y_ensenanzas/R20_4_2016_dictan_instrucciones_realizacion_practicas_externas_estudiantes.md)
+- **Fundamento de**: [**Resolucion BOC 17**](../02_gestion_y_administracion_centros/R2_3_2017_innovacion_promocion_educativa_establecen_procedimientos_administrativos.md)
+- **Fundamento de**: [**Resolucion BOC 6**](../02_gestion_y_administracion_centros/R24_2_2017_resolucion_crea_sello_electronico_innovacion_promocion.md)
+- **Fundamento de**: [**Resolucion BOC 136**](../08_personal_docente/R25_5_2017_regula_programa_mejora_estabilidad_claustros_docentes.md)
+- **En concordancia con**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md) desde *(Título Preliminar, Art. 1)*
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Capítulo I. Agentes y comunidades educativas: derechos y deberes., Art. 7)*
+- **Cita a**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md) desde *(Título I, Capítulo I. Agentes y comunidades educativas: derechos y deberes., Art. 7)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo I. Educación permanente., Art. 27)*
+- **Cita a**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md) desde *(Título II, Capítulo I. Educación permanente., Art. 27)*
+- **Cita a**: [**BOE-A-2002-12018**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md) desde *(Título II, Capítulo II. Las enseñanzas de régimen general., Art. 33)*
+- **Cita a**: `norm-es-c-1978` desde *(Título IV, Capítulo I. Organización y participación social., Art. 58)*
+- **Cita a**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md) desde *(Título IV, Capítulo I. Organización y participación social., Art. 58)*

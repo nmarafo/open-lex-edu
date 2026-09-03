@@ -28,7 +28,68 @@ tags:
 - oposiciones
 - titulacion
 relaciones:
+  modifica:
+  - norma_id: norm-es-lo-2-2006
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VI
+  - norma_id: norm-es-2021-20113
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VI
+  - norma_id: norm-es-2010-12201
+    titulo_destino: Título I
+    capitulo_destino: Capítulo VI
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 47
+    - Art. 20
+    - Art. 9
+    disposiciones_destino:
+    - D. Adicional cuarta
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 47
+    - Art. 20
+    - Art. 9
+    disposiciones_destino:
+    - D. Adicional cuarta
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 47
+    - Art. 20
+    - Art. 9
+    disposiciones_destino:
+    - D. Adicional cuarta
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 85
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 85
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 85
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Adicional segunda. Otras convalidaciones.
+    articulos_destino:
+    - Art. 20
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Adicional segunda. Otras convalidaciones.
+    articulos_destino:
+    - Art. 20
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Adicional segunda. Otras convalidaciones.
+    articulos_destino:
+    - Art. 20
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final primera. Título competencial.
+    articulos_destino:
+    - Art. 149
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-ce-1978
@@ -36,11 +97,12 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '1'
-  - '2'
+  - norma_id: '1'
+  - norma_id: '2'
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
 ---
+
 # Real Decreto 242/2009, de 27 de febrero, por el que se establecen convalidaciones entre las enseñanzas profesionales de Música y de Danza y la Educación secundaria obligatoria y el Bachillerato, así como los efectos que sobre la materia de Educación física deben tener la condición de deportista de alto nivel o alto rendimiento y las enseñanzas profesionales de Danza.
 
 ## Preámbulo
@@ -362,3 +424,27 @@ Literatura universal.
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título I, Capítulo VI)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título I, Capítulo VI)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título I, Capítulo VI)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 47, Art. 20, Art. 9, D. Adicional cuarta)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 47, Art. 20, Art. 9, D. Adicional cuarta)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 47, Art. 20, Art. 9, D. Adicional cuarta)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 85)
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 85)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 85)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 20) desde *(D. Adicional segunda. Otras convalidaciones.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 20) desde *(D. Adicional segunda. Otras convalidaciones.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 20) desde *(D. Adicional segunda. Otras convalidaciones.)*
+- **Fundamentado en**: `norm-es-c-1978`
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(D. Final primera. Título competencial.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)

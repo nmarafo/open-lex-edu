@@ -24,7 +24,43 @@ tags:
 - servicios-complementarios
 - titulacion
 relaciones:
+  cita:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. Derechos y libertades de los extranjeros.
+    articulos_origen:
+    - Art. 3
+    titulo_destino: Título I
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. Derechos y libertades de los extranjeros.
+    articulos_origen:
+    - Art. 5
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título IV
+    articulos_origen:
+    - D. Final cuarta. Artículos no orgánicos.
+    articulos_destino:
+    - Art. 10
+    - Art. 12
+    - Art. 13
+    - Art. 14
+    - Art. 149
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I. Derechos y libertades de los extranjeros.
+    articulos_origen:
+    - Art. 7
+    articulos_destino:
+    - Art. 21
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo IV. De las medidas antidiscriminatorias.
+    articulos_origen:
+    - Art. 22
+    articulos_destino:
+    - Art. 53
   - norma_id: norm-es-ce-1978
   fundamento_de:
   - norma_id: norm-es-2012-8745
@@ -37,13 +73,12 @@ relaciones:
   - norma_id: norm-es-lo-10-2022
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-rd-659-2023
-  - norma_id: norm-can-res-boc-2026-039-103
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
+  - norma_id: '27'
 ---
+
 # Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.
 
 ## Preámbulo
@@ -770,3 +805,25 @@ JOSÉ MARÍA AZNAR LÓPEZ
 ### Fundamentos de Derecho
 
 - [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Fundamentado en**: `norm-es-c-1978` (Art. 21) desde *(Título I, Capítulo I. Derechos y libertades de los extranjeros., Art. 7)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 53) desde *(Título I, Capítulo IV. De las medidas antidiscriminatorias., Art. 22)*
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
+- **Fundamento de**: [**BOE-A-2012-8745**](../08_personal_docente/L2_2012_presupuestos_generales_estado_ano.md)
+- **Fundamento de**: [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md)
+- **Fundamento de**: [**BOE-A-2015-8222**](./LO8_2015_modificacion_sistema_proteccion_infancia_adolescencia.md)
+- **Fundamento de**: [**BOE-A-2015-8470**](./L26_2015_modificacion_sistema_proteccion_infancia_adolescencia.md)
+- **Fundamento de**: [**BOE-A-2022-11589**](../07_convivencia_bienestar_y_protocolos/L15_2022_integral_igualdad_trato_no_discriminacion.md)
+- **Fundamento de**: [**BOE-A-2024-11613**](../03_ordenacion_curricular_y_ensenanzas/L1_2024_regulan_ensenanzas_artisticas_superiores_establece_organizacion.md)
+- **Fundamento de**: [**L40_2015 Regimen Juridico del Sector Publico**](./L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamento de**: [**LO10_2022 Garantia Integral de la Libertad Sexual**](../07_convivencia_bienestar_y_protocolos/LO10_2022_garantia_integral_libertad_sexual.md)
+- **Fundamento de**: [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **Cita a**: `norm-es-c-1978` (Título I) desde *(Título I, Capítulo I. Derechos y libertades de los extranjeros., Art. 3)*
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Capítulo I. Derechos y libertades de los extranjeros., Art. 5)*
+- **Cita a**: `norm-es-c-1978` (Art. 10, Art. 12, Art. 13, Art. 14, Art. 149) desde *(Título IV, D. Final cuarta. Artículos no orgánicos.)*

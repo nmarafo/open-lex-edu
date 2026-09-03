@@ -30,7 +30,194 @@ tags:
 - titulacion
 - transparencia
 relaciones:
+  desarrolla:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-es-lo-8-2021
+    titulo_origen: Título X
+    articulos_origen:
+    - D. Final decimoquinta. Desarrollo normativo.
+  concordancia:
+  - norma_id: norm-es-1999-23750
+  cita:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-es-1999-23750
+    disposiciones_destino:
+    - D. Transitoria cuarta
+  - norma_id: norm-es-l-40-2015
+    titulo_destino: Título VII
+  - norma_id: norm-es-1999-23750
+    articulos_destino:
+    - Art. 83
+    - Art. 45
+  - norma_id: norm-es-c-1978
+    titulo_destino: Título X
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 1
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-es-l-40-2015
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo I. La Agencia Española de Protección de Datos.
+    seccion_origen: Sección 1. ª Disposiciones generales
+    articulos_origen:
+    - Art. 44
+  - norma_id: norm-es-rdl-5-2015
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo I. La Agencia Española de Protección de Datos.
+    seccion_origen: Sección 1. ª Disposiciones generales
+    articulos_origen:
+    - Art. 46
+  - norma_id: norm-es-rdleg-5-2015
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo I. La Agencia Española de Protección de Datos.
+    seccion_origen: Sección 1. ª Disposiciones generales
+    articulos_origen:
+    - Art. 46
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título X
+    articulos_origen:
+    - Art. 79
+  - norma_id: norm-es-l-19-2013
+    titulo_origen: Título X
+    articulos_origen:
+    - D. Adicional segunda. Protección de datos y transparencia y acceso a la información
+      pública.
+    titulo_destino: Título I
+    articulos_destino:
+    - Art. 5
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título X
+    articulos_origen:
+    - D. Adicional séptima. Identificación de los interesados en las notificaciones
+      por medio de anuncios y publicaciones de actos administrativos.
+    articulos_destino:
+    - Art. 44
+  - norma_id: norm-es-l-31-1995
+    titulo_origen: Título X
+    articulos_origen:
+    - D. Adicional decimoquinta. Requerimiento de información por parte de la Comisión
+      Nacional del Mercado de Valores.
+  - norma_id: norm-es-2013-12632
+    titulo_origen: Título X
+    articulos_origen:
+    - D. Adicional decimoquinta. Requerimiento de información por parte de la Comisión
+      Nacional del Mercado de Valores.
+  - norma_id: norm-es-l-40-2015
+    titulo_origen: Título X
+    articulos_origen:
+    - D. Adicional decimoquinta. Requerimiento de información por parte de la Comisión
+      Nacional del Mercado de Valores.
+    articulos_destino:
+    - Art. 50
+  - norma_id: norm-es-l-40-2015
+    titulo_origen: Título X
+    articulos_origen:
+    - D. Adicional decimoquinta. Requerimiento de información por parte de la Comisión
+      Nacional del Mercado de Valores.
+    articulos_destino:
+    - Art. 85
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título X
+    articulos_origen:
+    - D. Transitoria segunda. Códigos tipo inscritos en las autoridades de protección
+      de datos conforme a la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md),
+      de 13 de diciembre, de Protección de Datos de Carácter Personal.
+    disposiciones_destino:
+    - D. Transitoria segunda
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título X
+    articulos_origen:
+    - D. Transitoria tercera. Régimen transitorio de los procedimientos.
+    titulo_destino: Título IX
+    capitulo_destino: Capítulo III
+    seccion_destino: Sección 2.ª
+  - norma_id: norm-es-2008-979
+    titulo_origen: Título X
+    articulos_origen:
+    - D. Transitoria tercera. Régimen transitorio de los procedimientos.
+    titulo_destino: Título IX
+    capitulo_destino: Capítulo III
+    seccion_destino: Sección 2.ª
+  - norma_id: norm-es-rdl-2-2015
+    titulo_origen: Título X
+    articulos_origen:
+    - Art. 20 bis
+  - norma_id: norm-es-rdl-5-2015
+    titulo_origen: Título X
+    articulos_origen:
+    - D. Final decimocuarta. Modificación del texto refundido de la Ley del Estatuto
+      Básico del Empleado Público.
+  - norma_id: norm-es-rdleg-5-2015
+    titulo_origen: Título X
+    articulos_origen:
+    - D. Final decimocuarta. Modificación del texto refundido de la Ley del Estatuto
+      Básico del Empleado Público.
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    titulo_destino: Título I
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    articulos_origen:
+    - Art. 1
+    articulos_destino:
+    - Art. 18
+  - norma_id: norm-es-l-40-2015
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo I. La Agencia Española de Protección de Datos.
+    seccion_origen: Sección 1. ª Disposiciones generales
+    articulos_origen:
+    - Art. 44
+    articulos_destino:
+    - Art. 109
+  - norma_id: norm-es-l-40-2015
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo I. La Agencia Española de Protección de Datos.
+    seccion_origen: Sección 1. ª Disposiciones generales
+    articulos_origen:
+    - Art. 45
+    articulos_destino:
+    - Art. 63
+    - Art. 110
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título X
+    articulos_origen:
+    - D. Final segunda. Título competencial.
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título X
+    articulos_origen:
+    - D. Final segunda. Título competencial.
+    articulos_destino:
+    - Art. 87
+    - Art. 88
+    - Art. 89
+    - Art. 90
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título X
+    articulos_origen:
+    - D. Final segunda. Título competencial.
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Adicional quinta
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título X
+    articulos_origen:
+    - D. Final segunda. Título competencial.
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Adicional tercera
   - norma_id: norm-es-1999-23750
   - norma_id: norm-es-2008-979
   - norma_id: norm-es-2010-12201
@@ -40,11 +227,121 @@ relaciones:
   - norma_id: norm-es-l-19-2013
   - norma_id: norm-es-l-31-1995
   - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-l-40-2015
   - norma_id: norm-es-lo-1-1996
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-rdl-2-2015
   - norma_id: norm-es-rdl-5-2015
+  modifica:
+  - norma_id: norm-es-1999-23750
+    articulos_destino:
+    - Art. 23
+    - Art. 24
+    - Art. 95
+    - Art. 15
+    - Art. 16
+    - Art. 17
+    - Art. 18
+    - Art. 19
+    - Art. 20
+    - Art. 21
+    - Art. 22
+    disposiciones_destino:
+    - D. Adicional decimocuarta
+  - norma_id: norm-es-l-19-2013
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-lo-1-1996
+    titulo_origen: Título X
+    articulos_origen:
+    - Art. 84
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título X
+    articulos_origen:
+    - D. Adicional decimocuarta. Normas dictadas en desarrollo del artículo 13 de
+      la Directiva 95/46/CE.
+    articulos_destino:
+    - Art. 13
+    - Art. 23
+    - Art. 24
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título X
+    articulos_origen:
+    - D. Transitoria quinta. Contratos de encargado del tratamiento.
+    articulos_destino:
+    - Art. 12
+    - Art. 28
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título X
+    articulos_origen:
+    - D. Final décima. Modificación de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación.
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título X
+    articulos_origen:
+    - D. Final décima. Modificación de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación.
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título X
+    articulos_origen:
+    - D. Final décima. Modificación de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación.
+  - norma_id: norm-es-lo-2-2006
+    titulo_origen: Título X
+    articulos_origen:
+    - D. Final décima. Modificación de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación.
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-2021-20113
+    titulo_origen: Título X
+    articulos_origen:
+    - D. Final décima. Modificación de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación.
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-2010-12201
+    titulo_origen: Título X
+    articulos_origen:
+    - D. Final décima. Modificación de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+      de 3 de mayo, de Educación.
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-l-19-2013
+    titulo_origen: Título X
+    articulos_origen:
+    - D. Final undécima. Modificación de la [Ley 19/2013](../01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md),
+      de 9 de diciembre, de transparencia, acceso a la información pública y buen
+      gobierno.
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título X
+    articulos_origen:
+    - D. Final duodécima. Modificación de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md),
+      de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones
+      Públicas.
+  - norma_id: norm-es-l-39-2015
+    titulo_origen: Título X
+    articulos_origen:
+    - D. Final duodécima. Modificación de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md),
+      de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones
+      Públicas.
+    articulos_destino:
+    - Art. 28
+  deroga:
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título X
+    articulos_origen:
+    - D. Transitoria cuarta. Tratamientos sometidos a la Directiva (UE) 2016/680.
+    articulos_destino:
+    - Art. 22
+  - norma_id: norm-es-1999-23750
+    titulo_origen: Título X
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
+    disposiciones_destino:
+    - D. Adicional decimocuarta
+    - D. Transitoria cuarta
   fundamento_de:
   - norma_id: norm-es-2007-19814
   - norma_id: norm-es-2008-979
@@ -58,20 +355,10 @@ relaciones:
   - norma_id: norm-es-rd-217-2022
   - norma_id: norm-es-rd-243-2022
   - norma_id: norm-es-rd-659-2023
-  - norma_id: norm-can-o-2023-09-28
-  - norma_id: norm-can-res-boc-2026-129-26
-  - norma_id: norm-can-res-125
-  - norma_id: norm-can-res-boc-2026-039-111
-  - norma_id: norm-can-res-099
-  - norma_id: norm-can-res-014
-  - norma_id: norm-can-res-097
-  - norma_id: norm-can-res-boc-2024-230-25
-  desarrollado_por: []
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '18.4'
-  - norma_id: norm-can-l-16-2003
+  - norma_id: '18.4'
   - norma_id: norm-es-l-19-2013
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
@@ -86,6 +373,7 @@ relaciones:
   - norma_id: norm-es-2013-12632
   - norma_id: norm-es-rdl-2-2015
 ---
+
 # Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
 
 ## Preámbulo
@@ -2088,3 +2376,87 @@ PEDRO SÁNCHEZ PÉREZ-CASTEJÓN
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md)
 - [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-c-1978` (Art. 18)
+- **Desarrolla**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md) desde *(Título X, D. Final decimoquinta. Desarrollo normativo.)*
+- **Modifica**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 23, Art. 24, Art. 95, Art. 15, Art. 16, Art. 17, Art. 18, Art. 19, Art. 20, Art. 21, Art. 22, D. Adicional decimocuarta)
+- **Modifica**: [**L19_2013 Transparencia y Buen Gobierno**](../01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md)
+- **Modifica**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Modifica**: [**LO1_1996 Proteccion Juridica del Menor**](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md) desde *(Título X, Art. 84)*
+- **Modifica**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 13, Art. 23, Art. 24) desde *(Título X, D. Adicional decimocuarta. Normas dictadas en desarrollo del artículo 13 de la Directiva 95/46/CE.)*
+- **Modifica**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 12, Art. 28) desde *(Título X, D. Transitoria quinta. Contratos de encargado del tratamiento.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título X, D. Final décima. Modificación de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título X, D. Final décima. Modificación de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título X, D. Final décima. Modificación de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 2) desde *(Título X, D. Final décima. Modificación de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 2) desde *(Título X, D. Final décima. Modificación de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 2) desde *(Título X, D. Final décima. Modificación de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**L19_2013 Transparencia y Buen Gobierno**](../01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md) desde *(Título X, D. Final undécima. Modificación de la [Ley 19/2013](../01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md), de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.)*
+- **Modifica**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) desde *(Título X, D. Final duodécima. Modificación de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.)*
+- **Modifica**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 28) desde *(Título X, D. Final duodécima. Modificación de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.)*
+- **Deroga**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 22) desde *(Título X, D. Transitoria cuarta. Tratamientos sometidos a la Directiva (UE) 2016/680.)*
+- **Deroga**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (D. Adicional decimocuarta, D. Transitoria cuarta) desde *(Título X, D. Derogatoria única. Derogación normativa.)*
+- **Fundamentado en**: `norm-es-c-1978` (Título I, Art. 18)
+- **Fundamentado en**: `norm-es-c-1978` (Art. 18) desde *(Título I, Art. 1)*
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 109) desde *(Título VI, Capítulo I. La Agencia Española de Protección de Datos., Art. 44)*
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 63, Art. 110) desde *(Título VI, Capítulo I. La Agencia Española de Protección de Datos., Art. 45)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Título X, D. Final segunda. Título competencial.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 87, Art. 88, Art. 89, Art. 90, Art. 149) desde *(Título X, D. Final segunda. Título competencial.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, D. Adicional quinta) desde *(Título X, D. Final segunda. Título competencial.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, D. Adicional tercera) desde *(Título X, D. Final segunda. Título competencial.)*
+- **Fundamentado en**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md)
+- **Fundamentado en**: [**BOE-A-2008-979**](./LO1720_2007_aprueba_reglamento_desarrollo_ley_organica_proteccion.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L19_2013 Transparencia y Buen Gobierno**](../01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md)
+- **Fundamentado en**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](./L31_1995_prevencion_riesgos_laborales.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamento de**: [**BOE-A-2007-19814**](../01_marco_normativo_general_y_organico/L37_2007_reutilizacion_informacion_sector_publico.md)
+- **Fundamento de**: [**BOE-A-2008-979**](./LO1720_2007_aprueba_reglamento_desarrollo_ley_organica_proteccion.md)
+- **Fundamento de**: [**BOE-A-2021-11382**](../07_convivencia_bienestar_y_protocolos/L2_2021_igualdad_social_no_discriminacion_razon_identidad.md)
+- **Fundamento de**: [**BOE-A-2025-2039**](../03_ordenacion_curricular_y_ensenanzas/RD69_2025_desarrollan_elementos_integrantes_instrumentos_gestion_sistema.md)
+- **Fundamento de**: [**BOE-A-2026-12038**](../03_ordenacion_curricular_y_ensenanzas/RD452_2026_establece_ordenacion_ensenanzas_profesionales_artes_plasticas.md)
+- **Fundamento de**: [**L19_2013 Transparencia y Buen Gobierno**](../01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md)
+- **Fundamento de**: [**LO10_2022 Garantia Integral de la Libertad Sexual**](../07_convivencia_bienestar_y_protocolos/LO10_2022_garantia_integral_libertad_sexual.md)
+- **Fundamento de**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Fundamento de**: [**RD157_2022 Ensenanzas Minimas de Educacion Primaria**](../03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md)
+- **Fundamento de**: [**RD217_2022 Ordenacion y Ensenanzas Minimas de la ESO**](../03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md)
+- **Fundamento de**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md)
+- **Fundamento de**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **En concordancia con**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md)
+- **Cita a**: `norm-es-c-1978` (Art. 18)
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (D. Transitoria cuarta)
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Título VII)
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 83, Art. 45)
+- **Cita a**: `norm-es-c-1978` (Título X)
+- **Cita a**: `norm-es-c-1978` (Art. 18) desde *(Título I, Art. 1)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) desde *(Título VI, Capítulo I. La Agencia Española de Protección de Datos., Art. 44)*
+- **Cita a**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md) desde *(Título VI, Capítulo I. La Agencia Española de Protección de Datos., Art. 46)*
+- **Cita a**: `norm-es-rdleg-5-2015` desde *(Título VI, Capítulo I. La Agencia Española de Protección de Datos., Art. 46)*
+- **Cita a**: `norm-es-c-1978` desde *(Título X, Art. 79)*
+- **Cita a**: [**L19_2013 Transparencia y Buen Gobierno**](../01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md) (Título I, Art. 5) desde *(Título X, D. Adicional segunda. Protección de datos y transparencia y acceso a la información pública.)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 44) desde *(Título X, D. Adicional séptima. Identificación de los interesados en las notificaciones por medio de anuncios y publicaciones de actos administrativos.)*
+- **Cita a**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](./L31_1995_prevencion_riesgos_laborales.md) desde *(Título X, D. Adicional decimoquinta. Requerimiento de información por parte de la Comisión Nacional del Mercado de Valores.)*
+- **Cita a**: [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md) desde *(Título X, D. Adicional decimoquinta. Requerimiento de información por parte de la Comisión Nacional del Mercado de Valores.)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 50) desde *(Título X, D. Adicional decimoquinta. Requerimiento de información por parte de la Comisión Nacional del Mercado de Valores.)*
+- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 85) desde *(Título X, D. Adicional decimoquinta. Requerimiento de información por parte de la Comisión Nacional del Mercado de Valores.)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (D. Transitoria segunda) desde *(Título X, D. Transitoria segunda. Códigos tipo inscritos en las autoridades de protección de datos conforme a la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal.)*
+- **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Título IX, Capítulo III, Sección 2.ª) desde *(Título X, D. Transitoria tercera. Régimen transitorio de los procedimientos.)*
+- **Cita a**: [**BOE-A-2008-979**](./LO1720_2007_aprueba_reglamento_desarrollo_ley_organica_proteccion.md) (Título IX, Capítulo III, Sección 2.ª) desde *(Título X, D. Transitoria tercera. Régimen transitorio de los procedimientos.)*
+- **Cita a**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md) desde *(Título X, Art. 20 bis)*
+- **Cita a**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md) desde *(Título X, D. Final decimocuarta. Modificación del texto refundido de la Ley del Estatuto Básico del Empleado Público.)*
+- **Cita a**: `norm-es-rdleg-5-2015` desde *(Título X, D. Final decimocuarta. Modificación del texto refundido de la Ley del Estatuto Básico del Empleado Público.)*

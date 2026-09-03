@@ -23,14 +23,338 @@ tags:
 - marco-normativo-general
 - oposiciones
 relaciones:
+  cita:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VII
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - D. Final . [Firma].
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 3
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título Preliminar
+    articulos_origen:
+    - Art. 6
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 9
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II
+    articulos_origen:
+    - Art. 32
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II
+    articulos_origen:
+    - Art. 35
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III
+    articulos_origen:
+    - Art. 37
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III
+    articulos_origen:
+    - Art. 37
+    articulos_destino:
+    - Art. 138
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 43
+    articulos_destino:
+    - Art. 87
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 43
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo VI
+    articulos_origen:
+    - Art. 58
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo VI
+    articulos_origen:
+    - Art. 59
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    articulos_origen:
+    - Art. 64
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 65
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 67
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 94
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II
+    articulos_origen:
+    - Art. 106
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II
+    articulos_origen:
+    - Art. 109
+    articulos_destino:
+    - Art. 36
+    - Art. 52
+    - Art. 139
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II
+    articulos_origen:
+    - Art. 109
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II
+    articulos_origen:
+    - Art. 110
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II
+    articulos_origen:
+    - Art. 110
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II
+    articulos_origen:
+    - Art. 113
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo III
+    articulos_origen:
+    - Art. 114
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo III
+    articulos_origen:
+    - Art. 116
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo III
+    articulos_origen:
+    - Art. 118
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo V
+    articulos_origen:
+    - Art. 130
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo V
+    articulos_origen:
+    - Art. 132
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo VI
+    articulos_origen:
+    - Art. 133
+    articulos_destino:
+    - Art. 27
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo VI
+    articulos_origen:
+    - Art. 137
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo VII
+    articulos_origen:
+    - Art. 145
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo VIII
+    articulos_origen:
+    - Art. 148
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo X
+    articulos_origen:
+    - Art. 163
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo II
+    articulos_origen:
+    - Art. 171
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo II
+    articulos_origen:
+    - Art. 177
+    articulos_destino:
+    - Art. 158
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo II
+    articulos_origen:
+    - Art. 180
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VII
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 193
+    articulos_destino:
+    - Art. 145
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VII
+    capitulo_origen: Capítulo II
+    articulos_origen:
+    - Art. 196
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Adicional primera. Tributos cedidos.
+    articulos_destino:
+    - Art. 157
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Adicional segunda. La Agencia Tributaria de Canarias.
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VIII
+    articulos_origen:
+    - D. Adicional tercera. Compensación por modificaciones tributarias.
+    articulos_destino:
+    - Art. 157
+  modifica:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VII
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - D. Final . [Firma].
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II
+    articulos_origen:
+    - Art. 103
+    titulo_destino: Título III
+    articulos_destino:
+    - Art. 140
+    - Art. 141
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II
+    articulos_origen:
+    - Art. 104
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo II
+    articulos_origen:
+    - Art. 110
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 167
+    disposiciones_destino:
+    - D. Adicional tercera
+  desarrolla:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 10
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo IV
+    articulos_origen:
+    - Art. 127
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo VII
+    articulos_origen:
+    - Art. 63
+    articulos_destino:
+    - Art. 153
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título V
+    capitulo_origen: Capítulo X
+    articulos_origen:
+    - Art. 163
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo II
+    articulos_origen:
+    - Art. 177
+    articulos_destino:
+    - Art. 157
   - norma_id: norm-es-lo-2-2006
+  concordancia:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VI
+    capitulo_origen: Capítulo II
+    articulos_origen:
+    - Art. 177
+    articulos_destino:
+    - Art. 31
+    - Art. 138
+    - Art. 3
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2.1'
+  - norma_id: '1'
+  - norma_id: '2.1'
 ---
+
 # Resolución de 7 de noviembre de 2018, del Ayuntamiento de Zaragoza, referente a la convocatoria para proveer varias plazas.
 
 ## Preámbulo
@@ -3996,3 +4320,63 @@ Contactar Sobre la sede electrónica Mapa Aviso legal Accesibilidad Protección 
 Agencia Estatal Boletín Oficial del Estado
 
 Avda. de Manoteras, 54 - 28050 Madrid
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-c-1978` desde *(Título I, Capítulo I, Art. 10)*
+- **Desarrolla**: `norm-es-c-1978` desde *(Título V, Capítulo IV, Art. 127)*
+- **Modifica**: `norm-es-c-1978` desde *(Título VII, Capítulo I, D. Final . [Firma].)*
+- **Modifica**: `norm-es-c-1978` (Título III, Art. 140, Art. 141) desde *(Título V, Capítulo II, Art. 103)*
+- **Modifica**: `norm-es-c-1978` (Art. 149) desde *(Título V, Capítulo II, Art. 104)*
+- **Modifica**: `norm-es-c-1978` desde *(Título V, Capítulo II, Art. 110)*
+- **Modifica**: `norm-es-c-1978` (D. Adicional tercera) desde *(Título VI, Capítulo I, Art. 167)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 153) desde *(Título II, Capítulo VII, Art. 63)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Título V, Capítulo X, Art. 163)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 157) desde *(Título VI, Capítulo II, Art. 177)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **En concordancia con**: `norm-es-c-1978` (Art. 31, Art. 138, Art. 3) desde *(Título VI, Capítulo II, Art. 177)*
+- **Cita a**: `norm-es-c-1978` desde *(Título VII, Capítulo I, D. Final . [Firma].)*
+- **Cita a**: `norm-es-c-1978` desde *(Título Preliminar, Art. 1)*
+- **Cita a**: `norm-es-c-1978` desde *(Título Preliminar, Art. 2)*
+- **Cita a**: `norm-es-c-1978` desde *(Título Preliminar, Art. 3)*
+- **Cita a**: `norm-es-c-1978` desde *(Título Preliminar, Art. 6)*
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Capítulo I, Art. 9)*
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Capítulo II, Art. 32)*
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Capítulo II, Art. 35)*
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Capítulo III, Art. 37)*
+- **Cita a**: `norm-es-c-1978` (Art. 138) desde *(Título I, Capítulo III, Art. 37)*
+- **Cita a**: `norm-es-c-1978` (Art. 87) desde *(Título II, Capítulo I, Art. 43)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo I, Art. 43)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo VI, Art. 58)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo VI, Art. 59)*
+- **Cita a**: `norm-es-c-1978` desde *(Título III, Art. 64)*
+- **Cita a**: `norm-es-c-1978` desde *(Título III, Capítulo I, Art. 65)*
+- **Cita a**: `norm-es-c-1978` desde *(Título III, Capítulo I, Art. 67)*
+- **Cita a**: `norm-es-c-1978` desde *(Título V, Capítulo I, Art. 94)*
+- **Cita a**: `norm-es-c-1978` (Art. 149) desde *(Título V, Capítulo II, Art. 106)*
+- **Cita a**: `norm-es-c-1978` (Art. 36, Art. 52, Art. 139, Art. 149) desde *(Título V, Capítulo II, Art. 109)*
+- **Cita a**: `norm-es-c-1978` desde *(Título V, Capítulo II, Art. 109)*
+- **Cita a**: `norm-es-c-1978` (Art. 149) desde *(Título V, Capítulo II, Art. 110)*
+- **Cita a**: `norm-es-c-1978` desde *(Título V, Capítulo II, Art. 110)*
+- **Cita a**: `norm-es-c-1978` (Art. 149) desde *(Título V, Capítulo II, Art. 113)*
+- **Cita a**: `norm-es-c-1978` (Art. 149) desde *(Título V, Capítulo III, Art. 114)*
+- **Cita a**: `norm-es-c-1978` (Art. 149) desde *(Título V, Capítulo III, Art. 116)*
+- **Cita a**: `norm-es-c-1978` (Art. 149) desde *(Título V, Capítulo III, Art. 118)*
+- **Cita a**: `norm-es-c-1978` (Art. 149) desde *(Título V, Capítulo V, Art. 130)*
+- **Cita a**: `norm-es-c-1978` (Art. 149) desde *(Título V, Capítulo V, Art. 132)*
+- **Cita a**: `norm-es-c-1978` (Art. 27, Art. 149) desde *(Título V, Capítulo VI, Art. 133)*
+- **Cita a**: `norm-es-c-1978` (Art. 149) desde *(Título V, Capítulo VI, Art. 137)*
+- **Cita a**: `norm-es-c-1978` (Art. 149) desde *(Título V, Capítulo VII, Art. 145)*
+- **Cita a**: `norm-es-c-1978` (Art. 149) desde *(Título V, Capítulo VIII, Art. 148)*
+- **Cita a**: `norm-es-c-1978` (Art. 149) desde *(Título V, Capítulo X, Art. 163)*
+- **Cita a**: `norm-es-c-1978` desde *(Título VI, Capítulo II, Art. 171)*
+- **Cita a**: `norm-es-c-1978` (Art. 158) desde *(Título VI, Capítulo II, Art. 177)*
+- **Cita a**: `norm-es-c-1978` desde *(Título VI, Capítulo II, Art. 180)*
+- **Cita a**: `norm-es-c-1978` (Art. 145) desde *(Título VII, Capítulo I, Art. 193)*
+- **Cita a**: `norm-es-c-1978` desde *(Título VII, Capítulo II, Art. 196)*
+- **Cita a**: `norm-es-c-1978` (Art. 157) desde *(Título VIII, D. Adicional primera. Tributos cedidos.)*
+- **Cita a**: `norm-es-c-1978` desde *(Título VIII, D. Adicional segunda. La Agencia Tributaria de Canarias.)*
+- **Cita a**: `norm-es-c-1978` (Art. 157) desde *(Título VIII, D. Adicional tercera. Compensación por modificaciones tributarias.)*

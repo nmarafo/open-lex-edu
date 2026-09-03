@@ -26,32 +26,236 @@ tags:
 - profesorado
 - titulacion
 relaciones:
-  fundamentado_en:
-  - norma_id: norm-es-2007-5478
-  - norma_id: norm-es-2010-12201
+  modifica:
+  - norma_id: norm-es-2021-979
+    articulos_origen:
+    - D. Final primera. Modificación del [Real Decreto 1085/2020](RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md),
+      de 9 de diciembre.
+    disposiciones_destino:
+    - D. Final primera
   - norma_id: norm-es-2020-17274
+    articulos_origen:
+    - D. Final primera. Modificación del [Real Decreto 1085/2020](RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md),
+      de 9 de diciembre.
+    disposiciones_destino:
+    - D. Final primera
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2022-16194
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    articulos_destino:
+    - Art. 12
+    - Art. 6
   - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    articulos_destino:
+    - Art. 12
+    - Art. 6
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    articulos_destino:
+    - Art. 12
+    - Art. 6
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    articulos_destino:
+    - Art. 12
+    - Art. 6
+  - norma_id: norm-es-2021-979
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+  - norma_id: norm-es-2020-17274
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+  - norma_id: norm-es-2021-979
+    articulos_origen:
+    - D. Final primera. Modificación del Real Decreto 1085/2020, de 9 de diciembre.
+    disposiciones_destino:
+    - D. Final primera
+  - norma_id: norm-es-2020-17274
+    articulos_origen:
+    - D. Final primera. Modificación del Real Decreto 1085/2020, de 9 de diciembre.
+    disposiciones_destino:
+    - D. Final primera
+  - norma_id: norm-es-2021-979
+    articulos_origen:
+    - D. Final primera. Modificación del Real Decreto 1085/2020, de 9 de diciembre.
+  - norma_id: norm-es-2020-17274
+    articulos_origen:
+    - D. Final primera. Modificación del Real Decreto 1085/2020, de 9 de diciembre.
+  cita:
+  - norma_id: norm-es-lo-3-2022
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+  - norma_id: norm-es-l-39-2015
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    articulos_destino:
+    - Art. 129
+  - norma_id: norm-es-l-39-2015
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    titulo_destino: Título IV
+    articulos_destino:
+    - Art. 1
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    articulos_destino:
+    - Art. 12
+    - Art. 6
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    articulos_destino:
+    - Art. 12
+    - Art. 6
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    articulos_destino:
+    - Art. 12
+    - Art. 6
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    articulos_destino:
+    - Art. 12
+    - Art. 6
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    disposiciones_destino:
+    - D. Transitoria sexta
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    disposiciones_destino:
+    - D. Transitoria sexta
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    disposiciones_destino:
+    - D. Transitoria sexta
+  - norma_id: norm-es-rd-276-2007
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    disposiciones_destino:
+    - D. Transitoria sexta
+  - norma_id: norm-es-2007-5478
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    disposiciones_destino:
+    - D. Transitoria sexta
+  - norma_id: norm-es-rd-276-2007
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+  - norma_id: norm-es-2007-5478
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    titulo_destino: Título V
+    capitulo_destino: Capítulo IV
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    articulos_destino:
+    - Art. 40
+    - Art. 41
+    - Art. 42
+  - norma_id: norm-es-lo-3-2022
+    articulos_origen:
+    - D. Transitoria única. Aplicación de los reales decretos por los que se establecen
+      títulos de formación profesional de grado superior de acuerdo con el calendario
+      establecido en el Real Decreto 278/2023, de 11 de abril.
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Final primera. Modificación del Real Decreto 1085/2020, de 9 de diciembre.
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Final primera. Modificación del Real Decreto 1085/2020, de 9 de diciembre.
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Final primera. Modificación del Real Decreto 1085/2020, de 9 de diciembre.
+  desarrolla:
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    articulos_destino:
+    - Art. 96
+  fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - D. Adicional primera. Horas del currículo básico.
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2021-20113
+    articulos_origen:
+    - D. Adicional primera. Horas del currículo básico.
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-2010-12201
+    articulos_origen:
+    - D. Adicional primera. Horas del currículo básico.
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final segunda. Título competencial.
+    articulos_destino:
+    - Art. 149
+    - Art. 27
+  - norma_id: norm-es-2007-5478
+  - norma_id: norm-es-2020-17274
   - norma_id: norm-es-2021-979
   - norma_id: norm-es-2022-16194
   - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-3-2022
   - norma_id: norm-es-rd-276-2007
   - norma_id: norm-es-rd-659-2023
-  desarrollado_por: []
-  fundamento_de:
-  - norma_id: norm-can-res-boc-2024-226-44
-  - norma_id: norm-can-res-boc-2026-039-103
-  - norma_id: norm-can-res-027
-  - norma_id: norm-can-res-boc-2025-047-108
-  - norma_id: norm-can-res-030
-  - norma_id: norm-can-res-boc-2024-230-25
+  concordancia:
+  - norma_id: norm-es-2021-979
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
+  - norma_id: norm-es-2020-17274
+    articulos_origen:
+    - D. Final tercera. Entrada en vigor.
   fundamentos_derecho:
   - norma_id: norm-es-lo-2-2006
   articulos:
-  - '22'
-  - norma_id: norm-can-res-boc-2024-230-25
-  - norma_id: norm-can-res-134
+  - norma_id: '22'
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-2020-17274
   - norma_id: norm-es-2021-20113
@@ -63,6 +267,7 @@ relaciones:
   - norma_id: norm-es-2022-16194
   - norma_id: norm-es-rd-276-2007
 ---
+
 # Real Decreto 500/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado superior y se fijan sus enseñanzas mínimas.
 
 ## Preámbulo
@@ -13583,3 +13788,63 @@ Adaptación de los créditos ECTS de los módulos profesionales y proyecto inter
 - [**BOE-A-2007-5478**](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
 - [**BOE-A-2022-16194**](../08_personal_docente/RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md)
 - [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) desde *(D. Final tercera. Entrada en vigor.)*
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 96) desde *(D. Final tercera. Entrada en vigor.)*
+- **Modifica**: [**BOE-A-2021-979**](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md) (D. Final primera) desde *(D. Final primera. Modificación del [Real Decreto 1085/2020](RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md), de 9 de diciembre.)*
+- **Modifica**: [**BOE-A-2020-17274**](./RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md) (D. Final primera) desde *(D. Final primera. Modificación del [Real Decreto 1085/2020](RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md), de 9 de diciembre.)*
+- **Modifica**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 6) desde *(D. Final tercera. Entrada en vigor.)*
+- **Modifica**: [**BOE-A-2022-16194**](../08_personal_docente/RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md) (Art. 6) desde *(D. Final tercera. Entrada en vigor.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 12, Art. 6) desde *(D. Final tercera. Entrada en vigor.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 12, Art. 6) desde *(D. Final tercera. Entrada en vigor.)*
+- **Modifica**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 12, Art. 6) desde *(D. Final tercera. Entrada en vigor.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 12, Art. 6) desde *(D. Final tercera. Entrada en vigor.)*
+- **Modifica**: [**BOE-A-2021-979**](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md) desde *(D. Final tercera. Entrada en vigor.)*
+- **Modifica**: [**BOE-A-2020-17274**](./RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md) desde *(D. Final tercera. Entrada en vigor.)*
+- **Modifica**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) desde *(D. Final tercera. Entrada en vigor.)*
+- **Modifica**: [**BOE-A-2021-979**](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md) (D. Final primera) desde *(D. Final primera. Modificación del Real Decreto 1085/2020, de 9 de diciembre.)*
+- **Modifica**: [**BOE-A-2020-17274**](./RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md) (D. Final primera) desde *(D. Final primera. Modificación del Real Decreto 1085/2020, de 9 de diciembre.)*
+- **Modifica**: [**BOE-A-2021-979**](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md) desde *(D. Final primera. Modificación del Real Decreto 1085/2020, de 9 de diciembre.)*
+- **Modifica**: [**BOE-A-2020-17274**](./RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md) desde *(D. Final primera. Modificación del Real Decreto 1085/2020, de 9 de diciembre.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(D. Final tercera. Entrada en vigor.)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 6) desde *(D. Adicional primera. Horas del currículo básico.)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 6) desde *(D. Adicional primera. Horas del currículo básico.)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 6) desde *(D. Adicional primera. Horas del currículo básico.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(D. Final segunda. Título competencial.)*
+- **Fundamentado en**: [**BOE-A-2007-5478**](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
+- **Fundamentado en**: [**BOE-A-2020-17274**](./RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md)
+- **Fundamentado en**: [**BOE-A-2021-979**](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md)
+- **Fundamentado en**: [**BOE-A-2022-16194**](../08_personal_docente/RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
+- **Fundamentado en**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Fundamentado en**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **En concordancia con**: [**BOE-A-2021-979**](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md) desde *(D. Final tercera. Entrada en vigor.)*
+- **En concordancia con**: [**BOE-A-2020-17274**](./RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md) desde *(D. Final tercera. Entrada en vigor.)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(D. Final tercera. Entrada en vigor.)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 129) desde *(D. Final tercera. Entrada en vigor.)*
+- **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) desde *(D. Final tercera. Entrada en vigor.)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) desde *(D. Final tercera. Entrada en vigor.)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Título IV, Art. 1) desde *(D. Final tercera. Entrada en vigor.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 12, Art. 6) desde *(D. Final tercera. Entrada en vigor.)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 12, Art. 6) desde *(D. Final tercera. Entrada en vigor.)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 12, Art. 6) desde *(D. Final tercera. Entrada en vigor.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 12, Art. 6) desde *(D. Final tercera. Entrada en vigor.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Transitoria sexta) desde *(D. Final tercera. Entrada en vigor.)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Transitoria sexta) desde *(D. Final tercera. Entrada en vigor.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Transitoria sexta) desde *(D. Final tercera. Entrada en vigor.)*
+- **Cita a**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md) (D. Transitoria sexta) desde *(D. Final tercera. Entrada en vigor.)*
+- **Cita a**: [**BOE-A-2007-5478**](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md) (D. Transitoria sexta) desde *(D. Final tercera. Entrada en vigor.)*
+- **Cita a**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md) desde *(D. Final tercera. Entrada en vigor.)*
+- **Cita a**: [**BOE-A-2007-5478**](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md) desde *(D. Final tercera. Entrada en vigor.)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Título V, Capítulo IV) desde *(D. Final tercera. Entrada en vigor.)*
+- **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 40, Art. 41, Art. 42) desde *(D. Final tercera. Entrada en vigor.)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(D. Transitoria única. Aplicación de los reales decretos por los que se establecen títulos de formación profesional de grado superior de acuerdo con el calendario establecido en el Real Decreto 278/2023, de 11 de abril.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(D. Final primera. Modificación del Real Decreto 1085/2020, de 9 de diciembre.)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(D. Final primera. Modificación del Real Decreto 1085/2020, de 9 de diciembre.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(D. Final primera. Modificación del Real Decreto 1085/2020, de 9 de diciembre.)*

@@ -26,6 +26,106 @@ tags:
 - organizacion-escolar
 - profesorado
 relaciones:
+  desarrolla:
+  - norma_id: norm-can-l-6-2014
+    titulo_destino: Título V
+    capitulo_destino: Capítulo III
+    articulos_destino:
+    - Art. 35
+    disposiciones_destino:
+    - D. Adicional quinta
+  - norma_id: norm-es-lo-2-2006
+    titulo_destino: Título V
+    capitulo_destino: Capítulo III
+    articulos_destino:
+    - Art. 35
+    disposiciones_destino:
+    - D. Adicional quinta
+  - norma_id: norm-es-2021-20113
+    titulo_destino: Título V
+    capitulo_destino: Capítulo III
+    articulos_destino:
+    - Art. 35
+    disposiciones_destino:
+    - D. Adicional quinta
+  - norma_id: norm-es-2010-12201
+    titulo_destino: Título V
+    capitulo_destino: Capítulo III
+    articulos_destino:
+    - Art. 35
+    disposiciones_destino:
+    - D. Adicional quinta
+  - norma_id: norm-can-d-81-2010
+    disposiciones_destino:
+    - D. Adicional tercera
+  - norma_id: norm-can-o-2013-10-09
+    disposiciones_destino:
+    - D. Adicional tercera
+  - norma_id: norm-es-lo-2-2006
+    disposiciones_destino:
+    - D. Adicional tercera
+  - norma_id: norm-es-2021-20113
+    disposiciones_destino:
+    - D. Adicional tercera
+  - norma_id: norm-es-2019-317
+    disposiciones_destino:
+    - D. Adicional tercera
+  - norma_id: norm-es-2010-12201
+    disposiciones_destino:
+    - D. Adicional tercera
+  - norma_id: norm-can-d-81-2010
+    titulo_destino: Título II
+  - norma_id: norm-can-o-2013-10-09
+    titulo_destino: Título II
+  - norma_id: norm-es-2019-317
+    articulos_destino:
+    - Art. 7
+    - Art. 5
+  - norma_id: norm-can-d-81-2010
+    articulos_destino:
+    - Art. 49
+  - norma_id: norm-can-o-2013-10-09
+    articulos_destino:
+    - Art. 49
+  - norma_id: norm-es-lo-2-2006
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2021-20113
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2010-12201
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-can-d-81-2010
+    articulos_destino:
+    - Art. 49
+    - Art. 17
+    - Art. 18
+  - norma_id: norm-can-o-2013-10-09
+    articulos_destino:
+    - Art. 49
+    - Art. 17
+    - Art. 18
+  cita:
+  - norma_id: norm-can-d-212-1991
+    articulos_destino:
+    - Art. 20
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 20
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-lo-2-2006
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2021-20113
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  - norma_id: norm-es-2010-12201
+    disposiciones_destino:
+    - D. Adicional vigesimotercera
+  concordancia:
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-o-2013-10-09
   fundamentado_en:
   - norma_id: norm-can-d-81-2010
   - norma_id: norm-can-d-84-2024
@@ -39,12 +139,10 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-d-81-2010
@@ -56,6 +154,7 @@ relaciones:
   - norma_id: norm-can-res-boc-2023-133-57
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-116-2013.pdf
 ---
+
 # Resolución de 29 de mayo de 2026, por la que se dictan instrucciones específicas complementarias para el curso 2026-2027 sobre organización, funcionamiento y calendario de las Enseñanzas de Idiomas de Régimen Especial impartidas en las Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -361,3 +460,49 @@ presentarán a la dirección del centro un informe justificativo que, en caso de
 - [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**Resolucion BOC 57**](../03_ordenacion_curricular_y_ensenanzas/R27_6_2023_resoluci_n_junio_direcci_n_general.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md) (Título V, Capítulo III, Art. 35, D. Adicional quinta)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título V, Capítulo III, Art. 35, D. Adicional quinta)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título V, Capítulo III, Art. 35, D. Adicional quinta)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título V, Capítulo III, Art. 35, D. Adicional quinta)
+- **Desarrolla**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) (D. Adicional tercera)
+- **Desarrolla**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](./O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md) (D. Adicional tercera)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional tercera)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional tercera)
+- **Desarrolla**: [**BOE-A-2019-317**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md) (D. Adicional tercera)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional tercera)
+- **Desarrolla**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) (Título II)
+- **Desarrolla**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](./O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md) (Título II)
+- **Desarrolla**: [**BOE-A-2019-317**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md) (Art. 7, Art. 5)
+- **Desarrolla**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) (Art. 49)
+- **Desarrolla**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](./O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md) (Art. 49)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional vigesimotercera)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional vigesimotercera)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional vigesimotercera)
+- **Desarrolla**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) (Art. 49, Art. 17, Art. 18)
+- **Desarrolla**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](./O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md) (Art. 49, Art. 17, Art. 18)
+- **Fundamentado en**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](./O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
+- **Fundamentado en**: [**O28_9_2023 Instrucciones de Organizacion y Funcionamiento de Centros**](./O28_9_2023_aprueban_instrucciones_organizacion_funcionamiento_centros_docentes.md)
+- **Fundamentado en**: [**Resolucion BOC 57**](../03_ordenacion_curricular_y_ensenanzas/R27_6_2023_resoluci_n_junio_direcci_n_general.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2019-317**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **En concordancia con**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
+- **En concordancia con**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](./O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
+- **Cita a**: [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md) (Art. 20)
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 20)
+- **Cita a**: `norm-es-c-1978`
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional vigesimotercera)
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional vigesimotercera)
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional vigesimotercera)

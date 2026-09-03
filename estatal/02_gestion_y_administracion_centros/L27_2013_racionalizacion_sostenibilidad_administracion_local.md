@@ -21,8 +21,196 @@ tags:
 - curriculo
 - fp-basica
 relaciones:
-  fundamentado_en:
+  desarrolla:
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 135
+  modifica:
   - norma_id: norm-es-1985-5392
+  - norma_id: norm-es-1985-5392
+    disposiciones_destino:
+    - D. Adicional segunda
+  cita:
+  - norma_id: norm-es-1985-5392
+  - norma_id: norm-es-c-1978
+    articulos_destino:
+    - Art. 149
+    - Art. 1
+    - Art. 142
+    - Art. 137
+    - Art. 140
+    - Art. 141
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 24 bis
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 32 bis
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 75 ter
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 75 ter
+    articulos_destino:
+    - Art. 149
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 116 ter
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 116 ter
+    articulos_destino:
+    - Art. 3
+    - Art. 24
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 116 ter
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-1985-5392
+    articulos_origen:
+    - Art. 193 bis
+  - norma_id: norm-es-1985-5392
+    articulos_origen:
+    - Art. 193 bis
+    articulos_destino:
+    - Art. 25
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Adicional primera. Régimen aplicable a la Comunidad Autónoma del País Vasco.
+    articulos_destino:
+    - Art. 149
+    - Art. 26
+    disposiciones_destino:
+    - D. Adicional primera
+    - D. Final tercera
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Adicional segunda. Régimen aplicable a la Comunidad Foral de Navarra.
+    articulos_destino:
+    - Art. 149
+    - Art. 26
+    disposiciones_destino:
+    - D. Adicional primera
+    - D. Final tercera
+  - norma_id: norm-es-1985-5392
+    articulos_origen:
+    - D. Adicional cuarta. Especialidades de las Ciudades de Ceuta y Melilla.
+    titulo_destino: Título XI
+    articulos_destino:
+    - Art. 25
+  - norma_id: norm-es-1985-5392
+    articulos_origen:
+    - D. Adicional novena. Convenios sobre ejercicio de competencias y servicios municipales.
+    articulos_destino:
+    - Art. 25
+    - Art. 27
+  - norma_id: norm-es-1985-5392
+    articulos_origen:
+    - D. Adicional decimotercera. Consorcios constituidos para la prestación de servicios
+      mínimos.
+    articulos_destino:
+    - Art. 26
+  - norma_id: norm-es-1985-5392
+    articulos_origen:
+    - D. Adicional decimoquinta. Asunción por las Comunidades Autónomas de las competencias
+      relativas a la educación.
+    articulos_destino:
+    - Art. 84
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Transitoria quinta. Entidades de ámbito territorial inferior al Municipio
+      en constitución.
+    disposiciones_destino:
+    - D. Transitoria quinta
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Transitoria quinta. Entidades de ámbito territorial inferior al Municipio
+      en constitución.
+  - norma_id: norm-es-1985-5392
+    articulos_origen:
+    - D. Transitoria novena. Régimen transitorio para los Directores Generales de
+      las Entidades Locales.
+    articulos_destino:
+    - Art. 130
+  - norma_id: norm-es-1985-5392
+    articulos_origen:
+    - D. Transitoria décima. Aplicación de las limitaciones referidas al número de
+      personal eventual y cargos públicos con dedicación exclusiva.
+    articulos_destino:
+    - Art. 25
+    - Art. 26
+  - norma_id: norm-es-1985-5392
+    articulos_origen:
+    - D. Final primera. Modificación del Real Decreto Legislativo 781/1986, de 18
+      de abril, por el que se aprueba el texto refundido de las Disposiciones Legales
+      vigentes en materia de Régimen Local.
+    articulos_destino:
+    - Art. 86
+  fundamentado_en:
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 116 ter
+    articulos_destino:
+    - Art. 149
+    disposiciones_destino:
+    - D. Adicional primera
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - Art. 116 ter
+    disposiciones_destino:
+    - D. Adicional primera
+    - D. Adicional segunda
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Adicional tercera. Competencias autonómicas en materia de régimen local.
+  - norma_id: norm-es-1985-5392
+    articulos_origen:
+    - D. Transitoria primera. Asunción por las Comunidades Autónomas de las competencias
+      relativas a la salud.
+    articulos_destino:
+    - Art. 27
+  - norma_id: norm-es-1985-5392
+    articulos_origen:
+    - D. Transitoria segunda. Asunción por las Comunidades Autónomas de las competencias
+      relativas a servicios sociales.
+    articulos_destino:
+    - Art. 27
+  - norma_id: norm-es-1985-5392
+    articulos_origen:
+    - D. Transitoria séptima. Régimen transitorio de los funcionarios de Administración
+      Local con habilitación de carácter estatal.
+    articulos_destino:
+    - Art. 92 bis
+  - norma_id: norm-es-1985-5392
+    articulos_origen:
+    - D. Transitoria octava. Régimen transitorio para el personal directivo de las
+      Diputaciones, Cabildos y Consejos Insulares.
+    articulos_destino:
+    - Art. 32 bis
+  - norma_id: norm-es-1985-5392
+    articulos_origen:
+    - D. Transitoria décima. Aplicación de las limitaciones referidas al número de
+      personal eventual y cargos públicos con dedicación exclusiva.
+    articulos_destino:
+    - Art. 75 bis
+  - norma_id: norm-es-1985-5392
+    articulos_origen:
+    - D. Transitoria décima. Aplicación de las limitaciones referidas al número de
+      personal eventual y cargos públicos con dedicación exclusiva.
+    articulos_destino:
+    - Art. 44
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final quinta. Título competencial.
+    articulos_destino:
+    - Art. 149
   - norma_id: norm-es-ce-1978
   fundamento_de:
   - norma_id: norm-es-2015-8470
@@ -30,9 +218,10 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
+  - norma_id: '27'
   - norma_id: norm-es-1985-5392
 ---
+
 # Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local.
 
 ## Preámbulo
@@ -1354,3 +1543,48 @@ MARIANO RAJOY BREY
 
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**BOE-A-1985-5392**](./L7_1985_reguladora_bases_regimen_local.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-c-1978` (Art. 135)
+- **Modifica**: [**BOE-A-1985-5392**](./L7_1985_reguladora_bases_regimen_local.md)
+- **Modifica**: [**BOE-A-1985-5392**](./L7_1985_reguladora_bases_regimen_local.md) (D. Adicional segunda)
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149, D. Adicional primera) desde *(Art. 116 ter)*
+- **Fundamentado en**: `norm-es-c-1978` (D. Adicional primera, D. Adicional segunda) desde *(Art. 116 ter)*
+- **Fundamentado en**: `norm-es-c-1978` desde *(D. Adicional tercera. Competencias autonómicas en materia de régimen local.)*
+- **Fundamentado en**: [**BOE-A-1985-5392**](./L7_1985_reguladora_bases_regimen_local.md) (Art. 27) desde *(D. Transitoria primera. Asunción por las Comunidades Autónomas de las competencias relativas a la salud.)*
+- **Fundamentado en**: [**BOE-A-1985-5392**](./L7_1985_reguladora_bases_regimen_local.md) (Art. 27) desde *(D. Transitoria segunda. Asunción por las Comunidades Autónomas de las competencias relativas a servicios sociales.)*
+- **Fundamentado en**: [**BOE-A-1985-5392**](./L7_1985_reguladora_bases_regimen_local.md) (Art. 92 bis) desde *(D. Transitoria séptima. Régimen transitorio de los funcionarios de Administración Local con habilitación de carácter estatal.)*
+- **Fundamentado en**: [**BOE-A-1985-5392**](./L7_1985_reguladora_bases_regimen_local.md) (Art. 32 bis) desde *(D. Transitoria octava. Régimen transitorio para el personal directivo de las Diputaciones, Cabildos y Consejos Insulares.)*
+- **Fundamentado en**: [**BOE-A-1985-5392**](./L7_1985_reguladora_bases_regimen_local.md) (Art. 75 bis) desde *(D. Transitoria décima. Aplicación de las limitaciones referidas al número de personal eventual y cargos públicos con dedicación exclusiva.)*
+- **Fundamentado en**: [**BOE-A-1985-5392**](./L7_1985_reguladora_bases_regimen_local.md) (Art. 44) desde *(D. Transitoria décima. Aplicación de las limitaciones referidas al número de personal eventual y cargos públicos con dedicación exclusiva.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(D. Final quinta. Título competencial.)*
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamento de**: [**BOE-A-2015-8470**](../01_marco_normativo_general_y_organico/L26_2015_modificacion_sistema_proteccion_infancia_adolescencia.md)
+- **Fundamento de**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Cita a**: [**BOE-A-1985-5392**](./L7_1985_reguladora_bases_regimen_local.md)
+- **Cita a**: `norm-es-c-1978` (Art. 149, Art. 1, Art. 142, Art. 137, Art. 140, Art. 141)
+- **Cita a**: `norm-es-c-1978`
+- **Cita a**: `norm-es-c-1978` (Art. 149) desde *(Art. 24 bis)*
+- **Cita a**: `norm-es-c-1978` desde *(Art. 32 bis)*
+- **Cita a**: `norm-es-c-1978` desde *(Art. 75 ter)*
+- **Cita a**: `norm-es-c-1978` (Art. 149) desde *(Art. 75 ter)*
+- **Cita a**: `norm-es-c-1978` desde *(Art. 116 ter)*
+- **Cita a**: `norm-es-c-1978` (Art. 3, Art. 24, D. Adicional primera) desde *(Art. 116 ter)*
+- **Cita a**: `norm-es-c-1978` (Art. 3) desde *(Art. 116 ter)*
+- **Cita a**: [**BOE-A-1985-5392**](./L7_1985_reguladora_bases_regimen_local.md) desde *(Art. 193 bis)*
+- **Cita a**: [**BOE-A-1985-5392**](./L7_1985_reguladora_bases_regimen_local.md) (Art. 25) desde *(Art. 193 bis)*
+- **Cita a**: `norm-es-c-1978` (Art. 149, Art. 26, D. Adicional primera, D. Final tercera) desde *(D. Adicional primera. Régimen aplicable a la Comunidad Autónoma del País Vasco.)*
+- **Cita a**: `norm-es-c-1978` (Art. 149, Art. 26, D. Adicional primera, D. Final tercera) desde *(D. Adicional segunda. Régimen aplicable a la Comunidad Foral de Navarra.)*
+- **Cita a**: [**BOE-A-1985-5392**](./L7_1985_reguladora_bases_regimen_local.md) (Título XI, Art. 25) desde *(D. Adicional cuarta. Especialidades de las Ciudades de Ceuta y Melilla.)*
+- **Cita a**: [**BOE-A-1985-5392**](./L7_1985_reguladora_bases_regimen_local.md) (Art. 25, Art. 27) desde *(D. Adicional novena. Convenios sobre ejercicio de competencias y servicios municipales.)*
+- **Cita a**: [**BOE-A-1985-5392**](./L7_1985_reguladora_bases_regimen_local.md) (Art. 26) desde *(D. Adicional decimotercera. Consorcios constituidos para la prestación de servicios mínimos.)*
+- **Cita a**: [**BOE-A-1985-5392**](./L7_1985_reguladora_bases_regimen_local.md) (Art. 84) desde *(D. Adicional decimoquinta. Asunción por las Comunidades Autónomas de las competencias relativas a la educación.)*
+- **Cita a**: `norm-es-c-1978` (D. Transitoria quinta) desde *(D. Transitoria quinta. Entidades de ámbito territorial inferior al Municipio en constitución.)*
+- **Cita a**: `norm-es-c-1978` desde *(D. Transitoria quinta. Entidades de ámbito territorial inferior al Municipio en constitución.)*
+- **Cita a**: [**BOE-A-1985-5392**](./L7_1985_reguladora_bases_regimen_local.md) (Art. 130) desde *(D. Transitoria novena. Régimen transitorio para los Directores Generales de las Entidades Locales.)*
+- **Cita a**: [**BOE-A-1985-5392**](./L7_1985_reguladora_bases_regimen_local.md) (Art. 25, Art. 26) desde *(D. Transitoria décima. Aplicación de las limitaciones referidas al número de personal eventual y cargos públicos con dedicación exclusiva.)*
+- **Cita a**: [**BOE-A-1985-5392**](./L7_1985_reguladora_bases_regimen_local.md) (Art. 86) desde *(D. Final primera. Modificación del Real Decreto Legislativo 781/1986, de 18 de abril, por el que se aprueba el texto refundido de las Disposiciones Legales vigentes en materia de Régimen Local.)*

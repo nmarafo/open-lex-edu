@@ -37,11 +37,12 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-rd-2377-1985
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-158-4691.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=63878
 ---
+
 # Resolución de 28 de julio de 2010, de la Dirección General de Promoción Educativa, por la que se modifica el modelo al que ha de ajustarse la certificación del acuerdo del Consejo Escolar de los centros privados concertados, en relación a la justificación de las cantidades recibidas en concepto de «otros gastos» (BOC n.º 158, de 12 de agosto).
 
 ## Preámbulo
@@ -115,3 +116,15 @@ DIFERENCIA ENTRE LOS INGRESOS RECIBIDOS Y LOS GASTOS REALIZADOS EN EL FUNCIONAMI
 
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - [**RD2377_1985 Reglamento de Conciertos Educativos**](../../../estatal/02_gestion_y_administracion_centros/RD2377_1985_aprueba_reglamento_normas_basicas_conciertos_educativos.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**RD2377_1985 Reglamento de Conciertos Educativos**](../../../estatal/02_gestion_y_administracion_centros/RD2377_1985_aprueba_reglamento_normas_basicas_conciertos_educativos.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

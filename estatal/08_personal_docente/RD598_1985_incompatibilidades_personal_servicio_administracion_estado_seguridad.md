@@ -20,9 +20,175 @@ clasificacion:
 tags:
 - funcionarios-de-carrera
 relaciones:
-  fundamentado_en:
-  - norma_id: norm-es-1984-17387
+  cita:
   - norma_id: norm-es-l-53-1984
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 1
+    disposiciones_destino:
+    - D. Adicional quinta
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 3
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 3
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 4
+    articulos_destino:
+    - Art. 4
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 7
+    capitulo_destino: Capítulo IV
+    articulos_destino:
+    - Art. 8
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 9
+    articulos_destino:
+    - Art. 9
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 13
+    articulos_destino:
+    - Art. 13
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 13
+    disposiciones_destino:
+    - D. Transitoria novena
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 13
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 14
+    articulos_destino:
+    - Art. 14
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 15
+    articulos_destino:
+    - Art. 15
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 15
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 17
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 17
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 18
+    articulos_destino:
+    - Art. 18
+    disposiciones_destino:
+    - D. Transitoria tercera
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 19
+    articulos_destino:
+    - Art. 19
+    disposiciones_destino:
+    - D. Final tercera
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 20
+    disposiciones_destino:
+    - D. Transitoria primera
+  - norma_id: norm-es-1984-17387
+    articulos_origen:
+    - Art. 20
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 20
+    articulos_destino:
+    - Art. 2
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 20
+    articulos_destino:
+    - Art. 19
+    disposiciones_destino:
+    - D. Transitoria primera
+  - norma_id: norm-es-1984-17387
+    articulos_origen:
+    - Art. 20
+    articulos_destino:
+    - Art. 29
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 22
+    articulos_destino:
+    - Art. 22
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 22
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 23
+    disposiciones_destino:
+    - D. Transitoria tercera
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 24
+    articulos_destino:
+    - Art. 24
+    disposiciones_destino:
+    - D. Transitoria tercera
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 24
+    articulos_destino:
+    - Art. 11
+    - Art. 12
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 25
+    articulos_destino:
+    - Art. 25
+    disposiciones_destino:
+    - D. Transitoria cuarta
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 28
+    articulos_destino:
+    - Art. 28
+    disposiciones_destino:
+    - D. Transitoria quinta
+  fundamentado_en:
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 11
+    articulos_destino:
+    - Art. 11
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 11
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 26
+    articulos_destino:
+    - Art. 12
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 28
+    disposiciones_destino:
+    - D. Adicional cuarta
+  - norma_id: norm-es-1984-17387
   - norma_id: norm-es-rd-276-2007
   - norma_id: norm-es-rdl-5-2015
   fundamento_de:
@@ -30,10 +196,11 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-es-rd-276-2007
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-l-53-1984
 ---
+
 # Real Decreto 598/1985, de 30 de abril, sobre incompatibilidades del personal al servicio de la Administración del Estado, de la Seguridad Social y de los Entes, Organismos y Empresas dependientes.
 
 ## Preámbulo
@@ -248,3 +415,47 @@ JAVIER MOSCOSO DEL PRADO Y MUÑOZ
 - [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
 - [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
 - [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Fundamentado en**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (Art. 11) desde *(Art. 11)*
+- **Fundamentado en**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) desde *(Art. 11)*
+- **Fundamentado en**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (Art. 12) desde *(Art. 26)*
+- **Fundamentado en**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (D. Adicional cuarta) desde *(Art. 28)*
+- **Fundamentado en**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
+- **Fundamentado en**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamento de**: [**BOE-A-2012-9364**](./RD20_2012_real_decreto_ley_medidas_garantizar_estabilidad.md)
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md)
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (D. Adicional quinta) desde *(Art. 1)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) desde *(Art. 2)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (Art. 3) desde *(Art. 3)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) desde *(Art. 3)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (Art. 4) desde *(Art. 4)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (Capítulo IV, Art. 8) desde *(Art. 7)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (Art. 9) desde *(Art. 9)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (Art. 13) desde *(Art. 13)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (D. Transitoria novena) desde *(Art. 13)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) desde *(Art. 13)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (Art. 14) desde *(Art. 14)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (Art. 15) desde *(Art. 15)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) desde *(Art. 15)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (Art. 17) desde *(Art. 17)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) desde *(Art. 17)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (Art. 18, D. Transitoria tercera) desde *(Art. 18)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (Art. 19, D. Final tercera) desde *(Art. 19)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (D. Transitoria primera) desde *(Art. 20)*
+- **Cita a**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) (Art. 2) desde *(Art. 20)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (Art. 2) desde *(Art. 20)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (Art. 19, D. Transitoria primera) desde *(Art. 20)*
+- **Cita a**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md) (Art. 29) desde *(Art. 20)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (Art. 22) desde *(Art. 22)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) desde *(Art. 22)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (D. Transitoria tercera) desde *(Art. 23)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (Art. 24, D. Transitoria tercera) desde *(Art. 24)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (Art. 11, Art. 12) desde *(Art. 24)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (Art. 25, D. Transitoria cuarta) desde *(Art. 25)*
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (Art. 28, D. Transitoria quinta) desde *(Art. 28)*

@@ -29,13 +29,117 @@ tags:
 - andalucia
 relaciones:
   desarrolla:
+  - norma_id: norm-and-d-327-2010
+    articulos_destino:
+    - Art. 44
+    disposiciones_destino:
+    - D. Final sexta
+  - norma_id: norm-and-d327-2010
+    articulos_destino:
+    - Art. 44
+    disposiciones_destino:
+    - D. Final sexta
   - norma_id: norm-es-lo-2-2006
+  cita:
+  - norma_id: norm-and-d-327-2010
+    capitulo_origen: Capítulo II. Plan de Centro y autoevaluación.
+    articulos_origen:
+    - Art. 3
+    titulo_destino: Título V
+    capitulo_destino: Capítulo II
+  - norma_id: norm-and-d327-2010
+    capitulo_origen: Capítulo II. Plan de Centro y autoevaluación.
+    articulos_origen:
+    - Art. 3
+    titulo_destino: Título V
+    capitulo_destino: Capítulo II
+  - norma_id: norm-and-d-301-2009
+    capitulo_origen: Capítulo IV. Horarios.
+    articulos_origen:
+    - Art. 12
+  - norma_id: norm-and-d-327-2010
+    capitulo_origen: Capítulo IV. Horarios.
+    articulos_origen:
+    - D. Transitoria única. Vigencia de los Proyectos de.
+  - norma_id: norm-and-d327-2010
+    capitulo_origen: Capítulo IV. Horarios.
+    articulos_origen:
+    - D. Transitoria única. Vigencia de los Proyectos de.
+  - norma_id: norm-and-d-328-2010
+    capitulo_origen: Capítulo IV. Horarios.
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+  - norma_id: norm-and-d328-2010
+    capitulo_origen: Capítulo IV. Horarios.
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
   fundamentado_en:
+  - norma_id: norm-and-d-327-2010
+    capitulo_origen: Capítulo III. Órganos de coordinación docente.
+    articulos_origen:
+    - Art. 9
+    disposiciones_destino:
+    - D. Adicional cuarta
+  - norma_id: norm-and-d327-2010
+    capitulo_origen: Capítulo III. Órganos de coordinación docente.
+    articulos_origen:
+    - Art. 9
+    disposiciones_destino:
+    - D. Adicional cuarta
+  - norma_id: norm-and-d327-2010
+    capitulo_origen: Capítulo IV. Horarios.
+    articulos_origen:
+    - Art. 10
+    articulos_destino:
+    - Art. 77
+  - norma_id: norm-and-d327-2010
+    capitulo_origen: Capítulo IV. Horarios.
+    articulos_origen:
+    - Art. 17
+    articulos_destino:
+    - Art. 15
+  - norma_id: norm-and-d-327-2010
+    capitulo_origen: Capítulo IV. Horarios.
+    articulos_origen:
+    - D. Adicional primera. Órganos de coordinación.
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-and-d327-2010
+    capitulo_origen: Capítulo IV. Horarios.
+    articulos_origen:
+    - D. Adicional primera. Órganos de coordinación.
+    articulos_destino:
+    - Art. 3
+  - norma_id: norm-and-d-327-2010
+    capitulo_origen: Capítulo IV. Horarios.
+    articulos_origen:
+    - D. Adicional segunda. Órganos de gobierno de.
+    disposiciones_destino:
+    - D. Adicional segunda
+  - norma_id: norm-and-d327-2010
+    capitulo_origen: Capítulo IV. Horarios.
+    articulos_origen:
+    - D. Adicional segunda. Órganos de gobierno de.
+    disposiciones_destino:
+    - D. Adicional segunda
+  - norma_id: norm-and-d-327-2010
+    capitulo_origen: Capítulo IV. Horarios.
+    articulos_origen:
+    - D. Adicional tercera. Elaboración del Plan de.
+    disposiciones_destino:
+    - D. Transitoria primera
+  - norma_id: norm-and-d327-2010
+    capitulo_origen: Capítulo IV. Horarios.
+    articulos_origen:
+    - D. Adicional tercera. Elaboración del Plan de.
+    disposiciones_destino:
+    - D. Transitoria primera
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
 ---
+
 # Orden de 20 de agosto de 2010, por la que se regulan la organización y el funcionamiento de las escuelas infantiles de segundo ciclo, de los colegios de educación primaria, de los colegios de educación infantil y primaria y de los centros específicos de educación especial.
 
 ## Preámbulo
@@ -43,7 +147,7 @@ relaciones:
 Página núm. 4 Sevilla, 30 de agosto 2010 CONSEJERÍA DE EDUCACIÓN ORDEN de 20 de agosto de 2010, por la que se regula la organización y el funcionamiento de los institutos de educación secundaria, así como el horario de los centros, del alumnado y del profesorado. El Reglamento Orgánico de los institutos de educación secundaria, aprobado por el Decreto 327/2010, de 13 de julio, ha regulado determinados aspectos relacionados con el alumnado y las familias, con el profesorado, con el personal de administración y servicios y con la organización, el funcionamiento y la evaluación de los institutos de educación secundaria. La regulación establecida pretende impulsar la autonomía pedagógica, organizativa y de gestión de los institutos, al tiempo que profundiza en la cultura de la evaluación permanente y la rendición de cuentas, con el objetivo de alcanzar la excelencia educativa, procurar el éxito escolar de todo el alumnado y, en consecuencia, reducir el abandono educativo temprano. Todo ello requiere un desarrollo normativo en el que se establezca el marco específico de actuación en la vida de los institutos de educación secundaria, concretando determinados aspectos en los que el propio Reglamento Orgánico remite a lo que se disponga en normas de inferior rango. Con respecto al Plan de Centro, documento en el que se concreta el modelo de funcionamiento propio del instituto, se han desarrollado aspectos relacionados con su difusión entre todos los miembros de la comunidad educativa y la ciudadanía en general, su actualización o modificación y los procesos de autoevaluación del centro. Asimismo, se han regulado determinados aspectos relativos a la designación y nombramiento de las personas titulares de los órganos de coordinación docente, así como al plan de reuniones de dichos órganos y, en particular, se han establecido ciertos elementos relativos a la organización de la tutoría. Por otra parte, en la presente Orden se realiza la regulación del horario general del instituto, así como del horario lectivo del alumnado y del individual del profesorado, incluido el horario de dedicación de los miembros del equipo directivo a las tareas de dirección y del dedicado a la realización de las funciones de coordinación docente. Finalmente, se establecen las funciones del profesorado especializado para la atención del alumnado con necesidades educativas especiales y del de guardia y se regulan los criterios para la asignación entre el profesorado de las materias, módulos, ámbitos, cursos, grupos y, en su caso, turnos que tenga encomendados cada departamento de coordinación didáctica. En su virtud, a propuesta de la Dirección General competente en materia de ordenación educativa y de acuerdo con las facultades que me confiere el artículo 44.2 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, y la disposición final sexta del Decreto 327/2010, de 13 de julio,
 DISPONGO:
 
-### Capítulo I
+#### Artículo . #### Artículo . ### Capítulo I
 
 ### Disposiciones generales artículo 1 Objeto. La presente Orden tiene por objeto regular determinados
 
@@ -53,7 +157,7 @@ aspectos de la organización y el funcionamiento de los institutos de educación
 
 La presente Orden será de aplicación en los institutos de educación secundaria dependientes de la Consejería competente en materia de educación de la Junta de Andalucía.
 
-## Capítulo II. Plan de Centro y autoevaluación.
+### Capítulo II. Plan de Centro y autoevaluación.
 
 #### Artículo 3. El Plan de Centro.
 
@@ -89,7 +193,7 @@ Sevilla, 30 de agosto 2010 Página núm. 5 será aprobada e incluida en el Siste
 
 La inspección educativa asesorará al departamento de formación, evaluación e innovación educativa en la determinación de los indicadores de calidad y supervisará el proceso de autoevaluación de los institutos de educación secundaria, así como la elaboración de la correspondiente memoria, y velará para que se incluyan en la misma las propuestas de mejora que se deriven de la autoevaluación y de la evolución de los indicadores a que se refiere el artículo 6.2 y para que se realicen las actualizaciones o modificaciones del Plan de Centro que correspondan.
 
-## Capítulo III. Órganos de coordinación docente.
+### Capítulo III. Órganos de coordinación docente.
 
 #### Artículo 8. Designación, nombramiento y plan de reuniones de los órganos de coordinación docente.
 
@@ -117,7 +221,7 @@ La inspección educativa asesorará al departamento de formación, evaluación e
 
 6. De conformidad con la disposición adicional cuarta del Decreto 327/2010, de 13 de julio, el proyecto educativo de los institutos de educación secundaria recogerá la forma de organizar y coordinar la tutoría del primer curso de educación secundaria obligatoria con las tutorías del último curso de los centros de educación primaria adscritos al instituto. A estos efectos, el departamento de orientación, en colaboración con los equipos de orientación educativa de la zona y bajo la supervisión de las jefaturas de estudios de los centros afectados, elaborarán un programa de tránsito en el que deberán coordinarse acciones dirigidas al alumnado y a las familias.
 
-## Capítulo IV. Horarios.
+### Capítulo IV. Horarios.
 
 #### Artículo 10. Elaboración de los horarios.
 
@@ -318,4 +422,32 @@ de la presente Orden. La inspección educativa velará por el cumplimiento de la
 
 #### Disposición final segunda. Entrada en vigor.
 
-La presente Orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 20 de agosto de 2010 FRANCISCO JOSÉ ÁLVAREZ DE LA CHICA Consejero de Educación ORDEN de 20 de agosto de 2010, por la que se regula la organización y el funcionamiento de las escuelas infantiles de segundo ciclo, de los colegios de educación primaria, de los colegios de educación infantil y primaria y de los centros públicos específicos de educación especial, así como el horario de los centros, del alumnado y del profesorado. El Reglamento Orgánico de las escuelas infantiles de segundo ciclo, de los colegios de educación primaria, de los colegios de educación infantil y primaria y de los centros públicos específicos de educación especial, aprobado por el Decreto 328/2010, de 13 de julio, ha regulado determinados aspectos relacionados con el alumnado y las familias, con el profesorado, con el personal de administración y servicios y con la organización, el funcionamiento y la evaluación de dichos centros. La regulación establecida pretende impulsar la autonomía pedagógica, organizativa y de gestión de estos centros, al tiempo que profundiza en la cultura de la evaluación permanente y la rendición de cuentas, con el objetivo de alcanzar la excelencia educativa y procurar el éxito escolar de todo el alumnado. Todo ello requiere un desarrollo normativo en el que se establezca el marco específico de actuación en la vida de los centros, concretando determinados aspectos en los que el
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**D327_2010 ROC IES Andalucia**](../02_gestion_y_administracion_centros/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Art. 44, D. Final sexta)
+- **Desarrolla**: [**Decreto 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](./D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Art. 44, D. Final sexta)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**D327_2010 ROC IES Andalucia**](../02_gestion_y_administracion_centros/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (D. Adicional cuarta) desde *(Capítulo III. Órganos de coordinación docente., Art. 9)*
+- **Fundamentado en**: [**Decreto 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](./D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (D. Adicional cuarta) desde *(Capítulo III. Órganos de coordinación docente., Art. 9)*
+- **Fundamentado en**: [**Decreto 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](./D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Art. 77) desde *(Capítulo IV. Horarios., Art. 10)*
+- **Fundamentado en**: [**Decreto 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](./D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Art. 15) desde *(Capítulo IV. Horarios., Art. 17)*
+- **Fundamentado en**: [**D327_2010 ROC IES Andalucia**](../02_gestion_y_administracion_centros/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Art. 3) desde *(Capítulo IV. Horarios., D. Adicional primera. Órganos de coordinación.)*
+- **Fundamentado en**: [**Decreto 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](./D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Art. 3) desde *(Capítulo IV. Horarios., D. Adicional primera. Órganos de coordinación.)*
+- **Fundamentado en**: [**D327_2010 ROC IES Andalucia**](../02_gestion_y_administracion_centros/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (D. Adicional segunda) desde *(Capítulo IV. Horarios., D. Adicional segunda. Órganos de gobierno de.)*
+- **Fundamentado en**: [**Decreto 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](./D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (D. Adicional segunda) desde *(Capítulo IV. Horarios., D. Adicional segunda. Órganos de gobierno de.)*
+- **Fundamentado en**: [**D327_2010 ROC IES Andalucia**](../02_gestion_y_administracion_centros/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (D. Transitoria primera) desde *(Capítulo IV. Horarios., D. Adicional tercera. Elaboración del Plan de.)*
+- **Fundamentado en**: [**Decreto 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](./D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (D. Transitoria primera) desde *(Capítulo IV. Horarios., D. Adicional tercera. Elaboración del Plan de.)*
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Cita a**: [**D327_2010 ROC IES Andalucia**](../02_gestion_y_administracion_centros/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Título V, Capítulo II) desde *(Capítulo II. Plan de Centro y autoevaluación., Art. 3)*
+- **Cita a**: [**Decreto 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](./D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) (Título V, Capítulo II) desde *(Capítulo II. Plan de Centro y autoevaluación., Art. 3)*
+- **Cita a**: [**D301_2009 Reglamento Centros Enseñanzas Deportivas Andalucía**](../02_gestion_y_administracion_centros/D301_2009_reglamento_centros_ensenanzas_deportivas_andalucia.md) desde *(Capítulo IV. Horarios., Art. 12)*
+- **Cita a**: [**D327_2010 ROC IES Andalucia**](../02_gestion_y_administracion_centros/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) desde *(Capítulo IV. Horarios., D. Transitoria única. Vigencia de los Proyectos de.)*
+- **Cita a**: [**Decreto 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](./D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) desde *(Capítulo IV. Horarios., D. Transitoria única. Vigencia de los Proyectos de.)*
+- **Cita a**: [**D328_2010 ROC Escuelas Infantiles y CEIP Andalucia**](../02_gestion_y_administracion_centros/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md) desde *(Capítulo IV. Horarios., D. Final segunda. Entrada en vigor.)*
+- **Cita a**: [**Decreto 328/2010, de 13 de julio, por el que se aprueba el Reglamento Orgán**](./D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md) desde *(Capítulo IV. Horarios., D. Final segunda. Entrada en vigor.)*

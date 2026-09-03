@@ -10,11 +10,13 @@ organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunida
 tipo_disposicion: Orden
 numero_disposicion: 1240/2013
 fecha_disposicion: '2013-04-17'
-fecha_publicacion: '2013-04-22'
+fecha_publicacion: '2013-04-19'
 boletin: BOCM
+numero_boletin: '92'
 estado: Vigente
 redaccion: original
-fuente_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2013/04/22/BOCM-20130422-1.PDF
+fuente_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2013/04/19/BOCM-20130419-7.PDF
+fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2013/04/22/BOCM-20130422-1.PDF
 clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión de alumnado
@@ -25,93 +27,588 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
-  modifica_a: []
-  modificado_por: []
-  afecta_a_articulos: []
   fundamentado_en:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-mad-d-29-2013
-fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2013/04/22/BOCM-20130422-1.PDF
 ---
+
 # Orden 1240/2013, de 17 de abril, de la Consejería de Educación, Juventud y Deporte, por la que se establece el procedimiento para la admisión de alumnos en centros docentes sostenidos con fondos públicos de la Comunidad de Madrid
 
 ## Preámbulo
 
-Pág. 12 I. COMUNIDAD DE MADRID
-B) Autoridades y Personal Consejería de Economía y Hacienda 1 RESOLUCIÓN de 11 de abril de 2013, del Secretario General Técnico de la Consejería de Economía y Hacienda, por la que se convocan puestos de trabajo para su provisión por el sistema de Concurso de Méritos en la Consejería de Economía y Hacienda. En esta Consejería es necesario proceder a la provisión, mediante el procedimiento de Concurso de Méritos previsto en el artículo 49.1 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, de los puestos de trabajo reservados a funcionarios de carrera al servicio de la Comunidad de Madrid que se indican en el Anexo. Por ello, y en virtud de la competencia atribuida en el artículo 49.2 de la citada Ley 1/1986, de 10 de abril,
-RESUELVO:
-Primero Objeto Se aprueba convocatoria pública para la provisión de los puestos de trabajo que figuran en Anexo, mediante el procedimiento de Concurso de Méritos entre funcionarios de carrera al servicio de la Comunidad de Madrid.
-Segundo Normativa aplicable La presente convocatoria se regirá, en todo lo referente a su organización y desarrollo, por lo dispuesto en la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 24 de abril); la Ley 4/1989, de 6 de abril, de Provisión de Puestos de Trabajo Reservados a Funcionarios de la Comunidad de Madrid (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 4 de mayo de 1989); la Orden 923/1989, de 20 de abril, de la Consejería de Hacienda, por la que se aprueban las bases generales que han de regir en las convocatorias para provisión de puestos de trabajo por los sistemas de Concurso de Méritos y Libre Designación (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 27 de abril); la Orden 2094/1990, de 31 de agosto, de la Consejería de Hacienda, por la que se regula el sistema general que ha de regir en las diferentes convocatorias que se publiquen para los concursos de provisión de puestos de trabajo (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 7 de septiembre); la Orden 2066/1998, de 30 de julio, por la que se aprueban nuevos modelos de impresos relativos a los procesos de provisión de puestos de trabajo de personal funcionario (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 11 de agosto); la Resolución de 27 de octubre de 2011, de la Directora General de Presupuestos y Recursos Humanos, por la que se dictan instrucciones para la emisión de los certificados de Registro de Personal en los procedimientos de provisión, por los sistemas de Concurso de Méritos y Libre Designación, de puestos de trabajo de la Comunidad de Madrid reservados a personal funcionario de carrera no docente (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 15 de noviembre de 2011), y, en lo no previsto por las anteriores, el Real Decreto 364/1995, de 10 de marzo, por el que se aprueba el Reglamento General de Ingreso del Personal al Servicio de la Administración General del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la Administración General del Estado ("Boletín Oficial del Estado" de 10 de abril).
+BOCM
+Consejería de Educación, Juventud y Deporte
+7
+ORDEN 1240/2013, de 17 de abril, de la Consejería de Educación, Juventud y De-
+porte, por la se establece el procedimiento para la admisión de alumnos en centros
+docentes sostenidos con fondos públicos de segundo ciclo de Educación Infantil,
+Educación Primaria, Educación Especial, Educación Secundaria Obligatoria y
+Bachillerato en la Comunidad de Madrid.
+El Decreto 29/2013, de 11 de abril, del Consejo de Gobierno, de libertad de elección
+de centro escolar en la Comunidad de Madrid, establece, en su disposición final primera, la
+habilitación al titular de la Consejería competente en materia de educación para dictar las
+disposiciones necesarias para el desarrollo y ejecución del citado Decreto. La presente Or-
+den tiene, por tanto, como objetivo fundamental facilitar a las familias la libre elección de
+centro escolar, independientemente de su lugar de domicilio o de trabajo, de conformidad
+con lo establecido en el citado decreto de libertad de elección.
+Actualmente, es la Consejería de Educación, Juventud y Deporte la que posee dichas
+atribuciones de acuerdo con las competencias que le atribuye el Decreto 126/2012, de 25 de
+octubre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Con-
+sejería de Educación, Juventud y Deporte.
+En el proceso de elaboración de esta Orden, ha emitido dictamen el Consejo Escolar
+de la Comunidad de Madrid, de acuerdo con el artículo 2.1.b) de la Ley 12/1999, de 29 de
+abril, de creación del Consejo Escolar de la Comunidad de Madrid, modificado por el ar-
+tículo 29 de la Ley 9/2010, de 23 de diciembre. Asimismo, se ha tenido en cuenta el artícu-
+lo 41.d) de la Ley 1/1983, de 13 de diciembre, del Gobierno y la Administración de la Co-
+munidad de Madrid.
+En su virtud, de conformidad con las atribuciones que me confiere el ordenamiento
+vigente,
+DISPONGO:
 
-Pág. 13
-Tercero Requisitos y condiciones de participación 1. Se recogen en Anexo los requisitos indispensables que han de reunirse para el desempeño de los puestos de trabajo que se convocan, en cuanto a Administración de pertenencia, Grupo de clasificación profesional, Cuerpo, Escala y/o especialidad, y titulación específica exigida, en su caso. 2. Podrán participar en este procedimiento los funcionarios que, en la fecha de entrada en vigor de la presente convocatoria, se encuentren en servicio activo o quieran reingresar a dicha situación, con arreglo, en este caso, a lo dispuesto en la normativa vigente. Podrán, asimismo, participar los funcionarios que, en la misma fecha, se encuentren en situación de servicios especiales. 3. Los funcionarios en situación de servicio activo podrán participar si, en la fecha de entrada en vigor de esta convocatoria, han transcurrido dos años desde la toma de posesión del último destino definitivo obtenido, salvo que opten a puestos adscritos en la misma Consejería en que estén prestando servicio, sean titulares de un puesto obtenido por el sistema de Libre Designación o se encuentren en alguno de los supuestos de adscripción provisional previstos en el artículo 53 bis de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid. A efectos del cómputo de los dos años al que se alude en el párrafo anterior, a los funcionarios que hayan accedido a otro Cuerpo, Escala y/o especialidad por promoción interna y permanezcan en el puesto de trabajo que venían desempeñando se les computará el tiempo de servicios prestados en dicho puesto en el Cuerpo, Escala y/o especialidad de procedencia. 4. Los funcionarios en situación de excedencia voluntaria por interés particular o por agrupación familiar podrán participar si llevan más de dos años en dicha situación en la fecha de entrada en vigor de la convocatoria, indicando expresamente en la solicitud que desean reingresar al servicio activo. 5. Los funcionarios procedentes de la situación de suspenso deberán haber cumplido el período de suspensión. 6. Los requisitos y condiciones de participación expresados en el presente apartado han de poseerse en la fecha de entrada en vigor de la presente convocatoria y mantenerse hasta la resolución del procedimiento.
-Cuarto Solicitudes 1. Las solicitudes se formularán de acuerdo con el modelo aprobado por la Orden 2066/1998, de 30 de julio, por la que se aprueban nuevos modelos de impresos relativos a los procesos de provisión de puestos de trabajo de personal funcionario (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 11 de agosto). En el caso de ser varias las plazas solicitadas se indicará el orden de preferencia entre las mismas. 2. Las solicitudes irán acompañadas de:
-a) Certificado firmado por el Secretario General Técnico de la Consejería o Gerente del organismo donde el funcionario preste servicios en la fecha de entrada en vigor de la presente convocatoria, acreditativo de las ausencias motivadas por incapacidad temporal derivadas de contingencias comunes o del disfrute de licencias sin sueldo, determinando si dichas ausencias superan o no el 20 por 100 de la jornada prevista según el calendario laboral, dentro de cada año natural a partir de la entrada en vigor de la Ley 3/2008, de 29 de diciembre, de Medidas Fiscales y Administrativas (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 30 de diciembre), que modifica la disposición transitoria segunda de la Ley 4/1989, de 6 de abril, de Provisión de Puestos de Trabajo Reservados a Funcionarios de la Comunidad de Madrid. b) En el caso de que los interesados hayan desempeñado puestos de trabajo con carácter definitivo en otras Administraciones públicas en los cinco años inmediatamente anteriores a la entrada en vigor de la convocatoria, certificado emitido por el Registro de Personal de la Administración correspondiente, en relación con los destinos ocupados en dichas Administraciones durante el citado período, que deberá ser aportado por el interesado.
+#### Artículo . #### Artículo . #### Capítulo I
 
-Pág. 14 c) Documentación, original o copia cotejada, acreditativa de los méritos, preferentes y no preferentes, que se aleguen. 3. Los certificados de Registro de Personal de los interesados relativos a su situación y destinos en la Comunidad de Madrid serán emitidos de conformidad con lo previsto en la Resolución de 27 de octubre de 2011, de la Directora General de Presupuestos y Recursos Humanos, por la que se dictan instrucciones para la emisión de los certificados de Registro de Personal en los procedimientos de provisión, por los sistemas de Concurso de Méritos y Libre Designación, de puestos de trabajo de la Comunidad de Madrid reservados a personal funcionario de carrera no docente, sin que deban ser solicitados ni aportados por el interesado.
-Quinto Méritos 1. Los méritos alegados por los candidatos se valorarán de acuerdo a lo previsto en la normativa aplicable. 2. En particular, la valoración del trabajo desarrollado se realizará teniendo en cuenta los puestos de trabajo de los que haya sido titular el aspirante como funcionario de carrera en los cinco años inmediatamente anteriores a la entrada en vigor de la convocatoria, de acuerdo con los certificados emitidos al efecto por el Registro de Personal correspondiente. 3. Las funciones desempeñadas en la Comunidad de Madrid se acreditarán, a efectos de la valoración de los méritos no preferentes, de acuerdo con el modelo aprobado por la Orden de 2066/1998, de 30 de julio.
-Sexto Presentación y plazo 1. De conformidad con lo establecido en el artículo 1, base sexta, de la Orden 923/1989, de 20 de abril, las solicitudes se dirigirán a la Secretaría General Técnica de la Consejería de Economía y Hacienda y se presentarán, en el plazo de quince días hábiles a contar desde la fecha de entrada en vigor de la convocatoria, en el Registro de dicha Consejería o en la forma establecida en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. Durante el plazo de presentación de solicitudes los concursantes podrán efectuar modificaciones en su solicitud, así como aportar cualquier documentación que consideren oportuna para la valoración de sus méritos. 2. En ningún caso podrán valorarse méritos que no hayan sido debidamente acreditados en el plazo de presentación de instancias.
-Séptimo Trámite de alegaciones 1. Finalizada la valoración de la documentación presentada y con anterioridad a la propuesta de adjudicación de la Junta de Méritos, se publicará en los tablones de anuncios de la Consejería la relación provisional de los aspirantes admitidos y no admitidos al proceso de provisión, con indicación de la puntuación obtenida en cada uno de los méritos preferentes y no preferentes alegados, así como la puntuación obtenida por ambos conceptos. Dicha relación se podrá consultar en la página web de la Comunidad de Madrid. 2. Contra la publicación de la relación de aspirantes se podrán formular las alegaciones que se consideren oportunas en el plazo de diez días hábiles a contar desde el día siguiente al de su exposición en los tablones de anuncios.
-Octavo Puntuación mínima 1. Los puestos de trabajo convocados no podrán declararse desiertos cuando existan concursantes que, habiéndolos solicitado, hayan obtenido una puntuación mínima de 10 puntos. Dicha puntuación mínima no podrá ser exigida en los puestos cuyo nivel de complemento de destino sea el de ingreso en el Cuerpo, Escala y especialidad de que se trate. 2. Sin embargo, de conformidad con lo establecido en el artículo 1, base undécima, apartado 4, de la Orden 923/1989, de 20 de abril, la Junta de Méritos podrá proponer, de
+Disposiciones generales
 
-Pág. 15 manera motivada, la adjudicación de puestos a candidatos que no lleguen a la puntuación mínima señalada, siempre que dichos candidatos hayan acreditado un nivel adecuado y previo informe favorable de la unidad de adscripción de los puestos de que se trate.
-Noveno Desistimientos y renuncias 1. Los participantes solo podrán desistir de su solicitud hasta la fecha de finalización del plazo concedido para formular alegaciones contra la lista provisional de admitidos y excluidos al que hace referencia el apartado séptimo. El desistimiento se admitirá en relación con la solicitud de participación en la totalidad del procedimiento de que se trate, pero no respecto de uno o varios de los puestos solicitados de manera aislada. 2. Los destinos adjudicados serán irrenunciables.
-Décimo Entrada en vigor La presente Resolución producirá efectos desde el día siguiente al de su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID. Undécimo Recursos La presente Resolución pone fin a la vía administrativa y contra la misma podrá interponerse, con carácter potestativo, recurso de reposición en el plazo de un mes ante el mismo órgano que la ha dictado, o bien recurso contencioso-administrativo, en el plazo de dos meses, ante los Juzgados de lo Contencioso-Administrativo de Madrid, ambos plazos contados a partir del día siguiente a su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, sin perjuicio de cualquier otro recurso que se estime procedente en derecho, todo ello de conformidad con lo dispuesto en los artículos 116 y 117 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y 46 de la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa. Madrid, a 11 de abril de 2013.—El Secretario General Técnico, por delegación del Consejero de Economía y Hacienda (Orden de 20 de febrero de 2013, BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 4 de marzo), Francisco Lobo Montalbán.
+#### Artículo 1. Objeto y ámbito de aplicación
 
-Pág. 16 Pá i 1 d 9 Puesto/Denominación NCD Grupo Unidad Orgánica Específico Administración Pública Cuerpo Escala Especialidad Admon EXPERIENCIA EN MATERIA DE ARCHIVO:
-EXPERIENCIA EN EL MANEJO DEL PAQUETE OFIMÁTICO DE LA COMUNIDAD DE MADRID:
-4 4 MAÑANA Madrid Localidad........:
-Turno/Jornada:
-MERITOS 833 SECRETARIA/O J.S. C/D 15 6.430,56 COMUNIDAD DE MADRID CONSEJERIA ECONOMIA Y HACIENDA VICECONSEJERIA ECONOMIA, COMERCIO Y CONSUMO DIRECCION GENERAL INDUSTRIA, ENERGIA Y MINAS SUBDIRECCION GENERAL PROMOCION INDUSTRIAL Y ENERGETICA SERVICIO GESTION ADMINISTRATIVA Y JURIDICA ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL G AUXILIARES DE ADMINISTRACIÓN GENERAL G Pá i 2 d 9 Puesto/Denominación NCD Grupo Unidad Orgánica Específico Administración Pública Cuerpo Escala Especialidad Admon EXPERIENCIA EN MATERIA DE ARCHIVO:
-EXPERIENCIA EN EL MANEJO DEL PAQUETE OFIMÁTICO DE LA COMUNIDAD DE MADRID:
-4 4 MAÑANA Madrid Localidad........:
-Turno/Jornada:
-MERITOS 835 NEG. TRAMITACION IV C/D 16 6.713,52 COMUNIDAD DE MADRID CONSEJERIA ECONOMIA Y HACIENDA VICECONSEJERIA ECONOMIA, COMERCIO Y CONSUMO DIRECCION GENERAL INDUSTRIA, ENERGIA Y MINAS SUBDIRECCION GENERAL INDUSTRIA E INSPECCION AREA INSTALACIONES INDUSTRIALES Y CAPACITACION REGLAMENTARIA
-SECCION HABILITACION Y CAPACITACION REGLAMENTARIA NEGOCIADO TRAMITACION IV ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL G AUXILIARES DE ADMINISTRACIÓN GENERAL G LISTADO DE PUESTOS DE TRABAJO VINCULADOS A UNA CONVOCATORIA DE CONCURSO DE MÉRITOS EN LA CONSEJERÍA DE ECONOMÍA Y HACIENDA
+La presente Orden tiene por objeto regular el procedimiento de admisión de alumnos
+en centros docentes sostenidos con fondos públicos que imparten segundo ciclo de Educa-
+ción Infantil, Educación Primaria, Educación Especial, Educación Secundaria Obligatoria
+y Bachillerato en el ámbito de la Comunidad de Madrid.
 
-Pág. 17 Pá i 3 d 9 Puesto/Denominación NCD Grupo Unidad Orgánica Específico Administración Pública Cuerpo Escala Especialidad Admon EXPERIENCIA EN MATERIA DE ARCHIVO:
-EXPERIENCIA EN EL MANEJO DEL PAQUETE OFIMÁTICO DE LA COMUNIDAD DE MADRID:
-4 4 MAÑANA Madrid Localidad........:
-Turno/Jornada:
-MERITOS 862 SECRETARIA/O C/D 15 6.430,56 COMUNIDAD DE MADRID CONSEJERIA ECONOMIA Y HACIENDA VICECONSEJERIA ECONOMIA, COMERCIO Y CONSUMO DIRECCION GENERAL INDUSTRIA, ENERGIA Y MINAS SUBDIRECCION GENERAL INDUSTRIA E INSPECCION AREA INSTALACIONES INDUSTRIALES Y CAPACITACION REGLAMENTARIA ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL G AUXILIARES DE ADMINISTRACIÓN GENERAL G Pá i 4 d 9 Puesto/Denominación NCD Grupo Unidad Orgánica Específico Administración Pública Cuerpo Escala Especialidad Admon EXPERIENCIA EN EL MANEJO DEL PAQUETE OFIMÁTICO DE LA COMUNIDAD DE MADRID:
-EXPERIENCIA EN ATENCIÓN TELEFÓNICA Y PERSONAL:
-4 4 MAÑANA Madrid Localidad........:
-Turno/Jornada:
-MERITOS 895 SECRETARIA/O C/D 15 6.430,56 COMUNIDAD DE MADRID CONSEJERIA ECONOMIA Y HACIENDA VICECONSEJERIA ECONOMIA, COMERCIO Y CONSUMO DIRECCION GENERAL INDUSTRIA, ENERGIA Y MINAS SUBDIRECCION GENERAL ENERGIA Y MINAS AREA MINAS E INSTALACIONES DE SEGURIDAD ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL G AUXILIARES DE ADMINISTRACIÓN GENERAL G
+#### Artículo 2. Participación de las familias
 
-Pág. 18 Pá i 5 d 9 Puesto/Denominación NCD Grupo Unidad Orgánica Específico Administración Pública Cuerpo Escala Especialidad Admon EXPERIENCIA EN LA REALIZACIÓN DE FUNCIONES INSPECTORAS:
-EXPERIENCIA EN EL MANEJO DE LA APLICACIÓN INFORMÁTICA DE RED DE ALERTA DEL INC:
-EXPERIENCIA EN INSTRUCCIÓN DE EXPEDIENTES ADMINISTRATIVOS SANCIONADORES:
-3 3 2 MAÑANA Madrid Localidad........:
-Turno/Jornada:
-MERITOS UNIDAD DE SEGUIMIENTO DE INSPECCION A/B 23 9.019,44 COMUNIDAD DE MADRID CONSEJERIA ECONOMIA Y HACIENDA VICECONSEJERIA ECONOMIA, COMERCIO Y CONSUMO DIRECCION GENERAL CONSUMO SUBDIRECCION GENERAL INSPECCION Y CONTROL DEL MERCADO SERVICIO INSPECCION Y SEGURIDAD TÉCNICOS SUPERIORES ESPECIALISTAS CONSUMO E TÉCNICOS Y DIPLOMADOS ESPECIALISTAS E Pá i 6 d 9 Puesto/Denominación NCD Grupo Unidad Orgánica Específico Administración Pública Cuerpo Escala Especialidad Admon EXPERIENCIA EN LA TRAMITACIÓN DEL PROCEDIMIENTO ADMINISTRATIVO DE RETIRADA DE PRODUCTOS Y BIENES DE CONSUMO NO ALIMENTARIOS:
-EXPERIENCIA EN LA INCOACIÓN DE EXPEDIENTES ADMINISTRATIVOS SANCIONADORES EN EL ÁMBITO DE CONSUMO DE PRODUCTOS Y BIENES NO ALIMENTARIOS:
-EXPERIENCIA EN LA GESTIÓN DE EXPEDIENTES ADMINISTRATIVOS EN MATERIA DE RECAUDACIÓN DE INGRESOS Y RECURSOS ADMINISTRATIVOS EN EL ÁMBITO DE CONSUMO DE PRODUCTOS Y BIENES NO ALIMENTARIOS:
-EXPERIENCIA EN LA INSTRUCCIÓN DE EXPEDIENTES ADMINISTRATIVOS SANCIONADORES EN EL ÁMBITO DE CONSUMO DE PRODUCTOS Y BIENES NO ALIMENTARIOS:
-3 2 2 1 MAÑANA Madrid Localidad........:
-Turno/Jornada:
-MERITOS SEC. PROCEDIMIENTO A/B 25 11.652,96 COMUNIDAD DE MADRID CONSEJERIA ECONOMIA Y HACIENDA VICECONSEJERIA ECONOMIA, COMERCIO Y CONSUMO DIRECCION GENERAL CONSUMO SUBDIRECCION GENERAL INSPECCION Y CONTROL DEL MERCADO SERVICIO PROCEDIMIENTO
-SECCION PROCEDIMIENTO TÉCNICOS SUPERIORES ESPECIALISTAS CONSUMO E TÉCNICOS Y DIPLOMADOS ESPECIALISTAS CONSUMO E
+1.
+Los padres o representantes legales de los alumnos o, en su caso, los alumnos
+cuando sean mayores de edad, podrán solicitar plaza escolar en los centros sostenidos con
+fondos públicos dentro de los plazos establecidos para ello por la Consejería de Educación,
+Juventud y Deporte.
+2.
+Asimismo, las familias podrán consultar la información que sobre los centros edu-
+cativos la Consejería de Educación, Juventud y Deporte pone a su disposición a través del
+portal escolar (www.madrid.org). Igualmente, podrán solicitar y consultar en los centros
+educativos información relativa a su proyecto educativo, su reglamento de régimen interior,
+sus recursos y servicios y, en su caso, acerca de su carácter propio.
 
-Pág. 19 Pá i 7 d 9 Puesto/Denominación NCD Grupo Unidad Orgánica Específico Administración Pública Cuerpo Escala Especialidad Admon EXPERIENCIA EN MATERIA DE ARCHIVO:
-EXPERIENCIA EN EL MANEJO DEL PAQUETE OFIMÁTICO DE LA COMUNIDAD DE MADRID:
-4 4 MAÑANA Madrid Localidad........:
-Turno/Jornada:
-MERITOS SECRETARIA/O C/D 15 6.430,56 COMUNIDAD DE MADRID CONSEJERIA ECONOMIA Y HACIENDA VICECONSEJERIA ECONOMIA, COMERCIO Y CONSUMO DIRECCION GENERAL INDUSTRIA, ENERGIA Y MINAS SUBDIRECCION GENERAL INDUSTRIA E INSPECCION AREA INSPECCION Y CONTROL INDUSTRIAL ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL G AUXILIARES DE ADMINISTRACIÓN GENERAL G Pá i 8 d 9 Puesto/Denominación NCD Grupo Unidad Orgánica Específico Administración Pública Cuerpo Escala Especialidad Admon EXPERIENCIA EN APOYO A LA TRAMITACIÓN ADMINISTRATIVA DE EXPEDIENTES PARA EL OTORGAMIENTO DE AUTORIZACIONES Y CONCESIONES MINERAS:
-EXPERIENCIA EN APOYO A LA TRAMITACIÓN ADMINISTRATIVA DE EXPEDIENTES DE APROBACIÓN DE PLANES DE LABORES PARA EXPLOTACIONES MINERAS:
-EXPERIENCIA EN APOYO A LA TRAMITACIÓN ADMINISTRATIVA DE EXPEDIENTES DE APROBACIÓN DE PROYECTOS DE VOLADURAS:
-EXPERIENCIA EN EL MANEJO DE LA APLICACIÓN INFORMÁTICA MINA DE LA COMUNIDAD DE MADRID:
-2 2 2 2 MAÑANA Madrid Localidad........:
-Turno/Jornada:
-MERITOS SUBSEC. TRAMITACION B/C 22 9.471,24 COMUNIDAD DE MADRID CONSEJERIA ECONOMIA Y HACIENDA VICECONSEJERIA ECONOMIA, COMERCIO Y CONSUMO DIRECCION GENERAL INDUSTRIA, ENERGIA Y MINAS SUBDIRECCION GENERAL ENERGIA Y MINAS AREA MINAS E INSTALACIONES DE SEGURIDAD
+BOCM
 
-#### SECCION INSTALACIONES DE SEGURIDAD
+#### Artículo 3. Prioridad en la admisión para alumnos de centros adscritos
 
-SUBSECCION TRAMITACION TÉCNICOS DE GESTIÓN DE ADMINISTRACIÓN GENERAL G ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL G
+1.
+Los alumnos procedentes de centros adscritos a efectos de escolarización tendrán
+prioridad para ser admitidos en el centro solicitado a través del procedimiento que establez-
+ca la Consejería de Educación, Juventud y Deporte.
+2.
+Las Escuelas Infantiles que están ubicadas en recintos de colegios públicos de Edu-
+cación Infantil y Primaria, podrán estar adscritas a los citados colegios públicos si en el ci-
+tado centro existe la posibilidad de vacantes suficientes para escolarizar a todos los alumnos.
+3.
+Con el fin de facilitar el acceso al primer curso de Educación Primaria de los alum-
+nos escolarizados en las Escuelas Infantiles que cuenten con el segundo ciclo completo de
+la etapa y en aquellos otros casos en que la Consejería de Educación, Juventud y Deporte
+determine, dichos centros podrán estar adscritos a los colegios públicos de Educación In-
+fantil y Primaria según aconseje la distribución y ubicación de los mismos.
+4.
+Los centros privados sostenidos con fondos públicos que únicamente imparten en-
+señanzas de Educación Infantil y cuenten con unidades concertadas en el segundo ciclo de
+dicha etapa, podrán realizar, en el marco de su autonomía, sus propuestas de adscripción a
+colegios públicos o a otros centros privados sostenidos con fondos públicos a efectos de es-
+colarización.
+5.
+Todo centro público de Educación Primaria estará adscrito a efectos de escolari-
+zación, a centros públicos de Educación Secundaria según el procedimiento de adscripción
+múltiple. Los centros cuyos alumnos hayan de escolarizarse en Educación Secundaria Obli-
+gatoria y requieran transporte escolar, serán adscritos de acuerdo con la planificación que
+realice al efecto cada Dirección de Área Territorial, que tendrá en consideración la oferta
+educativa y la organización del citado servicio.
+6.
+Los colegios públicos bilingües que hayan implantado el programa bilingüe en sex-
+to curso de Educación Primaria estarán adscritos de manera preferente a un instituto bilin-
+güe en lengua inglesa y, a la vez, tendrán adscripción múltiple al resto de institutos bilingües
+de la Comunidad de Madrid. Dichos centros también podrán estar adscritos, según el mode-
+lo de adscripción múltiple, a otros Institutos de Educación Secundaria de régimen ordinario.
+7.
+La Consejería de Educación, Juventud y Deporte regulará el procedimiento para
+solicitar y resolver las peticiones de adscripción formuladas por los centros.
 
-Pág. 20 http://www.bocm.es D. L.: M. 19.462-1983 ISSN 1989-4791 Pá i 9 d 9 Puesto/Denominación NCD Grupo Unidad Orgánica Específico Administración Pública Cuerpo Escala Especialidad Admon EXPERIENCIA EN MATERIA DE ARCHIVO:
-EXPERIENCIA EN EL MANEJO DEL PAQUETE OFIMÁTICO DE LA COMUNIDAD DE MADRID:
-4 4 MAÑANA Madrid Localidad........:
-Turno/Jornada:
-MERITOS SECRETARIA/O C/D 15 6.430,56 COMUNIDAD DE MADRID CONSEJERIA ECONOMIA Y HACIENDA VICECONSEJERIA ECONOMIA, COMERCIO Y CONSUMO DIRECCION GENERAL INDUSTRIA, ENERGIA Y MINAS ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL G AUXILIARES DE ADMINISTRACIÓN GENERAL G (03/12.571/13)
+### Capítulo II. Servicios de apoyo a la escolarización
+
+#### Artículo 4. Servicios de apoyo a la escolarización
+
+1.
+Con el fin de facilitar el desarrollo del proceso de admisión de alumnos en centros
+sostenidos con fondos públicos, en cada Dirección de Área Territorial se constituirán Servi-
+cios de apoyo a la escolarización que tendrán carácter permanente. El número y distribu-
+ción geográfica de dichos servicios será establecido por cada Dirección de Área Territorial
+de acuerdo a sus características.
+2.
+Para la escolarización de los alumnos con necesidad específica de apoyo educati-
+vo, como es el caso de aquellos que presentan necesidades educativas especiales, se podrá
+establecer un Servicio de apoyo a la escolarización específico en cada una de las Direccio-
+nes de Área Territorial, cuya composición será determinada por los Directores de Área Te-
+rritorial. Igualmente se podrán establecer Servicios de apoyo a la escolarización específi-
+cos para la escolarización en el Bachillerato de Artes.
+3.
+Los Servicios de apoyo a la escolarización tendrán las siguientes funciones:
+a)
+Informar a las familias y a los alumnos acerca de los servicios, las enseñanzas que
+ofrecen y las plazas disponibles en los mismos.
+b)
+Garantizar la escolarización de los alumnos que no hayan obtenido plaza en nin-
+guno de los centros solicitados. A tal efecto, informarán a los padres, a los repre-
+sentantes legales de los alumnos o, en su caso, a los alumnos acerca de los centros
+docentes con plazas vacantes, para que opten por alguna de ellas, salvaguardando,
+en todo caso, el ejercicio efectivo del derecho a la libre elección de centro por par-
+te de las familias.
+
+BOCM
+c)
+Supervisión del proceso de admisión de alumnos, el cumplimiento de las normas
+que lo regulan y propuesta a la Administración educativa de las medidas que esti-
+men adecuadas.
+d)
+Cualesquiera otras que les asigne la Administración educativa autonómica.
+4.
+Las sedes de los Servicios de apoyo a la escolarización estarán localizadas prefe-
+rentemente en un centro docente público. También podrán estar ubicadas en dependencias
+municipales.
+
+#### Artículo 5. Composición de los Servicios de apoyo a la escolarización
+
+1.
+Los Servicios de apoyo a la escolarización, cuyos integrantes pertenecerán al ám-
+bito territorial correspondiente, tendrán la siguiente composición:
+— Presidente: Un representante de la Administración educativa autonómica.
+— Vocales: Representantes de la Administración Local, de los padres, de los profe-
+sores y de los centros públicos y centros privados concertados.
+2.
+Para facilitar el desarrollo de las funciones encomendadas, los Servicios de apoyo
+a la escolarización podrán contar con el apoyo técnico que proporcione a ese efecto la Con-
+sejería de Educación, Juventud y Deporte. Igualmente, podrán contar con el asesoramiento
+técnico que se estime pertinente para la escolarización de los alumnos con necesidades edu-
+cativas especiales.
+
+### Capítulo III. Proceso ordinario de admisión de alumnos
+
+#### Artículo 6. Criterios de admisión
+
+1.
+Cuando el número de solicitantes para ocupar un puesto escolar en centros soste-
+nidos con fondos públicos sea superior al de vacantes existentes, las solicitudes de admi-
+sión se atenderán o resolverán por los centros educativos mediante la aplicación de los cri-
+terios de admisión y los criterios de desempate que aparecen recogidos en los Anexos I y II
+del Decreto 29/2013, de 11 de abril, del Consejo de Gobierno, de libertad de elección de
+centro escolar en la Comunidad de Madrid.
+2.
+Para cursar las enseñanzas correspondientes a la modalidad de Artes de Bachille-
+rato se tendrán en cuenta, además, los resultados académicos del alumno en las materias re-
+lacionadas directamente con la citada modalidad. La Consejería de Educación, Juventud y
+Deporte determinará la forma de valorar este criterio.
+3.
+Los alumnos que cursen simultáneamente enseñanzas regladas de música o danza
+y enseñanzas de régimen general, así como los alumnos que siguen programas deportivos
+de alto rendimiento, tendrán prioridad para cursar estas últimas en determinados centros,
+según se establezca por la Consejería de Educación, Juventud y Deporte.
+
+#### Artículo 7. Oferta de plazas escolares
+
+1.
+La Administración educativa autonómica fijará, dentro de los límites legales per-
+mitidos, el número de alumnos por unidad escolar que se utilizará en el proceso de admi-
+sión para cada curso escolar, que incluirá la previsión de reserva de plazas para alumnos
+con necesidad específica de apoyo educativo o con necesidades de compensación educati-
+va, según lo dispuesto en el artículo 14 de la presente Orden. En su caso, y según se esta-
+blezca, también se podrá reservar plazas para alumnos cuyas altas calificaciones acrediten
+su excelencia académica. Cualquier modificación de dicho número de alumnos deberá ser
+autorizada por la Administración educativa.
+2.
+La Consejería de Educación, Juventud y Deporte, a través de sus Direcciones de
+Área Territorial, una vez determinadas por parte de los Directores y titulares de los centros
+su oferta de plazas, autorizará anualmente dicha oferta de plazas escolares en todos los cen-
+tros y enseñanzas sostenidas con fondos públicos. En el caso de los centros de Educación
+Secundaria que cuentan con secciones lingüísticas en lengua francesa o alemana, la oferta
+
+BOCM
+autorizada también diferenciará entre las plazas escolares ordinarias y las que correspondan
+a la respectiva sección lingüística.
+
+#### Artículo 8. Escolarización de alumnos que no hayan terminado las enseñanzas del nivel en el que
+
+están matriculados y su centro no las vaya a impartir durante el siguiente curso
+La Administración educativa garantizará, mediante el procedimiento de adscripción
+entre centros, la escolarización de los alumnos matriculados en cursos y centros cuyo fun-
+cionamiento o concierto vaya a extinguirse. Los Servicios de apoyo a la escolarización in-
+formarán a las familias afectadas y facilitarán la escolarización de los alumnos cuyas fami-
+lias lo soliciten.
+
+#### Artículo 9. Participación en el proceso ordinario de admisión de alumnos
+
+1.
+El proceso ordinario de admisión de alumnos es el que se desarrolla previamente
+al inicio de cada curso escolar.
+2.
+Deben participar en el proceso ordinario de admisión de alumnos:
+a)
+Los alumnos que deseen acceder por primera vez a centros de segundo ciclo de
+Educación Infantil o de Educación Primaria sostenidos con fondos públicos.
+b)
+Los alumnos que deseen acceder a centros sostenidos con fondos públicos que im-
+partan Educación Secundaria Obligatoria y a cualquiera de las modalidades de Ba-
+chillerato.
+c)
+Los alumnos que no tengan plaza asignada por la vía de adscripción en los centros
+de Educación Primaria o de Educación Secundaria.
+d)
+Los alumnos que deseen solicitar un centro de Educación Primaria o de Educación
+Secundaria diferente a aquel en el que hubieran obtenido reserva de plaza por la
+vía de adscripción.
+e)
+Los alumnos que deseen cambiar de centro.
+3.
+No están obligados a participar en el proceso ordinario de admisión los siguientes
+alumnos:
+a)
+Los alumnos que cambien de una etapa educativa a otra dentro de un mismo centro
+o recinto escolar, estando sostenidas ambas etapas por fondos públicos en el cur-
+so para el que se solicita plaza.
+b)
+Los alumnos que cuenten con plaza en un centro adscrito.
+
+#### Artículo 10. Lugares y plazo para la recogida y la presentación de solicitudes de participación
+
+en el proceso ordinario de admisión
+1.
+Las solicitudes de admisión se recogerán en cualquier centro sostenido con fondos
+públicos, en las sedes de los Servicios de apoyo a la escolarización o a través de Internet
+(www.madrid.org) y se entregarán en el centro solicitado en primer lugar, excepto en los ca-
+sos de los alumnos con dictamen de necesidades educativas especiales, cuyas solicitudes de-
+berán ser entregadas en la sede del Servicio de apoyo a la escolarización que corresponda.
+2.
+Los centros deberán admitir y tramitar todas las solicitudes en las que figure su
+centro como primera opción, aunque no haya previsión de vacantes.
+3.
+Se presentará una única solicitud por cada alumno en el centro en el que se solicita
+plaza en primera opción.
+4.
+En el caso de los centros de nueva puesta en funcionamiento, las solicitudes de ad-
+misión serán presentadas con carácter general en el propio centro. En caso de que esto no
+sea posible, si se trata de un centro privado sostenido con fondos públicos, se establecerá
+un lugar específico, a propuesta del titular y con conocimiento de la Dirección de Área Te-
+rritorial correspondiente, y en el caso de un centro público, en el lugar que fije dicha Direc-
+ción de Área Territorial.
+5.
+El plazo para la presentación de solicitudes de participación en el proceso ordina-
+rio de admisión de alumnos tendrá una duración mínima de diez días naturales, fijándose
+anualmente las fechas concretas de comienzo y finalización del mismo.
+
+BOCM
+6.
+Las solicitudes de admisión fuera de plazo se presentarán, una vez iniciado el curso
+escolar, en el centro en el que solicite plaza escolar o, antes de dicha fecha, en el Servicio de
+apoyo a la escolarización, donde se hará constar la fecha de entrega y el número de entrada.
+7.
+La lista de solicitantes no admitidos en un centro sostenido con fondos públicos,
+ordenada según la puntuación obtenida por cada alumno, seguirá vigente hasta el momen-
+to del inicio de curso. El centro comunicará a las familias de los solicitantes no admitidos
+y por orden de puntuación cualquier vacante que se produzca de modo que puedan optar a
+la misma, si lo desean.
+
+#### Artículo 11. Difusión de la información y normativa en materia de admisión de alumnos
+
+A lo largo del proceso ordinario de admisión, en cada centro sostenido con fondos pú-
+blicos se dará publicidad a la siguiente información:
+a)
+El proyecto educativo del centro que incluya, en su caso, el carácter propio.
+b)
+El Reglamento de régimen interior y las normas de convivencia.
+c)
+Los programas educativos, así como los recursos y los servicios complementarios
+del centro.
+d)
+La información sobre los resultados obtenidos en las pruebas de evaluación externas.
+e)
+La normativa reguladora del proceso de admisión de alumnos.
+f)
+El número de plazas vacantes para el siguiente curso escolar, con indicación de
+aquellas plazas reservadas para los alumnos con necesidad específica de apoyo
+educativo, situación de desventaja social o, en su caso, para alumnos que hayan
+acreditado su excelencia académica.
+g)
+El plazo y el lugar de presentación de las solicitudes.
+h)
+El calendario previsto para desarrollar el proceso ordinario de admisión.
+i)
+La sede del Servicio de apoyo a la escolarización y del Servicio de Inspección de
+Educación de la Dirección del Área Territorial correspondiente.
+j)
+El plazo de matriculación ordinario para los alumnos admitidos y el plazo extraordi-
+nario para los que estén pendientes de obtener los requisitos académicos necesarios.
+k)
+Una nota informativa que recuerde que solo se puede presentar una única instancia
+por alumno.
+l)
+Los supuestos aprobados por el centro a los efectos de baremación del criterio
+complementario que es acordado por cada centro, así como la documentación re-
+querida para su justificación.
+m) La escala de valoración de los resultados académicos vigente para el acceso a la
+modalidad de Artes del Bachillerato en los centros de Educación Secundaria que
+lo impartan.
+
+#### Artículo 12. Baremación de las solicitudes de admisión de alumnos
+
+y documentación justificativa a presentar
+1.
+Todas las solicitudes de plaza escolar serán baremadas en el centro solicitado en
+primer lugar, a excepción de aquellas que estén motivadas por los siguientes supuestos:
+— Cambio de domicilio de alumnos ya escolarizados y que hayan sido considerados
+con necesidades de compensación educativa.
+— Alumnos que pudieran presentar necesidades educativas especiales.
+— Alumnos que pudieran presentar necesidades de compensación educativa.
+— Alumnos extranjeros de segundo y tercer ciclo de Educación Primaria y de Educa-
+ción Secundaria Obligatoria que pudieran ser escolarizados transitoriamente en un
+Aula de Enlace por desconocimiento de la lengua española o por presentar graves
+carencias en conocimientos básicos.
+2.
+Para valorar las solicitudes de admisión se aplicarán los siguientes criterios de ba-
+remación:
+a)
+Hermanos matriculados en el centro o padres o representantes legales de los alum-
+nos que trabajen en el mismo: Se asignará la puntuación correspondiente a la exis-
+tencia de hermanos matriculados en el centro o padres o representantes legales de
+los alumnos que trabajen en el mismo independientemente de su número. Con el
+fin de favorecer el agrupamiento familiar, en el caso de la existencia de dos o más
+
+BOCM
+solicitudes de admisión de hermanos en un mismo centro, cuando uno de ellos ob-
+tenga plaza escolar en una etapa educativa sostenida con fondos públicos también
+se concederá puntuación por este apartado al resto de los hermanos solicitantes.
+Los alumnos en situación de acogimiento familiar debidamente acreditado por el
+Instituto Madrileño de la Familia y del Menor, o cuya guarda o tutela sea ejercida
+por dicha institución, serán escolarizados con cargo a la reserva de plaza para
+alumnos con necesidades específicas de apoyo educativo o con necesidades de
+compensación educativa cuando sus condiciones personales, dificultades especí-
+ficas de aprendizaje o historia escolar así lo requieran. En caso de que la familia
+de acogida tenga ya escolarizado algún hijo en el mismo centro escolar solicitado
+para el alumno acogido, se le asignará a este la puntuación que le corresponda por
+el presente apartado, con el fin de facilitar su escolarización.
+En cumplimiento de lo establecido en la Ley Orgánica 2/2006, de 3 de mayo, de
+Educación, los centros públicos adscritos a efectos de escolarización serán consi-
+derados como centro único a efectos de baremación para el proceso de admisión.
+b)
+Proximidad del domicilio familiar o lugar de trabajo: todos los solicitantes de pla-
+za escolar que aleguen el domicilio familiar podrán autorizar a la Consejería de
+Educación, Juventud y Deporte, la consulta telemática del padrón municipal en el
+Instituto Nacional de Estadística (INE) y/o Ayuntamiento de Madrid, en cuyo
+caso no tendrán que adjuntar documentación alguna.
+Quienes no autoricen la consulta del padrón municipal o tengan que adjuntar algu-
+na documentación justificativa, podrán presentar copia del certificado o volante de
+empadronamiento de la unidad familiar o certificación del lugar de trabajo o do-
+cumento equivalente en el que se indique el domicilio laboral.
+Se tomará en consideración, indistintamente, el domicilio familiar o el lugar de
+trabajo de cualquiera de los padres o representantes legales de los alumnos.
+En los casos de previsión de traslado a nueva vivienda durante el año natural en el
+que se solicita plaza escolar, también se podrá justificar como domicilio, cualquier
+documento acreditativo de entrega de la misma.
+De acuerdo con lo establecido en los artículos 40 y 154 del Código Civil y en las
+demás normas complementarias, salvo pérdida de la patria potestad por parte de
+los padres debidamente documentada, el domicilio de los hijos menores y no
+emancipados, necesariamente y por imperativo legal, es:
+— El de cualquiera de los padres que tenga la patria potestad.
+— El del padre o madre a quien el Juez haya atribuido la custodia, en caso de se-
+paración, divorcio o nulidad matrimonial.
+— El del representante que legalmente ostente la patria potestad.
+— Los alumnos en situación de acogimiento familiar debidamente acreditado
+por el Instituto Madrileño de la Familia y del Menor harán constar, en su caso,
+el domicilio familiar o laboral de la familia acogedora.
+— No se admitirá como domicilio a efectos de escolarización, el de parientes o
+familiares en ninguna línea ni grado de consanguinidad o afinidad que no per-
+tenezcan a la unidad familiar.
+c)
+Renta: Se asignará una puntuación por este apartado a aquellos solicitantes de pla-
+za escolar cuyo padre, madre o representante legal del alumno sean beneficiarios
+y perciban la Renta Mínima de Inserción en el período de presentación de las so-
+licitudes de admisión.
+d)
+Discapacidad física, psíquica y/o sensorial legalmente reconocida del alumno so-
+licitante, padres, hermanos o representante legal del alumno: Las solicitudes que
+aleguen discapacidad legalmente reconocida del alumno, de los padres, hermanos
+o, en su caso, representantes legales de los alumnos, podrán autorizar a la Conse-
+jería de Educación, Juventud y Deporte la consulta a la Consejería de Asuntos So-
+ciales. En caso contrario, se deberá acompañar la acreditación correspondiente.
+e)
+Valoración del expediente académico (referido al último curso finalizado) para la
+admisión a las enseñanzas de Bachillerato: El centro valorará la nota media del ex-
+pediente académico de los solicitantes en el último curso finalizado de la Educa-
+ción Secundaria Obligatoria. El expediente académico se acreditará mediante cer-
+tificación académica personal o documentación equivalente.
+f)
+Condición de antiguo alumno. Si el padre, madre o representante legal del alumno
+o alguno de los hermanos del solicitante tiene la condición de antiguo alumno del
+
+BOCM
+centro para el que se solicita plaza: Los solicitantes indicarán dicha circunstancia
+y adjuntarán la documentación que permita al centro comprobarla.
+g)
+Situación de familia numerosa: Los solicitantes podrán autorizar a la Consejería
+de Educación, Juventud y Deporte la consulta de las bases de datos de la Conse-
+jería de Asuntos Sociales y no tendrán que aportar ninguna documentación justi-
+ficativa.
+En caso de no autorizar dicha consulta, se aportará fotocopia del título o carné ac-
+tualizado de familia numerosa en el que se constate si se trata de una familia nu-
+merosa de tipo general o especial.
+h)
+Aplicación del criterio complementario que permite al centro asignar un punto adi-
+cional por otra circunstancia que podrá ser coincidente con algunos de los restan-
+tes criterios de admisión, acordada según criterios públicos y objetivos: Los crite-
+rios acordados, que podrán ser coincidentes con otros criterios recogidos en el
+baremo junto a la documentación necesaria para acreditarlos, deberán ser expues-
+tos públicamente en los tablones de anuncios de los centros, antes de iniciarse el
+plazo de admisión de solicitudes. Solo se podrá adjudicar puntuación a cada solici-
+tante por una sola circunstancia de entre las aprobadas por el centro que se solicita
+en primer lugar.
+
+#### Artículo 13. Admisión de alumnos con necesidad específica de apoyo educativo
+
+o necesidades de compensación educativa en centros de Educación Infantil,
+de Educación Primaria y de Educación Secundaria, unidades de Educación Especial
+en centros de Educación Infantil y Primaria, y centros específicos de Educación Especial
+1.
+Los Servicios de apoyo a la escolarización recibirán de los centros educativos, a
+medida que vayan siendo analizadas por los equipos directivos o los titulares de los centros,
+la copia de las solicitudes correspondientes a alumnos que presentan o pudieran presentar ne-
+cesidad específica de apoyo educativo asociadas a necesidades educativas especiales. En vir-
+tud de la información disponible valorarán la necesidad de proponer la escolarización de los
+alumnos en un centro escolar concreto a cargo de la reserva de plazas destinadas a los mis-
+mos. En el caso de no estimar dicha necesidad, el Servicio de apoyo a la escolarización co-
+municará dicha circunstancia al centro receptor antes de la publicación de las listas definiti-
+vas, con el fin de que le sea aplicada la puntuación obtenida en el proceso de baremación.
+2.
+En relación con aquellas solicitudes de admisión, remitidas por los centros, que
+correspondiesen a alumnos que pudieran presentar necesidades educativas especiales, el
+Servicio de apoyo a la escolarización solicitará, con carácter de urgencia, su valoración por
+parte del Equipo de Orientación Educativa y Psicopedagógica del sector e informe del co-
+rrespondiente Servicio de Inspección Educativa.
+3.
+En el caso de los alumnos extranjeros escolarizados por primera vez en la Comu-
+nidad de Madrid en el segundo y tercer ciclo de Educación Primaria o en Educación Secun-
+daria Obligatoria que pudieran presentar graves carencias en el conocimiento de la lengua
+española, el Servicio de apoyo a la escolarización ofrecerá a la familia la posibilidad de la
+escolarización temporal en una de las aulas de enlace existentes en centros educativos sos-
+tenidos con fondos públicos.
+4.
+La Consejería de Educación, Juventud y Deporte adoptará las medidas necesarias
+para identificar y detectar de forma temprana a los alumnos con alta capacidad intelectual
+y facilitar su atención en centros sostenidos con fondos públicos.
+5.
+La escolarización en centros específicos de Educación Especial o en centros ordi-
+narios de los alumnos con necesidades educativas especiales requerirá resolución de escola-
+rización del Director del Área Territorial o, por delegación de este, del Presidente del Servi-
+cio de apoyo a la escolarización que corresponda, previo dictamen del Equipo de Orientación
+Educativa y Psicopedagógica del sector e informe del correspondiente Servicio de Inspec-
+ción Educativa.
+Los padres, madres o representantes legales de los alumnos serán informados acerca
+del contenido del dictamen, así como acerca de los recursos de que disponen los distintos
+centros educativos con anterioridad a la emisión de la referida resolución que, en todo caso,
+tendrá en cuenta en primera instancia la elección de centro realizada por la familia.
+
+BOCM
+
+#### Artículo 14. Reserva de plazas escolares en centros ordinarios para alumnos con necesidad
+
+específica de apoyo educativo o necesidades de compensación educativa
+1.
+En todos los centros sostenidos con fondos públicos se establecerá una reserva de
+plazas destinadas a facilitar la escolarización de alumnos con necesidad específica de apo-
+yo educativo por presentar necesidades educativas especiales o por presentar necesidades
+de compensación educativa.
+Esta reserva se establece sin perjuicio de los derechos de los alumnos matriculados en
+el centro o en centros adscritos a efectos de escolarización acogidos al mismo régimen eco-
+nómico.
+2.
+La reserva de plazas se lleva a cabo en el primer nivel educativo sostenido con fon-
+dos públicos que imparta cada centro y está fijada en tres plazas escolares en cada unidad de
+los cursos de acceso al segundo ciclo de la etapa de Educación Infantil y a la etapa de Educa-
+ción Primaria y en cuatro plazas en cada unidad correspondiente al primer curso de Educación
+Secundaria Obligatoria.
+3.
+Una vez que los Servicios de apoyo a la escolarización hayan analizado las solici-
+tudes enviadas por los centros por estar comprendidas en alguno de los supuestos que se re-
+cogen en la presente Orden y realizada, en su caso, la correspondiente propuesta de escola-
+rización y previa autorización de la administración educativa autonómica, los centros
+modificarán la reserva de plazas de modo que tenga efectos sobre la publicación de las lis-
+tas definitivas. Las Direcciones de Área Territorial podrán determinar el número de plazas
+reservadas para alumnos con necesidad específica de apoyo educativo o necesidades de
+compensación educativa que deberán mantenerse sin modificación con el fin de facilitar la
+escolarización de dichos alumnos durante el proceso extraordinario de su admisión.
+
+#### Artículo 15. Revisión de los actos en materia de admisión
+
+1.
+Sin perjuicio de lo establecido en los apartados siguientes, las solicitudes de revi-
+sión o los escritos de disconformidad que sean dirigidos a los Consejos Escolares de los
+centros públicos, los Servicios de apoyo a la escolarización o a los titulares de los centros
+privados concertados serán resueltos en el plazo de tres días.
+2.
+En el caso de los centros públicos, los acuerdos y decisiones sobre admisión de
+alumnos de los Consejos Escolares, y de los Servicios de apoyo a la escolarización podrán
+ser objeto de recurso de alzada ante los Directores de Área Territorial de la Consejería de
+Educación, Juventud y Deporte en el plazo de un mes a partir del día siguiente al de publi-
+cación de las listas definitivas de admitidos. En los casos referidos a la enseñanza obligato-
+ria y a la escolarización en el segundo ciclo de la Educación Infantil, la resolución adopta-
+da deberá garantizar la adecuada escolarización del alumno.
+3.
+En los casos de los centros privados sostenidos con fondos públicos, los acuerdos y
+decisiones sobre admisión de alumnos que adopten los titulares podrán ser objeto de reclama-
+ción por los interesados en el plazo de un mes a partir del día siguiente al de publicación de
+las listas definitivas de admitidos ante los Directores de Área Territorial de la Consejería de
+Educación, Juventud y Deporte, cuya Resolución podrá ser recurrida por la vía contencioso-
+administrativa.
+
+### Capítulo IV. Proceso extraordinario de admisión de alumnos
+
+#### Artículo 16. Proceso extraordinario de admisión de alumnos
+
+1.
+El proceso extraordinario de admisión de alumnos es el que se desarrolla una vez
+concluido el proceso ordinario.
+2.
+Cuando concurra alguno de los supuestos y situaciones para participar en el pro-
+ceso extraordinario de admisión que aparecen recogidos en el artículo 12, apartados 2 y 3,
+del Decreto 29/2013, de 11 de abril, del Consejo de Gobierno, de libertad de elección de
+centro escolar en la Comunidad de Madrid, las familias podrán participar en el mismo.
+
+http://www.bocm.es
+D. L.: M. 19.462-1983 ISSN 1989-4791
+BOCM
+En relación con aquellas solicitudes de admisión correspondientes a alumnos que pu-
+dieran presentar necesidades educativas especiales, el Servicio de apoyo a la escolarización
+solicitará con carácter de urgencia su valoración por parte del Equipo de Orientación Edu-
+cativa y Psicopedagógica del sector.
+3.
+Las solicitudes para participar en el proceso extraordinario de admisión estarán
+disponibles y podrán recogerse y entregarse tanto en los centros educativos sostenidos con
+fondos públicos, como en los Servicios de apoyo a la escolarización, que informarán a las
+familias acerca de las vacantes disponibles en la zona.
+
+#### Disposición DEROGATORIA ÚNICA. Disposiciones derogadas
+
+Quedan derogadas las disposiciones de igual o menor rango en lo que se opongan a lo
+dispuesto en la presente Orden, y en particular queda derogada la Orden 1848/2005, de 4
+de abril, de la Consejería de Educación, por la que se establece el procedimiento para la ad-
+misión de alumnos en centros docentes sostenidos con fondos públicos de segundo ciclo de
+Educación Infantil, Educación Primaria, Educación Secundaria y Educación Especial.
+DISPOSICIONES FINALES
+Primera
+Desarrollo
+Se autoriza a las Viceconsejerías de Educación, Juventud y Deportes y de Organiza-
+ción Educativa, en el ámbito de sus competencias, a adoptar cuantas medidas sean necesa-
+rias para la ejecución y aplicación de lo dispuesto en la presente Orden.
+Segunda
+Entrada en vigor
+La presente Orden entrará en vigor el día siguiente al de su publicación en el BOLETÍN
+OFICIAL DE LA COMUNIDAD DE MADRID.
+Madrid, a 17 de abril de 2013.
+La Consejera de Educación, Juventud y Deporte,
+LUCÍA FIGAR DE LACALLE
+(03/12.778/13)

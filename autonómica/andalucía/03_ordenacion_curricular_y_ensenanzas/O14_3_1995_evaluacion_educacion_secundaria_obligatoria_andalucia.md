@@ -25,6 +25,15 @@ tags:
 - promocion
 - andalucia
 relaciones:
+  cita:
+  - norma_id: norm-es-l-53-1984
+    articulos_destino:
+    - Art. 10
+    - Art. 110
+  - norma_id: norm-es-1985-7820
+    articulos_destino:
+    - Art. 10
+    - Art. 110
   desarrolla:
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
@@ -32,6 +41,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Orden de 14 de marzo de 1995, por la que se regula la evaluación en la Educación Secundaria Obligatoria.
 
 ## Preámbulo
@@ -67,3 +77,15 @@ Sexto. Contra la presente Resolución podrán los interesados interponer recurso
 **30.462.569.** N.R.P.: 3046256946. Descargar PDF
 
 Disposición siguiente
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../../../estatal/01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (Art. 10, Art. 110)
+- **Cita a**: [**BOE-A-1985-7820**](../../../estatal/08_personal_docente/RD598_1985_incompatibilidades_personal_servicio_administracion_estado_seguridad.md) (Art. 10, Art. 110)

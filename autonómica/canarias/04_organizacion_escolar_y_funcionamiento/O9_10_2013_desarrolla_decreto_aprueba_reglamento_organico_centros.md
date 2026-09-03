@@ -32,20 +32,267 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-d-81-2010
+    titulo_destino: Título V
   - norma_id: norm-es-lo-2-2006
+    titulo_destino: Título V
+  - norma_id: norm-es-2021-20113
+    titulo_destino: Título V
+  - norma_id: norm-es-2010-12201
+    titulo_destino: Título V
+  - norma_id: norm-can-d-106-2009
+    articulos_destino:
+    - Art. 21
+    - Art. 1
+  - norma_id: norm-can-d-114-2011
+    articulos_destino:
+    - Art. 21
+    - Art. 1
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 21
+    - Art. 1
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 21
+    - Art. 1
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 21
+    - Art. 1
+  - norma_id: norm-can-d-81-2010
+    capitulo_origen: Capítulo PRELIMINAR
+    articulos_origen:
+    - Art. 1
+  - norma_id: norm-can-d-81-2010
+    capitulo_origen: Capítulo III. Centros QUE imparten educación infantil y educación
+      primaria.
+    seccion_origen: Sección 1.ª. Órganos de coordinación y orientación docente.
+    articulos_origen:
+    - Art. 14
+    articulos_destino:
+    - Art. 36
+  - norma_id: norm-can-d-81-2010
+    capitulo_origen: Capítulo IV. Centros QUE imparten enseñanzas de educación secundaria
+      y formación profesional de grado superior.
+    seccion_origen: Sección 1.ª. Órganos de coordinación y orientación docente.
+    articulos_origen:
+    - Art. 27
+  concordancia:
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo IV. Centros QUE imparten enseñanzas de educación secundaria
+      y formación profesional de grado superior.
+    seccion_origen: Sección 1ª. ÓRGANOS DE COORDINACIÓN Y ORIENTACIÓN DOCENTE
+  - norma_id: norm-can-d-81-2010
+    capitulo_origen: Capítulo III. Centros QUE imparten educación infantil y educación
+      primaria.
+    seccion_origen: Sección 1.ª. Órganos de coordinación y orientación docente.
+    articulos_origen:
+    - Art. 10
+  - norma_id: norm-can-d-81-2010
+    capitulo_origen: Capítulo III. Centros QUE imparten educación infantil y educación
+      primaria.
+    seccion_origen: Sección 1.ª. Órganos de coordinación y orientación docente.
+    articulos_origen:
+    - Art. 12
+  - norma_id: norm-can-d-81-2010
+    capitulo_origen: Capítulo IV. Centros QUE imparten enseñanzas de educación secundaria
+      y formación profesional de grado superior.
+    seccion_origen: Sección 1.ª. Órganos de coordinación y orientación docente.
+    articulos_origen:
+    - Art. 24
   fundamentado_en:
+  - norma_id: norm-can-l-14-1990
+    capitulo_origen: Capítulo V. Aspectos organizativos comunes.
+    seccion_origen: Sección 3ª. OTROS ASPECTOS ORGANIZATIVOS COMUNES
+    articulos_origen:
+    - D. Derogatoria ....
+    articulos_destino:
+    - Art. 32
+    - Art. 37
+    - Art. 29
+    disposiciones_destino:
+    - D. Final Primera
+  - norma_id: norm-can-d-81-2010
+    capitulo_origen: Capítulo V. Aspectos organizativos comunes.
+    seccion_origen: Sección 3ª. OTROS ASPECTOS ORGANIZATIVOS COMUNES
+    articulos_origen:
+    - D. Derogatoria ....
+    articulos_destino:
+    - Art. 32
+    - Art. 37
+    - Art. 29
+    disposiciones_destino:
+    - D. Final Primera
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo IV. Centros QUE imparten enseñanzas de educación secundaria
+      y formación profesional de grado superior.
+    seccion_origen: Sección 4.ª. Elaboración y aprobación de horarios.
+    articulos_origen:
+    - Art. 42
+    articulos_destino:
+    - Art. 39
+    - Art. 28
+    disposiciones_destino:
+    - D. Adicional quinta
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo IV. Centros QUE imparten enseñanzas de educación secundaria
+      y formación profesional de grado superior.
+    seccion_origen: Sección 4.ª. Elaboración y aprobación de horarios.
+    articulos_origen:
+    - Art. 42
+    articulos_destino:
+    - Art. 39
+    - Art. 28
+    disposiciones_destino:
+    - D. Adicional quinta
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo IV. Centros QUE imparten enseñanzas de educación secundaria
+      y formación profesional de grado superior.
+    seccion_origen: Sección 4.ª. Elaboración y aprobación de horarios.
+    articulos_origen:
+    - Art. 42
+    articulos_destino:
+    - Art. 39
+    - Art. 28
+    disposiciones_destino:
+    - D. Adicional quinta
   - norma_id: norm-can-d-106-2009
   - norma_id: norm-can-d-114-2011
-  - norma_id: norm-can-l-14-1990
-  - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2010-4518
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-rd-1834-2008
   - norma_id: norm-es-rd-39-1997
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-can-l-6-2014
+  cita:
+  - norma_id: norm-can-d-81-2010
+    capitulo_origen: Capítulo V. Aspectos organizativos comunes.
+    seccion_origen: Sección 3ª. OTROS ASPECTOS ORGANIZATIVOS COMUNES
+    articulos_origen:
+    - D. Derogatoria ....
+  - norma_id: norm-can-d-81-2010
+    capitulo_origen: Capítulo I. Autonomía de los centros y participación democrática.
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-can-d-114-2011
+    capitulo_origen: Capítulo I. Autonomía de los centros y participación democrática.
+    articulos_origen:
+    - Art. 3
+  - norma_id: norm-es-2010-4518
+    capitulo_origen: Capítulo I. Autonomía de los centros y participación democrática.
+    articulos_origen:
+    - Art. 4
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo II. Régimen de funcionamiento de los centros educativos.
+    articulos_origen:
+    - Art. 9
+  - norma_id: norm-can-d-81-2010
+    capitulo_origen: Capítulo II. Régimen de funcionamiento de los centros educativos.
+    articulos_origen:
+    - Art. 9
+  - norma_id: norm-can-d-81-2010
+    capitulo_origen: Capítulo III. Centros QUE imparten educación infantil y educación
+      primaria.
+    seccion_origen: Sección 1.ª. Órganos de coordinación y orientación docente.
+    articulos_origen:
+    - Art. 11
+  - norma_id: norm-can-d-81-2010
+    capitulo_origen: Capítulo III. Centros QUE imparten educación infantil y educación
+      primaria.
+    seccion_origen: Sección 1.ª. Órganos de coordinación y orientación docente.
+    articulos_origen:
+    - Art. 13
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo IV. Centros QUE imparten enseñanzas de educación secundaria
+      y formación profesional de grado superior.
+    seccion_origen: Sección 1.ª. Órganos de coordinación y orientación docente.
+    articulos_origen:
+    - Art. 28
+    articulos_destino:
+    - Art. 28
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo IV. Centros QUE imparten enseñanzas de educación secundaria
+      y formación profesional de grado superior.
+    seccion_origen: Sección 1.ª. Órganos de coordinación y orientación docente.
+    articulos_origen:
+    - Art. 29
+  - norma_id: norm-can-d-81-2010
+    capitulo_origen: Capítulo IV. Centros QUE imparten enseñanzas de educación secundaria
+      y formación profesional de grado superior.
+    seccion_origen: Sección 1.ª. Órganos de coordinación y orientación docente.
+    articulos_origen:
+    - Art. 32
+    articulos_destino:
+    - Art. 36
+  - norma_id: norm-es-rd-1834-2008
+    capitulo_origen: Capítulo IV. Centros QUE imparten enseñanzas de educación secundaria
+      y formación profesional de grado superior.
+    seccion_origen: Sección 4.ª. Elaboración y aprobación de horarios.
+    articulos_origen:
+    - Art. 39
+  - norma_id: norm-es-lo-2-2006
+    capitulo_origen: Capítulo IV. Centros QUE imparten enseñanzas de educación secundaria
+      y formación profesional de grado superior.
+    seccion_origen: Sección 4.ª. Elaboración y aprobación de horarios.
+    articulos_origen:
+    - Art. 39
+    disposiciones_destino:
+    - D. Transitoria primera
+  - norma_id: norm-es-2021-20113
+    capitulo_origen: Capítulo IV. Centros QUE imparten enseñanzas de educación secundaria
+      y formación profesional de grado superior.
+    seccion_origen: Sección 4.ª. Elaboración y aprobación de horarios.
+    articulos_origen:
+    - Art. 39
+    disposiciones_destino:
+    - D. Transitoria primera
+  - norma_id: norm-es-2010-12201
+    capitulo_origen: Capítulo IV. Centros QUE imparten enseñanzas de educación secundaria
+      y formación profesional de grado superior.
+    seccion_origen: Sección 4.ª. Elaboración y aprobación de horarios.
+    articulos_origen:
+    - Art. 39
+    disposiciones_destino:
+    - D. Transitoria primera
+  - norma_id: norm-can-d-81-2010
+    capitulo_origen: Capítulo IV. Centros QUE imparten enseñanzas de educación secundaria
+      y formación profesional de grado superior.
+    seccion_origen: Sección 4.ª. Elaboración y aprobación de horarios.
+    articulos_origen:
+    - Art. 45
+  - norma_id: norm-can-d-114-2011
+    capitulo_origen: Capítulo V. Aspectos organizativos comunes.
+    seccion_origen: Sección 1.ª. Del alumnado.
+    articulos_origen:
+    - Art. 46
+  - norma_id: norm-can-d-114-2011
+    capitulo_origen: Capítulo V. Aspectos organizativos comunes.
+    seccion_origen: Sección 1.ª. Del alumnado.
+    articulos_origen:
+    - Art. 48
+  - norma_id: norm-es-rd-39-1997
+    capitulo_origen: Capítulo V. Aspectos organizativos comunes.
+    seccion_origen: Sección 3.ª. Otros aspectos organizativos comunes.
+    articulos_origen:
+    - Art. 65
+    articulos_destino:
+    - Art. 35
+  - norma_id: norm-can-d-81-2010
+    capitulo_origen: Capítulo V. Aspectos organizativos comunes.
+    seccion_origen: Sección 3.ª. Otros aspectos organizativos comunes.
+    articulos_origen:
+    - D. Adicional quinta. Asociaciones del alumnado y de padres y madres del.
+  - norma_id: norm-es-c-1978
+    capitulo_origen: Capítulo V. Aspectos organizativos comunes.
+    seccion_origen: Sección 3.ª. Otros aspectos organizativos comunes.
+    articulos_origen:
+    - D. Adicional sexta. Situaciones especiales de escolarización.
+  - norma_id: norm-can-d-81-2010
+    capitulo_origen: Capítulo V. Aspectos organizativos comunes.
+    seccion_origen: Sección 3.ª. Otros aspectos organizativos comunes.
+    articulos_origen:
+    - D. Final primera. Modificación de la Orden de 29 de agosto de 2003, por la.
   fundamento_de:
   - norma_id: norm-can-d-81-2010
   - norma_id: norm-can-res-027
@@ -66,7 +313,7 @@ relaciones:
   fundamentos_derecho:
   - norma_id: norm-can-d-81-2010
   articulos:
-  - Disposición Final Primera
+  - norma_id: Disposición Final Primera
   - norma_id: norm-can-l-14-1990
   - norma_id: norm-can-d-106-2009
   - norma_id: norm-can-d-114-2011
@@ -78,6 +325,7 @@ relaciones:
   - norma_id: norm-es-2010-4518
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2013-200-5076.pdf
 ---
+
 # Orden de 9 de octubre de 2013, por la que se desarrolla el Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias, en lo referente a su organización y funcionamiento.
 
 ## Preámbulo
@@ -1037,3 +1285,75 @@ Se faculta a los distintos centros directivos de esta Consejería, en el ámbito
 #### Disposición final cuarta. Entrada en vigor.
 
 La presente Orden entrará en vigor al día siguiente de su publicación en el Boletín Oficial de Canarias, si bien tendrá efectos desde la fecha de inicio del curso escolar 2013/2014. Santa Cruz de Tenerife, a 9 de octubre de 2013. EL CONSEJERO DE EDUCACIÓN, UNIVERSIDADES Y SOSTENIBILIDAD, José Miguel Pérez García.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
+- **Desarrolla**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) (Título V)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título V)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título V)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título V)
+- **Desarrolla**: [**D106_2009 Funcion Directiva en Centros Docentes Publicos**](./D106_2009_regula_funcion_directiva_centros_docentes_publicos.md) (Art. 21, Art. 1)
+- **Desarrolla**: [**D114_2011 Decreto de Convivencia Escolar**](../07_convivencia_bienestar_y_protocolos/D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md) (Art. 21, Art. 1)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 21, Art. 1)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 21, Art. 1)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 21, Art. 1)
+- **Desarrolla**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) desde *(Capítulo PRELIMINAR, Art. 1)*
+- **Desarrolla**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) (Art. 36) desde *(Capítulo III. Centros QUE imparten educación infantil y educación primaria., Art. 14)*
+- **Desarrolla**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) desde *(Capítulo IV. Centros QUE imparten enseñanzas de educación secundaria y formación profesional de grado superior., Art. 27)*
+- **Fundamentado en**: [**L14_1990 Regimen Juridico Administraciones Canarias**](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md) (Art. 32, Art. 37, Art. 29, D. Final Primera) desde *(Capítulo V. Aspectos organizativos comunes., D. Derogatoria ....)*
+- **Fundamentado en**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) (Art. 32, Art. 37, Art. 29, D. Final Primera) desde *(Capítulo V. Aspectos organizativos comunes., D. Derogatoria ....)*
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 39, Art. 28, D. Adicional quinta) desde *(Capítulo IV. Centros QUE imparten enseñanzas de educación secundaria y formación profesional de grado superior., Art. 42)*
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 39, Art. 28, D. Adicional quinta) desde *(Capítulo IV. Centros QUE imparten enseñanzas de educación secundaria y formación profesional de grado superior., Art. 42)*
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 39, Art. 28, D. Adicional quinta) desde *(Capítulo IV. Centros QUE imparten enseñanzas de educación secundaria y formación profesional de grado superior., Art. 42)*
+- **Fundamentado en**: [**D106_2009 Funcion Directiva en Centros Docentes Publicos**](./D106_2009_regula_funcion_directiva_centros_docentes_publicos.md)
+- **Fundamentado en**: [**D114_2011 Decreto de Convivencia Escolar**](../07_convivencia_bienestar_y_protocolos/D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md)
+- **Fundamentado en**: [**BOE-A-2010-4518**](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md)
+- **Fundamentado en**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](../../../estatal/02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md)
+- **Fundamentado en**: [**RD39_1997 Reglamento de los Servicios de Prevencion**](../../../estatal/02_gestion_y_administracion_centros/RD39_1997_aprueba_reglamento_servicios_prevencion.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamento de**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
+- **Fundamento de**: [**Resolucion BOC 27**](../03_ordenacion_curricular_y_ensenanzas/R10_12_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_oferta.md)
+- **Fundamento de**: [**Resolucion BOC 55**](../03_ordenacion_curricular_y_ensenanzas/R26_6_2025_dictan_instrucciones_especificas_complementarias_curso_organizacion.md)
+- **Fundamento de**: [**Resolucion BOC 75**](../03_ordenacion_curricular_y_ensenanzas/R4_2_2017_dictan_instrucciones_proceso_evaluacion_ensenanzas_deportivas.md)
+- **Fundamento de**: [**Resolucion BOC 1**](../01_marco_normativo_general_y_organico/R30_6_2017_dictan_instrucciones_actuacion_centros_docentes_sostenidos.md)
+- **Fundamento de**: [**Resolucion BOC 126**](../07_convivencia_bienestar_y_protocolos/R21_6_2018_dictan_instrucciones_organizacion_funcionamiento_dirigidas_centros.md)
+- **Fundamento de**: [**Resolucion BOC 57**](../03_ordenacion_curricular_y_ensenanzas/R27_6_2023_resoluci_n_junio_direcci_n_general.md)
+- **Fundamento de**: [**Resolucion BOC 93**](./R3_6_2024_resoluci_n_junio.md)
+- **Fundamento de**: [**Resolucion BOC 89**](./R20_2_2025_escolarizacion_servicios_complementarios_establece_calendario_escolar.md)
+- **Fundamento de**: [**Resolucion BOC 139**](../08_personal_docente/R24_2_2026_dictan_instrucciones_regulacion_periodo_vacacional_regimen.md)
+- **Fundamento de**: [**Resolucion BOC 92**](./R26_5_2026_resoluci_n_mayo.md)
+- **Fundamento de**: [**Resolucion BOC 87**](./R29_5_2026_dictan_instrucciones_especificas_complementarias_curso_organizacion.md)
+- **Fundamento de**: [**Resolucion BOC 121**](../06_atencion_diversidad_y_orientacion/R9_2_2011_dictan_instrucciones_procedimientos_plazos_atencion_educativa.md)
+- **Fundamento de**: [**Resolucion BOC 60**](../03_ordenacion_curricular_y_ensenanzas/R13_5_2015_innovacion_promocion_educativa_universidades_sostenibilidad_establecen.md)
+- **En concordancia con**: `norm-es-c-1978` desde *(Capítulo IV. Centros QUE imparten enseñanzas de educación secundaria y formación profesional de grado superior.)*
+- **En concordancia con**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) desde *(Capítulo III. Centros QUE imparten educación infantil y educación primaria., Art. 10)*
+- **En concordancia con**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) desde *(Capítulo III. Centros QUE imparten educación infantil y educación primaria., Art. 12)*
+- **En concordancia con**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) desde *(Capítulo IV. Centros QUE imparten enseñanzas de educación secundaria y formación profesional de grado superior., Art. 24)*
+- **Cita a**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) desde *(Capítulo V. Aspectos organizativos comunes., D. Derogatoria ....)*
+- **Cita a**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) desde *(Capítulo I. Autonomía de los centros y participación democrática., Art. 2)*
+- **Cita a**: [**D114_2011 Decreto de Convivencia Escolar**](../07_convivencia_bienestar_y_protocolos/D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md) desde *(Capítulo I. Autonomía de los centros y participación democrática., Art. 3)*
+- **Cita a**: [**BOE-A-2010-4518**](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md) desde *(Capítulo I. Autonomía de los centros y participación democrática., Art. 4)*
+- **Cita a**: `norm-es-c-1978` desde *(Capítulo II. Régimen de funcionamiento de los centros educativos., Art. 9)*
+- **Cita a**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) desde *(Capítulo II. Régimen de funcionamiento de los centros educativos., Art. 9)*
+- **Cita a**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) desde *(Capítulo III. Centros QUE imparten educación infantil y educación primaria., Art. 11)*
+- **Cita a**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) desde *(Capítulo III. Centros QUE imparten educación infantil y educación primaria., Art. 13)*
+- **Cita a**: `norm-es-c-1978` (Art. 28) desde *(Capítulo IV. Centros QUE imparten enseñanzas de educación secundaria y formación profesional de grado superior., Art. 28)*
+- **Cita a**: `norm-es-c-1978` desde *(Capítulo IV. Centros QUE imparten enseñanzas de educación secundaria y formación profesional de grado superior., Art. 29)*
+- **Cita a**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) (Art. 36) desde *(Capítulo IV. Centros QUE imparten enseñanzas de educación secundaria y formación profesional de grado superior., Art. 32)*
+- **Cita a**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](../../../estatal/02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md) desde *(Capítulo IV. Centros QUE imparten enseñanzas de educación secundaria y formación profesional de grado superior., Art. 39)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Transitoria primera) desde *(Capítulo IV. Centros QUE imparten enseñanzas de educación secundaria y formación profesional de grado superior., Art. 39)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Transitoria primera) desde *(Capítulo IV. Centros QUE imparten enseñanzas de educación secundaria y formación profesional de grado superior., Art. 39)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Transitoria primera) desde *(Capítulo IV. Centros QUE imparten enseñanzas de educación secundaria y formación profesional de grado superior., Art. 39)*
+- **Cita a**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) desde *(Capítulo IV. Centros QUE imparten enseñanzas de educación secundaria y formación profesional de grado superior., Art. 45)*
+- **Cita a**: [**D114_2011 Decreto de Convivencia Escolar**](../07_convivencia_bienestar_y_protocolos/D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md) desde *(Capítulo V. Aspectos organizativos comunes., Art. 46)*
+- **Cita a**: [**D114_2011 Decreto de Convivencia Escolar**](../07_convivencia_bienestar_y_protocolos/D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md) desde *(Capítulo V. Aspectos organizativos comunes., Art. 48)*
+- **Cita a**: [**RD39_1997 Reglamento de los Servicios de Prevencion**](../../../estatal/02_gestion_y_administracion_centros/RD39_1997_aprueba_reglamento_servicios_prevencion.md) (Art. 35) desde *(Capítulo V. Aspectos organizativos comunes., Art. 65)*
+- **Cita a**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) desde *(Capítulo V. Aspectos organizativos comunes., D. Adicional quinta. Asociaciones del alumnado y de padres y madres del.)*
+- **Cita a**: `norm-es-c-1978` desde *(Capítulo V. Aspectos organizativos comunes., D. Adicional sexta. Situaciones especiales de escolarización.)*
+- **Cita a**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) desde *(Capítulo V. Aspectos organizativos comunes., D. Final primera. Modificación de la Orden de 29 de agosto de 2003, por la.)*

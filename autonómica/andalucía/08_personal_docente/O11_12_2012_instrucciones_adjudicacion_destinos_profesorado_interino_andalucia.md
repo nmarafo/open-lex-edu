@@ -25,15 +25,23 @@ tags:
 - adjudicacion_destinos
 - andalucia
 relaciones:
+  cita:
+  - norma_id: norm-es-l-53-1984
+    articulos_origen:
+    - Art. 3
+  fundamentado_en:
+  - norma_id: norm-es-lo-1-1982
+    articulos_origen:
+    - Art. 22
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
   desarrolla:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-rd-276-2007
   - norma_id: norm-es-rdl-5-2015
-  fundamentado_en:
-  - norma_id: norm-and-l17-2007
-  - norma_id: norm-es-rdl-5-2015
-  - norma_id: norm-es-lo-2-2006
 ---
+
 # Orden de 11 de diciembre de 2012, por la que se regula la adjudicación de destinos al personal docente interino (SIPRI).
 
 ## Preámbulo
@@ -78,14 +86,11 @@ Boletín 248
 
 ##
 
-Histórico del BOJA Boletín número 248 de 20/12/2012
-
 ## 1. Disposiciones generales
 
 ### Consejería de Economía, Innovación, Ciencia y Empleo
 
-### ORDEN de 11 de diciembre de 2012, por la que se aprueban las bases reguladoras y se convocan subvenciones en régimen de concurrencia no competitiva destinadas a los Consorcios Escuela de Formación Profesional para el empleo para el año 2012. Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad con CVE 00018358. Esta disposición incluye elementos no textuales, que no se muestran en esta página. Para visualizarlos, consulte la versión en <a title="Ir al final de la
-disposición" href="
+### ORDEN de 11 de diciembre de 2012, por la que se aprueban las bases reguladoras y se convocan subvenciones en régimen de concurrencia no competitiva destinadas a los Consorcios Escuela de Formación Profesional para el empleo para el año 2012. disposición" href="
 
 Desde el año 1991 la Administración de la Junta de Andalucía, a través de la Consejería competente en materia de Formación Profesional para el Empleo, ha constituido en colaboración con Entidades Locales catorce Consorcios Escuela, que vienen a constituir la denominada «Red de Consorcios Escuela de Formación para el Empleo de la Junta de Andalucía».
 
@@ -101,7 +106,7 @@ En su virtud, y en uso de las facultades conferidas por el artículo 118.1 del T
 
 DISPONGO:
 
-Artículo único. Aprobación de las bases reguladoras y de la convocatoria.
+#### Artículo . #### Artículo . Artículo único. Aprobación de las bases reguladoras y de la convocatoria.
 
 1. Se aprueban las bases reguladoras para la concesión de subvenciones en régimen de concurrencia no competitiva para los Consorcios Escuela de Formación para el Empleo en la Comunidad Autónoma de Andalucía y la convocatoria para el año 2012. 2. A continuación de esta Orden, se inserta lo siguiente:
 
@@ -1762,3 +1767,17 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Desarrolla**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamentado en**: [**LO1_1982 Proteccion Civil del Derecho al Honor e Intimidad**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1982_proteccion_civil_derecho_honor_intimidad_personal.md) desde *(Art. 22)*
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Cita a**: [**L53_1984 Incompatibilidades del Personal Publico**](../../../estatal/01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) desde *(Art. 3)*

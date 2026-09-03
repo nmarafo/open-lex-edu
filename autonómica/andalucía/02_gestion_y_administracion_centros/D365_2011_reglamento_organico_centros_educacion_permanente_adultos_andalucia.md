@@ -25,14 +25,61 @@ tags:
 - ceper
 - andalucia
 relaciones:
+  cita:
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Final segunda. Entrada en vigor.
+    articulos_destino:
+    - Art. 9
+    - Art. 49
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VII. a la accesibilidad en comunicación. En este capítulo
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VII. a la accesibilidad en comunicación. En este capítulo
+    capitulo_origen: Capítulo III. Uso de la LSE y la lengua oral a través de los
+      medios de apoyo a la comunicación oral.
+    articulos_origen:
+    - D. Adicional cuarta. Sistema arbitral.
   desarrolla:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VII. a la accesibilidad en comunicación. En este capítulo
+    capitulo_origen: Capítulo I
+    articulos_origen:
+    - Art. 5
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-rd-132-2010
   fundamentado_en:
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título VII. a la accesibilidad en comunicación. En este capítulo
+    capitulo_origen: Capítulo III. Uso de la LSE y la lengua oral a través de los
+      medios de apoyo a la comunicación oral.
+    articulos_origen:
+    - D. Adicional quinta. Reproducción de normativa.
+    articulos_destino:
+    - Art. 4
+    - Art. 5
+    - Art. 6
+    - Art. 7
+    - Art. 8
+    - Art. 9
+    - Art. 10
+    - Art. 11
+    - Art. 12
+    - Art. 13
+    - Art. 15
+    - Art. 16
+    - Art. 149
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Decreto 365/2011, de 7 de diciembre, por el que se aprueba el Reglamento Orgánico de los Centros de Educación Permanente en Andalucía.
 
 ## Preámbulo
@@ -47,7 +94,6 @@ e r b m eicid e d
 
 #### Disposición final segunda. Entrada en vigor.
 
-La presente ley entrará en vigor al mes de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 5 de diciembre de 2011 JOSÉ ANTONIO GRIÑÁN MARTÍNEZ Presidente de la Junta de Andalucía -u g er e s e u q al ro p ,erb m eicid e d 5 e d ,1 1 Y E
 **L**
 la el uso de la lengua de signos española y los medios de apoyo a la comunicación oral de las personas sordas, con discapacidad auditiva y con sordoceguera en Andalucía. EL PRESIDENTE DE LA JUNTA DE ANDALUCÍA A TODOS LOS QUE LA PRESENTE VIEREN, SABED Que el Parlamento de Andalucía ha aprobado y yo, en nombre del Rey y por la autoridad que me confieren la Constitución y el Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente LEY POR LA QUE SE REGULA EL USO DE LA LENGUA DE SIGNOS ESPAÑOLA Y LOS MEDIOS DE APOYO A LA COMUNICACIÓN ORAL DE LAS PERSONAS SORDAS, CON DISCAPACIDAD AUDITIVA Y CON SORDOCEGUERA EN ANDALUCÍA
 
@@ -70,9 +116,7 @@ m ú n A J O B
 
 m ú n a nig á P ditiva. Así, en 2003, en septiembre, se aprobó la proposición no de ley de reconocimiento legal de la lengua de signos española, por la que el Parlamento andaluz instaba al Consejo de Gobierno a que solicitara del Gobierno central el reconocimiento de la lengua de signos española, y la implantación en todo el territorio español del sistema educativo bilingüe (lengua oral/lengua de signos). Además, se instaba al Consejo de Gobierno, entre otras medidas, a que facilitase la utilización de la lengua de signos española en los centros docentes donde hubiera escolares que así lo requiriesen, a que continuase impulsando campañas y acciones de sensibilización en formación e información y a que se eliminasen las barreras en la comunicación. De la presente Ley destaca la participación en su elaboración de la población con discapacidad auditiva, a través de las entidades que la representa, así como de diferentes departamentos de la Administración autonómica, de la Administración local y de los agentes sociales y económicos. Se trata de una ley que supone una apuesta decisiva para lograr la plena participación social, económica y laboral de las personas sordas, con discapacidad auditiva y con sordoceguera. Siendo estas sus destinatarias principales, las medidas transversales para la accesibilidad en la comunicación redundarán también en el conjunto de la sociedad andaluza. Esta Ley impulsará la aplicación de la Ley 27/2007, de 23 de octubre, introduciendo novedades destacadas como el reconocimiento de profesionales de teleinterpretación, la figura del agente de desarrollo de la comunidad sorda, y la de mediación para personas con sordoceguera. V I I La presente Ley se estructura en tres capítulos, cinco disposiciones adicionales y dos finales. El Capítulo I recoge las disposiciones generales que se refieren al objeto de la Ley, a su ámbito de aplicación, a la definición de los distintos conceptos que surgen a lo largo de la presente norma, al derecho al aprendizaje, conocimiento y uso de la lengua de signos española y de la lengua oral mediante los medios de apoyo a la comunicación oral, regula los efectos que surtirá la aplicación de la Ley, y establece los principios en que esta se inspira. El Capítulo II está dedicado al aprendizaje y conocimiento de la lengua de signos española y la lengua oral a través de los medios de apoyo a la comunicación oral, tanto en la enseñanza reglada como en la formación no reglada. El Capítulo III desarrolla el uso de la lengua de signos española y de los medios de apoyo a la comunicación oral en las diferentes áreas públicas y privadas de aplicación de la Ley, referidas a los ámbitos educativo, sanitario, de formación y empleo, cultural, turístico, deportivo, y de ocio, de edificaciones, de bienestar social, a los transportes, a las relaciones con las Administraciones Públicas, la participación política, y los medios de comunicación social, telecomunicaciones y sociedad de la información. Por último, la Ley contiene cinco disposiciones adicionales y dos finales: la disposición adicional primera recoge la creación de la Comisión de Seguimiento de la Ley, las disposiciones segunda y tercera las garantías de dotación estructural y jurídicas, así como la dotación de apoyos técnicos y otros medios, la cuarta, el sistema arbitral y la quinta hace referencia a la reproducción de la normativa estatal. Las dos disposiciones finales recogen el desarrollo normativo y ejecución, y entrada en vigor de la Ley, respectivamente. La presente Ley se dicta sin perjuicio de las condiciones básicas estatales y de acuerdo con las competencias que otorga el Estatuto de Autonomía para Andalucía a la Comunidad Autónoma en materia de fomento (artículo 45), educación (artículo 52), universidades (artículo 53), investigación, desarrollo e innovación tecnológica (artículo 54), salud (artículo 55), vivienda (artículo 56), régimen local (artículo 60), servicios sociales (artículo 61), empleo (artículo 63), transporte y comunicaciones (artículo 64) cultura y patrimonio (artículo 68), medios de comunicación social (artículo 69), turismo (artículo 71) y de deportes, espectáculos y actividades recreativas (artículo 72).
 
-### Capítulo I
-
-### Disposiciones generales artículo 1 Objeto de la Ley. La presente Ley tiene como objeto la regulación de las
+### Capítulo I. ### Disposiciones generales artículo 1 Objeto de la Ley. La presente Ley tiene como objeto la regulación de las
 
 medidas necesarias para garantizar y hacer efectivo en Andalucía el respeto, protección, enseñanza y uso en condiciones de igualdad de la lengua de signos española, en adelante LSE, como lengua de aquellas personas que decidan libremente utilizarla, así como de la lengua oral a través de los medios de apoyo a la comunicación oral, en el marco de las condiciones básicas establecidas en la Ley 27/2007, de 23 de octubre, por la que se reconocen las lenguas de signos españolas y se regulan los medios de apoyo a la comunicación oral de las personas sordas, con discapacidad auditiva y sordociegas.
 
@@ -149,7 +193,7 @@ f) Transversalidad de las políticas en materia de LSE y medios de apoyo a la co
 g) **Diálogo civil.** Principio en virtud del cual las organizaciones representativas en Andalucía de las personas sordas, con discapacidad auditiva y con sordoceguera, y de sus familias y los agentes económicos y sociales, participan en los términos que establecen las leyes y demás disposiciones normativas, en la elaboración, ejecución, seguimiento y evaluación de las políticas oficiales que comprendan actuaciones sobre las mismas.
 h) **La igualdad de trato entre mujeres y hombres.** Principio que supone la ausencia de toda discriminación, directa o indirecta, por razón de sexo, en los ámbitos económico, político, social, laboral, cultural y educativo, en particular, en lo que se refiere al empleo, a la formación profesional y a las condiciones de trabajo.
 
-## Capítulo II. Aprendizaje y conocimiento de la LSE y de la lengua oral a través de los medios de apoyo a la comunicación oral.
+### Capítulo II. Aprendizaje y conocimiento de la LSE y de la lengua oral a través de los medios de apoyo a la comunicación oral.
 
 #### Artículo 8. Del aprendizaje en la Enseñanza Reglada.
 
@@ -185,7 +229,7 @@ e r b m eicid e d
 
 ,alliv e S
 
-## Capítulo III. Uso de la LSE y la lengua oral a través de los medios de apoyo a la comunicación oral.
+### Capítulo III. Uso de la LSE y la lengua oral a través de los medios de apoyo a la comunicación oral.
 
 #### Artículo 10. Objeto.
 
@@ -314,4 +358,19 @@ El desarrollo reglamentario de esta Ley se llevará a efecto de acuerdo con lo d
 
 #### Disposición final segunda. Entrada en vigor.
 
-La presente Ley entrará en vigor al mes de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 5 de diciembre de 2011 JOSÉ ANTONIO GRIÑÁN MARTÍNEZ Presidente de la Junta de Andalucía
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: `norm-es-c-1978` desde *(Título VII. a la accesibilidad en comunicación. En este capítulo, Capítulo I, Art. 5)*
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
+- **Fundamentado en**: `norm-es-c-1978` (Art. 4, Art. 5, Art. 6, Art. 7, Art. 8, Art. 9, Art. 10, Art. 11, Art. 12, Art. 13, Art. 15, Art. 16, Art. 149) desde *(Título VII. a la accesibilidad en comunicación. En este capítulo, Capítulo III. Uso de la LSE y la lengua oral a través de los medios de apoyo a la comunicación oral., D. Adicional quinta. Reproducción de normativa.)*
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Cita a**: `norm-es-c-1978` desde *(D. Final segunda. Entrada en vigor.)*
+- **Cita a**: `norm-es-c-1978` (Art. 9, Art. 49) desde *(D. Final segunda. Entrada en vigor.)*
+- **Cita a**: `norm-es-c-1978` desde *(Título VII. a la accesibilidad en comunicación. En este capítulo, Capítulo I, Art. 2)*
+- **Cita a**: `norm-es-c-1978` desde *(Título VII. a la accesibilidad en comunicación. En este capítulo, Capítulo III. Uso de la LSE y la lengua oral a través de los medios de apoyo a la comunicación oral., D. Adicional cuarta. Sistema arbitral.)*

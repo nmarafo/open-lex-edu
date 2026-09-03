@@ -34,6 +34,7 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
 ---
+
 # Decreto 4/1993, de 26 de enero, por el que se aprueba el Reglamento de Organización y Funcionamiento de la Inspección Educativa de Andalucía.
 
 ## Preámbulo
@@ -44,7 +45,7 @@ En su virtud, a propuesta del Consejero de Educación y Ciencia, previa delibera
 
 DISPONGO:
 
-### Capítulo I. Estructura y Dependencia de la Inspección Educativa artículo 1 Definición y adscripción. La Inspección Educativa de Andalucía ejerce sus funciones sobre todos los centros docentes, servicios y programas del sistema educativo no universitario, adscribiéndose centralmente a la Viceconsejería de Educación y periféricamente a las Delegaciones Territoriales.
+#### Artículo . #### Artículo . ### Capítulo I. Estructura y Dependencia de la Inspección Educativa artículo 1 Definición y adscripción. La Inspección Educativa de Andalucía ejerce sus funciones sobre todos los centros docentes, servicios y programas del sistema educativo no universitario, adscribiéndose centralmente a la Viceconsejería de Educación y periféricamente a las Delegaciones Territoriales.
 
 #### Artículo 2. Funciones inspectoras.
 
@@ -61,3 +62,15 @@ d) Colaborar en los procedimientos de formación continuada e innovación educat
 #### Disposición final única. Entrada en vigor.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el BOJA.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](./L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)

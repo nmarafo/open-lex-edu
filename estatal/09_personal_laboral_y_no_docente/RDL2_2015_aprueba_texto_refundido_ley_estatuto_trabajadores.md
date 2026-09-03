@@ -27,23 +27,241 @@ tags:
 - personal-laboral
 - r-gimen-disciplinario
 relaciones:
+  modifica:
+  - norma_id: norm-es-c-1978
+    articulos_origen:
+    - D. Transitoria decimotercera. Aplicación paulatina del artículo 48 en la redacción
+      por el Real Decretoley 6/2019, de 1 de marzo, de medidas urgentes para garantía
+      de la igualdad de trato y de oportunidades
+  cita:
+  - norma_id: norm-es-2012-9364
+    articulos_origen:
+    - D. Derogatoria única. Derogación normativa.
+    disposiciones_destino:
+    - D. Adicional sexta
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I
+    seccion_origen: Sección 1. ª Ámbito y fuentes
+    articulos_origen:
+    - Art. 2
+  - norma_id: norm-es-l-31-1995
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I
+    seccion_origen: Sección 2. ª Derechos y deberes laborales básicos
+    articulos_origen:
+    - Art. 6
+  - norma_id: norm-es-2007-6115
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Contenido del contrato de trabajo.
+    seccion_origen: Sección 2. ª Derechos y deberes derivados del contrato
+    articulos_origen:
+    - Art. 17
+  - norma_id: norm-es-l-31-1995
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Contenido del contrato de trabajo.
+    seccion_origen: Sección 2. ª Derechos y deberes derivados del contrato
+    articulos_origen:
+    - Art. 19
+  - norma_id: norm-es-l-31-1995
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Modificación, suspensión y extinción del contrato
+      de trabajo.
+    seccion_origen: Sección 3. ª Suspensión del contrato
+    articulos_origen:
+    - Art. 48
+    articulos_destino:
+    - Art. 26
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Modificación, suspensión y extinción del contrato
+      de trabajo.
+    seccion_origen: Sección 4. ª Extinción del contrato
+    articulos_origen:
+    - Art. 53
+    articulos_destino:
+    - Art. 45
+    - Art. 48 bis
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Modificación, suspensión y extinción del contrato
+      de trabajo.
+    seccion_origen: Sección 4. ª Extinción del contrato
+    articulos_origen:
+    - Art. 55
+    articulos_destino:
+    - Art. 45
+    - Art. 48 bis
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Del derecho de representación colectiva artículo
+      61 Participación. De conformidad con lo dispuesto en el artículo 4 y sin.
+    seccion_origen: Sección 1. ª Órganos de representación
+    articulos_origen:
+    - Art. 62
+  - norma_id: norm-es-l-31-1995
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Del derecho de representación colectiva artículo
+      61 Participación. De conformidad con lo dispuesto en el artículo 4 y sin.
+    seccion_origen: Sección 1. ª Órganos de representación
+    articulos_origen:
+    - Art. 64
+    articulos_destino:
+    - Art. 21
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Del derecho de representación colectiva artículo
+      61 Participación. De conformidad con lo dispuesto en el artículo 4 y sin.
+    seccion_origen: Sección 2. ª Procedimiento electoral
+    articulos_origen:
+    - Art. 74
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Del derecho de representación colectiva artículo
+      61 Participación. De conformidad con lo dispuesto en el artículo 4 y sin.
+    seccion_origen: Sección 2. ª Procedimiento electoral
+    articulos_origen:
+    - Art. 75
+  - norma_id: norm-es-2007-6115
+    titulo_origen: Título III
+    capitulo_origen: Capítulo I
+    seccion_origen: Sección 1. ª Naturaleza y efectos de los convenios
+    articulos_origen:
+    - Art. 85
+    titulo_destino: Título IV
+    capitulo_destino: Capítulo III
+    articulos_destino:
+    - Art. 40
+    - Art. 41
+    - Art. 47
+    - Art. 51
+  - norma_id: norm-es-rdl-5-2015
+    titulo_origen: Título III
+    capitulo_origen: Capítulo II. Procedimiento.
+    seccion_origen: Sección 2. ª Adhesión y extensión
+    articulos_origen:
+    - D. Adicional decimoquinta. Aplicación de los límites de duración del contrato
+      por.
+  - norma_id: norm-es-rdleg-5-2015
+    titulo_origen: Título III
+    capitulo_origen: Capítulo II. Procedimiento.
+    seccion_origen: Sección 2. ª Adhesión y extensión
+    articulos_origen:
+    - D. Adicional decimoquinta. Aplicación de los límites de duración del contrato
+      por.
+  - norma_id: norm-es-2013-12632
+    titulo_origen: Título III
+    capitulo_origen: Capítulo II. Procedimiento.
+    seccion_origen: Sección 2. ª Adhesión y extensión
+    articulos_origen:
+    - D. Adicional decimoquinta. Aplicación de los límites de duración del contrato
+      por.
+    articulos_destino:
+    - Art. 42
+    disposiciones_destino:
+    - D. Adicional vigesimoctava
   fundamentado_en:
+  - norma_id: norm-es-lo-1-1982
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I
+    seccion_origen: Sección 2. ª Derechos y deberes laborales básicos
+    articulos_origen:
+    - Art. 8
+  - norma_id: norm-es-l-31-1995
+    titulo_origen: Título I
+    capitulo_origen: Capítulo II. Contenido del contrato de trabajo.
+    seccion_origen: Sección 3. ª Clasificación profesional y promoción en el trabajo
+    articulos_origen:
+    - Art. 36
+    articulos_destino:
+    - Art. 39
+    - Art. 41
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título II
+    capitulo_origen: Capítulo I. Del derecho de representación colectiva artículo
+      61 Participación. De conformidad con lo dispuesto en el artículo 4 y sin.
+    seccion_origen: Sección 1. ª Órganos de representación
+    articulos_origen:
+    - Art. 67
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo II. Procedimiento.
+    seccion_origen: Sección 2. ª Adhesión y extensión
+    articulos_origen:
+    - D. Adicional décima. Cláusulas de los convenios colectivos referidas al.
+    articulos_destino:
+    - Art. 6
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título III
+    capitulo_origen: Capítulo II. Procedimiento.
+    seccion_origen: Sección 2. ª Adhesión y extensión
+    articulos_origen:
+    - D. Final primera. Título competencial.
+    articulos_destino:
+    - Art. 149
   - norma_id: norm-es-2002-12018
   - norma_id: norm-es-2007-6115
   - norma_id: norm-es-2012-9364
   - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-l-31-1995
-  - norma_id: norm-es-lo-1-1982
+  desarrolla:
+  - norma_id: norm-es-2002-12018
+    titulo_origen: Título I
+    capitulo_origen: Capítulo I
+    seccion_origen: Sección 4. ª Modalidades del contrato de trabajo
+    articulos_origen:
+    - Art. 11
+    articulos_destino:
+    - Art. 35
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Modificación, suspensión y extinción del contrato
+      de trabajo.
+    seccion_origen: Sección 1. ª Movilidad funcional y geográfica
+    articulos_origen:
+    - Art. 40
+    articulos_destino:
+    - Art. 41
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Modificación, suspensión y extinción del contrato
+      de trabajo.
+    seccion_origen: Sección 1. ª Movilidad funcional y geográfica
+    articulos_origen:
+    - Art. 41
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Modificación, suspensión y extinción del contrato
+      de trabajo.
+    seccion_origen: Sección 3. ª Suspensión del contrato
+    articulos_origen:
+    - Art. 47
+    articulos_destino:
+    - Art. 41
+    - Art. 51
+  - norma_id: norm-es-c-1978
+    titulo_origen: Título I
+    capitulo_origen: Capítulo III. Modificación, suspensión y extinción del contrato
+      de trabajo.
+    seccion_origen: Sección 4. ª Extinción del contrato
+    articulos_origen:
+    - Art. 51
+    articulos_destino:
+    - Art. 41
+  - norma_id: norm-es-2002-12018
+    titulo_origen: Título III
+    capitulo_origen: Capítulo II. Procedimiento.
+    seccion_origen: Sección 2. ª Adhesión y extensión
+    articulos_origen:
+    - D. Adicional decimoquinta. Aplicación de los límites de duración del contrato
+      por.
+    articulos_destino:
+    - Art. 47
+    - Art. 47 bis
   fundamento_de:
   - norma_id: norm-es-l-9-2017
   - norma_id: norm-es-lo-10-2022
   - norma_id: norm-es-lo-3-2018
   - norma_id: norm-es-rd-659-2023
-  - norma_id: norm-can-o-2023-09-28
-  - norma_id: norm-can-res-boc-2026-129-26
-  - norma_id: norm-can-res-125
-  - norma_id: norm-can-res-boc-2022-158-21
-  - norma_id: norm-can-res-boc-2026-046-139
   desarrollado_por:
   - norma_id: norm-can-res-boc-1996-057-140
   - norma_id: norm-can-convenio-3-laboral
@@ -53,17 +271,17 @@ relaciones:
   - norma_id: norm-can-res-boc-2007-009-143
   - norma_id: norm-can-res-boc-1998-140-142
   - norma_id: norm-can-res-boc-2002-147-141
-  - norma_id: norm-mad-d43-2022
   fundamentos_derecho:
   - norma_id: norm-es-ce-1978
   articulos:
-  - '35'
+  - norma_id: '35'
   - norma_id: norm-es-lo-1-1982
   - norma_id: norm-es-l-31-1995
   - norma_id: norm-es-2002-12018
   - norma_id: norm-es-2007-6115
   - norma_id: norm-es-2012-9364
 ---
+
 # Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores.
 
 ## Preámbulo
@@ -1725,3 +1943,45 @@ Esta ley se dicta de acuerdo con lo establecido en el artículo 149.1.7.ª de la
 1. El Gobierno dictará las disposiciones que sean precisas para el desarrollo de esta ley.
 
 2. El Gobierno, previas las consultas que considere oportunas a las asociaciones empresariales y organizaciones sindicales, dictará las normas necesarias para la aplicación del título II en aquellas empresas pertenecientes a sectores de actividad en las que sea relevante el número de trabajadores no fijos o el de trabajadores menores de dieciocho años, así como a los colectivos en los que, por la naturaleza de sus actividades, se ocasione una movilidad permanente, una acusada dispersión o unos desplazamientos de localidad, ligados al ejercicio normal de sus actividades, y en los que concurran otras circunstancias que hagan aconsejable su inclusión en el ámbito de aplicación del título II citado. En todo caso, dichas normas respetarán el contenido básico de esos procedimientos de representación en la empresa. Este documento es de carácter informativo y no tiene valor jurídico.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**BOE-A-2002-12018**](../03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md) (Art. 35) desde *(Título I, Capítulo I, Art. 11)*
+- **Desarrolla**: `norm-es-c-1978` (Art. 41) desde *(Título I, Capítulo III. Modificación, suspensión y extinción del contrato de trabajo., Art. 40)*
+- **Desarrolla**: `norm-es-c-1978` desde *(Título I, Capítulo III. Modificación, suspensión y extinción del contrato de trabajo., Art. 41)*
+- **Desarrolla**: `norm-es-c-1978` (Art. 41, Art. 51) desde *(Título I, Capítulo III. Modificación, suspensión y extinción del contrato de trabajo., Art. 47)*
+- **Desarrolla**: `norm-es-c-1978` (Art. 41) desde *(Título I, Capítulo III. Modificación, suspensión y extinción del contrato de trabajo., Art. 51)*
+- **Desarrolla**: [**BOE-A-2002-12018**](../03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md) (Art. 47, Art. 47 bis) desde *(Título III, Capítulo II. Procedimiento., D. Adicional decimoquinta. Aplicación de los límites de duración del contrato por.)*
+- **Modifica**: `norm-es-c-1978` desde *(D. Transitoria decimotercera. Aplicación paulatina del artículo 48 en la redacción por el Real Decretoley 6/2019, de 1 de marzo, de medidas urgentes para garantía de la igualdad de trato y de oportunidades)*
+- **Fundamentado en**: [**LO1_1982 Proteccion Civil del Derecho al Honor e Intimidad**](../01_marco_normativo_general_y_organico/LO1_1982_proteccion_civil_derecho_honor_intimidad_personal.md) desde *(Título I, Capítulo I, Art. 8)*
+- **Fundamentado en**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md) (Art. 39, Art. 41) desde *(Título I, Capítulo II. Contenido del contrato de trabajo., Art. 36)*
+- **Fundamentado en**: `norm-es-c-1978` desde *(Título II, Capítulo I. Del derecho de representación colectiva artículo 61 Participación. De conformidad con lo dispuesto en el artículo 4 y sin., Art. 67)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 6) desde *(Título III, Capítulo II. Procedimiento., D. Adicional décima. Cláusulas de los convenios colectivos referidas al.)*
+- **Fundamentado en**: `norm-es-c-1978` (Art. 149) desde *(Título III, Capítulo II. Procedimiento., D. Final primera. Título competencial.)*
+- **Fundamentado en**: [**BOE-A-2002-12018**](../03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md)
+- **Fundamentado en**: [**BOE-A-2007-6115**](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md)
+- **Fundamentado en**: [**BOE-A-2012-9364**](../08_personal_docente/RD20_2012_real_decreto_ley_medidas_garantizar_estabilidad.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamento de**: [**L9_2017 Contratos del Sector Publico (LCSP)**](../02_gestion_y_administracion_centros/L9_2017_contratos_sector_publico_transponen_ordenamiento_juridico.md)
+- **Fundamento de**: [**LO10_2022 Garantia Integral de la Libertad Sexual**](../07_convivencia_bienestar_y_protocolos/LO10_2022_garantia_integral_libertad_sexual.md)
+- **Fundamento de**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
+- **Fundamento de**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **Cita a**: [**BOE-A-2012-9364**](../08_personal_docente/RD20_2012_real_decreto_ley_medidas_garantizar_estabilidad.md) (D. Adicional sexta) desde *(D. Derogatoria única. Derogación normativa.)*
+- **Cita a**: `norm-es-c-1978` desde *(Título I, Capítulo I, Art. 2)*
+- **Cita a**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md) desde *(Título I, Capítulo I, Art. 6)*
+- **Cita a**: [**BOE-A-2007-6115**](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md) desde *(Título I, Capítulo II. Contenido del contrato de trabajo., Art. 17)*
+- **Cita a**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md) desde *(Título I, Capítulo II. Contenido del contrato de trabajo., Art. 19)*
+- **Cita a**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md) (Art. 26) desde *(Título I, Capítulo III. Modificación, suspensión y extinción del contrato de trabajo., Art. 48)*
+- **Cita a**: `norm-es-c-1978` (Art. 45, Art. 48 bis) desde *(Título I, Capítulo III. Modificación, suspensión y extinción del contrato de trabajo., Art. 53)*
+- **Cita a**: `norm-es-c-1978` (Art. 45, Art. 48 bis) desde *(Título I, Capítulo III. Modificación, suspensión y extinción del contrato de trabajo., Art. 55)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo I. Del derecho de representación colectiva artículo 61 Participación. De conformidad con lo dispuesto en el artículo 4 y sin., Art. 62)*
+- **Cita a**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md) (Art. 21) desde *(Título II, Capítulo I. Del derecho de representación colectiva artículo 61 Participación. De conformidad con lo dispuesto en el artículo 4 y sin., Art. 64)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo I. Del derecho de representación colectiva artículo 61 Participación. De conformidad con lo dispuesto en el artículo 4 y sin., Art. 74)*
+- **Cita a**: `norm-es-c-1978` desde *(Título II, Capítulo I. Del derecho de representación colectiva artículo 61 Participación. De conformidad con lo dispuesto en el artículo 4 y sin., Art. 75)*
+- **Cita a**: [**BOE-A-2007-6115**](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md) (Título IV, Capítulo III, Art. 40, Art. 41, Art. 47, Art. 51) desde *(Título III, Capítulo I, Art. 85)*
+- **Cita a**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md) desde *(Título III, Capítulo II. Procedimiento., D. Adicional decimoquinta. Aplicación de los límites de duración del contrato por.)*
+- **Cita a**: `norm-es-rdleg-5-2015` desde *(Título III, Capítulo II. Procedimiento., D. Adicional decimoquinta. Aplicación de los límites de duración del contrato por.)*
+- **Cita a**: [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md) (Art. 42, D. Adicional vigesimoctava) desde *(Título III, Capítulo II. Procedimiento., D. Adicional decimoquinta. Aplicación de los límites de duración del contrato por.)*

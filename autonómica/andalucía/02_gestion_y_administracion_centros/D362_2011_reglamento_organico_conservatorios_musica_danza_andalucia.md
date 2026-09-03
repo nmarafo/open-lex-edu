@@ -26,6 +26,11 @@ tags:
 - artisticas
 - andalucia
 relaciones:
+  modifica:
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-es-c-1978
+    disposiciones_destino:
+    - D. Final primera
   desarrolla:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-rd-132-2010
@@ -34,6 +39,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Decreto 362/2011, de 7 de diciembre, por el que se aprueba el Reglamento Orgánico de los Conservatorios Elementales y Profesionales de Música y de Danza en Andalucía.
 
 ## Preámbulo
@@ -99,3 +105,16 @@ cación de la Ley 1/1986, de 2 de enero, Electoral de Andalucía, la Ley 2/2005,
 El artículo 46 l.
 
 Estatuto de Autonomía para Andalucía establece la competencia exclusiva de la Comunidad Autónoma en todo lo referente a la organización y estructura de sus instituciones de autogobierno, así como de las normas y procedimientos electorales para su constitución, en el marco del régimen electoral general. s e n oic utit s ni s arts e u n e d otn ei m a n oic n uf le raroje m ara P de tal forma que sean más transparentes y cercanas a la ciudadanía, combatiendo el desapego creciente que muestra la ciudadanía hacia la actividad política y hacia aquellos que la ejercen, en el debate del estado de la Comunidad del 29 y 30 de junio de 2011, el Presidente de la Junta de Andalucía ofreció un acuerdo para recuperar la confianza ciudadana y prestigiar la política. Un acuerdo que se pudiera tramitar como proposición de ley de carácter inmediato. Derivada de esta iniciativa, y como propuesta formulada, asimismo, por el Presidente de la Junta de Andalucía, se constituyó un Grupo de Trabajo sobre determinadas modificaciones legislativas y normativas en materia de transparencia y calidad democrática. Resultado de dicho grupo, y con el refrendo del Pleno del Parlamento de Andalucía, se concretó un conjunto de propuestas para reforzar las incompatibilidades de parlamentarios y altos cargos de la Administración, reforzar sus obligaciones en materia de transparencia de sus actividades e
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
+- **Modifica**: `norm-es-c-1978`
+- **Modifica**: `norm-es-c-1978` (D. Final primera)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

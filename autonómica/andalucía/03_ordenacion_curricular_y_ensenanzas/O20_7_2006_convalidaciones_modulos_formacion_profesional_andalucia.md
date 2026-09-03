@@ -32,6 +32,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Orden de 20 de julio de 2006, sobre convalidaciones y exenciones en módulos profesionales de FP.
 
 ## Preámbulo
@@ -77,8 +78,6 @@ Empleo público
 Boletín 151 <a href="../../2006/151/s2.1.html" title="2.1. Nombramientos, situaciones e incidencias">2.1. Nombramientos, situaciones e incidencias
 
 ##
-
-Histórico del BOJA Boletín número 151 de 05/08/2006
 
 ## 2. Autoridades y personal2.1 Nombramientos, situaciones e incidencias
 
@@ -153,3 +152,13 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

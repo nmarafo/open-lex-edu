@@ -25,6 +25,89 @@ tags:
 - equipos-directivos
 - formacion-profesional
 relaciones:
+  desarrolla:
+  - norma_id: norm-can-l-6-2014
+    articulos_destino:
+    - Art. 133
+    - Art. 33
+    - Art. 7
+    - Art. 6
+  - norma_id: norm-can-lo-1-2018
+    articulos_destino:
+    - Art. 133
+    - Art. 33
+    - Art. 7
+    - Art. 6
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_destino:
+    - Art. 133
+    - Art. 33
+    - Art. 7
+    - Art. 6
+  - norma_id: norm-can-res-134
+    articulos_destino:
+    - Art. 133
+    - Art. 33
+    - Art. 7
+    - Art. 6
+  - norma_id: norm-es-lo-2-2006
+    articulos_destino:
+    - Art. 133
+    - Art. 33
+    - Art. 7
+    - Art. 6
+  - norma_id: norm-es-lo-3-2022
+    articulos_destino:
+    - Art. 133
+    - Art. 33
+    - Art. 7
+    - Art. 6
+  - norma_id: norm-es-2021-20113
+    articulos_destino:
+    - Art. 133
+    - Art. 33
+    - Art. 7
+    - Art. 6
+  - norma_id: norm-es-2024-10684
+    articulos_destino:
+    - Art. 133
+    - Art. 33
+    - Art. 7
+    - Art. 6
+  - norma_id: norm-es-rd-659-2023
+    articulos_destino:
+    - Art. 133
+    - Art. 33
+    - Art. 7
+    - Art. 6
+  - norma_id: norm-es-2010-12201
+    articulos_destino:
+    - Art. 133
+    - Art. 33
+    - Art. 7
+    - Art. 6
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_destino:
+    - Art. 19
+    disposiciones_destino:
+    - D. Transitoria primera
+    - D. Adicional cuarta
+  - norma_id: norm-es-rd-659-2023
+    articulos_destino:
+    - Art. 19
+    disposiciones_destino:
+    - D. Transitoria primera
+    - D. Adicional cuarta
+  - norma_id: norm-es-2025-2039
+    articulos_destino:
+    - Art. 19
+    disposiciones_destino:
+    - D. Transitoria primera
+    - D. Adicional cuarta
+  cita:
+  - norma_id: norm-can-d-84-2024
+    articulos_destino:
+    - Art. 20
   fundamentado_en:
   - norma_id: norm-can-d-212-1991
   - norma_id: norm-can-d-84-2024
@@ -45,12 +128,10 @@ relaciones:
   - norma_id: norm-can-res-028
   - norma_id: norm-can-res-boc-2026-070-115
   - norma_id: norm-can-res-boc-2026-070-116
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
   fundamentos_derecho:
   - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+  - norma_id: '1'
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-lo-1-2018
   - norma_id: norm-can-res-boc-2024-230-25
@@ -66,6 +147,7 @@ relaciones:
   - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-070-1143.pdf
 ---
+
 # Resolución de 26 de marzo de 2026, por la que se amplían la Resolución de 30 de octubre de 2024, que dicta instrucciones y orientaciones para la implantación y desarrollo de los grados de formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los currículos; y la Resolución de 21 de febrero de 2025, que dicta instrucciones para la implantación de los itinerarios formativos de Formación Profesional Adaptada y el desarrollo de los currículos de los módulos de carácter general a partir del curso escolar 2024/2025, en el ámbito de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -187,3 +269,41 @@ Curso de especialización: Insecticultura.
 - [**Resolucion BOC 115**](../05_alumnado_y_servicios_escolares/R26_3_2026_convocan_premios_extraordinarios_bachillerato_ambito_comunidad.md)
 - [**Resolucion BOC 116**](../05_alumnado_y_servicios_escolares/R26_3_2026_convocan_premios_extraordinarios_educacion_secundaria_obligatoria.md)
 - [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Estructura y Concordancias Granulares
+- **Desarrolla**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md) (Art. 133, Art. 33, Art. 7, Art. 6)
+- **Desarrolla**: [**LO1_2018 Estatuto de Autonomia de Canarias**](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md) (Art. 133, Art. 33, Art. 7, Art. 6)
+- **Desarrolla**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Art. 133, Art. 33, Art. 7, Art. 6)
+- **Desarrolla**: [**Resolucion BOC 134**](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md) (Art. 133, Art. 33, Art. 7, Art. 6)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 133, Art. 33, Art. 7, Art. 6)
+- **Desarrolla**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Art. 133, Art. 33, Art. 7, Art. 6)
+- **Desarrolla**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 133, Art. 33, Art. 7, Art. 6)
+- **Desarrolla**: [**BOE-A-2024-10684**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD499_2024_modifican_determinados_reales_decretos_establecen_titulos.md) (Art. 133, Art. 33, Art. 7, Art. 6)
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 133, Art. 33, Art. 7, Art. 6)
+- **Desarrolla**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 133, Art. 33, Art. 7, Art. 6)
+- **Desarrolla**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) (Art. 19, D. Transitoria primera, D. Adicional cuarta)
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 19, D. Transitoria primera, D. Adicional cuarta)
+- **Desarrolla**: [**BOE-A-2025-2039**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD69_2025_desarrollan_elementos_integrantes_instrumentos_gestion_sistema.md) (Art. 19, D. Transitoria primera, D. Adicional cuarta)
+- **Fundamentado en**: [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO1_2018 Estatuto de Autonomia de Canarias**](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md)
+- **Fundamentado en**: [**Resolucion BOC 44**](./R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md)
+- **Fundamentado en**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
+- **Fundamentado en**: [**Resolucion BOC 115**](../05_alumnado_y_servicios_escolares/R26_3_2026_convocan_premios_extraordinarios_bachillerato_ambito_comunidad.md)
+- **Fundamentado en**: [**Resolucion BOC 116**](../05_alumnado_y_servicios_escolares/R26_3_2026_convocan_premios_extraordinarios_educacion_secundaria_obligatoria.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**BOE-A-2024-10684**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD499_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamentado en**: [**BOE-A-2025-2039**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD69_2025_desarrollan_elementos_integrantes_instrumentos_gestion_sistema.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamento de**: [**Resolucion BOC 28**](./R17_4_2026_corrige_error_resolucion_amplian_resolucion_dicta.md)
+- **Fundamento de**: [**Resolucion BOC 115**](../05_alumnado_y_servicios_escolares/R26_3_2026_convocan_premios_extraordinarios_bachillerato_ambito_comunidad.md)
+- **Fundamento de**: [**Resolucion BOC 116**](../05_alumnado_y_servicios_escolares/R26_3_2026_convocan_premios_extraordinarios_educacion_secundaria_obligatoria.md)
+- **Cita a**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 20)
