@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 533
+total_normas: 551
 normas:
   norm-and-d154-2022:
     id: norm-and-d154-2022
@@ -274,6 +274,60 @@ normas:
     - centros_concertados
     - andalucia
     path: autonómica/andalucía/02_gestion_y_administracion_centros/D390_1986_reglamento_general_conciertos_educativos_andalucia.md
+  norm-and-r18-11-2025-seleccion-directores-centros-docentes-publicos-andalucia:
+    id: norm-and-r18-11-2025-seleccion-directores-centros-docentes-publicos-andalucia
+    codigo_sintetizado: ''
+    titulo: Resolución de 18 de noviembre de 2025, de la Dirección General del Profesorado
+      y Gestión de Recursos Humanos, por la que se convoca concurso de méritos para
+      la selección de Directores y Directoras de centros docentes públicos no universitarios
+      de titularidad de la Junta de Andalucía.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: '2025-11-24'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Dirección y liderazgo pedagógico
+    tags: []
+    path: autonómica/andalucía/02_gestion_y_administracion_centros/R18_11_2025_seleccion_directores_centros_docentes_publicos_andalucia.md
+  norm-and-r23-4-2018-indicadores-homologados-autoevaluacion-centros-docentes-andalucia:
+    id: norm-and-r23-4-2018-indicadores-homologados-autoevaluacion-centros-docentes-andalucia
+    codigo_sintetizado: ''
+    titulo: Resolución de 23 de abril de 2018, de la Agencia Andaluza de Evaluación
+      Educativa, por la que se establecen los indicadores homologados para la autoevaluación
+      de Escuelas Infantiles (2.º ciclo), Colegios de Educación Primaria, Colegios
+      de Educación Infantil y Primaria, Institutos de Educación Secundaria, Centros
+      Integrados de Formación Profesional y Centros Específicos de Educación Especial.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: '2018-04-26'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Evaluación institucional y calidad
+    tags: []
+    path: autonómica/andalucía/02_gestion_y_administracion_centros/R23_4_2018_indicadores_homologados_autoevaluacion_centros_docentes_andalucia.md
+  norm-and-r3-12-2025-convocatoria-suscripcion-modificacion-conciertos-educativos-andalucia:
+    id: norm-and-r3-12-2025-convocatoria-suscripcion-modificacion-conciertos-educativos-andalucia
+    codigo_sintetizado: ''
+    titulo: Resolución de 3 de diciembre de 2025, de la Dirección General de Planificación,
+      Centros y Enseñanza Concertada, por la que se convoca el procedimiento para
+      la suscripción o modificación de los conciertos educativos en las enseñanzas
+      de Educación Infantil, Educación Primaria, Educación Especial, Educación Secundaria
+      Obligatoria, Formación Profesional y Bachillerato en Andalucía para el curso
+      escolar 2026/2027.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: '2025-12-12'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Centros concertados y convenios
+    tags: []
+    path: autonómica/andalucía/02_gestion_y_administracion_centros/R3_12_2025_convocatoria_suscripcion_modificacion_conciertos_educativos_andalucia.md
   norm-and-d100-2023-ordenacion-curriculo-educacion-infantil-andalucia:
     id: norm-and-d100-2023-ordenacion-curriculo-educacion-infantil-andalucia
     codigo_sintetizado: ''
@@ -698,6 +752,123 @@ normas:
     subcategoria: ''
     tags: []
     path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/O30_5_2023_desarrollo_curriculo_evaluacion_primaria_andalucia.md
+  norm-and-r11-1-2024-pruebas-obtencion-titulo-graduado-eso-mayores-andalucia:
+    id: norm-and-r11-1-2024-pruebas-obtencion-titulo-graduado-eso-mayores-andalucia
+    codigo_sintetizado: ''
+    titulo: Resolución de 11 de enero de 2024, de Dirección General de Ordenación,
+      Inclusión, Participación y Evaluación Educativa, por la que se convocan, para
+      el año 2024, las pruebas para la obtención del Título de Graduado en Educación
+      Secundaria Obligatoria para personas mayores de dieciocho años y se establecen
+      determinados aspectos de su organización, en virtud de lo establecido en la
+      Orden de 16 de septiembre de 2019, que las regula y por la que se determina
+      proceso específico de obtención de clave iANDE dirigido a las personas interesadas
+      en la inscripción de las pruebas extraordinarias de obtención de título.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: '2024-01-19'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Secundaria Obligatoria
+    tags: []
+    path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/R11_1_2024_pruebas_obtencion_titulo_graduado_eso_mayores_andalucia.md
+  norm-and-r17-11-2023-pruebas-acceso-ciclos-formativos-formacion-profesional-andalucia:
+    id: norm-and-r17-11-2023-pruebas-acceso-ciclos-formativos-formacion-profesional-andalucia
+    codigo_sintetizado: ''
+    titulo: Resolución de 17 de noviembre de 2023, de la Dirección General de Formación
+      Profesional, por la que se convocan las pruebas de acceso a los Ciclos Formativos
+      de Grado Medio y Grado Superior de Formación Profesional en el curso escolar
+      2023/2024.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: '2023-11-23'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags: []
+    path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/R17_11_2023_pruebas_acceso_ciclos_formativos_formacion_profesional_andalucia.md
+  norm-and-r17-1-2025-pruebas-obtencion-titulo-bachiller-mayores-andalucia:
+    id: norm-and-r17-1-2025-pruebas-obtencion-titulo-bachiller-mayores-andalucia
+    codigo_sintetizado: ''
+    titulo: Resolución de 17 de enero de 2025, de la Dirección General de Formación
+      Profesional y Educación Permanente, por la que se convocan para el año 2025
+      las pruebas para la obtención del título de Bachiller para personas mayores
+      de veinte años y se establecen determinados aspectos de su organización, en
+      virtud de lo establecido en las Instrucciones de 12 de diciembre de 2024, de
+      la Dirección General de Formación Profesional y Educación Permanente, por la
+      que se regulan las pruebas para la obtención del título de Bachiller para personas
+      mayores de veinte años en la Comunidad Autónoma de Andalucía y por la que se
+      determina proceso específico de obtención de clave iANDE dirigido a las personas
+      interesadas en la inscripción de las pruebas extraordinarias de obtención de
+      título.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: '2025-01-23'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Bachillerato
+    tags: []
+    path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/R17_1_2025_pruebas_obtencion_titulo_bachiller_mayores_andalucia.md
+  norm-and-r20-4-2026-pruebas-acceso-ensenanzas-artisticas-superiores-andalucia:
+    id: norm-and-r20-4-2026-pruebas-acceso-ensenanzas-artisticas-superiores-andalucia
+    codigo_sintetizado: ''
+    titulo: Resolución de 20 de abril de 2026, de la Dirección General de Ordenación
+      y Evaluación Educativa, por la que se convocan las pruebas de acceso a las Enseñanzas
+      Artísticas Superiores en la Comunidad Autónoma de Andalucía para el curso 2026/2027,
+      se determinan aspectos de organización de las mismas y se establece el calendario
+      de actuaciones del procedimiento ordinario de acceso, admisión y matriculación
+      en los centros docentes públicos.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: '2026-04-28'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas Artísticas
+    tags: []
+    path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/R20_4_2026_pruebas_acceso_ensenanzas_artisticas_superiores_andalucia.md
+  norm-and-r29-3-2026-evaluacion-acreditacion-titulacion-grados-d-e-formacion-profesional-andalucia:
+    id: norm-and-r29-3-2026-evaluacion-acreditacion-titulacion-grados-d-e-formacion-profesional-andalucia
+    codigo_sintetizado: ''
+    titulo: Resolución de 29 de marzo de 2026, de la Dirección General de Formación
+      Profesional y Educación Permanente, por la que se modifican los anexos VIII,
+      IX, X, XI, XII, XIII, XIV, XV, XVII, XVIII, XIX, XX y XXII de la Orden de 18
+      de septiembre de 2025, por la que se regula la evaluación, certificación, acreditación
+      y titulación académica del alumnado que cursa enseñanzas de los grados D y E
+      del Sistema de Formación Profesional en la Comunidad Autónoma de Andalucía.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: '2026-04-07'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags: []
+    path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/R29_3_2026_evaluacion_acreditacion_titulacion_grados_d_e_formacion_profesional_andalucia.md
+  norm-and-r3-3-2026-pruebas-certificacion-idiomas-escuelas-oficiales-andalucia:
+    id: norm-and-r3-3-2026-pruebas-certificacion-idiomas-escuelas-oficiales-andalucia
+    codigo_sintetizado: ''
+    titulo: Resolución de 3 de marzo de 2026, de la Dirección General de Ordenación
+      y Evaluación Educativa, por la que se convocan las pruebas de certificación
+      en las enseñanzas de idiomas de régimen especial en el curso 2025/2026 y se
+      establecen determinados aspectos sobre su administración, organización y evaluación.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: '2026-03-09'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas de Régimen Especial
+    tags: []
+    path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/R3_3_2026_pruebas_certificacion_idiomas_escuelas_oficiales_andalucia.md
   norm-and-115-2002:
     id: norm-and-115-2002
     codigo_sintetizado: ''
@@ -969,6 +1140,24 @@ normas:
     - instrucciones_2025_2026
     - andalucia
     path: autonómica/andalucía/04_organizacion_escolar_y_funcionamiento/R1_9_2025_instrucciones_inicio_curso_escolar_andalucia.md
+  norm-and-r25-7-2025-plan-general-actuacion-inspeccion-educativa-andalucia-2025-2026:
+    id: norm-and-r25-7-2025-plan-general-actuacion-inspeccion-educativa-andalucia-2025-2026
+    codigo_sintetizado: ''
+    titulo: Resolución de 25 de julio de 2025, de la Viceconsejería, por la que se
+      aprueban las Instrucciones para el desarrollo, la dirección y la coordinación
+      del Plan General de Actuación de la Inspección Educativa y el Plan de Formación
+      para el Perfeccionamiento y Actualización Profesional, para el curso escolar
+      2025-2026.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: '2025-07-31'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Inspección educativa
+    tags: []
+    path: autonómica/andalucía/04_organizacion_escolar_y_funcionamiento/R25_7_2025_plan_general_actuacion_inspeccion_educativa_andalucia_2025_2026.md
   norm-and-r-27-6-2023:
     id: norm-and-r-27-6-2023
     codigo_sintetizado: ''
@@ -990,6 +1179,24 @@ normas:
     - centros_docentes
     - andalucia
     path: autonómica/andalucía/04_organizacion_escolar_y_funcionamiento/R27_6_2023_instrucciones_organizacion_funcionamiento_centros_docentes_andalucia_2025_2026.md
+  norm-and-r3-8-2026-plan-general-actuacion-inspeccion-educativa-andalucia-2026-2027:
+    id: norm-and-r3-8-2026-plan-general-actuacion-inspeccion-educativa-andalucia-2026-2027
+    codigo_sintetizado: ''
+    titulo: Resolución de 3 de agosto de 2026, de la Viceconsejería, por la que se
+      aprueban las instrucciones para el desarrollo, la dirección y la coordinación
+      del Plan General de Actuación de la Inspección Educativa y el Plan de Formación
+      para el Perfeccionamiento y Actualización Profesional, para el curso escolar
+      2026-2027.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: '2026-08-10'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Inspección educativa
+    tags: []
+    path: autonómica/andalucía/04_organizacion_escolar_y_funcionamiento/R3_8_2026_plan_general_actuacion_inspeccion_educativa_andalucia_2026_2027.md
   norm-and-r-calendario-escolar-2025-2026:
     id: norm-and-r-calendario-escolar-2025-2026
     codigo_sintetizado: R_Calendario Escolar Curso 2025-2026 Andalucia
@@ -1256,6 +1463,43 @@ normas:
     - curso_2025_2026
     - andalucia
     path: autonómica/andalucía/05_alumnado_y_servicios_escolares/O_instrucciones_procedimiento_admision_alumnado_andalucia_2025_2026.md
+  norm-and-r19-1-2026-calendario-admision-alumnado-centros-docentes-andalucia-2026-2027:
+    id: norm-and-r19-1-2026-calendario-admision-alumnado-centros-docentes-andalucia-2026-2027
+    codigo_sintetizado: ''
+    titulo: Resolución de 19 de enero de 2026, de la Dirección General de Planificación,
+      Centros y Enseñanza Concertada, por la que se establece el calendario de actuaciones
+      del procedimiento ordinario de admisión del alumnado en los centros docentes
+      públicos y privados concertados para cursar las enseñanzas de segundo ciclo
+      de educación infantil, educación primaria, educación especial, educación secundaria
+      obligatoria y bachillerato para el curso escolar 2026/27.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: '2026-01-26'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión y escolarización
+    tags: []
+    path: autonómica/andalucía/05_alumnado_y_servicios_escolares/R19_1_2026_calendario_admision_alumnado_centros_docentes_andalucia_2026_2027.md
+  norm-and-r27-1-2026-ratios-procedimiento-admision-alumnado-infantil-andalucia-2026-2027:
+    id: norm-and-r27-1-2026-ratios-procedimiento-admision-alumnado-infantil-andalucia-2026-2027
+    codigo_sintetizado: ''
+    titulo: Resolución de 27 de enero de 2026, de la Dirección General de Planificación,
+      Centros y Enseñanza Concertada, por la que se establece la ratio por unidad
+      en el procedimiento de admisión del primer curso del segundo ciclo de educación
+      infantil (tres años) en los centros educativos sostenidos con fondos públicos
+      en el curso escolar 2026/2027.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: '2026-02-02'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión y escolarización
+    tags: []
+    path: autonómica/andalucía/05_alumnado_y_servicios_escolares/R27_1_2026_ratios_procedimiento_admision_alumnado_infantil_andalucia_2026_2027.md
   norm-and-d147-2002-atencion-educativa-alumnado-necesidades-educativas-especiales-andalucia:
     id: norm-and-d147-2002-atencion-educativa-alumnado-necesidades-educativas-especiales-andalucia
     codigo_sintetizado: ''
@@ -1458,6 +1702,24 @@ normas:
     subcategoria: ''
     tags: []
     path: autonómica/andalucía/07_convivencia_bienestar_y_protocolos/O20_6_2011_promocion_convivencia_mediacion_escolar_andalucia.md
+  norm-and-r26-9-2007-instrucciones-protocolos-maltrato-infantil-acoso-escolar-genero-andalucia:
+    id: norm-and-r26-9-2007-instrucciones-protocolos-maltrato-infantil-acoso-escolar-genero-andalucia
+    codigo_sintetizado: ''
+    titulo: Resolución de 26 de septiembre de 2007, de la Dirección General de Participación
+      y Solidaridad en la Educación, por la que se acuerda dar publicidad a los protocolos
+      de actuación que deben seguir los centros educativos ante supuestos de acoso
+      escolar, agresión hacia el Profesorado o el Personal de Administración y Servicios
+      o maltrato infantil.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: '2007-11-14'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Protocolos de convivencia y protección
+    tags: []
+    path: autonómica/andalucía/07_convivencia_bienestar_y_protocolos/R26_9_2007_instrucciones_protocolos_maltrato_infantil_acoso_escolar_genero_andalucia.md
   norm-and-l3-2021:
     id: norm-and-l3-2021
     codigo_sintetizado: ''
@@ -1499,6 +1761,76 @@ normas:
     - provision_puestos
     - andalucia
     path: autonómica/andalucía/08_personal_docente/O10_6_2020_bolsas_trabajo_profesorado_interino_andalucia.md
+  norm-and-r10-6-2026-adjudicacion-destinos-provisionales-personal-docente-andalucia:
+    id: norm-and-r10-6-2026-adjudicacion-destinos-provisionales-personal-docente-andalucia
+    codigo_sintetizado: ''
+    titulo: Resolución de 10 de junio de 2026, de la Dirección General del Profesorado
+      y Gestión de Recursos Humanos, por la que se efectúa convocatoria para la adjudicación
+      de destinos provisionales en los Conservatorios Superiores de Música y Danza
+      para el curso académico 2026/2027.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: '2026-06-17'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 08_personal_docente
+    subcategoria: Provisión de puestos y traslados
+    tags: []
+    path: autonómica/andalucía/08_personal_docente/R10_6_2026_adjudicacion_destinos_provisionales_personal_docente_andalucia.md
+  norm-and-r19-1-2026-acceso-extraordinario-bolsas-trabajo-cuerpos-docentes-andalucia:
+    id: norm-and-r19-1-2026-acceso-extraordinario-bolsas-trabajo-cuerpos-docentes-andalucia
+    codigo_sintetizado: ''
+    titulo: Resolución de 19 de enero de 2026, de la Dirección General del Profesorado
+      y Gestión de Recursos Humanos, por la que se realiza convocatoria para el acceso
+      extraordinario a las bolsas de trabajo de determinadas especialidades de los
+      cuerpos docentes, así como a determinadas bolsas con perfil bilingüe.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: '2026-01-27'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 08_personal_docente
+    subcategoria: Profesorado interino
+    tags: []
+    path: autonómica/andalucía/08_personal_docente/R19_1_2026_acceso_extraordinario_bolsas_trabajo_cuerpos_docentes_andalucia.md
+  norm-and-r20-2-2026-acreditacion-nivel-c1-competencia-digital-docente-andalucia:
+    id: norm-and-r20-2-2026-acreditacion-nivel-c1-competencia-digital-docente-andalucia
+    codigo_sintetizado: ''
+    titulo: Resolución de 20 de febrero de 2026, de la Dirección General de Innovación
+      y Formación del Profesorado, por la que se convoca procedimiento para la obtención
+      de la acreditación del nivel C1 de competencia digital docente para el personal
+      docente no universitario de los centros educativos sostenidos con fondos públicos
+      de la Comunidad Autónoma de Andalucía.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: '2026-02-27'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 08_personal_docente
+    subcategoria: Formación del profesorado
+    tags: []
+    path: autonómica/andalucía/08_personal_docente/R20_2_2026_acreditacion_nivel_c1_competencia_digital_docente_andalucia.md
+  norm-and-r30-10-2025-concurso-traslados-personal-funcionario-docente-andalucia:
+    id: norm-and-r30-10-2025-concurso-traslados-personal-funcionario-docente-andalucia
+    codigo_sintetizado: ''
+    titulo: Resolución de 30 de octubre de 2025, de la Dirección General del Profesorado
+      y Gestión de Recursos Humanos, por la que se convoca concurso de traslados de
+      personal funcionario docente perteneciente a los Cuerpos de Inspectores al servicio
+      de la Administración educativa e Inspectores de Educación para la provisión
+      de puestos de trabajo vacantes en la Comunidad Autónoma de Andalucía.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: '2025-11-07'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 08_personal_docente
+    subcategoria: Provisión de puestos y traslados
+    tags: []
+    path: autonómica/andalucía/08_personal_docente/R30_10_2025_concurso_traslados_personal_funcionario_docente_andalucia.md
   norm-and-r-cdd-2025-2026:
     id: norm-and-r-cdd-2025-2026
     codigo_sintetizado: R_Acreditacion Competencia Digital Docente Andalucia 2025-2026
