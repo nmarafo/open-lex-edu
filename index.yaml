@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 551
+total_normas: 563
 normas:
   norm-and-d154-2022:
     id: norm-and-d154-2022
@@ -149,6 +149,21 @@ normas:
     - inspectores
     - andalucia
     path: autonómica/andalucía/01_marco_normativo_general_y_organico/D80_1999_reglamento_inspeccion_educativa_andalucia.md
+  norm-and-l12-2007-promocion-igualdad-genero-andalucia:
+    id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+    codigo_sintetizado: ''
+    titulo: Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad de género
+      en Andalucía.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: '2007-12-18'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Marco normativo general
+    tags: []
+    path: autonómica/andalucía/01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md
   norm-and-l17-2007:
     id: norm-and-l17-2007
     codigo_sintetizado: ''
@@ -167,6 +182,50 @@ normas:
     - sistema_educativo_andaluz
     - equidad
     path: autonómica/andalucía/01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md
+  norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia:
+    id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+    codigo_sintetizado: ''
+    titulo: Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de
+      Andalucía.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: '2024-01-01'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Marco normativo general
+    tags: []
+    path: autonómica/andalucía/01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md
+  norm-and-l9-2007-administracion-junta-andalucia-laja:
+    id: norm-and-l9-2007-administracion-junta-andalucia-laja
+    codigo_sintetizado: ''
+    titulo: Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: '2007-10-31'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Marco normativo general
+    tags: []
+    path: autonómica/andalucía/01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md
+  norm-and-d149-2009-regulacion-centros-primer-ciclo-educacion-infantil-andalucia:
+    id: norm-and-d149-2009-regulacion-centros-primer-ciclo-educacion-infantil-andalucia
+    codigo_sintetizado: ''
+    titulo: Decreto 149/2009, de 12 de mayo, por el que se regulan los centros que
+      imparten el primer ciclo de la educación infantil.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2009-05-15'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Centros de Educación Infantil
+    tags: []
+    path: autonómica/andalucía/02_gestion_y_administracion_centros/D149_2009_regulacion_centros_primer_ciclo_educacion_infantil_andalucia.md
   norm-and-d-155-1997:
     id: norm-and-d-155-1997
     codigo_sintetizado: D155_1997 Regulacion Escuelas Infantiles Andalucía
@@ -221,6 +280,21 @@ normas:
     - adscripcion
     - andalucia
     path: autonómica/andalucía/02_gestion_y_administracion_centros/D21_1985_ordenacion_centros_infantil_primaria_andalucia.md
+  norm-and-d285-2010-regulacion-sistema-informacion-seneca-andalucia:
+    id: norm-and-d285-2010-regulacion-sistema-informacion-seneca-andalucia
+    codigo_sintetizado: ''
+    titulo: Decreto 285/2010, de 11 de mayo, por el que se regula el Sistema de Información
+      Séneca y se establece su utilización para la gestión del sistema educativo andaluz.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2010-05-26'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Gestión telemática y sistemas de información
+    tags: []
+    path: autonómica/andalucía/02_gestion_y_administracion_centros/D285_2010_regulacion_sistema_informacion_seneca_andalucia.md
   norm-and-d-329-2010:
     id: norm-and-d-329-2010
     codigo_sintetizado: D329_2010 ROC Centros Educacion Especial Andalucia
@@ -428,6 +502,24 @@ normas:
     - eso_adultos
     - andalucia
     path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/D2_1995_ordenacion_educacion_secundaria_obligatoria_adultos_andalucia.md
+  norm-and-d359-2011-regulacion-modalidades-semipresencial-distancia-andalucia:
+    id: norm-and-d359-2011-regulacion-modalidades-semipresencial-distancia-andalucia
+    codigo_sintetizado: ''
+    titulo: Decreto 359/2011, de 7 de diciembre, por el que se regulan las modalidades
+      semipresencial y a distancia de las enseñanzas de Formación Profesional Inicial,
+      de Educación Permanente de Personas Adultas, especializadas de idiomas y deportivas,
+      se crea el Instituto de Enseñanzas a Distancia de Andalucía y se establece su
+      estructura orgánica y funcional.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2011-12-27'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación a distancia y de personas adultas
+    tags: []
+    path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/D359_2011_regulacion_modalidades_semipresencial_distancia_andalucia.md
   norm-and-d-436-2008:
     id: norm-and-d-436-2008
     codigo_sintetizado: D436_2008 Ordenacion Educacion Personas Adultas Andalucia
@@ -928,6 +1020,23 @@ normas:
     - idiomas
     - andalucia
     path: autonómica/andalucía/04_organizacion_escolar_y_funcionamiento/D15_2012_reglamento_organico_escuelas_oficiales_idiomas_andalucia.md
+  norm-and-d25-2007-prevencion-riesgos-laborales-salud-trabajo-centros-docentes-andalucia:
+    id: norm-and-d25-2007-prevencion-riesgos-laborales-salud-trabajo-centros-docentes-andalucia
+    codigo_sintetizado: ''
+    titulo: Decreto 25/2007, de 6 de febrero, por el que se establecen medidas para
+      el fomento, la prevención de riesgos y la seguridad en el uso de Internet y
+      las tecnologías de la información y la comunicación (TIC) por parte de las personas
+      menores de edad.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2007-02-22'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Salud y prevención de riesgos
+    tags: []
+    path: autonómica/andalucía/04_organizacion_escolar_y_funcionamiento/D25_2007_prevencion_riesgos_laborales_salud_trabajo_centros_docentes_andalucia.md
   norm-and-d301-2009:
     id: norm-and-d301-2009
     codigo_sintetizado: ''
@@ -1238,6 +1347,20 @@ normas:
     - plan_de_centro
     - andalucia
     path: autonómica/andalucía/04_organizacion_escolar_y_funcionamiento/R_instrucciones_inicio_curso_2025_2026_andalucia.md
+  norm-and-d137-2002-apoyo-familias-andaluzas-servicios-educativos:
+    id: norm-and-d137-2002-apoyo-familias-andaluzas-servicios-educativos
+    codigo_sintetizado: ''
+    titulo: DECRETO 137/2002, de 30 de abril, de apoyo a las familias andaluzas.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2002-05-04'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Servicios escolares y complementarios
+    tags: []
+    path: autonómica/andalucía/05_alumnado_y_servicios_escolares/D137_2002_apoyo_familias_andaluzas_servicios_educativos.md
   norm-and-d-140-2002:
     id: norm-and-d-140-2002
     codigo_sintetizado: D140_2002 Plan Apoyo a las Familias Andaluzas
@@ -1685,6 +1808,37 @@ normas:
     - convivencia
     - andalucia
     path: autonómica/andalucía/07_convivencia_bienestar_y_protocolos/D85_1999_derechos_deberes_alumnado_andalucia.md
+  norm-and-l2-2014-no-discriminacion-identidad-genero-transexuales-andalucia:
+    id: norm-and-l2-2014-no-discriminacion-identidad-genero-transexuales-andalucia
+    codigo_sintetizado: ''
+    titulo: Ley 2/2014, de 8 de julio, integral para la no discriminación por motivos
+      de identidad de género y reconocimiento de los derechos de las personas transexuales
+      de Andalucía.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: '2014-07-18'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Igualdad, diversidad y no discriminación
+    tags: []
+    path: autonómica/andalucía/07_convivencia_bienestar_y_protocolos/L2_2014_no_discriminacion_identidad_genero_transexuales_andalucia.md
+  norm-and-l8-2017-garantia-derechos-igualdad-trato-lgtbi-andalucia:
+    id: norm-and-l8-2017-garantia-derechos-igualdad-trato-lgtbi-andalucia
+    codigo_sintetizado: ''
+    titulo: Ley 8/2017, de 28 de diciembre, para garantizar los derechos, la igualdad
+      de trato y no discriminación de las personas LGTBI y sus familiares en Andalucía.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: '2018-01-15'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Igualdad, diversidad y no discriminación
+    tags: []
+    path: autonómica/andalucía/07_convivencia_bienestar_y_protocolos/L8_2017_garantia_derechos_igualdad_trato_lgtbi_andalucia.md
   norm-and-o20-6-2011-promocion-convivencia-mediacion-escolar-andalucia:
     id: norm-and-o20-6-2011-promocion-convivencia-mediacion-escolar-andalucia
     codigo_sintetizado: ''
@@ -1720,6 +1874,38 @@ normas:
     subcategoria: Protocolos de convivencia y protección
     tags: []
     path: autonómica/andalucía/07_convivencia_bienestar_y_protocolos/R26_9_2007_instrucciones_protocolos_maltrato_infantil_acoso_escolar_genero_andalucia.md
+  norm-and-d302-2010-ordenacion-funcion-publica-docente-seleccion-provision-andalucia:
+    id: norm-and-d302-2010-ordenacion-funcion-publica-docente-seleccion-provision-andalucia
+    codigo_sintetizado: ''
+    titulo: Decreto 302/2010, de 1 de junio, por el que se ordena la función pública
+      docente y se regula la selección del profesorado y la provisión de los puestos
+      de trabajo docentes.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2010-06-04'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 08_personal_docente
+    subcategoria: Función pública docente
+    tags: []
+    path: autonómica/andalucía/08_personal_docente/D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md
+  norm-and-d93-2013-regulacion-formacion-profesorado-sistema-andaluz-andalucia:
+    id: norm-and-d93-2013-regulacion-formacion-profesorado-sistema-andaluz-andalucia
+    codigo_sintetizado: ''
+    titulo: Decreto 93/2013, de 27 de agosto, por el que se regula la formación inicial
+      y permanente del profesorado en la Comunidad Autónoma de Andalucía, así como
+      el Sistema Andaluz de Formación Permanente del Profesorado.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2013-08-30'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 08_personal_docente
+    subcategoria: Formación del profesorado
+    tags: []
+    path: autonómica/andalucía/08_personal_docente/D93_2013_regulacion_formacion_profesorado_sistema_andaluz_andalucia.md
   norm-and-l3-2021:
     id: norm-and-l3-2021
     codigo_sintetizado: ''

@@ -1,0 +1,1042 @@
+---
+id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+titulo: Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía.
+jurisdiccion: Andalucía
+ambito: Autonómico
+organo_emisor: Dirección General de Ordenación, Inclusión e Innovación Educativa
+tipo_disposicion: Ley
+numero_disposicion: 6/2006
+fecha_disposicion: '2006-10-24'
+fecha_publicacion: '2024-01-01'
+boletin: BOJA
+numero_boletin: '215'
+estado: Vigente
+redaccion: original
+fuente_oficial: http://www.juntadeandalucia.es/boja/2006/215/1
+fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/2006/215/d1.pdf
+clasificacion:
+  categoria_canonica: 01_marco_normativo_general_y_organico
+  subcategoria: Marco normativo general
+---
+
+# Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía.
+
+## Preámbulo
+
+presidencia
+LEY 6/2006, de 24 de octubre, del Gobierno de la 
+Comunidad Autónoma de Andalucía.
+EL PRESIDENTE DE LA JUNTA DE ANDALUCIA A TODOS LOS 
+QUE LA PRESENTE VIEREN, SABED:
+Que el Parlamento de Andalucía ha aprobado y yo, en 
+nombre del Rey y por la autoridad que me confieren la Cons-
+titución y el Estatuto de Autonomía, promulgo y ordeno la 
+publicación de la siguiente
+LEY DEL GOBIERNO DE LA COMUNIDAD AUTONOMA DE 
+ANDALUCIA
+EXPOSICION DE MOTIVOS
+I
+El Estatuto de Autonomía para Andalucía establece que la 
+Comunidad Autónoma tiene competencia exclusiva en materia 
+de organización y estructura de sus instituciones de autogobier-
+no, al tiempo que determina que sea una ley del Parlamento 
+andaluz la que regule el régimen jurídico y administrativo del 
+Consejo de Gobierno y el estatuto de sus miembros. 
+En ejercicio de las citadas previsiones estatutarias, el 
+Parlamento de Andalucía aprobó la Ley 6/1983, de 21 de 
+julio, del Gobierno y la Administración de la Comunidad 
+Autónoma, Ley que ha constituido durante casi un cuarto 
+de siglo la norma fundamental reguladora del Gobierno y la 
+Administración de la Junta de Andalucía y uno de los pilares 
+básicos del ordenamiento jurídico autonómico. 
+Los profundos y trascendentales cambios derivados del 
+ejercicio de la potestad de autogobierno por las instituciones 
+de Andalucía en desarrollo del Estado Autonómico reconocido 
+por la Constitución Española, de la incorporación a la Unión 
+Europea, de las innovaciones científicas y tecnológicas, han 
+determinado una amplia transformación de la sociedad anda-
+luza; transformación que exige la adecuación del ordenamiento 
+jurídico a los nuevos tiempos y realidades. 
+Las circunstancias anteriormente expuestas aconsejan y 
+hacen necesaria la reforma de la citada Ley 6/1983. Por otra 
+parte, razones de coherencia con la concepción inveterada 
+del poder político determinan optar, en esta ocasión, por una 
+regulación separada del Gobierno y de la Administración de la 
+Junta de Andalucía. 
+II
+Esta Ley se estructura en un Título Preliminar, seis Títulos 
+más, una disposición derogatoria y una final. 
+El Título Preliminar regula el objeto de la Ley y la posición 
+institucional de la Presidencia y del Consejo de Gobierno de la 
+Junta de Andalucía de acuerdo con la Constitución Española 
+y el Estatuto de Autonomía para Andalucía. 
+El Título I regula la Presidencia de la Junta de Andalucía 
+en lo que se refiere a la elección, las atribuciones que le 
+corresponden por ser la suprema representación de la Comu-
+nidad Autónoma y la representación ordinaria del Estado en 
+Andalucía, así como las relativas al Parlamento de Andalucía, 
+y, finalmente, las que ejerce como Presidencia del Consejo de 
+Gobierno. Asimismo, la Ley regula el cese y los mecanismos de 
+suplencia y el estatuto personal de quien ejerza la Presidencia 
+de la Junta de Andalucía. Las novedades principales de este 
+Título se centran, de una parte, en la ampliación y adecuación 
+de las atribuciones de la Presidencia, resaltando su proyección 
+exterior; la declaración de incapacidad física y mental de la 
+persona titular de la Presidencia, que destaca el papel del 
+Parlamento de Andalucía y simplifica su regulación; una más 
+detallada enumeración de las causas de cese, considerando 
+la posibilidad de dimisión para acceder a un cargo público 
+incompatible con la Presidencia de la Junta de Andalucía; y, 
+finalmente, en cuanto a los efectos del cese, se incorporan 
+previsiones para la inmediata investidura del nuevo Presidente 
+o Presidenta en los supuestos no regulados en el Estatuto de 
+Autonomía. 
+En los Capítulos I y II del Título II, referido al Consejo de 
+Gobierno, destaca la inclusión, por vez primera en nuestro 
+ordenamiento jurídico, de la exigencia de que la designación 
+de integrantes del Consejo de Gobierno atienda al principio de 
+presencia equilibrada de hombres y mujeres. No se trata, en 
+efecto, de una mera declaración retórica, sino de una opción 
+acorde con las exigencias del artículo 9.2 de la Constitución, 
+dirigida a la consecución real y efectiva en nuestra Comunidad 
+Autónoma de la igualdad entre hombres y mujeres. Asimismo, 
+se establecen, por primera vez, las atribuciones de las personas 
+titulares de las Consejerías en su condición de miembros del 
+Consejo de Gobierno y se regula de forma más sistemática y 
+detallada el nombramiento, cese, suplencia y estatuto personal 
+de quienes integran el Consejo de Gobierno, excepción hecha 
+de su Presidente o Presidenta. 
+El Capítulo III del Título II, dedicado íntegramente a las 
+atribuciones del Consejo de Gobierno, amplía y adecua sus 
+competencias, destacando la de aprobación de los programas, 
+planes y directrices vinculantes para todos o varios órganos de 
+la Administración de la Junta de Andalucía y sus organismos 
+autónomos, y la de disponer la realización de operaciones de 
+crédito y la emisión de deuda pública de conformidad con la 
+normativa específica. 
+Por lo que afecta al Capítulo I del Título III, dedicado al 
+funcionamiento del Gobierno, la Ley pretende una regulación 
+más flexible y moderna, abordando la previsión de utilización 
+de medios telemáticos en la actuación del Consejo de Gobier-
+no, tanto para la celebración de las reuniones sin necesidad 
+de presencia en el mismo lugar de sus miembros, como para 
+la transmisión de información y documentación. Asimismo, 
+se regulan por primera vez las funciones de la Secretaría del 
+Consejo de Gobierno. 
+ En el Capítulo II del Título III se aborda una regulación 
+actualizada de las Comisiones Delegadas y de la Comisión 
+General de Viceconsejeros y Viceconsejeras, adecuando sus 
+funciones a nuevas necesidades y al servicio del funcionamien-
+to ágil y eficaz del Consejo de Gobierno. 
+El Título IV regula por primera vez el Gobierno en funciones, 
+especificando tanto las atribuciones de la Presidencia como 
+las del Consejo de Gobierno en las especiales situaciones en 
+que se produce. 
+En el Título V de la Ley, dedicado a las relaciones de la 
+Presidencia y del Consejo de Gobierno con el Parlamento, se 
+actualiza su regulación. 
+Finalmente, la Ley, en su Título VI, aborda, dentro del 
+régimen de las funciones y actos del Gobierno, la regulación 
+del ejercicio de la iniciativa legislativa y de la potestad regla-
+mentaria, y en el que se recoge la previsión de la participación 
+ciudadana en la elaboración de las normas, con las finalidades 
+de facilitar la proximidad a la acción de gobierno, permitir el 
+mayor acierto en la adopción de las decisiones y conseguir 
+el mejor grado de aceptación y cumplimiento de las normas 
+que propicia la participación. De este modo, se cumple, 
+asimismo, el mandato del artículo 105 a) de la Constitución, 
+que obliga a regular por ley la audiencia de la ciudadanía en 
+el procedimiento de elaboración de las disposiciones admi-
+nistrativas que le afecten. 
+
+Página núm. 4	
+BOJA núm. 215 	
+Sevilla, 7 de noviembre 2006
+TITULO PRELIMINAR
+DISPOSICIONES GENERALES
+Artículo 1. Objeto. 
+La presente Ley tiene por objeto la regulación de la Presiden-
+cia y del Consejo de Gobierno de la Junta de Andalucía, conforme 
+a lo establecido en el Estatuto de Autonomía para Andalucía. 
+Artículo 2. De la Presidencia de la Junta de Andalucía. 
+La persona titular de la Presidencia de la Junta de An-
+dalucía ostenta la suprema representación de la Comunidad 
+Autónoma y la ordinaria del Estado en Andalucía. Asimismo, 
+dirige y coordina la acción del Consejo de Gobierno y de la 
+Administración de la Comunidad Autónoma. 
+Artículo 3. Del Consejo de Gobierno. 
+El Consejo de Gobierno es el órgano superior colegiado 
+que ostenta y ejerce las funciones ejecutivas y administrativas 
+de la Junta de Andalucía. A tal fin, le corresponde la iniciativa 
+legislativa y la potestad reglamentaria de acuerdo con el Esta-
+tuto de Autonomía y con la ley. 
+TITULO I
+DE LA PRESIDENCIA DE LA JUNTA DE ANDALUCIA
+CAPITULO I
+De la elección
+Artículo 4. Elección. 
+El Parlamento, de entre sus miembros, elige al Presidente 
+o a la Presidenta de la Junta de Andalucía, de acuerdo con lo 
+establecido en el Estatuto de Autonomía y en el Reglamento 
+del Parlamento de Andalucía. 
+Artículo 5. Nombramiento. 
+El nombramiento del Presidente o de la Presidenta de la Junta 
+de Andalucía corresponde al Rey, y se publicará en el Boletín Oficial 
+del Estado y en el Boletín Oficial de la Junta de Andalucía. 
+Artículo 6. Toma de posesión. 
+El Presidente electo o la Presidenta electa tomará pose-
+sión de su cargo dentro de los cinco días siguientes al de la 
+publicación de su nombramiento en el Boletín Oficial de la 
+Junta de Andalucía. 
+CAPITULO II
+De las atribuciones de la Presidencia de la Junta de Andalucía
+Artículo 7. Atribuciones como suprema representación de 
+la Comunidad Autónoma de Andalucía. 
+Corresponde a la Presidencia de la Junta de Andalucía, 
+como suprema representación de la Comunidad Autónoma:
+a) Representarla en las relaciones con otras instituciones 
+del Estado y en el ámbito internacional cuando proceda. 
+b) Firmar los convenios y acuerdos de cooperación que 
+suscriba la Comunidad Autónoma en los casos que proceda. 
+Artículo 8. Atribuciones en su condición de representación 
+ordinaria del Estado en Andalucía. 
+Corresponde a la Presidencia de la Junta de Andalucía, en su 
+condición de representación ordinaria del Estado en Andalucía:
+a) Promulgar, en nombre del Rey, las leyes de Andalucía 
+y ordenar que se publiquen en el Boletín Oficial de la Junta de 
+Andalucía y en el Boletín Oficial del Estado. 
+b) Ordenar la publicación, en el Boletín Oficial de la Junta 
+de Andalucía, del nombramiento de la persona titular de la 
+Presidencia del Tribunal Superior de Justicia de Andalucía. 
+Artículo 9. Atribuciones en relación con el Parlamento de 
+Andalucía. 
+Corresponde a la Presidencia de la Junta de Andalucía en 
+relación con el Parlamento de Andalucía:
+a) Convocar elecciones al Parlamento de Andalucía. 
+b) Disolver el Parlamento de Andalucía. 
+c) Plantear ante el Parlamento de Andalucía la cuestión 
+de confianza. 
+d) Solicitar que el Parlamento de Andalucía se reúna en 
+sesión extraordinaria. 
+e) Convocar la sesión constitutiva del Parlamento de 
+Andalucía. 
+Artículo 10. Atribuciones inherentes a la Presidencia del 
+Consejo de Gobierno. 
+1. Al Presidente o a la Presidenta de la Junta de Andalucía, 
+en su condición de titular de la Presidencia del Consejo de 
+Gobierno, le corresponde:
+a) Fijar las directrices generales de la acción de gobierno 
+y asegurar su continuidad. 
+b) Coordinar el programa legislativo del Consejo de Gobier-
+no y la elaboración de disposiciones de carácter general. 
+c) Coordinar la acción exterior del Gobierno. 
+d) Facilitar al Parlamento de Andalucía la información que 
+recabe del Consejo de Gobierno. 
+e) Nombrar y separar a las personas titulares de las Vice-
+presidencias y de las Consejerías. 
+f) Convocar las reuniones del Consejo de Gobierno y de 
+sus Comisiones Delegadas y fijar el orden del día. 
+g) Presidir, suspender y levantar las sesiones del Consejo 
+de Gobierno y de sus Comisiones Delegadas, y dirigir las 
+deliberaciones. 
+h) Dictar decretos que supongan la creación de Conseje-
+rías, la modificación en la denominación de las existentes, en 
+su distribución de competencias o su orden de prelación, así 
+como la supresión de las mismas. 
+i) Asegurar la coordinación entre las distintas Consejerías, 
+y resolver los conflictos de atribuciones entre las mismas. 
+j) Encomendar a un Consejero o a una Consejera que se 
+encargue de la gestión de otra Consejería en caso de ausencia, 
+enfermedad o impedimento de su titular. 
+k) Establecer las normas internas que se precisen para el 
+buen orden de los trabajos del Consejo de Gobierno y para la 
+adecuada preparación de los acuerdos que hayan de adoptarse 
+por aquél. 
+l) Firmar los decretos acordados por el Consejo de Gobier-
+no y ordenar su publicación. 
+m) Velar por el cumplimiento de los acuerdos del Consejo 
+de Gobierno. 
+2. Corresponden al Presidente o a la Presidenta de la 
+Junta de Andalucía las facultades y atribuciones, distintas de 
+las previstas en la presente Ley, que le reconozca la normativa 
+de aplicación. 
+Artículo 11. Delegación de atribuciones. 
+1. El Presidente o la Presidenta de la Junta de Andalucía 
+puede, en su caso, delegar sus atribuciones en las personas 
+titulares de las Vicepresidencias y de las Consejerías. 
+2. Son delegables las siguientes facultades y atribuciones 
+de la Presidencia de la Junta de Andalucía o de su titular:
+a) La representación en las relaciones con otras institucio-
+nes del Estado y en el ámbito internacional cuando proceda.
+
+Sevilla, 7 de noviembre 2006	
+BOJA núm. 215 	
+Página núm. 
+b) La firma de los convenios y acuerdos de cooperación 
+que suscriba la Comunidad Autónoma en los casos que 
+proceda.
+c) La orden de publicación, en el Boletín Oficial de la Junta 
+de Andalucía, del nombramiento de la persona titular de la 
+Presidencia del Tribunal Superior de Justicia de Andalucía.
+d) La facilitación de información recabada por el Parla-
+mento de Andalucía al Consejo de Gobierno.
+e) La convocatoria de las reuniones del Consejo de Go-
+bierno y de sus Comisiones Delegadas, así como la fijación 
+del orden del día.
+f) El establecimiento de las normas internas que se preci-
+sen para el buen orden de los trabajos del Consejo de Gobierno 
+y para la adecuada preparación de los acuerdos que hayan de 
+adoptarse por aquél.
+g) Velar por el cumplimiento de los acuerdos del Consejo 
+de Gobierno.
+h) En su caso, las facultades y atribuciones a las que se 
+refiere el apartado 2 del artículo 10 de la presente Ley.
+CAPITULO III
+Del cese y sustitución
+Artículo 12. Cese. 
+1. La persona titular de la Presidencia de la Junta de 
+Andalucía cesa por las siguientes causas:
+a) Tras la celebración de elecciones al Parlamento de 
+Andalucía. 
+b) Aprobación de una moción de censura. 
+c) Denegación de una cuestión de confianza. 
+d) Dimisión comunicada formalmente al Parlamento de 
+Andalucía. 
+e) Incapacidad permanente física o mental que le imposi-
+bilite para el ejercicio del cargo. 
+f) Fallecimiento. 
+g) Pérdida de la condición de parlamentario o parla-
+mentaria. 
+h) Condena penal, mediante sentencia judicial firme, que 
+lleve aparejada la inhabilitación para el ejercicio del cargo. 
+i) Sentencia judicial firme de incapacitación. 
+2. La incapacidad a que hace referencia la letra e) del 
+apartado anterior debe ser apreciada por el Consejo de Go-
+bierno, excluida la persona titular de la Presidencia de la Junta 
+de Andalucía, por unanimidad, y propuesta al Parlamento de 
+Andalucía que, en caso de que la estime, deberá declararla 
+por mayoría absoluta.
+3. El Consejo de Gobierno que examine la incapacidad 
+a que hace referencia la letra e) del apartado 1 del presente 
+artículo será convocado y dirigido por quien corresponda según 
+el orden de suplencia establecido en la presente Ley.
+Artículo 13. Efectos del cese. 
+1. En los supuestos de las letras a), b), c) y d) del apartado 1 
+del artículo anterior, la persona titular de la Presidencia de la Junta 
+de Andalucía continuará en el ejercicio de sus funciones hasta que 
+quien le suceda haya tomado posesión del cargo. 
+2. En los supuestos previstos en las letras e), f), g), h) e 
+i) del apartado 1 del artículo anterior, y en el caso de su letra 
+d) si el Presidente dimisionario o la Presidenta dimisionaria 
+accediera a un cargo público incompatible con el desempeño 
+de la Presidencia de la Junta de Andalucía, su sustitución se 
+realizará por las personas titulares de las Vicepresidencias, si 
+las hubiere, por su orden y, de no existir, por las de las Conse-
+jerías, según su orden.
+ 3. El Presidente o la Presidenta del Parlamento de Anda-
+lucía, en todos los casos a los que se refiere el apartado 2 de 
+este artículo, abrirá inmediatamente consultas con las personas 
+portavoces designadas por los partidos o grupos políticos con 
+representación parlamentaria, para presentar un candidato o 
+una candidata a la Presidencia de la Junta de Andalucía, de 
+acuerdo con el procedimiento establecido en el Estatuto de 
+Autonomía para Andalucía y en el Reglamento del Parlamento 
+de Andalucía. 
+4. El Presidente o la Presidenta de la Junta de Andalucía 
+en funciones ejercerá las atribuciones del cargo, salvo las esta-
+blecidas en el apartado 4 del artículo 37 de la presente Ley. 
+Artículo 14. Suplencia. 
+1. En los supuestos de ausencia, enfermedad o impedi-
+mento temporal, la Presidencia de la Junta de Andalucía se 
+suplirá en la forma prevista en el apartado 2 del artículo 13 
+de la presente Ley.
+2. Quien supla al Presidente o a la Presidenta de la Junta 
+de Andalucía sólo podrá ejercer las atribuciones que sean nece-
+sarias para el despacho de los asuntos de trámite, salvo casos 
+de urgencia o interés general debidamente acreditados. 
+CAPITULO IV
+Del estatuto personal
+Artículo 15. Derechos inherentes al cargo. 
+Quien ejerza la Presidencia de la Junta de Andalucía tiene 
+derecho a:
+a) La precedencia sobre cualquier autoridad de la Comu-
+nidad Autónoma de Andalucía y la que le reserve la legislación 
+del Estado. 
+b) Los honores atribuidos en razón de su cargo. 
+c) Utilizar la bandera y el escudo de Andalucía como 
+distintivo. 
+d) Percibir las retribuciones que se fijen en las leyes del 
+Presupuesto de la Comunidad Autónoma. 
+e) Ocupar la residencia oficial que se establezca con el 
+personal, servicios y dotación correspondiente. 
+Artículo 16. Incompatibilidades. 
+El ejercicio de la Presidencia de la Junta de Andalucía es 
+incompatible con cualquier otra función o actividad pública 
+que no derive de aquélla, salvo la de diputado o diputada en 
+el Parlamento de Andalucía. También es incompatible con el 
+ejercicio de toda actividad laboral, profesional o empresarial, 
+siéndole igualmente de aplicación el régimen propio de las 
+incompatibilidades de las personas altos cargos de la Junta 
+de Andalucía. 
+Artículo 17. Del fuero procesal. 
+De acuerdo con lo establecido en el Estatuto de Auto-
+nomía, la responsabilidad civil y penal del Presidente o de la 
+Presidenta de la Junta de Andalucía será exigible ante la Sala 
+correspondiente del Tribunal Supremo. 
+TITULO II
+DEL CONSEJO DE GOBIERNO
+CAPITULO I
+De la composición
+Artículo 18. Composición. 
+1. El Consejo de Gobierno se compone de las personas 
+titulares de la Presidencia de la Junta de Andalucía, de la 
+Vicepresidencia o Vicepresidencias, en su caso, y de las 
+Consejerías. 
+2. Igualmente, serán personas miembros del Consejo de 
+Gobierno los Consejeros y las Consejeras sin cartera. 
+
+Página núm. 	
+BOJA núm. 215 	
+Sevilla, 7 de noviembre 2006
+3. En las designaciones de las personas integrantes del 
+Consejo de Gobierno que realice el Presidente o la Presidenta 
+de la Junta de Andalucía, cada sexo estará representado en, 
+al menos, un cuarenta por ciento. 
+Artículo 19. De la Vicepresidencia. 
+1. El Presidente o la Presidenta de la Junta de Andalucía 
+podrá crear una o varias Vicepresidencias, señalando, en este 
+último caso, el orden de prelación. 
+2. Quien asuma una Vicepresidencia podrá ejercer las 
+funciones correspondientes a la titularidad de una Consejería 
+y las que le encomiende el Presidente o la Presidenta de la 
+Junta de Andalucía. 
+3. El cese de la persona titular de una Vicepresidencia 
+llevará aparejada la supresión del órgano. 
+Artículo 20. De las personas titulares de las Consejerías. 
+1. Las personas titulares de las Consejerías forman parte 
+del Consejo de Gobierno y ejercen la dirección del órgano u 
+órganos superiores de la Administración de la Junta de Anda-
+lucía que se les asigne. 
+2. El Presidente o la Presidenta de la Junta de Andalucía 
+podrá nombrar Consejeros o Consejeras sin cartera, a quienes 
+se atribuirá la responsabilidad de determinadas funciones, 
+sin adscripción de unidades administrativas. El decreto de 
+nombramiento fijará el ámbito de sus funciones y las estruc-
+turas de apoyo para el ejercicio de las mismas. El cese de un 
+Consejero o de una Consejera sin cartera llevará aparejada la 
+supresión del órgano. 
+Artículo 21. Atribuciones de las personas titulares de las 
+Consejerías como integrantes del Consejo de Gobierno. 
+Las personas titulares de las Consejerías, como integrantes 
+del Consejo de Gobierno, tienen las siguientes atribuciones:
+1. Desarrollar la acción del Gobierno en el ámbito compe-
+tencial de sus Consejerías, de conformidad con las directrices 
+del Presidente o de la Presidenta de la Junta de Andalucía, o 
+del Consejo de Gobierno. 
+2. Ostentar la representación de las Consejerías de las 
+que son titulares.
+3. Proponer al Consejo de Gobierno los anteproyectos de 
+ley o los proyectos de decreto relativos a las cuestiones de la 
+competencia de sus Consejerías. 
+4. Proponer al Consejo de Gobierno el programa de ac-
+tuación de sus Consejerías. 
+5. Proponer al Consejo de Gobierno los nombramientos y 
+ceses de las personas altos cargos de sus Consejerías. 
+6. Con carácter general, formular propuestas sobre asun-
+tos que afecten a sus Consejerías, cuya decisión corresponda 
+al Consejo de Gobierno. 
+7. Cualesquiera otras que les correspondan en cuanto 
+integrantes del Consejo de Gobierno o les sean normativa-
+mente atribuidas. 
+CAPITULO II
+Del nombramiento, cese, suplencia y estatuto personal
+Artículo 22. Nombramiento, cese y toma de posesión. 
+1. El nombramiento y el cese de las personas que ejerzan 
+la titularidad de las Vicepresidencias y de las Consejerías se 
+efectuará por el Presidente o la Presidenta de la Junta de 
+Andalucía. 
+2. El nombramiento de las personas titulares de las Vi-
+cepresidencias y de las Consejerías se publicará en el Boletín 
+Oficial de la Junta de Andalucía. Su mandato se inicia tras la 
+toma de posesión en el cargo. 
+3. Los ceses de las personas a las que se refiere el apar-
+tado anterior se publicarán en el Boletín Oficial de la Junta de 
+Andalucía y surtirán efectos a partir de la fecha que el propio 
+decreto determine. 
+Artículo 23. Suplencia. 
+En los casos de vacante, ausencia o enfermedad de las 
+personas titulares de las Vicepresidencias y de las Consejerías, 
+el Presidente o la Presidenta de la Junta de Andalucía encargará 
+del despacho ordinario de los asuntos que les competan a otra 
+persona miembro del Consejo de Gobierno. 
+Artículo 24. Causas de cese. 
+Las personas titulares de las Vicepresidencias y de las 
+Consejerías cesan por las siguientes causas:
+a) Cuando se produzca el cese de la persona titular de la 
+Presidencia de la Junta de Andalucía. 
+b) Dimisión. 
+c) Revocación de su nombramiento. 
+d) Fallecimiento. 
+e) Sentencia judicial firme que lleve aparejada la inhabili-
+tación para el ejercicio del cargo. 
+f) Sentencia judicial firme de incapacitación. 
+Artículo 25. Incompatibilidades. 
+Las personas miembros del Consejo de Gobierno están 
+sometidas al mismo régimen de incompatibilidades que el 
+Presidente o la Presidenta de la Junta de Andalucía. 
+Artículo 26. Del fuero procesal. 
+1. De acuerdo con lo establecido en el Estatuto de Au-
+tonomía, la responsabilidad penal de las personas titulares 
+de las Consejerías será exigible ante la Sala de lo Penal del 
+Tribunal Supremo. No obstante, para los delitos cometidos 
+en el ámbito territorial de su jurisdicción, será exigible ante el 
+Tribunal Superior de Justicia de Andalucía. 
+2. Ante los mismos Tribunales expresados en el apartado 
+anterior, respectivamente, será exigible la responsabilidad civil 
+en que las personas a las que se refiere hubieran incurrido en 
+el ejercicio de su cargo. 
+CAPITULO III
+De las atribuciones del Consejo de Gobierno
+Artículo 27. Atribuciones. 
+Corresponde al Consejo de Gobierno:
+1. Desarrollar el Programa de Gobierno, de acuerdo con las 
+directrices fijadas por la Presidencia de la Junta de Andalucía. 
+2. Aprobar los proyectos de ley, autorizar su remisión al 
+Parlamento de Andalucía y acordar, en su caso, su retirada. 
+3. Manifestar la conformidad o disconformidad con la 
+tramitación en el Parlamento de Andalucía de proposiciones 
+de ley o enmiendas que impliquen aumento de los créditos 
+o disminución de los ingresos presupuestarios, así como 
+manifestar su criterio respecto a la toma en consideración de 
+cualesquiera otras proposiciones de ley. 
+4. Deliberar sobre la cuestión de confianza que la persona 
+titular de la Presidencia de la Junta de Andalucía se proponga 
+plantear ante el Parlamento de Andalucía y sobre la solicitud de 
+sesión extraordinaria de la Cámara que se vaya a formular. 
+5. Deliberar sobre la decisión de la persona titular de la 
+Presidencia de la Junta de Andalucía de acordar la disolución 
+del Parlamento de Andalucía y convocar nuevas elecciones. 
+6. Aprobar los reglamentos para el desarrollo y ejecución 
+de las leyes, así como las demás disposiciones reglamentarias 
+que procedan. 
+7. Elaborar los Presupuestos de la Comunidad Autónoma, 
+mediante la aprobación de los correspondientes proyectos de 
+ley, remitirlos al Parlamento para su aprobación, y aplicarlos. 
+
+Sevilla, 7 de noviembre 2006	
+BOJA núm. 215 	
+Página núm. 
+8. Adoptar las medidas necesarias para la ejecución de los 
+tratados y convenios internacionales que afecten a las materias 
+atribuidas a la competencia de la Comunidad Autónoma. 
+9. Aprobar y remitir al Parlamento de Andalucía los pro-
+yectos de convenios y de acuerdos de cooperación con otras 
+Comunidades Autónomas. 
+10. Aprobar programas, planes y directrices vinculantes 
+para todos o varios órganos de la Administración de la Junta 
+de Andalucía y sus organismos autónomos. 
+11. Acordar la interposición de recursos de inconstitucio-
+nalidad y el planteamiento de conflictos de competencia ante 
+el Tribunal Constitucional y personarse ante éste cuando le 
+corresponda. 
+12. Acordar el ejercicio de acciones judiciales. 
+13. Resolver los recursos que, con arreglo a la ley, se 
+interpongan ante el mismo. 
+14. Disponer la realización de operaciones de crédito y 
+emisión de deuda pública, de conformidad con la normativa 
+específica. 
+15. Autorizar los gastos de su competencia. 
+16. Aprobar la estructura orgánica de las Consejerías y de 
+sus organismos autónomos, así como la relación de puestos 
+de trabajo de la Administración General de la Comunidad 
+Autónoma y de sus organismos autónomos. 
+17. Acordar la creación de Comisiones Delegadas del 
+Gobierno. 
+18. Nombrar y separar, a propuesta de las personas titu-
+lares de las Consejerías correspondientes, a las personas altos 
+cargos de la Administración y a aquellas otras que las leyes y 
+las disposiciones reglamentarias establezcan. 
+19. Designar la representación de la Comunidad Autónoma 
+en los organismos económicos, las instituciones financieras y 
+las empresas públicas del Estado a que se refiere el Estatuto 
+de Autonomía para Andalucía, así como la representación en 
+los organismos institucionales y empresas dependientes de 
+la Comunidad Autónoma, salvo que por ley se atribuya a otro 
+órgano la designación. 
+20. Cualquier otra atribución que le venga conferida por 
+las leyes y, en general, entender de aquellos asuntos que por 
+su importancia o naturaleza requieran el conocimiento, deli-
+beración o decisión del Consejo de Gobierno. 
+TITULO III
+DEL FUNCIONAMIENTO DEL CONSEJO DE GOBIERNO
+CAPITULO I
+Disposiciones generales
+Artículo 28. Normas aplicables al funcionamiento del 
+Consejo de Gobierno. 
+El Consejo de Gobierno se rige, en su organización y funcio-
+namiento, por la presente Ley, por los decretos de la Presidencia 
+de la Junta de Andalucía y del Consejo de Gobierno y por las 
+disposiciones organizativas internas dictadas al efecto. 
+Artículo 29. Convocatoria de las reuniones. 
+1. El Consejo de Gobierno se reúne, convocado por la 
+persona titular de la Presidencia de la Junta de Andalucía. La 
+convocatoria, cuando proceda, irá acompañada del orden del 
+día de la reunión. 
+2. También podrá reunirse el Consejo de Gobierno, sin 
+convocatoria previa, cuando así lo decida la persona titular de 
+la Presidencia de la Junta de Andalucía y se hallen presentes 
+todas las personas integrantes del órgano. 
+Artículo 30. Adopción de acuerdos. 
+1. Los acuerdos del Consejo de Gobierno se adoptarán por ma-
+yoría. En caso de empate, el voto de la Presidencia es dirimente. 
+2. Para la constitución del órgano y la validez de las de-
+liberaciones y de los acuerdos, se requerirá la presencia del 
+Presidente o la Presidenta y de, al menos, la mitad del resto 
+de las personas miembros del Consejo de Gobierno. De no 
+poder asistir la persona titular de la Presidencia, la sustituirá 
+la persona miembro del Consejo de Gobierno que corresponda 
+según el orden previsto en el apartado 2 del artículo 13 de 
+esta Ley. 
+3. Los acuerdos del Consejo de Gobierno deberán 
+constar en un acta, en la que figurarán, exclusivamente, las 
+circunstancias relativas al tiempo y lugar de su celebración, 
+la relación de los asistentes, los acuerdos adoptados y los 
+informes presentados. 
+Artículo 31. Deber de secreto. 
+1. Los documentos que se presenten al Consejo de Go-
+bierno tendrán carácter reservado hasta que el propio Consejo 
+de Gobierno acuerde hacerlos públicos. 
+2. Las deliberaciones del Consejo de Gobierno, así como 
+las opiniones o votos emitidos en él, tendrán carácter secreto, 
+estando obligados sus integrantes a mantener dicho carácter, 
+aun cuando hubieran dejado de pertenecer al Consejo de 
+Gobierno. 
+Artículo 32. Asistencia a las sesiones. 
+1. A las reuniones del Consejo de Gobierno podrán acudir 
+personas que no pertenezcan al mismo, bien para informar 
+sobre algún asunto objeto de consideración por el Consejo de 
+Gobierno o por razones de trabajo. 
+2. Las personas a las que se refiere el apartado anterior 
+están obligadas a guardar secreto sobre lo tratado en el Con-
+sejo de Gobierno. 
+Artículo 33. Utilización de medios telemáticos. 
+1. El Consejo de Gobierno podrá utilizar redes de comunica-
+ción a distancia o medios telemáticos para su funcionamiento. A 
+tal fin, se establecerán los mecanismos necesarios que permitan 
+garantizar la identidad de los comunicantes y la autenticidad 
+de los mensajes, informaciones y manifestaciones verbales o 
+escritas transmitidas. 
+2. En la celebración de las reuniones en las que no estén 
+presentes en un mismo lugar quienes integran el Consejo de 
+Gobierno, la persona titular de la Secretaría del Consejo de Go-
+bierno hará constar esta circunstancia en el acta de la sesión, y 
+verificará el cumplimiento de los requisitos establecidos en esta 
+Ley para la válida constitución del órgano y para la adopción 
+de sus acuerdos. 
+3. La transmisión al Consejo de Gobierno de información 
+y documentación podrá realizarse, igualmente, por medios 
+telemáticos de comunicación. Tales sistemas también podrán 
+utilizarse para la remisión de las decisiones y certificaciones 
+de los acuerdos del Consejo de Gobierno a los órganos desti-
+natarios de las mismas. 
+Artículo 34. Secretaría del Consejo de Gobierno. 
+1. Ejercerá la Secretaría del Consejo de Gobierno la persona 
+titular de la Consejería competente en materia de Presidencia. 
+2. La Secretaría del Consejo de Gobierno remite las 
+convocatorias, levanta acta de las reuniones y da fe de los 
+acuerdos mediante la expedición de certificaciones de los 
+mismos. Igualmente, vela por la correcta publicación de las 
+disposiciones y acuerdos que deban insertarse en el Boletín 
+Oficial de la Junta de Andalucía. 
+3. En caso de ausencia, vacante o enfermedad, la Secreta-
+ría del Consejo de Gobierno será ejercida por la persona titular 
+de la Consejería que corresponda según el orden de prelación 
+de las Consejerías o por la persona miembro del Consejo de 
+Gobierno que designe la Presidencia de la Junta. 
+4. Sin perjuicio de lo establecido en el apartado anterior, 
+existirá una Secretaría de Actas del Consejo de Gobierno, que 
+
+Página núm. 8	
+BOJA núm. 215 	
+Sevilla, 7 de noviembre 2006
+podrá levantar acta de las reuniones y expedir certificaciones 
+de las decisiones adoptadas por el Consejo de Gobierno. 
+CAPITULO II
+De las Comisiones Delegadas y de la Comisión General de 
+Viceconsejeros y Viceconsejeras
+Artículo 35. De las Comisiones Delegadas. 
+1. El Consejo de Gobierno podrá crear Comisiones Dele-
+gadas, para coordinar la elaboración de directrices y disposi-
+ciones, programar la política sectorial y examinar asuntos de 
+interés común a varias Consejerías. 
+2. En el decreto de creación de una Comisión Delegada 
+figurarán las funciones y competencias asignadas, su composi-
+ción y la persona titular de la Vicepresidencia o de la Consejería 
+que puede presidirla, caso de no asistir la persona titular de la 
+Presidencia de la Junta de Andalucía. 
+3. El régimen general de funcionamiento de las Comisiones 
+Delegadas deberá ajustarse a los mismos criterios establecidos 
+para el Consejo de Gobierno.
+4. Los acuerdos de las Comisiones Delegadas deberán 
+constar en un acta, en la que figurarán, exclusivamente, las 
+circunstancias relativas al tiempo y lugar de su celebración, 
+la relación de los asistentes, los acuerdos adoptados y los 
+informes presentados.
+Artículo 36. Comisión General de Viceconsejeros y Vice-
+consejeras. 
+1. El Consejo de Gobierno estará asistido por una Comisión 
+General de Viceconsejeros y Viceconsejeras, para preparar los 
+asuntos que vayan a ser debatidos por el Consejo de Gobier-
+no y para resolver cuestiones de carácter administrativo que 
+afecten a varias Consejerías y que no sean de la competencia 
+de aquél. 
+2. La presidencia de la Comisión General de Viceconseje-
+ros y Viceconsejeras corresponderá a la persona titular de la 
+Consejería competente en materia de Presidencia. 
+3. Reglamentariamente se determinarán la composición, 
+funciones y el régimen de funcionamiento de la Comisión a 
+que se refiere este artículo. 
+4. Los acuerdos de la Comisión General de Viceconsejeros 
+y Viceconsejeras deberán constar en un acta, en la que figu-
+rarán, exclusivamente, las circunstancias relativas al tiempo 
+y lugar de su celebración, la relación de los asistentes, los 
+acuerdos adoptados y los informes presentados.
+TITULO IV
+DEL GOBIERNO EN FUNCIONES
+Artículo 37. Gobierno en funciones. 
+1. El Consejo de Gobierno cesa cuando cesa la persona 
+titular de la Presidencia de la Junta de Andalucía. 
+2. El Consejo de Gobierno cesante continuará en funciones 
+hasta la toma de posesión del nuevo Consejo de Gobierno. 
+3. El Gobierno en funciones facilitará el normal desarrollo 
+del proceso de formación del nuevo Consejo de Gobierno y 
+el traspaso de poderes al mismo, limitándose su gestión al 
+despacho ordinario de los asuntos públicos de su competen-
+cia, salvo casos de urgencia o interés general debidamente 
+acreditados. 
+4. El Presidente o la Presidenta en funciones de la Junta 
+de Andalucía no podrá ser sometido o sometida a una moción 
+de censura. Tampoco podrá ejercer las siguientes facultades:
+a) Designar o separar a las personas titulares de las Vice-
+presidencias o de las Consejerías. 
+b) Crear, modificar o suprimir Vicepresidencias o Con-
+sejerías.
+c) Disolver el Parlamento de Andalucía. 
+d) Plantear la cuestión de confianza. 
+5. El Consejo de Gobierno en funciones no podrá ejercer 
+las siguientes facultades:
+a) Aprobar el proyecto de Ley del Presupuesto de la Co-
+munidad Autónoma. 
+b) Presentar proyectos de ley al Parlamento de Andalucía. 
+TITULO V
+DE LAS RELACIONES DE LA PRESIDENCIA DE LA JUNTA 
+DE ANDALUCIA Y DEL CONSEJO DE GOBIERNO CON EL 
+PARLAMENTO DE ANDALUCIA
+CAPITULO I
+Del impulso de la acción política y de gobierno
+Artículo 38. Relaciones entre el Consejo de Gobierno y el 
+Parlamento de Andalucía. 
+1. El Consejo de Gobierno y las personas que lo integran, 
+sin perjuicio de lo que establece el Reglamento del Parlamento 
+de Andalucía, deberán:
+a) Acudir al Parlamento de Andalucía cuando éste reclame 
+su presencia. 
+b) Atender las preguntas, interpelaciones y mociones que 
+el Parlamento de Andalucía les formule. 
+c) Proporcionar al Parlamento de Andalucía la información 
+y ayuda que precise del Consejo de Gobierno, sus integrantes o 
+cualquier autoridad o personal al servicio de la Administración 
+de la Junta de Andalucía, organismo, servicio o dependencia 
+de la Comunidad Autónoma. 
+2. Quienes formen parte del Consejo de Gobierno tienen 
+acceso a las sesiones del Parlamento de Andalucía y la facultad 
+de hacerse oír en ellas. Podrán solicitar que informen ante las 
+Comisiones Parlamentarias las personas altos cargos y personal 
+al servicio de sus Consejerías. 
+CAPITULO II
+De la responsabilidad política del Gobierno
+Artículo 39. Exigencia de la responsabilidad política. 
+1. El Presidente o la Presidenta de la Junta de Andalucía 
+es responsable políticamente ante el Parlamento de Andalucía, 
+de acuerdo con lo establecido en el Estatuto de Autonomía. 
+2. El Consejo de Gobierno responde políticamente ante el 
+Parlamento de Andalucía de forma solidaria, sin perjuicio de la 
+responsabilidad directa de sus integrantes por su gestión. 
+3. La responsabilidad del Presidente o de la Presidenta 
+de la Junta de Andalucía y la del Consejo de Gobierno es exi-
+gible por medio de la moción de censura, que se sustanciará 
+conforme a lo previsto en el Estatuto de Autonomía y en el 
+Reglamento del Parlamento de Andalucía. 
+4. La cuestión de confianza será tramitada y decidida de 
+acuerdo con lo establecido en el Estatuto de Autonomía y en 
+el Reglamento del Parlamento de Andalucía. 
+Artículo 40. Responsabilidad política y delegación de 
+funciones. 
+La delegación temporal de funciones ejecutivas atribuidas 
+al Presidente o a la Presidenta de la Junta de Andalucía en la 
+persona titular de una Vicepresidencia o de una Consejería no 
+exime a aquél o a aquélla de responsabilidad política ante el 
+Parlamento de Andalucía. Igual criterio es aplicable a los casos 
+de delegación de funciones de su competencia del resto de 
+quienes integran el Consejo de Gobierno. 
+
+Sevilla, 7 de noviembre 2006	
+BOJA núm. 215 	
+Página núm. 9
+CAPITULO III
+De la disolución del Parlamento de Andalucía
+Artículo 41. Competencia y requisitos. 
+1. El Presidente o la Presidenta de la Junta de Andalucía, 
+previa deliberación del Consejo de Gobierno y bajo su exclusiva 
+responsabilidad, podrá disolver el Parlamento de Andalucía 
+mediante decreto. 
+2. No podrá decretarse la disolución del Parlamento de 
+Andalucía cuando esté en trámite una moción de censura. 
+3. No procederá nueva disolución del Parlamento de 
+Andalucía antes de que haya transcurrido, al menos, un año 
+desde la última disolución de la Cámara. 
+Artículo 42. Efectos y contenido del decreto de disolución. 
+El decreto de disolución del Parlamento de Andalucía se 
+publicará en el Boletín Oficial de la Junta de Andalucía y entrará 
+en vigor el mismo día de su publicación. En él se fijará la fecha 
+de celebración de las nuevas elecciones y demás circunstancias 
+previstas en la legislación electoral. 
+TITULO VI
+DEL REGIMEN DE LAS FUNCIONES Y ACTOS DEL GOBIERNO
+CAPITULO I
+Del ejercicio de la iniciativa legislativa y la potestad reglamentaria
+Artículo 43. De la iniciativa legislativa. 
+1. El Consejo de Gobierno ejercerá la iniciativa legislativa previs-
+ta en el Estatuto de Autonomía mediante la aprobación y posterior 
+remisión de los proyectos de ley al Parlamento de Andalucía. 
+2. El procedimiento de elaboración de los proyectos de ley 
+se iniciará en la Consejería competente mediante la elaboración 
+del correspondiente anteproyecto, que irá acompañado por una 
+memoria justificativa, los estudios e informes sobre la necesi-
+dad y oportunidad del mismo, la memoria sobre el impacto por 
+razón de género de las medidas que se establezcan, así como 
+por una memoria económica que contenga la estimación del 
+coste a que dará lugar y su forma de financiación. 
+3. La Consejería proponente elevará el anteproyecto de 
+ley al Consejo de Gobierno, a fin de que éste lo conozca y, en 
+su caso, decida sobre ulteriores trámites, sin perjuicio de los 
+legalmente preceptivos. 
+4. En todo caso, los anteproyectos de ley deberán ser 
+informados por la Secretaría General Técnica respectiva, el 
+Gabinete Jurídico de la Junta de Andalucía, y demás órganos 
+cuyo informe o dictamen tenga carácter preceptivo conforme 
+a las normas vigentes. Finalmente, se solicitará dictamen del 
+Consejo Consultivo de Andalucía. 
+5. Cuando un anteproyecto de ley afecte a los derechos e 
+intereses legítimos de la ciudadanía, la Consejería proponente 
+podrá acordar la realización del trámite de audiencia en los 
+términos previstos en la letra c) del apartado 1 del artículo 45 de 
+la presente Ley. No obstante, el Consejo de Gobierno decidirá 
+sobre la realización de este trámite cuando lo aconsejen razo-
+nes de urgencia debidamente acreditadas en el expediente. 
+6. Una vez cumplidos los trámites a que se refieren los 
+apartados anteriores, la persona titular de la Consejería pro-
+ponente someterá el anteproyecto de ley de nuevo al Consejo 
+de Gobierno para su aprobación como proyecto de ley y su 
+remisión al Parlamento de Andalucía, acompañándolo de los 
+antecedentes necesarios para pronunciarse sobre él. 
+Artículo 44. Potestad reglamentaria. 
+1. El ejercicio de la potestad reglamentaria corresponde 
+al Consejo de Gobierno de acuerdo con la Constitución, el 
+Estatuto de Autonomía y las leyes. 
+2. Las personas titulares de las Consejerías tienen potestad 
+reglamentaria en lo relativo a la organización y materias internas 
+de las mismas. Fuera de estos supuestos, sólo podrán dictar 
+reglamentos cuando sean específicamente habilitadas para ello 
+por una ley o por un reglamento del Consejo de Gobierno. 
+3. Los reglamentos se ajustarán a las siguientes normas 
+de competencia y de jerarquía normativa:
+1.º Disposiciones aprobadas por la Presidencia de la Junta 
+de Andalucía o por el Consejo de Gobierno. 
+2.º Disposiciones aprobadas por las personas titulares de 
+las Consejerías. 
+4. Ningún reglamento podrá vulnerar la Constitución, el 
+Estatuto de Autonomía para Andalucía, las leyes u otras disposi-
+ciones normativas de rango o jerarquía superiores que resulten 
+aplicables, ni podrá regular materias reservadas a la ley.
+5. Son nulas las resoluciones administrativas que vulneren 
+lo establecido en un reglamento, aunque hayan sido dictadas 
+por órganos de igual o superior jerarquía que el que lo haya 
+aprobado. 
+Artículo 45. Procedimiento de elaboración de los reglamentos. 
+1. La elaboración de los reglamentos se ajustará al si-
+guiente procedimiento:
+a) La iniciación del procedimiento de elaboración de un 
+reglamento se llevará a cabo por el centro directivo compe-
+tente, previo acuerdo de la persona titular de la Consejería, 
+mediante la elaboración del correspondiente proyecto, al que 
+se acompañará un informe sobre la necesidad y oportunidad 
+de aquél, así como una memoria económica que contenga la 
+estimación del coste a que dará lugar y su forma de financiación 
+y una memoria sobre el impacto por razón de género de las 
+medidas que se establezcan en el mismo. 
+b) A lo largo del proceso de elaboración deberán recabarse, 
+además de los informes, dictámenes y aprobaciones precepti-
+vos, cuantos estudios y consultas se estimen convenientes para 
+garantizar el acierto y la legalidad de la disposición. 
+c) Cuando una disposición afecte a los derechos e intere-
+ses legítimos de la ciudadanía, se le dará audiencia, durante un 
+plazo razonable y no inferior a quince días hábiles, directamente 
+o a través de las organizaciones y asociaciones reconocidas por 
+la ley que la agrupe o la represente y cuyos fines guarden rela-
+ción directa con el objeto de la disposición. La decisión sobre 
+el procedimiento escogido para dar audiencia a la ciudadanía 
+afectada será debidamente motivada en el expediente por el 
+órgano que acuerde la apertura del trámite de audiencia. 
+Asimismo, cuando la naturaleza de la disposición lo aconseje, 
+será sometida a información pública durante el plazo indicado 
+anteriormente. La participación de la ciudadanía podrá producirse 
+por cualquier medio admisible en Derecho, entre otros, por vía 
+telemática en los términos previstos reglamentariamente. 
+El trámite de audiencia y de información pública podrá ser 
+abreviado hasta el mínimo de siete días hábiles cuando razones 
+debidamente motivadas así lo justifiquen. Sólo podrá omitirse 
+dicho trámite cuando graves razones de interés público, que 
+asimismo habrán de explicitarse, lo exijan. 
+d) No será necesario el trámite de audiencia previsto en la 
+letra anterior, si las organizaciones o asociaciones mencionadas 
+hubieran participado por medio de informes o consultas en el 
+proceso de elaboración indicado en la letra b).
+e) El trámite de audiencia a la ciudadanía, en sus diversas 
+formas, reguladas en la letra c), no se aplicará a las disposicio-
+nes de carácter organizativo del Gobierno y la Administración 
+de la Junta de Andalucía o de las organizaciones dependientes 
+o adscritas a ella. 
+f) Junto a la memoria o informe sucintos que inician el 
+procedimiento de elaboración del reglamento se conservarán en 
+el expediente todos los estudios y consultas evacuados y demás 
+
+Página núm. 10	
+BOJA núm. 215 	
+Sevilla, 7 de noviembre 2006
+actuaciones practicadas, así como informe de valoración de las 
+alegaciones planteadas en la tramitación del proyecto. 
+2. En todo caso, los proyectos de reglamentos deberán ser 
+informados por la Secretaría General Técnica respectiva, por el 
+Gabinete Jurídico de la Junta de Andalucía y demás órganos cuyo 
+informe o dictamen tenga carácter preceptivo conforme a las 
+normas vigentes. Finalmente, será solicitado, en los casos que 
+proceda, el dictamen del Consejo Consultivo de Andalucía. 
+3. La entrada en vigor de los reglamentos requiere su íntegra 
+publicación en el Boletín Oficial de la Junta de Andalucía. 
+CAPITULO II
+De la forma de las decisiones
+Artículo 46. Forma de las disposiciones y resoluciones 
+de la Presidencia, de las Vicepresidencias y Consejerías, y del 
+Consejo de Gobierno. 
+Las decisiones de los órganos regulados en esta Ley 
+revisten las formas siguientes:
+1. Decretos de la Presidencia: son las disposiciones y actos 
+cuya adopción venga atribuida a la Presidencia de la Junta de 
+Andalucía. Estos decretos llevarán exclusivamente la firma del 
+Presidente o de la Presidenta de la Junta de Andalucía. 
+2. Decretos acordados en Consejo de Gobierno: son las decisio-
+nes que aprueben normas reglamentarias de éste y las resoluciones 
+que deben adoptar dicha forma jurídica. Estos decretos llevarán la 
+firma de la persona titular de la Presidencia y de la Consejería pro-
+ponente. Si afectaran a varias Consejerías, además del Presidente 
+o de la Presidenta los firmará la persona titular de la Consejería 
+competente en materia de Presidencia de la Junta de Andalucía. 
+3. Acuerdos del Consejo de Gobierno: son las decisiones 
+de dicho órgano que no deban adoptar la forma de decreto. 
+Estos acuerdos irán firmados conforme a los criterios recogidos 
+en el número anterior. 
+4. Ordenes de las personas titulares de las Vicepresidencias 
+y de las Consejerías: son las disposiciones y resoluciones de 
+tales órganos. Las órdenes irán firmadas por la persona titular 
+del órgano. Cuando afecten a más de un órgano, serán firmadas 
+conjuntamente por las personas titulares de todos ellos. 
+Disposición derogatoria única. Derogación normativa. 
+Quedan derogadas cuantas disposiciones de igual o 
+inferior rango se opongan a lo establecido en esta Ley y, 
+expresamente, los siguientes preceptos de la Ley 6/1983, de 
+21 de julio, del Gobierno y la Administración de la Comuni-
+dad Autónoma: artículos 1 al 33; 36; ordinales 2.º y 3.º del 
+artículo 39; artículos 40; 44; 45; 46; 50, en lo relativo a la 
+competencia del Consejo de Gobierno; y 52 al 56. 
+Disposición final única. Desarrollo de la Ley. 
+Se faculta al Consejo de Gobierno de la Junta de Anda-
+lucía para dictar cuantas disposiciones sean precisas para el 
+desarrollo y ejecución de la presente Ley.»
+Sevilla, 24 de octubre de 2006
+ 
+ 
+ 
+          MANUEL CHAVES GONZALEZ
+Presidente de la Junta de Andalucía
+LEY 7/2006, de 24 de octubre, sobre potestades admi-
+nistrativas en materia de determinadas actividades de ocio 
+en los espacios abiertos de los municipios de Andalucía.
+EL PRESIDENTE DE LA JUNTA DE ANDALUCIA A TODOS LOS 
+QUE LA PRESENTE VIEREN, SABED:
+Que el Parlamento de Andalucía ha aprobado y yo, en 
+nombre del Rey y por la autoridad que me confieren la Cons-
+titución y el Estatuto de Autonomía, promulgo y ordeno la 
+publicación de la siguiente
+LEY SOBRE POTESTADES ADMINISTRATIVAS EN MATERIA DE 
+DETERMINADAS ACTIVIDADES DE OCIO EN LOS ESPACIOS 
+ABIERTOS DE LOS MUNICIPIOS DE ANDALUCÍA
+EXPOSICION DE MOTIVOS
+I
+El ocio en los núcleos urbanos de Andalucía ha experimen-
+tado en los últimos años una nueva expresión que no depende, 
+en la mayoría de los casos, de la oferta de ocio que representan 
+los establecimientos públicos destinados a la celebración de 
+espectáculos públicos o al desarrollo de actividades recreativas. 
+Se trata de la concurrencia o concentración de personas, en 
+determinados espacios abiertos de las ciudades, para beber, 
+hablar entre ellos y escuchar música, entre otras actividades. 
+Esta nueva forma de interrelación grupal trae consigo unas 
+consecuencias que entran en colisión con otros derechos del 
+resto de la ciudadanía. Es evidente que tales concentraciones 
+conllevan, de una parte, la ingesta de importantes cantidades 
+de bebidas alcohólicas y otros hábitos poco saludables y, de 
+otra, un indeseable impacto acústico en esas zonas de vivien-
+das, lo que, junto a otros problemas, incide negativamente en 
+el normal desarrollo de la convivencia ciudadana, así como en 
+la salud e integridad física de las personas.
+La habilitación de espacios, bien comunicados mediante 
+transporte público, en áreas en las que no se entre en conflicto 
+con las necesidades e intereses de otros colectivos de ciuda-
+danos y ciudadanas puede avalar la aplicación de medidas 
+encaminadas a eludir ruidos, suciedad y un abusivo consumo 
+de alcohol.
+La materia que pretende ordenar la presente Ley no es 
+la de este fenómeno en su extensión global o integral. Esta 
+norma se circunscribe a regular un solo aspecto, el de evitar las 
+desfavorables repercusiones de estas nuevas manifestaciones 
+del ocio que afectan a la normal convivencia en las ciudades, 
+facultando a las Corporaciones Locales para la adopción de 
+controles administrativos en orden a que el nuevo modo de 
+relación de este segmento de la ciudadanía que opta por esta 
+forma de ocio se desarrolle adecuadamente. En tal sentido, 
+y bajo el absoluto respeto de la autonomía municipal, la Ley 
+establece un elenco de medidas legales correctoras para que 
+el desarrollo de las nuevas manifestaciones de interrelación 
+social de un sector de la ciudadanía andaluza se desarrolle en 
+su más alto nivel de convivencia democrática.
+Por ello, esta Ley trata de poner las bases y principios 
+generales de una particular ordenación de ciertas formas de 
+ocio sin que se cercene ningún tipo de aspiraciones de relación 
+entre sus miembros, pero que al propio tiempo se pueda conju-
+gar en función de cada realidad municipal con los inalienables 
+derechos a la intimidad y tranquilidad de los vecinos de los 
+pueblos y ciudades de Andalucía.
+II
+El Estatuto de Autonomía para Andalucía atribuye a la 
+Comunidad Autónoma, entre otras, competencias en materia 
+de deporte y ocio (artículo 13.31), régimen local (artículo 13.3), 
+urbanismo (artículo 13.8), promoción y ordenación del turismo 
+(artículo 13.17), sanidad e higiene (artículo 13.21), promoción 
+y fomento de la cultura en todas sus manifestaciones y expre-
+siones (artículo 13.26), promoción de actividades y servicios 
+para la juventud y la tercera edad (artículo 13.30), espectáculos 
+(artículo 13.32), medio ambiente (artículo 15.1.7.ª), fomento 
+y planificación de la actividad económica (artículo 18.1.1.ª), 
+comercio interior (artículo 18.1.6.ª) y defensa del consumidor 
+y el usuario (artículo 18.1.6.ª).

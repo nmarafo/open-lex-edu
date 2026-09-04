@@ -28,7 +28,7 @@ Base de conocimiento estructurada basada en la especificación **Open Knowledge 
 | **Estatal** | BOE (Legislación Consolidada) | **2026-08-16** | 144 normas | LOE-LOMLOE, FP y Reales Decretos 2025-2026 |
 | **Canarias** | [canaria-database](https://github.com/nmarafo/normativa-educativa-canaria-database) | **2026-08-22** | 196 normas | Completa (Vigente Cursos 2025-2026 / 2026-2027) |
 | **Madrid** | [madrid-database](https://github.com/nmarafo/normativa-educativa-madrid-database) | **2026-09-03** | 112 normas | Completa (100% íntegra, Cimientos por Fundamentos de Derecho y vista OKF normalizada) |
-| **Andalucía** | [andalucia-database](https://github.com/nmarafo/normativa-educativa-andalucia-database) | **2026-09-04** | 99 normas | Completa (100.0% íntegra, 0 incidencias, incorporación de resoluciones educativas estructurales y directrices de inspección, evaluación, pruebas libres, conciertos y provisión de puestos, Vigente Cursos 2025-2026 / 2026-2027) |
+| **Andalucía** | [andalucia-database](https://github.com/nmarafo/normativa-educativa-andalucia-database) | **2026-09-04** | 111 normas | Completa (100.0% íntegra, 0 incidencias, incorporación de leyes matrices autonómicas y decretos estructurales de función pública docente, Séneca, primer ciclo infantil y prevención de riesgos, Vigente Cursos 2025-2026 / 2026-2027) |
 
 ---
 
