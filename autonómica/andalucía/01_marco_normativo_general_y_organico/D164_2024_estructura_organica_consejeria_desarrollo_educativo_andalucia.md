@@ -74,8 +74,6 @@ relaciones:
 
 ## Preámbulo
 
-Consejería de Desarrollo Educativo y Formación Profesional
-
 Decreto 164/2024, de 26 de agosto, por el que se establece la estructura orgánica de la Consejería de Desarrollo Educativo y Formación Profesional.
 
 El artículo 4 l.

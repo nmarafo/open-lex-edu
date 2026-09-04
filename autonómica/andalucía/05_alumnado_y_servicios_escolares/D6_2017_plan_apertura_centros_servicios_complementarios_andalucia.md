@@ -1,30 +1,28 @@
 ---
 id: norm-and-d-6-2017
-codigo_sintetizado: D6_2017 Plan Apertura Centros Servicios Complementarios Andalucia
-titulo: Decreto 6/2017, de 16 de enero, por el que se regulan los servicios complementarios
-  de la enseñanza de aula matinal, comedor escolar y actividades extraescolares en
-  los centros docentes públicos de la Comunidad Autónoma de Andalucía.
+titulo: Decreto 134/2016, de 19 de julio, por el que se crean y suprimen centros docentes
+  públicos en la Comunidad Autónoma de Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
 organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
   de Andalucía
 tipo_disposicion: Decreto
-numero_disposicion: 6/2017
-fecha_disposicion: '2017-01-16'
-fecha_publicacion: '2017-01-20'
+numero_disposicion: 134/2016
+fecha_disposicion: '2016-07-26'
+fecha_publicacion: '2016-07-26'
 boletin: BOJA
-numero_boletin: '13'
+numero_boletin: '142'
 estado: Vigente
-redaccion: original
-fuente_oficial: https://www.juntadeandalucia.es/boja/2017/13/1
+redaccion: consolidada
+fuente_oficial: http://www.juntadeandalucia.es/boja/2016/142/2
 clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Servicios escolares
 tags:
-- comedor
+- servicios_complementarios
 - aula_matinal
-- extraescolares
-- plan_apertura
+- comedor
+- transporte
 - andalucia
 relaciones:
   fundamentado_en:
@@ -41,48 +39,103 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
 ---
 
-# Decreto 6/2017, de 16 de enero, por el que se regulan los servicios complementarios de la enseñanza de aula matinal, comedor escolar y actividades extraescolares en los centros docentes públicos de la Comunidad Autónoma de Andalucía.
+# Decreto 134/2016, de 19 de julio, por el que se crean y suprimen centros docentes públicos en la Comunidad Autónoma de Andalucía.
 
 ## Preámbulo
 
-2. Autoridades y personal2.1 Nombramientos, situaciones e incidencias
+Decreto 134/2016, de 19 de julio, por el que se crean y suprimen centros docentes públicos en 
+la Comunidad Autónoma de Andalucía.
+El artículo 52.1 del Estatuto de Autonomía de Andalucía dispone que la Comunidad Autónoma de 
+Andalucía ostenta en materia de enseñanza no universitaria la competencia exclusiva en la programación y 
+creación de centros públicos.
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, regula el conjunto de enseñanzas del sistema 
+educativo a excepción de la enseñanza universitaria.
+Por otro lado, de conformidad con lo establecido en el artículo 2 de la Ley 17/2007, de 10 de diciembre, 
+de Educación de Andalucía, los poderes públicos garantizarán el ejercicio del derecho a la educación mediante la 
+programación general de la enseñanza.
+Para atender la demanda de puestos escolares y propiciar la adecuación de la actual red de centros 
+docentes a las exigencias marcadas por las mencionadas Leyes, la Consejería de Educación ha propuesto la 
+modificación de la red de centros docentes públicos para el curso escolar 2016/17.
+Con esta actuación se persigue una profundización en el ejercicio del derecho a la educación de los 
+ciudadanos y ciudadanas andaluces, propiciando un incremento en las tasas de escolarización al tiempo que 
+se consigue la adaptación progresiva de la red de centros docentes públicos no universitarios a las necesidades 
+derivadas de la aplicación de la ordenación del sistema educativo.
+De acuerdo con lo establecido en el artículo 17 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del 
+Derecho a la Educación, y en el artículo 16 del Reglamento Orgánico de las escuelas infantiles de segundo ciclo, 
+de los colegios de educación primaria, de los colegios de educación infantil y primaria y de los centros públicos 
+específicos de educación especial, aprobado por el Decreto 328/2010, de 13 de julio, la creación y supresión de 
+estos centros docentes públicos corresponde al Consejo de Gobierno de la Junta de Andalucía.
+Por otra parte, el Título II de la Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad de 
+género en Andalucía, establece en el capítulo I, sección 1.ª, artículo 14, referido a la enseñanza no universitaria, 
+que el principio de igualdad entre mujeres y hombres inspirará el sistema educativo andaluz y el conjunto 
+de políticas que desarrolle la Administración educativa. Esta norma contempla la integración transversal del 
+principio de igualdad de género en la educación.
+En su virtud, a propuesta de la Excma. Sra. Consejera de Educación, de conformidad con lo establecido 
+en el artículo 27.23 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, 
+y previa deliberación del Consejo de Gobierno del día 19 de julio de 2016,
+D I S P O N G O
+Artículo único. Centros de educación infantil y primaria.
+1. Se crean los Centros de Educación Infantil y Primaria que se relacionan en el Anexo I del presente 
+Decreto.
+2. Se suprimen las Escuelas Infantiles que se relacionan en el Anexo II del presente Decreto.
+Disposición adicional única. Inscripción en el Registro de Centros Docentes.
+Del contenido del presente Decreto se dará traslado al Registro de Centros Docentes, regulado por el 
+Decreto 151/1997, de 27 de mayo, mediante las correspondientes anotaciones.
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en el 
+presente Decreto.
+Disposición final primera. Desarrollo y aplicación.
+Se autoriza a la Consejera de Educación a dictar cuantas disposiciones sean necesarias para el desarrollo 
+y aplicación de lo establecido en el presente Decreto.
+00095934
 
-Consejería de Agricultura, Pesca y Desarrollo Rural Resolución de 18 de enero de 2017, de la Secretaría General Técnica, por la que se adjudica el puesto de trabajo de libre designación, convocado por Resolución que se cita.
-
-Reglamento General de Ingreso, promoción interna, provisión de puestos de trabajo y promoción profesional de los funcionarios de la Administración General de la Junta de Andalucía, aprobado por Decreto 2/2002, de 9 de enero (BOJA núm. 8, de 19.1.2002), y teniendo en cuenta la competencia que me delega la Orden de 25 de noviembre de 2009 (BOJA número 236, de 3 de diciembre), se adjudica el puesto de trabajo de libre designación convocado por Resolución de esta Secretaría General Técnica de fecha 2 de noviembre de 2016 (BOJA núm. 213, de 7 de noviembre de 2016), a la funcionaria que figura en el Anexo adjunto. La toma de posesión se efectuará en los plazos establecidos en los artículos 65 y 51 del citado Reglamento. A efectos de motivación se indica que la candidata elegida ha sido propuesta por el titular del Centro Directivo al que está adscrito el puesto y cumple todos los requisitos y especificaciones exigidos en la convocatoria según lo establecido respectivamente en los artículos 63.1 y 64.2 del citado Reglamento. Contra la presente Resolución, que pone fin a la vía administrativa, se podrá interponer recurso potestativo de reposición ante este órgano, en el plazo de un mes contado a partir del día siguiente a aquel en que tenga lugar la publicación de este acto, o interponer directamente el recurso contencioso-administrativo, ante los órganos judiciales de este orden, en el plazo de dos meses, contados a partir del día siguiente al de la publicación de este acto, todo ello de conformidad con lo establecido en los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Sevilla, 18 de enero de 2017.- El Secretario General Técnico, Alberto Sánchez Martínez.
-
-## Anexo C. ONCURSO PUESTO LIBRE DESIGNACIÓN DNI: 30790096-L. Primer apellido: Martín.
-
-#### Segundo. apellido: Cabrilla.
-
-Nombre: María Josefa. Código puesto de trabajo: 11444210. Puesto T. adjudicado: Gabinete Planificación y Liquidación. Centro directivo: Consejería de Agricultura, Pesca y Desarrollo Rural. Centro destino: Dirección General Ayudas Directas y de Mercados. Provincia: Sevilla. Localidad: Sevilla.
-
-Descargar PDF
-
-Disposición siguiente
-
-**2.1.** Nombramientos, situaciones e incidencias
-
-**2.2.** Oposiciones, concursos y otras convocatorias
-
-3. Otras disposiciones
-
-4. Administración de justicia
-
-**5.1.** Licitaciones públicas y adjudicaciones
-
-**5.2.** Otros anuncios oficiales
-
-Descargar boletín nº 14 completo
-
-Sumario boletín nº 14
-
----
-
-## Relaciones Normativas y Fundamentos de Derecho
-
-### Estructura y Concordancias Granulares
-- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 65, Art. 51, Art. 63, Art. 123, Art. 124)
-- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
-- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+26  de  julio  2016	
+Boletín Oficial de la Junta de Andalucía
+Núm. 142  página 19
+Disposición final segunda. Entrada en vigor.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta 
+de Andalucía y tendrá efectos académicos y administrativos desde el curso escolar 2016/17.
+Sevilla, 19 de julio de 2016
+SUSANA DÍAZ PACHECO
+Presidenta de la Junta de Andalucía
+ADELAIDA DE LA CALLE MARTÍN
+Consejera de Educación
+ANEXO I
+CREACIÓN DE CENTROS DE EDUCACIÓN INFANTIL Y PRIMARIA
+Escuela Infantil, código 11012863, por desglose del Colegio de Educación Infantil y Primaria «Arquitecto 
+Leoz», código 11008011.
+Localidad: Puerto Real.
+Municipio: Puerto Real.
+Provincia: Cádiz.
+Colegio de Educación Infantil y Primaria, código 18013368, por desglose de la Escuela Infantil «Arco Iris», 
+código 18601874, y del Colegio de Educación Primaria «Virgen de la Cabeza», código 18002231.
+Localidad: Churriana de la Vega.
+Municipio: Churriana de la Vega.
+Provincia: Granada.
+Colegio de Educación Infantil y Primaria, código 18013381, por desglose del Colegio de Educación 
+Infantil y Primaria «Las Mimbres», código 18601448.
+Localidad: Maracena.
+Municipio: Maracena.
+Provincia: Granada.
+Colegio de Educación Infantil y Primaria, código 23009432, por fusión del Colegio de Educación Infantil 
+y Primaria «Peñamefécit», código 23002152, y del Colegio de Educación Infantil y Primaria «Ramón 
+Calatayud», código 23002231.
+Localidad: Jaén.
+Municipio: Jaén.
+Provincia: Jaén.
+Colegio de Educación Infantil y Primaria, código 41017156, por desglose del Colegio de Educación Infantil 
+y Primaria «Andalucía», código 41002220.
+Localidad: Guillena.
+Municipio: Guillena.
+Provincia: Sevilla.
+ANEXO II
+SUPRESIÓN DE ESCUELAS INFANTILES
+Escuela Infantil «Jarana», código 11004571.
+Localidad: Barrio de Jarana.
+Municipio: Puerto Real.
+Provincia: Cádiz.
+Escuela Infantil «Nuestra Señora del Carmen», código 11005305.
+Localidad: San Fernando.
+Municipio: San Fernando.
+Provincia: Cádiz.
+00095934

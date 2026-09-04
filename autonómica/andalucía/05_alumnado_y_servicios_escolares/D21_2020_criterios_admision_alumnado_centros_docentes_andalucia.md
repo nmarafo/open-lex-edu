@@ -411,49 +411,7 @@ relaciones:
 
 ## Preámbulo
 
-es/boja/distribucion/boja.xml"/> <link rel="alternate" type="application/atom+xml" title="1. Disposiciones generales - BOJA" href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
-
-###
-
-Becas y ayudas
-
-Buscar trabajo
-
-Autoempleo
-
-Empleo público
-
-Perder el trabajo
-
-Formación para el empleo
-
-Jubilación
-
-Inmigración y emigración
-
-Relaciones laborales
-
-Prevención de riesgos laborales
-
-Fomento de la empleabilidad
-
-Renovar demanda de empleo
-
-Ofertas de empleo
-
-Más temas
-
-Empleo público
-
-Boletín 34
-
-##
-
-## 1. Disposiciones generales
-
-### Consejería de Educación y Deporte
-
-### Decreto 21/2020, de 17 de febrero, por el que se regulan los criterios y el procedimiento de admisión del alumnado en los centros docentes públicos y privados concertados para cursar las enseñanzas de segundo ciclo de educación infantil, educación primaria, educación especial, educación secundaria obligatoria y bachillerato.
+Decreto 21/2020, de 17 de febrero, por el que se regulan los criterios y el procedimiento de admisión del alumnado en los centros docentes públicos y privados concertados para cursar las enseñanzas de segundo ciclo de educación infantil, educación primaria, educación especial, educación secundaria obligatoria y bachillerato.
 
 Por otra parte, el artículo 52.2 del Estatuto de Autonomía para Andalucía reconoce la competencia compartida de la Comunidad Autónoma sobre los criterios de admisión del alumnado, sin perjuicio de lo recogido en el artículo 149.1.30.ª de la Constitución, a tenor del cual corresponde al Estado dictar las normas básicas para el desarrollo del artículo 27 l.
 

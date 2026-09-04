@@ -1,655 +1,852 @@
 ---
-id: norm-and-l9-1999
-titulo: Ley 9/1999, de 18 de noviembre, de Solidaridad en la Educación
+id: norm-and-l9-1999-solidaridad-en-la-educacion-andalucia
+titulo: LEY 9/1999, de 18 de noviembre, de Solidaridad en la Educación.
 jurisdiccion: Andalucía
 ambito: Autonómico
 organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
   de Andalucía
 tipo_disposicion: Ley
-numero_disposicion: 9/1999
-fecha_disposicion: '1999-11-18'
+numero_disposicion: Ley 9/1999
+fecha_disposicion: '1999-12-02'
 fecha_publicacion: '1999-12-02'
 boletin: BOJA
 numero_boletin: '140'
 estado: Vigente
 redaccion: original
-fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1999-24699
-fuente_pdf_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1999-24699
-clasificacion:
-  categoria_canonica: 06_atencion_diversidad_y_orientacion
-  subcategoria: Medidas de atención a la diversidad
-tags:
-- solidaridad_educativa
-- neae
-- compensacion_educativa
-- andalucia
-relaciones:
-  cita:
-  - norma_id: norm-es-c-1978
-  - norma_id: norm-es-c-1978
-    titulo_origen: Título V
-    capitulo_origen: Capítulo VI. Influencia del tiempo en las infracciones, sanciones
-      y obligaciones de restauración del daño ambiental.
-    articulos_origen:
-    - Art. 56
-  concordancia:
-  - norma_id: norm-es-c-1978
-    titulo_destino: Título I
-    articulos_destino:
-    - Art. 13
-  modifica:
-  - norma_id: norm-es-c-1978
-    titulo_origen: Título V
-    capitulo_origen: Capítulo VI. Influencia del tiempo en las infracciones, sanciones
-      y obligaciones de restauración del daño ambiental.
-    articulos_origen:
-    - 'D. Derogatoria . Quedan derogados: El Anexo 10 del Decreto 239/1997,.'
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
-  fundamentado_en:
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-lo-1-1996
-  - norma_id: norm-and-l17-2007
+fuente_oficial: http://www.juntadeandalucia.es/boja/1999/140/1
+fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/pdf/1999/140/1
 ---
 
-# Ley 9/1999, de 18 de noviembre, de Solidaridad en la Educación
+# LEY 9/1999, de 18 de noviembre, de Solidaridad en la Educación.
 
 ## Preámbulo
 
-Página núm.
-
-**15.110** Sevilla, 25 de noviembre 1999 PRESIDENCIA LEY 8/1999, de 27 de octubre, del Espacio Natural de Doñana. EL PRESIDENTE DE LA JUNTA DE ANDALUCIA A TODOS LOS QUE LA PRESENTE VIEREN, SABED:
-Que el Parlamento de Andalucía ha aprobado y yo, en nombre del Rey y por la autoridad que me confieren la Constitución y el Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente «LEY DEL ESPACIO NATURAL DE DOÑANA
-
-## Exposición de motivos
-
-Doñana, como emblemático conjunto de sistemas naturales de Andalucía, España, Europa y el resto del Mundo, es mucho más que un Parque Nacional; su historia lo acredita como reserva ecológica conocida y valorada a raíz de las cenizas de un viejo coto de caza. En Doñana se encuentran juntos muchos elementos valiosos en interacción: El océano, playas, dunas, marismas, bosques, matorrales, lagunas, ríos y una variadísima fauna y flora, formando un ecosistema único de inconmensurable riqueza. Su gran extensión de marismas acoge durante todo el invierno a numerosas especies de aves acuáticas y su sistema de dunas móviles es singular en Europa. No obstante, los recientes estudios científicos realizados en Doñana apuntan que la pérdida de biodiversidad desde la creación del Parque Nacional es de tal magnitud que pone al espacio en una situación sin precedentes en su historia y hace temer que entre en un proceso delicado o incluso irreversible. Ante esto el desarrollo socioeconómico de la zona se ha de ordenar de forma que, paralelamente a que se acreciente el nivel de riqueza de los andaluces del entorno, no se afecten de forma irrecuperable los ciclos naturales de evolución de Doñana. De esta forma, el objetivo del incremento neto de la calidad de vida se producirá dentro del deseado desarrollo integral de la persona y el disfrute de este patrimonio natural estará garantizado para las futuras generaciones de andaluces. Con este fin, la presente intervención pública para la protección de este Espacio Natural ha buscado sus precedentes en tres hitos destacados: La constitución en 1964 de la Estación Biológica de Doñana, la declaración cinco años más tarde del Parque Nacional de Doñana como figura de protección de la reserva biológica y la declaración en 1989, mediante Ley, del Parque Natural "Entorno de Doñana", hoy denominado Parque Natural de Doñana, con el sentido de proteger el entorno del Parque Nacional. Ante este marco, necesariamente se ha de valorar la situación propiciada a raíz de la Sentencia del Tribunal Constitucional número 102/1995, en lo referente a los Parques Nacionales, especialmente lo que afecta a su gestión. En esta coyuntura es voluntad de la Junta de Andalucía establecer los instrumentos normativos necesarios para hacer realidad una gestión de este Espacio Natural acorde con la importancia intrínseca que Doñana tiene para los andaluces, así como hacer que dicha gestión sea consecuente con el reconocimiento que, de esta parte de Andalucía, se ha realizado desde variadas instancias internacionales, calificándola como Reserva de la Biosfera, Zona Húmeda de importancia internacional, Zona de Especial Protección de las Aves y Zona de Especial Conservación de la Unión Europea, y futura integrante del Patrimonio de la Humanidad de la Unesco. Todos estos antecedentes han dejado sus huellas a lo largo del articulado de la presente Ley, resaltándose la importancia de la investigación científica del Espacio Natural que se conecta con las necesidades de la gestión integral de Doñana. Se ha realzado también la participación de los municipios del entorno en la definición de la gestión ambiental del Espacio, facilitando cauces idóneos de participación en la toma de las decisiones sobre el desarrollo socioeconómico sostenible de la zona, con el fin de articularse jurídicamente, en sintonía con los pronunciamientos de la Conferencia Mundial sobre Medio Ambiente y Desarrollo celebrada en 1992 en Río de Janeiro. Se pretende generar un modelo de desarrollo que sea emblema y motor de la realización de los principios constitucionales, esto es, un medio ambiente adecuado para el desarrollo de la persona con la participación y colaboración de todas las Administraciones Públicas implicadas en la utilización racional de los recursos naturales y que atienda al binomio "calidad de vida-protección del medio ambiente", en un marco territorial que resulte ser especialmente apropiado para que se haga patente la indispensable solidaridad colectiva. Del mismo modo, se ha potenciado la formulación de programas específicos de investigación medioambiental, educación ambiental y el uso público de las instalaciones que permiten el contacto, acercamiento y comprensión de los elementos que conforman este conjunto singular de sistemas naturales, patrimonio de todos en cuya gestión la Junta de Andalucía, por mandato del Estatuto de Autonomía, tiene una especial y directa responsabilidad. La presente Ley se estructura en seis Títulos, incluido el preliminar. En éste se destacan los ya apuntados principios inspiradores de la norma. El Título I conceptúa un nuevo modelo de protección ambiental de un territorio. La figura Espacio Natural Doñana es nueva y única. Se trata de un Espacio Natural que aglutina a otros dos con diferente categoría jurídica incrementando, desde el punto de vista de la gestión, la protección ambiental integral a la vez que la promoción de la llamada Area de Influencia Socioeconómica. En el Título II, se articula orgánicamente la gestión del Espacio Natural Doñana. Se introduce con esta Ley un innovador sistema de colaboración en la gestión autonómica de Doñana que unifica los órganos consultivos y de participación existentes en el Parque Nacional y el Parque Natural. Se crea un Equipo de Gestión dependiente de la Consejería de Medio Ambiente de la Junta de Andalucía, mediante la que ésta instrumentaliza la ejecución de sus competencias de gestión del Espacio Natural Doñana y se determina la composición del Consejo de Participación. El Título III, dedicado a los instrumentos de planificación, parte de los estrictamente ambientales, previendo suplir la carencia existente respecto al instrumento de ordenación de los recursos naturales del territorio que ocupa el Parque Nacional. Tras ello se regula la integración en un único plan de las actuales medidas de uso y gestión del parque natural y del nacional, para culminar con el establecimiento de un marco jurídico que permita la elaboración de un Plan de Desarrollo Sostenible, regulación pionera de esta figura en el ámbito nacional. También se detalla la programación educativa y científica. Se concluye el Título con la necesaria coordinación de todos los tipos de planificación presentes en la zona. En el Título IV, se hace una apuesta por posibilitar la gestión económica autónoma del Espacio Natural Doñana, tanto desde la perspectiva de los ingresos como la de los gastos. El Título V materializa medidas adicionales de protección al establecer un régimen sancionador acorde con la singuSevilla, 25 de noviembre 1999 Página núm. 15.111 laridad y fragilidad de los valores ambientales que se protegen. Para ello se conceptúan las responsabilidades ambientales, se fijan las infracciones y sanciones y se regula la restauración de los daños ambientales. Se completa la Ley con las disposiciones transitorias y finales y un Anexo. En las primeras, el texto legal establece diversos preceptos en relación con su articulado y a la efectividad de la norma. En el Anexo se describen los límites territoriales del Espacio Natural. Finalmente, la presente disposición legislativa está justificada en las competencias exclusivas de la Comunidad Autónoma en materia de espacios naturales protegidos y de estructura de sus instituciones de autogobierno y en las de desarrollo de las bases estatales en materia de medio ambiente que, respectivamente, se establecen en los artículos 13.7 y 15.1.7, ambos en relación con el artículo 13.1, todos del Estatuto de Autonomía para Andalucía.
-
-## Título Preliminar. PRINCIPIOS INSPIRADORES
-
-#### Artículo 1. Propósito y principios inspiradores.
-
-La presente Ley tiene por finalidad establecer, sin perjuicio de lo dispuesto en la normativa estatal de aplicación, los aspectos generales del régimen jurídico que será de aplicación al Espacio Natural Doñana, dentro de una adecuada política de conservación y desarrollo sostenible, y garantizando la plena realización de los siguientes principios inspiradores de dicha gestión unitaria:
-1.º El mantenimiento de los procesos ecológicos, la investigación científica, la preservación de la biodiversidad y, en especial, la protección del patrimonio ambiental presente en el Espacio Natural Doñana. 2.º La potenciación económica del Espacio Natural Doñana a través de la ordenación racional de sus recursos naturales dentro de las pautas que conforman y definen, en el ámbito internacional, el concepto de desarrollo sostenible. 3.º Abundar en la concepción unitaria de los territorios que constituyen el Espacio Natural Doñana como realidad física con repercusiones jurídicas necesitadas de un tratamiento único, uniforme y coordinado que supere cualquier limitación que impida la consecución del objeto de esta Ley.
-
-#### Artículo 2. Objeto.
-
-Es objeto de la presente Ley, de acuerdo con lo previsto en los artículos 13.7 y 15.1.7 del Estatuto de Autonomía para Andalucía, el establecimiento del régimen jurídico de gestión del Espacio Natural Doñana, en orden a adicionar la protección, conservación, restauración y mejora de la totalidad de sus recursos naturales establecida en la normativa de aplicación, promoviendo la investigación científica de los mismos.
-
-#### Artículo 3. Administración y gestión del Espacio Natural.
-
-Doñana.
-
-1. La administración y gestión del Espacio Natural Doñana corresponde a la Administración Ambiental de la Junta de Andalucía, en los términos previstos en la presente Ley, sin perjuicio de la participación que a la Administración del Estado corresponda en la misma, de acuerdo con lo establecido en las disposiciones que dicte en el ejercicio de sus competencias.
-
-2. Las Entidades Locales implicadas colaborarán en la administración y gestión del Espacio Natural Doñana a través de su intervención en el Consejo de Participación creado por la presente Ley.
-
-#### Artículo 4. Ambito de aplicación.
-
-El ámbito de aplicación de la presente Ley es el territorio que constituye el Espacio Natural Doñana, así como su área de influencia socioeconómica.
-
-## Título I. DEL ESPACIO NATURAL DOÑANA Y SU AREA DE INFLUENCIA SOCIOECONOMICA
-
-### Capítulo I. Espacio Natural Doñana.
-
-#### Artículo 5. Definición y delimitación del Espacio Natural. Doñana.
-
-1. Se declara el Espacio Natural de Doñana, cuyos límites territoriales se describen en el Anexo, que comprende los territorios a los que actualmente se extiende el Parque Nacional de Doñana, incluidas sus Zonas de Reservas, así como sus Zonas de Protección y el Parque Natural de Doñana.
-
-2. El Consejo de Gobierno de la Junta de Andalucía a propuesta del Consejero de Medio Ambiente podrá modificar el Espacio Natural Doñana incorporando al mismo terrenos colindantes siempre que reúnan las características ecológicas adecuadas para ello y sean propiedad de la Administración de la Junta de Andalucía o se autorice por sus propietarios la incorporación.
-
-3. Se incorporarán, igualmente, al Espacio Natural Doñana las ampliaciones que se produzcan del Parque Nacional de Doñana.
-
-### Capítulo II. Area de Influencia Socioeconómica.
-
-#### Artículo 6. Delimitación del Area de Influencia Socioeconómica.
-
-Se delimita como Area de Influencia Socioeconómica a los efectos previstos en el artículo 18.2 de la Ley 4/1989, de 27 de marzo, de Conservación de los Espacios Naturales Protegidos y de la Fauna y Flora Silvestres, el conjunto de los términos de los municipios comprendidos, en todo o en parte, dentro de los límites del Espacio Natural Doñana.
-
-#### Artículo 7. Inclusiones en el Area de Influencia Socioeconómica.
-
-1. Las ampliaciones del Espacio Natural Doñana que supongan la incorporación, en todo o en parte, de términos municipales no incluidos anteriormente, determinarán su automática inclusión en el Area de Influencia Socioeconómica.
-
-2. Con carácter excepcional, el Consejo de Gobierno de la Junta de Andalucía resolverá la integración en el Area de Influencia Socioeconómica que sea solicitada justificadamente por aquellos municipios limítrofes con los pertenecientes a la misma.
-
-#### Artículo 8. Actividad administrativa de fomento en el Area de Influencia Económica.
-
-Los municipios cuyos términos municipales estén incluidos en el Area de Influencia Socioeconómica podrán acogerse al régimen de subvenciones, compensaciones y otras medidas de fomento que estén reglamentariamente establecidas. Todas ellas se realizarán de acuerdo con las determinaciones del Plan de Desarrollo Sostenible de Doñana en vigor.
-
-#### Artículo 9. Inversiones en el Area de Influencia Socioeconómica.
-
-1. Dentro de una adecuada política de desarrollo sostenible y su correspondiente Plan, la Administración de la Junta de Andalucía, previa conformidad de su Consejería de Medio Ambiente, participará en las actuaciones tendentes a la realización de inversiones que promuevan el necesario desarrollo socioeconómico del Area de Influencia Socioeconómica.
-
-2. La participación de la Administración de la Junta de Andalucía en las actuaciones a que se refiere el párrafo anterior se realizará preferentemente mediante la celebración de conPágina núm.
-
-**15.112** Sevilla, 25 de noviembre 1999 venios con las Entidades Locales, en los que se justifiquen la utilidad del proyecto que se presente a los fines del deseado desarrollo local compatible con la conservación del Espacio Natural Doñana.
-
-## Título II. ORGANOS DE GESTION Y PARTICIPACION
-
-### Capítulo I. Del Equipo de Gestión artículo 10 Concepto. La administración y gestión del Espacio Natural Doñana la realizará la Consejería de Medio Ambiente de la Junta de Andalucía a través del Equipo de Gestión.
-
-#### Artículo 11. Composición.
-
-El Equipo de Gestión se estructurará en, al menos, dos áreas funcionales, una relativa a las actividades ligadas a la conservación del Espacio Natural, a cuyo frente estará un Conservador, y otra encargada de las tareas relacionadas con la gerencia del mismo, a cuyo frente estará un Gerente. Formará parte del mismo el Director del Espacio Natural a quien corresponderá la dirección y coordinación.
-
-#### Artículo 12. Nombramiento.
-
-El nombramiento del Director del Espacio Natural Doñana y del resto del Equipo de Gestión se realizará de conformidad con lo prevenido en la normativa reguladora de la Función Pública de la Junta de Andalucía.
-
-#### Artículo 13. Funciones.
-
-Son funciones del Equipo de Gestión las siguientes:
-
-1. Colaborar en la redacción del proyecto del Plan de Ordenación de los Recursos Naturales, del Plan Rector de Uso y Gestión, del Plan de Desarrollo Sostenible y de sus respectivas modificaciones y revisiones.
-
-2. Presentar para su aprobación por la Consejería de Medio Ambiente el Plan Anual de Trabajo e Inversiones, que contendrá el orden de prioridad de las diferentes actividades a realizar.
-
-3. Elaborar los planes sectoriales que, en su caso, desarrollen el Plan Rector de Uso y Gestión, y proponerlos al Consejo de Participación para su aprobación.
-
-4. Proponer al órgano competente de la Administración de la Junta de Andalucía los convenios de colaboración que se estimen necesarios para ejecutar el Plan Anual de Trabajos e Inversiones y los planes sectoriales.
-
-5. Proponer al órgano competente por razón de la materia los proyectos de obras y trabajos que se considere necesario realizar.
-
-6. Elaborar y someter a la tramitación y aprobación por la Consejería de Medio Ambiente los pliegos de condiciones técnicas relativos a concesiones de servicios, adjudicaciones de aprovechamientos y autorizaciones de usos a terceros.
-
-7. Establecer, previo informe del Consejo de Participación, el régimen de funcionamiento de las instalaciones y servicios del Espacio Natural Doñana, velando por el correcto uso de sus signos externos identificativos.
-
-8. Elaborar la memoria anual de actividades y resultados y someterla a la aprobación del Consejo de Participación para su conocimiento e informe.
-
-9. Dictar, en el ámbito de sus competencias, y, en su caso, proponer las normas de desarrollo necesarias para una eficaz gestión del Espacio Natural Doñana.
-
-10. Otorgar la autorización exigida en el artículo 13 en.
-
-relación con el 16, ambos de la Ley 2/1989, por la que se aprueba el Inventario de Espacios Naturales Protegidos de Andalucía y se establecen medidas adicionales para su protección, para las nuevas actuaciones en suelo no urbanizable en el territorio del Espacio Natural Doñana.
-
-11. Asumir la gestión del régimen de autonomía económica del Espacio Natural Doñana, justificando la cuenta de gestión económica ante la Consejería de Medio Ambiente.
-
-12. Elaborar, en coordinación con la Estación Biológica de Doñana y las Universidades andaluzas presentes en el Consejo de Participación, los programas de investigación científica del Espacio Natural Doñana, en el marco de las previsiones contenidas en los instrumentos planificadores andaluces en materia de investigación y medio ambiente.
-
-13. Realizar todas aquellas actuaciones que se consideren necesarias para el mejor cumplimiento de los objetivos del Espacio Natural Doñana.
-
-### Capítulo II. El Consejo de Participación artículo 14 Creación. Se crea el Consejo de Participación como órgano de colaboración y coparticipación entre las Administraciones implicadas, donde se ha de hacer efectiva la coordinación interadministrativa exigida constitucionalmente y además servir a la necesaria intervención de los ciudadanos en la gestión del Espacio Natural Doñana. Este Consejo está adscrito, a efectos administrativos, a la Consejería de Medio Ambiente.
-
-#### Artículo 15. Composición y funcionamiento.
-
-1. El Consejo de Participación estará compuesto por el Presidente, Vicepresidente, Secretario y los Vocales representantes de la Administración de la Junta de Andalucía, de la Administración del Estado y de la Administración Local, de las organizaciones y agentes sociales y económicos y de la comunidad científica. La forma de designación de los miembros y el número de los Vocales se determinará reglamentariamente.
-
-2. El régimen jurídico de funcionamiento del Consejo de Participación será el que se disponga en su Reglamento de Régimen Interno y lo establecido en los artículos 22 y siguientes, sobre los órganos colegiados, de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, modificada por Ley 4/1999. #### Artículo 16. Competencias.
-
-El Consejo de Participación, sin perjuicio de las demás competencias que legalmente le pudieran corresponder, asumirá las siguientes funciones:
-
-1. Colaborar en el cumplimiento de los objetivos perseguidos por la declaración del Espacio Natural.
-
-2. Promover el conocimiento y la difusión de los valores del Espacio Natural Doñana.
-
-3. Fomentar, facilitar y canalizar en lo posible la participación y las iniciativas de los ciudadanos en la promoción y conservación del Espacio Natural Doñana.
-
-4. Velar por el cumplimiento de las normas que afecten al Espacio Natural Doñana y proponer todas aquellas actuaciones o disposiciones que se consideren necesarias para el mejor cumplimiento de los objetivos del mismo.
-
-5. Informar los planes que afecten a la ordenación y gestión de los recursos naturales del Espacio Natural Doñana y a la conservación de la flora, la fauna y sus hábitats y cualquier instrumento de planificación que afecte al ámbito del mismo, particularmente el Plan de Desarrollo Sostenible, así como cualquier propuesta de revisión de los planes.
-
-6. Informar el Plan Anual de Trabajo e Inversiones del Espacio Natural, los planes sectoriales específicos y los programas de investigación científica.
-
-7. Aprobar los planes sectoriales que en su caso desarrollen el Plan Rector de Uso y Gestión.
-
-Sevilla, 25 de noviembre 1999 Página núm. 15.113
-
-8. Proponer las posibles modificaciones de los límites de las figuras de protección que integran el Espacio Natural Doñana.
-
-9. Recabar y recibir información sobre las actuaciones y actividades que se desarrollen en el Espacio Natural Doñana relacionadas con su conservación y uso público.
-
-10. Aprobar la memoria anual de actividades elaborada por el Equipo de Gestión del Espacio Natural Doñana, proponiendo las medidas que considere necesarias para corregir disfunciones y mejorar la gestión.
-
-11. Informar los proyectos de obras y trabajos que se consideren necesarios realizar y no figuren en el Plan Rector de Uso y Gestión o en el Plan Anual de Trabajos e Inversiones.
-
-12. Informar el régimen de funcionamiento de las instalaciones y servicios del Espacio Natural Doñana, propuesto por el Equipo de Gestión.
-
-13. Informar sobre la propuesta de distribución de ayudas y subvenciones en el Area de Influencia Socioeconómica del Espacio Natural Doñana.
-
-14. Informar las propuestas de autorizaciones de actuaciones no prohibidas en la presente Ley ni contempladas en el Plan de Ordenación de Recursos Naturales o el Plan Rector de Uso y Gestión del Espacio Natural Doñana.
-
-15. Informar los convenios de colaboración que el Equipo de Gestión vaya a proponer a la administración de la Comunidad Autónoma.
-
-16. Aprobar su Reglamento de Régimen Interno.
-
-17. Acordar la creación de comisiones o grupos de trabajo.
-
-### Capítulo III. Medios necesarios para la gestión.
-
-#### Artículo 17. Medios para la gestión del Espacio Natural.
-
-Doñana. Los medios precisos para la gestión y administración del Espacio Natural Doñana serán aportados por las Administraciones públicas implicadas, en el marco de sus respectivas competencias.
-
-## Título III. INSTRUMENTOS DE PLANIFICACION DEL ESPACIO NATURAL DOÑANA
-
-### Capítulo I. Normas generales.
-
-#### Artículo 18. Disposiciones comunes.
-
-En el procedimiento de elaboración del Plan de Ordenación de los Recursos Naturales, Plan Rector de Uso y Gestión y Plan de Desarrollo Sostenible será preceptivo un previo acuerdo del Consejo de Gobierno de la Junta de Andalucía en el que se disponga la formulación del correspondiente Plan, el informe del Consejo de Participación y un período de información pública, sin perjuicio de cuantos otros requisitos les sean legalmente exigibles.
-
-### Capítulo II. Plan de Ordenación de Recursos Naturales.
-
-#### Sección 1. ª Disposiciones generales
-
-#### Artículo 19. Finalidad y competencia.
-
-1. Es finalidad del Plan de Ordenación de los Recursos Naturales del Espacio Natural Doñana promover la conservación de los recursos, ecosistemas, la investigación científica de los mismos, ordenar el uso y aprovechamiento de los recursos naturales y establecer las directrices necesarias para una adecuada gestión integral del Espacio Natural.
-
-2. El Consejo de Gobierno de la Junta de Andalucía, a propuesta de la Consejería de Medio Ambiente, aprobará el Plan de Ordenación de los Recursos Naturales del Espacio Natural Doñana y cualquier revisión o modificación del mismo.
-
-#### Artículo 20. Objetivos y contenidos.
-
-Los objetivos y el contenido mínimo del Plan de Ordenación de los Recursos Naturales del Espacio Natural Doñana son los establecidos al respecto por la legislación estatal de carácter básico, así como las determinaciones que se enuncian en los artículos 27.1 y 29.1 de la presente Ley.
-
-#### Artículo 21. Prohibiciones y autorizaciones.
-
-Cualquier actuación que se proyecte realizar en el espacio protegido susceptible de provocar daños o alteraciones al medio ambiente y que no esté prohibida en la presente Ley, el Plan de Ordenación de Recursos Naturales o el Plan Rector de Uso y Gestión requerirá una previa y expresa autorización por parte de la Consejería de Medio Ambiente, previo informe favorable del Consejo de Participación.
-
-#### Artículo 22. Vías pecuarias.
-
-El Plan de Ordenación de los Recursos Naturales prestará especial atención al diseño y puesta en marcha de un programa para la recuperación y puesta en uso de la red de vías pecuarias del Espacio Natural de Doñana y de su Area de Influencia Socioeconómica, como uno de los elementos claves para el mantenimiento de la biodiversidad y la diversidad paisajística, respetando en todo caso los usos compatibles y complementarios regulados por la Ley 3/1995, de 23 de marzo, de Vías Pecuarias, y por el Decreto 155/1998, de 21 de julio, por el que se aprueba el Reglamento de Vías Pecuarias de la Comunidad Autónoma de Andalucía.
-
-#### Artículo 23. Cauces fluviales.
-
-El Plan de Ordenación de los Recursos Naturales prestará especial atención al diseño y puesta en marcha de un programa para la recuperación y reforestación de los cauces fluviales públicos del Espacio Natural de Doñana y de su Area de Influencia Socioeconómica, como uno de los elementos claves para el mantenimiento de la biodiversidad y la diversidad paisajística.
-
-#### Sección 2. ª Recursos naturales abióticos artículo 24 Recursos hídricos. Siendo prioritarios los recursos hídricos para la conservación del Espacio Natural Doñana, quedan prohibidas:
-
-1. Aquellas construcciones o actuaciones que puedan dificultar o alterar la dinámica natural o tradicional de las aguas.
-
-2. La utilización o aprovechamiento de los recursos hídricos por particulares o por entidades públicas sin la preceptiva autorización de la Administración ambiental de la Comunidad Autónoma, sin perjuicio de las competencias de otros organismos en la materia.
-
-3. Cualquier actividad susceptible de provocar contaminación, eutrofización o degradación de las propiedades naturales de los recursos hídricos. En particular, los vertidos de aguas y productos residuales y cualquier tipo de sustancia susceptibles de contaminar el agua del Espacio Natural Doñana, así como la acumulación de residuos sólidos, escombros o sustancias de cualquier clase que constituyan un peligro por contaminación o degradación de las aguas o de su entorno.
-
-4. Cualquier actividad o uso del suelo que, por no establecer las medidas preventivas o correctoras necesarias, pueda ocasionar, por efecto del arrastre de materiales, la colmatación de las zonas húmedas del Espacio Natural.
-
-#### Artículo 25. Recursos edáficos y geológicos.
-
-Siendo prioritarios los recursos edáficos y geológicos para la conservación del Espacio Natural Doñana, quedan prohibidos:
-
-Página núm.
-
-**15.114** Sevilla, 25 de noviembre 1999
-
-1. Cualquier actividad susceptible de alterar la geomorfología y, en concreto, movimientos de tierra, extracción y transporte de áridos o lodos.
-
-2. La acumulación y el enterramiento de residuos sólidos, líquidos, gaseosos, escombros o cualquier sustancia susceptible de contaminar los suelos.
-
-3. Cualquier trabajo, obra, actividad o actuación que, por no establecer los procedimientos adecuados para su desarrollo ni las medidas correctoras precisas, pueda ocasionar el incremento del riesgo de erosión con la consiguiente pérdida de recursos edáficos.
-
-#### Artículo 26. Recursos atmosféricos.
-
-Queda prohibida cualquier actividad que suponga una degradación ambiental de las condiciones atmosféricas o que afecte negativamente al medio físico del Espacio Natural Doñana.
-
-#### Artículo 27. Recursos paisajísticos.
-
-1. Son objetivos de la presente Ley en cuanto a la ordenación de los recursos paisajísticos:
-a) Evitar o minimizar los impactos paisajísticos producidos por las actividades que se desarrollen, dentro de los límites del Espacio Natural Doñana, mediante cualquiera de las formas posibles, entre otras, por intrusión o por pérdida de paisaje.
-b) Recuperar la calidad paisajística de las zonas tanto naturales como antropizadas, degradadas por el desarrollo de actividades perjudiciales para sus características visuales, sonoras u olfativas.
-c) Preservar la diversidad paisajística del Espacio Natural Doñana, en particular, su paisaje natural.
-
-2. Queda prohibido, en cuanto a los recursos paisajísticos:
-a) La construcción, edificación o colocación de cualquier elemento artificial, temporal o permanente, que no responda a las necesidades propias de la gestión del Espacio Natural Doñana ni a criterios de integración paisajística con el medio natural.
-b) La instalación de carteles, inscripciones o artefactos de cualquier naturaleza con fines publicitarios, informativos o conmemorativos que pudieran menoscabar los objetivos de la ordenación de los recursos paisajísticos, excepto los necesarios para el buen funcionamiento del uso público, la gestión del Espacio Natural Doñana y la seguridad vial, que, no obstante, deberán estar en consonancia con el medio natural. Esta adecuación paisajística de las mencionadas infraestructuras será supervisada por la Administración ambiental de la Junta de Andalucía.
-c) Todos los usos y actividades que sean incompatibles o alteren los objetivos respecto a la ordenación de los recursos paisajísticos del Espacio Natural Doñana.
-
-#### Artículo 28. Patrimonio cultural.
-
-Con el fin de armonizar los diversos intereses de las Administraciones Públicas implicadas en el fomento, conservación y uso público de los bienes del patrimonio cultural, la utilización de dichos bienes sitos en el territorio del Espacio Natural Doñana se llevará a cabo con las cautelas que reglamentariamente se establezcan.
-
-#### Sección 3. ª Recursos naturales bióticos
-
-#### Artículo 29. Flora y fauna.
-
-1. Respecto de la ordenación de la flora y fauna del Espacio Natural Doñana, son objetivos específicos de esta Ley:
-a) Recuperar las especies de flora y fauna amenazadas y sus hábitats.
-b) Preservar la diversidad genética, garantizando la conservación de la flora y la fauna silvestre.
-c) Conservar los hábitats naturales y ecosistemas.
-d) Favorecer el desarrollo y equilibrio de los sistemas naturales.
-e) Fomentar la gestión de los ecosistemas forestales procurando la conservación de los mismos de acuerdo con criterios de sostenibilidad.
-
-2. Siendo prioritaria la conservación del Espacio Natural Doñana, quedan prohibidos:
-a) El maltrato, muerte, destrucción, extracción, recolección, comercio, captura y exposición para comercio o naturalización no autorizadas de especies de flora y fauna en peligro de extinción, sensibles, vulnerables o de interés especial.
-b) Las actividades que atenten contra la conservación de los hábitats naturales o alteren el normal desenvolvimiento de la fauna.
-c) La alimentación no autorizada de la fauna o la realizada fuera del ejercicio de actividad autorizada que conlleve el suministro de alimentos a animales.
-d) La extracción o recolección no autorizada de plantas y animales muertos, huevos, y cualquier fragmento y resto propio de la actividad de la flora y fauna del Espacio Natural Doñana.
-e) El maltrato, muerte, destrucción, captura de especies de fauna silvestres no catalogadas y la recolección, arranque y corta de plantas, para aquellos casos en que sea precisa la previa autorización administrativa y ésta no se haya otorgado.
-f) La introducción en el medio natural de cualquier especie biótica no autóctona.
-
-### Capítulo III. Plan Rector de Uso y Gestión artículo 30 Competencias. Corresponde al Consejo de Gobierno de la Junta de Andalucía, a propuesta de la Consejería de Medio Ambiente, la aprobación del Plan Rector de Uso y Gestión, así como la de sus modificaciones y revisiones.
-
-#### Artículo 31. Objetivos y contenidos.
-
-1. Constituye el objetivo principal del Plan Rector de Uso y Gestión del Espacio Natural Doñana garantizar la administración y gestión del mismo, en el marco de las directrices establecidas en el Plan de Ordenación de los Recursos Naturales y en el Plan Director de la Red de Parques.
-
-2. El contenido mínimo del Plan Rector de Uso y Gestión del Espacio Natural Doñana es el previsto en el artículo 19.4 de la Ley de Conservación de los Espacios Naturales y de la Flora y Fauna Silvestres. Además, tendrá el siguiente contenido y objetivos concretos:
-a) Recoger la zonificación establecida en el Plan de Ordenación de Recursos Naturales detallando los diferentes usos y actividades compatibles e incompatibles en la misma.
-b) Determinar las actuaciones de gestión necesarias para la conservación y restauración de los ecosistemas y equilibrios biológicos existentes.
-c) Establecer medidas tendentes a potenciar un aprovechamiento racional de los recursos naturales del Espacio Natural Doñana, potenciando aquellas actividades que el Plan de Desarrollo Sostenible considere necesarias para mantener las características del Espacio Natural.
-d) Favorecer la investigación científica en coordinación con las previsiones que sobre la misma se hacen en el Plan Andaluz de Investigación y Plan de Medio Ambiente en Andalucía, establecer las prioridades y las bases de los programas específicos de investigación, así como fijar los criterios para
-
-Sevilla, 25 de noviembre 1999 Página núm. 15.115 la coordinación de los distintos instrumentos prospectivos respecto a la investigación científica en el Espacio Natural Doñana, todo ello para un conocimiento más amplio de este espacio protegido.
-e) Promover el desarrollo de las actividades turísticas, recreativas y culturales compatibles con los objetivos de conservación del Espacio Natural Doñana, identificando, expresamente, aquéllas que no lo sean, y estableciendo, para las primeras, la documentación y requisitos necesarios para su ejercicio.
-f) Regular y promover la coordinación normativa de los diferentes servicios de uso público relacionados con el Espacio Natural Doñana que se desarrollen en el mismo.
-g) Establecer un régimen general para la concesión de las distintas autorizaciones previstas en la normativa ambiental vigente.
-h) Establecer de acuerdo con la presente Ley y el Plan de Ordenación de Recursos Naturales el régimen de prohibiciones y limitaciones de actividades.
-i) Las bases de los distintos planes sectoriales que desarrollen el Plan Rector de Uso y Gestión.
-
-#### Artículo 32. Duración, modificaciones y revisiones del Plan.
-
-Rector de Uso y Gestión. La vigencia temporal del Plan Rector de Uso y Gestión del Espacio Natural Doñana será de un mínimo de cuatro años, prorrogables por el Consejero de Medio Ambiente hasta un máximo de seis años, debiendo revisarse al final del período, tras la evaluación del Plan Rector de Uso y Gestión o antes si fuera necesario.
-
-### Capítulo IV. Plan de Desarrollo Sostenible.
-
-#### Artículo 33. Concepto y finalidad del Plan de Desarrollo.
-
-Sostenible del Espacio Natural Doñana. El Plan de Desarrollo Sostenible del Espacio Natural Doñana es el instrumento para la promoción del desarrollo en el Espacio Natural Doñana y su área de influencia socioeconómica en el marco de la conservación y protección de los recursos naturales de dicho ámbito, correspondiendo su aprobación al Consejo de Gobierno de la Junta de Andalucía, a propuesta de la Consejería de Medio Ambiente. El Plan de Desarrollo Sostenible se elaborará teniendo presente los siguientes principios inspiradores:
-
-1. El desarrollo socioeconómico debe promoverse de forma que queden garantizadas las necesidades socioeconómicas y ambientales de las generaciones presentes y futuras.
-
-2. La protección del medio ambiente debe presidir todo el proceso de desarrollo socioeconómico.
-
-#### Artículo 34. Competencia.
-
-La formulación inicial y aprobación definitiva del Plan de Desarrollo Sostenible, así como sus revisiones y modificaciones, es competencia del Consejo de Gobierno de la Junta de Andalucía, a propuesta de la Consejería de Medio Ambiente.
-
-#### Artículo 35. Contenido.
-
-El Plan de Desarrollo Sostenible, con el fin de favorecer la articulación de los objetivos de desarrollo socioeconómico con los objetivos que establezca el Plan de Ordenación de los Recursos Naturales y Plan Rector de Uso y Gestión del Espacio Natural Doñana, deberá especificar como mínimo lo siguiente:
-
-1. Las propuestas de actuaciones que deben desarrollar las distintas Administraciones Públicas implicadas.
-
-2. El establecimiento de las líneas de fomento necesarias para promover y canalizar las actuaciones privadas y públicas hacia los objetivos establecidos.
-
-### Capítulo V. Programas educativos y científicos.
-
-#### Artículo 36. Educación e investigación ambiental.
-
-El Consejo de Participación solicitará de las distintas Administraciones con competencias en educación y ciencia, trabajo, cultura y medio ambiente el desarrollo de programas de educación e investigación ambiental en los que se incluyan temas específicos para la sensibilización, divulgación y formación e investigación científica aplicada al Espacio Natural Doñana.
-
-### Capítulo VI. Coordinación de la planificación ambiental, territorial y sectorial.
-
-#### Artículo 37. Relaciones entre planes.
-
-Los objetivos de los planes recogidos en los Capítulos II y III de este Título constituirán una limitación, en las materias que les son propias, para las planificaciones territoriales y físicas y tendrán carácter indicativo respecto de otras actuaciones, planes o programas de carácter sectorial.
-
-## Título IV. REGIMEN ECONOMICO
-
-#### Artículo 38. Régimen de autonomía económica del Espacio Natural Doñana.
-
-1. Con objeto de facilitar la gestión y administración del Espacio Natural Doñana, se establece el régimen de autonomía económica de dicho Espacio Natural.
-
-2. Las Leyes de Presupuesto de la Comunidad Autónoma establecerán créditos en partidas específicas destinados a los gastos de funcionamiento necesarios para la gestión del Espacio Natural Doñana, correspondiendo al Equipo de Gestión, como órgano responsable del régimen de autonomía económica, su administración.
-
-#### Artículo 39. Afectación de ingresos.
-
-Los ingresos derivados del servicio o actividad que preste el Espacio Natural, aprovechamientos o cualesquier otros derivados de la gestión de dicho Espacio, así como las subvenciones o aportaciones de carácter público o privado, se afectarán íntegramente a la cobertura de sus propios gastos.
-
-## Título V. REGIMEN SANCIONADOR
-
-### Capítulo I. De las medidas precautorias e infracciones ambientales en el Espacio Natural Doñana.
-
-#### Sección 1. ª Medidas provisionales y cautelares
-
-#### Artículo 40. Medidas provisionales y cautelares.
-
-1. Tanto en el acuerdo de iniciación del procedimiento, como en cualquier momento del mismo, el órgano competente para la incoación o el instructor, respectivamente, podrán establecer, mediante acuerdo motivado, las medidas provisionales que deban adoptarse por razones de urgencia inaplazable para asegurar la eficacia de la resolución final que pudiera recaer en el procedimiento sancionador. Dichas medidas, entre otras análogas, pueden ser la suspensión de actividades o servicios, retirada de productos, materiales, armas o herramientas, precintado de máquinas y prestación de fianza.
-
-2. Se entenderá, además, que existen circunstancias de urgencia inaplazable siempre que puedan producirse daños de carácter irreparable en especies o ecosistemas del Espacio Natural Doñana.
-
-Página núm.
-
-**15.116** Sevilla, 25 de noviembre 1999
-
-3. También se adoptarán, de forma motivada, las medidas cautelares que resulten precisas para garantizar la eficacia de la resolución que ponga fin al procedimiento sancionador.
-
-#### Sección 2. ª Tipificación de las infracciones ambientales artículo 41 Infracciones administrativas respecto de la. flora y fauna del Espacio Natural Doñana.
-
-Son infracciones administrativas respecto de la flora y fauna del Espacio Natural Doñana las siguientes acciones u omisiones:
-a) El maltrato, muerte, destrucción, extracción, recolección, comercio, captura y exposición para comercio o naturalización no autorizadas de especies de flora y fauna en peligro de extinción, sensibles, vulnerables o de interés especial, así como la de sus propágulos, fragmentos o restos.
-b) El uso de medios no selectivos o de sustancias tóxicas que tengan como objeto el ocasionar la muerte o la captura de animales independientemente de su grado de protección.
-c) La destrucción del hábitat de especies en peligro de extinción o vulnerables a la alteración de su hábitat, especialmente del lugar de reproducción, invernada, reposo, campo o alimentación.
-d) El arranque, extracción, recolección o destrucción no autorizada de plantas y animales muertos, huevos y cualquier fragmento y resto propios de la actividad de la flora y fauna del Espacio Natural Doñana, no incluida en la letra a) de este artículo.
-e) La introducción en el medio natural de cualquier especie no autóctona de fauna y flora.
-f) La alimentación no autorizada de la fauna.
-
-#### Artículo 42. Infracciones administrativas respecto de los recursos naturales abióticos en el Espacio Natural Doñana.
-
-Son infracciones administrativas respecto de los recursos naturales abióticos del Espacio Natural Doñana las siguientes acciones u omisiones:
-a) Obras, construcciones o actuaciones que puedan dificultar o alterar la dinámica natural o tradicional de las aguas.
-b) La utilización o aprovechamiento de los recursos hídricos por particulares o por entidades públicas sin la preceptiva autorización de la Administración ambiental.
-c) Cualquier actividad susceptible de provocar contaminación, eutrofización o degradación de las propiedades naturales de los recursos hídricos, especialmente, los vertidos de aguas y productos residuales y cualquier tipo de sustancia susceptibles de contaminar el agua del Espacio Natural Doñana, así como la acumulación de residuos sólidos, escombros o sustancias de cualquier clase que constituyan un peligro por contaminación y/o degradación de las aguas o de su entorno.
-d) Cualquier actividad o uso del suelo que, por no establecer las medidas preventivas o correctoras necesarias, pueda ocasionar, por efecto del arrastre de materiales, la colmatación de las zonas húmedas del Espacio Natural.
-e) Cualquier actividad susceptible de alterar la geomorfología del Espacio Natural Doñana y, especialmente, movimientos de tierra, extracción y transporte de áridos o lodos.
-f) La acumulación y el enterramiento de residuos sólidos, líquidos, gaseosos, escombros o cualquier sustancia susceptible de contaminar los suelos.
-g) Cualquier actividad que por intrusión o emisión suponga una degradación ambiental de las condiciones atmosféricas de la zona y que afecte negativamente al medio físico del Espacio Natural Doñana.
-h) La construcción, edificación o colocación de cualquier elemento artificial, temporal o permanente no autorizado, que no respondan a las necesidades propias de la gestión del Espacio Natural Doñana ni a criterios de integración paisajística con el medio natural.
-i) La instalación de carteles, inscripciones o artefactos de cualquier naturaleza con fines publicitarios, informativos o conmemorativos que pudieran menoscabar los objetivos de la ordenación de los recursos paisajísticos, excepto los necesarios para el buen funcionamiento del uso público, la gestión del Espacio Natural Doñana y la seguridad vial.
-j) Todos los usos, actividades o elementos instalados en áreas de singular valor paisajístico que sean incompatibles o alteren los objetivos respecto a la ordenación de los recursos paisajísticos del Espacio Natural Doñana.
-k) Cualquier actividad de las descritas en las letras a), b), c), d), e) y f) de este artículo que alteren las condiciones de habitabilidad de los espacios naturales con daño para los ecosistemas.
-
-#### Artículo 43. Infracciones administrativas respecto de los elementos culturales del Espacio Natural Doñana.
-
-Las infracciones que se puedan producir respecto de los elementos culturales del Espacio Natural Doñana se sancionarán de acuerdo con la normativa específica que sea de aplicación.
-
-#### Artículo 44. Infracciones administrativas respecto de otras actividades humanas en el Espacio Natural Doñana.
-
-Son infracciones administrativas respecto a otras actividades humanas no enunciadas en los artículos precedentes y que se lleven a efecto en el territorio del Espacio Natural Doñana las siguientes acciones u omisiones:
-a) El portar o usar en el Espacio Natural Doñana armas de fuego o cualquier otro tipo de arma o utensilio susceptible de causar daño a los recursos naturales vivos, a excepción del personal que deba portar o usar las armas o utensilios por razón de las funciones que desempeñe, o se encuentre expresamente autorizado para ello.
-b) La circulación a pie, con tracción animal o con medios motorizados fuera de los lugares habilitados para ello en el PRUG, y que se realice sin la autorización expedida por el órgano administrativo competente del Espacio Natural Doñana.
-c) La acampada y pernocta al aire libre, excepto las autorizadas para eventos científicos, divulgativos o culturales.
-d) Hacer fuego al aire libre, sin la previa autorización administrativa.
-e) La producción de cualquier ruido o reclamo de atracción para fauna no autorizado y que altere el normal desenvolvimiento de las especies que habitan en el Espacio Natural Doñana.
-f) La utilización de medios de reproducción fotográfica, vídeo u otros para la filmación de imágenes en las zonas de protección especial indicadas en el PORN del Espacio Natural Doñana siempre que se realicen sin autorización administrativa y estando señalizada la correspondiente prohibición.
-g) El incumplimiento de las condiciones de las autorizaciones para aprovechamientos tradicionales de los recursos naturales.
-h) La edificación, instalación o colocación no autorizada de elementos artificiales de carácter temporal.
-i) La ejecución de obras sin la debida autorización administrativa.
-j) El incumplimiento de las condiciones impuestas en las autorizaciones administrativas a que se refiere esta Ley.
-
-#### Sección 3. ª Calificación de las infracciones artículo 45 Calificación de las infracciones. Sin perjuicio de la calificación establecida con carácter
-
-general en el artículo 39.2 de la Ley 4/1989, de 27 de marzo, de Conservación de los Espacios Naturales y de la Flora y Fauna Silvestres:
-
-1. Son infracciones muy graves las descritas en los artículos siguientes: Artículo 41, letras a), b) y c); artículo 42, letras d) y k).
-
-Sevilla, 25 de noviembre 1999 Página núm. 15.117
-
-2. Son infracciones graves las descritas en los artículos siguientes: Artículo 41, letras d), e) y f); artículo 42, letras a), b), c), e), f), h) y j); artículo 44, letras a), b), d), g),
-i) Y j).
-
-3. Son infracciones leves las descritas en los artículos siguientes: Artículo 42, letras g) e i); artículo 44, letras c), e), f) y h).
-
-### Capítulo II. Circunstancias modificativas de la responsabilidad.
-
-#### Artículo 46. Circunstancias agravantes.
-
-Se consideran circunstancias agravantes de la responsabilidad administrativa las siguientes:
-
-1. La generación de riesgo o daño para la seguridad o salud de las personas.
-
-2. La existencia de intencionalidad o reiteración.
-
-3. La reincidencia, por comisión en el término de un año de más de una infracción de la misma naturaleza cuando así haya sido declarado por resolución firme.
-
-4. La irreversibilidad del deterioro producido en el bien protegido.
-
-5. La grave repercusión del daño en el mantenimiento de los equilibrios ecológicos del sistema natural agredido.
-
-6. La necesidad de realizar especiales actuaciones ulteriores para la reparación del daño producido.
-
-7. La alteración o destrucción del hábitat.
-
-8. La obtención de beneficio mediante la comisión de la infracción.
-
-9. Que unas infracciones hayan servido para ocultar otras posibles.
-
-10. El incumplimiento de los controles exigibles en la actuación que genera la infracción.
-
-11. La obstrucción a las actuaciones de la Administración ambiental para el conocimiento de la realización de la infracción o la instrucción del procedimiento sancionador.
-
-12. Ejecutar el hecho constitutivo de infracción aprovechando las circunstancias de lugar, tiempo o auxilio de otra persona que faciliten la impunidad.
-
-13. Aumentar deliberadamente el daño originado por la conducta infractora, causando otros innecesarios para la ejecución.
-
-14. Cometer la infracción mediante precio, recompensa o promesa.
-
-#### Artículo 47. Circunstancias atenuantes.
-
-Se consideran circunstancias atenuantes de la responsabilidad administrativa:
-
-1. La adopción espontánea por parte del infractor de medidas que corrijan, atenúen o minimicen el daño o riesgo provocado.
-
-2. Un grado de participación distinto a la autoría material.
-
-3. La colaboración eficaz con la Administración ambiental en las actuaciones que se deriven del procedimiento sancionador.
-
-4. La reversibilidad del daño o deterioro producido.
-
-5. La no alteración significativa con el daño infligido de los sistemas naturales agredidos.
-
-6. El no haber sido sancionado previamente por la comisión de infracción tipificada en la presente Ley.
-
-7. La inexistencia o escasa importancia de las actuaciones reparadoras del daño ambiental debido a la capacidad autorregenerativa del medio agredido.
-
-### Capítulo III. De las sanciones administrativas.
-
-#### Sección 1. ª Cuantificación de las sanciones
-
-#### Artículo 48. Sanciones.
-
-1. Las infracciones tipificadas en la presente Ley se sancionarán con las siguientes multas:
-a) Infracciones leves, multa desde la quinta parte hasta 10 veces el salario mínimo interprofesional mensual.
-b) Infracciones graves, multas desde 10 veces más una peseta hasta 150 veces el salario mínimo interprofesional mensual.
-c) Infracciones muy graves, multas desde 150 veces más una peseta hasta 1.000 veces el salario mínimo interprofesional mensual.
-d) El salario mínimo interprofesional de referencia será el vigente en el momento de la incoación del procedimiento sancionador.
-
-2. A los efectos de la presente Ley se considerará salario mínimo interprofesional el que se establezca en cada momento por la normativa vigente.
-
-#### Artículo 49. Sanciones accesorias.
-
-1. La Administración ambiental acordará, como sanciones accesorias, el decomiso de los productos o elementos naturales ilegalmente obtenidos y los medios utilizados para su obtención en los supuestos de faltas graves y muy graves que, asimismo, conllevarán la prohibición de cazar o pescar durante un plazo máximo de diez años.
-
-2. Los productos, elementos, medios y ganancias serán decomisados a no ser que pertenezcan a un tercero de buena fe no responsable de la infracción que los haya adquirido legalmente.
-
-#### Sección 2. ª Graduación de las sanciones artículo 50 Graduación. La graduación de las sanciones se determinará en función
-
-de la concurrencia de las circunstancias agravantes y atenuantes previstas en los artículos precedentes.
-
-#### Artículo 51. Incremento de la sanción por beneficio ilícito.
-
-La sanción establecida se incrementará con la adición del importe total del beneficio reportado por la actuación ilícita.
-
-### Capítulo IV. Competencias.
-
-#### Artículo 52. Organos.
-
-competentes para la imposición de. las sanciones. La resolución de los expedientes sancionadores corresponderá a los siguientes órganos:
-a) El Director del Equipo de Gestión del Espacio Natural Doñana, los correspondientes a infracciones leves.
-b) El Director General de Participación y Servicios Ambientales de la Consejería de Medio Ambiente, o, en su defecto, el centro directivo competente en materia de gestión de espacios naturales protegidos, los correspondientes a infracciones graves.
-c) El Consejero de Medio Ambiente, los correspondientes a infracciones muy graves.
-
-### Capítulo V. De la restauración del daño ambiental.
-
-#### Artículo 53. Restauración del daño causado.
-
-El deber de reparar el daño causado se llevará a cabo en los términos que se establecen en el artículo 37.2 de la Ley 4/1989, de 27 de marzo, de Conservación de los Espacios Naturales y de la Flora y Fauna Silvestres.
-
-Página núm.
-
-**15.118** Sevilla, 25 de noviembre 1999
-
-#### Artículo 54. Multas coercitivas y ejecución subsidiaria De conformidad con lo establecido en el Capítulo V del.
-
-## Título VI. de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, la Administración ambiental podrá imponer, sin perjuicio de las facultades de ejecución subsidiaria, multas coercitivas al responsable con la finalidad de que éste proceda a la reparación del daño. A tal efecto, se establecen las siguientes multas coercitivas, todas ellas con la limitación establecida respecto a la cuantía máxima de 500.000 pesetas, según lo dispuesto en el artículo 39.4 de la Ley 4/1989, de 27 de marzo, de Conservación de los Espacios Naturales y de la Flora y Fauna Silvestres:
-
-1. Para el incumplimiento durante tres meses del inicio de las actuaciones ordenadas, la cuantía será una vez el salario mínimo interprofesional.
-
-2. Para el incumplimiento durante seis meses del inicio de las actuaciones ordenadas, o por transcurso del plazo concedido en el primer requerimiento, la cuantía será tres veces el salario mínimo interprofesional.
-
-3. Para el incumplimiento de los sucesivos plazos a los anteriores para el inicio de las actuaciones ordenadas, la cuantía será un múltiplo de dos veces el salario mínimo interprofesional por cada mes transcurrido.
-
-4. Por incumplimiento del plazo de finalización de las actuaciones ordenadas, la cuantía será un múltiplo de dos veces el salario mínimo interprofesional por cada mes transcurrido.
-
-5. Por no atender los requerimientos posteriores que se realicen por incumplimiento de plazos concedidos para finalizar las actuaciones ordenadas, la cuantía será un múltiplo de tres veces el salario mínimo interprofesional por cada mes transcurrido.
-
-### Capítulo VI. Influencia del tiempo en las infracciones, sanciones y obligaciones de restauración del daño ambiental.
-
-#### Artículo 55. Plazo de resolución.
-
-El plazo máximo para resolver los expedientes sancionadores iniciados al amparo de lo prevenido en esta Ley será de un año computado desde la fecha del acuerdo de iniciación del correspondiente procedimiento, sin perjuicio de lo establecido en el artículo 43.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y de Procedimiento Administrativo Común.
-
-#### Artículo 56. Prescripción de las infracciones y sanciones.
-
-1. Las infracciones a que se refiere la presente Ley prescribirán: Las muy graves en el plazo de cuatro años, las graves en el de dos años y las leves en el de dos meses.
-
-2. Las sanciones a que se refiere la presente Ley prescribirán: Las muy graves en el plazo de tres años, las graves en el de dos años y las leves en el de un año.
-
-3. El plazo para la prescripción de las infracciones se computará desde el día en que se haya cometido; cuando se trate de infracción continuada, desde el día en que se realizó la última infracción; en caso de tratarse de infracción permanente, desde que se eliminó la situación ilícita. Interrumpirá la prescripción de la infracción, la iniciación, con conocimiento del interesado, del procedimiento sancionador. Si el expediente sancionador estuviese paralizado durante un tiempo superior a un mes por causa no imputable al inculpado, comenzará a correr de nuevo el cómputo de la totalidad del plazo prescriptivo de la correspondiente infracción.
-
-4. El plazo de prescripción de las sanciones comenzará a contarse desde el día siguiente a aquél en que adquiera firmeza la resolución por la que se impone la sanción. Interrumpirá la prescripción la iniciación, con conocimiento del interesado, del procedimiento de ejecución, volviendo a transcurrir el plazo si aquél está paralizado durante más de un mes por causa no imputable al infractor.
-
-5. Las obligaciones de restauración que hayan sido declaradas mediante resolución firme prescribirán, conforme a los plazos siguientes:
-a) A los diez años las derivadas de infracciones muy graves.
-b) A los cinco años las correspondientes a daños por la comisión de infracciones graves.
-c) A los dos años las relativas a infracciones leves.
-
-### Disposiciones transitorias
-
-#### Primera. Organos de gestión y de participación.
-
-Hasta el momento de la constitución y efectivo funcionamiento del Equipo de Gestión del Espacio Natural Doñana y del Consejo de Participación, las funciones de gestión y de participación del Parque Nacional y del Parque Natural continuarán siendo desempeñadas por los órganos que las tuvieran a su cargo.
-
-#### Segunda. Plan de Desarrollo Sostenible del Entorno de Doñana y Planes de Ordenación y de Uso.
-
-1. La coordinación, el seguimiento y la evaluación del conjunto de acciones incluidas en el Plan de Desarrollo Sostenible del Entorno de Doñana continuarán siendo desempeñadas, conforme a lo establecido en el Decreto 478/1996, de 22 de octubre, hasta el desarrollo reglamentario de lo dispuesto en el Capítulo IV del Título III de la presente Ley.
-
-2. En tanto no sean aprobados por el Consejo de Gobierno de la Junta de Andalucía los Planes de Ordenación de los Recursos Naturales y de Uso y Gestión del Espacio Natural Doñana, serán de aplicación en sus ámbitos territoriales respectivos el Plan de Ordenación de los Recursos Naturales y el Plan Rector de Uso y Gestión del Parque Natural Doñana, aprobados por Decreto 2/1997, de 7 de enero, y el Plan Rector de Uso y Gestión del Parque Nacional aprobado por Real Decreto 1772/1991, de 16 de diciembre de 1991, y prorrogado por Orden de 29 de febrero de 1996 del Ministerio de Agricultura, Pesca y Alimentación.
-
-#### Disposición derogatoria . Quedan derogados: El Anexo 10 del Decreto 239/1997,.
-
-de 15 de octubre, por el que se regula la constitución, composición y funciones de las Juntas Rectoras; el Anexo II y el Anexo III del Decreto 2/1997, de 7 de enero, por los que se modifican la denominación y límites del Parque Natural del Entorno de Doñana, que pasa a denominarse Parque Natural de Doñana, y aprueban el Plan de Ordenación de los Recursos y el Plan Rector de Uso y Gestión, y el Decreto 478/1996, de 22 de octubre, de coordinación, seguimiento y evaluación del Plan de Desarrollo Sostenible del Entorno de Doñana, así como cuantas disposiciones de igual o inferior rango se opongan o contradigan lo establecido en la presente Ley. La vigencia de la presente disposición queda condicionada a la efectiva constitución y funcionamiento del órgano de participación y a la aprobación de los instrumentos de planificación que se establecen en la presente Ley para el Espacio Natural Doñana.
-
-#### Disposición final . ... Se autoriza al Consejo de Gobierno para dictar las disposiciones que resulten necesarias para la ejecución y desarrollo de esta Ley.
-
-Sevilla, 27 de octubre de 1999 MANUEL CHAVES GONZALEZ Presidente de la Junta de Andalucía
-
-Sevilla, 25 de noviembre 1999 Página núm. 15.119
-
-## Anexo L. ímites del Espacio Natural Doñana Sector 1.º Tomando como punto de partida el punto kilométrico 34,400 de la carretera Almonte-Torre de la Higuera, continúa en línea recta hasta la laguna del Arrecife, y desde la misma, en línea recta, en dirección norte, hasta su encuentro con el puente de la Canariega, en la margen derecha del arroyo de la Rocina, continúa 460 metros en dirección sur por la carretera Almonte-Torre de la Higuera para, a partir de aquí, remontar aguas arriba el arroyo de la Rocina, en paralelo a su cauce y a 500 metros del mismo, hasta la casa del Rincón, desde la que inicia el descenso del mencionado arroyo, en paralelo a su cauce y a 500 metros del mismo, hasta intersectar de nuevo con la carretera Almonte-Torre de la Higuera, para seguir en dirección este por la margen izquierda hasta la confluencia con el caño de los Garzos-arroyo del Partido, siguiendo por la margen derecha de este último, en dirección norte, hasta el puente del Ajonjolí. Continúa en dirección norte por el límite municipal entre Almonte e Hinojos hasta su enlace con el regajo de Vallehondo. Desde el punto anterior sigue en dirección este por la senda que conduce a las casas de la Calera y desde aquí con rumbo norte a la carretera de Hinojos, la cual abandona al enlazar con el arroyo de La Mayor. Sigue dicho arroyo aguas abajo hasta el pozo de Melo, para continuar posteriormente por la senda en dirección este hacia el límite provincial entre Sevilla y Huelva, por el cual avanza hasta intersectar con la carretera Hinojos-Villamanrique de la Condesa, por la cual continúa en dirección sur hasta 100 metros antes de su intersección con el arroyo de Pilas, sube aguas arriba paralelo al cauce de dicho arroyo hasta llegar al límite del término municipal de Chucena, en este punto cruza perpendicularmente el cauce del arroyo de Pilas hasta 100 metros de la margen derecha. Desde aquí continúa aguas abajo paralelo al cauce hasta intersectar de nuevo con la carretera Hinojos-Villamanrique de la Condesa. Continúa por dicha carretera hacia el último municipio mencionado, para seguir posteriormente por la misma en dirección suroeste hasta el límite provincial entre Sevilla y Huelva, por el que continúa en dirección sur hasta intersectar con el límite norte del monte público La Juncosilla. Continúa en dirección este bordeando dicho monte público, hasta encontrar de nuevo el límite provincial. Sigue en dirección sur hasta intersectar con el límite municipal entre Villamanrique de la Condesa y Aznalcázar. Desde aquí toma dirección noreste hasta intersectar con el camino del Bujeo, por el cual continúa en dirección sureste hasta su cruce con el camino de la Cigüeña y por éste, en dirección noreste, hasta enlazar con el camino más oriental de la finca Hato Ratón. Continúa por este camino en dirección sureste hasta su intersección con el encauzamiento del caño Guadiamar, siguiendo por la margen izquierda del mismo hasta llegar al muro de la Confederación. Continúa por dicho muro en dirección este hasta llegar al predio propiedad de ADENA, continuando por la linde del mismo hasta intersectar con el muro derecho de Entremuros, por el cual continúa en dirección norte hasta intersectar con el camino que conduce a la casa del Cerrado, continuando por la margen izquierda del caño de Juncal en dirección sureste, hasta el muro de la margen izquierda del nuevo encauzamiento del Brazo de la Torre. Sigue en dirección sur por el muro izquierdo hasta la salida del Brazo de la Torre de su encauzamiento de Entremuros. Continúa por la margen izquierda del cauce del Brazo de la Torre hasta encontrar el colector de la Veta de la Palma (Bomba del Italiano). Desde este colector, en línea recta, va hasta el cortijo de Veta de la Palma y desde aquí, en línea recta, hasta la caseta de bombeo situada en el camino sur de la finca Reina Victoria, a partir de la cual sigue por la margen derecha del río Guadalquivir hasta la Punta de Malandar, a la altura de la casa cuartel de la Guardia Civil. Desde la casa cuartel continúa en dirección sur hasta alcanzar el límite interprovincial de Cádiz y Huelva, por el que avanza hasta situarse a una distancia de una milla marina de la línea de costa, extendiéndose, a partir de aquí, en paralelo a la misma, hasta intersectar con la línea imaginaria que, perpendicular a la línea de costa, pasa por el punto situado a 4.100 metros de la torre vigía, en ruinas, denominada Torre de la Higuera. Continúa por la mencionada línea imaginaria hacia la costa hasta la cerca de la Estación Biológica de Doñana, por la que sigue en dirección noroeste hasta confluir con la carretera Almonte-Torre la Higuera, frente al punto kilométrico 39,000. A partir del punto anterior continúa por la carretera Torre la Higuera-Mazagón hasta el punto kilométrico 45,100 de la misma, desde el que continúa en dirección sur por el límite occidental del Parque Dunar de Matalascañas hasta la línea de costa. Desde este punto en dirección oeste continúa hasta encontrar el límite municipal entre Lucena y Almonte. Desde aquí pasa a la margen derecha del arroyo del Loro y desde este punto asciende por el cauce hasta la carretera Torre la Higuera-Mazagón en el punto kilométrico 29,000, dirigiéndose por la margen izquierda de la misma hasta el punto kilométrico 22,055. Desde el punto anterior asciende por la pista de la Linde hasta el caserío de Pino Galés. Desde el mencionado caserío continúa en dirección noreste por el camino de la Portuguesa, hasta encontrar el carril del Sevillano. Continúa por dicho carril en dirección sur hasta la casa forestal del Coto Tres Rayas, desde donde sigue en dirección este y línea recta hasta el poblado de La Mediana en su extremo sur. Desde este punto continúa en línea recta hasta el cortijo San Vicente y desde aquí hasta la línea del Alamillo. Por último, en paralelo a la carretera Almonte-Torre la Higuera, continúa hasta el punto distante 1.000 m en perpendicular del punto kilométrico 34,400 de aquélla, desde el que continúa en línea recta hasta alcanzar el mencionado punto kilométrico 34,400, punto de partida. Sector 2.º Partiendo desde la Punta de los Cepillos, en la margen izquierda del río Guadalquivir, continúa hasta la desembocadura del caño de Martín Ruiz. Desde el punto anterior sigue en dirección sureste por el citado caño hasta la ermita de Nuestra Señora del Carmen, y desde aquí en dirección sur por el camino de separación del Pinar de la Algaida y las marismas transformadas hasta el límite de la finca denominada de los Prados. Continúa bordeando el Pinar de la Algaida por el límite sur, dirección oeste, hasta llegar a la laguna del Tarelo, la bordea por su orilla sur, incluyéndola, y continúa hasta encontrar el borde del Pinar de la Algaida, hasta su contacto con el camino vecinal que transcurre al este de la Marisma de Henares y Salinas de Nuestra Señora del Rocío y Marismas de la Dehesilla, siguiendo este camino en dirección sur hasta su cruce por la carretera que desde el Faro va a la colonia de la Algaida, y desde aquí en línea recta en dirección oeste hasta la margen izquierda del río Guadalquivir. Continúa por dicha margen hasta el punto inicial».
-
-Página núm.
-
-**15.120** Sevilla, 25 de noviembre 1999
-
-Sevilla, 25 de noviembre 1999 Página núm.
-
-**15.121** CONSEJERIA DE GOBERNACION Y JUSTICIA ORDEN de 4 de noviembre de 1999, por la que se adoptan medidas para reparar daños causados por inundaciones en los municipios de la provincia de Sevilla que se citan. El Real Decreto-Ley 2/1998, de 17 de abril, sobre medidas urgentes para reparar los daños causados por las inundaciones y temporales acaecidos entre noviembre de 1997 y febrero de 1998 (BOE núm. 93, de 18 de abril de 1998), estableció acciones tendentes a reparar los desperfectos ocasionados en producciones, infraestructuras y servicios públicos y privados, viviendas, industrias y comercios durante las fechas indicadas, tanto en la Comunidad Autónoma de Andalucía como en el resto del territorio nacional. Tales medidas comprendían, básicamente, la disminución de las cargas tributarias y la concesión de créditos privilegiados y de ayudas a los Ayuntamientos y particulares. Asimismo, en la referida norma se establecen precisiones para lograr que la aplicación de las medidas adoptadas se lleve a cabo mediante la debida coordinación de actuaciones entre los órganos de la Administración General del Estado, de las Comunidades Autónomas y de las Administraciones Locales afectadas, todo ello sin perjuicio de las competencias que corresponden a la Comunidad Autónoma de Andalucía, en particular, al amparo de su Estatuto de Autonomía. Dando cumplimiento a dicho compromiso, y en uso de las atribuciones que me confiere el art. 104 de la Ley 5/1983, de 19 de julio, General de la Hacienda Pública de la Comunidad Autónoma de Andalucía, así como el artículo 44.4 de la Ley 6/1983, de 21 de julio, del Gobierno y la Administración de la Comunidad Autónoma de Andalucía, D I S P O N G O artículo 1 Objeto. La presente Orden tiene por objeto destinar a los Ayuntamientos de la provincia de Sevilla que se citan en el Anexo la cantidad de sesenta millones quinientas setenta y una mil seiscientas cuarenta y siete pesetas (60.571.647 ptas.), por los importes que en el mismo figuran para cada uno de ellos y con destino a financiar las obras de reparación en pavimento de calles, espacios públicos, redes de agua y saneamiento y alumbrado, acaecidos con ocasión de las inundaciones y temporales a que se refiere el Real Decreto-Ley 2/1998, de 17 de abril.
-
-#### Artículo 2. Carácter de las subvenciones.
-
-En virtud de lo dispuesto en el párrafo tercero del artículo 107 de la Ley 5/1983, de 19 de julio, General de la Hacienda Pública de la Comunidad Autónoma de Andalucía, se declara el carácter excepcional de dichas subvenciones, quedando acreditada su finalidad pública e interés social.
-
-#### Artículo 3. Financiación y forma de pago.
-
-Las subvenciones se financiarán con cargo a los créditos c o n s i g n a d o s e n l a a p l i c a c i ó n p r e s u p u e s t a r i a 01.10.00.01.00.765.00.81A («Para Servicios y Obras») del presupuesto de la Consejería de Gobernación y Justicia y se harán efectivas sin justificación previa y mediante un solo pago por el importe total, conforme a lo dispuesto en el apartado 9 del artículo 18 de la Ley 10/1998, de 28 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para 1999, por tratarse de programas relacionados con Fondos de Emergencia.
-
-#### Artículo 4. Delegación de competencias.
-
-Se delega en el Delegado del Gobierno de la Junta de Andalucía en Sevilla la facultad de otorgar las subvenciones citadas al amparo de la presente Orden, mediante la correspondiente Resolución, en la que se hará constar esta circunstancia.
-
-#### Disposición final única. Eficacia.
-
----
-
-## Relaciones Normativas y Fundamentos de Derecho
-
-### Estructura y Concordancias Granulares
-- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-- **Modifica**: `norm-es-c-1978` desde *(Título V, Capítulo VI. Influencia del tiempo en las infracciones, sanciones y obligaciones de restauración del daño ambiental., D. Derogatoria . Quedan derogados: El Anexo 10 del Decreto 239/1997,.)*
-- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
-- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
-- **En concordancia con**: `norm-es-c-1978` (Título I, Art. 13)
-- **Cita a**: `norm-es-c-1978`
-- **Cita a**: `norm-es-c-1978` desde *(Título V, Capítulo VI. Influencia del tiempo en las infracciones, sanciones y obligaciones de restauración del daño ambiental., Art. 56)*
+LEY 9/1999, de 18 de noviembre, de Solidaridad
+en la Educación.
+EL PRESIDENTE DE LA JUNTA DE ANDALUCIA A TODOS
+LOS QUE LA PRESENTE VIEREN, SABED:
+Que el Parlamento de Andalucía ha aprobado y yo, en
+nombre del Rey y por la autoridad que me confieren la Cons-
+titución y el Estatuto de Autonomía, promulgo y ordeno la
+publicación de la siguiente
+«LEY DE SOLIDARIDAD EN LA EDUCACION
+P R E A M B U L O
+En el proceso de desarrollo y avance de la sociedad, la
+educación se configura como un importante instrumento para
+impulsar la lucha contra las desigualdades, correspondiéndole
+al sistema educativo establecer los mecanismos que contri-
+buyan a prevenirlas y compensarlas, cualquiera que sea el
+motivo que las origine, y promover la transformación social
+a través de su compromiso solidario con las situaciones de
+desventaja en las que se encuentran colectivos y grupos que
+reciben los beneficios del sistema.
+La Constitución española, en el artículo 27, reconoce a
+todos los españoles el derecho a la educación y, en su artícu-
+lo 9.2, encomienda a los poderes públicos que promuevan
+las condiciones y remuevan los obstáculos para que este dere-
+cho sea disfrutado en condiciones de igualdad por todos los
+ciudadanos. Igualmente, en el artículo 49, compromete a los
+poderes públicos a realizar una política de previsión, trata-
+miento, rehabilitación e integración de los disminuidos físicos,
+sensoriales y psíquicos, a los que prestarán la atención espe-
+cializada que requieran y los ampararán especialmente para
+el disfrute de los derechos que la Constitución otorga a todos
+los ciudadanos.
+Asimismo, el Estatuto de Autonomía para Andalucía, en
+su artículo 12.1, establece que la Comunidad Autónoma de
+Andalucía promoverá las condiciones para que la libertad y
+la igualdad del individuo y de los grupos en que se integra
+sean reales y efectivas; removerá los obstáculos que impidan
+o dificulten su plenitud, y facilitará la participación de todos
+los andaluces en la vida política, económica, cultural y social.
+Uno de los objetivos básicos con los que la Comunidad
+Autónoma debe ejercer sus poderes, según lo dispuesto en
+el artículo 12.3.2.º de su Estatuto de Autonomía, es el acceso
+de todos los andaluces a los niveles educativos y culturales
+que les permitan su realización personal y social.
+En cuanto a los títulos competenciales que inciden en
+esta materia, los artículos 19.1, 13.3 y 13.22 del Estatuto
+de Autonomía atribuyen a la Comunidad Autónoma la regu-
+lación y administración de la enseñanza en toda su extensión,
+niveles y grados, modalidades y especialidades, sin perjuicio
+de lo dispuesto en el artículo 27 de la Constitución y las leyes
+orgánicas que lo desarrollan, así como las competencias en
+materia de régimen local y asistencia y servicios sociales.
+Posteriormente, la Ley Orgánica 8/1985, de 3 de julio,
+reguladora del Derecho a la Educación, ratifica, en su artículo
+primero, el derecho de todos los españoles a una educación
+básica que les permita el desarrollo de su propia personalidad
+y la realización de una actividad útil a la sociedad, y reconoce,
+en su artículo sexto, el derecho del alumnado a recibir las
+ayudas precisas para compensar posibles carencias de tipo
+familiar, económico y sociocultural.
+En el ejercicio de sus competencias, el Gobierno de la
+Comunidad Autónoma ha impulsado un conjunto de progra-
+mas dirigidos a la compensación de las situaciones de des-
+ventaja derivadas de factores sociales, culturales, geográficos
+o de pertenencia a minorías étnicas. Tales actuaciones han
+sido el instrumento solidario que el sistema educativo ha puesto
+al servicio de la construcción de una sociedad más justa.
+La Ley Orgánica 1/1990, de 3 de octubre, de Ordenación
+General del Sistema Educativo, ha consolidado las actuaciones
+compensatorias, atribuyendo a la educación un papel esencial
+en el desarrollo de los individuos y de la sociedad en la medida
+en que permite avanzar en la lucha contra la discriminación
+y la desigualdad. Por otro lado, la citada Ley ha introducido
+cambios de tal magnitud y extensión en la organización de
+las enseñanzas que en sí mismos han de actuar como meca-
+nismos de prevención y de compensación social y educativa,
+como son la ampliación de la escolaridad obligatoria, la dis-
+minución del número de alumnos por aula y las medidas de
+atención a la diversidad, entre otros.
+Por la Ley Orgánica 9/1995, de 20 de noviembre, de
+la Participación, la Evaluación y el Gobierno de los Centros
+Docentes, disposición adicional segunda, se define al alum-
+nado con necesidades educativas especiales como aquél que
+requiere, en un período de su escolarización o a lo largo de
+toda ella, determinados apoyos y atenciones educativas espe-
+cíficas por padecer discapacidades físicas, psíquicas o sen-
+soriales, por manifestar trastornos graves de conducta o por
+estar en situaciones sociales o culturales desfavorecidas. En
+la misma disposición se establece que las Administraciones
+educativas garantizarán la escolarización del alumnado con
+necesidades educativas especiales en los Centros docentes
+sostenidos con fondos públicos, manteniendo, en todo caso,
+una distribución equilibrada, considerando su número y sus
+especiales circunstancias, de manera que se desarrolle efi-
+cazmente la idea integradora.
+Sin embargo, la acción compensadora del sistema edu-
+cativo requiere un impulso y renovación para responder a las
+situaciones sociales cambiantes y a las características del sec-
+tor de la población escolar que presenta necesidades edu-
+cativas especiales y que, por tal motivo, requiere, en un período
+de su escolarización o a lo largo de toda ella, determinados
+apoyos y actuaciones específicas, por padecer discapacidades
+físicas, psíquicas o sensoriales o por estar en situaciones socia-
+les o culturales desfavorecidas o con necesidades educativas
+especiales asociadas a condiciones personales de sobredo-
+tación intelectual.
+Con la Ley de Solidaridad en la Educación, la Junta de
+Andalucía renueva y consolida su compromiso con la igualdad
+de oportunidades, la universalización del derecho a la edu-
+cación y la integración social de los sectores de población
+desfavorecidos, haciéndolo efectivo a través de la promoción
+de políticas públicas que conduzcan a la consecución del Esta-
+do del Bienestar.
+Para ello, la presente Ley establece los objetivos que se
+pretenden alcanzar con la aplicación del principio de la soli-
+daridad en la educación. Estos objetivos van encaminados
+a mejorar y complementar las condiciones de escolarización
+del alumnado que presenta necesidades educativas especiales,
+a potenciar la asunción de valores inherentes en la intercul-
+turalidad que permitan desarrollar en la comunidad educativa
+actitudes de respeto y tolerancia hacia los grupos minoritarios.
+Como medida estratégica se pretende impulsar la coordinación
+de las distintas Administraciones y la colaboración de ins-
+tituciones, asociaciones y organizaciones no gubernamentales
+
+en el desarrollo de programas y acciones de compensación
+educativa y social según el espíritu que caracteriza a las orga-
+nizaciones de acción voluntaria.
+En este sentido, la población escolar, que presenta dife-
+rentes capacidades de tipo físico, psíquico o sensorial, tiene
+necesidades educativas muy distintas entre sí. Ello requiere
+respuestas educativas también diferenciadas. El programa de
+integración escolar permitió avances notables en la mejora
+de la educación de este alumnado; no obstante, es necesario
+corregir algunos desajustes y seguir mejorando la atención
+educativa, desde los principios de normalización e integración
+escolar, para que este alumnado desarrolle el máximo posible
+de sus capacidades y pueda beneficiarse de todo lo que el
+sistema educativo es capaz de ofrecerle, disponiendo de las
+medidas de individualización de la enseñanza y accesibilidad
+al currículo que cada caso y situación requiera, así como de
+las medidas específicas de eliminación de barreras arquitec-
+tónicas y el empleo de medios y sistemas alternativos para
+la comunicación.
+Por otro lado, existe en la Comunidad Autónoma de Anda-
+lucía un colectivo de niños y niñas en situación de riesgo
+por pertenecer a familias económicamente desfavorecidas, que
+generalmente residen en determinadas zonas urbanas o barrios
+con especial problemática de índole sociocultural. Esta situa-
+ción dificulta su permanencia en las instituciones escolares
+y, en algunos casos, desemboca en abandono y fracaso esco-
+lar. Por ello, han de establecerse los mecanismos destinados
+a mejorar las condiciones de acceso, permanencia y promoción
+en el sistema educativo de este alumnado.
+También merece especial atención la población del medio
+rural, cuyas formas de vida, economía, modos de relación,
+comunicaciones, usos y costumbres son distintos a los propios
+del medio urbano. Además existen diferencias significativas
+entre unos entornos rurales y otros. Desde estas considera-
+ciones, es de singular importancia la atención educativa de
+los niños y niñas de Educación Infantil que no pueden asistir
+a un Centro educativo por encontrarse en situación de dis-
+persión o aislamiento. Igualmente, es necesario promover pro-
+yectos que presenten experiencias enriquecedoras para el
+alumnado, en cuanto a la socialización y conocimientos de
+otros entornos.
+Asimismo, existe en Andalucía un importante número de
+trabajadores que se desplazan desde sus lugares de origen
+a otras localidades, dentro o fuera de la Comunidad, para
+realizar tareas agrícolas de carácter temporal. Tal situación
+conlleva, en numerosas ocasiones, el cambio frecuente de
+Centro del alumnado perteneciente a estas familias, lo que
+altera el normal desarrollo de su proceso educativo. Igual-
+mente, hay un número importante de alumnado, procedente
+de familias de feriantes o dedicadas a la venta ambulante,
+que por sus condiciones de itinerancia precisa medidas de
+apoyo para su escolarización.
+Por otra parte, en Andalucía, además de la convivencia
+ancestral con la cultura de la comunidad gitana, cada vez
+en mayor medida, se va haciendo patente la presencia de
+alumnado perteneciente a otras culturas. Esta fuente de diver-
+sidad y pluralidad cultural ha de atenderse impulsando y pro-
+moviendo mecanismos y estrategias concretas que potencien
+en los Centros educativos el valor de la interculturalidad y
+que desarrollen en la comunidad educativa actitudes de respeto
+y comunicación para la cultura de los grupos minoritarios.
+Es igualmente necesario que la Consejería de Educación
+y Ciencia garantice la continuidad del proceso educativo a
+aquel alumnado que por decisiones judiciales o razones de
+enfermedad no puede seguir el proceso normalizado de esco-
+larización en los Centros escolares.
+Por todo ello, la presente Ley de Solidaridad en la Edu-
+cación viene a consolidar y reforzar las actuaciones de com-
+pensación iniciadas desde hace más de una década y pone
+en marcha otras nuevas para dar respuesta a las necesidades
+y situaciones actuales. En este sentido, la presente Ley ha
+de ser el punto de confluencia de todos los esfuerzos que
+se lleven a cabo en la Comunidad Autónoma Andaluza en
+pro del ejercicio de la solidaridad y de la erradicación de situa-
+ciones que impidan que todos y cada uno de los andaluces
+consigan desarrollar el máximo de sus capacidades personales.
+
+## TITULO I
+
+DISPOSICIONES GENERALES
+CAPITULO UNICO
+
+### Artículo 1. Objeto de la Ley y principios de actuación.
+
+1. La presente Ley tiene por objeto garantizar la solidaridad
+en la educación, regulando el conjunto de actuaciones que
+permitan que el sistema educativo contribuya a compensar
+las desigualdades, asegurando la igualdad de oportunidades
+al alumnado con necesidades educativas especiales.
+2. La educación de este alumnado tenderá a alcanzar
+dentro del sistema educativo los objetivos establecidos con
+carácter general para el resto del alumnado y se regirá por
+los principios de normalización y de integración escolar.
+
+### Artículo 2. Objetivos.
+
+Son objetivos de la presente Ley:
+1. Mejorar las condiciones de escolarización del alumnado
+que presente necesidades educativas especiales, mediante
+aquellas acciones, medidas, planes y programas que garan-
+ticen su acceso, permanencia y promoción en el sistema
+educativo.
+2. Potenciar el valor de la interculturalidad, integrando
+en el hecho educativo la riqueza que supone el conocimiento
+y respeto por la cultura propia de los grupos minoritarios.
+3. Desarrollar actitudes de comunicación y respeto entre
+todos los miembros de la comunidad educativa, independien-
+temente de sus capacidades personales y de su situación social
+o cultural.
+4. Establecer medidas que permitan a la población escolar
+su continuidad, de forma ininterrumpida, en los ciclos edu-
+cativos, con independencia de la permanencia o no en un
+lugar determinado durante períodos prolongados.
+5. Impulsar la coordinación y colaboración de las distintas
+Administraciones, instituciones, asociaciones y organizaciones
+no gubernamentales, para la convergencia y desarrollo de las
+acciones compensadoras y de solidaridad establecidas en esta
+Ley.
+
+### Artículo 3. Población destinataria.
+
+Las acciones de compensación educativa contempladas
+en la presente Ley se dirigen al alumnado de las enseñanzas
+no universitarias que se encuentre en las siguientes situa-
+ciones:
+1. Con necesidades educativas especiales debidas a los
+diferentes grados y tipos de capacidades personales de orden
+físico, psíquico, cognitivo o sensorial.
+2. Que se encuentre en situación de desventaja socio-
+cultural.
+3. Que por pertenecer a minorías étnicas o culturales se
+encuentre en situación desfavorable.
+4. Que por razones sociales o familiares no pueda seguir
+un proceso normalizado de escolarización.
+5. Que por decisiones judiciales o razones de salud nece-
+site atención educativa fuera de las instituciones escolares.
+6. Que por cualquier otra circunstancia se encuentre en
+situación desfavorable similar.
+
+
+## TITULO II
+
+PROGRAMAS Y ACTUACIONES DE COMPENSACION
+EDUCATIVA Y SOCIAL
+
+## CAPITULO I
+
+Programas y actuaciones de carácter general
+
+### Artículo 4. Programas de compensación educativa y
+
+social.
+La Consejería de Educación y Ciencia, para conseguir
+los objetivos previstos en esta Ley, garantizará el desarrollo
+de los siguientes programas de compensación educativa y
+social:
+1. De compensación educativa, de carácter permanente
+o temporal, en los Centros que escolaricen alumnado pro-
+cedente de sectores sociales o culturales desfavorecidos, dotán-
+dolos de los recursos humanos y materiales que propicien
+la eficacia de los mismos en los términos que reglamenta-
+riamente se determinen.
+2. De seguimiento escolar de lucha contra el absentismo
+para garantizar la continuidad del proceso educativo, con espe-
+cial atención a la transición entre las distintas etapas, ciclos
+y niveles educativos.
+3. De colaboración y apoyo familiar para la identificación
+de las necesidades educativas especiales, la prevención y la
+atención educativa y compensadora.
+4. De garantía social vinculados a la demanda laboral
+del entorno, dirigidos a la promoción educativa y la inserción
+laboral de los jóvenes que se encuentren en situaciones de
+desventaja.
+5. De fomento de la investigación y renovación pedagógica
+para mejorar la atención educativa del alumnado con nece-
+sidades educativas especiales.
+6. Específicos para la formación del profesorado, de los
+equipos directivos de los Centros docentes y de los servicios
+de orientación.
+7. Para la elaboración de materiales curriculares y de
+apoyo que faciliten la intervención del profesorado y de los
+Centros docentes en la formación del alumnado con nece-
+sidades educativas especiales, favoreciendo la incorporación
+de las nuevas tecnologías.
+8. De erradicación del analfabetismo de aquellas personas
+adultas en situación o riesgo de exclusión social.
+
+### Artículo 5. Actuaciones de compensación educativa.
+
+La Consejería de Educación y Ciencia, para conseguir
+los objetivos previstos en esta Ley, llevará a cabo las siguientes
+actuaciones de compensación de las desigualdades:
+1. Escolarización del alumnado con necesidades educa-
+tivas especiales, temporales o permanentes, con una distri-
+bución equilibrada entre los Centros sostenidos con fondos
+públicos, en condiciones que favorezcan su adecuada atención
+educativa y su integración social favoreciendo, asimismo,
+medidas organizativas flexibles y disminución del ratio en fun-
+ción de las características del alumnado y de los Centros.
+2. Adopción de medidas para garantizar que los Centros
+que escolaricen alumnado con necesidades educativas espe-
+ciales apliquen, además de las medidas curriculares estable-
+cidas en la Ley Orgánica 1/1990, de 3 de octubre, de Orde-
+nación General del Sistema Educativo, programas y acciones
+de compensación educativa en sus respectivos proyectos de
+Centro, que aseguren la continuidad del proceso educativo
+a lo largo de toda la escolaridad.
+3. Medidas específicas que faciliten los servicios com-
+plementarios de transporte, comedor y, en su caso, residencia
+cuando sea necesario para su adecuada escolarización.
+4. En el marco de lo previsto en la normativa que resulte
+de aplicación, se realizarán las actuaciones precisas para que
+en los concursos de traslados se prime al profesorado que
+preste servicio en los Centros docentes que escolaricen un
+número significativo de alumnos con necesidades educativas
+especiales.
+5. Atención específica y preferente de los servicios de
+orientación y formación al profesorado que atienda al alumnado
+con necesidades educativas especiales.
+6. Participación en programas de cooperación con otras
+Administraciones Públicas y de la Unión Europea y de cualquier
+otro país del que procedan los inmigrantes y residentes dirigidas
+a la compensación de desigualdades en colectivos específicos.
+
+## CAPITULO II
+
+Población escolar con necesidades educativas especiales
+asociadas a sus capacidades personales
+
+## Sección 1.ª Atención temprana del alumnado con necesidades
+
+educativas especiales asociadas a sus capacidades personales
+
+### Artículo 6. Atención temprana.
+
+La Administración de la Junta de Andalucía asegurará
+la atención temprana de los niños y niñas que presenten signos
+o riesgo de discapacidad, así como la de aquellos que pre-
+senten sobredotación de sus capacidades personales.
+
+## Sección 2.ª Del alumnado con discapacidad
+
+
+### Artículo 7. Escolarización.
+
+Para garantizar la adecuada escolarización del alumnado
+que presente signos o riesgos de discapacidad se adoptarán
+las siguientes medidas:
+1. Identificación del alumnado que requiera apoyos o
+medios complementarios y la consiguiente propuesta de esco-
+larización adecuada por parte de los servicios especializados
+de la Consejería de Educación y Ciencia, en función de las
+necesidades detectadas y las capacidades personales.
+2. Revisión periódica, en la forma que reglamentariamente
+se determine, del proceso de escolarización de este alumnado.
+En cualquier caso, se garantizará el carácter revisable y rever-
+sible de la modalidad de escolarización adoptada.
+3. Establecimiento de los cauces necesarios para la par-
+ticipación de los padres y madres o tutores en el proceso de
+decisión respecto a la modalidad de escolarización adoptada.
+
+### Artículo 8. Modalidades de escolarización.
+
+1. El alumnado con discapacidades psíquicas, físicas o
+sensoriales se escolarizará preferentemente en los Centros edu-
+cativos ordinarios ubicados en el entorno del alumno de acuer-
+do con la planificación educativa y garantizando el mayor grado
+de integración posible y de consecución de los objetivos esta-
+blecidos con carácter general para los diversos niveles, etapas
+y ciclos del sistema educativo.
+2. La escolarización en Centros ordinarios se llevará a
+cabo en régimen de integración en aulas ordinarias o en aulas
+específicas de educación especial, en función siempre del gra-
+do y tipo de discapacidad. Cuando la escolarización se realice
+en aulas específicas, se adoptarán las medidas necesarias para
+garantizar la existencia de espacios y tiempos compartidos
+con el resto de la comunidad escolar de forma que se facilite
+el proceso de integración.
+
+3. La escolarización del alumnado con discapacidad sólo
+se realizará en centros específicos de educación especial cuan-
+do, por sus especiales características o grado de discapacidad,
+sus necesidades educativas no puedan ser satisfechas en régi-
+men de integración.
+
+### Artículo 9. Ordenación de las enseñanzas para el alum-
+
+nado escolarizado en aulas y Centros específicos.
+1. En los Centros y aulas específicos se realizará una
+reordenación global del currículo que comprenderá un período
+de formación básica con carácter obligatorio, con una duración
+mínima de diez años y un período de formación para la tran-
+sición a la vida adulta y laboral con una duración mínima
+de dos años. En cualquier caso, el límite de edad de esco-
+larización en un centro o aula de educación especial se esta-
+blece en los veinte años.
+2. El currículo del período de formación básica tomará
+como referente las capacidades establecidas en los objetivos
+del currículo de Educación Infantil y Educación Primaria
+pudiendo dar cabida a capacidades de la Educación Secun-
+daria Obligatoria, de acuerdo con las posibilidades del alum-
+nado.
+3. Aquel alumnado que al término del período de for-
+mación básica obligatoria haya alcanzado globalmente las
+capacidades establecidas en los objetivos de la etapa de edu-
+cación secundaria obligatoria será propuesto para la obtención
+del título de Graduado en Educación Secundaria.
+4. Los programas de formación para la transición a la
+vida adulta y laboral están encaminados a facilitar el desarrollo
+de la autonomía personal y la integración social del alumnado.
+Asimismo, tendrán un marcado carácter de cualificación pro-
+fesional, que facilite la integración laboral, cuando las posi-
+bilidades del alumno o alumna así lo aconsejen.
+
+### Artículo 10. Enseñanza no obligatoria.
+
+Para facilitar la continuidad de la formación del alumnado
+que haya obtenido el título de Graduado en Educación Secun-
+daria, la Consejería de Educación y Ciencia adoptará las medi-
+das oportunas para el desarrollo de acciones de apoyo que
+favorezcan su escolarización en las etapas educativas no
+obligatorias.
+
+### Artículo 11. Otras medidas de compensación socioe-
+
+ducativa.
+1. La Administración educativa garantizará que los Centros
+docentes de Andalucía donde se escolaricen alumnos y alum-
+nas con necesidades educativas especiales asociadas a una
+discapacidad que les impida el estudio y la comunicación de
+forma ordinaria estén dotados de todos los sistemas alternativos
+necesarios, así como de los profesionales adecuados para ello.
+2. Dentro del sistema educativo se atenderán las nece-
+sidades educativas derivadas de minusvalías físicas, psíquicas
+y sensoriales que el desarrollo del proceso de enseñanza-a-
+prendizaje requieran.
+3. Aquellos tratamientos de rehabilitación y terapias-fun-
+cionales de carácter asistencial que, a instancias de los corres-
+pondientes servicios sanitarios, necesite este alumnado serán
+atendidos en coordinación con la familia y los Centros
+educativos.
+
+## Sección 3.ª Del alumnado con sobredotación
+
+
+### Artículo 12. Alumnado con sobredotación de capacidades
+
+intelectuales.
+De acuerdo con las condiciones que se determinen regla-
+mentariamente, para aquel alumnado que presente sobredo-
+tación de sus capacidades intelectuales se realizarán las modi-
+ficaciones necesarias en la organización temporal y curricular
+de las enseñanzas.
+
+## CAPITULO III
+
+Población escolar en situación de desventaja
+en el medio urbano
+
+### Artículo 13. Oferta educativa.
+
+En las zonas urbanas con especial problemática socio-
+cultural se dará prioridad a la creación de unidades de Edu-
+cación Infantil, así como a la oferta de programas de garantía
+social.
+
+### Artículo 14. Actuaciones de compensación para el alum-
+
+nado en situación sociocultural desfavorecida.
+1. La Consejería de Educación y Ciencia garantizará que
+los Centros incluyan en sus proyectos medidas de compen-
+sación educativa que posibiliten la integración social, la nor-
+malización educativa y la reducción del desfase escolar.
+2. La Consejería de Educación y Ciencia determinará,
+reglamentariamente, la adecuación del número de alumnos
+y alumnas por aula, así como las organizaciones flexibles de
+grupos de refuerzo y de apoyo educativo.
+3. Los servicios de orientación educativa prestarán una
+atención preferente a los Centros situados en el medio urbano
+cuyo alumnado presente especial problemática sociofamiliar.
+4. El Consejo de Gobierno, a propuesta de la Consejería
+de Educación y Ciencia, determinará las condiciones que
+deban reunir las zonas urbanas para ser consideradas con
+especial problemática sociocultural a los efectos de la apli-
+cación de lo previsto en esta Ley.
+
+## CAPITULO IV
+
+Población escolar en situación de desventaja en el medio rural
+
+### Artículo 15. Oferta educativa.
+
+Los niños y niñas de tres a seis años residentes en zonas
+rurales distantes de los Centros educativos, o en poblaciones
+diseminadas, serán atendidos con programas específicos de
+Educación Infantil.
+
+### Artículo 16. Acciones de compensación del alumnado del
+
+medio rural en situación desfavorecida.
+1. La Consejería de Educación y Ciencia proporcionará
+los servicios complementarios de transporte escolar, comedor
+y, en su caso, residencia, de modo que la dispersión geográfica
+y las dificultades de comunicación no impidan el acceso a
+la Educación Básica Obligatoria.
+2. En zonas rurales caracterizadas por la dispersión o
+el aislamiento se promoverán proyectos de compensación edu-
+cativa que posibiliten un mayor grado de socialización y cono-
+cimiento de otros entornos.
+3. Los servicios de orientación educativa prestarán espe-
+cial atención a los Centros situados en el medio rural.
+4. El Consejo de Gobierno, a propuesta de la Consejería
+de Educación y Ciencia, determinará las condiciones que
+deban reunir las zonas rurales a los efectos de la aplicación
+de lo previsto en esta Ley.
+
+## CAPITULO V
+
+Población escolar perteneciente a minorías étnicas y culturales
+
+### Artículo 17. Escolarización.
+
+Los Centros con alumnado perteneciente a la comunidad
+gitana andaluza, minorías étnicas o culturales o inmigrantes
+incluirán en sus proyectos de Centro medidas que favorezcan
+el desarrollo y respeto de la identidad cultural de este alum-
+nado, que fomenten la convivencia y que faciliten su par-
+ticipación en el entorno social.
+
+
+### Artículo 18. Actuaciones de compensación.
+
+1. La Consejería de Educación y Ciencia favorecerá el
+valor de la interculturalidad, corrigiendo, en el ámbito de sus
+competencias, las actitudes de discriminación o rechazo que
+pudieran producirse en el seno de la comunidad educativa.
+2. La Consejería de Educación y Ciencia fomentará la
+participación de asociaciones de padres y madres, organiza-
+ciones no gubernamentales, voluntariado, así como la de otros
+colectivos sociales sensibilizados por la promoción escolar y
+social de este alumnado, en proyectos y experiencias de com-
+pensación educativa.
+
+## CAPITULO VI
+
+Población escolar procedente de familias dedicadas a tareas
+agrícolas de temporadas y trabajadores itinerantes
+
+### Artículo 19. Escolarización.
+
+1. La Administración de la Comunidad Autónoma adop-
+tará medidas que faciliten que el alumnado cuyas familias
+se dediquen a tareas agrícolas de temporada o a profesiones
+itinerantes permanezca escolarizado en los Centros docentes
+de su localidad de origen para favorecer un proceso educativo
+sin interrupciones.
+2. En aquellos casos en que dicho alumnado se traslade
+con sus familias a las zonas y localidades de trabajo, las Admi-
+nistraciones Públicas andaluzas prestarán los servicios com-
+plementarios que posibiliten su escolarización.
+
+### Artículo 20. Actuaciones compensatorias.
+
+1. La Consejería de Educación y Ciencia apoyará con-
+venientemente a los Centros en que se escolarice alumnado
+de familias temporeras o itinerantes para que incorporen en
+los proyectos de Centro medidas organizativas y curriculares
+acordes con sus características y peculiaridades.
+2. La Consejería de Educación y Ciencia facilitará a aque-
+llos centros receptores de este alumnado, durante los períodos
+propios de trabajo de temporada o de itinerancia, los recursos
+humanos y materiales necesarios para su escolarización en
+condiciones adecuadas.
+
+## CAPITULO VII
+
+Población escolar que por decisiones judiciales o razones
+de enfermedad no pueda asistir al Centro educativo
+
+### Artículo 21. Escolarización.
+
+1. La Consejería de Educación y Ciencia garantizará la
+continuidad del proceso educativo del alumnado de enseñanza
+obligatoria que, por decisiones judiciales o razones de enfer-
+medad, no pueda asistir a Centros docentes ordinarios.
+2. El alumnado que por razones de enfermedad esté hos-
+pitalizado será atendido en aulas hospitalarias en las con-
+diciones que reglamentariamente se determinen, garantizán-
+dose, en todo caso, que cualquier niño o niña hospitalizado
+pueda continuar con su proceso educativo.
+3. El alumnado que por decisiones judiciales no pueda
+asistir a un Centro educativo será atendido en aulas específicas
+en los propios Centros en que esté internado.
+4. Cuando no sea posible garantizar la educación en Cen-
+tros docentes, en aulas hospitalarias o en aulas específicas,
+se garantizará la posibilidad de que este alumnado se matricule
+en la modalidad de educación a distancia en las condiciones
+que reglamentariamente se determinen.
+
+### Artículo 22. Actuaciones de compensación.
+
+1. La Consejería de Educación y Ciencia establecerá las
+medidas y los procedimientos que aseguren la adecuada rela-
+ción entre la aulas hospitalarias y específicas y los Centros
+docentes a que se adscriban.
+2. En la atención educativa y asistencial de este alumnado
+se favorecerá la participación y colaboración social.
+3. Para garantizar la atención educativa del alumnado
+que por prescripción facultativa deba permanecer en sus domi-
+cilios, los Centros en los que estos alumnos estén matriculados
+deberán realizar un plan intensivo de acción tutorial de acuerdo
+con lo que reglamentariamente se establezca.
+
+## TITULO III
+
+DE LA COLABORACIÓN INSTITUCIONAL
+
+### Artículo 23. De la Administración de la Comunidad
+
+Autónoma de Andalucía.
+1. La planificación, desarrollo y evaluación de las actua-
+ciones que en aplicación de la presente Ley impliquen a dis-
+tintas Consejerías se realizará de modo coordinado en toda
+la Comunidad Autónoma.
+2. Reglamentariamente, se establecerá la distribución de
+los servicios, tratamientos y prestaciones que han de desarro-
+llarse en colaboración o específicamente por cada una de las
+Consejerías.
+
+### Artículo 24. De la Administración Local.
+
+Las Administraciones Locales colaborarán con la Admi-
+nistración de la Junta de Andalucía en el desarrollo de los
+programas y actuaciones de compensación educativa contem-
+pladas en esta Ley, específicamente, en los programas de
+seguimiento del absentismo escolar, en las actuaciones diri-
+gidas al alumnado de familias temporeras y en la inserción
+sociolaboral de jóvenes con especiales dificultades de acceso
+al empleo.
+
+### Artículo 25. De la colaboración social.
+
+Para el mejor desarrollo de las acciones contempladas
+en esta Ley, la Administración de la Junta de Andalucía fomen-
+tará la colaboración con los agentes económicos y sociales,
+las confederaciones, federaciones y asociaciones de padres
+y alumnos, organizaciones no gubernamentales, entidades de
+acción voluntaria, así como con otras entidades sin ánimo
+de lucro.
+
+## TITULO IV
+
+FINANCIACION
+
+### Artículo 26. Financiación.
+
+Las actuaciones y programas de compensación educativa
+previstas en esta Ley se financiarán con cargo a los créditos
+del Presupuesto de la Comunidad Autónoma, así como con
+aquellos fondos procedentes de entidades públicas o privadas
+que contribuyan a la financiación de programas y actuaciones
+específicas para el ejercicio de la solidaridad en la educación.
+DISPOSICION ADICIONAL
+Unica. El alumnado perteneciente a familias andaluzas
+que, de acuerdo con la normativa vigente, sean beneficiaras
+del Ingreso Mínimo de Solidaridad tendrán prioridad para la
+obtención de las ayudas y compensaciones de carácter indi-
+vidual que se deriven de la aplicación de la presente Ley.
+DISPOSICION DEROGATORIA
+Única. 1. Hasta tanto se proceda al desarrollo reglamen-
+tario de la presente Ley y sin perjuicio de lo dispuesto en
+el párrafo segundo de esta disposición, continuarán en vigor,
+con sus respectivos rangos, los Decretos 168/1984, de 12
+de junio, de Educación Compensatoria en Zonas Urbanas;
+207/1984, de 17 de julio, de Educación Compensatoria en
+Zonas Rurales; 99/1988, de 10 de marzo, por el que se deter-
+minan las zonas de actuación educativa preferente en la Comu-
+
+nidad Autónoma de Andalucía; 192/1997, de 29 de julio,
+por el que se regula el servicio de comedores de Centros públi-
+cos, y 100/1988, de 10 de marzo, por el que se ordenan
+las residencias escolares, en cuanto a las materias reguladas
+en esta Ley.
+2. Quedan derogadas cuantas disposiciones de igual o
+inferior rango se opongan o contradigan lo establecido en la
+presente Ley.
+DISPOSICIONES FINALES
+Primera. Desarrollo de la Ley.
+Se autoriza al Consejo de Gobierno de la Junta de Anda-
+lucía para dictar cuantas disposiciones sean precisas para el
+desarrollo y ejecución de lo dispuesto en la presente Ley.
+Segunda. Entrada en vigor.
+La presente Ley entrará en vigor el día siguiente al de
+su publicación en el Boletín Oficial de la Junta de Andalucía».
+Sevilla, 18 de noviembre de 1999
+MANUEL CHAVES GONZALEZ
+Presidente de la Junta de Andalucía
+LEY 10/1999, de 18 de noviembre, por la que se
+autoriza la enajenación del inmueble denominado Pala-
+cio de Miramar, sito en Málaga, Paseo de Reding, s/n.
+EL PRESIDENTE DE LA JUNTA DE ANDALUCIA A TODOS
+LOS QUE LA PRESENTE VIEREN, SABED:
+Que el Parlamento de Andalucía ha aprobado y yo, en
+nombre del Rey y por la autoridad que me confieren la Cons-
+titución y el Estatuto de Autonomía, promulgo y ordeno la
+publicación de la siguiente
+«LEY POR LA QUE SE AUTORIZA LA ENAJENACION DEL
+INMUEBLE DENOMINADO PALACIO DE MIRAMAR, SITO EN
+MALAGA, PASEO DE REDING, S/N
+EXPOSICION DE MOTIVOS
+Mediante el Real Decreto 142/1997, de 31 de enero,
+se traspasaron las funciones de la Administración del Estado
+a la Comunidad Autónoma de Andalucía en materia de pro-
+visión de medios materiales y económicos para el funciona-
+miento de la Administración de Justicia, que han sido asig-
+nadas a la Consejería de Gobernación y Justicia por Decre-
+to 83/1997, de 13 de marzo.
+En la relación de bienes que contiene el citado Real Decre-
+to 142/1997 se integra el inmueble denominado “Palacio de
+Miramar”, sito en Málaga, Paseo de Reding, s/n, que se tras-
+pasa a la Comunidad Autónoma en propiedad.
+La Administración de la Junta de Andalucía tiene en pro-
+yecto la construcción de una “Ciudad de la Justicia” en Málaga,
+destinada a agrupar las diferentes sedes judiciales que actual-
+mente se encuentran dispersas, de forma que permita agilizar
+el funcionamiento de la Administración de Justicia y facilitar
+las relaciones de los ciudadanos con dicha Administración.
+Con este objeto, se ha suscrito un convenio con el Ayun-
+tamiento de Málaga el 22 de mayo de 1998, en el que, entre
+otros puntos, se contempla la cesión por el Ayuntamiento de
+los terrenos necesarios para la ejecución de este proyecto.
+Entre las actuales sedes judiciales de Málaga, que que-
+darán sin uso una vez culminadas las obras, se encuentra
+el citado “Palacio de Miramar”. Dicho edificio, cuya distribución
+está adaptada al uso judicial, no permite su utilización para
+otros usos administrativos, si no es mediante la ejecución de
+nuevas y cuantiosas obras de adecuación. Por ello, se con-
+sidera conveniente proceder a su enajenación.
+De otro lado, el “Palacio de Miramar” albergó en el pasado
+un hotel, por lo que con la enajenación del mismo la Junta
+de Andalucía puede ofrecer a la iniciativa privada la posibilidad
+de recuperar el edificio como el gran hotel de Málaga, tan
+necesario para satisfacer la demanda turística de la ciudad.
+Teniendo en cuenta que el valor de dicho inmueble supera
+los mil millones de pesetas, corresponde autorizar su ena-
+jenación al Parlamento de Andalucía, mediante Ley, de acuer-
+do con lo dispuesto en el artículo 87 de la Ley 4/1986, de
+5 de mayo, del Patrimonio de la Comunidad Autónoma de
+Andalucía.
+Asimismo, y como excepción a lo previsto en el artícu-
+lo 60 de la citada Ley 4/1986, debe contemplarse en la pre-
+sente Ley la posibilidad de que la Comunidad Autónoma pueda
+conservar el uso temporal del inmueble a enajenar mientras
+se realizan las obras del proyecto “Ciudad de la Justicia” de
+Málaga por el tiempo que se estipule, dadas las dificultades
+y el alto coste que supondría habilitar una sede provisional.
+Esta previsión legal se establece en virtud de la competencia
+exclusiva en materia patrimonial atribuida a la Comunidad
+Autónoma por el artículo 13.6 del Estatuto de Autonomía.
+Finalmente, es necesaria la autorización por Ley para la
+afectación de los ingresos obtenidos por la enajenación del
+inmueble a la financiación de las obras del proyecto “Ciudad
+de la Justicia”, de Málaga, por imperativo del artículo 16 de
+la Ley General de la Hacienda Pública de la Comunidad Autó-
+noma de Andalucía.
+
+### Artículo 1. Autorización para la enajenación.
+
+Se autoriza a la titular de la Consejería de Economía y
+Hacienda para la desafectación y posterior enajenación del
+inmueble denominado “Palacio de Miramar”, sito en Málaga,
+Paseo de Reding, s/n, pudiendo conservar la Comunidad Autó-
+noma de Andalucía el uso temporal del mismo por el tiempo
+que se estipule.
+
+### Artículo 2. Afectación de ingresos.
+
+Los ingresos obtenidos por la enajenación del inmueble
+citado en el artículo anterior se destinarán a la financiación
+de las obras del proyecto “Ciudad de la Justicia”, de Málaga.
+
+### Disposición Final Primera. Habilitación para desarrollo y
+
+ejecución.
+Se faculta al Consejo de Gobierno a dictar las disposiciones
+necesarias en desarrollo y ejecución de lo dispuesto en esta
+Ley.
+
+### Disposición Final Segunda. Entrada en vigor.
+
+La presente Ley entrará en vigor el día siguiente al de
+su publicación en el Boletín Oficial de la Junta de Andalucía».
+Sevilla, 18 de noviembre de 1999
+MANUEL CHAVES GONZALEZ
+Presidente de la Junta de Andalucía
+CONSEJERIA DE TURISMO Y DEPORTE
+ORDEN de 12 de noviembre de 1999, por la que
+se regulan los procedimientos relativos a las forma-
+ciones en materia deportiva que pretendan impartir
+las federaciones deportivas al amparo de la disposición
+transitoria primera del Real Decreto 1913/1997, de
+19 de diciembre, y la Orden del Ministerio de Educación
+y Cultura de 5 de julio de 1999.
+La disposición transitoria primera del Real Decre-
+to 1913/1997, de 19 de diciembre, por el que se configuran

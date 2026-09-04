@@ -1,305 +1,545 @@
 ---
-id: norm-and-o-30-5-2023-eso
-codigo_sintetizado: O30_5_2023 Desarrollo Curriculo y Evaluacion ESO Andalucia
+id: norm-and-o30-5-2023-desarrollo-curriculo-evaluacion-eso-andalucia
 titulo: Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente
-  a la etapa de Educación Secundaria Obligatoria en la Comunidad Autónoma de Andalucía,
-  se regulan determinados aspectos de la atención a la diversidad y se establece la
-  ordenación de la evaluación del proceso de aprendizaje del alumnado.
+  a la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía, se regulan
+  determinados aspectos de la atención a la diversidad y a las diferencias individuales,
+  se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado
+  y se determina el proceso de tránsito entre las diferentes etapas educativas.
 jurisdiccion: Andalucía
 ambito: Autonómico
 organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
   de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 30/05/2023
-fecha_disposicion: '2023-05-30'
+fecha_disposicion: '2023-06-02'
 fecha_publicacion: '2023-06-02'
 boletin: BOJA
 numero_boletin: '104'
 estado: Vigente
 redaccion: original
-fuente_oficial: https://www.juntadeandalucia.es/boja/2023/104/2
-clasificacion:
-  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
-  subcategoria: Educación Secundaria Obligatoria
-tags:
-- curriculo_eso
-- evaluacion_eso
-- titulacion_eso
-- andalucia
-relaciones:
-  fundamentado_en:
-  - norma_id: norm-es-l-39-2015
-    articulos_destino:
-    - Art. 16
-    - Art. 35
-  - norma_id: norm-es-l-40-2015
-    articulos_destino:
-    - Art. 19
-    - Art. 15
-    - Art. 88
-  - norma_id: norm-es-l-39-2015
-    articulos_destino:
-    - Art. 123
-    - Art. 124
-    - Art. 10
-    - Art. 46
-  - norma_id: norm-es-l-39-2015
-    articulos_destino:
-    - Art. 16
-  - norma_id: norm-and-l17-2007
-  - norma_id: norm-es-lo-2-2006
-  cita:
-  - norma_id: norm-es-l-40-2015
-    articulos_destino:
-    - Art. 23
-  desarrolla:
-  - norma_id: norm-es-lo-2-2006
+fuente_oficial: http://www.juntadeandalucia.es/boja/2023/104/39
+fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/pdf/2023/104/39
 ---
 
-# Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la etapa de Educación Secundaria Obligatoria en la Comunidad Autónoma de Andalucía, se regulan determinados aspectos de la atención a la diversidad y se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado.
+
+# Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía, se regulan determinados aspectos de la atención a la diversidad y a las diferencias individuales, se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado y se determina el proceso de tránsito entre las diferentes etapas educativas.
 
 ## Preámbulo
 
-establecen medidas para la inclusión del flamenco en el sistema educativo andaluz, esta Dirección General de Tecnologías Avanzadas y Transformación Educativa. R E S U E L V E
+Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía, se regulan determinados aspectos de la atención a la diversidad y a las diferencias individuales, se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado y se determina el proceso de tránsito entre las diferentes etapas educativas.
+Atención:
+El texto que se muestra a
+continuación ha sido extraído de los mismos ficheros que se han
+utilizado para obtener el fichero PDF correspondiente del BOJA
+oficial y auténtico, habiéndose suprimido todas las imágenes,
+ciertas tablas y algunos textos de la versión oficial al existir
+dificultades de edición. Para consultar la versión oficial y
+auténtica de esta disposición puede
+descargarse el fichero PDF
+firmado de la disposición
+desde la sede electrónica del BOJA o
+utilizar el servicio de
+Verificación de autenticidad
+con
+CVE
+00284747
+.
+Esta disposición incluye elementos no textuales, que no se
+muestran en esta página. Para visualizarlos, consulte la
+versión en
+PDF.
+La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, ha introducido cambios que afectan a la etapa de Educación Primaria. En cumplimiento de estas previsiones legales, el Gobierno ha regulado esta etapa mediante el Real Decreto 157/2022, de 1 de marzo, por el que se establecen la ordenación y las enseñanzas mínimas de la Educación Primaria.
+La Comunidad Autónoma de Andalucía ostenta la competencia compartida para el establecimiento de los planes de estudio, incluida la ordenación curricular, de conformidad con lo dispuesto en el artículo 52.2 del Estatuto de Autonomía para Andalucía, sin perjuicio de lo recogido en el artículo 149.1.30.ª de la Constitución Española, a tenor del cual corresponde al Estado dictar las normas básicas para el desarrollo de su artículo 27, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
+En el ejercicio de esta competencia se ha publicado el Decreto 101/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía, de conformidad con lo dispuesto en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y en el Real Decreto 157/2022, de 1 de marzo, quedando derogado el Decreto 97/2015, de 3 de marzo, por el que se establece la ordenación y el currículo de la Educación Primaria en la Comunidad Autónoma de Andalucía.
+Como desarrollo del Decreto 101/2023, de 9 de mayo, se hace necesario disponer de un nuevo marco normativo, mediante la presente Orden, que regule en Andalucía la etapa de Educación Primaria en aspectos curriculares y organizativos, así como en lo referente al ámbito de la atención a la diversidad y a las diferencias individuales, a la evaluación, a la promoción y al proceso de coordinación en el tránsito entre etapas educativas.
+La Ley 17/2007, de 10 de diciembre, de Educación de Andalucía y las orientaciones de la Unión Europea inciden en la necesidad de la adquisición de las competencias clave por parte de la ciudadanía como condición indispensable para lograr que las personas puedan alcanzar su pleno desarrollo personal, social y profesional. El aprendizaje basado en competencias incluye, además del «saber», el «saber hacer» y el «saber ser y estar». Se trata de formar una ciudadanía competente a través de una educación que tenga en cuenta las competencias clave que demanda la construcción de una sociedad plural, dinámica, emprendedora, democrática y solidaria. Además, la educación debe fomentar una igualdad real entre hombres y mujeres, tal y como se establece en la Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad de género en Andalucía.
+En este sentido, la lectura se constituye como un factor didáctico y pedagógico fundamental para el desarrollo y adquisición de los aprendizajes. Por ello, todos los centros, al organizar su práctica docente, deberán garantizar la incorporación de un tiempo diario de lectura planificada, no inferior a treinta minutos, a lo largo de todos los cursos de la etapa, según lo recogido en el artículo 6 del Decreto 101/2023, de 9 de mayo.
+El currículo de esta etapa en Andalucía ordena, organiza y relaciona los elementos que determinan los procesos de enseñanza y aprendizaje. Este currículo concreta las competencias específicas, los criterios de evaluación y los saberes básicos para aplicarlos en diferentes situaciones que propicien la adquisición de las competencias clave. Asimismo, toma como eje estratégico y vertebrador del proceso de enseñanza y aprendizaje el desarrollo de las capacidades del alumnado y la integración de las competencias clave en el currículo educativo y en las prácticas docentes.
+Además, en la presente orden se regulan determinados aspectos de la atención a la diversidad y a las diferencias individuales en Educación Primaria, los cuales se apoyan en los principios del Diseño Universal para el Aprendizaje (DUA), en la educación inclusiva y en la accesibilidad universal, garantizando así la igualdad de oportunidades y ofreciendo medidas facilitadoras al alumnado que pueda presentar necesidades específicas de apoyo educativo. Del mismo modo, se contemplan medidas de atención a la diversidad encaminadas a la detección y potenciación de capacidades en diferentes áreas de conocimiento del alumnado: verbal, creativa, lógica, matemática, espacial, social, musical o deportiva, contribuyendo no solo al éxito en su ámbito académico, sino también a una orientación personalizada que se ajuste a las capacidades y destrezas de cada uno de ellos.
+Asimismo, esta orden regula aspectos relativos al tránsito entre etapas educativas, garantizando un marco de actuación unificado y preciso que facilite la definición de tareas que han de realizar los centros docentes. Para ello, los centros desarrollarán los mecanismos que favorezcan la coordinación de la adecuada transición del alumnado de la etapa de Educación Infantil a la de Educación Primaria y de la etapa de Educación Primaria a la de Educación Secundaria Obligatoria.
+La etapa de Educación Primaria tiene como finalidad facilitar al alumnado los aprendizajes de la expresión y comprensión oral, la lectura, la escritura, el cálculo, las habilidades lógicas y matemáticas, la adquisición de nociones básicas de la cultura y el hábito de convivencia, así como los de estudio y trabajo, el sentido artístico, la creatividad y la afectividad, con el fin de garantizar una formación integral que contribuya al pleno desarrollo de su personalidad, preparándolo para cursar con aprovechamiento la etapa de Educación Secundaria Obligatoria.
+Para conseguir esta finalidad se procurará la integración de las distintas experiencias y aprendizajes del alumnado desde una perspectiva global, adaptándose a sus ritmos de trabajo que se organizarán de acuerdo con los principios de educación común y de atención a la diversidad, poniéndose especial énfasis en la atención personalizada, sus necesidades de aprendizaje, la participación y la convivencia, aplicándose medidas de atención a la diversidad, así como alternativas metodológicas y otras medidas tan pronto como se detecten sus necesidades. Asimismo, se atenderá a la compensación de los efectos que las desigualdades de origen cultural, social y económico tienen en el aprendizaje, potenciándose la adquisición de las competencias y de los conocimientos, promoviendo su autonomía y su reflexión. Todo ello, con el fin de alcanzar el éxito educativo y la búsqueda de la excelencia para todo el alumnado que ha de ser capaz de desarrollar al completo sus capacidades y potencialidades.
+Esta Orden se acompaña de seis Anexos. En el Anexo I se establece el horario lectivo para la etapa de Educación Primaria. El Anexo II recoge los desarrollos curriculares de las distintas áreas que conforman esta etapa. Estos desarrollos presentan una estructura común: una introducción en la que se hace una descripción de las mismas, las competencias específicas que se pretenden desarrollar, los criterios de evaluación y los saberes básicos. El Anexo III determina la vinculación entre los Objetivos de la etapa y los descriptores operativos del Perfil competencial al término de la misma. El Anexo IV incorpora orientaciones para el diseño de las situaciones de aprendizaje. El Anexo V detalla un modelo de programa de atención a la diversidad y a las diferencias individuales. Finalmente, en el Anexo VI se presentan los modelos de documentos oficiales e informes de evaluación para Educación Primaria.
+El diseño curricular de Andalucía incorpora a los diseños del currículo mínimo, elementos necesarios como son los perfiles competenciales al término de cada uno de los ciclos de Educación Primaria; define las competencias clave y los conocimientos que el alumnado debe haber adquirido y desarrollado al completar cada ciclo, introduciendo orientaciones a través de los descriptores operativos que concretan el nivel de desempeño esperado al término de los mismos. La adquisición de las competencias clave tiene un carácter necesariamente secuencial y progresivo, atendiendo a la singularidad de cada persona. Por ello, estos perfiles competenciales al finalizar cada ciclo se conciben como la herramienta clave que ha de dar continuidad, coherencia y cohesión a la progresión en el desempeño competencial a lo largo del período que conforma la etapa de Educación Primaria, ya que marcan los niveles de desempeño de las competencias clave.
+La presente orden se ha elaborado atendiendo a los principios de buena regulación contenidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas: Principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia, en tanto que persigue un interés general al proporcionar a la ciudadanía un marco normativo de las enseñanzas básicas adecuado al nuevo ordenamiento educativo vigente y dotar así de seguridad jurídica en este ámbito a los centros docentes que imparten las mismas. Asimismo, esta Orden cumple estrictamente el mandato establecido en dicha Ley, no existiendo ninguna alternativa regulatoria menos restrictiva de derechos o que imponga menos obligaciones a las personas destinatarias, resultando coherente con el ordenamiento jurídico y permitiendo una gestión más eficiente de los recursos públicos, por lo que quedan justificados los objetivos que persigue la citada Ley. Además, en el procedimiento de elaboración de esta Orden se ha permitido y facilitado la participación y las aportaciones de las personas potenciales destinatarias a través de los procedimientos de audiencia e información pública regulados en el artículo 133 de la citada Ley 39/2015, de 1 de octubre. Por ello, contiene la regulación imprescindible para atender la necesidad a cubrir con la norma y se dicta en coherencia con el ordenamiento jurídico autonómico.
+En su virtud, a propuesta de la Directora General de Ordenación, Inclusión, Participación y Evaluación Educativa, de conformidad con lo previsto en la disposición final tercera del Decreto 101/2023, de 9 de mayo, y en uso de las atribuciones conferidas por el artículo 44.2 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía,
+DISPONGO
 
-#### Primero. Objeto.
+## CAPÍTULO I
 
-Efectuar la convocatoria de los IX Premios Flamenco en el Aula correspondientes al curso académico 2022/23. #### Segundo. Modalidad.
+Disposiciones de carácter general
 
-Se convocan las siguientes modalidades:
-a) IX Premios «Flamenco en el Aula» a la elaboración de materiales curriculares y recursos didácticos.
-b) IX Premios «Flamenco en el Aula» al reconocimiento de experiencias y buenas prácticas docentes. Cada modalidad de los Premios «Flamenco en el Aula» estará dotada con:
+### Artículo 1. Objeto y ámbito de aplicación.
 
-a) Un primer premio consistente en trofeo y diploma.
+1. La presente orden tiene por objeto desarrollar el currículo correspondiente a la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía, regular determinados aspectos de la atención a la diversidad y a las diferencias individuales, establecer la ordenación de la evaluación del proceso de aprendizaje del alumnado y determinar el proceso de tránsito entre las diferentes etapas educativas, de conformidad con el Decreto 101/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía.
+2. Esta Orden se aplicará en todos los centros docentes de la Comunidad Autónoma que impartan estas enseñanzas.
 
-b) Un segundo premio consistente en trofeo y diploma.
+### Artículo 2. Elementos y estructura del currículo.
 
-c) **Un tercer premio consistente en trofeo y diploma.** Estos premios se entregarán en una ceremonia a celebrar en una fecha cercana al 16 de noviembre de 2023, Día del Flamenco, en el lugar que oportunamente se anuncie.
+1. La definición y los elementos del currículo son los establecidos en el artículo 3 del Decreto 101/2023, de 9 de mayo.
+2. El currículo de Educación Primaria, incorporando lo dispuesto en el Real Decreto 157/2022, de 1 de marzo, por el que se establecen la ordenación y las enseñanzas mínimas de la Educación Primaria, se fija en los Anexos I, II y III, con el siguiente desglose:
+a) En el Anexo I se establece el horario lectivo para la etapa de Educación Primaria.
+b) En el Anexo II se formulan para cada una de las áreas las competencias específicas, los criterios de evaluación y los saberes básicos.
+c) Con el fin de establecer las relaciones entre las competencias clave y los objetivos de la etapa, se incluye el Anexo III que determina la vinculación entre dichos objetivos y el perfil competencial al término de la misma.
+3. Para el desarrollo y la concreción del currículo se tendrá en cuenta la secuenciación establecida en la presente orden, si bien su carácter globalizado permite que los centros docentes puedan agrupar las distintas áreas en ámbitos, en función de la necesaria adecuación a su contexto específico, así como a su alumnado, teniendo en cuenta lo recogido en su Proyecto educativo.
+4. El profesorado integrante de los distintos equipos de ciclo elaborará las programaciones didácticas, según lo dispuesto en el artículo 27 del Decreto 328/2010, de 13 de julio, por el que se aprueba el Reglamento Orgánico de las escuelas infantiles de segundo ciclo, de los colegios de educación primaria, de los colegios de educación infantil y primaria, y de los centros públicos específicos de educación especial, de las áreas de cada curso que tengan asignadas, a partir de lo establecido en el Anexo II, mediante la concreción de las competencias específicas, de los criterios de evaluación, de la adecuación de los saberes básicos y de su vinculación con dichos criterios de evaluación, así como el establecimiento de situaciones de aprendizaje que integren estos elementos y contribuyan a la adquisición de las competencias, respetando los principios pedagógicos regulados en el artículo 6 del Decreto 101/2023, de 9 de mayo.
 
-#### Tercero. Plazo de presentación.
+### Artículo 3. Situaciones de aprendizaje.
 
-El plazo de presentación de candidaturas será desde el día siguiente al de la publicación de la presente Resolución en el Boletín Oficial de la Junta Andalucía hasta el 15 de julio de 2023. No podrán presentar candidaturas aquellas personas y/o centros docentes que han obtenido premio en cualquiera de las modalidades en las tres últimas ediciones.
-Cuarto. Las solicitudes para la los IX Premios «Flamenco en el Aula», en sus dos modalidades, serán presentadas preferentemente de forma telemática a través del portal web de la Junta de Andalucía: https://www.juntadeandalucia.es/servicios/procedimientos, sin perjuicio de lo establecido en el artículo 16 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Si se optase por la presentación en un registro físico se efectuará de conformidad con lo establecido el artículo 35 de la Orden de 7 de mayo de 2014, según el modelo que se adjunta en el Anexo I y II.
+1. Las programaciones didácticas contemplarán situaciones de aprendizaje en las que se integren los elementos curriculares de las distintas áreas para garantizar que la práctica educativa atienda a la diversidad, a las características personales, a las necesidades, a los intereses, a la igualdad efectiva entre hombres y mujeres y al estilo cognitivo del alumnado.
+2. Para el desarrollo de las situaciones de aprendizaje se tendrá en consideración lo recogido en el artículo 7 del Decreto 101/2023, de 9 de mayo, así como las orientaciones del Anexo IV.
 
-#### Quinto. Jurado.
+### Artículo 4. Autonomía de los centros docentes.
 
-1. La Consejería competente en materia de educación, constituirá un jurado presidido por la persona que ostente la jefatura de servicio competente en materia de planes y programas educativos, o persona en quien delegue, y formado por:
-a) Una personalidad destacada del mundo del Flamenco.
-b) Tres docentes de diferentes niveles educativos destacados en la realización y aplicación de soluciones educativas relacionadas con el Flamenco.
-c) **Un funcionario o funcionaria, que actuará como secretario o secretaria.** Su sustitución deberá recaer en una persona con la misma cualificación y requisitos que su titular.
+1. Los centros docentes desarrollarán y concretarán, en su caso, el currículo en su Proyecto educativo y lo adaptarán a las necesidades de su alumnado y a las características específicas del entorno social y cultural en el que se encuentran, configurando así su oferta educativa.
+2. Todos los centros que impartan Educación Primaria deberán incluir en su Proyecto educativo las programaciones didácticas de cada una de las áreas.
+3. Sin perjuicio de los dispuesto en el artículo 2.4, los equipos de ciclo concretarán las líneas de actuación en la programación didáctica, incluyendo las distintas medidas de atención a la diversidad y a las diferencias individuales que deban llevarse a cabo de acuerdo con las necesidades del alumnado y en el marco establecido en el capítulo V del Decreto 101/2023, de 9 de mayo.
+4. El profesorado concretará para cada curso la programación didáctica, planificando, de esa forma, su actividad educativa.
+5. Los centros docentes promoverán compromisos educativos con los padres, madres o personas que ejerzan la tutela legal del alumnado, en los que se incluyan actividades que los integrantes de la comunidad educativa se comprometan a desarrollar, para facilitar el desarrollo integral y el progreso académico del alumnado.
+6. Los centros docentes organizarán, en el marco de su autonomía, recreos inclusivos y activos con el objetivo de potenciar las interacciones que se establecen entre el alumnado. En éstos, se podrán realizar juegos y actividades lúdicas de su interés, transmisores de la cultura, de los valores y que contribuyan a desarrollar hábitos de vida saludable, tales como talleres de ajedrez, de debate, de juegos tradicionales, de baile, de decoración, de lectura, entre otros de naturaleza análoga.
 
-2. Corresponde a la persona titular de la Dirección General competente en materia de innovación educativa el nombramiento de sus miembros.
+## CAPÍTULO II
 
-3. El Jurado actuará con pleno respeto a los criterios de igualdad, transparencia y no discriminación. Sus miembros deberán declarar no estar incursos en ninguno de los supuestos contemplados en el artículo 23 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, sobre las causas de abstención.
+Ordenación de la etapa y oferta educativa
 
-4. Corresponde al Jurado la instrucción, el examen y la valoración de las solicitudes presentadas a las diferentes modalidades de los Premios «Flamenco en el Aula». Asimismo, podrá recabar los informes o dictámenes que considere convenientes para la adecuada instrucción.
+### Artículo 5. Organización general de Educación Primaria.
 
-5. Con objeto de garantizar la participación paritaria de mujeres y hombres, se actuará conforme a lo establecido en el artículo 19.2 de la Ley 9/2007, de 22 de octubre. Asimismo, ajustará su actuación a lo dispuesto en la Orden de 7 de mayo de 2014, en los artículos 15 y siguientes de la Ley 40/2015, de 1 de octubre, y en los artículos 88 y siguientes de la Ley 9/2007, de 22 de octubre.
+1. De acuerdo con lo establecido en el artículo 8.1 del Decreto 101/2023, de 9 de mayo, el alumnado debe cursar las siguientes áreas:
+a) Conocimiento del Medio Natural, Social y Cultural.
+b) Educación Artística.
+c) Educación Física.
+d) Lengua Castellana y Literatura.
+e) Primera Lengua Extranjera.
+f) Matemáticas.
+g) Segunda Lengua Extranjera en el tercer ciclo.
+2. A las áreas incluidas en el apartado 1, se añadirá en sexto curso el área de Educación en Valores Cívicos y Éticos.
+3. De acuerdo con lo establecido en el artículo 9 del Decreto 101/2023, de 9 de mayo, el alumnado podrá cursar enseñanzas de Religión en cada uno de los cursos de la etapa a elección de los padres, madres o personas que ejerzan su tutela legal. Asimismo, aquel alumnado que no haya optado por cursar dichas enseñanzas recibirá la debida atención educativa. Esta atención se planificará y programará por parte de cada centro.
+4. En el caso de que el alumnado presente dificultades en la adquisición de la competencia en comunicación lingüística que le impida seguir con aprovechamiento su proceso de aprendizaje, podrá cursar, en lugar de Segunda Lengua Extranjera, un Área Lingüística de carácter transversal.
+5. Los centros docentes, en el ejercicio de su autonomía, podrán distribuir el horario lectivo disponible entre las opciones siguientes:
+a) Ampliación del horario lectivo del área de Lengua Castellana y Literatura o del área de Matemáticas, en el primer ciclo.
+b) Ampliación del horario lectivo del área de Lengua Castellana y Literatura, del área de Matemáticas o del área de Primera Lengua Extranjera, en el segundo ciclo.
+c) Ampliación del horario lectivo del área de Lengua Castellana y Literatura, del área de Matemáticas, del área de Primera Lengua Extranjera, del área de Conocimiento del Medio Natural, Social y Cultural, diseño e implantación de Proyectos interdisciplinares o tutoría, en el tercer ciclo.
+6. Los centros podrán ofertar la lengua de signos española integrándola dentro de las áreas para reforzar la inclusión educativa, en caso de que así lo determinen sus necesidades y quede reflejado en su Proyecto educativo.
+7. La realización de actividades de acción tutorial se llevará a cabo de manera integrada con el resto de áreas, excepto en el tercer ciclo, que podrá tener asignado un tiempo específico, según se determine en el Proyecto educativo del centro.
+8. El horario que corresponde planificar al centro en virtud de su autonomía pedagogía se podrá emplear en el desarrollo de una Segunda Lengua Extranjera en el primer y en el segundo ciclo, siempre que el centro sea clasificado como plurilingüe por la Consejería competente en materia de educación.
+9. Los centros pertenecientes a la red de centros con Aulas Confucio podrán planificar el horario de autonomía del centro, en cualquiera de los tres ciclos, para el desarrollo del Programa.
 
-#### Sexto. Fallo del Jurado.
+### Artículo 6. Proyectos interdisciplinares propios de los centros.
 
-1. El Jurado, como consecuencia de las valoraciones efectuadas, emitirá un fallo por cada modalidad de los Premios «Flamenco en el Aula» con los títulos de los trabajos y proyectos seleccionados respectivamente, en cada una de sus tres categorías y lo elevará como propuesta de concesión del Premio correspondiente a la Dirección General competente en materia de innovación educativa para su resolución. El fallo del jurado será inapelable.
+1. Los centros docentes, en el horario lectivo de asignación autonómica en el tercer ciclo, podrán configurar en su oferta educativa el desarrollo de Proyectos interdisciplinares. Todo ello, para garantizar el desarrollo integrado de todas las competencias de la etapa y la incorporación de los valores enunciados en los principios pedagógicos recogidos en el artículo 6 del Decreto 101/2023, de 9 de mayo, según se determine en su Proyecto educativo de centro.
+2. Los Proyectos interdisciplinares tendrán un carácter eminentemente práctico.
+3. El equipo de ciclo presentará los Proyectos interdisciplinares al Claustro para su aprobación por mayoría cualificada de dos tercios. Dicha propuesta deberá contar con el visto bueno previo del Equipo Técnico de Coordinación Pedagógica.
+4. Los Proyectos interdisciplinares que se presenten al Claustro deberán contener, al menos, los siguientes elementos:
+a) Denominación y justificación del Proyecto, así como el curso para el que se propone ofertar. Se especificarán las competencias específicas, los criterios de evaluación, saberes básicos y su vinculación con el perfil competencial en cada caso.
+b) Justificación de su inclusión en la oferta educativa del centro docente y breve descripción del Proyecto ofertado.
+c) Certificación de la persona que ejerza la secretaría del centro relativa a la fecha de aprobación de la propuesta por parte del Claustro de profesorado.
+d) Profesorado que impartirá el Proyecto y recursos de los que se dispone para ello.
+e) Acreditación de que la incorporación del Proyecto a la oferta educativa es sostenible y asumible con los recursos humanos y materiales de que dispone el centro docente y que, por tanto, no implica aumento de plantilla del mismo.
+5. Entre el 1 y el 22 de junio del curso anterior al de la implantación del Proyecto, los centros docentes comunicarán al Servicio de Inspección de la Delegación Territorial con competencias en materia de educación sus Proyectos interdisciplinares aprobados.
 
-2. El Jurado podrá proponer declarar desierto cualquiera de ambos Premios en cualquiera de sus tres categorías si considera que ninguno de los trabajos o proyectos presentados reúne los méritos suficientes.
+### Artículo 7. Área Lingüística de carácter transversal.
 
-3. El Jurado podrá proponer anualmente un reconocimiento especial como premio de honor a aquellas instituciones, entidades, colectivos o personas que se hayan distinguido por su apoyo a los centros educativos en el desarrollo de actuaciones relacionadas con la inclusión del Flamenco en el sistema educativo.
+1. Según lo establecido en el artículo 8.9 del Decreto 101/2023, de 9 de mayo, el Área Lingüística de carácter transversal se impartirá para el alumnado que presente dificultades en la adquisición de la competencia en comunicación lingüística.
+2. Se podrá acceder al Área Lingüística de carácter transversal al inicio de curso en función de la información del curso anterior o durante el primer trimestre, a propuesta de la persona que ejerza la tutoría tras la correspondiente evaluación inicial.
+3. La programación ha de partir de los elementos curriculares del área de Lengua Castellana y Literatura, integrando las competencias específicas, así como los criterios de evaluación del mismo curso o de cursos anteriores en función de los resultados de la evaluación inicial del alumnado que conforma el grupo. Los saberes básicos han de permitir el desarrollo de las destrezas comunicativas: escuchar, hablar, conversar, leer y escribir.
+4. La metodología desarrollará el enfoque comunicativo de la lengua, partirá de los intereses y la motivación del alumnado, estará orientada al desarrollo de productos finales, interesantes y motivadores para el alumnado, tales como obras de teatro, cómics, campañas publicitarias, materiales y aplicaciones web, exposiciones orales, debates, creación de textos escritos continuos, discontinuos y digitales, desarrollo intencional de la lectura comprensiva, entre otros.
+5. El Área Lingüística de carácter transversal será evaluable y calificable como las restantes áreas. Los resultados de la evaluación se expresarán en los términos establecidos en el artículo 12.
+6. La incorporación y matriculación del alumnado al Área Lingüística de carácter transversal se realizará contando con la conformidad de sus padres, madres, o personas que ejerzan su tutela legal.
 
-#### Séptimo. Resoluciones y recursos.
+### Artículo 8. Horario.
 
-1. La persona titular de la Dirección General competente en materia de innovación educativa, a la vista de las propuestas del jurado, dictará las correspondientes resoluciones, elevando a definitivo y haciendo público el contenido de los fallos del jurado para cada modalidad del Premio.
+1. El horario lectivo semanal de cada uno de los cursos de Educación Primaria se organiza en veinticinco sesiones lectivas, incluyendo los tiempos dedicados al recreo con la distribución por áreas que se establece en el Anexo I.
+2. El horario lectivo de cada uno de los cursos de Educación Primaria se organizará en sesiones de 60 minutos. Excepcionalmente se podrán diseñar sesiones de 30 o 45 minutos, respetando siempre el horario mínimo de cada área determinado en el Anexo I.
+3. Los centros docentes configurarán su horario lectivo semanal para las diferentes áreas de Educación Primaria en función de las necesidades de aprendizaje de su alumnado. En esa configuración del horario lectivo, los centros deberán garantizar la incorporación de un tiempo diario, no inferior a 30 minutos, en todos los niveles de la etapa, para el desarrollo planificado de la lectura, en los términos recogidos en su Proyecto educativo.
+4. El horario escolar correspondiente a las enseñanzas mínimas de los ámbitos será el resultante de la suma de las áreas que se integren en estos.
 
-Octavo. Bases específicas del certamen para el fomento de la elaboración de materiales y recursos didácticos que impulsen el conocimiento y la inclusión del Flamenco en el sistema educativo de Andalucía.
+## CAPÍTULO III
 
-1. Participantes.
-a) Podrá participar en este certamen el profesorado y el alumnado, individualmente o en equipo, de los centros docentes sostenidos con fondos públicos dependientes de la Consejería competente en materia de educación de todos los niveles educativos de la Comunidad Autónoma de Andalucía.
-b) La participación del alumnado requerirá la coordinación de un profesor o profesora responsable.
+Evaluación y promoción
 
-2. Requisitos de los trabajos. Los trabajos presentados deberán reunir los siguientes requisitos:
-a) Servir de apoyo a la inclusión del Flamenco en el currículo y para el desarrollo de las competencias clave.
-b) Su contenido debe estar conectado con el currículo escolar, ligado al desarrollo de las competencias clave y ser adecuado al nivel educativo del alumnado al que se dirige.
-c) Ser innovadores, dinámicos, interactivos, motivadores y fáciles de usar.
-d) Ser material elaborado el curso anterior a la convocatoria.
+## Sección 1.ª La evaluación en Educación Primaria
 
-3. Solicitudes. La persona que desee concurrir a esta convocatoria presentará, preferentemente de forma telemática a través del portal web de la Junta de Andalucía: https://www. juntadeandalucia.es/servicios/procedimientos, sin perjuicio de lo establecido en el artículo 16 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, una solicitud dirigida a la Dirección General competente en innovación educativa, en la que se incluirá:
-a) Ficha descriptiva con las características del trabajo.
-b) Declaración firmada por todos los autores y autoras, o por el profesorado responsable en el caso de la participación del alumnado, en la que se exprese que el trabajo presentado es original y no ha sido comercializado ni premiado anteriormente.
-c) Trabajo en formato digital.
-d) Declaración formal de cesión previa de los derechos de difusión y publicación a la Consejería competente en materia de educación.
 
-4. Criterios de evaluación para la selección.
+### Artículo 9. Carácter y referentes de la evaluación.
 
-**4.1** En la selección de trabajos presentados se tendrán en cuenta los siguientes criterios:
-a) Interés o relevancia de la actividad para la inclusión del Flamenco en el currículo y en el desarrollo de las competencias clave.
-b) Grado de implicación de la comunidad educativa en la actividad.
-c) Colaboración y realización de materiales y recursos entre varios centros.
-d) Posibilidad de extensión a otros centros.
-e) Que potencien el aprendizaje significativo y colaborativo.
-f) Claridad, concreción y rigor en sus planteamientos.
-g) Carácter innovador, interactivo y facilidad de utilización, con indicaciones claras y precisas.
-h) Diversidad de actividades, tareas y estrategias de trabajo colaborativo.
-i) Adaptables por el profesorado a las necesidades y particularidades de su alumnado.
-j) Transmisión de los valores emanados del Flamenco que fomenten la amistad, el respeto, la igualdad o la tolerancia.
-k) Que fomenten la integración, teniendo en cuenta la interculturalidad de la realidad andaluza, su diversidad, valores y señas de identidad.
-l) Actuaciones que favorezcan el desarrollo de valores a favor de la igualdad de género.
-m) Actuaciones que incluyan la perspectiva de discapacidad favoreciendo la integración.
+1. La evaluación del proceso de aprendizaje del alumnado será continua, global, competencial, formativa, integradora, diferenciada y objetiva según las distintas áreas del currículo y será un instrumento para la mejora tanto de los procesos de enseñanza como de los procesos de aprendizaje. Tomará como referentes los criterios de evaluación de las diferentes áreas curriculares, a través de los cuales se medirá el grado de consecución de las competencias específicas.
+2. La evaluación será integradora por tener en consideración la totalidad de los elementos que constituyen el currículo. En la evaluación del proceso de aprendizaje del alumnado deberá tenerse en cuenta el grado de consecución de las competencias específicas a través de la superación de los criterios de evaluación que tienen asociados.
+3. El carácter integrador de la evaluación no impedirá al profesorado realizar la evaluación de cada área de manera diferenciada en función de los criterios de evaluación que, relacionados de manera directa con las competencias específicas, indicarán el grado de desarrollo de las mismas.
+4. La evaluación será continua y global por estar inmersa en el proceso de enseñanza y aprendizaje y por tener en cuenta el progreso del alumnado, con el fin de detectar las dificultades en el momento en que se produzcan, averiguar sus causas y, en consecuencia, de acuerdo con lo dispuesto en el Capítulo V del Decreto 101/2023, de 9 de mayo, adoptar las medidas necesarias dirigidas a garantizar la adquisición de las competencias clave, que le permita continuar adecuadamente su proceso de aprendizaje.
+5. El carácter formativo de la evaluación propiciará la mejora constante del proceso de enseñanza y aprendizaje. La evaluación formativa proporcionará la información que permita mejorar tanto los procesos como los resultados de la intervención educativa.
+6. El alumnado tiene derecho a ser evaluado conforme a criterios de plena objetividad, a que su dedicación, esfuerzo y rendimiento sean valorados y reconocidos de manera objetiva. Asimismo, el alumnado tiene derecho a conocer los resultados de sus evaluaciones para que la información que se obtenga a través de estas tenga valor formativo y lo comprometa en la mejora de su educación.
+7. Asimismo, para la evaluación del alumnado se tendrán en consideración los criterios y procedimientos de evaluación, calificación y promoción incluidos en el Proyecto educativo del centro.
+8. Los Proyectos educativos de los centros docentes establecerán el sistema de participación del alumnado y de los padres, madres o personas que ejerzan su tutela legal, en el desarrollo del proceso de evaluación.
+9. Los centros docentes establecerán en sus Proyectos educativos los procesos mediante los cuales se harán públicos los criterios y procedimientos de evaluación y promoción, que se ajustarán a la normativa vigente, así como los instrumentos que se aplicarán para la evaluación de los aprendizajes de cada área.
 
-**4.2** Estos criterios de evaluación se aplicarán con la siguiente ponderación:
-El criterio a) supondrá el 40% de la valoración. Los criterios b), c), d), e), f), g), h) e i) supondrán en conjunto el 40% de la valoración. Los criterios j), k) l) y m) supondrán en conjunto el 20% de la valoración.
-Noveno. Bases específicas reguladoras del certamen para reconocer aquellos proyectos educativos basados en experiencias y buenas prácticas docentes que hayan tenido un desarrollo de al menos durante un curso escolar y hayan contribuido a acercar el Flamenco al alumnado a la vez que desarrollan competencias clave en las diferentes áreas curriculares.
+### Artículo 10. Procedimientos e instrumentos de evaluación.
 
-1. Participantes.
+1. El profesorado llevará a cabo la evaluación, preferentemente, a través de la observación continuada de la evolución del proceso de aprendizaje en relación con los criterios de evaluación y el grado de desarrollo de las competencias específicas de cada área.
+2. Los criterios de evaluación han de ser medibles, por lo que se han de establecer mecanismos objetivos de observación de las acciones que describen.
+3. Los mecanismos que garanticen la objetividad de la evaluación deberán ser concretados en las programaciones didácticas y ajustados de acuerdo con la evaluación inicial del alumnado y de su contexto.
+4. Para la evaluación del alumnado se utilizarán diferentes instrumentos tales como cuestionarios, formularios, presentaciones, exposiciones orales, edición de documentos, pruebas, escalas de observación, rúbricas o portfolios, entre otros, coherentes con los criterios de evaluación y con las características específicas del alumnado, garantizando así que la evaluación responde al principio de atención a la diversidad y a las diferencias individuales. Se fomentarán los procesos de coevaluación, evaluación entre iguales, así como la autoevaluación del alumnado, potenciando la capacidad del mismo para juzgar sus logros respecto a una tarea determinada.
+5. Los criterios de evaluación contribuyen, en la misma medida, al grado de desarrollo de la competencia específica, por lo que tendrán el mismo valor a la hora de determinar su grado de desarrollo.
+6. Los criterios de promoción, recogidos en el Proyecto educativo, tendrán que ir referidos al grado de desarrollo de los descriptores operativos del Perfil competencial al finalizar cada ciclo, así como a la superación de las competencias específicas de las diferentes áreas.
+7. Los docentes evaluarán tanto el proceso de aprendizaje del alumnado como su propia práctica docente, para lo que concretarán los oportunos procedimientos en las programaciones didácticas.
 
-**1.1.** La participación en este certamen se realizará a través de la presentación de solicitudes proponiendo las candidaturas al Premio.
+## Sección 2.ª Desarrollo de los procesos de evaluación
 
-**1.2.** Podrán ser candidatos al Premio:
-a) Los centros docentes sostenidos con fondos públicos andaluces.
-b) El profesorado, a título individual o en equipo.
-c) El alumnado, individualmente o en equipo.
-d) Cualquier colectivo que forme parte de la comunidad educativa de uno o varios centros.
 
-**1.3.** Podrán presentar solicitudes:
-a) La dirección de los centros docentes.
-b) Los centros del profesorado de Andalucía.
-c) Las entidades relacionadas con el mundo del Flamenco.
+### Artículo 11. Evaluación inicial.
 
-2. Candidaturas. Quienes deseen concurrir a esta convocatoria presentarán, preferentemente de forma telemática a través del portal web de la Junta de Andalucía:
-sin perjuicio de lo establecido en el artículo 16 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, una solicitud con la candidatura dirigida a la Dirección General competente en innovación educativa, que deberá ir acompañada de la siguiente documentación:
-a) Ficha descriptiva con las características de la actividad.
-b) Memoria justificativa y desarrollo de la actividad.
-c) Documentos de apoyo a la candidatura por parte de otras entidades en el caso de existir.
-d) Declaración formal de la persona responsable de la candidatura de la veracidad de los datos aportados y disponibilidad de completar cuanta información le sea requerida.
+1. La evaluación inicial del alumnado ha de ser competencial y ha de tener como referente las competencias específicas de las áreas que servirán de punto de partida para la toma de decisiones. Para ello, se tendrá en cuenta principalmente la observación diaria, así como otras herramientas. La evaluación inicial del alumnado en ningún caso consistirá exclusivamente en una prueba objetiva.
+2. Los resultados de esta evaluación no figurarán en los documentos oficiales de evaluación.
+3. Durante los primeros días del curso, con el fin de conocer la evolución educativa del alumnado y, en su caso, las medidas educativas adoptadas, la persona que ejerza la tutoría y el equipo docente de cada grupo analizarán los informes del curso anterior, a fin de conocer aspectos relevantes de los procesos educativos previos. Asimismo, el equipo docente realizará una evaluación inicial, para valorar la situación inicial de sus alumnos y alumnas en cuanto al nivel de desarrollo de las competencias específicas de las áreas de la etapa que en cada caso corresponda.
+4. Antes del día 15 octubre se convocará una sesión de coordinación docente con objeto de analizar y compartir las conclusiones de esta evaluación inicial, que tendrá carácter orientador y será el punto de referencia para la toma de decisiones relativas a la elaboración de las programaciones didácticas y al desarrollo del currículo que se adecuará a las características y al grado de desarrollo de las competencias específicas del alumnado.
+5. El equipo docente, con el asesoramiento del equipo de orientación educativa, realizará la propuesta y adoptará las medidas educativas de atención a la diversidad y a las diferencias individuales para el alumnado que las precise.
 
-3. Criterios de evaluación para la selección.
+### Artículo 12. Evaluación continua.
 
-**3.1.** En la selección de trabajos presentados se tendrán en cuenta especialmente los siguientes criterios:
-a) Interés o relevancia de la propuesta para la inclusión del Flamenco en el currículo y desarrollo de las competencias clave.
-b) Grado de implicación de la comunidad educativa.
-c) Colaboración y realización de prácticas comunes entre varios centros.
-d) Posibilidad de extensión a otros centros.
-e) Que potencien el aprendizaje significativo y colaborativo.
-f) Claridad, concreción y rigor en sus planteamientos.
-g) Carácter innovador e interdisciplinar de la propuesta.
-h) Continuidad del proyecto.
-i) Diversidad de actividades, tareas y estrategias de trabajo colaborativo, de acuerdo con las necesidades y particularidades de su alumnado.
-j) Valoración de la importancia del Flamenco como expresión cultural.
-k) El Flamenco como transmisión de valores interculturales que fomenten la amistad, el respeto, la igualdad o la tolerancia, en el contexto de la realidad andaluza, su diversidad, valores y señas de identidad.
-l) Actuaciones que favorezcan el desarrollo de valores a favor de la igualdad de género.
-m) Actuaciones que incluyan la perspectiva de discapacidad favoreciendo la integración.
+1. Se entiende por evaluación continua aquella que se realiza durante todo el proceso de aprendizaje, permitiendo conocer el progreso del alumnado en el antes, durante y final del proceso educativo, realizando ajustes y cambios en la planificación del proceso de enseñanza y aprendizaje, si se considera necesario.
+2. Son sesiones de evaluación continua las reuniones del equipo docente de cada grupo coordinadas por la persona que ejerza la tutoría y, en ausencia de esta, por la persona que designe la dirección del centro, con la finalidad de intercambiar información sobre el progreso educativo del alumnado y adoptar decisiones de manera consensuada y colegiada, orientadas a la mejora de los procesos de enseñanza y aprendizaje y de la propia práctica docente. Estas sesiones se realizarán al finalizar el primer y el segundo trimestre del curso escolar.
+3. La valoración de los resultados derivados de estas decisiones y acuerdos constituirá el punto de partida de la siguiente sesión de evaluación continua o de evaluación ordinaria, según proceda.
+4. En las sesiones de evaluación continua se acordará la información que, sobre el proceso personal de aprendizaje seguido, se transmitirá al alumnado y a las familias, de acuerdo con lo recogido en el Proyecto educativo del centro y en la normativa que resulte de aplicación. Esta información deberá indicar las posibles causas que inciden en el proceso de aprendizaje y en el progreso educativo del alumnado, así como, en su caso, las recomendaciones u orientaciones para su mejora.
+5. Los resultados de estas sesiones se recogerán en la correspondiente acta y se expresarán en los términos cualitativos: Insuficiente (IN), para las calificaciones negativas y Suficiente (SU), Bien (BI), Notable (NT) o Sobresaliente (SB), para las calificaciones positivas.
+6. Asimismo, para orientar a las familias se entregará a los padres, madres o personas que ejerzan la tutela legal del alumnado un boletín de calificaciones que tendrá carácter informativo y contendrá tanto calificaciones cualitativas como cuantitativas, expresadas en los términos Insuficiente (IN): 1, 2, 3 o 4. Suficiente (SU): 5. Bien (BI): 6. Notable (NT): 7 u 8. Sobresaliente (SB): 9 o 10.
+7. La persona que ejerza la tutoría de cada grupo levantará acta del desarrollo de las sesiones en la que se harán constar las decisiones y los acuerdos adoptados, así como las medidas de atención a la diversidad y a las diferencias individuales aplicadas.
 
-**3.2.** Los criterios de evaluación recogidos en el punto anterior se aplicarán con la siguiente ponderación:
-a) El criterio a) supondrá el 40% de la valoración.
-b) Los criterios b), c), d) y e) supondrán en conjunto el 30% de la valoración.
+### Artículo 13. Evaluación a la finalización de cada curso.
 
-c) Los criterios f), g), h), i) supondrán en conjunto el 15% de la valoración.
-d) Los criterios j), k), l) y m) supondrán en conjunto el 15% de la valoración.
+1. Al término de cada curso de la etapa, se valorará el progreso del alumnado en las diferentes áreas por parte del equipo docente en una única sesión de evaluación ordinaria.
+2. Son sesiones de evaluación ordinaria las reuniones del equipo docente de cada grupo coordinadas por la persona que ejerza la tutoría y, en ausencia de esta, por la persona que designe la dirección del centro, donde se decidirá sobre la evaluación final del alumnado. En esta sesión se adoptarán decisiones de manera consensuada y colegiada, orientadas a la mejora de los procesos de enseñanza y aprendizaje y de la propia práctica docente. En caso de que no exista consenso, las decisiones se tomarán por mayoría cualificada de dos tercios de los integrantes del equipo docente. Para el desarrollo de estas sesiones, el equipo docente podrá recabar el asesoramiento del equipo de orientación educativa del centro. Esta sesión tendrá lugar una vez finalizado el período lectivo y antes de que finalice el mes de junio.
+3. En las sesiones de evaluación ordinaria, el profesor o profesora responsable de cada área decidirá la calificación de la misma. Esta calificación ha de ser establecida tomando como referencia la superación de las competencias específicas del área. Para ello, se tendrán como referentes los criterios de evaluación, a través de los cuales se valorará el grado de consecución de las competencias específicas.
+4. Teniendo en cuenta lo establecido en el artículo 26.3 del Real Decreto 157/2022, de 1 de marzo, en el caso de los ámbitos que integren distintas áreas, el resultado de la evaluación se expresará mediante una única calificación, sin perjuicio de los procedimientos que puedan establecerse para mantener informados de su evolución en las diferentes áreas al alumnado y a sus padres, madres o personas que ejerzan su tutela legal.
+5. En la sesión de evaluación ordinaria, se acordará la información que, sobre el proceso personal de aprendizaje seguido, se transmitirá al alumnado y a las familias, de acuerdo con lo recogido en el Proyecto educativo del centro y en la normativa que resulte de aplicación. Esta información deberá indicar las posibles causas que inciden en el proceso de aprendizaje y en el progreso educativo del alumnado, así como, en su caso, las recomendaciones u orientaciones para su mejora.
+6. Como resultado de las sesiones de evaluación ordinaria se entregará a los padres, madres o personas que ejerzan la tutela legal del alumnado un boletín de calificaciones con carácter informativo en los términos establecidos en el artículo 12.6.
+7. La persona que ejerza la tutoría de cada grupo levantará acta del desarrollo de las sesiones en la que se harán constar además de las calificaciones, expresadas en los términos establecidos en el artículo 12.5, las decisiones y los acuerdos adoptados, así como las medidas de atención a la diversidad y a las diferencias individuales aplicadas a cada alumno o alumna.
+8. Los resultados de las áreas no superadas de cursos anteriores se consignarán, igualmente, en las actas de evaluación, en el expediente y en el historial académico del alumnado.
+9. Al finalizar la etapa, a juicio del equipo docente, cuando un alumno o alumna demuestre que ha alcanzado un desarrollo académico excelente, se le otorgará Mención Honorífica por área. Esta circunstancia deberá quedar reflejada en el Informe final de etapa, así como en el Expediente y en el Historial académico del alumnado. Los centros docentes establecerán en su Proyecto educativo el procedimiento de concesión de la Mención Honorífica.
 
-#### Décimo. Efectos de la presente resolución.
+### Artículo 14. Evaluación de diagnóstico.
 
-Consejería de Desarrollo Educativo y Formación Profesional Dirección General de Tecnologías Avanzadas y Transformación Educativa SOLICITUD (Página de PREMIO "FLAMENCO EN EL AULA" A LA ELABORACIÓN DE MATERIALES CURRICULARES Y RECURSOS DIDACTICOS. (Código procedimiento: 6451) Resolución de de de (BOJA nº de fecha
+1. De conformidad con lo establecido en el artículo 13 del Decreto 101/2023, de 9 de mayo, en el cuarto curso de Educación Primaria todos los centros realizarán una Evaluación de diagnóstico de las competencias adquiridas por el alumnado. Esta evaluación no tendrá efectos académicos y tendrá carácter informativo, formativo y orientador para los centros, para el profesorado, para el alumnado y sus familias o personas que ejerzan su tutela legal y para el conjunto de la comunidad educativa.
+2. El Claustro de profesorado realizará un análisis tanto del proceso llevado a cabo como del nivel competencial del alumnado. Dicho análisis será elevado al Consejo escolar para su conocimiento.
 
-1. DATOS DEL MATERIAL CURRICULAR O RECURSO DIDÁCTICO Y DE LA PERSONA REPRESENTANTE
-TÍTULO:
-APELLIDOS Y NOMBRE DE LA PERSONA QUE PRESENTA LA SOLICITUD:
-SEXO:
-H
-**M**
-DNI/NIE/NIF:
-DOMICILIO:
-TIPO DE VÍA: NOMBRE DE LA VÍA:
-KM EN LA VÍA:
-NÚMERO:
-CALIFICADOR DE NÚMERO (LETRA): BLOQUE:
-PORTAL:
-ESCALERA:
-PLANTA:
-PUERTA:
-ENTIDAD DE POBLACIÓN:
-PROVINCIA:
-CÓD. POSTAL:
-TELÉFONO:
-FAX:
-CORREO ELECTRÓNICO:
+## Sección 3.ª Evaluación del alumnado con necesidad específica de apoyo educativo
 
-2. DOCUMENTACIÓN Material curricular o recurso didáctico presentado en formato digital, en el que no debe aparecer ningún dato identificativo de sus autores o autoras ni de sus centros de trabajo. Ficha descriptiva con las características más relevantes del trabajo, con una extensión máxima de veinte líneas o dos mil caracteres. Declaración firmada por los autores y autoras, o por el profesorado responsable en el caso de participación del alumnado, en la que se exprese que el trabajo es original y no ha sido comercializado ni premiado anteriormente. Declaración formal de cesión previa de los derechos de difusión y publicación a la Consejería competente en materia de educación.
 
-3. DECLARACIÓN, LUGAR, FECHA Y FIRMA La persona firmante como responsable o representante de la autoría del material curricular o recurso educativo que presenta, DECLARA bajo su responsabilidad que son ciertos cuantos datos figuran en la presente solicitud, así como en la documentación adjunta y 1º. Que el trabajo presentado es original y no ha sido comercializado ni premiado anteriormente. 2º. Que autoriza a la Consejería competente en materia de educación de la Junta de Andalucía para la reproduccíón, alojamiento en sus servidores, difusión y, en su caso, publicación del material presentado. 3º. Que se cumplen los requisitos exigidos en las bases reguladoras de la convocatoria. 4º. Que cuenta con autorización o licencia para el uso, difusión y publicación de los textos, imágenes, recursos multimedia y aplicaciones informáticas que se incluyen en el material presentado. Se compromete a presentar la correspondiente acreditación documental en caso de que le sea requerida y SOLICITA participar en la presente convocatoria del Premio "Flamenco en el Aula" a la elaboración de materiales curriculares y recursos didácticos. En a de de Fdo.:
-ILMO./A. SR./A. DIRECTOR/A GENERAL DE TECNOLOGÍAS AVANZADAS Y TRANSFORMACIÓN EDUCATIVA Código Directorio Común de Unidades Orgánicas y Oficinas:
-002235/6
+### Artículo 15. Principios y medidas para la evaluación del alumnado con necesidad específica de apoyo educativo.
 
-## Anexo I. A 0 1 0 2 5 7 9 4
+1. La evaluación del alumnado con necesidad específica de apoyo educativo que curse las enseñanzas correspondientes a Educación Primaria se regirá por el principio de normalización e inclusión, y asegurará su no discriminación, así como la igualdad efectiva en el acceso y la permanencia en el Sistema Educativo, para lo cual se tendrán en cuenta las medidas de atención a la diversidad y a las diferencias individuales contempladas en esta Orden y en el resto de la normativa que resulte de aplicación.
+2. En función de lo establecido en el artículo 18 del Decreto 101/2023, de 9 de mayo, se establecerán las medidas más adecuadas, tanto de acceso como de adaptación de las condiciones de realización de las evaluaciones, para que las mismas se apliquen al alumnado con necesidad específica de apoyo educativo conforme a lo recogido en su correspondiente Informe de evaluación psicopedagógica. Entre estas medidas se destaca la adaptación del formato de las pruebas de evaluación y la ampliación del tiempo para la ejecución de las mismas o la utilización de diferentes procedimientos de evaluación que tengan en cuenta la variedad de formas de registrar las competencias adquiridas. Estas adaptaciones en ningún caso se tendrán en cuenta para minorar las calificaciones obtenidas.
+3. La decisión sobre la evaluación y la promoción del alumnado con necesidad específica de apoyo educativo será competencia del equipo docente, asesorado por el equipo de orientación educativa y teniendo en cuenta la tutoría compartida, en su caso, a la que se refiere la normativa reguladora de la organización y el funcionamiento de los centros docentes. Asimismo, se atenderá a lo recogido en el artículo 13.2.
+4. La evaluación del alumnado con adaptaciones curriculares significativas en algún área se realizará tomando como referente los elementos curriculares establecidos en dichas adaptaciones definidas en el artículo 36. En estos casos, en los documentos oficiales de evaluación se especificará que la calificación en las áreas adaptadas hace referencia a los criterios de evaluación recogidos en dicha adaptación y no a los específicos del curso en el que esté escolarizado el alumnado.
+5. En la evaluación del alumnado que se incorpore tardíamente al Sistema Educativo y que, por presentar graves carencias en la comunicación lingüística en lengua española, reciba una atención específica en este ámbito, se tendrá en cuenta los informes que, a tales efectos, elabore el profesorado responsable de dicha atención.
+6. El alumnado escolarizado en el curso inmediatamente inferior al que le correspondería por edad, al que se refiere el artículo 17.3 del Decreto 101/2023, de 9 de mayo, se podrá incorporar al grupo correspondiente a su edad, cuando a juicio de la persona que ejerza la tutoría, con el acuerdo del equipo docente y asesorado por el equipo de orientación educativa, haya superado el desfase curricular que presentaba. En caso de desacuerdo del equipo docente, la decisión se tomará por mayoría simple de votos.
 
-(Página de INFORMACIÓN BÁSICA SOBRE PROTECCIÓN DE DATOS En cumplimiento de lo dispuesto en el Reglamento General de Protección de Datos, le informamos que:
-a) El Responsable del tratamiento de sus datos personales es la Dirección General de Tecnologías Avanzadas y Transformación Educativa cuya dirección es c/ Juan Antonio de Vizarrón, s/n. Edificio Torretriana. Isla de la Cartuja. 41092 Sevilla y correo electrónico: dgtec.cdefp@juntadeandalucia.es
-b) Podrá contactar con el Delegado de Protección de Datos en la dirección electrónica dpd.ced@juntadeandalucia.es
-c) Los datos personales que nos indica se incorporan a la actividad de tratamiento CED-Premios a la innovación educativa, con la finalidad de la gestión de los premios a la innovación y mejora de la práctica educativa; la licitud de dicho tratamiento se basa en en el art. 6.1. c) del RGPD.
-d) Puede usted ejercer sus derechos de acceso, rectificación, supresión, portabilidad de sus datos, y la limitación u oposición a su tratamiento y a no ser objeto de decisiones individuales automatizadas, como se explica en la siguiente dirección electrónica:
-e) No están previstas cesiones de datos, salvo a posibles encargados de tratamiento por cuenta del responsable del mismo, o de las derivadas de obligación legal. La información adicional detallada se encuentra disponible en la siguiente dirección electrónica:
-002235/6
+## Sección 4.ª Promoción del alumnado
 
-## Anexo I. Consejería de Desarrollo Educativo y Formación Profesional Dirección General de Tecnologías Avanzadas y Transformación Educativa SOLICITUD (Página de PREMIO "FLAMENCO EN EL AULA" AL RECONOCIMIENTO DE EXPERIENCIAS Y BUENAS PRÁCTICAS DOCENTES. (Código procedimiento: 6451) Resolución de de de (BOJA nº de fecha
 
-1. DATOS DE LA CANDIDATURA PROPUESTA Y DE LA PERSONA QUE PRESENTA LA SOLICITUD Candidatura al Premio "Flamenco en el aula" al reconocimiento de experiencias y buenas prácticas docentes:
-CENTRO DOCENTE CÓDIGO:
-LOCALIDAD:
-PROVINCIA:
-PROFESORADO NOMBRE Y APELLIDOS/CENTRO DOCENTE AL QUE PERTENECE:
-ALUMNADO NOMBRES Y APELLIDOS/CENTRO DOCENTE AL QUE PERTENECE:
-OTRO COLECTIVO NOMBRE Y APELLIDOS/CENTROS DOCENTES AL QUE PERTENECEN SUS MIEMBROS:
-LA PERSONA QUE PRESENTA LA SOLICITUD LO HACE EN REPRESENTACIÓN DE:
-CENTRO DOCENTE NOMBRE DEL CENTRO:
-CÓDIGO:
-CENTRO DEL PROFESORADO NOMBRE DEL CEP:
-CÓDIGO:
-ENTIDAD RELACIONADA CON EL MUNDO DEL FLAMENCO NOMBRE DE LA ENTIDAD:
-DATOS DE LA PERSONA QUE PRESENTA LA SOLICITUD APELLIDOS Y NOMBRE :
-SEXO:
-H
-**M**
-DNI/NIE/NIF:
-DOMICILIO:
-TIPO DE VÍA: NOMBRE DE LA VÍA:
-NÚMERO:
-CALIFICADOR DE NÚMERO (LETRA): KM EN LA VÍA:
-BLOQUE:
-PORTAL:
-ESCALERA:
-PLANTA:
-PUERTA:
-ENTIDAD DE POBLACIÓN:
-PROVINCIA:
-CÓD. POSTAL:
-TELÉFONO:
-FAX:
-CORREO ELECTRÓNICO:
-002238/6
+### Artículo 16. Promoción del alumnado.
 
-## Anexo II. (Página de
+1. Según lo establecido en el artículo 12 del Decreto 101/2023, de 9 de mayo, al finalizar cada uno de los ciclos de la etapa y como consecuencia del proceso de evaluación, el equipo docente, de manera colegiada, adoptará las decisiones correspondientes sobre la promoción del alumnado, tomando especialmente en consideración la información y el criterio de la persona que ejerza la tutoría y con el asesoramiento del equipo de orientación educativa. En caso de que no exista consenso, las decisiones se tomarán por mayoría cualificada de dos tercios de los integrantes del equipo docente. Para la toma de decisiones se tendrán en cuenta los criterios de promoción que deberán ir referidos al grado de desarrollo de los descriptores operativos del perfil competencial de cada ciclo establecidos en el Proyecto educativo del centro. Para ello se tendrán como referentes los criterios de evaluación, a través de los cuales se medirá el grado de consecución de las competencias específicas.
+2. Para orientar la toma de decisiones de los equipos docentes, se tendrán en consideración los siguientes criterios de manera conjunta:
+a) La evolución positiva del alumnado en todas las actividades de evaluación propuestas.
+b) Que tras la aplicación de medidas de atención a la diversidad y a las diferencias individuales el alumnado haya participado activamente con implicación, atención y esfuerzo.
+3. Quienes promocionen sin haber superado todas las áreas seguirán un programa de refuerzo del aprendizaje que se podrá elaborar de manera individual para cada una de las áreas no superadas, o se podrá integrar en un único programa, si el equipo docente lo considera necesario y así se recoge en el Proyecto educativo del centro. El equipo docente revisará periódicamente la aplicación personalizada de las medidas propuestas en los mismos, al menos, al finalizar cada trimestre escolar y en todo caso, al finalizar el curso.
+4. La permanencia de un año más en un mismo curso deberá ir acompañada de un programa de refuerzo del aprendizaje que versará sobre las competencias específicas de las áreas no desarrolladas el curso anterior.
+5. Estos programas de refuerzo del aprendizaje deberán contener los elementos curriculares necesarios para que puedan ser evaluables.
+6. La aplicación y evaluación de dichos programas de refuerzo del aprendizaje serán realizadas, preferentemente, por la persona que ejerza la tutoría del curso al que pertenezca el alumnado.
+7. Se podrá repetir una sola vez durante la etapa. La repetición se considerará una medida de carácter excepcional y se tomará tras haber agotado el resto de medidas de atención a la diversidad y a las diferencias individuales para solventar las dificultades de aprendizaje del alumnado.
+8. Los centros docentes especificarán en sus Proyectos educativos los criterios y procedimientos de evaluación y promoción a los que se refiere el artículo 9.7, incluyendo la forma en la que los padres, madres o personas que ejerzan la tutela legal del alumnado puedan ser oídos para la adopción de la decisión de promoción.
+9. Tal y como establece el artículo 17.5 del Decreto 101/2023, de 9 de mayo, la escolarización del alumnado con altas capacidades intelectuales se flexibilizará de conformidad con la normativa vigente, de forma que pueda reducirse la duración de la misma, cuando se prevea que dicha medida es la más adecuada para su desarrollo personal y social.
 
-2. DOCUMENTACIÓN Ficha descriptiva con las características más relevantes del trabajo. Memoria justificativa y desarrollo de la actividad Documentos de apoyo a la candidatura por parte de otras entidades en el caso de existir
+## Sección 5.ª Documentos oficiales e informes de evaluación
 
-3. DECLARACIÓN, LUGAR, FECHA Y FIRMA La persona firmante como responsable o representante de la autoría del material curricular o recurso educativo que presenta, DECLARA bajo su responsabilidad que son ciertos cuantos datos figuran en la presente solicitud, así como en la documentación adjunta y 1º. Que el trabajo presentado es original y no ha sido comercializado ni premiado anteriormente. 2º. Que autoriza a la Consejería competente en materia de educación de la Junta de Andalucía para la reproduccíón, alojamiento en sus servidores, difusión y, en su caso, publicación del material presentado. 3º. Que se cumplen los requisitos exigidos en las bases reguladoras de la convocatoria. 4º. Que cuenta con autorización o licencia para el uso, difusión y publicación de los textos, imágenes, recursos multimedia y aplicaciones informáticas que se incluyen en el material presentado. Se compromete a presentar la correspondiente acreditación documental en caso de que le sea requerida y SOLICITA participar en la presente convocatoria del Premio "Flamenco en el Aula" al reconocimiento de experiencias y buenas prácticas docentes:
-En a de de Fdo.:
-ILMO./A. SR./A. DIRECTOR/A GENERAL DE TECNOLOGÍAS AVANZADAS Y TRANSFORMACIÓN EDUCATIVA Código Directorio Común de Unidades Orgánicas y Oficinas:
-INFORMACIÓN BÁSICA SOBRE PROTECCIÓN DE DATOS En cumplimiento de lo dispuesto en el Reglamento General de Protección de Datos, le informamos que:
-a) El Responsable del tratamiento de sus datos personales es la Dirección General de Tecnologías Avanzadas y Transformación Educativa cuya dirección es c/ Juan Antonio de Vizarrón, s/n. Edificio Torretriana. Isla de la Cartuja. 41092 Sevilla y correo electrónico: dgtec.cdefp@juntadeandalucia.es
-b) Podrá contactar con el Delegado de Protección de Datos en la dirección electrónica dpd.ced@juntadeandalucia.es
-c) Los datos personales que nos indica se incorporan a la actividad de tratamiento CED-Premios a la innovación educativa, con la finalidad de la gestión de los premios a la innovación y mejora de la práctica educativa; la licitud de dicho tratamiento se basa en en el art. 6.1. c) del RGPD.
-d) Puede usted ejercer sus derechos de acceso, rectificación, supresión, portabilidad de sus datos, y la limitación u oposición a su tratamiento y a no ser objeto de decisiones individuales automatizadas, como se explica en la siguiente dirección electrónica:
-e) No están previstas cesiones de datos, salvo a posibles encargados de tratamiento por cuenta del responsable del mismo, o de las derivadas de obligación legal. La información adicional detallada se encuentra disponible en la siguiente dirección electrónica:
-002238/6
 
-## Anexo II. A 0 1 0 2 5 7 9 4
+### Artículo 17. Documentos oficiales de evaluación.
 
----
+1. Los documentos oficiales de evaluación son: las actas de evaluación, el expediente académico, el historial académico, el Informe final de etapa y, en su caso, el informe personal por traslado, de conformidad con el artículo 14 del Decreto 101/2023, de 9 de mayo.
+2. El historial académico y, en su caso, el informe personal por traslado se consideran documentos básicos para garantizar la movilidad del alumnado por todo el territorio nacional.
+3. En los documentos oficiales de evaluación y en lo referente a la obtención, tratamiento, seguridad y confidencialidad de los datos personales del alumnado y a la cesión de los mismos de unos centros docentes a otros se estará a lo dispuesto en la legislación vigente en materia de protección de datos de carácter personal y, en todo caso, a lo establecido en la disposición adicional vigesimotercera de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+4. La custodia y archivo de los documentos oficiales de evaluación corresponde a la secretaría del centro docente. Los documentos oficiales de evaluación serán visados por la persona que ejerza la dirección del centro y en ellos se consignarán las firmas de las personas que correspondan en cada caso, junto a las que constará el nombre y los apellidos de la persona firmante, así como el cargo o atribución docente, todo ello teniendo en cuenta lo dispuesto sobre gestión documental en el Decreto 622/2019, de 27 de diciembre, de administración electrónica, simplificación de procedimientos y racionalización organizativa de la Junta de Andalucía. Estos documentos oficiales serán supervisados por la Inspección educativa.
 
-## Relaciones Normativas y Fundamentos de Derecho
+### Artículo 18. Actas de evaluación.
 
-### Estructura y Concordancias Granulares
-- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 16, Art. 35)
-- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 19, Art. 15, Art. 88)
-- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 123, Art. 124, Art. 10, Art. 46)
-- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 16)
-- **Fundamentado en**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md)
-- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-- **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (Art. 23)
+1. Las actas de evaluación, reguladas en el artículo 26 del Real Decreto 157/2022, de 1 de marzo, se ajustarán a los modelos que se incluyen como Anexo VI.a, se extenderán para cada uno de los cursos y se cerrarán al término del período lectivo ordinario.
+2. Las actas de evaluación comprenderán la relación nominal del alumnado que compone cada grupo junto con los resultados de la evaluación de las áreas o ámbitos del curso y las decisiones adoptadas sobre promoción y permanencia.
+3. Los resultados de la evaluación de cada área se expresarán como Insuficiente (IN), para las calificaciones negativas y Suficiente (SU), Bien (BI), Notable (NT) o Sobresaliente (SB), para las calificaciones positivas, tal y como se recoge en el artículo 26 del Real Decreto 157/2022, de 1 de marzo.
+4. En el caso de los ámbitos que integren distintas áreas el resultado de la evaluación se expresará mediante una única calificación, sin perjuicio de los procedimientos que puedan establecerse para mantener informados de su evolución en las diferentes áreas al alumnado y a sus padres, madres, o personas que ejerzan su tutela legal.
+5. Cuando el alumnado recupere un área no superada de los cursos anteriores, la calificación obtenida se hará constar en el acta de evaluación del curso en el que supere dicha área.
+6. Las actas de evaluación serán firmadas por la persona que ejerza la tutoría del grupo, con el visto bueno de la persona que ejerza la dirección, y serán archivadas y custodiadas en la secretaría del centro.
+
+### Artículo 19. Expediente académico.
+
+1. El expediente académico, regulado en el artículo 27 del Real Decreto 157/2022, de 1 de marzo, se ajustará al modelo que se incluye como Anexo VI.b y es el documento oficial que refleja la información relativa al proceso de evaluación y promoción.
+2. El expediente académico incluirá los datos de identificación del centro docente y del alumno o alumna, los resultados de la evaluación de las áreas, las decisiones adoptadas sobre promoción, las medidas de atención a la diversidad y a las diferencias individuales que se hayan aplicado y las fechas en que se hayan producido los diferentes hitos.
+3. En el caso de que existan áreas que hayan sido cursadas de forma integrada en un ámbito, en el expediente figurará, junto con la denominación de dicho ámbito, la indicación expresa de las áreas integradas en el mismo.
+
+### Artículo 20. Historial académico.
+
+1. El historial académico del alumnado, regulado en el artículo 28 del Real Decreto 157/2022, de 1 de marzo, se ajustará al modelo que se incluye como Anexo VI.c, y tendrá valor acreditativo de los estudios realizados. Como mínimo recogerá los datos identificativos del alumno o alumna, las áreas cursadas en cada uno de los años de escolarización, las medidas de atención a la diversidad y a las diferencias individuales aplicadas, los resultados de la evaluación, las decisiones sobre promoción y permanencia, la información relativa a los cambios de centro y las fechas en que se han producido los diferentes hitos.
+2. Con objeto de garantizar la movilidad del alumnado, cuando varias áreas hayan sido cursadas integradas en un ámbito, se hará constar en el historial la calificación obtenida en cada una de ellas. Esta calificación será la misma que figure en el expediente para el ámbito correspondiente.
+3. Al finalizar la etapa, el historial académico se entregará a los padres, madres o personas que ejerzan la tutela legal del alumno o alumna y, en cualquier caso, al terminar su escolarización en la enseñanza en régimen ordinario. Esta circunstancia se hará constar en el expediente académico.
+4. Asimismo, se enviará una copia del historial académico y del Informe final de etapa al Instituto de educación secundaria en el que vaya a proseguir sus estudios el alumno o alumna, previa petición de dicho centro.
+
+### Artículo 21. Informe final de etapa.
+
+Los centros docentes emitirán un informe final de etapa, cumplimentado por la persona que ejerza la tutoría de cada grupo, según lo establecido en el artículo 15.5 del Real Decreto 157/2022, de 1 de marzo, y el artículo 12.4 del Decreto 101/2023, de 9 de mayo, que se ajustará al modelo que se incluye como Anexo VI.d e incluirá los datos de identificación del centro docente y del alumnado, las calificaciones obtenidas en cada una de las áreas a lo largo de la etapa, así como el grado de desarrollo de las competencias tomando como referente el Perfil competencial al finalizar el tercer ciclo, la aplicación y la valoración de las medidas de atención a la diversidad y a las diferencias individuales que se estimen necesarias para cada área, así como la información relevante para la transición a la etapa de Educación Secundaria Obligatoria.
+
+### Artículo 22. Informe personal por traslado.
+
+1. El informe personal por traslado, regulado en el artículo 29 del Real Decreto 157/2022, de 1 de marzo, se ajustará al modelo que se incluye como Anexo VI.e y es el documento oficial que recogerá la información que resulte necesaria para garantizar la continuidad del proceso de aprendizaje del alumnado cuando se traslade a otro centro docente sin haber finalizado la etapa.
+2. Será cumplimentado por la persona que ejerza la tutoría del alumnado en el centro de origen a partir de la información facilitada por el equipo docente.
+3. En el caso de que el alumnado se traslade a otro centro antes de finalizar la etapa, el centro de origen deberá remitir al de destino y a petición de este el informe personal por traslado, junto a una copia del historial académico. Una vez recibidos debidamente cumplimentados dichos documentos, la matriculación en el centro docente de destino adquirirá carácter definitivo y se procederá a abrir el correspondiente expediente académico.
+4. El informe personal por traslado contendrá los resultados de las evaluaciones que se hubieran realizado, la aplicación, en su caso, de medidas de atención a la diversidad y a las diferencias individuales y todas aquellas observaciones que se consideren oportunas acerca del progreso general del alumno o alumna.
+
+### Artículo 23. Informe final de ciclo.
+
+1. Teniendo en cuenta el artículo 12.3 del Decreto 101/2023, de 9 de mayo, al finalizar cada uno de los ciclos, la persona que ejerza la tutoría emitirá un informe sobre el grado de adquisición de las competencias clave del alumnado, indicando en su caso las medidas de refuerzo que se deben contemplar en el ciclo o etapa siguiente.
+2. El informe al que se refiere este artículo sobre el grado de adquisición de las competencias clave por cada alumno o alumna al finalizar cada ciclo tendrá como referente el Perfil competencial al finalizar cada uno de los ciclos de la etapa de Educación Primaria.
+3. Los datos más relevantes de estos informes se incorporarán al expediente e historial académico del alumno o alumna en un apartado habilitado a tal efecto.
+
+## Sección 6.ª Procedimientos de aclaración y revisión
+
+
+### Artículo 24. Procedimiento de aclaración.
+
+Los padres, madres o personas que ejerzan la tutela legal del alumnado podrán solicitar las aclaraciones que consideren necesarias acerca de la evaluación continua y final del aprendizaje de sus hijos e hijas, así como sobre la decisión de promoción, de acuerdo con los cauces y el procedimiento que, a tales efectos, determine el centro docente en su Proyecto educativo. Dicho procedimiento deberá respetar los derechos y deberes del alumnado y de sus familias contemplados en la normativa en vigor.
+
+### Artículo 25. Procedimiento de revisión.
+
+1. Los padres, madres o personas que ejerzan la tutela legal del alumnado podrán formular solicitud de revisión sobre la evaluación final del aprendizaje, así como sobre la decisión de promoción. A tales efectos, los centros docentes establecerán el procedimiento de revisión en su Proyecto educativo que, en todo caso, deberá respetar los derechos y deberes del alumnado y de sus familias contemplados en la normativa en vigor.
+2. Sin perjuicio de lo establecido por los centros docentes en sus Proyectos educativos, la solicitud de revisión se presentará en primera instancia ante la persona que ejerza la tutoría del alumnado y si persistiera el desacuerdo, se podrá presentar por escrito ante la dirección del centro, que deberá dar una respuesta motivada al reclamante antes de que finalice el curso escolar.
+
+## CAPÍTULO IV
+
+Atención a la diversidad y a las diferencias individuales
+
+## Sección 1.ª Disposiciones de carácter general
+
+
+### Artículo 26. Concepto y principios generales de actuación.
+
+1. Atendiendo al artículo 17 del Decreto 101/2023, de 9 de mayo, la atención a la diversidad y a las diferencias individuales en la etapa de Educación Primaria se orientará a garantizar una educación de calidad que asegurará la equidad e inclusión educativa y a atender a la compensación de los efectos que las desigualdades de origen cultural, social y económico pueden tener en el aprendizaje. Las medidas organizativas, metodológicas y curriculares que se adopten se regirán por los Principios del Diseño Universal para el Aprendizaje (DUA), presentando al alumnado la información en soporte adecuado a sus características, facilitando múltiples formas de acción y expresión, teniendo en cuenta sus capacidades de expresión y comprensión y asegurando la motivación para el compromiso y la cooperación mutua.
+2. Los principios generales de actuación para la atención a la diversidad y a las diferencias individuales son los establecidos con carácter general en el artículo 18 del Decreto 101/2023, de 9 de mayo.
+3. Los centros docentes deberán dar prioridad a la organización de las medidas de atención a la diversidad y a las diferencias individuales respecto a otras opciones organizativas para la configuración de las enseñanzas de esta etapa en el ámbito de su autonomía.
+
+## Sección 2.ª Medidas generales de atención a la diversidad y a las diferencias individuales
+
+
+### Artículo 27. Medidas generales de atención a la diversidad y a las diferencias individuales.
+
+1. Se consideran medidas generales de atención a la diversidad y a las diferencias individuales las diferentes actuaciones de carácter ordinario que, definidas por el centro en su Proyecto educativo, se orientan a lograr el desarrollo integral, a la promoción del aprendizaje y del éxito escolar de todo el alumnado a través de la utilización de recursos tanto personales como materiales con un enfoque global e inclusivo.
+2. Dado que cualquier alumno o alumna a lo largo de la etapa de Educación Primaria puede presentar necesidades educativas, transitorias o permanentes, los centros deben establecer diferentes medidas generales de atención a la diversidad y a las diferencias individuales, que podrán ser aplicadas en cualquier momento de la etapa.
+3. Estas medidas tienen como finalidad dar respuesta a los diferentes niveles de competencia curricular, motivación, intereses, estilos y ritmos de aprendizaje del alumnado, mediante la puesta en marcha de estrategias organizativas y metodológicas destinadas a facilitar la consecución de los Objetivos de la etapa y la adquisición de las competencias clave.
+4. Entre las medidas generales de atención a la diversidad y a las diferencias individuales se encuentran:
+a) Agrupación de áreas en ámbitos.
+b) Apoyo en grupos ordinarios mediante un segundo profesor o profesora dentro del aula, preferentemente para reforzar los aprendizajes en los casos del alumnado que presente desfase en su nivel curricular.
+c) Desdoblamientos de grupos.
+d) Agrupamientos flexibles. Esta medida, que tendrá un carácter temporal y abierto, en ningún caso supondrá discriminación para el alumnado.
+e) Sustitución de la Segunda Lengua Extranjera por un Área Lingüística de carácter transversal.
+f) Acción tutorial como estrategia de seguimiento individualizado y de toma de decisiones en relación con la evolución académica del proceso de aprendizaje del alumnado.
+g) Metodologías didácticas basadas en el trabajo colaborativo en grupos heterogéneos, tutoría entre iguales y aprendizaje por Proyectos que promuevan la inclusión de todo el alumnado.
+h) Actuaciones de prevención y control del absentismo.
+i) Distribución del horario lectivo de autonomía del centro entre las opciones previstas.
+j) Actuaciones de coordinación en el proceso de tránsito entre etapas que permitan la detección temprana de las necesidades del alumnado y la adopción de medidas educativas.
+
+## Sección 3.ª Programas de atención a la diversidad y a las diferencias individuales
+
+
+### Artículo 28. Programas de atención a la diversidad y a las diferencias individuales.
+
+1. Los centros docentes establecerán los siguientes programas de atención a la diversidad y a las diferencias individuales: programas de refuerzo del aprendizaje y programas de profundización.
+2. En el contexto de la evaluación continua, cuando el progreso del alumno o la alumna no sea adecuado, se establecerán programas de refuerzo del aprendizaje. Estos programas se aplicarán en cualquier momento del curso tan pronto como se detecten las dificultades y estarán dirigidos a garantizar los aprendizajes que deba adquirir el alumnado para continuar su proceso educativo.
+3. Asimismo, los centros docentes establecerán programas de profundización para el alumnado especialmente motivado para el aprendizaje o para aquel que presente altas capacidades intelectuales.
+4. Dichos programas se desarrollarán en el horario lectivo correspondiente a las áreas objeto de refuerzo o de profundización.
+5. El profesorado que lleve a cabo los programas de atención a la diversidad y a las diferencias individuales, en coordinación con la persona que ejerza la tutoría del grupo, junto con el resto del equipo docente, realizará a lo largo del curso escolar el seguimiento de la evolución del alumnado.
+6. Al menos tres veces a lo largo del curso, se informará a las familias de la evolución del alumnado al que se le apliquen dichos programas.
+
+### Artículo 29. Programas de refuerzo del aprendizaje.
+
+1. Los programas de refuerzo del aprendizaje tendrán como objetivo asegurar los aprendizajes y el desarrollo de las competencias específicas de las áreas y seguir con aprovechamiento las enseñanzas de Educación Primaria. Estarán dirigidos al alumnado que se encuentre en alguna de las situaciones siguientes:
+a) Alumnado que no haya promocionado de curso.
+b) Alumnado que, aun promocionando de curso, no supere alguna de las áreas del curso anterior.
+c) Alumnado que a juicio de la persona que ejerza la tutoría, el equipo de orientación educativa y/o el equipo docente presente dificultades en el aprendizaje que justifique su inclusión.
+d) Alumnado que presente necesidades específicas de apoyo educativo que le impidan seguir con aprovechamiento su proceso de aprendizaje. En este caso, el alumno o la alumna deberá contar con una evaluación psicopedagógica que refleje tal circunstancia, así como la necesidad de un Programa individualizado de refuerzo del aprendizaje, incluyendo al alumnado referenciado en el artículo 8.8 del Decreto 101/2023, de 9 de mayo.
+2. Como medida organizativa, se podrán desarrollar los programas de refuerzo del aprendizaje, posibilitando cursarlos en niveles inferiores al que se encuentre el alumnado. Todo ello, en función de las posibilidades organizativas de los centros. Esta medida organizativa deberá ser adecuadamente prevista en el horario lectivo de los grupos afectados.
+
+### Artículo 30. Programas de profundización.
+
+1. Los programas de profundización tendrán como objetivo ofrecer experiencias de aprendizaje que permitan dar respuesta a las necesidades que presenta el alumnado altamente motivado para el aprendizaje, así como para el que presenta altas capacidades intelectuales.
+2. Dichos programas consistirán en un enriquecimiento de los saberes básicos del currículo ordinario sin modificación de los criterios de evaluación establecidos, mediante la realización de actividades que supongan, entre otras, el desarrollo de tareas o Proyectos de investigación que estimulen la creatividad y la motivación del alumnado.
+
+### Artículo 31. Procedimiento de incorporación a los programas de atención a la diversidad y a las diferencias individuales.
+
+1. Según lo establecido en el Proyecto educativo, la persona que ejerza la tutoría y el equipo docente en la correspondiente sesión de evaluación ordinaria del curso anterior, con la colaboración, en su caso, del orientador u orientadora adscrito al centro, acordarán la aplicación de los programas de atención a la diversidad y a las diferencias individuales al alumnado que así lo precise, que será comunicada a los padres, madres o personas que ejerzan su tutela legal.
+2. Asimismo, se podrá acordar la aplicación de dichos programas al alumnado que el equipo docente considere, una vez analizada la información obtenida en la evaluación inicial o dentro de los procesos de evaluación continua.
+3. Los programas de atención a la diversidad serán compatibles con el desarrollo de otras medidas organizativas y curriculares que permitan a los centros, en el ejercicio de su autonomía, una organización de las enseñanzas adecuada a las características del alumnado.
+
+### Artículo 32. Planificación de los programas de atención a la diversidad y a las diferencias individuales.
+
+1. Se incluirán en las programaciones didácticas los programas de refuerzo del aprendizaje y los programas de profundización, de acuerdo con lo especificado en el Anexo V.
+2. Los programas de atención a la diversidad y a las diferencias individuales se desarrollarán mediante actividades y tareas motivadoras que respondan a los intereses del alumnado en conexión con su entorno social y cultural.
+
+## Sección 4.ª Medidas específicas de atención a la diversidad y a las diferencias individuales
+
+
+### Artículo 33. Medidas específicas de atención a la diversidad y a las diferencias individuales.
+
+1. Se consideran medidas específicas de atención a la diversidad y a las diferencias individuales todas aquellas propuestas y modificaciones en los elementos organizativos, curriculares y metodológicos, así como aquellas actuaciones dirigidas a dar respuesta a las necesidades educativas del alumnado con necesidades específicas de apoyo educativo que no haya obtenido una respuesta eficaz a través de las medidas generales de carácter ordinario. La propuesta de adopción de las medidas específicas será recogida en el Informe de evaluación psicopedagógica.
+2. El alumnado que presente necesidades específicas de apoyo educativo podrá requerir en algún momento de su escolaridad alguna medida específica de atención a la diversidad y a las diferencias individuales, que se aplicará de forma progresiva y gradual, siempre y cuando no se pueda ofrecer una atención personalizada con las medidas generales de carácter ordinario.
+3. Las medidas específicas de atención a la diversidad y a las diferencias individuales son aquellas que pueden implicar, entre otras, la modificación significativa de los elementos del currículo para su adecuación a las necesidades del alumnado, la intervención educativa impartida por profesorado especialista y personal complementario, o la escolarización en modalidades diferentes a la ordinaria. Entre ellas se encuentran:
+a) El apoyo dentro del aula por profesorado especialista de Pedagogía Terapéutica o Audición y Lenguaje, personal complementario u otro personal. Excepcionalmente, se podrá realizar el apoyo fuera del aula en sesiones de intervención especializada, siempre que dicha intervención no pueda realizarse en ella y esté convenientemente justificada.
+b) Las adaptaciones de acceso al currículo para el alumnado con necesidades específicas de apoyo educativo.
+c) Las adaptaciones curriculares significativas de los elementos del currículo dirigidas al alumnado con necesidades educativas especiales. La evaluación y la promoción tomarán como referencia los elementos fijados en ellas.
+d) Programas específicos para el tratamiento personalizado del alumnado con necesidades específicas de apoyo educativo.
+e) Las adaptaciones curriculares dirigidas al alumnado con altas capacidades intelectuales.
+f) La atención educativa al alumnado por situaciones personales de hospitalización o de convalecencia domiciliaria u objeto de medidas judiciales.
+4. Asimismo, se consideran medidas específicas de carácter temporal aquellas que inciden en la flexibilización temporal para el desarrollo curricular, de conformidad con lo previsto en los apartados 3, 4 y 5 del artículo 17 del Decreto 101/2023, de 9 de mayo.
+
+## Sección 5.ª Programas de adaptación curricular
+
+
+### Artículo 34. Programas de adaptación curricular.
+
+1. La escolarización del alumnado que siga programas de adaptación curricular se regirá por los principios de normalización, inclusión escolar y social, docencia compartida, flexibilización y personalización de la enseñanza.
+2. Los programas de adaptación curricular se realizarán para el alumnado con necesidad específica de apoyo educativo y requerirán una evaluación psicopedagógica previa.
+3. Los programas de adaptación curricular podrán contar con apoyo educativo, preferentemente dentro del grupo clase y, en aquellos casos en que se requiera, fuera del mismo, de acuerdo con los recursos humanos asignados al centro. La organización de estos apoyos quedará reflejada en el Proyecto educativo del centro.
+
+### Artículo 35. Adaptación de acceso al currículo.
+
+1. Las adaptaciones de acceso al currículo serán de aplicación para el alumnado con necesidades específicas de apoyo educativo, siempre que estén debidamente justificadas en la evaluación psicopedagógica del mismo. Suponen modificaciones en los elementos para la accesibilidad a la información, a la comunicación y a la participación, precisando la incorporación de recursos específicos, la modificación y habilitación de elementos físicos y, en su caso, la participación de atención o servicios educativos complementarios que faciliten el desarrollo de las enseñanzas.
+2. El diseño, la aplicación y seguimiento serán compartidas por el equipo docente y, en su caso, por el profesorado especializado para la atención del alumnado con necesidades educativas especiales.
+
+### Artículo 36. Adaptación curricular significativa.
+
+1. Las adaptaciones curriculares significativas irán dirigidas al alumnado con necesidades educativas especiales, con la finalidad de facilitar su máximo desarrollo educativo, garantizando su formación integral y el desarrollo de las competencias clave.
+2. Las adaptaciones curriculares significativas suponen la modificación de los elementos del currículo, incluidos las competencias específicas, los criterios de evaluación o incluso los Objetivos de la etapa. Se realizarán promoviendo el desarrollo integral del alumnado, garantizando la funcionalidad de los aprendizajes y la aplicación a su vida cotidiana y buscando el máximo desarrollo posible de las competencias clave.
+3. Las adaptaciones curriculares significativas podrán aplicarse cuando el alumno o alumna presente un desfase curricular de, al menos, dos cursos en el área objeto de adaptación entre el nivel de competencia curricular alcanzado y el curso en que se encuentre escolarizado.
+4. La elaboración de las adaptaciones curriculares significativas corresponderá al profesorado especializado para la atención del alumnado con necesidades educativas especiales, con la colaboración del profesorado del área encargado de su impartición, y contará con el asesoramiento de los equipos de orientación educativa.
+5. La aplicación, seguimiento, así como la evaluación de las áreas con adaptaciones curriculares significativas serán compartidas por el profesorado que las imparta y por el profesorado especializado para la atención del alumnado con necesidades educativas especiales.
+
+### Artículo 37. Adaptación curricular para el alumnado con altas capacidades intelectuales.
+
+1. Las adaptaciones curriculares para el alumnado con altas capacidades intelectuales estarán destinadas a promover su desarrollo pleno y equilibrado, contemplando propuestas curriculares de ampliación y, en su caso, de flexibilización del período de escolarización, de forma que pueda reducirse la duración de la misma, cuando se prevea que dicha medida es la más adecuada para su desarrollo personal y social.
+2. La propuesta curricular de ampliación en un área supondrá la modificación de la Programación didáctica para el alumnado que lo requiera, con la inclusión de criterios de evaluación de niveles educativos superiores, siendo posible efectuar propuestas, en función de las posibilidades de organización del centro, de cursar una o varias áreas en el nivel inmediatamente superior.
+3. La elaboración, aplicación, seguimiento y evaluación de estas adaptaciones curriculares serán responsabilidad del profesorado del área correspondiente, con el asesoramiento del equipo de orientación educativa y la coordinación de la persona que ejerza la tutoría.
+
+## CAPÍTULO V
+
+Coordinación en el tránsito entre etapas
+
+## Sección 1.ª Coordinación entre la etapa de Educación Infantil y la etapa de Educación Primaria
+
+
+### Artículo 38. Proceso de tránsito.
+
+De conformidad con lo establecido en el artículo 20.4 del Decreto 101/2023, de 9 de mayo, con objeto de garantizar una adecuada transición del alumnado de la etapa de Educación Infantil a la etapa de Educación Primaria y facilitar la continuidad de su proceso educativo y, en su caso, de las medidas educativas encaminadas a alcanzar el máximo desarrollo personal, intelectual, social y emocional que se vinieran aplicando, los centros docentes desarrollarán los mecanismos de coordinación necesarios. A tales efectos, al finalizar la etapa de Educación Infantil, la persona que ejerza la tutoría elaborará un Informe final de etapa sobre el grado de desarrollo de las competencias de cada alumno o alumna y, en su caso, de las medidas específicas aplicadas. La persona o personas que tengan atribuidas las competencias correspondientes a la jefatura de estudios coordinará las actuaciones a realizar en este ámbito, las cuales, una vez acordadas, se recogerán en el Proyecto educativo.
+
+### Artículo 39. Ámbitos de coordinación.
+
+Con el objetivo de garantizar un marco de actuación unificado y preciso que facilite la definición de tareas que han de realizar los centros de Educación Infantil y Primaria durante el proceso de tránsito, los centros docentes, en el marco de su autonomía pedagógica y organizativa, establecerán las actuaciones pertinentes para desarrollar los siguientes ámbitos de coordinación:
+a) Coordinación curricular.
+Tendrán la consideración de actuaciones prioritarias las que se desarrollen entre los equipos de ciclo de Educación Infantil y los equipos de ciclo de Educación Primaria que permitan dotar de continuidad pedagógica el proceso educativo que sigue el alumnado a lo largo de dichas etapas.
+b) Coordinación de la acción tutorial y atención a la diversidad.
+Tendrán la consideración de actuaciones de coordinación de la acción tutorial y atención a la diversidad la realización de actividades tutoriales conjuntas, el conocimiento de los espacios, la adquisición de herramientas para la resolución positiva de conflictos y el entrenamiento en habilidades básicas de educación emocional, la potenciación de la inclusión y la atención a los diferentes ritmos de aprendizaje mediante la transmisión de la información de las características del alumnado y la detección precoz de las necesidades del mismo en la etapa de Educación Infantil, de manera que se puedan adoptar lo antes posible las medidas educativas en la etapa de Educación Primaria.
+c) Coordinación del proceso de acogida de las familias.
+Tendrán la consideración de actuaciones de coordinación del proceso de acogida de las familias las actuaciones destinadas a proporcionar información sobre la nueva etapa educativa que oriente a las mismas sobre aquellos aspectos que faciliten la adaptación del alumnado a dichas etapas educativas.
+
+### Artículo 40. Equipos de tránsito.
+
+1. Con el objetivo de garantizar una adecuada transición entre la etapa de Educación Infantil y la etapa de Educación Primaria, durante el mes de septiembre, se constituirá el equipo de tránsito en los centros docentes públicos de Educación Infantil y Primaria al que ha pertenecido y/o pertenece el alumnado objeto de esta actuación. En función de las competencias que les confiere la normativa vigente, las direcciones de los centros docentes designarán a los equipos de tránsito cada curso escolar.
+2. Formarán parte de dichos equipos como mínimo:
+a) La persona o personas que tengan atribuidas las competencias correspondientes a la jefatura de estudios de los centros de Educación Infantil y Primaria.
+b) Los orientadores y orientadoras del equipo de orientación educativa adscritos a los centros de Educación Infantil y Educación Primaria.
+c) Los coordinadores y las coordinadoras del segundo ciclo de Educación Infantil y del primer ciclo de Educación Primaria.
+d) Los tutores y las tutoras de Educación Infantil de 5 años y primer curso de Educación Primaria.
+e) El profesorado especialista en Pedagogía Terapéutica y, en su caso, en Audición y Lenguaje, adscritos a los centros de Educación Infantil y Educación Primaria.
+3. La persona o personas que tengan atribuidas las competencias correspondientes a la jefatura de estudios de los centros respectivos concretarán el orden del día de dicha reunión en la que se acordarán las actuaciones a realizar para facilitar la incorporación del alumnado de Educación Infantil de 5 años a primero de Educación Primaria.
+
+### Artículo 41. Programa de actuación.
+
+1. La persona o personas que tengan atribuidas las competencias correspondientes a la jefatura de estudios de los centros respectivos concretará el calendario de las reuniones de tránsito de cada curso escolar.
+2. En el programa de tránsito se recogerán las actuaciones que se realizarán en el curso previo a la incorporación del alumnado de Educación Infantil de 5 años y continuarán a lo largo del primer trimestre del curso siguiente, es decir, una vez que el alumnado se encuentre cursando primero de Educación Primaria.
+3. Los centros de Educación Infantil y Primaria establecerán un único programa de tránsito que deberá recoger todos los ámbitos de coordinación, los objetivos, los agentes y la temporalización de cada una de las actuaciones, que cada centro adaptará en el marco de su autonomía pedagógica y organizativa según lo establecido en su Proyecto educativo.
+
+## Sección 2.ª Coordinación entre la etapa de Educación Primaria y la etapa de Educación Secundaria Obligatoria
+
+
+### Artículo 42. Proceso de tránsito.
+
+De conformidad con lo establecido en el artículo 27.4 del Decreto 102/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la etapa de Educación Secundaria Obligatoria en la Comunidad Autónoma de Andalucía, con el fin de garantizar la adecuada transición del alumnado de la etapa de Educación Primaria a la etapa de Educación Secundaria Obligatoria, los centros docentes desarrollarán los mecanismos de coordinación que favorezcan la continuidad de sus Proyectos educativos.
+
+### Artículo 43. Ámbitos de coordinación.
+
+1. La transición desde la etapa de Educación Primaria a la etapa de Educación Secundaria Obligatoria se concibe como un conjunto de actuaciones de coordinación destinadas a desarrollar la continuidad del proceso educativo entre dichas etapas, las cuales conforman la Enseñanza Básica.
+2. Con el objetivo de garantizar un marco de actuación unificado y preciso que facilite la definición de las tareas que han de realizar los centros de ambas etapas durante el proceso de tránsito, los centros docentes, en el marco de su autonomía pedagógica y organizativa, establecerán las actuaciones pertinentes para desarrollar los siguientes ámbitos de coordinación:
+a) Coordinación respecto a la organización del proceso de tránsito.
+Tendrán la consideración de actuaciones de coordinación del proceso de tránsito aquellas realizadas por las jefaturas de estudios de ambas etapas que contribuyan a potenciar los cauces de comunicación y la información sobre las características básicas de los centros, así como la definición del calendario de las reuniones de tránsito entre los centros de Educación Primaria y los centros de Educación Secundaria.
+b) Coordinación curricular.
+Tendrán la consideración de actuaciones prioritarias el establecimiento de acuerdos curriculares, organizativos y metodológicos entre los departamentos de coordinación didáctica de los centros de Educación Secundaria y los equipos de ciclo de Educación Primaria que permitan dotar de continuidad pedagógica el proceso educativo que sigue el alumnado durante su escolaridad obligatoria.
+c) Coordinación de la acción tutorial y medidas de atención a la diversidad y a las diferencias individuales.
+Tendrán la consideración de actuaciones de coordinación de la acción tutorial y medidas de atención a la diversidad: el conocimiento de las estrategias de seguimiento del alumnado en los ámbitos de convivencia y situaciones de absentismo escolar que contribuyan a la prevención del abandono temprano, la potenciación de la inclusión y la atención a los diferentes ritmos de aprendizaje, mediante la transmisión de la información de las características del alumnado y de las medidas educativas utilizadas en la etapa de Educación Primaria, de manera que se puedan adoptar lo antes posible en la etapa de Educación Secundaria Obligatoria.
+d) Coordinación del proceso de acogida de las familias.
+Tendrán la consideración de actuaciones de coordinación del proceso de acogida de las familias aquellas destinadas a proporcionar información sobre la nueva etapa educativa que oriente a las mismas sobre aquellos aspectos que faciliten la adaptación del alumnado de sexto curso de Educación Primaria a la nueva etapa educativa.
+e) Coordinación del proceso de acogida del alumnado.
+Tendrán la consideración de actuaciones de coordinación del proceso de acogida del alumnado el desarrollo de estrategias de información sobre la nueva etapa y la potenciación de la integración en el nuevo centro, de forma que contribuyan a la prevención de situaciones personales de inadaptación, aislamiento o bajo rendimiento escolar.
+
+### Artículo 44. Equipos de tránsito.
+
+1. Con el objetivo de garantizar una adecuada transición, durante el mes de septiembre se constituirá el equipo de tránsito entre los centros docentes públicos de Educación Secundaria y los centros de Educación Primaria adscritos pertenecientes a la Consejería competente en materia de educación. En función de las competencias que les confiere la normativa vigente, las direcciones de los Institutos de Educación Secundaria y de sus centros adscritos designarán a los equipos de tránsito cada curso escolar.
+2. Formarán parte de dichos equipos como mínimo:
+a) Las jefaturas de estudios de los centros de Educación Secundaria y de los centros de Educación Primaria adscritos.
+b) La persona titular de la jefatura del departamento de orientación del centro de Educación Secundaria Obligatoria y los orientadores y orientadoras del equipo de orientación educativa de los centros de Educación Primaria adscritos al mismo.
+c) Las personas titulares de las jefaturas de departamento de las materias con carácter instrumental de Educación Secundaria Obligatoria y los coordinadores y las coordinadoras del tercer ciclo de Educación Primaria.
+d) Los tutores y las tutoras de sexto curso de Educación Primaria.
+e) El profesorado especialista en Pedagogía Terapéutica y, en su caso, Audición y Lenguaje, de ambas etapas.
+
+### Artículo 45. Programa de actuación.
+
+1. La jefatura de estudios de los centros de Educación Secundaria, en coordinación con la jefatura de estudios de los centros de Educación Infantil y Primaria adscritos, concretará el calendario de las reuniones de tránsito de cada curso escolar.
+2. En el programa de tránsito se recogerán las actuaciones que se realizarán en el curso previo a la incorporación del alumnado de sexto curso de Educación Primaria a primer curso de Educación Secundaria Obligatoria y continuarán a lo largo del primer trimestre del curso siguiente, es decir, una vez que el alumnado se encuentre cursando primero de Educación Secundaria Obligatoria.
+3. Con carácter general, las actuaciones se iniciarán durante el segundo trimestre del curso anterior a la incorporación del alumnado a la nueva etapa. En el curso siguiente, una vez incorporado el alumnado a primer curso de Educación Secundaria Obligatoria, se realizarán reuniones para el análisis tanto de la evaluación inicial como de los resultados de la primera evaluación.
+4. Los Institutos de Educación Secundaria en coordinación con los centros docentes adscritos establecerán un único programa de tránsito que deberá recoger todos los ámbitos de coordinación, los objetivos, los agentes y la temporalización de cada una de las actuaciones, que cada centro adaptará en el marco de su autonomía pedagógica y organizativa según lo establecido en su Proyecto educativo.
+
+## CAPÍTULO VI
+
+Medidas de apoyo al profesorado para el desarrollo del currículo
+
+### Artículo 46. Medidas de apoyo al profesorado para el desarrollo del currículo.
+
+Con la finalidad de apoyar al profesorado para el desarrollo del currículo de Educación Primaria, desde la Consejería competente en materia de educación se adoptarán las siguientes medidas y actuaciones:
+a) Impulso a la investigación, la experimentación y la innovación educativa, incentivando la creación de equipos de profesores y profesoras, así como la colaboración con las Universidades y otras instituciones, organizaciones y entidades.
+b) Establecimiento de apoyos y facilidades al profesorado para la elaboración de materiales de desarrollo y concreción del currículo. A tales efectos, se podrán establecer convenios de colaboración con instituciones académicas, científicas y de carácter cultural.
+c) Realización de ofertas de actividades formativas dirigidas al profesorado, adecuadas a las demandas efectuadas por los centros docentes y a las necesidades que se desprendan de los programas y planes educativos establecidos en la presente Orden y de los resultados de la evaluación del alumnado, y a la correcta aplicación de las medidas de atención a la diversidad y a las diferencias individuales. Las actividades de formación permanente del profesorado tendrán como objetivo el perfeccionamiento de la práctica docente que incida en la mejora de los rendimientos educativos y en su desarrollo personal y social.
+
+### Disposición adicional única. Aplicación de la presente orden en los centros docentes privados y privados concertados.
+
+Los centros privados y los centros privados concertados adecuarán su organización a las disposiciones de esta orden relativas a la organización y funcionamiento de los centros docentes, teniendo en cuenta las especialidades de su legislación específica.
+
+### Disposición transitoria única. Calendario de aplicación.
+
+La presente orden será de aplicación a partir del curso escolar 2023/2024.
+
+### Disposición derogatoria única. Derogación normativa.
+
+1. Queda derogada la Orden de 15 de enero de 2021, por la que se desarrolla el currículo correspondiente a la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía, se regulan determinados aspectos de la atención a la diversidad, se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado y se determina el proceso de tránsito entre distintas etapas educativas.
+2. Asimismo, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente orden.
+
+### Disposición final primera. Habilitación para modificar los anexos.
+
+Se faculta a la persona titular de la Dirección General competente en materia de ordenación para modificar los anexos de la presente orden mediante resolución que habrá de publicarse en el Boletín Oficial de la Junta de Andalucía.
+
+### Disposición final segunda. Conformidad con la normativa estatal.
+
+1. El contenido de los artículos 5.1, 5.2, 5.6, 9.1, 14.1, 17.3 y 23.1 reproduce, total o parcialmente, normas dictadas por el Estado al amparo del artículo 149.1.30.ª de la Constitución Española, recogidas en los artículos 18.2, 18.3 de «Organización», 20.1, 20.3 de «Evaluación durante la etapa», 21 de la «Evaluación de diagnóstico», 75.2 de «Inclusión educativa, social y laboral» y de la Disposición adicional Vigesimotercera de los «Datos personales de los alumnos», de la Ley Orgánica 2/2006, de 3 de mayo.
+2. El contenido de los artículos 4.1, 4.5, 5.1, 5.2, 5.3, 5.6, 8.3, 8.4, 9.4, 9.6, 10.7, 12.5, 14.1, 15.1, 15.4, 15.5, 15.6, 16.1, 16.4, 16.7, 16.9, 17.1, 17.2, 17.3, 18.2, 18.4, 18.6, 19.2, 19.3, 20.2, 20.3, 20.4, 22.3, 22.4, 23.1, 27.3, 28.2, 36.2, 37.1, 38 y 42 reproduce, total o parcialmente, normas dictadas por el Estado al amparo del artículo 149.1.30.ª de la Constitución Española, recogidas en los artículos 6.8 de los «Principios pedagógicos», 8.1, 8.2, 8.4 de las «Áreas», 11.4 de «Currículo», 12.2 del «Horario», 14.2, 14.4 de la «Evaluación», 15.1, 15.3, 15.4 de la «Promoción», 16.2, 16.5 de «Atención a las diferencias individuales», 17.1, 17.2, 17.3 del «Alumnado con necesidades educativas especiales», 19.1, 19.2 del «Alumnado con integración tardía en el sistema educativo español», 20 del «Alumnado con altas capacidades intelectuales», 21.5, 21.7 de la «Autonomía de los centros», 22 de la «Evaluación de diagnóstico», 23 del «Derecho del alumnado a una evaluación objetiva», 25.1, 25.2 de los «Documentos e informes de evaluación», 26.1, 26.3, 26.4 de las «Actas de evaluación», 27.1, 27.2 del «Expediente académico», 28.2, 28.3 del «Historial académico», 29.1, 29.2 del «Informe personal por traslado», 30.2 de la «Autenticidad, seguridad y confidencialidad» y de la «Disposición adicional primera. Enseñanzas de religión», del Real Decreto 157/2022, de 1 de marzo.
+
+### Disposición final tercera. Entrada en vigor.
+
+La presente orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía.
+Sevilla, 30 de mayo de 2023
+PATRICIA DEL POZO FERNÁNDEZ
+Consejera de Desarrollo Educativo
+y Formación Profesional
+Disposición anterior
+Disposición siguiente

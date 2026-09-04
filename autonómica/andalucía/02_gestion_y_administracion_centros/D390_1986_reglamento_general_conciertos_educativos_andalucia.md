@@ -37,9 +37,7 @@ relaciones:
 
 ## Preámbulo
 
-Atención: La información contenida en estas páginas no tiene validez legal. Ver más
-
-La Ley 6/1985, de noviembre, de su artº 11, configura la relación de puestos de trabajo como instrumento de ordenación de la política de personal en la Administración de la Junta de Andalucía, estableciendo en su artº 4.2.g) que corresponde al Consejo de Gobierno su aprobación. En el Decreto 390/1986, de 10 de diciembre, se determinan las normas de elaboración y aplicación de la relación de puestos de trabajo. El cumplimiento de tales preceptos y en virtud de lo establecido en el artº 12.4 de dicha Ley, y en el artº 3 del Decreto del Presidente 130/1986, de 30 de julio, a propuesta del Consejero de Gobernación y previa deliberación del Consejo de Gobierno en su reunión del día 17 de diciembre de 1986,
+Decreto 390/1986, de 10 de diciembre, se determinan las normas de elaboración y aplicación de la relación de puestos de trabajo. El cumplimiento de tales preceptos y en virtud de lo establecido en el artº 12.4 de dicha Ley, y en el artº 3 del Decreto del Presidente 130/1986, de 30 de julio, a propuesta del Consejero de Gobernación y previa deliberación del Consejo de Gobierno en su reunión del día 17 de diciembre de 1986,
 DISPONGO:
 
 #### Artículo . #### Artículo . Quedan derogadas cuantas normas de igual o inferior rango opongan a lo previsto en el presente Decreto.

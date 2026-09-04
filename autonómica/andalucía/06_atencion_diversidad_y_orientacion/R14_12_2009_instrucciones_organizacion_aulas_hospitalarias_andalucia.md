@@ -54,7 +54,6 @@ relaciones:
 
 ## Preámbulo
 
-Sevilla, 24 de diciembre 2009 Página núm. 7 DECRETO Ley 3/2009, de 22 de diciembre, por el que se modifican diversas leyes para la transposición en Andalucía de la Directiva 2006/123/CE, de 12 de diciembre de 2006, del Parlamento Europeo y del Consejo, relativa a los servicios en el mercado interior.
 
 ## Exposición de motivos
 

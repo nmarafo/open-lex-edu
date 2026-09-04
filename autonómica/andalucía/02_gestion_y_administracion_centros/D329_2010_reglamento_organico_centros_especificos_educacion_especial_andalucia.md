@@ -371,7 +371,6 @@ relaciones:
 
 ## Preámbulo
 
-Página núm. 34 Sevilla, 16 de julio 2010 ponen. La evaluación se efectuará sobre los procesos educativos y sobre los resultados obtenidos, tanto en lo relativo a la organización, gestión y funcionamiento, como al conjunto de las actividades de enseñanza y aprendizaje.
 
 3. La Consejería competente en materia de educación publicará periódicamente las conclusiones de interés general de las evaluaciones de los institutos efectuadas por la Agencia Andaluza de Evaluación Educativa. DECRETO 328/2010, de 13 de julio, por el que se aprueba el Reglamento Orgánico de las escuelas infantiles de segundo grado, de los colegios de educación primaria, de los colegios de educación infantil y primaria, y de los centros públicos específicos de educación especial. El artículo 52 l.
 

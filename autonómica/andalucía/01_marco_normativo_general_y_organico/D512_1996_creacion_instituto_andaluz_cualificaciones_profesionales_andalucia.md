@@ -39,7 +39,6 @@ relaciones:
 
 ## Preámbulo
 
-Sevilla, 24 de diciembre 1996 Página núm.
 
 **16.785** AYUNTAMIENTO DE SEVILLA Resolución de la Comisión Ejecutiva mediante el que se convoca concurso público para la licitación de las obras que se citan. (PP. 4109/96).
 

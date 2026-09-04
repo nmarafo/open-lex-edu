@@ -30,10 +30,6 @@ relaciones: {}
 
 ## Preámbulo
 
-Número 116 - Jueves, 18 de junio de 2020
-BOJA
-1. Disposiciones generales
-Consejería de Educación y Deporte
 Orden de 10 de junio de 2020, por la que se regulan los procedimientos de
 provisión, con carácter provisional, de puestos de trabajo docentes, la movilidad
 por razón de violencia de género y víctimas de terrorismo, las bolsas de trabajo
