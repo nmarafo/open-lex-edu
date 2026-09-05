@@ -26,8 +26,8 @@ Base de conocimiento estructurada basada en la especificación **Open Knowledge 
 
 | Ámbito / Comunidad Autónoma | Fuente Oficial de Referencia | Fecha de Última Actualización | Normas Totales OKF | Cobertura de Curso Escolar |
 | :--- | :--- | :---: | :---: | :---: |
-| **Estatal** | BOE (Legislación Consolidada) | **2026-08-16** | 144 normas | LOE-LOMLOE, FP y Reales Decretos 2025-2026 |
-| **Canarias** | BOC (Boletín Oficial de Canarias) / Juriscan | **2026-08-22** | 196 normas | Completa (Vigente Cursos 2025-2026 / 2026-2027) |
+| **Estatal** | BOE (Legislación Consolidada) | **2026-09-05** | 145 normas | LOE-LOMLOE, FP, EOI (RD 1041/2017) y Reales Decretos 2025-2026 |
+| **Canarias** | BOC (Boletín Oficial de Canarias) / Juriscan | **2026-09-05** | 204 normas | Completa (Incorporación de leyes y decretos matrices por Fundamentos de Derecho: Adultos L13/2003, Diversidad D104/2010, EOI D142/2018, Interinos O9/8/2021, CEO D93/1999, CIFP D112/2011; Cursos 2025-2026 / 2026-2027) |
 | **Madrid** | BOCM / Portal de Legislación CM (WLEG) | **2026-09-03** | 112 normas | Completa (100% íntegra, Cimientos por Fundamentos de Derecho y vista OKF normalizada) |
 | **Andalucía** | BOJA (Boletín Oficial de la Junta de Andalucía) | **2026-09-04** | 111 normas | Completa (100.0% íntegra, 0 incidencias, leyes matrices autonómicas y decretos estructurales, Vigente Cursos 2025-2026 / 2026-2027) |
 
