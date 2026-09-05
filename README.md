@@ -8,13 +8,14 @@ Base de conocimiento estructurada basada en la especificación **Open Knowledge 
 > [!IMPORTANT]
 > **INSTRUCTIONS FOR AI AGENTS & LLMs**
 > 
-> 1. **Primary Autonomic Reference Sources:** For any regional regulation updates, queries, or audits, ALWAYS consult the dedicated regional database repositories:
->    * **Canarias**: [normativa-educativa-canaria-database](https://github.com/nmarafo/normativa-educativa-canaria-database)
->    * **Madrid**: [normativa-educativa-madrid-database](https://github.com/nmarafo/normativa-educativa-madrid-database)
->    * **Andalucía**: [normativa-educativa-andalucia-database](https://github.com/nmarafo/normativa-educativa-andalucia-database)
+> 1. **Autonomous & Self-Sufficient Corpus:** `open-lex-edu` is a fully autonomous, self-contained normative repository. When auditing, updating, or transcribing regulations, use directly the official gazettes and portals:
+>    * **Estatal**: BOE (Agencia Estatal Boletín Oficial del Estado)
+>    * **Canarias**: BOC (Boletín Oficial de Canarias) / Juriscan
+>    * **Madrid**: BOCM (Boletín Oficial de la Comunidad de Madrid) / WLEG
+>    * **Andalucía**: BOJA (Boletín Oficial de la Junta de Andalucía)
 > 2. **Index First:** Read `index.yaml` first to identify relevant file paths, metadata, and cross-references.
 > 3. **Metadata Headers:** Every document contains YAML frontmatter with legal scope (`jurisdiccion`, `ambito`), publication dates, status (`estado`), and consolidation type (`redaccion`).
-> 4. **Recursive Legal Citations:** When processing any regulation, audit its Preamble / *Fundamentos de Derecho* to cross-reference and add any cited foundational laws or decrees not yet present in `open-lex-edu`.
+> 4. **Recursive Legal Citations:** When processing any regulation, audit its Preamble / *Fundamentos de Derecho* to cross-reference and add any cited foundational laws or decrees directly from official sources if not yet present in `open-lex-edu`.
 > 5. **Update Timestamping:** Update the *Registro de Últimas Actualizaciones* table below whenever new regulations are added.
 <!-- AI_AGENT_INSTRUCTIONS_END -->
 
@@ -23,12 +24,12 @@ Base de conocimiento estructurada basada en la especificación **Open Knowledge 
 
 ## 📅 Registro de Últimas Actualizaciones Normativas
 
-| Ámbito / Comunidad Autónoma | Repositorio Base de Datos | Fecha de Última Actualización | Normas Totales OKF | Cobertura de Curso Escolar |
+| Ámbito / Comunidad Autónoma | Fuente Oficial de Referencia | Fecha de Última Actualización | Normas Totales OKF | Cobertura de Curso Escolar |
 | :--- | :--- | :---: | :---: | :---: |
 | **Estatal** | BOE (Legislación Consolidada) | **2026-08-16** | 144 normas | LOE-LOMLOE, FP y Reales Decretos 2025-2026 |
-| **Canarias** | [canaria-database](https://github.com/nmarafo/normativa-educativa-canaria-database) | **2026-08-22** | 196 normas | Completa (Vigente Cursos 2025-2026 / 2026-2027) |
-| **Madrid** | [madrid-database](https://github.com/nmarafo/normativa-educativa-madrid-database) | **2026-09-03** | 112 normas | Completa (100% íntegra, Cimientos por Fundamentos de Derecho y vista OKF normalizada) |
-| **Andalucía** | [andalucia-database](https://github.com/nmarafo/normativa-educativa-andalucia-database) | **2026-09-04** | 111 normas | Completa (100.0% íntegra, 0 incidencias, incorporación de leyes matrices autonómicas y decretos estructurales de función pública docente, Séneca, primer ciclo infantil y prevención de riesgos, Vigente Cursos 2025-2026 / 2026-2027) |
+| **Canarias** | BOC (Boletín Oficial de Canarias) / Juriscan | **2026-08-22** | 196 normas | Completa (Vigente Cursos 2025-2026 / 2026-2027) |
+| **Madrid** | BOCM / Portal de Legislación CM (WLEG) | **2026-09-03** | 112 normas | Completa (100% íntegra, Cimientos por Fundamentos de Derecho y vista OKF normalizada) |
+| **Andalucía** | BOJA (Boletín Oficial de la Junta de Andalucía) | **2026-09-04** | 111 normas | Completa (100.0% íntegra, 0 incidencias, leyes matrices autonómicas y decretos estructurales, Vigente Cursos 2025-2026 / 2026-2027) |
 
 ---
 
@@ -61,9 +62,9 @@ open-lex-edu/
 │   ├── 08_personal_docente/
 │   └── 09_personal_laboral_y_no_docente/
 └── autonómica/
-    ├── canarias/                       # Normativa de Canarias (canaria-database)
-    ├── madrid/                         # Normativa de Madrid (madrid-database)
-    └── andalucía/                      # Normativa de Andalucía (andalucia-database)
+    ├── canarias/                       # Normativa de la Comunidad Autónoma de Canarias (BOC / Juriscan)
+    ├── madrid/                         # Normativa de la Comunidad de Madrid (BOCM / WLEG)
+    └── andalucía/                      # Normativa de la Comunidad Autónoma de Andalucía (BOJA)
 ```
 
 ---
