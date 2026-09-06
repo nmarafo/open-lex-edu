@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 606
+total_normas: 618
 normas:
   norm-and-d154-2022:
     id: norm-and-d154-2022
@@ -1733,6 +1733,29 @@ normas:
     subcategoria: ''
     tags: []
     path: autonómica/andalucía/05_alumnado_y_servicios_escolares/DL2_2021_procedimientos_admision_alumnado_centros_docentes_andalucia.md
+  norm-and-ins-2026-02-23-admision-2026-2027:
+    id: norm-and-ins-2026-02-23-admision-2026-2027
+    codigo_sintetizado: I23_2_2026 Instrucciones Admision y Matriculacion Alumnado
+      Centros Docentes Andalucia 2026-2027
+    titulo: Instrucciones de 23 de febrero de 2026, de la Viceconsejería, sobre los
+      procedimientos de admisión y matriculación del alumnado en los centros docentes
+      sostenidos con fondos públicos para el curso escolar 2026/27.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Instrucción
+    fecha_publicacion: '2026-02-23'
+    estado: Vigente
+    redaccion: pdf_oficial_interno
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión y matriculación
+    tags:
+    - admision-alumnado
+    - matriculacion
+    - escolarizacion
+    - curso-2026-2027
+    - criterios-baremacion
+    - andalucia
+    path: autonómica/andalucía/05_alumnado_y_servicios_escolares/I23_2_2026_instrucciones_admision_matriculacion_alumnado_centros_docentes_2026_2027.md
   norm-and-o1-6-2016-criterios-procedimiento-admision-formacion-profesional-andalucia:
     id: norm-and-o1-6-2016-criterios-procedimiento-admision-formacion-profesional-andalucia
     codigo_sintetizado: ''
@@ -1871,6 +1894,32 @@ normas:
     - diversidad
     - andalucia
     path: autonómica/andalucía/06_atencion_diversidad_y_orientacion/D167_2003_atencion_alumnado_necesidades_educativas_especiales_andalucia.md
+  norm-and-ins-2026-09-01-proa-andalucia:
+    id: norm-and-ins-2026-09-01-proa-andalucia
+    codigo_sintetizado: I1_9_2026 Organizacion Funcionamiento Programa PROA Andalucia
+      2026-2027
+    titulo: Instrucciones de 1 de septiembre de 2026 de la Dirección General de Inclusión,
+      Convivencia y Participación por las que se establece la organización y el funcionamiento
+      del Programa de Refuerzo, Orientación y Apoyo en los centros docentes públicos
+      dependientes de la Consejería de Educación de la Junta de Andalucía (PROA Andalucía)
+      para el curso 2026/2027.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Instrucción
+    fecha_publicacion: '2026-09-01'
+    estado: Vigente
+    redaccion: pdf_oficial_interno
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Compensación educativa y refuerzo pedagógico
+    tags:
+    - proa-andalucia
+    - refuerzo-educativo
+    - acompanamiento-escolar
+    - compensacion-educativa
+    - atencion-a-la-diversidad
+    - curso-2026-2027
+    - andalucia
+    path: autonómica/andalucía/06_atencion_diversidad_y_orientacion/I1_9_2026_organizacion_funcionamiento_programa_refuerzo_orientacion_apoyo_proa_2026_2027.md
   norm-and-ins-28-6-2024:
     id: norm-and-ins-28-6-2024
     codigo_sintetizado: I28_6_2024 Organizacion Funcionamiento Aulas Hospitalarias
@@ -1925,6 +1974,29 @@ normas:
     subcategoria: ''
     tags: []
     path: autonómica/andalucía/06_atencion_diversidad_y_orientacion/O15_1_2021_atencion_diversidad_orientacion_educativa_andalucia.md
+  norm-and-ord-2005-09-19-absentismo:
+    id: norm-and-ord-2005-09-19-absentismo
+    codigo_sintetizado: O19_9_2005 Plan Integral Prevencion Seguimiento Control Absentismo
+      Escolar Andalucia
+    titulo: Orden de 19 de septiembre de 2005, por la que se desarrollan determinados
+      aspectos del Plan Integral para la Prevención, Seguimiento y Control del Absentismo
+      Escolar (BOJA n.º 202, de 17 de octubre de 2005).
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2005-10-17'
+    estado: Vigente
+    redaccion: pdf_oficial_boja
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Absentismo escolar y compensación educativa
+    tags:
+    - absentismo-escolar
+    - prevencion-abandono
+    - atencion-a-la-diversidad
+    - orientacion-educativa
+    - comision-absentismo
+    - andalucia
+    path: autonómica/andalucía/06_atencion_diversidad_y_orientacion/O19_9_2005_desarrollan_aspectos_plan_integral_prevencion_seguimiento_control_absentismo.md
   norm-and-o-25-7-2008:
     id: norm-and-o-25-7-2008
     codigo_sintetizado: O25_7_2008 Atencion Diversidad Educación Secundaria Obligatoria
@@ -1965,6 +2037,32 @@ normas:
     - orientador
     - andalucia
     path: autonómica/andalucía/06_atencion_diversidad_y_orientacion/O31_5_1994_regulacion_departamentos_orientacion_ies_andalucia.md
+  norm-and-res-2026-09-01-mas-equidad:
+    id: norm-and-res-2026-09-01-mas-equidad
+    codigo_sintetizado: R1_9_2026 Organizacion Funcionamiento Programa Mas Equidad
+      Andalucia 2026-2027
+    titulo: Resolución de 1 de septiembre de 2026 de la Dirección General de Inclusión,
+      Convivencia y Participación, por la que se establece la convocatoria, la organización
+      y el funcionamiento del Programa Más Equidad en los centros docentes públicos
+      dependientes de la Consejería de Educación de la Junta de Andalucía para el
+      curso 2026/2027.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: '2026-09-01'
+    estado: Vigente
+    redaccion: pdf_oficial_interno
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Atención a la diversidad y equidad educativa
+    tags:
+    - mas-equidad
+    - inclusion-educativa
+    - atencion-a-la-diversidad
+    - compensacion-educativa
+    - necesidades-especificas
+    - curso-2026-2027
+    - andalucia
+    path: autonómica/andalucía/06_atencion_diversidad_y_orientacion/R1_9_2026_organizacion_funcionamiento_programa_mas_equidad_2026_2027.md
   norm-and-d19-2007:
     id: norm-and-d19-2007
     codigo_sintetizado: ''
@@ -2004,6 +2102,119 @@ normas:
     - convivencia
     - andalucia
     path: autonómica/andalucía/07_convivencia_bienestar_y_protocolos/D85_1999_derechos_deberes_alumnado_andalucia.md
+  norm-and-ins-2023-05-15-altas-temperaturas:
+    id: norm-and-ins-2023-05-15-altas-temperaturas
+    codigo_sintetizado: I15_5_2023 Protocolo Actuacion Olas Calor Altas Temperaturas
+      Excepcionales Andalucia
+    titulo: Protocolo general de actuación en el ámbito educativo andaluz no universitario
+      ante olas de calor o altas temperaturas excepcionales.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Instrucción
+    fecha_publicacion: '2023-05-15'
+    estado: Vigente
+    redaccion: pdf_oficial_interno
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Protocolos de actuación e intervención
+    tags:
+    - altas-temperaturas
+    - olas-de-calor
+    - salud-laboral
+    - prevencion-riesgos
+    - autoproteccion
+    - andalucia
+    path: autonómica/andalucía/07_convivencia_bienestar_y_protocolos/I15_5_2023_protocolo_actuacion_olas_calor_altas_temperaturas_excepcionales.md
+  norm-and-ins-2022-07-01-bienestar-lopivi:
+    id: norm-and-ins-2022-07-01-bienestar-lopivi
+    codigo_sintetizado: I1_7_2022 Coordinacion Bienestar Proteccion Infancia Adolescencia
+      Centros Docentes Publicos Andalucia
+    titulo: Instrucciones de 1 de julio de 2022, de la Dirección General de Atención
+      a la Diversidad, Participación y Convivencia Escolar, relativa a la coordinación
+      de bienestar y protección de la infancia y adolescencia en los centros docentes
+      públicos de Andalucía.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Instrucción
+    fecha_publicacion: '2022-07-01'
+    estado: Vigente
+    redaccion: pdf_oficial_interno
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Protección del menor y convivencia
+    tags:
+    - lopivi
+    - coordinador-bienestar-y-proteccion
+    - proteccion-menor
+    - convivencia-escolar
+    - andalucia
+    path: autonómica/andalucía/07_convivencia_bienestar_y_protocolos/I1_7_2022_coordinacion_bienestar_proteccion_infancia_adolescencia_centros_publicos.md
+  norm-and-ins-2015-04-28-identidad-genero:
+    id: norm-and-ins-2015-04-28-identidad-genero
+    codigo_sintetizado: I28_4_2015 Protocolo Actuacion Identidad Genero Sistema Educativo
+      Andaluz
+    titulo: Protocolo de actuación sobre identidad de género en el sistema educativo
+      andaluz.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Instrucción
+    fecha_publicacion: '2015-04-28'
+    estado: Vigente
+    redaccion: pdf_oficial_interno
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Protocolos de actuación e intervención
+    tags:
+    - identidad-de-genero
+    - personas-transexuales
+    - no-discriminacion
+    - convivencia-escolar
+    - igualdad
+    - andalucia
+    path: autonómica/andalucía/07_convivencia_bienestar_y_protocolos/I28_4_2015_protocolo_actuacion_identidad_genero_sistema_educativo_andaluz.md
+  norm-and-ins-2023-12-04-moviles:
+    id: norm-and-ins-2023-12-04-moviles
+    codigo_sintetizado: I4_12_2023 Regulacion Uso Telefonos Moviles Centros Educativos
+      Andalucia
+    titulo: Instrucción de 4 de diciembre de 2023, de la Viceconsejería de Desarrollo
+      Educativo y Formación Profesional, sobre determinados aspectos para la regulación
+      del uso de los teléfonos móviles en los centros educativos dependientes de la
+      Consejería de Desarrollo Educativo y Formación Profesional.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Instrucción
+    fecha_publicacion: '2023-12-04'
+    estado: Vigente
+    redaccion: pdf_oficial_interno
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Convivencia escolar
+    tags:
+    - telefonos-moviles
+    - convivencia-escolar
+    - dispositivos-digitales
+    - reglamento-organizacion-funcionamiento
+    - andalucia
+    path: autonómica/andalucía/07_convivencia_bienestar_y_protocolos/I4_12_2023_regulacion_uso_telefonos_moviles_centros_educativos.md
+  norm-and-ins-2023-11-06-suicidio-autolesiones:
+    id: norm-and-ins-2023-11-06-suicidio-autolesiones
+    codigo_sintetizado: I6_11_2023 Protocolo Prevencion Conductas Suicidas y Autolesiones
+      Alumnado Andalucia
+    titulo: Guía y Protocolo de actuación para la prevención del riesgo de conductas
+      suicidas y autolesiones del alumnado en los centros educativos de Andalucía.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Instrucción
+    fecha_publicacion: '2023-11-06'
+    estado: Vigente
+    redaccion: pdf_oficial_interno
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Protocolos de actuación e intervención
+    tags:
+    - conductas-suicidas
+    - autolesiones
+    - salud-mental
+    - prevencion
+    - protocolo-actuacion
+    - lopivi
+    - andalucia
+    path: autonómica/andalucía/07_convivencia_bienestar_y_protocolos/I6_11_2023_protocolo_prevencion_conductas_suicidas_autolesiones_alumnado.md
   norm-and-l2-2014-no-discriminacion-identidad-genero-transexuales-andalucia:
     id: norm-and-l2-2014-no-discriminacion-identidad-genero-transexuales-andalucia
     codigo_sintetizado: ''
@@ -2052,6 +2263,55 @@ normas:
     subcategoria: ''
     tags: []
     path: autonómica/andalucía/07_convivencia_bienestar_y_protocolos/O20_6_2011_promocion_convivencia_mediacion_escolar_andalucia.md
+  norm-and-res-2026-09-01-violencia-genero:
+    id: norm-and-res-2026-09-01-violencia-genero
+    codigo_sintetizado: R1_9_2026 Prevencion Violencia de Genero Ambito Educativo
+      Andalucia 2026-2027
+    titulo: Resolución de 1 de septiembre de 2026 de la Dirección General de Inclusión,
+      Convivencia y Participación Educativa de convocatoria para la realización de
+      medidas y actuaciones para la prevención de la violencia de género en el ámbito
+      educativo durante el curso 2026/2027.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: '2026-09-01'
+    estado: Vigente
+    redaccion: pdf_oficial_interno
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Violencia de género y coeducación
+    tags:
+    - violencia-de-genero
+    - coeducacion
+    - prevencion
+    - igualdad-de-genero
+    - curso-2026-2027
+    - pacto-de-estado
+    - andalucia
+    path: autonómica/andalucía/07_convivencia_bienestar_y_protocolos/R1_9_2026_medidas_actuaciones_prevencion_violencia_genero_ambito_educativo_2026_2027.md
+  norm-and-res-2026-09-01-bienestar-emocional:
+    id: norm-and-res-2026-09-01-bienestar-emocional
+    codigo_sintetizado: R1_9_2026 Organizacion Funcionamiento Programa Bienestar Emocional
+      Andalucia 2026-2027
+    titulo: Resolución de 1 de septiembre de 2026, de la Dirección General de Inclusión,
+      Convivencia y Participación, por la que se establece la organización y el funcionamiento
+      del Programa de Bienestar Emocional en el ámbito educativo en los centros docentes
+      andaluces no universitarios para el curso 2026/2027.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: '2026-09-01'
+    estado: Vigente
+    redaccion: pdf_oficial_interno
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Bienestar emocional y salud mental escolar
+    tags:
+    - bienestar-emocional
+    - salud-mental-escolar
+    - coordinador-bienestar
+    - acompanamiento-emocional
+    - curso-2026-2027
+    - andalucia
+    path: autonómica/andalucía/07_convivencia_bienestar_y_protocolos/R1_9_2026_organizacion_funcionamiento_programa_bienestar_emocional_2026_2027.md
   norm-and-r26-9-2007-instrucciones-protocolos-maltrato-infantil-acoso-escolar-genero-andalucia:
     id: norm-and-r26-9-2007-instrucciones-protocolos-maltrato-infantil-acoso-escolar-genero-andalucia
     codigo_sintetizado: ''
@@ -2218,6 +2478,30 @@ normas:
     subcategoria: Formación del profesorado
     tags: []
     path: autonómica/andalucía/08_personal_docente/R20_2_2026_acreditacion_nivel_c1_competencia_digital_docente_andalucia.md
+  norm-and-res-2024-08-28-fase-practicas:
+    id: norm-and-res-2024-08-28-fase-practicas
+    codigo_sintetizado: R28_8_2024 Regulacion Organizacion Fase Practicas Cuerpos
+      Docentes Andalucia
+    titulo: Resolución de 28 de agosto de 2024, de la Dirección General del Profesorado
+      y Gestión de Recursos Humanos, por la que se regula la organización de la fase
+      de prácticas del personal seleccionado en los procedimientos selectivos para
+      el ingreso en los cuerpos docentes (BOJA n.º 169 de 30/08/2024).
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: '2024-08-30'
+    estado: Vigente
+    redaccion: pdf_oficial_boja
+    categoria_canonica: 08_personal_docente
+    subcategoria: Fase de prácticas e ingreso docente
+    tags:
+    - fase-de-practicas
+    - cuerpos-docentes
+    - ingreso-docente
+    - tutor-de-practicas
+    - evaluacion-practicas
+    - andalucia
+    path: autonómica/andalucía/08_personal_docente/R28_8_2024_organizacion_fase_practicas_cuerpos_docentes.md
   norm-and-r30-10-2025-concurso-traslados-personal-funcionario-docente-andalucia:
     id: norm-and-r30-10-2025-concurso-traslados-personal-funcionario-docente-andalucia
     codigo_sintetizado: ''
