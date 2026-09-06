@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 579
+total_normas: 582
 normas:
   norm-and-d154-2022:
     id: norm-and-d154-2022
@@ -30312,6 +30312,31 @@ normas:
     - supervision_escolar
     - madrid
     path: autonómica/madrid/04_organizacion_escolar_y_funcionamiento/R29_9_2020_plan_general_actuacion_inspeccion_educativa_madrid.md
+  norm-mad-r30-7-2026-plan-anual-actuacion-inspeccion-educativa-madrid-2026-2027:
+    id: norm-mad-r30-7-2026-plan-anual-actuacion-inspeccion-educativa-madrid-2026-2027
+    codigo_sintetizado: ''
+    titulo: Resolución de 30 de julio de 2026, de la Viceconsejería de Política y
+      Organización Educativa, por la que se aprueba el Plan Anual de Actuación de
+      la Inspección Educativa para el curso 2026-2027.
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: '2026-08-13'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Inspección educativa
+    tags:
+    - inspección educativa
+    - plan anual
+    - curso 2026-2027
+    - supervisión
+    - evaluación centros
+    path: autonómica/madrid/04_organizacion_escolar_y_funcionamiento/R30_7_2026_plan_anual_actuacion_inspeccion_educativa_madrid_2026_2027.md
+    relaciones:
+      fundamenta_en:
+      - norm-mad-d61-2019
+      - norm-mad-d248-2023
   norm-mad-r9-10-2019-plan-general-actuacion-inspeccion-educativa-madrid:
     id: norm-mad-r9-10-2019-plan-general-actuacion-inspeccion-educativa-madrid
     codigo_sintetizado: R9 10 2019 Plan General Actuacion Inspeccion Educativa Madrid
@@ -31291,6 +31316,36 @@ normas:
     - atencion_a_la_diversidad
     - comunidad_de_madrid
     path: autonómica/madrid/06_atencion_diversidad_y_orientacion/D243_2023_creacion_centro_regional_enriquecimiento_educativo_altas_capacidades_madrid.md
+  norm-mad-o22-8-2026-desdoblamiento-eoep-navalcarnero-sectorizacion-madrid-sur:
+    id: norm-mad-o22-8-2026-desdoblamiento-eoep-navalcarnero-sectorizacion-madrid-sur
+    codigo_sintetizado: ''
+    titulo: Orden 3465/2026, de 22 de agosto, de la Consejería de Educación, Ciencia
+      y Universidades, por la que se dispone el desdoblamiento del equipo de orientación
+      educativa y psicopedagógica general de Navalcarnero y se modifica la sectorización
+      de los equipos de orientación educativa y psicopedagógica generales de la Dirección
+      de Área Territorial Madrid-Sur.
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2026-09-04'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Equipos de Orientación (EOEP)
+    tags:
+    - orientación educativa
+    - EOEP
+    - psicopedagógica
+    - sectorización
+    - Madrid-Sur
+    - Navalcarnero
+    - Arroyomolinos
+    path: autonómica/madrid/06_atencion_diversidad_y_orientacion/O22_8_2026_desdoblamiento_eoep_navalcarnero_sectorizacion_madrid_sur.md
+    relaciones:
+      fundamenta_en:
+      - norm-can-lo-2-2006
+      - norm-mad-d23-2023
+      - norm-mad-d52-2021
   norm-mad-o2642-2020:
     id: norm-mad-o2642-2020
     codigo_sintetizado: O2642_2020 Creacion Equipos Orientacion Educativa Madrid
@@ -31828,6 +31883,32 @@ normas:
     - centros_penitenciarios
     - madrid
     path: autonómica/madrid/08_personal_docente/R22_1_2026_comisiones_servicio_centros_especial_dificultad_madrid.md
+  norm-mad-r23-7-2026-clasificacion-centros-puestos-especial-dificultad-madrid:
+    id: norm-mad-r23-7-2026-clasificacion-centros-puestos-especial-dificultad-madrid
+    codigo_sintetizado: ''
+    titulo: Resolución de 23 de julio de 2026, de la Dirección General de Recursos
+      Humanos, por la que se clasifican nuevos centros y puestos como de especial
+      dificultad, por tratarse de difícil desempeño, a los efectos previstos en el
+      Real Decreto 1364/2010, de 29 de octubre.
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: '2026-08-07'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 08_personal_docente
+    subcategoria: Centros de especial dificultad
+    tags:
+    - especial dificultad
+    - difícil desempeño
+    - concurso de traslados
+    - educación especial
+    - centros ordinarios
+    path: autonómica/madrid/08_personal_docente/R23_7_2026_clasificacion_centros_puestos_especial_dificultad_madrid.md
+    relaciones:
+      fundamenta_en:
+      - norm-est-rd1364-2010
+      - norm-mad-d248-2023
   norm-mad-r24-3-2026-comisiones-servicio-docentes-programa-bilingue-madrid:
     id: norm-mad-r24-3-2026-comisiones-servicio-docentes-programa-bilingue-madrid
     codigo_sintetizado: R24 3 2026 Comisiones Servicio Docentes Programa Bilingue
