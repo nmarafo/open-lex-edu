@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 633
+total_normas: 636
 normas:
   norm-and-d154-2022:
     id: norm-and-d154-2022
@@ -287,6 +287,31 @@ normas:
     - creacion-centros
     - andalucia
     path: autonómica/andalucía/02_gestion_y_administracion_centros/D151_1997_crea_regula_registro_centros_docentes_andalucia.md
+  norm-and-d-152-2020:
+    id: norm-and-d-152-2020
+    codigo_sintetizado: D152_2020 Acceso Funcion Directiva Equipos Directivos Centros
+      Docentes Andalucia
+    titulo: Decreto 152/2020, de 15 de septiembre, por el que se regula el acceso
+      a la función directiva y la formación, evaluación y reconocimiento de los directores,
+      las directoras y los equipos directivos de los centros docentes públicos no
+      universitarios, de los que es titular la Junta de Andalucía.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2020-09-24'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Función directiva y órganos de gobierno
+    tags:
+    - funcion_directiva
+    - directores
+    - equipos_directivos
+    - seleccion
+    - formacion
+    - evaluacion
+    - andalucia
+    path: autonómica/andalucía/02_gestion_y_administracion_centros/D152_2020_acceso_funcion_directiva_equipos_directivos_centros_docentes_andalucia.md
   norm-and-d-155-1997:
     id: norm-and-d-155-1997
     codigo_sintetizado: D155_1997 Regulacion Escuelas Infantiles Andalucía
@@ -341,6 +366,27 @@ normas:
     - adscripcion
     - andalucia
     path: autonómica/andalucía/02_gestion_y_administracion_centros/D21_1985_ordenacion_centros_infantil_primaria_andalucia.md
+  norm-and-d-220-2013:
+    id: norm-and-d-220-2013
+    codigo_sintetizado: D220_2013 Marco General Evaluacion Sistema Educativo Andalucia
+    titulo: Decreto 220/2013, de 5 de noviembre, por el que se establece el marco
+      general para la evaluación del sistema educativo andaluz y se regulan determinados
+      aspectos de la evaluación del mismo.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2013-11-15'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Evaluación institucional y calidad
+    tags:
+    - evaluacion_educativa
+    - sistema_educativo
+    - calidad_educativa
+    - agencia_andaluza_evaluacion
+    - andalucia
+    path: autonómica/andalucía/02_gestion_y_administracion_centros/D220_2013_marco_general_evaluacion_sistema_educativo_andalucia.md
   norm-and-d285-2010-regulacion-sistema-informacion-seneca-andalucia:
     id: norm-and-d285-2010-regulacion-sistema-informacion-seneca-andalucia
     codigo_sintetizado: ''
@@ -695,6 +741,28 @@ normas:
     - esperanza
     - andalucia
     path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/D436_2008_ordenacion_educacion_personas_adultas_andalucia.md
+  norm-and-d-54-2022:
+    id: norm-and-d-54-2022
+    codigo_sintetizado: D54_2022 Ordenacion Ensenanzas Artisticas Superiores Andalucia
+    titulo: Decreto 54/2022, de 12 de abril, por el que se establece la ordenación
+      de las enseñanzas artísticas superiores, enseñanzas artísticas de máster y estudios
+      de doctorado propios de las enseñanzas artísticas en la Comunidad Autónoma de
+      Andalucía.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-04-20'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas Artísticas Superiores
+    tags:
+    - ensenanzas_artisticas_superiores
+    - master_artistico
+    - doctorado
+    - ordenacion_curricular
+    - andalucia
+    path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/D54_2022_ordenacion_ensenanzas_artisticas_superiores_andalucia.md
   norm-and-d-55-2012:
     id: norm-and-d-55-2012
     codigo_sintetizado: D55_2012 Ordenacion Ensenanzas Deportivas Regimen Especial
@@ -1662,32 +1730,39 @@ normas:
     path: autonómica/andalucía/05_alumnado_y_servicios_escolares/D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md
   norm-and-d-40-2011:
     id: norm-and-d-40-2011
-    codigo_sintetizado: ''
-    titulo: Decreto 163/2011, de 17 de mayo, por el que se modifica el Decreto 51/2011,
-      de 8 de marzo, por el que se aprueba la Oferta de Empleo Público correspondiente
-      al año 2011 para el Cuerpo de Maestros.
+    codigo_sintetizado: D40_2011 Criterios Procedimiento Admision Alumnado Centros
+      Docentes Andalucia
+    titulo: Decreto 40/2011, de 22 de febrero, por el que se regulan los criterios
+      y el procedimiento de admisión del alumnado en los centros docentes públicos
+      y privados concertados para cursar las enseñanzas de segundo ciclo de educación
+      infantil, educación primaria, educación especial, educación secundaria obligatoria
+      y bachillerato.
     jurisdiccion: Andalucía
     ambito: Autonómico
     tipo_disposicion: Decreto
-    fecha_publicacion: '2011-06-01'
-    estado: Vigente
-    redaccion: consolidada
+    fecha_publicacion: '2011-02-25'
+    estado: Derogada
+    redaccion: original
     categoria_canonica: 05_alumnado_y_servicios_escolares
-    subcategoria: Participación del alumnado
+    subcategoria: Admisión y matrícula
     tags:
-    - asociaciones_alumnado
-    - participacion
+    - admision_alumnado
+    - centros_docentes
+    - escolarizacion
+    - criterios_admision
     - andalucia
-    path: autonómica/andalucía/05_alumnado_y_servicios_escolares/D40_2011_regulacion_asociaciones_alumnado_andalucia.md
+    path: autonómica/andalucía/05_alumnado_y_servicios_escolares/D40_2011_criterios_procedimiento_admision_alumnado_centros_docentes_andalucia.md
   norm-and-d-6-2017:
     id: norm-and-d-6-2017
-    codigo_sintetizado: ''
-    titulo: Decreto 134/2016, de 19 de julio, por el que se crean y suprimen centros
-      docentes públicos en la Comunidad Autónoma de Andalucía.
+    codigo_sintetizado: D6_2017 Plan Apertura Centros Servicios Complementarios Andalucia
+    titulo: Decreto 6/2017, de 16 de enero, por el que se regulan los servicios complementarios
+      de aula matinal, comedor escolar y actividades extraescolares, así como el uso
+      de las instalaciones de los centros docentes públicos de la Comunidad Autónoma
+      de Andalucía fuera del horario escolar.
     jurisdiccion: Andalucía
     ambito: Autonómico
     tipo_disposicion: Decreto
-    fecha_publicacion: '2016-07-26'
+    fecha_publicacion: '2017-01-31'
     estado: Vigente
     redaccion: consolidada
     categoria_canonica: 05_alumnado_y_servicios_escolares
@@ -1696,7 +1771,8 @@ normas:
     - servicios_complementarios
     - aula_matinal
     - comedor
-    - transporte
+    - actividades_extraescolares
+    - instalaciones
     - andalucia
     path: autonómica/andalucía/05_alumnado_y_servicios_escolares/D6_2017_plan_apertura_centros_servicios_complementarios_andalucia.md
   norm-and-dl1-2017-escolarizacion-gratuidad-primer-ciclo-educacion-infantil-andalucia:
@@ -16378,6 +16454,18 @@ relaciones_grafo:
 - origen: norm-and-d-151-1997
   tipo: fundamentado_en
   destino: norm-es-c-1978
+- origen: norm-and-d-152-2020
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+- origen: norm-and-d-152-2020
+  tipo: fundamentado_en
+  destino: norm-and-l17-2007
+- origen: norm-and-d-152-2020
+  tipo: fundamentado_en
+  destino: norm-es-lo-2-2006
+- origen: norm-and-d-152-2020
+  tipo: fundamentado_en
+  destino: norm-es-rdl-5-2015
 - origen: norm-and-d-155-1997
   tipo: cita
   destino: norm-es-2001-7022
@@ -16426,6 +16514,15 @@ relaciones_grafo:
 - origen: norm-and-d-21-1985
   tipo: fundamentado_en
   destino: norm-es-l-39-2015
+- origen: norm-and-d-220-2013
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+- origen: norm-and-d-220-2013
+  tipo: fundamentado_en
+  destino: norm-and-l17-2007
+- origen: norm-and-d-220-2013
+  tipo: fundamentado_en
+  destino: norm-es-lo-2-2006
 - origen: norm-and-d-329-2010
   tipo: cita
   destino: norm-and-d-328-2010
@@ -17159,6 +17256,15 @@ relaciones_grafo:
   - D. Final segunda. Reproducción de normativa autonómica.
   articulos_destino:
   - Art. 3
+- origen: norm-and-d-54-2022
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+- origen: norm-and-d-54-2022
+  tipo: fundamentado_en
+  destino: norm-and-l17-2007
+- origen: norm-and-d-54-2022
+  tipo: fundamentado_en
+  destino: norm-es-lo-2-2006
 - origen: norm-and-d-55-2012
   tipo: desarrolla
   destino: norm-es-lo-2-2006
@@ -19314,18 +19420,9 @@ relaciones_grafo:
 - origen: norm-and-d-40-2011
   tipo: fundamentado_en
   destino: norm-es-lo-2-2006
-- origen: norm-and-d-40-2011
-  tipo: fundamentado_en
-  destino: norm-es-l-39-2015
 - origen: norm-and-d-6-2017
-  tipo: fundamentado_en
-  destino: norm-es-l-39-2015
-  articulos_destino:
-  - Art. 65
-  - Art. 51
-  - Art. 63
-  - Art. 123
-  - Art. 124
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
 - origen: norm-and-d-6-2017
   tipo: fundamentado_en
   destino: norm-and-l17-2007
@@ -19333,8 +19430,8 @@ relaciones_grafo:
   tipo: fundamentado_en
   destino: norm-es-lo-2-2006
 - origen: norm-and-d-6-2017
-  tipo: desarrolla
-  destino: norm-es-lo-2-2006
+  tipo: fundamentado_en
+  destino: norm-es-l-39-2015
 - origen: norm-and-o-20-2-2020
   tipo: desarrolla
   destino: norm-es-lo-2-2006
