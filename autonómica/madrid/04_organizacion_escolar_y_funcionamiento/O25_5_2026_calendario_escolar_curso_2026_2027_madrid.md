@@ -1,70 +1,42 @@
 ---
-id: norm-mad-r-calendario-escolar-2025-2026
-codigo_sintetizado: R_Calendario Escolar Curso 2025-2026 Madrid
-titulo: Resolución por la que se establece el calendario escolar para el curso 2025-2026
-  en los centros docentes no universitarios de la Comunidad de Madrid.
+id: norm-mad-o-25-5-2026
+codigo_sintetizado: O25_5_2026 Calendario Escolar Curso 2026-2027 Madrid
+titulo: Orden de 25 de mayo de 2026, de la Consejería de Educación, Ciencia y Universidades, por la que se establece el calendario escolar para el curso 2026/2027 en los centros docentes no universitarios de la Comunidad de Madrid.
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
-  Madrid
-tipo_disposicion: Resolución
-numero_disposicion: Calendario 2025-2026
-fecha_disposicion: '2025-05-15'
-fecha_publicacion: '2025-05-22'
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+tipo_disposicion: Orden
+numero_disposicion: 25/05/2026
+fecha_disposicion: '2026-05-25'
+fecha_publicacion: '2026-05-29'
 boletin: BOCM
 numero_boletin: '121'
 estado: Vigente
 redaccion: original
 fuente_oficial: https://www.comunidad.madrid/servicios/educacion/calendario-escolar
+fuente_pdf_oficial: https://www.bocm.es
 clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Calendario escolar
 tags:
 - calendario_escolar
-- curso_2025_2026
+- curso_2026_2027
 - dias_lectivos
 - vacaciones
 - madrid
 relaciones:
-  fundamentado_en:
-  - norma_id: norm-mad-d-36-2022
-    articulos_destino:
-    - Art. 2
-    disposiciones_destino:
-    - D. Adicional quinta
-  - norma_id: norm-mad-d-61-2022
-    articulos_destino:
-    - Art. 2
-    disposiciones_destino:
-    - D. Adicional quinta
-  - norma_id: norm-mad-d65-2022
-    articulos_destino:
-    - Art. 2
-    disposiciones_destino:
-    - D. Adicional quinta
-  - norma_id: norm-es-lo-2-2006
-    articulos_destino:
-    - Art. 2
-    disposiciones_destino:
-    - D. Adicional quinta
-  - norma_id: norm-es-2021-20113
-    articulos_destino:
-    - Art. 2
-    disposiciones_destino:
-    - D. Adicional quinta
-  - norma_id: norm-es-2010-12201
-    articulos_destino:
-    - Art. 2
-    disposiciones_destino:
-    - D. Adicional quinta
-  - norma_id: norm-mad-d-29-2013
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-l-40-2015
   desarrolla:
   - norma_id: norm-es-lo-2-2006
+  fundamentado_en:
+  - norma_id: norm-mad-d-36-2022
+  - norma_id: norm-mad-d-61-2022
+  - norma_id: norm-mad-d65-2022
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
 ---
 
-# Resolución por la que se establece el calendario escolar para el curso 2025-2026 en los centros docentes no universitarios de la Comunidad de Madrid.
+# Orden de 25 de mayo de 2026, por la que se establece el calendario escolar para el curso 2026/2027 en los centros docentes no universitarios de la Comunidad de Madrid.
 
 ## Preámbulo
 

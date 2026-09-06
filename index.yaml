@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 574
+total_normas: 569
 normas:
   norm-and-d154-2022:
     id: norm-and-d154-2022
@@ -30032,13 +30032,15 @@ normas:
         - D. Final tercera. Entrada en vigor.
   norm-mad-o190-2023:
     id: norm-mad-o190-2023
-    codigo_sintetizado: ''
-    titulo: Orden 190/2023, de 25 de enero, por la que se regula la diversificación
-      curricular en Educación Secundaria Obligatoria
+    codigo_sintetizado: O190_2023 Diversificacion Curricular ESO Madrid
+    titulo: Orden 190/2023, de 30 de enero, de la Vicepresidencia, Consejería de Educación
+      y Universidades, por la que se desarrolla la organización y el currículo del
+      programa de diversificación curricular de la Educación Secundaria Obligatoria
+      en la Comunidad de Madrid.
     jurisdiccion: Madrid
     ambito: Autonómico
     tipo_disposicion: Orden
-    fecha_publicacion: '2023-02-02'
+    fecha_publicacion: '2023-02-07'
     estado: Vigente
     redaccion: original
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
@@ -30052,10 +30054,15 @@ normas:
     relaciones:
       desarrolla:
       - norma_id: norm-es-lo-2-2006
+      - norma_id: norm-es-rd-217-2022
+      - norma_id: norm-mad-d65-2022
+      deroga:
+      - norma_id: norm-mad-o-3295-2016
       fundamentado_en:
       - norma_id: norm-es-lo-2-2006
+      - norma_id: norm-es-rd-217-2022
+      - norma_id: norm-mad-d65-2022
       - norma_id: norm-es-l-39-2015
-      - norma_id: norm-mad-d-29-2013
   norm-mad-o2067-2023:
     id: norm-mad-o2067-2023
     codigo_sintetizado: ''
@@ -31061,6 +31068,37 @@ normas:
       - norma_id: norm-es-l-40-2015
       desarrolla:
       - norma_id: norm-es-lo-2-2006
+  norm-mad-o-25-5-2026:
+    id: norm-mad-o-25-5-2026
+    codigo_sintetizado: O25_5_2026 Calendario Escolar Curso 2026-2027 Madrid
+    titulo: Orden de 25 de mayo de 2026, de la Consejería de Educación, Ciencia y
+      Universidades, por la que se establece el calendario escolar para el curso 2026/2027
+      en los centros docentes no universitarios de la Comunidad de Madrid.
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2026-05-29'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Calendario escolar
+    tags:
+    - calendario_escolar
+    - curso_2026_2027
+    - dias_lectivos
+    - vacaciones
+    - madrid
+    path: autonómica/madrid/04_organizacion_escolar_y_funcionamiento/O25_5_2026_calendario_escolar_curso_2026_2027_madrid.md
+    relaciones:
+      desarrolla:
+      - norma_id: norm-es-lo-2-2006
+      fundamentado_en:
+      - norma_id: norm-mad-d-36-2022
+      - norma_id: norm-mad-d-61-2022
+      - norma_id: norm-mad-d65-2022
+      - norma_id: norm-es-lo-2-2006
+      - norma_id: norm-es-l-39-2015
+      - norma_id: norm-es-l-40-2015
   norm-mad-o3413-2022:
     id: norm-mad-o3413-2022
     codigo_sintetizado: ''
@@ -31288,119 +31326,6 @@ normas:
     - supervision_docente
     - madrid
     path: autonómica/madrid/04_organizacion_escolar_y_funcionamiento/R9_10_2019_plan_general_actuacion_inspeccion_educativa_madrid.md
-  norm-mad-r-calendario-escolar-2025-2026:
-    id: norm-mad-r-calendario-escolar-2025-2026
-    codigo_sintetizado: R_Calendario Escolar Curso 2025-2026 Madrid
-    titulo: Resolución por la que se establece el calendario escolar para el curso
-      2025-2026 en los centros docentes no universitarios de la Comunidad de Madrid.
-    jurisdiccion: Madrid
-    ambito: Autonómico
-    tipo_disposicion: Resolución
-    fecha_publicacion: '2025-05-22'
-    estado: Vigente
-    redaccion: original
-    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
-    subcategoria: Calendario escolar
-    tags:
-    - calendario_escolar
-    - curso_2025_2026
-    - dias_lectivos
-    - vacaciones
-    - madrid
-    path: autonómica/madrid/04_organizacion_escolar_y_funcionamiento/R_calendario_escolar_curso_2025_2026_madrid.md
-    relaciones:
-      fundamentado_en:
-      - norma_id: norm-mad-d-36-2022
-        articulos_destino:
-        - Art. 2
-        disposiciones_destino:
-        - D. Adicional quinta
-      - norma_id: norm-mad-d-61-2022
-        articulos_destino:
-        - Art. 2
-        disposiciones_destino:
-        - D. Adicional quinta
-      - norma_id: norm-mad-d65-2022
-        articulos_destino:
-        - Art. 2
-        disposiciones_destino:
-        - D. Adicional quinta
-      - norma_id: norm-es-lo-2-2006
-        articulos_destino:
-        - Art. 2
-        disposiciones_destino:
-        - D. Adicional quinta
-      - norma_id: norm-es-2021-20113
-        articulos_destino:
-        - Art. 2
-        disposiciones_destino:
-        - D. Adicional quinta
-      - norma_id: norm-es-2010-12201
-        articulos_destino:
-        - Art. 2
-        disposiciones_destino:
-        - D. Adicional quinta
-      - norma_id: norm-mad-d-29-2013
-      - norma_id: norm-es-l-39-2015
-      - norma_id: norm-es-l-40-2015
-      desarrolla:
-      - norma_id: norm-es-lo-2-2006
-  norm-mad-r-instrucciones-curso-2025-2026:
-    id: norm-mad-r-instrucciones-curso-2025-2026
-    codigo_sintetizado: R_Instrucciones Inicio de Curso 2025-2026 Madrid
-    titulo: Resolución conjunta de las Viceconsejerías de Política Educativa y de
-      Organización Educativa por la que se dictan instrucciones para el comienzo del
-      curso escolar 2025-2026 en centros docentes públicos no universitarios de la
-      Comunidad de Madrid.
-    jurisdiccion: Madrid
-    ambito: Autonómico
-    tipo_disposicion: Resolución
-    fecha_publicacion: '2025-06-27'
-    estado: Vigente
-    redaccion: original
-    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
-    subcategoria: Instrucciones de comienzo de curso
-    tags:
-    - inicio_de_curso
-    - instrucciones_curso_2025_2026
-    - organizacion_escolar
-    - pga
-    - madrid
-    path: autonómica/madrid/04_organizacion_escolar_y_funcionamiento/R_instrucciones_conjuntas_inicio_curso_2025_2026_madrid.md
-    relaciones:
-      desarrolla:
-      - norma_id: norm-es-lo-2-2006
-      fundamentado_en:
-      - norma_id: norm-mad-d-29-2013
-      - norma_id: norm-es-lo-2-2006
-      - norma_id: norm-es-l-39-2015
-      - norma_id: norm-es-l-40-2015
-  norm-mad-r-inicio-2025:
-    id: norm-mad-r-inicio-2025
-    codigo_sintetizado: R_2025 Instrucciones Organizacion Inicio Curso 2025-2026 Madrid
-    titulo: Resolución de 30 de junio de 2025, de la Viceconsejería, por la que se
-      dictan instrucciones para el comienzo del curso escolar 2025/2026.
-    jurisdiccion: Madrid
-    ambito: Autonómico
-    tipo_disposicion: Resolución
-    fecha_publicacion: '2025-07-03'
-    estado: Vigente
-    redaccion: original
-    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
-    subcategoria: Instrucciones de curso
-    tags:
-    - inicio_curso_2025_2026
-    - instrucciones_organizacion
-    - madrid
-    path: autonómica/madrid/04_organizacion_escolar_y_funcionamiento/R_instrucciones_organizacion_inicio_curso_2025_2026_madrid.md
-    relaciones:
-      desarrolla:
-      - norma_id: norm-es-lo-2-2006
-      fundamentado_en:
-      - norma_id: norm-mad-d-29-2013
-      - norma_id: norm-es-lo-2-2006
-      - norma_id: norm-es-l-39-2015
-      - norma_id: norm-es-l-40-2015
   norm-mad-d11-2019:
     id: norm-mad-d11-2019
     codigo_sintetizado: D11_2019 Modificacion Libertad Eleccion Centro Escolar Madrid
@@ -31683,35 +31608,6 @@ normas:
     - centros_publicos
     - madrid
     path: autonómica/madrid/05_alumnado_y_servicios_escolares/O3136_2020_funcionamiento_servicio_comedor_escolar_centros_publicos_madrid.md
-  norm-mad-o-admision-alumnado-2025-2026:
-    id: norm-mad-o-admision-alumnado-2025-2026
-    codigo_sintetizado: O_Instrucciones Admision Alumnado 2025-2026 Madrid
-    titulo: Orden por la que se dictan instrucciones sobre el proceso de admisión
-      de alumnos en centros docentes sostenidos con fondos públicos que imparten segundo
-      ciclo de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria
-      y Bachillerato para el curso 2025-2026.
-    jurisdiccion: Madrid
-    ambito: Autonómico
-    tipo_disposicion: Orden
-    fecha_publicacion: '2025-02-18'
-    estado: Vigente
-    redaccion: original
-    categoria_canonica: 05_alumnado_y_servicios_escolares
-    subcategoria: Admisión de alumnado
-    tags:
-    - admision
-    - escolarizacion
-    - matriculacion
-    - curso_2025_2026
-    - madrid
-    path: autonómica/madrid/05_alumnado_y_servicios_escolares/O_instrucciones_procedimiento_admision_alumnado_madrid_2025_2026.md
-    relaciones:
-      desarrolla:
-      - norma_id: norm-es-lo-2-2006
-      fundamentado_en:
-      - norma_id: norm-mad-d-29-2013
-      - norma_id: norm-es-lo-2-2006
-      - norma_id: norm-es-l-39-2015
   norm-mad-r11-2-2026-instrucciones-admision-primer-ciclo-infantil-madrid:
     id: norm-mad-r11-2-2026-instrucciones-admision-primer-ciclo-infantil-madrid
     codigo_sintetizado: R11 2 2026 Instrucciones Admision Primer Ciclo Infantil Madrid
@@ -32351,32 +32247,6 @@ normas:
     - psicopedagogicos
     - madrid
     path: autonómica/madrid/06_atencion_diversidad_y_orientacion/O2642_2020_creacion_equipos_orientacion_educativa_madrid.md
-  norm-mad-o-3622-2014:
-    id: norm-mad-o-3622-2014
-    codigo_sintetizado: O3622_2014 Atencion Alumnado Altas Capacidades Madrid
-    titulo: Orden 3622/2014, de 3 de diciembre, sobre escolarización y atención educativa
-      al alumnado con Altas Capacidades Intelectuales.
-    jurisdiccion: Madrid
-    ambito: Autonómico
-    tipo_disposicion: Orden
-    fecha_publicacion: '2014-12-12'
-    estado: Vigente
-    redaccion: original
-    categoria_canonica: 06_atencion_diversidad_y_orientacion
-    subcategoria: Atención a la diversidad
-    tags:
-    - altas_capacidades
-    - peac
-    - sobredotacion
-    - madrid
-    path: autonómica/madrid/06_atencion_diversidad_y_orientacion/O3622_2014_atencion_alumnado_altas_capacidades_madrid.md
-    relaciones:
-      desarrolla:
-      - norma_id: norm-es-lo-2-2006
-      fundamentado_en:
-      - norma_id: norm-mad-d-29-2013
-      - norma_id: norm-es-lo-2-2006
-      - norma_id: norm-es-lo-1-1996
   norm-mad-o547-2019-actuaciones-apoyo-educativo-centros-concertados-madrid:
     id: norm-mad-o547-2019-actuaciones-apoyo-educativo-centros-concertados-madrid
     codigo_sintetizado: O547 2019 Actuaciones Apoyo Educativo Centros Concertados
@@ -32938,36 +32808,6 @@ normas:
     - funcionarios_docentes
     - madrid
     path: autonómica/madrid/08_personal_docente/R26_3_2026_convocatoria_licencias_estudios_retribuidas_docentes_madrid.md
-  norm-mad-r-cdd-2025-2026:
-    id: norm-mad-r-cdd-2025-2026
-    codigo_sintetizado: R_Acreditacion Competencia Digital Docente Madrid 2025-2026
-    titulo: Resolución por la que se dictan instrucciones sobre el procedimiento de
-      acreditación de la competencia digital docente en la Comunidad de Madrid para
-      el curso 2025-2026.
-    jurisdiccion: Madrid
-    ambito: Autonómico
-    tipo_disposicion: Resolución
-    fecha_publicacion: '2025-06-10'
-    estado: Vigente
-    redaccion: original
-    categoria_canonica: 08_personal_docente
-    subcategoria: Formación del profesorado
-    tags:
-    - cdd
-    - competencia_digital_docente
-    - acreditacion
-    - curso_2025_2026
-    - madrid
-    path: autonómica/madrid/08_personal_docente/R_acreditacion_competencia_digital_docente_madrid_2025_2026.md
-    relaciones:
-      desarrolla:
-      - norma_id: norm-es-lo-2-2006
-      - norma_id: norm-es-rd-276-2007
-      - norma_id: norm-es-rdl-5-2015
-      fundamentado_en:
-      - norma_id: norm-mad-d-29-2013
-      - norma_id: norm-es-rdl-5-2015
-      - norma_id: norm-es-lo-2-2006
   norm-mad-d43-2022:
     id: norm-mad-d43-2022
     codigo_sintetizado: ''
