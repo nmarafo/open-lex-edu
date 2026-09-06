@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 581
+total_normas: 579
 normas:
   norm-and-d154-2022:
     id: norm-and-d154-2022
@@ -4794,34 +4794,6 @@ normas:
     subcategoria: Inspección educativa
     tags: []
     path: autonómica/andalucía/04_organizacion_escolar_y_funcionamiento/R3_8_2026_plan_general_actuacion_inspeccion_educativa_andalucia_2026_2027.md
-  norm-and-r-calendario-escolar-2025-2026:
-    id: norm-and-r-calendario-escolar-2025-2026
-    codigo_sintetizado: R_Calendario Escolar Curso 2025-2026 Andalucia
-    titulo: Resolución por la que se aprueban los calendarios escolares provinciales
-      para el curso 2025-2026 en la Comunidad Autónoma de Andalucía.
-    jurisdiccion: Andalucía
-    ambito: Autonómico
-    tipo_disposicion: Resolución
-    fecha_publicacion: '2025-05-27'
-    estado: Vigente
-    redaccion: original
-    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
-    subcategoria: Calendario escolar
-    tags:
-    - calendario_escolar
-    - curso_2025_2026
-    - dias_lectivos
-    - vacaciones
-    - andalucia
-    path: autonómica/andalucía/04_organizacion_escolar_y_funcionamiento/R_calendario_escolar_curso_2025_2026_andalucia.md
-    relaciones:
-      desarrolla:
-      - norma_id: norm-es-lo-2-2006
-      fundamentado_en:
-      - norma_id: norm-and-l17-2007
-      - norma_id: norm-es-lo-2-2006
-      - norma_id: norm-es-l-39-2015
-      - norma_id: norm-es-l-40-2015
   norm-and-r-instrucciones-curso-2025-2026:
     id: norm-and-r-instrucciones-curso-2025-2026
     codigo_sintetizado: R_Instrucciones Inicio de Curso 2025-2026 Andalucia
@@ -5494,34 +5466,6 @@ normas:
     subcategoria: ''
     tags: []
     path: autonómica/andalucía/05_alumnado_y_servicios_escolares/O3_8_2010_servicios_complementarios_aula_matinal_comedor_andalucia.md
-  norm-and-o-admision-alumnado-2025-2026:
-    id: norm-and-o-admision-alumnado-2025-2026
-    codigo_sintetizado: O_Instrucciones Admision Alumnado 2025-2026 Andalucia
-    titulo: Orden por la que se desarrollan los procedimientos de admisión del alumnado
-      en los centros docentes públicos y privados concertados para el curso escolar
-      2025-2026.
-    jurisdiccion: Andalucía
-    ambito: Autonómico
-    tipo_disposicion: Orden
-    fecha_publicacion: '2025-02-21'
-    estado: Vigente
-    redaccion: original
-    categoria_canonica: 05_alumnado_y_servicios_escolares
-    subcategoria: Admisión de alumnado
-    tags:
-    - admision
-    - escolarizacion
-    - matriculacion
-    - curso_2025_2026
-    - andalucia
-    path: autonómica/andalucía/05_alumnado_y_servicios_escolares/O_instrucciones_procedimiento_admision_alumnado_andalucia_2025_2026.md
-    relaciones:
-      desarrolla:
-      - norma_id: norm-es-lo-2-2006
-      fundamentado_en:
-      - norma_id: norm-and-l17-2007
-      - norma_id: norm-es-lo-2-2006
-      - norma_id: norm-es-l-39-2015
   norm-and-r-19-1-2026-calendario-admision-alumnado-centros-docentes-andalucia-2026-2027:
     id: norm-and-r-19-1-2026-calendario-admision-alumnado-centros-docentes-andalucia-2026-2027
     codigo_sintetizado: R19_1_2026 Calendario Admision Alumnado Centros Docentes Andalucia

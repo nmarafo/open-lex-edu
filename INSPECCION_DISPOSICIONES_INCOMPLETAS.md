@@ -1,8 +1,8 @@
 # 📋 Informe de Inspección e Índice de Disposiciones Incompletas
 
-**Fecha de Auditoría**: `2026-09-06 12:49:24`  
-**Total de Normas Auditadas**: `581`  
-**Normas Íntegras y Conformes**: `579`  
+**Fecha de Auditoría**: `2026-09-06 13:18:42`  
+**Total de Normas Auditadas**: `579`  
+**Normas Íntegras y Conformes**: `577`  
 **Normas Incompletas o Defectuosas**: `2`  
 
 ## 📊 Resumen por Comunidad Autónoma y Ámbito
@@ -11,7 +11,7 @@
 | :--- | :---: | :---: | :---: | :---: |
 | **Canarias** | 204 | 202 | 2 | **99.0%** |
 | **Madrid** | 118 | 118 | 0 | **100.0%** |
-| **Andalucía** | 114 | 114 | 0 | **100.0%** |
+| **Andalucía** | 112 | 112 | 0 | **100.0%** |
 | **Estatal** | 145 | 145 | 0 | **100.0%** |
 
 ---
