@@ -5,72 +5,1392 @@ titulo: Decreto 196/2022, de 13 de octubre, por el que se establece la ordenaci�
   y el currículo de la Educación Infantil en la Comunidad Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Gobierno de Canarias / Consejería de Educación
+organo_emisor: Gobierno de Canarias / Consejería de Educación, Universidades, Cultura
+  y Deportes
 tipo_disposicion: Decreto
 numero_disposicion: 196/2022
 fecha_disposicion: '2022-10-13'
-fecha_publicacion: '2022-10-20'
+fecha_publicacion: '2022-10-26'
 boletin: BOC
-numero_boletin: '208'
+numero_boletin: '212'
 estado: Vigente
-redaccion: pdf_oficial_boc
-fuente_oficial: https://www.gobiernodecanarias.org/boc/2022/208/001.html
+redaccion: texto_integro_boc
+fuente_oficial: https://www.gobiernodecanarias.org/boc/2022/212/001.html
+fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-212-3215.pdf
 fuente_juriscan: https://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=81820
 clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Infantil
 tags:
-- curriculo
-- curriculo-infantil
-- ebep
-- educaci-n-infantil
 - educacion-infantil
-- equipos-directivos
-- oposiciones
+- curriculo-infantil
+- competencias-clave
+- situaciones-aprendizaje
 - primer-ciclo
-- procedimiento-administrativo
-- roc
 - segundo-ciclo
+- evaluacion-infantil
+- lomloe
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-l-39-2015
-    articulos_destino:
-    - Art. 45
-    - Art. 48
-    - Art. 49
-  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-can-lo-1-2018
   - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-l-39-2015
   desarrolla:
   - norma_id: norm-es-rd-95-2022
   - norma_id: norm-es-lo-2-2006
-  fundamentos_derecho:
-  - norma_id: norm-can-l-6-2014
-  articulos:
-  - norma_id: '6.5'
-  - norma_id: '14'
-  - norma_id: norm-es-l-39-2015
-fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-208-3159.pdf
 ---
 
 # Decreto 196/2022, de 13 de octubre, por el que se establece la ordenación y el currículo de la Educación Infantil en la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
 
-V. Anuncios Otros anuncios Consejería de Administraciones Públicas, Justicia y Seguridad Resolución de 5 de octubre de 2022, que remite el expediente y emplaza a cuantos aparezcan como interesados en el recurso que se tramita como Procedimiento Ordinario nº 249/2022 ante el Tribunal Superior de Justicia de Canarias, Sala de lo Contencioso-Administrativo, Sección Segunda, de Santa Cruz de Tenerife, interpuesto por D. Gustavo Winter Cabrera, contra el Decreto 115/2022 de 20 de mayo, por el que se aprueba la Oferta Extraordinaria de Empleo Público para la estabilización de empleo temporal de larga duración en el ámbito de la Administración General de la Comunidad Autónoma de Canarias, exclusivamente en lo concerniente a su
 
-## Anexo I. , y en lo relativo a las plazas pertenecientes a la Escala de Letrados de la
+### I
 
-Comunidad Autónoma de Canarias, del Cuerpo A122. En cumplimiento de lo dispuesto por el Tribunal Superior de Justicia de Canarias, Sala de lo Contencioso-Administrativo, Sección Segunda, de Santa Cruz de Tenerife, en el recurso que se tramita como procedimiento ordinario nº 249/2022, interpuesto por D. Gustavo Winter Cabrera, contra el Decreto 115/2022, de 20 de mayo, por el que se aprueba la Oferta Extraordinaria de Empleo Público para la estabilización de empleo temporal de larga duración en el ámbito de la Administración General de la Comunidad Autónoma de Canarias, publicado en el BOC nº 105, de fecha 31 de mayo de 2022, exclusivamente en lo concerniente a su Anexo I, y en lo relativo a las plazas pertenecientes a la Escala de Letrados de la Comunidad Autónoma de Canarias, del Cuerpo A122; dado que el acto objeto de la impugnación podría afectar a una pluralidad de personas por determinar, supuesto subsumible en lo dispuesto en el artículo 45.1.a) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, esta Dirección General, conforme a lo dispuesto en los artículos 48 y 49 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, R E S U E LV E:
-Primero.- Ordenar la remisión del expediente administrativo judicializado que corresponde al recurso contencioso-administrativo que se tramita como procedimiento ordinario nº 249/2022, seguido a instancia de D. Gustavo Winter Cabrera.
-Segundo.- Emplazar a cuantos aparezcan como interesados en el recurso contenciosoadministrativo que se tramita como procedimiento ordinario nº 249/2022 en el Tribunal Superior de Justicia de Canarias, Sala de lo Contencioso-Administrativo, Sección Segunda, de Santa Cruz de Tenerife, para que puedan comparecer y personarse como demandados ante el mencionado Tribunal en el plazo de nueve días, a partir del día siguiente al de la publicación de la presente Resolución. Santa Cruz de Tenerife, a 5 de octubre de 2022.- La Directora General de la Función Pública, Montserrat García Santana.
+La Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias, en su artículo 133.1.a), confiere a esta Comunidad Autónoma, la competencia de desarrollo legislativo y de ejecución en materia de enseñanza no universitaria, con relación a las enseñanzas obligatorias y no obligatorias que conducen a la obtención de un título académico o profesional con validez en todo el Estado y a las enseñanzas de educación infantil, dejando a un lado lo dispuesto en los artículos 27 y 149.1.30.a de la Constitución. Dicha competencia incluye, en todo caso, la determinación de los contenidos educativos del primer ciclo de la Educación Infantil y la regulación de los centros en los que se imparta dicho ciclo, así como la definición de sus plantillas de profesorado y las titulaciones y especializaciones del personal restante.
 
----
+Consecuentemente, este Decreto está en consonancia con la Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, conforme se contempla en el artículo 29, relativo a la Educación Infantil; con el Real Decreto 95/2022, de 1 de febrero, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Infantil (en adelante, Real Decreto 95/2022); con la Estrategia Canaria de Infancia, Adolescencia y Familia, en la que se definen las líneas de política social de la Comunidad Autónoma de Canarias en materia de Infancia y Familia para el periodo de 2019-2023, con la finalidad de promover e impulsar el bienestar de la infancia y la adolescencia en Canarias con la colaboración de las familias y de todos los agentes e instituciones implicadas, y cuyo antecedente fue el Plan Integral del Menor en Canarias (PIMBÍ), tras publicarse la Ley 1/1997, de 7 de febrero, de Atención Integral a los Menores; y con la Agenda Canaria 2030 para el Desarrollo Sostenible, al buscar el logro de una vida digna y feliz del alumnado de la Educación Infantil que le permita desarrollarse en un entorno seguro, sano, justo y que propicie la igualdad de oportunidades.
 
-## Relaciones Normativas y Fundamentos de Derecho
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación (en lo sucesivo, Ley Orgánica 2/2006), determina, en su artículo 6, a sen su contrario, que corresponde a las Comunidades Autónomas que no tienen lengua oficiala establecer el 40% de los horarios escolares para la participación de sus incorporaciones propias; asimismo, se indica que las Administraciones educativas establecerán el currículo de las distintas enseñanzas reguladas en la citada ley, del que formarán parte los aspectos básicos señalados en el artículo referido. De esta forma, teniendo en cuenta la actual distribución de competencias, esta Administración educativa es la responsable de establecer la ordenación específica y el currículo para Canarias, del que forman parte los objetivos, las competencias, los saberes básicos y los criterios de evaluación, que constituyen las enseñanzas mínimas. Por otro lado, corresponderá a los centros educativos, dentro de su autonomía pedagógica y de acuerdo a su proyecto y entorno educativo, desarrollarlo y completarlo, en su caso.
 
-### Estructura y Concordancias Granulares
-- **Desarrolla**: [**RD95_2022 Ensenanzas Minimas de Educacion Infantil**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md)
-- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 45, Art. 48, Art. 49)
-- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
-- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación (en adelante LOMEE), introduce, además, en la anterior redacción de la norma, importantes cambios, muchos de ellos derivados, tal y como indica la propia ley en su exposición de motivos, de la conveniencia de revisar las medidas previstas en el texto original con objeto de adaptar el sistema educativo a los retos y desafíos del siglo XI, de acuerdo con los objetivos fijados por la Unión Europea y la MONESCO para la década 2020-2030. De acuerdo con este enfoque, el nuevo texto de la Ley Orgánica 2/2006, incorpora entre los principios y fines de la educación el cumplimiento efectivo de los derechos de la infancia según lo establecido en la Convención sobre los Derechos del Niño de Naciones Unidas, la inclusión educativa y la aplicación de los principios del Diseño Universal para el Aprendizaje (DA).
+
+
+### Ii
+
+En las últimas décadas, la Educación Infantil ha adquirido una importancia y consideración social muy relevantes, configurándose como una etapa educativa con identidad propia y con unas características específicas, lo que queda convenientemente reflejado en el Real Decreto 95/2022.
+
+Esta etapa educativa tiene como finalidad proporcionar cuidados y educación de calidad en la primera infancia, contribuyendo al desarrollo global de las capacidades de los niños y las niñas durante sus primeros años y al inicio del proceso de aprendizaje, en todas sus dimensiones: física, emocional, sexual, afectiva, social, cognitiva y artística; y a la educación en valores cívicos para la convivencia.
+
+Se constituye, en consecuencia, como una etapa única, organizada en dos ciclos que responden ambos a una misma intencionalidad educativa, concretada en una formulación de objetivos que sirven para guiar, de una manera efectiva, la práctica docente: el primer ciclo comprende hasta los tres años de edad; y el segundo ciclo, desde los tres hasta los seis años de edad.
+
+La Educación Infantil es una etapa básica, asimismo, para el establecimiento de modelos equitativos que atiendan a las diferencias y singularidades del alumnado. Es por ello por lo que, durante esta etapa, debe asegurarse la detección precoz y atención temprana de las necesidades específicas de apoyo educativo y de las manifestaciones evolutivas del alumnado, con el propósito de prestar una atención ajustada a sus características individuales, para lo que se debe garantizar la igualdad de oportunidades, la no discriminación, la equidad y la inclusión educativa, como elementos compensadores de las desigualdades personales, culturales, económicas y sociales; así como la atención a la diversidad del alumnado desde el inicio de su escolarización, en colaboración con las familias y con los servicios de salud, sociales, comunitarios y de apoyo al centro.
+
+En este sentido, la atención individualizada al alumnado deberá determinar la práctica educativa del conjunto de profesionales que inciden en esta etapa y, en todo caso, los ya mencionados principios del DA deberán permear las medidas organizativas, metodológicas y curriculares. Entre las pautas que favorecen una educación inclusiva en esta etapa cabría citar: la interacción positiva persona adulta‒alumnado‒familia; la formación de comunidades de aprendizaje que logren que niños y niñas participen en la construcción de su propio conocimiento y autonomía, haciendo aportaciones, imperando las relaciones sociales, afectuosas que promuevan actitudes positivas como el diálogo, el respeto y la amistad; la coherencia y continuidad en la transición educativa de la Educación Infantil a la Educación Primaria, para que sea una aventura con expectativas positivas para el desarrollo y el aprendizaje; la puesta en marcha de agrupamientos diversos que permitan crear ambientes inclusivos y comunidades heterogéneas de aprendizaje donde la edad no sea el criterio de agrupación principal.
+
+
+### Iii
+
+La LOMEE reformula la definición de currículo, enumerando los elementos que lo integran y señalando, a continuación, que su configuración deberá estar orientada a facilitar el desarrollo educativo de los alumnos y las alumnas, garantizando su formación integral, contribuyendo al pleno desarrollo de su personalidad y preparándoles para el ejercicio pleno de los derechos humanos, de una ciudadanía activa y democrática en la sociedad actual, sin que en ningún caso pueda suponer una barrera que genere abandono escolar o impida el acceso y disfrute del derecho a la educación.
+
+En consonancia con esta visión, la ley, manteniendo el enfoque competencia que aparecía ya en el texto original, hace hincapié en el hecho de que esta formación integral necesariamente debe centrarse en el proceso de desarrollo y adquisición de las competencias clave. La Educación Infantil constituye el inicio del aprendizaje a lo largo de toda la vida, por lo que se ha integrado, en su concepción y estructura curricular, el comienzo de dicho proceso para una formación armónica e integral del alumnado.
+
+Las áreas correspondientes a la Educación Infantil, para ambos ciclos, son: Crecimiento en Armonía Descubrimiento y Exploración del Entorno, y Comunicación y Representación de la Realidad. Los correspondientes currículos, contemplados en el Anexo 2, atienden al desarrollo afectivo; a la gestión emocional; al movimiento, al gesto y el ritmo, y a los hábitos de control corporal; a las manifestaciones, tanto orales como escritas, de la comunicación y del lenguaje; a las pautas elementales de convivencia y relación social, y a la educación en valores; al descubrimiento del entorno más cercano, de los seres vivos que en él conviven y de las características físicas y sociales del mismo, prestando una especial atención a las características específicas del patrimonio de la Comunidad Autónoma de Canarias; a la educación para el consumo responsable y sostenible, y a la promoción y educación para la salud. Igualmente, propician que los niños y las niñas tengan una imagen de sí mismos positiva, equilibrada, igualitaria y de respeto a las diferencias, así como que adquieran autonomía personal.
+
+En el ámbito de esta Comunidad Autónoma, se han determinado una serie de líneas estratégicas, en consonancia con la Agenda Canaria de Desarrollo Sostenible 2030, que han marcado la propuesta de ordenación y currículo de esta etapa, partiendo de un enfoque globalizado y transversal: “Educación inclusiva”, “Educación del patrimonio natural, social y cultural canario”, “Desarrollo sostenible”, “Perspectiva de género y coeducación”, “Estacionalidad competente” y “Sentido cultural de la educación”.
+
+De esta manera, la educación en el patrimonio natural, social e histórico-cultural canario impregna los currículos de las ya mencionadas áreas, con la finalidad de que el alumnado se acerque, de manera gradual, a aprendizajes que promuevan su conocimiento, disfrute y valoración. Igualmente, se incorpora una primera aproximación a aprendizajes relacionados con el desarrollo sostenible, de forma que el alumnado empiece a integrar el respeto a la integridad ambiental. La incorporación de la perspectiva de género y la coeducación es otra de las líneas que impregnan el currículo de la etapa, a través de la inclusión de saberes relacionados con el respeto a la diversidad afectivo-sexual y de género.
+
+Igualmente, la consecución de un modelo inclusivo de atención a la diversidad se ha materializado a través de la incorporación de los ya mencionados principios del DA en el propio proceso de diseño curricular, que integra procesos pedagógicos más accesibles y apuesta por un modelo más flexible y adaptable a las características individuales del alumnado. Por otro lado, el alumnado debe aprender a gestionar, de la forma más eficaz posible y de manera contextualizada, sus experiencias emocionales, tanto con relación a sí mismo como hacia las demás personas. Es por ello por lo que se trabajan las competencias emocionales en el conjunto de áreas del currículo. Por último, se incide en el sentido cultural de la educación, de manera que se propicie que el alumnado vivencie algunos de los elementos básicos que sustentan la cultura en cualquiera de sus aspectos: humanísticos, artísticos, científico-tecnológicos o motrices, a partir de una perspectiva transversal, integradora, flexible y globalizadora de sus aprendizajes.
+
+
+### Iv
+
+Para garantizar la continuidad del proceso de formación y una transición y evolución positiva de todo el alumnado, se refleja en el desarrollo curricular la necesaria continuidad entre la Educación Infantil y la Educación Primaria, lo que requerirá la estrecha coordinación entre el profesorado de ambas etapas. A tal fin, al finalizar la etapa, el tutor o la tutora emitirá un informe sobre el desarrollo y las necesidades de cada alumno o alumna.
+
+Evidentemente, debe mantenerse una estrecha cooperación entre los centros educativos y las familias, que son el primer referente afectivo de los niños y las niñas, y quienes tienen la responsabilidad primordial de su educación. Se hace imprescindible, pues, la colaboración de la escuela con aquellas y el entorno del alumnado, para garantizar una coherencia y continuidad en los procesos y en las prácticas educativas, ya que constituyen los contextos de aprendizaje que ejercen más influencia en su desarrollo personal.
+
+
+### V
+
+El presente Decreto está integrado por quince artículos: el artículo 1 regula el objeto y ámbito de aplicación; el artículo 2 tiene por objeto establecer diversas definiciones; el artículo 3 establece los fines perseguidos por la norma; los artículos 4 y 5 determinan, respectivamente, los principios generales y pedagógicos; el artículo 6 establece los objetivos de la etapa; el artículo 7 regula las competencias clave; el artículo 8 regula el currículo; el artículo 9 establece la regulación de la propuesta pedagógica; el artículo 10 determina la organización de la etapa; el artículo 11 regula el horario; el artículo 12 tiene por objeto la autonomía de los centros; el artículo 13 regula la evaluación; el artículo 14 establece la atención a las diferencias individuales; y el artículo 15 se centra en lo relativo a la transición y coordinación entre ciclos y con la etapa de Educación Primaria. Además, incorpora dos disposiciones adicionales en las que se regula la inclusión de las enseñanzas de religión en el segundo ciclo de la Educación Infantil, así como las enseñanzas del sistema educativo español impartidas en lenguas extranjeras; una disposición que deroga anteriores decretos relativos a la Educación Infantil; y tres disposiciones finales, relativas al desarrollo reglamentario, el calendario de implantación y la entrada en vigor del presente Decreto.
+
+En cuanto a la redacción del presente Decreto y en lo que respecta a la igualdad de género y de expresión de género, se ha dado cumplimiento, respectivamente, a la Ley 1/2010, de 26 de febrero, canaria de igualdad entre mujeres y hombres, y a la Ley 2/2021, de 7 de junio, de igualdad social y no discriminación por razón de identidad de género, expresión de género y características sexuales. Esta disposición, por tanto, no contempla ni prevé condiciones discriminatorias que supongan impacto negativo alguno en la igualdad de género, ni afecta negativamente a la igualdad y no discriminación por razón de la identidad y expresión de género o de las características sexuales, por lo que dichos impactos en las personas destinatarias de la norma es totalmente positivo.
+
+En concordancia con lo expuesto y conforme al artículo 129.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ha quedado debidamente justificada la adecuación del presente Decreto a los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia, en tanto que el mismo persigue un interés general al ser competencia de esta Comunidad establecer la ordenación específica y el currículo para su ámbito de actuación, una vez se han fijado la ordenación general y las enseñanzas mínimas correspondientes a la Educación Infantil a través del Real Decreto 95/2022. En lo que se refiere a los principios de necesidad y eficacia, se trata de una norma necesaria para la regulación de las enseñanzas de Educación Primaria conforme a la nueva redacción de la Ley Orgánica 2/2006.
+
+Estos principios se acreditan, además, por lo establecido en el ya mencionado artículo 6 de la Ley Orgánica 2/2006, y por su desarrollo posterior en el artículo 10.1 del Real Decreto 95/2022, en el que se determina que las Administraciones educativas establecerán el currículo de toda la etapa de la Educación Infantil.
+
+De acuerdo con el principio de proporcionalidad contiene la regulación imprescindible de la estructura de estas enseñanzas, al no existir ninguna alternativa regulatoria menos restrictiva de derechos. Conforme a los principios de seguridad jurídica y eficiencia, resulta coherente con el ordenamiento jurídico y permite una gestión más eficiente de los recursos públicos. Por último, se ha dado cumplimiento al principio de transparencia, al haberse garantizado, en la tramitación del proyecto, la audiencia e información públicas; así como al principio de eficiencia, puesto que su aprobación no supone cargas administrativas innecesarias a las ciudadanía en general ni a las familias y al alumnado en particular.
+
+En su virtud, a propuesta de la Consejera de Educación, Universidades, Cultura y Deportes, previo informe del Consejo Escolar de Canarias, visto el dictamen nº 352/2022, de 27 de septiembre, del Consejo Consultivo de Canarias, y previa deliberación del Gobierno en su reunión celebrada el día 13 de octubre de 2022,
+
+
+DISPONGO:
+
+
+#### Artículo 1.- Objeto y ámbito de aplicación.
+
+1. El presente Decreto tiene por objeto establecer la ordenación y el currículo en la etapa de Educación Infantil.
+
+2. Este Decreto será de aplicación a todos los centros docentes sostenidos con fondos públicos y privados que impartan la citada etapa educativa en el ámbito de la Comunidad Autónoma de Canarias.
+
+
+#### Artículo 2.- Definiciones.
+
+1. A los efectos de lo dispuesto en este Decreto, se entiende por currículo de la Educación Infantil el conjunto de objetivos, competencias clave, competencias específicas, criterios de evaluación, contenidos, enunciados en forma de saberes básicos y métodos pedagógicos, que han de configurar las programaciones didácticas del profesorado y regular su práctica docente, de forma que contribuyan al desarrollo armónico e integral del alumnado desde el nacimiento hasta los 6 años de edad.
+
+2. En relación a lo dispuesto en este Decreto, se entenderá por:
+
+a) Objetivos: logros que se espera que el alumnado haya alcanzado al finalizar la etapa y cuya consecución está vinculada al proceso de desarrollo y adquisición de las competencias clave, que se inicia en esta etapa, y de las competencias específicas de cada área.
+
+b) Competencias clave: desempeños que se consideran imprescindibles para que el alumnado pueda progresar con garantías de éxito en su itinerario formativo y afrontar los principales retos y desafíos, tanto globales como locales.
+
+c) Competencias específicas: desempeños que el alumnado debe poder desplegar en actividades o en situaciones cuyo abordaje requiere de los saberes básicos de cada área. Las competencias específicas constituyen un elemento de conexión entre, por una parte, las competencias clave y, por otra, los saberes básicos y los criterios de evaluación de las áreas. Las competencias específicas, que serán comunes para los dos ciclos de la etapa, presentan carácter finalista, por lo que deberán ser alcanzadas por el alumnado al término de la etapa. Su grado de consecución en cada uno de los ciclos viene determinado por los criterios de evaluación que se establecen para cada una de ellas.
+
+d) Criterios de evaluación: referentes que indican los niveles de desempeño esperados en el alumnado en las situaciones o actividades a las que se refieren las competencias específicas de cada área en un momento determinado de su proceso de aprendizaje. Constituyen los referentes para la evaluación tanto de los saberes propios de las áreas como del grado de desarrollo y adquisición de las competencias específicas.
+
+e) Saberes básicos: conocimientos, destrezas y actitudes que constituyen los contenidos propios de un área, y cuyo aprendizaje es necesario para la adquisición de las competencias específicas y clave.
+
+f) Situaciones de aprendizaje: situaciones y actividades que implican el despliegue, por parte del alumnado, de actuaciones asociadas a competencias clave y competencias específicas, y que contribuyen a la adquisición y al desarrollo de las mismas.
+
+
+#### Artículo 3.- Fines.
+
+1. La finalidad de la Educación Infantil es contribuir al desarrollo integral y armónico del alumnado en todas sus dimensiones: física, emocional, sexual, afectiva, social, cognitiva y artística.
+
+2. Se atenderá al progresivo desarrollo afectivo del alumnado, facilitando la construcción de nuevos vínculos y relaciones, e iniciando a los niños y a las niñas en la educación emocional. Se propiciará, además, que los niños y las niñas elaboren progresivamente una autoimagen positiva y equilibrada, y que adquieran gradualmente autonomía personal y hábitos de control corporal, así como de salud, cuidado y bienestar propios de un estilo de vida saludable. Se promoverán la adquisición de pautas elementales de convivencia, relación social y gestión de las emociones; así como el desarrollo de la comunicación y el lenguaje, iniciándose en la comunicación en una primera lengua extranjera y en el proceso de alfabetización digital y mediática, así como en las destrezas del pensamiento computacional.
+
+3. Se promoverá, asimismo, el descubrimiento de las características físicas, sociales y culturales del medio. De esta manera, el currículo de la Educación Infantil, en la Comunidad Autónoma de Canarias, contribuirá a que el alumnado se inicie en el conocimiento, aprecio y respeto de los aspectos culturales, históricos, geográficos, naturales, sociales y lingüísticos más relevantes de Canarias, así como los de su entorno, según lo requieran las diferentes áreas, comenzando a integrar las posibilidades de acción para su conservación.
+
+4. La implementación del currículo de la Educación Infantil en la Comunidad Autónoma de Canarias se orientará, además, a la consecución de los siguientes fines:
+
+a) La incorporación de aprendizajes, valores y actitudes que contribuyan a que el alumnado se inicie en actitudes en pro de la sostenibilidad ambiental y del cuidado del medio natural, social y cultural.
+
+b) El desarrollo en los niños y en las niñas de la capacidad para adquirir hábitos y valores solidarios y de equidad.
+
+c) La no discriminación de las personas por razones de identidad y orientación sexual, religión, procedencia o cultura.
+
+d) La eliminación de los prejuicios, estereotipos y roles en función del sexo o de la orientación sexual o de la identidad y expresión de género, la integración del saber de las mujeres y su contribución social e histórica al desarrollo de la humanidad, la prevención de la violencia de género, el fomento vínculos afectivos saludables y la coeducación.
+
+e) El desarrollo progresivo del autoconocimiento, la autoestima, la gestión de las emociones y los sentimientos, en pro del desarrollo personal y social.
+
+f) La atención al alumnado desde el principio de inclusión, equidad y compensación de las posibles situaciones de vulnerabilidad que puedan incidir en su desarrollo personal, social y educativo.
+
+
+#### Artículo 4.- Principios generales.
+
+1. La Educación Infantil constituye una etapa con identidad propia y tiene carácter voluntario.
+
+2. El segundo ciclo de esta etapa educativa será gratuito. Se tenderá a la progresiva implantación del primer ciclo mediante una oferta pública suficiente y a la extensión de la gratuidad en el mismo, priorizando el acceso del alumnado que se encuentre en riesgo de pobreza y exclusión social, así como la situación de baja tasa de escolarización, todo ello conforme a la disposición adicional tercera de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, o normativa que la sustituya.
+
+3. El carácter educativo de la etapa debe orientar la programación, la gestión y el desarrollo de la Educación Infantil, garantizando la igualdad de oportunidades, la no discriminación, la equidad y la inclusión educativa como un elemento compensador de las desigualdades personales, culturales, económicas y sociales, y que garantice la atención a la diversidad del alumnado desde el inicio de su escolarización, en colaboración con los servicios de salud, sociales, comunitarios y de apoyo al centro, teniendo en consideración, además, la colaboración con los padres, las madres o las personas tutoras legales.
+
+4. Con este mismo objetivo, las medidas organizativas, metodológicas y curriculares que se adopten se regirán por los principios del Diseño Universal para el Aprendizaje (DUA), de manera que se posibilite el acceso al currículo para todo el alumnado y que se responda a las fortalezas y necesidades de este, en función de sus características individuales.
+
+
+#### Artículo 5.- Principios pedagógicos.
+
+1. Los procesos de enseñanza y aprendizaje de esta etapa tendrán un carácter globalizador, lúdico, creativo y vivencial, partiendo de los intereses del alumnado y respetando los diferentes ritmos individuales de maduración, crecimiento y desarrollo.
+
+2. La práctica educativa en esta etapa potenciará el inicio del proceso de desarrollo y adquisición de las competencias, favoreciendo la igualdad de oportunidades y teniendo en cuenta la diversidad del alumnado para lograr una inclusión efectiva que minimice las barreras físicas, sensoriales, cognitivas y culturales, que puedan existir en el aula. Esta práctica educativa se basará en experiencias de aprendizaje significativas, motivadoras y emocionalmente positivas, en la observación, en la experimentación, en la estimulación sensorial y cognitiva, y en el juego. Además, deberá llevarse a cabo en un ambiente de afecto, seguridad y confianza, que potencie la autoestima y la integración social del alumnado.
+
+3. Se fomentará el juego como medio para potenciar el desarrollo cognitivo, socioemocional y motriz en los niños y en las niñas.
+
+4. Se velará por garantizar una transición positiva desde el entorno familiar al escolar, así como una adecuada continuidad entre ciclos y etapas.
+
+5. En la Educación Infantil, se atenderá progresivamente al desarrollo afectivo, la gestión emocional, el pensamiento divergente y la educación en valores, para favorecer que los niños y las niñas adquieran autonomía personal y una autoimagen positiva, equilibrada e igualitaria, libre de estereotipos discriminatorios; así como a las manifestaciones de la comunicación y las pautas elementales de convivencia y relación social. Del mismo modo, se atenderá al descubrimiento del entorno, de sus características físicas y sociales, y de los seres vivos que en él conviven; así como a la educación para el consumo responsable y sostenible, y a la promoción y educación para la salud.
+
+6. La Consejería competente en materia de educación fomentará el desarrollo del conjunto de las capacidades de niños y niñas por medio de todos los lenguajes y modos de percepción específicos de estas edades.
+
+7. Se favorecerá una primera aproximación a la lectura y a la escritura, así como experiencias de iniciación temprana en habilidades matemáticas imprescindibles, en las tecnologías de la información y la comunicación, en las diferentes formas de expresión y en cualesquiera otras que la Consejería competente en materia de educación determine.
+
+
+#### Artículo 6.- Objetivos de etapa.
+
+La Educación Infantil contribuirá a desarrollar en los niños y las niñas las capacidades que les permitan alcanzar los siguientes objetivos:
+
+a) Conocer su propio cuerpo y el de los otros, así como sus posibilidades de acción y aprender a respetar las diferencias.
+
+b) Observar y explorar su entorno familiar, natural y social.
+
+c) Adquirir progresivamente autonomía en sus actividades habituales.
+
+d) Desarrollar sus capacidades emocionales y afectivas.
+
+e) Relacionarse con los demás en igualdad y adquirir progresivamente pautas elementales de convivencia y relación social, así como ejercitarse en el uso de la empatía y la resolución pacífica de conflictos, evitando cualquier tipo de violencia.
+
+f) Desarrollar habilidades comunicativas en diferentes lenguajes y formas de expresión.
+
+g) Iniciarse en las habilidades lógico-matemáticas, en la lectura y la escritura, y en el movimiento, el gesto y el ritmo.
+
+h) Promover, aplicar y desarrollar las normas sociales que fomentan la igualdad entre hombres y mujeres.
+
+
+#### Artículo 7.- Competencias clave.
+
+1. La etapa de Educación Infantil supone el inicio del proceso de desarrollo y adquisición de las competencias clave para el aprendizaje permanente, que aparecen recogidas en la Recomendación del Consejo de la Unión Europea de 22 de mayo de 2018. Estas competencias clave han sido adaptadas al contexto escolar, así como a los principios y fines del sistema educativo establecidos en la Ley Orgánica 2/2006, o en la normativa que la sustituya. Dichas competencias son las siguientes:
+
+- Competencia en comunicación lingüística (CCL).
+
+- Competencia plurilingüe (CP).
+
+- Competencia matemática y competencia en ciencia, tecnología e ingeniería (STEM).
+
+- Competencia digital (CD).
+
+- Competencia personal, social y de aprender a aprender (CPSAA).
+
+- Competencia ciudadana (CC).
+
+- Competencia emprendedora (CE).
+
+- Competencia en conciencia y expresión culturales (CCEC).
+
+2. El Anexo 1 de este Decreto contextualiza las competencias clave para esta etapa.
+
+
+#### Artículo 8.- Currículo.
+
+1. El currículo de las diferentes áreas de la etapa se organiza, para los dos ciclos, en bloques competenciales, que integran las competencias específicas, que presentan carácter finalista, y los criterios de evaluación; y establecen la vinculación de estos elementos con las competencias clave. Incluyen, asimismo, una explicación que facilita la relación de los bloques competenciales con los saberes básicos y orienta sobre el proceso de evaluación de los aprendizajes incluidos en el mismo, recogiendo, asimismo, orientaciones de tipo metodológico.
+
+2. En el Anexo 2 de este Decreto, se recoge el currículo de cada una de las áreas que configuran esta etapa en nuestra Comunidad Autónoma. Los criterios de evaluación y los saberes básicos del primer ciclo recogidos en dicho anexo son orientativos para el logro de las competencias de la etapa. La concreción curricular que compete a los centros educativos incorporará los elementos curriculares prescriptivos establecidos en el Anexo 2 para el segundo ciclo de la etapa.
+
+3. El Anexo 3, que presenta carácter orientativo, establece el marco general para el diseño de situaciones de aprendizaje en el seno de la etapa de la Educación Infantil, que requerirán de un planteamiento global, significativo y estimulante para el alumnado, entendiendo que las áreas de la etapa deben ser concebidas como ámbitos de experiencia intrínsecamente relacionados entre sí. La Administración educativa podrá proporcionar orientaciones para concretar a cada área lo establecido en dicho anexo.
+
+
+#### Artículo 9.- Propuesta pedagógica.
+
+1. Los centros educativos desarrollarán y completarán el currículo establecido en el Anexo 2 de este Decreto, de manera que se ajuste a su realidad socioeducativa y a las características del alumnado de la etapa. Para ello, incluirán en su proyecto educativo la propuesta pedagógica y establecerán su concreción para cada uno de los ciclos de la Educación Infantil, partiendo de lo establecido en el mencionado anexo de este Decreto y de acuerdo con los aspectos básicos del currículo que constituyen las enseñanzas mínimas de la etapa de Educación Infantil fijados en el Real Decreto 95/2022, o normativa que lo sustituya, y teniendo, en todo caso, en consideración el carácter orientativo de criterios de evaluación y saberes básicos del primer ciclo, según lo regulado en el artículo 8.2 de este Decreto.
+
+2. Por su parte, el profesorado habrá de adaptar su práctica educativa a las características que presenta esta etapa a través del diseño de situaciones de aprendizaje contextualizadas, que posibiliten un mayor alcance de los saberes propios de las áreas dentro de un marco de atención inclusiva a las diferencias individuales y a las singularidades y necesidades de su alumnado, incorporando a toda la acción educativa los principios del DUA.
+
+3. La propuesta pedagógica incluirá lo siguiente:
+
+- La concreción de los objetivos de la Educación Infantil teniendo en cuenta el contexto socioeconómico y cultural del centro, las características del alumnado, así como lo establecido en el proyecto educativo del centro.
+
+- Las decisiones de carácter general sobre metodología, los criterios para el agrupamiento del alumnado y para la planificación educativa de los espacios y la organización del tiempo.
+
+- Los criterios, procedimientos, instrumentos y agentes para la evaluación de los aprendizajes.
+
+- La relación de los recursos materiales, espaciales y humanos.
+
+- Los criterios para evaluar y, en su caso, revisar los procesos de enseñanza, los planes de acción tutorial y la práctica docente.
+
+- Las medidas de atención a la diversidad.
+
+- Las acciones previstas para promover la participación, colaboración e implicación de las familias o personas tutoras legales.
+
+- Los criterios y las estrategias para la coordinación entre ciclos y etapas, así como orientaciones para el diseño de un adecuado plan de acogida y plan de transición del alumnado.
+
+4. El ciclo constituye la unidad temporal de programación. Por este motivo, se garantizará el trabajo en equipo y se fomentará la coordinación de los profesionales y las profesionales que desarrollen su actividad en cada uno de los ciclos.
+
+5. Para garantizar, además, una adecuada transición entre la Educación Infantil y la Educación Primaria, la propuesta pedagógica incluirá actividades específicas que contemplen acciones conjuntas entre los profesionales y las profesionales que inciden en la etapa y en el primer ciclo de la Educación Primaria, de forma que se garantice un adecuado plan de transición del alumnado.
+
+
+#### Artículo 10.- Organización de la etapa.
+
+1. La Educación Infantil, en el marco del sistema educativo, comprende el periodo de vida que abarca desde el nacimiento hasta los seis años de edad.
+
+2. La etapa se ordena en dos ciclos:
+
+- Primer ciclo: hasta los tres años.
+
+- Segundo ciclo: desde los tres hasta los seis años.
+
+3. Los aprendizajes propios de esta etapa se organizarán a través de áreas que se corresponden con ámbitos propios de la experiencia y del desarrollo infantil, y se abordarán por medio de actividades y situaciones de aprendizaje que tengan interés y significado para los niños y las niñas, y que garanticen un tratamiento global e integrador de los aprendizajes, para asegurar que el alumnado se inicie en el proceso de desarrollo y adquisición de las competencias, y alcance los objetivos de la etapa, respetando los ritmos de actividad, juego y descanso, y los diferentes ritmos y estilos de aprendizajes de los niños y las niñas.
+
+4. Las áreas correspondientes a esta etapa, para ambos ciclos, son:
+
+- Crecimiento en Armonía.
+
+- Descubrimiento y Exploración del Entorno.
+
+- Comunicación y Representación de la Realidad.
+
+5. A lo largo de la etapa y especialmente en el segundo ciclo se iniciará, por parte del profesorado especialista en lengua extranjera, una primera aproximación al uso oral de una lengua extranjera, fomentando situaciones de aprendizaje comunicativas relacionadas con las rutinas y situaciones habituales del aula o de su entorno más próximo.
+
+
+#### Artículo 11.- Horario.
+
+1. El horario de esta etapa no se constituye con un carácter rígido, puesto que responde a la distribución en secuencias temporales de las actividades que realizan las niñas y los niños a lo largo de la semana, teniendo en cuenta, además, que todas ellas tienen un carácter educativo.
+
+2. El horario, por tanto, se configurará con un enfoque globalizador que permita alternar distintos tipos de actividades o situaciones de aprendizaje, con periodos de descanso, en función de las necesidades del alumnado; y que posibiliten atender a las necesidades individuales y diversidad de cada alumno o alumna, de modo que se favorezca su participación activa e inclusiva en todas ellas.
+
+3. Dada la importancia que tiene el desarrollo motor en el alumnado de la etapa de Educación Infantil, se dedicará diariamente una parte del horario a la práctica de acciones psicomotrices diversas que potencien la coordinación general, el equilibrio o la lateralidad del alumnado, entre otros aspectos.
+
+
+#### Artículo 12.- Autonomía de los centros.
+
+1. La Administración educativa fomentará la autonomía pedagógica y organizativa de los centros, estimulará la actividad investigadora a partir de la práctica docente y favorecerá el trabajo en equipo del profesorado, facilitando los recursos, espacios y tiempos necesarios.
+
+2. Los centros docentes que impartan la Educación Infantil deberán incluir en su proyecto educativo la propuesta pedagógica de acuerdo con lo establecido en el artículo 9 del presente Decreto, que recogerá el carácter educativo de cada uno de los ciclos que se impartan.
+
+3. La Administración educativa asegurará la coordinación entre los equipos pedagógicos en los centros que imparten ambos ciclos, así como entre la etapa de Educación Infantil y la de Educación Primaria, para facilitar los procesos de transición educativa del alumnado.
+
+4. Los órganos de coordinación didáctica de los centros docentes tendrán autonomía para elegir los materiales curriculares, atendiendo al currículo vigente y respetando los principios y valores de la Constitución y del Estatuto de Autonomía.
+
+5. Los centros, en el ejercicio de su autonomía, podrán poner en marcha experimentaciones, innovaciones pedagógicas, programas educativos, planes de trabajo, formas de organización, normas de convivencia o ampliación del horario escolar o del horario lectivo de las áreas, en los términos que establezca la Consejería competente en materia de educación, dentro de las posibilidades que permita la normativa aplicable, incluida la laboral, sin que, en ningún caso, se impongan aportaciones económicas a las familias, se valoren las posibles repercusiones en la conciliación familiar y no supongan exigencias para la Administración educativa.
+
+6. Los padres, las madres o las personas que ejercen la tutoría de los niños y las niñas son los primeros responsables de su salud, bienestar y desarrollo, por lo que los centros en los que se imparta la Educación Infantil cooperarán estrechamente con ellos y propiciarán su participación en la creación de un espacio educativo rico, estimulante y confortable. Dicha participación puede incluir su presencia en el aula, especialmente en los periodos de adaptación, conforme a lo establecido en el plan de acogida del centro educativo.
+
+
+#### Artículo 13.- Evaluación.
+
+1. La evaluación será global, continua y formativa, y estará orientada a identificar las condiciones iniciales individuales y el ritmo y las características de la evolución de cada niño o niña. La observación directa y sistemática constituirá la técnica principal del proceso de evaluación. Las entrevistas con las familias, las madres, los padres o las personas tutoras legales, y el profesorado se podrán considerar, además, fuentes de información para el proceso de evaluación.
+
+2. A estos efectos, los criterios de evaluación establecidos para cada ciclo en cada una de las áreas serán el referente de los niveles de desempeño esperados en el alumnado tanto en lo relativo a los aprendizajes propios de cada área como en lo referido a las competencias específicas de cada una de ellas o en lo que respecta al proceso de desarrollo y adquisición de las competencias.
+
+3. Las matrices de evaluación o rúbricas constituyen un nivel de concreción curricular que integra los elementos anteriores para la evaluación del alumnado y su establecimiento corresponderá a la Consejería competente en materia de educación.
+
+4. La evaluación será responsabilidad de cada tutor o tutora, y del equipo educativo que incida en el alumnado, debiendo dejar constancia de las observaciones y valoraciones sobre el desarrollo de los aprendizajes tanto individuales como grupales, de manera que se disponga también de información sobre la evaluación del grupo clase.
+
+5. Con el fin de mejorar el proceso de enseñanza y aprendizaje, todos los profesionales y las profesionales implicados evaluarán su propia práctica educativa, atendiendo a las estrategias metodológicas y los recursos utilizados, de manera que se realice una evaluación de los documentos de planificación docente.
+
+6. Los padres, las madres, los tutores o las tutoras legales deberán participar y apoyar la evolución del proceso educativo de sus hijos, hijas, tutelados o tuteladas. Las consideraciones derivadas del proceso de evaluación deberán ser comunicadas de manera periódica a las familias, los padres, las madres o las personas tutoras legales. En todo caso, dichas consideraciones tendrán un carácter cualitativo e informarán del momento en que se encuentra el alumnado en sus procesos de enseñanza y aprendizaje, así como de las recomendaciones para colaborar en las medidas que adopten los centros para facilitar su progreso educativo.
+
+
+#### Artículo 14.- Atención a las diferencias individuales.
+
+1. La atención individualizada constituirá la pauta ordinaria de la acción educativa del profesorado y demás profesionales de la educación, identificando las barreras en el aprendizaje que puedan tener incidencia en la evolución escolar del alumnado, con el objetivo de asegurar la inclusión educativa del mismo desde edades tempranas. Para ello, trabajarán de manera coordinada y colaborativa con las familias.
+
+2. La intervención educativa contemplará como principio la atención a la diversidad del alumnado, compensando los efectos de las desigualdades de origen cultural, social y económico, sobre el aprendizaje y el desarrollo infantil.
+
+3. La Administración educativa establecerá procedimientos que permitan la detección precoz de las dificultades que puedan darse en los procesos de enseñanza y aprendizaje, y la prevención de las mismas, a través de planes y programas que faciliten una atención temprana al alumnado. Asimismo, facilitará la coordinación de cuantos sectores intervengan en la atención de este alumnado.
+
+4. Los centros educativos adaptarán la respuesta educativa al alumnado con necesidad específica de apoyo educativo (NEAE) en función de sus características y necesidades personales. Para ello, contarán con la colaboración y el asesoramiento del servicio de orientación educativa.
+
+5. La Consejería competente en materia de educación establecerá los procedimientos que permitan identificar aquellas necesidades y características que puedan tener incidencia en la evolución escolar de los niños y las niñas, así como la organización de la respuesta educativa necesaria para atenderlas. Asimismo, facilitará la coordinación y colaboración de cuantos sectores intervengan en la atención de este alumnado, tales como asuntos sociales o servicios sanitarios.
+
+6. Para garantizar la continuidad del proceso educativo y una evolución positiva del alumnado que presente NEAE, se prestará especial atención al tránsito entre la etapa de Educación Infantil hacia la etapa de Educación Primaria. A tal fin, se prestará especial atención al informe emitido por el profesorado al finalizar la etapa al que se hace referencia en el artículo 15.3.
+
+
+#### Artículo 15.- Transición y coordinación entre ciclos y con la etapa de Educación Primaria.
+
+1. La Administración educativa asegurará la coordinación entre los equipos pedagógicos de los centros que actualmente imparten los distintos ciclos de la etapa. Asimismo, para garantizar los procesos de transición educativa del alumnado, se deberá tener en cuenta la necesaria continuidad entre esta etapa y la de Educación Primaria a partir de la estrecha coordinación entre los profesionales y las profesionales implicados en el proceso de enseñanza y aprendizaje de ambas etapas.
+
+2. Los centros de Educación Infantil y Educación Primaria, y las Escuelas Infantiles adscritas a un centro de Educación Primaria establecerán mecanismos de coordinación entre el profesorado de Educación Infantil y el profesorado del primer ciclo de Educación Primaria, de manera que se garantice la adecuada progresión de todos los elementos curriculares, teniendo siempre presentes los aspectos cognitivos, afectivos y psicomotrices, debiéndose establecer un plan de transición con acciones y actividades conjuntas.
+
+3. Una vez finalizada la etapa, el tutor o la tutora emitirá un informe sobre el desarrollo evolutivo y las necesidades de cada alumno o alumna.
+
+4. Cuando el alumnado se traslade de un centro a otro, se establecerán mecanismos para garantizar el intercambio de información entre ambos centros.
+
+
+### Disposición adicional primera.- Enseñanzas de religión.
+
+1. Las enseñanzas de religión se incluirán en el segundo ciclo de la Educación Infantil, de acuerdo con lo establecido en la disposición adicional segunda de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+
+2. La Consejería competente en materia de educación deberá garantizar que al inicio del curso los padres, las madres, los tutores o las tutoras de los alumnos y las alumnas puedan manifestar su voluntad de que aquellos reciban o no enseñanzas de religión.
+
+3. La Consejería competente en materia de educación velará para que las enseñanzas de religión respeten los derechos de todo el alumnado y de sus padres, madres, tutores o tutoras legales. En ningún caso puede suponer discriminación alguna el recibir o no dichas enseñanzas.
+
+4. La determinación del currículo de las enseñanzas de religión católica y de las diferentes confesiones religiosas con las que el Estado ha suscrito acuerdos de cooperación en materia educativa será competencia, respectivamente, de la jerarquía eclesiástica y de las correspondientes autoridades religiosas.
+
+
+### Disposición adicional segunda.- Enseñanzas del sistema educativo español impartidas en lenguas extranjeras.
+
+1. La Administración educativa establecerá el uso de metodologías de aprendizaje integrado de contenidos y lenguas extranjeras, sin que ello suponga modificación de los aspectos regulados en el presente Decreto. En este caso, se procurará que el alumnado desarrolle de manera equilibrada su competencia en las distintas lenguas a lo largo de la etapa.
+
+2. Los centros que impartan sus enseñanzas conforme a lo previsto en el apartado anterior no podrán modificar los criterios para la admisión del alumnado establecidos en el artículo 16 del Decreto 9/2022, de 20 de enero, por el que se regula la admisión del alumnado en centros docentes que oferten enseñanzas no universitarias sostenidas con fondos públicos en la Comunidad Autónoma Canarias, o normativa que la sustituya.
+
+
+### Disposición derogatoria única.- Derogación normativa.
+
+1. Queda derogado el Decreto 183/2008, de 29 de julio, por el que se establece la ordenación y el currículo del 2º ciclo de la Educación Infantil en la Comunidad Autónoma de Canarias.
+
+2. Asimismo, quedan derogados los artículos del 3 al 9 del Título I así como el anexo del Decreto 201/2008, de 30 de septiembre, por el que se establecen los contenidos educativos y los requisitos de los centros que imparten el primer ciclo de Educación Infantil en la Comunidad Autónoma de Canarias.
+
+3. Quedan derogadas las demás normas de igual o inferior rango en cuanto se opongan a lo establecido en este Decreto.
+
+
+### Disposición final primera.- Habilitación para el desarrollo.
+
+Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas disposiciones sean precisas en desarrollo y aplicación de lo dispuesto en el presente Decreto.
+
+
+### Disposición final segunda.- Calendario de implantación.
+
+El contenido del presente Decreto se implantará en el curso escolar 2022-2023.
+
+
+### Disposición final tercera.- Entrada en vigor.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de Canarias.
+
+Dado en Canarias, a 13 de octubre de 2022.
+
+EL PRESIDENTE
+DEL GOBIERNO,
+Ángel Víctor Torres Pérez.
+
+LA CONSEJERA DE EDUCACIÓN,
+UNIVERSIDADES, CULTURA Y DEPORTES,
+Manuela de Armas Rodríguez.
+
+
+## ANEXO 1
+
+
+### Competencias clave en la educación infantil
+
+La etapa de Educación Infantil supone el inicio del proceso de desarrollo y adquisición de las competencias clave para el aprendizaje permanente que aparecen recogidas en la Recomendación del Consejo de la Unión Europea de 22 de mayo de 2018. En este Decreto, estas competencias clave han sido adaptadas al contexto escolar, así como a los principios y fines del sistema educativo establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación. Dichas competencias son las siguientes:
+
+- Competencia en comunicación lingüística (CCL).
+
+- Competencia plurilingüe (CP).
+
+- Competencia matemática y competencia en ciencia, tecnología e ingeniería (STEM).
+
+- Competencia digital (CD).
+
+- Competencia personal, social y de aprender a aprender (CPSAA).
+
+- Competencia ciudadana (CC).
+
+- Competencia emprendedora (CE).
+
+- Competencia en conciencia y expresión culturales (CEC).
+
+De acuerdo con lo expresado en la Recomendación, no existe jerarquía entre las distintas competencias, ya que se consideran todas igualmente importantes. Tampoco se establecen entre ellas límites diferenciados, sino que se solapan y entrelazan. Tienen, por tanto, carácter transversal: ninguna se corresponde directa y unívocamente con una única área; y todas se adquieren y desarrollan a partir de los aprendizajes que se producen en las distintas áreas. Este carácter transversal de las competencias favorece el enfoque globalizado propio de la etapa de Educación Infantil.
+
+Se espera que la adquisición de estas competencias a lo largo de su escolarización permita al alumnado prepararse para afrontar con éxito los principales retos del siglo XXI: planificar hábitos de vida saludables, proteger el medioambiente, resolver conflictos de forma pacífica, actuar como consumidores y consumidoras responsables, usar de manera ética y eficaz las tecnologías, promover la igualdad de género, manejar la ansiedad que genera la incertidumbre, identificar situaciones de inequidad y desarrollar sentimientos de empatía, cooperar y convivir en sociedades abiertas y cambiantes, aceptar la discapacidad, apreciar el valor de la diversidad, formar parte de un proyecto colectivo y adquirir confianza en el conocimiento como motor del desarrollo. La respuesta a estos y otros desafíos -entre los que existe una absoluta interdependencia- necesita de los conocimientos, las destrezas y las actitudes que subyacen a las competencias clave, y son abordados de manera global desde todas las áreas que conforman la etapa.
+
+Por esta razón, se ha adoptado una visión estructural y funcional de las competencias clave, en la que sus tres dimensiones -la cognitiva o conocimientos, la instrumental o destrezas y la actitudinal o actitudes- se integran en acciones concretas para resolver de manera eficaz una tarea significativa y contextualizada orientada al desarrollo integral de niños y niñas, respondiendo así al objetivo establecido para la etapa en la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+
+Con este mismo objetivo, entre las competencias se han incorporado destrezas esenciales como el pensamiento crítico, la resolución de problemas, el trabajo en equipo, las destrezas de comunicación y negociación, las destrezas analíticas, la creatividad y las destrezas interculturales. Estas facilitan a niños y niñas el descubrimiento, el conocimiento y la comprensión de su realidad, que abarca, entre otros, el entorno y los objetos, las organizaciones y relaciones sociales, los distintos lenguajes para comunicar de una manera respetuosa y creativa sus ideas, intenciones o vivencias.
+
+El desarrollo de las competencias viene condicionado por las distintas formas de comprender la realidad en cada momento de la etapa que, aunque tiene carácter global, se organiza en dos ciclos con intencionalidad educativa. Los elementos curriculares de ambos ciclos se adaptan a las características y particularidades del alumnado de cada uno de ellos. En el primer ciclo, se da especial relevancia a los procesos de conocimiento y dominio del propio cuerpo y de individuación, a la construcción de una trama de relaciones e interacciones en el entorno físico y social, y al uso de los lenguajes que la hacen posible. Todo ello regido por el principio fundamental de respeto a los ritmos individuales de cada niño y cada niña, a sus cuidados esenciales en un entorno afectivo, participativo y de igualdad que le proporcione confianza, bienestar y seguridad. En el segundo ciclo, se amplían y refuerzan los aprendizajes adquiridos previamente, y se intensifica el protagonismo de la adquisición de destrezas que contribuyan a “aprender a ser” y “aprender a hacer”, para avanzar así en el camino hacia el desarrollo de un cierto grado de autonomía, responsabilidad e iniciativa en la realización de tareas. En ambos ciclos, el proceso de desarrollo y aprendizaje viene marcado por la observación, la escucha activa y el aumento progresivo de la actividad a través de la experimentación y del juego.
+
+Las competencias clave se ven reflejadas tanto en los diferentes elementos curriculares como en los principios pedagógicos propios de la etapa.
+
+El primero de esos principios es el fomento del desarrollo integral de niños y niñas. Esta tarea exige conocer sus necesidades, intereses e inquietudes, e implica conocer también los factores y los procesos evolutivos que configuran sus posibilidades de experimentar, desarrollarse y aprender. Del mismo modo, dar respuesta a esas necesidades, intereses e inquietudes, en función de su madurez y del momento vital en el que se encuentran, permite proporcionarles las herramientas que les ayuden a desenvolverse con mayor autonomía y a afrontar con responsabilidad los retos que puedan presentarse a corto y largo plazo. Para ello, se tendrán en cuenta las necesidades y oportunidades individuales de cada niño o niña, así como las de su contexto familiar y se establecerán las medidas ordinarias y extraordinarias que garanticen su inclusión educativa.
+
+Otro de los principios pedagógicos basa la práctica educativa en la experimentación y el juego, así como en experiencias de aprendizaje significativas y emocionalmente positivas. De esta manera, el aprendizaje se concibe como un proceso que realizan los niños y las niñas de forma activa, que implica su actuación sobre la realidad, su motivación, la elaboración de interpretaciones y la comprensión de significados progresivamente ajustados a los aspectos de su entorno y de sí mismos que quieran explorar, descubrir y aprender. En este sentido y para facilitar la vinculación de las situaciones de aprendizaje con las necesidades, intereses e inquietudes de niños y niñas, se espera que estas sean formuladas desde la interacción entre el alumnado y la persona adulta, estableciendo conexiones entre lo nuevo, lo sabido, lo experimentado y lo vivido. Abordar desde este enfoque los aprendizajes de la etapa supone diseñar y desarrollar situaciones de aprendizaje funcionales, significativas y relevantes, que requieran la concurrencia simultánea o sucesiva de los conocimientos, las destrezas y las actitudes propios de las áreas que conforman la Educación Infantil.
+
+Con el fin de favorecer la inclusión de todo el alumnado, se prestará especial atención a la organización de los espacios (aula-centro) y a la accesibilidad del material manipulativo en el aula. Asimismo, el diseño de las actividades diarias debe abordarse desde un enfoque que prevenga la discriminación; para asegurar el bienestar emocional y fomentar la inclusión social del alumnado con discapacidad, se garantizará la interacción con los iguales en el desarrollo de dichas actividades. De la misma manera, se tendrán en cuenta las posibles necesidades específicas en lo relativo a la comunicación y el lenguaje del alumnado con discapacidad.
+
+Se recogen, a continuación, algunos de los modos en los que, desde la etapa, se contribuye a la adquisición de las competencias clave:
+
+Competencia en comunicación lingüística.
+
+En la Educación Infantil, se potencian intercambios comunicativos respetuosos con otros niños y otras niñas y con las personas adultas, a los que se dota de intencionalidad y contenidos progresivamente elaborados a partir de conocimientos, destrezas y actitudes que se vayan adquiriendo. Con ello, se favorecerá la aparición de expresiones de creciente complejidad y corrección sobre necesidades, vivencias, emociones y sentimientos propios y de las demás personas. Además, la oralidad tiene un papel destacado en esta etapa no solo por ser el principal instrumento para la comunicación, la expresión y la regulación de la conducta, sino también porque es el vehículo principal que permite a niños y niñas disfrutar de un primer acercamiento a la cultura literaria a través de las rimas, retahílas, adivinanzas y cuentos, que enriquecerán su bagaje sociocultural y lingüístico, desde el respeto de la diversidad.
+
+Competencia plurilingüe.
+
+En esta etapa, se inicia el contacto con lenguas y culturas distintas de la familiar, fomentando en niños y niñas las actitudes de respeto y aprecio por la diversidad lingüística y cultural, así como el interés por el enriquecimiento de su repertorio lingüístico. Se promueven, de este modo, el diálogo y la convivencia democrática.
+
+Competencia matemática y competencia en ciencia, tecnología e ingeniería
+
+Los niños y las niñas se inician en las destrezas lógico-matemáticas y dan los primeros pasos hacia el pensamiento científico a través del juego, la manipulación y la realización de experimentos sencillos. El proceso de enseñanza y aprendizaje en la Educación Infantil se plantea en un contexto sugerente y divertido en el que se estimula, desde un enfoque coeducativo, la curiosidad de niños y niñas por entender aquello que configura su realidad, sobre todo lo que está al alcance de su percepción y experiencia, respetando sus ritmos de aprendizaje. Con esta finalidad, se invita a observar, clasificar, cuantificar, construir, hacerse preguntas, probar y comprobar, para entender y explicar algunos fenómenos del entorno natural próximo, iniciarse en el aprecio por el medioambiente y en la adquisición de hábitos saludables. Para el desarrollo de esta competencia clave, se presta una especial atención a la iniciación temprana en habilidades numéricas básicas, la manipulación de objetos y la comprobación de fenómenos.
+
+Competencia digital.
+
+Se inicia, en esta etapa, el proceso de alfabetización digital que conlleva, entre otros, el acceso a la información, la comunicación y la creación de contenidos a través de medios digitales, así como el uso saludable y responsable de herramientas digitales. Además, el uso y la integración de estas herramientas en las actividades, experiencias y materiales del aula pueden contribuir a aumentar la motivación, la comprensión y el progreso en la adquisición de aprendizajes de niños y niñas.
+
+Competencia personal, social y de aprender a aprender.
+
+Resulta especialmente relevante que los niños y las niñas se inicien en el reconocimiento, la expresión y el control progresivo de sus propias emociones y sentimientos, y avancen en la identificación de las emociones y sentimientos de las demás personas, así como en el desarrollo de actitudes de comprensión y empatía. Por otro lado, la escolarización en esta etapa supone también el descubrimiento de un entorno diferente al familiar, en el que se experimenta la satisfacción de aprender en sociedad, mientras se comparte la experiencia propia con otras personas y se coopera con ellas de forma constructiva. Para ello, los niños y las niñas comienzan a poner en marcha, de manera cada vez más eficaz, recursos personales y estrategias que los ayudan a desenvolverse en el entorno social con progresiva autonomía y a resolver los conflictos a través del diálogo en un contexto integrador y de apoyo.
+
+Competencia ciudadana.
+
+Con el objetivo de sentar las bases para el ejercicio de una ciudadanía democrática, se ofrecen, en esta etapa, modelos positivos que favorezcan el aprendizaje de actitudes basadas en los valores de respeto, equidad, igualdad, inclusión y convivencia, y que ofrezcan pautas para la resolución pacífica y dialogada de los conflictos. Se invita también a la identificación de hechos sociales relativos a la propia identidad y cultura. Del mismo modo, se fomenta un compromiso activo con los valores y las prácticas de la sostenibilidad y del cuidado y protección de los animales. A tal fin, se promueve la adquisición de hábitos saludables y sostenibles a partir de rutinas que niños y niñas irán integrando en sus prácticas cotidianas. Además, se sientan las condiciones necesarias para crear comportamientos respetuosos con ellos mismos, con las demás personas y con el medio, que prevengan conductas discriminatorias de cualquier tipo.
+
+Competencia emprendedora.
+
+La creación y la innovación son dos factores clave para el desarrollo personal, la inclusión social y la ciudadanía activa a lo largo de la vida. La Educación Infantil es una etapa en la que se estimulan la curiosidad, la iniciativa, la imaginación y la disposición a indagar y a crear mediante el juego, las actividades dirigidas o libres, los proyectos cooperativos y otras propuestas de aprendizaje, lo cual supone una oportunidad para potenciar la autonomía y materializar las ideas personales o colectivas. De esta manera, se asientan las bases tanto del pensamiento estratégico y creativo, como de la resolución de problemas, y se fomenta el análisis crítico y constructivo desde las primeras edades.
+
+Competencia en conciencia y expresión culturales.
+
+Para que los niños y las niñas construyan y enriquezcan su identidad, se fomenta, en esta etapa, la expresión creativa de ideas, sentimientos y emociones, a través de diversos lenguajes y distintas formas artísticas. Asimismo, se ayuda al desarrollo de la conciencia cultural y del sentido de pertenencia a la sociedad a través de un primer acercamiento a las manifestaciones culturales y artísticas.
+
+
+## ANEXO 2
+
+
+### Áreas de la educación infantil
+
+La Educación Infantil constituye una etapa educativa con identidad propia. Su finalidad es la de contribuir al desarrollo motriz, emocional, psíquico, relacional, cognitivo y artístico, así como al de todas las potencialidades y capacidades que los niños y las niñas poseen desde el nacimiento, atendiendo a los ritmos individuales, proporcionando un clima y un entorno de seguridad y confianza, en el que el alumnado, sus familias, tutores o tutoras, y otras personas adultas significativas, se sientan acogidos, respetados y con expectativas de acción, participación y aprendizaje. La escuela, por tanto, debe construirse como un espacio acogedor, amable, que favorezca el disfrute de la vida en grupo y ofrezca la posibilidad de compartir vivencias, emociones y aprendizajes.
+
+Este currículo ofrece una mirada sensible y respetuosa hacia la cultura de la infancia y sus procesos de aprendizaje y desarrollo, desde una perspectiva socioconstructivista, en la que la interacción social sirve como base para construir los aprendizajes. Y es que niños y niñas forman parte de la ciudadanía de pleno derecho, y muestran curiosidad, ganas de crear, investigar, apertura al mundo que les rodea; así como deseo de implicarse en el entorno en el que transcurre su vida cotidiana.
+
+Esta etapa conlleva una gran responsabilidad por parte de todos los agentes que participan en ella, dada su contribución a la construcción de una sociedad igualitaria, inclusiva y de bienestar.
+
+El carácter integral del desarrollo infantil en estas edades tiene que ver con una comprensión amplia de la interrelación que se da entre las diferentes dimensiones: ética, artística, corporal, cognitiva, comunicativa y socio-afectiva. De esta forma, el aprendizaje se constituye como una actividad social y comunicativa en la que las niñas y los niños, a través del juego, construyen y reconstruyen el conocimiento, creando su propio significado del mundo. La escuela debe responder a ello, ofreciendo experiencias significativas, estimulantes y favorecedoras del desarrollo del potencial de cada alumno y alumna.
+
+Debemos, asimismo, contemplar esta etapa como una oportunidad para ampliar el campo de relaciones. Por ello, es necesaria la construcción de vínculos segurizantes que permitan que los niños y las niñas se puedan relacionar de manera activa y con protagonismo, con quienes comparten la “vida de escuela”.
+
+Este currículo, único para toda la etapa, permite garantizar la cohesión y la coherencia pedagógica entre el primer y el segundo ciclo, ofreciendo la oportunidad de construir procesos de aprendizaje que contribuyan al desarrollo holístico de niños y niñas; potenciando sus capacidades; respetando como principio básico la atención a la diversidad, con el fin de que puedan alcanzar los logros de la etapa cuya consecución está vinculada a la adquisición de las competencias específicas y al inicio del proceso de desarrollo de las competencias clave. La necesidad de sistematizar y planificar la actividad educativa aconseja la organización del currículo de la etapa en tres áreas correspondientes a ámbitos propios de la experiencia y del desarrollo infantil: Crecimiento en Armonía, Descubrimiento y Exploración del Entorno, y Comunicación y Representación de la Realidad. Estas tres áreas participan en todos los aprendizajes y contribuyen al desarrollo de todas las competencias clave, así como a la consecución de los objetivos de la etapa.
+
+En ambos ciclos de la etapa se atenderá progresivamente a la expresividad motriz, al acompañamiento para la gestión emocional, a las manifestaciones de la comunicación y el lenguaje, a la expresividad artística, a las pautas elementales de convivencia y relación social, así como al descubrimiento del entorno, de los seres vivos que en él conviven, y a las características físicas, sociales y culturales de su contexto más inmediato.
+
+En esta etapa, el proceso de desarrollo y de aprendizaje viene marcado por el aumento progresivo de la actividad a través de la experimentación y el juego. En el primer ciclo, se otorga especial relevancia a los procesos de descubrimiento y dominio del propio cuerpo y de individualización; a las interacciones en el entorno físico y social, creando relaciones con iguales y personas adultas; a la construcción de los lenguajes expresivos y comunicativos; y a los cuidados esenciales en un entorno seguro, afectivo y participativo, que les procure una respuesta ajustada a sus necesidades básicas.
+
+En el segundo ciclo, continúan los procesos iniciados en el primer ciclo, cobrando mayor protagonismo la adquisición de destrezas que contribuyan a elaborar la noción del yo y el “aprender a hacer”, iniciándose así el camino hacia el desarrollo de un cierto grado de autonomía, responsabilidad e iniciativa en la realización de tareas.
+
+Desde cada una de las áreas se proponen unas competencias específicas, comunes a los dos ciclos de la etapa, que establecen los aprendizajes e identifican las capacidades que se deben desplegar en situaciones o actividades organizadas en torno a los saberes básicos. Su adquisición tiene un carácter secuencial y progresivo a lo largo de la etapa. Para la formulación de estas competencias específicas se han tenido en cuenta las competencias clave de la Recomendación del Consejo de la Unión Europea, de 22 de mayo de 2018, relativa a las competencias clave para el aprendizaje permanente en su vinculación con los retos y desafíos del siglo XXI, lo que conecta el currículo de la etapa de Educación Infantil con el enfoque competencial presente en el currículo del resto de etapas educativas.
+
+Con este enfoque integral del aprendizaje y teniendo en cuenta el contexto plurilingüe de las islas Canarias, es necesario destacar la importancia de introducir y desarrollar, en estas edades, la aproximación a una primera lengua extranjera.
+
+Establecidos para cada área, los criterios de evaluación reflejan los niveles de desempeño esperados en un momento determinado del proceso de aprendizaje, atendiendo a la edad y al proceso evolutivo del alumnado. Por el propio carácter de la etapa, estos criterios de evaluación no tienen valor acreditativo, pero sirven de guía y orientación para identificar el ritmo y las características del progreso que se va produciendo en los niños y en las niñas, proporcionando una valiosa información para desarrollar la labor de prevención, detección e intervención de dificultades de aprendizaje, determinante en edades tempranas.
+
+En cada área, además, se incluyen los saberes básicos que los niños y las niñas deben integrar y movilizar al finalizar cada ciclo, para poder desplegar las actuaciones a las que refieren las competencias específicas, en cuanto al grado de adquisición esperado y que se establece en los criterios de evaluación. Los mismos se organizan en bloques relacionados con las competencias específicas correspondientes.
+
+Para que la progresiva adquisición de las competencias sea efectiva, es imprescindible diseñar situaciones de aprendizaje globalizadas, activas, manipulativas, lúdicas, abiertas, respetuosas con las diferentes formas de hacer y pensar en cada momento de la etapa, y en las que los niños y niñas sientan el placer de ser protagonistas capaces de desplegar su curiosidad y de construir sus aprendizajes. Las situaciones de aprendizaje integran todos los elementos que constituyen el proceso de enseñanza y aprendizaje competencial, al proponer una situación problema, bien contextualizada y de cierta complejidad (en función de la edad y del desarrollo) que, para ser resuelta de manera creativa y eficaz, implique la puesta en funcionamiento, de manera integrada, de toda una serie de recursos y saberes.
+
+Para llevar a la práctica los diversos modelos o estrategias de enseñanza y de aprendizaje, y para que la creatividad, la innovación, la curiosidad y la expresión emocional sean el corazón de los procesos individuales y colectivos, el ambiente de aula debe acoger y dar respuesta a las inquietudes investigadoras infantiles. Este ambiente se estructura en una doble vertiente en continua interrelación: el clima emocional y el espacio físico. El espacio ha de ser un entorno estético y amable, que acoja la diversidad infantil; en el que la sensación de bienestar, seguridad y confianza invite al aprendizaje tranquilo, en calma, con tiempo… Un espacio educativo que exprese, que comunique, que haga visible el pensamiento, con zonas que permitan la comunicación y el movimiento, y garanticen la activación de las diversas capacidades de modo combinado. Se partirá de la premisa, además de que todos los espacios de la escuela son espacios educativos y para el aprendizaje.
+
+El ambiente creativo, de trabajo lúdico-investigador, así como los materiales cuidados y seleccionados, atendiendo a las necesidades del alumnado, facilitan el desarrollo de todos los lenguajes y modos de percepción específicos de estas edades, el respeto por las distintas perspectivas y puntos de vista, potencia la autonomía, la autogestión y, al mismo tiempo, el aprendizaje cooperativo.
+
+La familia supone un contexto privilegiado e insustituible de transmisión de valores que influyen en los aprendizajes, en la toma de decisiones y en el modo de estar en el mundo de los niños y las niñas. Una vez que estos se incorporan al mundo escolar, esta responsabilidad se vuelve compartida. La escuela generadora de comunidad y convivencia ha de buscar la forma propia de convertirse en un lugar especial para que cada familia y alumnado, que son indisociables, de manera que cada niño o niña encuentre su lugar de pertenencia, sea reconocido por la escuela, pueda aportar algo propio a la comunidad y continuar así con su desarrollo personal, ampliando su mundo de relaciones y su bagaje experiencial y de aprendizajes.
+
+La atención a las diferencias individuales se establece como principio fundamental, cuyo objetivo es proporcionar a todo el alumnado una educación de calidad, adecuada a sus características y necesidades. En la Educación Infantil, los ritmos y procesos de maduración son elementos fundamentales. Por ello y para reforzar el enfoque inclusivo de la enseñanza, la intervención educativa debe contemplar la diversidad del alumnado, adaptando la práctica educativa a las características personales, necesidades e intereses de los niños y las niñas; e identificando aquellas características que puedan tener incidencia en su evolución escolar, con el objetivo de asegurar la plena inclusión e integración de todo el alumnado. Esto debe estar recogido en la Propuesta Pedagógica, instrumento de planificación que forma parte del Proyecto Educativo del centro, coherente con los principios que fundamentan, dan sentido y orientan los diferentes proyectos, planes y actividades del centro educativo.
+
+El rol docente debe orientarse a nutrir esa cultura de infancia y acompañar a niños y niñas en el proceso de aprendizaje, en el descubrimiento del mundo que los rodea, escuchando sus necesidades e intereses, aceptando la pluralidad… Para ello, es necesario entender la continuidad de los procesos, dar tiempo y espacios para el juego, para hacer, probar, reconstruir, volver a intentar, cambiar e ir encontrando el camino.
+
+Para la práctica evaluativa docente y del alumnado, es fundamental la observación, el registro y la documentación de los diversos procesos de desarrollo y aprendizaje de cada niño, niña y grupo, que evidencie lo vivido, lo esperado, lo inesperado y todo lo aprendido. El uso de herramientas y de recursos consensuados por los equipos educativos, ayudan a sistematizar la recogida de información que los niños y las niñas nos ofrecen, y que nos permiten conocer y evaluar mejor los procesos de aprendizaje realizados.
+
+La incorporación a la escuela, en cualquier momento de esta etapa, constituye un hito fundamental. Dada su relevancia, la transición entre el contexto familiar y el contexto educativo debe producirse en un clima de seguridad, confianza y afecto que añada, al natural sentimiento de expectación, los de disfrute y alegría. En el primer ciclo, los procesos de acogida y paulatina adaptación visibilizan toda una historia personal, única, propia e irrepetible, llena de vivencias y sentimientos intensos e incluso, a veces, contradictorios. El centro debe responder a las necesidades de este primer encuentro, acogiendo a las niñas y los niños desde el respeto a su individualidad, a su ritmo personal de desarrollo y crecimiento, y al mundo personal y diverso que lo acompaña.
+
+Al completarse el segundo ciclo, se produce la transición hacia la enseñanza básica, un proceso de gran importancia al que debe dedicarse una especial atención, de manera que se promueva la colaboración de todos los componentes de la comunidad educativa, con el fin de garantizar una continuidad entre ciclos y entre etapas fluida, amable y respetuosa, con el proceso de desarrollo integral del alumnado en todas sus dimensiones, y teniendo en cuenta sus potencialidades, intereses y necesidades. Por ello, es necesario garantizar no solo una adecuada y estrecha coordinación entre el profesorado y las profesionales y los profesionales que inciden en el primer y segundo ciclo de la Educación Infantil, para continuar el proceso iniciado; sino también entre los maestros y las maestras que inciden en este etapa y la del primer ciclo de la Educación Primaria, para que la transición entre ambas etapas tenga elementos de continuidad.
+
+Los saberes propios de Canarias se han incluido en el currículo del área desde un enfoque centrado en la educación patrimonial. Este enfoque presenta un carácter globalizador y transversal, y nace con la premisa de concienciar y sensibilizar al alumnado canario acerca de la importancia del cuidado, disfrute y transmisión del patrimonio, pone el acento en la identificación y puesta en valor del mismo como parte inseparable de la sociedad, y apuesta por la implicación de la ciudadanía para lograr su sostenibilidad y la de los valores que en él perduran.
+
+De esta manera, a lo largo de la Educación Infantil, el alumnado se acerca de manera gradual a estos aprendizajes, propiciándose la inserción, en los currículos de las diferentes áreas de la etapa, de contextos de aprendizaje en torno al patrimonio cultural canario, que promuevan la participación de los niños y las niñas, para que lo conozcan, disfruten y valoren, contribuyendo así a su sensibilización, respeto y conservación.
+
+En definitiva, este currículo quiere ofrecer una visión humanista de la educación, orientada a la creación de oportunidades de desarrollo en múltiples escenarios significativos que permitan a los niños y las niñas construir sus aprendizajes, en conexión con su realidad y de una manera natural, placentera y reflexiva.
+
+
+### Área 1. crecimiento en armonía
+
+Introducción.
+
+El área de Crecimiento en Armonía se centra en las dimensiones personal y social del niño y la niña, entendidas como inseparables y complementarias, que se desarrollan y regulan de manera progresiva, conjunta y armónica, aunque solo adquiere sentido desde la complementariedad con las otras dos áreas, ya que se produce en un entorno físico y natural determinado, y precisa de la utilización de distintos lenguajes (verbal, no verbal, artístico, icónico, visual, multimedia…) y representaciones de la realidad.
+
+La identidad y la autonomía se construyen en relación a sí mismo, a sí misma y a las demás personas, iguales y adultas, en espacios preparados para ello y disponiendo de un tiempo relacional de calidad, en el que se posibilite el juego, el descubrimiento y la construcción de la propia personalidad, y donde cada niña y cada niño pueda desplegar ese yo que está aprendiendo a ser.
+
+En esta etapa, es necesario otorgar importancia al cuerpo infantil y a su expresividad motriz. En este sentido, un adecuado desarrollo iniciado con el movimiento libre, la exploración sensorial y psicomotriz, el dominio progresivo de habilidades motrices como la coordinación, el tono, el equilibrio y la organización progresiva de la lateralidad, favorecerá las condiciones de maduración neurológicas necesarias para el desarrollo de aprendizajes futuros.
+
+La especial forma de ser, estar y hacer en un entorno que es social; el intercambio comunicativo; el juego solitario, con iguales o con otras personas adultas; el descubrimiento y la aceptación de otros puntos de vista, así como la diversidad de agrupamientos, favorecerá, el aumento del bagaje relacional y el desarrollo de las capacidades de interrelación y cooperación en el alumnado.
+
+El juego libre o espontáneo, no dirigido, con su propio cuerpo, con el de las demás personas, con los objetos y con las características del contexto inmediato es la actividad predilecta de los niños y las niñas, y la que les posibilita la necesaria maduración motriz, emocional, psíquica, relacional y cognitiva para aprender e interactuar con el entorno.
+
+Desde el profundo respeto a los ritmos y estilos de maduración individuales, los procesos de enseñanza y aprendizaje deben adaptarse a las características personales, las necesidades, los intereses y el estilo cognitivo de cada niño o niña. Se atiende, por tanto, al desarrollo físico-motor, a la adquisición paulatina del autocontrol y al proceso gradual de construcción de la identidad personal, fruto de las interacciones individuales, con el entorno y con el resto de personas. En este proceso, se irá avanzando hacia una progresiva autonomía, en la medida en que cada persona va aprendiendo a integrar y a utilizar los recursos y las estrategias que le facilitan un despliegue personal ajustado y adaptado.
+
+El entorno escolar debe proporcionar el contexto adecuado y el acompañamiento necesario, bajo una mirada atenta, paciente y respetuosa, para que los bebés puedan descubrir el placer que les proporciona la actividad por iniciativa propia, que es su principal necesidad en relación con su entorno, todo ello en un ambiente estimulante de seguridad, calma y tranquilidad. De ese modo, irán reconociendo su cuerpo tanto global como parcialmente, sus posibilidades perceptivas y de acción, expresión y movimiento, así como sus limitaciones; y serán capaces de identificar las sensaciones que experimentan, disfrutar con ellas y servirse de las posibilidades expresivas del cuerpo para manifestarlas.
+
+A lo largo de la etapa, se irá evolucionando desde una actividad refleja e involuntaria, hacia una actividad motora cada vez más intencional, que se va desarrollando en paralelo al control progresivo de su cuerpo. La adquisición de destrezas cada vez más complejas será el resultado de responder a la necesidad de utilizar instrumentos y herramientas en las actividades cotidianas y en los juegos motores, sensoriales, simbólicos y con reglas.
+
+La intervención educativa debe guiar y fomentar el logro de una autoimagen ajustada y positiva en todos los aspectos. Es la etapa en la que se produce el descubrimiento de la sexualidad y se inicia la construcción de género, por lo que supone un momento clave para acompañar a cada niño y niña en su propio desarrollo personal, respetando la diversidad afectivo-sexual y ayudándole a identificar y eliminar todo tipo de discriminación. En este sentido, es importante recordar que la interacción con la persona adulta orienta y modela en gran medida al niño y la niña, ya que tienden a imitar y reproducir sus estrategias relacionales; por ello, es imprescindible identificar y erradicar los posibles mecanismos de discriminación oculta que puedan persistir en el entorno escolar.
+
+El desarrollo de la afectividad es especialmente relevante en esta etapa, ya que es la base de los aprendizajes y conforma la personalidad infantil. Por ello, se debe incidir, desde el primer momento, en el reconocimiento, la expresión y el control progresivo de emociones y sentimientos. La expresión instintiva de las primeras emociones, asociada sobre todo a la satisfacción de las necesidades básicas, irá evolucionando hacia formas progresivamente complejas y sofisticadas, conscientes de las normas y los valores sociales.
+
+Las necesidades deben atenderse en un clima acogedor y tranquilo, que proporcione los tiempos necesarios para que cada momento se viva como algo placentero; en este sentido, los cuidados deben responder a estándares de calidad y contribuir a la toma de conciencia del bienestar personal y de sus posibilidades. Solo a partir de la sensación de bienestar, el resto de principios alcanza un valor significativo y global. En este marco, la vida escolar se organiza en torno a rutinas estables, planificadas a partir de los ritmos biológicos y vinculadas a la adquisición progresiva de hábitos saludables de alimentación, higiene y descanso. De forma paulatina, se incrementará su iniciativa para incorporar en sus prácticas cotidianas los hábitos que contribuyen al cuidado del propio cuerpo y de los espacios en los que transcurre su vida cotidiana. En paralelo al desarrollo de su autonomía personal, se inicia el despertar de la conciencia respecto a la relación de interdependencia y ecodependencia existente entre las personas y el entorno, adquiriéndose así, de manera progresiva, hábitos sostenibles y ecosocialmente responsables.
+
+El establecimiento de vínculos afectivos de calidad con las personas significativas que le rodean potenciará la interacción y la curiosidad infantil por conocer y comprender la realidad. Para que la escolarización se convierta en una primera experiencia vital emocionante y satisfactoria, debe producirse en un entorno rico, seguro y estimulante. Los padres, las madres o las personas que ejercen la tutoría de los niños y las niñas son los primeros responsables de su salud, bienestar y desarrollo; por ello, se hace imprescindible facilitar su participación en la creación de un apego seguro en el entorno educativo. Dicha participación incluye su presencia en el aula, en diversos momentos del curso escolar, especialmente en los periodos de acogida.
+
+Con la incorporación al entorno escolar, irán descubriendo su pertenencia al medio social, se amplían de manera significativa las relaciones interpersonales, se generan nuevos vínculos y se desarrollan actitudes como la confianza, la empatía y el apego seguro, que constituyen una base sólida para su socialización. El aula se convierte en una comunidad de convivencia en la que se desarrollan habilidades socioemocionales y donde cada persona puede expresar sus necesidades, respetando las de las demás personas, aprendiendo a gestionar y resolver los conflictos de manera dialogada, y evitando cualquier tipo de violencia y discriminación. La diversidad étnica y cultural posibilita el acceso de niños y niñas a los diversos usos y costumbres sociales desde una perspectiva abierta e integradora, que les permite conocer las diversas manifestaciones culturales presentes en la sociedad y generar así actitudes de aceptación, respeto y aprecio, especialmente hacia la identidad canaria y otros hechos diferenciales del archipiélago.
+
+El área de Crecimiento en Armonía pretende contribuir a que los niños y niñas se expresen  a través del cuerpo, del juego y del movimiento libre. Las personas adultas que acompañan los procesos de aprendizaje y desarrollo en la infancia, tienen la oportunidad de diseñar experiencias que acompañen la acción desde el respeto a la individualidad.
+
+Contribución a los objetivos de etapa.
+
+El área de Crecimiento en Armonía se relaciona, de manera significativa, con los objetivos de etapa a), b), c), d), e), h) reseñados en el artículo 6 de este Decreto, al favorecer, en su dimensión personal, la construcción de la propia identidad, a través de experiencias en el entorno cercano, contribuyendo, específicamente, a que los niños y las niñas conozcan su cuerpo y el de las otras personas, sus posibilidades motrices, cognitivas y de acción, así como las diferencias que les identifican; y a que adquieran, progresivamente, autonomía para resolver sus actividades habituales. Desde su dimensión social, contribuye a que niños y niñas desarrollen sus capacidades afectivas y emocionales; a que aprendan a relacionarse con sus iguales y con las personas adultas, en el entorno sociocultural más cercano, respetando las pautas elementales de convivencia y aprendiendo a resolver con empatía los conflictos que se les presenten; a aplicar y desarrollar las normas sociales que fomentan la igualdad entre hombres y mujeres; y a adoptar modelos, normas y hábitos que promuevan estilos de vida saludables, sostenibles y ecosocialmente responsables. Para ello el juego, espontáneo o sugerido, se revela como una actividad privilegiada que combina las experiencias emocionales, cognitivas y sociales.
+
+Contribución a las competencias clave.
+
+La etapa de la Educación Infantil constituye el punto de partida del aprendizaje a lo largo de toda la vida, suponiendo el inicio del proceso de desarrollo y adquisición de las competencias clave. Es por ello por lo que el enfoque competencial determina los diferentes elementos curriculares así como los propios principios pedagógicos de la etapa.
+
+El área Crecimiento en Armonía contempla aprendizajes que permitirán el inicio del desarrollo y posterior adquisición de las competencias clave. De esta forma, el uso de los distintos tipos de lenguaje en la manifestación y expresión de emociones, vivencias e intereses; la actitud favorable hacia la expresión de necesidades, sentimientos y afectos; la comunicación asertiva de las necesidades propias y la escucha activa de otros puntos de vista, en procesos coeducativos y cooperativos, y el uso progresivo del lenguaje verbal como medio de expresión para planificar las acciones de la vida cotidiana son elementos que contribuyen a la adquisición de la Competencia en comunicación lingüística (CCL).
+
+En esta área el encuentro con la diversidad del aula tiene un espacio importante. A través de distintas propuestas, tareas y actividades se favorecen las actitudes de respeto y aprecio por la diversidad lingüística y cultural, el interés por conocer otras lenguas, diferentes a la propia, y se promueve la convivencia democrática contribuyendo, así, al desarrollo y progresiva adquisición de la Competencia plurilingüe (CP).
+
+La adquisición de destrezas para realizar las actividades habituales de la vida cotidiana con un cierto grado de autonomía e iniciativa; la identificación de las cualidades personales y diferencias con respecto a otras personas, con aceptación y respeto; el desarrollo inicial de hábitos saludables y actitudes de organización, planificación e iniciativa; la satisfacción por la realización de tareas y la conciencia de la propia capacidad; la puesta en marcha, de forma cada vez más eficaz, de los recursos personales y de la estrategias que ayudan a desenvolverse en el entorno social con progresiva autonomía; así como la resolución de los conflictos a través del diálogo en un contexto integrador y de apoyo, sientan las bases del desarrollo de la Competencia personal, social y de aprender a aprender (CPSAA).
+
+De la misma manera, los saberes relacionados con la adquisición de destrezas y actitudes vinculadas al respeto por las diferencias individuales; la aceptación de algunas las normas necesarias para el desarrollo de determinados juegos; el inicio en el reconocimiento, la expresión y el control progresivo de sus propias emociones y sentimientos; así como el avance en la identificación de las emociones y sentimientos de los demás, creando vínculos de apego sanos y estables, adoptando modelos sociales adecuados en un entorno de cooperación, respeto y empatía, contribuyen al desarrollo de la Competencia ciudadana (CC).
+
+El descubrimiento del entorno escolar, diferente al familiar, en el que se experimenta la satisfacción de aprender en sociedad, mientras se comparte la experiencia propia con otras personas y se coopera con ellas de forma constructiva; así como la participación en sencillos juegos relacionados con el acervo cultural canario y el interés por conocer otros propios de nuestras costumbres y tradiciones o de otras culturas, es una primera aproximación a la adquisición de la Competencia en conciencia y expresión culturales (CCEC).
+
+Bloques competenciales.
+
+El bloque competencial es el eje del currículo de cada área: integra la enunciación de las competencias específicas, su vinculación con el marco competencial, los criterios de evaluación y la explicación del bloque competencial.
+
+Las competencias específicas, que tienen carácter finalista, constituyen un elemento de conexión entre las competencias clave y los saberes propios del área. En cuanto a los criterios de evaluación, estos constituyen los referentes que indican el nivel de desempeño a alcanzar por el alumnado. En lo relativo a las explicaciones de los bloques competenciales, estas integran los aprendizajes recogidos en la totalidad del bloque, orientan sobre el proceso de desarrollo y adquisición tanto de las competencias específicas como de las competencias clave; y ofrecen, además, indicaciones metodológicas -siempre con una perspectiva abierta, flexible e inclusiva- para el diseño y la implementación de situaciones de aprendizaje competenciales. Es por ello que las explicaciones de los bloques competenciales se constituyen como los referentes más adecuados para la planificación de la concreción curricular y de la programación didáctica.
+
+Competencias específicas y criterios de evaluación.
+
+En el área de Crecimiento en Armonía se han establecido cuatro competencias específicas, que se concretan en doce criterios de evaluación para el primer ciclo y dieciocho criterios de evaluación para el segundo. A todos ellos se les ha dado carácter longitudinal, de modo que aumenta, de manera progresiva, la complejidad de los aprendizajes contemplados en los mismos a lo largo de los dos ciclos de la etapa.
+
+Estos criterios de evaluación presentan una marcada naturaleza competencial, de manera que se relacionan directamente con las competencias clave a las que contribuye cada una de las competencias específicas, expresando tanto las capacidades y los saberes a adquirir, como el contexto y modo de aplicación de dichos aspectos. Estos constituyen los referentes que indican el nivel de desempeño a alcanzar por el alumnado presentando carácter orientativo, constituyéndose en los referentes para identificar el ritmo y el progreso que se va produciendo en lo que se refiere a la adquisición de los aprendizajes establecidos en cada bloque competencial.
+
+Las competencias específicas de esta área identifican las actuaciones que se espera que niños y niñas sean capaces de desplegar en relación con su propio desarrollo personal y social a lo largo de la etapa, como consecuencia de la intervención educativa. Las tres primeras competencias específicas se refieren a aspectos relacionados con su propio desarrollo personal: el progresivo control personal a medida que van construyendo su propia identidad, el establecimiento de relaciones afectivas con las personas cercanas y el uso de los recursos personales para desenvolverse en el medio de una forma cada vez más ajustada e independiente, valorando y confiando en sus posibilidades y cualidades, y respetando las de las demás personas. La última competencia específica atiende a la necesaria correlación entre la construcción de la propia identidad y las interacciones en el entorno sociocultural, donde aquella se produce, resaltando la importancia de propiciar y favorecer interacciones sanas, sostenibles, eficaces, igualitarias y respetuosas.
+
+Competencia específica 1 (C1).
+
+En esta competencia específica, el conocimiento, la valoración y el control que los niños y las niñas van adquiriendo de sí mismos, de sí mismas y del uso de los recursos de su propio cuerpo, junto a la utilización de los sentidos para desenvolverse en el medio de forma cada vez más ajustada e independiente, son aspectos fundamentales, que van conformando su autonomía y su autodeterminación. Reconocerse como persona diferenciada de las demás, elaborar la noción del “yo” y formarse una autoimagen positiva son procesos relevantes que requieren la toma de conciencia sobre las propias posibilidades, a partir de la identificación de las cualidades personales y de las diferencias con respecto a las otras personas, siempre desde la aceptación y el respeto. Dichos procesos se producen a partir del juego, de las interacciones espontáneas con el medio, de las sensaciones que experimentan y de la exploración personal, de los objetos y del entorno. A través del juego viven también experiencias que contribuyen a su desarrollo armónico e integral, y demuestran un control creciente de su cuerpo, así como mayor autonomía e independencia con respecto a las personas adultas. Experimentar las posibilidades motrices y sensitivas del propio cuerpo servirá para avanzar en el control dinámico en desplazamientos y movimientos, superar retos y elaborar un esquema corporal cada vez más ajustado. También servirá para desarrollar destrezas necesarias en la exploración, manipulación y uso de utensilios comunes.
+
+Competencia específica 2 (C2).
+
+Esta competencia específica incide en aprendizajes relativos a conocer e iniciarse en el manejo de sus emociones, y constituye una herramienta fundamental para poder hacer frente, gradualmente, con seguridad y autonomía, a situaciones cambiantes e inciertas presentes en su vida cotidiana. En la satisfacción de sus propias necesidades y en las situaciones de juego es donde las emociones están más vinculadas al desarrollo del yo y al conocimiento de las normas y los valores sociales, ya que, a través de las interacciones con las otras personas, se avanza en la identificación, comprensión y regulación de las emociones propias, así como en la apropiación de información muy valiosa sobre su persona. Todo ello irá contribuyendo de manera decisiva a la interiorización de sentimientos de seguridad y confianza personales, dos aspectos fundamentales para la construcción de la autoestima y la formación de una autoimagen positiva y ajustada, alejada de los estereotipos sexistas. También se desarrolla la confianza en las demás personas, lo que incide en la mejora de las relaciones sociales, de la automotivación con respecto a las actividades y los juegos, y de la comprensión y expresión de lo que necesita, siente, piensa, prefiere y le interesa.
+
+Establecer relaciones armoniosas y de calidad supone potenciar que cada niño y cada niña puedan identificar y superar sus límites, reforzar sus fortalezas, regular sus necesidades personales, valorar el trabajo bien hecho, aprender de los errores de forma constructiva aceptando positivamente las correcciones, tomar iniciativas propias sobre su persona y sobre el entorno, y establecer metas realistas y ambiciosas con creatividad y responsabilidad, sintiéndose el reconocimiento dentro del grupo.
+
+Competencia específica 3 (C3).
+
+A través de esta competencia específica, se incide en la adquisición de estilos de vida saludables y sostenibles, así como en su progresiva integración en la vida cotidiana; se contribuye, asimismo, al cuidado del propio cuerpo y al logro de una creciente autonomía. En este proceso resulta imprescindible que conozcan y reflexionen sobre las normas que contribuyen a crear tendencias de actuación respetuosas personales con las demás personas y con el medio, desde una perspectiva interdependiente y ecorresponsable. Se espera también que se produzca un inicio en la reflexión sobre el consumo responsable de bienes y recursos, así como que se promueva la actividad física como conducta saludable.
+
+Todo ello se transfiere al aula a través de la realización de rutinas entendidas como prácticas secuenciadas que se repiten de manera estable e intencional, para favorecer la regulación de los ritmos biológicos y el ajuste a los tiempos personales. Por ello, es preciso encontrar momentos de atención personal, a través de un trato individualizado a cada niño o niña, especialmente en lo referido a la satisfacción de sus necesidades, a partir de su ritmo biológico y procurando su bienestar y confortabilidad. Todo ello contribuye al desarrollo de una percepción personal más ajustada y al sentimiento de logro derivado de la percepción de la progresiva competencia adquirida, en las actividades relacionadas con la alimentación, la higiene, el vestido o el descanso.
+
+Por último, se deben estimular iniciativas relativas a la importancia de prevenir los riesgos y evitar los accidentes.
+
+Competencia específica 4 (C4).
+
+Esta competencia específica se centra en la construcción de la identidad a partir del conjunto de interacciones con el entorno social próximo. En este proceso de reformulación de sus recursos cognitivos y afectivos, necesario para establecer nuevas relaciones con las demás personas y con el mundo, es preciso proporcionarles sentimientos de seguridad y confianza mediante la creación de vínculos de apego sanos y estables, que hagan que se sientan respetados, queridos y valorados, de manera que adopten, de manera natural, los modelos sociales adecuados en un entorno de cooperación, respeto y empatía.
+
+En las primeras etapas, el niño o la niña comienza a percibirse como diferente al resto de personas; es capaz de percibir las expresiones emocionales de los demás, pero aún no puede adoptar su punto de vista. Mediante las distintas interacciones y la mediación de las personas adultas, irán asimilando, de manera natural y progresiva, modelos adecuados de relación social, basados en el respeto, la empatía, la promoción de la igualdad entre mujeres y hombres, la aceptación de la diversidad funcional y el respeto a los derechos humanos. Se favorecerá la comunicación asertiva de las necesidades propias así como la escucha activa de las de otras personas, en procesos coeducativos y cooperativos. En la misma línea, la interacción con otros niños y otras niñas con necesidades diversas (sensoriales, físicas, cognitivas…) favorecerá el desarrollo de una perspectiva que les permita entender que la inclusión es enriquecedora. De esta manera, el alumnado va integrando herramientas para ofrecer y pedir ayuda y para resolver conflictos de manera dialogada, con el fin de alcanzar una meta común. Todo ello refuerza el sentido de pertenencia a un grupo, contribuye a aprender a vivir en armonía con las otras personas y favorece el trabajo en equipo.
+
+El reconocimiento y aprecio hacia la pluralidad sociocultural del aula se debe fomentar mediante actividades y juegos que pongan en valor las distintas costumbres y tradiciones. Se realizarán los primeros acercamientos a las manifestaciones propias del patrimonio social y cultural canario, a partir de la participación activa de alumnado en costumbres y tradiciones propias de su entorno más cercano, para, a través de la vivencia de las mismas, valorarlas.
+
+Saberes básicos.
+
+Los saberes básicos del área aparecen integrados tanto en los criterios de evaluación como en las explicaciones de los bloques competenciales. No obstante, quedan establecidos, organizados y secuenciados, a continuación de los mismos.
+
+En el área Crecimiento en Armonía, los saberes básicos se presentan organizados en cuatro grandes bloques: Bloque I, “El cuerpo y el control progresivo del mismo”; Bloque II, “Desarrollo y equilibrio afectivos”; Bloque III, “Hábitos de vida saludable para el autocuidado y el cuidado del entorno”; y Bloque IV, “Interacción socioemocional en el entorno”.
+
+Los saberes en esta área, hacen referencia fundamentalmente a procedimientos y actitudes que favorecen el descubrimiento y reconocimiento de la propia imagen y la de las personas de su entorno, la evolución del juego, la exploración y participación en experiencias activas que despiertan la curiosidad y el interés por el entorno y la integración sensorial del mundo que les rodea. Asimismo, proponen la identificación, adecuación, aceptación y progresivo control de las emociones, aproximándose a la construcción de estrategias de seguridad afectiva. De igual modo, se proponen saberes que desarrollen el autocuidado y el cuidado del entorno, iniciándose en la participación activa en el desarrollo de hábitos sostenibles y ecosocialmente responsables.
+
+El Bloque I y el Bloque II se centran en el desarrollo de la propia identidad, en sus dimensiones física, social y afectiva. Abordan el descubrimiento y reconocimiento de la propia imagen y la de las personas de su entorno, la evolución el juego, la exploración y participación en experiencias activas que despiertan la curiosidad y el interés por el entorno y la integración sensorial del mundo que les rodea. Asimismo, proponen la identificación, la adecuación, la aceptación y el progresivo control de las emociones, aproximándose a la construcción de estrategias de seguridad afectiva.
+
+El Bloque III se centra en el autocuidado, en la progresiva toma de conciencia de sí mismo y de sí misma, y de sus posibilidades, ligada a su vez al desarrollo de sentimientos de seguridad, autoconfianza y autoestima. La interacción con el entorno proporciona una información que contribuye, en gran medida, a la construcción de la propia imagen por lo que se aborda el cuidado del entorno, propiciándose la iniciación en la participación activa en el desarrollo de hábitos sostenibles y ecosocialmente responsables.
+
+El Bloque IV se centra en la transición del grupo familiar al grupo social en la escuela y la necesaria construcción de los primeros vínculos afectivos. En este bloque la construcción de vínculos afectivos de calidad con las personas significativas que les rodean potenciará la interacción con sus iguales y el deseo por conocer y comprender el mundo cercano. Se abordan también aprendizajes acerca del cuidado de la salud emocional y se facilitará un apego seguro en el entorno educativo, descubriendo su pertenencia al medio social, ampliándose de manera significativa las relaciones interpersonales y el desarrollo de actitudes como la confianza y la empatía, que constituyen una base imprescindible para su socialización.
+
+Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos.
+
+Las situaciones de aprendizaje suponen el núcleo central en el desarrollo de las competencias. Las competencias específicas explicitan los desempeños que el alumnado debe poder llevar a cabo en situaciones de aprendizaje, para cuyo abordaje se requieran los saberes básicos de cada área, dentro de un marco de atención inclusiva a las diferencias individuales, y a las singularidades y necesidades de cada alumno o alumna.
+
+En Educación Infantil, la implementación del currículo en cada una de las áreas implica el diseño de situaciones de aprendizaje globalizadas y contextualizadas, desde un tratamiento integrado de los aprendizajes, que posibiliten la movilización de los saberes propios de las tres áreas en las que se organiza el currículo de la etapa.
+
+A la hora de diseñar situaciones de aprendizaje, hemos de tener en cuenta una serie de orientaciones metodológicas y estrategias didácticas que van a favorecer el desarrollo competencial. Las mismas, que aparecen recogidas en el Anexo 3 del presente Decreto.
+
+Ver anexo en las páginas 41052-41056 del documento
+                        Descargar
+
+Saberes básicos.
+
+I. El cuerpo y el control progresivo del mismo.
+
+1. Descubrimiento de su cuerpo y reconocimiento de la propia imagen y la de las personas de su entorno.
+
+1.1. Identificación y respeto de las diferencias.
+
+1.2. Relación y contacto con las otras personas y con los objetos.
+
+2. Evolución del juego como actividad propia para el bienestar y el disfrute: juego exploratorio, sensorial y motor.
+
+3. Exploración y participación en experiencias activas en el entorno: el movimiento libre como fuente de aprendizaje y desarrollo inicial.
+
+3.1. Curiosidad e interés por la exploración sensoriomotriz de su cuerpo y su entorno inmediato.
+
+3.2. Integración sensorial del mundo a través de las posibilidades perceptivas.
+
+4. Experimentación manipulativa y dominio progresivo de la coordinación visomotriz en el contacto con objetos y materiales.
+
+5. Contacto con las otras personas y con los objetos. Iniciativa y curiosidad para aprender nuevas habilidades.
+
+6. Adaptación y progresivo control del movimiento y la postura en las diferentes situaciones de la vida cotidiana.
+
+7. Estrategias para identificar y evitar situaciones de riesgo o peligro.
+
+II. Desarrollo y equilibrio afectivos.
+
+1. Identificación y adecuación de estados emocionales a las diferentes situaciones: tiempos de espera, pequeñas frustraciones asociadas a la satisfacción de necesidades básicas y cuidados.
+
+3. Aceptación y control progresivo de las emociones y de sus manifestaciones. Disfrute de las relaciones con las demás personas.
+
+3. Aproximación a algunas estrategias para lograr seguridad afectiva: búsqueda de ayuda y demanda de contacto afectivo.
+
+III. Hábitos de vida saludable para el autocuidado y el cuidado del entorno.
+
+1. Participación activa en los momentos de los cuidados y la atención a las necesidades básicas que se le ofrecen.
+
+2. Manifestación de interés por ofrecer un aspecto saludable y aseado. Participación activa en el desarrollo de actividades que favorecen la salud y generan bienestar.
+
+3. Participación e interés por el cuidado del entorno.
+
+4. Iniciación a la participación activa en el desarrollo de hábitos sostenibles y ecosocialmente responsables relacionados con la alimentación, la higiene, el aseo personal, el descanso o la limpieza del espacio.
+
+5. Adaptación progresiva de los ritmos biológicos propios a las rutinas del grupo.
+
+6. Iniciación en la interiorización de rutinas relacionadas con el compromiso y la autonomía: anticipación de acciones, normas de comportamiento social en la comida, el descanso, la higiene, los desplazamientos…
+
+IV. Interacción socioemocional en el entorno. La vida junto a las demás personas.
+
+1. Transición del grupo familiar al grupo social en la escuela.
+
+1.1. Construcción de los primeros vínculos afectivos escolares.
+
+1.2. Construcción de sentimientos de pertenencia y vinculación afectiva con las personas de referencia escolar: el aula y el centro como grupos sociales de pertenencia.
+
+2. Acercamiento a la diversidad funcional y sus implicaciones en la vida cotidiana.
+
+2.1. Establecimiento de relaciones afectuosas y respetuosas.
+
+2.2. Reproducción de conductas a través del juego de imitación para el desarrollo de actitudes de respeto y empatía.
+
+3. Iniciación en el uso de estrategias elementales, con mediación de la persona adulta, para la gestión de conflictos.
+
+4. Adquisición paulatina de hábitos y regulación del comportamiento en función de las necesidades de los demás: escucha, paciencia y ayuda.
+
+5. Asunción de pequeñas responsabilidades en actividades y juegos.
+
+6. Participación activa y disfrute en celebraciones, costumbres y tradiciones étnicos-culturales presentes en el entorno.
+
+7. Acercamiento y disfrute del patrimonio natural y cultural de Canarias.
+
+Ver anexo en las páginas 41059-41064 del documento
+                        Descargar
+
+Saberes básicos.
+
+I. El cuerpo y el control progresivo del mismo.
+
+1. Construcción de la imagen global y segmentaria del cuerpo: características individuales y percepción de los cambios físicos.
+
+1.1. Control progresivo de la coordinación, el tono, el equilibrio y los desplazamientos.
+
+1.2. Dominio activo del tono y la postura en función de las características de los objetos, las acciones y las situaciones.
+
+1.3. Adquisición progresiva de autonomía en la realización de las tareas y en el uso de diversas estrategias que le permitan actuar con seguridad y confianza en las propias posibilidades.
+
+2. El juego como actividad placentera y fuente de aprendizaje. Participación y disfrute en diferentes tipos de juego: exploratorio, relacional, constructivo, simbólico, con reglas y motor.
+
+3. Construcción de una autoimagen positiva y ajustada ante las demás personas.
+
+3.1. Identificación y respeto de las diferencias.
+
+3.2. Sensibilización hacia las implicaciones que se derivan de la diversidad funcional en la vida cotidiana (sensorial, física, cognitiva…).
+
+4. Conocimiento de los sentidos y sus funciones. Relación entre el cuerpo y el entorno.
+
+II. Desarrollo y equilibrio afectivos.
+
+1. Adquisición de herramientas para la identificación, expresión, aceptación y control progresivo de las propias emociones, sentimientos, vivencias, preferencias e intereses.
+
+2. Desarrollo de estrategias de ayuda y cooperación en contextos de juego y rutinas.  Reconocimiento de las propias posibilidades.
+
+3. Desarrollo de estrategias para promover la seguridad en sí mismo o sí misma, el reconocimiento de sus posibilidades y la asertividad respetuosa hacia las demás personas.
+
+4. Identificación de las propias posibilidades para la ejecución de una tarea. Manifestaciones de superación y logro.
+
+5. Aceptación constructiva de los errores y las correcciones.
+
+6. Valoración del trabajo bien hecho: desarrollo inicial de hábitos y actitudes de esfuerzo, constancia, organización, atención e iniciativa.
+
+III. Hábitos de vida saludable para el autocuidado y el cuidado del entorno.
+
+1. Creación y mantenimiento de hábitos y prácticas sostenibles y ecosocialmente responsables relacionados con la alimentación, la higiene, el descanso, el autocuidado y el cuidado del entorno.
+
+2. Planificación secuenciada de acciones para resolver una tarea: normas de comportamiento social en la comida, el descanso, la higiene, los desplazamientos…
+
+3. Participación en actividad física estructurada con diferentes grados de intensidad.
+
+4. Necesidades básicas: manifestación, regulación y control, en relación con el bienestar personal.
+
+5. Identificación de situaciones peligrosas y reconocimiento de acciones para la prevención de riesgos y accidentes.
+
+IV. Interacción socioemocional en el entorno. La vida junto a las demás personas.
+
+1. Incorporación armónica a la escuela.
+
+2. Despliegue progresivo de habilidades socioafectivas y de convivencia.
+
+2.1. Comunicación de sentimientos y emociones.
+
+2.2. Interiorización de pautas básicas de convivencia, que incluyan el respeto a la igualdad entre mujeres y hombres y el rechazo a cualquier tipo de discriminación. Cuestionamiento de estereotipos y prejuicios.
+
+2.3. Adquisición de estrategias de autorregulación de la conducta.
+
+2.4. Expresión de empatía y respeto.
+
+3. Descubrimiento de la diversidad familiar.
+
+4. Establecimiento de la amistad como elemento protector, de prevención de la violencia y de desarrollo de la cultura de paz.
+
+5. Resolución de conflictos surgidos en interacciones con las demás personas.
+
+6. Adquisición y empleo de fórmulas de cortesía e interacción social positiva.
+
+7. Manifestación de actitud de ayuda y cooperación.
+
+8. Reconocimiento y respuesta empática hacia la diversidad y a sus implicaciones en la vida cotidiana.
+
+9. Desarrollo del juego simbólico. Observación, imitación y representación de personas, personajes y situaciones.
+
+10. Descubrimiento de otros grupos sociales de pertenencia: características, funciones y servicios.
+
+11. Participación activa en celebraciones, costumbres y tradiciones.
+
+11.1. Adquisición de herramientas para el aprecio de las señas de identidad étnico-cultural presentes en el entorno.
+
+11.2. Acercamiento y disfrute del patrimonio cultural y del natural de Canarias.
+
+
+### Área 2. descubrimiento y exploración del entorno
+
+Introducción.
+
+Con esta área se pretende favorecer el proceso de descubrimiento, observación y exploración de los elementos físicos y naturales del entorno, concibiendo este como un elemento provocador de emociones y sorpresas, con la intención de que, junto con su progresivo conocimiento, niños y niñas vayan adoptando y desarrollando actitudes de respeto y valoración sobre la necesidad de cuidarlo y protegerlo.
+
+El área adquiere sentido desde la complementariedad con las otras dos y así habrá de interpretarse en las propuestas didácticas: desde la globalidad de la acción y de los aprendizajes. La consideración de los menores de 0 a 6 años como personas activas, curiosas, imaginativas, competentes, partícipes en su desarrollo y capaces de comprender e intervenir en la realidad según su desarrollo madurativo, hace que sea necesario pensar y cuidar la organización de los espacios y la oferta de materiales para que generen un ambiente lúdico, acogedor y estimulante, de modo que niños y niñas puedan desplegar su natural disposición a la exploración e investigación del mundo que les rodea. Un ambiente organizado en espacios y tramos de tiempos que favorezca la alternancia de situaciones de actividad y descanso, con otras de rutinas y hábitos o de juego sugerido o espontáneo.
+
+Estos naturales cambios de actividad, junto a la variedad y calidad de las propuestas ofertadas, así como a la capacidad de escucha, observación y presencia de la persona o personas adultas que acompañen, constituyen el clima o ambiente de aprendizaje que, en estas edades, se caracteriza por el juego, el movimiento y la espontaneidad. Desde el diseño de contextos sugerentes que despierten la curiosidad y conecten con la emoción, se propondrá la interacción con objetos, espacios y materiales diversos que permitan que niños y niñas manipulen, observen, indaguen, prueben, identifiquen, relacionen, analicen, comprueben, razonen…, con la finalidad de descubrir las cualidades y atributos de los elementos del entorno más cercano. De este modo se estimulará, sin forzar, el planteamiento de soluciones creativas y originales para responder a los retos que se les presentan. Además, en este currículo, de marcado enfoque social, en el que se plantea la investigación y el método científico como pilares del proceso de aprendizaje del alumnado, las dinámicas cooperativas deben estar presentes, de manera que se facilite con ello el “aprender a convivir” y el “aprender a ser”.
+
+La exploración, el descubrimiento y la interpretación del entorno, así como el uso y aprendizaje de distintos recursos relacionados con las habilidades lógico-matemáticas y las destrezas de pensamiento computacional y de diseño, permitirán poner en contacto a las niñas y a los niños con las prácticas sociales de contar y ordenar, calcular, medir, diseñar, localizar y organizar información, a través de situaciones de aprendizaje significativas y funcionales, que conecten las experiencias presentes con sus conocimientos previos y, a través de procesos de indagación y exploración, puedan comenzar a formular hipótesis, buscar alternativas, considerar posibilidades, anticipar consecuencias y considerar el error como parte del proceso de aprendizaje.
+
+Se produce así, un acercamiento intuitivo a nociones y conceptos básicos, pertenecientes al medio físico, siempre contrastados con la realidad, mediante los que comienzan a sentarse las bases del pensamiento científico. El medio natural y los seres y elementos que lo integran, son objeto preferente de la curiosidad y el interés infantil. Gracias a la reflexión sobre sus experiencias y relaciones con los elementos de la naturaleza, niños y niñas irán progresando hacia la observación y comprensión de las manifestaciones y las consecuencias de algunos fenómenos naturales, e irán acercándose gradualmente al conocimiento y la valoración de los seres vivos, así como de algunas de sus características y de las relaciones que se establecen entre ellos y con los seres humanos.
+
+Cobra especial relevancia el fomento de la valoración y el aprecio hacia la diversidad y riqueza del medio natural, a partir del descubrimiento de que las personas formamos parte de ese medio y de la vinculación afectiva al mismo, dos factores básicos para iniciar desde la escuela actitudes de respeto, cuidado y protección del medioambiente, así como de adquisición de hábitos ecosaludables y sostenibles. En este sentido es importante la identificación de las características más significativas de la diversidad y riqueza del patrimonio natural canario.
+
+El área se organiza en torno a tres competencias específicas. La primera se orienta al desarrollo de las destrezas que ayudan a identificar y establecer relaciones lógicas entre los distintos elementos que forman parte del entorno; la segunda se centra en el fomento de una actitud crítica y creativa, para identificar los retos y proponer posibles soluciones; y la tercera supone el acercamiento respetuoso hacia el mundo natural para despertar la conciencia de la necesidad de hacer un uso sostenible de él, que garantice su cuidado y conservación.
+
+Se hace así evidente que las competencias específicas se dirigen al desarrollo del pensamiento y de las estrategias cognitivas a través del proceso de descubrimiento del entorno físico y natural. Con ello se refuerza su disposición a indagar, se potencia una actitud progresivamente cuestionadora y se anima a proponer soluciones diversificadas. Se pretende, en conclusión, potenciar la curiosidad infantil hacia el entorno, así como estimular una disposición activa hacia su conocimiento, propiciando además la evolución desde el plano individual hacia el colectivo: por una parte, se avanzará, a través de un enfoque coeducativo, desde la satisfacción de los intereses personales hacia la toma en consideración de los intereses del grupo; por otra, desde el aprendizaje individual hacia el cooperativo.
+
+El área Descubrimiento y Exploración del Entorno, pretende ofrecer a niños y niñas oportunidades de interacción con el medio físico y natural entendiéndolo como la realidad en la que aprenden y sobre la que se aprende. En este sentido, la invitación al aprendizaje que las personas adultas que acompañan han de ofrecer a los niños y las niñas, se diseña con la mirada puesta en contribuir a ampliarles el mundo que les rodea, partiendo de los conocimientos que ya tienen sobre el entorno cercano y favoreciendo nuevos conocimientos y posibilidades de juego y experimentación, así como el desarrollo de actitudes de respeto y valoración hacia el medio físico y natural y, de manera significativa, hacia el patrimonio del archipiélago canario. Estas oportunidades para el aprendizaje deben contemplar, con aprecio, la espontaneidad con la que niños y niñas interactúan de manera creativa con el entorno, para ofrecerles espacios y tiempos de calidad que les permitan relacionarse con el mundo, desplegando su potencial y su esencia.
+
+Contribución a los objetivos de etapa.
+
+Desde el área Descubrimiento y Exploración del Entorno se contribuye, de manera significativa, a los objetivos de etapa b) y c), reseñados en el artículo 6 de este Decreto, al favorecer el desarrollo de las capacidades de observación y de exploración en el entorno físico, natural, cultural y social, promoviendo el descubrimiento del patrimonio canario; al desarrollo de actitudes de cuidado, respeto y responsabilidad por la conservación del medio natural, así como por los acontecimientos que en él se producen y el respeto hacia los seres vivos que habitan en él.
+
+Asimismo, contribuye a enriquecer el objetivo g) del mencionado artículo 6, al otorgar relevancia al desarrollo de las capacidades relacionadas con las habilidades lógico-matemáticas y las destrezas de pensamiento computacional y de diseño, así como las relacionadas con la formulación de ideas o preguntas, en situaciones de aprendizaje que favorezcan el conteo, el cálculo, la clasificación y la localización y organización de la nueva información que van obteniendo, en su relación con el entorno, en especial con el medio físico.
+
+La relación con las otras dos áreas implica la contribución evidente de esta, especialmente en lo referido a la observación del entorno familiar y social, a la autonomía en sus exploraciones en el medio y a las habilidades comunicativas para expresar sus descubrimientos.
+
+Desde la curiosidad propia de los niños y niñas, el medio natural supone el escenario perfecto para indagar, a través del juego, en las relaciones de los diferentes elementos y comenzar a establecer correlaciones entre sus intervenciones y los efectos que con ellas producen, desarrollando, así, las estrategias que sentarán las bases del pensamiento científico.
+
+Contribución a las competencias clave.
+
+La etapa de la Educación Infantil constituye el punto de partida del aprendizaje a lo largo de toda la vida, suponiendo el inicio del proceso de desarrollo y adquisición de las competencias clave. Es por ello por lo que el enfoque competencial determina los diferentes elementos curriculares así como los propios principios pedagógicos de la etapa.
+
+El área Descubrimiento y Exploración del entorno contribuye a la adquisición de la Competencia en comunicación lingüística (CCL) al integrar propuestas que posibilitan el aprendizaje de nuevas palabras relacionadas con el medio natural canario, así como la oportunidad de describir de manera detallada los atributos físicos de objetos y elementos presentes en el entono, el uso de lenguaje de programación e investigació, o la disposición favorable a expresar las propias ideas y opiniones de forma dialogada.
+
+Asimismo, el área está estrechamente relacionada con el desarrollo de la Competencia matemática y competencia en ciencia, tecnología e ingeniería (STEM), a través de cada una de sus competencias específicas. Este área, contempla aprendizajes que permitirán la adquisición de destrezas relacionados con la interacción con el medio físico, con la exploración de objetos y materiales y con la intervención sobre estos, produciendo cambios y transformaciones, lo que permite al alumnado observar los resultados y anticipar posibles consecuencias; también contribuye al desarrollo progresivo de habilidades lógicas y matemáticas de medida, relación, clasificación, ordenación y cuantificación. Estas acciones serán el punto de partida para el desarrollo del pensamiento científico y computacional, lo que les permitirá formular y comprobar hipótesis sencillas, explorando e investigando o relacionando conocimientos, y planteando ideas o soluciones, resolviendo tareas analógicas o digitales, que contribuyen también al desarrollo de la Competencia digital (CD). Se contribuye también a esta competencia a través de la participación de niños y niñas en actividades que requieren el uso de la tecnología para la resolución de tareas y el desarrollo de proyectos.
+
+De la misma manera, los saberes relacionados con la adquisición de destrezas y actitudes vinculadas al desarrollo de intereses e inquietudes individuales y grupales, trabajando de forma tanto colaborativa como autónoma, así como el acercamiento al medio natural y social, con actitudes de respeto y cuidado, favorecen a la aproximación a la adquisición de la Competencia personal, social y de aprender a aprender (CPSAA). Además el pensamiento computacional, donde el alumnado reflexiona y toma decisiones, organiza su propio aprendizaje, lo comprueba y lo comparte está estrechamente relacionado con esta competencia.
+
+A través del área también se contribuye a desarrollar la Competencia ciudadana (CC), en la medida en que se produce la incorporación de hábitos para el desarrollo sostenible, como el consumo responsable o el cuidado y protección de la naturaleza y los animales que la habitan; la participación activa y responsable en los distintos entornos donde se desenvuelven, la discriminación de conductas adecuadas e inadecuadas, la resolución pacífica de conflictos cuando se producen, la expresión y defensa de sus opiniones y el respeto por las de otras personas, sentando las bases de las habilidades sociales necesarias para una convivencia en una sociedad plural y democrática.
+
+La Competencia emprendedora (CE) también se desarrolla a través del área de Descubrimiento y Exploración del Entorno, con aprendizajes relacionados con el descubrimiento del mundo que rodea a los niños y las niñas, en situaciones de juego y a través de los sentidos, con el propósito de obtener placer por sentir y tocar, sumado al interés por indagar acerca de las diferentes características de los objetos y la resolución de retos. Todo ello estimula la curiosidad, la iniciativa, la imaginación, la disposición a indagar, crear y participar en proyectos cooperativos; y supone una oportunidad para potenciar la autonomía y las ideas personales y colectivas.
+
+Por otro lado, los saberes referidos al conocimiento de los rasgos propios del patrimonio natural, social y cultural de nuestro archipiélago favorecen el desarrollo de la Competencia en conciencia y expresión culturales (CCEC). Con la integración de los saberes básicos de esta área, el niño y la niña descubrirán y respetarán el medio natural, en especial el contexto natural canario, contribuyendo al desarrollo de esta competencia e iniciándose en la educación patrimonial.
+
+Bloques competenciales.
+
+El bloque competencial es el eje del currículo de cada área: integra la enunciación de las competencias específicas, su vinculación con el marco competencial, los criterios de evaluación y la explicación del bloque competencial. A todos ellos se les ha dado carácter longitudinal, de modo que aumenta, de manera progresiva, la complejidad de los aprendizajes contemplados en los mismos a lo largo de los dos ciclos de la etapa.
+
+Las competencias específicas, que tienen carácter finalista, constituyen un elemento de conexión entre las competencias clave y los saberes propios del área. En cuanto a los criterios de evaluación, estos constituyen los referentes que indican el nivel de desempeño a alcanzar por el alumnado. En lo relativo a las explicaciones de los bloques competenciales, estas integran los aprendizajes recogidos en la totalidad del bloque, orientan sobre el proceso de desarrollo y adquisición tanto de las competencias específicas como de las competencias clave; y ofrecen, además, indicaciones metodológicas -siempre con una perspectiva abierta, flexible e inclusiva- para el diseño y la implementación de situaciones de aprendizaje competenciales. Es por ello que las explicaciones de los bloques competenciales se constituyen como los referentes más adecuados para la planificación de la concreción curricular y de la programación didáctica.
+
+Competencias específicas y criterios de evaluación.
+
+En el área de Descubrimiento y Exploración del Entorno, se han establecido tres competencias específicas, que se concretan en ocho criterios de evaluación para el primer ciclo y trece criterios de evaluación para el segundo. A todos ellos se les ha dado carácter longitudinal, de modo que aumenta, de manera progresiva, la complejidad de los aprendizajes contemplados en los mismos a lo largo de los dos ciclos de la etapa.
+
+Estos criterios de evaluación presentan una marcada naturaleza competencial, de manera que se relacionan directamente con las competencias clave a las que contribuye cada una de las competencias específicas, expresando tanto las capacidades y los saberes a adquirir, como el contexto y modo de aplicación de dichos aspectos.
+
+Las competencias específicas de esta área identifican las actuaciones que se espera que niños y niñas sean capaces de desplegar en relación con su propio desarrollo personal y social a lo largo de la etapa, como consecuencia de la intervención educativa. Las tres primeras competencias específicas se refieren a aspectos relacionados con su propio desarrollo personal: el progresivo control personal a medida que van construyendo su propia identidad, el establecimiento de relaciones afectivas con las personas cercanas y el uso de los recursos personales para desenvolverse en el medio de una forma cada vez más ajustada e independiente, valorando y confiando en sus posibilidades y cualidades, y respetando las de las demás personas. La última competencia específica atiende a la necesaria correlación entre la construcción de la propia identidad y las interacciones en el entorno sociocultural, donde aquella se produce, resaltando la importancia de propiciar y favorecer interacciones sanas, sostenibles, eficaces, igualitarias y respetuosas.
+
+Competencia específica 1 (C1).
+
+Con esta competencia específica, la curiosidad de niños y niñas por descubrir el mundo que los rodea, hace de la exploración a través de la manipulación sensorial el instrumento perfecto para identificar las características de los materiales y objetos de su entorno más cercano, así como para establecer relaciones entre ellos. La finalidad de este juego exploratorio en edades muy tempranas es disfrutar de las sensaciones físicas que produce. Sin embargo, a medida que el niño o la niña se desarrolla, la demanda exploratoria se amplía: al propósito de obtener placer por sentir y tocar se añade progresivamente el interés por indagar acerca de las diferentes características de los objetos. Al movimiento amplio y global, se suma la capacidad para ejercer acciones más específicas y minuciosas sobre ellos. Todo ello les proporciona cada vez más información acerca de sus cualidades.
+
+La persona adulta debe proponer retos que hay que resolver, contextualizados en situaciones de juego, aprendizaje y experiencias significativas, eligiendo el material y el tipo de actividad que responda a la intencionalidad que se pretenda conseguir, y teniendo en cuenta que debe partir de los intereses y las inquietudes individuales y grupales, y que la interacción con las demás personas debe jugar un papel de primer orden. Así, los niños y las niñas continúan estableciendo relaciones entre sus aprendizajes, lo cual les permitirá desarrollar progresivamente sus habilidades lógicas y matemáticas de medida, relación, clasificación, ordenación y cuantificación; primero, ligadas a sus intereses particulares y, progresivamente, formando parte de situaciones de aprendizaje que atienden también a los intereses grupales y colectivos.
+
+Competencia específica 2 (C2).
+
+Esta competencia específica sentará las bases del pensamiento científico, la iniciativa investigadora y la curiosidad por el conocimiento, que es inherente al desarrollo de la etapa de la Educación Infantil. A lo largo de la misma, el alumnado deberá encontrar soluciones o alternativas originales y creativas a diferentes cuestiones, retos o situaciones, y lo hará mediante la aplicación de procesos inicialmente sencillos y manipulativos que, progresivamente, ganarán en complejidad y requerirán mayor capacidad de abstracción. Dichos procesos son propios tanto de las destrezas de pensamiento computacional y de diseño como del método científico, y se aplicarán descomponiendo una tarea en otras más simples, formulando y comprobando hipótesis, explorando e investigando, relacionando conocimientos y planteando ideas o soluciones originales.
+
+Competencia específica 3 (C3).
+
+El entorno próximo es el primer contexto con el que se relacionan niños y niñas desde su nacimiento. Con el desarrollo de esta competencia específica, los diferentes elementos y fenómenos naturales que en él se desarrollan, atraerán su atención y supondrán una oportunidad ideal para alentar su curiosidad a medida que los va descubriendo. La actitud con la que se relacionen con el medio físico y natural canario condicionará en gran medida sus experiencias y aprendizajes. Así, desde el primer momento, debe propiciarse un acercamiento al medio natural y a los seres vivos e inertes que forman parte de él, desde el cuidado, la valoración y el respeto que su edad y aptitudes les permitan.
+
+Este proceso de descubrimiento y conocimiento progresivo del entorno y de las particularidades del patrimonio natural canario deberá orientarse hacia el desarrollo de una incipiente conciencia de conservación para que, desde estas primeras edades, se comprenda la implicación y la responsabilidad de todas las personas en el respeto y el cuidado del medio. A lo largo de la etapa, irán adoptando e incorporando, en sus rutinas diarias, hábitos para el desarrollo sostenible, como el consumo responsable o el cuidado y la protección de la naturaleza y los animales que la habitan. Ello contribuirá a que, de manera paulatina, aprendan a valorar las oportunidades que ofrece el medioambiente y todo aquello que hace posible la vida en el planeta.
+
+Saberes básicos.
+
+Los saberes básicos del área aparecen integrados tanto en los criterios de evaluación como en las explicaciones de los bloques competenciales. No obstante, quedan establecidos, organizados y secuenciados, a continuación de los mismos.
+
+En esta área los saberes básicos se presentan en tres grandes bloques:
+
+El Bloque I, “Diálogo corporal con el entorno. Exploración creativa de objetos, materiales y espacios”, se centra en la interacción corporal del niño y la niña, con el entorno así como los diversos elementos presentes en él. Se aborda la exploración del mundo cercano y la interacción corporal con el mismo, así como la experimentación sobre objetos y materiales diversos, estructurados y desestructurados que despiertan la imaginación y llevan a plantearse preguntas sobre los mismos y su relación con el propio cuerpo y la ubicación en el espacio.
+
+En el Bloque II, “Experimentación en el entorno. Curiosidad, pensamiento científico, razonamiento lógico y creatividad”, los saberes se centrarán en el planteamiento de preguntas e hipótesis así como su posterior verificación y respuesta para ir progresivamente desarrollando habilidades lógico-matemáticas y estrategias cada vez más elaboradas. En este bloque, a partir de la discriminación de algunas de sus cualidades y atributos, se trabajará la clasificación, las agrupaciones o colecciones según un criterio elegido; las relaciones entre algunos de los atributos de los objetos y materias, y su comportamiento físico cuando se interviene sobre ellas así como los efectos que se producen; la medida, la resolución de problemas sencillos y el uso de los números en actividades cotidianas. De igual manera, los saberes fomentan el desarrollo de estrategias como la anticipación y la previsión, la formulación de hipótesis y la constatación sobre si se cumple lo esperado, la discriminación entre la características o atributos permanentes y variables; y el avance en el uso del método científico o el desarrollo del pensamiento computacional y de diseño.
+
+En el Bloque III, “Indagación en el medio físico y natural. Cuidado, valoración y respeto”, se incluyen aprendizajes centrados en el cuidado del entorno y de manera específica el entorno natural canario. Asimismo, se presentan saberes relacionados con los elementos de la naturaleza, la observación y comprensión de las consecuencias de algunos fenómenos naturales contribuyendo, a través de diversidad de actividades, al despliegue progresivo, en los niños y las niñas, de destrezas sencillas para el cuidado activo del medioambiente, así como la oportunidad para formular ideas o preguntas, contar o representar sus interpretaciones, acerca de la realidad presente en el mundo natural, y de manera específica el entorno canario; y compartir la emoción ante los descubrimientos y hallazgos en la exploración del mismo.
+
+Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos.
+
+Las situaciones de aprendizaje suponen el núcleo central en el desarrollo de las competencias. Las competencias específicas explicitan los desempeños que el alumnado debe poder llevar a cabo en situaciones de aprendizaje, para cuyo abordaje se requieren los saberes básicos de cada área, dentro de un marco de atención inclusiva a las diferencias individuales, y a las singularidades y necesidades de cada alumno o alumna.
+
+En la Educación Infantil, la implementación del currículo en cada una de las áreas implica el diseño de situaciones de aprendizaje globalizadas y contextualizadas, desde un tratamiento integrado de los aprendizajes, que posibiliten la movilización de los saberes propios de las tres áreas en las que se organiza el currículo de la etapa.
+
+A la hora de diseñar situaciones de aprendizaje, hemos de tener en cuenta una serie de orientaciones metodológicas y estrategias didácticas que van a favorecer el desarrollo competencial. Las mismas, que aparecen recogidas en el Anexo 3 del presente Decreto.
+
+Ver anexo en las páginas 41074-41077 del documento
+                        Descargar
+
+Saberes básicos.
+
+I. Diálogo corporal con el entorno. Exploración creativa de objetos, materiales y espacios.
+
+1. Manifestación de curiosidad e interés por la exploración del entorno y sus elementos.
+
+2. Exploración de objetos y materiales a través de los sentidos: apretar, dejar caer, volcar, encajar, apilar, soplar… Efectos que producen las diferentes acciones sobre ellos.
+
+3. Identificación de las cualidades o los atributos de los objetos y materiales en cuanto a su textura, tamaño, color y forma.
+
+4. Aproximación a las relaciones de orden, correspondencia, clasificación, agrupación y comparación.
+
+5. Aproximación a las nociones espaciales básicas en relación con el propio cuerpo y los objetos.
+
+6. Interiorización de algunas nociones temporales básicas a través de los ritmos que marcan las rutinas: cambio y permanencia, continuidad; sucesión y simultaneidad; pasado, presente y futuro.
+
+II. Experimentación en el entorno. Curiosidad, pensamiento científico, razonamiento lógico y creatividad.
+
+1. Indagación en el entorno a través de procesos manipulativos, con interés, curiosidad, imaginación, creatividad y sorpresa.
+
+2. Construcción de nuevos conocimientos: relaciones y conexiones entre lo conocido y lo novedoso, en interacciones de calidad con las personas adultas, con iguales y con el entorno.
+
+3. Acercamiento a la elaboración de estrategias y técnicas básicas de investigación: observación, experimentación, ensayo-error, realización de preguntas sencillas, planteamiento de ideas o soluciones alternativas…
+
+III. Indagación en el medio físico y natural. Cuidado, valoración y respeto.
+
+1. Experimentación con los elementos naturales.
+
+2. Disfrute de las actividades al aire libre y en la naturaleza.
+
+3. Cuidado y respeto hacia la naturaleza, los seres vivos y los derechos de los animales.
+
+4. Descubrimiento y respeto hacia el patrimonio natural canario.
+
+5. Observación y descubrimiento de los fenómenos naturales habituales: repercusión en la vida cotidiana.
+
+Ver anexo en las páginas 41079-41083 del documento
+                        Descargar
+
+Saberes básicos.
+
+I. Diálogo corporal con el entorno. Exploración creativa de objetos, materiales y espacios.
+
+1. Conocimiento y relación de las cualidades o los atributos de los objetos y materiales. Relaciones de orden, correspondencia, clasificación y comparación
+
+1.1. Forma, tamaño, color.
+
+1.2. Clasificaciones, seriaciones, condicionales.
+
+2. Aplicación contextualizada de cuantificadores básicos: todos, algunos, no todos, ninguno, uno y solo uno, al menos uno…
+
+3. Uso funcional de los números en la vida cotidiana. Utilización de la serie numérica para contar objetos.
+
+4. Aplicación del número ordinal en pequeñas colecciones ordenadas.
+
+5. Uso de los números y las operaciones (unir, quitar, separar, repartir…), en los juegos y las situaciones de la vida cotidiana.
+
+6. Iniciación a la resolución de problemas sencillos a través de:  clasificación de la información, uso de diferentes estrategias (ensayo y error, modelización), y comprobación de las soluciones obtenidas.
+
+7. Utilización de nociones espaciales básicas.
+
+8. Orientación del propio cuerpo en relación con un objeto y de objetos entre sí (entre, detrás de-delante de, debajo de-encima de, arriba-abajo, izquierda-derecha, dentro-fuera, cerca-lejos).
+
+9. Identificación de formas geométricas básicas: triángulo, círculo, cuadrado, rectángulo, cubo y esfera. Línea recta, línea curva, dirección y sentido.
+
+10. Identificación de situaciones en las que es preciso medir para resolver problemas sencillos: más/menos…que, igual…que, con los conceptos: lleno-vacío, pesado-ligero, largo-corto, ancho-estrecho, grande-pequeño, alto-bajo….
+
+11. Utilización de nociones temporales básicas: cambio y permanencia, continuidad, sucesión y simultaneidad; pasado, presente y futuro, periodos de tiempo (antes-ahora-después, secuencia temporal, día y noche, estaciones, ciclos, calendario…).
+
+II. Experimentación en el entorno. Curiosidad, pensamiento científico y creatividad.
+
+1. Descubrimiento de pautas para la indagación del entorno: interés, respeto, curiosidad, asombro, cuestionamiento y deseos de conocimiento.
+
+2. Exploración y experimentación de diversos contextos y problemas en los que se obtengan diferentes soluciones.
+
+3. Iniciación en el uso de estrategias de construcción de nuevos conocimientos: relaciones y conexiones entre lo conocido y lo novedoso, y entre experiencias previas y nuevas; andamiaje e interacciones de calidad con las personas adultas, con iguales y con el entorno.
+
+4. Elaboración de estrategias y utilización de técnicas de investigación: ensayo-error, observación, experimentación, formulación y comprobación de hipótesis, realización de preguntas, manejo y búsqueda en distintas fuentes de información.
+
+5. Iniciación al desarrollo del pensamiento científico y las destrezas de pensamiento computacional.
+
+6. Iniciativa en la búsqueda de acuerdos o consensos en la toma de decisiones durante la planificación y organización de tareas.
+
+7. Utilización de diversas estrategias para proponer soluciones: creatividad, diálogo, imaginación y descubrimiento.
+
+8. Identificación de procesos y resultados. Constatación y elaboración de hallazgos, verificaciones y conclusiones.
+
+III. Indagación en el medio físico y natural. Cuidado, valoración y respeto.
+
+1. Respeto, estima y protección hacia el medio natural canario.
+
+1.1. Identificación de elementos naturales propios del paisaje canario (barrancos, palmeras, terrenos volcánicos, etc.).
+
+1.2. Reconocimiento de las plantas y los animales más representativos de las Islas Canarias.
+
+2. Identificación de la influencia de las acciones de las personas en el medio físico y en el patrimonio natural.
+
+3. Fenómenos naturales: identificación y repercusión en la vida de las personas. Toma de conciencia sobre el cambio climático.
+
+4. Identificación de las semejanzas y diferencias entre seres vivos o inertes.
+
+5. Valoración, empatía, cuidado y protección de los animales y de las plantas.
+
+6. Iniciativa para realizar tareas relacionadas con el cuidado de las plantas y de los animales.
+
+7. Conocimiento, valoración y respeto por el patrimonio presente en el medio natural de Canarias.
+
+8. Iniciación al conocimiento de recursos naturales y a los beneficios de la sostenibilidad, energías limpias y naturales.
+
+
+### Área 3. comunicación y representación de la realidad
+
+Introducción.
+
+Con el área de Comunicación y Representación de la Realidad, se pretende desarrollar las destrezas comunicativas, que irán evolucionando desde las primeras interacciones, con el medio y las demás personas, a través de la expresión corporal y gestual, ligadas básicamente a la satisfacción de sus necesidades primarias, hasta la adquisición de los códigos de diferentes lenguas y lenguajes, para producir, interpretar y comprender mensajes de creciente complejidad, de manera eficaz, personal y creativa.
+
+La etapa se concibe como un continuo aprendizaje. Desde su nacimiento, las experiencias vitales de niños y niñas se van ampliando y diversificando de manera progresiva; paralelamente, se despertarán el interés y la curiosidad por descubrir y explorar las posibilidades expresivas de los diferentes lenguajes y formas de expresión, para comunicarse de manera cada vez más eficaz, personal y creativa en los distintos contextos cotidianos.
+
+En la etapa de Educación Infantil comienza el proceso tal vez más determinante de la cultura humana, la aparición de la palabra, de la oralidad. El proceso de estructuración del lenguaje se inicia en contextos orales en los que el bebé imita los modelos que recibe de las personas adultas de referencia y, posteriormente, expresa en sus propias intenciones comunicativas. En el primer ciclo, hablar con diferentes entonaciones e inflexiones de la voz, mirando a sus ojos, narrando qué actividad está realizando o realizan las demás personas, o los acontecimientos que suceden en el entorno, ofrece un modelo adulto de oralidad que resulta fundamental para que niños y niñas progresen en la adquisición de la palabra hablada. En el segundo ciclo comienza un largo y creativo camino exploratorio de la palabra hablada y escrita que más tarde, en la etapa de Educación Primaria, llevará a conquistar la escritura alfabética.
+
+En esta etapa, es fundamental comenzar el acercamiento hacia una primera lengua extranjera, siendo a través de esta área de Comunicación y Representación de la Realidad, donde se podrá contribuir al desarrollo y enriquecimiento de la competencia plurilingüe del alumnado.
+
+Por todo ello, resulta imprescindible crear un ambiente multialfabetizador rico, que integre todos los lenguajes posibles y que establezca relaciones entre ellos. Un contexto de interacción con iguales y personas adultas, que ejercen como modelos de lectores y escritores, despertará la curiosidad, el interés y las ganas de explorar y descubrir el significado social y cultural del lenguaje escrito. Ese interés se incrementará si se dejan a su alcance libros y otros textos de uso social adecuados a su edad e intereses. Esta primera aproximación se debe producir en el quehacer cotidiano del aula, con un carácter lúdico, enmarcado en situaciones funcionales y significativas para los niños y las niñas, teniendo claro que la adquisición del código escrito no es un objetivo que se deba alcanzar en esta etapa.
+
+En la Educación Infantil, se proponen experiencias de aproximación a los textos escritos, ofreciendo oportunidades de acercamiento a la lectura y a la escritura con un enfoque de práctica social, con propuestas que le den sentido a la palabra escrita como elemento que permite comunicar aquello que es significativo para los niños y las niñas, en su vida cotidiana. En este proceso, resulta fundamental el andamiaje docente, que debe tener en cuenta el momento en el que cada niño y niña se encuentra, la hipótesis desde la que se plantea qué y cómo escribir, y respetar esos intentos, ofreciendo oportunidades de pensar, comparar, diferenciar, hacerse preguntas. Por tanto, se hace necesario partir de las ideas de niños y niñas y aportarles información que les lleve a pensar de manera diferente, desde nuevas perspectivas y a transformar sus ideas. La práctica social de la lectura y la escritura, es una invitación a llevar el mundo escrito a la escuela y dotar de significado el aprendizaje.
+
+En esta etapa educativa se inicia también el acercamiento a la literatura infantil como fuente de disfrute y se empieza a tejer, desde la escucha en el contexto cotidiano de las primeras nanas, canciones de arrullo y cuentos, un vínculo emocional y lúdico con los textos literarios. Es la etapa de la literatura oral por excelencia: rimas, retahílas, folclore y, también, el momento en el que ofrecemos un acercamiento a la literatura infantil a través de textos de calidad, cuidadosamente seleccionados, tanto en lengua materna como en lengua extranjera, acordes a los valores y principios democráticos y de respeto a la diversidad.
+
+La creación en el aula de un espacio cálido y acogedor donde ubicar la biblioteca del aula resulta fundamental para favorecer el acercamiento natural del alumnado a la literatura infantil, para construir significados, despertar su imaginación y fantasía, y permitirles el acercamiento al patrimonio cultural y al natural de Canarias, así como al de otras culturas. En esta zona, niños y niñas tienen la oportunidad de disfrutar de textos literarios de calidad, apreciar la textura de un libro impreso en papel -aspecto íntimamente unido al placer de leer, que se está perdiendo- y a la estética de las ilustraciones; así como dar los primeros pasos en el desarrollo del gusto por la lectura.
+
+Debe prestarse especial atención al desarrollo de actitudes positivas y de respeto tanto hacia el repertorio lingüístico personal, como al de las demás personas, despertando su sensibilidad y curiosidad por acercarse a las particularidades del español hablado en Canarias o otras lenguas, e invitándolos a la exploración de otros lenguajes y formas de expresión.
+
+No debemos olvidar la intervención de otros tipos de lenguajes como son el corporal, el artístico (plástico y musical) y el audiovisual. Todos ellos, en su conjunto, permiten enriquecer las posibilidades de expresión.
+
+Los lenguajes artísticos, en tanto que sistemas simbólicos, adquieren particular relevancia en esta etapa al proporcionar un cauce diferente, variado y flexible para expresarse y relacionarse con el mundo exterior, con mayor libertad. La capacidad de asombro de los niños y las niñas activa su curiosidad vital; por ello, la práctica educativa debe acompañar este proceso, proporcionando las herramientas necesarias que permitan el despliegue de la creatividad, tan presente en esta etapa.
+
+El lenguaje plástico tiene un sentido educativo que incluye la sensorialidad, la manipulación, la exploración y la utilización de distintos materiales, texturas, objetos e instrumentos; y el acercamiento a las producciones plásticas con espontaneidad expresiva, que estimulan la adquisición de nuevas habilidades y destrezas, y despiertan la sensibilidad estética y la creatividad. Por tanto, en esta etapa se experimentará con distintas técnicas y materiales para expresar ideas, emociones y sentimientos. A su vez, se pondrá a los niños y las niñas en contacto con diferentes modelos relacionados con diversas expresiones artísticas, para iniciar así el desarrollo del sentido estético y artístico.
+
+El lenguaje musical posibilita el desarrollo de capacidades vinculadas con la percepción, el canto, la utilización de objetos sonoros e instrumentos, el movimiento corporal y la creación que surgen de la escucha atenta, la exploración, la manipulación y el juego con los sonidos y la música. De la misma manera, también se aproximarán al conocimiento de distintas manifestaciones musicales, lo que irá despertando su conciencia cultural y favorecerá su desarrollo artístico. Las piezas musicales y danzas serán seleccionadas previamente por la persona adulta, atendiendo a los valores democráticos y a la edad de desarrollo a la que van dirigidas, evitando la hipersexualización de la infancia, y acercando al alumnado también al patrimonio cultural canario.
+
+El lenguaje corporal está relacionado con la utilización del cuerpo, sus gestos, actitudes y movimientos con una intención comunicativa y representativa. Especialmente interesante resulta la consideración del juego simbólico y de la expresión dramática como modo de manifestar su afectividad, y de dar cuenta de su conocimiento del mundo. Asimismo, el lenguaje corporal permite el descubrimiento de nuevas posibilidades expresivas, que pueden utilizarse con una intención comunicativa, representativa o estética.
+
+Por otra parte, los niños y las niñas se encuentran inmersos en una sociedad en la que lo digital enriquece nuestra forma de comunicarnos, obtener información, aprender y relacionarnos. Es, por tanto, responsabilidad del centro educativo establecer pautas para el desarrollo de hábitos de uso saludables de las herramientas y tecnologías digitales, iniciándose así un proceso de alfabetización digital desde las primeras etapas. Asimismo, se debe iniciar al alumnado en la búsqueda, obtención y tratamiento de la información, así como acercarlos al uso de las tecnologías de la información y la comunicación de forma integrada, entendiéndose como medios de expresión, comunicación e información. Como docentes, la tecnología nos abre puertas para proponer al alumnado nuevas formas de hacer, con el objetivo de que vaya más allá del simple uso de un artefacto digital y que este sea utilizado para aprender y crear.
+
+En este sentido las Tecnologías para el Aprendizaje y el Conocimiento (TAC), orientan el uso de los dispositivos y otras tecnologías de la información y la comunicación (TIC), concretando en el aula el modo en que el alumnado usa esos recursos tecnológicos para aprender. El objetivo es poner las herramientas digitales al servicio de la adquisición de conocimiento, con un enfoque orientado al desarrollo competencial.
+
+Las competencias específicas del área se relacionan con la capacidad de comunicarse eficazmente con otras personas de manera respetuosa, ética, adecuada y creativa. Por un lado, se aborda una perspectiva comunicativa y, por el otro, se persigue un enfoque interactivo en un contexto plurilingüe e intercultural. Las competencias específicas en torno a las que se organizan los aprendizajes del área están orientadas hacia tres aspectos fundamentales de la comunicación: la expresión, la comprensión y la interacción, para visibilizar las posibilidades comunicativas de los diferentes lenguajes y formas de expresión, aunque se concede un carácter prioritario al proceso de adquisición del lenguaje verbal. Por otra parte, la comunicación permite interpretar y representar el mundo en el que vivimos. Por ello, se incluye también una competencia específica relacionada con el acercamiento a las manifestaciones culturales asociadas a los diferentes lenguajes que se integran en el área, como un primer paso hacia el reconocimiento y la valoración de la realidad multicultural y plurilingüe desde la infancia.
+
+En este sentido, el abordaje de la comunicación, a través de diversos lenguajes expresivos, debe darse de manera global e integrada con las otras dos áreas, mediante el diseño de situaciones de aprendizaje en las que niños y niñas puedan expresarse y representar la realidad, de manera diversa, única y personal, en contextos significativos y funcionales.
+
+Desde esta visión, las oportunidades lúdicas de aprendizaje les ofrecen la posibilidad de crear mundos diversos, a través del lenguaje oral, plástico, musical…, de acercarse a la literatura, de intentar sus primeras escrituras y, así, enriquecer el deseo de vincularse con la diversidad del mundo que les rodea, con curiosidad e imaginación.
+
+Contribución a los objetivos de etapa.
+
+El área de Comunicación y Representación de la Realidad responde de manera evidente al carácter globalizador de la etapa y a la transversalidad de todos los lenguajes expresivos. De esta forma contribuye a la consecución del logro de los objetivos de etapa c), d), e) y h) reseñados en el artículo 6 de este Decreto, al favorecer la adquisición de las capacidades relacionadas con los diferentes lenguajes y formas de expresión verbal, no verbal, artístico, icónico, visual y multimedia. Desde el área también se contribuye a la relación con las demás personas en igualdad, favoreciendo la adquisición progresiva de pautas elementales de convivencia y relación social, así como en el ejercicio de la empatía y la resolución pacífica de conflictos, evitando cualquier tipo de violencia.
+
+Asimismo, contribuye al objetivo de etapa g), del mencionado artículo 6, en lo que respecta a lectura, escritura, movimiento, gesto y ritmo, a través de propuestas que incluyan el acercamiento al código escrito en situaciones cercanas, funcionales y contextualizadas, al inicio de las habilidades en lectura y escritura, la curiosidad por la información que contienen los diversos textos presentes en el entorno, el deseo de experimentar con las primeras escrituras espontáneas, el gusto y disfrute por la literatura con el andamiaje de modelos lectores adultos; y la iniciación en el aprendizaje de lenguas extranjeras, aproximándose a la riqueza plurilingüe del aula, a través de interacciones y actividades lúdicas, respetando y valorando el bagaje lingüístico y sociocultural propio y ajeno; y promoviendo el uso de otros lenguajes expresivos, como el arte, la música, la danza.
+
+Contribución a las competencias clave.
+
+La etapa de la Educación Infantil constituye el punto de partida del aprendizaje a lo largo de toda la vida, suponiendo el inicio del proceso de desarrollo y adquisición de las competencias clave. Es por ello por lo que el enfoque competencial determina los diferentes elementos curriculares así como los propios principios pedagógicos de la etapa.
+
+El área contribuye de manera significativa al desarrollo de la Competencia en comunicación lingüística (CCL) a través de propuestas que requieren, por parte del alumnado, el uso del lenguaje oral como instrumento de comunicación, de representación, interpretación y comprensión del mundo que les rodea, el establecimiento de intercambios comunicativos respetuosos con las demás personas y la diversificación de sus posibilidades comunicativas, expresivas y creativas. El disfrute de la literatura infantil, así como el acercamiento a la lengua escrita, en un primer momento con intenciones espontáneas y, posteriormente, más ajustadas y la exploración de los usos sociales; la verbalización de lo que están aprendiendo, de lo que piensan y lo que sienten y las interacciones diversas, con el acceso a usos y formas cada vez más convencionales y complejas de la lengua, serán los primeros pasos para la progresiva adquisición de esta competencia.
+
+Respecto a la Competencia plurilingüe (CP), su desarrollo comienza con el contacto con lenguas distintas a la familiar, el respeto y aprecio por la diversidad lingüística presente en su entorno más cercano y por la variedad del español hablado en Canarias, y con actividades que favorecen el aprendizaje, y la expresión, de las primeras palabras en lengua extranjera, a través de canciones, rimas, poesías, cuentos y vocabulario, referido a la vida cotidiana en el aula, que contribuyen al enriquecimiento del repertorio lingüístico y a la iniciación en el uso oral de una lengua distinta a la propia, para comunicarse en las situaciones habituales del aula, adquiriendo progresivamente la entonación y expresividad, y desarrollando el interés por los aspectos socioculturales que transmiten.
+
+La Competencia digital (CD) comienza a desarrollarse a partir de la curiosidad y el interés por el lenguaje audiovisual, y las preguntas que se hacen sobre el uso de las tecnologías de la información y la comunicación; así como con la creación mediada de algunos contenidos, como fuente de aprendizaje.
+
+En esta área los primeros pasos hacia la adquisición de la Competencia personal social, ciudadana y de aprender a aprender (CPSAA) residen en propuestas que favorecen la cooperación con iguales y personas adultas de forma constructiva, la resolución de los conflictos a través del diálogo y la oportunidad de intercambiar puntos de vista para llegar a acuerdos. Los espacios de autonomía en los que los niños y las niñas tienen la oportunidad de elegir y estructurar proyectos personales, les ayudan a comprender cómo aprenden y a movilizar sus aprendizajes hacia distintos contextos aumentando así la posibilidad de compartir con distintas personas sus ideas y avances.
+
+Respecto a la Competencia ciudadana (CC), su desarrollo y posterior adquisición requiere que niños y niñas tengan oportunidades para aprender a relacionarse con sus iguales y con las personas adultas, respetando las pautas elementales de convivencia, adecuando su comportamiento a las necesidades y los requerimientos de otras personas, y verbalizando sus propias necesidades con una comunicación asertiva, desarrollando actitudes de respeto, ayuda y colaboración, estableciendo intercambios a través del diálogo y el ejercicio de una ciudadanía democrática, profundizando, de manera progresiva, en el reconocimiento de la propia cultura, y expresando ideas acerca del valor de la misma en la vida cotidiana.
+
+El área tiene una especial relevancia en relación a la Competencia en conciencia y expresión cultural (CCEC). La exploración y el uso creativo, por parte del alumnado, de materiales diversos para la producción plástica, así como la iniciación en diferentes técnicas básicas de expresión para favorecer la imaginación y la fantasía, y la posibilidad de expresar oralmente aquello que ha plasmado en sus obras; el disfrute e interpretación de canciones, danzas, y representaciones dramáticas, y el interés y curiosidad hacia manifestaciones artísticas y culturales del patrimonio canario, y de otras culturas, son oportunidades fundamentales para iniciarse en esta competencia.
+
+Bloques competenciales.
+
+Las competencias específicas, que tienen carácter finalista, constituyen un elemento de conexión entre las competencias clave y los saberes propios del área. En cuanto a los criterios de evaluación, estos constituyen los referentes que indican el nivel de desempeño a alcanzar por el alumnado.
+
+Las competencias específicas, que tienen carácter finalista, constituyen un elemento de conexión entre las competencias clave y los saberes propios del área. En cuanto a los criterios de evaluación, estos constituyen los referentes que indican el nivel de desempeño a alcanzar por el alumnado. En lo relativo a las explicaciones de los bloques competenciales, estas integran los aprendizajes recogidos en la totalidad del bloque, orientan sobre el proceso de desarrollo y adquisición tanto de las competencias específicas como de las competencias clave; y ofrecen, además, indicaciones metodológicas -siempre con una perspectiva abierta, flexible e inclusiva- para el diseño y la implementación de situaciones de aprendizaje competenciales. Es por ello que las explicaciones de los bloques competenciales se constituyen como los referentes más adecuados para la planificación de la concreción curricular y de la programación didáctica.
+
+Competencias específicas y criterios de evaluación.
+
+En el área de Comunicación y representación de la realidad, se han establecido cinco competencias específicas, que se concretan en dieciséis criterios de evaluación para el primer ciclo y veintiocho criterios de evaluación para el segundo. A todos ellos se les ha dado carácter longitudinal, de modo que aumenta, de manera progresiva, la complejidad de los aprendizajes contemplados en los mismos a lo largo de los dos ciclos de la etapa.
+
+Estos criterios de evaluación presentan una marcada naturaleza competencial, de manera que se relacionan directamente con las competencias clave a las que contribuye cada una de las competencias específicas, expresando tanto las capacidades y los saberes a adquirir, como el contexto y modo de aplicación de dichos aspectos.
+
+Competencia específica 1 (C1).
+
+El deseo o la necesidad de interactuar con el entorno es el motor que posibilita la evolución de las destrezas comunicativas. Con el desarrollo de esta competencia específica, será imprescindible experimentar el placer de comunicarse mediante las primeras interacciones ligadas a la emoción, que se producen en situaciones globales cuyo contexto (gestos, silencios, prosodia…) facilitan la comprensión, la expresión y la integración de los significados de las palabras, antes de que el niño o la niña sea capaz de usarlas. La persona adulta, como principal interlocutor en las fases iniciales, se convierte en el facilitador de la experiencia comunicativa de cada niño o niña, a partir de experiencias compartidas.
+
+Estimular y promover la intención comunicativa, en diversas situaciones, favorece el despliegue de diferentes capacidades que le permitirán interpretar los mensajes de las demás personas e interactuar con el entorno para expresar sus necesidades, emociones, sentimientos o ideas, en un clima de bienestar y seguridad emocional y afectiva.
+
+Participar en situaciones de comunicación significativas, funcionales, lúdicas, desde el respeto a las diferencias individuales, permitirá al alumnado conocer e integrar progresivamente a su repertorio comunicativo los diferentes lenguajes (verbal, no verbal, plástico, musical, digital…) y descubrir las posibilidades expresivas de cada uno de ellos, para utilizar de manera ajustada y eficaz el más adecuado en función de su intención comunicativa o de las exigencias del entorno. Las primeras interacciones en una lengua extranjera a través de actividades lúdicas que despierten su curiosidad e interés serán esenciales para ir construyendo el camino hacia el aprendizaje de otras lenguas distintas de la materna.
+
+Las interacciones comunicativas fomentarán también la adquisición progresiva de las convenciones sociales que rigen los intercambios comunicativos, así como la curiosidad y motivación hacia el aprendizaje de otras lenguas, acercándose progresivamente a los significados de distintos mensajes en contextos de comunicación conocidos.
+
+Cualquier tiempo del día puede ser un espacio que invite a que haya intercambios comunicativos. Si estamos hablando de encuentro, de diálogo, de expresión oral, de práctica social, de planificación, la asamblea, las sesiones de filosofía, el momento de la elección de las zonas o rincones, la planificación de una construcción en el rincón, las actividades específicas de expresión y comunicación oral, el momento de música, de cuentos, de teatro, de puestas en común mientras investigan algún tema…, son todos espacios idóneos para la comunicación en la vida del grupo, y requieren de un espacio en el día a día del aula.
+
+Competencia específica 2 (C2).
+
+La comprensión supone recibir y procesar información en distintos ámbitos y formatos, expresada a través de mensajes variados (orales, escritos, multimodales…), representaciones y manifestaciones personales, sociales, culturales y artísticas próximas al interés o a la necesidad personal. Esta competencia implica interpretar mensajes, analizarlos y dar respuesta a los estímulos percibidos. Para ello, el alumnado de esta etapa irá adquiriendo y activando distintas estrategias para desarrollar la capacidad de realizar anticipaciones, aproximaciones e inferencias de una manera cada vez más personal y creativa. De esta forma, podrá comprender los mensajes y las intenciones comunicativas de otras personas, e irá construyendo nuevos significados y aprendizajes, progresando desde el acompañamiento y la mediación hacia un determinado grado de autonomía y conocimiento del mundo. Se iniciará, de la misma, manera, el contacto con una primera lengua extranjera, de manera que el alumnado pueda comprender palabras y mensajes sencillos, relacionados con el contexto escolar y con las rutinas propias del aula.
+
+Competencia específica 3 (C3).
+
+Con el desarrollo de esta competencia, la producción y emisión de mensajes tienen que ver con la necesidad de contacto y satisfacción de las necesidades más básicas; el lenguaje corporal y gestual es esencial en ese primer acto comunicativo. El lenguaje oral, gracias a la interacción con la persona adulta, se convierte en el vehículo principal de aprendizaje, regulación de la conducta y expresión de necesidades, ideas, emociones, sentimientos y vivencias. Se iniciará también la utilización de las primeras palabras en una lengua extranjera, así como en el empleo de estructuras muy breves y sencillas que permitirán al alumnado nombrar el mundo de otras maneras.
+
+La prosodia y todos los aspectos no verbales que acompañan al lenguaje oral cobran ahora una importancia capital. Conforme se avanza en la etapa, la producción de mensajes permite también representar aspectos de la realidad vivida o imaginada, de una forma cada vez más personal y mejor ajustada a los distintos contextos y situaciones comunicativas, a través del uso de diferentes lenguajes.
+
+El alumnado utilizará diferentes formas de expresión de una manera libre y creativa, a partir de su conocimiento e interpretación de la realidad y la conceptualización y el dominio de los sistemas de simbolización y de las técnicas requeridas en cada caso (verbales, no verbales, plásticas, musicales, digitales…). Los niños y las niñas irán descubriendo, mediante la experimentación y el uso, las posibilidades expresivas de cada uno de dichos lenguajes, en función del momento concreto de su proceso madurativo y de aprendizaje.
+
+Competencia específica 4 (C4).
+
+La etapa de Educación Infantil es el entorno privilegiado para realizar un acercamiento progresivo al lenguaje escrito como forma de comunicación, conocimiento y disfrute. A través de esta competencia específica, el acercamiento a los textos escritos y su exploración mediante anticipaciones e inferencias, así como a través de la observación de modelos lectores y escritores de calidad, se irá despertando en niños y niñas la curiosidad por descubrir sus funcionalidades en tanto que herramienta de representación del lenguaje oral y sus sonidos. En la medida en que avanza en la comprensión de algunas de las características y convenciones del lenguaje escrito, se incrementa la necesidad de descubrir la información que contiene, con una actitud lúdica y de disfrute. Siempre desde el respeto a la evolución de los diferentes ritmos de desarrollo personal y del conocimiento del proceso a través del cual niños y niñas se apropian del sistema de escritura, y las hipótesis que utilizan, se promoverá una aproximación al lenguaje escrito como actividad inserta en el quehacer cotidiano del aula, como inicio de un proceso que deberá consolidarse en la Educación Primaria. Las bibliotecas de aula y de centro jugarán un papel relevante como espacios donde se pongan en juego las ideas infantiles sobre el porqué y el para qué del lenguaje escrito, así como lugar de acercamiento al disfrute de los primeros contactos con la literatura infantil tanto en la lengua materna como en una primera lengua extranjera. La biblioteca se organizará como un espacio que es fuente de información y disfrute y se enseñará a respetar sus normas de uso para disfrutar de la literatura infantil, tanto cuando se les lee como cuando exploran diferentes obras literarias con la intención de leer por sus propios medios. Del mismo modo, la presencia de soportes y útiles de escritura variados, en lugares accesibles, serán una invitación a producir mensajes por placer y a sentir la emoción de expresar sus pensamientos, vivencias o sentimientos de manera espontánea.
+
+Competencia específica 5 (C5).
+
+La riqueza plurilingüe del aula -y el acercamiento a una primera lengua extranjera- se convierte en un elemento de particular importancia, ya que favorece la exposición a lenguas distintas de la familiar de cada niño o niña, así como una aproximación a las mismas a través de interacciones y actividades lúdicas. Por ello con el desarrollo de esta competencia específica, se incide en educar en el respeto y la valoración del bagaje lingüístico y sociocultural propio y ajeno, entendiendo la pluralidad lingüística y dialectal como un elemento enriquecedor que proporciona las claves para una mayor y mejor comprensión del mundo. También las manifestaciones y representaciones socioculturales constituyen un marco privilegiado para la comunicación. La pluralidad de sus lenguajes invita a promover el reconocimiento de las semejanzas y diferencias entre sus códigos y a desarrollar la sensibilidad hacia distintos referentes culturales, prestando una especial atención a la literatura infantil. De todo ello se espera que surja un diálogo lleno de matices entre las diferentes lenguas y manifestaciones culturales que generará un amplio abanico de conocimientos implícitos. En ese proceso, las palabras actuarán como nexo de unión desde el que enriquecer el bagaje cultural y desarrollar la sensibilidad y la creatividad, ofreciendo a la infancia, simultáneamente, la llave de acceso a una ciudadanía crítica, solidaria, igualitaria y comprometida con la sociedad.
+
+Saberes básicos.
+
+Los saberes básicos del área aparecen integrados tanto en los criterios de evaluación como en las explicaciones de los bloques competenciales. No obstante, quedan establecidos, organizados y secuenciados, a continuación de los mismos.
+
+En el área Comunicación y Representación de la Realidad, los saberes básicos se presentan en nueve grandes bloques.
+
+En el Bloque I, “Intención y elementos de la interacción comunicativa”, el Bloque II, “Las lenguas y sus hablantes”, el Bloque III “Comunicación verbal y oral: expresión, comprensión y diálogo” y el Bloque IV, “Aproximación al lenguaje escrito” los saberes se centran en los elementos esenciales para una comunicación funcional básica, la adquisición de vocabulario elemental y el aumento del repertorio lingüístico, en lengua materna y primera lengua extranjera, todo ello a través de la participación del alumnado en situaciones de comunicación significativas y funcionales, respetando las diferencias individuales en actividades que facilitan el progreso situaciones comunicativas que potencian el diálogo, la atención, la escucha activa. Por otra parte, se promueve la expresión en los diferentes lenguajes verbal y no verbal así como otros modos de expresión a través del arte, la música, el lenguaje multimodal… la aproximación a los textos orales formales e informales, la discriminación auditiva y la conciencia fonológica, los usos sociales de los textos escritos y el descubrimiento de otros códigos gráficos; y el acercamiento a las primeras expresiones en lengua extranjera a través de canciones, nanas, poesías y vocabulario relcionado con rutinas, saludos, etc…
+
+El Bloque V, “Aproximación a la educación literaria”, se centra en un primer acercamiento a diversidad de textos literarios que contribuyen al enriquecimiento transversal de la educación en valores, de manera que los niños y las niñas comiencen a construir vínculos afectivos y lúdicos, de gusto y disfrute, con las obras literarias, en primer lugar a partir de las imágenes y, posteriormente, relacionando estas con los textos aumentando así el conocimiento del mundo con toda su riqueza y diversidad. Por su parte, la biblioteca de aula es un espacio fundamental tanto para acceder a momentos de disfrute de los textos allí presentes, como para dar los primeros pasos hacia el hábito lector.
+
+En los últimos cuatro bloques, el Bloque VI, “El lenguaje y la expresión musical”; el Bloque VII, “El lenguaje y la expresión plástica y visual”; el Bloque VIII, “El lenguaje y la expresión corporal”; y el Bloque IX, “La alfabetización digital”, los saberes atienden al acercamiento y desarrollo de las posibilidades expresivas y de comunicación que aportan los diferentes lenguajes presentes en la sociedad, a nivel individual o grupal, y que son fundamentales para la comunicación, la expresión, la participación e interacción con el entorno y la vida en relación con las demás personas. Respecto a la música, la exploración y descubrimiento de los sonidos comienza con el propio cuerpo y con el entorno, posteriormente con el uso de instrumentos y a través de las canciones y las danza se les acercará a distintas manifestaciones musicales, en especial del acervo canario. Por otra parte, los saberes referidos a la expresión plástica implican la exploración y descubrimientos de las posibilidades que ofrecen la diversidad de materiales y técnicas y la expresión de emociones y de la creatividad, a través de ellos, así como la valoración de las manifestaciones artísticas del patrimonio canario. La expresión corporal, que es otra manera de comunicación personal a través del cuerpo, así como el reconocimiento de las posibilidades comunicativas de los iguales, se posibilitará de manera activa ya que el cuerpo es el primer recurso personal para comunicar deseos, emociones, ideas. Respecto a la comunicación a través de las tecnologías esta se facilitará con el uso de diversas herramientas digitales y la posibilidad de la creación mediada de contenidos. Estos cuatro bloques integran saberes que resultan fundamentales para la construcción de la identidad personal, el autoconocimiento, el desarrollo de la creatividad; y la ampliación de la relación, de los niños y las niñas, con el mundo que les rodea.
+
+Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos.
+
+Las situaciones de aprendizaje suponen el núcleo central en el desarrollo de las competencias. Las competencias específicas explicitan los desempeños que el alumnado debe poder llevar a cabo en situaciones de aprendizaje, para cuyo abordaje se requieren los saberes básicos de cada área, dentro de un marco de atención inclusiva a las diferencias individuales, y a las singularidades y necesidades de cada alumno o alumna.
+
+En Educación Infantil, la implementación del currículo en cada una de las áreas implica el diseño de situaciones de aprendizaje globalizadas y contextualizadas, desde un tratamiento integrado de los aprendizajes, que posibiliten la movilización de los saberes propios de las tres áreas en las que se organiza el currículo de la etapa.
+
+A la hora de diseñar situaciones de aprendizaje, hemos de tener en cuenta una serie de orientaciones metodológicas y estrategias didácticas que van a favorecer el desarrollo competencial. Las mismas, que aparecen recogidas en el Anexo 3 del presente Decreto.
+
+Ver anexo en las páginas 41096-41103 del documento
+                        Descargar
+
+Saberes básicos.
+
+I. Intención y elementos de la interacción comunicativa.
+
+1. Evolución de la intencionalidad comunicativa: establecimiento de contacto e intercambio visual en contextos de proximidad.
+
+2. Progresión en la expresión facial y corporal: gestos de intención, necesidad y estado de ánimo y las sensaciones que los acompañan.
+
+3. Progresión en el control postural a través de las interacciones tónico-emocionales: el diálogo corporal.
+
+4. Comprensión de las expresiones emocionales de la persona adulta y reacción ante ellas.
+
+5. Desarrollo de actitudes comunicativas: sostenimiento de la atención conjunta y la mirada referencial.
+
+6. Uso de estrategias que facilitan los intercambios en situaciones comunicativas: el contacto visual con la persona interlocutora, la escucha atenta, el turno de diálogo.
+
+7. Descubrimiento de los objetos de uso compartido como mediadores en los primeros contextos de interacción comunicativa.
+
+8. Disfrute con las nanas, las canciones de arrullo y los juegos de regazo, así como de las nursery rhymes, chants, riddles, songs…, en una primera lengua extranjera.
+
+II. Las lenguas y sus hablantes.
+
+1. Ampliación del repertorio lingüístico individual, tanto en su lengua materna como en la lengua extranjera.
+
+2. Iniciación en el descubrimiento de la realidad plurilingüe del aula y entorno.
+
+3. Adquisición paulatina de palabras o expresiones que respondan a sus necesidades e intereses.
+
+4. Observación y exploración de representaciones sociales, culturales y artísticas cercanas al interés y necesidad personal.
+
+5. Valoración positiva e interés por disfrutar de diversidad cultural, presente en su entorno y de las costumbres de otros países.
+
+III. Comunicación verbal y oral: expresión, comprensión y diálogo.
+
+1. Uso del lenguaje oral en situaciones cotidianas tanto en su lengua materna como en la lengua extranjera: primeras conversaciones con sonidos, vocalizaciones y juegos de interacción.
+
+2. Expresión sonora y articulación de las palabras. Juegos de imitación, lingüísticos y de percepción auditiva, tanto en su lengua materna como en la lengua extranjera.
+
+3. Iniciación en la discriminación auditiva de las diferencias fonéticas del lenguaje oral e iniciación en la segmentación del mismo.
+
+4. Ampliación del repertorio lingüístico: situaciones comunicativas, conversaciones colectivas, léxico y discurso.
+
+5. Expresión de necesidades, vivencias y emociones. Producción de los primeros mensajes, de forma libre y creativa.
+
+6. Iniciación en el uso de palabras sencillas y significativas, en una primera lengua extranjera, para el desarrollo de las rutinas. Comprensión y producción de palabras y mensajes muy sencillos en la lengua extranjera.
+
+7. Comprensión del mundo y de mensajes, a través de la escucha activa.
+
+8. Descubrimiento de la funcionalidad del lenguaje para representar la realidad.
+
+IV. Aproximación al lenguaje escrito.
+
+1. Descubrimiento de las formas escritas y otros símbolos presentes en el entorno.
+
+2. Acercamiento a la presencia del lenguaje escrito en el entorno cercano y a sus usos sociales y funcionales.
+
+3. Disfrute de cuentos, adivinanzas, rimas, retahílas…, en soporte escrito.
+
+4. Imitación de la lectura a través de modelos lectores de referencia.
+
+V. Aproximación a la educación literaria.
+
+1. Introducción a los textos literarios orales y escritos con contenido adecuado al desarrollo infantil que, preferentemente, desarrollen valores sobre la cultura de paz, los derechos de la infancia, la igualdad entre mujeres y hombres y la diversidad funcional y étnico-cultural.
+
+2. Construcción de vínculos afectivos y lúdicos, a través de modelos lectores de referencia.
+
+VI. El lenguaje y la expresión musical.
+
+1. Descubrimiento y disfrute de los sonidos del entorno a través de la escucha.
+
+2. Reconocimiento, evocación, reproducción de canciones, y otras manifestaciones musicales, prestando especial atención al patrimonio musical canario.  Expresión de sentimientos y emociones que transmiten.
+
+3. Exploración de las posibilidades sonoras y expresivas de la voz, el cuerpo, los objetos y los instrumentos. Juego con los sonidos, la entonación y los ritmos.
+
+VII. El lenguaje y la expresión plástica y visual.
+
+1. Exploración y descubrimiento de materiales, colores, volúmenes, texturas, técnicas y procedimientos plásticos.
+
+2. Despliegue de la expresión plástica y visual. Acercamiento y apreciación de otras expresiones artísticas.
+
+3. Aproximación a obras artísticas del patrimonio cultural canario y las de otras culturas presentes en su entorno.
+
+VIII. El lenguaje y la expresión corporal.
+
+1. Expresión libre a través del gesto, el movimiento y el desplazamiento por el espacio.
+
+2. Evolución del juego hasta llegar al de imitación, a través de marionetas, muñecos y otros objetos de representación espontánea.
+
+Ver anexo en las páginas 41106-41114 del documento
+                        Descargar
+
+Saberes básicos.
+
+I. Intención y elementos de la interacción comunicativa.
+
+1. Participación en situaciones de comunicación significativas y funcionales, desde el respeto a las diferencias individuales.
+
+2. Empleo de la empatía y la asertividad para la comunicación interpersonal.
+
+3. Ampliación del repertorio comunicativo, incluyendo elementos de expresión no verbal.
+
+4. Progreso en la adquisición y uso de las convenciones sociales del intercambio lingüístico en situaciones comunicativas que potencien el respeto y la igualdad: atención, escucha activa, turnos de diálogos y alternancia.
+
+5. Conocimiento e integración, a su repertorio comunicativo, de los diferentes lenguajes (verbal, no verbal, plástico, musical, digital, gestual y multimodal…)
+
+6. Muestra de curiosidad y motivación hacia el aprendizaje de otras lenguas.
+
+7. Desarrollo de actitudes de respeto hacia la diversidad cultural y plurilingüe de su entorno próximo.
+
+8. Descubrimiento de las posibilidades expresivas del lenguaje digital.
+
+9. Acercamiento al uso funcional, seguro y responsable de las TIC.
+
+II. Las lenguas y sus hablantes.
+
+1. Ampliación del repertorio lingüístico individual, tanto en su lengua materna como en la lengua extranjera.
+
+2. Progreso en el descubrimiento de la realidad lingüística del aula y entorno.
+
+3. Adquisición paulatina de palabras y expresiones que respondan a sus necesidades e intereses.
+
+4. Acercamiento a la lengua extranjera. Elementos para una comunicación funcional básica.
+
+5. Valoración positiva e interés por disfrutar de las costumbres, cultura y personas de países donde se habla la lengua extranjera.
+
+III. Comunicación verbal y oral: expresión, comprensión y diálogo.
+
+1. Uso del lenguaje oral en situaciones cotidianas: conversaciones, juegos de interacción social y expresión de vivencias.
+
+2. Iniciación al uso de palabras y frases sencillas y significativas para el desarrollo de rutinas diarias, actividades, tareas y retos, en la lengua extranjera.
+
+3. Comprensión y producción básica de palabras y mensajes sencillos en lengua extranjera.
+
+4. Aproximación a los textos orales formales e informales, en su lengua materna y en la lengua extranjera.
+
+5. Discriminación auditiva y conciencia fonológica, en su lengua materna y en la lengua extranjera
+
+6. Determinación en la intención comunicativa de los mensajes que emiten.
+
+7. Motivación e interés por el aprendizaje y adquisición de la lengua extranjera.
+
+IV. Aproximación al lenguaje escrito.
+
+1. Aproximación al código escrito desde las escrituras indeterminadas.
+
+2. Descubrimiento de las propiedades del sistema de escritura. Usos sociales, funcionales, lúdicos y significativos de la lectura y la escritura, en situaciones comunicativas.
+
+3. Manejo de textos escritos en diferentes soportes.
+
+4. Intención comunicativa y acercamiento a las principales características textuales y paratextuales de los textos escritos.
+
+5. Descubrimiento de otros códigos de representación gráfica: imágenes, símbolos, números…
+
+6. Iniciación a estrategias de búsqueda de información, reelaboración y comunicación.
+
+V. Aproximación a la educación literaria.
+
+1. Acercamiento a textos literarios orales y escritos adecuados al desarrollo infantil, que preferiblemente contribuyan al tratamiento transversal de la educación en valores (cultura de paz, derechos de la infancia, igualdad de género y diversidad funcional y étnico-cultural
+
+2. Disfrute de situaciones de aproximación a la lectura individual, a través de modelos lectores de referencia.
+
+3. Construcción de vínculos afectivos y lúdicos con los textos literarios.
+
+4. Uso y disfrute de la biblioteca del aula y de centro.
+
+5. Establecimiento de conversaciones y diálogos en torno a textos literarios libres de prejuicios y estereotipos.
+
+VI. El lenguaje y la expresión musical.
+
+1. Indagación en las posibilidades sonoras, expresivas y creativas de la voz, el cuerpo, los objetos cotidianos de su entorno y los instrumentos.
+
+2. Participación y disfrute de las propuestas musicales en distintos formatos.
+
+3. Intención expresiva en producciones musicales.
+
+4. Exploración del sonido, el silencio y sus cualidades. Descubrimiento del código musical.
+
+5. Disfrute con la escucha musical. Aproximación al patrimonio musical de Canarias.
+
+VII. El lenguaje y la expresión plástica y visual.
+
+1. Exploración e investigación de los materiales específicos e inespecíficos, elementos, técnicas y procedimientos plásticos.
+
+2. Intención expresiva de producciones plásticas y pictóricas.
+
+3. Conocimiento de manifestaciones plásticas variadas y acercamiento a diversas manifestaciones culturales y artísticas.
+
+4. Conocimiento, disfrute y valoración de manifestaciones artísticas propias del patrimonio cultural canario.
+
+VIII. El lenguaje y la expresión corporal.
+
+1. Desarrollo de las posibilidades expresivas y comunicativas del propio cuerpo en actividades individuales y grupales libres de prejuicios y estereotipos sexistas.
+
+2. Participación y disfrute en juegos de expresión corporal y dramática.
+
+IX. Alfabetización digital.
+
+1. Acercamiento a las aplicaciones y herramientas digitales con distintos fines: creación, comunicación, aprendizaje y disfrute.
+
+2. Lectura e interpretación crítica de imágenes e información recibida a través de medios digitales.
+
+3. Uso y cuidado de los dispositivos y elementos tecnológicos de su entorno.
+
+
+## ANEXO 3
+
+
+### Situaciones de aprendizaje
+
+Las situaciones de aprendizaje, que presentan carácter orientativo, constituyen una herramienta efizaz para la integración de los diferentes elementos curriculares, lo que permitirá iniciar el proceso de desarrollo y adquisición de las competencias clave en la Educación Infantil. Hacen referencia a la secuenciación de un conjunto de actividades globalizadas, contextualizadas, significativas, competenciales y de complejidad gradual, que requieren de la resolución creativa de tareas, retos o problemas por parte del alumnado, a través de la movilización de los aprendizajes del currículo, en contextos lúdicos favorecedores de la integración sensorial, de la manipulación y de la experimentación con los diferentes elementos del entorno. Suponen un punto de conexión entre el currículo y el entorno cercano a los niños y las niñas, que ofrece la oportunidad al profesorado de implementar y concretar a las particularidades de su contexto educativo, lo establecido en cada área, dentro del marco de autonomía docente. Las situaciones de aprendizaje deberán respetar las líneas del Proyecto educativo, y la Programación general anual; y concretar la Propuesta Pedagógica desarrollando las Unidades de Programación, integradas en la Programación Didáctica, a través de una serie de actividades significativas, inclusivas, lúdicas y competenciales.
+
+La nueva estructura del currículo de la Comunidad Autónoma de Canarias se caracteriza por plantear la integración efectiva de los elementos curriculares, para iniciar el proceso de desarrollo y la adquisición de las competencias clave, a través de propuestas que implican el diseño de situaciones de aprendizaje flexibles, estimulantes, significativas e integradoras; contextualizadas en el entorno más cercano al alumnado y respetuosas con el desarrollo holístico e integral de las niñas y los niños, en todas sus dimensiones: ética, artística, corporal, cognitiva, comunicativa y socio-afectiva; que además, tendrán en cuenta sus talentos, habilidades, potencialidades, intereses y necesidades; así como las diferentes formas de comprender la realidad, a medida que el alumnado avanza en su desarrollo psicoevolutivo, y que fomenten la experimentación, la observación, la manipulación, la integración sensorial o el proceso de socialización, entre otros aspectos.
+
+El profesorado de la etapa, por tanto, concretará el currículo establecido en el presente Decreto, a través del diseño de situaciones de aprendizaje, que impliquen la implementación de metodologías en las que los niños y las niñas sean los protagonistas y las protagonistas de su propio proceso de aprendizaje, teniendo en cuenta el contexto escolar así como las particularidades individuales del alumnado, con la finalidad de garantizar la progresiva adquisición de las competencias y la construcción de sus propios aprendizajes. El andamiaje docente será fundamental en este diseño ya que la meta es acompañar los procesos individuales, y también los grupales, en el descubrimiento del mundo que los rodea.
+
+El juego es la actividad por excelencia a lo largo de la infancia, por esta razón las situaciones de aprendizaje deberán tener un enfoque lúdico, integrando todo tipo de juegos: espontáneos o guiados, en pequeño grupo, en gran grupo o individuales, en diversos espacios y con materiales seleccionados, cuidadosamente, para dar respuesta a los intereses de cada niño y niña, y posibilitar el enriquecimiento de las actividades planteadas.
+
+Por un lado, las situaciones de aprendizaje deben favorecer la consecución gradual de los objetivos de la etapa, así como un proceso paulatino de adquisición de los aprendizajes establecidos en las diferentes áreas para cada uno de los ciclos de la etapa, de manera que se favorezca el inicio del desarrollo progresivo de un desempeño autónomo, crítico y reflexivo en el alumnado.
+
+Por otro lado, deben plantear una tarea, un reto o un problema, acorde con el desarrollo evolutivo del niño o la niña, cuya resolución creativa implique la movilización, global y real, de lo aprendido, y cuyo logro suponga la integración de los saberes básicos establecidos para las diferentes áreas en las que se organiza la etapa.
+
+Además, las situaciones de aprendizaje deben contextualizarse en escenarios en los que se favorezcan distintos tipos de agrupamientos, desde el individual al trabajo en grupo, para que el alumnado pueda asumir responsabilidades individuales, así como trabajar de manera cooperativa para afrontar la resolución de los retos planteados. Por ello, es necesario que sean significativas y cercanas a su experiencia, y que impliquen la realización de producciones diversas que evidencien el inicio del proceso de desarrollo y adquisición de las competencias clave, y el logro progresivo de los aprendizajes establecidos en las competencias específicas propias de cada una de las tres áreas del currículo de la etapa de la Educación Infantil.
+
+Las situaciones de aprendizaje que concreten el currículo de la etapa debe alinearse con los principios del Diseño Universal para el Aprendizaje (DUA) para garantizar una atención inclusiva a las diferencias individuales del alumnado, de forma que se promuevan distintas formas de acceso al aprendizaje y la eliminación de barreras, para que se tengan en cuenta las condiciones personales, sociales o culturales, de los niños y las niñas, y faciliten la detección y respuesta a los elementos que pudieran generar exclusión, facilitando las trayectorias personales en el acercamiento al conocimiento; así como el despliegue de los talentos y las potencialidades de cada niño y niña. En la Educación Infantil, además, deberán tenerse en consideración que los ritmos y procesos de maduración del alumnado son elementos fundamentales.
+
+El rol docente, por lo tanto, en el diseño de las situaciones de aprendizaje, deberá tener presente el contexto, la realidad del grupo, las necesidades y los intereses de los niños y las niñas, respetando las particularidades de la etapa, y ser lo suficientemente abierto y flexible como para incorporar a la vida del aula las propuestas que, de manera natural y espontánea, realiza el alumnado. El andamiaje docente será fundamental en este diseño ya que la meta es acompañar los procesos individuales, y también los grupales, en el descubrimiento, por parte de los niños y de las niñas, del mundo que los rodea.
+
+Respecto al proceso de evaluación, la observación y la escucha pedagógica son dos técnicas fundamentales que enriquecen la documentación de los diversos procesos de desarrollo y aprendizaje de cada niño, niña y grupo, y favorecen el registro de lo vivido y lo aprendido. La selección de las herramientas adecuadas para evaluar, ayudan a sistematizar la recogida de información que los niños y las niñas nos ofrecen y nos permiten evaluar, con mayor precisión, los procesos de aprendizaje.
+
+Asimismo, es fundamental la autoevaluación docente y la evaluación que realiza de su tarea el equipo docente de grupo, porque permiten ajustar los diseños adecuándolos a las respuestas que, a lo largo de su desarrollo, reciben del alumnado.
+
+Por último, las situaciones de aprendizaje en la etapa de Educación Infantil deben garantizar la transferencia y generalización de lo aprendido a la realidad cotidiana, y responder a las necesidades y los retos del mundo globalizado en el que vivimos, caracterizado por cambios muy rápidos y constantes, un mundo, en el que niños y niñas son ciudadanos y ciudadanas de pleno derecho, tal como establecen la Convención de los derechos de la infancia y los principios de la Unión Europea.
+
+Por tanto, la escuela tendrá que facilitar que los niños y las niñas adquieran aprendizajes que les permitan ser capaces de dar respuestas ajustadas a las necesidades sociales del siglo XXI: la sostenibilidad, la inclusión educativa, la igualdad, el consumo responsable, la iniciación en el uso de la tecnología y la posesión de un amplio sentido cultural, en un marco educativo emocionalmente comprometido y activo, junto con el respeto y la valoración del patrimonio cultural, social y natural, iniciándose en los aspectos más significativos del patrimonio canario.
+

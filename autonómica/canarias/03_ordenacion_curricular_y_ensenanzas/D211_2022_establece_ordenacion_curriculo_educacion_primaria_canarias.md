@@ -1,0 +1,4493 @@
+---
+id: norm-can-d-211-2022
+codigo_sintetizado: D211_2022 Ordenacion y Curriculo de Educacion Primaria en Canarias
+titulo: Decreto 211/2022, de 10 de noviembre, por el que se establece la ordenación
+  y el currículo de la Educación Primaria en la Comunidad Autónoma de Canarias.
+jurisdiccion: Canarias
+ambito: Autonómico
+organo_emisor: Gobierno de Canarias / Consejería de Educación, Universidades, Cultura
+  y Deportes
+tipo_disposicion: Decreto
+numero_disposicion: 211/2022
+fecha_disposicion: '2022-11-10'
+fecha_publicacion: '2022-11-23'
+boletin: BOC
+numero_boletin: '231'
+estado: Vigente
+redaccion: texto_integro_boc
+fuente_oficial: https://www.gobiernodecanarias.org/boc/2022/231/001.html
+fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-231-3533.pdf
+fuente_juriscan: https://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=82054
+clasificacion:
+  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+  subcategoria: Educación Primaria
+tags:
+- educacion-primaria
+- curriculo-primaria
+- competencias-clave
+- evaluacion-primaria
+- situaciones-aprendizaje
+- areas-conocimiento
+- lomloe
+relaciones:
+  fundamentado_en:
+  - norma_id: norm-es-c-1978
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-l-39-2015
+  desarrolla:
+  - norma_id: norm-es-rd-157-2022
+  - norma_id: norm-es-lo-2-2006
+---
+
+# Decreto 211/2022, de 10 de noviembre, por el que se establece la ordenación y el currículo de la Educación Primaria en la Comunidad Autónoma de Canarias.
+
+## Preámbulo
+
+
+### I
+
+La Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias, en su artículo 133, confiere a esta Comunidad Autónoma, en el ámbito de sus competencias exclusivas, el ejercicio de las competencias legislativa, reglamentaria y de ejecución de la enseñanza en toda su extensión, niveles, grados, modalidades y especialidades, sin perjuicio de lo dispuesto en el artículo 27 de la Constitución y en las Leyes Orgánicas que lo desarrollan.
+
+Consecuentemente, este Decreto está en consonancia con la Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, conforme se contempla en el artículo 30, relativo a la Educación Primaria; con el Real Decreto 157/2022, de 1 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Primaria (en adelante, Real Decreto 157/2022); con la Estrategia Canaria de Infancia, Adolescencia y Familia, en la que se definen las líneas de política social de la Comunidad Autónoma de Canarias en materia de Infancia y Familia para el periodo de 2019-2023, con la finalidad de promover e impulsar el bienestar de la infancia y la adolescencia en Canarias con la colaboración de las familias y de todos los agentes e instituciones implicadas, y cuyo antecedente fue el Plan Integral del Menor de Canarias (PIMC), tras publicarse la Ley 1/1997, de 7 de febrero, de Atención Integral a los Menores; y con la Agenda Canaria 2030 para el Desarrollo Sostenible, al buscar el logro de una vida digna y feliz del alumnado de la Educación Primaria que le permita desarrollarse en un entorno seguro, sano, justo y que propicie la igualdad de oportunidades.
+
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación (en lo sucesivo, Ley Orgánica 2/2006), modificada por la Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE), determina, en su artículo 6, que las enseñanzas mínimas requerirán el 50% de los horarios escolares para las Comunidades Autónomas que tengan lengua cooficial y el 60% para aquellas que no la tengan, y que las Administraciones educativas establecerán el currículo de las distintas enseñanzas reguladas en la presente Ley del que formarán parte los aspectos básicos del currículo que constituyen las enseñanzas mínimas. De esta forma, teniendo en cuenta la actual distribución de competencias, la Administración educativa es la responsable de establecer el 40% de los horarios escolares para la impartición de sus incorporaciones propias y para la configuración de la ordenación específica y el currículo para Canarias, del que forman parte los objetivos, las competencias, los saberes básicos y los criterios de evaluación, que constituyen las enseñanzas mínimas. Por otro lado, corresponderá a los centros educativos, dentro de su autonomía pedagógica y de acuerdo a su proyecto y entorno educativo, desarrollarlo y completarlo, en su caso.
+
+La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación (en adelante LOMLOE), introduce, además, en la anterior redacción de la norma, importantes cambios, muchos de ellos derivados, tal y como indica la propia ley en su exposición de motivos, de la conveniencia de revisar las medidas previstas en el texto original, con objeto de adaptar el sistema educativo a los retos y desafíos del siglo XXI, de acuerdo con los objetivos fijados por la Unión Europea y la UNESCO para la década 2020-2030. De acuerdo con este enfoque, el nuevo texto de la Ley Orgánica 2/2006, incorpora entre los principios y fines de la educación el cumplimiento efectivo de los derechos de la infancia según lo establecido en la Convención sobre los Derechos del Niño de Naciones Unidas, la inclusión educativa y la aplicación de los principios del Diseño Universal para el Aprendizaje (DUA).
+
+
+### Ii
+
+En este sentido, la atención individualizada al alumnado deberá determinar la práctica educativa del conjunto de profesionales que inciden en esta etapa y, en todo caso, los ya mencionados principios del DUA deberán permear las medidas organizativas, metodológicas y curriculares de la Educación Primaria, etapa en la que cobra especial relevancia la atención individualizada al alumnado así como la detección temprana de sus necesidades específicas y la compensación a las mismas.
+
+La Comunidad Autónoma de Canarias, en el uso de las citadas competencias, es la responsable de establecer la ordenación específica de las enseñanzas de la Educación Primaria y de concretar sus objetivos, fines y principios generales y pedagógicos, que se recogen en el Perfil de salida del alumnado al término de la enseñanza básica. A través de este, se identifican las competencias clave que necesariamente deberán haberse adquirido y desarrollado al finalizar la enseñanza obligatoria, así como los descriptores operativos que orientan sobre el nivel de desempeño esperado al completar la Educación Primaria. Por otro lado, para cada una de las áreas se fijan las competencias específicas previstas para la etapa, así como los criterios de evaluación y los contenidos enunciados en forma de saberes básicos para cada ciclo, en consonancia con el citado Real Decreto 157/2022.
+
+Junto con la Educación Secundaria Obligatoria y los Ciclos Formativos de Grado Básico, la Educación Primaria constituye la educación básica, siendo la primera etapa del sistema educativo con carácter obligatorio. En esta etapa, se pretende que el alumnado acceda a aprendizajes que garanticen una formación integral, holística y competencial, que contribuya al pleno desarrollo de su personalidad y lo prepare para cursar con aprovechamiento la Educación Secundaria Obligatoria. La actividad educativa en la Educación Primaria habrá de construirse, pues, a través de aprendizajes que incidirán en la adquisición de las competencias clave y en el tratamiento transversal de los valores dentro de las premisas de funcionalidad, competencialidad, inclusividad, equidad, calidad e integración curricular.
+
+En este sentido, los principios que han guiado la concreción del currículo en la Comunidad Autónoma de Canarias se materializan, en este Decreto, en un currículo competencial, centrado en que el alumnado adquiera los aprendizajes imprescindibles para continuar desarrollándose como ciudadanía activa, crítica y responsable en el plano individual, social y académico-profesional; un currículo que facilita y orienta el desempeño docente, fomentando la integración de las áreas en situaciones de aprendizaje funcionales y contextualizadas, a través de la participación activa en entornos socialmente relevantes y significativos, que se puedan desarrollar o simular en el contexto educativo; un currículo que visibiliza los principios pedagógicos de una escuela que persigue el éxito de todo el alumnado, que supera factores generadores de desigualdad y el riesgo de exclusión social; que facilita las relaciones entre áreas y que cuida la coherencia y el tránsito entre etapas y ciclos, a través de la adecuada progresión de todos los elementos curriculares, siendo necesario prestar una especial atención a la transición desde la Educación Infantil y a la continuidad hacia la Educación Secundaria Obligatoria. Todo ello con el fin de garantizar, desde los primeros años de escolarización, la continuidad en la formación del alumnado y la prevención del abandono escolar temprano.
+
+
+### Iii
+
+Los cambios introducidos por la LOMLOE modifican significativamente la ordenación y la organización de las enseñanzas, recuperando los tres ciclos anteriormente existentes en la etapa de la Educación Primaria, reordenando las áreas con objeto de favorecer el desarrollo y la adquisición de las competencias en el alumnado, y permitiendo su organización en ámbitos. Las áreas que se imparten en todos los cursos de la etapa de Educación Primaria son las siguientes: Conocimiento del Medio Natural, Social y Cultural, Educación Artística, Educación Física, Lengua Castellana y Literatura, Lengua Extranjera y Matemáticas. En el tercer ciclo se añade, como novedad, el área de Educación en Valores Cívicos y Éticos, que cursará todo el alumnado; y se amplía la oferta e impartición del área de Educación Emocional y para la Creatividad, a todos los cursos de la etapa.
+
+En el ámbito de esta Comunidad Autónoma, se han determinado una serie de líneas estratégicas, en consonancia con la Agenda Canaria de Desarrollo Sostenible 2030, que han marcado la propuesta de ordenación y currículo de esta etapa, partiendo de un enfoque globalizador y transversal: “Educación inclusiva”, “Educación del patrimonio natural, social y cultural canario”, “Desarrollo sostenible”, “Perspectiva de género y coeducación”, “Emocionalidad competente” y “Sentido cultural de la educación”.
+
+De esta manera, la educación en el patrimonio natural, social e histórico-cultural canario impregna la totalidad de los currículos de la etapa, con la finalidad de que el alumnado se acerque, de manera gradual, a aprendizajes que promuevan su conocimiento, disfrute y valoración, en concordancia con lo establecido en el artículo 21.8 de la Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias.
+
+Igualmente, se incorporan en todas las áreas elementos y conceptos relacionados con el desarrollo sostenible, haciendo hincapié en su dimensión ecosocial, para fomentar, en el alumnado de esta etapa educativa, el respeto a la integridad ambiental, la lucha contra el cambio climático y la consecución de una sociedad justa para generaciones presentes y futuras.
+
+La incorporación de la perspectiva de género y la coeducación supone la inclusión de este enfoque y de aprendizajes relacionados con la prevención de la violencia de género, la diversidad afectivo-sexual y de género, y la educación sexual como dimensiones transversales que permean los aprendizajes que el alumnado adquiere en las diferentes áreas de la etapa.
+
+De la misma manera, la consecución de un modelo inclusivo de atención a la diversidad se ha materializado a través de la integración de los principios del DUA en el propio proceso de diseño curricular, que integra procesos pedagógicos más accesibles y apuesta por un modelo más flexible y adaptable a las características individuales del alumnado.
+
+Por otro lado, el alumnado debe aprender a gestionar, de la forma más eficaz posible y de manera contextualizada, sus experiencias emocionales, tanto con relación a sí mismo como hacia las demás personas. Es por ello por lo que, además de la incorporación de un área específica en la etapa, se trabajan las competencias emocionales en el conjunto de áreas del currículo.
+
+Por último, se incide en el sentido cultural de la educación, de manera que se propicie que las áreas de la etapa se encuentren e interactúen, de forma que el alumnado aprenda a aprender, a adquirir una autonomía intelectual y a obtener un sentido cultural de su aprendizaje, a través de los elementos básicos que sustentan la cultura de la humanidad en cualquiera de sus aspectos: humanísticos, artísticos, científico-tecnológicos o motrices, a partir de una perspectiva transversal, integradora, flexible y globalizadora de sus aprendizajes.
+
+
+### Iv
+
+Por otra parte, debe mantenerse una estrecha cooperación entre los centros educativos y las familias, que son el primer referente afectivo de los niños y las niñas, y quienes tienen la responsabilidad primordial de su educación. Se hace imprescindible, pues, la colaboración de la escuela con estas y el entorno del alumnado, para garantizar una coherencia y continuidad en los procesos y en las prácticas educativas, ya que constituyen los contextos de aprendizaje que ejercen más influencia en su desarrollo personal.
+
+
+### V
+
+El presente Decreto está integrado por veinticuatro artículos, dos disposiciones adicionales, una disposición transitoria, una disposición derogatoria y tres disposiciones finales. También incluye cuatro anexos, que versan sobre las materias que se detallan a continuación:
+
+El Anexo 1 recoge el perfil de salida del alumnado al término de la enseñanza básica.
+
+El Anexo 2 contiene los currículos de las áreas de la Educación Primaria.
+
+El Anexo 3 hace referencia a la descripción de las situaciones de aprendizaje.
+
+El Anexo 4 incluye la distribución horaria de las áreas a lo largo de la etapa.
+
+En cuanto a la redacción del presente Decreto y en lo que respecta a la igualdad de género y de expresión de género, se ha dado cumplimiento, respectivamente, a la Ley 1/2010, de 26 de febrero, canaria de igualdad entre mujeres y hombres, y a la Ley 2/2021, de 7 de junio, de igualdad social y no discriminación por razón de identidad de género, expresión de género y características sexuales.
+
+En concordancia con lo expuesto y conforme al artículo 129.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ha quedado debidamente justificada la adecuación del presente Decreto a los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia, en tanto que el mismo persigue un interés general al ser competencia de esta Comunidad establecer la ordenación específica y el currículo para su ámbito de actuación, una vez se han fijado la ordenación general y las enseñanzas mínimas correspondientes a la Educación Primaria, a través del Real Decreto 157/2022. En lo que se refiere a los principios de necesidad y eficacia, se trata de una norma necesaria para la regulación de las enseñanzas de Educación Primaria conforme a la redacción dada al artículo 6.5 de la Ley Orgánica 2/2006 y a su desarrollo posterior mediante el Real Decreto 157/2022. De acuerdo con el principio de proporcionalidad contiene la regulación imprescindible de la estructura de estas enseñanzas al no existir ninguna alternativa regulatoria menos restrictiva de derechos. Conforme a los principios de seguridad jurídica y eficiencia resulta coherente con el ordenamiento jurídico y permite una gestión más eficiente de los recursos públicos. Por último, se ha dado cumplimiento al principio de transparencia, al haberse garantizado, en la tramitación del proyecto, la audiencia e información públicas; así como al principio de eficiencia, puesto que su aprobación no supone cargas administrativas innecesarias a las ciudadanía en general ni a las familias y al alumnado en particular.
+
+En su virtud, a propuesta de la Consejera de Educación, Universidades, Cultura y Deportes, previo informe del Consejo Escolar de Canarias, visto el dictamen nº 384/2022, de 13 de octubre, del Consejo Consultivo de Canarias, y previa deliberación del Gobierno en su reunión celebrada el día 10 de noviembre de 2022,
+
+
+DISPONGO:
+
+
+#### Artículo 1.- Objeto y ámbito de aplicación.
+
+1. El presente Decreto tiene por objeto establecer la ordenación y el currículo de la etapa de Educación Primaria, en desarrollo de lo dispuesto en el Real Decreto 157/2022, de 1 de marzo, por el que se establecen la ordenación y las enseñanzas mínimas de la Educación Primaria.
+
+2. Este Decreto será de aplicación en todos los centros docentes sostenidos con fondos públicos y privados que impartan las enseñanzas de esta etapa en el ámbito territorial de la Comunidad Autónoma de Canarias.
+
+
+#### Artículo 2.- Definiciones.
+
+1. A los efectos de lo dispuesto en este Decreto, se entiende por currículo de la Educación Primaria el conjunto de objetivos, competencias, contenidos enunciados en forma de saberes básicos, criterios de evaluación, situaciones de aprendizaje y métodos pedagógicos. Todo ello ha de regular la práctica docente, de forma que se desarrollen de manera integral las capacidades del alumnado.
+
+2. En base a lo explicitado en el apartado anterior, y en relación a lo dispuesto en este Decreto, se entenderá por:
+
+a) Objetivos: logros que se espera que el alumnado haya alcanzado al finalizar la etapa y cuya consecución está vinculada al proceso de desarrollo y adquisición de las competencias clave y de las competencias específicas de cada área.
+
+b) Competencias clave: desempeños que se consideran imprescindibles para que el alumnado pueda progresar con garantías de éxito en su itinerario formativo, y afrontar los principales retos y desafíos globales y locales. Las competencias clave aparecen recogidas en el Perfil de salida del alumnado al término de la enseñanza básica (en adelante, Perfil de salida) y son la adaptación al sistema educativo español de las competencias clave establecidas en la Recomendación del Consejo de la Unión Europea, de 22 de mayo de 2018 relativa a las competencias clave para el aprendizaje permanente. Este perfil de salida ha sido adaptado, además, al nivel de desempeño esperado para el alumnado que finaliza la Educación Primaria.
+
+c) Competencias específicas: desempeños que el alumnado debe poder desplegar en actividades o en situaciones cuyo abordaje requiere de los saberes básicos de cada área. Las competencias específicas constituyen un elemento de conexión entre, por una parte, el Perfil de salida del alumnado, y, por otra, los saberes básicos de las áreas y los criterios de evaluación. Las competencias específicas de cada área, que serán comunes para todos los ciclos de la etapa, presentan un carácter finalista. Su grado de consecución en cada uno de los ciclos de la etapa viene determinado por los criterios de evaluación que se establecen para cada una de ellas.
+
+d) Criterios de evaluación: referentes que indican los niveles de desempeño esperados en el alumnado en las situaciones o actividades a las que se refieren las competencias específicas de cada área en un momento determinado de su proceso de aprendizaje. Constituyen los referentes para la evaluación tanto de los saberes propios de las áreas, como del grado de desarrollo y adquisición de las competencias específicas y clave.
+
+e) Saberes básicos: conocimientos, destrezas y actitudes que constituyen los contenidos propios de un área y cuyo aprendizaje es necesario para la adquisición de las competencias específicas.
+
+f) Situaciones de aprendizaje: situaciones y actividades que implican el despliegue, por parte del alumnado, de actuaciones asociadas a competencias clave y competencias específicas, y que contribuyen a la adquisición y desarrollo de las mismas.
+
+
+#### Artículo 3.- Principios generales.
+
+1. La Educación Primaria tiene carácter obligatorio y gratuito, abarca seis cursos académicos y se cursará, con carácter general, entre los 6 y los 12 años.
+
+2. La Educación Primaria proporcionará a todos los niños y las niñas una educación de calidad, en condiciones de equidad y con garantía de igualdad de oportunidades.
+
+3. El conjunto de la actividad educativa contribuirá al desarrollo pleno del alumnado a través de la integración de las distintas experiencias y aprendizajes desde una perspectiva global, que permita asimismo la adaptación de los procesos de enseñanza y de aprendizaje a los diferentes ritmos de trabajo y estilos de aprendizaje del alumnado.
+
+4. Las medidas organizativas, metodológicas y curriculares que se adopten se regirán por los principios del Diseño Universal para el Aprendizaje, de manera que se posibilite el acceso al currículo para todo el alumnado y que se responda a las fortalezas y necesidades de este en función de sus características individuales. Para ello, se contará con los recursos materiales y humanos necesarios y adecuados.
+
+5. La actividad educativa, que implica la participación de toda la comunidad, contribuirá al desarrollo pleno del alumnado a través de la integración curricular de los valores y los aprendizajes que incidan en el desarrollo y la adquisición de las competencias clave, que le permitan el ejercicio de una ciudadanía responsable, consciente y respetuosa de los derechos y las libertades fundamentales, de la igualdad efectiva de derechos y oportunidades entre hombres y mujeres, y de la diversidad afectivo sexual; una ciudadanía crítica con las desigualdades, los comportamientos sexistas y todas clase de discriminaciones por razón de sexo, edad, religión, cultura, opción afectivo-sexual, capacidad.
+
+6. Las relaciones interpersonales se sustentarán en el ejercicio de la tolerancia y de la libertad, propio de una ciudadanía democrática donde la participación sea la estrategia para lograr la corresponsabilidad de toda la comunidad educativa y donde la convivencia positiva, la prevención de conflictos y su resolución pacífica sean los principios rectores insertados, de manera transversal, en los procesos de enseñanza y aprendizaje.
+
+
+#### Artículo 4.- Objetivos y fines.
+
+1. La Educación Primaria contribuirá a desarrollar en los niños y las niñas las capacidades que les permitan alcanzar los siguientes objetivos de la etapa:
+
+a) Conocer y apreciar los valores y las normas de convivencia, aprender a obrar de acuerdo con ellas de forma empática, prepararse para el ejercicio activo de la ciudadanía y respetar los derechos humanos, así como el pluralismo propio de una sociedad democrática.
+
+b) Desarrollar hábitos de trabajo individual y de equipo, de esfuerzo y de responsabilidad en el estudio, así como actitudes de confianza en sí mismo, sentido crítico, iniciativa personal, curiosidad, interés y creatividad en el aprendizaje, y espíritu emprendedor.
+
+c) Adquirir habilidades para la resolución pacífica de conflictos y la prevención de la violencia, que les permitan desenvolverse con autonomía en el ámbito escolar y familiar, así como en los grupos sociales con los que se relacionan.
+
+d) Conocer, comprender y respetar las diferentes culturas y las diferencias entre las personas, la igualdad de derechos y oportunidades de hombres y mujeres y la no discriminación de personas por motivos de etnia, orientación o identidad de género, religión o creencias, discapacidad u otras condiciones.
+
+e) Conocer y utilizar de manera apropiada la lengua castellana y desarrollar hábitos de lectura.
+
+f) Adquirir en, al menos, una lengua extranjera la competencia comunicativa básica que les permita expresar y comprender mensajes sencillos y desenvolverse en situaciones cotidianas.
+
+g) Desarrollar las competencias matemáticas básicas e iniciarse en la resolución de problemas que requieran la realización de operaciones elementales de cálculo, conocimientos geométricos y estimaciones, así como ser capaces de aplicarlos a las situaciones de su vida cotidiana.
+
+h) Conocer los aspectos fundamentales de las Ciencias de la Naturaleza, las Ciencias Sociales, la Geografía, la Historia y la Cultura.
+
+i) Desarrollar las competencias tecnológicas básicas e iniciarse en su utilización, para el aprendizaje, desarrollando un espíritu crítico ante su funcionamiento y los mensajes que reciben y elaboran.
+
+j) Utilizar diferentes representaciones y expresiones artísticas e iniciarse en la construcción de propuestas visuales y audiovisuales.
+
+k) Valorar la higiene y la salud, aceptar el propio cuerpo y el de los otros, respetar las diferencias y utilizar la educación física, el deporte y la alimentación como medios para favorecer el desarrollo personal y social.
+
+l) Conocer y valorar los animales más próximos al ser humano y adoptar modos de comportamiento que favorezcan la empatía y su cuidado.
+
+m) Desarrollar sus capacidades afectivas en todos los ámbitos de la personalidad y en sus relaciones con las demás personas, así como una actitud contraria a la violencia, a los prejuicios de cualquier tipo y a los estereotipos sexistas.
+
+n) Desarrollar hábitos cotidianos de movilidad activa autónoma saludable, fomentando la educación vial y actitudes de respeto que incidan en la prevención de los accidentes de tráfico.
+
+2. El currículo de la Educación Primaria, en la Comunidad Autónoma de Canarias, contribuirá, además, a que el alumnado conozca, aprecie y respete los aspectos culturales, históricos, geográficos, naturales, sociales y lingüísticos, más relevantes de la Comunidad, así como los de su entorno, según lo requieran las diferentes áreas, valorando y desarrollando actitudes responsables de acción, respeto, protección y cuidado de este patrimonio.
+
+3. La finalidad de esta etapa educativa es facilitar a los alumnos y las alumnas los aprendizajes relacionados con la expresión y comprensión oral, la lectura y la escritura, el cálculo, las habilidades lógicas y matemáticas, la digitalización responsable, la adquisición de un sentido cultural transdisciplinar, de nociones básicas de la cultura y el hábito de convivencia, así como los de estudio y trabajo, el sentido artístico, la creatividad y la afectividad, con el fin de garantizar una formación integral, holística y competencial, que contribuya al pleno desarrollo de su personalidad, y de prepararlos para cursar con aprovechamiento la Educación Secundaria Obligatoria.
+
+4. La implementación del currículo de esta etapa, en la Comunidad Autónoma de Canarias, se orientará, además, a la consecución de los siguientes fines:
+
+a) La incorporación de aprendizajes, valores y actitudes, haciendo hincapié en la dimensión ecosocial, que contribuyan a que el alumnado actúe responsablemente, en aras de la sostenibilidad ambiental, y al desarrollo de actitudes responsables de acción y cuidado del medio natural, social y cultural.
+
+b) La eliminación de los prejuicios, estereotipos y roles en función del sexo, de la orientación sexual o de la identidad y expresión de género, la integración del saber de las mujeres y su contribución social e histórica al desarrollo de la humanidad, la prevención de la violencia de género y el fomento de la coeducación.
+
+c) El afianzamiento del autoconocimiento, la autoestima, y la gestión de las emociones y sentimientos, en pro del desarrollo personal y social.
+
+d) La atención al alumnado desde el principio de inclusión, equidad y compensación de las posibles situaciones de vulnerabilidad que puedan incidir en su desarrollo personal, social y educativo.
+
+
+#### Artículo 5.- Principios pedagógicos.
+
+1. En esta etapa se pondrá especial énfasis en garantizar la inclusión educativa y en el empleo de estrategias didácticas y metodológicas que permitan una organización flexible. Se incidirá asimismo, en la atención personalizada al alumnado y a sus necesidades de aprendizaje, en la participación y la convivencia positiva, la prevención de dificultades de aprendizaje y la puesta en práctica de mecanismos de refuerzo y flexibilización, alternativas metodológicas u otras medidas adecuadas tan pronto como se detecten cualquiera de estas situaciones, así como la intervención de otros agentes de la comunidad educativa u otros externos, que puedan colaborar en la implementación del currículo y contribuir a la mejora de la atención al alumnado, y consecuentemente, a la integración de los aprendizajes. Todo ello con el objetivo de conseguir el éxito escolar de todos los alumnos y las alumnas.
+
+2. La intervención educativa buscará desarrollar y asentar progresivamente las bases que faciliten a cada alumno o alumna una adecuada adquisición de las competencias clave previstas en el Perfil de salida del alumnado al término de la enseñanza básica, concretadas para la Educación Primaria, teniendo siempre en cuenta su proceso madurativo individual, así como los niveles de desempeño esperados para esta etapa.
+
+3. Sin perjuicio de su tratamiento específico en algunas de las áreas de la etapa, la comprensión lectora, la expresión oral y escrita, la comunicación audiovisual, la competencia digital y el fomento de la creatividad, del espíritu científico y del emprendimiento se trabajarán en todas las áreas.
+
+4. Los aprendizajes que tengan carácter instrumental para la adquisición de otras competencias recibirán especial consideración durante el proceso de enseñanza y aprendizaje.
+
+5. De igual modo, desde todas las áreas se promoverá la igualdad entre hombres y mujeres, la educación para la paz, la educación para el consumo responsable y el desarrollo sostenible, y la educación para la salud, incluida la afectivo-sexual.
+
+6. Asimismo, se prestará especial atención a la orientación educativa y a la acción tutorial, así como a la educación emocional y en valores.
+
+7. La práctica educativa potenciará experiencias de aprendizaje significativas, motivadoras y emocionalmente positivas, promoviendo además la autonomía y la reflexión. En este sentido, la práctica docente favorecerá la observación, la experimentación, la estimulación de la curiosidad, el juego y los trabajos de campo, así como la integración curricular, de manera que se trabaje desde la interrelación de las áreas de la etapa y la permeabilidad con el entorno del que procede el alumnado.
+
+8. Asimismo, la metodología didáctica empleada en el diseño y la implementación de situaciones de aprendizaje debe fomentar que el alumnado sea el agente de su propio proceso de aprendizaje, al contextualizar de manera funcional los procesos cognitivos, afectivos y psicomotrices presentes en el currículo de la etapa. Para ello, el rol docente ha de ser el de guía o facilitador, de forma que sea el alumnado quien construya el conocimiento desde sus propios aprendizajes, logre los objetivos de la etapa y adquiera, de manera integrada y significativa, las competencias clave.
+
+9. A fin de fomentar el hábito y el dominio de la lectura, todos los centros educativos dedicarán un tiempo diario a la misma, en los términos recogidos en su proyecto educativo. Para facilitar dicha práctica, la Administración educativa promoverá planes de fomento de la lectura y de alfabetización en diversos medios, tecnologías y lenguajes. Para ello se contará, en su caso, con la colaboración de las familias o las personas tutoras legales y del voluntariado, así como con el intercambio de buenas prácticas.
+
+10. Con objeto de fomentar la integración de las competencias, se dedicará un tiempo del horario lectivo a la realización de proyectos significativos para el alumnado y a la resolución colaborativa de problemas, reforzando la autoestima, la autonomía, la reflexión y la responsabilidad.
+
+
+#### Artículo 6.- Currículo.
+
+1. El currículo de la Educación Primaria se organiza en áreas que se especifican en el artículo 8 y en el Anexo 2 del presente Decreto, que garantizarán un tratamiento global e integrador de los aprendizajes, vertebrados estos con el tratamiento de contenidos de carácter transversal, para asegurar que el alumnado alcance los objetivos previstos para la etapa, así como el grado de desarrollo y adquisición de las competencias clave, definidas a través de los descriptores operativos del Perfil de salida, concretado para el nivel de desempeño esperado al finalizar la etapa de Educación Primaria. Las áreas se agruparán en comunes, opcionales y optativas, que serán cursadas por todo el alumnado a lo largo de la etapa o en determinados momentos de la misma.
+
+2. El currículo de las áreas se organiza, para los diferentes ciclos de la etapa, en bloques competenciales que integran las competencias específicas establecidas para cada una de ellas, los criterios de evaluación asociados y la vinculación de estos elementos con los descriptores del Perfil de salida, contextualizado a la Educación Primaria. Estos bloques competenciales incluyen, además, una explicación que orienta sobre el proceso de evaluación de los aprendizajes incluidos en cada uno de ellos, recogiendo, también, orientaciones de tipo metodológico y facilitando, de manera general, la vinculación con los saberes básicos. El currículo de las áreas de la etapa determina, asimismo, los saberes básicos establecidos para los diferentes ciclos.
+
+3. Los aprendizajes referidos al conocimiento, la valoración y la conservación del patrimonio cultural, histórico, natural, social y lingüístico de Canarias, se han integrado de manera transversal en los currículos de las diferentes áreas.
+
+4. En el Anexo 2 de este Decreto se establecen, para el ámbito de la Comunidad Autónoma de Canarias, los currículos de cada una de las áreas de la etapa, secuenciados para cada uno de los ciclos en los que se organiza la etapa.
+
+5. La programación didáctica será el instrumento de planificación curricular que permita desarrollar los procesos de enseñanza y aprendizaje, de manera coordinada entre todo el profesorado que incide en un mismo ciclo. La programación didáctica, en esta etapa educativa deberá estar centrada en el desarrollo y la adquisición de las competencias clave y específicas, tomándose como referencia los criterios de evaluación establecidos para cada área en el presente Decreto. La Administración educativa dictará instrucciones sobre los elementos que deberán conformar las programaciones didácticas y su contenido.
+
+6. Para la adquisición y desarrollo, tanto de las competencias clave como de las competencias específicas, el equipo docente planificará situaciones de aprendizaje en los términos que se dispongan desde la Administración educativa. El Anexo 3, que no presenta carácter prescriptivo, establece el marco general para el diseño de situaciones de aprendizaje en el seno de la etapa de la Educación Primaria, que requerirán de un planteamiento global, significativo y estimulante para el alumnado. La Administración educativa podrá proporcionar orientaciones para concretar a cada área lo establecido en dicho anexo.
+
+
+#### Artículo 7.- Competencias clave y perfil de salida.
+
+1. A través del currículo se garantizará el desarrollo y la adquisición de las siguientes competencias clave en el alumnado:
+
+a) Competencia en comunicación lingüística (CCL).
+
+b) Competencia plurilingüe (CP).
+
+c) Competencia matemática y competencia en ciencia, tecnología e ingeniería (STEM).
+
+d) Competencia digital (CD).
+
+e) Competencia personal, social y de aprender a aprender (CPSAA).
+
+f) Competencia ciudadana (CC).
+
+g) Competencia emprendedora (CE).
+
+h) Competencia en conciencia y expresión culturales (CCEC).
+
+2. El Perfil de salida del alumnado al término de la enseñanza básica identifica y define, en conexión con los retos del siglo XXI, las competencias clave que el alumnado debe haber desarrollado al finalizar la educación básica.
+
+Este constituye la concreción de los principios y fines del sistema educativo referidos a la educación básica, y fundamenta el resto de decisiones curriculares. Este Perfil de salida ha sido contextualizado para la Educación Primaria, de manera que se establecen los descriptores operativos que determinan el grado de desempeño esperado en el alumnado, al término de la misma, para cada una de las competencias clave.
+
+3. En el Anexo 1 del presente Decreto se define cada una de las competencias clave y se establece el Perfil de salida del alumnado al término de la enseñanza básica, así como su contextualización a la etapa de Educación Primaria.
+
+4. Los currículos establecidos para las diferentes áreas de la etapa y la concreción de los mismos que los centros realicen en sus proyectos educativos tendrán como referente, asimismo, dicho Perfil de salida.
+
+5. La adecuada adquisición de las competencias y su tratamiento integrado en los procesos de enseñanza y de aprendizaje, se garantizará por medio de una organización y un funcionamiento de los centros educativos que -en el ejercicio de su autonomía- favorezca una metodología didáctica inclusiva, que vertebre la actividad docente y las actividades complementarias y extraescolares; y que permita la participación de toda la comunidad educativa en el proceso formativo del alumnado, dada la importancia de los aprendizajes formales y no formales. Asimismo, se favorecerá el desarrollo personal, cognitivo, emocional y psicomotriz del alumnado. Se potenciará su desarrollo moral, psicológico y socioemocional, así como su capacidad de resiliencia y la motivación intrínseca, como factores determinantes para favorecer la continuidad escolar.
+
+6. El carácter global e integrador de la etapa pone el énfasis en el hecho de que todas las áreas del currículo contribuyen a que el alumnado alcance las competencias referidas en este artículo.
+
+
+#### Artículo 8.- Organización de la etapa.
+
+1. La Educación Primaria es una etapa educativa que constituye, junto con la Educación Secundaria Obligatoria y los Ciclos Formativos de Grado Básico, la Educación Básica. Con carácter general, el alumnado se incorporará al primer curso de la Educación Primaria en el año natural en el que cumpla seis años.
+
+2. La etapa se organiza en tres ciclos de dos años académicos cada uno.
+
+3. Las áreas de la Educación Primaria tendrán un carácter global e integrador, y estarán orientadas al desarrollo de las competencias del alumnado.
+
+4. Sin menoscabo de este carácter global e integrador de la etapa, los centros educativos podrán organizar ámbitos, de manera que se agrupen dos o más áreas, conforme a lo que determine la Administración educativa, incluyendo, en todo caso, en dichos ámbitos las competencias específicas, los criterios de evaluación y los saberes básicos de las áreas que los conforman.
+
+5. Las áreas de la Educación Primaria que se imparten en todos los cursos y que cursará todo el alumnado son las siguientes:
+
+a) Conocimiento del Medio Natural, Social y Cultural.
+
+b) Educación Artística.
+
+c) Educación Física.
+
+d) Lengua Castellana y Literatura.
+
+e) Lengua Extranjera.
+
+f) Matemáticas.
+
+6. En los dos cursos que configuran el tercer ciclo de la etapa se añade el área de Educación en Valores Cívicos y Éticos, que será cursada por todo el alumnado.
+
+7. En todos los cursos de la etapa se impartirá una materia de carácter transversal, Educación Emocional y para la Creatividad.
+
+8. Todo el alumnado de esta etapa deberá cursar el área de Segunda Lengua Extranjera, al menos, en los dos cursos del tercer ciclo.
+
+
+#### Artículo 9.- Calendario escolar y horario semanal.
+
+1. El calendario escolar será fijado anualmente por la Administración educativa y comprenderá un mínimo de 175 días lectivos para las enseñanzas obligatorias.
+
+2. El horario semanal total para el alumnado y para cada uno de los cursos de la Educación Primaria se distribuirá de lunes a viernes, siendo un mínimo de veinticinco horas por semana en cada uno de los cursos, incluido el tiempo de recreo de treinta minutos diarios, distribuidos a lo largo de la jornada escolar. El horario asignado a las áreas debe entenderse como el tiempo necesario para el trabajo en cada una de ellas, sin menoscabo del carácter global e integrador de la etapa. En el caso de que se organicen ámbitos, el horario escolar correspondiente a cada uno de ellos será el resultante de la suma de las áreas que lo integren.
+
+3. Los centros docentes organizarán, con carácter general para cada curso de la Educación Primaria, el horario semanal establecido en el apartado anterior, excluidas las horas de recreo, en sesiones de de 55 o 45 minutos de duración, según se establece en el Anexo 4, dando prioridad a la organización en sesiones de 55 minutos. Si bien los centros, en el ejercicio de su autonomía, podrán establecer sesiones lectivas de distinta duración a esta dentro de la misma jornada escolar, siempre que estén comprendidas entre los 30 y los 60 minutos.
+
+4. El área de Religión deberá tener una dedicación semanal de 60 minutos en cada uno de los niveles de la etapa. Cuando los centros educativos organicen su horario en sesiones de 45 minutos, deberán dar cumplimiento a lo indicado, realizando, cuando sea necesario y en el ámbito de su autonomía, los ajustes en la duración de las sesiones dedicadas a las áreas en esa jornada. En este caso, podrán detraer el horario del área que consideren más adecuada, pero en ningún caso estos ajustes pueden afectar a las áreas cuya carga lectiva sea de dos sesiones semanales o menos.
+
+5. Se faculta a la persona titular de la Consejería competente en materia de educación para modificar el horario establecido en el Anexo 4 del presente Decreto atendiendo a necesidades organizativas de las distintas áreas y respetando lo establecido en el currículo y, en todo caso, al límite previsto en el artículo 12.1 del Real Decreto 157/2022, o normativa que lo sustituya.
+
+6. Los centros educativos dedicarán una parte del horario previsto, que no será superior a dos sesiones semanales, para garantizar el desarrollo integrado de las competencias de la etapa y para la incorporación de los contenidos de carácter transversal a todas las áreas. Serán los centros educativos los que, en el ámbito de su autonomía, decidirán a qué áreas se les asignará este tiempo, que no deberá ser empleado en aquellas que tengan una duración inferior a dos sesiones semanales.
+
+7. En referencia a lo reseñado en el apartado anterior, los centros podrán implementar, entre otras, propuestas que desarrollen el plan de lectura del centro, programas para el fomento de la igualdad entre hombres y mujeres, el desarrollo de la competencia digital, el respeto y valoración del entorno y del patrimonio cultural, histórico, geográfico, natural, social y lingüístico de Canarias, o cualquier otra que los centros educativos consideren necesaria para la mejora o para la participación de las familias. Estas propuestas se incluirán en la programación general anual de cada centro educativo y serán objeto de revisión y valoración al finalizar cada curso escolar.
+
+
+#### Artículo 10.- Evaluación de los procesos de enseñanza y aprendizaje.
+
+1. La evaluación del alumnado en esta etapa será global, para lo cual se tendrá en cuenta el grado de desarrollo de las competencias clave y su progreso en el conjunto de los procesos de aprendizaje. Además, la evaluación será continua y formativa, lo que permitirá contar, en cada momento del curso, con información general del proceso de aprendizaje del alumnado y adecuar el proceso de enseñanza del profesorado.
+
+2. La evaluación de las áreas o los ámbitos, y del grado de desarrollo y adquisición de las competencias clave, además de global, continua y formativa, ha de ser conjunta. Los referentes para la evaluación de estos aspectos, así como para la comprobación del logro de los objetivos de la etapa, en la evaluación continua y final de las áreas, serán los criterios de evaluación establecidos para cada uno de los bloques competenciales en los que se organiza el currículo.
+
+3. Las matrices de evaluación o rúbricas constituyen un nivel de concreción curricular que integra los elementos anteriores para la evaluación del alumnado y su establecimiento corresponderá a la Consejería competente en materia de educación.
+
+4. En el contexto de este proceso de evaluación continua o formativa, cuando el progreso de un alumno o una alumna no sea el adecuado, se establecerán las medidas de atención necesarias. Estas medidas se adoptarán tan pronto como se detecten las dificultades y estarán dirigidas a garantizar la adquisición de los aprendizajes imprescindibles para continuar el proceso educativo.
+
+5. La Consejería competente en materia de educación desarrollará orientaciones para que los centros educativos desarrollen planes de refuerzo o de enriquecimiento curricular para aquel alumnado que lo precise, de manera que permitan dar respuesta a las necesidades de cada alumno o alumna, y así mejorar su nivel competencial.
+
+6. El profesorado evaluará tanto los aprendizajes del alumnado como los procesos de enseñanza y su propia práctica docente, de manera que realice una evaluación de los documentos diseñados para la planificación docente, con la finalidad de incorporar los ajustes necesarios en función de cómo se haya desarrollado el proceso de aprendizaje en el alumnado.
+
+7. Con independencia del seguimiento realizado a lo largo del curso, el equipo docente, coordinado por el tutor o la tutora del grupo, valorará, de forma colegiada, el progreso del alumnado en una única sesión de evaluación que tendrá lugar al finalizar el curso escolar, sin menoscabo de las sesiones de evaluación trimestrales, de carácter informativo, que servirán asimismo para la detección temprana de las necesidades específicas del alumnado y para la toma de decisiones respecto a la puesta en práctica de las medidas de apoyo o refuerzo necesarias.
+
+8. Para la evaluación del alumnado se utilizarán instrumentos de evaluación heterogéneos y adaptados a las distintas situaciones de aprendizaje, que permitan su valoración objetiva.
+
+9. La Consejería competente en materia de educación garantizará el derecho del alumnado a que su dedicación, esfuerzo y rendimiento sean valorados y reconocidos con objetividad, teniendo en cuenta, en todo caso, las características de la evaluación dispuesta en la legislación vigente y, en particular, al carácter global, continuo y formativo de la evaluación en esta etapa.
+
+
+#### Artículo 11.- Promoción.
+
+1. Al final de cada uno de los ciclos, el equipo docente del grupo adoptará las decisiones relativas a la promoción del alumnado de manera colegiada, tomando especialmente en consideración la información y el criterio del tutor o la tutora, y con el asesoramiento, siempre que sea preciso, del equipo de orientación educativa y del profesorado de apoyo del centro. En el caso de que no hubiera unanimidad, la decisión se adoptará por mayoría simple y, en caso de empate, predominará la opinión del tutor o la tutora del grupo.
+
+2. El alumnado recibirá los apoyos necesarios para recuperar los aprendizajes que no hubiera alcanzado durante el curso anterior.
+
+3. En aquellos casos en los que, tras haber aplicado las medidas ordinarias suficientes, adecuadas y personalizadas para atender el desfase curricular o las dificultades de aprendizaje del alumno o la alumna, el equipo docente podrá decidir si dicho alumno o alumna debe permanecer un año más en el mismo ciclo por considerar que es la medida más adecuada para favorecer su desarrollo. Se deberá diseñar un plan específico de refuerzo para que, durante esa permanencia excepcional, pueda alcanzar el grado esperado de desarrollo y adquisición de las competencias correspondientes. Esta decisión solo se podrá adoptar una vez a lo largo de la etapa.
+
+4. Antes de adoptar la decisión de no promoción, el profesorado tutor oirá a los padres, las madres o a las personas representantes legales del alumnado. Esta información será tenida en consideración, si bien la decisión última será competencia del equipo docente.
+
+5. Al finalizar cada uno de los ciclos, el tutor o la tutora emitirá un informe sobre el grado de desarrollo y adquisición de las competencias clave por parte de cada alumno o alumna, indicando, en su caso, las medidas de refuerzo que se deben contemplar en el ciclo o la etapa siguiente.
+
+6. Con el fin de garantizar la continuidad del proceso de formación del alumnado y su tránsito a la etapa de Educación Secundaria Obligatoria, cada alumno o alumna dispondrá al finalizar la etapa de un informe sobre su evolución y el grado de desarrollo de las competencias clave, según lo dispuesto por la Administración educativa.
+
+
+#### Artículo 12.- Evaluaciones de diagnóstico.
+
+1. En el cuarto curso de la Educación Primaria todos los centros realizarán una evaluación de diagnóstico de las competencias adquiridas por su alumnado.
+
+2. Esta evaluación de carácter censal, cuya finalidad es la comprobación, al menos de la competencia en Comunicación Lingüística y Matemática, de acuerdo a lo establecido en el artículo 144.1 de la Ley Orgánica 2/2006, será responsabilidad de la Administración educativa y tendrá carácter informativo, formativo y orientador para los centros, para el profesorado, para el alumnado y sus familias o las personas tutoras legales, y para el conjunto de la comunidad educativa.
+
+3. A partir del análisis de los resultados de dicha evaluación, la Consejería competente en materia de educación promoverá que los centros educativos desarrollen planes de actuación y adopten medidas de mejora de la calidad y la equidad de la educación, que orienten la práctica docente.
+
+4. La Consejería competente en materia de educación velará para que las condiciones de realización de dichas evaluaciones tengan en cuenta al alumnado con necesidades educativas especiales, incluyendo en la realización de las mismas las adaptaciones y los recursos que hubiera necesitado en su proceso de enseñanza aprendizaje.
+
+5. En ningún caso, los resultados de estas evaluaciones podrán ser utilizados para el establecimiento de clasificaciones de los centros.
+
+
+#### Artículo 13.- Participación y derecho a la información de madres, padres, tutoras o tutores legales.
+
+1. En los centros se fomentará la participación de todos los sectores de la comunidad educativa en aquellos procesos que favorezcan la corresponsabilidad para que todo el alumnado alcance el éxito educativo.
+
+2. Las madres, los padres, las tutoras o los tutores legales, o las personas guardadoras de los menores o las menores, deberán participar y apoyar la evolución del proceso educativo del alumnado, colaborando en las medidas de apoyo o refuerzo que adopten los centros para facilitar su progreso. En este sentido, la Consejería competente en materia de educación fomentará el ejercicio efectivo de la participación de dichos agentes en las decisiones que afecten a los procesos educativos de sus hijos e hijas, o alumnado tutelado, constituyéndose en agentes fundamentales para la construcción de una escuela inclusiva y participativa.
+
+3. Tendrán, además, derecho a conocer las decisiones relativas a su evaluación y promoción, así como al acceso a las pruebas y los documentos empleados en las evaluaciones que se les realicen, en la parte referida al alumno o la alumna de que se trate, sin perjuicio del respeto a las garantías establecidas en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, y demás normativa aplicable en materia de protección de datos de carácter personal.
+
+4. El proyecto educativo incluirá acciones para la coordinación con las familias o con las personas que tengan la patria potestad, la tutela o las personas guardadoras de hecho y, en todo caso, favorecerá la implicación de todos los sectores de la comunidad educativa en el desarrollo del plan de convivencia, en los términos que se recogen en el artículo 43 del Decreto 114/2011, de 11 de mayo, por el que se regula la convivencia en el ámbito educativo de la Comunidad Autónoma de Canarias, o en la norma que lo sustituya.
+
+5. A partir de este eje fundamental para la participación de la comunidad educativa en el proceso educativo del alumnado, se facilitará la apertura del centro al entorno.
+
+
+#### Artículo 14.- Atención a las diferencias individuales.
+
+1. Durante el desarrollo de la Educación Primaria se prestará especial dedicación a la atención individualizada al alumnado, así como la detección lo más tempranamente posible de sus necesidades específicas y la compensación de las mismas, mediante el establecimiento de medidas de apoyo y refuerzo que posibiliten su avance en el desarrollo y la adquisición de las competencias, y eviten la permanencia del alumnado en el mismo ciclo, prestando especial atención al que procede de entornos socialmente desfavorecidos.
+
+2. Los centros educativos, conforme a la normativa reguladora para atender a la diversidad del alumnado, deben adoptar las medidas necesarias para responder a las necesidades de su alumnado, teniendo en cuenta sus diferentes ritmos y estilos de aprendizaje. Para ello, los centros podrán flexibilizar la organización de las áreas, los espacios y los tiempos, así como la utilización de metodologías diversas que se adapten a las características y necesidades de su alumnado. En caso necesario podrán proponerse las adaptaciones del currículo que correspondan.
+
+3. Las medidas de atención a la diversidad y los recursos de apoyo que se proporcionen respetarán los principios de una educación inclusiva, priorizando la atención del alumnado en su grupo clase.
+
+4. Dichas medidas formarán parte del proyecto educativo de los centros y estarán orientadas a permitir que todo el alumnado alcance el nivel de desempeño esperado al término de la Educación Primaria, de acuerdo con el Perfil de salida y la consecución de los objetivos de la etapa, por lo que en ningún caso podrán suponer una discriminación que impida a quienes se beneficien de ellas promocionar al siguiente ciclo o etapa.
+
+5. Estas medidas comprenden a la totalidad del alumnado. Se proporcionarán en función de las características y necesidades que presente cada alumno o alumna, así como de los apoyos que se requieran para su correcta atención.
+
+6. Se adoptarán medidas curriculares y organizativas inclusivas para asegurar que el alumnado con necesidad específica de apoyo educativo pueda alcanzar los objetivos y las competencias de la etapa. En particular, se favorecerá la flexibilización y el empleo de alternativas metodológicas en la enseñanza y la evaluación de la lengua extranjera, especialmente con aquel alumnado que presente dificultades en su comprensión y expresión.
+
+Igualmente, se establecerán las medidas más adecuadas para que las condiciones de realización de los procesos asociados a la evaluación se adapten a las necesidades de este alumnado.
+
+
+#### Artículo 15.- Atención al alumnado con necesidad específica de apoyo educativo.
+
+1. La escolarización del alumnado que presenta necesidades educativas especiales se regirá por los principios de normalización e inclusión y asegurará su no discriminación y la igualdad efectiva en el acceso y la permanencia en el sistema educativo, pudiendo introducirse medidas de flexibilización de las distintas etapas educativas, cuando se considere necesario.
+
+2. La Administración educativa establecerá los procedimientos oportunos cuando sea necesario realizar adaptaciones que se aparten significativamente del currículo, a fin de dar respuesta al alumnado con necesidades educativas especiales que las precisen, de manera que pueda alcanzar el máximo desarrollo posible de las competencias clave.
+
+3. En el caso de este alumnado, los referentes de la evaluación serán los incluidos en dichas adaptaciones, sin que este hecho pueda impedirles promocionar de ciclo o etapa.
+
+4. La identificación, valoración e intervención de las necesidades educativas de este alumnado se realizarán lo más tempranamente posible por profesionales especialistas y en los términos que determine la Administración educativa. Este proceso se regirá por lo que se desarrolle en la normativa específica para la atención al alumnado que presenta necesidad específica de apoyo educativo.
+
+5. Por otra parte, corresponde a la Administración educativa adoptar las medidas necesarias para identificar al alumnado con dificultades específicas de aprendizaje y valorar de forma temprana sus necesidades.
+
+6. Asimismo, la escolarización del alumnado que se incorpora tardíamente al sistema educativo español se realizará atendiendo a sus circunstancias, conocimientos, edad e historial académico. Cuando presente graves carencias en la lengua de escolarización, recibirá una atención específica que será, en todo caso, simultánea a su escolarización en los grupos ordinarios, con los que compartirá el mayor tiempo posible del horario semanal.
+
+7. Cuando el alumnado al que se hace referencia en el apartado anterior presente un desfase en su nivel de competencia curricular de un ciclo o más, podrá ser escolarizado en el curso inferior al que le correspondería por edad, siempre que dicha permanencia le permita completar la etapa en los límites de edad establecidos con carácter general. Para este alumnado se adoptarán las medidas de refuerzo necesarias que faciliten su integración escolar y la recuperación de su desfase, y le permitan continuar su aprendizaje con aprovechamiento. En el caso de superar dicho desfase, se incorporará al grupo correspondiente a su edad.
+
+8. En los términos que determine la Administración educativa, se podrá flexibilizar la escolarización del alumnado con altas capacidades intelectuales, de forma que pueda reducirse un curso la duración de la etapa, cuando se prevea que esta es la medida más adecuada para el desarrollo de su equilibrio personal y su socialización.
+
+
+#### Artículo 16.- Tutoría y orientación.
+
+1. La acción tutorial formará parte de la actividad docente de todo el profesorado y consistirá en la atención, tanto personalizada como grupal, al alumnado y a sus familias o a las personas que tengan la patria potestad, la tutela o a las personas guardadoras de hecho, de manera que se posibilite el éxito escolar y se ofrezcan las mejores opciones para el desarrollo de los niños y las niñas, como personas individuales y como parte de una comunidad. Asimismo, se fomentará en la etapa el respeto mutuo y la cooperación entre iguales, con especial atención a la igualdad de género.
+
+2. Asimismo se debe mantener una relación permanente con las madres, los padres, las tutoras o los tutores legales del alumnado, a fin de facilitar el ejercicio de los derechos reconocidos en el artículo 4.1.d) y g) de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, o norma que la sustituya.
+
+3. A lo largo del tercer ciclo, se coordinará desde la tutoría la incorporación de elementos de orientación educativa, académica y profesional, que incluyan, al menos, el progresivo descubrimiento de estudios y profesiones, así como la generación de intereses vocacionales libres de estereotipos sexistas. Además, se prestará especial atención a la orientación para el tránsito entre etapas educativas, revisando, potenciando y generalizando los programas de tránsito entre las distintas etapas educativas, especialmente en el tránsito de Educación Primaria a Educación Secundaria Obligatoria.
+
+4. El profesorado tutor de cada grupo, como pieza clave del liderazgo pedagógico del centro, coordinará la intervención educativa del conjunto del profesorado que incide sobre su grupo.
+
+5. Con objeto de facilitar las labores de tutoría y orientación del alumnado, los centros dispondrán de recursos de orientación educativa y psicopedagógica para el apoyo y desarrollo de las mismas.
+
+
+#### Artículo 17.- Enseñanzas del sistema educativo español en lenguas extranjeras.
+
+1. En el proceso de aprendizaje de las lenguas extranjeras, estas se utilizarán en el aula desde un enfoque comunicativo y orientado a la acción, priorizando la comprensión y la expresión orales en situaciones de comunicación social. La lengua castellana solo se utilizará como apoyo en el proceso de aprendizaje de la lengua extranjera.
+
+2. La Consejería competente en materia de educación podrá establecer que una parte de las áreas del currículo se imparta, total o parcialmente, en lenguas extranjeras, sin que ello suponga modificación de los aspectos básicos del currículo regulados en el presente Decreto, y establecerá las condiciones para su organización y desarrollo en los centros educativos.
+
+3. Los centros que impartan las áreas del currículo o parte de ellas en lenguas extranjeras aplicarán, en todo caso, los criterios para la admisión del alumnado establecidos en la Ley Orgánica 2/2006. Entre tales criterios no se incluirán requisitos lingüísticos.
+
+4. Se establecerán medidas de flexibilización y alternativas metodológicas en la enseñanza y evaluación de las lenguas extranjeras para el alumnado con discapacidad, en especial para aquel que presenta dificultades en la expresión oral. Estas adaptaciones en ningún caso se tendrán en cuenta para minorar las calificaciones obtenidas.
+
+
+#### Artículo 18.- Autonomía de los centros.
+
+1. La Consejería competente en materia de educación garantizará a los centros el ejercicio de su autonomía pedagógica, de organización y de gestión, en los términos recogidos en la Ley Orgánica 2/2006, y en las normas que la desarrollan, para que estos estimulen la actividad investigadora del profesorado a partir de la práctica docente y favorezcan su trabajo en equipo, propiciando una actuación coherente y coordinada entre el profesorado que imparta la Educación Primaria en los distintos cursos, así como con el profesorado de la Educación Infantil y de la Educación Secundaria Obligatoria que corresponda, con el objeto de garantizar la continuidad del proceso de formación del alumnado.
+
+2. En el ejercicio de su autonomía, los centros podrán adoptar experimentaciones, innovaciones pedagógicas, programas educativos, planes de trabajo, formas de organización, normas de convivencia o ampliación del calendario escolar o del horario lectivo de las áreas, en los términos que establezca la Administración educativa y dentro de las posibilidades que permita la normativa aplicable, incluida la laboral, sin que, en ningún caso, suponga discriminación de ningún tipo, ni conlleve la imposición de aportaciones a las madres, los padres, las tutoras o los tutores legales o de exigencias para la Administración educativa.
+
+3. Corresponde a la Administración educativa contribuir al desarrollo del currículo favoreciendo la elaboración de modelos abiertos de programación docente y de materiales didácticos que atiendan a las distintas necesidades de los alumnos y las alumnas, y del profesorado, bajo los principios del Diseño Universal para el Aprendizaje.
+
+4. Asimismo, la Consejería competente en materia de educación posibilitará que los centros establezcan medidas de flexibilización en la organización de las áreas, las enseñanzas, los espacios y los tiempos, y que promuevan alternativas metodológicas, a fin de personalizar y mejorar la capacidad de aprendizaje y los resultados de todo el alumnado.
+
+5. Los centros fijarán la concreción de los currículos y las medidas de atención a la diversidad establecidas por la Administración educativa, y la incorporarán a su proyecto educativo, adaptándolas a las características del alumnado y a su realidad educativa, con el fin de atender a todos los niños y las niñas. Asimismo, arbitrarán métodos que tengan en cuenta los diferentes ritmos y estilos de aprendizaje del alumnado, favorezcan la capacidad de aprender por sí mismos y fomenten el trabajo colaborativo y en equipo. Dicha concreción impulsará y desarrollará, además, los principios, los objetivos y la metodología propios de un aprendizaje competencial orientado al ejercicio de una ciudadanía activa.
+
+6. Igualmente, los centros promoverán compromisos educativos con las familias, las personas que ostentan la patria potestad, los tutores o las tutoras legales, o las personas guardadoras, de su alumnado, en los que se consignen las actividades que los integrantes de la comunidad educativa se comprometen a desarrollar para facilitar el progreso educativo del alumnado.
+
+7. Para garantizar la continuidad del proceso de formación y una transición y evolución positivas desde la Educación Infantil a la Educación Primaria, y desde esta a la Educación Secundaria Obligatoria, la Administración educativa y los centros establecerán mecanismos para favorecer la coordinación entre las diferentes etapas.
+
+8. Los órganos de coordinación didáctica de los centros docentes públicos tendrán autonomía para elegir los materiales curriculares que hayan de usarse en cada ciclo y área de la etapa. En todo caso, estos deberán adaptarse al rigor científico adecuado a las edades del alumnado y al currículo de la Comunidad Autónoma de Canarias. Los materiales educativos utilizados en el centro deben partir de supuestos no discriminatorios para las mujeres, reconociendo el igual valor de hombres y mujeres, y fomentando el respeto en la igualdad de derechos y obligaciones.
+
+
+#### Artículo 19.- Documentos e informes de evaluación.
+
+1. En la Educación Primaria, los documentos oficiales de evaluación son las actas de evaluación, el expediente académico, el historial académico, el informe de final de etapa y, en su caso, el informe personal por traslado.
+
+2. La Consejería competente en materia de educación establecerá los procedimientos oportunos para garantizar la autenticidad de los documentos oficiales de evaluación, la integridad de los datos recogidos en los mismos y su supervisión y custodia.
+
+3. Los documentos oficiales de evaluación serán visados por el director o la directora del centro, y llevarán las firmas de las personas que correspondan en cada caso. Junto a las mismas constará el nombre y los apellidos de la persona firmante, así como la referencia al cargo o a la atribución docente.
+
+4. El historial académico y, en su caso, el informe personal por traslado se consideran documentos básicos para garantizar la movilidad del alumnado por todo el territorio nacional.
+
+5. La Consejería competente en materia de educación establecerá las características de los informes finales de ciclo y etapa, a los que se refieren los apartados 5 y 6 del artículo 11.
+
+6. Los documentos oficiales de evaluación deberán ajustarse siempre a la norma de la Consejería competente en materia de educación que establece el currículo correspondiente.
+
+
+#### Artículo 20.- Actas de evaluación.
+
+1. Las actas de evaluación se extenderán para cada uno de los cursos y se cerrarán al término del periodo lectivo ordinario. Comprenderán, al menos, la relación nominal del alumnado que compone el grupo, junto con los resultados de la evaluación de las áreas y las decisiones sobre promoción y permanencia; el grado de desarrollo y adquisición de las competencias; así como las áreas que hayan sido objeto de adaptación curricular.
+
+2. Los resultados de la evaluación se expresarán en los términos siguientes: “Insuficiente (IN)”, para las calificaciones negativas y “Suficiente (SU)”, “Bien (BI)”, “Notable (NT)”, o “Sobresaliente (SB)”, para las calificaciones positivas.
+
+3. En el caso de los ámbitos que integren distintas áreas, el resultado de la evaluación se expresará mediante una única calificación, sin perjuicio de los procedimientos que puedan establecerse para mantener informados de su evolución en las diferentes áreas al alumnado y a sus padres, madres, tutores o tutoras legales, o personas guardadoras.
+
+4. Las actas de evaluación serán firmadas por el tutor o la tutora del grupo, y llevarán el visto bueno de la persona titular de la dirección del centro.
+
+
+#### Artículo 21.- Expediente académico.
+
+1. El expediente académico recogerá, junto con los datos de identificación del centro, los del alumno o la alumna, así como la información relativa a su proceso de evaluación. Se abrirá en el momento de incorporación al centro y recogerá, al menos, los resultados de la evaluación de las áreas, el grado de desarrollo y adquisición de las competencias, las decisiones de promoción de etapa, las medidas de apoyo educativo y las adaptaciones curriculares que se hayan adoptado para el alumno o la alumna. Asimismo, se indicarán las áreas que se han cursado dentro de un programa de fomento del bilingüismo.
+
+2. En el caso de que existan áreas que hayan sido cursadas de forma integrada en un ámbito, en el expediente figurará, junto con la denominación de dicho ámbito, la indicación expresa de las áreas integradas en el mismo.
+
+3. La custodia y el archivo de los expedientes académicos corresponde a los centros docentes donde se hayan realizado los estudios de las enseñanzas correspondientes, y la Inspección de Educación velará por su cumplimiento.
+
+
+#### Artículo 22.- Historial académico.
+
+1. El historial académico llevará el visto bueno del director o la directora, y tendrá valor acreditativo de los estudios realizados. Como mínimo recogerá los datos identificativos del alumno o la alumna, las áreas cursadas en cada uno de los años de escolarización, las medidas curriculares y organizativas aplicadas, los resultados de la evaluación, y del grado de desarrollo y adquisición de las competencias, las decisiones sobre promoción y permanencia, la información relativa a los cambios de centro y las fechas en que se han producido los diferentes hitos. Deberá figurar, asimismo, la indicación de las áreas que se han cursado con adaptaciones curriculares o con adaptación curricular significativa.
+
+2. Con objeto de garantizar la movilidad del alumnado, cuando varias áreas hayan sido cursadas integradas en un ámbito, se hará constar en el historial la calificación obtenida en cada una de ellas. Esta calificación será la misma que figure en el expediente para el ámbito correspondiente.
+
+3. Tras finalizar la etapa, el historial académico de la Educación Primaria se entregará a los padres, las madres, los tutores o las tutoras legales, del alumnado. Igualmente, se enviará una copia del historial académico y del informe de final de etapa al centro de Educación Secundaria en el que vaya a proseguir sus estudios el alumno o la alumna, previa petición de dicho centro.
+
+
+#### Artículo 23.- Informe personal por traslado.
+
+1. En caso de traslado antes de finalizar la etapa, el centro de origen deberá remitir al de destino, y a petición de este, el informe personal por traslado, junto a una copia del historial académico. El centro receptor abrirá el correspondiente expediente académico. La matriculación adquirirá carácter definitivo una vez recibida la copia del historial académico.
+
+2. El informe personal por traslado contendrá los resultados de las evaluaciones que se hubieran realizado, la aplicación, en su caso, de medidas curriculares y organizativas, y todas aquellas observaciones que se consideren oportunas acerca del progreso general del alumno o de la alumna.
+
+
+#### Artículo 24.- Autenticidad, seguridad y confidencialidad.
+
+1. La Consejería competente en materia de educación establecerá los procedimientos oportunos para garantizar la autenticidad de los documentos oficiales de evaluación, la integridad de los datos recogidos en los mismos y su supervisión y custodia, así como su conservación y traslado en caso de supresión o extinción del centro.
+
+2. En lo referente a la obtención de los datos personales del alumnado, a la cesión de los mismos de unos centros a otros y a la seguridad y confidencialidad de estos, se estará a lo dispuesto en la legislación vigente en materia de protección de datos de carácter personal y, en todo caso, a lo establecido en la disposición adicional vigésima tercera de la Ley Orgánica 2/2006.
+
+3. La cumplimentación, el archivo y la custodia de los expedientes académicos del alumnado corresponde a los centros escolares, y corresponde a la Inspección Educativa velar por su cumplimiento.
+
+4. Los documentos oficiales de evaluación y sus procedimientos de validación, descritos en los apartados anteriores, podrán ser sustituidos por sus equivalentes realizados por medios electrónicos, informáticos o telemáticos, siempre que queden garantizadas su autenticidad, integridad y, conservación, y se cumplan las garantías y los requisitos establecidos por la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de derechos digitales, y por la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, así como por la normativa que las desarrolla.
+
+5. El expediente electrónico del alumnado estará constituido, al menos, por los datos contenidos en los documentos oficiales de evaluación, y cumplirá con lo establecido en el Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica.
+
+
+### Disposición adicional primera.- Enseñanzas de religión.
+
+1. Las enseñanzas de religión se incluirán en la Educación Primaria de acuerdo con lo establecido en la disposición adicional segunda de la Ley Orgánica 2/2006, o normativa que la sustituya.
+
+2. La Consejería competente en materia de educación garantizará que, al inicio del curso, las madres, los padres, las tutoras o los tutores del alumnado puedan manifestar su voluntad de que este reciba o no enseñanzas de religión.
+
+3. Las enseñanzas de religión respetarán los derechos de todo el alumnado y de sus padres, madres, tutores o tutoras legales. En ningún caso puede suponer discriminación alguna el recibir o no dichas enseñanzas.
+
+4. Los centros docentes dispondrán las medidas organizativas para que los alumnos y las alumnas cuyas madres, padres, tutoras o tutores legales, o personas guardadoras no hayan optado por que cursen enseñanzas de religión reciban la debida atención educativa. Esta atención se planificará y programará por los centros, de modo que se dirijan al desarrollo de las competencias clave a través de la realización de proyectos significativos para el alumnado y de la resolución colaborativa de problemas, reforzando la autoestima, la autonomía, la reflexión y la responsabilidad. En todo caso, las actividades propuestas irán dirigidas a reforzar los aspectos más transversales del currículo, favoreciendo la interdisciplinariedad y la conexión entre los diferentes saberes.
+
+5. Las actividades a las que se refiere el apartado anterior en ningún caso comportarán el aprendizaje de contenidos curriculares asociados al conocimiento del hecho religioso ni a cualquier área de la etapa.
+
+6. La determinación del currículo de la enseñanza de religión católica y de las diferentes confesiones religiosas con las que el Estado ha suscrito acuerdos de cooperación en materia educativa será competencia, respectivamente, de la jerarquía eclesiástica y de las correspondientes autoridades religiosas. La publicación de dicho currículo corresponde al Ministerio competente en materia de educación no universitaria.
+
+7. La evaluación de la enseñanza de la religión católica se realizará en los mismos términos y con los mismos efectos que la de las otras áreas de la Educación Primaria. La evaluación de la enseñanza de las diferentes confesiones religiosas se ajustará a lo establecido en los acuerdos de cooperación suscritos por el Estado.
+
+8. Con el fin de garantizar el principio de igualdad y la libre concurrencia entre todo el alumnado, las calificaciones que se hubieran obtenido en la evaluación de las enseñanzas de religión no se computarán en las convocatorias en las que deban entrar en concurrencia los expedientes académicos.
+
+
+### Disposición adicional segunda.- Centros incompletos.
+
+La Consejería competente en materia de educación desarrollará criterios específicos para la adecuación de lo establecido en este Decreto a los centros incompletos, entendiéndose como tales aquellos en los que no se puede garantizar la existencia de un grupo completo en todos los niveles de la etapa.
+
+
+### Disposición transitoria única.- Aplicabilidad del Decreto 89/2014.
+
+1. Las enseñanzas reguladas de acuerdo con el Decreto 89/2014, de 1 de agosto, por el que se establece la ordenación y el currículo de la Educación Primaria en la Comunidad Autónoma de Canarias, serán de aplicación en los cursos segundo, cuarto y sexto de la Educación Primaria, durante el curso académico 2022-2023.
+
+2. Durante el curso académico 2022-2023, los estándares de aprendizaje evaluables que figuran en los anexos al citado Decreto 89/2014 tienen carácter meramente orientativo para los cursos de la Educación Primaria a que se refiere el apartado 1.
+
+
+### Disposición derogatoria única.- Derogación de normativa.
+
+1. Queda derogado el Decreto 89/2014, de 1 de agosto, por el que se establece la ordenación y el currículo de la Educación Primaria en la Comunidad Autónoma de Canarias, sin perjuicio de lo establecido en la disposición transitoria única.
+
+2. Quedan derogadas las disposiciones de igual o inferior rango en cuanto se opongan a lo dispuesto en este Decreto.
+
+
+### Disposición final primera.- Habilitación para el desarrollo.
+
+Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas disposiciones sean precisas en desarrollo y aplicación de lo dispuesto en el presente Decreto.
+
+
+### Disposición final segunda.- Calendario de implantación.
+
+La implantación de lo dispuesto en este Decreto se realizará para los cursos primero, tercero y quinto, en el curso escolar 2022-2023; y para los cursos segundo, cuarto y sexto, en el curso 2023-2024.
+
+
+### Disposición final tercera.- Entrada en vigor.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de Canarias.
+
+Dado en Canarias, a 10 de noviembre de 2022.
+
+EL PRESIDENTE
+DEL GOBIERNO,
+Ángel Víctor Torres Pérez.
+
+LA CONSEJERA DE EDUCACIÓN,
+UNIVERSIDADES, CULTURA Y DEPORTES,
+Manuela de Armas Rodríguez.
+
+
+## ANEXO 1
+
+
+### Perfil de salida del alumnado al término de la enseñanza básica
+
+El Perfil de salida del alumnado al término de la enseñanza básica es la herramienta en la que se concretan los principios y los fines del sistema educativo español referidos a dicho periodo. El Perfil identifica y define, en conexión con los retos del siglo XXI, las competencias clave que se espera que los alumnos y alumnas hayan desarrollado al completar esta fase de su itinerario formativo.
+
+El Perfil de salida es único y el mismo para todo el territorio nacional. Es la piedra angular de todo el currículo, la matriz que cohesiona y hacia donde convergen los objetivos de las distintas etapas que constituyen la enseñanza básica. Se concibe, por tanto, como el elemento que debe fundamentar las decisiones curriculares, así como las estrategias y las orientaciones metodológicas en la práctica lectiva. Debe ser, además, el fundamento del aprendizaje permanente y el referente de la evaluación interna y externa de los aprendizajes del alumnado, en particular en lo relativo a la toma de decisiones sobre promoción entre los distintos cursos, así como a la obtención del título de Graduado en Educación Secundaria Obligatoria.
+
+El Perfil de salida parte de una visión a la vez estructural y funcional de las competencias clave, cuya adquisición por parte del alumnado se considera indispensable para su desarrollo personal, para resolver situaciones y problemas de los distintos ámbitos de su vida, para crear nuevas oportunidades de mejora, así como para lograr la continuidad de su itinerario formativo y facilitar y desarrollar su inserción y participación activa en la sociedad y en el cuidado de las personas, del entorno natural y del planeta. Se garantiza así la consecución del doble objetivo de formación personal y de socialización previsto para la enseñanza básica en el artículo 4.4 de la LOE, con el fin de dotar a cada alumno o alumna de las herramientas imprescindibles para que desarrolle un proyecto de vida personal, social y profesional satisfactorio. Dicho proyecto se constituye como el elemento articulador de los diversos aprendizajes que le permitirán afrontar con éxito los desafíos y los retos a los que habrá de enfrentarse para llevarlo a cabo.
+
+El referente de partida para definir las competencias recogidas en el Perfil de salida ha sido la Recomendación del Consejo de la Unión Europea, de 22 de mayo de 2018, relativa a las competencias clave para el aprendizaje permanente. El anclaje del Perfil de salida a la Recomendación del Consejo refuerza el compromiso del sistema educativo español con el objetivo de adoptar unas referencias comunes que fortalezcan la cohesión entre los sistemas educativos de la Unión Europea y faciliten que sus ciudadanos y ciudadanas, si así lo consideran, puedan estudiar y trabajar a lo largo de su vida tanto en su propio país como en otros países de su entorno.
+
+En el Perfil, las competencias clave de la Recomendación europea se han vinculado con los principales retos y desafíos globales del siglo XXI a los que el alumnado va a verse confrontado y ante los que necesitará desplegar esas mismas competencias clave. Del mismo modo, se han incorporado también los retos recogidos en el documento Key Drivers of Curricula Change in the 21st Century de la Oficina Internacional de Educación de la UNESCO, así como los Objetivos de Desarrollo Sostenible de la Agenda 2030 adoptada por la Asamblea General de las Naciones Unidas en septiembre de 2015.
+
+La vinculación entre competencias clave y retos del siglo XXI es la que dará sentido a los aprendizajes, al acercar la escuela a situaciones, cuestiones y problemas reales de la vida cotidiana, lo que, a su vez, proporcionará el necesario punto de apoyo para favorecer situaciones de aprendizaje significativas y relevantes, tanto para el alumnado como para el personal docente. Se quiere garantizar que todo alumno o alumna que supere con éxito la enseñanza básica y, por tanto, alcance el Perfil de salida sepa activar los aprendizajes adquiridos para responder a los principales desafíos a los que deberá hacer frente a lo largo de su vida:
+
+- Desarrollar una actitud responsable a partir de la toma de conciencia de la degradación del medioambiente y del maltrato animal basada en el conocimiento de las causas que los provocan, agravan o mejoran, desde una visión sistémica, tanto local como global.
+
+- Identificar los diferentes aspectos relacionados con el consumo responsable, valorando sus repercusiones sobre el bien individual y el común, juzgando críticamente las necesidades y los excesos y ejerciendo un control social frente a la vulneración de sus derechos.
+
+- Desarrollar estilos de vida saludable a partir de la comprensión del funcionamiento del organismo y la reflexión crítica sobre los factores internos y externos que inciden en ella, asumiendo la responsabilidad personal y social en el cuidado propio y en el cuidado de las demás personas, así como en la promoción de la salud pública.
+
+- Desarrollar un espíritu crítico, empático y proactivo para detectar situaciones de inequidad y exclusión a partir de la comprensión de las causas complejas que las originan.
+
+- Entender los conflictos como elementos connaturales a la vida en sociedad que deben resolverse de manera pacífica.
+
+- Analizar de manera crítica y aprovechar las oportunidades de todo tipo que ofrece la sociedad actual, en particular las de la cultura en la era digital, evaluando sus beneficios y riesgos y haciendo un uso ético y responsable que contribuya a la mejora de la calidad de vida personal y colectiva.
+
+- Aceptar la incertidumbre como una oportunidad para articular respuestas más creativas, aprendiendo a manejar la ansiedad que puede llevar aparejada.
+
+- Cooperar y convivir en sociedades abiertas y cambiantes, valorando la diversidad personal y cultural como fuente de riqueza e interesándose por otras lenguas y culturas.
+
+- Sentirse parte de un proyecto colectivo, tanto en el ámbito local como en el global, desarrollando empatía y generosidad.
+
+- Desarrollar las habilidades que le permitan seguir aprendiendo a lo largo de la vida, desde la confianza en el conocimiento como motor del desarrollo y la valoración crítica de los riesgos y beneficios de este último.
+
+La respuesta a estos y otros desafíos -entre los que existe una absoluta interdependencia- necesita de los conocimientos, destrezas y actitudes que subyacen a las competencias clave y son abordados en las distintas áreas, ámbitos y materias que componen el currículo. Estos contenidos disciplinares son imprescindibles, porque sin ellos el alumnado no entendería lo que ocurre a su alrededor y, por tanto, no podría valorar críticamente la situación ni, mucho menos, responder adecuadamente. Lo esencial de la integración de los retos en el Perfil de salida radica en que añaden una exigencia de actuación, la cual conecta con el enfoque competencial del currículo: la meta no es la mera adquisición de contenidos, sino aprender a utilizarlos para solucionar necesidades presentes en la realidad.
+
+Estos desafíos implican adoptar una posición ética exigente, ya que suponen articular la búsqueda legítima del bienestar personal respetando el bien común. Requieren, además, trascender la mirada local para analizar y comprometerse también con los problemas globales. Todo ello exige, por una parte, una mente compleja, capaz de pensar en términos sistémicos, abiertos y con un alto nivel de incertidumbre, y, por otra, la capacidad de empatizar con aspectos relevantes, aunque no nos afecten de manera directa, lo que implica asumir los valores de justicia social, equidad y democracia, así como desarrollar un espíritu crítico y proactivo hacia las situaciones de injusticia, inequidad y exclusión.
+
+Competencias clave que se deben adquirir
+
+Las competencias clave que se recogen en el Perfil de salida son la adaptación al sistema educativo español de las competencias clave establecidas en la citada Recomendación del Consejo de la Unión Europea. Esta adaptación responde a la necesidad de vincular dichas competencias con los retos y desafíos del siglo XXI, con los principios y fines del sistema educativo establecidos en la LOE y con el contexto escolar, ya que la Recomendación se refiere al aprendizaje permanente que debe producirse a lo largo de toda la vida, mientras que el Perfil remite a un momento preciso y limitado del desarrollo personal, social y formativo del alumnado: la etapa de la enseñanza básica.
+
+Con carácter general, debe entenderse que la consecución de las competencias y los objetivos previstos en la LOMLOE para las distintas etapas educativas está vinculada a la adquisición y al desarrollo de las competencias clave recogidas en este Perfil de salida, y que son las siguientes:
+
+- Competencia en comunicación lingüística (CCL).
+
+- Competencia plurilingüe (CP).
+
+- Competencia matemática y competencia en ciencia, tecnología e ingeniería (STEM).
+
+- Competencia digital (CD).
+
+- Competencia personal, social y de aprender a aprender (CPSAA).
+
+- Competencia ciudadana (CC).
+
+- Competencia emprendedora (CE).
+
+- Competencia en conciencia y expresión culturales (CCEC).
+
+La transversalidad es una condición inherente al Perfil de salida, en el sentido de que todos los aprendizajes contribuyen a su consecución. De la misma manera, la adquisición de cada una de las competencias clave contribuye a la adquisición de todas las demás. No existe jerarquía entre ellas, ni puede establecerse una correspondencia exclusiva con una única área, ámbito o materia, sino que todas se concretan en los aprendizajes de las distintas áreas, ámbitos o materias y, a su vez, se adquieren y desarrollan a partir de los aprendizajes que se producen en el conjunto de las mismas.
+
+Descriptores operativos de las competencias clave en la enseñanza básica
+
+En cuanto a la dimensión aplicada de las competencias clave, se ha definido para cada una de ellas un conjunto de descriptores operativos, partiendo de los diferentes marcos europeos de referencia existentes.
+
+Los descriptores operativos de las competencias clave constituyen, junto con los objetivos de la etapa, el marco referencial a partir del cual se concretan las competencias específicas de cada área, ámbito o materia. Esta vinculación entre descriptores operativos y competencias específicas propicia que de la evaluación de estas últimas pueda colegirse el grado de adquisición de las competencias clave definidas en el Perfil de salida y, por tanto, la consecución de las competencias y objetivos previstos para la etapa.
+
+Dado que las competencias se adquieren necesariamente de forma secuencial y progresiva, se incluyen también en el Perfil los descriptores operativos que orientan sobre el nivel de desempeño esperado al completar la Educación Primaria, favoreciendo y explicitando así la continuidad, la coherencia y la cohesión entre las dos etapas que componen la enseñanza obligatoria.
+
+Competencia en comunicación lingüística (CCL)
+
+La competencia en comunicación lingüística supone interactuar de forma oral, escrita, signada o multimodal de manera coherente y adecuada en diferentes ámbitos y contextos y con diferentes propósitos comunicativos. Implica movilizar, de manera consciente, el conjunto de conocimientos, destrezas y actitudes que permiten comprender, interpretar y valorar críticamente mensajes orales, escritos, signados o multimodales evitando los riesgos de manipulación y desinformación, así como comunicarse eficazmente con otras personas de manera cooperativa, creativa, ética y respetuosa.
+
+La competencia en comunicación lingüística constituye la base para el pensamiento propio y para la construcción del conocimiento en todos los ámbitos del saber. Por ello, su desarrollo está vinculado a la reflexión explícita acerca del funcionamiento de la lengua en los géneros discursivos específicos de cada área de conocimiento, así como a los usos de la oralidad, la escritura o la signación para pensar y para aprender. Por último, hace posible apreciar la dimensión estética del lenguaje y disfrutar de la cultura literaria.
+
+Descriptores operativos
+
+Ver anexo en las páginas 45541-45542 del documento
+                        Descargar
+
+Competencia plurilingüe (CP)
+
+La competencia plurilingüe implica utilizar distintas lenguas, orales o signadas, de forma apropiada y eficaz para el aprendizaje y la comunicación. Esta competencia supone reconocer y respetar los perfiles lingüísticos individuales y aprovechar las experiencias propias para desarrollar estrategias que permitan mediar y hacer transferencias entre lenguas, incluidas las clásicas, y, en su caso, mantener y adquirir destrezas en la lengua o lenguas familiares y en las lenguas oficiales. Integra, asimismo, dimensiones históricas e interculturales orientadas a conocer, valorar y respetar la diversidad lingüística y cultural de la sociedad con el objetivo de fomentar la convivencia democrático.
+
+Descriptores operativos
+
+Ver anexo en la página 45542 del documento
+                        Descargar
+
+Competencia matemática y competencia en ciencia, tecnología
+e ingeniería (STEM)
+
+La competencia matemática y competencia en ciencia, tecnología e ingeniería (competencia STEM por sus siglas en inglés) entraña la comprensión del mundo utilizando los métodos científicos, el pensamiento y representación matemáticos, la tecnología y los métodos de la ingeniería para transformar el entorno de forma comprometida, responsable y sostenible. La competencia matemática permite desarrollar y aplicar la perspectiva y el razonamiento matemáticos con el fin de resolver diversos problemas en diferentes contextos. La competencia en ciencia conlleva la comprensión y explicación del entorno natural y social, utilizando un conjunto de conocimientos y metodologías, incluidas la observación y la experimentación, con el fin de plantear preguntas y extraer conclusiones basadas en pruebas para poder interpretar y transformar el mundo natural y el contexto social. La competencia en tecnología e ingeniería comprende la aplicación de los conocimientos y metodologías propios de las ciencias para transformar nuestra sociedad de acuerdo con las necesidades o deseos de las personas en un marco de seguridad, responsabilidad y sostenibilidad.
+
+Descriptores operativos
+
+Ver anexo en la página 45543 del documento
+                        Descargar
+
+Competencia digital (CD)
+
+La competencia digital implica el uso seguro, saludable, sostenible, crítico y responsable de las tecnologías digitales para el aprendizaje, para el trabajo y para la participación en la sociedad, así como la interacción con estas. Incluye la alfabetización en información y datos, la comunicación y la colaboración, la educación mediática, la creación de contenidos digitales (incluida la programación), la seguridad (incluido el bienestar digital y las competencias relacionadas con la ciberseguridad), asuntos relacionados con la ciudadanía digital, la privacidad, la propiedad intelectual, la resolución de problemas y el pensamiento computacional y crítico.
+
+Descriptores operativos
+
+Ver anexo en la página 45544 del documento
+                        Descargar
+
+Competencia personal, social y de aprender a aprender (CPSAA)
+
+La competencia personal, social y de aprender a aprender implica la capacidad de reflexionar sobre uno mismo para autoconocerse, aceptarse y promover un crecimiento personal constante; gestionar el tiempo y la información eficazmente; colaborar con otros de forma constructiva; mantener la resiliencia; y gestionar el aprendizaje a lo largo de la vida. Incluye también la capacidad de hacer frente a la incertidumbre y a la complejidad; adaptarse a los cambios; aprender a gestionar los procesos metacognitivos; identificar conductas contrarias a la convivencia y desarrollar estrategias para abordarlas; contribuir al bienestar físico, mental y emocional propio y de las demás personas, desarrollando habilidades para cuidarse a sí mismo y a quienes lo rodean a través de la corresponsabilidad; ser capaz de llevar una vida orientada al futuro; así como expresar empatía y abordar los conflictos en un contexto integrador y de apoyo.
+
+Descriptores operativos
+
+Ver anexo en la página 45545 del documento
+                        Descargar
+
+Competencia ciudadana (CC)
+
+La competencia ciudadana contribuye a que alumnos y alumnas puedan ejercer una ciudadanía responsable y participar plenamente en la vida social y cívica, basándose en la comprensión de los conceptos y las estructuras sociales, económicas, jurídicas y políticas, así como en el conocimiento de los acontecimientos mundiales y el compromiso activo con la sostenibilidad y el logro de una ciudadanía mundial. Incluye la alfabetización cívica, la adopción consciente de los valores propios de una cultura democrática fundada en el respeto a los derechos humanos, la reflexión crítica acerca de los grandes problemas éticos de nuestro tiempo y el desarrollo de un estilo de vida sostenible acorde con los Objetivos de Desarrollo Sostenible planteados en la Agenda 2030.
+
+Descriptores operativos
+
+Ver anexo en la página 45546 del documento
+                        Descargar
+
+Competencia emprendedora (CE)
+
+La competencia emprendedora implica desarrollar un enfoque vital dirigido a actuar sobre oportunidades e ideas, utilizando los conocimientos específicos necesarios para generar resultados de valor para otras personas. Aporta estrategias que permiten adaptar la mirada para detectar necesidades y oportunidades; entrenar el pensamiento para analizar y evaluar el entorno, y crear y replantear ideas utilizando la imaginación, la creatividad, el pensamiento estratégico y la reflexión ética, crítica y constructiva dentro de los procesos creativos y de innovación; y despertar la disposición a aprender, a arriesgar y a afrontar la incertidumbre. Asimismo, implica tomar decisiones basadas en la información y el conocimiento y colaborar de manera ágil con otras personas, con motivación, empatía y habilidades de comunicación y de negociación, para llevar las ideas planteadas a la acción mediante la planificación y gestión de proyectos sostenibles de valor social,cultural y económico-financiero.
+
+Descriptores operativos
+
+Ver anexo en las páginas 45546-45547 del documento
+                        Descargar
+
+Competencia en conciencia y expresión culturales (CCEC)
+
+La competencia en conciencia y expresión culturales supone comprender y respetar el modo en que las ideas, las opiniones, los sentimientos y las emociones se expresan y se comunican de forma creativa en distintas culturas y por medio de una amplia gama de manifestaciones artísticas y culturales. Implica también un compromiso con la comprensión, el desarrollo y la expresión de las ideas propias y del sentido del lugar que se ocupa o del papel que se desempeña en la sociedad. Asimismo, requiere la comprensión de la propia identidad en evolución y del patrimonio cultural en un mundo caracterizado por la diversidad, así como la toma de conciencia de que el arte y otras manifestaciones culturales pueden suponer una manera de mirar el mundo y de darle forma.
+
+Descriptores operativos
+
+Ver anexo en la página 45547 del documento
+                        Descargar
+
+
+## ANEXO 2
+
+
+### Conocimiento del medio natural, social y cultural
+
+Introducción.
+
+El área de Conocimiento del Medio Natural, Social y Cultural se concibe con el objetivo de que niñas y niños lleguen a ser personas activas, responsables y respetuosas con el mundo en el que viven, y puedan transformarlo, de acuerdo con principios éticos y sostenibles, fundados en valores democráticos. Es importante, en esta etapa, estimular la curiosidad, la percepción, la observación y la experimentación, partiendo del reconocimiento del valor del patrimonio natural, social y cultural canario, para interpretar e integrar la realidad con criterios científicos, que les permitan ver el mundo, dar sentido a lo que en él acontece y establecer propuestas que mejoren el cuidado y la protección de las personas y del planeta. Los retos del mundo actual requieren que el alumnado, a través de este área, se inicie en el pensamiento científico y en técnicas propias del desarrollo de proyectos de diseño y del pensamiento computacional, a través de la realización de proyectos interdisciplinares cooperativos, haciendo uso de entornos de aprendizaje digitales, en los que pueda aportar soluciones creativas e innovadoras, con valor ecosocial y que permitan el desarrollo de una identidad cultural, personal y colectiva. Desde esta óptica, proporcionar una base científica sólida y bien estructurada al alumnado lo ayudará a comprender el mundo y lo animará a cuidarlo, respetarlo y valorarlo, propiciando el camino hacia una transición ecológica justa, reconociendo, adoptando y promoviendo estilos de vida saludables y sostenibles.
+
+El devenir del tiempo y la interpretación de la acción humana como responsable del cambio implican que el alumnado tenga que adoptar un conocimiento personal y del entorno que lo rodea, desde una perspectiva sistémica, para construir un mundo más justo, solidario, igualitario y sostenible. Esto supone reconocer la diversidad como riqueza o la resolución pacífica de conflictos, conocer y apreciar los valores y las normas de convivencia, aprender a obrar de acuerdo con ellas de forma empática, desarrollando no solo la comunicación sino el compromiso emocional y la aplicación crítica de los mecanismos democráticos de participación ciudadana, fundamentados en la Declaración Universal de los Derechos Humanos, en los derechos de la infancia, en los principios constitucionales, en los valores del europeísmo y en el compromiso cívico y social. El currículo del área promueve la adquisición de los Objetivos de Desarrollo Sostenible (ODS) y de las metas canarias que responden a los retos identificados en la Agenda Canaria de Desarrollo Sostenible 2030. Se persigue, por tanto, el empoderamiento del alumnado, que sea capaz de pasar a la acción, que pueda cooperar y proponer cambios para el bienestar de las generaciones presentes y futuras, por la sostenibilidad social, económica y medioambiental, centrándose en las personas, el planeta, la prosperidad, la paz, las alianzas y el desarrollo de la cultura.
+
+El área de Conocimiento del Medio Natural, Social y Cultural se presenta como una oportunidad para que el resto de disciplinas de la etapa se encuentren e interactúen, descubriendo las conexiones comunes y la riqueza de los aprendizajes compartidos. Para ello, se ha partido del Diseño Universal para el Aprendizaje (DUA), que permite crear contextos accesibles que no limiten las oportunidades para participar y aprender del alumnado, marcando el camino hacia una inclusión efectiva.
+
+Los saberes propios de Canarias se han incluido en el currículo del área desde un enfoque centrado en la educación patrimonial. Este enfoque presenta un carácter globalizador y transversal, y nace con la premisa de concienciar y sensibilizar al alumnado canario de la importancia del cuidado, disfrute y transmisión del patrimonio, pone el acento en la identificación y puesta en valor del mismo como parte inseparable de la sociedad, y apuesta por la implicación de la ciudadanía para lograr su sostenibilidad y la de los valores que en él perduran.
+
+De esta manera, a lo largo de la Educación Primaria, el alumnado se acerca de manera gradual a estos aprendizajes, propiciándose la inserción, en los currículos de las diferentes áreas de la etapa, de contextos de aprendizaje en torno al patrimonio cultural canario, que promuevan la participación de los niños y las niñas, para que lo conozcan, disfruten y valoren, contribuyendo así a su sensibilización, respeto y conservación.
+
+Contribución a los objetivos de etapa.
+
+El área de Conocimiento del Medio Natural, Social y Cultural contribuye fundamentalmente a las disciplinas de Ciencias de la Naturaleza, Ciencias Sociales, Geografía e Historia, y Cultura (h) mostrando particular interés por la Comunidad Autónoma de Canarias, destacando la necesidad de valorar, proteger y desarrollar actitudes de conservación y mejora del patrimonio, a través de propuestas y acciones en favor de la sostenibilidad, y adoptando comportamientos que favorezcan la empatía y el cuidado de los animales más próximos al ser humano (l). Todo ello contextualizado en propuestas metodológicas donde el alumnado tenga que buscar respuestas a retos o problemas del entorno físico, natural, social, cultural o tecnológico, haciendo uso del pensamiento científico, computacional y del diseño de proyectos.
+
+La puesta en marcha de proyectos cooperativos impulsan el desarrollo de hábitos de trabajo individual y de equipo, de esfuerzo y de responsabilidad, actitudes de confianza personal, sentido crítico, iniciativa, curiosidad, interés y creatividad en el aprendizaje, y espíritu emprendedor (b), que servirán, como práctica guiada por el profesorado, para que el alumnado pueda conocer y apreciar los valores y las normas de convivencia, y respetar el pluralismo propio de una sociedad democrática (a), preparándolo así para una ciudadanía activa y una conciencia ecosocial. De esta forma, se contribuye a desarrollar las competencias matemáticas básicas (g), así como las competencias comunicativas en la lengua castellana (e), comunicando, interactuando, haciendo uso del vocabulario científico, etc. Por otro lado, el desarrollo de la alfabetización cívica, que tendrá que ponerse en juego en estas prácticas de aula, es fundamental para la adquisición de habilidades para la resolución pacífica de conflictos (c), la prevención de la violencia o el rechazo a los prejuicios y los estereotipos sexistas (m).
+
+Por otro lado, el uso de la tecnología y de entornos digitales que se haga desde esta área debe incorporar prácticas que, además de despertar en el alumnado un espíritu crítico ante su funcionamiento (i), promuevan la reelaboración y creación de contenido digital, favoreciendo la utilización de diferentes representaciones y expresiones artísticas para comunicar, compartir y construir nuevos conocimientos (j). Solo partiendo de los retos del mundo actual el alumnado podrá conocer, comprender y respetar las diferentes culturas y las diferencias entre las personas, la igualdad de derechos y oportunidades de mujeres y hombres, y la no discriminación de las personas (d).
+
+Esta área, además, pretende promover actitudes que fomenten el bienestar físico, emocional y social, y que animen a adoptar estilos de vida saludables y sostenibles, de manera que se promueva la valoración de la higiene y la salud, del propio cuerpo y del de otras personas; el respeto de las diferencias y la utilización del ejercicio físico y la alimentación como medios para favorecer el desarrollo personal y social (k), sentando las bases para una vida adulta saludable; o la participación en el entorno y la vida social, tomando conciencia de la importancia de una movilidad segura y sostenible, fomentando la educación vial (n).
+
+Contribución a las competencias clave.
+
+La propuesta curricular del área tiene un marcado carácter competencial y se ha desarrollado conforme a los descriptores operativos establecidos en el Perfil de salida del alumnado al término de la enseñanza básica, concretado para la Educación Primaria, que identifica el grado de desarrollo y adquisición de las competencias clave para todo el alumnado que finaliza esta etapa.
+
+El área de Conocimiento del Medio Natural, Social y Cultural contribuye al desarrollo de la Competencia en comunicación lingüística (CCL), al utilizar el alumnado la lengua para comunicar e interactuar, comprender, interpretar y valorar críticamente el mundo que le rodea, haciendo uso, además, del vocabulario científico básico. Se impulsa la conversación, el debate y la exposición, como herramientas claves que permiten estimular las ideas, opinar sobre ellas, compararlas, analizarlas, consensuarlas y reconstruirlas, a partir de los datos recogidos de la observación, la experiencia, la planificación de un proyecto, la realización de experimentos... Se propician situaciones donde el alumnado formula preguntas, recoge e interpreta datos, comunica resultados y elabora informes, estableciendo nuevas relaciones entre los conceptos, nuevas preguntas y la búsqueda de nuevos datos, en un ambiente que anime a la convivencia democrática y la gestión dialogada de los conflictos, para favorecer la utilización, no solo eficaz sino también ética, de los diferentes sistemas de comunicación, contribuyendo, además, a la toma de conciencia del alumnado en torno al español de Canarias como variedad de prestigio, adecuada a todas las situaciones comunicativas.
+
+Asimismo, la contribución del área a la Competencia plurilingüe (CP) parte de las dimensiones históricas e interculturales, orientadas a conocer, valorar y respetar la diversidad, lingüística y cultural, de la sociedad, especialmente en Canarias, reconociéndolas como oportunidad para ejercitar el diálogo y la convivencia democrática. Todo ello a partir del análisis de procesos geográficos, históricos y culturales, que ayuden al alumnado a entender cómo se ha conformado la sociedad actual.
+
+Con este área, se contribuye, de forma directa, a la Competencia matemática y competencia en ciencia, tecnología e ingeniería (STEM), a través de la apropiación de conceptos que permiten interpretar el mundo físico, utilizando, de manera guiada, algunos métodos inductivos y deductivos, propios del razonamiento matemático, y mediante el acercamiento experiencial a determinados rasgos característicos del pensamiento científico: saber definir problemas, estimar soluciones posibles, elaborar estrategias, diseñar pequeñas investigaciones, analizar resultados y comunicarlos. La resolución de problemas a través de proyectos de diseño y de la aplicación del pensamiento computacional permite al alumnado la fabricación y evaluación de diferentes prototipos o modelos, adaptándose a la incertidumbre, para generar en equipo un producto creativo con un objetivo concreto.
+
+El uso seguro, saludable, sostenible, crítico y responsable de las tecnologías digitales para el aprendizaje, para el trabajo y para la participación en la sociedad, así como la interacción con estas, facilita el desarrollo de la Competencia digital (CD). Desde el área, se promueve la alfabetización en información y datos, la comunicación y la colaboración, la educación mediática, la reelaboración y creación de contenidos digitales, el desarrollo de proyectos de diseño y del pensamiento computacional a través de la iniciación en la programación, la seguridad, la ciudadanía digital, la privacidad, la propiedad intelectual, la resolución de problemas y el pensamiento crítico.
+
+A través del área se contribuye al desarrollo de la Competencia personal, social y de aprender a aprender (CPSAA), al aplicar estrategias cooperativas en las diferentes investigaciones, retos y proyectos que lleva a cabo el alumnado, favoreciendo que reconozca el valor del esfuerzo y la dedicación personal para la mejora de su aprendizaje, que adopte posturas críticas en procesos de reflexión guiados, que planee objetivos a corto plazo y que utilice estrategias de aprendizaje autorregulado. Además, al participar activamente en el trabajo grupal, se propician procesos de auto y coevaluación, reconociendo y respetando las emociones y experiencias de las demás personas, las responsabilidades individuales asignadas y la consecución de objetivos compartidos, al tiempo que se promueve la adopción de estilos de vida saludables para su bienestar físico, mental y emocional.
+
+La Competencia ciudadana (CC) se refleja en el área al contribuir a que el alumnado pueda ejercer una ciudadanía responsable, al participar en la vida social y cívica, aplicando las principales normas, derechos, deberes y libertades; y al aproximarse a la función que el Estado y sus instituciones desempeñan en el mantenimiento de la paz, la seguridad integral ciudadana y el reconocimiento de las víctimas de violencia, mejorando la convivencia y contribuyendo al bienestar individual y colectivo. Además, se fomentan y propician los estilos de vida sostenibles con el planeta, analizando de manera crítica las consecuencias de la intervención humana en el entorno, desde los puntos de vista social, económico, cultural, tecnológico y ambiental; así como participando en proyectos que ayuden a conseguir los ODS y las metas canarias que responden a los retos de nuestra Comunidad Autónoma.
+
+La Competencia emprendedora (CE) implica desarrollar un enfoque vital orientado a la transformación de su entorno próximo, a través de experimentos sencillos, prototipos o modelos, que ayuden al alumnado a entender algunos de los fenómenos que ocurren a su alrededor; elaborando y poniendo en práctica proyectos sostenibles y de valor social y cultural sobre la salud (física, mental y social), el medioambiente (el cambio climático, el desarrollo sostenible, la ciudad como espacio de convivencia, la economía verde…), los seres vivos, etc. Todo ello poniendo en juego la imaginación, la creatividad, el pensamiento científico y la reflexión ética, crítica y constructiva.
+
+La aportación del área a la Competencia en conciencia y expresión culturales (CCEC) se visibiliza a través del reconocimiento y aprecio de expresiones artísticas y culturales medievales, modernas y contemporáneas, además de la valoración de elementos fundamentales del patrimonio social, histórico y cultural (material e inmaterial), con especial atención al del archipiélago canario, visibilizando la aportación de las mujeres y de las minorías étnicas, así como la necesidad de su cuidado y conservación, tanto a escala local, nacional como europea.
+
+Bloques competenciales.
+
+El bloque competencial es el eje del currículo de cada área: integra la enunciación de las competencias específicas, su vinculación con los descriptores operativos del Perfil de salida, los criterios de evaluación y la explicación del bloque competencial.
+
+Las competencias específicas, que tienen carácter finalista, constituyen un elemento de conexión entre las competencias clave y los saberes propios del área. En cuanto a los criterios de evaluación, estos constituyen los referentes que indican el nivel de desempeño a alcanzar por el alumnado. Se establece, además, la contribución de cada criterio a los descriptores del Perfil de salida, de manera que se facilita la evaluación conjunta de los aprendizajes propios del área y del grado de desarrollo y adquisición de las competencias en el alumnado.
+
+En lo relativo a las explicaciones de los bloques competenciales, estas integran los aprendizajes recogidos en la totalidad del bloque, orientan sobre el proceso de desarrollo y adquisición tanto de las competencias específicas como de las competencias clave; y ofrecen, además, indicaciones metodológicas -siempre con una perspectiva abierta, flexible e inclusiva- para el diseño y la implementación de situaciones de aprendizaje competenciales. Es por ello que las explicaciones de los bloques competenciales se constituyen como un elemento orientador clave para el diseño de las situaciones de aprendizaje que concretan las unidades de programación de la programación didáctica.
+
+Competencias específicas y criterios de evaluación.
+
+En el currículo de Conocimiento del Medio se han establecido nueve competencias específicas que se concretan en un total de veinticuatro criterios de evaluación. Estos criterios de evaluación presentan una naturaleza competencial, de manera que se relacionan directamente con los descriptores operativos del Perfil de salida a los que contribuye la competencia específica, expresando tanto las capacidades y los saberes a adquirir como el contexto y modo de aplicación de dichos aspectos.
+
+La enunciación de la competencia específica se recoge en el bloque competencial correspondiente. A continuación se ofrece una explicación de cada una de ellas.
+
+Competencia específica 1 (C1).
+
+Con esta competencia, el alumnado desarrollará la educación digital como herramienta fundamental para mejorar el aprendizaje del futuro. En la actualidad, se hace necesario introducir el concepto de digitalización del entorno personal de aprendizaje, entendido como el conjunto de dispositivos y recursos digitales que cada alumna o alumno utiliza, de acuerdo con sus necesidades de aprendizaje, y que le permiten realizar las tareas de forma sostenible, generando experiencias de aprendizaje individuales y cooperativas, motivadoras, ricas y personalizadas, adaptadas a los desafíos y retos del mundo actual.
+
+Los dos criterios de evaluación integrados en este bloque aspiran a que el alumnado, de forma progresiva a lo largo de la etapa, utilice los dispositivos y recursos digitales de forma segura, responsable y eficiente para desenvolverse en un ambiente digital; y aprenda a reelaborar y crear contenidos digitales sencillos, a través de los cuales pueda comunicar, compartir y construir nuevos conocimientos relacionados con el medio natural, social y cultural, partiendo siempre de su entorno cercano, Canarias, para integrar y comprender el mundo.
+
+Competencia específica 2 (C2).
+
+Con el desarrollo de esta competencia, se parte de la curiosidad del alumnado como principal objetivo en la enseñanza del área. Esta será la base para observar, participar, indagar, deducir, explorar y comprender el mundo que lo rodea. Para ello, es necesario contextualizar las actividades en el entorno más próximo, aprovechando para acercar al alumnado al conocimiento de las ciencias en Canarias, de forma que sea capaz de aplicar lo aprendido en diferentes contextos y situaciones.
+
+A través de los aprendizajes descritos en los cinco criterios de evaluación de este bloque competencial, el alumnado profundizará, a lo largo de la etapa, en el uso del pensamiento científico, partiendo de la formulación de preguntas y predicciones sobre cuestiones científicas sencillas del medio natural, social o cultural; buscando, seleccionando y, por último, contrastando información en sus investigaciones; participando en experimentos en los que utilice de forma segura las herramientas, los instrumentos y dispositivos apropiados; registrando los resultados obtenidos de forma cada vez más autónoma; proponiendo respuestas y soluciones a las preguntas planteadas inicialmente, para comunicar los resultados de las investigaciones en diferentes formatos.
+
+Competencia específica 3 (C3).
+
+Esta competencia se centra en la elaboración de proyectos basados en actividades cooperativas, lo que supone el desarrollo coordinado, conjunto e interdisciplinar de los saberes básicos de las diferentes áreas, para dar respuesta a un reto o problema del entorno, utilizando técnicas propias del desarrollo de proyectos de diseño y del pensamiento computacional. La detección de necesidades, el diseño, la creación y la prueba de prototipos, así como la evaluación de los resultados son fases esenciales del desarrollo de proyectos de diseño para la obtención de un producto final con valor ecosocial. Por otro lado, el pensamiento computacional utiliza la descomposición de un problema en partes más sencillas, el reconocimiento de patrones, la realización de modelos, la selección de la información relevante y la creación de algoritmos, para automatizar procesos de la vida cotidiana. Ambas estrategias no son excluyentes, por lo que pueden ser utilizadas de forma conjunta, de acuerdo con las necesidades del proyecto.
+
+Con el desarrollo de los criterios de evaluación de este bloque (tres en el primer y segundo ciclo, y cuatro en el tercero) se pretende que el alumnado desarrolle la creatividad y la innovación, que constate que pueden existir múltiples soluciones y que estas, adecuadas o no, suponen una oportunidad para enriquecer la propuesta inicial, el prototipo o la solución digital, máxime cuando se hace en equipo y la diversidad se convierte en un valor. El alumnado dará respuesta, de forma guiada y a través de un producto final sencillo, a problemas cercanos; y ya en los cursos finales de la etapa deberá ser el mismo el que plantee cooperativamente dichos problemas.
+
+Competencia específica 4 (C4).
+
+Con esta competencia, se pretende que el alumnado tome conciencia de su propio cuerpo desde edades tempranas, para conocerlo y controlarlo, para respetar las diversidades corporales, así como para mejorar la ejecución de los movimientos y su relación con el entorno, teniendo siempre en consideración, además, que el cuerpo es una vía de expresión de los sentimientos y las emociones. Para conseguir que el alumnado sea emocionalmente competente, se iniciará primero en la conciencia emocional, para distinguir y reconocer las experiencias emocionales propias y ajenas, pensando y sintiendo sobre ellas. Por medio de la regulación emocional, el alumnado será capaz de decidir sobre su experiencia emocional a través del control y la modulación de esta. Por último, al adquirir vinculación emocional, el alumnado podrá establecer relaciones emocionales ajustadas y satisfactorias, que promuevan su realización social.
+
+El conocimiento científico que adquiere el alumnado sobre el cuerpo humano y los riesgos para la salud a lo largo de su escolaridad debe vincularse con acciones de prevención, mediante el desarrollo de hábitos, estilos y comportamientos de vida saludables. Esto, unido a la educación afectivo-sexual, adaptada a su nivel madurativo, son elementos imprescindibles para el crecimiento, el desarrollo y el bienestar de una persona sana en todas sus dimensiones.
+
+A través de los aprendizajes descritos en los dos criterios de evaluación que concretan este bloque competencial, el alumnado aprenderá, de forma progresiva, a identificar las emociones propias y ajenas, a mostrar empatía y a establecer y promover actitudes que fomenten estilos de vida saludables, desde el bienestar físico, emocional y social. Para ello, participarán en acciones fundamentadas científicamente para preservar la salud, centradas en la alimentación variada, equilibrada y sostenible; la higiene y el cuidado del cuerpo; el ejercicio físico; el contacto con la naturaleza y el uso adecuado de las tecnologías.
+
+Competencia específica 5 (C5).
+
+Esta competencia (C5) persigue que el alumnado no solo conozca los diferentes elementos del medio que lo rodea, de manera rigurosa y sistémica; sino que establezca relaciones entre los mismos y que comprenda, respete, valore y proteja el medio natural, social y cultural, desde la perspectiva del espacio y del tiempo, para adquirir un conocimiento científico conectado, que movilizará en las investigaciones o los proyectos que realice.
+
+Los tres criterios de evaluación integrados en este bloque pretenden que el alumnado pueda reconocer, identificar y, por último, analizar a lo largo de la etapa, los elementos del medio natural, social y cultural, a través de la indagación y del pensamiento científico, reconociendo, identificando y estableciendo conexiones sencillas entre ellos, para adoptar y proponer acciones que contribuyan a su conservación y mejora.
+
+El desarrollo de esta competencia implica contextualizar los aprendizajes al entorno cercano del alumnado, reconociendo y valorando las singularidades de Canarias para generar actitudes en pro de la preservación de la identidad cultural y del patrimonio natural y de biodiversidad de las islas, como legado cultural que recibimos del pasado, que vivimos en el presente y que transmitiremos a las generaciones futuras.
+
+Competencia específica 6 (C6).
+
+Con el desarrollo de esta competencia, se pretende que el alumnado sea capaz de aproximarse, de manera progresivamente más crítica y reflexiva, a cuestiones relativas al mundo actual: la interacción del ser humano con su entorno, el aprovechamiento y consumo acelerado de los bienes comunes, el establecimiento de un modelo energético basado en los combustibles fósiles y la falta de conciencia de los límites de la biosfera. El modelo de sociedad actual requiere dotar al alumnado de herramientas que faciliten su empoderamiento como agente de cambio ecosocial, desde una perspectiva emprendedora y cooperativa, con una visión de integridad ambiental, de manera que comprenda y valore las causas y los efectos del cambio climático; de viabilidad socioeconómica, a partir de la identificación de las relaciones de interdependencia y ecodependencia y de consecución de una sociedad justa para las generaciones presentes y futuras, centrada en modelos de relación y convivencia empáticos, cooperativos y respetuosos.
+
+A través de los aprendizajes descritos en los dos criterios de evaluación que forman este bloque, el alumnado aprenderá a poner en práctica, promover y valorar, a lo largo de la etapa, estilos de vida sostenibles, basados en los cuidados a las personas y al planeta.
+
+Competencia específica 7 (C7).
+
+Esta competencia aspira a que el alumnado adquiera aprendizajes relativos a los rasgos de las distintas sociedades a lo largo del tiempo y al papel que mujeres y hombres han desempeñado en las mismas, como protagonistas individuales y colectivos de la historia, para que el alumnado pueda relacionar las diferentes épocas e identificar las acciones y los hechos más destacados en cada una de ellas. Los elementos y las manifestaciones culturales de cada sociedad son la expresión de complejas relaciones económicas, sociales y políticas, así como de los valores, las creencias y las ideas que las sustentan, pero también de sus múltiples identidades, del talento de sus integrantes y de las relaciones con otras culturas. Se persigue que el alumnado adopte posturas críticas, de manera constructiva, dialogante e inclusiva, sobre la contribución del pasado en la configuración del presente y, por ende, sobre las repercusiones del presente en el futuro.
+
+Con el desarrollo de los dos criterios de evaluación de este bloque, se aspira a que el alumnado sea capaz, a lo largo de la etapa, de ordenar, localizar, seleccionar y analizar hechos del entorno social y cultural canario, en el primer ciclo; desde la Prehistoria hasta la Edad Antigua, en el segundo; y desde la Edad Media hasta la actualidad, en el tercer ciclo. Además, se pretende que reconozca personas y grupos sociales, así como formas del pasado, visibilizando las aportaciones y representaciones de las mujeres en cada una de ellas. Esta competencia permite, además, que el alumnado pueda conocer la sociedad indígena canaria, su modo de vida y los desafíos de la colonización de las islas.
+
+Competencia específica 8 (C8).
+
+Esta competencia parte de la idea de que la diversidad es un rasgo característico de las sociedades contemporáneas, que plantea retos para la vida en democracia. La interconexión mundial, los procesos de integración, como el de la Unión Europea y los movimientos migratorios, conectan con esta realidad múltiple y diversa, que es necesario afrontar desde los principios de igualdad, de respeto a los derechos humanos y de la infancia, y desde los valores del europeísmo, para prevenir prejuicios y actitudes discriminatorias, y para favorecer la inclusión y la cohesión social. Se pretende, además, que el alumnado conozca la cultura popular canaria para comprender las particularidades culturales que caracterizan a la sociedad canaria: los valores, símbolos, comportamientos y convicciones que la distinguen, potenciando su reconocimiento como resultado de un proceso de diálogo constante entre lo local y lo foráneo, entre lo tradicional y lo vanguardista, en un contexto multicultural y globalizado, de respeto a la gran variedad de culturas que conviven en nuestras islas y que aportan riqueza a nuestra propia cultura. En el seno de la sociedad nos encontramos, además, con otros tipos de diversidades asociadas a la etnicidad, el género, la edad, las creencias, la identidad, la orientación sexual o la situación funcional de las personas, que precisan de actitudes basadas en el respeto y la inclusión.
+
+Los dos criterios de evaluación integrados en este bloque permiten que el alumnado pueda valorar la riqueza de la diversidad cultural y la cohesión social, en su propio entorno, en el primer ciclo; a través del análisis de la importancia demográfica, cultural y económica de las migraciones y su reflejo en Canarias, en el segundo ciclo; y mediante el análisis de los procesos geográficos, históricos y culturales que han conformado la sociedad actual, en el tercer ciclo. Por otra parte, participar en actividades comunitarias y reconocer modelos positivos que fomenten la igualdad efectiva entre mujeres y hombres constituye un aprendizaje para toda la etapa.
+
+Competencia específica 9 (C9).
+
+Con el desarrollo de esta competencia, se pretende que el alumnado pueda comprender la organización y el funcionamiento de la sociedad en su territorio, y de valorar el papel de las administraciones en la garantía de los servicios públicos como eje fundamental para la educación ciudadana.
+
+Los criterios de evaluación del bloque (tres en el primer y segundo ciclo, y dos en el tercero) se centran en el desarrollo de la cultura de paz y de la cultura democrática en el alumnado, a través del establecimiento de acuerdos dialogados en los que se emplee un lenguaje inclusivo y no violento; y ponen el acento en una progresiva integración de los saberes, a lo largo de la etapa, en torno a la organización de las instituciones cercanas, el funcionamiento de los órganos de gobierno y las principales normas, derechos, deberes y libertades, para el mantenimiento de la paz, la seguridad integral ciudadana y el reconocimiento de las víctimas de violencia. Durante el primer y segundo ciclo, además, se promoverá el conocimiento y la interiorización de las normas básicas para la convivencia en el uso de los espacios públicos, como peatones o como personas usuarias de los medios de locomoción, así como la conciencia de la movilidad segura, saludable y sostenible, tanto para las personas como para el planeta.
+
+Saberes básicos.
+
+Los saberes básicos del área aparecen integrados tanto en los criterios de evaluación como en las explicaciones de los bloques competenciales. No obstante, quedan establecidos, organizados y secuenciados, a continuación de los mismos.
+
+Los saberes propios del área de Conocimiento del Medio Natural, Social y Cultural se estructuran en tres bloques, que deberán aplicarse en diferentes contextos reales, partiendo del local, el territorio y la sociedad Canaria; para llegar al global y alcanzar el logro de las competencias específicas del área. En cada bloque, se han contextualizado los saberes referidos a Canarias con el objetivo de que el alumnado aprenda desde su experiencia inmediata, de que conozca y valore el patrimonio, con especial atención a los aspectos de la riqueza y diversidad natural del archipiélago, y de que muestre actitudes de interés por su conocimiento, conservación, divulgación y mejora.
+
+Se mantiene la misma secuencia de bloques y apartados de los saberes, en cada ciclo, para que el alumnado vaya profundizando en su aprendizaje a lo largo de la etapa, de forma gradual.
+
+La programación y secuenciación de los saberes ha de adecuarse a los diferentes proyectos, investigaciones, retos o problemas en los que el alumnado va a poner en práctica dichos aprendizajes. De igual forma, hay saberes que tienen una vinculación más estrecha con un determinado bloque competencial y otros que podrán vincularse a varios, en función de la finalidad de los aprendizajes a desarrollar, la situación de aprendizaje, el reto o la necesidad que se va a afrontar, siendo el profesorado, desde su autonomía docente, quien podrá justificar la elección de aquellos que se estimen más adecuados para implementar los aprendizajes establecidos en cada uno de los bloques competenciales.
+
+El Bloque I, “Cultura científica”, abarca la iniciación en la actividad científica, la vida en nuestro planeta y, por último, la materia, las fuerzas y la energía. A través de la investigación, se desarrollan destrezas y estrategias propias del pensamiento científico, partiendo de la curiosidad, la utilización de instrumentos y dispositivos para realizar observaciones y mediciones, del acercamiento al vocabulario científico, del conocimiento de la ciencia en Canarias, así como de las profesiones relacionadas con la misma, evitando estereotipos sexistas, y del conocimiento de la aportación histórica de las mujeres en este campo. El conocimiento científico permite la identificación de los estilos de vida sostenibles y saludables relacionados con el bienestar físico, emocional y social, para cuidar la vida en el planeta. Los saberes propios de este bloque permitirán, además, que el alumnado conozca y valore la biodiversidad del archipiélago canario, su origen volcánico y el desarrollo de un modelo de isla sostenible en Canarias.
+
+Este bloque de saberes se vincula principalmente con los bloques competenciales 2, 4 y 5.
+
+Los saberes relacionados con el Bloque II, “Tecnología y digitalización”, se encaminan a la adquisición de estrategias y conocimientos que permitan la digitalización del entorno personal de aprendizaje del alumnado, para comunicarse de forma efectiva y desenvolverse en un ambiente digital de forma responsable, segura y crítica. Esto incluye la integración del uso de dispositivos y recursos digitales, y la creación y reelaboración de contenido digital sencillo, según las necesidades del contexto educativo, la participación en plataformas digitales y el bienestar digital físico y mental. Este bloque incluye saberes novedosos que requiere el alumnado para resolver problemas actuales como la iniciación a las fases de los proyectos de diseño para generar cooperativamente un producto creativo e innovador, que responda a necesidades concretas, y la iniciación en la programación a través de recursos analógicos o digitales.
+
+Este bloque de saberes se vincula principalmente con los bloques competenciales 1 y 3.
+
+El Bloque III, “Sociedades y territorios”, integra los saberes relacionados con los retos del mundo actual, las sociedades en el tiempo, la alfabetización cívica y la conciencia social. Se recogen los saberes necesarios para que el alumnado identifique y aporte soluciones a los retos que emanan de los ODS, para promover los estilos de vida sostenibles, la cultura de paz y democracia, integrando la diversidad como un valor añadido así como la inclusión y la igualdad de oportunidades entre mujeres y hombres. Se desarrollan, además, aprendizajes que permiten elaborar una interpretación personal del mundo utilizando el pensamiento histórico y las relaciones de causalidad, simultaneidad y sucesión, como medios para entender la evolución de las sociedades a lo largo del tiempo y del espacio, prestando especial interés a la sociedad indígena canaria y a la cultura popular del archipiélago, en un contexto multicultural y globalizado.
+
+Este bloque de saberes se vincula principalmente con los bloques competenciales 6, 7, 8 y 9.
+
+Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos.
+
+Las competencias específicas explicitan desempeños que el alumnado debe poder llevar a cabo en situaciones de aprendizaje para cuyo abordaje se requieran los saberes básicos de cada área, dentro de un marco de atención inclusiva a las diferencias individuales y a las singularidades y necesidades de cada alumno o alumna. La implementación del currículo del área implica, por tanto, la definición, por parte del profesorado, de estas situaciones de aprendizaje contextualizadas.
+
+El modelo pedagógico canario se nutre de una premisa crucial: la necesaria integración de la evaluación en el proceso de planificación y diseño de estas situaciones de aprendizaje, para asegurar una evaluación competencial del alumnado. Es necesario, por tanto, que el profesorado utilice variedad de instrumentos, técnicas y herramientas de evaluación, en diferentes contextos, con soportes y formatos diversos, que permitan que el alumnado pueda demostrar lo que sabe, lo que siente y piensa, lo que puede hacer…, atendiéndose así, de manera inclusiva, a la diversidad del alumnado, a su ritmo de aprendizaje y a su forma de aprender.
+
+El área de Conocimiento del Medio Natural, Social y Cultural aspira a que el alumnado sea capaz de identificar, conocer, divulgar, valorar, cuidar y fomentar, el uso y disfrute del patrimonio histórico, natural, social y cultural de Canarias. El profesorado, por tanto, se convierte en una pieza clave en el diseño de las situaciones de aprendizaje, convirtiendo el patrimonio de Canarias en un recurso didáctico que sea soporte indispensable para la enseñanza integral del área, desde un enfoque inclusivo, transversal, visible e interdisciplinar, partiendo del conocimiento cercano del alumnado para alcanzar los aprendizajes globales a través de ellos.
+
+Desde el área se promueve la elaboración de proyectos basados en actividades cooperativas que suponen el desarrollo coordinado, conjunto e interdisciplinar de los saberes básicos de las diferentes áreas, para dar respuesta a un reto o problema del entorno físico, natural, social, cultural o tecnológico, utilizando el pensamiento científico, las técnicas propias del desarrollo de proyectos de diseño y del pensamiento computacional. La realización de este tipo de proyectos fomenta, además, la creatividad y la innovación, al generar situaciones de aprendizaje donde no existe una única solución correcta, sino que toda decisión, errónea o acertada, se presenta como una oportunidad para obtener información válida, que ayudará a elaborar una mejor solución y aportar propuestas creativas e innovadoras, a través del desarrollo de un prototipo final con valor ecosocial. El profesorado podrá tomar como propuestas para el diseño de las situaciones de aprendizaje los ODS y los retos de nuestra Comunidad Autónoma.
+
+Las situaciones de aprendizaje se planificarán a partir de diseños flexibles desde el principio, que presenten opciones personalizables para el progreso de todo el alumnado; y con diversidad de escenarios que favorezcan variedad en los tipos de agrupamientos, permitiendo que el alumnado vaya asumiendo responsabilidades personales progresivamente y actúe de forma cooperativa en la resolución creativa del reto planteado. Su puesta en práctica debe implicar la toma de decisiones compartidas, la gestión de los conflictos de forma dialogada, la corresponsabilidad, el desarrollo de las experiencias emocionales del alumnado y la gestión competente de ellas.
+
+La adquisición de las competencias específicas propias de esta área requieren que el profesorado incluya estrategias metodológicas activas e innovadoras, que permitan la observación, la experimentación, la creatividad, el intercambio comunicativo, la motivación, la participación e inclusión de todo el alumnado, y la supresión de barreras para el aprendizaje. Para ello, podrán integrar el aprendizaje cooperativo, el aprendizaje servicio, el aprendizaje basado en proyectos o en problemas, el aprendizaje basado en juegos, la gamificación, las estaciones de aprendizaje, estrategias de pensamiento visual, el aprendizaje basado en el pensamiento, la tutoría entre iguales, etc.
+
+En consonancia, el profesorado tendrá que aplicar diversidad de modelos de enseñanza acordes a los requerimientos de los aprendizajes y las actividades diseñadas, como la indagación científica, la investigación guiada y la grupal, el inductivo, el deductivo, el juego de roles, etc., teniendo presente que el rol docente debe servir de guía en el proceso de aprendizaje. Para el desempeño en esta área será necesaria, además, una adecuada competencia digital docente. El profesorado podrá, además, servir de modelo para que el alumnado observe, en su día a día, un uso sostenible y saludable de los recursos del aula y del centro, y para que aprenda a adoptar estilos de vida que permitan no solo el cuidado del planeta sino de las personas y los seres vivos que le rodean.
+
+Las actividades y los recursos que se integren en las diferentes situaciones de aprendizaje deberán proporcionar múltiples formas de implicación del alumnado, de representación de la información y de acción y expresión, para que todo el alumnado pueda mostrar los aprendizajes y competencias adquiridas, tal como promueve el Diseño Universal para el Aprendizaje (DUA).
+
+A la hora de diseñar las situaciones de aprendizaje, se hace necesario garantizar tres pilares básicos que conforman un trinomio indivisible para la transformación digital de los centros y la modernización de la educación en Canarias: pedagogía, tecnología y espacios inspiradores, donde cada elemento solo tiene sentido por su conjunción con el resto. En el área de Conocimiento del Medio Natural, Social y Cultural se precisa combinar diversas estrategias metodológicas, integrar recursos analógicos y digitales accesibles, de forma crítica, segura y sostenible en espacios creativos e inspiradores, donde el alumnado pueda investigar, interactuar, intercambiar, desarrollar, crear y presentar, siendo el principal protagonista de su proceso de aprendizaje. Para ello, será fundamental que el alumnado pueda experimentar y aprender en espacios abiertos, que fomenten su curiosidad y la observación analítica, para construir su posición personal ante la realidad; una posición que debe considerarse potencialmente transformadora de la realidad social existente, rompiendo las barreras del aula para abrir el aprendizaje al entorno, cobrando especial importancia la inclusión de actividades complementarias que proporcionen contextos reales de aprendizaje y que fomenten la puesta en práctica de acciones sostenibles y saludables. Será fundamental, también, la apertura a la participación de las familias y de otros agentes comunitarios.
+
+Primer ciclo Educación Primaria
+
+Bloques competenciales
+
+Ver anexo en las páginas 45560-45568 del documento
+                        Descargar
+
+Saberes básicos.
+
+I. Cultura científica.
+
+1. Iniciación en la actividad científica.
+
+1.1. Iniciación a los procedimientos de indagación adecuados a las necesidades de la investigación (observación en el tiempo, identificación y clasificación, búsqueda de patrones…).
+
+1.2. Fomento de la curiosidad y la iniciativa en la realización de las diferentes investigaciones, a partir de estrategias cooperativas contextualizadas en el medio natural, social y cultural de Canarias.
+
+1.3. Iniciación a la utilización de instrumentos y dispositivos apropiados para realizar observaciones y mediciones guiadas, de acuerdo con las necesidades de las diferentes investigaciones.
+
+1.4. Acercamiento al vocabulario científico básico relacionado con las diferentes investigaciones para comunicar conocimientos que permitan una aproximación a la ciencia en Canarias.
+
+1.5. Reconocimiento de las profesiones relacionadas con la ciencia y la tecnología, especialmente las que se desempeñan en el archipiélago canario, evitando estereotipos sexistas y promocionando las vocaciones STEAM en las niñas.
+
+2. La vida en nuestro planeta.
+
+2.1. Identificación de las necesidades básicas de los seres vivos, incluido el ser humano, y de las diferencias con los objetos inertes.
+
+2.2. Identificación de las adaptaciones de los seres vivos, incluido el ser humano, a su hábitat, concebido como el lugar en el que cubren sus necesidades.
+
+2.3. Clasificación e identificación de los seres vivos, incluido el ser humano, de acuerdo con sus características observables, para reconocer y representar la diversidad corporal humana, y de las especies animales y vegetales más representativas de la biodiversidad del archipiélago canario.
+
+2.4. Reconocimiento de las relaciones entre los seres humanos, los animales y las plantas.
+
+2.5. Promoción del cuidado y respeto a los seres vivos y al entorno en el que viven, evitando la degradación del suelo, el aire o el agua en nuestras islas.
+
+2.6. Reconocimiento de estilos de vida saludables relacionados con el bienestar físico del ser humano: alimentación variada, equilibrada y sostenible, higiene, ejercicio físico, contacto con la naturaleza, descanso y cuidado del cuerpo, como medios para prevenir posibles enfermedades, y uso adecuado de las tecnologías.
+
+2.7. Reconocimiento de estilos de vida saludables relacionados con el bienestar emocional y social: desarrollo de la conciencia emocional (percepción, reconocimiento y comprensión emocional de alegría, tristeza, miedo, enfado, asco y sorpresa), la regulación emocional (autocontrol impulsivo y ajuste afectivo) y la vinculación emocional (empatía). Sensibilidad y aceptación de la diversidad presente en el aula y en la sociedad desde un modelo inclusivo, que incluya la educación afectivo-sexual, adaptada al nivel madurativo del alumnado.
+
+3. Materia, fuerzas y energía.
+
+3.1. Identificación de la luz y del sonido. Valoración del uso responsable de las formas de energía necesarias para la vida cotidiana.
+
+3.2. Reconocimiento de las propiedades observables de los materiales, su procedencia y su uso en objetos de la vida cotidiana, de acuerdo con las necesidades de diseño para los que fueron fabricados.
+
+3.3. Reconocimiento de las sustancias puras y las mezclas, a través de la identificación de mezclas homogéneas y heterogéneas, y la separación de las mezclas heterogéneas mediante distintos métodos.
+
+3.4. Identificación de estructuras resistentes, estables y útiles.
+
+II. Tecnología y digitalización.
+
+1. Digitalización del entorno personal de aprendizaje.
+
+1.1. Iniciación al uso adecuado de dispositivos y recursos del entorno digital de aprendizaje, de acuerdo con las necesidades del contexto educativo.
+
+1.2. Iniciación pautada en el uso de estrategias de búsqueda guiada de información segura en internet (localización, selección y organización). Reconocimiento de la autoría y respeto por la propiedad intelectual.
+
+1.3. Acercamiento a los recursos digitales para comunicarse con personas cercanas en entornos conocidos y seguros.
+
+1.4. Iniciación al conocimiento de las reglas básicas de seguridad y privacidad para navegar por internet.
+
+2. Proyectos de diseño y pensamiento computacional.
+
+2.1. Iniciación a las fases de los proyectos de diseño: prototipado, prueba y comunicación, para dar respuestas a retos sencillos y sostenibles.
+
+2.2. Exploración de materiales adecuados a la consecución de un proyecto de diseño.
+
+2.3. Iniciación a la programación a través de recursos analógicos o digitales adaptados al nivel lector del alumnado (actividades desenchufadas, plataformas digitales de iniciación en la programación, robótica educativa…).
+
+2.4. Desarrollo de estrategias básicas de trabajo en equipo.
+
+III. Sociedades y territorios.
+
+1. Retos del mundo actual.
+
+1.1. Identificación de la Tierra en el universo. Reconocimiento de elementos, movimientos y dinámicas relacionados con la Tierra y el universo, y sus consecuencias en la vida diaria y en el entorno. Valoración de las secuencias temporales y los cambios estacionales.
+
+1.2. El origen volcánico de nuestro archipiélago. Aproximación al vulcanismo en Canarias (elementos principales del volcán y medidas de seguridad básicas ante una erupción volcánica).
+
+1.3. Reconocimiento de la vida en la Tierra a través de la observación de fenómenos atmosféricos y su repercusión en los ciclos biológicos y en la vida diaria, y del registro de datos del tiempo atmosférico en Canarias.
+
+1.4. Resolución de retos sobre situaciones cotidianas: itinerarios y trayectos, desplazamientos y viajes, a través del reconocimiento de los medios de transportes marítimos y aéreos para conectar el archipiélago. Desarrollo de funciones básicas del pensamiento espacial y temporal para la interacción con el medio.
+
+2. Sociedades en el tiempo.
+
+2.1. Desarrollo de la percepción del tiempo por medio del reconocimiento y uso de la medida temporal en la vida cotidiana, en el ciclo vital y en las relaciones intergeneracionales.
+
+2.2. Uso de objetos y artefactos de la vida cotidiana como fuentes para reflexionar sobre el cambio y la continuidad, las causas y consecuencias.
+
+2.3. Iniciación al uso de recursos y medios analógicos y digitales, como fuentes de información, de mostrando interés por la importancia de las fuentes orales como memoria colectiva para reconocer la historia local, la biografía familiar, así como el papel de mujeres y hombres como sujetos de la historia.
+
+2.4. Identificación de las expresiones y producciones artísticas a través del tiempo, para reconocer y apreciar el patrimonio cultural canario (material e inmaterial), a través de la sensibilización hacia la conservación de las costumbres y manifestaciones culturales del entorno cercano.
+
+2.5. Reconocimiento de algunas de las principales características de los aborígenes canarios y su modo de vida.
+
+3. Alfabetización cívica.
+
+3.1. Reconocimiento de la vida en colectividad: pertenencia a la familia y aceptación de la diversidad familiar.
+
+3.2. Adquisición de compromisos, corresponsabilidad, participación y aceptación de normas en el entorno familiar, vecinal y escolar, para prevenir, gestionar y resolver los conflictos, favoreciendo la convivencia, la cultura de paz y no violencia, y la inclusión, y rechazando las actitudes discriminatorias.
+
+3.3. Reflexión sobre la vida en sociedad mediante el reconocimiento de los espacios, recursos y servicios del municipio, y la valoración de formas y modos de interacción social en espacios públicos inclusivos e igualitarios.
+
+3.4. Demostrar compresión de la identidad y la diversidad cultural, mediante el reconocimiento de la existencia de realidades diferentes y la aproximación a las distintas etnoculturas presentes en el entorno, y del hecho de que la cultura canaria es el resultado del mestizaje de nuestra herencia europea, indígena y africana.
+
+3.5. Reconocimiento de la cultura popular canaria: valores, símbolos, comportamiento y convicciones que caracterizan y distinguen a la sociedad canaria.
+
+3.6. Diferenciación entre ocupación y trabajo, e identificación de las principales actividades profesionales y laborales de mujeres y hombres en el entorno cercano.
+
+3.7. Reconocimiento de la importancia de la igualdad de oportunidades entre mujeres y hombres, y valoración de conductas no sexistas.
+
+3.8. Reconocimiento y aplicación de las normas básicas de seguridad vial en los desplazamientos como peatones o como personas usuarias de los medios de locomoción, entendiendo la ciudad como espacio de convivencia.
+
+4. Conciencia ecosocial.
+
+4.1. Reconocimiento e identificación de los efectos principales de la acción humana sobre el medio y sus consecuencias, especialmente en Canarias, diferenciando entre paisajes naturales y paisajes humanizados, y sus elementos.
+
+4.2. Fomento de la responsabilidad ecosocial a través de la participación en acciones para la conservación, la mejora y el uso sostenible de los bienes comunes.
+
+4.3. Rechazo del maltrato animal e identificación de acciones para su prevención.
+
+4.4. Identificación de estilos de vida sostenibles sobre el uso responsable del agua, la movilidad segura, saludable y sostenible, y la prevención y la gestión de los residuos, especialmente en Canarias.
+
+4.5. Importancia del cuidado del planeta a través del conocimiento científico presente en la vida cotidiana del municipio, de la isla, de la provincia o del archipiélago canario.
+
+Segundo ciclo Educación Primaria
+
+Bloques competenciales
+
+Ver anexo en las páginas 45573-45581 del documento
+                        Descargar
+
+Saberes básicos.
+
+I. Cultura científica.
+
+1. Iniciación en la actividad científica.
+
+1.1. Iniciación a la investigación científica (observación en el tiempo, identificación y clasificación, búsqueda de patrones, creación de modelos, investigación guiada a través de búsqueda de información, experimentos pautados con control de variables…).
+
+1.2. Fomento de la curiosidad, la iniciativa y la constancia en la realización de las diferentes investigaciones contextualizadas en el medio natural, social y cultural de Canarias, a partir de estrategias cooperativas.
+
+1.3. Manipulación de instrumentos, dispositivos y herramientas digitales apropiados para realizar observaciones y mediciones, de acuerdo con las necesidades de la investigación.
+
+1.4. Identificación de vocabulario científico básico relacionado con las diferentes investigaciones para comunicar y construir nuevos conocimientos, reconociendo la importancia de la ciencia en Canarias.
+
+1.5. Reconocimiento de los avances en el pasado relacionados con la ciencia y la tecnología que han contribuido a transformar nuestra sociedad, visibilizando la aportación histórica de las mujeres.
+
+1.6. Valoración del uso de la ciencia y la tecnología para ayudar a comprender las causas de las propias acciones, tomar decisiones razonadas y realizar tareas de forma más eficiente.
+
+2. La vida en nuestro planeta.
+
+2.1. Reconocimiento de los reinos de la naturaleza desde una perspectiva general e integrada, valorando la biodiversidad, a partir del estudio y análisis de las características de diferentes ecosistemas, sus funciones y servicios como lugar donde intervienen factores bióticos y abióticos, manteniéndose un equilibrio entre los diferentes elementos y recursos.
+
+2.2. Comprensión del carácter excepcional de la biodiversidad canaria: conceptos básicos (endemismo y autoctonismo) e introducción a los ecosistemas canarios (fondos rocosos, sebadal, matorral costero, termófilo, monteverde, jaral, pinar, matorral de cumbre...).
+
+2.3. Identificación de las características propias de los animales y de las plantas que permiten su clasificación y diferenciación en subgrupos relacionados con su capacidad adaptativa al medio: obtención de energía, relación con el entorno y perpetuación de la especie. Reconocimiento e identificación de las especies animales y vegetales más representativas de Canarias.
+
+2.4. Identificación de la relación del ser humano con los ecosistemas para cubrir las necesidades de la sociedad. Ejemplos de buenos y malos usos de los recursos naturales de nuestro planeta, especialmente en nuestro archipiélago canario, y sus consecuencias.
+
+2.5. Identificación de las formas de relieve más relevantes y clasificación elemental de las rocas. Reconocimiento de las particularidades geológicas de la formación de las islas Canarias con respecto a otros procesos geológico y de los volcanes principales de Canarias.
+
+2.6. Valoración del agua como elemento imprescindible para la vida: hidrosfera, aguas subterráneas, ciclo del agua, uso, formas de ahorro y consumo responsable, en especial en Canarias.
+
+2.7. Desarrollo de estilos de vida saludables relacionados con el bienestar físico del ser humano: alimentación variada, equilibrada y sostenible, higiene, ejercicio físico, contacto con la naturaleza, descanso y cuidado del cuerpo, uso adecuado de las tecnologías.
+
+2.8. Desarrollo de estilos de vida saludables relacionados con el bienestar emocional y social: conciencia emocional (percepción, reconocimiento y comprensión emocional de alegría, tristeza, miedo, enfado, asco, sorpresa, culpa y vergüenza), regulación emocional (autocontrol impulsivo, ajuste afectivo y responsabilidad emocional) y vinculación emocional (empatía y comunicación emocional). Relaciones afectivas saludables, cuidados de las personas, corresponsabilidad e inclusión a partir de la educación afectivo-sexual, adaptada a su nivel madurativo.
+
+3. Materia, fuerzas y energía.
+
+3.1. Reconocimiento del calor como mecanismo de transferencia de energía. Cambios de estado, materiales conductores y aislantes, instrumentos de medición y aplicaciones en la vida cotidiana, mediante sencillas experiencias.
+
+3.2. Observación de los cambios reversibles e irreversibles que experimenta la materia, desde un estado inicial a uno final, identificando los procesos y las transformaciones que experimenta en situaciones de la vida cotidiana.
+
+3.3. Reconocimiento de las fuerzas de contacto y a distancia, y sus efectos, mediante experimentos elementales.
+
+3.4. Reconocimiento de las propiedades de las máquinas simples, aplicaciones y usos en la vida cotidiana y su efecto sobre las fuerzas.
+
+II. Tecnología y digitalización.
+
+1. Digitalización del entorno personal de aprendizaje.
+
+1.1. Utilización de dispositivos y recursos del entorno digital de aprendizaje, de acuerdo con las necesidades del contexto educativo.
+
+1.2. Aplicación de las estrategias de búsquedas guiadas de información seguras y responsables en internet (valoración, discriminación, selección y organización). Reconocimiento de la autoría y respeto por la propiedad intelectual.
+
+1.3. Uso de reglas básicas de seguridad y privacidad para navegar por internet y para proteger el entorno digital personal de aprendizaje.
+
+1.4. Reconocimiento de recursos y participación en plataformas digitales restringidas y seguras, para comunicarse con otras personas y trabajar cooperativamente, haciendo uso de la etiqueta digital, de las reglas básicas de cortesía y respeto, y de estrategias para resolver problemas en la comunicación digital.
+
+1.5. Desarrollo de estrategias de actuación para fomentar el bienestar digital, físico y mental, a través del reconocimiento de los riesgos asociados a un uso inadecuado y poco seguro de las tecnologías digitales (tiempo excesivo de uso, ciberacoso, acceso a contenidos inadecuados, publicidad y correos no deseados, etc.).
+
+2. Proyectos de diseño y pensamiento computacional.
+
+2.1. Aplicación de las fases de los proyectos de diseño: diseño, prototipado, prueba y comunicación, para dar respuestas sostenibles a un reto o problema del entorno físico, natural, social, cultural o tecnológico.
+
+2.2. Utilización de herramientas, técnicas y materiales adecuados a la consecución de un proyecto de diseño.
+
+2.3. Iniciación a la programación a través de recursos analógicos (actividades desenchufadas) y digitales (plataformas digitales de iniciación en la programación, aplicaciones de programación por bloques, robótica educativa…).
+
+2.4. Desarrollo de técnicas cooperativas sencillas para el trabajo en equipo y estrategias para la gestión de conflictos y la promoción de conductas empáticas e inclusivas.
+
+III. Sociedades y territorios.
+
+1. Retos del mundo actual.
+
+1.1. Descripción de la Tierra y las catástrofes naturales: elementos, movimientos, (traslación, rotación y sus consecuencias), dinámicas que ocurren en el universo y su relación con fenómenos físicos que afectan a la Tierra y repercuten en la vida diaria y en el entorno. Reconocimiento de la formación de las islas Canarias, tipos de vulcanismo e impacto en la vida de las personas.
+
+1.2. Reconocimiento del espacio a partir de la representación de la Tierra a través del globo terráqueo, los mapas y otros recursos digitales, la interpretación de mapas y planos en distintas escalas y las técnicas de orientación mediante la observación de los elementos del medio físico, puntos cardinales y otros medios de localización espacial (GPS).
+
+1.3. Reconocimiento del clima y el paisaje, los fenómenos atmosféricos, la toma y registro de datos meteorológicos y su representación gráfica y visual, desde las tecnologías de la información geográfica (TIG). Identificación de los tipos de clima en España y en Canarias, relacionando las zonas climáticas con la diversidad de paisajes.
+
+1.4. Análisis de los principales problemas y retos demográficos mundiales y propios de la Comunidad Autónoma de Canarias, como la fragmentación del territorio por su carácter insular y las implicaciones del aislamiento del archipiélago. Reconocimiento de los factores que modifican la ocupación y distribución de la población en el espacio. Representación gráfica y cartográfica de la población. Reconocimiento de la organización del territorio en Canarias, en España y en Europa.
+
+1.5. Conciencia de la desigualdad social y diferencias de acceso a los recursos. Usos del espacio por el ser humano y reconocimiento de las actividades productivas y su evolución, con especial atención a los sectores productivos en Canarias. El valor, el control del dinero y los medios de pago, de la supervivencia a la sobreproducción.
+
+2. Sociedades en el tiempo.
+
+2.1. Adquisición de nociones básicas de tiempo histórico: temporales y cronología, mediante la ubicación temporal de las grandes etapas históricas.
+
+2.2. Clasificación y utilización de las distintas fuentes históricas (orales, escritas, patrimoniales y museísticas), como vía para el análisis de los cambios y las permanencias en la localidad a lo largo de la historia. Reconocimiento de las huellas de la historia en lugares, edificios, objetos, oficios o tradiciones del municipio, isla o archipiélago.
+
+2.3. Iniciación en la investigación y en los métodos de trabajo para la realización de proyectos, que analicen hechos, asuntos y temas de relevancia actual con perspectiva histórica, contextualizándolos en la época correspondiente (Prehistoria y Edad Antigua), como la supervivencia y la alimentación, la vivienda, los intercambios comerciales (de dónde viene el dinero, los trabajos no remunerados), la explotación de bienes comunes y recursos, o los avances técnicos.
+
+2.4. Valoración de la acción de mujeres y hombres, como sujetos de la historia. Interpretación del papel de las personas individuales y de los distintos grupos sociales: relaciones, conflictos, creencias y condicionantes en la Prehistoria y la Edad Antigua.
+
+2.5. Reconocimiento de las expresiones artísticas y culturales, en la Prehistoria y la Edad Antigua, su contextualización histórica y su función, visibilizando las aportaciones y la representación de las mujeres en ellas.
+
+2.6. Valoración del patrimonio cultural y del natural local, insular y estatal. Uso, cuidado y conservación de los espacios protegidos, culturales y naturales, reconociendo los Parques Nacionales de Canarias.
+
+3. Alfabetización cívica.
+
+3.1. Reconocimiento de las costumbres, tradiciones y manifestaciones etnoculturales del entorno; así como de la identidad cultural canaria, como resultado de un proceso de diálogo constante entre lo local y foráneo. Respeto por la diversidad y la cohesión social desde la promoción de la cultura de paz y no violencia.
+
+3.2. Identificación de la organización política y territorial de España, partiendo del reconocimiento de la misma en Canarias.
+
+3.3. Reconocimiento de la organización y el funcionamiento de la sociedad: las principales instituciones y entidades, la estructura administrativa y los servicios públicos que prestan en el entorno local, autonómico (los cabildos insulares como elemento intermedio entre los ayuntamientos y el gobierno autonómico) y nacional.
+
+3.4. Fomento de la igualdad de oportunidades entre mujeres y hombres, y de conductas no sexistas. Reconocimiento del valor de mujeres referentes en el contexto del patrimonio social, cultural e histórico canario, y de las mujeres rurales de Canarias.
+
+3.5. Conciencia de la seguridad vial, valorando la ciudad como espacio de convivencia inclusiva e igualitaria, a través de la adquisición de normas de circulación, la identificación de las señales y las marcas viales, y el desarrollo de la movilidad segura, saludable y sostenible como peatones o como personas usuarias de los medios de locomoción.
+
+4. Conciencia ecosocial.
+
+4.1. Introducción a las causas y consecuencias del cambio climático, y su impacto en los paisajes de la Tierra a nivel mundial y a nivel local en nuestro archipiélago. Medidas de mitigación y de adaptación.
+
+4.2. Fomento de la responsabilidad ecosocial: ecodependencia e interdependencia entre personas, sociedades y medio natural.
+
+4.3. Valoración de la transformación y la degradación de los ecosistemas naturales por la acción humana, y desarrollo de acciones para la conservación y protección de la naturaleza y la prevención del maltrato animal.
+
+4.4. Reconocimiento de estilos de vida sostenibles: el consumo y la producción responsables, la alimentación sostenible, el uso eficiente del agua y la energía, y la prevención y la gestión de los residuos en Canarias.
+
+Tercer ciclo Educación Primaria
+
+Bloques competenciales
+
+Ver anexo en las páginas 45587-45595 del documento
+                        Descargar
+
+Saberes básicos.
+
+I. Cultura científica.
+
+1. Iniciación a la actividad científica.
+
+1.1. Iniciación a la investigación científica (observación, formulación de preguntas y predicciones, diseño y realización de experimentos guiados, recogida y análisis de información y datos, comunicación de resultados…) para interpretar y explicar hechos y fenómenos que ocurren en el medio natural, social y cultural.
+
+1.2. Fomento de la curiosidad, la iniciativa, la constancia y el sentido de la responsabilidad en la realización de las diferentes investigaciones a partir de estrategias cooperativas.
+
+1.3. Utilización de instrumentos, dispositivos y herramientas digitales apropiados, para realizar observaciones y mediciones precisas de acuerdo con las necesidades de la investigación.
+
+1.4. Uso del vocabulario científico apropiado relacionado con las diferentes investigaciones para comunicar, compartir y construir nuevos conocimientos.
+
+1.5. Valoración de la ciencia, la tecnología y la ingeniería como actividades humanas: las profesiones STEM en la actualidad evitando estereotipos sexistas. Desarrollo de la ciencia en Canarias.
+
+1.6. Reconocimiento de la relación entre los avances en matemáticas, ciencia, ingeniería y tecnología, y la evolución de la sociedad en el ámbito científico-tecnológico para divulgar esos conocimientos.
+
+2. La vida en nuestro planeta.
+
+2.1. Clasificación básica de rocas y minerales. Usos y explotación sostenible de los recursos geológicos, especialmente en Canarias.
+
+2.2. Identificación de los procesos geológicos básicos de formación y modelado del relieve, aplicando el conocimiento al medio natural canario. Reconocimiento de las particularidades geológicas de formación de las islas Canarias con respecto a otros procesos geológicos (tectónica, sedimentología, etc.).
+
+2.3. Protección del entorno a partir del reconocimiento y la valoración de los principales ecosistemas y sus paisajes. Acercamiento a la fragilidad de los ecosistemas canarios y el impacto antrópico.
+
+2.4. Descripción de las funciones vitales básicas del ser humano desde una perspectiva integrada: obtención de energía, relación con el entorno y perpetuación de la especie.
+
+2.5. Reconocimiento de los cambios físicos, emocionales y sociales que conllevan la pubertad y la adolescencia, para favorecer su aceptación de forma positiva desde la educación afectivo-sexual, adaptada a su nivel madurativo.
+
+2.6. Desarrollo de pautas para una alimentación saludable y sostenible: diseño de menús saludables, sostenibles y equilibrados. La importancia de la cesta de la compra y del etiquetado de los productos alimenticios para conocer sus nutrientes y su aporte energético.
+
+2.7. Adopción de estilos de vida saludables a través de pautas que fomenten una salud física, emocional y social adecuadas: higiene del sueño, prevención y consecuencias del consumo de drogas (legales e ilegales), gestión saludable del ocio y del tiempo libre, contacto con la naturaleza, uso adecuado de las tecnologías.
+
+2.8. Conocimiento de actuaciones básicas de primeros auxilios y pautas para la prevención de riesgos y accidentes.
+
+2.9. Aplicación de estilos de vida saludables relacionados con el bienestar emocional y social: conciencia emocional (percepción, reconocimiento y comprensión emocional de alegría, tristeza, miedo, enfado, asco, sorpresa, culpa, vergüenza, ansiedad, seguridad y amor), regulación emocional (autocontrol impulsivo, ajuste afectivo y responsabilidad emocional), cambio emocional (compensación emocional) y vinculación emocional (empatía y comunicación emocional). Estrategias para el fomento de relaciones afectivas y sociales saludables y de los cuidados de las personas desde la corresponsabilidad e inclusión.
+
+3. Materia, fuerzas y energía.
+
+3.1. Utilización de instrumentos para calcular la masa, el volumen y la capacidad de un objeto. El concepto de densidad y su relación con la flotabilidad de un objeto en un líquido.
+
+3.2. Identificación de las formas de energía, las fuentes y las transformaciones, describiendo las fuentes de energías renovables y no renovables, y su influencia en la contribución al desarrollo sostenible de la sociedad. Reconocimiento del modelo de isla sostenible en Canarias.
+
+3.3. Uso en la vida cotidiana de la energía eléctrica: fuentes, transformaciones, transferencia, circuitos eléctricos y estructuras robotizadas.
+
+3.4. Iniciación a los principios básicos del vuelo a través del conocimiento de diferentes artefactos voladores.
+
+II. Tecnología y digitalización.
+
+1. Digitalización del entorno personal de aprendizaje.
+
+1.1. Utilización de dispositivos y recursos del entorno digital de aprendizaje de acuerdo con las necesidades del contexto educativo.
+
+1.2. Aplicación de estrategias de búsqueda de información seguras, responsables y eficientes en internet (valoración, discriminación, selección y organización). Reconocimiento de la autoría y respeto por la propiedad intelectual.
+
+1.3. Empleo de estrategias de recogida, almacenamiento y representación de datos en diversos formatos, para facilitar su comprensión y análisis.
+
+1.4. Adopción de reglas básicas de seguridad y privacidad para navegar por internet y para proteger el entorno digital personal de aprendizaje.
+
+1.5. Reconocimiento de recursos y participación en plataformas digitales restringidas y seguras para comunicarse con otras personas, trabajar cooperativamente, compartir datos y contenidos supervisados de manera segura, a partir del uso de la etiqueta digital, reglas básicas de cortesía y respeto, y estrategias para resolver problemas en la comunicación digital.
+
+1.6. Desarrollo de estrategias de actuación para fomentar el bienestar digital físico y mental a través del reconocimiento de los riesgos asociados a un uso inadecuado y poco seguro de las tecnologías digitales (tiempo excesivo de uso, ciberacoso, dependencia tecnológica, acceso a contenidos inadecuados, etc.).
+
+2. Proyectos de diseño y pensamiento computacional.
+
+2.1. Aplicación de las fases de los proyectos de diseño: identificación de necesidades, diseño, prototipado, prueba, evaluación y comunicación, para dar respuesta a un reto o problema del entorno físico, natural, social, cultural o tecnológico.
+
+2.2. Utilización de herramientas, dispositivos, técnicas, materiales y recursos digitales (programación por bloques, sensores, motores, simuladores, impresoras 3D…), seguros y adecuados a la consecución del proyecto.
+
+2.3. Aplicación de las fases del pensamiento computacional (descomposición de una tarea en partes más sencillas, reconocimiento de patrones y creación de algoritmos sencillos para la resolución…) para dar respuesta a un reto o problema del entorno físico, natural, social, cultural o tecnológico, de forma sostenible.
+
+2.4. Desarrollo de estrategias creativas en situaciones de incertidumbre (detección de necesidades y oportunidades, adaptación y cambio de propuesta cuando sea necesario, valoración del error propio y ajeno como fuente de aprendizaje, valoración de la diversidad como enriquecimiento en el desempeño cooperativo).
+
+III. Sociedades y territorios.
+
+1. Retos del mundo actual.
+
+1.1. Análisis del futuro de la Tierra y del universo a través de la identificación de los fenómenos físicos y su repercusión en la vida diaria y en el entorno, la exploración espacial, la observación del cielo en Canarias y la contaminación lumínica.
+
+1.2. Explicación del cambio climático: introducción a la dinámica atmosférica y a las grandes áreas climáticas del mundo.
+
+1.3. Valoración del entorno natural, de la diversidad geográfica de la España continental e insular, y de Europa. Representación gráfica, visual y cartográfica a través de medios y recursos analógicos y digitales, usando las Tecnologías de la Información Geográfica (TIG).
+
+1.4. Conocimiento y aprecio de la diversidad cultural, y en especial en el entorno insular, a través del análisis de los movimientos migratorios, teniendo en cuenta particularmente los que afectan a Canarias; las principales variables demográficas y su representación gráfica; los comportamientos de la población y su evolución; el contraste entre zonas urbanas y despoblación rural.
+
+1.5. Desarrollo de la ciudadanía activa: fundamentos y principios para la organización política y gestión del territorio en España, y para la participación social y ciudadana europea, nacional y local.
+
+1.6. Promoción de la igualdad y conductas no sexistas, a través del desarrollo del pensamiento crítico de los estereotipos y roles en los distintos ámbitos (académico, profesional, social y cultural), y de acciones para la igualdad efectiva entre mujeres y hombres, valorando las mujeres referentes en el contexto del patrimonio social, cultural e histórico canario, y de las mujeres rurales de Canarias.
+
+1.7. Identificación y aplicación de estrategias para el desarrollo universal: inclusión, equidad y accesibilidad.
+
+2. Sociedades en el tiempo.
+
+2.1. Clasificación y utilización de las distintas fuentes históricas (orales, escritas, patrimoniales y museísticas), para identificar y relacionar las acciones y hechos más destacados en la historia (Edad Media, Edad Moderna y Edad Contemporánea), así como el papel representado por los sujetos históricos (individuales y colectivos), acontecimientos y procesos. La sociedad indígena canaria y su modo de vida y la conquista de las islas Canarias.
+
+2.2. Valoración de los principales movimientos en defensa de los derechos de las mujeres, analizando la situación actual y los retos de futuro en la igualdad de oportunidades entre mujeres y hombres, a nivel mundial, nacional y en Canarias.
+
+2.3. Importancia de la memoria democrática: análisis multicausal del proceso de construcción de la democracia en España, la constitución española de 1978 y fórmulas para la participación de la ciudadanía en la vida pública.
+
+2.4. Identificación de las expresiones artísticas y culturales medievales, modernas y contemporáneas, su contextualización histórica, y su reflejo en Canarias. La función del arte y la cultura en el mundo medieval, moderno y contemporáneo, visibilizando las aportaciones y representación de las mujeres.
+
+2.5. Valoración del patrimonio cultural y natural de las islas Canarias, como bien y recurso; su uso, cuidado y conservación. Aprecio por la herencia cultural local, nacional y europea.
+
+3. Alfabetización cívica.
+
+3.1. Reconocimiento de la diversidad cultural y lingüística de España, valorando especialmente el español de Canarias como variedad de prestigio adecuada a todas las situaciones comunicativas. Respeto y valoración de la historia y cultura de minorías étnicas presentes en nuestro país, particularmente las propias del pueblo gitano.
+
+3.2. Reflexión y análisis de los principios y valores de los derechos humanos y de la infancia y la Constitución española de 1978, derechos y deberes de la ciudadanía así como de la contribución del Estado y sus instituciones, nacionales y locales, a la paz, la seguridad integral y la cooperación internacional para el desarrollo democrático.
+
+3.3. Aplicación de la cultura de paz y no violencia a través del pensamiento crítico como herramienta para el análisis de los conflictos de intereses y el reconocimiento de las víctimas de la violencia.
+
+3.4. Reconocimiento de la organización política: las principales entidades políticas y administrativas del entorno local, autonómico y nacional en España, sistemas de representación y de participación política.
+
+3.5. Reconocimiento de las principales instituciones de España y de la Unión Europea, de sus valores, de sus funciones, de sus ámbitos de acción y su repercusión en el entorno cercano.
+
+4. Conciencia ecosocial.
+
+4.1. Análisis del cambio climático, de Canarias al mundo: causas, consecuencias, medidas de mitigación y adaptación.
+
+4.2. Fomento de la responsabilidad ecosocial: ecodependencia, interdependencia e interrelación entre personas, sociedades y medio natural.
+
+4.3. Reflexión sobre el desarrollo sostenible, el impacto de la actividad humana sobre el espacio y la explotación de los recursos, y la actividad económica y la distribución de la riqueza: desigualdad social en el mundo y en España, atendiendo especialmente a la realidad canaria. Promoción de los ODS y los retos de nuestra Comunidad Autónoma.
+
+4.4. Reconocimiento de la Agenda Urbana Canaria y el desarrollo urbano sostenible y medidas para desarrollar la ciudad como espacio de convivencia, accesible e igualitaria.
+
+4.5. Análisis de la economía verde, la influencia de los mercados (de bienes, financiero y laboral) en la vida de la ciudadanía, los agentes económicos y los derechos laborales de mujeres y hombres, el valor social de los impuestos, la responsabilidad social y ambiental de las empresas, la publicidad, el consumo responsable (necesidades y deseos) y los derechos del consumo, de los principales sectores económicos en Canarias y de la repercusión de la fragmentación y aislamiento del archipiélago en el comercio canario.
+
+4.6. Identificación de estilos de vida sostenibles para favorecer un modelo de isla sostenible en Canarias. Análisis de los límites del planeta, el agotamiento de recursos y la huella ecológica.
+
+
+### Educación artística
+
+Introducción.
+
+La Educación Artística, entendida como medio para aprender a canalizar emociones con una finalidad estética o comunicativa, contribuye al desarrollo integral del alumnado, puesto que favorece la percepción, proporciona estrategias para la expresión y ayuda a desarrollar la individualidad. Dado que la noción de arte evoluciona de forma paralela al grupo social del que se deriva, las enseñanzas artísticas asumen el papel de difundir ese patrimonio cultural de parámetros estéticos, materiales, técnicas, soportes, códigos y funciones, con el objetivo final, no solo de reproducirlos, sino también de conocerlos, para ser capaces de comprenderlos, manejarlos y emplearlos, como medio para llegar a formas de expresión propias y originales.
+
+En la etapa de Educación Primaria, el propósito del área se centra en desarrollar capacidades desde un enfoque integrador. Por medio del desarrollo de las capacidades perceptivas, se busca formar al alumnado en sus facetas de oyente y espectador, como público consciente, receptor de productos culturales, con sentido estético propio y pensamiento crítico. Con el trabajo de las capacidades expresivas se trata de facilitar herramientas que permitan al alumnado descubrir y explotar su potencial, encontrar vocaciones artísticas y fomentar una sociedad más creativa.
+
+En Canarias se hace imprescindible abordar el patrimonio cultural y artístico de las islas como medio para entender las señas de nuestra identidad y preservar la riqueza de nuestras tradiciones, pero también como punto de partida para aprender a respetar y valorar los bienes materiales e inmateriales representativos de un grupo social o zona geográfica. En este sentido, el área de Educación Artística cobra un papel fundamental en el conocimiento y la divulgación de las manifestaciones artísticas, de las tradiciones y de los creadores y de las creadoras, tanto de épocas pasadas como de la actualidad. La riqueza de nuestro patrimonio cultural y artístico se ve pues presente de manera transversal como un legado de importancia, utilidad y necesidad, en tanto que es capaz de condensar experiencias identitarias del pasado, presente y futuro. Con el fin de garantizar su identificación, protección, recuperación, conservación, acrecentamiento, difusión y fomento, así como su investigación, valorización y transmisión a generaciones futuras, de forma que sirva al alumnado como una herramienta de cohesión social, desarrollo sostenible y desarrollo de la identidad cultural, se debe prestar especial atención a manifestaciones sonoras, música y danzas tradicionales, artesanía tradicional, pintura, arquitectura, cerámica y cualquier propuesta patrimonial, incluidas, por supuesto, las de naturaleza aborigen.
+
+Una Educación Artística sin referencia expresa a las creadoras supondría una transmisión parcial del patrimonio artístico y cultural. Se hace necesario, por tanto, dar protagonismo a las mujeres en las artes, visibilizar el trabajo de las artistas que destacaron por su talento y originalidad o por su desafío a los convencionalismos, proponiendo ejemplos de mujeres inspiradoras en diversas disciplinas, estilos y épocas, resaltando las mujeres representantes de diversas artes en el patrimonio artístico de Canarias.
+
+No hay que olvidar que la intervención educativa desde el área, se plantea también como una manera de despertar vocaciones artísticas y preparar al alumnado para las demandas del mundo laboral. La aproximación a las profesiones relacionadas con la industria del arte y la producción y distribución de imagen, sonido y medios multimodales, brindan no solo una ocasión para el autodescubrimiento, sino también oportunidades para explorar habilidades y destrezas que podrían configurar su perfil profesional en el futuro.
+
+Los saberes propios de Canarias se han incluido en el currículo del área desde un enfoque centrado en la educación patrimonial. Este enfoque presenta un carácter globalizador y transversal, y nace con la premisa de concienciar y sensibilizar al alumnado canario de la importancia del cuidado, disfrute y transmisión del patrimonio, pone el acento en la identificación y puesta en valor del mismo como parte inseparable de la sociedad, y apuesta por la implicación de la ciudadanía para lograr su sostenibilidad y la de los valores que en él perduran.
+
+De esta manera, a lo largo de la Educación Primaria, el alumnado se acerca de manera gradual a estos aprendizajes, propiciándose la inserción, en los currículos de las diferentes áreas de la etapa, de contextos de aprendizaje en torno al patrimonio cultural canario, que promuevan la participación de los niños y las niñas, para que lo conozcan, disfruten y valoren, contribuyendo así a su sensibilización, respeto y conservación.
+
+Contribución a los objetivos de etapa.
+
+Desde el área de Educación Artística se trabajan habilidades y destrezas que ofrecen aportaciones relevantes para la consecución de los objetivos de la etapa de Educación Primaria, tanto desde el ámbito de la percepción como de la expresión y la creación.
+
+La intervención educativa desde esta área promueve experiencias encaminadas al desarrollo de actitudes que se consideran fundamentales para un desarrollo sano y equilibrado del alumnado, como la confianza en sí mismo y en sí misma, la iniciativa personal, la curiosidad, el interés y la creatividad en el aprendizaje (b).
+
+Los objetivos de desarrollar hábitos de trabajo individual y de equipo (b) y habilidades para la resolución pacífica de conflictos (c) adquieren especial consideración en esta propuesta curricular, al recogerse de manera explícita en los bloques competenciales del área, asociados al desarrollo de capacidades afectivas (m) como el autocontrol, la asertividad y la empatía, que contribuyen a la formación de un alumnado emocionalmente competente.
+
+Con la implementación de estrategias de recepción activa y análisis de propuestas artísticas con un enfoque crítico y desde una perspectiva de género, se fomenta el respeto por las diferencias entre las personas, la igualdad de derechos y oportunidades (d), de acuerdo a un modelo inclusivo en el que las diferencias son atendidas con el fin de favorecer el máximo desarrollo personal.
+
+Asimismo, con el trabajo de percepción y análisis de las manifestaciones culturales y artísticas se posibilita conocer, comprender y respetar las diferentes culturas (d), así como aspectos fundamentales de la Historia y la Cultura universal (h), incluyendo los bienes del patrimonio natural, social y cultural canario. Mediante experiencias de acercamiento, divulgación y fomento de la participación activa se educa para la creación de entornos más inclusivos y sostenibles.
+
+Desde todos los ámbitos del área, especialmente en las situaciones de aprendizaje dedicadas a la investigación y a la creación, se ofrecen oportunidades de desarrollar las competencias tecnológicas básicas, desarrollando un espíritu crítico en su manejo (i).
+
+Por supuesto, como eje vertebrador de la experiencia artística, se plantean actividades que permitan utilizar diferentes representaciones y expresiones artísticas, e iniciarse en la construcción de propuestas visuales y audiovisuales (j).
+
+Contribución a las competencias clave.
+
+La propuesta curricular del área tiene un marcado carácter competencial y se ha desarrollado conforme a los descriptores operativos establecidos en el Perfil de salida del alumnado al término de la enseñanza básica, concretado para la Educación Primaria, que identifica el grado de desarrollo y adquisición de las competencias clave para todo el alumnado que finaliza esta etapa.
+
+Por su carácter integrador, el área de Educación Artística contribuye al aprendizaje de habilidades y destrezas que redundan en un desarrollo del nivel competencial del alumnado en todas sus facetas. Se aprecia una contribución directa al desarrollo de las competencias lingüística, digital, ciudadana, emprendedora y, especialmente, a la competencia en conciencia y expresiones culturales, si bien el carácter exploratorio y creativo del área facilita la conexión con todas las competencias clave por medio del planteamiento de diferentes situaciones y contextos.
+
+De esta manera, el área contribuye al desarrollo y la adquisición de la Competencia en comunicación lingüística (CCL), con aportaciones fundamentales como el desarrollo de la percepción visual y auditiva, o la habilidad de comunicarse en diferentes contextos. La expresión artística presenta un componente eminentemente comunicativo, por lo que favorece el desarrollo de destrezas como la selección y el manejo de la información, la interpretación y utilización de códigos y la explicación de procesos, propiciando la riqueza en los intercambios comunicativos. Por medio de las dinámicas de expresión artística, se generan situaciones de interacción con elementos visuales, sonoros y multimodales, que favorecen el desarrollo en el nivel de consciencia y la capacidad de dotar de intencionalidad al mensaje, beneficiando la propia práctica comunicativa.
+
+Asimismo, la contribución del área a la Competencia plurilingüe (CP) se concreta a través de la utilización de diferentes códigos para aprender y comunicarse. Además de contribuir al conocimiento y valoración de la diversidad lingüística y cultural, en su entorno más cercano y en otros contextos, el empleo de vocabulario técnico y préstamos léxicos amplía su repertorio lingüístico, favoreciendo la entonación y dicción propias de cada una de esas lenguas. Se contribuye también al desarrollo de estrategias para transferir significados y para llegar a una comprensión global del mensaje, superando la literalidad. Mediante el empleo de diferentes códigos y grafías convencionales y no convencionales, se promueve la exploración de las capacidades comunicativas y se fomenta el empleo de sistemas de comunicación alternativos.
+
+La Competencia matemática y competencia en ciencia y tecnología (STEM) se adquiere a través de herramientas para la comprensión del mundo y la resolución de situaciones problemáticas. La indagación y análisis de productos y procesos, así como la utilización de métodos inductivos, deductivos y lógicos propios del razonamiento matemático, constituyen también un componente fundamental en el área. Al trabajar el ámbito de la percepción, se contribuye a la realización de experimentos para comprender fenómenos y a la explicación de procesos y resultados, utilizando vocabulario específico. Asimismo, se manejan patrones y fórmulas, y se recurre a la organización espacial y la representación geométrica, fomentando el pensamiento lógico y tecnológico.
+
+La Competencia digital (CD) se concreta en el tratamiento digital de la información y en la elaboración de contenidos digitales como recurso habitual, tanto para la percepción y el análisis como para la creación e interpretación. Se propicia el uso de entornos virtuales y plataformas para el trabajo colaborativo, fomentando hábitos de uso seguro y responsable; y la adopción de un enfoque crítico en el análisis de la imagen, el sonido, los productos artísticos y los mensajes que transmiten. De especial relevancia, es el respeto a la autoría, tanto en la producción como en la distribución de contenidos culturales y artísticos. Se potencia, además, el uso de herramientas digitales al introducir una referencia explícita al empleo de recursos, soportes y medios de difusión audiovisual, dándoles una serie de saberes básicos propios y una competencia específica encaminada a la investigación, que requiere del manejo de las tecnologías digitales, la comunicación y el aprendizaje.
+
+Asimismo, la contribución del área a la Competencia personal, social y de aprender a aprender (CPSAA) se concreta en el reconocimiento de emociones y su canalización mediante formas expresivas, la experimentación, la exploración sensorial y la manipulación de objetos, para vivenciar situaciones y poder llegar a una reflexión e interpretación personal. Por otra parte, se potencia la participación en experiencias colectivas como forma de expresar ideas propias, valorar las aportaciones del grupo y coordinar acciones para llegar a un producto consensuado. Estas experiencias requieren de la planificación, la distribución de responsabilidades y la asunción de diferentes roles y procesos de retroalimentación. Se activan también mecanismos que redundan en el desarrollo de la autonomía, el aprendizaje autorregulado y la autoevaluación, en los que el alumnado asume el rol de protagonista activo de la construcción del conocimiento.
+
+De esta manera, el área contribuye al desarrollo y la adquisición de la Competencia ciudadana (CC), en la medida en que se promueve la apreciación del entorno y de la diversidad cultural en base al desarrollo del alumnado como individuo sensible. Asimismo, desde el área de Educación Artística se fomenta el desarrollo del sentido de identidad mediante procesos de enculturación y se favorecen valores como el respeto, la aceptación de la diferencia, la perspectiva inclusiva y las relaciones en el marco de la interculturalidad. Con la participación en actividades comunitarias se facilita la asimilación de normas, la cooperación y la asunción de roles, acciones que revierten en la capacidad de entender a otras personas, empatizar y llegar a compromisos. Por otra parte, se realizan aportaciones en lo que respecta a promover el disfrute como público y la apreciación de diferentes opciones de ocio, así como a la iniciación en estilos de vida sostenibles.
+
+La contribución a la Competencia emprendedora (CE) se adquiere a través de la activación de destrezas creativas, así como de la planificación y la puesta en práctica de producciones individuales o grupales, dado que los proyectos de creación artística constituyen el  eje fundamental que guía la acción en el área. Al tomar parte en las fases del proceso creativo, el alumnado tiene la oportunidad de proponer iniciativas, barajar opciones y buscar soluciones, desarrollando las habilidades de planificación, organización y flexibilidad, mientras que el objetivo de llegar a formas de expresión propias implica asumir retos, apostar por enfoques personales y superar estereotipos. Se contribuye también a la capacidad de identificar las propias fortalezas y debilidades, tratando la experiencia como oportunidad de aprendizaje.
+
+El área de Educación Artística contribuye, además, a la adquisición de la Competencia en conciencia y expresión culturales (CCEC), al generar situaciones que posibilitan el conocimiento y la apreciación del patrimonio cultural y artístico, fundamentales para su respeto y puesta en valor. Se facilita el acercamiento a diferentes códigos artísticos, atendiendo a sus elementos, medios y soportes; y facilitando la percepción de la intencionalidad en las manifestaciones culturales y, con ella, la comprensión del mundo. La exploración y el manejo de técnicas y recursos de distintos medios artísticos en un contexto experimental, fomenta la representación de ideas y vivencias, la expresión creativa y el desarrollo de las capacidades afectivas. Por medio del trabajo de la percepción y el análisis, se contribuye, asimismo, al reconocimiento de estereotipos, especificidades e intencionalidades de las manifestaciones artísticas y culturales.
+
+Bloques competenciales.
+
+El bloque competencial es el eje del currículo de cada área: integra la enunciación de las competencias específicas, su vinculación con los descriptores operativos del Perfil de salida, los criterios de evaluación y la explicación del bloque competencial.
+
+Las competencias específicas, que tienen carácter finalista, constituyen un elemento de conexión entre las competencias clave y los saberes propios del área. En cuanto a los criterios de evaluación, estos constituyen los referentes que indican el nivel de desempeño a alcanzar por el alumnado. Se establece, además, la contribución de cada criterio a los descriptores del Perfil de salida, de manera que se facilita la evaluación conjunta de los aprendizajes propios del área y del grado de desarrollo y adquisición de las competencias en el alumnado. En lo relativo a las explicaciones de los bloques competenciales, estas integran los aprendizajes recogidos en la totalidad del bloque, orientan sobre el proceso de desarrollo y adquisición tanto de las competencias específicas como de las competencias clave; y ofrecen, además, indicaciones metodológicas -siempre con una perspectiva abierta, flexible e inclusiva- para el diseño y la implementación de situaciones de aprendizaje competenciales. Es por ello que las explicaciones de los bloques competenciales se constituyen como los referentes más adecuados para la concreción curricular y la elaboración de la programación didáctica.
+
+Competencias específicas y criterios de evaluación.
+
+En el currículo de Educación Artística se han establecido cuatro competencias específicas que se concretan en un total de diez criterios de evaluación. Estos criterios de evaluación presentan una marcada naturaleza competencial, de manera que se relacionan directamente con los descriptores operativos del perfil de salida a los que contribuye la competencia específica, expresando tanto las capacidades y los saberes a adquirir, como el contexto y modo de aplicación de dichos aspectos.
+
+La enunciación de la competencia específica se recoge en el bloque competencial correspondiente. A continuación se ofrece una explicación de cada una de ellas.
+
+Competencia específica 1 (C1).
+
+Con el desarrollo de esta competencia, se permitirá que el alumnado pueda comprender las diferencias entre culturas, sus especificidades e intencionalidades, a la vez que entender la necesidad de respetarlas y valorarlas, de forma que vaya enriqueciendo y construyendo su propia realidad. Se pretende que el alumnado sea capaz primero de descubrir, reconocer y distinguir propuestas artísticas, para llegar a describirlas, valorarlas y respetarlas paulatinamente, según el avance en los ciclos.
+
+Se trata, por lo tanto, de concienciar sobre el hecho artístico, su presencia en la realidad cercana, su importancia en todos los aspectos de la sociedad y sus repercusiones en nuestra vida. Es de especial interés la necesidad del empleo de recursos artísticos de contrastada calidad y trascendencia; la puesta en valor de las manifestaciones artísticas del patrimonio cultural de las islas y su gran cantidad de variantes, destacando no solo aquellas que están ya muy presentes en la sociedad, sino también aquellas otras que puedan resultar más desconocidas, pero de gran valor etnográfico, artístico y, por supuesto, educativo. Igualmente, deberán estar presentes conforme se avanza en los diferentes niveles y ciclos propios de esta etapa, aquellas manifestaciones  artísticas de diferentes épocas, culturas, procedencias y géneros, de tal manera que el alumnado pueda entender el hecho artístico de una forma más global y general, para desarrollar su sentido crítico hacia el arte y una sensibilidad estética propia. Se tendrá en consideración el hecho de afrontar el descubrimiento de tales manifestaciones artísticas sin caer en el etnocentrismo.
+
+Competencia específica 2 (C2).
+
+Mediante el desarrollo de esta competencia y a través de la investigación, el alumnado puede reconocer y valorar los aspectos fundamentales del patrimonio cultural y artístico, analizando sus principales elementos y desarrollando criterios de valoración propios, desde una actitud abierta, dialogante y respetuosa. Por tanto, el alumnado deberá seleccionar y aplicar estrategias en la búsqueda de información, tanto de manera individual como cooperativa, para en un principio reconocer, posteriormente distinguir y finalmente comparar y valorar los elementos y el significado de distintas manifestaciones culturales y artísticas, conforme se avanza en la etapa. En ese proceso de investigación se tendrá en cuenta el descubrimiento del hecho artístico desde un punto de vista de relativismo cultural, evitando los prejuicios y entendiendo tales manifestaciones culturales como parte de una identidad determinada. Igualmente, se hará hincapié en los principios culturales que puedan ser contrarios a los valores sociales vigentes, entendiéndose como formas de comportamiento que reflejan principios sociales de tales épocas y culturas. Del mismo modo, se ha de tener en cuenta los contextos y los elementos propios de las manifestaciones artísticas en la investigación, de manera que se dote al alumnado de estrategias de selección consciente para la valoración del arte de manera contrastada, independiente del gusto personal, éxito popular o consumo mayoritario.
+
+Competencia específica 3 (C3).
+
+Con el desarrollo de esta competencia, se proporciona al alumnado la posibilidad de experimentar con los distintos lenguajes, técnicas, materiales, instrumentos, medios y soportes que tiene a su alcance, mediante el proceso de creación de obras propias como forma de expresión creativa de ideas, emociones y sentimientos. El alumnado deberá experimentar con los elementos básicos de los diferentes lenguajes artísticos, para posteriormente producir obras como medio de expresión, utilizando los resultados de esa experimentación previa como recurso y fuente de inspiración. Este proceso creativo ha de tener en cuenta siempre las inquietudes y necesidades de expresión del alumnado desde una perspectiva propia y no condicionada, de manera que sienta la libertad de usar y disfrutar de los lenguajes de expresión artística que conoce, para manifestarse en el contexto de obras artísticas, según sus propias ideas y sentimientos. Es de vital importancia que mediante esta competencia, el alumnado entienda la necesidad de la creación en el proceso artístico frente a la excesiva valoración de lo reproductivo e imitativo en la sociedad actual. Por tanto, se deberá prestar especial atención al arte en su dimensión comunicativa, así como a la presencia e importancia de los creadores y las creadoras en la sociedad.
+
+Competencia específica 4 (C4).
+
+Mediante el desarrollo de esta competencia, el alumnado podrá tomar parte en la creación, el diseño, la elaboración y la difusión de producciones culturales y artísticas, contribuyendo así al desarrollo de la creatividad y de la noción de autoría y el sentido de pertenencia. Se pretende que el alumnado tome parte en ese proceso creativo en todas sus fases, de manera activa y cooperativa, para posteriormente ser capaces de compartirlo, valorarlo y difundirlo como un producto final. De esta manera, el alumnado deberá desarrollar proyectos creativos, tanto individuales como grupales, en los que será necesario establecer un plan de trabajo para, en busca de un resultado final, conseguir el producto artístico esperado. En ese proceso se deberá tener en cuenta la creatividad, el uso de los elementos de las disciplinas artísticas en el campo concreto, la capacidad de trabajo en grupo, la reestructuración ante las dificultades y la búsqueda continua de la comunicación individual o colectiva desde un contexto artístico, aprovechando las oportunidades que la cultura digital brinda para la creación. En el proceso de creación y construcción de la producción artística, se tendrá en cuenta significativamente la perspectiva de género, el respeto a las aportaciones, necesidades y características del grupo, y el desarrollo de un sentido de pertenencia a la obra artística.
+
+Saberes básicos.
+
+Los saberes básicos del área aparecen integrados tanto en los criterios de evaluación como en las explicaciones de los bloques competenciales. No obstante, quedan establecidos, organizados y secuenciados, a continuación de los mismos.
+
+Con esta propuesta curricular se busca la integración de conceptos, procedimientos y actitudes, por medio de una serie de saberes básicos que conforman los contenidos propios del área. Cada uno de los bloques de saberes se relaciona con ámbitos culturales y artísticos específicos, con características propias; pero todos permiten, al mismo tiempo, planificar y desarrollar proyectos desde un enfoque globalizador. Los saberes básicos del área se pueden abordar desde cada una de las competencias específicas y, a su vez, cada competencia permite aproximarse a los saberes desde los ámbitos del conocimiento, de la investigación, de la práctica y del diseño de producciones artísticas. El profesorado tendrá autonomía para seleccionar y optar por aquellos saberes que considere más adecuados para implementar los aprendizajes establecidos en cada uno de los bloques competenciales.
+
+En el área de Educación Artística, los saberes básicos se estructuran en torno a cuatro bloques fundamentales: I. “Recepción y análisis”, II. “Creación e interpretación”, III. “Artes plásticas, visuales y audiovisuales” y IV. “Música y artes escénicas y performativas”.
+
+El ámbito de la recepción integra el conjunto de saberes relacionados con el descubrimiento, la exploración y la valoración de la imagen, el sonido y sus posibilidades expresivas, junto a un acercamiento a las propuestas artísticas representativas de diferentes corrientes estéticas, procedencias y épocas, incluyendo un acercamiento al patrimonio artístico y cultural de Canarias. Por medio de la educación de los sentidos, se busca desarrollar la capacidad de observación y análisis del entorno y del arte, y adquirir estrategias para una recepción activa, desde un enfoque crítico, al tiempo que se educa para generar una sensibilidad propia. Todo ello, de manera paralela al desarrollo de actitudes de respeto para disfrutar, ampliar gustos, opinar y participar como un público sensible y atento en las comunicaciones artísticas.
+
+El ámbito de la creación e interpretación parte de la experimentación y aplicación de los elementos materiales y de las técnicas de los códigos artísticos, para llegar a hacer uso de ellos con una finalidad expresiva. En este apartado resulta fundamental abordar una alfabetización en las herramientas digitales, como recurso y soporte con una intención comunicativa, desde una perspectiva artística. En función de la disciplina artística y de los medios y soportes utilizados, se podrán aplicar diferentes técnicas y estrategias para el desarrollo de la práctica interpretativa, basada en la experimentación, la exploración, la imitación de modelos, la recreación y la reconstrucción de la realidad percibida, para llegar a formas de expresión paulatinamente más personales y creativas.
+
+Por medio del ámbito de las artes plásticas, visuales y audiovisuales, se aborda el conocimiento y tratamiento de la imagen fija y en movimiento, ofreciendo oportunidades de acercarse a una variedad de medios, materiales, soportes y técnicas, desde la bidimensionalidad y la tridimensionalidad.
+
+Como herramienta de enculturación visual, se propondrán situaciones que permitan la exploración y el análisis de los elementos que configuran los lenguajes plástico, visual y audiovisual para que el alumnado llegue a apreciar sus posibilidades expresivas. En este apartado se incluye también el registro y la edición de elementos audiovisuales, un acercamiento a las técnicas compositivas multimodales, entre ellas la animación y el cine, junto a sus géneros y formatos, tan presentes en nuestra sociedad.
+
+Finalmente, el ámbito de la música y artes escénicas y performativas permite experimentar con el propio cuerpo y sus posibilidades sonoras y expresivas, a través del gesto y el movimiento, de la exploración del sonido y de la práctica instrumental y vocal, de manera individual y en grupo. A través de este bloque, se abordan saberes relacionados con el sonido y sus cualidades. Resulta fundamental destacar que los saberes relacionados con los elementos técnicos y las características de las propuestas artísticas deberán abordarse desde la doble vertiente de la percepción y análisis y de la creación e interpretación. Asimismo, conviene visibilizar y poner en valor también las profesiones vinculadas a la industria del arte.
+
+Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos.
+
+Las competencias específicas explicitan desempeños que el alumnado debe poder llevar a cabo en situaciones de aprendizaje para cuyo abordaje se requieran los saberes básicos de cada área, dentro de un marco de atención inclusiva a las diferencias individuales, y a las singularidades y necesidades de cada alumno o alumna. La implementación del currículo del área implica, por tanto, la definición, por parte del profesorado, de estas situaciones de aprendizaje contextualizadas.
+
+El modelo pedagógico canario se nutre de una premisa crucial: la necesaria integración de la evaluación en el proceso de planificación y diseño de estas situaciones de aprendizaje, para asegurar una evaluación competencial del alumnado. Es necesario, por tanto, que el profesorado utilice variedad de instrumentos, técnicas y herramientas de evaluación, en diferentes contextos, con soportes y formatos diversos, que permitan que el alumnado pueda demostrar lo que sabe, lo que siente y piensa, lo que puede hacer…, atendiéndose así, de manera inclusiva, a la diversidad del alumnado, a su ritmo de aprendizaje y a su forma de aprender.
+
+Desde el área de Educación Artística, se realiza una propuesta curricular flexible, basada en los principios del DUA (Diseño Universal para el Aprendizaje), que se ajusta a las necesidades y diferentes ritmos de aprendizaje del alumnado. Desde este enfoque, la intervención educativa, bajo el parámetro de la inclusividad, gira en torno al centro y a la comunidad educativa, con un currículo común para todo el alumnado.
+
+En el proceso de enseñanza y de aprendizaje, el profesorado tendrá el papel de guía y facilitador, garantizando la participación del alumnado en la mayor cantidad posible de experiencias artísticas y culturales, de manera que dibuje, pinte, toque, baile, descubra técnicas y materiales, busque información de forma guiada, cree, invente, improvise, coopere, colabore, respete, gestione sus emociones…. Todo ello siempre encaminado al desarrollo de la capacidad de entender las distintas manifestaciones del arte, elaborar mensajes artísticos, formar su gusto estético y adquirir sentido crítico. Se contribuye, de esta manera, a la educación integral del alumnado, ya que, a través del área, adquirirá habilidades y destrezas que le permitirán entender mejor el mundo que lo rodea y respetar la diversidad cultural como valor de enriquecimiento personal y colectivo.
+
+Es de gran importancia, también, que al alumnado se le ofrezca desde la escuela una visión democrática del arte, proporcionándole recursos de contrastada calidad artística, de forma que tenga un contacto real con el arte en todas las manifestaciones posibles. De esta manera, es crucial dotarlo de criterios para valorar y respetar las manifestaciones de diferentes estilos, culturas, épocas…, que le permitan construir su propia identidad y sensibilidad, tomar decisiones conscientes sobre sus gustos y tener una interpretación personal de las diferentes manifestaciones artísticas que abundan en la sociedad de consumo, para evitar así los estereotipos sexistas y la hipersexualización de la infancia, y poder valorar y respetar la diversidad de cuerpos en el arte. Igualmente, merece una atención específica los recursos artísticos de índole patrimonial, los cuales han de ser fieles, originales y acordes a la cultura canaria y de cualquier otra procedencia, procurando enaltecer su valor como fruto de un legado histórico, cultural y artístico de incalculable valor.
+
+La evaluación es el mecanismo que permite constatar por un lado si el diseño formativo ha cumplido su propósito y por otro a evidenciar las posibles mejoras. Siguiendo el modelo pedagógico de la comunidad autónoma la evaluación debe ser continua, formativa y objetiva, centrada únicamente en los elementos curriculares y en cada uno de los agentes que intervienen en el proceso: autoevaluación, heteroevaluación y coevaluación.
+
+Para que la evaluación cumpla su función debe ser relevante, fácilmente comunicable y estar bien planificada para que evidencie y ofrezca la mayor información posible de la consecución de unos aprendizajes y estar estructurada según estos elementos: técnicas (estrategia para recoger la información), herramientas (soporte en el que se recoge la información) e instrumentos (evidencia que sirve para recoger la información). Las técnicas y herramientas son compartidas por el resto de áreas del currículo, siendo los instrumentos los elementos característicos y diferenciadores del área, debiendo ser instrumentos variados, creativos, y experienciales fruto del hecho artístico y que aborden cualquiera de los diferentes lenguajes artísticos: musicales, plásticos, audiovisuales y performativos. Los instrumentos deben ser lo suficientemente variados para atender a la diversidad, posibilitar el éxito y conseguir la objetividad y la transparencia,  partiendo de los aprendizajes descritos en los criterios de evaluación, de las competencias y los saberes propios del área. Dentro del área pueden destacar en este aspecto las producciones artísticas (dibujo, pintura, modelado, escultura, maqueta, cómic, animación, cortometraje, ejecución vocal, canción, instrumentación, orquestación, coreografía, montaje teatral, performance).
+
+Primer ciclo Educación Primaria
+
+Bloques competenciales
+
+Ver anexo en las páginas 45610-45613 del documento
+                        Descargar
+
+Saberes básicos.
+
+I. Recepción y análisis.
+
+1. Aproximación a las principales propuestas del patrimonio cultural y artístico de Canarias y de diferentes corrientes estéticas, procedencias y épocas producidas por creadores y creadoras locales, regionales y nacionales.
+
+2. Iniciación en la adquisición de estrategias básicas de recepción activa.
+
+3. Asimilación de las normas elementales de comportamiento y actitud positiva ante el hecho artístico. Valoración del silencio como condición indispensable para la adecuada recepción de propuestas artísticas.
+
+4. Empleo de vocabulario específico básico de las artes plásticas y visuales, las artes audiovisuales, la música y las artes escénicas y performativas.
+
+5. Utilización de recursos digitales básicos para las artes plásticas y visuales, las artes audiovisuales, la música y las artes escénicas y performativas.
+
+II. Creación e interpretación.
+
+1. Aproximación a las fases del proceso creativo: planificación guiada y experimentación.
+
+2. Reconocimiento de profesiones vinculadas con las artes plásticas y visuales, las artes audiovisuales, la música y las artes escénicas y performativas: artesanía, pintura, música, escultura, maquetación, diseño gráfico, iluminación y sonido, realización…
+
+3. Interés tanto por el proceso como por el producto final en producciones plásticas, visuales, audiovisuales, musicales, escénicas y performativas.
+
+III. Artes plásticas, visuales y audiovisuales.
+
+1. Acercamiento a las principales manifestaciones artísticas del patrimonio cultural de Canarias: pintura, escultura, arquitectura, cerámica y artesanía.
+
+2. Iniciación a la cultura visual. Uso de técnicas y estrategias básicas de lectura de la imagen en el mundo actual.
+
+3. Empleo de elementos configurativos básicos del lenguaje visual: punto, línea, plano, textura, color, forma y espacio.
+
+4. Uso de materiales, instrumentos, soportes y técnicas elementales utilizados en la expresión plástica y visual.
+
+5. Uso de medios, soportes y materiales de expresión plástica y visual. Empleo de técnicas bidimensionales y tridimensionales básicas en dibujos y modelados sencillos.
+
+6. Utilización de herramientas adecuadas para el registro de imagen y sonido.
+
+7. Aplicación de estrategias y técnicas básicas de composición de historias audiovisuales sencillas.
+
+8. Descubrimiento del cine como forma de narración audiovisual.
+
+IV. Música y artes escénicas y performativas.
+
+1. Discriminación auditiva, clasificación y representación del sonido, de sus cualidades y de las líneas rítmico-melódicas, a través de grafías convencionales y no convencionales.
+
+2. Discriminación visual y auditiva de los instrumentos musicales convencionales, objetos sonoros, cotidiáfonos, así como de los de la música tradicional y popular canaria. Clasificación de la voz y los instrumentos en tipos, familias y agrupaciones.
+
+3. Experimentación y reconocimiento del carácter y el tempo.
+
+4. Práctica instrumental, vocal y corporal de manifestaciones propias del patrimonio cultural y artístico de Canarias y de diferentes estilos, épocas y culturas: aproximación a la experimentación, exploración creativa e interpretación a partir de posibilidades sonoras y expresivas.
+
+5. Construcción asistida de instrumentos musicales con materiales de uso común, reutilizados y del entorno.
+
+6. Aplicación de conceptos elementales de lenguajes musicales básicos en la interpretación de propuestas musicales vocales e instrumentales. Valoración del silencio como elemento indispensable en la música.
+
+7. Experimentación y exploración del cuerpo y sus posibilidades motrices en ejecuciones individuales y grupales vinculadas con el movimiento, la danza, la dramatización y la representación teatral como medios de expresión, diversión e interacción social.
+
+8. Práctica de técnicas dramáticas y dancísticas elementales.
+
+9. Experimentación, exploración e interpretación de danzas tradicionales y populares de Canarias.
+
+10. Experimentación de las posibilidades expresivas y creativas básicas de la expresión corporal y dramática.
+
+Segundo ciclo Educación Primaria
+
+Bloques competenciales
+
+Ver anexo en las páginas 45616-45619 del documento
+                        Descargar
+
+Saberes básicos.
+
+I. Recepción y análisis.
+
+1. Análisis de propuestas del patrimonio cultural y artístico de Canarias, de diferentes corrientes estéticas, procedencias y épocas, producidas por creadores y creadoras locales, regionales y nacionales.
+
+2. Adquisición de estrategias de recepción activa.
+
+3. Valoración del silencio como elemento y condición indispensable. Asimilación de las normas comunes de comportamiento y actitud positiva ante el hecho artístico. Valoración del silencio como condición indispensable para la adecuada recepción de propuestas artísticas.
+
+4. Empleo de vocabulario específico, de uso común, en las artes plásticas y visuales, las artes audiovisuales, la música y las artes escénicas y performativas.
+
+5. Utilización de recursos digitales en las artes plásticas y visuales, las artes audiovisuales, la música y las artes escénicas y performativas.
+
+6. Adquisición de estrategias básicas de análisis de propuestas artísticas desde una perspectiva de género.
+
+II. Creación e interpretación.
+
+1. Aplicación de las fases del proceso creativo: planificación, interpretación y experimentación.
+
+2. Reconocimiento de profesiones vinculadas con las artes plásticas y visuales, las artes audiovisuales, la música y las artes escénicas y performativas: artesanía, pintura, música, escultura, maquetación, diseño gráfico, iluminación y sonido, realización…
+
+3. Valoración e interés tanto por el proceso como por el producto final en producciones plásticas, visuales, audiovisuales, musicales, escénicas y performativas.
+
+III. Artes plásticas, visuales y audiovisuales.
+
+1. Reconocimiento de las manifestaciones artísticas del patrimonio cultural de Canarias: pintura, escultura, arquitectura, cerámica y artesanía.
+
+2. Iniciación a la cultura visual. Uso de técnicas y estrategias básicas de lectura e interpretación de la imagen en el mundo actual.
+
+3. Empleo de elementos configurativos básicos del lenguaje visual y sus posibilidades expresivas: punto, línea, plano, textura, color, forma y espacio.
+
+4. Utilización de materiales, instrumentos, soportes y técnicas de uso común utilizados en la expresión plástica y visual.
+
+5. Uso de medios, soportes y materiales de expresión plástica y visual. Empleo de técnicas bidimensionales y tridimensionales en dibujos y modelados sencillos.
+
+6. Reconocimiento de técnicas, materiales y recursos informáticos y tecnológicos básicos. Aplicación para la captura y manipulación de producciones plásticas y visuales.
+
+7. Registro y edición básica de elementos audiovisuales: conceptos, tecnologías, técnicas y recursos elementales y de manejo sencillo.
+
+8. Aplicación de estrategias y técnicas de uso común para la composición de historias audiovisuales.
+
+9. Identificación del cine como forma de narración audiovisual.
+
+10. Acercamiento a géneros y formatos de producciones audiovisuales: cortometraje, videoclip, documental, spot, reportaje…
+
+11. Aproximación a las herramientas y técnicas básicas de animación.
+
+12. Descubrimiento de las características elementales del lenguaje audiovisual multimodal: texto, audio, imagen…
+
+13. Iniciación a la realización de producciones multimodales con diversas herramientas.
+
+IV. Música y artes escénicas y performativas.
+
+1. Identificación visual y auditiva, clasificación y representación elemental del sonido, de sus cualidades y de estructuras rítmico-melódicas, a través de grafías convencionales y no convencionales.
+
+2. Identificación visual y auditiva de los instrumentos musicales convencionales, objetos sonoros, cotidiáfonos, así como de los de la música tradicional y popular canaria. Clasificación de la voz y los instrumentos en familias y agrupaciones.
+
+3. Experimentación y reconocimiento del carácter, el tempo, el compás y el género musical.
+
+4. Práctica instrumental, vocal y corporal de manifestaciones propias del patrimonio cultural y artístico de Canarias y de diferentes estilos, épocas y culturas: experimentación, exploración creativa, interpretación e improvisación a partir de sus posibilidades sonoras y expresivas.
+
+5. Construcción guiada de instrumentos musicales con materiales de uso común, reutilizados y del entorno.
+
+6. Aplicación de conceptos básicos de lenguajes musicales en la interpretación y en la improvisación de propuestas musicales vocales e instrumentales. Valoración del silencio como elemento indispensable en la música.
+
+7. Utilización de herramientas digitales básicas de grabación y edición de audio en la audición y conocimiento de obras diversas.
+
+8. Experimentación y exploración del cuerpo y sus posibilidades motrices y creativas en ejecuciones individuales y grupales vinculadas con el movimiento, la danza, la dramatización y la representación teatral como medios de expresión, diversión e interacción social.
+
+9. Aplicación de técnicas dramáticas, dancísticas y de elementos básicos de lenguajes expresivos. Experimentación con actos performativos elementales e improvisación guiada.
+
+10. Experimentación, exploración e interpretación de danzas tradicionales y populares de Canarias.
+
+11. Exploración de las posibilidades expresivas y creativas de uso común de la expresión corporal y dramática.
+
+12. Reconocimiento de los elementos básicos de la representación escénica: roles, materiales y espacios.
+
+Tercer ciclo Educación Primaria
+
+Bloques competenciales
+
+Ver anexo en las páginas 45623-45626 del documento
+                        Descargar
+
+Saberes básicos.
+
+I. Recepción y análisis.
+
+1. Análisis de propuestas del patrimonio cultural y artístico de Canarias y de diferentes corrientes estéticas, procedencias y épocas producidas por creadoras y creadores locales, regionales, nacionales e internacionales.
+
+2. Aplicación de estrategias de recepción activa.
+
+3. Asimilación de las normas de comportamiento y actitud positiva ante el hecho artístico. Valoración del silencio como condición indispensable para la adecuada recepción de propuestas artísticas.
+
+4. Empleo de vocabulario específico de las artes plásticas y visuales, las artes audiovisuales, la música y las artes escénicas y performativas.
+
+5. Utilización y selección de recursos digitales en las artes plásticas y visuales, las artes audiovisuales, la música y las artes escénicas y performativas.
+
+6. Aplicación de estrategias básicas para el análisis de propuestas artísticas desde una perspectiva de género. Identificación de estereotipos sexistas.
+
+II. Creación e interpretación.
+
+1. Aplicación de las fases del proceso creativo: planificación, interpretación, experimentación y evaluación.
+
+2. Reconocimiento de profesiones vinculadas con las artes plásticas y visuales, las artes audiovisuales, la música y las artes escénicas y performativas: artesanía, pintura, música, escultura, maquetación, diseño gráfico, iluminación y sonido, realización…
+
+3. Evaluación, valoración e interés tanto por el proceso como por el producto final en producciones plásticas, visuales, audiovisuales, musicales, escénicas y performativas.
+
+4. Uso responsable de bancos de imágenes y sonidos: respeto a las licencias de uso, derechos de autoría y distribución de contenidos generados por otras personas.
+
+III. Artes plásticas, visuales y audiovisuales.
+
+1. Reconocimiento de manifestaciones artísticas del patrimonio cultural de Canarias: pintura, escultura, arquitectura, cerámica y artesanía.
+
+2. Iniciación a la cultura visual. Uso de técnicas y estrategias de lectura, análisis e interpretación de la imagen en el mundo actual. Identificación de estereotipos sexistas.
+
+3. Empleo de elementos configurativos del lenguaje visual y sus posibilidades expresivas: punto, línea, plano, textura, color, forma y espacio.
+
+4. Utilización de materiales, instrumentos, soportes y técnicas en la expresión plástica y visual.
+
+5. Uso de medios, soportes y materiales de expresión plástica y visual. Empleo de técnicas bidimensionales y tridimensionales en dibujos y modelados.
+
+6. Reconocimiento de técnicas, materiales y recursos informáticos y tecnológicos. Aplicación para la captura, creación, manipulación y difusión de producciones plásticas y visuales.
+
+7. Registro y edición de elementos audiovisuales: conceptos, tecnologías, técnicas y recursos elementales y de manejo sencillo.
+
+8. Aplicación de estrategias y técnicas de composición de historias audiovisuales.
+
+9. Valoración del cine como forma de narración audiovisual.
+
+10. Identificación de géneros y formatos de producciones audiovisuales: cortometraje, videoclip, documental, spot, reportaje…
+
+11. Manejo de herramientas y técnicas básicas de animación.
+
+12. Reconocimiento de las características del lenguaje audiovisual multimodal: texto, audio, imagen…
+
+13. Realización de producciones multimodales con diversas herramientas.
+
+IV. Música y artes escénicas y performativas.
+
+1. Identificación visual y auditiva, clasificación y representación del sonido, de sus cualidades y de estructuras rítmico-melódicas a través de grafías convencionales y no convencionales.
+
+2. Identificación visual y auditiva de los instrumentos musicales convencionales, no convencionales, digitales, cotidiáfonos, así como de los de la música tradicional y popular canaria. Clasificación de la voz y los instrumentos en familias y agrupaciones.
+
+3. Experimentación y reconocimiento del carácter, el tempo, el compás, la textura, la armonía, la forma y el género musical.
+
+4. Práctica instrumental, vocal y corporal de manifestaciones propias del patrimonio cultural y artístico de Canarias y de diferentes estilos, épocas y culturas:  experimentación, exploración creativa, interpretación, improvisación y composición a partir de sus posibilidades sonoras y expresivas.
+
+5. Construcción de instrumentos musicales con materiales de uso común, reutilizados y del entorno.
+
+6. Aplicación de conceptos fundamentales de lenguajes musicales en la interpretación y en la improvisación de propuestas musicales vocales e instrumentales. Valoración del silencio como elemento indispensable en la música.
+
+7. Utilización de herramientas digitales de grabación, edición de audio y edición de partituras en la audición, el conocimiento, la interpretación, la grabación, la reproducción, la improvisación y la creación de obras diversas.
+
+8. Experimentación y exploración del cuerpo y sus posibilidades motrices, dramáticas y creativas en ejecuciones individuales y grupales vinculadas con el movimiento, la danza, la dramatización y la representación teatral como medios de expresión, diversión e interacción social. Fomento de la autoestima y la conciencia corporal positiva.
+
+9. Aplicación de técnicas dramáticas y dancísticas, de elementos básicos de lenguajes expresivos y de nociones elementales de biomecánica. Introducción a los métodos interpretativos. Experimentación con actos performativos elementales e improvisación guiada y creativa.
+
+10. Experimentación, exploración e interpretación de danzas tradicionales y populares de Canarias.
+
+11. Aplicación de las posibilidades expresivas y creativas de la expresión corporal y dramática.
+
+12. Empleo de los elementos de la representación escénica, la teatralidad y la estructura dramática básica.
+
+13. Aproximación a los géneros escénicos. Valoración de la importancia de la interpretación dramática en el proceso artístico y del patrimonio vinculado a las artes escénicas.
+
+
+### Educación emocional y para la creatividad
+
+Introducción.
+
+Las emociones y la creatividad están presentes en cualquier situación de la vida. No se entiende un aprendizaje donde el alumnado no movilice sus propias emociones y desarrolle todo su potencial creativo, pues estamos formados de emociones sentidas y vinculadas. El área de Educación Emocional y para la Creatividad está planificada y diseñada con el objetivo de “ahondar en el corazón del alumnado”, otorgándoles herramientas y estrategias útiles para que sean capaces de descubrir sus potencialidades y posibilidades, mirando su interior y exterior, compartiendo y enriqueciéndose con el entorno y quienes lo componen para aprender, emocionándose. Se pretende validar el papel que desempeñan los aspectos del mundo emocional y creativo en relación con el marco curricular como proceso y parte que garantiza la educación integral de la persona. Por esta razón, dicha área tiene que ser vista, no solo como un espacio y un tiempo específico en el horario escolar para tratar estos aspectos, sino sobre todo, como una oportunidad para que las emociones y la creatividad impregnen todas y cada una del resto de áreas de la etapa.
+
+Un currículo integrado supone una posibilidad para que las situaciones de aprendizaje se diseñen desde un punto de vista transversal, interdisciplinar, global y holístico, que desarrolle una educación inclusiva que valore y respete las diferencias (propias de la diversidad humana) y fomente la creatividad, desglosando la palabra y observándola desde el punto de vista de crea-tu-vida para ayudar a formar personas más competentes, autónomas, libres, confiadas, asertivas, originales, innovadoras, audaces, equilibradas…: en definitiva, un alumnado que aprenda a ser más resiliente y por ende, más feliz.
+
+Desde esta área, los niños y las niñas aprenden a percibir, reconocer y comprender sus emociones, desarrollando la conciencia emocional que permita responsabilizarse, regular y compensar las mismas de forma adaptativa, generando vínculos afectivos que, desde una perspectiva empática, les permita la creación conjunta e innovadora de proyectos que favorezcan el compromiso tanto individual como social.
+
+Los saberes propios de Canarias se han incluido en el currículo del área desde un enfoque centrado en la educación patrimonial. Este enfoque presenta un carácter globalizador y transversal, y nace con la premisa de concienciar y sensibilizar al alumnado canario de la importancia del cuidado, disfrute y transmisión del patrimonio, pone el acento en la identificación y puesta en valor del mismo como parte inseparable de la sociedad, y apuesta por la implicación de la ciudadanía para lograr su sostenibilidad y la de los valores que en él perduran.
+
+De esta manera, a lo largo de la Educación Primaria, el alumnado se acerca de manera gradual a estos aprendizajes, propiciándose la inserción, en los currículos de las diferentes áreas de la etapa, de contextos de aprendizaje en torno al patrimonio cultural canario, que promuevan la participación de los niños y las niñas, para que lo conozcan, disfruten y valoren, contribuyendo así a su sensibilización, respeto y conservación.
+
+Contribución a los objetivos de etapa.
+
+El área de Educación Emocional y para la Creatividad ofrece aportaciones relevantes para el desarrollo personal del alumnado, por lo que contribuirá significativamente a la consecución de los objetivos de la etapa de la Educación Primaria. El área de Educación Emocional y para la Creatividad tiene un carácter medular por lo que, a partir de ella y a través de ella, se envuelve e interconecta el resto de enseñanzas curriculares para provocar un verdadero aprendizaje significativo.
+
+Además, fomentará la vivencia de experiencias que permitirá al alumnado reconocer las emociones, manejar adecuadamente las relaciones, saber comprender a las demás personas, descubrir y ejecutar procesos creativos, aspectos esenciales para un crecimiento personal.
+
+A través de la conciencia emocional se favorece que el alumnado pueda desarrollar valores y normas de convivencia, aprendiendo a obrar de forma empática y respetando el pluralismo propio de una sociedad democrática.
+
+El desarrollo del potencial creativo contribuye a la adquisición de hábitos de trabajo individual y de equipo, de esfuerzo y de responsabilidad en el estudio y en la creación de proyectos innovadores, así como actitudes de confianza, sentido crítico, iniciativa personal, curiosidad, interés y espíritu emprendedor, experimentando y vivenciando para adquirir un verdadero compromiso emocional y creativo.
+
+El fomento del clima de convivencia positiva como fuente enriquecedora de aprendizaje y como oportunidad para crear vínculos afectivos con las demás personas, favorece en el alumnado una visión multidimensional que contempla la igualdad como un valor de primer orden y de enriquecimiento, para conocer, comprender y respetar la diversidad, viéndola como una característica intrínseca del ser humano, con la que se favorece la solidaridad y el altruismo.
+
+A través de la adquisición de habilidades para la resolución pacífica de conflictos y la gestión adaptativa de las emociones, se facilita al alumnado que pueda desenvolverse con autonomía y confianza, asumiendo la responsabilidad emocional con un ajuste afectivo satisfactorio, reciclando las emociones cuando sean necesarias y logrando unas relaciones interpersonales más satisfactorias.
+
+Contribución a las competencias clave.
+
+La propuesta curricular del área tiene un marcado carácter competencial y se ha desarrollado conforme a los descriptores operativos establecidos en el Perfil de salida del alumnado al término de la enseñanza básica, concretado para la Educación Primaria, que identifica el grado de desarrollo y adquisición de las competencias clave para todo el alumnado que finaliza esta etapa.
+
+La emoción y la creatividad son aspectos básicos de los que el ser humano ha de tener conciencia para poder ser feliz y proponerse un mundo que se lo permita. El área de Educación Emocional y para la Creatividad contribuye, pues, al desarrollo integral de la persona y a la adquisición de las competencias.
+
+La comunicación emocional y creativa favorece la Competencia en comunicación lingüística (CCL), dado que supone una bisagra entre el mundo interno y externo del niño y de la niña. La expresión, para la comprensión de las emociones y la creatividad, conlleva movilizar, de manera consciente, el conjunto de saberes, destrezas y actitudes que permiten identificar, expresar, crear, comprender e interpretar sentimientos, hechos, opiniones, pensamientos y conceptos de forma oral y escrita en soportes visuales, sonoros y multimodales en contextos diversos y con finalidades distintas. Esto implica la habilidad de comunicarse eficazmente de manera respetuosa, ética y creativa con actitud cooperativa para intercambiar información y construir vínculos afectivos positivos, lo que requerirá del alumnado el uso de un vocabulario emocional y creativo específico, que favorezca la comunicación y la toma de conciencia de su ser interno y del mundo que lo rodea.
+
+La contribución del área a la Competencia plurilingüe (CP) integra dimensiones orientadas a conocer, valorar y respetar la diversidad cultural de la sociedad presente en su entorno, especialmente en Canarias, reconociendo y comprendiendo su valor como factor de diálogo, con el objetivo de fomentar la convivencia democrática. Desde el área se reconoce y valora la diversidad, a través del desarrollo del pensamiento divergente, crítico y creativo.
+
+El área proporciona claves que fortalecen los procesos cognitivos relacionados con la Competencia matemática y competencia en ciencia, tecnología e ingeniería (STEM). Planificar procesos de resolución de problemas; establecer estrategias y procedimientos, y revisarlos; adecuar el nivel de frustración ante los errores; comprobar y comunicar una posible solución; sopesar valoraciones personales y de interacción mutua…, son algunos de los modelos que se dan tanto en situaciones de conciencia, de regulación o reciclaje emocional, como de creatividad. Todo ello se relaciona con procesos matemáticos, científicos y tecnológicos, aportando soluciones diversas y abiertas. Asimismo, la obtención de información y el establecimiento de conclusiones entraña la comprensión del mundo utilizando el método científico.
+
+Se concurre desde esta área a la Competencia digital (CD), mediante el ejercicio libre y crítico en función de las habilidades cognitivas y del nivel de desarrollo del pensamiento. Desde la práctica de un modelo creativo y de autorregulación del proceso, se propone el uso responsable, saludable, sostenible y crítico de los recursos ofrecidos por los medios digitales para el desarrollo de la inventiva, la armonización de los diversos modos de comunicación y el sinfín de recursos expresivos y técnicos al servicio de la mejora de la calidad de vida personal y social del alumnado. La creatividad, en toda su expresión, impulsa esta competencia y fomenta su uso artístico y comunicativo, conciliando el mundo emocional y el digital.
+
+La contribución del área a la Competencia personal, social y de aprender a aprender (CPSAA) está implícita al perseguir la conciencia de los procesos internos y externos: aprendiendo de la acción, desde el aprender haciendo, la escucha activa, el auto conocimiento de la valía personal; el saber conocer, saber hacer, el saber ser o estar y el saber convivir. El área permite la puesta en marcha de múltiples factores de desarrollo personal y de interacción entre iguales con las personas adultas y el medio: la autoestima, el pensamiento crítico, la creatividad, la motivación, la confianza, la flexibilidad, la responsabilidad y el reconocimiento mutuo colaborando con otras personas de forma constructiva, manteniendo la resiliencia y gestionando este aprendizaje a lo largo de la vida.
+
+Desde el área se coadyuva de manera notable a la Competencia ciudadana (CC), puesto que propicia el propio reconocimiento como persona con valores y dones singulares, que le es posible descubrir y fortalecer en compañía de sus iguales y de las personas adultas en la familia, en la escuela, en el barrio y en la sociedad en general. Para ello, tendrá que forjar vínculos y determinar su nivel de compromiso con el bienestar personal y social, mediante la interpretación y la elaboración de soluciones justas, eficaces, seguras y agradables a conflictos personales y colectivos en diversos contextos y niveles sociales. La participación, el compromiso y la toma de decisiones desde la conciencia, la creatividad y la regulación emocional sentarán las bases para alcanzar la meta educativa del conocimiento de valores democráticos, solidarios, sostenibles, inclusivos e igualitarios.
+
+Se propicia la Competencia emprendedora (CE), desde la planificación y concepción de la vida personal y social como proceso de cambio permanente, porque en el área se ayuda a detectar necesidades y oportunidades; a entrenar el pensamiento para analizar y evaluar el entorno, crear y replantear ideas utilizando la imaginación, la creatividad, el pensamiento estratégico y la reflexión ética, crítica y constructiva dentro de los procesos creativos y de innovación; y. a través de la autoconfianza, a despertar la disposición a aprender, a arriesgar, a afrontar la incertidumbre, a tomar decisiones basadas en la información y el conocimiento, y a colaborar con otras personas, comprometiéndose emocionalmente y responsabilizándose con motivación, empatía, habilidades de comunicación y de negociación, para llevar las ideas planteadas a la acción mediante la planificación y gestión de proyectos creativos Y sostenibles de valor social y cultural.
+
+Por último, el área posee una vinculación importante con la Competencia en conciencia y expresiones culturales (CCEC), puesto que tiene que ver con el reconocimiento de los alumnos y las alumnas como personas únicas y singulares. La Educación Emocional y para la Creatividad nos permite comprender y respetar la forma en que las ideas y el significado se expresan de forma creativa y se comunican en las distintas culturas, a través de una serie de artes y otras manifestaciones culturales. Desde el área se propone invitar a la comprensión de las propias creencias y costumbres, así como a la posible reformulación de estas, valorando positivamente aquellos aspectos que comportan ideas novedosas; se invita a estimular, a acompañar y a asumir riesgos; a favorecer intercambios personales y sociales; a persistir y respetar la veracidad para aprender a gestionar las emociones y a ser, en definitiva, personas más felices y honestas.
+
+Bloques competenciales.
+
+El bloque competencial es el eje del currículo de cada área: integra la enunciación de las competencias específicas, su vinculación con los descriptores operativos del Perfil de salida, los criterios de evaluación y la explicación del bloque competencial.
+
+Las competencias específicas, que tienen carácter finalista, constituyen un elemento de conexión entre las competencias clave y los saberes propios del área. En cuanto a los criterios de evaluación, estos constituyen los referentes que indican el nivel de desempeño a alcanzar por el alumnado. Se establece, además, la contribución de cada criterio a los descriptores del Perfil de salida, de manera que se facilita la evaluación conjunta de los aprendizajes propios del área y del grado de desarrollo y adquisición de las competencias en el alumnado. En lo relativo a las explicaciones de los bloques competenciales, estas integran los aprendizajes recogidos en la totalidad del bloque, orientan sobre el proceso de desarrollo y adquisición tanto de las competencias específicas como de las competencias clave; y ofrecen, además, indicaciones metodológicas -siempre con una perspectiva abierta, flexible e inclusiva- para el diseño y la implementación de situaciones de aprendizaje competenciales. Es por ello que las explicaciones de los bloques competenciales se constituyen como los referentes más adecuados para la concreción curricular y la elaboración de la programación didáctica.
+
+Competencias específicas y criterios de evaluación.
+
+En el currículo de Educación Emocional y para la Creatividad se han establecido cuatro competencias específicas que se concretan en dos criterios de evaluación para cada una de ellas, con un total de ocho criterios en primer y segundo ciclo, mientras que en tercer ciclo, se han establecido un total de siete criterios de evaluación. A todos ellos se les ha dado un carácter longitudinal de modo que aumenta de manera progresiva la complejidad de los aprendizajes contemplados en los mismos y se incorporan nuevas dimensiones de las competencias emocionales y creativas en el tercer ciclo.
+
+La enunciación de la competencia específica se recoge en el bloque competencial correspondiente. A continuación se ofrece una explicación de cada una de ellas.
+
+Competencia específica 1 (C1).
+
+El desarrollo de esta competencia resulta de vital relevancia en cuanto que percibir, reconocer y comprender nuestras emociones permiten conseguir un bienestar personal. El modo en que manifestamos y procesamos nuestro ser emocional es un primer proceso que influirá en el buen desarrollo del autoconcepto, la autoestima y la autoconciencia emocional que nos permitirá vehiculizar nuestras manifestaciones emocionales para sentirnos mejor, ser capaces de regularlas y poder vincularnos posteriormente de manera constructiva con las demás personas y el entorno, de forma consciente, sostenible y respetuosa.
+
+Competencia específica 2 (C2).
+
+Con el desarrollo de esta competencia, se parte de la conciencia emocional para aprender a regular las emociones, ajustándolas, aceptándolas y responsabilizándose de ellas. La regulación emocional nos permite tomar conciencia de la relación que existe entre la emoción, las sensaciones físicas, el pensamiento y el comportamiento, haciendo frente a situaciones divergentes con eficiencia, para luego, dentro del proceso de reciclaje emocional, poder sustituirlas o transformarlas, de manera autónoma y consciente, por otras que generen un cambio emocional positivo y adaptativo.
+
+Competencia específica 3 (C3).
+
+Con el desarrollo de esta competencia, se aborda la empatía como capacidad que cumple una función de adaptación a nivel social, permitiendo conectar con los demás y comprendiendo el mundo interno de otras personas. Al compartir y experimentar las emociones nos convertimos en personas más asertivas y comprensivas, ya que aprender a escuchar activamente es una de las tareas más importantes que pueden transformar relaciones y mejorar nuestra perspectiva. Comprender y ponerse en el lugar de las demás personas, y mantener una comunicación emocionalmente sana fomentan la creación de vínculos afectivos que nos permitan diseñar, ejecutar y evaluar proyectos comunes a favor de personas, instituciones, problemáticas sociales y del medioambiente que tengan un carácter ético y que se orienten desde valores relacionados con el bienestar personal, social y el desarrollo humano.
+
+Competencia específica 4 (C4).
+
+Los puntos claves a tratar en la competencia específica son el fomento de la autoconfianza creativa y la promoción del compromiso social de carácter emprendedor, con la finalidad de crear sujetos críticos, activos, participativos e innovadores. La creatividad es importante para que el alumnado amplíe su conciencia y percepción del mundo que lo rodea, ayudándolo a crear ideas nuevas y útiles para desenvolverse en su día a día, y promoviendo un ambiente rico y estimulante donde se desarrolle la motivación, la capacidad crítica y la curiosidad. Además, contribuye en el desarrollo de la expresión de su creatividad a través del compromiso afectivo con las demás personas, generando comportamientos de ayuda, colaboración y altruismo.
+
+Saberes básicos.
+
+Los saberes básicos del área aparecen integrados tanto en los criterios de evaluación como en las explicaciones de los bloques competenciales. No obstante, quedan establecidos, organizados y secuenciados, a continuación de los mismos.
+
+Se han establecido cinco bloques de saberes básicos. Los tres primeros corresponden a las competencias específicas C1 C2 y C3 respectivamente, mientras que los bloques IV y V se relacionan directamente con la competencia específica C4. Los saberes básicos del área de Educación Emocional y para la Creatividad no constituyen bloques independientes, sino que están interrelacionados, tienen como base nuclear los recogidos en el Bloque I y, sobre estos, se construyen los demás.
+
+La conciencia emocional conforma uno de los pilares fundamentales del área de Educación Emocional y para la creatividad. En el Bloque I, “Conciencia emocional: percepción, identificación, comprensión y aceptación responsable de las propias emociones”, se recoge el conjunto de saberes vinculados con la aplicación multimodal y el uso de estrategias inclusivas con el fin de contribuir a la integración de vocabulario emocional, identificación, categorización, percepción, reconocimiento, comprensión y expresión de las emociones; que puedan ser utilizadas en los diferentes contextos para tomar conciencia de las propias emociones y contribuir al autodescubrimiento.
+
+En el Bloque II, “Autorregulación emocional responsable y resiliencia educativa”, se orienta a la importancia de gestionar y regular las experiencias emocionales propias de manera adecuada, utilizando mecanismos y procesos ante la aparición de una emoción desajustada tanto adaptativa como desadaptativa, responsabilizándose, así como asumiendo nuestras acciones y adquiriendo un compromiso personal para el cambio. Todo ello supone implementar estrategias emocionales, controlando las propias emociones o reciclándolas (sustituyéndolas o transformándolas), para la resiliencia emocional y la automotivación; y cultivar la tolerancia a la frustración y la espera de las gratificaciones, el desarrollo de la autoestima, la práctica de habilidades socioemocionales y para la vida, permitiendo la adaptación a los entornos y contextos interpersonales e intrapersonales.
+
+El Bloque III, “Empatía, comunicación e interacción socioemocional”, presta atención a la vinculación emocional para que las relaciones alcancen el impacto deseado en la propia persona y en las demás, desarrollando estrategias que nos permiten comunicarnos con las emociones de una forma adecuada. Para ello, es necesario desarrollar la escucha activa, la empatía, el diálogo reflexivo, la comunicación afectiva, con el fin de integrar y utilizar estrategias personales para crear un clima emocional apropiado que favorezca el vínculo afectivo y efectivo.
+
+El Bloque IV, “Autoconfianza creativa: técnicas creativas aplicadas a múltiples lenguajes expresivos y estimulación multisensorial”, favorece la aplicación de técnicas para que el alumnado incremente su potencial creativo atendiendo a la dimensión holística de la persona (cognitiva, afectiva, social, motriz…). En ese sentido, es primordial trabajar la autoconfianza en las propias capacidades creativas, superando los aspectos sociales y personales que la obstaculizan.
+
+Por último, el Bloque V, “Emprendeduría social: compromiso y vínculo con las personas como recurso de la creatividad emocional”, se orienta al desarrollo del espíritu emprendedor desde una vertiente social y de compromiso con las otras personas. Este bloque está profundamente vinculado al anterior, porque los procesos creativos comportan la capacidad de identificar los estados emocionales y gestionarlos adecuadamente para superar las dificultades implícitas en la generación de un proyecto personal, social, medioambiental…, que aporte bienestar a la comunidad. Se pretende formar personas capaces de ser agentes de cambio, que lideren soluciones a grandes desafíos, se comprometan conjuntamente y pongan la innovación al servicio del cambio social, generando proyectos creativos, sostenibles y viables en el entorno que les rodea.
+
+Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos.
+
+Las competencias específicas explicitan desempeños que el alumnado debe poder llevar a cabo en situaciones de aprendizaje para cuyo abordaje se requieren los saberes básicos de cada área, dentro de un marco de atención inclusiva a las diferencias individuales, y a las singularidades y necesidades de cada alumno o alumna. La implementación del currículo del área implica, por tanto, la definición, por parte del profesorado, de estas situaciones de aprendizaje contextualizadas.
+
+El modelo pedagógico canario se nutre de una premisa crucial: la necesaria integración de la evaluación en el proceso de planificación y diseño de estas situaciones de aprendizaje, para asegurar una evaluación competencial del alumnado. Es necesario, por tanto, que el profesorado utilice variedad de instrumentos, técnicas y herramientas de evaluación, en diferentes contextos, con soportes y formatos diversos, que permitan que el alumnado pueda demostrar lo que sabe, lo que siente y piensa, lo que puede hacer…, atendiéndose así, de manera inclusiva, a la diversidad del alumnado, a su ritmo de aprendizaje y a su forma de aprender.
+
+Desde el área de Educación Emocional y para la Creatividad, se realiza una propuesta curricular flexible, basada en los principios del DUA (Diseño Universal para el Aprendizaje), que se ajusta a las necesidades y diferentes ritmos de aprendizaje del alumnado. Desde este enfoque, la intervención educativa, bajo el parámetro de la inclusividad, gira en torno al centro y a la comunidad educativa con un currículo común para todo el alumnado.
+
+En una situación de aprendizaje competencial se concretan y evalúan las experiencias de aprendizaje. Para que estas experiencias de aprendizaje sean competenciales el docente o la docente debe diseñar tareas y actividades útiles y funcionales para el alumnado, situadas o simulando contextos cercanos o familiares, significativos, que le supongan retos y desafíos, y que despierten la motivación, el deseo y la curiosidad por seguir aprendiendo. Además, estas experiencias de aprendizaje tienen que implicar el uso de diversos recursos, que potencien el desarrollo de procesos cognitivos, emocionales y psicomotrices en el alumnado; que favorezcan diferentes tipos de agrupamiento; y que proporcionen múltiples formas de implicación, de representación y de expresión, favoreciendo una inclusión educativa real, donde se atienda de manera personalizada e individualmente al discente y donde seamos capaces de prevenir las dificultades, y permitiendo que el alumnado vaya asumiendo responsabilidades personales progresivamente y actúe de forma cooperativa en la resolución creativa de los retos planteados, para generar aprendizajes más transferibles, significativos y duraderos. Así se favorecerá, la progresiva adquisición de la autonomía personal y la seguridad afectiva y emocional, contribuyendo, de esta forma, a una buena gestión del clima del aula.
+
+Los modelos de enseñanza deberán perseguir que el alumnado sea el protagonista principal de la construcción del conocimiento en un entorno colaborativo, dinámico, flexible y seguro, dándole por tanto al profesorado un papel de guía, motivador del proceso de enseñanza-aprendizaje y facilitador de estrategias para desarrollo competencial del alumnado. Además, dichos modelos deben enfocarse en la realización de tareas con un diseño flexible, diversificando recursos que promuevan la curiosidad natural y el uso de distintos tipos de conocimientos, destrezas, actitudes y valores.
+
+La inclusión del alumnado será un aspecto crucial a la hora de diseñar y planificar las diferentes actividades y experiencias, respetando los distintos ritmos y estilos de aprendizaje mediante prácticas de trabajo individual y cooperativo. Además, es necesario secuenciar la enseñanza de tal modo que se parta de aprendizajes más simples para avanzar gradualmente hacia otros más complejos. Para potenciar la motivación por el aprendizaje de competencias se requieren, además, metodologías activas y contextualizadas.
+
+El área de Educación Emocional y para la Creatividad debe actuar como eje vertebrador integrando el resto de aprendizajes y favoreciendo la elaboración de situaciones de aprendizaje que supongan el desarrollo coordinado, conjunto e interdisciplinar de los saberes básicos de las diferentes áreas para dar respuesta a un reto o problema personal, del entorno físico, natural, social, cultural o tecnológico; también contribuirá al desarrollo de aspectos relacionados con el interés común, la sostenibilidad, la igualdad de oportunidades y la convivencia democrática, esenciales para que el alumnado se prepare para responder con eficacia y afectividad a los retos que se plantee en su futuro.
+
+Este tipo de diseños fomentará la creatividad y la innovación, pero, además, la consolidación del autoconocimiento, la capacidad de “reciclaje emocional”, la adquisición de la empatía que nos ayuda a ser conscientes de la necesidad natural de asumir el sentido de compromiso hacia los intereses propios y hacia los demás, generando vínculos emocionales fácilmente exportables a su entorno más cercano.
+
+Primer ciclo Educación Primaria
+
+Bloques competenciales
+
+Ver anexo en las páginas 45637-45640 del documento
+                        Descargar
+
+Saberes básicos
+
+I. Conciencia emocional: percepción, identificación, comprensión y aceptación responsable de las propias emociones.
+
+1. Percepción de sensaciones y emociones propias, según diversas cualidades de estas (agradables o desagradables; duración mantenida…), a través de lenguajes multimodales.
+
+2. Observación e identificación, con acompañamiento, a partir de gestos, miradas, respiración, desplazamiento…, en relación con determinadas situaciones espontáneas.
+
+3. Identificación de sus emociones en relación con el suceso desencadenante en contextos de su vida diaria, a través de experiencias vivenciadas en el aula con diferentes juegos y lenguajes multimodales.
+
+4. Adquisición de vocabulario relacionado con sensaciones: respiración pausada-agitada, gestos faciales tensos-relajados, manos sudorosas-secas, agitación-relajación corporal, mirada serena-inquieta…, con la finalidad de expresarnos.
+
+5. Comunicación de las propias sensaciones, a través de la utilización de la expresión lingüística, cultural, artística creativa, corporal…, proporcionando múltiples formas de implicación, representación y expresión, con el fin de tener una mayor conciencia de nuestras sensaciones.
+
+6. Experimentación con herramientas y estrategias de autoconocimiento emocional que faciliten habilidades que permitan al alumnado (mediante la simulación y el juego en diferentes contextos de la vida escolar), reconocer eficazmente sus emociones.
+
+7. Vivenciar sus emociones de manera efectiva y adaptativa, a través de experiencias de juego en el ámbito escolar con la finalidad de reconocerlas y aceptarlas.
+
+II. Autorregulación emocional responsable y resiliencia educativa.
+
+1. Actuación con responsabilidad en contextos cercanos adquiriendo compromiso personal en el trabajo grupal.
+
+2. Representación de las emociones para acercarnos a su sensación y reconocimiento, y dar una respuesta ajustada que favorezca un desarrollo afectivo adecuado, a través de: el juego de roles simbólicos y dramáticos, las adivinanzas mímicas, la lectura de caricaturas, las imágenes en películas y el modelaje.
+
+3. Iniciación en el desarrollo del pensamiento alternativo generando el mayor número de posibilidades, con la finalidad de establecer una relación entre las experiencias emocionales para uno mismo, los demás o el entorno.
+
+4. Observación y reconocimiento de los elementos conformadores de una norma y una regla en situaciones de juego y en la vida escolar y social (p. ej.: reglas en el juego del parchís, normas de tráfico…), para una convivencia organizada y pacífica propiciadora de emociones agradables.
+
+5. Entrenamiento y estrategias de regulación emocional: toma de conciencia de los movimientos respiratorios: inspiración, pausa, espiración, pausa, de manera guiada, mindfulness…
+
+6. Introducción a la regulación de la impulsividad, la ansiedad y el estrés desde la comunicación y expresión gestual, oral y artística, y desde el silencio y la quietud.
+
+7. Tolerancia a la frustración: iniciación al aprendizaje en la afirmación personal (planteamiento y aceptación del “sí” y del “no”) y petición de ayuda a personas adultas.
+
+8. Introducción a la visualización de imágenes portadoras de vitalidad y dinamismo.
+
+9. Descubrimiento de la motivación con perseverancia en los actos, utilizando el esfuerzo como un valor de superación.
+
+10. Observación de hechos y realidades positivas que existen a nuestro alrededor para superar la negatividad, aplicando la alegría y el sentido del humor como estrategia de afrontamiento de la adversidad para adaptarse a las situaciones adversas y favorecer una actitud positiva ante la vida.
+
+III. Empatía, comunicación e interacción socioemocional.
+
+1. Comunicación de los efectos en sus emociones a partir de su interacción e interdependencia con las demás personas, el medio y los objetos, identificando y comprendiendo las señales emociones en las otras personas para desarrollar una relación interpersonal que favorezca el respeto a la convivencia.
+
+2. Identificación y expresión de las emociones propias y de las otras personas ante un hecho que las produce, y de sus consecuencias responsables, haciendo uso de herramientas múltiples y lenguajes diversos en el contexto escolar.
+
+3. Exploración, de manera guiada, de diversos recursos y estrategias favorecedoras del diálogo reflexivo (mensajes-yo) y de la comunicación interpersonal sin estilos agresivos, que propicien una escucha afectiva que permita la aceptación de las emociones de la otra persona.
+
+4. Reconocimiento en otras personas de señales corporales asociadas a experiencias emocionales.
+
+5. Manifestación de apertura sensible hacia los sentimientos que experimentan las demás personas.
+
+IV. Autoconfianza creativa: técnicas creativas aplicadas a múltiples lenguajes expresivos y estimulación multisensorial.
+
+1. Identificación y experimentación de diferentes técnicas con utilización de múltiples formas de expresión como herramienta de trabajo individual y grupal para generar ideas creativas.
+
+2. Iniciación en el entrenamiento creativo a partir de la búsqueda de ideas alternativas, diferentes e inusuales y la asociación novedosa y extraña entre ideas.
+
+3. Descubrimiento y combinación de múltiples lenguajes expresivos y representativos, utilizando diferentes soportes para comunicarse de manera creativa en diferentes contextos.
+
+4. Autoafirmación del propio potencial creativo, a partir de la expresión oral y artística de las frustraciones, sensaciones, opiniones…, valorando positivamente las producciones originales e innovadoras propias y de otras personas.
+
+5. Observación de sus emociones ante las creaciones y producciones propias y de las de otras personas.
+
+6. Percepción de los obstáculos sociales que limitan la propia capacidad creativa, a partir de la vivencia corporal u otros recursos asistenciales; e identificación de los aspectos afectivos implicados: el miedo, el conformismo, la vergüenza, la obediencia…
+
+7. Estimulación multisensorial para el desarrollo de la sensibilidad, a partir del conocimiento y uso del juego libre con objetos y la exploración a través de los sentidos.
+
+8. Expresión multimodal (representación gráfica, artística, verbalización, tecnologías o herramientas asistenciales…) de las emociones experimentadas a través del juego y la experiencia sensorial.
+
+9. Interés por las experiencias e ideas comunes y receptividad frente a lo diferente, lo nuevo o lo alternativo, que rompan estereotipos y fomenten la actitud crítica.
+
+V. Emprendeduría social: compromiso y vínculo con las personas como recurso de la creatividad emocional
+
+1. Capacidad de compromiso con un objetivo o proyecto común con las otras personas e identificación de diversas conductas prosociales.
+
+2. Identificación de las consecuencias y los efectos de los vínculos emocionales establecidos con las demás personas, evitando la procrastinación en el cumplimiento de los compromisos adquiridos en relación con proyectos personales y colectivos.
+
+3. Descubrimiento de las fases de creación: motivación, preparación y recogida de información, incubación, inspiración o iluminación, evaluación y elaboración.
+
+4. Planteamiento de preguntas curiosas, alternativas y complejas en la búsqueda de temas de trabajo: fomento de la “mirada curiosa”.
+
+5. Identificación de habilidades de trabajo cooperativo: elaboración de propuestas, aceptación de las de otras personas, logro de consensos y concreción de procesos de ejecución.
+
+6. Fomento de la autonomía y capacidad para tomar decisiones, con la finalidad de crear proyectos sociales innovadores sencillos con objetivos compartidos.
+
+Segundo ciclo Educación Primaria
+
+Bloques competenciales
+
+Ver anexo en las páginas 45644-45647 del documento
+                        Descargar
+
+Saberes básicos
+
+I. Conciencia emocional: percepción, identificación, comprensión y aceptación responsable de las propias emociones.
+
+1. Iniciación en la toma de conciencia de sus propios estados para favorecer el descubrimiento del diálogo interno.
+
+2. Reconocimiento de sensaciones y emociones propias, según diversas cualidades de estas (agradables o desagradables; duración mantenida…), a través de lenguajes multimodales, así como de las causas y las consecuencias de las mismas e identificación de las propias virtudes, limitaciones y capacidades.
+
+3. Observación e identificación a partir de gestos, mirada, respiración, desplazamiento…, en relación con determinadas situaciones propuestas o experimentadas.
+
+4. Identificación y explicación de las emociones ante los hechos y las consecuencias responsables, comunicándolos a través de lenguajes multimodales.
+
+5. Adquisición y utilización de vocabulario relacionado con sensaciones: respiración pausada-agitada, gestos faciales tensos-relajados, manos sudorosas-secas, agitación-relajación corporal, mirada serena-inquieta…, con la finalidad de expresarnos y desarrollar el autoconocimiento.
+
+6. Comunicación de las propias sensaciones a través de la utilización de la expresión lingüística, cultural, artística creativa, corporal, proporcionando múltiples formas de implicación, representación y expresión…, con el fin de percibir las emociones adecuadas a través de lenguajes multimodales.
+
+7. Experimentación con herramientas y estrategias de autoconocimiento emocional que faciliten habilidades que permitan al alumnado reconocer eficazmente sus emociones en los diferentes contextos de la vida escolar.
+
+8. Vivenciar sus emociones de manera efectiva y adaptativa, a través de múltiples experiencias en el ámbito escolar, con la finalidad de reconocer y comenzar a comprenderlas.
+
+II. Autorregulación emocional responsable y resiliencia educativa.
+
+1. Reconocimiento del sentido de responsabilidad respecto a las consecuencias de la propia conducta, en contraposición al sentimiento de culpa, dañino hacia la propia persona o hacia las demás.
+
+2. Actuación responsable y comprometida en actividades del contexto escolar y social, valorando el cumplimiento de las normas de convivencia en distintos contextos para una convivencia organizada y pacífica, y propiciadora de emociones adaptativas.
+
+3. Expresión y control de las propias emociones, en pro de una convivencia positiva con el resto de personas, aplicando  habilidades del pensamiento y de rutinas como: “comparto, agradezco y me comprometo”, para ejercitar el sentido crítico y la autonomía e iniciativa en la toma de decisiones en el grupo de iguales y con las personas adultas.
+
+4. Aplicación de habilidades cognitivas tales como el pensamiento causal, alternativo, consecuencial y medio-fin, como estrategia para establecer una relación entre las experiencias emocionales, las consecuencias de ellas y los efectos dañinos para la propia persona, las demás o el entorno.
+
+5. Gestionar las propias emociones: reconocer las sensaciones que producen y proporcionar una respuesta ajustada a las mismas, que favorezca un desarrollo afectivo adecuado a través de múltiples formas de representación y expresión, aplicando diferentes estrategias para la prevención y solución pacífica de conflictos.
+
+6. Entrenamiento en estrategias para la regulación emocional: toma de conciencia de manera autónoma de los movimientos respiratorios (inspiración, pausa, espiración, pausa) y manejo del propio cuerpo utilizando la relajación como estrategia de regulación emocional (relajación muscular progresiva, entrenamiento autógeno, técnicas de meditación, mindfulness…).
+
+7. Regulación de la impulsividad, la ansiedad y el estrés desde la comunicación y expresión gestual, oral y artística, y desde el silencio y la quietud.
+
+8. Tolerancia a la frustración mediante la integración de habilidades que permitan el desarrollo de la afirmación personal: planteamiento y aceptación del “sí” y del “no”. Petición de ayuda y acompañamiento a sus iguales y a personas adultas.
+
+9. Utilización del error como recurso de aprendizaje y del perdón como recurso emocional en relación con uno mismo o una misma, y con las demás personas.
+
+10. Reflexión sobre los cambios emocionales producidos y regulados con la visualización de imágenes generadoras de vitalidad y dinamismo para producir una mejora en el clima de convivencia en diferentes contextos.
+
+11. Interpretación de hechos y realidades positivas que existen a nuestro alrededor para superar la negatividad, utilizando la alegría y el sentido del humor como estrategias para afrontar la adversidad, favorecer una actitud positiva ante la vida y adaptarse a las situaciones adversas.
+
+III. Empatía, comunicación e interacción socioemocional.
+
+1. Comunicación de los efectos en sus emociones a partir de su interacción e interdependencia con las demás personas y el medio y los objetos, identificando, comprendiendo e interpretando, de manera empática, las señales emocionales en las otras personas para desarrollar una relación interpersonal que favorezca el respeto a la convivencia.
+
+2. Observación y valoración de las emociones propias y de las otras personas ante un hecho que las produce y sus consecuencias responsables, haciendo uso de herramientas múltiples, lenguajes diversos y tecnologías asistenciales en el contexto escolar.
+
+3. Experimentación de diversos recursos y estrategias favorecedoras del diálogo reflexivo (mensajes-yo) y de la comunicación asertiva sin estilos agresivos y pasivos, que permitan la escucha activa y el uso de un lenguaje emocional que favorezca un diálogo ágil y efectivo.
+
+4. Iniciarse en el desarrollo de la habilidad cognitiva de perspectiva, desde el punto de vista de la otra persona, para situarse en su lugar en diversos contextos sociales.
+
+5. Identificación en los demás e interpretación de señales corporales asociadas a experiencias emocionales.
+
+6. Manifestación de apertura sensible hacia los sentimientos que experimentan las demás personas.
+
+7. Descubrimiento de estrategias personales para evitar el estrés empático.
+
+IV. Autoconfianza creativa: técnicas creativas aplicadas a múltiples lenguajes expresivos y estimulación multisensorial.
+
+1. Experimentación de diferentes técnicas y utilización de múltiples formas de expresión como herramientas de trabajo individual y grupal para generar ideas creativas.
+
+2. Desarrollo de técnicas aplicadas al entrenamiento creativo a partir de la búsqueda de ideas alternativas, diferentes e inusuales, y de la asociación novedosa y extraña entre ideas.
+
+3. Experimentación y combinación de múltiples lenguajes expresivos y representativos utilizando diferentes soportes, para comunicarse de manera creativa en diferentes contextos.
+
+4. Autoafirmación del propio potencial creativo comenzando a transmitir una actitud abierta hacia lo original y lo diferente, y valorando positivamente las producciones individuales y grupales.
+
+5. Observación y reflexión de sus emociones ante las creaciones y producciones propias y de otras personas.
+
+6. Descubrimiento de los obstáculos sociales que limitan la capacidad creativa, tomando conciencia de los aspectos afectivos implicados.
+
+7. Desarrollo de la sensibilidad, la investigación y la búsqueda de formas alternativas de pensamiento, a través de la estimulación sensorial, el juego libre con objetos y el desarrollo y la investigación a través de los sentidos.
+
+8. Expresión multimodal de las emociones experimentadas a través del juego y de la experiencia sensorial.
+
+9. Interés por las experiencias e ideas comunes y receptividad frente a lo diferente, lo nuevo o lo alternativo, que rompan estereotipos y fomenten la actitud crítica.
+
+V. Emprendeduría social: compromiso y vínculo con las personas como recurso de la creatividad emocional.
+
+1. Capacidad de compromiso con un objetivo o proyecto común y desarrollo de diversas conductas prosociales (ayuda, solidaridad, altruismo…).
+
+2. Asunción de las consecuencias y los efectos de los vínculos emocionales establecidos con las demás personas; y evitación de la procrastinación en el cumplimiento de los compromisos adquiridos en relación con proyectos personales y colectivos.
+
+3. Experimentación con las fases de creación: motivación, preparación y recogida de información, incubación, inspiración o iluminación, evaluación y elaboración.
+
+4. Elaboración de preguntas curiosas, alternativas y complejas en la búsqueda de temas de trabajo: fomento de la “mirada curiosa”.
+
+5. Desarrollo de habilidades de trabajo cooperativo. Elaboración de propuestas, aceptación de las de otras personas, logro de consensos y concreción de procesos de ejecución.
+
+6. Fomento de la autonomía e implicación en la toma de decisiones, para lograr la creación de proyectos sociales innovadores con objetivos compartidos.
+
+Tercer ciclo Educación Primaria
+
+Bloques competenciales
+
+Ver anexo en las páginas 45652-45655 del documento
+                        Descargar
+
+Saberes básicos
+
+I. Conciencia emocional: percepción, identificación, comprensión y aceptación responsable de las propias emociones.
+
+1. Iniciación en los elementos básicos de la comunicación asertiva para favorecer el diálogo, evitando actitudes agresivas o pasivas.
+
+2. Aceptación de sus propios estados para favorecer el descubrimiento del diálogo interno en la toma de conciencia.
+
+3. Comprensión de sensaciones y emociones propias, según diversas cualidades de estas (agradables o desagradables, duración mantenida…), a través de lenguajes multimodales, así como de las causas y consecuencias de las mismas, e identificación de las propias virtudes, limitaciones y capacidades.
+
+4. Observación e identificación de respuestas emocionales a determinadas situaciones espontáneas (gestos, mirada, respiración, desplazamiento…).
+
+5. Identificación, comprensión, razonamiento, descripción y evaluación de las emociones originadas en relación con los sucesos desencadenantes en contextos de su vida diaria, a través de experiencias vivenciadas en el aula con diferentes lenguajes multimodales.
+
+6. Conocimiento de recursos y estrategias favorecedoras del diálogo reflexivo (su yo y el mundo y la conexión con las otras personas, escucha activa, mensajes-yo…), a través del modelaje o role play en diferentes situaciones escolares.
+
+7. Utilización de vocabulario relacionado con sensaciones: respiración pausada-agitada, gestos faciales tensos-relajados, manos sudorosas-secas, agitación-relajación corporal, mirada serena-inquieta….
+
+8. Comunicación de las propias sensaciones y emociones a través de la utilización de la expresión lingüística, cultural, artística creativa o corporal, proporcionando múltiples formas de implicación, representación y expresión…, con el fin de comprender las emociones adecuadas mediante el empleo de lenguajes multimodales.
+
+9. Manejo de herramientas y estrategias de autoconocimiento emocional que faciliten la gestión eficaz de sus emociones en los diferentes contextos de la vida escolar o social.
+
+10. Vivenciar sus emociones de manera efectiva y adaptativa, a través de múltiples experiencias en el ámbito escolar, con la finalidad de comprenderlas y comenzar a responsabilizarse de la gestión de las mismas.
+
+II. Autorregulación emocional responsable y resiliencia educativa.
+
+1. Reconocimiento del sentido de responsabilidad respecto a las consecuencias de la propia conducta, en contraposición al sentimiento de culpa, dañino hacia la propia persona o hacia las demás personas.
+
+2. Actuación responsable y comprometida en actividades del contexto escolar y social, valorando el cumplimiento de las normas de convivencia en distintos contextos para una convivencia organizada y pacífica, propiciadora de emociones adaptativas.
+
+3. Expresión y control de las propias emociones, en pro de una convivencia positiva con el resto de personas, aplicando habilidades del pensamiento y de rutinas como: “comparto, agradezco y me comprometo”, para ejercitar el sentido crítico y la autonomía e iniciativa en la toma de decisiones en el grupo de iguales y con las personas adultas.
+
+4. Aplicación de habilidades cognitivas tales como el pensamiento causal, alternativo, consecuencial y medio-fin, como estrategia para establecer una relación entre las experiencias emocionales, las consecuencias de ellas y los efectos dañinos para las propias personas, las demás o el entorno.
+
+5. Gestionar las propias emociones: reconocer las sensaciones que producen y proporcionar una respuesta ajustada a las mismas, que favorezca un desarrollo afectivo adecuado a través de múltiples formas de representación y expresión, aplicando diferentes estrategias para la prevención y solución pacífica de conflictos.
+
+6. Entrenamiento en estrategias para la regulación emocional: toma de conciencia de manera autónoma de los movimientos respiratorios (inspiración, pausa, espiración, pausa) y manejo del propio cuerpo utilizando la relajación como estrategia de regulación emocional (relajación muscular progresiva, entrenamiento autógeno, técnicas de meditación, mindfulness…).
+
+7. Regulación de la impulsividad, de la ansiedad y del estrés desde la comunicación y expresión gestual, oral y artística, y desde el silencio y la quietud.
+
+8. Tolerancia a la frustración mediante la integración de habilidades que permitan el desarrollo de la afirmación personal.
+
+9. Utilización del error como recurso de aprendizaje y del perdón como recurso emocional en relación con uno mismo o una misma, y a las demás personas.
+
+10. Reflexión sobre los cambios emocionales producidos y regulados con la visualización de imágenes generadoras de vitalidad y dinamismo para producir una mejora en el clima de convivencia en diferentes contextos.
+
+11. Reconocimiento de emociones adaptativas y desadaptativas a través de la toma de conciencia, la reflexión, el uso de estrategias de regulación… Aceptación de las emociones desadaptativas y empleo de emociones transformadoras (el amor, la compasión, el perdón….) como respuesta a estas, usando estrategias de sustitución/compensación emocional (contracondicionamiento, imaginación, modificación corporal, visualización positiva o sugestión afectiva).
+
+12. Valoración de hechos y realidades positivas que existen a nuestro alrededor para superar la negatividad, sirviéndose de la alegría y el sentido del humor como estrategias para afrontar la adversidad, favorecer una actitud positiva ante la vida y adaptarse a las situaciones adversas.
+
+III. Empatía, comunicación e interacción socioemocional.
+
+1. Comunicación de los efectos en sus emociones a partir de su interacción e interdependencia con las demás personas, el medio y los objetos, identificando, comprendiendo, interpretando y evaluando, de manera empática, las señales emocionales en las otras personas para desarrollar una relación interpersonal que posibilite el respeto a la convivencia.
+
+2. Incorporación y selección de diversos recursos y estrategias favorecedoras del diálogo reflexivo (mensajes-yo) y de la comunicación asertiva sin estilos agresivos y pasivos, favoreciendo la escucha activa y el uso de un lenguaje emocional que facilite un diálogo ágil y efectivo.
+
+3. Reproducción de habilidades y estrategias que permitan el desarrollo de la comunicación afectiva: atención conjunta, comprensión de las expresiones emocionales, la escucha activa (aceptación y validación emocional) en contextos sociales, para propiciar la apertura emocional y la autenticidad.
+
+4. Uso de la habilidad cognitiva de perspectiva, desde el punto de vista de la otra persona, para situarse en su lugar en diversos contextos sociales.
+
+5. Detección en los demás de señales corporales asociadas a experiencias emocionales y su interpretación.
+
+6. Manifestación de apertura sensible hacia los sentimientos que experimentan las demás personas.
+
+7. Utilización de estrategias personales para evitar el estrés empático.
+
+IV. Autoconfianza creativa: técnicas creativas aplicadas a múltiples lenguajes expresivos y estimulación multisensorial.
+
+1. Aplicación de las técnicas y destrezas para la producción de ideas o soluciones innovadoras y utilización de múltiples formas de expresión como herramientas de trabajo individual y grupal para generar ideas creativas.
+
+2. Empleo de técnicas aplicadas al entrenamiento creativo, a partir de la búsqueda de ideas alternativas, diferentes e inusuales, y a la asociación novedosa y extraña entre ideas.
+
+3. Aplicación y combinación de múltiples lenguajes expresivos y representativos, utilizando diferentes soportes para comunicarse de manera creativa en diferentes contextos.
+
+4. Autoafirmación del propio potencial creativo, manifestando, de forma asertiva, una actitud abierta hacia lo original, lo diferente…, y valorando positivamente las producciones individuales y grupales.
+
+5. Observación y reflexión de sus emociones ante las creaciones y producciones propias y de otras personas.
+
+6. Análisis de los obstáculos sociales que limitan la capacidad creativa referentes a los tópicos y prejuicios vinculados a la creatividad.
+
+7. Estimulación multisensorial para el desarrollo de la sensibilidad, la investigación y la búsqueda de formas alternativas de pensamiento: juego libre, exploración, desarrollo e investigación de los sentidos.
+
+8. Expresión multimodal (verbalización, representación gráfica, escrita, artística, tecnologías o herramientas asistenciales…) de las emociones experimentadas a través del juego y la experiencia sensorial.
+
+9. Creación de ideas innovadoras que den respuesta al cambio, utilizando destrezas creativas para identificar y proponer ideas o soluciones originales, y tomando conciencia de las consecuencias y efectos que estas ideas puedan generar en el entorno.
+
+10. Interés por las experiencias e ideas comunes, y receptividad frente a lo diferente, lo nuevo o lo alternativo, rompiendo estereotipos y fomentando la actitud crítica.
+
+V. Emprendeduría social: compromiso y vínculo con las personas como recurso de la creatividad emocional.
+
+1. Capacidad de compromiso con un objetivo o proyecto común, y puesta en acción de diversas conductas prosociales (ayuda, solidaridad, altruismo…).
+
+2. Asunción de las consecuencias y los efectos de los vínculos emocionales; y evitación de la procrastinación en el cumplimiento de los compromisos adquiridos en relación a proyectos personales y colectivos.
+
+3. Aplicación de las fases de creación: motivación, preparación y recogida de información, incubación, inspiración o iluminación, evaluación y elaboración.
+
+4. Creación de preguntas curiosas, alternativas y complejas en la búsqueda de temas de trabajo: fomento de la “mirada curiosa”.
+
+5. Adquisición de habilidades de trabajo cooperativo: elaboración de propuestas, aceptación de las de otras personas, logro de consensos y concreción de procesos de ejecución.
+
+6. Desarrollo de la autonomía e implicación en la toma de decisiones.
+
+7. Iniciación en el planteamiento de un proyecto de marketing personal creativo, a partir de la reflexión de las fortalezas personales (asertividad, disponibilidad para el trabajo en equipo, liderazgo, versatilidad, valor ético, autenticidad…), para ponerse al servicio de la sociedad.
+
+
+### Educación física
+
+Introducción.
+
+La Educación Física en la etapa de Educación Primaria tiene un papel fundamental en la preparación del alumnado para integrarse en la sociedad del siglo XXI, vivenciando diferentes situaciones motrices y corporales de carácter lúdico, artístico-expresivo, deportivo y de la cultura canaria, que permitan la consolidación de un estilo de vida activo y saludable, al que se transfieran los aprendizajes relativos a la práctica regular de actividades físicas y deportivas; se adopten comportamientos que potencien las medidas de responsabilidad individual y colectiva durante la práctica motriz, interiorizando hábitos de actividad física sistemática que contribuyan al bienestar y el desarrollo integral de la persona a través de aspectos cognitivos, motores, afectivos, sociales y motivacionales. Todo esto vendrá determinado por actitudes ecosocialmente responsables y comprometidas con el cuidado del entorno, así como con la autonomía ante la toma de decisiones que se genera en relación a las diferentes experiencias motrices, fomentando la igualdad, donde el alumnado desempeñe un papel fundamental en su propio aprendizaje.
+
+El área contribuye al Perfil de salida a través del desarrollo de los distintos descriptores de las competencias clave, recogidos en cada una de las competencias específicas y, por tanto, en los diferentes criterios de evaluación, potenciando que el alumnado alcance el pleno desarrollo personal y social desde la competencia motriz, ajustándose a las demandas actuales de la sociedad.
+
+Además colabora en la consecución de la mayor parte de los objetivos de etapa, incidiendo en que el alumnado consolide un estilo de vida activo, saludable y ecosocialmente responsable teniendo en cuenta las particulares características del territorio canario, gestione sus emociones, tome decisiones con autonomía en distintas situaciones motrices y desarrolle habilidades sociales y actitudes de cooperación, respeto, trabajo en equipo y deportividad, con independencia de las diferencias étnico-culturales, sociales, de género y de habilidad de las personas participantes, para contribuir a la convivencia social y al compromiso ético en los diferentes espacios en los que se participa. De la misma manera, el área de Educación Física, presenta un especial interés por valorar, conservar y transmitir la cultura motriz de Canarias, donde además se aproveche la diversidad cultural para experimentar distintas situaciones motrices propias de otras culturas, ya sean a través de los juegos motores, los deportes o los bailes tradicionales.
+
+Los saberes propios de Canarias se han incluido en el currículo del área desde un enfoque centrado en la educación patrimonial. Este enfoque presenta un carácter globalizador y transversal, y nace con la premisa de concienciar y sensibilizar al alumnado canario de la importancia del cuidado, disfrute y transmisión del patrimonio, pone el acento en la identificación y puesta en valor del mismo como parte inseparable de la sociedad, y apuesta por la implicación de la ciudadanía para lograr su sostenibilidad y la de los valores que en él perduran.
+
+De esta manera, a lo largo de la Educación Primaria, el alumnado se acerca de manera gradual a estos aprendizajes, propiciándose la inserción, en los currículos de las diferentes áreas de la etapa, de contextos de aprendizaje en torno al patrimonio cultural canario, que promuevan la participación de los niños y las niñas, para que lo conozcan, disfruten y valoren, contribuyendo así a su sensibilización, respeto y conservación.
+
+Contribución a los objetivos de etapa.
+
+La Educación Física contribuye especialmente al desarrollo de los objetivos de etapa haciendo que el alumnado valore la higiene y la salud, acepte el propio cuerpo y el de las otras personas, respete las diferencias y utilice la actividad física, el deporte y la alimentación saludable como medios para favorecer su desarrollo personal y social (k); promueve el desarrollo de hábitos de movilidad activa, autónoma y saludable, fomentando una correcta educación vial (n); y ofreciendo situaciones de aprendizaje en las que se utilicen diferentes representaciones y expresiones artísticas para iniciarse en la construcción de propuestas visuales y audiovisuales (j).
+
+El área también contribuye al desarrollo de los objetivos de etapa a través de las conductas favorables a la convivencia en la práctica motriz (c); al respeto de los derechos humanos, al pluralismo y a la democracia propios de la sociedad dentro de las tareas motrices (a); al mismo tiempo, estimula el desarrollo de hábitos de trabajo individual y de equipo, de esfuerzo y de responsabilidad en la actividad física escolar, de la confianza del alumnado en sí mismo, del sentido crítico, de la iniciativa personal, de la curiosidad, del interés, de la creatividad en el aprendizaje y del espíritu emprendedor en la planificación de sus producciones motrices y cognitivas (b). De igual modo, el área contribuirá al respeto a la diversidad cultural y las diferencias entre personas, la igualdad de derechos y oportunidades, sin discriminación por motivos de etnia, orientación o identidad sexual, religión o creencias, diversidad funcional u otras condiciones en las actividades del área (d); mediante la prevención y la resolución pacífica de los posibles conflictos que se puedan dar en la práctica motriz manteniendo actitudes contrarias a la violencia (m); en el desenvolvimiento con autonomía en el desarrollo de las acciones educativas propias del área en el ámbito escolar y familiar; y mediante la metodología utilizada en las diferentes tareas motrices para desarrollar en el alumnado competencias tecnológicas básicas utilizadas para el aprendizaje que le hagan adquirir un espíritu crítico sobre su funcionamiento y los mensajes que reciben y elaboran a través de ellas (i).
+
+Finalmente el área contribuye a la utilización de la lengua castellana (e) en diferentes situaciones y con diferentes propósitos comunicativos (reflexión, planificación, comunicación, gestión dialógica de conflictos, uso técnico del vocabulario del área, etc.).
+
+Contribución a las competencias clave.
+
+La propuesta curricular del área tiene un marcado carácter competencial y se ha desarrollado conforme a los descriptores operativos establecidos en el Perfil de salida del alumnado al término de la enseñanza básica, concretado para la Educación Primaria, que identifica el grado de desarrollo y adquisición de las competencias clave para todo el alumnado que finaliza esta etapa.
+
+El área de Educación Física contribuye al desarrollo de la Competencia en comunicación lingüística (CCL), a través de las interacciones con diferentes propósitos comunicativos que se producen en la práctica motriz, permitiendo comprender, reflexionar, expresar y valorar críticamente mensajes orales, escritos o multimodales, respetar las reglas y normas de situaciones motrices y organizativas propias del área, la resolución de conflictos mediante la mediación y la gestión dialógica rechazando usos sexistas, racistas y clasistas de la lengua que vayan en contra de la convivencia positiva y democrática, así como el correcto uso del vocabulario del área en el transcurso de las situaciones motrices. El desarrollo de esta competencia en esta área permitirá, a su vez, crear su propio pensamiento vinculado a la motricidad mediante la decodificación de mensajes provenientes de las conductas motrices que permiten la construcción de otros ámbitos del saber.
+
+Por otro lado, la riqueza multicultural de las escuelas canarias, en donde habitualmente se integra alumnado de diversas nacionalidades, ofrece múltiples oportunidades para mostrar respeto por otras lenguas y culturas, al tiempo que se valora la universalidad del deporte como factor que une a los pueblos. Además es una de las opciones que se baraja para programas de inmersión lingüística, por lo que puede decirse que esta área contribuye a la Competencia plurilingüe (CP) durante la práctica motriz.
+
+El área contribuye al desarrollo de la Competencia matemática y competencia en ciencia, tecnología e ingeniería (STEM), a través del uso de métodos inductivos y deductivos propios del razonamiento matemático en las diferentes situaciones motrices y la selección de estrategias de resolución de problemas así como en la apreciación de distancias, trayectorias, formas geométricas o posicionamiento en el espacio, reflexionando de forma individual y colectiva sobre las soluciones obtenidas. En la propuesta de las acciones motrices para el desarrollo de la conducta motriz del alumnado se contribuye guiando hacia la utilización del pensamiento científico para entender y explicar aquellos fenómenos que ocurren en la práctica motriz, planteándose las preguntas para poder dar respuesta a los problemas motores que se le presenten. Por otro lado, desarrolla esta competencia en todas aquellas acciones en las que participa para preservar su salud y el medio ambiente, aplicando principios de ética y seguridad.
+
+Las herramientas y aplicaciones digitales son elementos útiles para la Educación Física permitiendo aprovechar las posibilidades de aprendizaje que ofrece al alumnado para la búsqueda de información, la construcción de productos relacionados con aprendizajes, el dominio y la consulta del vocabulario propio del área y su uso para la comunicación e intercambio de información teniendo en cuenta las normas de uso y seguridad. Aunque el área no se asocia a ningún descriptor operativo a través de las competencias específicas, la Competencia digital (CD), sí que da pie a contribuir al desarrollo integral del alumnado y adquirir el Perfil de salida, por las múltiples posibilidades y experiencias motrices que se ofrecen a través de ella.
+
+Esta área contribuye al desarrollo de la Competencia personal, social y de aprender a aprender (CPSAA), concienciando al alumnado de sus propias emociones, ideas y comportamientos, ofreciéndole estrategias sencillas para gestionarlas y respetarlas en situaciones que generen conflicto en la práctica motriz. Además, el alumnado toma conciencia de los riesgos más relevantes para su salud comenzando a interiorizar hábitos saludables para su bienestar físico y mental. Asimismo, el alumnado participa en trabajos en grupo, asume las responsabilidades individuales asignadas y emplea estrategias cooperativas sencillas dirigidas a la consecución de objetivos compartidos, reconoce el valor del esfuerzo individual y colectivo, así como la dedicación personal para la mejora de su aprendizaje, y adopta posturas críticas cuando se producen procesos de reflexión guiados en la práctica motriz. Por último, se contribuye a esta competencia a través de la planificación de objetivos a corto plazo, siguiendo procesos de reflexión de auto y coevaluación, reconociendo sus propias limitaciones para la mejora motriz y buscando ayuda en el proceso de construcción del propio conocimiento.
+
+La Competencia ciudadana (CC), se adquiere a través de actividades comunitarias originadas en el ámbito motriz y estableciendo procedimientos democráticos para la resolución reflexionada y dialógica de los conflictos propios del desarrollo de la práctica motriz, que se puedan ocasionar por la convivencia, las opiniones dispares, los diferentes intereses, la diversidad cultural, la igualdad de género, la cohesión social o la adopción de hábitos de vida saludables y sostenibles. A partir de la reflexión y el diálogo sobre valores y problemas éticos de actualidad que se puedan dar en la práctica motriz, se crean maneras de actuar para alcanzar el respeto a las diferentes culturas e ideologías, preservar el cuidado del entorno, rechazar prejuicios y estereotipos, y oponerse a cualquier forma de discriminación o violencia que pueda darse en las actividades dentro del área.
+
+Asimismo, la contribución del área al desarrollo de la Competencia emprendedora (CE), tiene lugar mediante la utilización de destrezas creativas para identificar y proponer ideas y soluciones originales a las necesidades y retos motores o de responsabilidad en las tareas que planifica, organiza y gestiona tanto de manera individual como cooperando con otros, considerando tanto la experiencia de éxito como la de fracaso como una gran oportunidad para aprender.
+
+Finalmente, el área contribuye al desarrollo de la Competencia en conciencia y expresión culturales (CCEC) en el alumnado, mediante la comprensión y respeto por las manifestaciones artísticas y culturales (expresivas, lúdicas y deportivas) más destacadas, con especial relevancia aquellas del patrimonio cultural de Canarias, iniciándose en el disfrute y conocimiento de sus especificidades e intencionalidades. A través del uso de su propio cuerpo en distintas representaciones y expresiones artísticas creativas, enriquece y construye su identidad, a la par que reconoce y respeta los aspectos fundamentales de las diferencias culturales cercanas existentes, desarrollando así sus capacidades afectivas.
+
+Bloques competenciales.
+
+El bloque competencial es el eje del currículo de cada área: integra la enunciación de las competencias específicas, su vinculación con los descriptores operativos del Perfil de salida, los criterios de evaluación y la explicación del bloque competencial.
+
+Las competencias específicas, que tienen carácter finalista, constituyen un elemento de conexión entre las competencias clave y los saberes propios del área. En cuanto a los criterios de evaluación, estos constituyen los referentes que indican el nivel de desempeño a alcanzar por el alumnado. Se establece, además, la contribución de cada criterio a los descriptores del Perfil de salida, de manera que se facilita la evaluación conjunta de los aprendizajes propios del área y del grado de desarrollo y adquisición de las competencias en el alumnado. En lo relativo a las explicaciones de los bloques competenciales, estas integran los aprendizajes recogidos en la totalidad del bloque, orientan sobre el proceso de desarrollo y adquisición tanto de las competencias específicas como de las competencias clave; y ofrecen, además, indicaciones metodológicas -siempre con una perspectiva abierta, flexible e inclusiva- para el diseño y la implementación de situaciones de aprendizaje competenciales. Es por ello que las explicaciones de los bloques competenciales se constituyen como los referentes más adecuados para la concreción curricular y la elaboración de la programación didáctica.
+
+Competencias específicas y criterios de evaluación.
+
+En el currículo de Educación Física se han establecido cinco competencias específicas que se concretan en un total de nueve criterios de evaluación. Estos criterios de evaluación presentan una naturaleza competencial, de manera que se relacionan directamente con los descriptores operativos del Perfil de salida a los que contribuye la competencia específica, expresando tanto las capacidades y los saberes a adquirir, así como el contexto y modo de aplicación de dichos aspectos.
+
+La enunciación de la competencia específica se recoge en el bloque competencial correspondiente. A continuación se ofrece una explicación de cada una de ellas.
+
+Competencia específica 1 (C1).
+
+Esta competencia específica se encuentra alineada con los retos del siglo XXI, con los Objetivos de Desarrollo Sostenible y con la Agenda Canaria de Desarrollo Sostenible 2030. Su carácter transdisciplinar, impregnando la globalidad del área, persigue que el alumnado participe en situaciones motrices para conocer estrategias y afrontar las distintas prácticas, siempre teniendo como referente la promoción de la salud física, mental y social, buscando así consolidar un estilo de vida activo y saludable.
+
+Los criterios de evaluación relativos a esta competencia específica recogen la necesidad de adquirir hábitos de vida saludable, aplicables a su vida cotidiana, de forma progresiva a lo largo de la etapa. Se inicia en primer ciclo con hábitos de higiene corporal, educación postural, hidratación, relajación y medidas de seguridad para evitar lesiones y actuaciones básicas ante accidentes, desarrollando comportamientos sociales inclusivos y de respeto. En el segundo ciclo se persigue un uso más autónomo de la hidratación y la responsabilidad en la práctica de la actividad física, diferenciando contextos de riesgo. En tercer ciclo se plantea la aplicación de la relajación, la autorregulación del esfuerzo y la superación personal, así como los procesos de activación corporal y las medidas de seguridad antes, durante y después de la práctica de actividad física mediante la identificación de contextos de riesgo para evitar lesiones o actuar en caso de accidente, integrando dichos aprendizajes de manera autónoma.
+
+Competencia específica 2 (C2).
+
+Esta competencia específica implica la intencionalidad de las acciones motrices en función de la incertidumbre y la lógica interna, ya que se aplican los componentes cuantitativos y cualitativos según los mecanismos de percepción, decisión y ejecución, adaptándose a las distintas situaciones motrices que se pueden experimentar. Por tanto, es preciso dotar al alumnado de herramientas y experiencias para que sea consciente de las posibilidades y limitaciones de su propio cuerpo, que ajuste sus conductas motrices a la lógica interna del juego y tome las decisiones adecuadas acompañadas de una ejecución ajustada a lo percibido en la situación motriz.
+
+Los dos criterios de evaluación incluidos en el bloque competencial de esta competencia específica inciden en la evolución del alumnado en cuanto al control y dominio corporal a lo largo de los tres ciclos para aplicar las conductas motrices ajustadas a las distintas situaciones, resolviendo problemas o retos en función del tipo de comunicación motriz. En el primer ciclo las decisiones se toman en situaciones lúdicas a través de la experimentación con el propio cuerpo y las habilidades motrices básicas. En segundo ciclo las decisiones se toman en juegos motores y actividades deportivas, donde los componentes cuantitativos empiezan a aparecer. Finalmente en tercer ciclo se toman las decisiones teniendo en cuenta la anticipación de las acciones motrices que se perciben de otras personas participantes en juegos motores y deportes, integrando los componentes cualitativos y cuantitativos.
+
+Competencia específica 3 (C3).
+
+Esta competencia específica fomenta que la actividad física se perciba como un espacio de desarrollo personal, ético y de interacción social, que permite vivir distintas experiencias entre las que se encuentran aquellas donde se participa con otras personas, ya sea en colaboración u oposición. Para ello es necesario que el alumnado desarrolle ciertas habilidades sociales como la gestión de las emociones, la perseverancia, el esfuerzo y muestre actitudes positivas en la convivencia, respetando la diversidad y poniendo en práctica valores éticos en sus interacciones. A través de las experiencias vividas en el área, el alumnado adquiere herramientas para trabajar en equipo, colaborar y cooperar, además de ofrecer respuestas éticas y deportivas ante situaciones de conflicto en las experiencias motrices.
+
+Con los criterios de evaluación incluidos en el bloque competencial se pretende que en el primer ciclo, el alumnado se inicie en el desarrollo de aquellas habilidades sociales que le permitan resolver los conflictos de forma dialógica mostrando, además, respeto hacia las normas y reglas e identificando y gestionando las emociones. En segundo ciclo se persigue desarrollar valores relacionados con la deportividad y el juego limpio, así como el compromiso activo de cambio frente a estereotipos y actitudes sexistas. Finalmente, en tercer ciclo se incidirá en las actitudes de respeto hacia la diversidad e igualdad de las personas.
+
+Competencia específica 4 (C4).
+
+Esta competencia específica determina la construcción de la identidad personal y social a través del conocimiento de la cultura motriz de Canarias, entendida como fuente de gran riqueza en referencia a juegos motores, deportes, danzas y otras actividades artístico-expresivas, por lo que permite la experimentación, el reconocimiento y la valoración de estas situaciones motrices, para facilitar su transmisión y su conservación. Además, la riqueza y diversidad cultural que se encuentra en los centros de Canarias, permite conocer otras culturas y experiencias motrices propias de otros lugares del mundo, enriqueciendo el acervo común con las aportaciones de otras etnias y culturas.
+
+Los dos criterios de evaluación incluidos en el bloque competencial parten de acciones motrices de carácter lúdico en primer ciclo; evolucionando en complejidad durante el segundo ciclo, donde se incorporan los deportes y danzas, concluyendo en tercer ciclo con aspectos más complejos de la lógica interna en juegos motores y deportes, mostrando una mayor autonomía. Para ello se incorporan estas experiencias motrices de forma progresiva, teniendo en cuenta las acciones de conocer, valorar, transmitir y cuidar el patrimonio cultural, lúdico y artístico de Canarias y de otros lugares del mundo a través de juegos motores, deportes y bailes. Asimismo, se pretende con el segundo criterio el alumnado experimente con la creatividad, el ritmo, el movimiento y la estética en experiencias relacionadas con la expresión corporal.
+
+Competencia específica 5 (C5).
+
+Esta competencia específica persigue la utilización de los distintos espacios de Canarias para la práctica de actividad física. Esto implica que el alumnado adquiera herramientas y actitudes positivas hacia el aprovechamiento de su entorno, de una forma responsable y ecosostenible para la práctica de actividades físicas en el centro educativo y el entorno urbano, pero también aprovechando las características de las islas mediante actividades en el medio natural, ya sean de montaña o de costa, generando experiencias que puedan aplicar a su vida cotidiana en espacios terrestres o acuáticos.
+
+Con los criterios de evaluación incluidos en el bloque competencial se pretende que el alumnado en primer ciclo utilice los espacios del entorno próximo para la práctica de la actividad física de manera sostenible y segura. En segundo ciclo se aprovechará el uso de dichos espacios, siempre desde un análisis previo del contexto aplicando medidas de conservación ambiental. Finalmente, en tercer ciclo se buscará adaptar las acciones motrices a la incertidumbre del medio urbano o natural, teniendo en cuenta las características de Canarias, actuando desde una perspectiva ecosostenible y comunitaria del entorno.
+
+Saberes básicos.
+
+Los saberes básicos del área aparecen integrados tanto en los criterios de evaluación como en las explicaciones de los bloques competenciales. No obstante, quedan establecidos, organizados y secuenciados, a continuación de los mismos.
+
+A través de las situaciones motrices que se llevan a cabo en el área de Educación Física el alumnado adquiere saberes básicos específicos relacionados con los diferentes bloques.
+
+Con respecto al Bloque I, de “Vida activa y saludable”, el alumnado desarrollará los saberes básicos relacionados con el estilo de vida activo en el que se diferencia entre salud física, social y mental aplicables a las diferentes experiencias motrices, aprendiendo hábitos de higiene postural y alimentación saludable.
+
+El alumnado en esta etapa desarrollará progresivamente saberes básicos propios del Bloque II, “Organización y gestión de la actividad física”, relacionados con el disfrute de la práctica motriz  mediante el uso apropiado de materiales y equipamiento deportivo básico, cómodo y seguro. Además, el alumnado planificará retos motores y se autorregulará para superarlos, teniendo en cuenta normas básicas de primeros auxilios, prevención de lesiones y accidentes durante la actividad física, a través de la activación y vuelta a la calma.
+
+Otros saberes básicos de la Educación Física que el alumnado adquiere en la etapa de Educación Primaria, vinculados con el Bloque III, de “Resolución de problemas en situaciones motrices”,  son aquellos relacionados con la adaptación que hace de sus respuestas motrices a las diferentes situaciones y experiencias que se dan en la práctica motriz. Entre estos, se encuentran las actividades individuales, de cooperación, de oposición y de colaboración-oposición, de interacción con móviles e implementos, de persecución, equilibrio y coordinación, situaciones jugadas y aplicación de habilidades motrices básicas, genéricas y capacidades físicas básicas y resultantes, que progresivamente irá adquiriendo.
+
+Con respecto al Bloque IV, de “Autorregulación emocional e interacción social en situaciones motrices”, se ofrecen al alumnado saberes relacionados con la gestión emocional en las situaciones motrices, así como habilidades sociales vinculadas a las estrategias de trabajo en equipo, el cumplimiento de las reglas de juego, la deportividad y todos aquellos aprendizajes relacionados con la deportividad y el rechazo a las conductas contrarias a la convivencia, que sean discriminatorias o sexistas y que vayan en contra de la ética deportiva y la igualdad en el deporte.
+
+El alumnado en esta etapa también adquiere progresivamente saberes básicos propios del Bloque V, de “Manifestaciones de la cultura motriz”, a través de la práctica, la valoración y la transmisión de los juegos motores, deportes y danzas de Canarias y otras culturas. Además, se desarrollan habilidades y estrategias para comunicar emociones, pensamientos o sentimientos a través de su cuerpo en las experiencias motrices propuestas. Por último, este bloque presenta saberes relacionados con la experimentación y el conocimiento del deporte a través de la diversidad y la valoración de referentes significativos de distintas modalidades, abordando el sexismo y promoviendo la igualdad.
+
+En el Bloque VI, de “Interacción eficiente y sostenible con el entorno”, el alumnado practica aprendizajes relacionados con la educación vial, movilidad activa y sostenible, las actividades motrices que se pueden realizar tanto en el medio natural como en el urbano, velando por el cuidado de este durante la práctica de la actividad física. Por otro lado, el mismo Bloque, permite al alumnado reflexionar sobre el consumo responsable, promoviendo la construcción y reutilización de materiales en la práctica motriz.
+
+Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos.
+
+Las competencias específicas explicitan desempeños que el alumnado debe poder llevar a cabo en situaciones de aprendizaje para cuyo abordaje se requieran los saberes básicos de cada área, dentro de un marco de atención inclusiva a las diferencias individuales, y a las singularidades y necesidades de cada alumno o alumna. La implementación del currículo del área implica, por tanto, la definición, por parte del profesorado, de estas situaciones de aprendizaje contextualizadas.
+
+El modelo pedagógico canario se nutre de una premisa crucial: la necesaria integración de la evaluación en el proceso de planificación y diseño de estas situaciones de aprendizaje, para asegurar una evaluación competencial del alumnado. Es necesario, por tanto, que el profesorado utilice variedad de instrumentos, técnicas y herramientas de evaluación, en diferentes contextos, con soportes y formatos diversos, que permitan que el alumnado pueda demostrar lo que sabe, lo que siente y piensa, lo que puede hacer…, atendiéndose así, de manera inclusiva, a la diversidad del alumnado, a su ritmo de aprendizaje y a su forma de aprender.
+
+Y es que, desde el área de Educación Física, se realiza una propuesta curricular flexible, basada en los principios del DUA (Diseño Universal para el Aprendizaje), que se ajusta a las necesidades y diferentes ritmos de aprendizaje del alumnado. Desde este enfoque, la intervención educativa, bajo el parámetro de la inclusividad, gira en torno al centro y a la comunidad educativa con un currículo común para todo el alumnado.
+
+Se establece como meta el desarrollo integral del alumnado a través de la aplicación de aspectos metodológicos que tengan en cuenta su preparación para la vida, incorporando estilos de vida saludables en sus rutinas y generando alumnado colaborativo, creativo, comprometido y autónomo, que sea agente activo de su propio aprendizaje y del resto del alumnado. Esto es posible a través de la toma de decisiones y la superación personal, aprovechando, como oportunidades para la mejora cognitiva, socio-afectiva y motriz, las posibilidades de la evaluación continua, formativa y compartida, junto a la aplicación de los diferentes tipos de evaluación según los agentes implicados (heteroevaluación, coevaluación y autoevaluación), utilizando instrumentos heterogéneos y adaptados al alumnado y a las situaciones de aprendizaje, para conseguir una valoración objetiva. Con esto se consolida una Educación Física competencial e inclusiva, mediada por el contexto en el marco de la Comunidad Autónoma de Canarias.
+
+El área se puede estructurar en relación a diferentes tipos de situaciones motrices, ya sean en entornos estables, con oposición, con presencia de cooperación o sin oposición, para adaptarse al entorno físico, o de índole artística y expresiva. Por otro lado, la producción y el dominio de respuestas motrices en función de la incertidumbre en distintos contextos contribuye al desarrollo de la competencia motriz del alumnado a través de la implicación de sus capacidades físicas, perceptivas, sociales, emocionales y cognitivas. Dicha incertidumbre puede estar centrada únicamente en el control de las propias acciones motrices, o puede venir determinada por la comunicación motriz establecida con el resto de participantes, ya sea en colaboración o en oposición, e incluso que provenga del propio entorno, teniendo en cuenta la práctica sostenible de actividad física en el medio natural y urbano.
+
+Esta variedad de experiencias motrices, y la transferencia de los aprendizajes a situaciones cotidianas o a otros contextos que impliquen la actividad física, ofrece al alumnado la posibilidad de asimilar y aplicar conductas motrices diversas y reglas de juego a situaciones con una lógica interna común, al seguir diferentes tipos de clasificaciones de juegos motores y deportes. Todo esto se complementa con la posibilidad de vivenciar experiencias motrices vinculadas al deporte, donde se vele por el respeto, la inclusión y la deportividad, tanto para adquirir saberes propios del área como los de otras áreas con las que se pudiera relacionar interdisciplinarmente, implicando al alumnado en la organización a través de la asunción de diferentes roles y responsabilidades.
+
+Primer ciclo Educación Primaria
+
+Bloques competenciales
+
+Ver anexo en las páginas 45669-45673 del documento
+                        Descargar
+
+Saberes básicos
+
+I. Vida activa y saludable.
+
+1. Iniciación en los efectos físicos beneficiosos de un estilo de vida activo y saludable. Cuidado del cuerpo, higiene personal, educación postural, descanso tras la actividad física e hidratación.
+
+2. Autoconocimiento e identificación de fortalezas y debilidades sociales, físicas y mentales, para alcanzar el bienestar social a través de la motricidad.
+
+3. Utilización de la actividad física como práctica social saludable.
+
+4. Respeto a todas las personas con independencia de sus características personales.
+
+II. Organización y gestión de la actividad física.
+
+1. Experimentación de diversas prácticas físicas en contextos variados.
+
+2. Cuidado del material utilizado en la actividad a desarrollar.
+
+3. Preparación de la vestimenta deportiva para la práctica de actividad física.
+
+4. Iniciación en hábitos generales de higiene corporal.
+
+5. Experimentación de retos motores sencillos.
+
+6. Prevención de lesiones en las prácticas motrices mediante juegos motores de activación y vuelta a la calma.
+
+III. Resolución de problemas en situaciones motrices.
+
+1. Aproximación a la toma de decisiones en situaciones motrices lúdicas mediante la adecuación de las acciones a las capacidades y las limitaciones personales en situaciones motrices individuales.
+
+2. Iniciación en la coordinación de acciones con compañeros y compañeras en situaciones cooperativas; la adecuación de la acción a la ubicación de la persona adversaria en situaciones motrices de persecución y de interacción con un móvil.
+
+3. Experimentación de la posición corporal o la distancia adecuada en situaciones de oposición de contacto.
+
+4. Uso de las capacidades perceptivo-motrices en contexto de práctica mediante la integración del esquema corporal, la conciencia corporal, la lateralidad y su proyección en el espacio; la coordinación óculo-pédica y óculo-manual; y el equilibrio estático y dinámico.
+
+5. Experimentación de las habilidades y destrezas motrices básicas locomotrices, no locomotrices y manipulativas.
+
+6. Variación y adecuación de la acción motriz ante estímulos internos.
+
+IV. Autorregulación emocional e interacción social en situaciones motrices.
+
+1. Identificación, experimentación y manifestación de emociones, pensamientos y sentimientos a partir de experiencias motrices.
+
+2. Verbalización de emociones derivadas de la interacción en contextos motrices.
+
+3. Respeto a las reglas y normas de juego.
+
+4. Reconocimiento de conductas favorables a la convivencia positiva y la igualdad de género, e inclusivas y de respeto a las demás personas en situaciones motrices, mediante estrategias de identificación de conductas discriminatorias o contrarias a la convivencia.
+
+V. Manifestaciones de la cultura motriz.
+
+1. Aproximación a los juegos motores y danzas de Canarias y otras culturas como manifestación de la cultura motriz.
+
+2. Reproducción de gestos, muecas, posturas y otros elementos perceptibles para comunicar sensaciones, emociones y sentimientos.
+
+3. Experimentación y reproducción de actividades rítmico-musicales y de carácter artístico-expresivo.
+
+4. Reconocimiento de referentes en el deporte canario de distintos géneros.
+
+VI. Interacción eficiente y sostenible con el entorno.
+
+1. Iniciación a la educación vial para peatones mediante una movilidad segura, saludable y sostenible.
+
+2. Identificación de las posibilidades motrices de los espacios de juego y esparcimiento infantil.
+
+3. Experimentación de las posibilidades de uso del material para el desarrollo de la motricidad.
+
+4. Realización de actividades físicas seguras en el medio natural y urbano.
+
+5. Aproximación al cuidado del entorno próximo y seres vivos que en él conviven, durante la práctica segura de actividades físicas en el medio natural y urbano.
+
+Segundo ciclo Educación Primaria
+
+Bloques competenciales
+
+Ver anexo en las páginas 45676-45680 del documento
+                        Descargar
+
+Saberes básicos
+
+I. Vida activa y saludable.
+
+1. Interiorización de los efectos físicos y psicológicos beneficiosos de un estilo de vida activo. Factores básicos del cuidado del cuerpo, hidratación, educación postural en acciones motrices. Identificación de las características de los alimentos naturales, procesados y ultraprocesados, y del efecto de su consumo en la salud.
+
+2. Respeto y aceptación del propio cuerpo, desarrollando el autoconocimiento a través de la identificación de fortalezas, debilidades, posibilidades y limitaciones en aspectos sociales, físicos y mentales.
+
+3. Reconocimiento de hábitos de ocio nocivos y utilización de la actividad física como hábito y alternativa saludable.
+
+4. Aceptación de las habilidades y el propio cuerpo y el de los demás, evitando el exceso de competitividad.
+
+II. Organización y gestión de la actividad física.
+
+1. Práctica de actividad física con fines catárticos, lúdicos y cooperativos. Respeto hacia las elecciones de los demás.
+
+2. Cuidado y preparación del material según la actividad a desarrollar.
+
+3. Seguimiento de pautas de higiene personal relacionadas con la actividad física.
+
+4. Planificación y autorregulación de retos motores siguiendo mecanismos básicos para ejecutar lo planificado.
+
+5. Prevención de lesiones en las prácticas motrices con mecanismos de prevención y control corporal.
+
+III. Resolución de problemas en situaciones motrices.
+
+1. Iniciación en situaciones de juego a la toma de decisiones mediante la distribución racional del esfuerzo en situaciones motrices individuales.
+
+2. Iniciación en situaciones de juego a la toma de decisiones mediante la ubicación en el espacio en situaciones cooperativas; y la ubicación en el espacio y reubicación tras cada acción en situaciones motrices de persecución y de interacción con un móvil.
+
+3. Anticipación a las decisiones ofensivas de la persona adversaria en situaciones de oposición de contacto y el pase a compañeros desmarcados o compañeras desmarcadas o en situación ventajosa en situaciones motrices de colaboración-oposición de persecución y de interacción con un móvil.
+
+4. Uso de las capacidades perceptivo-motrices en contexto de práctica mediante la integración del esquema corporal; el control tónico-postural e independencia segmentaria en situaciones motrices; la definición de la lateralidad; la coordinación dinámica general y segmentaria; y el equilibrio estático y dinámico.
+
+5. Experimentación de las habilidades y destrezas motrices básicas y genéricas locomotrices, no locomotrices, manipulativas y combinación de estas.
+
+6. Variación y adecuación de la acción motriz ante estímulos internos y externos.
+
+7. Reconocimiento de las capacidades físicas básicas.
+
+IV. Autorregulación emocional e interacción social en situaciones motrices.
+
+1. Reconocimiento y gestión de emociones propias, pensamientos y sentimientos a partir de experiencias motrices.
+
+2. Uso de estrategias de escucha activa y de negociación para la resolución de conflictos en contextos motrices.
+
+3. Iniciación a la deportividad.
+
+4. Empleo de conductas favorables a la convivencia positiva.
+
+V. Manifestaciones de la cultura motriz.
+
+1. Iniciación a los juegos motores, deportes y danzas de Canarias y otras culturas como manifestación de la interculturalidad.
+
+2. Expresión de sensaciones, sentimientos, emociones e ideas simples a través del cuerpo y el movimiento.
+
+3. Reproducción y construcción de actividades rítmico-musicales con carácter expresivo.
+
+4. Reconocimiento y valoración de referentes de distintos géneros y competiciones.
+
+VI. Interacción eficiente y sostenible con el entorno.
+
+1. Iniciación a la educación vial para vehículos sin motor a través de una movilidad segura, saludable y sostenible.
+
+2. Prevención y sensibilización sobre la generación de residuos y su correcta gestión, atendiendo a las particulares características del territorio canario.
+
+3. Reconocimiento del estado del material para actividades en el medio natural y urbano a través de una valoración previa y actuación ante desperfectos.
+
+4. Realización de actividades físicas en el medio natural y urbano buscando un disfrute seguro y favoreciendo su mantenimiento.
+
+5. Iniciación al cuidado del entorno próximo y de los seres vivos que en él conviven, durante la práctica segura de actividades físicas en el medio natural y urbano.
+
+Tercer ciclo Educación Primaria
+
+Bloques competenciales
+
+Ver anexo en las páginas 45683-45687 del documento
+                        Descargar
+
+Saberes básicos
+
+I. Vida activa y saludable.
+
+1. Implementación de un estilo de vida activo y saludable, con beneficios físicos, psicológicos y sociales. Responsabilización personal en el cuidado del cuerpo mediante la hidratación, la educación postural en acciones motrices específicas y el consumo de alimentos naturales frente a los procesados y ultraprocesados.
+
+2. Respeto y aceptación del propio cuerpo y el ajeno, consolidando el autoconcepto y teniendo en cuenta la perspectiva de género.
+
+3. Identificación de los efectos producidos por los malos hábitos relacionados con la salud y la práctica de la actividad física.
+
+4. Reconocimiento del esfuerzo en el deporte profesional. Aceptación de las diferentes tipologías corporales, evitando estereotipos de género y competencia motriz.
+
+II. Organización y gestión de la actividad física.
+
+1. Desarrollo de la actividad física con fines catárticos y hedonistas, lúdicos, competitivos y agonísticos.
+
+2. Prevención de actitudes consumistas en torno al equipamiento. Valoración y selección del equipamiento básico para una práctica físico-deportiva segura y cómoda.
+
+3. Aplicación de hábitos autónomos de higiene corporal en acciones cotidianas.
+
+4. Planificación y autorregulación de retos motores a través del seguimiento y valoración durante el proceso y del resultado.
+
+5. Prevención de lesiones y accidentes en las prácticas motrices, aplicando la activación y vuelta a la calma. Cumplimiento de las normas de seguridad, mostrando compromiso de responsabilidad hacia la seguridad propia y de las demás personas.
+
+6. Aplicación de actuaciones básicas de primeros auxilios en la práctica de actividad física.
+
+III. Resolución de problemas en situaciones motrices.
+
+1. Aplicación de toma de decisiones en juegos y deportes, mediante la selección de acciones en función del entorno en situaciones motrices individuales.
+
+2. Selección de acciones para el ajuste espacio-temporal en la interacción con los compañeros y compañeras en situaciones cooperativas, y selección de zonas de envío de un móvil desde donde sea difícil devolverlo, en situaciones motrices de persecución y de interacción con él.
+
+3. Selección adecuada de las habilidades motrices en situaciones de oposición de contacto; el desmarque y ubicación en un lugar desde el que se constituya un apoyo para las demás personas participantes en situaciones motrices de colaboración-oposición de persecución y de interacción con un móvil.
+
+4. Uso de las capacidades perceptivo-motrices en contexto de práctica a través de la integración del esquema corporal; el equilibrio estático y dinámico en situaciones de complejidad creciente; la organización espacial (percepción de distancias y trayectoria, orientación en el espacio), temporal (simultaneidad y sucesión de acciones) y espacio-temporal (ritmo, ajuste perceptivo en el envío y en la interceptación de trayectorias de móviles).
+
+5. Iniciación de las habilidades motrices específicas asociadas a la técnica en actividades físico-deportivas.
+
+6. Identificación de estímulos internos o externos que exijan un reajuste instantáneo de la acción motriz.
+
+7. Reconocimiento de las capacidades físicas básicas y resultantes (coordinación, equilibrio y agilidad).
+
+IV. Autorregulación emocional e interacción social en situaciones motrices.
+
+1. Aplicación de estrategias de afrontamiento y gestión de la ansiedad en situaciones motrices.
+
+2. Uso de estrategias de trabajo en equipo para la resolución constructiva de conflictos en situaciones motrices colectivas.
+
+3. Aplicación del juego limpio.
+
+4. Identificación, abordaje e implementación de conductas positivas hacia la convivencia en situaciones motrices, aceptando la diversidad de género, capacidades o competencia motriz.
+
+V. Manifestaciones de la cultura motriz.
+
+1. Valoración y transmisión de la cultura motriz a través de los juegos motores, deportes y danzas de Canarias y de otras culturas, como seña de identidad cultural.
+
+2. Utilización del cuerpo y el movimiento para transmitir sensaciones, sentimientos, emociones e ideas complejas en situaciones motrices expresivas.
+
+3. Diseño de actividades rítmico-musicales con carácter expresivo.
+
+4. Identificación y abordaje del sexismo en el deporte amateur y profesional.
+
+5. Conocimiento y práctica de deportes asociados a grandes eventos locales, nacionales o internacionales.
+
+VI. Interacción eficiente y sostenible con el entorno.
+
+1. Utilización y valoración de la educación vial desde la actividad física y deportiva a través de una movilidad segura, saludable y sostenible.
+
+2. Valoración previa y actuación ante la posibilidad de riesgos de accidente durante la práctica en el medio natural y urbano.
+
+3. Prácticas de consumo responsable mediante la construcción y reutilización de materiales para la práctica motriz.
+
+4. Realización de actividades físicas en el medio natural y urbano.
+
+5. Valoración y transmisión del cuidado del entorno próximo y seres vivos que en él conviven, durante la práctica de actividad física en el medio natural y urbano.
+
+
+### Educación en valores cívicos y éticos
+
+Introducción.
+
+La Educación en Valores Cívicos y Éticos tiene como prioridad el desarrollo integral del alumnado como integrante de una sociedad democrática, a través de la reflexión y el ejercicio crítico y responsable. Esta área contribuye a su proyecto personal, proporcionándole herramientas necesarias que propicien un compromiso activo y autónomo a nivel personal y con su entorno social y natural canario. Asimismo, favorece el desarrollo de actitudes, comportamientos y pensamientos morales y éticos para la reflexión en torno a los grandes retos y problemas actuales, contribuyendo, no solo al alcance de los objetivos de etapa y el Perfil de salida en términos de la enseñanza básica, sino también a los Objetivos de Desarrollo Sostenible de la ONU 2015 y la Agenda Canaria de Desarrollo Sostenible 2030.
+
+La materia tiene como propósito facilitar diversas experiencias formativas en el área que fomenten el respeto y la valoración positiva de las diferencias, además de apreciar y aplicar con autonomía aquellas normas y valores que han de regir una sociedad democrática, libre, plural, justa y pacífica.
+
+El área de la Educación en Valores Cívicos y Éticos en el tercer ciclo de la Educación Primaria aborda la dimensión del alumnado como sujeto crítico y responsable de su entorno ecosocial cercano, con especial atención a aquello que tienen relevancia en el archipiélago canario. Por ello, el área invita al trabajo interdisciplinar en su implementación en el aula, promoviendo la adquisición de conceptos, procedimientos y actitudes que permita al alumnado participar activamente en la creación de un espacio cívico, en el que convivan todas las personas de manera pacífica y respetuosa.
+
+Los saberes propios de Canarias se han incluido en el currículo del área desde un enfoque centrado en la educación patrimonial. Este enfoque presenta un carácter globalizador y transversal, y nace con la premisa de concienciar y sensibilizar al alumnado canario de la importancia del cuidado, disfrute y transmisión del patrimonio, pone el acento en la identificación y puesta en valor del mismo como parte inseparable de la sociedad, y apuesta por la implicación de la ciudadanía para lograr su sostenibilidad y la de los valores que en él perduran.
+
+De esta manera, a lo largo del tercer ciclo de Educación Primaria, el alumnado se acerca de manera gradual a estos aprendizajes, propiciándose la inserción, en los currículos de las diferentes áreas de la etapa, de contextos de aprendizaje en torno al patrimonio cultural canario, que promuevan la participación de los niños y las niñas, para que lo conozcan, disfruten y valoren, contribuyendo así a su sensibilización, respeto y conservación.
+
+Contribución a los objetivos de etapa.
+
+La Educación en Valores Cívicos y Éticos, entendida como área de conocimiento, contribuye a desarrollar aprendizajes imprescindibles que conectan con los objetivos de etapa.
+
+El modo en que el área contribuye a estos objetivos se manifiesta primordialmente en la intención de que alumnado sea capaz de apreciar los valores y las normas de convivencia, obrando de acuerdo con ellas, preparándose así para el ejercicio activo de la ciudadanía e incorporando nuevos modelos de ciudadanía proactiva hacia el cuidado del entorno natural y social canario (a).
+
+La asignatura persigue especialmente que el alumnado desarrolle hábitos de trabajo individual y colaborativo, promoviendo la iniciativa personal y el autoconocimiento (b), lo que, a su vez, le permite que se desenvuelva con autonomía y adquiera habilidades para la resolución pacífica de conflictos y la prevención de la violencia en todas sus formas (c).
+
+A través del trabajo cooperativo y el aprendizaje servicio se potencia el respeto hacia la pluralidad, las diferencias de género, cultura, orientación o identidad sexual, religión o creencias, diversidad funcional u otras condiciones (d), adoptando una actitud contraria a la violencia, a los prejuicios de cualquier tipo y a los estereotipos sexistas (m).
+
+Se pretende, además, que el alumnado desarrolle competencias tecnológicas básicas y se inicie en su utilización, a través de actividades de intercambio de información, investigación y presentación de proyectos personales o grupales con el propósito de ayudar a construir un entorno más justo, libre, solidario, igualitario y respetuoso, todo ello, promoviendo un espíritu crítico ante su funcionamiento y los mensajes que reciben y elaboran (i).
+
+Finalmente, la asignatura favorece el conocimiento y valoración de comportamientos de respeto, empatía y cuidado medioambiental (l) y a la adquisición de estilos de vida saludables, aceptando el propio cuerpo y el de las otras personas, respetando las diferencias y gestionando las emociones como medios para favorecer el desarrollo personal y social (k).
+
+Contribución a las competencias clave.
+
+La propuesta curricular del área de Educación en Valores Cívicos y Éticos tiene un marcado carácter competencial y se ha desarrollado conforme a los descriptores operativos establecidos en el Perfil de salida del alumnado al término de la enseñanza básica, concretado para la Educación Primaria, que identifica el grado de desarrollo y adquisición de las competencias clave para todo el alumnado que finaliza esta etapa.
+
+Al término de la enseñanza básica y del Perfil de salida del alumnado, considerado piedra angular de todo el currículo, el área de Educación en Valores Cívicos y Éticos contribuye al desarrollo de las competencias clave, desde las que se fundamentan las decisiones curriculares, así como las estrategias y orientaciones metodológicas en la práctica lectiva.
+
+El Perfil de salida al que se colabora desde esta área, parte de una visión a la vez estructural y funcional de las competencias clave, cuya adquisición por parte del alumnado se considera indispensable para su desarrollo personal, para resolver situaciones y problemas de los distintos ámbitos de su vida, crear nuevas oportunidades de mejora, así como para desarrollar su socialización, lograr la continuidad de su itinerario formativo e insertarse y participar activamente en la sociedad y en el cuidado del entorno natural y del planeta.
+
+La vinculación entre las competencias clave y retos del siglo XXI es la que dará sentido a los aprendizajes del área de Educación en Valores Cívicos y Éticos, al acercar la escuela a situaciones, cuestiones y problemas reales de la vida cotidiana, lo que, a su vez, proporcionará el necesario punto de apoyo para favorecer situaciones de aprendizaje significativas y relevantes.
+
+El área de Educación en Valores Cívicos y Éticos contribuye a desarrollar, sobre todo y de forma evidente, al desarrollo de la Competencia ciudadana (CC), permitiendo al alumnado actuar como ciudadanos y ciudadanas responsables y participar plenamente en la vida social y cívica, basándose en la comprensión de los conceptos y las estructuras sociales, económicas, jurídicas y políticas, así como en el conocimiento de los acontecimientos mundiales y el compromiso activo con la sostenibilidad y el logro de una ciudadanía mundial. El área promueve la alfabetización cívica, la adopción consciente de los valores propios a una cultura democrática, fundada en el respeto a los derechos humanos, la reflexión crítica acerca de los grandes problemas éticos de nuestro tiempo y el desarrollo de un estilo de vida sostenible acorde con los Objetivos de Desarrollo Sostenible planteados en la Agenda 2030.
+
+Además, se incentiva en el alumnado la aplicación de nociones relativas a la gestión de sus emociones, para superar dificultades, autorregularse y valorar su dignidad personal. Estos aprendizajes implican también la adquisición de destrezas y habilidades sociales, tanto para el trabajo colaborativo y las relaciones interpersonales cooperativas fundamentadas en el respeto y el reconocimiento mutuo, como para establecer relaciones emocionales amistosas, basadas en el intercambio de afecto y confianza recíproca. Se incluye, además, la utilización de estrategias para la resolución de conflictos en las interacciones con las demás personas y, en especial, el manejo de la mediación en todas sus fases.
+
+Desde el área, se contribuye también al desarrollo de la Competencia en comunicación lingüística (CCL), ya que se pretende que el alumnado interactúe de forma oral, escrita, signada o multimodal de manera coherente y adecuada en diferentes ámbitos y contextos y con diferentes propósitos comunicativos, lo que implica movilizar, de manera consciente, el conjunto de conocimientos, destrezas y actitudes que permiten comprender, interpretar y valorar críticamente mensajes orales, signados, escritos, audiovisuales o multimodales, evitando los riesgos de manipulación y desinformación, así como comunicarse eficazmente con otras personas de manera cooperativa, creativa, ética y respetuosa. Por otro lado, el área se ocupa de que el alumnado desarrolle sus habilidades comunicativas como base para el desarrollo del pensamiento propio y para la construcción de conocimiento, a través del diálogo, la conversación y la escucha activa, como herramientas para establecer relaciones cooperativas y respetuosas, así como para la resolución de conflictos y la manifestación de los propios sentimientos, necesidades y derechos. Por último, contribuye al desarrollo de esta competencia, en la medida en que se insiste en la utilización de la lengua de manera socialmente responsable y no discriminatoria, a través de la realización de debates y la defensa de argumentos para el intercambio de opiniones o posiciones personales, y que le permita ejercer la ciudadanía participante en una sociedad democrática.
+
+La Educación en Valores Cívicos y Éticos aporta al desarrollo de la Competencia personal, social y de aprender a aprender (CPSAA), en la medida en que propicia en el alumnado la habilidad de reflexionar sobre sí mismo y una misma, promoviendo un crecimiento personal, que siente las bases para la realización de conductas, actitudes, sentimientos, valores e ideas de carácter ético y cívico, para favorecer la aceptación y valoración de las diferencias entre las personas, consiguiendo así que la convivencia democrática y pacífica se convierta en una constante esencial en la educación. El área se ocupa así de fomentar en el alumnado el bienestar físico y emocional, conservar la salud física y mental, y la capacidad de llevar una vida saludable y orientada al futuro, expresando empatía y gestionando los conflictos en un contexto integrador y de apoyo.
+
+De la misma manera, el área propicia en el alumnado el conocimiento de sus potencialidades y limitaciones, y, por tanto, de los propios procesos implicados en su aprendizaje, lo que contribuye al desarrollo de la autonomía en el aprendizaje y asumir las propias responsabilidades, con la utilización de estrategias de autorregulación y autocontrol de la conducta, que se concretan en la planificación, supervisión y autoevaluación, como dinámicas o proyectos de forma independiente y cooperativa, la toma de decisiones meditadas y responsables para la ejecución de tareas y la mejora del clima del grupo. Todo ello con la finalidad de mantener la resiliencia y gestionar el aprendizaje a lo largo de la vida.
+
+La Competencia emprendedora (CE) implica desarrollar desde el área un enfoque vital dirigido a actuar sobre oportunidades e ideas para generar resultados de valor para otras personas. Esto implica una puesta en práctica y participación en proyectos o acciones de índole social y comunitaria orientados al intercambio de servicios, la concienciación de valores sociales y cívicos encaminados al bien común y la resolución de problemas sociales y de carácter ético, tanto en entornos presenciales como virtuales (mejora de la calidad de vida, convivencia, negociación para llevar las ideas planteadas a la acción mediante la planificación y gestión de proyectos sostenibles de valor social, cultural y financiero, contribución ciudadana a los servicios públicos y los bienes comunes, responsabilidad con el entorno, etc.). En este sentido, contribuye a estas habilidades tanto a través del trabajo individual como colaborativo, todo ello potenciando la asertividad, la capacidad para transformar los conflictos en oportunidades, la puesta en relación de diferentes ideas y opiniones para encontrar aspectos comunes, etc., que permitirán en definitiva, desarrollar actitudes comprometidas y solidarias en diferentes contextos.
+
+Desde el área, también se contribuye al desarrollo de la Competencia matemática y Competencia en ciencia, tecnología e ingeniería (STEM) a través de la participación en acciones que preserven la salud y el medio ambiente, aplicando principios de ética y seguridad para transformar el entorno de forma comprometida, responsable y sostenible. El área propicia la adquisición de una perspectiva ética y empática sobre la relación de las personas con el entorno natural a través de prácticas y estilos de vida responsables hacia el cuidado del planeta y los seres que lo componen.
+
+El desarrollo de la Competencia digital (CD) se ve favorecido por el área de Educación en Valores Cívicos y Éticos mediante el uso de diferentes recursos digitales para acceder a la información, evaluando críticamente los contenidos digitales y transformando esa información en conocimiento. Esto implica un uso seguro, saludable, sostenible, crítico y responsable de las tecnologías digitales para el aprendizaje, generando espacios seguros de discusión, reflexión y participación democrática. A través de las tecnologías digitales, el área fomenta en el alumnado su participación individual y colaborativa en la creación de contenidos para la comunicación, realización y exposición de investigaciones y proyectos en diversos formatos (texto, audio, vídeo, imágenes, etc.) promoviendo un beneficio personal y social.
+
+Finalmente, el área, a través de la Competencia en conciencia y expresiones culturales (CCEC) propicia en el alumnado la comprensión y el respeto por el patrimonio cultural y artístico, comprendiendo y respetando las diferencias culturales en un entorno intercultural. Todo ello a través de producciones que supongan el trabajo individual o colectivo, que permitan desarrollar aptitudes creativas para compartir y expresar artísticamente conocimientos, ideas y sentimientos. Esto le permite cultivar un compromiso activo y crítico desde un punto de vista ético, mediante el respeto por las minorías y las identidades étnico-culturales, el hecho multicultural y la diversidad humana, encaminado al bien común, y que pudiendo trasladarse a una variedad de contextos, contribuya al desarrollo de la Competencia Plurilingüe (CP).
+
+Bloques competenciales.
+
+El bloque competencial es el eje del currículo de cada área: integra la enunciación de las competencias específicas, su vinculación con los descriptores operativos del Perfil de salida, los criterios de evaluación y la explicación del bloque competencial.
+
+Las competencias específicas, que tienen carácter finalista, constituyen un elemento de conexión entre las competencias clave y los saberes propios del área. En cuanto a los criterios de evaluación, estos constituyen los referentes que indican el nivel de desempeño a alcanzar por el alumnado. Se establece, además, la contribución de cada criterio a los descriptores del Perfil de salida, de manera que se facilita la evaluación conjunta de los aprendizajes propios del área y del grado de desarrollo y adquisición de las competencias en el alumnado. En lo relativo a las explicaciones de los bloques competenciales, estas integran los aprendizajes recogidos en la totalidad del bloque, orientan sobre el proceso de desarrollo y adquisición tanto de las competencias específicas como de las competencias clave; y ofrecen, además, indicaciones metodológicas -siempre con una perspectiva abierta, flexible e inclusiva- para el diseño y la implementación de situaciones de aprendizaje competenciales. Es por ello que las explicaciones de los bloques competenciales se constituyen como los referentes más adecuados para la concreción curricular y la elaboración de la programación didáctica.
+
+Competencias específicas y criterios de evaluación.
+
+En el currículo de Educación en Valores Cívicos y Éticos se han establecido cuatro competencias específicas que se concretan en un total de nueve criterios de evaluación. Estos criterios de evaluación presentan una naturaleza competencial, de manera que se relacionan directamente con los descriptores operativos del perfil de salida a los que contribuye la competencia específica, expresando tanto las capacidades y los saberes a adquirir, así como el contexto y modo de aplicación de dichos aspectos.
+
+La enunciación de la competencia específica se recoge en el bloque competencial correspondiente. A continuación se ofrece una explicación de cada una de ellas.
+
+Competencia específica 1 (C1).
+
+La importancia de que el alumnado se constituya como persona libre y responsable en la sociedad actual, hace muy relevante la adquisición de estrategias para dirigir su propia conducta, a través de la gestión de emociones e impulsos, y controlando sus actos y decisiones de manera autónoma. Para ello, es necesario que reflexione, dialogue y tome decisiones argumentadas, no solo sobre valores y problemas éticos de actualidad que afecten a su propia existencia y entorno cercano, sino sobre las normas de convivencia de manera constructiva, dialogante e inclusiva en cualquier contexto. Asimismo, se fomenta la toma de posturas críticas a través de la elaboración de juicios morales, la reflexión de sus deseos y la construcción de la propia identidad y proyecto de vida.
+
+Para el desarrollo de este proceso reflexivo, es necesario localizar, seleccionar y contrastar información veraz y rigurosa sobre los problemas a tratar, además de expresar hechos, conceptos, pensamientos, opiniones y sentimientos de carácter ético y cívico, participando en interacciones comunicativas con actitud cooperativa y respetuosa. Además, se conocerán los riesgos y ventajas del uso de las tecnologías digitales en la sociedad, generando una actitud reflexiva y adoptando posturas críticas frente a la prevención del abuso, el ciberacoso, las conductas adictivas, el respeto a la intimidad, los límites a la libertad de expresión y la oposición  a cualquier forma de discriminación o violencia, fomentando el logro de la igualdad de género, la cohesión social, los Objetivos de Desarrollo Sostenible y la Agenda Canaria de Desarrollo Sostenible 2030.
+
+Competencia específica 2 (C2).
+
+Considerando el mundo actual, es imprescindible que el alumnado desarrolle valores y normas para promover una convivencia democrática, justa, respetuosa, pacífica, inclusiva y no sexista, asumiendo un compromiso activo y crítico tanto en entornos presenciales como virtuales. Por ello, es necesario que conozca el contexto cercano que lo rodea, lo analice y actúe siguiendo prácticas de diálogo. El objetivo es que reflexione y valore las normas y los principios de convivencia que rigen cualquier sociedad y que están presentes en la Declaración Universal de los Derechos Humanos y en la Constitución Española de 1978, que incluye no solo derechos sino también deberes. Además de ello, ha de ser consciente de que su implicación individual contribuye a una implicación colectiva, respaldada por la contribución del Estado y sus instituciones, además de ONG y ONGD, especialmente aquellas que actúan en la Comunidad Autónoma de Canarias. Por lo mismo, es imprescindible que reflexione críticamente acerca de los problemas éticos que se pueden derivar de la falta de reconocimiento o la insuficiente aplicación de tales valores, derechos, deberes, actitudes, ideales y comportamientos, así como sobre las posibles medidas a poner en marcha para asegurar su efectiva implantación.
+
+En definitiva, esta competencia específica parte de un modelo de relaciones basado en la promoción del pensamiento crítico y ético, el autoconocimiento, la autonomía moral y la responsabilidad individual y colectiva que capacitan al alumnado para reflexionar y reconocer las circunstancias existentes tales como la desigualdad económica en contextos próximos, la pobreza y las migraciones en la sociedad canaria, y la interculturalidad, potenciada por la riqueza socio-cultural existente en el entorno del archipiélago, identificando y rechazando situaciones de marginación, discriminación e injusticia social. Todo ello, con el objetivo de potenciar un clima de convivencia positiva y democrática.
+
+Competencia específica 3 (C3).
+
+La sociedad se desarrolla en concordancia con un contexto social y cultural, pero también a través de la relación de interdependencia y eco-dependencia con el entorno. Es por ello que el alumnado debe comprender la dimensión ecosocial de su existencia, y reconocer las condiciones y límites eco-físicos del planeta, prestando especial atención a la huella de las acciones humanas en el entorno canario. Para ello, es necesario que aprenda a buscar y analizar de manera crítica información fiable respecto a los problemas medioambientales actuales y sus consecuencias en el futuro, prestando especial atención a los principales problemas y amenazas que comprometen la conservación de la biodiversidad y las condiciones de la vida humana, con especial incidencia en la crisis climática y las consecuencias en el archipiélago canario. Se promueve también que el alumnado adopte una postura ética y biocentrista de su relación con su entorno y que de esta manera, asuma prácticas y hábitos responsables con el medio ambiente, actitudes empáticas y respetuosas con el resto de los animales y sensibilidad ante todo tipo de injusticias de acuerdo con los Objetivos de Desarrollo Sostenible y la Agenda Canarias de Desarrollo Sostenible 2030; todo ello a través de actividades que promuevan el conocimiento y cuidado del planeta y de su entorno cercano, reflexionando sobre nuestras acciones en él y la consolidación de estilos de vida saludables y sostenibles, tales como aquellos dirigidos a una gestión responsable del suelo, el aire, el agua, de acuerdo con el carácter insular del archipiélago, la energía y los residuos, así como la movilidad segura, saludable y sostenible en la vida cotidiana en Canarias.
+
+Competencia específica 4 (C4).
+
+Con esta competencia, el reconocimiento y la gestión de las emociones es imprescindible para desarrollar la empatía y la autoestima, considerados como cimientos fundamentales de la educación emocional. El modo de tratar afectivamente a las demás personas y cómo se es tratado, son factores fundamentales para mantener relaciones sociales equilibradas y constructivas, así como para desarrollar la propia autoestima y, por ello, una mejor actitud y aptitud crítica, cívica y ética. Por esta razón, es necesario ofrecer al alumnado herramientas cognitivas y hábitos de observación y  análisis que le permitan identificar, gestionar y expresar asertivamente sus emociones y sentimientos, fomentar su autonomía y responsabilidad y desarrollar su propio proyecto de vida, en el que convergen diversidad de valores, fines y modelos de vida. Para ello, debe ser un sujeto activo en actividades que fomenten la creatividad, la reflexión, el juicio y el conocimiento autónomo, poniendo especial atención en los debates en torno a lo valioso y a los valores como guía de nuestras acciones para favorecer un comportamiento ético con el entorno ecosocial, identificando normas, virtudes y sentimientos morales, prestando especial atención al contexto canario y desarrollando la empatía por valorar la riqueza de la sociedad. Teniendo todo esto en cuenta, la educación emocional ha de incorporar la reflexión en torno a la interacción de emociones y sentimientos con valores, creencias e ideas, así como el papel de ciertas emociones en la comprensión y justificación de algunas de las más nobles acciones y experiencias humanas.
+
+Explicación del bloque competencial.
+
+Las explicaciones de los bloques competenciales orientan sobre el proceso de desarrollo y adquisición tanto de las competencias específicas como de las competencias clave, detallando y concretando todos los elementos que conforman una situación de aprendizaje competencial, y ofreciendo al profesorado orientaciones concretas sobre aspectos metodológicos, posibles recursos, o contextos de aprendizaje, así como productos a través de los cuales evidenciar el aprendizaje del alumnado, siempre con una perspectiva abierta, flexible e inclusiva. Es por ello que se constituyen como los referentes más adecuados para la planificación de la concreción curricular y de la programación didáctica.
+
+Saberes básicos.
+
+Los saberes básicos del área aparecen integrados tanto en los criterios de evaluación como en las explicaciones de los bloques competenciales. No obstante, quedan establecidos, organizados y secuenciados, a continuación de los mismos.
+
+En el Bloque I, denominado “Autoconocimiento y autonomía moral”, se trata de invitar al alumnado, a través de la toma de conciencia y la expresión de diversas facetas de su personalidad, a una investigación sobre aquello que le constituye y diferencia como persona, promoviendo la gestión de emociones y deseos, y la deliberación racional en torno a los propios fines y motivaciones. Este ejercicio de autodeterminación exige, naturalmente, afrontar algunas cuestiones éticas de relevancia, como las referidas a la autonomía y heteronomía moral, la distinción entre ser y deber ser y, en general, la reflexión en torno a los valores, principios y normas que orientan nuestras vidas en lo personal y en lo ciudadano. A su vez, para entender el peso que la reflexión ética tiene en nuestra vida, conviene que el alumnado ponga a prueba su juicio y capacidad de criterio afrontando cuestiones que afectan más directamente a su experiencia personal, como las vinculadas a la propia autoestima, a la prevención de los abusos y acosos, de ciertas conductas adictivas, o a la influencia de los medios y redes de comunicación.
+
+En el Bloque II, denominado “Sociedad, democracia y justicia”, se pretende que el alumnado entienda la raíz social y cultural de su propia identidad como persona, reconociendo las distintas estructuras y relaciones que constituyen su entorno social y reflexionando sobre la dimensión normativa, ética y afectiva del mismo. Para ello, es conveniente que comprenda ciertas nociones básicas de carácter político y social, que identifique y pueda explicar las principales características de nuestro marco democrático de convivencia, y que contraste sus conocimientos y juicios con los de las demás personas, mediante la investigación y el diálogo acerca de cuestiones éticas de relevancia (la situación de los derechos humanos en el mundo, la pobreza, la igualdad efectiva entre hombres y mujeres, el respeto a la diversidad y a las minorías, el fenómeno migratorio, la crisis climática, etc.), evaluando críticamente distintas maneras de afrontarlas y justificando sus propios juicios al respecto.
+
+Por último, en el Bloque III, “Desarrollo sostenible y ética ambiental”, se persigue, a través del trabajo interdisciplinar y cooperativo del alumnado, la comprensión de las complejas relaciones que se dan entre nuestras formas de vida y el entorno. El objetivo es la identificación y el análisis de los grandes problemas ecosociales que marcan la agenda mundial, así como el debate ético sobre la forma de afrontarlos, con el propósito de adoptar, de forma consciente y responsable, determinados estilos de vida de coexistencia sostenibles con la naturaleza.
+
+Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos.
+
+Las competencias específicas explicitan desempeños que el alumnado debe poder llevar a cabo en situaciones de aprendizaje para cuyo abordaje se requieran los saberes básicos de cada área, dentro de un marco de atención inclusiva a las diferencias individuales, y a las singularidades y necesidades de cada alumno o alumna. La implementación del currículo del área implica, por tanto, la definición, por parte del profesorado, de estas situaciones de aprendizaje contextualizadas.
+
+El modelo pedagógico canario se nutre de una premisa crucial: la necesaria integración de la evaluación en el proceso de planificación y diseño de estas situaciones de aprendizaje, para asegurar una evaluación competencial del alumnado; por tanto, se sugiere al profesorado que utilice variedad de instrumentos, técnicas y herramientas de evaluación, en diferentes contextos, con soportes y formatos diversos, que permitan que el alumnado pueda demostrar lo que sabe, lo que siente y piensa, lo que puede hacer, etc., atendiéndose así, de manera inclusiva, a la diversidad del alumnado, a su ritmo de aprendizaje y a su forma de aprender.
+
+La implementación del currículo del área implica la elaboración, por parte del profesorado, de situaciones de aprendizaje globalizadas y contextualizadas, que posibiliten un mayor alcance de los saberes propios del área dentro de un marco de atención inclusiva a las diferencias individuales, a las singularidades y necesidades propias de cada alumno y alumna.
+
+Las competencias específicas explicitan desempeños que el alumnado debe poder llevar a cabo en situaciones de aprendizaje, para cuyo abordaje se requieran los saberes básicos de cada área. Por tanto, la implementación del currículo del área implica la definición, por parte del profesorado, de situaciones de aprendizaje globalizadas y contextualizadas, que posibiliten un mayor alcance de los saberes propios del área dentro de un marco de atención inclusiva a las diferencias individuales, a las singularidades y a las necesidades propias de cada alumno y alumna.
+
+Estos elementos curriculares son contextualizados de forma integral a través de situaciones de aprendizaje, y deben estar metodológicamente orientados en función de principios coherentes con los valores sostenibles que pretende transmitir el área. De esta manera, se invita al alumnado a la participación activa y razonada, a la interacción respetuosa y cooperativa, a la libre expresión de ideas, al pensamiento crítico y autónomo, a la consideración de las normas y valores comunes, a la mediación y resolución pacífica de los conflictos, al desarrollo de estilos de vida saludables y sostenibles, al uso seguro de las tecnologías digitales, y a la gestión asertiva de las emociones y las relaciones afectivas con las demás personas y con el medio natural, social y cultural propio de las islas Canarias. Todo ello, procurando integrar las actividades del aula en contextos y situaciones de aprendizaje significativas, interdisciplinares e insertas en la vida del centro y de su entorno, de forma que, a través de todo ello, se promueva el desarrollo de una ciudadanía global, consciente, libre, igualitaria, participativa y comprometida con los retos del presente.
+
+Desde el área de Valores Cívicos y Éticos, se realiza una propuesta curricular flexible, basada en los principios del DUA (Diseño Universal para el Aprendizaje), que se ajusta a las necesidades y diferentes ritmos de aprendizaje del alumnado. Desde este enfoque, la intervención educativa bajo el parámetro de la inclusividad gira en torno al centro y a la comunidad educativa con un currículo común para todo el alumnado.
+
+El área propicia modelos de enseñanza que generan un aprendizaje funcional y significativo, sustentado en principios de igualdad e inclusividad, de modo que motiva al alumnado a adquirir sus aprendizajes para afrontar los retos de la vida y desenvolverse en la sociedad actual.
+
+Esta área favorece una metodología activa basada en el aprendizaje colaborativo que implica asumir un papel dinámico y autónomo en su propio proceso de aprendizaje, haciéndose consciente y responsable del mismo. Para ello, se recomienda el trabajo en pequeños grupos, mixtos y heterogéneos, que no solo permitan atender a la diversidad, sino que estimulen la ayuda mutua y hagan que el alumnado se sienta motivado y valorado. Asimismo, el aprendizaje servicio también se concibe como una propuesta metodológica propicia para el área ya que permite desarrollar las competencias específicas del área de forma creativa, contextualizada y sostenible, promoviendo el éxito escolar y el compromiso social.
+
+Ante este reto, se sugiere al profesorado, a través de un rol de guía y facilitador, que indague en estrategias que contribuyan a que el alumnado se acerque a este currículo en las condiciones más idóneas, a través de situaciones de aprendizaje que les resulten significativas, y que estén adaptadas a las experiencias vitales, posibilidades y potencialidades del desarrollo personal y del grupo aula.
+
+Los materiales y recursos didácticos utilizados para esta asignatura han de ser variados y estar adaptados al alumnado, sus diferentes estilos y ritmos de aprendizaje. Se considera fundamental en la impartición del área la integración de las tecnologías digitales, y la utilización de recursos virtuales. Se recomienda el empleo de diversos tipos de textos y herramientas, como el portfolio u otros para compartir resultados de aprendizaje y potenciar la autoevaluación y coevaluación del alumnado, materiales audiovisuales (cortos, películas, documentales, programas de televisión, etc.) para abordar situaciones-problemas actuales. Teniendo en cuenta su naturaleza transversal, otros recursos de gran ayuda al desarrollo competencial del área se podrán encontrar en las iniciativas del propio centro educativo, como son las diferentes redes, planes, programas y proyectos educativos que potencien el respeto por las minorías y las identidades étnicos-culturales y de género, así como las actividades complementarias vinculadas a valores, etc.
+
+La práctica docente debe enfocarse a la realización de situaciones de aprendizaje planteadas en contextos cercanos a la realidad o que se le puedan presentar al alumnado dentro y fuera del aula, y que sirvan para utilizar y transferir los conocimientos, como puede ser el estudio de casos reales o simulados o la búsqueda de soluciones a situaciones problemáticas de carácter ético que el alumnado debe resolver haciendo un uso adecuado de los distintos saberes. Especialmente relevante puede ser el trabajo en proyectos reales o vinculados a un resultado práctico, que favorezcan la investigación e integración de aprendizajes. Algunas de estas investigaciones pueden centrarse en el análisis crítico de la desigualdad y la discriminación, en campañas solidarias o de concienciación, y, en definitiva, en la participación y en la toma de decisiones democráticas de la vida escolar.
+
+El área ofrece múltiples posibilidades para desarrollar distintos tipos de pensamiento con la utilización de diversos procedimientos. Entre ellos, resultan especialmente recomendables la lectura, los mapas conceptuales, los coloquios y debates que permitan la realización de juicios morales fundamentados, la defensa argumentada de opiniones e ideas, la resolución de conflictos siguiendo las fases de la mediación o la práctica del diálogo para regular la conducta y relacionarse. Además, se podrán realizar pequeñas investigaciones, entrevistas o encuestas, creación de carteles y exposiciones, colaboraciones con asociaciones o participaciones en la elaboración de las normas, así como la resolución de dilemas morales, entre otros.
+
+Ver anexo en la página 45700 del documento
+                        Descargar
+
+Tercer ciclo Educación Primaria
+
+Bloques competenciales
+
+Ver anexo en las páginas 45701-45703 del documento
+                        Descargar
+
+Saberes básicos
+
+I. Autoconocimiento y autonomía moral.
+
+1. Promoción del pensamiento crítico y ético.
+
+2. Reconocimiento de la naturaleza humana y deliberación de la identidad personal, la igualdad y la diferencia entre las personas.
+
+3. Reconocimiento y gestión de las emociones y los sentimientos, con especial atención al desarrollo de la autoestima.
+
+4. Fomento de una educación afectivo-sexual relativa a la identidad, la diferencia y la dignidad, adaptada a su nivel madurativo.
+
+5. Desarrollo del juicio moral a través de la identificación de los deseos, razones y voluntades.
+
+6. Fomento de la autonomía y responsabilidad.
+
+7. Identificación de normas, virtudes y sentimientos morales a través del debate en torno a lo valioso y a los valores como guía de nuestras acciones para favorecer un comportamiento ético.
+
+8. Desarrollo del propio proyecto personal en el que convergen diversidad de valores, fines y modelos de vida.
+
+9. Conocimiento de la influencia y el uso crítico y responsable de los medios y las redes de comunicación para prevenir conductas adictivas, el abuso y el ciberacoso. Respeto a la intimidad y reconocimiento de los límites a la libertad de expresión en entornos digitales.
+
+II. Sociedad, democracia y justicia.
+
+1. Sociedad
+
+1.1. Valoración de la empatía, los afectos, la familia, la amistad y el amor como fundamentos de la vida en sociedad.
+
+2. Democracia
+
+2.1. Reconocimiento de las virtudes del diálogo y las normas de la argumentación para la toma democrática de decisiones.
+
+2.2. Comprensión de los principios y valores constitucionales y democráticos. Reflexión sobre el problema de la justicia.
+
+2.3. Reconocimiento de la desigualdad económica con especial atención a las características propias de la economía en Canarias.
+
+2.4. Uso de las reglas de convivencia acorde con la moralidad, legalidad y conducta cívica.
+
+3. Justicia
+
+3.1. Conocimiento de los derechos humanos y de la infancia y su relevancia ética.
+
+3.2. Análisis de la pobreza: sus causas y búsqueda de soluciones locales y globales. La explotación infantil y la explotación laboral.
+
+3.3. Promoción de la igualdad y la corresponsabilidad entre mujeres y hombres, a través de conductas no sexistas para la prevención de los abusos y la violencia de género.
+
+3.4. Fomento del respeto por las minorías y las identidades etnoculturales, reconociendo la relevancia de la interculturalidad y las migraciones en la sociedad canaria.
+
+3.5. Aplicación de la resolución pacífica de conflictos para fomentar la cultura de paz y no violencia.
+
+3.6. Conocimiento de la contribución del Estado y sus instituciones a la paz, la seguridad y la cooperación internacional como base para la seguridad integral de la ciudadanía.
+
+3.7. Potenciación de un compromiso cívico y solidario al servicio de la paz. La protección civil y la colaboración ciudadana frente a los desastres ecosociales, reconociendo el papel de las ONG y ONGD especialmente aquellas que actúan en La Comunidad Autónoma de Canarias.
+
+III. Desarrollo sostenible y ética ambiental.
+
+1. Promoción de la empatía, el cuidado y el aprecio hacia los seres vivos y el medio natural para prevenir el maltrato animal, con especial atención a las especies endémicas y autóctonas de Canarias.
+
+2. Conocimiento de la interdependencia, ecodependencia e interrelación humana que existen en los ecosistemas y sociedades de Canarias.
+
+3. Identificación de los límites del planeta y las consecuencias del cambio climático en el entorno canario.
+
+4. Reflexión sobre el deber ético y la obligación legal de proteger y cuidar la biodiversidad del planeta.
+
+5. Desarrollo de hábitos y actividades para el logro de los Objetivos de Desarrollo Sostenible en consonancia con la Agenda Canaria de Desarrollo Sostenible 2030.
+
+6. Conocimiento de acciones específicas para el uso sostenible del aire, energía, agua y suelo , contemplando el carácter insular del archipiélago, así como la prevención y gestión de los residuos acorde a un consumo responsable.
+
+7. Fomento de la movilidad segura, saludable y sostenible en el entorno.
+
+
+### Lengua castellana y literatura
+
+Introducción.
+
+El área de Lengua Castellana y Literatura tiene por finalidad el desarrollo competencial del alumnado, facilitando los aprendizajes necesarios para desenvolverse en una diversidad de situaciones comunicativas, en todas las vertientes -pragmática, lingüística, sociolingüística y literaria- y en los distintos contextos -personal, educativo y social- a los que se va a enfrentar como persona autónoma. Por ello, los procesos de enseñanza y de aprendizaje vertebrados en el presente currículo persiguen un enfoque funcional y comunicativo del uso de la lengua, como herramienta que permite al individuo tanto estructurar la realidad a través del lenguaje verbal, como comunicarse e integrarse en la sociedad.
+
+El aprendizaje del área se organiza, por tanto, en torno a las estrategias relacionadas con hablar, escuchar, conversar, leer y escribir en lengua española, con el horizonte permanente de una perspectiva deontológica de la comunicación y del desarrollo de una adecuada alfabetización informacional, formando personas capaces de hacer un uso eficaz y ético de las palabras, siendo respetuosas con las diferencias y conscientes de cómo las particularidades del español hablado en Canarias contribuyen a su identidad cultural; con capacidad de aprender por sí mismas, informarse, colaborar y trabajar en equipo, transformando así la información en conocimiento; creativas y emprendedoras; comprometidas, en fin, con el desarrollo sostenible, la defensa de los derechos humanos y la convivencia igualitaria, inclusiva, pacífica y democrática, todo ello con el fin de proporcionar al alumnado herramientas que le permitan responder a los retos de la sociedad del siglo XXI, que demanda personas cultas, críticas y bien informadas. De esta manera, se sitúa el desarrollo de la competencia comunicativa en el centro de los procesos de enseñanza y de aprendizaje, desde un punto de vista globalizador, que proporciona al alumnado formación integral y que permite que se desarrolle como sujeto crítico, emocional y creativo, todo ello a partir de prácticas inclusivas que apuestan por una educación de calidad respondiendo a las necesidades del alumnado. A esto se suma la riqueza de una educación literaria puesta al servicio de la construcción de un hábito lector perdurable en cada niña y cada niño, desarrollando su autoimagen lectora y su implicación personal con el mundo literario.
+
+Los saberes propios de Canarias se han incluido en el currículo del área desde un enfoque centrado en la educación patrimonial. Este enfoque presenta un carácter globalizador y transversal, y nace con la premisa de concienciar y sensibilizar al alumnado canario de la importancia del cuidado, disfrute y transmisión del patrimonio, pone el acento en la identificación y puesta en valor del mismo como parte inseparable de la sociedad, y apuesta por la implicación de la ciudadanía para lograr su sostenibilidad y la de los valores que en él perduran.
+
+De esta manera, a lo largo de la Educación Primaria, el alumnado se acerca de manera gradual a estos aprendizajes, propiciándose la inserción, en los currículos de las diferentes áreas de la etapa, de contextos de aprendizaje en torno al patrimonio cultural canario, que promuevan la participación de los niños y las niñas, para que lo conozcan, disfruten y valoren, contribuyendo así a su sensibilización, respeto y conservación.
+
+Contribución a los objetivos de etapa.
+
+Una exploración superflua de los objetivos de la etapa podría hacer creer que el único objetivo relacionado con el área de Lengua Castellana y Literatura fuera el de conocer y utilizar de manera apropiada la lengua castellana y adquirir hábitos de lectura (e), así como ejercitar la competencia comunicativa en otro idioma, fomentando la reflexión interlingüística, propia del objetivo (f). Sin embargo, el desarrollo de su currículo, su carácter instrumental y su vinculación con la adquisición de las competencias clave arrojan una perspectiva versátil y constructiva de los aprendizajes del área.
+
+A través de esta área se proporcionan, en efecto, los principios que regulan la comunicación humana y desarrollan las capacidades interpersonales que favorecen la consecución de los objetivos (a), (c), (d) y (m) a través de la resolución pacífica de conflictos desde una perspectiva empática y afectiva, el respeto a las diferencias que, de manera natural, encontramos en una sociedad plural o la corresponsabilidad en el trabajo compartido en aras de una mejora de la convivencia, entre otros. Por otro lado, dado ese carácter instrumental que tiene el área, es fácil plantear textos orales, escritos multimodales que contribuyan al desarrollo de objetivos que redundan en la salud personal y social, bien por adquirir hábitos saludables de movilidad (n) y actividad física, o bien de carácter emocional, por aceptar el propio cuerpo y el de las demás personas, desde la diversidad (k). Asimismo, el área coadyuva al desarrollo de las capacidades intrapersonales que generan en el alumnado un sentido crítico, iniciativa personal, confianza en sí mismo y en sí misma, y cuidado del mundo que nos rodea, contribuyendo a los objetivos (b), (h) y (l). Por otra parte, el área favorece la consecución del objetivo (g) de la etapa, puesto que se relaciona directamente con el desarrollo de habilidades lingüísticas para la comprensión de problemas científicos, matemáticos y tecnológicos y la comunicación de los resultados obtenidos utilizando la terminología adecuada a través de diferentes lenguajes. Otro propósito del área de Lengua Castellana y Literatura es alcanzar el objetivo (i) mediante la multialfabetización que permita que el alumnado pueda codificar y decodificar lenguajes multimodales y diferentes soportes de comunicación, tanto digitales como no digitales, así como la consecución del objetivo (j) promoviendo la creación y la interpretación de diferentes expresiones artísticas. Para ello, es necesario lograr aplicar en el aula un currículo integrado, evitando la atomización de sus saberes y priorizando su carácter instrumental, fundamental para adquirir los aprendizajes del resto de las áreas.
+
+Contribución a las competencias clave.
+
+La propuesta curricular del área tiene un marcado carácter competencial y se ha desarrollado conforme a los descriptores operativos establecidos en el Perfil de salida del alumnado al término de la enseñanza básica, concretado para la Educación Primaria, que identifica el grado de desarrollo y adquisición de las competencias clave para todo el alumnado que finaliza esta etapa.
+
+Sus aprendizajes contribuyen directamente a la adquisición de la Competencia en comunicación lingüística (CCL), ya que el enfoque del área está centrado en la función comunicativa que desarrollará el alumnado en todas y cada una de las actividades que realice en el aula y que aplicará en las diferentes situaciones de su vida diaria. El lenguaje, tanto verbal como no verbal, es el instrumento a través del cual el alumnado accede a los aprendizajes y los conocimientos, regula sus emociones, escucha asertivamente las de las demás personas, comunica sus propias experiencias emocionales e interpreta y produce textos literarios. La organización de las competencias específicas del área permite abordar diferentes destrezas relacionadas con la comprensión y la expresión tanto oral como escrita, la alfabetización informacional, la educación literaria y el uso ético de la comunicación, aspectos todos ellos que configuran los descriptores operativos de la CCL en el Perfil de salida del alumnado al término de la educación básica, y que fomentarán que el alumnado produzca y reciba mensajes con distintas finalidades y en distintos formatos, expresándolos de manera clara y adecuada a diferentes contextos de su entorno personal, social y educativo, con actitud cooperativa y respetuosa.
+
+El aprendizaje de otras lenguas y el desarrollo de la Competencia plurilingüe (CP) no solo favorece la capacidad de entender, respetar y valorar otras culturas, formas de pensar y hacer. También mejora la comprensión de la propia lengua, puesto que contribuye a forjar la reflexión interlingüística, y la enriquece integrando dimensiones históricas, lingüísticas y culturales. La CP se fusiona y complementa perfectamente con la CCL, de manera que la una no se entiende sin la otra; ya que el desarrollo del ser humano ha estado marcado, a lo largo de la historia, tanto por las interacciones con los miembros de su propia comunidad como de otras. La visión holística e histórica de esas interacciones enriquece el área, afianzando su objeto de estudio desde el reconocimiento de la diversidad lingüística del aula y del entorno, y fomentando la curiosidad por el acervo que hay detrás de cada lengua y de cada forma de habla, como en el caso del español de Canarias.
+
+En lo que concierne a la Competencia matemática y competencia en ciencia, tecnología e ingeniería (STEM), el área de Lengua Castellana y Literatura proporciona al alumnado las habilidades  comunicativas necesarias para comprender los fenómenos de su entorno, así como los elementos más relevantes de los métodos y resultados científicos, matemáticos y tecnológicos, y explicarlos utilizando la terminología adecuada. Asimismo, las destrezas comunicativas asociadas a la alfabetización informacional ayudarán al alumnado a afianzar el planteamiento de hipótesis propio del pensamiento científico, desarrollando situaciones de aprendizaje en las que se planteen preguntas o retos, se aborden búsquedas y comprobaciones para confirmarlos o refutarlos, y se emitan conclusiones al respecto.
+
+El tratamiento de la información y su transformación en conocimiento es, además, uno de los pilares del área que contribuye a la Competencia digital (CD). Así, a través de las tecnologías de la información y los medios digitales, se promueve que el alumnado desarrolle destrezas relacionadas con la búsqueda de información, su procesamiento y el uso de los instrumentos de comunicación, desde una perspectiva crítica, aplicando conocimientos, habilidades y actitudes necesarias para conseguir una alfabetización digital. Asimismo, las tecnologías hoy en día suponen una herramienta indispensable para la mejora y accesibilidad de los saberes y aprendizajes, dado que proporcionan la información en diferentes canales y soportes, y promueven una enseñanza inclusiva y de calidad. De la misma manera, se pretende motivar al alumnado en el uso de dispositivos y recursos digitales para reelaborar y crear contenidos digitales sencillos en distintos formatos (texto, tabla, imagen, audio, vídeo, programa informático…) que le permitan comunicarse, colaborar y compartir en red, de manera crítica, ética, responsable, segura, saludable y sostenible.
+
+La comunicación está involucrada en la capacidad de autogestionar el aprendizaje y articular estrategias de metacognición, así como de propiciar el autoconocimiento y el autoconcepto necesarios para una interacción social satisfactoria. Por ello, esta área incide de manera inequívoca en el desarrollo de la Competencia personal, social y de aprender a aprender (CPSAA). Ofrecer al alumnado oportunidades para practicar las destrezas del lenguaje, equivocarse en el proceso y reflexionar sobre los errores propios y de sus iguales, le ayudará a entender que estos son una oportunidad de aprendizaje. Por otra parte, la lengua como motor del pensamiento ayuda a estructurar la realidad en los ámbitos social y personal. En este sentido, los aprendizajes del área promueven de manera constante la consecución de las capacidades para gestionar la información eficazmente y para colaborar con otras personas de forma constructiva desde múltiples situaciones, a través de intercambios comunicativos en los que el alumnado debe identificar, expresar y respetar sus propias emociones y las de las demás personas.
+
+El acto comunicativo requiere, además, interactuar con otras personas ajustándose al conjunto de normas y valores propios de una cultura democrática para ejercer una ciudadanía responsable y respetuosa con los derechos humanos. La ética de la comunicación se configura así como competencia específica transversal del currículo de Lengua Castellana y Literatura, incidiendo de manera clara en el fomento de la Competencia ciudadana (CC) del alumnado. Ello también requiere poner en juego la capacidad de comprender la información que nos rodea para poder reflexionar de forma crítica acerca de los grandes problemas éticos de nuestro tiempo, y el desarrollo de un estilo de vida acorde con los Objetivos de Desarrollo Sostenibles planteados en la Agenda 2030 y con las metas canarias que concretan los retos de nuestra Comunidad Autónoma.
+
+A medida que los alumnos y las alumnas van avanzando en la etapa, el tratamiento de la Competencia emprendedora (CE) puede conjugarse con la capacidad de crear, replantear ideas creativas y compartirlas de forma respetuosa usando el lenguaje como vehículo de expresión, conexión y reflexión. Por otra parte, la capacidad de asumir retos, de organización, planificación o gestión de proyectos sostenibles que requieren a su vez de un pensamiento estratégico y de reflexión ética son, en su conjunto, procesos que se desarrollan en esta área desde el momento en que toda acción comunicativa requiere de ellos y de la capacidad de comprensión para nutrirse y tomar decisiones basadas en la información y el conocimiento. Se apuesta, además, por facilitar la adquisición de esta competencia considerando al alumnado en su faceta de agente social, en el desarrollo de habilidades como la capacidad de colaborar y negociar con otras personas, desde la asertividad y la empatía.
+
+El área de Lengua Castellana y Literatura contribuye, por último, al desarrollo y adquisición de la Competencia en conciencia y expresión culturales (CCEC), porque promueve que el alumnado genere ideas propias a través de la lectura, la escucha, la interpretación y el análisis de textos, obras o fragmentos literarios: es un objetivo de aprendizaje en torno a la educación literaria que persigue, por un lado, promover la construcción de hábitos lectores y, por otro lado, desarrollar las habilidades de interpretación textual y de apropiación de un patrimonio literario que conduce de manera inequívoca a apreciar otros muchos aspectos y manifestaciones de la cultura y del arte. Así, el área contribuye a la creación de una verdadera conciencia creativa en torno a la cultura.
+
+Bloques competenciales.
+
+El bloque competencial es el eje del currículo de cada área: integra la enunciación de las competencias específicas, su vinculación con los descriptores operativos del Perfil de salida, los criterios de evaluación y la explicación del bloque competencial.
+
+Las competencias específicas, que tienen carácter finalista, constituyen un elemento de conexión entre las competencias clave y los saberes propios del área. En cuanto a los criterios de evaluación, estos constituyen los referentes que indican el nivel de desempeño a alcanzar por el alumnado. Se establece, además, la contribución de cada criterio a los descriptores del Perfil de salida, de manera que se facilita la evaluación conjunta de los aprendizajes propios del área y del grado de desarrollo y adquisición de las competencias en el alumnado. En lo relativo a las explicaciones de los bloques competenciales, estas integran los aprendizajes recogidos en la totalidad del bloque, orientan sobre el proceso de desarrollo y adquisición tanto de las competencias específicas como de las competencias clave; y ofrecen, además, indicaciones metodológicas -siempre con una perspectiva abierta, flexible e inclusiva- para el diseño y la implementación de situaciones de aprendizaje competenciales. Es por ello que las explicaciones de los bloques competenciales se constituyen como los referentes más adecuados para la concreción curricular y la elaboración de la programación didáctica.
+
+Competencias específicas y criterios de evaluación.
+
+En el currículo de Lengua Castellana y Literatura, se han establecido diez competencias específicas que se concretan en un total de quince criterios de evaluación. Estos criterios de evaluación presentan una naturaleza competencial, de manera que se relacionan directamente con los descriptores operativos del perfil de salida a los que contribuye la competencia específica, expresando tanto las capacidades y los saberes a adquirir, así como el contexto y modo de aplicación de dichos aspectos.
+
+La enunciación de la competencia específica se recoge en el bloque competencial correspondiente. A continuación se ofrece una explicación de cada una de ellas.
+
+Competencia específica 1 (C1).
+
+La competencia específica se fundamenta en el hecho de que los niños y las niñas aprenden mejor a partir de lo que ya saben. Por ello es importante establecer vínculos entre su experiencia comunicativa y los aprendizajes que se pretenden desarrollar. En el caso de la educación lingüística, no se trata únicamente de una cuestión de eficacia didáctica, sino que va mucho más allá: la lengua que habla el alumnado forma parte de su identidad. Por ello, el reconocimiento de la diversidad lingüística del aula es el primer gesto de hospitalidad y de respeto hacia nuestro alumnado. Además, esa diversidad lingüística y cultural constituye un caudal de saberes y experiencias que no podemos desperdiciar. El conocimiento explícito sobre la lengua se enriquece enormemente con la reflexión interlingüística. A ello hay que añadir la importancia de propiciar en el alumnado de las Islas una conciencia lingüística en torno al español de Canarias como variedad de prestigio adecuada a todas las situaciones y en todos los niveles de formalidad comunicativa.
+
+Por ello, el criterio de evaluación asociado a este primer bloque competencial garantiza a lo largo de la etapa una progresión de aprendizajes que van desde el contexto más cercano, como pueden ser las características del español de Canarias o de las lenguas que se hablan en el centro educativo, y los conocimientos más globales entorno a otros rasgos dialectales, tan ricos y diversos en el extenso mundo hispanohablante, hasta otras lenguas de España, del mundo, distintas lenguas de signos u otros lenguajes. Todo esto desde la perspectiva de evitar prejuicios lingüísticos y respetar la diversidad de lenguas y dialectos como elemento fundamental de inclusión, integración y cultura de paz.
+
+Competencia específica 2 (C2).
+
+Con el desarrollo de esta competencia, el alumnado tiene la oportunidad de incorporar prácticas discursivas que aborden temas de relevancia ecosocial y cultural. En este proceso de comunicación intervienen los elementos propios de la situación comunicativa, además de elementos contextuales y cotextuales que permiten ir más allá del significado del texto e interpretar su sentido, en diferentes soportes y canales sensoriales, entre ellos, el auditivo, favoreciendo situaciones significativas para el alumnado.
+
+La adquisición de destrezas específicas para la comprensión e interpretación de mensajes orales permite al alumnado obtener, seleccionar, valorar y relacionar informaciones procedentes de medios de comunicación y del contexto escolar, escuchar de manera activa, realizar inferencias y deducciones, distinguir la información de la opinión e iniciarse en la interpretación de algunos elementos sencillos implícitos, como la ironía o el doble sentido. En el ámbito social, se debe tener en cuenta la profusión de textos de carácter multimodal, que reclama una específica alfabetización audiovisual y mediática.
+
+Competencia específica 3 (C3).
+
+El desarrollo de esta competencia se inicia con el uso de la palabra como herramienta de construcción del pensamiento y como mecanismo que permite expresarse, cubriendo las necesidades comunicativas, e iniciarse en las relaciones sociales. Por ello, esta competencia específica propicia interacciones comunicativas en las que el alumnado tenga oportunidad de hablar, partiendo de sus propias capacidades, intereses, necesidades, emociones y motivaciones, para crear vínculos personales en contextos orales significativos y cercanos. En esta línea, se fomenta el aprendizaje dialógico, dando voz, potenciando la escucha y favoreciendo la atención a los intereses del alumnado.
+
+Los dos criterios de evaluación integrados en este bloque de expresión oral inciden especialmente en las características peculiares de la expresión oral planificada, por una parte, y de las situaciones de interacción conversacional, por la otra. Asimismo, el primer criterio insiste en la importancia de prestar atención a los rasgos del español de Canarias en este tipo de situaciones comunicativas. Tal y como ocurre con la mayor parte de los criterios de evaluación del área, la gradación entre ciclos se establece en función de la mayor o menor complejidad de las situaciones comunicativas o del grado de autonomía conferido al alumnado en su desempeño.
+
+Competencia específica 4 (C4).
+
+El desarrollo de la competencia específica implica tanto la decodificación como la interpretación de textos escritos que permitan disfrutar de la lectura, acceder al conocimiento del mundo y aumentar la capacidad lectora, favoreciendo la adquisición de nuevos aprendizajes. La comprensión lectora supone un proceso en el que se utilizan diversas estrategias antes, durante y después de la lectura. En todo caso, la alfabetización requerida para responder a los retos del siglo XXI pasa necesariamente por la enseñanza de la lectura multimodal e hipertextual, siendo una herramienta inclusiva que flexibiliza el acceso a la información y que ha de tener en cuenta el gran caudal de información que proviene de elementos paratextuales y contextuales, y que precisa, en no pocas ocasiones, de una valoración de su fiabilidad.
+
+La lectura comprensiva entendida en amplio sentido, por un lado, y la interpretación de todos esos elementos que acompañan y contextualizan al texto, por otro lado, conforman los dos criterios de evaluación que se relacionan con esta competencia específica.
+
+Competencia específica 5 (C5).
+
+Esta competencia desarrolla aprendizajes que permiten al alumnado avanzar hacia una creciente confianza y autonomía en la producción lingüística. La expresión escrita es una de las destrezas que el alumnado desarrollará a lo largo de esta etapa, por lo que es necesaria la adquisición de estrategias y normas que le permitan la producción de textos escritos que respondan a sus demandas comunicativas en situaciones reales.
+
+Indudablemente, el proceso de enseñanza y de aprendizaje de la escritura reclama una cuidadosa y sostenida intervención en el aula para afianzar durante toda la etapa un proceso que desarrolla, entre la primera planificación y el resultado final de una producción textual, al menos, los cuatro momentos a los que hace referencia la competencia específica y que son parte central del único criterio de evaluación asociado a la misma. Asimismo, ofrecer la posibilidad de utilizar dispositivos y recursos digitales y sus múltiples formas de acción y expresión como correctores ortográficos o software de reconocimiento y conversores, tanto de texto-voz como de texto-pictograma, posibilitando la construcción y composición del aprendizaje dentro de una escuela inclusiva y de calidad. Es por esto que se avanza hacia una conciencia ortográfica adecuada, el uso del lenguaje inclusivo y el respeto hacia las particularidades del español de Canarias, constituyen otro de los aprendizajes muy presentes en el criterio, cuya progresión a lo largo de los tres ciclos está marcada fundamentalmente por el grado creciente de autonomía y la diversidad cada vez mayor de ámbitos y contextos.
+
+Competencia específica 6 (C6).
+
+Con el desarrollo de esta competencia, el alumnado adquiere habilidades y destrezas para desarrollar un conocimiento genuino a partir de la información, reconociendo cuándo se necesita, aprendiendo a buscarla y compararla en distintas fuentes, a sintetizarla y a comunicarla de manera eficaz y creativa.
+
+El criterio de evaluación integrado en este bloque competencial, que propone una evolución basada en el avance progresivo, desde el total acompañamiento en el proceso hacia un desempeño pautado pero progresivamente autónomo, incide tanto en el desarrollo de las diversas estrategias necesarias como en la creación de una conciencia crítica frente a la desinformación y en favor del respeto a la propiedad de las ideas.
+
+Competencia específica 7 (C7).
+
+Los aprendizajes vinculados a esta competencia específica persiguen fundamentalmente promover la construcción de hábitos lectores, trasladando a la escuela los rituales de las prácticas privadas y sociales de lectura en un proceso que favorezca la creación de una autonomía en la identidad lectora de cada niño y cada niña, y que le permita relacionar la literatura con su experiencia personal y utilizarla como un medio de comprensión propia, de otras personas y del mundo.
+
+Por ello, los dos criterios de evaluación de este bloque competencial inciden, respectivamente, en el desarrollo progresivo de la autonomía para la reflexión en la elección de los propios gustos literarios y en las prácticas sociales de intercambio en torno a la lectura, facilitando la construcción de comunidades literarias. La biblioteca escolar y, en general, otros recursos y herramientas ofrecidos en el marco del Plan de Comunicación Lingüística de cada centro educativo, constituyen el contexto idóneo para el desarrollo de estos aprendizajes.
+
+Competencia específica 8 (C8).
+
+Esta competencia específica, fundamentada en favorecer el avance de la competencia interpretativa en torno a los textos literarios, promueve un acercamiento más acompañado, analítico y profundo al hecho literario. Su finalidad se concreta en hacer al alumnado capaz de leer obras diversas, de hacer conexiones intertextuales entre ellas y de establecer vínculos entre las obras y otros productos culturales, apoyándose en ciertos saberes propios del sistema literario; así como en fomentar su capacidad creativa a partir de todo ello.
+
+Los criterios de evaluación del bloque se centran, de este modo, en la interpretación y en la creación, y ponen el acento en una progresiva integración, cada vez más consciente y autónoma, de los saberes en torno a los aspectos elementales del arte de la palabra en los propios procesos de lectura y escritura con intención literaria.
+
+Competencia específica 9 (C9).
+
+El desarrollo de esta competencia específica permite formular generalizaciones para establecer puentes entre el uso y el conocimiento lingüístico sistemático desde edades tempranas. Se favorecerá, por tanto, la reflexión continuada en torno a la lengua, y sus condiciones de uso, haciendo especial hincapié en el español hablado en Canarias; promoviendo las respuestas personales, de manera ajustada a las posibilidades de abstracción de estas edades, a través de las oportunidades que se generan tanto en la producción como en la comprensión de textos orales y escritos, vinculados con usos reales; y haciendo uso de la autorreflexión de los saberes y los aprendizajes.
+
+En consonancia con todo ello, los dos criterios de evaluación asociados a esta competencia se centran, respectivamente, en el afianzamiento de esas reflexiones que ocasionan un aprendizaje gramatical inductivo y en la aplicación de dichos aprendizajes para la mejora de las propias producciones comunicativas.
+
+Competencia específica 10 (C10).
+
+Esta última competencia específica, relativa a la ética de la comunicación, es necesariamente transversal a las otras nueve competencias específicas del currículo. Adquirirla implica no solo que los niños y las niñas sean eficaces a la hora de comunicarse, sino que forjen relaciones interpersonales basadas en la empatía y el respeto, usando prácticas que desarrollen una imagen positiva y brindando herramientas para la escucha activa, la comunicación asertiva y la resolución dialogada de los conflictos; todo ello alineado con la prevención de cualquier tipo de violencia, incluyendo en todo caso la violencia de género y la apuesta por la cultura de la paz.
+
+Tal es el enfoque de los aprendizajes relacionados en el único criterio de evaluación de este bloque competencial, que incide, además, en erradicar los usos discriminatorios del lenguaje y los abusos de poder a través de la palabra.
+
+Saberes básicos.
+
+Los saberes básicos del área aparecen integrados tanto en los criterios de evaluación como en las explicaciones de los bloques competenciales. No obstante, quedan establecidos, organizados y secuenciados, a continuación de los mismos.
+
+Los cuatro bloques de saberes se relacionan de manera directa con las diferentes competencias específicas, suponen la integración de conceptos, procedimientos y actitudes, y se gradúan en complejidad a medida que se avanza en los ciclos; pero dicha graduación se establece, una vez más y dado el inequívoco enfoque competencial de los mismos, desde la recursividad ciclo a ciclo de los aprendizajes comunicativos. En efecto, carece de sentido en un área eminentemente procedimental e instrumental, cuyo punto de partida es la lengua con la que el alumnado ya se comunica, asignar de manera compartimentada unos contenidos a cada ciclo. Será la autonomía del profesorado, en el proceso de aplicación del currículo a cada aula y cada centro, el marco en el que se desarrollará la contextualización de los saberes básicos en las diferentes propuestas didácticas a lo largo de los niveles de la etapa.
+
+El Bloque I, “Las lenguas y sus hablantes”, relacionado especialmente con la C1, recoge los saberes necesarios para que el punto de partida de los aprendizajes de la materia esté correctamente contextualizado en la biografía lingüística del alumnado y en el mapa lingüístico de su entorno. De este modo, el objeto de estudio de la materia impide la abstracción descontextualizada de los saberes gramaticales y literarios, por ejemplo, al tiempo que permite la realización de una importante reflexión interlingüística que contribuye a entender que existe una vinculación entre las diferentes lenguas y dialectos, los lugares y la cultura, y a desarrollar estrategias de identificación de prejuicios y estereotipos lingüísticos.
+
+Los saberes recogidos en Bloque II, “Comunicación”, pueden ser tratados en varios de los bloques competenciales, ya que se relacionan con los procesos de comprensión y producción, tanto oral como escrita y la alfabetización mediática e informacional, atendiendo a aspectos como el contexto y los géneros discursivos.
+
+El Bloque III, denominado “Educación Literaria”, integra los saberes más directamente relacionados con la C7 y la C8, necesarios para que el alumnado conforme su propia identidad lectora, desarrolle el gusto por la lectura, adquiera estrategias para interpretar textos y participar en conversaciones literarias, producir de manera creativa textos con intención literaria y establecer vínculos entre los textos leídos y otras manifestaciones artísticas.
+
+Los saberes que se recogen en el Bloque IV, de “Reflexión sobre la lengua y sus usos en el marco de propuestas de producción y comprensión de textos orales, escritos o multimodales”, pueden ser abordados en varios de los bloques competenciales, ya que pretenden que el alumnado sea capaz de realizar una reflexión metalingüística estableciendo generalizaciones sobre aspectos lingüísticos, a través de la observación, comparación y transformación de palabras y enunciados, de manera inductiva en los diferentes procesos comunicativos que se desarrollen en el aula.
+
+Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos.
+
+Las competencias específicas explicitan desempeños que el alumnado debe poder llevar a cabo en situaciones de aprendizaje para cuyo abordaje se requieran los saberes básicos de cada área, dentro de un marco de atención inclusiva a las diferencias individuales, y a las singularidades y necesidades de cada alumno o alumna. La implementación del currículo del área implica, por tanto, la definición, por parte del profesorado, de estas situaciones de aprendizaje contextualizadas.
+
+El modelo pedagógico canario se nutre de una premisa crucial: la necesaria integración de la evaluación en el proceso de planificación y diseño de estas situaciones de aprendizaje, para asegurar una evaluación competencial del alumnado. Es necesario, por tanto, que el profesorado utilice variedad de instrumentos, técnicas y herramientas de evaluación, en diferentes contextos, con soportes y formatos diversos, que permitan que el alumnado pueda demostrar lo que sabe, lo que siente y piensa, lo que puede hacer…, atendiéndose así, de manera inclusiva, a la diversidad del alumnado, a su ritmo de aprendizaje y a su forma de aprender.
+
+Desde el área de Lengua Castellana y Literatura, se realiza una propuesta curricular flexible, basada en los principios del DUA (Diseño Universal para el Aprendizaje), que se ajusta a las necesidades y diferentes ritmos de aprendizaje del alumnado. Desde este enfoque, la intervención educativa, bajo el parámetro de la inclusividad, gira en torno al centro y a la comunidad educativa con un currículo común para todo el alumnado.
+
+Asimismo, dado el enfoque inequívocamente global y procesual de la educación lingüística, todos los criterios de evaluación permanecen de modo longitudinal a lo largo de los tres ciclos de la etapa, y su gradación no se establece mediante una distribución de saberes asociados, sino en función de la mayor o menor complejidad de los textos, de las habilidades de producción e interpretación requeridas, del progreso en la adquisición del metalenguaje necesario para la reflexión sobre los usos comunicativos, o del grado de autonomía conferido al alumnado en cada nivel de desempeño.
+
+De este modo, el progreso en los aprendizajes del área debe permitir al alumnado responder a situaciones comunicativas reales, en los ámbitos personal, social y educativo para que al término del curso escolar se hayan trabajado de manera proporcionada todos los saberes básicos incluidos en el currículo, sin olvidar que esta etapa tiene como finalidad la integración de las distintas experiencias y aprendizajes con una perspectiva global y adaptada a los distintos ritmos de aprendizaje, relacionadas con las destrezas de hablar, escuchar, leer y escribir en lengua española. En esta línea, se apuesta por metodologías activas e inclusivas que estén en la línea del DUA, fomentando la motivación con múltiples formas de acción, expresión y recursos que faciliten la accesibilidad a los saberes y actividades, ajustándose a las necesidades y favoreciendo la detección y subsanación de posibles barreras de aprendizaje con el uso de sistemas alternativos y aumentativos de comunicación.
+
+Por ello, en el área de Lengua Castellana y Literatura la adquisición de las competencias específicas debe producirse a partir de la movilización de los saberes de todos los bloques del área, de manera coordinada e interrelacionada, promoviendo en todo momento la interacción comunicativa y la colaboración del alumnado entre sí, a través del uso del aprendizaje cooperativo como estrategia inclusiva, y con los demás agentes que intervienen en los procesos de enseñanza y de aprendizaje. Las situaciones de aprendizaje se diseñarán para promover en el alumnado el uso de estrategias que le permitan responder a los desafíos sociales del siglo XXI, propiciando siempre la funcionalidad de la lengua en situaciones de la vida diaria, utilizando las características de pronunciación, gramaticales y léxicas del español de Canarias, y estableciendo relaciones con los aprendizajes que se estén trabajando en el resto de las áreas, de manera que el alumnado pueda poner en práctica los géneros discursivos propios de cada una de ellas. Asimismo, la planificación metodológica del área ha de poner especial interés en la integración, en todo momento, de un aprendizaje literario para crear personalidades lectoras y para encontrar en la obra de los escritores y las escritoras el espejo en el que observar el reflejo de otras personas, o en el que mirarse y descubrirse.
+
+En fin, los aprendizajes de Lengua Castellana y Literatura no pueden concebirse, en modo alguno, como la mera transmisión y recepción de contenidos disciplinares; por el contrario, deben entenderse como un proceso en construcción y basado en la reflexión y el análisis acompañado, cuyo fin último es formar, a un tiempo, personas comunicadoras éticas y eficaces, y personas lectoras con una implicación personal y placentera ante la literatura.
+
+Primer ciclo Educación Primaria
+
+Bloques competenciales
+
+Ver anexo en las páginas 45716-45725 del documento
+                        Descargar
+
+Saberes básicos
+
+I. Las lenguas y sus hablantes.
+
+1. Reconocimiento de la biografía lingüística personal y mapa lingüístico del aula.
+
+2. Identificación, de manera acompañada, de la diversidad etnocultural y lingüística como riqueza y herramienta de reflexión interlingüística, con especial atención a las características propias del español hablado en Canarias y en América.
+
+3. Aproximación a la lengua de signos a través de la identificación del alfabeto dactilológico, expresiones y vocabulario de uso cotidiano, así como a algunos SAAC.
+
+4. Identificación, de manera acompañada, de prejuicios y estereotipos lingüísticos.
+
+5. Uso de un lenguaje no discriminatorio y respetuoso con las diferencias.
+
+II. Comunicación.
+
+1. Contexto
+
+1.1. Identificación, de manera acompañada, de los componentes del acto comunicativo (situación, participantes, intención) y su adecuación a los diferentes contextos.
+
+2. Géneros discursivos
+
+2.1. Empleo de textos pertenecientes a géneros discursivos propios del ámbito personal y educativo, atendiendo al contenido y a la forma, y adaptados a su nivel madurativo.
+
+2.2. Identificación y uso, de manera acompañada, de diferentes tipologías textuales en situaciones comunicativas.
+
+2.3. Aplicación de manera acompañada de estrategias sencillas para la coherencia, la cohesión y la adecuación en diferentes tipos de textos.
+
+3. Procesos
+
+3.1. Interacción oral adecuada en contextos espontáneos y reglados, a través de la escucha activa, la asertividad y la cortesía lingüística en la resolución dialogada de conflictos. Expresión y escucha empática de necesidades, vivencias y emociones propias y ajenas.
+
+3.2. Interacción escrita adecuada en contextos reglados. Expresión y lectura empática de información y opiniones propias y ajenas.
+
+3.3. Comprensión de textos orales mediante la identificación de las ideas más relevantes y la interpretación del sentido global para dar opiniones razonadas. Detección de usos claramente discriminatorios del lenguaje verbal y no verbal.
+
+3.4. Producción de textos orales y multimodales atendiendo a la pronunciación, la entonación y la actitud postural, y utilizando las características de pronunciación, gramaticales y léxicas del español de Canarias si es la variante dialectal normalmente usada. Construcción y comunicación de conocimiento, de manera acompañada, mediante la planificación y producción de diferentes tipos de textos.
+
+3.5. Comprensión lectora a través de la aplicación de estrategias elementales antes, durante y después de la lectura. Identificación de las ideas más relevantes e interpretación del sentido global, emitiendo opiniones razonadas de manera acompañada. Identificación de elementos gráficos y paratextuales al servicio de la comprensión. Iniciación a las habilidades lectoras (ritmo, entonación, pausas, timbres de voz…) mediante la lectura compartida. Detección de usos claramente discriminatorios del lenguaje verbal y no verbal.
+
+3.6. Producción, de manera acompañada, de textos escritos y multimodales en distintos soportes, incluyendo los digitales, aplicando las convenciones del código escrito y la ortografía natural, con la debida atención a las características gramaticales y léxicas del español de Canarias. Elaboración, de manera acompañada, de textos creativos con coherencia, cohesión y adecuación, utilizando estrategias, individuales o grupales, de planificación, textualización, revisión y autocorrección, realizando una opinión razonada de los mismos. Uso de elementos gráficos para favorecer la comprensión.
+
+3.7. Iniciación en la alfabetización mediática e informacional, aplicando estrategias para la búsqueda guiada de información en fuentes documentales variadas y con distintos soportes y formatos. Comunicación y opinión razonada, de manera acompañada, de la información. Reconocimiento de la autoría y respeto por la propiedad intelectual. Uso guiado de la biblioteca, así como de recursos digitales del aula.
+
+III. Educación literaria.
+
+1. Lectura acompañada de obras o fragmentos variados y diversos de la literatura infantil, adaptados a su nivel madurativo y organizados en itinerarios lectores, con la debida atención a muestras de la literatura canaria.
+
+2. Uso de estrategias para la interpretación acompañada y compartida de las obras a través de conversaciones literarias.
+
+3. Relación, de manera acompañada, entre los elementos constitutivos esenciales de la obra literaria (tema, personajes, argumento, espacio) y la construcción del sentido de la obra.
+
+4. Identificación acompañada de algunos recursos literarios.
+
+5. Relación entre los textos leídos y otras manifestaciones artísticas y culturales.
+
+6. Inicio de la construcción de los itinerarios lectores individuales. Uso de estrategias para la expresión de gustos e intereses.
+
+7. Lectura expresiva, dramatización o interpretación de fragmentos atendiendo a los procesos de comprensión y al nivel de desarrollo.
+
+8. Creación de textos de intención literaria, de manera acompañada, partiendo de modelos dados.
+
+9. Uso acompañado de la biblioteca de aula o de centro como escenario de actividades literarias compartidas.
+
+IV. Reflexión sobre la lengua y sus usos en el marco de propuestas de producción y comprensión de textos orales, escritos o multimodales.
+
+1. Establecimiento de generalizaciones sobre aspectos lingüísticos elementales a partir de la observación, comparación y transformación de palabras y enunciados, prestando especial atención a la existencia de distintos tipos de palabras y sus relaciones de concordancia, con la debida consideración al español de Canarias.
+
+2. Aproximación a la lengua como sistema con distintos niveles a partir de la identificación de sonidos y letras, palabras, enunciados y textos.
+
+3. Adquisición de vocabulario a través de la reflexión contextualizada sobre la relación de significado entre unas palabras y otras.
+
+4. Aplicación, de manera acompañada, de los signos de puntuación, teniendo en cuenta la modalidad oracional, tanto para organizar el texto escrito como para expresar la intención comunicativa.
+
+5. Aplicación de mecanismos de coherencia y cohesión textual, con especial atención a los conectores temporales.
+
+6. Iniciación en el uso del diccionario en distintos formatos como herramienta para favorecer el conocimiento alfabético y enriquecer su vocabulario.
+
+Segundo ciclo Educación Primaria
+
+Bloques competenciales
+
+Ver anexo en las páginas 45729-45738 del documento
+                        Descargar
+
+Saberes básicos
+
+I. Las lenguas y sus hablantes.
+
+1. Reconocimiento de la biografía lingüística personal y mapa lingüístico del entorno.
+
+2. Identificación de manera autónoma de la diversidad etnocultural y lingüística como riqueza y herramienta de reflexión interlingüística, con especial atención a las características propias del español hablado en Canarias y en América.
+
+3. Aproximación a la lengua de signos a través del reconocimiento del alfabeto dactilológico, expresiones y vocabulario de uso cotidiano, así como a algunos SAAC.
+
+4. Identificación de prejuicios y estereotipos lingüísticos.
+
+5. Uso de un lenguaje no discriminatorio y respetuoso con las diferencias.
+
+II. Comunicación.
+
+1. Contexto
+
+1.1. Identificación autónoma de los componentes del hecho comunicativo (situación, participantes, propósito comunicativo, canal, registro) y su adecuación a los diferentes contextos.
+
+2. Géneros discursivos
+
+2.1. Empleo de géneros discursivos propios del ámbito personal, social y educativo, atendiendo al contenido y la forma. Uso de redes sociales educativas.
+
+2.2. Identificación y uso, de manera autónoma, de la estructura de diferentes tipologías textuales en situaciones comunicativas.
+
+2.3. Aplicación de manera autónoma de estrategias sencillas para la coherencia, la cohesión y la adecuación en diferentes tipos de textos.
+
+3. Procesos
+
+3.1. Interacción oral adecuada en contextos espontáneos y reglados, a través de la escucha activa, la asertividad y la cortesía lingüística en la resolución dialogada de conflictos. Expresión y escucha empática de necesidades, vivencias y emociones propias y ajenas.
+
+3.2. Interacción escrita adecuada en contextos reglados. Expresión y lectura empática de información y opiniones propias y ajenas.
+
+3.3. Comprensión de textos orales mediante la identificación de las ideas más relevantes, la interpretación del sentido global, la realización de las inferencias necesarias y el reconocimiento de elementos no verbales y formales para llevar a cabo una valoración crítica. Detección de usos discriminatorios del lenguaje verbal y no verbal.
+
+3.4. Producción de textos orales y multimodales atendiendo a los elementos de la prosodia y de la comunicación no verbal, con la debida atención a las características de pronunciación, gramaticales y léxicas del español de Canarias si es la variante dialectal normalmente usada. Construcción y comunicación de conocimiento mediante la planificación y producción de diferentes tipos de textos.
+
+3.5. Comprensión lectora a través de la aplicación de estrategias antes, durante y después de la lectura. Identificación de las ideas más relevantes e interpretación del sentido global realizando las inferencias necesarias y llevando a cabo una valoración crítica de manera autónoma. Identificación de elementos gráficos y paratextuales al servicio de la comprensión. Perfeccionamiento de las habilidades lectoras (ritmo, entonación, pausas, timbres de voz…) mediante la lectura compartida. Detección de usos discriminatorios del lenguaje verbal y no verbal.
+
+3.6. Producción autónoma de textos escritos y multimodales en distintos soportes, incluyendo los digitales, aplicando la ortografía reglada en la textualización y la autocorrección, con la debida atención a las características gramaticales y léxicas del español de Canarias. Elaboración, de manera autónoma, de textos creativos con coherencia, cohesión y adecuación, utilizando estrategias, individuales o grupales, de planificación, textualización, revisión y autocorrección realizando una valoración crítica de los mismos. Uso de elementos gráficos y paratextuales para favorecer la comprensión.
+
+3.7. Afianzamiento de la alfabetización mediática e informacional, aplicando estrategias para la búsqueda libre pautada de información en fuentes documentales variadas y con distintos soportes y formatos. Reconocimiento de la autoría y respeto por la propiedad intelectual. Comparación, organización, valoración crítica y comunicación creativa de la información. Uso progresivamente autónomo de la biblioteca, así como de recursos digitales del aula.
+
+III. Educación literaria.
+
+1. Lectura de obras o fragmentos variados y diversos de la literatura adaptados a su nivel madurativo y organizados en itinerarios lectores, con la debida atención a muestras de la literatura canaria.
+
+2. Uso de estrategia para la interpretación autónoma y compartida de las obras a través de conversaciones literarias.
+
+3. Relación, de manera autónoma, entre los elementos constitutivos de la obra literaria (tema, protagonistas, personajes secundarios, argumento, espacio) y la construcción del sentido de la obra.
+
+4. Identificación y análisis acompañado de los recursos literarios y su contribución al texto.
+
+5. Relación entre los textos leídos y otras manifestaciones artísticas y culturales.
+
+6. Afianzamiento en la construcción de la identidad lectora. Uso de estrategias para la expresión de gustos e intereses y para la valoración crítica de las obras.
+
+7. Lectura expresiva, dramatización o interpretación de fragmentos atendiendo a los procesos de comprensión y al nivel de desarrollo.
+
+8. Creación de textos de intención literaria de manera creativa y autónoma, partiendo de modelos dados y recreando textos literarios.
+
+9. Uso autónomo de la biblioteca de aula o de centro como escenario de actividades literarias compartidas.
+
+IV. Reflexión sobre la lengua y sus usos en el marco de propuestas de producción y comprensión de textos orales, escritos o multimodales.
+
+1. Establecimiento de generalizaciones sobre aspectos lingüísticos elementales a partir de la observación, comparación y transformación de palabras y enunciados, prestando especial atención a las relaciones que se establecen entre los distintos tipos de palabras, con la debida consideración al español de Canarias.
+
+2. Profundización en la lengua como sistema con distintos niveles: palabras, enunciados (oraciones y frases) y textos, a partir de la observación y comparación de estas unidades comunicativas.
+
+3. Adquisición de vocabulario a través de mecanismos léxicos (derivación, composición, préstamos, extranjerismos, siglas y acrónimos) para la formación de palabras.
+
+4. Aplicación autónoma de los signos de puntuación, teniendo en cuenta la modalidad oracional, tanto para organizar el texto escrito como para expresar la intención comunicativa.
+
+5. Aplicación de mecanismos de coherencia y cohesión textual, con especial atención a las sustituciones pronominales, a la correlación temporal establecida mediante los distintos tiempos verbales y a los conectores textuales.
+
+6. Utilización del diccionario en distintos formatos como herramienta para afianzar el conocimiento de la lengua, enriquecer su vocabulario y fijar la ortografía.
+
+7. Uso autónomo de estrategias de observación y formulación de generalizaciones sobre la acentuación y otras normas ortográficas.
+
+Tercer ciclo Educación Primaria
+
+Bloques competenciales
+
+Ver anexo en las páginas 45742-45751 del documento
+                        Descargar
+
+Saberes básicos
+
+I. Las lenguas y sus hablantes.
+
+1. Reconocimiento de la biografía lingüística personal y mapa lingüístico del entorno.
+
+2. Identificación, de manera autónoma, de la diversidad etnocultural y lingüística como riqueza y herramienta de reflexión interlingüística, con especial atención a las características propias del español hablado en Canarias y en América.
+
+3. Aproximación a la lengua de signos a través del reconocimiento del alfabeto dactilológico, expresiones y vocabulario de uso cotidiano, así como a algunos SAAC.
+
+4. Identificación de prejuicios y estereotipos lingüísticos.
+
+5. Uso de un lenguaje no discriminatorio y respetuoso con las diferencias.
+
+II. Comunicación.
+
+1. Contexto
+
+1.1. Identificación autónoma de los componentes del hecho comunicativo (situación, participantes, propósito comunicativo, canal, registro) y su adecuación a los diferentes contextos.
+
+2. Géneros discursivos
+
+2.1. Empleo de géneros discursivos propios del ámbito personal, social y educativo, atendiendo al contenido y la forma. Uso de redes sociales educativas.
+
+2.2. Identificación y uso, de manera autónoma, de la estructura de diferentes tipologías textuales en situaciones comunicativas.
+
+2.3. Aplicación, de manera autónoma, de estrategias sencillas para la coherencia, la cohesión y la adecuación en diferentes tipos de textos.
+
+3. Procesos
+
+3.1. Interacción oral adecuada en contextos espontáneos y reglados, a través de la escucha activa, la asertividad y la cortesía lingüística en la resolución dialogada de conflictos. Expresión y escucha empática de necesidades, vivencias y emociones propias y ajenas.
+
+3.2. Interacción escrita adecuada en contextos reglados. Expresión y lectura empática de información y opiniones propias y ajenas.
+
+3.3. Comprensión de textos orales mediante la identificación de las ideas más relevantes, la interpretación del sentido global, la realización de las inferencias necesarias y el reconocimiento de elementos no verbales y formales para llevar a cabo una valoración crítica. Detección de usos discriminatorios del lenguaje verbal y no verbal.
+
+3.4. Producción de textos orales y multimodales, atendiendo a los elementos de la prosodia y de la comunicación no verbal, y utilizando las características de pronunciación, gramaticales y léxicas del español de Canarias, si esta es la variante dialectal normalmente usada. Construcción y comunicación de conocimiento mediante la planificación y producción de diferentes tipos de textos.
+
+3.5. Comprensión lectora a través de la aplicación de estrategias antes, durante y después de la lectura. Identificación de las ideas más relevantes e interpretación del sentido global, realizando las inferencias necesarias y llevando a cabo una valoración crítica de manera autónoma. Identificación de elementos gráficos y paratextuales al servicio de la comprensión. Perfeccionamiento de las habilidades lectoras (ritmo, entonación, pausas, timbres de voz…) mediante la lectura compartida. Detección de usos discriminatorios del lenguaje verbal y no verbal.
+
+3.6. Producción autónoma de textos escritos y multimodales en distintos soportes, incluyendo los digitales, y aplicando la ortografía reglada en la textualización y la autocorrección, con la debida atención a las características gramaticales y léxicas del español de Canarias. Elaboración, de manera autónoma, de textos creativos con coherencia, cohesión y adecuación, utilizando estrategias, individuales o grupales, de planificación, textualización, revisión y autocorrección, y realizando una valoración crítica de los mismos. Uso de elementos gráficos y paratextuales para favorecer la comprensión.
+
+3.7. Afianzamiento de la alfabetización mediática e informacional, aplicando estrategias para la búsqueda libre pautada de información en fuentes documentales variadas y con distintos soportes y formatos. Reconocimiento de la autoría y respeto por la propiedad intelectual. Comparación, organización, valoración crítica y comunicación creativa de la información. Uso progresivamente autónomo de la biblioteca, así como de recursos digitales del aula.
+
+III. Educación literaria.
+
+1. Lectura de obras o fragmentos variados y diversos de la literatura, adaptados a su nivel madurativo y organizados en itinerarios lectores, con la debida atención a muestras de la literatura canaria.
+
+2. Uso de estrategia para la interpretación autónoma y compartida de las obras a través de conversaciones literarias.
+
+3. Relación, de manera autónoma, entre los elementos constitutivos de la obra literaria (tema, protagonistas, personajes secundarios, argumento, espacio) y la construcción del sentido de la obra.
+
+4. Identificación y análisis guiado de los recursos literarios y su contribución al texto.
+
+5. Relación entre los textos leídos y otras manifestaciones artísticas y culturales.
+
+6. Afianzamiento en la construcción de la identidad lectora. Uso de estrategias para la expresión de gustos e intereses y para la valoración crítica de las obras.
+
+7. Lectura expresiva, dramatización o interpretación de fragmentos atendiendo a los procesos de comprensión y al nivel de desarrollo.
+
+8. Creación de textos de intención literaria de manera creativa y autónoma, partiendo de modelos dados y recreando textos literarios.
+
+9. Uso autónomo de la biblioteca de aula o de centro como escenario de actividades literarias compartidas.
+
+IV. Reflexión sobre la lengua y sus usos en el marco de propuestas de producción y comprensión de textos orales, escritos o multimodales.
+
+1. Establecimiento de generalizaciones sobre aspectos lingüísticos elementales a partir de la observación, comparación y transformación de palabras y enunciados, prestando especial atención a las relaciones que se establecen entre los distintos tipos de palabras, con la debida consideración al español de Canarias.
+
+2. Profundización en la lengua como sistema con distintos niveles: palabras, enunciados (oraciones y frases) y textos, a partir de la observación y comparación de estas unidades comunicativas.
+
+3. Adquisición de vocabulario a través de mecanismos léxicos (derivación, composición, préstamos, extranjerismos, siglas y acrónimos) para la formación de palabras. Aplicación autónoma de los signos de puntuación, teniendo en cuenta la modalidad oracional, tanto para organizar el texto escrito como para expresar la intención comunicativa.
+
+4. Aplicación de mecanismos de coherencia y cohesión textual, con especial atención a las sustituciones pronominales, a la correlación temporal establecida mediante los distintos tiempos verbales y a los conectores textuales.
+
+5. Utilización del diccionario en distintos formatos como herramienta para afianzar el conocimiento de la lengua, enriquecer su vocabulario y fijar la ortografía.
+
+6. Uso autónomo de estrategias de observación y formulación de generalizaciones sobre la acentuación y otras normas ortográficas.
+
+
+### Lengua extranjera
+
+Introducción.
+
+Las sociedades actuales, envueltas en una constante y rápida evolución, exigen competencias que contribuyan al desarrollo de una ciudadanía independiente, activa, democrática, inclusiva y comprometida con la realidad cada vez más global, intercultural y plurilingüe. En este marco, Canarias, como punto geoestratégico para la confluencia de diferentes culturas, proporciona un contexto de especial relevancia en el manejo y uso de lenguas que contribuyen al enriquecimiento del repertorio lingüístico individual de la persona hablante. La aproximación cultural, geográfica, histórica, natural y social de la Comunidad Autónoma de Canarias permite generar contextos de aprendizaje en los que se aprecie, valore y respete los aspectos más relevantes de la cultura canaria. Además, la apertura hacia el patrimonio supondrá el desarrollo del pensamiento crítico en una sociedad sostenible, coeducativa, inclusiva e integradora en consonancia con la Agenda Canaria de Desarrollo Sostenible 2030.
+
+La Competencia plurilingüe se presenta, por tanto, como la habilidad de utilizar distintas lenguas de forma adecuada y efectiva para la comunicación, situando al aprendiente como sujeto activo en la creación de significados y en la construcción de conocimientos. Además, el desarrollo de la cultura democrática promueve la idea de un Espacio Europeo de Educación, que favorece la internacionalización, la movilidad, y el descubrimiento de otras culturas, ampliando la conciencia intercultural y las perspectivas y futuras oportunidades laborales del alumnado. Desde este punto de vista, se concibe la lengua extranjera como herramienta de aprendizaje, siendo imprescindible su uso real y continuo como lengua vehicular en el aula.
+
+El área de Lengua Extranjera contribuye al desarrollo de las distintas competencias clave que conforman el Perfil de salida del alumnado al término de la enseñanza básica y, de forma directa participa en la consecución de la competencia plurilingüe en sus dos dimensiones, comunicativa e intercultural. Sin embargo, durante el proceso de aprendizaje de una lengua no solo intervienen las competencias comunicativas, plurilingüe e intercultural, y las actividades y estrategias comunicativas, sino también las competencias generales, imprescindibles en su interrelación con las demás, para que el alumnado profundice en el saber, saber ser, saber hacer y saber aprender de una lengua. Bajo esta perspectiva, y durante los procesos de enseñanza y de aprendizaje, los elementos curriculares han de atender a todas las dimensiones que como hablante ha de desarrollar en su condición de aprendiz de lenguas: agente social, aprendiente autónomo, hablante intercultural, sujeto emocional y creativo, consciente y reflexivo; y que son imprescindibles para su desarrollo personal y académico. Estas dimensiones, determinantes para que se produzca un aprendizaje significativo y que impregnan la filosofía de este currículo, deben concebirse como integrantes de una misma realidad del alumnado, conformando un todo único y coherente. Por ello, el alumnado, en su condición de aprendiz, debe hacer uso de ellas durante las situaciones comunicativas que se generen y, de la misma manera, el profesorado debe tenerlas presentes durante los procesos de diseño, planificación, puesta en práctica y evaluación.
+
+Para la elaboración del currículo de Lengua Extranjera se ha empleado como guía el Marco Común Europeo de Referencia para las Lenguas: Aprendizaje, Enseñanza, Evaluación (MCER), concretado en el volumen complementario titulado Marco Común de Referencia para las Lenguas: Aprendizaje, Enseñanza, Evaluación (2021) y con él, su enfoque orientado a la acción. Además, se presenta un enfoque dinámico, proactivo e inclusivo, donde se ha tenido en cuenta el Diseño Universal para el Aprendizaje (en adelante, DUA) que favorece la mirada de la escuela inclusiva, donde el respeto, tanto de las limitaciones como de las potencialidades del alumnado, están presentes mediante un currículo flexible donde no se generan obstáculos de aprendizaje, sino oportunidades y entornos de aprendizaje ecológicos, abiertos y adaptados a las características y necesidades del alumnado. Otro aspecto importante contemplado en este currículo es el uso de las tecnologías digitales educativas, que modelan la manera en que nos relacionamos, comunicamos y accedemos a la información. Por ello, en el área de Lengua Extranjera estas tecnologías han de concebirse como herramientas que enriquezcan el proceso de enseñanza y de aprendizaje en su totalidad, desarrollando en el profesorado y alumnado la competencia digital, el pensamiento crítico y divergente, la alfabetización mediática, así como su uso adecuado, seguro, sostenible, saludable y responsable.
+
+Los saberes propios de Canarias se han incluido en el currículo del área desde un enfoque centrado en la educación patrimonial. Este enfoque presenta un carácter globalizador y transversal, y nace con la premisa de concienciar y sensibilizar al alumnado canario de la importancia del cuidado, disfrute y transmisión del patrimonio, pone el acento en la identificación y puesta en valor del mismo como parte inseparable de la sociedad, y apuesta por la implicación de la ciudadanía para lograr su sostenibilidad y la de los valores que en él perduran.
+
+De esta manera, a lo largo de la Educación Primaria, el alumnado se acerca de manera gradual a estos aprendizajes, propiciándose la inserción, en los currículos de las diferentes áreas de la etapa, de contextos de aprendizaje en torno al patrimonio cultural canario, que promuevan la participación de los niños y las niñas, para que lo conozcan, disfruten y valoren, contribuyendo así a su sensibilización, respeto y conservación.
+
+Contribución a los objetivos de etapa.
+
+La implementación del currículo de Lengua Extranjera favorece el desarrollo transversal de los objetivos de etapa desde una doble perspectiva, de tratamiento formal como no formal, constituyendo así el punto de partida, y a la vez de llegada, del proceso educativo. Facilitan a cualquier agente de la comunidad educativa una visión holística del logro del proceso al que se ha de contribuir usando la comunicación como elemento mediador y herramienta de coordinación. Este currículo contribuye de manera directa al objetivo f), puesto que la esencia del área de Lengua Extranjera es la de promover la adquisición de la lengua extranjera, de manera que el alumnado desarrolle la competencia comunicativa que le permita desenvolverse en situaciones cotidianas. Es aquí donde cobra especial relevancia la Competencia plurilingüe, ya que esta implica el uso de, al menos, una lengua, además de las familiares, de forma apropiada para el aprendizaje y la comunicación, integrando no solo la dimensión comunicativa, vinculada a su vez con la Competencia en comunicación lingüística, sino también los aspectos históricos e interculturales que conducen al alumnado a conocer, comprender y respetar la diversidad lingüística y cultural presente en su entorno. En consonancia con este enfoque, el área de Lengua Extranjera en la etapa de la Educación Primaria tiene como objetivo principal la adquisición de la Competencia comunicativa en la lengua extranjera, así como el desarrollo y enriquecimiento de la conciencia intercultural del alumnado.
+
+En el desarrollo del área en la etapa de Educación Primaria subyace la necesidad de entender la diversidad contextual como un proceso de aprendizaje y de intención de comunicación del alumnado. Como se establece en el objetivo d), el área ofrece una gran oportunidad para propiciar el descubrimiento, conocimiento y respeto de diferentes culturas y las personas que las representan, destacando la importancia de la igualdad de derechos y oportunidades de mujeres y hombres, ya que la adquisición de la lengua extranjera permite desbloquear barreras lingüísticas, aumentando la capacidad de desarrollar relaciones con las demás personas para mostrar actitudes contrarias a la violencia o discriminación de cualquier tipo.
+
+Es crucial una visión inclusiva para el desarrollo del proceso de enseñanza y de aprendizaje haciendo un uso significativo de las tecnologías digitales educativas, tal y como se refleja en el objetivo i). De esta manera, la adquisición y el desarrollo de la Competencia Digital para el aprendizaje del área permiten acercar al alumnado a los países y hablantes de lengua extranjera, avanzando en una reflexión ética sobre su funcionamiento y utilización, abordando además una visión sostenible y ecosocial.
+
+El objetivo b) también guarda una relación significativa con el área, ya que enmarca el aprendizaje de la lengua extranjera durante todo el proceso de la vida, procurando además su desarrollo en la etapa a través de distintos niveles de autonomía.
+
+Para visibilizar los aspectos creativos y emocionales, el área contribuye al objetivo m), que pretende desarrollar las capacidades afectivas en todos los ámbitos de la personalidad y en sus dimensiones intrapersonal e interpersonal, además de hacer especial hincapié en la importancia de mostrar actitudes contrarias a la violencia, a los prejuicios de cualquier tipo y a los estereotipos sexistas.
+
+Contribución a las competencias clave.
+
+La propuesta curricular del área tiene un marcado carácter competencial y se ha desarrollado conforme a los descriptores operativos establecidos en el Perfil de salida del alumnado al término de la enseñanza básica, concretado para la Educación Primaria, que identifica el grado de desarrollo y adquisición de las competencias clave para todo el alumnado que finaliza esta etapa.
+
+La composición de los bloques competenciales en los que se integran y se interrelacionan todos sus elementos; competencia específica, criterios de evaluación, descriptores operativos y saberes básicos, reafirma la esencia transversal del currículo del área de Lengua Extranjera, contribuyendo directamente a la adquisición y desarrollo de las competencias clave.
+
+La Competencia en comunicación lingüística (CCL) es la base para la competencia comunicativa que tiene el currículo. Se persigue que el alumnado ponga en práctica, a través de las actividades, tareas y ejercicios, habilidades, estrategias y destrezas comunicativas. La finalidad de esta competencia clave va más allá del dominio o adquisición de conocimientos, en tanto el alumnado debe poder aplicarlos para participar en intercambios de comunicación de manera coherente y adecuada en diferentes ámbitos y contextos, y con diferentes propósitos como simulaciones en contextos de la vida real, juegos de roles o penpals. También, implica comunicarse eficaz y creativamente con otras personas de manera cooperativa, ética y respetuosa.
+
+La Competencia plurilingüe (CP) es la competencia fundamental que vertebra este currículo. El área de Lengua Extranjera contribuye, de manera explícita, en reconocer y respetar los perfiles lingüísticos individuales, facilitando en el alumnado su capacidad de análisis y reflexión sobre el funcionamiento de la lengua, así como su capacidad de transferencia de conocimientos y estrategias. A su vez, durante el transcurso de las distintas experiencias, esta competencia moviliza el desarrollo de estrategias que permiten relacionar diferencias y similitudes entre lenguas, utilizando destrezas del pensamiento como compara y contrasta, organizadores gráficos... Asimismo, se integran dimensiones históricas e interculturales orientadas a conocer, valorar y respetar la diversidad lingüística y cultural de la sociedad con el objetivo de fomentar la convivencia democrática e inclusiva.
+
+La Competencia matemática y competencia en ciencia, tecnología e ingeniería (STEM) entraña la comprensión del mundo utilizando los métodos científicos, el pensamiento y la representación matemáticos, la tecnología y los métodos de la ingeniería para transformar el entorno de forma comprometida, responsable y sostenible. El área de Lengua Extranjera contribuye en la reflexión del alumnado para resolver posibles problemas o retos en diversas situaciones comunicativas siguiendo la secuencia lógica y matemática, y utilizando métodos inductivos y deductivos guiados por el profesorado. En dicha guía, se podrán utilizar organizadores gráficos, apoyos visuales u otros recursos que faciliten la reflexión, y el pensamiento crítico y analítico.
+
+La Competencia digital (CD) implica el uso seguro, saludable, sostenible, crítico y responsable de las tecnologías digitales educativas que faciliten la participación y la interacción en el aprendizaje. El área de Lengua Extranjera contribuye a esta competencia en la reelaboración y creación de contenidos digitales como imágenes, textos, infografías, gráficos o vídeos, en aulas y plataformas virtuales, propiciando el intercambio lingüístico en actividades cooperativas y colaborativas. A su vez, permite el desarrollo de la cortesía lingüística y el uso de la etiqueta digital, fomentando el respeto en estos medios, la propiedad intelectual en el uso de fuentes y recursos consultados, la resolución de problemas y el pensamiento crítico.
+
+La Competencia personal, social y de aprender a aprender (CPSAA) es fundamental para la adquisición de una lengua extranjera, ya que su objetivo es la participación en intercambios comunicativos interculturales de manera significativa. Para ello, y en referencia a esta área, se tienen en cuenta las dimensiones del alumnado (agente social, aprendiente autónomo, hablante intercultural, sujeto emocional y creativo, consciente y reflexivo). Abordar estas tres dimensiones es crucial para el aprendizaje, en tanto se fomenta el enriquecimiento personal, la participación colaborativa en proyectos y la realización de tareas como mapas mentales, líneas del tiempo o esquemas. La competencia social, emocional y personal se nutre de las estrategias y destrezas que se desarrollan para poner en marcha, afianzar o enriquecer el proceso de aprendizaje. Los diarios de aprendizaje, escaleras de metacognición y reflexión sobre lo aprendido, serán prácticas que contribuyan a la competencia aprender a aprender para que el alumnado sea consciente de qué, cómo y para qué ha aprendido.
+
+La Competencia ciudadana (CC), con una perspectiva sostenible hacia una ciudadanía responsable, debe ser la base y el motor de los conceptos que se trabajan durante el desarrollo del área de Lengua Extranjera. Las actitudes y conductas cívicas son de carácter transversal y se trabajan de manera globalizada a lo largo de todo el currículo, a través de estrategias cooperativas, fomentando el uso y la gestión responsable de materiales y desechos o haciéndoles partícipes del funcionamiento y responsabilidades del aula. El cuidado, aprecio y respeto por el entorno y lo que le rodea es una pieza fundamental en la educación, con el fin de crear sociedades concienciadas y emocionalmente implicadas en la importancia de comprender y reflexionar sobre la relación entre las acciones humanas y las consecuencias para el entorno, propiciando acciones relacionadas con el aprendizaje servicio. Desde la perspectiva de género, la resolución pacífica de conflictos, el respeto, el cuidado por las identidades y las culturas, las sexualidades y la diversidad en todas sus dimensiones favorecerán una cultura democrática, contribuyendo directamente a la competencia ciudadana. Actividades orientadas hacia el desarrollo del pensamiento crítico, el análisis de imágenes, las noticias y los hechos de actualidad enriquecerán la ciudadanía y la etiqueta digital en la competencia ciudadana del alumnado desde distintas perspectivas.
+
+La Competencia emprendedora (CE), en la que se entrena el pensamiento para analizar y evaluar el entorno, y crear y replantear ideas, utilizando la imaginación y la creatividad, se constata a lo largo de varias competencias específicas de este currículo. Esta área promueve la motivación como impulsora del aprendizaje, de manera que la disposición hacia él, la manera de afrontar la incertidumbre o la toma de decisiones serán factores cruciales que se deben enriquecer a lo largo del proceso. Asimismo, colaborar de manera ágil con otras personas, demostrando habilidades para la comunicación y de negociación, facilitará la puesta en marcha de la planificación y gestión de ideas y proyectos de valor sociocultural. Entra en juego por tanto, la reflexión sobre las propias posibilidades comunicativas, para identificar y mejorar fortalezas y debilidades. La introducción de juegos, dinámicas cooperativas simples y complejas, o proyectos colaborativos serán estrategias y técnicas que contribuyan directamente a esta competencia.
+
+La Competencia en conciencia y expresión culturales (CCEC) supone desarrollar en el alumnado, como hablante intercultural, el aprecio y respeto por el modo en que las ideas, las opiniones, los sentimientos y las emociones se expresan. Implica también valorar la diversidad del patrimonio natural, social y cultural y las manifestaciones culturales y artísticas de las personas y de los países donde se habla la lengua extranjera, así como de la Comunidad Autónoma de Canarias y del mundo. A través de la realización de dramatizaciones, representaciones musicales o artísticas, entre otras actividades, el alumnado puede comprender las diferencias entre distintas culturas y la necesidad de su conservación, siendo esta la contribución principal de esta área a la competencia.
+
+Bloques competenciales.
+
+El bloque competencial es el eje del currículo de cada área: integra la enunciación de las competencias específicas, su vinculación con los descriptores operativos del Perfil de salida, los criterios de evaluación y la explicación del bloque competencial.
+
+Las competencias específicas, que tienen carácter finalista, constituyen un elemento de conexión entre las competencias clave y los saberes propios del área. En cuanto a los criterios de evaluación, estos constituyen los referentes que indican el nivel de desempeño a alcanzar por el alumnado. Se establece, además, la contribución de cada criterio a los descriptores del Perfil de salida, de manera que se facilita la evaluación conjunta de los aprendizajes propios del área y del grado de desarrollo y adquisición de las competencias en el alumnado. En lo relativo a las explicaciones de los bloques competenciales, estas integran los aprendizajes recogidos en la totalidad del bloque, orientan sobre el proceso de desarrollo y adquisición tanto de las competencias específicas como de las competencias clave; y ofrecen, además, indicaciones metodológicas -siempre con una perspectiva abierta, flexible e inclusiva- para el diseño y la implementación de situaciones de aprendizaje competenciales. Es por ello que las explicaciones de los bloques competenciales se constituyen como los referentes más adecuados para la concreción curricular y la elaboración de la programación didáctica.
+
+Competencias específicas y criterios de evaluación.
+
+En el currículo de Lengua Extranjera se han establecido seis competencias específicas que, a su vez, plantean un total de quince criterios de evaluación, de forma que se plasme la concreción de los descriptores de las competencias clave recogidas en el perfil de salida dentro del área. Cada competencia presenta sus propios criterios de evaluación, que tienen una naturaleza y cariz competencial, expresando tanto las capacidades a adquirir y los saberes, como el contexto, el modo de aplicación y su uso.
+
+La enunciación de la competencia específica se recoge en el bloque competencial correspondiente. A continuación se ofrece una explicación de cada una de ellas.
+
+Competencia específica 1 (C1).
+
+La competencia específica de comprensión cobra gran importancia, ya que es necesario que el alumnado desarrolle el conocimiento de una lengua para contribuir, por un lado, a su concepción y aprendizaje, y por otro lado, a la profundización de su repertorio lingüístico individual. Durante este proceso, el alumnado hace uso de métodos y estrategias adecuadas de comprensión de textos orales, escritos y multimodales sobre temas cotidianos que respondan a necesidades comunicativas relacionadas con su entorno más cercano.
+
+Los aprendizajes de los criterios de evaluación que se adquirirán en esta competencia específica son conjugados entre sí para conformar un tratamiento integrado entre ellos donde identificar, interpretar, reconocer y analizar el sentido global de palabras, expresiones, frases, breves y sencillas en textos orales, escritos y multimodales, permitiendo un aprendizaje significativo a través de acciones en las que el alumnado se erige con una intención comunicativa. Asimismo, estos aprendizajes irán acompañados de otros relacionados con seleccionar, organizar y aplicar, de forma guiada, codirigida y progresivamente autónoma, estrategias elementales, básicas y conocimientos adecuados en situaciones comunicativas, de manera que se facilite el acceso efectivo y eficiente a las estrategias que apoyen y garanticen el aprendizaje.
+
+Competencia específica 2 (C2).
+
+La competencia específica de producción se basa en la expresión tanto oral, escrita y multimodal, y cobra especial relevancia, ya que es un elemento imprescindible para que se produzca la comunicación. Durante este proceso, el alumnado hace uso de métodos y estrategias adecuadas, como la planificación o la compensación, que dan lugar a la expresión de mensajes relacionados con necesidades inmediatas y exposición de textos.
+
+Los aprendizajes de los criterios de evaluación de esta competencia específica están indicados para que el alumnado produzca diferentes tipos de textos orales, escritos y multimodales, de forma guiada, codirigida y progresivamente autónoma. Además, se pretende que el alumnado aprenda a seleccionar, aplicar y planificar conocimientos y estrategias, desde las más elementales hasta las más básicas y adecuadas, permitiendo su desarrollo creativo e integral en situaciones comunicativas, cotidianas y próximas.
+
+Competencia específica 3 (C3).
+
+La competencia específica de interacción es un acto comunicativo en construcción, que involucra varios participantes. El alumnado, como agente social, pone en práctica sus destrezas y habilidades de comprensión y producción oral y escrita, para responder a las necesidades en intercambios comunicativos, tanto en soportes analógicos como digitales, así como las estrategias que le permitan planificar y organizar conversaciones básicas.
+
+Los aprendizajes de los criterios de evaluación de esta competencia específica que se pretenden conseguir en el alumnado se basan en la participación, de forma guiada, codirigida y progresivamente autónoma, en situaciones interactivas de comunicación orientadas hacia el intercambio de información tanto en textos orales como escritos. Además, el profesorado, como guía del aprendizaje, acompañará al alumnado en seleccionar, organizar y utilizar la interacción en contextos próximos a su entorno y organizar de manera cooperativa métodos inductivos, deductivos y estrategias básicas, desarrollando, afianzando y ampliando su repertorio lingüístico individual.
+
+Competencia específica 4 (C4).
+
+La competencia específica de mediación se basa en la actividad del lenguaje donde el alumnado explica y facilita la comprensión de mensajes o textos cotidianos y contextuales. La mediación desarrolla el pensamiento estratégico, permitiendo la reformulación oral y escrita, eligiendo las destrezas y estrategias de su repertorio lingüístico y construyendo mensajes dialógicos y expositivos en distintas modalidades o registros. Además, desarrolla el procesamiento y la transmisión de información básica y sencilla, pudiendo emplear tanto medios analógicos como digitales para interpretar y compartir contenidos.
+
+Los aprendizajes de los criterios de evaluación de esta competencia específica permiten al alumnado, en primer lugar, integrar la información básica de conceptos, textos breves y sencillos, pensamientos o emociones, atendiendo a la diversidad, y, en segundo lugar, interpretar, explicar, facilitar y justificar dicha información. El valor de la convivencia, las diferencias culturales y la igualdad de oportunidades serán la base contextual de la mediación lingüística para el desarrollo afectivo e inclusivo del aprendizaje. A su vez, los aprendizajes que faciliten la comprensión, la producción y la comunicación, como seleccionar, aplicar e implementar métodos y estrategias, de forma guiada, codirigida y progresivamente autónoma, se desarrollarán en situaciones colaborativas y cooperativas.
+
+Competencia específica 5 (C5).
+
+La competencia específica de plurilingüismo hace referencia al uso del repertorio lingüístico y a la reflexión de su funcionamiento. En la sociedad intercultural en la que vivimos, es fundamental el análisis y aprecio por la diversidad lingüística, reconociendo las diferencias y similitudes entre lenguas, así como la reflexión del proceso de enseñanza y aprendizaje, para fomentar la mejora de las habilidades y estrategias que desarrollan el repertorio plurilingüe, de manera que se apliquen los conocimientos y destrezas adquiridas a otros contextos.
+
+Los aprendizajes de los criterios de evaluación de esta competencia específica se distinguen, por una parte, en identificar de forma guiada, comparar y contrastar de forma cooperativa y con progresiva autonomía, las similitudes y diferencias entre las distintas lenguas; en identificar, utilizar, experimentar y diferenciar estrategias elementales, básicas y adecuadas de aprovechamiento y comprensión del repertorio plurilingüe. Por otra parte, las evidencias de aprendizaje mediante el Porfolio de Las Lenguas (PEL) o los diarios de aprendizaje, constatarán cómo el alumnado identifica, usa, reconoce, transfiere, explica, registra y reflexiona hasta lograr una progresiva autonomía sus progresos y dificultades para desarrollar un aprendizaje más profundo.
+
+Competencia específica 6 (C6).
+
+La competencia específica de interculturalidad muestra un interés especial hacia el aprecio y el respeto de la diversidad lingüística, cultural y artística a partir de una lengua extranjera. Se caracteriza por favorecer la riqueza social, evitando la distorsión de estereotipos o la discriminación, y por valorar la diversidad en general para que el alumnado aprenda a gestionar situaciones interculturales cotidianas y favorezca la convivencia en un ambiente afectivo e inclusivo.
+
+Los aprendizajes de estos criterios de evaluación tienen en cuenta el mostrar interés, respetar y apreciar el patrimonio lingüístico, cultural y artístico de personas y países donde se habla la lengua extranjera, así como de las islas Canarias. El profesorado propiciará un ambiente en el que se desarrollen aprendizajes como la muestra de empatía, la comprensión de las producciones ajenas y el respeto en el uso de la cortesía lingüística, y se posibiliten situaciones comunicativas, seleccionando y aplicando estrategias adecuadas.
+
+Saberes básicos.
+
+Los saberes básicos del área aparecen integrados tanto en los criterios de evaluación como en las explicaciones de los bloques competenciales. No obstante, quedan establecidos, organizados y secuenciados, a continuación de los mismos.
+
+En el área de Lengua Extranjera, los saberes básicos son transversales a todos los bloques competenciales. Su carácter integrador y su composición globalizada, abierta y flexible hacen que un mismo saber se incardinen entre ellos, permitiendo al docente o a la docente ,en función de su criterio pedagógico, seleccionar aquellos saberes que estime más adecuados, cuando diseña, planifica e implementa sus situaciones de aprendizaje.
+
+Asimismo, para facilitar su selección y su uso, los saberes básicos del área de la Lengua Extranjera se estructuran en cuatro grandes bloques relativos a la “Comunicación”, “Plurilingüismo”, “Interculturalidad” y “Dimensiones Interpersonal e Intrapersonal”.
+
+El Bloque I, “Comunicación”, abarca los saberes que son necesarios movilizar para el desarrollo de las actividades comunicativas de comprensión, producción, interacción y mediación, incluidos los relacionados con la búsqueda guiada de información. De esta manera, se incidirá en las intenciones e interacciones comunicativas contextuales, en el repertorio comunicativo del alumnado, así como en los elementos de comunicación no verbal y sus estrategias.
+
+El Bloque II, “Plurilingüismo”, integra los saberes relacionados con la capacidad de reflexionar sobre el funcionamiento de las lenguas, así como aquellos que forman parte del repertorio lingüístico del alumnado. El objetivo de este bloque es contribuir y fomentar el desarrollo de estrategias y técnicas que favorezcan la transferencia de conocimiento para el aprendizaje de la lengua extranjera y la mejora de las lenguas familiares.
+
+En el Bloque III, “Interculturalidad”, se agrupan los saberes acerca de las culturas vehiculadas a través de la lengua extranjera, y su aprecio como oportunidad de enriquecimiento y desarrollo de actitudes de interés por conocer y comprender otras lenguas, variedades lingüísticas y culturas, fomentando en el alumnado el respeto por las diferencias y similitudes entre culturas.
+
+El Bloque IV, “Dimensiones Interpersonal e Intrapersonal”, integra los saberes que el alumnado, como sujeto emocional y creativo, ha de movilizar para contribuir al aprendizaje efectivo. Son saberes relativos a factores internos y sociales, que actúan como catalizadores indispensables para un crecimiento personal y social óptimo, en el desarrollo de vínculos con las demás personas y de relación personal, fomentando en el alumnado la empatía, el respeto y la valoración de otros puntos de vista.
+
+Asimismo, los saberes básicos aúnan los conocimientos (saber), las destrezas (saber hacer) las actitudes (saber ser), así como las estrategias (saber aprender) necesarios para la adquisición de las competencias específicas del área, y favorecen la evaluación de los aprendizajes a través de los criterios. Estos saberes básicos son de naturaleza procedimental y actitudinal, más que conceptual, concepto clave a la hora de usarlas en el diseño de las situaciones de aprendizaje, puesto que esta visión permite un ensamblaje coherente, cohesivo y flexible del currículo, contribuyendo y enriqueciendo así el desarrollo de las competencias específicas.
+
+Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos.
+
+Las competencias específicas explicitan desempeños que el alumnado debe poder llevar a cabo en situaciones de aprendizaje para cuyo abordaje se requieren los saberes básicos de cada área, dentro de un marco de atención inclusiva a las diferencias individuales, y a las singularidades y necesidades de cada alumno o alumna. La implementación del currículo del área implica, por tanto, la definición, por parte del profesorado, de estas situaciones de aprendizaje contextualizadas.
+
+El modelo pedagógico canario se nutre de una premisa crucial: la necesaria integración de la evaluación en el proceso de planificación y diseño de estas situaciones de aprendizaje, para asegurar una evaluación competencial del alumnado. Es necesario, por tanto, que el profesorado utilice variedad de instrumentos, técnicas y herramientas de evaluación, en diferentes contextos, con soportes y formatos diversos, que permitan que el alumnado pueda demostrar lo que sabe, lo que siente y piensa, lo que puede hacer…, atendiéndose así, de manera inclusiva, a la diversidad del alumnado, a su ritmo de aprendizaje y a su forma de aprender.
+
+El área de Lengua Extranjera, orientada a planteamientos abiertos, flexibles y eclécticos, deriva de la implementación de metodologías activas, flexibles y abiertas que promuevan, entre otros cosas, la indagación, el juego, el descubrimiento, la colaboración, así como el pensamiento crítico y creativo. En definitiva, la puesta en práctica de estas metodologías incentiva la participación, la motivación y la implicación del alumnado durante el proceso de aprendizaje, situándolo en el centro de la acción y la inclusión. En este sentido, el alumnado desarrolla un papel activo en su construcción de la realidad, a la vez que hace uso de las lenguas que posee, extranjeras o familiares, para enriquecer y ampliar su repertorio plurilingüe individual. Se destaca así la capacidad de transferencia del alumnado para hacer suyos los conocimientos y las estrategias en una lengua extranjera, con el propósito de aplicarlos posteriormente a diferentes situaciones y contextos. Ser consciente y reflexionar sobre el aprendizaje y el funcionamiento de la lengua, se convierte por tanto, en una capacidad determinante para convertir al alumnado en parte activa de la ciudadanía del siglo XXI.
+
+Las actividades y los recursos que se integren en las diferentes situaciones de aprendizaje serán variados, atractivos, innovadores, flexibles y adecuados a los diferentes ritmos de aprendizaje que demanda la diversidad en el aula, teniendo una especial consideración todos aquellos que estén relacionados con la integración de las tecnologías digitales educativas en el proceso de enseñanza y aprendizaje. El modelo teórico-práctico conocido como DUA, no solo proporciona múltiples formas de representación, de expresión y de implicación (el qué, el cómo y el por qué del aprendizaje), sino también elimina las barreras de aprendizaje del alumnado, desde un doble punto de vista: las necesidades y las potencialidades. Para ello, es fundamental el aprendizaje cooperativo y el desarrollo de técnicas grupales que permitan la diversidad de agrupamientos y el uso de estrategias colaborativas.
+
+El currículo de Lengua Extranjera se ha creado con el fin de proporcionar al profesorado una herramienta pedagógica flexible y útil, adaptable a cualquier contexto escolar de las islas y cuyo fin último sea el de movilizar los distintos elementos curriculares que se presentan en este desarrollo normativo, a través de las diferentes situaciones de aprendizaje que se generen. En este sentido y aunque los bloques competenciales se muestran de manera aislada para facilitar su comprensión y resaltar los aprendizajes imbricados en cada uno de ellos, el presente currículo presta especial atención al tratamiento integrado de las lenguas como pieza trascendental para la puesta en marcha de situaciones de aprendizajes comunicativas en el aula. De esta manera, los bloques competenciales se convierten en piezas de puzle que integrados entre sí, se ajustan a los distintos parámetros de los que se componen las situaciones de aprendizaje. Con el fin de facilitar su tratamiento, los dos últimos bloques se han dispuesto como piezas catalizadoras que establecen por un lado, el marco sociocultural donde se ha de desarrollar la acción, y por otro, como elementos generadores que contribuyen al desarrollo de las destrezas integradas. Bajo este marco, el ensamblaje de las piezas en una situación de aprendizaje estará completo cuando al menos, uno de los 4 primeros bloques competenciales se integren con los dos últimos. Esta estructura por piezas no solo se convierte en la esencia del éxito orientado a un enfoque dinámico, proactivo e inclusivo, sino que facilita la integración con otras áreas o ámbitos de aprendizaje, de manera que se contribuya entre otros, al Aprendizaje Integrado de Contenidos y Lenguas Extranjeras (AICLE).
+
+Durante los procesos en los que se desarrollan las situaciones comunicativas en el aula de Lengua Extranjera, cobra especial relevancia la comunicación efectiva y la motivación. Y para que estas se produzcan el profesorado, por un lado, en su papel de facilitador de procesos y estrategias, guía al alumnado hacia el uso progresivo y autónomo del lenguaje, facilitando procesos como languaging en el que el alumnado verbaliza sus pensamientos para construir significados y modelar sus conocimientos y experiencias a través del lenguaje. Por otro lado, el profesorado en su labor mentora y dinamizadora, parte del centro de interés y necesidades del alumnado, despertando su interés e implicación. Se abre así un amplio abanico de posibilidades para que el profesorado emplee estrategias metodológicas e innovadoras, e introduzca tecnologías digitales educativas que promuevan una adecuada atención a la diversidad, complementando el proceso de enseñanza y aprendizaje, y los diferentes escenarios pedagógicos en los que desarrollar la comunicación efectiva.
+
+El proceso de evaluación es la base fundamental desde la que construir el proceso de enseñanza y de aprendizaje de todos los agentes implicados, así como el grado de desarrollo y consecución de las competencias del alumnado, tomando como punto de partida la necesidades educativas que este presenta, enmarcado en un proceso de evaluación continua donde se pueda registrar y entender el desarrollo como un todo progresivo que favorezca el crecimiento formativo con una visión globalizada del aprendizaje.
+
+La evaluación del área de Lengua Extranjera debe tener en cuenta a todas las personas participantes en el proceso de enseñanza y de aprendizaje, estar integrada en el proceso de planificación y diseño de situaciones de aprendizaje competenciales y establecer un currículo que tenga como elemento central los criterios de evaluación para, con todo ello, plantear un objetivo final: conseguir el éxito de todo nuestro alumnado, independientemente de su punto de partida. De esta manera, todas y cada una de las propuestas pedagógicas deberán sucederse de manera progresiva en su desarrollo y habrán de combinar los diferentes tipos de evaluación: la heteroevaluación, realizada entre distintos agentes acerca de los procesos que han realizado; la autoevaluación, que supone la evaluación de un agente sobre el el proceso que este mismo ha desarrollado, de forma que puedan tomar conciencia de su proceso de aprendizaje y sean progresivamente más responsables a este respecto; y la coevaluación, que supone la evaluación del mismo tipo de agente educativo con sus iguales y que debe desarrollarse en un ambiente de empatía y respeto, siempre con el propósito de identificar tanto dificultades como potencialidades para promover la mejora en el proceso de aprendizaje, y de compartir los resultados de manera constructiva.
+
+Deberán desarrollarse tanto los procesos necesarios para evaluar la actividad didáctica y pedagógica que se desarrolla en el aula, como las técnicas, las herramientas y los instrumentos que faciliten la evaluación del nivel de adquisición de las competencias específicas. La evaluación de la práctica docente, a través del análisis de los resultados del proceso de aprendizaje, permitirá detectar la mejora de las propuestas metodológicas en el área, de modo que se pueda garantizar su adecuación a las particularidades y necesidades de cada grupo, así como contribuir a una mejor adquisición de las competencias comunicativas en la lengua extranjera por parte del alumnado.
+
+La planificación del proceso de evaluación es compleja; y, además de la utilización de técnicas, herramientas e instrumentos establecidos a la hora de llevar a cabo una evaluación presencial, conviene también establecer otros complementarios que, en caso necesario, puedan ser utilizados en la enseñanza no presencial. En este sentido, la evolución del alumnado en el uso de la lengua extranjera, en su capacidad de hacer suyo el lenguaje para comunicarse de manera cada vez más autónoma en diversas situaciones, ha de medirse con herramientas que permitan identificar y evidenciar los logros obtenidos y su progresión. Estas herramientas deben ser diversas, variadas, accesibles y adecuadas a las circunstancias en las que se produzca la evaluación, en consonancia con los principios del DUA. En este sentido, resultan de utilidad herramientas como las rúbricas para medir el nivel de logro del alumnado, las listas de control y las escalas de valoración, los PEL o los diarios de aprendizaje, así como cuestionarios, informes y foros, ya que todos ellos constituyen soportes físicos y digitales que facilitan y favorecen la recogida de información en cada una de las fases del proceso. Es fundamental que el alumnado no solo conozca las herramientas con las que va a ser evaluado potenciando así su aprendizaje, sino que sea también partícipe en todo momento apoyando los procesos de autoevaluación y coevaluación.
+
+Además, se ha de tener en consideración que los criterios relativos a las estrategias, incardinados en cada una de las cuatro primeras competencias específicas han de desarrollarse junto, al menos, uno de los criterios que le preceden, ya que se entienden como un todo unificado y único en el desarrollo de las situaciones de comunicación que se originen. Así mismo, los criterios de evaluación de las competencias específicas 5 y 6 funcionan también como catalizadores de esas situaciones de comunicación, por lo que su presencia con otros criterios de evaluación en las distintas situaciones de aprendizaje son imprescindibles para que el alumnado desarrolle todas sus dimensiones como sujeto de aprendizaje de una lengua extranjera.
+
+Primer ciclo Educación Primaria
+
+Bloques competenciales
+
+Ver anexo en las páginas 45766-45771 del documento
+                        Descargar
+
+Saberes básicos
+
+I. Comunicación.
+
+1. Iniciación en el desarrollo de estrategias elementales para la interacción de textos orales, escritos y multimodales breves, muy sencillos y contextualizados.
+
+2. Identificación de conocimientos, destrezas y actitudes elementales en situaciones concretas de mediación en entornos personales.
+
+3. Empleo de funciones comunicativas elementales, adecuadas al ámbito y al contexto: saludar, despedirse, presentar y presentarse; identificar las características de personas, objetos y lugares; responder a preguntas concretas sobre cuestiones cotidianas; y expresar el tiempo, la cantidad y el espacio.
+
+4. Iniciación a los modelos contextuales elementales en la comprensión y producción de textos orales, escritos y multimodales, breves y sencillos, tales como felicitaciones, notas, listas o avisos.
+
+5. Empleo de unidades lingüísticas elementales y de significados asociados a dichas estructuras, tales como la expresión de la entidad y sus propiedades, la cantidad y el número, la afirmación, la exclamación, la negación o la interrogación.
+
+6. Uso de léxico elemental y de interés para el alumnado relativo a las relaciones interpersonales elementales, la vivienda, o los lugares y entornos cercanos.
+
+7. Iniciación en patrones sonoros y acentuales elementales.
+
+8. Iniciación en convenciones ortográficas elementales.
+
+9. Uso de convenciones y estrategias conversacionales elementales, en formato síncrono o asíncrono, para iniciar, mantener y terminar la comunicación, tomar y ceder la palabra, preguntar y responder…
+
+10. Empleo de recursos para el aprendizaje de estrategias elementales de búsqueda guiada en medios analógicos y digitales.
+
+11. Uso de herramientas analógicas y digitales elementales para la comprensión y producción oral, escrita y multimodal.
+
+II. Plurilingüismo.
+
+1. Iniciación en las estrategias y técnicas elementales de detección de las carencias comunicativas y las limitaciones derivadas del nivel de competencia en la lengua extranjera y en las demás lenguas del repertorio lingüístico propio.
+
+2. Iniciación en las estrategias elementales para identificar y utilizar unidades lingüísticas (léxico, morfosintaxis, patrones sonoros…), a partir de la comparación de las lenguas y variedades que conforman el repertorio lingüístico personal.
+
+3. Iniciación en estrategias elementales de autoevaluación y coevaluación, analógicas y digitales, e individuales y cooperativas.
+
+4. Identificación del repertorio lingüístico para transferir los conocimientos, las estrategias y las destrezas adquiridas en contextos de realidad cercana.
+
+5. Comparación elemental entre lenguas a partir de elementos evidentes de la lengua extranjera y otras lenguas.
+
+6. Uso de léxico y expresiones elementales para comprender enunciados sobre la comunicación, la lengua y el aprendizaje (metalenguaje).
+
+III. Interculturalidad.
+
+1. Uso de la lengua extranjera como medio de comunicación y relación con personas de otros países.
+
+2. Iniciación en el uso de estrategias básicas de uso común para entender y apreciar la diversidad lingüística, cultural y artística, a partir de valores ecosociales y democráticos.
+
+3. Iniciación en las estrategias básicas de detección de usos discriminatorios del lenguaje verbal y no verbal.
+
+4. Identificación de aspectos socioculturales y sociolingüísticos elementales y más significativos relativos a las costumbres y la vida cotidiana en países donde se habla la lengua extranjera.
+
+IV. Dimensiones interpersonal e intrapersonal.
+
+1. Iniciación en la participación en intercambios comunicativos con estudiantes de la lengua, a través de diferentes medios.
+
+2. Interés y respeto por las opiniones de los demás, fomentando un clima afectivo e inclusivo de aprendizaje.
+
+3. Identificación y aprecio por la diversidad y el patrimonio lingüístico, cultural y artístico de los países donde se habla la lengua extranjera.
+
+4. Desarrollo de la autoestima y autoconfianza durante el proceso de aprendizaje de una lengua extranjera.
+
+5. Fomento de la motivación por el aprendizaje de la lengua extranjera.
+
+6. Iniciación de estrategias elementales colaborativas y de dinámicas de trabajo de grupo.
+
+7. Desarrollo de la empatía durante el acto comunicativo.
+
+8. Desarrollo del aprendizaje autodirigido.
+
+9. Desarrollo de la visión creativa y emocional del aprendizaje.
+
+Segundo ciclo Educación Primaria
+
+Bloques competenciales
+
+Ver anexo en las páginas 45774-45779 del documento
+                        Descargar
+
+Saberes básicos
+
+I. Comunicación.
+
+1. Identificación de estrategias básicas de uso común para la comprensión, producción e interacción de textos orales, escritos y multimodales sencillos y contextualizados.
+
+2. Desarrollo de conocimientos, destrezas y actitudes básicas en situaciones cotidianas de mediación en entornos educativos.
+
+3. Empleo de funciones comunicativas básicas de uso común, adecuadas al ámbito y al contexto: saludar, despedirse, presentar y presentarse; describir personas, objetos y lugares; pedir e intercambiar información sobre cuestiones cotidianas; describir rutinas; dar indicaciones e instrucciones; y expresar el tiempo, la cantidad y el espacio.
+
+4. Identificación de modelos contextuales y géneros discursivos básicos de uso común en la comprensión, producción y coproducción de textos orales, escritos y multimodales, breves y sencillos, literarios y no literarios, tales como folletos, instrucciones, normas, avisos o conversaciones reguladoras de la convivencia.
+
+5. Empleo de unidades lingüísticas básicas de uso común y significados asociados a dichas estructuras, tales como la expresión de la entidad y sus propiedades, la cantidad y el número, el espacio y las relaciones espaciales, la afirmación, la exclamación, la negación o la interrogación.
+
+6. Uso de léxico básico y de interés para el alumnado relativo a las relaciones interpersonales próximas, la vivienda, o los lugares y entornos cercanos.
+
+7. Desarrollo de patrones sonoros, acentuales y de entonación básicos de uso común, y funciones comunicativas generales asociadas a dichos patrones.
+
+8. Identificación de convenciones ortográficas básicas de uso común y significados asociados a los formatos y elementos gráficos.
+
+9. Uso de convenciones y estrategias conversacionales básicas de uso común, en formato síncrono o asíncrono, para iniciar, mantener y terminar la comunicación, tomar y ceder la palabra, pedir y dar indicaciones…
+
+10. Empleo de recursos para el aprendizaje y de estrategias básicas de búsqueda guiada de información en medios analógicos y digitales.
+
+11. Iniciación al reconocimiento de la propiedad intelectual de las fuentes consultadas y contenidos utilizados.
+
+12. Uso de herramientas analógicas y digitales básicas de uso común para la comprensión, producción y coproducción oral, escrita y multimodal; y de plataformas virtuales de interacción, cooperación y colaboración educativa.
+
+II. Plurilingüismo.
+
+1. Identificación de estrategias y técnicas de compensación de las carencias comunicativas para responder a una necesidad elemental, teniendo en cuenta las limitaciones derivadas del nivel de competencia en la lengua extranjera y en las demás lenguas del repertorio lingüístico propio.
+
+2. Identificación de estrategias básicas de uso común para identificar, retener, recuperar y utilizar unidades lingüísticas (léxico, morfosintaxis, patrones sonoros…), a partir de la comparación de las lenguas y variedades que conforman el repertorio lingüístico personal.
+
+3. Reconocimiento de estrategias y herramientas básicas de autoevaluación y coevaluación, analógicas y digitales, e individuales y cooperativas.
+
+4. Reconocimiento del repertorio lingüístico para transferir los conocimientos, las estrategias y las destrezas adquiridas en contextos de su entorno más próximo.
+
+5. Comparación elemental entre lenguas a partir de elementos significativos de la lengua extranjera y otras lenguas.
+
+6. Reconocimiento del error como parte integrante del proceso.
+
+7. Uso de léxico y expresiones básicas para comprender enunciados sobre la comunicación, la lengua y el aprendizaje (metalenguaje).
+
+III. Interculturalidad.
+
+1. Uso de la lengua extranjera como medio de comunicación y relación con personas de otros países, y de conocimiento de culturas y modos de vida diferentes.
+
+2. Reconocimiento de estrategias básicas de uso común para entender y apreciar la diversidad lingüística, cultural y artística, a partir de valores ecosociales y democráticos
+
+3. Reconocimiento de estrategias básicas de empleo común para la detección de usos discriminatorios del lenguaje verbal y no verbal.
+
+4. Identificación de aspectos socioculturales y sociolingüísticos más significativos, relativos a las costumbres, la vida cotidiana y las relaciones interpersonales básicas en países donde se habla la lengua extranjera.
+
+IV. Dimensiones interpersonal e intrapersonal.
+
+1. Interés en la participación en intercambios comunicativos con estudiantes de la lengua, a través de diferentes medios.
+
+2. Valoración y respeto hacia las opiniones ajenas, fomentando un clima afectivo e inclusivo de aprendizaje.
+
+3. Comprensión y respeto por la diversidad y el patrimonio lingüístico, cultural y artístico, valorando las relaciones interpersonales elementales en países donde se habla la lengua extranjera.
+
+4. Desarrollo de la autoestima y autoconfianza durante el proceso de aprendizaje de una lengua extranjera.
+
+5. Fomento de la motivación por el aprendizaje de la lengua extranjera.
+
+6. Reconocimiento de estrategias básicas colaborativas y de dinámicas de trabajo de grupo.
+
+7. Desarrollo de la empatía en intercambios comunicativos.
+
+8. Desarrollo del aprendizaje codirigido.
+
+9. Desarrollo de la visión creativa y emocional del aprendizaje.
+
+Ver anexo en la página 45783 del documento
+                        Descargar
+
+Tercer ciclo Educación Primaria
+
+Bloques competenciales
+
+Ver anexo en las páginas 45784-45788 del documento
+                        Descargar
+
+Saberes básicos
+
+I. Comunicación.
+
+1. Implementación de estrategias adecuadas para la comprensión, planificación, producción e interacción de textos orales, escritos y multimodales breves, sencillos y contextualizados.
+
+2. Aplicación de conocimientos, destrezas y actitudes básicas en situaciones cotidianas de mediación en entornos sociales.
+
+3. Empleo de funciones comunicativas adecuadas al ámbito y al contexto: saludar, despedirse, presentar y presentarse; describir personas, objetos y lugares; situar eventos en el tiempo; situar objetos, personas y lugares en el espacio; pedir e intercambiar información sobre cuestiones cotidianas; describir rutinas; dar indicaciones e instrucciones; y expresar la pertenencia y la cantidad.
+
+4. Implementación de modelos contextuales y géneros discursivos adecuados en la comprensión, producción y coproducción de textos orales, escritos y multimodales, breves y sencillos, literarios y no literarios, atendiendo a las características y al reconocimiento del contexto, y a la organización.
+
+5. Empleo de unidades lingüísticas básicas y significados asociados a dichas unidades, tales como expresión de la entidad y sus propiedades, la cantidad y el número, el espacio y las relaciones espaciales, el tiempo, la afirmación, la negación, la interrogación y la exclamación, o las relaciones lógicas elementales.
+
+6. Uso del léxico básico y de interés para el alumnado relativo a la identificación personal y a las relaciones interpersonales próximas, los lugares y entornos cercanos, el ocio y tiempo libre, o la vida cotidiana.
+
+7. Uso de patrones sonoros, acentuales, rítmicos y de entonación básicos, y funciones comunicativas generales asociadas a dichos patrones.
+
+8. Implementación de convenciones ortográficas básicas y significados asociados a los formatos y elementos gráficos.
+
+9. Uso de convenciones y estrategias conversacionales básicas, en formato síncrono o asíncrono, para iniciar, mantener y terminar la comunicación, tomar y ceder la palabra, pedir y dar aclaraciones y explicaciones, comparar y contrastar, colaborar…
+
+10. Empleo de recursos para el aprendizaje y de estrategias para la búsqueda guiada de información en medios analógicos y digitales.
+
+11. Reconocimiento de la propiedad intelectual de las fuentes consultadas y contenidos utilizados.
+
+12. Uso de herramientas analógicas y digitales básicas para la comprensión, producción y coproducción oral, escrita y multimodal; y plataformas virtuales de interacción, cooperación y colaboración educativa (aulas virtuales, videoconferencias, herramientas digitales colaborativas…), para el aprendizaje, la comunicación y el desarrollo de proyectos con hablantes o estudiantes de la lengua extranjera.
+
+II. Plurilingüismo.
+
+1. Implementación de estrategias y técnicas de compensación de las carencias comunicativas para responder eficazmente a una necesidad concreta,teniendo en cuenta las limitaciones derivadas del nivel de competencia en la lengua extranjera y en las demás lenguas del repertorio lingüístico propio.
+
+2. Implementación de estrategias básicas para identificar, organizar, retener, recuperar y utilizar unidades lingüísticas (léxico, morfosintaxis, patrones sonoros…), a partir de la comparación de las lenguas y variedades que conforman el repertorio lingüístico personal.
+
+3. Aplicación de estrategias y herramientas básicas de autoevaluación y coevaluación, analógicas y digitales, e individuales y cooperativas.
+
+4. Aplicación del repertorio lingüístico para transferir los conocimientos, las estrategias y las destrezas adquiridas a otros contextos.
+
+5. Comparación elemental entre lenguas a partir de elementos básicos de la lengua extranjera y otras lenguas: origen y parentescos.
+
+6. Reconocimiento del error como instrumento de mejora.
+
+7. Uso de léxico y expresiones habituales para comprender enunciados sobre la comunicación, la lengua, el aprendizaje y las herramientas de comunicación y aprendizaje (metalenguaje).
+
+III. Interculturalidad.
+
+1. Uso de la lengua extranjera como medio de comunicación y relación con personas de otros países, y de conocimiento de culturas y modos de vida diferentes, y como forma de acceder a nueva información.
+
+2. Aplicación de estrategias básicas para entender y apreciar la diversidad lingüística, cultural y artística, a partir de valores ecosociales y democráticos.
+
+3. Aplicación de estrategias de detección de usos discriminatorios del lenguaje verbal y no verbal.
+
+4. Identificación de aspectos socioculturales y sociolingüísticos básicos, relativos a las costumbres, la vida cotidiana y las relaciones interpersonales, las convenciones sociales básicas de uso común, el lenguaje no verbal, la cortesía lingüística y la etiqueta digital propias de países donde se habla la lengua extranjera.
+
+IV. Dimensiones interpersonal e intrapersonal.
+
+1. Valoración positiva e interés por establecer contactos y comunicarse a través de diferentes medios con hablantes o estudiantes de la lengua extranjera.
+
+2. Comprensión y aprecio hacia las opiniones de los demás, fomentando un clima afectivo e inclusivo de aprendizaje.
+
+3. Comprensión y aprecio por la diversidad y el patrimonio lingüístico, cultural y artístico, valorando las relaciones interpersonales elementales en países donde se habla la lengua extranjera.
+
+4. Desarrollo de la autoestima y autoconfianza durante el desarrollo del proceso de aprendizaje de una lengua extranjera.
+
+5. Fomento de la motivación por el aprendizaje de la lengua extranjera.
+
+6. Implementación de estrategias básicas colaborativas y de dinámicas de trabajo de grupo.
+
+7. Desarrollo de la empatía y valoración de otros puntos de vista.
+
+8. Desarrollo del aprendizaje autónomo.
+
+9. Desarrollo de la visión creativa y emocional del aprendizaje.
+
+
+### Matemáticas
+
+Introducción.
+
+Las matemáticas desempeñan un papel indispensable a la hora de afrontar cuestiones y desafíos relativos a aspectos personales, profesionales, sociales y científicos de la vida, y están presentes en cualquier actividad humana. Su conocimiento ayuda a las personas a emitir juicios y a tomar decisiones bien fundamentadas, y su carácter instrumental las vincula con la mayoría de las áreas de conocimiento.
+
+El estudio de las matemáticas desarrolla las capacidades de razonamiento, abstracción, análisis, síntesis, inducción o deducción, etc., que ayudan a ordenar y estructurar la información, a encontrar semejanzas y diferencias, a argumentar con rigor y precisión al proponer retos a la inteligencia, ofreciendo oportunidades para la investigación, poniendo a prueba la imaginación y la creatividad, y planteando situaciones en las que el alumnado tenga que comunicar coherentemente las ideas y tomar decisiones de forma crítica. Además, integran aspectos como el dominio del espacio, el tiempo, la proporción, la optimización de recursos, el análisis de la incertidumbre o el manejo de la tecnología digital. Cobran especial interés elementos relacionados con el manejo de datos e información y el pensamiento computacional, que proporcionan instrumentos eficaces para entender problemas sociales, económicos, científicos, ambientales, etc., y para evaluar posibles vías de solución, tanto en entornos cercanos como más globalizados. En definitiva, se erigen como un saber instrumental indispensable en el marco de los Objetivos de Desarrollo Sostenible de las Naciones Unidas 2015 y la Agenda Canaria de Desarrollo Sostenible 2030.
+
+En consecuencia, la propuesta curricular del área de Matemáticas en Educación Primaria establece unas enseñanzas mínimas con las que se persigue alcanzar el desarrollo máximo de las potencialidades del alumnado desde una perspectiva inclusiva, independientemente de sus circunstancias personales y sociales; así como la alfabetización matemática, es decir, la adquisición de los conocimientos, las habilidades y las herramientas necesarias para aplicar el razonamiento lógico matemático en la formulación y resolución de una situación-problema: seleccionar las herramientas adecuadas para su resolución, interpretar las soluciones en el contexto y tomar decisiones estratégicas como personas comprometidas y reflexivas capaces de enfrentar los desafíos del siglo XXI.
+
+Los saberes propios de Canarias se han incluido en el currículo del área desde un enfoque centrado en la educación patrimonial. Este enfoque presenta un carácter globalizador y transversal, y nace con la premisa de concienciar y sensibilizar al alumnado canario de la importancia del cuidado, disfrute y transmisión del patrimonio, pone el acento en la identificación y puesta en valor del mismo como parte inseparable de la sociedad, y apuesta por la implicación de la ciudadanía para lograr su sostenibilidad y la de los valores que en él perduran.
+
+De esta manera, a lo largo de la Educación Primaria, el alumnado se acerca de manera gradual a estos aprendizajes, propiciándose la inserción, en los currículos de las diferentes áreas de la etapa, de contextos de aprendizaje en torno al patrimonio cultural canario, que promuevan la participación de los niños y las niñas, para que lo conozcan, disfruten y valoren, contribuyendo así a su sensibilización, respeto y conservación.
+
+Contribución a los objetivos de etapa.
+
+El desarrollo curricular del área de Matemáticas se orienta a la consecución de los Objetivos de la Etapa, con una especial atención al desarrollo y la adquisición de las competencias clave conceptualizadas del Perfil de salida y cuyos descriptores son el marco de referencia de las competencias específicas del área.
+
+El alumnado ha de lograr comprender y representar hechos y situaciones reales o simuladas de la vida cotidiana mediante modelos simbólicos matemáticos; ha de identificar las formas geométricas del entorno y sus características mensurables, descubriendo y utilizando el conocimiento de sus elementos y propiedades para interpretar la realidad física, entre ellas las representaciones y expresiones artísticas visuales y audiovisuales También el desarrollo del currículo del área le permitirá explorar nuevas posibilidades de acción, organizar su pensamiento y aplicar de forma estructurada y coherente las ideas y acciones necesarias, comprobando todo el proceso seguido y aplicando mecanismos de autocorrección; y utilizando el conocimiento matemático en posteriores aprendizajes o en cualquier situación independiente de la experiencia escolar. Así mismo aprenderá a formular y resolver problemas lógico-matemáticos utilizando diferentes estrategias; estimar, calcular y medir, así como usar procedimientos geométricos y de orientación espacial, de probabilidad y representación de la información, lo que contribuye a la consecución del objetivo (g). Además ha de utilizar los principios básicos del pensamiento computacional para organizar su pensamiento y aplicar de forma estructurada y coherente las ideas y acciones necesarias, comprobando todo el proceso seguido y aplicando mecanismos de autocorrección.
+
+Las matemáticas contribuyen a adquirir seguridad y autoconfianza; a afrontar situaciones diversas de forma eficaz y con satisfacción personal; a desarrollar actitudes como la exploración de distintas alternativas, la conveniencia de la precisión, la perseverancia en la búsqueda de soluciones, la autonomía intelectual, la curiosidad, el interés y la creatividad en el aprendizaje, el espíritu emprendedor y el esfuerzo por el aprendizaje individual y de equipo (b), adquiriendo habilidades para la resolución pacífica de conflicto (c), el respeto a las diferencias entre las personas y la igualdad de derechos y oportunidades (d), apreciando los valores y normas de convivencia (a), aceptando el error como parte del aprendizaje y respetando otras ideas y opiniones en un marco contrario a la violencia (m).
+
+Por último, favorece el descubrimiento, la comprensión, la exposición, la profundización y la ampliación de saberes matemáticos y su relación con otros de distintas áreas del currículo, desarrollando un espíritu crítico ante la información a la que acceden para convertirla en conocimiento y comunicarla en diferentes contextos y con el vocabulario adecuado (e). Todo ello utilizando técnicas básicas de recogida de datos para obtener información procedente de diferentes fuentes e interpretarla, formándose un juicio sobre ella, procesando y generando conocimiento, siguiendo unas normas básicas de seguridad en el uso de las tecnologías digitales y desarrollando una actitud digital crítica y responsable (i).
+
+Contribución a las competencias clave.
+
+La propuesta curricular del área tiene un marcado carácter competencial y se ha desarrollado conforme a los descriptores operativos establecidos en el Perfil de salida del alumnado al término de la enseñanza básica, concretado para la Educación Primaria, que identifica el grado de desarrollo y adquisición de las competencias clave para todo el alumnado que finaliza esta etapa.
+
+Interpretar textos en diferentes formatos; intercambiar ideas e información de forma rigurosa y precisa, con un vocabulario matemático adecuado, creando un entorno comunicativo que propicie relaciones afectivas saludables, contribuye a la adquisición de la Competencia en comunicación lingüística (CCL). Se trata tanto de facilitar la expresión de reflexiones y procesos seguidos, conclusiones, argumentos, hipótesis, etc., como de propiciar la escucha de las explicaciones de otras personas, lo que facilita el desarrollo de la propia comprensión, del espíritu crítico y de la mejora de las destrezas comunicativas. Es necesario ofrecer oportunidades para comunicar ideas matemáticas. El proceso de escuchar, exponer, dialogar y redactar favorece la expresión y comprensión de los mensajes orales y escritos en situaciones diversas, adaptando la comunicación al contexto y utilizando códigos y habilidades lingüísticas y no lingüísticas, utilizando el español hablado en Canarias como un registro válido y siguiendo la norma culta canaria para promover la autoestima lingüística del alumnado. Esto permitirá intervenir exitosamente en situaciones comunicativas concretas y contextualizadas.
+
+En una sociedad globalizada como la nuestra, se hace necesario que el alumnado desarrolle destrezas que respondan a necesidades comunicativas sencillas en lenguas distintas de la materna. En este sentido, la matemática contribuye a la Competencia plurilingüe (CP), a través de representaciones que impliquen la búsqueda e interpretación de textos en distintos formatos y lenguas.
+
+El pensamiento matemático contribuye a la Competencia matemática y competencias en ciencia, tecnología e ingeniería (STEM), al hacer posible una mejor comprensión y una descripción más ajustada del entorno. Con el sentido espacial, se mejora la observación y análisis de la realidad, su orientación, la capacidad para manipular mentalmente figuras en el plano y en el espacio, la elaboración de dibujos y maquetas, etc. La numeración y la medida aportan un mejor conocimiento de la realidad, aumentan las posibilidades de interactuar con ella y de transmitir informaciones cada vez más precisas sobre aspectos cuantificables del entorno. La utilización de representaciones gráficas para interpretar la información aporta una herramienta valiosa para conocer y analizar mejor la realidad. La resolución de problemas facilita plantearse interrogantes, leer comprensivamente, cuantificar, estimar, analizar la información, reflexionar, establecer un plan y revisarlo, verificar la validez de las soluciones, argumentar, comunicar e integrar los conocimientos adquiridos. Por último, contribuye a despertar vocaciones científicas en el alumnado, especialmente en las niñas, desde edades tempranas.
+
+Las Matemáticas contribuyen a la adquisición de la Competencia digital (CD) al proporcionar destrezas asociadas a los procesos de análisis y de síntesis, de razonamiento, de clasificación, de reflexión y de organización, necesarias para el tratamiento de la información obtenida a través de los medios tecnológicos y de comunicación, facilitando la comprensión, valoración y expresión de informaciones que incorporan cantidades o medidas. Se contribuye desde esta área a desarrollar la capacidad para seleccionar, organizar, clasificar y relacionar información de forma sistemática o la posibilidad de mejorar los procesos de búsqueda segura y con un criterio adecuado. Por otro lado, las aplicaciones informáticas, los materiales didácticos digitales y los recursos en la red facilitan el acceso universal a la información, la creación de contenidos propios y la generación de conocimiento y saber.
+
+La contribución de las Matemáticas a la Competencia personal, social y de aprender a aprender (CPSAA) radica en que ayudan a gestionar la información de forma eficaz, a colaborar de forma crítica, activa y constructiva, y a ser consciente de su propio aprendizaje y de su autorregulación, desarrollando la metacognición y la capacidad para autocorregirse, y hacer frente a la incertidumbre y la complejidad desde una adecuada gestión emocional. Propicia el desarrollo de esquemas mentales que ayudan a organizar el conocimiento, apoyados en técnicas de estudio, de observación y de registro sistemático de información. El alumnado se plantea preguntas y maneja diversas estrategias para la toma de decisiones racionales y críticas, alcanzando así metas a corto y largo plazo con autonomía, perseverancia y esfuerzo. La verbalización del proceso seguido en el aprendizaje ayuda a la reflexión sobre qué, cómo, para qué se ha aprendido y qué falta por aprender, ayudando a consolidar los aprendizajes.
+
+La aportación a la Competencia ciudadana (CC) se vincula al trabajo en equipo y a las dinámicas de interacción social que empiezan con la escucha activa y continúan con la aceptación de otros puntos de vista distintos al propio, en particular, a la hora de tomar decisiones y de utilizar estrategias personales de resolución de problemas, comparando los posibles resultados y eligiendo como solución la más adecuada. A esta competencia se contribuye también desde la comprensión de la información necesaria para una participación social y ciudadana activa. Se trata de que el alumnado asuma responsabilidades en las actividades que realiza, tanto de manera individual como colectiva, y siempre desde una interacción participativa, respetuosa, empática, igualitaria y constructiva.
+
+La principal aportación del área a la Competencia emprendedora (CE) corresponde fundamentalmente a la resolución de problemas, pues implica la capacidad de transformar las ideas en actos, es decir, de adquirir conciencia de la situación a intervenir o resolver, y saber elegir, planificar y gestionar los conocimientos, aplicando las habilidades y actitudes necesarias con criterio propio, con el fin de alcanzar el objetivo previsto con seguridad y confianza. Las matemáticas desarrollan la capacidad de análisis, planificación, organización, gestión y toma de decisiones creativas, la comunicación, la presentación, la habilidad para trabajar individualmente o en equipo, el pensamiento crítico, el sentido de la responsabilidad, la evaluación y autoevaluación, el manejo de la incertidumbre y la gestión del riesgo.
+
+Las Matemáticas contribuyen a la Competencia en conciencia y expresiones culturales (CEC) al poner en juego la iniciativa, la imaginación y la creatividad. Las conexiones que se establecen con otras áreas o con la vida cotidiana favorecen el reconocimiento, respeto y construcción del patrimonio natural, social y cultural canario. Las relaciones y formas geométricas, entre otros aspectos, favorecen la comprensión de determinadas producciones artísticas a través del análisis de los elementos que las componen o que aparecen en una obra visual, analizando sus proporciones, perspectivas, simetrías, patrones, etc. De esta forma el alumnado utiliza las matemáticas en su vertiente más artística, desarrollando una mirada hacia el entorno que permite valorar y disfrutar de una manera más profunda de todo lo que nos rodea y apreciar su belleza.
+
+Bloques competenciales.
+
+El bloque competencial es el eje del currículo de cada área: integra la enunciación de las competencias específicas, su vinculación con los descriptores operativos del Perfil de salida, los criterios de evaluación y la explicación del bloque competencial.
+
+Las competencias específicas, que tienen carácter finalista, constituyen un elemento de conexión entre las competencias clave y los saberes propios del área. En cuanto a los criterios de evaluación, estos constituyen los referentes que indican el nivel de desempeño a alcanzar por el alumnado. Se establece, además, la contribución de cada criterio a los descriptores del Perfil de salida, de manera que se facilita la evaluación conjunta de los aprendizajes propios del área y del grado de desarrollo y adquisición de las competencias en el alumnado. En lo relativo a las explicaciones de los bloques competenciales, estas integran los aprendizajes recogidos en la totalidad del bloque, orientan sobre el proceso de desarrollo y adquisición tanto de las competencias específicas como de las competencias clave; y ofrecen, además, indicaciones metodológicas -siempre con una perspectiva abierta, flexible e inclusiva- para el diseño y la implementación de situaciones de aprendizaje competenciales. Es por ello que las explicaciones de los bloques competenciales se constituyen como los referentes más adecuados para la concreción curricular y la elaboración de la programación didáctica.
+
+Competencias específicas y criterios de evaluación.
+
+En el área de Matemáticas hay ocho competencias específicas que se concretan en catorce criterios de evaluación. No obstante, el currículo del área queda conformado por seis bloques competenciales, ya que se han unificado en un único bloque aquellas competencias que desarrollan un mismo proceso de aprendizaje. Uno de estos bloques, el de resolución de problemas, aúna las dos primeras competencias específicas la C1 y C2, vinculadas a los procesos de resolución que se deben trabajar conjuntamente. Por su parte, las competencias específicas C7 y C8, vinculadas a las destrezas personales y sociales que gestionan las emociones, conforman un único bloque competencial vinculado al desarrollo socio-afectivo del alumnado.
+
+Estos criterios de evaluación presentan una marcada naturaleza competencial, de manera que se relacionan directamente con los descriptores operativos del perfil de salida a los que contribuye la competencia específica, expresando tanto las capacidades y los saberes a adquirir, como el contexto y modo de aplicación de dichos aspectos.
+
+Los criterios de evaluación de cada uno de los bloques competenciales tienen carácter longitudinal, de manera que en cada ciclo se aumenta la complejidad de los aprendizajes hasta alcanzar los definidos al finalizar la Educación Primaria.
+
+La enunciación de la competencia específica se recoge en el bloque competencial correspondiente. A continuación se ofrece una explicación de cada una de ellas.
+
+Competencias específicas 1 y 2 (C1 y C2).
+
+Con el desarrollo de estas competencias, se trabajará la comprensión de un problema, es siempre el primer paso hacia su resolución. Se realiza tanto sobre mensajes escritos como orales, visuales o con materiales manipulativos que supongan un reto. Se pretende dotar al alumnado de herramientas que le permitan interpretar y representar situaciones del mundo que lo rodea y resolver problemas en contextos variados. A través del desarrollo de los aprendizajes descritos en los criterios de evaluación, el alumnado desarrollará su capacidad para identificar la información relevante de un problema, discriminando datos, objetivos y relaciones, y estructurar estos elementos en diagramas u otras representaciones matemáticas; así como que comprende y reformula la situación planteada en contextos diversos, movilizando sus conocimientos y experiencias previos.
+
+Asimismo, también se trabajará la resolución de problemas tanto como un objetivo en sí mismo como un medio para la construcción del conocimiento matemático. La manipulación, el diseño de representaciones gráficas y la argumentación verbal deben estar presentes en el proceso de resolución. La elección de la estrategia y su revisión implica tomar decisiones, anticipar la respuesta y transformar el error en una oportunidad de aprendizaje. Comprobar las soluciones supone razonar acerca del proceso seguido y evaluar su corrección. Con el desarrollo de los criterios de evaluación se pretende que el alumnado resuelva problemas de distinto tipo siguiendo una secuencia ordenada: comprensión de la situación, realización de un diagrama que permita visualizar las conexiones entre los datos, el objetivo y las relaciones; elección de una estrategia; ejecución de la estrategia elegida; y comprobación de las soluciones obtenidas para dar una respuesta coherente con el objetivo, analizando el proceso seguido y comunicando de forma razonada sus conclusiones. Disponer de diferentes estrategias permite al alumnado con distintas capacidades completar con éxito el proceso.
+
+Competencia específica 3 (C3).
+
+Con el desarrollo de esta competencia, se trabajará la formulación y comprobación de conjeturas, lo que permite poner en funcionamiento el razonamiento, el pensamiento analítico y crítico, la observación e identificación de elementos matemáticos, tanto en contextos cotidianos como en situaciones propias del área, generando un nuevo conocimiento matemático. La finalidad es lograr que el alumnado detecte elementos matemáticos en su entorno, planteándose preguntas o formulando conjeturas, desarrollando una actitud activa ante el trabajo y proactiva ante el aprendizaje. Los criterios vinculados se relacionan con la realización, el análisis, la formulación y comprobación de conjeturas sencillas, investigando patrones, propiedades y relaciones, dando ejemplos de problemas en situaciones cotidianas susceptibles de ser resueltos matemáticamente.
+
+Competencia específica 4 (C4).
+
+El desarrollo de esta competencia requiere de la abstracción para identificar los aspectos  más relevantes, la descomposición en tareas más simples; y relacionar los aspectos  fundamentales de la informática con las necesidades del alumnado, preparándole para un futuro cada vez más tecnológico, mejorando sus capacidades intelectuales con el uso de abstracciones para resolver problemas complejos y sus capacidades emocionales, tolerando la frustración y perseverando en la realización de la tarea. La adquisición de los aprendizajes descritos en los criterios de evaluación incide en la descripción, automatización y modelización de situaciones cotidianas que se realizan paso a paso o siguen una rutina usando los principios básicos del pensamiento computacional.
+
+Competencia específica 5 (C5).
+
+Con el desarrollo de esta competencia (C5) y el de los aprendizajes descritos en los criterios de evaluación, se favorecerá el reconocimiento y establecimiento de conexiones entre distintos elementos matemáticos y otras áreas, aplicando los conocimientos y experiencia propios, así como la identificación de la presencia de las matemáticas en contextos diversos, entre ellos, en el entorno cercano y en el propio Patrimonio natural, social y cultural canario, que permitan tomar decisiones sostenibles y respetuosas.
+
+Competencia específica 6 (C6).
+
+Con el desarrollo de esta competencia, cobra especial importancia el proceso comunicativo, dado que comunicar y representar conceptos, procedimientos y resultados matemáticos contribuye a dar significado y permanencia a las ideas matemáticas porque sirve como puente entre la manipulación y la abstracción. La adquisición de los aprendizajes presentes en los criterios de evaluación incide en el reconocimiento, interpretación y uso correcto del lenguaje matemático, siendo capaces de explicar y comunicar ideas y procesos haciendo uso del vocabulario específico básico del área. Dicho proceso requiere de una correcta gestión emocional y una participación activa dentro del grupo.
+
+Competencias específicas 7 y 8 (C7 y C8).
+
+Con el desarrollo de estas competencias, se favorecerá la adquisición de destrezas emocionales que fomenten el bienestar del alumnado y el interés, la implicación y la motivación por las matemáticas, incluyendo una perspectiva de género. A través de la adquisición de los aprendizajes descritos en los criterios de evaluación se incide en el reconocimiento y la autorregulación de las emociones como una ocasión para crecer de manera personal, en la autoconfianza en las propias posibilidades, en el mantenimiento del esfuerzo, en el desarrollo de actitudes positivas y en la valoración del error como nueva oportunidad de aprendizaje.
+
+Además, el desarrollo de estas destrezas sociales pretende que el alumnado se enfrente a los retos matemáticos propuestos, poniendo en valor el respeto, la igualdad y la resolución pacífica de conflictos, desarrollando la planificación, indagación, motivación y confianza para crear relaciones y entornos saludables de trabajo. Esto permite dotar al alumnado de estrategias de trabajo en equipo, fomentando la escucha activa y la comunicación asertiva, cooperando de manera creativa, crítica y responsable y abordando la resolución de conflictos de manera positiva, con un lenguaje inclusivo y no violento, y asumiendo las responsabilidades individuales orientadas hacia la consecución de objetivos compartidos.
+
+Saberes básicos.
+
+Los saberes básicos del área no están directamente asociados de manera biunívoca a los criterios de evaluación. Esto permitirá desarrollar los aprendizajes de las competencias específicas en distintos contextos y de manera continua a lo largo de la etapa. Los saberes quedan establecidos, organizados y secuenciados a continuación de los bloques competenciales. El profesorado tendrá que vincular los bloques competenciales con los saberes básicos que estime más adecuados para que el alumnado adquiera los aprendizajes establecidos.
+
+Integran conceptos, procedimientos y actitudes, favoreciendo su adquisición de forma conjunta, que son imprescindibles porque suponen el medio para desarrollar de forma adecuada los criterios propios del área y de las competencias clave.
+
+Se estructuran en seis sentidos en torno al concepto de “sentido matemático” e integran un conjunto de conocimientos, destrezas y actitudes diseñados de acuerdo con el desarrollo evolutivo del alumnado.
+
+En el Bloque I, “Sentido numérico”, se desarrollan habilidades y modos de pensar basados en la comprensión, la representación y el uso flexible de la estructura del sistema de numeración decimal, de las propiedades de las operaciones y las relaciones entre ellas para realizar cálculos y resolver problemas, todo ello con la ayuda de la manipulación de materiales, y evaluar si los resultados son razonables. En la sociedad actual, en la que se tiene fácil acceso a instrumentos y aplicaciones que realizan cálculos matemáticos de todo tipo, es necesario replantear esta parte de las matemáticas de modo que se reduzca el tiempo que el alumnado dedica a memorizar y reproducir técnicas y algoritmos vacíos de sentido y significado. Se busca desarrollar la habilidad para el dominio del sistema de numeración y el cálculo con diferentes algoritmos razonados, abiertos y flexibles, y la decisión en cada caso sobre el que sea más adecuado, evitando los puramente memorísticos, que respeten las diferencias individuales y favorezcan el aprendizaje entre iguales. Se pretende que el alumnado no solo calcule con fluidez sino que haga estimaciones razonables, logrando un equilibrio entre la comprensión de las operaciones y la competencia en el cálculo. Se utilizarán la calculadora y los diferentes medios tecnológicos para obtener los resultados exactos de operaciones que exigen de una precisión tal que el registro o cálculo escrito resulta poco útil u operativo.
+
+En el Bloque II, “Sentido de la medida”, se desarrolla la comprensión y comparación de atributos de los objetos del mundo natural. A partir de la percepción y conocimiento de la magnitud como atributo medible de los objetos, por comparación, superposición y ordenación, se pasa a la noción de medida y a la acción de medir. Entender y elegir las unidades adecuadas para estimar, medir y comparar; utilizar instrumentos adecuados para realizar mediciones y comprender las relaciones entre magnitudes utilizando la experimentación, son los ejes centrales de este sentido. Debe considerarse la necesidad de la medición con diferentes magnitudes, utilizándose en situaciones diversas de forma habitual, así como establecer los mecanismos para efectuarla: estimación, elección de instrumento y unidad, relaciones entre unidades y grado de fiabilidad y exactitud. Se partirá de unidades corporales y arbitrarias para pasar a las unidades de medida habituales en el mundo actual, evitando las unidades no habituales y los cambios de unidades descontextualizadas o que ya no son de uso. Este bloque supone una oportunidad para realizar investigaciones en torno a las medidas tradicionales canarias, como vínculo con su Patrimonio natural, social y cultural canario y con el sentido cultural de la educación.
+
+En el Bloque III, “Sentido espacial”, se trabajan habilidades para saber ubicarse y orientarse en el espacio, analizar las características y propiedades de cuerpos y figuras geométricas, localizar y describir relaciones espaciales mediante coordenadas y otros sistemas de representación como el croquis, utilizar la visualización, la modelización, el razonamiento matemático y las transformaciones para aplicarlos a la resolución de problemas. Identificar, representar y clasificar formas, descubrir sus propiedades y relaciones, ubicarlas, describir sus movimientos y razonar a partir de su manipulación, constituyen sus elementos clave. Tiene un papel relevante el trabajo manipulativo a través del uso de diferentes materiales, realizando plegados, construcciones, vistas, etc., para llegar al concepto a través de modelos reales, a este mismo fin puede contribuir el uso de aplicaciones digitales.
+
+Por otro lado, el sentido espacial debe ir acompañado del sentido de la medida. Los instrumentos de medida y las fórmulas de medición indirecta son centrales en esta área, debiendo deducirse por investigación la forma de realizar los cálculos de perímetros, áreas y volúmenes de objetos geométricos a partir de otros más simples.
+
+En el Bloque IV, “Sentido algebraico y pensamiento computacional”, se proporciona el lenguaje en el que se comunican las matemáticas. Sus características fundamentales son: ver lo general en lo particular, reconocer patrones y relaciones de dependencia entre variables y expresar estas regularidades mediante diferentes representaciones, así como modelizar situaciones matemáticas o del mundo real con expresiones simbólicas. Asimismo, la integración de la tecnología digital va más allá del uso de herramientas tecnológicas para la resolución de una tarea. Debe considerarse de modo transversal y orientarse a su utilización como recurso habitual para aprender de forma autónoma, individualizada, permitiendo al alumnado buscar, observar, analizar, experimentar, comprobar y rehacer la información, o como instrumentos de consulta e investigación, comunicación e intercambio, creando entornos que atiendan a la diversidad.
+
+En el Bloque V, “Sentido estocástico”, se orienta hacia el razonamiento y la interpretación de datos, la valoración crítica y la toma de decisiones a partir de información estadística, además de la comprensión y comunicación de fenómenos aleatorios en situaciones de la vida cotidiana. El área debe abordarse de forma experiencial, concediendo especial relevancia a la manipulación en los primeros niveles, proponiendo al alumnado situaciones de aprendizaje e investigaciones estadísticas básicas para trabajar en equipo (formulación de cuestiones, recolección de datos o considerar diversas muestras de datos, analizar los datos e interpretar los resultados del análisis) y la habilidad para reconocer cómo este proceso es crucial para todo razonamiento estocástico que incluye datos (cualitativos, cuantitativos discretos y continuos) que propicien la reflexión, el razonamiento, el establecimiento de conexiones, la comunicación y la representación. Se considera fundamental el correcto manejo de la tecnología digital para el acceso a datos significativos, su exploración y visualización, y por último, su comunicación y difusión.
+
+Las ideas sobre probabilidad en esta etapa deben tratarse a través del juego y situaciones reales. De este modo, se introducen las nociones más básicas para posteriormente, mediante experimentos con objetos concretos, construir el conocimiento de la probabilidad. Es importante también fomentar el desarrollo de conductas responsables frente a los juegos de azar.
+
+En el Bloque VI, “Sentido socioafectivo”, se integran conocimientos, destrezas y actitudes esenciales para entender las emociones. Manejar correctamente estas habilidades mejora el rendimiento del alumnado en matemáticas, combate actitudes negativas hacia ellas, contribuye a erradicar ideas preconcebidas relacionadas con el género o el mito del talento innato indispensable y promueve un aprendizaje activo, tanto individualmente como en grupo, al tiempo que se valora la utilidad de las matemáticas y se adquiere la habilidad para usar los conocimientos adquiridos en contextos cotidianos. Para reforzar este fin, resultará esencial dar a conocer al alumnado las contribuciones de las mujeres a las matemáticas a lo largo de la historia.
+
+Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos.
+
+Las competencias específicas explicitan desempeños que el alumnado debe poder llevar a cabo en situaciones de aprendizaje para cuyo abordaje se requieran los saberes básicos de cada área, dentro de un marco de atención inclusiva a las diferencias individuales, y a las singularidades y necesidades de cada alumno o alumna. La implementación del currículo del área implica, por tanto, la definición, por parte del profesorado, de estas situaciones de aprendizaje contextualizadas.
+
+El modelo pedagógico canario se nutre de una premisa crucial: la necesaria integración de la evaluación en el proceso de planificación y diseño de estas situaciones de aprendizaje, para asegurar una evaluación competencial del alumnado. Es necesario, por tanto, que el profesorado utilice variedad de instrumentos, técnicas y herramientas de evaluación, en diferentes contextos, con soportes y formatos diversos, que permitan que el alumnado pueda demostrar lo que sabe, lo que siente y piensa, lo que puede hacer…, atendiéndose así, de manera inclusiva, a la diversidad del alumnado, a su ritmo de aprendizaje y a su forma de aprender.
+
+Desde el área de Matemáticas, se realiza una propuesta curricular flexible, basada en los principios del DUA (Diseño Universal para el Aprendizaje), que se ajusta a las necesidades y diferentes ritmos de aprendizaje del alumnado. Desde este enfoque, la intervención educativa, bajo el parámetro de la inclusividad, gira en torno al centro y a la comunidad educativa con un currículo común para todo el alumnado.
+
+La puesta en práctica del nuevo currículo del área implica la definición, por parte del profesorado, de situaciones de aprendizaje globalizadas y contextualizadas, que posibiliten un mayor alcance de los saberes propios del área, donde este asuma un rol de guía del proceso de enseñanza-aprendizaje.
+
+El área debe abordarse de forma experiencial, con situaciones de aprendizaje que propicien la reflexión, el razonamiento, el establecimiento de conexiones, la comunicación, la representación, tomando especial relevancia la manipulación. Se recomienda combinar diferentes estrategias metodológicas que favorezcan la motivación por aprender y generen en el alumnado curiosidad y la necesidad de adquirir los conocimientos, destrezas y actitudes para el desarrollo de las competencias. Las metodologías que faciliten el aprendizaje activo, como el ABP, aprendizaje por tareas, etc., son especialmente adecuadas en un enfoque competencial, ya que permiten construir el conocimiento y dinamizar la actividad de aula mediante el intercambio de ideas. El trabajo por proyectos posibilita la interdisciplinariedad, la reflexión, la crítica, la elaboración de hipótesis y la investigación.
+
+En el planteamiento de las situaciones de aprendizaje, se deben incorporar cuestiones que ayuden a la reflexión del alumnado sobre su propio pensamiento y fomenten la autonomía y la autorregulación, así como su autoconcepto ante las matemáticas, aumentando la perseverancia y la responsabilidad ante el aprendizaje. Se han de plantear actividades individuales y colectivas, en las que se fomente el desarrollo de técnicas para el trabajo en equipo, promoviendo la aceptación de la diversidad y fomentando las conductas empáticas.
+
+Las situaciones de aprendizaje han de plantear un problema, reto o situación en el que la demanda sea clara y explícita, e involucre varias competencias específicas, teniendo en cuenta el principio de inclusión, de forma que puedan ser abordadas por la totalidad del alumnado. Estas situaciones Favorecerán la cooperación y el trabajo en equipo, desarrollando las competencias socioemocionales; y permitirán movilizar saberes de diferentes sentidos matemáticos y de otras áreas estableciendo conexiones entre ellos y las experiencias previas adquiridas por el alumnado.
+
+Se hace necesario usar diferentes instrumentos de evaluación adecuados a la diversidad de tareas realizadas, que permitan una observación amplia del nivel de logro alcanzado, como rúbricas para procesos cognitivos, guías de observación y listas de cotejo de la adquisición de las fases, estrategias y diagramas de resolución de problemas, portafolio de investigaciones o resolución de retos..; utilizar la autoevaluación y coevaluación para contribuir a la formación del alumnado con ayuda de escalas de actitudes, diarios de clase, cuestionarios sobre el grado de satisfacción y desempeño escolar… para conseguir que la evaluación tenga el efecto de retroalimentar el proceso.
+
+Durante la evaluación es preciso tener en cuenta que los criterios de evaluación hacen especial énfasis en la investigación, los retos y las experiencias en contextos diversos, así como en la utilización de recursos variados, entre ellos manipulativos y tecnológicos, tanto en grupo como de forma individual, y de todo ello se debe recoger información para tener una visión del progreso de cada alumno o alumna, de su conocimiento matemático y de su interés y disfrute en el aprendizaje.
+
+Ver anexo en la página 45802 del documento
+                        Descargar
+
+Primer ciclo Educación Primaria
+
+Bloques competenciales
+
+Ver anexo en las páginas 45803-45806 del documento
+                        Descargar
+
+Saberes básicos
+
+I. Sentido numérico.
+
+1. Conteo y cantidad
+
+1.1. Elección y puesta en práctica de estrategias variadas de conteo y recuento sistemático en situaciones de la vida cotidiana en cantidades hasta el 999.
+
+1.2. Construcción y comprensión de los órdenes de unidades (agrupamientos de 10 elementos) del sistema de numeración decimal mediante la composición y descomposición, con materiales manipulativos, hasta 999.
+
+1.3. Uso comprensivo de la decena y la centena como agrupación de 10 unidades del orden anterior.
+
+1.4. Lectura y escritura de los números hasta el 999 e interpretación del valor posicional de sus cifras.
+
+1.5. Representación de números naturales hasta el 999 de distintas formas (manipulativa, gráfica y simbólica con la recta numérica y otros materiales). Elección de la representación adecuada para cada situación o problema.
+
+1.6. Estimación razonada de cantidades en contextos de resolución de problemas.
+
+2. Sentido de las operaciones
+
+2.1. Uso de la estructura aditiva en la resolución de problemas aritméticos, organizando la información para elegir la operación adecuada.
+
+2.2. Comprensión y utilización de estrategias flexibles de cálculo para la suma con números naturales hasta 999 (al menos dos algoritmos diferentes).
+
+2.3. Composición y descomposición de los 10 primeros números y su generalización al 100.
+
+2.4. Uso de los dobles hasta el 10+10 y su generalización al 100 para las sumas.
+
+2.5. Suma de números de una o dos cifras, descomponiendo, componiendo o completando a la decena o centena, y en la recta numérica.
+
+2.6. Análisis de las relaciones entre los sumandos (dobles más 1, doble menos 1, parejas de sumandos que sumen 10, agrupar decenas completas, etc.).
+
+2.7. Comprensión y utilización de estrategias flexibles de cálculo para la resta con números naturales hasta 999: resta de una unidad, dos unidades y decenas completas a números de dos y tres cifras.
+
+2.8. Uso de la resta como acción de quitar de manera sucesiva, descomponiendo de manera conveniente tanto el minuendo como el sustraendo.
+
+2.9. Uso de la resta como acción de completar a los órdenes de unidades desde el sustraendo hasta el minuendo.
+
+2.10. Uso de la resta en modelos manipulativos: recta de cuentas, recta numérica, tabla del 100.
+
+2.11. Uso de la resta de números naturales, con flexibilidad, comprensión y sentido, con al menos dos algoritmos basados en las propiedades del sistema de numeración decimal.
+
+2.12. Redondeo a la decena más cercana para el cálculo estimativo posterior.
+
+2.13. Obtención y memorización de los dobles y mitades de las decenas completas hasta el 100, utilizando materiales manipulativos.
+
+2.14. Cálculo de la mitad de números por descomposición, primero con decenas y unidades pares, con materiales manipulativos y hasta el 100.
+
+2.15. Utilización de la calculadora en la investigación, el cálculo del resultado exacto cuando las cantidades lo precisen y en la comprobación de resultados.
+
+3. Relaciones
+
+3.1. Conocimiento del sistema de numeración de base 10 y aplicación de las relaciones (10 elementos de un orden generan un elemento de un orden superior).
+
+3.2. Uso de números naturales en contextos de la vida cotidiana: comparación y ordenación.
+
+3.3. Comprensión y aplicación de la estructura aditiva: relaciones entre las partes y el todo en la suma y la resta, y aplicación en contextos cotidianos.
+
+4. Educación financiera
+
+4.1. Conocimiento del sistema monetario europeo: monedas (1 y 2 euros) y billetes de euro (5, 10, 20, 50 y 100), valor y equivalencia.
+
+II. Sentido de la medida.
+
+1. Magnitud
+
+1. Identificación de los atributos mensurables de los objetos (longitud, masa, capacidad), distancias y tiempos. Percepción de la magnitud por comparación directa con una unidad.
+
+2. Reconocimiento y utilización de las unidades no convencionales y convencionales (cm, m, g, kg y l) en situaciones de la vida cotidiana.
+
+3. Uso de las unidades de medida del tiempo (año, mes, semana, día, hora y minuto) en situaciones de la vida cotidiana.
+
+2. Estimación, medición y relaciones
+
+1. Conocimiento y aplicación de procesos para medir mediante repetición de una unidad no convencional o convencional, y mediante la utilización de instrumentos convencionales (reglas, cintas métricas, balanzas, calendarios, etc.) en contextos familiares.
+
+2. Aplicación de estrategias de comparación directa e indirecta, y ordenación de medidas de la misma magnitud: cuál es mayor y cuántas veces mayor.
+
+3. Estimación de medidas (distancias, tamaños, masas, capacidades…) por comparación directa con otras medidas.
+
+III. Sentido espacial.
+
+1. Figuras geométricas de dos y tres dimensiones
+
+1.1. Reconocimiento de las figuras planas sencillas contenidas en objetos de la vida cotidiana: identificación y enumeración de cualidades, semejanzas y diferencias, representación y clasificación atendiendo a sus elementos (vértices y lados).
+
+1.2. Utilización de estrategias y técnicas de construcción de figuras geométricas sencillas de dos o tres dimensiones de forma manipulativa. Composición y descomposición de figuras planas para formar otras diferentes con material manipulativo (tangram, mosaicos, policubos, etc.).
+
+1.3. Adquisición de vocabulario geométrico básico: descripción verbal de los elementos (vértice, lado, arista, cara).
+
+2. Localización y sistemas de representación
+
+2.1. Identificación de la posición relativa de objetos en el espacio e interpretación de movimientos.
+
+2.2. Descripción de la posición en referencia a uno mismo a través de vocabulario adecuado (arriba, abajo, delante, detrás, entre, más cerca que, menos cerca que, más lejos que, menos lejos que, etc.).
+
+3. Movimientos y transformaciones
+
+3.1. Apreciar la simetría y la regularidad en dibujos sencillos.
+
+4. Visualización, razonamiento y modelización geométrica
+
+4.1. Utilización de modelos geométricos en la resolución de problemas relacionados con los otros sentidos (diagramas de barras, distribuciones rectangulares, etc.).
+
+4.2. Reconocimiento de relaciones geométricas presentes en el entorno.
+
+IV. Sentido algebraico.
+
+1. Patrones
+
+1.1. Empleo de estrategias para la identificación, descripción oral, descubrimiento de elementos ocultos o secuencias a partir de las regularidades en una colección de números, figuras o imágenes.
+
+2. Modelo matemático
+
+2.1. Ejecución de un proceso guiado de modelización (dibujos, esquemas, diagramas, objetos manipulables, etc.) en la comprensión y resolución de problemas de la vida cotidiana.
+
+2.2. Planificación en cuatro fases de la resolución de problemas: comprender la situación, pensar y seleccionar una estrategia, ejecutar la estrategia elegida y responder, comprobando previamente las soluciones obtenidas.
+
+2.3. Resolución de problemas aritméticos (acciones de componer, descomponer, completar y comparar), geométricos, lógicos, de patrones; y planteamiento de nuevos problemas.
+
+2.4. Conocimiento y uso de estrategias de resolución de problemas (modelización, ensayo y error, organización de la información, búsqueda de patrones).
+
+2.5. Empleo de diagramas partes-todo, tablas simples, diagramas de barras, diagramas en árbol.
+
+3. Relaciones y funciones
+
+3.1. Expresión de relaciones de igualdad y desigualdad mediante los signos = y ≠ entre expresiones que incluyan operaciones.
+
+3.2. Representación de la igualdad como expresión de una relación de equivalencia entre dos elementos y obtención de datos sencillos desconocidos (representados por medio de un símbolo) en cualquiera de los dos elementos.
+
+3.3. Expresión matemática de las relaciones establecidas y deducidas del trabajo manipulativo o de situaciones problemáticas, haciendo uso de símbolos numéricos y no numéricos.
+
+3.4. Discusión sobre la veracidad o falsedad entre expresiones que incluyan operaciones, valorando si se puede afirmar o negar que una es mayor, menor o igual que otra.
+
+4. Pensamiento computacional
+
+4.1. Reconocimiento de algoritmos sencillos (rutinas, instrucciones con pasos ordenados, etc.).
+
+4.2. Resolución de retos con actividades desenchufadas y manipulativas para el desarrollo del pensamiento computacional.
+
+V. Sentido estocástico.
+
+1. Organización y análisis de datos
+
+1.1. Reconocimiento de los principales elementos y extracción de la información relevante de gráficos estadísticos sencillos de la vida cotidiana (pictogramas y gráficas de barras).
+
+1.2. Uso de estrategias sencillas para la recogida, clasificación y recuento de datos cualitativos y cuantitativos en muestras pequeñas.
+
+1.3. Representación de datos obtenidos a través de recuentos mediante diagrama de barras y recursos manipulativos.
+
+2. Incertidumbre
+
+2.1. Acercamiento intuitivo al azar y la probabilidad.
+
+2.2. Desarrollo de lenguaje de uso común para expresar incertidumbre.
+
+VI. Sentido socioafectivo.
+
+1. Creencias, actitudes y emociones
+
+1.1. Gestión emocional: identificación y expresión de las propias emociones ante las matemáticas. Curiosidad e iniciativa en el aprendizaje de las matemáticas.
+
+2. Trabajo en equipo, inclusión, respeto y diversidad
+
+2.1. Identificación y rechazo de actitudes discriminatorias ante las diferencias individuales presentes en el aula. Actitudes inclusivas y aceptación de la diversidad del grupo.
+
+2.2. Participación activa en el trabajo en equipo: interacción positiva y respeto por el trabajo de las demás personas.
+
+2.3. Contribución de las matemáticas a los distintos ámbitos del conocimiento humano desde una perspectiva de género.
+
+Ver anexo en la página 45812 del documento
+                        Descargar
+
+Segundo ciclo Educación Primaria
+
+Bloques competenciales
+
+Ver anexo en las páginas 45813-45816 del documento
+                        Descargar
+
+Saberes básicos
+
+I. Sentido numérico.
+
+1. Conteo y cantidad
+
+1.1. Elección y puesta en práctica de estrategias variadas de conteo, recuento sistemático y adaptación del conteo al tamaño de los números en situaciones de la vida cotidiana en cantidades hasta 9999.
+
+1.2. Conocimiento e interpretación del valor posicional de las cifras en el sistema de numeración decimal y sus equivalencias (decenas, centenas y millares).
+
+1.3. Realización de estimaciones y aproximaciones razonadas de cantidades en contextos de resolución de problemas.
+
+1.4. Lectura, escritura de números naturales hasta 9999.
+
+1.5. Representación, composición y descomposición de números naturales hasta 9999. utilizando materiales manipulativos (incluida la recta numérica).
+
+1.6. Construcción y comprensión de números decimales (décimas y centésimas), utilizando materiales manipulativos, relacionándolos con sus fracciones de denominador 10 y denominador 100, en contextos cotidianos como el sistema monetario o la medida.
+
+1.7. Construcción y comprensión del concepto de fracción haciendo uso de materiales manipulativos con denominador hasta 12. Sus términos y representación. Equivalencias entre fracciones a partir de su representación gráfica.
+
+2. Sentido de las operaciones
+
+2.1. Uso de la estructura aditiva o multiplicativa en la resolución de problemas aritméticos de operación única, organizando la información para elegir la operación adecuada.
+
+2.2. Empleo de estrategias de cálculo para la suma.
+
+2.2.1. Uso de la suma mediante redondeo a la decena más cercana para el cálculo estimativo obteniendo el cálculo exacto previa compensación.
+
+2.2.2. Uso de la suma mediante descomposición de forma exacta, con números naturales y decimales hasta la décima.
+
+2.3. Empleo de estrategias de cálculo para la resta.
+
+2.3.1. Uso de la resta utilizando sumar o restar el mismo número al minuendo y sustraendo.
+
+2.3.2. Uso de estrategias basadas en la compensación.
+
+2.3.3. Uso de estrategias basadas en las descomposiciones más adecuadas de los números.
+
+2.4. Uso de la suma y de la resta de números naturales, con flexibilidad, comprensión y sentido, con al menos dos algoritmos basados en las propiedades del sistema de numeración decimal.
+
+2.5. Construcción y memorización de las tablas de multiplicar a partir de la propiedad conmutativa, de establecer relaciones entre ellas (dobles y mitades) y de buscar regularidades y patrones numéricos (secuencia de las tablas: 1-10, 2-4, 10-5, 3-6, 4-8, 9-10, 7) apoyándose en número de veces, disposición en cuadrículas o suma repetida, y con ayuda de la calculadora mediante el uso del factor constante.
+
+2.6. Construcción y comprensión del concepto de múltiplo mediante material manipulativo y en relación a las tablas de multiplicar, estableciendo relaciones entre múltiplo y divisor.
+
+2.7. Relación de la multiplicación con la división (división como inversa de la multiplicación).
+
+2.8. Descubrimiento y uso posterior de la propiedad distributiva de la multiplicación respecto de la suma para el cálculo.
+
+2.9. Empleo de la multiplicación de números naturales con flexibilidad y sentido, basada en las propiedades del sistema de numeración (al menos dos algoritmos): aplicando la propiedad distributiva en disposiciones rectangulares, composición y descomposición; y algoritmo expandido.
+
+2.10. Empleo de estrategias de cálculo mental.
+
+2.10.1. Uso de la multiplicación de números naturales por la unidad seguida de cero (establecer relaciones: generalización).
+
+2.10.2. Uso de la multiplicación utilizando dobles y mitades.
+
+2.11. Aplicación del redondeo a la decena, centena y millares, y en los decimales a la unidad o décima más cercana para el cálculo estimativo en la multiplicación.
+
+2.12. Interpretación de la división como reparto y como agrupamiento de números naturales, con flexibilidad y sentido, contextualizados (al menos dos algoritmos diferentes para la división).
+
+2.12.1. Uso de la división usando la descomposición con múltiplos del divisor y repartos sucesivos.
+
+2.12.2. Uso de la división con repartos proporcionales (basándose en los múltiplos de 10, dobles y mitades).
+
+2.13. Utilización de la calculadora en la investigación, el cálculo del resultado exacto cuando las cantidades lo precisen y la comprobación de resultados.
+
+2.14. Resolución de suma y resta de fracciones con el mismo denominador, usando materiales manipulativos previo a la simbolización.
+
+2.15. Representación con materiales manipulativos, ordenación y cálculo de porcentajes: 50% como mitad, 25% como la mitad de la mitad, y 75% como el 100% menos el 25%, y como la mitad más la mitad de la mitad.
+
+3. Relaciones
+
+3.1. Conocimiento del sistema de numeración de base 10 (hasta el 9999): aplicación de las relaciones que genera en las operaciones.
+
+3.2. Empleo de números naturales, decimales y fracciones en contextos de la vida cotidiana: equivalencias, comparación y ordenación.
+
+3.3. Relaciones entre la suma y la resta, y la multiplicación y la división: aplicación en contextos cotidianos.
+
+4. Educación financiera
+
+4.1. Cálculo y estimación de cantidades y cambios (euros y céntimos de euro) en problemas de la vida cotidiana: ingresos, gastos y ahorro. Decisiones de compra responsable.
+
+II. Sentido de la medida.
+
+1. Magnitud
+
+1.1. Percepción de la magnitud. Medida de longitud, masa, capacidad, superficie, y amplitud del ángulo por comparación directa con una unidad.
+
+1.2. Conocimiento y uso de las unidades no convencionales y convencionales (km, m, cm, dm, mm; kg, g; l y ml; cm² y m²) en situaciones de la vida cotidiana.
+
+1.3. Uso de la medida del tiempo (año, mes, semana, día, hora, minutos y segundos) y determinación de la duración de periodos de tiempo.
+
+2. Estimación, medición y relaciones
+
+2.1. Empleo de estrategias para realizar mediciones con instrumentos y unidades no convencionales (repetición de una unidad, uso de cuadrículas y materiales manipulativos) y convencionales. Comparación: cuál es mayor y cuántas veces mayor.
+
+2.2. Procesos de medición mediante instrumentos convencionales (regla, cinta métrica, balanzas, recipientes graduados, reloj analógico y digital).
+
+2.3. Estrategias de comparación directa e indirecta y ordenación de medidas de la misma magnitud, aplicando las equivalencias entre unidades de uso habitual del sistema métrico decimal en problemas de la vida cotidiana.
+
+2.4. Elección de las unidades adecuadas en función de la magnitud.
+
+2.5. Elección del instrumento de medida adecuado en función de la magnitud y precisión requerida.
+
+2.6. Estimación de medidas de longitud, masa, superficie y capacidad por comparación.
+
+2.7. Valoración y control del error y precisión de la medida en función del objeto, unidad e instrumento a utilizar.
+
+2.8. Deducción de las fórmulas para los cálculos de áreas de cuadrados y rectángulos.
+
+2.9. Cálculo de superficies de triángulos y rectángulos estableciendo relaciones de composición y descomposición.
+
+2.10. Comprensión de la amplitud del ángulo como medida de una abertura. Clasificación en ángulos rectos, agudos y obtusos.
+
+III. Sentido espacial.
+
+1. Figuras geométricas de dos y tres dimensiones
+
+1.1. Identificación y clasificación de figuras geométricas de dos o tres dimensiones (polígonos hasta 10 lados, círculo, prismas, pirámides, cono, cilindro, esfera) en objetos de la vida cotidiana, atendiendo a sus elementos y a las relaciones entre ellos.
+
+1.2. Empleo de técnicas de construcción de figuras geométricas de dos dimensiones por composición y descomposición, mediante materiales manipulables, instrumentos de dibujo (regla, escuadra y compás) y aplicaciones informáticas.
+
+1.3. Adquisición de vocabulario: descripción verbal de los elementos y las propiedades de figuras geométricas sencillas (vértice, lado, diagonal, arista, caras, bases, ángulos, radio).
+
+1.4. Discriminación de las propiedades en figuras geométricas de dos y tres dimensiones: exploración mediante materiales manipulables (cuadrículas, geoplanos, policubos, etc.) y el manejo de herramientas digitales (programas de geometría dinámica, realidad aumentada, robótica educativa, etc.).
+
+1.5. Reconocimiento y utilización del punto, la recta, la semirrecta, el segmento, líneas poligonales abiertas y cerradas.
+
+1.6. Representación de objetos geométricos con propiedades dadas, como longitudes, ángulos o áreas.
+
+2. Localización y sistemas de representación
+
+2.1. Descripción de la posición relativa de objetos en el espacio o de sus representaciones, utilizando vocabulario geométrico adecuado (paralelo, perpendicular, oblicuo, derecha, izquierda, etc.).
+
+2.2. Descripción verbal e interpretación de movimientos, en relación a uno mismo o a otros puntos de referencia, utilizando vocabulario geométrico adecuado.
+
+2.3. Interpretación de itinerarios en planos, utilizando soportes físicos y virtuales.
+
+3. Movimientos y transformaciones
+
+3.1. Identificación de figuras transformadas mediante traslaciones y simetrías.
+
+3.2. Generación de figuras transformadas a partir de simetrías y traslaciones de un patrón inicial y predicción del resultado utilizando materiales manipulativos (tangram, geoplano, mosaicos, etc.).
+
+4. Visualización, razonamiento y modelización geométrica
+
+4.1. Empleo de estrategias para el cálculo de perímetros de figuras planas y utilización en la resolución de problemas de la vida cotidiana.
+
+4.2. Utilización de modelos geométricos en la resolución de problemas relacionados con los otros sentidos. Disposiciones rectangulares, diagrama partes-todo, diagramas lineales, diagramas en árbol, diagramas de sectores, etc.
+
+4.3. Reconocimiento de relaciones geométricas en campos ajenos a la clase de matemáticas, como el arte, las ciencias y la vida cotidiana.
+
+IV. Sentido algebraico.
+
+1. Patrones
+
+1.1. Identificación, descripción verbal, representación y predicción razonada de términos a partir de las regularidades en una colección de números, figuras o imágenes.
+
+2. Modelo matemático
+
+2.1. Ejecución de un proceso pautado de modelización usando materiales manipulativos o representaciones diversas (gráficas, tablas, etc.) para facilitar la comprensión y la resolución de problemas de la vida cotidiana.
+
+2.2. Planificación en cuatro fases de la resolución de problemas: comprender, pensar, ejecutar y responder.
+
+2.3. Resolución de problemas aritméticos (de razón, conversión, comparación), geométricos, lógicos, de patrones. Resolución y planteamiento de nuevos problemas.
+
+2.4. Conocimiento y uso de estrategias de resolución de problemas básicas (modelización, ensayo y error, organización de la información), auxiliares (analogía y simplificar), específicas (búsqueda de patrones, eliminar).
+
+2.5. Construcción y empleo de diagramas partes-todo, tablas simples, tablas de doble entrada, diagramas de barras, diagramas en árbol.
+
+3. Relaciones y funciones
+
+3.1. Establecimiento de relaciones de igualdad y desigualdad, y uso de los signos = , ≠ y ≈ entre expresiones que incluyan operaciones y sus propiedades.
+
+3.2. Reconocimiento de la igualdad como expresión de una relación de equivalencia entre dos elementos y obtención de datos sencillos desconocidos (representados por medio de un símbolo) en cualquiera de los dos elementos.
+
+3.3. Representación de la relación “mayor que” y “menor que”, y uso de los signos.
+
+3.4. Expresión matemática de las relaciones establecidas y deducidas del trabajo manipulativo o de situaciones problemáticas haciendo uso de símbolos numéricos y no numéricos.
+
+4. Pensamiento computacional
+
+4.1. Reconocimiento y modificación de algoritmos sencillos (reglas de juegos, instrucciones secuenciales, bucles, patrones repetitivos, programación por bloques, robótica educativa, etc.).
+
+4.2. Resolución de retos con actividades desenchufadas y manipulativas para el desarrollo del pensamiento computacional.
+
+V. Sentido estocástico.
+
+1. Organización y análisis de datos
+
+1.1. Lectura e interpretación de gráficos estadísticos de la vida cotidiana (pictogramas, gráficas de barras, de sectores e histogramas).
+
+1.2. Conocimiento y uso de estrategias sencillas para la recogida, clasificación y organización de datos cualitativos o cuantitativos discretos en muestras pequeñas, mediante calculadora y aplicaciones informáticas sencillas. Frecuencia absoluta: interpretación.
+
+1.3. Elaboración de gráficos estadísticos básicos (diagrama de barras, diagrama lineal y pictogramas) para representar datos, seleccionando el más conveniente, mediante recursos tradicionales y aplicaciones informáticas sencillas.
+
+1.4. Interpretación de la moda como el dato más frecuente y de la media como el valor promedio de un conjunto de datos numéricos.
+
+1.5. Comparación gráfica de dos conjuntos de datos para establecer relaciones y extraer conclusiones.
+
+1.6. Diferenciación entre variable cualitativa y cuantitativa.
+
+2. Incertidumbre
+
+2.1. Reconocimiento de la incertidumbre en situaciones de la vida cotidiana y mediante la realización de experimentos.
+
+2.2. Identificación de suceso seguro, suceso posible y suceso imposible.
+
+2.3. Comparación de la probabilidad de dos sucesos de forma intuitiva y a través de su relación con las fracciones.
+
+2.4. Uso de la calculadora para obtener la probabilidad de un suceso.
+
+3. Inferencia
+
+3.1. Extracción de conclusiones a partir del análisis de los datos recogidos, dándoles sentido en el contexto de estudio.
+
+VI. Sentido socioafectivo.
+
+1. Creencias, actitudes y emociones
+
+1.1. Gestión emocional: identificación y manifestación de las propias emociones ante las matemáticas. Iniciativa y tolerancia ante la frustración en el aprendizaje de las matemáticas.
+
+1.2. Fomento de la autonomía y estrategias para la toma de decisiones en situaciones de resolución de problemas.
+
+2. Trabajo en equipo, inclusión, respeto y diversidad
+
+2.1. Mostrar sensibilidad y respeto ante las diferencias individuales presentes en el aula: identificación y rechazo de actitudes discriminatorias.
+
+2.2. Participación activa en el trabajo en equipo, escucha activa y respeto por el trabajo de los demás.
+
+2.3. Reconocimiento y comprensión de las emociones y experiencias de los demás.
+
+2.4. Valoración de la contribución de las matemáticas a los distintos ámbitos del conocimiento humano desde una perspectiva de género.
+
+Tercer ciclo Educación Primaria
+
+Bloques competenciales
+
+Ver anexo en las páginas 45824-45828 del documento
+                        Descargar
+
+Saberes básicos
+
+I. Sentido numérico.
+
+1 Conteo y cantidad
+
+1.1. Construcción y uso de estrategias variadas de conteo, recuento sistemático y adaptación del conteo al tamaño de los números en situaciones de la vida cotidiana.
+
+1.2. Conocimiento del valor posicional de las cifras en el sistema de numeración decimal y sus equivalencias.
+
+1.3. Estimación y aproximación razonadas de cantidades en contextos de resolución de problemas.
+
+1.4. Lectura y escritura de números naturales y decimales hasta las milésimas.
+
+1.5. Representación, composición y descomposición de números naturales y decimales hasta las milésimas (incluida la recta numérica y con materiales manipulativos).
+
+1.6. Interpretación de números negativos significativos en contextos reales y familiares, y representación y ubicación en una recta numérica.
+
+1.7. Descubrimiento de relaciones entre fracciones (½, ⅓, ¼, ⅕, ¾, 1/10, 1/100), decimales (0,50; 0,25; 0,20; 0,75; 0,10; 0,01;) y porcentajes (50%, 25%, 20%, 75%, 10%. 1%, 100%) para expresar cantidades en contextos de la vida cotidiana y elección de la mejor representación para cada situación o problema.
+
+1.8. Interpretación de fracciones propias e impropias.
+
+1.9. Construcción y comprensión del concepto de potencia utilizando materiales manipulativos.
+
+2. Sentido de las operaciones
+
+2.1. Uso de las estructuras aditiva y multiplicativa en la resolución de problemas aritméticos, organizando la información para elegir la operación adecuada.
+
+2.2. Comprensión y uso de estrategias de cálculo con números naturales y decimales en contextos multiplicativos (al menos dos algoritmos diferentes para la multiplicación).
+
+2.2.1. Uso de la propiedad distributiva de la multiplicación respecto de la suma para el cálculo.
+
+2.2.2. Uso de la multiplicación usando doble y mitad.
+
+2.2.3. Uso de la multiplicación por 0,5 como calcular la mitad; por 0,25 como equivalente a la mitad de la mitad o a dividir entre 4; por 0,1 y 0,01, como equivalente a la división por 10 y por 100; por 0,20 como equivalente a dividir por 5.
+
+2.3. Utilización de algoritmos flexibles para la división, usando al menos dos diferentes, analizando el significado del resto en situaciones contextualizadas.
+
+2.3.1. Uso de la división mediante la descomposición con múltiplos del divisor y repartos sucesivos.
+
+2.3.2. Uso de la división mediante repartos proporcionales (basándose en la multiplicación por la unidad seguida de cero, dobles y mitades).
+
+2.4. Empleo de estrategias de cálculo mental: división por 4 como mitad de la mitad, dividir por 0,5 como equivalente a multiplicar por 2 y por 0,25 como equivalente a multiplicar por 4, dividir por 5 como equivalente a calcular su doble y dividirlo por 10, o multiplicar por 0,20 o por ⅕.
+
+2.5. Aplicación del redondeo para el cálculo estimativo y compensación para el cálculo exacto posterior.
+
+2.6. Uso de la multiplicación y división con decimales en contextos de dinero o medida, realizando la estimación previa y utilizando la calculadora, para buscar regularidades, realizar hipótesis y comprobar u obtener el resultado exacto.
+
+2.7. Utilización de la calculadora en la investigación, el cálculo del resultado exacto, cuando las cantidades lo precisen, y la comprobación de resultados.
+
+2.8. Construcción y aplicación del concepto de fracción equivalente.
+
+2.9. Resolución de suma y resta de fracciones sencillas con diferente denominador, siendo múltiplos/divisores unos denominadores de otros.
+
+2.10. Comprensión del significado y aplicación de la multiplicación de un natural por una fracción y de una fracción por un natural.
+
+2.11. Cálculo de porcentajes multiplicando por el decimal equivalente con la calculadora.
+
+2.12. Comparación de fracciones en relación a la unidad, utilizando la equivalencia con la expresión decimal, de forma mental o con la calculadora.
+
+3. Relaciones
+
+3.1. Construcción del sistema de numeración de base 10 (números naturales y decimales hasta las milésimas): aplicación de las relaciones que genera en las operaciones.
+
+3.2. Comparación y ordenación de números naturales, fracciones y decimales hasta las milésimas en contextos de la vida cotidiana.
+
+3.3. Aplicación de números enteros en contextos cercanos (niveles de un edificio, temperaturas, etc.).
+
+3.4. Aplicación en contextos cotidianos de las relaciones entre las operaciones aritméticas.
+
+3.5. Identificación de la división como reparto y como agrupamiento o cuántas veces cabe el divisor en el dividendo.
+
+3.6. Relación de divisibilidad: múltiplos y divisores. Obtención de los primeros múltiplos de un número dado, de divisores de cualquier número menor que 100, en primer lugar con materiales manipulativos. Utilización de las tablas de multiplicar para múltiplos y divisores.
+
+3.7. Comprensión del mínimo común múltiplo y el máximo común divisor de dos o tres números de hasta dos cifras, con materiales manipulativos, y obtención de ambos en situaciones contextualizadas.
+
+3.8. Investigación y enunciación de los criterios de divisibilidad estableciendo relaciones entre ellos (2 y 4; 5 y 10; 3 y 9). Números primos y compuestos.
+
+4. Razonamiento proporcional
+
+4.1. Identificación de situaciones proporcionales y no proporcionales en problemas de la vida cotidiana como comparación multiplicativa entre magnitudes.
+
+4.2. Resolución de problemas de proporcionalidad, porcentajes y escalas de la vida cotidiana, mediante la igualdad entre razones, la reducción a la unidad o el uso de constante de proporcionalidad.
+
+5. Educación financiera
+
+5.1. Interpretación y resolución de problemas relacionados con el consumo responsable (valor/precio, calidad/precio y mejor precio) y con el dinero: precios, intereses y rebajas.
+
+5.2. Empleo de aumentos y disminuciones porcentuales en contextos cotidianos.
+
+II. Sentido de la medida.
+
+1. Magnitud
+
+1.1. Percepción de la magnitud. Medida de superficies y volúmenes por comparación directa con una unidad.
+
+1.2. Conocimiento, selección y uso de las unidades convencionales del Sistema Métrico Decimal: longitud (mm, cm, dm, m, Km), masa (g, Kg), capacidad (ml, cl, dl, l), volumen (cm³ y m³) superficie (cm², dm² y m²), tiempo (desde milenio hasta segundo), grado (ángulos) y sus equivalencias, en contextos de la vida cotidiana.
+
+2. Estimación, medición y relaciones
+
+2.1. Selección de instrumentos (analógicos o digitales) y unidades adecuadas para medir longitudes, masa, capacidad, ángulos y tiempos.
+
+2.2. Valoración y control del error, precisión en función del objeto, unidad e instrumento.
+
+2.3. Utilización de estrategias de comparación y ordenación de medidas de la misma magnitud, aplicando las equivalencias entre unidades (sistema métrico decimal) en problemas de la vida cotidiana.
+
+2.4. Elección de las unidades adecuadas en función de la magnitud.
+
+2.5. Elección del instrumento de medida adecuado en función de la magnitud y precisión requerida.
+
+2.6. Estimación de medidas por comparación.
+
+2.7. Deducción de las fórmulas y cálculo de áreas y volúmenes de figuras sencillas (rectángulo-triángulo, prisma-pirámide, círculo-cilindro).
+
+2.8. Cálculo de superficies de polígonos sencillos y su desarrollo plano 2D.
+
+2.9. Exploración de la relación área-perímetro en figuras planas.
+
+2.10. Comprensión del ángulo como porción del plano delimitado por dos semirrectas con el mismo punto de origen. El ángulo como medida de un giro o abertura. Composición y descomposición manipulativa de los ángulos más habituales. Estimación de ángulos.
+
+III. Sentido espacial.
+
+1. Figuras geométricas de dos y tres dimensiones
+
+1.1. Identificación y clasificación de figuras geométricas en objetos de la vida cotidiana, atendiendo a sus elementos y a las relaciones entre ellos.
+
+1.2. Técnicas de construcción de figuras geométricas por composición y descomposición, mediante materiales manipulables, instrumentos de dibujo y aplicaciones informáticas.
+
+1.3. Adquisición y uso de vocabulario geométrico: propiedades de figuras geométricas (figuras regulares e irregulares, cóncavas y convexas, simetrías, etc.) y descripción verbal de los elementos (vértice, lado, diagonal, arista, cara, base, apotema, radio, diámetro, cuerda, sector circular, arco, etc.).
+
+1.4. Descubrimiento, generalización y uso de propiedades de figuras geométricas: exploración mediante materiales manipulables (cuadrículas, geoplanos, policubos, etc.) y herramientas digitales (programas de geometría dinámica, realidad aumentada, robótica educativa, etc.).
+
+1.5. Relación entre la longitud de la circunferencia y el diámetro. Número π.
+
+1.6. Representación de objetos geométricos con propiedades dadas, como longitudes, ángulos, áreas o volúmenes.
+
+2. Localización y sistemas de representación
+
+2.1. Localización y desplazamientos en planos y mapas, entre ellos los de entornos cercanos, a partir de puntos de referencia (incluidos los puntos cardinales), direcciones y cálculo de distancias (escalas): descripción, interpretación y representación con el vocabulario adecuado en soportes físicos y virtuales.
+
+2.2. Descripción de la posición relativa de objetos en el plano o en un sistema de coordenadas cartesianas, utilizando vocabulario geométrico adecuado (paralelo, perpendicular, secante, tangente).
+
+2.3. Interpretación y descripción de itinerarios en planos, utilizando soportes físicos y virtuales.
+
+3. Movimientos y transformaciones
+
+3.1. Identificación de figuras transformadas, generación a partir de patrones iniciales y predicción del resultado a partir de experiencias manipulativas de transformaciones mediante giros, traslaciones y simetrías en situaciones de la vida cotidiana.
+
+3.2. Identificación de figuras semejantes, generación a partir de modelos iniciales y predicción del resultado. Semejanza en situaciones de la vida cotidiana.
+
+4. Visualización, razonamiento y modelización geométrica
+
+4.1. Empleo de estrategias para la comparación, estimación y cálculo de áreas y perímetros de figuras planas en situaciones de la vida cotidiana.
+
+4.2. Construcción de modelos geométricos en la resolución de problemas relacionados con los otros sentidos matemáticos.
+
+4.3. Elaboración de conjeturas sobre propiedades geométricas, utilizando instrumentos de dibujo (compás y transportador de ángulos) y programas de geometría dinámica.
+
+4.4. Descubrimiento de las ideas y las relaciones geométricas en el arte, las ciencias y la vida cotidiana.
+
+IV. Sentido algebraico.
+
+1. Patrones
+
+1.1. Desarrollo de estrategias de identificación, representación (verbal o mediante tablas, gráficos y notaciones inventadas) y predicción razonada de términos a partir de las regularidades en una colección de números, figuras o imágenes.
+
+1.2. Creación de patrones recurrentes a partir de regularidades o de otros patrones utilizando números, figuras o imágenes.
+
+2. Modelo matemático
+
+2.1. Modelización de problemas de la vida cotidiana, usando materiales manipulativos o representaciones diversas.
+
+2.2. Planificación en cuatro fases de la resolución de problemas: comprender, pensar, ejecutar y responder.
+
+2.3. Resolución de problemas aritméticos (de razón, conversión, comparación y combinación), geométricos, lógicos, de patrones. Resolución y planteamiento de nuevos problemas.
+
+2.4. Conocimiento, selección y uso de estrategias de resolución de problemas básicas (modelización, ensayo error, organización de la información), auxiliares (analogía y simplificar), específicas (ir hacia atrás, búsqueda de patrones, eliminar, iniciación a la generalización).
+
+2.5. Construcción y utilización de diagramas partes-todo, tablas simples, tablas de doble entrada, diagramas de barras, lineales y en árbol, diagramas de sectores, diagrama de Venn…
+
+3. Relaciones y funciones
+
+3.1. Establecimiento de relaciones de igualdad y desigualdad, y uso de los signos menor que, ≤, mayor que, y ≥.
+
+3.2. Determinación de datos desconocidos, representados por medio de una letra o un símbolo, en expresiones sencillas relacionadas mediante estos signos y los signos =, ≠ , ≈.
+
+3.3. Expresión matemática de las relaciones establecidas y deducidas del trabajo manipulativo o de situaciones problemáticas haciendo uso de símbolos numéricos y no numéricos.
+
+4. Pensamiento computacional
+
+4.1. Modificación y creación de algoritmos sencillos (secuencias de pasos ordenados, esquemas, simulaciones, patrones repetitivos, bucles, instrucciones anidadas y condicionales, programación por bloques, robótica educativa, etc.) haciendo uso de recursos tecnológicos.
+
+4.2. Resolución de retos con actividades desenchufadas y aplicaciones informáticas para el desarrollo del pensamiento computacional.
+
+V. Sentido estocástico.
+
+1. Organización y análisis de datos
+
+1.1. Descripción, interpretación y análisis crítico de conjuntos de datos y gráficos estadísticos de la vida cotidiana. Sesgo estadístico.
+
+1.2. Planificación de estrategias para la realización de un estudio estadístico sencillo de la realidad cercana: formulación de preguntas, y recogida, registro y organización de datos cualitativos y cuantitativos procedentes de diferentes experimentos (encuestas, mediciones, observaciones, etc.).
+
+1.3. Diferenciación entre tipos de variables (cualitativa y cuantitativa) y preguntas a realizar en una encuesta.
+
+1.4. Interpretación y construcción de tablas de frecuencias absolutas y relativas.
+
+1.5. Elaboración de gráficos estadísticos sencillos (diagrama de barras, diagrama de sectores, histograma y lineal, gráficos con doble información), representación de datos mediante recursos tradicionales y tecnológicos, y selección del más conveniente.
+
+1.6. Interpretación, cálculo y aplicación de medidas de centralización (media, mediana y moda).
+
+1.7. Significado e interpretación de las medidas de dispersión (rango).
+
+1.8. Empleo de la calculadora y otros recursos digitales, como la hoja de cálculo, para organizar la información estadística y realizar diferentes visualizaciones de los datos.
+
+1.9. Relación y comparación de dos conjuntos de datos a partir de su representación gráfica: formulación de conjeturas, análisis y obtención de conclusiones.
+
+1.10. Análisis crítico de informaciones estadísticas.
+
+1.11. Comprobación de conjeturas a partir del análisis de los datos de un gráfico.
+
+2. Incertidumbre
+
+2.1. Relación de la probabilidad de un suceso (comprendida entre 0 y 1) con las fracciones y los porcentajes.
+
+2.2. Cuantificación y comprobación de la estabilización de las frecuencias relativas en experimentos aleatorios repetitivos. La incertidumbre en situaciones de la vida cotidiana.
+
+2.3. Uso de la regla de Laplace en el cálculo de probabilidades en experimentos aleatorios.
+
+2.4. Uso de la calculadora y otros recursos digitales para conocer la tendencia de que ocurra un suceso.
+
+2.5. Comprensión del experimento aleatorio, impredecible, pero sabiendo los posibles resultados que se pueden obtener. Experimentos aleatorios y deterministas.
+
+3. Inferencia
+
+3.1. Identificación de un conjunto de datos como muestra de un conjunto más grande y reflexión sobre la población a la que es posible aplicar las conclusiones de  investigaciones estadísticas sencillas.
+
+VI. Sentido socioafectivo.
+
+1. Creencias, actitudes y emociones propias
+
+1.1. Autorregulación emocional: autoconcepto y aprendizaje de las matemáticas desde una perspectiva de género. Mejora de la perseverancia y el sentido de la responsabilidad hacia el aprendizaje de las matemáticas.
+
+1.2. Flexibilidad cognitiva: adaptación a las situaciones, valoración del error como oportunidad de aprendizaje y focalización en los aciertos y fortalezas.
+
+2. Trabajo en equipo, inclusión, respeto y diversidad
+
+2.1. Mostrar respeto por las emociones y experiencias de los demás ante las matemáticas.
+
+2.2. Aplicación de técnicas simples para el trabajo en equipo en matemáticas, y estrategias para la gestión de conflictos, promoción de conductas empáticas e inclusivas, y aceptación de la diversidad presente en el aula y en la sociedad.
+
+2.3. Valoración de la contribución de las matemáticas a los distintos ámbitos del conocimiento humano desde una perspectiva de género.
+
+
+### Segunda lengua extranjera
+
+Introducción.
+
+Las sociedades actuales exigen competencias que contribuyan al desarrollo de una ciudadanía independiente, activa, democrática, inclusiva y comprometida con la realidad cada vez más global, intercultural inclusiva y plurilingüe. En este marco, Canarias, como punto geoestratégico para la confluencia de diferentes culturas, proporciona un contexto de especial relevancia en el manejo y uso de lenguas que contribuyen al enriquecimiento del repertorio lingüístico personal como hablante. La aproximación cultural, geográfica, histórica, natural y social, de la Comunidad Autónoma de Canarias permitirá generar contextos de aprendizaje en los que se aprecie, valore y respete los aspectos más relevantes de la cultura canaria. La apertura hacia el patrimonio supondrá además, el desarrollo del pensamiento crítico en una sociedad sostenible, coeducativa, inclusiva e integradora, en consonancia con la Agenda Canaria de Desarrollo Sostenible 2030.
+
+La Competencia plurilingüe se presenta, por tanto, como la habilidad de utilizar distintas lenguas de forma adecuada y efectiva para la comunicación, situando al aprendiente como sujeto activo en la creación de significados y en la construcción de conocimientos. Además, el desarrollo de la cultura democrática promueve la idea de un Espacio Europeo de Educación, que favorece la internacionalización, la movilidad y el descubrimiento de otras culturas, ampliando la conciencia intercultural y las perspectivas y futuras oportunidades laborales del alumnado. Desde este punto de vista, se concibe la Segunda Lengua Extranjera como herramienta de aprendizaje, siendo imprescindible su uso real y continuo como lengua vehicular en el aula.
+
+El área de la Segunda Lengua Extranjera contribuye al desarrollo de las distintas competencias clave que conforman el Perfil de salida del alumnado al término de la enseñanza básica y, de forma directa, participa en la consecución de la Competencia plurilingüe en sus dos dimensiones, comunicativa e intercultural. Sin embargo, durante el proceso de aprendizaje de una segunda lengua, no solo intervienen las competencias comunicativas, plurilingüe e intercultural, y las actividades y estrategias comunicativas, sino también las competencias generales, imprescindibles en su interrelación con las demás, para que el alumnado profundice en el saber, saber ser, saber hacer y saber aprender de una lengua.
+
+Bajo esta perspectiva y durante los procesos de enseñanza y de aprendizaje, los elementos curriculares han de atender a todas las dimensiones que como hablante ha de desarrollar en su condición de aprendiz de lenguas: agente social, aprendiente autónomo, hablante intercultural, sujeto emocional y creativo, individuo consciente y reflexivo; y que son imprescindibles para su desarrollo personal y académico. Estas dimensiones, determinantes para que se produzca un aprendizaje significativo y que impregnan la filosofía de este currículo, deben concebirse como integrantes de una misma realidad del alumnado, conformando un todo único y coherente. Por ello, el alumnado, en su condición de aprendiz, debe hacer uso de ellas durante las situaciones comunicativas que se generen y, de la misma manera, el profesorado debe tenerlas presentes durante los procesos de diseño, planificación, puesta en práctica y evaluación.
+
+La enseñanza integrada de las lenguas en la etapa de Educación Primaria pretende ayudar al alumnado a establecer vínculos entre diversas lenguas, utilizando lo conocido para abordar lo menos conocido, la lengua materna para aproximar la lengua extranjera, y esta, para acercar la segunda lengua extranjera u otras lenguas, sin olvidar los efectos de retroalimentación de dichas sinergias. Además de la lengua materna, la Lengua Extranjera y las Segundas Lenguas Extranjeras conviven en las aulas actuales con más lenguas, según el origen o procedencia del alumnado, por los movimientos migratorios y cambiantes en la sociedad. Este currículo, al igual que el currículo de Lengua Extranjera, emplea como guía el Marco Común Europeo de Referencia para las Lenguas: Aprendizaje, Enseñanza, Evaluación (MCER), concretado en el Volumen Complementario titulado Marco Común de Referencia para las Lenguas: Aprendizaje, Enseñanza, Evaluación (2021) y con él, su enfoque orientado a la acción. Además, se caracteriza por presentar un enfoque dinámico, proactivo e inclusivo, donde se ha tenido en cuenta el Diseño Universal para el Aprendizaje (en adelante, DUA) que favorece la mirada de la escuela inclusiva, en la que el respeto, tanto de las limitaciones como de las potencialidades del alumnado, está presente mediante un currículo flexible donde no se generan obstáculos de aprendizaje, sino oportunidades y entornos de aprendizaje ecológicos, abiertos y adaptadas a las características y necesidades del alumnado.
+
+La consecución de una competencia comunicativa en la propia lengua y en una Segunda Lengua Extranjera permitirá al alumnado poder expresarse, interactuar, mediar y comprender de forma básica en situaciones comunicativas próximas a su entorno y en entornos digitales, haciendo un uso seguro y responsable de las tecnologías digitales para el aprendizaje.
+
+El empleo de las tecnologías digitales educativas que modelan la manera en que nos relacionamos, comunicamos y accedemos a la información en una sociedad cambiante, moderna y digital ha de concebirse, en esta área, como herramienta que enriquezca el proceso de enseñanza y de aprendizaje en su totalidad, desarrollando en el alumnado y el profesorado la competencia digital, el pensamiento crítico y divergente, y la alfabetización mediática, así como su uso adecuado, seguro y sostenible, saludable y responsable.
+
+Los saberes propios de Canarias se han incluido en el currículo del área desde un enfoque centrado en la educación patrimonial. Este enfoque presenta un carácter globalizador y transversal, y nace con la premisa de concienciar y sensibilizar al alumnado canario de la importancia del cuidado, disfrute y transmisión del patrimonio, pone el acento en la identificación y puesta en valor del mismo como parte inseparable de la sociedad, y apuesta por la implicación de la ciudadanía para lograr su sostenibilidad y la de los valores que en él perduran.
+
+De esta manera, a lo largo de la Educación Primaria, el alumnado se acerca de manera gradual a estos aprendizajes, propiciándose la inserción, en los currículos de las diferentes áreas de la etapa, de contextos de aprendizaje en torno al patrimonio cultural canario, que promuevan la participación de los niños y las niñas, para que lo conozcan, disfruten, valoren y compartan, contribuyendo así a su sensibilización, respeto y conservación.
+
+Contribución a los objetivos de etapa.
+
+La implementación del currículo de Segunda Lengua Extranjera favorece el desarrollo transversal de los objetivos de etapa desde una doble perspectiva, de tratamiento formal como no formal, constituyendo así el punto de partida y a la vez de llegada del proceso educativo. Estos facilitan a cualquier agente de la comunidad educativa una visión holística del logro del proceso y a ellos se ha de contribuir usando la comunicación como elemento mediador y herramienta de coordinación. Este currículo contribuye de manera directa al objetivo f), puesto que la esencia del área de Segunda Lengua Extranjera es la de promover la adquisición de la lengua extranjera, de manera que el alumnado desarrolle la competencia comunicativa que le permita desenvolverse en situaciones cotidianas. Es aquí donde cobra especial relevancia la Competencia plurilingüe, ya que esta implica el uso de, al menos, una lengua, además de las familiares, de forma apropiada para el aprendizaje y la comunicación, integrando no solo la dimensión comunicativa, vinculada también con la Competencia en comunicación lingüística, sino también los aspectos históricos e interculturales que conducen al alumnado a conocer, comprender y respetar la diversidad lingüística y cultural presente en su entorno. En consonancia con este enfoque, el área de Segunda Lengua Extranjera en la etapa de la Educación Primaria tiene como objetivo principal la adquisición de la competencia comunicativa en la segunda lengua extranjera, así como el desarrollo y enriquecimiento de la conciencia intercultural del alumnado.
+
+En el desarrollo del área en la etapa de Educación Primaria, subyace la necesidad de entender la diversidad contextual como un proceso de aprendizaje y de intención de comunicación del alumnado. Como se establece en el objetivo d), el área ofrece una gran oportunidad para propiciar el descubrimiento, conocimiento y respeto de diferentes culturas, y de las personas que las representan, destacando la importancia de la igualdad de derechos y oportunidades de hombres y mujeres, ya que la adquisición de la segunda lengua extranjera permite desbloquear barreras lingüísticas, aumentando la capacidad de desarrollar relaciones con las demás personas para mostrar actitudes contrarias a la violencia o discrimación de cualquier tipo.
+
+Es crucial una visión inclusiva para el desarrollo del proceso de enseñanza y de aprendizaje, haciendo un uso significativo de las tecnologías digitales educativas, tal y como se refleja en el objetivo i). De esta manera, la adquisición y el desarrollo de la Competencia digital para el aprendizaje del área permiten acercar al alumnado a los países y hablantes de segunda lengua extranjera, avanzando en una reflexión ética sobre su funcionamiento y utilización, y abordando además una visión sostenible y ecosocial.
+
+El objetivo b) también guarda una relación significativa con el área, ya que enmarca el aprendizaje de la Segunda Lengua Extranjera durante todo el proceso de la vida, procurando además su desarrollo en la etapa a través de distintos niveles de autonomía.
+
+Para visibilizar los aspectos creativos y emocionales, el área contribuye al objetivo m), que pretende desarrollar las capacidades afectivas en todos los ámbitos de la personalidad y en sus dimensiones intrapersonal e interpersonal, además de hacer especial hincapié en la importancia de mostrar actitudes contrarias a la violencia, a los prejuicios de cualquier tipo y a los estereotipos sexistas.
+
+Contribución a las competencias clave.
+
+La propuesta curricular del área tiene un marcado carácter competencial y se ha desarrollado conforme a los descriptores operativos establecidos en el Perfil de salida del alumnado al término de la enseñanza básica, concretado para la Educación Primaria, que identifica el grado de desarrollo y adquisición de las competencias clave para todo el alumnado que finaliza esta etapa.
+
+La composición de los bloques competenciales en los que se integran y se interrelacionan todos sus elementos -competencia específica, criterios de evaluación, descriptores operativos y saberes básicos-, reafirma la esencia transversal del currículo del área de Segunda Lengua Extranjera, contribuyendo directamente a la adquisición y el desarrollo de las competencias clave.
+
+La Competencia en comunicación lingüística (CCL) es la base para la competencia comunicativa que tiene el currículo. Se persigue que el alumnado ponga en práctica, a través de las actividades, tareas y ejercicios, habilidades, estrategias y destrezas comunicativas. La finalidad de esta competencia clave va más allá del dominio o de la adquisición de conocimientos, en tanto el alumnado debe poder aplicarlos para participar en intercambios de comunicación de manera coherente y adecuada en diferentes ámbitos y contextos, y con diferentes propósitos como simulaciones en contextos de la vida real, juegos de roles o mensajes breves y sencillos como foros o debates, entre otros. También, implica comunicarse eficaz y creativamente con otras personas de manera cooperativa, ética y respetuosa.
+
+La Competencia plurilingüe (CP) es la competencia fundamental que vertebra el currículo. El área de Segunda Lengua Extranjera contribuye, de manera explícita, en reconocer y respetar los perfiles lingüísticos individuales, facilitando en el alumnado su capacidad de análisis y reflexión sobre el funcionamiento de la lengua, así como su capacidad de transferencia de conocimientos y estrategias. A su vez, durante el transcurso de las distintas experiencias, esta competencia moviliza el desarrollo de estrategias que permiten relacionar diferencias y similitudes entre lenguas, utilizando destrezas del pensamiento como “compara y contrasta”, organizadores gráficos... Asimismo, se integran dimensiones históricas e interculturales orientadas a conocer, valorar y respetar la diversidad lingüística y cultural de la sociedad con el objetivo de fomentar la convivencia democrática e inclusiva.
+
+La Competencia matemática y competencia en ciencia, tecnología e ingeniería (STEM) entraña la comprensión del mundo utilizando los métodos científicos, el pensamiento y la representación matemáticos, la tecnología y los métodos de la ingeniería para transformar el entorno de forma comprometida, responsable y sostenible. El área de Segunda Lengua Extranjera contribuye en la reflexión del alumnado para resolver posibles problemas o retos en diversas situaciones comunicativas siguiendo la secuencia lógica y matemática, y utilizando métodos inductivos y deductivos guiados por el profesorado. En dicha guía, se podrán utilizar organizadores gráficos, apoyos visuales u otros recursos que faciliten la reflexión, y el pensamiento crítico y analítico.
+
+La Competencia digital (CD) implica el uso seguro, saludable, sostenible, crítico y responsable de las tecnologías digitales educativas que faciliten la participación y la interacción en el aprendizaje. El área de Segunda Lengua Extranjera contribuye a esta competencia en la reelaboración y creación de contenidos digitales como imágenes, textos, infografías, gráficos o vídeos, en aulas y plataformas virtuales, propiciando el intercambio lingüístico en actividades cooperativas y colaborativas. A su vez, permite el desarrollo de la cortesía lingüística y el uso de la etiqueta digital, fomentando el respeto en estos medios, la propiedad intelectual en el uso de fuentes y recursos consultados, la resolución de problemas y el pensamiento computacional y crítico.
+
+La Competencia personal, social y de aprender a aprender (CPSAA) es fundamental para la adquisición de una lengua, ya que su objetivo es la participación en intercambios comunicativos interculturales de manera significativa. Para ello, y en referencia a esta área, se tienen en cuenta las dimensiones del alumnado (agente social, aprendiente autónomo, hablante intercultural, sujeto emocional y creativo, consciente y reflexivo). Abordar estas dimensiones es crucial para el aprendizaje, en tanto se fomenta el enriquecimiento personal, la participación colaborativa en proyectos y la realización de tareas como mapas mentales, esquemas o líneas del tiempo. Ambas competencias social y personal se nutren de las estrategias y destrezas que se desarrollan para poner en marcha, afianzar o enriquecer el proceso de aprendizaje. Los diarios de aprendizaje o las escaleras de metacognición y reflexión sobre lo aprendido serán actividades que contribuyan a la competencia aprender a aprender para que el alumnado sea consciente de qué, cómo y para qué ha aprendido.
+
+La Competencia ciudadana (CC), con una perspectiva sostenible hacia una ciudadanía responsable, debe ser la base y el motor de los conceptos que se trabajan durante el desarrollo del área de Segunda Lengua Extranjera. Las actitudes y conductas cívicas son de carácter transversal y se trabajan de manera globalizada a lo largo de todo el currículo, a través de estrategias cooperativas, fomentando el uso y la gestión responsable de materiales y desechos o haciéndoles partícipes del funcionamiento y responsabilidades del aula. El cuidado, aprecio y respeto por el entorno y lo que lo rodea es una pieza fundamental en la educación, con el fin de crear sociedades concienciadas de la importancia de comprender y reflexionar sobre la relación entre las acciones humanas y las consecuencias para el entorno, propiciando acciones relacionadas con el aprendizaje servicio. Actividades orientadas hacia el desarrollo del pensamiento crítico, el análisis de imágenes, las noticias y los hechos de actualidad enriquecerán la ciudadanía y la etiqueta digital en la competencia ciudadana del alumnado desde distintas perspectivas.
+
+La Competencia emprendedora (CE), en la que se entrena el pensamiento para analizar y evaluar el entorno, y crear y replantear ideas, utilizando la imaginación y la creatividad, se constata a lo largo de las distintas competencias específicas de este currículo. Esta área promueve la motivación como impulsora del aprendizaje, de manera que la disposición hacia él, la manera de afrontar la incertidumbre o la toma de decisiones serán factores cruciales que se deben enriquecer a lo largo del proceso. Asimismo, colaborar de manera ágil con otras personas, demostrando habilidades para la comunicación y de negociación, facilitará la puesta en marcha de la planificación y gestión de ideas y proyectos de valor sociocultural. Entra en juego, por tanto, la reflexión sobre las propias posibilidades comunicativas, para identificar y mejorar fortalezas y debilidades. La introducción de juegos, dinámicas cooperativas simples y complejas, o proyectos colaborativos serán estrategias y técnicas que contribuyan directamente a esta competencia.
+
+La Competencia en conciencia y expresión culturales (CCEC) supone desarrollar en el alumnado, como hablante intercultural, el aprecio y respeto por el modo en que las ideas, las opiniones, los sentimientos y las emociones se expresan. Implica también valorar la diversidad del patrimonio cultural y las manifestaciones culturales y artísticas de las personas y de los países donde se habla la segunda lengua extranjera, así como de la Comunidad Autónoma de Canarias y del mundo. A través de la realización de dramatizaciones, representaciones musicales o artísticas, entre otras actividades, el alumnado puede comprender las diferencias entre distintas culturas y la necesidad de su conservación, siendo esta la contribución principal de esta área a la competencia.
+
+Bloques competenciales.
+
+El bloque competencial es el eje del currículo de cada área: integra la enunciación de las competencias específicas, su vinculación con los descriptores operativos del Perfil de salida, los criterios de evaluación y la explicación del bloque competencial.
+
+Las competencias específicas, que tienen carácter finalista, constituyen un elemento de conexión entre las competencias clave y los saberes propios del área. En cuanto a los criterios de evaluación, estos constituyen los referentes que indican el nivel de desempeño a alcanzar por el alumnado. Se establece, además, la contribución de cada criterio a los descriptores del Perfil de salida, de manera que se facilita la evaluación conjunta de los aprendizajes propios del área y del grado de desarrollo y adquisición de las competencias en el alumnado. En lo relativo a las explicaciones de los bloques competenciales, estas integran los aprendizajes recogidos en la totalidad del bloque, orientan sobre el proceso de desarrollo y adquisición tanto de las competencias específicas como de las competencias clave; y ofrecen, además, indicaciones metodológicas -siempre con una perspectiva abierta, flexible e inclusiva- para el diseño y la implementación de situaciones de aprendizaje competenciales. Es por ello que las explicaciones de los bloques competenciales se constituyen como los referentes más adecuados para la concreción curricular y la elaboración de la programación didáctica.
+
+Competencias específicas y criterios de evaluación.
+
+En el currículo de Segunda Lengua Extranjera se han establecido seis competencias específicas que, a su vez, plantean un total de quince criterios de evaluación, de forma que se plasme la concreción de los descriptores de las competencias clave recogidas en el perfil de salida dentro del área. Cada competencia presenta sus propios criterios de evaluación, que tienen una naturaleza y un cariz competencial, expresando tanto las capacidades a adquirir y los saberes, como el contexto, el modo de aplicación y su uso.
+
+La enunciación de la competencia específica se recoge en el bloque competencial correspondiente. A continuación se ofrece una explicación de cada una de ellas.
+
+Competencia específica 1 (C1).
+
+La competencia específica de comprensión cobra una gran importancia, ya que es necesario que el alumnado desarrolle el conocimiento de una lengua para contribuir, por un lado, a su concepción y aprendizaje, y, por otro lado, a la profundización de su repertorio lingüístico individual. Durante este proceso, el alumnado hace uso de métodos y estrategias adecuadas de comprensión de textos orales, escritos y multimodales sobre temas cotidianos que respondan a necesidades comunicativas relacionadas con su entorno más cercano.
+
+Los aprendizajes de los criterios de evaluación que se adquirirán en esta competencia específica son conjugados entre sí para conformar un tratamiento integrado entre ellos donde reconocer y analizar el sentido global de palabras, frases, breves y sencillas en textos orales, escritos y multimodales, permitiendo un aprendizaje significativo a través de acciones en las que el alumnado se erige con una intención comunicativa. Asimismo, estos aprendizajes irán acompañados de otros relacionados con seleccionar, organizar y aplicar, de forma progresivamente autónoma, estrategias elementales o básicas y conocimientos adecuados en situaciones comunicativas, de manera que se facilite el acceso efectivo y eficiente a las estrategias que apoyen y garanticen el aprendizaje.
+
+Competencia específica 2 (C2).
+
+La competencia específica de producción se basa en la expresión tanto oral, escrita y multimodal, y cobra especial relevancia, ya que es un elemento imprescindible para que se produzca la comunicación. Durante este proceso, el alumnado hace uso de métodos y estrategias adecuadas, como la planificación o la compensación, que dan lugar a la expresión de mensajes relacionados con necesidades inmediatas y exposición de textos.
+
+Los aprendizajes de los criterios de evaluación de esta competencia específica están indicados para que el alumnado produzca diferentes tipos de textos orales, escritos y multimodales, de forma codirigida, aprenda a seleccionar, planificar y aplicar con autonomía, conocimientos y estrategias adecuadas, permitiendo su desarrollo creativo e integral en situaciones comunicativas cotidianas y próximas.
+
+Competencia específica 3 (C3).
+
+La competencia específica de interacción es un acto comunicativo en construcción, que involucra varios participantes. El alumnado, como agente social, pone en práctica sus destrezas y habilidades de comprensión, y producción oral y escrita, para responder a las necesidades en intercambios comunicativos, así como las estrategias que le permitan planificar y organizar conversaciones básicas.
+
+Los aprendizajes de los criterios de evaluación de esta competencia específica que se pretenden conseguir en el alumnado se basan en la participación, de forma autónoma, en situaciones interactivas de comunicación orientadas hacia el intercambio de información tanto en textos orales como escritos. Además, el profesorado, como guía del aprendizaje, acompañará al alumnado en la selección, organización y utilización de la interacción en contextos próximos a su entorno y en la organización, de forma cooperativa, de métodos inductivos, deductivos y estrategias básicas, desarrollando, afianzando y ampliando su repertorio lingüístico individual y social.
+
+Competencia específica 4 (C4).
+
+La competencia específica de mediación se basa en la actividad del lenguaje que permite al alumnado explicar y facilitar la comprensión de mensajes o textos cotidianos y contextuales. La mediación desarrolla el pensamiento estratégico, permitiendo la reformulación oral y escrita, eligiendo las destrezas y estrategias de su repertorio lingüístico y construyendo mensajes dialógicos y expositivos en distintas modalidades o registros. Además, desarrolla el procesamiento y la transmisión de información básica y sencilla, pudiendo emplear tanto medios analógicos como digitales para interpretar y compartir contenidos.
+
+Los aprendizajes de los criterios de evaluación de esta competencia específica permiten al alumnado, en primer lugar, integrar la información básica de conceptos, textos breves y sencillos, pensamientos o emociones, atendiendo a la diversidad, y, en segundo lugar, justificarlos y explicarlos de forma codirigida. El valor de la convivencia, las diferencias culturales y la igualdad de oportunidades serán la base contextual de la mediación lingüística para el desarrollo afectivo e inclusivo del aprendizaje. A su vez, los aprendizajes que faciliten la comprensión, la producción y la comunicación, como seleccionar e implementar estrategias cada vez más autónomas, se desarrollarán en situaciones colaborativas y cooperativas.
+
+Competencia específica 5 (C5).
+
+La competencia específica plurilingüe hace referencia al uso del repertorio lingüístico y a la reflexión de su funcionamiento. En la sociedad intercultural en la que vivimos, es fundamental el análisis y aprecio por la diversidad lingüística, reconociendo las diferencias y similitudes entre lenguas, así como la reflexión del proceso de enseñanza y de aprendizaje, para fomentar la mejora de las habilidades y estrategias que desarrollan el repertorio plurilingüe, de manera que se apliquen los conocimientos y las destrezas adquiridas a otros contextos.
+
+Los aprendizajes de los criterios de evaluación de esta competencia específica se distinguen, por una parte, en comparar y contrastar, de forma cooperativa y con progresiva autonomía, las similitudes y diferencias entre las distintas lenguas; y en utilizar y diferenciar estrategias adecuadas de aprovechamiento y comprensión del repertorio plurilingüe. Por otra parte, las evidencias de aprendizaje mediante el Porfolio de las Lenguas (PEL) o los diarios de aprendizaje constatarán cómo el alumnado registra y reflexiona, de manera guiada, sus progresos y dificultades para desarrollar un aprendizaje más profundo.
+
+Competencia específica 6 (C6).
+
+La competencia específica intercultural se centra en la interculturalidad y muestra un interés especial hacia el aprecio y el respeto de la diversidad lingüística, cultural y artística a partir de una lengua extranjera. Se caracteriza por favorecer la riqueza social, evitando la distorsión de estereotipos o la discriminación, y por valorar la diversidad en general para que el alumnado aprenda a gestionar situaciones interculturales cotidianas y favorezca la convivencia en un ambiente afectivo e inclusivo.
+
+Los aprendizajes de estos criterios de evaluación tienen en cuenta el aprecio y el respeto por el patrimonio lingüístico, cultural y artístico de personas y países donde se habla la segunda lengua extranjera, así como de las islas Canarias. El profesorado propiciará un ambiente en el que se desarrollen aprendizajes como la muestra de empatía, la comprensión de las producciones ajenas y el respeto en el uso de la cortesía lingüística, y se posibiliten situaciones comunicativas, seleccionando y aplicando estrategias adecuadas.
+
+Saberes básicos.
+
+Los saberes básicos del área aparecen integrados tanto en los criterios de evaluación como en las explicaciones de los bloques competenciales. No obstante, quedan establecidos, organizados y secuenciados, a continuación de los mismos.
+
+En el área de la Segunda Lengua Extranjera los saberes básicos son transversales a todos los bloques competenciales. Su carácter integrador y su composición globalizada, abierta y flexible permiten que se incardinen entre ellos, permitiendo al docente o a la docente, en función de su criterio pedagógico, seleccionar aquellos saberes que estime más adecuados para implementar los aprendizajes establecidos en cada uno de los bloques competenciales.
+
+Asimismo, para facilitar su selección y uso, los saberes básicos del área de la Segunda Lengua Extranjera se estructuran en cuatro grandes bloques relativos a la “Comunicación”, “Plurilingüismo”, “Interculturalidad” y “Dimensiones Interpersonal e Intrapersonal”.
+
+El Bloque I, “Comunicación”, abarca los saberes que son necesarios movilizar para el desarrollo de las actividades comunicativas de comprensión, producción, interacción y mediación, incluidos los relacionados con la búsqueda guiada de información.
+
+El Bloque II, “Plurilingüismo”, integra los saberes relacionados con la capacidad de reflexionar sobre el funcionamiento de las lenguas, así como los saberes que forman parte del repertorio lingüístico del alumnado, con el fin de contribuir al aprendizaje de la Segunda Lengua Extranjera y a la mejora de las lenguas familiares.
+
+El Bloque III, “Interculturalidad”, agrupan los saberes acerca de las culturas vehiculadas a través de la Segunda Lengua Extranjera, y su aprecio como oportunidad de enriquecimiento y desarrollo de actitudes de interés por conocer y comprender otras lenguas, variedades lingüísticas y culturas.
+
+El Bloque IV, “Dimensiones Interpersonal e Intrapersonal”, integra los saberes que el alumnado, como sujeto emocional y creativo, ha de movilizar para contribuir al aprendizaje efectivo. Son saberes relativos a factores internos y sociales, que actúan como catalizadores indispensables para un crecimiento personal y social óptimo, en el desarrollo de vínculos con las demás personas y de relación personal, fomentando la empatía, el respeto y la valoración de otros puntos de vista.
+
+Asimismo, los saberes básicos aúnan los conocimientos (saber), las destrezas (saber hacer) las actitudes (saber ser), así como las estrategias (saber aprender) necesarios para la adquisición de las competencias específicas del área, y favorecen la evaluación de los aprendizajes a través de los criterios de evaluación. Estos saberes básicos son de naturaleza procedimental y actitudinal, más que conceptual, concepto clave a la hora de usarlos en el del diseño de las situaciones de aprendizaje, puesto que esta visión permite un ensamblaje coherente, cohesivo y flexible del currículo, contribuyendo así al desarrollo de las competencias específicas y a su enriquecimiento.
+
+Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos.
+
+Las competencias específicas explicitan desempeños que el alumnado debe poder llevar a cabo en situaciones de aprendizaje para cuyo abordaje se requieren los saberes básicos de cada área, dentro de un marco de atención inclusiva a las diferencias individuales, y a las singularidades y necesidades de cada alumno o alumna. La implementación del currículo del área implica, por tanto, la definición, por parte del profesorado, de estas situaciones de aprendizaje contextualizadas.
+
+El modelo pedagógico canario se nutre de una premisa crucial: la necesaria integración de la evaluación en el proceso de planificación y diseño de estas situaciones de aprendizaje, para asegurar una evaluación competencial del alumnado. Es necesario, por tanto, que el profesorado utilice variedad de instrumentos, técnicas y herramientas de evaluación, en diferentes contextos, con soportes y formatos diversos, que permitan que el alumnado pueda demostrar lo que sabe, lo que siente y piensa, lo que puede hacer…, atendiéndose así, de manera inclusiva, a la diversidad del alumnado, a su ritmo de aprendizaje y a su forma de aprender.
+
+El área de la Segunda Lengua Extranjera, orientada a planteamientos abiertos, flexibles y eclécticos, deriva de la implementación de metodologías activas, flexibles y abiertas que promuevan, entre otras cosas, la indagación, el juego, el descubrimiento, la colaboración, así como el pensamiento crítico y creativo. En definitiva, la puesta en práctica de estas metodologías incentiva la participación, la motivación y la implicación del alumnado durante el proceso de aprendizaje, situándolo en el centro de la acción y la inclusión. En este sentido, el alumnado desarrolla un papel activo en su construcción de la realidad, a la vez que hace uso de las lenguas que posee, extranjeras o familiares, para enriquecer y ampliar su repertorio plurilingüe individual. Se destaca así la capacidad de transferencia del alumnado para hacer suyos los conocimientos y las estrategias en una segunda lengua extranjera, con el propósito de aplicarlos posteriormente a diferentes situaciones y contextos. Ser consciente y reflexionar sobre el aprendizaje y el funcionamiento de la lengua se convierte, por tanto, en una capacidad determinante para convertir al alumnado en parte activa de la ciudadanía del siglo XXI.
+
+Las actividades y los recursos que se integren en las diferentes situaciones de aprendizaje serán variados, atractivos, innovadores, flexibles y adecuados a los distintos ritmos de aprendizaje que demanda la diversidad en el aula, teniendo una especial consideración a todos aquellos que estén relacionados con la integración de las tecnologías digitales educativas en el proceso de enseñanza y de aprendizaje. El modelo teórico-práctico conocido como DUA, no solo proporciona múltiples formas de representación, expresión e implicación (el qué, el cómo y el por qué del aprendizaje), sino también elimina las barreras de aprendizaje del alumnado, desde un doble punto de vista: las necesidades y las potencialidades. Para ello, es fundamental el aprendizaje cooperativo y el desarrollo de técnicas grupales que permitan la diversidad de agrupamientos y el uso de estrategias colaborativas.
+
+El currículo de la Segunda Lengua Extranjera se ha creado con el fin de proporcionar al profesorado una herramienta pedagógica flexible y útil, adaptable a cualquier contexto escolar de las islas y cuyo fin último sea el de movilizar los distintos elementos curriculares que se presentan en este desarrollo normativo, a través de las distintas situaciones de aprendizaje que se generen. En este sentido y aunque los bloques competenciales se muestran de manera aislada para facilitar su comprensión y resaltar los aprendizajes imbricados en cada uno de ellos, el presente currículo presta especial atención al tratamiento integrado de las lenguas como pieza trascendental para la puesta en marcha de situaciones de aprendizajes comunicativas en el aula. De esta manera, los bloques competenciales se convierten en piezas de puzle que, integrados entre sí, se ajustan a los distintos parámetros de los que se componen las situaciones de aprendizaje. Con el fin de facilitar su tratamiento, los dos últimos bloques se han dispuesto como catalizadores que establecen, por un lado, el marco sociocultural donde se ha de desarrollar la acción, y por otro, como elementos generadores que contribuyen al desarrollo de las destrezas integradas. Bajo este marco, el ensamblaje de esas piezas en una situación de aprendizaje estará completo cuando, al menos, uno de los cuatro primeros bloques competenciales se integre con los dos últimos. Esta estructura por piezas no solo se convierte en la esencia del éxito orientado a un enfoque dinámico, proactivo e inclusivo, sino que facilita la integración con otras áreas o ámbitos de aprendizaje, de manera que se contribuya, entre otros, al Aprendizaje Integrado de Contenidos y Lenguas Extranjeras (AICLE).
+
+Durante los procesos en los que se desarrollan las situaciones comunicativas en el aula de segunda lengua extranjera, cobra especial relevancia la comunicación efectiva y la motivación. Y para que estas se produzcan, el profesorado, por un lado, en su papel de facilitador de procesos y estrategias, guía al alumnado hacia el uso progresivo y autónomo del lenguaje, facilitando que el alumnado verbalice sus pensamientos para construir significados y modelar sus conocimientos y experiencias a través del lenguaje. Por otro lado, el profesorado, en su labor mentora y dinamizadora, parte del centro de interés y necesidades del alumnado para despertar su interés e implicación.
+
+Se le abre, así, al profesorado un amplio abanico de posibilidades para emplear estrategias metodológicas e innovadoras, e introducir tecnologías digitales educativas que promuevan una adecuada atención a la diversidad, complementando el proceso de enseñanza y aprendizaje y los diferentes escenarios pedagógicos en los que desarrollar la comunicación efectiva.
+
+El proceso de evaluación es la base fundamental desde la que construir el proceso de enseñanza y de aprendizaje de todos los agentes implicados, así como el grado de desarrollo y consecución de las competencias del alumnado, debiéndose tomar como punto de partida las necesidades educativas que este presenta, enmarcado en un proceso de evaluación continua donde se pueda registrar y entender el desarrollo competencial como un todo progresivo que favorezca el crecimiento formativo con una visión globalizada del aprendizaje.
+
+La evaluación del área de Segunda Lengua Extranjera debe tener en cuenta a todas las personas participantes en el proceso de enseñanza y de aprendizaje, estar integrada en el proceso de planificación y diseño de situaciones de aprendizaje competenciales y establecer un currículo que tenga como elemento central los criterios de evaluación para, con todo ello, plantear un objetivo final: conseguir el éxito de todo nuestro alumnado, independientemente de su punto de partida. De esta manera, todas y cada una de las propuestas pedagógicas deberán sucederse de manera progresiva en su desarrollo y habrán de combinar los diferentes tipos de evaluación: la heteroevaluación, realizada entre distintos agentes acerca de los procesos que han realizado; la autoevaluación, que supone la evaluación de un agente sobre el proceso que este mismo ha desarrollado, de forma que el alumnado pueda tomar conciencia de su proceso de aprendizaje y sea progresivamente más responsables a este respecto; y la coevaluación, que supone la evaluación del mismo tipo de agente educativo con sus iguales y que debe desarrollarse siempre en un ambiente de empatía y respeto, con el propósito de identificar tanto dificultades como potencialidades para promover la mejora en el proceso de aprendizaje, así como de compartir los resultados de manera constructiva.
+
+Deberán desarrollarse tanto los procesos necesarios para evaluar la actividad didáctica y pedagógica que se desarrolla en el aula, como las técnicas, las herramientas y los instrumentos que faciliten la evaluación del nivel de adquisición de las competencias específicas. La evaluación de la práctica docente, a través del análisis de los resultados del proceso de aprendizaje, permitirá detectar la mejora de las propuestas metodológicas en el área, de modo que se pueda garantizar su adecuación a las particularidades y necesidades de cada grupo, así como contribuir a una mejor adquisición de las competencias comunicativas en la segunda lengua extranjera por parte del alumnado.
+
+La planificación del proceso de evaluación es complejo; y, además de la utilización de técnicas, herramientas e instrumentos establecidos a la hora de llevar a cabo una evaluación presencial, es necesario también establecer otros complementarios que, en caso necesario, puedan ser utilizados en la enseñanza no presencial. En este sentido, la evolución del alumnado en el uso de la segunda lengua extranjera, en su capacidad de hacer suyo el lenguaje para comunicarse de manera cada vez más autónoma en diversas situaciones, ha de medirse con herramientas que permitan identificar y evidenciar los logros obtenidos y su progresión. Estas herramientas deben ser diversas, variadas, accesibles y adecuadas a las circunstancias en las que se produzca la evaluación, en consonancia con los principios del DUA. En este sentido, resultan de utilidad herramientas como las rúbricas para medir el nivel de logro del alumnado, las listas de control y escalas de valoración, los portfolios (como el PEL) o los diarios de aprendizaje, así como cuestionarios, informes y foros, ya que estos constituyen soportes físicos y digitales que facilitan y favorecen la recogida de información en cada una de las fases del proceso. Es fundamental, por tanto, que el alumnado no solo conozca las herramientas con las que va a ser evaluado, potenciando así su aprendizaje, sino que sea partícipe en todo momento de este acto educativo, apoyando los procesos de autoevaluación y coevaluación.
+
+Además, se ha de tener en consideración que los criterios relativos a las estrategias, incardinados en cada una de las cuatro primeras competencias específicas, han de desarrollarse junto, al menos, uno de los criterios que le preceden, pues se entienden como un todo unificado y único en el desarrollo de las situaciones de comunicación que se originen. Asimismo, los criterios de evaluación de las competencias específicas 5 y 6 también funcionan como catalizadores de esas situaciones de comunicación, por lo que su presencia con otros criterios de evaluación en las distintas situaciones de aprendizaje son imprescindibles para que el alumnado desarrolle todas sus dimensiones como sujeto de aprendizaje de una lengua extranjera.
+
+Tercer ciclo Educación Primaria
+
+Bloques competenciales
+
+Ver anexo en las páginas 45848-45853 del documento
+                        Descargar
+
+Saberes básicos
+
+I. Comunicación.
+
+1. Implementación de estrategias adecuadas para la comprensión, la planificación, la producción y la interacción de textos orales, escritos y multimodales, breves, sencillos y contextualizados.
+
+2. Aplicación de conocimientos, destrezas y actitudes básicas que permitan iniciarse en situaciones cotidianas de mediación en entornos sociales.
+
+3. Empleo de funciones comunicativas básicas al ámbito y al contexto: saludar, despedirse, presentar y presentarse; describir personas, objetos y lugares; situar eventos en el tiempo; situar objetos, personas y lugares en el espacio; pedir e intercambiar información sobre cuestiones cotidianas; describir rutinas; dar indicaciones e instrucciones; y expresar la pertenencia y la cantidad.
+
+4. Implementación de modelos contextuales y géneros discursivos básicos en la comprensión, producción y coproducción de textos orales, escritos y multimodales, breves y sencillos, literarios y no literarios: características y reconocimiento del contexto, y organización.
+
+5. Empleo de unidades lingüísticas básicas de uso común y significados asociados a dichas unidades, tales como expresión de la entidad y sus propiedades, cantidad y número, el espacio y las relaciones espaciales, el tiempo, la afirmación, la negación, la interrogación y la exclamación, y las relaciones lógicas elementales.
+
+6. Uso de léxico básico y de interés para el alumnado relativo a identificación personal, relaciones interpersonales próximas, lugares y entornos cercanos, ocio y tiempo libre, o vida cotidiana.
+
+7. Uso de patrones sonoros, acentuales, rítmicos y de entonación básicos, y funciones comunicativas generales asociadas a dichos patrones.
+
+8. Implementación de convenciones ortográficas básicas y significados asociados a los formatos y elementos gráficos.
+
+9. Uso de convenciones y estrategias conversacionales básicas, en formato síncrono o asíncrono, para iniciar, mantener y terminar la comunicación, tomar y ceder la palabra, pedir y dar aclaraciones y explicaciones, comparar y contrastar, colaborar…
+
+10. Empleo de recursos para el aprendizaje y estrategias para la búsqueda guiada de información en medios analógicos y digitales.
+
+11. Reconocimiento de la propiedad intelectual de las fuentes consultadas y contenidos utilizados.
+
+12. Uso de herramientas analógicas y digitales básicas para la comprensión, producción y coproducción oral, escrita y multimodal, y de plataformas virtuales de interacción, cooperación y colaboración educativa (aulas virtuales, videoconferencias, herramientas digitales colaborativas…), para el aprendizaje, la comunicación y el desarrollo de proyectos con hablantes o estudiantes de la segunda lengua extranjera.
+
+II. Plurilingüismo.
+
+1. Implementación de estrategias y técnicas de compensación de las carencias comunicativas para responder eficazmente a una necesidad concreta, a pesar de las limitaciones derivadas del nivel de competencia en la segunda lengua extranjera y en las demás lenguas del repertorio lingüístico propio.
+
+2. Implementación de estrategias básicas para identificar, organizar, retener, recuperar y utilizar unidades lingüísticas (léxico, morfosintaxis, patrones sonoros…), a partir de la comparación de las lenguas y variedades que conforman el repertorio lingüístico personal.
+
+3. Aplicación de estrategias y herramientas básicas de autoevaluación y coevaluación, analógicas y digitales, e individuales y cooperativas.
+
+4. Aplicación del repertorio lingüístico para transferir los conocimientos, las estrategias y las destrezas adquiridas a otros contextos.
+
+5. Comparación elemental entre lenguas a partir de elementos básicos de la segunda lengua extranjera y otras lenguas: origen y parentescos.
+
+6. Reconocimiento del error como parte integrante del proceso de aprendizaje.
+
+7. Uso de léxico y expresiones habituales para comprender enunciados sobre la comunicación, la lengua, el aprendizaje y las herramientas de comunicación y aprendizaje (metalenguaje).
+
+III. Interculturalidad.
+
+1. Uso de la segunda lengua extranjera como medio de comunicación y relación con personas de otros países, como forma de acceder a nueva información y como medio para conocer culturas y modos de vida diferentes.
+
+2. Aplicación de estrategias básicas para entender y apreciar la diversidad lingüística, cultural y artística, a partir de valores ecosociales y democráticos.
+
+3. Aplicación de estrategias de detección de usos discriminatorios del lenguaje verbal y no verbal.
+
+4. Identificación de aspectos socioculturales y sociolingüísticos básicos, relativos a las costumbres, la vida cotidiana y las relaciones interpersonales, las convenciones sociales básicas de uso común, el lenguaje no verbal, la cortesía lingüística y la etiqueta digital propias de países donde se habla la segunda lengua extranjera.
+
+IV. Dimensiones interpersonal e intrapersonal.
+
+1. Valoración positiva e interés por establecer contactos y comunicarse a través de diferentes medios con hablantes o estudiantes de la segunda lengua extranjera.
+
+2. Comprensión y aprecio hacia las opiniones de los demás, fomentando un clima afectivo e inclusivo de aprendizaje.
+
+3. Comprensión y aprecio por la diversidad y el patrimonio lingüístico, cultural y artístico, en lo relativo a las relaciones interpersonales elementales en países donde se habla la segunda lengua extranjera.
+
+4. Desarrollo de la autoestima y autoconfianza durante el desarrollo del proceso de aprendizaje de una segunda lengua extranjera.
+
+5. Fomento de la motivación por el aprendizaje de la segunda lengua extranjera.
+
+6. Implementación de estrategias básicas colaborativas y de dinámicas de trabajo de grupo.
+
+7. Desarrollo de la empatía y valoración de otros puntos de vista.
+
+8. Desarrollo del aprendizaje autónomo.
+
+9. Desarrollo de la visión creativa y emocional del aprendizaje.
+
+
+## ANEXO 3
+
+
+### Situaciones de aprendizaje
+
+Las situaciones de aprendizaje, que presentan carácter orientativo, suponen una herramienta eficaz para la integración de los diferentes elementos curriculares, lo que permitirá el desarrollo de las competencias clave establecidas en el Perfil de salida del alumnado al término de la enseñanza básica. Su diseño se verá favorecido a través de la implementación de propuestas pedagógicas que reconozcan al alumnado como agente activo de su propio aprendizaje. Hacen referencia a un conjunto de actividades globalizadas, contextualizadas y de complejidad gradual que requieren, por parte de los alumnos y las alumnas, de la resolución de tareas, retos o proyectos, a través de la movilización de aprendizajes, estrategias (relacionales, comunicativas, de planificación...) y saberes básicos, de forma competente, creativa y autónoma. Suponen, por tanto, la concreción del currículo en el aula por parte del profesorado, a través de propuestas pedagógicas que atiendan al contexto escolar y a las particularidades individuales del alumnado.
+
+Es por ello que las situaciones de aprendizaje deben ser flexibles, estimulantes, significativas, integradoras e inclusivas, bien contextualizadas y respetuosas con el proceso integral del alumnado en todas sus dimensiones (física, cognitiva, emocional y social), que tengan en cuenta sus potencialidades, intereses y necesidades, así como las diferentes formas de comprender la realidad en cada momento de la etapa y cuya resolución conlleve la construcción de nuevos aprendizajes. Deben convertirse en elementos eficaces que ayuden a la superación del currículo y al éxito escolar promoviendo distintas formas de acceso al aprendizaje.
+
+Asímismo, su diseño debe contemplar propuestas de actividades en complejidad creciente, que favorezcan el desarrollo progresivo de un desempeño autónomo, crítico y reflexivo, que permitan al alumnado adquirir los aprendizajes esenciales de cada área y alcanzar los objetivos propios de la etapa de Educación Primaria.
+
+Por otro lado, las situaciones de aprendizaje deberá alinearse con los principios del Diseño Universal del Aprendizaje (DUA), promoviendo distintas formas de acceso al aprendizaje, para garantizar una educación inclusiva con los mismos derechos e igualdad de oportunidades y tener en cuenta las condiciones personales, sociales o culturales de niños y niñas, para detectar y dar respuesta a los elementos que pudieran generar exclusión, siendo capaces de proporcionar múltiples formas de compromiso o implicación, diferentes medios de representación y diversas opciones de acción y expresión.
+
+Con este objetivo, la estructura del currículo de la Comunidad Autónoma de Canarias, se caracteriza por plantear una organización en bloques competenciales que deben alcanzar su concreción y eficacia a través de la integración efectiva de los elementos curriculares, para evidenciar la consecución de los objetivos de la etapa así como el grado de desarrollo y adquisición de las competencias clave, a través de productos concretos que evidencien dichos aprendizajes, de manera que los procesos de diseño y evaluación queden integrados y se retroalimenten. Además, su diseño debe servir para facilitar la toma de decisiones colegiadas y la elaboración de informes sobre el desarrollo y evolución de los desempeños en el alumnado.
+
+Finalmente, debemos garantizar la transferencia de los aprendizajes adquiridos y responder a las nuevas necesidades y retos del mundo globalizado en el que vivimos, con cambios rápidos y constantes. La escuela deberá formar alumnado competente par dar respuestas ajustadas a las necesidades del siglo XXI: la sostenibilidad, la inclusión educativa, la igualdad, el uso y el dominio de la tecnología y la posesión de un amplio sentido cultural en una marco educativo emocionalmente comprometido y activo, junto con el respeto y la valoración del patrimonio cultural, social y natural canario.
+
+
+## ANEXO 4
+
+
+### Horario
+
+Ver anexo en la página 45859 del documento
+                        Descargar
+

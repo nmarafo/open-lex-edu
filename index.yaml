@@ -10329,1293 +10329,6 @@ normas:
       - norma_id: norm-can-l-6-2014
       articulos:
       - norma_id: '1'
-  norm-can-d-101-2023:
-    id: norm-can-d-101-2023
-    codigo_sintetizado: D101_2023 Ordenacion y Curriculo de Educacion Primaria en
-      Canarias
-    titulo: Decreto 101/2023, de 9 de mayo, por el que se establece la ordenación
-      y el currículo de la Educación Primaria en la Comunidad Autónoma de Canarias.
-    jurisdiccion: Canarias
-    ambito: Autonómico
-    tipo_disposicion: Decreto
-    fecha_publicacion: '2023-05-23'
-    estado: Vigente
-    redaccion: pdf_oficial_boc
-    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
-    subcategoria: Educación Primaria
-    tags:
-    - competencias-clave
-    - curriculo
-    - curriculo-primaria
-    - ebep
-    - educaci-n-primaria
-    - educacion-primaria
-    - equipos-directivos
-    - evaluacion-primaria
-    - igualdad-genero
-    - interinos
-    - oposiciones
-    - roc
-    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/D101_2023_establece_ordenacion_curriculo_educacion_primaria_comunidad.md
-    relaciones:
-      desarrolla:
-      - norma_id: norm-es-lo-2-2006
-        articulos_destino:
-        - Art. 52
-        - Art. 149
-        - Art. 27
-      - norma_id: norm-es-2021-20113
-        articulos_destino:
-        - Art. 52
-        - Art. 149
-        - Art. 27
-      - norma_id: norm-es-rd-95-2022
-        articulos_destino:
-        - Art. 52
-        - Art. 149
-        - Art. 27
-      - norma_id: norm-es-2010-12201
-        articulos_destino:
-        - Art. 52
-        - Art. 149
-        - Art. 27
-      - norma_id: norm-es-c-1978
-        articulos_destino:
-        - Art. 52
-        - Art. 149
-        - Art. 27
-      - norma_id: norm-es-lo-3-2020
-        articulos_destino:
-        - Art. 52
-        - Art. 149
-        - Art. 27
-      - norma_id: norm-es-c-1978
-      - norma_id: norm-es-lo-2-2006
-        capitulo_origen: Capítulo V. Tutoría y orientación.
-        articulos_origen:
-        - Art. 17
-        articulos_destino:
-        - Art. 92
-      - norma_id: norm-es-2021-20113
-        capitulo_origen: Capítulo V. Tutoría y orientación.
-        articulos_origen:
-        - Art. 17
-        articulos_destino:
-        - Art. 92
-      - norma_id: norm-es-2010-12201
-        capitulo_origen: Capítulo V. Tutoría y orientación.
-        articulos_origen:
-        - Art. 17
-        articulos_destino:
-        - Art. 92
-      - norma_id: norm-es-rd-157-2022
-      cita:
-      - norma_id: norm-es-l-39-2015
-        articulos_destino:
-        - Art. 129
-        - Art. 133
-        - Art. 7
-        - Art. 21
-      - norma_id: norm-es-rd-95-2022
-        capitulo_origen: Capítulo I. Disposiciones de carácter general.
-        articulos_origen:
-        - Art. 3
-      - norma_id: norm-es-rd-95-2022
-        capitulo_origen: Capítulo II. Ordenación de la etapa.
-        articulos_origen:
-        - Art. 6
-      - norma_id: norm-es-lo-2-2006
-        capitulo_origen: Capítulo II. Ordenación de la etapa.
-        articulos_origen:
-        - Art. 10
-      - norma_id: norm-es-2021-20113
-        capitulo_origen: Capítulo II. Ordenación de la etapa.
-        articulos_origen:
-        - Art. 10
-      - norma_id: norm-es-2010-12201
-        capitulo_origen: Capítulo II. Ordenación de la etapa.
-        articulos_origen:
-        - Art. 10
-      - norma_id: norm-es-lo-2-2006
-        capitulo_origen: Capítulo III. Evaluación.
-        articulos_origen:
-        - Art. 13
-        disposiciones_destino:
-        - D. Adicional vigesimotercera
-      - norma_id: norm-es-2021-20113
-        capitulo_origen: Capítulo III. Evaluación.
-        articulos_origen:
-        - Art. 13
-        disposiciones_destino:
-        - D. Adicional vigesimotercera
-      - norma_id: norm-es-2010-12201
-        capitulo_origen: Capítulo III. Evaluación.
-        articulos_origen:
-        - Art. 13
-        disposiciones_destino:
-        - D. Adicional vigesimotercera
-      fundamentado_en:
-      - norma_id: norm-es-rd-95-2022
-        capitulo_origen: Capítulo III. Evaluación.
-        articulos_origen:
-        - Art. 11
-        articulos_destino:
-        - Art. 12
-      - norma_id: norm-es-lo-2-2006
-        capitulo_origen: Capítulo VI. Medidas de apoyo al profesorado y personal educador
-          para el desarrollo del currículo.
-        articulos_origen:
-        - D. Transitoria única. Calendario de aplicación.
-        articulos_destino:
-        - Art. 2
-        - Art. 4
-        - Art. 149
-        - Art. 12
-        disposiciones_destino:
-        - D. Adicional segunda
-      - norma_id: norm-es-2021-20113
-        capitulo_origen: Capítulo VI. Medidas de apoyo al profesorado y personal educador
-          para el desarrollo del currículo.
-        articulos_origen:
-        - D. Transitoria única. Calendario de aplicación.
-        articulos_destino:
-        - Art. 2
-        - Art. 4
-        - Art. 149
-        - Art. 12
-        disposiciones_destino:
-        - D. Adicional segunda
-      - norma_id: norm-es-2010-12201
-        capitulo_origen: Capítulo VI. Medidas de apoyo al profesorado y personal educador
-          para el desarrollo del currículo.
-        articulos_origen:
-        - D. Transitoria única. Calendario de aplicación.
-        articulos_destino:
-        - Art. 2
-        - Art. 4
-        - Art. 149
-        - Art. 12
-        disposiciones_destino:
-        - D. Adicional segunda
-      - norma_id: norm-es-c-1978
-        capitulo_origen: Capítulo VI. Medidas de apoyo al profesorado y personal educador
-          para el desarrollo del currículo.
-        articulos_origen:
-        - D. Transitoria única. Calendario de aplicación.
-        articulos_destino:
-        - Art. 2
-        - Art. 4
-        - Art. 149
-        - Art. 12
-        disposiciones_destino:
-        - D. Adicional segunda
-      - norma_id: norm-es-rd-95-2022
-        capitulo_origen: Capítulo VI. Medidas de apoyo al profesorado y personal educador
-          para el desarrollo del currículo.
-        articulos_origen:
-        - D. Transitoria única. Calendario de aplicación.
-        articulos_destino:
-        - Art. 2
-        - Art. 4
-        - Art. 149
-        - Art. 3
-        disposiciones_destino:
-        - D. Adicional primera
-        - D. Adicional segunda
-      - norma_id: norm-es-c-1978
-        capitulo_origen: Capítulo VI. Medidas de apoyo al profesorado y personal educador
-          para el desarrollo del currículo.
-        articulos_origen:
-        - D. Transitoria única. Calendario de aplicación.
-        articulos_destino:
-        - Art. 2
-        - Art. 4
-        - Art. 149
-        - Art. 3
-        disposiciones_destino:
-        - D. Adicional primera
-        - D. Adicional segunda
-      - norma_id: norm-can-l-6-2014
-      - norma_id: norm-es-l-39-2015
-      fundamentos_derecho:
-      - norma_id: norm-can-l-6-2014
-      articulos:
-      - norma_id: '6.5'
-      - norma_id: '18'
-      - norma_id: norm-es-l-39-2015
-  norm-can-d-102-2023:
-    id: norm-can-d-102-2023
-    codigo_sintetizado: D102_2023 Ordenacion y Curriculo de la ESO en Canarias
-    titulo: Decreto 102/2023, de 9 de mayo, por el que se establece la ordenación
-      y el currículo de la Educación Secundaria Obligatoria en la Comunidad Autónoma
-      de Canarias.
-    jurisdiccion: Canarias
-    ambito: Autonómico
-    tipo_disposicion: Decreto
-    fecha_publicacion: '2023-05-23'
-    estado: Vigente
-    redaccion: pdf_oficial_boc
-    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
-    subcategoria: Educación Secundaria Obligatoria (ESO)
-    tags:
-    - admision-alumnado
-    - concurso-traslados
-    - curriculo
-    - curriculo-eso
-    - ebep
-    - educaci-n-secundaria-obligatoria-eso
-    - equipos-directivos
-    - eso
-    - evaluacion
-    - evaluacion-eso
-    - interinos
-    - oposiciones
-    - perfil-salida
-    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/D102_2023_establece_ordenacion_curriculo_educacion_secundaria_obligatoria.md
-    relaciones:
-      desarrolla:
-      - norma_id: norm-can-d-101-2023
-        articulos_destino:
-        - Art. 52
-        - Art. 149
-        - Art. 27
-      - norma_id: norm-es-lo-2-2006
-        articulos_destino:
-        - Art. 52
-        - Art. 149
-        - Art. 27
-      - norma_id: norm-es-2021-20113
-        articulos_destino:
-        - Art. 52
-        - Art. 149
-        - Art. 27
-      - norma_id: norm-es-rd-157-2022
-        articulos_destino:
-        - Art. 52
-        - Art. 149
-        - Art. 27
-      - norma_id: norm-es-2010-12201
-        articulos_destino:
-        - Art. 52
-        - Art. 149
-        - Art. 27
-      - norma_id: norm-es-c-1978
-        articulos_destino:
-        - Art. 52
-        - Art. 149
-        - Art. 27
-      - norma_id: norm-es-lo-3-2020
-        articulos_destino:
-        - Art. 52
-        - Art. 149
-        - Art. 27
-      - norma_id: norm-es-c-1978
-      - norma_id: norm-es-rd-157-2022
-        capitulo_origen: Capítulo I. Disposiciones de carácter general.
-        articulos_origen:
-        - Art. 3
-        articulos_destino:
-        - Art. 9
-      - norma_id: norm-es-rd-157-2022
-        capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
-          del currículo.
-        articulos_origen:
-        - Art. 23
-      - norma_id: norm-es-c-1978
-        capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
-          del currículo.
-        articulos_origen:
-        - D. Final cuarta. Entrada en vigor.
-      - norma_id: norm-es-rd-217-2022
-      cita:
-      - norma_id: norm-es-l-39-2015
-        articulos_destino:
-        - Art. 129
-        - Art. 133
-        - Art. 7
-        - Art. 21
-      - norma_id: norm-es-rd-157-2022
-        capitulo_origen: Capítulo I. Disposiciones de carácter general.
-        articulos_origen:
-        - Art. 3
-      - norma_id: norm-es-rd-157-2022
-        capitulo_origen: Capítulo II. Currículo.
-        articulos_origen:
-        - Art. 6
-      - norma_id: norm-es-rd-157-2022
-        capitulo_origen: Capítulo III. Ordenación de la etapa.
-        articulos_origen:
-        - Art. 8
-      - norma_id: norm-es-lo-2-2006
-        capitulo_origen: Capítulo III. Ordenación de la etapa.
-        articulos_origen:
-        - Art. 8
-        articulos_destino:
-        - Art. 120
-      - norma_id: norm-es-2021-20113
-        capitulo_origen: Capítulo III. Ordenación de la etapa.
-        articulos_origen:
-        - Art. 8
-        articulos_destino:
-        - Art. 120
-      - norma_id: norm-es-2010-12201
-        capitulo_origen: Capítulo III. Ordenación de la etapa.
-        articulos_origen:
-        - Art. 8
-        articulos_destino:
-        - Art. 120
-      - norma_id: norm-es-rd-157-2022
-        capitulo_origen: Capítulo III. Ordenación de la etapa.
-        articulos_origen:
-        - Art. 8
-        articulos_destino:
-        - Art. 16
-      - norma_id: norm-es-lo-2-2006
-        capitulo_origen: Capítulo III. Ordenación de la etapa.
-        articulos_origen:
-        - Art. 10
-        articulos_destino:
-        - Art. 84
-      - norma_id: norm-es-2021-20113
-        capitulo_origen: Capítulo III. Ordenación de la etapa.
-        articulos_origen:
-        - Art. 10
-        articulos_destino:
-        - Art. 84
-      - norma_id: norm-es-2010-12201
-        capitulo_origen: Capítulo III. Ordenación de la etapa.
-        articulos_origen:
-        - Art. 10
-        articulos_destino:
-        - Art. 84
-      - norma_id: norm-es-rd-157-2022
-        capitulo_origen: Capítulo IV. Evaluación y promoción.
-        articulos_origen:
-        - Art. 11
-      - norma_id: norm-es-rd-157-2022
-        capitulo_origen: Capítulo IV. Evaluación y promoción.
-        articulos_origen:
-        - Art. 12
-        articulos_destino:
-        - Art. 15
-      - norma_id: norm-es-rd-157-2022
-        capitulo_origen: Capítulo IV. Evaluación y promoción.
-        articulos_origen:
-        - Art. 13
-      - norma_id: norm-es-rd-157-2022
-        capitulo_origen: Capítulo IV. Evaluación y promoción.
-        articulos_origen:
-        - Art. 14
-      - norma_id: norm-es-rd-157-2022
-        capitulo_origen: Capítulo IV. Evaluación y promoción.
-        articulos_origen:
-        - Art. 15
-        articulos_destino:
-        - Art. 15
-      - norma_id: norm-es-lo-2-2006
-        capitulo_origen: Capítulo IV. Evaluación y promoción.
-        articulos_origen:
-        - Art. 16
-        disposiciones_destino:
-        - D. Adicional vigesimotercera
-      - norma_id: norm-es-2021-20113
-        capitulo_origen: Capítulo IV. Evaluación y promoción.
-        articulos_origen:
-        - Art. 16
-        disposiciones_destino:
-        - D. Adicional vigesimotercera
-      - norma_id: norm-es-2010-12201
-        capitulo_origen: Capítulo IV. Evaluación y promoción.
-        articulos_origen:
-        - Art. 16
-        disposiciones_destino:
-        - D. Adicional vigesimotercera
-      - norma_id: norm-es-lo-2-2006
-        capitulo_origen: Capítulo V. Atención a la diversidad y a las diferencias
-          individuales.
-        articulos_origen:
-        - Art. 17
-        articulos_destino:
-        - Art. 78
-      - norma_id: norm-es-2021-20113
-        capitulo_origen: Capítulo V. Atención a la diversidad y a las diferencias
-          individuales.
-        articulos_origen:
-        - Art. 17
-        articulos_destino:
-        - Art. 78
-      - norma_id: norm-es-2010-12201
-        capitulo_origen: Capítulo V. Atención a la diversidad y a las diferencias
-          individuales.
-        articulos_origen:
-        - Art. 17
-        articulos_destino:
-        - Art. 78
-      - norma_id: norm-es-lo-2-2006
-        capitulo_origen: Capítulo V. Atención a la diversidad y a las diferencias
-          individuales.
-        articulos_origen:
-        - Art. 17
-        articulos_destino:
-        - Art. 73
-      - norma_id: norm-es-2021-20113
-        capitulo_origen: Capítulo V. Atención a la diversidad y a las diferencias
-          individuales.
-        articulos_origen:
-        - Art. 17
-        articulos_destino:
-        - Art. 73
-      - norma_id: norm-es-2010-12201
-        capitulo_origen: Capítulo V. Atención a la diversidad y a las diferencias
-          individuales.
-        articulos_origen:
-        - Art. 17
-        articulos_destino:
-        - Art. 73
-      - norma_id: norm-es-lo-2-2006
-        capitulo_origen: Capítulo VII. Autonomía de los centros y participación en
-          el proceso educativo.
-        articulos_origen:
-        - Art. 20
-        articulos_destino:
-        - Art. 110
-      - norma_id: norm-es-2021-20113
-        capitulo_origen: Capítulo VII. Autonomía de los centros y participación en
-          el proceso educativo.
-        articulos_origen:
-        - Art. 20
-        articulos_destino:
-        - Art. 110
-      - norma_id: norm-es-2010-12201
-        capitulo_origen: Capítulo VII. Autonomía de los centros y participación en
-          el proceso educativo.
-        articulos_origen:
-        - Art. 20
-        articulos_destino:
-        - Art. 110
-      - norma_id: norm-es-rd-157-2022
-        capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
-          del currículo.
-        articulos_origen:
-        - D. Final segunda. Conformidad con la normativa estatal.
-        disposiciones_destino:
-        - D. Adicional primera
-        - D. Adicional segunda
-      fundamentado_en:
-      - norma_id: norm-es-rd-157-2022
-        capitulo_origen: Capítulo IV. Evaluación y promoción.
-        articulos_origen:
-        - Art. 12
-        articulos_destino:
-        - Art. 15
-      - norma_id: norm-es-lo-2-2006
-        capitulo_origen: Capítulo VI. Tutoría y orientación.
-        articulos_origen:
-        - Art. 19
-        articulos_destino:
-        - Art. 121
-      - norma_id: norm-es-2021-20113
-        capitulo_origen: Capítulo VI. Tutoría y orientación.
-        articulos_origen:
-        - Art. 19
-        articulos_destino:
-        - Art. 121
-      - norma_id: norm-es-2010-12201
-        capitulo_origen: Capítulo VI. Tutoría y orientación.
-        articulos_origen:
-        - Art. 19
-        articulos_destino:
-        - Art. 121
-      - norma_id: norm-es-lo-2-2006
-        capitulo_origen: Capítulo VII. Autonomía de los centros y participación en
-          el proceso educativo.
-        articulos_origen:
-        - Art. 20
-        articulos_destino:
-        - Art. 120
-      - norma_id: norm-es-2021-20113
-        capitulo_origen: Capítulo VII. Autonomía de los centros y participación en
-          el proceso educativo.
-        articulos_origen:
-        - Art. 20
-        articulos_destino:
-        - Art. 120
-      - norma_id: norm-es-2010-12201
-        capitulo_origen: Capítulo VII. Autonomía de los centros y participación en
-          el proceso educativo.
-        articulos_origen:
-        - Art. 20
-        articulos_destino:
-        - Art. 120
-      - norma_id: norm-es-lo-2-2006
-        capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
-          del currículo.
-        articulos_origen:
-        - D. Final segunda. Conformidad con la normativa estatal.
-        articulos_destino:
-        - Art. 5
-        - Art. 11
-        - Art. 149
-        - Art. 17
-        - Art. 21
-      - norma_id: norm-es-2021-20113
-        capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
-          del currículo.
-        articulos_origen:
-        - D. Final segunda. Conformidad con la normativa estatal.
-        articulos_destino:
-        - Art. 5
-        - Art. 11
-        - Art. 149
-        - Art. 17
-        - Art. 21
-      - norma_id: norm-es-2010-12201
-        capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
-          del currículo.
-        articulos_origen:
-        - D. Final segunda. Conformidad con la normativa estatal.
-        articulos_destino:
-        - Art. 5
-        - Art. 11
-        - Art. 149
-        - Art. 17
-        - Art. 21
-      - norma_id: norm-es-c-1978
-        capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
-          del currículo.
-        articulos_origen:
-        - D. Final segunda. Conformidad con la normativa estatal.
-        articulos_destino:
-        - Art. 5
-        - Art. 11
-        - Art. 149
-        - Art. 17
-        - Art. 21
-      - norma_id: norm-es-c-1978
-        capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
-          del currículo.
-        articulos_origen:
-        - D. Final segunda. Conformidad con la normativa estatal.
-        articulos_destino:
-        - Art. 2
-        - Art. 149
-        - Art. 3
-      - norma_id: norm-can-l-6-2014
-      - norma_id: norm-es-l-39-2015
-      deroga:
-      - norma_id: norm-es-lo-3-2018
-        capitulo_origen: Capítulo VII. Autonomía de los centros y participación en
-          el proceso educativo.
-        articulos_origen:
-        - Art. 20
-      - norma_id: norm-es-rd-157-2022
-        capitulo_origen: Capítulo VII. Autonomía de los centros y participación en
-          el proceso educativo.
-        articulos_origen:
-        - Art. 20
-      fundamentos_derecho:
-      - norma_id: norm-can-l-6-2014
-      articulos:
-      - norma_id: '6.5'
-      - norma_id: '22'
-      - norma_id: '24'
-      - norma_id: '25'
-      - norma_id: norm-es-l-39-2015
-  norm-can-d-103-2023:
-    id: norm-can-d-103-2023
-    codigo_sintetizado: D103_2023 Ordenacion y Curriculo del Bachillerato en Canarias
-    titulo: Decreto 103/2023, de 9 de mayo, por el que se establece la ordenación
-      y el currículo del Bachillerato en la Comunidad Autónoma de Canarias.
-    jurisdiccion: Canarias
-    ambito: Autonómico
-    tipo_disposicion: Decreto
-    fecha_publicacion: '2023-05-23'
-    estado: Vigente
-    redaccion: pdf_oficial_boc
-    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
-    subcategoria: Bachillerato
-    tags:
-    - admision-alumnado
-    - bachillerato
-    - curriculo
-    - curriculo-bachillerato
-    - equipos-directivos
-    - evaluacion-bachillerato
-    - interinos
-    - modalidades-bachillerato
-    - oposiciones
-    - profesorado
-    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/D103_2023_establece_ordenacion_curriculo_bachillerato_comunidad_autonoma.md
-    relaciones:
-      desarrolla:
-      - norma_id: norm-es-lo-2-2006
-        articulos_destino:
-        - Art. 52
-        - Art. 149
-        - Art. 27
-      - norma_id: norm-es-2021-20113
-        articulos_destino:
-        - Art. 52
-        - Art. 149
-        - Art. 27
-      - norma_id: norm-es-rd-243-2022
-        articulos_destino:
-        - Art. 52
-        - Art. 149
-        - Art. 27
-      - norma_id: norm-es-2010-12201
-        articulos_destino:
-        - Art. 52
-        - Art. 149
-        - Art. 27
-      - norma_id: norm-es-c-1978
-        articulos_destino:
-        - Art. 52
-        - Art. 149
-        - Art. 27
-      - norma_id: norm-es-lo-3-2020
-        articulos_destino:
-        - Art. 52
-        - Art. 149
-        - Art. 27
-      - norma_id: norm-es-c-1978
-      - norma_id: norm-es-c-1978
-        capitulo_origen: Capítulo II. Currículo.
-        articulos_origen:
-        - Art. 5
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo II. Currículo.
-        articulos_origen:
-        - Art. 6
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8
-          Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica
-          2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022,
-          de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en
-          posesión del título de Graduado en Educación Secundaria Obligatoria o de
-          cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional,
-          o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
-        articulos_origen:
-        - Art. 9
-        articulos_destino:
-        - Art. 3
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
-          del currículo.
-        articulos_origen:
-        - Art. 28
-      - norma_id: norm-es-lo-2-2006
-        capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
-          del currículo.
-        articulos_origen:
-        - D. Adicional primera. Educación de personas adultas.
-        articulos_destino:
-        - Art. 67
-        - Art. 110
-      - norma_id: norm-es-2021-20113
-        capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
-          del currículo.
-        articulos_origen:
-        - D. Adicional primera. Educación de personas adultas.
-        articulos_destino:
-        - Art. 67
-        - Art. 110
-      - norma_id: norm-es-2010-12201
-        capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
-          del currículo.
-        articulos_origen:
-        - D. Adicional primera. Educación de personas adultas.
-        articulos_destino:
-        - Art. 67
-        - Art. 110
-      - norma_id: norm-es-lo-2-2006
-        capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
-          del currículo.
-        articulos_origen:
-        - D. Final tercera. Entrada en vigor.
-        articulos_destino:
-        - Art. 5
-      - norma_id: norm-es-2021-20113
-        capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
-          del currículo.
-        articulos_origen:
-        - D. Final tercera. Entrada en vigor.
-        articulos_destino:
-        - Art. 5
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
-          del currículo.
-        articulos_origen:
-        - D. Final tercera. Entrada en vigor.
-        articulos_destino:
-        - Art. 5
-      - norma_id: norm-es-2010-12201
-        capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
-          del currículo.
-        articulos_origen:
-        - D. Final tercera. Entrada en vigor.
-        articulos_destino:
-        - Art. 5
-      - norma_id: norm-es-c-1978
-        capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
-          del currículo.
-        articulos_origen:
-        - D. Final tercera. Entrada en vigor.
-      cita:
-      - norma_id: norm-es-l-39-2015
-        articulos_destino:
-        - Art. 129
-        - Art. 133
-        - Art. 7
-        - Art. 21
-      - norma_id: norm-es-lo-2-2006
-        capitulo_origen: Capítulo I. Disposiciones de carácter general.
-        articulos_origen:
-        - Art. 2
-        articulos_destino:
-        - Art. 3
-      - norma_id: norm-es-2021-20113
-        capitulo_origen: Capítulo I. Disposiciones de carácter general.
-        articulos_origen:
-        - Art. 2
-        articulos_destino:
-        - Art. 3
-      - norma_id: norm-es-2010-12201
-        capitulo_origen: Capítulo I. Disposiciones de carácter general.
-        articulos_origen:
-        - Art. 2
-        articulos_destino:
-        - Art. 3
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo I. Disposiciones de carácter general.
-        articulos_origen:
-        - Art. 2
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo I. Disposiciones de carácter general.
-        articulos_origen:
-        - Art. 3
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8
-          Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica
-          2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022,
-          de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en
-          posesión del título de Graduado en Educación Secundaria Obligatoria o de
-          cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional,
-          o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
-        articulos_origen:
-        - Art. 9
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8
-          Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica
-          2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022,
-          de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en
-          posesión del título de Graduado en Educación Secundaria Obligatoria o de
-          cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional,
-          o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
-        articulos_origen:
-        - Art. 10
-        articulos_destino:
-        - Art. 9
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8
-          Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica
-          2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022,
-          de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en
-          posesión del título de Graduado en Educación Secundaria Obligatoria o de
-          cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional,
-          o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
-        articulos_origen:
-        - Art. 10
-        articulos_destino:
-        - Art. 12
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8
-          Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica
-          2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022,
-          de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en
-          posesión del título de Graduado en Educación Secundaria Obligatoria o de
-          cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional,
-          o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
-        articulos_origen:
-        - Art. 10
-        articulos_destino:
-        - Art. 13
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8
-          Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica
-          2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022,
-          de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en
-          posesión del título de Graduado en Educación Secundaria Obligatoria o de
-          cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional,
-          o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
-        articulos_origen:
-        - Art. 10
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8
-          Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica
-          2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022,
-          de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en
-          posesión del título de Graduado en Educación Secundaria Obligatoria o de
-          cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional,
-          o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
-        articulos_origen:
-        - Art. 11
-        articulos_destino:
-        - Art. 9
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8
-          Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica
-          2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022,
-          de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en
-          posesión del título de Graduado en Educación Secundaria Obligatoria o de
-          cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional,
-          o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
-        articulos_origen:
-        - Art. 11
-        articulos_destino:
-        - Art. 12
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8
-          Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica
-          2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022,
-          de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en
-          posesión del título de Graduado en Educación Secundaria Obligatoria o de
-          cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional,
-          o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
-        articulos_origen:
-        - Art. 11
-        articulos_destino:
-        - Art. 13
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8
-          Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica
-          2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022,
-          de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en
-          posesión del título de Graduado en Educación Secundaria Obligatoria o de
-          cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional,
-          o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
-        articulos_origen:
-        - Art. 11
-      - norma_id: norm-es-lo-2-2006
-        capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8
-          Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica
-          2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022,
-          de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en
-          posesión del título de Graduado en Educación Secundaria Obligatoria o de
-          cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional,
-          o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
-        articulos_origen:
-        - Art. 13
-        articulos_destino:
-        - Art. 86
-      - norma_id: norm-es-2021-20113
-        capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8
-          Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica
-          2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022,
-          de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en
-          posesión del título de Graduado en Educación Secundaria Obligatoria o de
-          cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional,
-          o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
-        articulos_origen:
-        - Art. 13
-        articulos_destino:
-        - Art. 86
-      - norma_id: norm-es-2010-12201
-        capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8
-          Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica
-          2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022,
-          de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en
-          posesión del título de Graduado en Educación Secundaria Obligatoria o de
-          cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional,
-          o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
-        articulos_origen:
-        - Art. 13
-        articulos_destino:
-        - Art. 86
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo IV. Evaluación, promoción y titulación.
-        articulos_origen:
-        - Art. 14
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo IV. Evaluación, promoción y titulación.
-        articulos_origen:
-        - Art. 15
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo IV. Evaluación, promoción y titulación.
-        articulos_origen:
-        - Art. 16
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo IV. Evaluación, promoción y titulación.
-        articulos_origen:
-        - Art. 17
-      - norma_id: norm-es-l-40-2015
-        capitulo_origen: Capítulo IV. Evaluación, promoción y titulación.
-        articulos_origen:
-        - Art. 18
-        titulo_destino: Título PRELIMINAR
-        capitulo_destino: Capítulo II
-        seccion_destino: Sección 3.ª
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo IV. Evaluación, promoción y titulación.
-        articulos_origen:
-        - Art. 19
-      - norma_id: norm-es-lo-2-2006
-        capitulo_origen: Capítulo IV. Evaluación, promoción y titulación.
-        articulos_origen:
-        - Art. 21
-        disposiciones_destino:
-        - D. Adicional vigesimotercera
-      - norma_id: norm-es-2021-20113
-        capitulo_origen: Capítulo IV. Evaluación, promoción y titulación.
-        articulos_origen:
-        - Art. 21
-        disposiciones_destino:
-        - D. Adicional vigesimotercera
-      - norma_id: norm-es-2010-12201
-        capitulo_origen: Capítulo IV. Evaluación, promoción y titulación.
-        articulos_origen:
-        - Art. 21
-        disposiciones_destino:
-        - D. Adicional vigesimotercera
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo VI. Tutoría y orientación.
-        articulos_origen:
-        - Art. 24
-      - norma_id: norm-es-lo-2-2006
-        capitulo_origen: Capítulo VII. Autonomía de los centros y participación en
-          el proceso educativo.
-        articulos_origen:
-        - Art. 25
-        articulos_destino:
-        - Art. 110
-      - norma_id: norm-es-2021-20113
-        capitulo_origen: Capítulo VII. Autonomía de los centros y participación en
-          el proceso educativo.
-        articulos_origen:
-        - Art. 25
-        articulos_destino:
-        - Art. 110
-      - norma_id: norm-es-2010-12201
-        capitulo_origen: Capítulo VII. Autonomía de los centros y participación en
-          el proceso educativo.
-        articulos_origen:
-        - Art. 25
-        articulos_destino:
-        - Art. 110
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
-          del currículo.
-        articulos_origen:
-        - D. Adicional primera. Educación de personas adultas.
-        disposiciones_destino:
-        - D. Adicional tercera
-      - norma_id: norm-es-lo-2-2006
-        capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
-          del currículo.
-        articulos_origen:
-        - D. Adicional primera. Educación de personas adultas.
-        articulos_destino:
-        - Art. 69
-      - norma_id: norm-es-2021-20113
-        capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
-          del currículo.
-        articulos_origen:
-        - D. Adicional primera. Educación de personas adultas.
-        articulos_destino:
-        - Art. 69
-      - norma_id: norm-es-2010-12201
-        capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
-          del currículo.
-        articulos_origen:
-        - D. Adicional primera. Educación de personas adultas.
-        articulos_destino:
-        - Art. 69
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
-          del currículo.
-        articulos_origen:
-        - D. Adicional segunda. Obtención de nuevas modalidades de Bachillerato.
-        disposiciones_destino:
-        - D. Adicional cuarta
-      - norma_id: norm-es-rd-1834-2008
-        capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
-          del currículo.
-        articulos_origen:
-        - D. Adicional cuarta. Asignación de materias optativas propias de la Comunidad.
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
-          del currículo.
-        articulos_origen:
-        - D. Final primera. Conformidad con la normativa estatal.
-        disposiciones_destino:
-        - D. Adicional segunda
-        - D. Adicional tercera
-        - D. Adicional cuarta
-      fundamentado_en:
-      - norma_id: norm-es-lo-2-2006
-        capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8
-          Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica
-          2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022,
-          de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en
-          posesión del título de Graduado en Educación Secundaria Obligatoria o de
-          cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional,
-          o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
-        capitulo_destino: Capítulo III
-        articulos_destino:
-        - Art. 8
-        - Art. 32
-        - Art. 5
-      - norma_id: norm-es-2021-20113
-        capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8
-          Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica
-          2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022,
-          de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en
-          posesión del título de Graduado en Educación Secundaria Obligatoria o de
-          cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional,
-          o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
-        capitulo_destino: Capítulo III
-        articulos_destino:
-        - Art. 8
-        - Art. 32
-        - Art. 5
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8
-          Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica
-          2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022,
-          de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en
-          posesión del título de Graduado en Educación Secundaria Obligatoria o de
-          cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional,
-          o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
-        capitulo_destino: Capítulo III
-        articulos_destino:
-        - Art. 8
-        - Art. 32
-        - Art. 5
-      - norma_id: norm-es-2010-12201
-        capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8
-          Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica
-          2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022,
-          de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en
-          posesión del título de Graduado en Educación Secundaria Obligatoria o de
-          cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional,
-          o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
-        capitulo_destino: Capítulo III
-        articulos_destino:
-        - Art. 8
-        - Art. 32
-        - Art. 5
-      - norma_id: norm-es-lo-2-2006
-        capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8
-          Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica
-          2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022,
-          de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en
-          posesión del título de Graduado en Educación Secundaria Obligatoria o de
-          cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional,
-          o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
-        articulos_origen:
-        - Art. 9
-        articulos_destino:
-        - Art. 34
-      - norma_id: norm-es-2021-20113
-        capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8
-          Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica
-          2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022,
-          de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en
-          posesión del título de Graduado en Educación Secundaria Obligatoria o de
-          cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional,
-          o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
-        articulos_origen:
-        - Art. 9
-        articulos_destino:
-        - Art. 34
-      - norma_id: norm-es-2010-12201
-        capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8
-          Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica
-          2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022,
-          de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en
-          posesión del título de Graduado en Educación Secundaria Obligatoria o de
-          cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional,
-          o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
-        articulos_origen:
-        - Art. 9
-        articulos_destino:
-        - Art. 34
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8
-          Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica
-          2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022,
-          de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en
-          posesión del título de Graduado en Educación Secundaria Obligatoria o de
-          cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional,
-          o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
-        articulos_origen:
-        - Art. 10
-        articulos_destino:
-        - Art. 10
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8
-          Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica
-          2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022,
-          de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en
-          posesión del título de Graduado en Educación Secundaria Obligatoria o de
-          cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional,
-          o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
-        articulos_origen:
-        - Art. 10
-        articulos_destino:
-        - Art. 11
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8
-          Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica
-          2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022,
-          de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en
-          posesión del título de Graduado en Educación Secundaria Obligatoria o de
-          cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional,
-          o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
-        articulos_origen:
-        - Art. 11
-        articulos_destino:
-        - Art. 10
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo III. Acceso y ordenación de la etapa artículo 8
-          Acceso. Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica
-          2/2006, de 3 de mayo, así como en el artículo 5.1 del Real Decreto 243/2022,
-          de 5 de abril, podrán acceder a los estudios de la etapa quienes estén en
-          posesión del título de Graduado en Educación Secundaria Obligatoria o de
-          cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional,
-          o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
-        articulos_origen:
-        - Art. 11
-        articulos_destino:
-        - Art. 11
-      - norma_id: norm-es-lo-2-2006
-        capitulo_origen: Capítulo VI. Tutoría y orientación.
-        articulos_origen:
-        - Art. 24
-        articulos_destino:
-        - Art. 121
-      - norma_id: norm-es-2021-20113
-        capitulo_origen: Capítulo VI. Tutoría y orientación.
-        articulos_origen:
-        - Art. 24
-        articulos_destino:
-        - Art. 121
-      - norma_id: norm-es-2010-12201
-        capitulo_origen: Capítulo VI. Tutoría y orientación.
-        articulos_origen:
-        - Art. 24
-        articulos_destino:
-        - Art. 121
-      - norma_id: norm-es-lo-2-2006
-        capitulo_origen: Capítulo VII. Autonomía de los centros y participación en
-          el proceso educativo.
-        articulos_origen:
-        - Art. 25
-        articulos_destino:
-        - Art. 120
-      - norma_id: norm-es-2021-20113
-        capitulo_origen: Capítulo VII. Autonomía de los centros y participación en
-          el proceso educativo.
-        articulos_origen:
-        - Art. 25
-        articulos_destino:
-        - Art. 120
-      - norma_id: norm-es-2010-12201
-        capitulo_origen: Capítulo VII. Autonomía de los centros y participación en
-          el proceso educativo.
-        articulos_origen:
-        - Art. 25
-        articulos_destino:
-        - Art. 120
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
-          del currículo.
-        articulos_origen:
-        - D. Adicional primera. Educación de personas adultas.
-        disposiciones_destino:
-        - D. Adicional tercera
-      - norma_id: norm-es-lo-2-2006
-        capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
-          del currículo.
-        articulos_origen:
-        - D. Final primera. Conformidad con la normativa estatal.
-        articulos_destino:
-        - Art. 2
-        - Art. 149
-        - Art. 3
-        disposiciones_destino:
-        - D. Adicional primera
-      - norma_id: norm-es-2021-20113
-        capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
-          del currículo.
-        articulos_origen:
-        - D. Final primera. Conformidad con la normativa estatal.
-        articulos_destino:
-        - Art. 2
-        - Art. 149
-        - Art. 3
-        disposiciones_destino:
-        - D. Adicional primera
-      - norma_id: norm-es-2010-12201
-        capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
-          del currículo.
-        articulos_origen:
-        - D. Final primera. Conformidad con la normativa estatal.
-        articulos_destino:
-        - Art. 2
-        - Art. 149
-        - Art. 3
-        disposiciones_destino:
-        - D. Adicional primera
-      - norma_id: norm-es-c-1978
-        capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
-          del currículo.
-        articulos_origen:
-        - D. Final primera. Conformidad con la normativa estatal.
-        articulos_destino:
-        - Art. 2
-        - Art. 149
-        - Art. 3
-        disposiciones_destino:
-        - D. Adicional primera
-      - norma_id: norm-es-c-1978
-        capitulo_origen: Capítulo VIII. Medidas de apoyo al profesorado para el desarrollo
-          del currículo.
-        articulos_origen:
-        - D. Final primera. Conformidad con la normativa estatal.
-        articulos_destino:
-        - Art. 2
-        - Art. 4
-        - Art. 5
-        - Art. 6
-        - Art. 149
-        - Art. 3
-        disposiciones_destino:
-        - D. Adicional primera
-      - norma_id: norm-can-l-6-2014
-      - norma_id: norm-es-l-39-2015
-      modifica:
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo IV. Evaluación, promoción y titulación.
-        articulos_origen:
-        - Art. 15
-      deroga:
-      - norma_id: norm-es-lo-3-2018
-        capitulo_origen: Capítulo VII. Autonomía de los centros y participación en
-          el proceso educativo.
-        articulos_origen:
-        - Art. 26
-      - norma_id: norm-es-rd-243-2022
-        capitulo_origen: Capítulo VII. Autonomía de los centros y participación en
-          el proceso educativo.
-        articulos_origen:
-        - Art. 26
-      fundamentos_derecho:
-      - norma_id: norm-can-l-6-2014
-      articulos:
-      - norma_id: '6.5'
-      - norma_id: '32'
-      - norma_id: '34'
   norm-can-d-142-2018:
     id: norm-can-d-142-2018
     codigo_sintetizado: D142_2018 Ordenacion y Curriculo de Idiomas de Regimen Especial
@@ -11647,42 +10360,101 @@ normas:
     jurisdiccion: Canarias
     ambito: Autonómico
     tipo_disposicion: Decreto
-    fecha_publicacion: '2022-10-20'
+    fecha_publicacion: '2022-10-26'
     estado: Vigente
-    redaccion: pdf_oficial_boc
+    redaccion: texto_integro_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Educación Infantil
     tags:
-    - curriculo
-    - curriculo-infantil
-    - ebep
-    - educaci-n-infantil
     - educacion-infantil
-    - equipos-directivos
-    - oposiciones
+    - curriculo-infantil
+    - competencias-clave
+    - situaciones-aprendizaje
     - primer-ciclo
-    - procedimiento-administrativo
-    - roc
     - segundo-ciclo
+    - evaluacion-infantil
+    - lomloe
     path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/D196_2022_establece_ordenacion_curriculo_educacion_infantil_comunidad.md
     relaciones:
       fundamentado_en:
-      - norma_id: norm-es-l-39-2015
-        articulos_destino:
-        - Art. 45
-        - Art. 48
-        - Art. 49
-      - norma_id: norm-can-l-6-2014
+      - norma_id: norm-es-c-1978
+      - norma_id: norm-can-lo-1-2018
       - norma_id: norm-es-lo-2-2006
+      - norma_id: norm-can-l-6-2014
+      - norma_id: norm-es-l-39-2015
       desarrolla:
       - norma_id: norm-es-rd-95-2022
       - norma_id: norm-es-lo-2-2006
-      fundamentos_derecho:
+  norm-can-d-211-2022:
+    id: norm-can-d-211-2022
+    codigo_sintetizado: D211_2022 Ordenacion y Curriculo de Educacion Primaria en
+      Canarias
+    titulo: Decreto 211/2022, de 10 de noviembre, por el que se establece la ordenación
+      y el currículo de la Educación Primaria en la Comunidad Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-11-23'
+    estado: Vigente
+    redaccion: texto_integro_boc
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Primaria
+    tags:
+    - educacion-primaria
+    - curriculo-primaria
+    - competencias-clave
+    - evaluacion-primaria
+    - situaciones-aprendizaje
+    - areas-conocimiento
+    - lomloe
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/D211_2022_establece_ordenacion_curriculo_educacion_primaria_canarias.md
+    relaciones:
+      fundamentado_en:
+      - norma_id: norm-es-c-1978
+      - norma_id: norm-can-lo-1-2018
+      - norma_id: norm-es-lo-2-2006
       - norma_id: norm-can-l-6-2014
-      articulos:
-      - norma_id: '6.5'
-      - norma_id: '14'
       - norma_id: norm-es-l-39-2015
+      desarrolla:
+      - norma_id: norm-es-rd-157-2022
+      - norma_id: norm-es-lo-2-2006
+  norm-can-d-30-2023:
+    id: norm-can-d-30-2023
+    codigo_sintetizado: D30_2023 Ordenacion y Curriculo de ESO y Bachillerato en Canarias
+    titulo: Decreto 30/2023, de 16 de marzo, por el que se establece la ordenación
+      y el currículo de la Educación Secundaria Obligatoria y del Bachillerato en
+      la Comunidad Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2023-03-23'
+    estado: Vigente
+    redaccion: texto_integro_boc
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Secundaria Obligatoria y Bachillerato
+    tags:
+    - educacion-secundaria-obligatoria
+    - bachillerato
+    - curriculo-eso
+    - curriculo-bachillerato
+    - competencias-clave
+    - evaluacion
+    - promocion
+    - titulacion
+    - optativas
+    - lomloe
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/D30_2023_establece_ordenacion_curriculo_educacion_secundaria_obligatoria_bachillerato_canarias.md
+    relaciones:
+      fundamentado_en:
+      - norma_id: norm-es-c-1978
+      - norma_id: norm-can-lo-1-2018
+      - norma_id: norm-es-lo-2-2006
+      - norma_id: norm-can-l-6-2014
+      - norma_id: norm-es-l-39-2015
+      desarrolla:
+      - norma_id: norm-es-rd-217-2022
+      - norma_id: norm-es-rd-243-2022
+      - norma_id: norm-es-lo-2-2006
   norm-can-o-2022-09-15:
     id: norm-can-o-2022-09-15
     codigo_sintetizado: Orden Evaluación EOI 2022
@@ -21168,48 +19940,62 @@ normas:
     - centros-concertados
     - canarias
     path: autonómica/canarias/05_alumnado_y_servicios_escolares/O20_6_2007_regulan_actividades_escolares_complementarias_extraescolares_centros_concertados.md
-  norm-can-o-25-2-2003:
-    id: norm-can-o-25-2-2003
-    codigo_sintetizado: O25_2_2003 Regulacion de Comedores Escolares
-    titulo: Orden de 25 de febrero de 2003, por la que se regula la organización y
-      funcionamiento de los comedores escolares en los centros docentes públicos no
-      universitarios dependientes de la Consejería de Educación, Cultura y Deportes.
+  norm-can-o-24-4-2009:
+    id: norm-can-o-24-4-2009
+    codigo_sintetizado: O24_4_2009 Procedimiento y Subvenciones de Comedores Escolares
+      en Canarias
+    titulo: Orden de 24 de abril de 2009, por la que se establece el procedimiento
+      de obtención de plazas y se aprueban las bases de concesión de subvenciones
+      para comedores escolares en los centros públicos docentes no universitarios,
+      dependientes de esta Consejería.
     jurisdiccion: Canarias
     ambito: Autonómico
     tipo_disposicion: Orden
-    fecha_publicacion: '2003-03-07'
+    fecha_publicacion: '2009-05-05'
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: texto_integro_boc
     categoria_canonica: 05_alumnado_y_servicios_escolares
-    subcategoria: Comedores y desayunos escolares
+    subcategoria: Servicios Escolares y Actividades Complementarias
     tags:
-    - admision-alumnado
-    - becas-y-ayudas
-    - comedor-escolar
     - comedores-escolares
-    - comedores-y-desayunos-escolares
-    - cuotas-subvenciones
-    - ensenanzas-deportivas
-    - evaluacion
-    - profesorado
+    - subvenciones-comedor
+    - plazas-comedor
     - servicios-complementarios
+    - centros-publicos
+    path: autonómica/canarias/05_alumnado_y_servicios_escolares/O24_4_2009_procedimiento_subvenciones_comedores_escolares_canarias.md
+    relaciones:
+      fundamentado_en:
+      - norma_id: norm-can-o-25-2-2003
+      - norma_id: norm-es-lo-2-2006
+      - norma_id: norm-can-l-6-2014
+  norm-can-o-25-2-2003:
+    id: norm-can-o-25-2-2003
+    codigo_sintetizado: O25_2_2003 Organizacion y Funcionamiento de Comedores Escolares
+      en Canarias
+    titulo: Orden de 25 de febrero de 2003, por la que se regula la organización y
+      funcionamiento de los comedores escolares en los centros públicos docentes no
+      universitarios dependientes de la Consejería de Educación, Cultura y Deportes,
+      y se establecen las bases de la convocatoria de plazas y ayudas con destino
+      a dicho servicio complementario.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2003-03-10'
+    estado: Vigente
+    redaccion: texto_integro_boc
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Servicios Escolares y Actividades Complementarias
+    tags:
+    - comedores-escolares
+    - servicios-complementarios
+    - centros-publicos
+    - organizacion-escolar
+    - ayudas-comedor
     path: autonómica/canarias/05_alumnado_y_servicios_escolares/O25_2_2003_regula_organizacion_funcionamiento_comedores_escolares_centros.md
     relaciones:
-      desarrolla:
-      - norma_id: norm-can-l-6-2014
-      - norma_id: norm-es-lo-2-2006
       fundamentado_en:
-      - norma_id: norm-can-d-276-1997
       - norma_id: norm-es-lo-2-2006
-      - norma_id: norm-es-l-39-2015
       - norma_id: norm-can-l-6-2014
-      fundamento_de:
-      - norma_id: norm-can-res-119
-      fundamentos_derecho:
-      - norma_id: norm-can-l-6-2014
-      articulos:
-      - norma_id: '57'
-      - norma_id: norm-can-d-276-1997
   norm-can-o-2007-03-27:
     id: norm-can-o-2007-03-27
     codigo_sintetizado: Orden Admisión 2007
