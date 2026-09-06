@@ -2,161 +2,602 @@
 id: norm-can-d-9-2022
 codigo_sintetizado: D9_2022 Admision del Alumnado en Canarias
 titulo: Decreto 9/2022, de 20 de enero, por el que se regula la admisión del alumnado
-  en los centros docentes públicos y privados concertados que imparten enseñanzas
-  no universitarias en la Comunidad Autónoma de Canarias.
+  en los centros docentes que oferten enseñanzas no universitarias sostenidas con
+  fondos públicos en la Comunidad Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Gobierno de Canarias / Consejería de Educación
+organo_emisor: Consejería de Educación, Universidades, Cultura y Deportes del Gobierno
+  de Canarias
 tipo_disposicion: Decreto
 numero_disposicion: 9/2022
 fecha_disposicion: '2022-01-20'
-fecha_publicacion: '2022-01-26'
+fecha_publicacion: '2022-01-28'
 boletin: BOC
-numero_boletin: '18'
+numero_boletin: '20'
 estado: Vigente
 redaccion: pdf_oficial_boc
-fuente_oficial: https://www.gobiernodecanarias.org/boc/2022/018/002.html
+fuente_oficial: https://www.gobiernodecanarias.org/boc/2022/020/001.html
+fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-020-298.pdf
 fuente_juriscan: https://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=81320
 clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión del alumnado
 tags:
-- admisi-n-del-alumnado
 - admision-alumnado
-- centros-concertados
-- criterios-baremacion
-- curriculo
-- ebep
-- ensenanzas-universitarias
-- equipos-directivos
 - escolarizacion
-- interinos
-- oposiciones
-- personal-no-docente
-- profesorado
+- criterios-baremacion
+- centros-concertados
+- neae
+- canarias
 relaciones:
-  fundamentado_en:
-  - norma_id: norm-es-c-1978
-    articulos_destino:
-    - Art. 117
-    - Art. 118
-  - norma_id: norm-can-d-84-2024
-    articulos_destino:
-    - Art. 68
-    disposiciones_destino:
-    - D. Adicional cuarta
-  - norma_id: norm-can-l-6-2014
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
-  concordancia:
-  - norma_id: norm-es-c-1978
-    articulos_destino:
-    - Art. 17
-    - Art. 118
-    - Art. 103
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
-  fundamento_de:
-  - norma_id: norm-can-res-boc-2024-049-109
-  - norma_id: norm-can-res-boc-2025-039-104
-  - norma_id: norm-can-res-boc-2025-047-107
-  - norma_id: norm-can-res-boc-2025-047-108
-  - norma_id: norm-can-res-boc-2026-039-102
-  - norma_id: norm-can-res-boc-2026-039-103
-  - norma_id: norm-can-res-boc-2026-039-111
-  fundamentos_derecho:
-  - norma_id: norm-can-l-6-2014
-  articulos:
-  - norma_id: '84'
-fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-018-273.pdf
+  - norm-es-lo-2-2006
+  fundamentado_en:
+  - norm-es-lo-2-2006
+  - norm-can-l-6-2014
+  - norm-es-l-39-2015
 ---
 
-# Decreto 9/2022, de 20 de enero, por el que se regula la admisión del alumnado en los centros docentes públicos y privados concertados que imparten enseñanzas no universitarias en la Comunidad Autónoma de Canarias.
+# Decreto 9/2022, de 20 de enero, por el que se regula la admisión del alumnado en los centros docentes que oferten enseñanzas no universitarias sostenidas con fondos públicos en la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
 
-Nombramientos, situaciones e incidencias 273 Servicio Canario de la Salud. Dirección Gerencia del Complejo Hospitalario Universitario de Canarias.- Resolución de 9 de julio de 2021, por la que se ejecuta la Sentencia de 10 de diciembre de 2020, recaída en el procedimiento abreviado nº 150/2020, del Juzgado de lo Contencioso-Administrativo nº 4 de Las Palmas de Gran Canaria, a instancias de Dña. María Remedios Acosta Machín. Visto el testimonio de Sentencia firme de fecha 10 de diciembre de 2020, dictada por el Juzgado de lo Contencioso-Administrativo nº 4 de Las Palmas de Gran Canaria, en relación con el recurso contencioso-administrativo nº 150/2020, seguido a instancias de Dña. María Remedios Acosta Machín, en materia de proceso selectivo, cuyo fallo estima parcialmente la demanda planteada por la parte actora, esta Dirección Gerencia, en virtud de las competencias delegadas por Resolución de 5 de septiembre de 2017, de la Dirección General de Recursos Humanos del Servicio Canario de la Salud (BOC nº 176, de 12.9.2017), dicta la presente Resolución, de acuerdo con los siguientes ANTECEDENTES DE HECHO
-Primero.- Que las Resoluciones de esta Dirección Gerencia nº 1198/2011, de 15 de noviembre (BOC nº 238, de 2.12.2011) (corrección de errores en el BOC nº 251, de 23.12.2011) y la nº 28/2012, de 13 de enero (BOC nº 20, de 30.1.2012), recogen las bases específicas de la convocatoria pública, para la provisión de plazas vacantes de personal laboral de carácter indefinido, devenidas de la Oferta de Empleo Público 2007 (BOC nº 49, de 12.3.2009), así como lo dispuesto en las bases genéricas (BOC nº 18, de 28.1.2004) y su modificación (BOC nº 49, de 12.3.2009).
-Segundo.- Que la Resolución de la Dirección Gerencia nº 1126/2019, de 12 de marzo (BOC nº 63, de 1.4.2019), resolvió declarar personal laboral fijo en la categoría de Técnico Especialista en Anatomía Patológica a las 3 candidatas seleccionadas con adjudicación de plaza y destino, dándose por concluido dicho proceso selectivo.
-Tercero.- Que la Resolución citada en el antecedente de hecho anterior fue recurrida en fecha 29 de noviembre de 2019 por Dña. María Remedios Acosta Machín, recayendo finalmente ante el Juzgado de lo Contencioso-Administrativo nº 4 de Las Palmas de Gran Canaria, cuya Sentencia nº 288/2020, de 10 de diciembre de 2020, estima parcialmente la demanda planteada por la actora, en la que se acuerda: "[…] la retroacción del procedimiento selectivo a fin de que, previo requerimiento de subsanación para la aportación de la documentación acreditativa de los cursos invocados, se proceda a una nueva valoración de los méritos de Dña. María Remedios en la que debe incluirse, en todo caso, la experiencia profesional acreditada con el certificado de servicios prestados del Hospital Universitario Nuestra Señora de la Candelaria […]".
-Cuarto.- Que en atención a lo anterior, con fecha 27 de enero de 2021, se publicó, en los tablones de anuncios del CHUC y en la dirección de Internet:
+Viernes 28 de enero de 2022
+I. Disposiciones generales
+Consejería de Educación, Universidades, Cultura y Deportes
+DECRETO 9/2022, de 20 de enero, por el que se regula la admisión del alumnado 
+en centros docentes que oferten enseñanzas no universitarias sostenidas con fondos 
+públicos en la Comunidad Autónoma de Canarias.
+PREÁMBULO
+El artículo 27 de la Constitución Española establece que todas las personas tienen el 
+derecho a la educación, y que los poderes públicos lo garantizan mediante una programación 
+general de la enseñanza, con participación efectiva de todos los sectores afectados y la 
+creación de centros docentes.
+En ese mismo sentido, la Ley Orgánica 1/2018, de 5 de noviembre, de reforma del 
+Estatuto de Autonomía de Canarias, establece que todas las personas tienen derecho a una 
+educación pública, gratuita, aconfesional y de calidad, prestando especial atención a la 
+educación infantil, en los términos de la ley, y que los poderes públicos canarios deberán 
+garantizar el acceso al sistema público de enseñanza de todas las personas en condiciones 
+de igualdad, no discriminación y atendiendo a criterios de accesibilidad universal, 
+determinando al efecto por ley los criterios y condiciones precisas. Esta misma norma, 
+en su artículo 133, establece que corresponde a la Comunidad Autónoma de Canarias 
+la competencia de desarrollo legislativo y de ejecución, en materia de enseñanza no 
+universitaria, con relación a las enseñanzas obligatorias y no obligatorias que conducen a la 
+obtención de un título académico o profesional con validez en todo el Estado, que incluye 
+el establecimiento y la regulación de los criterios de acceso a la educación, de admisión y 
+de escolarización del alumnado en los centros docentes.
+La Ley 6/2014, de 25 de julio, Canaria de Educación no universitaria, en su artículo 51, 
+establece que el Gobierno de Canarias regulará la admisión del alumnado en centros 
+públicos y privados concertados, de tal forma que se garantice el derecho a la educación 
+y el acceso en condiciones de igualdad y que, en todo caso, se atenderá a una adecuada y 
+equilibrada distribución entre los centros escolares de alumnado con necesidad específica 
+de apoyo educativo.
+Por su parte, la Ley Orgánica 2/2006, de 3 de mayo, de Educación modificada por la 
+Ley Orgánica 3/2020, de 29 de diciembre, establece que las Administraciones educativas 
+regularán la admisión de alumnos y alumnas en centros públicos y privados concertados 
+de tal forma que garantice el derecho a la educación, el acceso en condiciones de igualdad 
+y la libertad de elección de centro por padres, madres o tutores legales. Además, esta 
+Ley garantiza que todos los centros sostenidos con fondos públicos reciban los recursos 
+materiales y humanos necesarios para facilitar el desarrollo de los proyectos educativos. 
+En dicha regulación se dispondrán las medidas necesarias para evitar la segregación del 
+alumnado por motivos socioeconómicos o de otra naturaleza. La norma básica, entre otras 
+medidas, regula la atención especial que las Administraciones educativas deben prestar 
+a la escuela rural, proporcionándole los medios y sistemas organizativos necesarios para 
+atender a sus necesidades, y favoreciendo la permanencia en el sistema educativo de los 
+jóvenes de las zonas rurales más allá de la educación básica. En cuanto a la escolarización 
 
-http://www.gobiernodecanarias.org/sanidad/scs/ (Área de Salud/Tenerife/HUC), la Resolución de esta Dirección Gerencia nº 598/2021, de 2 de marzo, por la que se resolvió la designación nominal de los miembros Titulares y Suplentes, en el marco del presente proceso selectivo, para la provisión de 3 plazas vacantes de personal laboral de carácter indefinido de Técnico Especialista en Anatomía Patológica, Grupo C, 2, por turno de acceso libre y 1 por turno de reserva por minusvalía, en materia de ejecución de sentencia.
-Quinto.- Que con fecha 22 de abril de 2021, se reunió el Órgano de Selección designado en la presente convocatoria pública, para la provisión de 3 plazas vacantes de personal laboral de carácter indefinido de Técnico Especialista en Anatomía Patológica para este Complejo Hospitalario, en la que, atendiendo al fallo de la Sentencia de 10 de diciembre de 2020, del Juzgado de lo Contencioso-Administrativo nº 4 de Las Palmas de Gran Canaria, se aprobó realizar el requerimiento de subsanación a Dña. María Remedios Acosta Machín, otorgándole un plazo de 10 días hábiles, a los únicos efectos de subsanar la documentación aportada previamente por la interesada en el proceso selectivo, y a la que hace referencia el fallo de la mencionada sentencia.
-Sexto.- Que con fecha 24 de junio de 2021, se reunió el Órgano de Selección designado en la presente convocatoria pública, al objeto de dar cumplimiento a la ejecución de la Sentencia firme nº 288/2020, de 10 de diciembre de 2020, recaída en el procedimiento abreviado nº 150/2020, en cuya sesión se acordó, por unanimidad, en cumplimiento de la referida sentencia, retrotraer el proceso selectivo al momento de la fase de concurso, acordándose, por unanimidad, la nueva valoración del currículum profesional de Dña. María Remedios Acosta Machín, en los términos expuesto en el fallo de la referida sentencia. En este sentido, la recurrente obtuvo mayor puntuación final, y pasó a ostentar el puesto nº 1 en el listado de puntuaciones finales, manteniéndose las puntuaciones del resto de candidatos, que fueron acordadas en la sesión del día 22 de febrero de 2019 del Órgano de Selección. Por último, en el acuerdo quinto de la citada sesión, se acordó aprobar entre las candidatas seleccionadas a Dña. María Remedios Acosta Machín. FUNDAMENTOS DE DERECHO
-Primero.- Que el artículo 117.3 de la Constitución Española dispone que "El ejercicio de la potestad jurisdiccional en todo tipo de procesos, juzgando y haciendo ejecutar lo juzgado corresponde exclusivamente a los Jueces y Tribunales determinados por las leyes, según las normas de procedimiento y competencias que establezcan". Asimismo, el artículo 118 l.
+Viernes 28 de enero de 2022
+del alumnado con necesidad específica de apoyo educativo deberá estar regida por los 
+principios de inclusión y participación, calidad, equidad, no discriminación e igualdad 
+efectiva en el acceso y permanencia en el sistema educativo y accesibilidad universal para 
+todo el alumnado.
+Hasta este momento, el procedimiento de admisión venía regulado, en nuestra 
+comunidad autónoma, por el Decreto 61/2007, de 26 de marzo, por el que se regula la 
+admisión del alumnado de enseñanzas no universitarias en los centros docentes públicos y 
+privados concertados de la Comunidad Autónoma de Canarias, y la Orden de 27 de marzo 
+de 2007, de la Consejería de Educación, Cultura y Deportes, por la que se desarrolla el 
+procedimiento de admisión del alumnado en las enseñanzas no universitarias en los centros 
+docentes públicos y privados concertados de la Comunidad Autónoma de Canarias.
+La última modificación de la Ley Orgánica 2/2006, de 3 de mayo, supone un profundo 
+cambio en materia de admisión, tanto en los principios básicos que definen el procedimiento 
+de admisión, como en cuestiones concretas de dicho procedimiento. Así, se establecen 
+nuevos criterios de admisión a aplicar cuando no existan plazas suficientes, como el 
+nacimiento del alumnado en parto múltiple o en familia monoparental, la condición de 
+víctima de violencia de género o de actos de terrorismo, se limita la valoración de todos los 
+criterios, excepto el criterio de proximidad del domicilio, y se establecen nuevos criterios de 
+preferencia como la discapacidad sobrevenida de cualquiera de los miembros de la familia.
+Por otra parte, las competencias del Consejo Escolar, de la dirección del centro y de las 
+comisiones u órganos de garantía de admisión se modifican, y se establece la obligatoriedad 
+de dar audiencia a las administraciones locales en la determinación de las zonas de influencia 
+para garantizar la aplicación efectiva de los criterios prioritarios de proximidad al domicilio 
+y para que cubran en lo posible una población socialmente heterogénea.
+Por último, los cambios tecnológicos experimentados en los últimos años, que 
+posibilitan que las personas interesadas puedan relacionarse con la Administración a través 
+de medios electrónicos, el derecho de no aportar documentos que ya se encuentren en poder 
+de la Administración actuante o hayan sido elaborados por cualquier otra Administración, 
+y la obligación de la Administración de consultar o recabar dichos documentos, obligan a 
+recoger e instrumentar esas posibilidades en el marco jurídico existente.
+En la tramitación de este Decreto, se ha actuado conforme a los principios de necesidad, 
+eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia establecidos en el 
+artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de 
+las Administraciones Públicas, dado que, considerando el contenido y alcance de la materia 
+objeto de regulación, la adaptación normativa operada requiere la aprobación de una nueva 
+disposición, resultando insuficiente acudir a la mera modificación del Decreto 61/2007 
+referido. Asimismo, se garantizan los principios de proporcionalidad de la regulación y 
+de seguridad jurídica, asegurando su plena adaptación al resto del ordenamiento jurídico 
+básico. Además en la elaboración de la presente norma se han cumplimentado los trámites 
+de audiencia e información pública.
+En su virtud, a propuesta de la Consejera de Educación, Universidades, Cultura y 
+Deportes, previo informe del Consejo Escolar de Canarias, visto el dictamen del Consejo 
+Consultivo de Canarias y tras la deliberación del Gobierno en su reunión celebrada el día 
+20 de enero de 2022,
 
-mismo texto legal señala que "Es obligado cumplir las sentencias y demás resoluciones firmes de los Jueces y Tribunales, así como prestar la colaboración requerida por estos en el curso del proceso y en la ejecución de lo resuelto". Por su parte, el artículo 17.2 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, en concordancia con lo dispuesto en el artículo 118 de la Constitución Española, establece que las Administraciones Públicas cumplirán las sentencias y las demás resoluciones judiciales que hayan ganado firmeza o sean ejecutables de acuerdo con las leyes.
-Segundo.- Que en este sentido, el artículo 103 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, señala que "La potestad de hacer
+Viernes 28 de enero de 2022
 
-ejecutar las sentencias y demás resoluciones judiciales corresponde exclusivamente a los Juzgados y Tribunales de este orden jurisdiccion al, y su ejercicio compete al que haya conocido del asunto en primera o única instancia. Las partes están obligadas a cumplir las sentencias en la forma y términos que en estas se consignen. Todas las personas y entidades públicas y privadas están obligadas a prestar la colaboración requerida por los Jueces y Tribunales de lo Contencioso-Administrativo para la debida y completa ejecución de lo resuelto. […]". Asimismo, el artículo 104 l.
+## Texto Articulado
 
-mismo texto legal establece la obligación de ejecutar la sentencia por parte del órgano administrativo que hubiera realizado la actividad objeto de recurso.
-Tercero.- Que mediante el Decreto 382/2015, de 28 de diciembre, se aprobó el Reglamento Orgánico de la Consejería de Presidencia, Justicia e Igualdad (BOC nº 252, de 30 de diciembre), que modificó las competencias en materia de selección, provisión de puestos de trabajo y promoción interna del personal laboral adscrito a las instituciones sanitarias dependientes del Servicio Canario de la Salud, pasando a ser el órgano competente, en lugar de la Consejería de Presidencia, Justicia e Igualdad, la Dirección General de Recursos Humanos del Servicio Canario de la Salud, tal y como señala la Disposición adicional cuarta, apartado 2, en relación al artículo 68.1 del citado Decreto.
-Cuarto.- Que mediante la Resolución de 5 de septiembre de 2017, de la Dirección General de Recursos Humanos del Servicio Canario de la Salud (BOC nº 176, de 12.9.2017), se delegaron en esta Dirección Gerencia las competencias en materia de selección relativas exclusivamente a las pruebas selectivas de acceso a la condición de personal laboral fijo que derivan de la ampliación de la Oferta de Empleo Público de 2007, entre las cuales, la referente a "ejecutar las sentencias judiciales recaídas o que puedan recaer en las pruebas selectivas que derivan de la ampliación de la Oferta de Empleo Público de 2007". Por lo expuesto, y en virtud de la referida competencia delegada, esta Dirección Gerencia RESUELVE :
-Primero.- Proceder a la ejecución del fallo de la Sentencia de 10 de diciembre de 2020, dictada por el Juzgado de lo Contencioso-Administrativo nº 4 de Las Palmas de Gran Canaria, en el procedimiento abreviado nº 150/2020, atendiendo a las Actas del Órgano de Selección, reunido el 22 de abril de 2021 y el 24 de junio de 2021, llevándolo a efecto con la nueva valoración de los méritos de Dña. María Remedios Acosta Machín, en la que se ha incluido, en todo caso, la experiencia profesional acreditada con el certificado de servicios prestados del Hospital Universitario Nuestra Señora de la Candelaria, así como teniendo en consideración los documentos presentados por la interesada tras el requerimiento de subsanación realizado a la misma.
-Segundo.- Declarar personal laboral fijo en su correspondiente categoría a la nueva aspirante seleccionada con adjudicación de plaza y destino:
+D I S P O N G O:
 
-Ofra, s/n. La Cuesta. 38320 – San Cristóbal de La Laguna de 4 Telf.: 922 67 80 00
+CAPÍTULO I
+DISPOSICIONES GENERALES
+Artículo 1.- Objeto y ámbito de aplicación.
+El presente Decreto tiene por objeto regular la admisión del alumnado en centros 
+docentes que oferten enseñanzas no universitarias sostenidas con fondos públicos, en la 
+Comunidad Autónoma de Canarias, garantizando el derecho a la educación, el acceso en 
+condiciones de igualdad y la libertad de elección de centro por padres, madres, tutores o 
+tutoras legales o por el alumno o alumna mayor de edad.
+Artículo 2.- Principios generales.
+La escolarización del alumnado en las enseñanzas no universitarias se fundamenta en 
+los siguientes principios:
+a) El derecho a la educación, a elegir el tipo de educación y el centro docente, en el 
+marco de los principios constitucionales.
+b) La calidad de la educación para todo el alumnado, la equidad y el acceso en 
+condiciones de igualdad, sin que exista discriminación alguna por razón de nacimiento, 
+origen racial, étnico o geográfico, sexo, religión o creencias, opinión, discapacidad, 
+edad, enfermedad, orientación sexual o identidad de género o cualquier otra condición o 
+circunstancia personal o social.
+c) La participación del alumnado mayor de edad, así como de los padres, madres, 
+tutores o tutoras legales del alumnado menor de edad en las decisiones que afecten a la 
+escolarización de sus hijos e hijas.
+d) La escolarización del alumnado en situación de vulnerabilidad socioeducativa se 
+regirá por los principios de participación e inclusión y asegurará su no discriminación ni 
+segregación y la igualdad efectiva en el acceso y la permanencia en el sistema educativo.
+e) La adecuada y equilibrada escolarización del alumnado con necesidad específica 
+de apoyo educativo, con el fin de asegurar la calidad educativa, la cohesión social y la 
+igualdad de oportunidades.
+f) La atención a las peculiaridades del entorno educativo de las zonas rurales y de las 
+islas no capitalinas para favorecer la permanencia del alumnado en el sistema educativo, 
+más allá de la enseñanza básica.
+g) La simplificación administrativa para incrementar la eficacia, la eficiencia y la 
+seguridad del proceso administrativo, teniendo en cuenta los medios telemáticos disponibles 
+en cada momento, tanto para la ciudadanía como entre Administraciones públicas.
 
-competencias en materia de selección, provisión de puestos de trabajo y promoción interna del personal laboral adscrito a las instituciones sanitarias dependientes del Servicio Canario de la Salud, pasando a ser el órgano competente, en lugar de la Consejería de Presidencia, Justicia e Igualdad, la Dirección General de Recursos Humanos del Servicio Canario de la Salud, tal y como señala la Disposición Adicional Cuarta, apartado 2, en relación al artículo 68.1 del citado Decreto.
+Viernes 28 de enero de 2022
+Artículo 3.- Garantía del derecho a la educación.
+1. Se garantizará el ejercicio del derecho a la educación teniendo en cuenta la oferta 
+existente de centros públicos y la autorizada en los centros privados concertados, con la 
+participación efectiva de los sectores afectados, para atender los derechos y libertades y 
+la elección de todas las personas interesadas. La elaboración de la oferta conllevará una 
+adecuada y equilibrada escolarización del alumnado con necesidad específica de apoyo 
+educativo, como garantía de la equidad y calidad de la enseñanza.
+2. La Consejería competente en materia educativa promoverá un incremento progresivo 
+de puestos escolares en la red de centros de titularidad pública, debiendo garantizar la 
+existencia de plazas suficientes, especialmente en las zonas de nueva población, teniendo 
+en cuenta las consignaciones presupuestarias existentes y el principio de economía y 
+eficiencia en el uso de los recursos públicos.
+Artículo 4.- Garantía de la gratuidad.
+1. Los centros públicos o privados concertados no podrán percibir cantidad alguna de las 
+familias por recibir las enseñanzas de carácter gratuito, como garantía de la escolarización 
+a todo el alumnado sin discriminación por motivos socioeconómicos.
+2. Esta gratuidad implica no imponer a las familias la obligación de hacer aportaciones a 
+fundaciones o asociaciones ni establecer servicios obligatorios, asociados a las enseñanzas, 
+que requieran aportación económica por parte de las familias del alumnado.
+Artículo 5.- Requisitos de acceso.
+Para acceder a la enseñanza o curso correspondiente se deberán reunir los requisitos de 
+edad y, en su caso, los académicos u otros establecidos por la normativa vigente, sin que 
+de la aplicación de los criterios de admisión a un centro docente, regulados en el presente 
+Decreto, se pueda derivar modificación alguna que afecte a dichos requisitos.
+Artículo 6.- Información a las familias y alumnado.
+1. La Consejería competente en materia de educación pondrá a disposición de las familias 
+y alumnado, de forma universalmente accesible, la información relevante correspondiente 
+a todos los centros docentes no universitarios sostenidos con fondos públicos, al objeto de 
+favorecer la igualdad de oportunidades y promover la calidad y la adecuada elección de 
+centro.
+2. Los centros docentes sostenidos con fondos públicos facilitarán a las familias y 
+alumnado información sobre sus programas educativos, los recursos de que disponen y los 
+servicios que prestan.
+Artículo 7.- Adscripción de centros.
+1. La Administración educativa establecerá la adscripción de centros públicos que 
+impartan educación infantil, educación primaria o educación secundaria obligatoria, a 
+los centros públicos que impartan educación primaria, educación secundaria obligatoria 
 
-CUARTO.- Que mediante la Resolución de 5 de septiembre de 2017, de la Dirección General de Recursos Humanos del Servicio Canario de la Salud (BOC núm. 176, de 12 de septiembre de 2017), se delegó en esta Dirección Gerencia las competencias en materia de selección relativas exclusivamente a las pruebas selectivas de acceso a la condición de personal laboral fijo que derivan de la ampliación de la Oferta de Empleo Público de 2007, entre las cuales, la refere nte a " ejecutar las sentencias judiciales recaídas o que puedan recaer en las pruebas selectivas que derivan de la ampliación de la Oferta de Empleo Público de 2007".
+Viernes 28 de enero de 2022
+o bachillerato, respectivamente, para garantizar el derecho a la prioridad en la admisión de 
+su alumnado, cuando no existan plazas suficientes, respetando siempre la posibilidad de 
+libre elección de centro.
+2. Los centros públicos adscritos a otros centros públicos que impartan etapas diferentes 
+se considerarán centros únicos a efectos de aplicación de los criterios de admisión del 
+alumnado establecidos en el presente Decreto.
+3. En los centros docentes públicos que ofrezcan varias etapas educativas, el 
+procedimiento inicial de admisión se realizará al comienzo de la etapa que corresponda a 
+la menor edad.
+4. En el caso de los centros privados concertados, de acuerdo con sus personas titulares, 
+la Administración educativa determinará las condiciones para establecer, a estos mismos 
+efectos, la adscripción de unos centros privados concertados a otros.
+5. En los centros privados concertados que impartan varias etapas educativas, el 
+procedimiento inicial de admisión se realizará al comienzo de la oferta del curso que sea 
+objeto de concierto y que corresponda a la menor edad.
+Artículo 8.- Áreas de influencia.
+1. Para garantizar la igualdad en la aplicación del criterio de proximidad a un centro, 
+se establecerán, oídas las Administraciones locales, las áreas de influencia, que cubran en 
+lo posible una población socialmente heterogénea, teniendo en cuenta, como mínimo, los 
+siguientes criterios:
+a) Oferta educativa autorizada a los centros.
+b) Capacidad autorizada de escolarización a los centros.
+c) Número de centros y distancia entre ellos.
+d) Población escolar de su entorno.
+e) Características geográficas de la zona.
+f) Disponibilidad de transporte público.
+g) Eficiencia de los recursos públicos.
+2. Las áreas de influencia de los centros docentes, así como las limítrofes, serán las 
+mismas para los centros públicos y privados concertados de un mismo ámbito territorial, 
+en función de las enseñanzas que imparten y de los puestos escolares autorizados. Cuando 
+dos o más centros estén en condiciones de atender al mismo grupo de población escolar, se 
+podrá hacer coincidir total o parcialmente sus áreas de influencia.
+3. Se podrán establecer áreas de influencia que comprendan una o más islas para la 
+admisión en aquellas enseñanzas postobligatorias en que sea necesario.
 
-Por lo expuesto, y en virtud de la referida competencia delegada, esta Dirección Gerencia:
+Viernes 28 de enero de 2022
+4. En bachillerato, las áreas de influencia de cada centro se podrán fijar en función de 
+las modalidades que tengan autorizadas.
+5. En los casos de centros adscritos, estas áreas de influencia podrán referirse al centro 
+que imparta la etapa que corresponda a la menor edad.
+Artículo 9.- Zonas rurales.
+La Consejería competente en materia educativa garantizará al alumnado de la educación 
+primaria, un puesto escolar gratuito en su propio municipio o zona de escolarización 
+establecida.
+CAPÍTULO II
+PROCEDIMIENTO DE ADMISIÓN
+Artículo 10.- Convocatoria anual del procedimiento de admisión.
+Cada año se realizará la convocatoria del procedimiento de admisión del alumnado en 
+centros docentes no universitarios sostenidos con fondos públicos, con los calendarios de 
+admisión correspondientes.
+Artículo 11.- Solicitud de admisión.
+La admisión en un centro público o privado concertado exige la presentación de la 
+correspondiente solicitud de plaza por los padres, madres, tutores o tutoras legales o por el 
+propio alumnado mayor de edad, manifestando el orden de centros docentes y dirigida al 
+centro elegido en primer lugar, que la recibirá y tramitará.
+Artículo 12.- Medios electrónicos.
+1. Las personas participantes en el procedimiento podrán relacionarse con la 
+Administración a través de medios electrónicos, para lo que se pondrán a su disposición 
+los canales de acceso que sean necesarios así como los sistemas y aplicaciones que en cada 
+caso se determinen.
+2. La Administración educativa recabará los datos electrónicamente, a través de sus 
+redes corporativas o mediante consulta a las plataformas de intermediación de datos u otros 
+sistemas electrónicos habilitados al efecto.
+Artículo 13.- Prioridad en centros.
+1. Tendrá prioridad para continuar estudios de bachillerato en un centro, el alumnado 
+que se encuentre cursando enseñanzas conducentes al título de Graduado en Educación 
+Secundaria Obligatoria y solicite cursar bachillerato en el mismo centro o en el centro de 
+adscripción.
+2. La Administración educativa publicará los centros que impartan enseñanzas de 
+educación secundaria, para cuya admisión tendrán prioridad aquellos alumnos o alumnas 
 
-RESUELVE:
+Viernes 28 de enero de 2022
+que cursen simultáneamente enseñanzas regladas de música o danza y enseñanzas de 
+educación secundaria. El mismo tratamiento se aplicará al alumnado que siga programas 
+deportivos de alto rendimiento y curse enseñanzas de educación secundaria.
+Artículo 14.- Preferencia en la zona educativa.
+Tendrán preferencia en la zona educativa que corresponda al domicilio o al lugar de 
+trabajo, indistintamente, de alguno de sus padres, madres, tutores o tutoras legales, aquellos 
+alumnos y alumnas cuya escolarización en centros públicos o privados concertados venga 
+motivada por el traslado de la unidad familiar debido a la movilidad forzosa de cualquiera 
+de los padres, madres, tutores o tutoras legales, por la situación de discapacidad sobrevenida 
+de cualquiera de los miembros de la familia o por el cambio de residencia derivado de actos 
+de violencia de género.
+Artículo 15.- Escolarización del alumnado con necesidad específica de apoyo 
+educativo.
+1. En todas las enseñanzas que ofrece el sistema educativo se garantizará el acceso del 
+alumnado con necesidad específica de apoyo educativo con una adecuada y equilibrada 
+escolarización, con el fin de asegurar la calidad educativa para todos, la cohesión social y 
+la igualdad de oportunidades, y se regirá por los principios de normalización e inclusión. 
+Asimismo, se dispondrán de las medidas necesarias para evitar la segregación del alumnado 
+por razones socioeconómicas o de otra naturaleza.
+2. Se programará la oferta de plazas escolares del alumnado con necesidad específica de 
+apoyo educativo teniendo en cuenta, en particular, la atención y los recursos que requiere 
+este alumnado, de acuerdo con lo regulado en su normativa específica.
+3. Para facilitar la escolarización del alumnado con necesidad específica de apoyo 
+educativo, a saber, alumnado con necesidades educativas especiales derivada de 
+discapacidad, la Administración educativa deberá reservarle hasta el final del periodo de 
+preinscripción y matrículas, derivadas tanto de la evaluación ordinaria como extraordinaria, 
+una parte de las plazas de los centros públicos, de los Centros Ordinarios de Atención 
+Educativa Preferente (COAEP), y de las autorizadas a los centros privados concertados. 
+Dicha reserva podrá mantenerse hasta el inicio del curso escolar.
+4. Se establecerá una proporción equilibrada del alumnado con necesidad específica 
+de apoyo educativo que deba ser escolarizado en cada uno de los centros públicos y 
+privados concertados. Asimismo, se establecerán las medidas que se deban adoptar cuando 
+se concentre una elevada proporción de alumnado de tales características en un centro 
+educativo.
+5. El alumnado que solicite plaza por primera vez en educación infantil participará en el 
+procedimiento de admisión y se escolarizará en el centro que se le adjudique definitivamente. 
+En caso de que precise atención diferente a la ordinaria por presentar dificultades para una 
+óptima integración en la vida escolar, deberá acogerse a las medidas que acuerde el equipo 
+educativo, oídos sus padres, madres, tutores o tutoras legales y la Unidad de Atención 
+Temprana, sin perjuicio de ser escolarizado en otro centro si existiese dictamen que así lo 
+aconseje. La Consejería competente en materia de educación promoverá la escolarización 
 
-PRIMERO.- Proceder a la ejecución del fallo de la Sentencia de 10 de diciembre de 2020, dictada por el Juzgado de lo Contencioso -Administrativo N.º 4 de Las Palmas de Gran Canaria , en el Procedimiento Abreviado N.º 150/2020, atendiendo a las Actas del Órgano de Selección, reunido el 22 de abril de 2021 y el 24 de junio de 2021, llevándolo a efecto con la nueva valoración de los méritos de D.ª María Remedios Acosta Machín, en la que se ha incluido, en todo caso, la experiencia profesional acreditada con el certificado de servicios prestados del Hospital Universitario Nuestra Sra. de la Candelaria, así como teniendo en consideración los documentos presentados por la interesada tras el requerimiento de subsanación realizado a la misma.
+Viernes 28 de enero de 2022
+en la educación infantil del alumnado que presente necesidades educativas especiales y 
+desarrollará programas para su adecuada escolarización en los centros de educación 
+primaria y secundaria obligatoria.
+6. Para el alumnado con discapacidad que quiera acceder a los ciclos formativos de 
+formación profesional, se reservarán plazas, condicionadas a que dicha discapacidad no 
+suponga una merma de las condiciones psicofísicas ligadas a situaciones de seguridad y 
+salud propias del perfil profesional.
+7. Se favorecerá la incorporación al sistema educativo del alumnado que por proceder de 
+otros países o por cualquier otro motivo, se incorpore de forma tardía al sistema educativo 
+español, garantizándose, en todo caso, la incorporación en la edad de escolarización 
+obligatoria.
+Artículo 16.- Criterios de admisión.
+1. Cuando el número de solicitudes, en el nivel y centro solicitado en primer lugar, no 
+supere al número de vacantes ofertadas se adjudicará la plaza escolar, sin necesidad de 
+aplicar los criterios de admisión.
+2. Cuando el número de solicitudes presentadas en educación infantil, educación 
+primaria, educación secundaria obligatoria o bachillerato, en un centro docente, supere al 
+de vacantes ofertadas por dicho centro, se procederá a la baremación de todas las solicitudes 
+presentadas en el mismo, de conformidad con los siguientes criterios de admisión:
+1) Existencia de hermanos o hermanas matriculados en el centro.
+2) Proximidad al centro del domicilio o del lugar de trabajo de alguno de sus padres, 
+madres o tutores o tutoras legales.
+3) Existencia de padres, madres, tutores o tutoras legales que trabajen en el centro.
+4) Renta per cápita de la unidad familiar.
+5) Concurrencia de situación de discapacidad en el alumno o alumna o en alguno de sus 
+hermanos o hermanas, padres, madres o tutores o tutoras legales.
+6) Condición de víctima de violencia de género o de terrorismo.
+7) Condición legal de familia numerosa.
+8) Alumnado nacido de parto múltiple.
+9) Condición de familia monoparental.
+10) Situación de acogimiento familiar del alumno o la alumna.
+3. El Consejo Escolar podrá otorgar un valor adicional a cualquiera de los anteriores 
+criterios, previa publicación en el tablón de anuncios del centro educativo.
 
-SEGUNDO.- Declarar personal laboral fijo en su correspondiente categoría a la nueva aspirante seleccionada con adjudicación de plaza y destino:
+Viernes 28 de enero de 2022
+4. Ninguno de estos criterios de admisión tendrá carácter excluyente ni podrá suponer 
+más del 30% del total de la puntuación máxima, salvo la proximidad al domicilio que podrá 
+superar ese límite.
+5. En ningún caso las características propias de un centro o de su oferta educativa, 
+tales como las derivadas del hecho de que el centro imparta enseñanzas plurilingües, de 
+que hubiera tenido reconocida una especialización curricular o hubiera participado en una 
+acción destinada a fomentar la calidad, podrán suponer modificación de los criterios de 
+admisión.
+Artículo 17.- Condiciones específicas de admisión del alumnado en etapas 
+postobligatorias.
+1. En la admisión del alumnado de bachillerato se aplicará, además de los criterios de 
+admisión previstos en el artículo anterior, el expediente académico del alumnado.
+2. La admisión del alumnado que quiera cursar enseñanzas de formación profesional, 
+enseñanzas elementales y profesionales de música y danza, enseñanzas profesionales de 
+artes plásticas y diseño, enseñanzas de idiomas, enseñanzas deportivas, y educación de 
+personas adultas, se regirá por la normativa específica prevista al efecto.
+3. En la oferta a distancia, se podrán establecer criterios específicos adicionales en 
+relación con las situaciones personales y laborales de las personas adultas.
+CAPÍTULO III
+GARANTÍAS DEL PROCEDIMIENTO DE ADMISIÓN
+Sección 1ª
+Dirección del centro docente, Consejo Escolar y Consejo Social
+Artículo 18.- Atribuciones de la dirección del centro público o de las personas 
+titulares de los centros privados concertados.
+1. La dirección del centro público o, en su caso, la persona titular de los centros privados 
+concertados, tendrá las siguientes atribuciones en el procedimiento de admisión:
+a) Informar sobre las características del centro en lo referente, como mínimo, a la oferta 
+que imparte, de acuerdo con las etapas autorizadas y el plan de oferta de enseñanza con 
+que cuenta, los servicios escolares, los turnos y, si es el caso, el carácter propio del centro 
+educativo.
+b) Publicar antes del inicio del plazo de presentación de solicitudes, entre otros, los 
+puestos escolares vacantes en función de los grupos autorizados y las áreas de influencia.
+c) Velar sobre la admisión del alumnado dentro del cumplimiento de las normas de 
+admisión.
 
-Categoría: TÉCNICO ESPECIALISTA EN ANATOMÍA PATOLÓGICA. Turno: ACCESO LIBRE. Plaza: TÉCNICO ESPECIALISTA EN ANATOMÍA PATOLÓGICA. Grupo de Clasificación Profesional: C Destino: Dirección Gerencia del Complejo Hospitalario Universitario de Canarias. N.º APELLIDO 1 APELLIDO 2 NOMBRE DNI 1 ACOSTA MACHIN MARÍA REMEDIOS **1*232*
+Viernes 28 de enero de 2022
+d) Remitir a la Comisión de Admisión correspondiente todas las solicitudes y 
+reclamaciones no atendidas, así como la información y documentación que precise para el 
+ejercicio de sus funciones.
+e) Coordinarse, siempre que fuera preciso, con la Comisión de Admisión.
+f) Comprobar y custodiar la documentación presentada, y ser informada de la 
+adjudicación de los puestos escolares vacantes conforme a las puntuaciones obtenidas.
+2. La dirección del centro público o la persona titular de los centros privados 
+concertados deberá facilitar al Consejo Escolar o Consejo Social del centro la información 
+y la documentación que este precise para cumplir sus funciones.
+Artículo 19.- Atribuciones del Consejo Escolar y del Consejo Social.
+Los Consejos Escolares de los centros públicos y de los centros privados concertados, 
+y los Consejos Sociales de los centros integrados de formación profesional, tendrán las 
+siguientes atribuciones:
+a) Colaborar para que el procedimiento de admisión del alumnado se realice según lo 
+establecido en las normas.
+b) Determinar el criterio de admisión correspondiente al Consejo Escolar, en su caso.
+c) Decidir la resolución de las reclamaciones presentadas en el centro público e informar 
+en el centro privado concertado para el que se solicita plaza.
+Sección 2ª
+Comisiones de admisión
+Artículo 20.- Comisiones de admisión.
+1. A fin de garantizar el cumplimiento de las normas sobre admisión del alumnado y 
+resolver las incidencias sobre escolarización, se nombrarán, al inicio del procedimiento, 
+tantas comisiones de admisión como sean necesarias.
+2. Las comisiones de admisión tendrán, como mínimo, la siguiente composición, 
+debiendo promover el principio de representación equilibrada de mujeres y hombres, y 
+serán designadas por las organizaciones de estos colectivos o instituciones:
+a) Un inspector o inspectora de educación, que la presidirá.
+b) Las directoras o directores de los centros educativos públicos y titulares de los 
+centros privados concertados, del ámbito territorial de la Comisión de Admisión.
+c) Una persona representante de los padres, madres, tutores o tutoras legales del 
+alumnado que sea miembro de los Consejos Escolares de los centros del ámbito de la 
+comisión.
 
-TERCERO.- Mantener como candidatas seleccionadas en la presente convocatoria a las aspirantes D.ª Cristina López Álvarez (*6**39*7) y a D.ª Inmaculada Machín Jiménez (44****21), declaradas personal laboral fijo en la categoría de Técnico Especialista en Anatomía Patológica, Grupo C, mediante la Resolución de 11 de marzo de 2019 de la Dirección Gerencia de este Complejo Hospitalario Univer sitario de Canarias (BOC núm. 63, de 1 de abril de 2019).
+Viernes 28 de enero de 2022
+d) Una persona representante del profesorado que sea miembro de alguno de los 
+Consejos Escolares de los centros del ámbito de la comisión.
+e) Una persona representante de las Administraciones locales del ámbito territorial de 
+la comisión.
+f) Una persona representante del alumnado, en su caso.
+3. Corresponde a las comisiones de admisión:
+a) Supervisar el desarrollo del procedimiento de admisión y el cumplimiento de las 
+normas que lo regulan, especialmente las relativas a evitar la segregación del alumnado por 
+motivos socioeconómicos o de otra naturaleza.
+b) Recabar y recibir de los centros de su ámbito toda la información y documentación 
+precisa para el ejercicio de sus funciones, así como de los ayuntamientos o de los servicios 
+de la Consejería competente en materia educativa.
+c) Velar por la presencia equilibrada del alumnado con necesidad específica de apoyo 
+educativo o que se encuentre en situación socioeconómica desfavorecida entre los centros 
+sostenidos con fondos públicos de su ámbito de actuación.
+d) Informar sobre la escolarización del alumnado con necesidad específica de apoyo 
+educativo a efectos de su adecuada integración y atención.
+e) Gestionar la escolarización del alumnado de educación infantil, educación básica 
+y bachillerato, que no haya obtenido plaza en ninguno de los centros solicitados o cuya 
+solicitud haya sido excluida. A tal efecto, informarán a los padres, madres, tutores o tutoras.
+f) Gestionar las solicitudes que le sean presentadas.
+g) Informar a los centros docentes de las solicitudes de admisión que les afecten.
+h) Proponer las medidas que estimen adecuadas para un mejor desarrollo del proceso 
+de admisión de alumnos y alumnas.
+i) Otras funciones que se establezcan por la Consejería competente en materia de 
+educación.
+CAPÍTULO IV
+RECURSOS
+Artículo 21.- Recursos.
+1. Contra las decisiones definitivas de admisión, las personas interesadas podrán 
+presentar recurso de alzada, en el plazo de un mes ante la Dirección Territorial de Educación 
+que corresponda, cuya resolución pondrá fin a la vía administrativa.
 
-CUARTO.- La nueva adjudicataria de plaza dispondrá de un plazo de 30 días naturales, para formalizar el contrato de trabajo fijo, contado a partir del día siguiente al de la notificación de esta Resolución.
+Viernes 28 de enero de 2022
+2. La Administración resolverá y notificará en el plazo máximo de tres meses, teniendo 
+en cuenta el calendario anual de comienzo de actividades lectivas para una adecuada 
+escolarización del alumnado.
+CAPÍTULO V
+MATRÍCULA
+Artículo 22.- Proyecto educativo.
+La matriculación del alumnado en un centro público o privado concertado supondrá 
+respetar su proyecto educativo y normas de organización y funcionamiento, de conformidad 
+con los derechos del alumnado y su familia reconocidos en la Constitución y en las leyes.
+Artículo 23.- Matrícula.
+La adjudicación de plaza escolar en un centro docente se formalizará mediante la 
+matrícula. En caso de no llevarse a efecto dicha matrícula en el plazo establecido, se 
+perderá el derecho de admisión en la plaza adjudicada, salvo en el supuesto de tratarse de 
+una enseñanza básica, en cuyo caso la Administración educativa garantizará de oficio la 
+escolarización del alumno o alumna en un centro en el que exista plaza vacante.
+CAPÍTULO VI
+MATRÍCULA INICIADO EL CURSO ESCOLAR
+Artículo 24.- Alumnado no escolarizado y cambios de centro.
+La matriculación de alumnado en los centros públicos y privados concertados, una 
+vez iniciado el curso escolar, será autorizado por el director o directora del centro previa 
+existencia de plazas vacantes y de acuerdo con los grupos autorizados, en los supuestos de 
+alumnado no escolarizado, de cambio de centro como consecuencia de cambio de domicilio 
+que genere problemas de desplazamiento o de incorporación del padre, la madre, el tutor 
+o tutora legal o, en su caso, del alumno o la alumna a un puesto de trabajo en otro lugar 
+distinto al de su residencia que ocasione problemas de desplazamiento, de conformidad con 
+la normativa de organización y funcionamiento de los centros docentes.
+Artículo 25.- Escolarización o cambio de centro urgente o excepcional.
+La Dirección Territorial de Educación, dentro de su ámbito y una vez iniciado el curso 
+escolar, adoptará las medidas precisas para asegurar la escolarización del alumnado en los 
+siguientes supuestos:
+1. Cambios de centros derivados de actos de violencia:
+a) De las alumnas que sean víctimas de violencia de género, así como de los hijos e 
+hijas de madres víctimas de violencia de género.
+b) De las alumnas o alumnos que han padecido o padecen acoso escolar.
 
-_jWfj COPIA ELECTRÓNICA AUTÉNTICA DE DOCUMENTO PÚBLICO ADMINISTRATIVO EN PAPEL Expedido por: MARIA DEL CARMEN GIL MARQUEZ - GR.AUX.ADMTVO.FUNCION ADMINISTRATIVA Tercero.- Mantener como candidatas seleccionadas en la presente convocatoria a las aspirantes Dña. Cristina López Álvarez (*6**39*7) y a Dña. Inmaculada Machín Jiménez (44****21), declaradas personal laboral fijo en la categoría de Técnico Especialista en Anatomía Patológica, Grupo C, mediante la Resolución de 11 de marzo de 2019 de la Dirección Gerencia de este Complejo Hospitalario Universitario de Canarias (BOC nº 63, de 1.4.2019).
-Cuarto.- La nueva adjudicataria de plaza dispondrá de un plazo de 30 días naturales, para formalizar el contrato de trabajo fijo, contado a partir del día siguiente al de la notificación de esta Resolución.
-Quinto.- Quedará sin efecto el nombramiento y anuladas las actuaciones, salvo casos de imposibilidad suficientemente acreditada, si se produjera alguno de los supuestos del apartado 2 de la base novena de las genéricas. Contra la presente Resolución, que se dicta en ejecución de sentencia judicial firme, no cabe recurso alguno, sin perjuicio de las acciones que las personas interesadas pudieran promover ante el órgano competente. San Cristóbal de La Laguna, a 9 de julio de 2021.- La Directora Gerente, María Mercedes Cueto Serrano.
+Viernes 28 de enero de 2022
+La solicitud de cambio de centro se podrá realizar en cualquier momento, sin necesidad 
+de participar en ningún procedimiento de admisión, y se exigirá el máximo sigilo y 
+confidencialidad en la custodia, transmisión o tratamiento de la información derivada del 
+cambio de centro. La Dirección Territorial de Educación que corresponda escolarizará de 
+forma inmediata a este alumnado en el centro público o privado concertado más adecuado, 
+pudiendo requerir de los servicios concurrentes los informes que estime necesarios y, en 
+todo caso, previa consulta a la Inspección de Educación.
+2. Cambio de centro durante el curso escolar como consecuencia de la aplicación de la 
+normativa de convivencia en el ámbito educativo.
+3. Cambio de centro por circunstancias objetivas, debidamente justificadas, y que 
+revistan carácter urgente o excepcional.
+Disposición adicional primera.- Código de identificación del alumnado.
+A todo el alumnado que se incorpore por primera vez a un centro docente público 
+o privado, concertado o no, del ámbito de la Comunidad Autónoma de Canarias, se le 
+asignará el Código de Identificación del Alumnado (CIAL), previa constatación documental 
+de los datos exigibles por la Secretaría de cada centro, de acuerdo con el procedimiento que 
+se determine. Este código tendrá carácter único, personal e intransferible durante toda su 
+trayectoria académica no universitaria.
+Disposición adicional segunda.- Custodia de expedientes.
+Los expedientes del procedimiento de admisión deben custodiarse y conservarse por 
+los centros, por las comisiones de admisión o por la Administración educativa, según 
+corresponda, garantizando su protección y confidencialidad, durante un año, una vez 
+finalizado el curso académico correspondiente.
+Disposición adicional tercera.- Protección de datos de carácter personal.
+En relación con los datos de carácter personal de las personas interesadas en los 
+procedimientos que se regulan en el presente Decreto se aplicará lo establecido en el 
+Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo de 27 de abril de 2016, 
+relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos 
+personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE 
+(Reglamento General de Protección de Datos), en la Ley Orgánica 3/2018, de 5 de diciembre, 
+de Protección de Datos Personales y garantía de los derechos digitales, y en la Disposición 
+adicional vigesimotercera de la Ley Orgánica 2/2006, de 3 de mayo, o normas que las sustituyan.
+Disposición adicional cuarta.- Incumplimiento de normas.
+1. La dirección del centro público para el que se solicita plaza deberá velar porque 
+el procedimiento de admisión se realice según lo establecido en el presente Decreto y en 
+el resto de normativa de aplicación en esta materia. En los centros privados concertados 
+corresponde esta competencia a sus titulares.
 
-## Relaciones Normativas y Fundamentos de Derecho
+Viernes 28 de enero de 2022
+2. La infracción de las normas del procedimiento de admisión del alumnado por parte de 
+empleados o empleadas públicas dará lugar a la apertura del correspondiente procedimiento 
+administrativo que determine las responsabilidades en que hubiera podido incurrirse.
+3. En los centros privados concertados el incumplimiento de esta normativa por las 
+personas titulares de los mismos dará lugar a las sanciones previstas en el artículo 62 de la 
+Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, o normativa 
+que la sustituya.
+Disposición adicional quinta.- Escuelas de Educación Infantil.
+Las Escuelas de Educación Infantil de titularidad municipal podrán añadir a los criterios 
+de admisión establecidos en el presente Decreto otros criterios de admisión objetivos y con 
+adecuada justificación, siempre que no superen el 30% del total de la puntuación máxima.
+Disposición adicional sexta.- Admisión del alumnado en enseñanzas artísticas 
+superiores.
+La admisión del alumnado en las enseñanzas artísticas superiores en centros sostenidos 
+con fondos públicos se regirá por la normativa específica que se dicte al efecto, actuando 
+el presente Decreto como norma supletoria para aquellos supuestos no regulados o 
+contemplados en aquella.
+Disposición adicional séptima.- Centros privados no concertados.
+Los centros educativos privados no concertados deberán facilitar a la Consejería 
+competente en materia educativa los datos sobre el proceso de admisión y matrícula del 
+alumnado que se les requiera.
+Disposición derogatoria única.- Derogación normativa.
+Queda derogada toda norma de igual o inferior rango que se oponga o contradiga lo 
+dispuesto en el presente Decreto y, en particular, las siguientes:
+a) Decreto 61/2007, de 26 de marzo, por el que se regula la admisión del alumnado de 
+enseñanzas no universitarias en los centros docentes públicos y privados concertados de la 
+Comunidad Autónoma de Canarias.
+b) Orden de 27 de marzo de 2007, de la Consejería de Educación, Cultura y Deportes, 
+por la que se desarrolla el procedimiento de admisión del alumnado en las enseñanzas no 
+universitarias en los centros docentes públicos y privados concertados de la Comunidad 
+Autónoma de Canarias.
+Disposición transitoria única.- Áreas de influencia.
+Hasta tanto se establezcan las nuevas áreas de influencia previstas en este Decreto, 
+serán de aplicación las establecidas de acuerdo con la normativa anterior.
 
-### Relaciones Directas
-
-- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
-- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-- **Fundamento de**: [**Resolucion BOC 109**](./R27_2_2024_dgacesc_dictan_instrucciones_proceso_admision_alumnado.md)
-- **Fundamento de**: [**Resolucion BOC 104**](./R17_2_2025_escolarizacion_servicios_complementarios_dictan_instrucciones_especificas.md)
-- **Fundamento de**: [**Resolucion BOC 107**](./R24_2_2025_convoca_procedimiento_admision_alumnado_ciclos_formativos.md)
-- **Fundamento de**: [**Resolucion BOC 108**](./R24_2_2025_dictan_instrucciones_proceso_admision_alumnado_ciclos.md)
-- **Fundamento de**: [**Resolucion BOC 102**](./R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md)
-- **Fundamento de**: [**Resolucion BOC 103**](./R13_2_2026_dictan_instrucciones_proceso_admision_alumnado_ciclos.md)
-- **Fundamento de**: [**Resolucion BOC 111**](./R5_2_2026_dgacesc_convoca_procedimiento_admision_alumnado_centros.md)
-
-### Fundamentos de Derecho
-
-- [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
-- [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+Viernes 28 de enero de 2022
+Disposición final primera.- Habilitación para el desarrollo.
+Se faculta al Consejero o Consejera competente en materia educativa para dictar las 
+disposiciones que sean precisas para el desarrollo y aplicación del presente Decreto.
+Disposición final segunda.- Entrada en vigor.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín 
+Oficial de Canarias.
+Dado en Canarias, a 20 de enero de 2022.
+EL PRESIDENTE
+DEL GOBIERNO,
+Ángel Víctor Torres Pérez.
+LA CONSEJERA DE EDUCACIÓN,
+UNIVERSIDADES, CULTURA Y DEPORTES, 
+Manuela de Armas Rodríguez.
 
 ---
 
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Estructura y Concordancias Granulares
-- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-- **Fundamentado en**: `norm-es-c-1978` (Art. 117, Art. 118)
-- **Fundamentado en**: [**D84_2024 ROC Consejeria de Educacion Canarias**](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md) (Art. 68, D. Adicional cuarta)
-- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
-- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
-- **Fundamento de**: [**Resolucion BOC 109**](./R27_2_2024_dgacesc_dictan_instrucciones_proceso_admision_alumnado.md)
-- **Fundamento de**: [**Resolucion BOC 104**](./R17_2_2025_escolarizacion_servicios_complementarios_dictan_instrucciones_especificas.md)
-- **Fundamento de**: [**Resolucion BOC 107**](./R24_2_2025_convoca_procedimiento_admision_alumnado_ciclos_formativos.md)
-- **Fundamento de**: [**Resolucion BOC 108**](./R24_2_2025_dictan_instrucciones_proceso_admision_alumnado_ciclos.md)
-- **Fundamento de**: [**Resolucion BOC 102**](./R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md)
-- **Fundamento de**: [**Resolucion BOC 103**](./R13_2_2026_dictan_instrucciones_proceso_admision_alumnado_ciclos.md)
-- **Fundamento de**: [**Resolucion BOC 111**](./R5_2_2026_dgacesc_convoca_procedimiento_admision_alumnado_centros.md)
-- **En concordancia con**: `norm-es-c-1978` (Art. 17, Art. 118, Art. 103)
+- **Desarrolla**: [**LO2_2006 Ley Orgánica de Educación**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO2_2006 Ley Orgánica de Educación**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**Ley 39/2015 del Procedimiento Administrativo Común**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

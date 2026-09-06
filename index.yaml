@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 618
+total_normas: 626
 normas:
   norm-and-d154-2022:
     id: norm-and-d154-2022
@@ -3594,6 +3594,96 @@ normas:
     - certificacion-idiomas
     - ensenanzas-regimen-especial
     path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/O15_9_2022_regula_evaluacion_alumnado_ensenanzas_idiomas_pruebas_certificacion.md
+  norm-can-o-2018-03-16-musica-elemental:
+    id: norm-can-o-2018-03-16-musica-elemental
+    codigo_sintetizado: O16_3_2018 Ordenacion y Curriculo Ensenanzas Elementales de
+      Musica Canarias
+    titulo: Orden de 16 de marzo de 2018, por la que se establece la ordenación y
+      el currículo de las enseñanzas elementales de música en el ámbito de la Comunidad
+      Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2018-03-23'
+    estado: Vigente
+    redaccion: pdf_oficial_boc
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas artísticas y música
+    tags:
+    - ensenanzas-elementales-musica
+    - curriculo-musica
+    - conservatorios
+    - pruebas-acceso-musica
+    - canarias
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/O16_3_2018_ordenacion_curriculo_ensenanzas_elementales_musica_canarias.md
+  norm-can-o-2022-10-20-ebpa:
+    id: norm-can-o-2022-10-20-ebpa
+    codigo_sintetizado: O20_10_2022 Oferta y Evaluacion Educacion Basica Personas
+      Adultas EBPA Canarias
+    titulo: Orden de 20 de octubre de 2022, por la que se regulan la oferta educativa
+      y la evaluación de las enseñanzas que integran la Educación Básica de Personas
+      Adultas en la Comunidad Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2022-10-31'
+    estado: Vigente
+    redaccion: pdf_oficial_boc
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación de personas adultas
+    tags:
+    - ebpa
+    - educacion-personas-adultas
+    - evaluacion
+    - curriculo-adultos
+    - ensenanzas-basicas
+    - canarias
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/O20_10_2022_oferta_educativa_evaluacion_educacion_basica_personas_adultas_canarias.md
+  norm-can-o-2016-09-21-acreditacion-idiomas:
+    id: norm-can-o-2016-09-21-acreditacion-idiomas
+    codigo_sintetizado: O21_9_2016 Reconocimiento Acreditacion Competencia Linguistica
+      MCERL Canarias
+    titulo: Orden de 21 de septiembre de 2016, por la que se regula el reconocimiento
+      de la acreditación de la competencia lingüística conforme al Marco Común Europeo
+      de Referencia para las Lenguas en la Comunidad Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2016-09-30'
+    estado: Vigente
+    redaccion: pdf_oficial_boc
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Idiomas y bilingüismo
+    tags:
+    - competencia-linguistica
+    - mcerl
+    - certificaciones-idiomas
+    - lenguas-extranjeras
+    - canarias
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/O21_9_2016_reconocimiento_acreditacion_competencia_linguistica_mcerl_canarias.md
+  norm-can-o-2007-11-07-evaluacion-basica:
+    id: norm-can-o-2007-11-07-evaluacion-basica
+    codigo_sintetizado: O7_11_2007 Regulacion Evaluacion y Promocion Ensenanza Basica
+      Canarias
+    titulo: Orden de 7 de noviembre de 2007, por la que se regula la evaluación y
+      promoción del alumnado que cursa la enseñanza básica y se establecen los requisitos
+      para la obtención del título de Graduado en Educación Secundaria Obligatoria.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2007-11-23'
+    estado: Vigente
+    redaccion: pdf_oficial_boc
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Evaluación y promoción
+    tags:
+    - evaluacion-primaria
+    - evaluacion-eso
+    - ensenanza-basica
+    - promocion
+    - titulacion-eso
+    - canarias
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/O7_11_2007_regulacion_evaluacion_promocion_ensenanza_basica_canarias.md
   norm-can-res-027:
     id: norm-can-res-027
     codigo_sintetizado: Resolucion BOC 27
@@ -5110,6 +5200,29 @@ normas:
     - profesorado
     - seleccion-directores
     path: autonómica/canarias/04_organizacion_escolar_y_funcionamiento/D106_2009_regula_funcion_directiva_centros_docentes_publicos.md
+  norm-can-d-224-2017-roc-cifp:
+    id: norm-can-d-224-2017-roc-cifp
+    codigo_sintetizado: D224_2017 ROC Centros Integrados de Formacion Profesional
+      CIFP Canarias
+    titulo: Decreto 224/2017, de 13 de noviembre, por el que se aprueba el Reglamento
+      de organización y funcionamiento de los centros integrados de formación profesional
+      en la Comunidad Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2017-11-20'
+    estado: Vigente
+    redaccion: pdf_oficial_boc
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Reglamentos orgánicos de centros (ROC)
+    tags:
+    - cifp
+    - centros-integrados
+    - formacion-profesional
+    - reglamento-organico
+    - organizacion-centros
+    - canarias
+    path: autonómica/canarias/04_organizacion_escolar_y_funcionamiento/D224_2017_reglamento_organizacion_funcionamiento_centros_integrados_fp_canarias.md
   norm-can-d-234-1996:
     id: norm-can-d-234-1996
     codigo_sintetizado: D234_1996 Regulacion de AMPAS y Federaciones en Canarias
@@ -5660,30 +5773,23 @@ normas:
     id: norm-can-d-9-2022
     codigo_sintetizado: D9_2022 Admision del Alumnado en Canarias
     titulo: Decreto 9/2022, de 20 de enero, por el que se regula la admisión del alumnado
-      en los centros docentes públicos y privados concertados que imparten enseñanzas
-      no universitarias en la Comunidad Autónoma de Canarias.
+      en los centros docentes que oferten enseñanzas no universitarias sostenidas
+      con fondos públicos en la Comunidad Autónoma de Canarias.
     jurisdiccion: Canarias
     ambito: Autonómico
     tipo_disposicion: Decreto
-    fecha_publicacion: '2022-01-26'
+    fecha_publicacion: '2022-01-28'
     estado: Vigente
     redaccion: pdf_oficial_boc
     categoria_canonica: 05_alumnado_y_servicios_escolares
     subcategoria: Admisión del alumnado
     tags:
-    - admisi-n-del-alumnado
     - admision-alumnado
-    - centros-concertados
-    - criterios-baremacion
-    - curriculo
-    - ebep
-    - ensenanzas-universitarias
-    - equipos-directivos
     - escolarizacion
-    - interinos
-    - oposiciones
-    - personal-no-docente
-    - profesorado
+    - criterios-baremacion
+    - centros-concertados
+    - neae
+    - canarias
     path: autonómica/canarias/05_alumnado_y_servicios_escolares/D9_2022_regula_admision_alumnado_centros_docentes_publicos.md
   norm-can-ins-2016-001:
     id: norm-can-ins-2016-001
@@ -5870,6 +5976,53 @@ normas:
     - servicios-complementarios
     - transporte-escolar
     path: autonómica/canarias/05_alumnado_y_servicios_escolares/O2_8_2006_aprueban_bases_regulan_prestacion_servicio_transporte.md
+  norm-can-o-2022-03-03-desarrollo-admision:
+    id: norm-can-o-2022-03-03-desarrollo-admision
+    codigo_sintetizado: O3_3_2022 Desarrollo Admision Alumnado Canarias
+    titulo: Orden de 3 de marzo de 2022, por la que se desarrolla el Decreto 9/2022,
+      de 20 de enero, que regula la admisión del alumnado en centros docentes que
+      oferten enseñanzas no universitarias sostenidas con fondos públicos en la Comunidad
+      Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2022-03-10'
+    estado: Vigente
+    redaccion: pdf_oficial_boc
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión del alumnado
+    tags:
+    - admision-alumnado
+    - procedimiento-admision
+    - criterios-baremo
+    - calendario-escolarizacion
+    - centros-concertados
+    - canarias
+    path: autonómica/canarias/05_alumnado_y_servicios_escolares/O3_3_2022_desarrollo_procedimiento_admision_alumnado_centros_docentes_canarias.md
+  norm-can-o-2012-11-05-prestamo-libros:
+    id: norm-can-o-2012-11-05-prestamo-libros
+    codigo_sintetizado: O5_11_2012 Sistema Prestamo Libros Texto y Material Didactico
+      Canarias
+    titulo: Orden de 5 de noviembre de 2012, por la que se regula el sistema de préstamo
+      de libros de texto o adquisición de libros de texto y materiales didácticos
+      al alumnado matriculado en centros docentes sostenidos con fondos públicos que
+      curse enseñanzas obligatorias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2012-11-30'
+    estado: Vigente
+    redaccion: pdf_oficial_boc
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Servicios escolares y ayudas
+    tags:
+    - prestamo-libros
+    - materiales-didacticos
+    - banco-de-libros
+    - ayudas-alumnado
+    - ensenanza-obligatoria
+    - canarias
+    path: autonómica/canarias/05_alumnado_y_servicios_escolares/O5_11_2012_sistema_prestamo_adquisicion_libros_texto_materiales_didacticos_canarias.md
   norm-can-res-boc-2026-039-102:
     id: norm-can-res-boc-2026-039-102
     codigo_sintetizado: Resolucion BOC 102
@@ -6527,6 +6680,30 @@ normas:
     - apoyo educativo
     - canarias
     path: autonómica/canarias/06_atencion_diversidad_y_orientacion/D128_2026_modifica_decreto_respuesta_educativa_alumnado_neae.md
+  norm-can-d-174-2018-absentismo:
+    id: norm-can-d-174-2018-absentismo
+    codigo_sintetizado: D174_2018 Reglamento Absentismo Escolar y Abandono Temprano
+      Canarias
+    titulo: Decreto 174/2018, de 3 de diciembre, de aprobación del Reglamento por
+      el que se regula la prevención, la intervención y el seguimiento del absentismo
+      escolar y del abandono escolar temprano en el ámbito de la Comunidad Autónoma
+      de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2018-12-14'
+    estado: Vigente
+    redaccion: pdf_oficial_boc
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Absentismo escolar y compensación educativa
+    tags:
+    - absentismo-escolar
+    - abandono-escolar-temprano
+    - prevencion
+    - comisiones-absentismo
+    - orientacion-educativa
+    - canarias
+    path: autonómica/canarias/06_atencion_diversidad_y_orientacion/D174_2018_reglamento_prevencion_intervencion_seguimiento_absentismo_abandono_escolar_canarias.md
   norm-can-d-23-1995:
     id: norm-can-d-23-1995
     codigo_sintetizado: D23_1995 Regulacion de la Orientacion Educativa en Canarias
@@ -36808,65 +36985,6 @@ relaciones_grafo:
 - origen: norm-can-d-40-2005
   tipo: articulos
   destino: '58'
-- origen: norm-can-d-9-2022
-  tipo: fundamentado_en
-  destino: norm-es-c-1978
-  articulos_destino:
-  - Art. 117
-  - Art. 118
-- origen: norm-can-d-9-2022
-  tipo: fundamentado_en
-  destino: norm-can-d-84-2024
-  articulos_destino:
-  - Art. 68
-  disposiciones_destino:
-  - D. Adicional cuarta
-- origen: norm-can-d-9-2022
-  tipo: fundamentado_en
-  destino: norm-can-l-6-2014
-- origen: norm-can-d-9-2022
-  tipo: fundamentado_en
-  destino: norm-es-lo-2-2006
-- origen: norm-can-d-9-2022
-  tipo: fundamentado_en
-  destino: norm-es-l-39-2015
-- origen: norm-can-d-9-2022
-  tipo: concordancia
-  destino: norm-es-c-1978
-  articulos_destino:
-  - Art. 17
-  - Art. 118
-  - Art. 103
-- origen: norm-can-d-9-2022
-  tipo: desarrolla
-  destino: norm-es-lo-2-2006
-- origen: norm-can-d-9-2022
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2024-049-109
-- origen: norm-can-d-9-2022
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-039-104
-- origen: norm-can-d-9-2022
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-047-107
-- origen: norm-can-d-9-2022
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-047-108
-- origen: norm-can-d-9-2022
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-039-102
-- origen: norm-can-d-9-2022
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-039-103
-- origen: norm-can-d-9-2022
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-039-111
-- origen: norm-can-d-9-2022
-  tipo: fundamentos_derecho
-  destino: norm-can-l-6-2014
-- origen: norm-can-d-9-2022
-  tipo: articulos
-  destino: '84'
 - origen: norm-can-o-24-4-2009
   tipo: fundamentado_en
   destino: norm-can-o-25-2-2003
