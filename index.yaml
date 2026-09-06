@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 578
+total_normas: 581
 normas:
   norm-and-d154-2022:
     id: norm-and-d154-2022
@@ -147,6 +147,33 @@ normas:
       - norma_id: norm-and-d154-2022
         articulos_origen:
         - D. Derogatoria única. Derogación normativa.
+  norm-and-d-1-2003:
+    id: norm-and-d-1-2003
+    codigo_sintetizado: D1_2003 Creacion Instituto Andaluz Cualificaciones Profesionales
+      Andalucia
+    titulo: Decreto 1/2003, de 7 de enero, por el que se crea el Instituto Andaluz
+      de Cualificaciones Profesionales.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2003-02-12'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Estructura orgánica y centros directivos
+    tags:
+    - cualificaciones profesionales
+    - formacion profesional
+    - organico
+    - andalucia
+    path: autonómica/andalucía/01_marco_normativo_general_y_organico/D1_2003_creacion_instituto_andaluz_cualificaciones_profesionales_andalucia.md
+    relaciones:
+      desarrolla:
+      - norma_id: norm-es-lo-2-2006
+      fundamentado_en:
+      - norma_id: norm-and-l17-2007
+      - norma_id: norm-es-lo-2-2006
+      - norma_id: norm-es-l-39-2015
   norm-and-d204-1995:
     id: norm-and-d204-1995
     codigo_sintetizado: ''
@@ -208,35 +235,6 @@ normas:
     - supervision
     - andalucia
     path: autonómica/andalucía/01_marco_normativo_general_y_organico/D4_1993_reglamento_organizacion_inspeccion_educativa_andalucia.md
-    relaciones:
-      desarrolla:
-      - norma_id: norm-es-lo-2-2006
-      - norma_id: norm-es-ce-1978
-      fundamentado_en:
-      - norma_id: norm-and-l17-2007
-      - norma_id: norm-es-lo-2-2006
-      - norma_id: norm-es-l-39-2015
-      - norma_id: norm-es-l-40-2015
-  norm-and-d-512-1996:
-    id: norm-and-d-512-1996
-    codigo_sintetizado: D512_1996 Instituto Andaluz Cualificaciones Profesionales
-      Andalucía
-    titulo: Decreto 512/1996, de 10 de diciembre, por el que se crea el Instituto
-      Andaluz de Cualificaciones Profesionales.
-    jurisdiccion: Andalucía
-    ambito: Autonómico
-    tipo_disposicion: Decreto
-    fecha_publicacion: '1996-12-24'
-    estado: Vigente
-    redaccion: original
-    categoria_canonica: 01_marco_normativo_general_y_organico
-    subcategoria: Formación Profesional
-    tags:
-    - iacp
-    - cualificaciones_profesionales
-    - fp
-    - andalucia
-    path: autonómica/andalucía/01_marco_normativo_general_y_organico/D512_1996_creacion_instituto_andaluz_cualificaciones_profesionales_andalucia.md
     relaciones:
       desarrolla:
       - norma_id: norm-es-lo-2-2006
@@ -1860,6 +1858,61 @@ normas:
     subcategoria: Marco normativo general
     tags: []
     path: autonómica/andalucía/01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md
+  norm-and-o-13-7-2007:
+    id: norm-and-o-13-7-2007
+    codigo_sintetizado: O13_7_2007 Organizacion Funcionamiento Inspeccion Educativa
+      Andalucia
+    titulo: Orden de 13 de julio de 2007, por la que se desarrolla la organización
+      y el funcionamiento de la inspección educativa de Andalucía.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2007-08-02'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Inspección Educativa
+    tags:
+    - inspeccion educativa
+    - organizacion
+    - funcionamiento
+    - andalucia
+    path: autonómica/andalucía/01_marco_normativo_general_y_organico/O13_7_2007_organizacion_funcionamiento_inspeccion_educativa_andalucia.md
+    relaciones:
+      desarrolla:
+      - norma_id: norm-es-lo-2-2006
+      fundamentado_en:
+      - norma_id: norm-and-l17-2007
+      - norma_id: norm-es-lo-2-2006
+      - norma_id: norm-es-l-39-2015
+  norm-and-o-26-7-2023:
+    id: norm-and-o-26-7-2023
+    codigo_sintetizado: O26_7_2023 Plan General Actuacion Inspeccion Educativa Andalucia
+      2023 2027
+    titulo: Orden de 26 de julio de 2023, por la que se establece el Plan General
+      de Actuación de la Inspección Educativa de Andalucía para el período 2023-2027.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2023-08-01'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Inspección Educativa
+    tags:
+    - inspeccion educativa
+    - plan general de actuacion
+    - 2023-2027
+    - supervision
+    - andalucia
+    path: autonómica/andalucía/01_marco_normativo_general_y_organico/O26_7_2023_plan_general_actuacion_inspeccion_educativa_andalucia_2023_2027.md
+    relaciones:
+      desarrolla:
+      - norma_id: norm-es-lo-2-2006
+      fundamentado_en:
+      - norma_id: norm-and-l17-2007
+      - norma_id: norm-es-lo-2-2006
+      - norma_id: norm-es-l-39-2015
   norm-and-d149-2009-regulacion-centros-primer-ciclo-educacion-infantil-andalucia:
     id: norm-and-d149-2009-regulacion-centros-primer-ciclo-educacion-infantil-andalucia
     codigo_sintetizado: ''
@@ -2372,6 +2425,36 @@ normas:
       - norma_id: norm-and-l17-2007
       - norma_id: norm-es-lo-2-2006
       - norma_id: norm-es-l-39-2015
+  norm-and-o-9-11-2020:
+    id: norm-and-o-9-11-2020
+    codigo_sintetizado: O9_11_2020 Acceso Evaluacion Formacion Equipos Directivos
+      Andalucia
+    titulo: Orden de 9 de noviembre de 2020, por la que se desarrolla el procedimiento
+      de acceso a la función directiva y la evaluación, formación y reconocimiento
+      de los directores, las directoras y los equipos directivos de los centros docentes
+      públicos no universitarios de los que es titular la Junta de Andalucía.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2020-11-19'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Función directiva y órganos de gobierno
+    tags:
+    - funcion directiva
+    - direccion
+    - equipos directivos
+    - evaluacion directiva
+    - andalucia
+    path: autonómica/andalucía/02_gestion_y_administracion_centros/O9_11_2020_acceso_evaluacion_formacion_equipos_directivos_andalucia.md
+    relaciones:
+      desarrolla:
+      - norma_id: norm-es-lo-2-2006
+      fundamentado_en:
+      - norma_id: norm-and-l17-2007
+      - norma_id: norm-es-lo-2-2006
+      - norma_id: norm-es-l-39-2015
   norm-and-r18-11-2025-seleccion-directores-centros-docentes-publicos-andalucia:
     id: norm-and-r18-11-2025-seleccion-directores-centros-docentes-publicos-andalucia
     codigo_sintetizado: ''
@@ -2750,6 +2833,33 @@ normas:
         - D. Final segunda. Reproducción de normativa autonómica.
         articulos_destino:
         - Art. 3
+  norm-and-d-55-2012:
+    id: norm-and-d-55-2012
+    codigo_sintetizado: D55_2012 Ordenacion Ensenanzas Deportivas Regimen Especial
+      Andalucia
+    titulo: Decreto 55/2012, de 6 de marzo, por el que se establece la ordenación
+      general de las enseñanzas deportivas de régimen especial en Andalucía.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2012-03-20'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas de Régimen Especial
+    tags:
+    - ensenanzas deportivas
+    - regimen especial
+    - ordenacion
+    - andalucia
+    path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/D55_2012_ordenacion_ensenanzas_deportivas_regimen_especial_andalucia.md
+    relaciones:
+      desarrolla:
+      - norma_id: norm-es-lo-2-2006
+      fundamentado_en:
+      - norma_id: norm-and-l17-2007
+      - norma_id: norm-es-lo-2-2006
+      - norma_id: norm-es-l-39-2015
   norm-and-d-77-1994:
     id: norm-and-d-77-1994
     codigo_sintetizado: D77_1994 Ordenacion Educacion Infantil Andalucía
@@ -2813,83 +2923,6 @@ normas:
         - Art. 27
         - Art. 5
         - Art. 44
-      - norma_id: norm-es-lo-2-2006
-      fundamentado_en:
-      - norma_id: norm-and-l17-2007
-      - norma_id: norm-es-lo-2-2006
-      - norma_id: norm-es-l-39-2015
-  norm-and-o-12-6-2008:
-    id: norm-and-o-12-6-2008
-    codigo_sintetizado: O12_6_2008 Evaluacion Enseñanzas Artisticas Superiores Andalucía
-    titulo: Orden de 12 de junio de 2008, por la que se regula la evaluación en las
-      Enseñanzas Artísticas Superiores.
-    jurisdiccion: Andalucía
-    ambito: Autonómico
-    tipo_disposicion: Orden
-    fecha_publicacion: '2008-06-26'
-    estado: Vigente
-    redaccion: original
-    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
-    subcategoria: Enseñanzas Artísticas
-    tags:
-    - artisticas_superiores
-    - evaluacion_grados_artisticos
-    - andalucia
-    path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/O12_6_2008_evaluacion_ensenanzas_artisticas_superiores_andalucia.md
-    relaciones:
-      modifica:
-      - norma_id: norm-es-l-53-1984
-        articulos_destino:
-        - Art. 52
-        - Art. 10
-        - Art. 13
-        - Art. 107
-        - Art. 116
-        - Art. 117
-      - norma_id: norm-es-1985-7820
-        articulos_destino:
-        - Art. 52
-        - Art. 10
-        - Art. 13
-        - Art. 107
-        - Art. 116
-        - Art. 117
-      desarrolla:
-      - norma_id: norm-es-lo-2-2006
-      fundamentado_en:
-      - norma_id: norm-and-l17-2007
-      - norma_id: norm-es-lo-2-2006
-      - norma_id: norm-es-l-39-2015
-  norm-and-o-14-3-1995:
-    id: norm-and-o-14-3-1995
-    codigo_sintetizado: O14_3_1995 Evaluacion Educación Secundaria Obligatoria Andalucía
-    titulo: Orden de 14 de marzo de 1995, por la que se regula la evaluación en la
-      Educación Secundaria Obligatoria.
-    jurisdiccion: Andalucía
-    ambito: Autonómico
-    tipo_disposicion: Orden
-    fecha_publicacion: '1995-03-28'
-    estado: Vigente
-    redaccion: original
-    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
-    subcategoria: Educación Secundaria Obligatoria
-    tags:
-    - eso
-    - evaluacion
-    - promocion
-    - andalucia
-    path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/O14_3_1995_evaluacion_educacion_secundaria_obligatoria_andalucia.md
-    relaciones:
-      cita:
-      - norma_id: norm-es-l-53-1984
-        articulos_destino:
-        - Art. 10
-        - Art. 110
-      - norma_id: norm-es-1985-7820
-        articulos_destino:
-        - Art. 10
-        - Art. 110
-      desarrolla:
       - norma_id: norm-es-lo-2-2006
       fundamentado_en:
       - norma_id: norm-and-l17-2007
@@ -2998,25 +3031,58 @@ normas:
       - norma_id: norm-and-l17-2007
       - norma_id: norm-es-lo-2-2006
       - norma_id: norm-es-l-39-2015
-  norm-and-o-20-7-2006:
-    id: norm-and-o-20-7-2006
-    codigo_sintetizado: O20_7_2006 Convalidaciones Modulos Formacion Profesional Andalucía
-    titulo: Orden de 20 de julio de 2006, sobre convalidaciones y exenciones en módulos
-      profesionales de FP.
+  norm-and-o-19-10-2020:
+    id: norm-and-o-19-10-2020
+    codigo_sintetizado: O19_10_2020 Ordenacion Evaluacion Reconocimiento Creditos
+      Ensenanzas Artisticas Superiores Andalucia
+    titulo: Orden de 19 de octubre de 2020, por la que se establece la ordenación
+      de la evaluación del proceso de aprendizaje del alumnado de las enseñanzas artísticas
+      superiores y se regula el sistema de reconocimiento y transferencia de créditos
+      de estas enseñanzas.
     jurisdiccion: Andalucía
     ambito: Autonómico
     tipo_disposicion: Orden
-    fecha_publicacion: '2006-08-04'
+    fecha_publicacion: '2020-11-03'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas Artísticas Superiores
+    tags:
+    - evaluacion
+    - creditos
+    - ensenanzas artisticas superiores
+    - acreditacion
+    - andalucia
+    path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/O19_10_2020_ordenacion_evaluacion_reconocimiento_creditos_ensenanzas_artisticas_superiores_andalucia.md
+    relaciones:
+      desarrolla:
+      - norma_id: norm-es-lo-2-2006
+      fundamentado_en:
+      - norma_id: norm-and-l17-2007
+      - norma_id: norm-es-lo-2-2006
+      - norma_id: norm-es-l-39-2015
+  norm-and-o-21-2-2017:
+    id: norm-and-o-21-2-2017
+    codigo_sintetizado: O21_2_2017 Pruebas Acceso Ciclos Formativos FP Andalucia
+    titulo: Orden de 21 de febrero de 2017, por la que se regulan las pruebas de acceso
+      a los ciclos formativos de formación profesional de grado medio y de grado superior
+      y el curso de formación específico.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2017-03-24'
     estado: Vigente
     redaccion: original
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Formación Profesional
     tags:
-    - convalidaciones
     - fp
-    - exenciones
+    - formacion profesional
+    - pruebas de acceso
+    - grado medio
+    - grado superior
     - andalucia
-    path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/O20_7_2006_convalidaciones_modulos_formacion_profesional_andalucia.md
+    path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/O21_2_2017_pruebas_acceso_ciclos_formativos_fp_andalucia.md
     relaciones:
       desarrolla:
       - norma_id: norm-es-lo-2-2006
@@ -3049,56 +3115,6 @@ normas:
       - norma_id: norm-es-lo-2-2006
       fundamentado_en:
       - norma_id: norm-and-l17-2007
-  norm-and-o-27-7-2006:
-    id: norm-and-o-27-7-2006
-    codigo_sintetizado: O27_7_2006 Evaluacion Educacion Infantil Andalucía
-    titulo: Orden de 27 de julio de 2006, por la que se regula la evaluación del alumnado
-      de Educación Infantil.
-    jurisdiccion: Andalucía
-    ambito: Autonómico
-    tipo_disposicion: Orden
-    fecha_publicacion: '2006-08-24'
-    estado: Vigente
-    redaccion: original
-    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
-    subcategoria: Educación Infantil
-    tags:
-    - infantil
-    - evaluacion
-    - informe_desarrollo
-    - andalucia
-    path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/O27_7_2006_ordenacion_evaluacion_educacion_infantil_andalucia.md
-    relaciones:
-      cita:
-      - norma_id: norm-es-c-1978
-        capitulo_origen: Capítulo IV. Servicios extraordinarios.
-        articulos_origen:
-        - D. Adicional segunda. Constitución de las Comisiones Provinciales de Valoración
-          de la Productividad.
-        disposiciones_destino:
-        - D. Adicional segunda
-      fundamentado_en:
-      - norma_id: norm-and-d-266-1988
-        capitulo_origen: Capítulo IV. Servicios extraordinarios.
-        articulos_origen:
-        - D. Final segunda. Entrada en vigor.
-        articulos_destino:
-        - Art. 114
-        - Art. 115
-        - Art. 7
-      - norma_id: norm-and-d-266-1988
-        capitulo_origen: Capítulo IV. Servicios extraordinarios.
-        articulos_origen:
-        - D. Final segunda. Entrada en vigor.
-        articulos_destino:
-        - Art. 114
-        - Art. 115
-        - Art. 48
-      - norma_id: norm-and-l17-2007
-      - norma_id: norm-es-lo-2-2006
-      - norma_id: norm-es-l-39-2015
-      desarrolla:
-      - norma_id: norm-es-lo-2-2006
   norm-and-disp-4605:
     id: norm-and-disp-4605
     codigo_sintetizado: ''
@@ -3158,9 +3174,9 @@ normas:
       - norma_id: norm-and-l17-2007
       - norma_id: norm-es-lo-2-2006
       - norma_id: norm-es-l-39-2015
-  norm-and-o30-5-2023-desarrollo-curriculo-evaluacion-bachillerato-andalucia:
-    id: norm-and-o30-5-2023-desarrollo-curriculo-evaluacion-bachillerato-andalucia
-    codigo_sintetizado: ''
+  norm-and-o-30-5-2023-bachillerato:
+    id: norm-and-o-30-5-2023-bachillerato
+    codigo_sintetizado: O30_5_2023 Desarrollo Curriculo Evaluacion Bachillerato Andalucia
     titulo: Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente
       a la etapa de Bachillerato en la Comunidad Autónoma de Andalucía, se regulan
       determinados aspectos de la atención a la diversidad y a las diferencias individuales
@@ -3172,31 +3188,55 @@ normas:
     fecha_publicacion: '2023-06-02'
     estado: Vigente
     redaccion: original
-    categoria_canonica: ''
-    subcategoria: ''
-    tags: []
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Bachillerato
+    tags:
+    - bachillerato
+    - curriculo
+    - evaluacion
+    - lomloe
+    - andalucia
     path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/O30_5_2023_desarrollo_curriculo_evaluacion_bachillerato_andalucia.md
-  norm-and-o30-5-2023-desarrollo-curriculo-evaluacion-eso-andalucia:
-    id: norm-and-o30-5-2023-desarrollo-curriculo-evaluacion-eso-andalucia
-    codigo_sintetizado: ''
+    relaciones:
+      desarrolla:
+      - norma_id: norm-es-lo-2-2006
+      fundamentado_en:
+      - norma_id: norm-and-l17-2007
+      - norma_id: norm-es-lo-2-2006
+      - norma_id: norm-es-l-39-2015
+  norm-and-o-30-5-2023-eso:
+    id: norm-and-o-30-5-2023-eso
+    codigo_sintetizado: O30_5_2023 Desarrollo Curriculo Evaluacion Eso Andalucia
     titulo: Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente
-      a la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía, se regulan
-      determinados aspectos de la atención a la diversidad y a las diferencias individuales,
-      se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado
-      y se determina el proceso de tránsito entre las diferentes etapas educativas.
+      a la etapa de Educación Secundaria Obligatoria en la Comunidad Autónoma de Andalucía,
+      se regulan determinados aspectos de la atención a la diversidad y a las diferencias
+      individuales y se establece la ordenación de la evaluación del proceso de aprendizaje
+      del alumnado.
     jurisdiccion: Andalucía
     ambito: Autonómico
     tipo_disposicion: Orden
     fecha_publicacion: '2023-06-02'
     estado: Vigente
     redaccion: original
-    categoria_canonica: ''
-    subcategoria: ''
-    tags: []
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Secundaria Obligatoria
+    tags:
+    - eso
+    - curriculo
+    - evaluacion
+    - lomloe
+    - andalucia
     path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/O30_5_2023_desarrollo_curriculo_evaluacion_eso_andalucia.md
-  norm-and-o30-5-2023-desarrollo-curriculo-evaluacion-primaria-andalucia:
-    id: norm-and-o30-5-2023-desarrollo-curriculo-evaluacion-primaria-andalucia
-    codigo_sintetizado: ''
+    relaciones:
+      desarrolla:
+      - norma_id: norm-es-lo-2-2006
+      fundamentado_en:
+      - norma_id: norm-and-l17-2007
+      - norma_id: norm-es-lo-2-2006
+      - norma_id: norm-es-l-39-2015
+  norm-and-o-30-5-2023-infantil:
+    id: norm-and-o-30-5-2023-infantil
+    codigo_sintetizado: O30_5_2023 Desarrollo Curriculo Evaluacion Infantil Andalucia
     titulo: Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente
       a la etapa de Educación Infantil en la Comunidad Autónoma de Andalucía, se regulan
       determinados aspectos de la atención a la diversidad y a las diferencias individuales,
@@ -3208,10 +3248,83 @@ normas:
     fecha_publicacion: '2023-06-02'
     estado: Vigente
     redaccion: original
-    categoria_canonica: ''
-    subcategoria: ''
-    tags: []
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Infantil
+    tags:
+    - infantil
+    - curriculo
+    - evaluacion
+    - lomloe
+    - andalucia
+    path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/O30_5_2023_desarrollo_curriculo_evaluacion_infantil_andalucia.md
+    relaciones:
+      desarrolla:
+      - norma_id: norm-es-lo-2-2006
+      fundamentado_en:
+      - norma_id: norm-and-l17-2007
+      - norma_id: norm-es-lo-2-2006
+      - norma_id: norm-es-l-39-2015
+  norm-and-o-30-5-2023-primaria:
+    id: norm-and-o-30-5-2023-primaria
+    codigo_sintetizado: O30_5_2023 Desarrollo Curriculo Evaluacion Primaria Andalucia
+    titulo: Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente
+      a la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía, se regulan
+      determinados aspectos de la atención a la diversidad y a las diferencias individuales,
+      se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado
+      y se determina el proceso de tránsito entre las diferentes etapas educativas.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2023-06-02'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Primaria
+    tags:
+    - primaria
+    - curriculo
+    - evaluacion
+    - transito
+    - lomloe
+    - andalucia
     path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/O30_5_2023_desarrollo_curriculo_evaluacion_primaria_andalucia.md
+    relaciones:
+      desarrolla:
+      - norma_id: norm-es-lo-2-2006
+      fundamentado_en:
+      - norma_id: norm-and-l17-2007
+      - norma_id: norm-es-lo-2-2006
+      - norma_id: norm-es-l-39-2015
+  norm-and-o-9-2-2022:
+    id: norm-and-o-9-2-2022
+    codigo_sintetizado: O9_2_2022 Admision Pruebas Acceso Ensenanzas Artisticas Superiores
+      Andalucia
+    titulo: Orden de 9 de febrero de 2022, por la que se regulan en la Comunidad Autónoma
+      de Andalucía el acceso, los criterios, los procedimientos de admisión y matriculación
+      del alumnado de enseñanzas artísticas superiores en los centros docentes públicos,
+      así como las pruebas de acceso a las mismas.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2022-02-17'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas Artísticas Superiores
+    tags:
+    - ensenanzas artisticas superiores
+    - admision
+    - pruebas de acceso
+    - matriculacion
+    - andalucia
+    path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/O9_2_2022_admision_pruebas_acceso_ensenanzas_artisticas_superiores_andalucia.md
+    relaciones:
+      desarrolla:
+      - norma_id: norm-es-lo-2-2006
+      fundamentado_en:
+      - norma_id: norm-and-l17-2007
+      - norma_id: norm-es-lo-2-2006
+      - norma_id: norm-es-l-39-2015
   norm-and-r11-1-2024-pruebas-obtencion-titulo-graduado-eso-mayores-andalucia:
     id: norm-and-r11-1-2024-pruebas-obtencion-titulo-graduado-eso-mayores-andalucia
     codigo_sintetizado: ''
@@ -4427,6 +4540,35 @@ normas:
       - norma_id: norm-es-l-39-2015
       - norma_id: norm-es-l-40-2015
       - norma_id: norm-and-l17-2007
+  norm-and-o-19-3-2012:
+    id: norm-and-o-19-3-2012
+    codigo_sintetizado: O19_3_2012 Organizacion Funcionamiento Conservatorios Musica
+      Andalucia
+    titulo: Orden de 19 de marzo de 2012, por la que se regula la organización y el
+      funcionamiento de los conservatorios elementales y de los conservatorios profesionales
+      de música, así como el horario de los centros, del alumnado y del profesorado.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2012-03-28'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Enseñanzas de Régimen Especial
+    tags:
+    - conservatorios
+    - musica
+    - organizacion y funcionamiento
+    - horarios
+    - andalucia
+    path: autonómica/andalucía/04_organizacion_escolar_y_funcionamiento/O19_3_2012_organizacion_funcionamiento_conservatorios_musica_andalucia.md
+    relaciones:
+      desarrolla:
+      - norma_id: norm-es-lo-2-2006
+      fundamentado_en:
+      - norma_id: norm-and-l17-2007
+      - norma_id: norm-es-lo-2-2006
+      - norma_id: norm-es-l-39-2015
   norm-and-o-20-8-2010:
     id: norm-and-o-20-8-2010
     codigo_sintetizado: O20_8_2010 Instrucciones Organizacion Funcionamiento CEIP
@@ -4561,41 +4703,6 @@ normas:
       - norma_id: norm-es-lo-2-2006
       - norma_id: norm-es-l-39-2015
       - norma_id: norm-es-l-40-2015
-  norm-and-o-26-5-2011:
-    id: norm-and-o-26-5-2011
-    codigo_sintetizado: O26_5_2011 Organizacion Funcionamiento Conservatorios Andalucía
-    titulo: Orden de 26 de mayo de 2011, por la que se regulan la organización y el
-      funcionamiento de los Conservatorios en Andalucía.
-    jurisdiccion: Andalucía
-    ambito: Autonómico
-    tipo_disposicion: Orden
-    fecha_publicacion: '2011-06-14'
-    estado: Vigente
-    redaccion: original
-    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
-    subcategoria: Organización de centros
-    tags:
-    - conservatorios
-    - musica
-    - danza
-    - organizacion
-    - andalucia
-    path: autonómica/andalucía/04_organizacion_escolar_y_funcionamiento/O26_5_2011_organizacion_funcionamiento_conservatorios_andalucia.md
-    relaciones:
-      cita:
-      - norma_id: norm-es-l-53-1984
-        articulos_origen:
-        - Art. 3
-      fundamentado_en:
-      - norma_id: norm-es-lo-1-1982
-        articulos_origen:
-        - Art. 22
-      - norma_id: norm-and-l17-2007
-      - norma_id: norm-es-lo-2-2006
-      - norma_id: norm-es-l-39-2015
-      - norma_id: norm-es-l-40-2015
-      desarrolla:
-      - norma_id: norm-es-lo-2-2006
   norm-and-r-1-9-2025:
     id: norm-and-r-1-9-2025
     codigo_sintetizado: R1_9_2025 Instrucciones Inicio Curso Escolar 2025-2026 Andalucía
@@ -5322,32 +5429,6 @@ normas:
     subcategoria: ''
     tags: []
     path: autonómica/andalucía/05_alumnado_y_servicios_escolares/DL2_2021_procedimientos_admision_alumnado_centros_docentes_andalucia.md
-  norm-and-o-18-4-2001:
-    id: norm-and-o-18-4-2001
-    codigo_sintetizado: O18_4_2001 Admision Alumnado Centros Concertados Andalucía
-    titulo: Orden de 18 de abril de 2001, por la que se regula la admisión de alumnado
-      en centros docentes sostenidos con fondos públicos.
-    jurisdiccion: Andalucía
-    ambito: Autonómico
-    tipo_disposicion: Orden
-    fecha_publicacion: '2001-05-03'
-    estado: Vigente
-    redaccion: original
-    categoria_canonica: 05_alumnado_y_servicios_escolares
-    subcategoria: Admisión de alumnado
-    tags:
-    - admision
-    - barremacion
-    - centros_concertados
-    - andalucia
-    path: autonómica/andalucía/05_alumnado_y_servicios_escolares/O18_4_2001_admision_alumnado_centros_concertados_andalucia.md
-    relaciones:
-      desarrolla:
-      - norma_id: norm-es-lo-2-2006
-      fundamentado_en:
-      - norma_id: norm-and-l17-2007
-      - norma_id: norm-es-lo-2-2006
-      - norma_id: norm-es-l-39-2015
   norm-and-o1-6-2016-criterios-procedimiento-admision-formacion-profesional-andalucia:
     id: norm-and-o1-6-2016-criterios-procedimiento-admision-formacion-profesional-andalucia
     codigo_sintetizado: ''
@@ -5365,24 +5446,31 @@ normas:
     subcategoria: ''
     tags: []
     path: autonómica/andalucía/05_alumnado_y_servicios_escolares/O1_6_2016_criterios_procedimiento_admision_formacion_profesional_andalucia.md
-  norm-and-o-26-6-2012:
-    id: norm-and-o-26-6-2012
-    codigo_sintetizado: O26_6_2012 Admision Bachillerato y FP Andalucía
-    titulo: Orden de 26 de junio de 2012, por la que se desarrolla la admisión de
-      alumnado en Bachillerato y Formación Profesional.
+  norm-and-o-20-2-2020:
+    id: norm-and-o-20-2-2020
+    codigo_sintetizado: O20_2_2020 Procedimiento Admision Alumnado Centros Docentes
+      Andalucia
+    titulo: Orden de 20 de febrero de 2020, por la que se desarrolla el procedimiento
+      de admisión del alumnado en los centros docentes públicos y privados concertados
+      para cursar las enseñanzas de segundo ciclo de educación infantil, educación
+      primaria, educación especial, educación secundaria obligatoria y bachillerato.
     jurisdiccion: Andalucía
     ambito: Autonómico
     tipo_disposicion: Orden
-    fecha_publicacion: '2012-07-09'
+    fecha_publicacion: '2020-02-29'
     estado: Vigente
     redaccion: original
     categoria_canonica: 05_alumnado_y_servicios_escolares
-    subcategoria: Admisión de alumnado
+    subcategoria: Admisión y escolarización
     tags:
-    - admision_bachillerato
+    - admision
     - escolarizacion
+    - infantil
+    - primaria
+    - eso
+    - bachillerato
     - andalucia
-    path: autonómica/andalucía/05_alumnado_y_servicios_escolares/O26_6_2012_instrucciones_admision_bachillerato_andalucia.md
+    path: autonómica/andalucía/05_alumnado_y_servicios_escolares/O20_2_2020_procedimiento_admision_alumnado_centros_docentes_andalucia.md
     relaciones:
       desarrolla:
       - norma_id: norm-es-lo-2-2006
@@ -5434,9 +5522,10 @@ normas:
       - norma_id: norm-and-l17-2007
       - norma_id: norm-es-lo-2-2006
       - norma_id: norm-es-l-39-2015
-  norm-and-r19-1-2026-calendario-admision-alumnado-centros-docentes-andalucia-2026-2027:
-    id: norm-and-r19-1-2026-calendario-admision-alumnado-centros-docentes-andalucia-2026-2027
-    codigo_sintetizado: ''
+  norm-and-r-19-1-2026-calendario-admision-alumnado-centros-docentes-andalucia-2026-2027:
+    id: norm-and-r-19-1-2026-calendario-admision-alumnado-centros-docentes-andalucia-2026-2027
+    codigo_sintetizado: R19_1_2026 Calendario Admision Alumnado Centros Docentes Andalucia
+      2026 2027
     titulo: Resolución de 19 de enero de 2026, de la Dirección General de Planificación,
       Centros y Enseñanza Concertada, por la que se establece el calendario de actuaciones
       del procedimiento ordinario de admisión del alumnado en los centros docentes
@@ -5451,8 +5540,20 @@ normas:
     redaccion: original
     categoria_canonica: 05_alumnado_y_servicios_escolares
     subcategoria: Admisión y escolarización
-    tags: []
+    tags:
+    - calendario de admision
+    - escolarizacion
+    - 2026-2027
+    - centros docentes
+    - andalucia
     path: autonómica/andalucía/05_alumnado_y_servicios_escolares/R19_1_2026_calendario_admision_alumnado_centros_docentes_andalucia_2026_2027.md
+    relaciones:
+      desarrolla:
+      - norma_id: norm-es-lo-2-2006
+      fundamentado_en:
+      - norma_id: norm-and-l17-2007
+      - norma_id: norm-es-lo-2-2006
+      - norma_id: norm-es-l-39-2015
   norm-and-r27-1-2026-ratios-procedimiento-admision-alumnado-infantil-andalucia-2026-2027:
     id: norm-and-r27-1-2026-ratios-procedimiento-admision-alumnado-infantil-andalucia-2026-2027
     codigo_sintetizado: ''
@@ -5487,51 +5588,6 @@ normas:
     subcategoria: ''
     tags: []
     path: autonómica/andalucía/06_atencion_diversidad_y_orientacion/D147_2002_atencion_educativa_alumnado_necesidades_educativas_especiales_andalucia.md
-  norm-and-d-166-2003:
-    id: norm-and-d-166-2003
-    codigo_sintetizado: D166_2003 Atencion Alumnado Altas Capacidades Andalucía
-    titulo: Decreto 166/2003, de 17 de junio, sobre atención educativa al alumnado
-      con altas capacidades intelectuales.
-    jurisdiccion: Andalucía
-    ambito: Autonómico
-    tipo_disposicion: Decreto
-    fecha_publicacion: '2003-06-27'
-    estado: Vigente
-    redaccion: original
-    categoria_canonica: 06_atencion_diversidad_y_orientacion
-    subcategoria: Atención a la diversidad
-    tags:
-    - altas_capacidades
-    - sobredotacion
-    - enriquecimiento_curricular
-    - andalucia
-    path: autonómica/andalucía/06_atencion_diversidad_y_orientacion/D166_2003_atencion_alumnado_altas_capacidades_andalucia.md
-    relaciones:
-      desarrolla:
-      - norma_id: norm-and-d-254-2001
-        articulos_origen:
-        - D. Final segunda. Entrada en vigor.
-        titulo_destino: Título VIII
-        articulos_destino:
-        - Art. 17
-        - Art. 7
-      - norma_id: norm-es-l-31-1995
-        articulos_origen:
-        - D. Final segunda. Entrada en vigor.
-        titulo_destino: Título VIII
-        articulos_destino:
-        - Art. 17
-        - Art. 7
-      - norma_id: norm-es-lo-2-2006
-      fundamentado_en:
-      - norma_id: norm-and-d-254-2001
-        articulos_origen:
-        - Art. 1
-        articulos_destino:
-        - Art. 9
-      - norma_id: norm-and-l17-2007
-      - norma_id: norm-es-lo-2-2006
-      - norma_id: norm-es-lo-1-1996
   norm-and-d-167-2003:
     id: norm-and-d-167-2003
     codigo_sintetizado: ''
@@ -5574,6 +5630,35 @@ normas:
       - norma_id: norm-es-lo-1-1996
       desarrolla:
       - norma_id: norm-es-lo-2-2006
+  norm-and-ins-28-6-2024:
+    id: norm-and-ins-28-6-2024
+    codigo_sintetizado: I28_6_2024 Organizacion Funcionamiento Aulas Hospitalarias
+      Andalucia
+    titulo: Instrucciones de 28 de junio de 2024, de la Dirección General de Ordenación,
+      Inclusión, Participación y Evaluación Educativa, por la que se regula la organización
+      y el funcionamiento de las Aulas Hospitalarias en la Comunidad Autónoma de Andalucía.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Instrucción
+    fecha_publicacion: '2024-06-28'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Atención a la diversidad y compensatoria
+    tags:
+    - aulas hospitalarias
+    - atencion domiciliaria
+    - alumnado enfermo
+    - diversidad
+    - andalucia
+    path: autonómica/andalucía/06_atencion_diversidad_y_orientacion/I28_6_2024_organizacion_funcionamiento_aulas_hospitalarias_andalucia.md
+    relaciones:
+      desarrolla:
+      - norma_id: norm-es-lo-2-2006
+      fundamentado_en:
+      - norma_id: norm-and-l17-2007
+      - norma_id: norm-es-lo-2-2006
+      - norma_id: norm-es-l-39-2015
   norm-and-l9-1999-solidaridad-en-la-educacion-andalucia:
     id: norm-and-l9-1999-solidaridad-en-la-educacion-andalucia
     codigo_sintetizado: ''
@@ -5667,49 +5752,6 @@ normas:
         - Art. 17
       desarrolla:
       - norma_id: norm-es-lo-2-2006
-      fundamentado_en:
-      - norma_id: norm-and-l17-2007
-      - norma_id: norm-es-lo-2-2006
-      - norma_id: norm-es-lo-1-1996
-  norm-and-r-14-12-2009:
-    id: norm-and-r-14-12-2009
-    codigo_sintetizado: R14_12_2009 Aulas Hospitalarias y Atencion Domiciliaria Andalucía
-    titulo: Resolución de 14 de diciembre de 2009, sobre atención educativa en aulas
-      hospitalarias y atención domiciliaria.
-    jurisdiccion: Andalucía
-    ambito: Autonómico
-    tipo_disposicion: Resolución
-    fecha_publicacion: '2009-12-28'
-    estado: Vigente
-    redaccion: original
-    categoria_canonica: 06_atencion_diversidad_y_orientacion
-    subcategoria: Atención a la diversidad
-    tags:
-    - aulas_hospitalarias
-    - atencion_domiciliaria
-    - andalucia
-    path: autonómica/andalucía/06_atencion_diversidad_y_orientacion/R14_12_2009_instrucciones_organizacion_aulas_hospitalarias_andalucia.md
-    relaciones:
-      desarrolla:
-      - norma_id: norm-es-c-1978
-        articulos_destino:
-        - Art. 58
-        - Art. 56
-        - Art. 42
-        - Art. 71
-        - Art. 64
-        - Art. 149
-        - Art. 68
-      - norma_id: norm-es-lo-2-2006
-      modifica:
-      - norma_id: norm-es-c-1978
-        titulo_destino: Título IV
-        capitulo_destino: Capítulo I
-        seccion_destino: Sección 2.ª
-        articulos_destino:
-        - Art. 149
-        - Art. 57
-        - Art. 20
       fundamentado_en:
       - norma_id: norm-and-l17-2007
       - norma_id: norm-es-lo-2-2006
@@ -6279,6 +6321,36 @@ normas:
     - andalucia
     path: autonómica/andalucía/08_personal_docente/O10_6_2020_bolsas_trabajo_profesorado_interino_andalucia.md
     relaciones: {}
+  norm-and-o-24-5-2011:
+    id: norm-and-o-24-5-2011
+    codigo_sintetizado: O24_5_2011 Procedimientos Provision Puestos Trabajo Docentes
+      Andalucia
+    titulo: Orden de 24 de mayo de 2011, por la que se regulan los procedimientos
+      de provisión, con carácter provisional, de puestos de trabajo docentes así como
+      la colocación del personal funcionario de carrera en puestos con perfil bilingüe
+      y las bolsas de trabajo de los distintos cuerpos docentes.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2011-06-03'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 08_personal_docente
+    subcategoria: Provisión de plazas y movilidad
+    tags:
+    - personal docente
+    - colocacion de efectivos
+    - provision provisional
+    - bolsas de trabajo
+    - andalucia
+    path: autonómica/andalucía/08_personal_docente/O24_5_2011_procedimientos_provision_puestos_trabajo_docentes_andalucia.md
+    relaciones:
+      desarrolla:
+      - norma_id: norm-es-lo-2-2006
+      fundamentado_en:
+      - norma_id: norm-and-l17-2007
+      - norma_id: norm-es-lo-2-2006
+      - norma_id: norm-es-l-39-2015
   norm-and-r10-6-2026-adjudicacion-destinos-provisionales-personal-docente-andalucia:
     id: norm-and-r10-6-2026-adjudicacion-destinos-provisionales-personal-docente-andalucia
     codigo_sintetizado: ''
