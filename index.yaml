@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 573
+total_normas: 579
 normas:
   norm-and-d154-2022:
     id: norm-and-d154-2022
@@ -1928,6 +1928,29 @@ normas:
     subcategoria: Centros de Educación Infantil
     tags: []
     path: autonómica/andalucía/02_gestion_y_administracion_centros/D149_2009_regulacion_centros_primer_ciclo_educacion_infantil_andalucia.md
+  norm-and-d-151-1997:
+    id: norm-and-d-151-1997
+    codigo_sintetizado: D151_1997 Registro de Centros Docentes Andalucia
+    titulo: Decreto 151/1997, de 27 de mayo, por el que se crea y regula el Registro
+      de Centros Docentes.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '1997-06-26'
+    estado: Vigente
+    redaccion: texto_integro_boja
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Creación y Autorización de Centros
+    tags:
+    - registro-centros
+    - centros-docentes
+    - autorizacion-centros
+    - creacion-centros
+    - andalucia
+    path: autonómica/andalucía/02_gestion_y_administracion_centros/D151_1997_crea_regula_registro_centros_docentes_andalucia.md
+    relaciones:
+      fundamentado_en:
+      - norma_id: norm-es-c-1978
   norm-and-d-155-1997:
     id: norm-and-d-155-1997
     codigo_sintetizado: D155_1997 Regulacion Escuelas Infantiles Andalucía
@@ -2425,6 +2448,90 @@ normas:
       - norma_id: norm-and-l17-2007
       - norma_id: norm-es-lo-2-2006
       - norma_id: norm-es-l-39-2015
+  norm-and-d-71-2009:
+    id: norm-and-d-71-2009
+    codigo_sintetizado: D71_2009 Censo de Entidades Colaboradoras de la Ensenanza
+      Andalucia
+    titulo: Decreto 71/2009, de 31 de marzo, por el que se regula el Censo de Entidades
+      Colaboradoras de la Enseñanza.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2009-04-17'
+    estado: Vigente
+    redaccion: texto_integro_boja
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Órganos Colegiados y Participación
+    tags:
+    - entidades-colaboradoras
+    - ampas
+    - asociaciones-padres-alumnado
+    - participacion-educativa
+    - censo-educativo
+    - andalucia
+    path: autonómica/andalucía/02_gestion_y_administracion_centros/D71_2009_regula_censo_entidades_colaboradoras_ensenanza_andalucia.md
+    relaciones:
+      fundamentado_en:
+      - norma_id: norm-and-l-17-2007
+      - norma_id: norm-es-lo-2-2006
+  norm-and-o-26-12-2024:
+    id: norm-and-o-26-12-2024
+    codigo_sintetizado: O26_12_2024 Normas Convocatorias Conciertos Educativos Andalucia
+    titulo: Orden de 26 de diciembre de 2024, por la que se establecen las normas
+      de las convocatorias para acogerse al régimen de conciertos educativos en las
+      enseñanzas de Educación Infantil, Educación Especial, Educación Secundaria Obligatoria,
+      Bachillerato y Formación Profesional, para los cursos escolares 2025/2026 a
+      2028/2029.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2025-01-08'
+    estado: Vigente
+    redaccion: texto_integro_boja
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Conciertos y Convenios
+    tags:
+    - conciertos-educativos
+    - centros-concertados
+    - educacion-infantil
+    - educacion-especial
+    - eso
+    - bachillerato
+    - formacion-profesional
+    - andalucia
+    path: autonómica/andalucía/02_gestion_y_administracion_centros/O26_12_2024_normas_convocatorias_conciertos_educativos_andalucia.md
+    relaciones:
+      fundamentado_en:
+      - norma_id: norm-es-lo-2-2006
+      - norma_id: norm-es-rd-2377-1985
+      - norma_id: norm-and-l-17-2007
+  norm-and-o-2-12-2022:
+    id: norm-and-o-2-12-2022
+    codigo_sintetizado: O2_12_2022 Normas Convocatorias Conciertos Educativos Primaria
+      Andalucia
+    titulo: Orden de 2 de diciembre de 2022, por la que se establecen las normas de
+      las convocatorias para acogerse al régimen de conciertos educativos en la enseñanza
+      de Educación Primaria, desde el curso académico 2023/24 hasta el curso académico
+      2028/29.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2022-12-16'
+    estado: Vigente
+    redaccion: texto_integro_boja
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Conciertos y Convenios
+    tags:
+    - conciertos-educativos
+    - centros-concertados
+    - educacion-primaria
+    - andalucia
+    path: autonómica/andalucía/02_gestion_y_administracion_centros/O2_12_2022_normas_convocatorias_conciertos_educativos_primaria_andalucia.md
+    relaciones:
+      fundamentado_en:
+      - norma_id: norm-es-lo-2-2006
+      - norma_id: norm-es-rd-2377-1985
+      - norma_id: norm-and-l-17-2007
   norm-and-o-9-11-2020:
     id: norm-and-o-9-11-2020
     codigo_sintetizado: O9_11_2020 Acceso Evaluacion Formacion Equipos Directivos
@@ -2981,6 +3088,34 @@ normas:
       - norma_id: norm-and-l17-2007
       - norma_id: norm-es-lo-2-2006
       - norma_id: norm-es-l-39-2015
+  norm-and-o-16-9-2019:
+    id: norm-and-o-16-9-2019
+    codigo_sintetizado: O16_9_2019 Pruebas Graduado ESO Mayores Andalucia
+    titulo: Orden de 16 de septiembre de 2019, por la que se regulan las pruebas para
+      la obtención del título de Graduado en Educación Secundaria Obligatoria para
+      personas mayores de dieciocho años y se determina el proceso específico de obtención
+      de clave iANDE dirigido a las personas interesadas en la inscripción de las
+      pruebas extraordinarias de obtención de títulos de FP.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2019-10-15'
+    estado: Vigente
+    redaccion: texto_integro_boja
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación de Personas Adultas
+    tags:
+    - educacion-personas-adultas
+    - graduado-eso
+    - pruebas-libres
+    - mayores-18
+    - iande
+    - andalucia
+    path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/O16_9_2019_pruebas_obtencion_titulo_graduado_eso_mayores_andalucia.md
+    relaciones:
+      fundamentado_en:
+      - norma_id: norm-es-lo-2-2006
+      - norma_id: norm-and-l-17-2007
   norm-and-o17-4-2008-pruebas-acceso-artes-plasticas-diseno-andalucia:
     id: norm-and-o17-4-2008-pruebas-acceso-artes-plasticas-diseno-andalucia
     codigo_sintetizado: ''
@@ -3031,6 +3166,37 @@ normas:
       - norma_id: norm-and-l17-2007
       - norma_id: norm-es-lo-2-2006
       - norma_id: norm-es-l-39-2015
+  norm-and-o-18-9-2025:
+    id: norm-and-o-18-9-2025
+    codigo_sintetizado: O18_9_2025 Evaluacion Certificacion y Titulacion Grados D
+      y E FP Andalucia
+    titulo: Orden de 18 de septiembre de 2025, por la que se regula la evaluación,
+      certificación, acreditación y titulación académica del alumnado que cursa enseñanzas
+      de los grados D y E del Sistema de Formación Profesional en la Comunidad Autónoma
+      de Andalucía.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2025-09-26'
+    estado: Vigente
+    redaccion: texto_integro_boja
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - formacion-profesional
+    - grados-d-e
+    - evaluacion-fp
+    - certificacion
+    - acreditacion
+    - titulacion
+    - dual
+    - andalucia
+    path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/O18_9_2025_evaluacion_certificacion_titulacion_grados_d_e_fp_andalucia.md
+    relaciones:
+      fundamentado_en:
+      - norma_id: norm-es-lo-3-2022
+      - norma_id: norm-es-rd-659-2023
+      - norma_id: norm-and-d-147-2025
   norm-and-o-19-10-2020:
     id: norm-and-o-19-10-2020
     codigo_sintetizado: O19_10_2020 Ordenacion Evaluacion Reconocimiento Creditos
