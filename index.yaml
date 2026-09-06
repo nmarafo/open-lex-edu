@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 579
+total_normas: 574
 normas:
   norm-and-d154-2022:
     id: norm-and-d154-2022
@@ -12301,6 +12301,97 @@ normas:
       - norma_id: norm-es-2010-12201
       - norma_id: norm-can-d-135-2016
       - norma_id: norm-can-d-212-1991
+  norm-can-res-boc-2026-060-61:
+    id: norm-can-res-boc-2026-060-61
+    codigo_sintetizado: Resolucion BOC 61
+    titulo: 'Resolución de la Dirección General de Ordenación de las Enseñanzas, Inclusión
+      e Innovación, por la que se dictan instrucciones para regular la implantación,
+      con carácter de experiencia piloto, del Programa del Diploma del Bachillerato
+      Internacional en centros educativos públicos de la Comunidad Autónoma de Canarias,
+      durante el curso 2026-2027. Presentación de solicitudes de participación del
+      alumnado por vía telemática: del 20 de abril al 11 de mayo (BOC nº 60, de 27
+      de marzo).'
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: pdf_oficial_boc
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Bachillerato
+    tags:
+    - bachillerato
+    - bienestar-infantil
+    - ensenanzas-deportivas
+    - equipos-directivos
+    - formacion-profesional
+    - inclusiva
+    - neae
+    - personal-no-docente
+    - profesorado
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R12_3_2026_instrucciones_implantacion_piloto_bachillerato_internacional_canarias.md
+    relaciones:
+      desarrolla:
+      - norma_id: norm-es-lo-2-2006
+        articulos_destino:
+        - Art. 32
+      - norma_id: norm-es-2021-20113
+        articulos_destino:
+        - Art. 32
+      - norma_id: norm-es-2010-12201
+        articulos_destino:
+        - Art. 32
+      - norma_id: norm-es-lo-3-2020
+        articulos_destino:
+        - Art. 32
+      - norma_id: norm-can-d-84-2024
+        articulos_destino:
+        - Art. 17
+      - norma_id: norm-can-d-25-2018
+        articulos_destino:
+        - Art. 17
+      - norma_id: norm-es-l-40-2015
+        articulos_destino:
+        - Art. 17
+      - norma_id: norm-can-d-84-2024
+        articulos_destino:
+        - Art. 17
+        - Art. 121
+        - Art. 122
+      - norma_id: norm-es-l-39-2015
+        articulos_destino:
+        - Art. 17
+        - Art. 121
+        - Art. 122
+      cita:
+      - norma_id: norm-can-l-6-2014
+        articulos_destino:
+        - Art. 1
+        - Art. 3
+        - Art. 5
+        - Art. 37
+      fundamentado_en:
+      - norma_id: norm-can-d-25-2018
+      - norma_id: norm-can-d-84-2024
+      - norma_id: norm-can-l-6-2014
+      - norma_id: norm-can-res-boc-2019-069-48
+      - norma_id: norm-es-2010-12201
+      - norma_id: norm-es-2021-20113
+      - norma_id: norm-es-l-39-2015
+      - norma_id: norm-es-l-40-2015
+      - norma_id: norm-es-lo-2-2006
+      fundamentos_derecho:
+      - norma_id: norm-can-l-6-2014
+      articulos:
+      - norma_id: '1'
+      - norma_id: norm-can-d-84-2024
+      - norma_id: norm-can-res-boc-2019-069-48
+      - norma_id: norm-can-d-25-2018
+      - norma_id: norm-es-l-39-2015
+      - norma_id: norm-es-l-40-2015
+      - norma_id: norm-es-lo-2-2006
+      - norma_id: norm-es-2021-20113
+      - norma_id: norm-es-2010-12201
   norm-can-res-boc-2011-099-72:
     id: norm-can-res-boc-2011-099-72
     codigo_sintetizado: Resolucion BOC 72
@@ -17369,6 +17460,108 @@ normas:
       - norma_id: norm-can-l-6-2014
       articulos:
       - norma_id: '1'
+  norm-can-res-059:
+    id: norm-can-res-059
+    codigo_sintetizado: Resolucion BOC 59
+    titulo: Resolución de la Dirección General de Formación Profesional y Enseñanzas
+      de Régimen Especial, número 597/2025 de 4 de diciembre, por la que se convocan
+      pruebas para la obtención de certificados de nivel intermedio B2 y nivel avanzado
+      C1 de Inglés de Enseñanzas de Idiomas de Régimen Especial en la Comunidad Autónoma
+      de Canarias y se dictan instrucciones para su organización y aplicación en el
+      curso 2025-2026 (BOC núm 250, de 18 de diciembre).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: pdf_oficial_boc
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas de Idiomas
+    tags:
+    - ense-anzas-de-idiomas
+    - ensenanzas-deportivas
+    - eoi
+    - equipos-directivos
+    - evaluacion
+    - formacion-profesional
+    - profesorado
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R4_12_2025_convocatoria_pruebas_certificados_ingles_eoi_canarias.md
+    relaciones:
+      desarrolla:
+      - norma_id: norm-es-lo-2-2006
+        capitulo_destino: Capítulo V
+        articulos_destino:
+        - Art. 59
+        - Art. 60
+        - Art. 61
+        - Art. 62
+        - Art. 7
+        - Art. 27
+        - Art. 28
+      - norma_id: norm-es-2021-20113
+        capitulo_destino: Capítulo V
+        articulos_destino:
+        - Art. 59
+        - Art. 60
+        - Art. 61
+        - Art. 62
+        - Art. 7
+        - Art. 27
+        - Art. 28
+      - norma_id: norm-es-2019-317
+        capitulo_destino: Capítulo V
+        articulos_destino:
+        - Art. 59
+        - Art. 60
+        - Art. 61
+        - Art. 62
+        - Art. 7
+        - Art. 27
+        - Art. 28
+      - norma_id: norm-es-2010-12201
+        capitulo_destino: Capítulo V
+        articulos_destino:
+        - Art. 59
+        - Art. 60
+        - Art. 61
+        - Art. 62
+        - Art. 7
+        - Art. 27
+        - Art. 28
+      cita:
+      - norma_id: norm-can-d-84-2024
+        articulos_destino:
+        - Art. 20
+      - norma_id: norm-es-2019-317
+      modifica:
+      - norma_id: norm-es-lo-2-2006
+        disposiciones_destino:
+        - D. Adicional vigesimotercera
+      - norma_id: norm-es-2021-20113
+        disposiciones_destino:
+        - D. Adicional vigesimotercera
+      - norma_id: norm-es-2010-12201
+        disposiciones_destino:
+        - D. Adicional vigesimotercera
+      fundamentado_en:
+      - norma_id: norm-can-d-212-1991
+      - norma_id: norm-can-d-84-2024
+      - norma_id: norm-can-l-6-2014
+      - norma_id: norm-es-2010-12201
+      - norma_id: norm-es-2019-317
+      - norma_id: norm-es-2021-20113
+      - norma_id: norm-es-lo-2-2006
+      - norma_id: norm-es-l-39-2015
+      fundamentos_derecho:
+      - norma_id: norm-can-l-6-2014
+      articulos:
+      - norma_id: '1'
+      - norma_id: norm-can-d-84-2024
+      - norma_id: norm-es-lo-2-2006
+      - norma_id: norm-es-2019-317
+      - norma_id: norm-es-2021-20113
+      - norma_id: norm-es-2010-12201
+      - norma_id: norm-can-d-212-1991
   norm-can-res-boc-2017-036-75:
     id: norm-can-res-boc-2017-036-75
     codigo_sintetizado: Resolucion BOC 75
@@ -18348,199 +18541,6 @@ normas:
       articulos:
       - norma_id: '1'
       - norma_id: norm-es-2001-7022
-  norm-can-res-boc-2026-060-61:
-    id: norm-can-res-boc-2026-060-61
-    codigo_sintetizado: Resolucion BOC 61
-    titulo: 'Resolución de la Dirección General de Ordenación de las Enseñanzas, Inclusión
-      e Innovación, por la que se dictan instrucciones para regular la implantación,
-      con carácter de experiencia piloto, del Programa del Diploma del Bachillerato
-      Internacional en centros educativos públicos de la Comunidad Autónoma de Canarias,
-      durante el curso 2026-2027. Presentación de solicitudes de participación del
-      alumnado por vía telemática: del 20 de abril al 11 de mayo (BOC nº 60, de 27
-      de marzo).'
-    jurisdiccion: Canarias
-    ambito: Autonómico
-    tipo_disposicion: Resolución
-    fecha_publicacion: ''
-    estado: Vigente
-    redaccion: pdf_oficial_boc
-    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
-    subcategoria: Bachillerato
-    tags:
-    - bachillerato
-    - bienestar-infantil
-    - ensenanzas-deportivas
-    - equipos-directivos
-    - formacion-profesional
-    - inclusiva
-    - neae
-    - personal-no-docente
-    - profesorado
-    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R_e_innovacion_dictan_instrucciones_regular.md
-    relaciones:
-      desarrolla:
-      - norma_id: norm-es-lo-2-2006
-        articulos_destino:
-        - Art. 32
-      - norma_id: norm-es-2021-20113
-        articulos_destino:
-        - Art. 32
-      - norma_id: norm-es-2010-12201
-        articulos_destino:
-        - Art. 32
-      - norma_id: norm-es-lo-3-2020
-        articulos_destino:
-        - Art. 32
-      - norma_id: norm-can-d-84-2024
-        articulos_destino:
-        - Art. 17
-      - norma_id: norm-can-d-25-2018
-        articulos_destino:
-        - Art. 17
-      - norma_id: norm-es-l-40-2015
-        articulos_destino:
-        - Art. 17
-      - norma_id: norm-can-d-84-2024
-        articulos_destino:
-        - Art. 17
-        - Art. 121
-        - Art. 122
-      - norma_id: norm-es-l-39-2015
-        articulos_destino:
-        - Art. 17
-        - Art. 121
-        - Art. 122
-      cita:
-      - norma_id: norm-can-l-6-2014
-        articulos_destino:
-        - Art. 1
-        - Art. 3
-        - Art. 5
-        - Art. 37
-      fundamentado_en:
-      - norma_id: norm-can-d-25-2018
-      - norma_id: norm-can-d-84-2024
-      - norma_id: norm-can-l-6-2014
-      - norma_id: norm-can-res-boc-2019-069-48
-      - norma_id: norm-es-2010-12201
-      - norma_id: norm-es-2021-20113
-      - norma_id: norm-es-l-39-2015
-      - norma_id: norm-es-l-40-2015
-      - norma_id: norm-es-lo-2-2006
-      fundamentos_derecho:
-      - norma_id: norm-can-l-6-2014
-      articulos:
-      - norma_id: '1'
-      - norma_id: norm-can-d-84-2024
-      - norma_id: norm-can-res-boc-2019-069-48
-      - norma_id: norm-can-d-25-2018
-      - norma_id: norm-es-l-39-2015
-      - norma_id: norm-es-l-40-2015
-      - norma_id: norm-es-lo-2-2006
-      - norma_id: norm-es-2021-20113
-      - norma_id: norm-es-2010-12201
-  norm-can-res-059:
-    id: norm-can-res-059
-    codigo_sintetizado: Resolucion BOC 59
-    titulo: Resolución de la Dirección General de Formación Profesional y Enseñanzas
-      de Régimen Especial, número 597/2025 de 4 de diciembre, por la que se convocan
-      pruebas para la obtención de certificados de nivel intermedio B2 y nivel avanzado
-      C1 de Inglés de Enseñanzas de Idiomas de Régimen Especial en la Comunidad Autónoma
-      de Canarias y se dictan instrucciones para su organización y aplicación en el
-      curso 2025-2026 (BOC núm 250, de 18 de diciembre).
-    jurisdiccion: Canarias
-    ambito: Autonómico
-    tipo_disposicion: Resolución
-    fecha_publicacion: ''
-    estado: Vigente
-    redaccion: pdf_oficial_boc
-    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
-    subcategoria: Enseñanzas de Idiomas
-    tags:
-    - ense-anzas-de-idiomas
-    - ensenanzas-deportivas
-    - eoi
-    - equipos-directivos
-    - evaluacion
-    - formacion-profesional
-    - profesorado
-    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/Rsn_numero_convocan_pruebas_obtencion_certificados_nivel.md
-    relaciones:
-      desarrolla:
-      - norma_id: norm-es-lo-2-2006
-        capitulo_destino: Capítulo V
-        articulos_destino:
-        - Art. 59
-        - Art. 60
-        - Art. 61
-        - Art. 62
-        - Art. 7
-        - Art. 27
-        - Art. 28
-      - norma_id: norm-es-2021-20113
-        capitulo_destino: Capítulo V
-        articulos_destino:
-        - Art. 59
-        - Art. 60
-        - Art. 61
-        - Art. 62
-        - Art. 7
-        - Art. 27
-        - Art. 28
-      - norma_id: norm-es-2019-317
-        capitulo_destino: Capítulo V
-        articulos_destino:
-        - Art. 59
-        - Art. 60
-        - Art. 61
-        - Art. 62
-        - Art. 7
-        - Art. 27
-        - Art. 28
-      - norma_id: norm-es-2010-12201
-        capitulo_destino: Capítulo V
-        articulos_destino:
-        - Art. 59
-        - Art. 60
-        - Art. 61
-        - Art. 62
-        - Art. 7
-        - Art. 27
-        - Art. 28
-      cita:
-      - norma_id: norm-can-d-84-2024
-        articulos_destino:
-        - Art. 20
-      - norma_id: norm-es-2019-317
-      modifica:
-      - norma_id: norm-es-lo-2-2006
-        disposiciones_destino:
-        - D. Adicional vigesimotercera
-      - norma_id: norm-es-2021-20113
-        disposiciones_destino:
-        - D. Adicional vigesimotercera
-      - norma_id: norm-es-2010-12201
-        disposiciones_destino:
-        - D. Adicional vigesimotercera
-      fundamentado_en:
-      - norma_id: norm-can-d-212-1991
-      - norma_id: norm-can-d-84-2024
-      - norma_id: norm-can-l-6-2014
-      - norma_id: norm-es-2010-12201
-      - norma_id: norm-es-2019-317
-      - norma_id: norm-es-2021-20113
-      - norma_id: norm-es-lo-2-2006
-      - norma_id: norm-es-l-39-2015
-      fundamentos_derecho:
-      - norma_id: norm-can-l-6-2014
-      articulos:
-      - norma_id: '1'
-      - norma_id: norm-can-d-84-2024
-      - norma_id: norm-es-lo-2-2006
-      - norma_id: norm-es-2019-317
-      - norma_id: norm-es-2021-20113
-      - norma_id: norm-es-2010-12201
-      - norma_id: norm-can-d-212-1991
   norm-can-d-106-2009:
     id: norm-can-d-106-2009
     codigo_sintetizado: D106_2009 Funcion Directiva en Centros Docentes Publicos
@@ -18862,97 +18862,6 @@ normas:
     - organizacion-escolar
     - canarias
     path: autonómica/canarias/04_organizacion_escolar_y_funcionamiento/D93_1999_regula_creacion_centros_educacion_obligatoria_aprueba_reglamento_organico.md
-  norm-can-o-2023-09-28:
-    id: norm-can-o-2023-09-28
-    codigo_sintetizado: O28_9_2023 Instrucciones de Organizacion y Funcionamiento
-      de Centros
-    titulo: Orden de 28 de septiembre de 2023, por la que se aprueban las instrucciones
-      de organización y funcionamiento de los centros docentes públicos no universitarios
-      de la Comunidad Autónoma de Canarias.
-    jurisdiccion: Canarias
-    ambito: Autonómico
-    tipo_disposicion: Orden
-    fecha_publicacion: '2023-10-06'
-    estado: Vigente
-    redaccion: original
-    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
-    subcategoria: Instrucciones de organización y funcionamiento
-    tags:
-    - admision-alumnado
-    - instrucciones-de-organizacion-y-funcionamiento
-    - instrucciones-inicio-curso
-    - oposiciones
-    - organizacion-centros
-    - personal-no-docente
-    - profesorado
-    path: autonómica/canarias/04_organizacion_escolar_y_funcionamiento/O28_9_2023_aprueban_instrucciones_organizacion_funcionamiento_centros_docentes.md
-    relaciones:
-      modifica:
-      - norma_id: norm-es-rdl-2-2015
-        articulos_destino:
-        - Art. 16
-      - norma_id: norm-can-o-2013-10-09
-      cita:
-      - norma_id: norm-es-rdl-2-2015
-      - norma_id: norm-es-lo-3-2018
-      - norma_id: norm-es-l-39-2015
-        articulos_destino:
-        - Art. 68
-      - norma_id: norm-es-l-40-2015
-      - norma_id: norm-es-l-40-2015
-        articulos_destino:
-        - Art. 23
-        - Art. 24
-      - norma_id: norm-es-c-1978
-      - norma_id: norm-es-2010-4518
-      - norma_id: norm-es-2007-6115
-      - norma_id: norm-can-lo-1-2018
-      - norma_id: norm-es-rdl-5-2015
-      - norma_id: norm-es-rdleg-5-2015
-      - norma_id: norm-es-l-19-2013
-      - norma_id: norm-es-l-39-2015
-      - norma_id: norm-es-lo-1-2004
-      fundamentado_en:
-      - norma_id: norm-es-rdl-5-2015
-        articulos_destino:
-        - Art. 57
-      - norma_id: norm-es-rdleg-5-2015
-        articulos_destino:
-        - Art. 57
-      - norma_id: norm-es-l-39-2015
-        articulos_destino:
-        - Art. 66
-      - norma_id: norm-es-l-39-2015
-      - norma_id: norm-can-res-boc-2019-069-48
-      - norma_id: norm-es-2007-6115
-      - norma_id: norm-es-2010-4518
-      - norma_id: norm-es-l-19-2013
-      - norma_id: norm-es-l-40-2015
-      - norma_id: norm-es-lo-1-2004
-      - norma_id: norm-es-lo-2-2006
-      - norma_id: norm-es-lo-3-2018
-      - norma_id: norm-es-rdl-2-2015
-      - norma_id: norm-can-l-6-2014
-      desarrolla:
-      - norma_id: norm-can-d-81-2010
-      - norma_id: norm-es-lo-2-2006
-      fundamento_de:
-      - norma_id: norm-can-res-055
-      - norma_id: norm-can-res-boc-2026-116-87
-      fundamentos_derecho:
-      - norma_id: norm-can-d-81-2010
-      articulos:
-      - norma_id: '120'
-      - norma_id: norm-can-res-boc-2019-069-48
-      - norma_id: norm-es-l-19-2013
-      - norma_id: norm-es-l-39-2015
-      - norma_id: norm-es-l-40-2015
-      - norma_id: norm-es-rdl-5-2015
-      - norma_id: norm-es-lo-3-2018
-      - norma_id: norm-es-2007-6115
-      - norma_id: norm-es-2010-4518
-      - norma_id: norm-es-lo-1-2004
-      - norma_id: norm-es-rdl-2-2015
   norm-can-o-2013-10-09:
     id: norm-can-o-2013-10-09
     codigo_sintetizado: O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)
@@ -20848,6 +20757,136 @@ normas:
       - norma_id: norm-es-2021-20113
       - norma_id: norm-es-2010-12201
       - norma_id: norm-can-d-212-1991
+  norm-can-res-096:
+    id: norm-can-res-096
+    codigo_sintetizado: Resolucion BOC 96
+    titulo: Resolución de 30 de enero de2026, de la Dirección General de Personal
+      y Formación del Profesorado, por la que se convoca, por el sistema de libre
+      designación, la provisión de puestos de dirección de centros públicos integrados
+      de formación profesional de la Comunidad Autónoma de Canarias para el periodo
+      de mandato 2026-2030 (BOC n.º 29, de 12 de febrero).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: pdf_oficial_boc
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Función directiva y liderazgo
+    tags:
+    - concurso-traslados
+    - ensenanzas-deportivas
+    - equipos-directivos
+    - formacion-profesional
+    - funci-n-directiva-y-liderazgo
+    - lopivi
+    - oposiciones
+    - profesorado
+    - roc
+    path: autonómica/canarias/04_organizacion_escolar_y_funcionamiento/R30_1_2026_convocatoria_puestos_direccion_cifp_canarias.md
+    relaciones:
+      fundamentado_en:
+      - norma_id: norm-es-l-39-2015
+        seccion_origen: Sección primera. de su capítulo cuarto a la regulación de
+          los órganos de gobierno de estos
+        articulos_destino:
+        - Art. 16
+        - Art. 3
+        - Art. 4
+        - Art. 5
+        - Art. 6
+        - Art. 7
+        - Art. 8
+        - Art. 57
+      - norma_id: norm-es-l-40-2015
+        seccion_origen: Sección primera. de su capítulo cuarto a la regulación de
+          los órganos de gobierno de estos
+        articulos_destino:
+        - Art. 16
+        - Art. 3
+        - Art. 4
+        - Art. 5
+        - Art. 6
+        - Art. 7
+        - Art. 8
+        - Art. 57
+      - norma_id: norm-es-lo-8-2021
+        seccion_origen: Sección primera. de su capítulo cuarto a la regulación de
+          los órganos de gobierno de estos
+        articulos_destino:
+        - Art. 16
+        - Art. 3
+        - Art. 4
+        - Art. 5
+        - Art. 6
+        - Art. 7
+        - Art. 8
+        - Art. 57
+      - norma_id: norm-can-d-212-1991
+        seccion_origen: Sección primera. de su capítulo cuarto a la regulación de
+          los órganos de gobierno de estos
+        articulos_destino:
+        - Art. 19
+      - norma_id: norm-can-d-84-2024
+        seccion_origen: Sección primera. de su capítulo cuarto a la regulación de
+          los órganos de gobierno de estos
+        articulos_destino:
+        - Art. 19
+      - norma_id: norm-es-l-40-2015
+        seccion_origen: Sección primera. de su capítulo cuarto a la regulación de
+          los órganos de gobierno de estos
+        articulos_destino:
+        - Art. 23
+        - Art. 24
+      - norma_id: norm-can-l-6-2014
+      - norma_id: norm-es-2010-12201
+      - norma_id: norm-es-2021-20113
+      - norma_id: norm-es-lo-2-2006
+      cita:
+      - norma_id: norm-es-c-1978
+        seccion_origen: Sección primera. de su capítulo cuarto a la regulación de
+          los órganos de gobierno de estos
+      modifica:
+      - norma_id: norm-es-lo-2-2006
+        seccion_origen: Sección primera. de su capítulo cuarto a la regulación de
+          los órganos de gobierno de estos
+        articulos_destino:
+        - Art. 57
+      - norma_id: norm-es-2021-20113
+        seccion_origen: Sección primera. de su capítulo cuarto a la regulación de
+          los órganos de gobierno de estos
+        articulos_destino:
+        - Art. 57
+      - norma_id: norm-es-2010-12201
+        seccion_origen: Sección primera. de su capítulo cuarto a la regulación de
+          los órganos de gobierno de estos
+        articulos_destino:
+        - Art. 57
+      - norma_id: norm-es-lo-8-2021
+        seccion_origen: Sección primera. de su capítulo cuarto a la regulación de
+          los órganos de gobierno de estos
+        articulos_destino:
+        - Art. 57
+      - norma_id: norm-es-lo-8-2021
+        seccion_origen: Sección primera. de su capítulo cuarto a la regulación de
+          los órganos de gobierno de estos
+      desarrolla:
+      - norma_id: norm-es-lo-8-2021
+        seccion_origen: Sección primera. de su capítulo cuarto a la regulación de
+          los órganos de gobierno de estos
+      - norma_id: norm-es-lo-2-2006
+      fundamentos_derecho:
+      - norma_id: norm-can-l-6-2014
+      articulos:
+      - norma_id: '1'
+      - norma_id: norm-can-d-84-2024
+      - norma_id: norm-es-l-39-2015
+      - norma_id: norm-es-l-40-2015
+      - norma_id: norm-es-lo-2-2006
+      - norma_id: norm-es-2021-20113
+      - norma_id: norm-es-2010-12201
+      - norma_id: norm-es-lo-8-2021
+      - norma_id: norm-can-d-212-1991
   norm-can-res-boc-2024-117-93:
     id: norm-can-res-boc-2024-117-93
     codigo_sintetizado: Resolucion BOC 93
@@ -20993,199 +21032,6 @@ normas:
       - norma_id: norm-es-lo-8-1985
       - norma_id: norm-es-2021-20113
       - norma_id: norm-es-2010-12201
-  norm-can-r-fp-dual-curso-2025-2026:
-    id: norm-can-r-fp-dual-curso-2025-2026
-    codigo_sintetizado: R_Instrucciones FP Dual Curso 2025-2026 Canarias
-    titulo: Resolución por la que se dictan instrucciones relativas a la ordenación,
-      desarrollo y gestión del sistema de Formación Profesional Dual para el curso
-      escolar 2025-2026.
-    jurisdiccion: Canarias
-    ambito: Autonómico
-    tipo_disposicion: Resolución
-    fecha_publicacion: '2025-07-18'
-    estado: Vigente
-    redaccion: pdf_oficial_boc
-    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
-    subcategoria: Formación Profesional
-    tags:
-    - fp_dual
-    - formacion_profesional
-    - tutoria_empresa
-    - curso_2025_2026
-    - canarias
-    path: autonómica/canarias/04_organizacion_escolar_y_funcionamiento/R_instrucciones_ordenacion_desarrollo_fp_dual_2025_2026.md
-    relaciones:
-      desarrolla:
-      - norma_id: norm-es-l-39-2015
-        articulos_destino:
-        - Art. 45
-        - Art. 48
-        - Art. 49
-      - norma_id: norm-es-lo-2-2006
-      fundamentado_en:
-      - norma_id: norm-can-l-6-2014
-      - norma_id: norm-es-lo-2-2006
-      - norma_id: norm-es-l-39-2015
-      - norma_id: norm-es-l-40-2015
-  norm-can-r-instrucciones-curso-2025-2026:
-    id: norm-can-r-instrucciones-curso-2025-2026
-    codigo_sintetizado: R_Instrucciones Inicio de Curso 2025-2026 Canarias
-    titulo: Resolución por la que se dictan instrucciones para la organización y funcionamiento
-      de los centros docentes públicos no universitarios de la Comunidad Autónoma
-      de Canarias para el curso escolar 2025-2026.
-    jurisdiccion: Canarias
-    ambito: Autonómico
-    tipo_disposicion: Resolución
-    fecha_publicacion: '2025-07-02'
-    estado: Vigente
-    redaccion: pdf_oficial_boc
-    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
-    subcategoria: Instrucciones de comienzo de curso
-    tags:
-    - inicio_de_curso
-    - instrucciones_curso_2025_2026
-    - organizacion_escolar
-    - horarios
-    - canarias
-    path: autonómica/canarias/04_organizacion_escolar_y_funcionamiento/R_instrucciones_organizacion_funcionamiento_centros_2025_2026.md
-    relaciones:
-      desarrolla:
-      - norma_id: norm-es-lo-2-2006
-      fundamentado_en:
-      - norma_id: norm-can-l-6-2014
-      - norma_id: norm-es-lo-2-2006
-      - norma_id: norm-es-l-39-2015
-      - norma_id: norm-es-l-40-2015
-  norm-can-res-096:
-    id: norm-can-res-096
-    codigo_sintetizado: Resolucion BOC 96
-    titulo: Resolución de 30 de enero de2026, de la Dirección General de Personal
-      y Formación del Profesorado, por la que se convoca, por el sistema de libre
-      designación, la provisión de puestos de dirección de centros públicos integrados
-      de formación profesional de la Comunidad Autónoma de Canarias para el periodo
-      de mandato 2026-2030 (BOC n.º 29, de 12 de febrero).
-    jurisdiccion: Canarias
-    ambito: Autonómico
-    tipo_disposicion: Resolución
-    fecha_publicacion: ''
-    estado: Vigente
-    redaccion: pdf_oficial_boc
-    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
-    subcategoria: Función directiva y liderazgo
-    tags:
-    - concurso-traslados
-    - ensenanzas-deportivas
-    - equipos-directivos
-    - formacion-profesional
-    - funci-n-directiva-y-liderazgo
-    - lopivi
-    - oposiciones
-    - profesorado
-    - roc
-    path: autonómica/canarias/04_organizacion_escolar_y_funcionamiento/Rsn_de2026_convoca_sistema_libre_designacion_provision.md
-    relaciones:
-      fundamentado_en:
-      - norma_id: norm-es-l-39-2015
-        seccion_origen: Sección primera. de su capítulo cuarto a la regulación de
-          los órganos de gobierno de estos
-        articulos_destino:
-        - Art. 16
-        - Art. 3
-        - Art. 4
-        - Art. 5
-        - Art. 6
-        - Art. 7
-        - Art. 8
-        - Art. 57
-      - norma_id: norm-es-l-40-2015
-        seccion_origen: Sección primera. de su capítulo cuarto a la regulación de
-          los órganos de gobierno de estos
-        articulos_destino:
-        - Art. 16
-        - Art. 3
-        - Art. 4
-        - Art. 5
-        - Art. 6
-        - Art. 7
-        - Art. 8
-        - Art. 57
-      - norma_id: norm-es-lo-8-2021
-        seccion_origen: Sección primera. de su capítulo cuarto a la regulación de
-          los órganos de gobierno de estos
-        articulos_destino:
-        - Art. 16
-        - Art. 3
-        - Art. 4
-        - Art. 5
-        - Art. 6
-        - Art. 7
-        - Art. 8
-        - Art. 57
-      - norma_id: norm-can-d-212-1991
-        seccion_origen: Sección primera. de su capítulo cuarto a la regulación de
-          los órganos de gobierno de estos
-        articulos_destino:
-        - Art. 19
-      - norma_id: norm-can-d-84-2024
-        seccion_origen: Sección primera. de su capítulo cuarto a la regulación de
-          los órganos de gobierno de estos
-        articulos_destino:
-        - Art. 19
-      - norma_id: norm-es-l-40-2015
-        seccion_origen: Sección primera. de su capítulo cuarto a la regulación de
-          los órganos de gobierno de estos
-        articulos_destino:
-        - Art. 23
-        - Art. 24
-      - norma_id: norm-can-l-6-2014
-      - norma_id: norm-es-2010-12201
-      - norma_id: norm-es-2021-20113
-      - norma_id: norm-es-lo-2-2006
-      cita:
-      - norma_id: norm-es-c-1978
-        seccion_origen: Sección primera. de su capítulo cuarto a la regulación de
-          los órganos de gobierno de estos
-      modifica:
-      - norma_id: norm-es-lo-2-2006
-        seccion_origen: Sección primera. de su capítulo cuarto a la regulación de
-          los órganos de gobierno de estos
-        articulos_destino:
-        - Art. 57
-      - norma_id: norm-es-2021-20113
-        seccion_origen: Sección primera. de su capítulo cuarto a la regulación de
-          los órganos de gobierno de estos
-        articulos_destino:
-        - Art. 57
-      - norma_id: norm-es-2010-12201
-        seccion_origen: Sección primera. de su capítulo cuarto a la regulación de
-          los órganos de gobierno de estos
-        articulos_destino:
-        - Art. 57
-      - norma_id: norm-es-lo-8-2021
-        seccion_origen: Sección primera. de su capítulo cuarto a la regulación de
-          los órganos de gobierno de estos
-        articulos_destino:
-        - Art. 57
-      - norma_id: norm-es-lo-8-2021
-        seccion_origen: Sección primera. de su capítulo cuarto a la regulación de
-          los órganos de gobierno de estos
-      desarrolla:
-      - norma_id: norm-es-lo-8-2021
-        seccion_origen: Sección primera. de su capítulo cuarto a la regulación de
-          los órganos de gobierno de estos
-      - norma_id: norm-es-lo-2-2006
-      fundamentos_derecho:
-      - norma_id: norm-can-l-6-2014
-      articulos:
-      - norma_id: '1'
-      - norma_id: norm-can-d-84-2024
-      - norma_id: norm-es-l-39-2015
-      - norma_id: norm-es-l-40-2015
-      - norma_id: norm-es-lo-2-2006
-      - norma_id: norm-es-2021-20113
-      - norma_id: norm-es-2010-12201
-      - norma_id: norm-es-lo-8-2021
-      - norma_id: norm-can-d-212-1991
   norm-can-d-40-2005:
     id: norm-can-d-40-2005
     codigo_sintetizado: D40_2005 Ordenacion de Residencias Escolares
@@ -23755,79 +23601,6 @@ normas:
       - norma_id: norm-es-l-39-2015
       - norma_id: norm-can-res-boc-2025-061-88
       - norma_id: norm-can-d-212-1991
-  norm-can-r-admision-alumnado-2025-2026:
-    id: norm-can-r-admision-alumnado-2025-2026
-    codigo_sintetizado: R_Instrucciones Admision Alumnado 2025-2026 Canarias
-    titulo: Resolución por la que se aprueban las instrucciones relativas al procedimiento
-      de admisión y matriculación del alumnado para el curso escolar 2025-2026.
-    jurisdiccion: Canarias
-    ambito: Autonómico
-    tipo_disposicion: Resolución
-    fecha_publicacion: '2025-02-20'
-    estado: Vigente
-    redaccion: pdf_oficial_boc
-    categoria_canonica: 05_alumnado_y_servicios_escolares
-    subcategoria: Admisión de alumnado
-    tags:
-    - admision
-    - escolarizacion
-    - matriculacion
-    - curso_2025_2026
-    - canarias
-    path: autonómica/canarias/05_alumnado_y_servicios_escolares/R_instrucciones_procedimiento_admision_escolarizacion_2025_2026.md
-    relaciones:
-      modifica:
-      - norma_id: norm-can-l-2-1987
-        capitulo_destino: Capítulo III
-        articulos_destino:
-        - Art. 53
-        - Art. 77
-        - Art. 17
-        - Art. 18
-        - Art. 19
-        - Art. 20
-        - Art. 21
-        - Art. 22
-        - Art. 23
-        - Art. 81
-      - norma_id: norm-can-d-84-2024
-        capitulo_destino: Capítulo III
-        articulos_destino:
-        - Art. 53
-        - Art. 77
-        - Art. 17
-        - Art. 18
-        - Art. 19
-        - Art. 20
-        - Art. 21
-        - Art. 22
-        - Art. 23
-        - Art. 81
-      concordancia:
-      - norma_id: norm-can-l-2-1987
-        articulos_destino:
-        - Art. 31
-        - Art. 16
-        - Art. 52
-      - norma_id: norm-es-l-39-2015
-        articulos_destino:
-        - Art. 31
-        - Art. 16
-        - Art. 52
-      fundamentado_en:
-      - norma_id: norm-es-l-39-2015
-        articulos_destino:
-        - Art. 8
-        - Art. 123
-        - Art. 124
-      - norma_id: norm-es-l-39-2015
-        articulos_destino:
-        - Art. 69
-        - Art. 52
-      - norma_id: norm-can-l-6-2014
-      - norma_id: norm-es-lo-2-2006
-      desarrolla:
-      - norma_id: norm-es-lo-2-2006
   norm-can-d-104-2010:
     id: norm-can-d-104-2010
     codigo_sintetizado: D104_2010 Atencion a la Diversidad en Ensenanza No Universitaria
@@ -24645,34 +24418,6 @@ normas:
       - norma_id: norm-es-2021-20113
       - norma_id: norm-es-2010-12201
       - norma_id: norm-can-d-212-1991
-  norm-can-r-inclusión-neae-2025-2026:
-    id: norm-can-r-inclusión-neae-2025-2026
-    codigo_sintetizado: R_Respuesta Educativa Inclusiva NEAE 2025-2026 Canarias
-    titulo: Resolución por la que se dictan instrucciones relativas a la respuesta
-      educativa inclusiva y la organización de la atención al alumnado con necesidades
-      específicas de apoyo educativo (NEAE) para el curso 2025-2026.
-    jurisdiccion: Canarias
-    ambito: Autonómico
-    tipo_disposicion: Resolución
-    fecha_publicacion: '2025-07-08'
-    estado: Vigente
-    redaccion: pdf_oficial_boc
-    categoria_canonica: 06_atencion_diversidad_y_orientacion
-    subcategoria: Atención a la diversidad
-    tags:
-    - neae
-    - inclusion_educativa
-    - adaptaciones_curriculares
-    - orientacion
-    - canarias
-    path: autonómica/canarias/06_atencion_diversidad_y_orientacion/R_instrucciones_respuesta_educativa_inclusiva_neae_2025_2026.md
-    relaciones:
-      desarrolla:
-      - norma_id: norm-es-lo-2-2006
-      fundamentado_en:
-      - norma_id: norm-can-l-6-2014
-      - norma_id: norm-es-lo-2-2006
-      - norma_id: norm-es-lo-1-1996
   norm-can-d-114-2011:
     id: norm-can-d-114-2011
     codigo_sintetizado: D114_2011 Decreto de Convivencia Escolar

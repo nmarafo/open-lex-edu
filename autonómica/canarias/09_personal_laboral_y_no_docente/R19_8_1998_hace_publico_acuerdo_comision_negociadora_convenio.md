@@ -34,16 +34,21 @@ relaciones: {}
 
 La Comisión Negociadora del Convenio Colectivo del Personal Laboral al servicio de la Comunidad Autónoma de Canarias adopta, en sesión celebrada el día 6 de abril de 1998, el siguiente
 
-ACUERDO
+### Acuerdo
 
-I.- Ratificar el acuerdo adoptado en el seno del Comité Intercentros en fecha 31 de marzo de 1998, relativo a la posibilidad de ampliar la duración máxima de los contratos a que se refiere el artº. 15.1.b) del Estatuto de los Trabajadores.
+#### Punto I
+Ratificar el acuerdo adoptado en el seno del Comité Intercentros en fecha 31 de marzo de 1998, relativo a la posibilidad de ampliar la duración máxima de los contratos a que se refiere el artº. 15.1.b) del Estatuto de los Trabajadores.
 
-II.- En consecuencia, la duración máxima de dichos contratos será de nueve meses, dentro de un período de doce meses, en los términos del artículo anteriormente citado.
+#### Punto II
+En consecuencia, la duración máxima de dichos contratos será de nueve meses, dentro de un período de doce meses, en los términos del artículo anteriormente citado.
 
-III.- El presente acuerdo será de aplicación exclusivamente en la Consejería de Educación, Cultura y Deportes.
+#### Punto III
+El presente acuerdo será de aplicación exclusivamente en la Consejería de Educación, Cultura y Deportes.
 
-IV.- La Consejería de Educación, Cultura y Deportes se compromete a establecer los criterios que motivan este tipo de contratación, elevándose a la Coordinadora a los efectos de su negociación.
+#### Punto IV
+La Consejería de Educación, Cultura y Deportes se compromete a establecer los criterios que motivan este tipo de contratación, elevándose a la Coordinadora a los efectos de su negociación.
 
-V.- El presente acuerdo se publicará en el Boletín Oficial de Canarias como parte integrante del Convenio Colectivo del Personal Laboral al servicio de la Comunidad Autónoma de Canarias, y surtirá efectos desde el 31 de marzo de 1998.
+#### Punto V
+El presente acuerdo se publicará en el Boletín Oficial de Canarias como parte integrante del Convenio Colectivo del Personal Laboral al servicio de la Comunidad Autónoma de Canarias, y surtirá efectos desde el 31 de marzo de 1998.
 
 Por la Administración. Por el Comité Intercentros.
