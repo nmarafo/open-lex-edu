@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 569
+total_normas: 573
 normas:
   norm-and-d154-2022:
     id: norm-and-d154-2022
@@ -25762,6 +25762,32 @@ normas:
       - norma_id: norm-es-lo-2-2006
       - norma_id: norm-es-l-39-2015
       - norma_id: norm-es-l-40-2015
+  norm-mad-d-52-2021:
+    id: norm-mad-d-52-2021
+    codigo_sintetizado: D52_2021 Procedimiento Elaboracion Disposiciones Normativas
+      en Madrid
+    titulo: Decreto 52/2021, de 24 de marzo, del Consejo de Gobierno, por el que se
+      regula y simplifica el procedimiento de elaboración de las disposiciones normativas
+      de carácter general en la Comunidad de Madrid.
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2021-03-25'
+    estado: Vigente
+    redaccion: texto_integro_bocm
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Marco normativo general
+    tags:
+    - procedimiento-normativo
+    - potestad-reglamentaria
+    - simplificacion-administrativa
+    - buena-regulacion
+    - madrid
+    path: autonómica/madrid/01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md
+    relaciones:
+      fundamentado_en:
+      - norma_id: norm-es-l-39-2015
+      - norma_id: norm-mad-l-1-1983
   norm-mad-l12-1999-creacion-consejo-escolar-comunidad-madrid:
     id: norm-mad-l12-1999-creacion-consejo-escolar-comunidad-madrid
     codigo_sintetizado: Ley De Creacion Del Consejo Escolar De La Comunidad De Madrid
@@ -27633,6 +27659,34 @@ normas:
       - norma_id: norm-es-l-39-2015
       desarrolla:
       - norma_id: norm-es-lo-2-2006
+  norm-mad-d-63-2019:
+    id: norm-mad-d-63-2019
+    codigo_sintetizado: D63_2019 Ordenacion y Organizacion de Formacion Profesional
+      en Madrid
+    titulo: Decreto 63/2019, de 16 de julio, del Consejo de Gobierno, por el que se
+      regula la ordenación y organización de la formación profesional en la Comunidad
+      de Madrid.
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2019-07-19'
+    estado: Vigente
+    redaccion: texto_integro_bocm
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - formacion-profesional
+    - fp-grado-medio
+    - fp-grado-superior
+    - ordenacion-fp
+    - organizacion-fp
+    - pruebas-acceso
+    - madrid
+    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md
+    relaciones:
+      fundamentado_en:
+      - norma_id: norm-es-lo-2-2006
+      - norma_id: norm-es-rd-1147-2011
   norm-mad-d64-2022:
     id: norm-mad-d64-2022
     codigo_sintetizado: ''
@@ -30372,6 +30426,38 @@ normas:
     - tasas_precios
     - madrid
     path: autonómica/madrid/05_alumnado_y_servicios_escolares/O1641_2021_precio_menu_escolar_centros_publicos_madrid.md
+  norm-mad-o-2808-2023:
+    id: norm-mad-o-2808-2023
+    codigo_sintetizado: O2808_2023 Proceso de Admision de Alumnado en Madrid
+    titulo: Orden 2808/2023, de 30 de julio, de la Consejería de Educación, Ciencia
+      y Universidades, por la que se regula el proceso de admisión de alumnos en centros
+      docentes sostenidos con fondos públicos que imparten segundo ciclo de educación
+      infantil, educación primaria, educación secundaria obligatoria, bachillerato
+      y educación especial en la Comunidad de Madrid.
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2023-08-10'
+    estado: Vigente
+    redaccion: texto_integro_bocm
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión de Alumnado
+    tags:
+    - admision-alumnado
+    - centros-sostenidos-fondos-publicos
+    - baremacion
+    - segundo-ciclo-infantil
+    - primaria
+    - eso
+    - bachillerato
+    - educacion-especial
+    - madrid
+    path: autonómica/madrid/05_alumnado_y_servicios_escolares/O2808_2023_proceso_admision_alumnado_infantil_primaria_eso_bachillerato_madrid.md
+    relaciones:
+      fundamentado_en:
+      - norma_id: norm-mad-d-29-2013
+      - norma_id: norm-es-lo-2-2006
+      - norma_id: norm-mad-o-1240-2013
   norm-mad-o3136-2020-funcionamiento-servicio-comedor-escolar-centros-publicos-madrid:
     id: norm-mad-o3136-2020-funcionamiento-servicio-comedor-escolar-centros-publicos-madrid
     codigo_sintetizado: O3136 2020 Funcionamiento Servicio Comedor Escolar Centros
@@ -30394,6 +30480,32 @@ normas:
     - centros_publicos
     - madrid
     path: autonómica/madrid/05_alumnado_y_servicios_escolares/O3136_2020_funcionamiento_servicio_comedor_escolar_centros_publicos_madrid.md
+  norm-mad-o-956-2017:
+    id: norm-mad-o-956-2017
+    codigo_sintetizado: O956_2017 Precios Alimentacion y Comedor Escolar Centros Publicos
+      Madrid
+    titulo: Orden 956/2017, de 30 de marzo, de la Consejería de Educación, Juventud
+      y Deporte, por la que se fija la cuantía de los precios privados de alimentación
+      mensual o comedor de los centros de la red pública de la Comunidad de Madrid.
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2017-04-28'
+    estado: Vigente
+    redaccion: texto_integro_bocm
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Servicios Escolares y Actividades Complementarias
+    tags:
+    - comedores-escolares
+    - precios-publicos
+    - alimentacion-escolar
+    - servicios-complementarios
+    - centros-publicos
+    - madrid
+    path: autonómica/madrid/05_alumnado_y_servicios_escolares/O956_2017_precios_privados_alimentacion_comedor_centros_publicos_madrid.md
+    relaciones:
+      fundamentado_en:
+      - norma_id: norm-es-lo-2-2006
   norm-mad-r11-2-2026-instrucciones-admision-primer-ciclo-infantil-madrid:
     id: norm-mad-r11-2-2026-instrucciones-admision-primer-ciclo-infantil-madrid
     codigo_sintetizado: R11 2 2026 Instrucciones Admision Primer Ciclo Infantil Madrid

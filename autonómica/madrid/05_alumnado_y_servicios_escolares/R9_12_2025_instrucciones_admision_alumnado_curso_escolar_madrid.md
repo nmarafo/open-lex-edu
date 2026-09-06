@@ -429,7 +429,7 @@ DESTINATARIO SERVICIO DE APOYO A LA ESCOLARIZACIÓN_________________________ (03
 - **Modifica**: `norm-mad-d29-2013`
 - **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - **Fundamentado en**: [**Decreto 23/2023, de 22 de marzo, por el que se regula la atención a las dif**](../06_atencion_diversidad_y_orientacion/D23_2023_atencion_diferencias_individuales_alumnos_madrid.md)
-- **Fundamentado en**: [**Orden 2808/2023, de 31 de julio, de la Consejería de Educación, Ciencia y U**](./O2808_2023_proceso_admision_alumnado_eso_bachillerato_madrid.md) (Art. 4)
+- **Fundamentado en**: [**Orden 2808/2023, de 30 de julio, de la Consejería de Educación, Ciencia y Universidades**](./O2808_2023_proceso_admision_alumnado_infantil_primaria_eso_bachillerato_madrid.md) (Art. 4)
 - **Fundamentado en**: [**Orden 1240/2013, de 17 de abril, de la Consejería de Educación, Juventud y **](./O1240_2013_procedimiento_admision_alumnado_centros_sostenidos_fondos_publicos_madrid.md) (Art. 16)
 - **Fundamentado en**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) (Art. 23)
 - **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
