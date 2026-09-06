@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 596
+total_normas: 606
 normas:
   norm-and-d154-2022:
     id: norm-and-d154-2022
@@ -8237,6 +8237,29 @@ normas:
     - actividades_complementarias
     - comunidad_de_madrid
     path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/D95_2025_creacion_programa_educativo_actividades_artisticas_madrid.md
+  norm-mad-ins-2026-002:
+    id: norm-mad-ins-2026-002
+    codigo_sintetizado: Instrucciones Bachillerato Adultos 2026-2027 Madrid
+    titulo: Instrucciones de 29 de julio de 2026, de la Dirección General de Educación
+      Secundaria, Formación Profesional y Régimen Especial, sobre las enseñanzas del
+      Bachillerato para personas adultas en los centros docentes públicos de la Comunidad
+      de Madrid en el curso académico 2026/2027.
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Instrucción
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: pdf_oficial_interno
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación de personas adultas
+    tags:
+    - bachillerato
+    - educacion-de-adultos
+    - ordenacion-academica
+    - modalidad-nocturna
+    - modalidad-distancia
+    - evaluacion
+    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/I29_7_2026_instrucciones_bachillerato_personas_adultas_centros_publicos_madrid.md
   norm-mad-o-1190-2021:
     id: norm-mad-o-1190-2021
     codigo_sintetizado: O1190_2021 Bilinguismo Centros Concertados Madrid
@@ -8863,6 +8886,121 @@ normas:
     - supervision_escolar
     - madrid
     path: autonómica/madrid/04_organizacion_escolar_y_funcionamiento/D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md
+  norm-mad-ins-2026-001:
+    id: norm-mad-ins-2026-001
+    codigo_sintetizado: Instrucciones Comienzo Curso 2026-2027 Madrid
+    titulo: Instrucciones de la Viceconsejería de Política y Organización Educativa
+      sobre comienzo del curso escolar 2026-2027 en centros docentes públicos no universitarios
+      de la Comunidad de Madrid.
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Instrucción
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: pdf_oficial_interno
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Instrucciones de organización y funcionamiento
+    tags:
+    - instrucciones-comienzo-curso
+    - organizacion-escolar
+    - calendario-escolar
+    - horario-lectivo
+    - coordinador-bienestar-y-proteccion
+    - convivencia-escolar
+    - tutorias
+    path: autonómica/madrid/04_organizacion_escolar_y_funcionamiento/I15_7_2026_instrucciones_comienzo_curso_centros_docentes_publicos_madrid.md
+  norm-mad-ins-2026-003:
+    id: norm-mad-ins-2026-003
+    codigo_sintetizado: Instrucciones Funcionamiento CEPA 2026-2027 Madrid
+    titulo: Instrucciones de 17 de julio de 2026, de la Dirección General de Educación
+      Secundaria, Formación Profesional y Régimen Especial, sobre la organización
+      y funcionamiento de los Centros de Educación de Personas Adultas (CEPA), en
+      régimen presencial, semipresencial y a distancia, curso 2026-2027.
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Instrucción
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: pdf_oficial_interno
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Educación de personas adultas
+    tags:
+    - cepa
+    - educacion-de-adultos
+    - organizacion-escolar
+    - regimen-semipresencial
+    - regimen-distancia
+    - planes-formativos
+    path: autonómica/madrid/04_organizacion_escolar_y_funcionamiento/I17_7_2026_organizacion_funcionamiento_centros_educacion_personas_adultas_madrid.md
+  norm-mad-ins-2023-001:
+    id: norm-mad-ins-2023-001
+    codigo_sintetizado: Instrucciones Primer Ciclo Infantil CEIP Madrid
+    titulo: Instrucciones de 27 de junio de 2023, de la Dirección General de Educación
+      Infantil, Primaria y Especial, sobre organización y funcionamiento del primer
+      ciclo de Educación Infantil en centros de Educación Infantil y Primaria (CEIP)
+      de la Comunidad de Madrid.
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Instrucción
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: pdf_oficial_interno
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Educación Infantil
+    tags:
+    - educacion-infantil
+    - ceip
+    - primer-ciclo-infantil
+    - organizacion-escolar
+    - ratios-escolares
+    - espacios-educativos
+    path: autonómica/madrid/04_organizacion_escolar_y_funcionamiento/I27_6_2023_organizacion_funcionamiento_primer_ciclo_educacion_infantil_ceip_madrid.md
+  norm-mad-ins-2024-002:
+    id: norm-mad-ins-2024-002
+    codigo_sintetizado: Instrucciones Funcionamiento Casas de Ninos Madrid
+    titulo: Instrucciones de 2 de julio de 2024, de la Dirección General de Educación
+      Infantil, Primaria y Especial, sobre el funcionamiento de las casas de niños
+      de la red de centros públicos de la Comunidad de Madrid a partir del curso escolar
+      2024-2025.
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Instrucción
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: pdf_oficial_interno
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Educación Infantil
+    tags:
+    - educacion-infantil
+    - casas-de-ninos
+    - red-publica
+    - primer-ciclo-infantil
+    - organizacion-escolar
+    - participacion-familiar
+    path: autonómica/madrid/04_organizacion_escolar_y_funcionamiento/I2_7_2024_instrucciones_funcionamiento_casas_ninos_red_centros_publicos_madrid.md
+  norm-mad-ins-2024-001:
+    id: norm-mad-ins-2024-001
+    codigo_sintetizado: Instrucciones Funcionamiento Escuelas Infantiles Madrid
+    titulo: Instrucciones de 2 de julio de 2024, de la Dirección General de Educación
+      Infantil, Primaria y Especial, sobre el funcionamiento de las escuelas infantiles
+      de la red de centros públicos de la Comunidad de Madrid a partir del curso escolar
+      2024-2025.
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Instrucción
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: pdf_oficial_interno
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Educación Infantil
+    tags:
+    - educacion-infantil
+    - escuelas-infantiles
+    - red-publica
+    - organizacion-escolar
+    - horarios-y-servicios
+    - primer-ciclo-infantil
+    path: autonómica/madrid/04_organizacion_escolar_y_funcionamiento/I2_7_2024_instrucciones_funcionamiento_escuelas_infantiles_centros_publicos_madrid.md
   norm-mad-o1227-2021-organizacion-funcionamiento-inspeccion-educacion-madrid:
     id: norm-mad-o1227-2021-organizacion-funcionamiento-inspeccion-educacion-madrid
     codigo_sintetizado: O1227 2021 Organizacion Funcionamiento Inspeccion Educacion
@@ -9170,6 +9308,29 @@ normas:
     - admision
     - madrid
     path: autonómica/madrid/05_alumnado_y_servicios_escolares/D29_2013_libertad_eleccion_centro_escolar_madrid.md
+  norm-mad-ins-2026-004:
+    id: norm-mad-ins-2026-004
+    codigo_sintetizado: Instrucciones Admision Grado Basico CEPA 2026-2027 Madrid
+    titulo: Instrucciones de 17 de julio de 2026, de la Dirección General de Educación
+      Secundaria, Formación Profesional y Régimen Especial, relativas al acceso y
+      admisión de alumnos para cursar Ciclos Formativos de Grado Básico en Centros
+      Públicos de Educación de Personas Adultas curso 2026-2027.
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Instrucción
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: pdf_oficial_interno
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión del alumnado
+    tags:
+    - admision-alumnado
+    - formacion-profesional-basica
+    - grado-basico
+    - cepa
+    - educacion-de-adultos
+    - requisitos-acceso
+    path: autonómica/madrid/05_alumnado_y_servicios_escolares/I17_7_2026_acceso_admision_grado_basico_centros_educacion_personas_adultas_madrid.md
   norm-mad-o123-2015:
     id: norm-mad-o123-2015
     codigo_sintetizado: ''
@@ -9549,6 +9710,28 @@ normas:
     - atencion_a_la_diversidad
     - comunidad_de_madrid
     path: autonómica/madrid/06_atencion_diversidad_y_orientacion/D243_2023_creacion_centro_regional_enriquecimiento_educativo_altas_capacidades_madrid.md
+  norm-mad-ins-2026-005:
+    id: norm-mad-ins-2026-005
+    codigo_sintetizado: Instrucciones Aulas Compensacion Educativa 2026-2027 Madrid
+    titulo: Instrucciones de 18 de mayo de 2026, de la Dirección General de Educación
+      Secundaria, Formación Profesional y Régimen Especial, por las que se regula
+      el procedimiento de incorporación de los alumnos a las Aulas de Compensación
+      Educativa (ACE) de la Comunidad de Madrid para el curso 2026-2027.
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Instrucción
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: pdf_oficial_interno
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Compensación educativa
+    tags:
+    - aulas-de-compensacion-educativa
+    - compensacion-educativa
+    - atencion-a-la-diversidad
+    - prevencion-abandono-escolar
+    - orientacion-educativa
+    path: autonómica/madrid/06_atencion_diversidad_y_orientacion/I18_5_2026_procedimiento_incorporacion_alumnos_aulas_compensacion_educativa_madrid.md
   norm-mad-o22-8-2026-desdoblamiento-eoep-navalcarnero-sectorizacion-madrid-sur:
     id: norm-mad-o22-8-2026-desdoblamiento-eoep-navalcarnero-sectorizacion-madrid-sur
     codigo_sintetizado: ''
@@ -9616,6 +9799,26 @@ normas:
     - diversidad
     - madrid
     path: autonómica/madrid/06_atencion_diversidad_y_orientacion/O547_2019_actuaciones_apoyo_educativo_centros_concertados_madrid.md
+  norm-mad-res-2025-001:
+    id: norm-mad-res-2025-001
+    codigo_sintetizado: Protocolo Atencion Temprana Madrid
+    titulo: Protocolo marco de coordinación de Atención Temprana de la Comunidad de
+      Madrid (diciembre de 2025).
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: pdf_oficial_interno
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Atención a la diversidad
+    tags:
+    - atencion-temprana
+    - necesidades-educativas-especiales
+    - orientacion-educativa
+    - coordinacion-interinstitucional
+    - educacion-infantil
+    path: autonómica/madrid/06_atencion_diversidad_y_orientacion/R11_12_2025_protocolo_coordinacion_atencion_temprana_comunidad_madrid.md
   norm-mad-r15-12-2023-instrucciones-admision-alumnos-acnee-centros-ordinarios-educacion-especial-madrid:
     id: norm-mad-r15-12-2023-instrucciones-admision-alumnos-acnee-centros-ordinarios-educacion-especial-madrid
     codigo_sintetizado: R15 12 2023 Instrucciones Admision Alumnos Acnee Centros Ordinarios
@@ -10074,6 +10277,29 @@ normas:
     - funcionarios_docentes
     - madrid
     path: autonómica/madrid/08_personal_docente/R26_3_2026_convocatoria_licencias_estudios_retribuidas_docentes_madrid.md
+  norm-mad-res-2026-bocm186-6:
+    id: norm-mad-res-2026-bocm186-6
+    codigo_sintetizado: Resolucion Fase Practicas Maestros 2026 Madrid
+    titulo: Resolución de 27 de julio de 2026, de la Dirección General de Recursos
+      Humanos, por la que se regula la fase de prácticas de los aspirantes seleccionados
+      en los procedimientos selectivos para ingreso en el Cuerpo de Maestros (BOCM
+      n.º 186, de 5 de agosto de 2026).
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: pdf_oficial_bocm
+    categoria_canonica: 08_personal_docente
+    subcategoria: Fase de prácticas
+    tags:
+    - personal-docente
+    - cuerpo-de-maestros
+    - fase-de-practicas
+    - oposiciones-docentes
+    - tutor-de-practicas
+    - evaluacion-docente
+    path: autonómica/madrid/08_personal_docente/R27_7_2026_regula_fase_practicas_aspirantes_cuerpo_maestros_madrid.md
   norm-mad-d43-2022:
     id: norm-mad-d43-2022
     codigo_sintetizado: ''
