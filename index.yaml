@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 626
+total_normas: 633
 normas:
   norm-and-d154-2022:
     id: norm-and-d154-2022
@@ -8011,6 +8011,27 @@ normas:
     - direcciones_generales
     - madrid
     path: autonómica/madrid/01_marco_normativo_general_y_organico/D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md
+  norm-mad-d-28-2024:
+    id: norm-mad-d-28-2024
+    codigo_sintetizado: D28_2024 Modificacion Estructura Organica Consejeria Educacion
+    titulo: Decreto 28/2024, de 24 de abril, del Consejo de Gobierno, por el que se
+      modifica el Decreto 248/2023, de 11 de octubre, del Consejo de Gobierno, por
+      el que se establece la estructura orgánica de la Consejería de Educación, Ciencia
+      y Universidades
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2024-04-25'
+    estado: Vigente
+    redaccion: pdf_oficial_bocm
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Estructura orgánica de la Consejería
+    tags:
+    - estructura_organica
+    - consejeria_educacion_ciencia_universidades
+    - organizacion_administrativa
+    - comunidad_de_madrid
+    path: autonómica/madrid/01_marco_normativo_general_y_organico/D28_2024_modificacion_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md
   norm-mad-d-52-2021:
     id: norm-mad-d-52-2021
     codigo_sintetizado: D52_2021 Procedimiento Elaboracion Disposiciones Normativas
@@ -8698,6 +8719,27 @@ normas:
     - actividades_complementarias
     - comunidad_de_madrid
     path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/D95_2025_creacion_programa_educativo_actividades_artisticas_madrid.md
+  norm-mad-d-9-2025:
+    id: norm-mad-d-9-2025
+    codigo_sintetizado: D9_2025 Planes de Estudio FP Grado Basico Madrid
+    titulo: Decreto 9/2025, de 26 de marzo, del Consejo de Gobierno, por el que se
+      establecen para la Comunidad de Madrid los planes de estudio de veinticinco
+      títulos de formación profesional de grado básico
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2025-03-31'
+    estado: Vigente
+    redaccion: pdf_oficial_bocm
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - fp_grado_basico
+    - planes_de_estudio
+    - curriculo_fp
+    - formacion_profesional
+    - comunidad_de_madrid
+    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/D9_2025_planes_estudio_titulos_formacion_profesional_grado_basico_madrid.md
   norm-mad-ins-2026-002:
     id: norm-mad-ins-2026-002
     codigo_sintetizado: Instrucciones Bachillerato Adultos 2026-2027 Madrid
@@ -8879,6 +8921,28 @@ normas:
     - atencion_a_la_diversidad
     - comunidad_de_madrid
     path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/O190_2023_diversificacion_curricular_eso_madrid.md
+  norm-mad-o-2034-2023:
+    id: norm-mad-o-2034-2023
+    codigo_sintetizado: O2034_2023 Bachillerato Personas Adultas Madrid
+    titulo: Orden 2034/2023, de 9 de junio, de la Vicepresidencia, Consejería de Educación
+      y Universidades, por la que se regula la organización y el funcionamiento del
+      Bachillerato para personas adultas en los centros docentes sostenidos con fondos
+      públicos de la Comunidad de Madrid
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2023-06-19'
+    estado: Vigente
+    redaccion: pdf_oficial_bocm
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Bachillerato
+    tags:
+    - bachillerato
+    - personas_adultas
+    - educacion_de_adultos
+    - organizacion_escolar
+    - comunidad_de_madrid
+    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/O2034_2023_organizacion_funcionamiento_bachillerato_personas_adultas_madrid.md
   norm-mad-o2067-2023:
     id: norm-mad-o2067-2023
     codigo_sintetizado: ''
@@ -8919,6 +8983,27 @@ normas:
     - titulacion
     - madrid
     path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/O2356_2023_organizacion_evaluacion_bachillerato_madrid.md
+  norm-mad-o-2367-2025:
+    id: norm-mad-o-2367-2025
+    codigo_sintetizado: O2367_2025 Pruebas Titulo Bachiller Mayores Veinte Años Madrid
+    titulo: Orden 2367/2025, de 2 de julio, de la Consejería de Educación, Ciencia
+      y Universidades, por la que se regulan las pruebas para la obtención del título
+      de Bachiller para personas mayores de veinte años en la Comunidad de Madrid
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2025-07-16'
+    estado: Vigente
+    redaccion: pdf_oficial_bocm
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Pruebas de acceso y certificación
+    tags:
+    - pruebas_libres
+    - bachillerato
+    - personas_adultas
+    - obtencion_titulo_bachiller
+    - comunidad_de_madrid
+    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/O2367_2025_regulacion_pruebas_obtencion_titulo_bachiller_mayores_veinte_anos_madrid.md
   norm-mad-o2414-2019-organizacion-funcionamiento-evaluacion-ensenanzas-idiomas-eoi-madrid:
     id: norm-mad-o2414-2019-organizacion-funcionamiento-evaluacion-ensenanzas-idiomas-eoi-madrid
     codigo_sintetizado: O2414 2019 Organizacion Funcionamiento Evaluacion Ensenanzas
@@ -9587,6 +9672,29 @@ normas:
     - modulos_transversales
     - madrid
     path: autonómica/madrid/04_organizacion_escolar_y_funcionamiento/O3537_2025_curriculo_modulos_transversales_formacion_profesional_madrid.md
+  norm-mad-o-502-2013:
+    id: norm-mad-o-502-2013
+    codigo_sintetizado: O502_2013 Procedimiento Implantacion Jornada Escolar Continuada
+      Madrid
+    titulo: Orden 502/2013, de 25 de febrero, de la Consejería de Educación, Juventud
+      y Deporte, por la que se regula el procedimiento para la implantación de la
+      jornada escolar continuada en los centros que imparten segundo ciclo de Educación
+      Infantil y Educación Primaria en la Comunidad de Madrid
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2013-03-05'
+    estado: Vigente
+    redaccion: pdf_oficial_bocm
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Jornada escolar y calendarios
+    tags:
+    - jornada_escolar
+    - jornada_continuada
+    - educacion_infantil
+    - educacion_primaria
+    - comunidad_de_madrid
+    path: autonómica/madrid/04_organizacion_escolar_y_funcionamiento/O502_2013_procedimiento_implantacion_jornada_escolar_continuada_infantil_primaria_madrid.md
   norm-mad-o732-2021-desarrollo-decreto-inspeccion-educativa-madrid:
     id: norm-mad-o732-2021-desarrollo-decreto-inspeccion-educativa-madrid
     codigo_sintetizado: Desarrollo De La Organizacion Y Funcionamiento De La Inspeccion
@@ -10129,7 +10237,7 @@ normas:
     - calendario_escolar
     - baremo
     - comunidad_de_madrid
-    path: autonómica/madrid/05_alumnado_y_servicios_escolares/R9_12_2025_instrucciones_admision_alumnado_curso_escolar_madrid.md
+    path: autonómica/madrid/05_alumnado_y_servicios_escolares/R2_12_2025_instrucciones_admision_alumnado_curso_escolar_madrid.md
   norm-mad-d23-2023:
     id: norm-mad-d23-2023
     codigo_sintetizado: ''
@@ -10171,6 +10279,27 @@ normas:
     - atencion_a_la_diversidad
     - comunidad_de_madrid
     path: autonómica/madrid/06_atencion_diversidad_y_orientacion/D243_2023_creacion_centro_regional_enriquecimiento_educativo_altas_capacidades_madrid.md
+  norm-mad-d-46-2015:
+    id: norm-mad-d-46-2015
+    codigo_sintetizado: D46_2015 Coordinacion Prestacion Atencion Temprana Madrid
+    titulo: Decreto 46/2015, de 7 de mayo, del Consejo de Gobierno, por el que se
+      regula la coordinación en la prestación de la atención temprana en la Comunidad
+      de Madrid
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2015-05-11'
+    estado: Vigente
+    redaccion: pdf_oficial_bocm
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Atención temprana y necesidades específicas
+    tags:
+    - atencion_temprana
+    - coordinacion_interadministrativa
+    - necesidades_educativas_especiales
+    - crecovi
+    - comunidad_de_madrid
+    path: autonómica/madrid/06_atencion_diversidad_y_orientacion/D46_2015_coordinacion_prestacion_atencion_temprana_comunidad_madrid.md
   norm-mad-ins-2026-005:
     id: norm-mad-ins-2026-005
     codigo_sintetizado: Instrucciones Aulas Compensacion Educativa 2026-2027 Madrid
@@ -10238,6 +10367,28 @@ normas:
     - psicopedagogicos
     - madrid
     path: autonómica/madrid/06_atencion_diversidad_y_orientacion/O2642_2020_creacion_equipos_orientacion_educativa_madrid.md
+  norm-mad-o-2743-2023:
+    id: norm-mad-o-2743-2023
+    codigo_sintetizado: O2743_2023 Organizacion Funcionamiento EOEP Madrid
+    titulo: Orden 2743/2023, de 26 de julio, de la Consejería de Educación, Ciencia
+      y Universidades, por la que se establece la organización y el funcionamiento
+      de los Equipos de Orientación Educativa y Psicopedagógica de la Comunidad de
+      Madrid
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2023-08-09'
+    estado: Vigente
+    redaccion: pdf_oficial_bocm
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Orientación educativa
+    tags:
+    - eoep
+    - orientacion_educativa
+    - atencion_a_la_diversidad
+    - sectorizacion_orientacion
+    - comunidad_de_madrid
+    path: autonómica/madrid/06_atencion_diversidad_y_orientacion/O2743_2023_organizacion_funcionamiento_equipos_orientacion_educativa_psicopedagogica_madrid.md
   norm-mad-o547-2019-actuaciones-apoyo-educativo-centros-concertados-madrid:
     id: norm-mad-o547-2019-actuaciones-apoyo-educativo-centros-concertados-madrid
     codigo_sintetizado: O547 2019 Actuaciones Apoyo Educativo Centros Concertados
@@ -43419,6 +43570,9 @@ relaciones_grafo:
 - origen: norm-mad-d248-2023
   tipo: fundamentado_en
   destino: norm-es-l-40-2015
+- origen: norm-mad-d-28-2024
+  tipo: modifica
+  destino: norm-mad-d248-2023
 - origen: norm-mad-d-52-2021
   tipo: fundamentado_en
   destino: norm-es-l-39-2015
@@ -46048,6 +46202,9 @@ relaciones_grafo:
 - origen: norm-mad-d-88-2021
   tipo: desarrolla
   destino: norm-es-lo-2-2006
+- origen: norm-mad-d-9-2025
+  tipo: desarrolla
+  destino: norm-mad-d-27-2025
 - origen: norm-mad-o-1190-2021
   tipo: fundamentado_en
   destino: norm-es-l-39-2015
@@ -46394,6 +46551,9 @@ relaciones_grafo:
 - origen: norm-mad-o190-2023
   tipo: fundamentado_en
   destino: norm-es-l-39-2015
+- origen: norm-mad-o-2034-2023
+  tipo: fundamenta
+  destino: norm-mad-i-29-07-2026-bachillerato-personas-adultas
 - origen: norm-mad-o2067-2023
   tipo: cita
   destino: norm-es-1984-17387
@@ -46426,6 +46586,9 @@ relaciones_grafo:
 - origen: norm-mad-o2356-2023
   tipo: desarrolla
   destino: norm-es-lo-2-2006
+- origen: norm-mad-o-2367-2025
+  tipo: fundamenta
+  destino: norm-mad-r20-1-2026
 - origen: norm-mad-o-3814-2023
   tipo: fundamentado_en
   destino: norm-es-l-39-2015
@@ -47120,6 +47283,9 @@ relaciones_grafo:
 - origen: norm-mad-o3537-2025
   tipo: desarrolla
   destino: norm-es-lo-2-2006
+- origen: norm-mad-o-502-2013
+  tipo: desarrolla
+  destino: norm-mad-d94-2025
 - origen: norm-mad-o893-2022
   tipo: desarrolla
   destino: norm-es-l-39-2015
@@ -47830,6 +47996,12 @@ relaciones_grafo:
   titulo_origen: Título V
   articulos_origen:
   - D. Derogatoria única.
+- origen: norm-mad-d-46-2015
+  tipo: fundamenta
+  destino: norm-mad-r11-12-2025
+- origen: norm-mad-o-2743-2023
+  tipo: fundamenta
+  destino: norm-mad-o-2026-08-22-desdoblamiento-eoep-navalcarnero-sectorizacion-madrid-sur
 - origen: norm-mad-d32-2019
   tipo: modifica
   destino: norm-mad-d-35-2019
