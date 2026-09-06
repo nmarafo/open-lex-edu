@@ -28,7 +28,7 @@ Base de conocimiento estructurada basada en la especificación **Open Knowledge 
 | :--- | :--- | :---: | :---: | :---: |
 | **Estatal** | BOE (Legislación Consolidada) | **2026-09-05** | 145 normas | LOE-LOMLOE, FP, EOI (RD 1041/2017) y Reales Decretos 2025-2026 |
 | **Canarias** | BOC (Boletín Oficial de Canarias) / Juriscan | **2026-09-05** | 204 normas | Completa (Incorporación de leyes y decretos matrices por Fundamentos de Derecho: Adultos L13/2003, Diversidad D104/2010, EOI D142/2018, Interinos O9/8/2021, CEO D93/1999, CIFP D112/2011; Cursos 2025-2026 / 2026-2027) |
-| **Madrid** | BOCM / Portal de Legislación CM (WLEG) | **2026-09-03** | 112 normas | Completa (100% íntegra, Cimientos por Fundamentos de Derecho y vista OKF normalizada) |
+| **Madrid** | BOCM / Portal de Legislación CM (WLEG) | **2026-09-06** | 118 normas | Completa (100.0% íntegra, 0 incidencias, incorporación por Fundamentos de Derecho: FP D27/2025, Pruebas de acceso D187/2021, Artes plásticas D17/2023, Altas capacidades CREACIM D243/2023, Actividades artísticas D95/2025, Interinos R19/10/2023; Cursos 2025-2026 / 2026-2027) |
 | **Andalucía** | BOJA (Boletín Oficial de la Junta de Andalucía) | **2026-09-04** | 111 normas | Completa (100.0% íntegra, 0 incidencias, leyes matrices autonómicas y decretos estructurales, Vigente Cursos 2025-2026 / 2026-2027) |
 
 ---

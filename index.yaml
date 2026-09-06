@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 572
+total_normas: 578
 normas:
   norm-and-d154-2022:
     id: norm-and-d154-2022
@@ -28863,6 +28863,72 @@ normas:
     - segundo_ciclo_infantil
     - madrid
     path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/D17_2008_desarrollo_ensenanzas_educacion_infantil_madrid.md
+  norm-mad-d-17-2023:
+    id: norm-mad-d-17-2023
+    codigo_sintetizado: D17/2023
+    titulo: Decreto 17/2023, de 15 de marzo, del Consejo de Gobierno, por el que se
+      regula la ordenación y la organización general de las enseñanzas profesionales
+      de artes plásticas y diseño en la Comunidad de Madrid
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2023-03-21'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas artísticas
+    tags:
+    - artes_plasticas_y_diseno
+    - ensenanzas_artisticas
+    - ordenacion_academica
+    - ciclos_formativos
+    - comunidad_de_madrid
+    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/D17_2023_ordenacion_organizacion_ensenanzas_profesionales_artes_plasticas_diseno_madrid.md
+  norm-mad-d-187-2021:
+    id: norm-mad-d-187-2021
+    codigo_sintetizado: D187/2021
+    titulo: Decreto 187/2021, de 21 de julio, del Consejo de Gobierno, por el que
+      se regulan las pruebas de acceso a ciclos formativos de formación profesional
+      y a las enseñanzas profesionales de artes plásticas y diseño y la prueba sustitutiva
+      de los requisitos académicos para el acceso a las enseñanzas deportivas de régimen
+      especial y a las formaciones deportivas en período transitorio en la Comunidad
+      de Madrid
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2021-07-27'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Pruebas de acceso y certificación
+    tags:
+    - pruebas_de_acceso
+    - formacion_profesional
+    - artes_plasticas_y_diseno
+    - ensenanzas_deportivas
+    - comunidad_de_madrid
+    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md
+  norm-mad-d-27-2025:
+    id: norm-mad-d-27-2025
+    codigo_sintetizado: D27/2025
+    titulo: Decreto 27/2025, de 21 de mayo, del Consejo de Gobierno, por el que se
+      regula la ordenación y organización del Sistema de Formación Profesional de
+      la Comunidad de Madrid
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2025-05-22'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - formacion_profesional
+    - ordenacion_academica
+    - ciclos_formativos
+    - fp_dual
+    - comunidad_de_madrid
+    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/D27_2025_ordenacion_organizacion_sistema_formacion_profesional_madrid.md
   norm-mad-d-36-2022:
     id: norm-mad-d-36-2022
     codigo_sintetizado: D36_2022 Ordenacion y Curriculo Educacion Infantil Madrid
@@ -29804,6 +29870,26 @@ normas:
     - artes_aplicadas
     - madrid
     path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/D8_2014_curriculo_ciclos_artes_plasticas_diseno_madrid.md
+  norm-mad-d-95-2025:
+    id: norm-mad-d-95-2025
+    codigo_sintetizado: D95/2025
+    titulo: Decreto 95/2025, de 23 de diciembre, del Consejo de Gobierno, por el que
+      se crea el Programa Educativo de Actividades Artísticas de la Comunidad de Madrid
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2025-12-26'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas artísticas y actividades complementarias
+    tags:
+    - actividades_artisticas
+    - coro_ninos_jovenes
+    - agrupacion_percusion
+    - actividades_complementarias
+    - comunidad_de_madrid
+    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/D95_2025_creacion_programa_educativo_actividades_artisticas_madrid.md
   norm-mad-o-1190-2021:
     id: norm-mad-o-1190-2021
     codigo_sintetizado: O1190_2021 Bilinguismo Centros Concertados Madrid
@@ -32462,6 +32548,28 @@ normas:
         titulo_origen: Título V
         articulos_origen:
         - D. Derogatoria única.
+  norm-mad-d-243-2023:
+    id: norm-mad-d-243-2023
+    codigo_sintetizado: D243/2023
+    titulo: Decreto 243/2023, de 4 de octubre, del Consejo de Gobierno, por el que
+      se crea el Centro Regional de Enriquecimiento Educativo para el alumnado con
+      Altas Capacidades Intelectuales de la Comunidad de Madrid y se establece su
+      régimen jurídico y estructura
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2023-10-06'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Altas capacidades y programas específicos
+    tags:
+    - altas_capacidades
+    - creacim
+    - enriquecimiento_educativo
+    - atencion_a_la_diversidad
+    - comunidad_de_madrid
+    path: autonómica/madrid/06_atencion_diversidad_y_orientacion/D243_2023_creacion_centro_regional_enriquecimiento_educativo_altas_capacidades_madrid.md
   norm-mad-o2642-2020:
     id: norm-mad-o2642-2020
     codigo_sintetizado: O2642_2020 Creacion Equipos Orientacion Educativa Madrid
@@ -32981,6 +33089,29 @@ normas:
     - profesorado
     - madrid
     path: autonómica/madrid/08_personal_docente/R18_5_2018_manual_permisos_licencias_personal_funcionario_docente_madrid.md
+  norm-mad-r-19-10-2023:
+    id: norm-mad-r-19-10-2023
+    codigo_sintetizado: R19/10/2023
+    titulo: Resolución de 19 de octubre de 2023, de la Dirección General de Recursos
+      Humanos, por la que se establecen las bases reguladoras que han de regir las
+      convocatorias de listas extraordinarias permanentemente abiertas para la selección
+      de aspirantes a ocupar puestos docentes en régimen de interinidad en los centros
+      públicos de la Comunidad de Madrid
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: '2023-10-25'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 08_personal_docente
+    subcategoria: Selección, provisión e interinidades
+    tags:
+    - interinos_docentes
+    - listas_extraordinarias
+    - seleccion_docente
+    - recursos_humanos
+    - comunidad_de_madrid
+    path: autonómica/madrid/08_personal_docente/R19_10_2023_bases_convocatorias_listas_extraordinarias_interinos_docentes_madrid.md
   norm-mad-r22-1-2026-comisiones-servicio-centros-especial-dificultad-madrid:
     id: norm-mad-r22-1-2026-comisiones-servicio-centros-especial-dificultad-madrid
     codigo_sintetizado: R22 1 2026 Comisiones Servicio Centros Especial Dificultad
