@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 583
+total_normas: 586
 normas:
   norm-and-d154-2022:
     id: norm-and-d154-2022
@@ -23606,6 +23606,35 @@ normas:
       - norma_id: norm-es-lo-8-1985
       - norma_id: norm-es-2021-20113
       - norma_id: norm-es-2010-12201
+  norm-can-i-2026-08-31-organizacion-funcionamiento-personal-psicologia-educativa:
+    id: norm-can-i-2026-08-31-organizacion-funcionamiento-personal-psicologia-educativa
+    codigo_sintetizado: ''
+    titulo: Instrucciones de la Dirección General de Ordenación de las Enseñanzas,
+      Inclusión e Innovación, por las que se establecen las funciones y se determina
+      la organización y el funcionamiento del personal de psicología educativa, en
+      los centros educativos no universitarios sostenidos con fondos públicos de la
+      Comunidad Autónoma de Canarias durante el curso escolar 2026-2027.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Instrucción
+    fecha_publicacion: '2026-08-31'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Orientaciones y guías de actuación
+    tags:
+    - psicología educativa
+    - salud mental
+    - bienestar emocional
+    - prevención suicidio
+    - acoso escolar
+    - EOEP
+    - curso 2026-2027
+    path: autonómica/canarias/07_convivencia_bienestar_y_protocolos/I31_8_2026_funciones_organizacion_funcionamiento_personal_psicologia_educativa_canarias.md
+    relaciones:
+      fundamenta_en:
+      - norm-can-l-6-2014
+      - norm-can-d-114-2011
   norm-can-l-16-2003:
     id: norm-can-l-16-2003
     codigo_sintetizado: L16_2003 Prevencion y Proteccion de Mujeres contra la Violencia
@@ -24135,6 +24164,36 @@ normas:
       - norma_id: norm-es-2007-6115
       - norma_id: norm-es-2010-4518
       - norma_id: norm-can-d-212-1991
+  norm-can-r-2026-08-31-figura-coordinadora-bienestar-proteccion-alumnado:
+    id: norm-can-r-2026-08-31-figura-coordinadora-bienestar-proteccion-alumnado
+    codigo_sintetizado: ''
+    titulo: Resolución de la Dirección General de Ordenación de las Enseñanzas, Inclusión
+      e Innovación, por la que se aprueban las instrucciones para regular la labor
+      de la figura coordinadora para el bienestar y la protección del alumnado, para
+      el curso 2026-2027, en los centros educativos no universitarios sostenidos con
+      fondos públicos de la Comunidad Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: '2026-08-31'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Protocolos de actuación y protección
+    tags:
+    - bienestar infantil
+    - protección del menor
+    - coordinador de bienestar
+    - acoso escolar
+    - convivencia escolar
+    - LOPIVI
+    - curso 2026-2027
+    path: autonómica/canarias/07_convivencia_bienestar_y_protocolos/R31_8_2026_instrucciones_figura_coordinadora_bienestar_proteccion_alumnado_canarias.md
+    relaciones:
+      fundamenta_en:
+      - norm-est-lo-8-2021
+      - norm-can-l-6-2014
+      - norm-can-d-114-2011
   norm-can-d-2026-120-competencia-digital-docente:
     id: norm-can-d-2026-120-competencia-digital-docente
     codigo_sintetizado: D120_2026 Competencia Digital Docente Canarias
@@ -25566,6 +25625,34 @@ normas:
       - norma_id: norm-can-d-84-2024
       - norma_id: norm-es-l-39-2015
       - norma_id: norm-can-res-boc-2022-158-132
+  norm-can-r-2026-09-02-regulacion-fase-practica-cuerpo-maestros:
+    id: norm-can-r-2026-09-02-regulacion-fase-practica-cuerpo-maestros
+    codigo_sintetizado: ''
+    titulo: Resolución de la Dirección General de Personal y Formación del Profesorado
+      de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes
+      del Gobierno de Canarias por la que se establece la fase práctica del procedimiento
+      selectivo para el ingreso en el Cuerpo de Maestros convocado por la Orden de
+      18 de marzo de 2026, y se establecen las disposiciones para garantizar su desarrollo.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: '2026-09-02'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 08_personal_docente
+    subcategoria: Fase de prácticas
+    tags:
+    - fase de prácticas
+    - cuerpo de maestros
+    - procedimiento selectivo
+    - evaluación docente
+    - profesor tutor
+    - curso 2026-2027
+    path: autonómica/canarias/08_personal_docente/R2_9_2026_regulacion_fase_practica_cuerpo_maestros_canarias.md
+    relaciones:
+      fundamenta_en:
+      - norm-est-rd-276-2007
+      - norm-can-l-6-2014
   norm-can-res-134:
     id: norm-can-res-134
     codigo_sintetizado: Resolucion BOC 134
